@@ -33,9 +33,12 @@ def get_FEN_vocab():
             # Parcours chaque caractère dans la notation FEN
             for car in FEN:
                 # Ajoute le caractère au vocabulaire FEN
-                FEN_vocab.add(car)  
-    # Convertit l'ensemble en liste et retourne le vocabulaire FEN
-    return list(FEN_vocab)
-# Affiche le vocabulaire FEN
-
-print(get_FEN_vocab())
+                FEN_vocab.add(car)      
+    # Convertit FEN_vocab en une liste
+    FEN_vocab = list(FEN_vocab)
+    # Ajoute "<end>" au début de la liste
+    FEN_vocab.insert(0, "<end>")
+    # Insère "<start>" au début de la liste
+    FEN_vocab.insert(0, "<start>")
+    # Renvoie FEN_vocab
+    return FEN_vocab
