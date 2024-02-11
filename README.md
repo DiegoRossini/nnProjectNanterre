@@ -23,7 +23,14 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     Ce script télécharge localement le modèle BART "facebook/bart-large" et son Tokenizer.
 
 4. **pre_processing.py**  
-    Ce script renvoie actuellement en sortie uniquement le vocabulaire de la notation FEN (au niveau des caractères).
+    Ce script contient :
+    - Une fonction qui renvoie le chemin du dossier contenant les csv des matchs (find_corpus_folder) ;
+    - Une fonction qui renvoie, pour une notation FEN en entrée, une notation FEN encodée (encode_fen) ;
+    - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment).
 
 5. **model_test_1.py**  
     Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. Pour le moment, la génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
+
+6. **model_test_2.py**
+    ...Work in progress...
+    Tentafin de fine-tuning de BART avec X = FENs et y = commentaire. Script incomplet.
