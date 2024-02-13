@@ -1,6 +1,7 @@
 # Téléchargement du modèle BART et de son tokeniseur
-from download_BART_model import download_model
-model, tokenizer = download_model()
+from download_BART_model import download_model, download_tokenizer
+# model = download_model()
+tokenizer = download_tokenizer()
 
 
 
@@ -204,8 +205,68 @@ def encode_comment(comment):
     return encoded_comment
 
 
-encoded_comment = encode_comment("at this level of play, I learned not to trust dxc5, Qa5+ anymore... the upcoming Nc3, will always force d6; so we better prepare for that...")
-print(encoded_comment)
+# encoded_comment = encode_comment("at this level of play, I learned not to trust dxc5, Qa5+ anymore... the upcoming Nc3, will always force d6; so we better prepare for that...")
+# print(encoded_comment)
 
-encoded_fen = encode_fen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
-print(encoded_fen)
+# encoded_fen = encode_fen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
+# print(encoded_fen)
+
+def get_uci_vocab():
+
+    # Détermine le chemin du corpus
+    corpus_path = find_corpus_folder(directory='corpus_csv')
+
+    # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
+    corpus_path = corpus_path + "/*.csv"
+
+    # Initialise le vocabulaire FEN comme un ensemble pour éviter les doublons
+    uci_vocab = set()
+
+    # Parcours tous les fichiers CSV dans le corpus
+    for csv_match_path in glob.glob(corpus_path):
+
+        # Charge le fichier CSV dans un DataFrame pandas
+        df = pd.read_csv(csv_match_path)  
+
+        # Parcours toutes les notations uci dans la colonne 'uci_notation'
+        for uci in df['UCI_notation']:
+
+            # Parcours chaque mouvement dans la notation uci (donc deux caractères par deux caractères)
+            case_depart = uci[:2]
+            case_fin = uci[2:4] 
+
+            # Ajoute le mouvement au vocabulaire uci
+            uci_vocab.add(case_depart)      
+            uci_vocab.add(case_fin)      
+
+    # Convertit FEN_vocab en une liste
+    uci_vocab = list(uci_vocab)
+
+    # Ajoute "<end>" au début de la liste
+    uci_vocab.insert(0, "<end_uci>")
+
+    # Insère "<start>" au début de la liste
+    uci_vocab.insert(0, "<start_uci>")
+
+    return uci_vocab
+
+
+def encode_uci(input_uci):
+
+    # On obtient le vocabulaire de la notation FEN
+    uci_vocab = get_uci_vocab()
+
+    # Ajout des caractères du vocabulaire uci à l'objet tokenizer
+    tokenizer.add_tokens(uci_vocab)
+
+    # On tokenise la notation au niveau du caractère
+    tokenized_uci = [input_uci[:2], input_uci[2:4]]
+
+    # On encode la notation uci avec le tokeniseur
+    encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
+
+    # L'output est une séquence d'integers en tensor
+    return encoded_uci
+
+encoded_uci = encode_uci("e2e4")
+print(encoded_uci)
