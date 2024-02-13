@@ -4,7 +4,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 
 **----Travail en cours----**
 
-**Objectif actuel** : construire un modèle capable de générer un commentaire pertinent à partir d'un mouvement d'échecs en notation FEN passé en entrée.
+**Objectif actuel** : construire un modèle capable de générer un commentaire pertinent à partir d'un mouvement d'échecs en notation FEN passée en entrée.
 
 **Ordre de lancement des scripts (pour le moment)** :
 
@@ -26,11 +26,12 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     Ce script contient :
     - Une fonction qui renvoie le chemin du dossier contenant les csv des matchs (find_corpus_folder) ;
     - Une fonction qui renvoie, pour une notation FEN en entrée, une notation FEN encodée (encode_fen) ;
-    - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment).
+    - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment) ;
+    - Une fonction qui renvoie, pour une notation UCI en entrée, une notation UCI encodée (encoded_uci).
 
 5. **model_test_1.py**  
     Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. Pour le moment, la génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
 
 6. **model_test_2.py**
     ...Work in progress...
-    Tentafin de fine-tuning de BART avec X = FENs et y = commentaire. Script incomplet.
+    Tentative de fine-tuning de BART avec X = FEN et y = commentaire. Script incomplet.
