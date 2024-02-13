@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,More usual is 9...a6
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,More usual is 9...a6
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,More usual is 9...a6
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,More usual is 9...a6
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,More usual is 9...a6
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,More usual is 9...a6
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,More usual is 9...a6
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,More usual is 9...a6
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,More usual is 9...a6
+10,d6,d7d6,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,More usual is 9...a6
+11,f3,f2f3,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6,More usual is 9...a6
+12,e5,e7e5,r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N2P2/PPP3PP/R1BQKB1R w KQkq - 0 7,More usual is 9...a6
+13,Nb3,d4b3,r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/1NN2P2/PPP3PP/R1BQKB1R b KQkq - 1 7,More usual is 9...a6
+14,Be7,f8e7,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/1NN2P2/PPP3PP/R1BQKB1R w KQkq - 2 8,More usual is 9...a6
+15,Be3,c1e3,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 3 8,More usual is 9...a6
+16,O-O,e8g8,r1bq1rk1/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R w KQ - 4 9,More usual is 9...a6
+17,Qd2,d1d2,r1bq1rk1/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQ - 5 9,More usual is 9...a6
+18,a5,a7a5,r1bq1rk1/1p2bppp/2np1n2/p3p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R w KQ - 0 10,More usual is 9...a6
+19,Na4,c3a4,r1bq1rk1/1p2bppp/2np1n2/p3p3/N3P3/1N2BP2/PPPQ2PP/R3KB1R b KQ - 1 10,Not only to blockade the pawn but to penetrate into the holes in White's queenside. 10. Bb5 is most often played here.
+20,Nd7,f6d7,r1bq1rk1/1p1nbppp/2np4/p3p3/N3P3/1N2BP2/PPPQ2PP/R3KB1R w KQ - 2 11,"Black wants to play 11...b6, but his pieces become awkwardly placed in the queenside."
+21,O-O-O,e1c1,r1bq1rk1/1p1nbppp/2np4/p3p3/N3P3/1N2BP2/PPPQ2PP/2KR1B1R b - - 3 11,His problem is how to develop the light-squared bishop.
+22,b6,b7b6,r1bq1rk1/3nbppp/1pnp4/p3p3/N3P3/1N2BP2/PPPQ2PP/2KR1B1R w - - 0 12,His problem is how to develop the light-squared bishop.
+23,Bb5,f1b5,r1bq1rk1/3nbppp/1pnp4/pB2p3/N3P3/1N2BP2/PPPQ2PP/2KR3R b - - 1 12,White already has a strong initiative.
+24,Bb7,c8b7,r2q1rk1/1b1nbppp/1pnp4/pB2p3/N3P3/1N2BP2/PPPQ2PP/2KR3R w - - 2 13,Better would have been 12...Qc7 13. Qf2 Rb8. Then White could have chosen between tightening his grip on the queen file by 14. Rd3 and Rhd1 later or initiating a Kingside pawn-storm with 14. h4 and 15. g4. But now the b-pawn is lost.
+25,Qf2,d2f2,r2q1rk1/1b1nbppp/1pnp4/pB2p3/N3P3/1N2BP2/PPP2QPP/2KR3R b - - 3 13,"At least, he is able to dispatch one of the knights."
+26,Nc5,d7c5,r2q1rk1/1b2bppp/1pnp4/pBn1p3/N3P3/1N2BP2/PPP2QPP/2KR3R w - - 4 14,"At least, he is able to dispatch one of the knights."
+27,Naxc5,a4c5,r2q1rk1/1b2bppp/1pnp4/pBN1p3/4P3/1N2BP2/PPP2QPP/2KR3R b - - 0 14,White must keep this knight because it is destined for great things.
+28,bxc5,b6c5,r2q1rk1/1b2bppp/2np4/pBp1p3/4P3/1N2BP2/PPP2QPP/2KR3R w - - 0 15,White must keep this knight because it is destined for great things.
+29,Nxc5,b3c5,r2q1rk1/1b2bppp/2np4/pBN1p3/4P3/4BP2/PPP2QPP/2KR3R b - - 0 15,White must keep this knight because it is destined for great things.
+30,Qc7,d8c7,r4rk1/1bq1bppp/2np4/pBN1p3/4P3/4BP2/PPP2QPP/2KR3R w - - 1 16,White must keep this knight because it is destined for great things.
+31,Na4,c5a4,r4rk1/1bq1bppp/2np4/pB2p3/N3P3/4BP2/PPP2QPP/2KR3R b - - 2 16,White must keep this knight because it is destined for great things.
+32,Ba6,b7a6,r4rk1/2q1bppp/b1np4/pB2p3/N3P3/4BP2/PPP2QPP/2KR3R w - - 3 17,White sees correctly that it is of more value to exchange Black's knight rather than his light-squared bishop which will remain inert at the sides.
+33,Bxc6,b5c6,r4rk1/2q1bppp/b1Bp4/p3p3/N3P3/4BP2/PPP2QPP/2KR3R b - - 0 17,White sees correctly that it is of more value to exchange Black's knight rather than his light-squared bishop which will remain inert at the sides.
+34,Qxc6,c7c6,r4rk1/4bppp/b1qp4/p3p3/N3P3/4BP2/PPP2QPP/2KR3R w - - 0 18,To tighten the grip on the d-file.
+35,Nb6,a4b6,r4rk1/4bppp/bNqp4/p3p3/4P3/4BP2/PPP2QPP/2KR3R b - - 1 18,To tighten the grip on the d-file.
+36,Rab8,a8b8,1r3rk1/4bppp/bNqp4/p3p3/4P3/4BP2/PPP2QPP/2KR3R w - - 2 19,To tighten the grip on the d-file.
+37,Rd2,d1d2,1r3rk1/4bppp/bNqp4/p3p3/4P3/4BP2/PPPR1QPP/2K4R b - - 3 19,To tighten the grip on the d-file.
+38,Rb7,b8b7,5rk1/1r2bppp/bNqp4/p3p3/4P3/4BP2/PPPR1QPP/2K4R w - - 4 20,Black concentrates on his own half-open file.
+39,b3,b2b3,5rk1/1r2bppp/bNqp4/p3p3/4P3/1P2BP2/P1PR1QPP/2K4R b - - 0 20,Since the knight must move.
+40,Rfb8,f8b8,1r4k1/1r2bppp/bNqp4/p3p3/4P3/1P2BP2/P1PR1QPP/2K4R w - - 1 21,"Disdains the exchange of the bishop, but 21...Bf8 was preferable."
+41,Nd5,b6d5,1r4k1/1r2bppp/b1qp4/p2Np3/4P3/1P2BP2/P1PR1QPP/2K4R b - - 2 21,"Disdains the exchange of the bishop, but 21...Bf8 was preferable."
+42,Bd8,e7d8,1r1b2k1/1r3ppp/b1qp4/p2Np3/4P3/1P2BP2/P1PR1QPP/2K4R w - - 3 22,"Disdains the exchange of the bishop, but 21...Bf8 was preferable."
+43,Rhd1,h1d1,1r1b2k1/1r3ppp/b1qp4/p2Np3/4P3/1P2BP2/P1PR1QPP/2KR4 b - - 4 22,"Intent on the attack, he has left his King to his own devices."
+44,a4,a5a4,1r1b2k1/1r3ppp/b1qp4/3Np3/p3P3/1P2BP2/P1PR1QPP/2KR4 w - - 0 23,"Intent on the attack, he has left his King to his own devices."
+45,b4,b3b4,1r1b2k1/1r3ppp/b1qp4/3Np3/pP2P3/4BP2/P1PR1QPP/2KR4 b - - 0 23,"Intent on the attack, he has left his King to his own devices."
+46,Ba5,d8a5,1r4k1/1r3ppp/b1qp4/b2Np3/pP2P3/4BP2/P1PR1QPP/2KR4 w - - 1 24,"Intent on the attack, he has left his King to his own devices."
+47,Nf6+,d5f6,1r4k1/1r3ppp/b1qp1N2/b3p3/pP2P3/4BP2/P1PR1QPP/2KR4 b - - 2 24,"The Sudden Stroke! quite unexpected to Black. Aside from the text, I also looked at 24. Ba7 which also wins against all defences:
+A. 24...Rxb4 25. Nxb4 (25. Bxb8 Rb7 <to protect against 26. Ne7 > 26. Ba7 Qb5 27. Bb6 Bxb6 28. Nxb6 Rxb6 29. Qxb6 Qxb6 30. Rxd6 Qxd6 31. Rxd6) 25...Rxb4 (25...Bxb4 26. Bxb8 Bxd2  27. Qxd2  -) 26. Rxd6 Qc8 27. Bb6 Bxb6 28. Qxb6 wins.
+B. 24...Bxb4 25. Ne7  (25. Nxb4 Rxb4 26. Bxb8 Qb5 would not do for White) 25...Rxe7 (25...Kf8 26. Nxc6 <26. Bxb8 Qc3> 26...Bc3 27. Bb6 <27. Nxb8 Bb2  draws> 27...Rxb6 28 Qxb6 Rxb6 29. Rxd6 Bb2  30. Kd2) 
+26. Bxb8 Bxd2  27. Qxd2 wins
+C. 24...Ra8 (or 24...Rc8) 25. bxa5 Qb5 26. Bb6 and the file is neutralized.
+
+But the text is not only prettier it is the most direct way to expose the most crucial aspect of the position."
+48,Kh8,g8h8,1r5k/1r3ppp/b1qp1N2/b3p3/pP2P3/4BP2/P1PR1QPP/2KR4 w - - 3 25,"There was also:
+A. 24...gxf6 25. Bh6 Kh8 26. Qg3 (necessary to draw the rook away from the b-file) 26...Rg8 27. Qh4 d5 (27...Rg6 28. Rxd6) 28. Rxd5
+Now, a. 28...Bc7 (or 28...Bxb4) 29. Rd6; 
+         b. 28...Bd8 29. Rxd8
+         c. 28...Rg6 29. Rd8  Bxd8 30. Rxd8  Rg8 31. Qg3
+         d. 28...Rc7 (threatening mate) 29. Rc5 Qe6 30. Rxa5 Bb7 31. b5 wins
+         e. 28...Qe6 29. bxa5; if 29...Rc8 30. Rd6 Qe7 31. Rd7 Qe6 32. R1d6. 
+                           Or if 29...Bb7 30. Rd8 Rb8 31. Qg3;
+                           And if 29...f5 30. Rd6
+B. 24...Kf8 25. Rxd6 Qb5 26. Bc5 Re7 27. Rd7 (or 27. Nd7  Ke8 28. Nxb8 wins material) 27...gxf6 (27...Bxb4 28. Rd8 ) 28. Rxe7 Kg7 29. Qg3  Kh8 (29...Kf8 loses the queen, while 29...Kh6 30. Be3  Kh5 31. Qg4#) 30. Rxf7 Rg8 31. Rf8 Rxf8 32. Bxf8 Qb7 33. bxa5  wins"
+49,Qh4,f2h4,1r5k/1r3ppp/b1qp1N2/b3p3/pP2P2Q/4BP2/P1PR2PP/2KR4 b - - 4 25,
+50,h6,h7h6,1r5k/1r3pp1/b1qp1N1p/b3p3/pP2P2Q/4BP2/P1PR2PP/2KR4 w - - 0 26,
+51,Bxh6,e3h6,1r5k/1r3pp1/b1qp1N1B/b3p3/pP2P2Q/5P2/P1PR2PP/2KR4 b - - 0 26,

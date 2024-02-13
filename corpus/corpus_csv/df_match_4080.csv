@@ -1,0 +1,96 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The usual defence.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The usual defence.
+3,e5,e4e5,rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,The usual defence.
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3pPb2/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,The usual defence.
+5,d4,d2d4,rn1qkbnr/ppp1pppp/8/3pPb2/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,The usual defence.
+6,e6,e7e6,rn1qkbnr/ppp2ppp/4p3/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,The usual defence.
+7,h3,h2h3,rn1qkbnr/ppp2ppp/4p3/3pPb2/3P4/7P/PPP2PP1/RNBQKBNR b KQkq - 0 4,The usual defence.
+8,h5,h7h5,rn1qkbnr/ppp2pp1/4p3/3pPb1p/3P4/7P/PPP2PP1/RNBQKBNR w KQkq - 0 5,The usual defence.
+9,Nf3,g1f3,rn1qkbnr/ppp2pp1/4p3/3pPb1p/3P4/5N1P/PPP2PP1/RNBQKB1R b KQkq - 1 5,Allowing Bb4+.
+10,c5,c7c5,rn1qkbnr/pp3pp1/4p3/2ppPb1p/3P4/5N1P/PPP2PP1/RNBQKB1R w KQkq - 0 6,Allowing Bb4+.
+11,Bd3,f1d3,rn1qkbnr/pp3pp1/4p3/2ppPb1p/3P4/3B1N1P/PPP2PP1/RNBQK2R b KQkq - 1 6,A try.
+12,Bxd3,f5d3,rn1qkbnr/pp3pp1/4p3/2ppP2p/3P4/3b1N1P/PPP2PP1/RNBQK2R w KQkq - 0 7,A try.
+13,Qxd3,d1d3,rn1qkbnr/pp3pp1/4p3/2ppP2p/3P4/3Q1N1P/PPP2PP1/RNB1K2R b KQkq - 0 7,A try.
+14,Qa5+,d8a5,rn2kbnr/pp3pp1/4p3/q1ppP2p/3P4/3Q1N1P/PPP2PP1/RNB1K2R w KQkq - 1 8,A try.
+15,Bd2,c1d2,rn2kbnr/pp3pp1/4p3/q1ppP2p/3P4/3Q1N1P/PPPB1PP1/RN2K2R b KQkq - 2 8,"I'm not sure this was good for black, but anyway..."
+16,Qb6,a5b6,rn2kbnr/pp3pp1/1q2p3/2ppP2p/3P4/3Q1N1P/PPPB1PP1/RN2K2R w KQkq - 3 9,"I'm not sure this was good for black, but anyway..."
+17,b3,b2b3,rn2kbnr/pp3pp1/1q2p3/2ppP2p/3P4/1P1Q1N1P/P1PB1PP1/RN2K2R b KQkq - 0 9,"I'm not sure this was good for black, but anyway..."
+18,cxd4,c5d4,rn2kbnr/pp3pp1/1q2p3/3pP2p/3p4/1P1Q1N1P/P1PB1PP1/RN2K2R w KQkq - 0 10,"Second try. The logical Bc5 was good, I don't know this one."
+19,Nxd4,f3d4,rn2kbnr/pp3pp1/1q2p3/3pP2p/3N4/1P1Q3P/P1PB1PP1/RN2K2R b KQkq - 0 10,"Second try. The logical Bc5 was good, I don't know this one."
+20,Nd7,b8d7,r3kbnr/pp1n1pp1/1q2p3/3pP2p/3N4/1P1Q3P/P1PB1PP1/RN2K2R w KQkq - 1 11,"Second try. The logical Bc5 was good, I don't know this one."
+21,f4,f2f4,r3kbnr/pp1n1pp1/1q2p3/3pP2p/3N1P2/1P1Q3P/P1PB2P1/RN2K2R b KQkq - 0 11,Third try.
+22,Nh6,g8h6,r3kb1r/pp1n1pp1/1q2p2n/3pP2p/3N1P2/1P1Q3P/P1PB2P1/RN2K2R w KQkq - 1 12,Third try.
+23,Nc3,b1c3,r3kb1r/pp1n1pp1/1q2p2n/3pP2p/3N1P2/1PNQ3P/P1PB2P1/R3K2R b KQkq - 2 12,Third try.
+24,a6,a7a6,r3kb1r/1p1n1pp1/pq2p2n/3pP2p/3N1P2/1PNQ3P/P1PB2P1/R3K2R w KQkq - 0 13,Third try.
+25,Be3,d2e3,r3kb1r/1p1n1pp1/pq2p2n/3pP2p/3N1P2/1PNQB2P/P1P3P1/R3K2R b KQkq - 1 13,Third try.
+26,Nc5,d7c5,r3kb1r/1p3pp1/pq2p2n/2npP2p/3N1P2/1PNQB2P/P1P3P1/R3K2R w KQkq - 2 14,Third try.
+27,Qe2,d3e2,r3kb1r/1p3pp1/pq2p2n/2npP2p/3N1P2/1PN1B2P/P1P1Q1P1/R3K2R b KQkq - 3 14,Third try.
+28,Qb4,b6b4,r3kb1r/1p3pp1/p3p2n/2npP2p/1q1N1P2/1PN1B2P/P1P1Q1P1/R3K2R w KQkq - 4 15,Third try.
+29,Qd2,e2d2,r3kb1r/1p3pp1/p3p2n/2npP2p/1q1N1P2/1PN1B2P/P1PQ2P1/R3K2R b KQkq - 5 15,II got nowhere.
+30,Rc8,a8c8,2r1kb1r/1p3pp1/p3p2n/2npP2p/1q1N1P2/1PN1B2P/P1PQ2P1/R3K2R w KQk - 6 16,II got nowhere.
+31,a3,a2a3,2r1kb1r/1p3pp1/p3p2n/2npP2p/1q1N1P2/PPN1B2P/2PQ2P1/R3K2R b KQk - 0 16,"But this gives me the opportunity to show this trick. I sweared I will recover the piece, sooner or later."
+32,Nxb3,c5b3,2r1kb1r/1p3pp1/p3p2n/3pP2p/1q1N1P2/PnN1B2P/2PQ2P1/R3K2R w KQk - 0 17,"If fxN, BxN. White tries to keep the piece."
+33,axb4,a3b4,2r1kb1r/1p3pp1/p3p2n/3pP2p/1P1N1P2/1nN1B2P/2PQ2P1/R3K2R b KQk - 0 17,BxN was better. Bxb5...
+34,Nxd2,b3d2,2r1kb1r/1p3pp1/p3p2n/3pP2p/1P1N1P2/2N1B2P/2Pn2P1/R3K2R w KQk - 0 18,BxN was better. Bxb5...
+35,Kxd2,e1d2,2r1kb1r/1p3pp1/p3p2n/3pP2p/1P1N1P2/2N1B2P/2PK2P1/R6R b k - 0 18,BxN was better. Bxb5...
+36,Bxb4,f8b4,2r1k2r/1p3pp1/p3p2n/3pP2p/1b1N1P2/2N1B2P/2PK2P1/R6R w k - 0 19,Harassing the dsb.
+37,Nde2,d4e2,2r1k2r/1p3pp1/p3p2n/3pP2p/1b3P2/2N1B2P/2PKN1P1/R6R b k - 1 19,Harassing the dsb.
+38,Nf5,h6f5,2r1k2r/1p3pp1/p3p3/3pPn1p/1b3P2/2N1B2P/2PKN1P1/R6R w k - 2 20,Harassing the dsb.
+39,Bf2,e3f2,2r1k2r/1p3pp1/p3p3/3pPn1p/1b3P2/2N4P/2PKNBP1/R6R b k - 3 20,Harassing the dsb.
+40,Rc4,c8c4,4k2r/1p3pp1/p3p3/3pPn1p/1br2P2/2N4P/2PKNBP1/R6R w k - 4 21,Harassing the dsb.
+41,g4,g2g4,4k2r/1p3pp1/p3p3/3pPn1p/1br2PP1/2N4P/2PKNB2/R6R b k - 0 21,Harassing the dsb.
+42,hxg4,h5g4,4k2r/1p3pp1/p3p3/3pPn2/1br2Pp1/2N4P/2PKNB2/R6R w k - 0 22,Harassing the dsb.
+43,hxg4,h3g4,4k2r/1p3pp1/p3p3/3pPn2/1br2PP1/2N5/2PKNB2/R6R b k - 0 22,Harassing the dsb.
+44,Rxh1,h8h1,4k3/1p3pp1/p3p3/3pPn2/1br2PP1/2N5/2PKNB2/R6r w - - 0 23,Harassing the dsb.
+45,Rxh1,a1h1,4k3/1p3pp1/p3p3/3pPn2/1br2PP1/2N5/2PKNB2/7R b - - 0 23,Harassing the dsb.
+46,Nh6,f5h6,4k3/1p3pp1/p3p2n/3pP3/1br2PP1/2N5/2PKNB2/7R w - - 1 24,Harassing the dsb.
+47,g5,g4g5,4k3/1p3pp1/p3p2n/3pP1P1/1br2P2/2N5/2PKNB2/7R b - - 0 24,I can't believe it. I am self-tangled.
+48,Ng4,h6g4,4k3/1p3pp1/p3p3/3pP1P1/1br2Pn1/2N5/2PKNB2/7R w - - 1 25,I can't believe it. I am self-tangled.
+49,Be3,f2e3,4k3/1p3pp1/p3p3/3pP1P1/1br2Pn1/2N1B3/2PKN3/7R b - - 2 25,I can't believe it. I am self-tangled.
+50,Nxe3,g4e3,4k3/1p3pp1/p3p3/3pP1P1/1br2P2/2N1n3/2PKN3/7R w - - 0 26,I can't believe it. I am self-tangled.
+51,Kxe3,d2e3,4k3/1p3pp1/p3p3/3pP1P1/1br2P2/2N1K3/2P1N3/7R b - - 0 26,I can't believe it. I am self-tangled.
+52,Bxc3,b4c3,4k3/1p3pp1/p3p3/3pP1P1/2r2P2/2b1K3/2P1N3/7R w - - 0 27,I can't believe it. I am self-tangled.
+53,Rh8+,h1h8,4k2R/1p3pp1/p3p3/3pP1P1/2r2P2/2b1K3/2P1N3/8 b - - 1 27,I can't believe it. I am self-tangled.
+54,Kd7,e8d7,7R/1p1k1pp1/p3p3/3pP1P1/2r2P2/2b1K3/2P1N3/8 w - - 2 28,I can't believe it. I am self-tangled.
+55,Rh7,h8h7,8/1p1k1ppR/p3p3/3pP1P1/2r2P2/2b1K3/2P1N3/8 b - - 3 28,I can't believe it. I am self-tangled.
+56,d4+,d5d4,8/1p1k1ppR/p3p3/4P1P1/2rp1P2/2b1K3/2P1N3/8 w - - 0 29,I can't believe it. I am self-tangled.
+57,Kd3,e3d3,8/1p1k1ppR/p3p3/4P1P1/2rp1P2/2bK4/2P1N3/8 b - - 1 29,I can't believe it. I am self-tangled.
+58,b5,b7b5,8/3k1ppR/p3p3/1p2P1P1/2rp1P2/2bK4/2P1N3/8 w - - 0 30,I can't believe it. I am self-tangled.
+59,Rxg7,h7g7,8/3k1pR1/p3p3/1p2P1P1/2rp1P2/2bK4/2P1N3/8 b - - 0 30,"And besides, I blundered another pawn."
+60,Ke7,d7e7,8/4kpR1/p3p3/1p2P1P1/2rp1P2/2bK4/2P1N3/8 w - - 1 31,"And besides, I blundered another pawn."
+61,g6,g5g6,8/4kpR1/p3p1P1/1p2P3/2rp1P2/2bK4/2P1N3/8 b - - 0 31,Defending was losing. So I tried the last one.
+62,Kf8,e7f8,5k2/5pR1/p3p1P1/1p2P3/2rp1P2/2bK4/2P1N3/8 w - - 1 32,Defending was losing. So I tried the last one.
+63,Rxf7+,g7f7,5k2/5R2/p3p1P1/1p2P3/2rp1P2/2bK4/2P1N3/8 b - - 0 32,Defending was losing. So I tried the last one.
+64,Kg8,f8g8,6k1/5R2/p3p1P1/1p2P3/2rp1P2/2bK4/2P1N3/8 w - - 1 33,Defending was losing. So I tried the last one.
+65,Re7,f7e7,6k1/4R3/p3p1P1/1p2P3/2rp1P2/2bK4/2P1N3/8 b - - 2 33,Defending was losing. So I tried the last one.
+66,a5,a6a5,6k1/4R3/4p1P1/pp2P3/2rp1P2/2bK4/2P1N3/8 w - - 0 34,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+67,Rxe6,e7e6,6k1/8/4R1P1/pp2P3/2rp1P2/2bK4/2P1N3/8 b - - 0 34,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+68,a4,a5a4,6k1/8/4R1P1/1p2P3/p1rp1P2/2bK4/2P1N3/8 w - - 0 35,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+69,f5,f4f5,6k1/8/4R1P1/1p2PP2/p1rp4/2bK4/2P1N3/8 b - - 0 35,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+70,a3,a4a3,6k1/8/4R1P1/1p2PP2/2rp4/p1bK4/2P1N3/8 w - - 0 36,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+71,Ra6,e6a6,6k1/8/R5P1/1p2PP2/2rp4/p1bK4/2P1N3/8 b - - 1 36,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+72,Ra4,c4a4,6k1/8/R5P1/1p2PP2/r2p4/p1bK4/2P1N3/8 w - - 2 37,"Knowing I will end with doubled pawns. But in the 6ª row, and with a white pawn in f7."
+73,Rxa4,a6a4,6k1/8/6P1/1p2PP2/R2p4/p1bK4/2P1N3/8 b - - 0 37,"Now I won't advance my pawns, and the white king cannot capture them."
+74,bxa4,b5a4,6k1/8/6P1/4PP2/p2p4/p1bK4/2P1N3/8 w - - 0 38,"Now I won't advance my pawns, and the white king cannot capture them."
+75,Nxc3,e2c3,6k1/8/6P1/4PP2/p2p4/p1NK4/2P5/8 b - - 0 38,"Now I won't advance my pawns, and the white king cannot capture them."
+76,dxc3,d4c3,6k1/8/6P1/4PP2/p7/p1pK4/2P5/8 w - - 0 39,"Now I won't advance my pawns, and the white king cannot capture them."
+77,Kxc3,d3c3,6k1/8/6P1/4PP2/p7/p1K5/2P5/8 b - - 0 39,"Now I won't advance my pawns, and the white king cannot capture them."
+78,Kg7,g8g7,8/6k1/6P1/4PP2/p7/p1K5/2P5/8 w - - 1 40,"...and three connected pawns can be stopped by the king, just as two!
+White is in zugszwang!"
+79,e6,e5e6,8/6k1/4P1P1/5P2/p7/p1K5/2P5/8 b - - 0 40,"...and three connected pawns can be stopped by the king, just as two!
+White is in zugszwang!"
+80,Kf6,g7f6,8/8/4PkP1/5P2/p7/p1K5/2P5/8 w - - 1 41,"...and three connected pawns can be stopped by the king, just as two!
+White is in zugszwang!"
+81,g7,g6g7,8/6P1/4Pk2/5P2/p7/p1K5/2P5/8 b - - 0 41,
+82,Kxg7,f6g7,8/6k1/4P3/5P2/p7/p1K5/2P5/8 w - - 0 42,
+83,Kb4,c3b4,8/6k1/4P3/5P2/pK6/p7/2P5/8 b - - 1 42,
+84,a2,a3a2,8/6k1/4P3/5P2/pK6/8/p1P5/8 w - - 0 43,
+85,e7,e6e7,8/4P1k1/8/5P2/pK6/8/p1P5/8 b - - 0 43,
+86,Kf7,g7f7,8/4Pk2/8/5P2/pK6/8/p1P5/8 w - - 1 44,
+87,f6,f5f6,8/4Pk2/5P2/8/pK6/8/p1P5/8 b - - 0 44,
+88,a1=Q,a2a1q,8/4Pk2/5P2/8/pK6/8/2P5/q7 w - - 0 45,
+89,c3,c2c3,8/4Pk2/5P2/8/pK6/2P5/8/q7 b - - 0 45,
+90,a3,a4a3,8/4Pk2/5P2/8/1K6/p1P5/8/q7 w - - 0 46,
+91,Kb3,b4b3,8/4Pk2/5P2/8/8/pKP5/8/q7 b - - 1 46,
+92,a2,a3a2,8/4Pk2/5P2/8/8/1KP5/p7/q7 w - - 0 47,

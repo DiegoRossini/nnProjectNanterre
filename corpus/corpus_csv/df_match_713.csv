@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This limits the squares for White's B.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,This limits the squares for White's B.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,This limits the squares for White's B.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,This limits the squares for White's B.
+5,e3,e2e3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,This limits the squares for White's B.
+6,a6,a7a6,r1bqkbnr/1pp1pppp/p1n5/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,This limits the squares for White's B.
+7,b3,b2b3,r1bqkbnr/1pp1pppp/p1n5/3p4/3P4/1P2PN2/P1P2PPP/RNBQKB1R b KQkq - 0 4,"Necessary to stop Nb4, with a double attack on the vulnerable c2 pawn."
+8,Bf5,c8f5,r2qkbnr/1pp1pppp/p1n5/3p1b2/3P4/1P2PN2/P1P2PPP/RNBQKB1R w KQkq - 1 5,"Necessary to stop Nb4, with a double attack on the vulnerable c2 pawn."
+9,a3,a2a3,r2qkbnr/1pp1pppp/p1n5/3p1b2/3P4/PP2PN2/2P2PPP/RNBQKB1R b KQkq - 0 5,"Necessary to stop Nb4, with a double attack on the vulnerable c2 pawn."
+10,Nf6,g8f6,r2qkb1r/1pp1pppp/p1n2n2/3p1b2/3P4/PP2PN2/2P2PPP/RNBQKB1R w KQkq - 1 6,"The B had a good square already at f5, so moving it twice in the opening loses a tempo."
+11,Bb2,c1b2,r2qkb1r/1pp1pppp/p1n2n2/3p1b2/3P4/PP2PN2/1BP2PPP/RN1QKB1R b KQkq - 2 6,"The B had a good square already at f5, so moving it twice in the opening loses a tempo."
+12,e6,e7e6,r2qkb1r/1pp2ppp/p1n1pn2/3p1b2/3P4/PP2PN2/1BP2PPP/RN1QKB1R w KQkq - 0 7,"The B had a good square already at f5, so moving it twice in the opening loses a tempo."
+13,Be2,f1e2,r2qkb1r/1pp2ppp/p1n1pn2/3p1b2/3P4/PP2PN2/1BP1BPPP/RN1QK2R b KQkq - 1 7,"The B had a good square already at f5, so moving it twice in the opening loses a tempo."
+14,Bg4,f5g4,r2qkb1r/1pp2ppp/p1n1pn2/3p4/3P2b1/PP2PN2/1BP1BPPP/RN1QK2R w KQkq - 2 8,"The B had a good square already at f5, so moving it twice in the opening loses a tempo."
+15,Nbd2,b1d2,r2qkb1r/1pp2ppp/p1n1pn2/3p4/3P2b1/PP2PN2/1BPNBPPP/R2QK2R b KQkq - 3 8,Another piece is moved twice in the opening before full development is achieved.
+16,Bd6,f8d6,r2qk2r/1pp2ppp/p1nbpn2/3p4/3P2b1/PP2PN2/1BPNBPPP/R2QK2R w KQkq - 4 9,Another piece is moved twice in the opening before full development is achieved.
+17,O-O,e1g1,r2qk2r/1pp2ppp/p1nbpn2/3p4/3P2b1/PP2PN2/1BPNBPPP/R2Q1RK1 b kq - 5 9,Another piece is moved twice in the opening before full development is achieved.
+18,Ne4,f6e4,r2qk2r/1pp2ppp/p1nbp3/3p4/3Pn1b1/PP2PN2/1BPNBPPP/R2Q1RK1 w kq - 6 10,Another piece is moved twice in the opening before full development is achieved.
+19,Ne5,f3e5,r2qk2r/1pp2ppp/p1nbp3/3pN3/3Pn1b1/PP2P3/1BPNBPPP/R2Q1RK1 b kq - 7 10,White has castled and the Rooks are linked.  Black is a couple of tempos behind.
+20,Bxe2,g4e2,r2qk2r/1pp2ppp/p1nbp3/3pN3/3Pn3/PP2P3/1BPNbPPP/R2Q1RK1 w kq - 0 11,White has castled and the Rooks are linked.  Black is a couple of tempos behind.
+21,Qxe2,d1e2,r2qk2r/1pp2ppp/p1nbp3/3pN3/3Pn3/PP2P3/1BPNQPPP/R4RK1 b kq - 0 11,White has castled and the Rooks are linked.  Black is a couple of tempos behind.
+22,O-O,e8g8,r2q1rk1/1pp2ppp/p1nbp3/3pN3/3Pn3/PP2P3/1BPNQPPP/R4RK1 w - - 1 12,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+23,f4,f2f4,r2q1rk1/1pp2ppp/p1nbp3/3pN3/3PnP2/PP2P3/1BPNQ1PP/R4RK1 b - - 0 12,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+24,f6,f7f6,r2q1rk1/1pp3pp/p1nbpp2/3pN3/3PnP2/PP2P3/1BPNQ1PP/R4RK1 w - - 0 13,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+25,Nef3,e5f3,r2q1rk1/1pp3pp/p1nbpp2/3p4/3PnP2/PP2PN2/1BPNQ1PP/R4RK1 b - - 1 13,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+26,f5,f6f5,r2q1rk1/1pp3pp/p1nbp3/3p1p2/3PnP2/PP2PN2/1BPNQ1PP/R4RK1 w - - 0 14,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+27,Ne5,f3e5,r2q1rk1/1pp3pp/p1nbp3/3pNp2/3PnP2/PP2P3/1BPNQ1PP/R4RK1 b - - 1 14,The point of Black's f6 to kick the N is unclear if it is going to be followed immediately by f5--which simply allows the N to come right back to a good square.
+28,Bxe5,d6e5,r2q1rk1/1pp3pp/p1n1p3/3pbp2/3PnP2/PP2P3/1BPNQ1PP/R4RK1 w - - 0 15,Now Black exchanges the strong N anyway.
+29,fxe5,f4e5,r2q1rk1/1pp3pp/p1n1p3/3pPp2/3Pn3/PP2P3/1BPNQ1PP/R4RK1 b - - 0 15,"If Black is intending a Kingside attack, perhaps repositioning the c6 N and leading with g5 might have been an alternative.  It's not clear what the Q can do on h4."
+30,Qh4,d8h4,r4rk1/1pp3pp/p1n1p3/3pPp2/3Pn2q/PP2P3/1BPNQ1PP/R4RK1 w - - 1 16,"If Black is intending a Kingside attack, perhaps repositioning the c6 N and leading with g5 might have been an alternative.  It's not clear what the Q can do on h4."
+31,Rf4,f1f4,r4rk1/1pp3pp/p1n1p3/3pPp2/3PnR1q/PP2P3/1BPNQ1PP/R5K1 b - - 2 16,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+32,Qh6,h4h6,r4rk1/1pp3pp/p1n1p2q/3pPp2/3PnR2/PP2P3/1BPNQ1PP/R5K1 w - - 3 17,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+33,Re1,a1e1,r4rk1/1pp3pp/p1n1p2q/3pPp2/3PnR2/PP2P3/1BPNQ1PP/4R1K1 b - - 4 17,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+34,g5,g7g5,r4rk1/1pp4p/p1n1p2q/3pPpp1/3PnR2/PP2P3/1BPNQ1PP/4R1K1 w - - 0 18,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+35,Rff1,f4f1,r4rk1/1pp4p/p1n1p2q/3pPpp1/3Pn3/PP2P3/1BPNQ1PP/4RRK1 b - - 1 18,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+36,f4,f5f4,r4rk1/1pp4p/p1n1p2q/3pP1p1/3Pnp2/PP2P3/1BPNQ1PP/4RRK1 w - - 0 19,"Loses a pawn, which might be okay if a strong attack resulted.  But the e4 N is easily exchanged and the Q is not very dangerous on its own."
+37,Nxe4,d2e4,r4rk1/1pp4p/p1n1p2q/3pP1p1/3PNp2/PP2P3/1BP1Q1PP/4RRK1 b - - 0 19,"gxf4 might have been stronger here.  It still loses a pawn after White's Qxe4, but the f4 pawn could still be dangerous.  Repositioning the c6 N would have been better before the attack was launched, not after it is losing steam."
+38,dxe4,d5e4,r4rk1/1pp4p/p1n1p2q/4P1p1/3Ppp2/PP2P3/1BP1Q1PP/4RRK1 w - - 0 20,"gxf4 might have been stronger here.  It still loses a pawn after White's Qxe4, but the f4 pawn could still be dangerous.  Repositioning the c6 N would have been better before the attack was launched, not after it is losing steam."
+39,exf4,e3f4,r4rk1/1pp4p/p1n1p2q/4P1p1/3PpP2/PP6/1BP1Q1PP/4RRK1 b - - 0 20,"gxf4 might have been stronger here.  It still loses a pawn after White's Qxe4, but the f4 pawn could still be dangerous.  Repositioning the c6 N would have been better before the attack was launched, not after it is losing steam."
+40,Ne7,c6e7,r4rk1/1pp1n2p/p3p2q/4P1p1/3PpP2/PP6/1BP1Q1PP/4RRK1 w - - 1 21,"gxf4 might have been stronger here.  It still loses a pawn after White's Qxe4, but the f4 pawn could still be dangerous.  Repositioning the c6 N would have been better before the attack was launched, not after it is losing steam."
+41,fxg5,f4g5,r4rk1/1pp1n2p/p3p2q/4P1P1/3Pp3/PP6/1BP1Q1PP/4RRK1 b - - 0 21,The attacker is usually better keeping pieces on the board.  It's usually the defender who wants to exchange them.
+42,Rxf1+,f8f1,r5k1/1pp1n2p/p3p2q/4P1P1/3Pp3/PP6/1BP1Q1PP/4RrK1 w - - 0 22,The attacker is usually better keeping pieces on the board.  It's usually the defender who wants to exchange them.
+43,Rxf1,e1f1,r5k1/1pp1n2p/p3p2q/4P1P1/3Pp3/PP6/1BP1Q1PP/5RK1 b - - 0 22,Qxg5 is mandatory--or at least something that saves the Q.
+44,Nf5,e7f5,r5k1/1pp4p/p3p2q/4PnP1/3Pp3/PP6/1BP1Q1PP/5RK1 w - - 1 23,Qxg5 is mandatory--or at least something that saves the Q.
+45,gxh6,g5h6,r5k1/1pp4p/p3p2P/4Pn2/3Pp3/PP6/1BP1Q1PP/5RK1 b - - 0 23,I think Black simply overlooked the hanging Q.  This can happen when you are too focused on your plan and don't carefully examine your opponent's counterplay.  The move isn't really representative of how well Black has played so far.

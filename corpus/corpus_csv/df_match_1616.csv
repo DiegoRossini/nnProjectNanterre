@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"paulr1212 starts with the queens pawn opening, and I respond with d5."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"paulr1212 starts with the queens pawn opening, and I respond with d5."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"Was expecting a Queens Gambit, but I was wrong."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,Don't know why....
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,?
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4,Opening stuff
+7,e3,e2e3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,Opening stuff
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,Opening stuff
+9,Be2,f1e2,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1B2/4PN2/PPP1BPPP/RN1QK2R b KQkq - 1 5,Not expected. I was expecting it farther.... like checking the king
+10,Bb4+,f8b4,rn1qk2r/ppp2ppp/4pn2/3p1b2/1b1P1B2/4PN2/PPP1BPPP/RN1QK2R w KQkq - 2 6,Hmm... that was a waste by me
+11,c3,c2c3,rn1qk2r/ppp2ppp/4pn2/3p1b2/1b1P1B2/2P1PN2/PP2BPPP/RN1QK2R b KQkq - 0 6,Hmm... that was a waste by me
+12,Ba5,b4a5,rn1qk2r/ppp2ppp/4pn2/b2p1b2/3P1B2/2P1PN2/PP2BPPP/RN1QK2R w KQkq - 1 7,Not expected. Was expecting b4
+13,Bb5+,e2b5,rn1qk2r/ppp2ppp/4pn2/bB1p1b2/3P1B2/2P1PN2/PP3PPP/RN1QK2R b KQkq - 2 7,Not expected. Was expecting b4
+14,Nbd7,b8d7,r2qk2r/pppn1ppp/4pn2/bB1p1b2/3P1B2/2P1PN2/PP3PPP/RN1QK2R w KQkq - 3 8,Should have done c7
+15,O-O,e1g1,r2qk2r/pppn1ppp/4pn2/bB1p1b2/3P1B2/2P1PN2/PP3PPP/RN1Q1RK1 b kq - 4 8,Castle
+16,O-O,e8g8,r2q1rk1/pppn1ppp/4pn2/bB1p1b2/3P1B2/2P1PN2/PP3PPP/RN1Q1RK1 w - - 5 9,Castle
+17,Qa4,d1a4,r2q1rk1/pppn1ppp/4pn2/bB1p1b2/Q2P1B2/2P1PN2/PP3PPP/RN3RK1 b - - 6 9,Bishop attacked!
+18,Bb6,a5b6,r2q1rk1/pppn1ppp/1b2pn2/1B1p1b2/Q2P1B2/2P1PN2/PP3PPP/RN3RK1 w - - 7 10,?
+19,Nbd2,b1d2,r2q1rk1/pppn1ppp/1b2pn2/1B1p1b2/Q2P1B2/2P1PN2/PP1N1PPP/R4RK1 b - - 8 10,?
+20,Ne4,f6e4,r2q1rk1/pppn1ppp/1b2p3/1B1p1b2/Q2PnB2/2P1PN2/PP1N1PPP/R4RK1 w - - 9 11,Knight trade?
+21,Rad1,a1d1,r2q1rk1/pppn1ppp/1b2p3/1B1p1b2/Q2PnB2/2P1PN2/PP1N1PPP/3R1RK1 b - - 10 11,Protecting the knight
+22,Nxd2,e4d2,r2q1rk1/pppn1ppp/1b2p3/1B1p1b2/Q2P1B2/2P1PN2/PP1n1PPP/3R1RK1 w - - 0 12,"Like trading, so I take it"
+23,Rxd2,d1d2,r2q1rk1/pppn1ppp/1b2p3/1B1p1b2/Q2P1B2/2P1PN2/PP1R1PPP/5RK1 b - - 0 12,Expected
+24,Be4,f5e4,r2q1rk1/pppn1ppp/1b2p3/1B1p4/Q2PbB2/2P1PN2/PP1R1PPP/5RK1 w - - 1 13,Just lost a knight
+25,Bxd7,b5d7,r2q1rk1/pppB1ppp/1b2p3/3p4/Q2PbB2/2P1PN2/PP1R1PPP/5RK1 b - - 0 13,Just lost a knight
+26,Bxf3,e4f3,r2q1rk1/pppB1ppp/1b2p3/3p4/Q2P1B2/2P1Pb2/PP1R1PPP/5RK1 w - - 0 14,"Not expected, but if he captured it it would have been a very bad defense for the king."
+27,g3,g2g3,r2q1rk1/pppB1ppp/1b2p3/3p4/Q2P1B2/2P1PbP1/PP1R1P1P/5RK1 b - - 0 14,"Not expected, but if he captured it it would have been a very bad defense for the king."
+28,Qf6,d8f6,r4rk1/pppB1ppp/1b2pq2/3p4/Q2P1B2/2P1PbP1/PP1R1P1P/5RK1 w - - 1 15,?
+29,Qb5,a4b5,r4rk1/pppB1ppp/1b2pq2/1Q1p4/3P1B2/2P1PbP1/PP1R1P1P/5RK1 b - - 2 15,?
+30,Qf5,f6f5,r4rk1/pppB1ppp/1b2p3/1Q1p1q2/3P1B2/2P1PbP1/PP1R1P1P/5RK1 w - - 3 16,I was trying to somehow get the queen to h3 to get checkmate.

@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I'm always happy when Black locks in their c pawn, but I have to confess that I've lost several of those games.  It's not a clearcut disadvantage obviously."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I'm always happy when Black locks in their c pawn, but I have to confess that I've lost several of those games.  It's not a clearcut disadvantage obviously."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"I'm always happy when Black locks in their c pawn, but I have to confess that I've lost several of those games.  It's not a clearcut disadvantage obviously."
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,"I'm always happy when Black locks in their c pawn, but I have to confess that I've lost several of those games.  It's not a clearcut disadvantage obviously."
+5,e3,e2e3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,I think this is a waste of a tempo.
+6,a6,a7a6,r1bqkbnr/1pp1pppp/p1n5/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,I think this is a waste of a tempo.
+7,b3,b2b3,r1bqkbnr/1pp1pppp/p1n5/3p4/3P4/1P2PN2/P1P2PPP/RNBQKB1R b KQkq - 0 4,This unpins the N.
+8,Bg4,c8g4,r2qkbnr/1pp1pppp/p1n5/3p4/3P2b1/1P2PN2/P1P2PPP/RNBQKB1R w KQkq - 1 5,This unpins the N.
+9,Bb2,c1b2,r2qkbnr/1pp1pppp/p1n5/3p4/3P2b1/1P2PN2/PBP2PPP/RN1QKB1R b KQkq - 2 5,This unpins the N.
+10,Qd6,d8d6,r3kbnr/1pp1pppp/p1nq4/3p4/3P2b1/1P2PN2/PBP2PPP/RN1QKB1R w KQkq - 3 6,This unpins the N.
+11,Be2,f1e2,r3kbnr/1pp1pppp/p1nq4/3p4/3P2b1/1P2PN2/PBP1BPPP/RN1QK2R b KQkq - 4 6,This unpins the N.
+12,h5,h7h5,r3kbnr/1pp1ppp1/p1nq4/3p3p/3P2b1/1P2PN2/PBP1BPPP/RN1QK2R w KQkq - 0 7,Black decides to play very aggressively and go for a direct Kingside attack.
+13,h3,h2h3,r3kbnr/1pp1ppp1/p1nq4/3p3p/3P2b1/1P2PN1P/PBP1BPP1/RN1QK2R b KQkq - 0 7,"After Bf5, White's c pawn is always vulnerable to Nb4.  a3 is played to prevent Nb4."
+14,Bf5,g4f5,r3kbnr/1pp1ppp1/p1nq4/3p1b1p/3P4/1P2PN1P/PBP1BPP1/RN1QK2R w KQkq - 1 8,"After Bf5, White's c pawn is always vulnerable to Nb4.  a3 is played to prevent Nb4."
+15,a3,a2a3,r3kbnr/1pp1ppp1/p1nq4/3p1b1p/3P4/PP2PN1P/1BP1BPP1/RN1QK2R b KQkq - 0 8,"After Bf5, White's c pawn is always vulnerable to Nb4.  a3 is played to prevent Nb4."
+16,Nf6,g8f6,r3kb1r/1pp1ppp1/p1nq1n2/3p1b1p/3P4/PP2PN1P/1BP1BPP1/RN1QK2R w KQkq - 1 9,"Nd7 removes protection from h5, so that pawn is now hanging."
+17,Nbd2,b1d2,r3kb1r/1pp1ppp1/p1nq1n2/3p1b1p/3P4/PP2PN1P/1BPNBPP1/R2QK2R b KQkq - 2 9,"Nd7 removes protection from h5, so that pawn is now hanging."
+18,e6,e7e6,r3kb1r/1pp2pp1/p1nqpn2/3p1b1p/3P4/PP2PN1P/1BPNBPP1/R2QK2R w KQkq - 0 10,"Nd7 removes protection from h5, so that pawn is now hanging."
+19,Ne5,f3e5,r3kb1r/1pp2pp1/p1nqpn2/3pNb1p/3P4/PP2P2P/1BPNBPP1/R2QK2R b KQkq - 1 10,"Nd7 removes protection from h5, so that pawn is now hanging."
+20,Nd7,f6d7,r3kb1r/1ppn1pp1/p1nqp3/3pNb1p/3P4/PP2P2P/1BPNBPP1/R2QK2R w KQkq - 2 11,"Nd7 removes protection from h5, so that pawn is now hanging."
+21,Nxd7,e5d7,r3kb1r/1ppN1pp1/p1nqp3/3p1b1p/3P4/PP2P2P/1BPNBPP1/R2QK2R b KQkq - 0 11,White wins a pawn.
+22,Qxd7,d6d7,r3kb1r/1ppq1pp1/p1n1p3/3p1b1p/3P4/PP2P2P/1BPNBPP1/R2QK2R w KQkq - 0 12,White wins a pawn.
+23,Bxh5,e2h5,r3kb1r/1ppq1pp1/p1n1p3/3p1b1B/3P4/PP2P2P/1BPN1PP1/R2QK2R b KQkq - 0 12,White wins a pawn.
+24,O-O-O,e8c8,2kr1b1r/1ppq1pp1/p1n1p3/3p1b1B/3P4/PP2P2P/1BPN1PP1/R2QK2R w KQ - 1 13,I think the Kingside attack idea can be blunted if I can exchange the developed attacking pieces.
+25,Bg4,h5g4,2kr1b1r/1ppq1pp1/p1n1p3/3p1b2/3P2B1/PP2P2P/1BPN1PP1/R2QK2R b KQ - 2 13,I think the Kingside attack idea can be blunted if I can exchange the developed attacking pieces.
+26,Bd6,f8d6,2kr3r/1ppq1pp1/p1nbp3/3p1b2/3P2B1/PP2P2P/1BPN1PP1/R2QK2R w KQ - 3 14,"Black continues with the Kingside attack, apparently unconcerned about the hanging pawn on d5.  This is a fatal pawn to take if the Bd6 could make a check--which it often can.  In the position, I haven't castled yet so, for example, Bxh2+ is not possible.  With a castled K, Qxd5 would lose the Q."
+27,Bxf5,g4f5,2kr3r/1ppq1pp1/p1nbp3/3p1B2/3P4/PP2P2P/1BPN1PP1/R2QK2R b KQ - 0 14,"Black continues with the Kingside attack, apparently unconcerned about the hanging pawn on d5.  This is a fatal pawn to take if the Bd6 could make a check--which it often can.  In the position, I haven't castled yet so, for example, Bxh2+ is not possible.  With a castled K, Qxd5 would lose the Q."
+28,exf5,e6f5,2kr3r/1ppq1pp1/p1nb4/3p1p2/3P4/PP2P2P/1BPN1PP1/R2QK2R w KQ - 0 15,"Black continues with the Kingside attack, apparently unconcerned about the hanging pawn on d5.  This is a fatal pawn to take if the Bd6 could make a check--which it often can.  In the position, I haven't castled yet so, for example, Bxh2+ is not possible.  With a castled K, Qxd5 would lose the Q."
+29,Qf3,d1f3,2kr3r/1ppq1pp1/p1nb4/3p1p2/3P4/PP2PQ1P/1BPN1PP1/R3K2R b KQ - 1 15,"Black continues with the Kingside attack, apparently unconcerned about the hanging pawn on d5.  This is a fatal pawn to take if the Bd6 could make a check--which it often can.  In the position, I haven't castled yet so, for example, Bxh2+ is not possible.  With a castled K, Qxd5 would lose the Q."
+30,g5,g7g5,2kr3r/1ppq1p2/p1nb4/3p1pp1/3P4/PP2PQ1P/1BPN1PP1/R3K2R w KQ - 0 16,"Black continues with the Kingside attack, apparently unconcerned about the hanging pawn on d5.  This is a fatal pawn to take if the Bd6 could make a check--which it often can.  In the position, I haven't castled yet so, for example, Bxh2+ is not possible.  With a castled K, Qxd5 would lose the Q."
+31,Qxd5,f3d5,2kr3r/1ppq1p2/p1nb4/3Q1pp1/3P4/PP2P2P/1BPN1PP1/R3K2R b KQ - 0 16,"Now that I've castled Queenside, a direct Kingside attack is not so worrisome."
+32,f6,f7f6,2kr3r/1ppq4/p1nb1p2/3Q1pp1/3P4/PP2P2P/1BPN1PP1/R3K2R w KQ - 0 17,"Now that I've castled Queenside, a direct Kingside attack is not so worrisome."
+33,O-O-O,e1c1,2kr3r/1ppq4/p1nb1p2/3Q1pp1/3P4/PP2P2P/1BPN1PP1/2KR3R b - - 1 17,"Now that I've castled Queenside, a direct Kingside attack is not so worrisome."
+34,f4,f5f4,2kr3r/1ppq4/p1nb1p2/3Q2p1/3P1p2/PP2P2P/1BPN1PP1/2KR3R w - - 0 18,Black doubles up on the target at a3.
+35,Qf3,d5f3,2kr3r/1ppq4/p1nb1p2/6p1/3P1p2/PP2PQ1P/1BPN1PP1/2KR3R b - - 1 18,Black doubles up on the target at a3.
+36,Qe7,d7e7,2kr3r/1pp1q3/p1nb1p2/6p1/3P1p2/PP2PQ1P/1BPN1PP1/2KR3R w - - 2 19,Black doubles up on the target at a3.
+37,Nc4,d2c4,2kr3r/1pp1q3/p1nb1p2/6p1/2NP1p2/PP2PQ1P/1BP2PP1/2KR3R b - - 3 19,This protects a3 and allows me to remove one of the attackers.
+38,Rh7,h8h7,2kr4/1pp1q2r/p1nb1p2/6p1/2NP1p2/PP2PQ1P/1BP2PP1/2KR3R w - - 4 20,Now White is two pawns up and should be able to win in the endgame by exchanging appropriately.
+39,Nxd6+,c4d6,2kr4/1pp1q2r/p1nN1p2/6p1/3P1p2/PP2PQ1P/1BP2PP1/2KR3R b - - 0 20,Now White is two pawns up and should be able to win in the endgame by exchanging appropriately.
+40,Qxd6,e7d6,2kr4/1pp4r/p1nq1p2/6p1/3P1p2/PP2PQ1P/1BP2PP1/2KR3R w - - 0 21,Now White is two pawns up and should be able to win in the endgame by exchanging appropriately.
+41,Qg4+,f3g4,2kr4/1pp4r/p1nq1p2/6p1/3P1pQ1/PP2P2P/1BP2PP1/2KR3R b - - 1 21,"d5 might not be best here, but it does improve the Bb2."
+42,Kb8,c8b8,1k1r4/1pp4r/p1nq1p2/6p1/3P1pQ1/PP2P2P/1BP2PP1/2KR3R w - - 2 22,"d5 might not be best here, but it does improve the Bb2."
+43,Qf5,g4f5,1k1r4/1pp4r/p1nq1p2/5Qp1/3P1p2/PP2P2P/1BP2PP1/2KR3R b - - 3 22,"d5 might not be best here, but it does improve the Bb2."
+44,Rdh8,d8h8,1k5r/1pp4r/p1nq1p2/5Qp1/3P1p2/PP2P2P/1BP2PP1/2KR3R w - - 4 23,"d5 might not be best here, but it does improve the Bb2."
+45,d5,d4d5,1k5r/1pp4r/p1nq1p2/3P1Qp1/5p2/PP2P2P/1BP2PP1/2KR3R b - - 0 23,"d5 might not be best here, but it does improve the Bb2."
+46,Ne5,c6e5,1k5r/1pp4r/p2q1p2/3PnQp1/5p2/PP2P2P/1BP2PP1/2KR3R w - - 1 24,"With the K on c1, White cannot play Qxf4 due to Nd3+, winning the Q."
+47,exf4,e3f4,1k5r/1pp4r/p2q1p2/3PnQp1/5P2/PP5P/1BP2PP1/2KR3R b - - 0 24,"With the K on c1, White cannot play Qxf4 due to Nd3+, winning the Q."
+48,gxf4,g5f4,1k5r/1pp4r/p2q1p2/3PnQ2/5p2/PP5P/1BP2PP1/2KR3R w - - 0 25,"With the K on c1, White cannot play Qxf4 due to Nd3+, winning the Q."
+49,Kb1,c1b1,1k5r/1pp4r/p2q1p2/3PnQ2/5p2/PP5P/1BP2PP1/1K1R3R b - - 1 25,"With the K on c1, White cannot play Qxf4 due to Nd3+, winning the Q."
+50,Rh7h5,h7h5,1k5r/1pp5/p2q1p2/3PnQ1r/5p2/PP5P/1BP2PP1/1K1R3R w - - 2 26,This surprised me.  I was expecting Rh4 to protect the f4 pawn.
+51,Qxf4,f5f4,1k5r/1pp5/p2q1p2/3Pn2r/5Q2/PP5P/1BP2PP1/1K1R3R b - - 0 26,Now White has an easy potential passed pawn on the Kingside with a 3-1 majority.
+52,Rh5h4,h5h4,1k5r/1pp5/p2q1p2/3Pn3/5Q1r/PP5P/1BP2PP1/1K1R3R w - - 1 27,This move loses quickly because of the pawn fork.
+53,Qg3,f4g3,1k5r/1pp5/p2q1p2/3Pn3/7r/PP4QP/1BP2PP1/1K1R3R b - - 2 27,This move loses quickly because of the pawn fork.
+54,Rh4h5,h4h5,1k5r/1pp5/p2q1p2/3Pn2r/8/PP4QP/1BP2PP1/1K1R3R w - - 3 28,This move loses quickly because of the pawn fork.
+55,Qe3,g3e3,1k5r/1pp5/p2q1p2/3Pn2r/8/PP2Q2P/1BP2PP1/1K1R3R b - - 4 28,This move loses quickly because of the pawn fork.
+56,Rg5,h5g5,1k5r/1pp5/p2q1p2/3Pn1r1/8/PP2Q2P/1BP2PP1/1K1R3R w - - 5 29,This move loses quickly because of the pawn fork.
+57,f4,f2f4,1k5r/1pp5/p2q1p2/3Pn1r1/5P2/PP2Q2P/1BP3P1/1K1R3R b - - 0 29,Now Black has a really significant material disadvantage.  Time to exchange down to eliminate resistance and push the material advantage.
+58,Ng4,e5g4,1k5r/1pp5/p2q1p2/3P2r1/5Pn1/PP2Q2P/1BP3P1/1K1R3R w - - 1 30,Now Black has a really significant material disadvantage.  Time to exchange down to eliminate resistance and push the material advantage.
+59,hxg4,h3g4,1k5r/1pp5/p2q1p2/3P2r1/5PP1/PP2Q3/1BP3P1/1K1R3R b - - 0 30,Now Black has a really significant material disadvantage.  Time to exchange down to eliminate resistance and push the material advantage.
+60,Rgg8,g5g8,1k4rr/1pp5/p2q1p2/3P4/5PP1/PP2Q3/1BP3P1/1K1R3R w - - 1 31,Now Black has a really significant material disadvantage.  Time to exchange down to eliminate resistance and push the material advantage.
+61,Rxh8,h1h8,1k4rR/1pp5/p2q1p2/3P4/5PP1/PP2Q3/1BP3P1/1K1R4 b - - 0 31,Black cannot play fxg5 due to Bxh8.
+62,Rxh8,g8h8,1k5r/1pp5/p2q1p2/3P4/5PP1/PP2Q3/1BP3P1/1K1R4 w - - 0 32,Black cannot play fxg5 due to Bxh8.
+63,g5,g4g5,1k5r/1pp5/p2q1p2/3P2P1/5P2/PP2Q3/1BP3P1/1K1R4 b - - 0 32,Black cannot play fxg5 due to Bxh8.

@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"An uncommon opening, that gives Black at least equality."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Discouraging ... d5, which can still be played: 3. ... d5 4. cxd5 Qxd5 5. Nc3 Bb4"
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Discouraging ... d5, which can still be played: 3. ... d5 4. cxd5 Qxd5 5. Nc3 Bb4"
+4,e4,e5e4,rnbqkbnr/pppp1ppp/8/8/3Pp3/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Discouraging ... d5, which can still be played: 3. ... d5 4. cxd5 Qxd5 5. Nc3 Bb4"
+5,c4,c2c4,rnbqkbnr/pppp1ppp/8/8/2PPp3/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,"Discouraging ... d5, which can still be played: 3. ... d5 4. cxd5 Qxd5 5. Nc3 Bb4"
+6,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/8/2PPp3/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,This move looks best.
+7,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/8/2PPp3/2N1P3/PP3PPP/R1BQKBNR b KQkq - 2 4,"This is an improved version of the Nimzo-Indian, because the e4 pawn prevents both Bd3 and Nf3."
+8,Bb4,f8b4,rnbqk2r/pppp1ppp/5n2/8/1bPPp3/2N1P3/PP3PPP/R1BQKBNR w KQkq - 3 5,"This is an improved version of the Nimzo-Indian, because the e4 pawn prevents both Bd3 and Nf3."
+9,f3,f2f3,rnbqk2r/pppp1ppp/5n2/8/1bPPp3/2N1PP2/PP4PP/R1BQKBNR b KQkq - 0 5,"White should play Nge2 followed by a kingside fianchetto or Ng3, Be2, and 0-0."
+10,Bxc3+,b4c3,rnbqk2r/pppp1ppp/5n2/8/2PPp3/2b1PP2/PP4PP/R1BQKBNR w KQkq - 0 6,Doubling White's c-pawns
+11,bxc3,b2c3,rnbqk2r/pppp1ppp/5n2/8/2PPp3/2P1PP2/P5PP/R1BQKBNR b KQkq - 0 6,"Preventing ... Qh4
+Nxc3 isn't a threat because Qc2 traps the knight."
+12,O-O,e8g8,rnbq1rk1/pppp1ppp/5n2/8/2PPp3/2P1PP2/P5PP/R1BQKBNR w KQ - 1 7,"Preventing ... Qh4
+Nxc3 isn't a threat because Qc2 traps the knight."
+13,fxe4,f3e4,rnbq1rk1/pppp1ppp/5n2/8/2PPP3/2P1P3/P5PP/R1BQKBNR b KQ - 0 7,"Preventing ... Qh4
+Nxc3 isn't a threat because Qc2 traps the knight."
+14,Nxe4,f6e4,rnbq1rk1/pppp1ppp/8/8/2PPn3/2P1P3/P5PP/R1BQKBNR w KQ - 0 8,"Preventing ... Qh4
+Nxc3 isn't a threat because Qc2 traps the knight."
+15,Nf3,g1f3,rnbq1rk1/pppp1ppp/8/8/2PPn3/2P1PN2/P5PP/R1BQKB1R b KQ - 1 8,"Preventing ... Qh4
+Nxc3 isn't a threat because Qc2 traps the knight."
+16,Re8,f8e8,rnbqr1k1/pppp1ppp/8/8/2PPn3/2P1PN2/P5PP/R1BQKB1R w KQ - 2 9,The King was better on g1.
+17,Qc2,d1c2,rnbqr1k1/pppp1ppp/8/8/2PPn3/2P1PN2/P1Q3PP/R1B1KB1R b KQ - 3 9,The King was better on g1.
+18,d6,d7d6,rnbqr1k1/ppp2ppp/3p4/8/2PPn3/2P1PN2/P1Q3PP/R1B1KB1R w KQ - 0 10,The King was better on g1.
+19,Bd3,f1d3,rnbqr1k1/ppp2ppp/3p4/8/2PPn3/2PBPN2/P1Q3PP/R1B1K2R b KQ - 1 10,The King was better on g1.
+20,Bf5,c8f5,rn1qr1k1/ppp2ppp/3p4/5b2/2PPn3/2PBPN2/P1Q3PP/R1B1K2R w KQ - 2 11,The King was better on g1.
+21,O-O,e1g1,rn1qr1k1/ppp2ppp/3p4/5b2/2PPn3/2PBPN2/P1Q3PP/R1B2RK1 b - - 3 11,The King was better on g1.
+22,Bg6,f5g6,rn1qr1k1/ppp2ppp/3p2b1/8/2PPn3/2PBPN2/P1Q3PP/R1B2RK1 w - - 4 12,The King was better on g1.
+23,Kh1,g1h1,rn1qr1k1/ppp2ppp/3p2b1/8/2PPn3/2PBPN2/P1Q3PP/R1B2R1K b - - 5 12,The King was better on g1.
+24,Nd7,b8d7,r2qr1k1/pppn1ppp/3p2b1/8/2PPn3/2PBPN2/P1Q3PP/R1B2R1K w - - 6 13,The bishop does nothing on a3.
+25,Ba3,c1a3,r2qr1k1/pppn1ppp/3p2b1/8/2PPn3/B1PBPN2/P1Q3PP/R4R1K b - - 7 13,The bishop does nothing on a3.
+26,Nb6,d7b6,r2qr1k1/ppp2ppp/1n1p2b1/8/2PPn3/B1PBPN2/P1Q3PP/R4R1K w - - 8 14,"Threatening ... Nxc4 followed by ... Ng3+, winning the Queen"
+27,Rae1,a1e1,r2qr1k1/ppp2ppp/1n1p2b1/8/2PPn3/B1PBPN2/P1Q3PP/4RR1K b - - 9 14,White doesn't see the danger.
+28,Nxc4,b6c4,r2qr1k1/ppp2ppp/3p2b1/8/2nPn3/B1PBPN2/P1Q3PP/4RR1K w - - 0 15,All other moves lose.
+29,Bc1,a3c1,r2qr1k1/ppp2ppp/3p2b1/8/2nPn3/2PBPN2/P1Q3PP/2B1RR1K b - - 1 15,All other moves lose.
+30,Qe7,d8e7,r3r1k1/ppp1qppp/3p2b1/8/2nPn3/2PBPN2/P1Q3PP/2B1RR1K w - - 2 16,... d5 was best.
+31,a4,a2a4,r3r1k1/ppp1qppp/3p2b1/8/P1nPn3/2PBPN2/2Q3PP/2B1RR1K b - - 0 16,"Provoking h4, which loses to ... Ng3+"
+32,h5,h7h5,r3r1k1/ppp1qpp1/3p2b1/7p/P1nPn3/2PBPN2/2Q3PP/2B1RR1K w - - 0 17,"Provoking h4, which loses to ... Ng3+"
+33,Nd2,f3d2,r3r1k1/ppp1qpp1/3p2b1/7p/P1nPn3/2PBP3/2QN2PP/2B1RR1K b - - 1 17,"The most forcing continuation, since the Queen is under attack."
+34,Nxe3,c4e3,r3r1k1/ppp1qpp1/3p2b1/7p/P2Pn3/2PBn3/2QN2PP/2B1RR1K w - - 0 18,"The most forcing continuation, since the Queen is under attack."
+35,Rxe3,e1e3,r3r1k1/ppp1qpp1/3p2b1/7p/P2Pn3/2PBR3/2QN2PP/2B2R1K b - - 0 18,Forking Rook and Bishop
+36,Nf2+,e4f2,r3r1k1/ppp1qpp1/3p2b1/7p/P2P4/2PBR3/2QN1nPP/2B2R1K w - - 1 19,Forking Rook and Bishop
+37,Rxf2,f1f2,r3r1k1/ppp1qpp1/3p2b1/7p/P2P4/2PBR3/2QN1RPP/2B4K b - - 0 19,Forking Rook and Bishop
+38,Qxe3,e7e3,r3r1k1/ppp2pp1/3p2b1/7p/P2P4/2PBq3/2QN1RPP/2B4K w - - 0 20,Forking Rook and Bishop
+39,Bxg6,d3g6,r3r1k1/ppp2pp1/3p2B1/7p/P2P4/2P1q3/2QN1RPP/2B4K b - - 0 20,Completely losing
+40,Qxf2,e3f2,r3r1k1/ppp2pp1/3p2B1/7p/P2P4/2P5/2QN1qPP/2B4K w - - 0 21,Mate is unstoppable.
+41,Bh7+,g6h7,r3r1k1/ppp2ppB/3p4/7p/P2P4/2P5/2QN1qPP/2B4K b - - 1 21,Mate is unstoppable.
+42,Kh8,g8h8,r3r2k/ppp2ppB/3p4/7p/P2P4/2P5/2QN1qPP/2B4K w - - 2 22,Mate is unstoppable.
+43,Bd3,h7d3,r3r2k/ppp2pp1/3p4/7p/P2P4/2PB4/2QN1qPP/2B4K b - - 3 22,Mate is unstoppable.
+44,Re1+,e8e1,r6k/ppp2pp1/3p4/7p/P2P4/2PB4/2QN1qPP/2B1r2K w - - 4 23,Mate is unstoppable.

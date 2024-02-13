@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Scotch.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Scotch.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Scotch.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Scotch.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The Scotch.
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"This is not the best defense.  In the Philidor defense: 1. e4 e5 2. Nf3 d6, the queen knight is often developed via d7 rather than c6, where it is in this game.  3. ...exd4 is the standard continuation, often leading to the two knights defense."
+7,Bb5,f1b5,r1bqkbnr/ppp2ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4,"Black does not have time for this.  The position is different from a Ruy Lopez, because the moves d4 and d6 have already been played."
+8,a6,a7a6,r1bqkbnr/1pp2ppp/p1np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"Black does not have time for this.  The position is different from a Ruy Lopez, because the moves d4 and d6 have already been played."
+9,Bxc6+,b5c6,r1bqkbnr/1pp2ppp/p1Bp4/4p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"Now, white has won a pawn."
+10,bxc6,b7c6,r1bqkbnr/2p2ppp/p1pp4/4p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"Now, white has won a pawn."
+11,dxe5,d4e5,r1bqkbnr/2p2ppp/p1pp4/4P3/4P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 6,"Now, white has won a pawn."
+12,Bg4,c8g4,r2qkbnr/2p2ppp/p1pp4/4P3/4P1b1/5N2/PPP2PPP/RNBQK2R w KQkq - 1 7,Black hopes to create counter chances based on the two bishops.
+13,exd6,e5d6,r2qkbnr/2p2ppp/p1pP4/8/4P1b1/5N2/PPP2PPP/RNBQK2R b KQkq - 0 7,Black hopes to create counter chances based on the two bishops.
+14,Bxd6,f8d6,r2qk1nr/2p2ppp/p1pb4/8/4P1b1/5N2/PPP2PPP/RNBQK2R w KQkq - 0 8,Black hopes to create counter chances based on the two bishops.
+15,h3,h2h3,r2qk1nr/2p2ppp/p1pb4/8/4P1b1/5N1P/PPP2PP1/RNBQK2R b KQkq - 0 8,"So, white would like to eliminate one of them."
+16,Bb4+,d6b4,r2qk1nr/2p2ppp/p1p5/8/1b2P1b1/5N1P/PPP2PP1/RNBQK2R w KQkq - 1 9,"This isn't a good idea, because white can now force the trade of at least one of the bishops.  Notice that the move actually helps white complete his development.  8. ...Bh4 would've been better.  8. ...Bxf3 9. Qxf3 would also be good for white."
+17,Bd2,c1d2,r2qk1nr/2p2ppp/p1p5/8/1b2P1b1/5N1P/PPPB1PP1/RN1QK2R b KQkq - 2 9,"Look at the position after white's 8th move and compare it to this one.  After white's 8th move it is black's turn to move.  What has happened between then and now?  The dark square bishop's have been removed (robbing black of the two bishops) and the white knight has moved from b1 to d2.  Black has accelerated white's development and done nothing about his own.  Always be suspicious about giving check, especially with a piece that's already been developed.  Ask yourself whether the move helps you opponent's development."
+18,Bxd2+,b4d2,r2qk1nr/2p2ppp/p1p5/8/4P1b1/5N1P/PPPb1PP1/RN1QK2R w KQkq - 0 10,"Look at the position after white's 8th move and compare it to this one.  After white's 8th move it is black's turn to move.  What has happened between then and now?  The dark square bishop's have been removed (robbing black of the two bishops) and the white knight has moved from b1 to d2.  Black has accelerated white's development and done nothing about his own.  Always be suspicious about giving check, especially with a piece that's already been developed.  Ask yourself whether the move helps you opponent's development."
+19,Nbxd2,b1d2,r2qk1nr/2p2ppp/p1p5/8/4P1b1/5N1P/PPPN1PP1/R2QK2R b KQkq - 0 10,"Look at the position after white's 8th move and compare it to this one.  After white's 8th move it is black's turn to move.  What has happened between then and now?  The dark square bishop's have been removed (robbing black of the two bishops) and the white knight has moved from b1 to d2.  Black has accelerated white's development and done nothing about his own.  Always be suspicious about giving check, especially with a piece that's already been developed.  Ask yourself whether the move helps you opponent's development."
+20,Bh5,g4h5,r2qk1nr/2p2ppp/p1p5/7b/4P3/5N1P/PPPN1PP1/R2QK2R w KQkq - 1 11,"White is about to complete his development, has an extra pawn, and I haven't even mentioned black's crippled queenside pawns.  The only way to compensate for such structual flaws is to attack.  White's advantage is most pronounced in the endgame, so white will generally encourage any further reduction in material."
+21,Qe2,d1e2,r2qk1nr/2p2ppp/p1p5/7b/4P3/5N1P/PPPNQPP1/R3K2R b KQkq - 2 11,"White is about to complete his development, has an extra pawn, and I haven't even mentioned black's crippled queenside pawns.  The only way to compensate for such structual flaws is to attack.  White's advantage is most pronounced in the endgame, so white will generally encourage any further reduction in material."
+22,Nf6,g8f6,r2qk2r/2p2ppp/p1p2n2/7b/4P3/5N1P/PPPNQPP1/R3K2R w KQkq - 3 12,"Now that white knows where black's king lives, it is time to storm the castle."
+23,O-O-O,e1c1,r2qk2r/2p2ppp/p1p2n2/7b/4P3/5N1P/PPPNQPP1/2KR3R b kq - 4 12,"Now that white knows where black's king lives, it is time to storm the castle."
+24,O-O,e8g8,r2q1rk1/2p2ppp/p1p2n2/7b/4P3/5N1P/PPPNQPP1/2KR3R w - - 5 13,"Now that white knows where black's king lives, it is time to storm the castle."
+25,g4,g2g4,r2q1rk1/2p2ppp/p1p2n2/7b/4P1P1/5N1P/PPPNQP2/2KR3R b - - 0 13,"Now that white knows where black's king lives, it is time to storm the castle."
+26,Nxg4,f6g4,r2q1rk1/2p2ppp/p1p5/7b/4P1n1/5N1P/PPPNQP2/2KR3R w - - 0 14,"This move loses more material.  The pin on the knight on f3 is a minor annoyance, but it is not worth the loss of the knight. 13. ...Bg6 was better.  Even then, white's advantage is significant, however."
+27,hxg4,h3g4,r2q1rk1/2p2ppp/p1p5/7b/4P1P1/5N2/PPPNQP2/2KR3R b - - 0 14,Preparing to break the pin.
+28,Bxg4,h5g4,r2q1rk1/2p2ppp/p1p5/8/4P1b1/5N2/PPPNQP2/2KR3R w - - 0 15,Preparing to break the pin.
+29,Qe3,e2e3,r2q1rk1/2p2ppp/p1p5/8/4P1b1/4QN2/PPPN1P2/2KR3R b - - 1 15,Preparing to break the pin.
+30,Qf6,d8f6,r4rk1/2p2ppp/p1p2q2/8/4P1b1/4QN2/PPPN1P2/2KR3R w - - 2 16,Now the f3 knight is free to move.  Notice also the half-open g and h files which will be used by the white rooks to attack the black king.
+31,Rdg1,d1g1,r4rk1/2p2ppp/p1p2q2/8/4P1b1/4QN2/PPPN1P2/2K3RR b - - 3 16,Now the f3 knight is free to move.  Notice also the half-open g and h files which will be used by the white rooks to attack the black king.
+32,Rab8,a8b8,1r3rk1/2p2ppp/p1p2q2/8/4P1b1/4QN2/PPPN1P2/2K3RR w - - 4 17,A nice defensive try.  It is often possible to meet an attack (such as the one on black's g4 bishop) with a counter attack (in this case against b2).
+33,Qd4,e3d4,1r3rk1/2p2ppp/p1p2q2/8/3QP1b1/5N2/PPPN1P2/2K3RR b - - 5 17,"Again, white would encourage the trade of the queens in order to reach a winning ending."
+34,Qe6,f6e6,1r3rk1/2p2ppp/p1p1q3/8/3QP1b1/5N2/PPPN1P2/2K3RR w - - 6 18,"This move losses more material, but it is difficult to suggest any improvement."
+35,Ng5,f3g5,1r3rk1/2p2ppp/p1p1q3/6N1/3QP1b1/8/PPPN1P2/2K3RR b - - 7 18,"The white king is quite safe, and the defense of the bishop has been abandoned."
+36,Qxa2,e6a2,1r3rk1/2p2ppp/p1p5/6N1/3QP1b1/8/qPPN1P2/2K3RR w - - 0 19,"The white king is quite safe, and the defense of the bishop has been abandoned."
+37,Rxg4,g1g4,1r3rk1/2p2ppp/p1p5/6N1/3QP1R1/8/qPPN1P2/2K4R b - - 0 19,1-0.  Notice that white holds everything together after 19. ...Qa1  20. Nb1.

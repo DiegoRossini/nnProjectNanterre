@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Here my opponent deviates from the Main line of the Philidor which would be 3 ... exd4.
+7,dxe5,d4e5,r1bqkbnr/ppp2ppp/2np4/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,Planning to trade off pawns (maybe knights also) and then exchange queens which will force black to lose the ability to castle or else retreat his knight.
+8,dxe5,d6e5,r1bqkbnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,Now developing with an attack against the f7 pawn which is a little awkward to defend.
+9,Qxd8+,d1d8,r1bQkbnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5,Now developing with an attack against the f7 pawn which is a little awkward to defend.
+10,Kxd8,e8d8,r1bk1bnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNB1KB1R w KQ - 0 6,Now developing with an attack against the f7 pawn which is a little awkward to defend.
+11,Bc4,f1c4,r1bk1bnr/ppp2ppp/2n5/4p3/2B1P3/5N2/PPP2PPP/RNB1K2R b KQ - 1 6,Now developing with an attack against the f7 pawn which is a little awkward to defend.
+12,f6,f7f6,r1bk1bnr/ppp3pp/2n2p2/4p3/2B1P3/5N2/PPP2PPP/RNB1K2R w KQ - 0 7,Saves the pawn but blocks the most natural square for the g8 knight to develop to.
+13,O-O,e1g1,r1bk1bnr/ppp3pp/2n2p2/4p3/2B1P3/5N2/PPP2PPP/RNB2RK1 b - - 1 7,Both sides continue development.
+14,Bd6,f8d6,r1bk2nr/ppp3pp/2nb1p2/4p3/2B1P3/5N2/PPP2PPP/RNB2RK1 w - - 2 8,Both sides continue development.
+15,Be3,c1e3,r1bk2nr/ppp3pp/2nb1p2/4p3/2B1P3/4BN2/PPP2PPP/RN3RK1 b - - 3 8,Both sides continue development.
+16,Bg4,c8g4,r2k2nr/ppp3pp/2nb1p2/4p3/2B1P1b1/4BN2/PPP2PPP/RN3RK1 w - - 4 9,Both sides continue development.
+17,Nh4,f3h4,r2k2nr/ppp3pp/2nb1p2/4p3/2B1P1bN/4B3/PPP2PPP/RN3RK1 b - - 5 9,"Trying to avoid an exchange and doubling of pawns, but 9. Nbd2 might have accomplished that better."
+18,g6,g7g6,r2k2nr/ppp4p/2nb1pp1/4p3/2B1P1bN/4B3/PPP2PPP/RN3RK1 w - - 0 10,Keeping the knight off of f5.
+19,h3,h2h3,r2k2nr/ppp4p/2nb1pp1/4p3/2B1P1bN/4B2P/PPP2PP1/RN3RK1 b - - 0 10,Driving the Bishop away from its hold of d1.
+20,Bd7,g4d7,r2k2nr/pppb3p/2nb1pp1/4p3/2B1P2N/4B2P/PPP2PP1/RN3RK1 w - - 1 11,Driving the Bishop away from its hold of d1.
+21,Rd1,f1d1,r2k2nr/pppb3p/2nb1pp1/4p3/2B1P2N/4B2P/PPP2PP1/RN1R2K1 b - - 2 11,? This move loses time due to ...
+22,Be7,d6e7,r2k2nr/pppbb2p/2n2pp1/4p3/2B1P2N/4B2P/PPP2PP1/RN1R2K1 w - - 3 12,? This move loses time due to ...
+23,Be6,c4e6,r2k2nr/pppbb2p/2n1Bpp1/4p3/4P2N/4B2P/PPP2PP1/RN1R2K1 b - - 4 12,Threatening to win the white-squared bishop.
+24,Bd6,e7d6,r2k2nr/pppb3p/2nbBpp1/4p3/4P2N/4B2P/PPP2PP1/RN1R2K1 w - - 5 13,Both sides jockey for position and control of the queenside squares.
+25,Bxd7,e6d7,r2k2nr/pppB3p/2nb1pp1/4p3/4P2N/4B2P/PPP2PP1/RN1R2K1 b - - 0 13,Both sides jockey for position and control of the queenside squares.
+26,Kxd7,d8d7,r5nr/pppk3p/2nb1pp1/4p3/4P2N/4B2P/PPP2PP1/RN1R2K1 w - - 0 14,Both sides jockey for position and control of the queenside squares.
+27,Nc3,b1c3,r5nr/pppk3p/2nb1pp1/4p3/4P2N/2N1B2P/PPP2PP1/R2R2K1 b - - 1 14,Both sides jockey for position and control of the queenside squares.
+28,a6,a7a6,r5nr/1ppk3p/p1nb1pp1/4p3/4P2N/2N1B2P/PPP2PP1/R2R2K1 w - - 0 15,Both sides jockey for position and control of the queenside squares.
+29,Rd2,d1d2,r5nr/1ppk3p/p1nb1pp1/4p3/4P2N/2N1B2P/PPPR1PP1/R5K1 b - - 1 15,Both sides jockey for position and control of the queenside squares.
+30,Ke6,d7e6,r5nr/1pp4p/p1nbkpp1/4p3/4P2N/2N1B2P/PPPR1PP1/R5K1 w - - 2 16,Both sides jockey for position and control of the queenside squares.
+31,a3,a2a3,r5nr/1pp4p/p1nbkpp1/4p3/4P2N/P1N1B2P/1PPR1PP1/R5K1 b - - 0 16,Both sides jockey for position and control of the queenside squares.
+32,Nge7,g8e7,r6r/1pp1n2p/p1nbkpp1/4p3/4P2N/P1N1B2P/1PPR1PP1/R5K1 w - - 1 17,"Black finally develops his last piece, but his rooks still sit in the corners."
+33,Nd5,c3d5,r6r/1pp1n2p/p1nbkpp1/3Np3/4P2N/P3B2P/1PPR1PP1/R5K1 b - - 2 17,"Looking at the fork on c4 (pawn, bishop, and rook)."
+34,Na5,c6a5,r6r/1pp1n2p/p2bkpp1/n2Np3/4P2N/P3B2P/1PPR1PP1/R5K1 w - - 3 18,"Looking at the fork on c4 (pawn, bishop, and rook)."
+35,Bc5,e3c5,r6r/1pp1n2p/p2bkpp1/n1BNp3/4P2N/P6P/1PPR1PP1/R5K1 b - - 4 18,Threatening to exchange bishops and fork with the knight on c7.
+36,Nxd5,e7d5,r6r/1pp4p/p2bkpp1/n1Bnp3/4P2N/P6P/1PPR1PP1/R5K1 w - - 0 19,Gaining another tempo.  Both sides have a knight on the edge but with this move and the next the black knight becomes quite restricted.
+37,Bxd6,c5d6,r6r/1pp4p/p2Bkpp1/n2np3/4P2N/P6P/1PPR1PP1/R5K1 b - - 0 19,Gaining another tempo.  Both sides have a knight on the edge but with this move and the next the black knight becomes quite restricted.
+38,cxd6,c7d6,r6r/1p5p/p2pkpp1/n2np3/4P2N/P6P/1PPR1PP1/R5K1 w - - 0 20,Gaining another tempo.  Both sides have a knight on the edge but with this move and the next the black knight becomes quite restricted.
+39,exd5+,e4d5,r6r/1p5p/p2pkpp1/n2Pp3/7N/P6P/1PPR1PP1/R5K1 b - - 0 20,Gaining another tempo.  Both sides have a knight on the edge but with this move and the next the black knight becomes quite restricted.
+40,Kd7,e6d7,r6r/1p1k3p/p2p1pp1/n2Pp3/7N/P6P/1PPR1PP1/R5K1 w - - 1 21,Tightening the noose on the black knights mobility.
+41,b3,b2b3,r6r/1p1k3p/p2p1pp1/n2Pp3/7N/PP5P/2PR1PP1/R5K1 b - - 0 21,Tightening the noose on the black knights mobility.
+42,b5,b7b5,r6r/3k3p/p2p1pp1/np1Pp3/7N/PP5P/2PR1PP1/R5K1 w - - 0 22,Tightening the noose on the black knights mobility.
+43,g3,g2g3,r6r/3k3p/p2p1pp1/np1Pp3/7N/PP4PP/2PR1P2/R5K1 b - - 0 22,Tightening the noose on the black knights mobility.
+44,Rae8,a8e8,4r2r/3k3p/p2p1pp1/np1Pp3/7N/PP4PP/2PR1P2/R5K1 w - - 1 23,Tightening the noose on the black knights mobility.
+45,Re1,a1e1,4r2r/3k3p/p2p1pp1/np1Pp3/7N/PP4PP/2PR1P2/4R1K1 b - - 2 23,Tightening the noose on the black knights mobility.
+46,Nb7,a5b7,4r2r/1n1k3p/p2p1pp1/1p1Pp3/7N/PP4PP/2PR1P2/4R1K1 w - - 3 24,Tightening the noose on the black knights mobility.
+47,b4,b3b4,4r2r/1n1k3p/p2p1pp1/1p1Pp3/1P5N/P5PP/2PR1P2/4R1K1 b - - 0 24,Tightening the noose on the black knights mobility.
+48,a5,a6a5,4r2r/1n1k3p/3p1pp1/pp1Pp3/1P5N/P5PP/2PR1P2/4R1K1 w - - 0 25,Finally getting the knight back into play after the questionable 9th move.  16 moves of inactivity is the price paid here.
+49,Ng2,h4g2,4r2r/1n1k3p/3p1pp1/pp1Pp3/1P6/P5PP/2PR1PN1/4R1K1 b - - 1 25,Finally getting the knight back into play after the questionable 9th move.  16 moves of inactivity is the price paid here.
+50,axb4,a5b4,4r2r/1n1k3p/3p1pp1/1p1Pp3/1p6/P5PP/2PR1PN1/4R1K1 w - - 0 26,"Taking the open file, which will cause white some problems."
+51,axb4,a3b4,4r2r/1n1k3p/3p1pp1/1p1Pp3/1P6/6PP/2PR1PN1/4R1K1 b - - 0 26,"Taking the open file, which will cause white some problems."
+52,Rea8,e8a8,r6r/1n1k3p/3p1pp1/1p1Pp3/1P6/6PP/2PR1PN1/4R1K1 w - - 1 27,"Taking the open file, which will cause white some problems."
+53,Ne3,g2e3,r6r/1n1k3p/3p1pp1/1p1Pp3/1P6/4N1PP/2PR1P2/4R1K1 b - - 2 27,Preparing to double the rooks with a tempo on the b pawn.
+54,Ra4,a8a4,7r/1n1k3p/3p1pp1/1p1Pp3/rP6/4N1PP/2PR1P2/4R1K1 w - - 3 28,Preparing to double the rooks with a tempo on the b pawn.
+55,c3,c2c3,7r/1n1k3p/3p1pp1/1p1Pp3/rP6/2P1N1PP/3R1P2/4R1K1 b - - 0 28,Getting the king onto a sheltered row and closer to endgame action.
+56,Rha8,h8a8,r7/1n1k3p/3p1pp1/1p1Pp3/rP6/2P1N1PP/3R1P2/4R1K1 w - - 1 29,Getting the king onto a sheltered row and closer to endgame action.
+57,Kg2,g1g2,r7/1n1k3p/3p1pp1/1p1Pp3/rP6/2P1N1PP/3R1PK1/4R3 b - - 2 29,Getting the king onto a sheltered row and closer to endgame action.

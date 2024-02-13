@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is the starting position for the themed MT.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,This is the starting position for the themed MT.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,This is the starting position for the themed MT.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,This is the starting position for the themed MT.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,This is the starting position for the themed MT.
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,This is the starting position for the themed MT.
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,This is the starting position for the themed MT.
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,This is the starting position for the themed MT.
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,This is the starting position for the themed MT.
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,This is the starting position for the themed MT.
+11,Nf3,g1f3,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 6,"This is the main line, though I've never played it before, always favoring the 'flick-knife attack' with 6.e4 g6 7.f4 Bg7 8.Bb5+. Of course, that line is impossible with White's Knight on f3 already."
+12,a6,a7a6,rnbqkb1r/1p3ppp/p2p1n2/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 7,"Black moves to prevent an incursion on b5, a thematic square to fight over in this opening, and prepares ...b7-b5 for himself. I think it's more common to fianchetto the DSB first, or use a6 for a Knight maneuver (Nb8-a6-c7 to support b5), but this is perfectly playable."
+13,a4,a2a4,rnbqkb1r/1p3ppp/p2p1n2/2pP4/P7/2N2N2/1P2PPPP/R1BQKB1R b KQkq - 0 7,White increases his own control of b5 to prevent Black from using it.
+14,Nbd7,b8d7,r1bqkb1r/1p1n1ppp/p2p1n2/2pP4/P7/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 8,"This is the only place this Knight can develop at the moment. Black now eyes e5, probably the most thematic battleground square in this opening."
+15,e4,e2e4,r1bqkb1r/1p1n1ppp/p2p1n2/2pP4/P3P3/2N2N2/1P3PPP/R1BQKB1R b KQkq - 0 8,"White frees his Bishop and supports d5. This pawn will generally sit on e4 until White can orchestrate an e4-e5 break, or until Black manages to break the White center."
+16,Qe7,d8e7,r1b1kb1r/1p1nqppp/p2p1n2/2pP4/P3P3/2N2N2/1P3PPP/R1BQKB1R w KQkq - 1 9,"?! Black brings out the big guns, threatening e4 and supporting e5, but I'm not certain that this is wise. Now the BQ is the sole defender of the d6 pawn, and she's lined up with her King, who is still at least three moves from castling."
+17,Qc2,d1c2,r1b1kb1r/1p1nqppp/p2p1n2/2pP4/P3P3/2N2N2/1PQ2PPP/R1B1KB1R b KQkq - 2 9,White reinforces e4 and moves his Queen to the half-open c-file.
+18,Ne5,d7e5,r1b1kb1r/1p2qppp/p2p1n2/2pPn3/P3P3/2N2N2/1PQ2PPP/R1B1KB1R w KQkq - 3 10,"This was evidently the plan behind 8...Qe7, and occupying e5 is fine, but I don't think it gains much for Black here."
+19,Nxe5,f3e5,r1b1kb1r/1p2qppp/p2p1n2/2pPN3/P3P3/2N5/1PQ2PPP/R1B1KB1R b KQkq - 0 10,"When Black recaptures, White will either gain a passed pawn on d5, or a tempo to beat back the BQ."
+20,Qxe5,e7e5,r1b1kb1r/1p3ppp/p2p1n2/2pPq3/P3P3/2N5/1PQ2PPP/R1B1KB1R w KQkq - 0 11,"Black prefers to keep the e-file half-opened, but this does expose his Queen..."
+21,f4,f2f4,r1b1kb1r/1p3ppp/p2p1n2/2pPq3/P3PP2/2N5/1PQ3PP/R1B1KB1R b KQkq - 0 11,"Black has now moved his Queen three times, and he's still far from completing development. White has a strong forward pawn cluster, though it remains to be seen whether it's too far advanced to be supported."
+22,Qe7,e5e7,r1b1kb1r/1p2qppp/p2p1n2/2pP4/P3PP2/2N5/1PQ3PP/R1B1KB1R w KQkq - 1 12,"Black has now moved his Queen three times, and he's still far from completing development. White has a strong forward pawn cluster, though it remains to be seen whether it's too far advanced to be supported."
+23,Bc4,f1c4,r1b1kb1r/1p2qppp/p2p1n2/2pP4/P1B1PP2/2N5/1PQ3PP/R1B1K2R b KQkq - 2 12,"White prepares to castle while supporting his forward pawns, and taking aim at f7 indirectly. Deciding where to place this Bishop is often a sticking point for me--depending on the game, it's just as likely to belong on d3 or e2 as c4. I chose c4 in this game because, as Black has yet to castle or develop his DSB, I felt confident that I would be able to make an e4-e5 break, in which case the d-pawn may need extra support."
+24,g6,g7g6,r1b1kb1r/1p2qp1p/p2p1np1/2pP4/P1B1PP2/2N5/1PQ3PP/R1B1K2R w KQkq - 0 13,Black finally takes steps to complete his development.
+25,O-O,e1g1,r1b1kb1r/1p2qp1p/p2p1np1/2pP4/P1B1PP2/2N5/1PQ3PP/R1B2RK1 b kq - 1 13,"This seems confused to me--Black prepared to develop his DSB to g7 (or even h6), so he should follow through on that."
+26,Bd7,c8d7,r3kb1r/1p1bqp1p/p2p1np1/2pP4/P1B1PP2/2N5/1PQ3PP/R1B2RK1 w kq - 2 14,"This seems confused to me--Black prepared to develop his DSB to g7 (or even h6), so he should follow through on that."
+27,Bd2,c1d2,r3kb1r/1p1bqp1p/p2p1np1/2pP4/P1B1PP2/2N5/1PQB2PP/R4RK1 b kq - 3 14,"This Bishop presents a perennial problem for me in this opening; I have a terrible time figuring out when and how to develop it. With no Black Bishop on the long diagonal to complicate matters, it's significantly easier. From d2, the Bishop supports the kingside while still being able to jump into action on Black's weakened dark squares on the queenside."
+28,Nh5,f6h5,r3kb1r/1p1bqp1p/p2p2p1/2pP3n/P1B1PP2/2N5/1PQB2PP/R4RK1 w kq - 4 15,? Black's troops lack cohesion. I can't figure out what this move was meant to accomplish.
+29,e5,e4e5,r3kb1r/1p1bqp1p/p2p2p1/2pPP2n/P1B2P2/2N5/1PQB2PP/R4RK1 b kq - 0 15,"Now that White's Rooks are connected, and with Black's forces in disarray and his King stuck in the center, it is the perfect opportunity to break through on the e-file. Of course Black can gain nothing from capturing, due to his King and Queen sharing the dangerous file."
+30,O-O-O,e8c8,2kr1b1r/1p1bqp1p/p2p2p1/2pPP2n/P1B2P2/2N5/1PQB2PP/R4RK1 w - - 1 16,Black evacuates.
+31,Rfe1,f1e1,2kr1b1r/1p1bqp1p/p2p2p1/2pPP2n/P1B2P2/2N5/1PQB2PP/R3R1K1 b - - 2 16,"Supporting the now-underdefended e-pawn, and threatening to expose an attack on the Queen, of course."

@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Has to stop knight fork as well as retreat.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Has to stop knight fork as well as retreat.
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Has to stop knight fork as well as retreat.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Has to stop knight fork as well as retreat.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,Has to stop knight fork as well as retreat.
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4,Has to stop knight fork as well as retreat.
+7,Qf3,h5f3,r1bqkbnr/pppp1p1p/2n3p1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 4,Has to stop knight fork as well as retreat.
+8,f6,f7f6,r1bqkbnr/pppp3p/2n2pp1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 5,Has to stop knight fork as well as retreat.
+9,d3,d2d3,r1bqkbnr/pppp3p/2n2pp1/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 5,Has to stop knight fork as well as retreat.
+10,Nd4,c6d4,r1bqkbnr/pppp3p/5pp1/4p3/2BnP3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 6,Has to stop knight fork as well as retreat.
+11,Qd1,f3d1,r1bqkbnr/pppp3p/5pp1/4p3/2BnP3/3P4/PPP2PPP/RNBQK1NR b KQkq - 2 6,Terrible move.
+12,Bc5,f8c5,r1bqk1nr/pppp3p/5pp1/2b1p3/2BnP3/3P4/PPP2PPP/RNBQK1NR w KQkq - 3 7,Terrible move.
+13,Bh6,c1h6,r1bqk1nr/pppp3p/5ppB/2b1p3/2BnP3/3P4/PPP2PPP/RN1QK1NR b KQkq - 4 7,Terrible move.
+14,Nxh6,g8h6,r1bqk2r/pppp3p/5ppn/2b1p3/2BnP3/3P4/PPP2PPP/RN1QK1NR w KQkq - 0 8,White did not see the backing bishop; He pays heavily.
+15,c3,c2c3,r1bqk2r/pppp3p/5ppn/2b1p3/2BnP3/2PP4/PP3PPP/RN1QK1NR b KQkq - 0 8,White did not see the backing bishop; He pays heavily.
+16,Nc6,d4c6,r1bqk2r/pppp3p/2n2ppn/2b1p3/2B1P3/2PP4/PP3PPP/RN1QK1NR w KQkq - 1 9,White did not see the backing bishop; He pays heavily.
+17,Nf3,g1f3,r1bqk2r/pppp3p/2n2ppn/2b1p3/2B1P3/2PP1N2/PP3PPP/RN1QK2R b KQkq - 2 9,White did not see the backing bishop; He pays heavily.
+18,Ng4,h6g4,r1bqk2r/pppp3p/2n2pp1/2b1p3/2B1P1n1/2PP1N2/PP3PPP/RN1QK2R w KQkq - 3 10,White did not see the backing bishop; He pays heavily.
+19,d4,d3d4,r1bqk2r/pppp3p/2n2pp1/2b1p3/2BPP1n1/2P2N2/PP3PPP/RN1QK2R b KQkq - 0 10,White did not see the backing bishop; He pays heavily.
+20,Bb6,c5b6,r1bqk2r/pppp3p/1bn2pp1/4p3/2BPP1n1/2P2N2/PP3PPP/RN1QK2R w KQkq - 1 11,White did not see the backing bishop; He pays heavily.
+21,d5,d4d5,r1bqk2r/pppp3p/1bn2pp1/3Pp3/2B1P1n1/2P2N2/PP3PPP/RN1QK2R b KQkq - 0 11,White did not see the backing bishop; He pays heavily.
+22,Na5,c6a5,r1bqk2r/pppp3p/1b3pp1/n2Pp3/2B1P1n1/2P2N2/PP3PPP/RN1QK2R w KQkq - 1 12,White did not see the backing bishop; He pays heavily.
+23,Bb3,c4b3,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P1n1/1BP2N2/PP3PPP/RN1QK2R b KQkq - 2 12,White did not see the backing bishop; He pays heavily.
+24,Nxf2,g4f2,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N2/PP3nPP/RN1QK2R w KQkq - 0 13,White did not see the backing bishop; He pays heavily.
+25,Qe2,d1e2,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N2/PP2QnPP/RN2K2R b KQkq - 1 13,"An OK move, if the queen wasn't so well placed."
+26,Nxh1,f2h1,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N2/PP2Q1PP/RN2K2n w Qkq - 0 14,"An OK move, if the queen wasn't so well placed."
+27,Qf1,e2f1,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N2/PP4PP/RN2KQ1n b Qkq - 1 14,"An OK move, if the queen wasn't so well placed."
+28,Nf2,h1f2,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N2/PP3nPP/RN2KQ2 w Qkq - 2 15,"An OK move, if the queen wasn't so well placed."
+29,h3,h2h3,r1bqk2r/pppp3p/1b3pp1/n2Pp3/4P3/1BP2N1P/PP3nP1/RN2KQ2 b Qkq - 0 15,"An OK move, if the queen wasn't so well placed."
+30,f5,f6f5,r1bqk2r/pppp3p/1b4p1/n2Ppp2/4P3/1BP2N1P/PP3nP1/RN2KQ2 w Qkq - 0 16,"An OK move, if the queen wasn't so well placed."
+31,exf5,e4f5,r1bqk2r/pppp3p/1b4p1/n2PpP2/8/1BP2N1P/PP3nP1/RN2KQ2 b Qkq - 0 16,"An OK move, if the queen wasn't so well placed."
+32,gxf5,g6f5,r1bqk2r/pppp3p/1b6/n2Ppp2/8/1BP2N1P/PP3nP1/RN2KQ2 w Qkq - 0 17,"An OK move, if the queen wasn't so well placed."
+33,Bc2,b3c2,r1bqk2r/pppp3p/1b6/n2Ppp2/8/2P2N1P/PPB2nP1/RN2KQ2 b Qkq - 1 17,"An OK move, if the queen wasn't so well placed."
+34,e4,e5e4,r1bqk2r/pppp3p/1b6/n2P1p2/4p3/2P2N1P/PPB2nP1/RN2KQ2 w Qkq - 0 18,"An OK move, if the queen wasn't so well placed."
+35,Nd4,f3d4,r1bqk2r/pppp3p/1b6/n2P1p2/3Np3/2P4P/PPB2nP1/RN2KQ2 b Qkq - 1 18,"An OK move, if the queen wasn't so well placed."
+36,e3,e4e3,r1bqk2r/pppp3p/1b6/n2P1p2/3N4/2P1p2P/PPB2nP1/RN2KQ2 w Qkq - 0 19,"An OK move, if the queen wasn't so well placed."
+37,Nxf5,d4f5,r1bqk2r/pppp3p/1b6/n2P1N2/8/2P1p2P/PPB2nP1/RN2KQ2 b Qkq - 0 19,"An OK move, if the queen wasn't so well placed."
+38,Qg5,d8g5,r1b1k2r/pppp3p/1b6/n2P1Nq1/8/2P1p2P/PPB2nP1/RN2KQ2 w Qkq - 1 20,"An OK move, if the queen wasn't so well placed."
+39,Nd4,f5d4,r1b1k2r/pppp3p/1b6/n2P2q1/3N4/2P1p2P/PPB2nP1/RN2KQ2 b Qkq - 2 20,"An OK move, if the queen wasn't so well placed."
+40,Rf8,h8f8,r1b1kr2/pppp3p/1b6/n2P2q1/3N4/2P1p2P/PPB2nP1/RN2KQ2 w Qq - 3 21,"An OK move, if the queen wasn't so well placed."
+41,Nb5,d4b5,r1b1kr2/pppp3p/1b6/nN1P2q1/8/2P1p2P/PPB2nP1/RN2KQ2 b Qq - 4 21,"An OK move, if the queen wasn't so well placed."
+42,Nd3+,f2d3,r1b1kr2/pppp3p/1b6/nN1P2q1/8/2Pnp2P/PPB3P1/RN2KQ2 w Qq - 5 22,"An OK move, if the queen wasn't so well placed."
+43,Qxd3,f1d3,r1b1kr2/pppp3p/1b6/nN1P2q1/8/2PQp2P/PPB3P1/RN2K3 b Qq - 0 22,The pawn promotion could become a real threat here.
+44,Qg3+,g5g3,r1b1kr2/pppp3p/1b6/nN1P4/8/2PQp1qP/PPB3P1/RN2K3 w Qq - 1 23,The pawn promotion could become a real threat here.
+45,Kd1,e1d1,r1b1kr2/pppp3p/1b6/nN1P4/8/2PQp1qP/PPB3P1/RN1K4 b q - 2 23,The pawn promotion could become a real threat here.
+46,Rf2,f8f2,r1b1k3/pppp3p/1b6/nN1P4/8/2PQp1qP/PPB2rP1/RN1K4 w q - 3 24,The pawn promotion could become a real threat here.
+47,Nd2,b1d2,r1b1k3/pppp3p/1b6/nN1P4/8/2PQp1qP/PPBN1rP1/R2K4 b q - 4 24,The pawn promotion could become a real threat here.
+48,Nc4,a5c4,r1b1k3/pppp3p/1b6/1N1P4/2n5/2PQp1qP/PPBN1rP1/R2K4 w q - 5 25,The pawn promotion could become a real threat here.
+49,Nxc4,d2c4,r1b1k3/pppp3p/1b6/1N1P4/2N5/2PQp1qP/PPB2rP1/R2K4 b q - 0 25,The pawn promotion could become a real threat here.
+50,e2+,e3e2,r1b1k3/pppp3p/1b6/1N1P4/2N5/2PQ2qP/PPB1prP1/R2K4 w q - 0 26,The pawn promotion could become a real threat here.
+51,Kd2,d1d2,r1b1k3/pppp3p/1b6/1N1P4/2N5/2PQ2qP/PPBKprP1/R7 b q - 1 26,The pawn promotion could become a real threat here.
+52,d6,d7d6,r1b1k3/ppp4p/1b1p4/1N1P4/2N5/2PQ2qP/PPBKprP1/R7 w q - 0 27,A failed knight fork... White forgot the bishop.
+53,Nxc7+,b5c7,r1b1k3/ppN4p/1b1p4/3P4/2N5/2PQ2qP/PPBKprP1/R7 b q - 0 27,A failed knight fork... White forgot the bishop.
+54,Bxc7,b6c7,r1b1k3/ppb4p/3p4/3P4/2N5/2PQ2qP/PPBKprP1/R7 w q - 0 28,"White finally takes the unprotected queen, and black resigns."
+55,Qxg3,d3g3,r1b1k3/ppb4p/3p4/3P4/2N5/2P3QP/PPBKprP1/R7 b q - 0 28,"White finally takes the unprotected queen, and black resigns."

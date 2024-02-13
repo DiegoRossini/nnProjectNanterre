@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This game starts as a wild King's Gambit. After some fascinating tactics in the early mid-game, the game settles down into a level position, and eventually a level pawn ending. But just when my colorful opponent has a draw within his sights, he blunders and then there is no way back. Enjoy!"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,So I copy his move
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"He opts for the King's Gambit. ""White offers a pawn to divert the Black e-pawn so as to build a strong centre with d2–d4. Theory has shown that in order for Black to maintain the gambit pawn, he may well be forced to weaken his kingside. The King's Gambit is one of the oldest documented openings, as it was examined by the 17th century Italian chess player Giulio Polerio. It is also in an older book by Luis Ramirez de Lucena.""
+http://en.wikipedia.org/wiki/King's_Gambit"
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,So I take
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,He prevents Qh4 check
+6,g5,g7g5,rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,I protect the extra pawn.
+7,h4,h2h4,rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 4,He aims to break up my king side pawns.
+8,g4,g5g4,rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5,So I push again
+9,Ne5,f3e5,rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 1 5,"Knight comes forward. There is an interesting variation now, 5...h5, 6. Bc4 Rh7 (to protect f7). I don't know any other opening when the first piece developed in the black army is his king's rook! I opt for something else."
+10,d6,d7d6,rnbqkbnr/ppp2p1p/3p4/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 0 6,"I am giving back a pawn, but his pawn on h4 is going to be weak."
+11,Nxg4,e5g4,rnbqkbnr/ppp2p1p/3p4/8/4PpNP/8/PPPP2P1/RNBQKB1R b KQkq - 0 6,So he takes the pawn
+12,Be7,f8e7,rnbqk1nr/ppp1bp1p/3p4/8/4PpNP/8/PPPP2P1/RNBQKB1R w KQkq - 1 7,I attack h4.
+13,h5,h4h5,rnbqk1nr/ppp1bp1p/3p4/7P/4PpN1/8/PPPP2P1/RNBQKB1R b KQkq - 0 7,"There is a logic to this, hanging onto his h pawn. However the post-match analysis gives this as a mistake. On the world opening database on Gameknot, there are 19 games with this position, only 1 continued with h5 and black won that. Kleifges, Matthias (2175) vs. Meyer, Gerd1 (2055) continued with 7. h5 Bh4+ 8. Nf2 Qg5 9. d4 Nf6 10. Qf3 Ng4 11. g3 Bxg3 12. Qxg3 fxg3 13. Bxg5 Nxf2 14. Rh4 Rg8 and black is a clear pawn up."
+14,Bh4+,e7h4,rnbqk1nr/ppp2p1p/3p4/7P/4PpNb/8/PPPP2P1/RNBQKB1R w KQkq - 1 8,So I throw in the check
+15,Nf2,g4f2,rnbqk1nr/ppp2p1p/3p4/7P/4Pp1b/8/PPPP1NP1/RNBQKB1R b KQkq - 2 8,His wandering knight retreats.
+16,Qg5,d8g5,rnb1k1nr/ppp2p1p/3p4/6qP/4Pp1b/8/PPPP1NP1/RNBQKB1R w KQkq - 3 9,"I continue as in Kleifges, Matthias (2175) vs. Meyer, Gerd1 (2055)"
+17,d4,d2d4,rnb1k1nr/ppp2p1p/3p4/6qP/3PPp1b/8/PPP2NP1/RNBQKB1R b KQkq - 0 9,So does he
+18,Nf6,g8f6,rnb1k2r/ppp2p1p/3p1n2/6qP/3PPp1b/8/PPP2NP1/RNBQKB1R w KQkq - 1 10,"I continue. As his knight on f2 is pinned by my bishop on h4, I am now threatening Ng4 or Nxe4"
+19,Qe2,d1e2,rnb1k2r/ppp2p1p/3p1n2/6qP/3PPp1b/8/PPP1QNP1/RNB1KB1R b KQkq - 2 10,"He protects e4, but not g4. Can't he see that I can just play Ng4 and win his knight? Post-match analysis claims this is a mistake and suggests 10. Qf3 Ng4 11. Rxh4 Qxh4 12. Bb5+ c6 13. Bc4 Ne3 14. Bxe3 fxe3 15. Qxe3 Qxh5 16. Nc3 Qh2 17. O-O-O Qxg2"
+20,Ng4,f6g4,rnb1k2r/ppp2p1p/3p4/6qP/3PPpnb/8/PPP1QNP1/RNB1KB1R w KQkq - 3 11,So I continue with my plan. Post match analysis suggests Nc6 11. d5 Ne5 12. Nc3 Nxh5 13. Qd2 Ng4 14. Ncd1 Bd7 15. Qd4 O-O 16. Qc4 Ng3 17. Bxf4 as best for black. I didn't see his next move!

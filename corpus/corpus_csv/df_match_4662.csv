@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard Sicilian opening
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My opponent moved his g pawn to make space for his Bishop
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,My opponent moved his g pawn to make space for his Bishop
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,My opponent moved his g pawn to make space for his Bishop
+5,Bb5,f1b5,r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,My opponent moved his g pawn to make space for his Bishop
+6,a6,a7a6,r1bqkbnr/1p1ppppp/p1n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,My opponent moved his g pawn to make space for his Bishop
+7,Bxc6,b5c6,r1bqkbnr/1p1ppppp/p1B5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,My opponent moved his g pawn to make space for his Bishop
+8,dxc6,d7c6,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,My opponent moved his g pawn to make space for his Bishop
+9,d3,d2d3,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5,My opponent moved his g pawn to make space for his Bishop
+10,g6,g7g6,r1bqkbnr/1p2pp1p/p1p3p1/2p5/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6,My opponent moved his g pawn to make space for his Bishop
+11,O-O,e1g1,r1bqkbnr/1p2pp1p/p1p3p1/2p5/4P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 1 6,"He used his Bishop for attack, freeing the g7 square. Later that square will prove very useful"
+12,Bg7,f8g7,r1bqk1nr/1p2ppbp/p1p3p1/2p5/4P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 2 7,"He used his Bishop for attack, freeing the g7 square. Later that square will prove very useful"
+13,Nc3,b1c3,r1bqk1nr/1p2ppbp/p1p3p1/2p5/4P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 3 7,"He used his Bishop for attack, freeing the g7 square. Later that square will prove very useful"
+14,Bxc3,g7c3,r1bqk1nr/1p2pp1p/p1p3p1/2p5/4P3/2bP1N2/PPP2PPP/R1BQ1RK1 w kq - 0 8,"He used his Bishop for attack, freeing the g7 square. Later that square will prove very useful"
+15,bxc3,b2c3,r1bqk1nr/1p2pp1p/p1p3p1/2p5/4P3/2PP1N2/P1P2PPP/R1BQ1RK1 b kq - 0 8,At this point I still havent been noticed what opportunity my opponent has left me.
+16,Nf6,g8f6,r1bqk2r/1p2pp1p/p1p2np1/2p5/4P3/2PP1N2/P1P2PPP/R1BQ1RK1 w kq - 1 9,At this point I still havent been noticed what opportunity my opponent has left me.
+17,c4,c3c4,r1bqk2r/1p2pp1p/p1p2np1/2p5/2P1P3/3P1N2/P1P2PPP/R1BQ1RK1 b kq - 0 9,For a better pawn structure
+18,b5,b7b5,r1bqk2r/4pp1p/p1p2np1/1pp5/2P1P3/3P1N2/P1P2PPP/R1BQ1RK1 w kq - 0 10,The knight searches the best place - in this case it threatens the c6 pawn and protects c4
+19,Ne5,f3e5,r1bqk2r/4pp1p/p1p2np1/1pp1N3/2P1P3/3P4/P1P2PPP/R1BQ1RK1 b kq - 1 10,The knight searches the best place - in this case it threatens the c6 pawn and protects c4
+20,Bb7,c8b7,r2qk2r/1b2pp1p/p1p2np1/1pp1N3/2P1P3/3P4/P1P2PPP/R1BQ1RK1 w kq - 2 11,I finally noticed what error my opponent has made. The square which he freed for his dark bishop now proves very useful for my one.
+21,cxb5,c4b5,r2qk2r/1b2pp1p/p1p2np1/1Pp1N3/4P3/3P4/P1P2PPP/R1BQ1RK1 b kq - 0 11,I finally noticed what error my opponent has made. The square which he freed for his dark bishop now proves very useful for my one.
+22,cxb5,c6b5,r2qk2r/1b2pp1p/p4np1/1pp1N3/4P3/3P4/P1P2PPP/R1BQ1RK1 w kq - 0 12,I finally noticed what error my opponent has made. The square which he freed for his dark bishop now proves very useful for my one.
+23,Bh6,c1h6,r2qk2r/1b2pp1p/p4npB/1pp1N3/4P3/3P4/P1P2PPP/R2Q1RK1 b kq - 1 12,I finally noticed what error my opponent has made. The square which he freed for his dark bishop now proves very useful for my one.
+24,c4,c5c4,r2qk2r/1b2pp1p/p4npB/1p2N3/2p1P3/3P4/P1P2PPP/R2Q1RK1 w kq - 0 13,Preventing my opponent from castling...
+25,Bg7,h6g7,r2qk2r/1b2ppBp/p4np1/1p2N3/2p1P3/3P4/P1P2PPP/R2Q1RK1 b kq - 1 13,Preventing my opponent from castling...
+26,Rg8,h8g8,r2qk1r1/1b2ppBp/p4np1/1p2N3/2p1P3/3P4/P1P2PPP/R2Q1RK1 w q - 2 14,...and removing that knight which would make checkmating harder if left
+27,Bxf6,g7f6,r2qk1r1/1b2pp1p/p4Bp1/1p2N3/2p1P3/3P4/P1P2PPP/R2Q1RK1 b q - 0 14,...and removing that knight which would make checkmating harder if left
+28,exf6,e7f6,r2qk1r1/1b3p1p/p4pp1/1p2N3/2p1P3/3P4/P1P2PPP/R2Q1RK1 w q - 0 15,At that moment I was a bit dissapointed that my opponent will be able to castle his king anyway
+29,Nf3,e5f3,r2qk1r1/1b3p1p/p4pp1/1p6/2p1P3/3P1N2/P1P2PPP/R2Q1RK1 b q - 1 15,At that moment I was a bit dissapointed that my opponent will be able to castle his king anyway
+30,Kf8,e8f8,r2q1kr1/1b3p1p/p4pp1/1p6/2p1P3/3P1N2/P1P2PPP/R2Q1RK1 w - - 2 16,At that moment I was a bit dissapointed that my opponent will be able to castle his king anyway
+31,Nh4,f3h4,r2q1kr1/1b3p1p/p4pp1/1p6/2p1P2N/3P4/P1P2PPP/R2Q1RK1 b - - 3 16,The method is now clear - an attack with a queen and a knight
+32,cxd3,c4d3,r2q1kr1/1b3p1p/p4pp1/1p6/4P2N/3p4/P1P2PPP/R2Q1RK1 w - - 0 17,Big mistake - it would be much better if I moved cxd3 instead. Now I have two isolated pawns and my opponent could have easily prevented the attack if he had exchanged the Qs
+33,Qxd3,d1d3,r2q1kr1/1b3p1p/p4pp1/1p6/4P2N/3Q4/P1P2PPP/R4RK1 b - - 0 17,Big mistake - it would be much better if I moved cxd3 instead. Now I have two isolated pawns and my opponent could have easily prevented the attack if he had exchanged the Qs
+34,Qb6,d8b6,r4kr1/1b3p1p/pq3pp1/1p6/4P2N/3Q4/P1P2PPP/R4RK1 w - - 1 18,acting randomly to defend the two isolated pawns
+35,Qa3+,d3a3,r4kr1/1b3p1p/pq3pp1/1p6/4P2N/Q7/P1P2PPP/R4RK1 b - - 2 18,acting randomly to defend the two isolated pawns
+36,Kg7,f8g7,r5r1/1b3pkp/pq3pp1/1p6/4P2N/Q7/P1P2PPP/R4RK1 w - - 3 19,"at glance an innocent move, but which has greatly influeced the end of the game"
+37,Rfe1,f1e1,r5r1/1b3pkp/pq3pp1/1p6/4P2N/Q7/P1P2PPP/R3R1K1 b - - 4 19,"at glance an innocent move, but which has greatly influeced the end of the game"
+38,Rae8,a8e8,4r1r1/1b3pkp/pq3pp1/1p6/4P2N/Q7/P1P2PPP/R3R1K1 w - - 5 20,"at glance an innocent move, but which has greatly influeced the end of the game"
+39,e5,e4e5,4r1r1/1b3pkp/pq3pp1/1p2P3/7N/Q7/P1P2PPP/R3R1K1 b - - 0 20,"at glance an innocent move, but which has greatly influeced the end of the game"
+40,fxe5,f6e5,4r1r1/1b3pkp/pq4p1/1p2p3/7N/Q7/P1P2PPP/R3R1K1 w - - 0 21,"at glance an innocent move, but which has greatly influeced the end of the game"
+41,Qc3,a3c3,4r1r1/1b3pkp/pq4p1/1p2p3/7N/2Q5/P1P2PPP/R3R1K1 b - - 1 21,"at glance an innocent move, but which has greatly influeced the end of the game"
+42,f6,f7f6,4r1r1/1b4kp/pq3pp1/1p2p3/7N/2Q5/P1P2PPP/R3R1K1 w - - 0 22,"at glance an innocent move, but which has greatly influeced the end of the game"
+43,Rad1,a1d1,4r1r1/1b4kp/pq3pp1/1p2p3/7N/2Q5/P1P2PPP/3RR1K1 b - - 1 22,"at that moment I wasnt planning anything, I simply took the empty d file"
+44,Rec8,e8c8,2r3r1/1b4kp/pq3pp1/1p2p3/7N/2Q5/P1P2PPP/3RR1K1 w - - 2 23,and BOOM - the checkmate is now (almost) inevitable
+45,Rd7+,d1d7,2r3r1/1b1R2kp/pq3pp1/1p2p3/7N/2Q5/P1P2PPP/4R1K1 b - - 3 23,and BOOM - the checkmate is now (almost) inevitable
+46,Kh8,g7h8,2r3rk/1b1R3p/pq3pp1/1p2p3/7N/2Q5/P1P2PPP/4R1K1 w - - 4 24,the easiest (in my opinion) move to deal with
+47,Qh3,c3h3,2r3rk/1b1R3p/pq3pp1/1p2p3/7N/7Q/P1P2PPP/4R1K1 b - - 5 24,he still wasnt noticed the obvious threat
+48,Rc7,c8c7,6rk/1brR3p/pq3pp1/1p2p3/7N/7Q/P1P2PPP/4R1K1 w - - 6 25,he still wasnt noticed the obvious threat
+49,Nxg6+,h4g6,6rk/1brR3p/pq3pN1/1p2p3/8/7Q/P1P2PPP/4R1K1 b - - 0 25,
+50,Rxg6,g8g6,7k/1brR3p/pq3pr1/1p2p3/8/7Q/P1P2PPP/4R1K1 w - - 0 26,
+51,Qxh7#,h3h7,7k/1brR3Q/pq3pr1/1p2p3/8/8/P1P2PPP/4R1K1 b - - 0 26,

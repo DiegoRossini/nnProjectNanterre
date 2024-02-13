@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The French defense -- which usually leads to closed lines.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The French defense -- which usually leads to closed lines.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"The strong point of the French -- protect it, capture it, advance it -- but don't ignore it!"
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"The strong point of the French -- protect it, capture it, advance it -- but don't ignore it!"
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,White chooses to protect it.
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"The Rubenstein variation.  Not as common as Bb4 (the Winawer) or Nf6 (the Classical), but this move forces the knight to move twice in the opening."
+7,Nxe4,c3e4,rnbqkbnr/ppp2ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,"?!  This move opens lines, but is black ready for this?"
+8,Nd7,b8d7,r1bqkbnr/pppn1ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,"?!  This move opens lines, but is black ready for this?"
+9,Nf3,g1f3,r1bqkbnr/pppn1ppp/4p3/8/3PN3/5N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,"?!  This move opens lines, but is black ready for this?"
+10,c5,c7c5,r1bqkbnr/pp1n1ppp/4p3/2p5/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,"?!  This move opens lines, but is black ready for this?"
+11,dxc5,d4c5,r1bqkbnr/pp1n1ppp/4p3/2P5/4N3/5N2/PPP2PPP/R1BQKB1R b KQkq - 0 6,"Clearing the knight out of d7 has a consequence that black overlooked -- each of the next FOUR white moves helps his development, with check..."
+12,Nxc5,d7c5,r1bqkbnr/pp3ppp/4p3/2n5/4N3/5N2/PPP2PPP/R1BQKB1R w KQkq - 0 7,"Unbelievably, this turns out to be the LOSING move.  Qc7, I believe, would have minimized white's advantage."
+13,Qxd8+,d1d8,r1bQkbnr/pp3ppp/4p3/2n5/4N3/5N2/PPP2PPP/R1B1KB1R b KQkq - 0 7,"Black loses the right to castle, and his king winds up on an open file..."
+14,Kxd8,e8d8,r1bk1bnr/pp3ppp/4p3/2n5/4N3/5N2/PPP2PPP/R1B1KB1R w KQ - 0 8,Forced.
+15,Bg5+,c1g5,r1bk1bnr/pp3ppp/4p3/2n3B1/4N3/5N2/PPP2PPP/R3KB1R b KQ - 1 8,"Developing, with check."
+16,f6,f7f6,r1bk1bnr/pp4pp/4pp2/2n3B1/4N3/5N2/PPP2PPP/R3KB1R w KQ - 0 9,"It may look like Be7 or Nf6 would have been a slightly better try, getting *something* developed, but Be7 leaves the c5 knight hanging, and Nf6 fails to 9. Nxf6 gxf6 10. Bxf6 , winning the rook!"
+17,O-O-O+,e1c1,r1bk1bnr/pp4pp/4pp2/2n3B1/4N3/5N2/PPP2PPP/2KR1B1R b - - 1 9,"White develops even further, again with check..."
+18,Ke8,d8e8,r1b1kbnr/pp4pp/4pp2/2n3B1/4N3/5N2/PPP2PPP/2KR1B1R w - - 2 10,"Again, not Ke7, which hangs the Nc5."
+19,Bb5+,f1b5,r1b1kbnr/pp4pp/4pp2/1Bn3B1/4N3/5N2/PPP2PPP/2KR3R b - - 3 10,The *fourth* move in a row that develops with check.
+20,Kf7,e8f7,r1b2bnr/pp3kpp/4pp2/1Bn3B1/4N3/5N2/PPP2PPP/2KR3R w - - 4 11,"White now has a dominant position.  Note that if black plays fxg5, white has Ne5 ! followed by Re8#!"
+21,Rd8,d1d8,r1bR1bnr/pp3kpp/4pp2/1Bn3B1/4N3/5N2/PPP2PPP/2K4R b - - 5 11,"White now has a dominant position.  Note that if black plays fxg5, white has Ne5 ! followed by Re8#!"
+22,Be7,f8e7,r1bR2nr/pp2bkpp/4pp2/1Bn3B1/4N3/5N2/PPP2PPP/2K4R w - - 6 12,"Better than Nxe4, where white plays Ne5  anyway, and fxe5 would be met with Be8#!"
+23,Ne5+,f3e5,r1bR2nr/pp2bkpp/4pp2/1Bn1N1B1/4N3/8/PPP2PPP/2K4R b - - 7 12,"!  This knight sacrifice forces black to play fxe5, leaving his king with nowhere to hide."
+24,fxe5,f6e5,r1bR2nr/pp2bkpp/4p3/1Bn1p1B1/4N3/8/PPP2PPP/2K4R w - - 0 13,!
+25,Nd6+,e4d6,r1bR2nr/pp2bkpp/3Np3/1Bn1p1B1/8/8/PPP2PPP/2K4R b - - 1 13,!
+26,Kg6,f7g6,r1bR2nr/pp2b1pp/3Np1k1/1Bn1p1B1/8/8/PPP2PPP/2K4R w - - 2 14,"The knight still cannot be captured, as Bxd6 would lead to 14. Be8 ! Kf8 15. Bg6#"
+27,Bxe7,g5e7,r1bR2nr/pp2B1pp/3Np1k1/1Bn1p3/8/8/PPP2PPP/2K4R b - - 0 14,...and now white not only wins back the sacrificed material...

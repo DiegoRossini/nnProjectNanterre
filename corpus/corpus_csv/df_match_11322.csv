@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Fairly standard Ruy Lopez.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Fairly standard Ruy Lopez.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Fairly standard Ruy Lopez.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Fairly standard Ruy Lopez.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Fairly standard Ruy Lopez.
+6,Nge7,g8e7,r1bqkb1r/ppppnppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"An interesting move.  Maintains protection of the King's pawn by protecting the threatened knight with the other knight.  
+
+This implies that Black will financhetto his dark square bishop which will allow more force to be brought to protect the king pawn although it might lead to the bishop being cramped if the pawn is too heavily protected to tempt white to exchange it at some point."
+7,d3,d2d3,r1bqkb1r/ppppnppp/2n5/1B2p3/4P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,Black is proactively protecting his knight's freedom by stoppping White from pinning the knight to the king.  However white can still develope his bishop but Black's pawn move has no other obejective.  It would seem that Black has lost a tempo here.
+8,h6,h7h6,r1bqkb1r/ppppnpp1/2n4p/1B2p3/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5,Black is proactively protecting his knight's freedom by stoppping White from pinning the knight to the king.  However white can still develope his bishop but Black's pawn move has no other obejective.  It would seem that Black has lost a tempo here.
+9,Nc3,b1c3,r1bqkb1r/ppppnpp1/2n4p/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 1 5,White developes another piece with a subtle threat of d5 threatening the supporting knight.  However this threat would be easily countered by ...d6 which would relieve the knight on the c file of its protection duties and remove the need to defend the knight with another knight.
+10,a6,a7a6,r1bqkb1r/1pppnpp1/p1n4p/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6,Black forces the white bishop to act before the knight on c3 can come forward to lend its suuport.  Perhaps Black wants the white knight off the diagonal which also contains the white king before playing ...d6
+11,Ba4,b5a4,r1bqkb1r/1pppnpp1/p1n4p/4p3/B3P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 1 6,Black forces the white bishop to act before the knight on c3 can come forward to lend its suuport.  Perhaps Black wants the white knight off the diagonal which also contains the white king before playing ...d6
+12,b5,b7b5,r1bqkb1r/2ppnpp1/p1n4p/1p2p3/B3P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 7,Now ..d6 can be played without worrying about the knight-king pin.
+13,Bb3,a4b3,r1bqkb1r/2ppnpp1/p1n4p/1p2p3/4P3/1BNP1N2/PPP2PPP/R1BQK2R b KQkq - 1 7,Now ..d6 can be played without worrying about the knight-king pin.
+14,f5,f7f5,r1bqkb1r/2ppn1p1/p1n4p/1p2pp2/4P3/1BNP1N2/PPP2PPP/R1BQK2R w KQkq - 0 8,"A bold move.  The threat against White's pawns is not an overpowering one.  A an exchange can be forced on e4 which will strip White's king pawn of its defender but being as there are no follow up attacks this is unlikely to worry White too much.
+
+The real threat for Black is to advance the f pawn to f4 and cramp White's dark square bishop whilst capturing a large amount of territory on the Queen side."
+15,O-O,e1g1,r1bqkb1r/2ppn1p1/p1n4p/1p2pp2/4P3/1BNP1N2/PPP2PPP/R1BQ1RK1 b kq - 1 8,The diagonal pawn line is taking shape and Black's light square bishop is free.
+16,d6,d7d6,r1bqkb1r/2p1n1p1/p1np3p/1p2pp2/4P3/1BNP1N2/PPP2PPP/R1BQ1RK1 w kq - 0 9,The diagonal pawn line is taking shape and Black's light square bishop is free.
+17,Bd2,c1d2,r1bqkb1r/2p1n1p1/p1np3p/1p2pp2/4P3/1BNP1N2/PPPB1PPP/R2Q1RK1 b kq - 1 9,"?
+This allows White to use a knight exchange to half open the Black king's file.  Black will have trouble castling King side due to the light square bishop blocking the path and Queen side castling does not offer much protection"
+18,Nd4,c6d4,r1bqkb1r/2p1n1p1/p2p3p/1p2pp2/3nP3/1BNP1N2/PPPB1PPP/R2Q1RK1 w kq - 2 10,"?
+This allows White to use a knight exchange to half open the Black king's file.  Black will have trouble castling King side due to the light square bishop blocking the path and Queen side castling does not offer much protection"
+19,Nxd4,f3d4,r1bqkb1r/2p1n1p1/p2p3p/1p2pp2/3NP3/1BNP4/PPPB1PPP/R2Q1RK1 b kq - 0 10,White wastes no time snatching that
+20,exd4,e5d4,r1bqkb1r/2p1n1p1/p2p3p/1p3p2/3pP3/1BNP4/PPPB1PPP/R2Q1RK1 w kq - 0 11,White moves his threatned knight to threaten Black's remaining knight.  Perhaps White is looking to reduce the amount of black pieces that might block the way to the king.
+21,Nd5,c3d5,r1bqkb1r/2p1n1p1/p2p3p/1p1N1p2/3pP3/1B1P4/PPPB1PPP/R2Q1RK1 b kq - 1 11,White moves his threatned knight to threaten Black's remaining knight.  Perhaps White is looking to reduce the amount of black pieces that might block the way to the king.
+22,Bb7,c8b7,r2qkb1r/1bp1n1p1/p2p3p/1p1N1p2/3pP3/1B1P4/PPPB1PPP/R2Q1RK1 w kq - 2 12,White calls re-enforments to the file ready for the pawn capture
+23,Re1,f1e1,r2qkb1r/1bp1n1p1/p2p3p/1p1N1p2/3pP3/1B1P4/PPPB1PPP/R2QR1K1 b kq - 3 12,White calls re-enforments to the file ready for the pawn capture
+24,c6,c7c6,r2qkb1r/1b2n1p1/p1pp3p/1p1N1p2/3pP3/1B1P4/PPPB1PPP/R2QR1K1 w kq - 0 13,Black tries to drive the knight away and open a diagonal for his queen to  bindside the white attack.
+25,Nxe7,d5e7,r2qkb1r/1b2N1p1/p1pp3p/1p3p2/3pP3/1B1P4/PPPB1PPP/R2QR1K1 b kq - 0 13,White was probably hoping for ...Qxe7 but this will do
+26,Bxe7,f8e7,r2qk2r/1b2b1p1/p1pp3p/1p3p2/3pP3/1B1P4/PPPB1PPP/R2QR1K1 w kq - 0 14,White was probably hoping for ...Qxe7 but this will do
+27,exf5,e4f5,r2qk2r/1b2b1p1/p1pp3p/1p3P2/3p4/1B1P4/PPPB1PPP/R2QR1K1 b kq - 0 14,Black perhaps anticipating Re4?
+28,Qb6,d8b6,r3k2r/1b2b1p1/pqpp3p/1p3P2/3p4/1B1P4/PPPB1PPP/R2QR1K1 w kq - 1 15,Black perhaps anticipating Re4?
+29,Qe2,d1e2,r3k2r/1b2b1p1/pqpp3p/1p3P2/3p4/1B1P4/PPPBQPPP/R3R1K1 b kq - 2 15,The bell tolls ...
+30,Qc7,b6c7,r3k2r/1bq1b1p1/p1pp3p/1p3P2/3p4/1B1P4/PPPBQPPP/R3R1K1 w kq - 3 16,"Alas Black does not have time to bring his rooks to the Bishop's aid.  Moving the king away from the bishop results in the Bishop (and possibly the game) being instantly lost.
+However, White has seen an openning ...."
+31,Ba5,d2a5,r3k2r/1bq1b1p1/p1pp3p/Bp3P2/3p4/1B1P4/PPP1QPPP/R3R1K1 b kq - 4 16,"!!
+The Queen is lost!
+A move which take the Queen away from the bishop on e7 results in Qxe7  
+Therefore she cannot move anywhere except ...d8 (Bxd8) or ...d7 (Be6 wins the queen)."

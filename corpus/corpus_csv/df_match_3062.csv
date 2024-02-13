@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is a classic miniature that demonstrates the danger of attacking too soon.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A mistake, according to the computer."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"A mistake, according to the computer."
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"A mistake, according to the computer."
+5,d4,d2d4,rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"A mistake, according to the computer."
+6,cxd4,c5d4,rnbqkbnr/pp1p1ppp/4p3/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"A mistake, according to the computer."
+7,Nxd4,f3d4,rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"A mistake, according to the computer."
+8,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"A mistake, according to the computer."
+9,Nc3,b1c3,r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,"A mistake, according to the computer."
+10,Bc5,f8c5,r1bqk1nr/pp1p1ppp/2n1p3/2b5/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6,"A mistake, according to the computer."
+11,Be3,c1e3,r1bqk1nr/pp1p1ppp/2n1p3/2b5/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6,Black piles the pressure on d4 and also threatens to nick a pawn on b2.
+12,Qb6,d8b6,r1b1k1nr/pp1p1ppp/1qn1p3/2b5/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 5 7,Black piles the pressure on d4 and also threatens to nick a pawn on b2.
+13,Na4,c3a4,r1b1k1nr/pp1p1ppp/1qn1p3/2b5/N2NP3/4B3/PPP2PPP/R2QKB1R b KQkq - 6 7,Possibly not the best response as the double threat will be exacerbated by ...Qb4 +....
+14,Qb4+,b6b4,r1b1k1nr/pp1p1ppp/2n1p3/2b5/Nq1NP3/4B3/PPP2PPP/R2QKB1R w KQkq - 7 8,but the computer assesses this as a blunder.
+15,Nc3,a4c3,r1b1k1nr/pp1p1ppp/2n1p3/2b5/1q1NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 8 8,"This too - 8. c3 was better, protecting both the Na4 and the Nd4 (subject to move order and pins)."
+16,Qxb2,b4b2,r1b1k1nr/pp1p1ppp/2n1p3/2b5/3NP3/2N1B3/PqP2PPP/R2QKB1R w KQkq - 0 9,"Another ""blunder"" as 8...Bxd4 would have been better, exploiting the overwhelming force attacking d4."
+17,Ndb5,d4b5,r1b1k1nr/pp1p1ppp/2n1p3/1Nb5/4P3/2N1B3/PqP2PPP/R2QKB1R b KQkq - 1 9,"!  I was desperate at this point, thinking I'd blown the game already, but this resource rescued me, allowing me to protect both c3, a1 and a2, while threatening Nc7+, forking K and R and also threatening Rb1 trapping Black's Q."
+18,Qb4,b2b4,r1b1k1nr/pp1p1ppp/2n1p3/1Nb5/1q2P3/2N1B3/P1P2PPP/R2QKB1R w KQkq - 2 10,"?? Black should have continued to attack with ...Nb4!, threatening a similar fork on c2."
+19,Rb1,a1b1,r1b1k1nr/pp1p1ppp/2n1p3/1Nb5/1q2P3/2N1B3/P1P2PPP/1R1QKB1R b Kkq - 3 10,This capture appeared as an unexpected bonus ...
+20,Qa5,b4a5,r1b1k1nr/pp1p1ppp/2n1p3/qNb5/4P3/2N1B3/P1P2PPP/1R1QKB1R w Kkq - 4 11,This capture appeared as an unexpected bonus ...
+21,Bxc5,e3c5,r1b1k1nr/pp1p1ppp/2n1p3/qNB5/4P3/2N5/P1P2PPP/1R1QKB1R b Kkq - 0 11,This capture appeared as an unexpected bonus ...
+22,a6,a7a6,r1b1k1nr/1p1p1ppp/p1n1p3/qNB5/4P3/2N5/P1P2PPP/1R1QKB1R w Kkq - 0 12,?  Better was ...Nge7 but Black was already in trouble.
+23,Nd6+,b5d6,r1b1k1nr/1p1p1ppp/p1nNp3/q1B5/4P3/2N5/P1P2PPP/1R1QKB1R b Kkq - 1 12,"!  There is no good reply, though the computer prefers ...Kf8 to ...Kd8."
+24,Kd8,e8d8,r1bk2nr/1p1p1ppp/p1nNp3/q1B5/4P3/2N5/P1P2PPP/1R1QKB1R w K - 2 13,Enough was enough.
+25,Bb6+,c5b6,r1bk2nr/1p1p1ppp/pBnNp3/q7/4P3/2N5/P1P2PPP/1R1QKB1R b K - 3 13,Enough was enough.

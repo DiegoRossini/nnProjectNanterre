@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,center game
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,center game
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,center game
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,danish gambit
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,danish gambit
+6,dxc3,d4c3,rnbqkbnr/pppp1ppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,developping
+7,Nxc3,b1c3,rnbqkbnr/pppp1ppp/8/8/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,developping
+8,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,developping
+9,Nf3,g1f3,rnbqkbnr/ppp2ppp/3p4/8/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,developping
+10,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6,Now white has 6 pièces out against 3 for black
+11,Bc4,f1c4,r1bqkbnr/ppp2ppp/2np4/8/2B1P3/2N2N2/PP3PPP/R1BQK2R b KQkq - 3 6,Now white has 6 pièces out against 3 for black
+12,Bg4,c8g4,r2qkbnr/ppp2ppp/2np4/8/2B1P1b1/2N2N2/PP3PPP/R1BQK2R w KQkq - 4 7,Now white has 6 pièces out against 3 for black
+13,O-O,e1g1,r2qkbnr/ppp2ppp/2np4/8/2B1P1b1/2N2N2/PP3PPP/R1BQ1RK1 b kq - 5 7,Now white has 6 pièces out against 3 for black
+14,Nf6,g8f6,r2qkb1r/ppp2ppp/2np1n2/8/2B1P1b1/2N2N2/PP3PPP/R1BQ1RK1 w kq - 6 8,aiming at f7
+15,Qb3,d1b3,r2qkb1r/ppp2ppp/2np1n2/8/2B1P1b1/1QN2N2/PP3PPP/R1B2RK1 b kq - 7 8,aiming at f7
+16,Qd7,d8d7,r3kb1r/pppq1ppp/2np1n2/8/2B1P1b1/1QN2N2/PP3PPP/R1B2RK1 w kq - 8 9,attacking the weak point
+17,Ng5,f3g5,r3kb1r/pppq1ppp/2np1n2/6N1/2B1P1b1/1QN5/PP3PPP/R1B2RK1 b kq - 9 9,attacking the weak point
+18,Ne5,c6e5,r3kb1r/pppq1ppp/3p1n2/4n1N1/2B1P1b1/1QN5/PP3PPP/R1B2RK1 w kq - 10 10,Menacing to eliminate one of the defensors of f7
+19,Bf4,c1f4,r3kb1r/pppq1ppp/3p1n2/4n1N1/2B1PBb1/1QN5/PP3PPP/R4RK1 b kq - 11 10,Menacing to eliminate one of the defensors of f7
+20,h6,h7h6,r3kb1r/pppq1pp1/3p1n1p/4n1N1/2B1PBb1/1QN5/PP3PPP/R4RK1 w kq - 0 11,Good answer
+21,Qxb7,b3b7,r3kb1r/pQpq1pp1/3p1n1p/4n1N1/2B1PBb1/2N5/PP3PPP/R4RK1 b kq - 0 11,White doesn't want to draw back and carry on attacking
+22,Rc8,a8c8,2r1kb1r/pQpq1pp1/3p1n1p/4n1N1/2B1PBb1/2N5/PP3PPP/R4RK1 w k - 1 12,"To avoid 12. Nxc4. Now black has the choice. If 12. ... hxg5 13. Rd1 menacing d6. Probably for this reason, black chooses the other option which is worse"
+23,Bxe5,f4e5,2r1kb1r/pQpq1pp1/3p1n1p/4B1N1/2B1P1b1/2N5/PP3PPP/R4RK1 b k - 0 12,"To avoid 12. Nxc4. Now black has the choice. If 12. ... hxg5 13. Rd1 menacing d6. Probably for this reason, black chooses the other option which is worse"
+24,dxe5,d6e5,2r1kb1r/pQpq1pp1/5n1p/4p1N1/2B1P1b1/2N5/PP3PPP/R4RK1 w k - 0 13,"if 12. ... hxg5 13. Bxf6 gxf6 14. Nd5 Qe6 15. Nxc7+
+if  14. ... Qd8 15. Qc6+ Qd7 16. Nxf6+ Ke7 17. Qxd7+ 
+
+in both cases the queen is lost.  So that black opts to take the bishop."
+25,Nxf7,g5f7,2r1kb1r/pQpq1Np1/5n1p/4p3/2B1P1b1/2N5/PP3PPP/R4RK1 b k - 0 13,Black has little other possibilities to save the rook.
+26,Rh7,h8h7,2r1kb2/pQpq1Npr/5n1p/4p3/2B1P1b1/2N5/PP3PPP/R4RK1 w - - 1 14,Black has little other possibilities to save the rook.
+27,Nxe5,f7e5,2r1kb2/pQpq2pr/5n1p/4N3/2B1P1b1/2N5/PP3PPP/R4RK1 b - - 0 14,Menacing the queen which must stay beneath the c rook.
+28,Qd8,d7d8,2rqkb2/pQp3pr/5n1p/4N3/2B1P1b1/2N5/PP3PPP/R4RK1 w - - 1 15,Black submiteds here. I add the mate.
+29,Bf7+,c4f7,2rqkb2/pQp2Bpr/5n1p/4N3/4P1b1/2N5/PP3PPP/R4RK1 b - - 2 15,Black submiteds here. I add the mate.

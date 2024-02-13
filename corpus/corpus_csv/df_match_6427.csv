@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,a common move
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,a good defensive move
+3,e4,e2e4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,to control the center
+4,f5,f7f5,rnbqkbnr/pppp2pp/4p3/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,to threaten e pawn
+5,exf5,e4f5,rnbqkbnr/pppp2pp/4p3/5P2/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,he accepts
+6,exf5,e6f5,rnbqkbnr/pppp2pp/8/5p2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,good trade
+7,Qh5+,d1h5,rnbqkbnr/pppp2pp/8/5p1Q/3P4/8/PPP2PPP/RNB1KBNR b KQkq - 1 4,checks king
+8,g6,g7g6,rnbqkbnr/pppp3p/6p1/5p1Q/3P4/8/PPP2PPP/RNB1KBNR w KQkq - 0 5,blocks queen
+9,Qe2+,h5e2,rnbqkbnr/pppp3p/6p1/5p2/3P4/8/PPP1QPPP/RNB1KBNR b KQkq - 1 5,retreats
+10,Qe7,d8e7,rnb1kbnr/ppppq2p/6p1/5p2/3P4/8/PPP1QPPP/RNB1KBNR w KQkq - 2 6,pins queen
+11,Be3,c1e3,rnb1kbnr/ppppq2p/6p1/5p2/3P4/4B3/PPP1QPPP/RN2KBNR b KQkq - 3 6,refuses trade
+12,d6,d7d6,rnb1kbnr/ppp1q2p/3p2p1/5p2/3P4/4B3/PPP1QPPP/RN2KBNR w KQkq - 0 7,allows use of queen's bishop
+13,Nc3,b1c3,rnb1kbnr/ppp1q2p/3p2p1/5p2/3P4/2N1B3/PPP1QPPP/R3KBNR b KQkq - 1 7,"strengthens position, allows queenside castle"
+14,Nd7,b8d7,r1b1kbnr/pppnq2p/3p2p1/5p2/3P4/2N1B3/PPP1QPPP/R3KBNR w KQkq - 2 8,bringing out another piece
+15,Nb5,c3b5,r1b1kbnr/pppnq2p/3p2p1/1N3p2/3P4/4B3/PPP1QPPP/R3KBNR b KQkq - 3 8,"advances, to set trap
+if rook to b8, knight to c7 free pawn
+if pawn to c6, knight to c7 pinning king to rook"
+16,c6,c7c6,r1b1kbnr/pp1nq2p/2pp2p1/1N3p2/3P4/4B3/PPP1QPPP/R3KBNR w KQkq - 0 9,doesn't see it
+17,Nc7+,b5c7,r1b1kbnr/ppNnq2p/2pp2p1/5p2/3P4/4B3/PPP1QPPP/R3KBNR b KQkq - 1 9,pinn
+18,Kd8,e8d8,r1bk1bnr/ppNnq2p/2pp2p1/5p2/3P4/4B3/PPP1QPPP/R3KBNR w KQ - 2 10,best of two possible moves
+19,Nxa8,c7a8,N1bk1bnr/pp1nq2p/2pp2p1/5p2/3P4/4B3/PPP1QPPP/R3KBNR b KQ - 0 10,takes rook
+20,Bh6,f8h6,N1bk2nr/pp1nq2p/2pp2pb/5p2/3P4/4B3/PPP1QPPP/R3KBNR w KQ - 1 11,"tries trade, needs room to work"

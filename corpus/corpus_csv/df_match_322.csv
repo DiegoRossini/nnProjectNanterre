@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,vers l'attaque autrichienne
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,vers l'attaque autrichienne
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/3p4/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,vers l'attaque autrichienne
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,vers l'attaque autrichienne
+5,e4,e2e4,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,vers l'attaque autrichienne
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 4,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+7,f4,f2f4,r1bqkb1r/pppnpppp/3p1n2/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 4,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+8,e5,e7e5,r1bqkb1r/pppn1ppp/3p1n2/4p3/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 5,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+9,dxe5,d4e5,r1bqkb1r/pppn1ppp/3p1n2/4P3/4PP2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 5,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+10,dxe5,d6e5,r1bqkb1r/pppn1ppp/5n2/4p3/4PP2/2N5/PPP3PP/R1BQKBNR w KQkq - 0 6,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+11,f5,f4f5,r1bqkb1r/pppn1ppp/5n2/4pP2/4P3/2N5/PPP3PP/R1BQKBNR b KQkq - 0 6,"prise de l'espace à l'aile roi
+protection du pion arriéré limité le Fou c8"
+12,c6,c7c6,r1bqkb1r/pp1n1ppp/2p2n2/4pP2/4P3/2N5/PPP3PP/R1BQKBNR w KQkq - 0 7,Protection de e4 obligatoire
+13,Nf3,g1f3,r1bqkb1r/pp1n1ppp/2p2n2/4pP2/4P3/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 7,Protection de e4 obligatoire
+14,Bb4,f8b4,r1bqk2r/pp1n1ppp/2p2n2/4pP2/1b2P3/2N2N2/PPP3PP/R1BQKB1R w KQkq - 2 8,Protection de e4 obligatoire
+15,Bd3,f1d3,r1bqk2r/pp1n1ppp/2p2n2/4pP2/1b2P3/2NB1N2/PPP3PP/R1BQK2R b KQkq - 3 8,Protection de e4 obligatoire
+16,Bc5,b4c5,r1bqk2r/pp1n1ppp/2p2n2/2b1pP2/4P3/2NB1N2/PPP3PP/R1BQK2R w KQkq - 4 9,pour parer l'échec avec c3
+17,Na4,c3a4,r1bqk2r/pp1n1ppp/2p2n2/2b1pP2/N3P3/3B1N2/PPP3PP/R1BQK2R b KQkq - 5 9,pour parer l'échec avec c3
+18,Qa5+,d8a5,r1b1k2r/pp1n1ppp/2p2n2/q1b1pP2/N3P3/3B1N2/PPP3PP/R1BQK2R w KQkq - 6 10,prise de l'espace à l'aile dame pour pouvoir roquer
+19,c3,c2c3,r1b1k2r/pp1n1ppp/2p2n2/q1b1pP2/N3P3/2PB1N2/PP4PP/R1BQK2R b KQkq - 0 10,prise de l'espace à l'aile dame pour pouvoir roquer
+20,Be7,c5e7,r1b1k2r/pp1nbppp/2p2n2/q3pP2/N3P3/2PB1N2/PP4PP/R1BQK2R w KQkq - 1 11,prise de l'espace à l'aile dame pour pouvoir roquer
+21,b4,b2b4,r1b1k2r/pp1nbppp/2p2n2/q3pP2/NP2P3/2PB1N2/P5PP/R1BQK2R b KQkq - 0 11,prise de l'espace à l'aile dame pour pouvoir roquer
+22,Qc7,a5c7,r1b1k2r/ppqnbppp/2p2n2/4pP2/NP2P3/2PB1N2/P5PP/R1BQK2R w KQkq - 1 12,"Finir le développement, donner la grande diagonale au fou de cases noires après c4"
+23,O-O,e1g1,r1b1k2r/ppqnbppp/2p2n2/4pP2/NP2P3/2PB1N2/P5PP/R1BQ1RK1 b kq - 2 12,"Finir le développement, donner la grande diagonale au fou de cases noires après c4"
+24,O-O,e8g8,r1b2rk1/ppqnbppp/2p2n2/4pP2/NP2P3/2PB1N2/P5PP/R1BQ1RK1 w - - 3 13,"Finir le développement, donner la grande diagonale au fou de cases noires après c4"
+25,Bb2,c1b2,r1b2rk1/ppqnbppp/2p2n2/4pP2/NP2P3/2PB1N2/PB4PP/R2Q1RK1 b - - 4 13,"Finir le développement, donner la grande diagonale au fou de cases noires après c4"
+26,b5,b7b5,r1b2rk1/p1qnbppp/2p2n2/1p2pP2/NP2P3/2PB1N2/PB4PP/R2Q1RK1 w - - 0 14,L'enfermement du fou de cases blanches noir compense le pion même après c4
+27,Nc5,a4c5,r1b2rk1/p1qnbppp/2p2n2/1pN1pP2/1P2P3/2PB1N2/PB4PP/R2Q1RK1 b - - 1 14,L'enfermement du fou de cases blanches noir compense le pion même après c4
+28,Nxc5,d7c5,r1b2rk1/p1q1bppp/2p2n2/1pn1pP2/1P2P3/2PB1N2/PB4PP/R2Q1RK1 w - - 0 15,L'enfermement du fou de cases blanches noir compense le pion même après c4
+29,bxc5,b4c5,r1b2rk1/p1q1bppp/2p2n2/1pP1pP2/4P3/2PB1N2/PB4PP/R2Q1RK1 b - - 0 15,L'enfermement du fou de cases blanches noir compense le pion même après c4
+30,Bxc5+,e7c5,r1b2rk1/p1q2ppp/2p2n2/1pb1pP2/4P3/2PB1N2/PB4PP/R2Q1RK1 w - - 0 16,L'enfermement du fou de cases blanches noir compense le pion même après c4
+31,Kh1,g1h1,r1b2rk1/p1q2ppp/2p2n2/1pb1pP2/4P3/2PB1N2/PB4PP/R2Q1R1K b - - 1 16,L'enfermement du fou de cases blanches noir compense le pion même après c4
+32,Bb7,c8b7,r4rk1/pbq2ppp/2p2n2/1pb1pP2/4P3/2PB1N2/PB4PP/R2Q1R1K w - - 2 17,attaque 2 fois e5
+33,c4,c3c4,r4rk1/pbq2ppp/2p2n2/1pb1pP2/2P1P3/3B1N2/PB4PP/R2Q1R1K b - - 0 17,attaque 2 fois e5
+34,Ng4,f6g4,r4rk1/pbq2ppp/2p5/1pb1pP2/2P1P1n1/3B1N2/PB4PP/R2Q1R1K w - - 1 18,évite la fourchette en e3 et quitte un vis-à-vis possible avec une tour noire
+35,Qe2,d1e2,r4rk1/pbq2ppp/2p5/1pb1pP2/2P1P1n1/3B1N2/PB2Q1PP/R4R1K b - - 2 18,évite la fourchette en e3 et quitte un vis-à-vis possible avec une tour noire
+36,bxc4,b5c4,r4rk1/pbq2ppp/2p5/2b1pP2/2p1P1n1/3B1N2/PB2Q1PP/R4R1K w - - 0 19,Les fous blancs sont bien placés
+37,Bxc4,d3c4,r4rk1/pbq2ppp/2p5/2b1pP2/2B1P1n1/5N2/PB2Q1PP/R4R1K b - - 0 19,Les fous blancs sont bien placés
+38,Rae8,a8e8,4rrk1/pbq2ppp/2p5/2b1pP2/2B1P1n1/5N2/PB2Q1PP/R4R1K w - - 1 20,L'idée est d'activer une tour sur l'aile roi par Tf3
+39,Nd2,f3d2,4rrk1/pbq2ppp/2p5/2b1pP2/2B1P1n1/8/PB1NQ1PP/R4R1K b - - 2 20,L'idée est d'activer une tour sur l'aile roi par Tf3
+40,Ne3,g4e3,4rrk1/pbq2ppp/2p5/2b1pP2/2B1P3/4n3/PB1NQ1PP/R4R1K w - - 3 21,active le plan blanc
+41,Rf3,f1f3,4rrk1/pbq2ppp/2p5/2b1pP2/2B1P3/4nR2/PB1NQ1PP/R6K b - - 4 21,"L'échange me paraît favorable. Le Fb7 ne joue pas et les deux tours blanches sont activées. 
+Les noirs doivent prendre en b2 et perdre leur fou actif"
+42,Bd4,c5d4,4rrk1/pbq2ppp/2p5/4pP2/2BbP3/4nR2/PB1NQ1PP/R6K w - - 5 22,"L'échange me paraît favorable. Le Fb7 ne joue pas et les deux tours blanches sont activées. 
+Les noirs doivent prendre en b2 et perdre leur fou actif"
+43,Rxe3,f3e3,4rrk1/pbq2ppp/2p5/4pP2/2BbP3/4R3/PB1NQ1PP/R6K b - - 0 22,"L'échange me paraît favorable. Le Fb7 ne joue pas et les deux tours blanches sont activées. 
+Les noirs doivent prendre en b2 et perdre leur fou actif"
+44,Bxb2,d4b2,4rrk1/pbq2ppp/2p5/4pP2/2B1P3/4R3/Pb1NQ1PP/R6K w - - 0 23,le pion e5 bloque la position noire
+45,Rf1,a1f1,4rrk1/pbq2ppp/2p5/4pP2/2B1P3/4R3/Pb1NQ1PP/5R1K b - - 1 23,le pion e5 bloque la position noire
+46,Red8,e8d8,3r1rk1/pbq2ppp/2p5/4pP2/2B1P3/4R3/Pb1NQ1PP/5R1K w - - 2 24,le pion e5 bloque la position noire
+47,Rg3,e3g3,3r1rk1/pbq2ppp/2p5/4pP2/2B1P3/6R1/Pb1NQ1PP/5R1K b - - 3 24,le pion e5 bloque la position noire
+48,Qd6,c7d6,3r1rk1/pb3ppp/2pq4/4pP2/2B1P3/6R1/Pb1NQ1PP/5R1K w - - 4 25,ferme l'accès à l'aile roi
+49,f6,f5f6,3r1rk1/pb3ppp/2pq1P2/4p3/2B1P3/6R1/Pb1NQ1PP/5R1K b - - 0 25,ferme l'accès à l'aile roi
+50,g6,g7g6,3r1rk1/pb3p1p/2pq1Pp1/4p3/2B1P3/6R1/Pb1NQ1PP/5R1K w - - 0 26,le cavalier se dirige vers h4 et le Fb2 est attaqué
+51,Nf3,d2f3,3r1rk1/pb3p1p/2pq1Pp1/4p3/2B1P3/5NR1/Pb2Q1PP/5R1K b - - 1 26,le cavalier se dirige vers h4 et le Fb2 est attaqué
+52,Bd4,b2d4,3r1rk1/pb3p1p/2pq1Pp1/4p3/2BbP3/5NR1/P3Q1PP/5R1K w - - 2 27,les noirs abandonnent
+53,Nh4,f3h4,3r1rk1/pb3p1p/2pq1Pp1/4p3/2BbP2N/6R1/P3Q1PP/5R1K b - - 3 27,les noirs abandonnent
+54,Rfe8,f8e8,3rr1k1/pb3p1p/2pq1Pp1/4p3/2BbP2N/6R1/P3Q1PP/5R1K w - - 4 28,les noirs abandonnent
+55,Nxg6,h4g6,3rr1k1/pb3p1p/2pq1PN1/4p3/2BbP3/6R1/P3Q1PP/5R1K b - - 0 28,les noirs abandonnent
+56,hxg6,h7g6,3rr1k1/pb3p2/2pq1Pp1/4p3/2BbP3/6R1/P3Q1PP/5R1K w - - 0 29,les noirs abandonnent
+57,Rxg6+,g3g6,3rr1k1/pb3p2/2pq1PR1/4p3/2BbP3/8/P3Q1PP/5R1K b - - 0 29,les noirs abandonnent
+58,Kf8,g8f8,3rrk2/pb3p2/2pq1PR1/4p3/2BbP3/8/P3Q1PP/5R1K w - - 1 30,les noirs abandonnent
+59,Rg8+,g6g8,3rrkR1/pb3p2/2pq1P2/4p3/2BbP3/8/P3Q1PP/5R1K b - - 2 30,les noirs abandonnent

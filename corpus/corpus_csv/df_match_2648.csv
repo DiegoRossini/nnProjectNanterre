@@ -1,0 +1,149 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+5,f4,f2f4,r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+6,g6,g7g6,r1bqkbnr/pp1ppp1p/2n3p1/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+7,Bc4,f1c4,r1bqkbnr/pp1ppp1p/2n3p1/2p5/2B1PP2/2N5/PPPP2PP/R1BQK1NR b KQkq - 1 4,Alternative variation: 4. Nf3 Bg7 5. Bb5 Nd4
+8,e6,e7e6,r1bqkbnr/pp1p1p1p/2n1p1p1/2p5/2B1PP2/2N5/PPPP2PP/R1BQK1NR w KQkq - 0 5,"We transpose back to  one of the mainlines, typically reached by playing 4. Nf3 and 5.Bc4. I  recently played a game at the Cardinal open in which White played 5. Bb5, the  other main option for the Bishop."
+9,Nf3,g1f3,r1bqkbnr/pp1p1p1p/2n1p1p1/2p5/2B1PP2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 1 5,"We transpose back to  one of the mainlines, typically reached by playing 4. Nf3 and 5.Bc4. I  recently played a game at the Cardinal open in which White played 5. Bb5, the  other main option for the Bishop."
+10,Bg7,f8g7,r1bqk1nr/pp1p1pbp/2n1p1p1/2p5/2B1PP2/2N2N2/PPPP2PP/R1BQK2R w KQkq - 2 6,"We transpose back to  one of the mainlines, typically reached by playing 4. Nf3 and 5.Bc4. I  recently played a game at the Cardinal open in which White played 5. Bb5, the  other main option for the Bishop."
+11,d3,d2d3,r1bqk1nr/pp1p1pbp/2n1p1p1/2p5/2B1PP2/2NP1N2/PPP3PP/R1BQK2R b KQkq - 0 6,Aiming for the d5 push which  is one of Black's typical plans in this position.
+12,Nge7,g8e7,r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2B1PP2/2NP1N2/PPP3PP/R1BQK2R w KQkq - 1 7,Aiming for the d5 push which  is one of Black's typical plans in this position.
+13,O-O,e1g1,r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2B1PP2/2NP1N2/PPP3PP/R1BQ1RK1 b kq - 2 7,Alternative variation: 9. ... Nd4 [The other main choice]
+14,O-O,e8g8,r1bq1rk1/pp1pnpbp/2n1p1p1/2p5/2B1PP2/2NP1N2/PPP3PP/R1BQ1RK1 w - - 3 8,Alternative variation: 9. ... Nd4 [The other main choice]
+15,Qe1,d1e1,r1bq1rk1/pp1pnpbp/2n1p1p1/2p5/2B1PP2/2NP1N2/PPP3PP/R1B1QRK1 b - - 4 8,Alternative variation: 9. ... Nd4 [The other main choice]
+16,d5,d7d5,r1bq1rk1/pp2npbp/2n1p1p1/2pp4/2B1PP2/2NP1N2/PPP3PP/R1B1QRK1 w - - 0 9,Alternative variation: 9. ... Nd4 [The other main choice]
+17,Bb3,c4b3,r1bq1rk1/pp2npbp/2n1p1p1/2pp4/4PP2/1BNP1N2/PPP3PP/R1B1QRK1 b - - 1 9,Alternative variation: 9. ... Nd4 [The other main choice]
+18,Na5,c6a5,r1bq1rk1/pp2npbp/4p1p1/n1pp4/4PP2/1BNP1N2/PPP3PP/R1B1QRK1 w - - 2 10,Alternative variation: 9. ... Nd4 [The other main choice]
+19,Qh4,e1h4,r1bq1rk1/pp2npbp/4p1p1/n1pp4/4PP1Q/1BNP1N2/PPP3PP/R1B2RK1 b - - 3 10,"Now I will exchange  off the LSB, aim to activate my position and bring my bishop pair to bear."
+20,Nxb3,a5b3,r1bq1rk1/pp2npbp/4p1p1/2pp4/4PP1Q/1nNP1N2/PPP3PP/R1B2RK1 w - - 0 11,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+21,axb3,a2b3,r1bq1rk1/pp2npbp/4p1p1/2pp4/4PP1Q/1PNP1N2/1PP3PP/R1B2RK1 b - - 0 11,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+22,Nc6,e7c6,r1bq1rk1/pp3pbp/2n1p1p1/2pp4/4PP1Q/1PNP1N2/1PP3PP/R1B2RK1 w - - 1 12,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+23,Qxd8,h4d8,r1bQ1rk1/pp3pbp/2n1p1p1/2pp4/4PP2/1PNP1N2/1PP3PP/R1B2RK1 b - - 0 12,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+24,Rxd8,f8d8,r1br2k1/pp3pbp/2n1p1p1/2pp4/4PP2/1PNP1N2/1PP3PP/R1B2RK1 w - - 0 13,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+25,e5,e4e5,r1br2k1/pp3pbp/2n1p1p1/2ppP3/5P2/1PNP1N2/1PP3PP/R1B2RK1 b - - 0 13,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+26,Bd7,c8d7,r2r2k1/pp1b1pbp/2n1p1p1/2ppP3/5P2/1PNP1N2/1PP3PP/R1B2RK1 w - - 1 14,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+27,Ne2,c3e2,r2r2k1/pp1b1pbp/2n1p1p1/2ppP3/5P2/1P1P1N2/1PP1N1PP/R1B2RK1 b - - 2 14,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+28,f6,f7f6,r2r2k1/pp1b2bp/2n1ppp1/2ppP3/5P2/1P1P1N2/1PP1N1PP/R1B2RK1 w - - 0 15,"Looking to undermine  White's pawns, and find an activation plan for the LSB."
+29,exf6,e5f6,r2r2k1/pp1b2bp/2n1pPp1/2pp4/5P2/1P1P1N2/1PP1N1PP/R1B2RK1 b - - 0 15,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+30,Bxf6,g7f6,r2r2k1/pp1b3p/2n1pbp1/2pp4/5P2/1P1P1N2/1PP1N1PP/R1B2RK1 w - - 0 16,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+31,c3,c2c3,r2r2k1/pp1b3p/2n1pbp1/2pp4/5P2/1PPP1N2/1P2N1PP/R1B2RK1 b - - 0 16,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+32,e5,e6e5,r2r2k1/pp1b3p/2n2bp1/2ppp3/5P2/1PPP1N2/1P2N1PP/R1B2RK1 w - - 0 17,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+33,h3,h2h3,r2r2k1/pp1b3p/2n2bp1/2ppp3/5P2/1PPP1N1P/1P2N1P1/R1B2RK1 b - - 0 17,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+34,Bf5,d7f5,r2r2k1/pp5p/2n2bp1/2pppb2/5P2/1PPP1N1P/1P2N1P1/R1B2RK1 w - - 1 18,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+35,fxe5,f4e5,r2r2k1/pp5p/2n2bp1/2ppPb2/8/1PPP1N1P/1P2N1P1/R1B2RK1 b - - 0 18,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+36,Nxe5,c6e5,r2r2k1/pp5p/5bp1/2ppnb2/8/1PPP1N1P/1P2N1P1/R1B2RK1 w - - 0 19,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+37,Nxe5,f3e5,r2r2k1/pp5p/5bp1/2ppNb2/8/1PPP3P/1P2N1P1/R1B2RK1 b - - 0 19,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+38,Bxe5,f6e5,r2r2k1/pp5p/6p1/2ppbb2/8/1PPP3P/1P2N1P1/R1B2RK1 w - - 0 20,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+39,d4,d3d4,r2r2k1/pp5p/6p1/2ppbb2/3P4/1PP4P/1P2N1P1/R1B2RK1 b - - 0 20,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+40,Bd6,e5d6,r2r2k1/pp5p/3b2p1/2pp1b2/3P4/1PP4P/1P2N1P1/R1B2RK1 w - - 1 21,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+41,Nf4,e2f4,r2r2k1/pp5p/3b2p1/2pp1b2/3P1N2/1PP4P/1P4P1/R1B2RK1 b - - 2 21,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+42,cxd4,c5d4,r2r2k1/pp5p/3b2p1/3p1b2/3p1N2/1PP4P/1P4P1/R1B2RK1 w - - 0 22,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+43,cxd4,c3d4,r2r2k1/pp5p/3b2p1/3p1b2/3P1N2/1P5P/1P4P1/R1B2RK1 b - - 0 22,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+44,Bb4,d6b4,r2r2k1/pp5p/6p1/3p1b2/1b1P1N2/1P5P/1P4P1/R1B2RK1 w - - 1 23,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+45,Rf3,f1f3,r2r2k1/pp5p/6p1/3p1b2/1b1P1N2/1P3R1P/1P4P1/R1B3K1 b - - 2 23,"Black has opened the position, found good posts for their  Bishops, and now is ready to deploy their rooks and try to stress White's  doubled pawns."
+46,Rac8,a8c8,2rr2k1/pp5p/6p1/3p1b2/1b1P1N2/1P3R1P/1P4P1/R1B3K1 w - - 3 24,"I want to keep my DSB, and threats on the  bishop on c1. While I wanted to keep both bishops, my LSB is doing far less  than the DSB."
+47,Nd3,f4d3,2rr2k1/pp5p/6p1/3p1b2/1b1P4/1P1N1R1P/1P4P1/R1B3K1 b - - 4 24,"I want to keep my DSB, and threats on the  bishop on c1. While I wanted to keep both bishops, my LSB is doing far less  than the DSB."
+48,Bxd3,f5d3,2rr2k1/pp5p/6p1/3p4/1b1P4/1P1b1R1P/1P4P1/R1B3K1 w - - 0 25,"I want to keep my DSB, and threats on the  bishop on c1. While I wanted to keep both bishops, my LSB is doing far less  than the DSB."
+49,Rxd3,f3d3,2rr2k1/pp5p/6p1/3p4/1b1P4/1P1R3P/1P4P1/R1B3K1 b - - 0 25,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+50,Rc2,c8c2,3r2k1/pp5p/6p1/3p4/1b1P4/1P1R3P/1Pr3P1/R1B3K1 w - - 1 26,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+51,Bg5,c1g5,3r2k1/pp5p/6p1/3p2B1/1b1P4/1P1R3P/1Pr3P1/R5K1 b - - 2 26,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+52,Re8,d8e8,4r1k1/pp5p/6p1/3p2B1/1b1P4/1P1R3P/1Pr3P1/R5K1 w - - 3 27,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+53,Be3,g5e3,4r1k1/pp5p/6p1/3p4/1b1P4/1P1RB2P/1Pr3P1/R5K1 b - - 4 27,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+54,a5,a7a5,4r1k1/1p5p/6p1/p2p4/1b1P4/1P1RB2P/1Pr3P1/R5K1 w - - 0 28,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+55,Rb1,a1b1,4r1k1/1p5p/6p1/p2p4/1b1P4/1P1RB2P/1Pr3P1/1R4K1 b - - 1 28,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+56,Re2,c2e2,4r1k1/1p5p/6p1/p2p4/1b1P4/1P1RB2P/1P2r1P1/1R4K1 w - - 2 29,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+57,Bf2,e3f2,4r1k1/1p5p/6p1/p2p4/1b1P4/1P1R3P/1P2rBP1/1R4K1 b - - 3 29,"Better is to try to restrict Black's king.
+Alternative variation: 29. Bh6"
+58,Rc8,e8c8,2r3k1/1p5p/6p1/p2p4/1b1P4/1P1R3P/1P2rBP1/1R4K1 w - - 4 30,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+59,Re3,d3e3,2r3k1/1p5p/6p1/p2p4/1b1P4/1P2R2P/1P2rBP1/1R4K1 b - - 5 30,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+60,Rxe3,e2e3,2r3k1/1p5p/6p1/p2p4/1b1P4/1P2r2P/1P3BP1/1R4K1 w - - 0 31,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+61,Bxe3,f2e3,2r3k1/1p5p/6p1/p2p4/1b1P4/1P2B2P/1P4P1/1R4K1 b - - 0 31,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+62,Rc2,c8c2,6k1/1p5p/6p1/p2p4/1b1P4/1P2B2P/1Pr3P1/1R4K1 w - - 1 32,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+63,Bf4,e3f4,6k1/1p5p/6p1/p2p4/1b1P1B2/1P5P/1Pr3P1/1R4K1 b - - 2 32,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+64,Bd2,b4d2,6k1/1p5p/6p1/p2p4/3P1B2/1P5P/1Prb2P1/1R4K1 w - - 3 33,Looking to trade off White's developed piece and  distract white's pieces with defense of the pawns as I bring the king into  the game.
+65,Be5,f4e5,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1Prb2P1/1R4K1 b - - 4 33,"Alternative variation: 33. ... Bc1 [Also wins the pawn, but I was already  looking towards an endgame and did not want to give White chances for  counterplay.]"
+66,Rc1+,c2c1,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1P1b2P1/1Rr3K1 w - - 5 34,"Alternative variation: 33. ... Bc1 [Also wins the pawn, but I was already  looking towards an endgame and did not want to give White chances for  counterplay.]"
+67,Rxc1,b1c1,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1P1b2P1/2R3K1 b - - 0 34,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+68,Bxc1,d2c1,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1P4P1/2b3K1 w - - 0 35,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+69,Kf2,g1f2,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1P3KP1/2b5 b - - 1 35,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+70,Bxb2,c1b2,6k1/1p5p/6p1/p2pB3/3P4/1P5P/1b3KP1/8 w - - 0 36,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+71,Ke3,f2e3,6k1/1p5p/6p1/p2pB3/3P4/1P2K2P/1b4P1/8 b - - 1 36,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+72,b5,b7b5,6k1/7p/6p1/pp1pB3/3P4/1P2K2P/1b4P1/8 w - - 0 37,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+73,Kd2,e3d2,6k1/7p/6p1/pp1pB3/3P4/1P5P/1b1K2P1/8 b - - 1 37,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+74,Ba3,b2a3,6k1/7p/6p1/pp1pB3/3P4/bP5P/3K2P1/8 w - - 2 38,"Alternative variation: 37. ... a4  38. Kc2 Ba3 [ends up transposing into the same] (38. ... a3 [Also works, but  gives up the a-pawn a bit earlier than I intended to] )"
+75,Kc3,d2c3,6k1/7p/6p1/pp1pB3/3P4/bPK4P/6P1/8 b - - 3 38,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+76,Kf7,g8f7,8/5k1p/6p1/pp1pB3/3P4/bPK4P/6P1/8 w - - 4 39,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+77,Bc7,e5c7,8/2B2k1p/6p1/pp1p4/3P4/bPK4P/6P1/8 b - - 5 39,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+78,Bb4+,a3b4,8/2B2k1p/6p1/pp1p4/1b1P4/1PK4P/6P1/8 w - - 6 40,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+79,Kd3,c3d3,8/2B2k1p/6p1/pp1p4/1b1P4/1P1K3P/6P1/8 b - - 7 40,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+80,Ke6,f7e6,8/2B4p/4k1p1/pp1p4/1b1P4/1P1K3P/6P1/8 w - - 8 41,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+81,g3,g2g3,8/2B4p/4k1p1/pp1p4/1b1P4/1P1K2PP/8/8 b - - 0 41,"Allows Black to penetrate
+Alternative variation: 41. g4 [Forces Black to  take the king around the queenside.]"
+82,a4,a5a4,8/2B4p/4k1p1/1p1p4/pb1P4/1P1K2PP/8/8 w - - 0 42,"A bit of a  pointless move as the White king cannot come in through the queenside while  this helps Black to come to e-4.
+Alternative variation: 43. g4 Kd7 44. Bf4 Kc6 45. Be3 Kb5 [Black  will still win]"
+83,bxa4,b3a4,8/2B4p/4k1p1/1p1p4/Pb1P4/3K2PP/8/8 b - - 0 42,"A bit of a  pointless move as the White king cannot come in through the queenside while  this helps Black to come to e-4.
+Alternative variation: 43. g4 Kd7 44. Bf4 Kc6 45. Be3 Kb5 [Black  will still win]"
+84,bxa4,b5a4,8/2B4p/4k1p1/3p4/pb1P4/3K2PP/8/8 w - - 0 43,"A bit of a  pointless move as the White king cannot come in through the queenside while  this helps Black to come to e-4.
+Alternative variation: 43. g4 Kd7 44. Bf4 Kc6 45. Be3 Kb5 [Black  will still win]"
+85,Kc2,d3c2,8/2B4p/4k1p1/3p4/pb1P4/6PP/2K5/8 b - - 1 43,"A bit of a  pointless move as the White king cannot come in through the queenside while  this helps Black to come to e-4.
+Alternative variation: 43. g4 Kd7 44. Bf4 Kc6 45. Be3 Kb5 [Black  will still win]"
+86,Kf5,e6f5,8/2B4p/6p1/3p1k2/pb1P4/6PP/2K5/8 w - - 2 44,Alternative variation: 44. Kd3 a3
+87,Bb6,c7b6,8/7p/1B4p1/3p1k2/pb1P4/6PP/2K5/8 b - - 3 44,Alternative variation: 44. Kd3 a3
+88,h5,h7h5,8/8/1B4p1/3p1k1p/pb1P4/6PP/2K5/8 w - - 0 45,"And  now Black has far too much of a hold, they can give up the a-pawn while  winning the d-pawn and force White to give up the Bishop for the d-pawn."
+89,Kb2,c2b2,8/8/1B4p1/3p1k1p/pb1P4/6PP/1K6/8 b - - 1 45,"And  now Black has far too much of a hold, they can give up the a-pawn while  winning the d-pawn and force White to give up the Bishop for the d-pawn."
+90,Be1,b4e1,8/8/1B4p1/3p1k1p/p2P4/6PP/1K6/4b3 w - - 2 46,"And  now Black has far too much of a hold, they can give up the a-pawn while  winning the d-pawn and force White to give up the Bishop for the d-pawn."
+91,Bc7,b6c7,8/2B5/6p1/3p1k1p/p2P4/6PP/1K6/4b3 b - - 3 46,"And  now Black has far too much of a hold, they can give up the a-pawn while  winning the d-pawn and force White to give up the Bishop for the d-pawn."
+92,Ke4,f5e4,8/2B5/6p1/3p3p/p2Pk3/6PP/1K6/4b3 w - - 4 47,"And  now Black has far too much of a hold, they can give up the a-pawn while  winning the d-pawn and force White to give up the Bishop for the d-pawn."
+93,Be5,c7e5,8/8/6p1/3pB2p/p2Pk3/6PP/1K6/4b3 b - - 5 47,The bishop in untakeable
+94,Bb4,e1b4,8/8/6p1/3pB2p/pb1Pk3/6PP/1K6/8 w - - 6 48,The bishop in untakeable
+95,Kc2,b2c2,8/8/6p1/3pB2p/pb1Pk3/6PP/2K5/8 b - - 7 48,The bishop in untakeable
+96,a3,a4a3,8/8/6p1/3pB2p/1b1Pk3/p5PP/2K5/8 w - - 0 49,The bishop in untakeable
+97,Kb3,c2b3,8/8/6p1/3pB2p/1b1Pk3/pK4PP/8/8 b - - 1 49,The bishop in untakeable
+98,Kd3,e4d3,8/8/6p1/3pB2p/1b1P4/pK1k2PP/8/8 w - - 2 50,"Looking  to attack the Kingside pawns, but taking the d-pawn is far simpler."
+99,h4,h3h4,8/8/6p1/3pB2p/1b1P3P/pK1k2P1/8/8 b - - 0 50,"Looking  to attack the Kingside pawns, but taking the d-pawn is far simpler."
+100,Be7,b4e7,8/4b3/6p1/3pB2p/3P3P/pK1k2P1/8/8 w - - 1 51,"Looking  to attack the Kingside pawns, but taking the d-pawn is far simpler."
+101,Bg7,e5g7,8/4b1B1/6p1/3p3p/3P3P/pK1k2P1/8/8 b - - 2 51,Here White abandons hope and just plays on for fun
+102,Bb4,e7b4,8/6B1/6p1/3p3p/1b1P3P/pK1k2P1/8/8 w - - 3 52,Here White abandons hope and just plays on for fun
+103,Be5,g7e5,8/8/6p1/3pB2p/1b1P3P/pK1k2P1/8/8 b - - 4 52,Here White abandons hope and just plays on for fun
+104,Bc3,b4c3,8/8/6p1/3pB2p/3P3P/pKbk2P1/8/8 w - - 5 53,Here White abandons hope and just plays on for fun
+105,Kxa3,b3a3,8/8/6p1/3pB2p/3P3P/K1bk2P1/8/8 b - - 0 53,Here White abandons hope and just plays on for fun
+106,Bxd4,c3d4,8/8/6p1/3pB2p/3b3P/K2k2P1/8/8 w - - 0 54,Here White abandons hope and just plays on for fun
+107,Bf4,e5f4,8/8/6p1/3p3p/3b1B1P/K2k2P1/8/8 b - - 1 54,Here White abandons hope and just plays on for fun
+108,Be3,d4e3,8/8/6p1/3p3p/5B1P/K2kb1P1/8/8 w - - 2 55,Here White abandons hope and just plays on for fun
+109,Be5,f4e5,8/8/6p1/3pB2p/7P/K2kb1P1/8/8 b - - 3 55,Here White abandons hope and just plays on for fun
+110,Kc2,d3c2,8/8/6p1/3pB2p/7P/K3b1P1/2k5/8 w - - 4 56,Here White abandons hope and just plays on for fun
+111,Kb4,a3b4,8/8/6p1/3pB2p/1K5P/4b1P1/2k5/8 b - - 5 56,Here White abandons hope and just plays on for fun
+112,d4,d5d4,8/8/6p1/4B2p/1K1p3P/4b1P1/2k5/8 w - - 0 57,Here White abandons hope and just plays on for fun
+113,Kc4,b4c4,8/8/6p1/4B2p/2Kp3P/4b1P1/2k5/8 b - - 1 57,Here White abandons hope and just plays on for fun
+114,d3,d4d3,8/8/6p1/4B2p/2K4P/3pb1P1/2k5/8 w - - 0 58,Here White abandons hope and just plays on for fun
+115,Bc3,e5c3,8/8/6p1/7p/2K4P/2Bpb1P1/2k5/8 b - - 1 58,Here White abandons hope and just plays on for fun
+116,Bf2,e3f2,8/8/6p1/7p/2K4P/2Bp2P1/2k2b2/8 w - - 2 59,Here White abandons hope and just plays on for fun
+117,g4,g3g4,8/8/6p1/7p/2K3PP/2Bp4/2k2b2/8 b - - 0 59,Here White abandons hope and just plays on for fun
+118,hxg4,h5g4,8/8/6p1/8/2K3pP/2Bp4/2k2b2/8 w - - 0 60,No escape now
+119,h5,h4h5,8/8/6p1/7P/2K3p1/2Bp4/2k2b2/8 b - - 0 60,No escape now
+120,gxh5,g6h5,8/8/8/7p/2K3p1/2Bp4/2k2b2/8 w - - 0 61,No escape now
+121,Kb4,c4b4,8/8/8/7p/1K4p1/2Bp4/2k2b2/8 b - - 1 61,No escape now
+122,g3,g4g3,8/8/8/7p/1K6/2Bp2p1/2k2b2/8 w - - 0 62,No escape now
+123,Ka3,b4a3,8/8/8/7p/8/K1Bp2p1/2k2b2/8 b - - 1 62,No escape now
+124,g2,g3g2,8/8/8/7p/8/K1Bp4/2k2bp1/8 w - - 0 63,No escape now
+125,Be1,c3e1,8/8/8/7p/8/K2p4/2k2bp1/4B3 b - - 1 63,No escape now
+126,Bxe1,f2e1,8/8/8/7p/8/K2p4/2k3p1/4b3 w - - 0 64,No escape now
+127,Ka2,a3a2,8/8/8/7p/8/3p4/K1k3p1/4b3 b - - 1 64,No escape now
+128,Bb4,e1b4,8/8/8/7p/1b6/3p4/K1k3p1/8 w - - 2 65,No escape now

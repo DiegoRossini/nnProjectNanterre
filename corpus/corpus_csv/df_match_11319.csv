@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,sicilian so far
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,sicilian so far
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,sicilian so far
+4,b6,b7b6,rnbqkbnr/p2ppppp/1p6/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,bit wierd
+5,d4,d2d4,rnbqkbnr/p2ppppp/1p6/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,opening bishop lines
+6,cxd4,c5d4,rnbqkbnr/p2ppppp/1p6/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,normal trade brings knight to the centar
+7,Nxd4,f3d4,rnbqkbnr/p2ppppp/1p6/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,normal trade brings knight to the centar
+8,Bb7,c8b7,rn1qkbnr/pb1ppppp/1p6/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,fianchetto bish quite powerful
+9,Nc3,b1c3,rn1qkbnr/pb1ppppp/1p6/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,defends e4
+10,g6,g7g6,rn1qkbnr/pb1ppp1p/1p4p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,preparing another fianchetto bish gotta b careful
+11,Bc4,f1c4,rn1qkbnr/pb1ppp1p/1p4p1/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6,development and prepares to castle
+12,Bg7,f8g7,rn1qk1nr/pb1pppbp/1p4p1/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 7,fianchettoed bishops quite powerful
+13,Be3,c1e3,rn1qk1nr/pb1pppbp/1p4p1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 3 7,develop and defend thats my motto
+14,Nf6,g8f6,rn1qk2r/pb1pppbp/1p3np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQkq - 4 8,develops to castle
+15,Qd2,d1d2,rn1qk2r/pb1pppbp/1p3np1/8/2BNP3/2N1B3/PPPQ1PPP/R3K2R b KQkq - 5 8,prepares to attack fianchettoed bish
+16,Nxe4,f6e4,rn1qk2r/pb1pppbp/1p4p1/8/2BNn3/2N1B3/PPPQ1PPP/R3K2R w KQkq - 0 9,bad trade for me loses a pawn but opens the center
+17,Nxe4,c3e4,rn1qk2r/pb1pppbp/1p4p1/8/2BNN3/4B3/PPPQ1PPP/R3K2R b KQkq - 0 9,bad trade for me loses a pawn but opens the center
+18,Bxe4,b7e4,rn1qk2r/p2pppbp/1p4p1/8/2BNb3/4B3/PPPQ1PPP/R3K2R w KQkq - 0 10,bad trade for me loses a pawn but opens the center
+19,O-O-O,e1c1,rn1qk2r/p2pppbp/1p4p1/8/2BNb3/4B3/PPPQ1PPP/2KR3R b kq - 1 10,castles oppsite side to opponent(expects) to prepare pawn storm
+20,Bxg2,e4g2,rn1qk2r/p2pppbp/1p4p1/8/2BN4/4B3/PPPQ1PbP/2KR3R w kq - 0 11,damn another pawn goes but opens file for rooks on kingside
+21,Rhg1,h1g1,rn1qk2r/p2pppbp/1p4p1/8/2BN4/4B3/PPPQ1PbP/2KR2R1 b kq - 1 11,trying to remove fianchettoed bish
+22,Bb7,g2b7,rn1qk2r/pb1pppbp/1p4p1/8/2BN4/4B3/PPPQ1P1P/2KR2R1 w kq - 2 12,trying to remove fianchettoed bish
+23,Bh6,e3h6,rn1qk2r/pb1pppbp/1p4pB/8/2BN4/8/PPPQ1P1P/2KR2R1 b kq - 3 12,trying to remove fianchettoed bish
+24,O-O,e8g8,rn1q1rk1/pb1pppbp/1p4pB/8/2BN4/8/PPPQ1P1P/2KR2R1 w - - 4 13,castles
+25,h4,h2h4,rn1q1rk1/pb1pppbp/1p4pB/8/2BN3P/8/PPPQ1P2/2KR2R1 b - - 0 13,pawn storm
+26,e6,e7e6,rn1q1rk1/pb1p1pbp/1p2p1pB/8/2BN3P/8/PPPQ1P2/2KR2R1 w - - 0 14,opens pin on pawn and weakens king
+27,Bxg7,h6g7,rn1q1rk1/pb1p1pBp/1p2p1p1/8/2BN3P/8/PPPQ1P2/2KR2R1 b - - 0 14,opens pin on pawn and weakens king
+28,Kxg7,g8g7,rn1q1r2/pb1p1pkp/1p2p1p1/8/2BN3P/8/PPPQ1P2/2KR2R1 w - - 0 15,prepares to double rooks
+29,Rg4,g1g4,rn1q1r2/pb1p1pkp/1p2p1p1/8/2BN2RP/8/PPPQ1P2/2KR4 b - - 1 15,prepares to double rooks

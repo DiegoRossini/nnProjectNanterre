@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I'm starting to use Sicilian after 1.e4.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I'm starting to use Sicilian after 1.e4.
+3,g3,g2g3,rnbqkbnr/pp1ppppp/8/2p5/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2,d pawn-push is often used in sicilian.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/6P1/PPPP1P1P/RNBQKBNR w KQkq - 1 3,d pawn-push is often used in sicilian.
+5,c3,c2c3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P3P1/PP1P1P1P/RNBQKBNR b KQkq - 0 3,d pawn-push is often used in sicilian.
+6,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/2P3P1/PP1P1P1P/RNBQKBNR w KQkq - 1 4,d pawn-push is often used in sicilian.
+7,Bg2,f1g2,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/2P3P1/PP1P1PBP/RNBQK1NR b KQkq - 2 4,d pawn-push is often used in sicilian.
+8,d5,d7d5,r1bqkb1r/pp2pppp/2n2n2/2pp4/4P3/2P3P1/PP1P1PBP/RNBQK1NR w KQkq - 0 5,d pawn-push is often used in sicilian.
+9,d3,d2d3,r1bqkb1r/pp2pppp/2n2n2/2pp4/4P3/2PP2P1/PP3PBP/RNBQK1NR b KQkq - 0 5,? I don't understand this move.
+10,e6,e7e6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/4P3/2PP2P1/PP3PBP/RNBQK1NR w KQkq - 0 6,? I don't understand this move.
+11,Qf3,d1f3,r1bqkb1r/pp3ppp/2n1pn2/2pp4/4P3/2PP1QP1/PP3PBP/RNB1K1NR b KQkq - 1 6,? I don't understand this move.
+12,b5,b7b5,r1bqkb1r/p4ppp/2n1pn2/1ppp4/4P3/2PP1QP1/PP3PBP/RNB1K1NR w KQkq - 0 7,h6 to avoid the pin
+13,Ne2,g1e2,r1bqkb1r/p4ppp/2n1pn2/1ppp4/4P3/2PP1QP1/PP2NPBP/RNB1K2R b KQkq - 1 7,h6 to avoid the pin
+14,h6,h7h6,r1bqkb1r/p4pp1/2n1pn1p/1ppp4/4P3/2PP1QP1/PP2NPBP/RNB1K2R w KQkq - 0 8,h6 to avoid the pin
+15,Be3,c1e3,r1bqkb1r/p4pp1/2n1pn1p/1ppp4/4P3/2PPBQP1/PP2NPBP/RN2K2R b KQkq - 1 8,Ne5!! and he lose her Q
+16,Ne5,c6e5,r1bqkb1r/p4pp1/4pn1p/1pppn3/4P3/2PPBQP1/PP2NPBP/RN2K2R w KQkq - 2 9,Ne5!! and he lose her Q
+17,Qf4,f3f4,r1bqkb1r/p4pp1/4pn1p/1pppn3/4PQ2/2PPB1P1/PP2NPBP/RN2K2R b KQkq - 3 9,In this moment I'm 7 points up
+18,Nxd3+,e5d3,r1bqkb1r/p4pp1/4pn1p/1ppp4/4PQ2/2PnB1P1/PP2NPBP/RN2K2R w KQkq - 0 10,In this moment I'm 7 points up
+19,Kf1,e1f1,r1bqkb1r/p4pp1/4pn1p/1ppp4/4PQ2/2PnB1P1/PP2NPBP/RN3K1R b kq - 1 10,In this moment I'm 7 points up
+20,Nxf4,d3f4,r1bqkb1r/p4pp1/4pn1p/1ppp4/4Pn2/2P1B1P1/PP2NPBP/RN3K1R w kq - 0 11,In this moment I'm 7 points up
+21,Bxf4,e3f4,r1bqkb1r/p4pp1/4pn1p/1ppp4/4PB2/2P3P1/PP2NPBP/RN3K1R b kq - 0 11,In this moment I'm 7 points up
+22,dxe4,d5e4,r1bqkb1r/p4pp1/4pn1p/1pp5/4pB2/2P3P1/PP2NPBP/RN3K1R w kq - 0 12,8...
+23,Nd2,b1d2,r1bqkb1r/p4pp1/4pn1p/1pp5/4pB2/2P3P1/PP1NNPBP/R4K1R b kq - 1 12,Exchanges...
+24,Bb7,c8b7,r2qkb1r/pb3pp1/4pn1p/1pp5/4pB2/2P3P1/PP1NNPBP/R4K1R w kq - 2 13,Exchanges...
+25,h3,h2h3,r2qkb1r/pb3pp1/4pn1p/1pp5/4pB2/2P3PP/PP1NNPB1/R4K1R b kq - 0 13,Exchanges...
+26,g5,g7g5,r2qkb1r/pb3p2/4pn1p/1pp3p1/4pB2/2P3PP/PP1NNPB1/R4K1R w kq - 0 14,Exchanges...
+27,Be3,f4e3,r2qkb1r/pb3p2/4pn1p/1pp3p1/4p3/2P1B1PP/PP1NNPB1/R4K1R b kq - 1 14,Exchanges...
+28,Nd5,f6d5,r2qkb1r/pb3p2/4p2p/1ppn2p1/4p3/2P1B1PP/PP1NNPB1/R4K1R w kq - 2 15,Exchanges...
+29,Bxe4,g2e4,r2qkb1r/pb3p2/4p2p/1ppn2p1/4B3/2P1B1PP/PP1NNP2/R4K1R b kq - 0 15,Exchanges...
+30,Nxe3+,d5e3,r2qkb1r/pb3p2/4p2p/1pp3p1/4B3/2P1n1PP/PP1NNP2/R4K1R w kq - 0 16,Exchanges...
+31,fxe3,f2e3,r2qkb1r/pb3p2/4p2p/1pp3p1/4B3/2P1P1PP/PP1NN3/R4K1R b kq - 0 16,Exchanges...
+32,Bxe4,b7e4,r2qkb1r/p4p2/4p2p/1pp3p1/4b3/2P1P1PP/PP1NN3/R4K1R w kq - 0 17,Exchanges...
+33,Nxe4,d2e4,r2qkb1r/p4p2/4p2p/1pp3p1/4N3/2P1P1PP/PP2N3/R4K1R b kq - 0 17,Exchanges...
+34,Be7,f8e7,r2qk2r/p3bp2/4p2p/1pp3p1/4N3/2P1P1PP/PP2N3/R4K1R w kq - 1 18,i pin the N
+35,Kg2,f1g2,r2qk2r/p3bp2/4p2p/1pp3p1/4N3/2P1P1PP/PP2N1K1/R6R b kq - 2 18,i pin the N
+36,Qd5,d8d5,r3k2r/p3bp2/4p2p/1ppq2p1/4N3/2P1P1PP/PP2N1K1/R6R w kq - 3 19,i pin the N
+37,g4,g3g4,r3k2r/p3bp2/4p2p/1ppq2p1/4N1P1/2P1P2P/PP2N1K1/R6R b kq - 0 19,?? What??
+38,Qxe4+,d5e4,r3k2r/p3bp2/4p2p/1pp3p1/4q1P1/2P1P2P/PP2N1K1/R6R w kq - 0 20,??What??
+39,Kf2,g2f2,r3k2r/p3bp2/4p2p/1pp3p1/4q1P1/2P1P2P/PP2NK2/R6R b kq - 1 20,??What??
+40,c4,c5c4,r3k2r/p3bp2/4p2p/1p4p1/2p1q1P1/2P1P2P/PP2NK2/R6R w kq - 0 21,??What??
+41,b4,b2b4,r3k2r/p3bp2/4p2p/1p4p1/1Pp1q1P1/2P1P2P/P3NK2/R6R b kq b3 0 21,??What??
+42,Rd8,a8d8,3rk2r/p3bp2/4p2p/1p4p1/1Pp1q1P1/2P1P2P/P3NK2/R6R w k - 1 22,??What??
+43,a4,a2a4,3rk2r/p3bp2/4p2p/1p4p1/PPp1q1P1/2P1P2P/4NK2/R6R b k - 0 22,??What??
+44,Rd3,d8d3,4k2r/p3bp2/4p2p/1p4p1/PPp1q1P1/2PrP2P/4NK2/R6R w k - 1 23,??What??
+45,Ra2,a1a2,4k2r/p3bp2/4p2p/1p4p1/PPp1q1P1/2PrP2P/R3NK2/7R b k - 2 23,??What??
+46,Qxh1,e4h1,4k2r/p3bp2/4p2p/1p4p1/PPp3P1/2PrP2P/R3NK2/7q w k - 0 24,His king is in true danger
+47,axb5,a4b5,4k2r/p3bp2/4p2p/1P4p1/1Pp3P1/2PrP2P/R3NK2/7q b k - 0 24,His king is in true danger
+48,Qh2+,h1h2,4k2r/p3bp2/4p2p/1P4p1/1Pp3P1/2PrP2P/R3NK1q/8 w k - 1 25,His king is in true danger
+49,Kf3,f2f3,4k2r/p3bp2/4p2p/1P4p1/1Pp3P1/2PrPK1P/R3N2q/8 b k - 2 25,Now i don't think R:e3  but I take a pawn....
+50,Qxh3+,h2h3,4k2r/p3bp2/4p2p/1P4p1/1Pp3P1/2PrPK1q/R3N3/8 w k - 0 26,Now i don't think R:e3  but I take a pawn....
+51,Ng3,e2g3,4k2r/p3bp2/4p2p/1P4p1/1Pp3P1/2PrPKNq/R7/8 b k - 1 26,Now i don't think R:e3  but I take a pawn....
+52,Bd6,e7d6,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/2PrPKNq/R7/8 w k - 2 27,Now i don't think R:e3  but I take a pawn....
+53,Rg2,a2g2,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/2PrPKNq/6R1/8 b k - 3 27,Now i don't think R:e3  but I take a pawn....
+54,Rxc3,d3c3,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/2r1PKNq/6R1/8 w k - 0 28,Now i don't think R:e3  but I take a pawn....
+55,Kf2,f3f2,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/2r1P1Nq/5KR1/8 b k - 1 28,"But i think that now...and he resign. What do u think of this game? Comment, comment 'n' comment again!!!"
+56,Rc2+,c3c2,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/4P1Nq/2r2KR1/8 w k - 2 29,"But i think that now...and he resign. What do u think of this game? Comment, comment 'n' comment again!!!"
+57,Ne2,g3e2,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/4P2q/2r1NKR1/8 b k - 3 29,"But i think that now...and he resign. What do u think of this game? Comment, comment 'n' comment again!!!"
+58,Rxe2+,c2e2,4k2r/p4p2/3bp2p/1P4p1/1Pp3P1/4P2q/4rKR1/8 w k - 0 30,"But i think that now...and he resign. What do u think of this game? Comment, comment 'n' comment again!!!"

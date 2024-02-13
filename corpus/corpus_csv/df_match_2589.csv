@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This was a game in an annotation tournament, and it turned into something of a marathon! Although it is ""only a draw"" is not without interest!"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,and continue with the Queen's Gambit
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,and continue with the Queen's Gambit
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Which he declines withe the Slav variation
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"This is best, Nc3 allows an interesting gambit 3.....e5?!"
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Now I get the other knight out
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,Now I get the other knight out
+8,dxc4,d5c4,rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,I play this to prevent him hanging on to the pawn with b7-b5
+9,a4,a2a4,rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq - 0 5,I play this to prevent him hanging on to the pawn with b7-b5
+10,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6,Played to open up a diagonal for my Bf1. I am now threatening to recapture the pawn and there is no good way for him to hold onto it
+11,e3,e2e3,rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 6,Played to open up a diagonal for my Bf1. I am now threatening to recapture the pawn and there is no good way for him to hold onto it
+12,e6,e7e6,rn1qkb1r/pp3ppp/2p1pn2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R w KQkq - 0 7,So I get my pawn back
+13,Bxc4,f1c4,rn1qkb1r/pp3ppp/2p1pn2/5b2/P1BP4/2N1PN2/1P3PPP/R1BQK2R b KQkq - 0 7,So I get my pawn back
+14,Nbd7,b8d7,r2qkb1r/pp1n1ppp/2p1pn2/5b2/P1BP4/2N1PN2/1P3PPP/R1BQK2R w KQkq - 1 8,"I castle. With the a2 pawn on a4, there just isn't enough pawn cover on the queen side. As my king has to go to g1, I may as well put it there now."
+15,O-O,e1g1,r2qkb1r/pp1n1ppp/2p1pn2/5b2/P1BP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8,"I castle. With the a2 pawn on a4, there just isn't enough pawn cover on the queen side. As my king has to go to g1, I may as well put it there now."
+16,Bb4,f8b4,r2qk2r/pp1n1ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 w kq - 3 9,Hitting the bishop. We are still in the opening database.
+17,Nh4,f3h4,r2qk2r/pp1n1ppp/2p1pn2/5b2/PbBP3N/2N1P3/1P3PPP/R1BQ1RK1 b kq - 4 9,Hitting the bishop. We are still in the opening database.
+18,Bg4,f5g4,r2qk2r/pp1n1ppp/2p1pn2/8/PbBP2bN/2N1P3/1P3PPP/R1BQ1RK1 w kq - 5 10,played with the idea of playing e3-e4 at some stage.
+19,f3,f2f3,r2qk2r/pp1n1ppp/2p1pn2/8/PbBP2bN/2N1PP2/1P4PP/R1BQ1RK1 b kq - 0 10,played with the idea of playing e3-e4 at some stage.
+20,Bh5,g4h5,r2qk2r/pp1n1ppp/2p1pn2/7b/PbBP3N/2N1PP2/1P4PP/R1BQ1RK1 w kq - 1 11,"Like now! Post-match gameknot computer analysis says we are out of the books and black is 0.15 ahead. I am not convinced, looks pretty level to me. It was played in Portisch, Lajos (2650) vs. Smyslov, Vassily (2545) in 1981 and Black won in 41, http://gameknot.com/analyze-board.pl?bd=x69837&mv=21&rnd=0.6795143269890982
+but I think one can improve on White's play, for instance instead of 13. g3 perhaps White can try g4. A couple of Gameknot games continued with 11. e4 O-O 12. g4 Ne8 13. Ng2 Bg6 14. Qb3 a5, both draws."
+21,e4,e3e4,r2qk2r/pp1n1ppp/2p1pn2/7b/PbBPP2N/2N2P2/1P4PP/R1BQ1RK1 b kq - 0 11,"Like now! Post-match gameknot computer analysis says we are out of the books and black is 0.15 ahead. I am not convinced, looks pretty level to me. It was played in Portisch, Lajos (2650) vs. Smyslov, Vassily (2545) in 1981 and Black won in 41, http://gameknot.com/analyze-board.pl?bd=x69837&mv=21&rnd=0.6795143269890982
+but I think one can improve on White's play, for instance instead of 13. g3 perhaps White can try g4. A couple of Gameknot games continued with 11. e4 O-O 12. g4 Ne8 13. Ng2 Bg6 14. Qb3 a5, both draws."
+22,h6,h7h6,r2qk2r/pp1n1pp1/2p1pn1p/7b/PbBPP2N/2N2P2/1P4PP/R1BQ1RK1 w kq - 0 12,"Hitting the bishop again, as hinted at in the previous note"
+23,g4,g2g4,r2qk2r/pp1n1pp1/2p1pn1p/7b/PbBPP1PN/2N2P2/1P5P/R1BQ1RK1 b kq - 0 12,"Hitting the bishop again, as hinted at in the previous note"
+24,g5,g7g5,r2qk2r/pp1n1p2/2p1pn1p/6pb/PbBPP1PN/2N2P2/1P5P/R1BQ1RK1 w kq - 0 13,"He is relunctant to give up the two bishops, but this weakens his king side."
+25,Ng2,h4g2,r2qk2r/pp1n1p2/2p1pn1p/6pb/PbBPP1P1/2N2P2/1P4NP/R1BQ1RK1 b kq - 1 13,"He is relunctant to give up the two bishops, but this weakens his king side."
+26,Bg6,h5g6,r2qk2r/pp1n1p2/2p1pnbp/6p1/PbBPP1P1/2N2P2/1P4NP/R1BQ1RK1 w kq - 2 14,"I hit the other bishop, as in the Gameknot games just referred to"
+27,Qb3,d1b3,r2qk2r/pp1n1p2/2p1pnbp/6p1/PbBPP1P1/1QN2P2/1P4NP/R1B2RK1 b kq - 3 14,"I hit the other bishop, as in the Gameknot games just referred to"
+28,Qb6,d8b6,r3k2r/pp1n1p2/1qp1pnbp/6p1/PbBPP1P1/1QN2P2/1P4NP/R1B2RK1 w kq - 4 15,"His Qb6 attacked along the b6-g1 diagonal. As my king lies at the end of that diagonal, I decided to move it out of the way, and unpin my d pawn."
+29,Kh1,g1h1,r3k2r/pp1n1p2/1qp1pnbp/6p1/PbBPP1P1/1QN2P2/1P4NP/R1B2R1K b kq - 5 15,"His Qb6 attacked along the b6-g1 diagonal. As my king lies at the end of that diagonal, I decided to move it out of the way, and unpin my d pawn."
+30,O-O-O,e8c8,2kr3r/pp1n1p2/1qp1pnbp/6p1/PbBPP1P1/1QN2P2/1P4NP/R1B2R1K w - - 6 16,"With kings castled on opposite sides, and queens still on the board, I have to attack his king before he attacks mine"
+31,a5,a4a5,2kr3r/pp1n1p2/1qp1pnbp/P5p1/1bBPP1P1/1QN2P2/1P4NP/R1B2R1K b - - 0 16,"With kings castled on opposite sides, and queens still on the board, I have to attack his king before he attacks mine"
+32,Bxa5,b4a5,2kr3r/pp1n1p2/1qp1pnbp/b5p1/2BPP1P1/1QN2P2/1P4NP/R1B2R1K w - - 0 17,I am threatening Qxa5 now
+33,Qa3,b3a3,2kr3r/pp1n1p2/1qp1pnbp/b5p1/2BPP1P1/Q1N2P2/1P4NP/R1B2R1K b - - 1 17,I am threatening Qxa5 now
+34,Bb4,a5b4,2kr3r/pp1n1p2/1qp1pnbp/6p1/1bBPP1P1/Q1N2P2/1P4NP/R1B2R1K w - - 2 18,So he moves the bishop
+35,Qxa7,a3a7,2kr3r/Qp1n1p2/1qp1pnbp/6p1/1bBPP1P1/2N2P2/1P4NP/R1B2R1K b - - 0 18,I take the pawn back

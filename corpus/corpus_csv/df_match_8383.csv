@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+3,c4,c2c4,rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+4,g6,g7g6,rnbqkbnr/pppp1p1p/4p1p1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+5,b3,b2b3,rnbqkbnr/pppp1p1p/4p1p1/8/2PP4/1P6/P3PPPP/RNBQKBNR b KQkq - 0 3,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+6,Bg7,f8g7,rnbqk1nr/pppp1pbp/4p1p1/8/2PP4/1P6/P3PPPP/RNBQKBNR w KQkq - 1 4,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+7,Bb2,c1b2,rnbqk1nr/pppp1pbp/4p1p1/8/2PP4/1P6/PB2PPPP/RN1QKBNR b KQkq - 2 4,"This move pins not only the R, but the B in front. The K-side fianchetto is very strong against this opening."
+8,c5,c7c5,rnbqk1nr/pp1p1pbp/4p1p1/2p5/2PP4/1P6/PB2PPPP/RN1QKBNR w KQkq - 0 5,"Attacking a pinned P. White cannot take because, obviously 5.PxP BxB 6.Nd2 BxR 7.QxB ...Black is up a R."
+9,e3,e2e3,rnbqk1nr/pp1p1pbp/4p1p1/2p5/2PP4/1P2P3/PB3PPP/RN1QKBNR b KQkq - 0 5,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+10,Ne7,g8e7,rnbqk2r/pp1pnpbp/4p1p1/2p5/2PP4/1P2P3/PB3PPP/RN1QKBNR w KQkq - 1 6,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+11,Nf3,g1f3,rnbqk2r/pp1pnpbp/4p1p1/2p5/2PP4/1P2PN2/PB3PPP/RN1QKB1R b KQkq - 2 6,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+12,Nbc6,b8c6,r1bqk2r/pp1pnpbp/2n1p1p1/2p5/2PP4/1P2PN2/PB3PPP/RN1QKB1R w KQkq - 3 7,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+13,Ne5,f3e5,r1bqk2r/pp1pnpbp/2n1p1p1/2p1N3/2PP4/1P2P3/PB3PPP/RN1QKB1R b KQkq - 4 7,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+14,O-O,e8g8,r1bq1rk1/pp1pnpbp/2n1p1p1/2p1N3/2PP4/1P2P3/PB3PPP/RN1QKB1R w KQ - 5 8,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+15,f4,f2f4,r1bq1rk1/pp1pnpbp/2n1p1p1/2p1N3/2PP1P2/1P2P3/PB4PP/RN1QKB1R b KQ - 0 8,"Black cannot play 8.... NxN, as white follows with 9.PfxP ... leaving black to initiate the c5-d4 P exchange, allowing white to undouble his weakened pawn structure."
+16,d6,d7d6,r1bq1rk1/pp2npbp/2npp1p1/2p1N3/2PP1P2/1P2P3/PB4PP/RN1QKB1R w KQ - 0 9,Everything is focusing towards d4.
+17,Nxc6,e5c6,r1bq1rk1/pp2npbp/2Npp1p1/2p5/2PP1P2/1P2P3/PB4PP/RN1QKB1R b KQ - 0 9,Everything is focusing towards d4.
+18,Nxc6,e7c6,r1bq1rk1/pp3pbp/2npp1p1/2p5/2PP1P2/1P2P3/PB4PP/RN1QKB1R w KQ - 0 10,Everything is focusing towards d4.
+19,g3,g2g3,r1bq1rk1/pp3pbp/2npp1p1/2p5/2PP1P2/1P2P1P1/PB5P/RN1QKB1R b KQ - 0 10,"better, I think, is 10.Be2 Qc7 11. 0-0 .... having opened up both the K- and Q-sides of the board made castling nearly irrelevent. Even if black were to follow through with 11....e5, the subsequent exchange would leave a more open board, allowing white the opportunity to develop minor and major pieces."
+20,Qc7,d8c7,r1b2rk1/ppq2pbp/2npp1p1/2p5/2PP1P2/1P2P1P1/PB5P/RN1QKB1R w KQ - 1 11,"This is the only logical square for black's Q at this point, even though she is blocked by white's K-side pawn structure. Playing 10....Qe7 to line up black's Q with white's K takes away one of the few moves black's N has, and as the game hasn't decided which lines will be of import, allowing for N support of d5 and f5 from e7 may yet be important. 
+ 
+Also, if white decides to castle Q-side, then he aligns directly the Q's path."
+21,Bg2,f1g2,r1b2rk1/ppq2pbp/2npp1p1/2p5/2PP1P2/1P2P1P1/PB4BP/RN1QK2R b KQ - 2 11,"at this point, I was just hoping to have the opportunity to play Bh3, preventing a K-side castle, but to do so I must lure that B from g2"
+22,a6,a7a6,r1b2rk1/1pq2pbp/p1npp1p1/2p5/2PP1P2/1P2P1P1/PB4BP/RN1QK2R w KQ - 0 12,"at this point, I was just hoping to have the opportunity to play Bh3, preventing a K-side castle, but to do so I must lure that B from g2"
+23,Qd2,d1d2,r1b2rk1/1pq2pbp/p1npp1p1/2p5/2PP1P2/1P2P1P1/PB1Q2BP/RN2K2R b KQ - 1 12,"at this point, I was just hoping to have the opportunity to play Bh3, preventing a K-side castle, but to do so I must lure that B from g2"
+24,Rd8,f8d8,r1br2k1/1pq2pbp/p1npp1p1/2p5/2PP1P2/1P2P1P1/PB1Q2BP/RN2K2R w KQ - 2 13,"at this point, I was just hoping to have the opportunity to play Bh3, preventing a K-side castle, but to do so I must lure that B from g2"
+25,a3,a2a3,r1br2k1/1pq2pbp/p1npp1p1/2p5/2PP1P2/PP2P1P1/1B1Q2BP/RN2K2R b KQ - 0 13,"at this point, I was just hoping to have the opportunity to play Bh3, preventing a K-side castle, but to do so I must lure that B from g2"
+26,cxd4,c5d4,r1br2k1/1pq2pbp/p1npp1p1/8/2Pp1P2/PP2P1P1/1B1Q2BP/RN2K2R w KQ - 0 14,"a-ha! 14....e5 was the needed bait to remove the B from the long diagonal, and even though a controlling N was removed from the board, black's undeveloped B has the opportunity to plant itself deep in enemy territory."
+27,exd4,e3d4,r1br2k1/1pq2pbp/p1npp1p1/8/2PP1P2/PP4P1/1B1Q2BP/RN2K2R b KQ - 0 14,"a-ha! 14....e5 was the needed bait to remove the B from the long diagonal, and even though a controlling N was removed from the board, black's undeveloped B has the opportunity to plant itself deep in enemy territory."
+28,e5,e6e5,r1br2k1/1pq2pbp/p1np2p1/4p3/2PP1P2/PP4P1/1B1Q2BP/RN2K2R w KQ - 0 15,"a-ha! 14....e5 was the needed bait to remove the B from the long diagonal, and even though a controlling N was removed from the board, black's undeveloped B has the opportunity to plant itself deep in enemy territory."
+29,Bxc6,g2c6,r1br2k1/1pq2pbp/p1Bp2p1/4p3/2PP1P2/PP4P1/1B1Q3P/RN2K2R b KQ - 0 15,"a-ha! 14....e5 was the needed bait to remove the B from the long diagonal, and even though a controlling N was removed from the board, black's undeveloped B has the opportunity to plant itself deep in enemy territory."
+30,bxc6,b7c6,r1br2k1/2q2pbp/p1pp2p1/4p3/2PP1P2/PP4P1/1B1Q3P/RN2K2R w KQ - 0 16,"assumed 15. ...QxP leads to 16. d5 , attacking the Q and removing black's control of the long diagonal while suffering a past pawn."
+31,b4,b3b4,r1br2k1/2q2pbp/p1pp2p1/4p3/1PPP1P2/P5P1/1B1Q3P/RN2K2R b KQ - 0 16,"White has no  ""best move"" here, and must settle for the lesser of evils. Less evil, I think, is 16.a4 Bh3 (as was my original design) 17.Na3 .... 18. 0-00, with supporting pieces and a semi-P structure in front for defense. While the N on the edge is not ideal, it's 1 move away from the influential c2 square.
+                     
+If white tries to expedite the castling process with 16.Nc3, then 16....PxPd ; or 16.Qd3 (with the intention of 17.Nd2 ....18.0-00 ....) reults in 16. ...Bf5"
+32,exd4,e5d4,r1br2k1/2q2pbp/p1pp2p1/8/1PPp1P2/P5P1/1B1Q3P/RN2K2R w KQ - 0 17,from here I determined 17.BxP BxB 18.QxB c5 19.PxP Bh3 20.Nc3 Re8+ 21.Kf2 Qc6 22.Rg1
+33,Bxd4,b2d4,r1br2k1/2q2pbp/p1pp2p1/8/1PPB1P2/P5P1/3Q3P/RN2K2R b KQ - 0 17,"Deciding to switch gears at this point, I determine to control the long diagonal. The best way to acomplish this is to force my opponent to respond to MY moves, and plant my Q on c6. I plan to use the Q to control this diagonal due to her flexibility. White's K-side pawn structure is the ideal environment for black's remaining B."
+34,Bxd4,g7d4,r1br2k1/2q2p1p/p1pp2p1/8/1PPb1P2/P5P1/3Q3P/RN2K2R w KQ - 0 18,"Deciding to switch gears at this point, I determine to control the long diagonal. The best way to acomplish this is to force my opponent to respond to MY moves, and plant my Q on c6. I plan to use the Q to control this diagonal due to her flexibility. White's K-side pawn structure is the ideal environment for black's remaining B."
+35,Qxd4,d2d4,r1br2k1/2q2p1p/p1pp2p1/8/1PPQ1P2/P5P1/7P/RN2K2R b KQ - 0 18,"Deciding to switch gears at this point, I determine to control the long diagonal. The best way to acomplish this is to force my opponent to respond to MY moves, and plant my Q on c6. I plan to use the Q to control this diagonal due to her flexibility. White's K-side pawn structure is the ideal environment for black's remaining B."
+36,c5,c6c5,r1br2k1/2q2p1p/p2p2p1/2p5/1PPQ1P2/P5P1/7P/RN2K2R w KQ - 0 19,It seemed sound for white to remove its Q from the path of black's R.
+37,Qc3,d4c3,r1br2k1/2q2p1p/p2p2p1/2p5/1PP2P2/P1Q3P1/7P/RN2K2R b KQ - 1 19,It seemed sound for white to remove its Q from the path of black's R.
+38,Qc6,c7c6,r1br2k1/5p1p/p1qp2p1/2p5/1PP2P2/P1Q3P1/7P/RN2K2R w KQ - 2 20,"The Q is removed from the d-file, and black grabs the long diagonal. From here, I honestly figured 20.0-0 Bh3 21.Rf2 Re8 22.Nd2.....which, of course, leads to a longer end game."
+39,Rf1,h1f1,r1br2k1/5p1p/p1qp2p1/2p5/1PP2P2/P1Q3P1/7P/RN2KR2 b Q - 3 20,"I have the game at his point, I just didn't realize how soon, though. from here 21....Qg2 22.Rf2 Re8+ 23.Kd1 QxR .... and with significant advantage, plus a mobile bishop and a second rook to add to the e-file, I figured I could easily turn this into a game of attrition which he would lose very quickly.
+ 
+However, better is 20. 0-0 Bh3 21.Rf2 Re8 22.Qd2 Re7 23.Nc3 Rae8 24. Rad1 ..."
+40,Qg2,c6g2,r1br2k1/5p1p/p2p2p1/2p5/1PP2P2/P1Q3P1/6qP/RN2KR2 w Q - 4 21,Allowing black's Q to penetrate so deep with an open lane for black's R and good attacking angles for balck's wh-B.
+41,Qf3,c3f3,r1br2k1/5p1p/p2p2p1/2p5/1PP2P2/P4QP1/6qP/RN2KR2 b Q - 5 21,21.Qf3?? .... White cannot recover from this mistake.
+42,Re8+,d8e8,r1b1r1k1/5p1p/p2p2p1/2p5/1PP2P2/P4QP1/6qP/RN2KR2 w Q - 6 22,"The R acts as a crowbar, separating white's K from protection."
+43,Kd1,e1d1,r1b1r1k1/5p1p/p2p2p1/2p5/1PP2P2/P4QP1/6qP/RN1K1R2 b - - 7 22,"22....Bg4! ....forcing a trade, effectively removing the Q from any possible further meaningful interventions."
+44,Bg4,c8g4,r3r1k1/5p1p/p2p2p1/2p5/1PP2Pb1/P4QP1/6qP/RN1K1R2 w - - 8 23,"22....Bg4! ....forcing a trade, effectively removing the Q from any possible further meaningful interventions."
+45,Qxg4,f3g4,r3r1k1/5p1p/p2p2p1/2p5/1PP2PQ1/P5P1/6qP/RN1K1R2 b - - 0 23,"White resigns.
+ 
+Any other interference would have resulted in a loss of his Q,P, and R, in that order."
+46,Qxf1+,g2f1,r3r1k1/5p1p/p2p2p1/2p5/1PP2PQ1/P5P1/7P/RN1K1q2 w - - 0 24,"White resigns.
+ 
+Any other interference would have resulted in a loss of his Q,P, and R, in that order."
+47,Kd2,d1d2,r3r1k1/5p1p/p2p2p1/2p5/1PP2PQ1/P5P1/3K3P/RN3q2 b - - 1 24,"White resigns.
+ 
+Any other interference would have resulted in a loss of his Q,P, and R, in that order."
+48,Qf2+,f1f2,r3r1k1/5p1p/p2p2p1/2p5/1PP2PQ1/P5P1/3K1q1P/RN6 w - - 2 25,"White resigns.
+ 
+Any other interference would have resulted in a loss of his Q,P, and R, in that order."

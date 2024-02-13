@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sometimes it's the minor things that set up the attack. In this French Defense mini-tournament game white uses a rather passive move (7.h3) to block black's attack against his dark square bishop. Black later takes aim at exactly that square. Let's see where this leads.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Last move of the initial position of the mini-tournament.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Last move of the initial position of the mini-tournament.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Last move of the initial position of the mini-tournament.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,White decides to go for the exchange.
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Both parties make preparations for a kingside castle.
+7,c3,c2c3,rnbqkbnr/ppp2ppp/8/3p4/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,Both parties make preparations for a kingside castle.
+8,Bd6,f8d6,rnbqk1nr/ppp2ppp/3b4/3p4/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 1 5,Both parties make preparations for a kingside castle.
+9,Bd3,f1d3,rnbqk1nr/ppp2ppp/3b4/3p4/3P4/2PB4/PP3PPP/RNBQK1NR b KQkq - 2 5,Both parties make preparations for a kingside castle.
+10,Nc6,b8c6,r1bqk1nr/ppp2ppp/2nb4/3p4/3P4/2PB4/PP3PPP/RNBQK1NR w KQkq - 3 6,Waiting to see where white's dark square bishop goes before moving the king's knight.
+11,Be3,c1e3,r1bqk1nr/ppp2ppp/2nb4/3p4/3P4/2PBB3/PP3PPP/RN1QK1NR b KQkq - 4 6,One of black's plans would be to eliminate the e3 bishop with Ng4. This move is in response to that threat. However a direct 7.Nf3 is better. The line 7.Nf3 Ng4 8.0-0 Nxe3 9.Re1 with recapture poses no problems for white.
+12,Nf6,g8f6,r1bqk2r/ppp2ppp/2nb1n2/3p4/3P4/2PBB3/PP3PPP/RN1QK1NR w KQkq - 5 7,One of black's plans would be to eliminate the e3 bishop with Ng4. This move is in response to that threat. However a direct 7.Nf3 is better. The line 7.Nf3 Ng4 8.0-0 Nxe3 9.Re1 with recapture poses no problems for white.
+13,h3,h2h3,r1bqk2r/ppp2ppp/2nb1n2/3p4/3P4/2PBB2P/PP3PP1/RN1QK1NR b KQkq - 0 7,One of black's plans would be to eliminate the e3 bishop with Ng4. This move is in response to that threat. However a direct 7.Nf3 is better. The line 7.Nf3 Ng4 8.0-0 Nxe3 9.Re1 with recapture poses no problems for white.
+14,O-O,e8g8,r1bq1rk1/ppp2ppp/2nb1n2/3p4/3P4/2PBB2P/PP3PP1/RN1QK1NR w KQ - 1 8,"Putting a knight in the center with 9...Ne4 is probably better for black, but since he has a plan in mind..."
+15,Nf3,g1f3,r1bq1rk1/ppp2ppp/2nb1n2/3p4/3P4/2PBBN1P/PP3PP1/RN1QK2R b KQ - 2 8,"Putting a knight in the center with 9...Ne4 is probably better for black, but since he has a plan in mind..."
+16,Re8,f8e8,r1bqr1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBBN1P/PP3PP1/RN1QK2R w KQ - 3 9,"Putting a knight in the center with 9...Ne4 is probably better for black, but since he has a plan in mind..."
+17,O-O,e1g1,r1bqr1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBBN1P/PP3PP1/RN1Q1RK1 b - - 4 9,"Putting a knight in the center with 9...Ne4 is probably better for black, but since he has a plan in mind..."
+18,Bd7,c8d7,r2qr1k1/pppb1ppp/2nb1n2/3p4/3P4/2PBBN1P/PP3PP1/RN1Q1RK1 w - - 5 10,"Putting a knight in the center with 9...Ne4 is probably better for black, but since he has a plan in mind..."
+19,Nbd2,b1d2,r2qr1k1/pppb1ppp/2nb1n2/3p4/3P4/2PBBN1P/PP1N1PP1/R2Q1RK1 b - - 6 10,A short maneuver to target h3.
+20,Qc8,d8c8,r1q1r1k1/pppb1ppp/2nb1n2/3p4/3P4/2PBBN1P/PP1N1PP1/R2Q1RK1 w - - 7 11,A short maneuver to target h3.
+21,Nh2,f3h2,r1q1r1k1/pppb1ppp/2nb1n2/3p4/3P4/2PBB2P/PP1N1PPN/R2Q1RK1 b - - 8 11,?; better is 11.Qc2 for a simmilar battery.
+22,Bxh3,d7h3,r1q1r1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBB2b/PP1N1PPN/R2Q1RK1 w - - 0 12,The whole point.
+23,gxh3,g2h3,r1q1r1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBB2P/PP1N1P1N/R2Q1RK1 b - - 0 12,White's best chance would be to count the pawn as a loss and concentrate elsewhere. This just opens up the kingside for black's pieces.
+24,Qxh3,c8h3,r3r1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBB2q/PP1N1P1N/R2Q1RK1 w - - 0 13,Nh-f3 is better but white still faces problems.
+25,Ndf3,d2f3,r3r1k1/ppp2ppp/2nb1n2/3p4/3P4/2PBBN1q/PP3P1N/R2Q1RK1 b - - 1 13,Nh-f3 is better but white still faces problems.
+26,Ng4,f6g4,r3r1k1/ppp2ppp/2nb4/3p4/3P2n1/2PBBN1q/PP3P1N/R2Q1RK1 w - - 2 14,Going on with the plan. However a simpler win is available with the direct 13...Re4. [Fritz]
+27,Nxg4,h2g4,r3r1k1/ppp2ppp/2nb4/3p4/3P2N1/2PBBN1q/PP3P2/R2Q1RK1 b - - 0 14,Not wanting to give white a chance to bring his f-rook into play. Notice how passive white's rooks and queen are.
+28,Qxg4+,h3g4,r3r1k1/ppp2ppp/2nb4/3p4/3P2q1/2PBBN2/PP3P2/R2Q1RK1 w - - 0 15,Not wanting to give white a chance to bring his f-rook into play. Notice how passive white's rooks and queen are.
+29,Kh1,g1h1,r3r1k1/ppp2ppp/2nb4/3p4/3P2q1/2PBBN2/PP3P2/R2Q1R1K b - - 1 15,Not wanting to give white a chance to bring his f-rook into play. Notice how passive white's rooks and queen are.
+30,Qh3+,g4h3,r3r1k1/ppp2ppp/2nb4/3p4/3P4/2PBBN1q/PP3P2/R2Q1R1K w - - 2 16,Not wanting to give white a chance to bring his f-rook into play. Notice how passive white's rooks and queen are.
+31,Kg1,h1g1,r3r1k1/ppp2ppp/2nb4/3p4/3P4/2PBBN1q/PP3P2/R2Q1RK1 b - - 3 16,How to continue now?  White guards lots of squares on the g and h files and it seems like a rook lift won't help.
+32,Re6,e8e6,r5k1/ppp2ppp/2nbr3/3p4/3P4/2PBBN1q/PP3P2/R2Q1RK1 w - - 4 17,Still...
+33,b3,b2b3,r5k1/ppp2ppp/2nbr3/3p4/3P4/1PPBBN1q/P4P2/R2Q1RK1 b - - 0 17,"Not helping with the situation, but then again, no move really could."
+34,Kh8,g8h8,r6k/ppp2ppp/2nbr3/3p4/3P4/1PPBBN1q/P4P2/R2Q1RK1 w - - 1 18,"!; Making room for the other black rook. Of course Fritz insists that 17...Rf6 is a better move. Heh, what does he know?"
+35,Re1,f1e1,r6k/ppp2ppp/2nbr3/3p4/3P4/1PPBBN1q/P4P2/R2QR1K1 b - - 2 18,The natural continuation of the plan. A rook sacrifices itself for its sister's glory.
+36,Rh6,e6h6,r6k/ppp2ppp/2nb3r/3p4/3P4/1PPBBN1q/P4P2/R2QR1K1 w - - 3 19,The natural continuation of the plan. A rook sacrifices itself for its sister's glory.
+37,Bxh6,e3h6,r6k/ppp2ppp/2nb3B/3p4/3P4/1PPB1N1q/P4P2/R2QR1K1 b - - 0 19,Nothing better since black threatens mate at h1.

@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,English Opening
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,English Opening
+4,b6,b7b6,rnbqkbnr/p1pp1ppp/1p6/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,"Black is out of book here. He clearly plans to fianchetto his bishop, perhaps as attempt to discourage White from a Bg2 fianchetto, which is common in the English."
+5,g3,g2g3,rnbqkbnr/p1pp1ppp/1p6/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,Nd5 allows time to develop Bg2.
+6,Bb7,c8b7,rn1qkbnr/pbpp1ppp/1p6/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Nd5 allows time to develop Bg2.
+7,Nd5,c3d5,rn1qkbnr/pbpp1ppp/1p6/3Np3/2P5/6P1/PP1PPP1P/R1BQKBNR b KQkq - 2 4,Nd5 allows time to develop Bg2.
+8,Bc5,f8c5,rn1qk1nr/pbpp1ppp/1p6/2bNp3/2P5/6P1/PP1PPP1P/R1BQKBNR w KQkq - 3 5,Bc5 threatens a Bxf2 sacrifice which would prevent a future Castle.
+9,e3,e2e3,rn1qk1nr/pbpp1ppp/1p6/2bNp3/2P5/4P1P1/PP1P1P1P/R1BQKBNR b KQkq - 0 5,e3 protects against possible Bxf2 sacrifice or threat from Qf6 after Bxd5.
+10,Nf6,g8f6,rn1qk2r/pbpp1ppp/1p3n2/2bNp3/2P5/4P1P1/PP1P1P1P/R1BQKBNR w KQkq - 1 6,Threatens Knight on d5.
+11,Bg2,f1g2,rn1qk2r/pbpp1ppp/1p3n2/2bNp3/2P5/4P1P1/PP1P1PBP/R1BQK1NR b KQkq - 2 6,Protects Night on d5.
+12,c6,c7c6,rn1qk2r/pb1p1ppp/1pp2n2/2bNp3/2P5/4P1P1/PP1P1PBP/R1BQK1NR w KQkq - 0 7,Material even after exchanges.
+13,Nxf6+,d5f6,rn1qk2r/pb1p1ppp/1pp2N2/2b1p3/2P5/4P1P1/PP1P1PBP/R1BQK1NR b KQkq - 0 7,Material even after exchanges.
+14,Qxf6,d8f6,rn2k2r/pb1p1ppp/1pp2q2/2b1p3/2P5/4P1P1/PP1P1PBP/R1BQK1NR w KQkq - 0 8,Material even after exchanges.
+15,Qf3,d1f3,rn2k2r/pb1p1ppp/1pp2q2/2b1p3/2P5/4PQP1/PP1P1PBP/R1B1K1NR b KQkq - 1 8,Material even after exchanges.
+16,Qxf3,f6f3,rn2k2r/pb1p1ppp/1pp5/2b1p3/2P5/4PqP1/PP1P1PBP/R1B1K1NR w KQkq - 0 9,Material even after exchanges.
+17,Bxf3,g2f3,rn2k2r/pb1p1ppp/1pp5/2b1p3/2P5/4PBP1/PP1P1P1P/R1B1K1NR b KQkq - 0 9,Material even after exchanges.
+18,O-O,e8g8,rn3rk1/pb1p1ppp/1pp5/2b1p3/2P5/4PBP1/PP1P1P1P/R1B1K1NR w KQ - 1 10,b3 offers the option of playing Bb2 later.
+19,b3,b2b3,rn3rk1/pb1p1ppp/1pp5/2b1p3/2P5/1P2PBP1/P2P1P1P/R1B1K1NR b KQ - 0 10,b3 offers the option of playing Bb2 later.
+20,Re8,f8e8,rn2r1k1/pb1p1ppp/1pp5/2b1p3/2P5/1P2PBP1/P2P1P1P/R1B1K1NR w KQ - 1 11,Re8 protecting e5.
+21,e4,e3e4,rn2r1k1/pb1p1ppp/1pp5/2b1p3/2P1P3/1P3BP1/P2P1P1P/R1B1K1NR b KQ - 0 11,11.e4 prevents 11...e4
+22,Bd4,c5d4,rn2r1k1/pb1p1ppp/1pp5/4p3/2PbP3/1P3BP1/P2P1P1P/R1B1K1NR w KQ - 1 12,The only option to develop the Queen side Knight.
+23,Rb1,a1b1,rn2r1k1/pb1p1ppp/1pp5/4p3/2PbP3/1P3BP1/P2P1P1P/1RB1K1NR b K - 2 12,The only option to develop the Queen side Knight.
+24,Na6,b8a6,r3r1k1/pb1p1ppp/npp5/4p3/2PbP3/1P3BP1/P2P1P1P/1RB1K1NR w K - 3 13,The only option to develop the Queen side Knight.
+25,Ba3,c1a3,r3r1k1/pb1p1ppp/npp5/4p3/2PbP3/BP3BP1/P2P1P1P/1R2K1NR b K - 4 13,Preemptive move to protect b4 and c5 from Knight occupation.
+26,Nc5,a6c5,r3r1k1/pb1p1ppp/1pp5/2n1p3/2PbP3/BP3BP1/P2P1P1P/1R2K1NR w K - 5 14,Material even after exchange.
+27,Bxc5,a3c5,r3r1k1/pb1p1ppp/1pp5/2B1p3/2PbP3/1P3BP1/P2P1P1P/1R2K1NR b K - 0 14,Material even after exchange.
+28,Bxc5,d4c5,r3r1k1/pb1p1ppp/1pp5/2b1p3/2P1P3/1P3BP1/P2P1P1P/1R2K1NR w K - 0 15,Material even after exchange.
+29,Bg4,f3g4,r3r1k1/pb1p1ppp/1pp5/2b1p3/2P1P1B1/1P4P1/P2P1P1P/1R2K1NR b K - 1 15,"Allow for Knight development, make the Bishop more useful and threaten d7 pawn."
+30,d6,d7d6,r3r1k1/pb3ppp/1ppp4/2b1p3/2P1P1B1/1P4P1/P2P1P1P/1R2K1NR w K - 0 16,Develop Knight for Castle.
+31,Nf3,g1f3,r3r1k1/pb3ppp/1ppp4/2b1p3/2P1P1B1/1P3NP1/P2P1P1P/1R2K2R b K - 1 16,Develop Knight for Castle.
+32,a6,a7a6,r3r1k1/1b3ppp/pppp4/2b1p3/2P1P1B1/1P3NP1/P2P1P1P/1R2K2R w K - 0 17,a6 is in preparation of a future 17...b5.
+33,O-O,e1g1,r3r1k1/1b3ppp/pppp4/2b1p3/2P1P1B1/1P3NP1/P2P1P1P/1R3RK1 b - - 1 17,There is no advantage for White to trade pawns here with 18.cxb5 because it frees up the a-file for the Black Rook.
+34,b5,b6b5,r3r1k1/1b3ppp/p1pp4/1pb1p3/2P1P1B1/1P3NP1/P2P1P1P/1R3RK1 w - - 0 18,There is no advantage for White to trade pawns here with 18.cxb5 because it frees up the a-file for the Black Rook.
+35,Rfd1,f1d1,r3r1k1/1b3ppp/p1pp4/1pb1p3/2P1P1B1/1P3NP1/P2P1P1P/1R1R2K1 b - - 1 18,Preparing for d4.
+36,a5,a6a5,r3r1k1/1b3ppp/2pp4/ppb1p3/2P1P1B1/1P3NP1/P2P1P1P/1R1R2K1 w - - 0 19,"a4 was an attempt to allow Black to either exchange pawns in order to open up the b-file for my Rook, or lock up that side of the board which is what he later chose to do with 20...b4. If he would have left the b5 Pawn alone I would have left it alone also for fear that cxb5 would free up his Bishop to attack."
+37,Kg2,g1g2,r3r1k1/1b3ppp/2pp4/ppb1p3/2P1P1B1/1P3NP1/P2P1PKP/1R1R4 b - - 1 19,"a4 was an attempt to allow Black to either exchange pawns in order to open up the b-file for my Rook, or lock up that side of the board which is what he later chose to do with 20...b4. If he would have left the b5 Pawn alone I would have left it alone also for fear that cxb5 would free up his Bishop to attack."
+38,g6,g7g6,r3r1k1/1b3p1p/2pp2p1/ppb1p3/2P1P1B1/1P3NP1/P2P1PKP/1R1R4 w - - 0 20,"a4 was an attempt to allow Black to either exchange pawns in order to open up the b-file for my Rook, or lock up that side of the board which is what he later chose to do with 20...b4. If he would have left the b5 Pawn alone I would have left it alone also for fear that cxb5 would free up his Bishop to attack."
+39,a4,a2a4,r3r1k1/1b3p1p/2pp2p1/ppb1p3/P1P1P1B1/1P3NP1/3P1PKP/1R1R4 b - - 0 20,"a4 was an attempt to allow Black to either exchange pawns in order to open up the b-file for my Rook, or lock up that side of the board which is what he later chose to do with 20...b4. If he would have left the b5 Pawn alone I would have left it alone also for fear that cxb5 would free up his Bishop to attack."

@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The kings opening
+and for gmflash2008 reference http://gameknot.com/chess.pl?bd=8582107&fb=1rnd=0.09760164363421514 in case he thinks I am ""making it up"""
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,then I did the Sicilian defense
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,both have a Knight out
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,both have a Knight out
+5,Bc4,f1c4,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,moves Bishop out so he can Castle should he need to
+6,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,move Pawn incase he tries Ng5 and then Nf7
+7,Nc3,b1c3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,starting to bring my pieces so I could castle should I need to
+8,Be7,f8e7,r1bqk1nr/pp1pbppp/2n1p3/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,starting to bring my pieces so I could castle should I need to
+9,O-O,e1g1,r1bqk1nr/pp1pbppp/2n1p3/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 5,He then Castles
+10,Nf6,g8f6,r1bqk2r/pp1pbppp/2n1pn2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 4 6,Brought my Knight so I can prepare to castle should I need to
+11,e5,e4e5,r1bqk2r/pp1pbppp/2n1pn2/2p1P3/2B5/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 0 6,attacking my Knight
+12,Ng4,f6g4,r1bqk2r/pp1pbppp/2n1p3/2p1P3/2B3n1/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 1 7,I could of gone Ng8 but that would have mean a wasted move whilst H5 put me one the edge of the board and not many attacking options with it so I went Ng4
+13,Re1,f1e1,r1bqk2r/pp1pbppp/2n1p3/2p1P3/2B3n1/2N2N2/PPPP1PPP/R1BQR1K1 b kq - 2 7,didn't have much options so decided to go Na5 to go for Bishop on C4
+14,Na5,c6a5,r1bqk2r/pp1pbppp/4p3/n1p1P3/2B3n1/2N2N2/PPPP1PPP/R1BQR1K1 w kq - 3 8,didn't have much options so decided to go Na5 to go for Bishop on C4
+15,Bf1,c4f1,r1bqk2r/pp1pbppp/4p3/n1p1P3/6n1/2N2N2/PPPP1PPP/R1BQRBK1 b kq - 4 8,I then castled
+16,O-O,e8g8,r1bq1rk1/pp1pbppp/4p3/n1p1P3/6n1/2N2N2/PPPP1PPP/R1BQRBK1 w - - 5 9,I then castled
+17,h3,h2h3,r1bq1rk1/pp1pbppp/4p3/n1p1P3/6n1/2N2N1P/PPPP1PP1/R1BQRBK1 b - - 0 9,He decided to attack the Knight
+18,Nh6,g4h6,r1bq1rk1/pp1pbppp/4p2n/n1p1P3/8/2N2N1P/PPPP1PP1/R1BQRBK1 w - - 1 10,Moved to H6 which was my only knowing he will do either d3 or d4 and then Bxh6 which I would have to take which would leave my King exposed
+19,d4,d2d4,r1bq1rk1/pp1pbppp/4p2n/n1p1P3/3P4/2N2N1P/PPP2PP1/R1BQRBK1 b - - 0 10,D4 has thought
+20,Nf5,h6f5,r1bq1rk1/pp1pbppp/4p3/n1p1Pn2/3P4/2N2N1P/PPP2PP1/R1BQRBK1 w - - 1 11,Moved Knight to avoid capture and threaten the D4 pawn
+21,d5,d4d5,r1bq1rk1/pp1pbppp/4p3/n1pPPn2/8/2N2N1P/PPP2PP1/R1BQRBK1 b - - 0 11,I was starting get concerned about his pawns on the fifth rank
+22,d6,d7d6,r1bq1rk1/pp2bppp/3pp3/n1pPPn2/8/2N2N1P/PPP2PP1/R1BQRBK1 w - - 0 12,So I moved to D6 in order to try and get rid of them
+23,Bd3,f1d3,r1bq1rk1/pp2bppp/3pp3/n1pPPn2/8/2NB1N1P/PPP2PP1/R1BQR1K1 b - - 1 12,I decided to capture with the Queen rather then the Bishop
+24,Nd4,f5d4,r1bq1rk1/pp2bppp/3pp3/n1pPP3/3n4/2NB1N1P/PPP2PP1/R1BQR1K1 w - - 2 13,I decided to capture with the Queen rather then the Bishop
+25,exd6,e5d6,r1bq1rk1/pp2bppp/3Pp3/n1pP4/3n4/2NB1N1P/PPP2PP1/R1BQR1K1 b - - 0 13,I decided to capture with the Queen rather then the Bishop
+26,Qxd6,d8d6,r1b2rk1/pp2bppp/3qp3/n1pP4/3n4/2NB1N1P/PPP2PP1/R1BQR1K1 w - - 0 14,I decided to capture with the Queen rather then the Bishop
+27,Nxd4,f3d4,r1b2rk1/pp2bppp/3qp3/n1pP4/3N4/2NB3P/PPP2PP1/R1BQR1K1 b - - 0 14,Moved the Knight to B5 to attack the Queen
+28,cxd4,c5d4,r1b2rk1/pp2bppp/3qp3/n2P4/3p4/2NB3P/PPP2PP1/R1BQR1K1 w - - 0 15,Moved the Knight to B5 to attack the Queen
+29,Nb5,c3b5,r1b2rk1/pp2bppp/3qp3/nN1P4/3p4/3B3P/PPP2PP1/R1BQR1K1 b - - 1 15,Moved the Knight to B5 to attack the Queen

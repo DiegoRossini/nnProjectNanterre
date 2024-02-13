@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I generally lose against this opponent. But in this game, I was able to seize the initiative early and come out ahead in the resulting tactical complications."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Generally good against White's set up.
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,Generally good against White's set up.
+4,d6,d7d6,rnbqkb1r/ppp1pppp/3p1n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Generally good against White's set up.
+5,e3,e2e3,rnbqkb1r/ppp1pppp/3p1n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Generally good against White's set up.
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Generally good against White's set up.
+7,Bd3,f1d3,r1bqkb1r/pppnpppp/3p1n2/8/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 2 4,Generally good against White's set up.
+8,e5,e7e5,r1bqkb1r/pppn1ppp/3p1n2/4p3/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq - 0 5,Generally good against White's set up.
+9,dxe5,d4e5,r1bqkb1r/pppn1ppp/3p1n2/4P3/8/3BPN2/PPP2PPP/RNBQK2R b KQkq - 0 5,Black has gained a tempo through transpostion since the e pawn moved twice
+10,dxe5,d6e5,r1bqkb1r/pppn1ppp/5n2/4p3/8/3BPN2/PPP2PPP/RNBQK2R w KQkq - 0 6,Black has gained a tempo through transpostion since the e pawn moved twice
+11,e4,e3e4,r1bqkb1r/pppn1ppp/5n2/4p3/4P3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 0 6,Black has gained a tempo through transpostion since the e pawn moved twice
+12,Be7,f8e7,r1bqk2r/pppnbppp/5n2/4p3/4P3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 1 7,Black has gained a tempo through transpostion since the e pawn moved twice
+13,O-O,e1g1,r1bqk2r/pppnbppp/5n2/4p3/4P3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 2 7,Standard Hanham formation with White's bishop misplaced on d3
+14,c6,c7c6,r1bqk2r/pp1nbppp/2p2n2/4p3/4P3/3B1N2/PPP2PPP/RNBQ1RK1 w kq - 0 8,Standard Hanham formation with White's bishop misplaced on d3
+15,Nc3,b1c3,r1bqk2r/pp1nbppp/2p2n2/4p3/4P3/2NB1N2/PPP2PPP/R1BQ1RK1 b kq - 1 8,Standard Hanham formation with White's bishop misplaced on d3
+16,O-O,e8g8,r1bq1rk1/pp1nbppp/2p2n2/4p3/4P3/2NB1N2/PPP2PPP/R1BQ1RK1 w - - 2 9,Standard Hanham formation with White's bishop misplaced on d3
+17,Bg5,c1g5,r1bq1rk1/pp1nbppp/2p2n2/4p1B1/4P3/2NB1N2/PPP2PPP/R2Q1RK1 b - - 3 9,Standard Hanham formation with White's bishop misplaced on d3
+18,Qc7,d8c7,r1b2rk1/ppqnbppp/2p2n2/4p1B1/4P3/2NB1N2/PPP2PPP/R2Q1RK1 w - - 4 10,with the idea of freeing the QN and a Rook to the d-file
+19,Re1,f1e1,r1b2rk1/ppqnbppp/2p2n2/4p1B1/4P3/2NB1N2/PPP2PPP/R2QR1K1 b - - 5 10,Black pushes for more space on the Queenside.
+20,b5,b7b5,r1b2rk1/p1qnbppp/2p2n2/1p2p1B1/4P3/2NB1N2/PPP2PPP/R2QR1K1 w - - 0 11,Black pushes for more space on the Queenside.
+21,a3,a2a3,r1b2rk1/p1qnbppp/2p2n2/1p2p1B1/4P3/P1NB1N2/1PP2PPP/R2QR1K1 b - - 0 11,Prepares to attack Black's pawns and the c file later.
+22,a5,a7a5,r1b2rk1/2qnbppp/2p2n2/pp2p1B1/4P3/P1NB1N2/1PP2PPP/R2QR1K1 w - - 0 12,Prepares to attack Black's pawns and the c file later.
+23,Rc1,a1c1,r1b2rk1/2qnbppp/2p2n2/pp2p1B1/4P3/P1NB1N2/1PP2PPP/2RQR1K1 b - - 1 12,Prepares to attack Black's pawns and the c file later.
+24,Nc5,d7c5,r1b2rk1/2q1bppp/2p2n2/ppn1p1B1/4P3/P1NB1N2/1PP2PPP/2RQR1K1 w - - 2 13,Puts pressure on e4.
+25,Bf1,d3f1,r1b2rk1/2q1bppp/2p2n2/ppn1p1B1/4P3/P1N2N2/1PP2PPP/2RQRBK1 b - - 3 13,White retreats the bishop.
+26,b4,b5b4,r1b2rk1/2q1bppp/2p2n2/p1n1p1B1/1p2P3/P1N2N2/1PP2PPP/2RQRBK1 w - - 0 14,Necessary to protect the e4 pawn
+27,axb4,a3b4,r1b2rk1/2q1bppp/2p2n2/p1n1p1B1/1P2P3/2N2N2/1PP2PPP/2RQRBK1 b - - 0 14,Necessary to protect the e4 pawn
+28,axb4,a5b4,r1b2rk1/2q1bppp/2p2n2/2n1p1B1/1p2P3/2N2N2/1PP2PPP/2RQRBK1 w - - 0 15,Necessary to protect the e4 pawn
+29,Bxf6,g5f6,r1b2rk1/2q1bppp/2p2B2/2n1p3/1p2P3/2N2N2/1PP2PPP/2RQRBK1 b - - 0 15,Necessary to protect the e4 pawn
+30,Bxf6,e7f6,r1b2rk1/2q2ppp/2p2b2/2n1p3/1p2P3/2N2N2/1PP2PPP/2RQRBK1 w - - 0 16,"Black wants to provoke some sort of weakness, if possible."
+31,Nb1,c3b1,r1b2rk1/2q2ppp/2p2b2/2n1p3/1p2P3/5N2/1PP2PPP/1NRQRBK1 b - - 1 16,"Black wants to provoke some sort of weakness, if possible."
+32,Rd8,f8d8,r1br2k1/2q2ppp/2p2b2/2n1p3/1p2P3/5N2/1PP2PPP/1NRQRBK1 w - - 2 17,"Black wants to provoke some sort of weakness, if possible."
+33,Qe2,d1e2,r1br2k1/2q2ppp/2p2b2/2n1p3/1p2P3/5N2/1PP1QPPP/1NR1RBK1 b - - 3 17,"Black wants to provoke some sort of weakness, if possible."
+34,Ra2,a8a2,2br2k1/2q2ppp/2p2b2/2n1p3/1p2P3/5N2/rPP1QPPP/1NR1RBK1 w - - 4 18,"Black wants to provoke some sort of weakness, if possible."
+35,Qc4,e2c4,2br2k1/2q2ppp/2p2b2/2n1p3/1pQ1P3/5N2/rPP2PPP/1NR1RBK1 b - - 5 18,"19 c3 !? begins a highly tactical struggle. 19...RxP??, PxP! wins a piece, and White threatens to win a piece by cxb."
+36,Qa5,c7a5,2br2k1/5ppp/2p2b2/q1n1p3/1pQ1P3/5N2/rPP2PPP/1NR1RBK1 w - - 6 19,"19 c3 !? begins a highly tactical struggle. 19...RxP??, PxP! wins a piece, and White threatens to win a piece by cxb."
+37,c3,c2c3,2br2k1/5ppp/2p2b2/q1n1p3/1pQ1P3/2P2N2/rP3PPP/1NR1RBK1 b - - 0 19,"19 c3 !? begins a highly tactical struggle. 19...RxP??, PxP! wins a piece, and White threatens to win a piece by cxb."
+38,b3,b4b3,2br2k1/5ppp/2p2b2/q1n1p3/2Q1P3/1pP2N2/rP3PPP/1NR1RBK1 w - - 0 20,...b3! prepares for ..Ba6
+39,Qe2,c4e2,2br2k1/5ppp/2p2b2/q1n1p3/4P3/1pP2N2/rP2QPPP/1NR1RBK1 b - - 1 20,Qe2?! I expected Qb4...
+40,Nd3,c5d3,2br2k1/5ppp/2p2b2/q3p3/4P3/1pPn1N2/rP2QPPP/1NR1RBK1 w - - 2 21,"Wins the exchange, but White has counterplay."
+41,Nfd2,f3d2,2br2k1/5ppp/2p2b2/q3p3/4P3/1pPn4/rP1NQPPP/1NR1RBK1 b - - 3 21,"...Rxb2!? creates more tactical complications, Black needs to be concerned about the rook being trapped."
+42,Nxc1,d3c1,2br2k1/5ppp/2p2b2/q3p3/4P3/1pP5/rP1NQPPP/1Nn1RBK1 w - - 0 22,"...Rxb2!? creates more tactical complications, Black needs to be concerned about the rook being trapped."
+43,Rxc1,e1c1,2br2k1/5ppp/2p2b2/q3p3/4P3/1pP5/rP1NQPPP/1NR2BK1 b - - 0 22,"...Rxb2!? creates more tactical complications, Black needs to be concerned about the rook being trapped."
+44,Rxb2,a2b2,2br2k1/5ppp/2p2b2/q3p3/4P3/1pP5/1r1NQPPP/1NR2BK1 w - - 0 23,"...Rxb2!? creates more tactical complications, Black needs to be concerned about the rook being trapped."
+45,Qe3,e2e3,2br2k1/5ppp/2p2b2/q3p3/4P3/1pP1Q3/1r1N1PPP/1NR2BK1 b - - 1 23,"23 Qe3, stronger than it might appear.  White hopes for counterplay, possibly picking off the advanced b pawn and trapping the rook to get the exchange back."
+46,Be6,c8e6,3r2k1/5ppp/2p1bb2/q3p3/4P3/1pP1Q3/1r1N1PPP/1NR2BK1 w - - 2 24,Black decides this is the best available move to deal with the threats of Nc4 and Bc4.
+47,Bc4,f1c4,3r2k1/5ppp/2p1bb2/q3p3/2B1P3/1pP1Q3/1r1N1PPP/1NR3K1 b - - 3 24,"Hoping for ..BxB.24 Nc4 BxN, 25 BxB was also possible."
+48,Rc2,b2c2,3r2k1/5ppp/2p1bb2/q3p3/2B1P3/1pP1Q3/2rN1PPP/1NR3K1 w - - 4 25,"24 ...Rc7, a tactical move that exploits the position of the Rook on c1. The mate threat can't be ignored, and exchanging off White's last rook is unpalatable."

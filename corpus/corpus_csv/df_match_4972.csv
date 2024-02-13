@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Weak move by the Duke.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Weak move by the Duke.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Weak move by the Duke.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Weak move by the Duke.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Weak move by the Duke.
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Weak move by the Duke.
+7,dxe5,d4e5,rn1qkbnr/ppp2ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,The attack to f7 begins!
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5b2/PPP2PPP/RNBQKB1R w KQkq - 0 5,The attack to f7 begins!
+9,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 0 5,The attack to f7 begins!
+10,dxe5,d6e5,rn1qkbnr/ppp2ppp/8/4p3/4P3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6,The attack continues...
+11,Bc4,f1c4,rn1qkbnr/ppp2ppp/8/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 1 6,The attack continues...
+12,Nf6,g8f6,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 2 7,Nothing can stop it.
+13,Qb3,f3b3,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7,Nothing can stop it.
+14,Qe7,d8e7,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 4 8,Morphy attacks d5.
+15,Nc3,b1c3,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R b KQkq - 5 8,Morphy attacks d5.
+16,c6,c7c6,rn2kb1r/pp2qppp/2p2n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R w KQkq - 0 9,and the Duke tries to defend it.
+17,Bg5,c1g5,rn2kb1r/pp2qppp/2p2n2/4p1B1/2B1P3/1QN5/PPP2PPP/R3K2R b KQkq - 1 9,Very clever move. Pins the Nf6.
+18,b5,b7b5,rn2kb1r/p3qppp/2p2n2/1p2p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 10,Blunder. Morphy sees the victory already.
+19,Nxb5,c3b5,rn2kb1r/p3qppp/2p2n2/1N2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 10,The Queen-side is wide open and the black King is doomed.
+20,cxb5,c6b5,rn2kb1r/p3qppp/5n2/1p2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R w KQkq - 0 11,The Queen-side is wide open and the black King is doomed.
+21,Bxb5+,c4b5,rn2kb1r/p3qppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 11,The Queen-side is wide open and the black King is doomed.
+22,Nbd7,b8d7,r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R w KQkq - 1 12,Attack Nd7.
+23,O-O-O,e1c1,r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R b kq - 2 12,Attack Nd7.
+24,Rd8,a8d8,3rkb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R w k - 3 13,Black tries to defend it.
+25,Rxd7,d1d7,3rkb1r/p2Rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R b k - 0 13,White doesn't care and carries on with the attack!
+26,Rxd7,d8d7,4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R w k - 0 14,"Rd8 is pinned, so keep on attacking it!"
+27,Rd1,h1d1,4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 1 14,"Rd8 is pinned, so keep on attacking it!"
+28,Qe6,e7e6,4kb1r/p2r1ppp/4qn2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 2 15,"Black moves away from the pin, but it's too late."
+29,Bxd7+,b5d7,4kb1r/p2B1ppp/4qn2/4p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 0 15,"The black knight can capture, but it cannot stop the checkmate."
+30,Nxd7,f6d7,4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 16,"The black knight can capture, but it cannot stop the checkmate."
+31,Qb8+,b3b8,1Q2kb1r/p2n1ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 b k - 1 16,Brilliant Queen sacrifice!
+32,Nxb8,d7b8,1n2kb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 w k - 0 17,White checkmates using just 2 pieces. Black Queen-side is destroyed.
+33,Rd8#,d1d8,1n1Rkb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2K5 b k - 1 17,White checkmates using just 2 pieces. Black Queen-side is destroyed.

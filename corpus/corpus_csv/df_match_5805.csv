@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Transposed Italian Game. Book ended with 4. ... Bc5.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Transposed Italian Game. Book ended with 4. ... Bc5.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Transposed Italian Game. Book ended with 4. ... Bc5.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Transposed Italian Game. Book ended with 4. ... Bc5.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Transposed Italian Game. Book ended with 4. ... Bc5.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Transposed Italian Game. Book ended with 4. ... Bc5.
+7,d3,d2d3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,Transposed Italian Game. Book ended with 4. ... Bc5.
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,Transposed Italian Game. Book ended with 4. ... Bc5.
+9,h3,h2h3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N1P/PPP2PP1/RNBQK2R b KQkq - 0 5,Transposed Italian Game. Book ended with 4. ... Bc5.
+10,h6,h7h6,r1bqk2r/pppp1pp1/2n2n1p/2b1p3/2B1P3/3P1N1P/PPP2PP1/RNBQK2R w KQkq - 0 6,Small error by Black.  Gives up his pawn on e5 for free. I think that I would have done 7. ... d6 before Ne7.
+11,Nc3,b1c3,r1bqk2r/pppp1pp1/2n2n1p/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R b KQkq - 1 6,Small error by Black.  Gives up his pawn on e5 for free. I think that I would have done 7. ... d6 before Ne7.
+12,a6,a7a6,r1bqk2r/1ppp1pp1/p1n2n1p/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 7,Small error by Black.  Gives up his pawn on e5 for free. I think that I would have done 7. ... d6 before Ne7.
+13,O-O,e1g1,r1bqk2r/1ppp1pp1/p1n2n1p/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 b kq - 1 7,Small error by Black.  Gives up his pawn on e5 for free. I think that I would have done 7. ... d6 before Ne7.
+14,Ne7,c6e7,r1bqk2r/1pppnpp1/p4n1p/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 w kq - 2 8,Small error by Black.  Gives up his pawn on e5 for free. I think that I would have done 7. ... d6 before Ne7.
+15,Nxe5,f3e5,r1bqk2r/1pppnpp1/p4n1p/2b1N3/2B1P3/2NP3P/PPP2PP1/R1BQ1RK1 b kq - 0 8,Another error by Black.  I think he was attempting to trade off to game control of the center.  Has a lot of pieces pointing at d5.
+16,d5,d7d5,r1bqk2r/1pp1npp1/p4n1p/2bpN3/2B1P3/2NP3P/PPP2PP1/R1BQ1RK1 w kq - 0 9,Another error by Black.  I think he was attempting to trade off to game control of the center.  Has a lot of pieces pointing at d5.
+17,Nxd5,c3d5,r1bqk2r/1pp1npp1/p4n1p/2bNN3/2B1P3/3P3P/PPP2PP1/R1BQ1RK1 b kq - 0 9,Black is now two pawns (center pawns) down.  I was expecting Nxd5 in an attempt to even up the material but...
+18,Nexd5,e7d5,r1bqk2r/1pp2pp1/p4n1p/2bnN3/2B1P3/3P3P/PPP2PP1/R1BQ1RK1 w kq - 0 10,Black is now two pawns (center pawns) down.  I was expecting Nxd5 in an attempt to even up the material but...
+19,exd5,e4d5,r1bqk2r/1pp2pp1/p4n1p/2bPN3/2B5/3P3P/PPP2PP1/R1BQ1RK1 b kq - 0 10,Black is now two pawns (center pawns) down.  I was expecting Nxd5 in an attempt to even up the material but...
+20,O-O,e8g8,r1bq1rk1/1pp2pp1/p4n1p/2bPN3/2B5/3P3P/PPP2PP1/R1BQ1RK1 w - - 1 11,Here I am able to attack the dark Bishop and attempt to block the g1-a7 diagonal.
+21,d4,d3d4,r1bq1rk1/1pp2pp1/p4n1p/2bPN3/2BP4/7P/PPP2PP1/R1BQ1RK1 b - - 0 11,Here I am able to attack the dark Bishop and attempt to block the g1-a7 diagonal.
+22,Bd6,c5d6,r1bq1rk1/1pp2pp1/p2b1n1p/3PN3/2BP4/7P/PPP2PP1/R1BQ1RK1 w - - 1 12,I continue to fight for the center and now have a bit more material aimed at the center than Black does.
+23,Bf4,c1f4,r1bq1rk1/1pp2pp1/p2b1n1p/3PN3/2BP1B2/7P/PPP2PP1/R2Q1RK1 b - - 2 12,I continue to fight for the center and now have a bit more material aimed at the center than Black does.
+24,b5,b7b5,r1bq1rk1/2p2pp1/p2b1n1p/1p1PN3/2BP1B2/7P/PPP2PP1/R2Q1RK1 w - - 0 13,Now black could even up the material a bit.  with Nxd5 attacking my dark Bishop if I take the knight with my Bishop (b3) Black has two Bishops against my Knight and dark Bishop.
+25,Bb3,c4b3,r1bq1rk1/2p2pp1/p2b1n1p/1p1PN3/3P1B2/1B5P/PPP2PP1/R2Q1RK1 b - - 1 13,Now black could even up the material a bit.  with Nxd5 attacking my dark Bishop if I take the knight with my Bishop (b3) Black has two Bishops against my Knight and dark Bishop.
+26,Bb7,c8b7,r2q1rk1/1bp2pp1/p2b1n1p/1p1PN3/3P1B2/1B5P/PPP2PP1/R2Q1RK1 w - - 2 14,Now black could even up the material a bit.  with Nxd5 attacking my dark Bishop if I take the knight with my Bishop (b3) Black has two Bishops against my Knight and dark Bishop.
+27,Nc6,e5c6,r2q1rk1/1bp2pp1/p1Nb1n1p/1p1P4/3P1B2/1B5P/PPP2PP1/R2Q1RK1 b - - 3 14,Only thing that I could to stop the trade off.  Attack his Queen and force him to take the Knight or Move the Queen.  If Bxc6 then d5xc6 (followed by d4-d5) and I have protected pawns deep in Blacks territory with pawn attacks on b7-d7-e6. This also blocks his c pawn.
+28,Qd7,d8d7,r4rk1/1bpq1pp1/p1Nb1n1p/1p1P4/3P1B2/1B5P/PPP2PP1/R2Q1RK1 w - - 4 15,Now to exchange the dark Bishops.
+29,Bxd6,f4d6,r4rk1/1bpq1pp1/p1NB1n1p/1p1P4/3P4/1B5P/PPP2PP1/R2Q1RK1 b - - 0 15,Have to have more protection for d5
+30,Qxd6,d7d6,r4rk1/1bp2pp1/p1Nq1n1p/1p1P4/3P4/1B5P/PPP2PP1/R2Q1RK1 w - - 0 16,Have to have more protection for d5
+31,Qf3,d1f3,r4rk1/1bp2pp1/p1Nq1n1p/1p1P4/3P4/1B3Q1P/PPP2PP1/R4RK1 b - - 1 16,Have to have more protection for d5
+32,b4,b5b4,r4rk1/1bp2pp1/p1Nq1n1p/3P4/1p1P4/1B3Q1P/PPP2PP1/R4RK1 w - - 0 17,I can't take b4.  This would leave d5 open and give Black a free pawn and almost bring us up even in material.  Best that I can see is to take control of the open file e.
+33,Rae1,a1e1,r4rk1/1bp2pp1/p1Nq1n1p/3P4/1p1P4/1B3Q1P/PPP2PP1/4RRK1 b - - 1 17,I can't take b4.  This would leave d5 open and give Black a free pawn and almost bring us up even in material.  Best that I can see is to take control of the open file e.
+34,a5,a6a5,r4rk1/1bp2pp1/2Nq1n1p/p2P4/1p1P4/1B3Q1P/PPP2PP1/4RRK1 w - - 0 18,Black is fixated on moving pawns forward and does not watch where the knight can go.  Black can only move the king to get out of check.
+35,Ne7+,c6e7,r4rk1/1bp1Npp1/3q1n1p/p2P4/1p1P4/1B3Q1P/PPP2PP1/4RRK1 b - - 1 18,Black is fixated on moving pawns forward and does not watch where the knight can go.  Black can only move the king to get out of check.
+36,Kh8,g8h8,r4r1k/1bp1Npp1/3q1n1p/p2P4/1p1P4/1B3Q1P/PPP2PP1/4RRK1 w - - 2 19,I have to continue to attack the Queen to save my pawn on d5.
+37,Nf5,e7f5,r4r1k/1bp2pp1/3q1n1p/p2P1N2/1p1P4/1B3Q1P/PPP2PP1/4RRK1 b - - 3 19,I have to continue to attack the Queen to save my pawn on d5.
+38,Qd7,d6d7,r4r1k/1bpq1pp1/5n1p/p2P1N2/1p1P4/1B3Q1P/PPP2PP1/4RRK1 w - - 4 20,And again I must bring some support to the center pawn (d5)
+39,Re5,e1e5,r4r1k/1bpq1pp1/5n1p/p2PRN2/1p1P4/1B3Q1P/PPP2PP1/5RK1 b - - 5 20,Black is still fixated on d5 and the d file
+40,Rad8,a8d8,3r1r1k/1bpq1pp1/5n1p/p2PRN2/1p1P4/1B3Q1P/PPP2PP1/5RK1 w - - 6 21,Black is still fixated on d5 and the d file
+41,Ne3,f5e3,3r1r1k/1bpq1pp1/5n1p/p2PR3/1p1P4/1B2NQ1P/PPP2PP1/5RK1 b - - 7 21,"Again, Black is fixated on D5 so I will continue to defend while developing my pieces and maintain my two pawn advantage.  I am also looking for any error on Black's part."
+42,Ne8,f6e8,3rnr1k/1bpq1pp1/7p/p2PR3/1p1P4/1B2NQ1P/PPP2PP1/5RK1 w - - 8 22,And this could be Blacks error.
+43,Re1,f1e1,3rnr1k/1bpq1pp1/7p/p2PR3/1p1P4/1B2NQ1P/PPP2PP1/4R1K1 b - - 9 22,I am attempting to keep control of the open e file while protecting d5.  I am not sure what the Black Knight move did.  Don't see that it gained Black anything except to be able to move f6 and attack my rook.
+44,Nd6,e8d6,3r1r1k/1bpq1pp1/3n3p/p2PR3/1p1P4/1B2NQ1P/PPP2PP1/4R1K1 w - - 10 23,Black blocked the Queen - Rook - Bishop attack on d5 so I can bring the Knight back to the f5 outpost and also make Black think about what his Knight is going to do.
+45,Nf5,e3f5,3r1r1k/1bpq1pp1/3n3p/p2PRN2/1p1P4/1B3Q1P/PPP2PP1/4R1K1 b - - 11 23,Black blocked the Queen - Rook - Bishop attack on d5 so I can bring the Knight back to the f5 outpost and also make Black think about what his Knight is going to do.
+46,f6,f7f6,3r1r1k/1bpq2p1/3n1p1p/p2PRN2/1p1P4/1B3Q1P/PPP2PP1/4R1K1 w - - 0 24,I was looking for this move but I did not think Black would do it.

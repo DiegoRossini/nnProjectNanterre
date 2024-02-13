@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White chooses Be3, instead of Bg5."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"White chooses Be3, instead of Bg5."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"White chooses Be3, instead of Bg5."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"White chooses Be3, instead of Bg5."
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"White chooses Be3, instead of Bg5."
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"White chooses Be3, instead of Bg5."
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"White chooses Be3, instead of Bg5."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"White chooses Be3, instead of Bg5."
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,"White chooses Be3, instead of Bg5."
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"White chooses Be3, instead of Bg5."
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,"White chooses Be3, instead of Bg5."
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,Black follows through with the Najdorf.
+13,Bd3,f1d3,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2NBB3/PPP2PPP/R2QK2R b KQkq - 1 7,"Bd3, I don't know if this was a good move or not.  I couldn't find anything wrong with it, but who knows."
+14,b5,b7b5,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2NBB3/PPP2PPP/R2QK2R w KQkq - 0 8,"Black decided to push the pawn to b5 instead of Be7, again, I don't know if this is a good move or not."
+15,Qf3,d1f3,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2NBBQ2/PPP2PPP/R3K2R b KQkq - 1 8,"Qf3, threatens Black's Rook on a8 with next move of e5."
+16,Bb7,c8b7,rn1qkb1r/1b3ppp/p2ppn2/1p6/3NP3/2NBBQ2/PPP2PPP/R3K2R w KQkq - 2 9,Black decides to pin White's king pawn for the moment against the Queen.
+17,O-O-O,e1c1,rn1qkb1r/1b3ppp/p2ppn2/1p6/3NP3/2NBBQ2/PPP2PPP/2KR3R b kq - 3 9,"White castles long here, and I think this might have been the fatal error.  White had excellent development compared to Black at this point, and I think castling king side would have been better.  Black's thoughts at this point were to develop pieces towards a major queen side attack."
+18,d5,d6d5,rn1qkb1r/1b3ppp/p3pn2/1p1p4/3NP3/2NBBQ2/PPP2PPP/2KR3R w kq - 0 10,d5 opens up the threatening line of Black's dark squared bishop.  White's knight on c3 becomes the hamstring of white's defense.
+19,e5,e4e5,rn1qkb1r/1b3ppp/p3pn2/1p1pP3/3N4/2NBBQ2/PPP2PPP/2KR3R b kq - 0 10,"Black probably did not need to do this yet, but the threat on the knight leads to a build up which allows black to further develop its pieces towards white's queen side."
+20,Nfd7,f6d7,rn1qkb1r/1b1n1ppp/p3p3/1p1pP3/3N4/2NBBQ2/PPP2PPP/2KR3R w kq - 1 11,"Black probably did not need to do this yet, but the threat on the knight leads to a build up which allows black to further develop its pieces towards white's queen side."
+21,Bf4,e3f4,rn1qkb1r/1b1n1ppp/p3p3/1p1pP3/3N1B2/2NB1Q2/PPP2PPP/2KR3R b kq - 2 11,"Black probably did not need to do this yet, but the threat on the knight leads to a build up which allows black to further develop its pieces towards white's queen side."
+22,Bc5,f8c5,rn1qk2r/1b1n1ppp/p3p3/1pbpP3/3N1B2/2NB1Q2/PPP2PPP/2KR3R w kq - 3 12,"Black probably did not need to do this yet, but the threat on the knight leads to a build up which allows black to further develop its pieces towards white's queen side."
+23,Qe3,f3e3,rn1qk2r/1b1n1ppp/p3p3/1pbpP3/3N1B2/2NBQ3/PPP2PPP/2KR3R b kq - 4 12,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+24,Nc6,b8c6,r2qk2r/1b1n1ppp/p1n1p3/1pbpP3/3N1B2/2NBQ3/PPP2PPP/2KR3R w kq - 5 13,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+25,Nce2,c3e2,r2qk2r/1b1n1ppp/p1n1p3/1pbpP3/3N1B2/3BQ3/PPP1NPPP/2KR3R b kq - 6 13,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+26,Qb6,d8b6,r3k2r/1b1n1ppp/pqn1p3/1pbpP3/3N1B2/3BQ3/PPP1NPPP/2KR3R w kq - 7 14,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+27,c3,c2c3,r3k2r/1b1n1ppp/pqn1p3/1pbpP3/3N1B2/2PBQ3/PP2NPPP/2KR3R b kq - 0 14,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+28,a5,a6a5,r3k2r/1b1n1ppp/1qn1p3/ppbpP3/3N1B2/2PBQ3/PP2NPPP/2KR3R w kq - 0 15,"Black is ready to push its pawn towards a threatening position, and will prove vital toward the final mating sequence."
+29,Qg3,e3g3,r3k2r/1b1n1ppp/1qn1p3/ppbpP3/3N1B2/2PB2Q1/PP2NPPP/2KR3R b kq - 1 15,"White decides to counter attack on the king side, but pushing its pawns might have been better."
+30,g6,g7g6,r3k2r/1b1n1p1p/1qn1p1p1/ppbpP3/3N1B2/2PB2Q1/PP2NPPP/2KR3R w kq - 0 16,"White realizes it can gain a pawn advantage, but Black sees the opportunity to 1) rid white of its light squared bishop (notice black's pawns) and 2) open up the queen side attack.  Black also will have both bishops which will prove key to the final attack."
+31,Bxb5,d3b5,r3k2r/1b1n1p1p/1qn1p1p1/pBbpP3/3N1B2/2P3Q1/PP2NPPP/2KR3R b kq - 0 16,"White realizes it can gain a pawn advantage, but Black sees the opportunity to 1) rid white of its light squared bishop (notice black's pawns) and 2) open up the queen side attack.  Black also will have both bishops which will prove key to the final attack."
+32,Nxd4,c6d4,r3k2r/1b1n1p1p/1q2p1p1/pBbpP3/3n1B2/2P3Q1/PP2NPPP/2KR3R w kq - 0 17,"White would've been better by taking with the Knight instead.  By taking with the pawn, black has an even better line to the King."
+33,Bxd7+,b5d7,r3k2r/1b1B1p1p/1q2p1p1/p1bpP3/3n1B2/2P3Q1/PP2NPPP/2KR3R b kq - 0 17,"White would've been better by taking with the Knight instead.  By taking with the pawn, black has an even better line to the King."
+34,Kxd7,e8d7,r6r/1b1k1p1p/1q2p1p1/p1bpP3/3n1B2/2P3Q1/PP2NPPP/2KR3R w - - 0 18,"White would've been better by taking with the Knight instead.  By taking with the pawn, black has an even better line to the King."
+35,cxd4,c3d4,r6r/1b1k1p1p/1q2p1p1/p1bpP3/3P1B2/6Q1/PP2NPPP/2KR3R b - - 0 18,"White would've been better by taking with the Knight instead.  By taking with the pawn, black has an even better line to the King."
+36,Bb4,c5b4,r6r/1b1k1p1p/1q2p1p1/p2pP3/1b1P1B2/6Q1/PP2NPPP/2KR3R w - - 1 19,To prevent the king escaping to where he probably should already be.
+37,Kb1,c1b1,r6r/1b1k1p1p/1q2p1p1/p2pP3/1b1P1B2/6Q1/PP2NPPP/1K1R3R b - - 2 19,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+38,Ba6,b7a6,r6r/3k1p1p/bq2p1p1/p2pP3/1b1P1B2/6Q1/PP2NPPP/1K1R3R w - - 3 20,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+39,Nc1,e2c1,r6r/3k1p1p/bq2p1p1/p2pP3/1b1P1B2/6Q1/PP3PPP/1KNR3R b - - 4 20,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+40,a4,a5a4,r6r/3k1p1p/bq2p1p1/3pP3/pb1P1B2/6Q1/PP3PPP/1KNR3R w - - 0 21,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+41,a3,a2a3,r6r/3k1p1p/bq2p1p1/3pP3/pb1P1B2/P5Q1/1P3PPP/1KNR3R b - - 0 21,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+42,Bf8,b4f8,r4b1r/3k1p1p/bq2p1p1/3pP3/p2P1B2/P5Q1/1P3PPP/1KNR3R w - - 1 22,Black moved the bishop to f8 to make sure White doesn't create a forced exchange.  It has become too important to the attack.
+43,Na2,c1a2,r4b1r/3k1p1p/bq2p1p1/3pP3/p2P1B2/P5Q1/NP3PPP/1K1R3R b - - 2 22,"Again, the knight has danced around for a few moves, but eventually winds up back on c3, where it prevents White from adequately defending the king."
+44,Bc4,a6c4,r4b1r/3k1p1p/1q2p1p1/3pP3/p1bP1B2/P5Q1/NP3PPP/1K1R3R w - - 3 23,"Black equalizes on material, but the threat is still what matters."
+45,Bd2,f4d2,r4b1r/3k1p1p/1q2p1p1/3pP3/p1bP4/P5Q1/NP1B1PPP/1K1R3R b - - 4 23,"Black equalizes on material, but the threat is still what matters."
+46,Qxd4,b6d4,r4b1r/3k1p1p/4p1p1/3pP3/p1bq4/P5Q1/NP1B1PPP/1K1R3R w - - 0 24,"Black equalizes on material, but the threat is still what matters."
+47,Nc3,a2c3,r4b1r/3k1p1p/4p1p1/3pP3/p1bq4/P1N3Q1/1P1B1PPP/1K1R3R b - - 1 24,The final resting place for White's knight.
+48,Qb6,d4b6,r4b1r/3k1p1p/1q2p1p1/3pP3/p1b5/P1N3Q1/1P1B1PPP/1K1R3R w - - 2 25,"Black misses an opportunity here.  Bxa3, brings about a mating solution, I believe, maybe not though if white moves the b2 pawn."
+49,Ka1,b1a1,r4b1r/3k1p1p/1q2p1p1/3pP3/p1b5/P1N3Q1/1P1B1PPP/K2R3R b - - 3 25,"Black misses an opportunity here.  Bxa3, brings about a mating solution, I believe, maybe not though if white moves the b2 pawn."
+50,Rb8,a8b8,1r3b1r/3k1p1p/1q2p1p1/3pP3/p1b5/P1N3Q1/1P1B1PPP/K2R3R w - - 4 26,"Black misses an opportunity here.  Bxa3, brings about a mating solution, I believe, maybe not though if white moves the b2 pawn."
+51,Rdb1,d1b1,1r3b1r/3k1p1p/1q2p1p1/3pP3/p1b5/P1N3Q1/1P1B1PPP/KR5R b - - 5 26,"Black misses an opportunity here.  Bxa3, brings about a mating solution, I believe, maybe not though if white moves the b2 pawn."
+52,Qb3,b6b3,1r3b1r/3k1p1p/4p1p1/3pP3/p1b5/PqN3Q1/1P1B1PPP/KR5R w - - 6 27,"Black misses an opportunity here.  Bxa3, brings about a mating solution, I believe, maybe not though if white moves the b2 pawn."
+53,Rhd1,h1d1,1r3b1r/3k1p1p/4p1p1/3pP3/p1b5/PqN3Q1/1P1B1PPP/KR1R4 b - - 7 27,"Again, Black misses the opportunity, this time it could have worked because the pawn on b2 could not advance."
+54,Qc2,b3c2,1r3b1r/3k1p1p/4p1p1/3pP3/p1b5/P1N3Q1/1PqB1PPP/KR1R4 w - - 8 28,"Again, Black misses the opportunity, this time it could have worked because the pawn on b2 could not advance."

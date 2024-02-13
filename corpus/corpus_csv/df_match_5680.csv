@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I'm assuming this is to restrict the Bishop, but it seems a wasted move at this stage."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I'm assuming this is to restrict the Bishop, but it seems a wasted move at this stage."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I'm assuming this is to restrict the Bishop, but it seems a wasted move at this stage."
+4,a6,a7a6,rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"I'm assuming this is to restrict the Bishop, but it seems a wasted move at this stage."
+5,Bc4,f1c4,rnbqkbnr/1p1ppppp/p7/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,Black is falling behind in development at an alarming pace.
+6,e6,e7e6,rnbqkbnr/1p1p1ppp/p3p3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Black is falling behind in development at an alarming pace.
+7,d3,d2d3,rnbqkbnr/1p1p1ppp/p3p3/2p5/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"Gaining back a tempo by attacking the B. Whether White exchanges Pawns first or not, the B must retreat."
+8,d5,d7d5,rnbqkbnr/1p3ppp/p3p3/2pp4/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"Gaining back a tempo by attacking the B. Whether White exchanges Pawns first or not, the B must retreat."
+9,exd5,e4d5,rnbqkbnr/1p3ppp/p3p3/2pP4/2B5/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"White does opt for the exchange, opening the King file and potentially subjecting both Kings to a quick attack. Now it could be whoever either reaches safety first or forces their attack home ""fustest with the mostest."""
+10,exd5,e6d5,rnbqkbnr/1p3ppp/p7/2pp4/2B5/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6,This Bishop is now rather out of play. White's advantage in time has been cut into and Black has the stronger center.
+11,Bb3,c4b3,rnbqkbnr/1p3ppp/p7/2pp4/8/1B1P1N2/PPP2PPP/RNBQK2R b KQkq - 1 6,This Bishop is now rather out of play. White's advantage in time has been cut into and Black has the stronger center.
+12,Nf6,g8f6,rnbqkb1r/1p3ppp/p4n2/2pp4/8/1B1P1N2/PPP2PPP/RNBQK2R w KQkq - 2 7,"The pin is tempting, but this move is badly timed. White should take the opportunity to castle here."
+13,Bg5,c1g5,rnbqkb1r/1p3ppp/p4n2/2pp2B1/8/1B1P1N2/PPP2PPP/RN1QK2R b KQkq - 3 7,"The pin is tempting, but this move is badly timed. White should take the opportunity to castle here."
+14,Be7,f8e7,rnbqk2r/1p2bppp/p4n2/2pp2B1/8/1B1P1N2/PPP2PPP/RN1QK2R w KQkq - 4 8,"In an ironic twist, despite White's initial gain of time it is *Black* whose King reaches safety. White never does get his King out of the danger zone!"
+15,Nbd2,b1d2,rnbqk2r/1p2bppp/p4n2/2pp2B1/8/1B1P1N2/PPPN1PPP/R2QK2R b KQkq - 5 8,"In an ironic twist, despite White's initial gain of time it is *Black* whose King reaches safety. White never does get his King out of the danger zone!"
+16,O-O,e8g8,rnbq1rk1/1p2bppp/p4n2/2pp2B1/8/1B1P1N2/PPPN1PPP/R2QK2R w KQ - 6 9,"In an ironic twist, despite White's initial gain of time it is *Black* whose King reaches safety. White never does get his King out of the danger zone!"
+17,h4,h2h4,rnbq1rk1/1p2bppp/p4n2/2pp2B1/7P/1B1P1N2/PPPN1PP1/R2QK2R b KQ - 0 9,Missing yet another chance to reach a safe haven. White has forgotten the basic principle of never embarking on complications without castling.
+18,Re8,f8e8,rnbqr1k1/1p2bppp/p4n2/2pp2B1/7P/1B1P1N2/PPPN1PP1/R2QK2R w KQ - 1 10,With a looming threat.
+19,Nf1,d2f1,rnbqr1k1/1p2bppp/p4n2/2pp2B1/7P/1B1P1N2/PPP2PP1/R2QKN1R b KQ - 2 10,"This move gets a ""???"" for sure. Black now has a simple tactical finesse that either wins quickly or slowly."
+20,c4,c5c4,rnbqr1k1/1p2bppp/p4n2/3p2B1/2p4P/1B1P1N2/PPP2PP1/R2QKN1R w KQ - 0 11,"Threatens PxB, which White sees... and something else, which White doesn't see."
+21,dxc4,d3c4,rnbqr1k1/1p2bppp/p4n2/3p2B1/2P4P/1B3N2/PPP2PP1/R2QKN1R b KQ - 0 11,"11 N(1)-Q2 loses slowly, as after 11...PxB 12 NxP Black has a winning material advantage. The move actually played..."
+22,Bb4#,e7b4,rnbqr1k1/1p3ppp/p4n2/3p2B1/1bP4P/1B3N2/PPP2PP1/R2QKN1R w KQ - 1 12,...loses at once.

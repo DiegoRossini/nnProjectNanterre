@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Normal opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Normal opening
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Normal opening
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Normal opening
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Threatens the pawn on e5
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Normal defense
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,This leads to an interesting game
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Standard reply, I would not even think 1 second on a real board."
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,There are some options here: Nxd5 or Na5. I usually played Nxd5 because I've seen people do that a lot on a real board. But after playing a little with the chess game database I think Na5 is better.
+10,Na5,c6a5,r1bqkb1r/ppp2ppp/5n2/n2Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 1 6,"protects the bishop and opens the line for dsb, defending the knight."
+11,d3,d2d3,r1bqkb1r/ppp2ppp/5n2/n2Pp1N1/2B5/3P4/PPP2PPP/RNBQK2R b KQkq - 0 6,"protects the bishop and opens the line for dsb, defending the knight."
+12,h6,h7h6,r1bqkb1r/ppp2pp1/5n1p/n2Pp1N1/2B5/3P4/PPP2PPP/RNBQK2R w KQkq - 0 7,"White could do a gambit and play Nxf7 but at this position I think its bad because it doesnt give an active thread to the king. With the knight on f6, Qf3 tricks are not possible. So black made the right decision. I didnt like to wait if he would do it or not so I forced him to decide now. It's not a lost in tempo since black has to move his knight away, instead it removes any attack from g5."
+13,Nf3,g5f3,r1bqkb1r/ppp2pp1/5n1p/n2Pp3/2B5/3P1N2/PPP2PPP/RNBQK2R b KQkq - 1 7,Pinned the knight and developed a piece
+14,Bg4,c8g4,r2qkb1r/ppp2pp1/5n1p/n2Pp3/2B3b1/3P1N2/PPP2PPP/RNBQK2R w KQkq - 2 8,Pinned the knight and developed a piece
+15,Nc3,b1c3,r2qkb1r/ppp2pp1/5n1p/n2Pp3/2B3b1/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 3 8,Pinned another knight and developed another piece
+16,Bb4,f8b4,r2qk2r/ppp2pp1/5n1p/n2Pp3/1bB3b1/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 4 9,Pinned another knight and developed another piece
+17,Bd2,c1d2,r2qk2r/ppp2pp1/5n1p/n2Pp3/1bB3b1/2NP1N2/PPPB1PPP/R2QK2R b KQkq - 5 9,"Now I have to make some notes here. Normally I do not like to trade a knight with a lsb, because I like a lsb more than a knight. But in this situation if I play bh4 or bf5 he could play g4, trying to play a pawn attack, and do a long castling (0-0-0). Bd7 seems too passive for me."
+18,O-O,e8g8,r2q1rk1/ppp2pp1/5n1p/n2Pp3/1bB3b1/2NP1N2/PPPB1PPP/R2QK2R w KQ - 6 10,"Now I have to make some notes here. Normally I do not like to trade a knight with a lsb, because I like a lsb more than a knight. But in this situation if I play bh4 or bf5 he could play g4, trying to play a pawn attack, and do a long castling (0-0-0). Bd7 seems too passive for me."
+19,h3,h2h3,r2q1rk1/ppp2pp1/5n1p/n2Pp3/1bB3b1/2NP1N1P/PPPB1PP1/R2QK2R b KQ - 0 10,"Now I have to make some notes here. Normally I do not like to trade a knight with a lsb, because I like a lsb more than a knight. But in this situation if I play bh4 or bf5 he could play g4, trying to play a pawn attack, and do a long castling (0-0-0). Bd7 seems too passive for me."
+20,Bxf3,g4f3,r2q1rk1/ppp2pp1/5n1p/n2Pp3/1bB5/2NP1b1P/PPPB1PP1/R2QK2R w KQ - 0 11,"Now I have to make some notes here. Normally I do not like to trade a knight with a lsb, because I like a lsb more than a knight. But in this situation if I play bh4 or bf5 he could play g4, trying to play a pawn attack, and do a long castling (0-0-0). Bd7 seems too passive for me."
+21,Qxf3,d1f3,r2q1rk1/ppp2pp1/5n1p/n2Pp3/1bB5/2NP1Q1P/PPPB1PP1/R3K2R b KQ - 0 11,e4 seems like a strong move after Bxc3. This was sort of my plan but it didn't turn out that way.
+22,Re8,f8e8,r2qr1k1/ppp2pp1/5n1p/n2Pp3/1bB5/2NP1Q1P/PPPB1PP1/R3K2R w KQ - 1 12,e4 seems like a strong move after Bxc3. This was sort of my plan but it didn't turn out that way.
+23,Qg3,f3g3,r2qr1k1/ppp2pp1/5n1p/n2Pp3/1bB5/2NP2QP/PPPB1PP1/R3K2R b KQ - 2 12,White now threatens Bxh6 hoping for an easy game.
+24,Nh5,f6h5,r2qr1k1/ppp2pp1/7p/n2Pp2n/1bB5/2NP2QP/PPPB1PP1/R3K2R w KQ - 3 13,g6 or leads to Bxh6 and weakening my pawn structure. g5 seemed to make my pawnstructure even worse. This seemed to be a good move to solve it though it makes the knight more vulnerable
+25,Qg4,g3g4,r2qr1k1/ppp2pp1/7p/n2Pp2n/1bB3Q1/2NP3P/PPPB1PP1/R3K2R b KQ - 4 13,White wants to get the knight away
+26,Nf4,h5f4,r2qr1k1/ppp2pp1/7p/n2Pp3/1bB2nQ1/2NP3P/PPPB1PP1/R3K2R w KQ - 5 14,"This seemed for me the best choice. I could go back to Nf6 and the queen had to move again but I'm a player that likes to play risky. It's just more fun. g3 seems like a good move, I would have answered it with Bxc3. It would have lead to a different game. This knight will stand here for 15 moves, so it didn't turn out to be a bad move at all."
+27,O-O,e1g1,r2qr1k1/ppp2pp1/7p/n2Pp3/1bB2nQ1/2NP3P/PPPB1PP1/R4RK1 b - - 6 14,White decides to castle to save his king. Maybe I would have castled long but its a rule that castling short is more safe.
+28,Nxc4,a5c4,r2qr1k1/ppp2pp1/7p/3Pp3/1bn2nQ1/2NP3P/PPPB1PP1/R4RK1 w - - 0 15,"decided to exchange pieces here because I thought my position was stronger, at least, i had some initiative."
+29,dxc4,d3c4,r2qr1k1/ppp2pp1/7p/3Pp3/1bP2nQ1/2N4P/PPPB1PP1/R4RK1 b - - 0 15,white now has a weak doublepawn although he is still one pawn ahead. (5 exd5)
+30,Bxc3,b4c3,r2qr1k1/ppp2pp1/7p/3Pp3/2P2nQ1/2b4P/PPPB1PP1/R4RK1 w - - 0 16,white now has a weak doublepawn although he is still one pawn ahead. (5 exd5)
+31,Bxc3,d2c3,r2qr1k1/ppp2pp1/7p/3Pp3/2P2nQ1/2B4P/PPP2PP1/R4RK1 b - - 0 16,white now has a weak doublepawn although he is still one pawn ahead. (5 exd5)
+32,Qf6,d8f6,r3r1k1/ppp2pp1/5q1p/3Pp3/2P2nQ1/2B4P/PPP2PP1/R4RK1 w - - 1 17,Now was the time for some counterplay of my own.

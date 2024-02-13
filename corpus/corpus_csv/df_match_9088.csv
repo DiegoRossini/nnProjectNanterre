@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Blitz chess is more about winning economically (without super-long thinks or analysis) than about calculating variations.  It often highlights my lack of imagination in creating tactical chances for myself.  But I managed to do alright here.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Philidor's defense.  Sound, but pretty passive.  I decide to go for quick development and hope to blow open black's king's defenses in short order."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Philidor's defense.  Sound, but pretty passive.  I decide to go for quick development and hope to blow open black's king's defenses in short order."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Philidor's defense.  Sound, but pretty passive.  I decide to go for quick development and hope to blow open black's king's defenses in short order."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"The most aggressive recapture, although not necessarily better than Nxd4.  This entices black to play Nc6."
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"The most aggressive recapture, although not necessarily better than Nxd4.  This entices black to play Nc6."
+7,Qxd4,d1d4,rnbqkbnr/ppp2ppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4,"The most aggressive recapture, although not necessarily better than Nxd4.  This entices black to play Nc6."
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/8/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq - 1 5,"Forcing Bxc6 to justify 4. Qxd4, other options force the queen to move again."
+9,Bb5,f1b5,r1bqkbnr/ppp2ppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 2 5,"Forcing Bxc6 to justify 4. Qxd4, other options force the queen to move again."
+10,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 3 6,"Forcing Bxc6 to justify 4. Qxd4, other options force the queen to move again."
+11,Bxc6,b5c6,r2qkbnr/pppb1ppp/2Bp4/8/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 0 6,Trying to provoke kingside weaknesses.
+12,Bxc6,d7c6,r2qkbnr/ppp2ppp/2bp4/8/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 0 7,Trying to provoke kingside weaknesses.
+13,Bg5,c1g5,r2qkbnr/ppp2ppp/2bp4/6B1/3QP3/5N2/PPP2PPP/RN2K2R b KQkq - 1 7,Trying to provoke kingside weaknesses.
+14,Be7,f8e7,r2qk1nr/ppp1bppp/2bp4/6B1/3QP3/5N2/PPP2PPP/RN2K2R w KQkq - 2 8,A little unexpected.  This allows white to exchange away black's advantage (the two bishops) while maintaining a lead in development.
+15,Bxe7,g5e7,r2qk1nr/ppp1Bppp/2bp4/8/3QP3/5N2/PPP2PPP/RN2K2R b KQkq - 0 8,"A safe option, but Qxg7 was stronger."
+16,Qxe7,d8e7,r3k1nr/ppp1qppp/2bp4/8/3QP3/5N2/PPP2PPP/RN2K2R w KQkq - 0 9,"At this point, white could still play Qxg7 (I saw it at this point), but I deemed it too risky.  It looks like it wins a pawn and possibly more, but Black's retort, Qxe4 , is very strong."
+17,Nc3,b1c3,r3k1nr/ppp1qppp/2bp4/8/3QP3/2N2N2/PPP2PPP/R3K2R b KQkq - 1 9,"So here's a safer option now.  White still has a (very small) lead in development and space, but Black is very close to being equal."
+18,O-O-O,e8c8,2kr2nr/ppp1qppp/2bp4/8/3QP3/2N2N2/PPP2PPP/R3K2R w KQ - 2 10,Making trouble for my queen?
+19,O-O-O,e1c1,2kr2nr/ppp1qppp/2bp4/8/3QP3/2N2N2/PPP2PPP/2KR3R b - - 3 10,And answering in kind.  We're going to have a battle in the center of the board; I'm ready for it.
+20,Nh6,g8h6,2kr3r/ppp1qppp/2bp3n/8/3QP3/2N2N2/PPP2PPP/2KR3R w - - 4 11,?!  I spotted this immediately as a weak move.  It develops the knight away from where the action is.  How to capitalize?
+21,Rhe1,h1e1,2kr3r/ppp1qppp/2bp3n/8/3QP3/2N2N2/PPP2PPP/2KRR3 b - - 5 11,"Load up in the center.  Qxg7 was, again, possibly a better option, as black's knight would be in big trouble.  Missed that one, though."
+22,b6,b7b6,2kr3r/p1p1qppp/1pbp3n/8/3QP3/2N2N2/PPP2PPP/2KRR3 w - - 0 12,Preparing a hidey-hole for the bishop?  Still overlooks Qxg7.
+23,Qc4,d4c4,2kr3r/p1p1qppp/1pbp3n/8/2Q1P3/2N2N2/PPP2PPP/2KRR3 b - - 1 12,"As do I, although this move has the benefit of allowing e5 without fear of my queen falling under his rook's threat."
+24,Bb7,c6b7,2kr3r/pbp1qppp/1p1p3n/8/2Q1P3/2N2N2/PPP2PPP/2KRR3 w - - 2 13,A reasonable thrust into the center.  Black's queen has a revealed attack coming on her.
+25,e5,e4e5,2kr3r/pbp1qppp/1p1p3n/4P3/2Q5/2N2N2/PPP2PPP/2KRR3 b - - 0 13,A reasonable thrust into the center.  Black's queen has a revealed attack coming on her.
+26,dxe5,d6e5,2kr3r/pbp1qppp/1p5n/4p3/2Q5/2N2N2/PPP2PPP/2KRR3 w - - 0 14,"Better than d5, which gets refuted by Nxd5."
+27,Nxe5,f3e5,2kr3r/pbp1qppp/1p5n/4N3/2Q5/2N5/PPP2PPP/2KRR3 b - - 0 14,"Rxe5 was also good and very direct, but I felt that this exerted more pressure by giving black the opportunity to blunder."
+28,Qg5+,e7g5,2kr3r/pbp2ppp/1p5n/4N1q1/2Q5/2N5/PPP2PPP/2KRR3 w - - 1 15,Seems like a good way to avoid the revealed threat on e7...
+29,f4,f2f4,2kr3r/pbp2ppp/1p5n/4N1q1/2Q2P2/2N5/PPP3PP/2KRR3 b - - 0 15,"!  My only really good move of the game!  It forces the queen to an awkward square and offers the tempting diversion Qxg2, which takes the queen out of play for a move."

@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My opponent had white pieces and he started with d4.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"After d5, c4 we have queen's gambit."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"After d5, c4 we have queen's gambit."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"I decided to play something less common - e5, we now have queen's gambit declined, albin counter gambit, a very aggressive reply. Frankly speaking, this gambit is pretty risky for black, if white knows the right continuation, he could neutralize all the threats and have a very good game."
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,Challenge accepted! dxe5 was played.
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"d4, black's d pawn advances further into white's territory, it takes away the natural developing square from white's queen knight, it can be very troublesome for white."
+7,e3,e2e3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 4,"e3 appears to be a very sensible move, challenging black's strong d pawn. However, this move is a mistake, the best move would be Nf3, putting pressure on black's d pawn."
+8,Bb4+,f8b4,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 5,"Bb4+, Black now goes for the Lasker's trap line, only because white played e3 last move."
+9,Bd2,c1d2,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP1B1PPP/RN1QKBNR b KQkq - 2 5,"Bd2, again, it looks sensible, blocking the check and with the intention to trade off dark square bishops."
+10,dxe3,d4e3,rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq - 0 6,"To white's surprise, dxe3, black totally ignores the tension between the dark square bishops."
+11,fxe3,f2e3,rnbqk1nr/ppp2ppp/8/4P3/1bP5/4P3/PP1B2PP/RN1QKBNR b KQkq - 0 6,"After some calculation, my opponent decided not to capture my bishop and barely managed to side step the Lasker's trap."
+12,Qh4+,d8h4,rnb1k1nr/ppp2ppp/8/4P3/1bP4q/4P3/PP1B2PP/RN1QKBNR w KQkq - 1 7,"Qh4+ was play, if white plays g3, then Qe4 would be played."
+13,g3,g2g3,rnb1k1nr/ppp2ppp/8/4P3/1bP4q/4P1P1/PP1B3P/RN1QKBNR b KQkq - 0 7,White did play g3.
+14,Qe4,h4e4,rnb1k1nr/ppp2ppp/8/4P3/1bP1q3/4P1P1/PP1B3P/RN1QKBNR w KQkq - 1 8,"Qe4, forking white's rook and pawn on e5."
+15,Qf3,d1f3,rnb1k1nr/ppp2ppp/8/4P3/1bP1q3/4PQP1/PP1B3P/RN2KBNR b KQkq - 2 8,"Qf3, white wants to exchange queens."
+16,Bxd2+,b4d2,rnb1k1nr/ppp2ppp/8/4P3/2P1q3/4PQP1/PP1b3P/RN2KBNR w KQkq - 0 9,The tension between the dsb was resolved.
+17,Nxd2,b1d2,rnb1k1nr/ppp2ppp/8/4P3/2P1q3/4PQP1/PP1N3P/R3KBNR b KQkq - 0 9,"Of course I did not trade queens, it would only help white."
+18,Qxe5,e4e5,rnb1k1nr/ppp2ppp/8/4q3/2P5/4PQP1/PP1N3P/R3KBNR w KQkq - 0 10,"Of course I did not trade queens, it would only help white."
+19,Qe4,f3e4,rnb1k1nr/ppp2ppp/8/4q3/2P1Q3/4P1P1/PP1N3P/R3KBNR b KQkq - 1 10,Qe4 white is quite persistent.
+20,Nc6,b8c6,r1b1k1nr/ppp2ppp/2n5/4q3/2P1Q3/4P1P1/PP1N3P/R3KBNR w KQkq - 2 11,"Nc6, developing the knight and protects the queen."
+21,Qxe5+,e4e5,r1b1k1nr/ppp2ppp/2n5/4Q3/2P5/4P1P1/PP1N3P/R3KBNR b KQkq - 0 11,"After the smoke is clear, white is ahead in development, but the weak isolated e pawn quickly becomes a target for black."
+22,Nxe5,c6e5,r1b1k1nr/ppp2ppp/8/4n3/2P5/4P1P1/PP1N3P/R3KBNR w KQkq - 0 12,"After the smoke is clear, white is ahead in development, but the weak isolated e pawn quickly becomes a target for black."
+23,Ngf3,g1f3,r1b1k1nr/ppp2ppp/8/4n3/2P5/4PNP1/PP1N3P/R3KB1R b KQkq - 1 12,"After the smoke is clear, white is ahead in development, but the weak isolated e pawn quickly becomes a target for black."
+24,Ng4,e5g4,r1b1k1nr/ppp2ppp/8/8/2P3n1/4PNP1/PP1N3P/R3KB1R w KQkq - 2 13,"After the smoke is clear, white is ahead in development, but the weak isolated e pawn quickly becomes a target for black."
+25,Ke2,e1e2,r1b1k1nr/ppp2ppp/8/8/2P3n1/4PNP1/PP1NK2P/R4B1R b kq - 3 13,"I was expecting white to play e4, but Ke2 was played. This move indicates that white wants to centralize his king and play Bg2 at some point, so that he can have play on the queen side."

@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Black loses the queen early and then gets slaughtered.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Risky if you are not careful...
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,Risky if you are not careful...
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Risky if you are not careful...
+5,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,Risky if you are not careful...
+6,Qh4+,d8h4,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,Risky if you are not careful...
+7,Kf1,e1f1,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR b kq - 3 4,Threatens mate but easily blocked.
+8,Bc5,f8c5,rnb1k1nr/pppp1ppp/8/2b5/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5,Threatens mate but easily blocked.
+9,d4,d2d4,rnb1k1nr/pppp1ppp/8/2b5/2BPPp1q/8/PPP3PP/RNBQ1KNR b kq - 0 5,Now White seizes the initiative...
+10,Bb6,c5b6,rnb1k1nr/pppp1ppp/1b6/8/2BPPp1q/8/PPP3PP/RNBQ1KNR w kq - 1 6,Now White seizes the initiative...
+11,Nf3,g1f3,rnb1k1nr/pppp1ppp/1b6/8/2BPPp1q/5N2/PPP3PP/RNBQ1K1R b kq - 2 6,Drives Q away with tempo.
+12,Qg4,h4g4,rnb1k1nr/pppp1ppp/1b6/8/2BPPpq1/5N2/PPP3PP/RNBQ1K1R w kq - 3 7,? Misses threat.
+13,Bxf7+,c4f7,rnb1k1nr/pppp1Bpp/1b6/8/3PPpq1/5N2/PPP3PP/RNBQ1K1R b kq - 0 7,"Of course! Now white has an advantage. Black can't take due to the fork, can't castle and is under attack."
+14,Ke7,e8e7,rnb3nr/ppppkBpp/1b6/8/3PPpq1/5N2/PPP3PP/RNBQ1K1R w - - 1 8,Develops
+15,Nc3,b1c3,rnb3nr/ppppkBpp/1b6/8/3PPpq1/2N2N2/PPP3PP/R1BQ1K1R b - - 2 8,Develops
+16,Kxf7,e7f7,rnb3nr/pppp1kpp/1b6/8/3PPpq1/2N2N2/PPP3PP/R1BQ1K1R w - - 0 9,?? Loses the Q.
+17,Ne5+,f3e5,rnb3nr/pppp1kpp/1b6/4N3/3PPpq1/2N5/PPP3PP/R1BQ1K1R b - - 1 9,? Suicide.
+18,Kf6,f7f6,rnb3nr/pppp2pp/1b3k2/4N3/3PPpq1/2N5/PPP3PP/R1BQ1K1R w - - 2 10,? Suicide.
+19,Nxg4+,e5g4,rnb3nr/pppp2pp/1b3k2/8/3PPpN1/2N5/PPP3PP/R1BQ1K1R b - - 0 10,? A slaughter begins.
+20,Kg5,f6g5,rnb3nr/pppp2pp/1b6/6k1/3PPpN1/2N5/PPP3PP/R1BQ1K1R w - - 1 11,? A slaughter begins.
+21,h4+,h2h4,rnb3nr/pppp2pp/1b6/6k1/3PPpNP/2N5/PPP3P1/R1BQ1K1R b - - 0 11,Drives the K back
+22,Kg6,g5g6,rnb3nr/pppp2pp/1b4k1/8/3PPpNP/2N5/PPP3P1/R1BQ1K1R w - - 1 12,Black must lose more material
+23,Ne5+,g4e5,rnb3nr/pppp2pp/1b4k1/4N3/3PPp1P/2N5/PPP3P1/R1BQ1K1R b - - 2 12,Black must lose more material
+24,Kf6,g6f6,rnb3nr/pppp2pp/1b3k2/4N3/3PPp1P/2N5/PPP3P1/R1BQ1K1R w - - 3 13,Now the king is trapped in the center
+25,Nd5+,c3d5,rnb3nr/pppp2pp/1b3k2/3NN3/3PPp1P/8/PPP3P1/R1BQ1K1R b - - 4 13,Now the king is trapped in the center
+26,Ke6,f6e6,rnb3nr/pppp2pp/1b2k3/3NN3/3PPp1P/8/PPP3P1/R1BQ1K1R w - - 5 14,Brings the Q into the attack .
+27,Qg4+,d1g4,rnb3nr/pppp2pp/1b2k3/3NN3/3PPpQP/8/PPP3P1/R1B2K1R b - - 6 14,Brings the Q into the attack .
+28,Kd6,e6d6,rnb3nr/pppp2pp/1b1k4/3NN3/3PPpQP/8/PPP3P1/R1B2K1R w - - 7 15,Wins material and forces K to bad square.
+29,Nf7+,e5f7,rnb3nr/pppp1Npp/1b1k4/3N4/3PPpQP/8/PPP3P1/R1B2K1R b - - 8 15,Wins material and forces K to bad square.
+30,Kc6,d6c6,rnb3nr/pppp1Npp/1bk5/3N4/3PPpQP/8/PPP3P1/R1B2K1R w - - 9 16,Prevents the K from getting out of fire with plans of mopping up
+31,c3,c2c3,rnb3nr/pppp1Npp/1bk5/3N4/3PPpQP/2P5/PP4P1/R1B2K1R b - - 0 16,Prevents the K from getting out of fire with plans of mopping up
+32,Nf6,g8f6,rnb4r/pppp1Npp/1bk2n2/3N4/3PPpQP/2P5/PP4P1/R1B2K1R w - - 1 17,Wins rook and continues attack
+33,Qxg7,g4g7,rnb4r/pppp1NQp/1bk2n2/3N4/3PPp1P/2P5/PP4P1/R1B2K1R b - - 0 17,Wins rook and continues attack
+34,Re8,h8e8,rnb1r3/pppp1NQp/1bk2n2/3N4/3PPp1P/2P5/PP4P1/R1B2K1R w - - 1 18,? Rook is lost.
+35,Nxf6,d5f6,rnb1r3/pppp1NQp/1bk2N2/8/3PPp1P/2P5/PP4P1/R1B2K1R b - - 0 18,Misses threat.
+36,Re7,e8e7,rnb5/pppprNQp/1bk2N2/8/3PPp1P/2P5/PP4P1/R1B2K1R w - - 1 19,Misses threat.

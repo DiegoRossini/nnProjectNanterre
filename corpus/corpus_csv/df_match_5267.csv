@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Not what I expected.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Not what I expected.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Not what I expected.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Not what I expected.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Not what I expected.
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Not what I expected.
+8,Ne5,c6e5,r1bqkbnr/pppp1ppp/8/4n3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Not what I expected.
+9,Bf4,c1f4,r1bqkbnr/pppp1ppp/8/4n3/3NPB2/8/PPP2PPP/RN1QKB1R b KQkq - 2 5,I want to trade.
+10,Ng6,e5g6,r1bqkbnr/pppp1ppp/6n1/8/3NPB2/8/PPP2PPP/RN1QKB1R w KQkq - 3 6,I want to trade.
+11,Qf3,d1f3,r1bqkbnr/pppp1ppp/6n1/8/3NPB2/5Q2/PPP2PPP/RN2KB1R b KQkq - 4 6,I want to trade.
+12,Bc5,f8c5,r1bqk1nr/pppp1ppp/6n1/2b5/3NPB2/5Q2/PPP2PPP/RN2KB1R w KQkq - 5 7,I want to trade.
+13,Be3,f4e3,r1bqk1nr/pppp1ppp/6n1/2b5/3NP3/4BQ2/PPP2PPP/RN2KB1R b KQkq - 6 7,I want to trade.
+14,Ne5,g6e5,r1bqk1nr/pppp1ppp/8/2b1n3/3NP3/4BQ2/PPP2PPP/RN2KB1R w KQkq - 7 8,I want to trade.
+15,Qf4,f3f4,r1bqk1nr/pppp1ppp/8/2b1n3/3NPQ2/4B3/PPP2PPP/RN2KB1R b KQkq - 8 8,I want to trade.
+16,d6,d7d6,r1bqk1nr/ppp2ppp/3p4/2b1n3/3NPQ2/4B3/PPP2PPP/RN2KB1R w KQkq - 0 9,I want to trade.
+17,Bc4,f1c4,r1bqk1nr/ppp2ppp/3p4/2b1n3/2BNPQ2/4B3/PPP2PPP/RN2K2R b KQkq - 1 9,I want to trade.
+18,Nf6,g8f6,r1bqk2r/ppp2ppp/3p1n2/2b1n3/2BNPQ2/4B3/PPP2PPP/RN2K2R w KQkq - 2 10,I want to trade.
+19,Nc3,b1c3,r1bqk2r/ppp2ppp/3p1n2/2b1n3/2BNPQ2/2N1B3/PPP2PPP/R3K2R b KQkq - 3 10,I want to trade.
+20,Nxc4,e5c4,r1bqk2r/ppp2ppp/3p1n2/2b5/2nNPQ2/2N1B3/PPP2PPP/R3K2R w KQkq - 0 11,I want to trade.
+21,Nf5,d4f5,r1bqk2r/ppp2ppp/3p1n2/2b2N2/2n1PQ2/2N1B3/PPP2PPP/R3K2R b KQkq - 1 11,I want to trade.
+22,Bxf5,c8f5,r2qk2r/ppp2ppp/3p1n2/2b2b2/2n1PQ2/2N1B3/PPP2PPP/R3K2R w KQkq - 0 12,He complies.
+23,Qxf5,f4f5,r2qk2r/ppp2ppp/3p1n2/2b2Q2/2n1P3/2N1B3/PPP2PPP/R3K2R b KQkq - 0 12,"Okay, I can deal with this."
+24,Bxe3,c5e3,r2qk2r/ppp2ppp/3p1n2/5Q2/2n1P3/2N1b3/PPP2PPP/R3K2R w KQkq - 0 13,"Okay, I can deal with this."
+25,fxe3,f2e3,r2qk2r/ppp2ppp/3p1n2/5Q2/2n1P3/2N1P3/PPP3PP/R3K2R b KQkq - 0 13,"Okay, I can deal with this."
+26,Nxe3,c4e3,r2qk2r/ppp2ppp/3p1n2/5Q2/4P3/2N1n3/PPP3PP/R3K2R w KQkq - 0 14,"Okay, I can deal with this."
+27,Qb5+,f5b5,r2qk2r/ppp2ppp/3p1n2/1Q6/4P3/2N1n3/PPP3PP/R3K2R b KQkq - 1 14,"Okay, I can deal with this."
+28,c6,c7c6,r2qk2r/pp3ppp/2pp1n2/1Q6/4P3/2N1n3/PPP3PP/R3K2R w KQkq - 0 15,"Okay, I can deal with this."
+29,Qxb7,b5b7,r2qk2r/pQ3ppp/2pp1n2/8/4P3/2N1n3/PPP3PP/R3K2R b KQkq - 0 15,"Okay, I can deal with this."
+30,Nxc2+,e3c2,r2qk2r/pQ3ppp/2pp1n2/8/4P3/2N5/PPn3PP/R3K2R w KQkq - 0 16,"Okay, I can deal with this."
+31,Kd1,e1d1,r2qk2r/pQ3ppp/2pp1n2/8/4P3/2N5/PPn3PP/R2K3R b kq - 1 16,Nd5 Nxd5 Pxd5+
+32,Nxa1,c2a1,r2qk2r/pQ3ppp/2pp1n2/8/4P3/2N5/PP4PP/n2K3R w kq - 0 17,Nd5 Nxd5 Pxd5+
+33,Qxc6+,b7c6,r2qk2r/p4ppp/2Qp1n2/8/4P3/2N5/PP4PP/n2K3R b kq - 0 17,Nd5 Nxd5 Pxd5+
+34,Ke7,e8e7,r2q3r/p3kppp/2Qp1n2/8/4P3/2N5/PP4PP/n2K3R w - - 1 18,Nd5 Nxd5 Pxd5+
+35,Re1,h1e1,r2q3r/p3kppp/2Qp1n2/8/4P3/2N5/PP4PP/n2KR3 b - - 2 18,Nd5 Nxd5 Pxd5+
+36,Rc8,a8c8,2rq3r/p3kppp/2Qp1n2/8/4P3/2N5/PP4PP/n2KR3 w - - 3 19,I saw this too.
+37,Nd5+,c3d5,2rq3r/p3kppp/2Qp1n2/3N4/4P3/8/PP4PP/n2KR3 b - - 4 19,He did not take!
+38,Ke6,e7e6,2rq3r/p4ppp/2Qpkn2/3N4/4P3/8/PP4PP/n2KR3 w - - 5 20,He did not take!
+39,Nf4+,d5f4,2rq3r/p4ppp/2Qpkn2/8/4PN2/8/PP4PP/n2KR3 b - - 6 20,I thought a bit about this move. Then figured I would force him to my side.
+40,Ke5,e6e5,2rq3r/p4ppp/2Qp1n2/4k3/4PN2/8/PP4PP/n2KR3 w - - 7 21,I thought a bit about this move. Then figured I would force him to my side.
+41,Qb5+,c6b5,2rq3r/p4ppp/3p1n2/1Q2k3/4PN2/8/PP4PP/n2KR3 b - - 8 21,I thought a bit about this move. Then figured I would force him to my side.
+42,Kxf4,e5f4,2rq3r/p4ppp/3p1n2/1Q6/4Pk2/8/PP4PP/n2KR3 w - - 0 22,"Wow. Beautiful finish! I was down 11 points, but as you can see, it did not matter. Thank you for watching! Please rate and comment."
+43,Qf5#,b5f5,2rq3r/p4ppp/3p1n2/5Q2/4Pk2/8/PP4PP/n2KR3 b - - 1 22,"Wow. Beautiful finish! I was down 11 points, but as you can see, it did not matter. Thank you for watching! Please rate and comment."

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,[%clk 0:05:03]
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,[%clk 0:05:03]
+3,Bf4,c1f4,rnbqkbnr/pppppp1p/6p1/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,[%clk 0:05:05]
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,[%clk 0:05:06]
+5,e3,e2e3,rnbqk1nr/ppppppbp/6p1/8/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,[%clk 0:05:08] A new try for my standards. I'm ready to exchange the dsb if needed.
+6,b6,b7b6,rnbqk1nr/p1ppppbp/1p4p1/8/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 0 4,"[%clk 0:05:09] Well, it surely looks ok. But we were on an amateur, blitz base, so why not..."
+7,Qf3,d1f3,rnbqk1nr/p1ppppbp/1p4p1/8/3P1B2/4PQ2/PPP2PPP/RN2KBNR b KQkq - 1 4,"[%clk 0:05:08] ...and see what happens? Unfortunately I don't know theory, and I bet this must be bad. But let's see why..."
+8,Nc6,b8c6,r1bqk1nr/p1ppppbp/1pn3p1/8/3P1B2/4PQ2/PPP2PPP/RN2KBNR w KQkq - 2 5,[%clk 0:05:11]
+9,Nc3,b1c3,r1bqk1nr/p1ppppbp/1pn3p1/8/3P1B2/2N1PQ2/PPP2PPP/R3KBNR b KQkq - 3 5,"[%clk 0:04:42] A double edged move, more complicated than c3. Of course c4 was a possibility, but then I must have suffered from the B's dsb. No way. My aim with the text was c7."
+10,Bb7,c8b7,r2qk1nr/pbppppbp/1pn3p1/8/3P1B2/2N1PQ2/PPP2PPP/R3KBNR w KQkq - 4 6,[%clk 0:05:13]
+11,Qg3,f3g3,r2qk1nr/pbppppbp/1pn3p1/8/3P1B2/2N1P1Q1/PPP2PPP/R3KBNR b KQkq - 5 6,"[%clk 0:04:12] switching target, and avoiding complications like Na5. Be3, thinking in Be4 was interesting, too, but all is too complicated for a blitz!"
+12,d6,d7d6,r2qk1nr/pbp1ppbp/1pnp2p1/8/3P1B2/2N1P1Q1/PPP2PPP/R3KBNR w KQkq - 0 7,[%clk 0:05:02] Protecting c7 and preparing e5.
+13,Bb5,f1b5,r2qk1nr/pbp1ppbp/1pnp2p1/1B6/3P1B2/2N1P1Q1/PPP2PPP/R3K1NR b KQkq - 1 7,"[%clk 0:04:11] Now I plan to exchange the B in order to get more space on the center (e4,d5)"
+14,a6,a7a6,r2qk1nr/1bp1ppbp/ppnp2p1/1B6/3P1B2/2N1P1Q1/PPP2PPP/R3K1NR w KQkq - 0 8,[%clk 0:04:44]
+15,Bxc6+,b5c6,r2qk1nr/1bp1ppbp/ppBp2p1/8/3P1B2/2N1P1Q1/PPP2PPP/R3K1NR b KQkq - 0 8,[%clk 0:04:04]
+16,Bxc6,b7c6,r2qk1nr/2p1ppbp/ppbp2p1/8/3P1B2/2N1P1Q1/PPP2PPP/R3K1NR w KQkq - 0 9,[%clk 0:04:46]
+17,d5,d4d5,r2qk1nr/2p1ppbp/ppbp2p1/3P4/5B2/2N1P1Q1/PPP2PPP/R3K1NR b KQkq - 0 9,[%clk 0:04:07]
+18,Bb7,c6b7,r2qk1nr/1bp1ppbp/pp1p2p1/3P4/5B2/2N1P1Q1/PPP2PPP/R3K1NR w KQkq - 1 10,[%clk 0:04:49]
+19,e4,e3e4,r2qk1nr/1bp1ppbp/pp1p2p1/3P4/4PB2/2N3Q1/PPP2PPP/R3K1NR b KQkq - 0 10,"[%clk 0:04:09] Now, black can exchange his only good B left for my N and scramble my pawns. I bet I can handle that better tha a B pair later on."
+20,e5,e7e5,r2qk1nr/1bp2pbp/pp1p2p1/3Pp3/4PB2/2N3Q1/PPP2PPP/R3K1NR w KQkq e6 0 11,"[%clk 0:04:51] Now I think that Retiring the B would have been the better option. White is solid and has space advantage on a closed board against the B pair. But I wanted to attack somewhere, and I risked..."

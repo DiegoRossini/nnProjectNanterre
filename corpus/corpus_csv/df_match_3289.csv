@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Just a blitz game with some interest.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+7,Nbd2,b1d2,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 2 5,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+9,e3,e2e3,rnbqk2r/ppp1bppp/4pn2/3p4/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 0 5,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+10,Nbd7,b8d7,r1bqk2r/pppnbppp/4pn2/3p4/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 1 6,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+11,h3,h2h3,r1bqk2r/pppnbppp/4pn2/3p4/3P1B2/4PN1P/PPPN1PP1/R2QKB1R b KQkq - 0 6,"This is for pushing the g4 pawn. A lot of other choices are possible (c3, c4, Nb3...) and considered better."
+12,O-O,e8g8,r1bq1rk1/pppnbppp/4pn2/3p4/3P1B2/4PN1P/PPPN1PP1/R2QKB1R w KQ - 1 7,Easy to figure out...
+13,g4,g2g4,r1bq1rk1/pppnbppp/4pn2/3p4/3P1BP1/4PN1P/PPPN1P2/R2QKB1R b KQ - 0 7,Easy to figure out...
+14,c5,c7c5,r1bq1rk1/pp1nbppp/4pn2/2pp4/3P1BP1/4PN1P/PPPN1P2/R2QKB1R w KQ - 0 8,"Not really necessary, since white is going to take with the e pawn."
+15,c3,c2c3,r1bq1rk1/pp1nbppp/4pn2/2pp4/3P1BP1/2P1PN1P/PP1N1P2/R2QKB1R b KQ - 0 8,"Not really necessary, since white is going to take with the e pawn."
+16,c4,c5c4,r1bq1rk1/pp1nbppp/4pn2/3p4/2pP1BP1/2P1PN1P/PP1N1P2/R2QKB1R w KQ - 0 9,"Since my bishop will help in controlling the Nf6, there is no need to have it on d3."
+17,Be2,f1e2,r1bq1rk1/pp1nbppp/4pn2/3p4/2pP1BP1/2P1PN1P/PP1NBP2/R2QK2R b KQ - 1 9,"Since my bishop will help in controlling the Nf6, there is no need to have it on d3."
+18,b5,b7b5,r1bq1rk1/p2nbppp/4pn2/1p1p4/2pP1BP1/2P1PN1P/PP1NBP2/R2QK2R w KQ - 0 10,The queenside attack.
+19,a3,a2a3,r1bq1rk1/p2nbppp/4pn2/1p1p4/2pP1BP1/P1P1PN1P/1P1NBP2/R2QK2R b KQ - 0 10,"Ok, now note I am not necessarily castling queenside."
+20,a5,a7a5,r1bq1rk1/3nbppp/4pn2/pp1p4/2pP1BP1/P1P1PN1P/1P1NBP2/R2QK2R w KQ - 0 11,"Ok, now note I am not necessarily castling queenside."
+21,Ne5,f3e5,r1bq1rk1/3nbppp/4pn2/pp1pN3/2pP1BP1/P1P1P2P/1P1NBP2/R2QK2R b KQ - 1 11,Time to attack the center.
+22,Bb7,c8b7,r2q1rk1/1b1nbppp/4pn2/pp1pN3/2pP1BP1/P1P1P2P/1P1NBP2/R2QK2R w KQ - 2 12,"Necessary, because of Nc6, exchanging the black's dsb."
+23,g5,g4g5,r2q1rk1/1b1nbppp/4pn2/pp1pN1P1/2pP1B2/P1P1P2P/1P1NBP2/R2QK2R b KQ - 0 12,This was Be2 for.
+24,Ne4,f6e4,r2q1rk1/1b1nbppp/4p3/pp1pN1P1/2pPnB2/P1P1P2P/1P1NBP2/R2QK2R w KQ - 1 13,"Well placed as it is, this black knight doesn't trhreat much, provided I..."
+25,h4,h3h4,r2q1rk1/1b1nbppp/4p3/pp1pN1P1/2pPnB1P/P1P1P3/1P1NBP2/R2QK2R b KQ - 0 13,...defend the pawn.
+26,b4,b5b4,r2q1rk1/1b1nbppp/4p3/p2pN1P1/1ppPnB1P/P1P1P3/1P1NBP2/R2QK2R w KQ - 0 14,Here goes black with his attack.
+27,Nxe4,d2e4,r2q1rk1/1b1nbppp/4p3/p2pN1P1/1ppPNB1P/P1P1P3/1P2BP2/R2QK2R b KQ - 0 14,Black's white diagonal is blocked by his own pawn.
+28,dxe4,d5e4,r2q1rk1/1b1nbppp/4p3/p3N1P1/1ppPpB1P/P1P1P3/1P2BP2/R2QK2R w KQ - 0 15,Black's white diagonal is blocked by his own pawn.
+29,Bxc4,e2c4,r2q1rk1/1b1nbppp/4p3/p3N1P1/1pBPpB1P/P1P1P3/1P3P2/R2QK2R b KQ - 0 15,And this one was hanging.
+30,Bd6,e7d6,r2q1rk1/1b1n1ppp/3bp3/p3N1P1/1pBPpB1P/P1P1P3/1P3P2/R2QK2R w KQ - 1 16,"I though about swap rooks, but he can just retake with the bishop. But I realized now I could have won a pawn in a fancy way:"
+31,axb4,a3b4,r2q1rk1/1b1n1ppp/3bp3/p3N1P1/1PBPpB1P/2P1P3/1P3P2/R2QK2R b KQ - 0 16,"I though about swap rooks, but he can just retake with the bishop. But I realized now I could have won a pawn in a fancy way:"
+32,axb4,a5b4,r2q1rk1/1b1n1ppp/3bp3/4N1P1/1pBPpB1P/2P1P3/1P3P2/R2QK2R w KQ - 0 17,"I though about swap rooks, but he can just retake with the bishop. But I realized now I could have won a pawn in a fancy way:"
+33,Nxf7,e5f7,r2q1rk1/1b1n1Npp/3bp3/6P1/1pBPpB1P/2P1P3/1P3P2/R2QK2R b KQ - 0 17,I didn't see after this my white bishop will be en prise.
+34,Rxf7,f8f7,r2q2k1/1b1n1rpp/3bp3/6P1/1pBPpB1P/2P1P3/1P3P2/R2QK2R w KQ - 0 18,I didn't see after this my white bishop will be en prise.
+35,Bxd6,f4d6,r2q2k1/1b1n1rpp/3Bp3/6P1/1pBPp2P/2P1P3/1P3P2/R2QK2R b KQ - 0 18,I didn't see after this my white bishop will be en prise.
+36,Rxa1,a8a1,3q2k1/1b1n1rpp/3Bp3/6P1/1pBPp2P/2P1P3/1P3P2/r2QK2R w K - 0 19,I didn't see after this my white bishop will be en prise.
+37,Qxa1,d1a1,3q2k1/1b1n1rpp/3Bp3/6P1/1pBPp2P/2P1P3/1P3P2/Q3K2R b K - 0 19,I didn't see after this my white bishop will be en prise.
+38,Nb6,d7b6,3q2k1/1b3rpp/1n1Bp3/6P1/1pBPp2P/2P1P3/1P3P2/Q3K2R w K - 1 20,I didn't see after this my white bishop will be en prise.
+39,Bxe6,c4e6,3q2k1/1b3rpp/1n1BB3/6P1/1p1Pp2P/2P1P3/1P3P2/Q3K2R b K - 0 20,"Ok, two minor pieces are better than a rook, but look at the pawns..."
+40,Qxd6,d8d6,6k1/1b3rpp/1n1qB3/6P1/1p1Pp2P/2P1P3/1P3P2/Q3K2R w K - 0 21,"Ok, two minor pieces are better than a rook, but look at the pawns..."
+41,Bxf7+,e6f7,6k1/1b3Bpp/1n1q4/6P1/1p1Pp2P/2P1P3/1P3P2/Q3K2R b K - 0 21,"Ok, two minor pieces are better than a rook, but look at the pawns..."
+42,Kxf7,g8f7,8/1b3kpp/1n1q4/6P1/1p1Pp2P/2P1P3/1P3P2/Q3K2R w K - 0 22,"Ok, two minor pieces are better than a rook, but look at the pawns..."
+43,Qa2+,a1a2,8/1b3kpp/1n1q4/6P1/1p1Pp2P/2P1P3/QP3P2/4K2R b K - 1 22,Black's piede are tied to defend each other.
+44,Bd5,b7d5,8/5kpp/1n1q4/3b2P1/1p1Pp2P/2P1P3/QP3P2/4K2R w K - 2 23,Black's piede are tied to defend each other.
+45,Qa7+,a2a7,8/Q4kpp/1n1q4/3b2P1/1p1Pp2P/2P1P3/1P3P2/4K2R b K - 3 23,Black's piede are tied to defend each other.
+46,Nd7,b6d7,8/Q2n1kpp/3q4/3b2P1/1p1Pp2P/2P1P3/1P3P2/4K2R w K - 4 24,Black's piede are tied to defend each other.
+47,O-O,e1g1,8/Q2n1kpp/3q4/3b2P1/1p1Pp2P/2P1P3/1P3P2/5RK1 b - - 5 24,"NO point in a pawn's brainstorming anymore, nor pieces to support it. So why not? On the other side, c3xb4 is a free pawn, but I didn't like the resulting structure."

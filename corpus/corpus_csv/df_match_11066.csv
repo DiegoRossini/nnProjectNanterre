@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f3,f2f3,rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1,this move was very confusing to face. It does not help development and weakens the e1-h4 diagonal
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPP1PP/RNBQKBNR w KQkq - 0 2,i take the center
+3,Kf2,e1f2,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2,and now this! however the bad king position can not be exploited yet so i develop
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/8/5P2/PPPPPKPP/RNBQ1BNR w kq - 0 3,we can see that black is much better here. He has 2 pawns in the center and a piece in play
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/3pp3/8/4PP2/PPPP1KPP/RNBQ1BNR b kq - 0 3,we can see that black is much better here. He has 2 pawns in the center and a piece in play
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3pp3/8/4PP2/PPPP1KPP/RNBQ1BNR w kq - 1 4,we can see that black is much better here. He has 2 pawns in the center and a piece in play
+7,g3,g2g3,rnbqkb1r/ppp2ppp/5n2/3pp3/8/4PPP1/PPPP1K1P/RNBQ1BNR b kq - 0 4,white seeks to open up the game but this is wrong as he has no pieces in play
+8,Bd6,f8d6,rnbqk2r/ppp2ppp/3b1n2/3pp3/8/4PPP1/PPPP1K1P/RNBQ1BNR w kq - 1 5,white seeks to open up the game but this is wrong as he has no pieces in play
+9,d4,d2d4,rnbqk2r/ppp2ppp/3b1n2/3pp3/3P4/4PPP1/PPP2K1P/RNBQ1BNR b kq - 0 5,white seeks to open up the game but this is wrong as he has no pieces in play
+10,O-O,e8g8,rnbq1rk1/ppp2ppp/3b1n2/3pp3/3P4/4PPP1/PPP2K1P/RNBQ1BNR w - - 1 6,simple development
+11,c3,c2c3,rnbq1rk1/ppp2ppp/3b1n2/3pp3/3P4/2P1PPP1/PP3K1P/RNBQ1BNR b - - 0 6,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+12,Be6,c8e6,rn1q1rk1/ppp2ppp/3bbn2/3pp3/3P4/2P1PPP1/PP3K1P/RNBQ1BNR w - - 1 7,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+13,Bh3,f1h3,rn1q1rk1/ppp2ppp/3bbn2/3pp3/3P4/2P1PPPB/PP3K1P/RNBQ2NR b - - 2 7,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+14,Nc6,b8c6,r2q1rk1/ppp2ppp/2nbbn2/3pp3/3P4/2P1PPPB/PP3K1P/RNBQ2NR w - - 3 8,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+15,Qc2,d1c2,r2q1rk1/ppp2ppp/2nbbn2/3pp3/3P4/2P1PPPB/PPQ2K1P/RNB3NR b - - 4 8,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+16,Qd7,d8d7,r4rk1/pppq1ppp/2nbbn2/3pp3/3P4/2P1PPPB/PPQ2K1P/RNB3NR w - - 5 9,"black has nearly finished his development while white has moved 1 piece, his queen and his king!"
+17,Kg2,f2g2,r4rk1/pppq1ppp/2nbbn2/3pp3/3P4/2P1PPPB/PPQ3KP/RNB3NR b - - 6 9,now black opens up the game as his rooks can take the e-file
+18,exd4,e5d4,r4rk1/pppq1ppp/2nbbn2/3p4/3p4/2P1PPPB/PPQ3KP/RNB3NR w - - 0 10,now black opens up the game as his rooks can take the e-file
+19,exd4,e3d4,r4rk1/pppq1ppp/2nbbn2/3p4/3P4/2P2PPB/PPQ3KP/RNB3NR b - - 0 10,preparing to double
+20,Rae8,a8e8,4rrk1/pppq1ppp/2nbbn2/3p4/3P4/2P2PPB/PPQ3KP/RNB3NR w - - 1 11,preparing to double
+21,Bg5,c1g5,4rrk1/pppq1ppp/2nbbn2/3p2B1/3P4/2P2PPB/PPQ3KP/RN4NR b - - 2 11,preparing to double
+22,Bxh3+,e6h3,4rrk1/pppq1ppp/2nb1n2/3p2B1/3P4/2P2PPb/PPQ3KP/RN4NR w - - 0 12,preparing to double
+23,Nxh3,g1h3,4rrk1/pppq1ppp/2nb1n2/3p2B1/3P4/2P2PPN/PPQ3KP/RN5R b - - 0 12,preparing to double
+24,Re6,e8e6,5rk1/pppq1ppp/2nbrn2/3p2B1/3P4/2P2PPN/PPQ3KP/RN5R w - - 1 13,preparing to double
+25,Nf4,h3f4,5rk1/pppq1ppp/2nbrn2/3p2B1/3P1N2/2P2PP1/PPQ3KP/RN5R b - - 2 13,we can now see the problems with white's position. Re2  is the threat and his rook and knight are not helping
+26,Bxf4,d6f4,5rk1/pppq1ppp/2n1rn2/3p2B1/3P1b2/2P2PP1/PPQ3KP/RN5R w - - 0 14,we can now see the problems with white's position. Re2  is the threat and his rook and knight are not helping
+27,Bxf4,g5f4,5rk1/pppq1ppp/2n1rn2/3p4/3P1B2/2P2PP1/PPQ3KP/RN5R b - - 0 14,we can now see the problems with white's position. Re2  is the threat and his rook and knight are not helping
+28,Rfe8,f8e8,4r1k1/pppq1ppp/2n1rn2/3p4/3P1B2/2P2PP1/PPQ3KP/RN5R w - - 1 15,we can now see the problems with white's position. Re2  is the threat and his rook and knight are not helping
+29,Kf2,g2f2,4r1k1/pppq1ppp/2n1rn2/3p4/3P1B2/2P2PP1/PPQ2K1P/RN5R b - - 2 15,If Nd2 then Re2  with a decisive invasion of the 1st and 2nd ranks
+30,Qe7,d7e7,4r1k1/ppp1qppp/2n1rn2/3p4/3P1B2/2P2PP1/PPQ2K1P/RN5R w - - 3 16,Re2  is the threat again
+31,Bd2,f4d2,4r1k1/ppp1qppp/2n1rn2/3p4/3P4/2P2PP1/PPQB1K1P/RN5R b - - 4 16,looks like it stops black's attack as it guards e1 however black now has a decisive conbination
+32,Re2+,e6e2,4r1k1/ppp1qppp/2n2n2/3p4/3P4/2P2PP1/PPQBrK1P/RN5R w - - 5 17,! with this exchange sacrifice black invades the 1st and 2nd ranks
+33,Kf1,f2f1,4r1k1/ppp1qppp/2n2n2/3p4/3P4/2P2PP1/PPQBr2P/RN3K1R b - - 6 17,! with this exchange sacrifice black invades the 1st and 2nd ranks
+34,Re1+,e2e1,4r1k1/ppp1qppp/2n2n2/3p4/3P4/2P2PP1/PPQB3P/RN2rK1R w - - 7 18,! with this exchange sacrifice black invades the 1st and 2nd ranks
+35,Bxe1,d2e1,4r1k1/ppp1qppp/2n2n2/3p4/3P4/2P2PP1/PPQ4P/RN2BK1R b - - 0 18,looks like it wins the queen...
+36,Qxe1+,e7e1,4r1k1/ppp2ppp/2n2n2/3p4/3P4/2P2PP1/PPQ4P/RN2qK1R w - - 0 19,looks like it wins the queen...
+37,Kg2,f1g2,4r1k1/ppp2ppp/2n2n2/3p4/3P4/2P2PP1/PPQ3KP/RN2q2R b - - 1 19,looks like it wins the queen...
+38,Re2+,e8e2,6k1/ppp2ppp/2n2n2/3p4/3P4/2P2PP1/PPQ1r1KP/RN2q2R w - - 2 20,looks like it wins the queen...
+39,Kh3,g2h3,6k1/ppp2ppp/2n2n2/3p4/3P4/2P2PPK/PPQ1r2P/RN2q2R b - - 3 20,however if Rxc2 then Rxe1
+40,Qf2,e1f2,6k1/ppp2ppp/2n2n2/3p4/3P4/2P2PPK/PPQ1rq1P/RN5R w - - 4 21,but now the white king is forced out into the open. The threats are Rxc2 and Qg2
+41,Qd1,c2d1,6k1/ppp2ppp/2n2n2/3p4/3P4/2P2PPK/PP2rq1P/RN1Q3R b - - 5 21,! the g5 square is taken away from the king. g5# is the threat
+42,Qg2+,f2g2,6k1/ppp2ppp/2n2n2/3p4/3P4/2P2PPK/PP2r1qP/RN1Q3R w - - 6 22,! the g5 square is taken away from the king. g5# is the threat
+43,Kh4,h3h4,6k1/ppp2ppp/2n2n2/3p4/3P3K/2P2PP1/PP2r1qP/RN1Q3R b - - 7 22,! the g5 square is taken away from the king. g5# is the threat
+44,h6,h7h6,6k1/ppp2pp1/2n2n1p/3p4/3P3K/2P2PP1/PP2r1qP/RN1Q3R w - - 0 23,! the g5 square is taken away from the king. g5# is the threat
+45,f4,f3f4,6k1/ppp2pp1/2n2n1p/3p4/3P1P1K/2P3P1/PP2r1qP/RN1Q3R b - - 0 23,the only move
+46,Qxh2+,g2h2,6k1/ppp2pp1/2n2n1p/3p4/3P1P1K/2P3P1/PP2r2q/RN1Q3R w - - 0 24,!!

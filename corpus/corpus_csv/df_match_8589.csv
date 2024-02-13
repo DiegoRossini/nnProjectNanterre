@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Team match. I'm playing white.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Ruy Lopez.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Ruy Lopez.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Ruy Lopez.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Ruy Lopez.
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"3. d6 is the Old Steinitz defense, not a very popular variation for black. 4. d4 is a fairly forceful move. White grabs the center, threatens to win a pawn on e5, and threatens to win the pinned knight with 5. d5."
+7,d4,d2d4,r1bqkbnr/ppp2ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"3. d6 is the Old Steinitz defense, not a very popular variation for black. 4. d4 is a fairly forceful move. White grabs the center, threatens to win a pawn on e5, and threatens to win the pinned knight with 5. d5."
+8,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 1 5,"Without 4. ... Bd7, white could have played 5. Bxc6 bxc6 6. dxe5 dxe5 7. Nxe5 to win a pawn, but now, black responds 5. Bxc6, recapturing with the bishop and therefore is able to play 7. ... Bxe4 regaining the pawn, although that simplified move order endangers the black bishop at e4, so a zwischenzug with 7. ... Qe7 followed by 8. ... Bxe4 is required."
+9,Nc3,b1c3,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 2 5,"Without 4. ... Bd7, white could have played 5. Bxc6 bxc6 6. dxe5 dxe5 7. Nxe5 to win a pawn, but now, black responds 5. Bxc6, recapturing with the bishop and therefore is able to play 7. ... Bxe4 regaining the pawn, although that simplified move order endangers the black bishop at e4, so a zwischenzug with 7. ... Qe7 followed by 8. ... Bxe4 is required."
+10,Nxd4,c6d4,r2qkbnr/pppb1ppp/3p4/1B2p3/3nP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,"Well, that one isn't in my opening reference even though it seems fairly natural, so white simply goes along with all the exchanges. I hope I didn't miss a clever trap."
+11,Bxd7+,b5d7,r2qkbnr/pppB1ppp/3p4/4p3/3nP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 6,"Well, that one isn't in my opening reference even though it seems fairly natural, so white simply goes along with all the exchanges. I hope I didn't miss a clever trap."
+12,Qxd7,d8d7,r3kbnr/pppq1ppp/3p4/4p3/3nP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 7,"White seems to have gotten the better of the exchanges, with two pieces developed strongly in the center. White also prevents black from castling by threatening the pawn on a7."
+13,Nxd4,f3d4,r3kbnr/pppq1ppp/3p4/4p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 7,"White seems to have gotten the better of the exchanges, with two pieces developed strongly in the center. White also prevents black from castling by threatening the pawn on a7."
+14,exd4,e5d4,r3kbnr/pppq1ppp/3p4/8/3pP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,"White seems to have gotten the better of the exchanges, with two pieces developed strongly in the center. White also prevents black from castling by threatening the pawn on a7."
+15,Qxd4,d1d4,r3kbnr/pppq1ppp/3p4/8/3QP3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 8,"White seems to have gotten the better of the exchanges, with two pieces developed strongly in the center. White also prevents black from castling by threatening the pawn on a7."
+16,f6,f7f6,r3kbnr/pppq2pp/3p1p2/8/3QP3/2N5/PPP2PPP/R1B1K2R w KQkq - 0 9,Safer than most.
+17,O-O,e1g1,r3kbnr/pppq2pp/3p1p2/8/3QP3/2N5/PPP2PPP/R1B2RK1 b kq - 1 9,Safer than most.
+18,Ne7,g8e7,r3kb1r/pppqn1pp/3p1p2/8/3QP3/2N5/PPP2PPP/R1B2RK1 w kq - 2 10,Safer than most.
+19,Be3,c1e3,r3kb1r/pppqn1pp/3p1p2/8/3QP3/2N1B3/PPP2PPP/R4RK1 b kq - 3 10,Safer than most.
+20,Nc6,e7c6,r3kb1r/pppq2pp/2np1p2/8/3QP3/2N1B3/PPP2PPP/R4RK1 w kq - 4 11,Safer than most.
+21,Qd2,d4d2,r3kb1r/pppq2pp/2np1p2/8/4P3/2N1B3/PPPQ1PPP/R4RK1 b kq - 5 11,Safer than most.
+22,Ne5,c6e5,r3kb1r/pppq2pp/3p1p2/4n3/4P3/2N1B3/PPPQ1PPP/R4RK1 w kq - 6 12,Changed my mind.
+23,Nd5,c3d5,r3kb1r/pppq2pp/3p1p2/3Nn3/4P3/4B3/PPPQ1PPP/R4RK1 b kq - 7 12,Changed my mind.
+24,c6,c7c6,r3kb1r/pp1q2pp/2pp1p2/3Nn3/4P3/4B3/PPPQ1PPP/R4RK1 w kq - 0 13,Changed my mind.
+25,Nc3,d5c3,r3kb1r/pp1q2pp/2pp1p2/4n3/4P3/2N1B3/PPPQ1PPP/R4RK1 b kq - 1 13,Changed my mind.
+26,Nc4,e5c4,r3kb1r/pp1q2pp/2pp1p2/8/2n1P3/2N1B3/PPPQ1PPP/R4RK1 w kq - 2 14,Black exchanges knight for bishop.
+27,Qe2,d2e2,r3kb1r/pp1q2pp/2pp1p2/8/2n1P3/2N1B3/PPP1QPPP/R4RK1 b kq - 3 14,Black exchanges knight for bishop.
+28,Nxe3,c4e3,r3kb1r/pp1q2pp/2pp1p2/8/4P3/2N1n3/PPP1QPPP/R4RK1 w kq - 0 15,Black exchanges knight for bishop.
+29,Qxe3,e2e3,r3kb1r/pp1q2pp/2pp1p2/8/4P3/2N1Q3/PPP2PPP/R4RK1 b kq - 0 15,Black exchanges knight for bishop.
+30,Be7,f8e7,r3k2r/pp1qb1pp/2pp1p2/8/4P3/2N1Q3/PPP2PPP/R4RK1 w kq - 1 16,Headed for the kingside.
+31,Rad1,a1d1,r3k2r/pp1qb1pp/2pp1p2/8/4P3/2N1Q3/PPP2PPP/3R1RK1 b kq - 2 16,Headed for the kingside.
+32,O-O,e8g8,r4rk1/pp1qb1pp/2pp1p2/8/4P3/2N1Q3/PPP2PPP/3R1RK1 w - - 3 17,Headed for the kingside.
+33,Ne2,c3e2,r4rk1/pp1qb1pp/2pp1p2/8/4P3/4Q3/PPP1NPPP/3R1RK1 b - - 4 17,Headed for the kingside.
+34,Bd8,e7d8,r2b1rk1/pp1q2pp/2pp1p2/8/4P3/4Q3/PPP1NPPP/3R1RK1 w - - 5 18,"Wasting time, mostly, but aiming for b4."
+35,Qb3+,e3b3,r2b1rk1/pp1q2pp/2pp1p2/8/4P3/1Q6/PPP1NPPP/3R1RK1 b - - 6 18,"Wasting time, mostly, but aiming for b4."
+36,Kh8,g8h8,r2b1r1k/pp1q2pp/2pp1p2/8/4P3/1Q6/PPP1NPPP/3R1RK1 w - - 7 19,Black is well-enough bottled up that white is stymied looking for attacks.
+37,Qb4,b3b4,r2b1r1k/pp1q2pp/2pp1p2/8/1Q2P3/8/PPP1NPPP/3R1RK1 b - - 8 19,Black is well-enough bottled up that white is stymied looking for attacks.
+38,Be7,d8e7,r4r1k/pp1qb1pp/2pp1p2/8/1Q2P3/8/PPP1NPPP/3R1RK1 w - - 9 20,Black is well-enough bottled up that white is stymied looking for attacks.
+39,Ng3,e2g3,r4r1k/pp1qb1pp/2pp1p2/8/1Q2P3/6N1/PPP2PPP/3R1RK1 b - - 10 20,Black is well-enough bottled up that white is stymied looking for attacks.
+40,Rfd8,f8d8,r2r3k/pp1qb1pp/2pp1p2/8/1Q2P3/6N1/PPP2PPP/3R1RK1 w - - 11 21,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+41,Rd3,d1d3,r2r3k/pp1qb1pp/2pp1p2/8/1Q2P3/3R2N1/PPP2PPP/5RK1 b - - 12 21,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+42,a5,a7a5,r2r3k/1p1qb1pp/2pp1p2/p7/1Q2P3/3R2N1/PPP2PPP/5RK1 w - - 0 22,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+43,Qb6,b4b6,r2r3k/1p1qb1pp/1Qpp1p2/p7/4P3/3R2N1/PPP2PPP/5RK1 b - - 1 22,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+44,Ra6,a8a6,3r3k/1p1qb1pp/rQpp1p2/p7/4P3/3R2N1/PPP2PPP/5RK1 w - - 2 23,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+45,Qe3,b6e3,3r3k/1p1qb1pp/r1pp1p2/p7/4P3/3RQ1N1/PPP2PPP/5RK1 b - - 3 23,"Still stymied, but I like that black has removed one rook, placing it on a6 where it will do his king no good. It suggests that a kingside attack might be warranted."
+46,Qe6,d7e6,3r3k/1p2b1pp/r1ppqp2/p7/4P3/3RQ1N1/PPP2PPP/5RK1 w - - 4 24,"The a2 pawn was en prise, so it runs to a4."
+47,a4,a2a4,3r3k/1p2b1pp/r1ppqp2/p7/P3P3/3RQ1N1/1PP2PPP/5RK1 b - - 0 24,"The a2 pawn was en prise, so it runs to a4."
+48,Qa2,e6a2,3r3k/1p2b1pp/r1pp1p2/p7/P3P3/3RQ1N1/qPP2PPP/5RK1 w - - 1 25,"Defends b2 and traps the black queen, inviting black to give white a rook on the 7th rank."
+49,Rb3,d3b3,3r3k/1p2b1pp/r1pp1p2/p7/P3P3/1R2Q1N1/qPP2PPP/5RK1 b - - 2 25,"Defends b2 and traps the black queen, inviting black to give white a rook on the 7th rank."
+50,Qxa4,a2a4,3r3k/1p2b1pp/r1pp1p2/p7/q3P3/1R2Q1N1/1PP2PPP/5RK1 w - - 0 26,"I used to like the rook on a6, and now for some reason I chase it back to a8. Maybe 27. Nf5 and 28. Qg3 would have been more fun. Well, at least white can still play those moves."
+51,Rxb7,b3b7,3r3k/1R2b1pp/r1pp1p2/p7/q3P3/4Q1N1/1PP2PPP/5RK1 b - - 0 26,"I used to like the rook on a6, and now for some reason I chase it back to a8. Maybe 27. Nf5 and 28. Qg3 would have been more fun. Well, at least white can still play those moves."
+52,Bf8,e7f8,3r1b1k/1R4pp/r1pp1p2/p7/q3P3/4Q1N1/1PP2PPP/5RK1 w - - 1 27,"I used to like the rook on a6, and now for some reason I chase it back to a8. Maybe 27. Nf5 and 28. Qg3 would have been more fun. Well, at least white can still play those moves."
+53,Qd3,e3d3,3r1b1k/1R4pp/r1pp1p2/p7/q3P3/3Q2N1/1PP2PPP/5RK1 b - - 2 27,"I used to like the rook on a6, and now for some reason I chase it back to a8. Maybe 27. Nf5 and 28. Qg3 would have been more fun. Well, at least white can still play those moves."
+54,Raa8,a6a8,r2r1b1k/1R4pp/2pp1p2/p7/q3P3/3Q2N1/1PP2PPP/5RK1 w - - 3 28,"Securing black's queen behind a wall of white pawns, shut off from defending her king. I have to give 28. b3! an exclamation point for quietly denying black his queen for the moves to come."
+55,b3,b2b3,r2r1b1k/1R4pp/2pp1p2/p7/q3P3/1P1Q2N1/2P2PPP/5RK1 b - - 0 28,"Securing black's queen behind a wall of white pawns, shut off from defending her king. I have to give 28. b3! an exclamation point for quietly denying black his queen for the moves to come."
+56,Qa3,a4a3,r2r1b1k/1R4pp/2pp1p2/p7/4P3/qP1Q2N1/2P2PPP/5RK1 w - - 1 29,Threatening mate in 1 on h7.
+57,Nf5,g3f5,r2r1b1k/1R4pp/2pp1p2/p4N2/4P3/qP1Q4/2P2PPP/5RK1 b - - 2 29,Threatening mate in 1 on h7.
+58,g6,g7g6,r2r1b1k/1R5p/2pp1pp1/p4N2/4P3/qP1Q4/2P2PPP/5RK1 w - - 0 30,Threatening mate in 1 on h7.
+59,Qh3,d3h3,r2r1b1k/1R5p/2pp1pp1/p4N2/4P3/qP5Q/2P2PPP/5RK1 b - - 1 30,Threatening mate in 1 on h7.
+60,h5,h7h5,r2r1b1k/1R6/2pp1pp1/p4N1p/4P3/qP5Q/2P2PPP/5RK1 w - - 0 31,"The winning move. 31. Nh4! may be the quietest winning move I have played so far. I think Capablanca would probably like this one. Black is thoroughly busted from here. 32. Nxg6+ followed by 33. Qxh5, combined with that powerful rook on the 7th rank, creates a force that black cannot stop."
+61,Nh4,f5h4,r2r1b1k/1R6/2pp1pp1/p6p/4P2N/qP5Q/2P2PPP/5RK1 b - - 1 31,"The winning move. 31. Nh4! may be the quietest winning move I have played so far. I think Capablanca would probably like this one. Black is thoroughly busted from here. 32. Nxg6+ followed by 33. Qxh5, combined with that powerful rook on the 7th rank, creates a force that black cannot stop."
+62,Bg7,f8g7,r2r3k/1R4b1/2pp1pp1/p6p/4P2N/qP5Q/2P2PPP/5RK1 w - - 2 32,"White now has a forced mate in 4 (it was probably a forced mate in 6 with 31. Nh4! though I didn't work it out then), though black has a couple stalling tactics if he wishes to extend the forced mate a bit longer. White entered the moves from this point as conditional moves."
+63,Nxg6+,h4g6,r2r3k/1R4b1/2pp1pN1/p6p/4P3/qP5Q/2P2PPP/5RK1 b - - 0 32,"White now has a forced mate in 4 (it was probably a forced mate in 6 with 31. Nh4! though I didn't work it out then), though black has a couple stalling tactics if he wishes to extend the forced mate a bit longer. White entered the moves from this point as conditional moves."
+64,Kg8,h8g8,r2r2k1/1R4b1/2pp1pN1/p6p/4P3/qP5Q/2P2PPP/5RK1 w - - 1 33,"White now has a forced mate in 4 (it was probably a forced mate in 6 with 31. Nh4! though I didn't work it out then), though black has a couple stalling tactics if he wishes to extend the forced mate a bit longer. White entered the moves from this point as conditional moves."
+65,Qxh5,h3h5,r2r2k1/1R4b1/2pp1pN1/p6Q/4P3/qP6/2P2PPP/5RK1 b - - 0 33,"White now has a forced mate in 4 (it was probably a forced mate in 6 with 31. Nh4! though I didn't work it out then), though black has a couple stalling tactics if he wishes to extend the forced mate a bit longer. White entered the moves from this point as conditional moves."

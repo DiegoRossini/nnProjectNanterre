@@ -1,0 +1,78 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Somehow adventurous.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Somehow adventurous.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Somehow adventurous.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Somehow adventurous.
+5,c3,c2c3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,Somehow adventurous.
+6,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4,Somehow adventurous.
+7,d4,d2d4,r1bqkbnr/pp1p1ppp/2n1p3/2p5/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4,Somehow adventurous.
+8,cxd4,c5d4,r1bqkbnr/pp1p1ppp/2n1p3/8/3pP3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 5,Somehow adventurous.
+9,cxd4,c3d4,r1bqkbnr/pp1p1ppp/2n1p3/8/3PP3/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,Somehow adventurous.
+10,Bb4+,f8b4,r1bqk1nr/pp1p1ppp/2n1p3/8/1b1PP3/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,Somehow adventurous.
+11,Bd2,c1d2,r1bqk1nr/pp1p1ppp/2n1p3/8/1b1PP3/5N2/PP1B1PPP/RN1QKB1R b KQkq - 2 6,"Pressure on squares b2, f2, d4."
+12,Qb6,d8b6,r1b1k1nr/pp1p1ppp/1qn1p3/8/1b1PP3/5N2/PP1B1PPP/RN1QKB1R w KQkq - 3 7,"Pressure on squares b2, f2, d4."
+13,a3,a2a3,r1b1k1nr/pp1p1ppp/1qn1p3/8/1b1PP3/P4N2/1P1B1PPP/RN1QKB1R b KQkq - 0 7,simple
+14,Bxd2+,b4d2,r1b1k1nr/pp1p1ppp/1qn1p3/8/3PP3/P4N2/1P1b1PPP/RN1QKB1R w KQkq - 0 8,"In fact the bishop has no good other square. 
+7. ... Ba5 ?! is to be considered : 8. b4 Nxd4 9. bxa5 Qxb2 10. Nxd4 (If 10. Bc3, Nc2  -) Qxd4 11. Ra2, Qxe4 . Two central pawns for the Bishop, one of them free, and also weakness in White position (doubled pawn on column a). But White has his/her pair of bishops and to obtain a concrete advantage for Black seemed too difficult to me."
+15,Qxd2,d1d2,r1b1k1nr/pp1p1ppp/1qn1p3/8/3PP3/P4N2/1P1Q1PPP/RN2KB1R b KQkq - 0 8,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+16,Nge7,g8e7,r1b1k2r/pp1pnppp/1qn1p3/8/3PP3/P4N2/1P1Q1PPP/RN2KB1R w KQkq - 1 9,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+17,Nc3,b1c3,r1b1k2r/pp1pnppp/1qn1p3/8/3PP3/P1N2N2/1P1Q1PPP/R3KB1R b KQkq - 2 9,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+18,d5,d7d5,r1b1k2r/pp2nppp/1qn1p3/3p4/3PP3/P1N2N2/1P1Q1PPP/R3KB1R w KQkq - 0 10,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+19,e5,e4e5,r1b1k2r/pp2nppp/1qn1p3/3pP3/3P4/P1N2N2/1P1Q1PPP/R3KB1R b KQkq - 0 10,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+20,Na5,c6a5,r1b1k2r/pp2nppp/1q2p3/n2pP3/3P4/P1N2N2/1P1Q1PPP/R3KB1R w KQkq - 1 11,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+21,Bb5+,f1b5,r1b1k2r/pp2nppp/1q2p3/nB1pP3/3P4/P1N2N2/1P1Q1PPP/R3K2R b KQkq - 2 11,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+22,Nec6,e7c6,r1b1k2r/pp3ppp/1qn1p3/nB1pP3/3P4/P1N2N2/1P1Q1PPP/R3K2R w KQkq - 3 12,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+23,Qg5,d2g5,r1b1k2r/pp3ppp/1qn1p3/nB1pP1Q1/3P4/P1N2N2/1P3PPP/R3K2R b KQkq - 4 12,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+24,O-O,e8g8,r1b2rk1/pp3ppp/1qn1p3/nB1pP1Q1/3P4/P1N2N2/1P3PPP/R3K2R w KQ - 5 13,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+25,Rd1,a1d1,r1b2rk1/pp3ppp/1qn1p3/nB1pP1Q1/3P4/P1N2N2/1P3PPP/3RK2R b K - 6 13,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+26,a6,a7a6,r1b2rk1/1p3ppp/pqn1p3/nB1pP1Q1/3P4/P1N2N2/1P3PPP/3RK2R w K - 0 14,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+27,Bd3,b5d3,r1b2rk1/1p3ppp/pqn1p3/n2pP1Q1/3P4/P1NB1N2/1P3PPP/3RK2R b K - 1 14,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+28,h6,h7h6,r1b2rk1/1p3pp1/pqn1p2p/n2pP1Q1/3P4/P1NB1N2/1P3PPP/3RK2R w K - 0 15,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+29,Qd2,g5d2,r1b2rk1/1p3pp1/pqn1p2p/n2pP3/3P4/P1NB1N2/1P1Q1PPP/3RK2R b K - 1 15,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+30,Nb3,a5b3,r1b2rk1/1p3pp1/pqn1p2p/3pP3/3P4/PnNB1N2/1P1Q1PPP/3RK2R w K - 2 16,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+31,Qe3,d2e3,r1b2rk1/1p3pp1/pqn1p2p/3pP3/3P4/PnNBQN2/1P3PPP/3RK2R b K - 3 16,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+32,Bd7,c8d7,r4rk1/1p1b1pp1/pqn1p2p/3pP3/3P4/PnNBQN2/1P3PPP/3RK2R w K - 4 17,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+33,Bb1,d3b1,r4rk1/1p1b1pp1/pqn1p2p/3pP3/3P4/PnN1QN2/1P3PPP/1B1RK2R b K - 5 17,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+34,Ne7,c6e7,r4rk1/1p1bnpp1/pq2p2p/3pP3/3P4/PnN1QN2/1P3PPP/1B1RK2R w K - 6 18,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+35,Qd3,e3d3,r4rk1/1p1bnpp1/pq2p2p/3pP3/3P4/PnNQ1N2/1P3PPP/1B1RK2R b K - 7 18,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+36,g6,g7g6,r4rk1/1p1bnp2/pq2p1pp/3pP3/3P4/PnNQ1N2/1P3PPP/1B1RK2R w K - 0 19,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+37,Qe3,d3e3,r4rk1/1p1bnp2/pq2p1pp/3pP3/3P4/PnN1QN2/1P3PPP/1B1RK2R b K - 1 19,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+38,Kg7,g8g7,r4r2/1p1bnpk1/pq2p1pp/3pP3/3P4/PnN1QN2/1P3PPP/1B1RK2R w K - 2 20,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+39,O-O,e1g1,r4r2/1p1bnpk1/pq2p1pp/3pP3/3P4/PnN1QN2/1P3PPP/1B1R1RK1 b - - 3 20,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+40,Na5,b3a5,r4r2/1p1bnpk1/pq2p1pp/n2pP3/3P4/P1N1QN2/1P3PPP/1B1R1RK1 w - - 4 21,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+41,Qf4,e3f4,r4r2/1p1bnpk1/pq2p1pp/n2pP3/3P1Q2/P1N2N2/1P3PPP/1B1R1RK1 b - - 5 21,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+42,f5,f7f5,r4r2/1p1bn1k1/pq2p1pp/n2pPp2/3P1Q2/P1N2N2/1P3PPP/1B1R1RK1 w - f6 0 22,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+43,h4,h2h4,r4r2/1p1bn1k1/pq2p1pp/n2pPp2/3P1Q1P/P1N2N2/1P3PP1/1B1R1RK1 b - - 0 22,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+44,Qxb2,b6b2,r4r2/1p1bn1k1/p3p1pp/n2pPp2/3P1Q1P/P1N2N2/1q3PP1/1B1R1RK1 w - - 0 23,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+45,Rd3,d1d3,r4r2/1p1bn1k1/p3p1pp/n2pPp2/3P1Q1P/P1NR1N2/1q3PP1/1B3RK1 b - - 1 23,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+46,Nc4,a5c4,r4r2/1p1bn1k1/p3p1pp/3pPp2/2nP1Q1P/P1NR1N2/1q3PP1/1B3RK1 w - - 2 24,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+47,h5,h4h5,r4r2/1p1bn1k1/p3p1pp/3pPp1P/2nP1Q2/P1NR1N2/1q3PP1/1B3RK1 b - - 0 24,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+48,Nxa3,c4a3,r4r2/1p1bn1k1/p3p1pp/3pPp1P/3P1Q2/n1NR1N2/1q3PP1/1B3RK1 w - - 0 25,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+49,hxg6,h5g6,r4r2/1p1bn1k1/p3p1Pp/3pPp2/3P1Q2/n1NR1N2/1q3PP1/1B3RK1 b - - 0 25,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+50,Bb5,d7b5,r4r2/1p2n1k1/p3p1Pp/1b1pPp2/3P1Q2/n1NR1N2/1q3PP1/1B3RK1 w - - 1 26,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+51,Nxb5,c3b5,r4r2/1p2n1k1/p3p1Pp/1N1pPp2/3P1Q2/n2R1N2/1q3PP1/1B3RK1 b - - 0 26,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+52,Nxb5,a3b5,r4r2/1p2n1k1/p3p1Pp/1n1pPp2/3P1Q2/3R1N2/1q3PP1/1B3RK1 w - - 0 27,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+53,Ng5,f3g5,r4r2/1p2n1k1/p3p1Pp/1n1pPpN1/3P1Q2/3R4/1q3PP1/1B3RK1 b - - 1 27,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+54,Nc7,b5c7,r4r2/1pn1n1k1/p3p1Pp/3pPpN1/3P1Q2/3R4/1q3PP1/1B3RK1 w - - 2 28,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+55,Nf7,g5f7,r4r2/1pn1nNk1/p3p1Pp/3pPp2/3P1Q2/3R4/1q3PP1/1B3RK1 b - - 3 28,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+56,Nxg6,e7g6,r4r2/1pn2Nk1/p3p1np/3pPp2/3P1Q2/3R4/1q3PP1/1B3RK1 w - - 0 29,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+57,Qxh6+,f4h6,r4r2/1pn2Nk1/p3p1nQ/3pPp2/3P4/3R4/1q3PP1/1B3RK1 b - - 0 29,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+58,Kxf7,g7f7,r4r2/1pn2k2/p3p1nQ/3pPp2/3P4/3R4/1q3PP1/1B3RK1 w - - 0 30,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+59,Qh7+,h6h7,r4r2/1pn2k1Q/p3p1n1/3pPp2/3P4/3R4/1q3PP1/1B3RK1 b - - 1 30,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+60,Ke8,f7e8,r3kr2/1pn4Q/p3p1n1/3pPp2/3P4/3R4/1q3PP1/1B3RK1 w - - 2 31,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+61,Qxg6+,h7g6,r3kr2/1pn5/p3p1Q1/3pPp2/3P4/3R4/1q3PP1/1B3RK1 b - - 0 31,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+62,Ke7,e8e7,r4r2/1pn1k3/p3p1Q1/3pPp2/3P4/3R4/1q3PP1/1B3RK1 w - - 1 32,"Tf7 offered a better resistance.   (32.Qg8 , Ke7 33. Qg5 , Kd7)"
+63,Qg5+,g6g5,r4r2/1pn1k3/p3p3/3pPpQ1/3P4/3R4/1q3PP1/1B3RK1 b - - 2 32,White did not see this simple winning move.
+64,Ke8,e7e8,r3kr2/1pn5/p3p3/3pPpQ1/3P4/3R4/1q3PP1/1B3RK1 w - - 3 33,White did not see this simple winning move.
+65,Rh3,d3h3,r3kr2/1pn5/p3p3/3pPpQ1/3P4/7R/1q3PP1/1B3RK1 b - - 4 33,White did not see this simple winning move.
+66,Rf7,f8f7,r3k3/1pn2r2/p3p3/3pPpQ1/3P4/7R/1q3PP1/1B3RK1 w - - 5 34,White did not see this simple winning move.
+67,Rh8+,h3h8,r3k2R/1pn2r2/p3p3/3pPpQ1/3P4/8/1q3PP1/1B3RK1 b - - 6 34,White did not see this simple winning move.
+68,Kd7,e8d7,r6R/1pnk1r2/p3p3/3pPpQ1/3P4/8/1q3PP1/1B3RK1 w - - 7 35,White did not see this simple winning move.
+69,Rxa8,h8a8,R7/1pnk1r2/p3p3/3pPpQ1/3P4/8/1q3PP1/1B3RK1 b - - 0 35,White did not see this simple winning move.
+70,Nxa8,c7a8,n7/1p1k1r2/p3p3/3pPpQ1/3P4/8/1q3PP1/1B3RK1 w - - 0 36,White did not see this simple winning move.
+71,Qg8,g5g8,n5Q1/1p1k1r2/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 b - - 1 36,White did not see this simple winning move.
+72,Re7,f7e7,n5Q1/1p1kr3/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 w - - 2 37,
+73,Qxa8,g8a8,Q7/1p1kr3/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 b - - 0 37,
+74,Re8,e7e8,Q3r3/1p1k4/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 w - - 1 38,
+75,Qa7,a8a7,4r3/Qp1k4/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 b - - 2 38,
+76,Rc8,e8c8,2r5/Qp1k4/p3p3/3pPp2/3P4/8/1q3PP1/1B3RK1 w - - 3 39,

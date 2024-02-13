@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Having an extra opening for the bishop is really unnecessary.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Having an extra opening for the bishop is really unnecessary.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Having an extra opening for the bishop is really unnecessary.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Having an extra opening for the bishop is really unnecessary.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,Having an extra opening for the bishop is really unnecessary.
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,Having an extra opening for the bishop is really unnecessary.
+7,d4,d2d4,rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,Having an extra opening for the bishop is really unnecessary.
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,Having an extra opening for the bishop is really unnecessary.
+9,g3,g2g3,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/5NP1/PPP2P1P/RNBQKB1R b KQkq - 0 5,Having an extra opening for the bishop is really unnecessary.
+10,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n2n2/3p4/3P4/5NP1/PPP2P1P/RNBQKB1R w KQkq - 1 6,More usual for me would be Bd6.
+11,c3,c2c3,r1bqkb1r/ppp2ppp/2n2n2/3p4/3P4/2P2NP1/PP3P1P/RNBQKB1R b KQkq - 0 6,
+12,Bd6,f8d6,r1bqk2r/ppp2ppp/2nb1n2/3p4/3P4/2P2NP1/PP3P1P/RNBQKB1R w KQkq - 1 7,This costs valuable time when white needs to castle.
+13,Bg5,c1g5,r1bqk2r/ppp2ppp/2nb1n2/3p2B1/3P4/2P2NP1/PP3P1P/RN1QKB1R b KQkq - 2 7,This costs valuable time when white needs to castle.
+14,O-O,e8g8,r1bq1rk1/ppp2ppp/2nb1n2/3p2B1/3P4/2P2NP1/PP3P1P/RN1QKB1R w KQ - 3 8,This backward pawn will be white's undoing.
+15,Bg2,f1g2,r1bq1rk1/ppp2ppp/2nb1n2/3p2B1/3P4/2P2NP1/PP3PBP/RN1QK2R b KQ - 4 8,This backward pawn will be white's undoing.
+16,Re8+,f8e8,r1bqr1k1/ppp2ppp/2nb1n2/3p2B1/3P4/2P2NP1/PP3PBP/RN1QK2R w KQ - 5 9,This backward pawn will be white's undoing.
+17,Be3,g5e3,r1bqr1k1/ppp2ppp/2nb1n2/3p4/3P4/2P1BNP1/PP3PBP/RN1QK2R b KQ - 6 9,This backward pawn will be white's undoing.
+18,Ng4,f6g4,r1bqr1k1/ppp2ppp/2nb4/3p4/3P2n1/2P1BNP1/PP3PBP/RN1QK2R w KQ - 7 10,This backward pawn will be white's undoing.
+19,Qd2,d1d2,r1bqr1k1/ppp2ppp/2nb4/3p4/3P2n1/2P1BNP1/PP1Q1PBP/RN2K2R b KQ - 8 10,This backward pawn will be white's undoing.
+20,Nxe3,g4e3,r1bqr1k1/ppp2ppp/2nb4/3p4/3P4/2P1nNP1/PP1Q1PBP/RN2K2R w KQ - 0 11,This backward pawn will be white's undoing.
+21,fxe3,f2e3,r1bqr1k1/ppp2ppp/2nb4/3p4/3P4/2P1PNP1/PP1Q2BP/RN2K2R b KQ - 0 11,This backward pawn will be white's undoing.
+22,Ne7,c6e7,r1bqr1k1/ppp1nppp/3b4/3p4/3P4/2P1PNP1/PP1Q2BP/RN2K2R w KQ - 1 12,Obviously better than Na5 12. b3.
+23,O-O,e1g1,r1bqr1k1/ppp1nppp/3b4/3p4/3P4/2P1PNP1/PP1Q2BP/RN3RK1 b - - 2 12,"Since Black's pieces are aimed toward the kingside, this makes sense."
+24,Nf5,e7f5,r1bqr1k1/ppp2ppp/3b4/3p1n2/3P4/2P1PNP1/PP1Q2BP/RN3RK1 w - - 3 13,"Since Black's pieces are aimed toward the kingside, this makes sense."
+25,Re1,f1e1,r1bqr1k1/ppp2ppp/3b4/3p1n2/3P4/2P1PNP1/PP1Q2BP/RN2R1K1 b - - 4 13,"Since Black's pieces are aimed toward the kingside, this makes sense."
+26,h5,h7h5,r1bqr1k1/ppp2pp1/3b4/3p1n1p/3P4/2P1PNP1/PP1Q2BP/RN2R1K1 w - - 0 14,"Since Black's pieces are aimed toward the kingside, this makes sense."
+27,Qd3,d2d3,r1bqr1k1/ppp2pp1/3b4/3p1n1p/3P4/2PQPNP1/PP4BP/RN2R1K1 b - - 1 14,14. ... h4 is also good.  15. g4 h3  16. Bxh3 Nh4 with threats and complications.  17. Nxh4?? Qxh4 forks two pieces.  18. e4 dxe4 19. Rxe4 Rxe4 20. Qxe4 Qh4 with powerful threats.
+28,c5,c7c5,r1bqr1k1/pp3pp1/3b4/2pp1n1p/3P4/2PQPNP1/PP4BP/RN2R1K1 w - - 0 15,14. ... h4 is also good.  15. g4 h3  16. Bxh3 Nh4 with threats and complications.  17. Nxh4?? Qxh4 forks two pieces.  18. e4 dxe4 19. Rxe4 Rxe4 20. Qxe4 Qh4 with powerful threats.
+29,c4,c3c4,r1bqr1k1/pp3pp1/3b4/2pp1n1p/2PP4/3QPNP1/PP4BP/RN2R1K1 b - - 0 15,A tactical blunder.
+30,dxc4,d5c4,r1bqr1k1/pp3pp1/3b4/2p2n1p/2pP4/3QPNP1/PP4BP/RN2R1K1 w - - 0 16,Now white should try to hang on with Qd2.
+31,Qxc4,d3c4,r1bqr1k1/pp3pp1/3b4/2p2n1p/2QP4/4PNP1/PP4BP/RN2R1K1 b - - 0 16,Qd2 was better.
+32,Nxe3,f5e3,r1bqr1k1/pp3pp1/3b4/2p4p/2QP4/4nNP1/PP4BP/RN2R1K1 w - - 0 17,17. Qc3  is just slightly better because black would like to be able to play cxd4 followed by Bc5.
+33,Qe2,c4e2,r1bqr1k1/pp3pp1/3b4/2p4p/3P4/4nNP1/PP2Q1BP/RN2R1K1 b - - 1 17,17. Qc3  is just slightly better because black would like to be able to play cxd4 followed by Bc5.
+34,Bd7,c8d7,r2qr1k1/pp1b1pp1/3b4/2p4p/3P4/4nNP1/PP2Q1BP/RN2R1K1 w - - 2 18,"Bf5, Bg4 and cxd4 are also good."
+35,Nc3,b1c3,r2qr1k1/pp1b1pp1/3b4/2p4p/3P4/2N1nNP1/PP2Q1BP/R3R1K1 b - - 3 18,"This is the wrong square because after cxd4 threatening the knight, white's options are more limited.  Nbd2 is better."
+36,cxd4,c5d4,r2qr1k1/pp1b1pp1/3b4/7p/3p4/2N1nNP1/PP2Q1BP/R3R1K1 w - - 0 19,Suddenly things are horrid for white.  Now 20. Nb3?? Nxg2+ 21. Kxg2 Bc6+.  If instead 21. Nxc5  Rxe2  22. Rxe2 Qb6 will eventually win because the pins and material advantage.
+37,Nxd4,f3d4,r2qr1k1/pp1b1pp1/3b4/7p/3N4/2N1n1P1/PP2Q1BP/R3R1K1 b - - 0 19,Suddenly things are horrid for white.  Now 20. Nb3?? Nxg2+ 21. Kxg2 Bc6+.  If instead 21. Nxc5  Rxe2  22. Rxe2 Qb6 will eventually win because the pins and material advantage.
+38,Bc5,d6c5,r2qr1k1/pp1b1pp1/8/2b4p/3N4/2N1n1P1/PP2Q1BP/R3R1K1 w - - 1 20,Suddenly things are horrid for white.  Now 20. Nb3?? Nxg2+ 21. Kxg2 Bc6+.  If instead 21. Nxc5  Rxe2  22. Rxe2 Qb6 will eventually win because the pins and material advantage.
+39,Qd3,e2d3,r2qr1k1/pp1b1pp1/8/2b4p/3N4/2NQn1P1/PP4BP/R3R1K1 b - - 2 20,20. Qd2 doesn't seem to be any better after Nxg2.
+40,Nxg2,e3g2,r2qr1k1/pp1b1pp1/8/2b4p/3N4/2NQ2P1/PP4nP/R3R1K1 w - - 0 21,Now if 21. Kxg2 Bc6+ 22. Kf1 Qd7! puts white in a world of hurt.
+41,Rxe8+,e1e8,r2qR1k1/pp1b1pp1/8/2b4p/3N4/2NQ2P1/PP4nP/R5K1 b - - 0 21,22. Nce2 might prolong the agony longer.
+42,Bxe8,d7e8,r2qb1k1/pp3pp1/8/2b4p/3N4/2NQ2P1/PP4nP/R5K1 w - - 0 22,22. Nce2 might prolong the agony longer.
+43,Kxg2,g1g2,r2qb1k1/pp3pp1/8/2b4p/3N4/2NQ2P1/PP4KP/R7 b - - 0 22,22. Nce2 might prolong the agony longer.
+44,Bc6+,e8c6,r2q2k1/pp3pp1/2b5/2b4p/3N4/2NQ2P1/PP4KP/R7 w - - 1 23,If 25. Re1 then Re8.
+45,Ne4,c3e4,r2q2k1/pp3pp1/2b5/2b4p/3NN3/3Q2P1/PP4KP/R7 b - - 2 23,If 25. Re1 then Re8.
+46,Qxd4,d8d4,r5k1/pp3pp1/2b5/2b4p/3qN3/3Q2P1/PP4KP/R7 w - - 0 24,If 25. Re1 then Re8.
+47,Qxd4,d3d4,r5k1/pp3pp1/2b5/2b4p/3QN3/6P1/PP4KP/R7 b - - 0 24,If 25. Re1 then Re8.
+48,Bxd4,c5d4,r5k1/pp3pp1/2b5/7p/3bN3/6P1/PP4KP/R7 w - - 0 25,If 25. Re1 then Re8.
+49,Kf3,g2f3,r5k1/pp3pp1/2b5/7p/3bN3/5KP1/PP5P/R7 b - - 1 25,If 25. Re1 then Re8.
+50,Re8,a8e8,4r1k1/pp3pp1/2b5/7p/3bN3/5KP1/PP5P/R7 w - - 2 26,

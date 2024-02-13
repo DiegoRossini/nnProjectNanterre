@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is called the Carr Defense when played against 1.e4.
+2,h6,h7h6,rnbqkbnr/ppppppp1/7p/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,This is called the Carr Defense when played against 1.e4.
+3,e4,e2e4,rnbqkbnr/ppppppp1/7p/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Black is passive, but both sides are relatively solid."
+4,e6,e7e6,rnbqkbnr/pppp1pp1/4p2p/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Black is passive, but both sides are relatively solid."
+5,Nf3,g1f3,rnbqkbnr/pppp1pp1/4p2p/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3,"Black is passive, but both sides are relatively solid."
+6,Nf6,g8f6,rnbqkb1r/pppp1pp1/4pn1p/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 4,"Black is passive, but both sides are relatively solid."
+7,Bd3,f1d3,rnbqkb1r/pppp1pp1/4pn1p/8/3PP3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 3 4,"Black is passive, but both sides are relatively solid."
+8,Be7,f8e7,rnbqk2r/ppppbpp1/4pn1p/8/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 4 5,"Black is passive, but both sides are relatively solid."
+9,Nc3,b1c3,rnbqk2r/ppppbpp1/4pn1p/8/3PP3/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 5 5,"Black is passive, but both sides are relatively solid."
+10,O-O,e8g8,rnbq1rk1/ppppbpp1/4pn1p/8/3PP3/2NB1N2/PPP2PPP/R1BQK2R w KQ - 6 6,"Black is passive, but both sides are relatively solid."
+11,O-O,e1g1,rnbq1rk1/ppppbpp1/4pn1p/8/3PP3/2NB1N2/PPP2PPP/R1BQ1RK1 b - - 7 6,"Black is passive, but both sides are relatively solid."
+12,d6,d7d6,rnbq1rk1/ppp1bpp1/3ppn1p/8/3PP3/2NB1N2/PPP2PPP/R1BQ1RK1 w - - 0 7,"Black is passive, but both sides are relatively solid."
+13,Bf4,c1f4,rnbq1rk1/ppp1bpp1/3ppn1p/8/3PPB2/2NB1N2/PPP2PPP/R2Q1RK1 b - - 1 7,Taking control of the important e5 square.
+14,Nbd7,b8d7,r1bq1rk1/pppnbpp1/3ppn1p/8/3PPB2/2NB1N2/PPP2PPP/R2Q1RK1 w - - 2 8,Setting up a future kingside attack and connecting the rooks.
+15,Qd2,d1d2,r1bq1rk1/pppnbpp1/3ppn1p/8/3PPB2/2NB1N2/PPPQ1PPP/R4RK1 b - - 3 8,Setting up a future kingside attack and connecting the rooks.
+16,e5,e6e5,r1bq1rk1/pppnbpp1/3p1n1p/4p3/3PPB2/2NB1N2/PPPQ1PPP/R4RK1 w - - 0 9,This just loses material.
+17,dxe5,d4e5,r1bq1rk1/pppnbpp1/3p1n1p/4P3/4PB2/2NB1N2/PPPQ1PPP/R4RK1 b - - 0 9,"Black probably thought I was going to retreat the bishop, but instead allows me to go on an eating frenzy."
+18,Nxe5,d7e5,r1bq1rk1/ppp1bpp1/3p1n1p/4n3/4PB2/2NB1N2/PPPQ1PPP/R4RK1 w - - 0 10,"Black probably thought I was going to retreat the bishop, but instead allows me to go on an eating frenzy."
+19,Bxe5,f4e5,r1bq1rk1/ppp1bpp1/3p1n1p/4B3/4P3/2NB1N2/PPPQ1PPP/R4RK1 b - - 0 10,"Black probably thought I was going to retreat the bishop, but instead allows me to go on an eating frenzy."
+20,Bg4,c8g4,r2q1rk1/ppp1bpp1/3p1n1p/4B3/4P1b1/2NB1N2/PPPQ1PPP/R4RK1 w - - 1 11,"Black probably thought I was going to retreat the bishop, but instead allows me to go on an eating frenzy."
+21,Bxf6,e5f6,r2q1rk1/ppp1bpp1/3p1B1p/8/4P1b1/2NB1N2/PPPQ1PPP/R4RK1 b - - 0 11,Black has no real attack.
+22,Bxf3,g4f3,r2q1rk1/ppp1bpp1/3p1B1p/8/4P3/2NB1b2/PPPQ1PPP/R4RK1 w - - 0 12,Black has no real attack.
+23,Bxe7,f6e7,r2q1rk1/ppp1Bpp1/3p3p/8/4P3/2NB1b2/PPPQ1PPP/R4RK1 b - - 0 12,Black has no real attack.
+24,Qxe7,d8e7,r4rk1/ppp1qpp1/3p3p/8/4P3/2NB1b2/PPPQ1PPP/R4RK1 w - - 0 13,Black has no real attack.
+25,gxf3,g2f3,r4rk1/ppp1qpp1/3p3p/8/4P3/2NB1P2/PPPQ1P1P/R4RK1 b - - 0 13,Black has no real attack.
+26,Qf6,e7f6,r4rk1/ppp2pp1/3p1q1p/8/4P3/2NB1P2/PPPQ1P1P/R4RK1 w - - 1 14,Black has no real attack.
+27,f4,f3f4,r4rk1/ppp2pp1/3p1q1p/8/4PP2/2NB4/PPPQ1P1P/R4RK1 b - - 0 14,Readying the rook to come to g1.
+28,c6,c7c6,r4rk1/pp3pp1/2pp1q1p/8/4PP2/2NB4/PPPQ1P1P/R4RK1 w - - 0 15,Readying the rook to come to g1.
+29,Kh1,g1h1,r4rk1/pp3pp1/2pp1q1p/8/4PP2/2NB4/PPPQ1P1P/R4R1K b - - 1 15,Readying the rook to come to g1.
+30,b5,b7b5,r4rk1/p4pp1/2pp1q1p/1p6/4PP2/2NB4/PPPQ1P1P/R4R1K w - - 0 16,Sacrificing a pawn for open lines for my bishop.
+31,Rfg1,f1g1,r4rk1/p4pp1/2pp1q1p/1p6/4PP2/2NB4/PPPQ1P1P/R5RK b - - 1 16,Sacrificing a pawn for open lines for my bishop.
+32,a5,a7a5,r4rk1/5pp1/2pp1q1p/pp6/4PP2/2NB4/PPPQ1P1P/R5RK w - - 0 17,Sacrificing a pawn for open lines for my bishop.
+33,e5,e4e5,r4rk1/5pp1/2pp1q1p/pp2P3/5P2/2NB4/PPPQ1P1P/R5RK b - - 0 17,Sacrificing a pawn for open lines for my bishop.
+34,dxe5,d6e5,r4rk1/5pp1/2p2q1p/pp2p3/5P2/2NB4/PPPQ1P1P/R5RK w - - 0 18,No need to worry about the knight. Mate is much more important.
+35,fxe5,f4e5,r4rk1/5pp1/2p2q1p/pp2P3/8/2NB4/PPPQ1P1P/R5RK b - - 0 18,No need to worry about the knight. Mate is much more important.
+36,Qe6,f6e6,r4rk1/5pp1/2p1q2p/pp2P3/8/2NB4/PPPQ1P1P/R5RK w - - 1 19,No need to worry about the knight. Mate is much more important.
+37,Rg3,g1g3,r4rk1/5pp1/2p1q2p/pp2P3/8/2NB2R1/PPPQ1P1P/R6K b - - 2 19,No need to worry about the knight. Mate is much more important.
+38,b4,b5b4,r4rk1/5pp1/2p1q2p/p3P3/1p6/2NB2R1/PPPQ1P1P/R6K w - - 0 20,No need to worry about the knight. Mate is much more important.
+39,Rag1,a1g1,r4rk1/5pp1/2p1q2p/p3P3/1p6/2NB2R1/PPPQ1P1P/6RK b - - 1 20,No need to worry about the knight. Mate is much more important.
+40,Qxe5,e6e5,r4rk1/5pp1/2p4p/p3q3/1p6/2NB2R1/PPPQ1P1P/6RK w - - 0 21,The tactical conclusion.
+41,Qxh6,d2h6,r4rk1/5pp1/2p4Q/p3q3/1p6/2NB2R1/PPP2P1P/6RK b - - 0 21,The tactical conclusion.
+42,g6,g7g6,r4rk1/5p2/2p3pQ/p3q3/1p6/2NB2R1/PPP2P1P/6RK w - - 0 22,
+43,Bxg6,d3g6,r4rk1/5p2/2p3BQ/p3q3/1p6/2N3R1/PPP2P1P/6RK b - - 0 22,
+44,fxg6,f7g6,r4rk1/8/2p3pQ/p3q3/1p6/2N3R1/PPP2P1P/6RK w - - 0 23,
+45,Qxg6+,h6g6,r4rk1/8/2p3Q1/p3q3/1p6/2N3R1/PPP2P1P/6RK b - - 0 23,
+46,Kh8,g8h8,r4r1k/8/2p3Q1/p3q3/1p6/2N3R1/PPP2P1P/6RK w - - 1 24,
+47,Rh3+,g3h3,r4r1k/8/2p3Q1/p3q3/1p6/2N4R/PPP2P1P/6RK b - - 2 24,

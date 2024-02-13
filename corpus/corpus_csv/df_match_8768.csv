@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Blitz with e4!  I definitely cannot make good positional judgments in a quick game compared to, say, correspondence."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Darn, a Sicilian, he probably is booked up decently well in his line, and I don't want to have to fumble around with what little knowledge I have, so I avoid all that with..."
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"The Alapin variation.  I know, I'm definitely a wuss for not adventuring into Open Sicilian lines."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,I suspect he doesn't know what he's playing.  2... Nf6 and 2... d5 are better.
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,A nice center for white already.
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,A nice center for white already.
+7,cxd4,c3d4,r1bqkbnr/pp1ppppp/2n5/8/3PP3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,A nice center for white already.
+8,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/8/3PP3/8/PP3PPP/RNBQKBNR w KQkq - 0 5,"I suspect 4... d5 is stronger here, playing the position similarly to the Nimzovich Defense"
+9,Nf3,g1f3,r1bqkbnr/pp1p1ppp/2n1p3/8/3PP3/5N2/PP3PPP/RNBQKB1R b KQkq - 1 5,"Probably why he chose to develop with 5... Bb4 , so he could get the Knight to e7 and quickly castle.  It's a fairly decent plan, but he does run into a hitch."
+10,Bb4+,f8b4,r1bqk1nr/pp1p1ppp/2n1p3/8/1b1PP3/5N2/PP3PPP/RNBQKB1R w KQkq - 2 6,"Probably why he chose to develop with 5... Bb4 , so he could get the Knight to e7 and quickly castle.  It's a fairly decent plan, but he does run into a hitch."
+11,Nc3,b1c3,r1bqk1nr/pp1p1ppp/2n1p3/8/1b1PP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 3 6,"Probably why he chose to develop with 5... Bb4 , so he could get the Knight to e7 and quickly castle.  It's a fairly decent plan, but he does run into a hitch."
+12,Nge7,g8e7,r1bqk2r/pp1pnppp/2n1p3/8/1b1PP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 4 7,"Probably why he chose to develop with 5... Bb4 , so he could get the Knight to e7 and quickly castle.  It's a fairly decent plan, but he does run into a hitch."
+13,Bd3,f1d3,r1bqk2r/pp1pnppp/2n1p3/8/1b1PP3/2NB1N2/PP3PPP/R1BQK2R b KQkq - 5 7,"Better here than on b5 or c4, which would threaten nothing."
+14,d5,d7d5,r1bqk2r/pp2nppp/2n1p3/3p4/1b1PP3/2NB1N2/PP3PPP/R1BQK2R w KQkq - 0 8,Trying to grab a stake in the center.
+15,e5,e4e5,r1bqk2r/pp2nppp/2n1p3/3pP3/1b1P4/2NB1N2/PP3PPP/R1BQK2R b KQkq - 0 8,Which I just push past; I'm very comfortable with this type of setup.
+16,O-O,e8g8,r1bq1rk1/pp2nppp/2n1p3/3pP3/1b1P4/2NB1N2/PP3PPP/R1BQK2R w KQ - 1 9,"??
+
+My opponent is clearly playing too quickly, and I go into a relatively deep think here (about 20-30 seconds) assessing the position for my tactical shot."
+17,Bxh7+,d3h7,r1bq1rk1/pp2nppB/2n1p3/3pP3/1b1P4/2N2N2/PP3PPP/R1BQK2R b KQ - 0 9,Gets the ball rolling.
+18,Kxh7,g8h7,r1bq1r2/pp2nppk/2n1p3/3pP3/1b1P4/2N2N2/PP3PPP/R1BQK2R w KQ - 0 10,"Even 9... Kh8 would eventually lose to Ng5, Qh5 (or something similar, with the same theme)."
+19,Ng5+,f3g5,r1bq1r2/pp2nppk/2n1p3/3pP1N1/1b1P4/2N5/PP3PPP/R1BQK2R b KQ - 1 10,"The natural continuation, of course."
+20,Kg6,h7g6,r1bq1r2/pp2npp1/2n1p1k1/3pP1N1/1b1P4/2N5/PP3PPP/R1BQK2R w KQ - 2 11,"Generally thought of as better than the alternative Kg8.
+
+[10... Kg8  11. Qh5 Re8  12. Qh7  Kf8  13. Qh8  Ng8  14. Nh7  Ke7  15. Bg5  Nf6  16. Qxg7 Kd7  17. Nxf6  Kc7  18. Nxe8 ]  and black is down the exchange and two pawns."
+21,h4,h2h4,r1bq1r2/pp2npp1/2n1p1k1/3pP1N1/1b1P3P/2N5/PP3PP1/R1BQK2R b KQ - 0 11,The key for whenever black runs out to g6.
+22,Bxc3+,b4c3,r1bq1r2/pp2npp1/2n1p1k1/3pP1N1/3P3P/2b5/PP3PP1/R1BQK2R w KQ - 0 12,Probably done to give himself just marginally more time to think.
+23,bxc3,b2c3,r1bq1r2/pp2npp1/2n1p1k1/3pP1N1/3P3P/2P5/P4PP1/R1BQK2R b KQ - 0 12,Same situation.
+24,Qa5,d8a5,r1b2r2/pp2npp1/2n1p1k1/q2pP1N1/3P3P/2P5/P4PP1/R1BQK2R w KQ - 1 13,"In order to avoid the immediate [13. h5  Kh6  14. Nxf7 ] where white can pick off the queen.  However, mate threats still loom."
+25,h5+,h4h5,r1b2r2/pp2npp1/2n1p1k1/q2pP1NP/3P4/2P5/P4PP1/R1BQK2R b KQ - 0 13,Sentencing black to some painful discovered checks on h6.

@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Hello, today I will annotate a game between two 1300s players. This game was a long one, but black came out much better in the end. Beginner players should look at this annotation, because it highlights some of the most important mistakes and misconceptions made by them. 
+
+White begins d4, the queen pawn game."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"double d pawn opening. One important rule in these double d pawn opening is:
+
+Don't block the c pawn with a knight unless necessary. Why? Because the c pawn's advance to c4(c5 for black) will ensure a breakdown of the opponent's d pawn, and thus breaking down or at least pressuring the pawn. Also, if it is possible in dd openings, the knight behind the c pawn will give that side more space and an easier game. The c-pawn gains central space."
+3,h3,h2h3,rnbqkbnr/ppp1pppp/8/3p4/3P4/7P/PPP1PPP1/RNBQKBNR b KQkq - 0 2,"a waste of time. Inexperienced players do not know when to play this move. a3,a6,h3,h6 should only be played when there is a reason to play it.Reasons include:
+
+1.A piece may go there with a THREAT 
+2.The king needs an escape square.
+3.it may be necessary to support other moves in some positions.
+4.it restricts a piece's only good square
+
+here, none of these apply. One more thing is, don't play that just to stop a bishop from pinning a knight. If the bishop has no more good squares,  or the pin is a threat, then the move may be necessary."
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/7P/PPP1PPP1/RNBQKBNR w KQkq - 1 3,"Playable, but black may have a space shortage if white plays well."
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N1P/PPP1PPP1/RNBQKB1R b KQkq - 2 3,perfectly ok.
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/5N1P/PPP1PPP1/RNBQKB1R w KQkq - 3 4,"white's setup can be something like  e3,c4,Nc3.. with good play"
+7,Bf4,c1f4,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 4 4,"white's setup can be something like  e3,c4,Nc3.. with good play"
+8,Bf5,c8f5,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 5 5,"this is a good square for the bishop, and now h3 is looking completely useless."
+9,e3,e2e3,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P1B2/4PN1P/PPP2PP1/RN1QKB1R b KQkq - 0 5,"now black may be having a space shortage, or at least his center is under pressure."
+10,e6,e7e6,r2qkb1r/ppp2ppp/2n1pn2/3p1b2/3P1B2/4PN1P/PPP2PP1/RN1QKB1R w KQkq - 0 6,"now black may be having a space shortage, or at least his center is under pressure."
+11,c4,c2c4,r2qkb1r/ppp2ppp/2n1pn2/3p1b2/2PP1B2/4PN1P/PP3PP1/RN1QKB1R b KQkq - 0 6,"now black may be having a space shortage, or at least his center is under pressure."
+12,Bxb1,f5b1,r2qkb1r/ppp2ppp/2n1pn2/3p4/2PP1B2/4PN1P/PP3PP1/Rb1QKB1R w KQkq - 0 7,"Not good. Bb4ch can be met by Nd2 and a3. Black has given up the bishop pair, generally worth half a pawn."
+13,Rxb1,a1b1,r2qkb1r/ppp2ppp/2n1pn2/3p4/2PP1B2/4PN1P/PP3PP1/1R1QKB1R b Kkq - 0 7,"yes. Now Black is really threatening to play Bb4ch, forcing Ke2, where his pieces may have trouble getting his pieces out. good.also, the space gaining b4 is an idea."
+14,Ne4,f6e4,r2qkb1r/ppp2ppp/2n1p3/3p4/2PPnB2/4PN1P/PP3PP1/1R1QKB1R w Kkq - 1 8,"yes. Now Black is really threatening to play Bb4ch, forcing Ke2, where his pieces may have trouble getting his pieces out. good.also, the space gaining b4 is an idea."
+15,a3,a2a3,r2qkb1r/ppp2ppp/2n1p3/3p4/2PPnB2/P3PN1P/1P3PP1/1R1QKB1R b Kkq - 0 8,"yes. Now Black is really threatening to play Bb4ch, forcing Ke2, where his pieces may have trouble getting his pieces out. good.also, the space gaining b4 is an idea."
+16,h6,h7h6,r2qkb1r/ppp2pp1/2n1p2p/3p4/2PPnB2/P3PN1P/1P3PP1/1R1QKB1R w Kkq - 0 9,But this is useless.
+17,Be2,f1e2,r2qkb1r/ppp2pp1/2n1p2p/3p4/2PPnB2/P3PN1P/1P2BPP1/1R1QK2R b Kkq - 1 9,just developing
+18,g5,g7g5,r2qkb1r/ppp2p2/2n1p2p/3p2p1/2PPnB2/P3PN1P/1P2BPP1/1R1QK2R w Kkq - 0 10,"a weakening move, but it seems ok, because now the bishop can fianchetto, and black can castle queenside."
+19,Be5,f4e5,r2qkb1r/ppp2p2/2n1p2p/3pB1p1/2PPn3/P3PN1P/1P2BPP1/1R1QK2R b Kkq - 1 10,this gives the bishop pair without being forced to.
+20,Nxe5,c6e5,r2qkb1r/ppp2p2/4p2p/3pn1p1/2PPn3/P3PN1P/1P2BPP1/1R1QK2R w Kkq - 0 11,"not good. The d pawn is overloaded, trying to support c5 and the e5 knight. This is an important point. When looking at a position, ask yourself: 
+What are all the seeds of tactical destruction? these are:
+
+1.pieces or pawns that must multitask.  2.loose pieces(unguarded)   think about if you can exploit any of this."
+21,Nxe5,f3e5,r2qkb1r/ppp2p2/4p2p/3pN1p1/2PPn3/P3P2P/1P2BPP1/1R1QK2R b Kkq - 0 11,"not good. The d pawn is overloaded, trying to support c5 and the e5 knight. This is an important point. When looking at a position, ask yourself: 
+What are all the seeds of tactical destruction? these are:
+
+1.pieces or pawns that must multitask.  2.loose pieces(unguarded)   think about if you can exploit any of this."
+22,Qd6,d8d6,r3kb1r/ppp2p2/3qp2p/3pN1p1/2PPn3/P3P2P/1P2BPP1/1R1QK2R w Kkq - 1 12,"not good. The d pawn is overloaded, trying to support c5 and the e5 knight. This is an important point. When looking at a position, ask yourself: 
+What are all the seeds of tactical destruction? these are:
+
+1.pieces or pawns that must multitask.  2.loose pieces(unguarded)   think about if you can exploit any of this."
+23,c5,c4c5,r3kb1r/ppp2p2/3qp2p/2PpN1p1/3Pn3/P3P2P/1P2BPP1/1R1QK2R b Kkq - 0 12,"not good. The d pawn is overloaded, trying to support c5 and the e5 knight. This is an important point. When looking at a position, ask yourself: 
+What are all the seeds of tactical destruction? these are:
+
+1.pieces or pawns that must multitask.  2.loose pieces(unguarded)   think about if you can exploit any of this."
+24,Nxc5,e4c5,r3kb1r/ppp2p2/3qp2p/2npN1p1/3P4/P3P2P/1P2BPP1/1R1QK2R w Kkq - 0 13,black stands reasonably better
+25,dxc5,d4c5,r3kb1r/ppp2p2/3qp2p/2PpN1p1/8/P3P2P/1P2BPP1/1R1QK2R b Kkq - 0 13,black stands reasonably better
+26,Qxe5,d6e5,r3kb1r/ppp2p2/4p2p/2Ppq1p1/8/P3P2P/1P2BPP1/1R1QK2R w Kkq - 0 14,black stands reasonably better
+27,b4,b2b4,r3kb1r/ppp2p2/4p2p/2Ppq1p1/1P6/P3P2P/4BPP1/1R1QK2R b Kkq - 0 14,black stands reasonably better
+28,Qc3+,e5c3,r3kb1r/ppp2p2/4p2p/2Pp2p1/1P6/P1q1P2P/4BPP1/1R1QK2R w Kkq - 1 15,"black is up 2 pawns, and is winning."
+29,Qd2,d1d2,r3kb1r/ppp2p2/4p2p/2Pp2p1/1P6/P1q1P2P/3QBPP1/1R2K2R b Kkq - 2 15,"black is up 2 pawns, and is winning."
+30,Qxa3,c3a3,r3kb1r/ppp2p2/4p2p/2Pp2p1/1P6/q3P2P/3QBPP1/1R2K2R w Kkq - 0 16,"black is up 2 pawns, and is winning."
+31,O-O,e1g1,r3kb1r/ppp2p2/4p2p/2Pp2p1/1P6/q3P2P/3QBPP1/1R3RK1 b kq - 1 16,"black is up 2 pawns, and is winning."
+32,Bg7,f8g7,r3k2r/ppp2pb1/4p2p/2Pp2p1/1P6/q3P2P/3QBPP1/1R3RK1 w kq - 2 17,"black is up 2 pawns, and is winning."
+33,Bf3,e2f3,r3k2r/ppp2pb1/4p2p/2Pp2p1/1P6/q3PB1P/3Q1PP1/1R3RK1 b kq - 3 17,"When up in material, it is not important to make threats. The correct move is maybe castling. Also, attacking with 2 pieces against an army spells disaster."
+34,Bc3,g7c3,r3k2r/ppp2p2/4p2p/2Pp2p1/1P6/q1b1PB1P/3Q1PP1/1R3RK1 w kq - 4 18,"When up in material, it is not important to make threats. The correct move is maybe castling. Also, attacking with 2 pieces against an army spells disaster."
+35,Qd3,d2d3,r3k2r/ppp2p2/4p2p/2Pp2p1/1P6/q1bQPB1P/5PP1/1R3RK1 b kq - 5 18,"the pawn is immune, and there are no good discoveries moving the bishop."
+36,Bxb4,c3b4,r3k2r/ppp2p2/4p2p/2Pp2p1/1b6/q2QPB1P/5PP1/1R3RK1 w kq - 0 19,"blunder!!!!!! after Qb4+ black's bishop, which is attacked once and guarded once, is loose, because one more attack with a piece with tempo will win, and I see Qb5ch almost immediately, and black has 3 pawns for the bishop but better development, and after Qb5ch, white has the advantage. If black had just guarded his position, he would still be winning."

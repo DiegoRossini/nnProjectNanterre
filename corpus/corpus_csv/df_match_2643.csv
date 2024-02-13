@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Andreashreck gambit.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Andreashreck gambit.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Andreashreck gambit.
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Black doesn't try to defend the d pawn.
+5,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/8/3pP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3,Black doesn't try to defend the d pawn.
+6,d6,d7d6,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Black doesn't try to defend the d pawn.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,So that white takes
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Developing on the center
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Developing on the center
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Developing on the center
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,Developing on the center
+12,Qc7,d8c7,rnb1kb1r/1pq1pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7,Now white can castle long but 7. Qd3 is a mistake - 7. Qd2 would have been much better (see move 10.)
+13,Qd3,d1d3,rnb1kb1r/1pq1pppp/p2p1n2/8/3NP3/2NQB3/PPP2PPP/R3KB1R b KQkq - 3 7,Now white can castle long but 7. Qd3 is a mistake - 7. Qd2 would have been much better (see move 10.)
+14,e6,e7e6,rnb1kb1r/1pq2ppp/p2ppn2/8/3NP3/2NQB3/PPP2PPP/R3KB1R w KQkq - 0 8,Black plays rather prudently
+15,f3,f2f3,rnb1kb1r/1pq2ppp/p2ppn2/8/3NP3/2NQBP2/PPP3PP/R3KB1R b KQkq - 0 8,Reinforcing the center and preventing Ng4
+16,Be7,f8e7,rnb1k2r/1pq1bppp/p2ppn2/8/3NP3/2NQBP2/PPP3PP/R3KB1R w KQkq - 1 9,Long castle. some risk because the black queen is in front of the white king but white controls te center.
+17,O-O-O,e1c1,rnb1k2r/1pq1bppp/p2ppn2/8/3NP3/2NQBP2/PPP3PP/2KR1B1R b kq - 2 9,Long castle. some risk because the black queen is in front of the white king but white controls te center.
+18,Nc6,b8c6,r1b1k2r/1pq1bppp/p1nppn2/8/3NP3/2NQBP2/PPP3PP/2KR1B1R w kq - 3 10,"If 10. ... Nb4, fork attack between a pawn and queen. White has to move his queen twice and loses one move. With both players catling on the opposite side, one move can cost one game."
+19,Qd2,d3d2,r1b1k2r/1pq1bppp/p1nppn2/8/3NP3/2N1BP2/PPPQ2PP/2KR1B1R b kq - 4 10,"If 10. ... Nb4, fork attack between a pawn and queen. White has to move his queen twice and loses one move. With both players catling on the opposite side, one move can cost one game."
+20,O-O,e8g8,r1b2rk1/1pq1bppp/p1nppn2/8/3NP3/2N1BP2/PPPQ2PP/2KR1B1R w - - 5 11,"Now I considered white's developpement as finished. For I want to keep the LSB on his square as long as possible because it could be usefull on e2 or d3 and I have no moves to lose, for both players have castled on the opposite side. The rush at the Kings will soon begin. Will black defend or will he try to attack the white king and if so he does, who will be the quickest ? (I analysed the game as deep as I could and was not sure at all)."
+21,g4,g2g4,r1b2rk1/1pq1bppp/p1nppn2/8/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R b - - 0 11,"Now I considered white's developpement as finished. For I want to keep the LSB on his square as long as possible because it could be usefull on e2 or d3 and I have no moves to lose, for both players have castled on the opposite side. The rush at the Kings will soon begin. Will black defend or will he try to attack the white king and if so he does, who will be the quickest ? (I analysed the game as deep as I could and was not sure at all)."
+22,b5,b7b5,r1b2rk1/2q1bppp/p1nppn2/1p6/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R w - - 0 12,Quicly developping toward the white king.
+23,Nxc6,d4c6,r1b2rk1/2q1bppp/p1Nppn2/1p6/4P1P1/2N1BP2/PPPQ3P/2KR1B1R b - - 0 12,To prevent white's attack by Nb4. I spend one move but it should make my opponent lose at least two moves to be really dangerous for the king.
+24,Qxc6,c7c6,r1b2rk1/4bppp/p1qppn2/1p6/4P1P1/2N1BP2/PPPQ3P/2KR1B1R w - - 0 13,This move makes me lose one more tempo but I thought black would lose more time.
+25,b3,b2b3,r1b2rk1/4bppp/p1qppn2/1p6/4P1P1/1PN1BP2/P1PQ3P/2KR1B1R b - - 0 13,This move makes me lose one more tempo but I thought black would lose more time.
+26,Bb7,c8b7,r4rk1/1b2bppp/p1qppn2/1p6/4P1P1/1PN1BP2/P1PQ3P/2KR1B1R w - - 1 14,enabling 14. ... Rc8
+27,g5,g4g5,r4rk1/1b2bppp/p1qppn2/1p4P1/4P3/1PN1BP2/P1PQ3P/2KR1B1R b - - 0 14,"Now, white considers the king sufficiently safe to be able to attack."
+28,Nd7,f6d7,r4rk1/1b1nbppp/p1qpp3/1p4P1/4P3/1PN1BP2/P1PQ3P/2KR1B1R w - - 1 15,Black could have plaid 14. ... Nh5 but this would have trapped it with 15. f4 ... and 16. Be2
+29,h4,h2h4,r4rk1/1b1nbppp/p1qpp3/1p4P1/4P2P/1PN1BP2/P1PQ4/2KR1B1R b - - 0 15,"White attacking plan is very simple (pawns supported by DSB, Q, R and, if necessary LSB). In this position I think that white is better because his piecs on the center can be used wether to attack or to defend, which i not the case for black."
+30,Rac8,a8c8,2r2rk1/1b1nbppp/p1qpp3/1p4P1/4P2P/1PN1BP2/P1PQ4/2KR1B1R w - - 1 16,Menacing the knight on c3
+31,Ne2,c3e2,2r2rk1/1b1nbppp/p1qpp3/1p4P1/4P2P/1P2BP2/P1PQN3/2KR1B1R b - - 2 16,Retreating. A good spot because it controls c3 and d4 which will be an important square. Drawback : it blocks the LSB.
+32,Qc7,c6c7,2r2rk1/1bqnbppp/p2pp3/1p4P1/4P2P/1P2BP2/P1PQN3/2KR1B1R w - - 3 17,"To avoid 17. Nd4 but giving white one tempo. At this moment, I saw a tactic."

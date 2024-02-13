@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's gambit that gives a strong and open game for white.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's gambit that gives a strong and open game for white.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,King's gambit that gives a strong and open game for white.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Needed to prevent Q-h4 and develop the knight at the same time.
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Needed to prevent Q-h4 and develop the knight at the same time.
+6,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+7,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/8/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 3 4,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+8,Bb4,f8b4,rnbqk2r/pppp1ppp/5n2/8/1b2Pp2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 4 5,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+9,e5,e4e5,rnbqk2r/pppp1ppp/5n2/4P3/1b3p2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 0 5,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+10,Qe7,d8e7,rnb1k2r/ppppqppp/5n2/4P3/1b3p2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 1 6,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+11,d4,d2d4,rnb1k2r/ppppqppp/5n2/4P3/1b1P1p2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 6,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+12,Bxc3+,b4c3,rnb1k2r/ppppqppp/5n2/4P3/3P1p2/2b2N2/PPP3PP/R1BQKB1R w KQkq - 0 7,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+13,bxc3,b2c3,rnb1k2r/ppppqppp/5n2/4P3/3P1p2/2P2N2/P1P3PP/R1BQKB1R b KQkq - 0 7,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+14,Nd5,f6d5,rnb1k2r/ppppqppp/8/3nP3/3P1p2/2P2N2/P1P3PP/R1BQKB1R w KQkq - 1 8,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+15,c4,c3c4,rnb1k2r/ppppqppp/8/3nP3/2PP1p2/5N2/P1P3PP/R1BQKB1R b KQkq - 0 8,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+16,Nb6,d5b6,rnb1k2r/ppppqppp/1n6/4P3/2PP1p2/5N2/P1P3PP/R1BQKB1R w KQkq - 1 9,"The knight made 3 moves and ended in a bad position, where it gets stuck for the rest of the game."
+17,Bxf4,c1f4,rnb1k2r/ppppqppp/1n6/4P3/2PP1B2/5N2/P1P3PP/R2QKB1R b KQkq - 0 9,Re-winning the gambit pawn.
+18,O-O,e8g8,rnb2rk1/ppppqppp/1n6/4P3/2PP1B2/5N2/P1P3PP/R2QKB1R w KQ - 1 10,"Threatening capture of R7 pawn, followed by N-g5 and Q-h5. One can see the faster development on white side which is typical in King's gambit."
+19,Bd3,f1d3,rnb2rk1/ppppqppp/1n6/4P3/2PP1B2/3B1N2/P1P3PP/R2QK2R b KQ - 2 10,"Threatening capture of R7 pawn, followed by N-g5 and Q-h5. One can see the faster development on white side which is typical in King's gambit."
+20,h6,h7h6,rnb2rk1/ppppqpp1/1n5p/4P3/2PP1B2/3B1N2/P1P3PP/R2QK2R w KQ - 0 11,To prevent advancement of g7 pawn.
+21,h4,h2h4,rnb2rk1/ppppqpp1/1n5p/4P3/2PP1B1P/3B1N2/P1P3P1/R2QK2R b KQ - 0 11,To prevent advancement of g7 pawn.
+22,d6,d7d6,rnb2rk1/ppp1qpp1/1n1p3p/4P3/2PP1B1P/3B1N2/P1P3P1/R2QK2R w KQ - 0 12,Black opens the line for his bishop threatening to pin the knight at f3.
+23,h5,h4h5,rnb2rk1/ppp1qpp1/1n1p3p/4P2P/2PP1B2/3B1N2/P1P3P1/R2QK2R b KQ - 0 12,To prevent the black pawn at h6 from advancing further.
+24,Bg4,c8g4,rn3rk1/ppp1qpp1/1n1p3p/4P2P/2PP1Bb1/3B1N2/P1P3P1/R2QK2R w KQ - 1 13,"Relieving the king from the pin and also moving it closer to other white pieces. 
+Opens the option of moving the king to g3, threatening the g4 bishop while protecting 
+the otherwise unprotected f4 bishop."
+25,Kf2,e1f2,rn3rk1/ppp1qpp1/1n1p3p/4P2P/2PP1Bb1/3B1N2/P1P2KP1/R2Q3R b - - 2 13,"Relieving the king from the pin and also moving it closer to other white pieces. 
+Opens the option of moving the king to g3, threatening the g4 bishop while protecting 
+the otherwise unprotected f4 bishop."
+26,Qe6,e7e6,rn3rk1/ppp2pp1/1n1pq2p/4P2P/2PP1Bb1/3B1N2/P1P2KP1/R2Q3R w - - 3 14,Another wasted queen move which is a mistake as will be shown next.
+27,d5,d4d5,rn3rk1/ppp2pp1/1n1pq2p/3PP2P/2P2Bb1/3B1N2/P1P2KP1/R2Q3R b - - 0 14,"That is too far and locks the queen in. Q-e7 would have been far better
+and would have prevented the coming attack on the king side."
+28,Qc8,e6c8,rnq2rk1/ppp2pp1/1n1p3p/3PP2P/2P2Bb1/3B1N2/P1P2KP1/R2Q3R w - - 1 15,"That is too far and locks the queen in. Q-e7 would have been far better
+and would have prevented the coming attack on the king side."
+29,Qd2,d1d2,rnq2rk1/ppp2pp1/1n1p3p/3PP2P/2P2Bb1/3B1N2/P1PQ1KP1/R6R b - - 2 15,Threatening the pawn at h6.
+30,Nb8d7,b8d7,r1q2rk1/pppn1pp1/1n1p3p/3PP2P/2P2Bb1/3B1N2/P1PQ1KP1/R6R w - - 3 16,"Too late to bring in the knight. d6Xe5 followed by f7-f6 would have prevented the 
+ensuing attack."
+31,Bxh6,f4h6,r1q2rk1/pppn1pp1/1n1p3B/3PP2P/2P3b1/3B1N2/P1PQ1KP1/R6R b - - 0 16,"if g7Xh6, d2Xh6 threatening h6-h7 mate. If f7-f5, e5Xf6 e.p."
+32,Re8,f8e8,r1q1r1k1/pppn1pp1/1n1p3B/3PP2P/2P3b1/3B1N2/P1PQ1KP1/R6R w - - 1 17,"Unfortunate waste of time. This takes the rook away from the scene of action.
+f7-f6, e5Xf6, f8Xf6 might have delayed the attack."
+33,Qg5,d2g5,r1q1r1k1/pppn1pp1/1n1p3B/3PP1QP/2P3b1/3B1N2/P1P2KP1/R6R b - - 2 17,"Threatening QXg7 mate. If K-f8, BXg7ch. K-g7,B-f6ch. K-f8 or K-h8,Q-g7 mate."
+34,g6,g7g6,r1q1r1k1/pppn1p2/1n1p2pB/3PP1QP/2P3b1/3B1N2/P1P2KP1/R6R w - - 0 18,The only other option left.
+35,Bxg6,d3g6,r1q1r1k1/pppn1p2/1n1p2BB/3PP1QP/2P3b1/5N2/P1P2KP1/R6R b - - 0 18,"If PXg6, QXg6. K-h8, Q-g7 mate. If P-f6, B-h7ch. KXh7, Q-g7 mate or K-f6, Q-g7 mate. 
+Black resigned at this point. K-h8 would have delayed the game a little but not for long. 
+K-h8, B-f8! NXf8,Q-f6ch. K-g8,BXf7ch. K-h7,N-g5 mate. If k-h8, B-f8, RXf8 then Q-h6,
+K-g8, Q-h7 mate. If K-h8, B-f8, PXg6 then Q-h6, K-g8, Q-g7 mate."
+36,Kh8,g8h8,r1q1r2k/pppn1p2/1n1p2BB/3PP1QP/2P3b1/5N2/P1P2KP1/R6R w - - 1 19,
+37,Bf8,h6f8,r1q1rB1k/pppn1p2/1n1p2B1/3PP1QP/2P3b1/5N2/P1P2KP1/R6R b - - 2 19,
+38,Nxf8,d7f8,r1q1rn1k/ppp2p2/1n1p2B1/3PP1QP/2P3b1/5N2/P1P2KP1/R6R w - - 0 20,
+39,Qf6+,g5f6,r1q1rn1k/ppp2p2/1n1p1QB1/3PP2P/2P3b1/5N2/P1P2KP1/R6R b - - 1 20,
+40,Kg8,h8g8,r1q1rnk1/ppp2p2/1n1p1QB1/3PP2P/2P3b1/5N2/P1P2KP1/R6R w - - 2 21,
+41,Bxf7+,g6f7,r1q1rnk1/ppp2B2/1n1p1Q2/3PP2P/2P3b1/5N2/P1P2KP1/R6R b - - 0 21,
+42,Kh7,g8h7,r1q1rn2/ppp2B1k/1n1p1Q2/3PP2P/2P3b1/5N2/P1P2KP1/R6R w - - 1 22,
+43,Ng5#,f3g5,r1q1rn2/ppp2B1k/1n1p1Q2/3PP1NP/2P3b1/8/P1P2KP1/R6R b - - 2 22,

@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,A traditional KID formation forms.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,A traditional KID formation forms.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,A traditional KID formation forms.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,A traditional KID formation forms.
+5,Bf4,c1f4,rnbqkb1r/pppppp1p/5np1/8/2PP1B2/8/PP2PPPP/RN1QKBNR b KQkq - 1 3,"The idea for this bishop move is to play Qd2 followed by Bh6 to encourage an exchange of bishops, to take away short castling from black and use a queen and king knight to play against the weakened black kingside."
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/8/PP2PPPP/RN1QKBNR w KQkq - 0 4,"Black plays immediately into the center, activating a bishop, creating central tension. The text move allows development of the white squared bishop outside the pawns before playing ...e6, which will give black some play against whites queenside which will discourage 0-0-0 for white."
+7,Nc3,b1c3,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 1 4,"Played with concepts from a QGD in mind where the knight prevents dxc4 from creating problems, and applying pressure to d5, and even presenting a tactical move like Nb5 with c7 as a target - a real vulnerability because white has good control of e5 which prevents the move ...e5 against the bishop."
+8,dxc4,d5c4,rnbqkb1r/ppp1pp1p/5np1/8/2pP1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 0 5,"Black releases tension early, a move sometimes played at top levels, but usually not the best idea due to developmental concerns, because it costs a tempo better used for piece development."
+9,Qd2,d1d2,rnbqkb1r/ppp1pp1p/5np1/8/2pP1B2/2N5/PP1QPPPP/R3KBNR b KQkq - 1 5,White continues with the planned strategy of exhanging bishops at h6.
+10,Bf5,c8f5,rn1qkb1r/ppp1pp1p/5np1/5b2/2pP1B2/2N5/PP1QPPPP/R3KBNR w KQkq - 2 6,"The bishop is played outside the pawns, which now allows ...e6 without creating a bad bishop."
+11,Nf3,g1f3,rn1qkb1r/ppp1pp1p/5np1/5b2/2pP1B2/2N2N2/PP1QPPPP/R3KB1R b KQkq - 3 6,The knight is an intregal part of the strategic kingside play and will be used with the queen after exchanging bishops.
+12,Nh5,f6h5,rn1qkb1r/ppp1pp1p/6p1/5b1n/2pP1B2/2N2N2/PP1QPPPP/R3KB1R w KQkq - 4 7,"? Black plays aggressively towards the bishop, but this does not counter whites strategy, and the knight has no continuation from h5 which offers an advantage. Better would be simply 6...Bg7 so that castling short can be played."
+13,Bh6,f4h6,rn1qkb1r/ppp1pp1p/6pB/5b1n/2pP4/2N2N2/PP1QPPPP/R3KB1R b KQkq - 5 7,White suggests an exchange of bishops.
+14,Bxh6,f8h6,rn1qk2r/ppp1pp1p/6pb/5b1n/2pP4/2N2N2/PP1QPPPP/R3KB1R w KQkq - 0 8,An alternative was 7...Nc6 with long castling in mind.
+15,Qxh6,d2h6,rn1qk2r/ppp1pp1p/6pQ/5b1n/2pP4/2N2N2/PP2PPPP/R3KB1R b KQkq - 0 8,"+/= White gains some advantage kingside by taking away short castling, the followup Ng5 will begin the buildup of pressure against the weakened position."
+16,Nf6,h5f6,rn1qk2r/ppp1pp1p/5npQ/5b2/2pP4/2N2N2/PP2PPPP/R3KB1R w KQkq - 1 9,"Activating the bishop, enables Bxc4, strengthens d4 so the f3 knight is free to move."
+17,e3,e2e3,rn1qk2r/ppp1pp1p/5npQ/5b2/2pP4/2N1PN2/PP3PPP/R3KB1R b KQkq - 0 9,"Activating the bishop, enables Bxc4, strengthens d4 so the f3 knight is free to move."
+18,Rg8,h8g8,rn1qk1r1/ppp1pp1p/5npQ/5b2/2pP4/2N1PN2/PP3PPP/R3KB1R w KQq - 1 10,Prevents Qg7.
+19,Bxc4,f1c4,rn1qk1r1/ppp1pp1p/5npQ/5b2/2BP4/2N1PN2/PP3PPP/R3K2R b KQq - 0 10,Equalizing materially while bringing additional threat to the black position.
+20,Rh8,g8h8,rn1qk2r/ppp1pp1p/5npQ/5b2/2BP4/2N1PN2/PP3PPP/R3K2R w KQq - 1 11,Assumedly played in anticipation of Ng5 where the knight can take h7 afterwards.
+21,Ng5,f3g5,rn1qk2r/ppp1pp1p/5npQ/5bN1/2BP4/2N1P3/PP3PPP/R3K2R b KQq - 2 11,The threat is Nxf7.
+22,e6,e7e6,rn1qk2r/ppp2p1p/4pnpQ/5bN1/2BP4/2N1P3/PP3PPP/R3K2R w KQq - 0 12,An essential counter.
+23,Qg7,h6g7,rn1qk2r/ppp2pQp/4pnp1/5bN1/2BP4/2N1P3/PP3PPP/R3K2R b KQq - 1 12,"?! Playing to take away black strengths a little, not a simple solution to this problem, but h7 becomes weak after ...Rf8."
+24,Rf8,h8f8,rn1qkr2/ppp2pQp/4pnp1/5bN1/2BP4/2N1P3/PP3PPP/R3K2R w KQq - 2 13,"A creative idea flashes into my mind where I create a positional bishop sacrifice, well not completely because the f5 bishop is under fire from the pawn and can be eliminated by further pawn moves. The idea is (13...Qxd4 14.exf4 Qxc4 15.fxe6), and the AI finds a reasonable alternative to this line where black begins a pawn feeding frenzy to material gain, but positional loss."
+25,e4,e3e4,rn1qkr2/ppp2pQp/4pnp1/5bN1/2BPP3/2N5/PP3PPP/R3K2R b KQq - 0 13,"A creative idea flashes into my mind where I create a positional bishop sacrifice, well not completely because the f5 bishop is under fire from the pawn and can be eliminated by further pawn moves. The idea is (13...Qxd4 14.exf4 Qxc4 15.fxe6), and the AI finds a reasonable alternative to this line where black begins a pawn feeding frenzy to material gain, but positional loss."

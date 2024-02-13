@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"My regular opening, the Reti."
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,Developing his queens-knight. Other good moves were 1. ... d5; 1. ... Nf6 or 1. ... c5 (leading into a Sicilian).
+3,d4,d2d4,r1bqkbnr/pppppppp/2n5/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,Making a c1-h6-diagonal for my black bishop..
+4,d5,d7d5,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Making place to deposit his bishop on g4 ?
+5,Nc3,b1c3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 1 3,"This is somewhat a ""closed fourknights-game"" ? (while using the d-pawns, instead of the e-pawns ?)"
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 2 4,"This is somewhat a ""closed fourknights-game"" ? (while using the d-pawns, instead of the e-pawns ?)"
+7,Bf4,c1f4,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 3 4,Normal developing..
+8,h6,h7h6,r1bqkb1r/ppp1ppp1/2n2n1p/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5,I think this is a lost move for black; since I could've played directly 4. Bg5.
+9,h3,h2h3,r1bqkb1r/ppp1ppp1/2n2n1p/3p4/3P1B2/2N2N1P/PPP1PPP1/R2QKB1R b KQkq - 0 5,"Preventing black to play 5. ... Bg4. Also a lost move; since white could undo this threat by playing 5. e3; while opening a line for his king's bishop, in meanwhile.."
+10,e6,e7e6,r1bqkb1r/ppp2pp1/2n1pn1p/3p4/3P1B2/2N2N1P/PPP1PPP1/R2QKB1R w KQkq - 0 6,Pinning my knight in front of my king.. A good following move could be 7. ... Ne4.
+11,e3,e2e3,r1bqkb1r/ppp2pp1/2n1pn1p/3p4/3P1B2/2N1PN1P/PPP2PP1/R2QKB1R b KQkq - 0 6,Pinning my knight in front of my king.. A good following move could be 7. ... Ne4.
+12,Bb4,f8b4,r1bqk2r/ppp2pp1/2n1pn1p/3p4/1b1P1B2/2N1PN1P/PPP2PP1/R2QKB1R w KQkq - 1 7,Pinning my knight in front of my king.. A good following move could be 7. ... Ne4.
+13,Qd2,d1d2,r1bqk2r/ppp2pp1/2n1pn1p/3p4/1b1P1B2/2N1PN1P/PPPQ1PP1/R3KB1R b KQkq - 2 7,"7. Bd3 or 7. Bb5 was better, in my opinion.. If 7. ... Bxc3 8. bxc3; that would give me a nice open b-line for my rook, while having a strong pawn-center.. Yes, but also an isolated a-pawn; wich isn't that good..  Hard choice !"
+14,Ne4,f6e4,r1bqk2r/ppp2pp1/2n1p2p/3p4/1b1PnB2/2N1PN1P/PPPQ1PP1/R3KB1R w KQkq - 3 8,As expected..
+15,Qd3,d2d3,r1bqk2r/ppp2pp1/2n1p2p/3p4/1b1PnB2/2NQPN1P/PPP2PP1/R3KB1R b KQkq - 4 8,Giving some pressure in the center.. Note black's knight on e4; excellent position !
+16,O-O,e8g8,r1bq1rk1/ppp2pp1/2n1p2p/3p4/1b1PnB2/2NQPN1P/PPP2PP1/R3KB1R w KQ - 5 9,Giving some pressure in the center.. Note black's knight on e4; excellent position !
+17,Ne5,f3e5,r1bq1rk1/ppp2pp1/2n1p2p/3pN3/1b1PnB2/2NQP2P/PPP2PP1/R3KB1R b KQ - 6 9,Giving some pressure in the center.. Note black's knight on e4; excellent position !
+18,Nxe5,c6e5,r1bq1rk1/ppp2pp1/4p2p/3pn3/1b1PnB2/2NQP2P/PPP2PP1/R3KB1R w KQ - 0 10,"Black has the initiative now.. If 11. dxc5 Nxc5 --> My queen needs to move.. If white plays something else, then probably 11. ... c4 will come, and so the retreat of my queen.."
+19,Bxe5,f4e5,r1bq1rk1/ppp2pp1/4p2p/3pB3/1b1Pn3/2NQP2P/PPP2PP1/R3KB1R b KQ - 0 10,"Black has the initiative now.. If 11. dxc5 Nxc5 --> My queen needs to move.. If white plays something else, then probably 11. ... c4 will come, and so the retreat of my queen.."
+20,c5,c7c5,r1bq1rk1/pp3pp1/4p2p/2ppB3/1b1Pn3/2NQP2P/PPP2PP1/R3KB1R w KQ - 0 11,"Black has the initiative now.. If 11. dxc5 Nxc5 --> My queen needs to move.. If white plays something else, then probably 11. ... c4 will come, and so the retreat of my queen.."
+21,dxc5,d4c5,r1bq1rk1/pp3pp1/4p2p/2PpB3/1b2n3/2NQP2P/PPP2PP1/R3KB1R b KQ - 0 11,A nice place for white's Queen !! She's hunting after that uncovered black bishop !
+22,Nxc5,e4c5,r1bq1rk1/pp3pp1/4p2p/2npB3/1b6/2NQP2P/PPP2PP1/R3KB1R w KQ - 0 12,A nice place for white's Queen !! She's hunting after that uncovered black bishop !
+23,Qd4,d3d4,r1bq1rk1/pp3pp1/4p2p/2npB3/1b1Q4/2N1P2P/PPP2PP1/R3KB1R b KQ - 1 12,A nice place for white's Queen !! She's hunting after that uncovered black bishop !
+24,f6,f7f6,r1bq1rk1/pp4p1/4pp1p/2npB3/1b1Q4/2N1P2P/PPP2PP1/R3KB1R w KQ - 0 13,Not really a move to worry about.. 13. Qxb4 fxe5  14. Qxc5  and black is down a piece..
+25,Qxb4,d4b4,r1bq1rk1/pp4p1/4pp1p/2npB3/1Q6/2N1P2P/PPP2PP1/R3KB1R b KQ - 0 13,"This gives white the chance to withdraw his bishop on e5. Black is quite inactive at the moment.. Still 3 pieces that hasn't moved.. Ok, white also has 3 pieces that hasn't moved yet, but the white bishop guards the f1-a6-diagonal; where it can be usefull to reduce black knight's movement.."
+26,b6,b7b6,r1bq1rk1/p5p1/1p2pp1p/2npB3/1Q6/2N1P2P/PPP2PP1/R3KB1R w KQ - 0 14,"This gives white the chance to withdraw his bishop on e5. Black is quite inactive at the moment.. Still 3 pieces that hasn't moved.. Ok, white also has 3 pieces that hasn't moved yet, but the white bishop guards the f1-a6-diagonal; where it can be usefull to reduce black knight's movement.."
+27,Bg3,e5g3,r1bq1rk1/p5p1/1p2pp1p/2np4/1Q6/2N1P1BP/PPP2PP1/R3KB1R b KQ - 1 14,"Moving to a solid place in the center.. 15. ... e5 would lead to 16. Qxd5 , with queen-exchanging"
+28,a5,a7a5,r1bq1rk1/6p1/1p2pp1p/p1np4/1Q6/2N1P1BP/PPP2PP1/R3KB1R w KQ - 0 15,"Moving to a solid place in the center.. 15. ... e5 would lead to 16. Qxd5 , with queen-exchanging"
+29,Qd4,b4d4,r1bq1rk1/6p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP2PP1/R3KB1R b KQ - 1 15,"Moving to a solid place in the center.. 15. ... e5 would lead to 16. Qxd5 , with queen-exchanging"
+30,Bb7,c8b7,r2q1rk1/1b4p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP2PP1/R3KB1R w KQ - 2 16,Preparing castling on kingside..
+31,Be2,f1e2,r2q1rk1/1b4p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP1BPP1/R3K2R b KQ - 3 16,Preparing castling on kingside..
+32,Qe7,d8e7,r4rk1/1b2q1p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP1BPP1/R3K2R w KQ - 4 17,"I don't really understand this move.. In my opinion, the control over the open c-line is more important.."
+33,O-O,e1g1,r4rk1/1b2q1p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP1BPP1/R4RK1 b - - 5 17,"I don't really understand this move.. In my opinion, the control over the open c-line is more important.."
+34,Rad8,a8d8,3r1rk1/1b2q1p1/1p2pp1p/p1np4/3Q4/2N1P1BP/PPP1BPP1/R4RK1 w - - 6 18,"I don't really understand this move.. In my opinion, the control over the open c-line is more important.."
+35,b4,b2b4,3r1rk1/1b2q1p1/1p2pp1p/p1np4/1P1Q4/2N1P1BP/P1P1BPP1/R4RK1 b - - 0 18,Giving some pressure and starting an attack on white's queenside..

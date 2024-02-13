@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I play the usual King's pawn opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A normal game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,I attack the pawn with my knight.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,He attacks my pawn with his knight.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,I bring my other knight out.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,We have a four knights opening.
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,I bring my bishop out attacking the knight.
+8,Nd4,c6d4,r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,He comes in and attacks my knight. Not the usual move.
+9,O-O,e1g1,r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5,I castle.
+10,Nxf3+,d4f3,r1bqkb1r/pppp1ppp/5n2/1B2p3/4P3/2N2n2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,He takes my knight.
+11,Qxf3,d1f3,r1bqkb1r/pppp1ppp/5n2/1B2p3/4P3/2N2Q2/PPPP1PPP/R1B2RK1 b kq - 0 6,I take back with my queen.
+12,Be7,f8e7,r1bqk2r/ppppbppp/5n2/1B2p3/4P3/2N2Q2/PPPP1PPP/R1B2RK1 w kq - 1 7,"He moves his bishop out, probably to make room to castle."
+13,d3,d2d3,r1bqk2r/ppppbppp/5n2/1B2p3/4P3/2NP1Q2/PPP2PPP/R1B2RK1 b kq - 0 7,I move my pawn up.
+14,O-O,e8g8,r1bq1rk1/ppppbppp/5n2/1B2p3/4P3/2NP1Q2/PPP2PPP/R1B2RK1 w - - 1 8,He castles.
+15,Bg5,c1g5,r1bq1rk1/ppppbppp/5n2/1B2p1B1/4P3/2NP1Q2/PPP2PPP/R4RK1 b - - 2 8,I bring my bishop out attacking his other knight.
+16,c6,c7c6,r1bq1rk1/pp1pbppp/2p2n2/1B2p1B1/4P3/2NP1Q2/PPP2PPP/R4RK1 w - - 0 9,"He moves his pawn, attacking my bishop."
+17,Bc4,b5c4,r1bq1rk1/pp1pbppp/2p2n2/4p1B1/2B1P3/2NP1Q2/PPP2PPP/R4RK1 b - - 1 9,I move my bishop back.
+18,b5,b7b5,r1bq1rk1/p2pbppp/2p2n2/1p2p1B1/2B1P3/2NP1Q2/PPP2PPP/R4RK1 w - - 0 10,He moves another pawn up attacking my bishop.
+19,Bb3,c4b3,r1bq1rk1/p2pbppp/2p2n2/1p2p1B1/4P3/1BNP1Q2/PPP2PPP/R4RK1 b - - 1 10,I move my bishop back.
+20,a5,a7a5,r1bq1rk1/3pbppp/2p2n2/pp2p1B1/4P3/1BNP1Q2/PPP2PPP/R4RK1 w - - 0 11,He moves another pawn up thats about to attack me.

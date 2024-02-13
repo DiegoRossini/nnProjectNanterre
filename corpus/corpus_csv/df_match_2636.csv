@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Reversed Sicilian
+3,e3,e2e3,rnbqkbnr/pppp1ppp/8/4p3/2P5/4P3/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Developing toward the center.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/4P3/PP1P1PPP/RNBQKBNR w KQkq - 1 3,Developing toward the center.
+5,a3,a2a3,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/P3P3/1P1P1PPP/RNBQKBNR b KQkq - 0 3,"Preparing b4, and a possible queenside attack."
+6,d5,d7d5,rnbqkb1r/ppp2ppp/5n2/3pp3/2P5/P3P3/1P1P1PPP/RNBQKBNR w KQkq - 0 4,"Occupying the center, and releasing the path for my light squared bishop. Now all of my pieces can develop with relative ease."
+7,cxd5,c4d5,rnbqkb1r/ppp2ppp/5n2/3Pp3/8/P3P3/1P1P1PPP/RNBQKBNR b KQkq - 0 4,My knight is in a good square. My opponent should probably try to get it out of there.
+8,Nxd5,f6d5,rnbqkb1r/ppp2ppp/8/3np3/8/P3P3/1P1P1PPP/RNBQKBNR w KQkq - 0 5,My knight is in a good square. My opponent should probably try to get it out of there.
+9,b4,b2b4,rnbqkb1r/ppp2ppp/8/3np3/1P6/P3P3/3P1PPP/RNBQKBNR b KQkq - 0 5,"He doesn't. He prepares Bb2, and grabs some queenside space. However, I can get some initiative due to his lack of development."
+10,Bf5,c8f5,rn1qkb1r/ppp2ppp/8/3npb2/1P6/P3P3/3P1PPP/RNBQKBNR w KQkq - 1 6,"Developing my piece towards the center, and trying to prevent e4."
+11,Bb2,c1b2,rn1qkb1r/ppp2ppp/8/3npb2/1P6/P3P3/1B1P1PPP/RN1QKBNR b KQkq - 2 6,He develops his bishop to control the very long diagonal. This bishop can become very powerful if I am not careful.
+12,Bd6,f8d6,rn1qk2r/ppp2ppp/3b4/3npb2/1P6/P3P3/1B1P1PPP/RN1QKBNR w KQkq - 3 7,Defending the pawn and developing another piece.
+13,d4,d2d4,rn1qk2r/ppp2ppp/3b4/3npb2/1P1P4/P3P3/1B3PPP/RN1QKBNR b KQkq - 0 7,Challenging my e5 pawn.
+14,exd4,e5d4,rn1qk2r/ppp2ppp/3b4/3n1b2/1P1p4/P3P3/1B3PPP/RN1QKBNR w KQkq - 0 8,Challenge accepted.
+15,Bxd4,b2d4,rn1qk2r/ppp2ppp/3b4/3n1b2/1P1B4/P3P3/5PPP/RN1QKBNR b KQkq - 0 8,Perhaps he should have taken with the queen. So that he didn't fall behind so much in development and gained some attacking chances.
+16,O-O,e8g8,rn1q1rk1/ppp2ppp/3b4/3n1b2/1P1B4/P3P3/5PPP/RN1QKBNR w KQ - 1 9,"My king is safe for now, and his king is still in the center. Most of my minor pieces have been developed, and he has only one minor piece developed. I should probably begin to push."
+17,Nd2,b1d2,rn1q1rk1/ppp2ppp/3b4/3n1b2/1P1B4/P3P3/3N1PPP/R2QKBNR b KQ - 2 9,"Perhaps he should have developed his bishop to c4, attacking my d5 knight, and forcing me to defend or move it, and getting a step closer to castling kingside. Another consideration should be his knight to f3, which would have gotten him closer to castling kingside and would have helped control the e5 and d4 central squares. What Nd2 does though, is threaten a fork with e4! If I don't play judiciously, I could get behind in material."
+18,Re8,f8e8,rn1qr1k1/ppp2ppp/3b4/3n1b2/1P1B4/P3P3/3N1PPP/R2QKBNR w KQ - 3 10,"Taking control of the semi-open file with my rook. Prevents the e4 fork, pins the e3 pawn to the king, and prepares a nasty tactic which could have been the clincher."
+19,g3,g2g3,rn1qr1k1/ppp2ppp/3b4/3n1b2/1P1B4/P3P1P1/3N1P1P/R2QKBNR b KQ - 0 10,"Another pawn move. Let's count his pawn moves. c4, one, e3, two, a3, three, b4, four, d4, five, g3, six. Six pawn moves. Six pawn moves in the first ten moves. As a general rule, you shouldn't play more than two or three pawn moves in the opening phase of the game, especially if the center is not closed, or fixed, and especially if you're behind in development. There are exceptions to the rule, of course, but in this case he should have kept developing instead of moving his pawns.
+
+I have developed all but one of my minor pieces, my king is safely castled, my rook, my bishops, and my knight control the center. My opponent hasn't castled, hasn't developed his kingside at all, and has minimal control of the center. How do you think I should proceed?"
+20,Bxb4,d6b4,rn1qr1k1/ppp2ppp/8/3n1b2/1b1B4/P3P1P1/3N1P1P/R2QKBNR w KQ - 0 11,"This is the beginning of a combination I had prepared. If he doesn't take my bishop, my queenside pawn majority, and my lead in development should prove to be a winning advantage."
+21,axb4,a3b4,rn1qr1k1/ppp2ppp/8/3n1b2/1P1B4/4P1P1/3N1P1P/R2QKBNR b KQ - 0 11,"So he takes, allowing a nasty tactic to take place."
+22,Nxb4,d5b4,rn1qr1k1/ppp2ppp/8/5b2/1n1B4/4P1P1/3N1P1P/R2QKBNR w KQ - 0 12,"This is a lethal double threat. I am threatening to take his d4 bishop with my queen, since it's pinned due to his king being on the same semi-open file as my rook. I am also threatening to fork his king and his rook by way of Nc2+. Besides winning the exchange, this second threat also takes away white's ability to castle, which would be devastating since his king would remain in the center with little chances of surviving without heavy loss of material."

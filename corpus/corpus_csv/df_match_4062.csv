@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,"The first move, which is used to try and make the player take it."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,"Someone else sees an unprotected pawn, so goes for it."
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/8/4p3/1P6/8/PBPPPPPP/RN1QKBNR b KQkq - 1 2,Someone lets greedy Someone else have the pawn.
+4,Bxb4,f8b4,rnbqk1nr/pppp1ppp/8/4p3/1b6/8/PBPPPPPP/RN1QKBNR w KQkq - 0 3,Greedy Someone else takes the pawn.
+5,f4,f2f4,rnbqk1nr/pppp1ppp/8/4p3/1b3P2/8/PBPPP1PP/RN1QKBNR b KQkq - 0 3,"Now, if greedy Someone else is feeling really greedy, he will capture the pawn and lose his own pawn and a rook."
+6,exf4,e5f4,rnbqk1nr/pppp1ppp/8/8/1b3p2/8/PBPPP1PP/RN1QKBNR w KQkq - 0 4,Someone else is really greedy today!
+7,Bxg7,b2g7,rnbqk1nr/pppp1pBp/8/8/1b3p2/8/P1PPP1PP/RN1QKBNR b KQkq - 0 4,"Now Someone gets the pawn, and in the next move a rook."
+8,f6,f7f6,rnbqk1nr/pppp2Bp/5p2/8/1b3p2/8/P1PPP1PP/RN1QKBNR w KQkq - 0 5,Someone else gasps and tries to block in the bishop…
+9,Bxh8,g7h8,rnbqk1nB/pppp3p/5p2/8/1b3p2/8/P1PPP1PP/RN1QKBNR b KQq - 0 5,…Who takes Someone else's rook.
+10,Nh6,g8h6,rnbqk2B/pppp3p/5p1n/8/1b3p2/8/P1PPP1PP/RN1QKBNR w KQq - 1 6,Someone else is going to try to get the bishop now.
+11,a3,a2a3,rnbqk2B/pppp3p/5p1n/8/1b3p2/P7/2PPP1PP/RN1QKBNR b KQq - 0 6,Threatens bishop in order to open up the queen and bishop.
+12,Bc5,b4c5,rnbqk2B/pppp3p/5p1n/2b5/5p2/P7/2PPP1PP/RN1QKBNR w KQq - 1 7,Someone else retreats one square.
+13,d4,d2d4,rnbqk2B/pppp3p/5p1n/2b5/3P1p2/P7/2P1P1PP/RN1QKBNR b KQq - 0 7,Only to be threatened again.
+14,Bd6,c5d6,rnbqk2B/pppp3p/3b1p1n/8/3P1p2/P7/2P1P1PP/RN1QKBNR w KQq - 1 8,He retreats one square again.
+15,Qd2,d1d2,rnbqk2B/pppp3p/3b1p1n/8/3P1p2/P7/2PQP1PP/RN2KBNR b KQq - 2 8,"Pushes up queen to play e3, opening up the bishop."
+16,Kf7,e8f7,rnbq3B/pppp1k1p/3b1p1n/8/3P1p2/P7/2PQP1PP/RN2KBNR w KQ - 3 9,"Greedy Someone else threatens the bishop, who is trapped."
+17,Bxf6,h8f6,rnbq4/pppp1k1p/3b1B1n/8/3P1p2/P7/2PQP1PP/RN2KBNR b KQ - 0 9,The trapped bishop receives a pawn.
+18,Qxf6,d8f6,rnb5/pppp1k1p/3b1q1n/8/3P1p2/P7/2PQP1PP/RN2KBNR w KQ - 0 10,And is taken by the queen.
+19,Nf3,g1f3,rnb5/pppp1k1p/3b1q1n/8/3P1p2/P4N2/2PQP1PP/RN2KB1R b KQ - 1 10,Developing.
+20,Nc6,b8c6,r1b5/pppp1k1p/2nb1q1n/8/3P1p2/P4N2/2PQP1PP/RN2KB1R w KQ - 2 11,Someone else develops as well.

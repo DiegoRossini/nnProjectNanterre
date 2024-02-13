@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"So this is the second of the ""high draws"" which my over-the-board team mate vectevs made, which I offered to annotate."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,So it starts as a standard Nimzo-Indian. https://en.wikipedia.org/wiki/Nimzo-Indian_Defence
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,So it starts as a standard Nimzo-Indian. https://en.wikipedia.org/wiki/Nimzo-Indian_Defence
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,So it starts as a standard Nimzo-Indian. https://en.wikipedia.org/wiki/Nimzo-Indian_Defence
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,So it starts as a standard Nimzo-Indian. https://en.wikipedia.org/wiki/Nimzo-Indian_Defence
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,So it starts as a standard Nimzo-Indian. https://en.wikipedia.org/wiki/Nimzo-Indian_Defence
+7,Bd2,c1d2,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP1BPPPP/R2QKBNR b KQkq - 3 4,"This is an unusual reply. To quote the Wikipedia article I have just referred to ""unpinning the knight, is a move that is common among amateurs who have no theoretical knowledge when they face the Nimzo-Indian. Although the move is not bad, it is unambitious. The strategic aim of obtaining the bishop pair without conceding the doubled pawns fails, for after e.g., 4...Bxc3 5.Bxc3 Ne4, White does not get to keep both bishops, and fair trades are usually not in White's interests since White has an advantage in space."""
+8,O-O,e8g8,rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N5/PP1BPPPP/R2QKBNR w KQ - 4 5,This seems a sensible move by black.
+9,a3,a2a3,rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/P1N5/1P1BPPPP/R2QKBNR b KQ - 0 5,A logical follow-up.
+10,Bxc3,b4c3,rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1b5/1P1BPPPP/R2QKBNR w KQ - 0 6,So black takes.
+11,Bxc3,d2c3,rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1B5/1P2PPPP/R2QKBNR b KQ - 0 6,White takes back.
+12,Ne4,f6e4,rnbq1rk1/pppp1ppp/4p3/8/2PPn3/P1B5/1P2PPPP/R2QKBNR w KQ - 1 7,And now black ensures white doesn't keep the two bishops.
+13,Qc2,d1c2,rnbq1rk1/pppp1ppp/4p3/8/2PPn3/P1B5/1PQ1PPPP/R3KBNR b KQ - 2 7,And white ensures that his c pawns are not doubled.
+14,d5,d7d5,rnbq1rk1/ppp2ppp/4p3/3p4/2PPn3/P1B5/1PQ1PPPP/R3KBNR w KQ - 0 8,"This is slightly unusual, in that either f5 or Nxc3 is more common, but I can't see anything wrong with it."
+15,e3,e2e3,rnbq1rk1/ppp2ppp/4p3/3p4/2PPn3/P1B1P3/1PQ2PPP/R3KBNR b KQ - 0 8,So white continues with sensible development.
+16,c5,c7c5,rnbq1rk1/pp3ppp/4p3/2pp4/2PPn3/P1B1P3/1PQ2PPP/R3KBNR w KQ - 0 9,"8....c5 is given as a mistake by the Gameknot computer, which gives the line Nxc3 9. Qxc3 dxc4 10. Qxc4 Bd7 11. Nf3 Bc6 12. Bd3 Bxf3 13. gxf3 Nc6 14. O-O-O Qh4 15. d5 Qxc4+ 16. Bxc4 Ne5. 8....c5 does seem to run the risk of losing a pawn without compensation, unless black is very careful."
+17,dxc5,d4c5,rnbq1rk1/pp3ppp/4p3/2Pp4/2P1n3/P1B1P3/1PQ2PPP/R3KBNR b KQ - 0 9,Black takes - why not?
+18,Nxc3,e4c3,rnbq1rk1/pp3ppp/4p3/2Pp4/2P5/P1n1P3/1PQ2PPP/R3KBNR w KQ - 0 10,"Black takes. Black could have captured the pawn on c5 with his knight. The one game in the Gameknot database with this move is kikso (1691) vs. glacerda (1506) Nxc5 which ended with 10. cxd5 exd5 11. Bxg7 Kxg7 12. Qxc5	b6 13. Qd4+ f6 14. Bd3	Nc6 15. Qh4 Ne5 16. Qxh7#. But there are improvements black could have made, for instance on 10. recapturing with the queen rather than the pawn."
+19,Qxc3,c2c3,rnbq1rk1/pp3ppp/4p3/2Pp4/2P5/P1Q1P3/1P3PPP/R3KBNR b KQ - 0 10,White recaptures.
+20,Na6,b8a6,r1bq1rk1/pp3ppp/n3p3/2Pp4/2P5/P1Q1P3/1P3PPP/R3KBNR w KQ - 1 11,Black attempted to recapture the pawn.
+21,cxd5,c4d5,r1bq1rk1/pp3ppp/n3p3/2PP4/8/P1Q1P3/1P3PPP/R3KBNR b KQ - 0 11,White does another exchange.
+22,Qxd5,d8d5,r1b2rk1/pp3ppp/n3p3/2Pq4/8/P1Q1P3/1P3PPP/R3KBNR w KQ - 0 12,"Black recaptures this way, to double the attack on c5."
+23,b4,b2b4,r1b2rk1/pp3ppp/n3p3/2Pq4/1P6/P1Q1P3/5PPP/R3KBNR b KQ - 0 12,But white simply protects.
+24,Rd8,f8d8,r1br2k1/pp3ppp/n3p3/2Pq4/1P6/P1Q1P3/5PPP/R3KBNR w KQ - 1 13,"Black gains control of the d file, but this shouldn't really be enough compensation."

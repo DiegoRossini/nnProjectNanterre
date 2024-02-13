@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Philidor's Defense.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Philidor's Defense.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Philidor's Defense.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Philidor's Defense.
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,Steinitz variation of Philidor's defense.
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"QxBf3 sets white up for the ""four move"" checkmate."
+7,h3,h2h3,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/5N1P/PPPP1PP1/RNBQK2R b KQkq - 0 4,"QxBf3 sets white up for the ""four move"" checkmate."
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P3/5b1P/PPPP1PP1/RNBQK2R w KQkq - 0 5,"QxBf3 sets white up for the ""four move"" checkmate."
+9,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P3/5Q1P/PPPP1PP1/RNB1K2R b KQkq - 0 5,"White now has two pawns in the field, a queen and bishop, and is set to castle on the king's side.  Black has two pawns, making him a little underdeveloped."
+10,f6,f7f6,rn1qkbnr/ppp3pp/3p1p2/4p3/2B1P3/5Q1P/PPPP1PP1/RNB1K2R w KQkq - 0 6,That works to prevent rapid mate.
+11,O-O,e1g1,rn1qkbnr/ppp3pp/3p1p2/4p3/2B1P3/5Q1P/PPPP1PP1/RNB2RK1 b kq - 1 6,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+12,a6,a7a6,rn1qkbnr/1pp3pp/p2p1p2/4p3/2B1P3/5Q1P/PPPP1PP1/RNB2RK1 w kq - 0 7,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+13,d3,d2d3,rn1qkbnr/1pp3pp/p2p1p2/4p3/2B1P3/3P1Q1P/PPP2PP1/RNB2RK1 b kq - 0 7,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+14,Ne7,g8e7,rn1qkb1r/1pp1n1pp/p2p1p2/4p3/2B1P3/3P1Q1P/PPP2PP1/RNB2RK1 w kq - 1 8,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+15,Nc3,b1c3,rn1qkb1r/1pp1n1pp/p2p1p2/4p3/2B1P3/2NP1Q1P/PPP2PP1/R1B2RK1 b kq - 2 8,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+16,Nbc6,b8c6,r2qkb1r/1pp1n1pp/p1np1p2/4p3/2B1P3/2NP1Q1P/PPP2PP1/R1B2RK1 w kq - 3 9,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+17,Be3,c1e3,r2qkb1r/1pp1n1pp/p1np1p2/4p3/2B1P3/2NPBQ1P/PPP2PP1/R4RK1 b kq - 4 9,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+18,Nb4,c6b4,r2qkb1r/1pp1n1pp/p2p1p2/4p3/1nB1P3/2NPBQ1P/PPP2PP1/R4RK1 w kq - 5 10,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+19,Rac1,a1c1,r2qkb1r/1pp1n1pp/p2p1p2/4p3/1nB1P3/2NPBQ1P/PPP2PP1/2R2RK1 b kq - 6 10,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+20,Nbc6,b4c6,r2qkb1r/1pp1n1pp/p1np1p2/4p3/2B1P3/2NPBQ1P/PPP2PP1/2R2RK1 w kq - 7 11,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+21,a3,a2a3,r2qkb1r/1pp1n1pp/p1np1p2/4p3/2B1P3/P1NPBQ1P/1PP2PP1/2R2RK1 b kq - 0 11,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+22,Qd7,d8d7,r3kb1r/1ppqn1pp/p1np1p2/4p3/2B1P3/P1NPBQ1P/1PP2PP1/2R2RK1 w kq - 1 12,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+23,Nd5,c3d5,r3kb1r/1ppqn1pp/p1np1p2/3Np3/2B1P3/P2PBQ1P/1PP2PP1/2R2RK1 b kq - 2 12,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+24,Nxd5,e7d5,r3kb1r/1ppq2pp/p1np1p2/3np3/2B1P3/P2PBQ1P/1PP2PP1/2R2RK1 w kq - 0 13,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+25,Bxd5,c4d5,r3kb1r/1ppq2pp/p1np1p2/3Bp3/4P3/P2PBQ1P/1PP2PP1/2R2RK1 b kq - 0 13,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+26,Be7,f8e7,r3k2r/1ppqb1pp/p1np1p2/3Bp3/4P3/P2PBQ1P/1PP2PP1/2R2RK1 w kq - 1 14,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+27,b4,b2b4,r3k2r/1ppqb1pp/p1np1p2/3Bp3/1P2P3/P2PBQ1P/2P2PP1/2R2RK1 b kq - 0 14,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+28,b5,b7b5,r3k2r/2pqb1pp/p1np1p2/1p1Bp3/1P2P3/P2PBQ1P/2P2PP1/2R2RK1 w kq - 0 15,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+29,c4,c2c4,r3k2r/2pqb1pp/p1np1p2/1p1Bp3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 b kq - 0 15,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+30,Na7,c6a7,r3k2r/n1pqb1pp/p2p1p2/1p1Bp3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 w kq - 1 16,?  This was a terrible idea.  Ra8 is sacrificed--a completely free rook.
+31,Bxa8,d5a8,B3k2r/n1pqb1pp/p2p1p2/1p2p3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 b k - 0 16,"Nothing is protecting BxNa7.  White will probably move Bd5+ first, then nab the knight for free.  My recommendation is Pc6, to first trap the bishop behind its enemy lines."
+32,O-O,e8g8,B4rk1/n1pqb1pp/p2p1p2/1p2p3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 w - - 1 17,"Nothing is protecting BxNa7.  White will probably move Bd5+ first, then nab the knight for free.  My recommendation is Pc6, to first trap the bishop behind its enemy lines."
+33,Bd5+,a8d5,5rk1/n1pqb1pp/p2p1p2/1p1Bp3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 b - - 2 17,c6 makes white choose which bishop to lose.
+34,Kh8,g8h8,5r1k/n1pqb1pp/p2p1p2/1p1Bp3/1PP1P3/P2PBQ1P/5PP1/2R2RK1 w - - 3 18,c6 makes white choose which bishop to lose.
+35,Bxa7,e3a7,5r1k/B1pqb1pp/p2p1p2/1p1Bp3/1PP1P3/P2P1Q1P/5PP1/2R2RK1 b - - 0 18,c6 makes white choose which bishop to lose.
+36,c6,c7c6,5r1k/B2qb1pp/p1pp1p2/1p1Bp3/1PP1P3/P2P1Q1P/5PP1/2R2RK1 w - - 0 19,Good!
+37,Qe3,f3e3,5r1k/B2qb1pp/p1pp1p2/1p1Bp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 b - - 1 19,"White chooses white, doubling black's pawns."
+38,c5,c6c5,5r1k/B2qb1pp/p2p1p2/1ppBp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 w - - 0 20,"?  PxBd5, PxP.  White gains back two points.  Here Bb6 preserves white's black bishop."
+39,Bb6,a7b6,5r1k/3qb1pp/pB1p1p2/1ppBp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 b - - 1 20,Down eight points black is better off NOT offering even trades.
+40,Bd8,e7d8,3b1r1k/3q2pp/pB1p1p2/1ppBp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 w - - 2 21,Down eight points black is better off NOT offering even trades.
+41,Ba5,b6a5,3b1r1k/3q2pp/p2p1p2/BppBp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 b - - 3 21,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+42,Bxa5,d8a5,5r1k/3q2pp/p2p1p2/bppBp3/1PP1P3/P2PQ2P/5PP1/2R2RK1 w - - 0 22,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+43,bxa5,b4a5,5r1k/3q2pp/p2p1p2/PppBp3/2P1P3/P2PQ2P/5PP1/2R2RK1 b - - 0 22,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+44,bxc4,b5c4,5r1k/3q2pp/p2p1p2/P1pBp3/2p1P3/P2PQ2P/5PP1/2R2RK1 w - - 0 23,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+45,Bxc4,d5c4,5r1k/3q2pp/p2p1p2/P1p1p3/2B1P3/P2PQ2P/5PP1/2R2RK1 b - - 0 23,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+46,Qa4,d7a4,5r1k/6pp/p2p1p2/P1p1p3/q1B1P3/P2PQ2P/5PP1/2R2RK1 w - - 1 24,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+47,Be6,c4e6,5r1k/6pp/p2pBp2/P1p1p3/q3P3/P2PQ2P/5PP1/2R2RK1 b - - 2 24,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+48,Qxa3,a4a3,5r1k/6pp/p2pBp2/P1p1p3/4P3/q2PQ2P/5PP1/2R2RK1 w - - 0 25,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+49,Bf5,e6f5,5r1k/6pp/p2p1p2/P1p1pB2/4P3/q2PQ2P/5PP1/2R2RK1 b - - 1 25,"White has moved this bishop three times, sacrificing the left side pawns in the process."
+50,Qxa5,a3a5,5r1k/6pp/p2p1p2/q1p1pB2/4P3/3PQ2P/5PP1/2R2RK1 w - - 0 26,With this move black sacrifices Pa6.
+51,Rca1,c1a1,5r1k/6pp/p2p1p2/q1p1pB2/4P3/3PQ2P/5PP1/R4RK1 b - - 1 26,With this move black sacrifices Pa6.
+52,Qb6,a5b6,5r1k/6pp/pq1p1p2/2p1pB2/4P3/3PQ2P/5PP1/R4RK1 w - - 2 27,With this move black sacrifices Pa6.
+53,f4,f2f4,5r1k/6pp/pq1p1p2/2p1pB2/4PP2/3PQ2P/6P1/R4RK1 b - - 0 27,With this move black sacrifices Pa6.
+54,g6,g7g6,5r1k/7p/pq1p1pp1/2p1pB2/4PP2/3PQ2P/6P1/R4RK1 w - - 0 28,With this move black sacrifices Pa6.
+55,Be6,f5e6,5r1k/7p/pq1pBpp1/2p1p3/4PP2/3PQ2P/6P1/R4RK1 b - - 1 28,With this move black sacrifices Pa6.
+56,Qb8,b6b8,1q3r1k/7p/p2pBpp1/2p1p3/4PP2/3PQ2P/6P1/R4RK1 w - - 2 29,With this move black sacrifices Pa6.
+57,Bc4,e6c4,1q3r1k/7p/p2p1pp1/2p1p3/2B1PP2/3PQ2P/6P1/R4RK1 b - - 3 29,RxPa6 looked better to me.  Bc4 could have waited.
+58,Qb2,b8b2,5r1k/7p/p2p1pp1/2p1p3/2B1PP2/3PQ2P/1q4P1/R4RK1 w - - 4 30,"White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway."
+59,fxe5,f4e5,5r1k/7p/p2p1pp1/2p1P3/2B1P3/3PQ2P/1q4P1/R4RK1 b - - 0 30,"White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway."
+60,Kg7,h8g7,5r2/6kp/p2p1pp1/2p1P3/2B1P3/3PQ2P/1q4P1/R4RK1 w - - 1 31,"White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway."
+61,exf6+,e5f6,5r2/6kp/p2p1Pp1/2p5/2B1P3/3PQ2P/1q4P1/R4RK1 b - - 0 31,"White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway."
+62,Rxf6,f8f6,8/6kp/p2p1rp1/2p5/2B1P3/3PQ2P/1q4P1/R4RK1 w - - 0 32,"White is likely to play RxPa6.  Ahead 7 points (or 8), white can then afford to trade down, increasing piece value in the process.  RxRf6 would be disastrous for white, because QxRa1+ would be followed by QxRf6.  Though black would only pick up 5 points-black has a lot of catching up to do.  And white probably won't make that mistake anyway."

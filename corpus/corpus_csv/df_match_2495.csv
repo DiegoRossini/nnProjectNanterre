@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I've decided to annotate this game for a number of reasons. Firstly it's between it's against an opponent 100 points north of my rating. It's from a Kings Gambit tournament and after the game ended, he was top of the ranking  with 11 points and I was joint next to bottom with 2. This is a fairly short game (22 moves) and the analysis suggests a total of only one inaccuracy, two mistakes and a single blunder which suggests to me that the game was fairly close overall
+
+I wanted to try this tournament as even though most opponents are higher ranked than me I though it would be interesting and that has certainly proved to be the case."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,starting position
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,starting position
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"The gameknot database suggests this favours black, though at this stage I'm not clear why. the computer calls this a mistake."
+5,d4,d2d4,rnbqkbnr/pppp1ppp/8/8/3PPp2/8/PPP3PP/RNBQKBNR b KQkq - 0 3,"The gameknot database suggests this favours black, though at this stage I'm not clear why. the computer calls this a mistake."
+6,Qh4+,d8h4,rnb1kbnr/pppp1ppp/8/8/3PPp1q/8/PPP3PP/RNBQKBNR w KQkq - 1 4,I'd already decided that I wanted to play aggressively and this seemed a reasonable start
+7,Ke2,e1e2,rnb1kbnr/pppp1ppp/8/8/3PPp1q/8/PPP1K1PP/RNBQ1BNR b kq - 2 4,frees the diagonal for the lsb to threaten to skewer the white queen with Bg4 though it can easily be parried
+8,d5,d7d5,rnb1kbnr/ppp2ppp/8/3p4/3PPp1q/8/PPP1K1PP/RNBQ1BNR w kq - 0 5,frees the diagonal for the lsb to threaten to skewer the white queen with Bg4 though it can easily be parried
+9,exd5,e4d5,rnb1kbnr/ppp2ppp/8/3P4/3P1p1q/8/PPP1K1PP/RNBQ1BNR b kq - 0 5,This seems a high risk approach to me as if I can castle quickly I can get a rook on the e file to threaten the white king
+10,Nf6,g8f6,rnb1kb1r/ppp2ppp/5n2/3P4/3P1p1q/8/PPP1K1PP/RNBQ1BNR w kq - 1 6,I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.
+11,Nf3,g1f3,rnb1kb1r/ppp2ppp/5n2/3P4/3P1p1q/5N2/PPP1K1PP/RNBQ1B1R b kq - 2 6,I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.
+12,Bg4,c8g4,rn2kb1r/ppp2ppp/5n2/3P4/3P1pbq/5N2/PPP1K1PP/RNBQ1B1R w kq - 3 7,I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.
+13,Qd3,d1d3,rn2kb1r/ppp2ppp/5n2/3P4/3P1pbq/3Q1N2/PPP1K1PP/RNB2B1R b kq - 4 7,I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.
+14,Bd6,f8d6,rn2k2r/ppp2ppp/3b1n2/3P4/3P1pbq/3Q1N2/PPP1K1PP/RNB2B1R w kq - 5 8,I can't yet see a better place for the bishop so I put it here so that I can castle and get my rook to the e file as planned. White looks a little cramped now.
+15,Qb5+,d3b5,rn2k2r/ppp2ppp/3b1n2/1Q1P4/3P1pbq/5N2/PPP1K1PP/RNB2B1R b kq - 6 8,"I think white here is trying to get some activity going and threatening the b7 pawn but I think I would be more worried about the open lines to my king. I had my eye on something like Ne4 followed by Qf2 which looks dangerous to me though I couldn't quite figure out how dangerous.
+
+The computer calls this an inaccuracy preferring  8. Kd2 Qf2+ 9. Qe2+ Qxe2+"
+16,Nbd7,b8d7,r3k2r/pppn1ppp/3b1n2/1Q1P4/3P1pbq/5N2/PPP1K1PP/RNB2B1R w kq - 7 9,"At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2."
+17,Nc3,b1c3,r3k2r/pppn1ppp/3b1n2/1Q1P4/3P1pbq/2N2N2/PPP1K1PP/R1B2B1R b kq - 8 9,"At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2."
+18,O-O,e8g8,r4rk1/pppn1ppp/3b1n2/1Q1P4/3P1pbq/2N2N2/PPP1K1PP/R1B2B1R w - - 9 10,"At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2."
+19,Kd1,e2d1,r4rk1/pppn1ppp/3b1n2/1Q1P4/3P1pbq/2N2N2/PPP3PP/R1BK1B1R b - - 10 10,"At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2."
+20,Rfe8,f8e8,r3r1k1/pppn1ppp/3b1n2/1Q1P4/3P1pbq/2N2N2/PPP3PP/R1BK1B1R w - - 11 11,"At this point I thought I might have been able to go for the kill but I couldn't see a way to achieve it, one possibility was Ne4 threatening the fork on f2."
+21,Bd2,c1d2,r3r1k1/pppn1ppp/3b1n2/1Q1P4/3P1pbq/2N2N2/PPPB2PP/R2K1B1R b - - 12 11,The computer calls this a mistake preferring  … Qf2 12. Qd3 Bb4 13. h3 Bxf3+ 14. Qxf3 Qxd4 15. Bd3 Nc5
+22,Ne4,f6e4,r3r1k1/pppn1ppp/3b4/1Q1P4/3Pnpbq/2N2N2/PPPB2PP/R2K1B1R w - - 13 12,The computer calls this a mistake preferring  … Qf2 12. Qd3 Bb4 13. h3 Bxf3+ 14. Qxf3 Qxd4 15. Bd3 Nc5
+23,Be1,d2e1,r3r1k1/pppn1ppp/3b4/1Q1P4/3Pnpbq/2N2N2/PPP3PP/R2KBB1R b - - 14 12,"The computer calls this a blunder and I agree, fortunately for me I saw the reason why."
+24,Qxe1+,h4e1,r3r1k1/pppn1ppp/3b4/1Q1P4/3Pnpb1/2N2N2/PPP3PP/R2KqB1R w - - 0 13,"This sort of exchange is always nerve wracking but I had looked at every other possibility I could think of and this seemed best, fortunately for me I hadn't miscalculated"
+25,Kxe1,d1e1,r3r1k1/pppn1ppp/3b4/1Q1P4/3Pnpb1/2N2N2/PPP3PP/R3KB1R b - - 0 13,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+26,Nxc3+,e4c3,r3r1k1/pppn1ppp/3b4/1Q1P4/3P1pb1/2n2N2/PPP3PP/R3KB1R w - - 0 14,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+27,Kf2,e1f2,r3r1k1/pppn1ppp/3b4/1Q1P4/3P1pb1/2n2N2/PPP2KPP/R4B1R b - - 1 14,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+28,Nxb5,c3b5,r3r1k1/pppn1ppp/3b4/1n1P4/3P1pb1/5N2/PPP2KPP/R4B1R w - - 0 15,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+29,Bxb5,f1b5,r3r1k1/pppn1ppp/3b4/1B1P4/3P1pb1/5N2/PPP2KPP/R6R b - - 0 15,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+30,Re7,e8e7,r5k1/pppnrppp/3b4/1B1P4/3P1pb1/5N2/PPP2KPP/R6R w - - 1 16,now I am a whole piece ahead on material I just need to ensure I don't make any mistakes
+31,Bxd7,b5d7,r5k1/pppBrppp/3b4/3P4/3P1pb1/5N2/PPP2KPP/R6R b - - 0 16,I was surprised and pleased with this exchange.
+32,Rxd7,e7d7,r5k1/pppr1ppp/3b4/3P4/3P1pb1/5N2/PPP2KPP/R6R w - - 0 17,I was surprised and pleased with this exchange.
+33,c4,c2c4,r5k1/pppr1ppp/3b4/3P4/2PP1pb1/5N2/PP3KPP/R6R b - - 0 17,i'm happy to exchange and white is letting me.
+34,Bxf3,g4f3,r5k1/pppr1ppp/3b4/3P4/2PP1p2/5b2/PP3KPP/R6R w - - 0 18,i'm happy to exchange and white is letting me.
+35,Kxf3,f2f3,r5k1/pppr1ppp/3b4/3P4/2PP1p2/5K2/PP4PP/R6R b - - 0 18,i'm happy to exchange and white is letting me.
+36,Re8,a8e8,4r1k1/pppr1ppp/3b4/3P4/2PP1p2/5K2/PP4PP/R6R w - - 1 19,i'm happy to exchange and white is letting me.
+37,Rae1,a1e1,4r1k1/pppr1ppp/3b4/3P4/2PP1p2/5K2/PP4PP/4R2R b - - 2 19,i'm happy to exchange and white is letting me.
+38,Rxe1,e8e1,6k1/pppr1ppp/3b4/3P4/2PP1p2/5K2/PP4PP/4r2R w - - 0 20,i'm happy to exchange and white is letting me.
+39,Rxe1,h1e1,6k1/pppr1ppp/3b4/3P4/2PP1p2/5K2/PP4PP/4R3 b - - 0 20,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+40,g5,g7g5,6k1/pppr1p1p/3b4/3P2p1/2PP1p2/5K2/PP4PP/4R3 w - - 0 21,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+41,c5,c4c5,6k1/pppr1p1p/3b4/2PP2p1/3P1p2/5K2/PP4PP/4R3 b - - 0 21,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+42,Bf8,d6f8,5bk1/pppr1p1p/8/2PP2p1/3P1p2/5K2/PP4PP/4R3 w - - 1 22,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+43,Re5,e1e5,5bk1/pppr1p1p/8/2PPR1p1/3P1p2/5K2/PP4PP/8 b - - 2 22,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."
+44,h6,h7h6,5bk1/pppr1p2/7p/2PPR1p1/3P1p2/5K2/PP4PP/8 w - - 0 23,"and white resigned, thanks for reading please comment and rate. I was very pleased with this win as it's one of the highest ranked players I have beaten without a timeout."

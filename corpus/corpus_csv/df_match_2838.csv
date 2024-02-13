@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,a4,a2a4,rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1,Freddy wins quickly. The thematic tournament position.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2,Freddy wins quickly. The thematic tournament position.
+3,a5,a4a5,rnbqkbnr/pppp1ppp/8/P3p3/8/8/1PPPPPPP/RNBQKBNR b KQkq - 0 2,Freddy wins quickly. The thematic tournament position.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/P2pp3/8/8/1PPPPPPP/RNBQKBNR w KQkq - 0 3,Freddy wins quickly. The thematic tournament position.
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/P2pp3/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 3,Freddy wins quickly. The thematic tournament position.
+6,f5,f7f5,rnbqkbnr/ppp3pp/8/P2ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 4,Freddy wins quickly. The thematic tournament position.
+7,a6,a5a6,rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 4,Freddy wins quickly. The thematic tournament position.
+8,Nxa6,b8a6,r1bqkbnr/ppp3pp/n7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 5,Black takes the pawn.
+9,Bxa6,f1a6,r1bqkbnr/ppp3pp/B7/3ppp2/8/4P3/1PPP1PPP/RNBQK1NR b KQkq - 0 5,Black does not want to exchange the bad bishop.
+10,bxa6,b7a6,r1bqkbnr/p1p3pp/p7/3ppp2/8/4P3/1PPP1PPP/RNBQK1NR w KQkq - 0 6,Black does not want to exchange the bad bishop.
+11,d4,d2d4,r1bqkbnr/p1p3pp/p7/3ppp2/3P4/4P3/1PP2PPP/RNBQK1NR b KQkq - 0 6,Black does not want to exchange the bad bishop.
+12,e4,e5e4,r1bqkbnr/p1p3pp/p7/3p1p2/3Pp3/4P3/1PP2PPP/RNBQK1NR w KQkq - 0 7,Black does not want to exchange the bad bishop.
+13,Ne2,g1e2,r1bqkbnr/p1p3pp/p7/3p1p2/3Pp3/4P3/1PP1NPPP/RNBQK2R b KQkq - 1 7,Black does not want to exchange the bad bishop.
+14,Bb4+,f8b4,r1bqk1nr/p1p3pp/p7/3p1p2/1b1Pp3/4P3/1PP1NPPP/RNBQK2R w KQkq - 2 8,Black does not want to exchange the bad bishop.
+15,Bd2,c1d2,r1bqk1nr/p1p3pp/p7/3p1p2/1b1Pp3/4P3/1PPBNPPP/RN1QK2R b KQkq - 3 8,Black does not want to exchange the bad bishop.
+16,Be7,b4e7,r1bqk1nr/p1p1b1pp/p7/3p1p2/3Pp3/4P3/1PPBNPPP/RN1QK2R w KQkq - 4 9,Black does not want to exchange the bad bishop.
+17,b3,b2b3,r1bqk1nr/p1p1b1pp/p7/3p1p2/3Pp3/1P2P3/2PBNPPP/RN1QK2R b KQkq - 0 9,White needs counterplay.
+18,Nf6,g8f6,r1bqk2r/p1p1b1pp/p4n2/3p1p2/3Pp3/1P2P3/2PBNPPP/RN1QK2R w KQkq - 1 10,White needs counterplay.
+19,c4,c2c4,r1bqk2r/p1p1b1pp/p4n2/3p1p2/2PPp3/1P2P3/3BNPPP/RN1QK2R b KQkq - 0 10,White needs counterplay.
+20,O-O,e8g8,r1bq1rk1/p1p1b1pp/p4n2/3p1p2/2PPp3/1P2P3/3BNPPP/RN1QK2R w KQ - 1 11,Risky because it gives more scope to the black bishops but undermines the center.
+21,cxd5,c4d5,r1bq1rk1/p1p1b1pp/p4n2/3P1p2/3Pp3/1P2P3/3BNPPP/RN1QK2R b KQ - 0 11,Risky because it gives more scope to the black bishops but undermines the center.
+22,Qxd5,d8d5,r1b2rk1/p1p1b1pp/p4n2/3q1p2/3Pp3/1P2P3/3BNPPP/RN1QK2R w KQ - 0 12,A strong reaponse. Nc5 now loses a pawn.
+23,Nbc3,b1c3,r1b2rk1/p1p1b1pp/p4n2/3q1p2/3Pp3/1PN1P3/3BNPPP/R2QK2R b KQ - 1 12,A strong reaponse. Nc5 now loses a pawn.
+24,Qf7,d5f7,r1b2rk1/p1p1bqpp/p4n2/5p2/3Pp3/1PN1P3/3BNPPP/R2QK2R w KQ - 2 13,A strong reaponse. Nc5 now loses a pawn.
+25,Na4,c3a4,r1b2rk1/p1p1bqpp/p4n2/5p2/N2Pp3/1P2P3/3BNPPP/R2QK2R b KQ - 3 13,A strong reaponse. Nc5 now loses a pawn.
+26,Be6,c8e6,r4rk1/p1p1bqpp/p3bn2/5p2/N2Pp3/1P2P3/3BNPPP/R2QK2R w KQ - 4 14,A strong reaponse. Nc5 now loses a pawn.
+27,Nc5,a4c5,r4rk1/p1p1bqpp/p3bn2/2N2p2/3Pp3/1P2P3/3BNPPP/R2QK2R b KQ - 5 14,? Move made without thought. Best was b4 with only a slight advantage for black.
+28,Bxc5,e7c5,r4rk1/p1p2qpp/p3bn2/2b2p2/3Pp3/1P2P3/3BNPPP/R2QK2R w KQ - 0 15,P
+29,dxc5,d4c5,r4rk1/p1p2qpp/p3bn2/2P2p2/4p3/1P2P3/3BNPPP/R2QK2R b KQ - 0 15,P
+30,Bxb3,e6b3,r4rk1/p1p2qpp/p4n2/2P2p2/4p3/1b2P3/3BNPPP/R2QK2R w KQ - 0 16,P
+31,Qc1,d1c1,r4rk1/p1p2qpp/p4n2/2P2p2/4p3/1b2P3/3BNPPP/R1Q1K2R b KQ - 1 16,P
+32,Bc4,b3c4,r4rk1/p1p2qpp/p4n2/2P2p2/2b1p3/4P3/3BNPPP/R1Q1K2R w KQ - 2 17,A good move; prevents 0-0 and protects a6. Black now has a won game.
+33,Ba5,d2a5,r4rk1/p1p2qpp/p4n2/B1P2p2/2b1p3/4P3/4NPPP/R1Q1K2R b KQ - 3 17,! Another nice move; sets a trap.
+34,Nd7,f6d7,r4rk1/p1pn1qpp/p7/B1P2p2/2b1p3/4P3/4NPPP/R1Q1K2R w KQ - 4 18,! Another nice move; sets a trap.
+35,Bxc7,a5c7,r4rk1/p1Bn1qpp/p7/2P2p2/2b1p3/4P3/4NPPP/R1Q1K2R b KQ - 0 18,?? This loses quickly.
+36,Nxc5,d7c5,r4rk1/p1B2qpp/p7/2n2p2/2b1p3/4P3/4NPPP/R1Q1K2R w KQ - 0 19,Excellent. Now black has a clear win.
+37,Kf1,e1f1,r4rk1/p1B2qpp/p7/2n2p2/2b1p3/4P3/4NPPP/R1Q2K1R b - - 1 19,Resignation is in order. White plays on a few more moves.
+38,Nb3,c5b3,r4rk1/p1B2qpp/p7/5p2/2b1p3/1n2P3/4NPPP/R1Q2K1R w - - 2 20,! Ingenious the threat is to take with check and then grab the Q and also to the rook.
+39,Qc3,c1c3,r4rk1/p1B2qpp/p7/5p2/2b1p3/1nQ1P3/4NPPP/R4K1R b - - 3 20,! Ingenious the threat is to take with check and then grab the Q and also to the rook.
+40,Qxc7,f7c7,r4rk1/p1q3pp/p7/5p2/2b1p3/1nQ1P3/4NPPP/R4K1R w - - 0 21,! Ingenious the threat is to take with check and then grab the Q and also to the rook.
+41,Rc1,a1c1,r4rk1/p1q3pp/p7/5p2/2b1p3/1nQ1P3/4NPPP/2R2K1R b - - 1 21,White resigns.
+42,Nxc1,b3c1,r4rk1/p1q3pp/p7/5p2/2b1p3/2Q1P3/4NPPP/2n2K1R w - - 0 22,White resigns.
+43,Qxc1,c3c1,r4rk1/p1q3pp/p7/5p2/2b1p3/4P3/4NPPP/2Q2K1R b - - 0 22,
+44,Rac8,a8c8,2r2rk1/p1q3pp/p7/5p2/2b1p3/4P3/4NPPP/2Q2K1R w - - 1 23,

@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"So, here we go"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"So, here we go"
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"So, here we go"
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"So, here we go"
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,"So, here we go"
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,"So, here we go"
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,"So, here we go"
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,"So, here we go"
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,"So, here we go"
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,"So, here we go"
+11,e4,e2e4,rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6,"So, here we go"
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7,following the main line
+13,Nf3,g1f3,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7,"To prevent Bb5, probably not the best option but an okay move and black's idea is to advane on the queen side."
+14,a6,a7a6,rnbqkb1r/1p3p1p/p2p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 8,"To prevent Bb5, probably not the best option but an okay move and black's idea is to advane on the queen side."
+15,Bf4,c1f4,rnbqkb1r/1p3p1p/p2p1np1/2pP4/4PB2/2N2N2/PP3PPP/R2QKB1R b KQkq - 1 8,White reinforces his center and prepare to castle.
+16,b5,b7b5,rnbqkb1r/5p1p/p2p1np1/1ppP4/4PB2/2N2N2/PP3PPP/R2QKB1R w KQkq - 0 9,White reinforces his center and prepare to castle.
+17,Bd3,f1d3,rnbqkb1r/5p1p/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2QK2R b KQkq - 1 9,White reinforces his center and prepare to castle.
+18,Bg7,f8g7,rnbqk2r/5pbp/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2QK2R w KQkq - 2 10,Time to prepare castle for black as well
+19,O-O,e1g1,rnbqk2r/5pbp/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2Q1RK1 b kq - 3 10,"So, both Kings are safe but the developpement is not yet completed."
+20,O-O,e8g8,rnbq1rk1/5pbp/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2Q1RK1 w - - 4 11,"So, both Kings are safe but the developpement is not yet completed."
+21,Re1,f1e1,rnbq1rk1/5pbp/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2QR1K1 b - - 5 11,"Both rooks on the e file, like often in the Benoni. The situation is equilibrated."
+22,Re8,f8e8,rnbqr1k1/5pbp/p2p1np1/1ppP4/4PB2/2NB1N2/PP3PPP/R2QR1K1 w - - 6 12,"Both rooks on the e file, like often in the Benoni. The situation is equilibrated."
+23,h3,h2h3,rnbqr1k1/5pbp/p2p1np1/1ppP4/4PB2/2NB1N1P/PP3PP1/R2QR1K1 b - - 0 12,preventing Bg4 (which I surely would have plaid)
+24,b4,b5b4,rnbqr1k1/5pbp/p2p1np1/2pP4/1p2PB2/2NB1N1P/PP3PP1/R2QR1K1 w - - 0 13,"At this point, I leave the database. The plan was to oblige white to set his knight aside (wether on a4 or b1) so that it wouldn't protect the d5 pawn any longer when e5. would come."
+25,Na4,c3a4,rnbqr1k1/5pbp/p2p1np1/2pP4/Np2PB2/3B1N1P/PP3PP1/R2QR1K1 b - - 1 13,To control b3 and d6 and able the LSB or knight to come on d7
+26,Qc7,d8c7,rnb1r1k1/2q2pbp/p2p1np1/2pP4/Np2PB2/3B1N1P/PP3PP1/R2QR1K1 w - - 2 14,To control b3 and d6 and able the LSB or knight to come on d7
+27,e5,e4e5,rnb1r1k1/2q2pbp/p2p1np1/2pPP3/Np3B2/3B1N1P/PP3PP1/R2QR1K1 b - - 0 14,That was black's idea when playing 14. Nxd5
+28,Nxd5,f6d5,rnb1r1k1/2q2pbp/p2p2p1/2pnP3/Np3B2/3B1N1P/PP3PP1/R2QR1K1 w - - 0 15,That was black's idea when playing 14. Nxd5
+29,Bh2,f4h2,rnb1r1k1/2q2pbp/p2p2p1/2pnP3/Np6/3B1N1P/PP3PPB/R2QR1K1 b - - 1 15,I was sure that whote would have plaid 15. eXd6 RXe1+ 16. QXe1 17. Qd7 so that this move completely surprised me. The line choosed by Stalhandske is in a way more dangerous for black  because it's more complicated and harder to follow.
+30,Be6,c8e6,rn2r1k1/2q2pbp/p2pb1p1/2pnP3/Np6/3B1N1P/PP3PPB/R2QR1K1 w - - 2 16,"The d knight has no place to retreat and will soon be attacked by both LSB and queen (if white plays 16. Be4, for example). The only solution I found (after long thinking)  was to protect it by both queen and bishop. Of course it will enable black to play eXd3"
+31,Be4,d3e4,rn2r1k1/2q2pbp/p2pb1p1/2pnP3/Np2B3/5N1P/PP3PPB/R2QR1K1 b - - 3 16,As I feared.
+32,Qc6,c7c6,rn2r1k1/5pbp/p1qpb1p1/2pnP3/Np2B3/5N1P/PP3PPB/R2QR1K1 w - - 4 17,.Protecting the d knight but pining it to the queen and preventing  17. Nb3
+33,Rc1,a1c1,rn2r1k1/5pbp/p1qpb1p1/2pnP3/Np2B3/5N1P/PP3PPB/2RQR1K1 b - - 5 17,"Protecting the c pawn, menacing black's e pawn and joining the rooks."
+34,Nd7,b8d7,r3r1k1/3n1pbp/p1qpb1p1/2pnP3/Np2B3/5N1P/PP3PPB/2RQR1K1 w - - 6 18,"Protecting the c pawn, menacing black's e pawn and joining the rooks."
+35,Nd4,f3d4,r3r1k1/3n1pbp/p1qpb1p1/2pnP3/Np1NB3/7P/PP3PPB/2RQR1K1 b - - 7 18,Everybody is on the center.
+36,Qb7,c6b7,r3r1k1/1q1n1pbp/p2pb1p1/2pnP3/Np1NB3/7P/PP3PPB/2RQR1K1 w - - 8 19,The queen still plays the same protecting role and is still pined.
+37,Nxe6,d4e6,r3r1k1/1q1n1pbp/p2pN1p1/2pnP3/Np2B3/7P/PP3PPB/2RQR1K1 b - - 0 19,annoying but 19. ... Rxe6 would have let the d knight with only one protection against two attacking pièces.
+38,fxe6,f7e6,r3r1k1/1q1n2bp/p2pp1p1/2pnP3/Np2B3/7P/PP3PPB/2RQR1K1 w - - 0 20,annoying but 19. ... Rxe6 would have let the d knight with only one protection against two attacking pièces.
+39,exd6,e5d6,r3r1k1/1q1n2bp/p2Pp1p1/2pn4/Np2B3/7P/PP3PPB/2RQR1K1 b - - 0 20,It had to come

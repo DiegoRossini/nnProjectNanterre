@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is the classical Benoni.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,This is the classical Benoni.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,This is the classical Benoni.
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,This is the classical Benoni.
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,This is the classical Benoni.
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,This is the classical Benoni.
+7,Nc3,b1c3,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,This is the classical Benoni.
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,This is the classical Benoni.
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,This is the classical Benoni.
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,This is the classical Benoni.
+11,e4,e2e4,rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6,This is the classical Benoni.
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7,This is the classical Benoni.
+13,Nf3,g1f3,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7,This is the classical Benoni.
+14,Bg7,f8g7,rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 8,This is the classical Benoni.
+15,Bd3,f1d3,rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2NB1N2/PP3PPP/R1BQK2R b KQkq - 3 8,This is the classical Benoni.
+16,O-O,e8g8,rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2NB1N2/PP3PPP/R1BQK2R w KQ - 4 9,This prevents black from playing Bg4 in hope of exchanging the Knight that supports the e4-e5 advance.
+17,O-O,e1g1,rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 5 9,This prevents black from playing Bg4 in hope of exchanging the Knight that supports the e4-e5 advance.
+18,Re8,f8e8,rnbqr1k1/pp3pbp/3p1np1/2pP4/4P3/2NB1N2/PP3PPP/R1BQ1RK1 w - - 6 10,This prevents black from playing Bg4 in hope of exchanging the Knight that supports the e4-e5 advance.
+19,h3,h2h3,rnbqr1k1/pp3pbp/3p1np1/2pP4/4P3/2NB1N1P/PP3PP1/R1BQ1RK1 b - - 0 10,This prevents black from playing Bg4 in hope of exchanging the Knight that supports the e4-e5 advance.
+20,a6,a7a6,rnbqr1k1/1p3pbp/p2p1np1/2pP4/4P3/2NB1N1P/PP3PP1/R1BQ1RK1 w - - 0 11,B5 can not be allowed
+21,a4,a2a4,rnbqr1k1/1p3pbp/p2p1np1/2pP4/P3P3/2NB1N1P/1P3PP1/R1BQ1RK1 b - - 0 11,B5 can not be allowed
+22,b6,b7b6,rnbqr1k1/5pbp/pp1p1np1/2pP4/P3P3/2NB1N1P/1P3PP1/R1BQ1RK1 w - - 0 12,a little slow normal is Nbd7
+23,Re1,f1e1,rnbqr1k1/5pbp/pp1p1np1/2pP4/P3P3/2NB1N1P/1P3PP1/R1BQR1K1 b - - 1 12,"An interesting idea of doubling the rooks on the e file in order to put preasure on e4. However, such a moves signal to me that I should switch my attack."
+24,Ra7,a8a7,1nbqr1k1/r4pbp/pp1p1np1/2pP4/P3P3/2NB1N1P/1P3PP1/R1BQR1K1 w - - 2 13,"An interesting idea of doubling the rooks on the e file in order to put preasure on e4. However, such a moves signal to me that I should switch my attack."
+25,Bf4,c1f4,1nbqr1k1/r4pbp/pp1p1np1/2pP4/P3PB2/2NB1N1P/1P3PP1/R2QR1K1 b - - 3 13,This is a naturally strong square for the bishop it targets blacks backward d pawn.
+26,Rae7,a7e7,1nbqr1k1/4rpbp/pp1p1np1/2pP4/P3PB2/2NB1N1P/1P3PP1/R2QR1K1 w - - 4 14,my opponent has done a good job in preventing the e4-e5 break. Which leaves me to be thinking about creating another weakness.
+27,Nd2,f3d2,1nbqr1k1/4rpbp/pp1p1np1/2pP4/P3PB2/2NB3P/1P1N1PP1/R2QR1K1 b - - 5 14,"Defends e4 and sets up a samish system for white. For those who do not know what a samish system is it is the pawn structure extending from g2 to d4. The key feature is the pawn of f3 which ensures that the nature of the game progresses along quieter lines. 
+
+This type of set up is ideal for this game because the black rooks remain locked behind a wall of pawns."
+28,Nh5,f6h5,1nbqr1k1/4rpbp/pp1p2p1/2pP3n/P3PB2/2NB3P/1P1N1PP1/R2QR1K1 w - - 6 15,another reason why it is good for white to play h3 early is to avoid this exchange of the bishop.
+29,Bg5,f4g5,1nbqr1k1/4rpbp/pp1p2p1/2pP2Bn/P3P3/2NB3P/1P1N1PP1/R2QR1K1 b - - 7 15,Not Be3 when black does not have to pay for forcing me to move my bishop. This creates a weakness and blockaids the bishop on g7.
+30,f6,f7f6,1nbqr1k1/4r1bp/pp1p1pp1/2pP2Bn/P3P3/2NB3P/1P1N1PP1/R2QR1K1 w - - 0 16,"Good, my job is done it is time to retreat."
+31,Be3,g5e3,1nbqr1k1/4r1bp/pp1p1pp1/2pP3n/P3P3/2NBB2P/1P1N1PP1/R2QR1K1 b - - 1 16,This is a nice position for white. Black has a few problems to workout like his knight has no room to move. Which makes it an easy target. But the real problem for black is that he is in a zugwig.
+32,Bf8,g7f8,1nbqrbk1/4r2p/pp1p1pp1/2pP3n/P3P3/2NBB2P/1P1N1PP1/R2QR1K1 w - - 2 17,If this is the best that black can do then he may have to rethink his plan.
+33,Nc4,d2c4,1nbqrbk1/4r2p/pp1p1pp1/2pP3n/P1N1P3/2NBB2P/1P3PP1/R2QR1K1 b - - 3 17,And white breaks through black's defense.
+34,Qc7,d8c7,1nb1rbk1/2q1r2p/pp1p1pp1/2pP3n/P1N1P3/2NBB2P/1P3PP1/R2QR1K1 w - - 4 18,And white breaks through black's defense.
+35,b4,b2b4,1nb1rbk1/2q1r2p/pp1p1pp1/2pP3n/PPN1P3/2NBB2P/5PP1/R2QR1K1 b - - 0 18,And white breaks through black's defense.
+36,cxb4,c5b4,1nb1rbk1/2q1r2p/pp1p1pp1/3P3n/PpN1P3/2NBB2P/5PP1/R2QR1K1 w - - 0 19,"I am like a python that is slowly squeezing the life out of my opponent. It would be tempting to feel that one has to move the knight however, I am always on the look out for stronger counter punches."
+37,Bxb6,e3b6,1nb1rbk1/2q1r2p/pB1p1pp1/3P3n/PpN1P3/2NB3P/5PP1/R2QR1K1 b - - 0 19,"I am like a python that is slowly squeezing the life out of my opponent. It would be tempting to feel that one has to move the knight however, I am always on the look out for stronger counter punches."
+38,Qd7,c7d7,1nb1rbk1/3qr2p/pB1p1pp1/3P3n/PpN1P3/2NB3P/5PP1/R2QR1K1 w - - 1 20,a big blunder that gives up a rook for very little in return.
+39,Ne2,c3e2,1nb1rbk1/3qr2p/pB1p1pp1/3P3n/PpN1P3/3B3P/4NPP1/R2QR1K1 b - - 2 20,a big blunder that gives up a rook for very little in return.
+40,Re7xe4,e7e4,1nb1rbk1/3q3p/pB1p1pp1/3P3n/PpN1r3/3B3P/4NPP1/R2QR1K1 w - - 0 21,a big blunder that gives up a rook for very little in return.
+41,Bxe4,d3e4,1nb1rbk1/3q3p/pB1p1pp1/3P3n/PpN1B3/7P/4NPP1/R2QR1K1 b - - 0 21,and black resigns. My plan was to play Nd4.
+42,Rxe4,e8e4,1nb2bk1/3q3p/pB1p1pp1/3P3n/PpN1r3/7P/4NPP1/R2QR1K1 w - - 0 22,and black resigns. My plan was to play Nd4.
+43,Rc1,a1c1,1nb2bk1/3q3p/pB1p1pp1/3P3n/PpN1r3/7P/4NPP1/2RQR1K1 b - - 1 22,and black resigns. My plan was to play Nd4.

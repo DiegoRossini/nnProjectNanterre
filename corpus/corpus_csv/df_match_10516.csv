@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,O no... a Grob approacheth.
+2,g5,g7g5,rnbqkbnr/pppppp1p/8/6p1/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,Black responds in groblike manner.
+3,Bg2,f1g2,rnbqkbnr/pppppp1p/8/6p1/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2,"This is one of the recommended moves, h2-h3 being the other, which is not necessary yet because the d7 pawn has not moved."
+4,d5,d7d5,rnbqkbnr/ppp1pp1p/8/3p2p1/6P1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3,"Opens the bishop line from c8 to g4, targetting the lead pawn."
+5,h3,h2h3,rnbqkbnr/ppp1pp1p/8/3p2p1/6P1/7P/PPPPPPB1/RNBQK1NR b KQkq - 0 3,Holding the pawn.
+6,e6,e7e6,rnbqkbnr/ppp2p1p/4p3/3p2p1/6P1/7P/PPPPPPB1/RNBQK1NR w KQkq - 0 4,"This move does not take as much center, but it does keep the d5 pawn strong at the expense of an e5 weakness."
+7,d4,d2d4,rnbqkbnr/ppp2p1p/4p3/3p2p1/3P2P1/7P/PPP1PPB1/RNBQK1NR b KQkq - 0 4,"A bishop line opens for white, and an attack line for black by bishop - which can be refuted. White controls e5 which doesn't really even matter at this time."
+8,h6,h7h6,rnbqkbnr/ppp2p2/4p2p/3p2p1/3P2P1/7P/PPP1PPB1/RNBQK1NR w KQkq - 0 5,"Black overprotects the g5 pawn, but perhaps Nc6, or Bb4+ to achieve development would accomplish more. The queen has the pawn covered."
+9,e4,e2e4,rnbqkbnr/ppp2p2/4p2p/3p2p1/3PP1P1/7P/PPP2PB1/RNBQK1NR b KQkq - 0 5,White challenges the black hold on the center.
+10,dxe4,d5e4,rnbqkbnr/ppp2p2/4p2p/6p1/3Pp1P1/7P/PPP2PB1/RNBQK1NR w KQkq - 0 6,"Black decides to open the center early, but is it too early?"
+11,Bxe4,g2e4,rnbqkbnr/ppp2p2/4p2p/6p1/3PB1P1/7P/PPP2P2/RNBQK1NR b KQkq - 0 6,"The bishop has some influence here, but unfortunately can also be a target to the g8 knight, which will lose white some tempo in a retreat."
+12,Nf6,g8f6,rnbqkb1r/ppp2p2/4pn1p/6p1/3PB1P1/7P/PPP2P2/RNBQK1NR w KQkq - 1 7,Black obtains the initiative.
+13,Bg2,e4g2,rnbqkb1r/ppp2p2/4pn1p/6p1/3P2P1/7P/PPP2PB1/RNBQK1NR b KQkq - 2 7,Returning back to base. The bishop has a nice line to b7 where it keeps the c8 bishop tied to defense until a blocking or protecting move is made by black. Neither side has any great advantages and the position appears about equal.
+14,c5,c7c5,rnbqkb1r/pp3p2/4pn1p/2p3p1/3P2P1/7P/PPP2PB1/RNBQK1NR w KQkq - 0 8,"Black engages in some early pawn manuevers, perhaps with the intent on shifting white to a defensive position, while black attempts to press forward with Nb8-c6. But white will develop equally."
+15,Be3,c1e3,rnbqkb1r/pp3p2/4pn1p/2p3p1/3P2P1/4B2P/PPP2PB1/RN1QK1NR b KQkq - 1 8,"Develops a piece while defending. The knight on f6 can be a danger, so this move is not all that good. Nf6-d5! and white will feel the pressure. Ng1-e2 would have been better. This move gives black the advantage. Black stands a little better."
+16,Nc6,b8c6,r1bqkb1r/pp3p2/2n1pn1p/2p3p1/3P2P1/4B2P/PPP2PB1/RN1QK1NR w KQkq - 2 9,"Black applies pressure to the d4 pawn. If d4xc5 then Q8xd1 is inevidable, but not wanted. Nf6-d5 appears better."
+17,Ne2,g1e2,r1bqkb1r/pp3p2/2n1pn1p/2p3p1/3P2P1/4B2P/PPP1NPB1/RN1QK2R b KQkq - 3 9,Reinforcing d4 while developing. This also opens a possibility of kingside castling.
+18,Be7,f8e7,r1bqk2r/pp2bp2/2n1pn1p/2p3p1/3P2P1/4B2P/PPP1NPB1/RN1QK2R w KQkq - 4 10,"Its a developing move, but Nf6-d5 is better."
+19,Nbc3,b1c3,r1bqk2r/pp2bp2/2n1pn1p/2p3p1/3P2P1/2N1B2P/PPP1NPB1/R2QK2R b KQkq - 5 10,"White covers the d5 square, which protects the e3 bishop from attack, and develops a piece."
+20,Nd7,f6d7,r1bqk2r/pp1nbp2/2n1p2p/2p3p1/3P2P1/2N1B2P/PPP1NPB1/R2QK2R w KQkq - 6 11,"Not sure of the strategy here, perhaps just repositioning the knight to a better location in the event of d4xc5, then Nd7xc5."

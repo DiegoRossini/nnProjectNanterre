@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I almost always play this.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,At this level this is the common response.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I didn't see any reason not to take the pawn, so..."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"I didn't see any reason not to take the pawn, so..."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"I didn't see any reason not to take the pawn, so..."
+6,Nd4,c6d4,r1bqkbnr/pppp1ppp/8/4p3/2BnP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"I didn't see any reason not to take the pawn, so..."
+7,Nxe5,f3e5,r1bqkbnr/pppp1ppp/8/4N3/2BnP3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4,"I didn't see any reason not to take the pawn, so..."
+8,f6,f7f6,r1bqkbnr/pppp2pp/5p2/4N3/2BnP3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Decided to poke my knight. Guess he didn't notice the fork
+9,Nf7,e5f7,r1bqkbnr/pppp1Npp/5p2/8/2BnP3/8/PPPP1PPP/RNBQK2R b KQkq - 1 5,Forking my king and G pawn
+10,Qe7,d8e7,r1b1kbnr/ppppqNpp/5p2/8/2BnP3/8/PPPP1PPP/RNBQK2R w KQkq - 2 6,Forking my king and G pawn
+11,Nxh8,f7h8,r1b1kbnN/ppppq1pp/5p2/8/2BnP3/8/PPPP1PPP/RNBQK2R b KQq - 0 6,Forking my king and G pawn
+12,Qxe4+,e7e4,r1b1kbnN/pppp2pp/5p2/8/2Bnq3/8/PPPP1PPP/RNBQK2R w KQq - 0 7,Forking my king and G pawn
+13,Be2,c4e2,r1b1kbnN/pppp2pp/5p2/8/3nq3/8/PPPPBPPP/RNBQK2R b KQq - 1 7,Seemed best to me. Although blocking with the queen might have been better.
+14,Qxg2,e4g2,r1b1kbnN/pppp2pp/5p2/8/3n4/8/PPPPBPqP/RNBQK2R w KQq - 0 8,Expected that.
+15,Rf1,h1f1,r1b1kbnN/pppp2pp/5p2/8/3n4/8/PPPPBPqP/RNBQKR2 b Qq - 1 8,Had to be careful of smothered mate here if pins my bishop
+16,Qxh2,g2h2,r1b1kbnN/pppp2pp/5p2/8/3n4/8/PPPPBP1q/RNBQKR2 w Qq - 0 9,Nope. Just grabbing another pawn.
+17,Nc3,b1c3,r1b1kbnN/pppp2pp/5p2/8/3n4/2N5/PPPPBP1q/R1BQKR2 b Qq - 1 9,Attacking the pinned piece.
+18,Nxe2,d4e2,r1b1kbnN/pppp2pp/5p2/8/8/2N5/PPPPnP1q/R1BQKR2 w Qq - 0 10,Attacking the pinned piece.
+19,Qxe2+,d1e2,r1b1kbnN/pppp2pp/5p2/8/8/2N5/PPPPQP1q/R1B1KR2 b Qq - 0 10,Attacking the pinned piece.
+20,Ne7,g8e7,r1b1kb1N/ppppn1pp/5p2/8/8/2N5/PPPPQP1q/R1B1KR2 w Qq - 1 11,Attacking the pinned piece.
+21,Nd5,c3d5,r1b1kb1N/ppppn1pp/5p2/3N4/8/8/PPPPQP1q/R1B1KR2 b Qq - 2 11,Attacking the pinned piece.
+22,Qd6,h2d6,r1b1kb1N/ppppn1pp/3q1p2/3N4/8/8/PPPPQP2/R1B1KR2 w Qq - 3 12,To let out my DSB
+23,Nxe7,d5e7,r1b1kb1N/ppppN1pp/3q1p2/8/8/8/PPPPQP2/R1B1KR2 b Qq - 0 12,To let out my DSB
+24,Bxe7,f8e7,r1b1k2N/ppppb1pp/3q1p2/8/8/8/PPPPQP2/R1B1KR2 w Qq - 0 13,To let out my DSB
+25,d3,d2d3,r1b1k2N/ppppb1pp/3q1p2/8/8/3P4/PPP1QP2/R1B1KR2 b Qq - 0 13,To let out my DSB
+26,b6,b7b6,r1b1k2N/p1ppb1pp/1p1q1p2/8/8/3P4/PPP1QP2/R1B1KR2 w Qq - 0 14,Probably trying to fianchetto. (Is that how you spell it?)
+27,Be3,c1e3,r1b1k2N/p1ppb1pp/1p1q1p2/8/8/3PB3/PPP1QP2/R3KR2 b Qq - 1 14,Another fork between my king and a pawn.
+28,Qb4+,d6b4,r1b1k2N/p1ppb1pp/1p3p2/8/1q6/3PB3/PPP1QP2/R3KR2 w Qq - 2 15,Another fork between my king and a pawn.
+29,Bd2,e3d2,r1b1k2N/p1ppb1pp/1p3p2/8/1q6/3P4/PPPBQP2/R3KR2 b Qq - 3 15,What else?
+30,Qxb2,b4b2,r1b1k2N/p1ppb1pp/1p3p2/8/8/3P4/PqPBQP2/R3KR2 w Qq - 0 16,What else?
+31,Qh5+,e2h5,r1b1k2N/p1ppb1pp/1p3p2/7Q/8/3P4/PqPB1P2/R3KR2 b Qq - 1 16,I thought that if he took my rook I could checkmate him. I guess I didn't notice it would put me in check
+32,g6,g7g6,r1b1k2N/p1ppb2p/1p3pp1/7Q/8/3P4/PqPB1P2/R3KR2 w Qq - 0 17,I thought that if he took my rook I could checkmate him. I guess I didn't notice it would put me in check
+33,Qxh7,h5h7,r1b1k2N/p1ppb2Q/1p3pp1/8/8/3P4/PqPB1P2/R3KR2 b Qq - 0 17,I thought that if he took my rook I could checkmate him. I guess I didn't notice it would put me in check
+34,Qxa1+,b2a1,r1b1k2N/p1ppb2Q/1p3pp1/8/8/3P4/P1PB1P2/q3KR2 w q - 0 18,Now the queen is attacked and I though he would have to either lose his queen or the game. But he noticed something...
+35,Ke2,e1e2,r1b1k2N/p1ppb2Q/1p3pp1/8/8/3P4/P1PBKP2/q4R2 b q - 1 18,Now the queen is attacked and I though he would have to either lose his queen or the game. But he noticed something...
+36,Qxa2,a1a2,r1b1k2N/p1ppb2Q/1p3pp1/8/8/3P4/q1PBKP2/5R2 w q - 0 19,"Here I decided a draw was good enough and calculated that I could get perpetual check. If you notice something he could have done to get out of it, please tell me."
+37,Qxg6+,h7g6,r1b1k2N/p1ppb3/1p3pQ1/8/8/3P4/q1PBKP2/5R2 b q - 0 19,"Here I decided a draw was good enough and calculated that I could get perpetual check. If you notice something he could have done to get out of it, please tell me."
+38,Kd8,e8d8,r1bk3N/p1ppb3/1p3pQ1/8/8/3P4/q1PBKP2/5R2 w - - 1 20,"Here he had to options. One led to perpetual check, (I think) the other led to checkmate."
+39,Nf7+,h8f7,r1bk4/p1ppbN2/1p3pQ1/8/8/3P4/q1PBKP2/5R2 b - - 2 20,"Here he had to options. One led to perpetual check, (I think) the other led to checkmate."
+40,Ke8,d8e8,r1b1k3/p1ppbN2/1p3pQ1/8/8/3P4/q1PBKP2/5R2 w - - 3 21,"Here he had to options. One led to perpetual check, (I think) the other led to checkmate."
+41,Nh8+,f7h8,r1b1k2N/p1ppb3/1p3pQ1/8/8/3P4/q1PBKP2/5R2 b - - 4 21,"Here he had to options. One led to perpetual check, (I think) the other led to checkmate."
+42,Kf8,e8f8,r1b2k1N/p1ppb3/1p3pQ1/8/8/3P4/q1PBKP2/5R2 w - - 5 22,Oops
+43,Bh6#,d2h6,r1b2k1N/p1ppb3/1p3pQB/8/8/3P4/q1P1KP2/5R2 b - - 6 22,And a nice bishop checkmate to finish.

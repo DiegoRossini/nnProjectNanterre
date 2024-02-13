@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Having lost with black to a highly rated player from Malta in the second round, I rather expected an easier game with white in the next round. Well I was drawn with black, and instead of meeting the 4th seed, I was paired against the 5th seed, Patrick Zerafa (2069), a Candidate Master with black! I started white's clock. The tournament organisers explained that he had a full-time job in Malta, and he would come straight from work. Normally the default time is 30 minutes, but I was told that as he had indicated that he would be late, he had an hour to arrive. I waited and waited... but he never showed up, and I was awarded the game by default."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Then in round 3 I was paired against Arne, from Germany and at last I was given white."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I played the Queen's Gambit.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"He plays the Albin counter-gambit. Although this opening was originally played by Cavallotti against Salvioli at the Milan tournament of 1881, it takes its name from Adolf Albin, who played it against Lasker in New York 1893. Though not played frequently at the master level, Russian Grandmaster Alexander Morozevich has recently made some successful use of it. https://en.wikipedia.org/wiki/Albin_Countergambit"
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,The recommended reply for white.
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"And the usual move by black.  In exchange for the gambit pawn, Black has a central wedge at d4 and gets some chances for an attack. Often White will try to return the pawn at an opportune moment to gain a positional advantage."
+7,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 4,Attacking d4. The careless move 4.e3? can lead to the Lasker Trap. After 4...Bb4+ 5.Bd2 dxe3 6.Bxb4?? is a blunder—6...exf2+ 7.Ke2 fxg1=N+! and Black wins. The Lasker Trap is notable because it is rare to see an underpromotion in practical play.
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 5,And protecting d4 again. 4...c5 allows 5.e3 because Black no longer has the bishop check on b4.
+9,g3,g2g3,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 5,"The usual way to continue, as 5. e3? still, fails to Bb4+!"
+10,f6,f7f6,r1bqkbnr/ppp3pp/2n2p2/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 0 6,"Turning it into a real gambit, rather than playing Ng8-e7 or developing the Bc8."
+11,exf6,e5f6,r1bqkbnr/ppp3pp/2n2P2/8/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 6,So I take.
+12,Be6,c8e6,r2qkbnr/ppp3pp/2n1bP2/8/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 7,"This is unusual and unexpected and caused me to have a long think. I didn't know it at the time, but black has just left any opening database I have access to. Recapturing on f6 with either knight or queen has been played before."
+13,Ng5,f3g5,r2qkbnr/ppp3pp/2n1bP2/6N1/2Pp4/6P1/PP2PP1P/RNBQKB1R b KQkq - 2 7,Fritz prefers f6xg7 but that seemed a bit greedy to me.
+14,Bxc4,e6c4,r2qkbnr/ppp3pp/2n2P2/6N1/2bp4/6P1/PP2PP1P/RNBQKB1R w KQkq - 0 8,So he takes.
+15,f7+,f6f7,r2qkbnr/ppp2Ppp/2n5/6N1/2bp4/6P1/PP2PP1P/RNBQKB1R b KQkq - 0 8,I throw in a check. Fritz prefers taking on g7 followed by e2-e4 with the threat of a queen check on h5.
+16,Bxf7,c4f7,r2qkbnr/ppp2bpp/2n5/6N1/3p4/6P1/PP2PP1P/RNBQKB1R w KQkq - 0 9,He takes.
+17,Nxf7,g5f7,r2qkbnr/ppp2Npp/2n5/8/3p4/6P1/PP2PP1P/RNBQKB1R b KQkq - 0 9,I take back. I was rather expecting Kxf7 when I can play 10. Qb3+ and pick up the b pawn and weaken his queen-side. However....
+18,Qd5,d8d5,r3kbnr/ppp2Npp/2n5/3q4/3p4/6P1/PP2PP1P/RNBQKB1R w KQkq - 1 10,He counter-attacks my rook. Fritz prefers 9....Bb4+
+19,Nxh8,f7h8,r3kbnN/ppp3pp/2n5/3q4/3p4/6P1/PP2PP1P/RNBQKB1R b KQq - 0 10,So I take.
+20,Qxh1,d5h1,r3kbnN/ppp3pp/2n5/8/3p4/6P1/PP2PP1P/RNBQKB1q w Qq - 0 11,He takes back. What would you play here dear reader?

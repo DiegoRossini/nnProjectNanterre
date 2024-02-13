@@ -1,0 +1,14 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"My first move will be the standard king's pawn opening, a favorite for most intermediate chess players."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The opponent defends the center by copying my move, so far this seems like a normal chess game."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I now attack his pawn with my knight, of course we're going to expect our oponent to defend it."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"which he does, with his pawn, so far so good."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,"I now move up my other knight, to protect my pawn but to also add to my evil plan."
+6,b6,b7b6,rnbqkbnr/p1p2ppp/1p1p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,"The opponent moves the b7 pawn, probably for some bishop attacks."
+7,Bc4,f1c4,rnbqkbnr/p1p2ppp/1p1p4/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,"I move my bishop to c4, everything is in place now, let's see how my opponent reacts."
+8,Bg4,c8g4,rn1qkbnr/p1p2ppp/1p1p4/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,"Exactly how I planned.  In his mind he made a good move because if I try to attack the bishop I'll mess up my castling side, or I could end up having a double pawn."
+9,Nxe5,f3e5,rn1qkbnr/p1p2ppp/1p1p4/4N3/2B1P1b1/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 5,"I make the ""wrong move"" and give up my queen, hoping that he takes her."
+10,Bxd1,g4d1,rn1qkbnr/p1p2ppp/1p1p4/4N3/2B1P3/2N5/PPPP1PPP/R1BbK2R w KQkq - 0 6,"He did, like expected, and now I move in for the kill, it's mate in 2."
+11,Bxf7+,c4f7,rn1qkbnr/p1p2Bpp/1p1p4/4N3/4P3/2N5/PPPP1PPP/R1BbK2R b KQkq - 0 6,"check, the king cannot attack the bishop because it is guarded by the knight."
+12,Ke7,e8e7,rn1q1bnr/p1p1kBpp/1p1p4/4N3/4P3/2N5/PPPP1PPP/R1BbK2R w KQ - 1 7,the king moves to the only space available.
+13,Nd5#,c3d5,rn1q1bnr/p1p1kBpp/1p1p4/3NN3/4P3/8/PPPP1PPP/R1BbK2R b KQ - 2 7,"checkmate, the king is trapped.  This is the famous queen sacrifice/fools mate."

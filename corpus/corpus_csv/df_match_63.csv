@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Pawn sacrifice.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pawn sacrifice.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Pawn sacrifice.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Pawn sacrifice.
+5,Nxe5,f3e5,rnbqk1nr/pppp1ppp/8/2b1N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"I kind of expected black to play Qf6, to which I would respond Nd3.  4. Ng4 might be better, push the queen around."
+6,Bd4,c5d4,rnbqk1nr/pppp1ppp/8/4N3/3bP3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,White counters with Nf3.
+7,Nf3,e5f3,rnbqk1nr/pppp1ppp/8/8/3bP3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 4,"Pawn for bishop?  Pc5 would work, with c3 answered by Bf6.  But that is moving the bishop a lot, at the expense of development.  Still, black would gain better control over the center."
+8,Nf6,g8f6,rnbqk2r/pppp1ppp/5n2/8/3bP3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 3 5,"Pawn for bishop?  Pc5 would work, with c3 answered by Bf6.  But that is moving the bishop a lot, at the expense of development.  Still, black would gain better control over the center."
+9,Nxd4,f3d4,rnbqk2r/pppp1ppp/5n2/8/3NP3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 5,Nxe4 might have been better.  Black is now down four points.
+10,Qe7,d8e7,rnb1k2r/ppppqppp/5n2/8/3NP3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 6,Nxe4 might have been better.  Black is now down four points.
+11,Nc3,b1c3,rnb1k2r/ppppqppp/5n2/8/3NP3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 2 6,"A good move, develop and push."
+12,c5,c7c5,rnb1k2r/pp1pqppp/5n2/2p5/3NP3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 0 7,"A good move, develop and push."
+13,Nf5,d4f5,rnb1k2r/pp1pqppp/5n2/2p2N2/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 1 7,White pushes back.
+14,Qf8,e7f8,rnb1kq1r/pp1p1ppp/5n2/2p2N2/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 2 8,Black counters Nxg7+.
+15,e5,e4e5,rnb1kq1r/pp1p1ppp/5n2/2p1PN2/8/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 8,The knight has no decent place to go.
+16,Ng8,f6g8,rnb1kqnr/pp1p1ppp/8/2p1PN2/8/2N5/PPPP1PPP/R1BQKB1R w KQkq - 1 9,"Black responds to Nc7+, which would fork Ra8."
+17,Nd5,c3d5,rnb1kqnr/pp1p1ppp/8/2pNPN2/8/8/PPPP1PPP/R1BQKB1R b KQkq - 2 9,"Black responds to Nc7+, which would fork Ra8."
+18,Kd8,e8d8,rnbk1qnr/pp1p1ppp/8/2pNPN2/8/8/PPPP1PPP/R1BQKB1R w KQ - 3 10,"While this releases the queen, I like f6 better."
+19,Nd6,f5d6,rnbk1qnr/pp1p1ppp/3N4/2pNP3/8/8/PPPP1PPP/R1BQKB1R b KQ - 4 10,"While this releases the queen, I like f6 better."
+20,g6,g7g6,rnbk1qnr/pp1p1p1p/3N2p1/2pNP3/8/8/PPPP1PPP/R1BQKB1R w KQ - 0 11,"While this releases the queen, I like f6 better."
+21,d3,d2d3,rnbk1qnr/pp1p1p1p/3N2p1/2pNP3/8/3P4/PPP2PPP/R1BQKB1R b KQ - 0 11,Black's queen risks being pinned against the rook here.
+22,Qg7,f8g7,rnbk2nr/pp1p1pqp/3N2p1/2pNP3/8/3P4/PPP2PPP/R1BQKB1R w KQ - 1 12,Black's queen risks being pinned against the rook here.
+23,Bg5+,c1g5,rnbk2nr/pp1p1pqp/3N2p1/2pNP1B1/8/3P4/PPP2PPP/R2QKB1R b KQ - 2 12,Qf8 would threaten Nd6.  But f7+ (discovered check) would cost black a knight.
+24,f6,f7f6,rnbk2nr/pp1p2qp/3N1pp1/2pNP1B1/8/3P4/PPP2PPP/R2QKB1R w KQ - 0 13,Qf8 would threaten Nd6.  But f7+ (discovered check) would cost black a knight.
+25,exf6,e5f6,rnbk2nr/pp1p2qp/3N1Pp1/2pN2B1/8/3P4/PPP2PPP/R2QKB1R b KQ - 0 13,Qf8 would threaten Nd6.  But f7+ (discovered check) would cost black a knight.
+26,Nxf6,g8f6,rnbk3r/pp1p2qp/3N1np1/2pN2B1/8/3P4/PPP2PPP/R2QKB1R w KQ - 0 14,Black is forced to trade queen for bishop.
+27,Bxf6+,g5f6,rnbk3r/pp1p2qp/3N1Bp1/2pN4/8/3P4/PPP2PPP/R2QKB1R b KQ - 0 14,Black is forced to trade queen for bishop.
+28,Qxf6,g7f6,rnbk3r/pp1p3p/3N1qp1/2pN4/8/3P4/PPP2PPP/R2QKB1R w KQ - 0 15,
+29,Nxf6,d5f6,rnbk3r/pp1p3p/3N1Np1/2p5/8/3P4/PPP2PPP/R2QKB1R b KQ - 0 15,

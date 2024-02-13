@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Here I am playing black with the King's Indian Defense in a blitz game.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Here I am playing black with the King's Indian Defense in a blitz game.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Here I am playing black with the King's Indian Defense in a blitz game.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Here I am playing black with the King's Indian Defense in a blitz game.
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Here I am playing black with the King's Indian Defense in a blitz game.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Here I am playing black with the King's Indian Defense in a blitz game.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,Here I am playing black with the King's Indian Defense in a blitz game.
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,To prevent an immediate e5 and to do e5 later.
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,Well it's not the best continuation but it's still fine. Be2 or h3 are more popular and have more success.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,Well it's not the best continuation but it's still fine. Be2 or h3 are more popular and have more success.
+11,Bd3,f1d3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB1N2/PP3PPP/R1BQK2R b KQ - 3 6,Well it's not the best continuation but it's still fine. Be2 or h3 are more popular and have more success.
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2NB1N2/PP3PPP/R1BQK2R w KQ - 4 7,Preparing e5 or c5. The knight block the way of the bishop but most of the time it's better to let him at c8 since he already facing a free diagonal.
+13,Be3,c1e3,r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2NBBN2/PP3PPP/R2QK2R b KQ - 5 7,It's most of the time better to close the position for white since it blocks the way for the bishop on g6 and black has less space to move his pieces.
+14,e5,e7e5,r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2NBBN2/PP3PPP/R2QK2R w KQ - 0 8,It's most of the time better to close the position for white since it blocks the way for the bishop on g6 and black has less space to move his pieces.
+15,d5,d4d5,r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2NBBN2/PP3PPP/R2QK2R b KQ - 0 8,It's most of the time better to close the position for white since it blocks the way for the bishop on g6 and black has less space to move his pieces.
+16,c6,c7c6,r1bq1rk1/pp1n1pbp/2pp1np1/3Pp3/2P1P3/2NBBN2/PP3PPP/R2QK2R w KQ - 0 9,"The idea of c6 is to block Nb5, making a way for my queen and the possibility to free white's dominance on the center. The f5 push for black is not a good strategy because light square bishop is on d3 at the moment."
+17,O-O,e1g1,r1bq1rk1/pp1n1pbp/2pp1np1/3Pp3/2P1P3/2NBBN2/PP3PPP/R2Q1RK1 b - - 1 9,The knight on c5 is a very classical position for black and most of the time black make a5 before to prevent b5. Here the knight threats e4 and d3.
+18,Nc5,d7c5,r1bq1rk1/pp3pbp/2pp1np1/2nPp3/2P1P3/2NBBN2/PP3PPP/R2Q1RK1 w - - 2 10,The knight on c5 is a very classical position for black and most of the time black make a5 before to prevent b5. Here the knight threats e4 and d3.
+19,Rc1,a1c1,r1bq1rk1/pp3pbp/2pp1np1/2nPp3/2P1P3/2NBBN2/PP3PPP/2RQ1RK1 b - - 3 10,?! White should have kept his bishop.
+20,Nxd3,c5d3,r1bq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2NnBN2/PP3PPP/2RQ1RK1 w - - 0 11,To have the two bishops is sometime a must in the endgame since bishops cover more space and move faster.
+21,Qxd3,d1d3,r1bq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2NQBN2/PP3PPP/2R2RK1 b - - 0 11,To have the two bishops is sometime a must in the endgame since bishops cover more space and move faster.
+22,Ng4,f6g4,r1bq1rk1/pp3pbp/2pp2p1/3Pp3/2P1P1n1/2NQBN2/PP3PPP/2R2RK1 w - - 1 12,To have the two bishops is sometime a must in the endgame since bishops cover more space and move faster.
+23,h3,h2h3,r1bq1rk1/pp3pbp/2pp2p1/3Pp3/2P1P1n1/2NQBN1P/PP3PP1/2R2RK1 b - - 0 12,To have the two bishops is sometime a must in the endgame since bishops cover more space and move faster.
+24,Nxe3,g4e3,r1bq1rk1/pp3pbp/2pp2p1/3Pp3/2P1P3/2NQnN1P/PP3PP1/2R2RK1 w - - 0 13,To have the two bishops is sometime a must in the endgame since bishops cover more space and move faster.
+25,Qxe3,d3e3,r1bq1rk1/pp3pbp/2pp2p1/3Pp3/2P1P3/2N1QN1P/PP3PP1/2R2RK1 b - - 0 13,Attacking the king side and making room for my pieces.
+26,f5,f7f5,r1bq1rk1/pp4bp/2pp2p1/3Ppp2/2P1P3/2N1QN1P/PP3PP1/2R2RK1 w - - 0 14,Attacking the king side and making room for my pieces.
+27,Qd3,e3d3,r1bq1rk1/pp4bp/2pp2p1/3Ppp2/2P1P3/2NQ1N1P/PP3PP1/2R2RK1 b - - 1 14,Ready for Rd8 to cover d6 if white do dxc6 and Rd1.
+28,Qe7,d8e7,r1b2rk1/pp2q1bp/2pp2p1/3Ppp2/2P1P3/2NQ1N1P/PP3PP1/2R2RK1 w - - 2 15,Ready for Rd8 to cover d6 if white do dxc6 and Rd1.
+29,Nd2,f3d2,r1b2rk1/pp2q1bp/2pp2p1/3Ppp2/2P1P3/2NQ3P/PP1N1PP1/2R2RK1 b - - 3 15,The bishop covers a better line and pins the knight.
+30,Bh6,g7h6,r1b2rk1/pp2q2p/2pp2pb/3Ppp2/2P1P3/2NQ3P/PP1N1PP1/2R2RK1 w - - 4 16,The bishop covers a better line and pins the knight.
+31,f3,f2f3,r1b2rk1/pp2q2p/2pp2pb/3Ppp2/2P1P3/2NQ1P1P/PP1N2P1/2R2RK1 b - - 0 16,?! White should have moved his rook to remove the pin.
+32,Qg5,e7g5,r1b2rk1/pp5p/2pp2pb/3Pppq1/2P1P3/2NQ1P1P/PP1N2P1/2R2RK1 w - - 1 17,"The queen threats Qxd2 and face the king, giving the possibility of a future Bxh3."
+33,Rcd1,c1d1,r1b2rk1/pp5p/2pp2pb/3Pppq1/2P1P3/2NQ1P1P/PP1N2P1/3R1RK1 b - - 2 17,Necessary.
+34,c5,c6c5,r1b2rk1/pp5p/3p2pb/2pPppq1/2P1P3/2NQ1P1P/PP1N2P1/3R1RK1 w - - 0 18,! It was important to close the position at this time because if white opens the d line black's game is over.
+35,f4,f3f4,r1b2rk1/pp5p/3p2pb/2pPppq1/2P1PP2/2NQ3P/PP1N2P1/3R1RK1 b - - 0 18,White lose a pawn but find a way to block the attack.
+36,exf4,e5f4,r1b2rk1/pp5p/3p2pb/2pP1pq1/2P1Pp2/2NQ3P/PP1N2P1/3R1RK1 w - - 0 19,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+37,Nf3,d2f3,r1b2rk1/pp5p/3p2pb/2pP1pq1/2P1Pp2/2NQ1N1P/PP4P1/3R1RK1 b - - 1 19,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+38,Qf6,g5f6,r1b2rk1/pp5p/3p1qpb/2pP1p2/2P1Pp2/2NQ1N1P/PP4P1/3R1RK1 w - - 2 20,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+39,Rde1,d1e1,r1b2rk1/pp5p/3p1qpb/2pP1p2/2P1Pp2/2NQ1N1P/PP4P1/4RRK1 b - - 3 20,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+40,Re8,f8e8,r1b1r1k1/pp5p/3p1qpb/2pP1p2/2P1Pp2/2NQ1N1P/PP4P1/4RRK1 w - - 4 21,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+41,exf5,e4f5,r1b1r1k1/pp5p/3p1qpb/2pP1P2/2P2p2/2NQ1N1P/PP4P1/4RRK1 b - - 0 21,? White should have done Re2 then Rfe1. Now black have an open line for an attack.
+42,Bxf5,c8f5,r3r1k1/pp5p/3p1qpb/2pP1b2/2P2p2/2NQ1N1P/PP4P1/4RRK1 w - - 0 22,! Not wasting time. The two bishop have the strenght to keep the pawn if white take the rook. White will have a hard time to remove that pawn out of the way and to keep his structure.
+43,Qd2,d3d2,r3r1k1/pp5p/3p1qpb/2pP1b2/2P2p2/2N2N1P/PP1Q2P1/4RRK1 b - - 1 22,! Not wasting time. The two bishop have the strenght to keep the pawn if white take the rook. White will have a hard time to remove that pawn out of the way and to keep his structure.
+44,Re3,e8e3,r5k1/pp5p/3p1qpb/2pP1b2/2P2p2/2N1rN1P/PP1Q2P1/4RRK1 w - - 2 23,! Not wasting time. The two bishop have the strenght to keep the pawn if white take the rook. White will have a hard time to remove that pawn out of the way and to keep his structure.
+45,Rxe3,e1e3,r5k1/pp5p/3p1qpb/2pP1b2/2P2p2/2N1RN1P/PP1Q2P1/5RK1 b - - 0 23,? g4 was way better.

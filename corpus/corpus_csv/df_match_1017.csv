@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queen's pawn, Chigorin Variation."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Queen's pawn, Chigorin Variation."
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,"Queen's pawn, Chigorin Variation."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,"Black usually plays Nf6 here for good effect, though this is the second most popular response."
+5,Bf4,c1f4,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 3,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+6,g5,g7g5,rnbqkbnr/ppp2p1p/4p3/3p2p1/3P1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 4,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+7,Be5,f4e5,rnbqkbnr/ppp2p1p/4p3/3pB1p1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 4,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+8,f6,f7f6,rnbqkbnr/ppp4p/4pp2/3pB1p1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 5,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+9,Bg3,e5g3,rnbqkbnr/ppp4p/4pp2/3p2p1/3P4/2N3B1/PPP1PPPP/R2QKBNR b KQkq - 1 5,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+10,Bb4,f8b4,rnbqk1nr/ppp4p/4pp2/3p2p1/1b1P4/2N3B1/PPP1PPPP/R2QKBNR w KQkq - 2 6,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+11,Qd2,d1d2,rnbqk1nr/ppp4p/4pp2/3p2p1/1b1P4/2N3B1/PPPQPPPP/R3KBNR b KQkq - 3 6,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+12,Bxc3,b4c3,rnbqk1nr/ppp4p/4pp2/3p2p1/3P4/2b3B1/PPPQPPPP/R3KBNR w KQkq - 0 7,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+13,Qxc3,d2c3,rnbqk1nr/ppp4p/4pp2/3p2p1/3P4/2Q3B1/PPP1PPPP/R3KBNR b KQkq - 0 7,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+14,h5,h7h5,rnbqk1nr/ppp5/4pp2/3p2pp/3P4/2Q3B1/PPP1PPPP/R3KBNR w KQkq - 0 8,"Wait, white can take Pc7 essentially for free here.  Bxc7."
+15,Bxc7,g3c7,rnbqk1nr/ppB5/4pp2/3p2pp/3P4/2Q5/PPP1PPPP/R3KBNR b KQkq - 0 8,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+16,Qe7,d8e7,rnb1k1nr/ppB1q3/4pp2/3p2pp/3P4/2Q5/PPP1PPPP/R3KBNR w KQkq - 1 9,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+17,h3,h2h3,rnb1k1nr/ppB1q3/4pp2/3p2pp/3P4/2Q4P/PPP1PPP1/R3KBNR b KQkq - 0 9,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+18,Nc6,b8c6,r1b1k1nr/ppB1q3/2n1pp2/3p2pp/3P4/2Q4P/PPP1PPP1/R3KBNR w KQkq - 1 10,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+19,Bh2,c7h2,r1b1k1nr/pp2q3/2n1pp2/3p2pp/3P4/2Q4P/PPP1PPPB/R3KBNR b KQkq - 2 10,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+20,e5,e6e5,r1b1k1nr/pp2q3/2n2p2/3pp1pp/3P4/2Q4P/PPP1PPPB/R3KBNR w KQkq - 0 11,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+21,O-O-O,e1c1,r1b1k1nr/pp2q3/2n2p2/3pp1pp/3P4/2Q4P/PPP1PPPB/2KR1BNR b kq - 1 11,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+22,g4,g5g4,r1b1k1nr/pp2q3/2n2p2/3pp2p/3P2p1/2Q4P/PPP1PPPB/2KR1BNR w kq - 0 12,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+23,hxg4,h3g4,r1b1k1nr/pp2q3/2n2p2/3pp2p/3P2P1/2Q5/PPP1PPPB/2KR1BNR b kq - 0 12,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+24,f5,f6f5,r1b1k1nr/pp2q3/2n5/3ppp1p/3P2P1/2Q5/PPP1PPPB/2KR1BNR w kq - 0 13,I think Pxg4 would have been better.  This would pin white's black bishop against the rook.
+25,gxf5,g4f5,r1b1k1nr/pp2q3/2n5/3ppP1p/3P4/2Q5/PPP1PPPB/2KR1BNR b kq - 0 13,"Clever threat.  If white moves Pa2, Na2+ gives black the white queen."
+26,Bxf5,c8f5,r3k1nr/pp2q3/2n5/3ppb1p/3P4/2Q5/PPP1PPPB/2KR1BNR w kq - 0 14,"Clever threat.  If white moves Pa2, Na2+ gives black the white queen."
+27,e3,e2e3,r3k1nr/pp2q3/2n5/3ppb1p/3P4/2Q1P3/PPP2PPB/2KR1BNR b kq - 0 14,"Clever threat.  If white moves Pa2, Na2+ gives black the white queen."
+28,Nb4,c6b4,r3k1nr/pp2q3/8/3ppb1p/1n1P4/2Q1P3/PPP2PPB/2KR1BNR w kq - 1 15,"Clever threat.  If white moves Pa2, Na2+ gives black the white queen."
+29,Qb3,c3b3,r3k1nr/pp2q3/8/3ppb1p/1n1P4/1Q2P3/PPP2PPB/2KR1BNR b kq - 2 15,White counters.  Black's pawn @ e5 is at risk.
+30,Rc8,a8c8,2r1k1nr/pp2q3/8/3ppb1p/1n1P4/1Q2P3/PPP2PPB/2KR1BNR w k - 3 16,"Ooh, BxPc2 forks white's rook and queen.  On the other hand, black now faces the prospect of BxRh8, a free rook, while black's fork involves an exchange."
+31,Bxe5,h2e5,2r1k1nr/pp2q3/8/3pBb1p/1n1P4/1Q2P3/PPP2PP1/2KR1BNR b k - 0 16,"Ooh, BxPc2 forks white's rook and queen.  On the other hand, black now faces the prospect of BxRh8, a free rook, while black's fork involves an exchange."
+32,Rh6,h8h6,2r1k1n1/pp2q3/7r/3pBb1p/1n1P4/1Q2P3/PPP2PP1/2KR1BNR w - - 1 17,"A move fraught with potential.  White could trade queen and bishop for both black's rooks and a knight or bishop.  But Kb1 is answered by Rc3+, and black trades rook for queen."
+33,Bf4,e5f4,2r1k1n1/pp2q3/7r/3p1b1p/1n1P1B2/1Q2P3/PPP2PP1/2KR1BNR b - - 2 17,"A move fraught with potential.  White could trade queen and bishop for both black's rooks and a knight or bishop.  But Kb1 is answered by Rc3+, and black trades rook for queen."
+34,Rxc2+,c8c2,4k1n1/pp2q3/7r/3p1b1p/1n1P1B2/1Q2P3/PPr2PP1/2KR1BNR w - - 0 18,"A move fraught with potential.  White could trade queen and bishop for both black's rooks and a knight or bishop.  But Kb1 is answered by Rc3+, and black trades rook for queen."
+35,Kb1,c1b1,4k1n1/pp2q3/7r/3p1b1p/1n1P1B2/1Q2P3/PPr2PP1/1K1R1BNR b - - 1 18,"I still like Rc3+.  Yes, white gets a rook, but a rook for a queen!  Here black just picks up one pawn."
+36,Rxf2+,c2f2,4k1n1/pp2q3/7r/3p1b1p/1n1P1B2/1Q2P3/PP3rP1/1K1R1BNR w - - 0 19,"I still like Rc3+.  Yes, white gets a rook, but a rook for a queen!  Here black just picks up one pawn."
+37,Kc1,b1c1,4k1n1/pp2q3/7r/3p1b1p/1n1P1B2/1Q2P3/PP3rP1/2KR1BNR b - - 1 19,"To save Rh6, Rc6+ would work.  Oh, how pretty.  White is stuck interposing pieces black can pick off.  Looks like Qc3 is white's best bet.  Very painful.  Because Bc4 would be followed by RxBc4+, and then Qc3, and black trades rook for queen.  So Rc6+, Qc3.  Black makes out like a bandit!"
+38,Nd3+,b4d3,4k1n1/pp2q3/7r/3p1b1p/3P1B2/1Q1nP3/PP3rP1/2KR1BNR w - - 2 20,"Nope.  Here white responds with BxNd3.  BxBd3, QxBd3...  Actually BxRh6 and white comes out ahead."
+39,Bxd3,f1d3,4k1n1/pp2q3/7r/3p1b1p/3P1B2/1Q1BP3/PP3rP1/2KR2NR b - - 0 20,"Instead of Be6, Rf6 would protect that bishop.  Now white is bound to trade bishop for rook."
+40,Be6,f5e6,4k1n1/pp2q3/4b2r/3p3p/3P1B2/1Q1BP3/PP3rP1/2KR2NR w - - 1 21,"Instead of Be6, Rf6 would protect that bishop.  Now white is bound to trade bishop for rook."
+41,Bxh6,f4h6,4k1n1/pp2q3/4b2B/3p3p/3P4/1Q1BP3/PP3rP1/2KR2NR b - - 0 21,I kind of like RxPg2 better.  After white takes the bishop Pd5 is undefended.
+42,Nxh6,g8h6,4k3/pp2q3/4b2n/3p3p/3P4/1Q1BP3/PP3rP1/2KR2NR w - - 0 22,I kind of like RxPg2 better.  After white takes the bishop Pd5 is undefended.
+43,Nh3,g1h3,4k3/pp2q3/4b2n/3p3p/3P4/1Q1BP2N/PP3rP1/2KR3R b - - 1 22,I kind of like RxPg2 better.  After white takes the bishop Pd5 is undefended.
+44,Bxh3,e6h3,4k3/pp2q3/7n/3p3p/3P4/1Q1BP2b/PP3rP1/2KR3R w - - 0 23,I kind of like RxPg2 better.  After white takes the bishop Pd5 is undefended.
+45,gxh3,g2h3,4k3/pp2q3/7n/3p3p/3P4/1Q1BP2P/PP3r2/2KR3R b - - 0 23,"White would have been better off playing RxPh3, to protect Pe3--specifically QxPe3+."
+46,Qxe3+,e7e3,4k3/pp6/7n/3p3p/3P4/1Q1Bq2P/PP3r2/2KR3R w - - 0 24,"Oh, no!  Disaster!  Black should have played Kd8 or perhaps Kf8 (which would let white force a rook trade).  Kd7 gives white the black queen free and easy with Bb5+.  :("
+47,Kb1,c1b1,4k3/pp6/7n/3p3p/3P4/1Q1Bq2P/PP3r2/1K1R3R b - - 1 24,"Oh, no!  Disaster!  Black should have played Kd8 or perhaps Kf8 (which would let white force a rook trade).  Kd7 gives white the black queen free and easy with Bb5+.  :("
+48,Qxd4,e3d4,4k3/pp6/7n/3p3p/3q4/1Q1B3P/PP3r2/1K1R3R w - - 0 25,"Oh, no!  Disaster!  Black should have played Kd8 or perhaps Kf8 (which would let white force a rook trade).  Kd7 gives white the black queen free and easy with Bb5+.  :("
+49,Rhe1+,h1e1,4k3/pp6/7n/3p3p/3q4/1Q1B3P/PP3r2/1K1RR3 b - - 1 25,"Oh, no!  Disaster!  Black should have played Kd8 or perhaps Kf8 (which would let white force a rook trade).  Kd7 gives white the black queen free and easy with Bb5+.  :("
+50,Kd7,e8d7,8/pp1k4/7n/3p3p/3q4/1Q1B3P/PP3r2/1K1RR3 w - - 2 26,"Oh, no!  Disaster!  Black should have played Kd8 or perhaps Kf8 (which would let white force a rook trade).  Kd7 gives white the black queen free and easy with Bb5+.  :("
+51,Bb5+,d3b5,8/pp1k4/7n/1B1p3p/3q4/1Q5P/PP3r2/1K1RR3 b - - 3 26,
+52,Kd6,d7d6,8/pp6/3k3n/1B1p3p/3q4/1Q5P/PP3r2/1K1RR3 w - - 4 27,

@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White controls the centre and opens lines for development. I prefer the slower strategic buildup openings that arise from 1.Nf3
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The French Defense, Black wants to challenge White's pawn with d5"
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"The main lines to this opening are Nc3, e5, and Nd2. White has played f3? which loses a pawn because of dxe4 fxe4?? Qh4 ! but Baker planned to sacrifice the pawn anyway."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"The main lines to this opening are Nc3, e5, and Nd2. White has played f3? which loses a pawn because of dxe4 fxe4?? Qh4 ! but Baker planned to sacrifice the pawn anyway."
+5,f3,f2f3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3,"The main lines to this opening are Nc3, e5, and Nd2. White has played f3? which loses a pawn because of dxe4 fxe4?? Qh4 ! but Baker planned to sacrifice the pawn anyway."
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/4p3/8/3Pp3/5P2/PPP3PP/RNBQKBNR w KQkq - 0 4,Black probably thinks White will take e4 and Black will win it back with Qh4  with White's king in disarray
+7,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 1 4,"This move transposes into a form of Blackmar-Diemer Gambit, but where Black has already played e6, so Bg4 is impossible."
+8,exf3,e4f3,rnbqkbnr/ppp2ppp/4p3/8/3P4/2N2p2/PPP3PP/R1BQKBNR w KQkq - 0 5,Black immediately accepts Baker's sacrifice.
+9,Nxf3,g1f3,rnbqkbnr/ppp2ppp/4p3/8/3P4/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 5,"For compensation for the pawn, White has two developed knights and a strong pawn in the centre, while Black has no pieces developed."
+10,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq - 1 6,Trying to catch up in development so the extra pawn will be winning later
+11,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/6B1/3P4/2N2N2/PPP3PP/R2QKB1R b KQkq - 2 6,White plans to play Qd2 O-O-O and start attacking Black's kingside
+12,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/6B1/3P4/2N2N2/PPP3PP/R2QKB1R w KQkq - 3 7,Pushing away the annoying bishop.
+13,Qd2,d1d2,rnbqk2r/ppp1bppp/4pn2/6B1/3P4/2N2N2/PPPQ2PP/R3KB1R b KQkq - 4 7,Pushing away the annoying bishop.
+14,h6,h7h6,rnbqk2r/ppp1bpp1/4pn1p/6B1/3P4/2N2N2/PPPQ2PP/R3KB1R w KQkq - 0 8,Pushing away the annoying bishop.
+15,Bh4,g5h4,rnbqk2r/ppp1bpp1/4pn1p/8/3P3B/2N2N2/PPPQ2PP/R3KB1R b KQkq - 1 8,White still wants his bishop on this diagonal in case Black moves the knight he can trade his bad bishop for Black's good one.
+16,g5,g7g5,rnbqk2r/ppp1bp2/4pn1p/6p1/3P3B/2N2N2/PPPQ2PP/R3KB1R w KQkq - 0 9,Black weakens his position more in exchange for a tempo chasing White's bishop
+17,Bg3,h4g3,rnbqk2r/ppp1bp2/4pn1p/6p1/3P4/2N2NB1/PPPQ2PP/R3KB1R b KQkq - 1 9,I thought Bf2 was better because Bg3 isn't as solid
+18,Nh5,f6h5,rnbqk2r/ppp1bp2/4p2p/6pn/3P4/2N2NB1/PPPQ2PP/R3KB1R w KQkq - 2 10,Or maybe Bf2 now
+19,O-O-O,e1c1,rnbqk2r/ppp1bp2/4p2p/6pn/3P4/2N2NB1/PPPQ2PP/2KR1B1R b kq - 3 10,Baker doesn't like to waste moves and tries to develop as quickly as possible. Although leaving the bishop on g3 was a big mistake and is losing immediately.
+20,Nxg3,h5g3,rnbqk2r/ppp1bp2/4p2p/6p1/3P4/2N2Nn1/PPPQ2PP/2KR1B1R w kq - 0 11,Black wins at least a piece
+21,hxg3,h2g3,rnbqk2r/ppp1bp2/4p2p/6p1/3P4/2N2NP1/PPPQ2P1/2KR1B1R b kq - 0 11,"White probably thought the open h-file and Black's light square weakness was enough to compensate for his doubled pawns and lack of bishop pair, but Baker missed Black's tactic."
+22,g4,g5g4,rnbqk2r/ppp1bp2/4p2p/8/3P2p1/2N2NP1/PPPQ2P1/2KR1B1R w kq - 0 12,"Baker claims to be ""da masta"" of tactical play, but I can't believe he overlooked this when he castled queenside."
+23,Ne5,f3e5,rnbqk2r/ppp1bp2/4p2p/4N3/3P2p1/2N3P1/PPPQ2P1/2KR1B1R b kq - 1 12,"When Baker showed me this position, he said he already saw Bg5 and would rather lose his queen for a bishop and still be active, than to defend passively down a piece for nothing. I must say that he has major guts, although losing the queen may actually be better since desperate times call for desperate measures."
+24,Bg5,e7g5,rnbqk2r/ppp2p2/4p2p/4N1b1/3P2p1/2N3P1/PPPQ2P1/2KR1B1R w kq - 2 13,This guy may be expecting Baker to resign

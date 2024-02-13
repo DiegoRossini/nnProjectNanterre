@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"It's a very common and very easy to be developed through so many variations. Play as white, I usually start with 1. e2 e4 and hope black doesn't perform Sicilian Defense, I hate that ..."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A common and a quite good response to 1. e2 e4 ...
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Initiating an attack to black's pawn, I move the knight to f3... (King's Knight Opening, C40)"
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Black move his pawn to d6, starting a strong Philidor's Defence, but here come a new problem. It's very hard to develop his king's bishop..."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,"Actually an usual response to break Philidor's Defence is moving white pawn to d4, but I want to try something new: moving queen's knight to c3."
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,"3. ....... Bg4?
+I don't know why black move the bishop to g4, it's very weak... Actually Nc6 is better..
+But as long it doesn't threat my king, I let it stand here."
+7,Bc4,f1c4,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,"I move my bishop to c4 to prepare castling, a very common idea for beginner like me."
+8,h6,h7h6,rn1qkbnr/ppp2pp1/3p3p/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"Black move his pawn to h6, maybe he want to stop my knight's movements. Here I see a very good chance to attack black... A queen sacrifice!"
+9,Nxe5,f3e5,rn1qkbnr/ppp2pp1/3p3p/4N3/2B1P1b1/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 5,"5. Nxe5!?
+I think it's the most interesting move in this game. Giving my queen to black!"
+10,Bxd1,g4d1,rn1qkbnr/ppp2pp1/3p3p/4N3/2B1P3/2N5/PPPP1PPP/R1BbK2R w KQkq - 0 6,"Actually black must think it deeply, because I won't give my queen without any reasons. But, maybe he thought that I make an error or because I am still beginner (the last is right!)
+
+ANALYSIS=
+How if black refuse my queen and take my knight at e5? There's no problem. I'll take the g4 bishop and performing a well developed position."
+11,Bxf7+,c4f7,rn1qkbnr/ppp2Bp1/3p3p/4N3/4P3/2N5/PPPP1PPP/R1BbK2R b KQkq - 0 6,"My bishop do a starting check 6. Bxf7+ !! 
+The king has no choices. He just can move to e7 since d7 is guarded by my knight."
+12,Ke7,e8e7,rn1q1bnr/ppp1kBp1/3p3p/4N3/4P3/2N5/PPPP1PPP/R1BbK2R w KQ - 1 7,And a very beautiful checkmate that can't be avoided since 5. ..... Bxd1 ??
+13,Nd5#,c3d5,rn1q1bnr/ppp1kBp1/3p3p/3NN3/4P3/8/PPPP1PPP/R1BbK2R b KQ - 2 7,

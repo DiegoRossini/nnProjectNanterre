@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Rather than play d4 and possibly wind up conceding an early center square. I played c3 to set up d4.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Rather than play d4 and possibly wind up conceding an early center square. I played c3 to set up d4.
+3,c3,c2c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Rather than play d4 and possibly wind up conceding an early center square. I played c3 to set up d4.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,"After d4, the game would be more open. Early captures and counter movements would drive the action during the match."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/8/3pp3/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"After d4, the game would be more open. Early captures and counter movements would drive the action during the match."
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/8/4p3/3Pp3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,My opponent seized the opportunity to claim my e4 pawn and establish himself on my half of the board.
+7,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/4P3/4p3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,"I understood that by playing dxe5, I was opening up my Q to be captured. I would be behind in the match due to my opponent having more of the initiative early on."
+8,Qxd1+,d8d1,rnb1kbnr/ppp2ppp/8/4P3/4p3/2P5/PP3PPP/RNBqKBNR w KQkq - 0 5,My opponent again placed me in check early on forcing me to make concessions. I opted to block with f3. The piece itself would be easy for my opponent to deal with.
+9,Kxd1,e1d1,rnb1kbnr/ppp2ppp/8/4P3/4p3/2P5/PP3PPP/RNBK1BNR b kq - 0 5,My opponent again placed me in check early on forcing me to make concessions. I opted to block with f3. The piece itself would be easy for my opponent to deal with.
+10,Bg4+,c8g4,rn2kbnr/ppp2ppp/8/4P3/4p1b1/2P5/PP3PPP/RNBK1BNR w kq - 1 6,My opponent again placed me in check early on forcing me to make concessions. I opted to block with f3. The piece itself would be easy for my opponent to deal with.
+11,f3,f2f3,rn2kbnr/ppp2ppp/8/4P3/4p1b1/2P2P2/PP4PP/RNBK1BNR b kq - 0 6,"After gxf3, my K-side pawn structure was non-existent."
+12,exf3,e4f3,rn2kbnr/ppp2ppp/8/4P3/6b1/2P2p2/PP4PP/RNBK1BNR w kq - 0 7,"After gxf3, my K-side pawn structure was non-existent."
+13,gxf3,g2f3,rn2kbnr/ppp2ppp/8/4P3/6b1/2P2P2/PP5P/RNBK1BNR b kq - 0 7,"After gxf3, my K-side pawn structure was non-existent."
+14,Bh5,g4h5,rn2kbnr/ppp2ppp/8/4P2b/8/2P2P2/PP5P/RNBK1BNR w kq - 1 8,"Given a slight reprieve from the pressure, I would begin developing my minor pieces. Computer analysis indicates that Be2 was the best move in this scenario. Mainly, I can see that move having the advantage due to maintaining better coverage over the white diagonals early in the match. Additionally, it would provide protection to the f3 pawn."
+15,Ne2,g1e2,rn2kbnr/ppp2ppp/8/4P2b/8/2P2P2/PP2N2P/RNBK1B1R b kq - 2 8,"Given a slight reprieve from the pressure, I would begin developing my minor pieces. Computer analysis indicates that Be2 was the best move in this scenario. Mainly, I can see that move having the advantage due to maintaining better coverage over the white diagonals early in the match. Additionally, it would provide protection to the f3 pawn."
+16,Nc6,b8c6,r3kbnr/ppp2ppp/2n5/4P2b/8/2P2P2/PP2N2P/RNBK1B1R w kq - 3 9,Better play here from my opponent would have left me in a larger gap. He would have picked up the free pawn (f3) and set up a positioning on my R.
+17,Bg2,f1g2,r3kbnr/ppp2ppp/2n5/4P2b/8/2P2P2/PP2N1BP/RNBK3R b kq - 4 9,The computer analysis indicates that f4 would have been the appropriate move in this situation. There was a clear threat to the piece and f4 would have provided protection to the hanging pawn.
+18,O-O-O+,e8c8,2kr1bnr/ppp2ppp/2n5/4P2b/8/2P2P2/PP2N1BP/RNBK3R w - - 5 10,My opponent castled long and I continued with development.
+19,Nd2,b1d2,2kr1bnr/ppp2ppp/2n5/4P2b/8/2P2P2/PP1NN1BP/R1BK3R b - - 6 10,My opponent castled long and I continued with development.
+20,Nxe5,c6e5,2kr1bnr/ppp2ppp/8/4n2b/8/2P2P2/PP1NN1BP/R1BK3R w - - 0 11,"My opponent moves his N towards a more central location, controlling the center of the board. I opted to make a move against his LSB to remove it from its perch."
+21,Nf4,e2f4,2kr1bnr/ppp2ppp/8/4n2b/5N2/2P2P2/PP1N2BP/R1BK3R b - - 1 11,"My opponent moves his N towards a more central location, controlling the center of the board. I opted to make a move against his LSB to remove it from its perch."
+22,Nc4,e5c4,2kr1bnr/ppp2ppp/8/7b/2n2N2/2P2P2/PP1N2BP/R1BK3R w - - 2 12,"Computer analysis indicates that this move by my opponent, was a 3 pawn swing in my favor. The threats posed by his N are not an immediate worry. I would be able to play counter-moves and not give up any ground in material."
+23,Re1,h1e1,2kr1bnr/ppp2ppp/8/7b/2n2N2/2P2P2/PP1N2BP/R1BKR3 b - - 3 12,The computer favored Bh3+. This would have led to a favorable line. The reasoning behind my movement of Re1 was to claim the open file.
+24,Nf6,g8f6,2kr1b1r/ppp2ppp/5n2/7b/2n2N2/2P2P2/PP1N2BP/R1BKR3 w - - 4 13,The computer says my best move here is b4 which I played next.
+25,Kc2,d1c2,2kr1b1r/ppp2ppp/5n2/7b/2n2N2/2P2P2/PPKN2BP/R1B1R3 b - - 5 13,The computer says my best move here is b4 which I played next.
+26,Bg6+,h5g6,2kr1b1r/ppp2ppp/5nb1/8/2n2N2/2P2P2/PPKN2BP/R1B1R3 w - - 6 14,The computer says my best move here is b4 which I played next.
+27,Kd1,c2d1,2kr1b1r/ppp2ppp/5nb1/8/2n2N2/2P2P2/PP1N2BP/R1BKR3 b - - 7 14,The computer says my best move here is b4 which I played next.
+28,Bc5,f8c5,2kr3r/ppp2ppp/5nb1/2b5/2n2N2/2P2P2/PP1N2BP/R1BKR3 w - - 8 15,The computer says my best move here is b4 which I played next.
+29,b3,b2b3,2kr3r/ppp2ppp/5nb1/2b5/2n2N2/1PP2P2/P2N2BP/R1BKR3 b - - 0 15,The computer says my best move here is b4 which I played next.
+30,Na5,c4a5,2kr3r/ppp2ppp/5nb1/n1b5/5N2/1PP2P2/P2N2BP/R1BKR3 w - - 1 16,The computer says my best move here is b4 which I played next.
+31,Bh3+,g2h3,2kr3r/ppp2ppp/5nb1/n1b5/5N2/1PP2P1B/P2N3P/R1BKR3 b - - 2 16,The computer says my best move here is b4 which I played next.
+32,Kb8,c8b8,1k1r3r/ppp2ppp/5nb1/n1b5/5N2/1PP2P1B/P2N3P/R1BKR3 w - - 3 17,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+33,b4,b3b4,1k1r3r/ppp2ppp/5nb1/n1b5/1P3N2/2P2P1B/P2N3P/R1BKR3 b - - 0 17,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+34,Bf2,c5f2,1k1r3r/ppp2ppp/5nb1/n7/1P3N2/2P2P1B/P2N1b1P/R1BKR3 w - - 1 18,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+35,Rf1,e1f1,1k1r3r/ppp2ppp/5nb1/n7/1P3N2/2P2P1B/P2N1b1P/R1BK1R2 b - - 2 18,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+36,Be3,f2e3,1k1r3r/ppp2ppp/5nb1/n7/1P3N2/2P1bP1B/P2N3P/R1BK1R2 w - - 3 19,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+37,bxa5,b4a5,1k1r3r/ppp2ppp/5nb1/P7/5N2/2P1bP1B/P2N3P/R1BK1R2 b - - 0 19,"The computer favored me playing Nxg6, which was also the best move it preferred on the next line as well."
+38,Rhe8,h8e8,1k1rr3/ppp2ppp/5nb1/P7/5N2/2P1bP1B/P2N3P/R1BK1R2 w - - 1 20,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+39,Re1,f1e1,1k1rr3/ppp2ppp/5nb1/P7/5N2/2P1bP1B/P2N3P/R1BKR3 b - - 2 20,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+40,Bxf4,e3f4,1k1rr3/ppp2ppp/5nb1/P7/5b2/2P2P1B/P2N3P/R1BKR3 w - - 0 21,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+41,Rxe8,e1e8,1k1rR3/ppp2ppp/5nb1/P7/5b2/2P2P1B/P2N3P/R1BK4 b - - 0 21,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+42,Rxe8,d8e8,1k2r3/ppp2ppp/5nb1/P7/5b2/2P2P1B/P2N3P/R1BK4 w - - 0 22,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+43,Nc4,d2c4,1k2r3/ppp2ppp/5nb1/P7/2N2b2/2P2P1B/P6P/R1BK4 b - - 1 22,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+44,Rd8+,e8d8,1k1r4/ppp2ppp/5nb1/P7/2N2b2/2P2P1B/P6P/R1BK4 w - - 2 23,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+45,Ke2,d1e2,1k1r4/ppp2ppp/5nb1/P7/2N2b2/2P2P1B/P3K2P/R1B5 b - - 3 23,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+46,Nh5,f6h5,1k1r4/ppp2ppp/6b1/P6n/2N2b2/2P2P1B/P3K2P/R1B5 w - - 4 24,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+47,Bxf4,c1f4,1k1r4/ppp2ppp/6b1/P6n/2N2B2/2P2P1B/P3K2P/R7 b - - 0 24,"According to computer analysis, I should have played Kf2. That was my next move. Either way, there was going to be a trade of B's. I was wanting to dictate the location vice wait for my opponent."
+48,Nxf4+,h5f4,1k1r4/ppp2ppp/6b1/P7/2N2n2/2P2P1B/P3K2P/R7 w - - 0 25,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+49,Kf2,e2f2,1k1r4/ppp2ppp/6b1/P7/2N2n2/2P2P1B/P4K1P/R7 b - - 1 25,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+50,Nxh3+,f4h3,1k1r4/ppp2ppp/6b1/P7/2N5/2P2P1n/P4K1P/R7 w - - 0 26,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+51,Kg3,f2g3,1k1r4/ppp2ppp/6b1/P7/2N5/2P2PKn/P6P/R7 b - - 1 26,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+52,Bf5,g6f5,1k1r4/ppp2ppp/8/P4b2/2N5/2P2PKn/P6P/R7 w - - 2 27,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+53,Ne3,c4e3,1k1r4/ppp2ppp/8/P4b2/8/2P1NPKn/P6P/R7 b - - 3 27,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+54,g6,g7g6,1k1r4/ppp2p1p/6p1/P4b2/8/2P1NPKn/P6P/R7 w - - 0 28,"I assume my opponent thought I would not capture the B because of the pawn. However, help reduce my material disadvantage and alleviate some pressure."
+55,Nxf5,e3f5,1k1r4/ppp2p1p/6p1/P4N2/8/2P2PKn/P6P/R7 b - - 0 28,"Rd1 had crossed my mind, which the computer said was the best move."
+56,Ng5,h3g5,1k1r4/ppp2p1p/6p1/P4Nn1/8/2P2PK1/P6P/R7 w - - 1 29,"Rd1 had crossed my mind, which the computer said was the best move."
+57,Ne3,f5e3,1k1r4/ppp2p1p/6p1/P5n1/8/2P1NPK1/P6P/R7 b - - 2 29,"Rd1 had crossed my mind, which the computer said was the best move."
+58,Rd3,d8d3,1k6/ppp2p1p/6p1/P5n1/8/2PrNPK1/P6P/R7 w - - 3 30,"Rd1 had crossed my mind, which the computer said was the best move."
+59,Kg4,g3g4,1k6/ppp2p1p/6p1/P5n1/6K1/2PrNP2/P6P/R7 b - - 4 30,"Rd1 had crossed my mind, which the computer said was the best move."
+60,h6,h7h6,1k6/ppp2p2/6pp/P5n1/6K1/2PrNP2/P6P/R7 w - - 0 31,I am down a pawn in material but my structure is completely shattered.
+61,Rd1,a1d1,1k6/ppp2p2/6pp/P5n1/6K1/2PrNP2/P6P/3R4 b - - 1 31,I am down a pawn in material but my structure is completely shattered.
+62,Rxd1,d3d1,1k6/ppp2p2/6pp/P5n1/6K1/2P1NP2/P6P/3r4 w - - 0 32,I am down a pawn in material but my structure is completely shattered.
+63,Nxd1,e3d1,1k6/ppp2p2/6pp/P5n1/6K1/2P2P2/P6P/3N4 b - - 0 32,I am down a pawn in material but my structure is completely shattered.
+64,f6,f7f6,1k6/ppp5/5ppp/P5n1/6K1/2P2P2/P6P/3N4 w - - 0 33,My opponent accepted a draw.
+65,f4,f3f4,1k6/ppp5/5ppp/P5n1/5PK1/2P5/P6P/3N4 b - - 0 33,My opponent accepted a draw.
+66,f5+,f6f5,1k6/ppp5/6pp/P4pn1/5PK1/2P5/P6P/3N4 w - - 0 34,My opponent accepted a draw.
+67,Kg3,g4g3,1k6/ppp5/6pp/P4pn1/5P2/2P3K1/P6P/3N4 b - - 1 34,My opponent accepted a draw.
+68,Ne4+,g5e4,1k6/ppp5/6pp/P4p2/4nP2/2P3K1/P6P/3N4 w - - 2 35,My opponent accepted a draw.
+69,Kf3,g3f3,1k6/ppp5/6pp/P4p2/4nP2/2P2K2/P6P/3N4 b - - 3 35,My opponent accepted a draw.

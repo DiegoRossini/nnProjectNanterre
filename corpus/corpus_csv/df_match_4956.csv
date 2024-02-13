@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,6. exf5 would be too drawish.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,6. exf5 would be too drawish.
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,6. exf5 would be too drawish.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,6. exf5 would be too drawish.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,6. exf5 would be too drawish.
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2np1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4,6. exf5 would be too drawish.
+7,Nf3,g1f3,r1bqkb1r/ppp1pppp/2np1n2/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 4 4,6. exf5 would be too drawish.
+8,Bg4,c8g4,r2qkb1r/ppp1pppp/2np1n2/8/3PP1b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 5 5,6. exf5 would be too drawish.
+9,Be3,c1e3,r2qkb1r/ppp1pppp/2np1n2/8/3PP1b1/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 6 5,6. exf5 would be too drawish.
+10,e5,e7e5,r2qkb1r/ppp2ppp/2np1n2/4p3/3PP1b1/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 0 6,6. exf5 would be too drawish.
+11,d5,d4d5,r2qkb1r/ppp2ppp/2np1n2/3Pp3/4P1b1/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 0 6,6. exf5 would be too drawish.
+12,Nb4,c6b4,r2qkb1r/ppp2ppp/3p1n2/3Pp3/1n2P1b1/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 1 7,"The right move, doubling White's pawns. White might have played 7. Be2."
+13,a3,a2a3,r2qkb1r/ppp2ppp/3p1n2/3Pp3/1n2P1b1/P1N1BN2/1PP2PPP/R2QKB1R b KQkq - 0 7,"The right move, doubling White's pawns. White might have played 7. Be2."
+14,Bxf3,g4f3,r2qkb1r/ppp2ppp/3p1n2/3Pp3/1n2P3/P1N1Bb2/1PP2PPP/R2QKB1R w KQkq - 0 8,"The right move, doubling White's pawns. White might have played 7. Be2."
+15,gxf3,g2f3,r2qkb1r/ppp2ppp/3p1n2/3Pp3/1n2P3/P1N1BP2/1PP2P1P/R2QKB1R b KQkq - 0 8,This simply loses. The only good move was 8...Na6.
+16,a5,a7a5,r2qkb1r/1pp2ppp/3p1n2/p2Pp3/1n2P3/P1N1BP2/1PP2P1P/R2QKB1R w KQkq - 0 9,This simply loses. The only good move was 8...Na6.
+17,axb4,a3b4,r2qkb1r/1pp2ppp/3p1n2/p2Pp3/1P2P3/2N1BP2/1PP2P1P/R2QKB1R b KQkq - 0 9,Black should finish his development with 15...Be7 and 16...0-0.
+18,axb4,a5b4,r2qkb1r/1pp2ppp/3p1n2/3Pp3/1p2P3/2N1BP2/1PP2P1P/R2QKB1R w KQkq - 0 10,Black should finish his development with 15...Be7 and 16...0-0.
+19,Rxa8,a1a8,R2qkb1r/1pp2ppp/3p1n2/3Pp3/1p2P3/2N1BP2/1PP2P1P/3QKB1R b Kk - 0 10,Black should finish his development with 15...Be7 and 16...0-0.
+20,Qxa8,d8a8,q3kb1r/1pp2ppp/3p1n2/3Pp3/1p2P3/2N1BP2/1PP2P1P/3QKB1R w Kk - 0 11,Black should finish his development with 15...Be7 and 16...0-0.
+21,Nb5,c3b5,q3kb1r/1pp2ppp/3p1n2/1N1Pp3/1p2P3/4BP2/1PP2P1P/3QKB1R b Kk - 1 11,Black should finish his development with 15...Be7 and 16...0-0.
+22,Qa5,a8a5,4kb1r/1pp2ppp/3p1n2/qN1Pp3/1p2P3/4BP2/1PP2P1P/3QKB1R w Kk - 2 12,Black should finish his development with 15...Be7 and 16...0-0.
+23,c3,c2c3,4kb1r/1pp2ppp/3p1n2/qN1Pp3/1p2P3/2P1BP2/1P3P1P/3QKB1R b Kk - 0 12,Black should finish his development with 15...Be7 and 16...0-0.
+24,bxc3,b4c3,4kb1r/1pp2ppp/3p1n2/qN1Pp3/4P3/2p1BP2/1P3P1P/3QKB1R w Kk - 0 13,Black should finish his development with 15...Be7 and 16...0-0.
+25,Nxc3,b5c3,4kb1r/1pp2ppp/3p1n2/q2Pp3/4P3/2N1BP2/1P3P1P/3QKB1R b Kk - 0 13,Black should finish his development with 15...Be7 and 16...0-0.
+26,c6,c7c6,4kb1r/1p3ppp/2pp1n2/q2Pp3/4P3/2N1BP2/1P3P1P/3QKB1R w Kk - 0 14,Black should finish his development with 15...Be7 and 16...0-0.
+27,dxc6,d5c6,4kb1r/1p3ppp/2Pp1n2/q3p3/4P3/2N1BP2/1P3P1P/3QKB1R b Kk - 0 14,Black should finish his development with 15...Be7 and 16...0-0.
+28,bxc6,b7c6,4kb1r/5ppp/2pp1n2/q3p3/4P3/2N1BP2/1P3P1P/3QKB1R w Kk - 0 15,Black should finish his development with 15...Be7 and 16...0-0.
+29,Bc4,f1c4,4kb1r/5ppp/2pp1n2/q3p3/2B1P3/2N1BP2/1P3P1P/3QK2R b Kk - 1 15,Black should finish his development with 15...Be7 and 16...0-0.
+30,Qb4,a5b4,4kb1r/5ppp/2pp1n2/4p3/1qB1P3/2N1BP2/1P3P1P/3QK2R w Kk - 2 16,Black should finish his development with 15...Be7 and 16...0-0.
+31,Qb3,d1b3,4kb1r/5ppp/2pp1n2/4p3/1qB1P3/1QN1BP2/1P3P1P/4K2R b Kk - 3 16,"Protects Bishop and b2 pawn, as well as threatening the Black Queen and the f7 pawn."
+32,d5,d6d5,4kb1r/5ppp/2p2n2/3pp3/1qB1P3/1QN1BP2/1P3P1P/4K2R w Kk - 0 17,Probably safer was to exchange Queens. Now he loses more material.
+33,exd5,e4d5,4kb1r/5ppp/2p2n2/3Pp3/1qB5/1QN1BP2/1P3P1P/4K2R b Kk - 0 17,"When ahead in material, exchange pieces."
+34,cxd5,c6d5,4kb1r/5ppp/5n2/3pp3/1qB5/1QN1BP2/1P3P1P/4K2R w Kk - 0 18,"When ahead in material, exchange pieces."
+35,Bxd5,c4d5,4kb1r/5ppp/5n2/3Bp3/1q6/1QN1BP2/1P3P1P/4K2R b Kk - 0 18,"When ahead in material, exchange pieces."
+36,Nxd5,f6d5,4kb1r/5ppp/8/3np3/1q6/1QN1BP2/1P3P1P/4K2R w Kk - 0 19,"When ahead in material, exchange pieces."
+37,Qxd5,b3d5,4kb1r/5ppp/8/3Qp3/1q6/2N1BP2/1P3P1P/4K2R b Kk - 0 19,"When ahead in material, exchange pieces."
+38,Qxb2,b4b2,4kb1r/5ppp/8/3Qp3/8/2N1BP2/1q3P1P/4K2R w Kk - 0 20,"When ahead in material, exchange pieces."
+39,Qxe5+,d5e5,4kb1r/5ppp/8/4Q3/8/2N1BP2/1q3P1P/4K2R b Kk - 0 20,"When ahead in material, exchange pieces."
+40,Be7,f8e7,4k2r/4bppp/8/4Q3/8/2N1BP2/1q3P1P/4K2R w Kk - 1 21,"When ahead in material, exchange pieces."
+41,Qb5+,e5b5,4k2r/4bppp/8/1Q6/8/2N1BP2/1q3P1P/4K2R b Kk - 2 21,"When ahead in material, exchange pieces."
+42,Qxb5,b2b5,4k2r/4bppp/8/1q6/8/2N1BP2/5P1P/4K2R w Kk - 0 22,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+43,Nxb5,c3b5,4k2r/4bppp/8/1N6/8/4BP2/5P1P/4K2R b Kk - 0 22,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+44,O-O,e8g8,5rk1/4bppp/8/1N6/8/4BP2/5P1P/4K2R w K - 1 23,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+45,O-O,e1g1,5rk1/4bppp/8/1N6/8/4BP2/5P1P/5RK1 b - - 2 23,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+46,h5,h7h5,5rk1/4bpp1/8/1N5p/8/4BP2/5P1P/5RK1 w - - 0 24,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+47,Nd4,b5d4,5rk1/4bpp1/8/7p/3N4/4BP2/5P1P/5RK1 b - - 1 24,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+48,g5,g7g5,5rk1/4bp2/8/6pp/3N4/4BP2/5P1P/5RK1 w - - 0 25,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+49,Nf5,d4f5,5rk1/4bp2/8/5Npp/8/4BP2/5P1P/5RK1 b - - 1 25,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+50,Bf6,e7f6,5rk1/5p2/5b2/5Npp/8/4BP2/5P1P/5RK1 w - - 2 26,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+51,h4,h2h4,5rk1/5p2/5b2/5Npp/7P/4BP2/5P2/5RK1 b - - 0 26,"This was a daring move, but I calculated I could regain the pawn by attacking the Rook and King."
+52,gxh4,g5h4,5rk1/5p2/5b2/5N1p/7p/4BP2/5P2/5RK1 w - - 0 27,"The best move, I think, forcing White to exchange his powerful Bishop for Black's less threatening one."
+53,Bh6,e3h6,5rk1/5p2/5b1B/5N1p/7p/5P2/5P2/5RK1 b - - 1 27,"The best move, I think, forcing White to exchange his powerful Bishop for Black's less threatening one."
+54,Rd8,f8d8,3r2k1/5p2/5b1B/5N1p/7p/5P2/5P2/5RK1 w - - 2 28,"The best move, I think, forcing White to exchange his powerful Bishop for Black's less threatening one."
+55,f4,f3f4,3r2k1/5p2/5b1B/5N1p/5P1p/8/5P2/5RK1 b - - 0 28,"The best move, I think, forcing White to exchange his powerful Bishop for Black's less threatening one."
+56,Kh7,g8h7,3r4/5p1k/5b1B/5N1p/5P1p/8/5P2/5RK1 w - - 1 29,"The best move, I think, forcing White to exchange his powerful Bishop for Black's less threatening one."
+57,Bg5,h6g5,3r4/5p1k/5b2/5NBp/5P1p/8/5P2/5RK1 b - - 2 29,There was probably no way to save the advanced black pawn.
+58,Bxg5,f6g5,3r4/5p1k/8/5Nbp/5P1p/8/5P2/5RK1 w - - 0 30,There was probably no way to save the advanced black pawn.
+59,fxg5,f4g5,3r4/5p1k/8/5NPp/7p/8/5P2/5RK1 b - - 0 30,There was probably no way to save the advanced black pawn.
+60,h3,h4h3,3r4/5p1k/8/5NPp/8/7p/5P2/5RK1 w - - 0 31,There was probably no way to save the advanced black pawn.
+61,f4,f2f4,3r4/5p1k/8/5NPp/5P2/7p/8/5RK1 b - - 0 31,There was probably no way to save the advanced black pawn.
+62,Rd2,d8d2,8/5p1k/8/5NPp/5P2/7p/3r4/5RK1 w - - 1 32,There was probably no way to save the advanced black pawn.
+63,Rf2,f1f2,8/5p1k/8/5NPp/5P2/7p/3r1R2/6K1 b - - 2 32,There was probably no way to save the advanced black pawn.
+64,Rd5,d2d5,8/5p1k/8/3r1NPp/5P2/7p/5R2/6K1 w - - 3 33,There was probably no way to save the advanced black pawn.
+65,Nh4,f5h4,8/5p1k/8/3r2Pp/5P1N/7p/5R2/6K1 b - - 4 33,There was probably no way to save the advanced black pawn.
+66,Rd3,d5d3,8/5p1k/8/6Pp/5P1N/3r3p/5R2/6K1 w - - 5 34,There was probably no way to save the advanced black pawn.
+67,Rf3,f2f3,8/5p1k/8/6Pp/5P1N/3r1R1p/8/6K1 b - - 6 34,"Now, of course, if he exchanges Rooks, Black will lose the pawn to 35. Kh2, Kg6, 36. Nh5+, etc."
+68,Rd6,d3d6,8/5p1k/3r4/6Pp/5P1N/5R1p/8/6K1 w - - 7 35,Black hopes to exchange all the pawns so that none can be promoted. This does not work.
+69,Rxh3,f3h3,8/5p1k/3r4/6Pp/5P1N/7R/8/6K1 b - - 0 35,Black hopes to exchange all the pawns so that none can be promoted. This does not work.
+70,f6,f7f6,8/7k/3r1p2/6Pp/5P1N/7R/8/6K1 w - - 0 36,Black hopes to exchange all the pawns so that none can be promoted. This does not work.
+71,g6+,g5g6,8/7k/3r1pP1/7p/5P1N/7R/8/6K1 b - - 0 36,"Now, even after the correct retreat, 36...Kg8, 37. Nf5, Rd1+, 38. Kf2, Rd2+, 39. Ke3, Black must give up the other h-pawn. If 39...Rd5?, 40. Ne7+ forks the Rook and King."
+72,Kh6,h7h6,8/8/3r1pPk/7p/5P1N/7R/8/6K1 w - - 1 37,"Of course, this wins much more quickly."
+73,Nf5+,h4f5,8/8/3r1pPk/5N1p/5P2/7R/8/6K1 b - - 2 37,

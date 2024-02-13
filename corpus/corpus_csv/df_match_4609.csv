@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Black played aggressively in the opening, but all his threats were well handled and soon I build up some nice positional advantage, that allowed me to win with an attack on blacks poorly defended castled king"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Bogo-Indian defence, Gruenfeld variation (E11)"
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Bogo-Indian defence, Gruenfeld variation (E11)"
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Bogo-Indian defence, Gruenfeld variation (E11)"
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"Bogo-Indian defence, Gruenfeld variation (E11)"
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,"Bogo-Indian defence, Gruenfeld variation (E11)"
+7,Nbd2,b1d2,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4,"Bogo-Indian defence, Gruenfeld variation (E11)"
+8,b6,b7b6,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R w KQkq - 0 5,forces black to decide
+9,a3,a2a3,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/P4N2/1P1NPPPP/R1BQKB1R b KQkq - 0 5,forces black to decide
+10,Bxd2+,b4d2,rnbqk2r/p1pp1ppp/1p2pn2/8/2PP4/P4N2/1P1bPPPP/R1BQKB1R w KQkq - 0 6,and white achieved the objective of the Bogo-Indian with Nbd2 that is to have black's bishop exchanged by the knight
+11,Bxd2,c1d2,rnbqk2r/p1pp1ppp/1p2pn2/8/2PP4/P4N2/1P1BPPPP/R2QKB1R b KQkq - 0 6,and white achieved the objective of the Bogo-Indian with Nbd2 that is to have black's bishop exchanged by the knight
+12,Bb7,c8b7,rn1qk2r/pbpp1ppp/1p2pn2/8/2PP4/P4N2/1P1BPPPP/R2QKB1R w KQkq - 1 7,preventing Bxf3
+13,e3,e2e3,rn1qk2r/pbpp1ppp/1p2pn2/8/2PP4/P3PN2/1P1B1PPP/R2QKB1R b KQkq - 0 7,preventing Bxf3
+14,Ne4,f6e4,rn1qk2r/pbpp1ppp/1p2p3/8/2PPn3/P3PN2/1P1B1PPP/R2QKB1R w KQkq - 1 8,!
+15,Be2,f1e2,rn1qk2r/pbpp1ppp/1p2p3/8/2PPn3/P3PN2/1P1BBPPP/R2QK2R b KQkq - 2 8,"now black can exchange back the knight by the bishop d2, but with Be2 again Bxf3 is not viable..."
+16,f5,f7f5,rn1qk2r/pbpp2pp/1p2p3/5p2/2PPn3/P3PN2/1P1BBPPP/R2QK2R w KQkq - 0 9,"?! N, both 0-0 (1/1/1) and d6 one game lost by black, were already tried here, I personally don't see the point of f5, it may gain some space, but overextends the king's wing pawns, and even after 0-0 0-0 d6 black would transpose to a line were the already played games were lost or drawn by black"
+17,O-O,e1g1,rn1qk2r/pbpp2pp/1p2p3/5p2/2PPn3/P3PN2/1P1BBPPP/R2Q1RK1 b kq - 1 9,"for now, Be1 avoids Nxd2 while defends the f pawn, but at any moment in the future it may come to life when I play f3 or if I play the bishop to c3 aimed at g7 after a d5 pawn break"
+18,Nc6,b8c6,r2qk2r/pbpp2pp/1pn1p3/5p2/2PPn3/P3PN2/1P1BBPPP/R2Q1RK1 w kq - 2 10,"for now, Be1 avoids Nxd2 while defends the f pawn, but at any moment in the future it may come to life when I play f3 or if I play the bishop to c3 aimed at g7 after a d5 pawn break"
+19,Be1,d2e1,r2qk2r/pbpp2pp/1pn1p3/5p2/2PPn3/P3PN2/1P2BPPP/R2QBRK1 b kq - 3 10,"for now, Be1 avoids Nxd2 while defends the f pawn, but at any moment in the future it may come to life when I play f3 or if I play the bishop to c3 aimed at g7 after a d5 pawn break"
+20,O-O,e8g8,r2q1rk1/pbpp2pp/1pn1p3/5p2/2PPn3/P3PN2/1P2BPPP/R2QBRK1 w - - 4 11,to get rid of that annoying knight on e4
+21,Nd2,f3d2,r2q1rk1/pbpp2pp/1pn1p3/5p2/2PPn3/P3P3/1P1NBPPP/R2QBRK1 b - - 5 11,to get rid of that annoying knight on e4
+22,Nd6,e4d6,r2q1rk1/pbpp2pp/1pnnp3/5p2/2PP4/P3P3/1P1NBPPP/R2QBRK1 w - - 6 12,"and now a pawn break not the previously intended one (d5), but a c5 pawn break and black has nothing better than the sequence bxc5 dxc5"
+23,c5,c4c5,r2q1rk1/pbpp2pp/1pnnp3/2P2p2/3P4/P3P3/1P1NBPPP/R2QBRK1 b - - 0 12,"and now a pawn break not the previously intended one (d5), but a c5 pawn break and black has nothing better than the sequence bxc5 dxc5"
+24,bxc5,b6c5,r2q1rk1/pbpp2pp/2nnp3/2p2p2/3P4/P3P3/1P1NBPPP/R2QBRK1 w - - 0 13,and now the bishop is aimed at g6
+25,dxc5,d4c5,r2q1rk1/pbpp2pp/2nnp3/2P2p2/8/P3P3/1P1NBPPP/R2QBRK1 b - - 0 13,and now the bishop is aimed at g6
+26,Ne4,d6e4,r2q1rk1/pbpp2pp/2n1p3/2P2p2/4n3/P3P3/1P1NBPPP/R2QBRK1 w - - 1 14,and now the bishop is aimed at g6
+27,Nxe4,d2e4,r2q1rk1/pbpp2pp/2n1p3/2P2p2/4N3/P3P3/1P2BPPP/R2QBRK1 b - - 0 14,and now the bishop is aimed at g6
+28,fxe4,f5e4,r2q1rk1/pbpp2pp/2n1p3/2P5/4p3/P3P3/1P2BPPP/R2QBRK1 w - - 0 15,and now the bishop is aimed at g6
+29,Bc3,e1c3,r2q1rk1/pbpp2pp/2n1p3/2P5/4p3/P1B1P3/1P2BPPP/R2Q1RK1 b - - 1 15,and now the bishop is aimed at g6
+30,a5,a7a5,r2q1rk1/1bpp2pp/2n1p3/p1P5/4p3/P1B1P3/1P2BPPP/R2Q1RK1 w - - 0 16,"now another pawn break to open the f column, while getting rid of the e4 pawn"
+31,f3,f2f3,r2q1rk1/1bpp2pp/2n1p3/p1P5/4p3/P1B1PP2/1P2B1PP/R2Q1RK1 b - - 0 16,"now another pawn break to open the f column, while getting rid of the e4 pawn"
+32,exf3,e4f3,r2q1rk1/1bpp2pp/2n1p3/p1P5/8/P1B1Pp2/1P2B1PP/R2Q1RK1 w - - 0 17,inviting Rxf3 Bxf3 and white would have a slight advantage
+33,Rxf3,f1f3,r2q1rk1/1bpp2pp/2n1p3/p1P5/8/P1B1PR2/1P2B1PP/R2Q2K1 b - - 0 17,inviting Rxf3 Bxf3 and white would have a slight advantage
+34,d5,d7d5,r2q1rk1/1bp3pp/2n1p3/p1Pp4/8/P1B1PR2/1P2B1PP/R2Q2K1 w - d6 0 18,again inviting Rxf3 to play Qxf3 and Rf1
+35,Bd3,e2d3,r2q1rk1/1bp3pp/2n1p3/p1Pp4/8/P1BBPR2/1P4PP/R2Q2K1 b - - 1 18,again inviting Rxf3 to play Qxf3 and Rf1
+36,Rxf3,f8f3,r2q2k1/1bp3pp/2n1p3/p1Pp4/8/P1BBPr2/1P4PP/R2Q2K1 w - - 0 19,threatens Rf1-Qf7+
+37,Qxf3,d1f3,r2q2k1/1bp3pp/2n1p3/p1Pp4/8/P1BBPQ2/1P4PP/R5K1 b - - 0 19,threatens Rf1-Qf7+
+38,Qe8,d8e8,r3q1k1/1bp3pp/2n1p3/p1Pp4/8/P1BBPQ2/1P4PP/R5K1 w - - 1 20,"? black exchanges the bishops, but the his rook will be off the game, and has to go back on his track, losing precious tempi"
+39,Rf1,a1f1,r3q1k1/1bp3pp/2n1p3/p1Pp4/8/P1BBPQ2/1P4PP/5RK1 b - - 2 20,"? black exchanges the bishops, but the his rook will be off the game, and has to go back on his track, losing precious tempi"
+40,Ba6,b7a6,r3q1k1/2p3pp/b1n1p3/p1Pp4/8/P1BBPQ2/1P4PP/5RK1 w - - 3 21,"? black exchanges the bishops, but the his rook will be off the game, and has to go back on his track, losing precious tempi"
+41,Bxa6,d3a6,r3q1k1/2p3pp/B1n1p3/p1Pp4/8/P1B1PQ2/1P4PP/5RK1 b - - 0 21,now both g7 and e6 are threaten
+42,Rxa6,a8a6,4q1k1/2p3pp/r1n1p3/p1Pp4/8/P1B1PQ2/1P4PP/5RK1 w - - 0 22,now both g7 and e6 are threaten
+43,Qg4,f3g4,4q1k1/2p3pp/r1n1p3/p1Pp4/6Q1/P1B1P3/1P4PP/5RK1 b - - 1 22,now both g7 and e6 are threaten
+44,g6,g7g6,4q1k1/2p4p/r1n1p1p1/p1Pp4/6Q1/P1B1P3/1P4PP/5RK1 w - - 0 23,"?! Qg6 maybe better here, but then white still has Qf3 aimed at c7"
+45,h4,h2h4,4q1k1/2p4p/r1n1p1p1/p1Pp4/6QP/P1B1P3/1P4P1/5RK1 b - - 0 23,"h4-h5 the third pawn break on this game, and now black has his pawn pinned"

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,So he started with The English.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,I decided to play a Closed Sicilian reversed.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,Normal development.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,Me too.
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3,The natural square for the knight.
+6,f5,f7f5,r1bqkbnr/pppp2pp/2n5/4pp2/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4,A more aggressive move than Nf6.
+7,d4,d2d4,r1bqkbnr/pppp2pp/2n5/4pp2/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4,He rightly challenges my pawn centre.
+8,e4,e5e4,r1bqkbnr/pppp2pp/2n5/5p2/2PPp3/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,So I advance.
+9,Ng5,f3g5,r1bqkbnr/pppp2pp/2n5/5pN1/2PPp3/2N5/PP2PPPP/R1BQKB1R b KQkq - 1 5,He advances the knight.
+10,Be7,f8e7,r1bqk1nr/ppppb1pp/2n5/5pN1/2PPp3/2N5/PP2PPPP/R1BQKB1R w KQkq - 2 6,I hit the knight.
+11,h4,h2h4,r1bqk1nr/ppppb1pp/2n5/5pN1/2PPp2P/2N5/PP2PPP1/R1BQKB1R b KQkq - 0 6,He protects.
+12,h6,h7h6,r1bqk1nr/ppppb1p1/2n4p/5pN1/2PPp2P/2N5/PP2PPP1/R1BQKB1R w KQkq - 0 7,I go after the h pawn. This plan is over-ambitious. Probably simple development with Nf6 was best.
+13,Nh3,g5h3,r1bqk1nr/ppppb1p1/2n4p/5p2/2PPp2P/2N4N/PP2PPP1/R1BQKB1R b KQkq - 1 7,The only square for the knight.
+14,Bxh4,e7h4,r1bqk1nr/pppp2p1/2n4p/5p2/2PPp2b/2N4N/PP2PPP1/R1BQKB1R w KQkq - 0 8,"The logical follow-up to my last move, but probably a mistake. My computer likes the bizarre looking 7....Rh7 here."
+15,e3,e2e3,r1bqk1nr/pppp2p1/2n4p/5p2/2PPp2b/2N1P2N/PP3PP1/R1BQKB1R b KQkq - 0 8,"As well as helping his development, this threatens a rather nasty check on h5."
+16,g6,g7g6,r1bqk1nr/pppp4/2n3pp/5p2/2PPp2b/2N1P2N/PP3PP1/R1BQKB1R w KQkq - 0 9,So I stop that.
+17,Nf4,h3f4,r1bqk1nr/pppp4/2n3pp/5p2/2PPpN1b/2N1P3/PP3PP1/R1BQKB1R b KQkq - 1 9,Now he threatens the pawn on g6.
+18,Kf7,e8f7,r1bq2nr/pppp1k2/2n3pp/5p2/2PPpN1b/2N1P3/PP3PP1/R1BQKB1R w KQ - 2 10,So I protect it. My computer now likes 10. g4 d6 11.	gxf5	Bxf5 12. Qb3 Na5 13. Qa4 Nc6 14. Qb3 with a draw!
+19,c5,c4c5,r1bq2nr/pppp1k2/2n3pp/2P2p2/3PpN1b/2N1P3/PP3PP1/R1BQKB1R b KQ - 0 10,"But this move looks stronger, with a terrible threat of Bf1-c4+."
+20,Bg5,h4g5,r1bq2nr/pppp1k2/2n3pp/2P2pb1/3PpN2/2N1P3/PP3PP1/R1BQKB1R w KQ - 1 11,This is a tactical mistake. OK stop and find the best continuation for white!

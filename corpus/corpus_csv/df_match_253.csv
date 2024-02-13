@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e4 is my favorite Opening Move.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Petrov's Defence. It offers attacking opportunities for both sides, and a few lines are quite sharp."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Petrov's Defence. It offers attacking opportunities for both sides, and a few lines are quite sharp."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Petrov's Defence. It offers attacking opportunities for both sides, and a few lines are quite sharp."
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"Classical Variation. Other Possible Moves are 3.Nc3 , 3.Bc4 , 3.d4 (Steinitz Variation)"
+6,Qe7,d8e7,rnb1kb1r/ppppqppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,"Black should not continue to copy White's moves and try to restore the material balance immediately with 3...Nxe4? because after 4.Qe2 White will either win material (4...Nf6?? 5.Nc6+ wins Black's queen, and after 4...d5 5.d3 Qe7 6.dxe4 Qxe5 7.exd5 Black loses a pawn), or obtain a superior position (4...Qe7 5.Qxe4 d6 6.d4 f6 7.Nc3 dxe5 8.Nd5 Qd6 9.Bf4 Nd7 10.0-0-0 and White has a big advantage). 
+3... d6 is a better move."
+7,Nf3,e5f3,rnb1kb1r/ppppqppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 4,"This is the main Line. other Lines are: 4.Nc4 , 4.Nd3 and 4.Nxf7 (Cochrane Gambit) 
+4...Kxf7 5.Nc3 c5!? 6.Bc4+ Be6 7.Bxe6+ Kxe6 8.d4 Kf7 9.dxc5 Nc6."
+8,Nxe4,f6e4,rnb1kb1r/ppppqppp/8/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5,"natural development. 
+Other Possible Line is : 5.Qe2 d5 6.d3 Nf6 7.Bf4 [7.Qxe7 Bxe7 draw] Be6 = (and Black has a good position and opportunities)."
+9,Be2,f1e2,rnb1kb1r/ppppqppp/8/8/4n3/5N2/PPPPBPPP/RNBQK2R b KQkq - 1 5,"natural development. 
+Other Possible Line is : 5.Qe2 d5 6.d3 Nf6 7.Bf4 [7.Qxe7 Bxe7 draw] Be6 = (and Black has a good position and opportunities)."
+10,g6,g7g6,rnb1kb1r/ppppqp1p/6p1/8/4n3/5N2/PPPPBPPP/RNBQK2R w KQkq - 0 6,5...d5 or 5...Nf6 are  better moves here. the knight at e4 is vulnerable.
+11,O-O,e1g1,rnb1kb1r/ppppqp1p/6p1/8/4n3/5N2/PPPPBPPP/RNBQ1RK1 b kq - 1 6,I place my rook in front of black's queen.
+12,Bg7,f8g7,rnb1k2r/ppppqpbp/6p1/8/4n3/5N2/PPPPBPPP/RNBQ1RK1 w kq - 2 7,I place my rook in front of black's queen.
+13,Re1,f1e1,rnb1k2r/ppppqpbp/6p1/8/4n3/5N2/PPPPBPPP/RNBQR1K1 b kq - 3 7,I place my rook in front of black's queen.
+14,O-O,e8g8,rnb2rk1/ppppqpbp/6p1/8/4n3/5N2/PPPPBPPP/RNBQR1K1 w - - 4 8,"?? this move is wrong. black's knight is pin to the queen after white's bishop leaves the e file.
+7...d5 was the right move."
+15,Bf1,e2f1,rnb2rk1/ppppqpbp/6p1/8/4n3/5N2/PPPP1PPP/RNBQRBK1 b - - 5 8,it's late!
+16,d5,d7d5,rnb2rk1/ppp1qpbp/6p1/3p4/4n3/5N2/PPPP1PPP/RNBQRBK1 w - - 0 9,it's late!
+17,d3,d2d3,rnb2rk1/ppp1qpbp/6p1/3p4/4n3/3P1N2/PPP2PPP/RNBQRBK1 b - - 0 9,"the pawn on e4 is pin to the queen. 
+now white can start his strong attack!"
+18,f5,f7f5,rnb2rk1/ppp1q1bp/6p1/3p1p2/4n3/3P1N2/PPP2PPP/RNBQRBK1 w - - 0 10,"the pawn on e4 is pin to the queen. 
+now white can start his strong attack!"
+19,dxe4,d3e4,rnb2rk1/ppp1q1bp/6p1/3p1p2/4P3/5N2/PPP2PPP/RNBQRBK1 b - - 0 10,"the pawn on e4 is pin to the queen. 
+now white can start his strong attack!"
+20,dxe4,d5e4,rnb2rk1/ppp1q1bp/6p1/5p2/4p3/5N2/PPP2PPP/RNBQRBK1 w - - 0 11,"the pawn on e4 is pin to the queen. 
+now white can start his strong attack!"
+21,Nc3,b1c3,rnb2rk1/ppp1q1bp/6p1/5p2/4p3/2N2N2/PPP2PPP/R1BQRBK1 b - - 1 11,"just see this knight in the following moves!
+Also see the a1-h8 diagonal, the black king is open to white's attack."
+22,Nc6,b8c6,r1b2rk1/ppp1q1bp/2n3p1/5p2/4p3/2N2N2/PPP2PPP/R1BQRBK1 w - - 2 12,? black place his queen in a bad diagonal!
+23,Nd5,c3d5,r1b2rk1/ppp1q1bp/2n3p1/3N1p2/4p3/5N2/PPP2PPP/R1BQRBK1 b - - 3 12,? black place his queen in a bad diagonal!
+24,Qf7,e7f7,r1b2rk1/ppp2qbp/2n3p1/3N1p2/4p3/5N2/PPP2PPP/R1BQRBK1 w - - 4 13,? black place his queen in a bad diagonal!
+25,Bc4,f1c4,r1b2rk1/ppp2qbp/2n3p1/3N1p2/2B1p3/5N2/PPP2PPP/R1BQR1K1 b - - 5 13,! another pin
+26,Kh8,g8h8,r1b2r1k/ppp2qbp/2n3p1/3N1p2/2B1p3/5N2/PPP2PPP/R1BQR1K1 w - - 6 14,this knight is a very strong piece!
+27,Nb6,d5b6,r1b2r1k/ppp2qbp/1Nn3p1/5p2/2B1p3/5N2/PPP2PPP/R1BQR1K1 b - - 7 14,this knight is a very strong piece!
+28,Qf6,f7f6,r1b2r1k/ppp3bp/1Nn2qp1/5p2/2B1p3/5N2/PPP2PPP/R1BQR1K1 w - - 8 15,this knight is a very strong piece!
+29,Nxa8,b6a8,N1b2r1k/ppp3bp/2n2qp1/5p2/2B1p3/5N2/PPP2PPP/R1BQR1K1 b - - 0 15,this knight is a very strong piece!
+30,exf3,e4f3,N1b2r1k/ppp3bp/2n2qp1/5p2/2B5/5p2/PPP2PPP/R1BQR1K1 w - - 0 16,back to the battle! the Knight's Travel Path: b1-c3-d5-b6-a8-c7!!!
+31,Nxc7,a8c7,2b2r1k/ppN3bp/2n2qp1/5p2/2B5/5p2/PPP2PPP/R1BQR1K1 b - - 0 16,back to the battle! the Knight's Travel Path: b1-c3-d5-b6-a8-c7!!!
+32,Ne5,c6e5,2b2r1k/ppN3bp/5qp1/4np2/2B5/5p2/PPP2PPP/R1BQR1K1 w - - 1 17,this pawn has no threat to the white's king. it acts like a defender!
+33,Qd5,d1d5,2b2r1k/ppN3bp/5qp1/3Qnp2/2B5/5p2/PPP2PPP/R1B1R1K1 b - - 2 17,this pawn has no threat to the white's king. it acts like a defender!
+34,fxg2,f3g2,2b2r1k/ppN3bp/5qp1/3Qnp2/2B5/8/PPP2PpP/R1B1R1K1 w - - 0 18,this pawn has no threat to the white's king. it acts like a defender!
+35,Bf4,c1f4,2b2r1k/ppN3bp/5qp1/3Qnp2/2B2B2/8/PPP2PpP/R3R1K1 b - - 1 18,jsut see the board! all of the black pieces are around the black king. but ...
+36,Nxc4,e5c4,2b2r1k/ppN3bp/5qp1/3Q1p2/2n2B2/8/PPP2PpP/R3R1K1 w - - 0 19,"the black queen escaped from the battle! 
+19...Qc6 was better. the black position is very bad, and he can not find a way to survive."
+37,Qxc4,d5c4,2b2r1k/ppN3bp/5qp1/5p2/2Q2B2/8/PPP2PpP/R3R1K1 b - - 0 19,"the black queen escaped from the battle! 
+19...Qc6 was better. the black position is very bad, and he can not find a way to survive."
+38,Qxb2,f6b2,2b2r1k/ppN3bp/6p1/5p2/2Q2B2/8/PqP2PpP/R3R1K1 w - - 0 20,"the black queen escaped from the battle! 
+19...Qc6 was better. the black position is very bad, and he can not find a way to survive."
+39,Bd6,f4d6,2b2r1k/ppN3bp/3B2p1/5p2/2Q5/8/PqP2PpP/R3R1K1 b - - 1 20,! with the threat of Re8 and mate
+40,Rd8,f8d8,2br3k/ppN3bp/3B2p1/5p2/2Q5/8/PqP2PpP/R3R1K1 w - - 2 21,! with the threat of Re8 and mate
+41,Qf7,c4f7,2br3k/ppN2Qbp/3B2p1/5p2/8/8/PqP2PpP/R3R1K1 b - - 3 21,! with the threat of Re8 and mate

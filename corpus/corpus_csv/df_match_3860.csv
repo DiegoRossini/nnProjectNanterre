@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,a4,a2a4,rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1,"A dreadful opening move, even for blitz."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2,Would 2. B4 undermine black's attempt to set up a Sicilian/English opening..?
+3,a5,a4a5,rnbqkbnr/pp1ppppp/8/P1p5/8/8/1PPPPPPP/RNBQKBNR b KQkq - 0 2,Is white congenitally immuno-compromised..?
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/P1p5/8/8/1PPPPPPP/RNBQKBNR w KQkq - 1 3,"Finally a sensible move; 3.g3 followed by Bg2 could work together with the a5 push, weakening the B7 square..."
+5,g3,g2g3,r1bqkbnr/pp1ppppp/2n5/P1p5/8/6P1/1PPPPP1P/RNBQKBNR b KQkq - 0 3,"Finally a sensible move; 3.g3 followed by Bg2 could work together with the a5 push, weakening the B7 square..."
+6,d5,d7d5,r1bqkbnr/pp2pppp/2n5/P1pp4/8/6P1/1PPPPP1P/RNBQKBNR w KQkq - 0 4,"This move seems natural, as I wish to avoid ...e6."
+7,Bg2,f1g2,r1bqkbnr/pp2pppp/2n5/P1pp4/8/6P1/1PPPPPBP/RNBQK1NR b KQkq - 1 4,"This move seems natural, as I wish to avoid ...e6."
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2n2n2/P1pp4/8/6P1/1PPPPPBP/RNBQK1NR w KQkq - 2 5,"This move seems natural, as I wish to avoid ...e6."
+9,c3,c2c3,r1bqkb1r/pp2pppp/2n2n2/P1pp4/8/2P3P1/1P1PPPBP/RNBQK1NR b KQkq - 0 5,An interesting move.  It is surprisingly difficult to calculate whether white's d4 break would pose a substantial danger...
+10,Bg4,c8g4,r2qkb1r/pp2pppp/2n2n2/P1pp4/6b1/2P3P1/1P1PPPBP/RNBQK1NR w KQkq - 1 6,A controversial move.  Perhaps black has lost his advantage.
+11,a6,a5a6,r2qkb1r/pp2pppp/P1n2n2/2pp4/6b1/2P3P1/1P1PPPBP/RNBQK1NR b KQkq - 0 6,A crap move.
+12,b6,b7b6,r2qkb1r/p3pppp/Ppn2n2/2pp4/6b1/2P3P1/1P1PPPBP/RNBQK1NR w KQkq - 0 7,7...d4 or 7...dxc is an obvious mistake.
+13,c4,c3c4,r2qkb1r/p3pppp/Ppn2n2/2pp4/2P3b1/6P1/1P1PPPBP/RNBQK1NR b KQkq - 0 7,7...d4 or 7...dxc is an obvious mistake.
+14,e6,e7e6,r2qkb1r/p4ppp/Ppn1pn2/2pp4/2P3b1/6P1/1P1PPPBP/RNBQK1NR w KQkq - 0 8,"Outside of the pawn chain, blacks LSB looks like it can be harried..."
+15,cxd5,c4d5,r2qkb1r/p4ppp/Ppn1pn2/2pP4/6b1/6P1/1P1PPPBP/RNBQK1NR b KQkq - 0 8,I think this threat is easily parried...  Perhaps 9. Nf3 was stronger...
+16,exd5,e6d5,r2qkb1r/p4ppp/Ppn2n2/2pp4/6b1/6P1/1P1PPPBP/RNBQK1NR w KQkq - 0 9,I think this threat is easily parried...  Perhaps 9. Nf3 was stronger...
+17,Qa4,d1a4,r2qkb1r/p4ppp/Ppn2n2/2pp4/Q5b1/6P1/1P1PPPBP/RNB1K1NR b KQkq - 1 9,I think this threat is easily parried...  Perhaps 9. Nf3 was stronger...
+18,Qd7,d8d7,r3kb1r/p2q1ppp/Ppn2n2/2pp4/Q5b1/6P1/1P1PPPBP/RNB1K1NR w KQkq - 2 10,Black's position is superior in my view.
+19,Nc3,b1c3,r3kb1r/p2q1ppp/Ppn2n2/2pp4/Q5b1/2N3P1/1P1PPPBP/R1B1K1NR b KQkq - 3 10,Black's position is superior in my view.
+20,Be7,f8e7,r3k2r/p2qbppp/Ppn2n2/2pp4/Q5b1/2N3P1/1P1PPPBP/R1B1K1NR w KQkq - 4 11,White is just losing material here.
+21,Nxd5,c3d5,r3k2r/p2qbppp/Ppn2n2/2pN4/Q5b1/6P1/1P1PPPBP/R1B1K1NR b KQkq - 0 11,White is just losing material here.
+22,Nxd5,f6d5,r3k2r/p2qbppp/Ppn5/2pn4/Q5b1/6P1/1P1PPPBP/R1B1K1NR w KQkq - 0 12,The black position plays itself.
+23,Bxd5,g2d5,r3k2r/p2qbppp/Ppn5/2pB4/Q5b1/6P1/1P1PPP1P/R1B1K1NR b KQkq - 0 12,The black position plays itself.
+24,Qxd5,d7d5,r3k2r/p3bppp/Ppn5/2pq4/Q5b1/6P1/1P1PPP1P/R1B1K1NR w KQkq - 0 13,The black position plays itself.
+25,f3,f2f3,r3k2r/p3bppp/Ppn5/2pq4/Q5b1/5PP1/1P1PP2P/R1B1K1NR b KQkq - 0 13,The black position plays itself.
+26,Bd7,g4d7,r3k2r/p2bbppp/Ppn5/2pq4/Q7/5PP1/1P1PP2P/R1B1K1NR w KQkq - 1 14,The black position plays itself.
+27,e4,e2e4,r3k2r/p2bbppp/Ppn5/2pq4/Q3P3/5PP1/1P1P3P/R1B1K1NR b KQkq - 0 14,"I had thought that ...Bh3 followed by Nxh3 and ...Qf3+ was playable, but it is not in light of Nf2."
+28,Qd3,d5d3,r3k2r/p2bbppp/Ppn5/2p5/Q3P3/3q1PP1/1P1P3P/R1B1K1NR w KQkq - 1 15,"I had thought that ...Bh3 followed by Nxh3 and ...Qf3+ was playable, but it is not in light of Nf2."
+29,Ra3,a1a3,r3k2r/p2bbppp/Ppn5/2p5/Q3P3/R2q1PP1/1P1P3P/2B1K1NR b Kkq - 2 15,Enabling ...Be6
+30,Qd6,d3d6,r3k2r/p2bbppp/Ppnq4/2p5/Q3P3/R4PP1/1P1P3P/2B1K1NR w Kkq - 3 16,Enabling ...Be6
+31,Ne2,g1e2,r3k2r/p2bbppp/Ppnq4/2p5/Q3P3/R4PP1/1P1PN2P/2B1K2R b Kkq - 4 16,Enabling ...Be6
+32,Ne5,c6e5,r3k2r/p2bbppp/Pp1q4/2p1n3/Q3P3/R4PP1/1P1PN2P/2B1K2R w Kkq - 5 17,Enabling ...Be6
+33,Qb3,a4b3,r3k2r/p2bbppp/Pp1q4/2p1n3/4P3/RQ3PP1/1P1PN2P/2B1K2R b Kkq - 6 17,Enabling ...Be6
+34,O-O,e8g8,r4rk1/p2bbppp/Pp1q4/2p1n3/4P3/RQ3PP1/1P1PN2P/2B1K2R w K - 7 18,Enabling ...Be6
+35,h4,h2h4,r4rk1/p2bbppp/Pp1q4/2p1n3/4P2P/RQ3PP1/1P1PN3/2B1K2R b K - 0 18,I am not so sure about this move.  Maybe an immediate ...Bd6 was better.
+36,Rfe8,f8e8,r3r1k1/p2bbppp/Pp1q4/2p1n3/4P2P/RQ3PP1/1P1PN3/2B1K2R w K - 1 19,I am not so sure about this move.  Maybe an immediate ...Bd6 was better.
+37,h5,h4h5,r3r1k1/p2bbppp/Pp1q4/2p1n2P/4P3/RQ3PP1/1P1PN3/2B1K2R b K - 0 19,I did not want to play ...h6 and risk white's playing d4.
+38,Be6,d7e6,r3r1k1/p3bppp/Pp1qb3/2p1n2P/4P3/RQ3PP1/1P1PN3/2B1K2R w K - 1 20,"And I think black's position will be fine.  Of course, I will have to watch the long diagonal, now that white has attained a thorn pawn -- his only achievement thus far."
+39,Qc3,b3c3,r3r1k1/p3bppp/Pp1qb3/2p1n2P/4P3/R1Q2PP1/1P1PN3/2B1K2R b K - 2 20,"And I think black's position will be fine.  Of course, I will have to watch the long diagonal, now that white has attained a thorn pawn -- his only achievement thus far."
+40,Bf6,e7f6,r3r1k1/p4ppp/Pp1qbb2/2p1n2P/4P3/R1Q2PP1/1P1PN3/2B1K2R w K - 3 21,"And I think black's position will be fine.  Of course, I will have to watch the long diagonal, now that white has attained a thorn pawn -- his only achievement thus far."
+41,h6,h5h6,r3r1k1/p4ppp/Pp1qbb1P/2p1n3/4P3/R1Q2PP1/1P1PN3/2B1K2R b K - 0 21,"And I think black's position will be fine.  Of course, I will have to watch the long diagonal, now that white has attained a thorn pawn -- his only achievement thus far."
+42,g6,g7g6,r3r1k1/p4p1p/Pp1qbbpP/2p1n3/4P3/R1Q2PP1/1P1PN3/2B1K2R w K - 0 22,"And I think black's position will be fine.  Of course, I will have to watch the long diagonal, now that white has attained a thorn pawn -- his only achievement thus far."
+43,f4,f3f4,r3r1k1/p4p1p/Pp1qbbpP/2p1n3/4PP2/R1Q3P1/1P1PN3/2B1K2R b K - 0 22,"White is getting some counter play here, after ...Ng4."

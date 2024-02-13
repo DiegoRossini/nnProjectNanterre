@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,delayed d4 as I sometimes play Bb5 against an e6 set up.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,delayed d4 as I sometimes play Bb5 against an e6 set up.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,delayed d4 as I sometimes play Bb5 against an e6 set up.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,delayed d4 as I sometimes play Bb5 against an e6 set up.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,delayed d4 as I sometimes play Bb5 against an e6 set up.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+7,d4,d2d4,rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+8,cxd4,c5d4,rnbqkb1r/pp2pppp/3p1n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+9,Nxd4,f3d4,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+11,Bc4,f1c4,rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+13,f3,f2f3,rnbqkb1r/1p3ppp/p2ppn2/8/2BNP3/2N2P2/PPP3PP/R1BQK2R b KQkq - 0 7,preventing Nxe4 and preparing for Be3 (without the annoying Ng4)
+14,Be7,f8e7,rnbqk2r/1p2bppp/p2ppn2/8/2BNP3/2N2P2/PPP3PP/R1BQK2R w KQkq - 1 8,Fairly standard set up against a Sicilian Defense..
+15,Be3,c1e3,rnbqk2r/1p2bppp/p2ppn2/8/2BNP3/2N1BP2/PPP3PP/R2QK2R b KQkq - 2 8,Fairly standard set up against a Sicilian Defense..
+16,Nbd7,b8d7,r1bqk2r/1p1nbppp/p2ppn2/8/2BNP3/2N1BP2/PPP3PP/R2QK2R w KQkq - 3 9,0-0 may be more accurate?
+17,Bxe6,c4e6,r1bqk2r/1p1nbppp/p2pBn2/8/3NP3/2N1BP2/PPP3PP/R2QK2R b KQkq - 0 9,I was quite happy to give up the Bishop as I get 3 Pawns and leave him behind in development with his king exposed.
+18,fxe6,f7e6,r1bqk2r/1p1nb1pp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QK2R w KQkq - 0 10,Black has to recapture
+19,Nxe6,d4e6,r1bqk2r/1p1nb1pp/p2pNn2/8/4P3/2N1BP2/PPP3PP/R2QK2R b KQkq - 0 10,attacking the Queen and g Pawn
+20,Qa5,d8a5,r1b1k2r/1p1nb1pp/p2pNn2/q7/4P3/2N1BP2/PPP3PP/R2QK2R w KQkq - 1 11,the only square for his Queen.
+21,Nxg7+,e6g7,r1b1k2r/1p1nb1Np/p2p1n2/q7/4P3/2N1BP2/PPP3PP/R2QK2R b KQkq - 0 11,forcing his King to move
+22,Kf7,e8f7,r1b4r/1p1nbkNp/p2p1n2/q7/4P3/2N1BP2/PPP3PP/R2QK2R w KQ - 1 12,he attacks my Knight
+23,Nf5,g7f5,r1b4r/1p1nbk1p/p2p1n2/q4N2/4P3/2N1BP2/PPP3PP/R2QK2R b KQ - 2 12,... so it has to retreat
+24,Qc7,a5c7,r1b4r/1pqnbk1p/p2p1n2/5N2/4P3/2N1BP2/PPP3PP/R2QK2R w KQ - 3 13,extra cover for d6
+25,Nxe7,f5e7,r1b4r/1pqnNk1p/p2p1n2/8/4P3/2N1BP2/PPP3PP/R2QK2R b KQ - 0 13,Wasn't sure if giving up a Knight in such a strong position was best but I felt that the following pin after Bg5 was going to be difficult for him to meet.
+26,Kxe7,f7e7,r1b4r/1pqnk2p/p2p1n2/8/4P3/2N1BP2/PPP3PP/R2QK2R w KQ - 0 14,he has to recapture with his King
+27,Bg5,e3g5,r1b4r/1pqnk2p/p2p1n2/6B1/4P3/2N2P2/PPP3PP/R2QK2R b KQ - 1 14,so it seems logical to go for the pin
+28,Kf7,e7f7,r1b4r/1pqn1k1p/p2p1n2/6B1/4P3/2N2P2/PPP3PP/R2QK2R w KQ - 2 15,removing the pin....
+29,Qd4,d1d4,r1b4r/1pqn1k1p/p2p1n2/6B1/3QP3/2N2P2/PPP3PP/R3K2R b KQ - 3 15,increasing the pressure on f6 and also re-pinning the Knight due to the h8 Rook and preparing for Queenside castling.
+30,Rg8,h8g8,r1b3r1/1pqn1k1p/p2p1n2/6B1/3QP3/2N2P2/PPP3PP/R3K2R w KQ - 4 16,I would say that this is a blunder and he obviously missed the combination that follows.....
+31,Bxf6,g5f6,r1b3r1/1pqn1k1p/p2p1B2/8/3QP3/2N2P2/PPP3PP/R3K2R b KQ - 0 16,first taking the Knight on f6
+32,Nxf6,d7f6,r1b3r1/1pq2k1p/p2p1n2/8/3QP3/2N2P2/PPP3PP/R3K2R w KQ - 0 17,black recaptures but he missed.........

@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,My favourite English Opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,A standard response.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,I used to move 2.g3 but employ the more cautious 2.Nc3 now.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,Nf6 is more usual but this is not a bad move.
+5,g3,g2g3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,I could have moved Nf3 either.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Nf6 this time - still the most common response to 3.g3 per the GameKnot DB.
+7,Bg2,f1g2,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,"I've started so I might as well finish, although the Games BD prefers Nf3"
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 5,The first departure from the orthodox response.  The Games DB insists that Bb4 or Bc5 offer better prospects.  d6 blocks the black bishop in
+9,d3,d2d3,r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/2NP2P1/PP2PPBP/R1BQK1NR b KQkq - 0 5,I get nervous leaving c4 unprotected.  For the 3rd move in a row the Games DB is heckling me to move Nf3 instead!
+10,Bg4,c8g4,r2qkb1r/ppp2ppp/2np1n2/4p3/2P3b1/2NP2P1/PP2PPBP/R1BQK1NR w KQkq - 1 6,This is aggressive -looking but won't achieve much unsupported.  Games DB prefers Be7
+11,Qa4,d1a4,r2qkb1r/ppp2ppp/2np1n2/4p3/Q1P3b1/2NP2P1/PP2PPBP/R1B1K1NR b KQkq - 2 6,I want to put some pressure on the c6 knight
+12,Qd7,d8d7,r3kb1r/pppq1ppp/2np1n2/4p3/Q1P3b1/2NP2P1/PP2PPBP/R1B1K1NR w KQkq - 3 7,"This supports the knight, blocks a potential check and sets up Bh3.  So that's all good, right?"
+13,Bg5,c1g5,r3kb1r/pppq1ppp/2np1n2/4p1B1/Q1P3b1/2NP2P1/PP2PPBP/R3K1NR b KQkq - 4 7,I don't see any point in Nf3 now.  I want to keep pressure on the c6 knight.  I could play Bxc6 to force bxc6 (with or without a queen exchange) and stuff his pawns up.  But I want to keep the threat alive for now.  Bg5 is also threatening to double-up his pawns
+14,Nh5,f6h5,r3kb1r/pppq1ppp/2np4/4p1Bn/Q1P3b1/2NP2P1/PP2PPBP/R3K1NR w KQkq - 5 8,"Black has little choice unless he meekly retreats back to g8.  I think Be7 would have been better.  Still, black must think that he has an attack building on the kingside"
+15,h3,h2h3,r3kb1r/pppq1ppp/2np4/4p1Bn/Q1P3b1/2NP2PP/PP2PPB1/R3K1NR b KQkq - 0 8,I want that bishop out of there.  h5 is now blocked and retreating to e6 will further constrict his development
+16,Bf5,g4f5,r3kb1r/pppq1ppp/2np4/4pbBn/Q1P5/2NP2PP/PP2PPB1/R3K1NR w KQkq - 1 9,An unexpected bonus because...
+17,g4,g3g4,r3kb1r/pppq1ppp/2np4/4pbBn/Q1P3P1/2NP3P/PP2PPB1/R3K1NR b KQkq - 0 9,...that's a nasty fork!
+18,Nf4,h5f4,r3kb1r/pppq1ppp/2np4/4pbB1/Q1P2nP1/2NP3P/PP2PPB1/R3K1NR w KQkq - 1 10,"Black appears to be able to limit the damage to 1 point here by 
+9...Bxg4
+10.hxg4 Qxg4
+Unfortunately
+11.Bxc6+ bxc6 (forced, as Kd8 is prevented and 11...Qd7 12.Bxd7#)
+12.Qxc6+ Qd7 (forced)
+13.Qxa8+ Qc8 (followed by 14.Qxc8#) or Qd8 (followed by Qxd8#)
+[See puzzle #21064]"
+19,Bxf4,g5f4,r3kb1r/pppq1ppp/2np4/4pb2/Q1P2BP1/2NP3P/PP2PPB1/R3K1NR b KQkq - 0 10,I considered gxf5 hoping for Qxf5 and a different version of my forced mate in 5.  However Nxg2+ would wreck that
+20,exf4,e5f4,r3kb1r/pppq1ppp/2np4/5b2/Q1P2pP1/2NP3P/PP2PPB1/R3K1NR w KQkq - 0 11,Taking a 3-point lead
+21,gxf5,g4f5,r3kb1r/pppq1ppp/2np4/5P2/Q1P2p2/2NP3P/PP2PPB1/R3K1NR b KQkq - 0 11,Taking a 3-point lead

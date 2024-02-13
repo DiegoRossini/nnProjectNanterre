@@ -1,0 +1,125 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,brings out queen very early
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,brings out queen very early
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,brings out queen very early
+4,f5,f7f5,rnbqkbnr/pppp2pp/8/4pp2/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 0 3,shouldn't have done that
+5,exf5,e4f5,rnbqkbnr/pppp2pp/8/4pP2/8/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 0 3,shouldn't have done that
+6,Nc6,b8c6,r1bqkbnr/pppp2pp/2n5/4pP2/8/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 1 4,little early for the queen
+7,d3,d2d3,r1bqkbnr/pppp2pp/2n5/4pP2/8/3P1Q2/PPP2PPP/RNB1KBNR b KQkq - 0 4,little early for the queen
+8,Qf6,d8f6,r1b1kbnr/pppp2pp/2n2q2/4pP2/8/3P1Q2/PPP2PPP/RNB1KBNR w KQkq - 1 5,little early for the queen
+9,h4,h2h4,r1b1kbnr/pppp2pp/2n2q2/4pP2/7P/3P1Q2/PPP2PP1/RNB1KBNR b KQkq - 0 5,what
+10,Bc5,f8c5,r1b1k1nr/pppp2pp/2n2q2/2b1pP2/7P/3P1Q2/PPP2PP1/RNB1KBNR w KQkq - 1 6,take control of the middle
+11,Bg5,c1g5,r1b1k1nr/pppp2pp/2n2q2/2b1pPB1/7P/3P1Q2/PPP2PP1/RN2KBNR b KQkq - 2 6,need to do something kingside
+12,Qd6,f6d6,r1b1k1nr/pppp2pp/2nq4/2b1pPB1/7P/3P1Q2/PPP2PP1/RN2KBNR w KQkq - 3 7,need to do something kingside
+13,Qh5+,f3h5,r1b1k1nr/pppp2pp/2nq4/2b1pPBQ/7P/3P4/PPP2PP1/RN2KBNR b KQkq - 4 7,good moves by him
+14,g6,g7g6,r1b1k1nr/pppp3p/2nq2p1/2b1pPBQ/7P/3P4/PPP2PP1/RN2KBNR w KQkq - 0 8,good moves by him
+15,fxg6,f5g6,r1b1k1nr/pppp3p/2nq2P1/2b1p1BQ/7P/3P4/PPP2PP1/RN2KBNR b KQkq - 0 8,good moves by him
+16,hxg6,h7g6,r1b1k1nr/pppp4/2nq2p1/2b1p1BQ/7P/3P4/PPP2PP1/RN2KBNR w KQkq - 0 9,good moves by him
+17,Qxh8,h5h8,r1b1k1nQ/pppp4/2nq2p1/2b1p1B1/7P/3P4/PPP2PP1/RN2KBNR b KQq - 0 9,good moves by him
+18,Qd4,d6d4,r1b1k1nQ/pppp4/2n3p1/2b1p1B1/3q3P/3P4/PPP2PP1/RN2KBNR w KQq - 1 10,another dumb move by me
+19,Qxg8+,h8g8,r1b1k1Q1/pppp4/2n3p1/2b1p1B1/3q3P/3P4/PPP2PP1/RN2KBNR b KQq - 0 10,another dumb move by me
+20,Bf8,c5f8,r1b1kbQ1/pppp4/2n3p1/4p1B1/3q3P/3P4/PPP2PP1/RN2KBNR w KQq - 1 11,good now I'm only down a knight
+21,Nf3,g1f3,r1b1kbQ1/pppp4/2n3p1/4p1B1/3q3P/3P1N2/PPP2PP1/RN2KB1R b KQq - 2 11,good now I'm only down a knight
+22,Qxb2,d4b2,r1b1kbQ1/pppp4/2n3p1/4p1B1/7P/3P1N2/PqP2PP1/RN2KB1R w KQq - 0 12,good now I'm only down a knight
+23,Bd2,g5d2,r1b1kbQ1/pppp4/2n3p1/4p3/7P/3P1N2/PqPB1PP1/RN2KB1R b KQq - 1 12,good now I'm only down a knight
+24,Qxa1,b2a1,r1b1kbQ1/pppp4/2n3p1/4p3/7P/3P1N2/P1PB1PP1/qN2KB1R w Kq - 0 13,good now I'm only down a knight
+25,Bc3,d2c3,r1b1kbQ1/pppp4/2n3p1/4p3/7P/2BP1N2/P1P2PP1/qN2KB1R b Kq - 1 13,stupid
+26,Qxb1+,a1b1,r1b1kbQ1/pppp4/2n3p1/4p3/7P/2BP1N2/P1P2PP1/1q2KB1R w Kq - 0 14,take down his pawn structure
+27,Ke2,e1e2,r1b1kbQ1/pppp4/2n3p1/4p3/7P/2BP1N2/P1P1KPP1/1q3B1R b q - 1 14,take down his pawn structure
+28,a5,a7a5,r1b1kbQ1/1ppp4/2n3p1/p3p3/7P/2BP1N2/P1P1KPP1/1q3B1R w q - 0 15,take down his pawn structure
+29,Nd2,f3d2,r1b1kbQ1/1ppp4/2n3p1/p3p3/7P/2BP4/P1PNKPP1/1q3B1R b q - 1 15,take down his pawn structure
+30,Qxc2,b1c2,r1b1kbQ1/1ppp4/2n3p1/p3p3/7P/2BP4/P1qNKPP1/5B1R w q - 0 16,take down his pawn structure
+31,Qxg6+,g8g6,r1b1kb2/1ppp4/2n3Q1/p3p3/7P/2BP4/P1qNKPP1/5B1R b q - 0 16,dumb move there
+32,Ke7,e8e7,r1b2b2/1pppk3/2n3Q1/p3p3/7P/2BP4/P1qNKPP1/5B1R w - - 1 17,dumb move there
+33,Ke3,e2e3,r1b2b2/1pppk3/2n3Q1/p3p3/7P/2BPK3/P1qN1PP1/5B1R b - - 2 17,dumb move there
+34,Qxc3,c2c3,r1b2b2/1pppk3/2n3Q1/p3p3/7P/2qPK3/P2N1PP1/5B1R w - - 0 18,dumb move there
+35,h5,h4h5,r1b2b2/1pppk3/2n3Q1/p3p2P/8/2qPK3/P2N1PP1/5B1R b - - 0 18,dumb move there
+36,b6,b7b6,r1b2b2/2ppk3/1pn3Q1/p3p2P/8/2qPK3/P2N1PP1/5B1R w - - 0 19,dumb move there
+37,g4,g2g4,r1b2b2/2ppk3/1pn3Q1/p3p2P/6P1/2qPK3/P2N1P2/5B1R b - - 0 19,dumb move there
+38,Kd8,e7d8,r1bk1b2/2pp4/1pn3Q1/p3p2P/6P1/2qPK3/P2N1P2/5B1R w - - 1 20,dumb move there
+39,Qh7,g6h7,r1bk1b2/2pp3Q/1pn5/p3p2P/6P1/2qPK3/P2N1P2/5B1R b - - 2 20,dumb move there
+40,Bb4,f8b4,r1bk4/2pp3Q/1pn5/p3p2P/1b4P1/2qPK3/P2N1P2/5B1R w - - 3 21,dumb move there
+41,g5,g4g5,r1bk4/2pp3Q/1pn5/p3p1PP/1b6/2qPK3/P2N1P2/5B1R b - - 0 21,dumb move there
+42,Qxd2+,c3d2,r1bk4/2pp3Q/1pn5/p3p1PP/1b6/3PK3/P2q1P2/5B1R w - - 0 22,I control my kingside of the board but he's got two pawns coming up
+43,Kf3,e3f3,r1bk4/2pp3Q/1pn5/p3p1PP/1b6/3P1K2/P2q1P2/5B1R b - - 1 22,I control my kingside of the board but he's got two pawns coming up
+44,Bc5,b4c5,r1bk4/2pp3Q/1pn5/p1b1p1PP/8/3P1K2/P2q1P2/5B1R w - - 2 23,I control my kingside of the board but he's got two pawns coming up
+45,g6,g5g6,r1bk4/2pp3Q/1pn3P1/p1b1p2P/8/3P1K2/P2q1P2/5B1R b - - 0 23,I control my kingside of the board but he's got two pawns coming up
+46,Qxf2+,d2f2,r1bk4/2pp3Q/1pn3P1/p1b1p2P/8/3P1K2/P4q2/5B1R w - - 0 24,I control my kingside of the board but he's got two pawns coming up
+47,Kg4,f3g4,r1bk4/2pp3Q/1pn3P1/p1b1p2P/6K1/3P4/P4q2/5B1R b - - 1 24,what was I thinking
+48,Nd4,c6d4,r1bk4/2pp3Q/1p4P1/p1b1p2P/3n2K1/3P4/P4q2/5B1R w - - 2 25,what was I thinking
+49,g7,g6g7,r1bk4/2pp2PQ/1p6/p1b1p2P/3n2K1/3P4/P4q2/5B1R b - - 0 25,what was I thinking
+50,d6+,d7d6,r1bk4/2p3PQ/1p1p4/p1b1p2P/3n2K1/3P4/P4q2/5B1R w - - 0 26,what was I thinking
+51,Kg5,g4g5,r1bk4/2p3PQ/1p1p4/p1b1p1KP/3n4/3P4/P4q2/5B1R b - - 1 26,what was I thinking
+52,Qf5+,f2f5,r1bk4/2p3PQ/1p1p4/p1b1pqKP/3n4/3P4/P7/5B1R w - - 2 27,what was I thinking
+53,Kh6,g5h6,r1bk4/2p3PQ/1p1p3K/p1b1pq1P/3n4/3P4/P7/5B1R b - - 3 27,what was I thinking
+54,Ne6,d4e6,r1bk4/2p3PQ/1p1pn2K/p1b1pq1P/8/3P4/P7/5B1R w - - 4 28,what was I thinking
+55,Qxf5,h7f5,r1bk4/2p3P1/1p1pn2K/p1b1pQ1P/8/3P4/P7/5B1R b - - 0 28,stupid move by him
+56,Nxg7,e6g7,r1bk4/2p3n1/1p1p3K/p1b1pQ1P/8/3P4/P7/5B1R w - - 0 29,stupid move by him
+57,Kxg7,h6g7,r1bk4/2p3K1/1p1p4/p1b1pQ1P/8/3P4/P7/5B1R b - - 0 29,stupid move by him
+58,Bxf5,c8f5,r2k4/2p3K1/1p1p4/p1b1pb1P/8/3P4/P7/5B1R w - - 0 30,advantage me
+59,h6,h5h6,r2k4/2p3K1/1p1p3P/p1b1pb2/8/3P4/P7/5B1R b - - 0 30,advantage me
+60,Kd7,d8d7,r7/2pk2K1/1p1p3P/p1b1pb2/8/3P4/P7/5B1R w - - 1 31,advantage me
+61,h7,h6h7,r7/2pk2KP/1p1p4/p1b1pb2/8/3P4/P7/5B1R b - - 0 31,advantage me
+62,b5,b6b5,r7/2pk2KP/3p4/ppb1pb2/8/3P4/P7/5B1R w - - 0 32,advantage me
+63,h8=Q,h7h8q,r6Q/2pk2K1/3p4/ppb1pb2/8/3P4/P7/5B1R b - - 0 32,advantage me
+64,Rxh8,a8h8,7r/2pk2K1/3p4/ppb1pb2/8/3P4/P7/5B1R w - - 0 33,advantage me
+65,Rxh8,h1h8,7R/2pk2K1/3p4/ppb1pb2/8/3P4/P7/5B2 b - - 0 33,advantage me
+66,e4,e5e4,7R/2pk2K1/3p4/ppb2b2/4p3/3P4/P7/5B2 w - - 0 34,advantage me
+67,Rf8,h8f8,5R2/2pk2K1/3p4/ppb2b2/4p3/3P4/P7/5B2 b - - 1 34,advantage me
+68,Ke6,d7e6,5R2/2p3K1/3pk3/ppb2b2/4p3/3P4/P7/5B2 w - - 2 35,advantage me
+69,Bg2,f1g2,5R2/2p3K1/3pk3/ppb2b2/4p3/3P4/P5B1/8 b - - 3 35,advantage me
+70,exd3,e4d3,5R2/2p3K1/3pk3/ppb2b2/8/3p4/P5B1/8 w - - 0 36,advantage me
+71,Rh8,f8h8,7R/2p3K1/3pk3/ppb2b2/8/3p4/P5B1/8 b - - 1 36,advantage me
+72,d2,d3d2,7R/2p3K1/3pk3/ppb2b2/8/8/P2p2B1/8 w - - 0 37,advantage me
+73,Bc6,g2c6,7R/2p3K1/2Bpk3/ppb2b2/8/8/P2p4/8 b - - 1 37,advantage me
+74,d1=Q,d2d1q,7R/2p3K1/2Bpk3/ppb2b2/8/8/P7/3q4 w - - 0 38,advantage me
+75,Rh6+,h8h6,8/2p3K1/2Bpk2R/ppb2b2/8/8/P7/3q4 b - - 1 38,great defensive move by him
+76,Ke5,e6e5,8/2p3K1/2Bp3R/ppb1kb2/8/8/P7/3q4 w - - 2 39,great defensive move by him
+77,Bxb5,c6b5,8/2p3K1/3p3R/pBb1kb2/8/8/P7/3q4 b - - 0 39,great defensive move by him
+78,Qb1,d1b1,8/2p3K1/3p3R/pBb1kb2/8/8/P7/1q6 w - - 1 40,great defensive move by him
+79,a4,a2a4,8/2p3K1/3p3R/pBb1kb2/P7/8/8/1q6 b - - 0 40,great defensive move by him
+80,d5,d6d5,8/2p3K1/7R/pBbpkb2/P7/8/8/1q6 w - - 0 41,great defensive move by him
+81,Bc6,b5c6,8/2p3K1/2B4R/p1bpkb2/P7/8/8/1q6 b - - 1 41,great defensive move by him
+82,Ke4,e5e4,8/2p3K1/2B4R/p1bp1b2/P3k3/8/8/1q6 w - - 2 42,great defensive move by him
+83,Rh4+,h6h4,8/2p3K1/2B5/p1bp1b2/P3k2R/8/8/1q6 b - - 3 42,great defensive move by him
+84,Ke5,e4e5,8/2p3K1/2B5/p1bpkb2/P6R/8/8/1q6 w - - 4 43,great defensive move by him
+85,Be8,c6e8,4B3/2p3K1/8/p1bpkb2/P6R/8/8/1q6 b - - 5 43,great defensive move by him
+86,Qb8,b1b8,1q2B3/2p3K1/8/p1bpkb2/P6R/8/8/8 w - - 6 44,great defensive move by him
+87,Rh8,h4h8,1q2B2R/2p3K1/8/p1bpkb2/P7/8/8/8 b - - 7 44,great defensive move by him
+88,Qb6,b8b6,4B2R/2p3K1/1q6/p1bpkb2/P7/8/8/8 w - - 8 45,great defensive move by him
+89,Rh6,h8h6,4B3/2p3K1/1q5R/p1bpkb2/P7/8/8/8 b - - 9 45,great defensive move by him
+90,Qb8,b6b8,1q2B3/2p3K1/7R/p1bpkb2/P7/8/8/8 w - - 10 46,great defensive move by him
+91,Bg6,e8g6,1q6/2p3K1/6BR/p1bpkb2/P7/8/8/8 b - - 11 46,great defensive move by him
+92,Bxg6,f5g6,1q6/2p3K1/6bR/p1bpk3/P7/8/8/8 w - - 0 47,could've taken the rook but missed the oppurtunity
+93,Kxg6,g7g6,1q6/2p5/6KR/p1bpk3/P7/8/8/8 b - - 0 47,could've taken the rook but missed the oppurtunity
+94,d4,d5d4,1q6/2p5/6KR/p1b1k3/P2p4/8/8/8 w - - 0 48,could've taken the rook but missed the oppurtunity
+95,Kg7,g6g7,1q6/2p3K1/7R/p1b1k3/P2p4/8/8/8 b - - 1 48,could've taken the rook but missed the oppurtunity
+96,d3,d4d3,1q6/2p3K1/7R/p1b1k3/P7/3p4/8/8 w - - 0 49,could've taken the rook but missed the oppurtunity
+97,Rh5+,h6h5,1q6/2p3K1/8/p1b1k2R/P7/3p4/8/8 b - - 1 49,could've taken the rook but missed the oppurtunity
+98,Ke6,e5e6,1q6/2p3K1/4k3/p1b4R/P7/3p4/8/8 w - - 2 50,could've taken the rook but missed the oppurtunity
+99,Rh6+,h5h6,1q6/2p3K1/4k2R/p1b5/P7/3p4/8/8 b - - 3 50,could've taken the rook but missed the oppurtunity
+100,Kf5,e6f5,1q6/2p3K1/7R/p1b2k2/P7/3p4/8/8 w - - 4 51,could've taken the rook but missed the oppurtunity
+101,Rh8,h6h8,1q5R/2p3K1/8/p1b2k2/P7/3p4/8/8 b - - 5 51,could've taken the rook but missed the oppurtunity
+102,Qb2+,b8b2,7R/2p3K1/8/p1b2k2/P7/3p4/1q6/8 w - - 6 52,could've taken the rook but missed the oppurtunity
+103,Kh6,g7h6,7R/2p5/7K/p1b2k2/P7/3p4/1q6/8 b - - 7 52,could've taken the rook but missed the oppurtunity
+104,d2,d3d2,7R/2p5/7K/p1b2k2/P7/8/1q1p4/8 w - - 0 53,could've taken the rook but missed the oppurtunity
+105,Rh7,h8h7,8/2p4R/7K/p1b2k2/P7/8/1q1p4/8 b - - 1 53,could've checkmated there
+106,d1=B,d2d1b,8/2p4R/7K/p1b2k2/P7/8/1q6/3b4 w - - 0 54,could've checkmated there
+107,Rxc7,h7c7,8/2R5/7K/p1b2k2/P7/8/1q6/3b4 b - - 0 54,could've checkmated there
+108,Bd4,c5d4,8/2R5/7K/p4k2/P2b4/8/1q6/3b4 w - - 1 55,could've checkmated there
+109,Rf7+,c7f7,8/5R2/7K/p4k2/P2b4/8/1q6/3b4 b - - 2 55,could've checkmated there
+110,Ke6,f5e6,8/5R2/4k2K/p7/P2b4/8/1q6/3b4 w - - 3 56,could've checkmated there
+111,Rf4,f7f4,8/8/4k2K/p7/P2b1R2/8/1q6/3b4 b - - 4 56,could've checkmated there
+112,Kd5,e6d5,8/8/7K/p2k4/P2b1R2/8/1q6/3b4 w - - 5 57,could've checkmated there
+113,Rf5+,f4f5,8/8/7K/p2k1R2/P2b4/8/1q6/3b4 b - - 6 57,could've checkmated there
+114,Ke4,d5e4,8/8/7K/p4R2/P2bk3/8/1q6/3b4 w - - 7 58,could've checkmated there
+115,Rg5,f5g5,8/8/7K/p5R1/P2bk3/8/1q6/3b4 b - - 8 58,could've checkmated there
+116,Qe2,b2e2,8/8/7K/p5R1/P2bk3/8/4q3/3b4 w - - 9 59,could've checkmated there
+117,Rxa5,g5a5,8/8/7K/R7/P2bk3/8/4q3/3b4 b - - 0 59,could've checkmated there
+118,Kd3,e4d3,8/8/7K/R7/P2b4/3k4/4q3/3b4 w - - 1 60,could've checkmated there
+119,Rd5,a5d5,8/8/7K/3R4/P2b4/3k4/4q3/3b4 b - - 2 60,and I win but missed a few good opportunities
+120,Qe6+,e2e6,8/8/4q2K/3R4/P2b4/3k4/8/3b4 w - - 3 61,and I win but missed a few good opportunities
+121,Kg5,h6g5,8/8/4q3/3R2K1/P2b4/3k4/8/3b4 b - - 4 61,and I win but missed a few good opportunities
+122,Qg4+,e6g4,8/8/8/3R2K1/P2b2q1/3k4/8/3b4 w - - 5 62,and I win but missed a few good opportunities
+123,Kh6,g5h6,8/8/7K/3R4/P2b2q1/3k4/8/3b4 b - - 6 62,and I win but missed a few good opportunities
+124,Qg7#,g4g7,8/6q1/7K/3R4/P2b4/3k4/8/3b4 w - - 7 63,and I win but missed a few good opportunities

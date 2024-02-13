@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"When I am playing White, I like the Scotch"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,h5 was unexpected.  Wonder if he has some kind of trap.  Will go ahead and take the pawn
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,h5 was unexpected.  Wonder if he has some kind of trap.  Will go ahead and take the pawn
+4,h5,h7h5,rnbqkbnr/pppp1pp1/8/4p2p/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,h5 was unexpected.  Wonder if he has some kind of trap.  Will go ahead and take the pawn
+5,Nxe5,f3e5,rnbqkbnr/pppp1pp1/8/4N2p/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,Qh4 was also unexpected.  Looks like this will not be a standard Scotch game
+6,Qh4,d8h4,rnb1kbnr/pppp1pp1/8/4N2p/4P2q/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,Qh4 was also unexpected.  Looks like this will not be a standard Scotch game
+7,Qf3,d1f3,rnb1kbnr/pppp1pp1/8/4N2p/4P2q/5Q2/PPPP1PPP/RNB1KB1R b KQkq - 2 4,Qxf7 would be mate
+8,Nf6,g8f6,rnb1kb1r/pppp1pp1/5n2/4N2p/4P2q/5Q2/PPPP1PPP/RNB1KB1R w KQkq - 3 5,"It blocks the mate but it seems to isolate his Queen.  Two attacks on the e pawn, guarded only once.  Nc3 will defend the e pawn and get a Knight out.  He will probably chased the knight at some point.  If he doesn't chase the Knight, I will either do d4 or Bc4.  Bc4 would give an attack on Black's f pawn."
+9,Nc3,b1c3,rnb1kb1r/pppp1pp1/5n2/4N2p/4P2q/2N2Q2/PPPP1PPP/R1B1KB1R b KQkq - 4 5,got to defend the e pawn - attacked twice defended once
+10,d6,d7d6,rnb1kb1r/ppp2pp1/3p1n2/4N2p/4P2q/2N2Q2/PPPP1PPP/R1B1KB1R w KQkq - 0 6,don't like have to touch the knight so many times and it is still not in a good place.  cant push the d pawn.
+11,Nd3,e5d3,rnb1kb1r/ppp2pp1/3p1n2/7p/4P2q/2NN1Q2/PPPP1PPP/R1B1KB1R b KQkq - 1 6,don't like have to touch the knight so many times and it is still not in a good place.  cant push the d pawn.
+12,a6,a7a6,rnb1kb1r/1pp2pp1/p2p1n2/7p/4P2q/2NN1Q2/PPPP1PPP/R1B1KB1R w KQkq - 0 7,"going to have to move the knight again.  considered Nd5 but settled for Ne2 so I will have some time to do either d4 or d3. With all the stuff Black has on the kingside, I thinking castling Queenside."
+13,Nf4,d3f4,rnb1kb1r/1pp2pp1/p2p1n2/7p/4PN1q/2N2Q2/PPPP1PPP/R1B1KB1R b KQkq - 1 7,"going to have to move the knight again.  considered Nd5 but settled for Ne2 so I will have some time to do either d4 or d3. With all the stuff Black has on the kingside, I thinking castling Queenside."
+14,g5,g7g5,rnb1kb1r/1pp2p2/p2p1n2/6pp/4PN1q/2N2Q2/PPPP1PPP/R1B1KB1R w KQkq - 0 8,"going to have to move the knight again.  considered Nd5 but settled for Ne2 so I will have some time to do either d4 or d3. With all the stuff Black has on the kingside, I thinking castling Queenside."
+15,Nfe2,f4e2,rnb1kb1r/1pp2p2/p2p1n2/6pp/4P2q/2N2Q2/PPPPNPPP/R1B1KB1R b KQkq - 1 8,I think his queen is in danger of being boxed in
+16,Be6,c8e6,rn2kb1r/1pp2p2/p2pbn2/6pp/4P2q/2N2Q2/PPPPNPPP/R1B1KB1R w KQkq - 2 9,"So intent on pushing the pushing the pawn, I overlooked the free knight"
+17,d3,d2d3,rn2kb1r/1pp2p2/p2pbn2/6pp/4P2q/2NP1Q2/PPP1NPPP/R1B1KB1R b KQkq - 0 9,"So intent on pushing the pushing the pawn, I overlooked the free knight"
+18,Bg4,e6g4,rn2kb1r/1pp2p2/p2p1n2/6pp/4P1bq/2NP1Q2/PPP1NPPP/R1B1KB1R w KQkq - 1 10,Now I will take the knight
+19,Qxf6,f3f6,rn2kb1r/1pp2p2/p2p1Q2/6pp/4P1bq/2NP4/PPP1NPPP/R1B1KB1R b KQkq - 0 10,"In retrospect, I should have Qxh6.  after Bxh6, g3 traps the queen"
+20,Rh6,h8h6,rn2kb2/1pp2p2/p2p1Q1r/6pp/4P1bq/2NP4/PPP1NPPP/R1B1KB1R w KQq - 1 11,"In retrospect, I should have Qxh6.  after Bxh6, g3 traps the queen"
+21,Bxg5,c1g5,rn2kb2/1pp2p2/p2p1Q1r/6Bp/4P1bq/2NP4/PPP1NPPP/R3KB1R b KQq - 0 11,"In retrospect, I should have Qxh6.  after Bxh6, g3 traps the queen"
+22,Rxf6,h6f6,rn2kb2/1pp2p2/p2p1r2/6Bp/4P1bq/2NP4/PPP1NPPP/R3KB1R w KQq - 0 12,The thinking at the time was Nd5 then Nc7 forking the King and the Rook
+23,Bxh4,g5h4,rn2kb2/1pp2p2/p2p1r2/7p/4P1bB/2NP4/PPP1NPPP/R3KB1R b KQq - 0 12,The thinking at the time was Nd5 then Nc7 forking the King and the Rook
+24,Rg6,f6g6,rn2kb2/1pp2p2/p2p2r1/7p/4P1bB/2NP4/PPP1NPPP/R3KB1R w KQq - 1 13,The thinking at the time was Nd5 then Nc7 forking the King and the Rook
+25,Nd5,c3d5,rn2kb2/1pp2p2/p2p2r1/3N3p/4P1bB/3P4/PPP1NPPP/R3KB1R b KQq - 2 13,The thinking at the time was Nd5 then Nc7 forking the King and the Rook
+26,Nd7,b8d7,r3kb2/1ppn1p2/p2p2r1/3N3p/4P1bB/3P4/PPP1NPPP/R3KB1R w KQq - 3 14,I did not see the checkmate until after Black's move.
+27,Nxc7#,d5c7,r3kb2/1pNn1p2/p2p2r1/7p/4P1bB/3P4/PPP1NPPP/R3KB1R b KQq - 0 14,I did not see the checkmate until after Black's move.

@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Hillbilly Attack. Not recommended.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Hillbilly Attack. Not recommended.
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Hillbilly Attack. Not recommended.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,White would be more active with d4 and a chance to play c4 later.
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3,White would be more active with d4 and a chance to play c4 later.
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/2B5/8/PPPP1PPP/RNBQK1NR w KQkq - 0 4,White would be more active with d4 and a chance to play c4 later.
+7,Bb3,c4b3,rnbqkbnr/pp2pppp/8/3p4/8/1B6/PPPP1PPP/RNBQK1NR b KQkq - 1 4,White would be more active with d4 and a chance to play c4 later.
+8,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/3p4/8/1B6/PPPP1PPP/RNBQK1NR w KQkq - 2 5,White would be more active with d4 and a chance to play c4 later.
+9,c3,c2c3,r1bqkbnr/pp2pppp/2n5/3p4/8/1BP5/PP1P1PPP/RNBQK1NR b KQkq - 0 5,White would be more active with d4 and a chance to play c4 later.
+10,e5,e7e5,r1bqkbnr/pp3ppp/2n5/3pp3/8/1BP5/PP1P1PPP/RNBQK1NR w KQkq - 0 6,"I understand that a pin is not desirable, but this is not necessary. A knight on d2 and queen on c2 solves the problem."
+11,h3,h2h3,r1bqkbnr/pp3ppp/2n5/3pp3/8/1BP4P/PP1P1PP1/RNBQK1NR b KQkq - 0 6,"I understand that a pin is not desirable, but this is not necessary. A knight on d2 and queen on c2 solves the problem."
+12,Nf6,g8f6,r1bqkb1r/pp3ppp/2n2n2/3pp3/8/1BP4P/PP1P1PP1/RNBQK1NR w KQkq - 1 7,Unnecessary again. Nf3 is much more natural.
+13,a3,a2a3,r1bqkb1r/pp3ppp/2n2n2/3pp3/8/PBP4P/1P1P1PP1/RNBQK1NR b KQkq - 0 7,Unnecessary again. Nf3 is much more natural.
+14,Be7,f8e7,r1bqk2r/pp2bppp/2n2n2/3pp3/8/PBP4P/1P1P1PP1/RNBQK1NR w KQkq - 1 8,A passive move. Black has more space and white should be concerned about its impending constriction.
+15,d3,d2d3,r1bqk2r/pp2bppp/2n2n2/3pp3/8/PBPP3P/1P3PP1/RNBQK1NR b KQkq - 0 8,A passive move. Black has more space and white should be concerned about its impending constriction.
+16,Be6,c8e6,r2qk2r/pp2bppp/2n1bn2/3pp3/8/PBPP3P/1P3PP1/RNBQK1NR w KQkq - 1 9,Setting up bishop takes h3 threats.
+17,Nf3,g1f3,r2qk2r/pp2bppp/2n1bn2/3pp3/8/PBPP1N1P/1P3PP1/RNBQK2R b KQkq - 2 9,Setting up bishop takes h3 threats.
+18,Qd7,d8d7,r3k2r/pp1qbppp/2n1bn2/3pp3/8/PBPP1N1P/1P3PP1/RNBQK2R w KQkq - 3 10,Setting up bishop takes h3 threats.
+19,Be3,c1e3,r3k2r/pp1qbppp/2n1bn2/3pp3/8/PBPPBN1P/1P3PP1/RN1QK2R b KQkq - 4 10,"Double attack. I wanted to continue to build on my space advantage, but I exposed my bishop to an exchange. My light-squared bishop is better not exchanged."
+20,d4,d5d4,r3k2r/pp1qbppp/2n1bn2/4p3/3p4/PBPPBN1P/1P3PP1/RN1QK2R w KQkq - 0 11,"Double attack. I wanted to continue to build on my space advantage, but I exposed my bishop to an exchange. My light-squared bishop is better not exchanged."
+21,cxd4,c3d4,r3k2r/pp1qbppp/2n1bn2/4p3/3P4/PB1PBN1P/1P3PP1/RN1QK2R b KQkq - 0 11,What I wanted.
+22,exd4,e5d4,r3k2r/pp1qbppp/2n1bn2/8/3p4/PB1PBN1P/1P3PP1/RN1QK2R w KQkq - 0 12,What I wanted.
+23,Bd2,e3d2,r3k2r/pp1qbppp/2n1bn2/8/3p4/PB1P1N1P/1P1B1PP1/RN1QK2R b KQkq - 1 12,What I wanted.
+24,O-O,e8g8,r4rk1/pp1qbppp/2n1bn2/8/3p4/PB1P1N1P/1P1B1PP1/RN1QK2R w KQ - 2 13,What I wanted.
+25,O-O,e1g1,r4rk1/pp1qbppp/2n1bn2/8/3p4/PB1P1N1P/1P1B1PP1/RN1Q1RK1 b - - 3 13,What I wanted.
+26,Bxh3,e6h3,r4rk1/pp1qbppp/2n2n2/8/3p4/PB1P1N1b/1P1B1PP1/RN1Q1RK1 w - - 0 14,"I wasn't exactly sure of the circumstances that would continue, but I knew I had enough ammunition to make it a worthy attack."
+27,Bf4,d2f4,r4rk1/pp1qbppp/2n2n2/8/3p1B2/PB1P1N1b/1P3PP1/RN1Q1RK1 b - - 1 14,Not so bad. Bxf7+ coupled with Ng5 might have resulted in some interesting lines.
+28,Bg4,h3g4,r4rk1/pp1qbppp/2n2n2/8/3p1Bb1/PB1P1N2/1P3PP1/RN1Q1RK1 w - - 2 15,Exchanging a weak piece for a stronger one.
+29,Re1,f1e1,r4rk1/pp1qbppp/2n2n2/8/3p1Bb1/PB1P1N2/1P3PP1/RN1QR1K1 b - - 3 15,Exchanging a weak piece for a stronger one.
+30,Bd6,e7d6,r4rk1/pp1q1ppp/2nb1n2/8/3p1Bb1/PB1P1N2/1P3PP1/RN1QR1K1 w - - 4 16,Exchanging a weak piece for a stronger one.
+31,Bxd6,f4d6,r4rk1/pp1q1ppp/2nB1n2/8/3p2b1/PB1P1N2/1P3PP1/RN1QR1K1 b - - 0 16,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+32,Qxd6,d7d6,r4rk1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1P3PP1/RN1QR1K1 w - - 0 17,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+33,Nbd2,b1d2,r4rk1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1P1N1PP1/R2QR1K1 b - - 1 17,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+34,Rfe8,f8e8,r3r1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1P1N1PP1/R2QR1K1 w - - 2 18,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+35,Qc2,d1c2,r3r1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/R3R1K1 b - - 3 18,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+36,Rac8,a8c8,2r1r1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/R3R1K1 w - - 4 19,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+37,Rxe8+,e1e8,2r1R1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/R5K1 b - - 0 19,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+38,Rxe8,c8e8,4r1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/R5K1 w - - 0 20,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+39,Re1,a1e1,4r1k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/4R1K1 b - - 1 20,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+40,Rxe1+,e8e1,6k1/pp3ppp/2nq1n2/8/3p2b1/PB1P1N2/1PQN1PP1/4r1K1 w - - 0 21,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+41,Nxe1,f3e1,6k1/pp3ppp/2nq1n2/8/3p2b1/PB1P4/1PQN1PP1/4N1K1 b - - 0 21,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+42,Bf5,g4f5,6k1/pp3ppp/2nq1n2/5b2/3p4/PB1P4/1PQN1PP1/4N1K1 w - - 1 22,"Now my focus switches from the kingside to the center, where the weak d3 pawn lies."
+43,Qd1,c2d1,6k1/pp3ppp/2nq1n2/5b2/3p4/PB1P4/1P1N1PP1/3QN1K1 b - - 2 22,"Besides attacking the d-pawn, the knight can easily provide assistance for a kingside attack."
+44,Ne5,c6e5,6k1/pp3ppp/3q1n2/4nb2/3p4/PB1P4/1P1N1PP1/3QN1K1 w - - 3 23,"Besides attacking the d-pawn, the knight can easily provide assistance for a kingside attack."
+45,Ndf3,d2f3,6k1/pp3ppp/3q1n2/4nb2/3p4/PB1P1N2/1P3PP1/3QN1K1 b - - 4 23,A critical error that open up white's kingisde even further.
+46,Bg4,f5g4,6k1/pp3ppp/3q1n2/4n3/3p2b1/PB1P1N2/1P3PP1/3QN1K1 w - - 5 24,A critical error that open up white's kingisde even further.
+47,Qd2,d1d2,6k1/pp3ppp/3q1n2/4n3/3p2b1/PB1P1N2/1P1Q1PP1/4N1K1 b - - 6 24,A critical error that open up white's kingisde even further.
+48,Nxf3+,e5f3,6k1/pp3ppp/3q1n2/8/3p2b1/PB1P1n2/1P1Q1PP1/4N1K1 w - - 0 25,Trying to produce strong threats with a knight on f4.
+49,Nxf3,e1f3,6k1/pp3ppp/3q1n2/8/3p2b1/PB1P1N2/1P1Q1PP1/6K1 b - - 0 25,Trying to produce strong threats with a knight on f4.
+50,Bxf3,g4f3,6k1/pp3ppp/3q1n2/8/3p4/PB1P1b2/1P1Q1PP1/6K1 w - - 0 26,Trying to produce strong threats with a knight on f4.
+51,gxf3,g2f3,6k1/pp3ppp/3q1n2/8/3p4/PB1P1P2/1P1Q1P2/6K1 b - - 0 26,Trying to produce strong threats with a knight on f4.
+52,Nh5,f6h5,6k1/pp3ppp/3q4/7n/3p4/PB1P1P2/1P1Q1P2/6K1 w - - 1 27,Trying to produce strong threats with a knight on f4.
+53,Qe2,d2e2,6k1/pp3ppp/3q4/7n/3p4/PB1P1P2/1P2QP2/6K1 b - - 2 27,Backrank mating threats.
+54,Qg6+,d6g6,6k1/pp3ppp/6q1/7n/3p4/PB1P1P2/1P2QP2/6K1 w - - 3 28,"Even though black's queen is still on the board, it can't make any viable threats against my king."
+55,Kf1,g1f1,6k1/pp3ppp/6q1/7n/3p4/PB1P1P2/1P2QP2/5K2 b - - 4 28,"Even though black's queen is still on the board, it can't make any viable threats against my king."
+56,Kf8,g8f8,5k2/pp3ppp/6q1/7n/3p4/PB1P1P2/1P2QP2/5K2 w - - 5 29,"Even though black's queen is still on the board, it can't make any viable threats against my king."
+57,Qe4,e2e4,5k2/pp3ppp/6q1/7n/3pQ3/PB1P1P2/1P3P2/5K2 b - - 6 29,Asking for an exchange to take out any sting in my attack.
+58,Qxe4,g6e4,5k2/pp3ppp/8/7n/3pq3/PB1P1P2/1P3P2/5K2 w - - 0 30,"I have a pawn majority on the kingside, so why not exchange?"
+59,fxe4,f3e4,5k2/pp3ppp/8/7n/3pP3/PB1P4/1P3P2/5K2 b - - 0 30,An important move to keep white at my whim.
+60,Nf4,h5f4,5k2/pp3ppp/8/8/3pPn2/PB1P4/1P3P2/5K2 w - - 1 31,An important move to keep white at my whim.

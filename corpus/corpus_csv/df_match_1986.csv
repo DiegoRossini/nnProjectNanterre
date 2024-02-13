@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Left wing gambit - uncommon but good for white players who do not like the sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Left wing gambit - uncommon but good for white players who do not like the sicilian
+3,b4,b2b4,rnbqkbnr/pp1ppppp/8/2p5/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2,Left wing gambit - uncommon but good for white players who do not like the sicilian
+4,cxb4,c5b4,rnbqkbnr/pp1ppppp/8/8/1p2P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 3,Common line
+5,a3,a2a3,rnbqkbnr/pp1ppppp/8/8/1p2P3/P7/2PP1PPP/RNBQKBNR b KQkq - 0 3,Common line
+6,d5,d7d5,rnbqkbnr/pp2pppp/8/3p4/1p2P3/P7/2PP1PPP/RNBQKBNR w KQkq - 0 4,Black doesn't take
+7,exd5,e4d5,rnbqkbnr/pp2pppp/8/3P4/1p6/P7/2PP1PPP/RNBQKBNR b KQkq - 0 4,... so that white does.
+8,Qxd5,d8d5,rnb1kbnr/pp2pppp/8/3q4/1p6/P7/2PP1PPP/RNBQKBNR w KQkq - 0 5,Queen on the center
+9,Bb2,c1b2,rnb1kbnr/pp2pppp/8/3q4/1p6/P7/1BPP1PPP/RN1QKBNR b KQkq - 1 5,Occupying the big black diagonal
+10,Nc6,b8c6,r1b1kbnr/pp2pppp/2n5/3q4/1p6/P7/1BPP1PPP/RN1QKBNR w KQkq - 2 6,developping
+11,Nf3,g1f3,r1b1kbnr/pp2pppp/2n5/3q4/1p6/P4N2/1BPP1PPP/RN1QKB1R b KQkq - 3 6,developping as well
+12,e5,e7e5,r1b1kbnr/pp3ppp/2n5/3qp3/1p6/P4N2/1BPP1PPP/RN1QKB1R w KQkq - 0 7,"Challenging the queen, the aim is to get advance in developpement."
+13,c4,c2c4,r1b1kbnr/pp3ppp/2n5/3qp3/1pP5/P4N2/1B1P1PPP/RN1QKB1R b KQkq c3 0 7,"Challenging the queen, the aim is to get advance in developpement."
+14,Qe4+,d5e4,r1b1kbnr/pp3ppp/2n5/4p3/1pP1q3/P4N2/1B1P1PPP/RN1QKB1R w KQkq - 1 8,Probably not a good move. It doesn't prevent white's developpement and the queen will quickly be under menace
+15,Be2,f1e2,r1b1kbnr/pp3ppp/2n5/4p3/1pP1q3/P4N2/1B1PBPPP/RN1QK2R b KQkq - 2 8,enabling the castle
+16,Nd4,c6d4,r1b1kbnr/pp3ppp/8/4p3/1pPnq3/P4N2/1B1PBPPP/RN1QK2R w KQkq - 3 9,"Black carries on attacking, moving twice the same piece for the second time."
+17,Bxd4,b2d4,r1b1kbnr/pp3ppp/8/4p3/1pPBq3/P4N2/3PBPPP/RN1QK2R b KQkq - 0 9,Exchaning a piece that moved twice against a piece that moved once.
+18,exd4,e5d4,r1b1kbnr/pp3ppp/8/8/1pPpq3/P4N2/3PBPPP/RN1QK2R w KQkq - 0 10,"Black is better on the center, has material advantage but is in late in developpement"
+19,d3,d2d3,r1b1kbnr/pp3ppp/8/8/1pPpq3/P2P1N2/4BPPP/RN1QK2R b KQkq - 0 10,"To fire the queen, protect c4 and block d4"
+20,Qf4,e4f4,r1b1kbnr/pp3ppp/8/8/1pPp1q2/P2P1N2/4BPPP/RN1QK2R w KQkq - 1 11,"Black keeps his queen in white's territory, pressuring but dangerous."
+21,O-O,e1g1,r1b1kbnr/pp3ppp/8/8/1pPp1q2/P2P1N2/4BPPP/RN1Q1RK1 b kq - 2 11,King in safe
+22,bxa3,b4a3,r1b1kbnr/pp3ppp/8/8/2Pp1q2/p2P1N2/4BPPP/RN1Q1RK1 w kq - 0 12,Moving the same piece twice for the third time
+23,Nxa3,b1a3,r1b1kbnr/pp3ppp/8/8/2Pp1q2/N2P1N2/4BPPP/R2Q1RK1 b kq - 0 12,to prevent 13. Nb5
+24,a6,a7a6,r1b1kbnr/1p3ppp/p7/8/2Pp1q2/N2P1N2/4BPPP/R2Q1RK1 w kq - 0 13,to prevent 13. Nb5
+25,Nc2,a3c2,r1b1kbnr/1p3ppp/p7/8/2Pp1q2/3P1N2/2N1BPPP/R2Q1RK1 b kq - 1 13,"menacing d4, it's white's next target"

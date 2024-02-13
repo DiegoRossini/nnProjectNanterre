@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A sound first move for white, opening up diagonal lines for whites queen and f1 bishop, and attacking the d5 and f5 squares."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A standard response to e4. This opens lines for black's queen and bishop, and attacks d4 and f4."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Develops white's knight to (usually) its best defensive square and attacks black's pawn on e5. It is often best to develop your knights before your bishops because it is easier to find the correct square for a knight than for a bishop in the opening. For instance white could move his knight to e2 (blocking in his queen and bishop), to h3 (placing it on the edge of the board), or to f3 - fighting for control of the centre of the board. The best square for the knight in this instance seems clear."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is the Petroff defence. Black ignores white's attack on his e5 pawn and develops his knight - attacking white's e4 pawn.
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,White captures black's pawn...
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"Black drives white's knight away with d6. This is usual in the Petroff before capturing with ...Nxe4, since it avoids a number of traps that work in white's favour."
+7,Nf3,e5f3,rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4,White move's his knight back out of danger to f3.
+8,Nxe4,f6e4,rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5,Black captures white's pawn on e4.
+9,h3,h2h3,rnbqkb1r/ppp2ppp/3p4/8/4n3/5N1P/PPPP1PP1/RNBQKB1R b KQkq - 0 5,"This move prevents playing ...Bg4 (pinning white's knight against the queen), but does nothing to help white's piece development. I think that d4 would have been better - providing space for development and maintaining a presence in the centre."
+10,Qe7,d8e7,rnb1kb1r/ppp1qppp/3p4/8/4n3/5N1P/PPPP1PP1/RNBQKB1R w KQkq - 1 6,"Not the best move, since it blocks the bishop on f8, and doesn't really develop a piece. Black is still at least 2 moves from being able to castle. But it does set a trap for white..."
+11,c3,c2c3,rnb1kb1r/ppp1qppp/3p4/8/4n3/2P2N1P/PP1P1PP1/RNBQKB1R b KQkq - 0 6,"White doesn't see the danger - a discovered check on the king when black's knight moves. c3 is another pawn move that does not do anything for white's development. Qe2 or Be2 would have been better here, preventing the discovered check on black's next move."
+12,Nxc3+,e4c3,rnb1kb1r/ppp1qppp/3p4/8/8/2n2N1P/PP1P1PP1/RNBQKB1R w KQkq - 0 7,"Ouch! Black takes white's pawn, attacks white's queen, and white's king is in check. White has only two moves and they are both bad: Qe2 (which loses the queen to Nxe2) or Be2 (which loses the queen to Nxd2)."
+13,Be2,f1e2,rnb1kb1r/ppp1qppp/3p4/8/8/2n2N1P/PP1PBPP1/RNBQK2R b KQkq - 1 7,Blocking the check on white's king.
+14,Nxd1,c3d1,rnb1kb1r/ppp1qppp/3p4/8/8/5N1P/PP1PBPP1/RNBnK2R w KQkq - 0 8,Black grabs white's queen.
+15,Kxd1,e1d1,rnb1kb1r/ppp1qppp/3p4/8/8/5N1P/PP1PBPP1/RNBK3R b kq - 0 8,"White bravely plays on and captures the black knight, but has now made a king move so can no longer castle to safety."
+16,Be6,c8e6,rn2kb1r/ppp1qppp/3pb3/8/8/5N1P/PP1PBPP1/RNBK3R w kq - 1 9,Black now starts developing pieces.
+17,Nc3,b1c3,rn2kb1r/ppp1qppp/3pb3/8/8/2N2N1P/PP1PBPP1/R1BK3R b kq - 2 9,White also begins to develop by bringing our his knight - although now it is probably too late!
+18,Nc6,b8c6,r3kb1r/ppp1qppp/2npb3/8/8/2N2N1P/PP1PBPP1/R1BK3R w kq - 3 10,Another developing move. Black now has the option of castling queenside.
+19,b3,b2b3,r3kb1r/ppp1qppp/2npb3/8/8/1PN2N1P/P2PBPP1/R1BK3R b kq - 0 10,"Another pawn move from white. I think d4 would have been better here - that would get a pawn into the center and would also threaten 11. d5, forking blacks knight and bishop."
+20,g6,g7g6,r3kb1r/ppp1qp1p/2npb1p1/8/8/1PN2N1P/P2PBPP1/R1BK3R w kq - 0 11,"Preparing to fianchetto black's bishop, taking control of the a1-h8 diagonal."

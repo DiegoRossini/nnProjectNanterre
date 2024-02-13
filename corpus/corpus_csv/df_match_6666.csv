@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A dangerous move. I expected BxB, with advantage by black."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"A dangerous move. I expected BxB, with advantage by black."
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,"A dangerous move. I expected BxB, with advantage by black."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"A dangerous move. I expected BxB, with advantage by black."
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"A dangerous move. I expected BxB, with advantage by black."
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,"A dangerous move. I expected BxB, with advantage by black."
+7,h3,h2h3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,"A dangerous move. I expected BxB, with advantage by black."
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 0 5,"A dangerous move. I expected BxB, with advantage by black."
+9,g4,g2g4,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1BP1/5N1P/PPP1PP2/RN1QKB1R b KQkq - 0 5,"A dangerous move. I expected BxB, with advantage by black."
+10,Be4,f5e4,rn1qkb1r/ppp2ppp/4pn2/3p4/3PbBP1/5N1P/PPP1PP2/RN1QKB1R w KQkq - 1 6,"A dangerous move. I expected BxB, with advantage by black."
+11,Nbd2,b1d2,rn1qkb1r/ppp2ppp/4pn2/3p4/3PbBP1/5N1P/PPPNPP2/R2QKB1R b KQkq - 2 6,"A dangerous move. I expected BxB, with advantage by black."
+12,Bd6,f8d6,rn1qk2r/ppp2ppp/3bpn2/3p4/3PbBP1/5N1P/PPPNPP2/R2QKB1R w KQkq - 3 7,"A dangerous move. I expected BxB, with advantage by black."
+13,Nxe4,d2e4,rn1qk2r/ppp2ppp/3bpn2/3p4/3PNBP1/5N1P/PPP1PP2/R2QKB1R b KQkq - 0 7,"A dangerous move. I expected BxB, with advantage by black."
+14,dxe4,d5e4,rn1qk2r/ppp2ppp/3bpn2/8/3PpBP1/5N1P/PPP1PP2/R2QKB1R w KQkq - 0 8,"Not BxB, because cxd6 conquers the center and deprives my knight of a good escape route."
+15,Ne5,f3e5,rn1qk2r/ppp2ppp/3bpn2/4N3/3PpBP1/7P/PPP1PP2/R2QKB1R b KQkq - 1 8,"Passive, but not bad. I expected f6, with a slight advantage by black."
+16,Nfd7,f6d7,rn1qk2r/pppn1ppp/3bp3/4N3/3PpBP1/7P/PPP1PP2/R2QKB1R w KQkq - 2 9,"Passive, but not bad. I expected f6, with a slight advantage by black."
+17,e3,e2e3,rn1qk2r/pppn1ppp/3bp3/4N3/3PpBP1/4P2P/PPP2P2/R2QKB1R b KQkq - 0 9,"Passive, but not bad. I expected f6, with a slight advantage by black."
+18,O-O,e8g8,rn1q1rk1/pppn1ppp/3bp3/4N3/3PpBP1/4P2P/PPP2P2/R2QKB1R w KQ - 1 10,"Passive, but not bad. I expected f6, with a slight advantage by black."
+19,g5,g4g5,rn1q1rk1/pppn1ppp/3bp3/4N1P1/3PpB2/4P2P/PPP2P2/R2QKB1R b KQ - 0 10,A typical London set. Early advance of the kingside pawns to concentrate the game on the black's castling.
+20,Nxe5,d7e5,rn1q1rk1/ppp2ppp/3bp3/4n1P1/3PpB2/4P2P/PPP2P2/R2QKB1R w KQ - 0 11,"As always, an unexpected move. My dsb is self.trapped, but it holds a cramped position for black."
+21,dxe5,d4e5,rn1q1rk1/ppp2ppp/3bp3/4P1P1/4pB2/4P2P/PPP2P2/R2QKB1R b KQ - 0 11,"As always, an unexpected move. My dsb is self.trapped, but it holds a cramped position for black."
+22,Be7,d6e7,rn1q1rk1/ppp1bppp/4p3/4P1P1/4pB2/4P2P/PPP2P2/R2QKB1R w KQ - 1 12,"Also interesting Qg4. It's a boring fight for the pawn, now..."
+23,h4,h3h4,rn1q1rk1/ppp1bppp/4p3/4P1P1/4pB1P/4P3/PPP2P2/R2QKB1R b KQ - 0 12,"Also interesting Qg4. It's a boring fight for the pawn, now..."
+24,Nd7,b8d7,r2q1rk1/pppnbppp/4p3/4P1P1/4pB1P/4P3/PPP2P2/R2QKB1R w KQ - 1 13,"Also interesting Qg4. It's a boring fight for the pawn, now..."
+25,Qd4,d1d4,r2q1rk1/pppnbppp/4p3/4P1P1/3QpB1P/4P3/PPP2P2/R3KB1R b KQ - 2 13,"Also interesting Qg4. It's a boring fight for the pawn, now..."
+26,Nc5,d7c5,r2q1rk1/ppp1bppp/4p3/2n1P1P1/3QpB1P/4P3/PPP2P2/R3KB1R w KQ - 3 14,"I thought b4, but then there is a solid attack from black on the black diagonal, after Na5, QXe4, c3, and the black queen can go to a5..."
+27,O-O-O,e1c1,r2q1rk1/ppp1bppp/4p3/2n1P1P1/3QpB1P/4P3/PPP2P2/2KR1B1R b - - 4 14,"Dangerous, but the key of the position is to have the kingside free for the rooks, in sight of a pawnstorm."
+28,a5,a7a5,r2q1rk1/1pp1bppp/4p3/p1n1P1P1/3QpB1P/4P3/PPP2P2/2KR1B1R w - - 0 15,"Preventing b4, I won't play anyway."
+29,Bg2,f1g2,r2q1rk1/1pp1bppp/4p3/p1n1P1P1/3QpB1P/4P3/PPP2PB1/2KR3R b - - 1 15,"...and the pawn is won, but I will exchange my best bishop. Hmmm..."
+30,Qc8,d8c8,r1q2rk1/1pp1bppp/4p3/p1n1P1P1/3QpB1P/4P3/PPP2PB1/2KR3R w - - 2 16,"QxQ would have been bad for black, but... this one... well, maybe..."
+31,Qc4,d4c4,r1q2rk1/1pp1bppp/4p3/p1n1P1P1/2Q1pB1P/4P3/PPP2PB1/2KR3R b - - 3 16,"I am not in a hurry to take the pawn. It is better to prevent b5, that can gives black some countergame."
+32,c6,c7c6,r1q2rk1/1p2bppp/2p1p3/p1n1P1P1/2Q1pB1P/4P3/PPP2PB1/2KR3R w - - 0 17,"Now, c6 is not so important, because the queen is far from the black diagonal. 
+Black expects me to take the pawn, exchange the bishop and play b5. 
+I decided that the game would have been really boring this way, and I launched a challenge."
+33,Rd6,d1d6,r1q2rk1/1p2bppp/2pRp3/p1n1P1P1/2Q1pB1P/4P3/PPP2PB1/2K4R b - - 1 17,"!?
+I am crazy, no doubt."
+34,Bxd6,e7d6,r1q2rk1/1p3ppp/2pbp3/p1n1P1P1/2Q1pB1P/4P3/PPP2PB1/2K4R w - - 0 18,"And black takes the bite. Now, my only advantage is positional. It won't be clear in few moves."
+35,exd6,e5d6,r1q2rk1/1p3ppp/2pPp3/p1n3P1/2Q1pB1P/4P3/PPP2PB1/2K4R b - - 0 18,"And black takes the bite. Now, my only advantage is positional. It won't be clear in few moves."
+36,Na6,c5a6,r1q2rk1/1p3ppp/n1pPp3/p5P1/2Q1pB1P/4P3/PPP2PB1/2K4R w - - 1 19,I bet black now would have played b6 instead... and he would have been right.
+37,Bxe4,g2e4,r1q2rk1/1p3ppp/n1pPp3/p5P1/2Q1BB1P/4P3/PPP2P2/2K4R b - - 0 19,Now my bishops are mortal weapons.
+38,Qd7,c8d7,r4rk1/1p1q1ppp/n1pPp3/p5P1/2Q1BB1P/4P3/PPP2P2/2K4R w - - 1 20,"Maybe g6 was better, just to prevent what follows, but if so, h5, inmediately."
+39,Qd3,c4d3,r4rk1/1p1q1ppp/n1pPp3/p5P1/4BB1P/3QP3/PPP2P2/2K4R b - - 2 20,Threat on h7. Nothing special.
+40,g6,g7g6,r4rk1/1p1q1p1p/n1pPp1p1/p5P1/4BB1P/3QP3/PPP2P2/2K4R w - - 0 21,"Threating Be5, Bh8. Nothing special."
+41,Qd4,d3d4,r4rk1/1p1q1p1p/n1pPp1p1/p5P1/3QBB1P/4P3/PPP2P2/2K4R b - - 1 21,"Threating Be5, Bh8. Nothing special."

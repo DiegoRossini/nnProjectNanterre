@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I'm red, and white takes his first move."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White gets his knight into play straight away
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White gets his knight into play straight away
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I mive my knight so that if his takes my pawn I can take it straight away
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,He moves his bishop to attack my defending knight straight away
+6,Nb4,c6b4,r1bqkbnr/pppp1ppp/8/1B2p3/1n2P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"rather than move it back in to place, or back to block off my bishop I move it out of the way"
+7,c3,c2c3,r1bqkbnr/pppp1ppp/8/1B2p3/1n2P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4,He moves his pawn forward to threaten my knight
+8,Be7,f8e7,r1bqk1nr/ppppbppp/8/1B2p3/1n2P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5,Giving up on the knight I make my bishop's defence over the knight known....
+9,a3,a2a3,r1bqk1nr/ppppbppp/8/1B2p3/1n2P3/P1P2N2/1P1P1PPP/RNBQK2R b KQkq - 0 5,"he moves another pawn forward, this I think is to counter my counter with the bishop"
+10,c6,c7c6,r1bqk1nr/pp1pbppp/2p5/1B2p3/1n2P3/P1P2N2/1P1P1PPP/RNBQK2R w KQkq - 0 6,I attack the bishop in a hope it will give me time to retreat my knight back to safety
+11,Ba4,b5a4,r1bqk1nr/pp1pbppp/2p5/4p3/Bn2P3/P1P2N2/1P1P1PPP/RNBQK2R b KQkq - 1 6,"doing the only thing, White moves the bishop out of the way"
+12,Nd3+,b4d3,r1bqk1nr/pp1pbppp/2p5/4p3/B3P3/P1Pn1N2/1P1P1PPP/RNBQK2R w KQkq - 2 7,"I move my knight into a catch 22 situation, king or bishop,"
+13,Kf1,e1f1,r1bqk1nr/pp1pbppp/2p5/4p3/B3P3/P1Pn1N2/1P1P1PPP/RNBQ1K1R b kq - 3 7,White moves the king out of the way
+14,Bc5,e7c5,r1bqk1nr/pp1p1ppp/2p5/2b1p3/B3P3/P1Pn1N2/1P1P1PPP/RNBQ1K1R w kq - 4 8,rather than take the bishop I decide as my knight is safe for the next turn I'd bring my bishop into play for defence
+15,b4,b2b4,r1bqk1nr/pp1p1ppp/2p5/2b1p3/BP2P3/P1Pn1N2/3P1PPP/RNBQ1K1R b kq - 0 8,"the pawn attacks my bishop, but won't be able to take it the next turn"
+16,Nxf2,d3f2,r1bqk1nr/pp1p1ppp/2p5/2b1p3/BP2P3/P1P2N2/3P1nPP/RNBQ1K1R w kq - 0 9,going for bigger fish I put a catch 22 on the rook and queen
+17,Qe1,d1e1,r1bqk1nr/pp1p1ppp/2p5/2b1p3/BP2P3/P1P2N2/3P1nPP/RNB1QK1R b kq - 1 9,White moves the queen out of the way
+18,Nxh1,f2h1,r1bqk1nr/pp1p1ppp/2p5/2b1p3/BP2P3/P1P2N2/3P2PP/RNB1QK1n w kq - 0 10,"and I proceed to take the rook, I leave the knight here for the rest of the game, It is one of the factors of the whites loss"
+19,Ke2,f1e2,r1bqk1nr/pp1p1ppp/2p5/2b1p3/BP2P3/P1P2N2/3PK1PP/RNB1Q2n b kq - 1 10,"seeing a catch 22 being imposed on me, I move my queen to safety before hand
+
+also this is my first piece lost"
+20,d5,d7d5,r1bqk1nr/pp3ppp/2p5/2bpp3/BP2P3/P1P2N2/3PK1PP/RNB1Q2n w kq - 0 11,"seeing a catch 22 being imposed on me, I move my queen to safety before hand
+
+also this is my first piece lost"
+21,Nxe5,f3e5,r1bqk1nr/pp3ppp/2p5/2bpN3/BP2P3/P1P5/3PK1PP/RNB1Q2n b kq - 0 11,"seeing a catch 22 being imposed on me, I move my queen to safety before hand
+
+also this is my first piece lost"
+22,Qd6,d8d6,r1b1k1nr/pp3ppp/2pq4/2bpN3/BP2P3/P1P5/3PK1PP/RNB1Q2n w kq - 1 12,and force the knight to retreat
+23,Nd3,e5d3,r1b1k1nr/pp3ppp/2pq4/2bp4/BP2P3/P1PN4/3PK1PP/RNB1Q2n b kq - 2 12,Like so

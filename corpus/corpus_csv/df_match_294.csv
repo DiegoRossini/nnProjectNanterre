@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So it starts conventionally.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,For some reason I was expecting a Benoni or King's Indian.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,So I play the Queen's Gambit.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,He plays the Slav Defence.
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,I avoid the Slav Gambit (3. Nc3 e5) even though it really isn't that good - I was afraid he may know it better than me.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,He continues to develop.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,As do I.
+8,e6,e7e6,rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,Is he planning on transposing into a main line of the Queen's Gambit Declined?
+9,Bg5,c1g5,rnbqkb1r/pp3ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5,"Not sure, let's see."
+10,h6,h7h6,rnbqkb1r/pp3pp1/2p1pn1p/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6,he hits my bishop.
+11,Bh4,g5h4,rnbqkb1r/pp3pp1/2p1pn1p/3p4/2PP3B/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 6,Bishop drops back.
+12,dxc4,d5c4,rnbqkb1r/pp3pp1/2p1pn1p/8/2pP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 7,But now he takes.
+13,a4,a2a4,rnbqkb1r/pp3pp1/2p1pn1p/8/P1pP3B/2N2N2/1P2PPPP/R2QKB1R b KQkq - 0 7,I stop him from protecting the pawn on c4 with b5.
+14,Bb4,f8b4,rnbqk2r/pp3pp1/2p1pn1p/8/PbpP3B/2N2N2/1P2PPPP/R2QKB1R w KQkq - 1 8,He pins my knight.
+15,e3,e2e3,rnbqk2r/pp3pp1/2p1pn1p/8/PbpP3B/2N1PN2/1P3PPP/R2QKB1R b KQkq - 0 8,I prepare to recapture.
+16,Qa5,d8a5,rnb1k2r/pp3pp1/2p1pn1p/q7/PbpP3B/2N1PN2/1P3PPP/R2QKB1R w KQkq - 1 9,"I think this is just being greedy. In my opening databases, all the variations with this have black losses - 9 games in total."
+17,Bxf6,h4f6,rnb1k2r/pp3pp1/2p1pB1p/q7/PbpP4/2N1PN2/1P3PPP/R2QKB1R b KQkq - 0 9,I take.
+18,Bxc3+,b4c3,rnb1k2r/pp3pp1/2p1pB1p/q7/P1pP4/2b1PN2/1P3PPP/R2QKB1R w KQkq - 0 10,He decides to take the pawn while he has a chance.
+19,bxc3,b2c3,rnb1k2r/pp3pp1/2p1pB1p/q7/P1pP4/2P1PN2/5PPP/R2QKB1R b KQkq - 0 10,I take back.
+20,Qxc3+,a5c3,rnb1k2r/pp3pp1/2p1pB1p/8/P1pP4/2q1PN2/5PPP/R2QKB1R w KQkq - 0 11,He takes the pawn with check.

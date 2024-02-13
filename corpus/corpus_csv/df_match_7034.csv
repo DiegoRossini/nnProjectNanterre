@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Never set a conditional move in a complex position...
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The London (or something like that), a scheme I love, that foresee (if allowed) strong kingside attack, queenside castling, c3 (instead of c4), and Ne5, g4, h4... while the lsb is trapped for black."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"The London (or something like that), a scheme I love, that foresee (if allowed) strong kingside attack, queenside castling, c3 (instead of c4), and Ne5, g4, h4... while the lsb is trapped for black."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"The London (or something like that), a scheme I love, that foresee (if allowed) strong kingside attack, queenside castling, c3 (instead of c4), and Ne5, g4, h4... while the lsb is trapped for black."
+5,Bf4,c1f4,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"The London (or something like that), a scheme I love, that foresee (if allowed) strong kingside attack, queenside castling, c3 (instead of c4), and Ne5, g4, h4... while the lsb is trapped for black."
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"This is a mistake, actually, since should black move Qb6, white has problems defending b2."
+7,e3,e2e3,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"This is a mistake, actually, since should black move Qb6, white has problems defending b2."
+8,a6,a7a6,rnbqkbnr/1p3ppp/p3p3/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,"My bishop never had the intention to go to b5. It will move the last, since I am looking for queenside castling. But this move sets the possibility of a queenside black pawn storm, so I play..."
+9,a4,a2a4,rnbqkbnr/1p3ppp/p3p3/2pp4/P2P1B2/4PN2/1PP2PPP/RN1QKB1R b KQkq - 0 5,"This pawn isn't aware of the GREAT task it will play on the game. Without it, I would have been lost."
+10,Nf6,g8f6,rnbqkb1r/1p3ppp/p3pn2/2pp4/P2P1B2/4PN2/1PP2PPP/RN1QKB1R w KQkq - 1 6,"Pursuing c3, the queenside safeguard."
+11,Nbd2,b1d2,rnbqkb1r/1p3ppp/p3pn2/2pp4/P2P1B2/4PN2/1PPN1PPP/R2QKB1R b KQkq - 2 6,"Pursuing c3, the queenside safeguard."
+12,Nc6,b8c6,r1bqkb1r/1p3ppp/p1n1pn2/2pp4/P2P1B2/4PN2/1PPN1PPP/R2QKB1R w KQkq - 3 7,"White's scheme is almost complete. Normally, by pushing g and h pawns white has a good attack here. But it won't be so easy this time..."
+13,c3,c2c3,r1bqkb1r/1p3ppp/p1n1pn2/2pp4/P2P1B2/2P1PN2/1P1N1PPP/R2QKB1R b KQkq - 0 7,"White's scheme is almost complete. Normally, by pushing g and h pawns white has a good attack here. But it won't be so easy this time..."
+14,Bd7,c8d7,r2qkb1r/1p1b1ppp/p1n1pn2/2pp4/P2P1B2/2P1PN2/1P1N1PPP/R2QKB1R w KQkq - 1 8,"Normally, I delay this move until black plays the bishop, but since he is delaying it..."
+15,Ne5,f3e5,r2qkb1r/1p1b1ppp/p1n1pn2/2ppN3/P2P1B2/2P1P3/1P1N1PPP/R2QKB1R b KQkq - 2 8,"Normally, I delay this move until black plays the bishop, but since he is delaying it..."
+16,cxd4,c5d4,r2qkb1r/1p1b1ppp/p1n1pn2/3pN3/P2p1B2/2P1P3/1P1N1PPP/R2QKB1R w KQkq - 0 9,"Black is playing very good, building pressure on the queenside, while my attack on the kingside is still far."
+17,exd4,e3d4,r2qkb1r/1p1b1ppp/p1n1pn2/3pN3/P2P1B2/2P5/1P1N1PPP/R2QKB1R b KQkq - 0 9,"Black is playing very good, building pressure on the queenside, while my attack on the kingside is still far."
+18,Rc8,a8c8,2rqkb1r/1p1b1ppp/p1n1pn2/3pN3/P2P1B2/2P5/1P1N1PPP/R2QKB1R w KQk - 1 10,"Black is playing very good, building pressure on the queenside, while my attack on the kingside is still far."
+19,Bd3,f1d3,2rqkb1r/1p1b1ppp/p1n1pn2/3pN3/P2P1B2/2PB4/1P1N1PPP/R2QK2R b KQk - 2 10,"I consider this move a loss of time. I have to push my pawns instead. This bishop will came out when it is a real danger for black. Of course, white has to take care about Qb6, since the normal defence, Qc2, is now impossible due to Nxd4."
+20,Be7,f8e7,2rqk2r/1p1bbppp/p1n1pn2/3pN3/P2P1B2/2PB4/1P1N1PPP/R2QK2R w KQk - 3 11,"I decided that if I don't attack very quickly, black can get the game even..."
+21,g4,g2g4,2rqk2r/1p1bbppp/p1n1pn2/3pN3/P2P1BP1/2PB4/1P1N1P1P/R2QK2R b KQk - 0 11,"I decided that if I don't attack very quickly, black can get the game even..."
+22,Qb6,d8b6,2r1k2r/1p1bbppp/pqn1pn2/3pN3/P2P1BP1/2PB4/1P1N1P1P/R2QK2R w KQk - 1 12,Sad necessity....
+23,b3,b2b3,2r1k2r/1p1bbppp/pqn1pn2/3pN3/P2P1BP1/1PPB4/3N1P1P/R2QK2R b KQk - 0 12,Sad necessity....
+24,Nb8,c6b8,1nr1k2r/1p1bbppp/pq2pn2/3pN3/P2P1BP1/1PPB4/3N1P1P/R2QK2R w KQk - 1 13,I expected Na5... but not everybody is aggressive like me...
+25,g5,g4g5,1nr1k2r/1p1bbppp/pq2pn2/3pN1P1/P2P1B2/1PPB4/3N1P1P/R2QK2R b KQk - 0 13,"I am aggressive, no doubt..."
+26,Ne4,f6e4,1nr1k2r/1p1bbppp/pq2p3/3pN1P1/P2PnB2/1PPB4/3N1P1P/R2QK2R w KQk - 1 14,"This move loses a central pawn for black. Of course, I will lose the important c one. Still, the natural c4 is met by Qxd4, I didn't want it. The game is quickly developing into a ""black attacks the queenside and white the kingside"", one of those nice situations in which is very hard to see who would be quicker.
+I saw it, and decided to play the exchanges. I couldn't imagine how complex will turn out to be the situation in few moves..."
+27,Nxe4,d2e4,1nr1k2r/1p1bbppp/pq2p3/3pN1P1/P2PNB2/1PPB4/5P1P/R2QK2R b KQk - 0 14,"Of course, the queenside castling will be impossible."
+28,dxe4,d5e4,1nr1k2r/1p1bbppp/pq2p3/4N1P1/P2PpB2/1PPB4/5P1P/R2QK2R w KQk - 0 15,"Of course, the queenside castling will be impossible."
+29,Bxe4,d3e4,1nr1k2r/1p1bbppp/pq2p3/4N1P1/P2PBB2/1PP5/5P1P/R2QK2R b KQk - 0 15,"Of course, the queenside castling will be impossible."
+30,Rxc3,c8c3,1n2k2r/1p1bbppp/pq2p3/4N1P1/P2PBB2/1Pr5/5P1P/R2QK2R w KQk - 0 16,"Of course, the queenside castling will be impossible."
+31,Qh5,d1h5,1n2k2r/1p1bbppp/pq2p3/4N1PQ/P2PBB2/1Pr5/5P1P/R3K2R b KQk - 1 16,"I would say this move is sort of ""naive""... But I am not the one who plays the passive Rb1. 
+Still, I had the nice Nc4, forcing the queen to a7 (or d8), maybe better for me. This was a conditional move I set before...
+
+But later, I saw that the simple 16. Nxf7 would have been enough to win here! Do you agree?"
+32,g6,g7g6,1n2k2r/1p1bbp1p/pq2p1p1/4N1PQ/P2PBB2/1Pr5/5P1P/R3K2R w KQk - 0 17,"As expected. It seems to be a refutation, but..."
+33,Nxg6,e5g6,1n2k2r/1p1bbp1p/pq2p1N1/6PQ/P2PBB2/1Pr5/5P1P/R3K2R b KQk - 0 17,"yes, his sad b8 knight is hanging."
+34,fxg6,f7g6,1n2k2r/1p1bb2p/pq2p1p1/6PQ/P2PBB2/1Pr5/5P1P/R3K2R w KQk - 0 18,"and now I have the time to take back the knight, having destroyed his king's position. Of course, my own king is naked, too...
+Wait, this is not all."
+35,Bxg6+,e4g6,1n2k2r/1p1bb2p/pq2p1B1/6PQ/P2P1B2/1Pr5/5P1P/R3K2R b KQk - 0 18,"and now I have the time to take back the knight, having destroyed his king's position. Of course, my own king is naked, too...
+Wait, this is not all."

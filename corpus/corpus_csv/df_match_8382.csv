@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Apertura de peón de Rey
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Planteando Defensa Francesa
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Cerrando el centro
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Cerrando el centro
+5,e5,e4e5,rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Cerrando el centro
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"Defensa francesa, variante del avance"
+7,dxc5,d4c5,rnbqkbnr/pp3ppp/4p3/2PpP3/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4,"Un error, las blancas debieron mantener 
+la estructura central de peones"
+8,Nc6,b8c6,r1bqkbnr/pp3ppp/2n1p3/2PpP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 1 5,Castigando de inmediato el peón aislado
+9,Bb5,f1b5,r1bqkbnr/pp3ppp/2n1p3/1BPpP3/8/8/PPP2PPP/RNBQK1NR b KQkq - 2 5,Las blancas buscan contrajuego
+10,Bxc5,f8c5,r1bqk1nr/pp3ppp/2n1p3/1BbpP3/8/8/PPP2PPP/RNBQK1NR w KQkq - 0 6,Finalmente decido comer para atormentar al peón de e5
+11,Bxc6+,b5c6,r1bqk1nr/pp3ppp/2B1p3/2bpP3/8/8/PPP2PPP/RNBQK1NR b KQkq - 0 6,"Otro error, me cambia su única pieza activa."
+12,bxc6,b7c6,r1bqk1nr/p4ppp/2p1p3/2bpP3/8/8/PPP2PPP/RNBQK1NR w KQkq - 0 7,Mis peones centrales están más fuertes ahora.
+13,c3,c2c3,r1bqk1nr/p4ppp/2p1p3/2bpP3/8/2P5/PP3PPP/RNBQK1NR b KQkq - 0 7,"Atacando e5 de inmediato
+y retomando la iniciativa."
+14,Qc7,d8c7,r1b1k1nr/p1q2ppp/2p1p3/2bpP3/8/2P5/PP3PPP/RNBQK1NR w KQkq - 1 8,"Atacando e5 de inmediato
+y retomando la iniciativa."
+15,f4,f2f4,r1b1k1nr/p1q2ppp/2p1p3/2bpP3/5P2/2P5/PP4PP/RNBQK1NR b KQkq - 0 8,La única
+16,Qb6,c7b6,r1b1k1nr/p4ppp/1qp1p3/2bpP3/5P2/2P5/PP4PP/RNBQK1NR w KQkq - 1 9,Las blancas me entregan la diagonal de b7-g1
+17,Qe2,d1e2,r1b1k1nr/p4ppp/1qp1p3/2bpP3/5P2/2P5/PP2Q1PP/RNB1K1NR b KQkq - 2 9,Forzada
+18,Bxg1,c5g1,r1b1k1nr/p4ppp/1qp1p3/3pP3/5P2/2P5/PP2Q1PP/RNB1K1bR w KQkq - 0 10,Ganando pieza menor
+19,Rxg1,h1g1,r1b1k1nr/p4ppp/1qp1p3/3pP3/5P2/2P5/PP2Q1PP/RNB1K1R1 b Qkq - 0 10,"Otro error, ya no he ganado pieza
+menor, sino mayor."
+20,Qxg1+,b6g1,r1b1k1nr/p4ppp/2p1p3/3pP3/5P2/2P5/PP2Q1PP/RNB1K1q1 w Qkq - 0 11,Para enviar el alfil al ataque
+21,Kd2,e1d2,r1b1k1nr/p4ppp/2p1p3/3pP3/5P2/2P5/PP1KQ1PP/RNB3q1 b kq - 1 11,Para enviar el alfil al ataque
+22,a5,a7a5,r1b1k1nr/5ppp/2p1p3/p2pP3/5P2/2P5/PP1KQ1PP/RNB3q1 w kq - 0 12,Para enviar el alfil al ataque
+23,Kc2,d2c2,r1b1k1nr/5ppp/2p1p3/p2pP3/5P2/2P5/PPK1Q1PP/RNB3q1 b kq - 1 12,Continuo mi desarrollo
+24,Ba6,c8a6,r3k1nr/5ppp/b1p1p3/p2pP3/5P2/2P5/PPK1Q1PP/RNB3q1 w kq - 2 13,Continuo mi desarrollo
+25,Qd2,e2d2,r3k1nr/5ppp/b1p1p3/p2pP3/5P2/2P5/PPKQ2PP/RNB3q1 b kq - 3 13,Continuo mi desarrollo
+26,Ne7,g8e7,r3k2r/4nppp/b1p1p3/p2pP3/5P2/2P5/PPKQ2PP/RNB3q1 w kq - 4 14,Continuo mi desarrollo
+27,Na3,b1a3,r3k2r/4nppp/b1p1p3/p2pP3/5P2/N1P5/PPKQ2PP/R1B3q1 b kq - 5 14,Única si deseo seguir el ataque
+28,O-O,e8g8,r4rk1/4nppp/b1p1p3/p2pP3/5P2/N1P5/PPKQ2PP/R1B3q1 w - - 6 15,Única si deseo seguir el ataque
+29,b3,b2b3,r4rk1/4nppp/b1p1p3/p2pP3/5P2/NPP5/P1KQ2PP/R1B3q1 b - - 0 15,Única si deseo seguir el ataque
+30,Qc5,g1c5,r4rk1/4nppp/b1p1p3/p1qpP3/5P2/NPP5/P1KQ2PP/R1B5 w - - 1 16,Única si deseo seguir el ataque
+31,Kb2,c2b2,r4rk1/4nppp/b1p1p3/p1qpP3/5P2/NPP5/PK1Q2PP/R1B5 b - - 2 16,"Error, el Rey tapa sus propias piezas para salir"

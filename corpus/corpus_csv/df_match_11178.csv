@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Quick annotation on first few moves.  
+White missed early mate that cost him the game."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Basicly a good move.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Basicly a good move.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Basicly a good move.
+5,Qh5,d1h5,rnbqk1nr/pppp1ppp/8/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,Basicly a good move.
+6,Nf6,g8f6,rnbqk2r/pppp1ppp/5n2/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4,Good thought.  Terrible move for black though.  Potentially could destroy him.
+7,Qxe5+,h5e5,rnbqk2r/pppp1ppp/5n2/2b1Q3/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 4,"Black Missed ""Scholar's Mate"" here.  Better move would have been.  Qxf7#
+
+Bummer..."
+8,Qe7,d8e7,rnb1k2r/ppppqppp/5n2/2b1Q3/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 1 5,[end of annotation]
+9,Qxc7,e5c7,rnb1k2r/ppQpqppp/5n2/2b5/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 0 5,
+10,Nc6,b8c6,r1b1k2r/ppQpqppp/2n2n2/2b5/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 1 6,
+11,Bd3,c4d3,r1b1k2r/ppQpqppp/2n2n2/2b5/4P3/3B4/PPPP1PPP/RNB1K1NR b KQkq - 2 6,
+12,Nxe4,f6e4,r1b1k2r/ppQpqppp/2n5/2b5/4n3/3B4/PPPP1PPP/RNB1K1NR w KQkq - 0 7,
+13,Ne2,g1e2,r1b1k2r/ppQpqppp/2n5/2b5/4n3/3B4/PPPPNPPP/RNB1K2R b KQkq - 1 7,
+14,O-O,e8g8,r1b2rk1/ppQpqppp/2n5/2b5/4n3/3B4/PPPPNPPP/RNB1K2R w KQ - 2 8,
+15,Qf4,c7f4,r1b2rk1/pp1pqppp/2n5/2b5/4nQ2/3B4/PPPPNPPP/RNB1K2R b KQ - 3 8,
+16,Nxf2,e4f2,r1b2rk1/pp1pqppp/2n5/2b5/5Q2/3B4/PPPPNnPP/RNB1K2R w KQ - 0 9,
+17,Rf1,h1f1,r1b2rk1/pp1pqppp/2n5/2b5/5Q2/3B4/PPPPNnPP/RNB1KR2 b Q - 1 9,
+18,Re8,f8e8,r1b1r1k1/pp1pqppp/2n5/2b5/5Q2/3B4/PPPPNnPP/RNB1KR2 w Q - 2 10,
+19,Nbc3,b1c3,r1b1r1k1/pp1pqppp/2n5/2b5/5Q2/2NB4/PPPPNnPP/R1B1KR2 b Q - 3 10,
+20,Nb4,c6b4,r1b1r1k1/pp1pqppp/8/2b5/1n3Q2/2NB4/PPPPNnPP/R1B1KR2 w Q - 4 11,
+21,Nd5,c3d5,r1b1r1k1/pp1pqppp/8/2bN4/1n3Q2/3B4/PPPPNnPP/R1B1KR2 b Q - 5 11,
+22,Nxd5,b4d5,r1b1r1k1/pp1pqppp/8/2bn4/5Q2/3B4/PPPPNnPP/R1B1KR2 w Q - 0 12,
+23,Qh4,f4h4,r1b1r1k1/pp1pqppp/8/2bn4/7Q/3B4/PPPPNnPP/R1B1KR2 b Q - 1 12,
+24,Qxh4,e7h4,r1b1r1k1/pp1p1ppp/8/2bn4/7q/3B4/PPPPNnPP/R1B1KR2 w Q - 0 13,
+25,Bb5,d3b5,r1b1r1k1/pp1p1ppp/8/1Bbn4/7q/8/PPPPNnPP/R1B1KR2 b Q - 1 13,
+26,Ng4+,f2g4,r1b1r1k1/pp1p1ppp/8/1Bbn4/6nq/8/PPPPN1PP/R1B1KR2 w Q - 2 14,
+27,Kd1,e1d1,r1b1r1k1/pp1p1ppp/8/1Bbn4/6nq/8/PPPPN1PP/R1BK1R2 b - - 3 14,
+28,Nf2+,g4f2,r1b1r1k1/pp1p1ppp/8/1Bbn4/7q/8/PPPPNnPP/R1BK1R2 w - - 4 15,
+29,Ke1,d1e1,r1b1r1k1/pp1p1ppp/8/1Bbn4/7q/8/PPPPNnPP/R1B1KR2 b - - 5 15,
+30,Nf4,d5f4,r1b1r1k1/pp1p1ppp/8/1Bb5/5n1q/8/PPPPNnPP/R1B1KR2 w - - 6 16,
+31,g3,g2g3,r1b1r1k1/pp1p1ppp/8/1Bb5/5n1q/6P1/PPPPNn1P/R1B1KR2 b - - 0 16,
+32,Ng2#,f4g2,r1b1r1k1/pp1p1ppp/8/1Bb5/7q/6P1/PPPPNnnP/R1B1KR2 w - - 1 17,

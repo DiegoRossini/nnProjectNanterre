@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Queen's pawn opening [A40]
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Queen's pawn game [A45]. This flexible move is the most common reply for black, as the knight is almost always good on f6."
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Queen's pawn game [A50]. If there was a pawn on d5, this would be the queen's gambit, a very popular opening."
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The benoni defense [A56], a sharp defense, and a favorite of mine."
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,the beginning of a center fortress bunking d5 and e4 is built.
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,[A60] working into the main benoni structure.
+7,Nc3,b1c3,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,"white dominates the white squares in the center, black dominates the black squares, leading to sharp play."
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,"white dominates the white squares in the center, black dominates the black squares, leading to sharp play."
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,"white dominates the white squares in the center, black dominates the black squares, leading to sharp play."
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,"white dominates the white squares in the center, black dominates the black squares, leading to sharp play."
+11,e4,e2e4,rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6,"white dominates the white squares in the center, black dominates the black squares, leading to sharp play."
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7,"Aiming to fianchetto the bishop on the very power, very open long diagonal. [A65]"
+13,f3,f2f3,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2P2/PP4PP/R1BQKBNR b KQkq - 0 7,"I play this move to give white a very solid structure and maximum flexibility for his pieces, (black's knight can't harass a bishop on e3, white's knight could potentially get to f2, etc...)"
+14,Bg7,f8g7,rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2N2P2/PP4PP/R1BQKBNR w KQkq - 1 8,"This pin can get nasty fast for black, he must break it immediately."
+15,Bg5,c1g5,rnbqk2r/pp3pbp/3p1np1/2pP2B1/4P3/2N2P2/PP4PP/R2QKBNR b KQkq - 2 8,"This pin can get nasty fast for black, he must break it immediately."
+16,h6,h7h6,rnbqk2r/pp3pb1/3p1npp/2pP2B1/4P3/2N2P2/PP4PP/R2QKBNR w KQkq - 0 9,Black must be somewhat familiar with this structure: as he doesn't guard h6 because 11. Bxh6?  Nxe4! with equality.
+17,Be3,g5e3,rnbqk2r/pp3pb1/3p1npp/2pP4/4P3/2N1BP2/PP4PP/R2QKBNR b KQkq - 1 9,Black must be somewhat familiar with this structure: as he doesn't guard h6 because 11. Bxh6?  Nxe4! with equality.
+18,O-O,e8g8,rnbq1rk1/pp3pb1/3p1npp/2pP4/4P3/2N1BP2/PP4PP/R2QKBNR w KQ - 2 10,Black must be somewhat familiar with this structure: as he doesn't guard h6 because 11. Bxh6?  Nxe4! with equality.
+19,Qd2,d1d2,rnbq1rk1/pp3pb1/3p1npp/2pP4/4P3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 3 10,Black must be somewhat familiar with this structure: as he doesn't guard h6 because 11. Bxh6?  Nxe4! with equality.
+20,Nbd7,b8d7,r1bq1rk1/pp1n1pb1/3p1npp/2pP4/4P3/2N1BP2/PP1Q2PP/R3KBNR w KQ - 4 11,Black must be somewhat familiar with this structure: as he doesn't guard h6 because 11. Bxh6?  Nxe4! with equality.
+21,O-O-O,e1c1,r1bq1rk1/pp1n1pb1/3p1npp/2pP4/4P3/2N1BP2/PP1Q2PP/2KR1BNR b - - 5 11,White aims to fire away at the black kingside
+22,Kh7,g8h7,r1bq1r2/pp1n1pbk/3p1npp/2pP4/4P3/2N1BP2/PP1Q2PP/2KR1BNR w - - 6 12,"Better is h5, slowing white's pawn advances. This move is quite useless, actually."
+23,g4,g2g4,r1bq1r2/pp1n1pbk/3p1npp/2pP4/4P1P1/2N1BP2/PP1Q3P/2KR1BNR b - - 0 12,"The pawn is not free to take, black wants the B file open, but I felt confident my queen on d2 would halt any B file threats. Black's pieces are also very uncoordinated, not ready to attack."
+24,b5,b7b5,r1bq1r2/p2n1pbk/3p1npp/1ppP4/4P1P1/2N1BP2/PP1Q3P/2KR1BNR w - - 0 13,"The pawn is not free to take, black wants the B file open, but I felt confident my queen on d2 would halt any B file threats. Black's pieces are also very uncoordinated, not ready to attack."
+25,Bxb5,f1b5,r1bq1r2/p2n1pbk/3p1npp/1BpP4/4P1P1/2N1BP2/PP1Q3P/2KR2NR b - - 0 13,"I begin my attack, whittling away some of black's defensive pawns."
+26,Qa5,d8a5,r1b2r2/p2n1pbk/3p1npp/qBpP4/4P1P1/2N1BP2/PP1Q3P/2KR2NR w - - 1 14,"I begin my attack, whittling away some of black's defensive pawns."
+27,g5,g4g5,r1b2r2/p2n1pbk/3p1npp/qBpP2P1/4P3/2N1BP2/PP1Q3P/2KR2NR b - - 0 14,"I begin my attack, whittling away some of black's defensive pawns."
+28,hxg5,h6g5,r1b2r2/p2n1pbk/3p1np1/qBpP2p1/4P3/2N1BP2/PP1Q3P/2KR2NR w - - 0 15,"If the H file opens, black faces certain death."
+29,h4,h2h4,r1b2r2/p2n1pbk/3p1np1/qBpP2p1/4P2P/2N1BP2/PP1Q4/2KR2NR b - - 0 15,"If the H file opens, black faces certain death."
+30,g4,g5g4,r1b2r2/p2n1pbk/3p1np1/qBpP4/4P1pP/2N1BP2/PP1Q4/2KR2NR w - - 0 16,better was Nh5
+31,h5,h4h5,r1b2r2/p2n1pbk/3p1np1/qBpP3P/4P1p1/2N1BP2/PP1Q4/2KR2NR b - - 0 16,Black is trying WAY too hard to keep the h file completely blocked. now the white h pawn becomes invasive...
+32,g5,g6g5,r1b2r2/p2n1pbk/3p1n2/qBpP2pP/4P1p1/2N1BP2/PP1Q4/2KR2NR w - - 0 17,Black is trying WAY too hard to keep the h file completely blocked. now the white h pawn becomes invasive...
+33,e5,e4e5,r1b2r2/p2n1pbk/3p1n2/qBpPP1pP/6p1/2N1BP2/PP1Q4/2KR2NR b - - 0 17,...but not before white cracks open the black center.
+34,dxe5,d6e5,r1b2r2/p2n1pbk/5n2/qBpPp1pP/6p1/2N1BP2/PP1Q4/2KR2NR w - - 0 18,moving the king leads to a heavy heavy loss of material
+35,h6,h5h6,r1b2r2/p2n1pbk/5n1P/qBpPp1p1/6p1/2N1BP2/PP1Q4/2KR2NR b - - 0 18,moving the king leads to a heavy heavy loss of material
+36,Bh8,g7h8,r1b2r1b/p2n1p1k/5n1P/qBpPp1p1/6p1/2N1BP2/PP1Q4/2KR2NR w - - 1 19,moving the king leads to a heavy heavy loss of material
+37,Bd3+,b5d3,r1b2r1b/p2n1p1k/5n1P/q1pPp1p1/6p1/2NBBP2/PP1Q4/2KR2NR b - - 2 19,moving the king leads to a heavy heavy loss of material
+38,e4,e5e4,r1b2r1b/p2n1p1k/5n1P/q1pP2p1/4p1p1/2NBBP2/PP1Q4/2KR2NR w - - 0 20,moving the king leads to a heavy heavy loss of material

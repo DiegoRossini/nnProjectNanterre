@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The Chigorin defense- Black blocks his c pawn and relies on other methods to attack white's center, like Bg4 and maybe e5."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The Chigorin defense- Black blocks his c pawn and relies on other methods to attack white's center, like Bg4 and maybe e5."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"The Chigorin defense- Black blocks his c pawn and relies on other methods to attack white's center, like Bg4 and maybe e5."
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,"The Chigorin defense- Black blocks his c pawn and relies on other methods to attack white's center, like Bg4 and maybe e5."
+5,Nc3,b1c3,r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3,"The most popular move, although Nf3 is also very common.  Now cxd5 is a threat."
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 3 4,Black develops and defends d5.
+7,Nf3,g1f3,r1bqkb1r/ppp1pppp/2n2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 4 4,And White brings out the other knight.  This helps defend d4 in case of dxc4 by Black.
+8,Bg4,c8g4,r2qkb1r/ppp1pppp/2n2n2/3p4/2PP2b1/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 5 5,"Black attacks White's knight and prepares to pin it if the e-pawn ever moves.  However, the move does weaken Black's queenside a little bit.  dxc4 is more common to stabilize the center."
+9,cxd5,c4d5,r2qkb1r/ppp1pppp/2n2n2/3P4/3P2b1/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5,White takes advantage of the unstable center and gets pawns on both d4 and e4.
+10,Nxd5,f6d5,r2qkb1r/ppp1pppp/2n5/3n4/3P2b1/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6,Black recaptures the pawn and puts pressure on the c3 knight.
+11,e4,e2e4,r2qkb1r/ppp1pppp/2n5/3n4/3PP1b1/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6,And white grabs the center.  Black has no choice but to exchange some of White's pieces.
+12,Bxf3,g4f3,r2qkb1r/ppp1pppp/2n5/3n4/3PP3/2N2b2/PP3PPP/R1BQKB1R w KQkq - 0 7,"Nxc3 is more common, as Black reserves the chance to save his bishop.  White gets doubled pawns but has a strong center."
+13,gxf3,g2f3,r2qkb1r/ppp1pppp/2n5/3n4/3PP3/2N2P2/PP3P1P/R1BQKB1R b KQkq - 0 7,Recapturing the bishop.  Now Black has to decide what to do with his d5 knight.
+14,Nxc3,d5c3,r2qkb1r/ppp1pppp/2n5/8/3PP3/2n2P2/PP3P1P/R1BQKB1R w KQkq - 0 8,"Exchanging another pair of pieces.  Nb6 has also been played, although White scored very well with his strong center and advantage in space."
+15,bxc3,b2c3,r2qkb1r/ppp1pppp/2n5/8/3PP3/2P2P2/P4P1P/R1BQKB1R b KQkq - 0 8,"White's strong center compensates for his slightly shaky pawn structure.  If Black isn't careful, the pawns could advance and crush his position."
+16,e6,e7e6,r2qkb1r/ppp2ppp/2n1p3/8/3PP3/2P2P2/P4P1P/R1BQKB1R w KQkq - 0 9,"Black takes precautions against White's center, although the more aggressive e5 has been played more often."
+17,Rb1,a1b1,r2qkb1r/ppp2ppp/2n1p3/8/3PP3/2P2P2/P4P1P/1RBQKB1R b Kkq - 1 9,White takes advantage of the hanging b-pawn to move his rook to an open file.
+18,Na5,c6a5,r2qkb1r/ppp2ppp/4p3/n7/3PP3/2P2P2/P4P1P/1RBQKB1R w Kkq - 2 10,"This is the unsound variation.  Rb8 is better and Black stays in the game, although White still has some advantage."
+19,Qa4+,d1a4,r2qkb1r/ppp2ppp/4p3/n7/Q2PP3/2P2P2/P4P1P/1RB1KB1R b Kkq - 3 10,Taking advantage of the misplaced knight.  If Nc6? then 11.Rxb7 Qd7 12.Bb5 and White wins huge amounts of material.
+20,c6,c7c6,r2qkb1r/pp3ppp/2p1p3/n7/Q2PP3/2P2P2/P4P1P/1RB1KB1R w Kkq - 0 11,Black thinks that he has everything under control.  He blocks the check and protects his knight at the same time.  However there is another weakness in his position that he has forgotten about- his uncastled king.
+21,Rb5,b1b5,r2qkb1r/pp3ppp/2p1p3/nR6/Q2PP3/2P2P2/P4P1P/2B1KB1R b Kkq - 1 11,"!! Shattering Black's seemingly stable position.  This move threatens to win Black's knight.  To save the knight, Black must be prepared to allow his king to be hunted across the board.
+
+Bd2 and Bd2 were played with reasonable success, although this move is in my opinion much stronger."
+22,cxb5,c6b5,r2qkb1r/pp3ppp/4p3/np6/Q2PP3/2P2P2/P4P1P/2B1KB1R w Kkq - 0 12,"Black accepts the sacrifice
+Some other variations:
+11...Nc4 12.Bxc4 cxb5 13.Bxb5+ is the main line except Black has already lost a piece
+11...b6 12.Rxa5 bxa5 (b5 13.Rxb5 cxb5 Bxb5+ is similar to the main line but Black has lost a piece) 13.Qxc6+ Ke7 14.Ba3+ Kf6 15.e5+ Kg5 16.Rg1+ Kh5 17.Qe4 is a better (for white) version of the main line."
+23,Bxb5+,f1b5,r2qkb1r/pp3ppp/4p3/nB6/Q2PP3/2P2P2/P4P1P/2B1K2R b Kkq - 0 12,Black's king is forced into the open.

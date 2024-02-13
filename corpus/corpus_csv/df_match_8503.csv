@@ -1,0 +1,169 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Problem number 1. Why are we moving at Queen at move 2? Bad idea. Because the Queen is the most valuable piece on the board, she is also the most vulnerable, because you can't trade her for anything other than another Queen, which means she is now going to start running."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Problem number 1. Why are we moving at Queen at move 2? Bad idea. Because the Queen is the most valuable piece on the board, she is also the most vulnerable, because you can't trade her for anything other than another Queen, which means she is now going to start running."
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"Problem number 1. Why are we moving at Queen at move 2? Bad idea. Because the Queen is the most valuable piece on the board, she is also the most vulnerable, because you can't trade her for anything other than another Queen, which means she is now going to start running."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"Problem number 2. Generally a good idea to develop your knights before bishops, besides which, what do you think is going to happen here, black does not see the mating threat? There is an old saying in chess: the threat is greater than the execution. What it means is that it's not the mating threat that is important, it is the weakness that the opponent must create when AVOIDING the threat that you are after. In this case, your threat, Qxf7 mate, actually helps Black because your Queen is out in the middle of the board."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,"Problem number 2. Generally a good idea to develop your knights before bishops, besides which, what do you think is going to happen here, black does not see the mating threat? There is an old saying in chess: the threat is greater than the execution. What it means is that it's not the mating threat that is important, it is the weakness that the opponent must create when AVOIDING the threat that you are after. In this case, your threat, Qxf7 mate, actually helps Black because your Queen is out in the middle of the board."
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4,"Queen move 2. Notice you have placed her at f3, which is where the knight that should have been developed instead of the Queen."
+7,Qf3,h5f3,r1bqkbnr/pppp1p1p/2n3p1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 4,"Queen move 2. Notice you have placed her at f3, which is where the knight that should have been developed instead of the Queen."
+8,Nf6,g8f6,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 5,"This move makes sense. Opens the diagonal for the bishop and supports the pawn on e4. You should be asking this question, and others, before every move.
+
+(1) Do I have any pieces hanging that need to be protected or moved.
+(2) What are the three best moves available to me in this position?
+(3) What does each of those moves accomplish, specifically.
+(4) Which of the is the best?"
+9,d3,d2d3,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 5,"This move makes sense. Opens the diagonal for the bishop and supports the pawn on e4. You should be asking this question, and others, before every move.
+
+(1) Do I have any pieces hanging that need to be protected or moved.
+(2) What are the three best moves available to me in this position?
+(3) What does each of those moves accomplish, specifically.
+(4) Which of the is the best?"
+10,Nd4,c6d4,r1bqkb1r/pppp1p1p/5np1/4p3/2BnP3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 6,"And now we see the problem with your development. The Queen, at this stage, should have stayed on d1. The Knight at g1 should be sitting on f3. What would this accomplish. Well, the Queen would not be being attacked, yes? And the Knight on f3 would be guarding the d4 square, yes? which means black would never stick it there, because if you took it with the hypothetical knight at f3, black would have to take back with pawn on e5, and would have doubled his pawns.
+
+As it stands, you have got to move the queen AGAIN, which means your pieces, which need to be developed, continue to sit on their home squares--the N at g1, the N at b1, the B c1."
+11,Qd1,f3d1,r1bqkb1r/pppp1p1p/5np1/4p3/2BnP3/3P4/PPP2PPP/RNBQK1NR b KQkq - 2 6,"Okay, good enough, our queen is now back at d1. Now granted, the Queen sortie may have weakened Black's position a little by forcing the pawn move g6, BUT what has that cost you? Three moves. Qh4, Qf3, Qd1. 
+
+There are time controls in chess, but internally, time in chess is measured in moves. The fewer moves it takes you to accomplish your goal, the better. Why, because you get more pieces developed faster than the other guy. You would never consider taking your bishop and moving it back and forth between c1 and g5, would you? Course not. But you are doing something like that here with your queen."
+12,d5,d7d5,r1bqkb1r/ppp2p1p/5np1/3pp3/2BnP3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 7,"Game is essentially lost here. White has simply
+dropped a piece. This may simply be
+carelessness due to your game load, but I can't
+overemphasize how easy it makes it for your
+opponent when you give up material.
+Black's plan is simple, from here out--trade off
+pieces and exploit the advantage of the extra
+knight in the end game. Almost a sure win for
+black from here on out, with accurate, careful
+play."
+13,Bb5+,c4b5,r1bqkb1r/ppp2p1p/5np1/1B1pp3/3nP3/3P4/PPP2PPP/RNBQK1NR b KQkq - 1 7,"Game is essentially lost here. White has simply
+dropped a piece. This may simply be
+carelessness due to your game load, but I can't
+overemphasize how easy it makes it for your
+opponent when you give up material.
+Black's plan is simple, from here out--trade off
+pieces and exploit the advantage of the extra
+knight in the end game. Almost a sure win for
+black from here on out, with accurate, careful
+play."
+14,Nxb5,d4b5,r1bqkb1r/ppp2p1p/5np1/1n1pp3/4P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 8,"Game is essentially lost here. White has simply
+dropped a piece. This may simply be
+carelessness due to your game load, but I can't
+overemphasize how easy it makes it for your
+opponent when you give up material.
+Black's plan is simple, from here out--trade off
+pieces and exploit the advantage of the extra
+knight in the end game. Almost a sure win for
+black from here on out, with accurate, careful
+play."
+15,Bg5,c1g5,r1bqkb1r/ppp2p1p/5np1/1n1pp1B1/4P3/3P4/PPP2PPP/RN1QK1NR b KQkq - 1 8,"Pinning the Knight is okay, but too late. Notice
+how black IMMEDIATELY tries to get the
+queens off the board to maximize his already
+winning advantage with the extra knight."
+16,dxe4,d5e4,r1bqkb1r/ppp2p1p/5np1/1n2p1B1/4p3/3P4/PPP2PPP/RN1QK1NR w KQkq - 0 9,"This is a mistake, though at this point it
+does not matter. Take the knight first, forcing
+the Queen to take back at f6. Keeps your queen on
+the board, which you need to do when down on
+material. [ 9.Bxf6 Qxf6 10.dxe4 Bd7 11.Qd5]
+When down on material, don't allow exchanges
+if you can avoid them.]"
+17,dxe4,d3e4,r1bqkb1r/ppp2p1p/5np1/1n2p1B1/4P3/8/PPP2PPP/RN1QK1NR b KQkq - 0 9,"This is a mistake, though at this point it
+does not matter. Take the knight first, forcing
+the Queen to take back at f6. Keeps your queen on
+the board, which you need to do when down on
+material. [ 9.Bxf6 Qxf6 10.dxe4 Bd7 11.Qd5]
+When down on material, don't allow exchanges
+if you can avoid them.]"
+18,Qxd1+,d8d1,r1b1kb1r/ppp2p1p/5np1/1n2p1B1/4P3/8/PPP2PPP/RN1qK1NR w KQkq - 0 10,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+19,Kxd1,e1d1,r1b1kb1r/ppp2p1p/5np1/1n2p1B1/4P3/8/PPP2PPP/RN1K2NR b kq - 0 10,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+20,Nxe4,f6e4,r1b1kb1r/ppp2p1p/6p1/1n2p1B1/4n3/8/PPP2PPP/RN1K2NR w kq - 0 11,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+21,Be3,g5e3,r1b1kb1r/ppp2p1p/6p1/1n2p3/4n3/4B3/PPP2PPP/RN1K2NR b kq - 1 11,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+22,Bf5,c8f5,r3kb1r/ppp2p1p/6p1/1n2pb2/4n3/4B3/PPP2PPP/RN1K2NR w kq - 2 12,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+23,h3,h2h3,r3kb1r/ppp2p1p/6p1/1n2pb2/4n3/4B2P/PPP2PP1/RN1K2NR b kq - 0 12,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+24,O-O-O+,e8c8,2kr1b1r/ppp2p1p/6p1/1n2pb2/4n3/4B2P/PPP2PP1/RN1K2NR w - - 1 13,"Notice that after 12 moves, neither of your
+knights have been developed. Neither have
+moved. Your Calvary is stuck in the stockade when 
+they are most needed. Your planes are destroyed on
+the ground.  And your king is trapped in the center.
+Would be nice to have those three moves with
+the queen back right now. By now, move 12
+your knights should be at f3 and c6 and your
+king should be castled."
+25,Ke1,d1e1,2kr1b1r/ppp2p1p/6p1/1n2pb2/4n3/4B2P/PPP2PP1/RN2K1NR b - - 2 13,"You are walking into a punch here. NEVER put
+the king between an opponent's piece and a
+rook unless you are avoiding mate. Leads to
+discovered check, which is DEADLY, as we see
+here. Even though you should avoid exchanges
+when down on material as a rule, here you
+have to take the knight with the bishop to 
+avoid losing the rook from the discovered
+check."
+26,Nd4,b5d4,2kr1b1r/ppp2p1p/6p1/4pb2/3nn3/4B2P/PPP2PP1/RN2K1NR w - - 3 14,"You are walking into a punch here. NEVER put
+the king between an opponent's piece and a
+rook unless you are avoiding mate. Leads to
+discovered check, which is DEADLY, as we see
+here. Even though you should avoid exchanges
+when down on material as a rule, here you
+have to take the knight with the bishop to 
+avoid losing the rook from the discovered
+check."
+27,Kd1,e1d1,2kr1b1r/ppp2p1p/6p1/4pb2/3nn3/4B2P/PPP2PP1/RN1K2NR b - - 4 14,"You are walking into a punch here. NEVER put
+the king between an opponent's piece and a
+rook unless you are avoiding mate. Leads to
+discovered check, which is DEADLY, as we see
+here. Even though you should avoid exchanges
+when down on material as a rule, here you
+have to take the knight with the bishop to 
+avoid losing the rook from the discovered
+check."
+28,Nb3+,d4b3,2kr1b1r/ppp2p1p/6p1/4pb2/4n3/1n2B2P/PPP2PP1/RN1K2NR w - - 5 15,Ouch...
+29,Ke1,d1e1,2kr1b1r/ppp2p1p/6p1/4pb2/4n3/1n2B2P/PPP2PP1/RN2K1NR b - - 6 15,
+30,Nxa1,b3a1,2kr1b1r/ppp2p1p/6p1/4pb2/4n3/4B2P/PPP2PP1/nN2K1NR w - - 0 16,
+31,Nf3,g1f3,2kr1b1r/ppp2p1p/6p1/4pb2/4n3/4BN1P/PPP2PP1/nN2K2R b - - 1 16,
+32,Nxc2+,a1c2,2kr1b1r/ppp2p1p/6p1/4pb2/4n3/4BN1P/PPn2PP1/1N2K2R w - - 0 17,

@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Bad move. You should never move the same piece twice in a row like that in an opening game.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Bad move. You should never move the same piece twice in a row like that in an opening game.
+3,Nh4,f3h4,rnbqkbnr/ppp1pppp/8/3p4/7N/8/PPPPPPPP/RNBQKB1R b KQkq - 1 2,Bad move. You should never move the same piece twice in a row like that in an opening game.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/7N/8/PPPPPPPP/RNBQKB1R w KQkq - 0 3,Opening up a line of attack.
+5,Ng6,h4g6,rnbqkbnr/ppp2ppp/6N1/3pp3/8/8/PPPPPPPP/RNBQKB1R b KQkq - 1 3,Not sure where that came from. She just gave up her knight for nothing.
+6,hxg6,h7g6,rnbqkbnr/ppp2pp1/6p1/3pp3/8/8/PPPPPPPP/RNBQKB1R w KQkq - 0 4,Another free knight for me.
+7,e3,e2e3,rnbqkbnr/ppp2pp1/6p1/3pp3/8/4P3/PPPP1PPP/RNBQKB1R b KQkq - 0 4,Another free knight for me.
+8,Nf6,g8f6,rnbqkb1r/ppp2pp1/5np1/3pp3/8/4P3/PPPP1PPP/RNBQKB1R w KQkq - 1 5,Another free knight for me.
+9,Bb5+,f1b5,rnbqkb1r/ppp2pp1/5np1/1B1pp3/8/4P3/PPPP1PPP/RNBQK2R b KQkq - 2 5,Another free knight for me.
+10,Nc6,b8c6,r1bqkb1r/ppp2pp1/2n2np1/1B1pp3/8/4P3/PPPP1PPP/RNBQK2R w KQkq - 3 6,Another free knight for me.
+11,Nc3,b1c3,r1bqkb1r/ppp2pp1/2n2np1/1B1pp3/8/2N1P3/PPPP1PPP/R1BQK2R b KQkq - 4 6,Another free knight for me.
+12,d4,d5d4,r1bqkb1r/ppp2pp1/2n2np1/1B2p3/3p4/2N1P3/PPPP1PPP/R1BQK2R w KQkq - 0 7,Another free knight for me.
+13,Qf3,d1f3,r1bqkb1r/ppp2pp1/2n2np1/1B2p3/3p4/2N1PQ2/PPPP1PPP/R1B1K2R b KQkq - 1 7,Another free knight for me.
+14,dxc3,d4c3,r1bqkb1r/ppp2pp1/2n2np1/1B2p3/8/2p1PQ2/PPPP1PPP/R1B1K2R w KQkq - 0 8,This is quite a huge mistake as you will see.
+15,Qe4,f3e4,r1bqkb1r/ppp2pp1/2n2np1/1B2p3/4Q3/2p1P3/PPPP1PPP/R1B1K2R b KQkq - 1 8,This is quite a huge mistake as you will see.
+16,Nxe4,f6e4,r1bqkb1r/ppp2pp1/2n3p1/1B2p3/4n3/2p1P3/PPPP1PPP/R1B1K2R w KQkq - 0 9,I think you can already tell that I have mate in 3.
+17,dxc3,d2c3,r1bqkb1r/ppp2pp1/2n3p1/1B2p3/4n3/2P1P3/PPP2PPP/R1B1K2R b KQkq - 0 9,I think you can already tell that I have mate in 3.
+18,Qf6,d8f6,r1b1kb1r/ppp2pp1/2n2qp1/1B2p3/4n3/2P1P3/PPP2PPP/R1B1K2R w KQkq - 1 10,I think you can already tell that I have mate in 3.
+19,Bc4,b5c4,r1b1kb1r/ppp2pp1/2n2qp1/4p3/2B1n3/2P1P3/PPP2PPP/R1B1K2R b KQkq - 2 10,I think you can already tell that I have mate in 3.
+20,Qxf2+,f6f2,r1b1kb1r/ppp2pp1/2n3p1/4p3/2B1n3/2P1P3/PPP2qPP/R1B1K2R w KQkq - 0 11,Checkmate.
+21,Kd1,e1d1,r1b1kb1r/ppp2pp1/2n3p1/4p3/2B1n3/2P1P3/PPP2qPP/R1BK3R b kq - 1 11,Checkmate.
+22,Bg4+,c8g4,r3kb1r/ppp2pp1/2n3p1/4p3/2B1n1b1/2P1P3/PPP2qPP/R1BK3R w kq - 2 12,Checkmate.
+23,Be2,c4e2,r3kb1r/ppp2pp1/2n3p1/4p3/4n1b1/2P1P3/PPP1BqPP/R1BK3R b kq - 3 12,Checkmate.
+24,Qxe2#,f2e2,r3kb1r/ppp2pp1/2n3p1/4p3/4n1b1/2P1P3/PPP1q1PP/R1BK3R w kq - 0 13,Checkmate.

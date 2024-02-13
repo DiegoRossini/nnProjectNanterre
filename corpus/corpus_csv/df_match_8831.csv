@@ -1,0 +1,75 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Starting position
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Starting position
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Starting position
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Starting position
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Starting position
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Starting position
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Starting position
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Starting position
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Starting position
+10,d6,d7d6,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Starting position
+11,Bc4,f1c4,r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6,Starting position
+12,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7,Starting position
+13,Nxc6,d4c6,r1bqkb1r/pp2pp1p/2Np1np1/8/2B1P3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 7,? The tournament results suggest Ng4 is the strongest continuation
+14,bxc6,b7c6,r1bqkb1r/p3pp1p/2pp1np1/8/2B1P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,? The tournament results suggest Ng4 is the strongest continuation
+15,e5,e4e5,r1bqkb1r/p3pp1p/2pp1np1/4P3/2B5/2N5/PPP2PPP/R1BQK2R b KQkq - 0 8,? The tournament results suggest Ng4 is the strongest continuation
+16,Ng8,f6g8,r1bqkbnr/p3pp1p/2pp2p1/4P3/2B5/2N5/PPP2PPP/R1BQK2R w KQkq - 1 9,? The tournament results suggest Ng4 is the strongest continuation
+17,Qf3,d1f3,r1bqkbnr/p3pp1p/2pp2p1/4P3/2B5/2N2Q2/PPP2PPP/R1B1K2R b KQkq - 2 9,"9...d5?? 10.Nxd5! cxd5 11.Bxd5  /- (black must lose the rook)
+11...Qa5  12.Bd2
+OR
+11...Bg4? 12.Bxf7  Kd7 13.Qxg4 
+OR
+11...Rb8 12.Bxf7   Kd7 13.Qd5  Kc7 14.Qc5  Kb7 (14...Kd7 15.e6#) 15.
+Bd5  Ka6 16. Qc6 (Mate in 6!!) 16...Qb6 (16...Rb6 17.Qa4#; 16...Ka5 17.Bd2  Rb4 18.Bxb4  Kxb4 19.c3  Ka5 20.b4#) 17.Bc4  Ka5 18.Bd2  Qb4 19.Qc5  Ka4(19...Rb5 20.Qxb5#) 20.Qxa7   Ba6 21.Qxa6  Qa5 22.Qxa5#
+------------------------------------------------------------------------------------------
+9...e6 10.Bb5!!"
+18,Be6,c8e6,r2qkbnr/p3pp1p/2ppb1p1/4P3/2B5/2N2Q2/PPP2PPP/R1B1K2R w KQkq - 3 10,"9...d5?? 10.Nxd5! cxd5 11.Bxd5  /- (black must lose the rook)
+11...Qa5  12.Bd2
+OR
+11...Bg4? 12.Bxf7  Kd7 13.Qxg4 
+OR
+11...Rb8 12.Bxf7   Kd7 13.Qd5  Kc7 14.Qc5  Kb7 (14...Kd7 15.e6#) 15.
+Bd5  Ka6 16. Qc6 (Mate in 6!!) 16...Qb6 (16...Rb6 17.Qa4#; 16...Ka5 17.Bd2  Rb4 18.Bxb4  Kxb4 19.c3  Ka5 20.b4#) 17.Bc4  Ka5 18.Bd2  Qb4 19.Qc5  Ka4(19...Rb5 20.Qxb5#) 20.Qxa7   Ba6 21.Qxa6  Qa5 22.Qxa5#
+------------------------------------------------------------------------------------------
+9...e6 10.Bb5!!"
+19,Bxe6,c4e6,r2qkbnr/p3pp1p/2ppB1p1/4P3/8/2N2Q2/PPP2PPP/R1B1K2R b KQkq - 0 10,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+20,fxe6,f7e6,r2qkbnr/p3p2p/2ppp1p1/4P3/8/2N2Q2/PPP2PPP/R1B1K2R w KQkq - 0 11,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+21,Qxc6+,f3c6,r2qkbnr/p3p2p/2Qpp1p1/4P3/8/2N5/PPP2PPP/R1B1K2R b KQkq - 0 11,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+22,Kf7,e8f7,r2q1bnr/p3pk1p/2Qpp1p1/4P3/8/2N5/PPP2PPP/R1B1K2R w KQ - 1 12,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+23,Ne4,c3e4,r2q1bnr/p3pk1p/2Qpp1p1/4P3/4N3/8/PPP2PPP/R1B1K2R b KQ - 2 12,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+24,Qa5+,d8a5,r4bnr/p3pk1p/2Qpp1p1/q3P3/4N3/8/PPP2PPP/R1B1K2R w KQ - 3 13,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+25,Bd2,c1d2,r4bnr/p3pk1p/2Qpp1p1/q3P3/4N3/8/PPPB1PPP/R3K2R b KQ - 4 13,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+26,Qxe5,a5e5,r4bnr/p3pk1p/2Qpp1p1/4q3/4N3/8/PPPB1PPP/R3K2R w KQ - 0 14,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+27,O-O-O,e1c1,r4bnr/p3pk1p/2Qpp1p1/4q3/4N3/8/PPPB1PPP/2KR3R b - - 1 14,"!! 14...Rb8 15.Ng5  Kf6 16.Bc3 Kxg5 17.Bxe5 dxe5  18. Qxe6  /-
+14...Bg7 15.Ng5  Kf6 (Kf8 Qxa8#) 16.Bc3 Kxg5 17.Bxe5  /-"
+28,Nf6,g8f6,r4b1r/p3pk1p/2Qppnp1/4q3/4N3/8/PPPB1PPP/2KR3R w - - 2 15,1-0
+29,Ng5+,e4g5,r4b1r/p3pk1p/2Qppnp1/4q1N1/8/8/PPPB1PPP/2KR3R b - - 3 15,1-0
+30,Kg8,f7g8,r4bkr/p3p2p/2Qppnp1/4q1N1/8/8/PPPB1PPP/2KR3R w - - 4 16,1-0
+31,Qxa8,c6a8,Q4bkr/p3p2p/3ppnp1/4q1N1/8/8/PPPB1PPP/2KR3R b - - 0 16,1-0
+32,h6,h7h6,Q4bkr/p3p3/3ppnpp/4q1N1/8/8/PPPB1PPP/2KR3R w - - 0 17,Note the use of the knight to lock the black bishop and rook
+33,Rhe1,h1e1,Q4bkr/p3p3/3ppnpp/4q1N1/8/8/PPPB1PPP/2KRR3 b - - 1 17,Note the use of the knight to lock the black bishop and rook
+34,Qd5,e5d5,Q4bkr/p3p3/3ppnpp/3q2N1/8/8/PPPB1PPP/2KRR3 w - - 2 18,Note the use of the knight to lock the black bishop and rook
+35,Qxd5,a8d5,5bkr/p3p3/3ppnpp/3Q2N1/8/8/PPPB1PPP/2KRR3 b - - 0 18,Note the use of the knight to lock the black bishop and rook
+36,exd5,e6d5,5bkr/p3p3/3p1npp/3p2N1/8/8/PPPB1PPP/2KRR3 w - - 0 19,Note the use of the knight to lock the black bishop and rook
+37,Ne6,g5e6,5bkr/p3p3/3pNnpp/3p4/8/8/PPPB1PPP/2KRR3 b - - 1 19,Note the use of the knight to lock the black bishop and rook
+38,Kf7,g8f7,5b1r/p3pk2/3pNnpp/3p4/8/8/PPPB1PPP/2KRR3 w - - 2 20,
+39,Bc3,d2c3,5b1r/p3pk2/3pNnpp/3p4/8/2B5/PPP2PPP/2KRR3 b - - 3 20,
+40,Bg7,f8g7,7r/p3pkb1/3pNnpp/3p4/8/2B5/PPP2PPP/2KRR3 w - - 4 21,
+41,Nxg7,e6g7,7r/p3pkN1/3p1npp/3p4/8/2B5/PPP2PPP/2KRR3 b - - 0 21,
+42,Kxg7,f7g7,7r/p3p1k1/3p1npp/3p4/8/2B5/PPP2PPP/2KRR3 w - - 0 22,
+43,Rxe7+,e1e7,7r/p3R1k1/3p1npp/3p4/8/2B5/PPP2PPP/2KR4 b - - 0 22,
+44,Kf8,g7f8,5k1r/p3R3/3p1npp/3p4/8/2B5/PPP2PPP/2KR4 w - - 1 23,
+45,Bxf6,c3f6,5k1r/p3R3/3p1Bpp/3p4/8/8/PPP2PPP/2KR4 b - - 0 23,
+46,Rg8,h8g8,5kr1/p3R3/3p1Bpp/3p4/8/8/PPP2PPP/2KR4 w - - 1 24,
+47,Rxa7,e7a7,5kr1/R7/3p1Bpp/3p4/8/8/PPP2PPP/2KR4 b - - 0 24,
+48,g5,g6g5,5kr1/R7/3p1B1p/3p2p1/8/8/PPP2PPP/2KR4 w - - 0 25,
+49,Rxd5,d1d5,5kr1/R7/3p1B1p/3R2p1/8/8/PPP2PPP/2K5 b - - 0 25,

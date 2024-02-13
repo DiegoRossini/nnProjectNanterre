@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Opening - Sicilian defence
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Opening - Sicilian defence
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Continuing opening and threatening pawn
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Continuing opening and threatening pawn
+5,d3,d2d3,rnbqkb1r/pp1ppppp/5n2/2p5/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,Opening up diagonol for dark bishop
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2p5/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,Opening up diagonol for dark bishop
+7,c3,c2c3,rnbqkb1r/pp1p1ppp/4pn2/2p5/2B1P3/2PP4/PP3PPP/RNBQK1NR b KQkq - 0 4,Moved pawn to a3. In response to light bishop at c4.  Better move would probably have been b3 and fianchetto bishop.
+8,a6,a7a6,rnbqkb1r/1p1p1ppp/p3pn2/2p5/2B1P3/2PP4/PP3PPP/RNBQK1NR w KQkq - 0 5,Moved pawn to a3. In response to light bishop at c4.  Better move would probably have been b3 and fianchetto bishop.
+9,a3,a2a3,rnbqkb1r/1p1p1ppp/p3pn2/2p5/2B1P3/P1PP4/1P3PPP/RNBQK1NR b KQkq - 0 5,Developing queen's knight to c6
+10,Nc6,b8c6,r1bqkb1r/1p1p1ppp/p1n1pn2/2p5/2B1P3/P1PP4/1P3PPP/RNBQK1NR w KQkq - 1 6,Developing queen's knight to c6
+11,Nf3,g1f3,r1bqkb1r/1p1p1ppp/p1n1pn2/2p5/2B1P3/P1PP1N2/1P3PPP/RNBQK2R b KQkq - 2 6,Pushing e pawn to gain centre space.  I note pawn at c5 is unprotected.
+12,e5,e6e5,r1bqkb1r/1p1p1ppp/p1n2n2/2p1p3/2B1P3/P1PP1N2/1P3PPP/RNBQK2R w KQkq - 0 7,Pushing e pawn to gain centre space.  I note pawn at c5 is unprotected.
+13,b4,b2b4,r1bqkb1r/1p1p1ppp/p1n2n2/2p1p3/1PB1P3/P1PP1N2/5PPP/RNBQK2R b KQkq - 0 7,Moved b pawn to attack bishop at c4
+14,b5,b7b5,r1bqkb1r/3p1ppp/p1n2n2/1pp1p3/1PB1P3/P1PP1N2/5PPP/RNBQK2R w KQkq - 0 8,Moved b pawn to attack bishop at c4
+15,Bd5,c4d5,r1bqkb1r/3p1ppp/p1n2n2/1ppBp3/1P2P3/P1PP1N2/5PPP/RNBQK2R b KQkq - 1 8,White bishop moved to avoid b5 pawn threat and is taken by f6 knight
+16,Nxd5,f6d5,r1bqkb1r/3p1ppp/p1n5/1ppnp3/1P2P3/P1PP1N2/5PPP/RNBQK2R w KQkq - 0 9,White bishop moved to avoid b5 pawn threat and is taken by f6 knight
+17,exd5,e4d5,r1bqkb1r/3p1ppp/p1n5/1ppPp3/1P6/P1PP1N2/5PPP/RNBQK2R b KQkq - 0 9,White retakes knight with e4 pawn and c3 knight retreats to e7
+18,Ne7,c6e7,r1bqkb1r/3pnppp/p7/1ppPp3/1P6/P1PP1N2/5PPP/RNBQK2R w KQkq - 1 10,White retakes knight with e4 pawn and c3 knight retreats to e7
+19,c4,c3c4,r1bqkb1r/3pnppp/p7/1ppPp3/1PP5/P2P1N2/5PPP/RNBQK2R b KQkq - 0 10,White pawn moves to c4 and taken by b5 pawn.  Leaving black pawns doubled on c file.
+20,bxc4,b5c4,r1bqkb1r/3pnppp/p7/2pPp3/1Pp5/P2P1N2/5PPP/RNBQK2R w KQkq - 0 11,White pawn moves to c4 and taken by b5 pawn.  Leaving black pawns doubled on c file.
+21,dxc4,d3c4,r1bqkb1r/3pnppp/p7/2pPp3/1PP5/P4N2/5PPP/RNBQK2R b KQkq - 0 11,White d pawn takes e4 pawn and black knight moves to f5.
+22,Nf5,e7f5,r1bqkb1r/3p1ppp/p7/2pPpn2/1PP5/P4N2/5PPP/RNBQK2R w KQkq - 1 12,White d pawn takes e4 pawn and black knight moves to f5.
+23,Nxe5,f3e5,r1bqkb1r/3p1ppp/p7/2pPNn2/1PP5/P7/5PPP/RNBQK2R b KQkq - 0 12,White's f3 knight takes pawn at e5.  Black queen comes out to defend at f6.
+24,Qf6,d8f6,r1b1kb1r/3p1ppp/p4q2/2pPNn2/1PP5/P7/5PPP/RNBQK2R w KQkq - 1 13,White's f3 knight takes pawn at e5.  Black queen comes out to defend at f6.
+25,Bb2,c1b2,r1b1kb1r/3p1ppp/p4q2/2pPNn2/1PP5/P7/1B3PPP/RN1QK2R b KQkq - 2 13,White's dark bishop moves out to b2.  Black knight moves to d4.
+26,Nd4,f5d4,r1b1kb1r/3p1ppp/p4q2/2pPN3/1PPn4/P7/1B3PPP/RN1QK2R w KQkq - 3 14,White's dark bishop takes knight at d4.  Black's dark bishop comes out to d6 to allow black to castle.
+27,Bxd4,b2d4,r1b1kb1r/3p1ppp/p4q2/2pPN3/1PPB4/P7/5PPP/RN1QK2R b KQkq - 0 14,White's dark bishop takes knight at d4.  Black's dark bishop comes out to d6 to allow black to castle.
+28,Bd6,f8d6,r1b1k2r/3p1ppp/p2b1q2/2pPN3/1PPB4/P7/5PPP/RN1QK2R w KQkq - 1 15,White's dark bishop takes knight at d4.  Black's dark bishop comes out to d6 to allow black to castle.
+29,bxc5,b4c5,r1b1k2r/3p1ppp/p2b1q2/2PPN3/2PB4/P7/5PPP/RN1QK2R b KQkq - 0 15,White takes pawn at c5 doubling pawns on c file.  Black's dark bishop takes knight at e5.  Also threatening white's bishop at d4.
+30,Bxe5,d6e5,r1b1k2r/3p1ppp/p4q2/2PPb3/2PB4/P7/5PPP/RN1QK2R w KQkq - 0 16,White takes pawn at c5 doubling pawns on c file.  Black's dark bishop takes knight at e5.  Also threatening white's bishop at d4.
+31,Be3,d4e3,r1b1k2r/3p1ppp/p4q2/2PPb3/2P5/P3B3/5PPP/RN1QK2R b KQkq - 1 16,White's bishop moves back to e3 and black castles.
+32,O-O,e8g8,r1b2rk1/3p1ppp/p4q2/2PPb3/2P5/P3B3/5PPP/RN1QK2R w KQ - 2 17,White's bishop moves back to e3 and black castles.
+33,Ra2,a1a2,r1b2rk1/3p1ppp/p4q2/2PPb3/2P5/P3B3/R4PPP/1N1QK2R b K - 3 17,White moves rook to a2.  Black pushes pawn to a5.
+34,a5,a6a5,r1b2rk1/3p1ppp/5q2/p1PPb3/2P5/P3B3/R4PPP/1N1QK2R w K - 0 18,White moves rook to a2.  Black pushes pawn to a5.
+35,g3,g2g3,r1b2rk1/3p1ppp/5q2/p1PPb3/2P5/P3B1P1/R4P1P/1N1QK2R b K - 0 18,White moves pawn out to g3.  Black rook moves to b8 onto a part open file.
+36,Rb8,a8b8,1rb2rk1/3p1ppp/5q2/p1PPb3/2P5/P3B1P1/R4P1P/1N1QK2R w K - 1 19,White moves pawn out to g3.  Black rook moves to b8 onto a part open file.
+37,f4,f2f4,1rb2rk1/3p1ppp/5q2/p1PPb3/2P2P2/P3B1P1/R6P/1N1QK2R b K - 0 19,White moves pawn to f4 and is taken by black's dark bishop.  The bishop is now forked.
+38,Bxf4,e5f4,1rb2rk1/3p1ppp/5q2/p1PP4/2P2b2/P3B1P1/R6P/1N1QK2R w K - 0 20,White moves pawn to f4 and is taken by black's dark bishop.  The bishop is now forked.
+39,gxf4,g3f4,1rb2rk1/3p1ppp/5q2/p1PP4/2P2P2/P3B3/R6P/1N1QK2R b K - 0 20,Whites g pawn takes bishop at f4.  Black moves light bishop out to a6.
+40,Ba6,c8a6,1r3rk1/3p1ppp/b4q2/p1PP4/2P2P2/P3B3/R6P/1N1QK2R w K - 1 21,Whites g pawn takes bishop at f4.  Black moves light bishop out to a6.

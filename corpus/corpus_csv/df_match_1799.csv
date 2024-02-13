@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi everyone!
+
+Here is a game which ended in a Low Draw for Yours Truly.  I got greedy in the middlegame with some pawn grabbing that backfired on me.  Under normal circumstances, 3 pawns for the piece is enough compo. and indeed the material count is zero.  However, if the extra piece is a bishop and there is a pair of them, and you have a knight, then heaven help you!  I found myself in that very position and thankfully Heaven did save me 10 rating points but boy it was a struggle.  So how did all this happen? Well, read on ......."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,1. ...... c5. Sicilian Defense.
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,2. c3. Closed Sicilian.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,3. e5 - starting to transpose into an Alekhine's Defense.
+5,e5,e4e5,rnbqkb1r/pp1ppppp/5n2/2p1P3/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3,3. e5 - starting to transpose into an Alekhine's Defense.
+6,Nd5,f6d5,rnbqkb1r/pp1ppppp/8/2pnP3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 4,5. Bc4 - development.
+7,Nf3,g1f3,rnbqkb1r/pp1ppppp/8/2pnP3/8/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 2 4,5. Bc4 - development.
+8,e6,e7e6,rnbqkb1r/pp1p1ppp/4p3/2pnP3/8/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 5,5. Bc4 - development.
+9,Bc4,f1c4,rnbqkb1r/pp1p1ppp/4p3/2pnP3/2B5/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 1 5,5. Bc4 - development.
+10,d6,d7d6,rnbqkb1r/pp3ppp/3pp3/2pnP3/2B5/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 0 6,7. dxe4 - pawn trade.
+11,d4,d2d4,rnbqkb1r/pp3ppp/3pp3/2pnP3/2BP4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 6,7. dxe4 - pawn trade.
+12,cxd4,c5d4,rnbqkb1r/pp3ppp/3pp3/3nP3/2Bp4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 7,7. dxe4 - pawn trade.
+13,cxd4,c3d4,rnbqkb1r/pp3ppp/3pp3/3nP3/2BP4/5N2/PP3PPP/RNBQK2R b KQkq - 0 7,7. dxe4 - pawn trade.
+14,Nb6,d5b6,rnbqkb1r/pp3ppp/1n1pp3/4P3/2BP4/5N2/PP3PPP/RNBQK2R w KQkq - 1 8,9. Nc3 - more development.
+15,Bd3,c4d3,rnbqkb1r/pp3ppp/1n1pp3/4P3/3P4/3B1N2/PP3PPP/RNBQK2R b KQkq - 2 8,9. Nc3 - more development.
+16,Be7,f8e7,rnbqk2r/pp2bppp/1n1pp3/4P3/3P4/3B1N2/PP3PPP/RNBQK2R w KQkq - 3 9,9. Nc3 - more development.
+17,Nc3,b1c3,rnbqk2r/pp2bppp/1n1pp3/4P3/3P4/2NB1N2/PP3PPP/R1BQK2R b KQkq - 4 9,9. Nc3 - more development.
+18,Nc6,b8c6,r1bqk2r/pp2bppp/1nnpp3/4P3/3P4/2NB1N2/PP3PPP/R1BQK2R w KQkq - 5 10,11. a3 - to prevent a move such as Nb4.
+19,O-O,e1g1,r1bqk2r/pp2bppp/1nnpp3/4P3/3P4/2NB1N2/PP3PPP/R1BQ1RK1 b kq - 6 10,11. a3 - to prevent a move such as Nb4.
+20,Bd7,c8d7,r2qk2r/pp1bbppp/1nnpp3/4P3/3P4/2NB1N2/PP3PPP/R1BQ1RK1 w kq - 7 11,11. a3 - to prevent a move such as Nb4.
+21,a3,a2a3,r2qk2r/pp1bbppp/1nnpp3/4P3/3P4/P1NB1N2/1P3PPP/R1BQ1RK1 b kq - 0 11,11. a3 - to prevent a move such as Nb4.
+22,Qc7,d8c7,r3k2r/ppqbbppp/1nnpp3/4P3/3P4/P1NB1N2/1P3PPP/R1BQ1RK1 w kq - 1 12,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+23,Be3,c1e3,r3k2r/ppqbbppp/1nnpp3/4P3/3P4/P1NBBN2/1P3PPP/R2Q1RK1 b kq - 2 12,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+24,dxe5,d6e5,r3k2r/ppqbbppp/1nn1p3/4p3/3P4/P1NBBN2/1P3PPP/R2Q1RK1 w kq - 0 13,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+25,dxe5,d4e5,r3k2r/ppqbbppp/1nn1p3/4P3/8/P1NBBN2/1P3PPP/R2Q1RK1 b kq - 0 13,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+26,Nxe5,c6e5,r3k2r/ppqbbppp/1n2p3/4n3/8/P1NBBN2/1P3PPP/R2Q1RK1 w kq - 0 14,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+27,Nxe5,f3e5,r3k2r/ppqbbppp/1n2p3/4N3/8/P1NBB3/1P3PPP/R2Q1RK1 b kq - 0 14,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+28,Qxe5,c7e5,r3k2r/pp1bbppp/1n2p3/4q3/8/P1NBB3/1P3PPP/R2Q1RK1 w kq - 0 15,"14. ...... Qxe5 - oops and double oops!  After this plethora of exchanges I am now a pawn down.  For the foreseeable future, however I am keeping Henry upright and praying that my opponent will slip up."
+29,Re1,f1e1,r3k2r/pp1bbppp/1n2p3/4q3/8/P1NBB3/1P3PPP/R2QR1K1 b kq - 1 15,16. Qg4 - with my material deficit it is imperative I keep my pieces active.
+30,Qc7,e5c7,r3k2r/ppqbbppp/1n2p3/8/8/P1NBB3/1P3PPP/R2QR1K1 w kq - 2 16,16. Qg4 - with my material deficit it is imperative I keep my pieces active.
+31,Qg4,d1g4,r3k2r/ppqbbppp/1n2p3/8/6Q1/P1NBB3/1P3PPP/R3R1K1 b kq - 3 16,16. Qg4 - with my material deficit it is imperative I keep my pieces active.
+32,g6,g7g6,r3k2r/ppqbbp1p/1n2p1p1/8/6Q1/P1NBB3/1P3PPP/R3R1K1 w kq - 0 17,"18. Red1 - threatening Bxg6 discovering an attack onto the Wicked Witch of the West.  Thierry, however, sees this attack and the Witch moves out of the way."
+33,Rac1,a1c1,r3k2r/ppqbbp1p/1n2p1p1/8/6Q1/P1NBB3/1P3PPP/2R1R1K1 b kq - 1 17,"18. Red1 - threatening Bxg6 discovering an attack onto the Wicked Witch of the West.  Thierry, however, sees this attack and the Witch moves out of the way."
+34,Qd6,c7d6,r3k2r/pp1bbp1p/1n1qp1p1/8/6Q1/P1NBB3/1P3PPP/2R1R1K1 w kq - 2 18,"18. Red1 - threatening Bxg6 discovering an attack onto the Wicked Witch of the West.  Thierry, however, sees this attack and the Witch moves out of the way."
+35,Red1,e1d1,r3k2r/pp1bbp1p/1n1qp1p1/8/6Q1/P1NBB3/1P3PPP/2RR2K1 b kq - 3 18,"18. Red1 - threatening Bxg6 discovering an attack onto the Wicked Witch of the West.  Thierry, however, sees this attack and the Witch moves out of the way."
+36,Qb8,d6b8,rq2k2r/pp1bbp1p/1n2p1p1/8/6Q1/P1NBB3/1P3PPP/2RR2K1 w kq - 4 19,19. ..... axb6 - trying to neutralise the deficit by doubling Thierry's pawns.
+37,Bxb6,e3b6,rq2k2r/pp1bbp1p/1B2p1p1/8/6Q1/P1NB4/1P3PPP/2RR2K1 b kq - 0 19,19. ..... axb6 - trying to neutralise the deficit by doubling Thierry's pawns.
+38,axb6,a7b6,rq2k2r/1p1bbp1p/1p2p1p1/8/6Q1/P1NB4/1P3PPP/2RR2K1 w kq - 0 20,19. ..... axb6 - trying to neutralise the deficit by doubling Thierry's pawns.
+39,Qd4,g4d4,rq2k2r/1p1bbp1p/1p2p1p1/8/3Q4/P1NB4/1P3PPP/2RR2K1 b kq - 1 20,21. Qxb6 - Glenda snaps up the loose pawn on b6 but does this mean the end of my problems?  We shall see.
+40,e5,e6e5,rq2k2r/1p1bbp1p/1p4p1/4p3/3Q4/P1NB4/1P3PPP/2RR2K1 w kq - 0 21,21. Qxb6 - Glenda snaps up the loose pawn on b6 but does this mean the end of my problems?  We shall see.
+41,Qxb6,d4b6,rq2k2r/1p1bbp1p/1Q4p1/4p3/8/P1NB4/1P3PPP/2RR2K1 b kq - 0 21,21. Qxb6 - Glenda snaps up the loose pawn on b6 but does this mean the end of my problems?  We shall see.
+42,O-O,e8g8,rq3rk1/1p1bbp1p/1Q4p1/4p3/8/P1NB4/1P3PPP/2RR2K1 w - - 1 22,"22. Bxg6? - in hindsight this was a big error but I simply thought that after PxB, RxB I would be two pawns up.  Yup I got greedy and I got my knuckles rapped big time!"
+43,Bxg6,d3g6,rq3rk1/1p1bbp1p/1Q4B1/4p3/8/P1N5/1P3PPP/2RR2K1 b - - 0 22,"22. Bxg6? - in hindsight this was a big error but I simply thought that after PxB, RxB I would be two pawns up.  Yup I got greedy and I got my knuckles rapped big time!"
+44,Ra6,a8a6,1q3rk1/1p1bbp1p/rQ4B1/4p3/8/P1N5/1P3PPP/2RR2K1 w - - 1 23,24. Bxf7+ the only way to minimise the damage is to isolate all of Thierry's remaining pawns so that they become targets for my remaining pieces.
+45,Qe3,b6e3,1q3rk1/1p1bbp1p/r5B1/4p3/8/P1N1Q3/1P3PPP/2RR2K1 b - - 2 23,24. Bxf7+ the only way to minimise the damage is to isolate all of Thierry's remaining pawns so that they become targets for my remaining pieces.
+46,Bg4,d7g4,1q3rk1/1p2bp1p/r5B1/4p3/6b1/P1N1Q3/1P3PPP/2RR2K1 w - - 3 24,24. Bxf7+ the only way to minimise the damage is to isolate all of Thierry's remaining pawns so that they become targets for my remaining pieces.
+47,Bxf7+,g6f7,1q3rk1/1p2bB1p/r7/4p3/6b1/P1N1Q3/1P3PPP/2RR2K1 b - - 0 24,24. Bxf7+ the only way to minimise the damage is to isolate all of Thierry's remaining pawns so that they become targets for my remaining pieces.
+48,Rxf7,f8f7,1q4k1/1p2br1p/r7/4p3/6b1/P1N1Q3/1P3PPP/2RR2K1 w - - 0 25,26. Qxe5 - so Thierry dangles another pawn in Glenda's fizz.  I think this pawn capture was safe enough.  This brings the material count back to zero but Thierry has the better of it I fear.
+49,Rde1,d1e1,1q4k1/1p2br1p/r7/4p3/6b1/P1N1Q3/1P3PPP/2R1R1K1 b - - 1 25,26. Qxe5 - so Thierry dangles another pawn in Glenda's fizz.  I think this pawn capture was safe enough.  This brings the material count back to zero but Thierry has the better of it I fear.
+50,Rg6,a6g6,1q4k1/1p2br1p/6r1/4p3/6b1/P1N1Q3/1P3PPP/2R1R1K1 w - - 2 26,26. Qxe5 - so Thierry dangles another pawn in Glenda's fizz.  I think this pawn capture was safe enough.  This brings the material count back to zero but Thierry has the better of it I fear.
+51,Qxe5,e3e5,1q4k1/1p2br1p/6r1/4Q3/6b1/P1N5/1P3PPP/2R1R1K1 b - - 0 26,26. Qxe5 - so Thierry dangles another pawn in Glenda's fizz.  I think this pawn capture was safe enough.  This brings the material count back to zero but Thierry has the better of it I fear.
+52,Qa7,b8a7,6k1/qp2br1p/6r1/4Q3/6b1/P1N5/1P3PPP/2R1R1K1 w - - 1 27,26. ...... Qa7 - and look at the Witch and that rook on f7 all ganging up on my poor little f pawn!
+53,Ne4,c3e4,6k1/qp2br1p/6r1/4Q3/4N1b1/P7/1P3PPP/2R1R1K1 b - - 2 27,28. Rc8+ - a counter-attack which alas does not cut the mustard.
+54,Bf3,g4f3,6k1/qp2br1p/6r1/4Q3/4N3/P4b2/1P3PPP/2R1R1K1 w - - 3 28,28. Rc8+ - a counter-attack which alas does not cut the mustard.
+55,Rc8+,c1c8,2R3k1/qp2br1p/6r1/4Q3/4N3/P4b2/1P3PPP/4R1K1 b - - 4 28,28. Rc8+ - a counter-attack which alas does not cut the mustard.
+56,Bf8,e7f8,2R2bk1/qp3r1p/6r1/4Q3/4N3/P4b2/1P3PPP/4R1K1 w - - 5 29,29. Ng3 - this shields the g2 pawn from attack - at least for a while.
+57,Ng3,e4g3,2R2bk1/qp3r1p/6r1/4Q3/8/P4bN1/1P3PPP/4R1K1 b - - 6 29,29. Ng3 - this shields the g2 pawn from attack - at least for a while.
+58,Bg4,f3g4,2R2bk1/qp3r1p/6r1/4Q3/6b1/P5N1/1P3PPP/4R1K1 w - - 7 30,30. Rc2 - now I must retreat my rook to defend the f2 pawn.
+59,Rc2,c8c2,5bk1/qp3r1p/6r1/4Q3/6b1/P5N1/1PR2PPP/4R1K1 b - - 8 30,30. Rc2 - now I must retreat my rook to defend the f2 pawn.

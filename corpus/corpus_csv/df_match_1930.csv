@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+5,e3,e2e3,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 0 4,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+7,Bb5,f1b5,r1bqkbnr/pppp1p1p/2n3p1/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 1 4,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+8,Bg7,f8g7,r1bqk1nr/pppp1pbp/2n3p1/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 2 5,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+9,Bxc6,b5c6,r1bqk1nr/pppp1pbp/2B3p1/4p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 0 5,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+10,dxc6,d7c6,r1bqk1nr/ppp2pbp/2p3p1/4p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 6,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+11,h3,h2h3,r1bqk1nr/ppp2pbp/2p3p1/4p3/8/1P2P2P/PBPP1PP1/RN1QK1NR b KQkq - 0 6,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+12,Ne7,g8e7,r1bqk2r/ppp1npbp/2p3p1/4p3/8/1P2P2P/PBPP1PP1/RN1QK1NR w KQkq - 1 7,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+13,g4,g2g4,r1bqk2r/ppp1npbp/2p3p1/4p3/6P1/1P2P2P/PBPP1P2/RN1QK1NR b KQkq - 0 7,Very ambiguous. 7. Nf3 would have been safer followed by castling.
+14,O-O,e8g8,r1bq1rk1/ppp1npbp/2p3p1/4p3/6P1/1P2P2P/PBPP1P2/RN1QK1NR w KQ - 1 8,"Seems threatening, but does very little. 10. Nd4 is better."
+15,Nf3,g1f3,r1bq1rk1/ppp1npbp/2p3p1/4p3/6P1/1P2PN1P/PBPP1P2/RN1QK2R b KQ - 2 8,"Seems threatening, but does very little. 10. Nd4 is better."
+16,e4,e5e4,r1bq1rk1/ppp1npbp/2p3p1/8/4p1P1/1P2PN1P/PBPP1P2/RN1QK2R w KQ - 0 9,"Seems threatening, but does very little. 10. Nd4 is better."
+17,Bxg7,b2g7,r1bq1rk1/ppp1npBp/2p3p1/8/4p1P1/1P2PN1P/P1PP1P2/RN1QK2R b KQ - 0 9,"Seems threatening, but does very little. 10. Nd4 is better."
+18,Kxg7,g8g7,r1bq1r2/ppp1npkp/2p3p1/8/4p1P1/1P2PN1P/P1PP1P2/RN1QK2R w KQ - 0 10,"Seems threatening, but does very little. 10. Nd4 is better."
+19,Ne5,f3e5,r1bq1r2/ppp1npkp/2p3p1/4N3/4p1P1/1P2P2P/P1PP1P2/RN1QK2R b KQ - 1 10,"Seems threatening, but does very little. 10. Nd4 is better."
+20,f6,f7f6,r1bq1r2/ppp1n1kp/2p2pp1/4N3/4p1P1/1P2P2P/P1PP1P2/RN1QK2R w KQ - 0 11,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+21,Nc4,e5c4,r1bq1r2/ppp1n1kp/2p2pp1/8/2N1p1P1/1P2P2P/P1PP1P2/RN1QK2R b KQ - 1 11,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+22,f5,f6f5,r1bq1r2/ppp1n1kp/2p3p1/5p2/2N1p1P1/1P2P2P/P1PP1P2/RN1QK2R w KQ - 0 12,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+23,g5,g4g5,r1bq1r2/ppp1n1kp/2p3p1/5pP1/2N1p3/1P2P2P/P1PP1P2/RN1QK2R b KQ - 0 12,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+24,Be6,c8e6,r2q1r2/ppp1n1kp/2p1b1p1/5pP1/2N1p3/1P2P2P/P1PP1P2/RN1QK2R w KQ - 1 13,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+25,h4,h3h4,r2q1r2/ppp1n1kp/2p1b1p1/5pP1/2N1p2P/1P2P3/P1PP1P2/RN1QK2R b KQ - 0 13,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+26,Bxc4,e6c4,r2q1r2/ppp1n1kp/2p3p1/5pP1/2b1p2P/1P2P3/P1PP1P2/RN1QK2R w KQ - 0 14,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+27,bxc4,b3c4,r2q1r2/ppp1n1kp/2p3p1/5pP1/2P1p2P/4P3/P1PP1P2/RN1QK2R b KQ - 0 14,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+28,f4,f5f4,r2q1r2/ppp1n1kp/2p3p1/6P1/2P1pp1P/4P3/P1PP1P2/RN1QK2R w KQ - 0 15,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+29,exf4,e3f4,r2q1r2/ppp1n1kp/2p3p1/6P1/2P1pP1P/8/P1PP1P2/RN1QK2R b KQ - 0 15,"White's first mistake, allowing the rook in. 15. Nc3, developing the knight is better. Now Black gets his rook into the fray."
+30,Rxf4,f8f4,r2q4/ppp1n1kp/2p3p1/6P1/2P1pr1P/8/P1PP1P2/RN1QK2R w KQ - 0 16,Now White gets himself in trouble. It was not too late to play 16. Nc3.
+31,h5,h4h5,r2q4/ppp1n1kp/2p3p1/6PP/2P1pr2/8/P1PP1P2/RN1QK2R b KQ - 0 16,Now White gets himself in trouble. It was not too late to play 16. Nc3.
+32,Qd4,d8d4,r7/ppp1n1kp/2p3p1/6PP/2Pqpr2/8/P1PP1P2/RN1QK2R w KQ - 1 17,Now White loses a rook because of Qxf2#.
+33,Rh2,h1h2,r7/ppp1n1kp/2p3p1/6PP/2Pqpr2/8/P1PP1P1R/RN1QK3 b Q - 2 17,"Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope."
+34,Qxa1,d4a1,r7/ppp1n1kp/2p3p1/6PP/2P1pr2/8/P1PP1P1R/qN1QK3 w - - 0 18,"Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope."
+35,hxg6,h5g6,r7/ppp1n1kp/2p3P1/6P1/2P1pr2/8/P1PP1P1R/qN1QK3 b - - 0 18,"Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope."
+36,hxg6,h7g6,r7/ppp1n1k1/2p3p1/6P1/2P1pr2/8/P1PP1P1R/qN1QK3 w - - 0 19,"Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope."
+37,c3,c2c3,r7/ppp1n1k1/2p3p1/6P1/2P1pr2/2P5/P2P1P1R/qN1QK3 b - - 0 19,"Yet again, 19. Nc3, developing the knight, simultaneously attacking the queen gives White more hope."
+38,Qxa2,a1a2,r7/ppp1n1k1/2p3p1/6P1/2P1pr2/2P5/q2P1P1R/1N1QK3 w - - 0 20,21. Ke1 is much safer. Black's attack develops in strength whilst gaining more material. Resignation would have ACTUALLY been safer at this point.
+39,Ke2,e1e2,r7/ppp1n1k1/2p3p1/6P1/2P1pr2/2P5/q2PKP1R/1N1Q4 b - - 1 20,21. Ke1 is much safer. Black's attack develops in strength whilst gaining more material. Resignation would have ACTUALLY been safer at this point.
+40,Qxc4+,a2c4,r7/ppp1n1k1/2p3p1/6P1/2q1pr2/2P5/3PKP1R/1N1Q4 w - - 0 21,21. Ke1 is much safer. Black's attack develops in strength whilst gaining more material. Resignation would have ACTUALLY been safer at this point.
+41,d3,d2d3,r7/ppp1n1k1/2p3p1/6P1/2q1pr2/2PP4/4KP1R/1N1Q4 b - - 0 21,21. Ke1 is much safer. Black's attack develops in strength whilst gaining more material. Resignation would have ACTUALLY been safer at this point.
+42,exd3+,e4d3,r7/ppp1n1k1/2p3p1/6P1/2q2r2/2Pp4/4KP1R/1N1Q4 w - - 0 22,"White now missed an opportunity to get back into the game. 22...Rf5 keeps a large advantage, but White can fight on."
+43,Kd2,e2d2,r7/ppp1n1k1/2p3p1/6P1/2q2r2/2Pp4/3K1P1R/1N1Q4 b - - 1 22,"White now missed an opportunity to get back into the game. 22...Rf5 keeps a large advantage, but White can fight on."
+44,Qa2+,c4a2,r7/ppp1n1k1/2p3p1/6P1/5r2/2Pp4/q2K1P1R/1N1Q4 w - - 2 23,"White now missed an opportunity to get back into the game. 22...Rf5 keeps a large advantage, but White can fight on."
+45,Ke1,d2e1,r7/ppp1n1k1/2p3p1/6P1/5r2/2Pp4/q4P1R/1N1QK3 b - - 3 23,"Effectively loses the game. 23. Kc1 Re4 24. f3 Re2 25. Rxe2 dxe2 26. Qd2 Qe6 27. Qe1 Qe3+ 28. Kb2 Rd8 29. f4 Nf5 30. c4 Qxf4 31. Qxe2 Qxg5 Black remains a large amount of material up, but White would have survived the attack, although still remaining effectively lost."
+46,Re4+,f4e4,r7/ppp1n1k1/2p3p1/6P1/4r3/2Pp4/q4P1R/1N1QK3 w - - 4 24,"23...Rh8 mates faster, but this variation is also good."
+47,Kf1,e1f1,r7/ppp1n1k1/2p3p1/6P1/4r3/2Pp4/q4P1R/1N1Q1K2 b - - 5 24,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+48,Qe2+,a2e2,r7/ppp1n1k1/2p3p1/6P1/4r3/2Pp4/4qP1R/1N1Q1K2 w - - 6 25,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+49,Qxe2,d1e2,r7/ppp1n1k1/2p3p1/6P1/4r3/2Pp4/4QP1R/1N3K2 b - - 0 25,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+50,dxe2+,d3e2,r7/ppp1n1k1/2p3p1/6P1/4r3/2P5/4pP1R/1N3K2 w - - 0 26,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+51,Ke1,f1e1,r7/ppp1n1k1/2p3p1/6P1/4r3/2P5/4pP1R/1N2K3 b - - 1 26,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."
+52,Rd8,a8d8,3r4/ppp1n1k1/2p3p1/6P1/4r3/2P5/4pP1R/1N2K3 w - - 2 27,"White resigned here as Black threatens mate in the not too distant future. Notice that White's knight never moved at all, and as mentioned before, if moved, would have given White better opportunities."

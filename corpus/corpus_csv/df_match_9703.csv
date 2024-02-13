@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Kings Indian
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Kings Indian
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Queens Gambit
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,!? Usually e4 is played here
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,!? Usually e4 is played here
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,!? Usually e4 is played here
+7,Nf3,g1f3,rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,!? Usually e4 is played here
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,!? Usually e4 is played here
+9,e3,e2e3,rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,!? Usually e4 is played here
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 1 6,!? Not unknown but e5 or c5 is usual
+11,Be2,f1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQK2R b KQ - 2 6,!? Not unknown but e5 or c5 is usual
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQK2R w KQ - 3 7,!? Not unknown but e5 or c5 is usual
+13,O-O,e1g1,r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 b - - 4 7,!? Maybe to start b5
+14,c5,c7c5,r1bq1rk1/pp1nppbp/3p1np1/2p5/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 w - - 0 8,!? Maybe to start b5
+15,d5,d4d5,r1bq1rk1/pp1nppbp/3p1np1/2pP4/2P5/2N1PN2/PP2BPPP/R1BQ1RK1 b - - 0 8,!? Maybe to start b5
+16,a6,a7a6,r1bq1rk1/1p1nppbp/p2p1np1/2pP4/2P5/2N1PN2/PP2BPPP/R1BQ1RK1 w - - 0 9,!? Maybe to start b5
+17,e4,e3e4,r1bq1rk1/1p1nppbp/p2p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 9,!? this is why e4 is played on move 5
+18,Qc7,d8c7,r1b2rk1/1pqnppbp/p2p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 10,Sometimes Ne5
+19,Be3,c1e3,r1b2rk1/1pqnppbp/p2p1np1/2pP4/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 2 10,Sometimes Ne5
+20,e5,e7e5,r1b2rk1/1pqn1pbp/p2p1np1/2pPp3/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 w - e6 0 11,Sometimes Ne5
+21,Qc1,d1c1,r1b2rk1/1pqn1pbp/p2p1np1/2pPp3/2P1P3/2N1BN2/PP2BPPP/R1Q2RK1 b - - 1 11,Starting a queenside attack
+22,Ng4,f6g4,r1b2rk1/1pqn1pbp/p2p2p1/2pPp3/2P1P1n1/2N1BN2/PP2BPPP/R1Q2RK1 w - - 2 12,Starting a queenside attack
+23,Bd2,e3d2,r1b2rk1/1pqn1pbp/p2p2p1/2pPp3/2P1P1n1/2N2N2/PP1BBPPP/R1Q2RK1 b - - 3 12,Starting a queenside attack
+24,Rb8,a8b8,1rb2rk1/1pqn1pbp/p2p2p1/2pPp3/2P1P1n1/2N2N2/PP1BBPPP/R1Q2RK1 w - - 4 13,Starting a queenside attack
+25,h3,h2h3,1rb2rk1/1pqn1pbp/p2p2p1/2pPp3/2P1P1n1/2N2N1P/PP1BBPP1/R1Q2RK1 b - - 0 13,planning f5
+26,Ngf6,g4f6,1rb2rk1/1pqn1pbp/p2p1np1/2pPp3/2P1P3/2N2N1P/PP1BBPP1/R1Q2RK1 w - - 1 14,planning f5
+27,a4,a2a4,1rb2rk1/1pqn1pbp/p2p1np1/2pPp3/P1P1P3/2N2N1P/1P1BBPP1/R1Q2RK1 b - - 0 14,planning f5
+28,Ne8,f6e8,1rb1nrk1/1pqn1pbp/p2p2p1/2pPp3/P1P1P3/2N2N1P/1P1BBPP1/R1Q2RK1 w - - 1 15,planning f5
+29,Nh2,f3h2,1rb1nrk1/1pqn1pbp/p2p2p1/2pPp3/P1P1P3/2N4P/1P1BBPPN/R1Q2RK1 b - - 2 15,?! doesnt do anything
+30,f5,f7f5,1rb1nrk1/1pqn2bp/p2p2p1/2pPpp2/P1P1P3/2N4P/1P1BBPPN/R1Q2RK1 w - - 0 16,? Opens up the kingside for the black squared bishop to invade. a5 with the idea of na4-b6 should have been played here
+31,f4,f2f4,1rb1nrk1/1pqn2bp/p2p2p1/2pPpp2/P1P1PP2/2N4P/1P1BB1PN/R1Q2RK1 b - - 0 16,? Opens up the kingside for the black squared bishop to invade. a5 with the idea of na4-b6 should have been played here
+32,Ndf6,d7f6,1rb1nrk1/1pq3bp/p2p1np1/2pPpp2/P1P1PP2/2N4P/1P1BB1PN/R1Q2RK1 w - - 1 17,Now his knights start attacking my weaknesses.
+33,fxe5,f4e5,1rb1nrk1/1pq3bp/p2p1np1/2pPPp2/P1P1P3/2N4P/1P1BB1PN/R1Q2RK1 b - - 0 17,building up pressure on e4 and attacking c4 at the same time
+34,dxe5,d6e5,1rb1nrk1/1pq3bp/p4np1/2pPpp2/P1P1P3/2N4P/1P1BB1PN/R1Q2RK1 w - - 0 18,building up pressure on e4 and attacking c4 at the same time
+35,Bf3,e2f3,1rb1nrk1/1pq3bp/p4np1/2pPpp2/P1P1P3/2N2B1P/1P1B2PN/R1Q2RK1 b - - 1 18,building up pressure on e4 and attacking c4 at the same time
+36,Nd6,e8d6,1rb2rk1/1pq3bp/p2n1np1/2pPpp2/P1P1P3/2N2B1P/1P1B2PN/R1Q2RK1 w - - 2 19,building up pressure on e4 and attacking c4 at the same time
+37,b3,b2b3,1rb2rk1/1pq3bp/p2n1np1/2pPpp2/P1P1P3/1PN2B1P/3B2PN/R1Q2RK1 b - - 0 19,serious dark square weaknesses. I need to play Bh6 as quick as possible
+38,fxe4,f5e4,1rb2rk1/1pq3bp/p2n1np1/2pPp3/P1P1p3/1PN2B1P/3B2PN/R1Q2RK1 w - - 0 20,?stopping b5 but overextending my pawn. It is now very weak
+39,Be2,f3e2,1rb2rk1/1pq3bp/p2n1np1/2pPp3/P1P1p3/1PN4P/3BB1PN/R1Q2RK1 b - - 1 20,?stopping b5 but overextending my pawn. It is now very weak
+40,Bd7,c8d7,1r3rk1/1pqb2bp/p2n1np1/2pPp3/P1P1p3/1PN4P/3BB1PN/R1Q2RK1 w - - 2 21,?stopping b5 but overextending my pawn. It is now very weak
+41,a5,a4a5,1r3rk1/1pqb2bp/p2n1np1/P1pPp3/2P1p3/1PN4P/3BB1PN/R1Q2RK1 b - - 0 21,?stopping b5 but overextending my pawn. It is now very weak
+42,b6,b7b6,1r3rk1/2qb2bp/pp1n1np1/P1pPp3/2P1p3/1PN4P/3BB1PN/R1Q2RK1 w - - 0 22,"Now attacking my other weakness, b3"
+43,axb6,a5b6,1r3rk1/2qb2bp/pP1n1np1/2pPp3/2P1p3/1PN4P/3BB1PN/R1Q2RK1 b - - 0 22,"Now attacking my other weakness, b3"
+44,Rxb6,b8b6,5rk1/2qb2bp/pr1n1np1/2pPp3/2P1p3/1PN4P/3BB1PN/R1Q2RK1 w - - 0 23,"Now attacking my other weakness, b3"
+45,Qa3,c1a3,5rk1/2qb2bp/pr1n1np1/2pPp3/2P1p3/QPN4P/3BB1PN/R4RK1 b - - 1 23,"Now attacking my other weakness, b3"
+46,Rfb8,f8b8,1r4k1/2qb2bp/pr1n1np1/2pPp3/2P1p3/QPN4P/3BB1PN/R4RK1 w - - 2 24,"Now attacking my other weakness, b3"
+47,Rfb1,f1b1,1r4k1/2qb2bp/pr1n1np1/2pPp3/2P1p3/QPN4P/3BB1PN/RR4K1 b - - 3 24,Taking control of the weak squares
+48,Nf5,d6f5,1r4k1/2qb2bp/pr3np1/2pPpn2/2P1p3/QPN4P/3BB1PN/RR4K1 w - - 4 25,Taking control of the weak squares
+49,Na4,c3a4,1r4k1/2qb2bp/pr3np1/2pPpn2/N1P1p3/QP5P/3BB1PN/RR4K1 b - - 5 25,He now has complete control on my center
+50,Bxa4,d7a4,1r4k1/2q3bp/pr3np1/2pPpn2/b1P1p3/QP5P/3BB1PN/RR4K1 w - - 0 26,He now has complete control on my center
+51,Qxa4,a3a4,1r4k1/2q3bp/pr3np1/2pPpn2/Q1P1p3/1P5P/3BB1PN/RR4K1 b - - 0 26,He now has complete control on my center
+52,Nd4,f5d4,1r4k1/2q3bp/pr3np1/2pPp3/Q1Pnp3/1P5P/3BB1PN/RR4K1 w - - 1 27,He now has complete control on my center
+53,Bd1,e2d1,1r4k1/2q3bp/pr3np1/2pPp3/Q1Pnp3/1P5P/3B2PN/RR1B2K1 b - - 2 27,More pressure
+54,Qb7,c7b7,1r4k1/1q4bp/pr3np1/2pPp3/Q1Pnp3/1P5P/3B2PN/RR1B2K1 w - - 3 28,More pressure
+55,Bc3,d2c3,1r4k1/1q4bp/pr3np1/2pPp3/Q1Pnp3/1PB4P/6PN/RR1B2K1 b - - 4 28,Going to the other weak f4 square
+56,Nh5,f6h5,1r4k1/1q4bp/pr4p1/2pPp2n/Q1Pnp3/1PB4P/6PN/RR1B2K1 w - - 5 29,Going to the other weak f4 square

@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard Ruy Lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Standard Ruy Lopez
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Standard Ruy Lopez
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Standard Ruy Lopez
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Standard Ruy Lopez
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Exchange variation. It is quite good OTB (over the board) as black can generate lots of threats
+7,Bxc6,b5c6,r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,Exchange variation. It is quite good OTB (over the board) as black can generate lots of threats
+8,dxc6,d7c6,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,Exchange variation. It is quite good OTB (over the board) as black can generate lots of threats
+9,O-O,e1g1,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5,What is black's next move?
+10,Bg4,c8g4,r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6,What is black's next move?
+11,h3,h2h3,r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/5N1P/PPPP1PP1/RNBQ1RK1 b kq - 0 6,What is black's next move?
+12,h5,h7h5,r2qkbnr/1pp2pp1/p1p5/4p2p/4P1b1/5N1P/PPPP1PP1/RNBQ1RK1 w kq - 0 7,"did you guess h5? Guys, why cant he just take the knight? Think about it before looking at the next moves? ......................7. hxg4 hxg4 the knight is en prise. So where does it go? 8. Nh2 Qh4!! Threatening mate if the knight moves or stays put. 9. f3 to escape g3! ouch!!!"
+13,d3,d2d3,r2qkbnr/1pp2pp1/p1p5/4p2p/4P1b1/3P1N1P/PPP2PP1/RNBQ1RK1 b kq - 0 7,Ganging up on the knight. We have already ascertained he cant take it.
+14,Qf6,d8f6,r3kbnr/1pp2pp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPP2PP1/RNBQ1RK1 w kq - 1 8,Ganging up on the knight. We have already ascertained he cant take it.
+15,Nbd2,b1d2,r3kbnr/1pp2pp1/p1p2q2/4p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQ1RK1 b kq - 2 8,"I usually play 8.......Ne7 to go to g6 and then f4, but this looked inviting"
+16,Bc5,f8c5,r3k1nr/1pp2pp1/p1p2q2/2b1p2p/4P1b1/3P1N1P/PPPN1PP1/R1BQ1RK1 w kq - 3 9,"I usually play 8.......Ne7 to go to g6 and then f4, but this looked inviting"
+17,b3,b2b3,r3k1nr/1pp2pp1/p1p2q2/2b1p2p/4P1b1/1P1P1N1P/P1PN1PP1/R1BQ1RK1 b kq - 0 9,Never seen this move before. Obviously he wants to get his bishop active.
+18,Bd4,c5d4,r3k1nr/1pp2pp1/p1p2q2/4p2p/3bP1b1/1P1P1N1P/P1PN1PP1/R1BQ1RK1 w kq - 1 10,I like pins.
+19,Rb1,a1b1,r3k1nr/1pp2pp1/p1p2q2/4p2p/3bP1b1/1P1P1N1P/P1PN1PP1/1RBQ1RK1 b kq - 2 10,I like pins.
+20,Ne7,g8e7,r3k2r/1pp1npp1/p1p2q2/4p2p/3bP1b1/1P1P1N1P/P1PN1PP1/1RBQ1RK1 w kq - 3 11,I like pins.
+21,Qe1,d1e1,r3k2r/1pp1npp1/p1p2q2/4p2p/3bP1b1/1P1P1N1P/P1PN1PP1/1RB1QRK1 b kq - 4 11,I like pins.
+22,Bc3,d4c3,r3k2r/1pp1npp1/p1p2q2/4p2p/4P1b1/1PbP1N1P/P1PN1PP1/1RB1QRK1 w kq - 5 12,I like pins.
+23,Nh2,f3h2,r3k2r/1pp1npp1/p1p2q2/4p2p/4P1b1/1PbP3P/P1PN1PPN/1RB1QRK1 b kq - 6 12,"He is preparing to take on g4, shall I move it or leave it."
+24,Ng6,e7g6,r3k2r/1pp2pp1/p1p2qn1/4p2p/4P1b1/1PbP3P/P1PN1PPN/1RB1QRK1 w kq - 7 13,Never any question. I am always up for the scrap
+25,hxg4,h3g4,r3k2r/1pp2pp1/p1p2qn1/4p2p/4P1P1/1PbP4/P1PN1PPN/1RB1QRK1 b kq - 0 13,He's took it!
+26,hxg4,h5g4,r3k2r/1pp2pp1/p1p2qn1/4p3/4P1p1/1PbP4/P1PN1PPN/1RB1QRK1 w kq - 0 14,This is wrong. It allows me the check on d4
+27,f3,f2f3,r3k2r/1pp2pp1/p1p2qn1/4p3/4P1p1/1PbP1P2/P1PN2PN/1RB1QRK1 b kq - 0 14,This is wrong. It allows me the check on d4
+28,Bd4+,c3d4,r3k2r/1pp2pp1/p1p2qn1/4p3/3bP1p1/1P1P1P2/P1PN2PN/1RB1QRK1 w kq - 1 15,Has to block with rook
+29,Kh1,g1h1,r3k2r/1pp2pp1/p1p2qn1/4p3/3bP1p1/1P1P1P2/P1PN2PN/1RB1QR1K b kq - 2 15,????????????????????? and so we reach the position I have set. what happened next?

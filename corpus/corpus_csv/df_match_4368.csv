@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard openings
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Standard openings
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Knights
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Knights
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Covering for the knight to g5
+6,h6,h7h6,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Covering for the knight to g5
+7,b3,b2b3,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/1P3N2/P1PP1PPP/RNBQK2R b KQkq - 0 4,getting the bishop out before the fianchetto
+8,Bc5,f8c5,r1bqk1nr/pppp1pp1/2n4p/2b1p3/2B1P3/1P3N2/P1PP1PPP/RNBQK2R w KQkq - 1 5,getting the bishop out before the fianchetto
+9,Bb2,c1b2,r1bqk1nr/pppp1pp1/2n4p/2b1p3/2B1P3/1P3N2/PBPP1PPP/RN1QK2R b KQkq - 2 5,defending
+10,d6,d7d6,r1bqk1nr/ppp2pp1/2np3p/2b1p3/2B1P3/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 0 6,defending
+11,c3,c2c3,r1bqk1nr/ppp2pp1/2np3p/2b1p3/2B1P3/1PP2N2/PB1P1PPP/RN1QK2R b KQkq - 0 6,getting the knight out
+12,Nf6,g8f6,r1bqk2r/ppp2pp1/2np1n1p/2b1p3/2B1P3/1PP2N2/PB1P1PPP/RN1QK2R w KQkq - 1 7,getting the knight out
+13,d4,d2d4,r1bqk2r/ppp2pp1/2np1n1p/2b1p3/2BPP3/1PP2N2/PB3PPP/RN1QK2R b KQkq - 0 7,exchange
+14,exd4,e5d4,r1bqk2r/ppp2pp1/2np1n1p/2b5/2BpP3/1PP2N2/PB3PPP/RN1QK2R w KQkq - 0 8,exchange
+15,cxd4,c3d4,r1bqk2r/ppp2pp1/2np1n1p/2b5/2BPP3/1P3N2/PB3PPP/RN1QK2R b KQkq - 0 8,retreat
+16,Bb6,c5b6,r1bqk2r/ppp2pp1/1bnp1n1p/8/2BPP3/1P3N2/PB3PPP/RN1QK2R w KQkq - 1 9,retreat
+17,d5,d4d5,r1bqk2r/ppp2pp1/1bnp1n1p/3P4/2B1P3/1P3N2/PB3PPP/RN1QK2R b KQkq - 0 9,offering another trade to create space
+18,Ne5,c6e5,r1bqk2r/ppp2pp1/1b1p1n1p/3Pn3/2B1P3/1P3N2/PB3PPP/RN1QK2R w KQkq - 1 10,offering another trade to create space
+19,Nxe5,f3e5,r1bqk2r/ppp2pp1/1b1p1n1p/3PN3/2B1P3/1P6/PB3PPP/RN1QK2R b KQkq - 0 10,accepted
+20,dxe5,d6e5,r1bqk2r/ppp2pp1/1b3n1p/3Pp3/2B1P3/1P6/PB3PPP/RN1QK2R w KQkq - 0 11,accepted
+21,Bxe5,b2e5,r1bqk2r/ppp2pp1/1b3n1p/3PB3/2B1P3/1P6/P4PPP/RN1QK2R b KQkq - 0 11,even again
+22,Nxe4,f6e4,r1bqk2r/ppp2pp1/1b5p/3PB3/2B1n3/1P6/P4PPP/RN1QK2R w KQkq - 0 12,even again
+23,Bxg7,e5g7,r1bqk2r/ppp2pB1/1b5p/3P4/2B1n3/1P6/P4PPP/RN1QK2R b KQkq - 0 12,did not see this coming
+24,Bxf2+,b6f2,r1bqk2r/ppp2pB1/7p/3P4/2B1n3/1P6/P4bPP/RN1QK2R w KQkq - 0 13,decided to put pressure on with the minor pieces before saving the rook
+25,Kf1,e1f1,r1bqk2r/ppp2pB1/7p/3P4/2B1n3/1P6/P4bPP/RN1Q1K1R b kq - 1 13,safe
+26,Rg8,h8g8,r1bqk1r1/ppp2pB1/7p/3P4/2B1n3/1P6/P4bPP/RN1Q1K1R w q - 2 14,safe
+27,Qe2,d1e2,r1bqk1r1/ppp2pB1/7p/3P4/2B1n3/1P6/P3QbPP/RN3K1R b q - 3 14,covering the pin
+28,Qe7,d8e7,r1b1k1r1/ppp1qpB1/7p/3P4/2B1n3/1P6/P3QbPP/RN3K1R w q - 4 15,covering the pin
+29,Bxh6,g7h6,r1b1k1r1/ppp1qp2/7B/3P4/2B1n3/1P6/P3QbPP/RN3K1R b q - 0 15,adding some pressure
+30,Bg4,c8g4,r3k1r1/ppp1qp2/7B/3P4/2B1n1b1/1P6/P3QbPP/RN3K1R w q - 1 16,adding some pressure
+31,Qc2,e2c2,r3k1r1/ppp1qp2/7B/3P4/2B1n1b1/1P6/P1Q2bPP/RN3K1R b q - 2 16,"miscalculated..., only saw the discoverd check..."
+32,Qf6,e7f6,r3k1r1/ppp2p2/5q1B/3P4/2B1n1b1/1P6/P1Q2bPP/RN3K1R w q - 3 17,"miscalculated..., only saw the discoverd check..."
+33,Qxe4+,c2e4,r3k1r1/ppp2p2/5q1B/3P4/2B1Q1b1/1P6/P4bPP/RN3K1R b q - 0 17,turns out he had a check first
+34,Kd8,e8d8,r2k2r1/ppp2p2/5q1B/3P4/2B1Q1b1/1P6/P4bPP/RN3K1R w - - 1 18,turns out he had a check first
+35,d6,d5d6,r2k2r1/ppp2p2/3P1q1B/8/2B1Q1b1/1P6/P4bPP/RN3K1R b - - 0 18,using my discovery
+36,Bc5+,f2c5,r2k2r1/ppp2p2/3P1q1B/2b5/2B1Q1b1/1P6/P5PP/RN3K1R w - - 1 19,using my discovery
+37,Bf4,h6f4,r2k2r1/ppp2p2/3P1q2/2b5/2B1QBb1/1P6/P5PP/RN3K1R b - - 2 19,He blocked but forgot the bishop was pinned
+38,Bxd6,c5d6,r2k2r1/ppp2p2/3b1q2/8/2B1QBb1/1P6/P5PP/RN3K1R w - - 0 20,He blocked but forgot the bishop was pinned

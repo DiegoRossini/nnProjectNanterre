@@ -1,0 +1,95 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,queen pawn game
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"my opponent apparently avoiding the nimzo 
+that means e6 wont be too good idea- d5 will be better"
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,"my opponent apparently avoiding the nimzo 
+that means e6 wont be too good idea- d5 will be better"
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"natural development- I need to take care of my own development too 
+Bg4 ? I dontlike it too much since it gives him time to develope his Bishop to e2 and at the same time he will be ready to castle
+Lets prepare my castle with g6"
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"natural development- I need to take care of my own development too 
+Bg4 ? I dontlike it too much since it gives him time to develope his Bishop to e2 and at the same time he will be ready to castle
+Lets prepare my castle with g6"
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,he was probably expecting Bg4... I'll go on with my plan then and fianchetto my Bishop
+7,h3,h2h3,rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/4PN1P/PPP2PP1/RNBQKB1R b KQkq - 0 4,he was probably expecting Bg4... I'll go on with my plan then and fianchetto my Bishop
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/4PN1P/PPP2PP1/RNBQKB1R w KQkq - 1 5,ok naturall development - time to castle
+9,Bd3,f1d3,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/3BPN1P/PPP2PP1/RNBQK2R b KQkq - 2 5,ok naturall development - time to castle
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/3BPN1P/PPP2PP1/RNBQK2R w KQ - 3 6,"ok - we are both castled. Now I think it's time to start developing the queen side ...
+a pawn on c5 will be nice ,,, and a bishop on b7 will also be nice- that means it's time for b6!"
+11,O-O,e1g1,rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/3BPN1P/PPP2PP1/RNBQ1RK1 b - - 4 6,"ok - we are both castled. Now I think it's time to start developing the queen side ...
+a pawn on c5 will be nice ,,, and a bishop on b7 will also be nice- that means it's time for b6!"
+12,b6,b7b6,rnbq1rk1/p1p1ppbp/1p3np1/3p4/3P4/3BPN1P/PPP2PP1/RNBQ1RK1 w - - 0 7,"c3- that means his queen is about to come out , probably Qc2 will be his next move to occupy the diagonal b1-h7 with his queen and Bishop
+I'm not too worried about that since my king is well protected 
+so lets go on with the plan Bb7"
+13,c3,c2c3,rnbq1rk1/p1p1ppbp/1p3np1/3p4/3P4/2PBPN1P/PP3PP1/RNBQ1RK1 b - - 0 7,"c3- that means his queen is about to come out , probably Qc2 will be his next move to occupy the diagonal b1-h7 with his queen and Bishop
+I'm not too worried about that since my king is well protected 
+so lets go on with the plan Bb7"
+14,Bb7,c8b7,rn1q1rk1/pbp1ppbp/1p3np1/3p4/3P4/2PBPN1P/PP3PP1/RNBQ1RK1 w - - 1 8,"the rook takes position in the center- the e pawn will be powerfull on e4 ... even more on e5... something to look after ... for noe I'm ok cause my f6 knight is taking care of it ..
+so that means I can go on with developing my queen side pieces"
+15,Re1,f1e1,rn1q1rk1/pbp1ppbp/1p3np1/3p4/3P4/2PBPN1P/PP3PP1/RNBQR1K1 b - - 2 8,"the rook takes position in the center- the e pawn will be powerfull on e4 ... even more on e5... something to look after ... for noe I'm ok cause my f6 knight is taking care of it ..
+so that means I can go on with developing my queen side pieces"
+16,Nbd7,b8d7,r2q1rk1/pbpnppbp/1p3np1/3p4/3P4/2PBPN1P/PP3PP1/RNBQR1K1 w - - 3 9,"I guess Ne5 will come next - fine by me 
+time for c5"
+17,Nbd2,b1d2,r2q1rk1/pbpnppbp/1p3np1/3p4/3P4/2PBPN1P/PP1N1PP1/R1BQR1K1 b - - 4 9,"I guess Ne5 will come next - fine by me 
+time for c5"
+18,c5,c7c5,r2q1rk1/pb1nppbp/1p3np1/2pp4/3P4/2PBPN1P/PP1N1PP1/R1BQR1K1 w - - 0 10,so He decides to stop c4 with his b pawn. at the same time the Bishop on c1 looks better now. I think I'll counter that move with Rc8- using the semi open file to start some pressure
+19,b3,b2b3,r2q1rk1/pb1nppbp/1p3np1/2pp4/3P4/1PPBPN1P/P2N1PP1/R1BQR1K1 b - - 0 10,so He decides to stop c4 with his b pawn. at the same time the Bishop on c1 looks better now. I think I'll counter that move with Rc8- using the semi open file to start some pressure
+20,Rc8,a8c8,2rq1rk1/pb1nppbp/1p3np1/2pp4/3P4/1PPBPN1P/P2N1PP1/R1BQR1K1 w - - 1 11,"another development move 
+c4? not a good idea at this point maybe later..
+I'd love to play e5 though - so let's prepare to that - Re8"
+21,Bb2,c1b2,2rq1rk1/pb1nppbp/1p3np1/2pp4/3P4/1PPBPN1P/PB1N1PP1/R2QR1K1 b - - 2 11,"another development move 
+c4? not a good idea at this point maybe later..
+I'd love to play e5 though - so let's prepare to that - Re8"
+22,Re8,f8e8,2rqr1k1/pb1nppbp/1p3np1/2pp4/3P4/1PPBPN1P/PB1N1PP1/R2QR1K1 w - - 3 12,"pining my knight - first attempt from my opponent to gain a small edge
+on the other end it gives me time to strenghten my pawn structure even more in the queen side with a6
+but he will exchange and I will have to recapture with my queen and then Ne5 will give him intiative  
+I'll block with my Bishop
+Bc6"
+23,Bb5,d3b5,2rqr1k1/pb1nppbp/1p3np1/1Bpp4/3P4/1PP1PN1P/PB1N1PP1/R2QR1K1 b - - 4 12,"pining my knight - first attempt from my opponent to gain a small edge
+on the other end it gives me time to strenghten my pawn structure even more in the queen side with a6
+but he will exchange and I will have to recapture with my queen and then Ne5 will give him intiative  
+I'll block with my Bishop
+Bc6"
+24,Bc6,b7c6,2rqr1k1/p2nppbp/1pb2np1/1Bpp4/3P4/1PP1PN1P/PB1N1PP1/R2QR1K1 w - - 5 13,"hmmm he keeps bothering me 
+ok I'll run him away 
+Rb8
+if he wont retreat then b5 and the bishop will fall"
+25,Ba6,b5a6,2rqr1k1/p2nppbp/Bpb2np1/2pp4/3P4/1PP1PN1P/PB1N1PP1/R2QR1K1 b - - 6 13,"hmmm he keeps bothering me 
+ok I'll run him away 
+Rb8
+if he wont retreat then b5 and the bishop will fall"
+26,Rb8,c8b8,1r1qr1k1/p2nppbp/Bpb2np1/2pp4/3P4/1PP1PN1P/PB1N1PP1/R2QR1K1 w - - 7 14,"ok so he runs
+
+I think I can play e5 finally now"
+27,Bd3,a6d3,1r1qr1k1/p2nppbp/1pb2np1/2pp4/3P4/1PPBPN1P/PB1N1PP1/R2QR1K1 b - - 8 14,"ok so he runs
+
+I think I can play e5 finally now"
+28,e5,e7e5,1r1qr1k1/p2n1pbp/1pb2np1/2ppp3/3P4/1PPBPN1P/PB1N1PP1/R2QR1K1 w - - 0 15,"OK so my opponent doesn't waste time and fight for the center 
+there are going to be some bullets in the air now so hold tight !!"
+29,dxe5,d4e5,1r1qr1k1/p2n1pbp/1pb2np1/2ppP3/8/1PPBPN1P/PB1N1PP1/R2QR1K1 b - - 0 15,"OK so my opponent doesn't waste time and fight for the center 
+there are going to be some bullets in the air now so hold tight !!"
+30,Nxe5,d7e5,1r1qr1k1/p4pbp/1pb2np1/2ppn3/8/1PPBPN1P/PB1N1PP1/R2QR1K1 w - - 0 16,"I beleive c4 will come next or Nf3
+still an open file in the center for my rook worth the effort"
+31,Nxe5,f3e5,1r1qr1k1/p4pbp/1pb2np1/2ppN3/8/1PPBP2P/PB1N1PP1/R2QR1K1 b - - 0 16,"I beleive c4 will come next or Nf3
+still an open file in the center for my rook worth the effort"
+32,Rxe5,e8e5,1r1q2k1/p4pbp/1pb2np1/2ppr3/8/1PPBP2P/PB1N1PP1/R2QR1K1 w - - 0 17,"I beleive c4 will come next or Nf3
+still an open file in the center for my rook worth the effort"
+33,c4,c3c4,1r1q2k1/p4pbp/1pb2np1/2ppr3/2P5/1P1BP2P/PB1N1PP1/R2QR1K1 b - - 0 17,"as I inticipated 
+now I think d4 will be a good idea 
+problem is that it will create an isolated d pawn 
+how about Rg5 ... 
+then d4 in the next move will gain tempo with the threat Rxg2+ 
+if he'll see that and paly e4 then I will play d4 and lock his Bishop on b2"
+34,Rg5,e5g5,1r1q2k1/p4pbp/1pb2np1/2pp2r1/2P5/1P1BP2P/PB1N1PP1/R2QR1K1 w - - 1 18,"oh dear 
+It turns out as abad mistake the previous move ....
+lets try to sort it out"
+35,Nf3,d2f3,1r1q2k1/p4pbp/1pb2np1/2pp2r1/2P5/1P1BPN1P/PB3PP1/R2QR1K1 b - - 2 18,"oh dear 
+It turns out as abad mistake the previous move ....
+lets try to sort it out"
+36,Rh5,g5h5,1r1q2k1/p4pbp/1pb2np1/2pp3r/2P5/1P1BPN1P/PB3PP1/R2QR1K1 w - - 3 19,QD6 IS ALMOST FROCED
+37,Ne5,f3e5,1r1q2k1/p4pbp/1pb2np1/2ppN2r/2P5/1P1BP2P/PB3PP1/R2QR1K1 b - - 4 19,QD6 IS ALMOST FROCED
+38,Qd6,d8d6,1r4k1/p4pbp/1pbq1np1/2ppN2r/2P5/1P1BP2P/PB3PP1/R2QR1K1 w - - 5 20,ok I think I've managaed the situation Rxd5 and we're good to go
+39,Nxc6,e5c6,1r4k1/p4pbp/1pNq1np1/2pp3r/2P5/1P1BP2P/PB3PP1/R2QR1K1 b - - 0 20,ok I think I've managaed the situation Rxd5 and we're good to go
+40,Qxc6,d6c6,1r4k1/p4pbp/1pq2np1/2pp3r/2P5/1P1BP2P/PB3PP1/R2QR1K1 w - - 0 21,ok I think I've managaed the situation Rxd5 and we're good to go
+41,cxd5,c4d5,1r4k1/p4pbp/1pq2np1/2pP3r/8/1P1BP2P/PB3PP1/R2QR1K1 b - - 0 21,ok I think I've managaed the situation Rxd5 and we're good to go
+42,Rxd5,h5d5,1r4k1/p4pbp/1pq2np1/2pr4/8/1P1BP2P/PB3PP1/R2QR1K1 w - - 0 22,ok I think I've managaed the situation Rxd5 and we're good to go

@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"This game is annotated in an entertaining way, from white's point of view. Some remarks could be interesting to beginners / intermediate players.
+
+Striking opening: 1. Nf3!
+Called the Reti opening in honor of chess player Richard Reti.
+Usually the plan is that whatever your opponent does, you push the g pawn, fianchetto the light square bishop, then castle. In this way your king is well protected from the beginning.
+It is considered defensive and not much used at top level."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,1 ...d5 Classic reply to the Reti opening.
+3,g3,g2g3,rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2,Pushing the g pawn as scheduled.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3,Standard reply too.
+5,Bg2,f1g2,r1bqkbnr/ppp1pppp/2n5/3p4/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 2 3,Fianchettoing the light square bishop as scheduled.
+6,e5,e7e5,r1bqkbnr/ppp2ppp/2n5/3pp3/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 4,"Oh, black is controlling the center now."
+7,d4,d2d4,r1bqkbnr/ppp2ppp/2n5/3pp3/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 0 4,Time to get dirty and go too!
+8,e4,e5e4,r1bqkbnr/ppp2ppp/2n5/3p4/3Pp3/5NP1/PPP1PPBP/RNBQK2R w KQkq - 0 5,"Oh, he has a pawn on my side, and is threatening the knight."
+9,Ne5,f3e5,r1bqkbnr/ppp2ppp/2n5/3pN3/3Pp3/6P1/PPP1PPBP/RNBQK2R b KQkq - 1 5,Let's escape to e5! What do you think of this outpost?
+10,Bd6,f8d6,r1bqk1nr/ppp2ppp/2nb4/3pN3/3Pp3/6P1/PPP1PPBP/RNBQK2R w KQkq - 2 6,"What? Help, he's chasing my knight! I can protect him with the dark square bishop, or..."
+11,Nxc6,e5c6,r1bqk1nr/ppp2ppp/2Nb4/3p4/3Pp3/6P1/PPP1PPBP/RNBQK2R b KQkq - 0 6,"That's it, let's take the knight. OK mine moved three times and his only one, but..."
+12,bxc6,b7c6,r1bqk1nr/p1p2ppp/2pb4/3p4/3Pp3/6P1/PPP1PPBP/RNBQK2R w KQkq - 0 7,"He has to alter his pawn structure to recapture. So, in terms of imbalances, so far I lost some tempos and he has an altered pawn structure."
+13,c4,c2c4,r1bqk1nr/p1p2ppp/2pb4/3p4/2PPp3/6P1/PP2PPBP/RNBQK2R b KQkq - 0 7,"OK now let's advance the c pawn to go to c5, if he captures, he will have a very bad pawn structure (three pawns on the same file, that can be good in some situations but here I'm not too sure), plus I can take the e pawn with the bishop."
+14,Be6,c8e6,r2qk1nr/p1p2ppp/2pbb3/3p4/2PPp3/6P1/PP2PPBP/RNBQK2R w KQkq - 1 8,"OK he doesn't take and develops his bishop, defending the d pawn."
+15,c5,c4c5,r2qk1nr/p1p2ppp/2pbb3/2Pp4/3Pp3/6P1/PP2PPBP/RNBQK2R b KQkq - 0 8,"So let's advance inside his side too, and attack his other bishop at the same time!"
+16,Be7,d6e7,r2qk1nr/p1p1bppp/2p1b3/2Pp4/3Pp3/6P1/PP2PPBP/RNBQK2R w KQkq - 1 9,He has to retreat.
+17,Qa4,d1a4,r2qk1nr/p1p1bppp/2p1b3/2Pp4/Q2Pp3/6P1/PP2PPBP/RNB1K2R b KQkq - 2 9,"The c6 pawn is vulnerable, so let's threaten it. It's also interesting to have a diagonal targeting the adverse king."
+18,Qd7,d8d7,r3k1nr/p1pqbppp/2p1b3/2Pp4/Q2Pp3/6P1/PP2PPBP/RNB1K2R w KQkq - 3 10,He choses to defend with the queen.
+19,f3,f2f3,r3k1nr/p1pqbppp/2p1b3/2Pp4/Q2Pp3/5PP1/PP2P1BP/RNB1K2R b KQkq - 0 10,"It would be good to get rid of this e4 pawn, who has already well walked.
+If he takes I recapture with the e pawn, creating a semi open e file for a future rook.
+Otherwise I just take with the f pawn, creating a semi open f file for a future rook."
+20,Nf6,g8f6,r3k2r/p1pqbppp/2p1bn2/2Pp4/Q2Pp3/5PP1/PP2P1BP/RNB1K2R w KQkq - 1 11,"Hmmm he choses to defend the e pawn by developing the knight. The problem is now, if I take, he will have a powerful knight on e4, defended by the d pawn."

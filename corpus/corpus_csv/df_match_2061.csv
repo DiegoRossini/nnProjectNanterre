@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I always open with e4 as I'm relatively new to OTB chess and I'm trying to play the same opening enough that I'm comfortable with it. I usually play into the Italian game if I can.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I recognised this as the caro-kann, although I'm not really familiar with it other than black is going to play d5 next."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Following the rule that after e4, play d4 if possible, and I don't see any reason not to."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Usual caro-kann follow up.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"Defending the e pawn and developing a piece. I spent a little bit of time looking at what should come next if ..dxe4, Nxe4 and then if ..Bf5, Ng3 seems to save the tempo by forcing the bishop to retreat, plus g3 seems like a reasonable square for the knight. As it happens, this is exactly the line taken over the next few moves."
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,As previously described.
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,As previously described.
+8,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,As previously described.
+9,Ng3,e4g3,rn1qkbnr/pp2pppp/2p5/5b2/3P4/6N1/PPP2PPP/R1BQKBNR b KQkq - 2 5,As previously described.
+10,Bg6,f5g6,rn1qkbnr/pp2pppp/2p3b1/8/3P4/6N1/PPP2PPP/R1BQKBNR w KQkq - 3 6,"Makes sense, keeping blacks only developed piece on the board on a fairly good diagonal where my queen is tied to defending the c2 pawn."
+11,Bc4,f1c4,rn1qkbnr/pp2pppp/2p3b1/8/2BP4/6N1/PPP2PPP/R1BQK1NR b KQkq - 4 6,"Just a developing move really, also with the advantage of pointing at the weak f7 square. I also looked at Nf3, but this felt a bit more direct."
+12,e6,e7e6,rn1qkbnr/pp3ppp/2p1p1b1/8/2BP4/6N1/PPP2PPP/R1BQK1NR w KQkq - 0 7,Well there goes the threat on f7. Also d5 looks like a nice outpost for a knight if black can maneuver his way there.
+13,Nf3,g1f3,rn1qkbnr/pp3ppp/2p1p1b1/8/2BP4/5NN1/PPP2PPP/R1BQK2R b KQkq - 1 7,"Developing, and again protecting d4 to give the queen the scope to move a bit. In hindsight I feel maybe Nge2 was a better move, as this would have made it easier for my DSB to emerge later in the game. I looked at this at the time but felt I shouldn't block the half open e-file."
+14,h6,h7h6,rn1qkbnr/pp3pp1/2p1p1bp/8/2BP4/5NN1/PPP2PPP/R1BQK2R w KQkq - 0 8,"I guess this is to keep the bishop on because if white plays Ne5, I can force the bishop off for a knight."
+15,O-O,e1g1,rn1qkbnr/pp3pp1/2p1p1bp/8/2BP4/5NN1/PPP2PPP/R1BQ1RK1 b kq - 1 8,"Castling seemed reasonable at this point, with no immediate threats or tactical opportunities that I noticed."
+16,Nf6,g8f6,rn1qkb1r/pp3pp1/2p1pnbp/8/2BP4/5NN1/PPP2PPP/R1BQ1RK1 w kq - 2 9,"Mainly played this to free up the queen that was tied to the defence of c2, this also allows the queen and f3 knight the opportunity to go elsewhere should the need arise, Qb3 as a follow up looked interesting although the response ..b5 makes life a bit awkward after that."
+17,c3,c2c3,rn1qkb1r/pp3pp1/2p1pnbp/8/2BP4/2P2NN1/PP3PPP/R1BQ1RK1 b kq - 0 9,"Mainly played this to free up the queen that was tied to the defence of c2, this also allows the queen and f3 knight the opportunity to go elsewhere should the need arise, Qb3 as a follow up looked interesting although the response ..b5 makes life a bit awkward after that."
+18,Be7,f8e7,rn1qk2r/pp2bpp1/2p1pnbp/8/2BP4/2P2NN1/PP3PPP/R1BQ1RK1 w kq - 1 10,"e5 looked like a nice outpost for the knight. Ne5 played mainly with a view to forcing the bishop to give up the nice diagonal it has, it has no retreat squares other than h7, which isn't all that great."
+19,Ne5,f3e5,rn1qk2r/pp2bpp1/2p1pnbp/4N3/2BP4/2P3N1/PP3PPP/R1BQ1RK1 b kq - 2 10,"e5 looked like a nice outpost for the knight. Ne5 played mainly with a view to forcing the bishop to give up the nice diagonal it has, it has no retreat squares other than h7, which isn't all that great."
+20,Bh7,g6h7,rn1qk2r/pp2bppb/2p1pn1p/4N3/2BP4/2P3N1/PP3PPP/R1BQ1RK1 w kq - 3 11,Black tries to hold onto the bishop.
+21,Bd3,c4d3,rn1qk2r/pp2bppb/2p1pn1p/4N3/3P4/2PB2N1/PP3PPP/R1BQ1RK1 b kq - 4 11,"The white LSB wasn't doing much where it was while blacks had a good diagonal, so it seems like a good idea to more or less force a trade. Black can play Bg8 (terrible place for the bishop), or g6 to keep the bishop, but neither looks enticing."
+22,Bxd3,h7d3,rn1qk2r/pp2bpp1/2p1pn1p/4N3/3P4/2Pb2N1/PP3PPP/R1BQ1RK1 w kq - 0 12,Retaking with the queen in order to bring another piece out.
+23,Qxd3,d1d3,rn1qk2r/pp2bpp1/2p1pn1p/4N3/3P4/2PQ2N1/PP3PPP/R1B2RK1 b kq - 0 12,Retaking with the queen in order to bring another piece out.
+24,Nbd7,b8d7,r2qk2r/pp1nbpp1/2p1pn1p/4N3/3P4/2PQ2N1/PP3PPP/R1B2RK1 w kq - 1 13,"Challenging my knights position. I had to be wary at this point that if I ignored the challenge, then ..Nxe5 wins a knight, since the capture would uncover a pin on the d4 pawn."
+25,Nf3,e5f3,r2qk2r/pp1nbpp1/2p1pn1p/8/3P4/2PQ1NN1/PP3PPP/R1B2RK1 b kq - 2 13,"I spent a long time here looking at something like Ng6, threatening the rook or taking the black DSB off. If fxg6 then Qxg6 check with a follow up of Nh5 threatening mate on g7. Black is defending h5 though so could exchange, and Bxh6 didn't seem to help either. I came to the conclusion that there was no combination on here so gave up on that idea after running a few minutes off my clock!
+
+I considered that the threat of a later Ne5 may come in useful, so opted to retreat for now."
+26,c5,c6c5,r2qk2r/pp1nbpp1/4pn1p/2p5/3P4/2PQ1NN1/PP3PPP/R1B2RK1 w kq - 0 14,Black challenges the d4 pawn.

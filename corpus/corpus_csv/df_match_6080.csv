@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I am going to annotate a game played in the 70s by Kasparov, the strongest player in chess history. This consisted of a pawn sacrifice(pure) in the opening. the compensation black gets is not very clear, and white gets an edge, but Kasparov uses his skill to win back the material and after some more tactics, he emerges with a decisive material advantage."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"after this, we can predict Kasparov will go for a gruenfeld or king's indian."
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"after this, we can predict Kasparov will go for a gruenfeld or king's indian."
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"after this, we can predict Kasparov will go for a gruenfeld or king's indian."
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,he goes for the king's indian.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,he goes for the king's indian.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,"the standard opening strategy here. Black fights for the center with pieces, and white occupies it with pawns."
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,restraining white's pawn center.
+9,h3,h2h3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 5,development first!
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQ - 1 6,development first!
+11,Be3,c1e3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B2P/PP3PP1/R2QKBNR b KQ - 2 6,the strike in the center.
+12,e5,e7e5,rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1B2P/PP3PP1/R2QKBNR w KQ - 0 7,the strike in the center.
+13,d5,d4d5,rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1B2P/PP3PP1/R2QKBNR b KQ - 0 7,"the best choice, maintaining a space advantage in the center. Right now, these center pawns decide the strategy for black and white. Black has more space on the kingside, and he should attack there, which he usually does with a pawn storm. White should try to make gains on the queenside."
+14,Nh5,f6h5,rnbq1rk1/ppp2pbp/3p2p1/3Pp2n/2P1P3/2N1B2P/PP3PP1/R2QKBNR w KQ - 1 8,very logical. Black immediately plans ...f5
+15,Be2,f1e2,rnbq1rk1/ppp2pbp/3p2p1/3Pp2n/2P1P3/2N1B2P/PP2BPP1/R2QK1NR b KQ - 2 8,the defining moment of the sacrifice. Black ignores the attack on his knight and plays f5 immediately.
+16,f5,f7f5,rnbq1rk1/ppp3bp/3p2p1/3Ppp1n/2P1P3/2N1B2P/PP2BPP1/R2QK1NR w KQ - 0 9,the defining moment of the sacrifice. Black ignores the attack on his knight and plays f5 immediately.
+17,Bxh5,e2h5,rnbq1rk1/ppp3bp/3p2p1/3Ppp1B/2P1P3/2N1B2P/PP3PP1/R2QK1NR b KQ - 0 9,"black is now down a pawn. However, the compensation he gets is unclear. he averts time loss by not retreating the knight, but a closed position like time has little meaning. He does gain the bishop pair, and he can make the remaining white bishop very passive. These factors may compensate him, as they are long term advantages in this closed position."
+18,gxh5,g6h5,rnbq1rk1/ppp3bp/3p4/3Ppp1p/2P1P3/2N1B2P/PP3PP1/R2QK1NR w KQ - 0 10,"black is now down a pawn. However, the compensation he gets is unclear. he averts time loss by not retreating the knight, but a closed position like time has little meaning. He does gain the bishop pair, and he can make the remaining white bishop very passive. These factors may compensate him, as they are long term advantages in this closed position."
+19,Qxh5,d1h5,rnbq1rk1/ppp3bp/3p4/3Ppp1Q/2P1P3/2N1B2P/PP3PP1/R3K1NR b KQ - 0 10,"black is now down a pawn. However, the compensation he gets is unclear. he averts time loss by not retreating the knight, but a closed position like time has little meaning. He does gain the bishop pair, and he can make the remaining white bishop very passive. These factors may compensate him, as they are long term advantages in this closed position."
+20,f4,f5f4,rnbq1rk1/ppp3bp/3p4/3Pp2Q/2P1Pp2/2N1B2P/PP3PP1/R3K1NR w KQ - 0 11,making the white bishop passive.
+21,Bd2,e3d2,rnbq1rk1/ppp3bp/3p4/3Pp2Q/2P1Pp2/2N4P/PP1B1PP1/R3K1NR b KQ - 1 11,now black gets his pieces out normally.
+22,Nd7,b8d7,r1bq1rk1/pppn2bp/3p4/3Pp2Q/2P1Pp2/2N4P/PP1B1PP1/R3K1NR w KQ - 2 12,now black gets his pieces out normally.
+23,O-O-O,e1c1,r1bq1rk1/pppn2bp/3p4/3Pp2Q/2P1Pp2/2N4P/PP1B1PP1/2KR2NR b - - 3 12,black's compensation for the pawn is very long term.
+24,Nf6,d7f6,r1bq1rk1/ppp3bp/3p1n2/3Pp2Q/2P1Pp2/2N4P/PP1B1PP1/2KR2NR w - - 4 13,black's compensation for the pawn is very long term.
+25,Qe2,h5e2,r1bq1rk1/ppp3bp/3p1n2/3Pp3/2P1Pp2/2N4P/PP1BQPP1/2KR2NR b - - 5 13,black's compensation for the pawn is very long term.
+26,Qe8,d8e8,r1b1qrk1/ppp3bp/3p1n2/3Pp3/2P1Pp2/2N4P/PP1BQPP1/2KR2NR w - - 6 14,"very logical, the queen will be useful on the light squares."
+27,Nf3,g1f3,r1b1qrk1/ppp3bp/3p1n2/3Pp3/2P1Pp2/2N2N1P/PP1BQPP1/2KR3R b - - 7 14,"black will want to attack on the queenside, so he makes space there."
+28,c5,c7c5,r1b1qrk1/pp4bp/3p1n2/2pPp3/2P1Pp2/2N2N1P/PP1BQPP1/2KR3R w - c6 0 15,"black will want to attack on the queenside, so he makes space there."
+29,Kb1,c1b1,r1b1qrk1/pp4bp/3p1n2/2pPp3/2P1Pp2/2N2N1P/PP1BQPP1/1K1R3R b - - 1 15,black is ready to strike with pawns on the queenside.
+30,a6,a7a6,r1b1qrk1/1p4bp/p2p1n2/2pPp3/2P1Pp2/2N2N1P/PP1BQPP1/1K1R3R w - - 0 16,black is ready to strike with pawns on the queenside.
+31,g4,g2g4,r1b1qrk1/1p4bp/p2p1n2/2pPp3/2P1PpP1/2N2N1P/PP1BQP2/1K1R3R b - g3 0 16,white's attack is on the kingside.
+32,Bd7,c8d7,r3qrk1/1p1b2bp/p2p1n2/2pPp3/2P1PpP1/2N2N1P/PP1BQP2/1K1R3R w - - 1 17,the square f5 is an interior weakness. White's knight can go to it.
+33,Nh4,f3h4,r3qrk1/1p1b2bp/p2p1n2/2pPp3/2P1PpPN/2N4P/PP1BQP2/1K1R3R b - - 2 17,the square f5 is an interior weakness. White's knight can go to it.
+34,b5,b7b5,r3qrk1/3b2bp/p2p1n2/1ppPp3/2P1PpPN/2N4P/PP1BQP2/1K1R3R w - - 0 18,space on the queenside.

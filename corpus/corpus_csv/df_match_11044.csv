@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"1. e4 gains space and opens lines for the king bishop and the queen.  The  strategic drawback is that d4 and f4 have been slightly weakened. Since pawns can never move backwards, the e-pawn can never help control those squares.  The e-pawn may itself become an object of attack."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Sicilian defense.  The idea is to create an imbalance in the position.  Black will frequently trade a wing pawn for a center pawn, and try to control the center witha 2 to 1 pawn majority."
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,The closed Sicilian avoids an early d4.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Black develops naturally by centralizing a knight and attacking d4 and e5.
+5,f4,f2f4,r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3,"The so-called Grand Prix attack.  White is hoping to gain space in the center and on the kingside, and then launch an attack."
+6,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4,3. ...g6 and 3. ...d6 are frequently played alternatives.
+7,Nf3,g1f3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4,White will want to complete his kingside development and castle quickly in preperation for the attack.
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5,"A normal looking move, but the knight is better placed on e7.  4. ...d5 would be better and would keep black in the game for spatial control."
+9,e5,e4e5,r1bqkb1r/pp1p1ppp/2n1pn2/2p1P3/5P2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 0 5,"Gaining space without the cost of a tempo, since the black knight must move again."
+10,Nd5,f6d5,r1bqkb1r/pp1p1ppp/2n1p3/2pnP3/5P2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 1 6,Other moves lose time as well as space.
+11,Nxd5,c3d5,r1bqkb1r/pp1p1ppp/2n1p3/2pNP3/5P2/5N2/PPPP2PP/R1BQKB1R b KQkq - 0 6,"The black knight was threatening the f-pawn, so white plays to mangle black's pawn structure."
+12,exd5,e6d5,r1bqkb1r/pp1p1ppp/2n5/2ppP3/5P2/5N2/PPPP2PP/R1BQKB1R w KQkq - 0 7,Forced in order to restore material equality.
+13,d4,d2d4,r1bqkb1r/pp1p1ppp/2n5/2ppP3/3P1P2/5N2/PPP3PP/R1BQKB1R b KQkq - 0 7,White wishes to exchange the d-pawn for black's c-pawn leaving black with doubled isolated pawns.
+14,Be7,f8e7,r1bqk2r/pp1pbppp/2n5/2ppP3/3P1P2/5N2/PPP3PP/R1BQKB1R w KQkq - 1 8,7. ...d6 was a better move.
+15,c3,c2c3,r1bqk2r/pp1pbppp/2n5/2ppP3/3P1P2/2P2N2/PP4PP/R1BQKB1R b KQkq - 0 8,I considered 8. dxc5 Bxc5 9. Qxd5 Qb6 too risky for white.  Quiet moves will leave black with a weakened pawn structure with no risk to white's position.
+16,d6,d7d6,r1bqk2r/pp2bppp/2np4/2ppP3/3P1P2/2P2N2/PP4PP/R1BQKB1R w KQkq - 0 9,A good move.  Black would like to complete his development and create some counterplay.
+17,Be3,c1e3,r1bqk2r/pp2bppp/2np4/2ppP3/3P1P2/2P1BN2/PP4PP/R2QKB1R b KQkq - 1 9,White wants to catch up in development before initiating exchanges in the center.
+18,Bf5,c8f5,r2qk2r/pp2bppp/2np4/2ppPb2/3P1P2/2P1BN2/PP4PP/R2QKB1R w KQkq - 2 10,9. ...dxe5 would've forced white to tip his hand.  I would've played 10. fxe5 and if 10. ...cxd4 11. cxd4 Bb4  12. Kf2.
+19,Bd3,f1d3,r2qk2r/pp2bppp/2np4/2ppPb2/3P1P2/2PBBN2/PP4PP/R2QK2R b KQkq - 3 10,Once white castles he'll be ready to clarify the situation in the center.
+20,Qd7,d8d7,r3k2r/pp1qbppp/2np4/2ppPb2/3P1P2/2PBBN2/PP4PP/R2QK2R w KQkq - 4 11,10. ...Bxd3 and 11. ...dxe5 was still the way to go.

@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Slave defense, the Blacks refused the queen's gambit with 2. ... c6. The objective is to play e6 after Bf5."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Slave defense, the Blacks refused the queen's gambit with 2. ... c6. The objective is to play e6 after Bf5."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Slave defense, the Blacks refused the queen's gambit with 2. ... c6. The objective is to play e6 after Bf5."
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Slave defense, the Blacks refused the queen's gambit with 2. ... c6. The objective is to play e6 after Bf5."
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,The normal continuation.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,The normal continuation.
+7,Nf3,g1f3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,The normal continuation.
+8,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5,The normal continuation.
+9,g3,g2g3,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 5,I don't think this variation is the best the White camp can have. I believe that 5.Bg5 is better.
+10,e6,e7e6,rn1qkb1r/pp3ppp/2p1pn2/3p1b2/2PP4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq - 0 6,"To finish the opening with Bb4, and Nbd7."
+11,Bg2,f1g2,rn1qkb1r/pp3ppp/2p1pn2/3p1b2/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 1 6,"The Black development is finished, they just need to castle in the king side."
+12,Nbd7,b8d7,r2qkb1r/pp1n1ppp/2p1pn2/3p1b2/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 2 7,"The Black development is finished, they just need to castle in the king side."
+13,O-O,e1g1,r2qkb1r/pp1n1ppp/2p1pn2/3p1b2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b kq - 3 7,"The Black development is finished, they just need to castle in the king side."
+14,Bb4,f8b4,r2qk2r/pp1n1ppp/2p1pn2/3p1b2/1bPP4/2N2NP1/PP2PPBP/R1BQ1RK1 w kq - 4 8,"The Black development is finished, they just need to castle in the king side."
+15,Bd2,c1d2,r2qk2r/pp1n1ppp/2p1pn2/3p1b2/1bPP4/2N2NP1/PP1BPPBP/R2Q1RK1 b kq - 5 8,"It is a possible variation, but not in this position."
+16,O-O,e8g8,r2q1rk1/pp1n1ppp/2p1pn2/3p1b2/1bPP4/2N2NP1/PP1BPPBP/R2Q1RK1 w - - 6 9,"It is a possible variation, but not in this position."
+17,Ne5,f3e5,r2q1rk1/pp1n1ppp/2p1pn2/3pNb2/1bPP4/2N3P1/PP1BPPBP/R2Q1RK1 b - - 7 9,"It is a possible variation, but not in this position."
+18,Bxc3,b4c3,r2q1rk1/pp1n1ppp/2p1pn2/3pNb2/2PP4/2b3P1/PP1BPPBP/R2Q1RK1 w - - 0 10,"If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle."
+19,Bxc3,d2c3,r2q1rk1/pp1n1ppp/2p1pn2/3pNb2/2PP4/2B3P1/PP2PPBP/R2Q1RK1 b - - 0 10,"If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle."
+20,Nxe5,d7e5,r2q1rk1/pp3ppp/2p1pn2/3pnb2/2PP4/2B3P1/PP2PPBP/R2Q1RK1 w - - 0 11,"If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle."
+21,dxe5,d4e5,r2q1rk1/pp3ppp/2p1pn2/3pPb2/2P5/2B3P1/PP2PPBP/R2Q1RK1 b - - 0 11,"If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle."
+22,Ne4,f6e4,r2q1rk1/pp3ppp/2p1p3/3pPb2/2P1n3/2B3P1/PP2PPBP/R2Q1RK1 w - - 1 12,"If white bishop in g2 takes, the black bishop is on e4, and he attack the white castle."
+23,g4,g3g4,r2q1rk1/pp3ppp/2p1p3/3pPb2/2P1n1P1/2B5/PP2PPBP/R2Q1RK1 b - - 0 12,"12. g4 ? give a pawn. Even if white bishop takes Knight in e4, Blacks got the center after the queens exchange. Schmoid maybe thinks that I wanted to capture the bishop in c3."
+24,Bxg4,f5g4,r2q1rk1/pp3ppp/2p1p3/3pP3/2P1n1b1/2B5/PP2PPBP/R2Q1RK1 w - - 0 13,13. Bf3??  Blacks got an advantage of position (Ne4) and of material (the pawn). This follow is the worst Whites could find.
+25,Bf3,g2f3,r2q1rk1/pp3ppp/2p1p3/3pP3/2P1n1b1/2B2B2/PP2PP1P/R2Q1RK1 b - - 1 13,13. Bf3??  Blacks got an advantage of position (Ne4) and of material (the pawn). This follow is the worst Whites could find.
+26,Bh3,g4h3,r2q1rk1/pp3ppp/2p1p3/3pP3/2P1n3/2B2B1b/PP2PP1P/R2Q1RK1 w - - 2 14,"Attack the rook in the castle. And the Blacks got supremacy in development, material and position."
+27,Bg2,f3g2,r2q1rk1/pp3ppp/2p1p3/3pP3/2P1n3/2B4b/PP2PPBP/R2Q1RK1 b - - 3 14,"""Protect"" the rook."
+28,Qg5,d8g5,r4rk1/pp3ppp/2p1p3/3pP1q1/2P1n3/2B4b/PP2PPBP/R2Q1RK1 w - - 4 15,"14. ... Qg5! The bishop can't move, and there is no solution to avoid the checkmate."
+29,f4,f2f4,r4rk1/pp3ppp/2p1p3/3pP1q1/2P1nP2/2B4b/PP2P1BP/R2Q1RK1 b - - 0 15,
+30,Qxg2#,g5g2,r4rk1/pp3ppp/2p1p3/3pP3/2P1nP2/2B4b/PP2P1qP/R2Q1RK1 w - - 0 16,

@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I Hate the Queen Pawn
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,But lets Mirror
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I know he wants it but................
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,.... lets take it
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,He has taken control of the centre but i will back up my pawn
+6,b5,b7b5,rnbqkbnr/p1p1pppp/8/1p6/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,He has taken control of the centre but i will back up my pawn
+7,a3,a2a3,rnbqkbnr/p1p1pppp/8/1p6/2pPP3/P7/1P3PPP/RNBQKBNR b KQkq - 0 4,I need to attack the centre pawns.  I will try and get the bishop out.  He might attack my knight if i moved Nf6 giving me the run around.  And i dont want to lose any pawns yet as it would open me up.
+8,g6,g7g6,rnbqkbnr/p1p1pp1p/6p1/1p6/2pPP3/P7/1P3PPP/RNBQKBNR w KQkq - 0 5,I need to attack the centre pawns.  I will try and get the bishop out.  He might attack my knight if i moved Nf6 giving me the run around.  And i dont want to lose any pawns yet as it would open me up.
+9,Nc3,b1c3,rnbqkbnr/p1p1pp1p/6p1/1p6/2pPP3/P1N5/1P3PPP/R1BQKBNR b KQkq - 1 5,That move strengthens his centre control and explains his previous a3 move.  The problem I have now is protecting my pawn on b5.  It is easy protected but a4 for him may cause me a headache.
+10,Bd7,c8d7,rn1qkbnr/p1pbpp1p/6p1/1p6/2pPP3/P1N5/1P3PPP/R1BQKBNR w KQkq - 2 6,I chose to protect with my Bishop even though it disrupts my planned attack on his d4 pawn (with my plan of Bg7).  I wasn't too keen on a6 nor d6 as i felt it would made me weak.
+11,Qf3,d1f3,rn1qkbnr/p1pbpp1p/6p1/1p6/2pPP3/P1N2Q2/1P3PPP/R1B1KBNR b KQkq - 3 6,Initially i was thinking this was to attack f7 but more realistically i guess he is aiming to move e4 to threaten  the capture of my rook on a8.
+12,c6,c7c6,rn1qkbnr/p2bpp1p/2p3p1/1p6/2pPP3/P1N2Q2/1P3PPP/R1B1KBNR w KQkq - 0 7,I wasn't keen on this as i mentioned earlier but this i believed to be the best option although i did consider Na6 and leaving the defence until it was attacked directly.
+13,a4,a3a4,rn1qkbnr/p2bpp1p/2p3p1/1p6/P1pPP3/2N2Q2/1P3PPP/R1B1KBNR b KQkq - 0 7,I knew this was coming.
+14,Qa5,d8a5,rn2kbnr/p2bpp1p/2p3p1/qp6/P1pPP3/2N2Q2/1P3PPP/R1B1KBNR w KQkq - 1 8,but how about this.  Pins his Knight and prevents the capture of b5(without losing Rook).  Although I predict his next move will be Bd2.
+15,Be2,f1e2,rn2kbnr/p2bpp1p/2p3p1/qp6/P1pPP3/2N2Q2/1P2BPPP/R1B1K1NR b KQkq - 2 8,I can only suggest this is to clear the path for castling.
+16,Bg7,f8g7,rn2k1nr/p2bppbp/2p3p1/qp6/P1pPP3/2N2Q2/1P2BPPP/R1B1K1NR w KQkq - 3 9,I finally get round to attacking the pawn on d4.
+17,e5,e4e5,rn2k1nr/p2bppbp/2p3p1/qp2P3/P1pP4/2N2Q2/1P2BPPP/R1B1K1NR b KQkq - 0 9,Got to be a good move as gives me so many restrictions.
+18,e6,e7e6,rn2k1nr/p2b1pbp/2p1p1p1/qp2P3/P1pP4/2N2Q2/1P2BPPP/R1B1K1NR w KQkq - 0 10,"This halts the advancing of his pawn, gives me an option to get my knight off g8 and possibly castling but on the downside restricts my bishop."
+19,Nh3,g1h3,rn2k1nr/p2b1pbp/2p1p1p1/qp2P3/P1pP4/2N2Q1N/1P2BPPP/R1B1K2R b KQkq - 1 10,I was right he is intending to castle.
+20,Ne7,g8e7,rn2k2r/p2bnpbp/2p1p1p1/qp2P3/P1pP4/2N2Q1N/1P2BPPP/R1B1K2R w KQkq - 2 11,I will move my knight to e7.  Now I guess castle castle.
+21,O-O,e1g1,rn2k2r/p2bnpbp/2p1p1p1/qp2P3/P1pP4/2N2Q1N/1P2BPPP/R1B2RK1 b kq - 3 11,castle
+22,O-O,e8g8,rn3rk1/p2bnpbp/2p1p1p1/qp2P3/P1pP4/2N2Q1N/1P2BPPP/R1B2RK1 w - - 4 12,castle

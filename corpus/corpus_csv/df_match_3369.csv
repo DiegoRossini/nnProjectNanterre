@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,orangutan opening : i'm trying to tame the beast !
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,"classical, treathening weak b4"
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/8/4p3/1P6/8/PBPPPPPP/RN1QKBNR b KQkq - 1 2,main line : proposing exchange b4 agains e5 but destroying black center and then treaths if black take b4.
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 2 3,unknown variation ! I thing this is not so good exposing the queen to a dicovered attack
+5,a3,a2a3,rnb1kbnr/pppp1ppp/5q2/4p3/1P6/P7/1BPPPPPP/RN1QKBNR b KQkq - 0 3,to prevent Bxb4
+6,c5,c7c5,rnb1kbnr/pp1p1ppp/5q2/2p1p3/1P6/P7/1BPPPPPP/RN1QKBNR w KQkq - 0 4,i have a secret weapon prepared... : Kd5...Kc7+ wins rook. Of course this is not so secret !
+7,Nc3,b1c3,rnb1kbnr/pp1p1ppp/5q2/2p1p3/1P6/P1N5/1BPPPPPP/R2QKBNR b KQkq - 1 4,i have a secret weapon prepared... : Kd5...Kc7+ wins rook. Of course this is not so secret !
+8,cxb4,c5b4,rnb1kbnr/pp1p1ppp/5q2/4p3/1p6/P1N5/1BPPPPPP/R2QKBNR w KQkq - 0 5,but it can serve ! At less to get back my b4 pawn
+9,Nd5,c3d5,rnb1kbnr/pp1p1ppp/5q2/3Np3/1p6/P7/1BPPPPPP/R2QKBNR b KQkq - 1 5,but it can serve ! At less to get back my b4 pawn
+10,Qd6,f6d6,rnb1kbnr/pp1p1ppp/3q4/3Np3/1p6/P7/1BPPPPPP/R2QKBNR w KQkq - 2 6,fighnting for center
+11,Nxb4,d5b4,rnb1kbnr/pp1p1ppp/3q4/4p3/1N6/P7/1BPPPPPP/R2QKBNR b KQkq - 0 6,fighnting for center
+12,g6,g7g6,rnb1kbnr/pp1p1p1p/3q2p1/4p3/1N6/P7/1BPPPPPP/R2QKBNR w KQkq - 0 7,fighnting for center
+13,Nf3,g1f3,rnb1kbnr/pp1p1p1p/3q2p1/4p3/1N6/P4N2/1BPPPPPP/R2QKB1R b KQkq - 1 7,fighnting for center
+14,Bg7,f8g7,rnb1k1nr/pp1p1pbp/3q2p1/4p3/1N6/P4N2/1BPPPPPP/R2QKB1R w KQkq - 2 8,c4 will be a nice position for my LSB...
+15,e3,e2e3,rnb1k1nr/pp1p1pbp/3q2p1/4p3/1N6/P3PN2/1BPP1PPP/R2QKB1R b KQkq - 0 8,c4 will be a nice position for my LSB...
+16,Bf6,g7f6,rnb1k1nr/pp1p1p1p/3q1bp1/4p3/1N6/P3PN2/1BPP1PPP/R2QKB1R w KQkq - 1 9,blunder : I come again with my knight in d5
+17,Bc4,f1c4,rnb1k1nr/pp1p1p1p/3q1bp1/4p3/1NB5/P3PN2/1BPP1PPP/R2QK2R b KQkq - 2 9,blunder : I come again with my knight in d5
+18,Qb6,d6b6,rnb1k1nr/pp1p1p1p/1q3bp1/4p3/1NB5/P3PN2/1BPP1PPP/R2QK2R w KQkq - 3 10,blunder : I come again with my knight in d5
+19,Nd5,b4d5,rnb1k1nr/pp1p1p1p/1q3bp1/3Np3/2B5/P3PN2/1BPP1PPP/R2QK2R b KQkq - 4 10,i willl win the e5 pawn after exchange black bishop with d5 knight
+20,Qc6,b6c6,rnb1k1nr/pp1p1p1p/2q2bp1/3Np3/2B5/P3PN2/1BPP1PPP/R2QK2R w KQkq - 5 11,i willl win the e5 pawn after exchange black bishop with d5 knight
+21,Nxf6+,d5f6,rnb1k1nr/pp1p1p1p/2q2Np1/4p3/2B5/P3PN2/1BPP1PPP/R2QK2R b KQkq - 0 11,"so ther is the nice fork coming, i'm sure the good players have seen it from before...isnt it ?!"
+22,Nxf6,g8f6,rnb1k2r/pp1p1p1p/2q2np1/4p3/2B5/P3PN2/1BPP1PPP/R2QK2R w KQkq - 0 12,"so ther is the nice fork coming, i'm sure the good players have seen it from before...isnt it ?!"
+23,Bxf7+,c4f7,rnb1k2r/pp1p1B1p/2q2np1/4p3/8/P3PN2/1BPP1PPP/R2QK2R b KQkq - 0 12,first : sacrifice bishop
+24,Kxf7,e8f7,rnb4r/pp1p1k1p/2q2np1/4p3/8/P3PN2/1BPP1PPP/R2QK2R w KQ - 0 13,he should not...
+25,Nxe5+,f3e5,rnb4r/pp1p1k1p/2q2np1/4N3/8/P3P3/1BPP1PPP/R2QK2R b KQ - 0 13,here we are ! So isnt the orangutan a funy one ?

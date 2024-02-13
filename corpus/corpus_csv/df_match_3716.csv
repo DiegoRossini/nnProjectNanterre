@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,my usual move.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,all standard.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,all standard.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,all standard.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,nothing fancy so far.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,nothing fancy so far.
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,nothing fancy so far.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,nothing fancy so far.
+9,Nf3,g1f3,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 5 5,the usual opening.
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQ - 6 6,the usual opening.
+11,e3,e2e3,rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ - 0 6,the usual opening.
+12,Nbd7,b8d7,r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 7,the usual opening.
+13,Rc1,a1c1,r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R b K - 2 7,?! not sure if this move has been made in the past? but i dont like it!
+14,a6,a7a6,r1bq1rk1/1ppnbppp/p3pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 0 8,?! not sure if this move has been made in the past? but i dont like it!
+15,cxd5,c4d5,r1bq1rk1/1ppnbppp/p3pn2/3P2B1/3P4/2N1PN2/PP3PPP/2RQKB1R b K - 0 8,so far i think im slightly better...
+16,Nxd5,f6d5,r1bq1rk1/1ppnbppp/p3p3/3n2B1/3P4/2N1PN2/PP3PPP/2RQKB1R w K - 0 9,so far i think im slightly better...
+17,Bxe7,g5e7,r1bq1rk1/1ppnBppp/p3p3/3n4/3P4/2N1PN2/PP3PPP/2RQKB1R b K - 0 9,so far i think im slightly better...
+18,Nxe7,d5e7,r1bq1rk1/1ppnnppp/p3p3/8/3P4/2N1PN2/PP3PPP/2RQKB1R w K - 0 10,so far i think im slightly better...
+19,Bd3,f1d3,r1bq1rk1/1ppnnppp/p3p3/8/3P4/2NBPN2/PP3PPP/2RQK2R b K - 1 10,so far i think im slightly better...
+20,c5,c7c5,r1bq1rk1/1p1nnppp/p3p3/2p5/3P4/2NBPN2/PP3PPP/2RQK2R w K - 0 11,threatening c4.
+21,O-O,e1g1,r1bq1rk1/1p1nnppp/p3p3/2p5/3P4/2NBPN2/PP3PPP/2RQ1RK1 b - - 1 11,threatening c4.
+22,b5,b7b5,r1bq1rk1/3nnppp/p3p3/1pp5/3P4/2NBPN2/PP3PPP/2RQ1RK1 w - - 0 12,threatening c4.
+23,Qc2,d1c2,r1bq1rk1/3nnppp/p3p3/1pp5/3P4/2NBPN2/PPQ2PPP/2R2RK1 b - - 1 12,attacking h7.
+24,h6,h7h6,r1bq1rk1/3nnpp1/p3p2p/1pp5/3P4/2NBPN2/PPQ2PPP/2R2RK1 w - - 0 13,threatening Bh7+ winning the black queen!
+25,dxc5,d4c5,r1bq1rk1/3nnpp1/p3p2p/1pP5/8/2NBPN2/PPQ2PPP/2R2RK1 b - - 0 13,threatening Bh7+ winning the black queen!
+26,Nxc5,d7c5,r1bq1rk1/4npp1/p3p2p/1pn5/8/2NBPN2/PPQ2PPP/2R2RK1 w - - 0 14,threatening Bh7+ winning the black queen!
+27,Rfd1,f1d1,r1bq1rk1/4npp1/p3p2p/1pn5/8/2NBPN2/PPQ2PPP/2RR2K1 b - - 1 14,threatening Bh7+ winning the black queen!
+28,Qb6,d8b6,r1b2rk1/4npp1/pq2p2p/1pn5/8/2NBPN2/PPQ2PPP/2RR2K1 w - - 2 15,now its time for positional play.
+29,Be2,d3e2,r1b2rk1/4npp1/pq2p2p/1pn5/8/2N1PN2/PPQ1BPPP/2RR2K1 b - - 3 15,now its time for positional play.
+30,Nd7,c5d7,r1b2rk1/3nnpp1/pq2p2p/1p6/8/2N1PN2/PPQ1BPPP/2RR2K1 w - - 4 16,now its time for positional play.
+31,Ne4,c3e4,r1b2rk1/3nnpp1/pq2p2p/1p6/4N3/4PN2/PPQ1BPPP/2RR2K1 b - - 5 16,now its time for positional play.
+32,Nf5,e7f5,r1b2rk1/3n1pp1/pq2p2p/1p3n2/4N3/4PN2/PPQ1BPPP/2RR2K1 w - - 6 17,my c5 knight is very strong.
+33,Nd4,f3d4,r1b2rk1/3n1pp1/pq2p2p/1p3n2/3NN3/4P3/PPQ1BPPP/2RR2K1 b - - 7 17,my c5 knight is very strong.
+34,Nxd4,f5d4,r1b2rk1/3n1pp1/pq2p2p/1p6/3nN3/4P3/PPQ1BPPP/2RR2K1 w - - 0 18,my c5 knight is very strong.
+35,Rxd4,d1d4,r1b2rk1/3n1pp1/pq2p2p/1p6/3RN3/4P3/PPQ1BPPP/2R3K1 b - - 0 18,my c5 knight is very strong.
+36,Ne5,d7e5,r1b2rk1/5pp1/pq2p2p/1p2n3/3RN3/4P3/PPQ1BPPP/2R3K1 w - - 1 19,my c5 knight is very strong.
+37,Nc5,e4c5,r1b2rk1/5pp1/pq2p2p/1pN1n3/3R4/4P3/PPQ1BPPP/2R3K1 b - - 2 19,my c5 knight is very strong.
+38,Nc4,e5c4,r1b2rk1/5pp1/pq2p2p/1pN5/2nR4/4P3/PPQ1BPPP/2R3K1 w - - 3 20,my rooks are planning to get on the 7th rank.
+39,Bxc4,e2c4,r1b2rk1/5pp1/pq2p2p/1pN5/2BR4/4P3/PPQ2PPP/2R3K1 b - - 0 20,my rooks are planning to get on the 7th rank.
+40,Qxc5,b6c5,r1b2rk1/5pp1/p3p2p/1pq5/2BR4/4P3/PPQ2PPP/2R3K1 w - - 0 21,my rooks are planning to get on the 7th rank.
+41,Be2,c4e2,r1b2rk1/5pp1/p3p2p/1pq5/3R4/4P3/PPQ1BPPP/2R3K1 b - - 1 21,my rooks are planning to get on the 7th rank.
+42,Qxc2,c5c2,r1b2rk1/5pp1/p3p2p/1p6/3R4/4P3/PPq1BPPP/2R3K1 w - - 0 22,my rooks are planning to get on the 7th rank.
+43,Rxc2,c1c2,r1b2rk1/5pp1/p3p2p/1p6/3R4/4P3/PPR1BPPP/6K1 b - - 0 22,my rooks are planning to get on the 7th rank.
+44,Bb7,c8b7,r4rk1/1b3pp1/p3p2p/1p6/3R4/4P3/PPR1BPPP/6K1 w - - 1 23,! practical forces a trade.
+45,Rc7,c2c7,r4rk1/1bR2pp1/p3p2p/1p6/3R4/4P3/PP2BPPP/6K1 b - - 2 23,! practical forces a trade.
+46,Bd5,b7d5,r4rk1/2R2pp1/p3p2p/1p1b4/3R4/4P3/PP2BPPP/6K1 w - - 3 24,! practical forces a trade.
+47,Bf3,e2f3,r4rk1/2R2pp1/p3p2p/1p1b4/3R4/4PB2/PP3PPP/6K1 b - - 4 24,! practical forces a trade.
+48,Bxf3,d5f3,r4rk1/2R2pp1/p3p2p/1p6/3R4/4Pb2/PP3PPP/6K1 w - - 0 25,7th rank.
+49,gxf3,g2f3,r4rk1/2R2pp1/p3p2p/1p6/3R4/4PP2/PP3P1P/6K1 b - - 0 25,7th rank.
+50,Rfc8,f8c8,r1r3k1/2R2pp1/p3p2p/1p6/3R4/4PP2/PP3P1P/6K1 w - - 1 26,7th rank.
+51,Rdd7,d4d7,r1r3k1/2RR1pp1/p3p2p/1p6/8/4PP2/PP3P1P/6K1 b - - 2 26,7th rank.
+52,Rxc7,c8c7,r5k1/2rR1pp1/p3p2p/1p6/8/4PP2/PP3P1P/6K1 w - - 0 27,forced. otherwise i take on f7 winning.
+53,Rxc7,d7c7,r5k1/2R2pp1/p3p2p/1p6/8/4PP2/PP3P1P/6K1 b - - 0 27,! this stops the a4 advance.
+54,b4,b5b4,r5k1/2R2pp1/p3p2p/8/1p6/4PP2/PP3P1P/6K1 w - - 0 28,! this stops the a4 advance.
+55,b3,b2b3,r5k1/2R2pp1/p3p2p/8/1p6/1P2PP2/P4P1P/6K1 b - - 0 28,! this stops the a4 advance.
+56,a5,a6a5,r5k1/2R2pp1/4p2p/p7/1p6/1P2PP2/P4P1P/6K1 w - - 0 29,! this stops the a4 advance.
+57,Rb7,c7b7,r5k1/1R3pp1/4p2p/p7/1p6/1P2PP2/P4P1P/6K1 b - - 1 29,! this stops the a4 advance.
+58,f6,f7f6,r5k1/1R4p1/4pp1p/p7/1p6/1P2PP2/P4P1P/6K1 w - - 0 30,planning h5.
+59,h4,h2h4,r5k1/1R4p1/4pp1p/p7/1p5P/1P2PP2/P4P2/6K1 b - - 0 30,planning h5.
+60,h5,h6h5,r5k1/1R4p1/4pp2/p6p/1p5P/1P2PP2/P4P2/6K1 w - - 0 31,stops the threat.
+61,f4,f3f4,r5k1/1R4p1/4pp2/p6p/1p3P1P/1P2P3/P4P2/6K1 b - - 0 31,attacking a5.
+62,Kh7,g8h7,r7/1R4pk/4pp2/p6p/1p3P1P/1P2P3/P4P2/6K1 w - - 1 32,attacking a5.
+63,Kg2,g1g2,r7/1R4pk/4pp2/p6p/1p3P1P/1P2P3/P4PK1/8 b - - 2 32,attacking a5.
+64,Kg6,h7g6,r7/1R4p1/4ppk1/p6p/1p3P1P/1P2P3/P4PK1/8 w - - 3 33,attacking a5.
+65,e4,e3e4,r7/1R4p1/4ppk1/p6p/1p2PP1P/1P6/P4PK1/8 b - - 0 33,attacking a5.
+66,Ra6,a8a6,8/1R4p1/r3ppk1/p6p/1p2PP1P/1P6/P4PK1/8 w - - 1 34,attacking a5.
+67,Kf3,g2f3,8/1R4p1/r3ppk1/p6p/1p2PP1P/1P3K2/P4P2/8 b - - 2 34,attacking a5.
+68,Rc6,a6c6,8/1R4p1/2r1ppk1/p6p/1p2PP1P/1P3K2/P4P2/8 w - - 3 35,attacking a5.
+69,Rb5,b7b5,8/6p1/2r1ppk1/pR5p/1p2PP1P/1P3K2/P4P2/8 b - - 4 35,attacking a5.
+70,Ra6,c6a6,8/6p1/r3ppk1/pR5p/1p2PP1P/1P3K2/P4P2/8 w - - 5 36,winning one pawn.
+71,Ke3,f3e3,8/6p1/r3ppk1/pR5p/1p2PP1P/1P2K3/P4P2/8 b - - 6 36,winning one pawn.
+72,Kf7,g6f7,8/5kp1/r3pp2/pR5p/1p2PP1P/1P2K3/P4P2/8 w - - 7 37,winning one pawn.
+73,Rxh5,b5h5,8/5kp1/r3pp2/p6R/1p2PP1P/1P2K3/P4P2/8 b - - 0 37,winning one pawn.

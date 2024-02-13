@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Typical
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Typical
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Bad move by me
+4,Qe7,d8e7,rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Protecting both pawn threats
+5,Bc4,f1c4,rnb1kbnr/ppppqppp/8/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,Don't know why I did this
+6,Nf6,g8f6,rnb1kb1r/ppppqppp/5n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4,b5 I think is what black is playing
+7,Qg5,h5g5,rnb1kb1r/ppppqppp/5n2/4p1Q1/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 5 4,b5 I think is what black is playing
+8,a6,a7a6,rnb1kb1r/1pppqppp/p4n2/4p1Q1/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 5,b5 I think is what black is playing
+9,Nf3,g1f3,rnb1kb1r/1pppqppp/p4n2/4p1Q1/2B1P3/5N2/PPPP1PPP/RNB1K2R b KQkq - 1 5,b5 I think is what black is playing
+10,b5,b7b5,rnb1kb1r/2ppqppp/p4n2/1p2p1Q1/2B1P3/5N2/PPPP1PPP/RNB1K2R w KQkq - 0 6,Castle
+11,Bd5,c4d5,rnb1kb1r/2ppqppp/p4n2/1p1Bp1Q1/4P3/5N2/PPPP1PPP/RNB1K2R b KQkq - 1 6,Castle
+12,c6,c7c6,rnb1kb1r/3pqppp/p1p2n2/1p1Bp1Q1/4P3/5N2/PPPP1PPP/RNB1K2R w KQkq - 0 7,Castle
+13,Bb3,d5b3,rnb1kb1r/3pqppp/p1p2n2/1p2p1Q1/4P3/1B3N2/PPPP1PPP/RNB1K2R b KQkq - 1 7,Castle
+14,Qd6,e7d6,rnb1kb1r/3p1ppp/p1pq1n2/1p2p1Q1/4P3/1B3N2/PPPP1PPP/RNB1K2R w KQkq - 2 8,Castle
+15,O-O,e1g1,rnb1kb1r/3p1ppp/p1pq1n2/1p2p1Q1/4P3/1B3N2/PPPP1PPP/RNB2RK1 b kq - 3 8,Castle
+16,Qe7,d6e7,rnb1kb1r/3pqppp/p1p2n2/1p2p1Q1/4P3/1B3N2/PPPP1PPP/RNB2RK1 w kq - 4 9,Queens bishop has an open line
+17,d3,d2d3,rnb1kb1r/3pqppp/p1p2n2/1p2p1Q1/4P3/1B1P1N2/PPP2PPP/RNB2RK1 b kq - 0 9,Queens bishop has an open line
+18,d6,d7d6,rnb1kb1r/4qppp/p1pp1n2/1p2p1Q1/4P3/1B1P1N2/PPP2PPP/RNB2RK1 w kq - 0 10,Pawn trade...
+19,Nc3,b1c3,rnb1kb1r/4qppp/p1pp1n2/1p2p1Q1/4P3/1BNP1N2/PPP2PPP/R1B2RK1 b kq - 1 10,Pawn trade...
+20,d5,d6d5,rnb1kb1r/4qppp/p1p2n2/1p1pp1Q1/4P3/1BNP1N2/PPP2PPP/R1B2RK1 w kq - 0 11,Pawn trade...
+21,exd5,e4d5,rnb1kb1r/4qppp/p1p2n2/1p1Pp1Q1/8/1BNP1N2/PPP2PPP/R1B2RK1 b kq - 0 11,Knight take it for another trade?
+22,cxd5,c6d5,rnb1kb1r/4qppp/p4n2/1p1pp1Q1/8/1BNP1N2/PPP2PPP/R1B2RK1 w kq - 0 12,Knight take it for another trade?
+23,Bxd5,b3d5,rnb1kb1r/4qppp/p4n2/1p1Bp1Q1/8/2NP1N2/PPP2PPP/R1B2RK1 b kq - 0 12,Knight take it for another trade?
+24,Ra7,a8a7,1nb1kb1r/r3qppp/p4n2/1p1Bp1Q1/8/2NP1N2/PPP2PPP/R1B2RK1 w k - 1 13,Knight take it for another trade?
+25,Qxe5,g5e5,1nb1kb1r/r3qppp/p4n2/1p1BQ3/8/2NP1N2/PPP2PPP/R1B2RK1 b k - 0 13,Queen trade?
+26,Be6,c8e6,1n2kb1r/r3qppp/p3bn2/1p1BQ3/8/2NP1N2/PPP2PPP/R1B2RK1 w k - 1 14,Free knight and fork
+27,Qxb8+,e5b8,1Q2kb1r/r3qppp/p3bn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 b k - 0 14,Checking spree
+28,Kd7,e8d7,1Q3b1r/r2kqppp/p3bn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 w - - 1 15,Checking spree
+29,Qxa7+,b8a7,5b1r/Q2kqppp/p3bn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 b - - 0 15,Checking spree
+30,Kd6,d7d6,5b1r/Q3qppp/p2kbn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 w - - 1 16,Bad move
+31,Qb6+,a7b6,5b1r/4qppp/pQ1kbn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 b - - 2 16,Bad move
+32,Kd7,d6d7,5b1r/3kqppp/pQ2bn2/1p1B4/8/2NP1N2/PPP2PPP/R1B2RK1 w - - 3 17,Bad move
+33,Bc6+,d5c6,5b1r/3kqppp/pQB1bn2/1p6/8/2NP1N2/PPP2PPP/R1B2RK1 b - - 4 17,Bad move
+34,Kd6,d7d6,5b1r/4qppp/pQBkbn2/1p6/8/2NP1N2/PPP2PPP/R1B2RK1 w - - 5 18,Bad move
+35,Bf4#,c1f4,5b1r/4qppp/pQBkbn2/1p6/5B2/2NP1N2/PPP2PPP/R4RK1 b - - 6 18,

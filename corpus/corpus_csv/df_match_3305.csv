@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"This is the gambit move. It's not a ""pure"" Krejcik, which properly arises after 1. d4 f5  2. g4, so perhaps this specific configuration should be called the Krejcik Gambit System or (pardon the shameless self-promotion) the ""Avocet Gambit.""  ;-)"
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"This is the gambit move. It's not a ""pure"" Krejcik, which properly arises after 1. d4 f5  2. g4, so perhaps this specific configuration should be called the Krejcik Gambit System or (pardon the shameless self-promotion) the ""Avocet Gambit.""  ;-)"
+3,g4,g2g4,rnbqkbnr/ppppp1pp/8/5p2/2P3P1/8/PP1PPP1P/RNBQKBNR b KQkq - 0 2,"This is the gambit move. It's not a ""pure"" Krejcik, which properly arises after 1. d4 f5  2. g4, so perhaps this specific configuration should be called the Krejcik Gambit System or (pardon the shameless self-promotion) the ""Avocet Gambit.""  ;-)"
+4,d5,d7d5,rnbqkbnr/ppp1p1pp/8/3p1p2/2P3P1/8/PP1PPP1P/RNBQKBNR w KQkq - 0 3,"Interesting. In many gambits Black's ""correct answer"" features ...d5 at some point, usually quickly after the gambit move."
+5,Bg2,f1g2,rnbqkbnr/ppp1p1pp/8/3p1p2/2P3P1/8/PP1PPPBP/RNBQK1NR b KQkq - 1 3,If 3. ...dc4 then 4.Qa4 --> Qc4 is a plausible response.
+6,c6,c7c6,rnbqkbnr/pp2p1pp/2p5/3p1p2/2P3P1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4,If 3. ...dc4 then 4.Qa4 --> Qc4 is a plausible response.
+7,cxd5,c4d5,rnbqkbnr/pp2p1pp/2p5/3P1p2/6P1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 4,Now everyone's pawns are bad ...but White's are just a little better.
+8,cxd5,c6d5,rnbqkbnr/pp2p1pp/8/3p1p2/6P1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 5,Now everyone's pawns are bad ...but White's are just a little better.
+9,gxf5,g4f5,rnbqkbnr/pp2p1pp/8/3p1P2/8/8/PP1PPPBP/RNBQK1NR b KQkq - 0 5,Now everyone's pawns are bad ...but White's are just a little better.
+10,Bxf5,c8f5,rn1qkbnr/pp2p1pp/8/3p1b2/8/8/PP1PPPBP/RNBQK1NR w KQkq - 0 6,Now everyone's pawns are bad ...but White's are just a little better.
+11,d3,d2d3,rn1qkbnr/pp2p1pp/8/3p1b2/8/3P4/PP2PPBP/RNBQK1NR b KQkq - 0 6,Now everyone's pawns are bad ...but White's are just a little better.
+12,Nf6,g8f6,rn1qkb1r/pp2p1pp/5n2/3p1b2/8/3P4/PP2PPBP/RNBQK1NR w KQkq - 1 7,Now everyone's pawns are bad ...but White's are just a little better.
+13,Qb3,d1b3,rn1qkb1r/pp2p1pp/5n2/3p1b2/8/1Q1P4/PP2PPBP/RNB1K1NR b KQkq - 2 7,Now everyone's pawns are bad ...but White's are just a little better.
+14,Qd7,d8d7,rn2kb1r/pp1qp1pp/5n2/3p1b2/8/1Q1P4/PP2PPBP/RNB1K1NR w KQkq - 3 8,Now everyone's pawns are bad ...but White's are just a little better.
+15,Bf4,c1f4,rn2kb1r/pp1qp1pp/5n2/3p1b2/5B2/1Q1P4/PP2PPBP/RN2K1NR b KQkq - 4 8,Now everyone's pawns are bad ...but White's are just a little better.
+16,e6,e7e6,rn2kb1r/pp1q2pp/4pn2/3p1b2/5B2/1Q1P4/PP2PPBP/RN2K1NR w KQkq - 0 9,Now everyone's pawns are bad ...but White's are just a little better.
+17,Nf3,g1f3,rn2kb1r/pp1q2pp/4pn2/3p1b2/5B2/1Q1P1N2/PP2PPBP/RN2K2R b KQkq - 1 9,Now everyone's pawns are bad ...but White's are just a little better.
+18,Nc6,b8c6,r3kb1r/pp1q2pp/2n1pn2/3p1b2/5B2/1Q1P1N2/PP2PPBP/RN2K2R w KQkq - 2 10,Now everyone's pawns are bad ...but White's are just a little better.
+19,Nh4,f3h4,r3kb1r/pp1q2pp/2n1pn2/3p1b2/5B1N/1Q1P4/PP2PPBP/RN2K2R b KQkq - 3 10,Now everyone's pawns are bad ...but White's are just a little better.
+20,Bg6,f5g6,r3kb1r/pp1q2pp/2n1pnb1/3p4/5B1N/1Q1P4/PP2PPBP/RN2K2R w KQkq - 4 11,Now everyone's pawns are bad ...but White's are just a little better.
+21,Nxg6,h4g6,r3kb1r/pp1q2pp/2n1pnN1/3p4/5B2/1Q1P4/PP2PPBP/RN2K2R b KQkq - 0 11,Now everyone's pawns are bad ...but White's are just a little better.
+22,hxg6,h7g6,r3kb1r/pp1q2p1/2n1pnp1/3p4/5B2/1Q1P4/PP2PPBP/RN2K2R w KQkq - 0 12,Impetuous.
+23,Nd2,b1d2,r3kb1r/pp1q2p1/2n1pnp1/3p4/5B2/1Q1P4/PP1NPPBP/R3K2R b KQkq - 1 12,Impetuous.
+24,Nd4,c6d4,r3kb1r/pp1q2p1/4pnp1/3p4/3n1B2/1Q1P4/PP1NPPBP/R3K2R w KQkq - 2 13,Impetuous.
+25,Qc3,b3c3,r3kb1r/pp1q2p1/4pnp1/3p4/3n1B2/2QP4/PP1NPPBP/R3K2R b KQkq - 3 13,Of course. There is no other square for the Knight to retreat to except the one it just came from.
+26,Nc6,d4c6,r3kb1r/pp1q2p1/2n1pnp1/3p4/5B2/2QP4/PP1NPPBP/R3K2R w KQkq - 4 14,Of course. There is no other square for the Knight to retreat to except the one it just came from.
+27,Rc1,a1c1,r3kb1r/pp1q2p1/2n1pnp1/3p4/5B2/2QP4/PP1NPPBP/2R1K2R b Kkq - 5 14,Now White's pawns look even better.
+28,Bd6,f8d6,r3k2r/pp1q2p1/2nbpnp1/3p4/5B2/2QP4/PP1NPPBP/2R1K2R w Kkq - 6 15,Now White's pawns look even better.
+29,Bg3,f4g3,r3k2r/pp1q2p1/2nbpnp1/3p4/8/2QP2B1/PP1NPPBP/2R1K2R b Kkq - 7 15,Now White's pawns look even better.
+30,Bxg3,d6g3,r3k2r/pp1q2p1/2n1pnp1/3p4/8/2QP2b1/PP1NPPBP/2R1K2R w Kkq - 0 16,Now White's pawns look even better.
+31,hxg3,h2g3,r3k2r/pp1q2p1/2n1pnp1/3p4/8/2QP2P1/PP1NPPB1/2R1K2R b Kkq - 0 16,Now White's pawns look even better.
+32,Rxh1+,h8h1,r3k3/pp1q2p1/2n1pnp1/3p4/8/2QP2P1/PP1NPPB1/2R1K2r w q - 0 17,Maintaining the pawn-strength in the center.
+33,Bxh1,g2h1,r3k3/pp1q2p1/2n1pnp1/3p4/8/2QP2P1/PP1NPP2/2R1K2B b q - 0 17,Maintaining the pawn-strength in the center.
+34,Rc8,a8c8,2r1k3/pp1q2p1/2n1pnp1/3p4/8/2QP2P1/PP1NPP2/2R1K2B w - - 1 18,Maintaining the pawn-strength in the center.
+35,Qb3,c3b3,2r1k3/pp1q2p1/2n1pnp1/3p4/8/1Q1P2P1/PP1NPP2/2R1K2B b - - 2 18,Maintaining the pawn-strength in the center.
+36,Nd4,c6d4,2r1k3/pp1q2p1/4pnp1/3p4/3n4/1Q1P2P1/PP1NPP2/2R1K2B w - - 3 19,Maintaining the pawn-strength in the center.
+37,Rxc8+,c1c8,2R1k3/pp1q2p1/4pnp1/3p4/3n4/1Q1P2P1/PP1NPP2/4K2B b - - 0 19,Maintaining the pawn-strength in the center.
+38,Qxc8,d7c8,2q1k3/pp4p1/4pnp1/3p4/3n4/1Q1P2P1/PP1NPP2/4K2B w - - 0 20,Maintaining the pawn-strength in the center.
+39,Qc3,b3c3,2q1k3/pp4p1/4pnp1/3p4/3n4/2QP2P1/PP1NPP2/4K2B b - - 1 20,Maintaining the pawn-strength in the center.
+40,Qxc3,c8c3,4k3/pp4p1/4pnp1/3p4/3n4/2qP2P1/PP1NPP2/4K2B w - - 0 21,Maintaining the pawn-strength in the center.
+41,bxc3,b2c3,4k3/pp4p1/4pnp1/3p4/3n4/2PP2P1/P2NPP2/4K2B b - - 0 21,Maintaining the pawn-strength in the center.
+42,Nb5,d4b5,4k3/pp4p1/4pnp1/1n1p4/8/2PP2P1/P2NPP2/4K2B w - - 1 22,Maintaining the pawn-strength in the center.
+43,c4,c3c4,4k3/pp4p1/4pnp1/1n1p4/2P5/3P2P1/P2NPP2/4K2B b - - 0 22,Maintaining the pawn-strength in the center.
+44,Nc3,b5c3,4k3/pp4p1/4pnp1/3p4/2P5/2nP2P1/P2NPP2/4K2B w - - 1 23,Maintaining the pawn-strength in the center.
+45,a3,a2a3,4k3/pp4p1/4pnp1/3p4/2P5/P1nP2P1/3NPP2/4K2B b - - 0 23,Maintaining the pawn-strength in the center.
+46,b6,b7b6,4k3/p5p1/1p2pnp1/3p4/2P5/P1nP2P1/3NPP2/4K2B w - - 0 24,Maintaining the pawn-strength in the center.
+47,cxd5,c4d5,4k3/p5p1/1p2pnp1/3P4/8/P1nP2P1/3NPP2/4K2B b - - 0 24,Maintaining the pawn-strength in the center.
+48,exd5,e6d5,4k3/p5p1/1p3np1/3p4/8/P1nP2P1/3NPP2/4K2B w - - 0 25,Maintaining the pawn-strength in the center.
+49,e4,e2e4,4k3/p5p1/1p3np1/3p4/4P3/P1nP2P1/3N1P2/4K2B b - - 0 25,Maintaining the pawn-strength in the center.
+50,dxe4,d5e4,4k3/p5p1/1p3np1/8/4p3/P1nP2P1/3N1P2/4K2B w - - 0 26,Maintaining the pawn-strength in the center.
+51,dxe4,d3e4,4k3/p5p1/1p3np1/8/4P3/P1n3P1/3N1P2/4K2B b - - 0 26,Maintaining the pawn-strength in the center.
+52,Ke7,e8e7,8/p3k1p1/1p3np1/8/4P3/P1n3P1/3N1P2/4K2B w - - 1 27,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+53,f4,f2f4,8/p3k1p1/1p3np1/8/4PP2/P1n3P1/3N4/4K2B b - - 0 27,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+54,Nh5,f6h5,8/p3k1p1/1p4p1/7n/4PP2/P1n3P1/3N4/4K2B w - - 1 28,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+55,Kf2,e1f2,8/p3k1p1/1p4p1/7n/4PP2/P1n3P1/3N1K2/7B b - - 2 28,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+56,Ke6,e7e6,8/p5p1/1p2k1p1/7n/4PP2/P1n3P1/3N1K2/7B w - - 3 29,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+57,Nc4,d2c4,8/p5p1/1p2k1p1/7n/2N1PP2/P1n3P1/5K2/7B b - - 4 29,"?! -- Good idea, wrong moment. This should have been prepared-for with Bf3 threatening to snap off the h5N at an opportune moment, or 29. e5 followed by Bf3, and *then* Nc4."
+58,Nb1,c3b1,8/p5p1/1p2k1p1/7n/2N1PP2/P5P1/5K2/1n5B w - - 5 30,?? -- Nothing but a blunder. Better was 30. a4.
+59,Ke3,f2e3,8/p5p1/1p2k1p1/7n/2N1PP2/P3K1P1/8/1n5B b - - 6 30,?? -- Nothing but a blunder. Better was 30. a4.
+60,b5,b6b5,8/p5p1/4k1p1/1p5n/2N1PP2/P3K1P1/8/1n5B w - - 0 31,"This was the idea behind Nc4, to win Black's K-side pawns. But my previous blunder, hanging two pawns, had me pretty depressed at this point; I was just about ready to resign."
+61,Ne5,c4e5,8/p5p1/4k1p1/1p2N2n/4PP2/P3K1P1/8/1n5B b - - 1 31,"This was the idea behind Nc4, to win Black's K-side pawns. But my previous blunder, hanging two pawns, had me pretty depressed at this point; I was just about ready to resign."
+62,Nxa3,b1a3,8/p5p1/4k1p1/1p2N2n/4PP2/n3K1P1/8/7B w - - 0 32,"However, that was the wrong pawn to take. White's a-pawn isn't going anywhere, and ... Ng3 captures with tempo."
+63,g4,g3g4,8/p5p1/4k1p1/1p2N2n/4PPP1/n3K3/8/7B b - - 0 32,"? -- Still trying to lose. Instead, an immediate 33. g5 had a nasty little bite to it, without dropping a pawn."
+64,Nf6,h5f6,8/p5p1/4knp1/1p2N3/4PPP1/n3K3/8/7B w - - 1 33,"? -- Still trying to lose. Instead, an immediate 33. g5 had a nasty little bite to it, without dropping a pawn."
+65,Nxg6,e5g6,8/p5p1/4knN1/1p6/4PPP1/n3K3/8/7B b - - 0 33,"? -- Still trying to lose. Instead, an immediate 33. g5 had a nasty little bite to it, without dropping a pawn."
+66,Nxg4+,f6g4,8/p5p1/4k1N1/1p6/4PPn1/n3K3/8/7B w - - 0 34,?? -- Amazingly this rather natural-looking move almost loses by force. The correct move was 35. ...Nh6.
+67,Kd4,e3d4,8/p5p1/4k1N1/1p6/3KPPn1/n7/8/7B b - - 1 34,?? -- Amazingly this rather natural-looking move almost loses by force. The correct move was 35. ...Nh6.
+68,a5,a7a5,8/6p1/4k1N1/pp6/3KPPn1/n7/8/7B w - - 0 35,?? -- Amazingly this rather natural-looking move almost loses by force. The correct move was 35. ...Nh6.
+69,e5,e4e5,8/6p1/4k1N1/pp2P3/3K1Pn1/n7/8/7B b - - 0 35,?? -- Amazingly this rather natural-looking move almost loses by force. The correct move was 35. ...Nh6.
+70,Kf5,e6f5,8/6p1/6N1/pp2Pk2/3K1Pn1/n7/8/7B w - - 1 36,?? -- Amazingly this rather natural-looking move almost loses by force. The correct move was 35. ...Nh6.
+71,Be4+,h1e4,8/6p1/6N1/pp2Pk2/3KBPn1/n7/8/8 b - - 2 36,"! - Simple, obvious, and strong."
+72,Ke6,f5e6,8/6p1/4k1N1/pp2P3/3KBPn1/n7/8/8 w - - 3 37,"Chessplayers have a tendency to forget that in conjunction with marching pawns, the Bishop-Knight tandem can be a powerful attacking duo."
+73,f5+,f4f5,8/6p1/4k1N1/pp2PP2/3KB1n1/n7/8/8 b - - 0 37,"Chessplayers have a tendency to forget that in conjunction with marching pawns, the Bishop-Knight tandem can be a powerful attacking duo."
+74,Kf7,e6f7,8/5kp1/6N1/pp2PP2/3KB1n1/n7/8/8 w - - 1 38,"Chessplayers have a tendency to forget that in conjunction with marching pawns, the Bishop-Knight tandem can be a powerful attacking duo."
+75,e6+,e5e6,8/5kp1/4P1N1/pp3P2/3KB1n1/n7/8/8 b - - 0 38,"Chessplayers have a tendency to forget that in conjunction with marching pawns, the Bishop-Knight tandem can be a powerful attacking duo."
+76,Ke8,f7e8,4k3/6p1/4P1N1/pp3P2/3KB1n1/n7/8/8 w - - 1 39,"?? -- Loses instantly. The correct move was 38. ...Kg8!! which looks awful but seems a hard nut to crack. In fact, White may have no better than a perpetual with 39. Ne7 Kf8  40. Ng6 etc."
+77,Bc6+,e4c6,4k3/6p1/2B1P1N1/pp3P2/3K2n1/n7/8/8 b - - 2 39,Black resigns. 39. ...Kd8  40. e7+ Kc7  41. e8=Q as too much.
+78,Kd8,e8d8,3k4/6p1/2B1P1N1/pp3P2/3K2n1/n7/8/8 w - - 3 40,
+79,e7+,e6e7,3k4/4P1p1/2B3N1/pp3P2/3K2n1/n7/8/8 b - - 0 40,
+80,Kc7,d8c7,8/2k1P1p1/2B3N1/pp3P2/3K2n1/n7/8/8 w - - 1 41,

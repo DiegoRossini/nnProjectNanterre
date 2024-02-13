@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This move is ok, but it is less aggressive and locks the DSB in."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"This move is ok, but it is less aggressive and locks the DSB in."
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,"This move is ok, but it is less aggressive and locks the DSB in."
+4,d6,d7d6,rnbqkb1r/ppp1pppp/3p1n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"This move is ok, but it is less aggressive and locks the DSB in."
+5,c4,c2c4,rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,"This move is ok, but it is less aggressive and locks the DSB in."
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 1 4,"This move is ok, but it is less aggressive and locks the DSB in."
+7,Nc3,b1c3,r1bqkb1r/pppnpppp/3p1n2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 2 4,"This move is ok, but it is less aggressive and locks the DSB in."
+8,e5,e7e5,r1bqkb1r/pppn1ppp/3p1n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,"This move is ok, but it is less aggressive and locks the DSB in."
+9,dxe5,d4e5,r1bqkb1r/pppn1ppp/3p1n2/4P3/2P5/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5,"This move is ok, but it is less aggressive and locks the DSB in."
+10,dxe5,d6e5,r1bqkb1r/pppn1ppp/5n2/4p3/2P5/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6,"This move is ok, but it is less aggressive and locks the DSB in."
+11,Bg5,c1g5,r1bqkb1r/pppn1ppp/5n2/4p1B1/2P5/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 6,"This move is ok, but it is less aggressive and locks the DSB in."
+12,Be7,f8e7,r1bqk2r/pppnbppp/5n2/4p1B1/2P5/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7,"This move is ok, but it is less aggressive and locks the DSB in."
+13,e3,e2e3,r1bqk2r/pppnbppp/5n2/4p1B1/2P5/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7,"This move is ok, but it is less aggressive and locks the DSB in."
+14,c6,c7c6,r1bqk2r/pp1nbppp/2p2n2/4p1B1/2P5/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 8,"Black wants White to take the time to drive off the Q, hoping to gain time for a kingside attack."
+15,Bd3,f1d3,r1bqk2r/pp1nbppp/2p2n2/4p1B1/2P5/2NBPN2/PP3PPP/R2QK2R b KQkq - 1 8,"Black wants White to take the time to drive off the Q, hoping to gain time for a kingside attack."
+16,h6,h7h6,r1bqk2r/pp1nbpp1/2p2n1p/4p1B1/2P5/2NBPN2/PP3PPP/R2QK2R w KQkq - 0 9,"Black wants White to take the time to drive off the Q, hoping to gain time for a kingside attack."
+17,Bh4,g5h4,r1bqk2r/pp1nbpp1/2p2n1p/4p3/2P4B/2NBPN2/PP3PPP/R2QK2R b KQkq - 1 9,"Black wants White to take the time to drive off the Q, hoping to gain time for a kingside attack."
+18,Qa5,d8a5,r1b1k2r/pp1nbpp1/2p2n1p/q3p3/2P4B/2NBPN2/PP3PPP/R2QK2R w KQkq - 2 10,"Black wants White to take the time to drive off the Q, hoping to gain time for a kingside attack."
+19,O-O,e1g1,r1b1k2r/pp1nbpp1/2p2n1p/q3p3/2P4B/2NBPN2/PP3PPP/R2Q1RK1 b kq - 3 10,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+20,g5,g7g5,r1b1k2r/pp1nbp2/2p2n1p/q3p1p1/2P4B/2NBPN2/PP3PPP/R2Q1RK1 w kq - 0 11,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+21,Bg3,h4g3,r1b1k2r/pp1nbp2/2p2n1p/q3p1p1/2P5/2NBPNB1/PP3PPP/R2Q1RK1 b kq - 1 11,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+22,Nh5,f6h5,r1b1k2r/pp1nbp2/2p4p/q3p1pn/2P5/2NBPNB1/PP3PPP/R2Q1RK1 w kq - 2 12,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+23,Ne2,c3e2,r1b1k2r/pp1nbp2/2p4p/q3p1pn/2P5/3BPNB1/PP2NPPP/R2Q1RK1 b kq - 3 12,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+24,O-O,e8g8,r1b2rk1/pp1nbp2/2p4p/q3p1pn/2P5/3BPNB1/PP2NPPP/R2Q1RK1 w - - 4 13,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+25,h3,h2h3,r1b2rk1/pp1nbp2/2p4p/q3p1pn/2P5/3BPNBP/PP2NPP1/R2Q1RK1 b - - 0 13,Hopes to retreat the Bishop. But Black has now prepared for ...f5
+26,f5,f7f5,r1b2rk1/pp1nb3/2p4p/q3pppn/2P5/3BPNBP/PP2NPP1/R2Q1RK1 w - - 0 14,"?? Loses a piece, and the opened Kingside is not sufficient compensation."
+27,Bh2,g3h2,r1b2rk1/pp1nb3/2p4p/q3pppn/2P5/3BPN1P/PP2NPPB/R2Q1RK1 b - - 1 14,"?? Loses a piece, and the opened Kingside is not sufficient compensation."
+28,e4,e5e4,r1b2rk1/pp1nb3/2p4p/q4ppn/2P1p3/3BPN1P/PP2NPPB/R2Q1RK1 w - - 0 15,Black now has a strong attack with 2 bishops as well as material advantage.
+29,Bxe4,d3e4,r1b2rk1/pp1nb3/2p4p/q4ppn/2P1B3/4PN1P/PP2NPPB/R2Q1RK1 b - - 0 15,Black now has a strong attack with 2 bishops as well as material advantage.
+30,fxe4,f5e4,r1b2rk1/pp1nb3/2p4p/q5pn/2P1p3/4PN1P/PP2NPPB/R2Q1RK1 w - - 0 16,Black now has a strong attack with 2 bishops as well as material advantage.
+31,Nfd4,f3d4,r1b2rk1/pp1nb3/2p4p/q5pn/2PNp3/4P2P/PP2NPPB/R2Q1RK1 b - - 1 16,Black now has a strong attack with 2 bishops as well as material advantage.
+32,Ng7,h5g7,r1b2rk1/pp1nb1n1/2p4p/q5p1/2PNp3/4P2P/PP2NPPB/R2Q1RK1 w - - 2 17,Black now has a strong attack with 2 bishops as well as material advantage.
+33,a3,a2a3,r1b2rk1/pp1nb1n1/2p4p/q5p1/2PNp3/P3P2P/1P2NPPB/R2Q1RK1 b - - 0 17,Black now has a strong attack with 2 bishops as well as material advantage.
+34,Bf6,e7f6,r1b2rk1/pp1n2n1/2p2b1p/q5p1/2PNp3/P3P2P/1P2NPPB/R2Q1RK1 w - - 1 18,Black now has a strong attack with 2 bishops as well as material advantage.
+35,b4,b2b4,r1b2rk1/pp1n2n1/2p2b1p/q5p1/1PPNp3/P3P2P/4NPPB/R2Q1RK1 b - - 0 18,Black now has a strong attack with 2 bishops as well as material advantage.
+36,Qd8,a5d8,r1bq1rk1/pp1n2n1/2p2b1p/6p1/1PPNp3/P3P2P/4NPPB/R2Q1RK1 w - - 1 19,Black now has a strong attack with 2 bishops as well as material advantage.
+37,c5,c4c5,r1bq1rk1/pp1n2n1/2p2b1p/2P3p1/1P1Np3/P3P2P/4NPPB/R2Q1RK1 b - - 0 19,Black now has a strong attack with 2 bishops as well as material advantage.
+38,Ne5,d7e5,r1bq1rk1/pp4n1/2p2b1p/2P1n1p1/1P1Np3/P3P2P/4NPPB/R2Q1RK1 w - - 1 20,Black now has a strong attack with 2 bishops as well as material advantage.
+39,Bxe5,h2e5,r1bq1rk1/pp4n1/2p2b1p/2P1B1p1/1P1Np3/P3P2P/4NPP1/R2Q1RK1 b - - 0 20,Black now has a strong attack with 2 bishops as well as material advantage.
+40,Bxe5,f6e5,r1bq1rk1/pp4n1/2p4p/2P1b1p1/1P1Np3/P3P2P/4NPP1/R2Q1RK1 w - - 0 21,Black now has a strong attack with 2 bishops as well as material advantage.
+41,Ra2,a1a2,r1bq1rk1/pp4n1/2p4p/2P1b1p1/1P1Np3/P3P2P/R3NPP1/3Q1RK1 b - - 1 21,Begining a plan to open up the Kingside by force.
+42,Qf6,d8f6,r1b2rk1/pp4n1/2p2q1p/2P1b1p1/1P1Np3/P3P2P/R3NPP1/3Q1RK1 w - - 2 22,Begining a plan to open up the Kingside by force.
+43,Rd2,a2d2,r1b2rk1/pp4n1/2p2q1p/2P1b1p1/1P1Np3/P3P2P/3RNPP1/3Q1RK1 b - - 3 22,Begining a plan to open up the Kingside by force.
+44,h5,h6h5,r1b2rk1/pp4n1/2p2q2/2P1b1pp/1P1Np3/P3P2P/3RNPP1/3Q1RK1 w - - 0 23,Begining a plan to open up the Kingside by force.
+45,Ng3,e2g3,r1b2rk1/pp4n1/2p2q2/2P1b1pp/1P1Np3/P3P1NP/3R1PP1/3Q1RK1 b - - 1 23,Preparing for ...g4
+46,Qg6,f6g6,r1b2rk1/pp4n1/2p3q1/2P1b1pp/1P1Np3/P3P1NP/3R1PP1/3Q1RK1 w - - 2 24,Preparing for ...g4
+47,Nge2,g3e2,r1b2rk1/pp4n1/2p3q1/2P1b1pp/1P1Np3/P3P2P/3RNPP1/3Q1RK1 b - - 3 24,Preparing for ...g4
+48,h4,h5h4,r1b2rk1/pp4n1/2p3q1/2P1b1p1/1P1Np2p/P3P2P/3RNPP1/3Q1RK1 w - - 0 25,Preparing for ...g4
+49,Kh1,g1h1,r1b2rk1/pp4n1/2p3q1/2P1b1p1/1P1Np2p/P3P2P/3RNPP1/3Q1R1K b - - 1 25,"!? The alternative, ...gxh3, was perfectly playable."
+50,g4,g5g4,r1b2rk1/pp4n1/2p3q1/2P1b3/1P1Np1pp/P3P2P/3RNPP1/3Q1R1K w - - 0 26,"!? The alternative, ...gxh3, was perfectly playable."
+51,Ng1,e2g1,r1b2rk1/pp4n1/2p3q1/2P1b3/1P1Np1pp/P3P2P/3R1PP1/3Q1RNK b - - 1 26,"!? The alternative, ...gxh3, was perfectly playable."
+52,Qg5,g6g5,r1b2rk1/pp4n1/2p5/2P1b1q1/1P1Np1pp/P3P2P/3R1PP1/3Q1RNK w - - 2 27,"!? The alternative, ...gxh3, was perfectly playable."
+53,hxg4,h3g4,r1b2rk1/pp4n1/2p5/2P1b1q1/1P1Np1Pp/P3P3/3R1PP1/3Q1RNK b - - 0 27,Otherwise ...g3 can be played.
+54,Bxg4,c8g4,r4rk1/pp4n1/2p5/2P1b1q1/1P1Np1bp/P3P3/3R1PP1/3Q1RNK w - - 0 28,! White loses more material by taking the bishop after ...RxR.
+55,f3,f2f3,r4rk1/pp4n1/2p5/2P1b1q1/1P1Np1bp/P3PP2/3R2P1/3Q1RNK b - - 0 28,! White loses more material by taking the bishop after ...RxR.
+56,Qxe3,g5e3,r4rk1/pp4n1/2p5/2P1b3/1P1Np1bp/P3qP2/3R2P1/3Q1RNK w - - 0 29,! White loses more material by taking the bishop after ...RxR.
+57,Re1,f1e1,r4rk1/pp4n1/2p5/2P1b3/1P1Np1bp/P3qP2/3R2P1/3QR1NK b - - 1 29,Threatens mate at h2.
+58,Qf4,e3f4,r4rk1/pp4n1/2p5/2P1b3/1P1Npqbp/P4P2/3R2P1/3QR1NK w - - 2 30,Threatens mate at h2.
+59,g3,g2g3,r4rk1/pp4n1/2p5/2P1b3/1P1Npqbp/P4PP1/3R4/3QR1NK b - - 0 30,Forced.
+60,hxg3,h4g3,r4rk1/pp4n1/2p5/2P1b3/1P1Npqb1/P4Pp1/3R4/3QR1NK w - - 0 31,"Wins the bishop back, but mate follows"
+61,fxg4,f3g4,r4rk1/pp4n1/2p5/2P1b3/1P1NpqP1/P5p1/3R4/3QR1NK b - - 0 31,"Wins the bishop back, but mate follows"
+62,Qh6+,f4h6,r4rk1/pp4n1/2p4q/2P1b3/1P1Np1P1/P5p1/3R4/3QR1NK w - - 1 32,White resigns.

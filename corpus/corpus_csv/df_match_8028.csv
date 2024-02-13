@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This is my first annotation, so bear with me :)"
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"This is an opening I've used when I first started playing chess, but I've stopped using it because there are much better openings"
+3,e3,e2e3,rnbqkbnr/p1pppppp/1p6/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"This is an opening I've used when I first started playing chess, but I've stopped using it because there are much better openings"
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3,"This is an opening I've used when I first started playing chess, but I've stopped using it because there are much better openings"
+5,Nf3,g1f3,rn1qkbnr/pbpppppp/1p6/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 2 3,like what my opponent's doing... right now he probably has better control of the centre
+6,g6,g7g6,rn1qkbnr/pbpppp1p/1p4p1/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,I do the same thing on the left side
+7,Bc4,f1c4,rn1qkbnr/pbpppp1p/1p4p1/8/2BP4/4PN2/PPP2PPP/RNBQK2R b KQkq - 1 4,I do the same thing on the left side
+8,Bg7,f8g7,rn1qk1nr/pbppppbp/1p4p1/8/2BP4/4PN2/PPP2PPP/RNBQK2R w KQkq - 2 5,I do the same thing on the left side
+9,O-O,e1g1,rn1qk1nr/pbppppbp/1p4p1/8/2BP4/4PN2/PPP2PPP/RNBQ1RK1 b kq - 3 5,This is another reason - that knight doesn't have a lot of places to go
+10,Na6,b8a6,r2qk1nr/pbppppbp/np4p1/8/2BP4/4PN2/PPP2PPP/RNBQ1RK1 w kq - 4 6,This is another reason - that knight doesn't have a lot of places to go
+11,Nh4,f3h4,r2qk1nr/pbppppbp/np4p1/8/2BP3N/4P3/PPP2PPP/RNBQ1RK1 b kq - 5 6,"again, same on both sides"
+12,Nh6,g8h6,r2qk2r/pbppppbp/np4pn/8/2BP3N/4P3/PPP2PPP/RNBQ1RK1 w kq - 6 7,"again, same on both sides"
+13,Nc3,b1c3,r2qk2r/pbppppbp/np4pn/8/2BP3N/2N1P3/PPP2PPP/R1BQ1RK1 b kq - 7 7,although this will bring a strong attack if I can free my main pieces...
+14,O-O,e8g8,r2q1rk1/pbppppbp/np4pn/8/2BP3N/2N1P3/PPP2PPP/R1BQ1RK1 w - - 8 8,although this will bring a strong attack if I can free my main pieces...
+15,e4,e3e4,r2q1rk1/pbppppbp/np4pn/8/2BPP2N/2N5/PPP2PPP/R1BQ1RK1 b - - 0 8,although this will bring a strong attack if I can free my main pieces...
+16,Rc8,a8c8,2rq1rk1/pbppppbp/np4pn/8/2BPP2N/2N5/PPP2PPP/R1BQ1RK1 w - - 1 9,although this will bring a strong attack if I can free my main pieces...
+17,f4,f2f4,2rq1rk1/pbppppbp/np4pn/8/2BPPP1N/2N5/PPP3PP/R1BQ1RK1 b - - 0 9,my opponent STILL has a strong centre
+18,e6,e7e6,2rq1rk1/pbpp1pbp/np2p1pn/8/2BPPP1N/2N5/PPP3PP/R1BQ1RK1 w - - 0 10,Finally starting to develop my centre pawn pieces
+19,Nb5,c3b5,2rq1rk1/pbpp1pbp/np2p1pn/1N6/2BPPP1N/8/PPP3PP/R1BQ1RK1 b - - 1 10,"yes, the white knight can attack the a7 pawn..."
+20,c6,c7c6,2rq1rk1/pb1p1pbp/npp1p1pn/1N6/2BPPP1N/8/PPP3PP/R1BQ1RK1 w - - 0 11,"yes, the white knight can attack the a7 pawn..."
+21,Nxa7,b5a7,2rq1rk1/Nb1p1pbp/npp1p1pn/8/2BPPP1N/8/PPP3PP/R1BQ1RK1 b - - 0 11,but that's a big mistake for white!
+22,Ra8,c8a8,r2q1rk1/Nb1p1pbp/npp1p1pn/8/2BPPP1N/8/PPP3PP/R1BQ1RK1 w - - 1 12,White's knight is doomed!
+23,Nxc6,a7c6,r2q1rk1/1b1p1pbp/npN1p1pn/8/2BPPP1N/8/PPP3PP/R1BQ1RK1 b - - 0 12,might as well take a piece before it dies....
+24,dxc6,d7c6,r2q1rk1/1b3pbp/npp1p1pn/8/2BPPP1N/8/PPP3PP/R1BQ1RK1 w - - 0 13,"I guess I could have attacked with the bishop as well, but it could lead to me wasting turns running away from White's pawns"
+25,Nf3,h4f3,r2q1rk1/1b3pbp/npp1p1pn/8/2BPPP2/5N2/PPP3PP/R1BQ1RK1 b - - 1 13,trying to trade pawns while I have the piece advantage.... but I don't know enough about positioning to comment on that
+26,c5,c6c5,r2q1rk1/1b3pbp/np2p1pn/2p5/2BPPP2/5N2/PPP3PP/R1BQ1RK1 w - - 0 14,trying to trade pawns while I have the piece advantage.... but I don't know enough about positioning to comment on that
+27,e5,e4e5,r2q1rk1/1b3pbp/np2p1pn/2p1P3/2BP1P2/5N2/PPP3PP/R1BQ1RK1 b - - 0 14,my opponene declined...
+28,Nb4,a6b4,r2q1rk1/1b3pbp/1p2p1pn/2p1P3/1nBP1P2/5N2/PPP3PP/R1BQ1RK1 w - - 1 15,so I ignored it as well
+29,a3,a2a3,r2q1rk1/1b3pbp/1p2p1pn/2p1P3/1nBP1P2/P4N2/1PP3PP/R1BQ1RK1 b - - 0 15,I have to open up some possibilities here
+30,Nd5,b4d5,r2q1rk1/1b3pbp/1p2p1pn/2pnP3/2BP1P2/P4N2/1PP3PP/R1BQ1RK1 w - - 1 16,I have to open up some possibilities here
+31,Qd3,d1d3,r2q1rk1/1b3pbp/1p2p1pn/2pnP3/2BP1P2/P2Q1N2/1PP3PP/R1B2RK1 b - - 2 16,I have to open up some possibilities here
+32,f6,f7f6,r2q1rk1/1b4bp/1p2pppn/2pnP3/2BP1P2/P2Q1N2/1PP3PP/R1B2RK1 w - - 0 17,I have to open up some possibilities here
+33,dxc5,d4c5,r2q1rk1/1b4bp/1p2pppn/2PnP3/2B2P2/P2Q1N2/1PP3PP/R1B2RK1 b - - 0 17,opponent finally decided to accept the trade
+34,bxc5,b6c5,r2q1rk1/1b4bp/4pppn/2pnP3/2B2P2/P2Q1N2/1PP3PP/R1B2RK1 w - - 0 18,opponent finally decided to accept the trade
+35,Qb3,d3b3,r2q1rk1/1b4bp/4pppn/2pnP3/2B2P2/PQ3N2/1PP3PP/R1B2RK1 b - - 1 18,Damn... I should have seen this... but I guess that's the difference between a 1000-point player and a 2000 point player
+36,Nf5,h6f5,r2q1rk1/1b4bp/4ppp1/2pnPn2/2B2P2/PQ3N2/1PP3PP/R1B2RK1 w - - 2 19,Damn... I should have seen this... but I guess that's the difference between a 1000-point player and a 2000 point player
+37,Qxb7,b3b7,r2q1rk1/1Q4bp/4ppp1/2pnPn2/2B2P2/P4N2/1PP3PP/R1B2RK1 b - - 0 19,Damn... I should have seen this... but I guess that's the difference between a 1000-point player and a 2000 point player

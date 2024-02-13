@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings Pawn opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Centre Counter
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Centre Counter
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Developing at the queen's expense.
+5,Qxd4,d1d4,rnbqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,Developing at the queen's expense.
+6,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,Developing at the queen's expense.
+7,Qe3,d4e3,r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq - 2 4,Maybe it was better to avoid weakening the kingside and to defend the pawn with Nc3 or Bd3. This has the added bonus of developing.
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/8/4P3/4Q3/PPP2PPP/RNB1KBNR w KQkq - 3 5,Maybe it was better to avoid weakening the kingside and to defend the pawn with Nc3 or Bd3. This has the added bonus of developing.
+9,f3,f2f3,r1bqkb1r/pppp1ppp/2n2n2/8/4P3/4QP2/PPP3PP/RNB1KBNR b KQkq - 0 5,Maybe it was better to avoid weakening the kingside and to defend the pawn with Nc3 or Bd3. This has the added bonus of developing.
+10,Be7,f8e7,r1bqk2r/ppppbppp/2n2n2/8/4P3/4QP2/PPP3PP/RNB1KBNR w KQkq - 1 6,Falling further behind in development. This square belongs to the knight.
+11,c3,c2c3,r1bqk2r/ppppbppp/2n2n2/8/4P3/2P1QP2/PP4PP/RNB1KBNR b KQkq - 0 6,Falling further behind in development. This square belongs to the knight.
+12,O-O,e8g8,r1bq1rk1/ppppbppp/2n2n2/8/4P3/2P1QP2/PP4PP/RNB1KBNR w KQ - 1 7,"Still refusing to develop, and this will prove diastrous if black manages to open up the game quickly, which I did."
+13,g3,g2g3,r1bq1rk1/ppppbppp/2n2n2/8/4P3/2P1QPP1/PP5P/RNB1KBNR b KQ - 0 7,"Still refusing to develop, and this will prove diastrous if black manages to open up the game quickly, which I did."
+14,Re8,f8e8,r1bqr1k1/ppppbppp/2n2n2/8/4P3/2P1QPP1/PP5P/RNB1KBNR w KQ - 1 8,Creating the threat of d5. The queen and king being on the same file allows some tactical ideas.
+15,Bh3,f1h3,r1bqr1k1/ppppbppp/2n2n2/8/4P3/2P1QPPB/PP5P/RNB1K1NR b KQ - 2 8,"Finally developing a piece, but it may already be too late."
+16,d5,d7d5,r1bqr1k1/ppp1bppp/2n2n2/3p4/4P3/2P1QPPB/PP5P/RNB1K1NR w KQ - 0 9,Falling for the trick. Nd2 trying to holsd the pawn would have been better.
+17,e5,e4e5,r1bqr1k1/ppp1bppp/2n2n2/3pP3/8/2P1QPPB/PP5P/RNB1K1NR b KQ - 0 9,Falling for the trick. Nd2 trying to holsd the pawn would have been better.
+18,Nxe5,c6e5,r1bqr1k1/ppp1bppp/5n2/3pn3/8/2P1QPPB/PP5P/RNB1K1NR w KQ - 0 10,"Due to the potential king and queen pin, the knight shouldnt be taken."
+19,Bxc8,h3c8,r1Bqr1k1/ppp1bppp/5n2/3pn3/8/2P1QPP1/PP5P/RNB1K1NR b KQ - 0 10,"After the tactical skirmish, black is only a pawn up, but his supeior development and the activity of the pieces virtually guarantee a win."
+20,Qxc8,d8c8,r1q1r1k1/ppp1bppp/5n2/3pn3/8/2P1QPP1/PP5P/RNB1K1NR w KQ - 0 11,"After the tactical skirmish, black is only a pawn up, but his supeior development and the activity of the pieces virtually guarantee a win."
+21,Ne2,g1e2,r1q1r1k1/ppp1bppp/5n2/3pn3/8/2P1QPP1/PP2N2P/RNB1K2R b KQ - 1 11,"After the tactical skirmish, black is only a pawn up, but his supeior development and the activity of the pieces virtually guarantee a win."
+22,Nc4,e5c4,r1q1r1k1/ppp1bppp/5n2/3p4/2n5/2P1QPP1/PP2N2P/RNB1K2R w KQ - 2 12,Preventing the king from castling as well as eying up some some nice squares in the white camp.
+23,Qd3,e3d3,r1q1r1k1/ppp1bppp/5n2/3p4/2n5/2PQ1PP1/PP2N2P/RNB1K2R b KQ - 3 12,Preventing the king from castling as well as eying up some some nice squares in the white camp.
+24,Bc5,e7c5,r1q1r1k1/ppp2ppp/5n2/2bp4/2n5/2PQ1PP1/PP2N2P/RNB1K2R w KQ - 4 13,Preventing the king from castling as well as eying up some some nice squares in the white camp.
+25,Na3,b1a3,r1q1r1k1/ppp2ppp/5n2/2bp4/2n5/N1PQ1PP1/PP2N2P/R1B1K2R b KQ - 5 13,Penetrating the white camp.
+26,Ne3,c4e3,r1q1r1k1/ppp2ppp/5n2/2bp4/8/N1PQnPP1/PP2N2P/R1B1K2R w KQ - 6 14,Penetrating the white camp.
+27,Bxe3,c1e3,r1q1r1k1/ppp2ppp/5n2/2bp4/8/N1PQBPP1/PP2N2P/R3K2R b KQ - 0 14,White cant castle as the knight on e2 will fall.
+28,Rxe3,e8e3,r1q3k1/ppp2ppp/5n2/2bp4/8/N1PQrPP1/PP2N2P/R3K2R w KQ - 0 15,White cant castle as the knight on e2 will fall.
+29,Qd2,d3d2,r1q3k1/ppp2ppp/5n2/2bp4/8/N1P1rPP1/PP1QN2P/R3K2R b KQ - 1 15,White cant castle as the knight on e2 will fall.
+30,Qe6,c8e6,r5k1/ppp2ppp/4qn2/2bp4/8/N1P1rPP1/PP1QN2P/R3K2R w KQ - 2 16,White cant castle as the knight on e2 will fall.
+31,Nc2,a3c2,r5k1/ppp2ppp/4qn2/2bp4/8/2P1rPP1/PPNQN2P/R3K2R b KQ - 3 16,Trying to force the rook away.
+32,Re5,e3e5,r5k1/ppp2ppp/4qn2/2bpr3/8/2P2PP1/PPNQN2P/R3K2R w KQ - 4 17,But it still has this square where it cant be touched.
+33,f4,f3f4,r5k1/ppp2ppp/4qn2/2bpr3/5P2/2P3P1/PPNQN2P/R3K2R b KQ - 0 17,But it still has this square where it cant be touched.
+34,Re4,e5e4,r5k1/ppp2ppp/4qn2/2bp4/4rP2/2P3P1/PPNQN2P/R3K2R w KQ - 1 18,But it still has this square where it cant be touched.
+35,h3,h2h3,r5k1/ppp2ppp/4qn2/2bp4/4rP2/2P3PP/PPNQN3/R3K2R b KQ - 0 18,"White has been reduced to total passiveness, and black has as much time as he wants to try and finish the game off."
+36,Re8,a8e8,4r1k1/ppp2ppp/4qn2/2bp4/4rP2/2P3PP/PPNQN3/R3K2R w KQ - 1 19,Free knight.
+37,Rh2,h1h2,4r1k1/ppp2ppp/4qn2/2bp4/4rP2/2P3PP/PPNQN2R/R3K3 b Q - 2 19,Free knight.
+38,Nh5,f6h5,4r1k1/ppp2ppp/4q3/2bp3n/4rP2/2P3PP/PPNQN2R/R3K3 w Q - 3 20,Free knight.
+39,O-O-O,e1c1,4r1k1/ppp2ppp/4q3/2bp3n/4rP2/2P3PP/PPNQN2R/2KR4 b - - 4 20,Free knight.
+40,Rxe2,e4e2,4r1k1/ppp2ppp/4q3/2bp3n/5P2/2P3PP/PPNQr2R/2KR4 w - - 0 21,Free knight.
+41,Rxe2,h2e2,4r1k1/ppp2ppp/4q3/2bp3n/5P2/2P3PP/PPNQR3/2KR4 b - - 0 21,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+42,Qxe2,e6e2,4r1k1/ppp2ppp/8/2bp3n/5P2/2P3PP/PPNQq3/2KR4 w - - 0 22,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+43,Qxd5,d2d5,4r1k1/ppp2ppp/8/2bQ3n/5P2/2P3PP/PPN1q3/2KR4 b - - 0 22,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+44,Be3+,c5e3,4r1k1/ppp2ppp/8/3Q3n/5P2/2P1b1PP/PPN1q3/2KR4 w - - 1 23,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+45,Nxe3,c2e3,4r1k1/ppp2ppp/8/3Q3n/5P2/2P1N1PP/PP2q3/2KR4 b - - 0 23,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+46,Qxe3+,e2e3,4r1k1/ppp2ppp/8/3Q3n/5P2/2P1q1PP/PP6/2KR4 w - - 0 24,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+47,Kb1,c1b1,4r1k1/ppp2ppp/8/3Q3n/5P2/2P1q1PP/PP6/1K1R4 b - - 1 24,"Black still has to be careful as swapping the queens with Qe4  allows Qxe4 and Rd8, mating."
+48,Nxg3,h5g3,4r1k1/ppp2ppp/8/3Q4/5P2/2P1q1nP/PP6/1K1R4 w - - 0 25,Cheeky trap.
+49,Qd7,d5d7,4r1k1/pppQ1ppp/8/8/5P2/2P1q1nP/PP6/1K1R4 b - - 1 25,Cheeky trap.
+50,Ne2,g3e2,4r1k1/pppQ1ppp/8/8/5P2/2P1q2P/PP2n3/1K1R4 w - - 2 26,Cheeky trap.
+51,Qd8,d7d8,3Qr1k1/ppp2ppp/8/8/5P2/2P1q2P/PP2n3/1K1R4 b - - 3 26,Cheeky trap.

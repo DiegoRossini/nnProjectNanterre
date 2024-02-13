@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The most playable move all over the world. It is the best by test.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black answers symmetrically to challenge white's centre.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Inaccuracy. best is 3..exd4.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Inaccuracy. best is 3..exd4.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Inaccuracy. best is 3..exd4.
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Inaccuracy. best is 3..exd4.
+7,Bc4,f1c4,r1bqkbnr/ppp2ppp/2np4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 4,A mistake. Again best is : 4...exd4 (or) 4… Bg4 5. d5 Nd4 6. Be3 Nxf3+ 7. gxf3 Bd7 8. Nc3 Nf6 9. Rg1 Rg8 10. f4 exf4 11. Bxf4 Be7
+8,b6,b7b6,r1bqkbnr/p1p2ppp/1pnp4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,A mistake. Again best is : 4...exd4 (or) 4… Bg4 5. d5 Nd4 6. Be3 Nxf3+ 7. gxf3 Bd7 8. Nc3 Nf6 9. Rg1 Rg8 10. f4 exf4 11. Bxf4 Be7
+9,dxe5,d4e5,r1bqkbnr/p1p2ppp/1pnp4/4P3/2B1P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"if 5...Nxe5 6.Nxe5 dxe5 7.Bxf7+ Ke7 8.Qxd8+ wins a pawn. (of course 7...Kxf7?? loses after 8.Qxd8.)
+if 5...dxe5 6.Qxd8+ Nxd8 7.Nxe5. (or 6...Kxd8 7.Bxf7.)"
+10,a6,a7a6,r1bqkbnr/2p2ppp/ppnp4/4P3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,5...a6?? another mistake.  Best is : 5… Be6 6. Bb5 Bd7 7. Bg5 f6 8. exf6 Nxf6 9. O-O a6 10. Bc4 h6 11. Bxf6 Qxf6 12. Nc3 thought white has a clear advantage.
+11,Bxf7+,c4f7,r1bqkbnr/2p2Bpp/ppnp4/4P3/4P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 6,6.Bxf7!! This is white's best move.
+12,Kxf7,e8f7,r1bq1bnr/2p2kpp/ppnp4/4P3/4P3/5N2/PPP2PPP/RNBQK2R w KQ - 0 7,"Blunder 7… Ke7 8. Bg5+ Nf6 9. exf6+ gxf6 10. Qxc6 fxg5 11. Qxa8 Bg7 12. Nc3 g4 13. Nh4 Bxc3+ 14. bxc3 Kf7 15. Qd5+ Kg7 16. Qd4+ Qf6 17. O-O-O Qxd4
+ Best was 7...Be6 8.Qxc6 .Ne7 9. Ng5+ Kg8 10. Qc3 Qd7 11. exd6 cxd6 12. Qd4 b5 13. Nxe6 Qxe6 14. Nc3 Nf5 15. Qd5"
+13,Qd5+,d1d5,r1bq1bnr/2p2kpp/ppnp4/3QP3/4P3/5N2/PPP2PPP/RNB1K2R b KQ - 1 7,"Blunder 7… Ke7 8. Bg5+ Nf6 9. exf6+ gxf6 10. Qxc6 fxg5 11. Qxa8 Bg7 12. Nc3 g4 13. Nh4 Bxc3+ 14. bxc3 Kf7 15. Qd5+ Kg7 16. Qd4+ Qf6 17. O-O-O Qxd4
+ Best was 7...Be6 8.Qxc6 .Ne7 9. Ng5+ Kg8 10. Qc3 Qd7 11. exd6 cxd6 12. Qd4 b5 13. Nxe6 Qxe6 14. Nc3 Nf5 15. Qd5"
+14,Ke7,f7e7,r1bq1bnr/2p1k1pp/ppnp4/3QP3/4P3/5N2/PPP2PPP/RNB1K2R w KQ - 2 8,"Blunder 7… Ke7 8. Bg5+ Nf6 9. exf6+ gxf6 10. Qxc6 fxg5 11. Qxa8 Bg7 12. Nc3 g4 13. Nh4 Bxc3+ 14. bxc3 Kf7 15. Qd5+ Kg7 16. Qd4+ Qf6 17. O-O-O Qxd4
+ Best was 7...Be6 8.Qxc6 .Ne7 9. Ng5+ Kg8 10. Qc3 Qd7 11. exd6 cxd6 12. Qd4 b5 13. Nxe6 Qxe6 14. Nc3 Nf5 15. Qd5"
+15,Bg5+,c1g5,r1bq1bnr/2p1k1pp/ppnp4/3QP1B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 3 8,Another blunder 8...Kd7??? black should have played 8...Nf6 9.Qxc6 Bd7 10.Qc3 followed by 11.exf6 wins.
+16,Kd7,e7d7,r1bq1bnr/2pk2pp/ppnp4/3QP1B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 4 9,Another blunder 8...Kd7??? black should have played 8...Nf6 9.Qxc6 Bd7 10.Qc3 followed by 11.exf6 wins.
+17,e6+,e5e6,r1bq1bnr/2pk2pp/ppnpP3/3Q2B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 0 9,forced.
+18,Ke8,d7e8,r1bqkbnr/2p3pp/ppnpP3/3Q2B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 1 10,forced.
+19,Qxc6+,d5c6,r1bqkbnr/2p3pp/ppQpP3/6B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 0 10,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+20,Bd7,c8d7,r2qkbnr/2pb2pp/ppQpP3/6B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 1 11,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+21,exd7+,e6d7,r2qkbnr/2pP2pp/ppQp4/6B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 0 11,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+22,Qxd7,d8d7,r3kbnr/2pq2pp/ppQp4/6B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 0 12,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+23,Qxa8+,c6a8,Q3kbnr/2pq2pp/pp1p4/6B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 0 12,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+24,Kf7,e8f7,Q4bnr/2pq1kpp/pp1p4/6B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 1 13,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+25,Qd5+,a8d5,5bnr/2pq1kpp/pp1p4/3Q2B1/4P3/5N2/PPP2PPP/RN2K2R b KQ - 2 13,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+26,Qe6,d7e6,5bnr/2p2kpp/pp1pq3/3Q2B1/4P3/5N2/PPP2PPP/RN2K2R w KQ - 3 14,Better was 13...Ke8. (if 13...Kg6?? 14.Nh4+ Kh5 15.Bf4+! Kxh4 15.Qg5#.)
+27,Nc3,b1c3,5bnr/2p2kpp/pp1pq3/3Q2B1/4P3/2N2N2/PPP2PPP/R3K2R b KQ - 4 14,Why forcing me to exchange queens while i am up with 9 points?
+28,h6,h7h6,5bnr/2p2kp1/pp1pq2p/3Q2B1/4P3/2N2N2/PPP2PPP/R3K2R w KQ - 0 15,Why forcing me to exchange queens while i am up with 9 points?
+29,Bd8,g5d8,3B1bnr/2p2kp1/pp1pq2p/3Q4/4P3/2N2N2/PPP2PPP/R3K2R b KQ - 1 15,Why forcing me to exchange queens while i am up with 9 points?
+30,Nf6,g8f6,3B1b1r/2p2kp1/pp1pqn1p/3Q4/4P3/2N2N2/PPP2PPP/R3K2R w KQ - 2 16,Why forcing me to exchange queens while i am up with 9 points?
+31,Qxe6+,d5e6,3B1b1r/2p2kp1/pp1pQn1p/8/4P3/2N2N2/PPP2PPP/R3K2R b KQ - 0 16,What can black do? I think RESIGN.
+32,Kxe6,f7e6,3B1b1r/2p3p1/pp1pkn1p/8/4P3/2N2N2/PPP2PPP/R3K2R w KQ - 0 17,What can black do? I think RESIGN.
+33,Bxc7,d8c7,5b1r/2B3p1/pp1pkn1p/8/4P3/2N2N2/PPP2PPP/R3K2R b KQ - 0 17,What can black do? I think RESIGN.
+34,Be7,f8e7,7r/2B1b1p1/pp1pkn1p/8/4P3/2N2N2/PPP2PPP/R3K2R w KQ - 1 18,What can black do? I think RESIGN.
+35,O-O-O,e1c1,7r/2B1b1p1/pp1pkn1p/8/4P3/2N2N2/PPP2PPP/2KR3R b - - 2 18,Why not? Black is losing anyway.
+36,Ne8,f6e8,4n2r/2B1b1p1/pp1pk2p/8/4P3/2N2N2/PPP2PPP/2KR3R w - - 3 19,Why not? Black is losing anyway.
+37,Bxb6,c7b6,4n2r/4b1p1/pB1pk2p/8/4P3/2N2N2/PPP2PPP/2KR3R b - - 0 19,Why not? Black is losing anyway.
+38,Nf6,e8f6,7r/4b1p1/pB1pkn1p/8/4P3/2N2N2/PPP2PPP/2KR3R w - - 1 20,Why not? Black is losing anyway.
+39,Nd4+,f3d4,7r/4b1p1/pB1pkn1p/8/3NP3/2N5/PPP2PPP/2KR3R b - - 2 20,Continue winning pawns.
+40,Kd7,e6d7,7r/3kb1p1/pB1p1n1p/8/3NP3/2N5/PPP2PPP/2KR3R w - - 3 21,Continue winning pawns.
+41,Nf5,d4f5,7r/3kb1p1/pB1p1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R b - - 4 21,Continue winning pawns.
+42,Rb8,h8b8,1r6/3kb1p1/pB1p1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R w - - 5 22,Continue winning pawns.
+43,Ba7,b6a7,1r6/B2kb1p1/p2p1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R b - - 6 22,Continue winning pawns.
+44,Rb7,b8b7,8/Br1kb1p1/p2p1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R w - - 7 23,Continue winning pawns.
+45,Bc5,a7c5,8/1r1kb1p1/p2p1n1p/2B2N2/4P3/2N5/PPP2PPP/2KR3R b - - 8 23,Continue winning pawns.
+46,Kc6,d7c6,8/1r2b1p1/p1kp1n1p/2B2N2/4P3/2N5/PPP2PPP/2KR3R w - - 9 24,Continue winning pawns.
+47,Bxd6,c5d6,8/1r2b1p1/p1kB1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R b - - 0 24,Continue winning pawns.
+48,Bxd6,e7d6,8/1r4p1/p1kb1n1p/5N2/4P3/2N5/PPP2PPP/2KR3R w - - 0 25,Continue winning pawns.
+49,Rxd6+,d1d6,8/1r4p1/p1kR1n1p/5N2/4P3/2N5/PPP2PPP/2K4R b - - 0 25,Continue winning pawns.
+50,Kc7,c6c7,8/1rk3p1/p2R1n1p/5N2/4P3/2N5/PPP2PPP/2K4R w - - 1 26,Continue winning pawns.
+51,Rxa6,d6a6,8/1rk3p1/R4n1p/5N2/4P3/2N5/PPP2PPP/2K4R b - - 0 26,Continue winning pawns.
+52,Nd7,f6d7,8/1rkn2p1/R6p/5N2/4P3/2N5/PPP2PPP/2K4R w - - 1 27,Continue winning pawns.
+53,Nxg7,f5g7,8/1rkn2N1/R6p/8/4P3/2N5/PPP2PPP/2K4R b - - 0 27,Continue winning pawns.
+54,Nc5,d7c5,8/1rk3N1/R6p/2n5/4P3/2N5/PPP2PPP/2K4R w - - 1 28,29.b4! this move aims to remove the rook from b7 to place white rook on the 7th rank.
+55,Rxh6,a6h6,8/1rk3N1/7R/2n5/4P3/2N5/PPP2PPP/2K4R b - - 0 28,29.b4! this move aims to remove the rook from b7 to place white rook on the 7th rank.
+56,Kd7,c7d7,8/1r1k2N1/7R/2n5/4P3/2N5/PPP2PPP/2K4R w - - 1 29,29.b4! this move aims to remove the rook from b7 to place white rook on the 7th rank.
+57,b4,b2b4,8/1r1k2N1/7R/2n5/1P2P3/2N5/P1P2PPP/2K4R b - - 0 29,29.b4! this move aims to remove the rook from b7 to place white rook on the 7th rank.
+58,Rxb4,b7b4,8/3k2N1/7R/2n5/1r2P3/2N5/P1P2PPP/2K4R w - - 0 30,Now black can't avoid being mated.
+59,Rd1+,h1d1,8/3k2N1/7R/2n5/1r2P3/2N5/P1P2PPP/2KR4 b - - 1 30,Now black can't avoid being mated.
+60,Ke7,d7e7,8/4k1N1/7R/2n5/1r2P3/2N5/P1P2PPP/2KR4 w - - 2 31,A blunder. best was Kc8 although game is over.Now it is mate in 7.
+61,Nf5+,g7f5,8/4k3/7R/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 b - - 3 31,This makes mate faster.if 31...Ke8 32. Rh8+ Kf7 33. Rh7+ Kg6 34. Rg7+ Kf6 35. Nd5+ Ke5 36. f4+ Kxe4 37. Nd6#.
+62,Kf7,e7f7,8/5k2/7R/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 w - - 4 32,This makes mate faster.if 31...Ke8 32. Rh8+ Kf7 33. Rh7+ Kg6 34. Rg7+ Kf6 35. Nd5+ Ke5 36. f4+ Kxe4 37. Nd6#.
+63,Rh7+,h6h7,8/5k1R/8/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 b - - 5 32,
+64,Kg8,f7g8,6k1/7R/8/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 w - - 6 33,
+65,Rg7+,h7g7,6k1/6R1/8/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 b - - 7 33,
+66,Kf8,g8f8,5k2/6R1/8/2n2N2/1r2P3/2N5/P1P2PPP/2KR4 w - - 8 34,
+67,Rd8#,d1d8,3R1k2/6R1/8/2n2N2/1r2P3/2N5/P1P2PPP/2K5 b - - 9 34,

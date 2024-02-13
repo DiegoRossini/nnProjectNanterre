@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,4-pawn attack.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,4-pawn attack.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,4-pawn attack.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,4-pawn attack.
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,4-pawn attack.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,4-pawn attack.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,4-pawn attack.
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,4-pawn attack.
+9,f4,f2f4,rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 5,4-pawn attack.
+10,Nbd7,b8d7,r1bqk2r/pppnppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR w KQkq - 1 6,"? The knight on f6 just lost a flight square. Leaving d7 empty is stronger. For instance, Black will have the chance to castle much sooner. Black's position is beginning to look very cramped."
+11,e5,e4e5,r1bqk2r/pppnppbp/3p1np1/4P3/2PP1P2/2N5/PP4PP/R1BQKBNR b KQkq - 0 6,! Displacing Black's most active piece
+12,Ng8,f6g8,r1bqk1nr/pppnppbp/3p2p1/4P3/2PP1P2/2N5/PP4PP/R1BQKBNR w KQkq - 1 7,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+13,Nf3,g1f3,r1bqk1nr/pppnppbp/3p2p1/4P3/2PP1P2/2N2N2/PP4PP/R1BQKB1R b KQkq - 2 7,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+14,e6,e7e6,r1bqk1nr/pppn1pbp/3pp1p1/4P3/2PP1P2/2N2N2/PP4PP/R1BQKB1R w KQkq - 0 8,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+15,Be3,c1e3,r1bqk1nr/pppn1pbp/3pp1p1/4P3/2PP1P2/2N1BN2/PP4PP/R2QKB1R b KQkq - 1 8,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+16,Ne7,g8e7,r1bqk2r/pppnnpbp/3pp1p1/4P3/2PP1P2/2N1BN2/PP4PP/R2QKB1R w KQkq - 2 9,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+17,Bd3,f1d3,r1bqk2r/pppnnpbp/3pp1p1/4P3/2PP1P2/2NBBN2/PP4PP/R2QK2R b KQkq - 3 9,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+18,O-O,e8g8,r1bq1rk1/pppnnpbp/3pp1p1/4P3/2PP1P2/2NBBN2/PP4PP/R2QK2R w KQ - 4 10,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+19,O-O,e1g1,r1bq1rk1/pppnnpbp/3pp1p1/4P3/2PP1P2/2NBBN2/PP4PP/R2Q1RK1 b - - 5 10,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+20,Re8,f8e8,r1bqr1k1/pppnnpbp/3pp1p1/4P3/2PP1P2/2NBBN2/PP4PP/R2Q1RK1 w - - 6 11,"? This seems unnecessary and a waste of a tempo -- the e-file is well and truly closed, and White has no intention of attacking e6 or e7.  There are more interesting things for White to try..."
+21,g4,g2g4,r1bqr1k1/pppnnpbp/3pp1p1/4P3/2PP1PP1/2NBBN2/PP5P/R2Q1RK1 b - - 0 11,"! White plans to keep Black's position cramped, and at the same time initiate an attack on Black's king.  This soon becomes sharp, and White is obliged to retain the initiative at great cost. [By the endgame, White should beware his exposed king.]"
+22,f6,f7f6,r1bqr1k1/pppnn1bp/3pppp1/4P3/2PP1PP1/2NBBN2/PP5P/R2Q1RK1 w - - 0 12,? exf5 seems much sounder -- White now has a file for one of his rooks.
+23,f5,f4f5,r1bqr1k1/pppnn1bp/3pppp1/4PP2/2PP2P1/2NBBN2/PP5P/R2Q1RK1 b - - 0 12,? exf5 seems much sounder -- White now has a file for one of his rooks.
+24,fxe5,f6e5,r1bqr1k1/pppnn1bp/3pp1p1/4pP2/2PP2P1/2NBBN2/PP5P/R2Q1RK1 w - - 0 13,? exf5 seems much sounder -- White now has a file for one of his rooks.
+25,Ng5,f3g5,r1bqr1k1/pppnn1bp/3pp1p1/4pPN1/2PP2P1/2NBB3/PP5P/R2Q1RK1 b - - 1 13,"! White continues to exploit Black's lack of space, pressuring e6 and threatening Black's queen"
+26,Nf8,d7f8,r1bqrnk1/ppp1n1bp/3pp1p1/4pPN1/2PP2P1/2NBB3/PP5P/R2Q1RK1 w - - 2 14,!
+27,f6,f5f6,r1bqrnk1/ppp1n1bp/3ppPp1/4p1N1/2PP2P1/2NBB3/PP5P/R2Q1RK1 b - - 0 14,!
+28,Bxf6,g7f6,r1bqrnk1/ppp1n2p/3ppbp1/4p1N1/2PP2P1/2NBB3/PP5P/R2Q1RK1 w - - 0 15,!
+29,Rxf6,f1f6,r1bqrnk1/ppp1n2p/3ppRp1/4p1N1/2PP2P1/2NBB3/PP5P/R2Q2K1 b - - 0 15,!
+30,Nf5,e7f5,r1bqrnk1/ppp4p/3ppRp1/4pnN1/2PP2P1/2NBB3/PP5P/R2Q2K1 w - - 1 16,!
+31,Rxf5,f6f5,r1bqrnk1/ppp4p/3pp1p1/4pRN1/2PP2P1/2NBB3/PP5P/R2Q2K1 b - - 0 16,!
+32,exf5,e6f5,r1bqrnk1/ppp4p/3p2p1/4ppN1/2PP2P1/2NBB3/PP5P/R2Q2K1 w - - 0 17,"With the board opening up rapidly, White must remain energetic."
+33,gxf5,g4f5,r1bqrnk1/ppp4p/3p2p1/4pPN1/2PP4/2NBB3/PP5P/R2Q2K1 b - - 0 17,"With the board opening up rapidly, White must remain energetic."
+34,exd4,e5d4,r1bqrnk1/ppp4p/3p2p1/5PN1/2Pp4/2NBB3/PP5P/R2Q2K1 w - - 0 18,"With the board opening up rapidly, White must remain energetic."
+35,fxg6,f5g6,r1bqrnk1/ppp4p/3p2P1/6N1/2Pp4/2NBB3/PP5P/R2Q2K1 b - - 0 18,"With the board opening up rapidly, White must remain energetic."
+36,Nxg6,f8g6,r1bqr1k1/ppp4p/3p2n1/6N1/2Pp4/2NBB3/PP5P/R2Q2K1 w - - 0 19,To play 24. Qg6 .
+37,Qh5,d1h5,r1bqr1k1/ppp4p/3p2n1/6NQ/2Pp4/2NBB3/PP5P/R5K1 b - - 1 19,To play 24. Qg6 .
+38,Re7,e8e7,r1bq2k1/ppp1r2p/3p2n1/6NQ/2Pp4/2NBB3/PP5P/R5K1 w - - 2 20,To play 24. Qg6 .
+39,Bxd4,e3d4,r1bq2k1/ppp1r2p/3p2n1/6NQ/2PB4/2NB4/PP5P/R5K1 b - - 0 20,To play 24. Qg6 .
+40,Qe8,d8e8,r1b1q1k1/ppp1r2p/3p2n1/6NQ/2PB4/2NB4/PP5P/R5K1 w - - 1 21,To play 24. Qg6 .
+41,Rf1,a1f1,r1b1q1k1/ppp1r2p/3p2n1/6NQ/2PB4/2NB4/PP5P/5RK1 b - - 2 21,To play 24. Qg6 .
+42,Ne5,g6e5,r1b1q1k1/ppp1r2p/3p4/4n1NQ/2PB4/2NB4/PP5P/5RK1 w - - 3 22,To play 24. Qg6 .
+43,Bxh7+,d3h7,r1b1q1k1/ppp1r2B/3p4/4n1NQ/2PB4/2N5/PP5P/5RK1 b - - 0 22,To play 24. Qg6 .
+44,Kg7,g8g7,r1b1q3/ppp1r1kB/3p4/4n1NQ/2PB4/2N5/PP5P/5RK1 w - - 1 23,To play 24. Qg6 .
+45,Rf7+,f1f7,r1b1q3/ppp1rRkB/3p4/4n1NQ/2PB4/2N5/PP5P/6K1 b - - 2 23,To play 24. Qg6 .
+46,Rxf7,e7f7,r1b1q3/ppp2rkB/3p4/4n1NQ/2PB4/2N5/PP5P/6K1 w - - 0 24,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+47,Qg6+,h5g6,r1b1q3/ppp2rkB/3p2Q1/4n1N1/2PB4/2N5/PP5P/6K1 b - - 1 24,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+48,Kf8,g7f8,r1b1qk2/ppp2r1B/3p2Q1/4n1N1/2PB4/2N5/PP5P/6K1 w - - 2 25,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+49,Qg8+,g6g8,r1b1qkQ1/ppp2r1B/3p4/4n1N1/2PB4/2N5/PP5P/6K1 b - - 3 25,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+50,Ke7,f8e7,r1b1q1Q1/ppp1kr1B/3p4/4n1N1/2PB4/2N5/PP5P/6K1 w - - 4 26,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+51,Nd5+,c3d5,r1b1q1Q1/ppp1kr1B/3p4/3Nn1N1/2PB4/8/PP5P/6K1 b - - 5 26,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+52,Kd8,e7d8,r1bkq1Q1/ppp2r1B/3p4/3Nn1N1/2PB4/8/PP5P/6K1 w - - 6 27,"?! Black's king had two available moves, and Black picks the wrong one. If instead 26 .. Kd7, then White has no good check and the Black king escapes. White is then left with some work in the end game, the passed pawn a good shot."
+53,Nxf7+,g5f7,r1bkq1Q1/ppp2N1B/3p4/3Nn3/2PB4/8/PP5P/6K1 b - - 0 27,"Black resigns here, to follow .. Kc6, QxQ"
+54,Nxf7,e5f7,r1bkq1Q1/ppp2n1B/3p4/3N4/2PB4/8/PP5P/6K1 w - - 0 28,"Black resigns here, to follow .. Kc6, QxQ"
+55,Bf6+,d4f6,r1bkq1Q1/ppp2n1B/3p1B2/3N4/2P5/8/PP5P/6K1 b - - 1 28,"Black resigns here, to follow .. Kc6, QxQ"
+56,Kd7,d8d7,r1b1q1Q1/pppk1n1B/3p1B2/3N4/2P5/8/PP5P/6K1 w - - 2 29,"Black resigns here, to follow .. Kc6, QxQ"
+57,Bf5+,h7f5,r1b1q1Q1/pppk1n2/3p1B2/3N1B2/2P5/8/PP5P/6K1 b - - 3 29,"Black resigns here, to follow .. Kc6, QxQ"

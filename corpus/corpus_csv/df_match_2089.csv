@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This time I will annotate a lost game of mine! Will try to analyze what it was that gone wrong! I heard that Bobby Fischer once published a book about 50 games that he had lost. The name of the book was, if I remember it right: "" 50 bad games""."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian Opening.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Sicilian Opening.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Sicilian Opening.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Theory so far.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Theory so far.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+12,e5,e7e5,rnbqkb1r/1p3ppp/p2p1n2/4p3/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,I nowadays avoid this type of move! Makes a nasty hole in my pawn structure on e6. But this game I played two years ago and then I obviously believed it was a decent move.
+13,Nb3,d4b3,rnbqkb1r/1p3ppp/p2p1n2/4p3/4P3/1NN1B3/PPP2PPP/R2QKB1R b KQkq - 1 7,f3 looks a little bit unsound for me? Better was maybe Be2 or Bd3?
+14,Be6,c8e6,rn1qkb1r/1p3ppp/p2pbn2/4p3/4P3/1NN1B3/PPP2PPP/R2QKB1R w KQkq - 2 8,f3 looks a little bit unsound for me? Better was maybe Be2 or Bd3?
+15,f3,f2f3,rn1qkb1r/1p3ppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 0 8,f3 looks a little bit unsound for me? Better was maybe Be2 or Bd3?
+16,Be7,f8e7,rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R w KQkq - 1 9,"0-0-0! Now f3 looks like a perfectly fine move, preparing a pawn push against Black`s King!"
+17,Qd2,d1d2,rn1qk2r/1p2bppp/p2pbn2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQkq - 2 9,"0-0-0! Now f3 looks like a perfectly fine move, preparing a pawn push against Black`s King!"
+18,Nc6,b8c6,r2qk2r/1p2bppp/p1npbn2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R w KQkq - 3 10,"0-0-0! Now f3 looks like a perfectly fine move, preparing a pawn push against Black`s King!"
+19,O-O-O,e1c1,r2qk2r/1p2bppp/p1npbn2/4p3/4P3/1NN1BP2/PPPQ2PP/2KR1B1R b kq - 4 10,"0-0-0! Now f3 looks like a perfectly fine move, preparing a pawn push against Black`s King!"
+20,O-O,e8g8,r2q1rk1/1p2bppp/p1npbn2/4p3/4P3/1NN1BP2/PPPQ2PP/2KR1B1R w - - 5 11,The natural follow-up move after f3. Starting a pawn push against Black´s King side.
+21,g4,g2g4,r2q1rk1/1p2bppp/p1npbn2/4p3/4P1P1/1NN1BP2/PPPQ3P/2KR1B1R b - - 0 11,The natural follow-up move after f3. Starting a pawn push against Black´s King side.
+22,b5,b7b5,r2q1rk1/4bppp/p1npbn2/1p2p3/4P1P1/1NN1BP2/PPPQ3P/2KR1B1R w - - 0 12,The logical continuation. A pawn push against Blacks King side.
+23,Nd5,c3d5,r2q1rk1/4bppp/p1npbn2/1p1Np3/4P1P1/1N2BP2/PPPQ3P/2KR1B1R b - - 1 12,The logical continuation. A pawn push against Blacks King side.
+24,Ne8,f6e8,r2qnrk1/4bppp/p1npb3/1p1Np3/4P1P1/1N2BP2/PPPQ3P/2KR1B1R w - - 2 13,The logical continuation. A pawn push against Blacks King side.
+25,h4,h2h4,r2qnrk1/4bppp/p1npb3/1p1Np3/4P1PP/1N2BP2/PPPQ4/2KR1B1R b - - 0 13,The logical continuation. A pawn push against Blacks King side.
+26,Bxh4,e7h4,r2qnrk1/5ppp/p1npb3/1p1Np3/4P1Pb/1N2BP2/PPPQ4/2KR1B1R w - - 0 14,A free pawn or maybe some kind of clever trap?
+27,g5,g4g5,r2qnrk1/5ppp/p1npb3/1p1Np1P1/4P2b/1N2BP2/PPPQ4/2KR1B1R b - - 0 14,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+28,Bg3,h4g3,r2qnrk1/5ppp/p1npb3/1p1Np1P1/4P3/1N2BPb1/PPPQ4/2KR1B1R w - - 1 15,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+29,Qg2,d2g2,r2qnrk1/5ppp/p1npb3/1p1Np1P1/4P3/1N2BPb1/PPP3Q1/2KR1B1R b - - 2 15,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+30,Bf4,g3f4,r2qnrk1/5ppp/p1npb3/1p1Np1P1/4Pb2/1N2BP2/PPP3Q1/2KR1B1R w - - 3 16,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+31,Nxf4,d5f4,r2qnrk1/5ppp/p1npb3/1p2p1P1/4PN2/1N2BP2/PPP3Q1/2KR1B1R b - - 0 16,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+32,exf4,e5f4,r2qnrk1/5ppp/p1npb3/1p4P1/4Pp2/1N2BP2/PPP3Q1/2KR1B1R w - - 0 17,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+33,Qh2,g2h2,r2qnrk1/5ppp/p1npb3/1p4P1/4Pp2/1N2BP2/PPP4Q/2KR1B1R b - - 1 17,"Instead of taking back the pawn immediately, White threatens checkmate on h7. Black must defend against this threat in the next move!"
+34,f6,f7f6,r2qnrk1/6pp/p1npbp2/1p4P1/4Pp2/1N2BP2/PPP4Q/2KR1B1R w - - 0 18,Getting the pawn back with tempo and also ruins Blacks King camp.
+35,Qxh7+,h2h7,r2qnrk1/6pQ/p1npbp2/1p4P1/4Pp2/1N2BP2/PPP5/2KR1B1R b - - 0 18,Getting the pawn back with tempo and also ruins Blacks King camp.
+36,Kf7,g8f7,r2qnr2/5kpQ/p1npbp2/1p4P1/4Pp2/1N2BP2/PPP5/2KR1B1R w - - 1 19,I tried to escape with my King.
+37,g6+,g5g6,r2qnr2/5kpQ/p1npbpP1/1p6/4Pp2/1N2BP2/PPP5/2KR1B1R b - - 0 19,I tried to escape with my King.
+38,Ke7,f7e7,r2qnr2/4k1pQ/p1npbpP1/1p6/4Pp2/1N2BP2/PPP5/2KR1B1R w - - 1 20,I tried to escape with my King.
+39,Bxf4,e3f4,r2qnr2/4k1pQ/p1npbpP1/1p6/4PB2/1N3P2/PPP5/2KR1B1R b - - 0 20,Now is White one pawn up and have also destroyed the defense around Black´s King!
+40,Rg8,f8g8,r2qn1r1/4k1pQ/p1npbpP1/1p6/4PB2/1N3P2/PPP5/2KR1B1R w - - 1 21,Ties up Blacks pieces in the defense of the d6-pawn. Black´s position have become a little bit cramped.
+41,Qh2,h7h2,r2qn1r1/4k1p1/p1npbpP1/1p6/4PB2/1N3P2/PPP4Q/2KR1B1R b - - 2 21,Ties up Blacks pieces in the defense of the d6-pawn. Black´s position have become a little bit cramped.
+42,Bxb3,e6b3,r2qn1r1/4k1p1/p1np1pP1/1p6/4PB2/1b3P2/PPP4Q/2KR1B1R w - - 0 22,"Not good of me. The light-squared Bishop has more utlity in the defense of my King. Makes my white squares weak, because Black has still his light-square Bishop left."
+43,cxb3,c2b3,r2qn1r1/4k1p1/p1np1pP1/1p6/4PB2/1P3P2/PP5Q/2KR1B1R b - - 0 22,Some exchanges have occured! White is clearly better positionally!
+44,Ne5,c6e5,r2qn1r1/4k1p1/p2p1pP1/1p2n3/4PB2/1P3P2/PP5Q/2KR1B1R w - - 1 23,Some exchanges have occured! White is clearly better positionally!
+45,Bxe5,f4e5,r2qn1r1/4k1p1/p2p1pP1/1p2B3/4P3/1P3P2/PP5Q/2KR1B1R b - - 0 23,Some exchanges have occured! White is clearly better positionally!
+46,fxe5,f6e5,r2qn1r1/4k1p1/p2p2P1/1p2p3/4P3/1P3P2/PP5Q/2KR1B1R w - - 0 24,Some exchanges have occured! White is clearly better positionally!
+47,Qd2,h2d2,r2qn1r1/4k1p1/p2p2P1/1p2p3/4P3/1P3P2/PP1Q4/2KR1B1R b - - 1 24,Some exchanges have occured! White is clearly better positionally!
+48,Rc8+,a8c8,2rqn1r1/4k1p1/p2p2P1/1p2p3/4P3/1P3P2/PP1Q4/2KR1B1R w - - 2 25,Some exchanges have occured! White is clearly better positionally!
+49,Kb1,c1b1,2rqn1r1/4k1p1/p2p2P1/1p2p3/4P3/1P3P2/PP1Q4/1K1R1B1R b - - 3 25,Some exchanges have occured! White is clearly better positionally!
+50,Nf6,e8f6,2rq2r1/4k1p1/p2p1nP1/1p2p3/4P3/1P3P2/PP1Q4/1K1R1B1R w - - 4 26,Some exchanges have occured! White is clearly better positionally!
+51,Bh3,f1h3,2rq2r1/4k1p1/p2p1nP1/1p2p3/4P3/1P3P1B/PP1Q4/1K1R3R b - - 5 26,Some exchanges have occured! White is clearly better positionally!
+52,Rc6,c8c6,3q2r1/4k1p1/p1rp1nP1/1p2p3/4P3/1P3P1B/PP1Q4/1K1R3R w - - 6 27,Some exchanges have occured! White is clearly better positionally!
+53,Rdc1,d1c1,3q2r1/4k1p1/p1rp1nP1/1p2p3/4P3/1P3P1B/PP1Q4/1KR4R b - - 7 27,Some exchanges have occured! White is clearly better positionally!
+54,Rxc1+,c6c1,3q2r1/4k1p1/p2p1nP1/1p2p3/4P3/1P3P1B/PP1Q4/1Kr4R w - - 0 28,Some exchanges have occured! White is clearly better positionally!
+55,Rxc1,h1c1,3q2r1/4k1p1/p2p1nP1/1p2p3/4P3/1P3P1B/PP1Q4/1KR5 b - - 0 28,Some exchanges have occured! White is clearly better positionally!
+56,Nd7,f6d7,3q2r1/3nk1p1/p2p2P1/1p2p3/4P3/1P3P1B/PP1Q4/1KR5 w - - 1 29,"Threatens checkmate at f7. Black resigned, can´t defend properly against this threat. If Black tries ...Qe7, then Rc8+ must lead to ...Qd8 (only move) and then it´s still checkmate on f7 with the White Queen!"
+57,Qg5+,d2g5,3q2r1/3nk1p1/p2p2P1/1p2p1Q1/4P3/1P3P1B/PP6/1KR5 b - - 2 29,"Threatens checkmate at f7. Black resigned, can´t defend properly against this threat. If Black tries ...Qe7, then Rc8+ must lead to ...Qd8 (only move) and then it´s still checkmate on f7 with the White Queen!"
+58,Ke8,e7e8,3qk1r1/3n2p1/p2p2P1/1p2p1Q1/4P3/1P3P1B/PP6/1KR5 w - - 3 30,"Threatens checkmate at f7. Black resigned, can´t defend properly against this threat. If Black tries ...Qe7, then Rc8+ must lead to ...Qd8 (only move) and then it´s still checkmate on f7 with the White Queen!"
+59,Qf5,g5f5,3qk1r1/3n2p1/p2p2P1/1p2pQ2/4P3/1P3P1B/PP6/1KR5 b - - 4 30,"Threatens checkmate at f7. Black resigned, can´t defend properly against this threat. If Black tries ...Qe7, then Rc8+ must lead to ...Qd8 (only move) and then it´s still checkmate on f7 with the White Queen!"
+60,Qe7,d8e7,4k1r1/3nq1p1/p2p2P1/1p2pQ2/4P3/1P3P1B/PP6/1KR5 w - - 5 31,Analyze!!!
+61,Rc8+,c1c8,2R1k1r1/3nq1p1/p2p2P1/1p2pQ2/4P3/1P3P1B/PP6/1K6 b - - 6 31,
+62,Qd8,e7d8,2Rqk1r1/3n2p1/p2p2P1/1p2pQ2/4P3/1P3P1B/PP6/1K6 w - - 7 32,
+63,Qf7#,f5f7,2Rqk1r1/3n1Qp1/p2p2P1/1p2p3/4P3/1P3P1B/PP6/1K6 b - - 8 32,

@@ -1,0 +1,83 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Routine Lion Defense until after White blunders and drops the exchange.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+7,Bg5,c1g5,r1bqkb1r/pppnpppp/3p1n2/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 4 4,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+8,h6,h7h6,r1bqkb1r/pppnppp1/3p1n1p/6B1/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+9,Bxf6,g5f6,r1bqkb1r/pppnppp1/3p1B1p/8/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 0 5,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+10,Nxf6,d7f6,r1bqkb1r/ppp1ppp1/3p1n1p/8/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 6,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+11,Bd3,f1d3,r1bqkb1r/ppp1ppp1/3p1n1p/8/3PP3/2NB4/PPP2PPP/R2QK1NR b KQkq - 1 6,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+12,e5,e7e5,r1bqkb1r/ppp2pp1/3p1n1p/4p3/3PP3/2NB4/PPP2PPP/R2QK1NR w KQkq - 0 7,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+13,dxe5,d4e5,r1bqkb1r/ppp2pp1/3p1n1p/4P3/4P3/2NB4/PPP2PPP/R2QK1NR b KQkq - 0 7,White sees a chance to exchange queens and prevent Black from castling.  But Black does not fear that line.
+14,dxe5,d6e5,r1bqkb1r/ppp2pp1/5n1p/4p3/4P3/2NB4/PPP2PPP/R2QK1NR w KQkq - 0 8,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+15,Bb5+,d3b5,r1bqkb1r/ppp2pp1/5n1p/1B2p3/4P3/2N5/PPP2PPP/R2QK1NR b KQkq - 1 8,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+16,c6,c7c6,r1bqkb1r/pp3pp1/2p2n1p/1B2p3/4P3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 9,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+17,Qxd8+,d1d8,r1bQkb1r/pp3pp1/2p2n1p/1B2p3/4P3/2N5/PPP2PPP/R3K1NR b KQkq - 0 9,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+18,Kxd8,e8d8,r1bk1b1r/pp3pp1/2p2n1p/1B2p3/4P3/2N5/PPP2PPP/R3K1NR w KQ - 0 10,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+19,Bc4,b5c4,r1bk1b1r/pp3pp1/2p2n1p/4p3/2B1P3/2N5/PPP2PPP/R3K1NR b KQ - 1 10,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+20,Bb4,f8b4,r1bk3r/pp3pp1/2p2n1p/4p3/1bB1P3/2N5/PPP2PPP/R3K1NR w KQ - 2 11,"Here black chooses a more active line. If now 11 BxP, BxN  12 PxB NxP Black is fine."
+21,O-O-O+,e1c1,r1bk3r/pp3pp1/2p2n1p/4p3/1bB1P3/2N5/PPP2PPP/2KR2NR b - - 3 11,Black decides a bishop exchange frees the king to stay centralized.
+22,Ke7,d8e7,r1b4r/pp2kpp1/2p2n1p/4p3/1bB1P3/2N5/PPP2PPP/2KR2NR w - - 4 12,Black decides a bishop exchange frees the king to stay centralized.
+23,Nge2,g1e2,r1b4r/pp2kpp1/2p2n1p/4p3/1bB1P3/2N5/PPP1NPPP/2KR3R b - - 5 12,Black decides a bishop exchange frees the king to stay centralized.
+24,Be6,c8e6,r6r/pp2kpp1/2p1bn1p/4p3/1bB1P3/2N5/PPP1NPPP/2KR3R w - - 6 13,Black decides a bishop exchange frees the king to stay centralized.
+25,Bxe6,c4e6,r6r/pp2kpp1/2p1Bn1p/4p3/1b2P3/2N5/PPP1NPPP/2KR3R b - - 0 13,Black is willing to exchange the bishop given white's weakened pawn structure.
+26,Kxe6,e7e6,r6r/pp3pp1/2p1kn1p/4p3/1b2P3/2N5/PPP1NPPP/2KR3R w - - 0 14,Black is willing to exchange the bishop given white's weakened pawn structure.
+27,f3,f2f3,r6r/pp3pp1/2p1kn1p/4p3/1b2P3/2N2P2/PPP1N1PP/2KR3R b - - 0 14,Black is willing to exchange the bishop given white's weakened pawn structure.
+28,Rhd8,h8d8,r2r4/pp3pp1/2p1kn1p/4p3/1b2P3/2N2P2/PPP1N1PP/2KR3R w - - 1 15,Black is willing to exchange the bishop given white's weakened pawn structure.
+29,a3,a2a3,r2r4/pp3pp1/2p1kn1p/4p3/1b2P3/P1N2P2/1PP1N1PP/2KR3R b - - 0 15,Black is willing to exchange the bishop given white's weakened pawn structure.
+30,Ba5,b4a5,r2r4/pp3pp1/2p1kn1p/b3p3/4P3/P1N2P2/1PP1N1PP/2KR3R w - - 1 16,Black is willing to exchange the bishop given white's weakened pawn structure.
+31,Na4,c3a4,r2r4/pp3pp1/2p1kn1p/b3p3/N3P3/P4P2/1PP1N1PP/2KR3R b - - 2 16,Black is willing to exchange the bishop given white's weakened pawn structure.
+32,Nd7,f6d7,r2r4/pp1n1pp1/2p1k2p/b3p3/N3P3/P4P2/1PP1N1PP/2KR3R w - - 3 17,Black is willing to exchange the bishop given white's weakened pawn structure.
+33,b4,b2b4,r2r4/pp1n1pp1/2p1k2p/b3p3/NP2P3/P4P2/2P1N1PP/2KR3R b - - 0 17,Black is willing to exchange the bishop given white's weakened pawn structure.
+34,Bb6,a5b6,r2r4/pp1n1pp1/1bp1k2p/4p3/NP2P3/P4P2/2P1N1PP/2KR3R w - - 1 18,Black is willing to exchange the bishop given white's weakened pawn structure.
+35,Rd2,d1d2,r2r4/pp1n1pp1/1bp1k2p/4p3/NP2P3/P4P2/2PRN1PP/2K4R b - - 2 18,But Rd2?? loses the exchange--better was Rd3.
+36,Be3,b6e3,r2r4/pp1n1pp1/2p1k2p/4p3/NP2P3/P3bP2/2PRN1PP/2K4R w - - 3 19,Pins the rook
+37,Nb2,a4b2,r2r4/pp1n1pp1/2p1k2p/4p3/1P2P3/P3bP2/1NPRN1PP/2K4R b - - 4 19,Black was threatening to take the rook and win the knight with discovered check. White also hopes that a later nd3 will block the d-file
+38,Nb6,d7b6,r2r4/pp3pp1/1np1k2p/4p3/1P2P3/P3bP2/1NPRN1PP/2K4R w - - 5 20,"Attacks the pinned rook again, and prepares to attack the rook from c4 if the Knight moves."
+39,Rhd1,h1d1,r2r4/pp3pp1/1np1k2p/4p3/1P2P3/P3bP2/1NPRN1PP/2KR4 b - - 6 20,Protects the rook
+40,Rxd2,d8d2,r7/pp3pp1/1np1k2p/4p3/1P2P3/P3bP2/1NPrN1PP/2KR4 w - - 0 21,Piles up on the pinned rook to simplify and force a winning endgame.
+41,Rxd2,d1d2,r7/pp3pp1/1np1k2p/4p3/1P2P3/P3bP2/1NPRN1PP/2K5 b - - 0 21,Piles up on the pinned rook to simplify and force a winning endgame.
+42,Rd8,a8d8,3r4/pp3pp1/1np1k2p/4p3/1P2P3/P3bP2/1NPRN1PP/2K5 w - - 1 22,Piles up on the pinned rook to simplify and force a winning endgame.
+43,Nd3,b2d3,3r4/pp3pp1/1np1k2p/4p3/1P2P3/P2NbP2/2PRN1PP/2K5 b - - 2 22,the best try
+44,Nc4,b6c4,3r4/pp3pp1/2p1k2p/4p3/1Pn1P3/P2NbP2/2PRN1PP/2K5 w - - 3 23,attacks the pinned rook again
+45,Nc5+,d3c5,3r4/pp3pp1/2p1k2p/2N1p3/1Pn1P3/P3bP2/2PRN1PP/2K5 b - - 4 23,Doesn't accomplish much
+46,Ke7,e6e7,3r4/pp2kpp1/2p4p/2N1p3/1Pn1P3/P3bP2/2PRN1PP/2K5 w - - 5 24,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+47,Nd3,c5d3,3r4/pp2kpp1/2p4p/4p3/1Pn1P3/P2NbP2/2PRN1PP/2K5 b - - 6 24,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+48,Bxd2+,e3d2,3r4/pp2kpp1/2p4p/4p3/1Pn1P3/P2N1P2/2PbN1PP/2K5 w - - 0 25,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+49,Kb1,c1b1,3r4/pp2kpp1/2p4p/4p3/1Pn1P3/P2N1P2/2PbN1PP/1K6 b - - 1 25,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+50,Nxa3+,c4a3,3r4/pp2kpp1/2p4p/4p3/1P2P3/n2N1P2/2PbN1PP/1K6 w - - 0 26,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+51,Kb2,b1b2,3r4/pp2kpp1/2p4p/4p3/1P2P3/n2N1P2/1KPbN1PP/8 b - - 1 26,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+52,Nc4+,a3c4,3r4/pp2kpp1/2p4p/4p3/1Pn1P3/3N1P2/1KPbN1PP/8 w - - 2 27,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+53,Kb3,b2b3,3r4/pp2kpp1/2p4p/4p3/1Pn1P3/1K1N1P2/2PbN1PP/8 b - - 3 27,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+54,b5,b7b5,3r4/p3kpp1/2p4p/1p2p3/1Pn1P3/1K1N1P2/2PbN1PP/8 w - - 0 28,"Now Black has a strongly placed knight and bishop, and is up a rook, but how to break through?"
+55,g4,g2g4,3r4/p3kpp1/2p4p/1p2p3/1Pn1P1P1/1K1N1P2/2PbN2P/8 b - - 0 28,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+56,f6,f7f6,3r4/p3k1p1/2p2p1p/1p2p3/1Pn1P1P1/1K1N1P2/2PbN2P/8 w - - 0 29,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+57,Ng3,e2g3,3r4/p3k1p1/2p2p1p/1p2p3/1Pn1P1P1/1K1N1PN1/2Pb3P/8 b - - 1 29,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+58,g6,g7g6,3r4/p3k3/2p2ppp/1p2p3/1Pn1P1P1/1K1N1PN1/2Pb3P/8 w - - 0 30,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+59,h4,h2h4,3r4/p3k3/2p2ppp/1p2p3/1Pn1P1PP/1K1N1PN1/2Pb4/8 b - - 0 30,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+60,a5,a7a5,3r4/4k3/2p2ppp/pp2p3/1Pn1P1PP/1K1N1PN1/2Pb4/8 w - - 0 31,"After defending the kingside against penetration, Black now wants to open lines for the rook."
+61,bxa5,b4a5,3r4/4k3/2p2ppp/Pp2p3/2n1P1PP/1K1N1PN1/2Pb4/8 b - - 0 31,"Rxd3!!? A carefully considered sacrifice. Black gets a piece and pawn for the rook, simplifies to an advantageous ending, and gains pawn majorities on both sides of the board."
+62,Nxa5+,c4a5,3r4/4k3/2p2ppp/np2p3/4P1PP/1K1N1PN1/2Pb4/8 w - - 0 32,"Rxd3!!? A carefully considered sacrifice. Black gets a piece and pawn for the rook, simplifies to an advantageous ending, and gains pawn majorities on both sides of the board."
+63,Kb2,b3b2,3r4/4k3/2p2ppp/np2p3/4P1PP/3N1PN1/1KPb4/8 b - - 1 32,"Rxd3!!? A carefully considered sacrifice. Black gets a piece and pawn for the rook, simplifies to an advantageous ending, and gains pawn majorities on both sides of the board."
+64,Rxd3,d8d3,8/4k3/2p2ppp/np2p3/4P1PP/3r1PN1/1KPb4/8 w - - 0 33,"Rxd3!!? A carefully considered sacrifice. Black gets a piece and pawn for the rook, simplifies to an advantageous ending, and gains pawn majorities on both sides of the board."
+65,cxd3,c2d3,8/4k3/2p2ppp/np2p3/4P1PP/3P1PN1/1K1b4/8 b - - 0 33,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+66,Be1,d2e1,8/4k3/2p2ppp/np2p3/4P1PP/3P1PN1/1K6/4b3 w - - 1 34,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+67,Ne2,g3e2,8/4k3/2p2ppp/np2p3/4P1PP/3P1P2/1K2N3/4b3 b - - 2 34,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+68,Bxh4,e1h4,8/4k3/2p2ppp/np2p3/4P1Pb/3P1P2/1K2N3/8 w - - 0 35,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+69,Ka3,b2a3,8/4k3/2p2ppp/np2p3/4P1Pb/K2P1P2/4N3/8 b - - 1 35,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+70,Be1,h4e1,8/4k3/2p2ppp/np2p3/4P1P1/K2P1P2/4N3/4b3 w - - 2 36,"Blacks plan to win is simple. Restrain the king, threaten to exchange white's last piece, and coordinate the knight and bishop to drive the king back into a corner if the exchange is declined."
+71,d4,d3d4,8/4k3/2p2ppp/np2p3/3PP1P1/K4P2/4N3/4b3 b - - 0 36,wins another pawn
+72,Nc4+,a5c4,8/4k3/2p2ppp/1p2p3/2nPP1P1/K4P2/4N3/4b3 w - - 1 37,wins another pawn
+73,Ka2,a3a2,8/4k3/2p2ppp/1p2p3/2nPP1P1/5P2/K3N3/4b3 b - - 2 37,wins another pawn
+74,Ke6,e7e6,8/8/2p1kppp/1p2p3/2nPP1P1/5P2/K3N3/4b3 w - - 3 38,wins another pawn
+75,dxe5,d4e5,8/8/2p1kppp/1p2P3/2n1P1P1/5P2/K3N3/4b3 b - - 0 38,wins another pawn
+76,Nxe5,c4e5,8/8/2p1kppp/1p2n3/4P1P1/5P2/K3N3/4b3 w - - 0 39,wins another pawn
+77,f4,f3f4,8/8/2p1kppp/1p2n3/4PPP1/8/K3N3/4b3 b - - 0 39,creates connected passed pawns while restraining white's pawns.
+78,Nxg4,e5g4,8/8/2p1kppp/1p6/4PPn1/8/K3N3/4b3 w - - 0 40,creates connected passed pawns while restraining white's pawns.
+79,Nd4+,e2d4,8/8/2p1kppp/1p6/3NPPn1/8/K7/4b3 b - - 1 40,creates connected passed pawns while restraining white's pawns.
+80,Kd6,e6d6,8/8/2pk1ppp/1p6/3NPPn1/8/K7/4b3 w - - 2 41,creates connected passed pawns while restraining white's pawns.
+81,f5,f4f5,8/8/2pk1ppp/1p3P2/3NP1n1/8/K7/4b3 b - - 0 41,creates connected passed pawns while restraining white's pawns.
+82,g5,g6g5,8/8/2pk1p1p/1p3Pp1/3NP1n1/8/K7/4b3 w - - 0 42,creates connected passed pawns while restraining white's pawns.

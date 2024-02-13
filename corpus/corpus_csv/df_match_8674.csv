@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The French, to which White's automatic reply is 2. d4"
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The French, to which White's automatic reply is 2. d4"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,but for some reason I improvised with this...
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,A good aggressive posting for Black's B.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,A good aggressive posting for Black's B.
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,A good aggressive posting for Black's B.
+7,d4,d2d4,rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,A good aggressive posting for Black's B.
+8,Bd6,f8d6,rnbqk1nr/ppp2ppp/3b4/3p4/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,A good aggressive posting for Black's B.
+9,c4,c2c4,rnbqk1nr/ppp2ppp/3b4/3p4/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,Seems to avoid over-burdening the KB
+10,Qe7+,d8e7,rnb1k1nr/ppp1qppp/3b4/3p4/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,Seems to avoid over-burdening the KB
+11,Be3,c1e3,rnb1k1nr/ppp1qppp/3b4/3p4/2PP4/4BN2/PP3PPP/RN1QKB1R b KQkq - 2 6,Seems to avoid over-burdening the KB
+12,Nf6,g8f6,rnb1k2r/ppp1qppp/3b1n2/3p4/2PP4/4BN2/PP3PPP/RN1QKB1R w KQkq - 3 7,threatens to attack the pinned B
+13,h3,h2h3,rnb1k2r/ppp1qppp/3b1n2/3p4/2PP4/4BN1P/PP3PP1/RN1QKB1R b KQkq - 0 7,? prevents ...Ng4 but creates a hole at g3.  The pawn on f2 can't protect both g3 and e3 at the same time.
+14,O-O,e8g8,rnb2rk1/ppp1qppp/3b1n2/3p4/2PP4/4BN1P/PP3PP1/RN1QKB1R w KQ - 1 8,? failing to notice Black's obvious response
+15,Qd2,d1d2,rnb2rk1/ppp1qppp/3b1n2/3p4/2PP4/4BN1P/PP1Q1PP1/RN2KB1R b KQ - 2 8,? failing to notice Black's obvious response
+16,Ne4,f6e4,rnb2rk1/ppp1qppp/3b4/3p4/2PPn3/4BN1P/PP1Q1PP1/RN2KB1R w KQ - 3 9,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+17,Qe2,d2e2,rnb2rk1/ppp1qppp/3b4/3p4/2PPn3/4BN1P/PP2QPP1/RN2KB1R b KQ - 4 9,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+18,dxc4,d5c4,rnb2rk1/ppp1qppp/3b4/8/2pPn3/4BN1P/PP2QPP1/RN2KB1R w KQ - 0 10,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+19,Qxc4,e2c4,rnb2rk1/ppp1qppp/3b4/8/2QPn3/4BN1P/PP3PP1/RN2KB1R b KQ - 0 10,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+20,Re8,f8e8,rnb1r1k1/ppp1qppp/3b4/8/2QPn3/4BN1P/PP3PP1/RN2KB1R w KQ - 1 11,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+21,Nbd2,b1d2,rnb1r1k1/ppp1qppp/3b4/8/2QPn3/4BN1P/PP1N1PP1/R3KB1R b KQ - 2 11,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."
+22,Nxf2,e4f2,rnb1r1k1/ppp1qppp/3b4/8/2QP4/4BN1P/PP1N1nP1/R3KB1R w KQ - 0 12,"and in disgust I resigned.  I'd spent ages obsessing about g3 and missed the danger to f2.  If 12. Kxf2 Qxe3#  12. Ne5 is probably best but leaves White's position looking ruined after 12... Bxe5 13. dxe5 Qxe5 with both Be3 and Rh1 still threatened, the Be3 pinned and mate threatened if I allow the Be3 to be captured."

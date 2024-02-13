@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My usual
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pirc
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Still mainline
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Still mainline
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,Still mainline
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Still mainline
+7,f4,f2f4,rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 4,Austrian attack
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 5,Book says Nf3 then Be3 but I forgot that but I can still transpose back
+9,Bd3,f1d3,rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2NB4/PPP3PP/R1BQK1NR b KQkq - 2 5,Book says Nf3 then Be3 but I forgot that but I can still transpose back
+10,c5,c7c5,rnbqk2r/pp2ppbp/3p1np1/2p5/3PPP2/2NB4/PPP3PP/R1BQK1NR w KQkq - 0 6,!? I had never seen this before
+11,dxc5,d4c5,rnbqk2r/pp2ppbp/3p1np1/2P5/4PP2/2NB4/PPP3PP/R1BQK1NR b KQkq - 0 6,Attacking the c-pawn
+12,dxc5,d6c5,rnbqk2r/pp2ppbp/5np1/2p5/4PP2/2NB4/PPP3PP/R1BQK1NR w KQkq - 0 7,Attacking the c-pawn
+13,Be3,c1e3,rnbqk2r/pp2ppbp/5np1/2p5/4PP2/2NBB3/PPP3PP/R2QK1NR b KQkq - 1 7,Attacking the c-pawn
+14,Qc7,d8c7,rnb1k2r/ppq1ppbp/5np1/2p5/4PP2/2NBB3/PPP3PP/R2QK1NR w KQkq - 2 8,Preparing f5 and then Bh6 trading of the Black DSB and weakening the black k-side
+15,Qd2,d1d2,rnb1k2r/ppq1ppbp/5np1/2p5/4PP2/2NBB3/PPPQ2PP/R3K1NR b KQkq - 3 8,Preparing f5 and then Bh6 trading of the Black DSB and weakening the black k-side
+16,Ng4,f6g4,rnb1k2r/ppq1ppbp/6p1/2p5/4PPn1/2NBB3/PPPQ2PP/R3K1NR w KQkq - 4 9,Threatening to capture my bishop
+17,Nd5,c3d5,rnb1k2r/ppq1ppbp/6p1/2pN4/4PPn1/3BB3/PPPQ2PP/R3K1NR b KQkq - 5 9,Not the horrible Qc6 which falls to Bb5 pinning the Queen
+18,Qd6,c7d6,rnb1k2r/pp2ppbp/3q2p1/2pN4/4PPn1/3BB3/PPPQ2PP/R3K1NR w KQkq - 6 10,Not the horrible Qc6 which falls to Bb5 pinning the Queen
+19,O-O-O,e1c1,rnb1k2r/pp2ppbp/3q2p1/2pN4/4PPn1/3BB3/PPPQ2PP/2KR2NR b kq - 7 10,I castle to double up on the d-file
+20,O-O,e8g8,rnb2rk1/pp2ppbp/3q2p1/2pN4/4PPn1/3BB3/PPPQ2PP/2KR2NR w - - 8 11,I saw 12. e5 a couple of moves ago but needed to get it into a good position
+21,Bc4,d3c4,rnb2rk1/pp2ppbp/3q2p1/2pN4/2B1PPn1/4B3/PPPQ2PP/2KR2NR b - - 9 11,I think he was thinking of protecting his queen from a discovered attack but I had other plans
+22,Rd8,f8d8,rnbr2k1/pp2ppbp/3q2p1/2pN4/2B1PPn1/4B3/PPPQ2PP/2KR2NR w - - 10 12,I think he was thinking of protecting his queen from a discovered attack but I had other plans
+23,e5,e4e5,rnbr2k1/pp2ppbp/3q2p1/2pNP3/2B2Pn1/4B3/PPPQ2PP/2KR2NR b - - 0 12,!(!) I have the second exclamation in brackets because some may disagree
+24,Qd7,d6d7,rnbr2k1/pp1qppbp/6p1/2pNP3/2B2Pn1/4B3/PPPQ2PP/2KR2NR w - - 1 13,"Not: Qc7 loses the queen, Qc6 forked by Nxe7+, Qb6 and Qa6 loses the queen, Qe6 follows the same line as the game and Qf6 loses the queen"
+25,Nxe7+,d5e7,rnbr2k1/pp1qNpbp/6p1/2p1P3/2B2Pn1/4B3/PPPQ2PP/2KR2NR b - - 0 13,Not Qxd8 because Rxd8+ then Bf8 Rxc8 wins material
+26,Qxe7,d7e7,rnbr2k1/pp2qpbp/6p1/2p1P3/2B2Pn1/4B3/PPPQ2PP/2KR2NR w - - 0 14,Not Qxd8 because Rxd8+ then Bf8 Rxc8 wins material
+27,Qxd8+,d2d8,rnbQ2k1/pp2qpbp/6p1/2p1P3/2B2Pn1/4B3/PPP3PP/2KR2NR b - - 0 14,Not Qxd8 because Rxd8+ then Bf8 Rxc8 wins material
+28,Bf8,g7f8,rnbQ1bk1/pp2qp1p/6p1/2p1P3/2B2Pn1/4B3/PPP3PP/2KR2NR w - - 1 15,Not Qxd8 because Rxd8+ then Bf8 Rxc8 wins material
+29,Qxe7,d8e7,rnb2bk1/pp2Qp1p/6p1/2p1P3/2B2Pn1/4B3/PPP3PP/2KR2NR b - - 0 15,I played this before thinking through whether or not it was sound
+30,Bxe7,f8e7,rnb3k1/pp2bp1p/6p1/2p1P3/2B2Pn1/4B3/PPP3PP/2KR2NR w - - 0 16,I played this before thinking through whether or not it was sound
+31,Bxc5,e3c5,rnb3k1/pp2bp1p/6p1/2B1P3/2B2Pn1/8/PPP3PP/2KR2NR b - - 0 16,I played this before thinking through whether or not it was sound
+32,Bxc5,e7c5,rnb3k1/pp3p1p/6p1/2b1P3/2B2Pn1/8/PPP3PP/2KR2NR w - - 0 17,? Better was Bf8 because I have to play Nh3 and he can then develop his LSB and protect it
+33,Rd8+,d1d8,rnbR2k1/pp3p1p/6p1/2b1P3/2B2Pn1/8/PPP3PP/2K3NR b - - 1 17,? Better was Bf8 because I have to play Nh3 and he can then develop his LSB and protect it
+34,Kg7,g8g7,rnbR4/pp3pkp/6p1/2b1P3/2B2Pn1/8/PPP3PP/2K3NR w - - 2 18,? Better was Bf8 because I have to play Nh3 and he can then develop his LSB and protect it
+35,Rxc8,d8c8,rnR5/pp3pkp/6p1/2b1P3/2B2Pn1/8/PPP3PP/2K3NR b - - 0 18,I don't care about Nf2 because I still get the bishop
+36,Be3+,c5e3,rnR5/pp3pkp/6p1/4P3/2B2Pn1/4b3/PPP3PP/2K3NR w - - 1 19,I used to think Kb1 was better but if Nf2 then Ke2 I only lose the exchange
+37,Kd1,c1d1,rnR5/pp3pkp/6p1/4P3/2B2Pn1/4b3/PPP3PP/3K2NR b - - 2 19,I used to think Kb1 was better but if Nf2 then Ke2 I only lose the exchange

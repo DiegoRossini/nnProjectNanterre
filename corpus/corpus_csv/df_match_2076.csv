@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The starting position for all the games.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The starting position for all the games.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The starting position for all the games.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The starting position for all the games.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,The starting position for all the games.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,The starting position for all the games.
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,The starting position for all the games.
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 5,The starting position for all the games.
+9,Nf3,g1f3,rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5,The starting position for all the games.
+10,cxd4,c5d4,rnbqkb1r/pp3ppp/4pn2/3p2B1/2Pp4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6,The starting position for all the games.
+11,Qxd4,d1d4,rnbqkb1r/pp3ppp/4pn2/3p2B1/2PQ4/2N2N2/PP2PPPP/R3KB1R b KQkq - 0 6,The starting position for all the games.
+12,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/3p2B1/2PQ4/2N2N2/PP2PPPP/R3KB1R w KQkq - 1 7,The starting position for all the games.
+13,Bxf6,g5f6,r1bqkb1r/pp3ppp/2n1pB2/3p4/2PQ4/2N2N2/PP2PPPP/R3KB1R b KQkq - 0 7,The starting position for all the games.
+14,gxf6,g7f6,r1bqkb1r/pp3p1p/2n1pp2/3p4/2PQ4/2N2N2/PP2PPPP/R3KB1R w KQkq - 0 8,The starting position for all the games.
+15,Qh4,d4h4,r1bqkb1r/pp3p1p/2n1pp2/3p4/2P4Q/2N2N2/PP2PPPP/R3KB1R b KQkq - 1 8,The starting position for all the games.
+16,d4,d5d4,r1bqkb1r/pp3p1p/2n1pp2/8/2Pp3Q/2N2N2/PP2PPPP/R3KB1R w KQkq - 0 9,The starting position for all the games.
+17,Nb5,c3b5,r1bqkb1r/pp3p1p/2n1pp2/1N6/2Pp3Q/5N2/PP2PPPP/R3KB1R b KQkq - 1 9,My opponent removes the Knight from danger.
+18,Bb4+,f8b4,r1bqk2r/pp3p1p/2n1pp2/1N6/1bPp3Q/5N2/PP2PPPP/R3KB1R w KQkq - 2 10,I develop aggressively.
+19,Nd2,f3d2,r1bqk2r/pp3p1p/2n1pp2/1N6/1bPp3Q/8/PP1NPPPP/R3KB1R b KQkq - 3 10,White interposes.
+20,f5,f6f5,r1bqk2r/pp3p1p/2n1p3/1N3p2/1bPp3Q/8/PP1NPPPP/R3KB1R w KQkq - 0 11,I offer to trade Queens.
+21,g3,g2g3,r1bqk2r/pp3p1p/2n1p3/1N3p2/1bPp3Q/6P1/PP1NPP1P/R3KB1R b KQkq - 0 11,White wants me to initiate the exchange.
+22,Qxh4,d8h4,r1b1k2r/pp3p1p/2n1p3/1N3p2/1bPp3q/6P1/PP1NPP1P/R3KB1R w KQkq - 0 12,I do so...
+23,gxh4,g3h4,r1b1k2r/pp3p1p/2n1p3/1N3p2/1bPp3P/8/PP1NPP1P/R3KB1R b KQkq - 0 12,"...and White completes the exchange. At this point, I should play ...B-R4 to prevent the Knight fork."
+24,Rg8,h8g8,r1b1k1r1/pp3p1p/2n1p3/1N3p2/1bPp3P/8/PP1NPP1P/R3KB1R w KQq - 1 13,"I overlook the fork, however..."
+25,Nc7+,b5c7,r1b1k1r1/ppN2p1p/2n1p3/5p2/1bPp3P/8/PP1NPP1P/R3KB1R b KQq - 2 13,...and White seizes the tactical opportunity.
+26,Kd7,e8d7,r1b3r1/ppNk1p1p/2n1p3/5p2/1bPp3P/8/PP1NPP1P/R3KB1R w KQ - 3 14,Now at least White's Knight can't get back out via B7.
+27,Nxa8,c7a8,N1b3r1/pp1k1p1p/2n1p3/5p2/1bPp3P/8/PP1NPP1P/R3KB1R b KQ - 0 14,"Oh well. I can win the Knight, so i'll only be down an Exchange. I'll fight on for a bit."
+28,Kd6,d7d6,N1b3r1/pp3p1p/2nkp3/5p2/1bPp3P/8/PP1NPP1P/R3KB1R w KQ - 1 15,"To clear a square for the B, so I can discover an attack on the Knight."
+29,Bg2,f1g2,N1b3r1/pp3p1p/2nkp3/5p2/1bPp3P/8/PP1NPPBP/R3K2R b KQ - 2 15,"This B is en prise, but I'm too intent on winning the Knight to notice immediately."
+30,Bd7,c8d7,N5r1/pp1b1p1p/2nkp3/5p2/1bPp3P/8/PP1NPPBP/R3K2R w KQ - 3 16,I follow up with my plan. The Knight is trapped.
+31,Rd1,a1d1,N5r1/pp1b1p1p/2nkp3/5p2/1bPp3P/8/PP1NPPBP/3RK2R b K - 4 16,"White guards his other Knight, presumably to castle without it falling to ...BxN."
+32,Rxg2,g8g2,N7/pp1b1p1p/2nkp3/5p2/1bPp3P/8/PP1NPPrP/3RK2R w K - 0 17,"I capture the loose B, and as White can do nothing to stop me from winning the Knight as well, White resigns rather than play out an endgame down 2 pieces for a Rook."

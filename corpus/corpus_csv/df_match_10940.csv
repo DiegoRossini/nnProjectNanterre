@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queens gambit declined, a solid popular opening against 1.d4"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Queens gambit declined, a solid popular opening against 1.d4"
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Queens gambit declined, a solid popular opening against 1.d4"
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Queens gambit declined, a solid popular opening against 1.d4"
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Now the game has transposed to a semi slav except both kings knights are still at home
+6,c6,c7c6,rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,Now the game has transposed to a semi slav except both kings knights are still at home
+7,Nf3,g1f3,rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,"4.Nf6 would transpose to the mainline of the semi slav, this move seems quite Nizmo-indian like, the bishop normally does better on d6 in the semi slav"
+8,Bb4,f8b4,rnbqk1nr/pp3ppp/2p1p3/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5,"4.Nf6 would transpose to the mainline of the semi slav, this move seems quite Nizmo-indian like, the bishop normally does better on d6 in the semi slav"
+9,e3,e2e3,rnbqk1nr/pp3ppp/2p1p3/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,white devolps sencibly not fearing doubled c pawns as they will help control the centre and give black an open b file to work on
+10,Nf6,g8f6,rnbqk2r/pp3ppp/2p1pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 1 6,forcing the bishop to make a desicion
+11,a3,a2a3,rnbqk2r/pp3ppp/2p1pn2/3p4/1bPP4/P1N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 6,forcing the bishop to make a desicion
+12,Bxc3+,b4c3,rnbqk2r/pp3ppp/2p1pn2/3p4/2PP4/P1b1PN2/1P3PPP/R1BQKB1R w KQkq - 0 7,the only move really else black just admits that his bishop was misplaced and gives white a free tempo
+13,bxc3,b2c3,rnbqk2r/pp3ppp/2p1pn2/3p4/2PP4/P1P1PN2/5PPP/R1BQKB1R b KQkq - 0 7,"black starts trying to pressure the doubled pawns, but with most of his pieces on the back rank this is a bit optimistic"
+14,Ne4,f6e4,rnbqk2r/pp3ppp/2p1p3/3p4/2PPn3/P1P1PN2/5PPP/R1BQKB1R w KQkq - 1 8,"black starts trying to pressure the doubled pawns, but with most of his pieces on the back rank this is a bit optimistic"
+15,Qc2,d1c2,rnbqk2r/pp3ppp/2p1p3/3p4/2PPn3/P1P1PN2/2Q2PPP/R1B1KB1R b KQkq - 2 8,"not only protecting the c3 pawn but preventing 8...dxc4, which black often looks to play favourably in the semi slav"
+16,Qa5,d8a5,rnb1k2r/pp3ppp/2p1p3/q2p4/2PPn3/P1P1PN2/2Q2PPP/R1B1KB1R w KQkq - 3 9,continuing the plan of pressuring the c pawns. it is always best to follow your plans through even if you later decide it was a bad plan as a bad plan is better than no plan at all
+17,Bb2,c1b2,rnb1k2r/pp3ppp/2p1p3/q2p4/2PPn3/P1P1PN2/1BQ2PPP/R3KB1R b KQkq - 4 9,i prefer this square to d2 as although the c pawn is pinned i feel it is unimportant and if the centre were ever to become open the bishop would be strongly placed on the long diagonal
+18,Nd7,b8d7,r1b1k2r/pp1n1ppp/2p1p3/q2p4/2PPn3/P1P1PN2/1BQ2PPP/R3KB1R w KQkq - 5 10,"threatening the advanced knight, white now has a development advantage. also notice how bad blacks bad bishop is"
+19,Bd3,f1d3,r1b1k2r/pp1n1ppp/2p1p3/q2p4/2PPn3/P1PBPN2/1BQ2PPP/R3K2R b KQkq - 6 10,"threatening the advanced knight, white now has a development advantage. also notice how bad blacks bad bishop is"
+20,Ndf6,d7f6,r1b1k2r/pp3ppp/2p1pn2/q2p4/2PPn3/P1PBPN2/1BQ2PPP/R3K2R w KQkq - 7 11,"preparing f3, forcing the black pieces to start retreating"
+21,O-O,e1g1,r1b1k2r/pp3ppp/2p1pn2/q2p4/2PPn3/P1PBPN2/1BQ2PPP/R4RK1 b kq - 8 11,"preparing f3, forcing the black pieces to start retreating"
+22,O-O,e8g8,r1b2rk1/pp3ppp/2p1pn2/q2p4/2PPn3/P1PBPN2/1BQ2PPP/R4RK1 w - - 9 12,"preparing f3, forcing the black pieces to start retreating"
+23,Ne5,f3e5,r1b2rk1/pp3ppp/2p1pn2/q2pN3/2PPn3/P1PBP3/1BQ2PPP/R4RK1 b - - 10 12,"preparing f3, forcing the black pieces to start retreating"
+24,h6,h7h6,r1b2rk1/pp3pp1/2p1pn1p/q2pN3/2PPn3/P1PBP3/1BQ2PPP/R4RK1 w - - 0 13,"?! seems like a wasted move but it's difficult to suggest alternatives, prehaps 12...Nd7 forcing a pair of knights off, but i feel black stands worse after that as it just emphasizes how bad his light square bishop is"
+25,f3,f2f3,r1b2rk1/pp3pp1/2p1pn1p/q2pN3/2PPn3/P1PBPP2/1BQ3PP/R4RK1 b - - 0 13,forcing the blockader of the e pawn to retreat and so mobilising the central pawn mass
+26,Nd6,e4d6,r1b2rk1/pp3pp1/2pnpn1p/q2pN3/2PP4/P1PBPP2/1BQ3PP/R4RK1 w - - 1 14,"?! i think an imediate e4 is more consistant, i had planned to play e4 if the knight went to f5 but missed that a knight on e3 forks both queen and rook"
+27,c5,c4c5,r1b2rk1/pp3pp1/2pnpn1p/q1PpN3/3P4/P1PBPP2/1BQ3PP/R4RK1 b - - 0 14,"?! i think an imediate e4 is more consistant, i had planned to play e4 if the knight went to f5 but missed that a knight on e3 forks both queen and rook"
+28,Nf5,d6f5,r1b2rk1/pp3pp1/2p1pn1p/q1PpNn2/3P4/P1PBPP2/1BQ3PP/R4RK1 w - - 1 15,"unforunatly i need to first defend the e3 square before e4 is possible, obviously i dont want to capture the knight as that will give his light square bishop more scope"
+29,Bc1,b2c1,r1b2rk1/pp3pp1/2p1pn1p/q1PpNn2/3P4/P1PBPP2/2Q3PP/R1B2RK1 b - - 2 15,"unforunatly i need to first defend the e3 square before e4 is possible, obviously i dont want to capture the knight as that will give his light square bishop more scope"
+30,Qd8,a5d8,r1bq1rk1/pp3pp1/2p1pn1p/2PpNn2/3P4/P1PBPP2/2Q3PP/R1B2RK1 w - - 3 16,c7 might be a better square for the queen preparing ...b6 attacking the cramping pawns
+31,Qf2,c2f2,r1bq1rk1/pp3pp1/2p1pn1p/2PpNn2/3P4/P1PBPP2/5QPP/R1B2RK1 b - - 4 16,as the queen is no longer needed on the queenside she heads to the kingside ready for the impending opening of the position
+32,Nd7,f6d7,r1bq1rk1/pp1n1pp1/2p1p2p/2PpNn2/3P4/P1PBPP2/5QPP/R1B2RK1 w - - 5 17,"forcing off the strong central knight that ties the b pawn down, but i think it is to late try that now, the attack is coming on the kingside and this just removes a defender"
+33,Nxd7,e5d7,r1bq1rk1/pp1N1pp1/2p1p2p/2Pp1n2/3P4/P1PBPP2/5QPP/R1B2RK1 b - - 0 17,the white bishops will become deadly on the adjacent diagonals
+34,Bxd7,c8d7,r2q1rk1/pp1b1pp1/2p1p2p/2Pp1n2/3P4/P1PBPP2/5QPP/R1B2RK1 w - - 0 18,the white bishops will become deadly on the adjacent diagonals
+35,e4,e3e4,r2q1rk1/pp1b1pp1/2p1p2p/2Pp1n2/3PP3/P1PB1P2/5QPP/R1B2RK1 b - - 0 18,the white bishops will become deadly on the adjacent diagonals

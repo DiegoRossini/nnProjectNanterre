@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Standard D4 opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Offer the trade
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Offer the trade
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,He accepts
+5,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,I do not worry about the c4 pawn and develop my kingside knight
+6,Bg4,c8g4,rn1qkbnr/ppp1pppp/8/8/2pP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Threat to my knight
+7,e3,e2e3,rn1qkbnr/ppp1pppp/8/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,I do not worry about it yet (h3) instead i open up my attack on his undefended pawn
+8,Nc6,b8c6,r2qkbnr/ppp1pppp/2n5/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5,he threatens my d4 pawn and has some good jump points
+9,Bxc4,f1c4,r2qkbnr/ppp1pppp/2n5/8/2BP2b1/4PN2/PP3PPP/RNBQK2R b KQkq - 0 5,I take his pawn
+10,e6,e7e6,r2qkbnr/ppp2ppp/2n1p3/8/2BP2b1/4PN2/PP3PPP/RNBQK2R w KQkq - 0 6,he responds and opens up his bishop and queen
+11,Nc3,b1c3,r2qkbnr/ppp2ppp/2n1p3/8/2BP2b1/2N1PN2/PP3PPP/R1BQK2R b KQkq - 1 6,now i develop my knight
+12,Bb4,f8b4,r2qk1nr/ppp2ppp/2n1p3/8/1bBP2b1/2N1PN2/PP3PPP/R1BQK2R w KQkq - 2 7,he threatens to take my knight and check my king
+13,Bd2,c1d2,r2qk1nr/ppp2ppp/2n1p3/8/1bBP2b1/2N1PN2/PP1B1PPP/R2QK2R b KQkq - 3 7,I remove the pin off my knight and place my bishop on a nice square
+14,Nge7,g8e7,r2qk2r/ppp1nppp/2n1p3/8/1bBP2b1/2N1PN2/PP1B1PPP/R2QK2R w KQkq - 4 8,and now the fireworks start to begin
+15,a3,a2a3,r2qk2r/ppp1nppp/2n1p3/8/1bBP2b1/P1N1PN2/1P1B1PPP/R2QK2R b KQkq - 0 8,and now the fireworks start to begin
+16,Bxc3,b4c3,r2qk2r/ppp1nppp/2n1p3/8/2BP2b1/P1b1PN2/1P1B1PPP/R2QK2R w KQkq - 0 9,he captures my knight setting up a bishop v knight snowdown
+17,bxc3,b2c3,r2qk2r/ppp1nppp/2n1p3/8/2BP2b1/P1P1PN2/3B1PPP/R2QK2R b KQkq - 0 9,here instead of capture with my bishop i decided to play pawn takes pawn which in the long run will clog up the center of the board and prevent his knights from doing any damage
+18,O-O,e8g8,r2q1rk1/ppp1nppp/2n1p3/8/2BP2b1/P1P1PN2/3B1PPP/R2QK2R w KQ - 1 10,"I really thought he would take my knight here instead he castled which allowed me to play my next move and keep my kingside pawn structure
+
+Here I play Be2 
+
+It was later pointed out to me that I could have played a4 and I would have eventually won the game as well, but I explored that line and found that you can promote later in the game and win."
+19,Be2,c4e2,r2q1rk1/ppp1nppp/2n1p3/8/3P2b1/P1P1PN2/3BBPPP/R2QK2R b KQ - 2 10,It was just pointed out to me that i could have played e4 because the queen can always recapture at f3
+20,Na5,c6a5,r2q1rk1/ppp1nppp/4p3/n7/3P2b1/P1P1PN2/3BBPPP/R2QK2R w KQ - 3 11,knights on the rim are grim (especially when i have 2 bishops with long scopes)
+21,Qa4,d1a4,r2q1rk1/ppp1nppp/4p3/n7/Q2P2b1/P1P1PN2/3BBPPP/R3K2R b KQ - 4 11,forcing him to react to my moves
+22,Nac6,a5c6,r2q1rk1/ppp1nppp/2n1p3/8/Q2P2b1/P1P1PN2/3BBPPP/R3K2R w KQ - 5 12,swings his knight back and its not doing much threatening d4 but I have way to much defense

@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,starting with a fiancetto means I get early control of the center of the board. the trick is keeping it with that pesky bishop.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2,"I like my black variation. so there. c5 did throw me off a bit, though."
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/4p3/8/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2,"I like my black variation. so there. c5 did throw me off a bit, though."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3,"I like my black variation. so there. c5 did throw me off a bit, though."
+5,e3,e2e3,rnbqkb1r/pppp1ppp/4pn2/8/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3,"I like my black variation. so there. c5 did throw me off a bit, though."
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 0 4,"I like my black variation. so there. c5 did throw me off a bit, though."
+7,Qf3,d1f3,rnbqkb1r/pp1p1ppp/4pn2/2p5/8/1P2PQ2/PBPP1PPP/RN2KBNR b KQkq - 1 4,"I guess i wanted to castle. I forgot the motivation, but it wasn't a bad move, was it?"
+8,Be7,f8e7,rnbqk2r/pp1pbppp/4pn2/2p5/8/1P2PQ2/PBPP1PPP/RN2KBNR w KQkq - 2 5,"I guess i wanted to castle. I forgot the motivation, but it wasn't a bad move, was it?"
+9,Ba6,f1a6,rnbqk2r/pp1pbppp/B3pn2/2p5/8/1P2PQ2/PBPP1PPP/RN2K1NR b KQkq - 3 5,error #1
+10,Nxa6,b8a6,r1bqk2r/pp1pbppp/n3pn2/2p5/8/1P2PQ2/PBPP1PPP/RN2K1NR w KQkq - 0 6,"I was in middle game last move, so it's time to advance."
+11,Nc3,b1c3,r1bqk2r/pp1pbppp/n3pn2/2p5/8/1PN1PQ2/PBPP1PPP/R3K1NR b KQkq - 1 6,"I was in middle game last move, so it's time to advance."
+12,d5,d7d5,r1bqk2r/pp2bppp/n3pn2/2pp4/8/1PN1PQ2/PBPP1PPP/R3K1NR w KQkq - 0 7,"I was in middle game last move, so it's time to advance."
+13,Nb5,c3b5,r1bqk2r/pp2bppp/n3pn2/1Npp4/8/1P2PQ2/PBPP1PPP/R3K1NR b KQkq - 1 7,that knight is simply not a threat at the moment. I wanted an early advance on a2/c2
+14,Nb4,a6b4,r1bqk2r/pp2bppp/4pn2/1Npp4/1n6/1P2PQ2/PBPP1PPP/R3K1NR w KQkq - 2 8,that knight is simply not a threat at the moment. I wanted an early advance on a2/c2
+15,Qd1,f3d1,r1bqk2r/pp2bppp/4pn2/1Npp4/1n6/1P2P3/PBPP1PPP/R2QK1NR b KQkq - 3 8,to prevent c2 fork.
+16,Qb6,d8b6,r1b1k2r/pp2bppp/1q2pn2/1Npp4/1n6/1P2P3/PBPP1PPP/R2QK1NR w KQkq - 4 9,and there goes a2. darn.
+17,Nc3,b5c3,r1b1k2r/pp2bppp/1q2pn2/2pp4/1n6/1PN1P3/PBPP1PPP/R2QK1NR b KQkq - 5 9,and there goes a2. darn.
+18,d4,d5d4,r1b1k2r/pp2bppp/1q2pn2/2p5/1n1p4/1PN1P3/PBPP1PPP/R2QK1NR w KQkq - 0 10,I want that knight gone. (this turns into a knights/bishops later on)
+19,Na4,c3a4,r1b1k2r/pp2bppp/1q2pn2/2p5/Nn1p4/1P2P3/PBPP1PPP/R2QK1NR b KQkq - 1 10,"a weak attack, but one I have to take action against."
+20,Qc6,b6c6,r1b1k2r/pp2bppp/2q1pn2/2p5/Nn1p4/1P2P3/PBPP1PPP/R2QK1NR w KQkq - 2 11,please note the unguarded g2
+21,Nf3,g1f3,r1b1k2r/pp2bppp/2q1pn2/2p5/Nn1p4/1P2PN2/PBPP1PPP/R2QK2R b KQkq - 3 11,considering that he is extremely underdeveloped (he brought his queen back to d1) I figured this was the best time to castle.
+22,O-O,e8g8,r1b2rk1/pp2bppp/2q1pn2/2p5/Nn1p4/1P2PN2/PBPP1PPP/R2QK2R w KQ - 4 12,considering that he is extremely underdeveloped (he brought his queen back to d1) I figured this was the best time to castle.
+23,exd4,e3d4,r1b2rk1/pp2bppp/2q1pn2/2p5/Nn1P4/1P3N2/PBPP1PPP/R2QK2R b KQ - 0 12,"should've taken with knight, pal."
+24,cxd4,c5d4,r1b2rk1/pp2bppp/2q1pn2/8/Nn1p4/1P3N2/PBPP1PPP/R2QK2R w KQ - 0 13,"should've taken with knight, pal."
+25,Bxd4,b2d4,r1b2rk1/pp2bppp/2q1pn2/8/Nn1B4/1P3N2/P1PP1PPP/R2QK2R b KQ - 0 13,"should've taken with knight, pal."
+26,Nxc2+,b4c2,r1b2rk1/pp2bppp/2q1pn2/8/N2B4/1P3N2/P1nP1PPP/R2QK2R w KQ - 0 14,I shoved the king into a corner. this is called: winning.
+27,Kf1,e1f1,r1b2rk1/pp2bppp/2q1pn2/8/N2B4/1P3N2/P1nP1PPP/R2Q1K1R b - - 1 14,I shoved the king into a corner. this is called: winning.
+28,Nxa1,c2a1,r1b2rk1/pp2bppp/2q1pn2/8/N2B4/1P3N2/P2P1PPP/n2Q1K1R w - - 0 15,I shoved the king into a corner. this is called: winning.
+29,Qxa1,d1a1,r1b2rk1/pp2bppp/2q1pn2/8/N2B4/1P3N2/P2P1PPP/Q4K1R b - - 0 15,I shoved the king into a corner. this is called: winning.
+30,Qb5+,c6b5,r1b2rk1/pp2bppp/4pn2/1q6/N2B4/1P3N2/P2P1PPP/Q4K1R w - - 1 16,I shoved the king into a corner. this is called: winning.
+31,Kg1,f1g1,r1b2rk1/pp2bppp/4pn2/1q6/N2B4/1P3N2/P2P1PPP/Q5KR b - - 2 16,i lose that rook
+32,Ne4,f6e4,r1b2rk1/pp2bppp/4p3/1q6/N2Bn3/1P3N2/P2P1PPP/Q5KR w - - 3 17,i lose that rook
+33,Bxg7,d4g7,r1b2rk1/pp2bpBp/4p3/1q6/N3n3/1P3N2/P2P1PPP/Q5KR b - - 0 17,i lose that rook
+34,Qe2,b5e2,r1b2rk1/pp2bpBp/4p3/8/N3n3/1P3N2/P2PqPPP/Q5KR w - - 1 18,"now that i look back, I shouldve traded queens here. I would then have a free bishop. one day too late."
+35,Qf1,a1f1,r1b2rk1/pp2bpBp/4p3/8/N3n3/1P3N2/P2PqPPP/5QKR b - - 2 18,"now that i look back, I shouldve traded queens here. I would then have a free bishop. one day too late."
+36,Nc3,e4c3,r1b2rk1/pp2bpBp/4p3/8/N7/1Pn2N2/P2PqPPP/5QKR w - - 3 19,take with pawn... take with pawn... take with paaaaaawn.
+37,Nxc3,a4c3,r1b2rk1/pp2bpBp/4p3/8/8/1PN2N2/P2PqPPP/5QKR b - - 0 19,wishful thinking is not a smart tactic. learn from my mistake.
+38,Qa6,e2a6,r1b2rk1/pp2bpBp/q3p3/8/8/1PN2N2/P2P1PPP/5QKR w - - 1 20,kind of necessary
+39,Bxf8,g7f8,r1b2Bk1/pp2bp1p/q3p3/8/8/1PN2N2/P2P1PPP/5QKR b - - 0 20,kind of necessary
+40,Kxf8,g8f8,r1b2k2/pp2bp1p/q3p3/8/8/1PN2N2/P2P1PPP/5QKR w - - 0 21,kind of necessary
+41,g3,g2g3,r1b2k2/pp2bp1p/q3p3/8/8/1PN2NP1/P2P1P1P/5QKR b - - 0 21,kind of necessary
+42,b6,b7b6,r1b2k2/p3bp1p/qp2p3/8/8/1PN2NP1/P2P1P1P/5QKR w - - 0 22,a lovely little pin.
+43,Kg2,g1g2,r1b2k2/p3bp1p/qp2p3/8/8/1PN2NP1/P2P1PKP/5Q1R b - - 1 22,a lovely little pin.
+44,Bb7,c8b7,r4k2/pb2bp1p/qp2p3/8/8/1PN2NP1/P2P1PKP/5Q1R w - - 2 23,a lovely little pin.

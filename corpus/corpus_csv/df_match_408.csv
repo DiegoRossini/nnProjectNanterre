@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The alekhine defence. Usually I don't allow black to tempt me to extend my pawns but I decided to make an exception
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,The alekhine defence. Usually I don't allow black to tempt me to extend my pawns but I decided to make an exception
+3,e5,e4e5,rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Now the game is looking something like the four pawn attack
+4,Nd5,f6d5,rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,Now the game is looking something like the four pawn attack
+5,c4,c2c4,rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,Now the game is looking something like the four pawn attack
+6,Nb6,d5b6,rnbqkb1r/pppppppp/1n6/4P3/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 1 4,Now the game is looking something like the four pawn attack
+7,d4,d2d4,rnbqkb1r/pppppppp/1n6/4P3/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4,Now the game is looking something like the four pawn attack
+8,d6,d7d6,rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5,Now the game is looking something like the four pawn attack
+9,f4,f2f4,rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq - 0 5,Now the game is looking something like the four pawn attack
+10,dxe5,d6e5,rnbqkb1r/ppp1pppp/1n6/4p3/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6,"The correct pawn capture I think, dxe5 isn't too good.. Now I have the open f-file for my rook after I castle"
+11,fxe5,f4e5,rnbqkb1r/ppp1pppp/1n6/4P3/2PP4/8/PP4PP/RNBQKBNR b KQkq - 0 6,"The correct pawn capture I think, dxe5 isn't too good.. Now I have the open f-file for my rook after I castle"
+12,c6,c7c6,rnbqkb1r/pp2pppp/1np5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 0 7,A bit inaccurate. He should have played Bf5 before this move
+13,Nc3,b1c3,rnbqkb1r/pp2pppp/1np5/4P3/2PP4/2N5/PP4PP/R1BQKBNR b KQkq - 1 7,A bit inaccurate. He should have played Bf5 before this move
+14,e6,e7e6,rnbqkb1r/pp3ppp/1np1p3/4P3/2PP4/2N5/PP4PP/R1BQKBNR w KQkq - 0 8,A bit inaccurate. He should have played Bf5 before this move
+15,Bd3,f1d3,rnbqkb1r/pp3ppp/1np1p3/4P3/2PP4/2NB4/PP4PP/R1BQK1NR b KQkq - 1 8,"Personally, I think Nd7 was better but this move is by no means bad"
+16,Be7,f8e7,rnbqk2r/pp2bppp/1np1p3/4P3/2PP4/2NB4/PP4PP/R1BQK1NR w KQkq - 2 9,"Personally, I think Nd7 was better but this move is by no means bad"
+17,Nf3,g1f3,rnbqk2r/pp2bppp/1np1p3/4P3/2PP4/2NB1N2/PP4PP/R1BQK2R b KQkq - 3 9,"Personally, I think Nd7 was better but this move is by no means bad"
+18,Na6,b8a6,r1bqk2r/pp2bppp/nnp1p3/4P3/2PP4/2NB1N2/PP4PP/R1BQK2R w KQkq - 4 10,"Personally, I think Nd7 was better but this move is by no means bad"
+19,O-O,e1g1,r1bqk2r/pp2bppp/nnp1p3/4P3/2PP4/2NB1N2/PP4PP/R1BQ1RK1 b kq - 5 10,Both sides castle but notice that black has castled into a dangerous position. White pieces are poised to pounce on that weak kingside than black pieces are ready to attack mine
+20,O-O,e8g8,r1bq1rk1/pp2bppp/nnp1p3/4P3/2PP4/2NB1N2/PP4PP/R1BQ1RK1 w - - 6 11,Both sides castle but notice that black has castled into a dangerous position. White pieces are poised to pounce on that weak kingside than black pieces are ready to attack mine
+21,Ne4,c3e4,r1bq1rk1/pp2bppp/nnp1p3/4P3/2PPN3/3B1N2/PP4PP/R1BQ1RK1 b - - 7 11,"?! I'm not sure about this my move though, it seems a bit slow"
+22,Bd7,c8d7,r2q1rk1/pp1bbppp/nnp1p3/4P3/2PPN3/3B1N2/PP4PP/R1BQ1RK1 w - - 8 12,This capture just feels wrong. Black needs defensive resources to try to hold off my attack. A better defensive plan for black was 12. g6 13. Re8 14. Bf8 to hold the dark squares around his king. Note that g6 also prevents sacrificial ideas on h7
+23,Neg5,e4g5,r2q1rk1/pp1bbppp/nnp1p3/4P1N1/2PP4/3B1N2/PP4PP/R1BQ1RK1 b - - 9 12,This capture just feels wrong. Black needs defensive resources to try to hold off my attack. A better defensive plan for black was 12. g6 13. Re8 14. Bf8 to hold the dark squares around his king. Note that g6 also prevents sacrificial ideas on h7
+24,Bxg5,e7g5,r2q1rk1/pp1b1ppp/nnp1p3/4P1b1/2PP4/3B1N2/PP4PP/R1BQ1RK1 w - - 0 13,This capture just feels wrong. Black needs defensive resources to try to hold off my attack. A better defensive plan for black was 12. g6 13. Re8 14. Bf8 to hold the dark squares around his king. Note that g6 also prevents sacrificial ideas on h7
+25,Nxg5,f3g5,r2q1rk1/pp1b1ppp/nnp1p3/4P1N1/2PP4/3B4/PP4PP/R1BQ1RK1 b - - 0 13,My opponent might think he got a tempo on me but what he just did was create a target for me
+26,h6,h7h6,r2q1rk1/pp1b1pp1/nnp1p2p/4P1N1/2PP4/3B4/PP4PP/R1BQ1RK1 w - - 0 14,My opponent might think he got a tempo on me but what he just did was create a target for me
+27,Nh3,g5h3,r2q1rk1/pp1b1pp1/nnp1p2p/4P3/2PP4/3B3N/PP4PP/R1BQ1RK1 b - - 1 14,My opponent might think he got a tempo on me but what he just did was create a target for me
+28,Nb4,a6b4,r2q1rk1/pp1b1pp1/1np1p2p/4P3/1nPP4/3B3N/PP4PP/R1BQ1RK1 w - - 2 15,This pesky move tries to move me off the b1-h7 otherwise I lose the pawn on c4 but what is a pawn loss when you can get your enemy's king
+29,Bb1,d3b1,r2q1rk1/pp1b1pp1/1np1p2p/4P3/1nPP4/7N/PP4PP/RBBQ1RK1 b - - 3 15,The best place for this bishop. The b1-h7 diagonal is just too juicy to leave
+30,Nxc4,b6c4,r2q1rk1/pp1b1pp1/2p1p2p/4P3/1nnP4/7N/PP4PP/RBBQ1RK1 w - - 0 16,Black munches a pawn but he really needs to watch his kingside
+31,Bxh6,c1h6,r2q1rk1/pp1b1pp1/2p1p2B/4P3/1nnP4/7N/PP4PP/RB1Q1RK1 b - - 0 16,"The first bishop sacrifice. Accepting it leads to 16.gxh6 17. Qg4+ kh8 18. Rf6! Where black must give up his queen to prevent an immediate mate, even then the black king still gets in trouble after 18. Qxf6 19.exf6 Rg8 20. Qh5"
+32,Nxb2,c4b2,r2q1rk1/pp1b1pp1/2p1p2B/4P3/1n1P4/7N/Pn4PP/RB1Q1RK1 w - - 0 17,?? The hungry black knight nabs another pawn and nestles my queen to the helpless black king
+33,Qg4,d1g4,r2q1rk1/pp1b1pp1/2p1p2B/4P3/1n1P2Q1/7N/Pn4PP/RB3RK1 b - - 1 17,! Very strong square for my queen. Now I threaten mate on g7.
+34,g6,g7g6,r2q1rk1/pp1b1p2/2p1p1pB/4P3/1n1P2Q1/7N/Pn4PP/RB3RK1 w - - 0 18,The only way to deal with the mate threat on g7 but this losses to....
+35,Bxg6,b1g6,r2q1rk1/pp1b1p2/2p1p1BB/4P3/1n1P2Q1/7N/Pn4PP/R4RK1 b - - 0 18,!! The second bishop sacrifice. Accepting it leads to 18. fxg6 19. Qxg4+ Kh7 or Kh8 20. Qg7#.. Blacks best chance for survival is probably Kh8 but his majesty is still in a lot of trouble after Rxf7
+36,Qe7,d8e7,r4rk1/pp1bqp2/2p1p1BB/4P3/1n1P2Q1/7N/Pn4PP/R4RK1 w - - 1 19,??? This loses very quickly. Black sees the danger of accepting and tries to bring in the queen for defence so as to capture my LSB next move but...
+37,Bh7+,g6h7,r4rk1/pp1bqp1B/2p1p2B/4P3/1n1P2Q1/7N/Pn4PP/R4RK1 b - - 2 19,"..... his queen won't have a chance to defend. A wonderful game on my path which I enjoyed playing. Remember, don't leave your king exposed and go pawn hunting.. NB:i kinda felt sad that one of the bishops didn't live to see this great victory from his army.. Cheers!"
+38,Kxh7,g8h7,r4r2/pp1bqp1k/2p1p2B/4P3/1n1P2Q1/7N/Pn4PP/R4RK1 w - - 0 20,"..... his queen won't have a chance to defend. A wonderful game on my path which I enjoyed playing. Remember, don't leave your king exposed and go pawn hunting.. NB:i kinda felt sad that one of the bishops didn't live to see this great victory from his army.. Cheers!"
+39,Qg7#,g4g7,r4r2/pp1bqpQk/2p1p2B/4P3/1n1P4/7N/Pn4PP/R4RK1 b - - 1 20,"..... his queen won't have a chance to defend. A wonderful game on my path which I enjoyed playing. Remember, don't leave your king exposed and go pawn hunting.. NB:i kinda felt sad that one of the bishops didn't live to see this great victory from his army.. Cheers!"

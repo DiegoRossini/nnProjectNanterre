@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,What else? ;-)
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Offering the King's Gambit, which I love to play as sharp alternative to the well-known second move Nf3."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"Offering the King's Gambit, which I love to play as sharp alternative to the well-known second move Nf3."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"The opponents accepts the gambit, so I'm quite lucky - to be honest, I haven't had the time yet to study the King's Gambit declined :)"
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"The usual move, developing and avoiding a queen check on h4. A sharper variant is 3. Bc4, which I haven't really tried out so far, because I'm a bit uncomfortable when my king has to move that early in the game (the opponent can force that simply with 3... Qh4+, but I've heard once that it isn't a good move at all) and hence castling king's side isn't possible anymore."
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"Bobby Fischer's refutation. In his article ""A Bust to the King's Gambit"" published in 1961, he suggests this ""high-class waiting move"" and claims ""In my opinion the King's Gambit is busted. It loses by force."""
+7,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/8/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 4,Taking more control of the center and freeing the dark-squared bishop who aims at the pawn f4.
+8,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/8/3PPpb1/5N2/PPP3PP/RNBQKB1R w KQkq - 1 5,"Pinning my knight. The usual move here is g5, trying to hold the pawn on f4."
+9,Bxf4,c1f4,rn1qkbnr/ppp2ppp/3p4/8/3PPBb1/5N2/PPP3PP/RN1QKB1R b KQkq - 0 5,"Getting back the gambit pawn, which feels good ;) Fritz 12 rates this position already as approx. +1 for White! So Black should have better not given away his pawn for free."
+10,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/8/3PPB2/5b2/PPP3PP/RN1QKB1R w KQkq - 0 6,"Taking my knight. I don't consider this to be a good move - now White has the pair of bishops, his queen can get a nice home on the open f-file, but Black hasn't developed a single piece at all."
+11,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/8/3PPB2/5Q2/PPP3PP/RN2KB1R b KQkq - 0 6,"According to Fritz, gxf3 is also quite okay, but taking with the queen is more natural."
+12,Nf6,g8f6,rn1qkb1r/ppp2ppp/3p1n2/8/3PPB2/5Q2/PPP3PP/RN2KB1R w KQkq - 1 7,Developing and aiming my pawn of e4.
+13,Bc4,f1c4,rn1qkb1r/ppp2ppp/3p1n2/8/2BPPB2/5Q2/PPP3PP/RN2K2R b KQkq - 2 7,Time for one of the key-moves in the King's Gambit! Prepares castling and puts pressure on f7. Fritz likes Nc3 the most.
+14,Qe7,d8e7,rn2kb1r/ppp1qppp/3p1n2/8/2BPPB2/5Q2/PPP3PP/RN2K2R w KQkq - 3 8,Putting more pressure on e4...
+15,Nc3,b1c3,rn2kb1r/ppp1qppp/3p1n2/8/2BPPB2/2N2Q2/PPP3PP/R3K2R b KQkq - 4 8,...so I have to defend it.
+16,d5,d6d5,rn2kb1r/ppp1qppp/5n2/3p4/2BPPB2/2N2Q2/PPP3PP/R3K2R w KQkq - 0 9,? Sacrificing a pawn.
+17,Nxd5,c3d5,rn2kb1r/ppp1qppp/5n2/3N4/2BPPB2/5Q2/PPP3PP/R3K2R b KQkq - 0 9,The best move would have been e5 - now Black mustn't capture the bishop on c4 because this would make 10. Qxb7 possible!
+18,Nxd5,f6d5,rn2kb1r/ppp1qppp/8/3n4/2BPPB2/5Q2/PPP3PP/R3K2R w KQkq - 0 10,Note that the on the first sight attractive because pawn-winning 9... Qxd4+ isn't possible because of the fork on c7: 10. Qxe4+ Nxe4 11. Nxc7+
+19,Bxd5,c4d5,rn2kb1r/ppp1qppp/8/3B4/3PPB2/5Q2/PPP3PP/R3K2R b KQkq - 0 10,"Aiming at the pawn b2, but leaving f7 *very* weak!"
+20,Qb4+,e7b4,rn2kb1r/ppp2ppp/8/3B4/1q1PPB2/5Q2/PPP3PP/R3K2R w KQkq - 1 11,"Aiming at the pawn b2, but leaving f7 *very* weak!"
+21,c3,c2c3,rn2kb1r/ppp2ppp/8/3B4/1q1PPB2/2P2Q2/PP4PP/R3K2R b KQkq - 0 11,"Better would have been Bd2, immediately creating a threat on f7."
+22,Qxb2,b4b2,rn2kb1r/ppp2ppp/8/3B4/3PPB2/2P2Q2/Pq4PP/R3K2R w KQkq - 0 12,?

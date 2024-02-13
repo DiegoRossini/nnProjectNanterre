@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Weak move.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Weak move.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Weak move.
+4,a6,a7a6,rnbqkbnr/1pp1pppp/p7/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Weak move.
+5,Nf3,g1f3,rnbqkbnr/1pp1pppp/p7/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Closing the lsb in.
+6,e6,e7e6,rnbqkbnr/1pp2ppp/p3p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Closing the lsb in.
+7,Nbd2,b1d2,rnbqkbnr/1pp2ppp/p3p3/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,First thematic move.
+8,Bd6,f8d6,rnbqk1nr/1pp2ppp/p2bp3/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 2 5,First thematic move.
+9,Ne5,f3e5,rnbqk1nr/1pp2ppp/p2bp3/3pN3/3P1B2/8/PPPNPPPP/R2QKB1R b KQkq - 3 5,Thematic answer. The fact to have preferred Nd2 instead of e3 causes black now can play f6.
+10,Nf6,g8f6,rnbqk2r/1pp2ppp/p2bpn2/3pN3/3P1B2/8/PPPNPPPP/R2QKB1R w KQkq - 4 6,Which he did not.
+11,e3,e2e3,rnbqk2r/1pp2ppp/p2bpn2/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R b KQkq - 0 6,It could have been a transposition.
+12,O-O,e8g8,rnbq1rk1/1pp2ppp/p2bpn2/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R w KQ - 1 7,The first attacking move.
+13,g4,g2g4,rnbq1rk1/1pp2ppp/p2bpn2/3pN3/3P1BP1/4P3/PPPN1P1P/R2QKB1R b KQ - 0 7,The first attacking move.
+14,Bxe5,d6e5,rnbq1rk1/1pp2ppp/p3pn2/3pb3/3P1BP1/4P3/PPPN1P1P/R2QKB1R w KQ - 0 8,"Not NxN, which leads to a Q's exchange!"
+15,dxe5,d4e5,rnbq1rk1/1pp2ppp/p3pn2/3pP3/5BP1/4P3/PPPN1P1P/R2QKB1R b KQ - 0 8,"Not NxN, which leads to a Q's exchange!"
+16,Ne4,f6e4,rnbq1rk1/1pp2ppp/p3p3/3pP3/4nBP1/4P3/PPPN1P1P/R2QKB1R w KQ - 1 9,"Not NxN, which leads to a Q's exchange!"
+17,h4,h2h4,rnbq1rk1/1pp2ppp/p3p3/3pP3/4nBPP/4P3/PPPN1P2/R2QKB1R b KQ - 0 9,"...in order to prevent Qh4 by Black, but allowing d4!"
+18,f6,f7f6,rnbq1rk1/1pp3pp/p3pp2/3pP3/4nBPP/4P3/PPPN1P2/R2QKB1R w KQ - 0 10,"Black didn't go for d4, but preferred this one. I reacted too quickly with..."
+19,c3,c2c3,rnbq1rk1/1pp3pp/p3pp2/3pP3/4nBPP/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 10,"...reinforcing my center, fearing d4. This allowed..."
+20,fxe5,f6e5,rnbq1rk1/1pp3pp/p3p3/3pp3/4nBPP/2P1P3/PP1N1P2/R2QKB1R w KQ - 0 11,...and now Bxe5 allows Nxf2.
+21,Nxe4,d2e4,rnbq1rk1/1pp3pp/p3p3/3pp3/4NBPP/2P1P3/PP3P2/R2QKB1R b KQ - 0 11,"Right, leaving my N with few places to go..."
+22,exf4,e5f4,rnbq1rk1/1pp3pp/p3p3/3p4/4NpPP/2P1P3/PP3P2/R2QKB1R w KQ - 0 12,"Right, leaving my N with few places to go..."
+23,Ng5,e4g5,rnbq1rk1/1pp3pp/p3p3/3p2N1/5pPP/2P1P3/PP3P2/R2QKB1R b KQ - 1 12,...but a very good one over here was found!
+24,fxe3,f4e3,rnbq1rk1/1pp3pp/p3p3/3p2N1/6PP/2P1p3/PP3P2/R2QKB1R w KQ - 0 13,"Oh, yes, very dangerous, but..."
+25,Qd3,d1d3,rnbq1rk1/1pp3pp/p3p3/3p2N1/6PP/2PQp3/PP3P2/R3KB1R b KQ - 1 13,...threatening mate.
+26,g6,g7g6,rnbq1rk1/1pp4p/p3p1p1/3p2N1/6PP/2PQp3/PP3P2/R3KB1R w KQ - 0 14,"Removing the offender, defending f2, and defending the in sight of h5."
+27,Qxe3,d3e3,rnbq1rk1/1pp4p/p3p1p1/3p2N1/6PP/2P1Q3/PP3P2/R3KB1R b KQ - 0 14,"Removing the offender, defending f2, and defending the in sight of h5."
+28,Qf6,d8f6,rnb2rk1/1pp4p/p3pqp1/3p2N1/6PP/2P1Q3/PP3P2/R3KB1R w KQ - 1 15,Pressing f2.
+29,h5,h4h5,rnb2rk1/1pp4p/p3pqp1/3p2NP/6P1/2P1Q3/PP3P2/R3KB1R b KQ - 0 15,Pressing g6.
+30,Nc6,b8c6,r1b2rk1/1pp4p/p1n1pqp1/3p2NP/6P1/2P1Q3/PP3P2/R3KB1R w KQ - 1 16,Prevents future WQ checks on d4 and e5.

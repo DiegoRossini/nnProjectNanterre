@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This leads to some sharp lines in this game.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,This leads to some sharp lines in this game.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,This leads to some sharp lines in this game.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,This leads to some sharp lines in this game.
+5,c4,c2c4,r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,This leads to some sharp lines in this game.
+6,Bg4,c8g4,r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 1 4,This leads to some sharp lines in this game.
+7,e3,e2e3,r2qkbnr/ppp1pppp/2n5/3p4/2PP2b1/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,This leads to some sharp lines in this game.
+8,e5,e7e5,r2qkbnr/ppp2ppp/2n5/3pp3/2PP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,This leads to some sharp lines in this game.
+9,cxd5,c4d5,r2qkbnr/ppp2ppp/2n5/3Pp3/3P2b1/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 5,"The correct response. Because this weakens blacks centre. As well, it checks the knight and forces black to lose tempo in recapturing with the Queen."
+10,Qxd5,d8d5,r3kbnr/ppp2ppp/2n5/3qp3/3P2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 6,Gaining a tempo by attacking the queen and develops another piece.
+11,Nc3,b1c3,r3kbnr/ppp2ppp/2n5/3qp3/3P2b1/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 1 6,Gaining a tempo by attacking the queen and develops another piece.
+12,Bb4,f8b4,r3k1nr/ppp2ppp/2n5/3qp3/1b1P2b1/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 2 7,pins the knight against the king.
+13,Bd2,c1d2,r3k1nr/ppp2ppp/2n5/3qp3/1b1P2b1/2N1PN2/PP1B1PPP/R2QKB1R b KQkq - 3 7,breaks the pin and threatens to capture the queen. This forces the exchange and gives white the positional plus of the bishop pair.
+14,Bxc3,b4c3,r3k1nr/ppp2ppp/2n5/3qp3/3P2b1/2b1PN2/PP1B1PPP/R2QKB1R w KQkq - 0 8,This is stronger than Bxc3 as it increases the mobility of my pawn chain and threatens to take complete control of the centre via c4.
+15,bxc3,b2c3,r3k1nr/ppp2ppp/2n5/3qp3/3P2b1/2P1PN2/P2B1PPP/R2QKB1R b KQkq - 0 8,This is stronger than Bxc3 as it increases the mobility of my pawn chain and threatens to take complete control of the centre via c4.
+16,e4,e5e4,r3k1nr/ppp2ppp/2n5/3q4/3Pp1b1/2P1PN2/P2B1PPP/R2QKB1R w KQkq - 0 9,"Hin-sight being 20/20 black should  have just continued his development. This central attack is too early. He violates open principles like develop your pieces before you start an attack. White easily repeals Black's attack because of his superior position and mobility. E4 looks dangerous but it is premature as it allows me to grab an iron grip on the centre. Plus the pawn for now is weak because black can only defend it with a piece. 
+
+Black best move in my opinion is to complete his development with 8. ...Nf6. I would have replied with Be2 preparing for the exchange on c3."
+17,c4,c3c4,r3k1nr/ppp2ppp/2n5/3q4/2PPp1b1/4PN2/P2B1PPP/R2QKB1R b KQkq - 0 9,In this game I gain massive central pawn structure and space advantage. Black's 8. ...E4 is already looking dubious.
+18,Qd6,d5d6,r3k1nr/ppp2ppp/2nq4/8/2PPp1b1/4PN2/P2B1PPP/R2QKB1R w KQkq - 1 10,forcing black to clarify the position. Here black can create a permanent weakness in White's pawn structure with the exchange on c3 with semi equality. The advantages of the exchange from White's perspective is that I can use the open file to create an attack on g7 as Black has exchanged his dark bishop. This makes the defense of g7 difficult.
+19,h3,h2h3,r3k1nr/ppp2ppp/2nq4/8/2PPp1b1/4PN1P/P2B1PP1/R2QKB1R b KQkq - 0 10,forcing black to clarify the position. Here black can create a permanent weakness in White's pawn structure with the exchange on c3 with semi equality. The advantages of the exchange from White's perspective is that I can use the open file to create an attack on g7 as Black has exchanged his dark bishop. This makes the defense of g7 difficult.
+20,Qh6,d6h6,r3k1nr/ppp2ppp/2n4q/8/2PPp1b1/4PN1P/P2B1PP1/R2QKB1R w KQkq - 1 11,Here black prevents the immediate capture of the bishop because of the pin on the rook. However I have a plan that is banking on the fact that white will capture the rook. But before I can do that I must prepare for it.
+21,d5,d4d5,r3k1nr/ppp2ppp/2n4q/3P4/2P1p1b1/4PN1P/P2B1PP1/R2QKB1R b KQkq - 0 11,"This move is a strong replay because black is running out of room. From here on in black will suffer from a weak king in the centre and lack of development. After the upcoming exchange I will have a massive attack against the king that makes up for the lost rook. Black's pieces are hopelessly discontacted and tripping over each other. Furthermore, Black will have to waste precious more time because his queen will be out of position after it captures the rook.  
+
+Black's best defense is 11. ...exc3 12. gxc3 13. Bh5. Black maintains the balance."
+22,Ne5,c6e5,r3k1nr/ppp2ppp/7q/3Pn3/2P1p1b1/4PN1P/P2B1PP1/R2QKB1R w KQkq - 1 12,"Black fail to play the best. 11. ...exc3 was a must.
+
+Nce7 is too passive. After 12. Qa4  and Rb1 Black is in serious trouble."
+23,hxg4,h3g4,r3k1nr/ppp2ppp/7q/3Pn3/2P1p1P1/4PN2/P2B1PP1/R2QKB1R b KQkq - 0 12,My threat is Qa4 with a dangerous attack against the king.
+24,Nd3+,e5d3,r3k1nr/ppp2ppp/7q/3P4/2P1p1P1/3nPN2/P2B1PP1/R2QKB1R w KQkq - 1 13,"This meets the threat of Qa4  and forces white to capture with the bishop. Which allows black to take the rook with check, saving tempo. Therefore white will not have time to play Qa4  If Black plays 12. ...Nf3  then White has the following reply. 
+
+13. gxf3 Qxh1 14. Qa4 ! Kd8(not 14. ...Kf8? 15. Qb4  Ne7 16. Qxb7 Re8 {16. ...Rc8? 17. Bb4 Re8 18. Qxc7 and white wins outright!) 15. Rb1!(the b pawn falls) b6 16. C5 and Black's queen side is destroyed. 
+
+this analysis hold true for Nce7 as well."
+25,Bxd3,f1d3,r3k1nr/ppp2ppp/7q/3P4/2P1p1P1/3BPN2/P2B1PP1/R2QK2R b KQkq - 0 13,All of whites pieces have been developed and enjoy complete mobility. Black however has had all his developed pieces removed.
+26,Qxh1+,h6h1,r3k1nr/ppp2ppp/8/3P4/2P1p1P1/3BPN2/P2B1PP1/R2QK2q w Qkq - 0 14,All of whites pieces have been developed and enjoy complete mobility. Black however has had all his developed pieces removed.
+27,Bf1,d3f1,r3k1nr/ppp2ppp/8/3P4/2P1p1P1/4PN2/P2B1PP1/R2QKB1q b Qkq - 1 14,All of whites pieces have been developed and enjoy complete mobility. Black however has had all his developed pieces removed.
+28,exf3,e4f3,r3k1nr/ppp2ppp/8/3P4/2P3P1/4Pp2/P2B1PP1/R2QKB1q w Qkq - 0 15,"notice after the exchange how black only has one piece in play. The queen is totally out of play. Whereas, White has plenty of room and mobility. white has no weak spots. Contrastingly Black has four weak pawns(g7,f7,c7 and b7) and his kings is exposed in the centre. Black has nothing for his material advantage."
+29,Qxf3,d1f3,r3k1nr/ppp2ppp/8/3P4/2P3P1/4PQ2/P2B1PP1/R3KB1q b Qkq - 0 15,"notice after the exchange how black only has one piece in play. The queen is totally out of play. Whereas, White has plenty of room and mobility. white has no weak spots. Contrastingly Black has four weak pawns(g7,f7,c7 and b7) and his kings is exposed in the centre. Black has nothing for his material advantage."
+30,Qh6,h1h6,r3k1nr/ppp2ppp/7q/3P4/2P3P1/4PQ2/P2B1PP1/R3KB2 w Qkq - 1 16,"If Black plays 15. ...Nf6 then....
+
+16. G5 Nd7 17. Qe4  Kd8(Kf8 is met with 18. Bb4 ) 18. d6! Kc8(18. ...cxd6 is met with Ba5 ) 19. dxc7 and Black is defenseless."
+31,Rb1,a1b1,r3k1nr/ppp2ppp/7q/3P4/2P3P1/4PQ2/P2B1PP1/1R2KB2 b kq - 2 16,Attacking the weak b7 square.
+32,Rb8,a8b8,1r2k1nr/ppp2ppp/7q/3P4/2P3P1/4PQ2/P2B1PP1/1R2KB2 w k - 3 17,16. ...b6 is met with force by 17. d6
+33,e4,e3e4,1r2k1nr/ppp2ppp/7q/3P4/2P1P1P1/5Q2/P2B1PP1/1R2KB2 b k - 0 17,discovery check on the queen. As well the strength and scope of my bishop is increased.

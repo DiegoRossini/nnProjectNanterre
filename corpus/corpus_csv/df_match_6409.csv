@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is one of my favorite games I've played because a lot of tactics are used to chip away at black's defense. I hope you enjoy and give me some feedback so I can improve.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,standard
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,standard
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,standard
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,standard
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,standard
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,standard
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,standard
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Putting my knight on an attacking square
+10,e5,e7e5,r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Putting my knight on an attacking square
+11,Ndb5,d4b5,r1bqkb1r/pp1p1ppp/2n2n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6,Putting my knight on an attacking square
+12,d6,d7d6,r1bqkb1r/pp3ppp/2np1n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7,Forced to retreat
+13,Bg5,c1g5,r1bqkb1r/pp3ppp/2np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 7,Forced to retreat
+14,a6,a7a6,r1bqkb1r/1p3ppp/p1np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 8,Forced to retreat
+15,Na3,b5a3,r1bqkb1r/1p3ppp/p1np1n2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R b KQkq - 1 8,Forced to retreat
+16,Be7,f8e7,r1bqk2r/1p2bppp/p1np1n2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R w KQkq - 2 9,but I put my knight right back into play
+17,Nc4,a3c4,r1bqk2r/1p2bppp/p1np1n2/4p1B1/2N1P3/2N5/PPP2PPP/R2QKB1R b KQkq - 3 9,but I put my knight right back into play
+18,b5,b7b5,r1bqk2r/4bppp/p1np1n2/1p2p1B1/2N1P3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 10,gxf6 was probably better but that doubles his pawns and leaves the g file open
+19,Bxf6,g5f6,r1bqk2r/4bppp/p1np1B2/1p2p3/2N1P3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 10,gxf6 was probably better but that doubles his pawns and leaves the g file open
+20,Bxf6,e7f6,r1bqk2r/5ppp/p1np1b2/1p2p3/2N1P3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 11,gxf6 was probably better but that doubles his pawns and leaves the g file open
+21,Nxd6+,c4d6,r1bqk2r/5ppp/p1nN1b2/1p2p3/4P3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 11,winning the pawn AND forcing the king to move
+22,Kf8,e8f8,r1bq1k1r/5ppp/p1nN1b2/1p2p3/4P3/2N5/PPP2PPP/R2QKB1R w KQ - 1 12,Bringing my queen smack in the middle of the board and pinning the knight to c6
+23,Qd5,d1d5,r1bq1k1r/5ppp/p1nN1b2/1p1Qp3/4P3/2N5/PPP2PPP/R3KB1R b KQ - 2 12,Bringing my queen smack in the middle of the board and pinning the knight to c6
+24,Qd7,d8d7,r1b2k1r/3q1ppp/p1nN1b2/1p1Qp3/4P3/2N5/PPP2PPP/R3KB1R w KQ - 3 13,Protecting the Knight
+25,Rd1,a1d1,r1b2k1r/3q1ppp/p1nN1b2/1p1Qp3/4P3/2N5/PPP2PPP/3RKB1R b K - 4 13,Bringing my rook into play. I think that 0-0-0 would have been better and have yielded the same result.
+26,Bb7,c8b7,r4k1r/1b1q1ppp/p1nN1b2/1p1Qp3/4P3/2N5/PPP2PPP/3RKB1R w K - 5 14,Freeing the knight to move
+27,Nxf7,d6f7,r4k1r/1b1q1Npp/p1n2b2/1p1Qp3/4P3/2N5/PPP2PPP/3RKB1R b K - 0 14,I saw this move immediately and no matter what black plays he will go down 2 pawns
+28,Qxf7,d7f7,r4k1r/1b3qpp/p1n2b2/1p1Qp3/4P3/2N5/PPP2PPP/3RKB1R w K - 0 15,Winning the bishop!
+29,Qxf7+,d5f7,r4k1r/1b3Qpp/p1n2b2/1p2p3/4P3/2N5/PPP2PPP/3RKB1R b K - 0 15,Winning the bishop!
+30,Kxf7,f8f7,r6r/1b3kpp/p1n2b2/1p2p3/4P3/2N5/PPP2PPP/3RKB1R w K - 0 16,Winning the bishop!
+31,Rd7+,d1d7,r6r/1b1R1kpp/p1n2b2/1p2p3/4P3/2N5/PPP2PPP/4KB1R b K - 1 16,Winning the bishop!
+32,Ke8,f7e8,r3k2r/1b1R2pp/p1n2b2/1p2p3/4P3/2N5/PPP2PPP/4KB1R w K - 2 17,"Attacking the rook, which will move 3 more times in a row"
+33,Rxb7,d7b7,r3k2r/1R4pp/p1n2b2/1p2p3/4P3/2N5/PPP2PPP/4KB1R b K - 0 17,"Attacking the rook, which will move 3 more times in a row"
+34,Na5,c6a5,r3k2r/1R4pp/p4b2/np2p3/4P3/2N5/PPP2PPP/4KB1R w K - 1 18,"Attacking the rook, which will move 3 more times in a row"
+35,Rc7,b7c7,r3k2r/2R3pp/p4b2/np2p3/4P3/2N5/PPP2PPP/4KB1R b K - 2 18,"And I leave him on a nice spot on d5, giving me control of the d file."
+36,Kd8,e8d8,r2k3r/2R3pp/p4b2/np2p3/4P3/2N5/PPP2PPP/4KB1R w K - 3 19,"And I leave him on a nice spot on d5, giving me control of the d file."
+37,Rc5,c7c5,r2k3r/6pp/p4b2/npR1p3/4P3/2N5/PPP2PPP/4KB1R b K - 4 19,"And I leave him on a nice spot on d5, giving me control of the d file."
+38,Nb7,a5b7,r2k3r/1n4pp/p4b2/1pR1p3/4P3/2N5/PPP2PPP/4KB1R w K - 5 20,"And I leave him on a nice spot on d5, giving me control of the d file."
+39,Rd5+,c5d5,r2k3r/1n4pp/p4b2/1p1Rp3/4P3/2N5/PPP2PPP/4KB1R b K - 6 20,"And I leave him on a nice spot on d5, giving me control of the d file."
+40,Ke7,d8e7,r6r/1n2k1pp/p4b2/1p1Rp3/4P3/2N5/PPP2PPP/4KB1R w K - 7 21,forcing a rook trade
+41,Bd3,f1d3,r6r/1n2k1pp/p4b2/1p1Rp3/4P3/2NB4/PPP2PPP/4K2R b K - 8 21,forcing a rook trade
+42,Rhd8,h8d8,r2r4/1n2k1pp/p4b2/1p1Rp3/4P3/2NB4/PPP2PPP/4K2R w K - 9 22,forcing a rook trade
+43,Rxd8,d5d8,r2R4/1n2k1pp/p4b2/1p2p3/4P3/2NB4/PPP2PPP/4K2R b K - 0 22,finishing my development a little late
+44,Rxd8,a8d8,3r4/1n2k1pp/p4b2/1p2p3/4P3/2NB4/PPP2PPP/4K2R w K - 0 23,finishing my development a little late
+45,O-O,e1g1,3r4/1n2k1pp/p4b2/1p2p3/4P3/2NB4/PPP2PPP/5RK1 b - - 1 23,finishing my development a little late
+46,Kf8,e7f8,3r1k2/1n4pp/p4b2/1p2p3/4P3/2NB4/PPP2PPP/5RK1 w - - 2 24,using my pawn advantage to start something on the king side
+47,f4,f2f4,3r1k2/1n4pp/p4b2/1p2p3/4PP2/2NB4/PPP3PP/5RK1 b - - 0 24,using my pawn advantage to start something on the king side
+48,Kg8,f8g8,3r2k1/1n4pp/p4b2/1p2p3/4PP2/2NB4/PPP3PP/5RK1 w - - 1 25,black is wasting his time with all these king moves
+49,Nd5,c3d5,3r2k1/1n4pp/p4b2/1p1Np3/4PP2/3B4/PPP3PP/5RK1 b - - 2 25,"an in between move, taking the bishop before I grab the pawn"
+50,exf4,e5f4,3r2k1/1n4pp/p4b2/1p1N4/4Pp2/3B4/PPP3PP/5RK1 w - - 0 26,"an in between move, taking the bishop before I grab the pawn"
+51,Nxf6+,d5f6,3r2k1/1n4pp/p4N2/1p6/4Pp2/3B4/PPP3PP/5RK1 b - - 0 26,"an in between move, taking the bishop before I grab the pawn"

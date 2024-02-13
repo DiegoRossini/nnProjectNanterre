@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"This is a good example of how a chess game can suddenly change course mid-game. In this game I make two critical mistakes, the second of which quickly lost me the match"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Reverse Silican
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,my usual development....
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,and black brings out its queen?!?! a basic rule of chess is to never bring out the queen too early.
+5,g3,g2g3,rnb1kbnr/pppp1ppp/5q2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,preparing to bring my bishop to the long diagonal (I know there's a proper name for this but I forgot how to spell it)
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Black's plan is clear now; Scholar's Mate. Not a potent attack if the opponent can recognise the danger...
+7,Nf3,g1f3,rnb1k1nr/pppp1ppp/5q2/2b1p3/2P5/2N2NP1/PP1PPP1P/R1BQKB1R b KQkq - 2 4,as it is easily countered
+8,Nh6,g8h6,rnb1k2r/pppp1ppp/5q1n/2b1p3/2P5/2N2NP1/PP1PPP1P/R1BQKB1R w KQkq - 3 5,? that's not usually a good place for a knight... If Black wanted to develop it then Ne7 would be far more preferable
+9,Nd5,c3d5,rnb1k2r/pppp1ppp/5q1n/2bNp3/2P5/5NP1/PP1PPP1P/R1BQKB1R b KQkq - 4 5,"attacking, putting my knight onto a good square and threatening a fork! (though maybe I should have moved my bishop first?)"
+10,Qd6,f6d6,rnb1k2r/pppp1ppp/3q3n/2bNp3/2P5/5NP1/PP1PPP1P/R1BQKB1R w KQkq - 5 6,"this,Qd8 and Qc6 both work to stop the fork, but I prefer this because it keeps the queen active, whereas Qd8 wastes a lot of tempo for Black (and Qc6? threatens a discovered attack after Bf2, with the added danger of the knight playing Nf6 after that)"
+11,Bg2,f1g2,rnb1k2r/pppp1ppp/3q3n/2bNp3/2P5/5NP1/PP1PPPBP/R1BQK2R b KQkq - 6 6,? bad move considering the position of Fou Leblanc... 6...c6 would be far better
+12,b6,b7b6,rnb1k2r/p1pp1ppp/1p1q3n/2bNp3/2P5/5NP1/PP1PPPBP/R1BQK2R w KQkq - 0 7,? bad move considering the position of Fou Leblanc... 6...c6 would be far better
+13,Ne3,d5e3,rnb1k2r/p1pp1ppp/1p1q3n/2b1p3/2P5/4NNP1/PP1PPPBP/R1BQK2R b KQkq - 1 7,"setting the attack up (I love the position of my knights here, btw :) )"
+14,a5,a7a5,rnb1k2r/2pp1ppp/1p1q3n/p1b1p3/2P5/4NNP1/PP1PPPBP/R1BQK2R w KQkq - 0 8,Black also had the option of 7...Bb7 8. Nh4 Bxg2 9.Nxg2
+15,Ng5,f3g5,rnb1k2r/2pp1ppp/1p1q3n/p1b1p1N1/2P5/4N1P1/PP1PPPBP/R1BQK2R b KQkq - 1 8,discovered attack....
+16,Ra7,a8a7,1nb1k2r/r1pp1ppp/1p1q3n/p1b1p1N1/2P5/4N1P1/PP1PPPBP/R1BQK2R w KQk - 2 9,but Black easily sidesteps
+17,O-O,e1g1,1nb1k2r/r1pp1ppp/1p1q3n/p1b1p1N1/2P5/4N1P1/PP1PPPBP/R1BQ1RK1 b k - 3 9,protecting my king...
+18,Qg6,d6g6,1nb1k2r/r1pp1ppp/1p4qn/p1b1p1N1/2P5/4N1P1/PP1PPPBP/R1BQ1RK1 w k - 4 10,"while Black goes for the attack, though I think it should have gone for more development"
+19,h4,h2h4,1nb1k2r/r1pp1ppp/1p4qn/p1b1p1N1/2P4P/4N1P1/PP1PPPB1/R1BQ1RK1 b k - 0 10,protection for the knight...
+20,f6,f7f6,1nb1k2r/r1pp2pp/1p3pqn/p1b1p1N1/2P4P/4N1P1/PP1PPPB1/R1BQ1RK1 w k - 0 11,but Black just launches a fresh attack!
+21,Ne4,g5e4,1nb1k2r/r1pp2pp/1p3pqn/p1b1p3/2P1N2P/4N1P1/PP1PPPB1/R1BQ1RK1 b k - 1 11,Nh3?? d6! (my knights are in a nice adjacent line again - something about this position looks really cool to me!)

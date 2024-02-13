@@ -1,0 +1,83 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,So far so standard.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2,So far so standard.
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 2 2,So far so standard.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,So far so standard.
+5,d3,d2d3,rnbqkb1r/pppp1ppp/4pn2/8/2P5/3P1N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,So far so standard.
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/3P1N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,So far so standard.
+7,b3,b2b3,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/1P1P1N2/P3PPPP/RNBQKB1R b KQkq - 0 4,"White thrusts forward his Pawns, while I focus on piece development."
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/2P5/1P1P1N2/P3PPPP/RNBQKB1R w KQkq - 0 5,"White thrusts forward his Pawns, while I focus on piece development."
+9,Bd2,c1d2,rnbqkb1r/pp3ppp/4pn2/2pp4/2P5/1P1P1N2/P2BPPPP/RN1QKB1R b KQkq - 1 5,"White thrusts forward his Pawns, while I focus on piece development."
+10,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/2P5/1P1P1N2/P2BPPPP/RN1QKB1R w KQkq - 2 6,"White thrusts forward his Pawns, while I focus on piece development."
+11,g3,g2g3,r1bqkb1r/pp3ppp/2n1pn2/2pp4/2P5/1P1P1NP1/P2BPP1P/RN1QKB1R b KQkq - 0 6,Securing my King.
+12,Bd6,f8d6,r1bqk2r/pp3ppp/2nbpn2/2pp4/2P5/1P1P1NP1/P2BPP1P/RN1QKB1R w KQkq - 1 7,Securing my King.
+13,Bg2,f1g2,r1bqk2r/pp3ppp/2nbpn2/2pp4/2P5/1P1P1NP1/P2BPPBP/RN1QK2R b KQkq - 2 7,Securing my King.
+14,O-O,e8g8,r1bq1rk1/pp3ppp/2nbpn2/2pp4/2P5/1P1P1NP1/P2BPPBP/RN1QK2R w KQ - 3 8,Securing my King.
+15,Nc3,b1c3,r1bq1rk1/pp3ppp/2nbpn2/2pp4/2P5/1PNP1NP1/P2BPPBP/R2QK2R b KQ - 4 8,Clearing the last minor piece.
+16,b6,b7b6,r1bq1rk1/p4ppp/1pnbpn2/2pp4/2P5/1PNP1NP1/P2BPPBP/R2QK2R w KQ - 0 9,Clearing the last minor piece.
+17,O-O,e1g1,r1bq1rk1/p4ppp/1pnbpn2/2pp4/2P5/1PNP1NP1/P2BPPBP/R2Q1RK1 b - - 1 9,Clearing the last minor piece.
+18,Bb7,c8b7,r2q1rk1/pb3ppp/1pnbpn2/2pp4/2P5/1PNP1NP1/P2BPPBP/R2Q1RK1 w - - 2 10,Clearing the last minor piece.
+19,Bg5,d2g5,r2q1rk1/pb3ppp/1pnbpn2/2pp2B1/2P5/1PNP1NP1/P3PPBP/R2Q1RK1 b - - 3 10,"I fork two pieces. I was expecting 12 NxP PxN 13 BxQP, but White surprised me with a sacrifce to open my King's position up."
+20,h6,h7h6,r2q1rk1/pb3pp1/1pnbpn1p/2pp2B1/2P5/1PNP1NP1/P3PPBP/R2Q1RK1 w - - 0 11,"I fork two pieces. I was expecting 12 NxP PxN 13 BxQP, but White surprised me with a sacrifce to open my King's position up."
+21,Be3,g5e3,r2q1rk1/pb3pp1/1pnbpn1p/2pp4/2P5/1PNPBNP1/P3PPBP/R2Q1RK1 b - - 1 11,"I fork two pieces. I was expecting 12 NxP PxN 13 BxQP, but White surprised me with a sacrifce to open my King's position up."
+22,d4,d5d4,r2q1rk1/pb3pp1/1pnbpn1p/2p5/2Pp4/1PNPBNP1/P3PPBP/R2Q1RK1 w - - 0 12,"I fork two pieces. I was expecting 12 NxP PxN 13 BxQP, but White surprised me with a sacrifce to open my King's position up."
+23,Bxh6,e3h6,r2q1rk1/pb3pp1/1pnbpn1B/2p5/2Pp4/1PNP1NP1/P3PPBP/R2Q1RK1 b - - 0 12,"After accepting the sacrifice, I want to clear space around my King to avoid getting trapped."
+24,gxh6,g7h6,r2q1rk1/pb3p2/1pnbpn1p/2p5/2Pp4/1PNP1NP1/P3PPBP/R2Q1RK1 w - - 0 13,"After accepting the sacrifice, I want to clear space around my King to avoid getting trapped."
+25,Na4,c3a4,r2q1rk1/pb3p2/1pnbpn1p/2p5/N1Pp4/1P1P1NP1/P3PPBP/R2Q1RK1 b - - 1 13,"After accepting the sacrifice, I want to clear space around my King to avoid getting trapped."
+26,Nh7,f6h7,r2q1rk1/pb3p1n/1pnbp2p/2p5/N1Pp4/1P1P1NP1/P3PPBP/R2Q1RK1 w - - 2 14,"After accepting the sacrifice, I want to clear space around my King to avoid getting trapped."
+27,Qd2,d1d2,r2q1rk1/pb3p1n/1pnbp2p/2p5/N1Pp4/1P1P1NP1/P2QPPBP/R4RK1 b - - 3 14,I have to focus on defense.
+28,f6,f7f6,r2q1rk1/pb5n/1pnbpp1p/2p5/N1Pp4/1P1P1NP1/P2QPPBP/R4RK1 w - - 0 15,I have to focus on defense.
+29,Qxh6,d2h6,r2q1rk1/pb5n/1pnbpp1Q/2p5/N1Pp4/1P1P1NP1/P3PPBP/R4RK1 b - - 0 15,I have to focus on defense.
+30,Qe7,d8e7,r4rk1/pb2q2n/1pnbpp1Q/2p5/N1Pp4/1P1P1NP1/P3PPBP/R4RK1 w - - 1 16,I have to focus on defense.
+31,Nh4,f3h4,r4rk1/pb2q2n/1pnbpp1Q/2p5/N1Pp3N/1P1P2P1/P3PPBP/R4RK1 b - - 2 16,"With the Queens gone, the chance of a sudden mate is lessened considerably. I would still like to move my King closer to his friends, though."
+32,Qg7,e7g7,r4rk1/pb4qn/1pnbpp1Q/2p5/N1Pp3N/1P1P2P1/P3PPBP/R4RK1 w - - 3 17,"With the Queens gone, the chance of a sudden mate is lessened considerably. I would still like to move my King closer to his friends, though."
+33,Qxg7+,h6g7,r4rk1/pb4Qn/1pnbpp2/2p5/N1Pp3N/1P1P2P1/P3PPBP/R4RK1 b - - 0 17,"With the Queens gone, the chance of a sudden mate is lessened considerably. I would still like to move my King closer to his friends, though."
+34,Kxg7,g8g7,r4r2/pb4kn/1pnbpp2/2p5/N1Pp3N/1P1P2P1/P3PPBP/R4RK1 w - - 0 18,"With the Queens gone, the chance of a sudden mate is lessened considerably. I would still like to move my King closer to his friends, though."
+35,a3,a2a3,r4r2/pb4kn/1pnbpp2/2p5/N1Pp3N/PP1P2P1/4PPBP/R4RK1 b - - 0 18,I am trying to shift my pieces to the K-side to block White's potential Pawn advance.
+36,Ng5,h7g5,r4r2/pb4k1/1pnbpp2/2p3n1/N1Pp3N/PP1P2P1/4PPBP/R4RK1 w - - 1 19,I am trying to shift my pieces to the K-side to block White's potential Pawn advance.
+37,Nb2,a4b2,r4r2/pb4k1/1pnbpp2/2p3n1/2Pp3N/PP1P2P1/1N2PPBP/R4RK1 b - - 2 19,I am trying to shift my pieces to the K-side to block White's potential Pawn advance.
+38,Nd8,c6d8,r2n1r2/pb4k1/1p1bpp2/2p3n1/2Pp3N/PP1P2P1/1N2PPBP/R4RK1 w - - 3 20,I am trying to shift my pieces to the K-side to block White's potential Pawn advance.
+39,Bxb7,g2b7,r2n1r2/pB4k1/1p1bpp2/2p3n1/2Pp3N/PP1P2P1/1N2PP1P/R4RK1 b - - 0 20,Cutting him off at the pass on the Q-side.
+40,Nxb7,d8b7,r4r2/pn4k1/1p1bpp2/2p3n1/2Pp3N/PP1P2P1/1N2PP1P/R4RK1 w - - 0 21,Cutting him off at the pass on the Q-side.
+41,a4,a3a4,r4r2/pn4k1/1p1bpp2/2p3n1/P1Pp3N/1P1P2P1/1N2PP1P/R4RK1 b - - 0 21,Cutting him off at the pass on the Q-side.
+42,a5,a7a5,r4r2/1n4k1/1p1bpp2/p1p3n1/P1Pp3N/1P1P2P1/1N2PP1P/R4RK1 w - - 0 22,Cutting him off at the pass on the Q-side.
+43,f4,f2f4,r4r2/1n4k1/1p1bpp2/p1p3n1/P1Pp1P1N/1P1P2P1/1N2P2P/R4RK1 b - - 0 22,"I was expecting 24 PxP PxP, opening a line and giving White connected passed Pawns, but was surprised when he closed the position instead."
+44,Nf7,g5f7,r4r2/1n3nk1/1p1bpp2/p1p5/P1Pp1P1N/1P1P2P1/1N2P2P/R4RK1 w - - 1 23,"I was expecting 24 PxP PxP, opening a line and giving White connected passed Pawns, but was surprised when he closed the position instead."
+45,Rae1,a1e1,r4r2/1n3nk1/1p1bpp2/p1p5/P1Pp1P1N/1P1P2P1/1N2P2P/4RRK1 b - - 2 23,"I was expecting 24 PxP PxP, opening a line and giving White connected passed Pawns, but was surprised when he closed the position instead."
+46,e5,e6e5,r4r2/1n3nk1/1p1b1p2/p1p1p3/P1Pp1P1N/1P1P2P1/1N2P2P/4RRK1 w - - 0 24,"I was expecting 24 PxP PxP, opening a line and giving White connected passed Pawns, but was surprised when he closed the position instead."
+47,f5,f4f5,r4r2/1n3nk1/1p1b1p2/p1p1pP2/P1Pp3N/1P1P2P1/1N2P2P/4RRK1 b - - 0 24,Time for the King to get in the safe zone.
+48,Nh8,f7h8,r4r1n/1n4k1/1p1b1p2/p1p1pP2/P1Pp3N/1P1P2P1/1N2P2P/4RRK1 w - - 1 25,Time for the King to get in the safe zone.
+49,g4,g3g4,r4r1n/1n4k1/1p1b1p2/p1p1pP2/P1Pp2PN/1P1P4/1N2P2P/4RRK1 b - - 0 25,Time for the King to get in the safe zone.
+50,Kf7,g7f7,r4r1n/1n3k2/1p1b1p2/p1p1pP2/P1Pp2PN/1P1P4/1N2P2P/4RRK1 w - - 1 26,Time for the King to get in the safe zone.
+51,e4,e2e4,r4r1n/1n3k2/1p1b1p2/p1p1pP2/P1PpP1PN/1P1P4/1N5P/4RRK1 b - e3 0 26,Mission accomplished. Now the hard part: blocking White on the KR and KN files.
+52,Ke7,f7e7,r4r1n/1n2k3/1p1b1p2/p1p1pP2/P1PpP1PN/1P1P4/1N5P/4RRK1 w - - 1 27,Mission accomplished. Now the hard part: blocking White on the KR and KN files.
+53,h3,h2h3,r4r1n/1n2k3/1p1b1p2/p1p1pP2/P1PpP1PN/1P1P3P/1N6/4RRK1 b - - 0 27,Mission accomplished. Now the hard part: blocking White on the KR and KN files.
+54,Kd7,e7d7,r4r1n/1n1k4/1p1b1p2/p1p1pP2/P1PpP1PN/1P1P3P/1N6/4RRK1 w - - 1 28,Mission accomplished. Now the hard part: blocking White on the KR and KN files.
+55,Kf2,g1f2,r4r1n/1n1k4/1p1b1p2/p1p1pP2/P1PpP1PN/1P1P3P/1N3K2/4RR2 b - - 2 28,Moving into position...
+56,Be7,d6e7,r4r1n/1n1kb3/1p3p2/p1p1pP2/P1PpP1PN/1P1P3P/1N3K2/4RR2 w - - 3 29,Moving into position...
+57,Rfh1,f1h1,r4r1n/1n1kb3/1p3p2/p1p1pP2/P1PpP1PN/1P1P3P/1N3K2/4R2R b - - 4 29,Moving into position...
+58,Rfg8,f8g8,r5rn/1n1kb3/1p3p2/p1p1pP2/P1PpP1PN/1P1P3P/1N3K2/4R2R w - - 5 30,Moving into position...
+59,Kg3,f2g3,r5rn/1n1kb3/1p3p2/p1p1pP2/P1PpP1PN/1P1P2KP/1N6/4R2R b - - 6 30,...opening a lane for the other Rook...
+60,Rg7,g8g7,r6n/1n1kb1r1/1p3p2/p1p1pP2/P1PpP1PN/1P1P2KP/1N6/4R2R w - - 7 31,...opening a lane for the other Rook...
+61,Nf3,h4f3,r6n/1n1kb1r1/1p3p2/p1p1pP2/P1PpP1P1/1P1P1NKP/1N6/4R2R b - - 8 31,...opening a lane for the other Rook...
+62,Nf7,h8f7,r7/1n1kbnr1/1p3p2/p1p1pP2/P1PpP1P1/1P1P1NKP/1N6/4R2R w - - 9 32,...opening a lane for the other Rook...
+63,h4,h3h4,r7/1n1kbnr1/1p3p2/p1p1pP2/P1PpP1PP/1P1P1NK1/1N6/4R2R b - - 0 32,"...and the KR file is cut off, One more thing to do..."
+64,Rh8,a8h8,7r/1n1kbnr1/1p3p2/p1p1pP2/P1PpP1PP/1P1P1NK1/1N6/4R2R w - - 1 33,"...and the KR file is cut off, One more thing to do..."
+65,h5,h4h5,7r/1n1kbnr1/1p3p2/p1p1pP1P/P1PpP1P1/1P1P1NK1/1N6/4R2R b - - 0 33,"...and the KR file is cut off, One more thing to do..."
+66,Rgh7,g7h7,7r/1n1kbn1r/1p3p2/p1p1pP1P/P1PpP1P1/1P1P1NK1/1N6/4R2R w - - 1 34,"...and the KR file is cut off, One more thing to do..."
+67,Rh4,h1h4,7r/1n1kbn1r/1p3p2/p1p1pP1P/P1PpP1PR/1P1P1NK1/1N6/4R3 b - - 2 34,Moving over the minors.
+68,Nbd6,b7d6,7r/3kbn1r/1p1n1p2/p1p1pP1P/P1PpP1PR/1P1P1NK1/1N6/4R3 w - - 3 35,Moving over the minors.
+69,Reh1,e1h1,7r/3kbn1r/1p1n1p2/p1p1pP1P/P1PpP1PR/1P1P1NK1/1N6/7R b - - 4 35,Moving over the minors.
+70,Ne8,d6e8,4n2r/3kbn1r/1p3p2/p1p1pP1P/P1PpP1PR/1P1P1NK1/1N6/7R w - - 5 36,Moving over the minors.
+71,Nd2,f3d2,4n2r/3kbn1r/1p3p2/p1p1pP1P/P1PpP1PR/1P1P2K1/1N1N4/7R b - - 6 36,This Knight guards the one potential Q-side entry at my QN4.
+72,Ng5,f7g5,4n2r/3kb2r/1p3p2/p1p1pPnP/P1PpP1PR/1P1P2K1/1N1N4/7R w - - 7 37,This Knight guards the one potential Q-side entry at my QN4.
+73,Nb1,d2b1,4n2r/3kb2r/1p3p2/p1p1pPnP/P1PpP1PR/1P1P2K1/1N6/1N5R b - - 8 37,This Knight guards the one potential Q-side entry at my QN4.
+74,Nd6,e8d6,7r/3kb2r/1p1n1p2/p1p1pPnP/P1PpP1PR/1P1P2K1/1N6/1N5R w - - 9 38,This Knight guards the one potential Q-side entry at my QN4.
+75,Na3,b1a3,7r/3kb2r/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/1N6/7R b - - 10 38,Almost there...
+76,Bf8,e7f8,5b1r/3k3r/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/1N6/7R w - - 11 39,Almost there...
+77,Nd1,b2d1,5b1r/3k3r/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/8/3N3R b - - 12 39,Almost there...
+78,Bg7,f8g7,7r/3k2br/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/8/3N3R w - - 13 40,Almost there...
+79,Nf2,d1f2,7r/3k2br/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/5N2/7R b - - 14 40,Blockade successful. Draw agreed.
+80,Kc7,d7c7,7r/2k3br/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2K1/5N2/7R w - - 15 41,Blockade successful. Draw agreed.
+81,Nh3,f2h3,7r/2k3br/1p1n1p2/p1p1pPnP/P1PpP1PR/NP1P2KN/8/7R b - - 16 41,Blockade successful. Draw agreed.
+82,Bh6,g7h6,7r/2k4r/1p1n1p1b/p1p1pPnP/P1PpP1PR/NP1P2KN/8/7R w - - 17 42,Blockade successful. Draw agreed.

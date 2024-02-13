@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I am playing the Queen's Indian Defense.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,I am playing the Queen's Indian Defense.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,I am playing the Queen's Indian Defense.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,I am playing the Queen's Indian Defense.
+5,Bf4,c1f4,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 3,Removing this defender because I want to control d5 and e4 in particular.
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p2pn2/8/3P1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 4,Removing this defender because I want to control d5 and e4 in particular.
+7,e3,e2e3,rnbqkb1r/p1pp1ppp/1p2pn2/8/3P1B2/2N1P3/PPP2PPP/R2QKBNR b KQkq - 0 4,Removing this defender because I want to control d5 and e4 in particular.
+8,Bb7,c8b7,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P1B2/2N1P3/PPP2PPP/R2QKBNR w KQkq - 1 5,Removing this defender because I want to control d5 and e4 in particular.
+9,Nf3,g1f3,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq - 2 5,Removing this defender because I want to control d5 and e4 in particular.
+10,Bb4,f8b4,rn1qk2r/pbpp1ppp/1p2pn2/8/1b1P1B2/2N1PN2/PPP2PPP/R2QKB1R w KQkq - 3 6,Removing this defender because I want to control d5 and e4 in particular.
+11,g3,g2g3,rn1qk2r/pbpp1ppp/1p2pn2/8/1b1P1B2/2N1PNP1/PPP2P1P/R2QKB1R b KQkq - 0 6,"Preparing to fianchetto, but white has also greatly restricted the maneuverability of his DSB."
+12,Bxc3+,b4c3,rn1qk2r/pbpp1ppp/1p2pn2/8/3P1B2/2b1PNP1/PPP2P1P/R2QKB1R w KQkq - 0 7,And we have doubled pawns as well. So far so good for me.
+13,bxc3,b2c3,rn1qk2r/pbpp1ppp/1p2pn2/8/3P1B2/2P1PNP1/P1P2P1P/R2QKB1R b KQkq - 0 7,And we have doubled pawns as well. So far so good for me.
+14,Ne4,f6e4,rn1qk2r/pbpp1ppp/1p2p3/8/3PnB2/2P1PNP1/P1P2P1P/R2QKB1R w KQkq - 1 8,"Centralizing the knight, aiming at c3 to capture the weak pawn. I wanted to be aggressive though my development is incomplete."
+15,Qd3,d1d3,rn1qk2r/pbpp1ppp/1p2p3/8/3PnB2/2PQPNP1/P1P2P1P/R3KB1R b KQkq - 2 8,"Taking the pawn because I have just discovered an attack against white's knight, which has no defender."
+16,Nxc3,e4c3,rn1qk2r/pbpp1ppp/1p2p3/8/3P1B2/2nQPNP1/P1P2P1P/R3KB1R w KQkq - 0 9,"Taking the pawn because I have just discovered an attack against white's knight, which has no defender."
+17,Qxc3,d3c3,rn1qk2r/pbpp1ppp/1p2p3/8/3P1B2/2Q1PNP1/P1P2P1P/R3KB1R b KQkq - 0 9,"And forcing the rook to move, meaning that white can't castle kingside. And for the moment, he can't castle queenside and most likely wouldn't want to anyway."
+18,Bxf3,b7f3,rn1qk2r/p1pp1ppp/1p2p3/8/3P1B2/2Q1PbP1/P1P2P1P/R3KB1R w KQkq - 0 10,"And forcing the rook to move, meaning that white can't castle kingside. And for the moment, he can't castle queenside and most likely wouldn't want to anyway."
+19,Rg1,h1g1,rn1qk2r/p1pp1ppp/1p2p3/8/3P1B2/2Q1PbP1/P1P2P1P/R3KBR1 b Qkq - 1 10,Continuing development
+20,Nc6,b8c6,r2qk2r/p1pp1ppp/1pn1p3/8/3P1B2/2Q1PbP1/P1P2P1P/R3KBR1 w Qkq - 2 11,Continuing development
+21,Bg2,f1g2,r2qk2r/p1pp1ppp/1pn1p3/8/3P1B2/2Q1PbP1/P1P2PBP/R3K1R1 b Qkq - 3 11,Restricting the bishop and preparing a pawn break on e5.
+22,Bxg2,f3g2,r2qk2r/p1pp1ppp/1pn1p3/8/3P1B2/2Q1P1P1/P1P2PbP/R3K1R1 w Qkq - 0 12,Restricting the bishop and preparing a pawn break on e5.
+23,Rxg2,g1g2,r2qk2r/p1pp1ppp/1pn1p3/8/3P1B2/2Q1P1P1/P1P2PRP/R3K3 b Qkq - 0 12,Restricting the bishop and preparing a pawn break on e5.
+24,O-O,e8g8,r2q1rk1/p1pp1ppp/1pn1p3/8/3P1B2/2Q1P1P1/P1P2PRP/R3K3 w Q - 1 13,Restricting the bishop and preparing a pawn break on e5.
+25,Qd3,c3d3,r2q1rk1/p1pp1ppp/1pn1p3/8/3P1B2/3QP1P1/P1P2PRP/R3K3 b Q - 2 13,Restricting the bishop and preparing a pawn break on e5.
+26,d6,d7d6,r2q1rk1/p1p2ppp/1pnpp3/8/3P1B2/3QP1P1/P1P2PRP/R3K3 w Q - 0 14,Restricting the bishop and preparing a pawn break on e5.
+27,Ke2,e1e2,r2q1rk1/p1p2ppp/1pnpp3/8/3P1B2/3QP1P1/P1P1KPRP/R7 b - - 1 14,"Further limiting the bishop, though I didn't foresee that trapping it meant that this h pawn would become the target for white to get compensation for the loss."
+28,h6,h7h6,r2q1rk1/p1p2pp1/1pnpp2p/8/3P1B2/3QP1P1/P1P1KPRP/R7 w - - 0 15,"Further limiting the bishop, though I didn't foresee that trapping it meant that this h pawn would become the target for white to get compensation for the loss."
+29,c3,c2c3,r2q1rk1/p1p2pp1/1pnpp2p/8/3P1B2/2PQP1P1/P3KPRP/R7 b - - 0 15,"Still, white didn't seem to see what was happening. Instead, he solidified his center."
+30,e5,e6e5,r2q1rk1/p1p2pp1/1pnp3p/4p3/3P1B2/2PQP1P1/P3KPRP/R7 w - - 0 16,And the bishop is mine.
+31,Bxh6,f4h6,r2q1rk1/p1p2pp1/1pnp3B/4p3/3P4/2PQP1P1/P3KPRP/R7 b - - 0 16,"But now, I have little protection. This is a problem."
+32,gxh6,g7h6,r2q1rk1/p1p2p2/1pnp3p/4p3/3P4/2PQP1P1/P3KPRP/R7 w - - 0 17,"But now, I have little protection. This is a problem."
+33,Qe4,d3e4,r2q1rk1/p1p2p2/1pnp3p/4p3/3PQ3/2P1P1P1/P3KPRP/R7 b - - 1 17,"Cutting off the white queen's options (Qg4, namely), and protecting my knight at the same time."
+34,Qd7,d8d7,r4rk1/p1pq1p2/1pnp3p/4p3/3PQ3/2P1P1P1/P3KPRP/R7 w - - 2 18,"Cutting off the white queen's options (Qg4, namely), and protecting my knight at the same time."
+35,Qh4,e4h4,r4rk1/p1pq1p2/1pnp3p/4p3/3P3Q/2P1P1P1/P3KPRP/R7 b - - 3 18,I feel horribly exposed at this point.
+36,Kh7,g8h7,r4r2/p1pq1p1k/1pnp3p/4p3/3P3Q/2P1P1P1/P3KPRP/R7 w - - 4 19,I feel horribly exposed at this point.
+37,g4,g3g4,r4r2/p1pq1p1k/1pnp3p/4p3/3P2PQ/2P1P3/P3KPRP/R7 b - - 0 19,"Trying for counterplay. This move also opens a spot for my knight that will be important, and also opens the e-file for my rook."
+38,exd4,e5d4,r4r2/p1pq1p1k/1pnp3p/8/3p2PQ/2P1P3/P3KPRP/R7 w - - 0 20,"Trying for counterplay. This move also opens a spot for my knight that will be important, and also opens the e-file for my rook."
+39,g5,g4g5,r4r2/p1pq1p1k/1pnp3p/6P1/3p3Q/2P1P3/P3KPRP/R7 b - - 0 20,Continuing the push.
+40,Qe6,d7e6,r4r2/p1p2p1k/1pnpq2p/6P1/3p3Q/2P1P3/P3KPRP/R7 w - - 1 21,Protecting.
+41,Rag1,a1g1,r4r2/p1p2p1k/1pnpq2p/6P1/3p3Q/2P1P3/P3KPRP/6R1 b - - 2 21,"Building the attack and the push of the pawn, specifically."
+42,Qxa2+,e6a2,r4r2/p1p2p1k/1pnp3p/6P1/3p3Q/2P1P3/q3KPRP/6R1 w - - 0 22,"And I decided to make a bold decision to disrupt white's initiative, the drawback being that I don't have the tempo to spend on better defense of my position. However, I thought it might be possible that attacking would generate more chances to change the flow of the game...little did I know how much that would be true!"

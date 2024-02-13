@@ -1,0 +1,89 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I won this game from a losing position.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Attacked the queen right  away
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Attacked the queen right  away
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Attacked the queen right  away
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,Attacked the queen right  away
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,Attacked the queen right  away
+7,Nc3,b1c3,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,Counter attack to my queen
+8,Nf6,g8f6,rn1qkb1r/ppp2ppp/3p1n2/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5,Counter attack to my queen
+9,d3,d2d3,rn1qkb1r/ppp2ppp/3p1n2/4p3/2B1P1b1/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,Counter attack to my queen
+10,a6,a7a6,rn1qkb1r/1pp2ppp/p2p1n2/4p3/2B1P1b1/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6,Counter attack to my queen
+11,Bg5,c1g5,rn1qkb1r/1pp2ppp/p2p1n2/4p1B1/2B1P1b1/2NP1N2/PPP2PPP/R2QK2R b KQkq - 1 6,Counter attack to my queen
+12,Be7,f8e7,rn1qk2r/1pp1bppp/p2p1n2/4p1B1/2B1P1b1/2NP1N2/PPP2PPP/R2QK2R w KQkq - 2 7,Almost penetrated into my territory
+13,Nd5,c3d5,rn1qk2r/1pp1bppp/p2p1n2/3Np1B1/2B1P1b1/3P1N2/PPP2PPP/R2QK2R b KQkq - 3 7,Almost penetrated into my territory
+14,Nxd5,f6d5,rn1qk2r/1pp1bppp/p2p4/3np1B1/2B1P1b1/3P1N2/PPP2PPP/R2QK2R w KQkq - 0 8,Good tactful move by me
+15,Bxd5,c4d5,rn1qk2r/1pp1bppp/p2p4/3Bp1B1/4P1b1/3P1N2/PPP2PPP/R2QK2R b KQkq - 0 8,I did the castling at the wrong time and move
+16,Bxg5,e7g5,rn1qk2r/1pp2ppp/p2p4/3Bp1b1/4P1b1/3P1N2/PPP2PPP/R2QK2R w KQkq - 0 9,I did the castling at the wrong time and move
+17,h3,h2h3,rn1qk2r/1pp2ppp/p2p4/3Bp1b1/4P1b1/3P1N1P/PPP2PP1/R2QK2R b KQkq - 0 9,I did the castling at the wrong time and move
+18,Bxf3,g4f3,rn1qk2r/1pp2ppp/p2p4/3Bp1b1/4P3/3P1b1P/PPP2PP1/R2QK2R w KQkq - 0 10,I did the castling at the wrong time and move
+19,Qxf3,d1f3,rn1qk2r/1pp2ppp/p2p4/3Bp1b1/4P3/3P1Q1P/PPP2PP1/R3K2R b KQkq - 0 10,I did the castling at the wrong time and move
+20,O-O,e8g8,rn1q1rk1/1pp2ppp/p2p4/3Bp1b1/4P3/3P1Q1P/PPP2PP1/R3K2R w KQ - 1 11,I did the castling at the wrong time and move
+21,Bxb7,d5b7,rn1q1rk1/1Bp2ppp/p2p4/4p1b1/4P3/3P1Q1P/PPP2PP1/R3K2R b KQ - 0 11,Knights are sacrificed and i am under attack now
+22,Ra7,a8a7,1n1q1rk1/rBp2ppp/p2p4/4p1b1/4P3/3P1Q1P/PPP2PP1/R3K2R w KQ - 1 12,Knights are sacrificed and i am under attack now
+23,h4,h3h4,1n1q1rk1/rBp2ppp/p2p4/4p1b1/4P2P/3P1Q2/PPP2PP1/R3K2R b KQ - 0 12,Knights are sacrificed and i am under attack now
+24,Rxb7,a7b7,1n1q1rk1/1rp2ppp/p2p4/4p1b1/4P2P/3P1Q2/PPP2PP1/R3K2R w KQ - 0 13,Knights are sacrificed and i am under attack now
+25,hxg5,h4g5,1n1q1rk1/1rp2ppp/p2p4/4p1P1/4P3/3P1Q2/PPP2PP1/R3K2R b KQ - 0 13,Knights are sacrificed and i am under attack now
+26,Rxb2,b7b2,1n1q1rk1/2p2ppp/p2p4/4p1P1/4P3/3P1Q2/PrP2PP1/R3K2R w KQ - 0 14,Got an chance to invade into the enemy territory
+27,Qh5,f3h5,1n1q1rk1/2p2ppp/p2p4/4p1PQ/4P3/3P4/PrP2PP1/R3K2R b KQ - 1 14,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+28,h6,h7h6,1n1q1rk1/2p2pp1/p2p3p/4p1PQ/4P3/3P4/PrP2PP1/R3K2R w KQ - 0 15,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+29,Rd1,a1d1,1n1q1rk1/2p2pp1/p2p3p/4p1PQ/4P3/3P4/PrP2PP1/3RK2R b K - 1 15,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+30,Rxc2,b2c2,1n1q1rk1/2p2pp1/p2p3p/4p1PQ/4P3/3P4/P1r2PP1/3RK2R w K - 0 16,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+31,gxh6,g5h6,1n1q1rk1/2p2pp1/p2p3P/4p2Q/4P3/3P4/P1r2PP1/3RK2R b K - 0 16,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+32,Qf6,d8f6,1n3rk1/2p2pp1/p2p1q1P/4p2Q/4P3/3P4/P1r2PP1/3RK2R w K - 1 17,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+33,f3,f2f3,1n3rk1/2p2pp1/p2p1q1P/4p2Q/4P3/3P1P2/P1r3P1/3RK2R b K - 0 17,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+34,Rxg2,c2g2,1n3rk1/2p2pp1/p2p1q1P/4p2Q/4P3/3P1P2/P5r1/3RK2R w K - 0 18,"My idea was to check mate the enemy with my rook & queen, but it was well counter attacked"
+35,hxg7,h6g7,1n3rk1/2p2pP1/p2p1q2/4p2Q/4P3/3P1P2/P5r1/3RK2R b K - 0 18,Greedy move by me instead of saving me a safe position
+36,Qxg7,f6g7,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P5r1/3RK2R w K - 0 19,Greedy move by me instead of saving me a safe position
+37,Rd2,d1d2,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P2R2r1/4K2R b K - 1 19,Greedy move by me instead of saving me a safe position
+38,Rxd2,g2d2,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P2r4/4K2R w K - 0 20,Greedy move by me instead of saving me a safe position
+39,Kxd2,e1d2,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P2K4/7R b - - 0 20,Greedy move by me instead of saving me a safe position
+40,Qg2+,g7g2,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1P2/P2K2q1/7R w - - 1 21,Greedy move by me instead of saving me a safe position
+41,Ke1,d2e1,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1P2/P5q1/4K2R b - - 2 21,well i am under a trap now
+42,Qg3+,g2g3,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1Pq1/P7/4K2R w - - 3 22,well i am under a trap now
+43,Kf1,e1f1,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1Pq1/P7/5K1R b - - 4 22,well i am under a trap now
+44,Qg7,g3g7,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P7/5K1R w - - 5 23,well i am under a trap now
+45,Rg1,h1g1,1n3rk1/2p2pq1/p2p4/4p2Q/4P3/3P1P2/P7/5KR1 b - - 6 23,My horse played a aggressive part here
+46,Qxg1+,g7g1,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1P2/P7/5Kq1 w - - 0 24,My horse played a aggressive part here
+47,Kxg1,f1g1,1n3rk1/2p2p2/p2p4/4p2Q/4P3/3P1P2/P7/6K1 b - - 0 24,My horse played a aggressive part here
+48,Kg7,g8g7,1n3r2/2p2pk1/p2p4/4p2Q/4P3/3P1P2/P7/6K1 w - - 1 25,My horse played a aggressive part here
+49,Qg5+,h5g5,1n3r2/2p2pk1/p2p4/4p1Q1/4P3/3P1P2/P7/6K1 b - - 2 25,My horse played a aggressive part here
+50,Kh7,g7h7,1n3r2/2p2p1k/p2p4/4p1Q1/4P3/3P1P2/P7/6K1 w - - 3 26,My horse played a aggressive part here
+51,Kf2,g1f2,1n3r2/2p2p1k/p2p4/4p1Q1/4P3/3P1P2/P4K2/8 b - - 4 26,My horse played a aggressive part here
+52,Nc6,b8c6,5r2/2p2p1k/p1np4/4p1Q1/4P3/3P1P2/P4K2/8 w - - 5 27,My horse played a aggressive part here
+53,Qc1,g5c1,5r2/2p2p1k/p1np4/4p3/4P3/3P1P2/P4K2/2Q5 b - - 6 27,My horse played a aggressive part here
+54,Nb4,c6b4,5r2/2p2p1k/p2p4/4p3/1n2P3/3P1P2/P4K2/2Q5 w - - 7 28,My horse played a aggressive part here
+55,Qb1,c1b1,5r2/2p2p1k/p2p4/4p3/1n2P3/3P1P2/P4K2/1Q6 b - - 8 28,In one move i would have been check mated
+56,a5,a6a5,5r2/2p2p1k/3p4/p3p3/1n2P3/3P1P2/P4K2/1Q6 w - - 0 29,In one move i would have been check mated
+57,a3,a2a3,5r2/2p2p1k/3p4/p3p3/1n2P3/P2P1P2/5K2/1Q6 b - - 0 29,In one move i would have been check mated
+58,Na6,b4a6,5r2/2p2p1k/n2p4/p3p3/4P3/P2P1P2/5K2/1Q6 w - - 1 30,In one move i would have been check mated
+59,Qb7,b1b7,5r2/1Qp2p1k/n2p4/p3p3/4P3/P2P1P2/5K2/8 b - - 2 30,In one move i would have been check mated
+60,Nc5,a6c5,5r2/1Qp2p1k/3p4/p1n1p3/4P3/P2P1P2/5K2/8 w - - 3 31,In one move i would have been check mated
+61,Qxc7,b7c7,5r2/2Q2p1k/3p4/p1n1p3/4P3/P2P1P2/5K2/8 b - - 0 31,In one move i would have been check mated
+62,Nxd3+,c5d3,5r2/2Q2p1k/3p4/p3p3/4P3/P2n1P2/5K2/8 w - - 0 32,In one move i would have been check mated
+63,Ke3,f2e3,5r2/2Q2p1k/3p4/p3p3/4P3/P2nKP2/8/8 b - - 1 32,In one move i would have been check mated
+64,Nf4,d3f4,5r2/2Q2p1k/3p4/p3p3/4Pn2/P3KP2/8/8 w - - 2 33,In one move i would have been check mated
+65,Qxd6,c7d6,5r2/5p1k/3Q4/p3p3/4Pn2/P3KP2/8/8 b - - 0 33,In one move i would have been check mated
+66,Ng6,f4g6,5r2/5p1k/3Q2n1/p3p3/4P3/P3KP2/8/8 w - - 1 34,In one move i would have been check mated
+67,Qa6,d6a6,5r2/5p1k/Q5n1/p3p3/4P3/P3KP2/8/8 b - - 2 34,In one move i would have been check mated
+68,Rb8,f8b8,1r6/5p1k/Q5n1/p3p3/4P3/P3KP2/8/8 w - - 3 35,In one move i would have been check mated
+69,Qxa5,a6a5,1r6/5p1k/6n1/Q3p3/4P3/P3KP2/8/8 b - - 0 35,In one move i would have been check mated
+70,Rb3+,b8b3,8/5p1k/6n1/Q3p3/4P3/Pr2KP2/8/8 w - - 1 36,In one move i would have been check mated
+71,Kf2,e3f2,8/5p1k/6n1/Q3p3/4P3/Pr3P2/5K2/8 b - - 2 36,In one move i would have been check mated
+72,Rb2+,b3b2,8/5p1k/6n1/Q3p3/4P3/P4P2/1r3K2/8 w - - 3 37,In one move i would have been check mated
+73,Kg3,f2g3,8/5p1k/6n1/Q3p3/4P3/P4PK1/1r6/8 b - - 4 37,In one move i would have been check mated
+74,Ra2,b2a2,8/5p1k/6n1/Q3p3/4P3/P4PK1/r7/8 w - - 5 38,In one move i would have been check mated
+75,Qc7,a5c7,8/2Q2p1k/6n1/4p3/4P3/P4PK1/r7/8 b - - 6 38,In one move i would have been check mated
+76,Rxa3,a2a3,8/2Q2p1k/6n1/4p3/4P3/r4PK1/8/8 w - - 0 39,In one move i would have been check mated
+77,Qxf7+,c7f7,8/5Q1k/6n1/4p3/4P3/r4PK1/8/8 b - - 0 39,In one move i would have been check mated
+78,Kh6,h7h6,8/5Q2/6nk/4p3/4P3/r4PK1/8/8 w - - 1 40,In one move i would have been check mated
+79,Kg4,g3g4,8/5Q2/6nk/4p3/4P1K1/r4P2/8/8 b - - 2 40,In one move i would have been check mated
+80,Re3,a3e3,8/5Q2/6nk/4p3/4P1K1/4rP2/8/8 w - - 3 41,In one move i would have been check mated
+81,Qf5,f7f5,8/8/6nk/4pQ2/4P1K1/4rP2/8/8 b - - 4 41,In one move i would have been check mated
+82,Kg7,h6g7,8/6k1/6n1/4pQ2/4P1K1/4rP2/8/8 w - - 5 42,In one move i would have been check mated
+83,Kg5,g4g5,8/6k1/6n1/4pQK1/4P3/4rP2/8/8 b - - 6 42,"Poor move by my opponent, i think he newer saw my horse."
+84,Nh8,g6h8,7n/6k1/8/4pQK1/4P3/4rP2/8/8 w - - 7 43,"Poor move by my opponent, i think he newer saw my horse."
+85,Qxe5+,f5e5,7n/6k1/8/4Q1K1/4P3/4rP2/8/8 b - - 0 43,"Poor move by my opponent, i think he newer saw my horse."
+86,Kg8,g7g8,6kn/8/8/4Q1K1/4P3/4rP2/8/8 w - - 1 44,"Poor move by my opponent, i think he newer saw my horse."
+87,Kh6,g5h6,6kn/8/7K/4Q3/4P3/4rP2/8/8 b - - 2 44,"Poor move by my opponent, i think he newer saw my horse."
+88,Nf7+,h8f7,6k1/5n2/7K/4Q3/4P3/4rP2/8/8 w - - 3 45,Master move and well the opponent resigned. it is a great game coming from a position of losing

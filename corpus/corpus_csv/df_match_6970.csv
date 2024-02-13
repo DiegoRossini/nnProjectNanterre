@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This game was between two evenly matched opponents.  I end up with a sweet mate in the end.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Im looking to transpose into the caro-kann
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,Im looking to transpose into the caro-kann
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,Im looking to transpose into the caro-kann
+5,e4,e2e4,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Standard variation of the caro-kann.
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Standard variation of the caro-kann.
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,Standard variation of the caro-kann.
+8,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,This is the standard reply forcing his knight to flee.  Instead he surprised me by comprimising his kingside on the next move
+9,f3,f2f3,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/5P2/PPP3PP/R1BQKBNR b KQkq - 0 5,His h4-e1 diagonal is exposed.  But there are no immediate attacks.
+10,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/5b2/3PN3/5P2/PPP3PP/R1BQKBNR w KQkq - 0 6,This allows me to develop my dsb.  If I develop my kings knight instead this would put my Queen on f6 after the knight exchange.  This would be more favorable to white.
+11,g4,g2g4,rn1qkbnr/pp3ppp/2p1p3/5b2/3PN1P1/5P2/PPP4P/R1BQKBNR b KQkq - 0 6,This move surprised me even more now white must castle long
+12,Bg6,f5g6,rn1qkbnr/pp3ppp/2p1p1b1/8/3PN1P1/5P2/PPP4P/R1BQKBNR w KQkq - 1 7,White is going early for a full kingside attack
+13,h4,h2h4,rn1qkbnr/pp3ppp/2p1p1b1/8/3PN1PP/5P2/PPP5/R1BQKBNR b KQkq - 0 7,White is going early for a full kingside attack
+14,h6,h7h6,rn1qkbnr/pp3pp1/2p1p1bp/8/3PN1PP/5P2/PPP5/R1BQKBNR w KQkq - 0 8,A mistake by white as you will see
+15,h5,h4h5,rn1qkbnr/pp3pp1/2p1p1bp/7P/3PN1P1/5P2/PPP5/R1BQKBNR b KQkq - 0 8,A mistake by white as you will see
+16,Bh7,g6h7,rn1qkbnr/pp3ppb/2p1p2p/7P/3PN1P1/5P2/PPP5/R1BQKBNR w KQkq - 1 9,A mistake by white as you will see
+17,Nc5,e4c5,rn1qkbnr/pp3ppb/2p1p2p/2N4P/3P2P1/5P2/PPP5/R1BQKBNR b KQkq - 2 9,A mistake by white as you will see
+18,Bxc5,f8c5,rn1qk1nr/pp3ppb/2p1p2p/2b4P/3P2P1/5P2/PPP5/R1BQKBNR w KQkq - 0 10,Now white cannot castle
+19,dxc5,d4c5,rn1qk1nr/pp3ppb/2p1p2p/2P4P/6P1/5P2/PPP5/R1BQKBNR b KQkq - 0 10,Now white cannot castle
+20,Qxd1+,d8d1,rn2k1nr/pp3ppb/2p1p2p/2P4P/6P1/5P2/PPP5/R1BqKBNR w KQkq - 0 11,Now white cannot castle
+21,Kxd1,e1d1,rn2k1nr/pp3ppb/2p1p2p/2P4P/6P1/5P2/PPP5/R1BK1BNR b kq - 0 11,Now white cannot castle
+22,Ne7,g8e7,rn2k2r/pp2nppb/2p1p2p/2P4P/6P1/5P2/PPP5/R1BK1BNR w kq - 1 12,Best square to develop my kings knight
+23,Bf4,c1f4,rn2k2r/pp2nppb/2p1p2p/2P4P/5BP1/5P2/PPP5/R2K1BNR b kq - 2 12,This is a good move by white because it prevents me from castling long which is what I wanted to do because of his kingside attack
+24,Nd7,b8d7,r3k2r/pp1nnppb/2p1p2p/2P4P/5BP1/5P2/PPP5/R2K1BNR w kq - 3 13,I develop my other knight and attack the doubled pawn at c5
+25,b4,b2b4,r3k2r/pp1nnppb/2p1p2p/2P4P/1P3BP1/5P2/P1P5/R2K1BNR b kq - 0 13,I castle to connect my rooks. Is this a bad move?  I dont know
+26,O-O,e8g8,r4rk1/pp1nnppb/2p1p2p/2P4P/1P3BP1/5P2/P1P5/R2K1BNR w - - 1 14,I castle to connect my rooks. Is this a bad move?  I dont know
+27,Bd3,f1d3,r4rk1/pp1nnppb/2p1p2p/2P4P/1P3BP1/3B1P2/P1P5/R2K2NR b - - 2 14,That was expected but now he has to retreat his bishop
+28,e5,e6e5,r4rk1/pp1nnppb/2p4p/2P1p2P/1P3BP1/3B1P2/P1P5/R2K2NR w - - 0 15,That was expected but now he has to retreat his bishop
+29,Bxh7+,d3h7,r4rk1/pp1nnppB/2p4p/2P1p2P/1P3BP1/5P2/P1P5/R2K2NR b - - 0 15,That was expected but now he has to retreat his bishop
+30,Kxh7,g8h7,r4r2/pp1nnppk/2p4p/2P1p2P/1P3BP1/5P2/P1P5/R2K2NR w - - 0 16,That was expected but now he has to retreat his bishop
+31,Be3,f4e3,r4r2/pp1nnppk/2p4p/2P1p2P/1P4P1/4BP2/P1P5/R2K2NR b - - 1 16,Getting my rook on the same file as his king
+32,Rad8,a8d8,3r1r2/pp1nnppk/2p4p/2P1p2P/1P4P1/4BP2/P1P5/R2K2NR w - - 2 17,Getting my rook on the same file as his king
+33,Ke2,d1e2,3r1r2/pp1nnppk/2p4p/2P1p2P/1P4P1/4BP2/P1P1K3/R5NR b - - 3 17,White forms a good pawn chain on the queenside
+34,Nd5,e7d5,3r1r2/pp1n1ppk/2p4p/2Pnp2P/1P4P1/4BP2/P1P1K3/R5NR w - - 4 18,White forms a good pawn chain on the queenside
+35,a3,a2a3,3r1r2/pp1n1ppk/2p4p/2Pnp2P/1P4P1/P3BP2/2P1K3/R5NR b - - 0 18,White forms a good pawn chain on the queenside
+36,Nxe3,d5e3,3r1r2/pp1n1ppk/2p4p/2P1p2P/1P4P1/P3nP2/2P1K3/R5NR w - - 0 19,I destroy the pawn chain with this move
+37,Kxe3,e2e3,3r1r2/pp1n1ppk/2p4p/2P1p2P/1P4P1/P3KP2/2P5/R5NR b - - 0 19,I destroy the pawn chain with this move
+38,a5,a7a5,3r1r2/1p1n1ppk/2p4p/p1P1p2P/1P4P1/P3KP2/2P5/R5NR w - - 0 20,I destroy the pawn chain with this move
+39,bxa5,b4a5,3r1r2/1p1n1ppk/2p4p/P1P1p2P/6P1/P3KP2/2P5/R5NR b - - 0 20,White was a little late in developing his knight
+40,Nxc5,d7c5,3r1r2/1p3ppk/2p4p/P1n1p2P/6P1/P3KP2/2P5/R5NR w - - 0 21,White was a little late in developing his knight
+41,Ne2,g1e2,3r1r2/1p3ppk/2p4p/P1n1p2P/6P1/P3KP2/2P1N3/R6R b - - 1 21,White was a little late in developing his knight
+42,Rfe8,f8e8,3rr3/1p3ppk/2p4p/P1n1p2P/6P1/P3KP2/2P1N3/R6R w - - 2 22,White goes after my backward pawn
+43,Rab1,a1b1,3rr3/1p3ppk/2p4p/P1n1p2P/6P1/P3KP2/2P1N3/1R5R b - - 3 22,White goes after my backward pawn

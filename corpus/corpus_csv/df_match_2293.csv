@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English... Many different possible lines... some of them I absolutly dislike.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,most common answer
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,White opts for a fiancheto variation
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,White opts for a fiancheto variation
+5,g3,g2g3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,White opts for a fiancheto variation
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,White opts for a fiancheto variation
+7,Bg2,f1g2,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,White opts for a fiancheto variation
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5,"Directly aiming at f2, future weak square in a fiancheto"
+9,e3,e2e3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2N1P1P1/PP1P1PBP/R1BQK1NR b KQkq - 0 5,Blocking the diagonal for the bishop
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2P5/2N1P1P1/PP1P1PBP/R1BQK1NR w KQ - 1 6,Strenghtening the center
+11,Nge2,g1e2,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2P5/2N1P1P1/PP1PNPBP/R1BQK2R b KQ - 2 6,Strenghtening the center
+12,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2P5/2N1P1P1/PP1PNPBP/R1BQK2R w KQ - 0 7,Strenghtening the center
+13,O-O,e1g1,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2P5/2N1P1P1/PP1PNPBP/R1BQ1RK1 b - - 1 7,Both kings in safe
+14,Bf5,c8f5,r2q1rk1/ppp2ppp/2np1n2/2b1pb2/2P5/2N1P1P1/PP1PNPBP/R1BQ1RK1 w - - 2 8,Contesting the center
+15,d4,d2d4,r2q1rk1/ppp2ppp/2np1n2/2b1pb2/2PP4/2N1P1P1/PP2NPBP/R1BQ1RK1 b - - 0 8,Contesting the center
+16,Bb6,c5b6,r2q1rk1/ppp2ppp/1bnp1n2/4pb2/2PP4/2N1P1P1/PP2NPBP/R1BQ1RK1 w - - 1 9,I want to keep the bishop on this daigonal
+17,d5,d4d5,r2q1rk1/ppp2ppp/1bnp1n2/3Ppb2/2P5/2N1P1P1/PP2NPBP/R1BQ1RK1 b - - 0 9,"it seems a mistake, creating one weakness on f2 and another one on e4"
+18,Nb4,c6b4,r2q1rk1/ppp2ppp/1b1p1n2/3Ppb2/1nP5/2N1P1P1/PP2NPBP/R1BQ1RK1 w - - 1 10,"it seems a mistake, creating one weakness on f2 and another one on e4"
+19,e4,e3e4,r2q1rk1/ppp2ppp/1b1p1n2/3Ppb2/1nP1P3/2N3P1/PP2NPBP/R1BQ1RK1 b - - 0 10,"it seems a mistake, creating one weakness on f2 and another one on e4"
+20,Bg6,f5g6,r2q1rk1/ppp2ppp/1b1p1nb1/3Pp3/1nP1P3/2N3P1/PP2NPBP/R1BQ1RK1 w - - 1 11,retreat
+21,a3,a2a3,r2q1rk1/ppp2ppp/1b1p1nb1/3Pp3/1nP1P3/P1N3P1/1P2NPBP/R1BQ1RK1 b - - 0 11,retreat again
+22,Na6,b4a6,r2q1rk1/ppp2ppp/nb1p1nb1/3Pp3/2P1P3/P1N3P1/1P2NPBP/R1BQ1RK1 w - - 1 12,retreat again
+23,b4,b2b4,r2q1rk1/ppp2ppp/nb1p1nb1/3Pp3/1PP1P3/P1N3P1/4NPBP/R1BQ1RK1 b - - 0 12,White's plan seems to be attacking on the queen side
+24,Nb8,a6b8,rn1q1rk1/ppp2ppp/1b1p1nb1/3Pp3/1PP1P3/P1N3P1/4NPBP/R1BQ1RK1 w - - 1 13,Retreat again
+25,Bg5,c1g5,rn1q1rk1/ppp2ppp/1b1p1nb1/3Pp1B1/1PP1P3/P1N3P1/4NPBP/R2Q1RK1 b - - 2 13,Black's plan is to attack the e and f pawns.
+26,Nbd7,b8d7,r2q1rk1/pppn1ppp/1b1p1nb1/3Pp1B1/1PP1P3/P1N3P1/4NPBP/R2Q1RK1 w - - 3 14,Black's plan is to attack the e and f pawns.
+27,Kh1,g1h1,r2q1rk1/pppn1ppp/1b1p1nb1/3Pp1B1/1PP1P3/P1N3P1/4NPBP/R2Q1R1K b - - 4 14,Probably to enable f3 or f4
+28,h6,h7h6,r2q1rk1/pppn1pp1/1b1p1nbp/3Pp1B1/1PP1P3/P1N3P1/4NPBP/R2Q1R1K w - - 0 15,First step : firing the bishop
+29,Bd2,g5d2,r2q1rk1/pppn1pp1/1b1p1nbp/3Pp3/1PP1P3/P1N3P1/3BNPBP/R2Q1R1K b - - 1 15,menacing f2
+30,Ng4,f6g4,r2q1rk1/pppn1pp1/1b1p2bp/3Pp3/1PP1P1n1/P1N3P1/3BNPBP/R2Q1R1K w - - 2 16,menacing f2
+31,Be1,d2e1,r2q1rk1/pppn1pp1/1b1p2bp/3Pp3/1PP1P1n1/P1N3P1/4NPBP/R2QBR1K b - - 3 16,Now white retreats
+32,f5,f7f5,r2q1rk1/pppn2p1/1b1p2bp/3Ppp2/1PP1P1n1/P1N3P1/4NPBP/R2QBR1K w - - 0 17,Weakening the black king but I want to menace f2 with the f rook.

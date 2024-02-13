@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,definitely an opening I'm not used to
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,my option goes to the most common answer to Nf3
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 3 2,"most common are c4, g3 or d4."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 0 3,allowing the B to come to play
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/8/2N1PN2/PPPP1PPP/R1BQKB1R b KQkq - 0 3,allowing the B to come to play
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/8/2N1PN2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,allowing the B to come to play
+7,a3,a2a3,rnbqkb1r/ppp2ppp/4pn2/3p4/8/P1N1PN2/1PPP1PPP/R1BQKB1R b KQkq - 0 4,thinking about my B
+8,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n1pn2/3p4/8/P1N1PN2/1PPP1PPP/R1BQKB1R w KQkq - 1 5,in this phase I'm putting pieces to play
+9,d3,d2d3,r1bqkb1r/ppp2ppp/2n1pn2/3p4/8/P1NPPN2/1PP2PPP/R1BQKB1R b KQkq - 0 5,and protecting my K
+10,Bd6,f8d6,r1bqk2r/ppp2ppp/2nbpn2/3p4/8/P1NPPN2/1PP2PPP/R1BQKB1R w KQkq - 1 6,and protecting my K
+11,Qe2,d1e2,r1bqk2r/ppp2ppp/2nbpn2/3p4/8/P1NPPN2/1PP1QPPP/R1B1KB1R b KQkq - 2 6,and protecting my K
+12,O-O,e8g8,r1bq1rk1/ppp2ppp/2nbpn2/3p4/8/P1NPPN2/1PP1QPPP/R1B1KB1R w KQ - 3 7,and protecting my K
+13,b4,b2b4,r1bq1rk1/ppp2ppp/2nbpn2/3p4/1P6/P1NPPN2/2P1QPPP/R1B1KB1R b KQ - 0 7,"according to the game analysis this was a mistake.
+next moves would be:
+7. b4 a5 8. b5 Ne5 9. Bd2 Bd7 10. a4 Neg4 11. h3 Ne5 12. Rb1 Qe7 13. g4 Nxf3+ 14. Qxf3 Be5"
+14,a6,a7a6,r1bq1rk1/1pp2ppp/p1nbpn2/3p4/1P6/P1NPPN2/2P1QPPP/R1B1KB1R w KQ - 0 8,"e5 was a threat. between retiring the B or the N or reinforcing the defense of e5, I preferred  taking the pawn"
+15,e4,e3e4,r1bq1rk1/1pp2ppp/p1nbpn2/3p4/1P2P3/P1NP1N2/2P1QPPP/R1B1KB1R b KQ - 0 8,"e5 was a threat. between retiring the B or the N or reinforcing the defense of e5, I preferred  taking the pawn"
+16,dxe4,d5e4,r1bq1rk1/1pp2ppp/p1nbpn2/8/1P2p3/P1NP1N2/2P1QPPP/R1B1KB1R w KQ - 0 9,"e5 was a threat. between retiring the B or the N or reinforcing the defense of e5, I preferred  taking the pawn"
+17,dxe4,d3e4,r1bq1rk1/1pp2ppp/p1nbpn2/8/1P2P3/P1N2N2/2P1QPPP/R1B1KB1R b KQ - 0 9,putting pressure on the N and opening the d rank
+18,Ne5,c6e5,r1bq1rk1/1pp2ppp/p2bpn2/4n3/1P2P3/P1N2N2/2P1QPPP/R1B1KB1R w KQ - 1 10,putting pressure on the N and opening the d rank
+19,Bb2,c1b2,r1bq1rk1/1pp2ppp/p2bpn2/4n3/1P2P3/P1N2N2/1BP1QPPP/R3KB1R b KQ - 2 10,in here my idea was to limit the action of the N while moving the B to the battlefield
+20,Bd7,c8d7,r2q1rk1/1ppb1ppp/p2bpn2/4n3/1P2P3/P1N2N2/1BP1QPPP/R3KB1R w KQ - 3 11,in here my idea was to limit the action of the N while moving the B to the battlefield
+21,Nxe5,f3e5,r2q1rk1/1ppb1ppp/p2bpn2/4N3/1P2P3/P1N5/1BP1QPPP/R3KB1R b KQ - 0 11,"funny situation.
+putting pressure on the Q knowing that the N could take the B.
+if the Q moves away I was thinking about exchanging B's with the idea of making castle on the ideal side impossible."
+22,Bxe5,d6e5,r2q1rk1/1ppb1ppp/p3pn2/4b3/1P2P3/P1N5/1BP1QPPP/R3KB1R w KQ - 0 12,"funny situation.
+putting pressure on the Q knowing that the N could take the B.
+if the Q moves away I was thinking about exchanging B's with the idea of making castle on the ideal side impossible."
+23,g3,g2g3,r2q1rk1/1ppb1ppp/p3pn2/4b3/1P2P3/P1N3P1/1BP1QP1P/R3KB1R b KQ - 0 12,"funny situation.
+putting pressure on the Q knowing that the N could take the B.
+if the Q moves away I was thinking about exchanging B's with the idea of making castle on the ideal side impossible."
+24,Bb5,d7b5,r2q1rk1/1pp2ppp/p3pn2/1b2b3/1P2P3/P1N3P1/1BP1QP1P/R3KB1R w KQ - 1 13,"funny situation.
+putting pressure on the Q knowing that the N could take the B.
+if the Q moves away I was thinking about exchanging B's with the idea of making castle on the ideal side impossible."
+25,Nxb5,c3b5,r2q1rk1/1pp2ppp/p3pn2/1N2b3/1P2P3/P5P1/1BP1QP1P/R3KB1R b KQ - 0 13,the error was made
+26,Bxb2,e5b2,r2q1rk1/1pp2ppp/p3pn2/1N6/1P2P3/P5P1/1bP1QP1P/R3KB1R w KQ - 0 14,moving away with the B while keeping the pressure on Nb5
+27,Rb1,a1b1,r2q1rk1/1pp2ppp/p3pn2/1N6/1P2P3/P5P1/1bP1QP1P/1R2KB1R b K - 1 14,moving away with the B while keeping the pressure on Nb5
+28,Be5,b2e5,r2q1rk1/1pp2ppp/p3pn2/1N2b3/1P2P3/P5P1/2P1QP1P/1R2KB1R w K - 2 15,moving away with the B while keeping the pressure on Nb5
+29,Rd1,b1d1,r2q1rk1/1pp2ppp/p3pn2/1N2b3/1P2P3/P5P1/2P1QP1P/3RKB1R b K - 3 15,"the natural attack from white.
+This is the moment I decide a crazy attack
+
+game analysis tells me that the way to go would be: … Qe8 16. f4 Bxf4 17. gxf4 axb5 18. Qxb5 Qxb5 19. Bxb5 Rxa3 20. O-O Nxe4 21. Rd7 Nc3 22. Bc4 b5 23. Bd3"
+30,axb5,a6b5,r2q1rk1/1pp2ppp/4pn2/1p2b3/1P2P3/P5P1/2P1QP1P/3RKB1R w K - 0 16,"sacrificing the Q
+
+the idea with this ladder games is to be bold on the approach to the game. 
+
+In Team games and Tournaments I would never would try this"
+31,Rxd8,d1d8,r2R1rk1/1pp2ppp/4pn2/1p2b3/1P2P3/P5P1/2P1QP1P/4KB1R b K - 0 16,White's big error. Rd2 would level things up
+32,Bc3+,e5c3,r2R1rk1/1pp2ppp/4pn2/1p6/1P2P3/P1b3P1/2P1QP1P/4KB1R w K - 1 17,White's big error. Rd2 would level things up
+33,Kd1,e1d1,r2R1rk1/1pp2ppp/4pn2/1p6/1P2P3/P1b3P1/2P1QP1P/3K1B1R b - - 2 17,White's big error. Rd2 would level things up
+34,Rfxd8+,f8d8,r2r2k1/1pp2ppp/4pn2/1p6/1P2P3/P1b3P1/2P1QP1P/3K1B1R w - - 0 18,from now on things are lost for white
+35,Kc1,d1c1,r2r2k1/1pp2ppp/4pn2/1p6/1P2P3/P1b3P1/2P1QP1P/2K2B1R b - - 1 18,... and I was happy with it!
+36,Rxa3,a8a3,3r2k1/1pp2ppp/4pn2/1p6/1P2P3/r1b3P1/2P1QP1P/2K2B1R w - - 0 19,... and I was happy with it!

@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Pe4 was undefended.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pe4 was undefended.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Pe4 was undefended.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Pe4 was undefended.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Pe4 was undefended.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Pe4 was undefended.
+7,O-O,e1g1,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 5 4,Pe4 was undefended.
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 6 5,Pe4 was undefended.
+9,Ng5,f3g5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQ1RK1 b kq - 7 5,"I'm unsure as to the point of this move.  Black has a choice of knight, bishop, or pawn to pick off Pd4.  I am partial to the bishop here."
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQ1RK1 w - - 8 6,"I'm unsure as to the point of this move.  Black has a choice of knight, bishop, or pawn to pick off Pd4.  I am partial to the bishop here."
+11,d4,d2d4,r1bq1rk1/pppp1ppp/2n2n2/2b1p1N1/2BPP3/8/PPP2PPP/RNBQ1RK1 b - - 0 6,"I'm unsure as to the point of this move.  Black has a choice of knight, bishop, or pawn to pick off Pd4.  I am partial to the bishop here."
+12,Bxd4,c5d4,r1bq1rk1/pppp1ppp/2n2n2/4p1N1/2BbP3/8/PPP2PPP/RNBQ1RK1 w - - 0 7,Just like that.
+13,Bxf7+,c4f7,r1bq1rk1/pppp1Bpp/2n2n2/4p1N1/3bP3/8/PPP2PPP/RNBQ1RK1 b - - 0 7,"While I would have moved the king, a bishop and knight ARE worth a pawn and rook.  This was not a bad move."
+14,Rxf7,f8f7,r1bq2k1/pppp1rpp/2n2n2/4p1N1/3bP3/8/PPP2PPP/RNBQ1RK1 w - - 0 8,"While I would have moved the king, a bishop and knight ARE worth a pawn and rook.  This was not a bad move."
+15,Nxf7,g5f7,r1bq2k1/pppp1Npp/2n2n2/4p3/3bP3/8/PPP2PPP/RNBQ1RK1 b - - 0 8,Oops.  Black picks up a pawn and rook for a bishop with this blunder.
+16,Kxf7,g8f7,r1bq4/pppp1kpp/2n2n2/4p3/3bP3/8/PPP2PPP/RNBQ1RK1 w - - 0 9,Oops.  Black picks up a pawn and rook for a bishop with this blunder.
+17,Be3,c1e3,r1bq4/pppp1kpp/2n2n2/4p3/3bP3/4B3/PPP2PPP/RN1Q1RK1 b - - 1 9,Oops.  Black picks up a pawn and rook for a bishop with this blunder.
+18,Bxb2,d4b2,r1bq4/pppp1kpp/2n2n2/4p3/4P3/4B3/PbP2PPP/RN1Q1RK1 w - - 0 10,"Ok what?  BxR!  BxR!  The rook is worth five (5) points, the bishop a mere three.  The reason is that the rook can cover the entire board, while black's black bishop is blind to the white squares.  In that respect a bishop is worth about half a rook.  We give it 3/5ths the value."
+19,Nd2,b1d2,r1bq4/pppp1kpp/2n2n2/4p3/4P3/4B3/PbPN1PPP/R2Q1RK1 b - - 1 10,"Ok what?  BxR!  BxR!  The rook is worth five (5) points, the bishop a mere three.  The reason is that the rook can cover the entire board, while black's black bishop is blind to the white squares.  In that respect a bishop is worth about half a rook.  We give it 3/5ths the value."
+20,d6,d7d6,r1bq4/ppp2kpp/2np1n2/4p3/4P3/4B3/PbPN1PPP/R2Q1RK1 w - - 0 11,"Ok what?  BxR!  BxR!  The rook is worth five (5) points, the bishop a mere three.  The reason is that the rook can cover the entire board, while black's black bishop is blind to the white squares.  In that respect a bishop is worth about half a rook.  We give it 3/5ths the value."
+21,c4,c2c4,r1bq4/ppp2kpp/2np1n2/4p3/2P1P3/4B3/Pb1N1PPP/R2Q1RK1 b - - 0 11,?  Black WANTS the white rook.  So bad he can taste white rook sizzling on the campfire spit.
+22,Bxa1,b2a1,r1bq4/ppp2kpp/2np1n2/4p3/2P1P3/4B3/P2N1PPP/b2Q1RK1 w - - 0 12,"Ah, finally!"
+23,Qxa1,d1a1,r1bq4/ppp2kpp/2np1n2/4p3/2P1P3/4B3/P2N1PPP/Q4RK1 b - - 0 12,"This is the first move I saw too.  On closer examination the white bishop is trapped.  While a knight/bishop exchange usually confers no advantage, black is four points ahead.  EVERY trade improves white's ultimate power.  And this one doubles up white's pawns, even though the black king ends up in discovered check, unless white responds with Qe1 or (probably better) Qc3."
+24,Ng4,f6g4,r1bq4/ppp2kpp/2np4/4p3/2P1P1n1/4B3/P2N1PPP/Q4RK1 w - - 1 13,"This is the first move I saw too.  On closer examination the white bishop is trapped.  While a knight/bishop exchange usually confers no advantage, black is four points ahead.  EVERY trade improves white's ultimate power.  And this one doubles up white's pawns, even though the black king ends up in discovered check, unless white responds with Qe1 or (probably better) Qc3."
+25,f3,f2f3,r1bq4/ppp2kpp/2np4/4p3/2P1P1n1/4BP2/P2N2PP/Q4RK1 b - - 0 13,That move forces black to defile the now unprotected bishop.
+26,Nxe3,g4e3,r1bq4/ppp2kpp/2np4/4p3/2P1P3/4nP2/P2N2PP/Q4RK1 w - - 0 14,Black aims for a 15 move game.  White must defend against QxPg2#.  Pg3 is about all there is.
+27,Rc1,f1c1,r1bq4/ppp2kpp/2np4/4p3/2P1P3/4nP2/P2N2PP/Q1R3K1 b - - 1 14,Black aims for a 15 move game.  White must defend against QxPg2#.  Pg3 is about all there is.
+28,Qg5,d8g5,r1b5/ppp2kpp/2np4/4p1q1/2P1P3/4nP2/P2N2PP/Q1R3K1 w - - 2 15,Black aims for a 15 move game.  White must defend against QxPg2#.  Pg3 is about all there is.
+29,Kf2,g1f2,r1b5/ppp2kpp/2np4/4p1q1/2P1P3/4nP2/P2N1KPP/Q1R5 b - - 3 15,"Or that, which is MUCH better yet.  Good move for black!"
+30,Bd7,c8d7,r7/pppb1kpp/2np4/4p1q1/2P1P3/4nP2/P2N1KPP/Q1R5 w - - 4 16,I think I like Be6 better.  Puts pressure on Pc4.  NxPg2 is another.
+31,c5,c4c5,r7/pppb1kpp/2np4/2P1p1q1/4P3/4nP2/P2N1KPP/Q1R5 b - - 0 16,?  This does nothing for white.  I prefer RxPc5.
+32,dxc5,d6c5,r7/pppb1kpp/2n5/2p1p1q1/4P3/4nP2/P2N1KPP/Q1R5 w - - 0 17,?  This does nothing for white.  I prefer RxPc5.
+33,f4,f3f4,r7/pppb1kpp/2n5/2p1p1q1/4PP2/4n3/P2N1KPP/Q1R5 b - - 0 17,?  This does nothing for white.  I prefer RxPc5.
+34,Qxf4+,g5f4,r7/pppb1kpp/2n5/2p1p3/4Pq2/4n3/P2N1KPP/Q1R5 w - - 0 18,Right.
+35,Ke2,f2e2,r7/pppb1kpp/2n5/2p1p3/4Pq2/4n3/P2NK1PP/Q1R5 b - - 1 18,Or white could interpose the knight.  This is probably better.
+36,Nd4+,c6d4,r7/pppb1kpp/8/2p1p3/3nPq2/4n3/P2NK1PP/Q1R5 w - - 2 19,"Looks like white should interpose the knight (protected by king and rook).  Kc3 allows Ne2+, letting black's knight fork white's rook."
+37,Kd3,e2d3,r7/pppb1kpp/8/2p1p3/3nPq2/3Kn3/P2N2PP/Q1R5 b - - 3 19,"Looks like white should interpose the knight (protected by king and rook).  Kc3 allows Ne2+, letting black's knight fork white's rook."
+38,Bb5+,d7b5,r7/ppp2kpp/8/1bp1p3/3nPq2/3Kn3/P2N2PP/Q1R5 w - - 4 20,"Looks like white should interpose the knight (protected by king and rook).  Kc3 allows Ne2+, letting black's knight fork white's rook."
+39,Kc3,d3c3,r7/ppp2kpp/8/1bp1p3/3nPq2/2K1n3/P2N2PP/Q1R5 b - - 5 20,"?  Ne2+ forks the rook.  Oh, I am SO disappointed.  Black wants Pe4?  Seems like a waste of time with so much power in the field."
+40,Bc6,b5c6,r7/ppp2kpp/2b5/2p1p3/3nPq2/2K1n3/P2N2PP/Q1R5 w - - 6 21,"?  Ne2+ forks the rook.  Oh, I am SO disappointed.  Black wants Pe4?  Seems like a waste of time with so much power in the field."
+41,Nc4,d2c4,r7/ppp2kpp/2b5/2p1p3/2NnPq2/2K1n3/P5PP/Q1R5 b - - 7 21,"Ne4+ still looks good.  I could see a case for QxPe4, though.  But take the rook.  It WANTS to be taken."
+42,Ne2+,d4e2,r7/ppp2kpp/2b5/2p1p3/2N1Pq2/2K1n3/P3n1PP/Q1R5 w - - 8 22,:)

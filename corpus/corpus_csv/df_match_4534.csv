@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Trying out the QP opening as decided.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Oh, what luck! Can try the Queen's gambit."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,All I know is this is called the Slav defense.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,All I know is this is called the Slav defense.
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"Developing the KN, preventing ...e5."
+6,dxc4,d5c4,rnbqkbnr/pp2pppp/2p5/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,"Thinking in terms of general opening principles, I did not understand why Black did this. I rather thought it favored me."
+7,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,"Developing the QN, preparing for e4."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5,Attacking e4.
+9,e4,e2e4,rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,"Controlling the center, opening path for the KB, not blocking the QB, attacking the pawn on c4."
+10,b5,b7b5,rnbqkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,It was not hard to understand the intentions of this pawn move. It was so close to threatening my QN and weakening my central pawn.
+11,Qc2,d1c2,rnbqkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2N2/PPQ2PPP/R1B1KB1R b KQkq - 1 6,"When the N moves, the Q would support the pawn on e4. The only square from where the Q could do so without blocking other pieces was c2."
+12,Bg4,c8g4,rn1qkb1r/p3pppp/2p2n2/1p6/2pPP1b1/2N2N2/PPQ2PPP/R1B1KB1R w KQkq - 2 7,"Now Black attacks my KN, trying to weaken my central pawn. My very first thought was to add support to d4 with Be3. But after ...Bxf3 gxf3, it would destroy my chances of castling King-side. No, I must find another way to a) facilitate safe castling b) recapture on f3 d) develop another piece, if possible and d) quickly add support to the pawn on d4. Then it struck me..."
+13,Be2,f1e2,rn1qkb1r/p3pppp/2p2n2/1p6/2pPP1b1/2N2N2/PPQ1BPPP/R1B1K2R b KQkq - 3 7,"a) I'm ready to castle b) I have the bishop pair c) Black's QN is not yet active d) It will take another pawn move to unblock  Black's KB e) Black needs at least two more moves to be able to castle... Although I'm down a physical pawn, I think I'm slightly better off."
+14,Bxf3,g4f3,rn1qkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2b2/PPQ1BPPP/R1B1K2R w KQkq - 0 8,"a) I'm ready to castle b) I have the bishop pair c) Black's QN is not yet active d) It will take another pawn move to unblock  Black's KB e) Black needs at least two more moves to be able to castle... Although I'm down a physical pawn, I think I'm slightly better off."
+15,Bxf3,e2f3,rn1qkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2B2/PPQ2PPP/R1B1K2R b KQkq - 0 8,"a) I'm ready to castle b) I have the bishop pair c) Black's QN is not yet active d) It will take another pawn move to unblock  Black's KB e) Black needs at least two more moves to be able to castle... Although I'm down a physical pawn, I think I'm slightly better off."
+16,b4,b5b4,rn1qkb1r/p3pppp/2p2n2/8/1ppPP3/2N2B2/PPQ2PPP/R1B1K2R w KQkq - 0 9,This was expected.
+17,Ne2,c3e2,rn1qkb1r/p3pppp/2p2n2/8/1ppPP3/5B2/PPQ1NPPP/R1B1K2R b KQkq - 1 9,It feels so good to be prepared.
+18,e5,e7e5,rn1qkb1r/p4ppp/2p2n2/4p3/1ppPP3/5B2/PPQ1NPPP/R1B1K2R w KQkq - 0 10,"Defending d4, developing the B, clearing the back rank for connected rooks."
+19,Be3,c1e3,rn1qkb1r/p4ppp/2p2n2/4p3/1ppPP3/4BB2/PPQ1NPPP/R3K2R b KQkq - 1 10,"Defending d4, developing the B, clearing the back rank for connected rooks."
+20,c3,c4c3,rn1qkb1r/p4ppp/2p2n2/4p3/1p1PP3/2p1BB2/PPQ1NPPP/R3K2R w KQkq - 0 11,Why not?
+21,bxc3,b2c3,rn1qkb1r/p4ppp/2p2n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R3K2R b KQkq - 0 11,Why not?
+22,Bd6,f8d6,rn1qk2r/p4ppp/2pb1n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R3K2R w KQkq - 1 12,Now you want to castle?
+23,O-O,e1g1,rn1qk2r/p4ppp/2pb1n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R4RK1 b kq - 2 12,"Me, first!"
+24,O-O,e8g8,rn1q1rk1/p4ppp/2pb1n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R4RK1 w - - 3 13,Just saw some kind of tactical possibility since Black's B and Q were in line.
+25,Rfd1,f1d1,rn1q1rk1/p4ppp/2pb1n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R2R2K1 b - - 4 13,Just saw some kind of tactical possibility since Black's B and Q were in line.
+26,Qc7,d8c7,rn3rk1/p1q2ppp/2pb1n2/4p3/1p1PP3/2P1BB2/P1Q1NPPP/R2R2K1 w - - 5 14,Covering h2.
+27,Ng3,e2g3,rn3rk1/p1q2ppp/2pb1n2/4p3/1p1PP3/2P1BBN1/P1Q2PPP/R2R2K1 b - - 6 14,Covering h2.

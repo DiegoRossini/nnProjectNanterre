@@ -1,0 +1,162 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,"Here, white's a pawn has to be stationary. White's other pawns (files b-f) need to capture a combined total of 15 black pieces (black's entire army except the king), so they cannot push either. That leaves either the g or h pawn or a knight as the first move of this proof."
+2,h5,h7h5,rnbqkbnr/ppppppp1/8/7p/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+3,h4,h2h4,rnbqkbnr/ppppppp1/8/7p/6PP/8/PPPPPP2/RNBQKBNR b KQkq - 0 2,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+4,g5,g7g5,rnbqkbnr/pppppp2/8/6pp/6PP/8/PPPPPP2/RNBQKBNR w KQkq - 0 3,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+5,Rh3,h1h3,rnbqkbnr/pppppp2/8/6pp/6PP/7R/PPPPPP2/RNBQKBN1 b Qkq - 1 3,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+6,gxh4,g5h4,rnbqkbnr/pppppp2/8/7p/6Pp/7R/PPPPPP2/RNBQKBN1 w Qkq - 0 4,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+7,Re3,h3e3,rnbqkbnr/pppppp2/8/7p/6Pp/4R3/PPPPPP2/RNBQKBN1 b Qkq - 1 4,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+8,hxg4,h5g4,rnbqkbnr/pppppp2/8/8/6pp/4R3/PPPPPP2/RNBQKBN1 w Qkq - 0 5,"The idea is to promote black's g and h pawns, using white's own g and h pawns as a sacrifice."
+9,Nf3,g1f3,rnbqkbnr/pppppp2/8/8/6pp/4RN2/PPPPPP2/RNBQKB2 b Qkq - 1 5,Getting the knight out of the way of the promotions; 3 Rh3 followed by 4 Re3 gets the king's rook out of the way as well. The bishop needs to stay on f1 to prevent the newly promoted queens from delivering check.
+10,g3,g4g3,rnbqkbnr/pppppp2/8/8/7p/4RNp1/PPPPPP2/RNBQKB2 w Qkq - 0 6,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+11,Na3,b1a3,rnbqkbnr/pppppp2/8/8/7p/N3RNp1/PPPPPP2/R1BQKB2 b Qkq - 1 6,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+12,h3,h4h3,rnbqkbnr/pppppp2/8/8/8/N3RNpp/PPPPPP2/R1BQKB2 w Qkq - 0 7,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+13,Nb5,a3b5,rnbqkbnr/pppppp2/8/1N6/8/4RNpp/PPPPPP2/R1BQKB2 b Qkq - 1 7,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+14,g2,g3g2,rnbqkbnr/pppppp2/8/1N6/8/4RN1p/PPPPPPp1/R1BQKB2 w Qkq - 0 8,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+15,Na3,b5a3,rnbqkbnr/pppppp2/8/8/8/N3RN1p/PPPPPPp1/R1BQKB2 b Qkq - 1 8,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+16,h2,h3h2,rnbqkbnr/pppppp2/8/8/8/N3RN2/PPPPPPpp/R1BQKB2 w Qkq - 0 9,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+17,Nb1,a3b1,rnbqkbnr/pppppp2/8/8/8/4RN2/PPPPPPpp/RNBQKB2 b Qkq - 1 9,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+18,g1=Q,g2g1q,rnbqkbnr/pppppp2/8/8/8/4RN2/PPPPPP1p/RNBQKBq1 w Qkq - 0 10,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+19,Na3,b1a3,rnbqkbnr/pppppp2/8/8/8/N3RN2/PPPPPP1p/R1BQKBq1 b Qkq - 1 10,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+20,h1=Q,h2h1q,rnbqkbnr/pppppp2/8/8/8/N3RN2/PPPPPP2/R1BQKBqq w Qkq - 0 11,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+21,Nb1,a3b1,rnbqkbnr/pppppp2/8/8/8/4RN2/PPPPPP2/RNBQKBqq b Qkq - 1 11,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+22,f6,f7f6,rnbqkbnr/ppppp3/5p2/8/8/4RN2/PPPPPP2/RNBQKBqq w Qkq - 0 12,"I decided to promote black's f-pawn as well. However, the queen on g1 needs to get out of the way."
+23,Ng5,f3g5,rnbqkbnr/ppppp3/5p2/6N1/8/4R3/PPPPPP2/RNBQKBqq b Qkq - 1 12,An alternative is 13 ... Qh2.
+24,fxg5,f6g5,rnbqkbnr/ppppp3/8/6p1/8/4R3/PPPPPP2/RNBQKBqq w Qkq - 0 13,An alternative is 13 ... Qh2.
+25,Nc3,b1c3,rnbqkbnr/ppppp3/8/6p1/8/2N1R3/PPPPPP2/R1BQKBqq b Qkq - 1 13,An alternative is 13 ... Qh2.
+26,Qg4,g1g4,rnbqkbnr/ppppp3/8/6p1/6q1/2N1R3/PPPPPP2/R1BQKB1q w Qkq - 2 14,An alternative is 13 ... Qh2.
+27,Nb1,c3b1,rnbqkbnr/ppppp3/8/6p1/6q1/4R3/PPPPPP2/RNBQKB1q b Qkq - 3 14,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+28,Qd4,g4d4,rnbqkbnr/ppppp3/8/6p1/3q4/4R3/PPPPPP2/RNBQKB1q w Qkq - 4 15,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+29,Na3,b1a3,rnbqkbnr/ppppp3/8/6p1/3q4/N3R3/PPPPPP2/R1BQKB1q b Qkq - 5 15,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+30,g4,g5g4,rnbqkbnr/ppppp3/8/8/3q2p1/N3R3/PPPPPP2/R1BQKB1q w Qkq - 0 16,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+31,Nb1,a3b1,rnbqkbnr/ppppp3/8/8/3q2p1/4R3/PPPPPP2/RNBQKB1q b Qkq - 1 16,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+32,g3,g4g3,rnbqkbnr/ppppp3/8/8/3q4/4R1p1/PPPPPP2/RNBQKB1q w Qkq - 0 17,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+33,Na3,b1a3,rnbqkbnr/ppppp3/8/8/3q4/N3R1p1/PPPPPP2/R1BQKB1q b Qkq - 1 17,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+34,g2,g3g2,rnbqkbnr/ppppp3/8/8/3q4/N3R3/PPPPPPp1/R1BQKB1q w Qkq - 0 18,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+35,Nb1,a3b1,rnbqkbnr/ppppp3/8/8/3q4/4R3/PPPPPPp1/RNBQKB1q b Qkq - 1 18,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+36,g1=Q,g2g1q,rnbqkbnr/ppppp3/8/8/3q4/4R3/PPPPPP2/RNBQKBqq w Qkq - 0 19,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+37,Na3,b1a3,rnbqkbnr/ppppp3/8/8/3q4/N3R3/PPPPPP2/R1BQKBqq b Qkq - 1 19,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+38,Qg5,g1g5,rnbqkbnr/ppppp3/8/6q1/3q4/N3R3/PPPPPP2/R1BQKB1q w Qkq - 2 20,"Now putting these queens in place for the later capture. A non-promoted black pawn cannot move three files toward the queen side without taking three of white's pieces, so a promotion had to occur."
+39,Nb1,a3b1,rnbqkbnr/ppppp3/8/6q1/3q4/4R3/PPPPPP2/RNBQKB1q b Qkq - 3 20,Now the e and d pawns can be pushed to their capture squares.
+40,Qhh6,h1h6,rnbqkbnr/ppppp3/7q/6q1/3q4/4R3/PPPPPP2/RNBQKB2 w Qkq - 4 21,Now the e and d pawns can be pushed to their capture squares.
+41,Rh3,e3h3,rnbqkbnr/ppppp3/7q/6q1/3q4/7R/PPPPPP2/RNBQKB2 b Qkq - 5 21,Now the e and d pawns can be pushed to their capture squares.
+42,e5,e7e5,rnbqkbnr/pppp4/7q/4p1q1/3q4/7R/PPPPPP2/RNBQKB2 w Qkq - 0 22,Now the e and d pawns can be pushed to their capture squares.
+43,Ra3,h3a3,rnbqkbnr/pppp4/7q/4p1q1/3q4/R7/PPPPPP2/RNBQKB2 b Qkq - 1 22,Now the e and d pawns can be pushed to their capture squares.
+44,d5,d7d5,rnbqkbnr/ppp5/7q/3pp1q1/3q4/R7/PPPPPP2/RNBQKB2 w Qkq - 0 23,Now the e and d pawns can be pushed to their capture squares.
+45,Rh3,a3h3,rnbqkbnr/ppp5/7q/3pp1q1/3q4/7R/PPPPPP2/RNBQKB2 b Qkq - 1 23,"Now the queen has to be moved back again, else the d pawn cannot progress."
+46,Qdh4,d4h4,rnbqkbnr/ppp5/7q/3pp1q1/7q/7R/PPPPPP2/RNBQKB2 w Qkq - 2 24,"Now the queen has to be moved back again, else the d pawn cannot progress."
+47,Ra3,h3a3,rnbqkbnr/ppp5/7q/3pp1q1/7q/R7/PPPPPP2/RNBQKB2 b Qkq - 3 24,The d and e files are now ready to be captured.
+48,d4,d5d4,rnbqkbnr/ppp5/7q/4p1q1/3p3q/R7/PPPPPP2/RNBQKB2 w Qkq - 0 25,The d and e files are now ready to be captured.
+49,Rh3,a3h3,rnbqkbnr/ppp5/7q/4p1q1/3p3q/7R/PPPPPP2/RNBQKB2 b Qkq - 1 25,The d and e files are now ready to be captured.
+50,e4,e5e4,rnbqkbnr/ppp5/7q/6q1/3pp2q/7R/PPPPPP2/RNBQKB2 w Qkq - 0 26,The d and e files are now ready to be captured.
+51,Rh1,h3h1,rnbqkbnr/ppp5/7q/6q1/3pp2q/8/PPPPPP2/RNBQKB1R b Qkq - 1 26,The d and e files are now ready to be captured.
+52,e3,e4e3,rnbqkbnr/ppp5/7q/6q1/3p3q/4p3/PPPPPP2/RNBQKB1R w Qkq - 0 27,The d and e files are now ready to be captured.
+53,Rh3,h1h3,rnbqkbnr/ppp5/7q/6q1/3p3q/4p2R/PPPPPP2/RNBQKB2 b Qkq - 1 27,The d and e files are now ready to be captured.
+54,Bf5,c8f5,rn1qkbnr/ppp5/7q/5bq1/3p3q/4p2R/PPPPPP2/RNBQKB2 w Qkq - 2 28,The d and e files are now ready to be captured.
+55,Rh1,h3h1,rn1qkbnr/ppp5/7q/5bq1/3p3q/4p3/PPPPPP2/RNBQKB1R b Qkq - 3 28,The d and e files are now ready to be captured.
+56,Bd3,f5d3,rn1qkbnr/ppp5/7q/6q1/3p3q/3bp3/PPPPPP2/RNBQKB1R w Qkq - 4 29,The d and e files are now ready to be captured.
+57,Rh3,h1h3,rn1qkbnr/ppp5/7q/6q1/3p3q/3bp2R/PPPPPP2/RNBQKB2 b Qkq - 5 29,Now's the right time to get white's first capture.
+58,Ba3,f8a3,rn1qk1nr/ppp5/7q/6q1/3p3q/b2bp2R/PPPPPP2/RNBQKB2 w Qkq - 6 30,Now's the right time to get white's first capture.
+59,bxa3,b2a3,rn1qk1nr/ppp5/7q/6q1/3p3q/P2bp2R/P1PPPP2/RNBQKB2 b Qkq - 0 30,Now's the right time to get white's first capture.
+60,Nc6,b8c6,r2qk1nr/ppp5/2n4q/6q1/3p3q/P2bp2R/P1PPPP2/RNBQKB2 w Qkq - 1 31,"The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken."
+61,Rh1,h3h1,r2qk1nr/ppp5/2n4q/6q1/3p3q/P2bp3/P1PPPP2/RNBQKB1R b Qkq - 2 31,"The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken."
+62,Qdf6,d8f6,r3k1nr/ppp5/2n2q1q/6q1/3p3q/P2bp3/P1PPPP2/RNBQKB1R w Qkq - 3 32,"The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken."
+63,Rh3,h1h3,r3k1nr/ppp5/2n2q1q/6q1/3p3q/P2bp2R/P1PPPP2/RNBQKB2 b Qkq - 4 32,"The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken."
+64,O-O-O,e8c8,2kr2nr/ppp5/2n2q1q/6q1/3p3q/P2bp2R/P1PPPP2/RNBQKB2 w Q - 5 33,"The idea is to get black's army clumped up into the a3-e3-a6 triangle. One of these, a bishop, was already taken."
+65,Rh1,h3h1,2kr2nr/ppp5/2n2q1q/6q1/3p3q/P2bp3/P1PPPP2/RNBQKB1R b Q - 6 33,Knight's in place!
+66,Nb4,c6b4,2kr2nr/ppp5/5q1q/6q1/1n1p3q/P2bp3/P1PPPP2/RNBQKB1R w Q - 7 34,Knight's in place!
+67,Rg1,h1g1,2kr2nr/ppp5/5q1q/6q1/1n1p3q/P2bp3/P1PPPP2/RNBQKBR1 b Q - 8 34,Knight's in place!
+68,Nd5,b4d5,2kr2nr/ppp5/5q1q/3n2q1/3p3q/P2bp3/P1PPPP2/RNBQKBR1 w Q - 9 35,Knight's in place!
+69,Rh1,g1h1,2kr2nr/ppp5/5q1q/3n2q1/3p3q/P2bp3/P1PPPP2/RNBQKB1R b Q - 10 35,Knight's in place!
+70,Nc3,d5c3,2kr2nr/ppp5/5q1q/6q1/3p3q/P1nbp3/P1PPPP2/RNBQKB1R w Q - 11 36,Knight's in place!
+71,Rg1,h1g1,2kr2nr/ppp5/5q1q/6q1/3p3q/P1nbp3/P1PPPP2/RNBQKBR1 b Q - 12 36,"Queen can go here to take knight, bishop, and queen on b1-d1."
+72,Qb5,g5b5,2kr2nr/ppp5/5q1q/1q6/3p3q/P1nbp3/P1PPPP2/RNBQKBR1 w Q - 13 37,"Queen can go here to take knight, bishop, and queen on b1-d1."
+73,Rh1,g1h1,2kr2nr/ppp5/5q1q/1q6/3p3q/P1nbp3/P1PPPP2/RNBQKB1R b Q - 14 37,"Queen can go here to take knight, bishop, and queen on b1-d1."
+74,Qfe6,f6e6,2kr2nr/ppp5/4q2q/1q6/3p3q/P1nbp3/P1PPPP2/RNBQKB1R w Q - 15 38,"Queen can go here to take knight, bishop, and queen on b1-d1."
+75,Rg1,h1g1,2kr2nr/ppp5/4q2q/1q6/3p3q/P1nbp3/P1PPPP2/RNBQKBR1 b Q - 16 38,"Queen can go here to take knight, bishop, and queen on b1-d1."
+76,Qeb3,e6b3,2kr2nr/ppp5/7q/1q6/3p3q/Pqnbp3/P1PPPP2/RNBQKBR1 w Q - 17 39,"Queen can go here to take knight, bishop, and queen on b1-d1."
+77,Rh1,g1h1,2kr2nr/ppp5/7q/1q6/3p3q/Pqnbp3/P1PPPP2/RNBQKB1R b Q - 18 39,King stays here for the rest of the proof.
+78,Kb8,c8b8,1k1r2nr/ppp5/7q/1q6/3p3q/Pqnbp3/P1PPPP2/RNBQKB1R w Q - 19 40,King stays here for the rest of the proof.
+79,Rg1,h1g1,1k1r2nr/ppp5/7q/1q6/3p3q/Pqnbp3/P1PPPP2/RNBQKBR1 b Q - 20 40,Now to offer to the queen.
+80,Qb5a4,b5a4,1k1r2nr/ppp5/7q/8/q2p3q/Pqnbp3/P1PPPP2/RNBQKBR1 w Q - 21 41,Now to offer to the queen.
+81,Rh1,g1h1,1k1r2nr/ppp5/7q/8/q2p3q/Pqnbp3/P1PPPP2/RNBQKB1R b Q - 22 41,Now to offer to the queen.
+82,Qf8,h6f8,1k1r1qnr/ppp5/8/8/q2p3q/Pqnbp3/P1PPPP2/RNBQKB1R w Q - 23 42,Now to offer to the queen.
+83,Rg1,h1g1,1k1r1qnr/ppp5/8/8/q2p3q/Pqnbp3/P1PPPP2/RNBQKBR1 b Q - 24 42,Now to offer to the queen.
+84,Qfb4,f8b4,1k1r2nr/ppp5/8/8/qq1p3q/Pqnbp3/P1PPPP2/RNBQKBR1 w Q - 25 43,Now to offer to the queen.
+85,Rh1,g1h1,1k1r2nr/ppp5/8/8/qq1p3q/Pqnbp3/P1PPPP2/RNBQKB1R b Q - 26 43,Now to offer to the queen.
+86,Qg5,h4g5,1k1r2nr/ppp5/8/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKB1R w Q - 27 44,Now to offer to the queen.
+87,Rg1,h1g1,1k1r2nr/ppp5/8/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKBR1 b Q - 28 44,Now to offer to the queen.
+88,Rh6,h8h6,1k1r2n1/ppp5/7r/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKBR1 w Q - 29 45,Now to offer to the queen.
+89,Rh1,g1h1,1k1r2n1/ppp5/7r/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKB1R b Q - 30 45,Now to offer to the queen.
+90,Ra6,h6a6,1k1r2n1/ppp5/r7/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKB1R w Q - 31 46,Now to offer to the queen.
+91,Rg1,h1g1,1k1r2n1/ppp5/r7/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKBR1 b Q - 32 46,Now to offer to the queen.
+92,Nf6,g8f6,1k1r4/ppp5/r4n2/6q1/qq1p4/Pqnbp3/P1PPPP2/RNBQKBR1 w Q - 33 47,Now to offer to the queen.
+93,Bb2,c1b2,1k1r4/ppp5/r4n2/6q1/qq1p4/Pqnbp3/PBPPPP2/RN1QKBR1 b Q - 34 47,Now to offer to the queen.
+94,Qb3xb2,b3b2,1k1r4/ppp5/r4n2/6q1/qq1p4/P1nbp3/PqPPPP2/RN1QKBR1 w Q - 0 48,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+95,Qc1,d1c1,1k1r4/ppp5/r4n2/6q1/qq1p4/P1nbp3/PqPPPP2/RNQ1KBR1 b Q - 1 48,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+96,Qb2xb1,b2b1,1k1r4/ppp5/r4n2/6q1/qq1p4/P1nbp3/P1PPPP2/RqQ1KBR1 w Q - 0 49,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+97,Qd1,c1d1,1k1r4/ppp5/r4n2/6q1/qq1p4/P1nbp3/P1PPPP2/Rq1QKBR1 b Q - 1 49,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+98,Qb1b3,b1b3,1k1r4/ppp5/r4n2/6q1/qq1p4/Pqnbp3/P1PPPP2/R2QKBR1 w Q - 2 50,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+99,Qb1,d1b1,1k1r4/ppp5/r4n2/6q1/qq1p4/Pqnbp3/P1PPPP2/RQ2KBR1 b Q - 3 50,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+100,Qe6,b3e6,1k1r4/ppp5/r3qn2/6q1/qq1p4/P1nbp3/P1PPPP2/RQ2KBR1 w Q - 4 51,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+101,Qb3,b1b3,1k1r4/ppp5/r3qn2/6q1/qq1p4/PQnbp3/P1PPPP2/R3KBR1 b Q - 5 51,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+102,Ra5,a6a5,1k1r4/ppp5/4qn2/r5q1/qq1p4/PQnbp3/P1PPPP2/R3KBR1 w Q - 6 52,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+103,Qb1,b3b1,1k1r4/ppp5/4qn2/r5q1/qq1p4/P1nbp3/P1PPPP2/RQ2KBR1 b Q - 7 52,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+104,a6,a7a6,1k1r4/1pp5/p3qn2/r5q1/qq1p4/P1nbp3/P1PPPP2/RQ2KBR1 w Q - 0 53,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+105,Qb3,b1b3,1k1r4/1pp5/p3qn2/r5q1/qq1p4/PQnbp3/P1PPPP2/R3KBR1 b Q - 1 53,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+106,Qeb6,e6b6,1k1r4/1pp5/pq3n2/r5q1/qq1p4/PQnbp3/P1PPPP2/R3KBR1 w Q - 2 54,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+107,Qb1,b3b1,1k1r4/1pp5/pq3n2/r5q1/qq1p4/P1nbp3/P1PPPP2/RQ2KBR1 b Q - 3 54,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+108,Qa7,b6a7,1k1r4/qpp5/p4n2/r5q1/qq1p4/P1nbp3/P1PPPP2/RQ2KBR1 w Q - 4 55,"I need a queen, not the pawn, on a7 so that come the puzzle board, the a7 piece can still move."
+109,Qb3,b1b3,1k1r4/qpp5/p4n2/r5q1/qq1p4/PQnbp3/P1PPPP2/R3KBR1 b Q - 5 55,Now the capture spree.
+110,Qbxb3,b4b3,1k1r4/qpp5/p4n2/r5q1/q2p4/Pqnbp3/P1PPPP2/R3KBR1 w Q - 0 56,Now the capture spree.
+111,cxb3,c2b3,1k1r4/qpp5/p4n2/r5q1/q2p4/PPnbp3/P2PPP2/R3KBR1 b Q - 0 56,Now the capture spree.
+112,Qgb5,g5b5,1k1r4/qpp5/p4n2/rq6/q2p4/PPnbp3/P2PPP2/R3KBR1 w Q - 1 57,And this is the perfect parity for the puzzle board.
+113,dxc3,d2c3,1k1r4/qpp5/p4n2/rq6/q2p4/PPPbp3/P3PP2/R3KBR1 b Q - 0 57,And this is the perfect parity for the puzzle board.
+114,b6,b7b6,1k1r4/q1p5/pp3n2/rq6/q2p4/PPPbp3/P3PP2/R3KBR1 w Q - 0 58,And this is the perfect parity for the puzzle board.
+115,Rg5,g1g5,1k1r4/q1p5/pp3n2/rq4R1/q2p4/PPPbp3/P3PP2/R3KB2 b Q - 1 58,And this is the perfect parity for the puzzle board.
+116,Bc4,d3c4,1k1r4/q1p5/pp3n2/rq4R1/q1bp4/PPP1p3/P3PP2/R3KB2 w Q - 2 59,And this is the perfect parity for the puzzle board.
+117,Rd5,g5d5,1k1r4/q1p5/pp3n2/rq1R4/q1bp4/PPP1p3/P3PP2/R3KB2 b Q - 3 59,And this is the perfect parity for the puzzle board.
+118,Nxd5,f6d5,1k1r4/q1p5/pp6/rq1n4/q1bp4/PPP1p3/P3PP2/R3KB2 w Q - 0 60,And this is the perfect parity for the puzzle board.
+119,Bh3,f1h3,1k1r4/q1p5/pp6/rq1n4/q1bp4/PPP1p2B/P3PP2/R3K3 b Q - 1 60,And this is the perfect parity for the puzzle board.
+120,Bd3,c4d3,1k1r4/q1p5/pp6/rq1n4/q2p4/PPPbp2B/P3PP2/R3K3 w Q - 2 61,And this is the perfect parity for the puzzle board.
+121,Bd7,h3d7,1k1r4/q1pB4/pp6/rq1n4/q2p4/PPPbp3/P3PP2/R3K3 b Q - 3 61,And this is the perfect parity for the puzzle board.
+122,Rxd7,d8d7,1k6/q1pr4/pp6/rq1n4/q2p4/PPPbp3/P3PP2/R3K3 w Q - 0 62,And this is the perfect parity for the puzzle board.
+123,fxe3,f2e3,1k6/q1pr4/pp6/rq1n4/q2p4/PPPbP3/P3P3/R3K3 b Q - 0 62,And this is the perfect parity for the puzzle board.
+124,Rd6,d7d6,1k6/q1p5/pp1r4/rq1n4/q2p4/PPPbP3/P3P3/R3K3 w Q - 1 63,And this is the perfect parity for the puzzle board.
+125,exd3,e2d3,1k6/q1p5/pp1r4/rq1n4/q2p4/PPPPP3/P7/R3K3 b Q - 0 63,And this is the perfect parity for the puzzle board.
+126,Rc6,d6c6,1k6/q1p5/ppr5/rq1n4/q2p4/PPPPP3/P7/R3K3 w Q - 1 64,And this is the perfect parity for the puzzle board.
+127,exd4,e3d4,1k6/q1p5/ppr5/rq1n4/q2P4/PPPP4/P7/R3K3 b Q - 0 64,And this is the perfect parity for the puzzle board.
+128,Nb4,d5b4,1k6/q1p5/ppr5/rq6/qn1P4/PPPP4/P7/R3K3 w Q - 1 65,And this is the perfect parity for the puzzle board.
+129,bxa4,b3a4,1k6/q1p5/ppr5/rq6/Pn1P4/P1PP4/P7/R3K3 b Q - 0 65,And this is the perfect parity for the puzzle board.
+130,Rc4,c6c4,1k6/q1p5/pp6/rq6/PnrP4/P1PP4/P7/R3K3 w Q - 1 66,And this is the perfect parity for the puzzle board.
+131,dxc4,d3c4,1k6/q1p5/pp6/rq6/PnPP4/P1P5/P7/R3K3 b Q - 0 66,And this is the perfect parity for the puzzle board.
+132,c5,c7c5,1k6/q7/pp6/rqp5/PnPP4/P1P5/P7/R3K3 w Q - 0 67,And this is the perfect parity for the puzzle board.
+133,dxc5,d4c5,1k6/q7/pp6/rqP5/PnP5/P1P5/P7/R3K3 b Q - 0 67,And this is the perfect parity for the puzzle board.
+134,Qa8,a7a8,qk6/8/pp6/rqP5/PnP5/P1P5/P7/R3K3 w Q - 1 68,And this is the perfect parity for the puzzle board.
+135,cxb4,c3b4,qk6/8/pp6/rqP5/PPP5/P7/P7/R3K3 b Q - 0 68,And this is the perfect parity for the puzzle board.
+136,Qa7,a8a7,1k6/q7/pp6/rqP5/PPP5/P7/P7/R3K3 w Q - 1 69,And this is the perfect parity for the puzzle board.
+137,cxb5,c4b5,1k6/q7/pp6/rPP5/PP6/P7/P7/R3K3 b Q - 0 69,And this is the perfect parity for the puzzle board.
+138,Qa8,a7a8,qk6/8/pp6/rPP5/PP6/P7/P7/R3K3 w Q - 1 70,And this is the perfect parity for the puzzle board.
+139,bxa5,b4a5,qk6/8/pp6/PPP5/P7/P7/P7/R3K3 b Q - 0 70,And this is the perfect parity for the puzzle board.
+140,Qa7,a8a7,1k6/q7/pp6/PPP5/P7/P7/P7/R3K3 w Q - 1 71,And this is the perfect parity for the puzzle board.
+141,cxb6,c5b6,1k6/q7/pP6/PP6/P7/P7/P7/R3K3 b Q - 0 71,And this is the perfect parity for the puzzle board.
+142,Qa8,a7a8,qk6/8/pP6/PP6/P7/P7/P7/R3K3 w Q - 1 72,And this is the perfect parity for the puzzle board.
+143,bxa6,b5a6,qk6/8/PP6/P7/P7/P7/P7/R3K3 b Q - 0 72,And this is the perfect parity for the puzzle board.
+144,Qa7,a8a7,1k6/q7/PP6/P7/P7/P7/P7/R3K3 w Q - 1 73,And this is the perfect parity for the puzzle board.
+145,bxa7+,b6a7,1k6/P7/P7/P7/P7/P7/P7/R3K3 b Q - 0 73,And now to enact the solution...
+146,Ka8,b8a8,k7/P7/P7/P7/P7/P7/P7/R3K3 w Q - 1 74,And now to enact the solution...
+147,O-O-O,e1c1,k7/P7/P7/P7/P7/P7/P7/2KR4 b - - 2 74,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+148,Kxa7,a8a7,8/k7/P7/P7/P7/P7/P7/2KR4 w - - 0 75,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+149,Rd8,d1d8,3R4/k7/P7/P7/P7/P7/P7/2K5 b - - 1 75,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+150,Kxa6,a7a6,3R4/8/k7/P7/P7/P7/P7/2K5 w - - 0 76,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+151,Rd7,d8d7,8/3R4/k7/P7/P7/P7/P7/2K5 b - - 1 76,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+152,Kxa5,a6a5,8/3R4/8/k7/P7/P7/P7/2K5 w - - 0 77,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+153,Rd6,d7d6,8/8/3R4/k7/P7/P7/P7/2K5 b - - 1 77,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+154,Kxa4,a5a4,8/8/3R4/8/k7/P7/P7/2K5 w - - 0 78,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+155,Rd5,d6d5,8/8/8/3R4/k7/P7/P7/2K5 b - - 1 78,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+156,Kxa3,a4a3,8/8/8/3R4/8/k7/P7/2K5 w - - 0 79,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+157,Rd4,d5d4,8/8/8/8/3R4/k7/P7/2K5 b - - 1 79,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+158,Kxa2,a3a2,8/8/8/8/3R4/8/k7/2K5 w - - 0 80,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+159,Rd3,d4d3,8/8/8/8/8/3R4/k7/2K5 b - - 1 80,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+160,Ka1,a2a1,8/8/8/8/8/3R4/8/k1K5 w - - 2 81,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."
+161,Ra3#,d3a3,8/8/8/8/8/R7/8/k1K5 b - - 3 81,"...checkmate! Is there a way to optimize this proof? I know this is not the optimum, yet I also know that it's hard to fully optimize this proof."

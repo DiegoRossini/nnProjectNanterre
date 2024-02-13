@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nc3,b1c3,rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1,"We keep the symmetry, and free our bishops first..."
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 2 2,"We keep the symmetry, and free our bishops first..."
+3,Nf3,g1f3,r1bqkbnr/pppppppp/2n5/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 3 2,"We keep the symmetry, and free our bishops first..."
+4,Nf6,g8f6,r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3,"We keep the symmetry, and free our bishops first..."
+5,Ne5,f3e5,r1bqkb1r/pppppppp/2n2n2/4N3/8/2N5/PPPPPPPP/R1BQKB1R b KQkq - 5 3,"We keep the symmetry, and free our bishops first..."
+6,Ne4,f6e4,r1bqkb1r/pppppppp/2n5/4N3/4n3/2N5/PPPPPPPP/R1BQKB1R w KQkq - 6 4,"We keep the symmetry, and free our bishops first..."
+7,Nxc6,e5c6,r1bqkb1r/pppppppp/2N5/8/4n3/2N5/PPPPPPPP/R1BQKB1R b KQkq - 0 4,"We keep the symmetry, and free our bishops first..."
+8,Nxc3,e4c3,r1bqkb1r/pppppppp/2N5/8/8/2n5/PPPPPPPP/R1BQKB1R w KQkq - 0 5,"We keep the symmetry, and free our bishops first..."
+9,Nxd8,c6d8,r1bNkb1r/pppppppp/8/8/8/2n5/PPPPPPPP/R1BQKB1R b KQkq - 0 5,"We keep the symmetry, and free our bishops first..."
+10,Nxd1,c3d1,r1bNkb1r/pppppppp/8/8/8/8/PPPPPPPP/R1BnKB1R w KQkq - 0 6,"We keep the symmetry, and free our bishops first..."
+11,Kxd1,e1d1,r1bNkb1r/pppppppp/8/8/8/8/PPPPPPPP/R1BK1B1R b kq - 0 6,"We keep the symmetry, and free our bishops first..."
+12,Kxd8,e8d8,r1bk1b1r/pppppppp/8/8/8/8/PPPPPPPP/R1BK1B1R w - - 0 7,"We keep the symmetry, and free our bishops first..."
+13,d4,d2d4,r1bk1b1r/pppppppp/8/8/3P4/8/PPP1PPPP/R1BK1B1R b - - 0 7,"We keep the symmetry, and free our bishops first..."
+14,d5,d7d5,r1bk1b1r/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/R1BK1B1R w - - 0 8,"We keep the symmetry, and free our bishops first..."
+15,e3,e2e3,r1bk1b1r/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/R1BK1B1R b - - 0 8,"We keep the symmetry, and free our bishops first..."
+16,e6,e7e6,r1bk1b1r/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/R1BK1B1R w - - 0 9,"We keep the symmetry, and free our bishops first..."
+17,c4,c2c4,r1bk1b1r/ppp2ppp/4p3/3p4/2PP4/4P3/PP3PPP/R1BK1B1R b - - 0 9,...then we exchange pawns for the first time...
+18,dxc4,d5c4,r1bk1b1r/ppp2ppp/4p3/8/2pP4/4P3/PP3PPP/R1BK1B1R w - - 0 10,...then we exchange pawns for the first time...
+19,Bxc4,f1c4,r1bk1b1r/ppp2ppp/4p3/8/2BP4/4P3/PP3PPP/R1BK3R b - - 0 10,...then we exchange pawns for the first time...
+20,c5,c7c5,r1bk1b1r/pp3ppp/4p3/2p5/2BP4/4P3/PP3PPP/R1BK3R w - - 0 11,"...and again, making the board symmetric again."
+21,dxc5,d4c5,r1bk1b1r/pp3ppp/4p3/2P5/2B5/4P3/PP3PPP/R1BK3R b - - 0 11,"...and again, making the board symmetric again."
+22,Bxc5,f8c5,r1bk3r/pp3ppp/4p3/2b5/2B5/4P3/PP3PPP/R1BK3R w - - 0 12,"...and again, making the board symmetric again."
+23,Ke2,d1e2,r1bk3r/pp3ppp/4p3/2b5/2B5/4P3/PP2KPPP/R1B4R b - - 1 12,"And again, moving our kings."
+24,Ke7,d8e7,r1b4r/pp2kppp/4p3/2b5/2B5/4P3/PP2KPPP/R1B4R w - - 2 13,"And again, moving our kings."
+25,a3,a2a3,r1b4r/pp2kppp/4p3/2b5/2B5/P3P3/1P2KPPP/R1B4R b - - 0 13,And again with our pawns on the far side...
+26,a6,a7a6,r1b4r/1p2kppp/p3p3/2b5/2B5/P3P3/1P2KPPP/R1B4R w - - 0 14,And again with our pawns on the far side...
+27,Bxa6,c4a6,r1b4r/1p2kppp/B3p3/2b5/8/P3P3/1P2KPPP/R1B4R b - - 0 14,"...but the symmetry is now destroyed, as I accept the gift of a bishop, giving me the edge."
+28,Rxa6,a8a6,2b4r/1p2kppp/r3p3/2b5/8/P3P3/1P2KPPP/R1B4R w - - 0 15,"...but the symmetry is now destroyed, as I accept the gift of a bishop, giving me the edge."
+29,h4,h2h4,2b4r/1p2kppp/r3p3/2b5/7P/P3P3/1P2KPP1/R1B4R b - - 0 15,I bring my other bishop up...
+30,Bd7,c8d7,7r/1p1bkppp/r3p3/2b5/7P/P3P3/1P2KPP1/R1B4R w - - 1 16,I bring my other bishop up...
+31,f4,f2f4,7r/1p1bkppp/r3p3/2b5/5P1P/P3P3/1P2K1P1/R1B4R b - - 0 16,...to attack the king.
+32,Bb5+,d7b5,7r/1p2kppp/r3p3/1bb5/5P1P/P3P3/1P2K1P1/R1B4R w - - 1 17,...to attack the king.
+33,Kf3,e2f3,7r/1p2kppp/r3p3/1bb5/5P1P/P3PK2/1P4P1/R1B4R b - - 2 17,Now I unleash my other rook.
+34,Rd8,h8d8,3r4/1p2kppp/r3p3/1bb5/5P1P/P3PK2/1P4P1/R1B4R w - - 3 18,Now I unleash my other rook.
+35,b4,b2b4,3r4/1p2kppp/r3p3/1bb5/1P3P1P/P3PK2/6P1/R1B4R b - - 0 18,I decide it's worth removing the pawn...
+36,Bxb4,c5b4,3r4/1p2kppp/r3p3/1b6/1b3P1P/P3PK2/6P1/R1B4R w - - 0 19,I decide it's worth removing the pawn...
+37,Bb2,c1b2,3r4/1p2kppp/r3p3/1b6/1b3P1P/P3PK2/1B4P1/R6R b - - 1 19,"...but my opponent doesn't take the bait, keeping his rook concealed."
+38,Bc6+,b5c6,3r4/1p2kppp/r1b1p3/8/1b3P1P/P3PK2/1B4P1/R6R w - - 2 20,"So instead, I attack the king again..."
+39,Kg3,f3g3,3r4/1p2kppp/r1b1p3/8/1b3P1P/P3P1K1/1B4P1/R6R b - - 3 20,...and put the other bishop deep into enemy territory.
+40,Bd2,b4d2,3r4/1p2kppp/r1b1p3/8/5P1P/P3P1K1/1B1b2P1/R6R w - - 4 21,...and put the other bishop deep into enemy territory.
+41,Rhd1,h1d1,3r4/1p2kppp/r1b1p3/8/5P1P/P3P1K1/1B1b2P1/R2R4 b - - 5 21,My opponent lines it up...
+42,Bxe3,d2e3,3r4/1p2kppp/r1b1p3/8/5P1P/P3b1K1/1B4P1/R2R4 w - - 0 22,"...so remove another pawn, exposing my rook to my opponent's, although the king is on a neighbouring square. Would my rook be classed as being en prise?"
+43,Rde1,d1e1,3r4/1p2kppp/r1b1p3/8/5P1P/P3b1K1/1B4P1/R3R3 b - - 1 22,My opponent decides to line up my bishop instead...
+44,Rd3,d8d3,8/1p2kppp/r1b1p3/8/5P1P/P2rb1K1/1B4P1/R3R3 w - - 2 23,...so I cover it.
+45,Kg4,g3g4,8/1p2kppp/r1b1p3/8/5PKP/P2rb3/1B4P1/R3R3 b - - 3 23,The king has now exposed a pawn...
+46,Bxg2,c6g2,8/1p2kppp/r3p3/8/5PKP/P2rb3/1B4b1/R3R3 w - - 0 24,...so I take it...
+47,Bxg7,b2g7,8/1p2kpBp/r3p3/8/5PKP/P2rb3/6b1/R3R3 b - - 0 24,...but end up losing one myself...

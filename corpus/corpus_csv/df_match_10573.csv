@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,planning e4.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,planning e4.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,planning e4.
+4,Bg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,planning e4.
+5,e3,e2e3,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,planning e4.
+6,Bxf3,g4f3,rn1qkbnr/ppp1pppp/8/3p4/3P4/4Pb2/PPP2PPP/RNBQKB1R w KQkq - 0 4,planning e4.
+7,Qxf3,d1f3,rn1qkbnr/ppp1pppp/8/3p4/3P4/4PQ2/PPP2PPP/RNB1KB1R b KQkq - 0 4,planning e4.
+8,e6,e7e6,rn1qkbnr/ppp2ppp/4p3/3p4/3P4/4PQ2/PPP2PPP/RNB1KB1R w KQkq - 0 5,planning e4.
+9,Bd3,f1d3,rn1qkbnr/ppp2ppp/4p3/3p4/3P4/3BPQ2/PPP2PPP/RNB1K2R b KQkq - 1 5,planning e4.
+10,Qf6,d8f6,rn2kbnr/ppp2ppp/4pq2/3p4/3P4/3BPQ2/PPP2PPP/RNB1K2R w KQkq - 2 6,After exchange black would bring his knight with tempo into the game.
+11,Nd2,b1d2,rn2kbnr/ppp2ppp/4pq2/3p4/3P4/3BPQ2/PPPN1PPP/R1B1K2R b KQkq - 3 6,symmetrical. I win a tempo after exchange.
+12,Bb4,f8b4,rn2k1nr/ppp2ppp/4pq2/3p4/1b1P4/3BPQ2/PPPN1PPP/R1B1K2R w KQkq - 4 7,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+13,c3,c2c3,rn2k1nr/ppp2ppp/4pq2/3p4/1b1P4/2PBPQ2/PP1N1PPP/R1B1K2R b KQkq - 0 7,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+14,Qxf3,f6f3,rn2k1nr/ppp2ppp/4p3/3p4/1b1P4/2PBPq2/PP1N1PPP/R1B1K2R w KQkq - 0 8,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+15,Nxf3,d2f3,rn2k1nr/ppp2ppp/4p3/3p4/1b1P4/2PBPN2/PP3PPP/R1B1K2R b KQkq - 0 8,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+16,Bd6,b4d6,rn2k1nr/ppp2ppp/3bp3/3p4/3P4/2PBPN2/PP3PPP/R1B1K2R w KQkq - 1 9,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+17,e4,e3e4,rn2k1nr/ppp2ppp/3bp3/3p4/3PP3/2PB1N2/PP3PPP/R1B1K2R b KQkq - 0 9,"Without queens, the king can be a fighting piece, that's why I didnot play 0-0."
+18,Nf6,g8f6,rn2k2r/ppp2ppp/3bpn2/3p4/3PP3/2PB1N2/PP3PPP/R1B1K2R w KQkq - 1 10,??
+19,e5,e4e5,rn2k2r/ppp2ppp/3bpn2/3pP3/3P4/2PB1N2/PP3PPP/R1B1K2R b KQkq - 0 10,"To make more alternatives, which black must now calculate."
+20,Ne4,f6e4,rn2k2r/ppp2ppp/3bp3/3pP3/3Pn3/2PB1N2/PP3PPP/R1B1K2R w KQkq - 1 11,"To make more alternatives, which black must now calculate."
+21,exd6,e5d6,rn2k2r/ppp2ppp/3Pp3/3p4/3Pn3/2PB1N2/PP3PPP/R1B1K2R b KQkq - 0 11,"To make more alternatives, which black must now calculate."
+22,Nxd6,e4d6,rn2k2r/ppp2ppp/3np3/3p4/3P4/2PB1N2/PP3PPP/R1B1K2R w KQkq - 0 12,"To make more alternatives, which black must now calculate."
+23,Bf4,c1f4,rn2k2r/ppp2ppp/3np3/3p4/3P1B2/2PB1N2/PP3PPP/R3K2R b KQkq - 1 12,"To make more alternatives, which black must now calculate."
+24,O-O,e8g8,rn3rk1/ppp2ppp/3np3/3p4/3P1B2/2PB1N2/PP3PPP/R3K2R w KQ - 2 13,"Black king is in safe, but after exchanges I want to bring in a pawn, that is why the king better stands in the middle."
+25,Bxd6,f4d6,rn3rk1/ppp2ppp/3Bp3/3p4/3P4/2PB1N2/PP3PPP/R3K2R b KQ - 0 13,The pawnstructure is worse.
+26,cxd6,c7d6,rn3rk1/pp3ppp/3pp3/3p4/3P4/2PB1N2/PP3PPP/R3K2R w KQ - 0 14,The pawnstructure is worse.
+27,Kd2,e1d2,rn3rk1/pp3ppp/3pp3/3p4/3P4/2PB1N2/PP1K1PPP/R6R b - - 1 14,"Make contact between the rooks and centralize the king, too. The black knight has no good place, but must move."
+28,Nc6,b8c6,r4rk1/pp3ppp/2npp3/3p4/3P4/2PB1N2/PP1K1PPP/R6R w - - 2 15,"Maybe with b4 next, or just for preventing any attack with a and b pawns."
+29,a3,a2a3,r4rk1/pp3ppp/2npp3/3p4/3P4/P1PB1N2/1P1K1PPP/R6R b - - 0 15,"Maybe with b4 next, or just for preventing any attack with a and b pawns."
+30,e5,e6e5,r4rk1/pp3ppp/2np4/3pp3/3P4/P1PB1N2/1P1K1PPP/R6R w - - 0 16,"I donot want to make better these pawns, so I try to exchange the lightfigures. If the knight goes away, the e5 pawn is over."
+31,Bb5,d3b5,r4rk1/pp3ppp/2np4/1B1pp3/3P4/P1P2N2/1P1K1PPP/R6R b - - 1 16,"I donot want to make better these pawns, so I try to exchange the lightfigures. If the knight goes away, the e5 pawn is over."
+32,exd4,e5d4,r4rk1/pp3ppp/2np4/1B1p4/3p4/P1P2N2/1P1K1PPP/R6R w - - 0 17,After Rc8 I would play Nd4 safely.
+33,Bxc6,b5c6,r4rk1/pp3ppp/2Bp4/3p4/3p4/P1P2N2/1P1K1PPP/R6R b - - 0 17,After Rc8 I would play Nd4 safely.
+34,dxc3+,d4c3,r4rk1/pp3ppp/2Bp4/3p4/8/P1p2N2/1P1K1PPP/R6R w - - 0 18,After Rc8 I would play Nd4 safely.
+35,Kxc3,d2c3,r4rk1/pp3ppp/2Bp4/3p4/8/P1K2N2/1P3PPP/R6R b - - 0 18,After Rc8 I would play Nd4 safely.
+36,bxc6,b7c6,r4rk1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/R6R w - - 0 19,The only totally open file to catch.
+37,Rhe1,h1e1,r4rk1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/R3R3 b - - 1 19,The only totally open file to catch.
+38,Rfe8,f8e8,r3r1k1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/R3R3 w - - 2 20,"Black cannot push the c-pawn, so I made moveless this crowd."
+39,Rxe8+,e1e8,r3R1k1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/R7 b - - 0 20,"Black cannot push the c-pawn, so I made moveless this crowd."
+40,Rxe8,a8e8,4r1k1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/R7 w - - 0 21,"Black cannot push the c-pawn, so I made moveless this crowd."
+41,Re1,a1e1,4r1k1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/4R3 b - - 1 21,"Black cannot push the c-pawn, so I made moveless this crowd."
+42,Rxe1,e8e1,6k1/p4ppp/2pp4/3p4/8/P1K2N2/1P3PPP/4r3 w - - 0 22,"Black cannot push the c-pawn, so I made moveless this crowd."
+43,Nxe1,f3e1,6k1/p4ppp/2pp4/3p4/8/P1K5/1P3PPP/4N3 b - - 0 22,"Black cannot push the c-pawn, so I made moveless this crowd."
+44,f6,f7f6,6k1/p5pp/2pp1p2/3p4/8/P1K5/1P3PPP/4N3 w - - 0 23,"Black cannot push the c-pawn, so I made moveless this crowd."
+45,Kd4,c3d4,6k1/p5pp/2pp1p2/3p4/3K4/P7/1P3PPP/4N3 b - - 1 23,"Black cannot push the c-pawn, so I made moveless this crowd."
+46,Kf7,g8f7,8/p4kpp/2pp1p2/3p4/3K4/P7/1P3PPP/4N3 w - - 2 24,"I want to give my knight for the d5 pawn, to get the a-b-c files, where I can make an isolated pawn, what black must catch, so I get time for win the fight on the kingside and push a pawn in."
+47,Nd3,e1d3,8/p4kpp/2pp1p2/3p4/3K4/P2N4/1P3PPP/8 b - - 3 24,"I want to give my knight for the d5 pawn, to get the a-b-c files, where I can make an isolated pawn, what black must catch, so I get time for win the fight on the kingside and push a pawn in."
+48,Ke6,f7e6,8/p5pp/2ppkp2/3p4/3K4/P2N4/1P3PPP/8 w - - 4 25,preventing c5.
+49,b4,b2b4,8/p5pp/2ppkp2/3p4/1P1K4/P2N4/5PPP/8 b - - 0 25,preventing c5.
+50,a6,a7a6,8/6pp/p1ppkp2/3p4/1P1K4/P2N4/5PPP/8 w - - 0 26,"Kxd5 maybe better, but it doesnot matter anymore."
+51,Nf4+,d3f4,8/6pp/p1ppkp2/3p4/1P1K1N2/P7/5PPP/8 b - - 1 26,"Kxd5 maybe better, but it doesnot matter anymore."
+52,Kf5,e6f5,8/6pp/p1pp1p2/3p1k2/1P1K1N2/P7/5PPP/8 w - - 2 27,"Kxd5 maybe better, but it doesnot matter anymore."
+53,Nxd5,f4d5,8/6pp/p1pp1p2/3N1k2/1P1K4/P7/5PPP/8 b - - 0 27,"Kxd5 maybe better, but it doesnot matter anymore."
+54,cxd5,c6d5,8/6pp/p2p1p2/3p1k2/1P1K4/P7/5PPP/8 w - - 0 28,"Kxd5 maybe better, but it doesnot matter anymore."
+55,a4,a3a4,8/6pp/p2p1p2/3p1k2/PP1K4/8/5PPP/8 b - - 0 28,"Kxd5 maybe better, but it doesnot matter anymore."
+56,Ke6,f5e6,8/6pp/p2pkp2/3p4/PP1K4/8/5PPP/8 w - - 1 29,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+57,b5,b4b5,8/6pp/p2pkp2/1P1p4/P2K4/8/5PPP/8 b - - 0 29,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+58,axb5,a6b5,8/6pp/3pkp2/1p1p4/P2K4/8/5PPP/8 w - - 0 30,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+59,axb5,a4b5,8/6pp/3pkp2/1P1p4/3K4/8/5PPP/8 b - - 0 30,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+60,g5,g7g5,8/7p/3pkp2/1P1p2p1/3K4/8/5PPP/8 w - - 0 31,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+61,b6,b5b6,8/7p/1P1pkp2/3p2p1/3K4/8/5PPP/8 b - - 0 31,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+62,Kd7,e6d7,8/3k3p/1P1p1p2/3p2p1/3K4/8/5PPP/8 w - - 1 32,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+63,Kxd5,d4d5,8/3k3p/1P1p1p2/3K2p1/8/8/5PPP/8 b - - 0 32,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+64,h6,h7h6,8/3k4/1P1p1p1p/3K2p1/8/8/5PPP/8 w - - 0 33,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."
+65,g4,g2g4,8/3k4/1P1p1p1p/3K2p1/6P1/8/5P1P/8 b - - 0 33,"black resigns, because have no pawnmoves and the d6 pawn hangs, so I can make the territory on the kingside mine."

@@ -1,0 +1,90 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+6,h6,h7h6,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+7,Nc3,b1c3,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+8,Nf6,g8f6,r1bqkb1r/pppp1pp1/2n2n1p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+9,O-O,e1g1,r1bqkb1r/pppp1pp1/2n2n1p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 5,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+10,a6,a7a6,r1bqkb1r/1ppp1pp1/p1n2n1p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,After 5 moves white developed 5 pieces. That's good. After 5 moves has developed 2 pieces. That's bad.
+11,d4,d2d4,r1bqkb1r/1ppp1pp1/p1n2n1p/4p3/2BPP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6,For his move 6th move black moves his 4th pawn which white correctly punishes.
+12,b5,b7b5,r1bqkb1r/2pp1pp1/p1n2n1p/1p2p3/2BPP3/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 7,For his move 6th move black moves his 4th pawn which white correctly punishes.
+13,Bxf7+,c4f7,r1bqkb1r/2pp1Bp1/p1n2n1p/1p2p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 7,& the bishop is returned with interest.
+14,Kxf7,e8f7,r1bq1b1r/2pp1kp1/p1n2n1p/1p2p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8,& the bishop is returned with interest.
+15,Nxe5+,f3e5,r1bq1b1r/2pp1kp1/p1n2n1p/1p2N3/3PP3/2N5/PPP2PPP/R1BQ1RK1 b - - 0 8,& the bishop is returned with interest.
+16,Nxe5,c6e5,r1bq1b1r/2pp1kp1/p4n1p/1p2n3/3PP3/2N5/PPP2PPP/R1BQ1RK1 w - - 0 9,& the bishop is returned with interest.
+17,dxe5,d4e5,r1bq1b1r/2pp1kp1/p4n1p/1p2P3/4P3/2N5/PPP2PPP/R1BQ1RK1 b - - 0 9,& the bishop is returned with interest.
+18,Ne8,f6e8,r1bqnb1r/2pp1kp1/p6p/1p2P3/4P3/2N5/PPP2PPP/R1BQ1RK1 w - - 1 10,& the bishop is returned with interest.
+19,Qd5+,d1d5,r1bqnb1r/2pp1kp1/p6p/1p1QP3/4P3/2N5/PPP2PPP/R1B2RK1 b - - 2 10,& the bishop is returned with interest.
+20,Kg6,f7g6,r1bqnb1r/2pp2p1/p5kp/1p1QP3/4P3/2N5/PPP2PPP/R1B2RK1 w - - 3 11,& the bishop is returned with interest.
+21,Qxa8,d5a8,Q1bqnb1r/2pp2p1/p5kp/1p2P3/4P3/2N5/PPP2PPP/R1B2RK1 b - - 0 11,& the bishop is returned with interest.
+22,c6,c7c6,Q1bqnb1r/3p2p1/p1p3kp/1p2P3/4P3/2N5/PPP2PPP/R1B2RK1 w - - 0 12,"I prefer 13.  Be3. It develops a piece, connects the rooks, & attacks the c5 pawn."
+23,Qa7,a8a7,2bqnb1r/Q2p2p1/p1p3kp/1p2P3/4P3/2N5/PPP2PPP/R1B2RK1 b - - 1 12,"I prefer 13.  Be3. It develops a piece, connects the rooks, & attacks the c5 pawn."
+24,c5,c6c5,2bqnb1r/Q2p2p1/p5kp/1pp1P3/4P3/2N5/PPP2PPP/R1B2RK1 w - - 0 13,"I prefer 13.  Be3. It develops a piece, connects the rooks, & attacks the c5 pawn."
+25,Qa8,a7a8,Q1bqnb1r/3p2p1/p5kp/1pp1P3/4P3/2N5/PPP2PPP/R1B2RK1 b - - 1 13,"I prefer 13.  Be3. It develops a piece, connects the rooks, & attacks the c5 pawn."
+26,d6,d7d6,Q1bqnb1r/6p1/p2p2kp/1pp1P3/4P3/2N5/PPP2PPP/R1B2RK1 w - - 0 14,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+27,exd6,e5d6,Q1bqnb1r/6p1/p2P2kp/1pp5/4P3/2N5/PPP2PPP/R1B2RK1 b - - 0 14,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+28,Nxd6,e8d6,Q1bq1b1r/6p1/p2n2kp/1pp5/4P3/2N5/PPP2PPP/R1B2RK1 w - - 0 15,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+29,Qd5,a8d5,2bq1b1r/6p1/p2n2kp/1ppQ4/4P3/2N5/PPP2PPP/R1B2RK1 b - - 1 15,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+30,Be7,f8e7,2bq3r/4b1p1/p2n2kp/1ppQ4/4P3/2N5/PPP2PPP/R1B2RK1 w - - 2 16,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+31,f4,f2f4,2bq3r/4b1p1/p2n2kp/1ppQ4/4PP2/2N5/PPP3PP/R1B2RK1 b - - 0 16,"16. Bf4 developing a piece, attacking the knight & connecting the rooks."
+32,Kh7,g6h7,2bq3r/4b1pk/p2n3p/1ppQ4/4PP2/2N5/PPP3PP/R1B2RK1 w - - 1 17,When ahead swap pieces not pawns. They should be queened.
+33,b3,b2b3,2bq3r/4b1pk/p2n3p/1ppQ4/4PP2/1PN5/P1P3PP/R1B2RK1 b - - 0 17,When ahead swap pieces not pawns. They should be queened.
+34,b4,b5b4,2bq3r/4b1pk/p2n3p/2pQ4/1p2PP2/1PN5/P1P3PP/R1B2RK1 w - - 0 18,When ahead swap pieces not pawns. They should be queened.
+35,Ne2,c3e2,2bq3r/4b1pk/p2n3p/2pQ4/1p2PP2/1P6/P1P1N1PP/R1B2RK1 b - - 1 18,When ahead swap pieces not pawns. They should be queened.
+36,Bf6,e7f6,2bq3r/6pk/p2n1b1p/2pQ4/1p2PP2/1P6/P1P1N1PP/R1B2RK1 w - - 2 19,When ahead swap pieces not pawns. They should be queened.
+37,e5,e4e5,2bq3r/6pk/p2n1b1p/2pQP3/1p3P2/1P6/P1P1N1PP/R1B2RK1 b - - 0 19,When ahead swap pieces not pawns. They should be queened.
+38,Re8,h8e8,2bqr3/6pk/p2n1b1p/2pQP3/1p3P2/1P6/P1P1N1PP/R1B2RK1 w - - 1 20,When ahead swap pieces not pawns. They should be queened.
+39,Ng3,e2g3,2bqr3/6pk/p2n1b1p/2pQP3/1p3P2/1P4N1/P1P3PP/R1B2RK1 b - - 2 20,When ahead swap pieces not pawns. They should be queened.
+40,Be6,c8e6,3qr3/6pk/p2nbb1p/2pQP3/1p3P2/1P4N1/P1P3PP/R1B2RK1 w - - 3 21,When ahead swap pieces not pawns. They should be queened.
+41,Qxc5,d5c5,3qr3/6pk/p2nbb1p/2Q1P3/1p3P2/1P4N1/P1P3PP/R1B2RK1 b - - 0 21,When ahead swap pieces not pawns. They should be queened.
+42,Nb7,d6b7,3qr3/1n4pk/p3bb1p/2Q1P3/1p3P2/1P4N1/P1P3PP/R1B2RK1 w - - 1 22,When ahead swap pieces not pawns. They should be queened.
+43,Qe3,c5e3,3qr3/1n4pk/p3bb1p/4P3/1p3P2/1P2Q1N1/P1P3PP/R1B2RK1 b - - 2 22,When ahead swap pieces not pawns. They should be queened.
+44,Bh4,f6h4,3qr3/1n4pk/p3b2p/4P3/1p3P1b/1P2Q1N1/P1P3PP/R1B2RK1 w - - 3 23,When ahead swap pieces not pawns. They should be queened.
+45,Qd3+,e3d3,3qr3/1n4pk/p3b2p/4P3/1p3P1b/1P1Q2N1/P1P3PP/R1B2RK1 b - - 4 23,When ahead swap pieces not pawns. They should be queened.
+46,Qxd3,d8d3,4r3/1n4pk/p3b2p/4P3/1p3P1b/1P1q2N1/P1P3PP/R1B2RK1 w - - 0 24,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+47,cxd3,c2d3,4r3/1n4pk/p3b2p/4P3/1p3P1b/1P1P2N1/P5PP/R1B2RK1 b - - 0 24,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+48,Nc5,b7c5,4r3/6pk/p3b2p/2n1P3/1p3P1b/1P1P2N1/P5PP/R1B2RK1 w - - 1 25,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+49,d4,d3d4,4r3/6pk/p3b2p/2n1P3/1p1P1P1b/1P4N1/P5PP/R1B2RK1 b - - 0 25,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+50,Nd3,c5d3,4r3/6pk/p3b2p/4P3/1p1P1P1b/1P1n2N1/P5PP/R1B2RK1 w - - 1 26,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+51,f5,f4f5,4r3/6pk/p3b2p/4PP2/1p1P3b/1P1n2N1/P5PP/R1B2RK1 b - - 0 26,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+52,Bd5,e6d5,4r3/6pk/p6p/3bPP2/1p1P3b/1P1n2N1/P5PP/R1B2RK1 w - - 1 27,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+53,Be3,c1e3,4r3/6pk/p6p/3bPP2/1p1P3b/1P1nB1N1/P5PP/R4RK1 b - - 2 27,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+54,Bc6,d5c6,4r3/6pk/p1b4p/4PP2/1p1P3b/1P1nB1N1/P5PP/R4RK1 w - - 3 28,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+55,Rad1,a1d1,4r3/6pk/p1b4p/4PP2/1p1P3b/1P1nB1N1/P5PP/3R1RK1 b - - 4 28,28. Rfd1 & let the Ra have the open c file. Also black's last move was to play b5. Get the Rf off the bishop's path.
+56,Bb5,c6b5,4r3/6pk/p6p/1b2PP2/1p1P3b/1P1nB1N1/P5PP/3R1RK1 w - - 5 29,This is a faulty bishop sac. Compare with 7. Bxf7
+57,Rf3,f1f3,4r3/6pk/p6p/1b2PP2/1p1P3b/1P1nBRN1/P5PP/3R2K1 b - - 6 29,This is a faulty bishop sac. Compare with 7. Bxf7
+58,a5,a6a5,4r3/6pk/7p/pb2PP2/1p1P3b/1P1nBRN1/P5PP/3R2K1 w - - 0 30,This is a faulty bishop sac. Compare with 7. Bxf7
+59,Ne4,g3e4,4r3/6pk/7p/pb2PP2/1p1PN2b/1P1nBR2/P5PP/3R2K1 b - - 1 30,This is a faulty bishop sac. Compare with 7. Bxf7
+60,Bc6,b5c6,4r3/6pk/2b4p/p3PP2/1p1PN2b/1P1nBR2/P5PP/3R2K1 w - - 2 31,This is a faulty bishop sac. Compare with 7. Bxf7
+61,Rh3,f3h3,4r3/6pk/2b4p/p3PP2/1p1PN2b/1P1nB2R/P5PP/3R2K1 b - - 3 31,This is a faulty bishop sac. Compare with 7. Bxf7
+62,Bxe4,c6e4,4r3/6pk/7p/p3PP2/1p1Pb2b/1P1nB2R/P5PP/3R2K1 w - - 0 32,This is a faulty bishop sac. Compare with 7. Bxf7
+63,Rxh4,h3h4,4r3/6pk/7p/p3PP2/1p1Pb2R/1P1nB3/P5PP/3R2K1 b - - 0 32,This is a faulty bishop sac. Compare with 7. Bxf7
+64,Bxf5,e4f5,4r3/6pk/7p/p3Pb2/1p1P3R/1P1nB3/P5PP/3R2K1 w - - 0 33,This is a faulty bishop sac. Compare with 7. Bxf7
+65,g4,g2g4,4r3/6pk/7p/p3Pb2/1p1P2PR/1P1nB3/P6P/3R2K1 b - - 0 33,This is a faulty bishop sac. Compare with 7. Bxf7
+66,Be4,f5e4,4r3/6pk/7p/p3P3/1p1Pb1PR/1P1nB3/P6P/3R2K1 w - - 1 34,This is a faulty bishop sac. Compare with 7. Bxf7
+67,g5,g4g5,4r3/6pk/7p/p3P1P1/1p1Pb2R/1P1nB3/P6P/3R2K1 b - - 0 34,This is a faulty bishop sac. Compare with 7. Bxf7
+68,Kg6,h7g6,4r3/6p1/6kp/p3P1P1/1p1Pb2R/1P1nB3/P6P/3R2K1 w - - 1 35,This is a faulty bishop sac. Compare with 7. Bxf7
+69,Rxe4,h4e4,4r3/6p1/6kp/p3P1P1/1p1PR3/1P1nB3/P6P/3R2K1 b - - 0 35,39. Rg4 quickly wins the pawn.
+70,Nb2,d3b2,4r3/6p1/6kp/p3P1P1/1p1PR3/1P2B3/Pn5P/3R2K1 w - - 1 36,39. Rg4 quickly wins the pawn.
+71,Rd2,d1d2,4r3/6p1/6kp/p3P1P1/1p1PR3/1P2B3/Pn1R3P/6K1 b - - 2 36,39. Rg4 quickly wins the pawn.
+72,Kf5,g6f5,4r3/6p1/7p/p3PkP1/1p1PR3/1P2B3/Pn1R3P/6K1 w - - 3 37,39. Rg4 quickly wins the pawn.
+73,Rf4+,e4f4,4r3/6p1/7p/p3PkP1/1p1P1R2/1P2B3/Pn1R3P/6K1 b - - 4 37,39. Rg4 quickly wins the pawn.
+74,Kg6,f5g6,4r3/6p1/6kp/p3P1P1/1p1P1R2/1P2B3/Pn1R3P/6K1 w - - 5 38,39. Rg4 quickly wins the pawn.
+75,Rxb2,d2b2,4r3/6p1/6kp/p3P1P1/1p1P1R2/1P2B3/PR5P/6K1 b - - 0 38,39. Rg4 quickly wins the pawn.
+76,hxg5,h6g5,4r3/6p1/6k1/p3P1p1/1p1P1R2/1P2B3/PR5P/6K1 w - - 0 39,39. Rg4 quickly wins the pawn.
+77,Rg2,b2g2,4r3/6p1/6k1/p3P1p1/1p1P1R2/1P2B3/P5RP/6K1 b - - 1 39,39. Rg4 quickly wins the pawn.
+78,Kh5,g6h5,4r3/6p1/8/p3P1pk/1p1P1R2/1P2B3/P5RP/6K1 w - - 2 40,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+79,Rf5,f4f5,4r3/6p1/8/p3PRpk/1p1P4/1P2B3/P5RP/6K1 b - - 3 40,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+80,g6,g7g6,4r3/8/6p1/p3PRpk/1p1P4/1P2B3/P5RP/6K1 w - - 0 41,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+81,Rfxg5+,f5g5,4r3/8/6p1/p3P1Rk/1p1P4/1P2B3/P5RP/6K1 b - - 0 41,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+82,Kh4,h5h4,4r3/8/6p1/p3P1R1/1p1P3k/1P2B3/P5RP/6K1 w - - 1 42,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+83,Rg5xg6,g5g6,4r3/8/6R1/p3P3/1p1P3k/1P2B3/P5RP/6K1 b - - 0 42,Or 42. Bf2  Kh3 43. Rb5b4 any 44. Rg2g3#
+84,Rh8,e8h8,7r/8/6R1/p3P3/1p1P3k/1P2B3/P5RP/6K1 w - - 1 43,When ahead trade pieces. 43. Rh6  Rxh6 44. Bxh6 & black resigns because he can't cross the g file to stop the pawns.
+85,d5,d4d5,7r/8/6R1/p2PP3/1p5k/1P2B3/P5RP/6K1 b - - 0 43,When ahead trade pieces. 43. Rh6  Rxh6 44. Bxh6 & black resigns because he can't cross the g file to stop the pawns.
+86,Rh5,h8h5,8/8/6R1/p2PP2r/1p5k/1P2B3/P5RP/6K1 w - - 1 44,Black takes the bait & is mated.
+87,Rg6g4+,g6g4,8/8/8/p2PP2r/1p4Rk/1P2B3/P5RP/6K1 b - - 2 44,
+88,Kh3,h4h3,8/8/8/p2PP2r/1p4R1/1P2B2k/P5RP/6K1 w - - 3 45,
+89,Rg2g3#,g2g3,8/8/8/p2PP2r/1p4R1/1P2B1Rk/P6P/6K1 b - - 4 45,

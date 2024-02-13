@@ -1,0 +1,73 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,a strong opening
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,a strong opening
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,a strong opening
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,a strong opening
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,a strong opening
+6,b5,b7b5,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,a strong opening
+7,cxb5,c4b5,rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 4,not so usual line but playable...
+8,a6,a7a6,rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5,not so usual line but playable...
+9,e3,e2e3,rnbqkb1r/3ppppp/p4n2/1PpP4/8/4P3/PP3PPP/RNBQKBNR b KQkq - 0 5,not so usual line but playable...
+10,g6,g7g6,rnbqkb1r/3ppp1p/p4np1/1PpP4/8/4P3/PP3PPP/RNBQKBNR w KQkq - 0 6,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+11,Nc3,b1c3,rnbqkb1r/3ppp1p/p4np1/1PpP4/8/2N1P3/PP3PPP/R1BQKBNR b KQkq - 1 6,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+12,Bg7,f8g7,rnbqk2r/3pppbp/p4np1/1PpP4/8/2N1P3/PP3PPP/R1BQKBNR w KQkq - 2 7,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+13,Nf3,g1f3,rnbqk2r/3pppbp/p4np1/1PpP4/8/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 3 7,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+14,O-O,e8g8,rnbq1rk1/3pppbp/p4np1/1PpP4/8/2N1PN2/PP3PPP/R1BQKB1R w KQ - 4 8,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+15,Be2,f1e2,rnbq1rk1/3pppbp/p4np1/1PpP4/8/2N1PN2/PP2BPPP/R1BQK2R b KQ - 5 8,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+16,axb5,a6b5,rnbq1rk1/3pppbp/5np1/1ppP4/8/2N1PN2/PP2BPPP/R1BQK2R w KQ - 0 9,"taking the pawn at this time, and not sooner, ensures the King's safety and lose of one move (tempo) of White."
+17,Bxb5,e2b5,rnbq1rk1/3pppbp/5np1/1BpP4/8/2N1PN2/PP3PPP/R1BQK2R b KQ - 0 9,"a very strong and unexpected move!
+it is clear now that black has the upper hand."
+18,Ne4,f6e4,rnbq1rk1/3pppbp/6p1/1BpP4/4n3/2N1PN2/PP3PPP/R1BQK2R w KQ - 1 10,"a very strong and unexpected move!
+it is clear now that black has the upper hand."
+19,O-O,e1g1,rnbq1rk1/3pppbp/6p1/1BpP4/4n3/2N1PN2/PP3PPP/R1BQ1RK1 b - - 2 10,even the B line is not enough for white. but it is his last chance...
+20,Nxc3,e4c3,rnbq1rk1/3pppbp/6p1/1BpP4/8/2n1PN2/PP3PPP/R1BQ1RK1 w - - 0 11,even the B line is not enough for white. but it is his last chance...
+21,bxc3,b2c3,rnbq1rk1/3pppbp/6p1/1BpP4/8/2P1PN2/P4PPP/R1BQ1RK1 b - - 0 11,even the B line is not enough for white. but it is his last chance...
+22,Bxc3,g7c3,rnbq1rk1/3ppp1p/6p1/1BpP4/8/2b1PN2/P4PPP/R1BQ1RK1 w - - 0 12,even the B line is not enough for white. but it is his last chance...
+23,Rb1,a1b1,rnbq1rk1/3ppp1p/6p1/1BpP4/8/2b1PN2/P4PPP/1RBQ1RK1 b - - 1 12,even the B line is not enough for white. but it is his last chance...
+24,Rxa2,a8a2,1nbq1rk1/3ppp1p/6p1/1BpP4/8/2b1PN2/r4PPP/1RBQ1RK1 w - - 0 13,even the B line is not enough for white. but it is his last chance...
+25,Qb3,d1b3,1nbq1rk1/3ppp1p/6p1/1BpP4/8/1Qb1PN2/r4PPP/1RB2RK1 b - - 1 13,even the B line is not enough for white. but it is his last chance...
+26,Qa5,d8a5,1nb2rk1/3ppp1p/6p1/qBpP4/8/1Qb1PN2/r4PPP/1RB2RK1 w - - 2 14,a must.
+27,Bc4,b5c4,1nb2rk1/3ppp1p/6p1/q1pP4/2B5/1Qb1PN2/r4PPP/1RB2RK1 b - - 3 14,a must.
+28,Ra4,a2a4,1nb2rk1/3ppp1p/6p1/q1pP4/r1B5/1Qb1PN2/5PPP/1RB2RK1 w - - 4 15,a must.
+29,Qxb8,b3b8,1Qb2rk1/3ppp1p/6p1/q1pP4/r1B5/2b1PN2/5PPP/1RB2RK1 b - - 0 15,black got a free paw on the C file. it should be enough for a victory...
+30,Rxc4,a4c4,1Qb2rk1/3ppp1p/6p1/q1pP4/2r5/2b1PN2/5PPP/1RB2RK1 w - - 0 16,black got a free paw on the C file. it should be enough for a victory...
+31,Qb5,b8b5,2b2rk1/3ppp1p/6p1/qQpP4/2r5/2b1PN2/5PPP/1RB2RK1 b - - 1 16,"white is making it easier for black. without quens and with the C pawn, white is doomed..."
+32,Qxb5,a5b5,2b2rk1/3ppp1p/6p1/1qpP4/2r5/2b1PN2/5PPP/1RB2RK1 w - - 0 17,"white, apperantly, didn't see that move when he played Qb5."
+33,Rxb5,b1b5,2b2rk1/3ppp1p/6p1/1RpP4/2r5/2b1PN2/5PPP/2B2RK1 b - - 0 17,"white, apperantly, didn't see that move when he played Qb5."
+34,Ba6,c8a6,5rk1/3ppp1p/b5p1/1RpP4/2r5/2b1PN2/5PPP/2B2RK1 w - - 1 18,"white, apperantly, didn't see that move when he played Qb5."
+35,Rb6,b5b6,5rk1/3ppp1p/bR4p1/2pP4/2r5/2b1PN2/5PPP/2B2RK1 b - - 2 18,the pawn is running!
+36,Ra4,c4a4,5rk1/3ppp1p/bR4p1/2pP4/r7/2b1PN2/5PPP/2B2RK1 w - - 3 19,the pawn is running!
+37,Bd2,c1d2,5rk1/3ppp1p/bR4p1/2pP4/r7/2b1PN2/3B1PPP/5RK1 b - - 4 19,the pawn is running!
+38,Bxd2,c3d2,5rk1/3ppp1p/bR4p1/2pP4/r7/4PN2/3b1PPP/5RK1 w - - 0 20,the pawn is running!
+39,Rxa6,b6a6,5rk1/3ppp1p/R5p1/2pP4/r7/4PN2/3b1PPP/5RK1 b - - 0 20,the pawn is running!
+40,Rxa6,a4a6,5rk1/3ppp1p/r5p1/2pP4/8/4PN2/3b1PPP/5RK1 w - - 0 21,the pawn is running!
+41,Nxd2,f3d2,5rk1/3ppp1p/r5p1/2pP4/8/4P3/3N1PPP/5RK1 b - - 0 21,the pawn is running!
+42,Rb8,f8b8,1r4k1/3ppp1p/r5p1/2pP4/8/4P3/3N1PPP/5RK1 w - - 1 22,the pawn is running!
+43,Nc4,d2c4,1r4k1/3ppp1p/r5p1/2pP4/2N5/4P3/5PPP/5RK1 b - - 2 22,the pawn is running!
+44,Rb4,b8b4,6k1/3ppp1p/r5p1/2pP4/1rN5/4P3/5PPP/5RK1 w - - 3 23,the pawn is running!
+45,Ne5,c4e5,6k1/3ppp1p/r5p1/2pPN3/1r6/4P3/5PPP/5RK1 b - - 4 23,the pawn is running!
+46,c4,c5c4,6k1/3ppp1p/r5p1/3PN3/1rp5/4P3/5PPP/5RK1 w - - 0 24,the pawn is running!
+47,Rc1,f1c1,6k1/3ppp1p/r5p1/3PN3/1rp5/4P3/5PPP/2R3K1 b - - 1 24,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+48,Rab6,a6b6,6k1/3ppp1p/1r4p1/3PN3/1rp5/4P3/5PPP/2R3K1 w - - 2 25,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+49,Kf1,g1f1,6k1/3ppp1p/1r4p1/3PN3/1rp5/4P3/5PPP/2R2K2 b - - 3 25,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+50,Rb4b1,b4b1,6k1/3ppp1p/1r4p1/3PN3/2p5/4P3/5PPP/1rR2K2 w - - 4 26,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+51,Rxb1,c1b1,6k1/3ppp1p/1r4p1/3PN3/2p5/4P3/5PPP/1R3K2 b - - 0 26,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+52,Rxb1+,b6b1,6k1/3ppp1p/6p1/3PN3/2p5/4P3/5PPP/1r3K2 w - - 0 27,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+53,Ke2,f1e2,6k1/3ppp1p/6p1/3PN3/2p5/4P3/4KPPP/1r6 b - - 1 27,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+54,Rb2+,b1b2,6k1/3ppp1p/6p1/3PN3/2p5/4P3/1r2KPPP/8 w - - 2 28,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+55,Ke1,e2e1,6k1/3ppp1p/6p1/3PN3/2p5/4P3/1r3PPP/4K3 b - - 3 28,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+56,c3,c4c3,6k1/3ppp1p/6p1/3PN3/8/2p1P3/1r3PPP/4K3 w - - 0 29,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+57,Nd3,e5d3,6k1/3ppp1p/6p1/3P4/8/2pNP3/1r3PPP/4K3 b - - 1 29,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+58,e6,e7e6,6k1/3p1p1p/4p1p1/3P4/8/2pNP3/1r3PPP/4K3 w - - 0 30,"white cant take the rook. bringing the d pawn behind the c pawn or playing, later, e4 will end the game nicely."
+59,dxe6,d5e6,6k1/3p1p1p/4P1p1/8/8/2pNP3/1r3PPP/4K3 b - - 0 30,
+60,fxe6,f7e6,6k1/3p3p/4p1p1/8/8/2pNP3/1r3PPP/4K3 w - - 0 31,
+61,h3,h2h3,6k1/3p3p/4p1p1/8/8/2pNP2P/1r3PP1/4K3 b - - 0 31,
+62,d5,d7d5,6k1/7p/4p1p1/3p4/8/2pNP2P/1r3PP1/4K3 w - - 0 32,
+63,g3,g2g3,6k1/7p/4p1p1/3p4/8/2pNP1PP/1r3P2/4K3 b - - 0 32,
+64,e5,e6e5,6k1/7p/6p1/3pp3/8/2pNP1PP/1r3P2/4K3 w - - 0 33,
+65,f3,f2f3,6k1/7p/6p1/3pp3/8/2pNPPPP/1r6/4K3 b - - 0 33,
+66,e4,e5e4,6k1/7p/6p1/3p4/4p3/2pNPPPP/1r6/4K3 w - - 0 34,
+67,fxe4,f3e4,6k1/7p/6p1/3p4/4P3/2pNP1PP/1r6/4K3 b - - 0 34,
+68,dxe4,d5e4,6k1/7p/6p1/8/4p3/2pNP1PP/1r6/4K3 w - - 0 35,
+69,Nf4,d3f4,6k1/7p/6p1/8/4pN2/2p1P1PP/1r6/4K3 b - - 1 35,
+70,Rb1+,b2b1,6k1/7p/6p1/8/4pN2/2p1P1PP/8/1r2K3 w - - 2 36,

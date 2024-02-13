@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"I'm playing white, and this is my preferred opening at present."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,This is the standard response
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,"Rather than D4, this immediately threatens to disrupt his centre."
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2p5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,He seems keen to hold onto his slim material advantage.
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2p5/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,He seems keen to hold onto his slim material advantage.
+6,b5,b7b5,rnbqkbnr/p1p1pppp/8/1p6/2p5/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 0 4,He seems keen to hold onto his slim material advantage.
+7,b3,b2b3,rnbqkbnr/p1p1pppp/8/1p6/2p5/1P2PN2/P2P1PPP/RNBQKB1R b KQkq - 0 4,No need to worry about the other pawn yet.
+8,cxb3,c4b3,rnbqkbnr/p1p1pppp/8/1p6/8/1p2PN2/P2P1PPP/RNBQKB1R w KQkq - 0 5,No need to worry about the other pawn yet.
+9,Bxb5+,f1b5,rnbqkbnr/p1p1pppp/8/1B6/8/1p2PN2/P2P1PPP/RNBQK2R b KQkq - 0 5,No need to worry about the other pawn yet.
+10,c6,c7c6,rnbqkbnr/p3pppp/2p5/1B6/8/1p2PN2/P2P1PPP/RNBQK2R w KQkq - 0 6,"There's no way he can save the pawn really, so there's no hurry to take it."
+11,Bc4,b5c4,rnbqkbnr/p3pppp/2p5/8/2B5/1p2PN2/P2P1PPP/RNBQK2R b KQkq - 1 6,"There's no way he can save the pawn really, so there's no hurry to take it."
+12,bxa2,b3a2,rnbqkbnr/p3pppp/2p5/8/2B5/4PN2/p2P1PPP/RNBQK2R w KQkq - 0 7,"There's no way he can save the pawn really, so there's no hurry to take it."
+13,Nc3,b1c3,rnbqkbnr/p3pppp/2p5/8/2B5/2N1PN2/p2P1PPP/R1BQK2R b KQkq - 1 7,"There's no way he can save the pawn really, so there's no hurry to take it."
+14,Nf6,g8f6,rnbqkb1r/p3pppp/2p2n2/8/2B5/2N1PN2/p2P1PPP/R1BQK2R w KQkq - 2 8,Attacking f7.
+15,Qb3,d1b3,rnbqkb1r/p3pppp/2p2n2/8/2B5/1QN1PN2/p2P1PPP/R1B1K2R b KQkq - 3 8,Attacking f7.
+16,e6,e7e6,rnbqkb1r/p4ppp/2p1pn2/8/2B5/1QN1PN2/p2P1PPP/R1B1K2R w KQkq - 0 9,I was hoping he'd do this as he's weakened his e pawn.
+17,Rxa2,a1a2,rnbqkb1r/p4ppp/2p1pn2/8/2B5/1QN1PN2/R2P1PPP/2B1K2R b Kkq - 0 9,I was hoping he'd do this as he's weakened his e pawn.
+18,Qc7,d8c7,rnb1kb1r/p1q2ppp/2p1pn2/8/2B5/1QN1PN2/R2P1PPP/2B1K2R w Kkq - 1 10,I was hoping he'd do this as he's weakened his e pawn.
+19,O-O,e1g1,rnb1kb1r/p1q2ppp/2p1pn2/8/2B5/1QN1PN2/R2P1PPP/2B2RK1 b kq - 2 10,I was hoping he'd do this as he's weakened his e pawn.
+20,Nbd7,b8d7,r1b1kb1r/p1qn1ppp/2p1pn2/8/2B5/1QN1PN2/R2P1PPP/2B2RK1 w kq - 3 11,I was hoping he'd do this as he's weakened his e pawn.
+21,Ng5,f3g5,r1b1kb1r/p1qn1ppp/2p1pn2/6N1/2B5/1QN1P3/R2P1PPP/2B2RK1 b kq - 4 11,I need back-up for my attack.
+22,h6,h7h6,r1b1kb1r/p1qn1pp1/2p1pn1p/6N1/2B5/1QN1P3/R2P1PPP/2B2RK1 w kq - 0 12,"I could have backed off here, but thought it was worth going all out."
+23,Bxe6,c4e6,r1b1kb1r/p1qn1pp1/2p1Bn1p/6N1/8/1QN1P3/R2P1PPP/2B2RK1 b kq - 0 12,"He should have taken the knight there, now he's in trouble."
+24,fxe6,f7e6,r1b1kb1r/p1qn2p1/2p1pn1p/6N1/8/1QN1P3/R2P1PPP/2B2RK1 w kq - 0 13,"He should have taken the knight there, now he's in trouble."
+25,Qxe6+,b3e6,r1b1kb1r/p1qn2p1/2p1Qn1p/6N1/8/2N1P3/R2P1PPP/2B2RK1 b kq - 0 13,"King d8 loses, but then so does this!"
+26,Be7,f8e7,r1b1k2r/p1qnb1p1/2p1Qn1p/6N1/8/2N1P3/R2P1PPP/2B2RK1 w kq - 1 14,"King d8 loses, but then so does this!"
+27,Qf7+,e6f7,r1b1k2r/p1qnbQp1/2p2n1p/6N1/8/2N1P3/R2P1PPP/2B2RK1 b kq - 2 14,very satisfying.
+28,Kd8,e8d8,r1bk3r/p1qnbQp1/2p2n1p/6N1/8/2N1P3/R2P1PPP/2B2RK1 w - - 3 15,very satisfying.
+29,Ne6#,g5e6,r1bk3r/p1qnbQp1/2p1Nn1p/8/8/2N1P3/R2P1PPP/2B2RK1 b - - 4 15,very satisfying.

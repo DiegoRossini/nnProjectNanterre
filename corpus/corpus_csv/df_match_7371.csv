@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,The thematic position.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,The thematic position.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,The thematic position.
+4,g6,g7g6,rnbqkbnr/ppp1pp1p/6p1/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3,The thematic position.
+5,e4,e2e4,rnbqkbnr/ppp1pp1p/6p1/3p4/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 3,The thematic position.
+6,dxe4,d5e4,rnbqkbnr/ppp1pp1p/6p1/8/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,The thematic position.
+7,Ng5,f3g5,rnbqkbnr/ppp1pp1p/6p1/6N1/4pP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 4,The thematic position.
+8,Nf6,g8f6,rnbqkb1r/ppp1pp1p/5np1/6N1/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 5,The thematic position.
+9,Bc4,f1c4,rnbqkb1r/ppp1pp1p/5np1/6N1/2B1pP2/8/PPPP2PP/RNBQK2R b KQkq - 3 5,The thematic position.
+10,Bg4,c8g4,rn1qkb1r/ppp1pp1p/5np1/6N1/2B1pPb1/8/PPPP2PP/RNBQK2R w KQkq - 4 6,The thematic position.
+11,Bxf7+,c4f7,rn1qkb1r/ppp1pB1p/5np1/6N1/4pPb1/8/PPPP2PP/RNBQK2R b KQkq - 0 6,The thematic position.
+12,Kd7,e8d7,rn1q1b1r/pppkpB1p/5np1/6N1/4pPb1/8/PPPP2PP/RNBQK2R w KQ - 1 7,The thematic position.
+13,Qxg4+,d1g4,rn1q1b1r/pppkpB1p/5np1/6N1/4pPQ1/8/PPPP2PP/RNB1K2R b KQ - 0 7,The thematic position.
+14,Nxg4,f6g4,rn1q1b1r/pppkpB1p/6p1/6N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 0 8,The thematic position.
+15,Be6+,f7e6,rn1q1b1r/pppkp2p/4B1p1/6N1/4pPn1/8/PPPP2PP/RNB1K2R b KQ - 1 8,The thematic position.
+16,Ke8,d7e8,rn1qkb1r/ppp1p2p/4B1p1/6N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 2 9,"Unusual reply, but Black isn't interested a draw."
+17,Bxg4,e6g4,rn1qkb1r/ppp1p2p/6p1/6N1/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 0 9,A new plan.
+18,Bh6,f8h6,rn1qk2r/ppp1p2p/6pb/6N1/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 1 10,A new plan.
+19,Ne6,g5e6,rn1qk2r/ppp1p2p/4N1pb/8/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 2 10,"The idea is that Black is going to try and hold the position, developing very carefully."
+20,Qd6,d8d6,rn2k2r/ppp1p2p/3qN1pb/8/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 3 11,"The idea is that Black is going to try and hold the position, developing very carefully."
+21,O-O,e1g1,rn2k2r/ppp1p2p/3qN1pb/8/4pPB1/8/PPPP2PP/RNB2RK1 b - - 4 11,"White would like to see Black play gxf??, Bh5++. But Black continues to develop."
+22,Nd7,b8d7,r3k2r/pppnp2p/3qN1pb/8/4pPB1/8/PPPP2PP/RNB2RK1 w - - 5 12,"White would like to see Black play gxf??, Bh5++. But Black continues to develop."
+23,f5,f4f5,r3k2r/pppnp2p/3qN1pb/5P2/4p1B1/8/PPPP2PP/RNB2RK1 b - - 0 12,"White would like to see Black play gxf??, Bh5++. But Black continues to develop."
+24,Nf6,d7f6,r3k2r/ppp1p2p/3qNnpb/5P2/4p1B1/8/PPPP2PP/RNB2RK1 w - - 1 13,Black is willing to give back the exchange to eliminate the active N.
+25,Bh3,g4h3,r3k2r/ppp1p2p/3qNnpb/5P2/4p3/7B/PPPP2PP/RNB2RK1 b - - 2 13,Black is willing to give back the exchange to eliminate the active N.
+26,Rf8,h8f8,r3kr2/ppp1p2p/3qNnpb/5P2/4p3/7B/PPPP2PP/RNB2RK1 w - - 3 14,Black is willing to give back the exchange to eliminate the active N.
+27,Nc3,b1c3,r3kr2/ppp1p2p/3qNnpb/5P2/4p3/2N4B/PPPP2PP/R1B2RK1 b - - 4 14,Black tries to build a protective force around the king.
+28,Rf7,f8f7,r3k3/ppp1pr1p/3qNnpb/5P2/4p3/2N4B/PPPP2PP/R1B2RK1 w - - 5 15,Black tries to build a protective force around the king.
+29,d4,d2d4,r3k3/ppp1pr1p/3qNnpb/5P2/3Pp3/2N4B/PPP3PP/R1B2RK1 b - d3 0 15,"White takes advantage of the position of the Black bishop to get the pawn to d4, but at the price of a piece exchange."
+30,Bxc1,h6c1,r3k3/ppp1pr1p/3qNnp1/5P2/3Pp3/2N4B/PPP3PP/R1b2RK1 w - - 0 16,Blocking d5.
+31,Raxc1,a1c1,r3k3/ppp1pr1p/3qNnp1/5P2/3Pp3/2N4B/PPP3PP/2R2RK1 b - - 0 16,Blocking d5.
+32,c6,c7c6,r3k3/pp2pr1p/2pqNnp1/5P2/3Pp3/2N4B/PPP3PP/2R2RK1 w - - 0 17,Blocking d5.
+33,Rce1,c1e1,r3k3/pp2pr1p/2pqNnp1/5P2/3Pp3/2N4B/PPP3PP/4RRK1 b - - 1 17,"Now, White is finally threatening Black's advanced e pawn."
+34,Rb8,a8b8,1r2k3/pp2pr1p/2pqNnp1/5P2/3Pp3/2N4B/PPP3PP/4RRK1 w - - 2 18,? An immediate Qb4 is better. But the idea here is to prepare for freeing action on the Q side.
+35,fxg6,f5g6,1r2k3/pp2pr1p/2pqNnP1/8/3Pp3/2N4B/PPP3PP/4RRK1 b - - 0 18,? This idea is flawed. Black gets too much play by taking the d4 pawn.
+36,hxg6,h7g6,1r2k3/pp2pr2/2pqNnp1/8/3Pp3/2N4B/PPP3PP/4RRK1 w - - 0 19,? This idea is flawed. Black gets too much play by taking the d4 pawn.
+37,Ng5,e6g5,1r2k3/pp2pr2/2pq1np1/6N1/3Pp3/2N4B/PPP3PP/4RRK1 b - - 1 19,? This idea is flawed. Black gets too much play by taking the d4 pawn.
+38,Qxd4+,d6d4,1r2k3/pp2pr2/2p2np1/6N1/3qp3/2N4B/PPP3PP/4RRK1 w - - 0 20,Black is willing to sacrifice the exchange for action on the Q side.
+39,Kh1,g1h1,1r2k3/pp2pr2/2p2np1/6N1/3qp3/2N4B/PPP3PP/4RR1K b - - 1 20,Black is willing to sacrifice the exchange for action on the Q side.
+40,Qb4,d4b4,1r2k3/pp2pr2/2p2np1/6N1/1q2p3/2N4B/PPP3PP/4RR1K w - - 2 21,Black is willing to sacrifice the exchange for action on the Q side.
+41,Nxf7,g5f7,1r2k3/pp2pN2/2p2np1/8/1q2p3/2N4B/PPP3PP/4RR1K b - - 0 21,Black begins to assert pressure.
+42,Kxf7,e8f7,1r6/pp2pk2/2p2np1/8/1q2p3/2N4B/PPP3PP/4RR1K w - - 0 22,Black begins to assert pressure.
+43,Reb1,e1b1,1r6/pp2pk2/2p2np1/8/1q2p3/2N4B/PPP3PP/1R3R1K b - - 1 22,Black begins to assert pressure.
+44,Kg7,f7g7,1r6/pp2p1k1/2p2np1/8/1q2p3/2N4B/PPP3PP/1R3R1K w - - 2 23,Black begins to assert pressure.
+45,Rfd1,f1d1,1r6/pp2p1k1/2p2np1/8/1q2p3/2N4B/PPP3PP/1R1R3K b - - 3 23,Black begins to assert pressure.
+46,Rh8,b8h8,7r/pp2p1k1/2p2np1/8/1q2p3/2N4B/PPP3PP/1R1R3K w - - 4 24,Black begins to assert pressure.
+47,Be6,h3e6,7r/pp2p1k1/2p1Bnp1/8/1q2p3/2N5/PPP3PP/1R1R3K b - - 5 24,The plan is to exploit White's king position and threaten Qe5.
+48,Qc5,b4c5,7r/pp2p1k1/2p1Bnp1/2q5/4p3/2N5/PPP3PP/1R1R3K w - - 6 25,The plan is to exploit White's king position and threaten Qe5.
+49,g3,g2g3,7r/pp2p1k1/2p1Bnp1/2q5/4p3/2N3P1/PPP4P/1R1R3K b - - 0 25,This doesn't stop the threat.
+50,Qe5,c5e5,7r/pp2p1k1/2p1Bnp1/4q3/4p3/2N3P1/PPP4P/1R1R3K w - - 1 26,"White resigns, since the g pawn is pinned and to prevent mate, the bishop must be sacrificed."

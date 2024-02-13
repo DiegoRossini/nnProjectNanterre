@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Assuming that my opponent will probably prefer to play quite sharp and attacking openings as White in a simultaneous game, I chose a solid defence with the French."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Assuming that my opponent will probably prefer to play quite sharp and attacking openings as White in a simultaneous game, I chose a solid defence with the French."
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"The French exchange variation, which leads quite often to a draw (37% according to the GameKnot ""World"" database)."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"The French exchange variation, which leads quite often to a draw (37% according to the GameKnot ""World"" database)."
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"The French exchange variation, which leads quite often to a draw (37% according to the GameKnot ""World"" database)."
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"The French exchange variation, which leads quite often to a draw (37% according to the GameKnot ""World"" database)."
+7,Bf4,c1f4,rnbqkbnr/ppp2ppp/8/3p4/3P1B2/8/PPP2PPP/RN1QKBNR b KQkq - 1 4,4. Bd3 or 4. Nf3 are far more common moves here.
+8,Bf5,c8f5,rn1qkbnr/ppp2ppp/8/3p1b2/3P1B2/8/PPP2PPP/RN1QKBNR w KQkq - 2 5,"Just trying to maintain symmetry which is a well-known technique for Black in the French exchange variation to achieve a draw. However, this move leaves my pawn on b7 undefended and my opponent doesn't hesitate to exploit that..."
+9,Qe2+,d1e2,rn1qkbnr/ppp2ppp/8/3p1b2/3P1B2/8/PPP1QPPP/RN2KBNR b KQkq - 3 5,I was quite surprised by this early queen check - but the next moves will show that I lose a pawn at force!
+10,Be7,f8e7,rn1qk1nr/ppp1bppp/8/3p1b2/3P1B2/8/PPP1QPPP/RN2KBNR w KQkq - 4 6,Forcing the queen exchange with 5... Qe7 loses also a pawn because of 6. Bxc7!
+11,Qb5+,e2b5,rn1qk1nr/ppp1bppp/8/1Q1p1b2/3P1B2/8/PPP2PPP/RN2KBNR b KQkq - 5 6,"The b7 pawn falls for sure, I can't do anything about it."
+12,c6,c7c6,rn1qk1nr/pp2bppp/2p5/1Q1p1b2/3P1B2/8/PPP2PPP/RN2KBNR w KQkq - 0 7,I guess 6... Nc6 (developing the knight and defending my rook) followed by 7... Rc8 would have been better.
+13,Qxb7,b5b7,rn1qk1nr/pQ2bppp/2p5/3p1b2/3P1B2/8/PPP2PPP/RN2KBNR b KQkq - 0 7,The only move to defend my rook on a8.
+14,Nd7,b8d7,r2qk1nr/pQ1nbppp/2p5/3p1b2/3P1B2/8/PPP2PPP/RN2KBNR w KQkq - 1 8,The only move to defend my rook on a8.
+15,Nc3,b1c3,r2qk1nr/pQ1nbppp/2p5/3p1b2/3P1B2/2N5/PPP2PPP/R3KBNR b KQkq - 2 8,I wonder why my opponent didn't take the next free pawn on c6?
+16,Qc8,d8c8,r1q1k1nr/pQ1nbppp/2p5/3p1b2/3P1B2/2N5/PPP2PPP/R3KBNR w KQkq - 3 9,"Offering a queen exchange, to avoid the loss of more pawns."
+17,Qxc8+,b7c8,r1Q1k1nr/p2nbppp/2p5/3p1b2/3P1B2/2N5/PPP2PPP/R3KBNR b KQkq - 0 9,The opponent accepts.
+18,Rxc8,a8c8,2r1k1nr/p2nbppp/2p5/3p1b2/3P1B2/2N5/PPP2PPP/R3KBNR w KQk - 0 10,"Unfortunately I didn't have time to take the undefended pawn on c2, now as my opponent castles queenside it's too late."
+19,O-O-O,e1c1,2r1k1nr/p2nbppp/2p5/3p1b2/3P1B2/2N5/PPP2PPP/2KR1BNR b k - 1 10,"Unfortunately I didn't have time to take the undefended pawn on c2, now as my opponent castles queenside it's too late."
+20,Ngf6,g8f6,2r1k2r/p2nbppp/2p2n2/3p1b2/3P1B2/2N5/PPP2PPP/2KR1BNR w k - 2 11,Preparing to castle kingside and getting more control of e4.
+21,h3,h2h3,2r1k2r/p2nbppp/2p2n2/3p1b2/3P1B2/2N4P/PPP2PP1/2KR1BNR b k - 0 11,Probably preparing g4.
+22,O-O,e8g8,2r2rk1/p2nbppp/2p2n2/3p1b2/3P1B2/2N4P/PPP2PP1/2KR1BNR w - - 1 12,Avoids to let my knight go to e4 and prepares g4 once more ;-)
+23,f3,f2f3,2r2rk1/p2nbppp/2p2n2/3p1b2/3P1B2/2N2P1P/PPP3P1/2KR1BNR b - - 0 12,Avoids to let my knight go to e4 and prepares g4 once more ;-)
+24,Rfe8,f8e8,2r1r1k1/p2nbppp/2p2n2/3p1b2/3P1B2/2N2P1P/PPP3P1/2KR1BNR w - - 1 13,"Ah, here it comes. White's pawns are getting quite annoying at the kingside, at the price that two of his minor pieces aren't developed yet."
+25,g4,g2g4,2r1r1k1/p2nbppp/2p2n2/3p1b2/3P1BP1/2N2P1P/PPP5/2KR1BNR b - - 0 13,"Ah, here it comes. White's pawns are getting quite annoying at the kingside, at the price that two of his minor pieces aren't developed yet."
+26,Bg6,f5g6,2r1r1k1/p2nbppp/2p2nb1/3p4/3P1BP1/2N2P1P/PPP5/2KR1BNR w - - 1 14,"I didn't want to block the e-file with 13... Be6, and this was the only alternative, which keeps the bishop on the fine b1-h7 diagonal."
+27,h4,h3h4,2r1r1k1/p2nbppp/2p2nb1/3p4/3P1BPP/2N2P2/PPP5/2KR1BNR b - - 0 14,"Of course, the opponents wants to make use of his pawn-wall and catch my bishop."
+28,h6,h7h6,2r1r1k1/p2nbpp1/2p2nbp/3p4/3P1BPP/2N2P2/PPP5/2KR1BNR w - - 0 15,"The only sane move in this situation, any other will lose material."

@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Indian defense. Very standard.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Indian defense. Very standard.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Indian defense. Very standard.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Indian defense. Very standard.
+5,Bg5,c1g5,rnbqkb1r/pppp1ppp/4pn2/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq - 1 3,Takes space and blocks my DSB.
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/8/PP2PPPP/RN1QKBNR w KQkq - 0 4,Takes space and blocks my DSB.
+7,c5,c4c5,rnbqkb1r/ppp2ppp/4pn2/2Pp2B1/3P4/8/PP2PPPP/RN1QKBNR b KQkq - 0 4,Takes space and blocks my DSB.
+8,h6,h7h6,rnbqkb1r/ppp2pp1/4pn1p/2Pp2B1/3P4/8/PP2PPPP/RN1QKBNR w KQkq - 0 5,This seems fairly standard. No questions yet.
+9,Bxf6,g5f6,rnbqkb1r/ppp2pp1/4pB1p/2Pp4/3P4/8/PP2PPPP/RN1QKBNR b KQkq - 0 5,This seems fairly standard. No questions yet.
+10,Qxf6,d8f6,rnb1kb1r/ppp2pp1/4pq1p/2Pp4/3P4/8/PP2PPPP/RN1QKBNR w KQkq - 0 6,This seems fairly standard. No questions yet.
+11,e3,e2e3,rnb1kb1r/ppp2pp1/4pq1p/2Pp4/3P4/4P3/PP3PPP/RN1QKBNR b KQkq - 0 6,Protects the pawn and opens up for LSB. White is perfectly fine.
+12,Nc6,b8c6,r1b1kb1r/ppp2pp1/2n1pq1p/2Pp4/3P4/4P3/PP3PPP/RN1QKBNR w KQkq - 1 7,developing normaly.
+13,Bb5,f1b5,r1b1kb1r/ppp2pp1/2n1pq1p/1BPp4/3P4/4P3/PP3PPP/RN1QK1NR b KQkq - 2 7,Also normal. Pins my knight.
+14,Bd7,c8d7,r3kb1r/pppb1pp1/2n1pq1p/1BPp4/3P4/4P3/PP3PPP/RN1QK1NR w KQkq - 3 8,Unpins the knight and sets up a bishop retake if he decides to exchange.
+15,Qb3,d1b3,r3kb1r/pppb1pp1/2n1pq1p/1BPp4/3P4/1Q2P3/PP3PPP/RN2K1NR b KQkq - 4 8,This also seems fine. It does bring out the queen a bit early. That usually can be a problem.
+16,e5,e6e5,r3kb1r/pppb1pp1/2n2q1p/1BPpp3/3P4/1Q2P3/PP3PPP/RN2K1NR w KQkq - 0 9,Aiming at his pawn chain this hangs the d5 pawn but I reasoned that O-O-O would place rather large presure on his queen and should give me a possibility to  pull ahead in development.
+17,Qxd5,b3d5,r3kb1r/pppb1pp1/2n2q1p/1BPQp3/3P4/4P3/PP3PPP/RN2K1NR b KQkq - 0 9,He grabs the pawn. I think this is his first misstake. But it doesnt seem like a very large one.
+18,O-O-O,e8c8,2kr1b1r/pppb1pp1/2n2q1p/1BPQp3/3P4/4P3/PP3PPP/RN2K1NR w KQ - 1 10,Following the plan.
+19,dxe5,d4e5,2kr1b1r/pppb1pp1/2n2q1p/1BPQP3/8/4P3/PP3PPP/RN2K1NR b KQ - 0 10,"? My own analysis suggests that this was a bad move. After Nxe5 it looks rather bleak for white. For example Nxe5 11. Bxd7 Rxd7 12. Qe4 Nd3!
+The tactical possibilities for black are limitless."
+20,Nxe5,c6e5,2kr1b1r/pppb1pp1/5q1p/1BPQn3/8/4P3/PP3PPP/RN2K1NR w KQ - 0 11,"?? Is there a way for white to fight on here? The apparent mate threat is irrelevant.
+At the time I just saw this as a continuation on the theme ""chasing the queen for development"""
+21,Ba6,b5a6,2kr1b1r/pppb1pp1/B4q1p/2PQn3/8/4P3/PP3PPP/RN2K1NR b KQ - 1 11,"?? Is there a way for white to fight on here? The apparent mate threat is irrelevant.
+At the time I just saw this as a continuation on the theme ""chasing the queen for development"""
+22,Bc6,d7c6,2kr1b1r/ppp2pp1/B1b2q1p/2PQn3/8/4P3/PP3PPP/RN2K1NR w KQ - 2 12,Double attacking the queen. Move it or loose it. Only b3 is open.
+23,Qb3,d5b3,2kr1b1r/ppp2pp1/B1b2q1p/2P1n3/8/1Q2P3/PP3PPP/RN2K1NR b KQ - 3 12,"White is lost in more ways than I can count. I really cant see any way for white to get out of trouble. The best I can do is Nd2.
+Something like 13. Nd2 Nd3ch 14. Kc2 Qf5ch 15. e4 Bxe4ch
+Mayhem."
+24,bxa6,b7a6,2kr1b1r/p1p2pp1/p1b2q1p/2P1n3/8/1Q2P3/PP3PPP/RN2K1NR w KQ - 0 13,"White is lost in more ways than I can count. I really cant see any way for white to get out of trouble. The best I can do is Nd2.
+Something like 13. Nd2 Nd3ch 14. Kc2 Qf5ch 15. e4 Bxe4ch
+Mayhem."
+25,Ne2,g1e2,2kr1b1r/p1p2pp1/p1b2q1p/2P1n3/8/1Q2P3/PP2NPPP/RN2K2R b KQ - 1 13,Doesn't block thed file. Not good.
+26,Nd3+,e5d3,2kr1b1r/p1p2pp1/p1b2q1p/2P5/8/1Q1nP3/PP2NPPP/RN2K2R w KQ - 2 14,"Also his knight occupies the escape square The king now has to go to the d file and Nxc5ch will win his queen, and white still have major problems even holding on to the rest of his material."
+27,Kf1,e1f1,2kr1b1r/p1p2pp1/p1b2q1p/2P5/8/1Q1nP3/PP2NPPP/RN3K1R b - - 3 14,This felt like a resign.
+28,Qxf2#,f6f2,2kr1b1r/p1p2pp1/p1b4p/2P5/8/1Q1nP3/PP2NqPP/RN3K1R w - - 0 15,"Again my question here is, at what point did this become inevitable?"

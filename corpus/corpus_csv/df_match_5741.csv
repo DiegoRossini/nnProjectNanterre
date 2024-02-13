@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Awkward, but not that bad, yet."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Awkward, but not that bad, yet."
+3,Nh3,g1h3,rnbqkbnr/pppp1ppp/4p3/8/4P3/7N/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Awkward, but not that bad, yet."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/7N/PPPP1PPP/RNBQKB1R w KQkq - 0 3,I think exd5 is better here.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/7N/PPPP1PPP/RNBQKB1R b KQkq - 0 3,I think exd5 is better here.
+6,Qxd5,d8d5,rnb1kbnr/ppp2ppp/4p3/3q4/8/7N/PPPP1PPP/RNBQKB1R w KQkq - 0 4,I think exd5 is better here.
+7,Be2,f1e2,rnb1kbnr/ppp2ppp/4p3/3q4/8/7N/PPPPBPPP/RNBQK2R b KQkq - 1 4,Hangs the pawn at g2.
+8,Bd6,f8d6,rnb1k1nr/ppp2ppp/3bp3/3q4/8/7N/PPPPBPPP/RNBQK2R w KQkq - 2 5,"Should have played Qxg2, forking the rook and knight. Play would likely follow Rg1 Qxh3, Rxg7 Qxh2, Bf1."
+9,c4,c2c4,rnb1k1nr/ppp2ppp/3bp3/3q4/2P5/7N/PP1PBPPP/RNBQK2R b KQkq - 0 5,Much better would have been Bf3.
+10,Qc5,d5c5,rnb1k1nr/ppp2ppp/3bp3/2q5/2P5/7N/PP1PBPPP/RNBQK2R w KQkq - 1 6,Again! Missed Qxg2! Only now Black has the bishop on d6 to contribute.
+11,b3,b2b3,rnb1k1nr/ppp2ppp/3bp3/2q5/2P5/1P5N/P2PBPPP/RNBQK2R b KQkq - 0 6,Error after error after error. White could defend with the simple O-O. Now there is a pawn on c4 that White must worry about defending.
+12,Be5,d6e5,rnb1k1nr/ppp2ppp/4p3/2q1b3/2P5/1P5N/P2PBPPP/RNBQK2R w KQkq - 1 7,"A threat, but not as much as Qxg2! as would have been playable earlier."
+13,Ba3,c1a3,rnb1k1nr/ppp2ppp/4p3/2q1b3/2P5/BP5N/P2PBPPP/RN1QK2R b KQkq - 2 7,"You have to admire White's use of this in-between move, but it does allow for Qc6, renewing the threat on g2, all while the a1 rook is still attacked."
+14,Qc6,c5c6,rnb1k1nr/ppp2ppp/2q1p3/4b3/2P5/BP5N/P2PBPPP/RN1QK2R w KQkq - 3 8,Good.
+15,Nc3,b1c3,rnb1k1nr/ppp2ppp/2q1p3/4b3/2P5/BPN4N/P2PBPPP/R2QK2R b KQkq - 4 8,"Now that Black's queen no longer guards d4, 8. d4 would have been better."
+16,Qxg2,c6g2,rnb1k1nr/ppp2ppp/4p3/4b3/2P5/BPN4N/P2PBPqP/R2QK2R w KQkq - 0 9,Finally Black capitalizes on White's weakness.
+17,Rg1,h1g1,rnb1k1nr/ppp2ppp/4p3/4b3/2P5/BPN4N/P2PBPqP/R2QK1R1 b Qkq - 1 9,"10. d4 is pointless now. Furthermore, White's knight is hanging! Play would follow: Qxc3+, Kf1 Qh3+, Ke1 Bxh2, and either Rh1, Rf1, or Rxg7, perhaps."
+18,Qxh3,g2h3,rnb1k1nr/ppp2ppp/4p3/4b3/2P5/BPN4q/P2PBP1P/R2QK1R1 w Qkq - 0 10,"10. d4 is pointless now. Furthermore, White's knight is hanging! Play would follow: Qxc3+, Kf1 Qh3+, Ke1 Bxh2, and either Rh1, Rf1, or Rxg7, perhaps."
+19,d4,d2d4,rnb1k1nr/ppp2ppp/4p3/4b3/2PP4/BPN4q/P3BP1P/R2QK1R1 b Qkq - 0 10,"10. d4 is pointless now. Furthermore, White's knight is hanging! Play would follow: Qxc3+, Kf1 Qh3+, Ke1 Bxh2, and either Rh1, Rf1, or Rxg7, perhaps."
+20,Bxh2,e5h2,rnb1k1nr/ppp2ppp/4p3/8/2PP4/BPN4q/P3BP1b/R2QK1R1 w Qkq - 0 11,"Too early, but I guess it kindof still works."
+21,Rh1,g1h1,rnb1k1nr/ppp2ppp/4p3/8/2PP4/BPN4q/P3BP1b/R2QK2R b Qkq - 1 11,"Black can now easily get out of the pin and save his bishop after Qxc3+, Kf1 Bd6 (or Bf4)."
+22,Qg2,h3g2,rnb1k1nr/ppp2ppp/4p3/8/2PP4/BPN5/P3BPqb/R2QK2R w Qkq - 2 12,This is easily countered with Rf1.
+23,Kd2,e1d2,rnb1k1nr/ppp2ppp/4p3/8/2PP4/BPN5/P2KBPqb/R2Q3R b kq - 3 12,"...or that, but the king is now exposed and the queen has poorer access along the d file. Plus the f pawn is hanging."
+24,Bf4+,h2f4,rnb1k1nr/ppp2ppp/4p3/8/2PP1b2/BPN5/P2KBPq1/R2Q3R w kq - 4 13,"Better is Qxf2, pinning the bishop to the king..."
+25,Kc2,d2c2,rnb1k1nr/ppp2ppp/4p3/8/2PP1b2/BPN5/P1K1BPq1/R2Q3R b kq - 5 13,"Better is Qxf2, pinning the bishop to the king..."
+26,Qg6+,g2g6,rnb1k1nr/ppp2ppp/4p1q1/8/2PP1b2/BPN5/P1K1BP2/R2Q3R w kq - 6 14,"Better is Qxf2, pinning the bishop to the king..."
+27,Bd3,e2d3,rnb1k1nr/ppp2ppp/4p1q1/8/2PP1b2/BPNB4/P1K2P2/R2Q3R b kq - 7 14,"The queen simply moves back to its original square. Black loses a tempo as a result. She now threatens check instead of a pin, but it's easily defensible."
+28,Qg2,g6g2,rnb1k1nr/ppp2ppp/4p3/8/2PP1b2/BPNB4/P1K2Pq1/R2Q3R w kq - 8 15,"The queen simply moves back to its original square. Black loses a tempo as a result. She now threatens check instead of a pin, but it's easily defensible."
+29,Qe1,d1e1,rnb1k1nr/ppp2ppp/4p3/8/2PP1b2/BPNB4/P1K2Pq1/R3Q2R b kq - 9 15,"Black still can't castle because the knight would be hanging. Protect it, and castling would leave it pinned to the rook."
+30,Ne7,g8e7,rnb1k2r/ppp1nppp/4p3/8/2PP1b2/BPNB4/P1K2Pq1/R3Q2R w kq - 10 16,"Black still can't castle because the knight would be hanging. Protect it, and castling would leave it pinned to the rook."

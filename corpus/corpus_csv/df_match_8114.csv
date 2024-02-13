@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The French opening
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The French opening
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The French opening
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,The French opening
+5,e5,e4e5,rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,The French opening
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n1p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,This is not usual for this opening
+7,Nc3,b1c3,r1bqkbnr/ppp2ppp/2n1p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 4,Not a very nice move :(
+8,Bb4,f8b4,r1bqk1nr/ppp2ppp/2n1p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 5,Not a very nice move :(
+9,Qd3,d1d3,r1bqk1nr/ppp2ppp/2n1p3/3pP3/1b1P4/2NQ4/PPP2PPP/R1B1KBNR b KQkq - 4 5,Not a very nice move :(
+10,Nge7,g8e7,r1bqk2r/ppp1nppp/2n1p3/3pP3/1b1P4/2NQ4/PPP2PPP/R1B1KBNR w KQkq - 5 6,Excellent move!
+11,Bd2,c1d2,r1bqk2r/ppp1nppp/2n1p3/3pP3/1b1P4/2NQ4/PPPB1PPP/R3KBNR b KQkq - 6 6,Excellent move!
+12,Bxc3,b4c3,r1bqk2r/ppp1nppp/2n1p3/3pP3/3P4/2bQ4/PPPB1PPP/R3KBNR w KQkq - 0 7,Excellent move!
+13,Bxc3,d2c3,r1bqk2r/ppp1nppp/2n1p3/3pP3/3P4/2BQ4/PPP2PPP/R3KBNR b KQkq - 0 7,Excellent move!
+14,Bd7,c8d7,r2qk2r/pppbnppp/2n1p3/3pP3/3P4/2BQ4/PPP2PPP/R3KBNR w KQkq - 1 8,Excellent move!
+15,f4,f2f4,r2qk2r/pppbnppp/2n1p3/3pP3/3P1P2/2BQ4/PPP3PP/R3KBNR b KQkq - 0 8,Excellent move!
+16,O-O,e8g8,r2q1rk1/pppbnppp/2n1p3/3pP3/3P1P2/2BQ4/PPP3PP/R3KBNR w KQ - 1 9,Castling into an attack is probably not a good idea
+17,Nf3,g1f3,r2q1rk1/pppbnppp/2n1p3/3pP3/3P1P2/2BQ1N2/PPP3PP/R3KB1R b KQ - 2 9,Mounting the attack on the king-side...
+18,h6,h7h6,r2q1rk1/pppbnpp1/2n1p2p/3pP3/3P1P2/2BQ1N2/PPP3PP/R3KB1R w KQ - 0 10,Preventing N-g5 (which would be devastating for black)
+19,g4,g2g4,r2q1rk1/pppbnpp1/2n1p2p/3pP3/3P1PP1/2BQ1N2/PPP4P/R3KB1R b KQ - 0 10,Increasing the attack
+20,Ng6,e7g6,r2q1rk1/pppb1pp1/2n1p1np/3pP3/3P1PP1/2BQ1N2/PPP4P/R3KB1R w KQ - 1 11,A trap!
+21,h4,h2h4,r2q1rk1/pppb1pp1/2n1p1np/3pP3/3P1PPP/2BQ1N2/PPP5/R3KB1R b KQ - 0 11,A trap!
+22,Nxf4,g6f4,r2q1rk1/pppb1pp1/2n1p2p/3pP3/3P1nPP/2BQ1N2/PPP5/R3KB1R w KQ - 0 12,Black falls into the trap head-first
+23,Qe3,d3e3,r2q1rk1/pppb1pp1/2n1p2p/3pP3/3P1nPP/2B1QN2/PPP5/R3KB1R b KQ - 1 12,The h-file is now free for attack
+24,g5,g7g5,r2q1rk1/pppb1p2/2n1p2p/3pP1p1/3P1nPP/2B1QN2/PPP5/R3KB1R w KQ - 0 13,The h-file is now free for attack
+25,hxg5,h4g5,r2q1rk1/pppb1p2/2n1p2p/3pP1P1/3P1nP1/2B1QN2/PPP5/R3KB1R b KQ - 0 13,The h-file is now free for attack
+26,hxg5,h6g5,r2q1rk1/pppb1p2/2n1p3/3pP1p1/3P1nP1/2B1QN2/PPP5/R3KB1R w KQ - 0 14,The h-file is now free for attack
+27,O-O-O,e1c1,r2q1rk1/pppb1p2/2n1p3/3pP1p1/3P1nP1/2B1QN2/PPP5/2KR1B1R b - - 1 14,This is to free up the f1 Bishop without having to be afraid of g2
+28,Ne7,c6e7,r2q1rk1/pppbnp2/4p3/3pP1p1/3P1nP1/2B1QN2/PPP5/2KR1B1R w - - 2 15,Moving another knight into the defence
+29,Bd3,f1d3,r2q1rk1/pppbnp2/4p3/3pP1p1/3P1nP1/2BBQN2/PPP5/2KR3R b - - 3 15,Getting another piece into the attack
+30,Nxd3+,f4d3,r2q1rk1/pppbnp2/4p3/3pP1p1/3P2P1/2BnQN2/PPP5/2KR3R w - - 0 16,Threatening qh7 - Mate
+31,Qxd3,e3d3,r2q1rk1/pppbnp2/4p3/3pP1p1/3P2P1/2BQ1N2/PPP5/2KR3R b - - 0 16,Threatening qh7 - Mate
+32,Ng6,e7g6,r2q1rk1/pppb1p2/4p1n1/3pP1p1/3P2P1/2BQ1N2/PPP5/2KR3R w - - 1 17,Blocks
+33,Rh5,h1h5,r2q1rk1/pppb1p2/4p1n1/3pP1pR/3P2P1/2BQ1N2/PPP5/2KR4 b - - 2 17,Planning on f6
+34,Kg7,g8g7,r2q1r2/pppb1pk1/4p1n1/3pP1pR/3P2P1/2BQ1N2/PPP5/2KR4 w - - 3 18,Planning on f6
+35,Rdh1,d1h1,r2q1r2/pppb1pk1/4p1n1/3pP1pR/3P2P1/2BQ1N2/PPP5/2K4R b - - 4 18,Getting another rook into the attack
+36,Nf4,g6f4,r2q1r2/pppb1pk1/4p3/3pP1pR/3P1nP1/2BQ1N2/PPP5/2K4R w - - 5 19,Big mistake
+37,Qh7#,d3h7,r2q1r2/pppb1pkQ/4p3/3pP1pR/3P1nP1/2B2N2/PPP5/2K4R b - - 6 19,

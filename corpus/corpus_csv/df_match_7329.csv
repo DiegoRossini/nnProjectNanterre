@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"trying to support e4, but c4 and Nc3 is better"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"trying to support e4, but c4 and Nc3 is better"
+3,f3,f2f3,rnbqkb1r/pppppppp/5n2/8/3P4/5P2/PPP1P1PP/RNBQKBNR b KQkq - 0 2,"trying to support e4, but c4 and Nc3 is better"
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/5P2/PPP1P1PP/RNBQKBNR w KQkq - 0 3,"To attack the knight, but I don't really understand this."
+5,g4,g2g4,rnbqkb1r/pppppp1p/5np1/8/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq - 0 3,"To attack the knight, but I don't really understand this."
+6,h6,h7h6,rnbqkb1r/pppppp2/5npp/8/3P2P1/5P2/PPP1P2P/RNBQKBNR w KQkq - 0 4,Using a tempo to secure my knight
+7,h4,h2h4,rnbqkb1r/pppppp2/5npp/8/3P2PP/5P2/PPP1P3/RNBQKBNR b KQkq - 0 4,Trying to get control of d4
+8,Bg7,f8g7,rnbqk2r/ppppppb1/5npp/8/3P2PP/5P2/PPP1P3/RNBQKBNR w KQkq - 1 5,Trying to get control of d4
+9,c3,c2c3,rnbqk2r/ppppppb1/5npp/8/3P2PP/2P2P2/PP2P3/RNBQKBNR b KQkq - 0 5,Trying to get control of d4
+10,d6,d7d6,rnbqk2r/ppp1ppb1/3p1npp/8/3P2PP/2P2P2/PP2P3/RNBQKBNR w KQkq - 0 6,Trying to get control of d4
+11,e4,e2e4,rnbqk2r/ppp1ppb1/3p1npp/8/3PP1PP/2P2P2/PP6/RNBQKBNR b KQkq - 0 6,Trying to get control of d4
+12,c5,c7c5,rnbqk2r/pp2ppb1/3p1npp/2p5/3PP1PP/2P2P2/PP6/RNBQKBNR w KQkq - 0 7,Trying to get control of d4
+13,d5,d4d5,rnbqk2r/pp2ppb1/3p1npp/2pP4/4P1PP/2P2P2/PP6/RNBQKBNR b KQkq - 0 7,"Probably a mistake. I was worried about Bb5+, but O-O and Na6 might be better."
+14,a6,a7a6,rnbqk2r/1p2ppb1/p2p1npp/2pP4/4P1PP/2P2P2/PP6/RNBQKBNR w KQkq - 0 8,"Probably a mistake. I was worried about Bb5+, but O-O and Na6 might be better."
+15,a4,a2a4,rnbqk2r/1p2ppb1/p2p1npp/2pP4/P3P1PP/2P2P2/1P6/RNBQKBNR b KQkq - 0 8,"Delaying castling, as the centre is closed"
+16,Nbd7,b8d7,r1bqk2r/1p1nppb1/p2p1npp/2pP4/P3P1PP/2P2P2/1P6/RNBQKBNR w KQkq - 1 9,"Delaying castling, as the centre is closed"
+17,f4,f3f4,r1bqk2r/1p1nppb1/p2p1npp/2pP4/P3PPPP/2P5/1P6/RNBQKBNR b KQkq - 0 9,"Looks scary, but now the g4 and e4 pawns are weak"
+18,Nb8,d7b8,rnbqk2r/1p2ppb1/p2p1npp/2pP4/P3PPPP/2P5/1P6/RNBQKBNR w KQkq - 1 10,"attacking the pawn on g4 twice. Probably not best, because my knight has nowhere to go other than back to d7 after Be2. (what I didn't notice is that the e4 pawn isn't even defended once)"
+19,c4,c3c4,rnbqk2r/1p2ppb1/p2p1npp/2pP4/P1P1PPPP/8/1P6/RNBQKBNR b KQkq - 0 10,White finally moves a piece
+20,Bxg4,c8g4,rn1qk2r/1p2ppb1/p2p1npp/2pP4/P1P1PPbP/8/1P6/RNBQKBNR w KQkq - 0 11,White finally moves a piece
+21,Be2,f1e2,rn1qk2r/1p2ppb1/p2p1npp/2pP4/P1P1PPbP/8/1P2B3/RNBQK1NR b KQkq - 1 11,White finally moves a piece
+22,h5,h6h5,rn1qk2r/1p2ppb1/p2p1np1/2pP3p/P1P1PPbP/8/1P2B3/RNBQK1NR w KQkq - 0 12,preventing h4-h5
+23,Nc3,b1c3,rn1qk2r/1p2ppb1/p2p1np1/2pP3p/P1P1PPbP/2N5/1P2B3/R1BQK1NR b KQkq - 1 12,Nbd7 or Qc7 would have prevented white's next move
+24,O-O,e8g8,rn1q1rk1/1p2ppb1/p2p1np1/2pP3p/P1P1PPbP/2N5/1P2B3/R1BQK1NR w KQ - 2 13,Nbd7 or Qc7 would have prevented white's next move
+25,e5,e4e5,rn1q1rk1/1p2ppb1/p2p1np1/2pPP2p/P1P2PbP/2N5/1P2B3/R1BQK1NR b KQ - 0 13,"With my knight attacked, this exchange is probably forced"
+26,Bxe2,g4e2,rn1q1rk1/1p2ppb1/p2p1np1/2pPP2p/P1P2P1P/2N5/1P2b3/R1BQK1NR w KQ - 0 14,"With my knight attacked, this exchange is probably forced"
+27,Ngxe2,g1e2,rn1q1rk1/1p2ppb1/p2p1np1/2pPP2p/P1P2P1P/2N5/1P2N3/R1BQK2R b KQ - 0 14,Skipping away from the pawn
+28,Nfd7,f6d7,rn1q1rk1/1p1nppb1/p2p2p1/2pPP2p/P1P2P1P/2N5/1P2N3/R1BQK2R w KQ - 1 15,Skipping away from the pawn
+29,Rg1,h1g1,rn1q1rk1/1p1nppb1/p2p2p1/2pPP2p/P1P2P1P/2N5/1P2N3/R1BQK1R1 b Q - 2 15,"Hoping for tactics based on f5, or Qxh5 if the bishop moves"
+30,Qb6,d8b6,rn3rk1/1p1nppb1/pq1p2p1/2pPP2p/P1P2P1P/2N5/1P2N3/R1BQK1R1 w Q - 3 16,To prevent Qb3
+31,Ne4,c3e4,rn3rk1/1p1nppb1/pq1p2p1/2pPP2p/P1P1NP1P/8/1P2N3/R1BQK1R1 b Q - 4 16,Putting the rook facing the king
+32,Re8,f8e8,rn2r1k1/1p1nppb1/pq1p2p1/2pPP2p/P1P1NP1P/8/1P2N3/R1BQK1R1 w Q - 5 17,Putting the rook facing the king
+33,a5,a4a5,rn2r1k1/1p1nppb1/pq1p2p1/P1pPP2p/2P1NP1P/8/1P2N3/R1BQK1R1 b Q - 0 17,"maybe Qg5+ would have been better, but I didn't want to over-extend myself."
+34,Qc7,b6c7,rn2r1k1/1pqnppb1/p2p2p1/P1pPP2p/2P1NP1P/8/1P2N3/R1BQK1R1 w Q - 1 18,"maybe Qg5+ would have been better, but I didn't want to over-extend myself."
+35,exd6,e5d6,rn2r1k1/1pqnppb1/p2P2p1/P1pP3p/2P1NP1P/8/1P2N3/R1BQK1R1 b Q - 0 18,opening the e-file
+36,exd6,e7d6,rn2r1k1/1pqn1pb1/p2p2p1/P1pP3p/2P1NP1P/8/1P2N3/R1BQK1R1 w Q - 0 19,opening the e-file
+37,Qc2,d1c2,rn2r1k1/1pqn1pb1/p2p2p1/P1pP3p/2P1NP1P/8/1PQ1N3/R1B1K1R1 b Q - 1 19,"Not Nc3, because of Bxc3!"
+38,Nf6,d7f6,rn2r1k1/1pq2pb1/p2p1np1/P1pP3p/2P1NP1P/8/1PQ1N3/R1B1K1R1 w Q - 2 20,The exchange sacrifice Rxe4 Qxe4 Nf6 is interesting. This just misplaces my bishop

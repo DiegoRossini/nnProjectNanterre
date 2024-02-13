@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's pawn opening
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Queen's pawn game
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Now King's Indian defense.  Rather than challenge W's control of the middle of the board with 2. e6, B allows W control of the middle, for now."
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Now King's Indian defense.  Rather than challenge W's control of the middle of the board with 2. e6, B allows W control of the middle, for now."
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,W obliges
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,W obliges
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,W obliges
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Making a little room and trying to deploy some pieces.
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,Making a little room and trying to deploy some pieces.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,Making a little room and trying to deploy some pieces.
+11,Be2,f1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6,Making a little room and trying to deploy some pieces.
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7,"7. dxc5 does nothing, but 7. d5 keeps W's pawn structure intact in the middle of the board, and provides a bit of a block for B's queen side knight and bishop."
+13,d5,d4d5,rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7,"7. dxc5 does nothing, but 7. d5 keeps W's pawn structure intact in the middle of the board, and provides a bit of a block for B's queen side knight and bishop."
+14,Na6,b8a6,r1bq1rk1/pp2ppbp/n2p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 1 8,"Gameknot calls this an inaccuracy and prefers 7. e6, but I don't really see why this is worse at this point."
+15,O-O,e1g1,r1bq1rk1/pp2ppbp/n2p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 2 8,Putting pressure on B's knight and I expect dxe5.
+16,Rb8,a8b8,1rbq1rk1/pp2ppbp/n2p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 3 9,Putting pressure on B's knight and I expect dxe5.
+17,e5,e4e5,1rbq1rk1/pp2ppbp/n2p1np1/2pPP3/2P5/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 9,Putting pressure on B's knight and I expect dxe5.
+18,Nd7,f6d7,1rbq1rk1/pp1nppbp/n2p2p1/2pPP3/2P5/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 10,"Instead B moves Nd7, which GK again calls an inaccuracy, preferring dxe5.  Thie difference seems to be who ends up with control of the middle after a long series of moves."
+19,Bg5,c1g5,1rbq1rk1/pp1nppbp/n2p2p1/2pPP1B1/2P5/2N2N2/PP2BPPP/R2Q1RK1 b - - 2 10,"GK calls this a mistake, preferring 10. exd6.  This makes sense as W loses a pawn for no good reason at e5.  If W had moved 10. exd6 then B moves exd6 and W can move Nb5, threatening the unprotected pawn at d6."
+20,Nxe5,d7e5,1rbq1rk1/pp2ppbp/n2p2p1/2pPn1B1/2P5/2N2N2/PP2BPPP/R2Q1RK1 w - - 0 11,"Again, GK calls this a mistake because eventually, with the optimum series of moves for each player W ends up with an advantage pressuring the pawn at e7, which if B wants to defend then leaves the pawn at b7 vulnerable."
+21,Re1,f1e1,1rbq1rk1/pp2ppbp/n2p2p1/2pPn1B1/2P5/2N2N2/PP2BPPP/R2QR1K1 b - - 1 11,"Again, GK calls this a mistake because eventually, with the optimum series of moves for each player W ends up with an advantage pressuring the pawn at e7, which if B wants to defend then leaves the pawn at b7 vulnerable."
+22,Bg4,c8g4,1r1q1rk1/pp2ppbp/n2p2p1/2pPn1B1/2P3b1/2N2N2/PP2BPPP/R2QR1K1 w - - 2 12,"Again, GK calls this a mistake because eventually, with the optimum series of moves for each player W ends up with an advantage pressuring the pawn at e7, which if B wants to defend then leaves the pawn at b7 vulnerable."
+23,Nxe5,f3e5,1r1q1rk1/pp2ppbp/n2p2p1/2pPN1B1/2P3b1/2N5/PP2BPPP/R2QR1K1 b - - 0 12,"This move makes up for my lost pawn, I expect B to make the Queen trade."
+24,Bxe2,g4e2,1r1q1rk1/pp2ppbp/n2p2p1/2pPN1B1/2P5/2N5/PP2bPPP/R2QR1K1 w - - 0 13,"This move makes up for my lost pawn, I expect B to make the Queen trade."
+25,Nxf7,e5f7,1r1q1rk1/pp2pNbp/n2p2p1/2pP2B1/2P5/2N5/PP2bPPP/R2QR1K1 b - - 0 13,"This move makes up for my lost pawn, I expect B to make the Queen trade."
+26,Rxf7,f8f7,1r1q2k1/pp2prbp/n2p2p1/2pP2B1/2P5/2N5/PP2bPPP/R2QR1K1 w - - 0 14,Rxf7 slightly increases my score according the post-game analysis and Qxe2 slightly decreases it again - not sure why.
+27,Qxe2,d1e2,1r1q2k1/pp2prbp/n2p2p1/2pP2B1/2P5/2N5/PP2QPPP/R3R1K1 b - - 0 14,Rxf7 slightly increases my score according the post-game analysis and Qxe2 slightly decreases it again - not sure why.
+28,Bd4,g7d4,1r1q2k1/pp2pr1p/n2p2p1/2pP2B1/2Pb4/2N5/PP2QPPP/R3R1K1 w - - 1 15,"GK isn't a huge fan of Bd4 either, but it does create a bit of an obstacle for W later."
+29,Bxe7,g5e7,1r1q2k1/pp2Br1p/n2p2p1/2pP4/2Pb4/2N5/PP2QPPP/R3R1K1 b - - 0 15,"W must retreat here with 16. Bh4 to cover f2, which is suddenly becoming an important square."
+30,Qd7,d8d7,1r4k1/pp1qBr1p/n2p2p1/2pP4/2Pb4/2N5/PP2QPPP/R3R1K1 w - - 1 16,"W must retreat here with 16. Bh4 to cover f2, which is suddenly becoming an important square."
+31,Bh4,e7h4,1r4k1/pp1q1r1p/n2p2p1/2pP4/2Pb3B/2N5/PP2QPPP/R3R1K1 b - - 2 16,"W must retreat here with 16. Bh4 to cover f2, which is suddenly becoming an important square."
+32,Rbf8,b8f8,5rk1/pp1q1r1p/n2p2p1/2pP4/2Pb3B/2N5/PP2QPPP/R3R1K1 w - - 3 17,"B marshalling reinforcements, W is getting nervous about f2, but no need to panic yet."
+33,Ne4,c3e4,5rk1/pp1q1r1p/n2p2p1/2pP4/2PbN2B/8/PP2QPPP/R3R1K1 b - - 4 17,Ne4 helps calm W
+34,Nc7,a6c7,5rk1/ppnq1r1p/3p2p1/2pP4/2PbN2B/8/PP2QPPP/R3R1K1 w - - 5 18,"GK doesn't like 18. Red1.  This is because this could eventually leave the knight at e4 unprotected and break up W's king's defenses.  Post-game analysis prefers 18. Bg3, which threatens the pawn at d6 and keeps the initiative with W."
+35,Red1,e1d1,5rk1/ppnq1r1p/3p2p1/2pP4/2PbN2B/8/PP2QPPP/R2R2K1 b - - 6 18,"GK doesn't like 18. Red1.  This is because this could eventually leave the knight at e4 unprotected and break up W's king's defenses.  Post-game analysis prefers 18. Bg3, which threatens the pawn at d6 and keeps the initiative with W."
+36,Ne8,c7e8,4nrk1/pp1q1r1p/3p2p1/2pP4/2PbN2B/8/PP2QPPP/R2R2K1 w - - 7 19,"GK calls this an inaccuracy, presumably because b5 would have begun to wreck W's control of the middle of the board and eventually threaten the knight at e4."
+37,Rab1,a1b1,4nrk1/pp1q1r1p/3p2p1/2pP4/2PbN2B/8/PP2QPPP/1R1R2K1 b - - 8 19,"Post-game analysis calls 21. Ng5 a mistake because it eventaully leads to W's defenses being opened up whereas 21. Bg5 leads to B's king's pawns being extended and an advantage at b4, with the optimum turn of events per GK's post-game analysis"
+38,Ng7,e8g7,5rk1/pp1q1rnp/3p2p1/2pP4/2PbN2B/8/PP2QPPP/1R1R2K1 w - - 9 20,"Post-game analysis calls 21. Ng5 a mistake because it eventaully leads to W's defenses being opened up whereas 21. Bg5 leads to B's king's pawns being extended and an advantage at b4, with the optimum turn of events per GK's post-game analysis"
+39,b4,b2b4,5rk1/pp1q1rnp/3p2p1/2pP4/1PPbN2B/8/P3QPPP/1R1R2K1 b - - 0 20,"Post-game analysis calls 21. Ng5 a mistake because it eventaully leads to W's defenses being opened up whereas 21. Bg5 leads to B's king's pawns being extended and an advantage at b4, with the optimum turn of events per GK's post-game analysis"
+40,Nf5,g7f5,5rk1/pp1q1r1p/3p2p1/2pP1n2/1PPbN2B/8/P3QPPP/1R1R2K1 w - - 1 21,"Post-game analysis calls 21. Ng5 a mistake because it eventaully leads to W's defenses being opened up whereas 21. Bg5 leads to B's king's pawns being extended and an advantage at b4, with the optimum turn of events per GK's post-game analysis"
+41,Ng5,e4g5,5rk1/pp1q1r1p/3p2p1/2pP1nN1/1PPb3B/8/P3QPPP/1R1R2K1 b - - 2 21,"Post-game analysis calls 21. Ng5 a mistake because it eventaully leads to W's defenses being opened up whereas 21. Bg5 leads to B's king's pawns being extended and an advantage at b4, with the optimum turn of events per GK's post-game analysis"

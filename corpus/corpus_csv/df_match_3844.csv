@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,All standard enough.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,All standard enough.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,All standard enough.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,All standard enough.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,All standard enough.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,All standard enough.
+7,b4,b2b4,r1bqk1nr/pppp1ppp/2n5/2b1p3/1PB1P3/5N2/P1PP1PPP/RNBQK2R b KQkq - 0 4,"!?   The Evans Gambit.   Probably objectively not sound, but at the board, what a computer thinks is often irrelevant."
+8,Bxb4,c5b4,r1bqk1nr/pppp1ppp/2n5/4p3/1bB1P3/5N2/P1PP1PPP/RNBQK2R w KQkq - 0 5,"I think black is usually best served accepting the gambit; if the bishop goes to b6, it can end up shut in completely after a c3 and d4 push."
+9,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/4p3/1bB1P3/2P2N2/P2P1PPP/RNBQK2R b KQkq - 0 5,"However, now white gets in c3 with tempo."
+10,Ba5,b4a5,r1bqk1nr/pppp1ppp/2n5/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQK2R w KQkq - 1 6,"The point of the Evans Gambit.   White, for the sac of a pawn, stakes a large claim in the centre.   Black's DSB, meanwhile, isn't really in the game."
+11,d4,d2d4,r1bqk1nr/pppp1ppp/2n5/b3p3/2BPP3/2P2N2/P4PPP/RNBQK2R b KQkq - 0 6,"The point of the Evans Gambit.   White, for the sac of a pawn, stakes a large claim in the centre.   Black's DSB, meanwhile, isn't really in the game."
+12,exd4,e5d4,r1bqk1nr/pppp1ppp/2n5/b7/2BpP3/2P2N2/P4PPP/RNBQK2R w KQkq - 0 7,"I think this may be the main line.   f7 is under threat.   Black, however, could at some stage take on c3 with discovered check threats."
+13,Qb3,d1b3,r1bqk1nr/pppp1ppp/2n5/b7/2BpP3/1QP2N2/P4PPP/RNB1K2R b KQkq - 1 7,"I think this may be the main line.   f7 is under threat.   Black, however, could at some stage take on c3 with discovered check threats."
+14,d5,d7d5,r1bqk1nr/ppp2ppp/2n5/b2p4/2BpP3/1QP2N2/P4PPP/RNB1K2R w KQkq - 0 8,"?  7. … Qe7 or Qf6 is called for here, to defend f7.   d5 ideas aren’t uncommon in some gambit lines (like the Bertin Gambit in the King’s Gambit); the idea is to give back some of the material gained to develop quicker.   It doesn’t really work here though; it’s basically a free pawn, and with the knight on c6, it’s doubly dangerous for black."
+15,exd5,e4d5,r1bqk1nr/ppp2ppp/2n5/b2P4/2Bp4/1QP2N2/P4PPP/RNB1K2R b KQkq - 0 8,"!?   Probably better than BxP; the knight is going to get kicked to an awkward square, and the threats against f7 haven't gone away."
+16,Qe7+,d8e7,r1b1k1nr/ppp1qppp/2n5/b2P4/2Bp4/1QP2N2/P4PPP/RNB1K2R w KQkq - 1 9,"This looks natural – the king must move, forfeiting castling rights (9. Be2 is met with d3, winning the pinned piece).   In actual fact, it’s the start of quite a ride for black!"
+17,Kd1,e1d1,r1b1k1nr/ppp1qppp/2n5/b2P4/2Bp4/1QP2N2/P4PPP/RNBK3R b kq - 2 9,"There was a debate after the game as to the best square for the king here - safety on f1 followed by developing while hitting the queen with Ba3, Nd2 and Re1, or this move, allowing the immediate threat of Re1 in addition to the problem of the hanging knight.   After a minute’s thought, Fritz rates Kf1 0.17 better, but white has a clear advantage here either way (+3 or so)."
+18,Ne5,c6e5,r1b1k1nr/ppp1qppp/8/b2Pn3/2Bp4/1QP2N2/P4PPP/RNBK3R w kq - 3 10,"A blunder.   After 10. NxN, the white knight is immune from capture due to the Re1 pin.   Best here was 10. dxc, says Fritz."
+19,Nxe5,f3e5,r1b1k1nr/ppp1qppp/8/b2PN3/2Bp4/1QP5/P4PPP/RNBK3R b kq - 0 10,"Looks like it wins a piece, but doesn't because..."
+20,dxc3,d4c3,r1b1k1nr/ppp1qppp/8/b2PN3/2B5/1Qp5/P4PPP/RNBK3R w kq - 0 11,"Looks like it wins a piece, but doesn't because..."
+21,Qb5+,b3b5,r1b1k1nr/ppp1qppp/8/bQ1PN3/2B5/2p5/P4PPP/RNBK3R b kq - 1 11,"Looks like it wins a piece, but doesn't because..."
+22,Kd8,e8d8,r1bk2nr/ppp1qppp/8/bQ1PN3/2B5/2p5/P4PPP/RNBK3R w - - 2 12,"Now the queen can capture the knight, and Re1 doesn't work.   So instead..."
+23,d6,d5d6,r1bk2nr/ppp1qppp/3P4/bQ2N3/2B5/2p5/P4PPP/RNBK3R b - - 0 12,"! Protects the knight, opens up a line for the bishop onto the weak f7 square, threatens to take the bishop on a5 AND hits the queen.   What more can you ask of one move?"
+24,Bg4+,c8g4,r2k2nr/ppp1qppp/3P4/bQ2N3/2B3b1/2p5/P4PPP/RNBK3R w - - 1 13,A desperate spite check; anything to get some pieces developed.
+25,Kc2,d1c2,r2k2nr/ppp1qppp/3P4/bQ2N3/2B3b1/2p5/P1K2PPP/RNB4R b - - 2 13,"!   Again, the strongest.   Black’s checks are going nowhere, and the knight is in too fine an attacking position to consider wasting time capturing the worthless black bishop.   White is after black's king, and isn't about to be distracted."
+26,Bf5+,g4f5,r2k2nr/ppp1qppp/3P4/bQ2Nb2/2B5/2p5/P1K2PPP/RNB4R w - - 3 14,The king is quite safe here.
+27,Kb3,c2b3,r2k2nr/ppp1qppp/3P4/bQ2Nb2/2B5/1Kp5/P4PPP/RNB4R b - - 4 14,The king is quite safe here.
+28,a6,a7a6,r2k2nr/1pp1qppp/p2P4/bQ2Nb2/2B5/1Kp5/P4PPP/RNB4R w - - 0 15,"?? An unfortunate way to end a nice miniature, though black was lost anyway."
+29,dxe7+,d6e7,r2k2nr/1pp1Pppp/p7/bQ2Nb2/2B5/1Kp5/P4PPP/RNB4R b - - 0 15,"Black must get out of check, and white can save his own queen.   Black was lost anyway - if instead 14. ... Qe6 or Qh4, there follows 15. NxP+ Kc8   16. Qe8+ Qd8   17. QxQ#   If 14. ... QxP, Nxf7 is a nice family fork - queen, king and rook.   14. ... PxP is probably best, but white can play 15. Nxf7+, and both black bishops are going to fall, depending on where black moves his king."

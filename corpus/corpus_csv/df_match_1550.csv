@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Response.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,I played c6 to set up d5. d5 right away would have resulted in a slight material disadvantage.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,I played c6 to set up d5. d5 right away would have resulted in a slight material disadvantage.
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,I played c6 to set up d5. d5 right away would have resulted in a slight material disadvantage.
+6,c6,c7c6,rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,I played c6 to set up d5. d5 right away would have resulted in a slight material disadvantage.
+7,Nf3,g1f3,rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 1 4,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+8,d5,d7d5,rnbqkb1r/pp3ppp/2p2n2/3pp3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+9,exd5,e4d5,rnbqkb1r/pp3ppp/2p2n2/3Pp3/2B5/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+10,cxd5,c6d5,rnbqkb1r/pp3ppp/5n2/3pp3/2B5/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+11,Bb5+,c4b5,rnbqkb1r/pp3ppp/5n2/1B1pp3/8/3P1N2/PPP2PPP/RNBQK2R b KQkq - 1 6,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+12,Bd7,c8d7,rn1qkb1r/pp1b1ppp/5n2/1B1pp3/8/3P1N2/PPP2PPP/RNBQK2R w KQkq - 2 7,"Blocking with my B seemed to be the best move in my opinion. It allowed for development of some variety while leaving my Q and K in place. Also, it provided a direct threat if my opponent choose to move a different piece."
+13,Nc3,b1c3,rn1qkb1r/pp1b1ppp/5n2/1B1pp3/8/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 3 7,I wanted to pressure his N and his B would be exchanged regardless.
+14,Bb4,f8b4,rn1qk2r/pp1b1ppp/5n2/1B1pp3/1b6/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 4 8,I wanted to pressure his N and his B would be exchanged regardless.
+15,Bxd7+,b5d7,rn1qk2r/pp1B1ppp/5n2/3pp3/1b6/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 8,I should have captured with my N instead.
+16,Qxd7,d8d7,rn2k2r/pp1q1ppp/5n2/3pp3/1b6/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 9,I should have captured with my N instead.
+17,Nxe5,f3e5,rn2k2r/pp1q1ppp/5n2/3pN3/1b6/2NP4/PPP2PPP/R1BQK2R b KQkq - 0 9,"The N was now pinned to his K.  
+
+Looking at the computer analysis from the previous move, the computer said my move here should have been Qc7. I like having both N's pinned for the time being."
+18,Qe6,d7e6,rn2k2r/pp3ppp/4qn2/3pN3/1b6/2NP4/PPP2PPP/R1BQK2R w KQkq - 1 10,"The N was now pinned to his K.  
+
+Looking at the computer analysis from the previous move, the computer said my move here should have been Qc7. I like having both N's pinned for the time being."
+19,d4,d3d4,rn2k2r/pp3ppp/4qn2/3pN3/1b1P4/2N5/PPP2PPP/R1BQK2R b KQkq - 0 10,"I used the opportunity to tuck my K away into safety. Conversely, my opponents K was still in the center allowing his N's to remain pinned."
+20,O-O,e8g8,rn3rk1/pp3ppp/4qn2/3pN3/1b1P4/2N5/PPP2PPP/R1BQK2R w KQ - 1 11,"I used the opportunity to tuck my K away into safety. Conversely, my opponents K was still in the center allowing his N's to remain pinned."
+21,Bd2,c1d2,rn3rk1/pp3ppp/4qn2/3pN3/1b1P4/2N5/PPPB1PPP/R2QK2R b KQ - 2 11,Development of my N and threatening the d4 pawn.
+22,Nc6,b8c6,r4rk1/pp3ppp/2n1qn2/3pN3/1b1P4/2N5/PPPB1PPP/R2QK2R w KQ - 3 12,Development of my N and threatening the d4 pawn.
+23,Nb5,c3b5,r4rk1/pp3ppp/2n1qn2/1N1pN3/1b1P4/8/PPPB1PPP/R2QK2R b KQ - 4 12,The computer says my move here was to Nxe5. However that leaves me vulnerable to a very nasty fork with 13. Nc7. Despite the computer saying this resulted in more than a 3 pawn swing. I am inclined to say I disagree.
+24,Rad8,a8d8,3r1rk1/pp3ppp/2n1qn2/1N1pN3/1b1P4/8/PPPB1PPP/R2QK2R w KQ - 5 13,The computer says my move here was to Nxe5. However that leaves me vulnerable to a very nasty fork with 13. Nc7. Despite the computer saying this resulted in more than a 3 pawn swing. I am inclined to say I disagree.
+25,Bxb4,d2b4,3r1rk1/pp3ppp/2n1qn2/1N1pN3/1B1P4/8/PPP2PPP/R2QK2R b KQ - 0 13,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+26,Nxb4,c6b4,3r1rk1/pp3ppp/4qn2/1N1pN3/1n1P4/8/PPP2PPP/R2QK2R w KQ - 0 14,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+27,Nc7,b5c7,3r1rk1/ppN2ppp/4qn2/3pN3/1n1P4/8/PPP2PPP/R2QK2R b KQ - 1 14,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+28,Qe7,e6e7,3r1rk1/ppN1qppp/5n2/3pN3/1n1P4/8/PPP2PPP/R2QK2R w KQ - 2 15,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+29,Nb5,c7b5,3r1rk1/pp2qppp/5n2/1N1pN3/1n1P4/8/PPP2PPP/R2QK2R b KQ - 3 15,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+30,a6,a7a6,3r1rk1/1p2qppp/p4n2/1N1pN3/1n1P4/8/PPP2PPP/R2QK2R w KQ - 0 16,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+31,Nc3,b5c3,3r1rk1/1p2qppp/p4n2/3pN3/1n1P4/2N5/PPP2PPP/R2QK2R b KQ - 1 16,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+32,Ne4,f6e4,3r1rk1/1p2qppp/p7/3pN3/1n1Pn3/2N5/PPP2PPP/R2QK2R w KQ - 2 17,"I was ok with the positioning of my N. I did not want to move my N to d7. The computer keeps stating my opponents best move was to castle, however while this may be true. I did not see my opponent castling during the match. He appeared to be neglecting that aspect of play."
+33,Nxe4,c3e4,3r1rk1/1p2qppp/p7/3pN3/1n1PN3/8/PPP2PPP/R2QK2R b KQ - 0 17,"I was ok with the trade off in this situation. Additionally, I still had my eyes on his Q."
+34,dxe4,d5e4,3r1rk1/1p2qppp/p7/4N3/1n1Pp3/8/PPP2PPP/R2QK2R w KQ - 0 18,"I was ok with the trade off in this situation. Additionally, I still had my eyes on his Q."
+35,c3,c2c3,3r1rk1/1p2qppp/p7/4N3/1n1Pp3/2P5/PP3PPP/R2QK2R b KQ - 0 18,"I was ok with the trade off in this situation. Additionally, I still had my eyes on his Q."
+36,f6,f7f6,3r1rk1/1p2q1pp/p4p2/4N3/1n1Pp3/2P5/PP3PPP/R2QK2R w KQ - 0 19,"I was ok with the trade off in this situation. Additionally, I still had my eyes on his Q."
+37,Nc4,e5c4,3r1rk1/1p2q1pp/p4p2/8/1nNPp3/2P5/PP3PPP/R2QK2R b KQ - 1 19,"Wisely, my opponent did not want to exchange N's."
+38,Nd3+,b4d3,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2Pn4/PP3PPP/R2QK2R w KQ - 2 20,"While I did not see my opponent castling, I wanted to remove the option completely. I also had my eyes on another play to reduce my opponents material."
+39,Kd2,e1d2,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2Pn4/PP1K1PPP/R2Q3R b - - 3 20,My opponent facilitated my plans. I would be able to claim the advantage and maintain from this point forward.
+40,Nxf2,d3f2,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2P5/PP1K1nPP/R2Q3R w - - 0 21,I was set up fairly well from this point forward.
+41,Qe2,d1e2,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2P5/PP1KQnPP/R6R b - - 1 21,I did not see anything else of value that I could play. This move would provide extra firepower and enable me to launch my Q into battle.
+42,Nxh1,f2h1,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2P5/PP1KQ1PP/R6n w - - 0 22,I did not see anything else of value that I could play. This move would provide extra firepower and enable me to launch my Q into battle.
+43,Rxh1,a1h1,3r1rk1/1p2q1pp/p4p2/8/2NPp3/2P5/PP1KQ1PP/7R b - - 0 22,I did not see anything else of value that I could play. This move would provide extra firepower and enable me to launch my Q into battle.
+44,Rfe8,f8e8,3rr1k1/1p2q1pp/p4p2/8/2NPp3/2P5/PP1KQ1PP/7R w - - 1 23,I did not see anything else of value that I could play. This move would provide extra firepower and enable me to launch my Q into battle.
+45,Nb6,c4b6,3rr1k1/1p2q1pp/pN3p2/8/3Pp3/2P5/PP1KQ1PP/7R b - - 2 23,Awkward move in my opinion. It really did nothing for my opponent.
+46,e3+,e4e3,3rr1k1/1p2q1pp/pN3p2/8/3P4/2P1p3/PP1KQ1PP/7R w - - 0 24,A simple check.
+47,Kd3,d2d3,3rr1k1/1p2q1pp/pN3p2/8/3P4/2PKp3/PP2Q1PP/7R b - - 1 24,My opponent played his K right into the heart of my maneuver.

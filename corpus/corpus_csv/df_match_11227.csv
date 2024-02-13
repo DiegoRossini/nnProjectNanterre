@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,The King's Indian Attack... not the 1. e4 or the 1. d4 I'm familiar with.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,Offering white 2. e4 if he wants it.
+3,c4,c2c4,r1bqkbnr/pppppppp/2n5/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,Staking a claim to the center.
+4,e5,e7e5,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Staking a claim to the center.
+5,b3,b2b3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3,Not developing the kingside... this move seems very commital to fianchettoing the bishop to me.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2P5/1P3N2/P2PPPPP/RNBQKB1R w KQkq - 1 4,"So, I reason, might as well develop my kingside and attack towards his."
+7,e3,e2e3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2P5/1P2PN2/P2P1PPP/RNBQKB1R b KQkq - 0 4,I expected Bb2.
+8,e4,e5e4,r1bqk1nr/pppp1ppp/2n5/2b5/2P1p3/1P2PN2/P2P1PPP/RNBQKB1R w KQkq - 0 5,Threatening to win a pawn with 5. Nd4 Nxd4 6. exd4 Bxd4.
+9,d4,d2d4,r1bqk1nr/pppp1ppp/2n5/2b5/2PPp3/1P2PN2/P4PPP/RNBQKB1R b KQkq d3 0 5,The only way to keep material equality without retreating the knight to g1.
+10,Bb4+,c5b4,r1bqk1nr/pppp1ppp/2n5/8/1bPPp3/1P2PN2/P4PPP/RNBQKB1R w KQkq - 1 6,"The knight is forced to a bad square.  Black is ahead in development, but white controls more space on the queenside."
+11,Nfd2,f3d2,r1bqk1nr/pppp1ppp/2n5/8/1bPPp3/1P2P3/P2N1PPP/RNBQKB1R b KQkq - 2 6,"The knight is forced to a bad square.  Black is ahead in development, but white controls more space on the queenside."
+12,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/8/1bPPp3/1P2P3/P2N1PPP/RNBQKB1R w KQkq - 3 7,"Furthering development, but I overlooked..."
+13,a3,a2a3,r1bqk2r/pppp1ppp/2n2n2/8/1bPPp3/PP2P3/3N1PPP/RNBQKB1R b KQkq - 0 7,"!  This good move forces black to retreat his dark squared bishop, and breaks the pin on the knight.  Now, black must take care not to lose his distant e4 pawn."
+14,Be7,b4e7,r1bqk2r/ppppbppp/2n2n2/8/2PPp3/PP2P3/3N1PPP/RNBQKB1R w KQkq - 1 8,"?!  Seems like the natural way to defend the e4 pawn, but black will lose a pawn anyway."
+15,Nc3,b1c3,r1bqk2r/ppppbppp/2n2n2/8/2PPp3/PPN1P3/3N1PPP/R1BQKB1R b KQkq - 2 8,"?!  Seems like the natural way to defend the e4 pawn, but black will lose a pawn anyway."
+16,d5,d7d5,r1bqk2r/ppp1bppp/2n2n2/3p4/2PPp3/PPN1P3/3N1PPP/R1BQKB1R w KQkq - 0 9,"?!  Seems like the natural way to defend the e4 pawn, but black will lose a pawn anyway."
+17,cxd5,c4d5,r1bqk2r/ppp1bppp/2n2n2/3P4/3Pp3/PPN1P3/3N1PPP/R1BQKB1R b KQkq - 0 9,"So, down a pawn, black must take advantage of his edge in development and the fact that his pieces are more mobile."
+18,Nxd5,f6d5,r1bqk2r/ppp1bppp/2n5/3n4/3Pp3/PPN1P3/3N1PPP/R1BQKB1R w KQkq - 0 10,"So, down a pawn, black must take advantage of his edge in development and the fact that his pieces are more mobile."
+19,Ncxe4,c3e4,r1bqk2r/ppp1bppp/2n5/3n4/3PN3/PP2P3/3N1PPP/R1BQKB1R b KQkq - 0 10,"So, down a pawn, black must take advantage of his edge in development and the fact that his pieces are more mobile."
+20,f5,f7f5,r1bqk2r/ppp1b1pp/2n5/3n1p2/3PN3/PP2P3/3N1PPP/R1BQKB1R w KQkq - 0 11,"...not that this is necessarily the best way to do that, but I'm thinking of attacking on the kingside.  So, since after castling, black will have a rook on f8, it makes sense to throw open some room for the rook."
+21,Nc5,e4c5,r1bqk2r/ppp1b1pp/2n5/2Nn1p2/3P4/PP2P3/3N1PPP/R1BQKB1R b KQkq - 1 11,"Ng3 may also be worth considering here, for defensive purposes, and also since after b6, the knight will be booted out of c5."
+22,O-O,e8g8,r1bq1rk1/ppp1b1pp/2n5/2Nn1p2/3P4/PP2P3/3N1PPP/R1BQKB1R w KQ - 2 12,Nasty pin on the black knight.
+23,Bc4,f1c4,r1bq1rk1/ppp1b1pp/2n5/2Nn1p2/2BP4/PP2P3/3N1PPP/R1BQK2R b KQ - 3 12,Nasty pin on the black knight.
+24,Kh8,g8h8,r1bq1r1k/ppp1b1pp/2n5/2Nn1p2/2BP4/PP2P3/3N1PPP/R1BQK2R w KQ - 4 13,"I have to break it, otherwise the threat of g4 followed by e4 wins the knight."
+25,O-O,e1g1,r1bq1r1k/ppp1b1pp/2n5/2Nn1p2/2BP4/PP2P3/3N1PPP/R1BQ1RK1 b - - 5 13,"?!  This is definitely what they call ""castling into it"".  White may be safer in the center."
+26,b6,b7b6,r1bq1r1k/p1p1b1pp/1pn5/2Nn1p2/2BP4/PP2P3/3N1PPP/R1BQ1RK1 w - - 0 14,<boot>
+27,Na4,c5a4,r1bq1r1k/p1p1b1pp/1pn5/3n1p2/N1BP4/PP2P3/3N1PPP/R1BQ1RK1 b - - 1 14,Building up pressure on d4.
+28,Bf6,e7f6,r1bq1r1k/p1p3pp/1pn2b2/3n1p2/N1BP4/PP2P3/3N1PPP/R1BQ1RK1 w - - 2 15,Building up pressure on d4.

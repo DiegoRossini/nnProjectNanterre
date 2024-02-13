@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Main line philidor defense, not one of black's notoriously best options."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Main line philidor defense, not one of black's notoriously best options."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Main line philidor defense, not one of black's notoriously best options."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Main line philidor defense, not one of black's notoriously best options."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Main line philidor defense, not one of black's notoriously best options."
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Veering from the norm
+7,Bb5,f1b5,r1bqkbnr/ppp2ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 4,threatening d5
+8,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 3 5,"Probably better is exd4, or Nf6, as Nxd4 this gives up control of the center."
+9,Nc3,b1c3,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 4 5,"Probably better is exd4, or Nf6, as Nxd4 this gives up control of the center."
+10,Nxd4,c6d4,r2qkbnr/pppb1ppp/3p4/1B2p3/3nP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,"Probably better is exd4, or Nf6, as Nxd4 this gives up control of the center."
+11,Bxd7+,b5d7,r2qkbnr/pppB1ppp/3p4/4p3/3nP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 6,Blundering pawn and position
+12,Qxd7,d8d7,r3kbnr/pppq1ppp/3p4/4p3/3nP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 7,Blundering pawn and position
+13,Nxd4,f3d4,r3kbnr/pppq1ppp/3p4/4p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 7,Blundering pawn and position
+14,exd4,e5d4,r3kbnr/pppq1ppp/3p4/8/3pP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,Blundering pawn and position
+15,Qxd4,d1d4,r3kbnr/pppq1ppp/3p4/8/3QP3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 8,Blundering pawn and position
+16,O-O-O,e8c8,2kr1bnr/pppq1ppp/3p4/8/3QP3/2N5/PPP2PPP/R1B1K2R w KQ - 1 9,Blundering pawn and position
+17,Qxa7,d4a7,2kr1bnr/Qppq1ppp/3p4/8/4P3/2N5/PPP2PPP/R1B1K2R b KQ - 0 9,"Threatening Bb6, winning at least an exchange."
+18,c6,c7c6,2kr1bnr/Qp1q1ppp/2pp4/8/4P3/2N5/PPP2PPP/R1B1K2R w KQ - 0 10,"Threatening Bb6, winning at least an exchange."
+19,Be3,c1e3,2kr1bnr/Qp1q1ppp/2pp4/8/4P3/2N1B3/PPP2PPP/R3K2R b KQ - 1 10,"Threatening Bb6, winning at least an exchange."
+20,b6,b7b6,2kr1bnr/Q2q1ppp/1ppp4/8/4P3/2N1B3/PPP2PPP/R3K2R w KQ - 0 11,The attack is now crushing
+21,Qa8+,a7a8,Q1kr1bnr/3q1ppp/1ppp4/8/4P3/2N1B3/PPP2PPP/R3K2R b KQ - 1 11,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+22,Kc7,c8c7,Q2r1bnr/2kq1ppp/1ppp4/8/4P3/2N1B3/PPP2PPP/R3K2R w KQ - 2 12,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+23,Bxb6+,e3b6,Q2r1bnr/2kq1ppp/1Bpp4/8/4P3/2N5/PPP2PPP/R3K2R b KQ - 0 12,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+24,Kxb6,c7b6,Q2r1bnr/3q1ppp/1kpp4/8/4P3/2N5/PPP2PPP/R3K2R w KQ - 0 13,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+25,Na4+,c3a4,Q2r1bnr/3q1ppp/1kpp4/8/N3P3/8/PPP2PPP/R3K2R b KQ - 1 13,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+26,Kc7,b6c7,Q2r1bnr/2kq1ppp/2pp4/8/N3P3/8/PPP2PPP/R3K2R w KQ - 2 14,"For laughs, if Kb5: 14. c4+ Kb4 15. a3+ Kxc4 16. Qa5! mates."
+27,Qa7+,a8a7,3r1bnr/Q1kq1ppp/2pp4/8/N3P3/8/PPP2PPP/R3K2R b KQ - 3 14,
+28,Kc8,c7c8,2kr1bnr/Q2q1ppp/2pp4/8/N3P3/8/PPP2PPP/R3K2R w KQ - 4 15,
+29,Nb6#,a4b6,2kr1bnr/Q2q1ppp/1Npp4/8/4P3/8/PPP2PPP/R3K2R b KQ - 5 15,

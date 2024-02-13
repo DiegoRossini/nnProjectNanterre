@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"2 ... e5, the rarely seen Albin counter gambit."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"2 ... e5, the rarely seen Albin counter gambit."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"2 ... e5, the rarely seen Albin counter gambit."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"2 ... e5, the rarely seen Albin counter gambit."
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,Black gave up a pawn for rapid development.
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Black gave up a pawn for rapid development.
+7,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 4,Black gave up a pawn for rapid development.
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 5,Black gave up a pawn for rapid development.
+9,Nbd2,b1d2,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 5,Black gave up a pawn for rapid development.
+10,f6,f7f6,r1bqkbnr/ppp3pp/2n2p2/4P3/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq - 0 6,Black gave up a pawn for rapid development.
+11,exf6,e5f6,r1bqkbnr/ppp3pp/2n2P2/8/2Pp4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 0 6,Black gave up a pawn for rapid development.
+12,Qxf6,d8f6,r1b1kbnr/ppp3pp/2n2q2/8/2Pp4/5N2/PP1NPPPP/R1BQKB1R w KQkq - 0 7,Black gave up a pawn for rapid development.
+13,g3,g2g3,r1b1kbnr/ppp3pp/2n2q2/8/2Pp4/5NP1/PP1NPP1P/R1BQKB1R b KQkq - 0 7,Black gave up a pawn for rapid development.
+14,Bg4,c8g4,r3kbnr/ppp3pp/2n2q2/8/2Pp2b1/5NP1/PP1NPP1P/R1BQKB1R w KQkq - 1 8,Black gave up a pawn for rapid development.
+15,Bg2,f1g2,r3kbnr/ppp3pp/2n2q2/8/2Pp2b1/5NP1/PP1NPPBP/R1BQK2R b KQkq - 2 8,Black gave up a pawn for rapid development.
+16,O-O-O,e8c8,2kr1bnr/ppp3pp/2n2q2/8/2Pp2b1/5NP1/PP1NPPBP/R1BQK2R w KQ - 3 9,Black gave up a pawn for rapid development.
+17,O-O,e1g1,2kr1bnr/ppp3pp/2n2q2/8/2Pp2b1/5NP1/PP1NPPBP/R1BQ1RK1 b - - 4 9,A good alternative is 10 a3 to enforce b4.
+18,Nge7,g8e7,2kr1b1r/ppp1n1pp/2n2q2/8/2Pp2b1/5NP1/PP1NPPBP/R1BQ1RK1 w - - 5 10,A good alternative is 10 a3 to enforce b4.
+19,Qb3,d1b3,2kr1b1r/ppp1n1pp/2n2q2/8/2Pp2b1/1Q3NP1/PP1NPPBP/R1B2RK1 b - - 6 10,A good alternative is 10 a3 to enforce b4.
+20,Ng6,e7g6,2kr1b1r/ppp3pp/2n2qn1/8/2Pp2b1/1Q3NP1/PP1NPPBP/R1B2RK1 w - - 7 11,12 a5? Pitching a pawn to open lines. Better is 12 h3.
+21,a4,a2a4,2kr1b1r/ppp3pp/2n2qn1/8/P1Pp2b1/1Q3NP1/1P1NPPBP/R1B2RK1 b - - 0 11,12 a5? Pitching a pawn to open lines. Better is 12 h3.
+22,Bb4,f8b4,2kr3r/ppp3pp/2n2qn1/8/PbPp2b1/1Q3NP1/1P1NPPBP/R1B2RK1 w - - 1 12,12 a5? Pitching a pawn to open lines. Better is 12 h3.
+23,a5,a4a5,2kr3r/ppp3pp/2n2qn1/P7/1bPp2b1/1Q3NP1/1P1NPPBP/R1B2RK1 b - - 0 12,12 a5? Pitching a pawn to open lines. Better is 12 h3.
+24,Bxa5,b4a5,2kr3r/ppp3pp/2n2qn1/b7/2Pp2b1/1Q3NP1/1P1NPPBP/R1B2RK1 w - - 0 13,Stronger is 17 Nxb7!
+25,Qa4,b3a4,2kr3r/ppp3pp/2n2qn1/b7/Q1Pp2b1/5NP1/1P1NPPBP/R1B2RK1 b - - 1 13,Stronger is 17 Nxb7!
+26,Rhe8,h8e8,2krr3/ppp3pp/2n2qn1/b7/Q1Pp2b1/5NP1/1P1NPPBP/R1B2RK1 w - - 2 14,Stronger is 17 Nxb7!
+27,Nb3,d2b3,2krr3/ppp3pp/2n2qn1/b7/Q1Pp2b1/1N3NP1/1P2PPBP/R1B2RK1 b - - 3 14,Stronger is 17 Nxb7!
+28,Rxe2,e8e2,2kr4/ppp3pp/2n2qn1/b7/Q1Pp2b1/1N3NP1/1P2rPBP/R1B2RK1 w - - 0 15,Stronger is 17 Nxb7!
+29,Nxa5,b3a5,2kr4/ppp3pp/2n2qn1/N7/Q1Pp2b1/5NP1/1P2rPBP/R1B2RK1 b - - 0 15,Stronger is 17 Nxb7!
+30,Bxf3,g4f3,2kr4/ppp3pp/2n2qn1/N7/Q1Pp4/5bP1/1P2rPBP/R1B2RK1 w - - 0 16,Stronger is 17 Nxb7!
+31,Bh3+,g2h3,2kr4/ppp3pp/2n2qn1/N7/Q1Pp4/5bPB/1P2rP1P/R1B2RK1 b - - 1 16,Stronger is 17 Nxb7!
+32,Rd7,d8d7,2k5/pppr2pp/2n2qn1/N7/Q1Pp4/5bPB/1P2rP1P/R1B2RK1 w - - 2 17,Stronger is 17 Nxb7!
+33,Qb5,a4b5,2k5/pppr2pp/2n2qn1/NQ6/2Pp4/5bPB/1P2rP1P/R1B2RK1 b - - 3 17,Stronger is 17 Nxb7!
+34,Nce5,c6e5,2k5/pppr2pp/5qn1/NQ2n3/2Pp4/5bPB/1P2rP1P/R1B2RK1 w - - 4 18,Also playable is 18 Bg5!
+35,Bxd7+,h3d7,2k5/pppB2pp/5qn1/NQ2n3/2Pp4/5bP1/1P2rP1P/R1B2RK1 b - - 0 18,Also playable is 18 Bg5!
+36,Nxd7,e5d7,2k5/pppn2pp/5qn1/NQ6/2Pp4/5bP1/1P2rP1P/R1B2RK1 w - - 0 19,"If 23 Qxd4, 23 ... Qh3 wins outright."
+37,Ra3,a1a3,2k5/pppn2pp/5qn1/NQ6/2Pp4/R4bP1/1P2rP1P/2B2RK1 b - - 1 19,"If 23 Qxd4, 23 ... Qh3 wins outright."
+38,Re5,e2e5,2k5/pppn2pp/5qn1/NQ2r3/2Pp4/R4bP1/1P3P1P/2B2RK1 w - - 2 20,"If 23 Qxd4, 23 ... Qh3 wins outright."
+39,Qb3,b5b3,2k5/pppn2pp/5qn1/N3r3/2Pp4/RQ3bP1/1P3P1P/2B2RK1 b - - 3 20,"If 23 Qxd4, 23 ... Qh3 wins outright."
+40,Nh4,g6h4,2k5/pppn2pp/5q2/N3r3/2Pp3n/RQ3bP1/1P3P1P/2B2RK1 w - - 4 21,"If 23 Qxd4, 23 ... Qh3 wins outright."
+41,Bf4,c1f4,2k5/pppn2pp/5q2/N3r3/2Pp1B1n/RQ3bP1/1P3P1P/5RK1 b - - 5 21,"If 23 Qxd4, 23 ... Qh3 wins outright."
+42,Qg6,f6g6,2k5/pppn2pp/6q1/N3r3/2Pp1B1n/RQ3bP1/1P3P1P/5RK1 w - - 6 22,"If 23 Qxd4, 23 ... Qh3 wins outright."
+43,Bxe5,f4e5,2k5/pppn2pp/6q1/N3B3/2Pp3n/RQ3bP1/1P3P1P/5RK1 b - - 0 22,"If 23 Qxd4, 23 ... Qh3 wins outright."
+44,Nxe5,d7e5,2k5/ppp3pp/6q1/N3n3/2Pp3n/RQ3bP1/1P3P1P/5RK1 w - - 0 23,"If 23 Qxd4, 23 ... Qh3 wins outright."
+45,Qb5,b3b5,2k5/ppp3pp/6q1/NQ2n3/2Pp3n/R4bP1/1P3P1P/5RK1 b - - 1 23,"If 23 Qxd4, 23 ... Qh3 wins outright."
+46,Qh5,g6h5,2k5/ppp3pp/8/NQ2n2q/2Pp3n/R4bP1/1P3P1P/5RK1 w - - 2 24,"If 23 Qxd4, 23 ... Qh3 wins outright."
+47,Qc5,b5c5,2k5/ppp3pp/8/N1Q1n2q/2Pp3n/R4bP1/1P3P1P/5RK1 b - - 3 24,"If 23 Qxd4, 23 ... Qh3 wins outright."
+48,Nhg6,h4g6,2k5/ppp3pp/6n1/N1Q1n2q/2Pp4/R4bP1/1P3P1P/5RK1 w - - 4 25,"If 23 Qxd4, 23 ... Qh3 wins outright."
+49,Qb5,c5b5,2k5/ppp3pp/6n1/NQ2n2q/2Pp4/R4bP1/1P3P1P/5RK1 b - - 5 25,"If 23 Qxd4, 23 ... Qh3 wins outright."
+50,Nf4,g6f4,2k5/ppp3pp/8/NQ2n2q/2Pp1n2/R4bP1/1P3P1P/5RK1 w - - 6 26,The last hope was 26 Rfa1.
+51,Re1,f1e1,2k5/ppp3pp/8/NQ2n2q/2Pp1n2/R4bP1/1P3P1P/4R1K1 b - - 7 26,The last hope was 26 Rfa1.
+52,Bd5,f3d5,2k5/ppp3pp/8/NQ1bn2q/2Pp1n2/R5P1/1P3P1P/4R1K1 w - - 8 27,26 ... Bd5??? Why did black do this? Moritz must have missed the forced mate 26 ... Qxh2+ 27 Kxh2 Ng4+ 28 Kg1 Nh3+ 29 Kf1 Nh2# -- the killer knight moves.
+53,cxd5,c4d5,2k5/ppp3pp/8/NQ1Pn2q/3p1n2/R5P1/1P3P1P/4R1K1 b - - 0 27,"Because his attack ran out of steam, black resigned."
+54,Nh3+,f4h3,2k5/ppp3pp/8/NQ1Pn2q/3p4/R5Pn/1P3P1P/4R1K1 w - - 1 28,"Because his attack ran out of steam, black resigned."

@@ -1,0 +1,90 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,If 9. ... Qxd4 10. Bb5 !
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,If 9. ... Qxd4 10. Bb5 !
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,If 9. ... Qxd4 10. Bb5 !
+4,b6,b7b6,rnbqkbnr/p1p1pppp/1p6/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,If 9. ... Qxd4 10. Bb5 !
+5,cxd5,c4d5,rnbqkbnr/p1p1pppp/1p6/3P4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,If 9. ... Qxd4 10. Bb5 !
+6,Qxd5,d8d5,rnb1kbnr/p1p1pppp/1p6/3q4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,If 9. ... Qxd4 10. Bb5 !
+7,Nc3,b1c3,rnb1kbnr/p1p1pppp/1p6/3q4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,If 9. ... Qxd4 10. Bb5 !
+8,Qd8,d5d8,rnbqkbnr/p1p1pppp/1p6/8/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 5,If 9. ... Qxd4 10. Bb5 !
+9,e4,e2e4,rnbqkbnr/p1p1pppp/1p6/8/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,If 9. ... Qxd4 10. Bb5 !
+10,e6,e7e6,rnbqkbnr/p1p2ppp/1p2p3/8/3PP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6,If 9. ... Qxd4 10. Bb5 !
+11,a3,a2a3,rnbqkbnr/p1p2ppp/1p2p3/8/3PP3/P1N5/1P3PPP/R1BQKBNR b KQkq - 0 6,If 9. ... Qxd4 10. Bb5 !
+12,Bb7,c8b7,rn1qkbnr/pbp2ppp/1p2p3/8/3PP3/P1N5/1P3PPP/R1BQKBNR w KQkq - 1 7,If 9. ... Qxd4 10. Bb5 !
+13,Bd3,f1d3,rn1qkbnr/pbp2ppp/1p2p3/8/3PP3/P1NB4/1P3PPP/R1BQK1NR b KQkq - 2 7,If 9. ... Qxd4 10. Bb5 !
+14,c5,c7c5,rn1qkbnr/pb3ppp/1p2p3/2p5/3PP3/P1NB4/1P3PPP/R1BQK1NR w KQkq - 0 8,If 9. ... Qxd4 10. Bb5 !
+15,Nf3,g1f3,rn1qkbnr/pb3ppp/1p2p3/2p5/3PP3/P1NB1N2/1P3PPP/R1BQK2R b KQkq - 1 8,If 9. ... Qxd4 10. Bb5 !
+16,cxd4,c5d4,rn1qkbnr/pb3ppp/1p2p3/8/3pP3/P1NB1N2/1P3PPP/R1BQK2R w KQkq - 0 9,If 9. ... Qxd4 10. Bb5 !
+17,Nxd4,f3d4,rn1qkbnr/pb3ppp/1p2p3/8/3NP3/P1NB4/1P3PPP/R1BQK2R b KQkq - 0 9,If 9. ... Qxd4 10. Bb5 !
+18,Bc5,f8c5,rn1qk1nr/pb3ppp/1p2p3/2b5/3NP3/P1NB4/1P3PPP/R1BQK2R w KQkq - 1 10,This move only strengthened my pawn structure.
+19,Be3,c1e3,rn1qk1nr/pb3ppp/1p2p3/2b5/3NP3/P1NBB3/1P3PPP/R2QK2R b KQkq - 2 10,This move only strengthened my pawn structure.
+20,Nf6,g8f6,rn1qk2r/pb3ppp/1p2pn2/2b5/3NP3/P1NBB3/1P3PPP/R2QK2R w KQkq - 3 11,This move only strengthened my pawn structure.
+21,O-O,e1g1,rn1qk2r/pb3ppp/1p2pn2/2b5/3NP3/P1NBB3/1P3PPP/R2Q1RK1 b kq - 4 11,This move only strengthened my pawn structure.
+22,O-O,e8g8,rn1q1rk1/pb3ppp/1p2pn2/2b5/3NP3/P1NBB3/1P3PPP/R2Q1RK1 w - - 5 12,This move only strengthened my pawn structure.
+23,e5,e4e5,rn1q1rk1/pb3ppp/1p2pn2/2b1P3/3N4/P1NBB3/1P3PPP/R2Q1RK1 b - - 0 12,This move only strengthened my pawn structure.
+24,Nd5,f6d5,rn1q1rk1/pb3ppp/1p2p3/2bnP3/3N4/P1NBB3/1P3PPP/R2Q1RK1 w - - 1 13,This move only strengthened my pawn structure.
+25,Nxd5,c3d5,rn1q1rk1/pb3ppp/1p2p3/2bNP3/3N4/P2BB3/1P3PPP/R2Q1RK1 b - - 0 13,This move only strengthened my pawn structure.
+26,Qxd5,d8d5,rn3rk1/pb3ppp/1p2p3/2bqP3/3N4/P2BB3/1P3PPP/R2Q1RK1 w - - 0 14,This move only strengthened my pawn structure.
+27,Qf3,d1f3,rn3rk1/pb3ppp/1p2p3/2bqP3/3N4/P2BBQ2/1P3PPP/R4RK1 b - - 1 14,This move only strengthened my pawn structure.
+28,Qxf3,d5f3,rn3rk1/pb3ppp/1p2p3/2b1P3/3N4/P2BBq2/1P3PPP/R4RK1 w - - 0 15,This move only strengthened my pawn structure.
+29,Nxf3,d4f3,rn3rk1/pb3ppp/1p2p3/2b1P3/8/P2BBN2/1P3PPP/R4RK1 b - - 0 15,This move only strengthened my pawn structure.
+30,Bxf3,b7f3,rn3rk1/p4ppp/1p2p3/2b1P3/8/P2BBb2/1P3PPP/R4RK1 w - - 0 16,This move only strengthened my pawn structure.
+31,gxf3,g2f3,rn3rk1/p4ppp/1p2p3/2b1P3/8/P2BBP2/1P3P1P/R4RK1 b - - 0 16,This move only strengthened my pawn structure.
+32,Nd7,b8d7,r4rk1/p2n1ppp/1p2p3/2b1P3/8/P2BBP2/1P3P1P/R4RK1 w - - 1 17,This move only strengthened my pawn structure.
+33,f4,f3f4,r4rk1/p2n1ppp/1p2p3/2b1P3/5P2/P2BB3/1P3P1P/R4RK1 b - - 0 17,This move only strengthened my pawn structure.
+34,Rad8,a8d8,3r1rk1/p2n1ppp/1p2p3/2b1P3/5P2/P2BB3/1P3P1P/R4RK1 w - - 1 18,This move only strengthened my pawn structure.
+35,Rfd1,f1d1,3r1rk1/p2n1ppp/1p2p3/2b1P3/5P2/P2BB3/1P3P1P/R2R2K1 b - - 2 18,This move only strengthened my pawn structure.
+36,Bxe3,c5e3,3r1rk1/p2n1ppp/1p2p3/4P3/5P2/P2Bb3/1P3P1P/R2R2K1 w - - 0 19,This move only strengthened my pawn structure.
+37,fxe3,f2e3,3r1rk1/p2n1ppp/1p2p3/4P3/5P2/P2BP3/1P5P/R2R2K1 b - - 0 19,My f-pawn is unstoppable now. The black knight is useless.
+38,Nc5,d7c5,3r1rk1/p4ppp/1p2p3/2n1P3/5P2/P2BP3/1P5P/R2R2K1 w - - 1 20,My f-pawn is unstoppable now. The black knight is useless.
+39,Bc2,d3c2,3r1rk1/p4ppp/1p2p3/2n1P3/5P2/P3P3/1PB4P/R2R2K1 b - - 2 20,My f-pawn is unstoppable now. The black knight is useless.
+40,Rxd1+,d8d1,5rk1/p4ppp/1p2p3/2n1P3/5P2/P3P3/1PB4P/R2r2K1 w - - 0 21,My f-pawn is unstoppable now. The black knight is useless.
+41,Rxd1,a1d1,5rk1/p4ppp/1p2p3/2n1P3/5P2/P3P3/1PB4P/3R2K1 b - - 0 21,My f-pawn is unstoppable now. The black knight is useless.
+42,f6,f7f6,5rk1/p5pp/1p2pp2/2n1P3/5P2/P3P3/1PB4P/3R2K1 w - - 0 22,My f-pawn is unstoppable now. The black knight is useless.
+43,exf6,e5f6,5rk1/p5pp/1p2pP2/2n5/5P2/P3P3/1PB4P/3R2K1 b - - 0 22,My f-pawn is unstoppable now. The black knight is useless.
+44,Rxf6,f8f6,6k1/p5pp/1p2pr2/2n5/5P2/P3P3/1PB4P/3R2K1 w - - 0 23,My f-pawn is unstoppable now. The black knight is useless.
+45,b4,b2b4,6k1/p5pp/1p2pr2/2n5/1P3P2/P3P3/2B4P/3R2K1 b - - 0 23,My f-pawn is unstoppable now. The black knight is useless.
+46,Nb7,c5b7,6k1/pn4pp/1p2pr2/8/1P3P2/P3P3/2B4P/3R2K1 w - - 1 24,My f-pawn is unstoppable now. The black knight is useless.
+47,Rd7,d1d7,6k1/pn1R2pp/1p2pr2/8/1P3P2/P3P3/2B4P/6K1 b - - 2 24,My f-pawn is unstoppable now. The black knight is useless.
+48,Rf7,f6f7,6k1/pn1R1rpp/1p2p3/8/1P3P2/P3P3/2B4P/6K1 w - - 3 25,My f-pawn is unstoppable now. The black knight is useless.
+49,Rxf7,d7f7,6k1/pn3Rpp/1p2p3/8/1P3P2/P3P3/2B4P/6K1 b - - 0 25,My f-pawn is unstoppable now. The black knight is useless.
+50,Kxf7,g8f7,8/pn3kpp/1p2p3/8/1P3P2/P3P3/2B4P/6K1 w - - 0 26,My f-pawn is unstoppable now. The black knight is useless.
+51,Bxh7,c2h7,8/pn3kpB/1p2p3/8/1P3P2/P3P3/7P/6K1 b - - 0 26,My f-pawn is unstoppable now. The black knight is useless.
+52,g6,g7g6,8/pn3k1B/1p2p1p1/8/1P3P2/P3P3/7P/6K1 w - - 0 27,My f-pawn is unstoppable now. The black knight is useless.
+53,Kg2,g1g2,8/pn3k1B/1p2p1p1/8/1P3P2/P3P3/6KP/8 b - - 1 27,My f-pawn is unstoppable now. The black knight is useless.
+54,Kg7,f7g7,8/pn4kB/1p2p1p1/8/1P3P2/P3P3/6KP/8 w - - 2 28,My f-pawn is unstoppable now. The black knight is useless.
+55,Bxg6,h7g6,8/pn4k1/1p2p1B1/8/1P3P2/P3P3/6KP/8 b - - 0 28,My f-pawn is unstoppable now. The black knight is useless.
+56,Kxg6,g7g6,8/pn6/1p2p1k1/8/1P3P2/P3P3/6KP/8 w - - 0 29,My f-pawn is unstoppable now. The black knight is useless.
+57,Kf3,g2f3,8/pn6/1p2p1k1/8/1P3P2/P3PK2/7P/8 b - - 1 29,My f-pawn is unstoppable now. The black knight is useless.
+58,b5,b6b5,8/pn6/4p1k1/1p6/1P3P2/P3PK2/7P/8 w - - 0 30,My f-pawn is unstoppable now. The black knight is useless.
+59,Ke4,f3e4,8/pn6/4p1k1/1p6/1P2KP2/P3P3/7P/8 b - - 1 30,My f-pawn is unstoppable now. The black knight is useless.
+60,Kf6,g6f6,8/pn6/4pk2/1p6/1P2KP2/P3P3/7P/8 w - - 2 31,My f-pawn is unstoppable now. The black knight is useless.
+61,h4,h2h4,8/pn6/4pk2/1p6/1P2KP1P/P3P3/8/8 b - - 0 31,My f-pawn is unstoppable now. The black knight is useless.
+62,Nd6+,b7d6,8/p7/3npk2/1p6/1P2KP1P/P3P3/8/8 w - - 1 32,My f-pawn is unstoppable now. The black knight is useless.
+63,Kd4,e4d4,8/p7/3npk2/1p6/1P1K1P1P/P3P3/8/8 b - - 2 32,My f-pawn is unstoppable now. The black knight is useless.
+64,Nc4,d6c4,8/p7/4pk2/1p6/1PnK1P1P/P3P3/8/8 w - - 3 33,My f-pawn is unstoppable now. The black knight is useless.
+65,Kc5,d4c5,8/p7/4pk2/1pK5/1Pn2P1P/P3P3/8/8 b - - 4 33,My f-pawn is unstoppable now. The black knight is useless.
+66,Nxa3,c4a3,8/p7/4pk2/1pK5/1P3P1P/n3P3/8/8 w - - 0 34,My f-pawn is unstoppable now. The black knight is useless.
+67,e4,e3e4,8/p7/4pk2/1pK5/1P2PP1P/n7/8/8 b - - 0 34,My f-pawn is unstoppable now. The black knight is useless.
+68,a6,a7a6,8/8/p3pk2/1pK5/1P2PP1P/n7/8/8 w - - 0 35,My f-pawn is unstoppable now. The black knight is useless.
+69,Kb6,c5b6,8/8/pK2pk2/1p6/1P2PP1P/n7/8/8 b - - 1 35,My f-pawn is unstoppable now. The black knight is useless.
+70,Nc4+,a3c4,8/8/pK2pk2/1p6/1Pn1PP1P/8/8/8 w - - 2 36,My f-pawn is unstoppable now. The black knight is useless.
+71,Kxa6,b6a6,8/8/K3pk2/1p6/1Pn1PP1P/8/8/8 b - - 0 36,My f-pawn is unstoppable now. The black knight is useless.
+72,Na3,c4a3,8/8/K3pk2/1p6/1P2PP1P/n7/8/8 w - - 1 37,My f-pawn is unstoppable now. The black knight is useless.
+73,Kb6,a6b6,8/8/1K2pk2/1p6/1P2PP1P/n7/8/8 b - - 2 37,My f-pawn is unstoppable now. The black knight is useless.
+74,e5,e6e5,8/8/1K3k2/1p2p3/1P2PP1P/n7/8/8 w - - 0 38,My f-pawn is unstoppable now. The black knight is useless.
+75,f5,f4f5,8/8/1K3k2/1p2pP2/1P2P2P/n7/8/8 b - - 0 38,My f-pawn is unstoppable now. The black knight is useless.
+76,Kg7,f6g7,8/6k1/1K6/1p2pP2/1P2P2P/n7/8/8 w - - 1 39,My f-pawn is unstoppable now. The black knight is useless.
+77,Kc5,b6c5,8/6k1/8/1pK1pP2/1P2P2P/n7/8/8 b - - 2 39,My f-pawn is unstoppable now. The black knight is useless.
+78,Kh6,g7h6,8/8/7k/1pK1pP2/1P2P2P/n7/8/8 w - - 3 40,My f-pawn is unstoppable now. The black knight is useless.
+79,Kd5,c5d5,8/8/7k/1p1KpP2/1P2P2P/n7/8/8 b - - 4 40,My f-pawn is unstoppable now. The black knight is useless.
+80,Nc4,a3c4,8/8/7k/1p1KpP2/1Pn1P2P/8/8/8 w - - 5 41,My f-pawn is unstoppable now. The black knight is useless.
+81,f6,f5f6,8/8/5P1k/1p1Kp3/1Pn1P2P/8/8/8 b - - 0 41,My f-pawn is unstoppable now. The black knight is useless.
+82,Kg6,h6g6,8/8/5Pk1/1p1Kp3/1Pn1P2P/8/8/8 w - - 1 42,
+83,Ke6,d5e6,8/8/4KPk1/1p2p3/1Pn1P2P/8/8/8 b - - 2 42,
+84,Kh7,g6h7,8/7k/4KP2/1p2p3/1Pn1P2P/8/8/8 w - - 3 43,
+85,f7,f6f7,8/5P1k/4K3/1p2p3/1Pn1P2P/8/8/8 b - - 0 43,
+86,Kg7,h7g7,8/5Pk1/4K3/1p2p3/1Pn1P2P/8/8/8 w - - 1 44,
+87,Ke7,e6e7,8/4KPk1/8/1p2p3/1Pn1P2P/8/8/8 b - - 2 44,
+88,Nd6,c4d6,8/4KPk1/3n4/1p2p3/1P2P2P/8/8/8 w - - 3 45,
+89,f8=Q+,f7f8q,5Q2/4K1k1/3n4/1p2p3/1P2P2P/8/8/8 b - - 0 45,

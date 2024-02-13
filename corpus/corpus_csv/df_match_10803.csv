@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"sorry for my english
+any comments welcome"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Initial position of mini-tournament
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Initial position of mini-tournament
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Initial position of mini-tournament
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Initial position of mini-tournament
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Initial position of mini-tournament
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,Initial position of mini-tournament
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Initial position of mini-tournament
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,black desided to exchange central pawns early
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,black desided to exchange central pawns early
+11,g3,g2g3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2NP1/PP3P1P/R1BQKB1R b KQ - 0 6,black desided to exchange central pawns early
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N2NP1/PP3P1P/R1BQKB1R w KQ - 1 7,black desided to exchange central pawns early
+13,Bg2,f1g2,r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N2NP1/PP3PBP/R1BQK2R b KQ - 2 7,black desided to exchange central pawns early
+14,e5,e7e5,r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQK2R w KQ - 0 8,black desided to exchange central pawns early
+15,O-O,e1g1,r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - - 1 8,black desided to exchange central pawns early
+16,exd4,e5d4,r1bq1rk1/pppn1pbp/3p1np1/8/2PpP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9,black desided to exchange central pawns early
+17,Nxd4,f3d4,r1bq1rk1/pppn1pbp/3p1np1/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 b - - 0 9,"preparing Be3, otherwise Ng4. But pawn on h3 could be weak"
+18,Re8,f8e8,r1bqr1k1/pppn1pbp/3p1np1/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 w - - 1 10,"preparing Be3, otherwise Ng4. But pawn on h3 could be weak"
+19,h3,h2h3,r1bqr1k1/pppn1pbp/3p1np1/8/2PNP3/2N3PP/PP3PB1/R1BQ1RK1 b - - 0 10,"preparing Be3, otherwise Ng4. But pawn on h3 could be weak"
+20,a6,a7a6,r1bqr1k1/1ppn1pbp/p2p1np1/8/2PNP3/2N3PP/PP3PB1/R1BQ1RK1 w - - 0 11,Gallagher variation. Black desided not to play c6 (leaving d5 for white pieces) and trying to make counterplay on queenside.
+21,Re1,f1e1,r1bqr1k1/1ppn1pbp/p2p1np1/8/2PNP3/2N3PP/PP3PB1/R1BQR1K1 b - - 1 11,pawn c4 is common subject of black pieces in fianchetto line
+22,Rb8,a8b8,1rbqr1k1/1ppn1pbp/p2p1np1/8/2PNP3/2N3PP/PP3PB1/R1BQR1K1 w - - 2 12,pawn c4 is common subject of black pieces in fianchetto line
+23,Rb1,a1b1,1rbqr1k1/1ppn1pbp/p2p1np1/8/2PNP3/2N3PP/PP3PB1/1RBQR1K1 b - - 3 12,pawn c4 is common subject of black pieces in fianchetto line
+24,Ne5,d7e5,1rbqr1k1/1pp2pbp/p2p1np1/4n3/2PNP3/2N3PP/PP3PB1/1RBQR1K1 w - - 4 13,pawn c4 is common subject of black pieces in fianchetto line
+25,b3,b2b3,1rbqr1k1/1pp2pbp/p2p1np1/4n3/2PNP3/1PN3PP/P4PB1/1RBQR1K1 b - - 0 13,black is continuing in his plan. This move makes white knight to leave his centralized field but d5 and d6 are now black problem
+26,c5,c7c5,1rbqr1k1/1p3pbp/p2p1np1/2p1n3/2PNP3/1PN3PP/P4PB1/1RBQR1K1 w - - 0 14,black is continuing in his plan. This move makes white knight to leave his centralized field but d5 and d6 are now black problem
+27,Nc2,d4c2,1rbqr1k1/1p3pbp/p2p1np1/2p1n3/2P1P3/1PN3PP/P1N2PB1/1RBQR1K1 b - - 1 14,"14. .. b5 is logical continuation but after 15. f4 Ned7 16. Qxd6 white has an advantage as shown in many games. 
+I prefer Be6 instead of Nc6, there is no reason to leave with knight, let's wait for white f4 which makes white kingside weaker"
+28,Nc6,e5c6,1rbqr1k1/1p3pbp/p1np1np1/2p5/2P1P3/1PN3PP/P1N2PB1/1RBQR1K1 w - - 2 15,"14. .. b5 is logical continuation but after 15. f4 Ned7 16. Qxd6 white has an advantage as shown in many games. 
+I prefer Be6 instead of Nc6, there is no reason to leave with knight, let's wait for white f4 which makes white kingside weaker"
+29,a4,a2a4,1rbqr1k1/1p3pbp/p1np1np1/2p5/P1P1P3/1PN3PP/2N2PB1/1RBQR1K1 b - - 0 15,prevent from black main plan - b5
+30,Be6,c8e6,1r1qr1k1/1p3pbp/p1npbnp1/2p5/P1P1P3/1PN3PP/2N2PB1/1RBQR1K1 w - - 1 16,Re3! attack (Rd3 heading for d6) and defence (cover of knight c3) in one move.
+31,Re3,e1e3,1r1qr1k1/1p3pbp/p1npbnp1/2p5/P1P1P3/1PN1R1PP/2N2PB1/1RBQ2K1 b - - 2 16,Re3! attack (Rd3 heading for d6) and defence (cover of knight c3) in one move.
+32,Qa5,d8a5,1r2r1k1/1p3pbp/p1npbnp1/q1p5/P1P1P3/1PN1R1PP/2N2PB1/1RBQ2K1 w - - 3 17,"Original idea but well-tested Qd7 with h-pawn thrust is more testing for white. Now white can play ""normal"" development moves without weakening his position"
+33,Bb2,c1b2,1r2r1k1/1p3pbp/p1npbnp1/q1p5/P1P1P3/1PN1R1PP/1BN2PB1/1R1Q2K1 b - - 4 17,"logical move. Strong King Indians black bishop on g7 has his oponent on b2 now
+Not Qxd6 because Bh6 and Rbd8 of course"
+34,h5,h7h5,1r2r1k1/1p3pb1/p1npbnp1/q1p4p/P1P1P3/1PN1R1PP/1BN2PB1/1R1Q2K1 w - - 0 18,"this move would be more stronger with queen on d7!
+but we can see other weakness caused with h3 move. White will play f4 soon or later a black h4 can break white pawns structure. 
+Paradox is that white played h3 for Be3 and bishop is now on b2 :)"
+35,Nd5,c3d5,1r2r1k1/1p3pb1/p1npbnp1/q1pN3p/P1P1P3/1P2R1PP/1BN2PB1/1R1Q2K1 b - - 1 18,Black get off weaknesses d5 and d6 but another trouble is about to be solved. Maybe acknowledge a mistake and return Qd8?
+36,Bxd5,e6d5,1r2r1k1/1p3pb1/p1np1np1/q1pb3p/P1P1P3/1P2R1PP/1BN2PB1/1R1Q2K1 w - - 0 19,Black get off weaknesses d5 and d6 but another trouble is about to be solved. Maybe acknowledge a mistake and return Qd8?
+37,cxd5,c4d5,1r2r1k1/1p3pb1/p1np1np1/q1pP3p/P3P3/1P2R1PP/1BN2PB1/1R1Q2K1 b - - 0 19,"yes, where is place for c6 knight? And there is beatiful place for white knight on c4"
+38,Nb4,c6b4,1r2r1k1/1p3pb1/p2p1np1/q1pP3p/Pn2P3/1P2R1PP/1BN2PB1/1R1Q2K1 w - - 1 20,"Ne5 wasnt possible for f4 with e5, maybe stick with black plan and go for Na7?! with b5 idea
+Knight on b4 is out of play will stay here till the end"
+39,Qd2,d1d2,1r2r1k1/1p3pb1/p2p1np1/q1pP3p/Pn2P3/1P2R1PP/1BNQ1PB1/1R4K1 b - - 2 20,"pinning b4 knight and making space to transfer rook b1 to new battle-field, kingside"
+40,b5,b7b5,1r2r1k1/5pb1/p2p1np1/qppP3p/Pn2P3/1P2R1PP/1BNQ1PB1/1R4K1 w - - 0 21,Allow white knight to go for c4.
+41,axb5,a4b5,1r2r1k1/5pb1/p2p1np1/qPpP3p/1n2P3/1P2R1PP/1BNQ1PB1/1R4K1 b - - 0 21,Allow white knight to go for c4.
+42,Qxb5,a5b5,1r2r1k1/5pb1/p2p1np1/1qpP3p/1n2P3/1P2R1PP/1BNQ1PB1/1R4K1 w - - 0 22,Allow white knight to go for c4.
+43,Na3,c2a3,1r2r1k1/5pb1/p2p1np1/1qpP3p/1n2P3/NP2R1PP/1B1Q1PB1/1R4K1 b - - 1 22,Black queen is back from trip d8-a5-b5-d7-d8 to starting position. was it worth 4 moves? Maybe somewhere here we can find co-reason of final result
+44,Qd7,b5d7,1r2r1k1/3q1pb1/p2p1np1/2pP3p/1n2P3/NP2R1PP/1B1Q1PB1/1R4K1 w - - 2 23,Black queen is back from trip d8-a5-b5-d7-d8 to starting position. was it worth 4 moves? Maybe somewhere here we can find co-reason of final result
+45,Nc4,a3c4,1r2r1k1/3q1pb1/p2p1np1/2pP3p/1nN1P3/1P2R1PP/1B1Q1PB1/1R4K1 b - - 3 23,Black queen is back from trip d8-a5-b5-d7-d8 to starting position. was it worth 4 moves? Maybe somewhere here we can find co-reason of final result
+46,Qd8,d7d8,1r1qr1k1/5pb1/p2p1np1/2pP3p/1nN1P3/1P2R1PP/1B1Q1PB1/1R4K1 w - - 4 24,Black queen is back from trip d8-a5-b5-d7-d8 to starting position. was it worth 4 moves? Maybe somewhere here we can find co-reason of final result
+47,f4,f2f4,1r1qr1k1/5pb1/p2p1np1/2pP3p/1nN1PP2/1P2R1PP/1B1Q2B1/1R4K1 b - - 0 24,Black doesn't want to exchange blacksquared bishops so there is another plan of defense ..
+48,Bh6,g7h6,1r1qr1k1/5p2/p2p1npb/2pP3p/1nN1PP2/1P2R1PP/1B1Q2B1/1R4K1 w - - 1 25,Black doesn't want to exchange blacksquared bishops so there is another plan of defense ..

@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,E00 Indian Defense/Indian Defense
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,E00 Indian Defense/Indian Defense
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,E00 Indian Defense/Indian Defense
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,E00 Indian Defense/Indian Defense
+5,a3,a2a3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/P7/1P2PPPP/RNBQKBNR b KQkq - 0 3,Out of the book opening. Weak move for white
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n1pn2/8/2PP4/P7/1P2PPPP/RNBQKBNR w KQkq - 1 4,Pin on Knight and blocks pawn at g6
+7,Nf3,g1f3,r1bqkb1r/pppp1ppp/2n1pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R b KQkq - 2 4,Pin on Knight and blocks pawn at g6
+8,g6,g7g6,r1bqkb1r/pppp1p1p/2n1pnp1/8/2PP4/P4N2/1P2PPPP/RNBQKB1R w KQkq - 0 5,Pin on Knight and blocks pawn at g6
+9,Bg5,c1g5,r1bqkb1r/pppp1p1p/2n1pnp1/6B1/2PP4/P4N2/1P2PPPP/RN1QKB1R b KQkq - 1 5,Pin on Knight and blocks pawn at g6
+10,Bg7,f8g7,r1bqk2r/pppp1pbp/2n1pnp1/6B1/2PP4/P4N2/1P2PPPP/RN1QKB1R w KQkq - 2 6,Clears for Kingside castle
+11,e4,e2e4,r1bqk2r/pppp1pbp/2n1pnp1/6B1/2PPP3/P4N2/1P3PPP/RN1QKB1R b KQkq - 0 6,Better is Nc3
+12,d6,d7d6,r1bqk2r/ppp2pbp/2nppnp1/6B1/2PPP3/P4N2/1P3PPP/RN1QKB1R w KQkq - 0 7,Better id Bd3
+13,e5,e4e5,r1bqk2r/ppp2pbp/2nppnp1/4P1B1/2PP4/P4N2/1P3PPP/RN1QKB1R b KQkq - 0 7,Better is Bd3
+14,dxe5,d6e5,r1bqk2r/ppp2pbp/2n1pnp1/4p1B1/2PP4/P4N2/1P3PPP/RN1QKB1R w KQkq - 0 8,Better is Nxe5
+15,Qa4,d1a4,r1bqk2r/ppp2pbp/2n1pnp1/4p1B1/Q1PP4/P4N2/1P3PPP/RN2KB1R b KQkq - 1 8,Better is Nxe5
+16,Bd7,c8d7,r2qk2r/pppb1pbp/2n1pnp1/4p1B1/Q1PP4/P4N2/1P3PPP/RN2KB1R w KQkq - 2 9,"Yikes! Leads to 9...Nxd4 10.Qa5 Nc2+ 11.Ke2 Nxa1 12.Nbd2 h6 13.Bxf6 Bxf6 14.Qc3 e4 15.Ne5 Bxe5 16.Qxe5, which wins a bishop and a knight for a rook, a bishop, a knight, and a pawn. Much better is dxe5, leading to 9...Nxe5 10.Qb4 Nxf3+ 11.gxf3 Nd5 12.Qd2 Ne7 13.Nc3 Bc6 14.Qf4 O-O 15.Bf6, which wins a knight and a pawn for a knight and a pawn. This was white's only significant error of the game, but it was costly. White was never able to regain the lost ground and eventually resigned."
+17,b3,b2b3,r2qk2r/pppb1pbp/2n1pnp1/4p1B1/Q1PP4/PP3N2/5PPP/RN2KB1R b KQkq - 0 9,"Yikes! Leads to 9...Nxd4 10.Qa5 Nc2+ 11.Ke2 Nxa1 12.Nbd2 h6 13.Bxf6 Bxf6 14.Qc3 e4 15.Ne5 Bxe5 16.Qxe5, which wins a bishop and a knight for a rook, a bishop, a knight, and a pawn. Much better is dxe5, leading to 9...Nxe5 10.Qb4 Nxf3+ 11.gxf3 Nd5 12.Qd2 Ne7 13.Nc3 Bc6 14.Qf4 O-O 15.Bf6, which wins a knight and a pawn for a knight and a pawn. This was white's only significant error of the game, but it was costly. White was never able to regain the lost ground and eventually resigned."
+18,Nxd4,c6d4,r2qk2r/pppb1pbp/4pnp1/4p1B1/Q1Pn4/PP3N2/5PPP/RN2KB1R w KQkq - 0 10,Forks White's king and White's rook at a1
+19,Qa5,a4a5,r2qk2r/pppb1pbp/4pnp1/Q3p1B1/2Pn4/PP3N2/5PPP/RN2KB1R b KQkq - 1 10,Forks White's king and White's rook at a1
+20,Nc2+,d4c2,r2qk2r/pppb1pbp/4pnp1/Q3p1B1/2P5/PP3N2/2n2PPP/RN2KB1R w KQkq - 2 11,Forks White's king and White's rook at a1
+21,Ke2,e1e2,r2qk2r/pppb1pbp/4pnp1/Q3p1B1/2P5/PP3N2/2n1KPPP/RN3B1R b kq - 3 11,Isolates White's pawn at c4 and White's pawn at a3. Black wins a rook and a pawn for a pawn. Black is ahead by a rook and two pawns in material.
+22,Nxa1,c2a1,r2qk2r/pppb1pbp/4pnp1/Q3p1B1/2P5/PP3N2/4KPPP/nN3B1R w kq - 0 12,Isolates White's pawn at c4 and White's pawn at a3. Black wins a rook and a pawn for a pawn. Black is ahead by a rook and two pawns in material.
+23,Qxe5,a5e5,r2qk2r/pppb1pbp/4pnp1/4Q1B1/2P5/PP3N2/4KPPP/nN3B1R b kq - 0 12,Isolates White's pawn at c4 and White's pawn at a3. Black wins a rook and a pawn for a pawn. Black is ahead by a rook and two pawns in material.
+24,Nxb3,a1b3,r2qk2r/pppb1pbp/4pnp1/4Q1B1/2P5/Pn3N2/4KPPP/1N3B1R w kq - 0 13,Isolates White's pawn at c4 and White's pawn at a3. Black wins a rook and a pawn for a pawn. Black is ahead by a rook and two pawns in material.
+25,g3,g2g3,r2qk2r/pppb1pbp/4pnp1/4Q1B1/2P5/Pn3NP1/4KP1P/1N3B1R b kq - 0 13,"Leads to 13...Bc6 14.Bg2 Bxf3+ 15.Bxf3 Nd4+ 16.Ke3 h6 17.Qxd4 Qxd4+ 18.Kxd4 O-O-O+ 19.Ke3 hxg5 20.h3 g4 21.hxg4 Rxh1 22.Bxh1 Nxg4+ 23.Ke2, which wins a queen, a rook, a bishop, a knight, and a pawn for a queen, a rook, a bishop, a knight, and a pawn. Better is Qe3, leading to 13...Ba4 14.Nc3 Bc6 15.Nb5 Bxb5 16.Qxb3 Bc6 17.Ke1 O-O 18.Be2, which wins a knight for a knight."
+26,O-O,e8g8,r2q1rk1/pppb1pbp/4pnp1/4Q1B1/2P5/Pn3NP1/4KP1P/1N3B1R w - - 1 14,Slightly better is Bc6.
+27,Qc3,e5c3,r2q1rk1/pppb1pbp/4pnp1/6B1/2P5/PnQ2NP1/4KP1P/1N3B1R b - - 2 14,Slightly better is Qe3.
+28,Nc5,b3c5,r2q1rk1/pppb1pbp/4pnp1/2n3B1/2P5/P1Q2NP1/4KP1P/1N3B1R w - - 3 15,Slightly better is Qe3.
+29,Qb4,c3b4,r2q1rk1/pppb1pbp/4pnp1/2n3B1/1QP5/P4NP1/4KP1P/1N3B1R b - - 4 15,Slightly better is Qe3.
+30,b6,b7b6,r2q1rk1/p1pb1pbp/1p2pnp1/2n3B1/1QP5/P4NP1/4KP1P/1N3B1R w - - 0 16,16...Ba4 17.Qd2 Nce4 18.Qc1 Nxg5 19.Nxg5 Rb8 20.Nc3 Bb3 21.Nb5 a6
+31,Bg2,f1g2,r2q1rk1/p1pb1pbp/1p2pnp1/2n3B1/1QP5/P4NP1/4KPBP/1N5R b - - 1 16,Slightly better is Nc3.
+32,Qe8,d8e8,r3qrk1/p1pb1pbp/1p2pnp1/2n3B1/1QP5/P4NP1/4KPBP/1N5R w - - 2 17,Slightly better is Nc3.
+33,Ne5,f3e5,r3qrk1/p1pb1pbp/1p2pnp1/2n1N1B1/1QP5/P5P1/4KPBP/1N5R b - - 3 17,Slightly better is Nc3.
+34,a5,a7a5,r3qrk1/2pb1pbp/1p2pnp1/p1n1N1B1/1QP5/P5P1/4KPBP/1N5R w - - 0 18,Slightly better is Qe1.
+35,Qb2,b4b2,r3qrk1/2pb1pbp/1p2pnp1/p1n1N1B1/2P5/P5P1/1Q2KPBP/1N5R b - - 1 18,Slightly better is Qe1.
+36,Nce4,c5e4,r3qrk1/2pb1pbp/1p2pnp1/p3N1B1/2P1n3/P5P1/1Q2KPBP/1N5R w - - 2 19,"Leads to 19.Bxf6 Nxf6 20.Nc3 Rd8 21.Re1 h5 22.Rd1 Qe7 23.Bc6 Be8, which wins a bishop for a knight. Better is Ng4, leading to 19.Bf4 g5 20.f3 Nf2 21.Bxg5 Ncd3 22.Nxd3 Bxb2 23.Kxf2 f6, which wins a queen for two knights and a pawn."
+37,Bf4,g5f4,r3qrk1/2pb1pbp/1p2pnp1/p3N3/2P1nB2/P5P1/1Q2KPBP/1N5R b - - 3 19,Slightly better is Re1.
+38,Rd8,a8d8,3rqrk1/2pb1pbp/1p2pnp1/p3N3/2P1nB2/P5P1/1Q2KPBP/1N5R w - - 4 20,Slightly better is Re1.
+39,Rd1,h1d1,3rqrk1/2pb1pbp/1p2pnp1/p3N3/2P1nB2/P5P1/1Q2KPBP/1N1R4 b - - 5 20,Slightly better is Re1.

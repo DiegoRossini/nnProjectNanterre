@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The Damiano Defence, one of the worst openings for black, in my opinion."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Damiano Defence, one of the worst openings for black, in my opinion."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The Damiano Defence, one of the worst openings for black, in my opinion."
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"The Damiano Defence, one of the worst openings for black, in my opinion."
+5,Nxe5,f3e5,rnbqkbnr/pppp2pp/5p2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,A classic mistake. Better is ( 3...Qe7 4.Nf3 d5 5.d3 dxe4 6.dxe4 Qxe4+ 7.Be2 And so on. )
+6,fxe5,f6e5,rnbqkbnr/pppp2pp/8/4p3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,A classic mistake. Better is ( 3...Qe7 4.Nf3 d5 5.d3 dxe4 6.dxe4 Qxe4+ 7.Be2 And so on. )
+7,Qh5+,d1h5,rnbqkbnr/pppp2pp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 1 4,"There's no way to prevent the loss of the black rook now, and even trapping the queen afterward is difficult."
+8,g6,g7g6,rnbqkbnr/pppp3p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 0 5,"There's no way to prevent the loss of the black rook now, and even trapping the queen afterward is difficult."
+9,Qxe5+,h5e5,rnbqkbnr/pppp3p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 0 5,"There's no way to prevent the loss of the black rook now, and even trapping the queen afterward is difficult."
+10,Qe7,d8e7,rnb1kbnr/ppppq2p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 1 6,This is the attempt to trap the white queen
+11,Qxh8,e5h8,rnb1kbnQ/ppppq2p/6p1/8/4P3/8/PPPP1PPP/RNB1KB1R b KQq - 0 6,This is the attempt to trap the white queen
+12,Nf6,g8f6,rnb1kb1Q/ppppq2p/5np1/8/4P3/8/PPPP1PPP/RNB1KB1R w KQq - 1 7,This is the attempt to trap the white queen
+13,d3,d2d3,rnb1kb1Q/ppppq2p/5np1/8/4P3/3P4/PPP2PPP/RNB1KB1R b KQq - 0 7,"The knight is now pinned, and as I'm ahead on material I don't mind exchanging pieces."
+14,d6,d7d6,rnb1kb1Q/ppp1q2p/3p1np1/8/4P3/3P4/PPP2PPP/RNB1KB1R w KQq - 0 8,"The knight is now pinned, and as I'm ahead on material I don't mind exchanging pieces."
+15,Bg5,c1g5,rnb1kb1Q/ppp1q2p/3p1np1/6B1/4P3/3P4/PPP2PPP/RN2KB1R b KQq - 1 8,"The knight is now pinned, and as I'm ahead on material I don't mind exchanging pieces."
+16,Qg7,e7g7,rnb1kb1Q/ppp3qp/3p1np1/6B1/4P3/3P4/PPP2PPP/RN2KB1R w KQq - 2 9,"? Surely Nbd7 is a better move? ( 8...Nbd7 9.Nc3 Kf7 10.Nd5 Now white would be struggling a bit to maintain its advantage. 10...Qe5 11.Nxf6 Nxf6 12.Bxf6 Qxf6 13.Qxf6+ Kxf6 Leaves white with better pawns, and ahead on material, but still a long slog ahead. )"
+17,Bxf6,g5f6,rnb1kb1Q/ppp3qp/3p1Bp1/8/4P3/3P4/PPP2PPP/RN2KB1R b KQq - 0 9,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+18,Qxh8,g7h8,rnb1kb1q/ppp4p/3p1Bp1/8/4P3/3P4/PPP2PPP/RN2KB1R w KQq - 0 10,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+19,Bxh8,f6h8,rnb1kb1B/ppp4p/3p2p1/8/4P3/3P4/PPP2PPP/RN2KB1R b KQq - 0 10,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+20,Be6,c8e6,rn2kb1B/ppp4p/3pb1p1/8/4P3/3P4/PPP2PPP/RN2KB1R w KQq - 1 11,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+21,Nc3,b1c3,rn2kb1B/ppp4p/3pb1p1/8/4P3/2NP4/PPP2PPP/R3KB1R b KQq - 2 11,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+22,Nc6,b8c6,r3kb1B/ppp4p/2npb1p1/8/4P3/2NP4/PPP2PPP/R3KB1R w KQq - 3 12,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+23,d4,d3d4,r3kb1B/ppp4p/2npb1p1/8/3PP3/2N5/PPP2PPP/R3KB1R b KQq - 0 12,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+24,Ne7,c6e7,r3kb1B/ppp1n2p/3pb1p1/8/3PP3/2N5/PPP2PPP/R3KB1R w KQq - 1 13,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."
+25,Nb5,c3b5,r3kb1B/ppp1n2p/3pb1p1/1N6/3PP3/8/PPP2PPP/R3KB1R b KQq - 2 13,"There's a triple fork from Nc7 here, but moving Kd7 now might have helped a little."

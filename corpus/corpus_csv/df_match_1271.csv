@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Prevents Nd5
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Prevents Nd5
+3,c4,c2c4,rnbqkbnr/ppppp1pp/8/5p2/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Prevents Nd5
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Prevents Nd5
+5,Nf3,g1f3,rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3,Prevents Nd5
+6,g6,g7g6,rnbqkb1r/ppppp2p/5np1/5p2/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Prevents Nd5
+7,Nc3,b1c3,rnbqkb1r/ppppp2p/5np1/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,Prevents Nd5
+8,c6,c7c6,rnbqkb1r/pp1pp2p/2p2np1/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,Prevents Nd5
+9,e3,e2e3,rnbqkb1r/pp1pp2p/2p2np1/5p2/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+10,Bg7,f8g7,rnbqk2r/pp1pp1bp/2p2np1/5p2/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 1 6,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+11,b3,b2b3,rnbqk2r/pp1pp1bp/2p2np1/5p2/2PP4/1PN1PN2/P4PPP/R1BQKB1R b KQkq - 0 6,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+12,O-O,e8g8,rnbq1rk1/pp1pp1bp/2p2np1/5p2/2PP4/1PN1PN2/P4PPP/R1BQKB1R w KQ - 1 7,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+13,Bb2,c1b2,rnbq1rk1/pp1pp1bp/2p2np1/5p2/2PP4/1PN1PN2/PB3PPP/R2QKB1R b KQ - 2 7,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+14,a5,a7a5,rnbq1rk1/1p1pp1bp/2p2np1/p4p2/2PP4/1PN1PN2/PB3PPP/R2QKB1R w KQ - 0 8,aahh...It was a waiting move...can say much other than the standard d6 move should have been played.....
+15,Be2,f1e2,rnbq1rk1/1p1pp1bp/2p2np1/p4p2/2PP4/1PN1PN2/PB2BPPP/R2QK2R b KQ - 1 8,Bd3 places more control over e4
+16,Ne4,f6e4,rnbq1rk1/1p1pp1bp/2p3p1/p4p2/2PPn3/1PN1PN2/PB2BPPP/R2QK2R w KQ - 2 9,Here I though of c5 but that seem like a cheap trick
+17,O-O,e1g1,rnbq1rk1/1p1pp1bp/2p3p1/p4p2/2PPn3/1PN1PN2/PB2BPPP/R2Q1RK1 b - - 3 9,Here I though of c5 but that seem like a cheap trick
+18,Nxc3,e4c3,rnbq1rk1/1p1pp1bp/2p3p1/p4p2/2PP4/1Pn1PN2/PB2BPPP/R2Q1RK1 w - - 0 10,Here I though of c5 but that seem like a cheap trick
+19,Bxc3,b2c3,rnbq1rk1/1p1pp1bp/2p3p1/p4p2/2PP4/1PB1PN2/P3BPPP/R2Q1RK1 b - - 0 10,Here I though of c5 but that seem like a cheap trick
+20,d5,d7d5,rnbq1rk1/1p2p1bp/2p3p1/p2p1p2/2PP4/1PB1PN2/P3BPPP/R2Q1RK1 w - - 0 11,Na6-b4 looked reasonable...
+21,Qc2,d1c2,rnbq1rk1/1p2p1bp/2p3p1/p2p1p2/2PP4/1PB1PN2/P1Q1BPPP/R4RK1 b - - 1 11,Na6-b4 looked reasonable...
+22,Nd7,b8d7,r1bq1rk1/1p1np1bp/2p3p1/p2p1p2/2PP4/1PB1PN2/P1Q1BPPP/R4RK1 w - - 2 12,Na6-b4 looked reasonable...
+23,Rfd1,f1d1,r1bq1rk1/1p1np1bp/2p3p1/p2p1p2/2PP4/1PB1PN2/P1Q1BPPP/R2R2K1 b - - 3 12,winning move!!!
+24,Nf6,d7f6,r1bq1rk1/1p2p1bp/2p2np1/p2p1p2/2PP4/1PB1PN2/P1Q1BPPP/R2R2K1 w - - 4 13,winning move!!!
+25,a3,a2a3,r1bq1rk1/1p2p1bp/2p2np1/p2p1p2/2PP4/PPB1PN2/2Q1BPPP/R2R2K1 b - - 0 13,winning move!!!
+26,h6,h7h6,r1bq1rk1/1p2p1b1/2p2npp/p2p1p2/2PP4/PPB1PN2/2Q1BPPP/R2R2K1 w - - 0 14,winning move!!!
+27,b4,b3b4,r1bq1rk1/1p2p1b1/2p2npp/p2p1p2/1PPP4/P1B1PN2/2Q1BPPP/R2R2K1 b - - 0 14,!
+28,axb4,a5b4,r1bq1rk1/1p2p1b1/2p2npp/3p1p2/1pPP4/P1B1PN2/2Q1BPPP/R2R2K1 w - - 0 15,!
+29,axb4,a3b4,r1bq1rk1/1p2p1b1/2p2npp/3p1p2/1PPP4/2B1PN2/2Q1BPPP/R2R2K1 b - - 0 15,!
+30,Be6,c8e6,r2q1rk1/1p2p1b1/2p1bnpp/3p1p2/1PPP4/2B1PN2/2Q1BPPP/R2R2K1 w - - 1 16,!
+31,c5,c4c5,r2q1rk1/1p2p1b1/2p1bnpp/2Pp1p2/1P1P4/2B1PN2/2Q1BPPP/R2R2K1 b - - 0 16,!
+32,Qc7,d8c7,r4rk1/1pq1p1b1/2p1bnpp/2Pp1p2/1P1P4/2B1PN2/2Q1BPPP/R2R2K1 w - - 1 17,!
+33,Ne5,f3e5,r4rk1/1pq1p1b1/2p1bnpp/2PpNp2/1P1P4/2B1P3/2Q1BPPP/R2R2K1 b - - 2 17,!
+34,Ne4,f6e4,r4rk1/1pq1p1b1/2p1b1pp/2PpNp2/1P1Pn3/2B1P3/2Q1BPPP/R2R2K1 w - - 3 18,!
+35,Nxg6,e5g6,r4rk1/1pq1p1b1/2p1b1Np/2Pp1p2/1P1Pn3/2B1P3/2Q1BPPP/R2R2K1 b - - 0 18,!
+36,Rfb8,f8b8,rr4k1/1pq1p1b1/2p1b1Np/2Pp1p2/1P1Pn3/2B1P3/2Q1BPPP/R2R2K1 w - - 1 19,!
+37,Bb2,c3b2,rr4k1/1pq1p1b1/2p1b1Np/2Pp1p2/1P1Pn3/4P3/1BQ1BPPP/R2R2K1 b - - 2 19,!
+38,Bf7,e6f7,rr4k1/1pq1pbb1/2p3Np/2Pp1p2/1P1Pn3/4P3/1BQ1BPPP/R2R2K1 w - - 3 20,!
+39,Nf4,g6f4,rr4k1/1pq1pbb1/2p4p/2Pp1p2/1P1PnN2/4P3/1BQ1BPPP/R2R2K1 b - - 4 20,!
+40,e5,e7e5,rr4k1/1pq2bb1/2p4p/2Pppp2/1P1PnN2/4P3/1BQ1BPPP/R2R2K1 w - - 0 21,!
+41,Nh5,f4h5,rr4k1/1pq2bb1/2p4p/2Pppp1N/1P1Pn3/4P3/1BQ1BPPP/R2R2K1 b - - 1 21,!
+42,Bxh5,f7h5,rr4k1/1pq3b1/2p4p/2Pppp1b/1P1Pn3/4P3/1BQ1BPPP/R2R2K1 w - - 0 22,!
+43,Bxh5,e2h5,rr4k1/1pq3b1/2p4p/2Pppp1B/1P1Pn3/4P3/1BQ2PPP/R2R2K1 b - - 0 22,!
+44,Rxa1,a8a1,1r4k1/1pq3b1/2p4p/2Pppp1B/1P1Pn3/4P3/1BQ2PPP/r2R2K1 w - - 0 23,!
+45,Rxa1,d1a1,1r4k1/1pq3b1/2p4p/2Pppp1B/1P1Pn3/4P3/1BQ2PPP/R5K1 b - - 0 23,!!
+46,Rf8,b8f8,5rk1/1pq3b1/2p4p/2Pppp1B/1P1Pn3/4P3/1BQ2PPP/R5K1 w - - 1 24,!!
+47,Bf3,h5f3,5rk1/1pq3b1/2p4p/2Pppp2/1P1Pn3/4PB2/1BQ2PPP/R5K1 b - - 2 24,Notice how the rook protects the f-pawn
+48,Ng5,e4g5,5rk1/1pq3b1/2p4p/2Ppppn1/1P1P4/4PB2/1BQ2PPP/R5K1 w - - 3 25,Notice how the rook protects the f-pawn
+49,Be2,f3e2,5rk1/1pq3b1/2p4p/2Ppppn1/1P1P4/4P3/1BQ1BPPP/R5K1 b - - 4 25,!!
+50,e4,e5e4,5rk1/1pq3b1/2p4p/2Pp1pn1/1P1Pp3/4P3/1BQ1BPPP/R5K1 w - - 0 26,!!
+51,b5,b4b5,5rk1/1pq3b1/2p4p/1PPp1pn1/3Pp3/4P3/1BQ1BPPP/R5K1 b - - 0 26,!!
+52,f4,f5f4,5rk1/1pq3b1/2p4p/1PPp2n1/3Ppp2/4P3/1BQ1BPPP/R5K1 w - - 0 27,!!
+53,Rf1,a1f1,5rk1/1pq3b1/2p4p/1PPp2n1/3Ppp2/4P3/1BQ1BPPP/5RK1 b - - 1 27,? a poor choice
+54,f3,f4f3,5rk1/1pq3b1/2p4p/1PPp2n1/3Pp3/4Pp2/1BQ1BPPP/5RK1 w - - 0 28,!! hahaha
+55,Bd1,e2d1,5rk1/1pq3b1/2p4p/1PPp2n1/3Pp3/4Pp2/1BQ2PPP/3B1RK1 b - - 1 28,To keep the attack going this was forced all other moves allow White to mount a defense.
+56,Qd7,c7d7,5rk1/1p1q2b1/2p4p/1PPp2n1/3Pp3/4Pp2/1BQ2PPP/3B1RK1 w - - 2 29,To keep the attack going this was forced all other moves allow White to mount a defense.
+57,Kh1,g1h1,5rk1/1p1q2b1/2p4p/1PPp2n1/3Pp3/4Pp2/1BQ2PPP/3B1R1K b - - 3 29,To keep the attack going this was forced all other moves allow White to mount a defense.
+58,fxg2+,f3g2,5rk1/1p1q2b1/2p4p/1PPp2n1/3Pp3/4P3/1BQ2PpP/3B1R1K w - - 0 30,To keep the attack going this was forced all other moves allow White to mount a defense.
+59,Kxg2,h1g2,5rk1/1p1q2b1/2p4p/1PPp2n1/3Pp3/4P3/1BQ2PKP/3B1R2 b - - 0 30,!!! the rook blocks communication and prevents f4
+60,Qh3+,d7h3,5rk1/1p4b1/2p4p/1PPp2n1/3Pp3/4P2q/1BQ2PKP/3B1R2 w - - 1 31,!!! the rook blocks communication and prevents f4
+61,Kg1,g2g1,5rk1/1p4b1/2p4p/1PPp2n1/3Pp3/4P2q/1BQ2P1P/3B1RK1 b - - 2 31,!!! the rook blocks communication and prevents f4
+62,Rf3,f8f3,6k1/1p4b1/2p4p/1PPp2n1/3Pp3/4Pr1q/1BQ2P1P/3B1RK1 w - - 3 32,!!! the rook blocks communication and prevents f4
+63,Be2,d1e2,6k1/1p4b1/2p4p/1PPp2n1/3Pp3/4Pr1q/1BQ1BP1P/5RK1 b - - 4 32,!!! preparing Nf6-g4
+64,Nh7,g5h7,6k1/1p4bn/2p4p/1PPp4/3Pp3/4Pr1q/1BQ1BP1P/5RK1 w - - 5 33,!!! preparing Nf6-g4
+65,Kh1,g1h1,6k1/1p4bn/2p4p/1PPp4/3Pp3/4Pr1q/1BQ1BP1P/5R1K b - - 6 33,White resigned
+66,Nf6,h7f6,6k1/1p4b1/2p2n1p/1PPp4/3Pp3/4Pr1q/1BQ1BP1P/5R1K w - - 7 34,White resigned
+67,Rg1,f1g1,6k1/1p4b1/2p2n1p/1PPp4/3Pp3/4Pr1q/1BQ1BP1P/6RK b - - 8 34,White resigned
+68,Rxf2,f3f2,6k1/1p4b1/2p2n1p/1PPp4/3Pp3/4P2q/1BQ1Br1P/6RK w - - 0 35,White resigned

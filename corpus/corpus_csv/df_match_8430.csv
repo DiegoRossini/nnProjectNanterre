@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is the Alapin Opening which is an alternative to Nf3. The knight develops so as to prevent the Bg4 pin and allowing f4.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This is the Alapin Opening which is an alternative to Nf3. The knight develops so as to prevent the Bg4 pin and allowing f4.
+3,Ne2,g1e2,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2,This is the Alapin Opening which is an alternative to Nf3. The knight develops so as to prevent the Bg4 pin and allowing f4.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/8/PPPPNPPP/RNBQKB1R w KQkq - 2 3,Attacking the e4 pawn
+5,d4,d2d4,rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/8/PPP1NPPP/RNBQKB1R b KQkq - 0 3,Aggresive move striking the hold that Black has on the center
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4p3/3Pn3/8/PPP1NPPP/RNBQKB1R w KQkq - 0 4,Taking the free pawn
+7,Ng3,e2g3,rnbqkb1r/pppp1ppp/8/4p3/3Pn3/6N1/PPP2PPP/RNBQKB1R b KQkq - 1 4,? Trades off knights but doubling his pawns
+8,Nxg3,e4g3,rnbqkb1r/pppp1ppp/8/4p3/3P4/6n1/PPP2PPP/RNBQKB1R w KQkq - 0 5,Defends his e5 pawn and attacks the d4 pawn.
+9,hxg3,h2g3,rnbqkb1r/pppp1ppp/8/4p3/3P4/6P1/PPP2PP1/RNBQKB1R b KQkq - 0 5,Defends his e5 pawn and attacks the d4 pawn.
+10,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n5/4p3/3P4/6P1/PPP2PP1/RNBQKB1R w KQkq - 1 6,Defends his e5 pawn and attacks the d4 pawn.
+11,Nc3,b1c3,r1bqkb1r/pppp1ppp/2n5/4p3/3P4/2N3P1/PPP2PP1/R1BQKB1R b KQkq - 2 6,"? Again, this invites Black to kill the d4 pawn with a gain of tempo."
+12,exd4,e5d4,r1bqkb1r/pppp1ppp/2n5/8/3p4/2N3P1/PPP2PP1/R1BQKB1R w KQkq - 0 7,"White is in trouble here, 2 pawns down after only 7 moves."
+13,Nd5,c3d5,r1bqkb1r/pppp1ppp/2n5/3N4/3p4/6P1/PPP2PP1/R1BQKB1R b KQkq - 1 7,"White is in trouble here, 2 pawns down after only 7 moves."
+14,Be7,f8e7,r1bqk2r/ppppbppp/2n5/3N4/3p4/6P1/PPP2PP1/R1BQKB1R w KQkq - 2 8,Simple development and the bishop can be captured.
+15,Qg4,d1g4,r1bqk2r/ppppbppp/2n5/3N4/3p2Q1/6P1/PPP2PP1/R1B1KB1R b KQkq - 3 8,Attacking the unguarded g7 square
+16,g6,g7g6,r1bqk2r/ppppbp1p/2n3p1/3N4/3p2Q1/6P1/PPP2PP1/R1B1KB1R w KQkq - 0 9,Defends agains this... even better is 8.O-O 9.Bh6 Bf6 then all is covered (thanks nuntar for the comment)
+17,Bc4,f1c4,r1bqk2r/ppppbp1p/2n3p1/3N4/2Bp2Q1/6P1/PPP2PP1/R1B1K2R b KQkq - 1 9,Eyeing the f7 square
+18,f5,f7f5,r1bqk2r/ppppb2p/2n3p1/3N1p2/2Bp2Q1/6P1/PPP2PP1/R1B1K2R w KQkq - 0 10,"Opens up his position while he is behind in development, unwise."
+19,Rxh7,h1h7,r1bqk2r/ppppb2R/2n3p1/3N1p2/2Bp2Q1/6P1/PPP2PP1/R1B1K3 b Qkq - 0 10,Sacrifices his rook here. If 10.Rxh7 11.Qxg6+ Kf8 12.Nf6 Rg7 13.Nh7+ Rxh7 14. Qg8++
+20,fxg4,f5g4,r1bqk2r/ppppb2R/2n3p1/3N4/2Bp2p1/6P1/PPP2PP1/R1B1K3 w Qkq - 0 11,Takes the bait...
+21,Nxc7+,d5c7,r1bqk2r/ppNpb2R/2n3p1/8/2Bp2p1/6P1/PPP2PP1/R1B1K3 b Qkq - 0 11,Check and unleashing the bishop
+22,Qxc7,d8c7,r1b1k2r/ppqpb2R/2n3p1/8/2Bp2p1/6P1/PPP2PP1/R1B1K3 w Qkq - 0 12,"If 12.Kf8, 13.Bf6 ++"
+23,Bf7+,c4f7,r1b1k2r/ppqpbB1R/2n3p1/8/3p2p1/6P1/PPP2PP1/R1B1K3 b Qkq - 1 12,"If 12.Kf8, 13.Bf6 ++"
+24,Kd8,e8d8,r1bk3r/ppqpbB1R/2n3p1/8/3p2p1/6P1/PPP2PP1/R1B1K3 w Q - 2 13,"If 12.Kf8, 13.Bf6 ++"
+25,Rxh8+,h7h8,r1bk3R/ppqpbB2/2n3p1/8/3p2p1/6P1/PPP2PP1/R1B1K3 b Q - 0 13,Closing in on the Black King.
+26,Bf8,e7f8,r1bk1b1R/ppqp1B2/2n3p1/8/3p2p1/6P1/PPP2PP1/R1B1K3 w Q - 1 14,Forced
+27,Bg5+,c1g5,r1bk1b1R/ppqp1B2/2n3p1/6B1/3p2p1/6P1/PPP2PP1/R3K3 b Q - 2 14,Forced
+28,Ne7,c6e7,r1bk1b1R/ppqpnB2/6p1/6B1/3p2p1/6P1/PPP2PP1/R3K3 w Q - 3 15,Forced

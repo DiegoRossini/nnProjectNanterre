@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Horrible move. I just played mechanically, without really thinking. I realized what I did just a second too late."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Horrible move. I just played mechanically, without really thinking. I realized what I did just a second too late."
+3,e3,e2e3,rnbqkbnr/pppp1ppp/8/4p3/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Even worse. At least, it doesn't take advantage of my mistake."
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3p4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,Symmetry.
+5,exd4,e3d4,rnbqkbnr/pppp1ppp/8/8/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Symmetry.
+6,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Symmetry.
+7,Be3,c1e3,rnbqkbnr/ppp2ppp/8/3p4/3P4/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 4,Very passive.
+8,Bf5,c8f5,rn1qkbnr/ppp2ppp/8/3p1b2/3P4/4B3/PPP2PPP/RN1QKBNR w KQkq - 2 5,Daring a little more.
+9,Qe2,d1e2,rn1qkbnr/ppp2ppp/8/3p1b2/3P4/4B3/PPP1QPPP/RN2KBNR b KQkq - 3 5,"Interesting, trying to check by moving the bishop, but still ""naive"". Black can defend."
+10,Bb4+,f8b4,rn1qk1nr/ppp2ppp/8/3p1b2/1b1P4/4B3/PPP1QPPP/RN2KBNR w KQkq - 4 6,Just to make him move the pawn.
+11,c3,c2c3,rn1qk1nr/ppp2ppp/8/3p1b2/1b1P4/2P1B3/PP2QPPP/RN2KBNR b KQkq - 0 6,"Which he does (better was to shield the king with the knight atd2, and then kick the bishop - to favour developement). I could have exchanged Bf5xNb1, trying to force this move, but it was not a good idea to lose the two bishop's force so soon... unless the queen could have gonte to a5."
+12,Be7,b4e7,rn1qk1nr/ppp1bppp/8/3p1b2/3P4/2P1B3/PP2QPPP/RN2KBNR w KQkq - 1 7,"Shielding the discovered check, and now this is a good square for the bishop. White, instead, is a little cramped."
+13,Nf3,g1f3,rn1qk1nr/ppp1bppp/8/3p1b2/3P4/2P1BN2/PP2QPPP/RN2KB1R b KQkq - 2 7,"Here, I really wanted to play in order to preserve my lsb against Nh4."
+14,h6,h7h6,rn1qk1nr/ppp1bpp1/7p/3p1b2/3P4/2P1BN2/PP2QPPP/RN2KB1R w KQkq - 0 8,"The only safe way was that. I have no hurry to play my Nb8, until I see where the game is going. The text has also the advantage of guard g5. I've had a look on Qd2, and if Nh4, Bg5, but c3, then Bh5, g4, Bg6... and NxB. I don't say this is a loser line for black, but I just wanted to keep my lsb on the long diagonal. But in doing this..."
+15,Qb5+,e2b5,rn1qk1nr/ppp1bpp1/7p/1Q1p1b2/3P4/2P1BN2/PP3PPP/RN2KB1R b KQkq - 1 8,"...I overlooked this move, and that forced me to try to play ""as if I had a plan"". The only possible plan here is to play the counter attack, wildly, and let the queen go grabbing pawns."
+16,Nd7,b8d7,r2qk1nr/pppnbpp1/7p/1Q1p1b2/3P4/2P1BN2/PP3PPP/RN2KB1R w KQkq - 2 9,"May better was Qxd5. Anyway, this move will cost white a lot in developement, thanks to the queen's chase that will follow."
+17,Qxb7,b5b7,r2qk1nr/pQpnbpp1/7p/3p1b2/3P4/2P1BN2/PP3PPP/RN2KB1R b KQkq - 0 9,"May better was Qxd5. Anyway, this move will cost white a lot in developement, thanks to the queen's chase that will follow."
+18,Rb8,a8b8,1r1qk1nr/pQpnbpp1/7p/3p1b2/3P4/2P1BN2/PP3PPP/RN2KB1R w KQk - 1 10,"Ok, let's see where it leads. I wouldn't have gone for this because I don't see any inmediate attack on white's position. The resulting (after Rxb2) attack on the knight is hardly a compensation."
+19,Qxd5,b7d5,1r1qk1nr/p1pnbpp1/7p/3Q1b2/3P4/2P1BN2/PP3PPP/RN2KB1R b KQk - 0 10,"...specially when the bishop is attacked. But now, the ""chase the queen"" plan can start."
+20,Be6,f5e6,1r1qk1nr/p1pnbpp1/4b2p/3Q4/3P4/2P1BN2/PP3PPP/RN2KB1R w KQk - 1 11,"I don't have any double threat on the knight, so white has time to go grabbing pawns."
+21,Qa5,d5a5,1r1qk1nr/p1pnbpp1/4b2p/Q7/3P4/2P1BN2/PP3PPP/RN2KB1R b KQk - 2 11,"I don't have any double threat on the knight, so white has time to go grabbing pawns."
+22,Rxb2,b8b2,3qk1nr/p1pnbpp1/4b2p/Q7/3P4/2P1BN2/Pr3PPP/RN2KB1R w KQk - 0 12,"I don't have any double threat on the knight, so white has time to go grabbing pawns."
+23,Qxa7,a5a7,3qk1nr/Q1pnbpp1/4b2p/8/3P4/2P1BN2/Pr3PPP/RN2KB1R b KQk - 0 12,But I am undeveloped for a proper attack.
+24,Bf5,e6f5,3qk1nr/Q1pnbpp1/7p/5b2/3P4/2P1BN2/Pr3PPP/RN2KB1R w KQk - 1 13,"I can now have my bishop on his old ""threat the knight"" plan (having the WQ diverted from her good position)."
+25,Nbd2,b1d2,3qk1nr/Q1pnbpp1/7p/5b2/3P4/2P1BN2/Pr1N1PPP/R3KB1R b KQk - 2 13,"A bad move, since it allows Bb5. But I had to go for some compensation. If I don't create attack and freedom for my pieces, my developement would be sterile. Still better for white to develop with Bb5, followed by Ne5. Instead, Rb1 invites to RxN, NxN, BxRb1, NxB, and another game begins. Anyway, I'm not interested in simplifications. Of course, here white can defend the pawn with Qa5, attacking again my lsb... and so on."
+26,Rc2,b2c2,3qk1nr/Q1pnbpp1/7p/5b2/3P4/2P1BN2/P1rN1PPP/R3KB1R w KQk - 3 14,"A bad move, since it allows Bb5. But I had to go for some compensation. If I don't create attack and freedom for my pieces, my developement would be sterile. Still better for white to develop with Bb5, followed by Ne5. Instead, Rb1 invites to RxN, NxN, BxRb1, NxB, and another game begins. Anyway, I'm not interested in simplifications. Of course, here white can defend the pawn with Qa5, attacking again my lsb... and so on."
+27,Nb3,d2b3,3qk1nr/Q1pnbpp1/7p/5b2/3P4/1NP1BN2/P1r2PPP/R3KB1R b KQk - 4 14,Maybe looking at b7. Still better was Bb5.

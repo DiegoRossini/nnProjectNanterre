@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This interesting verson of the Scotch game shows the danger of 3.d6 if white plays dxe5
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Scotch opening
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Scotch opening
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Scotch opening
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Scotch opening
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Unusual black third move... exd4 is the main line, after which white can retake the pawn with the knight or leave the pawn and play c3 or Bc4"
+7,dxe5,d4e5,r1bqkbnr/ppp2ppp/2np4/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"If black wants to recapture, he won't be able to castle because we will trade queens unless he gives up a pawn"
+8,dxe5,d6e5,r1bqkbnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,Black played this version because white often does not play 4 dxe5 because of the exchange of queens improving black's chance of equalizing
+9,Qxd8+,d1d8,r1bQkbnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5,Black played this version because white often does not play 4 dxe5 because of the exchange of queens improving black's chance of equalizing
+10,Kxd8,e8d8,r1bk1bnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNB1KB1R w KQ - 0 6,Black played this version because white often does not play 4 dxe5 because of the exchange of queens improving black's chance of equalizing
+11,Bb5,f1b5,r1bk1bnr/ppp2ppp/2n5/1B2p3/4P3/5N2/PPP2PPP/RNB1K2R b KQ - 1 6,also possible is Ne7 but any other move loses the pawn
+12,Nd4,c6d4,r1bk1bnr/ppp2ppp/8/1B2p3/3nP3/5N2/PPP2PPP/RNB1K2R w KQ - 2 7,also possible is Ne7 but any other move loses the pawn
+13,Nxd4,f3d4,r1bk1bnr/ppp2ppp/8/1B2p3/3NP3/8/PPP2PPP/RNB1K2R b KQ - 0 7,"Black now has one pawn which has advanced far into my territory and all his other pieces on the squares where they started, except his king"
+14,exd4,e5d4,r1bk1bnr/ppp2ppp/8/1B6/3pP3/8/PPP2PPP/RNB1K2R w KQ - 0 8,"Black now has one pawn which has advanced far into my territory and all his other pieces on the squares where they started, except his king"
+15,Nd2,b1d2,r1bk1bnr/ppp2ppp/8/1B6/3pP3/8/PPPN1PPP/R1B1K2R b KQ - 1 8,i planned to play Nf3 next
+16,Bb4,f8b4,r1bk2nr/ppp2ppp/8/1B6/1b1pP3/8/PPPN1PPP/R1B1K2R w KQ - 2 9,"Black decides to exchange my knight for his bishop, which leave me with the bishop pair"
+17,a3,a2a3,r1bk2nr/ppp2ppp/8/1B6/1b1pP3/P7/1PPN1PPP/R1B1K2R b KQ - 0 9,Now i have the bishop pair and a choice of which way to castle.
+18,Bxd2+,b4d2,r1bk2nr/ppp2ppp/8/1B6/3pP3/P7/1PPb1PPP/R1B1K2R w KQ - 0 10,Now i have the bishop pair and a choice of which way to castle.
+19,Bxd2,c1d2,r1bk2nr/ppp2ppp/8/1B6/3pP3/P7/1PPB1PPP/R3K2R b KQ - 0 10,Now i have the bishop pair and a choice of which way to castle.
+20,Bd7,c8d7,r2k2nr/pppb1ppp/8/1B6/3pP3/P7/1PPB1PPP/R3K2R w KQ - 1 11,I don't want to trade down to a draw
+21,Bc4,b5c4,r2k2nr/pppb1ppp/8/8/2BpP3/P7/1PPB1PPP/R3K2R b KQ - 2 11,I don't want to trade down to a draw
+22,f6,f7f6,r2k2nr/pppb2pp/5p2/8/2BpP3/P7/1PPB1PPP/R3K2R w KQ - 0 12,Be6 was also possible
+23,O-O-O,e1c1,r2k2nr/pppb2pp/5p2/8/2BpP3/P7/1PPB1PPP/2KR3R b - - 1 12,i want a discovered attack on the black pawn
+24,Ne7,g8e7,r2k3r/pppbn1pp/5p2/8/2BpP3/P7/1PPB1PPP/2KR3R w - - 2 13,black trys to hold the pawn
+25,Bb4,d2b4,r2k3r/pppbn1pp/5p2/8/1BBpP3/P7/1PP2PPP/2KR3R b - - 3 13,black trys to hold the pawn
+26,Nc6,e7c6,r2k3r/pppb2pp/2n2p2/8/1BBpP3/P7/1PP2PPP/2KR3R w - - 4 14,black trys to hold the pawn
+27,Bd5,c4d5,r2k3r/pppb2pp/2n2p2/3B4/1B1pP3/P7/1PP2PPP/2KR3R b - - 5 14,i want to capture the C pawn and black has no way of stopping me....
+28,Nxb4,c6b4,r2k3r/pppb2pp/5p2/3B4/1n1pP3/P7/1PP2PPP/2KR3R w - - 0 15,This pawn proves to be the difference in the game
+29,axb4,a3b4,r2k3r/pppb2pp/5p2/3B4/1P1pP3/8/1PP2PPP/2KR3R b - - 0 15,This pawn proves to be the difference in the game
+30,c6,c7c6,r2k3r/pp1b2pp/2p2p2/3B4/1P1pP3/8/1PP2PPP/2KR3R w - - 0 16,This pawn proves to be the difference in the game
+31,Bb3,d5b3,r2k3r/pp1b2pp/2p2p2/8/1P1pP3/1B6/1PP2PPP/2KR3R b - - 1 16,This pawn proves to be the difference in the game
+32,Kc7,d8c7,r6r/ppkb2pp/2p2p2/8/1P1pP3/1B6/1PP2PPP/2KR3R w - - 2 17,This pawn proves to be the difference in the game
+33,Rxd4,d1d4,r6r/ppkb2pp/2p2p2/8/1P1RP3/1B6/1PP2PPP/2K4R b - - 0 17,This pawn proves to be the difference in the game
+34,Rae8,a8e8,4r2r/ppkb2pp/2p2p2/8/1P1RP3/1B6/1PP2PPP/2K4R w - - 1 18,having my pawns on the white squares isn't ideal but i don't have a choice at this point
+35,f3,f2f3,4r2r/ppkb2pp/2p2p2/8/1P1RP3/1B3P2/1PP3PP/2K4R b - - 0 18,having my pawns on the white squares isn't ideal but i don't have a choice at this point
+36,g5,g7g5,4r2r/ppkb3p/2p2p2/6p1/1P1RP3/1B3P2/1PP3PP/2K4R w - - 0 19,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+37,Rhd1,h1d1,4r2r/ppkb3p/2p2p2/6p1/1P1RP3/1B3P2/1PP3PP/2KR4 b - - 1 19,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+38,Re7,e8e7,7r/ppkbr2p/2p2p2/6p1/1P1RP3/1B3P2/1PP3PP/2KR4 w - - 2 20,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+39,g3,g2g3,7r/ppkbr2p/2p2p2/6p1/1P1RP3/1B3PP1/1PP4P/2KR4 b - - 0 20,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+40,Bh3,d7h3,7r/ppk1r2p/2p2p2/6p1/1P1RP3/1B3PPb/1PP4P/2KR4 w - - 1 21,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+41,Bc4,b3c4,7r/ppk1r2p/2p2p2/6p1/1PBRP3/5PPb/1PP4P/2KR4 b - - 2 21,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+42,b5,b7b5,7r/p1k1r2p/2p2p2/1p4p1/1PBRP3/5PPb/1PP4P/2KR4 w - - 0 22,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+43,Bf1,c4f1,7r/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PPb/1PP4P/2KR1B2 b - - 1 22,I wanted to trade the bishops because i didn't want to end up in an endgame with bishop and pawns vs bishop and pawns because it would be more likely black could force a draw
+44,Bxf1,h3f1,7r/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2KR1b2 w - - 0 23,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+45,Rxf1,d1f1,7r/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2K2R2 b - - 0 23,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+46,Rd8,h8d8,3r4/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2K2R2 w - - 1 24,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+47,Rfd1,f1d1,3r4/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2KR4 b - - 2 24,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+48,Rxd4,d8d4,8/p1k1r2p/2p2p2/1p4p1/1P1rP3/5PP1/1PP4P/2KR4 w - - 0 25,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+49,Rxd4,d1d4,8/p1k1r2p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2K5 b - - 0 25,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+50,Rd7,e7d7,8/p1kr3p/2p2p2/1p4p1/1P1RP3/5PP1/1PP4P/2K5 w - - 1 26,Black wants to trade down to an endgame where its all pawns and 7 against his 6 so this is fine with me
+51,c3,c2c3,8/p1kr3p/2p2p2/1p4p1/1P1RP3/2P2PP1/1P5P/2K5 b - - 0 26,"Instead of the obvious Rxd7, i play this move to prevent him from getting essentially a free move for his king.  Also this closes the only chance he has of getting his king to my side without exchanging pawns"

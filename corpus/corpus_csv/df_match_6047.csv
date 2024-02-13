@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Both 1. ... e5 and 2. Nf3 have been the classical response.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Both 1. ... e5 and 2. Nf3 have been the classical response.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Both 1. ... e5 and 2. Nf3 have been the classical response.
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"A mistake by Black. White may take the pawn with 3. Nxe5 because retaking with 3. ... fxe5 would result in 4. Qh5+ g6 5. Qxe5+ Qe7 6. Qxh8 or an attack after 4. ... Ke7 5. Qxe5+ Kf7 6. Bc4+, with the rest of White's pieces coming out over time.
+2. ... d5 is the best move. There are quite a few other moves, but, in the end, the only chance for Black after White plays 3. Nxe5 that does not lose instantly is 3. ... Qe7, but White has a big advantage after 4. Nf3 Qxe4+ 5. Be2 because of his huge lead in development."
+5,d4,d2d4,rnbqkbnr/pppp2pp/5p2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Perhaps it was White who made the bigger mistake.
+6,d5,d7d5,rnbqkbnr/ppp3pp/5p2/3pp3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Both players are pushing their pawns for control of the center. Ultimately, though, this is not the best move for Black. White can now play 4. dxe5."
+7,dxe5,d4e5,rnbqkbnr/ppp3pp/5p2/3pP3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,A good move by White. Note that Black's king cannot castle after 5. ... Kxd8.
+8,dxe4,d5e4,rnbqkbnr/ppp3pp/5p2/4P3/4p3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,A good move by White. Note that Black's king cannot castle after 5. ... Kxd8.
+9,Qxd8+,d1d8,rnbQkbnr/ppp3pp/5p2/4P3/4p3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5,A good move by White. Note that Black's king cannot castle after 5. ... Kxd8.
+10,Kxd8,e8d8,rnbk1bnr/ppp3pp/5p2/4P3/4p3/5N2/PPP2PPP/RNB1KB1R w KQ - 0 6,"A blunder, as White has left his knight on f3 open to capture by Black's pawn. However, Black, too, fails to see it."
+11,Bc4,f1c4,rnbk1bnr/ppp3pp/5p2/4P3/2B1p3/5N2/PPP2PPP/RNB1K2R b KQ - 1 6,"A blunder, as White has left his knight on f3 open to capture by Black's pawn. However, Black, too, fails to see it."
+12,Be7,f8e7,rnbk2nr/ppp1b1pp/5p2/4P3/2B1p3/5N2/PPP2PPP/RNB1K2R w KQ - 2 7,White again making no attempt to do anything about the knight.
+13,Be3,c1e3,rnbk2nr/ppp1b1pp/5p2/4P3/2B1p3/4BN2/PPP2PPP/RN2K2R b KQ - 3 7,White again making no attempt to do anything about the knight.
+14,Bg4,c8g4,rn1k2nr/ppp1b1pp/5p2/4P3/2B1p1b1/4BN2/PPP2PPP/RN2K2R w KQ - 4 8,"While it may appear to be a simple pawn exchange, after 8. ... Bxf6 Black's kingside structure is not very strong."
+15,exf6,e5f6,rn1k2nr/ppp1b1pp/5P2/8/2B1p1b1/4BN2/PPP2PPP/RN2K2R b KQ - 0 8,"While it may appear to be a simple pawn exchange, after 8. ... Bxf6 Black's kingside structure is not very strong."
+16,Bxf6,e7f6,rn1k2nr/ppp3pp/5b2/8/2B1p1b1/4BN2/PPP2PPP/RN2K2R w KQ - 0 9,"Both White and Black have been making very large mistakes here. Black, now, could have taken with the pawn. Perhaps White was simply employing what Robin Shaw coined as 'blufftics,' and Black thought that there was a trap set for him in case he took with the pawn. In the end, one can only look at the board and wonder what was going on."
+17,Bg5,e3g5,rn1k2nr/ppp3pp/5b2/6B1/2B1p1b1/5N2/PPP2PPP/RN2K2R b KQ - 1 9,"Both White and Black have been making very large mistakes here. Black, now, could have taken with the pawn. Perhaps White was simply employing what Robin Shaw coined as 'blufftics,' and Black thought that there was a trap set for him in case he took with the pawn. In the end, one can only look at the board and wonder what was going on."
+18,Bxf3,g4f3,rn1k2nr/ppp3pp/5b2/6B1/2B1p3/5b2/PPP2PPP/RN2K2R w KQ - 0 10,"Both White and Black have been making very large mistakes here. Black, now, could have taken with the pawn. Perhaps White was simply employing what Robin Shaw coined as 'blufftics,' and Black thought that there was a trap set for him in case he took with the pawn. In the end, one can only look at the board and wonder what was going on."
+19,Bxf6+,g5f6,rn1k2nr/ppp3pp/5B2/8/2B1p3/5b2/PPP2PPP/RN2K2R b KQ - 0 10,If White had played 10. gxf3 Black could have captured the bishop on g5 and won a piece.
+20,Nxf6,g8f6,rn1k3r/ppp3pp/5n2/8/2B1p3/5b2/PPP2PPP/RN2K2R w KQ - 0 11,"White is down a pawn, but his bishop on c4 is very strong compared to Black's knight on f6. Note that both players have weak kingside structures."
+21,gxf3,g2f3,rn1k3r/ppp3pp/5n2/8/2B1p3/5P2/PPP2P1P/RN2K2R b KQ - 0 11,"White is down a pawn, but his bishop on c4 is very strong compared to Black's knight on f6. Note that both players have weak kingside structures."
+22,exf3,e4f3,rn1k3r/ppp3pp/5n2/8/2B5/5p2/PPP2P1P/RN2K2R w KQ - 0 12,"White is down a pawn, but his bishop on c4 is very strong compared to Black's knight on f6. Note that both players have weak kingside structures."
+23,Nd2,b1d2,rn1k3r/ppp3pp/5n2/8/2B5/5p2/PPPN1P1P/R3K2R b KQ - 1 12,White now prepares to slaughter the pawn on f3. Black can't defend it.
+24,Nc6,b8c6,r2k3r/ppp3pp/2n2n2/8/2B5/5p2/PPPN1P1P/R3K2R w KQ - 2 13,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+25,Nxf3,d2f3,r2k3r/ppp3pp/2n2n2/8/2B5/5N2/PPP2P1P/R3K2R b KQ - 0 13,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+26,Ke7,d8e7,r6r/ppp1k1pp/2n2n2/8/2B5/5N2/PPP2P1P/R3K2R w KQ - 1 14,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+27,O-O-O,e1c1,r6r/ppp1k1pp/2n2n2/8/2B5/5N2/PPP2P1P/2KR3R b - - 2 14,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+28,Rad8,a8d8,3r3r/ppp1k1pp/2n2n2/8/2B5/5N2/PPP2P1P/2KR3R w - - 3 15,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+29,Rhe1+,h1e1,3r3r/ppp1k1pp/2n2n2/8/2B5/5N2/PPP2P1P/2KRR3 b - - 4 15,"White's two rooks are now a very formidable fighting force down on the first rank, with two open files before them."
+30,Kf8,e7f8,3r1k1r/ppp3pp/2n2n2/8/2B5/5N2/PPP2P1P/2KRR3 w - - 5 16,"White is aiming to win the knight. If the pawn on b7 recaptures, White can take the rook on d8, check the Black king, and then win the second Black rook."
+31,Bb5,c4b5,3r1k1r/ppp3pp/2n2n2/1B6/8/5N2/PPP2P1P/2KRR3 b - - 6 16,"White is aiming to win the knight. If the pawn on b7 recaptures, White can take the rook on d8, check the Black king, and then win the second Black rook."
+32,Rxd1+,d8d1,5k1r/ppp3pp/2n2n2/1B6/8/5N2/PPP2P1P/2KrR3 w - - 0 17,Black is not so keen on such an eventuation.
+33,Rxd1,e1d1,5k1r/ppp3pp/2n2n2/1B6/8/5N2/PPP2P1P/2KR4 b - - 0 17,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+34,Kf7,f8f7,7r/ppp2kpp/2n2n2/1B6/8/5N2/PPP2P1P/2KR4 w - - 1 18,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+35,Ng5+,f3g5,7r/ppp2kpp/2n2n2/1B4N1/8/8/PPP2P1P/2KR4 b - - 2 18,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+36,Kg6,f7g6,7r/ppp3pp/2n2nk1/1B4N1/8/8/PPP2P1P/2KR4 w - - 3 19,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+37,h4,h2h4,7r/ppp3pp/2n2nk1/1B4N1/7P/8/PPP2P2/2KR4 b - - 0 19,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+38,Kh5,g6h5,7r/ppp3pp/2n2n2/1B4Nk/7P/8/PPP2P2/2KR4 w - - 1 20,"It may be a bit foolish of Black to be moving his king so much around the board, seeing that White has the advantage and might encircle him with his very active pieces."
+39,Rh1,d1h1,7r/ppp3pp/2n2n2/1B4Nk/7P/8/PPP2P2/2K4R b - - 2 20,"Note that by this time, the area around the Black king is very tight, and White takes advantage of that."
+40,Ne5,c6e5,7r/ppp3pp/5n2/1B2n1Nk/7P/8/PPP2P2/2K4R w - - 3 21,"Note that by this time, the area around the Black king is very tight, and White takes advantage of that."
+41,Be2+,b5e2,7r/ppp3pp/5n2/4n1Nk/7P/8/PPP1BP2/2K4R b - - 4 21,Black could also move either knight to g4 to defend against the check.
+42,Kg6,h5g6,7r/ppp3pp/5nk1/4n1N1/7P/8/PPP1BP2/2K4R w - - 5 22,Black could also move either knight to g4 to defend against the check.
+43,Rg1,h1g1,7r/ppp3pp/5nk1/4n1N1/7P/8/PPP1BP2/2K3R1 b - - 6 22,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+44,h6,h7h6,7r/ppp3p1/5nkp/4n1N1/7P/8/PPP1BP2/2K3R1 w - - 0 23,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+45,Ne6+,g5e6,7r/ppp3p1/4Nnkp/4n3/7P/8/PPP1BP2/2K3R1 b - - 1 23,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+46,Kf7,g6f7,7r/ppp2kp1/4Nn1p/4n3/7P/8/PPP1BP2/2K3R1 w - - 2 24,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+47,Nxc7,e6c7,7r/ppN2kp1/5n1p/4n3/7P/8/PPP1BP2/2K3R1 b - - 0 24,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+48,Ne4,f6e4,7r/ppN2kp1/7p/4n3/4n2P/8/PPP1BP2/2K3R1 w - - 1 25,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+49,Bh5+,e2h5,7r/ppN2kp1/7p/4n2B/4n2P/8/PPP2P2/2K3R1 b - - 2 25,"A desperate move by White. He doesn't really seem to have a plan, and goes for a simple check."
+50,g6,g7g6,7r/ppN2k2/6pp/4n2B/4n2P/8/PPP2P2/2K3R1 w - - 0 26,A big mistake by Black. For now White can win his knight.
+51,Bd1,h5d1,7r/ppN2k2/6pp/4n3/4n2P/8/PPP2P2/2KB2R1 b - - 1 26,A big mistake by Black. For now White can win his knight.
+52,Nxf2,e4f2,7r/ppN2k2/6pp/4n3/7P/8/PPP2n2/2KB2R1 w - - 0 27,A big mistake by Black. For now White can win his knight.

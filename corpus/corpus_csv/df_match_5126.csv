@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Vienna Gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Vienna Gambit
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Vienna Gambit
+4,a6,a7a6,rnbqkbnr/1ppp1ppp/p7/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Vienna Gambit
+5,f4,f2f4,rnbqkbnr/1ppp1ppp/p7/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3,Vienna Gambit
+6,g6,g7g6,rnbqkbnr/1ppp1p1p/p5p1/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4,An odd move; I'm not sure what the intent was.  Perhaps trying to prevent 4. f5?
+7,fxe5,f4e5,rnbqkbnr/1ppp1p1p/p5p1/4P3/4P3/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 4,"No matter, I'll take the free pawn."
+8,Bb4,f8b4,rnbqk1nr/1ppp1p1p/p5p1/4P3/1b2P3/2N5/PPPP2PP/R1BQKBNR w KQkq - 1 5,Continuing my development and protecting my investment at e5.
+9,Nf3,g1f3,rnbqk1nr/1ppp1p1p/p5p1/4P3/1b2P3/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 2 5,Continuing my development and protecting my investment at e5.
+10,Nc6,b8c6,r1bqk1nr/1ppp1p1p/p1n3p1/4P3/1b2P3/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 3 6,Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.
+11,Bc4,f1c4,r1bqk1nr/1ppp1p1p/p1n3p1/4P3/1bB1P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 4 6,Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.
+12,d6,d7d6,r1bqk1nr/1pp2p1p/p1np2p1/4P3/1bB1P3/2N2N2/PPPP2PP/R1BQK2R w KQkq - 0 7,Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.
+13,exd6,e5d6,r1bqk1nr/1pp2p1p/p1nP2p1/8/1bB1P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 0 7,Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.
+14,Bxd6,b4d6,r1bqk1nr/1pp2p1p/p1nb2p1/8/2B1P3/2N2N2/PPPP2PP/R1BQK2R w KQkq - 0 8,Was this simply to avoid creating an isolated pawn with 7. ... cxd6?  Seems a poor choice that wastes time.
+15,d4,d2d4,r1bqk1nr/1pp2p1p/p1nb2p1/8/2BPP3/2N2N2/PPP3PP/R1BQK2R b KQkq - 0 8,"I'm already eyeing the bishop sacrifice, but I need to finish my development by letting my dark bishop out to give support to my king's knight."
+16,Bb4,d6b4,r1bqk1nr/1pp2p1p/p1n3p1/8/1bBPP3/2N2N2/PPP3PP/R1BQK2R w KQkq - 1 9,"The surplus material obtained earlier lessens the effect of the sacrifice of material now, but it would not have mattered even without it.  The black king is completely denuded of pawns or protection of any kind.
+
+This is essentially the beginning of the end for black since I pretty much ""drive the bus"" from this point.  White has control of the center, superior development, and greater space (+3 P.C.).  Black has the half-open d file, an entire series of pawn holes (weak-square complex), a compromised king side, and his king is now held in the middle (-2 P.C.) putting White around 5 points ahead (despite what the computer analysis says).  Even counting the material (which is difficult in sacrifice scenarios--I'm about to be down a pawn), White is ahead by around 2 points."
+17,Bxf7+,c4f7,r1bqk1nr/1pp2B1p/p1n3p1/8/1b1PP3/2N2N2/PPP3PP/R1BQK2R b KQkq - 0 9,"The surplus material obtained earlier lessens the effect of the sacrifice of material now, but it would not have mattered even without it.  The black king is completely denuded of pawns or protection of any kind.
+
+This is essentially the beginning of the end for black since I pretty much ""drive the bus"" from this point.  White has control of the center, superior development, and greater space (+3 P.C.).  Black has the half-open d file, an entire series of pawn holes (weak-square complex), a compromised king side, and his king is now held in the middle (-2 P.C.) putting White around 5 points ahead (despite what the computer analysis says).  Even counting the material (which is difficult in sacrifice scenarios--I'm about to be down a pawn), White is ahead by around 2 points."
+18,Kxf7,e8f7,r1bq2nr/1pp2k1p/p1n3p1/8/1b1PP3/2N2N2/PPP3PP/R1BQK2R w KQ - 0 10,It would've been interesting to see what would've happened with 12. dxc6 Qxd1 13. Kxd1.
+19,Ng5+,f3g5,r1bq2nr/1pp2k1p/p1n3p1/6N1/1b1PP3/2N5/PPP3PP/R1BQK2R b KQ - 1 10,It would've been interesting to see what would've happened with 12. dxc6 Qxd1 13. Kxd1.
+20,Ke7,f7e7,r1bq2nr/1pp1k2p/p1n3p1/6N1/1b1PP3/2N5/PPP3PP/R1BQK2R w KQ - 2 11,It would've been interesting to see what would've happened with 12. dxc6 Qxd1 13. Kxd1.
+21,d5,d4d5,r1bq2nr/1pp1k2p/p1n3p1/3P2N1/1b2P3/2N5/PPP3PP/R1BQK2R b KQ - 0 11,It would've been interesting to see what would've happened with 12. dxc6 Qxd1 13. Kxd1.
+22,Ne5,c6e5,r1bq2nr/1pp1k2p/p5p1/3Pn1N1/1b2P3/2N5/PPP3PP/R1BQK2R w KQ - 1 12,"The computer analysis called this a blunder.  This makes no sense to me.  Neither does the computer's continuation after this move.  I've occupied an advanced outpost (+1 P.C.) that threatens the black queen.  In general, I'm keeping the pressure on and continuing to force black's hand."
+23,Ne6,g5e6,r1bq2nr/1pp1k2p/p3N1p1/3Pn3/1b2P3/2N5/PPP3PP/R1BQK2R b KQ - 2 12,"The computer analysis called this a blunder.  This makes no sense to me.  Neither does the computer's continuation after this move.  I've occupied an advanced outpost (+1 P.C.) that threatens the black queen.  In general, I'm keeping the pressure on and continuing to force black's hand."
+24,Bxe6,c8e6,r2q2nr/1pp1k2p/p3b1p1/3Pn3/1b2P3/2N5/PPP3PP/R1BQK2R w KQ - 0 13,Zwischenzug
+25,Bg5+,c1g5,r2q2nr/1pp1k2p/p3b1p1/3Pn1B1/1b2P3/2N5/PPP3PP/R2QK2R b KQ - 1 13,Zwischenzug
+26,Nf6,g8f6,r2q3r/1pp1k2p/p3bnp1/3Pn1B1/1b2P3/2N5/PPP3PP/R2QK2R w KQ - 2 14,"Takes control of the open f file (+1 P.C.), breaks the pin on the white knight, and moves the white king to safety while checking the black king."
+27,Bxf6+,g5f6,r2q3r/1pp1k2p/p3bBp1/3Pn3/1b2P3/2N5/PPP3PP/R2QK2R b KQ - 0 14,"Takes control of the open f file (+1 P.C.), breaks the pin on the white knight, and moves the white king to safety while checking the black king."
+28,Kxf6,e7f6,r2q3r/1pp4p/p3bkp1/3Pn3/1b2P3/2N5/PPP3PP/R2QK2R w KQ - 0 15,"Takes control of the open f file (+1 P.C.), breaks the pin on the white knight, and moves the white king to safety while checking the black king."
+29,O-O+,e1g1,r2q3r/1pp4p/p3bkp1/3Pn3/1b2P3/2N5/PPP3PP/R2Q1RK1 b - - 1 15,"Takes control of the open f file (+1 P.C.), breaks the pin on the white knight, and moves the white king to safety while checking the black king."
+30,Bf5,e6f5,r2q3r/1pp4p/p4kp1/3Pnb2/1b2P3/2N5/PPP3PP/R2Q1RK1 w - - 2 16,"Another odd choice, but granted--black is running out of good choices."
+31,Qd4,d1d4,r2q3r/1pp4p/p4kp1/3Pnb2/1b1QP3/2N5/PPP3PP/R4RK1 b - - 3 16,"Already eyeing Qf2, but first pins the black knight in preparation for g4.  At this point, I'd not noticed the combination that would ultimately occur, so these next several moves could likely have been omitted."
+32,c5,c7c5,r2q3r/1p5p/p4kp1/2pPnb2/1b1QP3/2N5/PPP3PP/R4RK1 w - c6 0 17,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+33,Qf2,d4f2,r2q3r/1p5p/p4kp1/2pPnb2/1b2P3/2N5/PPP2QPP/R4RK1 b - - 1 17,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+34,Qd7,d8d7,r6r/1p1q3p/p4kp1/2pPnb2/1b2P3/2N5/PPP2QPP/R4RK1 w - - 2 18,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+35,g4,g2g4,r6r/1p1q3p/p4kp1/2pPnb2/1b2P1P1/2N5/PPP2Q1P/R4RK1 b - - 0 18,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+36,Nxg4,e5g4,r6r/1p1q3p/p4kp1/2pP1b2/1b2P1n1/2N5/PPP2Q1P/R4RK1 w - - 0 19,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+37,Qh4+,f2h4,r6r/1p1q3p/p4kp1/2pP1b2/1b2P1nQ/2N5/PPP4P/R4RK1 b - - 1 19,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+38,g5,g6g5,r6r/1p1q3p/p4k2/2pP1bp1/1b2P1nQ/2N5/PPP4P/R4RK1 w - - 0 20,Blunder.  Black's light bishop is pinned--time to cash in my chips.
+39,Qxg4,h4g4,r6r/1p1q3p/p4k2/2pP1bp1/1b2P1Q1/2N5/PPP4P/R4RK1 b - - 0 20,
+40,h5,h7h5,r6r/1p1q4/p4k2/2pP1bpp/1b2P1Q1/2N5/PPP4P/R4RK1 w - - 0 21,
+41,Rxf5+,f1f5,r6r/1p1q4/p4k2/2pP1Rpp/1b2P1Q1/2N5/PPP4P/R5K1 b - - 0 21,
+42,Ke7,f6e7,r6r/1p1qk3/p7/2pP1Rpp/1b2P1Q1/2N5/PPP4P/R5K1 w - - 1 22,
+43,Qxg5+,g4g5,r6r/1p1qk3/p7/2pP1RQp/1b2P3/2N5/PPP4P/R5K1 b - - 0 22,
+44,Ke8,e7e8,r3k2r/1p1q4/p7/2pP1RQp/1b2P3/2N5/PPP4P/R5K1 w - - 1 23,
+45,Re5+,f5e5,r3k2r/1p1q4/p7/2pPR1Qp/1b2P3/2N5/PPP4P/R5K1 b - - 2 23,
+46,Kf8,e8f8,r4k1r/1p1q4/p7/2pPR1Qp/1b2P3/2N5/PPP4P/R5K1 w - - 3 24,
+47,Rf1+,a1f1,r4k1r/1p1q4/p7/2pPR1Qp/1b2P3/2N5/PPP4P/5RK1 b - - 4 24,
+48,Qf7,d7f7,r4k1r/1p3q2/p7/2pPR1Qp/1b2P3/2N5/PPP4P/5RK1 w - - 5 25,
+49,Qe7+,g5e7,r4k1r/1p2Qq2/p7/2pPR2p/1b2P3/2N5/PPP4P/5RK1 b - - 6 25,
+50,Kg7,f8g7,r6r/1p2Qqk1/p7/2pPR2p/1b2P3/2N5/PPP4P/5RK1 w - - 7 26,
+51,Qxf7+,e7f7,r6r/1p3Qk1/p7/2pPR2p/1b2P3/2N5/PPP4P/5RK1 b - - 0 26,
+52,Kh6,g7h6,r6r/1p3Q2/p6k/2pPR2p/1b2P3/2N5/PPP4P/5RK1 w - - 1 27,
+53,Rf6#,f1f6,r6r/1p3Q2/p4R1k/2pPR2p/1b2P3/2N5/PPP4P/6K1 b - - 2 27,

@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's pawn opening.  This move is very unusual--d5 is the overwhelmingly most popular response.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queen's pawn opening.  This move is very unusual--d5 is the overwhelmingly most popular response.
+3,e4,e2e4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Queen's pawn opening.  This move is very unusual--d5 is the overwhelmingly most popular response.
+4,e5,e6e5,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Queen's pawn opening.  This move is very unusual--d5 is the overwhelmingly most popular response.
+5,d5,d4d5,rnbqkbnr/pppp1ppp/8/3Pp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Not in the database.  But it is how I would have responded as white.
+6,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2bPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,Black has moved two pieces two times.
+7,Nc3,b1c3,rnbqk1nr/pppp1ppp/8/2bPp3/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 4,Black has moved two pieces two times.
+8,Bb4,c5b4,rnbqk1nr/pppp1ppp/8/3Pp3/1b2P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 5,Black has moved two pieces two times.
+9,Bd2,c1d2,rnbqk1nr/pppp1ppp/8/3Pp3/1b2P3/2N5/PPPB1PPP/R2QKBNR b KQkq - 4 5,QxBh6+ would also have been interesting.
+10,Qf6,d8f6,rnb1k1nr/pppp1ppp/5q2/3Pp3/1b2P3/2N5/PPPB1PPP/R2QKBNR w KQkq - 5 6,QxBh6+ would also have been interesting.
+11,Qf3,d1f3,rnb1k1nr/pppp1ppp/5q2/3Pp3/1b2P3/2N2Q2/PPPB1PPP/R3KBNR b KQkq - 6 6,QxBh6+ would also have been interesting.
+12,d6,d7d6,rnb1k1nr/ppp2ppp/3p1q2/3Pp3/1b2P3/2N2Q2/PPPB1PPP/R3KBNR w KQkq - 0 7,QxBh6+ would also have been interesting.
+13,O-O-O,e1c1,rnb1k1nr/ppp2ppp/3p1q2/3Pp3/1b2P3/2N2Q2/PPPB1PPP/2KR1BNR b kq - 1 7,QxBh6+ would also have been interesting.
+14,Nh6,g8h6,rnb1k2r/ppp2ppp/3p1q1n/3Pp3/1b2P3/2N2Q2/PPPB1PPP/2KR1BNR w kq - 2 8,QxBh6+ would also have been interesting.
+15,Bxh6,d2h6,rnb1k2r/ppp2ppp/3p1q1B/3Pp3/1b2P3/2N2Q2/PPP2PPP/2KR1BNR b kq - 0 8,QxBh6+ would also have been interesting.
+16,Qxf3,f6f3,rnb1k2r/ppp2ppp/3p3B/3Pp3/1b2P3/2N2q2/PPP2PPP/2KR1BNR w kq - 0 9,QxBh6+ would also have been interesting.
+17,Nxf3,g1f3,rnb1k2r/ppp2ppp/3p3B/3Pp3/1b2P3/2N2N2/PPP2PPP/2KR1B1R b kq - 0 9,Pf2 is undefended.
+18,gxh6,g7h6,rnb1k2r/ppp2p1p/3p3p/3Pp3/1b2P3/2N2N2/PPP2PPP/2KR1B1R w kq - 0 10,Pf2 is undefended.
+19,Nb5,c3b5,rnb1k2r/ppp2p1p/3p3p/1N1Pp3/1b2P3/5N2/PPP2PPP/2KR1B1R b kq - 1 10,Pf2 is undefended.
+20,Na6,b8a6,r1b1k2r/ppp2p1p/n2p3p/1N1Pp3/1b2P3/5N2/PPP2PPP/2KR1B1R w kq - 2 11,Pf2 is undefended.
+21,c3,c2c3,r1b1k2r/ppp2p1p/n2p3p/1N1Pp3/1b2P3/2P2N2/PP3PPP/2KR1B1R b kq - 0 11,Pf2 is undefended.
+22,Bc5,b4c5,r1b1k2r/ppp2p1p/n2p3p/1NbPp3/4P3/2P2N2/PP3PPP/2KR1B1R w kq - 1 12,Pf2 is undefended.
+23,b4,b2b4,r1b1k2r/ppp2p1p/n2p3p/1NbPp3/1P2P3/2P2N2/P4PPP/2KR1B1R b kq - 0 12,Pf2 is undefended.
+24,Bxf2,c5f2,r1b1k2r/ppp2p1p/n2p3p/1N1Pp3/1P2P3/2P2N2/P4bPP/2KR1B1R w kq - 0 13,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+25,Kb2,c1b2,r1b1k2r/ppp2p1p/n2p3p/1N1Pp3/1P2P3/2P2N2/PK3bPP/3R1B1R b kq - 1 13,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+26,Bd7,c8d7,r3k2r/pppb1p1p/n2p3p/1N1Pp3/1P2P3/2P2N2/PK3bPP/3R1B1R w kq - 2 14,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+27,Na3,b5a3,r3k2r/pppb1p1p/n2p3p/3Pp3/1P2P3/N1P2N2/PK3bPP/3R1B1R b kq - 3 14,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+28,O-O-O,e8c8,2kr3r/pppb1p1p/n2p3p/3Pp3/1P2P3/N1P2N2/PK3bPP/3R1B1R w - - 4 15,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+29,Bxa6,f1a6,2kr3r/pppb1p1p/B2p3p/3Pp3/1P2P3/N1P2N2/PK3bPP/3R3R b - - 0 15,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+30,bxa6,b7a6,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2P3/N1P2N2/PK3bPP/3R3R w - - 0 16,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+31,Rhf1,h1f1,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2P3/N1P2N2/PK3bPP/3R1R2 b - - 1 16,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+32,Be3,f2e3,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2P3/N1P1bN2/PK4PP/3R1R2 w - - 2 17,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+33,Nh4,f3h4,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2P2N/N1P1b3/PK4PP/3R1R2 b - - 3 17,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+34,Bf4,e3f4,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2Pb1N/N1P5/PK4PP/3R1R2 w - - 4 18,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+35,g3,g2g3,2kr3r/p1pb1p1p/p2p3p/3Pp3/1P2Pb1N/N1P3P1/PK5P/3R1R2 b - - 0 18,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+36,Bg5,f4g5,2kr3r/p1pb1p1p/p2p3p/3Pp1b1/1P2P2N/N1P3P1/PK5P/3R1R2 w - - 1 19,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+37,Ng2,h4g2,2kr3r/p1pb1p1p/p2p3p/3Pp1b1/1P2P3/N1P3P1/PK4NP/3R1R2 b - - 2 19,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+38,Bh3,d7h3,2kr3r/p1p2p1p/p2p3p/3Pp1b1/1P2P3/N1P3Pb/PK4NP/3R1R2 w - - 3 20,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+39,Rf2,f1f2,2kr3r/p1p2p1p/p2p3p/3Pp1b1/1P2P3/N1P3Pb/PK3RNP/3R4 b - - 4 20,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+40,Bxg2,h3g2,2kr3r/p1p2p1p/p2p3p/3Pp1b1/1P2P3/N1P3P1/PK3RbP/3R4 w - - 0 21,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+41,Rxg2,f2g2,2kr3r/p1p2p1p/p2p3p/3Pp1b1/1P2P3/N1P3P1/PK4RP/3R4 b - - 0 21,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+42,Rdf8,d8f8,2k2r1r/p1p2p1p/p2p3p/3Pp1b1/1P2P3/N1P3P1/PK4RP/3R4 w - - 1 22,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+43,Nc4,a3c4,2k2r1r/p1p2p1p/p2p3p/3Pp1b1/1PN1P3/2P3P1/PK4RP/3R4 b - - 2 22,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+44,Kd7,c8d7,5r1r/p1pk1p1p/p2p3p/3Pp1b1/1PN1P3/2P3P1/PK4RP/3R4 w - - 3 23,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+45,h4,h2h4,5r1r/p1pk1p1p/p2p3p/3Pp1b1/1PN1P2P/2P3P1/PK4R1/3R4 b - - 0 23,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+46,Bf6,g5f6,5r1r/p1pk1p1p/p2p1b1p/3Pp3/1PN1P2P/2P3P1/PK4R1/3R4 w - - 1 24,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+47,Rf2,g2f2,5r1r/p1pk1p1p/p2p1b1p/3Pp3/1PN1P2P/2P3P1/PK3R2/3R4 b - - 2 24,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+48,Bg7,f6g7,5r1r/p1pk1pbp/p2p3p/3Pp3/1PN1P2P/2P3P1/PK3R2/3R4 w - - 3 25,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+49,Na5,c4a5,5r1r/p1pk1pbp/p2p3p/N2Pp3/1P2P2P/2P3P1/PK3R2/3R4 b - - 4 25,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+50,f6,f7f6,5r1r/p1pk2bp/p2p1p1p/N2Pp3/1P2P2P/2P3P1/PK3R2/3R4 w - - 0 26,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+51,Nc6,a5c6,5r1r/p1pk2bp/p1Np1p1p/3Pp3/1P2P2P/2P3P1/PK3R2/3R4 b - - 1 26,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+52,Rfa8,f8a8,r6r/p1pk2bp/p1Np1p1p/3Pp3/1P2P2P/2P3P1/PK3R2/3R4 w - - 2 27,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+53,Kb3,b2b3,r6r/p1pk2bp/p1Np1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 b - - 3 27,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+54,a5,a6a5,r6r/p1pk2bp/2Np1p1p/p2Pp3/1P2P2P/1KP3P1/P4R2/3R4 w - - 0 28,Seems like black is tossing his pawn advantage.  But those doubled pawns are not worth a whole lot.
+55,Nxa5,c6a5,r6r/p1pk2bp/3p1p1p/N2Pp3/1P2P2P/1KP3P1/P4R2/3R4 b - - 0 28,"While anything but obvious now, white will come to regret snatching that pawn."
+56,Rab8,a8b8,1r5r/p1pk2bp/3p1p1p/N2Pp3/1P2P2P/1KP3P1/P4R2/3R4 w - - 1 29,"While anything but obvious now, white will come to regret snatching that pawn."
+57,Nc6,a5c6,1r5r/p1pk2bp/2Np1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 b - - 2 29,"While anything but obvious now, white will come to regret snatching that pawn."
+58,Rb6,b8b6,7r/p1pk2bp/1rNp1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 w - - 3 30,"While anything but obvious now, white will come to regret snatching that pawn."
+59,Nxa7,c6a7,7r/N1pk2bp/1r1p1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 b - - 0 30,"While anything but obvious now, white will come to regret snatching that pawn."
+60,Ra8,h8a8,r7/N1pk2bp/1r1p1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 w - - 1 31,"This was probably a blunder.  The white king can get pushed back, and white risks losing Rf2 as a consequence."
+61,Nc6,a7c6,r7/2pk2bp/1rNp1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 b - - 2 31,"This was probably a blunder.  The white king can get pushed back, and white risks losing Rf2 as a consequence."
+62,Rba6,b6a6,r7/2pk2bp/r1Np1p1p/3Pp3/1P2P2P/1KP3P1/P4R2/3R4 w - - 3 32,"This was probably a blunder.  The white king can get pushed back, and white risks losing Rf2 as a consequence."
+63,c4,c3c4,r7/2pk2bp/r1Np1p1p/3Pp3/1PP1P2P/1K4P1/P4R2/3R4 b - - 0 32,"This was probably a blunder.  The white king can get pushed back, and white risks losing Rf2 as a consequence."
+64,Ra6a3+,a6a3,r7/2pk2bp/2Np1p1p/3Pp3/1PP1P2P/rK4P1/P4R2/3R4 w - - 1 33,A definite blunder.  Black brilliantly goes for the white king's throat instead of snatching the free rook.
+65,Kc2,b3c2,r7/2pk2bp/2Np1p1p/3Pp3/1PP1P2P/r5P1/P1K2R2/3R4 b - - 2 33,A definite blunder.  Black brilliantly goes for the white king's throat instead of snatching the free rook.
+66,Ra3xa2+,a3a2,r7/2pk2bp/2Np1p1p/3Pp3/1PP1P2P/6P1/r1K2R2/3R4 w - - 0 34,A definite blunder.  Black brilliantly goes for the white king's throat instead of snatching the free rook.
+67,Kd3,c2d3,r7/2pk2bp/2Np1p1p/3Pp3/1PP1P2P/3K2P1/r4R2/3R4 b - - 1 34,A definite blunder.  Black brilliantly goes for the white king's throat instead of snatching the free rook.
+68,Ra8a3#,a8a3,8/2pk2bp/2Np1p1p/3Pp3/1PP1P2P/r2K2P1/r4R2/3R4 w - - 2 35,

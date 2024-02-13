@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is known as the Gunderam defense.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This is known as the Gunderam defense.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This is known as the Gunderam defense.
+4,Qe7,d8e7,rnb1kbnr/ppppqppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is known as the Gunderam defense.
+5,d4,d2d4,rnb1kbnr/ppppqppp/8/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Nc3 is usually a pretty popular response instead, since Nd5 is protected by Pe4 and can be followed by NxPc7+ which forks the king and rook.  Black has decent defenses against that, though."
+6,a5,a7a5,rnb1kbnr/1pppqppp/8/p3p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Black usually plays d6 or Nc6 or Nf6.  Pa5 is not really recommended.
+7,dxe5,d4e5,rnb1kbnr/1pppqppp/8/p3P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"I would lean towards QxPd6 instead, to prevent isolating that d pawn."
+8,d6,d7d6,rnb1kbnr/1pp1qppp/3p4/p3P3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,"I would lean towards QxPd6 instead, to prevent isolating that d pawn."
+9,exd6,e5d6,rnb1kbnr/1pp1qppp/3P4/p7/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 5,"I would lean towards QxPd6 instead, to prevent isolating that d pawn."
+10,cxd6,c7d6,rnb1kbnr/1p2qppp/3p4/p7/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 6,"I would lean towards QxPd6 instead, to prevent isolating that d pawn."
+11,Bb5+,f1b5,rnb1kbnr/1p2qppp/3p4/pB6/4P3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 6,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+12,Bd7,c8d7,rn2kbnr/1p1bqppp/3p4/pB6/4P3/5N2/PPP2PPP/RNBQK2R w KQkq - 2 7,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+13,Na3,b1a3,rn2kbnr/1p1bqppp/3p4/pB6/4P3/N4N2/PPP2PPP/R1BQK2R b KQkq - 3 7,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+14,Qxe4+,e7e4,rn2kbnr/1p1b1ppp/3p4/pB6/4q3/N4N2/PPP2PPP/R1BQK2R w KQkq - 0 8,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+15,Be3,c1e3,rn2kbnr/1p1b1ppp/3p4/pB6/4q3/N3BN2/PPP2PPP/R2QK2R b KQkq - 1 8,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+16,f6,f7f6,rn2kbnr/1p1b2pp/3p1p2/pB6/4q3/N3BN2/PPP2PPP/R2QK2R w KQkq - 0 9,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+17,Bd3,b5d3,rn2kbnr/1p1b2pp/3p1p2/p7/4q3/N2BBN2/PPP2PPP/R2QK2R b KQkq - 1 9,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+18,Qc6,e4c6,rn2kbnr/1p1b2pp/2qp1p2/p7/8/N2BBN2/PPP2PPP/R2QK2R w KQkq - 2 10,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+19,Nb5,a3b5,rn2kbnr/1p1b2pp/2qp1p2/pN6/8/3BBN2/PPP2PPP/R2QK2R b KQkq - 3 10,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+20,d5,d6d5,rn2kbnr/1p1b2pp/2q2p2/pN1p4/8/3BBN2/PPP2PPP/R2QK2R w KQkq - 0 11,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+21,Bf4,e3f4,rn2kbnr/1p1b2pp/2q2p2/pN1p4/5B2/3B1N2/PPP2PPP/R2QK2R b KQkq - 1 11,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+22,Bc5,f8c5,rn2k1nr/1p1b2pp/2q2p2/pNbp4/5B2/3B1N2/PPP2PPP/R2QK2R w KQkq - 2 12,"Oof.  Black should have played Na6, to protect against Nc7+.  Better yet, black should probably not have moved Pd5 earlier (10)."
+23,Nc7+,b5c7,rn2k1nr/1pNb2pp/2q2p2/p1bp4/5B2/3B1N2/PPP2PPP/R2QK2R b KQkq - 3 12,Qc8 might have been better.
+24,Kd8,e8d8,rn1k2nr/1pNb2pp/2q2p2/p1bp4/5B2/3B1N2/PPP2PPP/R2QK2R w KQ - 4 13,Qc8 might have been better.
+25,Nxa8,c7a8,Nn1k2nr/1p1b2pp/2q2p2/p1bp4/5B2/3B1N2/PPP2PPP/R2QK2R b KQ - 0 13,Qc8 might have been better.
+26,Na6,b8a6,N2k2nr/1p1b2pp/n1q2p2/p1bp4/5B2/3B1N2/PPP2PPP/R2QK2R w KQ - 1 14,Qc8 might have been better.
+27,Bxa6,d3a6,N2k2nr/1p1b2pp/B1q2p2/p1bp4/5B2/5N2/PPP2PPP/R2QK2R b KQ - 0 14,Good.  This prevents doubling pawns (PxNa6) while attacking Na8.
+28,Qxa6,c6a6,N2k2nr/1p1b2pp/q4p2/p1bp4/5B2/5N2/PPP2PPP/R2QK2R w KQ - 0 15,Good.  This prevents doubling pawns (PxNa6) while attacking Na8.
+29,Nc7,a8c7,3k2nr/1pNb2pp/q4p2/p1bp4/5B2/5N2/PPP2PPP/R2QK2R b KQ - 1 15,"I like Qb6 better, which attacks Pb2.  But this sets up BxPf2+, which eliminates white's ability to castle."
+30,Qa7,a6a7,3k2nr/qpNb2pp/5p2/p1bp4/5B2/5N2/PPP2PPP/R2QK2R w KQ - 2 16,"I like Qb6 better, which attacks Pb2.  But this sets up BxPf2+, which eliminates white's ability to castle."
+31,O-O,e1g1,3k2nr/qpNb2pp/5p2/p1bp4/5B2/5N2/PPP2PPP/R2Q1RK1 b - - 3 16,Unless white beats black to it.
+32,g5,g7g5,3k2nr/qpNb3p/5p2/p1bp2p1/5B2/5N2/PPP2PPP/R2Q1RK1 w - - 0 17,Here white is strongly encouraged to play QxPd5.
+33,Bg3,f4g3,3k2nr/qpNb3p/5p2/p1bp2p1/8/5NB1/PPP2PPP/R2Q1RK1 b - - 1 17,Here white is strongly encouraged to play QxPd5.
+34,h5,h7h5,3k2nr/qpNb4/5p2/p1bp2pp/8/5NB1/PPP2PPP/R2Q1RK1 w - - 0 18,Here white is strongly encouraged to play QxPd5.
+35,h4,h2h4,3k2nr/qpNb4/5p2/p1bp2pp/7P/5NB1/PPP2PP1/R2Q1RK1 b - - 0 18,Moving the castle pawns is generally not a great idea.
+36,Ne7,g8e7,3k3r/qpNbn3/5p2/p1bp2pp/7P/5NB1/PPP2PP1/R2Q1RK1 w - - 1 19,This was a good move on black's part.
+37,hxg5,h4g5,3k3r/qpNbn3/5p2/p1bp2Pp/8/5NB1/PPP2PP1/R2Q1RK1 b - - 0 19,"Black needed to either move the king to prevent Nf7+ rook fork on the other side.  Rf8 would have been another option, putting pressure on white's f pawn."
+38,fxg5,f6g5,3k3r/qpNbn3/8/p1bp2pp/8/5NB1/PPP2PP1/R2Q1RK1 w - - 0 20,"Black needed to either move the king to prevent Nf7+ rook fork on the other side.  Rf8 would have been another option, putting pressure on white's f pawn."
+39,Nxg5,f3g5,3k3r/qpNbn3/8/p1bp2Np/8/6B1/PPP2PP1/R2Q1RK1 b - - 0 20,"Black needed to either move the king to prevent Nf7+ rook fork on the other side.  Rf8 would have been another option, putting pressure on white's f pawn."
+40,Kc8,d8c8,2k4r/qpNbn3/8/p1bp2Np/8/6B1/PPP2PP1/R2Q1RK1 w - - 1 21,"Black needed to either move the king to prevent Nf7+ rook fork on the other side.  Rf8 would have been another option, putting pressure on white's f pawn."
+41,Be5,g3e5,2k4r/qpNbn3/8/p1bpB1Np/8/8/PPP2PP1/R2Q1RK1 b - - 2 21,"Black withdraws support of Ph5.  Of course the rook had to be moved, but Rf8 might have been better."
+42,Rg8,h8g8,2k3r1/qpNbn3/8/p1bpB1Np/8/8/PPP2PP1/R2Q1RK1 w - - 3 22,"Black withdraws support of Ph5.  Of course the rook had to be moved, but Rf8 might have been better."
+43,Qxh5,d1h5,2k3r1/qpNbn3/8/p1bpB1NQ/8/8/PPP2PP1/R4RK1 b - - 0 22,Solid move--this attacks Pb2.  If white trades he will need to move Nc7 or lose Pb2 to the black queen.
+44,Bd4,c5d4,2k3r1/qpNbn3/8/p2pB1NQ/3b4/8/PPP2PP1/R4RK1 w - - 1 23,Solid move--this attacks Pb2.  If white trades he will need to move Nc7 or lose Pb2 to the black queen.
+45,Bg3,e5g3,2k3r1/qpNbn3/8/p2p2NQ/3b4/6B1/PPP2PP1/R4RK1 b - - 2 23,Oops.  Black can play RxNg5.
+46,Bxb2,d4b2,2k3r1/qpNbn3/8/p2p2NQ/8/6B1/PbP2PP1/R4RK1 w - - 0 24,Oops.  Black can play RxNg5.
+47,Rae1,a1e1,2k3r1/qpNbn3/8/p2p2NQ/8/6B1/PbP2PP1/4RRK1 b - - 1 24,Oops.  Black can play RxNg5.
+48,Kd8,c8d8,3k2r1/qpNbn3/8/p2p2NQ/8/6B1/PbP2PP1/4RRK1 w - - 2 25,Oops.  Black can play RxNg5.
+49,Qf7,h5f7,3k2r1/qpNbnQ2/8/p2p2N1/8/6B1/PbP2PP1/4RRK1 b - - 3 25,Oops.  Black can play RxNg5.
+50,Re8,g8e8,3kr3/qpNbnQ2/8/p2p2N1/8/6B1/PbP2PP1/4RRK1 w - - 4 26,That was an awkward mistake.  White will certainly play NxRe8.  BxN will be answered with Ne6+ driving the king away from the bishop so QxBe8.
+51,Rxe7,e1e7,3kr3/qpNbRQ2/8/p2p2N1/8/6B1/PbP2PP1/5RK1 b - - 0 26,Completely not the way I would have played this.
+52,Rxe7,e8e7,3k4/qpNbrQ2/8/p2p2N1/8/6B1/PbP2PP1/5RK1 w - - 0 27,"I think I would have gone for Nce6+ instead, to protect the knight."
+53,Qf8+,f7f8,3k1Q2/qpNbr3/8/p2p2N1/8/6B1/PbP2PP1/5RK1 b - - 1 27,"I think I would have gone for Nce6+ instead, to protect the knight."
+54,Be8,d7e8,3kbQ2/qpN1r3/8/p2p2N1/8/6B1/PbP2PP1/5RK1 w - - 2 28,"I think I would have gone for Nce6+ instead, to protect the knight."
+55,Rd1,f1d1,3kbQ2/qpN1r3/8/p2p2N1/8/6B1/PbP2PP1/3R2K1 b - - 3 28,"I think I would have gone for Nce6+ instead, to protect the knight."
+56,d4,d5d4,3kbQ2/qpN1r3/8/p5N1/3p4/6B1/PbP2PP1/3R2K1 w - - 0 29,"While protecting that pawn is nice, RxNc7 is probably better.  RxPd5+, Rd7."

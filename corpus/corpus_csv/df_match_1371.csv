@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,All pretty standard so far.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,All pretty standard so far.
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,All pretty standard so far.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,All pretty standard so far.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,All pretty standard so far.
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,All pretty standard so far.
+7,Nbd2,b1d2,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,All pretty standard so far.
+8,Bd6,f8d6,rnbqk2r/ppp2ppp/3bpn2/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 2 5,All pretty standard so far.
+9,Ne5,f3e5,rnbqk2r/ppp2ppp/3bpn2/3pN3/3P1B2/8/PPPNPPPP/R2QKB1R b KQkq - 3 5,All pretty standard so far.
+10,Nc6,b8c6,r1bqk2r/ppp2ppp/2nbpn2/3pN3/3P1B2/8/PPPNPPPP/R2QKB1R w KQkq - 4 6,"White can go for the normal line, with Nd2-f3, or..."
+11,e3,e2e3,r1bqk2r/ppp2ppp/2nbpn2/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R b KQkq - 0 6,"White can go for the normal line, with Nd2-f3, or..."
+12,Nd7,f6d7,r1bqk2r/pppn1ppp/2nbp3/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R w KQkq - 1 7,"White can go for the normal line, with Nd2-f3, or..."
+13,Qg4,d1g4,r1bqk2r/pppn1ppp/2nbp3/3pN3/3P1BQ1/4P3/PPPN1PPP/R3KB1R b KQkq - 2 7,The fun begins here.
+14,g6,g7g6,r1bqk2r/pppn1p1p/2nbp1p1/3pN3/3P1BQ1/4P3/PPPN1PPP/R3KB1R w KQkq - 0 8,Now black has a ready made reaction: Qf6.
+15,Bg5,f4g5,r1bqk2r/pppn1p1p/2nbp1p1/3pN1B1/3P2Q1/4P3/PPPN1PPP/R3KB1R b KQkq - 1 8,Looking for complications.
+16,Ncxe5,c6e5,r1bqk2r/pppn1p1p/3bp1p1/3pn1B1/3P2Q1/4P3/PPPN1PPP/R3KB1R w KQkq - 0 9,"Just losing central pawns, or..."
+17,Qh4,g4h4,r1bqk2r/pppn1p1p/3bp1p1/3pn1B1/3P3Q/4P3/PPPN1PPP/R3KB1R b KQkq - 1 9,? Bad move.
+18,f6,f7f6,r1bqk2r/pppn3p/3bppp1/3pn1B1/3P3Q/4P3/PPPN1PPP/R3KB1R w KQkq - 0 10,Obvious.
+19,Bh6,g5h6,r1bqk2r/pppn3p/3bpppB/3pn3/3P3Q/4P3/PPPN1PPP/R3KB1R b KQkq - 1 10,A weak compensaiton for the piece.
+20,Nf7,e5f7,r1bqk2r/pppn1n1p/3bpppB/3p4/3P3Q/4P3/PPPN1PPP/R3KB1R w KQkq - 2 11,"If the Rmoves, Qxh7. Maybe the sac was not completely unsound."
+21,Bg7,h6g7,r1bqk2r/pppn1nBp/3bppp1/3p4/3P3Q/4P3/PPPN1PPP/R3KB1R b KQkq - 3 11,"If the Rmoves, Qxh7. Maybe the sac was not completely unsound."
+22,g5,g6g5,r1bqk2r/pppn1nBp/3bpp2/3p2p1/3P3Q/4P3/PPPN1PPP/R3KB1R w KQkq - 0 12,Black fails to find the right way: now the N is pinned.
+23,Qh5,h4h5,r1bqk2r/pppn1nBp/3bpp2/3p2pQ/3P4/4P3/PPPN1PPP/R3KB1R b KQkq - 1 12,Black fails to find the right way: now the N is pinned.
+24,Ke7,e8e7,r1bq3r/pppnknBp/3bpp2/3p2pQ/3P4/4P3/PPPN1PPP/R3KB1R w KQ - 2 13,"Not more scratches I can see, so I cash in."
+25,Bxh8,g7h8,r1bq3B/pppnkn1p/3bpp2/3p2pQ/3P4/4P3/PPPN1PPP/R3KB1R b KQ - 0 13,My position doesn't compensate for the piece.
+26,Qxh8,d8h8,r1b4q/pppnkn1p/3bpp2/3p2pQ/3P4/4P3/PPPN1PPP/R3KB1R w KQ - 0 14,My position doesn't compensate for the piece.
+27,Bd3,f1d3,r1b4q/pppnkn1p/3bpp2/3p2pQ/3P4/3BP3/PPPN1PPP/R3K2R b KQ - 1 14,End of my queen's journey.
+28,f5,f6f5,r1b4q/pppnkn1p/3bp3/3p1ppQ/3P4/3BP3/PPPN1PPP/R3K2R w KQ - 0 15,End of my queen's journey.
+29,O-O-O,e1c1,r1b4q/pppnkn1p/3bp3/3p1ppQ/3P4/3BP3/PPPN1PPP/2KR3R b - - 1 15,End of my queen's journey.
+30,Nf6,d7f6,r1b4q/ppp1kn1p/3bpn2/3p1ppQ/3P4/3BP3/PPPN1PPP/2KR3R w - - 2 16,End of my queen's journey.
+31,Qe2,h5e2,r1b4q/ppp1kn1p/3bpn2/3p1pp1/3P4/3BP3/PPPNQPPP/2KR3R b - - 3 16,"-1. It could be worse, but it's not the right way to play the opening for white."
+32,Bd7,c8d7,r6q/pppbkn1p/3bpn2/3p1pp1/3P4/3BP3/PPPNQPPP/2KR3R w - - 4 17,Both sides are cramped and slow. Black's impressive center will be hard to break.
+33,f3,f2f3,r6q/pppbkn1p/3bpn2/3p1pp1/3P4/3BPP2/PPPNQ1PP/2KR3R b - - 0 17,"Some space control, please!"
+34,c5,c7c5,r6q/pp1bkn1p/3bpn2/2pp1pp1/3P4/3BPP2/PPPNQ1PP/2KR3R w - - 0 18,"Of course, I am playing this to make room for my lsb, but is not my intention to move the c3 pawn from there."
+35,c3,c2c3,r6q/pp1bkn1p/3bpn2/2pp1pp1/3P4/2PBPP2/PP1NQ1PP/2KR3R b - - 0 18,"Of course, I am playing this to make room for my lsb, but is not my intention to move the c3 pawn from there."
+36,cxd4,c5d4,r6q/pp1bkn1p/3bpn2/3p1pp1/3p4/2PBPP2/PP1NQ1PP/2KR3R w - - 0 19,"? Black wants to open my queenside, but he is opening my e file!"
+37,exd4,e3d4,r6q/pp1bkn1p/3bpn2/3p1pp1/3P4/2PB1P2/PP1NQ1PP/2KR3R b - - 0 19,In a move I will force black to defend. An unusual position.
+38,Rc8,a8c8,2r4q/pp1bkn1p/3bpn2/3p1pp1/3P4/2PB1P2/PP1NQ1PP/2KR3R w - - 1 20,In a move I will force black to defend. An unusual position.
+39,Bxf5,d3f5,2r4q/pp1bkn1p/3bpn2/3p1Bp1/3P4/2P2P2/PP1NQ1PP/2KR3R b - - 0 20,In a move I will force black to defend. An unusual position.

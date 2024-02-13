@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Arash starts with the queen's pawn opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queens pawn game.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Queens pawn gambit. A rather safe gambit, in my opinion."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I respond with the Queen's gambit declined. I'll also be honest with you here: I don't know anything about openings beyond this move. From here out I'm going with my best judgement.
+5,a3,a2a3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/P7/1P2PPPP/RNBQKBNR b KQkq - 0 3,My guess is he played this to prevent Bb4.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/P7/1P2PPPP/RNBQKBNR w KQkq - 1 4,"""Develop the least developed piece to the best possible square"""
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/P1N5/1P2PPPP/R1BQKBNR b KQkq - 2 4,He develops his knight as well.
+8,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n1pn2/3p4/2PP4/P1N5/1P2PPPP/R1BQKBNR w KQkq - 3 5,I develop my second knight.
+9,Nf3,g1f3,r1bqkb1r/ppp2ppp/2n1pn2/3p4/2PP4/P1N2N2/1P2PPPP/R1BQKB1R b KQkq - 4 5,Knights royal!
+10,Be7,f8e7,r1bqk2r/ppp1bppp/2n1pn2/3p4/2PP4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 5 6,"I do this to castle, as well as defend against Bg5."
+11,Bf4,c1f4,r1bqk2r/ppp1bppp/2n1pn2/3p4/2PP1B2/P1N2N2/1P2PPPP/R2QKB1R b KQkq - 6 6,I'm pretty sure this is a good move...
+12,Nh5,f6h5,r1bqk2r/ppp1bppp/2n1p3/3p3n/2PP1B2/P1N2N2/1P2PPPP/R2QKB1R w KQkq - 7 7,Knight: Go away or die.
+13,cxd5,c4d5,r1bqk2r/ppp1bppp/2n1p3/3P3n/3P1B2/P1N2N2/1P2PPPP/R2QKB1R b KQkq - 0 7,Or trade off first...
+14,exd5,e6d5,r1bqk2r/ppp1bppp/2n5/3p3n/3P1B2/P1N2N2/1P2PPPP/R2QKB1R w KQkq - 0 8,"I was very happy to do this move because, until now, my LSB was completely trapped. I think the trade favored me..."
+15,Be5,f4e5,r1bqk2r/ppp1bppp/2n5/3pB2n/3P4/P1N2N2/1P2PPPP/R2QKB1R b KQkq - 1 8,"He's trying to invade, but I think this is pointless, and a wast of time. After I press the f pawn, not only will white's DSB be forced to die, but whites f6 knight won't be able to go to e5 or g5."
+16,f6,f7f6,r1bqk2r/ppp1b1pp/2n2p2/3pB2n/3P4/P1N2N2/1P2PPPP/R2QKB1R w KQkq - 0 9,"Naturally, I push."
+17,Bg3,e5g3,r1bqk2r/ppp1b1pp/2n2p2/3p3n/3P4/P1N2NB1/1P2PPPP/R2QKB1R b KQkq - 1 9,He retreats...
+18,Nxg3,h5g3,r1bqk2r/ppp1b1pp/2n2p2/3p4/3P4/P1N2Nn1/1P2PPPP/R2QKB1R w KQkq - 0 10,And I trade an inactive knight for an active bishop.
+19,hxg3,h2g3,r1bqk2r/ppp1b1pp/2n2p2/3p4/3P4/P1N2NP1/1P2PPP1/R2QKB1R b KQkq - 0 10,Gotta take back with something...
+20,O-O,e8g8,r1bq1rk1/ppp1b1pp/2n2p2/3p4/3P4/P1N2NP1/1P2PPP1/R2QKB1R w KQ - 1 11,King safety.

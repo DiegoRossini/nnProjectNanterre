@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Black spoils white's pawn structure.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black spoils white's pawn structure.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Black spoils white's pawn structure.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Black spoils white's pawn structure.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Black spoils white's pawn structure.
+6,Bc5,f8c5,rnbqk2r/pppp1ppp/5n2/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Black spoils white's pawn structure.
+7,Bc4,f1c4,rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,Black spoils white's pawn structure.
+8,O-O,e8g8,rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQ - 6 5,Black spoils white's pawn structure.
+9,O-O,e1g1,rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b - - 7 5,Black spoils white's pawn structure.
+10,d6,d7d6,rnbq1rk1/ppp2ppp/3p1n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 0 6,Black spoils white's pawn structure.
+11,h3,h2h3,rnbq1rk1/ppp2ppp/3p1n2/2b1p3/2B1P3/2N2N1P/PPPP1PP1/R1BQ1RK1 b - - 0 6,Black spoils white's pawn structure.
+12,Be6,c8e6,rn1q1rk1/ppp2ppp/3pbn2/2b1p3/2B1P3/2N2N1P/PPPP1PP1/R1BQ1RK1 w - - 1 7,Black spoils white's pawn structure.
+13,d3,d2d3,rn1q1rk1/ppp2ppp/3pbn2/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 b - - 0 7,Black spoils white's pawn structure.
+14,Bxc4,e6c4,rn1q1rk1/ppp2ppp/3p1n2/2b1p3/2b1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 w - - 0 8,Black spoils white's pawn structure.
+15,dxc4,d3c4,rn1q1rk1/ppp2ppp/3p1n2/2b1p3/2P1P3/2N2N1P/PPP2PP1/R1BQ1RK1 b - - 0 8,Prevents Bg5.
+16,h6,h7h6,rn1q1rk1/ppp2pp1/3p1n1p/2b1p3/2P1P3/2N2N1P/PPP2PP1/R1BQ1RK1 w - - 0 9,Prevents Bg5.
+17,Re1,f1e1,rn1q1rk1/ppp2pp1/3p1n1p/2b1p3/2P1P3/2N2N1P/PPP2PP1/R1BQR1K1 b - - 1 9,Prevents Nd5.
+18,c6,c7c6,rn1q1rk1/pp3pp1/2pp1n1p/2b1p3/2P1P3/2N2N1P/PPP2PP1/R1BQR1K1 w - - 0 10,Prevents Nd5.
+19,Na4,c3a4,rn1q1rk1/pp3pp1/2pp1n1p/2b1p3/N1P1P3/5N1P/PPP2PP1/R1BQR1K1 b - - 1 10,After Nxc5 Nxc5 the e4 pawn will be under attack.
+20,Nbd7,b8d7,r2q1rk1/pp1n1pp1/2pp1n1p/2b1p3/N1P1P3/5N1P/PPP2PP1/R1BQR1K1 w - - 2 11,After Nxc5 Nxc5 the e4 pawn will be under attack.
+21,Nh4,f3h4,r2q1rk1/pp1n1pp1/2pp1n1p/2b1p3/N1P1P2N/7P/PPP2PP1/R1BQR1K1 b - - 3 11,"Prepares Nf5, which is a big threat for black. The e4 pawn must fall immediately."
+22,Nxe4,f6e4,r2q1rk1/pp1n1pp1/2pp3p/2b1p3/N1P1n2N/7P/PPP2PP1/R1BQR1K1 w - - 0 12,"The rook protects the knight, however, the f line is now open for the f7 pawn."
+23,Rxe4,e1e4,r2q1rk1/pp1n1pp1/2pp3p/2b1p3/N1P1R2N/7P/PPP2PP1/R1BQ2K1 b - - 0 12,"The rook protects the knight, however, the f line is now open for the f7 pawn."
+24,f5,f7f5,r2q1rk1/pp1n2p1/2pp3p/2b1pp2/N1P1R2N/7P/PPP2PP1/R1BQ2K1 w - - 0 13,Takes back the pawn.
+25,Nxf5,h4f5,r2q1rk1/pp1n2p1/2pp3p/2b1pN2/N1P1R3/7P/PPP2PP1/R1BQ2K1 b - - 0 13,Takes back the pawn.
+26,Rxf5,f8f5,r2q2k1/pp1n2p1/2pp3p/2b1pr2/N1P1R3/7P/PPP2PP1/R1BQ2K1 w - - 0 14,"The f2 pawn is under pressure from black, white decides to take the bishop."
+27,Nxc5,a4c5,r2q2k1/pp1n2p1/2pp3p/2N1pr2/2P1R3/7P/PPP2PP1/R1BQ2K1 b - - 0 14,Rook under pressure.
+28,Nxc5,d7c5,r2q2k1/pp4p1/2pp3p/2n1pr2/2P1R3/7P/PPP2PP1/R1BQ2K1 w - - 0 15,Rook under pressure.
+29,Rg4,e4g4,r2q2k1/pp4p1/2pp3p/2n1pr2/2P3R1/7P/PPP2PP1/R1BQ2K1 b - - 1 15,Threatens Bxh6.
+30,Qf6,d8f6,r5k1/pp4p1/2pp1q1p/2n1pr2/2P3R1/7P/PPP2PP1/R1BQ2K1 w - - 2 16,"The knight is essential in the attack on f2 pawn. However, the e4 square is guarded by white's rook."
+31,b4,b2b4,r5k1/pp4p1/2pp1q1p/2n1pr2/1PP3R1/7P/P1P2PP1/R1BQ2K1 b - - 0 16,"The knight is essential in the attack on f2 pawn. However, the e4 square is guarded by white's rook."
+32,h5,h6h5,r5k1/pp4p1/2pp1q2/2n1pr1p/1PP3R1/7P/P1P2PP1/R1BQ2K1 w - - 0 17,Let's remove the rook!
+33,Rg3,g4g3,r5k1/pp4p1/2pp1q2/2n1pr1p/1PP5/6RP/P1P2PP1/R1BQ2K1 b - - 1 17,Heavy pressure on f2.
+34,Ne4,c5e4,r5k1/pp4p1/2pp1q2/4pr1p/1PP1n3/6RP/P1P2PP1/R1BQ2K1 w - - 2 18,Heavy pressure on f2.
+35,Rf3,g3f3,r5k1/pp4p1/2pp1q2/4pr1p/1PP1n3/5R1P/P1P2PP1/R1BQ2K1 b - - 3 18,Increasing pressure.
+36,Rf8,a8f8,5rk1/pp4p1/2pp1q2/4pr1p/1PP1n3/5R1P/P1P2PP1/R1BQ2K1 w - - 4 19,Increasing pressure.
+37,Rxf5,f3f5,5rk1/pp4p1/2pp1q2/4pR1p/1PP1n3/7P/P1P2PP1/R1BQ2K1 b - - 0 19,"The only move to prevent capture. This leads, however, to great knight positioning."
+38,Qxf5,f6f5,5rk1/pp4p1/2pp4/4pq1p/1PP1n3/7P/P1P2PP1/R1BQ2K1 w - - 0 20,"The only move to prevent capture. This leads, however, to great knight positioning."
+39,f3,f2f3,5rk1/pp4p1/2pp4/4pq1p/1PP1n3/5P1P/P1P3P1/R1BQ2K1 b - - 0 20,"The only move to prevent capture. This leads, however, to great knight positioning."
+40,Ng3,e4g3,5rk1/pp4p1/2pp4/4pq1p/1PP5/5PnP/P1P3P1/R1BQ2K1 w - - 1 21,"Wins a pawn, looses a tempo."
+41,Qxd6,d1d6,5rk1/pp4p1/2pQ4/4pq1p/1PP5/5PnP/P1P3P1/R1B3K1 b - - 0 21,"Wins a pawn, looses a tempo."
+42,h4,h5h4,5rk1/pp4p1/2pQ4/4pq2/1PP4p/5PnP/P1P3P1/R1B3K1 w - - 0 22,Critical move. The pawn guards the knitght which threatens the black king.
+43,Be3,c1e3,5rk1/pp4p1/2pQ4/4pq2/1PP4p/4BPnP/P1P3P1/R5K1 b - - 1 22,Threatens to open the f line. White's rook cannot move to f1 because of the knight guard.
+44,e4,e5e4,5rk1/pp4p1/2pQ4/5q2/1PP1p2p/4BPnP/P1P3P1/R5K1 w - - 0 23,Threatens to open the f line. White's rook cannot move to f1 because of the knight guard.
+45,f4,f3f4,5rk1/pp4p1/2pQ4/5q2/1PP1pP1p/4B1nP/P1P3P1/R5K1 b - - 0 23,"Black's pieces are placed strategically. White cannot check black's king, and makes a pawn capture..."
+46,g5,g7g5,5rk1/pp6/2pQ4/5qp1/1PP1pP1p/4B1nP/P1P3P1/R5K1 w - - 0 24,"Black's pieces are placed strategically. White cannot check black's king, and makes a pawn capture..."
+47,fxg5,f4g5,5rk1/pp6/2pQ4/5qP1/1PP1p2p/4B1nP/P1P3P1/R5K1 b - - 0 24,Qf1! The f line opened and a mate in 2 is unleashed.
+48,Qf1+,f5f1,5rk1/pp6/2pQ4/6P1/1PP1p2p/4B1nP/P1P3P1/R4qK1 w - - 1 25,Qf1! The f line opened and a mate in 2 is unleashed.

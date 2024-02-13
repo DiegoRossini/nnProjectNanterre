@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+5,c4,c2c4,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+7,Bg5,c1g5,rnbqkb1r/p1pp1ppp/1p2pn2/6B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 4,Unusual. 4.g3 and 4.a3 are the normal moves these days.
+8,Bb7,c8b7,rn1qkb1r/pbpp1ppp/1p2pn2/6B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 2 5,"White is determined to avoid having his QN pinned, but doesn't want to waste a move by playing a3."
+9,e3,e2e3,rn1qkb1r/pbpp1ppp/1p2pn2/6B1/2PP4/4PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,"White is determined to avoid having his QN pinned, but doesn't want to waste a move by playing a3."
+10,h6,h7h6,rn1qkb1r/pbpp1pp1/1p2pn1p/6B1/2PP4/4PN2/PP3PPP/RN1QKB1R w KQkq - 0 6,The more aggressive 6...g5 has yielded good results.
+11,Bh4,g5h4,rn1qkb1r/pbpp1pp1/1p2pn1p/8/2PP3B/4PN2/PP3PPP/RN1QKB1R b KQkq - 1 6,The more aggressive 6...g5 has yielded good results.
+12,Be7,f8e7,rn1qk2r/pbppbpp1/1p2pn1p/8/2PP3B/4PN2/PP3PPP/RN1QKB1R w KQkq - 2 7,The more aggressive 6...g5 has yielded good results.
+13,Nc3,b1c3,rn1qk2r/pbppbpp1/1p2pn1p/8/2PP3B/2N1PN2/PP3PPP/R2QKB1R b KQkq - 3 7,"Now that Black has committed his bishop to e7, the time is right to develop this knight."
+14,c5,c7c5,rn1qk2r/pb1pbpp1/1p2pn1p/2p5/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 8,"An important move in most variations of the Queen's Indian, but Black needs to be sure that White can't play 8.d5. Here Black can simply play 8...Nxd5."
+15,Bxf6,h4f6,rn1qk2r/pb1pbpp1/1p2pB1p/2p5/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 8,"A strange move. If White wanted to exchange bishop for knight, he should have done it on move 6.
+
+Wang Yue (2739)-Ivanchuk,V (2779), Nice FRA 2009, continued 8.Be2 0-0 9.0-0 Nc6 10.Bg3 cxd4 11.Nxd4 d6 12.Bf3 Qd7 with a draw in 69 moves.
+
+Gelfand,B (2733)-Leko,P (2749), Monte Carlo MNC 2007, continued 8.Bd3 cxd4 9.exd4 0-0 10.0-0 Nc6 11.Rc1 d5 12.cxd5 Nxd5 with a draw in 72 moves."
+16,Bxf6,e7f6,rn1qk2r/pb1p1pp1/1p2pb1p/2p5/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 9,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+17,Be2,f1e2,rn1qk2r/pb1p1pp1/1p2pb1p/2p5/2PP4/2N1PN2/PP2BPPP/R2QK2R b KQkq - 1 9,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+18,cxd4,c5d4,rn1qk2r/pb1p1pp1/1p2pb1p/8/2Pp4/2N1PN2/PP2BPPP/R2QK2R w KQkq - 0 10,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+19,exd4,e3d4,rn1qk2r/pb1p1pp1/1p2pb1p/8/2PP4/2N2N2/PP2BPPP/R2QK2R b KQkq - 0 10,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+20,O-O,e8g8,rn1q1rk1/pb1p1pp1/1p2pb1p/8/2PP4/2N2N2/PP2BPPP/R2QK2R w KQ - 1 11,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+21,O-O,e1g1,rn1q1rk1/pb1p1pp1/1p2pb1p/8/2PP4/2N2N2/PP2BPPP/R2Q1RK1 b - - 2 11,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+22,Nc6,b8c6,r2q1rk1/pb1p1pp1/1pn1pb1p/8/2PP4/2N2N2/PP2BPPP/R2Q1RK1 w - - 3 12,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+23,d5,d4d5,r2q1rk1/pb1p1pp1/1pn1pb1p/3P4/2P5/2N2N2/PP2BPPP/R2Q1RK1 b - - 0 12,This only increases the power of the Black bishop on f6. A developing move such as Re1 is better.
+24,Ne5,c6e5,r2q1rk1/pb1p1pp1/1p2pb1p/3Pn3/2P5/2N2N2/PP2BPPP/R2Q1RK1 w - - 1 13,The knight doesn't look too secure here. 12...Ne7 - tempting White to play 13.d6 -  is probably better.
+25,Nd4,f3d4,r2q1rk1/pb1p1pp1/1p2pb1p/3Pn3/2PN4/2N5/PP2BPPP/R2Q1RK1 b - - 2 13,White embarks on an ill thought out plan when he should be completing his development.
+26,Rc8,a8c8,2rq1rk1/pb1p1pp1/1p2pb1p/3Pn3/2PN4/2N5/PP2BPPP/R2Q1RK1 w - - 3 14,This just loses a pawn.
+27,Ndb5,d4b5,2rq1rk1/pb1p1pp1/1p2pb1p/1N1Pn3/2P5/2N5/PP2BPPP/R2Q1RK1 b - - 4 14,This just loses a pawn.
+28,Nxc4,e5c4,2rq1rk1/pb1p1pp1/1p2pb1p/1N1P4/2n5/2N5/PP2BPPP/R2Q1RK1 w - - 0 15,Losing another pawn and the game.
+29,Bxc4,e2c4,2rq1rk1/pb1p1pp1/1p2pb1p/1N1P4/2B5/2N5/PP3PPP/R2Q1RK1 b - - 0 15,Losing another pawn and the game.
+30,Rxc4,c8c4,3q1rk1/pb1p1pp1/1p2pb1p/1N1P4/2r5/2N5/PP3PPP/R2Q1RK1 w - - 0 16,Losing another pawn and the game.
+31,d6,d5d6,3q1rk1/pb1p1pp1/1p1Ppb1p/1N6/2r5/2N5/PP3PPP/R2Q1RK1 b - - 0 16,Losing another pawn and the game.
+32,a6,a7a6,3q1rk1/1b1p1pp1/pp1Ppb1p/1N6/2r5/2N5/PP3PPP/R2Q1RK1 w - - 0 17,After 17.Na3 Rc6 Black wins a second pawn.
+33,Qb3,d1b3,3q1rk1/1b1p1pp1/pp1Ppb1p/1N6/2r5/1QN5/PP3PPP/R4RK1 b - - 1 17,After 17.Na3 Rc6 Black wins a second pawn.
+34,axb5,a6b5,3q1rk1/1b1p1pp1/1p1Ppb1p/1p6/2r5/1QN5/PP3PPP/R4RK1 w - - 0 18,Well seen!! Brings the game to a swift conclusion.
+35,Nxb5,c3b5,3q1rk1/1b1p1pp1/1p1Ppb1p/1N6/2r5/1Q6/PP3PPP/R4RK1 b - - 0 18,Well seen!! Brings the game to a swift conclusion.
+36,Rc5,c4c5,3q1rk1/1b1p1pp1/1p1Ppb1p/1Nr5/8/1Q6/PP3PPP/R4RK1 w - - 1 19,Well seen!! Brings the game to a swift conclusion.
+37,Nc7,b5c7,3q1rk1/1bNp1pp1/1p1Ppb1p/2r5/8/1Q6/PP3PPP/R4RK1 b - - 2 19,Well seen!! Brings the game to a swift conclusion.
+38,Be5,f6e5,3q1rk1/1bNp1pp1/1p1Pp2p/2r1b3/8/1Q6/PP3PPP/R4RK1 w - - 3 20,Well seen!! Brings the game to a swift conclusion.
+39,Qxb6,b3b6,3q1rk1/1bNp1pp1/1Q1Pp2p/2r1b3/8/8/PP3PPP/R4RK1 b - - 0 20,Well seen!! Brings the game to a swift conclusion.
+40,Bxh2+,e5h2,3q1rk1/1bNp1pp1/1Q1Pp2p/2r5/8/8/PP3PPb/R4RK1 w - - 0 21,Well seen!! Brings the game to a swift conclusion.
+41,Kxh2,g1h2,3q1rk1/1bNp1pp1/1Q1Pp2p/2r5/8/8/PP3PPK/R4R2 b - - 0 21,and mate next move.
+42,Qh4+,d8h4,5rk1/1bNp1pp1/1Q1Pp2p/2r5/7q/8/PP3PPK/R4R2 w - - 1 22,and mate next move.
+43,Kg1,h2g1,5rk1/1bNp1pp1/1Q1Pp2p/2r5/7q/8/PP3PP1/R4RK1 b - - 2 22,and mate next move.
+44,Bxg2,b7g2,5rk1/2Np1pp1/1Q1Pp2p/2r5/7q/8/PP3Pb1/R4RK1 w - - 0 23,and mate next move.
+45,f4,f2f4,5rk1/2Np1pp1/1Q1Pp2p/2r5/5P1q/8/PP4b1/R4RK1 b - - 0 23,and mate next move.
+46,Rc2,c5c2,5rk1/2Np1pp1/1Q1Pp2p/8/5P1q/8/PPr3b1/R4RK1 w - - 1 24,and mate next move.

@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,allows white the gambit fi he wants it.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,allows white the gambit fi he wants it.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,accepts.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,accepts.
+5,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,now turning it into a king bishop's gambit
+6,Qh4+,d8h4,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,the impulsive bad move is made.
+7,Kf1,e1f1,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR b kq - 3 4,mating attack but easily thawted.
+8,Bc5,f8c5,rnb1k1nr/pppp1ppp/8/2b5/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5,mating attack but easily thawted.
+9,d4,d2d4,rnb1k1nr/pppp1ppp/8/2b5/2BPPp1q/8/PPP3PP/RNBQ1KNR b kq - 0 5,keeps the pressure on and pins the pawn.
+10,Bb6,c5b6,rnb1k1nr/pppp1ppp/1b6/8/2BPPp1q/8/PPP3PP/RNBQ1KNR w kq - 1 6,keeps the pressure on and pins the pawn.
+11,Nc3,b1c3,rnb1k1nr/pppp1ppp/1b6/8/2BPPp1q/2N5/PPP3PP/R1BQ1KNR b kq - 2 6,hoping to get the knight in on g4
+12,Nf6,g8f6,rnb1k2r/pppp1ppp/1b3n2/8/2BPPp1q/2N5/PPP3PP/R1BQ1KNR w kq - 3 7,hoping to get the knight in on g4
+13,Nf3,g1f3,rnb1k2r/pppp1ppp/1b3n2/8/2BPPp1q/2N2N2/PPP3PP/R1BQ1K1R b kq - 4 7,but no the queen must leave
+14,Qh5,h4h5,rnb1k2r/pppp1ppp/1b3n2/7q/2BPPp2/2N2N2/PPP3PP/R1BQ1K1R w kq - 5 8,retiving the gambit pawn
+15,Bxf4,c1f4,rnb1k2r/pppp1ppp/1b3n2/7q/2BPPB2/2N2N2/PPP3PP/R2Q1K1R b kq - 0 8,retiving the gambit pawn
+16,d6,d7d6,rnb1k2r/ppp2ppp/1b1p1n2/7q/2BPPB2/2N2N2/PPP3PP/R2Q1K1R w kq - 0 9,releiving the pinned knight
+17,Qe1,d1e1,rnb1k2r/ppp2ppp/1b1p1n2/7q/2BPPB2/2N2N2/PPP3PP/R3QK1R b kq - 1 9,releiving the pinned knight
+18,Qg4,h5g4,rnb1k2r/ppp2ppp/1b1p1n2/8/2BPPBq1/2N2N2/PPP3PP/R3QK1R w kq - 2 10,supporting the bishop i should have gone here first.
+19,Qd2,e1d2,rnb1k2r/ppp2ppp/1b1p1n2/8/2BPPBq1/2N2N2/PPPQ2PP/R4K1R b kq - 3 10,supporting the bishop i should have gone here first.
+20,Nc6,b8c6,r1b1k2r/ppp2ppp/1bnp1n2/8/2BPPBq1/2N2N2/PPPQ2PP/R4K1R w kq - 4 11,preparing for e5
+21,Re1,a1e1,r1b1k2r/ppp2ppp/1bnp1n2/8/2BPPBq1/2N2N2/PPPQ2PP/4RK1R b kq - 5 11,preparing for e5
+22,O-O,e8g8,r1b2rk1/ppp2ppp/1bnp1n2/8/2BPPBq1/2N2N2/PPPQ2PP/4RK1R w - - 6 12,pushingthe queen a little more
+23,h3,h2h3,r1b2rk1/ppp2ppp/1bnp1n2/8/2BPPBq1/2N2N1P/PPPQ2P1/4RK1R b - - 0 12,pushingthe queen a little more
+24,Qg6,g4g6,r1b2rk1/ppp2ppp/1bnp1nq1/8/2BPPB2/2N2N1P/PPPQ2P1/4RK1R w - - 1 13,now i want to pressurize my center
+25,g4,g2g4,r1b2rk1/ppp2ppp/1bnp1nq1/8/2BPPBP1/2N2N1P/PPPQ4/4RK1R b - - 0 13,the time is right
+26,Re8,f8e8,r1b1r1k1/ppp2ppp/1bnp1nq1/8/2BPPBP1/2N2N1P/PPPQ4/4RK1R w - - 1 14,the time is right
+27,e5,e4e5,r1b1r1k1/ppp2ppp/1bnp1nq1/4P3/2BP1BP1/2N2N1P/PPPQ4/4RK1R b - - 0 14,the time is right
+28,dxe5,d6e5,r1b1r1k1/ppp2ppp/1bn2nq1/4p3/2BP1BP1/2N2N1P/PPPQ4/4RK1R w - - 0 15,i wonder why he threw the night away?
+29,Bxe5,f4e5,r1b1r1k1/ppp2ppp/1bn2nq1/4B3/2BP2P1/2N2N1P/PPPQ4/4RK1R b - - 0 15,i wonder why he threw the night away?
+30,Nxg4,f6g4,r1b1r1k1/ppp2ppp/1bn3q1/4B3/2BP2n1/2N2N1P/PPPQ4/4RK1R w - - 0 16,i wonder why he threw the night away?
+31,hxg4,h3g4,r1b1r1k1/ppp2ppp/1bn3q1/4B3/2BP2P1/2N2N2/PPPQ4/4RK1R b - - 0 16,now he attacks my knight but i have a chance to save it
+32,Qxg4,g6g4,r1b1r1k1/ppp2ppp/1bn5/4B3/2BP2q1/2N2N2/PPPQ4/4RK1R w - - 0 17,now he attacks my knight but i have a chance to save it
+33,Qf2,d2f2,r1b1r1k1/ppp2ppp/1bn5/4B3/2BP2q1/2N2N2/PPP2Q2/4RK1R b - - 1 17,i wonder if he sees the mating threat?
+34,Nxe5,c6e5,r1b1r1k1/ppp2ppp/1b6/4n3/2BP2q1/2N2N2/PPP2Q2/4RK1R w - - 0 18,i wonder if he sees the mating threat?
+35,Nxe5,f3e5,r1b1r1k1/ppp2ppp/1b6/4N3/2BP2q1/2N5/PPP2Q2/4RK1R b - - 0 18,i wonder if he sees the mating threat?
+36,Rxe5,e8e5,r1b3k1/ppp2ppp/1b6/4r3/2BP2q1/2N5/PPP2Q2/4RK1R w - - 0 19,nope he does not
+37,Qxf7+,f2f7,r1b3k1/ppp2Qpp/1b6/4r3/2BP2q1/2N5/PPP5/4RK1R b - - 0 19,forced mate

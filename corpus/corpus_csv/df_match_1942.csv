@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,queen opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,same
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,knight
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,knigh
+5,e4,e2e4,r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,pawn
+6,dxe4,d5e4,r1bqkbnr/ppp1pppp/2n5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,+1
+7,Nxe4,c3e4,r1bqkbnr/ppp1pppp/2n5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,0
+8,Bf5,c8f5,r2qkbnr/ppp1pppp/2n5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,too much trying to srace the other person off
+9,Nc5,e4c5,r2qkbnr/ppp1pppp/2n5/2N2b2/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 2 5,both not devloped
+10,Qd5,d8d5,r3kbnr/ppp1pppp/2n5/2Nq1b2/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 3 6,queen out too early
+11,Nf3,g1f3,r3kbnr/ppp1pppp/2n5/2Nq1b2/3P4/5N2/PPP2PPP/R1BQKB1R b KQkq - 4 6,bad movw
+12,Qe5+,d5e5,r3kbnr/ppp1pppp/2n5/2N1qb2/3P4/5N2/PPP2PPP/R1BQKB1R w KQkq - 5 7,bad movw
+13,Nxe5,f3e5,r3kbnr/ppp1pppp/2n5/2N1Nb2/3P4/8/PPP2PPP/R1BQKB1R b KQkq - 0 7,-9
+14,Nxe5,c6e5,r3kbnr/ppp1pppp/8/2N1nb2/3P4/8/PPP2PPP/R1BQKB1R w KQkq - 0 8,got knight
+15,dxe5,d4e5,r3kbnr/ppp1pppp/8/2N1Pb2/8/8/PPP2PPP/R1BQKB1R b KQkq - 0 8,-9
+16,b6,b7b6,r3kbnr/p1p1pppp/1p6/2N1Pb2/8/8/PPP2PPP/R1BQKB1R w KQkq - 0 9,bad move
+17,Nb7,c5b7,r3kbnr/pNp1pppp/1p6/4Pb2/8/8/PPP2PPP/R1BQKB1R b KQkq - 1 9,dead meat
+18,e6,e7e6,r3kbnr/pNp2ppp/1p2p3/4Pb2/8/8/PPP2PPP/R1BQKB1R w KQkq - 0 10,moves pawn
+19,Bb5+,f1b5,r3kbnr/pNp2ppp/1p2p3/1B2Pb2/8/8/PPP2PPP/R1BQK2R b KQkq - 1 10,doom
+20,Ke7,e8e7,r4bnr/pNp1kppp/1p2p3/1B2Pb2/8/8/PPP2PPP/R1BQK2R w KQ - 2 11,learned not to try to srace the other player until you are  down getting tthe minor stuff out
+21,Qd7#,d1d7,r4bnr/pNpQkppp/1p2p3/1B2Pb2/8/8/PPP2PPP/R1B1K2R b KQ - 3 11,learned not to try to srace the other player until you are  down getting tthe minor stuff out

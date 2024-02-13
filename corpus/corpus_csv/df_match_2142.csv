@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I start with the queen's gambit.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I start with the queen's gambit.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I start with the queen's gambit.
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"White has a slight lead in development, but his DSB is bad."
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2pP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,"White has a slight lead in development, but his DSB is bad."
+6,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/5b2/2pP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,"White has a slight lead in development, but his DSB is bad."
+7,Bxc4,f1c4,rn1qkbnr/ppp1pppp/8/5b2/2BP4/4P3/PP3PPP/RNBQK1NR b KQkq - 0 4,"White has a slight lead in development, but his DSB is bad."
+8,e6,e7e6,rn1qkbnr/ppp2ppp/4p3/5b2/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5,"White has a slight lead in development, but his DSB is bad."
+9,Nc3,b1c3,rn1qkbnr/ppp2ppp/4p3/5b2/2BP4/2N1P3/PP3PPP/R1BQK1NR b KQkq - 1 5,"White has a slight lead in development, but his DSB is bad."
+10,Bb4,f8b4,rn1qk1nr/ppp2ppp/4p3/5b2/1bBP4/2N1P3/PP3PPP/R1BQK1NR w KQkq - 2 6,"White has a slight lead in development, but his DSB is bad."
+11,Bd2,c1d2,rn1qk1nr/ppp2ppp/4p3/5b2/1bBP4/2N1P3/PP1B1PPP/R2QK1NR b KQkq - 3 6,"White has a slight lead in development, but his DSB is bad."
+12,Bxc3,b4c3,rn1qk1nr/ppp2ppp/4p3/5b2/2BP4/2b1P3/PP1B1PPP/R2QK1NR w KQkq - 0 7,"White has a slight lead in development, but his DSB is bad."
+13,Bxc3,d2c3,rn1qk1nr/ppp2ppp/4p3/5b2/2BP4/2B1P3/PP3PPP/R2QK1NR b KQkq - 0 7,"White has a slight lead in development, but his DSB is bad."
+14,Ne7,g8e7,rn1qk2r/ppp1nppp/4p3/5b2/2BP4/2B1P3/PP3PPP/R2QK1NR w KQkq - 1 8,Why not f6?
+15,Nf3,g1f3,rn1qk2r/ppp1nppp/4p3/5b2/2BP4/2B1PN2/PP3PPP/R2QK2R b KQkq - 2 8,"?! I'm not sure if this is a good move. It trades a bishop for a knight, loses his only active piece and allows my queen to develop."
+16,Bg4,f5g4,rn1qk2r/ppp1nppp/4p3/8/2BP2b1/2B1PN2/PP3PPP/R2QK2R w KQkq - 3 9,"?! I'm not sure if this is a good move. It trades a bishop for a knight, loses his only active piece and allows my queen to develop."
+17,h3,h2h3,rn1qk2r/ppp1nppp/4p3/8/2BP2b1/2B1PN1P/PP3PP1/R2QK2R b KQkq - 0 9,"?! I'm not sure if this is a good move. It trades a bishop for a knight, loses his only active piece and allows my queen to develop."
+18,Bxf3,g4f3,rn1qk2r/ppp1nppp/4p3/8/2BP4/2B1Pb1P/PP3PP1/R2QK2R w KQkq - 0 10,"?! I'm not sure if this is a good move. It trades a bishop for a knight, loses his only active piece and allows my queen to develop."
+19,Qxf3,d1f3,rn1qk2r/ppp1nppp/4p3/8/2BP4/2B1PQ1P/PP3PP1/R3K2R b KQkq - 0 10,"White has an edge here. I'm fully developed, have the bishop pair, (although my DSB is still miserable) and I am much more active than black."
+20,c6,c7c6,rn1qk2r/pp2nppp/2p1p3/8/2BP4/2B1PQ1P/PP3PP1/R3K2R w KQkq - 0 11,"White has an edge here. I'm fully developed, have the bishop pair, (although my DSB is still miserable) and I am much more active than black."
+21,O-O,e1g1,rn1qk2r/pp2nppp/2p1p3/8/2BP4/2B1PQ1P/PP3PP1/R4RK1 b kq - 1 11,"He pushes back my bishop, but he should finish developing."
+22,b5,b7b5,rn1qk2r/p3nppp/2p1p3/1p6/2BP4/2B1PQ1P/PP3PP1/R4RK1 w kq - 0 12,"He pushes back my bishop, but he should finish developing."
+23,Bb3,c4b3,rn1qk2r/p3nppp/2p1p3/1p6/3P4/1BB1PQ1P/PP3PP1/R4RK1 b kq - 1 12,Gives my LSB an escape hole in case he pushes his a pawn.
+24,O-O,e8g8,rn1q1rk1/p3nppp/2p1p3/1p6/3P4/1BB1PQ1P/PP3PP1/R4RK1 w - - 2 13,Gives my LSB an escape hole in case he pushes his a pawn.
+25,a3,a2a3,rn1q1rk1/p3nppp/2p1p3/1p6/3P4/PBB1PQ1P/1P3PP1/R4RK1 b - - 0 13,Gives my LSB an escape hole in case he pushes his a pawn.
+26,Nf5,e7f5,rn1q1rk1/p4ppp/2p1p3/1p3n2/3P4/PBB1PQ1P/1P3PP1/R4RK1 w - - 1 14,! Gets his knight more active. He still needs to develop his other knight though.
+27,Rfe1,f1e1,rn1q1rk1/p4ppp/2p1p3/1p3n2/3P4/PBB1PQ1P/1P3PP1/R3R1K1 b - - 2 14,"?! It does chase my queen, but he *really* needs to finish developing. This also brings his only active piece onto the edge."
+28,Nh4,f5h4,rn1q1rk1/p4ppp/2p1p3/1p6/3P3n/PBB1PQ1P/1P3PP1/R3R1K1 w - - 3 15,"?! It does chase my queen, but he *really* needs to finish developing. This also brings his only active piece onto the edge."
+29,Qg3,f3g3,rn1q1rk1/p4ppp/2p1p3/1p6/3P3n/PBB1P1QP/1P3PP1/R3R1K1 b - - 4 15,? Better would have been g4. This lets him chase my queen again and move back to his earlier spot.
+30,g5,g7g5,rn1q1rk1/p4p1p/2p1p3/1p4p1/3P3n/PBB1P1QP/1P3PP1/R3R1K1 w - - 0 16,? And he doesn't. He seems to want to preserve his knight's position on the rim even if it costs him his king safety. I don't see why he doesn't just play Nf5. He would have made his knight more active and chased my queen.
+31,f4,f2f4,rn1q1rk1/p4p1p/2p1p3/1p4p1/3P1P1n/PBB1P1QP/1P4P1/R3R1K1 b - - 0 16,! Undermining support.
+32,Nf5,h4f5,rn1q1rk1/p4p1p/2p1p3/1p3np1/3P1P2/PBB1P1QP/1P4P1/R3R1K1 w - - 1 17,"*Now* he moves back, after he's compromised his king safety."
+33,Qg4,g3g4,rn1q1rk1/p4p1p/2p1p3/1p3np1/3P1PQ1/PBB1P2P/1P4P1/R3R1K1 b - - 2 17,Supporting the advanced g pawn.
+34,f6,f7f6,rn1q1rk1/p6p/2p1pp2/1p3np1/3P1PQ1/PBB1P2P/1P4P1/R3R1K1 w - - 0 18,Supporting the advanced g pawn.
+35,Bxe6+,b3e6,rn1q1rk1/p6p/2p1Bp2/1p3np1/3P1PQ1/P1B1P2P/1P4P1/R3R1K1 b - - 0 18,...But allowing a fork.
+36,Kg7,g8g7,rn1q1r2/p5kp/2p1Bp2/1p3np1/3P1PQ1/P1B1P2P/1P4P1/R3R1K1 w - - 1 19,Now black is in BIG trouble. He's down four points and my bishop and queen are hovering over his king.
+37,Qxf5,g4f5,rn1q1r2/p5kp/2p1Bp2/1p3Qp1/3P1P2/P1B1P2P/1P4P1/R3R1K1 b - - 0 19,Now black is in BIG trouble. He's down four points and my bishop and queen are hovering over his king.
+38,Qd6,d8d6,rn3r2/p5kp/2pqBp2/1p3Qp1/3P1P2/P1B1P2P/1P4P1/R3R1K1 w - - 1 20,Defends my LSB and clears the way for my DSB to join the attack.
+39,d5,d4d5,rn3r2/p5kp/2pqBp2/1p1P1Qp1/5P2/P1B1P2P/1P4P1/R3R1K1 b - - 0 20,Defends my LSB and clears the way for my DSB to join the attack.
+40,c5,c6c5,rn3r2/p5kp/3qBp2/1ppP1Qp1/5P2/P1B1P2P/1P4P1/R3R1K1 w - - 0 21,Preventing him from chasing my DSB.
+41,b4,b2b4,rn3r2/p5kp/3qBp2/1ppP1Qp1/1P3P2/P1B1P2P/6P1/R3R1K1 b - - 0 21,Preventing him from chasing my DSB.
+42,cxb4,c5b4,rn3r2/p5kp/3qBp2/1p1P1Qp1/1p3P2/P1B1P2P/6P1/R3R1K1 w - - 0 22,?? Loses a rook to a skewer.
+43,axb4,a3b4,rn3r2/p5kp/3qBp2/1p1P1Qp1/1P3P2/2B1P2P/6P1/R3R1K1 b - - 0 22,???? I don't spot it until right after I make my move.

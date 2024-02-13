@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Common opening move for White.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Common opening defensive response from Black.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Still in book.
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Book move.
+5,Qxd4,d1d4,rnbqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,White recaptures and is still in book.
+6,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,Black attacks Queen and is still in book.
+7,Qd5,d4d5,r1bqkbnr/pppp1ppp/2n5/3Q4/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 2 4,This is where it appears to depart from book moves.  An apparent blunder by White to place the Queen in such a lame position.
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/3Q4/4P3/8/PPP2PPP/RNB1KBNR w KQkq - 3 5,Black develops and attacks the Queen.
+9,Qf5,d5f5,r1bqkb1r/pppp1ppp/2n2n2/5Q2/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 4 5,"Another apparently terrible move, placing the Queen in a lame position."
+10,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3p1Q2/4P3/8/PPP2PPP/RNB1KBNR w KQkq - 0 6,This time Black not only places the White Queen under attack but also places White's developed Pawn under double attack.
+11,Qg5,f5g5,r1bqkb1r/ppp2ppp/2n2n2/3p2Q1/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 1 6,Now the developed Pawn is undefended.
+12,dxe4,d5e4,r1bqkb1r/ppp2ppp/2n2n2/6Q1/4p3/8/PPP2PPP/RNB1KBNR w KQkq - 0 7,"Captured and now Black's undeveloped Queen is the only piece on the d file (column).  Additionally, White's only developed piece is the Queen."
+13,Bb5,f1b5,r1bqkb1r/ppp2ppp/2n2n2/1B4Q1/4p3/8/PPP2PPP/RNB1K1NR b KQkq - 1 7,Black's Queenside Knight is pinned.
+14,Bd7,c8d7,r2qkb1r/pppb1ppp/2n2n2/1B4Q1/4p3/8/PPP2PPP/RNB1K1NR w KQkq - 2 8,unpinned.
+15,Qh4,g5h4,r2qkb1r/pppb1ppp/2n2n2/1B6/4p2Q/8/PPP2PPP/RNB1K1NR b KQkq - 3 8,and yet another Queen move!  with only two developed White pieces.  probably a terrible move.
+16,Nd4,c6d4,r2qkb1r/pppb1ppp/5n2/1B6/3np2Q/8/PPP2PPP/RNB1K1NR w KQkq - 4 9,White's Bishop is placed under double attack and the Pawn on c2 is threatened.
+17,Nc3,b1c3,r2qkb1r/pppb1ppp/5n2/1B6/3np2Q/2N5/PPP2PPP/R1B1K1NR b KQkq - 5 9,White's developed Bishop is now defended but he's under double attack and the c-file pawn is still vulnerable.  Better might've been Bishop takes Bishop for a check.
+18,Nxc2+,d4c2,r2qkb1r/pppb1ppp/5n2/1B6/4p2Q/2N5/PPn2PPP/R1B1K1NR w KQkq - 0 10,"Pawn captured, check, Rook in danger."
+19,Kd1,e1d1,r2qkb1r/pppb1ppp/5n2/1B6/4p2Q/2N5/PPn2PPP/R1BK2NR b kq - 1 10,out of check but vulnerable to another check via movement of Black's developed Bishop.
+20,Bxb5+,d7b5,r2qkb1r/ppp2ppp/5n2/1b6/4p2Q/2N5/PPn2PPP/R1BK2NR w kq - 0 11,Bishop takes Bishop and White's King is in check.  Black is offering a Knight and giving up taking White's a-file Rook.

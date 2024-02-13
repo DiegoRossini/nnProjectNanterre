@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,trompowsky
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,trompowsky
+3,Bg5,c1g5,rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,trompowsky
+4,Ne4,f6e4,rnbqkb1r/pppppppp/8/6B1/3Pn3/8/PPP1PPPP/RN1QKBNR w KQkq - 3 3,trompowsky
+5,Bf4,g5f4,rnbqkb1r/pppppppp/8/8/3PnB2/8/PPP1PPPP/RN1QKBNR b KQkq - 4 3,trompowsky
+6,c5,c7c5,rnbqkb1r/pp1ppppp/8/2p5/3PnB2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 4,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+7,f3,f2f3,rnbqkb1r/pp1ppppp/8/2p5/3PnB2/5P2/PPP1P1PP/RN1QKBNR b KQkq - 0 4,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+8,Nf6,e4f6,rnbqkb1r/pp1ppppp/5n2/2p5/3P1B2/5P2/PPP1P1PP/RN1QKBNR w KQkq - 1 5,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+9,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/5B2/5P2/PPP1P1PP/RN1QKBNR b KQkq - 0 5,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+10,d6,d7d6,rnbqkb1r/pp2pppp/3p1n2/2pP4/5B2/5P2/PPP1P1PP/RN1QKBNR w KQkq - 0 6,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+11,e4,e2e4,rnbqkb1r/pp2pppp/3p1n2/2pP4/4PB2/5P2/PPP3PP/RN1QKBNR b KQkq - 0 6,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+12,g6,g7g6,rnbqkb1r/pp2pp1p/3p1np1/2pP4/4PB2/5P2/PPP3PP/RN1QKBNR w KQkq - 0 7,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+13,Nc3,b1c3,rnbqkb1r/pp2pp1p/3p1np1/2pP4/4PB2/2N2P2/PPP3PP/R2QKBNR b KQkq - 1 7,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+14,Bg7,f8g7,rnbqk2r/pp2ppbp/3p1np1/2pP4/4PB2/2N2P2/PPP3PP/R2QKBNR w KQkq - 2 8,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+15,Qd2,d1d2,rnbqk2r/pp2ppbp/3p1np1/2pP4/4PB2/2N2P2/PPPQ2PP/R3KBNR b KQkq - 3 8,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+16,O-O,e8g8,rnbq1rk1/pp2ppbp/3p1np1/2pP4/4PB2/2N2P2/PPPQ2PP/R3KBNR w KQ - 4 9,"this allows white to exchange dark bishops, and leaves black king a little exposed"
+17,Bh6,f4h6,rnbq1rk1/pp2ppbp/3p1npB/2pP4/4P3/2N2P2/PPPQ2PP/R3KBNR b KQ - 5 9,i played this as i expected black to attempt to get play on the queenside
+18,Nbd7,b8d7,r1bq1rk1/pp1nppbp/3p1npB/2pP4/4P3/2N2P2/PPPQ2PP/R3KBNR w KQ - 6 10,i played this as i expected black to attempt to get play on the queenside
+19,a4,a2a4,r1bq1rk1/pp1nppbp/3p1npB/2pP4/P3P3/2N2P2/1PPQ2PP/R3KBNR b KQ - 0 10,i played this as i expected black to attempt to get play on the queenside
+20,Ne5,d7e5,r1bq1rk1/pp2ppbp/3p1npB/2pPn3/P3P3/2N2P2/1PPQ2PP/R3KBNR w KQ - 1 11,pushing knight back and creating a center
+21,Bxg7,h6g7,r1bq1rk1/pp2ppBp/3p1np1/2pPn3/P3P3/2N2P2/1PPQ2PP/R3KBNR b KQ - 0 11,pushing knight back and creating a center
+22,Kxg7,g8g7,r1bq1r2/pp2ppkp/3p1np1/2pPn3/P3P3/2N2P2/1PPQ2PP/R3KBNR w KQ - 0 12,pushing knight back and creating a center
+23,f4,f3f4,r1bq1r2/pp2ppkp/3p1np1/2pPn3/P3PP2/2N5/1PPQ2PP/R3KBNR b KQ - 0 12,pushing knight back and creating a center
+24,Ned7,e5d7,r1bq1r2/pp1nppkp/3p1np1/2pP4/P3PP2/2N5/1PPQ2PP/R3KBNR w KQ - 1 13,"I was thinking about putting knight on f2 to support a g4 advance, but this may be over aggressive as castling queenside looks a bit dubious as I have played a4 and weakened queenside"
+25,Nh3,g1h3,r1bq1r2/pp1nppkp/3p1np1/2pP4/P3PP2/2N4N/1PPQ2PP/R3KB1R b KQ - 2 13,"I was thinking about putting knight on f2 to support a g4 advance, but this may be over aggressive as castling queenside looks a bit dubious as I have played a4 and weakened queenside"
+26,b6,b7b6,r1bq1r2/p2nppkp/1p1p1np1/2pP4/P3PP2/2N4N/1PPQ2PP/R3KB1R w KQ - 0 14,Black is cramped and is finding it hard to find squares for his pieces
+27,Be2,f1e2,r1bq1r2/p2nppkp/1p1p1np1/2pP4/P3PP2/2N4N/1PPQB1PP/R3K2R b KQ - 1 14,"this looks like wasting moves with whiteknight, I was hoping that I would provoke h6 but I think now black should have played a6 followed by b5 this would generate active play"
+28,Bb7,c8b7,r2q1r2/pb1nppkp/1p1p1np1/2pP4/P3PP2/2N4N/1PPQB1PP/R3K2R w KQ - 2 15,"this looks like wasting moves with whiteknight, I was hoping that I would provoke h6 but I think now black should have played a6 followed by b5 this would generate active play"
+29,Ng5,h3g5,r2q1r2/pb1nppkp/1p1p1np1/2pP2N1/P3PP2/2N5/1PPQB1PP/R3K2R b KQ - 3 15,"this looks like wasting moves with whiteknight, I was hoping that I would provoke h6 but I think now black should have played a6 followed by b5 this would generate active play"
+30,Rc8,a8c8,2rq1r2/pb1nppkp/1p1p1np1/2pP2N1/P3PP2/2N5/1PPQB1PP/R3K2R w KQ - 4 16,"wondering could black have played c4 now, but pawn on c4 may have need more support, maybe by Ba6 .. looks messy but black needs something active as quickly as possible. The only other option I could see was e6 which would normally free the black position, but the white knight on g5 is accidentally stopping this"
+31,O-O,e1g1,2rq1r2/pb1nppkp/1p1p1np1/2pP2N1/P3PP2/2N5/1PPQB1PP/R4RK1 b - - 5 16,"wondering could black have played c4 now, but pawn on c4 may have need more support, maybe by Ba6 .. looks messy but black needs something active as quickly as possible. The only other option I could see was e6 which would normally free the black position, but the white knight on g5 is accidentally stopping this"
+32,h6,h7h6,2rq1r2/pb1nppk1/1p1p1npp/2pP2N1/P3PP2/2N5/1PPQB1PP/R4RK1 w - - 0 17,I am not sure what blacks plan was here. I think c4 needed to be played. This also frees c5 for the black knight
+33,Nf3,g5f3,2rq1r2/pb1nppk1/1p1p1npp/2pP4/P3PP2/2N2N2/1PPQB1PP/R4RK1 b - - 1 17,I am not sure what blacks plan was here. I think c4 needed to be played. This also frees c5 for the black knight
+34,Ne8,f6e8,2rqnr2/pb1nppk1/1p1p2pp/2pP4/P3PP2/2N2N2/1PPQB1PP/R4RK1 w - - 2 18,I am not sure what blacks plan was here. I think c4 needed to be played. This also frees c5 for the black knight
+35,Bc4,e2c4,2rqnr2/pb1nppk1/1p1p2pp/2pP4/P1B1PP2/2N2N2/1PPQ2PP/R4RK1 b - - 3 18,This stops c4 push for a while and the traffic jam continues for black
+36,Nc7,e8c7,2rq1r2/pbnnppk1/1p1p2pp/2pP4/P1B1PP2/2N2N2/1PPQ2PP/R4RK1 w - - 4 19,"Possibly preparing e6 or a6,b5"
+37,e5,e4e5,2rq1r2/pbnnppk1/1p1p2pp/2pPP3/P1B2P2/2N2N2/1PPQ2PP/R4RK1 b - - 0 19,White needed to act whilst blacks pieces are passively placed
+38,dxe5,d6e5,2rq1r2/pbnnppk1/1p4pp/2pPp3/P1B2P2/2N2N2/1PPQ2PP/R4RK1 w - - 0 20,This is a mistake
+39,fxe5,f4e5,2rq1r2/pbnnppk1/1p4pp/2pPP3/P1B5/2N2N2/1PPQ2PP/R4RK1 b - - 0 20,This is a mistake
+40,Re8,f8e8,2rqr3/pbnnppk1/1p4pp/2pPP3/P1B5/2N2N2/1PPQ2PP/R4RK1 w - - 1 21,This is a mistake
+41,Rae1,a1e1,2rqr3/pbnnppk1/1p4pp/2pPP3/P1B5/2N2N2/1PPQ2PP/4RRK1 b - - 2 21,This is a mistake
+42,Nf8,d7f8,2rqrn2/pbn1ppk1/1p4pp/2pPP3/P1B5/2N2N2/1PPQ2PP/4RRK1 w - - 3 22,This is a mistake
+43,h3,h2h3,2rqrn2/pbn1ppk1/1p4pp/2pPP3/P1B5/2N2N1P/1PPQ2P1/4RRK1 b - - 0 22,This is a mistake
+44,Na6,c7a6,2rqrn2/pb2ppk1/np4pp/2pPP3/P1B5/2N2N1P/1PPQ2P1/4RRK1 w - - 1 23,This is a mistake
+45,Bb5,c4b5,2rqrn2/pb2ppk1/np4pp/1BpPP3/P7/2N2N1P/1PPQ2P1/4RRK1 b - - 2 23,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+46,Nd7,f8d7,2rqr3/pb1nppk1/np4pp/1BpPP3/P7/2N2N1P/1PPQ2P1/4RRK1 w - - 3 24,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+47,e6,e5e6,2rqr3/pb1nppk1/np2P1pp/1BpP4/P7/2N2N1P/1PPQ2P1/4RRK1 b - - 0 24,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+48,fxe6,f7e6,2rqr3/pb1np1k1/np2p1pp/1BpP4/P7/2N2N1P/1PPQ2P1/4RRK1 w - - 0 25,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+49,dxe6,d5e6,2rqr3/pb1np1k1/np2P1pp/1Bp5/P7/2N2N1P/1PPQ2P1/4RRK1 b - - 0 25,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+50,Nf6,d7f6,2rqr3/pb2p1k1/np2Pnpp/1Bp5/P7/2N2N1P/1PPQ2P1/4RRK1 w - - 1 26,"I thought black had escaped the attack, my thoughts of capturing the rook with my bishop which i had intended is no longer available as my queen is unprotected. However after a while I saw my next move"
+51,Qe2,d2e2,2rqr3/pb2p1k1/np2Pnpp/1Bp5/P7/2N2N1P/1PP1Q1P1/4RRK1 b - - 2 26,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+52,Bxf3,b7f3,2rqr3/p3p1k1/np2Pnpp/1Bp5/P7/2N2b1P/1PP1Q1P1/4RRK1 w - - 0 27,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+53,Rxf3,f1f3,2rqr3/p3p1k1/np2Pnpp/1Bp5/P7/2N2R1P/1PP1Q1P1/4R1K1 b - - 0 27,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+54,Qd4+,d8d4,2r1r3/p3p1k1/np2Pnpp/1Bp5/P2q4/2N2R1P/1PP1Q1P1/4R1K1 w - - 1 28,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+55,Rf2,f3f2,2r1r3/p3p1k1/np2Pnpp/1Bp5/P2q4/2N4P/1PP1QRP1/4R1K1 b - - 2 28,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+56,Nc7,a6c7,2r1r3/p1n1p1k1/1p2Pnpp/1Bp5/P2q4/2N4P/1PP1QRP1/4R1K1 w - - 3 29,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+57,Bxe8,b5e8,2r1B3/p1n1p1k1/1p2Pnpp/2p5/P2q4/2N4P/1PP1QRP1/4R1K1 b - - 0 29,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+58,Ncxe8,c7e8,2r1n3/p3p1k1/1p2Pnpp/2p5/P2q4/2N4P/1PP1QRP1/4R1K1 w - - 0 30,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+59,Rd1,e1d1,2r1n3/p3p1k1/1p2Pnpp/2p5/P2q4/2N4P/1PP1QRP1/3R2K1 b - - 1 30,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+60,Qb4,d4b4,2r1n3/p3p1k1/1p2Pnpp/2p5/Pq6/2N4P/1PP1QRP1/3R2K1 w - - 2 31,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+61,Rd7,d1d7,2r1n3/p2Rp1k1/1p2Pnpp/2p5/Pq6/2N4P/1PP1QRP1/6K1 b - - 3 31,This is an interesting position. It seems that Black can not play NXR as PXN creates a fork on 2 pieces.
+62,Rc7,c8c7,4n3/p1rRp1k1/1p2Pnpp/2p5/Pq6/2N4P/1PP1QRP1/6K1 w - - 4 32,Black Resigns
+63,Rxf6,f2f6,4n3/p1rRp1k1/1p2PRpp/2p5/Pq6/2N4P/1PP1Q1P1/6K1 b - - 0 32,Black Resigns

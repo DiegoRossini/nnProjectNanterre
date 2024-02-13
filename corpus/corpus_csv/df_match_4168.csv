@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Let's question the Dutch at once.
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Let's question the Dutch at once.
+3,Bf4,c1f4,rnbqkbnr/ppppp1pp/8/5p2/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Let's question the Dutch at once.
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,Let's question the Dutch at once.
+5,Nf3,g1f3,rnbqkb1r/ppppp1pp/5n2/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,Let's question the Dutch at once.
+6,e6,e7e6,rnbqkb1r/pppp2pp/4pn2/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Let's question the Dutch at once.
+7,h4,h2h4,rnbqkb1r/pppp2pp/4pn2/5p2/3P1B1P/5N2/PPP1PPP1/RN1QKB1R b KQkq - 0 4,Let's question the Dutch at once.
+8,Be7,f8e7,rnbqk2r/ppppb1pp/4pn2/5p2/3P1B1P/5N2/PPP1PPP1/RN1QKB1R w KQkq - 1 5,"Why not? The pawn is safe, g6 is bad for black."
+9,h5,h4h5,rnbqk2r/ppppb1pp/4pn2/5p1P/3P1B2/5N2/PPP1PPP1/RN1QKB1R b KQkq - 0 5,"Why not? The pawn is safe, g6 is bad for black."
+10,h6,h7h6,rnbqk2r/ppppb1p1/4pn1p/5p1P/3P1B2/5N2/PPP1PPP1/RN1QKB1R w KQkq - 0 6,"Stopping the pawn, but letting a wide hole on g6."
+11,Ne5,f3e5,rnbqk2r/ppppb1p1/4pn1p/4Np1P/3P1B2/8/PPP1PPP1/RN1QKB1R b KQkq - 1 6,"So, with six ""unnatural"" moves, I have a grimp on black."
+12,Nd5,f6d5,rnbqk2r/ppppb1p1/4p2p/3nNp1P/3P1B2/8/PPP1PPP1/RN1QKB1R w KQkq - 2 7,I calculated here that I could lose the bishop for developing the queen.
+13,Qd2,d1d2,rnbqk2r/ppppb1p1/4p2p/3nNp1P/3P1B2/8/PPPQPPP1/RN2KB1R b KQkq - 3 7,But he doesn't take it!
+14,O-O,e8g8,rnbq1rk1/ppppb1p1/4p2p/3nNp1P/3P1B2/8/PPPQPPP1/RN2KB1R w KQ - 4 8,But he doesn't take it!
+15,Bxh6,f4h6,rnbq1rk1/ppppb1p1/4p2B/3nNp1P/3P4/8/PPPQPPP1/RN2KB1R b KQ - 0 8,Almost without thinking.
+16,gxh6,g7h6,rnbq1rk1/ppppb3/4p2p/3nNp1P/3P4/8/PPPQPPP1/RN2KB1R w KQ - 0 9,Ng6 didn't give me lots.
+17,Qxh6,d2h6,rnbq1rk1/ppppb3/4p2Q/3nNp1P/3P4/8/PPP1PPP1/RN2KB1R b KQ - 0 9,Ng6 didn't give me lots.
+18,Rf6,f8f6,rnbq2k1/ppppb3/4pr1Q/3nNp1P/3P4/8/PPP1PPP1/RN2KB1R w KQ - 1 10,Ng6 didn't give me lots.
+19,Qg5+,h6g5,rnbq2k1/ppppb3/4pr2/3nNpQP/3P4/8/PPP1PPP1/RN2KB1R b KQ - 2 10,"Threatening, but fearing the attack will lose steam. What can I save from it?"
+20,Kh7,g8h7,rnbq4/ppppb2k/4pr2/3nNpQP/3P4/8/PPP1PPP1/RN2KB1R w KQ - 3 11,"Threatening, but fearing the attack will lose steam. What can I save from it?"
+21,h6,h5h6,rnbq4/ppppb2k/4pr1P/3nNpQ1/3P4/8/PPP1PPP1/RN2KB1R b KQ - 0 11,"Threatening, but fearing the attack will lose steam. What can I save from it?"
+22,Qg8,d8g8,rnb3q1/ppppb2k/4pr1P/3nNpQ1/3P4/8/PPP1PPP1/RN2KB1R w KQ - 1 12,"Well, a ""hard to attack"" pawn on h7... not bad. Oh, a pawn less, of course."
+23,Qxg8+,g5g8,rnb3Q1/ppppb2k/4pr1P/3nNp2/3P4/8/PPP1PPP1/RN2KB1R b KQ - 0 12,"Well, a ""hard to attack"" pawn on h7... not bad. Oh, a pawn less, of course."
+24,Kxg8,h7g8,rnb3k1/ppppb3/4pr1P/3nNp2/3P4/8/PPP1PPP1/RN2KB1R w KQ - 0 13,"Well, a ""hard to attack"" pawn on h7... not bad. Oh, a pawn less, of course."
+25,h7+,h6h7,rnb3k1/ppppb2P/4pr2/3nNp2/3P4/8/PPP1PPP1/RN2KB1R b KQ - 0 13,"Well, a ""hard to attack"" pawn on h7... not bad. Oh, a pawn less, of course."
+26,Kh8,g8h8,rnb4k/ppppb2P/4pr2/3nNp2/3P4/8/PPP1PPP1/RN2KB1R w KQ - 1 14,"Well, a ""hard to attack"" pawn on h7... not bad. Oh, a pawn less, of course."
+27,g4,g2g4,rnb4k/ppppb2P/4pr2/3nNp2/3P2P1/8/PPP1PP2/RN2KB1R b KQ - 0 14,"The only way I saw to ""do something"" but leave him develop. If d6, g4."
+28,fxg4,f5g4,rnb4k/ppppb2P/4pr2/3nN3/3P2p1/8/PPP1PP2/RN2KB1R w KQ - 0 15,"I don't want to give him tempo, but I finally will have to."
+29,c4,c2c4,rnb4k/ppppb2P/4pr2/3nN3/2PP2p1/8/PP2PP2/RN2KB1R b KQ - 0 15,"I don't want to give him tempo, but I finally will have to."
+30,Nb4,d5b4,rnb4k/ppppb2P/4pr2/4N3/1nPP2p1/8/PP2PP2/RN2KB1R w KQ - 1 16,"Well, I developed the knight on a bad square, but I have a freeway to castling."
+31,Na3,b1a3,rnb4k/ppppb2P/4pr2/4N3/1nPP2p1/N7/PP2PP2/R3KB1R b KQ - 2 16,"Well, I developed the knight on a bad square, but I have a freeway to castling."
+32,d6,d7d6,rnb4k/ppp1b2P/3ppr2/4N3/1nPP2p1/N7/PP2PP2/R3KB1R w KQ - 0 17,I didn't foresee before d4 will fall.
+33,Nxg4,e5g4,rnb4k/ppp1b2P/3ppr2/8/1nPP2N1/N7/PP2PP2/R3KB1R b KQ - 0 17,I didn't foresee before d4 will fall.
+34,Rf4,f6f4,rnb4k/ppp1b2P/3pp3/8/1nPP1rN1/N7/PP2PP2/R3KB1R w KQ - 1 18,I didn't foresee before d4 will fall.
+35,Ne3,g4e3,rnb4k/ppp1b2P/3pp3/8/1nPP1r2/N3N3/PP2PP2/R3KB1R b KQ - 2 18,"Now, a knight on c2 is mate. But I have another threat."
+36,Rxd4,f4d4,rnb4k/ppp1b2P/3pp3/8/1nPr4/N3N3/PP2PP2/R3KB1R w KQ - 0 19,"Now, a knight on c2 is mate. But I have another threat."
+37,Nb5,a3b5,rnb4k/ppp1b2P/3pp3/1N6/1nPr4/4N3/PP2PP2/R3KB1R b KQ - 1 19,Deadly. But black can try something... Bd8.
+38,Bd7,c8d7,rn5k/pppbb2P/3pp3/1N6/1nPr4/4N3/PP2PP2/R3KB1R w KQ - 2 20,"Cashing the wrong rook! In fact, it is very dangerous to leave this central black dominance."
+39,Nxc7,b5c7,rn5k/ppNbb2P/3pp3/8/1nPr4/4N3/PP2PP2/R3KB1R b KQ - 0 20,"Cashing the wrong rook! In fact, it is very dangerous to leave this central black dominance."
+40,Nb8c6,b8c6,r6k/ppNbb2P/2npp3/8/1nPr4/4N3/PP2PP2/R3KB1R w KQ - 1 21,It's incredible black hasn't found a way to mate me.
+41,Nxa8,c7a8,N6k/pp1bb2P/2npp3/8/1nPr4/4N3/PP2PP2/R3KB1R b KQ - 0 21,It's incredible black hasn't found a way to mate me.
+42,Ne5,c6e5,N6k/pp1bb2P/3pp3/4n3/1nPr4/4N3/PP2PP2/R3KB1R w KQ - 1 22,It's incredible black hasn't found a way to mate me.
+43,a3,a2a3,N6k/pp1bb2P/3pp3/4n3/1nPr4/P3N3/1P2PP2/R3KB1R b KQ - 0 22,Paying the price of taking the wrong rook. Now black has all his pieces active...
+44,Nbc6,b4c6,N6k/pp1bb2P/2npp3/4n3/2Pr4/P3N3/1P2PP2/R3KB1R w KQ - 1 23,Paying the price of taking the wrong rook. Now black has all his pieces active...
+45,b3,b2b3,N6k/pp1bb2P/2npp3/4n3/2Pr4/PP2N3/4PP2/R3KB1R b KQ - 0 23,Paying the price of taking the wrong rook. Now black has all his pieces active...
+46,Na5,c6a5,N6k/pp1bb2P/3pp3/n3n3/2Pr4/PP2N3/4PP2/R3KB1R w KQ - 1 24,Paying the price of taking the wrong rook. Now black has all his pieces active...
+47,Rb1,a1b1,N6k/pp1bb2P/3pp3/n3n3/2Pr4/PP2N3/4PP2/1R2KB1R b K - 2 24,Paying the price of taking the wrong rook. Now black has all his pieces active...
+48,Bc6,d7c6,N6k/pp2b2P/2bpp3/n3n3/2Pr4/PP2N3/4PP2/1R2KB1R w K - 3 25,...so I went for the pawns.
+49,Rh6,h1h6,N6k/pp2b2P/2bpp2R/n3n3/2Pr4/PP2N3/4PP2/1R2KB2 b - - 4 25,...so I went for the pawns.

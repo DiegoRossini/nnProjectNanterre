@@ -1,0 +1,118 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nc3,b1c3,rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1,!.Nc3 again!  Nonetheless this move is highly transpositional as will be the case in this contest.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 2 2,A good reply!  1...d5 generally gives the 1.Nc3 player exactly what they are looking for.  There are lots of options for Black.  The French option with 1...e6 planning ...d5 soon is probably the most solid.  Ditto for 1...c6.
+3,e4,e2e4,rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 2,A possible Alekhine or Center Counter?  A Sicilian was played here once with 2...c5 to which I replied 3.Nf3.  Interesting is 2...Nc6.
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Vienna?
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,No Vienna today.  One can get into a Center Game after 3.d4 exd4 4.Qxd4 Nc6 5.Qe3.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,"Four Knights, but is it a Scotch 4N or a Spanish 4N?  This move order avoids some minor Three Knights lines.... ( For example, 1.e4 e5 2.Nf3 Nc6 3.Nc3 f5 or 3....g6 )"
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,Perhaps we end up in a Spanish Game: Modern Steinitz after move 8...a5.
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,Perhaps we end up in a Spanish Game: Modern Steinitz after move 8...a5.
+9,h3,h2h3,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQK2R b KQkq - 0 5,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+10,Bd7,c8d7,r2qkb1r/pppb1ppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQK2R w KQkq - 1 6,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+11,O-O,e1g1,r2qkb1r/pppb1ppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQ1RK1 b kq - 2 6,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+12,Be7,f8e7,r2qk2r/pppbbppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQ1RK1 w kq - 3 7,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+13,Re1,f1e1,r2qk2r/pppbbppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQR1K1 b kq - 4 7,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+14,O-O,e8g8,r2q1rk1/pppbbppp/2np1n2/1B2p3/4P3/2N2N1P/PPPP1PP1/R1BQR1K1 w - - 5 8,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+15,Ne2,c3e2,r2q1rk1/pppbbppp/2np1n2/1B2p3/4P3/5N1P/PPPPNPP1/R1BQR1K1 b - - 6 8,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+16,a6,a7a6,r2q1rk1/1ppbbppp/p1np1n2/1B2p3/4P3/5N1P/PPPPNPP1/R1BQR1K1 w - - 0 9,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+17,Ba4,b5a4,r2q1rk1/1ppbbppp/p1np1n2/4p3/B3P3/5N1P/PPPPNPP1/R1BQR1K1 b - - 1 9,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+18,b5,b7b5,r2q1rk1/2pbbppp/p1np1n2/1p2p3/B3P3/5N1P/PPPPNPP1/R1BQR1K1 w - - 0 10,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+19,Bb3,a4b3,r2q1rk1/2pbbppp/p1np1n2/1p2p3/4P3/1B3N1P/PPPPNPP1/R1BQR1K1 b - - 1 10,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+20,Na5,c6a5,r2q1rk1/2pbbppp/p2p1n2/np2p3/4P3/1B3N1P/PPPPNPP1/R1BQR1K1 w - - 2 11,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+21,Ng3,e2g3,r2q1rk1/2pbbppp/p2p1n2/np2p3/4P3/1B3NNP/PPPP1PP1/R1BQR1K1 b - - 3 11,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+22,Nxb3,a5b3,r2q1rk1/2pbbppp/p2p1n2/1p2p3/4P3/1n3NNP/PPPP1PP1/R1BQR1K1 w - - 0 12,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+23,axb3,a2b3,r2q1rk1/2pbbppp/p2p1n2/1p2p3/4P3/1P3NNP/1PPP1PP1/R1BQR1K1 b - - 0 12,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+24,Bc6,d7c6,r2q1rk1/2p1bppp/p1bp1n2/1p2p3/4P3/1P3NNP/1PPP1PP1/R1BQR1K1 w - - 1 13,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+25,d4,d2d4,r2q1rk1/2p1bppp/p1bp1n2/1p2p3/3PP3/1P3NNP/1PP2PP1/R1BQR1K1 b - - 0 13,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+26,exd4,e5d4,r2q1rk1/2p1bppp/p1bp1n2/1p6/3pP3/1P3NNP/1PP2PP1/R1BQR1K1 w - - 0 14,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+27,Nxd4,f3d4,r2q1rk1/2p1bppp/p1bp1n2/1p6/3NP3/1P4NP/1PP2PP1/R1BQR1K1 b - - 0 14,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+28,Bb7,c6b7,r2q1rk1/1bp1bppp/p2p1n2/1p6/3NP3/1P4NP/1PP2PP1/R1BQR1K1 w - - 1 15,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+29,Qd2,d1d2,r2q1rk1/1bp1bppp/p2p1n2/1p6/3NP3/1P4NP/1PPQ1PP1/R1B1R1K1 b - - 2 15,"Connecting the rooks eventually, though 15.Qe2 may be better by keeping the QB diagonal open."
+30,Nd7,f6d7,r2q1rk1/1bpnbppp/p2p4/1p6/3NP3/1P4NP/1PPQ1PP1/R1B1R1K1 w - - 3 16,"The Knight is not able to remain on e5, but both c6 and g6 are good squares after being forced to move."
+31,Ndf5,d4f5,r2q1rk1/1bpnbppp/p2p4/1p3N2/4P3/1P4NP/1PPQ1PP1/R1B1R1K1 b - - 4 16,"The Knight is not able to remain on e5, but both c6 and g6 are good squares after being forced to move."
+32,Ne5,d7e5,r2q1rk1/1bp1bppp/p2p4/1p2nN2/4P3/1P4NP/1PPQ1PP1/R1B1R1K1 w - - 5 17,"The Knight is not able to remain on e5, but both c6 and g6 are good squares after being forced to move."
+33,f4,f2f4,r2q1rk1/1bp1bppp/p2p4/1p2nN2/4PP2/1P4NP/1PPQ2P1/R1B1R1K1 b - - 0 17,White can play through the f5 square if desired with tempo.  The e4 pawn is not well guarded however.  Also all the pieces for White are not developed.
+34,Ng6,e5g6,r2q1rk1/1bp1bppp/p2p2n1/1p3N2/4PP2/1P4NP/1PPQ2P1/R1B1R1K1 w - - 1 18,White can play through the f5 square if desired with tempo.  The e4 pawn is not well guarded however.  Also all the pieces for White are not developed.
+35,Nxe7+,f5e7,r2q1rk1/1bp1Nppp/p2p2n1/1p6/4PP2/1P4NP/1PPQ2P1/R1B1R1K1 b - - 0 18,White can play through the f5 square if desired with tempo.  The e4 pawn is not well guarded however.  Also all the pieces for White are not developed.
+36,Qxe7,d8e7,r4rk1/1bp1qppp/p2p2n1/1p6/4PP2/1P4NP/1PPQ2P1/R1B1R1K1 w - - 0 19,"Threatening mate in one on g7, but this is easily parried by Black."
+37,Nf5,g3f5,r4rk1/1bp1qppp/p2p2n1/1p3N2/4PP2/1P5P/1PPQ2P1/R1B1R1K1 b - - 1 19,"Threatening mate in one on g7, but this is easily parried by Black."
+38,Qe6,e7e6,r4rk1/1bp2ppp/p2pq1n1/1p3N2/4PP2/1P5P/1PPQ2P1/R1B1R1K1 w - - 2 20,"Threatening mate in one on g7, but this is easily parried by Black."
+39,Qd4,d2d4,r4rk1/1bp2ppp/p2pq1n1/1p3N2/3QPP2/1P5P/1PP3P1/R1B1R1K1 b - - 3 20,"Threatening mate in one on g7, but this is easily parried by Black."
+40,f6,f7f6,r4rk1/1bp3pp/p2pqpn1/1p3N2/3QPP2/1P5P/1PP3P1/R1B1R1K1 w - - 0 21,Maybe 21...Rfe8 or 21....Rae8 are better by placing the rook on the open half file?  I prefer the former.
+41,Bd2,c1d2,r4rk1/1bp3pp/p2pqpn1/1p3N2/3QPP2/1P5P/1PPB2P1/R3R1K1 b - - 1 21,Maybe 21...Rfe8 or 21....Rae8 are better by placing the rook on the open half file?  I prefer the former.
+42,Rad8,a8d8,3r1rk1/1bp3pp/p2pqpn1/1p3N2/3QPP2/1P5P/1PPB2P1/R3R1K1 w - - 2 22,Maybe 21...Rfe8 or 21....Rae8 are better by placing the rook on the open half file?  I prefer the former.
+43,Ng3,f5g3,3r1rk1/1bp3pp/p2pqpn1/1p6/3QPP2/1P4NP/1PPB2P1/R3R1K1 b - - 3 22,Moving to defense of e4.  White consolidates.
+44,Ne7,g6e7,3r1rk1/1bp1n1pp/p2pqp2/1p6/3QPP2/1P4NP/1PPB2P1/R3R1K1 w - - 4 23,21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.
+45,c4,c2c4,3r1rk1/1bp1n1pp/p2pqp2/1p6/2PQPP2/1P4NP/1P1B2P1/R3R1K1 b - - 0 23,21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.
+46,c5,c7c5,3r1rk1/1b2n1pp/p2pqp2/1pp5/2PQPP2/1P4NP/1P1B2P1/R3R1K1 w - - 0 24,21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.
+47,Qd3,d4d3,3r1rk1/1b2n1pp/p2pqp2/1pp5/2P1PP2/1P1Q2NP/1P1B2P1/R3R1K1 b - - 1 24,21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.
+48,b4,b5b4,3r1rk1/1b2n1pp/p2pqp2/2p5/1pP1PP2/1P1Q2NP/1P1B2P1/R3R1K1 w - - 0 25,21...bxc5 looks interesting.  The QR might prove useful on b8 afterward.
+49,Rad1,a1d1,3r1rk1/1b2n1pp/p2pqp2/2p5/1pP1PP2/1P1Q2NP/1P1B2P1/3RR1K1 b - - 1 25,Black's positional decision to seal the Queenside allows White to immediately reposition the Rook.
+50,Nc6,e7c6,3r1rk1/1b4pp/p1npqp2/2p5/1pP1PP2/1P1Q2NP/1P1B2P1/3RR1K1 w - - 2 26,Contesting d4.
+51,Be3,d2e3,3r1rk1/1b4pp/p1npqp2/2p5/1pP1PP2/1P1QB1NP/1P4P1/3RR1K1 b - - 3 26,Contesting d4.
+52,Ne7,c6e7,3r1rk1/1b2n1pp/p2pqp2/2p5/1pP1PP2/1P1QB1NP/1P4P1/3RR1K1 w - - 4 27,Tactics created by 27...Qd7.
+53,Bf2,e3f2,3r1rk1/1b2n1pp/p2pqp2/2p5/1pP1PP2/1P1Q2NP/1P3BP1/3RR1K1 b - - 5 27,Tactics created by 27...Qd7.
+54,Qd7,e6d7,3r1rk1/1b1qn1pp/p2p1p2/2p5/1pP1PP2/1P1Q2NP/1P3BP1/3RR1K1 w - - 6 28,Tactics created by 27...Qd7.
+55,Bxc5,f2c5,3r1rk1/1b1qn1pp/p2p1p2/2B5/1pP1PP2/1P1Q2NP/1P4P1/3RR1K1 b - - 0 28,Tactics created by 27...Qd7.
+56,a5,a6a5,3r1rk1/1b1qn1pp/3p1p2/p1B5/1pP1PP2/1P1Q2NP/1P4P1/3RR1K1 w - - 0 29,White achieves a won ending with a simple tactical combo.
+57,Qxd6,d3d6,3r1rk1/1b1qn1pp/3Q1p2/p1B5/1pP1PP2/1P4NP/1P4P1/3RR1K1 b - - 0 29,White achieves a won ending with a simple tactical combo.
+58,Qxd6,d7d6,3r1rk1/1b2n1pp/3q1p2/p1B5/1pP1PP2/1P4NP/1P4P1/3RR1K1 w - - 0 30,White achieves a won ending with a simple tactical combo.
+59,Rxd6,d1d6,3r1rk1/1b2n1pp/3R1p2/p1B5/1pP1PP2/1P4NP/1P4P1/4R1K1 b - - 0 30,White achieves a won ending with a simple tactical combo.
+60,Rxd6,d8d6,5rk1/1b2n1pp/3r1p2/p1B5/1pP1PP2/1P4NP/1P4P1/4R1K1 w - - 0 31,White achieves a won ending with a simple tactical combo.
+61,Bxd6,c5d6,5rk1/1b2n1pp/3B1p2/p7/1pP1PP2/1P4NP/1P4P1/4R1K1 b - - 0 31,White achieves a won ending with a simple tactical combo.
+62,Re8,f8e8,4r1k1/1b2n1pp/3B1p2/p7/1pP1PP2/1P4NP/1P4P1/4R1K1 w - - 1 32,White achieves a won ending with a simple tactical combo.
+63,c5,c4c5,4r1k1/1b2n1pp/3B1p2/p1P5/1p2PP2/1P4NP/1P4P1/4R1K1 b - - 0 32,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+64,Nc6,e7c6,4r1k1/1b4pp/2nB1p2/p1P5/1p2PP2/1P4NP/1P4P1/4R1K1 w - - 1 33,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+65,e5,e4e5,4r1k1/1b4pp/2nB1p2/p1P1P3/1p3P2/1P4NP/1P4P1/4R1K1 b - - 0 33,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+66,Nd4,c6d4,4r1k1/1b4pp/3B1p2/p1P1P3/1p1n1P2/1P4NP/1P4P1/4R1K1 w - - 1 34,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+67,Re3,e1e3,4r1k1/1b4pp/3B1p2/p1P1P3/1p1n1P2/1P2R1NP/1P4P1/6K1 b - - 2 34,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+68,Kf7,g8f7,4r3/1b3kpp/3B1p2/p1P1P3/1p1n1P2/1P2R1NP/1P4P1/6K1 w - - 3 35,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+69,f5,f4f5,4r3/1b3kpp/3B1p2/p1P1PP2/1p1n4/1P2R1NP/1P4P1/6K1 b - - 0 35,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+70,fxe5,f6e5,4r3/1b3kpp/3B4/p1P1pP2/1p1n4/1P2R1NP/1P4P1/6K1 w - - 0 36,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+71,Bxe5,d6e5,4r3/1b3kpp/8/p1P1BP2/1p1n4/1P2R1NP/1P4P1/6K1 b - - 0 36,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+72,Nc6,d4c6,4r3/1b3kpp/2n5/p1P1BP2/1p6/1P2R1NP/1P4P1/6K1 w - - 1 37,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+73,Bf4,e5f4,4r3/1b3kpp/2n5/p1P2P2/1p3B2/1P2R1NP/1P4P1/6K1 b - - 2 37,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+74,Rd8,e8d8,3r4/1b3kpp/2n5/p1P2P2/1p3B2/1P2R1NP/1P4P1/6K1 w - - 3 38,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+75,Bd6,f4d6,3r4/1b3kpp/2nB4/p1P2P2/1p6/1P2R1NP/1P4P1/6K1 b - - 4 38,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+76,Bc8,b7c8,2br4/5kpp/2nB4/p1P2P2/1p6/1P2R1NP/1P4P1/6K1 w - - 5 39,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+77,Kf2,g1f2,2br4/5kpp/2nB4/p1P2P2/1p6/1P2R1NP/1P3KP1/8 b - - 6 39,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+78,Kf6,f7f6,2br4/6pp/2nB1k2/p1P2P2/1p6/1P2R1NP/1P3KP1/8 w - - 7 40,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+79,Kf3,f2f3,2br4/6pp/2nB1k2/p1P2P2/1p6/1P2RKNP/1P4P1/8 b - - 8 40,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+80,Bxf5,c8f5,3r4/6pp/2nB1k2/p1P2b2/1p6/1P2RKNP/1P4P1/8 w - - 0 41,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+81,Nxf5,g3f5,3r4/6pp/2nB1k2/p1P2N2/1p6/1P2RK1P/1P4P1/8 b - - 0 41,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+82,Kxf5,f6f5,3r4/6pp/2nB4/p1P2k2/1p6/1P2RK1P/1P4P1/8 w - - 0 42,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+83,g4+,g2g4,3r4/6pp/2nB4/p1P2k2/1p4P1/1P2RK1P/1P6/8 b - - 0 42,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+84,Kf6,f5f6,3r4/6pp/2nB1k2/p1P5/1p4P1/1P2RK1P/1P6/8 w - - 1 43,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+85,h4,h3h4,3r4/6pp/2nB1k2/p1P5/1p4PP/1P2RK2/1P6/8 b - - 0 43,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+86,h6,h7h6,3r4/6p1/2nB1k1p/p1P5/1p4PP/1P2RK2/1P6/8 w - - 0 44,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+87,Bc7,d6c7,3r4/2B3p1/2n2k1p/p1P5/1p4PP/1P2RK2/1P6/8 b - - 1 44,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+88,Rd2,d8d2,8/2B3p1/2n2k1p/p1P5/1p4PP/1P2RK2/1P1r4/8 w - - 2 45,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+89,Ke4,f3e4,8/2B3p1/2n2k1p/p1P5/1p2K1PP/1P2R3/1P1r4/8 b - - 3 45,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+90,Rxb2,d2b2,8/2B3p1/2n2k1p/p1P5/1p2K1PP/1P2R3/1r6/8 w - - 0 46,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+91,Kd5,e4d5,8/2B3p1/2n2k1p/p1PK4/1p4PP/1P2R3/1r6/8 b - - 1 46,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+92,Ne7+,c6e7,8/2B1n1p1/5k1p/p1PK4/1p4PP/1P2R3/1r6/8 w - - 2 47,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+93,Kc4,d5c4,8/2B1n1p1/5k1p/p1P5/1pK3PP/1P2R3/1r6/8 b - - 3 47,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+94,Rc2+,b2c2,8/2B1n1p1/5k1p/p1P5/1pK3PP/1P2R3/2r5/8 w - - 4 48,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+95,Kb5,c4b5,8/2B1n1p1/5k1p/pKP5/1p4PP/1P2R3/2r5/8 b - - 5 48,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+96,Nd5,e7d5,8/2B3p1/5k1p/pKPn4/1p4PP/1P2R3/2r5/8 w - - 6 49,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+97,Be5+,c7e5,8/6p1/5k1p/pKPnB3/1p4PP/1P2R3/2r5/8 b - - 7 49,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+98,Kf7,f6f7,8/5kp1/7p/pKPnB3/1p4PP/1P2R3/2r5/8 w - - 8 50,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+99,Rf3+,e3f3,8/5kp1/7p/pKPnB3/1p4PP/1P3R2/2r5/8 b - - 9 50,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+100,Kg6,f7g6,8/6p1/6kp/pKPnB3/1p4PP/1P3R2/2r5/8 w - - 10 51,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+101,h5+,h4h5,8/6p1/6kp/pKPnB2P/1p4P1/1P3R2/2r5/8 b - - 0 51,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+102,Kh7,g6h7,8/6pk/7p/pKPnB2P/1p4P1/1P3R2/2r5/8 w - - 1 52,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+103,Rf7,f3f7,8/5Rpk/7p/pKPnB2P/1p4P1/1P6/2r5/8 b - - 2 52,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+104,Kg8,h7g8,6k1/5Rp1/7p/pKPnB2P/1p4P1/1P6/2r5/8 w - - 3 53,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+105,Rxg7+,f7g7,6k1/6R1/7p/pKPnB2P/1p4P1/1P6/2r5/8 b - - 0 53,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+106,Kf8,g8f8,5k2/6R1/7p/pKPnB2P/1p4P1/1P6/2r5/8 w - - 1 54,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+107,Rg6,g7g6,5k2/8/6Rp/pKPnB2P/1p4P1/1P6/2r5/8 b - - 2 54,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+108,Re2,c2e2,5k2/8/6Rp/pKPnB2P/1p4P1/1P6/4r3/8 w - - 3 55,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+109,Bd6+,e5d6,5k2/8/3B2Rp/pKPn3P/1p4P1/1P6/4r3/8 b - - 4 55,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+110,Kf7,f8f7,8/5k2/3B2Rp/pKPn3P/1p4P1/1P6/4r3/8 w - - 5 56,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+111,Rxh6,g6h6,8/5k2/3B3R/pKPn3P/1p4P1/1P6/4r3/8 b - - 0 56,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+112,Re3,e2e3,8/5k2/3B3R/pKPn3P/1p4P1/1P2r3/8/8 w - - 1 57,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+113,c6,c5c6,8/5k2/2PB3R/pK1n3P/1p4P1/1P2r3/8/8 b - - 0 57,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+114,Rxb3,e3b3,8/5k2/2PB3R/pK1n3P/1p4P1/1r6/8/8 w - - 0 58,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+115,c7,c6c7,8/2P2k2/3B3R/pK1n3P/1p4P1/1r6/8/8 b - - 0 58,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+116,Nxc7+,d5c7,8/2n2k2/3B3R/pK5P/1p4P1/1r6/8/8 w - - 0 59,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.
+117,Bxc7,d6c7,8/2B2k2/7R/pK5P/1p4P1/1r6/8/8 b - - 0 59,An interesting struggle until Black's inaccurate Queen move creates a winning tactic.

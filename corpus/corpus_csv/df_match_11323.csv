@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My preferred opening move.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I was expecting Nc6 or Nf6.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,I was expecting Nc6 or Nf6.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,I was expecting Nc6 or Nf6.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,This move put me out of my opening book.
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,This move put me out of my opening book.
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,This move put me out of my opening book.
+8,c5,c7c5,rnbqkbnr/pp3ppp/3p4/2p5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,This move put me out of my opening book.
+9,Bb5+,f1b5,rnbqkbnr/pp3ppp/3p4/1Bp5/3NP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,I decided to develop my light squared bishop.
+10,Bd7,c8d7,rn1qkbnr/pp1b1ppp/3p4/1Bp5/3NP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,"Just what i was hoping for.
+The other possibility i was expexting was: 5 ... Nd7 6.Nf5 a6 7.Bd3"
+11,Bxd7+,b5d7,rn1qkbnr/pp1B1ppp/3p4/2p5/3NP3/8/PPP2PPP/RNBQK2R b KQkq - 0 6,I think Qxd7 was the better choice.
+12,Nxd7,b8d7,r2qkbnr/pp1n1ppp/3p4/2p5/3NP3/8/PPP2PPP/RNBQK2R w KQkq - 0 7,I think Qxd7 was the better choice.
+13,Nf5,d4f5,r2qkbnr/pp1n1ppp/3p4/2p2N2/4P3/8/PPP2PPP/RNBQK2R b KQkq - 1 7,Attacking the d6 pawn.
+14,Nb6,d7b6,r2qkbnr/pp3ppp/1n1p4/2p2N2/4P3/8/PPP2PPP/RNBQK2R w KQkq - 2 8,One more attack on the d6 pawn.
+15,Bf4,c1f4,r2qkbnr/pp3ppp/1n1p4/2p2N2/4PB2/8/PPP2PPP/RN1QK2R b KQkq - 3 8,One more attack on the d6 pawn.
+16,d5,d6d5,r2qkbnr/pp3ppp/1n6/2pp1N2/4PB2/8/PPP2PPP/RN1QK2R w KQkq - 0 9,"Here I looked at exd5,Qxd5,Qxd5,Nxd5 and black seems to be ok. 
+I didn't like (for no good reason, I must admit) exd5, Qxd5, Qe2 , Qe6, Nc3, Qxe2 Nxe2.
+So I chose .."
+17,Nc3,b1c3,r2qkbnr/pp3ppp/1n6/2pp1N2/4PB2/2N5/PPP2PPP/R2QK2R b KQkq - 1 9,... to defend my e4 pawn and to develop another piece.
+18,d4,d5d4,r2qkbnr/pp3ppp/1n6/2p2N2/3pPB2/2N5/PPP2PPP/R2QK2R w KQkq - 0 10,That was a mistake. Black didn't see what's coming next.
+19,Nb5,c3b5,r2qkbnr/pp3ppp/1n6/1Np2N2/3pPB2/8/PPP2PPP/R2QK2R b KQkq - 1 10,Threatening to fork king and rook - Nc7.
+20,Kd7,e8d7,r2q1bnr/pp1k1ppp/1n6/1Np2N2/3pPB2/8/PPP2PPP/R2QK2R w KQ - 2 11,Clearing the way for the heavy metal! White is winning.
+21,Nfxd4,f5d4,r2q1bnr/pp1k1ppp/1n6/1Np5/3NPB2/8/PPP2PPP/R2QK2R b KQ - 0 11,Clearing the way for the heavy metal! White is winning.
+22,Qf6,d8f6,r4bnr/pp1k1ppp/1n3q2/1Np5/3NPB2/8/PPP2PPP/R2QK2R w KQ - 1 12,"Not the best defence. But even Kc8, Nf5, Qxd1, Rxd1 looks grim for black."
+23,Qg4+,d1g4,r4bnr/pp1k1ppp/1n3q2/1Np5/3NPBQ1/8/PPP2PPP/R3K2R b KQ - 2 12,"Other alternatives:
+1. Ke7 Bg5
+2. Ke8 Nc7"
+24,Kd8,d7d8,r2k1bnr/pp3ppp/1n3q2/1Np5/3NPBQ1/8/PPP2PPP/R3K2R w KQ - 3 13,"Other alternatives:
+1. Ke7 Bg5
+2. Ke8 Nc7"
+25,Bg5,f4g5,r2k1bnr/pp3ppp/1n3q2/1Np3B1/3NP1Q1/8/PPP2PPP/R3K2R b KQ - 4 13,

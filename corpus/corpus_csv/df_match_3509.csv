@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi Everyone!
+
+Had another grim lesson on tactics by The Great One, GM Cyrano.  He allowed me to execute a pawn fork in the middlegame and then proceeded to show me why he allowed it.  You can follow the game by using Gameknot Analysis as follows: http://gameknot.com/analyze-board.pl?bd=17961012&fb=1&rnd=0.4897350889336611."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"1. ...... c6 - in response to Afro's e4 I decided to experiment with the Caro-Kann Defense.  This move is characterised by c6 invented by Horatio Caro.  The idea of this is so that I can play a later d5, leaving e5 as an option and not hemming in Fou Leblanc (my light square bishop)."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,3. e5 - Afro chooses the Advanced Variation.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,3. e5 - Afro chooses the Advanced Variation.
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,3. e5 - Afro chooses the Advanced Variation.
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,4. ...... e6 - Fou Leblanc resides outside the f7 - d5 pawn chain.
+7,Nc3,b1c3,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 4,4. ...... e6 - Fou Leblanc resides outside the f7 - d5 pawn chain.
+8,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,4. ...... e6 - Fou Leblanc resides outside the f7 - d5 pawn chain.
+9,g4,g2g4,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P2P1/2N5/PPP2P1P/R1BQKBNR b KQkq - 0 5,"7. h4 - it's the sort of thing the Master Mater would do - advance the g and h pawns (before castling kingside) and deter me from castling kingside.  Here, Fou Leblanc is under the hammer and soon I will have to play h6 or h5 to create a bolt-hole for him."
+10,Bg6,f5g6,rn1qkbnr/pp3ppp/2p1p1b1/3pP3/3P2P1/2N5/PPP2P1P/R1BQKBNR w KQkq - 1 6,"7. h4 - it's the sort of thing the Master Mater would do - advance the g and h pawns (before castling kingside) and deter me from castling kingside.  Here, Fou Leblanc is under the hammer and soon I will have to play h6 or h5 to create a bolt-hole for him."
+11,Nge2,g1e2,rn1qkbnr/pp3ppp/2p1p1b1/3pP3/3P2P1/2N5/PPP1NP1P/R1BQKB1R b KQkq - 2 6,"7. h4 - it's the sort of thing the Master Mater would do - advance the g and h pawns (before castling kingside) and deter me from castling kingside.  Here, Fou Leblanc is under the hammer and soon I will have to play h6 or h5 to create a bolt-hole for him."
+12,c5,c6c5,rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P2P1/2N5/PPP1NP1P/R1BQKB1R w KQkq - 0 7,"7. h4 - it's the sort of thing the Master Mater would do - advance the g and h pawns (before castling kingside) and deter me from castling kingside.  Here, Fou Leblanc is under the hammer and soon I will have to play h6 or h5 to create a bolt-hole for him."
+13,h4,h2h4,rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P2PP/2N5/PPP1NP2/R1BQKB1R b KQkq - 0 7,"7. h4 - it's the sort of thing the Master Mater would do - advance the g and h pawns (before castling kingside) and deter me from castling kingside.  Here, Fou Leblanc is under the hammer and soon I will have to play h6 or h5 to create a bolt-hole for him."
+14,h5,h7h5,rn1qkbnr/pp3pp1/4p1b1/2ppP2p/3P2PP/2N5/PPP1NP2/R1BQKB1R w KQkq - 0 8,10. Nb5 - if Qxd4 then Bxc2.
+15,Nf4,e2f4,rn1qkbnr/pp3pp1/4p1b1/2ppP2p/3P1NPP/2N5/PPP2P2/R1BQKB1R b KQkq - 1 8,10. Nb5 - if Qxd4 then Bxc2.
+16,Bh7,g6h7,rn1qkbnr/pp3ppb/4p3/2ppP2p/3P1NPP/2N5/PPP2P2/R1BQKB1R w KQkq - 2 9,10. Nb5 - if Qxd4 then Bxc2.
+17,Nxh5,f4h5,rn1qkbnr/pp3ppb/4p3/2ppP2N/3P2PP/2N5/PPP2P2/R1BQKB1R b KQkq - 0 9,10. Nb5 - if Qxd4 then Bxc2.
+18,cxd4,c5d4,rn1qkbnr/pp3ppb/4p3/3pP2N/3p2PP/2N5/PPP2P2/R1BQKB1R w KQkq - 0 10,10. Nb5 - if Qxd4 then Bxc2.
+19,Nb5,c3b5,rn1qkbnr/pp3ppb/4p3/1N1pP2N/3p2PP/8/PPP2P2/R1BQKB1R b KQkq - 1 10,10. Nb5 - if Qxd4 then Bxc2.
+20,Nc6,b8c6,r2qkbnr/pp3ppb/2n1p3/1N1pP2N/3p2PP/8/PPP2P2/R1BQKB1R w KQkq - 2 11,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+21,Nxd4,b5d4,r2qkbnr/pp3ppb/2n1p3/3pP2N/3N2PP/8/PPP2P2/R1BQKB1R b KQkq - 0 11,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+22,Nxe5,c6e5,r2qkbnr/pp3ppb/4p3/3pn2N/3N2PP/8/PPP2P2/R1BQKB1R w KQkq - 0 12,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+23,Bb5+,f1b5,r2qkbnr/pp3ppb/4p3/1B1pn2N/3N2PP/8/PPP2P2/R1BQK2R b KQkq - 1 12,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+24,Nd7,e5d7,r2qkbnr/pp1n1ppb/4p3/1B1p3N/3N2PP/8/PPP2P2/R1BQK2R w KQkq - 2 13,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+25,Bg5,c1g5,r2qkbnr/pp1n1ppb/4p3/1B1p2BN/3N2PP/8/PPP2P2/R2QK2R b KQkq - 3 13,13. Bg5 - Glenda is under fire - I now block the attack by playing Ne7 but this will block Fou Lenoir in - in fact he will be permanently tied down to defending the pawn on g6.
+26,Ne7,g8e7,r2qkb1r/pp1nnppb/4p3/1B1p2BN/3N2PP/8/PPP2P2/R2QK2R w KQkq - 4 14,15. ...... Qxd7 - B for N trade.
+27,Qe2,d1e2,r2qkb1r/pp1nnppb/4p3/1B1p2BN/3N2PP/8/PPP1QP2/R3K2R b KQkq - 5 14,15. ...... Qxd7 - B for N trade.
+28,a6,a7a6,r2qkb1r/1p1nnppb/p3p3/1B1p2BN/3N2PP/8/PPP1QP2/R3K2R w KQkq - 0 15,15. ...... Qxd7 - B for N trade.
+29,Bxd7+,b5d7,r2qkb1r/1p1Bnppb/p3p3/3p2BN/3N2PP/8/PPP1QP2/R3K2R b KQkq - 0 15,15. ...... Qxd7 - B for N trade.
+30,Qxd7,d8d7,r3kb1r/1p1qnppb/p3p3/3p2BN/3N2PP/8/PPP1QP2/R3K2R w KQkq - 0 16,15. ...... Qxd7 - B for N trade.
+31,O-O-O,e1c1,r3kb1r/1p1qnppb/p3p3/3p2BN/3N2PP/8/PPP1QP2/2KR3R b kq - 1 16,16. ....... 0-0-0 - It seemed a good idea at the time but Henry is gonna be just as vulnerable on the queenside as on the kingside.
+32,O-O-O,e8c8,2kr1b1r/1p1qnppb/p3p3/3p2BN/3N2PP/8/PPP1QP2/2KR3R w - - 2 17,16. ....... 0-0-0 - It seemed a good idea at the time but Henry is gonna be just as vulnerable on the queenside as on the kingside.
+33,Rh3,h1h3,2kr1b1r/1p1qnppb/p3p3/3p2BN/3N2PP/7R/PPP1QP2/2KR4 b - - 3 17,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+34,Kb8,c8b8,1k1r1b1r/1p1qnppb/p3p3/3p2BN/3N2PP/7R/PPP1QP2/2KR4 w - - 4 18,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+35,Rf3,h3f3,1k1r1b1r/1p1qnppb/p3p3/3p2BN/3N2PP/5R2/PPP1QP2/2KR4 b - - 5 18,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+36,Bg6,h7g6,1k1r1b1r/1p1qnpp1/p3p1b1/3p2BN/3N2PP/5R2/PPP1QP2/2KR4 w - - 6 19,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+37,Nf4,h5f4,1k1r1b1r/1p1qnpp1/p3p1b1/3p2B1/3N1NPP/5R2/PPP1QP2/2KR4 b - - 7 19,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+38,Be4,g6e4,1k1r1b1r/1p1qnpp1/p3p3/3p2B1/3NbNPP/5R2/PPP1QP2/2KR4 w - - 8 20,19. ..... Be4 - threatening e5 forking the two knights.  Afro allows this but as per my earlier note .......
+39,Rc3,f3c3,1k1r1b1r/1p1qnpp1/p3p3/3p2B1/3NbNPP/2R5/PPP1QP2/2KR4 b - - 9 20,21. Nb3 - threatening Nc5.
+40,e5,e6e5,1k1r1b1r/1p1qnpp1/p7/3pp1B1/3NbNPP/2R5/PPP1QP2/2KR4 w - - 0 21,21. Nb3 - threatening Nc5.
+41,Nb3,d4b3,1k1r1b1r/1p1qnpp1/p7/3pp1B1/4bNPP/1NR5/PPP1QP2/2KR4 b - - 1 21,21. Nb3 - threatening Nc5.
+42,Rc8,d8c8,1kr2b1r/1p1qnpp1/p7/3pp1B1/4bNPP/1NR5/PPP1QP2/2KR4 w - - 2 22,22. ....... exf4 - there seemed nothing better but it does leave two lurvely diagonals for Afro's dsb to fatally annoy Henry.
+43,Qxe4,e2e4,1kr2b1r/1p1qnpp1/p7/3pp1B1/4QNPP/1NR5/PPP2P2/2KR4 b - - 0 22,22. ....... exf4 - there seemed nothing better but it does leave two lurvely diagonals for Afro's dsb to fatally annoy Henry.
+44,exf4,e5f4,1kr2b1r/1p1qnpp1/p7/3p2B1/4QpPP/1NR5/PPP2P2/2KR4 w - - 0 23,22. ....... exf4 - there seemed nothing better but it does leave two lurvely diagonals for Afro's dsb to fatally annoy Henry.
+45,Qxf4+,e4f4,1kr2b1r/1p1qnpp1/p7/3p2B1/5QPP/1NR5/PPP2P2/2KR4 b - - 0 23,24. Qxf7 - sssssss and double sssssss - in comes the Wicked Witch of the West and she will wreak devastation - she has taken my f7 pawn for starters.  The main course is yet to come.
+46,Ka8,b8a8,k1r2b1r/1p1qnpp1/p7/3p2B1/5QPP/1NR5/PPP2P2/2KR4 w - - 1 24,24. Qxf7 - sssssss and double sssssss - in comes the Wicked Witch of the West and she will wreak devastation - she has taken my f7 pawn for starters.  The main course is yet to come.
+47,Qxf7,f4f7,k1r2b1r/1p1qnQp1/p7/3p2B1/6PP/1NR5/PPP2P2/2KR4 b - - 0 24,24. Qxf7 - sssssss and double sssssss - in comes the Wicked Witch of the West and she will wreak devastation - she has taken my f7 pawn for starters.  The main course is yet to come.
+48,Rxc3,c8c3,k4b1r/1p1qnQp1/p7/3p2B1/6PP/1Nr5/PPP2P2/2KR4 w - - 0 25,"26. Re1 - this is the main course - a little bit of horsemeat for Afro, I move my knight out of the way but it allows something a whole lot worse."
+49,bxc3,b2c3,k4b1r/1p1qnQp1/p7/3p2B1/6PP/1NP5/P1P2P2/2KR4 b - - 0 25,"26. Re1 - this is the main course - a little bit of horsemeat for Afro, I move my knight out of the way but it allows something a whole lot worse."
+50,Qd6,d7d6,k4b1r/1p2nQp1/p2q4/3p2B1/6PP/1NP5/P1P2P2/2KR4 w - - 1 26,"26. Re1 - this is the main course - a little bit of horsemeat for Afro, I move my knight out of the way but it allows something a whole lot worse."
+51,Re1,d1e1,k4b1r/1p2nQp1/p2q4/3p2B1/6PP/1NP5/P1P2P2/2K1R3 b - - 2 26,"26. Re1 - this is the main course - a little bit of horsemeat for Afro, I move my knight out of the way but it allows something a whole lot worse."
+52,Qa3+,d6a3,k4b1r/1p2nQp1/p7/3p2B1/6PP/qNP5/P1P2P2/2K1R3 w - - 3 27,26. ....... Qa3+ - this proves to be little more than a spite check.
+53,Kd2,c1d2,k4b1r/1p2nQp1/p7/3p2B1/6PP/qNP5/P1PK1P2/4R3 b - - 4 27,28. Re8+ - nasty!
+54,Nc6,e7c6,k4b1r/1p3Qp1/p1n5/3p2B1/6PP/qNP5/P1PK1P2/4R3 w - - 5 28,28. Re8+ - nasty!
+55,Re8+,e1e8,k3Rb1r/1p3Qp1/p1n5/3p2B1/6PP/qNP5/P1PK1P2/8 b - - 6 28,28. Re8+ - nasty!
+56,Ka7,a8a7,4Rb1r/kp3Qp1/p1n5/3p2B1/6PP/qNP5/P1PK1P2/8 w - - 7 29,29. ..... d4 - this block is as flimsy as a meringue and Afro's steed will crush it.
+57,Be3+,g5e3,4Rb1r/kp3Qp1/p1n5/3p4/6PP/qNP1B3/P1PK1P2/8 b - - 8 29,29. ..... d4 - this block is as flimsy as a meringue and Afro's steed will crush it.
+58,d4,d5d4,4Rb1r/kp3Qp1/p1n5/8/3p2PP/qNP1B3/P1PK1P2/8 w - - 0 30,29. ..... d4 - this block is as flimsy as a meringue and Afro's steed will crush it.
+59,Nxd4,b3d4,4Rb1r/kp3Qp1/p1n5/8/3N2PP/q1P1B3/P1PK1P2/8 b - - 0 30,"30. Nxd4 - So, here is the desert, my friends, this capture will ensure that I will lose very heavy material, starting with the loss of the rook on h8 if I block the checking diagnoal with Bc5.  If I move Henry to b3 then Ne6 disc check winning Fou Lenoir to start off with.  My position is a complete and utter crushed raspberry and double cream meringue Eton Mess.  To save myself the bother of writing a resignation note I decided to finally move that wretched g7 pawn allowing instant ........"
+60,g6,g7g6,4Rb1r/kp3Q2/p1n3p1/8/3N2PP/q1P1B3/P1PK1P2/8 w - - 0 31,"31. Nxc6 MATE!! ........ death.  I am playing another game against Afro, it is still in play so I cannot say any more, apart from, touch wood, so far, it is an improvement on this one whatever the end result!"
+61,Nxc6#,d4c6,4Rb1r/kp3Q2/p1N3p1/8/6PP/q1P1B3/P1PK1P2/8 b - - 0 31,"31. Nxc6 MATE!! ........ death.  I am playing another game against Afro, it is still in play so I cannot say any more, apart from, touch wood, so far, it is an improvement on this one whatever the end result!"

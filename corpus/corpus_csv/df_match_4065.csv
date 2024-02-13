@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So I start with the usual.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,He replies in the same fashion.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I play a Queen's gambit.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,He replies with the respected Slav Defence.
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"This is the usual 3rd move for white, designed to prevent the Slav Gambit (3.....e5), although the Slav Gambit is rarely played and is not more successful than other 3rd moves by black."
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,He develops.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,As I do.
+8,dxc4,d5c4,rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,And he finally takes.
+9,e4,e2e4,rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,I threaten his c pawn
+10,b5,b7b5,rnbqkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,He protects.
+11,a4,a2a4,rnbqkb1r/p3pppp/2p2n2/1p6/P1pPP3/2N2N2/1P3PPP/R1BQKB1R b KQkq - 0 6,I threaten to take twice on b5
+12,b4,b5b4,rnbqkb1r/p3pppp/2p2n2/8/PppPP3/2N2N2/1P3PPP/R1BQKB1R w KQkq - 0 7,So he puches forward
+13,Na2,c3a2,rnbqkb1r/p3pppp/2p2n2/8/PppPP3/5N2/NP3PPP/R1BQKB1R b KQkq - 1 7,Now both his b and c pawns are hanging
+14,a5,a7a5,rnbqkb1r/4pppp/2p2n2/p7/PppPP3/5N2/NP3PPP/R1BQKB1R w KQkq - 0 8,"He protects the b pawn. Now if I take on c4, he can take on e4, so I play...."
+15,e5,e4e5,rnbqkb1r/4pppp/2p2n2/p3P3/PppP4/5N2/NP3PPP/R1BQKB1R b KQkq - 0 8,Hitting his knight first
+16,Nd5,f6d5,rnbqkb1r/4pppp/2p5/p2nP3/PppP4/5N2/NP3PPP/R1BQKB1R w KQkq - 1 9,Knight moves.
+17,Bxc4,f1c4,rnbqkb1r/4pppp/2p5/p2nP3/PpBP4/5N2/NP3PPP/R1BQK2R b KQkq - 0 9,I regain the pawn
+18,e6,e7e6,rnbqkb1r/5ppp/2p1p3/p2nP3/PpBP4/5N2/NP3PPP/R1BQK2R w KQkq - 0 10,"He gives more support to his knight, and prepares to develop his Bf8. I now had a good, long think. 10. 0-0 is of course the logical move here, presumably he replies with Be7 followed by 0-0 and it is hard to see any advantage for white. So I started looking at Bg5, then what? If he replies Be7, I can exchange bishops, and maybe my knights can manoeuvre to d3 and/or e4 and maybe into c5 and/or d6. This may be hard to counter. If he doesn't play Be7, how on earth is he going to develop his Bf8 and play 0-0? Yes Bg5 looks good...."
+19,Bg5,c1g5,rnbqkb1r/5ppp/2p1p3/p2nP1B1/PpBP4/5N2/NP3PPP/R2QK2R b KQkq - 1 10,"Hitting his queen, he avoids Be7 for the reasons stated already."
+20,Qb6,d8b6,rnb1kb1r/5ppp/1qp1p3/p2nP1B1/PpBP4/5N2/NP3PPP/R2QK2R w KQkq - 2 11,"This is the best square for the queen. From this square there is pressure on d4, for instance I can't play Nd2 with the idea of Ne4, as my d pawn will be hanging after Nd2. After the game I found there was one game on the world database with Qd7, but white won."

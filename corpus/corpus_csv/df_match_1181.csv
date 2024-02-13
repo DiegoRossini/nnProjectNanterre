@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,h4,h2h4,rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq - 0 1,controlling the center
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2,controlling the center
+3,a4,a2a4,rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq - 0 2,i control 2 flanks
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/P6P/8/1PPPPPP1/RNBQKBNR w KQkq - 0 3,developing my bishop
+5,Na3,b1a3,rnbqkbnr/ppp2ppp/8/3pp3/P6P/N7/1PPPPPP1/R1BQKBNR b KQkq - 1 3,developing my bishop
+6,Bc5,f8c5,rnbqk1nr/ppp2ppp/8/2bpp3/P6P/N7/1PPPPPP1/R1BQKBNR w KQkq - 2 4,developing my bishop
+7,g3,g2g3,rnbqk1nr/ppp2ppp/8/2bpp3/P6P/N5P1/1PPPPP2/R1BQKBNR b KQkq - 0 4,developing my bishop
+8,Nf6,g8f6,rnbqk2r/ppp2ppp/5n2/2bpp3/P6P/N5P1/1PPPPP2/R1BQKBNR w KQkq - 1 5,getting more pieces controlling the center
+9,Bg2,f1g2,rnbqk2r/ppp2ppp/5n2/2bpp3/P6P/N5P1/1PPPPPB1/R1BQK1NR b KQkq - 2 5,developing bishop
+10,O-O,e8g8,rnbq1rk1/ppp2ppp/5n2/2bpp3/P6P/N5P1/1PPPPPB1/R1BQK1NR w KQ - 3 6,developing bishop
+11,b3,b2b3,rnbq1rk1/ppp2ppp/5n2/2bpp3/P6P/NP4P1/2PPPPB1/R1BQK1NR b KQ - 0 6,developing bishop
+12,Nc6,b8c6,r1bq1rk1/ppp2ppp/2n2n2/2bpp3/P6P/NP4P1/2PPPPB1/R1BQK1NR w KQ - 1 7,GTFO
+13,Bb2,c1b2,r1bq1rk1/ppp2ppp/2n2n2/2bpp3/P6P/NP4P1/1BPPPPB1/R2QK1NR b KQ - 2 7,GTFO
+14,Ng4,f6g4,r1bq1rk1/ppp2ppp/2n5/2bpp3/P5nP/NP4P1/1BPPPPB1/R2QK1NR w KQ - 3 8,GTFO
+15,Nh3,g1h3,r1bq1rk1/ppp2ppp/2n5/2bpp3/P5nP/NP4PN/1BPPPPB1/R2QK2R b KQ - 4 8,GTFO
+16,Be6,c8e6,r2q1rk1/ppp2ppp/2n1b3/2bpp3/P5nP/NP4PN/1BPPPPB1/R2QK2R w KQ - 5 9,GTFO
+17,f3,f2f3,r2q1rk1/ppp2ppp/2n1b3/2bpp3/P5nP/NP3PPN/1BPPP1B1/R2QK2R b KQ - 0 9,GTFO
+18,Nf6,g4f6,r2q1rk1/ppp2ppp/2n1bn2/2bpp3/P6P/NP3PPN/1BPPP1B1/R2QK2R w KQ - 1 10,trying to get saf
+19,e3,e2e3,r2q1rk1/ppp2ppp/2n1bn2/2bpp3/P6P/NP2PPPN/1BPP2B1/R2QK2R b KQ - 0 10,trying to get saf
+20,Nh5,f6h5,r2q1rk1/ppp2ppp/2n1b3/2bpp2n/P6P/NP2PPPN/1BPP2B1/R2QK2R w KQ - 1 11,attacking weak paw
+21,Kf2,e1f2,r2q1rk1/ppp2ppp/2n1b3/2bpp2n/P6P/NP2PPPN/1BPP1KB1/R2Q3R b - - 2 11,guarding
+22,e4,e5e4,r2q1rk1/ppp2ppp/2n1b3/2bp3n/P3p2P/NP2PPPN/1BPP1KB1/R2Q3R w - - 0 12,i think i win a pawn if i just take
+23,g4,g3g4,r2q1rk1/ppp2ppp/2n1b3/2bp3n/P3p1PP/NP2PP1N/1BPP1KB1/R2Q3R b - - 0 12,!
+24,Qxh4+,d8h4,r4rk1/ppp2ppp/2n1b3/2bp3n/P3p1Pq/NP2PP1N/1BPP1KB1/R2Q3R w - - 0 13,!
+25,Kf1,f2f1,r4rk1/ppp2ppp/2n1b3/2bp3n/P3p1Pq/NP2PP1N/1BPP2B1/R2Q1K1R b - - 1 13,down material
+26,Ng3+,h5g3,r4rk1/ppp2ppp/2n1b3/2bp4/P3p1Pq/NP2PPnN/1BPP2B1/R2Q1K1R w - - 2 14,down material
+27,Kg1,f1g1,r4rk1/ppp2ppp/2n1b3/2bp4/P3p1Pq/NP2PPnN/1BPP2B1/R2Q2KR b - - 3 14,down material
+28,Nxh1,g3h1,r4rk1/ppp2ppp/2n1b3/2bp4/P3p1Pq/NP2PP1N/1BPP2B1/R2Q2Kn w - - 0 15,down material
+29,Kxh1,g1h1,r4rk1/ppp2ppp/2n1b3/2bp4/P3p1Pq/NP2PP1N/1BPP2B1/R2Q3K b - - 0 15,down material
+30,exf3,e4f3,r4rk1/ppp2ppp/2n1b3/2bp4/P5Pq/NP2Pp1N/1BPP2B1/R2Q3K w - - 0 16,down material
+31,Qxf3,d1f3,r4rk1/ppp2ppp/2n1b3/2bp4/P5Pq/NP2PQ1N/1BPP2B1/R6K b - - 0 16,down material
+32,Bxg4,e6g4,r4rk1/ppp2ppp/2n5/2bp4/P5bq/NP2PQ1N/1BPP2B1/R6K w - - 0 17,taking the pawn
+33,Qxd5,f3d5,r4rk1/ppp2ppp/2n5/2bQ4/P5bq/NP2P2N/1BPP2B1/R6K b - - 0 17,taking the pawn
+34,Bxh3,g4h3,r4rk1/ppp2ppp/2n5/2bQ4/P6q/NP2P2b/1BPP2B1/R6K w - - 0 18,i hate my position
+35,Rg1,a1g1,r4rk1/ppp2ppp/2n5/2bQ4/P6q/NP2P2b/1BPP2B1/6RK b - - 1 18,getting rook in game
+36,Bxg2+,h3g2,r4rk1/ppp2ppp/2n5/2bQ4/P6q/NP2P3/1BPP2b1/6RK w - - 0 19,forced
+37,Kxg2,h1g2,r4rk1/ppp2ppp/2n5/2bQ4/P6q/NP2P3/1BPP2K1/6R1 b - - 0 19,forced
+38,Qg4+,h4g4,r4rk1/ppp2ppp/2n5/2bQ4/P5q1/NP2P3/1BPP2K1/6R1 w - - 1 20,i am attacking g7
+39,Kf1,g2f1,r4rk1/ppp2ppp/2n5/2bQ4/P5q1/NP2P3/1BPP4/5KR1 b - - 2 20,i am attacking g7
+40,Qd1+,g4d1,r4rk1/ppp2ppp/2n5/2bQ4/P7/NP2P3/1BPP4/3q1KR1 w - - 3 21,i am attacking g7
+41,Kf2,f1f2,r4rk1/ppp2ppp/2n5/2bQ4/P7/NP2P3/1BPP1K2/3q2R1 b - - 4 21,i am attacking g7
+42,Bxe3+,c5e3,r4rk1/ppp2ppp/2n5/3Q4/P7/NP2b3/1BPP1K2/3q2R1 w - - 0 22,my queen or my rook
+43,dxe3,d2e3,r4rk1/ppp2ppp/2n5/3Q4/P7/NP2P3/1BP2K2/3q2R1 b - - 0 22,lucky i have nothing here
+44,Qxd5,d1d5,r4rk1/ppp2ppp/2n5/3q4/P7/NP2P3/1BP2K2/6R1 w - - 0 23,lucky i have nothing here
+45,Rxg7+,g1g7,r4rk1/ppp2pRp/2n5/3q4/P7/NP2P3/1BP2K2/8 b - - 0 23,lucky i have nothing here
+46,Kh8,g8h8,r4r1k/ppp2pRp/2n5/3q4/P7/NP2P3/1BP2K2/8 w - - 1 24,lucky i have nothing here
+47,Rg5+,g7g5,r4r1k/ppp2p1p/2n5/3q2R1/P7/NP2P3/1BP2K2/8 b - - 2 24,"still down material, i feel i should have won this game"
+48,f6,f7f6,r4r1k/ppp4p/2n2p2/3q2R1/P7/NP2P3/1BP2K2/8 w - - 0 25,"still down material, i feel i should have won this game"
+49,Rxd5,g5d5,r4r1k/ppp4p/2n2p2/3R4/P7/NP2P3/1BP2K2/8 b - - 0 25,"still down material, i feel i should have won this game"

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,“Best by test as said by bobby fischer “Develops and attacks d5 center square while opening up lines for queen and bishop
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Directly challenges white pawn by attacking center square d4 and opens lines for his queen and bishop
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,Offers pawn to control center
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Black can decline but this is best
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Develops kingside and attacks center square e5 and d4
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,“Fischer defence “Opens diagonal for C8 bishop but blocks diagonal for F8 bishop pawn also attacks e5 square therefore move must be good
+7,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4,Attacks center square d5 again and develops queenside
+8,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/8/4Ppb1/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5,Wrong according to the principles of chess that states that one should first develop knights before bishops
+9,Bc4,f1c4,rn1qkbnr/ppp2ppp/3p4/8/2B1Ppb1/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 5,Develops bishop on dangerous diagonal a2-g8 and attacks weak f7 pawn
+10,Nc6,b8c6,r2qkbnr/ppp2ppp/2np4/8/2B1Ppb1/2N2N2/PPPP2PP/R1BQK2R w KQkq - 4 6,Develops and attacks center but white still has much more control of center because of the pawn he offered ing the opening moves
+11,d4,d2d4,r2qkbnr/ppp2ppp/2np4/8/2BPPpb1/2N2N2/PPP3PP/R1BQK2R b KQkq - 0 6,I considered setting the trap 6.Ne5 hoping he play 6...Bxd1 followed by 7.Bxf7+ Ke7 8.Nd5# winning. But if black does not play Bxd1 and instead plays Nxe5 I would be in serous trouble therefore I played d4 opening up an diagonal for my bishop
+12,g6,g7g6,r2qkbnr/ppp2p1p/2np2p1/8/2BPPpb1/2N2N2/PPP3PP/R1BQK2R w KQkq - 0 7,Bad move he should have played Be7 or Nf6 in other words he should developed his kingside and not waste time like this
+13,Bxf4,c1f4,r2qkbnr/ppp2p1p/2np2p1/8/2BPPBb1/2N2N2/PPP3PP/R2QK2R b KQkq - 0 7,"Regains pawn and white clearly dominates the center. It can already been seen that white wins because he dominates the center and all his piece of developed and active as well as no weakness in his camp while black s has no pieces developed on kingside ,has little control of centre and weak squares f6,h6,f7 will be costly latter ing the game"
+14,Bg7,f8g7,r2qk1nr/ppp2pbp/2np2p1/8/2BPPBb1/2N2N2/PPP3PP/R2QK2R w KQkq - 1 8,At last develops kingside
+15,Bb5,c4b5,r2qk1nr/ppp2pbp/2np2p1/1B6/3PPBb1/2N2N2/PPP3PP/R2QK2R b KQkq - 2 8,Trying to trick him into playing Qd7. My move is not the best and I would have never played it against a higher rated player but here gave it a try.
+16,Qd7,d8d7,r3k1nr/pppq1pbp/2np2p1/1B6/3PPBb1/2N2N2/PPP3PP/R2QK2R w KQkq - 3 9,Falls in my trap he should have played a6 either forcing me to exchange my bishop or to force my bishop to B3 with b5
+17,d5,d4d5,r3k1nr/pppq1pbp/2np2p1/1B1P4/4PBb1/2N2N2/PPP3PP/R2QK2R b KQkq - 0 9,"Winning the knight for a pawn ,black cannot move knight because then I would attack his queen"
+18,a6,a7a6,r3k1nr/1ppq1pbp/p1np2p1/1B1P4/4PBb1/2N2N2/PPP3PP/R2QK2R w KQkq - 0 10,Wasting his own time he again should have develop his knight to f6
+19,dxc6,d5c6,r3k1nr/1ppq1pbp/p1Pp2p1/1B6/4PBb1/2N2N2/PPP3PP/R2QK2R b KQkq - 0 10,Taking his knight and attacking his queen
+20,bxc6,b7c6,r3k1nr/2pq1pbp/p1pp2p1/1B6/4PBb1/2N2N2/PPP3PP/R2QK2R w KQkq - 0 11,Black only move

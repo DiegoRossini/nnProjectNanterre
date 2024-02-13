@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"this is what Freddy plays, so do i."
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,ahhh... the dutch
+3,d4,d2d4,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,planning to go Bg7 and direct his DSB on the a1 thru h8 file.
+4,g6,g7g6,rnbqkbnr/ppppp2p/6p1/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,planning to go Bg7 and direct his DSB on the a1 thru h8 file.
+5,g3,g2g3,rnbqkbnr/ppppp2p/6p1/5p2/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,stonewall
+6,d5,d7d5,rnbqkbnr/ppp1p2p/6p1/3p1p2/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,stonewall
+7,Bg2,f1g2,rnbqkbnr/ppp1p2p/6p1/3p1p2/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,king safely
+8,Nf6,g8f6,rnbqkb1r/ppp1p2p/5np1/3p1p2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,king safely
+9,O-O,e1g1,rnbqkb1r/ppp1p2p/5np1/3p1p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 3 5,king safely
+10,c6,c7c6,rnbqkb1r/pp2p2p/2p2np1/3p1p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w kq - 0 6,attacking in the centre.
+11,Nbd2,b1d2,rnbqkb1r/pp2p2p/2p2np1/3p1p2/3P4/5NP1/PPPNPPBP/R1BQ1RK1 b kq - 1 6,attacking in the centre.
+12,Bg7,f8g7,rnbqk2r/pp2p1bp/2p2np1/3p1p2/3P4/5NP1/PPPNPPBP/R1BQ1RK1 w kq - 2 7,attacking in the centre.
+13,c4,c2c4,rnbqk2r/pp2p1bp/2p2np1/3p1p2/2PP4/5NP1/PP1NPPBP/R1BQ1RK1 b kq - 0 7,attacking in the centre.
+14,O-O,e8g8,rnbq1rk1/pp2p1bp/2p2np1/3p1p2/2PP4/5NP1/PP1NPPBP/R1BQ1RK1 w - - 1 8,taking advantage of the weak e5 square.
+15,Ne5,f3e5,rnbq1rk1/pp2p1bp/2p2np1/3pNp2/2PP4/6P1/PP1NPPBP/R1BQ1RK1 b - - 2 8,taking advantage of the weak e5 square.
+16,Nbd7,b8d7,r1bq1rk1/pp1np1bp/2p2np1/3pNp2/2PP4/6P1/PP1NPPBP/R1BQ1RK1 w - - 3 9,my knight is not going anywhere!
+17,f4,f2f4,r1bq1rk1/pp1np1bp/2p2np1/3pNp2/2PP1P2/6P1/PP1NP1BP/R1BQ1RK1 b - - 0 9,my knight is not going anywhere!
+18,Qb6,d8b6,r1b2rk1/pp1np1bp/1qp2np1/3pNp2/2PP1P2/6P1/PP1NP1BP/R1BQ1RK1 w - - 1 10,attacking my d4 pawn.
+19,e3,e2e3,r1b2rk1/pp1np1bp/1qp2np1/3pNp2/2PP1P2/4P1P1/PP1N2BP/R1BQ1RK1 b - - 0 10,best
+20,Nxe5,d7e5,r1b2rk1/pp2p1bp/1qp2np1/3pnp2/2PP1P2/4P1P1/PP1N2BP/R1BQ1RK1 w - - 0 11,not dxe5? Qxe3+! winning a pawn
+21,fxe5,f4e5,r1b2rk1/pp2p1bp/1qp2np1/3pPp2/2PP4/4P1P1/PP1N2BP/R1BQ1RK1 b - - 0 11,not dxe5? Qxe3+! winning a pawn
+22,Ne4,f6e4,r1b2rk1/pp2p1bp/1qp3p1/3pPp2/2PPn3/4P1P1/PP1N2BP/R1BQ1RK1 w - - 1 12,closing the centre.
+23,Nxe4,d2e4,r1b2rk1/pp2p1bp/1qp3p1/3pPp2/2PPN3/4P1P1/PP4BP/R1BQ1RK1 b - - 0 12,closing the centre.
+24,dxe4,d5e4,r1b2rk1/pp2p1bp/1qp3p1/4Pp2/2PPp3/4P1P1/PP4BP/R1BQ1RK1 w - - 0 13,closing the centre.
+25,c5,c4c5,r1b2rk1/pp2p1bp/1qp3p1/2P1Pp2/3Pp3/4P1P1/PP4BP/R1BQ1RK1 b - - 0 13,closing the centre.
+26,Qb5,b6b5,r1b2rk1/pp2p1bp/2p3p1/1qP1Pp2/3Pp3/4P1P1/PP4BP/R1BQ1RK1 w - - 1 14,now im going to try to trap his queen.
+27,Re1,f1e1,r1b2rk1/pp2p1bp/2p3p1/1qP1Pp2/3Pp3/4P1P1/PP4BP/R1BQR1K1 b - - 2 14,now im going to try to trap his queen.
+28,Be6,c8e6,r4rk1/pp2p1bp/2p1b1p1/1qP1Pp2/3Pp3/4P1P1/PP4BP/R1BQR1K1 w - - 3 15,if Bf1 black will go Bc4.
+29,b3,b2b3,r4rk1/pp2p1bp/2p1b1p1/1qP1Pp2/3Pp3/1P2P1P1/P5BP/R1BQR1K1 b - - 0 15,dart! his queen is safe.
+30,Qa5,b5a5,r4rk1/pp2p1bp/2p1b1p1/q1P1Pp2/3Pp3/1P2P1P1/P5BP/R1BQR1K1 w - - 1 16,dart! his queen is safe.
+31,Bd2,c1d2,r4rk1/pp2p1bp/2p1b1p1/q1P1Pp2/3Pp3/1P2P1P1/P2B2BP/R2QR1K1 b - - 2 16,dart! his queen is safe.
+32,Qd8,a5d8,r2q1rk1/pp2p1bp/2p1b1p1/2P1Pp2/3Pp3/1P2P1P1/P2B2BP/R2QR1K1 w - - 3 17,dart! his queen is safe.
+33,b4,b3b4,r2q1rk1/pp2p1bp/2p1b1p1/2P1Pp2/1P1Pp3/4P1P1/P2B2BP/R2QR1K1 b - - 0 17,now it's time for positional play.
+34,Qd7,d8d7,r4rk1/pp1qp1bp/2p1b1p1/2P1Pp2/1P1Pp3/4P1P1/P2B2BP/R2QR1K1 w - - 1 18,now it's time for positional play.
+35,Bc3,d2c3,r4rk1/pp1qp1bp/2p1b1p1/2P1Pp2/1P1Pp3/2B1P1P1/P5BP/R2QR1K1 b - - 2 18,trading off 2 of our best bishops.
+36,Bc4,e6c4,r4rk1/pp1qp1bp/2p3p1/2P1Pp2/1PbPp3/2B1P1P1/P5BP/R2QR1K1 w - - 3 19,trading off 2 of our best bishops.
+37,Bf1,g2f1,r4rk1/pp1qp1bp/2p3p1/2P1Pp2/1PbPp3/2B1P1P1/P6P/R2QRBK1 b - - 4 19,trading off 2 of our best bishops.
+38,Qd5,d7d5,r4rk1/pp2p1bp/2p3p1/2PqPp2/1PbPp3/2B1P1P1/P6P/R2QRBK1 w - - 5 20,trading off 2 of our best bishops.
+39,Bxc4,f1c4,r4rk1/pp2p1bp/2p3p1/2PqPp2/1PBPp3/2B1P1P1/P6P/R2QR1K1 b - - 0 20,trading off 2 of our best bishops.
+40,Qxc4,d5c4,r4rk1/pp2p1bp/2p3p1/2P1Pp2/1PqPp3/2B1P1P1/P6P/R2QR1K1 w - - 0 21,now trading queens.
+41,Qb3,d1b3,r4rk1/pp2p1bp/2p3p1/2P1Pp2/1PqPp3/1QB1P1P1/P6P/R3R1K1 b - - 1 21,now trading queens.
+42,Qxb3,c4b3,r4rk1/pp2p1bp/2p3p1/2P1Pp2/1P1Pp3/1qB1P1P1/P6P/R3R1K1 w - - 0 22,this was so he could bring his a8 rook in action.
+43,axb3,a2b3,r4rk1/pp2p1bp/2p3p1/2P1Pp2/1P1Pp3/1PB1P1P1/7P/R3R1K1 b - - 0 22,this was so he could bring his a8 rook in action.
+44,Kf7,g8f7,r4r2/pp2pkbp/2p3p1/2P1Pp2/1P1Pp3/1PB1P1P1/7P/R3R1K1 w - - 1 23,this was so he could bring his a8 rook in action.
+45,Kf2,g1f2,r4r2/pp2pkbp/2p3p1/2P1Pp2/1P1Pp3/1PB1P1P1/5K1P/R3R3 b - - 2 23,this was so he could bring his a8 rook in action.
+46,Ke6,f7e6,r4r2/pp2p1bp/2p1k1p1/2P1Pp2/1P1Pp3/1PB1P1P1/5K1P/R3R3 w - - 3 24,this was so he could bring his a8 rook in action.
+47,Ke2,f2e2,r4r2/pp2p1bp/2p1k1p1/2P1Pp2/1P1Pp3/1PB1P1P1/4K2P/R3R3 b - - 4 24,this was so he could bring his a8 rook in action.
+48,a6,a7a6,r4r2/1p2p1bp/p1p1k1p1/2P1Pp2/1P1Pp3/1PB1P1P1/4K2P/R3R3 w - - 0 25,this was so he could bring his a8 rook in action.
+49,Red1,e1d1,r4r2/1p2p1bp/p1p1k1p1/2P1Pp2/1P1Pp3/1PB1P1P1/4K2P/R2R4 b - - 1 25,he trapped his king!
+50,Kd5,e6d5,r4r2/1p2p1bp/p1p3p1/2PkPp2/1P1Pp3/1PB1P1P1/4K2P/R2R4 w - - 2 26,he trapped his king!
+51,Rdb1,d1b1,r4r2/1p2p1bp/p1p3p1/2PkPp2/1P1Pp3/1PB1P1P1/4K2P/RR6 b - - 3 26,he trapped his king!
+52,Rf7,f8f7,r7/1p2prbp/p1p3p1/2PkPp2/1P1Pp3/1PB1P1P1/4K2P/RR6 w - - 4 27,he trapped his king!
+53,Bd2,c3d2,r7/1p2prbp/p1p3p1/2PkPp2/1P1Pp3/1P2P1P1/3BK2P/RR6 b - - 5 27,he trapped his king!
+54,e6,e7e6,r7/1p3rbp/p1p1p1p1/2PkPp2/1P1Pp3/1P2P1P1/3BK2P/RR6 w - - 0 28,he trapped his king!

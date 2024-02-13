@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,He starts conventionally.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I reply with my usual. The Sicilian is the most popular and best-scoring response to White's first move 1.e4.
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"He plays a dangerous sideline. If black is not careful white builds up an overwhelming king side attack.
+2.f4 is the Grand Prix Attack or McDonnell Attack: the latter name stems from the 14th match game played in London in 1834 between Alexander McDonnell and Charles Louis Mahé de La Bourdonnais, won by Black. According to Jeremy Silman and others, Black's best reply is 2...d5 3.exd5 Nf6!, the Tal Gambit, which has caused the immediate 2.f4 to decline in popularity. White may decline the gambit with 3.Nc3, called the ""Toilet Variation"", so named after its reputed place of invention. A less common option is 2...e6, as La Bourdonnais played against McDonnell. Players usually enter the Grand Prix Attack nowadays by playing 2.Nc3 first before continuing 3.f4. The modern main line runs 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7. Here White can play the positional 5.Bb5, threatening to double Black's pawns with Bxc6, or the more aggressive 5.Bc4, aiming for a kingside attack."
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/2pp4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,I think it is best to strike in the center immediately to stop this build up.
+5,exd5,e4d5,rnbqkbnr/pp2pppp/8/2pP4/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,So he takes.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2pP4/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4,"I play this, rather than taking with the queen and allowing him to develop his knight to c3, attacking the queen with gain of time. This is a bot like a Centre Counter opening, except white has played f4 and black has played c5."
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/5n2/2pP4/5P2/2N5/PPPP2PP/R1BQKBNR b KQkq - 2 4,White calmly develops. Trying to hang onto the pawn with c4 or Bb5 don't lead to any advantage for white if black plays correctly.
+8,a6,a7a6,rnbqkb1r/1p2pppp/p4n2/2pP4/5P2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 5,"I played this, as I was afraid that if I took on d5 then the bishop check on b5 was strong. Checking on opening databases now, I see I was wrong to fear this, and simply Nxd5 was best, although a6 was successfully played in elduderino1 (1712) vs. tjbuege (1779), which continued with  5. Bc4? b5 6. Bb3? c4 7.	Bxc4	bxc4 and black is piece for a pawn up."
+9,Nf3,g1f3,rnbqkb1r/1p2pppp/p4n2/2pP4/5P2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 5,But my opponent doesn't fall for that.
+10,Nxd5,f6d5,rnbqkb1r/1p2pppp/p7/2pn4/5P2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 0 6,So I take back.
+11,d4,d2d4,rnbqkb1r/1p2pppp/p7/2pn4/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 6,The pawn on f4 was attacked and this uncovers protection from his Bc8.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p3p3/2pn4/3P1P2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 7,Protecting my pawn on c5.
+13,Ne4,c3e4,rnbqkb1r/1p3ppp/p3p3/2pn4/3PNP2/5N2/PPP3PP/R1BQKB1R b KQkq - 1 7,Attacking it again.
+14,Nd7,b8d7,r1bqkb1r/1p1n1ppp/p3p3/2pn4/3PNP2/5N2/PPP3PP/R1BQKB1R w KQkq - 2 8,Protecting it again.
+15,c4,c2c4,r1bqkb1r/1p1n1ppp/p3p3/2pn4/2PPNP2/5N2/PP4PP/R1BQKB1R b KQkq - 0 8,He hits my knight.
+16,Nd5f6,d5f6,r1bqkb1r/1p1n1ppp/p3pn2/2p5/2PPNP2/5N2/PP4PP/R1BQKB1R w KQkq - 1 9,"I retreat. I chose this square, as I didn't want to give him time to play d4-d5."
+17,Nxf6+,e4f6,r1bqkb1r/1p1n1ppp/p3pN2/2p5/2PP1P2/5N2/PP4PP/R1BQKB1R b KQkq - 0 9,He takes.
+18,Nxf6,d7f6,r1bqkb1r/1p3ppp/p3pn2/2p5/2PP1P2/5N2/PP4PP/R1BQKB1R w KQkq - 0 10,"I take back, and notice how he can't play d4-d5 now. Notice also how we have both played 9 moves, moving only knights and pawns. We both seem to have taken the advice ""knights before bishops"" to extremes!"
+19,Be3,c1e3,r1bqkb1r/1p3ppp/p3pn2/2p5/2PP1P2/4BN2/PP4PP/R2QKB1R b KQkq - 1 10,"I think this is a mistake, simply Be2 was better."
+20,Ng4,f6g4,r1bqkb1r/1p3ppp/p3p3/2p5/2PP1Pn1/4BN2/PP4PP/R2QKB1R w KQkq - 2 11,"The position is open, so it is better to have bishops than knights."

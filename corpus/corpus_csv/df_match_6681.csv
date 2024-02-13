@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A sort of queens gambit in reverse
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A sort of queens gambit in reverse
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,A sort of queens gambit in reverse
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,A sort of queens gambit in reverse
+5,Bb5+,f1b5,rnbqkbnr/pp2pppp/8/1Bpp4/3P4/4P3/PPP2PPP/RNBQK1NR b KQkq - 1 3,e6 rather than e5 in case the opposing player gets a bit materialistic...
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/1Bpp4/3P4/4P3/PPP2PPP/RNBQK1NR w KQkq - 2 4,e6 rather than e5 in case the opposing player gets a bit materialistic...
+7,dxc5,d4c5,r1bqkbnr/pp2pppp/2n5/1BPp4/8/4P3/PPP2PPP/RNBQK1NR b KQkq - 0 4,e6 rather than e5 in case the opposing player gets a bit materialistic...
+8,e6,e7e6,r1bqkbnr/pp3ppp/2n1p3/1BPp4/8/4P3/PPP2PPP/RNBQK1NR w KQkq - 0 5,e6 rather than e5 in case the opposing player gets a bit materialistic...
+9,b4,b2b4,r1bqkbnr/pp3ppp/2n1p3/1BPp4/1P6/4P3/P1P2PPP/RNBQK1NR b KQkq - 0 5,"Now we see white, playing materialisticly, attempting to save the pawn on c5. This move, however, leaves the rook open to attacks along the a1-h8 diagonal. A queen on f6 would be a strong move here. This is why e6 was played last move."
+10,a5,a7a5,r1bqkbnr/1p3ppp/2n1p3/pBPp4/1P6/4P3/P1P2PPP/RNBQK1NR w KQkq - 0 6,Trying to provoke either c3 or a3
+11,Na3,b1a3,r1bqkbnr/1p3ppp/2n1p3/pBPp4/1P6/N3P3/P1P2PPP/R1BQK1NR b KQkq - 1 6,Na3?...this move hangs the pawn on b4...
+12,axb4,a5b4,r1bqkbnr/1p3ppp/2n1p3/1BPp4/1p6/N3P3/P1P2PPP/R1BQK1NR w KQkq - 0 7,The Knight has no other move than to retreat to its starting square
+13,Nb1,a3b1,r1bqkbnr/1p3ppp/2n1p3/1BPp4/1p6/4P3/P1P2PPP/RNBQK1NR b KQkq - 1 7,The Knight has no other move than to retreat to its starting square
+14,Bxc5,f8c5,r1bqk1nr/1p3ppp/2n1p3/1Bbp4/1p6/4P3/P1P2PPP/RNBQK1NR w KQkq - 0 8,Bxc5...white is up a pawn
+15,Nf3,g1f3,r1bqk1nr/1p3ppp/2n1p3/1Bbp4/1p6/4PN2/P1P2PPP/RNBQK2R b KQkq - 1 8,Blacks plan the attack the rook
+16,Qf6,d8f6,r1b1k1nr/1p3ppp/2n1pq2/1Bbp4/1p6/4PN2/P1P2PPP/RNBQK2R w KQkq - 2 9,Blacks plan the attack the rook
+17,c3,c2c3,r1b1k1nr/1p3ppp/2n1pq2/1Bbp4/1p6/2P1PN2/P4PPP/RNBQK2R b KQkq - 0 9,A poor attempt at blocking. Nc3 saves the rook
+18,bxc3,b4c3,r1b1k1nr/1p3ppp/2n1pq2/1Bbp4/8/2p1PN2/P4PPP/RNBQK2R w KQkq - 0 10,Lining up a discovery on the king
+19,a4,a2a4,r1b1k1nr/1p3ppp/2n1pq2/1Bbp4/P7/2p1PN2/5PPP/RNBQK2R b KQkq - 0 10,Lining up a discovery on the king
+20,Nge7,g8e7,r1b1k2r/1p2nppp/2n1pq2/1Bbp4/P7/2p1PN2/5PPP/RNBQK2R w KQkq - 1 11,Lining up a discovery on the king
+21,Qd3,d1d3,r1b1k2r/1p2nppp/2n1pq2/1Bbp4/P7/2pQPN2/5PPP/RNB1K2R b KQkq - 2 11,Lining up a discovery on the king
+22,Bb4,c5b4,r1b1k2r/1p2nppp/2n1pq2/1B1p4/Pb6/2pQPN2/5PPP/RNB1K2R w KQkq - 3 12,Lining up a discovery on the king
+23,O-O,e1g1,r1b1k2r/1p2nppp/2n1pq2/1B1p4/Pb6/2pQPN2/5PPP/RNB2RK1 b kq - 4 12,White castles out
+24,c2,c3c2,r1b1k2r/1p2nppp/2n1pq2/1B1p4/Pb6/3QPN2/2p2PPP/RNB2RK1 w kq - 0 13,Black now forks the rook and Knight
+25,Qxc2,d3c2,r1b1k2r/1p2nppp/2n1pq2/1B1p4/Pb6/4PN2/2Q2PPP/RNB2RK1 b kq - 0 13,Bd4?? White hangs the queen...
+26,Qxa1,f6a1,r1b1k2r/1p2nppp/2n1p3/1B1p4/Pb6/4PN2/2Q2PPP/qNB2RK1 w kq - 0 14,Bd4?? White hangs the queen...
+27,Rd1,f1d1,r1b1k2r/1p2nppp/2n1p3/1B1p4/Pb6/4PN2/2Q2PPP/qNBR2K1 b kq - 1 14,Bd4?? White hangs the queen...
+28,O-O,e8g8,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb6/4PN2/2Q2PPP/qNBR2K1 w - - 2 15,Bd4?? White hangs the queen...
+29,Bb2,c1b2,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb6/4PN2/1BQ2PPP/qN1R2K1 b - - 3 15,Bd4?? White hangs the queen...
+30,Qa2,a1a2,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb6/4PN2/qBQ2PPP/1N1R2K1 w - - 4 16,Bd4?? White hangs the queen...
+31,Bd4,b2d4,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb1B4/4PN2/q1Q2PPP/1N1R2K1 b - - 5 16,Bd4?? White hangs the queen...
+32,Qxc2,a2c2,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb1B4/4PN2/2q2PPP/1N1R2K1 w - - 0 17,Qxc2 now attacks the rook
+33,Re1,d1e1,r1b2rk1/1p2nppp/2n1p3/1B1p4/Pb1B4/4PN2/2q2PPP/1N2R1K1 b - - 1 17,Re1?? Hangs the rook!!
+34,Bxe1,b4e1,r1b2rk1/1p2nppp/2n1p3/1B1p4/P2B4/4PN2/2q2PPP/1N2b1K1 w - - 0 18,White's Knight on b1 is now lost
+35,Nxe1,f3e1,r1b2rk1/1p2nppp/2n1p3/1B1p4/P2B4/4P3/2q2PPP/1N2N1K1 b - - 0 18,White's Knight on b1 is now lost
+36,Qxb1,c2b1,r1b2rk1/1p2nppp/2n1p3/1B1p4/P2B4/4P3/5PPP/1q2N1K1 w - - 0 19,Attacking the bishop on c3
+37,Bc3,d4c3,r1b2rk1/1p2nppp/2n1p3/1B1p4/P7/2B1P3/5PPP/1q2N1K1 b - - 1 19,Attacking the bishop on c3
+38,Qc1,b1c1,r1b2rk1/1p2nppp/2n1p3/1B1p4/P7/2B1P3/5PPP/2q1N1K1 w - - 2 20,Attacking the bishop on c3
+39,g4,g2g4,r1b2rk1/1p2nppp/2n1p3/1B1p4/P5P1/2B1P3/5P1P/2q1N1K1 b - - 0 20,g4?? Hangs the bishop
+40,Qxc3,c1c3,r1b2rk1/1p2nppp/2n1p3/1B1p4/P5P1/2q1P3/5P1P/4N1K1 w - - 0 21,Black wants to get the remaining bishop off of its current diagonal to activate its own white squared bishop
+41,Kf1,g1f1,r1b2rk1/1p2nppp/2n1p3/1B1p4/P5P1/2q1P3/5P1P/4NK2 b - - 1 21,Black wants to get the remaining bishop off of its current diagonal to activate its own white squared bishop
+42,Ra5,a8a5,2b2rk1/1p2nppp/2n1p3/rB1p4/P5P1/2q1P3/5P1P/4NK2 w - - 2 22,Black wants to get the remaining bishop off of its current diagonal to activate its own white squared bishop
+43,Bxc6,b5c6,2b2rk1/1p2nppp/2B1p3/r2p4/P5P1/2q1P3/5P1P/4NK2 b - - 0 22,Bxc6?? Since when do you trade off pieces when you are down so much material. Seems that white is now trying for a draw

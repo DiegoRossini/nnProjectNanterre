@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+7,e3,e2e3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+8,Bb4,f8b4,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 1 5,This is generally considered inaccurate and should be met with 5. Qa4+ Nc6 which blocks off black's c pawn but I did not take advantage
+9,a3,a2a3,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/P1N1P3/1P3PPP/R1BQKBNR b KQkq - 0 5,A mistake on my part but certainly not game ending
+10,Be7,b4e7,rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/P1N1P3/1P3PPP/R1BQKBNR w KQkq - 1 6,I think 6. Bd3 is better here because it doesn't allow the game continuation
+11,Nf3,g1f3,rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/P1N1PN2/1P3PPP/R1BQKB1R b KQkq - 2 6,I think 6. Bd3 is better here because it doesn't allow the game continuation
+12,Ne4,f6e4,rnbqk2r/ppp1bppp/4p3/3p4/2PPn3/P1N1PN2/1P3PPP/R1BQKB1R w KQkq - 3 7,"Giving white a strong center but also forcing away the Knight, generally cramping the position, and restricting the light squared Bishop making a castle difficult"
+13,Nxe4,c3e4,rnbqk2r/ppp1bppp/4p3/3p4/2PPN3/P3PN2/1P3PPP/R1BQKB1R b KQkq - 0 7,"Giving white a strong center but also forcing away the Knight, generally cramping the position, and restricting the light squared Bishop making a castle difficult"
+14,dxe4,d5e4,rnbqk2r/ppp1bppp/4p3/8/2PPp3/P3PN2/1P3PPP/R1BQKB1R w KQkq - 0 8,"Giving white a strong center but also forcing away the Knight, generally cramping the position, and restricting the light squared Bishop making a castle difficult"
+15,Nd2,f3d2,rnbqk2r/ppp1bppp/4p3/8/2PPp3/P3P3/1P1N1PPP/R1BQKB1R b KQkq - 1 8,A very strong pawn chain that will be difficult to dislodge
+16,f5,f7f5,rnbqk2r/ppp1b1pp/4p3/5p2/2PPp3/P3P3/1P1N1PPP/R1BQKB1R w KQkq - 0 9,A very strong pawn chain that will be difficult to dislodge
+17,Nb3,d2b3,rnbqk2r/ppp1b1pp/4p3/5p2/2PPp3/PN2P3/1P3PPP/R1BQKB1R b KQkq - 1 9,Yet another knight move. I think 9. g3 setting up the fianchetto and the castle is much better
+18,b6,b7b6,rnbqk2r/p1p1b1pp/1p2p3/5p2/2PPp3/PN2P3/1P3PPP/R1BQKB1R w KQkq - 0 10,Threatening a4 pushing my knight back to d2
+19,g3,g2g3,rnbqk2r/p1p1b1pp/1p2p3/5p2/2PPp3/PN2P1P1/1P3P1P/R1BQKB1R b KQkq - 0 10,Threatening a4 pushing my knight back to d2
+20,a5,a7a5,rnbqk2r/2p1b1pp/1p2p3/p4p2/2PPp3/PN2P1P1/1P3P1P/R1BQKB1R w KQkq - 0 11,Threatening a4 pushing my knight back to d2
+21,a4,a3a4,rnbqk2r/2p1b1pp/1p2p3/p4p2/P1PPp3/1N2P1P1/1P3P1P/R1BQKB1R b KQkq - 0 11,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+22,Bb4+,e7b4,rnbqk2r/2p3pp/1p2p3/p4p2/PbPPp3/1N2P1P1/1P3P1P/R1BQKB1R w KQkq - 1 12,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+23,Bd2,c1d2,rnbqk2r/2p3pp/1p2p3/p4p2/PbPPp3/1N2P1P1/1P1B1P1P/R2QKB1R b KQkq - 2 12,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+24,Bxd2+,b4d2,rnbqk2r/2p3pp/1p2p3/p4p2/P1PPp3/1N2P1P1/1P1b1P1P/R2QKB1R w KQkq - 0 13,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+25,Qxd2,d1d2,rnbqk2r/2p3pp/1p2p3/p4p2/P1PPp3/1N2P1P1/1P1Q1P1P/R3KB1R b KQkq - 0 13,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+26,O-O,e8g8,rnbq1rk1/2p3pp/1p2p3/p4p2/P1PPp3/1N2P1P1/1P1Q1P1P/R3KB1R w KQ - 1 14,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+27,Bg2,f1g2,rnbq1rk1/2p3pp/1p2p3/p4p2/P1PPp3/1N2P1P1/1P1Q1PBP/R3K2R b KQ - 2 14,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+28,Nc6,b8c6,r1bq1rk1/2p3pp/1pn1p3/p4p2/P1PPp3/1N2P1P1/1P1Q1PBP/R3K2R w KQ - 3 15,Black wants that Knight in the b4 slot where it will be all but impossible to dislodge and there is little White can do about it
+29,c5,c4c5,r1bq1rk1/2p3pp/1pn1p3/p1P2p2/P2Pp3/1N2P1P1/1P1Q1PBP/R3K2R b KQ - 0 15,15. 0-0 is far better here
+30,Qd5,d8d5,r1b2rk1/2p3pp/1pn1p3/p1Pq1p2/P2Pp3/1N2P1P1/1P1Q1PBP/R3K2R w KQ - 1 16,Still not castling for reasons I cannot explain
+31,Qc3,d2c3,r1b2rk1/2p3pp/1pn1p3/p1Pq1p2/P2Pp3/1NQ1P1P1/1P3PBP/R3K2R b KQ - 2 16,Still not castling for reasons I cannot explain
+32,Ba6,c8a6,r4rk1/2p3pp/bpn1p3/p1Pq1p2/P2Pp3/1NQ1P1P1/1P3PBP/R3K2R w KQ - 3 17,Now I'll never castle kingside and when the Knight comes to b4 it is very powerful which basically prevents a queenside castle
+33,Bf1,g2f1,r4rk1/2p3pp/bpn1p3/p1Pq1p2/P2Pp3/1NQ1P1P1/1P3P1P/R3KB1R b KQ - 4 17,My light squared Bishop is trapped in any case so I thought trading it off was ok but it leaves my Rook trapped
+34,Bxf1,a6f1,r4rk1/2p3pp/1pn1p3/p1Pq1p2/P2Pp3/1NQ1P1P1/1P3P1P/R3Kb1R w KQ - 0 18,This is such a great spot for the Knight and White is helpless to prevent it
+35,Rxf1,h1f1,r4rk1/2p3pp/1pn1p3/p1Pq1p2/P2Pp3/1NQ1P1P1/1P3P1P/R3KR2 b Q - 0 18,This is such a great spot for the Knight and White is helpless to prevent it
+36,g5,g7g5,r4rk1/2p4p/1pn1p3/p1Pq1pp1/P2Pp3/1NQ1P1P1/1P3P1P/R3KR2 w Q - 0 19,This is such a great spot for the Knight and White is helpless to prevent it
+37,Rc1,a1c1,r4rk1/2p4p/1pn1p3/p1Pq1pp1/P2Pp3/1NQ1P1P1/1P3P1P/2R1KR2 b - - 1 19,This is such a great spot for the Knight and White is helpless to prevent it
+38,Nb4,c6b4,r4rk1/2p4p/1p2p3/p1Pq1pp1/Pn1Pp3/1NQ1P1P1/1P3P1P/2R1KR2 w - - 2 20,This is such a great spot for the Knight and White is helpless to prevent it
+39,Qc4,c3c4,r4rk1/2p4p/1p2p3/p1Pq1pp1/PnQPp3/1N2P1P1/1P3P1P/2R1KR2 b - - 3 20,Hoping for a Queen trade giving me time to free my Rooks with Kd2 eventually
+40,Nd3+,b4d3,r4rk1/2p4p/1p2p3/p1Pq1pp1/P1QPp3/1N1nP1P1/1P3P1P/2R1KR2 w - - 4 21,I overlooked this nice little fork and the game quickly degenerates after this
+41,Kd2,e1d2,r4rk1/2p4p/1p2p3/p1Pq1pp1/P1QPp3/1N1nP1P1/1P1K1P1P/2R2R2 b - - 5 21,My rook is free at least
+42,Nxc1,d3c1,r4rk1/2p4p/1p2p3/p1Pq1pp1/P1QPp3/1N2P1P1/1P1K1P1P/2n2R2 w - - 0 22,My rook is free at least
+43,Rxc1,f1c1,r4rk1/2p4p/1p2p3/p1Pq1pp1/P1QPp3/1N2P1P1/1P1K1P1P/2R5 b - - 0 22,My rook is free at least
+44,Rfb8,f8b8,rr4k1/2p4p/1p2p3/p1Pq1pp1/P1QPp3/1N2P1P1/1P1K1P1P/2R5 w - - 1 23,I'm reluctant to trade Queens when down an exchange but I think 23. Qxd5 exd5 is better although it leaves Black lots of room to operate and eventually the Rook pair should prove the difference
+45,Qc2,c4c2,rr4k1/2p4p/1p2p3/p1Pq1pp1/P2Pp3/1N2P1P1/1PQK1P1P/2R5 b - - 2 23,I'm reluctant to trade Queens when down an exchange but I think 23. Qxd5 exd5 is better although it leaves Black lots of room to operate and eventually the Rook pair should prove the difference
+46,bxc5,b6c5,rr4k1/2p4p/4p3/p1pq1pp1/P2Pp3/1N2P1P1/1PQK1P1P/2R5 w - - 0 24,Huge pressure now on the b pawn and white can never bring enough pieces to relieve it
+47,Nxc5,b3c5,rr4k1/2p4p/4p3/p1Nq1pp1/P2Pp3/4P1P1/1PQK1P1P/2R5 b - - 0 24,Huge pressure now on the b pawn and white can never bring enough pieces to relieve it
+48,Qa2,d5a2,rr4k1/2p4p/4p3/p1N2pp1/P2Pp3/4P1P1/qPQK1P1P/2R5 w - - 1 25,Huge pressure now on the b pawn and white can never bring enough pieces to relieve it
+49,Rb1,c1b1,rr4k1/2p4p/4p3/p1N2pp1/P2Pp3/4P1P1/qPQK1P1P/1R6 b - - 2 25,This move loses the game immediately. Better is 26. b3 Qxc2 27. Kxc2
+50,Rb4,b8b4,r5k1/2p4p/4p3/p1N2pp1/Pr1Pp3/4P1P1/qPQK1P1P/1R6 w - - 3 26,This move loses the game immediately. Better is 26. b3 Qxc2 27. Kxc2
+51,Kc1,d2c1,r5k1/2p4p/4p3/p1N2pp1/Pr1Pp3/4P1P1/qPQ2P1P/1RK5 b - - 4 26,This move loses the game immediately. Better is 26. b3 Qxc2 27. Kxc2
+52,Rc4,b4c4,r5k1/2p4p/4p3/p1N2pp1/P1rPp3/4P1P1/qPQ2P1P/1RK5 w - - 5 27,Thinking perhaps I could trap the Queen although this is hopeless
+53,Nb3,c5b3,r5k1/2p4p/4p3/p4pp1/P1rPp3/1N2P1P1/qPQ2P1P/1RK5 b - - 6 27,Thinking perhaps I could trap the Queen although this is hopeless

@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Seems, we both know the ropes..."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Seems, we both know the ropes..."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Seems, we both know the ropes..."
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"Seems, we both know the ropes..."
+5,e3,e2e3,rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,This gives us 2 Queens pawns... Háh!...
+6,Nd7,b8d7,r2qkbnr/pppnpppp/8/3p1b2/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 1 4,This gives us 2 Queens pawns... Háh!...
+7,Nc3,b1c3,r2qkbnr/pppnpppp/8/3p1b2/3P1B2/2N1P3/PPP2PPP/R2QKBNR b KQkq - 2 4,This gives us 2 Queens pawns... Háh!...
+8,e6,e7e6,r2qkbnr/pppn1ppp/4p3/3p1b2/3P1B2/2N1P3/PPP2PPP/R2QKBNR w KQkq - 0 5,This gives us 2 Queens pawns... Háh!...
+9,Nf3,g1f3,r2qkbnr/pppn1ppp/4p3/3p1b2/3P1B2/2N1PN2/PPP2PPP/R2QKB1R b KQkq - 1 5,This gives us 2 Queens pawns... Háh!...
+10,Bd6,f8d6,r2qk1nr/pppn1ppp/3bp3/3p1b2/3P1B2/2N1PN2/PPP2PPP/R2QKB1R w KQkq - 2 6,This gives us 2 Queens pawns... Háh!...
+11,Bxd6,f4d6,r2qk1nr/pppn1ppp/3Bp3/3p1b2/3P4/2N1PN2/PPP2PPP/R2QKB1R b KQkq - 0 6,This gives us 2 Queens pawns... Háh!...
+12,cxd6,c7d6,r2qk1nr/pp1n1ppp/3pp3/3p1b2/3P4/2N1PN2/PPP2PPP/R2QKB1R w KQkq - 0 7,This gives us 2 Queens pawns... Háh!...
+13,Bd3,f1d3,r2qk1nr/pp1n1ppp/3pp3/3p1b2/3P4/2NBPN2/PPP2PPP/R2QK2R b KQkq - 1 7,Black reached a favourable position...
+14,Ne7,g8e7,r2qk2r/pp1nnppp/3pp3/3p1b2/3P4/2NBPN2/PPP2PPP/R2QK2R w KQkq - 2 8,Black reached a favourable position...
+15,O-O,e1g1,r2qk2r/pp1nnppp/3pp3/3p1b2/3P4/2NBPN2/PPP2PPP/R2Q1RK1 b kq - 3 8,"Loses tempo, better first 10. a5 Rc8..."
+16,O-O,e8g8,r2q1rk1/pp1nnppp/3pp3/3p1b2/3P4/2NBPN2/PPP2PPP/R2Q1RK1 w - - 4 9,"Loses tempo, better first 10. a5 Rc8..."
+17,a4,a2a4,r2q1rk1/pp1nnppp/3pp3/3p1b2/P2P4/2NBPN2/1PP2PPP/R2Q1RK1 b - - 0 9,"Loses tempo, better first 10. a5 Rc8..."
+18,a6,a7a6,r2q1rk1/1p1nnppp/p2pp3/3p1b2/P2P4/2NBPN2/1PP2PPP/R2Q1RK1 w - - 0 10,"Loses tempo, better first 10. a5 Rc8..."
+19,Bxf5,d3f5,r2q1rk1/1p1nnppp/p2pp3/3p1B2/P2P4/2N1PN2/1PP2PPP/R2Q1RK1 b - - 0 10,"Loses tempo, better first 10. a5 Rc8..."
+20,Nxf5,e7f5,r2q1rk1/1p1n1ppp/p2pp3/3p1n2/P2P4/2N1PN2/1PP2PPP/R2Q1RK1 w - - 0 11,"The only way, to stir up some dust, and some forced moves..."
+21,Qd3,d1d3,r2q1rk1/1p1n1ppp/p2pp3/3p1n2/P2P4/2NQPN2/1PP2PPP/R4RK1 b - - 1 11,"The only way, to stir up some dust, and some forced moves..."
+22,Nh4,f5h4,r2q1rk1/1p1n1ppp/p2pp3/3p4/P2P3n/2NQPN2/1PP2PPP/R4RK1 w - - 2 12,"The only way, to stir up some dust, and some forced moves..."
+23,Nxh4,f3h4,r2q1rk1/1p1n1ppp/p2pp3/3p4/P2P3N/2NQP3/1PP2PPP/R4RK1 b - - 0 12,"13. f3 Nf6 (or Nb8, e4, Nc6) 14. e4 Rfe8 (too early for Qh5, etc.) 15. exd5 exd5 16. Ne2 is probably better..."
+24,Qxh4,d8h4,r4rk1/1p1n1ppp/p2pp3/3p4/P2P3q/2NQP3/1PP2PPP/R4RK1 w - - 0 13,"13. f3 Nf6 (or Nb8, e4, Nc6) 14. e4 Rfe8 (too early for Qh5, etc.) 15. exd5 exd5 16. Ne2 is probably better..."
+25,Rfe1,f1e1,r4rk1/1p1n1ppp/p2pp3/3p4/P2P3q/2NQP3/1PP2PPP/R3R1K1 b - - 1 13,"13. f3 Nf6 (or Nb8, e4, Nc6) 14. e4 Rfe8 (too early for Qh5, etc.) 15. exd5 exd5 16. Ne2 is probably better..."
+26,Rac8,a8c8,2r2rk1/1p1n1ppp/p2pp3/3p4/P2P3q/2NQP3/1PP2PPP/R3R1K1 w - - 2 14,"I liked this better, then 15. ... Qf6 16. Re3 d5 17. a5!..."
+27,e4,e3e4,2r2rk1/1p1n1ppp/p2pp3/3p4/P2PP2q/2NQ4/1PP2PPP/R3R1K1 b - - 0 14,"I liked this better, then 15. ... Qf6 16. Re3 d5 17. a5!..."
+28,dxe4,d5e4,2r2rk1/1p1n1ppp/p2pp3/8/P2Pp2q/2NQ4/1PP2PPP/R3R1K1 w - - 0 15,"I liked this better, then 15. ... Qf6 16. Re3 d5 17. a5!..."
+29,Rxe4,e1e4,2r2rk1/1p1n1ppp/p2pp3/8/P2PR2q/2NQ4/1PP2PPP/R5K1 b - - 0 15,"I liked this better, then 15. ... Qf6 16. Re3 d5 17. a5!..."
+30,Qg5,h4g5,2r2rk1/1p1n1ppp/p2pp3/6q1/P2PR3/2NQ4/1PP2PPP/R5K1 w - - 1 16,"I liked this better, then 15. ... Qf6 16. Re3 d5 17. a5!..."
+31,Re3,e4e3,2r2rk1/1p1n1ppp/p2pp3/6q1/P2P4/2NQR3/1PP2PPP/R5K1 b - - 2 16,"Whites second d-pawn comes in handy, now. Better, then 16. ... Qa5 17. Ne4 (b4, Qxb4, Rb1, Qa5, Rxb7, Nf6) Rc6 18. Rg3 Qb6 19. b3!"
+32,d5,d6d5,2r2rk1/1p1n1ppp/p3p3/3p2q1/P2P4/2NQR3/1PP2PPP/R5K1 w - - 0 17,"Whites second d-pawn comes in handy, now. Better, then 16. ... Qa5 17. Ne4 (b4, Qxb4, Rb1, Qa5, Rxb7, Nf6) Rc6 18. Rg3 Qb6 19. b3!"
+33,Rg3,e3g3,2r2rk1/1p1n1ppp/p3p3/3p2q1/P2P4/2NQ2R1/1PP2PPP/R5K1 b - - 1 17,17. a5 Qg6 18. Qxg6 hxg6 19. Ra4 is probably better...
+34,Qe7,g5e7,2r2rk1/1p1nqppp/p3p3/3p4/P2P4/2NQ2R1/1PP2PPP/R5K1 w - - 2 18,18. Nd1 Nf6 19. a5 Ne4...
+35,Re1,a1e1,2r2rk1/1p1nqppp/p3p3/3p4/P2P4/2NQ2R1/1PP2PPP/4R1K1 b - - 3 18,18. Nd1 Nf6 19. a5 Ne4...
+36,Qb4,e7b4,2r2rk1/1p1n1ppp/p3p3/3p4/Pq1P4/2NQ2R1/1PP2PPP/4R1K1 w - - 4 19,No good is 19. ... Kh8 20. Rh3 h6 21. g4! Qe7 22. f4!
+37,Rd1,e1d1,2r2rk1/1p1n1ppp/p3p3/3p4/Pq1P4/2NQ2R1/1PP2PPP/3R2K1 b - - 5 19,No good is 19. ... Kh8 20. Rh3 h6 21. g4! Qe7 22. f4!
+38,Rc6,c8c6,5rk1/1p1n1ppp/p1r1p3/3p4/Pq1P4/2NQ2R1/1PP2PPP/3R2K1 w - - 6 20,No good is 19. ... Kh8 20. Rh3 h6 21. g4! Qe7 22. f4!
+39,Qe2,d3e2,5rk1/1p1n1ppp/p1r1p3/3p4/Pq1P4/2N3R1/1PP1QPPP/3R2K1 b - - 7 20,20. Qd2 Kh8 21. ... Nf6...
+40,g6,g7g6,5rk1/1p1n1p1p/p1r1p1p1/3p4/Pq1P4/2N3R1/1PP1QPPP/3R2K1 w - - 0 21,"Any idea's, for white? The main threat now, is Nb6..."
+41,Qd2,e2d2,5rk1/1p1n1p1p/p1r1p1p1/3p4/Pq1P4/2N3R1/1PPQ1PPP/3R2K1 b - - 1 21,"Any idea's, for white? The main threat now, is Nb6..."
+42,Rfc8,f8c8,2r3k1/1p1n1p1p/p1r1p1p1/3p4/Pq1P4/2N3R1/1PPQ1PPP/3R2K1 w - - 2 22,22. f4 Nb6 23. f5 exf5 24. Qh6 R6c7 25. Rh3 f6 26. Qh4 Re8 27. Qxf6 Nxa4...
+43,Rd3,g3d3,2r3k1/1p1n1p1p/p1r1p1p1/3p4/Pq1P4/2NR4/1PPQ1PPP/3R2K1 b - - 3 22,22. f4 Nb6 23. f5 exf5 24. Qh6 R6c7 25. Rh3 f6 26. Qh4 Re8 27. Qxf6 Nxa4...
+44,Nb6,d7b6,2r3k1/1p3p1p/pnr1p1p1/3p4/Pq1P4/2NR4/1PPQ1PPP/3R2K1 w - - 4 23,"23. Rb1 a5... Pawn a4 is lost, after all my warnings..."
+45,Qc1,d2c1,2r3k1/1p3p1p/pnr1p1p1/3p4/Pq1P4/2NR4/1PP2PPP/2QR2K1 b - - 5 23,"23. Rb1 a5... Pawn a4 is lost, after all my warnings..."
+46,Nxa4,b6a4,2r3k1/1p3p1p/p1r1p1p1/3p4/nq1P4/2NR4/1PP2PPP/2QR2K1 w - - 0 24,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+47,Nxa4,c3a4,2r3k1/1p3p1p/p1r1p1p1/3p4/Nq1P4/3R4/1PP2PPP/2QR2K1 b - - 0 24,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+48,Qxa4,b4a4,2r3k1/1p3p1p/p1r1p1p1/3p4/q2P4/3R4/1PP2PPP/2QR2K1 w - - 0 25,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+49,c3,c2c3,2r3k1/1p3p1p/p1r1p1p1/3p4/q2P4/2PR4/1P3PPP/2QR2K1 b - - 0 25,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+50,b5,b7b5,2r3k1/5p1p/p1r1p1p1/1p1p4/q2P4/2PR4/1P3PPP/2QR2K1 w - - 0 26,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+51,Qe3,c1e3,2r3k1/5p1p/p1r1p1p1/1p1p4/q2P4/2PRQ3/1P3PPP/3R2K1 b - - 1 26,"26. Qa1 Qxa1 27. Rxa1 b4, is surely better... Now follows a forced continuation, and black reaches a favourable position..."
+52,b4,b5b4,2r3k1/5p1p/p1r1p1p1/3p4/qp1P4/2PRQ3/1P3PPP/3R2K1 w - - 0 27,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+53,cxb4,c3b4,2r3k1/5p1p/p1r1p1p1/3p4/qP1P4/3RQ3/1P3PPP/3R2K1 b - - 0 27,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+54,Qxb4,a4b4,2r3k1/5p1p/p1r1p1p1/3p4/1q1P4/3RQ3/1P3PPP/3R2K1 w - - 0 28,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+55,Rb3,d3b3,2r3k1/5p1p/p1r1p1p1/3p4/1q1P4/1R2Q3/1P3PPP/3R2K1 b - - 1 28,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+56,Rc6c1,c6c1,2r3k1/5p1p/p3p1p1/3p4/1q1P4/1R2Q3/1P3PPP/2rR2K1 w - - 2 29,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+57,Rxc1,d1c1,2r3k1/5p1p/p3p1p1/3p4/1q1P4/1R2Q3/1P3PPP/2R3K1 b - - 0 29,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+58,Rxc1+,c8c1,6k1/5p1p/p3p1p1/3p4/1q1P4/1R2Q3/1P3PPP/2r3K1 w - - 0 30,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+59,Qxc1,e3c1,6k1/5p1p/p3p1p1/3p4/1q1P4/1R6/1P3PPP/2Q3K1 b - - 0 30,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+60,Qxb3,b4b3,6k1/5p1p/p3p1p1/3p4/3P4/1q6/1P3PPP/2Q3K1 w - - 0 31,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+61,Qd2,c1d2,6k1/5p1p/p3p1p1/3p4/3P4/1q6/1P1Q1PPP/6K1 b - - 1 31,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+62,a5,a6a5,6k1/5p1p/4p1p1/p2p4/3P4/1q6/1P1Q1PPP/6K1 w - - 0 32,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+63,f4,f2f4,6k1/5p1p/4p1p1/p2p4/3P1P2/1q6/1P1Q2PP/6K1 b - - 0 32,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+64,a4,a5a4,6k1/5p1p/4p1p1/3p4/p2P1P2/1q6/1P1Q2PP/6K1 w - - 0 33,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+65,Kf2,g1f2,6k1/5p1p/4p1p1/3p4/p2P1P2/1q6/1P1Q1KPP/8 b - - 1 33,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+66,h5,h7h5,6k1/5p2/4p1p1/3p3p/p2P1P2/1q6/1P1Q1KPP/8 w - - 0 34,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+67,Ke2,f2e2,6k1/5p2/4p1p1/3p3p/p2P1P2/1q6/1P1QK1PP/8 b - - 1 34,"Slowly, but surely, white is losing control over the situation... 34. g3 Kg7..."
+68,Qc4+,b3c4,6k1/5p2/4p1p1/3p3p/p1qP1P2/8/1P1QK1PP/8 w - - 2 35,"Hurry up, now: 34. ... h4 35. Kf2..."
+69,Kf2,e2f2,6k1/5p2/4p1p1/3p3p/p1qP1P2/8/1P1Q1KPP/8 b - - 3 35,"Postponing f6, as well as Qa2... Never spoil a good threat..."
+70,Kg7,g8g7,8/5pk1/4p1p1/3p3p/p1qP1P2/8/1P1Q1KPP/8 w - - 4 36,"Postponing f6, as well as Qa2... Never spoil a good threat..."
+71,g3,g2g3,8/5pk1/4p1p1/3p3p/p1qP1P2/6P1/1P1Q1K1P/8 b - - 0 36,"36. Kg3, probably Qf1! 37. h4 Kf6..."

@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,moved pawn to h6 to block bishop/knight combo threat
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,moved pawn to h6 to block bishop/knight combo threat
+3,Bf4,c1f4,rnbqkbnr/pppp1ppp/4p3/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,moved pawn to h6 to block bishop/knight combo threat
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,moved pawn to h6 to block bishop/knight combo threat
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,moved pawn to h6 to block bishop/knight combo threat
+6,h6,h7h6,rnbqkbnr/ppp2pp1/4p2p/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,moved pawn to h6 to block bishop/knight combo threat
+7,a3,a2a3,rnbqkbnr/ppp2pp1/4p2p/3p4/3P1B2/P4N2/1PP1PPPP/RN1QKB1R b KQkq - 0 4,normal development
+8,Nc6,b8c6,r1bqkbnr/ppp2pp1/2n1p2p/3p4/3P1B2/P4N2/1PP1PPPP/RN1QKB1R w KQkq - 1 5,normal development
+9,Ne5,f3e5,r1bqkbnr/ppp2pp1/2n1p2p/3pN3/3P1B2/P7/1PP1PPPP/RN1QKB1R b KQkq - 2 5,even knight exchange
+10,Nxe5,c6e5,r1bqkbnr/ppp2pp1/4p2p/3pn3/3P1B2/P7/1PP1PPPP/RN1QKB1R w KQkq - 0 6,even knight exchange
+11,Bxe5,f4e5,r1bqkbnr/ppp2pp1/4p2p/3pB3/3P4/P7/1PP1PPPP/RN1QKB1R b KQkq - 0 6,even knight exchange
+12,Nf6,g8f6,r1bqkb1r/ppp2pp1/4pn1p/3pB3/3P4/P7/1PP1PPPP/RN1QKB1R w KQkq - 1 7,blocking opponent white bishop
+13,e3,e2e3,r1bqkb1r/ppp2pp1/4pn1p/3pB3/3P4/P3P3/1PP2PPP/RN1QKB1R b KQkq - 0 7,blocking opponent white bishop
+14,a6,a7a6,r1bqkb1r/1pp2pp1/p3pn1p/3pB3/3P4/P3P3/1PP2PPP/RN1QKB1R w KQkq - 0 8,blocking opponent white bishop
+15,b4,b2b4,r1bqkb1r/1pp2pp1/p3pn1p/3pB3/1P1P4/P3P3/2P2PPP/RN1QKB1R b KQkq - 0 8,more development - at this point i'm concentrating on the opponent black bishop sitting nice and comfortable in the middle of the board
+16,Be7,f8e7,r1bqk2r/1pp1bpp1/p3pn1p/3pB3/1P1P4/P3P3/2P2PPP/RN1QKB1R w KQkq - 1 9,finished setting up for king's castle
+17,Be2,f1e2,r1bqk2r/1pp1bpp1/p3pn1p/3pB3/1P1P4/P3P3/2P1BPPP/RN1QK2R b KQkq - 2 9,there's the castle
+18,O-O,e8g8,r1bq1rk1/1pp1bpp1/p3pn1p/3pB3/1P1P4/P3P3/2P1BPPP/RN1QK2R w KQ - 3 10,there's the castle
+19,Nd2,b1d2,r1bq1rk1/1pp1bpp1/p3pn1p/3pB3/1P1P4/P3P3/2PNBPPP/R2QK2R b KQ - 4 10,was expecting a king's castle from my opponent
+20,Bd6,e7d6,r1bq1rk1/1pp2pp1/p2bpn1p/3pB3/1P1P4/P3P3/2PNBPPP/R2QK2R w KQ - 5 11,didn't like that bishop there
+21,Bxd6,e5d6,r1bq1rk1/1pp2pp1/p2Bpn1p/3p4/1P1P4/P3P3/2PNBPPP/R2QK2R b KQ - 0 11,didn't like that bishop there
+22,Qxd6,d8d6,r1b2rk1/1pp2pp1/p2qpn1p/3p4/1P1P4/P3P3/2PNBPPP/R2QK2R w KQ - 0 12,didn't like that bishop there
+23,O-O,e1g1,r1b2rk1/1pp2pp1/p2qpn1p/3p4/1P1P4/P3P3/2PNBPPP/R2Q1RK1 b - - 1 12,opening up a lane for possible bishop attack
+24,e5,e6e5,r1b2rk1/1pp2pp1/p2q1n1p/3pp3/1P1P4/P3P3/2PNBPPP/R2Q1RK1 w - - 0 13,opening up a lane for possible bishop attack
+25,dxe5,d4e5,r1b2rk1/1pp2pp1/p2q1n1p/3pP3/1P6/P3P3/2PNBPPP/R2Q1RK1 b - - 0 13,swapped pawns
+26,Qxe5,d6e5,r1b2rk1/1pp2pp1/p4n1p/3pq3/1P6/P3P3/2PNBPPP/R2Q1RK1 w - - 0 14,swapped pawns
+27,Nf3,d2f3,r1b2rk1/1pp2pp1/p4n1p/3pq3/1P6/P3PN2/2P1BPPP/R2Q1RK1 b - - 1 14,good move by my opponent - brought the knight over to help defend at the same time forcing me to move my queen
+28,Qd6,e5d6,r1b2rk1/1pp2pp1/p2q1n1p/3p4/1P6/P3PN2/2P1BPPP/R2Q1RK1 w - - 2 15,finished with the castle defense
+29,h3,h2h3,r1b2rk1/1pp2pp1/p2q1n1p/3p4/1P6/P3PN1P/2P1BPP1/R2Q1RK1 b - - 0 15,finished with the castle defense
+30,Nh5,f6h5,r1b2rk1/1pp2pp1/p2q3p/3p3n/1P6/P3PN1P/2P1BPP1/R2Q1RK1 w - - 1 16,"i very rarely sacrifice pieces for position, but for some reason i thought this was a good move...??"
+31,Nh4,f3h4,r1b2rk1/1pp2pp1/p2q3p/3p3n/1P5N/P3P2P/2P1BPP1/R2Q1RK1 b - - 2 16,"i very rarely sacrifice pieces for position, but for some reason i thought this was a good move...??"
+32,Nf4,h5f4,r1b2rk1/1pp2pp1/p2q3p/3p4/1P3n1N/P3P2P/2P1BPP1/R2Q1RK1 w - - 3 17,"i very rarely sacrifice pieces for position, but for some reason i thought this was a good move...??"
+33,exf4,e3f4,r1b2rk1/1pp2pp1/p2q3p/3p4/1P3P1N/P6P/2P1BPP1/R2Q1RK1 b - - 0 17,still trying to expose that corner
+34,Qxf4,d6f4,r1b2rk1/1pp2pp1/p6p/3p4/1P3q1N/P6P/2P1BPP1/R2Q1RK1 w - - 0 18,still trying to expose that corner
+35,g3,g2g3,r1b2rk1/1pp2pp1/p6p/3p4/1P3q1N/P5PP/2P1BP2/R2Q1RK1 b - - 0 18,still trying to expose that corner
+36,Qf6,f4f6,r1b2rk1/1pp2pp1/p4q1p/3p4/1P5N/P5PP/2P1BP2/R2Q1RK1 w - - 1 19,still trying to expose that corner
+37,Kh2,g1h2,r1b2rk1/1pp2pp1/p4q1p/3p4/1P5N/P5PP/2P1BP1K/R2Q1R2 b - - 2 19,he saw it of course!!
+38,Qe6,f6e6,r1b2rk1/1pp2pp1/p3q2p/3p4/1P5N/P5PP/2P1BP1K/R2Q1R2 w - - 3 20,i did not expect the rook move - i anticipated white bishop to g4
+39,Rc1,a1c1,r1b2rk1/1pp2pp1/p3q2p/3p4/1P5N/P5PP/2P1BP1K/2RQ1R2 b - - 4 20,i did not expect the rook move - i anticipated white bishop to g4
+40,Qxh3+,e6h3,r1b2rk1/1pp2pp1/p6p/3p4/1P5N/P5Pq/2P1BP1K/2RQ1R2 w - - 0 21,got the queen in - but what now....??
+41,Kg1,h2g1,r1b2rk1/1pp2pp1/p6p/3p4/1P5N/P5Pq/2P1BP2/2RQ1RK1 b - - 1 21,"forcing the knight to move - but opening up my own king at the same time, worth the risk - i suppose"
+42,g5,g7g5,r1b2rk1/1pp2p2/p6p/3p2p1/1P5N/P5Pq/2P1BP2/2RQ1RK1 w - - 0 22,"forcing the knight to move - but opening up my own king at the same time, worth the risk - i suppose"
+43,Nf3,h4f3,r1b2rk1/1pp2p2/p6p/3p2p1/1P6/P4NPq/2P1BP2/2RQ1RK1 b - - 1 22,trying to manipulate my opponents knight once again
+44,g4,g5g4,r1b2rk1/1pp2p2/p6p/3p4/1P4p1/P4NPq/2P1BP2/2RQ1RK1 w - - 0 23,trying to manipulate my opponents knight once again

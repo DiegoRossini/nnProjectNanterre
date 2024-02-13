@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Team Match, I am playing white. Open Game."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Black wants the Caro-Kann, so I follow with the main line."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Black wants the Caro-Kann, so I follow with the main line."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"One of the two options to follow the Classical Variation, the other being 3. Nc3."
+5,Nd2,b1d2,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3,"One of the two options to follow the Classical Variation, the other being 3. Nc3."
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/8/PPPN1PPP/R1BQKBNR w KQkq - 0 4,With 4. ... Nd7 black enters the Smyslov/Karpov Variation
+7,Nxe4,d2e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,With 4. ... Nd7 black enters the Smyslov/Karpov Variation
+8,Nd7,b8d7,r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,With 4. ... Nd7 black enters the Smyslov/Karpov Variation
+9,Nf3,g1f3,r1bqkbnr/pp1npppp/2p5/8/3PN3/5N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,With 4. ... Nd7 black enters the Smyslov/Karpov Variation
+10,Ngf6,g8f6,r1bqkb1r/pp1npppp/2p2n2/8/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 6,"No real reason I avoided exchanging knights other than to keep the black bishop off of f4, a place it seems to like to go in the Caro-Kann."
+11,Ng3,e4g3,r1bqkb1r/pp1npppp/2p2n2/8/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 4 6,"No real reason I avoided exchanging knights other than to keep the black bishop off of f4, a place it seems to like to go in the Caro-Kann."
+12,e6,e7e6,r1bqkb1r/pp1n1ppp/2p1pn2/8/3P4/5NN1/PPP2PPP/R1BQKB1R w KQkq - 0 7,Weak. The white bishop here has nothing to do and is easy to drive off if black so wishes.
+13,Bc4,f1c4,r1bqkb1r/pp1n1ppp/2p1pn2/8/2BP4/5NN1/PPP2PPP/R1BQK2R b KQkq - 1 7,Weak. The white bishop here has nothing to do and is easy to drive off if black so wishes.
+14,Be7,f8e7,r1bqk2r/pp1nbppp/2p1pn2/8/2BP4/5NN1/PPP2PPP/R1BQK2R w KQkq - 2 8,A bit of a plan starts to form.
+15,O-O,e1g1,r1bqk2r/pp1nbppp/2p1pn2/8/2BP4/5NN1/PPP2PPP/R1BQ1RK1 b kq - 3 8,A bit of a plan starts to form.
+16,O-O,e8g8,r1bq1rk1/pp1nbppp/2p1pn2/8/2BP4/5NN1/PPP2PPP/R1BQ1RK1 w - - 4 9,A bit of a plan starts to form.
+17,Qe2,d1e2,r1bq1rk1/pp1nbppp/2p1pn2/8/2BP4/5NN1/PPP1QPPP/R1B2RK1 b - - 5 9,A bit of a plan starts to form.
+18,b6,b7b6,r1bq1rk1/p2nbppp/1pp1pn2/8/2BP4/5NN1/PPP1QPPP/R1B2RK1 w - - 0 10,"Black's 9. ... b6 seems fairly passive, and gives white time to build pressure in the center. If black doesn't respond carefully, he's about to lose material, at least the e6 pawn and more if black is careless."
+19,Re1,f1e1,r1bq1rk1/p2nbppp/1pp1pn2/8/2BP4/5NN1/PPP1QPPP/R1B1R1K1 b - - 1 10,"Black's 9. ... b6 seems fairly passive, and gives white time to build pressure in the center. If black doesn't respond carefully, he's about to lose material, at least the e6 pawn and more if black is careless."
+20,Bb7,c8b7,r2q1rk1/pb1nbppp/1pp1pn2/8/2BP4/5NN1/PPP1QPPP/R1B1R1K1 w - - 2 11,Black misses it. so white pounces. Black pays the price for passive moves in the opening.
+21,Bxe6,c4e6,r2q1rk1/pb1nbppp/1pp1Bn2/8/3P4/5NN1/PPP1QPPP/R1B1R1K1 b - - 0 11,Black misses it. so white pounces. Black pays the price for passive moves in the opening.
+22,fxe6,f7e6,r2q1rk1/pb1nb1pp/1pp1pn2/8/3P4/5NN1/PPP1QPPP/R1B1R1K1 w - - 0 12,"Black recaptured and now the white queen forks the black king and the bishop on d7. There is only one move that handles the check and saves the bishop, but black dare not play it..."
+23,Qxe6+,e2e6,r2q1rk1/pb1nb1pp/1pp1Qn2/8/3P4/5NN1/PPP2PPP/R1B1R1K1 b - - 0 12,"Black recaptured and now the white queen forks the black king and the bishop on d7. There is only one move that handles the check and saves the bishop, but black dare not play it..."
+24,Rf7,f8f7,r2q2k1/pb1nbrpp/1pp1Qn2/8/3P4/5NN1/PPP2PPP/R1B1R1K1 w - - 1 13,"But he did. Now black is in lots of trouble. 13. ... Qf8, 14. Nxf7 Qxf7, 15. Qxe7 leaves white winning by rook and pawn. Black chose to resign."
+25,Ng5,f3g5,r2q2k1/pb1nbrpp/1pp1Qn2/6N1/3P4/6N1/PPP2PPP/R1B1R1K1 b - - 2 13,"But he did. Now black is in lots of trouble. 13. ... Qf8, 14. Nxf7 Qxf7, 15. Qxe7 leaves white winning by rook and pawn. Black chose to resign."

@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,apertura di Re.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"difesa Philidor.
+Il Nero adotta una difesa solida. Il pregio di questa mossa è che il pedone e5 è difeso da un altro pedone, quindi non potrà essere catturato facilmente. Il difetto è che l'alfiere f8 avrà qualche difficoltà ad essere sviluppato perchè la diagonale f8-a3 è bloccata."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"difesa Philidor.
+Il Nero adotta una difesa solida. Il pregio di questa mossa è che il pedone e5 è difeso da un altro pedone, quindi non potrà essere catturato facilmente. Il difetto è che l'alfiere f8 avrà qualche difficoltà ad essere sviluppato perchè la diagonale f8-a3 è bloccata."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"difesa Philidor.
+Il Nero adotta una difesa solida. Il pregio di questa mossa è che il pedone e5 è difeso da un altro pedone, quindi non potrà essere catturato facilmente. Il difetto è che l'alfiere f8 avrà qualche difficoltà ad essere sviluppato perchè la diagonale f8-a3 è bloccata."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Una continuazione molto logica: il Bianco non ha paura di spingere in d4 poichè il pedone è difeso sia dalla Donna che dal Cavallo. Inoltre così facendo ha aperto la strada ad entrambi gli alfieri.
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"è corretto riprendere col cavallo.
+se avesse ripreso la Donna sarebbe stata probabilmente attaccata da Nc6"
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"è corretto riprendere col cavallo.
+se avesse ripreso la Donna sarebbe stata probabilmente attaccata da Nc6"
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Il Nero sviluppa il cavallo e minaccia e4.
+9,Bd3,f1d3,rnbqkb1r/ppp2ppp/3p1n2/8/3NP3/3B4/PPP2PPP/RNBQK2R b KQkq - 2 5,"difende il pedone, ma relega l'afiere a compiti difensivi.
+5. Nc3 sembra più naturale"
+10,Be7,f8e7,rnbqk2r/ppp1bppp/3p1n2/8/3NP3/3B4/PPP2PPP/RNBQK2R w KQkq - 3 6,prepara l'arrocco
+11,O-O,e1g1,rnbqk2r/ppp1bppp/3p1n2/8/3NP3/3B4/PPP2PPP/RNBQ1RK1 b kq - 4 6,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+12,O-O,e8g8,rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/3B4/PPP2PPP/RNBQ1RK1 w - - 5 7,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+13,Nc3,b1c3,rnbq1rk1/ppp1bppp/3p1n2/8/3NP3/2NB4/PPP2PPP/R1BQ1RK1 b - - 6 7,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+14,Bg4,c8g4,rn1q1rk1/ppp1bppp/3p1n2/8/3NP1b1/2NB4/PPP2PPP/R1BQ1RK1 w - - 7 8,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+15,f3,f2f3,rn1q1rk1/ppp1bppp/3p1n2/8/3NP1b1/2NB1P2/PPP3PP/R1BQ1RK1 b - - 0 8,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+16,Bh5,g4h5,rn1q1rk1/ppp1bppp/3p1n2/7b/3NP3/2NB1P2/PPP3PP/R1BQ1RK1 w - - 1 9,"Questa ritirata dell'alfiere in h5 è dubbia. Da qui ed eventualmente da g6 questo alfiere non giocherà molto perchè i pedoni bianchi f3 e e4 sono molto solidi e ne ostruiranno il raggio d'azione.
+io avrei giocato 8....Bd7"
+17,Bf4,c1f4,rn1q1rk1/ppp1bppp/3p1n2/7b/3NPB2/2NB1P2/PPP3PP/R2Q1RK1 b - - 2 9,questa mossa non l'ho capita...
+18,c5,c7c5,rn1q1rk1/pp2bppp/3p1n2/2p4b/3NPB2/2NB1P2/PPP3PP/R2Q1RK1 w - - 0 10,"Il Nero attacca il cavallo in d4.
+Tuttavia bisogna stare attenti a lanciare in avanti i pedoni perchè una volta mossi non possono più tornare indietro: qui il pedone c5 abbandona il fratello in d6, ne consegue che quest'ultimo, senza altri suoi simili che lo difendono, diventa un punto debole. Inoltre la mossa c5 indebolisce anche la casa d5, poichè ora potrebbe venire occupata da un cavallo Bianco e non c'è più a disposizione la spinta liberatrice c6 (che sarebbe invece stata disponibile se il pedone c fosse rimasto in c7)."
+19,Nf5,d4f5,rn1q1rk1/pp2bppp/3p1n2/2p2N1b/4PB2/2NB1P2/PPP3PP/R2Q1RK1 b - - 1 10,"Il cavallo si posiziona in un ottima casa. da qui minaccia molte case importanti dello schieramento avversario (d6,e7,g7,h6).
+questa mossa dimostra come 9....c5 fosse una cattiva mossa per il Nero.
+paradossalmente la posizione del Nero sarebbe più solida se avesse saltato la nona mossa (quindi se avese ancora il pedone in c7)."
+20,Bg6,h5g6,rn1q1rk1/pp2bppp/3p1nb1/2p2N2/4PB2/2NB1P2/PPP3PP/R2Q1RK1 w - - 2 11,attacca il forte cavallo in f5
+21,Nxe7+,f5e7,rn1q1rk1/pp2Nppp/3p1nb1/2p5/4PB2/2NB1P2/PPP3PP/R2Q1RK1 b - - 0 11,"cambiare un cavallo per un alfiere è spesso una buona cosa, perchè la coppia di alfieri nel finale è superiore alla coppia di cavalli.
+è pur vero che qui il cavallo in f5 era molto forte strategicamente. ma va anche detto che il Nero minacciava comunque di cambiarlo catturando con l'alfiere g6, quindi tutto sommato questa presa di cavallo ci può stare."
+22,Qxe7,d8e7,rn3rk1/pp2qppp/3p1nb1/2p5/4PB2/2NB1P2/PPP3PP/R2Q1RK1 w - - 0 12,minaccia la Donna
+23,Re1,f1e1,rn3rk1/pp2qppp/3p1nb1/2p5/4PB2/2NB1P2/PPP3PP/R2QR1K1 b - - 1 12,minaccia la Donna
+24,Nc6,b8c6,r4rk1/pp2qppp/2np1nb1/2p5/4PB2/2NB1P2/PPP3PP/R2QR1K1 w - - 2 13,minaccia la Donna
+25,Nd5,c3d5,r4rk1/pp2qppp/2np1nb1/2pN4/4PB2/3B1P2/PPP3PP/R2QR1K1 b - - 3 13,minaccia la Donna
+26,Qd8,e7d8,r2q1rk1/pp3ppp/2np1nb1/2pN4/4PB2/3B1P2/PPP3PP/R2QR1K1 w - - 4 14,"di nuovo il Bianco ha posizionato un cavallo in una casa strategicamente importante e per il Nero sarà dura rimuoverlo (sempre a causa della mossa 9...c5, che ha reso debole la casa d5)."
+27,Bg5,f4g5,r2q1rk1/pp3ppp/2np1nb1/2pN2B1/4P3/3B1P2/PPP3PP/R2QR1K1 b - - 5 14,inchioda il cavallo
+28,Nb4,c6b4,r2q1rk1/pp3ppp/3p1nb1/2pN2B1/1n2P3/3B1P2/PPP3PP/R2QR1K1 w - - 6 15,il Nero reagisce cercando di cambiare il cavallo d5 o l'alfiere d3
+29,Bc4,d3c4,r2q1rk1/pp3ppp/3p1nb1/2pN2B1/1nB1P3/5P2/PPP3PP/R2QR1K1 b - - 7 15,"il Bianco vuole mantenere la coppia degli alfieri.
+Si poteva giocare anche 15.Nxf6 provocando una brutta impedonatura sull'arrocco del Nero
+
+n.b. ""impedonatura"" significa due pedoni dello stesso schieramento uno davanti all'altro sulla stessa colonna.
+salvo rare eccezioni avere un impedonatura è una debolezza perchè risulta più difficile difendere tali pedoni dagli attacchi avversari, inoltre il pedone in coda è immobilizzato"
+30,Nbxd5,b4d5,r2q1rk1/pp3ppp/3p1nb1/2pn2B1/2B1P3/5P2/PPP3PP/R2QR1K1 w - - 0 16,rimuovendo il forte cavallo da d5
+31,Bxd5,c4d5,r2q1rk1/pp3ppp/3p1nb1/2pB2B1/4P3/5P2/PPP3PP/R2QR1K1 b - - 0 16,"libera il cavallo f6 dall'inchiodatura e minaccia il pedone in b2, nonchè lo scacco di scoperta con c4+"
+32,Qb6,d8b6,r4rk1/pp3ppp/1q1p1nb1/2pB2B1/4P3/5P2/PPP3PP/R2QR1K1 w - - 1 17,"libera il cavallo f6 dall'inchiodatura e minaccia il pedone in b2, nonchè lo scacco di scoperta con c4+"

@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I've decided to annotate this because I found myself with an interesting position on move 6 which I would like to see how the game goes from there.  I've started to annotate from 6.Nxf6+
+
+King pawn 2 standard"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I've move a3 to try for a checkmate which I think is called something like ""bradburne"" it involves black moving his bishop to c5 my knight moving to d5 his knight capturing e4 and my queen moving to g4.  This will give me a good advantage and hopefully a seven move mate should things go to plan after that."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"I've move a3 to try for a checkmate which I think is called something like ""bradburne"" it involves black moving his bishop to c5 my knight moving to d5 his knight capturing e4 and my queen moving to g4.  This will give me a good advantage and hopefully a seven move mate should things go to plan after that."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,"I've move a3 to try for a checkmate which I think is called something like ""bradburne"" it involves black moving his bishop to c5 my knight moving to d5 his knight capturing e4 and my queen moving to g4.  This will give me a good advantage and hopefully a seven move mate should things go to plan after that."
+5,a3,a2a3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR b KQkq - 0 3,"I've move a3 to try for a checkmate which I think is called something like ""bradburne"" it involves black moving his bishop to c5 my knight moving to d5 his knight capturing e4 and my queen moving to g4.  This will give me a good advantage and hopefully a seven move mate should things go to plan after that."
+6,Bc5,f8c5,rnbqk2r/pppp1ppp/5n2/2b1p3/4P3/P1N5/1PPP1PPP/R1BQKBNR w KQkq - 1 4,c5 its working so ...
+7,Nd5,c3d5,rnbqk2r/pppp1ppp/5n2/2bNp3/4P3/P7/1PPP1PPP/R1BQKBNR b KQkq - 2 4,... Nd5 it is.   Capture my pawn please.
+8,d6,d7d6,rnbqk2r/ppp2ppp/3p1n2/2bNp3/4P3/P7/1PPP1PPP/R1BQKBNR w KQkq - 0 5,ahhhhh it didn't work next time maybe.
+9,d3,d2d3,rnbqk2r/ppp2ppp/3p1n2/2bNp3/4P3/P2P4/1PP2PPP/R1BQKBNR b KQkq - 0 5,Now I better protect e4.
+10,Bg4,c8g4,rn1qk2r/ppp2ppp/3p1n2/2bNp3/4P1b1/P2P4/1PP2PPP/R1BQKBNR w KQkq - 1 6,Okay he's threatening my queen so I need to deal with this.  I think if I capture his knight on f6 I can then capture his bishop on g4 when he captures my knight.
+11,Nxf6+,d5f6,rn1qk2r/ppp2ppp/3p1N2/2b1p3/4P1b1/P2P4/1PP2PPP/R1BQKBNR b KQkq - 0 6,Now this is where I found the 'interesting position'  I am analysing the board as he hasn't made his move and I have time to kill.  I assume 6.Qxf6 7. Qxg4 but then I realise he can move Qxf2 ouch.  check and capture the bishop on f1 and I've opened up a can of worms.  But after further analysis I realise I have an escape route around the back d2 -c3-b3 then when he cant check me he becomes vulnerable.  My queen can move to c8 and capture g7 depending on what he does.  Even retreating his queen at some point I believe I can still have a small material advantage. Castling I can move my dark squared bishop to h6 to give him problems. The trouble is though am I leaving my king out in the open too much??  Will I set myself up for a fall.  He's still not made his move so I will have another look when he captures my knight with the queen should that be what he does.
+12,Qxf6,d8f6,rn2k2r/ppp2ppp/3p1q2/2b1p3/4P1b1/P2P4/1PP2PPP/R1BQKBNR w KQkq - 0 7,As expected...
+13,Qxg4,d1g4,rn2k2r/ppp2ppp/3p1q2/2b1p3/4P1Q1/P2P4/1PP2PPP/R1B1KBNR b KQkq - 0 7,so here goes the gamble.
+14,Qxf2+,f6f2,rn2k2r/ppp2ppp/3p4/2b1p3/4P1Q1/P2P4/1PP2qPP/R1B1KBNR w KQkq - 0 8,as expected he saw the check so he thinks he's in good shape. (he still might be)
+15,Kd1,e1d1,rn2k2r/ppp2ppp/3p4/2b1p3/4P1Q1/P2P4/1PP2qPP/R1BK1BNR b kq - 1 8,got the bishop
+16,Qxf1+,f2f1,rn2k2r/ppp2ppp/3p4/2b1p3/4P1Q1/P2P4/1PP3PP/R1BK1qNR w kq - 0 9,got the bishop
+17,Kd2,d1d2,rn2k2r/ppp2ppp/3p4/2b1p3/4P1Q1/P2P4/1PPK2PP/R1B2qNR b kq - 1 9,I want him now to go f2 preferably but Qf6 would be acceptable.  Should he castle I will have to possibly move to c3 without being forced
+18,Bxg1,c5g1,rn2k2r/ppp2ppp/3p4/4p3/4P1Q1/P2P4/1PPK2PP/R1B2qbR w kq - 0 10,I wasn't expecting that. I didn't come across it when analysing that could cause problems.
+19,Rxg1,h1g1,rn2k2r/ppp2ppp/3p4/4p3/4P1Q1/P2P4/1PPK2PP/R1B2qR1 b kq - 0 10,I nearly missed this and immediately put my queen on c8.  I figured out in the end that my rook was lost and it would possibly be rook for rook but this way I get his bishop as well.
+20,Qxg1,f1g1,rn2k2r/ppp2ppp/3p4/4p3/4P1Q1/P2P4/1PPK2PP/R1B3q1 w kq - 0 11,here is the check
+21,Qc8+,g4c8,rnQ1k2r/ppp2ppp/3p4/4p3/4P3/P2P4/1PPK2PP/R1B3q1 b kq - 1 11,here is the check
+22,Ke7,e8e7,rnQ4r/ppp1kppp/3p4/4p3/4P3/P2P4/1PPK2PP/R1B3q1 w - - 2 12,Qxb2 I thought was an option until I saw he could movie his knight.
+23,Qxh8,c8h8,rn5Q/ppp1kppp/3p4/4p3/4P3/P2P4/1PPK2PP/R1B3q1 b - - 0 12,So i'll take the rook
+24,Qxg2+,g1g2,rn5Q/ppp1kppp/3p4/4p3/4P3/P2P4/1PPK2qP/R1B5 w - - 0 13,check
+25,Kc3,d2c3,rn5Q/ppp1kppp/3p4/4p3/4P3/P1KP4/1PP3qP/R1B5 b - - 1 13,Hmmm I was hoping he captured h2 then I would have checked him Bc5 then hopefully Ke6 Qe8# or f6 Qxg7 then see what happens.
+26,Qg6,g2g6,rn5Q/ppp1kppp/3p2q1/4p3/4P3/P1KP4/1PP4P/R1B5 w - - 2 14,Hmmm I was hoping he captured h2 then I would have checked him Bc5 then hopefully Ke6 Qe8# or f6 Qxg7 then see what happens.

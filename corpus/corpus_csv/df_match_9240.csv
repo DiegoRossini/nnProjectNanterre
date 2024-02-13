@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+4,f5,f7f5,rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+5,Bc4,f1c4,rnbqkbnr/pppp2pp/8/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+6,Nc6,b8c6,r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+7,d4,d2d4,r1bqkbnr/pppp2pp/2n5/4pp2/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"4. d3 would transpose to an ancient variation of the Italian, in which (according to Nunn) White has an edge."
+8,d6,d7d6,r1bqkbnr/ppp3pp/2np4/4pp2/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,6. d5 may be better
+9,Ng5,f3g5,r1bqkbnr/ppp3pp/2np4/4ppN1/2BPP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,6. d5 may be better
+10,Nh6,g8h6,r1bqkb1r/ppp3pp/2np3n/4ppN1/2BPP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,6. d5 may be better
+11,Nxh7,g5h7,r1bqkb1r/ppp3pN/2np3n/4pp2/2BPP3/8/PPP2PPP/RNBQK2R b KQkq - 0 6,6. d5 may be better
+12,Rxh7,h8h7,r1bqkb2/ppp3pr/2np3n/4pp2/2BPP3/8/PPP2PPP/RNBQK2R w KQq - 0 7,"this is bad.  White had to play 8 Qg6 Nxd4 (8...Nb4 9 Bb3 Qh4 10 Nc3 fxe4 11 Qxh7 e3 12 O-O exd4 
+13 fxe3 dxc3 14 Rxf8 15 Rf3  -) 9 Qxh7 Nxc2  10 Kd1 Nxa1 11 Bxh6 and White is still alive."
+13,Qh5+,d1h5,r1bqkb2/ppp3pr/2np3n/4pp1Q/2BPP3/8/PPP2PPP/RNB1K2R b KQq - 1 7,"this is bad.  White had to play 8 Qg6 Nxd4 (8...Nb4 9 Bb3 Qh4 10 Nc3 fxe4 11 Qxh7 e3 12 O-O exd4 
+13 fxe3 dxc3 14 Rxf8 15 Rf3  -) 9 Qxh7 Nxc2  10 Kd1 Nxa1 11 Bxh6 and White is still alive."
+14,Kd7,e8d7,r1bq1b2/pppk2pr/2np3n/4pp1Q/2BPP3/8/PPP2PPP/RNB1K2R w KQ - 2 8,"this is bad.  White had to play 8 Qg6 Nxd4 (8...Nb4 9 Bb3 Qh4 10 Nc3 fxe4 11 Qxh7 e3 12 O-O exd4 
+13 fxe3 dxc3 14 Rxf8 15 Rf3  -) 9 Qxh7 Nxc2  10 Kd1 Nxa1 11 Bxh6 and White is still alive."
+15,Bxh6,c1h6,r1bq1b2/pppk2pr/2np3B/4pp1Q/2BPP3/8/PPP2PPP/RN2K2R b KQ - 0 8,"this is bad.  White had to play 8 Qg6 Nxd4 (8...Nb4 9 Bb3 Qh4 10 Nc3 fxe4 11 Qxh7 e3 12 O-O exd4 
+13 fxe3 dxc3 14 Rxf8 15 Rf3  -) 9 Qxh7 Nxc2  10 Kd1 Nxa1 11 Bxh6 and White is still alive."
+16,Qf6,d8f6,r1b2b2/pppk2pr/2np1q1B/4pp1Q/2BPP3/8/PPP2PPP/RN2K2R w KQ - 1 9,Ouch missed this move completely.  I had looked at things like 8...Rxh6?? 9 Qxf5 Ke8 10 Qf7#
+17,Qxf5+,h5f5,r1b2b2/pppk2pr/2np1q1B/4pQ2/2BPP3/8/PPP2PPP/RN2K2R b KQ - 0 9,White is pretty much busted.  I decided to get two pawns for my knight and see if I can get my king side pawns moving. before Black figures out how to get his a8 rook into the game.
+18,Qxf5,f6f5,r1b2b2/pppk2pr/2np3B/4pq2/2BPP3/8/PPP2PPP/RN2K2R w KQ - 0 10,10...Nxd4 11 Be6  Ke8 12 Bg5 Nxc2  13 Kd2 Nxa1 14 Nc3 Bxe6-
+19,exf5,e4f5,r1b2b2/pppk2pr/2np3B/4pP2/2BP4/8/PPP2PPP/RN2K2R b KQ - 0 10,10...Nxd4 11 Be6  Ke8 12 Bg5 Nxc2  13 Kd2 Nxa1 14 Nc3 Bxe6-
+20,Rxh6,h7h6,r1b2b2/pppk2p1/2np3r/4pP2/2BP4/8/PPP2PPP/RN2K2R w KQ - 0 11,10...Nxd4 11 Be6  Ke8 12 Bg5 Nxc2  13 Kd2 Nxa1 14 Nc3 Bxe6-
+21,dxe5,d4e5,r1b2b2/pppk2p1/2np3r/4PP2/2B5/8/PPP2PPP/RN2K2R b KQ - 0 11,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+22,Nxe5,c6e5,r1b2b2/pppk2p1/3p3r/4nP2/2B5/8/PPP2PPP/RN2K2R w KQ - 0 12,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+23,Be2,c4e2,r1b2b2/pppk2p1/3p3r/4nP2/8/8/PPP1BPPP/RN2K2R b KQ - 1 12,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+24,Kd8,d7d8,r1bk1b2/ppp3p1/3p3r/4nP2/8/8/PPP1BPPP/RN2K2R w KQ - 2 13,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+25,f4,f2f4,r1bk1b2/ppp3p1/3p3r/4nP2/5P2/8/PPP1B1PP/RN2K2R b KQ - 0 13,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+26,Nc6,e5c6,r1bk1b2/ppp3p1/2np3r/5P2/5P2/8/PPP1B1PP/RN2K2R w KQ - 1 14,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+27,g4,g2g4,r1bk1b2/ppp3p1/2np3r/5P2/5PP1/8/PPP1B2P/RN2K2R b KQ - 0 14,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+28,Nd4,c6d4,r1bk1b2/ppp3p1/3p3r/5P2/3n1PP1/8/PPP1B2P/RN2K2R w KQ - 1 15,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+29,Bd1,e2d1,r1bk1b2/ppp3p1/3p3r/5P2/3n1PP1/8/PPP4P/RN1BK2R b KQ - 2 15,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+30,Be7,f8e7,r1bk4/ppp1b1p1/3p3r/5P2/3n1PP1/8/PPP4P/RN1BK2R w KQ - 3 16,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+31,c3,c2c3,r1bk4/ppp1b1p1/3p3r/5P2/3n1PP1/2P5/PP5P/RN1BK2R b KQ - 0 16,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+32,Bh4+,e7h4,r1bk4/ppp3p1/3p3r/5P2/3n1PPb/2P5/PP5P/RN1BK2R w KQ - 1 17,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+33,Kf1,e1f1,r1bk4/ppp3p1/3p3r/5P2/3n1PPb/2P5/PP5P/RN1B1K1R b - - 2 17,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+34,Nc6,d4c6,r1bk4/ppp3p1/2np3r/5P2/5PPb/2P5/PP5P/RN1B1K1R w - - 3 18,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+35,Kg2,f1g2,r1bk4/ppp3p1/2np3r/5P2/5PPb/2P5/PP4KP/RN1B3R b - - 4 18,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+36,Bd7,c8d7,r2k4/pppb2p1/2np3r/5P2/5PPb/2P5/PP4KP/RN1B3R w - - 5 19,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+37,Nd2,b1d2,r2k4/pppb2p1/2np3r/5P2/5PPb/2P5/PP1N2KP/R2B3R b - - 6 19,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+38,Be7,h4e7,r2k4/pppbb1p1/2np3r/5P2/5PP1/2P5/PP1N2KP/R2B3R w - - 7 20,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+39,Bc2,d1c2,r2k4/pppbb1p1/2np3r/5P2/5PP1/2P5/PPBN2KP/R6R b - - 8 20,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+40,Ke8,d8e8,r3k3/pppbb1p1/2np3r/5P2/5PP1/2P5/PPBN2KP/R6R w - - 9 21,With a won game Black starts to drift.  He should be thinking how to get his a1 rook activated.
+41,g5,g4g5,r3k3/pppbb1p1/2np3r/5PP1/5P2/2P5/PPBN2KP/R6R b - - 0 21,too passive.  24...Be8 would be better
+42,Rh8,h6h8,r3k2r/pppbb1p1/2np4/5PP1/5P2/2P5/PPBN2KP/R6R w - - 1 22,too passive.  24...Be8 would be better
+43,Rae1,a1e1,r3k2r/pppbb1p1/2np4/5PP1/5P2/2P5/PPBN2KP/4R2R b - - 2 22,too passive.  24...Be8 would be better
+44,Kf7,e8f7,r6r/pppbbkp1/2np4/5PP1/5P2/2P5/PPBN2KP/4R2R w - - 3 23,too passive.  24...Be8 would be better
+45,Bb3+,c2b3,r6r/pppbbkp1/2np4/5PP1/5P2/1BP5/PP1N2KP/4R2R b - - 4 23,too passive.  24...Be8 would be better
+46,Kf8,f7f8,r4k1r/pppbb1p1/2np4/5PP1/5P2/1BP5/PP1N2KP/4R2R w - - 5 24,too passive.  24...Be8 would be better
+47,Be6,b3e6,r4k1r/pppbb1p1/2npB3/5PP1/5P2/2P5/PP1N2KP/4R2R b - - 6 24,too passive.  24...Be8 would be better
+48,Rd8,a8d8,3r1k1r/pppbb1p1/2npB3/5PP1/5P2/2P5/PP1N2KP/4R2R w - - 7 25,too passive.  24...Be8 would be better
+49,Nf3,d2f3,3r1k1r/pppbb1p1/2npB3/5PP1/5P2/2P2N2/PP4KP/4R2R b - - 8 25,A blunder.  Again 24...Be8 would be better.
+50,g6,g7g6,3r1k1r/pppbb3/2npB1p1/5PP1/5P2/2P2N2/PP4KP/4R2R w - - 0 26,A blunder.  Again 24...Be8 would be better.
+51,f6,f5f6,3r1k1r/pppbb3/2npBPp1/6P1/5P2/2P2N2/PP4KP/4R2R b - - 0 26,26...Bxe6 27 Rxe6 Kf7 28 fxe7 Kxe6 exd8Q Rxd8
+52,Bxf6,e7f6,3r1k1r/pppb4/2npBbp1/6P1/5P2/2P2N2/PP4KP/4R2R w - - 0 27,26...Bxe6 27 Rxe6 Kf7 28 fxe7 Kxe6 exd8Q Rxd8
+53,gxf6,g5f6,3r1k1r/pppb4/2npBPp1/8/5P2/2P2N2/PP4KP/4R2R b - - 0 27,Better would be 28 ... Re8 29 Rhe1 Rxe6 30 Rexe6
+54,Bxe6,d7e6,3r1k1r/ppp5/2npbPp1/8/5P2/2P2N2/PP4KP/4R2R w - - 0 28,Better would be 28 ... Re8 29 Rhe1 Rxe6 30 Rexe6
+55,Rxe6,e1e6,3r1k1r/ppp5/2npRPp1/8/5P2/2P2N2/PP4KP/7R b - - 0 28,Better would be 28 ... Re8 29 Rhe1 Rxe6 30 Rexe6
+56,Kf7,f8f7,3r3r/ppp2k2/2npRPp1/8/5P2/2P2N2/PP4KP/7R w - - 1 29,Better would be 28 ... Re8 29 Rhe1 Rxe6 30 Rexe6
+57,Ng5+,f3g5,3r3r/ppp2k2/2npRPp1/6N1/5P2/2P5/PP4KP/7R b - - 2 29,30 ...Rh4 31 Kg3
+58,Kf8,f7f8,3r1k1r/ppp5/2npRPp1/6N1/5P2/2P5/PP4KP/7R w - - 3 30,30 ...Rh4 31 Kg3
+59,Rhe1,h1e1,3r1k1r/ppp5/2npRPp1/6N1/5P2/2P5/PP4KP/4R3 b - - 4 30,30 ...Rh4 31 Kg3
+60,Na5,c6a5,3r1k1r/ppp5/3pRPp1/n5N1/5P2/2P5/PP4KP/4R3 w - - 5 31,30 ...Rh4 31 Kg3
+61,Re6e7,e6e7,3r1k1r/ppp1R3/3p1Pp1/n5N1/5P2/2P5/PP4KP/4R3 b - - 6 31,32... Kg8 33 Rg7#
+62,Nc4,a5c4,3r1k1r/ppp1R3/3p1Pp1/6N1/2n2P2/2P5/PP4KP/4R3 w - - 7 32,32... Kg8 33 Rg7#
+63,Ne6+,g5e6,3r1k1r/ppp1R3/3pNPp1/8/2n2P2/2P5/PP4KP/4R3 b - - 8 32,32... Kg8 33 Rg7#

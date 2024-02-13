@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Very aggressive, and not often played. Good start from black."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Very aggressive, and not often played. Good start from black."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Very aggressive, and not often played. Good start from black."
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"Very aggressive, and not often played. Good start from black."
+5,c3,c2c3,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 0 3,"Necessary, in my scheme, to counter Qb6 without playing b3."
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/2P5/PP2PPPP/RN1QKBNR w KQkq - 1 4,Still aggressive. I'd like this!
+7,Nf3,g1f3,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 2 4,Still aggressive. I'd like this!
+8,Bf5,c8f5,r2qkbnr/pp2pppp/2n5/2pp1b2/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 3 5,Still aggressive. I'd like this!
+9,e3,e2e3,r2qkbnr/pp2pppp/2n5/2pp1b2/3P1B2/2P1PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,"This is my normal way, here, and not a passive move."
+10,e6,e7e6,r2qkbnr/pp3ppp/2n1p3/2pp1b2/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 0 6,Here starts the attack I plan as white.
+11,Nbd2,b1d2,r2qkbnr/pp3ppp/2n1p3/2pp1b2/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQkq - 1 6,Here starts the attack I plan as white.
+12,Nf6,g8f6,r2qkb1r/pp3ppp/2n1pn2/2pp1b2/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQkq - 2 7,Here starts the attack I plan as white.
+13,h3,h2h3,r2qkb1r/pp3ppp/2n1pn2/2pp1b2/3P1B2/2P1PN1P/PP1N1PP1/R2QKB1R b KQkq - 0 7,Here starts the attack I plan as white.
+14,Bd6,f8d6,r2qk2r/pp3ppp/2nbpn2/2pp1b2/3P1B2/2P1PN1P/PP1N1PP1/R2QKB1R w KQkq - 1 8,"Key move. Black has limited exchanges available, and has to think a lot about consecuences."
+15,Ne5,f3e5,r2qk2r/pp3ppp/2nbpn2/2ppNb2/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R b KQkq - 2 8,"Key move. Black has limited exchanges available, and has to think a lot about consecuences."
+16,O-O,e8g8,r2q1rk1/pp3ppp/2nbpn2/2ppNb2/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R w KQ - 3 9,Accepting the challenge!
+17,g4,g2g4,r2q1rk1/pp3ppp/2nbpn2/2ppNb2/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R b KQ - 0 9,Here it goes the first shot.
+18,Bg6,f5g6,r2q1rk1/pp3ppp/2nbpnb1/2ppN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R w KQ - 1 10,"Or  Be4, Rh7!? letting the black pieces cramped, the lsb aiming to empty squares."
+19,h4,h3h4,r2q1rk1/pp3ppp/2nbpnb1/2ppN3/3P1BPP/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 10,"It is not all that easy, but it looks really scaring."
+20,Bxe5,d6e5,r2q1rk1/pp3ppp/2n1pnb1/2ppb3/3P1BPP/2P1P3/PP1N1P2/R2QKB1R w KQ - 0 11,"Cramping, crunching... but of course, black is not lost."
+21,dxe5,d4e5,r2q1rk1/pp3ppp/2n1pnb1/2ppP3/5BPP/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 11,"Cramping, crunching... but of course, black is not lost."
+22,Ne4,f6e4,r2q1rk1/pp3ppp/2n1p1b1/2ppP3/4nBPP/2P1P3/PP1N1P2/R2QKB1R w KQ - 1 12,"I don't want to exchange queens, and I don't want to play f3 (weakening the kingside). I want to attack and, if possible, castle queenside before black can create countergame."
+23,h5,h4h5,r2q1rk1/pp3ppp/2n1p1b1/2ppP2P/4nBP1/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 12,...so I went for the last try before something like NxN.
+24,Nxd2,e4d2,r2q1rk1/pp3ppp/2n1p1b1/2ppP2P/5BP1/2P1P3/PP1n1P2/R2QKB1R w KQ - 0 13,"Ok, now the surprise I planned."
+25,hxg6,h5g6,r2q1rk1/pp3ppp/2n1p1P1/2ppP3/5BP1/2P1P3/PP1n1P2/R2QKB1R b KQ - 0 13,"I'm not sure, of course, but I needed to make something from my attack, and see if it doesn't work, why. Now, NxBf1 and white will go for something like Qc2 (disregarding the N) and try a kamikaze combination on the black king."
+26,Nc4,d2c4,r2q1rk1/pp3ppp/2n1p1P1/2ppP3/2n2BP1/2P1P3/PP3P2/R2QKB1R w KQ - 1 14,"Maybe black was afraid of that. Now, my e5 pawn is threatened, forcing me to BxN. That, under the circumstances, it is not a bad choice, since it solves a developement problem for white."
+27,Rxh7,h1h7,r2q1rk1/pp3ppR/2n1p1P1/2ppP3/2n2BP1/2P1P3/PP3P2/R2QKB2 b Q - 0 14,"? It doesn't work, because the pawn is in g4 and the queen can't reach the h column. Period. A blunder."
+28,fxg6,f7g6,r2q1rk1/pp4pR/2n1p1p1/2ppP3/2n2BP1/2P1P3/PP3P2/R2QKB2 w Q - 0 15,Deserved fate.
+29,Rh2,h7h2,r2q1rk1/pp4p1/2n1p1p1/2ppP3/2n2BP1/2P1P3/PP3P1R/R2QKB2 b Q - 1 15,Deserved fate.
+30,Nc4xe5,c4e5,r2q1rk1/pp4p1/2n1p1p1/2ppn3/5BP1/2P1P3/PP3P1R/R2QKB2 w Q - 0 16,Deserved fate.
+31,Bxe5,f4e5,r2q1rk1/pp4p1/2n1p1p1/2ppB3/6P1/2P1P3/PP3P1R/R2QKB2 b Q - 0 16,At least I will catch up in developement.
+32,Nxe5,c6e5,r2q1rk1/pp4p1/4p1p1/2ppn3/6P1/2P1P3/PP3P1R/R2QKB2 w Q - 0 17,...with this move.
+33,f4,f2f4,r2q1rk1/pp4p1/4p1p1/2ppn3/5PP1/2P1P3/PP5R/R2QKB2 b Q - 0 17,...with this move.

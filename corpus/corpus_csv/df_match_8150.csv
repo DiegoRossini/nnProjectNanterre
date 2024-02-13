@@ -1,0 +1,19 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,h4,h2h4,rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq - 0 1,this is always my first move if i am black
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2,this is always my first move if i am black
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/7P/2N5/PPPPPPP1/R1BQKBNR b KQkq - 1 2,and thats always my 2nd
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/7P/2N5/PPPPPPP1/R1BQKBNR w KQkq - 2 3,and thats always my 2nd
+5,d3,d2d3,r1bqkbnr/pp1ppppp/2n5/2p5/7P/2NP4/PPP1PPP1/R1BQKBNR b KQkq - 0 3,here i thought: what if i do d7-d5? then i could get the rook with my bishop
+6,e5,e7e5,r1bqkbnr/pp1p1ppp/2n5/2p1p3/7P/2NP4/PPP1PPP1/R1BQKBNR w KQkq - 0 4,here i thought: what if i do d7-d5? then i could get the rook with my bishop
+7,Rh3,h1h3,r1bqkbnr/pp1p1ppp/2n5/2p1p3/7P/2NP3R/PPP1PPP1/R1BQKBN1 b Qkq - 1 4,here i thought: what if i do d7-d5? then i could get the rook with my bishop
+8,d5,d7d5,r1bqkbnr/pp3ppp/2n5/2ppp3/7P/2NP3R/PPP1PPP1/R1BQKBN1 w Qkq - 0 5,so i did d7-d5
+9,Nxd5,c3d5,r1bqkbnr/pp3ppp/2n5/2pNp3/7P/3P3R/PPP1PPP1/R1BQKBN1 b Qkq - 0 5,he took my pawn
+10,Bxh3,c8h3,r2qkbnr/pp3ppp/2n5/2pNp3/7P/3P3b/PPP1PPP1/R1BQKBN1 w Qkq - 0 6,then i took his rook XD
+11,gxh3,g2h3,r2qkbnr/pp3ppp/2n5/2pNp3/7P/3P3P/PPP1PP2/R1BQKBN1 b Qkq - 0 6,he took my bishop with his pawn
+12,Qxd5,d8d5,r3kbnr/pp3ppp/2n5/2pqp3/7P/3P3P/PPP1PP2/R1BQKBN1 w Qkq - 0 7,i took his horse
+13,Nf3,g1f3,r3kbnr/pp3ppp/2n5/2pqp3/7P/3P1N1P/PPP1PP2/R1BQKB2 b Qkq - 1 7,here i thought: if the pawn from d3 goes away it would be checkmate
+14,O-O-O,e8c8,2kr1bnr/pp3ppp/2n5/2pqp3/7P/3P1N1P/PPP1PP2/R1BQKB2 w Q - 2 8,here i thought: if the pawn from d3 goes away it would be checkmate
+15,b3,b2b3,2kr1bnr/pp3ppp/2n5/2pqp3/7P/1P1P1N1P/P1P1PP2/R1BQKB2 b Q - 0 8,i did this so his pawn could get away
+16,e4,e5e4,2kr1bnr/pp3ppp/2n5/2pq4/4p2P/1P1P1N1P/P1P1PP2/R1BQKB2 w Q - 0 9,i did this so his pawn could get away
+17,dxe4,d3e4,2kr1bnr/pp3ppp/2n5/2pq4/4P2P/1P3N1P/P1P1PP2/R1BQKB2 b Q - 0 9,so he did!!
+18,Qxd1#,d5d1,2kr1bnr/pp3ppp/2n5/2p5/4P2P/1P3N1P/P1P1PP2/R1BqKB2 w Q - 0 10,CHECKMATE in 9!

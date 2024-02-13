@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,Starts out with the english opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Starts out with the english opening.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,Starts out with the english opening.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,Starts out with the english opening.
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2NP4/PP2PPPP/R1BQKBNR b KQkq - 0 3,Deviates from that opening.
+6,Bc5,f8c5,rnbqk2r/pppp1ppp/5n2/2b1p3/2P5/2NP4/PP2PPPP/R1BQKBNR w KQkq - 1 4,Black brings out his pieces.
+7,Nf3,g1f3,rnbqk2r/pppp1ppp/5n2/2b1p3/2P5/2NP1N2/PP2PPPP/R1BQKB1R b KQkq - 2 4,More developing.
+8,Nc6,b8c6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2NP1N2/PP2PPPP/R1BQKB1R w KQkq - 3 5,More developing.
+9,g3,g2g3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2NP1NP1/PP2PP1P/R1BQKB1R b KQkq - 0 5,Bringing out pawns so bishops can be developed.
+10,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2P5/2NP1NP1/PP2PP1P/R1BQKB1R w KQkq - 0 6,Bringing out pawns so bishops can be developed.
+11,Bg2,f1g2,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2P5/2NP1NP1/PP2PPBP/R1BQK2R b KQkq - 1 6,More developing of bishops.
+12,Bf5,c8f5,r2qk2r/ppp2ppp/2np1n2/2b1pb2/2P5/2NP1NP1/PP2PPBP/R1BQK2R w KQkq - 2 7,More developing of bishops.
+13,O-O,e1g1,r2qk2r/ppp2ppp/2np1n2/2b1pb2/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 b kq - 3 7,Castling.
+14,O-O,e8g8,r2q1rk1/ppp2ppp/2np1n2/2b1pb2/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 w - - 4 8,Castling.
+15,Bg5,c1g5,r2q1rk1/ppp2ppp/2np1n2/2b1pbB1/2P5/2NP1NP1/PP2PPBP/R2Q1RK1 b - - 5 8,More developing. The knight is pinned!
+16,Qe7,d8e7,r4rk1/ppp1qppp/2np1n2/2b1pbB1/2P5/2NP1NP1/PP2PPBP/R2Q1RK1 w - - 6 9,More developing. The knight is pinned!
+17,Nd5,c3d5,r4rk1/ppp1qppp/2np1n2/2bNpbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 b - - 7 9,This was a mistake for black.
+18,Qe6,e7e6,r4rk1/ppp2ppp/2npqn2/2bNpbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 w - - 8 10,This was a mistake for black.
+19,Nxc7,d5c7,r4rk1/ppN2ppp/2npqn2/2b1pbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 b - - 0 10,The knight comes in with Nxc7 and takes a rook. ROOOOOOOK!!!!!
+20,Qd7,e6d7,r4rk1/ppNq1ppp/2np1n2/2b1pbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 w - - 1 11,The knight comes in with Nxc7 and takes a rook. ROOOOOOOK!!!!!
+21,Nxa8,c7a8,N4rk1/pp1q1ppp/2np1n2/2b1pbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 b - - 0 11,The knight comes in with Nxc7 and takes a rook. ROOOOOOOK!!!!!
+22,Rxa8,f8a8,r5k1/pp1q1ppp/2np1n2/2b1pbB1/2P5/3P1NP1/PP2PPBP/R2Q1RK1 w - - 0 12,More blundering for black. This isn't the best.
+23,Bxf6,g5f6,r5k1/pp1q1ppp/2np1B2/2b1pb2/2P5/3P1NP1/PP2PPBP/R2Q1RK1 b - - 0 12,More blundering for black. This isn't the best.
+24,gxf6,g7f6,r5k1/pp1q1p1p/2np1p2/2b1pb2/2P5/3P1NP1/PP2PPBP/R2Q1RK1 w - - 0 13,More blundering for black. This isn't the best.
+25,a3,a2a3,r5k1/pp1q1p1p/2np1p2/2b1pb2/2P5/P2P1NP1/1P2PPBP/R2Q1RK1 b - - 0 13,"Black's up to something! He wants to end the game fast. Meanwhile, White attacks the bishop."
+26,Bh3,f5h3,r5k1/pp1q1p1p/2np1p2/2b1p3/2P5/P2P1NPb/1P2PPBP/R2Q1RK1 w - - 1 14,"Black's up to something! He wants to end the game fast. Meanwhile, White attacks the bishop."
+27,b4,b2b4,r5k1/pp1q1p1p/2np1p2/2b1p3/1PP5/P2P1NPb/4PPBP/R2Q1RK1 b - - 0 14,"Black's up to something! He wants to end the game fast. Meanwhile, White attacks the bishop."
+28,Bxg2,h3g2,r5k1/pp1q1p1p/2np1p2/2b1p3/1PP5/P2P1NP1/4PPbP/R2Q1RK1 w - - 0 15,A counterattack for white.
+29,Kxg2,g1g2,r5k1/pp1q1p1p/2np1p2/2b1p3/1PP5/P2P1NP1/4PPKP/R2Q1R2 b - - 0 15,A counterattack for white.
+30,Bd4,c5d4,r5k1/pp1q1p1p/2np1p2/4p3/1PPb4/P2P1NP1/4PPKP/R2Q1R2 w - - 1 16,"Blacks bishop has moved, and is making a battery, but it is blocked."
+31,Rb1,a1b1,r5k1/pp1q1p1p/2np1p2/4p3/1PPb4/P2P1NP1/4PPKP/1R1Q1R2 b - - 2 16,"Blacks bishop has moved, and is making a battery, but it is blocked."
+32,Rd8,a8d8,3r2k1/pp1q1p1p/2np1p2/4p3/1PPb4/P2P1NP1/4PPKP/1R1Q1R2 w - - 3 17,"Blacks bishop has moved, and is making a battery, but it is blocked."
+33,b5,b4b5,3r2k1/pp1q1p1p/2np1p2/1P2p3/2Pb4/P2P1NP1/4PPKP/1R1Q1R2 b - - 0 17,White's pawns march forward.
+34,Ne7,c6e7,3r2k1/pp1qnp1p/3p1p2/1P2p3/2Pb4/P2P1NP1/4PPKP/1R1Q1R2 w - - 1 18,White's pawns march forward.
+35,a4,a3a4,3r2k1/pp1qnp1p/3p1p2/1P2p3/P1Pb4/3P1NP1/4PPKP/1R1Q1R2 b - - 0 18,White's pawns march forward.
+36,Nf5,e7f5,3r2k1/pp1q1p1p/3p1p2/1P2pn2/P1Pb4/3P1NP1/4PPKP/1R1Q1R2 w - - 1 19,A trade happens. A knight is taken!!!!!!
+37,Nxd4,f3d4,3r2k1/pp1q1p1p/3p1p2/1P2pn2/P1PN4/3P2P1/4PPKP/1R1Q1R2 b - - 0 19,A trade happens. A knight is taken!!!!!!
+38,exd4,e5d4,3r2k1/pp1q1p1p/3p1p2/1P3n2/P1Pp4/3P2P1/4PPKP/1R1Q1R2 w - - 0 20,A trade happens. A knight is taken!!!!!!
+39,a5,a4a5,3r2k1/pp1q1p1p/3p1p2/PP3n2/2Pp4/3P2P1/4PPKP/1R1Q1R2 b - - 0 20,White's pawns are coming close!
+40,b6,b7b6,3r2k1/p2q1p1p/1p1p1p2/PP3n2/2Pp4/3P2P1/4PPKP/1R1Q1R2 w - - 0 21,White's pawns are coming close!
+41,axb6,a5b6,3r2k1/p2q1p1p/1P1p1p2/1P3n2/2Pp4/3P2P1/4PPKP/1R1Q1R2 b - - 0 21,White's pawns are coming close!
+42,axb6,a7b6,3r2k1/3q1p1p/1p1p1p2/1P3n2/2Pp4/3P2P1/4PPKP/1R1Q1R2 w - - 0 22,White's pawns are coming close!
+43,Ra1,b1a1,3r2k1/3q1p1p/1p1p1p2/1P3n2/2Pp4/3P2P1/4PPKP/R2Q1R2 b - - 1 22,Check on the diagonal!!
+44,Qb7+,d7b7,3r2k1/1q3p1p/1p1p1p2/1P3n2/2Pp4/3P2P1/4PPKP/R2Q1R2 w - - 2 23,Check on the diagonal!!
+45,f3,f2f3,3r2k1/1q3p1p/1p1p1p2/1P3n2/2Pp4/3P1PP1/4P1KP/R2Q1R2 b - - 0 23,White moves to block it.
+46,Ne3+,f5e3,3r2k1/1q3p1p/1p1p1p2/1P6/2Pp4/3PnPP1/4P1KP/R2Q1R2 w - - 1 24,"The night forks the king, rook and queen, and the queen is hopelessly lost. White resigns. He probably shouldn't have resigned though, because he still would have a chance. This concludes the game that forked!"

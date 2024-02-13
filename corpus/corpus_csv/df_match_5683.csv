@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Off we go
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,All equal
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,All equal
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,All equal
+5,e3,e2e3,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,All equal
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 1 4,All equal
+7,c3,c2c3,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/2P1P3/PP3PPP/RN1QKBNR b KQkq - 0 4,All equal
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2n2n2/2pp4/3P1B2/2P1P3/PP3PPP/RN1QKBNR w KQkq - 1 5,All equal
+9,Nd2,b1d2,r1bqkb1r/pp2pppp/2n2n2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR b KQkq - 2 5,All equal
+10,Qb6,d8b6,r1b1kb1r/pp2pppp/1qn2n2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR w KQkq - 3 6,All equal
+11,Qb3,d1b3,r1b1kb1r/pp2pppp/1qn2n2/2pp4/3P1B2/1QP1P3/PP1N1PPP/R3KBNR b KQkq - 4 6,All equal
+12,c4,c5c4,r1b1kb1r/pp2pppp/1qn2n2/3p4/2pP1B2/1QP1P3/PP1N1PPP/R3KBNR w KQkq - 0 7,All equal
+13,Qxb6,b3b6,r1b1kb1r/pp2pppp/1Qn2n2/3p4/2pP1B2/2P1P3/PP1N1PPP/R3KBNR b KQkq - 0 7,All equal
+14,axb6,a7b6,r1b1kb1r/1p2pppp/1pn2n2/3p4/2pP1B2/2P1P3/PP1N1PPP/R3KBNR w KQkq - 0 8,All equal
+15,Ngf3,g1f3,r1b1kb1r/1p2pppp/1pn2n2/3p4/2pP1B2/2P1PN2/PP1N1PPP/R3KB1R b KQkq - 1 8,"I'm not bothered about the bishop for now, am playing to control e5"
+16,b5,b6b5,r1b1kb1r/1p2pppp/2n2n2/1p1p4/2pP1B2/2P1PN2/PP1N1PPP/R3KB1R w KQkq - 0 9,"I'm not bothered about the bishop for now, am playing to control e5"
+17,Be2,f1e2,r1b1kb1r/1p2pppp/2n2n2/1p1p4/2pP1B2/2P1PN2/PP1NBPPP/R3K2R b KQkq - 1 9,"I'm not bothered about the bishop for now, am playing to control e5"
+18,Nh5,f6h5,r1b1kb1r/1p2pppp/2n5/1p1p3n/2pP1B2/2P1PN2/PP1NBPPP/R3K2R w KQkq - 2 10,"I'm not bothered about the bishop for now, am playing to control e5"
+19,Ne5,f3e5,r1b1kb1r/1p2pppp/2n5/1p1pN2n/2pP1B2/2P1P3/PP1NBPPP/R3K2R b KQkq - 3 10,"I'm not bothered about the bishop for now, am playing to control e5"
+20,Nxf4,h5f4,r1b1kb1r/1p2pppp/2n5/1p1pN3/2pP1n2/2P1P3/PP1NBPPP/R3K2R w KQkq - 0 11,I think white stands better here as black is behind in development
+21,exf4,e3f4,r1b1kb1r/1p2pppp/2n5/1p1pN3/2pP1P2/2P5/PP1NBPPP/R3K2R b KQkq - 0 11,I think white stands better here as black is behind in development
+22,Ra6,a8a6,2b1kb1r/1p2pppp/r1n5/1p1pN3/2pP1P2/2P5/PP1NBPPP/R3K2R w KQk - 1 12,I think white stands better here as black is behind in development
+23,O-O,e1g1,2b1kb1r/1p2pppp/r1n5/1p1pN3/2pP1P2/2P5/PP1NBPPP/R4RK1 b k - 2 12,Black is intending to put pressure on g2 but I am not going to allow it
+24,h5,h7h5,2b1kb1r/1p2ppp1/r1n5/1p1pN2p/2pP1P2/2P5/PP1NBPPP/R4RK1 w k - 0 13,Black is intending to put pressure on g2 but I am not going to allow it
+25,b3,b2b3,2b1kb1r/1p2ppp1/r1n5/1p1pN2p/2pP1P2/1PP5/P2NBPPP/R4RK1 b k - 0 13,Black is intending to put pressure on g2 but I am not going to allow it
+26,Nxe5,c6e5,2b1kb1r/1p2ppp1/r7/1p1pn2p/2pP1P2/1PP5/P2NBPPP/R4RK1 w k - 0 14,Black is intending to put pressure on g2 but I am not going to allow it
+27,fxe5,f4e5,2b1kb1r/1p2ppp1/r7/1p1pP2p/2pP4/1PP5/P2NBPPP/R4RK1 b k - 0 14,Black is intending to put pressure on g2 but I am not going to allow it
+28,Rg6,a6g6,2b1kb1r/1p2ppp1/6r1/1p1pP2p/2pP4/1PP5/P2NBPPP/R4RK1 w k - 1 15,Black is intending to put pressure on g2 but I am not going to allow it
+29,h4,h2h4,2b1kb1r/1p2ppp1/6r1/1p1pP2p/2pP3P/1PP5/P2NBPP1/R4RK1 b k - 0 15,Black is intending to put pressure on g2 but I am not going to allow it
+30,Bg4,c8g4,4kb1r/1p2ppp1/6r1/1p1pP2p/2pP2bP/1PP5/P2NBPP1/R4RK1 w k - 1 16,B-h3 is met by knight to g5
+31,Nf3,d2f3,4kb1r/1p2ppp1/6r1/1p1pP2p/2pP2bP/1PP2N2/P3BPP1/R4RK1 b k - 2 16,B-h3 is met by knight to g5
+32,e6,e7e6,4kb1r/1p3pp1/4p1r1/1p1pP2p/2pP2bP/1PP2N2/P3BPP1/R4RK1 w k - 0 17,Now white switches to the queen side
+33,bxc4,b3c4,4kb1r/1p3pp1/4p1r1/1p1pP2p/2PP2bP/2P2N2/P3BPP1/R4RK1 b k - 0 17,Now white switches to the queen side
+34,bxc4,b5c4,4kb1r/1p3pp1/4p1r1/3pP2p/2pP2bP/2P2N2/P3BPP1/R4RK1 w k - 0 18,Now white switches to the queen side
+35,Rab1,a1b1,4kb1r/1p3pp1/4p1r1/3pP2p/2pP2bP/2P2N2/P3BPP1/1R3RK1 b k - 1 18,Now white switches to the queen side
+36,Be7,f8e7,4k2r/1p2bpp1/4p1r1/3pP2p/2pP2bP/2P2N2/P3BPP1/1R3RK1 w k - 2 19,Now it gets interesting
+37,Rxb7,b1b7,4k2r/1R2bpp1/4p1r1/3pP2p/2pP2bP/2P2N2/P3BPP1/5RK1 b k - 0 19,Now it gets interesting
+38,f6,f7f6,4k2r/1R2b1p1/4ppr1/3pP2p/2pP2bP/2P2N2/P3BPP1/5RK1 w k - 0 20,Now it gets interesting
+39,Rfb1,f1b1,4k2r/1R2b1p1/4ppr1/3pP2p/2pP2bP/2P2N2/P3BPP1/1R4K1 b k - 1 20,Now it gets interesting
+40,Bxf3,g4f3,4k2r/1R2b1p1/4ppr1/3pP2p/2pP3P/2P2b2/P3BPP1/1R4K1 w k - 0 21,Interesting times now
+41,Bxf3,e2f3,4k2r/1R2b1p1/4ppr1/3pP2p/2pP3P/2P2B2/P4PP1/1R4K1 b k - 0 21,Interesting times now
+42,fxe5,f6e5,4k2r/1R2b1p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/1R4K1 w k - 0 22,Interesting times now
+43,Rb7b8+,b7b8,1R2k2r/4b1p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/1R4K1 b k - 1 22,Interesting times now
+44,Bd8,e7d8,1R1bk2r/6p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/1R4K1 w k - 2 23,Interesting times now
+45,Rxd8+,b8d8,3Rk2r/6p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/1R4K1 b k - 0 23,Interesting times now
+46,Kxd8,e8d8,3k3r/6p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/1R4K1 w - - 0 24,Interesting times now
+47,Rb8+,b1b8,1R1k3r/6p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/6K1 b - - 1 24,Interesting times now
+48,Kc7,d8c7,1R5r/2k3p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/6K1 w - - 2 25,Interesting times now
+49,Rxh8,b8h8,7R/2k3p1/4p1r1/3pp2p/2pP3P/2P2B2/P4PP1/6K1 b - - 0 25,Interesting times now
+50,exd4,e5d4,7R/2k3p1/4p1r1/3p3p/2pp3P/2P2B2/P4PP1/6K1 w - - 0 26,This h pawn has legs
+51,Bxh5,f3h5,7R/2k3p1/4p1r1/3p3B/2pp3P/2P5/P4PP1/6K1 b - - 0 26,This h pawn has legs
+52,Rf6,g6f6,7R/2k3p1/4pr2/3p3B/2pp3P/2P5/P4PP1/6K1 w - - 1 27,This h pawn has legs
+53,cxd4,c3d4,7R/2k3p1/4pr2/3p3B/2pP3P/8/P4PP1/6K1 b - - 0 27,This h pawn has legs
+54,Rf4,f6f4,7R/2k3p1/4p3/3p3B/2pP1r1P/8/P4PP1/6K1 w - - 1 28,This h pawn has legs
+55,Bg6,h5g6,7R/2k3p1/4p1B1/3p4/2pP1r1P/8/P4PP1/6K1 b - - 2 28,This h pawn has legs
+56,Rxd4,f4d4,7R/2k3p1/4p1B1/3p4/2pr3P/8/P4PP1/6K1 w - - 0 29,This h pawn has legs
+57,h5,h4h5,7R/2k3p1/4p1B1/3p3P/2pr4/8/P4PP1/6K1 b - - 0 29,This h pawn has legs
+58,Rg4,d4g4,7R/2k3p1/4p1B1/3p3P/2p3r1/8/P4PP1/6K1 w - - 1 30,Game over
+59,Rg8,h8g8,6R1/2k3p1/4p1B1/3p3P/2p3r1/8/P4PP1/6K1 b - - 2 30,Game over
+60,Rxg6,g4g6,6R1/2k3p1/4p1r1/3p3P/2p5/8/P4PP1/6K1 w - - 0 31,Game over
+61,hxg6,h5g6,6R1/2k3p1/4p1P1/3p4/2p5/8/P4PP1/6K1 b - - 0 31,Game over
+62,c3,c4c3,6R1/2k3p1/4p1P1/3p4/8/2p5/P4PP1/6K1 w - - 0 32,Game over
+63,Rxg7+,g8g7,8/2k3R1/4p1P1/3p4/8/2p5/P4PP1/6K1 b - - 0 32,Game over
+64,Kd6,c7d6,8/6R1/3kp1P1/3p4/8/2p5/P4PP1/6K1 w - - 1 33,Game over
+65,Rg8,g7g8,6R1/8/3kp1P1/3p4/8/2p5/P4PP1/6K1 b - - 2 33,Game over
+66,Kd7,d6d7,6R1/3k4/4p1P1/3p4/8/2p5/P4PP1/6K1 w - - 3 34,Game over
+67,g7,g6g7,6R1/3k2P1/4p3/3p4/8/2p5/P4PP1/6K1 b - - 0 34,Game over
+68,c2,c3c2,6R1/3k2P1/4p3/3p4/8/8/P1p2PP1/6K1 w - - 0 35,Black resigns what was a very hard fought game
+69,Rc8,g8c8,2R5/3k2P1/4p3/3p4/8/8/P1p2PP1/6K1 b - - 1 35,Black resigns what was a very hard fought game
+70,Kxc8,d7c8,2k5/6P1/4p3/3p4/8/8/P1p2PP1/6K1 w - - 0 36,Black resigns what was a very hard fought game
+71,g8=Q+,g7g8q,2k3Q1/8/4p3/3p4/8/8/P1p2PP1/6K1 b - - 0 36,Black resigns what was a very hard fought game
+72,Kb7,c8b7,6Q1/1k6/4p3/3p4/8/8/P1p2PP1/6K1 w - - 1 37,Black resigns what was a very hard fought game
+73,Qh7+,g8h7,8/1k5Q/4p3/3p4/8/8/P1p2PP1/6K1 b - - 2 37,Black resigns what was a very hard fought game

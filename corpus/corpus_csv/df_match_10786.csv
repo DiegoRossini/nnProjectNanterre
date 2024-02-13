@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game is an example of how vulnerable can black's king be in case of queen-side castling in Caro-Kann defence. Hope you like it :)
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,First few book moves will be left without any comments.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,8. a3  prevents 8. ... Bb4   and prepares b4.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,8. a3  prevents 8. ... Bb4   and prepares b4.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,8. a3  prevents 8. ... Bb4   and prepares b4.
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,8. a3  prevents 8. ... Bb4   and prepares b4.
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,8. a3  prevents 8. ... Bb4   and prepares b4.
+8,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,8. a3  prevents 8. ... Bb4   and prepares b4.
+9,Ng3,e4g3,rn1qkbnr/pp2pppp/2p5/5b2/3P4/6N1/PPP2PPP/R1BQKBNR b KQkq - 2 5,8. a3  prevents 8. ... Bb4   and prepares b4.
+10,Bg6,f5g6,rn1qkbnr/pp2pppp/2p3b1/8/3P4/6N1/PPP2PPP/R1BQKBNR w KQkq - 3 6,8. a3  prevents 8. ... Bb4   and prepares b4.
+11,Nf3,g1f3,rn1qkbnr/pp2pppp/2p3b1/8/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 4 6,8. a3  prevents 8. ... Bb4   and prepares b4.
+12,Nd7,b8d7,r2qkbnr/pp1npppp/2p3b1/8/3P4/5NN1/PPP2PPP/R1BQKB1R w KQkq - 5 7,8. a3  prevents 8. ... Bb4   and prepares b4.
+13,c4,c2c4,r2qkbnr/pp1npppp/2p3b1/8/2PP4/5NN1/PP3PPP/R1BQKB1R b KQkq - 0 7,8. a3  prevents 8. ... Bb4   and prepares b4.
+14,e6,e7e6,r2qkbnr/pp1n1ppp/2p1p1b1/8/2PP4/5NN1/PP3PPP/R1BQKB1R w KQkq - 0 8,8. a3  prevents 8. ... Bb4   and prepares b4.
+15,a3,a2a3,r2qkbnr/pp1n1ppp/2p1p1b1/8/2PP4/P4NN1/1P3PPP/R1BQKB1R b KQkq - 0 8,8. a3  prevents 8. ... Bb4   and prepares b4.
+16,Qc7,d8c7,r3kbnr/ppqn1ppp/2p1p1b1/8/2PP4/P4NN1/1P3PPP/R1BQKB1R w KQkq - 1 9,Typical move for black. Prepares queen-side castle.
+17,Be2,f1e2,r3kbnr/ppqn1ppp/2p1p1b1/8/2PP4/P4NN1/1P2BPPP/R1BQK2R b KQkq - 2 9,"Same for white, preparing for king-side castling."
+18,Ngf6,g8f6,r3kb1r/ppqn1ppp/2p1pnb1/8/2PP4/P4NN1/1P2BPPP/R1BQK2R w KQkq - 3 10,11. b4  starts the attack on black's position.
+19,O-O,e1g1,r3kb1r/ppqn1ppp/2p1pnb1/8/2PP4/P4NN1/1P2BPPP/R1BQ1RK1 b kq - 4 10,11. b4  starts the attack on black's position.
+20,O-O-O,e8c8,2kr1b1r/ppqn1ppp/2p1pnb1/8/2PP4/P4NN1/1P2BPPP/R1BQ1RK1 w - - 5 11,11. b4  starts the attack on black's position.
+21,b4,b2b4,2kr1b1r/ppqn1ppp/2p1pnb1/8/1PPP4/P4NN1/4BPPP/R1BQ1RK1 b - - 0 11,11. b4  starts the attack on black's position.
+22,c5,c6c5,2kr1b1r/ppqn1ppp/4pnb1/2p5/1PPP4/P4NN1/4BPPP/R1BQ1RK1 w - - 0 12,11. ... c5  with intention of bxc5 or dxc5 followed by 12. ... Nxc5  threatening white's queen.
+23,Qb3,d1b3,2kr1b1r/ppqn1ppp/4pnb1/2p5/1PPP4/PQ3NN1/4BPPP/R1B2RK1 b - - 1 12,Bait not taken. Black's troubles start from now on. After 12. ... cxb4 13. axb4  the 'a' line is open for white.
+24,cxd4,c5d4,2kr1b1r/ppqn1ppp/4pnb1/8/1PPp4/PQ3NN1/4BPPP/R1B2RK1 w - - 0 13,Black plays cxd4 instead.
+25,Nxd4,f3d4,2kr1b1r/ppqn1ppp/4pnb1/8/1PPN4/PQ4N1/4BPPP/R1B2RK1 b - - 0 13,The knight threatens 14. Nb5. Black should play 14 ... a6.
+26,Bd6,f8d6,2kr3r/ppqn1ppp/3bpnb1/8/1PPN4/PQ4N1/4BPPP/R1B2RK1 w - - 1 14,13. ... Bd6? is a big mistake. Black's queen will be forced to move to the '8' line to protect the a7 pawn.
+27,Nb5,d4b5,2kr3r/ppqn1ppp/3bpnb1/1N6/1PP5/PQ4N1/4BPPP/R1B2RK1 b - - 2 14,White knight attacks.
+28,Qb8,c7b8,1qkr3r/pp1n1ppp/3bpnb1/1N6/1PP5/PQ4N1/4BPPP/R1B2RK1 w - - 3 15,Black's queen in retreat.
+29,Be3,c1e3,1qkr3r/pp1n1ppp/3bpnb1/1N6/1PP5/PQ2B1N1/4BPPP/R4RK1 b - - 4 15,15. Be3  increases pressure on a7 pawn and frees the '1' line for white's rooks.
+30,Nb6,d7b6,1qkr3r/pp3ppp/1n1bpnb1/1N6/1PP5/PQ2B1N1/4BPPP/R4RK1 w - - 5 16,15. ... Nb6? is another mistake. This leads to an interesting pin.
+31,c5,c4c5,1qkr3r/pp3ppp/1n1bpnb1/1NP5/1P6/PQ2B1N1/4BPPP/R4RK1 b - - 0 16,"It looks like black can get out of the pin without any loss of material. However, position count's in chess too!"
+32,Bxg3,d6g3,1qkr3r/pp3ppp/1n2pnb1/1NP5/1P6/PQ2B1b1/4BPPP/R4RK1 w - - 0 17,"Obvious move, hoping for white killing the bishop and black playing 17. ... Nd5 with good chances."
+33,cxb6,c5b6,1qkr3r/pp3ppp/1P2pnb1/1N6/1P6/PQ2B1b1/4BPPP/R4RK1 b - - 0 17,"17. cxb6!  White gives away the h2 pawn, but gains superb chances in a direct king attack since the 'c' and 'd' lines are now open."
+34,Bxh2+,g3h2,1qkr3r/pp3ppp/1P2pnb1/1N6/1P6/PQ2B3/4BPPb/R4RK1 w - - 0 18,Black is in all kinds of trouble and decides to get rid of the knight.
+35,Kh1,g1h1,1qkr3r/pp3ppp/1P2pnb1/1N6/1P6/PQ2B3/4BPPb/R4R1K b - - 1 18,Black is in all kinds of trouble and decides to get rid of the knight.
+36,a6,a7a6,1qkr3r/1p3ppp/pP2pnb1/1N6/1P6/PQ2B3/4BPPb/R4R1K w - - 0 19,Black is in all kinds of trouble and decides to get rid of the knight.
+37,Qc4+,b3c4,1qkr3r/1p3ppp/pP2pnb1/1N6/1PQ5/P3B3/4BPPb/R4R1K b - - 1 19,This starts the attack.

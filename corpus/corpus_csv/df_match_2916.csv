@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,All normal so far.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,All normal so far.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,All normal so far.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,All normal so far.
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,All normal so far.
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4,All normal so far.
+7,h3,h2h3,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,All normal so far.
+8,h6,h7h6,r1bqkb1r/ppp1ppp1/2n2n1p/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 0 5,All normal so far.
+9,g4,g2g4,r1bqkb1r/ppp1ppp1/2n2n1p/3p4/3P1BP1/5N1P/PPP1PP2/RN1QKB1R b KQkq - 0 5,All normal so far.
+10,e6,e7e6,r1bqkb1r/ppp2pp1/2n1pn1p/3p4/3P1BP1/5N1P/PPP1PP2/RN1QKB1R w KQkq - 0 6,All normal so far.
+11,c3,c2c3,r1bqkb1r/ppp2pp1/2n1pn1p/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R b KQkq - 0 6,All normal so far.
+12,Bd6,f8d6,r1bqk2r/ppp2pp1/2nbpn1p/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R w KQkq - 1 7,All normal so far.
+13,Ne5,f3e5,r1bqk2r/ppp2pp1/2nbpn1p/3pN3/3P1BP1/2P4P/PP2PP2/RN1QKB1R b KQkq - 2 7,All normal so far.
+14,Bxe5,d6e5,r1bqk2r/ppp2pp1/2n1pn1p/3pb3/3P1BP1/2P4P/PP2PP2/RN1QKB1R w KQkq - 0 8,All normal so far.
+15,dxe5,d4e5,r1bqk2r/ppp2pp1/2n1pn1p/3pP3/5BP1/2P4P/PP2PP2/RN1QKB1R b KQkq - 0 8,All normal so far.
+16,Ne4,f6e4,r1bqk2r/ppp2pp1/2n1p2p/3pP3/4nBP1/2P4P/PP2PP2/RN1QKB1R w KQkq - 1 9,All normal so far.
+17,h4,h3h4,r1bqk2r/ppp2pp1/2n1p2p/3pP3/4nBPP/2P5/PP2PP2/RN1QKB1R b KQkq - 0 9,All normal so far.
+18,Ne7,c6e7,r1bqk2r/ppp1npp1/4p2p/3pP3/4nBPP/2P5/PP2PP2/RN1QKB1R w KQkq - 1 10,"Ok, interesting try from black."
+19,f3,f2f3,r1bqk2r/ppp1npp1/4p2p/3pP3/4nBPP/2P2P2/PP2P3/RN1QKB1R b KQkq - 0 10,"I should avoid to block the white diagonal, but I didn't think there will be much action in it without my central knight."
+20,Nc5,e4c5,r1bqk2r/ppp1npp1/4p2p/2npP3/5BPP/2P2P2/PP2P3/RN1QKB1R w KQkq - 1 11,A move to free my queen.
+21,Qd4,d1d4,r1bqk2r/ppp1npp1/4p2p/2npP3/3Q1BPP/2P2P2/PP2P3/RN2KB1R b KQkq - 2 11,A move to free my queen.
+22,b6,b7b6,r1bqk2r/p1p1npp1/1p2p2p/2npP3/3Q1BPP/2P2P2/PP2P3/RN2KB1R w KQkq - 0 12,Bad move. Here I had to open the way for my bishop or knignt. To develop.
+23,b4,b2b4,r1bqk2r/p1p1npp1/1p2p2p/2npP3/1P1Q1BPP/2P2P2/P3P3/RN2KB1R b KQkq - 0 12,Bad move. Here I had to open the way for my bishop or knignt. To develop.
+24,Nb7,c5b7,r1bqk2r/pnp1npp1/1p2p2p/3pP3/1P1Q1BPP/2P2P2/P3P3/RN2KB1R w KQkq - 1 13,this is like a spring: now black can free his position with c5.
+25,e3,e2e3,r1bqk2r/pnp1npp1/1p2p2p/3pP3/1P1Q1BPP/2P1PP2/P7/RN2KB1R b KQkq - 0 13,I had to develop my lsb aiming to the queenside.
+26,Ng6,e7g6,r1bqk2r/pnp2pp1/1p2p1np/3pP3/1P1Q1BPP/2P1PP2/P7/RN2KB1R w KQkq - 1 14,"No problem, man..."
+27,Bg3,f4g3,r1bqk2r/pnp2pp1/1p2p1np/3pP3/1P1Q2PP/2P1PPB1/P7/RN2KB1R b KQkq - 2 14,"No problem, man..."
+28,Qe7,d8e7,r1b1k2r/pnp1qpp1/1p2p1np/3pP3/1P1Q2PP/2P1PPB1/P7/RN2KB1R w KQkq - 3 15,Further supporting c5?
+29,Nd2,b1d2,r1b1k2r/pnp1qpp1/1p2p1np/3pP3/1P1Q2PP/2P1PPB1/P2N4/R3KB1R b KQkq - 4 15,No point in checking him. I develop.
+30,c5,c7c5,r1b1k2r/pn2qpp1/1p2p1np/2ppP3/1P1Q2PP/2P1PPB1/P2N4/R3KB1R w KQkq - 0 16,"I was waiting for the knight, but black hopes in an even endgame."
+31,bxc5,b4c5,r1b1k2r/pn2qpp1/1p2p1np/2PpP3/3Q2PP/2P1PPB1/P2N4/R3KB1R b KQkq - 0 16,"I was waiting for the knight, but black hopes in an even endgame."
+32,Qxc5,e7c5,r1b1k2r/pn3pp1/1p2p1np/2qpP3/3Q2PP/2P1PPB1/P2N4/R3KB1R w KQkq - 0 17,"I was waiting for the knight, but black hopes in an even endgame."
+33,Bd3,f1d3,r1b1k2r/pn3pp1/1p2p1np/2qpP3/3Q2PP/2PBPPB1/P2N4/R3K2R b KQkq - 1 17,The best thing I can do is let him exchange.
+34,Qxd4,c5d4,r1b1k2r/pn3pp1/1p2p1np/3pP3/3q2PP/2PBPPB1/P2N4/R3K2R w KQkq - 0 18,"Which he does. Now I have a weakness in c3, but a strong central pawn chain. Let's see if I can defend it."
+35,exd4,e3d4,r1b1k2r/pn3pp1/1p2p1np/3pP3/3P2PP/2PB1PB1/P2N4/R3K2R b KQkq - 0 18,"Which he does. Now I have a weakness in c3, but a strong central pawn chain. Let's see if I can defend it."
+36,Ne7,g6e7,r1b1k2r/pn2npp1/1p2p2p/3pP3/3P2PP/2PB1PB1/P2N4/R3K2R w KQkq - 1 19,A wasted tempo for the attack: Bd7 - Rc8.
+37,a4,a2a4,r1b1k2r/pn2npp1/1p2p2p/3pP3/P2P2PP/2PB1PB1/3N4/R3K2R b KQkq - 0 19,Not wise. Just to make more space for Ra3 and the other rook in c1.
+38,O-O,e8g8,r1b2rk1/pn2npp1/1p2p2p/3pP3/P2P2PP/2PB1PB1/3N4/R3K2R w KQ - 1 20,"Black is not in a hurry, so I even think about a break in a5."
+39,Nb3,d2b3,r1b2rk1/pn2npp1/1p2p2p/3pP3/P2P2PP/1NPB1PB1/8/R3K2R b KQ - 2 20,"Black is not in a hurry, so I even think about a break in a5."
+40,f6,f7f6,r1b2rk1/pn2n1p1/1p2pp1p/3pP3/P2P2PP/1NPB1PB1/8/R3K2R w KQ - 0 21,Logical try by black.
+41,Kd2,e1d2,r1b2rk1/pn2n1p1/1p2pp1p/3pP3/P2P2PP/1NPB1PB1/3K4/R6R b - - 1 21,I moved the king the wrong square. It was an oversight.
+42,fxe5,f6e5,r1b2rk1/pn2n1p1/1p2p2p/3pp3/P2P2PP/1NPB1PB1/3K4/R6R w - - 0 22,"At least, he can't support the rook with the other."
+43,Bxe5,g3e5,r1b2rk1/pn2n1p1/1p2p2p/3pB3/P2P2PP/1NPB1P2/3K4/R6R b - - 0 22,"At least, he can't support the rook with the other."
+44,Rxf3,f8f3,r1b3k1/pn2n1p1/1p2p2p/3pB3/P2P2PP/1NPB1r2/3K4/R6R w - - 0 23,"At least, he can't support the rook with the other."
+45,Ke2,d2e2,r1b3k1/pn2n1p1/1p2p2p/3pB3/P2P2PP/1NPB1r2/4K3/R6R b - - 1 23,"At least, he can't support the rook with the other."
+46,Rf8,f3f8,r1b2rk1/pn2n1p1/1p2p2p/3pB3/P2P2PP/1NPB4/4K3/R6R w - - 2 24,It's my turn to attack. His tangled pieces on the queenside give me an excellent opportunity I don't have to waste.
+47,g5,g4g5,r1b2rk1/pn2n1p1/1p2p2p/3pB1P1/P2P3P/1NPB4/4K3/R6R b - - 0 24,It's my turn to attack. His tangled pieces on the queenside give me an excellent opportunity I don't have to waste.

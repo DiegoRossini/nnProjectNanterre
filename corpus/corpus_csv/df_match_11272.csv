@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"1. e4 occupies a center square and attacks another (d5).  It opens lines for the king bishop and for the queen.  The e-pawn has passed by the d4 and f4 squares, however, and can never be used to fight for those squares."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Sicilian seeks to avoid symmetry, and to keep the position imbalanced."
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,A slower approach with the obvious intention of establishing a pawn duo on d4 and e4.  2. Nf3 and 3. d4 leads to the open Sicilian which is the most challenging way to proceed.
+4,g6,g7g6,rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,"Black is going to fianchetto the king bishop (flank development to g7) where it is relatively safe from attack, but still influences the center."
+5,d4,d2d4,rnbqkbnr/pp1ppp1p/6p1/2p5/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,White's continues with the plan.
+6,cxd4,c5d4,rnbqkbnr/pp1ppp1p/6p1/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,"The c-file has been opened but neither side has developed enough to make use of it.  Remember that 1. e4 robbed the d4 of any pawn support from the e-file.  White's contiuation has robbed the d4 square of any pawn support from the c-file as well.  White has his pawn duo, but can it be maintained?"
+7,cxd4,c3d4,rnbqkbnr/pp1ppp1p/6p1/8/3PP3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,"The c-file has been opened but neither side has developed enough to make use of it.  Remember that 1. e4 robbed the d4 of any pawn support from the e-file.  White's contiuation has robbed the d4 square of any pawn support from the c-file as well.  White has his pawn duo, but can it be maintained?"
+8,d5,d7d5,rnbqkbnr/pp2pp1p/6p1/3p4/3PP3/8/PP3PPP/RNBQKBNR w KQkq - 0 5,The most aggressive continuation.  An exchange of pawns would leave White with an isolated d-pawn.
+9,e5,e4e5,rnbqkbnr/pp2pp1p/6p1/3pP3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,"The advance 5. e5 gains some space for white (notice that the king knight's favorite square f6 is off limits) at the cost of a tempo.  Also notice that of the four central squares three of them are occupied by pawns.  Occupation is not the same as control.  The only central square avaible for the pieces is e4.  White has no pawn that can fight for control over e4, while black has two."
+10,Bg7,f8g7,rnbqk1nr/pp2ppbp/6p1/3pP3/3P4/8/PP3PPP/RNBQKBNR w KQkq - 1 6,"Continuing his development.  If black can break up the mini pawn chain d4-e5, the bishop will become stronger."
+11,f4,f2f4,rnbqk1nr/pp2ppbp/6p1/3pP3/3P1P2/8/PP4PP/RNBQKBNR b KQkq - 0 6,"If white wishes to maintain the pawn chain, he must support it with his f-pawn.  It costs another tempo to do so however."
+12,h5,h7h5,rnbqk1nr/pp2ppb1/6p1/3pP2p/3P1P2/8/PP4PP/RNBQKBNR w KQkq - 0 7,"Black wants to transfer the knight on g8 to f5 via h6.  Once it gets to f5, it will be clear why h5 was useful."
+13,Nf3,g1f3,rnbqk1nr/pp2ppb1/6p1/3pP2p/3P1P2/5N2/PP4PP/RNBQKB1R b KQkq - 1 7,White has to try to complete his development.
+14,Nh6,g8h6,rnbqk2r/pp2ppb1/6pn/3pP2p/3P1P2/5N2/PP4PP/RNBQKB1R w KQkq - 2 8,Transferring the knight.
+15,Bd3,f1d3,rnbqk2r/pp2ppb1/6pn/3pP2p/3P1P2/3B1N2/PP4PP/RNBQK2R b KQkq - 3 8,Developing with an eye on d4.
+16,Nc6,b8c6,r1bqk2r/pp2ppb1/2n3pn/3pP2p/3P1P2/3B1N2/PP4PP/RNBQK2R w KQkq - 4 9,Developing with an eye on d4.
+17,Nc3,b1c3,r1bqk2r/pp2ppb1/2n3pn/3pP2p/3P1P2/2NB1N2/PP4PP/R1BQK2R b KQkq - 5 9,Developing with an eye on d5.
+18,Nf5,h6f5,r1bqk2r/pp2ppb1/2n3p1/3pPn1p/3P1P2/2NB1N2/PP4PP/R1BQK2R w KQkq - 6 10,Now it is clear why black played 6. ...h5.  It prevents white from playing 10. g4 to drive the knight away.  From its perch on f5 the knight increases the pressure on d4.
+19,Bxf5,d3f5,r1bqk2r/pp2ppb1/2n3p1/3pPB1p/3P1P2/2N2N2/PP4PP/R1BQK2R b KQkq - 0 10,"A serious concession.  White's center pawns are on dark squares.  White needs the light square bishop to complement them.  Without it, white will develop serious weaknesses on the light squares."
+20,Bxf5,c8f5,r2qk2r/pp2ppb1/2n3p1/3pPb1p/3P1P2/2N2N2/PP4PP/R1BQK2R w KQkq - 0 11,11.  Be3 was a better choice in order to defend the d4 pawn.
+21,Bd2,c1d2,r2qk2r/pp2ppb1/2n3p1/3pPb1p/3P1P2/2N2N2/PP1B2PP/R2QK2R b KQkq - 1 11,11.  Be3 was a better choice in order to defend the d4 pawn.
+22,Bg4,f5g4,r2qk2r/pp2ppb1/2n3p1/3pP2p/3P1Pb1/2N2N2/PP1B2PP/R2QK2R w KQkq - 2 12,Indirectly pressuring the d4 square by pinning the knight that defends it.
+23,Qe2,d1e2,r2qk2r/pp2ppb1/2n3p1/3pP2p/3P1Pb1/2N2N2/PP1BQ1PP/R3K2R b KQkq - 3 12,This loses material.

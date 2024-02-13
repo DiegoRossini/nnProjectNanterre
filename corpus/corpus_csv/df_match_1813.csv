@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"violence, violence"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"violence, violence"
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"violence, violence"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,accepted with calm
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,mate threat on move 3 :-)
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,figuring white consider a 1700 player as a beginner :-) or not?
+7,Nh3,g1h3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5Q1N/PPPP1PPP/RNB1K2R b KQkq - 5 4,figuring white consider a 1700 player as a beginner :-) or not?
+8,h6,h7h6,r1bqkb1r/pppp1pp1/2n2n1p/4p3/2B1P3/5Q1N/PPPP1PPP/RNB1K2R w KQkq - 0 5,"ok, the development could be seen as even..."
+9,Nc3,b1c3,r1bqkb1r/pppp1pp1/2n2n1p/4p3/2B1P3/2N2Q1N/PPPP1PPP/R1B1K2R b KQkq - 1 5,"ok, the development could be seen as even..."
+10,Nd4,c6d4,r1bqkb1r/pppp1pp1/5n1p/4p3/2BnP3/2N2Q1N/PPPP1PPP/R1B1K2R w KQkq - 2 6,but not quite...
+11,Qd1,f3d1,r1bqkb1r/pppp1pp1/5n1p/4p3/2BnP3/2N4N/PPPP1PPP/R1BQK2R b KQkq - 3 6,"better than Qd3, blocking the dark bishop. Strangely the computer prefers Qd3"
+12,Bc5,f8c5,r1bqk2r/pppp1pp1/5n1p/2b1p3/2BnP3/2N4N/PPPP1PPP/R1BQK2R w KQkq - 4 7,"looks like we are playing: ""the first who takes loses"""
+13,f4,f2f4,r1bqk2r/pppp1pp1/5n1p/2b1p3/2BnPP2/2N4N/PPPP2PP/R1BQK2R b KQkq - 0 7,"looks like we are playing: ""the first who takes loses"""
+14,d6,d7d6,r1bqk2r/ppp2pp1/3p1n1p/2b1p3/2BnPP2/2N4N/PPPP2PP/R1BQK2R w KQkq - 0 8,"looks like we are playing: ""the first who takes loses"""
+15,f5,f4f5,r1bqk2r/ppp2pp1/3p1n1p/2b1pP2/2BnP3/2N4N/PPPP2PP/R1BQK2R b KQkq - 0 8,"looks like we are playing: ""the first who takes loses"""
+16,a6,a7a6,r1bqk2r/1pp2pp1/p2p1n1p/2b1pP2/2BnP3/2N4N/PPPP2PP/R1BQK2R w KQkq - 0 9,finally: taking and checking.
+17,Nd5,c3d5,r1bqk2r/1pp2pp1/p2p1n1p/2bNpP2/2BnP3/7N/PPPP2PP/R1BQK2R b KQkq - 1 9,finally: taking and checking.
+18,c6,c7c6,r1bqk2r/1p3pp1/p1pp1n1p/2bNpP2/2BnP3/7N/PPPP2PP/R1BQK2R w KQkq - 0 10,finally: taking and checking.
+19,Nxf6+,d5f6,r1bqk2r/1p3pp1/p1pp1N1p/2b1pP2/2BnP3/7N/PPPP2PP/R1BQK2R b KQkq - 0 10,finally: taking and checking.
+20,Qxf6,d8f6,r1b1k2r/1p3pp1/p1pp1q1p/2b1pP2/2BnP3/7N/PPPP2PP/R1BQK2R w KQkq - 0 11,the white king size is almost forbidden to rook: all black pieces are turned to it.
+21,g3,g2g3,r1b1k2r/1p3pp1/p1pp1q1p/2b1pP2/2BnP3/6PN/PPPP3P/R1BQK2R b KQkq - 0 11,"very strange move: Nh3 is no more protected, f3 is almost free for my knight (almost) and... why?"
+22,Bxf5,c8f5,r3k2r/1p3pp1/p1pp1q1p/2b1pb2/2BnP3/6PN/PPPP3P/R1BQK2R w KQkq - 0 12,this is after all a miscalculated sacrifice. But I finally got a draw situation after the tension...
+23,Rf1,h1f1,r3k2r/1p3pp1/p1pp1q1p/2b1pb2/2BnP3/6PN/PPPP3P/R1BQKR2 b Qkq - 1 12,"this was my key move: if Rxf5 Nxf5 exf dxc4 and I am better. If exf, then dxc4 and I keep the pawn."
+24,d5,d6d5,r3k2r/1p3pp1/p1p2q1p/2bppb2/2BnP3/6PN/PPPP3P/R1BQKR2 w Qkq - 0 13,"this was my key move: if Rxf5 Nxf5 exf dxc4 and I am better. If exf, then dxc4 and I keep the pawn."
+25,b4,b2b4,r3k2r/1p3pp1/p1p2q1p/2bppb2/1PBnP3/6PN/P1PP3P/R1BQKR2 b Qkq - 0 13,this is the move I didn't calculate.
+26,Bb6,c5b6,r3k2r/1p3pp1/pbp2q1p/3ppb2/1PBnP3/6PN/P1PP3P/R1BQKR2 w Qkq - 1 14,this is the move I didn't calculate.
+27,c3,c2c3,r3k2r/1p3pp1/pbp2q1p/3ppb2/1PBnP3/2P3PN/P2P3P/R1BQKR2 b Qkq - 0 14,this is the move I didn't calculate.
+28,dxc4,d5c4,r3k2r/1p3pp1/pbp2q1p/4pb2/1PpnP3/2P3PN/P2P3P/R1BQKR2 w Qkq - 0 15,"this situation is better for black, because the queen is watchin h3 through the rook... If white protects the rook a1, then g6 sees the knight."
+29,cxd4,c3d4,r3k2r/1p3pp1/pbp2q1p/4pb2/1PpPP3/6PN/P2P3P/R1BQKR2 b Qkq - 0 15,"this situation is better for black, because the queen is watchin h3 through the rook... If white protects the rook a1, then g6 sees the knight."
+30,Bxd4,b6d4,r3k2r/1p3pp1/p1p2q1p/4pb2/1PpbP3/6PN/P2P3P/R1BQKR2 w Qkq - 0 16,"this situation is better for black, because the queen is watchin h3 through the rook... If white protects the rook a1, then g6 sees the knight."
+31,Rxf5,f1f5,r3k2r/1p3pp1/p1p2q1p/4pR2/1PpbP3/6PN/P2P3P/R1BQK3 b Qkq - 0 16,"this situation is better for black, because the queen is watchin h3 through the rook... If white protects the rook a1, then g6 sees the knight."
+32,Qe6,f6e6,r3k2r/1p3pp1/p1p1q2p/4pR2/1PpbP3/6PN/P2P3P/R1BQK3 w Qkq - 1 17,"this situation is better for black, because the queen is watchin h3 through the rook... If white protects the rook a1, then g6 sees the knight."
+33,Rb1,a1b1,r3k2r/1p3pp1/p1p1q2p/4pR2/1PpbP3/6PN/P2P3P/1RBQK3 b kq - 2 17,gives the knigt for a pawn.
+34,g6,g7g6,r3k2r/1p3p2/p1p1q1pp/4pR2/1PpbP3/6PN/P2P3P/1RBQK3 w kq - 0 18,gives the knigt for a pawn.
+35,Nf4,h3f4,r3k2r/1p3p2/p1p1q1pp/4pR2/1PpbPN2/6P1/P2P3P/1RBQK3 b kq - 1 18,gives the knigt for a pawn.
+36,Qd6,e6d6,r3k2r/1p3p2/p1pq2pp/4pR2/1PpbPN2/6P1/P2P3P/1RBQK3 w kq - 2 19,"better than exf4, i think"
+37,Nxg6,f4g6,r3k2r/1p3p2/p1pq2Np/4pR2/1PpbP3/6P1/P2P3P/1RBQK3 b kq - 0 19,my pawn structure is better than with exf4
+38,fxg6,f7g6,r3k2r/1p6/p1pq2pp/4pR2/1PpbP3/6P1/P2P3P/1RBQK3 w kq - 0 20,my pawn structure is better than with exf4
+39,Rf1,f5f1,r3k2r/1p6/p1pq2pp/4p3/1PpbP3/6P1/P2P3P/1RBQKR2 b kq - 1 20,my pawn structure is better than with exf4
+40,O-O-O,e8c8,2kr3r/1p6/p1pq2pp/4p3/1PpbP3/6P1/P2P3P/1RBQKR2 w - - 2 21,"exposing to Qg4+, with the idea in mind this is not a problem"
+41,Bb2,c1b2,2kr3r/1p6/p1pq2pp/4p3/1PpbP3/6P1/PB1P3P/1R1QKR2 b - - 3 21,your column is my column
+42,Rhf8,h8f8,2kr1r2/1p6/p1pq2pp/4p3/1PpbP3/6P1/PB1P3P/1R1QKR2 w - - 4 22,your column is my column

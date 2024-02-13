@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I have had problems in the past to move to a on sided attack if the middle is locked or semi locked.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Standard
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Standard
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Standard
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,I knew him taking would screw up my pawn structure..
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,I knew him taking would screw up my pawn structure..
+7,Nc3,b1c3,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,blocking
+8,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,blocking
+9,d3,d2d3,r2qkbnr/pppb1ppp/2np4/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,pushing away
+10,a6,a7a6,r2qkbnr/1ppb1ppp/p1np4/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6,pushing away
+11,Bc4,b5c4,r2qkbnr/1ppb1ppp/p1np4/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 1 6,"blocking any future Bg5, also preparing to push if he castles kingside"
+12,h6,h7h6,r2qkbnr/1ppb1pp1/p1np3p/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 7,"blocking any future Bg5, also preparing to push if he castles kingside"
+13,O-O,e1g1,r2qkbnr/1ppb1pp1/p1np3p/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 1 7,"forcing the trade, this would double the e pawns and open the f file if I castle kingside"
+14,Be6,d7e6,r2qkbnr/1pp2pp1/p1npb2p/4p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w kq - 2 8,"forcing the trade, this would double the e pawns and open the f file if I castle kingside"
+15,Bxe6,c4e6,r2qkbnr/1pp2pp1/p1npB2p/4p3/4P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 0 8,accepted
+16,fxe6,f7e6,r2qkbnr/1pp3p1/p1npp2p/4p3/4P3/2NP1N2/PPP2PPP/R1BQ1RK1 w kq - 0 9,accepted
+17,Be3,c1e3,r2qkbnr/1pp3p1/p1npp2p/4p3/4P3/2NPBN2/PPP2PPP/R2Q1RK1 b kq - 1 9,trying to get the bishop active
+18,Be7,f8e7,r2qk1nr/1pp1b1p1/p1npp2p/4p3/4P3/2NPBN2/PPP2PPP/R2Q1RK1 w kq - 2 10,trying to get the bishop active
+19,Ne2,c3e2,r2qk1nr/1pp1b1p1/p1npp2p/4p3/4P3/3PBN2/PPP1NPPP/R2Q1RK1 b kq - 3 10,opening to castle queen side
+20,Qd7,d8d7,r3k1nr/1ppqb1p1/p1npp2p/4p3/4P3/3PBN2/PPP1NPPP/R2Q1RK1 w kq - 4 11,opening to castle queen side
+21,c3,c2c3,r3k1nr/1ppqb1p1/p1npp2p/4p3/4P3/2PPBN2/PP2NPPP/R2Q1RK1 b kq - 0 11,rex to safety
+22,O-O-O,e8c8,2kr2nr/1ppqb1p1/p1npp2p/4p3/4P3/2PPBN2/PP2NPPP/R2Q1RK1 w - - 1 12,rex to safety
+23,Qb3,d1b3,2kr2nr/1ppqb1p1/p1npp2p/4p3/4P3/1QPPBN2/PP2NPPP/R4RK1 b - - 2 12,"starting to push, his queen side attack will take a while to get started so I start some doubt by pushing"
+24,g5,g7g5,2kr2nr/1ppqb3/p1npp2p/4p1p1/4P3/1QPPBN2/PP2NPPP/R4RK1 w - - 0 13,"starting to push, his queen side attack will take a while to get started so I start some doubt by pushing"
+25,h3,h2h3,2kr2nr/1ppqb3/p1npp2p/4p1p1/4P3/1QPPBN1P/PP2NPP1/R4RK1 b - - 0 13,he starts the defence
+26,Na5,c6a5,2kr2nr/1ppqb3/p2pp2p/n3p1p1/4P3/1QPPBN1P/PP2NPP1/R4RK1 w - - 1 14,"trying to get Qa3, discovered attack by d5"
+27,Qa3,b3a3,2kr2nr/1ppqb3/p2pp2p/n3p1p1/4P3/Q1PPBN1P/PP2NPP1/R4RK1 b - - 2 14,working
+28,Nc6,a5c6,2kr2nr/1ppqb3/p1npp2p/4p1p1/4P3/Q1PPBN1P/PP2NPP1/R4RK1 w - - 3 15,working
+29,Qb3,a3b3,2kr2nr/1ppqb3/p1npp2p/4p1p1/4P3/1QPPBN1P/PP2NPP1/R4RK1 b - - 4 15,"fell through, so sacing the g pawn to open up some lines"
+30,g4,g5g4,2kr2nr/1ppqb3/p1npp2p/4p3/4P1p1/1QPPBN1P/PP2NPP1/R4RK1 w - - 0 16,"fell through, so sacing the g pawn to open up some lines"
+31,hxg4,h3g4,2kr2nr/1ppqb3/p1npp2p/4p3/4P1P1/1QPPBN2/PP2NPP1/R4RK1 b - - 0 16,getting another piece in
+32,Nf6,g8f6,2kr3r/1ppqb3/p1nppn1p/4p3/4P1P1/1QPPBN2/PP2NPP1/R4RK1 w - - 1 17,getting another piece in
+33,Nh2,f3h2,2kr3r/1ppqb3/p1nppn1p/4p3/4P1P1/1QPPB3/PP2NPPN/R4RK1 b - - 2 17,deffending
+34,h5,h6h5,2kr3r/1ppqb3/p1nppn2/4p2p/4P1P1/1QPPB3/PP2NPPN/R4RK1 w - - 0 18,thsi one I could pull back faster
+35,gxh5,g4h5,2kr3r/1ppqb3/p1nppn2/4p2P/4P3/1QPPB3/PP2NPPN/R4RK1 b - - 0 18,"done, still one down, looking at Rdh8"
+36,Rxh5,h8h5,2kr4/1ppqb3/p1nppn2/4p2r/4P3/1QPPB3/PP2NPPN/R4RK1 w - - 0 19,"done, still one down, looking at Rdh8"

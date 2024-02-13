@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Najdorf
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Najdorf
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Najdorf
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Najdorf
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Najdorf
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Najdorf
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Najdorf
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Najdorf
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Najdorf
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Najdorf
+11,Bg5,c1g5,rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6,Najdorf
+12,h6,h7h6,rnbqkb1r/1p2ppp1/p2p1n1p/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7,exf must be wrong: d pawn is completely isolated. gxf is much better.
+13,Bxf6,g5f6,rnbqkb1r/1p2ppp1/p2p1B1p/8/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 7,exf must be wrong: d pawn is completely isolated. gxf is much better.
+14,exf6,e7f6,rnbqkb1r/1p3pp1/p2p1p1p/8/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 8,exf must be wrong: d pawn is completely isolated. gxf is much better.
+15,Bc4,f1c4,rnbqkb1r/1p3pp1/p2p1p1p/8/2BNP3/2N5/PPP2PPP/R2QK2R b KQkq - 1 8,white is much more advanced and well centered. no merit: all the credit to black's bad moves.
+16,Be7,f8e7,rnbqk2r/1p2bpp1/p2p1p1p/8/2BNP3/2N5/PPP2PPP/R2QK2R w KQkq - 2 9,already planning the attack: white has to take profit of this advance.
+17,O-O,e1g1,rnbqk2r/1p2bpp1/p2p1p1p/8/2BNP3/2N5/PPP2PPP/R2Q1RK1 b kq - 3 9,already planning the attack: white has to take profit of this advance.
+18,O-O,e8g8,rnbq1rk1/1p2bpp1/p2p1p1p/8/2BNP3/2N5/PPP2PPP/R2Q1RK1 w - - 4 10,already planning the attack: white has to take profit of this advance.
+19,f4,f2f4,rnbq1rk1/1p2bpp1/p2p1p1p/8/2BNPP2/2N5/PPP3PP/R2Q1RK1 b - - 0 10,already planning the attack: white has to take profit of this advance.
+20,Nc6,b8c6,r1bq1rk1/1p2bpp1/p1np1p1p/8/2BNPP2/2N5/PPP3PP/R2Q1RK1 w - - 1 11,"blocking almost everything here, for black side."
+21,f5,f4f5,r1bq1rk1/1p2bpp1/p1np1p1p/5P2/2BNP3/2N5/PPP3PP/R2Q1RK1 b - - 0 11,"blocking almost everything here, for black side."
+22,Qb6,d8b6,r1b2rk1/1p2bpp1/pqnp1p1p/5P2/2BNP3/2N5/PPP3PP/R2Q1RK1 w - - 1 12,surprise?
+23,Nd5,c3d5,r1b2rk1/1p2bpp1/pqnp1p1p/3N1P2/2BNP3/8/PPP3PP/R2Q1RK1 b - - 2 12,"well, try me... If Qxd4+ then 13. Qxd4 Nxd4 14 Nxe7+, white is still better."
+24,Qd8,b6d8,r1bq1rk1/1p2bpp1/p1np1p1p/3N1P2/2BNP3/8/PPP3PP/R2Q1RK1 w - - 3 13,avoiding another surprise.
+25,c3,c2c3,r1bq1rk1/1p2bpp1/p1np1p1p/3N1P2/2BNP3/2P5/PP4PP/R2Q1RK1 b - - 0 13,avoiding another surprise.
+26,Ne5,c6e5,r1bq1rk1/1p2bpp1/p2p1p1p/3NnP2/2BNP3/2P5/PP4PP/R2Q1RK1 w - - 1 14,well positionned.
+27,Bb3,c4b3,r1bq1rk1/1p2bpp1/p2p1p1p/3NnP2/3NP3/1BP5/PP4PP/R2Q1RK1 b - - 2 14,I still need my white clear bishop.
+28,b5,b7b5,r1bq1rk1/4bpp1/p2p1p1p/1p1NnP2/3NP3/1BP5/PP4PP/R2Q1RK1 w - - 0 15,let's continue our plan.
+29,Rf4,f1f4,r1bq1rk1/4bpp1/p2p1p1p/1p1NnP2/3NPR2/1BP5/PP4PP/R2Q2K1 b - - 1 15,let's continue our plan.
+30,Bb7,c8b7,r2q1rk1/1b2bpp1/p2p1p1p/1p1NnP2/3NPR2/1BP5/PP4PP/R2Q2K1 w - - 2 16,?!
+31,Rh4,f4h4,r2q1rk1/1b2bpp1/p2p1p1p/1p1NnP2/3NP2R/1BP5/PP4PP/R2Q2K1 b - - 3 16,?!
+32,Bxd5,b7d5,r2q1rk1/4bpp1/p2p1p1p/1p1bnP2/3NP2R/1BP5/PP4PP/R2Q2K1 w - - 0 17,?!
+33,Bxd5,b3d5,r2q1rk1/4bpp1/p2p1p1p/1p1BnP2/3NP2R/2P5/PP4PP/R2Q2K1 b - - 0 17,allowing Ra1 to join the battlefield
+34,Ra7,a8a7,3q1rk1/r3bpp1/p2p1p1p/1p1BnP2/3NP2R/2P5/PP4PP/R2Q2K1 w - - 1 18,allowing Ra1 to join the battlefield
+35,Qe2,d1e2,3q1rk1/r3bpp1/p2p1p1p/1p1BnP2/3NP2R/2P5/PP2Q1PP/R5K1 b - - 2 18,allowing Ra1 to join the battlefield
+36,Qb6,d8b6,5rk1/r3bpp1/pq1p1p1p/1p1BnP2/3NP2R/2P5/PP2Q1PP/R5K1 w - - 3 19,surprise is back.
+37,Kh1,g1h1,5rk1/r3bpp1/pq1p1p1p/1p1BnP2/3NP2R/2P5/PP2Q1PP/R6K b - - 4 19,the attack is for later now.
+38,b4,b5b4,5rk1/r3bpp1/pq1p1p1p/3BnP2/1p1NP2R/2P5/PP2Q1PP/R6K w - - 0 20,the attack is for later now.
+39,Qf2,e2f2,5rk1/r3bpp1/pq1p1p1p/3BnP2/1p1NP2R/2P5/PP3QPP/R6K b - - 1 20,the attack is for later now.
+40,bxc3,b4c3,5rk1/r3bpp1/pq1p1p1p/3BnP2/3NP2R/2p5/PP3QPP/R6K w - - 0 21,the attack is for later now.
+41,bxc3,b2c3,5rk1/r3bpp1/pq1p1p1p/3BnP2/3NP2R/2P5/P4QPP/R6K b - - 0 21,the attack is for later now.
+42,Qc5,b6c5,5rk1/r3bpp1/p2p1p1p/2qBnP2/3NP2R/2P5/P4QPP/R6K w - - 1 22,the attack is for later now.
+43,Rh3,h4h3,5rk1/r3bpp1/p2p1p1p/2qBnP2/3NP3/2P4R/P4QPP/R6K b - - 2 22,the attack is for later now.
+44,Bd8,e7d8,3b1rk1/r4pp1/p2p1p1p/2qBnP2/3NP3/2P4R/P4QPP/R6K w - - 3 23,or is it for now?
+45,Qg3,f2g3,3b1rk1/r4pp1/p2p1p1p/2qBnP2/3NP3/2P3QR/P5PP/R6K b - - 4 23,or is it for now?
+46,Kh7,g8h7,3b1r2/r4ppk/p2p1p1p/2qBnP2/3NP3/2P3QR/P5PP/R6K w - - 5 24,??
+47,Qe3,g3e3,3b1r2/r4ppk/p2p1p1p/2qBnP2/3NP3/2P1Q2R/P5PP/R6K b - - 6 24,??
+48,Ba5,d8a5,5r2/r4ppk/p2p1p1p/b1qBnP2/3NP3/2P1Q2R/P5PP/R6K w - - 7 25,??
+49,Nb3,d4b3,5r2/r4ppk/p2p1p1p/b1qBnP2/4P3/1NP1Q2R/P5PP/R6K b - - 8 25,??
+50,Qxe3,c5e3,5r2/r4ppk/p2p1p1p/b2BnP2/4P3/1NP1q2R/P5PP/R6K w - - 0 26,??
+51,Rxe3,h3e3,5r2/r4ppk/p2p1p1p/b2BnP2/4P3/1NP1R3/P5PP/R6K b - - 0 26,??
+52,Rc7,a7c7,5r2/2r2ppk/p2p1p1p/b2BnP2/4P3/1NP1R3/P5PP/R6K w - - 1 27,??
+53,Nxa5,b3a5,5r2/2r2ppk/p2p1p1p/N2BnP2/4P3/2P1R3/P5PP/R6K b - - 0 27,taking profit of strange mistake.
+54,Rfc8,f8c8,2r5/2r2ppk/p2p1p1p/N2BnP2/4P3/2P1R3/P5PP/R6K w - - 1 28,I keep my soldiers
+55,Rc1,a1c1,2r5/2r2ppk/p2p1p1p/N2BnP2/4P3/2P1R3/P5PP/2R4K b - - 2 28,I keep my soldiers
+56,Ng4,e5g4,2r5/2r2ppk/p2p1p1p/N2B1P2/4P1n1/2P1R3/P5PP/2R4K w - - 3 29,avoiding Nf2
+57,Rf3,e3f3,2r5/2r2ppk/p2p1p1p/N2B1P2/4P1n1/2P2R2/P5PP/2R4K b - - 4 29,avoiding Nf2

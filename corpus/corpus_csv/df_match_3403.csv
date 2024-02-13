@@ -1,0 +1,82 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,A reversed Sicilian
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,A reversed Sicilian
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,Gaining space on the Queenside
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,Gaining space on the Queenside
+5,g3,g2g3,rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,Gaining space on the Queenside
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Gaining space on the Queenside
+7,Bg2,f1g2,rnbqkb1r/ppp2ppp/3p1n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,Gaining space on the Queenside
+8,c6,c7c6,rnbqkb1r/pp3ppp/2pp1n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 5,Gaining space on the Queenside
+9,Nf3,g1f3,rnbqkb1r/pp3ppp/2pp1n2/4p3/2P5/2N2NP1/PP1PPPBP/R1BQK2R b KQkq - 1 5,Gaining space on the Queenside
+10,Be6,c8e6,rn1qkb1r/pp3ppp/2ppbn2/4p3/2P5/2N2NP1/PP1PPPBP/R1BQK2R w KQkq - 2 6,Gaining space on the Queenside
+11,d3,d2d3,rn1qkb1r/pp3ppp/2ppbn2/4p3/2P5/2NP1NP1/PP2PPBP/R1BQK2R b KQkq - 0 6,Gaining space on the Queenside
+12,h6,h7h6,rn1qkb1r/pp3pp1/2ppbn1p/4p3/2P5/2NP1NP1/PP2PPBP/R1BQK2R w KQkq - 0 7,Gaining space on the Queenside
+13,O-O,e1g1,rn1qkb1r/pp3pp1/2ppbn1p/4p3/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 b kq - 1 7,Gaining space on the Queenside
+14,g6,g7g6,rn1qkb1r/pp3p2/2ppbnpp/4p3/2P5/2NP1NP1/PP2PPBP/R1BQ1RK1 w kq - 0 8,Gaining space on the Queenside
+15,Re1,f1e1,rn1qkb1r/pp3p2/2ppbnpp/4p3/2P5/2NP1NP1/PP2PPBP/R1BQR1K1 b kq - 1 8,Gaining space on the Queenside
+16,Bg7,f8g7,rn1qk2r/pp3pb1/2ppbnpp/4p3/2P5/2NP1NP1/PP2PPBP/R1BQR1K1 w kq - 2 9,Gaining space on the Queenside
+17,Qc2,d1c2,rn1qk2r/pp3pb1/2ppbnpp/4p3/2P5/2NP1NP1/PPQ1PPBP/R1B1R1K1 b kq - 3 9,Gaining space on the Queenside
+18,O-O,e8g8,rn1q1rk1/pp3pb1/2ppbnpp/4p3/2P5/2NP1NP1/PPQ1PPBP/R1B1R1K1 w - - 4 10,Gaining space on the Queenside
+19,b4,b2b4,rn1q1rk1/pp3pb1/2ppbnpp/4p3/1PP5/2NP1NP1/P1Q1PPBP/R1B1R1K1 b - - 0 10,Gaining space on the Queenside
+20,a6,a7a6,rn1q1rk1/1p3pb1/p1ppbnpp/4p3/1PP5/2NP1NP1/P1Q1PPBP/R1B1R1K1 w - - 0 11,Gaining space on the Queenside
+21,a4,a2a4,rn1q1rk1/1p3pb1/p1ppbnpp/4p3/PPP5/2NP1NP1/2Q1PPBP/R1B1R1K1 b - - 0 11,Gaining space on the Queenside
+22,Qd7,d8d7,rn3rk1/1p1q1pb1/p1ppbnpp/4p3/PPP5/2NP1NP1/2Q1PPBP/R1B1R1K1 w - - 1 12,Gaining space on the Queenside
+23,a5,a4a5,rn3rk1/1p1q1pb1/p1ppbnpp/P3p3/1PP5/2NP1NP1/2Q1PPBP/R1B1R1K1 b - - 0 12,Gaining space on the Queenside
+24,Bh3,e6h3,rn3rk1/1p1q1pb1/p1pp1npp/P3p3/1PP5/2NP1NPb/2Q1PPBP/R1B1R1K1 w - - 1 13,The rook shift allowed this Bishop retreat.
+25,Bh1,g2h1,rn3rk1/1p1q1pb1/p1pp1npp/P3p3/1PP5/2NP1NPb/2Q1PP1P/R1B1R1KB b - - 2 13,The rook shift allowed this Bishop retreat.
+26,Ng4,f6g4,rn3rk1/1p1q1pb1/p1pp2pp/P3p3/1PP3n1/2NP1NPb/2Q1PP1P/R1B1R1KB w - - 3 14,"Here, f5 would have been much stronger."
+27,Bb2,c1b2,rn3rk1/1p1q1pb1/p1pp2pp/P3p3/1PP3n1/2NP1NPb/1BQ1PP1P/R3R1KB b - - 4 14,"Here, f5 would have been much stronger."
+28,Qf5,d7f5,rn3rk1/1p3pb1/p1pp2pp/P3pq2/1PP3n1/2NP1NPb/1BQ1PP1P/R3R1KB w - - 5 15,"Here, f5 would have been much stronger."
+29,e4,e2e4,rn3rk1/1p3pb1/p1pp2pp/P3pq2/1PP1P1n1/2NP1NPb/1BQ2P1P/R3R1KB b - - 0 15,Black has no attack.
+30,Qh5,f5h5,rn3rk1/1p3pb1/p1pp2pp/P3p2q/1PP1P1n1/2NP1NPb/1BQ2P1P/R3R1KB w - - 1 16,Black has no attack.
+31,Nd1,c3d1,rn3rk1/1p3pb1/p1pp2pp/P3p2q/1PP1P1n1/3P1NPb/1BQ2P1P/R2NR1KB b - - 2 16,Black has no attack.
+32,Nf6,g4f6,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P3/3P1NPb/1BQ2P1P/R2NR1KB w - - 3 17,Black has no attack.
+33,Ne3,d1e3,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P3/3PNNPb/1BQ2P1P/R3R1KB b - - 4 17,Black has no attack.
+34,Bg4,h3g4,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P1b1/3PNNP1/1BQ2P1P/R3R1KB w - - 5 18,Black has no attack.
+35,Nxg4,e3g4,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P1N1/3P1NP1/1BQ2P1P/R3R1KB b - - 0 18,Black has no attack.
+36,Nxg4,f6g4,rn3rk1/1p3pb1/p1pp2pp/P3p2q/1PP1P1n1/3P1NP1/1BQ2P1P/R3R1KB w - - 0 19,Black has no attack.
+37,Bg2,h1g2,rn3rk1/1p3pb1/p1pp2pp/P3p2q/1PP1P1n1/3P1NP1/1BQ2PBP/R3R1K1 b - - 1 19,Excellent knight outpost on f5
+38,Nf6,g4f6,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P3/3P1NP1/1BQ2PBP/R3R1K1 w - - 2 20,Excellent knight outpost on f5
+39,Qe2,c2e2,rn3rk1/1p3pb1/p1pp1npp/P3p2q/1PP1P3/3P1NP1/1B2QPBP/R3R1K1 b - - 3 20,Excellent knight outpost on f5
+40,g5,g6g5,rn3rk1/1p3pb1/p1pp1n1p/P3p1pq/1PP1P3/3P1NP1/1B2QPBP/R3R1K1 w - - 0 21,Excellent knight outpost on f5
+41,Nd2,f3d2,rn3rk1/1p3pb1/p1pp1n1p/P3p1pq/1PP1P3/3P2P1/1B1NQPBP/R3R1K1 b - - 1 21,Excellent knight outpost on f5
+42,Qg6,h5g6,rn3rk1/1p3pb1/p1pp1nqp/P3p1p1/1PP1P3/3P2P1/1B1NQPBP/R3R1K1 w - - 2 22,Excellent knight outpost on f5
+43,Nf1,d2f1,rn3rk1/1p3pb1/p1pp1nqp/P3p1p1/1PP1P3/3P2P1/1B2QPBP/R3RNK1 b - - 3 22,Excellent knight outpost on f5
+44,Nbd7,b8d7,r4rk1/1p1n1pb1/p1pp1nqp/P3p1p1/1PP1P3/3P2P1/1B2QPBP/R3RNK1 w - - 4 23,Excellent knight outpost on f5
+45,Ne3,f1e3,r4rk1/1p1n1pb1/p1pp1nqp/P3p1p1/1PP1P3/3PN1P1/1B2QPBP/R3R1K1 b - - 5 23,Excellent knight outpost on f5
+46,Nh7,f6h7,r4rk1/1p1n1pbn/p1pp2qp/P3p1p1/1PP1P3/3PN1P1/1B2QPBP/R3R1K1 w - - 6 24,Excellent knight outpost on f5
+47,Nf5,e3f5,r4rk1/1p1n1pbn/p1pp2qp/P3pNp1/1PP1P3/3P2P1/1B2QPBP/R3R1K1 b - - 7 24,Excellent knight outpost on f5
+48,Rae8,a8e8,4rrk1/1p1n1pbn/p1pp2qp/P3pNp1/1PP1P3/3P2P1/1B2QPBP/R3R1K1 w - - 8 25,Seizing the c-file and threatening Rc7 followed by Rec1
+49,Bf3,g2f3,4rrk1/1p1n1pbn/p1pp2qp/P3pNp1/1PP1P3/3P1BP1/1B2QP1P/R3R1K1 b - - 9 25,Seizing the c-file and threatening Rc7 followed by Rec1
+50,Qf6,g6f6,4rrk1/1p1n1pbn/p1pp1q1p/P3pNp1/1PP1P3/3P1BP1/1B2QP1P/R3R1K1 w - - 10 26,Seizing the c-file and threatening Rc7 followed by Rec1
+51,d4,d3d4,4rrk1/1p1n1pbn/p1pp1q1p/P3pNp1/1PPPP3/5BP1/1B2QP1P/R3R1K1 b - - 0 26,Seizing the c-file and threatening Rc7 followed by Rec1
+52,Re6,e8e6,5rk1/1p1n1pbn/p1pprq1p/P3pNp1/1PPPP3/5BP1/1B2QP1P/R3R1K1 w - - 1 27,Seizing the c-file and threatening Rc7 followed by Rec1
+53,d5,d4d5,5rk1/1p1n1pbn/p1pprq1p/P2PpNp1/1PP1P3/5BP1/1B2QP1P/R3R1K1 b - - 0 27,Seizing the c-file and threatening Rc7 followed by Rec1
+54,cxd5,c6d5,5rk1/1p1n1pbn/p2prq1p/P2ppNp1/1PP1P3/5BP1/1B2QP1P/R3R1K1 w - - 0 28,Seizing the c-file and threatening Rc7 followed by Rec1
+55,cxd5,c4d5,5rk1/1p1n1pbn/p2prq1p/P2PpNp1/1P2P3/5BP1/1B2QP1P/R3R1K1 b - - 0 28,Seizing the c-file and threatening Rc7 followed by Rec1
+56,Ree8,e6e8,4rrk1/1p1n1pbn/p2p1q1p/P2PpNp1/1P2P3/5BP1/1B2QP1P/R3R1K1 w - - 1 29,Seizing the c-file and threatening Rc7 followed by Rec1
+57,Rac1,a1c1,4rrk1/1p1n1pbn/p2p1q1p/P2PpNp1/1P2P3/5BP1/1B2QP1P/2R1R1K1 b - - 2 29,Seizing the c-file and threatening Rc7 followed by Rec1
+58,Rec8,e8c8,2r2rk1/1p1n1pbn/p2p1q1p/P2PpNp1/1P2P3/5BP1/1B2QP1P/2R1R1K1 w - - 3 30,"Black must lose a pawn, else he loses the c-file and the white rooks penetrate on the seventh rank"
+59,Bg4,f3g4,2r2rk1/1p1n1pbn/p2p1q1p/P2PpNp1/1P2P1B1/6P1/1B2QP1P/2R1R1K1 b - - 4 30,"Black must lose a pawn, else he loses the c-file and the white rooks penetrate on the seventh rank"
+60,Qd8,f6d8,2rq1rk1/1p1n1pbn/p2p3p/P2PpNp1/1P2P1B1/6P1/1B2QP1P/2R1R1K1 w - - 5 31,"Black must lose a pawn, else he loses the c-file and the white rooks penetrate on the seventh rank"
+61,Nxd6,f5d6,2rq1rk1/1p1n1pbn/p2N3p/P2Pp1p1/1P2P1B1/6P1/1B2QP1P/2R1R1K1 b - - 0 31,Black cannot play 33. ... Qxb4?? because 34. Nxg7 followed by Bxd7 and also threatening Bxe5+
+62,Rxc1,c8c1,3q1rk1/1p1n1pbn/p2N3p/P2Pp1p1/1P2P1B1/6P1/1B2QP1P/2r1R1K1 w - - 0 32,Black cannot play 33. ... Qxb4?? because 34. Nxg7 followed by Bxd7 and also threatening Bxe5+
+63,Rxc1,e1c1,3q1rk1/1p1n1pbn/p2N3p/P2Pp1p1/1P2P1B1/6P1/1B2QP1P/2R3K1 b - - 0 32,Black cannot play 33. ... Qxb4?? because 34. Nxg7 followed by Bxd7 and also threatening Bxe5+
+64,Qe7,d8e7,5rk1/1p1nqpbn/p2N3p/P2Pp1p1/1P2P1B1/6P1/1B2QP1P/2R3K1 w - - 1 33,Black cannot play 33. ... Qxb4?? because 34. Nxg7 followed by Bxd7 and also threatening Bxe5+
+65,Nf5,d6f5,5rk1/1p1nqpbn/p6p/P2PpNp1/1P2P1B1/6P1/1B2QP1P/2R3K1 b - - 2 33,Black cannot play 33. ... Qxb4?? because 34. Nxg7 followed by Bxd7 and also threatening Bxe5+
+66,Qd8,e7d8,3q1rk1/1p1n1pbn/p6p/P2PpNp1/1P2P1B1/6P1/1B2QP1P/2R3K1 w - - 3 34,Black loses a second pawn
+67,d6,d5d6,3q1rk1/1p1n1pbn/p2P3p/P3pNp1/1P2P1B1/6P1/1B2QP1P/2R3K1 b - - 0 34,Black loses a second pawn
+68,Nhf6,h7f6,3q1rk1/1p1n1pb1/p2P1n1p/P3pNp1/1P2P1B1/6P1/1B2QP1P/2R3K1 w - - 1 35,Black loses a second pawn
+69,Bf3,g4f3,3q1rk1/1p1n1pb1/p2P1n1p/P3pNp1/1P2P3/5BP1/1B2QP1P/2R3K1 b - - 2 35,Black loses a second pawn
+70,Re8,f8e8,3qr1k1/1p1n1pb1/p2P1n1p/P3pNp1/1P2P3/5BP1/1B2QP1P/2R3K1 w - - 3 36,Black loses a second pawn
+71,Rc7,c1c7,3qr1k1/1pRn1pb1/p2P1n1p/P3pNp1/1P2P3/5BP1/1B2QP1P/6K1 b - - 4 36,Black loses a second pawn
+72,Re6,e8e6,3q2k1/1pRn1pb1/p2Prn1p/P3pNp1/1P2P3/5BP1/1B2QP1P/6K1 w - - 5 37,Black loses a second pawn
+73,Rxb7,c7b7,3q2k1/1R1n1pb1/p2Prn1p/P3pNp1/1P2P3/5BP1/1B2QP1P/6K1 b - - 0 37,Black loses a second pawn
+74,Nb8,d7b8,1n1q2k1/1R3pb1/p2Prn1p/P3pNp1/1P2P3/5BP1/1B2QP1P/6K1 w - - 1 38,Pins the rook
+75,Qc4,e2c4,1n1q2k1/1R3pb1/p2Prn1p/P3pNp1/1PQ1P3/5BP1/1B3P1P/6K1 b - - 2 38,Pins the rook
+76,g4,g5g4,1n1q2k1/1R3pb1/p2Prn1p/P3pN2/1PQ1P1p1/5BP1/1B3P1P/6K1 w - - 0 39,Threatens to win the Queen with 41. Rc8
+77,Be2,f3e2,1n1q2k1/1R3pb1/p2Prn1p/P3pN2/1PQ1P1p1/6P1/1B2BP1P/6K1 b - - 1 39,Threatens to win the Queen with 41. Rc8
+78,h5,h6h5,1n1q2k1/1R3pb1/p2Prn2/P3pN1p/1PQ1P1p1/6P1/1B2BP1P/6K1 w - - 0 40,Threatens to win the Queen with 41. Rc8
+79,Rc7,b7c7,1n1q2k1/2R2pb1/p2Prn2/P3pN1p/1PQ1P1p1/6P1/1B2BP1P/6K1 b - - 1 40,Threatens to win the Queen with 41. Rc8
+80,Re8,e6e8,1n1qr1k1/2R2pb1/p2P1n2/P3pN1p/1PQ1P1p1/6P1/1B2BP1P/6K1 w - - 2 41,Even better ... this allows mate in 2.
+81,Qxf7+,c4f7,1n1qr1k1/2R2Qb1/p2P1n2/P3pN1p/1P2P1p1/6P1/1B2BP1P/6K1 b - - 0 41,Black resigns instead of allowing Qxg7#

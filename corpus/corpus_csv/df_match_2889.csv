@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's pawn opening ! Black can play the benoni which I'm working in the moment.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Modern benoni, first move."
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,But it's not the expected move. No benoni for this time.
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,Black had no precise idea about wht to do and changes his plan.
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 1 3,We go for the boring four knights opening.
+6,c5,c7c5,rnbqkb1r/pp2pppp/5n2/2pp4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4,Now it looks more like a sicilian of some sort.
+7,Bg5,c1g5,rnbqkb1r/pp2pppp/5n2/2pp2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 1 4,Not a very efficient move when the e pawn is still in the starting block.
+8,Ne4,f6e4,rnbqkb1r/pp2pppp/8/2pp2B1/3Pn3/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 2 5,"I'm not sure about this move. If white takes with the knight, black will have a double pawn difficult to defend and has moved twice the same piece. On the other hand, by playing f6, black can easily drive away white's DSB and the knight at the center menaces the white knight and the bishop."
+9,Bd2,g5d2,rnbqkb1r/pp2pppp/8/2pp4/3Pn3/2N2N2/PPPBPPPP/R2QKB1R b KQkq - 3 5,"White chooses to retreat his bishop, probably fearing 5. ... Nxc3 6.bxc3, doubling the c pawn."
+10,cxd4,c5d4,rnbqkb1r/pp2pppp/8/3p4/3pn3/2N2N2/PPPBPPPP/R2QKB1R w KQkq - 0 6,Trading
+11,Nxd4,f3d4,rnbqkb1r/pp2pppp/8/3p4/3Nn3/2N5/PPPBPPPP/R2QKB1R b KQkq - 0 6,trading
+12,e5,e7e5,rnbqkb1r/pp3ppp/8/3pp3/3Nn3/2N5/PPPBPPPP/R2QKB1R w KQkq - 0 7,Settling in the center and opening diagonals for the DSB and the queen.
+13,Nf3,d4f3,rnbqkb1r/pp3ppp/8/3pp3/4n3/2N2N2/PPPBPPPP/R2QKB1R b KQkq - 1 7,Retreating and menacing the e pawn.
+14,Nxc3,e4c3,rnbqkb1r/pp3ppp/8/3pp3/8/2n2N2/PPPBPPPP/R2QKB1R w KQkq - 0 8,"The d pawn is now weak but can be protected, by 9. ... Be6."
+15,Bxc3,d2c3,rnbqkb1r/pp3ppp/8/3pp3/8/2B2N2/PPP1PPPP/R2QKB1R b KQkq - 0 8,"The d pawn is now weak but can be protected, by 9. ... Be6."
+16,e4,e5e4,rnbqkb1r/pp3ppp/8/3p4/4p3/2B2N2/PPP1PPPP/R2QKB1R w KQkq - 0 9,"The d pawn is now weak but can be protected, by 9. ... Be6."
+17,Nd4,f3d4,rnbqkb1r/pp3ppp/8/3p4/3Np3/2B5/PPP1PPPP/R2QKB1R b KQkq - 1 9,Good place for a knight on the center if it cannot be attacked by the pawns.
+18,Bc5,f8c5,rnbqk2r/pp3ppp/8/2bp4/3Np3/2B5/PPP1PPPP/R2QKB1R w KQkq - 2 10,Black has to develop and the f2 square is an interresting target.
+19,Nb3,d4b3,rnbqk2r/pp3ppp/8/2bp4/4p3/1NB5/PPP1PPPP/R2QKB1R b KQkq - 3 10,attaécking the bishop.
+20,Qd6,d8d6,rnb1k2r/pp3ppp/3q4/2bp4/4p3/1NB5/PPP1PPPP/R2QKB1R w KQkq - 4 11,White trades
+21,Nxc5,b3c5,rnb1k2r/pp3ppp/3q4/2Np4/4p3/2B5/PPP1PPPP/R2QKB1R b KQkq - 0 11,White trades
+22,Qxc5,d6c5,rnb1k2r/pp3ppp/8/2qp4/4p3/2B5/PPP1PPPP/R2QKB1R w KQkq - 0 12,"apparently a good move, winning a pawn and menacing the h rook."
+23,Bxg7,c3g7,rnb1k2r/pp3pBp/8/2qp4/4p3/8/PPP1PPPP/R2QKB1R b KQkq - 0 12,"apparently a good move, winning a pawn and menacing the h rook."
+24,Rg8,h8g8,rnb1k1r1/pp3pBp/8/2qp4/4p3/8/PPP1PPPP/R2QKB1R w KQq - 1 13,"To drive the bishop away and occupate the half open file. The drawback is that black will have to caslte long and the king on c8 won't be safe at all.  To stay on the center will not be safer as the two central pawns are far away from home. As black has 4 pieces out against one for white, black has the initiative and it balances the unsafe king position (but may be not the late in material)."

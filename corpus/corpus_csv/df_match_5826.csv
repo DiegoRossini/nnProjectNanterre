@@ -1,0 +1,18 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A common move for white.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A common move for black.
+3,a3,a2a3,rnbqkbnr/pppp1ppp/8/4p3/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2,This is a waste of a move. It doesn't help develop any pieces or attack the center of the board. The only thing this move does is prevent the bishop from going to b4 later.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P7/1PPP1PPP/RNBQKBNR w KQkq - 1 3,--
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR b KQkq - 2 3,--
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR w KQkq - 3 4,--
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/P1N5/1PPP1PPP/R1BQK1NR b KQkq - 4 4,--
+8,a6,a7a6,r1bqkb1r/1ppp1ppp/p1n2n2/1B2p3/4P3/P1N5/1PPP1PPP/R1BQK1NR w KQkq - 0 5,--
+9,Bc4,b5c4,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/2B1P3/P1N5/1PPP1PPP/R1BQK1NR b KQkq - 1 5,Another waste of tempo. The bishop moved twice for no reason.
+10,d6,d7d6,r1bqkb1r/1pp2ppp/p1np1n2/4p3/2B1P3/P1N5/1PPP1PPP/R1BQK1NR w KQkq - 0 6,I would have played 5...Nxe4 6.Nxe4. and then d5. It gives black a good position. d6 only prevents the dark squared bishop from getting into a better position.
+11,Nd5,c3d5,r1bqkb1r/1pp2ppp/p1np1n2/3Np3/2B1P3/P7/1PPP1PPP/R1BQK1NR b KQkq - 1 6,A move that doesen't acomplish anything. Another weak move from white.
+12,Nxd5,f6d5,r1bqkb1r/1pp2ppp/p1np4/3np3/2B1P3/P7/1PPP1PPP/R1BQK1NR w KQkq - 0 7,That pawn on e4 was just wating to be taken. Oh well.
+13,Bxd5,c4d5,r1bqkb1r/1pp2ppp/p1np4/3Bp3/4P3/P7/1PPP1PPP/R1BQK1NR b KQkq - 0 7,--
+14,Bd7,c8d7,r2qkb1r/1ppb1ppp/p1np4/3Bp3/4P3/P7/1PPP1PPP/R1BQK1NR w KQkq - 1 8,--
+15,Qf3,d1f3,r2qkb1r/1ppb1ppp/p1np4/3Bp3/4P3/P4Q2/1PPP1PPP/R1B1K1NR b KQkq - 2 8,Attempting a mate on f7. The mate can be stoped many ways.
+16,Be7,f8e7,r2qk2r/1ppbbppp/p1np4/3Bp3/4P3/P4Q2/1PPP1PPP/R1B1K1NR w KQkq - 3 9,Ouch!
+17,Qxf7#,f3f7,r2qk2r/1ppbbQpp/p1np4/3Bp3/4P3/P7/1PPP1PPP/R1B1K1NR b KQkq - 0 9,White wins with a simple mate early in the game. Remember that this game was played in the casual section of the tournament.

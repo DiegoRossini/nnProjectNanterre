@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"So far, so good -- a nice, standard Vienna game.  Typical next moves for black include Nf6, Nc6, or even Bc5.  But black has another idea..."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"So far, so good -- a nice, standard Vienna game.  Typical next moves for black include Nf6, Nc6, or even Bc5.  But black has another idea..."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"So far, so good -- a nice, standard Vienna game.  Typical next moves for black include Nf6, Nc6, or even Bc5.  But black has another idea..."
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,"?!  This is premature, no doubt, as I could play Nd5 right now, forcing the queen to address the fork at c7.  But, as my opponent is about to be shown, developing your pieces can be far more important."
+5,Nf3,g1f3,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"Going for the cheap mate threat on f2, no doubt.  At this point, Nd5 looks good, since once the queen addresses the threat on c7..."
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"Going for the cheap mate threat on f2, no doubt.  At this point, Nd5 looks good, since once the queen addresses the threat on c7..."
+7,Nd5,c3d5,rnb1k1nr/pppp1ppp/5q2/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R b KQkq - 5 4,"I'm free to take on e5; as an added bonus, I hit the queen *again* due to black's poor choice of where to move the queen."
+8,Qc6,f6c6,rnb1k1nr/pppp1ppp/2q5/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 6 5,"I'm free to take on e5; as an added bonus, I hit the queen *again* due to black's poor choice of where to move the queen."
+9,Nxe5,f3e5,rnb1k1nr/pppp1ppp/2q5/2bNN3/4P3/8/PPPP1PPP/R1BQKB1R b KQkq - 0 5,"I'm free to take on e5; as an added bonus, I hit the queen *again* due to black's poor choice of where to move the queen."
+10,Qa4,c6a4,rnb1k1nr/pppp1ppp/8/2bNN3/q3P3/8/PPPP1PPP/R1BQKB1R w KQkq - 1 6,"?  Abandoning the protection of c7, but I suppose black liked the counterthreat of Qxe4 .  As it stands, though, I'm happy to win a pawn and rook for two pawns, which is all I saw black could get out of his counterthreat after the knight fork followed by Qxe4  for black, Qe2 for white and then Qxc2 for black."
+11,Nxc7+,d5c7,rnb1k1nr/ppNp1ppp/8/2b1N3/q3P3/8/PPPP1PPP/R1BQKB1R b KQkq - 0 6,"Snapping up the rook, but also preventing the black king from using c7 as a flight square.  Notice that Nxf7  is now a threat, winning the other black rook as well."
+12,Kd8,e8d8,rnbk2nr/ppNp1ppp/8/2b1N3/q3P3/8/PPPP1PPP/R1BQKB1R w KQ - 1 7,"Snapping up the rook, but also preventing the black king from using c7 as a flight square.  Notice that Nxf7  is now a threat, winning the other black rook as well."
+13,Nxa8,c7a8,Nnbk2nr/pp1p1ppp/8/2b1N3/q3P3/8/PPPP1PPP/R1BQKB1R b KQ - 0 7,"Snapping up the rook, but also preventing the black king from using c7 as a flight square.  Notice that Nxf7  is now a threat, winning the other black rook as well."
+14,Qxe4+,a4e4,Nnbk2nr/pp1p1ppp/8/2b1N3/4q3/8/PPPP1PPP/R1BQKB1R w KQ - 0 8,Black follows through with what must have been his plan.
+15,Qe2,d1e2,Nnbk2nr/pp1p1ppp/8/2b1N3/4q3/8/PPPPQPPP/R1B1KB1R b KQ - 1 8,"!  Easily the best move here, as Bf2 loses the knight."
+16,Qf5,e4f5,Nnbk2nr/pp1p1ppp/8/2b1Nq2/8/8/PPPPQPPP/R1B1KB1R w KQ - 2 9,"Protecting against the knight fork on f7 and also threatening Qxf2  if the white queen moves.  At this point, notice that if the black queen leaves the protection of f7, then Nxf7 is checkmate!  This must be brought to fruition..."
+17,g4,g2g4,Nnbk2nr/pp1p1ppp/8/2b1Nq2/6P1/8/PPPPQP1P/R1B1KB1R b KQ - 0 9,trying to get the black queen away from f7 by any means...
+18,Bxf2+,c5f2,Nnbk2nr/pp1p1ppp/8/4Nq2/6P1/8/PPPPQb1P/R1B1KB1R w KQ - 0 10,"!?  I'll give black his only due with this move -- this is a nice try, as Qxf2 would be met with Qxe5 , keeping black alive for quite some time and allowing him to consolidate."
+19,Kd1,e1d1,Nnbk2nr/pp1p1ppp/8/4Nq2/6P1/8/PPPPQb1P/R1BK1B1R b - - 1 10,"White doesn't fall for it at all, though.  Now, not only must the black queen protect f7, but it must protect the straggler on f2, and address the lingering threat of white's 9. g4."
+20,Qf4,f5f4,Nnbk2nr/pp1p1ppp/8/4N3/5qP1/8/PPPPQb1P/R1BK1B1R w - - 2 11,The only other square that saves the queen and protects both f7 and f2 was f6; where she'll be forced to after white's next anyway...
+21,d3,d2d3,Nnbk2nr/pp1p1ppp/8/4N3/5qP1/3P4/PPP1Qb1P/R1BK1B1R b - - 0 11,"!  Much better than any other move, forcing the queen to f6."
+22,Qf6,f4f6,Nnbk2nr/pp1p1ppp/5q2/4N3/6P1/3P4/PPP1Qb1P/R1BK1B1R w - - 1 12,"!  And now this forces the queen back to f5, otherwise the bishop falls."
+23,g5,g4g5,Nnbk2nr/pp1p1ppp/5q2/4N1P1/8/3P4/PPP1Qb1P/R1BK1B1R b - - 0 12,"!  And now this forces the queen back to f5, otherwise the bishop falls."
+24,Qf5,f6f5,Nnbk2nr/pp1p1ppp/8/4NqP1/8/3P4/PPP1Qb1P/R1BK1B1R w - - 1 13,"To be honest, black should've jettisoned the bishop here, because what follows is far worse..."
+25,Bh3,f1h3,Nnbk2nr/pp1p1ppp/8/4NqP1/8/3P3B/PPP1Qb1P/R1BK3R b - - 2 13,!!  Ouch.  The queen is lost now -- she has no moves that will allow her to maintain protection of f7.  Jewels finds the one move that saves his queen...
+26,Qxh3,f5h3,Nnbk2nr/pp1p1ppp/8/4N1P1/8/3P3q/PPP1Qb1P/R1BK3R w - - 0 14,... but overlooks what I noticed back on the 8th move: that if the queen leaves the protection of f7...
+27,Nxf7#,e5f7,Nnbk2nr/pp1p1Npp/8/6P1/8/3P3q/PPP1Qb1P/R1BK3R b - - 0 14,"Nxf7# is checkmate.
+
+Black's queen moved 9 times out of his total 13 moves, and FOUR of his pieces are still at home.  This was a fun game to play, and I hope it was fun for you to step through!"

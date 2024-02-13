@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This game was from a thematic mini-tournament. The starting position is after black's fourth move.
+
+The result unfortunately was a timeout. However there were some interesting phases of play, which I have annotated in order to try and draw some lessons."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The starting position for the mini-tournament.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The starting position for the mini-tournament.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The starting position for the mini-tournament.
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,The starting position for the mini-tournament.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,The starting position for the mini-tournament.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,The starting position for the mini-tournament.
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,The starting position for the mini-tournament.
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,"I select the classical approach, heading for a  queenside pawn advance."
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,Decision time in the centre. I opt to maintain the tension for another move. Alternatives are the Petrosian variation (d5) or the (boring) exchange variation.
+11,Be2,f1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6,Decision time in the centre. I opt to maintain the tension for another move. Alternatives are the Petrosian variation (d5) or the (boring) exchange variation.
+12,e5,e7e5,rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7,Decision time in the centre. I opt to maintain the tension for another move. Alternatives are the Petrosian variation (d5) or the (boring) exchange variation.
+13,O-O,e1g1,rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7,Decision time in the centre. I opt to maintain the tension for another move. Alternatives are the Petrosian variation (d5) or the (boring) exchange variation.
+14,Nc6,b8c6,r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8,"The ""Mar del Plata"" centre - closed, with the black knight displaced to e7."
+15,d5,d4d5,r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8,"The ""Mar del Plata"" centre - closed, with the black knight displaced to e7."
+16,Ne7,c6e7,r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9,"One of several options here for white (currently not perhaps the most popular). The idea is to bring the knight to c4 putting pressure on d6; at the same time, white's control of the d1-h5 diagonal inhibits black from initiating his kingside counterplay by Nh5."
+17,Nd2,f3d2,r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 b - - 2 9,"One of several options here for white (currently not perhaps the most popular). The idea is to bring the knight to c4 putting pressure on d6; at the same time, white's control of the d1-h5 diagonal inhibits black from initiating his kingside counterplay by Nh5."
+18,a5,a7a5,r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 w - - 0 10,It is important for black to prevent a quick b4 and c5 break.
+19,a3,a2a3,r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/2P1P3/P1N5/1P1NBPPP/R1BQ1RK1 b - - 0 10,Building up to b4. This is OK as white controls a4.
+20,Nd7,f6d7,r1bq1rk1/1ppnnpbp/3p2p1/p2Pp3/2P1P3/P1N5/1P1NBPPP/R1BQ1RK1 w - - 1 11,"Helping to slow down the eventual threat of c5, while at the same time preparing his own f5 break."
+21,Rb1,a1b1,r1bq1rk1/1ppnnpbp/3p2p1/p2Pp3/2P1P3/P1N5/1P1NBPPP/1RBQ1RK1 b - - 2 11,"This waiting move, also freeing g8 for the black pieces, has become standard."
+22,f5,f7f5,r1bq1rk1/1ppnn1bp/3p2p1/p2Ppp2/2P1P3/P1N5/1P1NBPPP/1RBQ1RK1 w - - 0 12,"This waiting move, also freeing g8 for the black pieces, has become standard."
+23,b4,b2b4,r1bq1rk1/1ppnn1bp/3p2p1/p2Ppp2/1PP1P3/P1N5/3NBPPP/1RBQ1RK1 b - - 0 12,"This waiting move, also freeing g8 for the black pieces, has become standard."
+24,Kh8,g8h8,r1bq1r1k/1ppnn1bp/3p2p1/p2Ppp2/1PP1P3/P1N5/3NBPPP/1RBQ1RK1 w - - 1 13,"This waiting move, also freeing g8 for the black pieces, has become standard."
+25,f3,f2f3,r1bq1r1k/1ppnn1bp/3p2p1/p2Ppp2/1PP1P3/P1N2P2/3NB1PP/1RBQ1RK1 b - - 0 13,"Relieving pressure on e4, allowing the knights to move. On the other hand white can no longer counter ...f4 by Bg4."
+26,f4,f5f4,r1bq1r1k/1ppnn1bp/3p2p1/p2Pp3/1PP1Pp2/P1N2P2/3NB1PP/1RBQ1RK1 w - - 0 14,"Black's thematic response. Having provoked f3, the f-pawn moves on."
+27,Qc2,d1c2,r1bq1r1k/1ppnn1bp/3p2p1/p2Pp3/1PP1Pp2/P1N2P2/2QNB1PP/1RB2RK1 b - - 1 14,"Another important choice-point for white. In Ljubojevic-Kasparov (Linares 1993), white played Nb3, supporting the c5 break but leaving the knight misplaced for the sequel. This move is intended to put pressure down the c-file while adding to a possible later defence of g2."
+28,Nf6,d7f6,r1bq1r1k/1pp1n1bp/3p1np1/p2Pp3/1PP1Pp2/P1N2P2/2QNB1PP/1RB2RK1 w - - 2 15,"I thought this was a dubious move, removing a defender of c5. Black obviously thought it was time to get his own counterplay rolling, though in fact it never really materialized."
+29,c5,c4c5,r1bq1r1k/1pp1n1bp/3p1np1/p1PPp3/1P2Pp2/P1N2P2/2QNB1PP/1RB2RK1 b - - 0 15,The crucial break. For the next few moves I was convinced that white was on top.
+30,g5,g6g5,r1bq1r1k/1pp1n1bp/3p1n2/p1PPp1p1/1P2Pp2/P1N2P2/2QNB1PP/1RB2RK1 w - - 0 16,Applying the thematic pressure to d6.
+31,Nc4,d2c4,r1bq1r1k/1pp1n1bp/3p1n2/p1PPp1p1/1PN1Pp2/P1N2P2/2Q1B1PP/1RB2RK1 b - - 1 16,Applying the thematic pressure to d6.
+32,axb4,a5b4,r1bq1r1k/1pp1n1bp/3p1n2/2PPp1p1/1pN1Pp2/P1N2P2/2Q1B1PP/1RB2RK1 w - - 0 17,"Black's counterplay is slow, and his centre seems about to break."
+33,axb4,a3b4,r1bq1r1k/1pp1n1bp/3p1n2/2PPp1p1/1PN1Pp2/2N2P2/2Q1B1PP/1RB2RK1 b - - 0 17,"Black's counterplay is slow, and his centre seems about to break."
+34,h5,h7h5,r1bq1r1k/1pp1n1b1/3p1n2/2PPp1pp/1PN1Pp2/2N2P2/2Q1B1PP/1RB2RK1 w - - 0 18,"Black's counterplay is slow, and his centre seems about to break."
+35,cxd6,c5d6,r1bq1r1k/1pp1n1b1/3P1n2/3Pp1pp/1PN1Pp2/2N2P2/2Q1B1PP/1RB2RK1 b - - 0 18,Fixing a weak pawn on d6.
+36,cxd6,c7d6,r1bq1r1k/1p2n1b1/3p1n2/3Pp1pp/1PN1Pp2/2N2P2/2Q1B1PP/1RB2RK1 w - - 0 19,"Black has to unscramble his queen's wing. The b-pawn is not really offered, because of Bxb5 followed by Qb6 ."
+37,Nb5,c3b5,r1bq1r1k/1p2n1b1/3p1n2/1N1Pp1pp/1PN1Pp2/5P2/2Q1B1PP/1RB2RK1 b - - 1 19,"Black has to unscramble his queen's wing. The b-pawn is not really offered, because of Bxb5 followed by Qb6 ."
+38,g4,g5g4,r1bq1r1k/1p2n1b1/3p1n2/1N1Pp2p/1PN1Ppp1/5P2/2Q1B1PP/1RB2RK1 w - - 0 20,"Black has to unscramble his queen's wing. The b-pawn is not really offered, because of Bxb5 followed by Qb6 ."
+39,Ncxd6,c4d6,r1bq1r1k/1p2n1b1/3N1n2/1N1Pp2p/1P2Ppp1/5P2/2Q1B1PP/1RB2RK1 b - - 0 20,"Black has to unscramble his queen's wing. The b-pawn is not really offered, because of Bxb5 followed by Qb6 ."
+40,Bd7,c8d7,r2q1r1k/1p1bn1b1/3N1n2/1N1Pp2p/1P2Ppp1/5P2/2Q1B1PP/1RB2RK1 w - - 1 21,"Black has to unscramble his queen's wing. The b-pawn is not really offered, because of Bxb5 followed by Qb6 ."
+41,Nc7,b5c7,r2q1r1k/1pNbn1b1/3N1n2/3Pp2p/1P2Ppp1/5P2/2Q1B1PP/1RB2RK1 b - - 2 21,"White looks to be on top, but his invading knights are in danger of becoming overstretched here."

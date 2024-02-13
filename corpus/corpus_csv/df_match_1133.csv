@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Robatsch defense.
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Robatsch defense.
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Norwegian defense.
+4,b6,b7b6,rnbqkbnr/p1pppp1p/1p4p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Bg7 or d6 are the common responses.  Pb6 is still in the top 5, though.  Black has done well with Nf6, curiously."
+5,Bc4,f1c4,rnbqkbnr/p1pppp1p/1p4p1/8/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq - 1 3,"Oh no, disaster!  Now black receives not only Pg2 for free, but forks Rh1 and Nh3.  Rg1 or Rf1 ends with BxNh3, and black wins a knight and pawn for four points.
+
+Pf3 would have defended against this, or Nf3 (the queen covers the interposing knight)."
+6,e6,e7e6,rnbqkbnr/p1pp1p1p/1p2p1p1/8/2BPP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4,"Oh no, disaster!  Now black receives not only Pg2 for free, but forks Rh1 and Nh3.  Rg1 or Rf1 ends with BxNh3, and black wins a knight and pawn for four points.
+
+Pf3 would have defended against this, or Nf3 (the queen covers the interposing knight)."
+7,e5,e4e5,rnbqkbnr/p1pp1p1p/1p2p1p1/4P3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq - 0 4,"Oh no, disaster!  Now black receives not only Pg2 for free, but forks Rh1 and Nh3.  Rg1 or Rf1 ends with BxNh3, and black wins a knight and pawn for four points.
+
+Pf3 would have defended against this, or Nf3 (the queen covers the interposing knight)."
+8,Bb7,c8b7,rn1qkbnr/pbpp1p1p/1p2p1p1/4P3/2BP4/8/PPP2PPP/RNBQK1NR w KQkq - 1 5,"Oh no, disaster!  Now black receives not only Pg2 for free, but forks Rh1 and Nh3.  Rg1 or Rf1 ends with BxNh3, and black wins a knight and pawn for four points.
+
+Pf3 would have defended against this, or Nf3 (the queen covers the interposing knight)."
+9,Nh3,g1h3,rn1qkbnr/pbpp1p1p/1p2p1p1/4P3/2BP4/7N/PPP2PPP/RNBQK2R b KQkq - 2 5,"Oh no, disaster!  Now black receives not only Pg2 for free, but forks Rh1 and Nh3.  Rg1 or Rf1 ends with BxNh3, and black wins a knight and pawn for four points.
+
+Pf3 would have defended against this, or Nf3 (the queen covers the interposing knight)."
+10,a6,a7a6,rn1qkbnr/1bpp1p1p/pp2p1p1/4P3/2BP4/7N/PPP2PPP/RNBQK2R w KQkq - 0 6,The whole point behind Bb7 was to give black far reaching power across the center of conflict.  This pawn move does nothing.  BxPg2 was still black's best move.
+11,c3,c2c3,rn1qkbnr/1bpp1p1p/pp2p1p1/4P3/2BP4/2P4N/PP3PPP/RNBQK2R b KQkq - 0 6,Again white tempts black with BxPg2.  Taunting black with the tasty pawn.
+12,Bxg2,b7g2,rn1qkbnr/2pp1p1p/pp2p1p1/4P3/2BP4/2P4N/PP3PbP/RNBQK2R w KQkq - 0 7,Finally.
+13,Rg1,h1g1,rn1qkbnr/2pp1p1p/pp2p1p1/4P3/2BP4/2P4N/PP3PbP/RNBQK1R1 b Qkq - 1 7,"Turnabout is fair play.  Black should play Nc6 to protect Ra8, and write off the bishop at h3."
+14,Bxh3,g2h3,rn1qkbnr/2pp1p1p/pp2p1p1/4P3/2BP4/2P4b/PP3P1P/RNBQK1R1 w Qkq - 0 8,"Turnabout is fair play.  Black should play Nc6 to protect Ra8, and write off the bishop at h3."
+15,Qf3,d1f3,rn1qkbnr/2pp1p1p/pp2p1p1/4P3/2BP4/2P2Q1b/PP3P1P/RNB1K1R1 b Qkq - 1 8,"Turnabout is fair play.  Black should play Nc6 to protect Ra8, and write off the bishop at h3."
+16,Bf5,h3f5,rn1qkbnr/2pp1p1p/pp2p1p1/4Pb2/2BP4/2P2Q2/PP3P1P/RNB1K1R1 w Qkq - 2 9,Instead black feels the bishop is more valuable than the rook.
+17,Qxa8,f3a8,Qn1qkbnr/2pp1p1p/pp2p1p1/4Pb2/2BP4/2P5/PP3P1P/RNB1K1R1 b Qk - 0 9,"This move deprives protection of Pe5.  Black may now fork white's queen and bishop, though the fork lacks meat in that Qf4 protects the bishop.  Still, black picks up yet another pawn in the exchange."
+18,Qc8,d8c8,Qnq1kbnr/2pp1p1p/pp2p1p1/4Pb2/2BP4/2P5/PP3P1P/RNB1K1R1 w Qk - 1 10,"This move deprives protection of Pe5.  Black may now fork white's queen and bishop, though the fork lacks meat in that Qf4 protects the bishop.  Still, black picks up yet another pawn in the exchange."
+19,Qf3,a8f3,1nq1kbnr/2pp1p1p/pp2p1p1/4Pb2/2BP4/2P2Q2/PP3P1P/RNB1K1R1 b Qk - 2 10,"This move deprives protection of Pe5.  Black may now fork white's queen and bishop, though the fork lacks meat in that Qf4 protects the bishop.  Still, black picks up yet another pawn in the exchange."
+20,Nc6,b8c6,2q1kbnr/2pp1p1p/ppn1p1p1/4Pb2/2BP4/2P2Q2/PP3P1P/RNB1K1R1 w Qk - 3 11,"This move deprives protection of Pe5.  Black may now fork white's queen and bishop, though the fork lacks meat in that Qf4 protects the bishop.  Still, black picks up yet another pawn in the exchange."
+21,d5,d4d5,2q1kbnr/2pp1p1p/ppn1p1p1/3PPb2/2B5/2P2Q2/PP3P1P/RNB1K1R1 b Qk - 0 11,"This move deprives protection of Pe5.  Black may now fork white's queen and bishop, though the fork lacks meat in that Qf4 protects the bishop.  Still, black picks up yet another pawn in the exchange."
+22,Nce7,c6e7,2q1kbnr/2ppnp1p/pp2p1p1/3PPb2/2B5/2P2Q2/PP3P1P/RNB1K1R1 w Qk - 1 12,"What was even better about NxPe5 (instead of this move) is that Qf4 could be answered with Bh6 (the black knight covers it).  If white moves the queen where it is not protecting f3, an Nf3+ fork lets black trade knight for Rg1 followed by BxBc1 for a free bishop.  White gets rapidly eviscerated."
+23,dxe6,d5e6,2q1kbnr/2ppnp1p/pp2P1p1/4Pb2/2B5/2P2Q2/PP3P1P/RNB1K1R1 b Qk - 0 12,"And black withdraws support from Pa6, flinging this pawn to the wolves.  Or bishop."
+24,dxe6,d7e6,2q1kbnr/2p1np1p/pp2p1p1/4Pb2/2B5/2P2Q2/PP3P1P/RNB1K1R1 w Qk - 0 13,"And black withdraws support from Pa6, flinging this pawn to the wolves.  Or bishop."
+25,Nd2,b1d2,2q1kbnr/2p1np1p/pp2p1p1/4Pb2/2B5/2P2Q2/PP1N1P1P/R1B1K1R1 b Qk - 1 13,"And black withdraws support from Pa6, flinging this pawn to the wolves.  Or bishop."
+26,Qd7,c8d7,4kbnr/2pqnp1p/pp2p1p1/4Pb2/2B5/2P2Q2/PP1N1P1P/R1B1K1R1 w Qk - 2 14,"And black withdraws support from Pa6, flinging this pawn to the wolves.  Or bishop."
+27,Bxa6,c4a6,4kbnr/2pqnp1p/Bp2p1p1/4Pb2/8/2P2Q2/PP1N1P1P/R1B1K1R1 b Qk - 0 14,"One dangerous thing about putting the queen and king on the same line is a pin or, in this case, a fork.  White doesn't have a way to pull off a fork here, but pushing the king out into the field might open something up."
+28,Qa4,d7a4,4kbnr/2p1np1p/Bp2p1p1/4Pb2/q7/2P2Q2/PP1N1P1P/R1B1K1R1 w Qk - 1 15,"One dangerous thing about putting the queen and king on the same line is a pin or, in this case, a fork.  White doesn't have a way to pull off a fork here, but pushing the king out into the field might open something up."
+29,Qa8+,f3a8,Q3kbnr/2p1np1p/Bp2p1p1/4Pb2/q7/2P5/PP1N1P1P/R1B1K1R1 b Qk - 2 15,"Black should play Nc8.  Yes, it means the knight is lost.  But the alternative will cost black the queen."
+30,Kd7,e8d7,Q4bnr/2pknp1p/Bp2p1p1/4Pb2/q7/2P5/PP1N1P1P/R1B1K1R1 w Q - 3 16,Bc8+ trades bishop for queen.
+31,Bc8+,a6c8,Q1B2bnr/2pknp1p/1p2p1p1/4Pb2/q7/2P5/PP1N1P1P/R1B1K1R1 b Q - 4 16,Black's only move.
+32,Nxc8,e7c8,Q1n2bnr/2pk1p1p/1p2p1p1/4Pb2/q7/2P5/PP1N1P1P/R1B1K1R1 w Q - 0 17,Black's only move.
+33,Qxa4+,a8a4,2n2bnr/2pk1p1p/1p2p1p1/4Pb2/Q7/2P5/PP1N1P1P/R1B1K1R1 b Q - 0 17,Black's only move.
+34,Kd8,d7d8,2nk1bnr/2p2p1p/1p2p1p1/4Pb2/Q7/2P5/PP1N1P1P/R1B1K1R1 w Q - 1 18,Black's only move.
+35,Nf3,d2f3,2nk1bnr/2p2p1p/1p2p1p1/4Pb2/Q7/2P2N2/PP3P1P/R1B1K1R1 b Q - 2 18,Black's only move.
+36,Nge7,g8e7,2nk1b1r/2p1np1p/1p2p1p1/4Pb2/Q7/2P2N2/PP3P1P/R1B1K1R1 w Q - 3 19,Black's only move.
+37,Bg5,c1g5,2nk1b1r/2p1np1p/1p2p1p1/4PbB1/Q7/2P2N2/PP3P1P/R3K1R1 b Q - 4 19,Black's only move.
+38,h6,h7h6,2nk1b1r/2p1np2/1p2p1pp/4PbB1/Q7/2P2N2/PP3P1P/R3K1R1 w Q - 0 20,Black's only move.
+39,Bf6,g5f6,2nk1b1r/2p1np2/1p2pBpp/4Pb2/Q7/2P2N2/PP3P1P/R3K1R1 b Q - 1 20,Black's only move.
+40,Rg8,h8g8,2nk1br1/2p1np2/1p2pBpp/4Pb2/Q7/2P2N2/PP3P1P/R3K1R1 w Q - 2 21,Black's only move.
+41,O-O-O+,e1c1,2nk1br1/2p1np2/1p2pBpp/4Pb2/Q7/2P2N2/PP3P1P/2KR2R1 b - - 3 21,Black's only move.
+42,Nd6,c8d6,3k1br1/2p1np2/1p1npBpp/4Pb2/Q7/2P2N2/PP3P1P/2KR2R1 w - - 4 22,Black's only move.
+43,Qa8+,a4a8,Q2k1br1/2p1np2/1p1npBpp/4Pb2/8/2P2N2/PP3P1P/2KR2R1 b - - 5 22,Ne5+ is valid because P6 cannot move.
+44,Kd7,d8d7,Q4br1/2pknp2/1p1npBpp/4Pb2/8/2P2N2/PP3P1P/2KR2R1 w - - 6 23,Ne5+ is valid because P6 cannot move.
+45,exd6,e5d6,Q4br1/2pknp2/1p1PpBpp/5b2/8/2P2N2/PP3P1P/2KR2R1 b - - 0 23,Ne5+ is valid because P6 cannot move.
+46,cxd6,c7d6,Q4br1/3knp2/1p1ppBpp/5b2/8/2P2N2/PP3P1P/2KR2R1 w - - 0 24,Ne5+ is valid because P6 cannot move.
+47,Ne5+,f3e5,Q4br1/3knp2/1p1ppBpp/4Nb2/8/2P5/PP3P1P/2KR2R1 b - - 1 24,"Qa7+ instead forces the king back to the 8th rank, where RxP6 eliminates the threat to the knight."
+48,Kc7,d7c7,Q4br1/2k1np2/1p1ppBpp/4Nb2/8/2P5/PP3P1P/2KR2R1 w - - 2 25,"Qa7+ instead forces the king back to the 8th rank, where RxP6 eliminates the threat to the knight."
+49,Bxe7,f6e7,Q4br1/2k1Bp2/1p1pp1pp/4Nb2/8/2P5/PP3P1P/2KR2R1 b - - 0 25,"Qa7+ instead forces the king back to the 8th rank, where RxP6 eliminates the threat to the knight."
+50,f6,f7f6,Q4br1/2k1B3/1p1ppppp/4Nb2/8/2P5/PP3P1P/2KR2R1 w - - 0 26,"I think I would have recommended PxNe5.  Better yet, Ph5.  If white takes the bishop black can still grab the knight.  Not that it is much consolation.  But if white doesn't move the queen, black could play Bh6+ and seize her with the rook.  Black's best play remains PxNe5 which prevents Qc6+ followed by more unhappiness."
+51,Rxd6,d1d6,Q4br1/2k1B3/1p1Rpppp/4Nb2/8/2P5/PP3P1P/2K3R1 b - - 0 26,White has material to spare.  BxBe7 would be followed by Rd7#.

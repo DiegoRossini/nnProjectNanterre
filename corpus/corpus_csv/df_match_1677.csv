@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King's pawn game, king's knight opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"King's pawn game, king's knight opening."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"King's pawn game, king's knight opening."
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Damiano's defense.
+5,d4,d2d4,rnbqkbnr/pppp2pp/5p2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Nxe5 is actually pretty common.  It looks like a stupid trade, a knight for a pawn, but black generally does not take the knight, because white responds with Qh5+.  Whether black responds with g6 or Ke7, white comes back with Qxe5+."
+6,Nc6,b8c6,r1bqkbnr/pppp2pp/2n2p2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"d5 seems to work pretty well for black here.  Nge7 is not in the database, probably because d5 (for white) pushes Nc6 into a backwater."
+7,c3,c2c3,r1bqkbnr/pppp2pp/2n2p2/4p3/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4,"d5 seems to work pretty well for black here.  Nge7 is not in the database, probably because d5 (for white) pushes Nc6 into a backwater."
+8,Nge7,g8e7,r1bqkb1r/ppppn1pp/2n2p2/4p3/3PP3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 5,"d5 seems to work pretty well for black here.  Nge7 is not in the database, probably because d5 (for white) pushes Nc6 into a backwater."
+9,d5,d4d5,r1bqkb1r/ppppn1pp/2n2p2/3Pp3/4P3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5,There you go.
+10,Na5,c6a5,r1bqkb1r/ppppn1pp/5p2/n2Pp3/4P3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 6,"Backwater.  From here white likes b4, which gives the black knight nowhere to run, nowhere to hide."
+11,b3,b2b3,r1bqkb1r/ppppn1pp/5p2/n2Pp3/4P3/1PP2N2/P4PPP/RNBQKB1R b KQkq - 0 6,"Not quite.  Pb4 pushes the black knight off the board.  Nc6 would be answered by Pxc6, and black trades the knight for a pawn.  Black's best response here would be to just do something else."
+12,d6,d7d6,r1bqkb1r/ppp1n1pp/3p1p2/n2Pp3/4P3/1PP2N2/P4PPP/RNBQKB1R w KQkq - 0 7,I still like b4.
+13,Ba3,c1a3,r1bqkb1r/ppp1n1pp/3p1p2/n2Pp3/4P3/BPP2N2/P4PPP/RN1QKB1R b KQkq - 1 7,I still like b4.
+14,g5,g7g5,r1bqkb1r/ppp1n2p/3p1p2/n2Pp1p1/4P3/BPP2N2/P4PPP/RN1QKB1R w KQkq - 0 8,Pb4!  Pb4!
+15,c4,c3c4,r1bqkb1r/ppp1n2p/3p1p2/n2Pp1p1/2P1P3/BP3N2/P4PPP/RN1QKB1R b KQkq - 0 8,Bb4 black can defend with b6 or c6/c7 (so the queen covers the black knight).  But Pb4 is a lance through the heart of black knight's mount.
+16,h5,h7h5,r1bqkb1r/ppp1n3/3p1p2/n2Pp1pp/2P1P3/BP3N2/P4PPP/RN1QKB1R w KQkq - 0 9,Bb4 black can defend with b6 or c6/c7 (so the queen covers the black knight).  But Pb4 is a lance through the heart of black knight's mount.
+17,Bb4,a3b4,r1bqkb1r/ppp1n3/3p1p2/n2Pp1pp/1BP1P3/1P3N2/P4PPP/RN1QKB1R b KQkq - 1 9,"Black's pawns end up doubled.  Not a travesty for black, but a slight imposition.  Doubled pawns are more difficult to defend."
+18,b6,b7b6,r1bqkb1r/p1p1n3/1p1p1p2/n2Pp1pp/1BP1P3/1P3N2/P4PPP/RN1QKB1R w KQkq - 0 10,"Black's pawns end up doubled.  Not a travesty for black, but a slight imposition.  Doubled pawns are more difficult to defend."
+19,Bxa5,b4a5,r1bqkb1r/p1p1n3/1p1p1p2/B2Pp1pp/2P1P3/1P3N2/P4PPP/RN1QKB1R b KQkq - 0 10,"Black's pawns end up doubled.  Not a travesty for black, but a slight imposition.  Doubled pawns are more difficult to defend."
+20,bxa5,b6a5,r1bqkb1r/p1p1n3/3p1p2/p2Pp1pp/2P1P3/1P3N2/P4PPP/RN1QKB1R w KQkq - 0 11,"Black's pawns end up doubled.  Not a travesty for black, but a slight imposition.  Doubled pawns are more difficult to defend."
+21,Nc3,b1c3,r1bqkb1r/p1p1n3/3p1p2/p2Pp1pp/2P1P3/1PN2N2/P4PPP/R2QKB1R b KQkq - 1 11,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+22,g4,g5g4,r1bqkb1r/p1p1n3/3p1p2/p2Pp2p/2P1P1p1/1PN2N2/P4PPP/R2QKB1R w KQkq - 0 12,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+23,Nh4,f3h4,r1bqkb1r/p1p1n3/3p1p2/p2Pp2p/2P1P1pN/1PN5/P4PPP/R2QKB1R b KQkq - 1 12,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+24,Bh6,f8h6,r1bqk2r/p1p1n3/3p1p1b/p2Pp2p/2P1P1pN/1PN5/P4PPP/R2QKB1R w KQkq - 2 13,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+25,h3,h2h3,r1bqk2r/p1p1n3/3p1p1b/p2Pp2p/2P1P1pN/1PN4P/P4PP1/R2QKB1R b KQkq - 0 13,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+26,gxh3,g4h3,r1bqk2r/p1p1n3/3p1p1b/p2Pp2p/2P1P2N/1PN4p/P4PP1/R2QKB1R w KQkq - 0 14,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+27,gxh3,g2h3,r1bqk2r/p1p1n3/3p1p1b/p2Pp2p/2P1P2N/1PN4P/P4P2/R2QKB1R b KQkq - 0 14,I kind of like Rxh3 personally.  White's king side pawn structure is thoroughly demolished either way.
+28,Bg5,h6g5,r1bqk2r/p1p1n3/3p1p2/p2Pp1bp/2P1P2N/1PN4P/P4P2/R2QKB1R w KQkq - 1 15,"Oh, mistake.  NxN, PxN, BxP leaves black up a pawn.  Or BxP, PxB, NxP.  The first is probably better, as the bishop has slightly better moves than black's knight."
+29,Nf5,h4f5,r1bqk2r/p1p1n3/3p1p2/p2PpNbp/2P1P3/1PN4P/P4P2/R2QKB1R b KQkq - 2 15,"Oh, mistake.  NxN, PxN, BxP leaves black up a pawn.  Or BxP, PxB, NxP.  The first is probably better, as the bishop has slightly better moves than black's knight."
+30,Ng6,e7g6,r1bqk2r/p1p5/3p1pn1/p2PpNbp/2P1P3/1PN4P/P4P2/R2QKB1R w KQkq - 3 16,"Oh, mistake.  NxN, PxN, BxP leaves black up a pawn.  Or BxP, PxB, NxP.  The first is probably better, as the bishop has slightly better moves than black's knight."
+31,a3,a2a3,r1bqk2r/p1p5/3p1pn1/p2PpNbp/2P1P3/PPN4P/5P2/R2QKB1R b KQkq - 0 16,"Wait, what prevents QxNg6+?"
+32,h4,h5h4,r1bqk2r/p1p5/3p1pn1/p2PpNb1/2P1P2p/PPN4P/5P2/R2QKB1R w KQkq - 0 17,"Wait, what prevents QxNg6+?"
+33,Nb5,c3b5,r1bqk2r/p1p5/3p1pn1/pN1PpNb1/2P1P2p/PP5P/5P2/R2QKB1R b KQkq - 1 17,"Wait, what prevents QxNg6+?"
+34,a6,a7a6,r1bqk2r/2p5/p2p1pn1/pN1PpNb1/2P1P2p/PP5P/5P2/R2QKB1R w KQkq - 0 18,"Wait, what prevents QxNg6+?"
+35,Nc3,b5c3,r1bqk2r/2p5/p2p1pn1/p2PpNb1/2P1P2p/PPN4P/5P2/R2QKB1R b KQkq - 1 18,"Wait, what prevents QxNg6+?"
+36,Bf4,g5f4,r1bqk2r/2p5/p2p1pn1/p2PpN2/2P1Pb1p/PPN4P/5P2/R2QKB1R w KQkq - 2 19,"Wait, what prevents QxNg6+?"
+37,b4,b3b4,r1bqk2r/2p5/p2p1pn1/p2PpN2/1PP1Pb1p/P1N4P/5P2/R2QKB1R b KQkq - 0 19,"Wait, what prevents QxNg6+?"
+38,Rb8,a8b8,1rbqk2r/2p5/p2p1pn1/p2PpN2/1PP1Pb1p/P1N4P/5P2/R2QKB1R w KQk - 1 20,"Wait, what prevents QxNg6+?"
+39,b5,b4b5,1rbqk2r/2p5/p2p1pn1/pP1PpN2/2P1Pb1p/P1N4P/5P2/R2QKB1R b KQk - 0 20,"Wait, what prevents QxNg6+?"
+40,Qd7,d8d7,1rb1k2r/2pq4/p2p1pn1/pP1PpN2/2P1Pb1p/P1N4P/5P2/R2QKB1R w KQk - 1 21,"Wait, what prevents QxNg6+?"
+41,Qg4,d1g4,1rb1k2r/2pq4/p2p1pn1/pP1PpN2/2P1PbQp/P1N4P/5P2/R3KB1R b KQk - 2 21,"Wait, what prevents QxNg6+?"
+42,Qh7,d7h7,1rb1k2r/2p4q/p2p1pn1/pP1PpN2/2P1PbQp/P1N4P/5P2/R3KB1R w KQk - 3 22,"Wait, what prevents QxNg6+?"
+43,Rb1,a1b1,1rb1k2r/2p4q/p2p1pn1/pP1PpN2/2P1PbQp/P1N4P/5P2/1R2KB1R b Kk - 4 22,"Wait, what prevents QxNg6+?"
+44,Qd7,h7d7,1rb1k2r/2pq4/p2p1pn1/pP1PpN2/2P1PbQp/P1N4P/5P2/1R2KB1R w Kk - 5 23,"Wait, what prevents QxNg6+?"
+45,Qxg6+,g4g6,1rb1k2r/2pq4/p2p1pQ1/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R b Kk - 0 23,...Nothing.
+46,Kf8,e8f8,1rb2k1r/2pq4/p2p1pQ1/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R w K - 1 24,"Ok.  Even missing a knight, Qf7 intercession is probably better than QxPf6+."
+47,Qxf6+,g6f6,1rb2k1r/2pq4/p2p1Q2/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R b K - 0 24,"OMG!  QxRh8+!  It's a free rook!  Kg8 isn't great because 25. Rg1+ leads to regicide whether black imposes the queen (QxQ#) or moves Kh7 26. Qg6#.  The loss of the black knight gives black a material disadvantage, but now black suffers the loss of a knight AND rook."
+48,Ke8,f8e8,1rb1k2r/2pq4/p2p1Q2/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R w K - 1 25,"OMG!  QxRh8+!  It's a free rook!  Kg8 isn't great because 25. Rg1+ leads to regicide whether black imposes the queen (QxQ#) or moves Kh7 26. Qg6#.  The loss of the black knight gives black a material disadvantage, but now black suffers the loss of a knight AND rook."
+49,Qxh8+,f6h8,1rb1k2Q/2pq4/p2p4/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R b K - 0 25,"?  Knight mounts the Nubian queen?
+
+Actually, Rg7 looks like # curtains for the black king, just about.  27. Rg7 Kf6.  28 Qh6#."
+50,Kf7,e8f7,1rb4Q/2pq1k2/p2p4/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KB1R w K - 1 26,"?  Knight mounts the Nubian queen?
+
+Actually, Rg7 looks like # curtains for the black king, just about.  27. Rg7 Kf6.  28 Qh6#."
+51,Rg1,h1g1,1rb4Q/2pq1k2/p2p4/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KBR1 b - - 2 26,"?  Knight mounts the Nubian queen?
+
+Actually, Rg7 looks like # curtains for the black king, just about.  27. Rg7 Kf6.  28 Qh6#."
+52,Qe7,d7e7,1rb4Q/2p1qk2/p2p4/pP1PpN2/2P1Pb1p/P1N4P/5P2/1R2KBR1 w - - 3 27,"?  Knight mounts the Nubian queen?
+
+Actually, Rg7 looks like # curtains for the black king, just about.  27. Rg7 Kf6.  28 Qh6#."
+53,Nxe7,f5e7,1rb4Q/2p1Nk2/p2p4/pP1Pp3/2P1Pb1p/P1N4P/5P2/1R2KBR1 b - - 0 27,"Nope.  While this may boost white's ego, Rg7+ (mate in two) means white passed up a far superior move.  The queen is worth only 9 points--6 when traded for a three point knight."
+54,Kxe7,f7e7,1rb4Q/2p1k3/p2p4/pP1Pp3/2P1Pb1p/P1N4P/5P2/1R2KBR1 w - - 0 28,"Rg7+ is better.  The king is then forced to f6.  29. Qf8# becomes another game ender.  Force mate in two.  White should be looking for opportunities like this now that he has mega power on the king's home rank.  (Each number is a rank, each letter a file)."
+55,Rg6,g1g6,1rb4Q/2p1k3/p2p2R1/pP1Pp3/2P1Pb1p/P1N4P/5P2/1R2KB2 b - - 1 28,"Rg7+ is better.  The king is then forced to f6.  29. Qf8# becomes another game ender.  Force mate in two.  White should be looking for opportunities like this now that he has mega power on the king's home rank.  (Each number is a rank, each letter a file)."

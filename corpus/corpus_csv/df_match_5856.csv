@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,h4,h2h4,rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq - 0 1,"지형 안녕~ 어줍잖게 comment를 좀 달아보려고 해. 도움이 될거라고 믿어 :)
+
+체스에서 처음 목표에는 크게 3가지가 있어~ 
+1. piece development - 피스들을 빨리 꺼내는 거야. 나잇은 꺼내기가 쉽지만, 비숍이랑 룩은 처음 상태로는 움직일 수 없지~ 그래서 폰을 움직일 필요가 있어. 
+2. 공간 장악하기? 중앙을 컨트롤하는 게 중요해~ 여기서 완전 중앙은 d4 d5 e4 e5 이렇게 네 개이지만, 그 주변을 둘러싼 칸들도 중요하고. 그래서 처음에 d/e폰을 움직이는 게 일반적이고, 이걸 또 피스들로 뒷받침해주는 거지~ 
+3. King safety - 킹은 가운데에 그대로 있으면 공격 타겟이 되니까, 캐슬링으로 옮기는거.. 물론 캐슬링을 안 하는게 더 안전한 경우도 있지만, 많지는 않아.
+
+그래서 1.h4는 가장자리에 있는 폰을 옮기는 건데, 1/3에는 도움이 안 되고 2에는 도움이 되는 듯.. 하지만 보통 킹 쪽에 있는 룩은 어차피 캐슬링한 다음에 자유로워지니까 굳이 h폰을 올릴 필요는 없지~"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2,그러니까 난 바로 d폰을 올림~
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P3P/8/PPP1PPP1/RNBQKBNR b KQkq - 0 2,응 그니깐 지형도 이렇게 중앙 폰을 올리고~
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P3P/8/PPP1PPP1/RNBQKBNR w KQkq - 0 3,"이건 자주 보이는 패턴인데, c폰을 올려서 지형 d폰을 공격하는 거야~ 지형 입장에서 이건 먹어도 되고 안 먹어도 되지만, 굳이 지금 먹을 필요는 없어. 왜냐하면 dxc5를 하면 (x는 잡아먹는거야~ d에 있는 폰이 c5를 잡아먹으니까 dxc5야) 나는 결국 나중에 이 폰을 되찾을 수 있거든~ 그니까 이럴 때는 Nf3를 하면 나잇으로 d폰을 보호하면서 피스도 꺼내는 셈이 되니까, 보통은 그런게 좋아~"
+5,dxc5,d4c5,rnbqkbnr/pp2pppp/8/2Pp4/7P/8/PPP1PPP1/RNBQKBNR b KQkq - 0 3,물론 먹는 것도 나쁜 방법은 아니고~ 나는 나중에 e6으로 폰을 움직이고 f8에 있는 비숍으로 저걸 먹으려고 하는 게 기본적인 plan이야. 그 때 지형은 굳이 저걸 지키려고 할 필요가 없고 (어차피 하나를 먼저 먹었으니까).
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2Pp4/7P/8/PPP1PPP1/RNBQKBNR w KQkq - 1 4,나잇을 꺼냅니다~
+7,e3,e2e3,r1bqkbnr/pp2pppp/2n5/2Pp4/7P/4P3/PPP2PP1/RNBQKBNR b KQkq - 0 4,f1 비숍을 꺼내려는 거겠지?
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2n2n2/2Pp4/7P/4P3/PPP2PP1/RNBQKBNR w KQkq - 1 5,또다른 나잇을 꺼냅니다~
+9,Bb5,f1b5,r1bqkb1r/pp2pppp/2n2n2/1BPp4/7P/4P3/PPP2PP1/RNBQK1NR b KQkq - 2 5,! 좋은 수야~ 나는 저 나잇을 지금 이대로 움직일 수가 없게 되잖아? (움직이면 킹이 체크에 걸리니까) 이런 식으로 못 움직이게 하는걸 pin이라고 하는데. 비숍은 나잇에 pin을 걸어두기에 좋음~ 그럼 나는 저 나잇을 움직이려면 일단 c8에 있는 비숍을 d7로 옮겨야겠지~
+10,a6,a7a6,r1bqkb1r/1p2pppp/p1n2n2/1BPp4/7P/4P3/PPP2PP1/RNBQK1NR w KQkq - 0 6,그러니까 빨리 저 비숍을 쫓아버리고 싶은거지 ㅋㅋ
+11,Bd3,b5d3,r1bqkb1r/1p2pppp/p1n2n2/2Pp4/7P/3BP3/PPP2PP1/RNBQK1NR b KQkq - 1 6,나쁘지 않아~ 그치만 e2로 가도 괜찮았을 거야.
+12,e6,e7e6,r1bqkb1r/1p3ppp/p1n1pn2/2Pp4/7P/3BP3/PPP2PP1/RNBQK1NR w KQkq - 0 7,이제 c5 폰을 되찾으려고 하는거지~
+13,Nc3,b1c3,r1bqkb1r/1p3ppp/p1n1pn2/2Pp4/7P/2NBP3/PPP2PP1/R1BQK1NR b KQkq - 1 7,"! 이것도 좋은 수야. 굳이 지키려고 할 필요가 없이, 피스를 꺼내는 거지."
+14,Bxc5,f8c5,r1bqk2r/1p3ppp/p1n1pn2/2bp4/7P/2NBP3/PPP2PP1/R1BQK1NR w KQkq - 0 8,폰을 되찾으면서 비숍을 develop 시키고~
+15,Be2,d3e2,r1bqk2r/1p3ppp/p1n1pn2/2bp4/7P/2N1P3/PPP1BPP1/R1BQK1NR b KQkq - 1 8,음~ 이건 약간 낭비같아! 왜냐면 지금 저 비숍을 3번 움직였잖아~ 같은 피스를 너무 많이 움직이는 건 별로 안 좋아. 차라리 Nf3으로 나잇을 꺼내는게 어땠을까~
+16,b5,b7b5,r1bqk2r/5ppp/p1n1pn2/1pbp4/7P/2N1P3/PPP1BPP1/R1BQK1NR w KQkq - 0 9,
+17,Bf1,e2f1,r1bqk2r/5ppp/p1n1pn2/1pbp4/7P/2N1P3/PPP2PP1/R1BQKBNR b KQkq - 1 9,
+18,O-O,e8g8,r1bq1rk1/5ppp/p1n1pn2/1pbp4/7P/2N1P3/PPP2PP1/R1BQKBNR w KQ - 2 10,
+19,g3,g2g3,r1bq1rk1/5ppp/p1n1pn2/1pbp4/7P/2N1P1P1/PPP2P2/R1BQKBNR b KQ - 0 10,
+20,d4,d5d4,r1bq1rk1/5ppp/p1n1pn2/1pb5/3p3P/2N1P1P1/PPP2P2/R1BQKBNR w KQ - 0 11,
+21,Bg2,f1g2,r1bq1rk1/5ppp/p1n1pn2/1pb5/3p3P/2N1P1P1/PPP2PB1/R1BQK1NR b KQ - 1 11,
+22,Bb7,c8b7,r2q1rk1/1b3ppp/p1n1pn2/1pb5/3p3P/2N1P1P1/PPP2PB1/R1BQK1NR w KQ - 2 12,
+23,Nf3,g1f3,r2q1rk1/1b3ppp/p1n1pn2/1pb5/3p3P/2N1PNP1/PPP2PB1/R1BQK2R b KQ - 3 12,
+24,Qb6,d8b6,r4rk1/1b3ppp/pqn1pn2/1pb5/3p3P/2N1PNP1/PPP2PB1/R1BQK2R w KQ - 4 13,
+25,Ne2,c3e2,r4rk1/1b3ppp/pqn1pn2/1pb5/3p3P/4PNP1/PPP1NPB1/R1BQK2R b KQ - 5 13,
+26,dxe3,d4e3,r4rk1/1b3ppp/pqn1pn2/1pb5/7P/4pNP1/PPP1NPB1/R1BQK2R w KQ - 0 14,
+27,O-O,e1g1,r4rk1/1b3ppp/pqn1pn2/1pb5/7P/4pNP1/PPP1NPB1/R1BQ1RK1 b - - 1 14,
+28,exf2+,e3f2,r4rk1/1b3ppp/pqn1pn2/1pb5/7P/5NP1/PPP1NpB1/R1BQ1RK1 w - - 0 15,
+29,Kh2,g1h2,r4rk1/1b3ppp/pqn1pn2/1pb5/7P/5NP1/PPP1NpBK/R1BQ1R2 b - - 1 15,
+30,Rad8,a8d8,3r1rk1/1b3ppp/pqn1pn2/1pb5/7P/5NP1/PPP1NpBK/R1BQ1R2 w - - 2 16,
+31,Qe1,d1e1,3r1rk1/1b3ppp/pqn1pn2/1pb5/7P/5NP1/PPP1NpBK/R1B1QR2 b - - 3 16,
+32,Ne4,f6e4,3r1rk1/1b3ppp/pqn1p3/1pb5/4n2P/5NP1/PPP1NpBK/R1B1QR2 w - - 4 17,
+33,Ne5,f3e5,3r1rk1/1b3ppp/pqn1p3/1pb1N3/4n2P/6P1/PPP1NpBK/R1B1QR2 b - - 5 17,
+34,Nxg3,e4g3,3r1rk1/1b3ppp/pqn1p3/1pb1N3/7P/6n1/PPP1NpBK/R1B1QR2 w - - 0 18,
+35,Kxg3,h2g3,3r1rk1/1b3ppp/pqn1p3/1pb1N3/7P/6K1/PPP1NpB1/R1B1QR2 b - - 0 18,
+36,Nxe5,c6e5,3r1rk1/1b3ppp/pq2p3/1pb1n3/7P/6K1/PPP1NpB1/R1B1QR2 w - - 0 19,
+37,Qc3,e1c3,3r1rk1/1b3ppp/pq2p3/1pb1n3/7P/2Q3K1/PPP1NpB1/R1B2R2 b - - 1 19,
+38,Bxg2,b7g2,3r1rk1/5ppp/pq2p3/1pb1n3/7P/2Q3K1/PPP1Npb1/R1B2R2 w - - 0 20,
+39,Qxe5,c3e5,3r1rk1/5ppp/pq2p3/1pb1Q3/7P/6K1/PPP1Npb1/R1B2R2 b - - 0 20,
+40,Bd6,c5d6,3r1rk1/5ppp/pq1bp3/1p2Q3/7P/6K1/PPP1Npb1/R1B2R2 w - - 1 21,
+41,Qf4,e5f4,3r1rk1/5ppp/pq1bp3/1p6/5Q1P/6K1/PPP1Npb1/R1B2R2 b - - 2 21,
+42,Bxf4+,d6f4,3r1rk1/5ppp/pq2p3/1p6/5b1P/6K1/PPP1Npb1/R1B2R2 w - - 0 22,
+43,Kxf4,g3f4,3r1rk1/5ppp/pq2p3/1p6/5K1P/8/PPP1Npb1/R1B2R2 b - - 0 22,
+44,Bxf1,g2f1,3r1rk1/5ppp/pq2p3/1p6/5K1P/8/PPP1Np2/R1B2b2 w - - 0 23,
+45,Ng3,e2g3,3r1rk1/5ppp/pq2p3/1p6/5K1P/6N1/PPP2p2/R1B2b2 b - - 1 23,
+46,Qd4+,b6d4,3r1rk1/5ppp/p3p3/1p6/3q1K1P/6N1/PPP2p2/R1B2b2 w - - 2 24,
+47,Kg5,f4g5,3r1rk1/5ppp/p3p3/1p4K1/3q3P/6N1/PPP2p2/R1B2b2 b - - 3 24,
+48,f6+,f7f6,3r1rk1/6pp/p3pp2/1p4K1/3q3P/6N1/PPP2p2/R1B2b2 w - - 0 25,
+49,Kh5,g5h5,3r1rk1/6pp/p3pp2/1p5K/3q3P/6N1/PPP2p2/R1B2b2 b - - 1 25,
+50,Qd1+,d4d1,3r1rk1/6pp/p3pp2/1p5K/7P/6N1/PPP2p2/R1Bq1b2 w - - 2 26,
+51,Ne2,g3e2,3r1rk1/6pp/p3pp2/1p5K/7P/8/PPP1Np2/R1Bq1b2 b - - 3 26,
+52,Bxe2#,f1e2,3r1rk1/6pp/p3pp2/1p5K/7P/8/PPP1bp2/R1Bq4 w - - 0 27,

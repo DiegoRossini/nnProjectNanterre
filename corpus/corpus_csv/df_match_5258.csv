@@ -1,0 +1,20 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A common opening move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,and a usual reply
+3,b4,b2b4,rnbqkbnr/pppp1ppp/8/4p3/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2,"A very weak move, giving up a pawn for virtually nothing."
+4,Bxb4,f8b4,rnbqk1nr/pppp1ppp/8/4p3/1b2P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 3,So black correctly captures
+5,c3,c2c3,rnbqk1nr/pppp1ppp/8/4p3/1b2P3/2P5/P2P1PPP/RNBQKBNR b KQkq - 0 3,This is the best follow-up preparing d4 with a strong centre.
+6,Bc5,b4c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2P5/P2P1PPP/RNBQKBNR w KQkq - 1 4,"I think it would have been better to drop the Bishop back to a5, so if White plays d4 Black can play exd4 and White cannot recapture with the pawn. White would ideally like to set up a pawn centre with pawns on e4 and d4."
+7,d4,d2d4,rnbqk1nr/pppp1ppp/8/2b1p3/3PP3/2P5/P4PPP/RNBQKBNR b KQkq - 0 4,So White sets up his centre. There are a couple of games in the Gameknot opening database with this position. After 4. d4 exd4 5. cxd4 Bb6 6. Bb2 Qf6 7. Qf3 Bxd4 8. Qxf6 Bxf6 9. Bxf6 Nxf6 10. Nc3 O-O 11. Bd3 Nc6 12. Nf3 Re8 13. O-O Nb4 14. Bb1 d6 15. a3 Nc6 16. Nb5 Re7 17. Re1 Bg4 18. Nd2 a6 19. Nc3 Rae8 20. h3 Bh5 21. Re3 b5 22. Bd3 Nd4 23. Rb1 Bg6 24. a4 c6 25. axb5 axb5 26. Rb2 Ra8 27. Kh2 in aeros (1724) vs. jerad (1582) Black played Nh5 and went on to win and .....Ra3 was played in the other game. I like exd4 5. cxd4 Bb4 in this position.
+8,Be7,c5e7,rnbqk1nr/ppppbppp/8/4p3/3PP3/2P5/P4PPP/RNBQKBNR w KQkq - 1 5,But instead Black just up his extra pawn.
+9,dxe5,d4e5,rnbqk1nr/ppppbppp/8/4P3/4P3/2P5/P4PPP/RNBQKBNR b KQkq - 0 5,Which White gladly takes!
+10,Bc5,e7c5,rnbqk1nr/pppp1ppp/8/2b1P3/4P3/2P5/P4PPP/RNBQKBNR w KQkq - 1 6,And Black returns the Bishop to the nice c5 square.
+11,Be3,c1e3,rnbqk1nr/pppp1ppp/8/2b1P3/4P3/2P1B3/P4PPP/RN1QKBNR b KQkq - 2 6,So White decides to exchange off the strong Bishop.
+12,Na6,b8a6,r1bqk1nr/pppp1ppp/n7/2b1P3/4P3/2P1B3/P4PPP/RN1QKBNR w KQkq - 3 7,"It would have been better for Black to exchange on e3 and leave White with weak tripled pawns on e3, e4 and d5"
+13,Bc4,f1c4,r1bqk1nr/pppp1ppp/n7/2b1P3/2B1P3/2P1B3/P4PPP/RN1QK1NR b KQkq - 4 7,White develops and ignores a chance to prevent his pawns becoming weaker.
+14,Bxe3,c5e3,r1bqk1nr/pppp1ppp/n7/4P3/2B1P3/2P1b3/P4PPP/RN1QK1NR w KQkq - 0 8,So Black now exchanges
+15,fxe3,f2e3,r1bqk1nr/pppp1ppp/n7/4P3/2B1P3/2P1P3/P5PP/RN1QK1NR b KQkq - 0 8,White has to recapture to avoid losing material.
+16,Nc5,a6c5,r1bqk1nr/pppp1ppp/8/2n1P3/2B1P3/2P1P3/P5PP/RN1QK1NR w KQkq - 1 9,and Black re-centres his knight.
+17,Qd5,d1d5,r1bqk1nr/pppp1ppp/8/2nQP3/2B1P3/2P1P3/P5PP/RN2K1NR b KQkq - 2 9,This is a strong move by white attacking the knight on c5 and the pawn on f7. Can you see how Black could have defended both?
+18,b6,b7b6,r1bqk1nr/p1pp1ppp/1p6/2nQP3/2B1P3/2P1P3/P5PP/RN2K1NR w KQkq - 0 10,"Black defends the knight, but not f7. By Qe7 Black could have defended both, or Black could have met both threats by Ne3 and Black would have had a good game. b6 as well as not defending against the mate on f7, leaves the rook on a8 open for White to grab."
+19,Qxf7#,d5f7,r1bqk1nr/p1pp1Qpp/1p6/2n1P3/2B1P3/2P1P3/P5PP/RN2K1NR b KQkq - 0 10,

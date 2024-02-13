@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,sicilian.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,white attacks for center.
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,accepts.
+5,Qxd4,d1d4,rnbqkbnr/pp1ppppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,hitting queen
+6,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,hitting queen
+7,Qd1,d4d1,r1bqkbnr/pp1ppppp/2n5/8/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 2 4,"not so good, better i think was Qa4 which would have been very hard to hit."
+8,d6,d7d6,r1bqkbnr/pp2pppp/2np4/8/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 5,all normalish stuff i guess.
+9,Nc3,b1c3,r1bqkbnr/pp2pppp/2np4/8/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 5,all normalish stuff i guess.
+10,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/8/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 6,all normalish stuff i guess.
+11,h3,h2h3,r1bqkb1r/pp2pppp/2np1n2/8/4P3/2N4P/PPP2PP1/R1BQKBNR b KQkq - 0 6,that was unnecessary because if bg4 then black can just play f3.
+12,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/8/4P3/2N4P/PPP2PP1/R1BQKBNR w KQkq - 0 7,ready to castle.
+13,Be2,f1e2,r1bqkb1r/pp2pp1p/2np1np1/8/4P3/2N4P/PPP1BPP1/R1BQK1NR b KQkq - 1 7,ready to castle.
+14,Bg7,f8g7,r1bqk2r/pp2ppbp/2np1np1/8/4P3/2N4P/PPP1BPP1/R1BQK1NR w KQkq - 2 8,ready to castle.
+15,Nf3,g1f3,r1bqk2r/pp2ppbp/2np1np1/8/4P3/2N2N1P/PPP1BPP1/R1BQK2R b KQkq - 3 8,both kings now safe
+16,O-O,e8g8,r1bq1rk1/pp2ppbp/2np1np1/8/4P3/2N2N1P/PPP1BPP1/R1BQK2R w KQ - 4 9,both kings now safe
+17,O-O,e1g1,r1bq1rk1/pp2ppbp/2np1np1/8/4P3/2N2N1P/PPP1BPP1/R1BQ1RK1 b - - 5 9,both kings now safe
+18,a6,a7a6,r1bq1rk1/1p2ppbp/p1np1np1/8/4P3/2N2N1P/PPP1BPP1/R1BQ1RK1 w - - 0 10,"defencive, but this time necessary."
+19,Nh2,f3h2,r1bq1rk1/1p2ppbp/p1np1np1/8/4P3/2N4P/PPP1BPPN/R1BQ1RK1 b - - 1 10,white builds up an attack.
+20,Bd7,c8d7,r2q1rk1/1p1bppbp/p1np1np1/8/4P3/2N4P/PPP1BPPN/R1BQ1RK1 w - - 2 11,white has to play aggressive to win.
+21,f4,f2f4,r2q1rk1/1p1bppbp/p1np1np1/8/4PP2/2N4P/PPP1B1PN/R1BQ1RK1 b - - 0 11,white has to play aggressive to win.
+22,Rc8,a8c8,2rq1rk1/1p1bppbp/p1np1np1/8/4PP2/2N4P/PPP1B1PN/R1BQ1RK1 w - - 1 12,check.
+23,Bd3,e2d3,2rq1rk1/1p1bppbp/p1np1np1/8/4PP2/2NB3P/PPP3PN/R1BQ1RK1 b - - 2 12,check.
+24,Qb6+,d8b6,2r2rk1/1p1bppbp/pqnp1np1/8/4PP2/2NB3P/PPP3PN/R1BQ1RK1 w - - 3 13,check.
+25,Kh1,g1h1,2r2rk1/1p1bppbp/pqnp1np1/8/4PP2/2NB3P/PPP3PN/R1BQ1R1K b - - 4 13,a good move otherwise the knight was completely useless
+26,Ne8,f6e8,2r1nrk1/1p1bppbp/pqnp2p1/8/4PP2/2NB3P/PPP3PN/R1BQ1R1K w - - 5 14,a good move otherwise the knight was completely useless
+27,f5,f4f5,2r1nrk1/1p1bppbp/pqnp2p1/5P2/4P3/2NB3P/PPP3PN/R1BQ1R1K b - - 0 14,the attack begins!
+28,gxf5,g6f5,2r1nrk1/1p1bppbp/pqnp4/5p2/4P3/2NB3P/PPP3PN/R1BQ1R1K w - - 0 15,it was probably better not to take but wait for FxG6 then recapture with HxG6.
+29,exf5,e4f5,2r1nrk1/1p1bppbp/pqnp4/5P2/8/2NB3P/PPP3PN/R1BQ1R1K b - - 0 15,blacks king is now too open.
+30,e6,e7e6,2r1nrk1/1p1b1pbp/pqnpp3/5P2/8/2NB3P/PPP3PN/R1BQ1R1K w - - 0 16,blacks king is now too open.
+31,Qh5,d1h5,2r1nrk1/1p1b1pbp/pqnpp3/5P1Q/8/2NB3P/PPP3PN/R1B2R1K b - - 1 16,.
+32,h6,h7h6,2r1nrk1/1p1b1pb1/pqnpp2p/5P1Q/8/2NB3P/PPP3PN/R1B2R1K w - - 0 17,.
+33,Bxh6,c1h6,2r1nrk1/1p1b1pb1/pqnpp2B/5P1Q/8/2NB3P/PPP3PN/R4R1K b - - 0 17,!!!!!!
+34,Qxb2,b6b2,2r1nrk1/1p1b1pb1/p1npp2B/5P1Q/8/2NB3P/PqP3PN/R4R1K w - - 0 18,too unfocussed on the kingside.

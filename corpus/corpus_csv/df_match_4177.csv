@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"White mishandled the opening, which at some point I considered drawish, probably he wanted more from it and overreached, White's 11.Bxd4?! kept two permanent weak pawns on white's field, and allowed me to complete my development with tempo, also 13.Bxg7?! was also dubious as it opened the d column with his king still in the center uncastled... I profited from white's king misplacement and tried some tactics but only got to exchange B+R for Queen which eventually brought me the win because two pieces are easier to coordinate than three and white's pawn weaknesses offered several attack objectives, I just had to pick them one after another..."
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,g
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,g
+4,Nf6,g8f6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,g
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3,g
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,g
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,g
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5,g
+9,cxd5,c4d5,rnbqk2r/ppp1ppbp/5np1/3P4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5,third in a row from both sides of the board
+10,Nxd5,f6d5,rnbqk2r/ppp1ppbp/6p1/3n4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6,third in a row from both sides of the board
+11,e4,e2e4,rnbqk2r/ppp1ppbp/6p1/3n4/3PP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6,third in a row from both sides of the board
+12,Nxc3,d5c3,rnbqk2r/ppp1ppbp/6p1/8/3PP3/2n2N2/PP3PPP/R1BQKB1R w KQkq - 0 7,third in a row from both sides of the board
+13,bxc3,b2c3,rnbqk2r/ppp1ppbp/6p1/8/3PP3/2P2N2/P4PPP/R1BQKB1R b KQkq - 0 7,challenging the center
+14,c5,c7c5,rnbqk2r/pp2ppbp/6p1/2p5/3PP3/2P2N2/P4PPP/R1BQKB1R w KQkq - 0 8,challenging the center
+15,Be3,c1e3,rnbqk2r/pp2ppbp/6p1/2p5/3PP3/2P1BN2/P4PPP/R2QKB1R b KQkq - 1 8,?! Nxd4 to avoid Nc6 might be better
+16,Qa5,d8a5,rnb1k2r/pp2ppbp/6p1/q1p5/3PP3/2P1BN2/P4PPP/R2QKB1R w KQkq - 2 9,?! Nxd4 to avoid Nc6 might be better
+17,Qb3,d1b3,rnb1k2r/pp2ppbp/6p1/q1p5/3PP3/1QP1BN2/P4PPP/R3KB1R b KQkq - 3 9,?! Nxd4 to avoid Nc6 might be better
+18,O-O,e8g8,rnb2rk1/pp2ppbp/6p1/q1p5/3PP3/1QP1BN2/P4PPP/R3KB1R w KQ - 4 10,?! Nxd4 to avoid Nc6 might be better
+19,Bc4,f1c4,rnb2rk1/pp2ppbp/6p1/q1p5/2BPP3/1QP1BN2/P4PPP/R3K2R b KQ - 5 10,?! Nxd4 to avoid Nc6 might be better
+20,cxd4,c5d4,rnb2rk1/pp2ppbp/6p1/q7/2BpP3/1QP1BN2/P4PPP/R3K2R w KQ - 0 11,?! Nxd4 to avoid Nc6 might be better
+21,Bxd4,e3d4,rnb2rk1/pp2ppbp/6p1/q7/2BBP3/1QP2N2/P4PPP/R3K2R b KQ - 0 11,?! Nxd4 to avoid Nc6 might be better
+22,Bg4,c8g4,rn3rk1/pp2ppbp/6p1/q7/2BBP1b1/1QP2N2/P4PPP/R3K2R w KQ - 1 12,develops
+23,Nd2,f3d2,rn3rk1/pp2ppbp/6p1/q7/2BBP1b1/1QP5/P2N1PPP/R3K2R b KQ - 2 12,develops attacking the bishop d4 while inviting Qb7?
+24,Nc6,b8c6,r4rk1/pp2ppbp/2n3p1/q7/2BBP1b1/1QP5/P2N1PPP/R3K2R w KQ - 3 13,develops attacking the bishop d4 while inviting Qb7?
+25,Bxg7,d4g7,r4rk1/pp2ppBp/2n3p1/q7/2B1P1b1/1QP5/P2N1PPP/R3K2R b KQ - 0 13,"?! dubious as it opens the d column, and I already control d1 with the bishop, Rd8 is in order in a near future"
+26,Kxg7,g8g7,r4r2/pp2ppkp/2n3p1/q7/2B1P1b1/1QP5/P2N1PPP/R3K2R w KQ - 0 14,"so this means I have to play the bishop back home Bc8, Bd7 or Be6? all seams bad choices, what if Qh5, is f3 playable, all white's king's wing pawns will be on light squares..."
+27,h3,h2h3,r4r2/pp2ppkp/2n3p1/q7/2B1P1b1/1QP4P/P2N1PP1/R3K2R b KQ - 0 14,"so this means I have to play the bishop back home Bc8, Bd7 or Be6? all seams bad choices, what if Qh5, is f3 playable, all white's king's wing pawns will be on light squares..."
+28,Qh5,a5h5,r4r2/pp2ppkp/2n3p1/7q/2B1P1b1/1QP4P/P2N1PP1/R3K2R w KQ - 1 15,"pinning the h pawn, I can, at least for now, postpone moving the bishop from the d1-h5 diagonal"
+29,Qxb7,b3b7,r4r2/pQ2ppkp/2n3p1/7q/2B1P1b1/2P4P/P2N1PP1/R3K2R b KQ - 0 15,bring in reinforcements with tempo
+30,Ne5,c6e5,r4r2/pQ2ppkp/6p1/4n2q/2B1P1b1/2P4P/P2N1PP1/R3K2R w KQ - 1 16,bring in reinforcements with tempo
+31,Bf1,c4f1,r4r2/pQ2ppkp/6p1/4n2q/4P1b1/2P4P/P2N1PP1/R3KB1R b KQ - 2 16,"setting a trap let's see if black eases my job, by capturing the e7 pawn, that blocks my easy access to the e column"
+32,Rfd8,f8d8,r2r4/pQ2ppkp/6p1/4n2q/4P1b1/2P4P/P2N1PP1/R3KB1R w KQ - 3 17,"setting a trap let's see if black eases my job, by capturing the e7 pawn, that blocks my easy access to the e column"
+33,Qxe7,b7e7,r2r4/p3Qpkp/6p1/4n2q/4P1b1/2P4P/P2N1PP1/R3KB1R b KQ - 0 17,he does... thanks
+34,Rde8,d8e8,r3r3/p3Qpkp/6p1/4n2q/4P1b1/2P4P/P2N1PP1/R3KB1R w KQ - 1 18,now occupying the e column and threatening the e pawn with tempo
+35,Qa3,e7a3,r3r3/p4pkp/6p1/4n2q/4P1b1/Q1P4P/P2N1PP1/R3KB1R b KQ - 2 18,forced to move back
+36,Nf3+,e5f3,r3r3/p4pkp/6p1/7q/4P1b1/Q1P2n1P/P2N1PP1/R3KB1R w KQ - 3 19,"! sacrificing the knight for two pawns and an attack, the idea is that in the eventuality of Nxf3 by white I have Rxe4+ with a massive attack on white's king, if gxf3 Bxf3 with the idea of Bxe4 latter on with a discovered check threat and also a massive attack will unveil on white's king"
+37,gxf3,g2f3,r3r3/p4pkp/6p1/7q/4P1b1/Q1P2P1P/P2N1P2/R3KB1R b KQ - 0 19,"? gives back the sacrificed piece, but doesn't achieve nothing"
+38,Bxf3,g4f3,r3r3/p4pkp/6p1/7q/4P3/Q1P2b1P/P2N1P2/R3KB1R w KQ - 0 20,"? gives back the sacrificed piece, but doesn't achieve nothing"
+39,Be2,f1e2,r3r3/p4pkp/6p1/7q/4P3/Q1P2b1P/P2NBP2/R3K2R b KQ - 1 20,"? gives back the sacrificed piece, but doesn't achieve nothing"
+40,Bxe2,f3e2,r3r3/p4pkp/6p1/7q/4P3/Q1P4P/P2NbP2/R3K2R w KQ - 0 21,the point of this move? maybe to block my bishop in...
+41,c4,c3c4,r3r3/p4pkp/6p1/7q/2P1P3/Q6P/P2NbP2/R3K2R b KQ - 0 21,the point of this move? maybe to block my bishop in...
+42,Rad8,a8d8,3rr3/p4pkp/6p1/7q/2P1P3/Q6P/P2NbP2/R3K2R w KQ - 1 22,hits Nd2 and prepares Bd3 or Rd3
+43,f3,f2f3,3rr3/p4pkp/6p1/7q/2P1P3/Q4P1P/P2Nb3/R3K2R b KQ - 0 22,"only move, as Rd3 attacking the queen fails to Qb2+ and Kxe2 next move"
+44,Bd3,e2d3,3rr3/p4pkp/6p1/7q/2P1P3/Q2b1P1P/P2N4/R3K2R w KQ - 1 23,"only move, as Rd3 attacking the queen fails to Qb2+ and Kxe2 next move"

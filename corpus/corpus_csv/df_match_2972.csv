@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Playing the benoni for the first time on GK in a rated game.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Playing the benoni for the first time on GK in a rated game.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,White usually play d5 but this variation seems ok to me.
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,White usually play d5 but this variation seems ok to me.
+5,e3,e2e3,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,White usually play d5 but this variation seems ok to me.
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 4,"The GK database gives g6 but the order has little importance, I think."
+7,g3,g2g3,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/4P1P1/PP3P1P/RNBQKBNR b KQkq - 0 4,Preparing the fiancheto which is part of the benoni
+8,g6,g7g6,rnbqkb1r/pp1p1p1p/4pnp1/2p5/2PP4/4P1P1/PP3P1P/RNBQKBNR w KQkq - 0 5,Preparing the fiancheto which is part of the benoni
+9,Bg2,f1g2,rnbqkb1r/pp1p1p1p/4pnp1/2p5/2PP4/4P1P1/PP3PBP/RNBQK1NR b KQkq - 1 5,White opts for a fiancheto as well
+10,d5,d7d5,rnbqkb1r/pp3p1p/4pnp1/2pp4/2PP4/4P1P1/PP3PBP/RNBQK1NR w KQkq - 0 6,I'm not sure about this move. I expected white to play d5 and may be I should have plaid 5. ... Bg2
+11,cxd5,c4d5,rnbqkb1r/pp3p1p/4pnp1/2pP4/3P4/4P1P1/PP3PBP/RNBQK1NR b KQkq - 0 6,"Now I have to defend the poor d pawn who should, in the variation I plaid till now be on d3"
+12,exd5,e6d5,rnbqkb1r/pp3p1p/5np1/2pp4/3P4/4P1P1/PP3PBP/RNBQK1NR w KQkq - 0 7,"Now I have to defend the poor d pawn who should, in the variation I plaid till now be on d3"
+13,Nc3,b1c3,rnbqkb1r/pp3p1p/5np1/2pp4/3P4/2N1P1P1/PP3PBP/R1BQK1NR b KQkq - 1 7,"Now I have to defend the poor d pawn who should, in the variation I plaid till now be on d3"
+14,Be6,c8e6,rn1qkb1r/pp3p1p/4bnp1/2pp4/3P4/2N1P1P1/PP3PBP/R1BQK1NR w KQkq - 2 8,"Now I have to defend the poor d pawn who should, in the variation I plaid till now be on d3"
+15,Qb3,d1b3,rn1qkb1r/pp3p1p/4bnp1/2pp4/3P4/1QN1P1P1/PP3PBP/R1B1K1NR b KQkq - 3 8,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+16,b6,b7b6,rn1qkb1r/p4p1p/1p2bnp1/2pp4/3P4/1QN1P1P1/PP3PBP/R1B1K1NR w KQkq - 0 9,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+17,Nge2,g1e2,rn1qkb1r/p4p1p/1p2bnp1/2pp4/3P4/1QN1P1P1/PP2NPBP/R1B1K2R b KQkq - 1 9,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+18,c4,c5c4,rn1qkb1r/p4p1p/1p2bnp1/3p4/2pP4/1QN1P1P1/PP2NPBP/R1B1K2R w KQkq - 0 10,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+19,Qa4+,b3a4,rn1qkb1r/p4p1p/1p2bnp1/3p4/Q1pP4/2N1P1P1/PP2NPBP/R1B1K2R b KQkq - 1 10,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+20,Qd7,d8d7,rn2kb1r/p2q1p1p/1p2bnp1/3p4/Q1pP4/2N1P1P1/PP2NPBP/R1B1K2R w KQkq - 2 11,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+21,Qxd7+,a4d7,rn2kb1r/p2Q1p1p/1p2bnp1/3p4/2pP4/2N1P1P1/PP2NPBP/R1B1K2R b KQkq - 0 11,This move permits black to bring the b knight out but it would probably have been in a better square on c6.
+22,Nbxd7,b8d7,r3kb1r/p2n1p1p/1p2bnp1/3p4/2pP4/2N1P1P1/PP2NPBP/R1B1K2R w KQkq - 0 12,Menaces from a fork attack by 13. Nc2
+23,Nb5,c3b5,r3kb1r/p2n1p1p/1p2bnp1/1N1p4/2pP4/4P1P1/PP2NPBP/R1B1K2R b KQkq - 1 12,Menaces from a fork attack by 13. Nc2
+24,Bb4+,f8b4,r3k2r/p2n1p1p/1p2bnp1/1N1p4/1bpP4/4P1P1/PP2NPBP/R1B1K2R w KQkq - 2 13,The white king cannot castle anylonger.
+25,Bd2,c1d2,r3k2r/p2n1p1p/1p2bnp1/1N1p4/1bpP4/4P1P1/PP1BNPBP/R3K2R b KQkq - 3 13,The white king cannot castle anylonger.
+26,Bxd2+,b4d2,r3k2r/p2n1p1p/1p2bnp1/1N1p4/2pP4/4P1P1/PP1bNPBP/R3K2R w KQkq - 0 14,The white king cannot castle anylonger.
+27,Kxd2,e1d2,r3k2r/p2n1p1p/1p2bnp1/1N1p4/2pP4/4P1P1/PP1KNPBP/R6R b kq - 0 14,The white king cannot castle anylonger.
+28,O-O,e8g8,r4rk1/p2n1p1p/1p2bnp1/1N1p4/2pP4/4P1P1/PP1KNPBP/R6R w - - 1 15,But black does castle
+29,h3,h2h3,r4rk1/p2n1p1p/1p2bnp1/1N1p4/2pP4/4P1PP/PP1KNPB1/R6R b - - 0 15,"The situation seems equilibrated. Material is equal, no direct theats, uncertain fight for the center, both pawn structures are ok, nobody occupates the semi open files, white king relatively unsafe"
+30,a6,a7a6,r4rk1/3n1p1p/pp2bnp1/1N1p4/2pP4/4P1PP/PP1KNPB1/R6R w - - 0 16,I don't want this knight on my territory.
+31,Nbc3,b5c3,r4rk1/3n1p1p/pp2bnp1/3p4/2pP4/2N1P1PP/PP1KNPB1/R6R b - - 1 16,"Now, the open e file, important in the benoni"
+32,Rfe8,f8e8,r3r1k1/3n1p1p/pp2bnp1/3p4/2pP4/2N1P1PP/PP1KNPB1/R6R w - - 2 17,"Now, the open e file, important in the benoni"
+33,g4,g3g4,r3r1k1/3n1p1p/pp2bnp1/3p4/2pP2P1/2N1P2P/PP1KNPB1/R6R b - - 0 17,The advantage of having the king on the center files is that one doesn't hesitate to move the wing pawns.
+34,b5,b6b5,r3r1k1/3n1p1p/p3bnp1/1p1p4/2pP2P1/2N1P2P/PP1KNPB1/R6R w - - 0 18,To enable Nb3
+35,a3,a2a3,r3r1k1/3n1p1p/p3bnp1/1p1p4/2pP2P1/P1N1P2P/1P1KNPB1/R6R b - - 0 18,To enable the LSB to go to d7
+36,Nb6,d7b6,r3r1k1/5p1p/pn2bnp1/1p1p4/2pP2P1/P1N1P2P/1P1KNPB1/R6R w - - 1 19,To enable the LSB to go to d7
+37,Rhb1,h1b1,r3r1k1/5p1p/pn2bnp1/1p1p4/2pP2P1/P1N1P2P/1P1KNPB1/RR6 b - - 2 19,ennoying attack
+38,Bd7,e6d7,r3r1k1/3b1p1p/pn3np1/1p1p4/2pP2P1/P1N1P2P/1P1KNPB1/RR6 w - - 3 20,ennoying attack
+39,b3,b2b3,r3r1k1/3b1p1p/pn3np1/1p1p4/2pP2P1/PPN1P2P/3KNPB1/RR6 b - - 0 20,ennoying attack
+40,Ne4+,f6e4,r3r1k1/3b1p1p/pn4p1/1p1p4/2pPn1P1/PPN1P2P/3KNPB1/RR6 w - - 1 21,Trade
+41,Nxe4,c3e4,r3r1k1/3b1p1p/pn4p1/1p1p4/2pPN1P1/PP2P2P/3KNPB1/RR6 b - - 0 21,Trade
+42,dxe4,d5e4,r3r1k1/3b1p1p/pn4p1/1p6/2pPp1P1/PP2P2P/3KNPB1/RR6 w - - 0 22,White has now an advantage with the pawn structure

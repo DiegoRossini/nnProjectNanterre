@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2pP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+6,e5,e7e5,rnbqkbnr/ppp2ppp/8/4p3/2pP4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 4,Black does not fall for the famous trap 3...b5 4. a4 c6 5. axb5 cxb5 6. Qf3 winning a piece.
+7,Bxc4,f1c4,rnbqkbnr/ppp2ppp/8/4p3/2BP4/4P3/PP3PPP/RNBQK1NR b KQkq - 0 4,"This is unnecessary until White plays a3, if he does at all, and even then Black should consider keeping two bishops for the time being."
+8,Bb4+,f8b4,rnbqk1nr/ppp2ppp/8/4p3/1bBP4/4P3/PP3PPP/RNBQK1NR w KQkq - 1 5,"This is unnecessary until White plays a3, if he does at all, and even then Black should consider keeping two bishops for the time being."
+9,Nc3,b1c3,rnbqk1nr/ppp2ppp/8/4p3/1bBP4/2N1P3/PP3PPP/R1BQK1NR b KQkq - 2 5,"This is unnecessary until White plays a3, if he does at all, and even then Black should consider keeping two bishops for the time being."
+10,Bxc3+,b4c3,rnbqk1nr/ppp2ppp/8/4p3/2BP4/2b1P3/PP3PPP/R1BQK1NR w KQkq - 0 6,"This is unnecessary until White plays a3, if he does at all, and even then Black should consider keeping two bishops for the time being."
+11,bxc3,b2c3,rnbqk1nr/ppp2ppp/8/4p3/2BP4/2P1P3/P4PPP/R1BQK1NR b KQkq - 0 6,This pawn exchange is inadvisable as it effectively concedes control of the center to White. Perhaps 6...Nd7 was better.
+12,exd4,e5d4,rnbqk1nr/ppp2ppp/8/8/2Bp4/2P1P3/P4PPP/R1BQK1NR w KQkq - 0 7,This pawn exchange is inadvisable as it effectively concedes control of the center to White. Perhaps 6...Nd7 was better.
+13,cxd4,c3d4,rnbqk1nr/ppp2ppp/8/8/2BP4/4P3/P4PPP/R1BQK1NR b KQkq - 0 7,"Black has done everything White can hope for out of the opening, giving him two central pawns vs. zero, the two bishops, and a slight lead in development."
+14,Qd6,d8d6,rnb1k1nr/ppp2ppp/3q4/8/2BP4/4P3/P4PPP/R1BQK1NR w KQkq - 1 8,Threatens Qb4+ but loses a pawn. Black should have considered 7...Nf6
+15,Qb3,d1b3,rnb1k1nr/ppp2ppp/3q4/8/2BP4/1Q2P3/P4PPP/R1B1K1NR b KQkq - 2 8,"Hitting b7 and f7. On a second look I suppose Black can play 8... Nh6, but either way, he's disadvantaged himself with 7... Qd6."
+16,Be6,c8e6,rn2k1nr/ppp2ppp/3qb3/8/2BP4/1Q2P3/P4PPP/R1B1K1NR w KQkq - 3 9,"Even down a pawn, Black has to offer the exchange of queens to avoid losing the rook."
+17,Bxe6,c4e6,rn2k1nr/ppp2ppp/3qB3/8/3P4/1Q2P3/P4PPP/R1B1K1NR b KQkq - 0 9,"Even down a pawn, Black has to offer the exchange of queens to avoid losing the rook."
+18,Qxe6,d6e6,rn2k1nr/ppp2ppp/4q3/8/3P4/1Q2P3/P4PPP/R1B1K1NR w KQkq - 0 10,"Even down a pawn, Black has to offer the exchange of queens to avoid losing the rook."
+19,Qxb7,b3b7,rn2k1nr/pQp2ppp/4q3/8/3P4/4P3/P4PPP/R1B1K1NR b KQkq - 0 10,"Even down a pawn, Black has to offer the exchange of queens to avoid losing the rook."
+20,Qc6,e6c6,rn2k1nr/pQp2ppp/2q5/8/3P4/4P3/P4PPP/R1B1K1NR w KQkq - 1 11,"Even down a pawn, Black has to offer the exchange of queens to avoid losing the rook."
+21,Qc8+,b7c8,rnQ1k1nr/p1p2ppp/2q5/8/3P4/4P3/P4PPP/R1B1K1NR b KQkq - 2 11,"Exchanging queens wins, of course, but more slowly. This move gives Black a lot of ways to go wrong, which he does."
+22,Ke7,e8e7,rnQ3nr/p1p1kppp/2q5/8/3P4/4P3/P4PPP/R1B1K1NR w KQ - 3 12,Only legal move.
+23,Ba3+,c1a3,rnQ3nr/p1p1kppp/2q5/8/3P4/B3P3/P4PPP/R3K1NR b KQ - 4 12,Only move that doesn't lose the queen. [Edited thanks to comment from haile1996]
+24,Kf6,e7f6,rnQ3nr/p1p2ppp/2q2k2/8/3P4/B3P3/P4PPP/R3K1NR w KQ - 5 13,Only move that doesn't lose the queen. [Edited thanks to comment from haile1996]
+25,Qd8+,c8d8,rn1Q2nr/p1p2ppp/2q2k2/8/3P4/B3P3/P4PPP/R3K1NR b KQ - 6 13,"The wrong square--Ke6 is probably best--as 14. Nf3 is now a double threat (Nxe5+ and Qg5#). Even if the king went to e6, 14. Nf3 Qc3+ 15. Ke2 Qxa3 is bad for Black due to 16. d5+ Kf5 17. Qg5+ Ke4 18. Qe5#"
+26,Kg6,f6g6,rn1Q2nr/p1p2ppp/2q3k1/8/3P4/B3P3/P4PPP/R3K1NR w KQ - 7 14,"The wrong square--Ke6 is probably best--as 14. Nf3 is now a double threat (Nxe5+ and Qg5#). Even if the king went to e6, 14. Nf3 Qc3+ 15. Ke2 Qxa3 is bad for Black due to 16. d5+ Kf5 17. Qg5+ Ke4 18. Qe5#"
+27,Nf3,g1f3,rn1Q2nr/p1p2ppp/2q3k1/8/3P4/B3PN2/P4PPP/R3K2R b KQ - 8 14,"14...f6 stops both threats. This move technically does as well, but still allows the Knight check on e5. 14...f6 also has the benefit of threatening to trap the White Queen with 15...Nd7. Had it been played, White's Queen probably has to immediately plot an escape via f8."
+28,Qf6,c6f6,rn1Q2nr/p1p2ppp/5qk1/8/3P4/B3PN2/P4PPP/R3K2R w KQ - 9 15,"14...f6 stops both threats. This move technically does as well, but still allows the Knight check on e5. 14...f6 also has the benefit of threatening to trap the White Queen with 15...Nd7. Had it been played, White's Queen probably has to immediately plot an escape via f8."
+29,Ne5+,f3e5,rn1Q2nr/p1p2ppp/5qk1/4N3/3P4/B3P3/P4PPP/R3K2R b KQ - 10 15,"Again the wrong square for the king. 15...Kh5 (16. g4+ Kh6) was the only move that survives for any length of time. If 15...Kh6 then 16. Ng4+ and if 15...Kg5 then 16. h4+ Kh5 17. g4+ Kh6 18. g5+. As it is, Black is now fresh out of chances."
+30,Kf5,g6f5,rn1Q2nr/p1p2ppp/5q2/4Nk2/3P4/B3P3/P4PPP/R3K2R w KQ - 11 16,"Again the wrong square for the king. 15...Kh5 (16. g4+ Kh6) was the only move that survives for any length of time. If 15...Kh6 then 16. Ng4+ and if 15...Kg5 then 16. h4+ Kh5 17. g4+ Kh6 18. g5+. As it is, Black is now fresh out of chances."
+31,g4+,g2g4,rn1Q2nr/p1p2ppp/5q2/4Nk2/3P2P1/B3P3/P4P1P/R3K2R b KQ - 0 16,If 16... Kg5 then 17. h4+ Kh6 18. g5+ and if 16...Ke6 then 17. d5+ Kxe5 18. Bb2+
+32,Ke4,f5e4,rn1Q2nr/p1p2ppp/5q2/4N3/3Pk1P1/B3P3/P4P1P/R3K2R w KQ - 1 17,If 16... Kg5 then 17. h4+ Kh6 18. g5+ and if 16...Ke6 then 17. d5+ Kxe5 18. Bb2+
+33,f3+,f2f3,rn1Q2nr/p1p2ppp/5q2/4N3/3Pk1P1/B3PP2/P6P/R3K2R b KQ - 0 17,The only other legal move is 17...Qxf3.
+34,Kxe3,e4e3,rn1Q2nr/p1p2ppp/5q2/4N3/3P2P1/B3kP2/P6P/R3K2R w KQ - 0 18,The only other legal move is 17...Qxf3.
+35,Bc1#,a3c1,rn1Q2nr/p1p2ppp/5q2/4N3/3P2P1/4kP2/P6P/R1B1K2R b KQ - 1 18,"The bishop did some efficient work in this game. If there are lessons here, I would say: remember the importance of development (ending a game with rooks on their original squares is one thing, but Black never even moved a knight), avoid cheap tricks that don't improve your position (such as Black's 7...Qd6), and always have a good reason when exchanging (Black's 5th and 6th moves were more helpful for White than Black)."

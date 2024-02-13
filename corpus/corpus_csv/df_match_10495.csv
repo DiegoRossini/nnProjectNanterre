@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King pawn opening - typically the start of a tactical game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Double king pawn opening, which can lead to the Ruy Lopez, Kings Gambit, Petrov, Bishops Opening."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Looking like a Ruy Lopez.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Looking like a Ruy Lopez.
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"Four Knights, Spanish Classical Defense."
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"Four Knights, Spanish Classical Defense."
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,Last book move.
+8,Bd6,f8d6,r1bqk2r/pppp1ppp/2nb1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,"Bb4, Bc5, d6, Nd4, d4 are a few typical book choices here. The text move has the disadvantage of blocking the d pawn, but has the advantage of enabling castling."
+9,Bc4,b5c4,r1bqk2r/pppp1ppp/2nb1n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 7 5,"White positions the bishop better to target f7, which will enable a pin after 0-0-0 by black. White can afford some non developing moves because black is positionally bad due to the bishop and knight blocking the c and d pawns which close in the c8 bishop and limit the queen."
+10,Bc5,d6c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 8 6,Black finds a better position for the bishop. The position is equal.
+11,d3,d2d3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 6,"Opening a bishop line c1-h6, while closing f1-d3 for the other bishop. The goal appears to keep both bishops good, and developing a bishop outside the pawn chain is a plus."
+12,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 7,Black seeks a similiar and symetrical strategy.
+13,h3,h2h3,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R b KQkq - 0 7,"The text move weakens the pawn structure if castling short, but prevents a pin by Bc8-g4, or Nf6-g4. Future moves will determine the effectiveness of this move."
+14,Be6,c8e6,r2qk2r/ppp2ppp/2npbn2/2b1p3/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 1 8,A trade of B x B will result in doubled pawns for black. Perhaps black is willing to sacrifice the pawn structure to gain 0-0-0. Another idea may be to castle short after the exchange which will give the rook the half open f file which can be used to attack by exchange sacrifice later at f3.
+15,Bxe6,c4e6,r2qk2r/ppp2ppp/2npBn2/2b1p3/4P3/2NP1N1P/PPP2PP1/R1BQK2R b KQkq - 0 8,Applying a pin which is hard to refute without creating additional weakness on the kingside.
+16,fxe6,f7e6,r2qk2r/ppp3pp/2nppn2/2b1p3/4P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 9,Applying a pin which is hard to refute without creating additional weakness on the kingside.
+17,Bg5,c1g5,r2qk2r/ppp3pp/2nppn2/2b1p1B1/4P3/2NP1N1P/PPP2PP1/R2QK2R b KQkq - 1 9,Applying a pin which is hard to refute without creating additional weakness on the kingside.
+18,O-O,e8g8,r2q1rk1/ppp3pp/2nppn2/2b1p1B1/4P3/2NP1N1P/PPP2PP1/R2QK2R w KQ - 2 10,Black takes a lead in development.
+19,Bxf6,g5f6,r2q1rk1/ppp3pp/2nppB2/2b1p3/4P3/2NP1N1P/PPP2PP1/R2QK2R b KQ - 0 10,This move should be criticized because it offers nothing for the exchange. White just hands over the bishop advantage to black.
+20,Qxf6,d8f6,r4rk1/ppp3pp/2nppq2/2b1p3/4P3/2NP1N1P/PPP2PP1/R2QK2R w KQ - 0 11,Stronger perhaps was Rf8xf6 with the idea of Qd8-f8 for better use of the f file. The queen gains no real advantage from this position because of a lack of good use of diagonals.
+21,Nb5,c3b5,r4rk1/ppp3pp/2nppq2/1Nb1p3/4P3/3P1N1P/PPP2PP1/R2QK2R b KQ - 1 11,White targets a weak point at c7.
+22,Bb6,c5b6,r4rk1/ppp3pp/1bnppq2/1N2p3/4P3/3P1N1P/PPP2PP1/R2QK2R w KQ - 2 12,Black covers the weakness while maintaining the useful bishop line.
+23,a4,a2a4,r4rk1/ppp3pp/1bnppq2/1N2p3/P3P3/3P1N1P/1PP2PP1/R2QK2R b KQ - 0 12,"Probably with the idea of a4-a5 to dislodge the bishop, which would be bad for white because black owns a5 via N + B vs R for white. Better would be to develop with the intent of castling long, then using all resources for a kingside attack, which should have good chances considering the weak kingside pawns for black."
+24,a6,a7a6,r4rk1/1pp3pp/pbnppq2/1N2p3/P3P3/3P1N1P/1PP2PP1/R2QK2R w KQ - 0 13,"Black drives the knight back, which removes the pressure on c7, but helps the knight to centralize more, gaining central control."

@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's pawn opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Phildor's Defense
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Phildor's Defense
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Phildor's Defense
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"Pinning the Knight and developing, white has two choices to break the pin, h3 or Be2 he didn't want to move the bishop twice in a row so"
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"Pinning the Knight and developing, white has two choices to break the pin, h3 or Be2 he didn't want to move the bishop twice in a row so"
+7,h3,h2h3,rn1qkbnr/ppp2ppp/3p4/4p3/2B1P1b1/5N1P/PPPP1PP1/RNBQK2R b KQkq - 0 4,The Knight is still pinned but g4 is a mistake
+8,Bh5,g4h5,rn1qkbnr/ppp2ppp/3p4/4p2b/2B1P3/5N1P/PPPP1PP1/RNBQK2R w KQkq - 1 5,The Knight is still pinned but g4 is a mistake
+9,c3,c2c3,rn1qkbnr/ppp2ppp/3p4/4p2b/2B1P3/2P2N1P/PP1P1PP1/RNBQK2R b KQkq - 0 5,"Supporting the d4 thrust, in retrospect a poor move, it blocks the white knight's development to the center and allows black to gain temp with Nf6.
+
+5...Nf6 attacks apawn with few good defensive moves."
+10,Nf6,g8f6,rn1qkb1r/ppp2ppp/3p1n2/4p2b/2B1P3/2P2N1P/PP1P1PP1/RNBQK2R w KQkq - 1 6,Attacking and developing
+11,d3,d2d3,rn1qkb1r/ppp2ppp/3p1n2/4p2b/2B1P3/2PP1N1P/PP3PP1/RNBQK2R b KQkq - 0 6,"d3 allows continued development, threatens pinning the f3 knight and protects the e4 pawn.
+
+Other moves don't seem effective
+
+Qc3 would double my kingside pawns after Bxf3
+Bd3 blocks the advance of my d2 pawn which was the point of c3"
+12,h6,h7h6,rn1qkb1r/ppp2pp1/3p1n1p/4p2b/2B1P3/2PP1N1P/PP3PP1/RNBQK2R w KQkq - 0 7,Avoiding the pin on the Nf6
+13,Nbd2,b1d2,rn1qkb1r/ppp2pp1/3p1n1p/4p2b/2B1P3/2PP1N1P/PP1N1PP1/R1BQK2R b KQkq - 1 7,"Maybe not the best move, hems in the dark squared bishop
+
+However, protects the knight so the queen can safely move without worrying about doubled pawns on the kingside."
+14,d5,d6d5,rn1qkb1r/ppp2pp1/5n1p/3pp2b/2B1P3/2PP1N1P/PP1N1PP1/R1BQK2R w KQkq - 0 8,Trying to give the dark squared bishop more space
+15,exd5,e4d5,rn1qkb1r/ppp2pp1/5n1p/3Pp2b/2B5/2PP1N1P/PP1N1PP1/R1BQK2R b KQkq - 0 8,"threatening the Knight, the b7 pawn, and the e5 pawn"
+16,Nxd5,f6d5,rn1qkb1r/ppp2pp1/7p/3np2b/2B5/2PP1N1P/PP1N1PP1/R1BQK2R w KQkq - 0 9,"threatening the Knight, the b7 pawn, and the e5 pawn"
+17,Qb3,d1b3,rn1qkb1r/ppp2pp1/7p/3np2b/2B5/1QPP1N1P/PP1N1PP1/R1B1K2R b KQkq - 1 9,"threatening the Knight, the b7 pawn, and the e5 pawn"
+18,Nb6,d5b6,rn1qkb1r/ppp2pp1/1n5p/4p2b/2B5/1QPP1N1P/PP1N1PP1/R1B1K2R w KQkq - 2 10,"Bishop is protecting f7, so I prepare to take e5.
+
+Nxe5 right away is a mistake because Qe7 pins and wins the knight"
+19,O-O,e1g1,rn1qkb1r/ppp2pp1/1n5p/4p2b/2B5/1QPP1N1P/PP1N1PP1/R1B2RK1 b kq - 3 10,Preparing the kingside castle
+20,Nxc4,b6c4,rn1qkb1r/ppp2pp1/7p/4p2b/2n5/1QPP1N1P/PP1N1PP1/R1B2RK1 w kq - 0 11,Preparing the kingside castle
+21,Qxc4,b3c4,rn1qkb1r/ppp2pp1/7p/4p2b/2Q5/2PP1N1P/PP1N1PP1/R1B2RK1 b kq - 0 11,Preparing the kingside castle
+22,Bd6,f8d6,rn1qk2r/ppp2pp1/3b3p/4p2b/2Q5/2PP1N1P/PP1N1PP1/R1B2RK1 w kq - 1 12,Preparing the kingside castle
+23,Nh2,f3h2,rn1qk2r/ppp2pp1/3b3p/4p2b/2Q5/2PP3P/PP1N1PPN/R1B2RK1 b kq - 2 12,White want his Knight on e4 but still afraid of doubled pawns in front of his king
+24,Nd7,b8d7,r2qk2r/pppn1pp1/3b3p/4p2b/2Q5/2PP3P/PP1N1PPN/R1B2RK1 w kq - 3 13,freeing up the bishop
+25,Ne4,d2e4,r2qk2r/pppn1pp1/3b3p/4p2b/2Q1N3/2PP3P/PP3PPN/R1B2RK1 b kq - 4 13,freeing up the bishop
+26,f5,f7f5,r2qk2r/pppn2p1/3b3p/4pp1b/2Q1N3/2PP3P/PP3PPN/R1B2RK1 w kq - 0 14,Planning to castle Queenside and attack Kingside
+27,Ng3,e4g3,r2qk2r/pppn2p1/3b3p/4pp1b/2Q5/2PP2NP/PP3PPN/R1B2RK1 b kq - 1 14,"Bg6?, In trying to save the pawn Black loses a bishop, better is Bf7. 15 Qa4 Be6.  Still protecting the pawn, allowing for king side expansion against the castled king."
+28,Bg6,h5g6,r2qk2r/pppn2p1/3b2bp/4pp2/2Q5/2PP2NP/PP3PPN/R1B2RK1 w kq - 2 15,"Bg6?, In trying to save the pawn Black loses a bishop, better is Bf7. 15 Qa4 Be6.  Still protecting the pawn, allowing for king side expansion against the castled king."
+29,Qe6+,c4e6,r2qk2r/pppn2p1/3bQ1bp/4pp2/8/2PP2NP/PP3PPN/R1B2RK1 b kq - 3 15,And the bishop is lost
+30,Qe7,d8e7,r3k2r/pppnq1p1/3bQ1bp/4pp2/8/2PP2NP/PP3PPN/R1B2RK1 w kq - 4 16,Trading queens probably a better move.  While White's queen is very active there are few supporting pieces to continue the attack.  Black wants to keep his queen to develop a counterattack and maybe win back his bishop.  White's queen is also prone to harrassment by black's surrounding minor pieces.
+31,Qxg6+,e6g6,r3k2r/pppnq1p1/3b2Qp/4pp2/8/2PP2NP/PP3PPN/R1B2RK1 b kq - 0 16,Trading queens probably a better move.  While White's queen is very active there are few supporting pieces to continue the attack.  Black wants to keep his queen to develop a counterattack and maybe win back his bishop.  White's queen is also prone to harrassment by black's surrounding minor pieces.
+32,Qf7,e7f7,r3k2r/pppn1qp1/3b2Qp/4pp2/8/2PP2NP/PP3PPN/R1B2RK1 w kq - 1 17,Trading queens probably a better move.  While White's queen is very active there are few supporting pieces to continue the attack.  Black wants to keep his queen to develop a counterattack and maybe win back his bishop.  White's queen is also prone to harrassment by black's surrounding minor pieces.
+33,Qxf5,g6f5,r3k2r/pppn1qp1/3b3p/4pQ2/8/2PP2NP/PP3PPN/R1B2RK1 b kq - 0 17,Trading queens probably a better move.  While White's queen is very active there are few supporting pieces to continue the attack.  Black wants to keep his queen to develop a counterattack and maybe win back his bishop.  White's queen is also prone to harrassment by black's surrounding minor pieces.
+34,Nf6,d7f6,r3k2r/ppp2qp1/3b1n1p/4pQ2/8/2PP2NP/PP3PPN/R1B2RK1 w kq - 1 18,trying to generate an attack against white's queen
+35,Ne4,g3e4,r3k2r/ppp2qp1/3b1n1p/4pQ2/4N3/2PP3P/PP3PPN/R1B2RK1 b kq - 2 18,trying to generate an attack against white's queen
+36,O-O,e8g8,r4rk1/ppp2qp1/3b1n1p/4pQ2/4N3/2PP3P/PP3PPN/R1B2RK1 w - - 3 19,trying to generate an attack against white's queen

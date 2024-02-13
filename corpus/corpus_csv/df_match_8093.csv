@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Caro Kahn Defense.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Caro Kahn Defense.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Follows Fischer VS Petrosian for about six moves.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Follows Fischer VS Petrosian for about six moves.
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Normally this is Nc6.
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Normally this is Nc6.
+7,Bd3,f1d3,rnbqkbnr/pp2pppp/8/3p4/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4,Normally this is Nc6.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/3p4/3P4/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 5,Normally this is Nc6.
+9,c3,c2c3,rnbqkb1r/pp2pppp/5n2/3p4/3P4/2PB4/PP3PPP/RNBQK1NR b KQkq - 0 5,Nf3 is most popular here.
+10,Nc6,b8c6,r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/2PB4/PP3PPP/RNBQK1NR w KQkq - 1 6,Nf3 is most popular here.
+11,Bf4,c1f4,r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6,Nf3 is most popular here.
+12,g6,g7g6,r1bqkb1r/pp2pp1p/2n2np1/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR w KQkq - 0 7,Nf3 is most popular here.
+13,h3,h2h3,r1bqkb1r/pp2pp1p/2n2np1/3p4/3P1B2/2PB3P/PP3PP1/RN1QK1NR b KQkq - 0 7,Nf3 is most popular here.
+14,Bg7,f8g7,r1bqk2r/pp2ppbp/2n2np1/3p4/3P1B2/2PB3P/PP3PP1/RN1QK1NR w KQkq - 1 8,Opening ends.
+15,Nf3,g1f3,r1bqk2r/pp2ppbp/2n2np1/3p4/3P1B2/2PB1N1P/PP3PP1/RN1QK2R b KQkq - 2 8,Opening ends.
+16,O-O,e8g8,r1bq1rk1/pp2ppbp/2n2np1/3p4/3P1B2/2PB1N1P/PP3PP1/RN1QK2R w KQ - 3 9,Opening ends.
+17,Nbd2,b1d2,r1bq1rk1/pp2ppbp/2n2np1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2QK2R b KQ - 4 9,Opening ends.
+18,Be6,c8e6,r2q1rk1/pp2ppbp/2n1bnp1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2QK2R w KQ - 5 10,Opening ends.
+19,O-O,e1g1,r2q1rk1/pp2ppbp/2n1bnp1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2Q1RK1 b - - 6 10,Puts rook on open file.
+20,Qc8,d8c8,r1q2rk1/pp2ppbp/2n1bnp1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2Q1RK1 w - - 7 11,Puts rook on open file.
+21,Re1,f1e1,r1q2rk1/pp2ppbp/2n1bnp1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2QR1K1 b - - 8 11,Puts rook on open file.
+22,Re8,f8e8,r1q1r1k1/pp2ppbp/2n1bnp1/3p4/3P1B2/2PB1N1P/PP1N1PP1/R2QR1K1 w - - 9 12,To get N on c5.
+23,Nb3,d2b3,r1q1r1k1/pp2ppbp/2n1bnp1/3p4/3P1B2/1NPB1N1P/PP3PP1/R2QR1K1 b - - 10 12,To get N on c5.
+24,Bf5,e6f5,r1q1r1k1/pp2ppbp/2n2np1/3p1b2/3P1B2/1NPB1N1P/PP3PP1/R2QR1K1 w - - 11 13,"Aggressive move pointing at many weaknesses, b7, f7."
+25,Nc5,b3c5,r1q1r1k1/pp2ppbp/2n2np1/2Np1b2/3P1B2/2PB1N1P/PP3PP1/R2QR1K1 b - - 12 13,"Aggressive move pointing at many weaknesses, b7, f7."
+26,Bxd3,f5d3,r1q1r1k1/pp2ppbp/2n2np1/2Np4/3P1B2/2Pb1N1P/PP3PP1/R2QR1K1 w - - 0 14,Double rooks on e file.
+27,Qxd3,d1d3,r1q1r1k1/pp2ppbp/2n2np1/2Np4/3P1B2/2PQ1N1P/PP3PP1/R3R1K1 b - - 0 14,Double rooks on e file.
+28,Nd7,f6d7,r1q1r1k1/pp1nppbp/2n3p1/2Np4/3P1B2/2PQ1N1P/PP3PP1/R3R1K1 w - - 1 15,Double rooks on e file.
+29,Nxd7,c5d7,r1q1r1k1/pp1Nppbp/2n3p1/3p4/3P1B2/2PQ1N1P/PP3PP1/R3R1K1 b - - 0 15,Double rooks on e file.
+30,Qxd7,c8d7,r3r1k1/pp1qppbp/2n3p1/3p4/3P1B2/2PQ1N1P/PP3PP1/R3R1K1 w - - 0 16,Double rooks on e file.
+31,Re2,e1e2,r3r1k1/pp1qppbp/2n3p1/3p4/3P1B2/2PQ1N1P/PP2RPP1/R5K1 b - - 1 16,Double rooks on e file.
+32,a6,a7a6,r3r1k1/1p1qppbp/p1n3p1/3p4/3P1B2/2PQ1N1P/PP2RPP1/R5K1 w - - 0 17,Considered Ne5.
+33,Rae1,a1e1,r3r1k1/1p1qppbp/p1n3p1/3p4/3P1B2/2PQ1N1P/PP2RPP1/4R1K1 b - - 1 17,Considered Ne5.
+34,b5,b7b5,r3r1k1/3qppbp/p1n3p1/1p1p4/3P1B2/2PQ1N1P/PP2RPP1/4R1K1 w - - 0 18,Considered Ne5.
+35,a3,a2a3,r3r1k1/3qppbp/p1n3p1/1p1p4/3P1B2/P1PQ1N1P/1P2RPP1/4R1K1 b - - 0 18,Attacks weakness on d5 and f7.
+36,Qb7,d7b7,r3r1k1/1q2ppbp/p1n3p1/1p1p4/3P1B2/P1PQ1N1P/1P2RPP1/4R1K1 w - - 1 19,Attacks weakness on d5 and f7.
+37,Ne5,f3e5,r3r1k1/1q2ppbp/p1n3p1/1p1pN3/3P1B2/P1PQ3P/1P2RPP1/4R1K1 b - - 2 19,Attacks weakness on d5 and f7.
+38,Nxe5,c6e5,r3r1k1/1q2ppbp/p5p1/1p1pn3/3P1B2/P1PQ3P/1P2RPP1/4R1K1 w - - 0 20,Attacks weakness on d5 and f7.
+39,Bxe5,f4e5,r3r1k1/1q2ppbp/p5p1/1p1pB3/3P4/P1PQ3P/1P2RPP1/4R1K1 b - - 0 20,Attacks weakness on d5 and f7.
+40,Bxe5,g7e5,r3r1k1/1q2pp1p/p5p1/1p1pb3/3P4/P1PQ3P/1P2RPP1/4R1K1 w - - 0 21,Attacks weakness on d5 and f7.
+41,Re2xe5,e2e5,r3r1k1/1q2pp1p/p5p1/1p1pR3/3P4/P1PQ3P/1P3PP1/4R1K1 b - - 0 21,Attacks weakness on d5 and f7.
+42,Rac8,a8c8,2r1r1k1/1q2pp1p/p5p1/1p1pR3/3P4/P1PQ3P/1P3PP1/4R1K1 w - - 1 22,Attacks weakness on d5 and f7.
+43,Qf3,d3f3,2r1r1k1/1q2pp1p/p5p1/1p1pR3/3P4/P1P2Q1P/1P3PP1/4R1K1 b - - 2 22,Attacks weakness on d5 and f7.
+44,e6,e7e6,2r1r1k1/1q3p1p/p3p1p1/1p1pR3/3P4/P1P2Q1P/1P3PP1/4R1K1 w - - 0 23,Attempts to crack open holes around king.
+45,h4,h3h4,2r1r1k1/1q3p1p/p3p1p1/1p1pR3/3P3P/P1P2Q2/1P3PP1/4R1K1 b - - 0 23,Attempts to crack open holes around king.
+46,h5,h7h5,2r1r1k1/1q3p2/p3p1p1/1p1pR2p/3P3P/P1P2Q2/1P3PP1/4R1K1 w - - 0 24,Stops attack.
+47,Qf4,f3f4,2r1r1k1/1q3p2/p3p1p1/1p1pR2p/3P1Q1P/P1P5/1P3PP1/4R1K1 b - - 1 24,Continues attack on holes around king.
+48,b4,b5b4,2r1r1k1/1q3p2/p3p1p1/3pR2p/1p1P1Q1P/P1P5/1P3PP1/4R1K1 w - - 0 25,Traps king in corner by controlling f8 square.
+49,axb4,a3b4,2r1r1k1/1q3p2/p3p1p1/3pR2p/1P1P1Q1P/2P5/1P3PP1/4R1K1 b - - 0 25,Traps king in corner by controlling f8 square.
+50,a5,a6a5,2r1r1k1/1q3p2/4p1p1/p2pR2p/1P1P1Q1P/2P5/1P3PP1/4R1K1 w - - 0 26,Traps king in corner by controlling f8 square.
+51,Qh6,f4h6,2r1r1k1/1q3p2/4p1pQ/p2pR2p/1P1P3P/2P5/1P3PP1/4R1K1 b - - 1 26,Traps king in corner by controlling f8 square.
+52,Qe7,b7e7,2r1r1k1/4qp2/4p1pQ/p2pR2p/1P1P3P/2P5/1P3PP1/4R1K1 w - - 2 27,Best move to play.
+53,bxa5,b4a5,2r1r1k1/4qp2/4p1pQ/P2pR2p/3P3P/2P5/1P3PP1/4R1K1 b - - 0 27,Creates mating threats.
+54,Qxh4,e7h4,2r1r1k1/5p2/4p1pQ/P2pR2p/3P3q/2P5/1P3PP1/4R1K1 w - - 0 28,Creates mating threats.
+55,Re1e3,e1e3,2r1r1k1/5p2/4p1pQ/P2pR2p/3P3q/2P1R3/1P3PP1/6K1 b - - 1 28,Creates mating threats.
+56,Rc6,c8c6,4r1k1/5p2/2r1p1pQ/P2pR2p/3P3q/2P1R3/1P3PP1/6K1 w - - 2 29,Rooks are useless in this position.
+57,Rh3,e3h3,4r1k1/5p2/2r1p1pQ/P2pR2p/3P3q/2P4R/1P3PP1/6K1 b - - 3 29,Attacks queen.
+58,Qf6,h4f6,4r1k1/5p2/2r1pqpQ/P2pR2p/3P4/2P4R/1P3PP1/6K1 w - - 4 30,Perhaps to put queen on g7.

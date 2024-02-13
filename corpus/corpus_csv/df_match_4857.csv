@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Here I'm playing black with the modern defense. It's a blitz game timed 5min+15.
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Here I'm playing black with the modern defense. It's a blitz game timed 5min+15.
+3,c4,c2c4,rnbqkbnr/pppppp1p/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,White want to transpose it to a normal King's Indian game.
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,White want to transpose it to a normal King's Indian game.
+5,e4,e2e4,rnbqk1nr/ppppppbp/6p1/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,White want to transpose it to a normal King's Indian game.
+6,d6,d7d6,rnbqk1nr/ppp1ppbp/3p2p1/8/2PPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,Continuation of my plan.
+7,Nc3,b1c3,rnbqk1nr/ppp1ppbp/3p2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 1 4,Continuation of my plan.
+8,e5,e7e5,rnbqk1nr/ppp2pbp/3p2p1/4p3/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Continuation of my plan.
+9,d5,d4d5,rnbqk1nr/ppp2pbp/3p2p1/3Pp3/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,Now it looklike really to a King's Indian game.
+10,Nf6,g8f6,rnbqk2r/ppp2pbp/3p1np1/3Pp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 6,Now it looklike really to a King's Indian game.
+11,Bg5,c1g5,rnbqk2r/ppp2pbp/3p1np1/3Pp1B1/2P1P3/2N5/PP3PPP/R2QKBNR b KQkq - 2 6,Trying to open the queen side.
+12,O-O,e8g8,rnbq1rk1/ppp2pbp/3p1np1/3Pp1B1/2P1P3/2N5/PP3PPP/R2QKBNR w KQ - 3 7,Trying to open the queen side.
+13,Be2,f1e2,rnbq1rk1/ppp2pbp/3p1np1/3Pp1B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 4 7,Trying to open the queen side.
+14,c6,c7c6,rnbq1rk1/pp3pbp/2pp1np1/3Pp1B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8,Trying to open the queen side.
+15,Nf3,g1f3,rnbq1rk1/pp3pbp/2pp1np1/3Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 1 8,Pawn exchange. Now I've got some space.
+16,cxd5,c6d5,rnbq1rk1/pp3pbp/3p1np1/3pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 9,Pawn exchange. Now I've got some space.
+17,cxd5,c4d5,rnbq1rk1/pp3pbp/3p1np1/3Pp1B1/4P3/2N2N2/PP2BPPP/R2QK2R b KQ - 0 9,Pawn exchange. Now I've got some space.
+18,h6,h7h6,rnbq1rk1/pp3pb1/3p1npp/3Pp1B1/4P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 10,"Probably not the best move. But I wanted to try to expand my king side to test it! Anyway d and e file closing some space for white, so there's not that much problems doing so (it sometime happen in higher ranking). Maybe it would have been wiser to wait until white have castled before doing it."
+19,Bh4,g5h4,rnbq1rk1/pp3pb1/3p1npp/3Pp3/4P2B/2N2N2/PP2BPPP/R2QK2R b KQ - 1 10,Continuation of my plan.
+20,g5,g6g5,rnbq1rk1/pp3pb1/3p1n1p/3Pp1p1/4P2B/2N2N2/PP2BPPP/R2QK2R w KQ - 0 11,Continuation of my plan.
+21,Bg3,h4g3,rnbq1rk1/pp3pb1/3p1n1p/3Pp1p1/4P3/2N2NB1/PP2BPPP/R2QK2R b KQ - 1 11,Continuation of my plan.
+22,Nh5,f6h5,rnbq1rk1/pp3pb1/3p3p/3Pp1pn/4P3/2N2NB1/PP2BPPP/R2QK2R w KQ - 2 12,Now the bishop have no issues.
+23,Qd2,d1d2,rnbq1rk1/pp3pb1/3p3p/3Pp1pn/4P3/2N2NB1/PP1QBPPP/R3K2R b KQ - 3 12,Probably thinking to castle on the queen side + his queen is now ready to get the g pawn.
+24,Bf6,g7f6,rnbq1rk1/pp3p2/3p1b1p/3Pp1pn/4P3/2N2NB1/PP1QBPPP/R3K2R w KQ - 4 13,The castle on the king side is cancelled for now.
+25,Ng1,f3g1,rnbq1rk1/pp3p2/3p1b1p/3Pp1pn/4P3/2N3B1/PP1QBPPP/R3K1NR b KQ - 5 13,The castle on the king side is cancelled for now.
+26,Nf4,h5f4,rnbq1rk1/pp3p2/3p1b1p/3Pp1p1/4Pn2/2N3B1/PP1QBPPP/R3K1NR w KQ - 6 14,Ready to take the g2 pawn and giving some space to move my h pawn.
+27,Bxf4,g3f4,rnbq1rk1/pp3p2/3p1b1p/3Pp1p1/4PB2/2N5/PP1QBPPP/R3K1NR b KQ - 0 14,White is taking.  Bf1 would have been better I think.
+28,exf4,e5f4,rnbq1rk1/pp3p2/3p1b1p/3P2p1/4Pp2/2N5/PP1QBPPP/R3K1NR w KQ - 0 15,Blocking the development for white and giving an open line for my bishop. It sure this plan have some risks.
+29,g3,g2g3,rnbq1rk1/pp3p2/3p1b1p/3P2p1/4Pp2/2N3P1/PP1QBP1P/R3K1NR b KQ - 0 15,Now my bishop is almost immovable and not only I'm hunting the queen but I'm blocking the way for a castle on the queen side.
+30,Be5,f6e5,rnbq1rk1/pp3p2/3p3p/3Pb1p1/4Pp2/2N3P1/PP1QBP1P/R3K1NR w KQ - 1 16,Now my bishop is almost immovable and not only I'm hunting the queen but I'm blocking the way for a castle on the queen side.
+31,gxf4,g3f4,rnbq1rk1/pp3p2/3p3p/3Pb1p1/4PP2/2N5/PP1QBP1P/R3K1NR b KQ - 0 16,Now my bishop is almost immovable and not only I'm hunting the queen but I'm blocking the way for a castle on the queen side.
+32,Bxf4,e5f4,rnbq1rk1/pp3p2/3p3p/3P2p1/4Pb2/2N5/PP1QBP1P/R3K1NR w KQ - 0 17,Now my bishop is almost immovable and not only I'm hunting the queen but I'm blocking the way for a castle on the queen side.
+33,Qd3,d2d3,rnbq1rk1/pp3p2/3p3p/3P2p1/4Pb2/2NQ4/PP2BP1P/R3K1NR b KQ - 1 17,Threatening b2 with my queen.Maybe it would have been better for me to move my knight.
+34,Qb6,d8b6,rnb2rk1/pp3p2/1q1p3p/3P2p1/4Pb2/2NQ4/PP2BP1P/R3K1NR w KQ - 2 18,Threatening b2 with my queen.Maybe it would have been better for me to move my knight.
+35,b3,b2b3,rnb2rk1/pp3p2/1q1p3p/3P2p1/4Pb2/1PNQ4/P3BP1P/R3K1NR b KQ - 0 18,Pinning the knight.
+36,Qb4,b6b4,rnb2rk1/pp3p2/3p3p/3P2p1/1q2Pb2/1PNQ4/P3BP1P/R3K1NR w KQ - 1 19,Pinning the knight.
+37,h4,h2h4,rnb2rk1/pp3p2/3p3p/3P2p1/1q2Pb1P/1PNQ4/P3BP2/R3K1NR b KQ - 0 19,! Maybe he should have done it sooner.
+38,Be5,f4e5,rnb2rk1/pp3p2/3p3p/3Pb1p1/1q2P2P/1PNQ4/P3BP2/R3K1NR w KQ - 1 20,Ignoring the move and making more pressure on the knight.
+39,Rc1,a1c1,rnb2rk1/pp3p2/3p3p/3Pb1p1/1q2P2P/1PNQ4/P3BP2/2R1K1NR b K - 2 20,Threatening the rook.
+40,Qa3,b4a3,rnb2rk1/pp3p2/3p3p/3Pb1p1/4P2P/qPNQ4/P3BP2/2R1K1NR w K - 3 21,Threatening the rook.

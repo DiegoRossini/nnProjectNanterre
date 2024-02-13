@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Interesting or a flop?
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Interesting or a flop?
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,Interesting or a flop?
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Interesting or a flop?
+5,c4,c2c4,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,Interesting or a flop?
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Interesting or a flop?
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 4,Interesting or a flop?
+8,d6,d7d6,rnbqkb1r/pp3ppp/3ppn2/2pP4/2P5/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 5,Interesting or a flop?
+9,Nc3,b1c3,rnbqkb1r/pp3ppp/3ppn2/2pP4/2P5/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 5,Interesting or a flop?
+10,Be7,f8e7,rnbqk2r/pp2bppp/3ppn2/2pP4/2P5/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 6,Interesting or a flop?
+11,g4,g2g4,rnbqk2r/pp2bppp/3ppn2/2pP4/2P3P1/2N2N2/PP2PP1P/R1BQKB1R b KQkq - 0 6,Interesting or a flop?
+12,Nxg4,f6g4,rnbqk2r/pp2bppp/3pp3/2pP4/2P3n1/2N2N2/PP2PP1P/R1BQKB1R w KQkq - 0 7,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+13,Rg1,h1g1,rnbqk2r/pp2bppp/3pp3/2pP4/2P3n1/2N2N2/PP2PP1P/R1BQKBR1 b Qkq - 1 7,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+14,exd5,e6d5,rnbqk2r/pp2bppp/3p4/2pp4/2P3n1/2N2N2/PP2PP1P/R1BQKBR1 w Qkq - 0 8,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+15,Qxd5,d1d5,rnbqk2r/pp2bppp/3p4/2pQ4/2P3n1/2N2N2/PP2PP1P/R1B1KBR1 b Qkq - 0 8,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+16,O-O,e8g8,rnbq1rk1/pp2bppp/3p4/2pQ4/2P3n1/2N2N2/PP2PP1P/R1B1KBR1 w Q - 1 9,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+17,Bh3,f1h3,rnbq1rk1/pp2bppp/3p4/2pQ4/2P3n1/2N2N1B/PP2PP1P/R1B1K1R1 b Q - 2 9,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+18,Nd7,b8d7,r1bq1rk1/pp1nbppp/3p4/2pQ4/2P3n1/2N2N1B/PP2PP1P/R1B1K1R1 w Q - 3 10,"If Bxg4, Kf6 recovers the piece with no compensation for white."
+19,Bf4,c1f4,r1bq1rk1/pp1nbppp/3p4/2pQ4/2P2Bn1/2N2N1B/PP2PP1P/R3K1R1 b Q - 4 10,I think the correct one was Bg5.
+20,Nb6,d7b6,r1bq1rk1/pp2bppp/1n1p4/2pQ4/2P2Bn1/2N2N1B/PP2PP1P/R3K1R1 w Q - 5 11,Very dangerous.
+21,Qh5,d5h5,r1bq1rk1/pp2bppp/1n1p4/2p4Q/2P2Bn1/2N2N1B/PP2PP1P/R3K1R1 b Q - 6 11,Very dangerous.
+22,f5,f7f5,r1bq1rk1/pp2b1pp/1n1p4/2p2p1Q/2P2Bn1/2N2N1B/PP2PP1P/R3K1R1 w Q - 0 12,Brilliant or a flop?
+23,O-O-O,e1c1,r1bq1rk1/pp2b1pp/1n1p4/2p2p1Q/2P2Bn1/2N2N1B/PP2PP1P/2KR2R1 b - - 1 12,Brilliant or a flop?
+24,g6,g7g6,r1bq1rk1/pp2b2p/1n1p2p1/2p2p1Q/2P2Bn1/2N2N1B/PP2PP1P/2KR2R1 w - - 0 13,"If g6xQ, 14. Bxh5 , Kh8, 15. Be5  does create danger for black?"
+25,Bxg4,h3g4,r1bq1rk1/pp2b2p/1n1p2p1/2p2p1Q/2P2BB1/2N2N2/PP2PP1P/2KR2R1 b - - 0 13,"If g6xQ, 14. Bxh5 , Kh8, 15. Be5  does create danger for black?"
+26,fxg4,f5g4,r1bq1rk1/pp2b2p/1n1p2p1/2p4Q/2P2Bp1/2N2N2/PP2PP1P/2KR2R1 w - - 0 14,"NOw if g4xNf3, Rxg6 , and if a7xg6, Qxg6 , Kh8, Qh6 , Kg8, Rg1 ... and if Kh8, Rg7 wins."
+27,Qh6,h5h6,r1bq1rk1/pp2b2p/1n1p2pQ/2p5/2P2Bp1/2N2N2/PP2PP1P/2KR2R1 b - - 1 14,"NOw if g4xNf3, Rxg6 , and if a7xg6, Qxg6 , Kh8, Qh6 , Kg8, Rg1 ... and if Kh8, Rg7 wins."
+28,Rxf4,f8f4,r1bq2k1/pp2b2p/1n1p2pQ/2p5/2P2rp1/2N2N2/PP2PP1P/2KR2R1 w - - 0 15,"Due pezzi per una torre, ma le linee aperte per l'attacco."
+29,Qxf4,h6f4,r1bq2k1/pp2b2p/1n1p2p1/2p5/2P2Qp1/2N2N2/PP2PP1P/2KR2R1 b - - 0 15,"Due pezzi per una torre, ma le linee aperte per l'attacco."
+30,gxf3,g4f3,r1bq2k1/pp2b2p/1n1p2p1/2p5/2P2Q2/2N2p2/PP2PP1P/2KR2R1 w - - 0 16,"Due pezzi per una torre, ma le linee aperte per l'attacco."
+31,exf3,e2f3,r1bq2k1/pp2b2p/1n1p2p1/2p5/2P2Q2/2N2P2/PP3P1P/2KR2R1 b - - 0 16,"Due pezzi per una torre, ma le linee aperte per l'attacco."
+32,Bf5,c8f5,r2q2k1/pp2b2p/1n1p2p1/2p2b2/2P2Q2/2N2P2/PP3P1P/2KR2R1 w - - 1 17,"Terrible mistake. Otherwise, white is probably lost."
+33,Qxf5,f4f5,r2q2k1/pp2b2p/1n1p2p1/2p2Q2/2P5/2N2P2/PP3P1P/2KR2R1 b - - 0 17,"Terrible mistake, otherwise, white can fight."
+34,Kh8,g8h8,r2q3k/pp2b2p/1n1p2p1/2p2Q2/2P5/2N2P2/PP3P1P/2KR2R1 w - - 1 18,"Terrible mistake, otherwise, white can fight."
+35,Qf4,f5f4,r2q3k/pp2b2p/1n1p2p1/2p5/2P2Q2/2N2P2/PP3P1P/2KR2R1 b - - 2 18,"Terrible mistake, otherwise, white can fight."
+36,Qf8,d8f8,r4q1k/pp2b2p/1n1p2p1/2p5/2P2Q2/2N2P2/PP3P1P/2KR2R1 w - - 3 19,"Terrible mistake, otherwise, white can fight."
+37,Rg4,g1g4,r4q1k/pp2b2p/1n1p2p1/2p5/2P2QR1/2N2P2/PP3P1P/2KR4 b - - 4 19,"Terrible mistake, otherwise, white can fight."
+38,Qxf4+,f8f4,r6k/pp2b2p/1n1p2p1/2p5/2P2qR1/2N2P2/PP3P1P/2KR4 w - - 0 20,No good move!
+39,Rxf4,g4f4,r6k/pp2b2p/1n1p2p1/2p5/2P2R2/2N2P2/PP3P1P/2KR4 b - - 0 20,No good move!
+40,Bg5,e7g5,r6k/pp5p/1n1p2p1/2p3b1/2P2R2/2N2P2/PP3P1P/2KR4 w - - 1 21,No good move!
+41,Ne2,c3e2,r6k/pp5p/1n1p2p1/2p3b1/2P2R2/5P2/PP2NP1P/2KR4 b - - 2 21,No good move!
+42,Rf8,a8f8,5r1k/pp5p/1n1p2p1/2p3b1/2P2R2/5P2/PP2NP1P/2KR4 w - - 3 22,No good move!
+43,Re1,d1e1,5r1k/pp5p/1n1p2p1/2p3b1/2P2R2/5P2/PP2NP1P/2K1R3 b - - 4 22,No good move!
+44,Nxc4,b6c4,5r1k/pp5p/3p2p1/2p3b1/2n2R2/5P2/PP2NP1P/2K1R3 w - - 0 23,
+45,Kc2,c1c2,5r1k/pp5p/3p2p1/2p3b1/2n2R2/5P2/PPK1NP1P/4R3 b - - 1 23,
+46,Bxf4,g5f4,5r1k/pp5p/3p2p1/2p5/2n2b2/5P2/PPK1NP1P/4R3 w - - 0 24,
+47,h3,h2h3,5r1k/pp5p/3p2p1/2p5/2n2b2/5P1P/PPK1NP2/4R3 b - - 0 24,
+48,Be5,f4e5,5r1k/pp5p/3p2p1/2p1b3/2n5/5P1P/PPK1NP2/4R3 w - - 1 25,
+49,Ng1,e2g1,5r1k/pp5p/3p2p1/2p1b3/2n5/5P1P/PPK2P2/4R1N1 b - - 2 25,
+50,Nxb2,c4b2,5r1k/pp5p/3p2p1/2p1b3/8/5P1P/PnK2P2/4R1N1 w - - 0 26,
+51,Rxe5,e1e5,5r1k/pp5p/3p2p1/2p1R3/8/5P1P/PnK2P2/6N1 b - - 0 26,
+52,dxe5,d6e5,5r1k/pp5p/6p1/2p1p3/8/5P1P/PnK2P2/6N1 w - - 0 27,
+53,Kxb2,c2b2,5r1k/pp5p/6p1/2p1p3/8/5P1P/PK3P2/6N1 b - - 0 27,
+54,b5,b7b5,5r1k/p6p/6p1/1pp1p3/8/5P1P/PK3P2/6N1 w - - 0 28,

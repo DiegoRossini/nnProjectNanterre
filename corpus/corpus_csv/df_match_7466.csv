@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I go for a kings indian defence setup
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,I go for a kings indian defence setup
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,c4 and Nc3 makes more sense.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Loses a pawn for nothing
+5,e4,e2e4,rnbqkb1r/pppppp1p/5np1/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Loses a pawn for nothing
+6,Nxe4,f6e4,rnbqkb1r/pppppp1p/6p1/8/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"If dxc5 Bxb2, I win the rook."
+7,Be3,c1e3,rnbqkb1r/pppppp1p/6p1/8/3Pn3/4BN2/PPP2PPP/RN1QKB1R b KQkq - 1 4,"If dxc5 Bxb2, I win the rook."
+8,Bg7,f8g7,rnbqk2r/ppppppbp/6p1/8/3Pn3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 2 5,"If dxc5 Bxb2, I win the rook."
+9,Bc4,f1c4,rnbqk2r/ppppppbp/6p1/8/2BPn3/4BN2/PPP2PPP/RN1QK2R b KQkq - 3 5,"If dxc5 Bxb2, I win the rook."
+10,O-O,e8g8,rnbq1rk1/ppppppbp/6p1/8/2BPn3/4BN2/PPP2PPP/RN1QK2R w KQ - 4 6,"If dxc5 Bxb2, I win the rook."
+11,Bd3,c4d3,rnbq1rk1/ppppppbp/6p1/8/3Pn3/3BBN2/PPP2PPP/RN1QK2R b KQ - 5 6,"If dxc5 Bxb2, I win the rook."
+12,Nc5,e4c5,rnbq1rk1/ppppppbp/6p1/2n5/3P4/3BBN2/PPP2PPP/RN1QK2R w KQ - 6 7,"If dxc5 Bxb2, I win the rook."
+13,Bc4,d3c4,rnbq1rk1/ppppppbp/6p1/2n5/2BP4/4BN2/PPP2PPP/RN1QK2R b KQ - 7 7,Planning Ne4 and Ndf6
+14,d5,d7d5,rnbq1rk1/ppp1ppbp/6p1/2np4/2BP4/4BN2/PPP2PPP/RN1QK2R w KQ - 0 8,Planning Ne4 and Ndf6
+15,Be2,c4e2,rnbq1rk1/ppp1ppbp/6p1/2np4/3P4/4BN2/PPP1BPPP/RN1QK2R b KQ - 1 8,Planning Ne4 and Ndf6
+16,Nbd7,b8d7,r1bq1rk1/pppnppbp/6p1/2np4/3P4/4BN2/PPP1BPPP/RN1QK2R w KQ - 2 9,Planning Ne4 and Ndf6
+17,Nc3,b1c3,r1bq1rk1/pppnppbp/6p1/2np4/3P4/2N1BN2/PPP1BPPP/R2QK2R b KQ - 3 9,Now I have to save the knight and the pawn.
+18,Ne4,c5e4,r1bq1rk1/pppnppbp/6p1/3p4/3Pn3/2N1BN2/PPP1BPPP/R2QK2R w KQ - 4 10,"I didn't have anything planned if he took the pawn. Ndf6 looks OK, activating my light-squared bishop."
+19,Nxe4,c3e4,r1bq1rk1/pppnppbp/6p1/3p4/3PN3/4BN2/PPP1BPPP/R2QK2R b KQ - 0 10,I'm not worried about the attack on f7
+20,dxe4,d5e4,r1bq1rk1/pppnppbp/6p1/8/3Pp3/4BN2/PPP1BPPP/R2QK2R w KQ - 0 11,I'm not worried about the attack on f7
+21,Ng5,f3g5,r1bq1rk1/pppnppbp/6p1/6N1/3Pp3/4B3/PPP1BPPP/R2QK2R b KQ - 1 11,I'm not worried about the attack on f7
+22,Nf6,d7f6,r1bq1rk1/ppp1ppbp/5np1/6N1/3Pp3/4B3/PPP1BPPP/R2QK2R w KQ - 2 12,I'm not worried about the attack on f7
+23,Bc4,e2c4,r1bq1rk1/ppp1ppbp/5np1/6N1/2BPp3/4B3/PPP2PPP/R2QK2R b KQ - 3 12,I'm not worried about the attack on f7
+24,e6,e7e6,r1bq1rk1/ppp2pbp/4pnp1/6N1/2BPp3/4B3/PPP2PPP/R2QK2R w KQ - 0 13,Kicking out the knight
+25,O-O,e1g1,r1bq1rk1/ppp2pbp/4pnp1/6N1/2BPp3/4B3/PPP2PPP/R2Q1RK1 b - - 1 13,Kicking out the knight
+26,h6,h7h6,r1bq1rk1/ppp2pb1/4pnpp/6N1/2BPp3/4B3/PPP2PPP/R2Q1RK1 w - - 0 14,Kicking out the knight
+27,Nxe4,g5e4,r1bq1rk1/ppp2pb1/4pnpp/8/2BPN3/4B3/PPP2PPP/R2Q1RK1 b - - 0 14,At least Nh3 doesn't lose a knight.
+28,Nxe4,f6e4,r1bq1rk1/ppp2pb1/4p1pp/8/2BPn3/4B3/PPP2PPP/R2Q1RK1 w - - 0 15,Gaining time by hitting the bishop
+29,f3,f2f3,r1bq1rk1/ppp2pb1/4p1pp/8/2BPn3/4BP2/PPP3PP/R2Q1RK1 b - - 0 15,Gaining time by hitting the bishop
+30,Nd6,e4d6,r1bq1rk1/ppp2pb1/3np1pp/8/2BP4/4BP2/PPP3PP/R2Q1RK1 w - - 1 16,Gaining time by hitting the bishop
+31,Bd3,c4d3,r1bq1rk1/ppp2pb1/3np1pp/8/3P4/3BBP2/PPP3PP/R2Q1RK1 b - - 2 16,And then I hit the other bishop
+32,Nf5,d6f5,r1bq1rk1/ppp2pb1/4p1pp/5n2/3P4/3BBP2/PPP3PP/R2Q1RK1 w - - 3 17,And then I hit the other bishop
+33,Bf2,e3f2,r1bq1rk1/ppp2pb1/4p1pp/5n2/3P4/3B1P2/PPP2BPP/R2Q1RK1 b - - 4 17,Planning Nh4
+34,Qg5,d8g5,r1b2rk1/ppp2pb1/4p1pp/5nq1/3P4/3B1P2/PPP2BPP/R2Q1RK1 w - - 5 18,Planning Nh4
+35,g4,g2g4,r1b2rk1/ppp2pb1/4p1pp/5nq1/3P2P1/3B1P2/PPP2B1P/R2Q1RK1 b - - 0 18,Re1 and Bf1 defends the mate threat. This just pins the pawn.
+36,h5,h6h5,r1b2rk1/ppp2pb1/4p1p1/5nqp/3P2P1/3B1P2/PPP2B1P/R2Q1RK1 w - - 0 19,So I attack it
+37,h4,h2h4,r1b2rk1/ppp2pb1/4p1p1/5nqp/3P2PP/3B1P2/PPP2B2/R2Q1RK1 b - - 0 19,Loses another pawn
+38,Nxh4,f5h4,r1b2rk1/ppp2pb1/4p1p1/6qp/3P2Pn/3B1P2/PPP2B2/R2Q1RK1 w - - 0 20,Rh1 upsets my attack
+39,Bxh4,f2h4,r1b2rk1/ppp2pb1/4p1p1/6qp/3P2PB/3B1P2/PPP5/R2Q1RK1 b - - 0 20,Rh1 upsets my attack
+40,Qxh4,g5h4,r1b2rk1/ppp2pb1/4p1p1/7p/3P2Pq/3B1P2/PPP5/R2Q1RK1 w - - 0 21,Rh1 upsets my attack
+41,Kg2,g1g2,r1b2rk1/ppp2pb1/4p1p1/7p/3P2Pq/3B1P2/PPP3K1/R2Q1R2 b - - 1 21,Rh1 upsets my attack
+42,c5,c7c5,r1b2rk1/pp3pb1/4p1p1/2p4p/3P2Pq/3B1P2/PPP3K1/R2Q1R2 w - - 0 22,Hoping to get my bishop into the attack
+43,Rh1,f1h1,r1b2rk1/pp3pb1/4p1p1/2p4p/3P2Pq/3B1P2/PPP3K1/R2Q3R b - - 1 22,Pin the pawn again while I decide what to do
+44,Qg5,h4g5,r1b2rk1/pp3pb1/4p1p1/2p3qp/3P2P1/3B1P2/PPP3K1/R2Q3R w - - 2 23,Pin the pawn again while I decide what to do
+45,Be2,d3e2,r1b2rk1/pp3pb1/4p1p1/2p3qp/3P2P1/5P2/PPP1B1K1/R2Q3R b - - 3 23,This bishop becomes annoying for me

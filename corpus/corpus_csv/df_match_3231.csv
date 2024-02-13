@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"my preferred bird opening, that explain the tittle ...."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"""Mujannah opening"" not easy to assume but it often make the surprise"
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq - 0 2,"""Mujannah opening"" not easy to assume but it often make the surprise"
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR w KQkq - 0 3,this is the problem m with this variation : e4 is weak
+5,d4,d2d4,rnbqkbnr/pp2pppp/2p5/3p4/2PP1P2/8/PP2P1PP/RNBQKBNR b KQkq - 0 3,this is the problem m with this variation : e4 is weak
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3p1b2/2PP1P2/8/PP2P1PP/RNBQKBNR w KQkq - 1 4,this is the problem m with this variation : e4 is weak
+7,Nf3,g1f3,rn1qkbnr/pp2pppp/2p5/3p1b2/2PP1P2/5N2/PP2P1PP/RNBQKB1R b KQkq - 2 4,this is the problem m with this variation : e4 is weak
+8,Nf6,g8f6,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP1P2/5N2/PP2P1PP/RNBQKB1R w KQkq - 3 5,this is the problem m with this variation : e4 is weak
+9,Nc3,b1c3,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP1P2/2N2N2/PP2P1PP/R1BQKB1R b KQkq - 4 5,"in case of exchange, i will loose anyway the occupation of e4"
+10,dxc4,d5c4,rn1qkb1r/pp2pppp/2p2n2/5b2/2pP1P2/2N2N2/PP2P1PP/R1BQKB1R w KQkq - 0 6,"in order to retake 4, but black will play B5"
+11,e3,e2e3,rn1qkb1r/pp2pppp/2p2n2/5b2/2pP1P2/2N1PN2/PP4PP/R1BQKB1R b KQkq - 0 6,"in order to retake 4, but black will play B5"
+12,b5,b7b5,rn1qkb1r/p3pppp/2p2n2/1p3b2/2pP1P2/2N1PN2/PP4PP/R1BQKB1R w KQkq - 0 7,risking B5 B4
+13,a4,a2a4,rn1qkb1r/p3pppp/2p2n2/1p3b2/P1pP1P2/2N1PN2/1P4PP/R1BQKB1R b KQkq - 0 7,risking B5 B4
+14,b4,b5b4,rn1qkb1r/p3pppp/2p2n2/5b2/PppP1P2/2N1PN2/1P4PP/R1BQKB1R w KQkq - 0 8,"was the  best answer, so my knight is in trouble but i can retake c4 again. so i plan to bring my c3 knight to the king side in order to attack black castle for after"
+15,Ne2,c3e2,rn1qkb1r/p3pppp/2p2n2/5b2/PppP1P2/4PN2/1P2N1PP/R1BQKB1R b KQkq - 1 8,and repulse the black lsb
+16,Qa5,d8a5,rn2kb1r/p3pppp/2p2n2/q4b2/PppP1P2/4PN2/1P2N1PP/R1BQKB1R w KQkq - 2 9,and repulse the black lsb
+17,Ng3,e2g3,rn2kb1r/p3pppp/2p2n2/q4b2/PppP1P2/4PNN1/1P4PP/R1BQKB1R b KQkq - 3 9,and repulse the black lsb
+18,Be6,f5e6,rn2kb1r/p3pppp/2p1bn2/q7/PppP1P2/4PNN1/1P4PP/R1BQKB1R w KQkq - 4 10,ok but i have a big problem on queen side and my bishops are blocked
+19,Be2,f1e2,rn2kb1r/p3pppp/2p1bn2/q7/PppP1P2/4PNN1/1P2B1PP/R1BQK2R b KQkq - 5 10,to castle
+20,g6,g7g6,rn2kb1r/p3pp1p/2p1bnp1/q7/PppP1P2/4PNN1/1P2B1PP/R1BQK2R w KQkq - 0 11,preparing fianchetto
+21,O-O,e1g1,rn2kb1r/p3pp1p/2p1bnp1/q7/PppP1P2/4PNN1/1P2B1PP/R1BQ1RK1 b kq - 1 11,preparing castle
+22,Bg7,f8g7,rn2k2r/p3ppbp/2p1bnp1/q7/PppP1P2/4PNN1/1P2B1PP/R1BQ1RK1 w kq - 2 12,preparing castle
+23,Bd2,c1d2,rn2k2r/p3ppbp/2p1bnp1/q7/PppP1P2/4PNN1/1P1BB1PP/R2Q1RK1 b kq - 3 12,"preventing b3, this was a mistake met with c3 !"
+24,c3,c4c3,rn2k2r/p3ppbp/2p1bnp1/q7/Pp1P1P2/2p1PNN1/1P1BB1PP/R2Q1RK1 w kq - 0 13,"so  i  have to retreat and live there a black pawn in line 3, this smell burnt..."
+25,bxc3,b2c3,rn2k2r/p3ppbp/2p1bnp1/q7/Pp1P1P2/2P1PNN1/3BB1PP/R2Q1RK1 b kq - 0 13,"so  i  have to retreat and live there a black pawn in line 3, this smell burnt..."
+26,bxc3,b4c3,rn2k2r/p3ppbp/2p1bnp1/q7/P2P1P2/2p1PNN1/3BB1PP/R2Q1RK1 w kq - 0 14,"so  i  have to retreat and live there a black pawn in line 3, this smell burnt..."
+27,Be1,d2e1,rn2k2r/p3ppbp/2p1bnp1/q7/P2P1P2/2p1PNN1/4B1PP/R2QBRK1 b kq - 1 14,the real problem of that is that now E3 is not protected and i risk a knight fork
+28,Nd5,f6d5,rn2k2r/p3ppbp/2p1b1p1/q2n4/P2P1P2/2p1PNN1/4B1PP/R2QBRK1 w kq - 2 15,"i should saw it, but i didn't and this was my big loosing blunder. But continuing the game i return the situation and finish mating him, would you believe it ?"
+29,Ne5,f3e5,rn2k2r/p3ppbp/2p1b1p1/q2nN3/P2P1P2/2p1P1N1/4B1PP/R2QBRK1 b kq - 3 15,??? maybe just something like Qc1 was enough to refute the fork threat
+30,Nxe3,d5e3,rn2k2r/p3ppbp/2p1b1p1/q3N3/P2P1P2/2p1n1N1/4B1PP/R2QBRK1 w kq - 0 16,loosing a rook ! at this time i tough the game was lost : normally with strong opponent it s very rare to recover from such a loss
+31,Qd3,d1d3,rn2k2r/p3ppbp/2p1b1p1/q3N3/P2P1P2/2pQn1N1/4B1PP/R3BRK1 b kq - 1 16,loosing a rook ! at this time i tough the game was lost : normally with strong opponent it s very rare to recover from such a loss
+32,Nxf1,e3f1,rn2k2r/p3ppbp/2p1b1p1/q3N3/P2P1P2/2pQ2N1/4B1PP/R3BnK1 w kq - 0 17,one good thing in all that is that I can finally retake this bloody C3 pawn !
+33,Bxf1,e2f1,rn2k2r/p3ppbp/2p1b1p1/q3N3/P2P1P2/2pQ2N1/6PP/R3BBK1 b kq - 0 17,one good thing in all that is that I can finally retake this bloody C3 pawn !
+34,O-O,e8g8,rn3rk1/p3ppbp/2p1b1p1/q3N3/P2P1P2/2pQ2N1/6PP/R3BBK1 w - - 1 18,one good thing in all that is that I can finally retake this bloody C3 pawn !
+35,Bxc3,e1c3,rn3rk1/p3ppbp/2p1b1p1/q3N3/P2P1P2/2BQ2N1/6PP/R4BK1 b - - 0 18,one good thing in all that is that I can finally retake this bloody C3 pawn !
+36,Qc7,a5c7,rn3rk1/p1q1ppbp/2p1b1p1/4N3/P2P1P2/2BQ2N1/6PP/R4BK1 w - - 1 19,"now blacks are missing plan because instead of my big blunder, i had resist. this is the opportunity to retake the initiative or, at least, the prepare some terrible plan"

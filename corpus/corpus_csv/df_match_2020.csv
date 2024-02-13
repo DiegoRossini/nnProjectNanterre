@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Game in the centre.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Game in the centre.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Typical Damiano's defence opening by black.
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Typical Damiano's defence opening by black.
+5,Nxe5,f3e5,rnbqkbnr/pppp2pp/5p2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"Firstly this looks like a blunder, but just in a second white's intention becomes much more clearer."
+6,fxe5,f6e5,rnbqkbnr/pppp2pp/8/4p3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"Black goes for the knight, but opens widely his kingside white diagonal."
+7,Qh5+,d1h5,rnbqkbnr/pppp2pp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 1 4,Here comes trouble...
+8,g6,g7g6,rnbqkbnr/pppp3p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 0 5,No much choice left to black to deffend here. The rook is already out of the game:(
+9,Qxe5+,h5e5,rnbqkbnr/pppp3p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 0 5,Let's try to trap this queen...
+10,Qe7,d8e7,rnb1kbnr/ppppq2p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 1 6,Let's try to trap this queen...
+11,Qxh8,e5h8,rnb1kbnQ/ppppq2p/6p1/8/4P3/8/PPPP1PPP/RNB1KB1R b KQq - 0 6,Let's try to trap this queen...
+12,Nf6,g8f6,rnb1kb1Q/ppppq2p/5np1/8/4P3/8/PPPP1PPP/RNB1KB1R w KQq - 1 7,Let's try to trap this queen...
+13,d3,d2d3,rnb1kb1Q/ppppq2p/5np1/8/4P3/3P4/PPP2PPP/RNB1KB1R b KQq - 0 7,Good move by white covering the center pawn.
+14,d5,d7d5,rnb1kb1Q/ppp1q2p/5np1/3p4/4P3/3P4/PPP2PPP/RNB1KB1R w KQq - 0 8,Keeping the presure in the center.
+15,Bh6,c1h6,rnb1kb1Q/ppp1q2p/5npB/3p4/4P3/3P4/PPP2PPP/RN2KB1R b KQq - 1 8,White wants to get his queen whole out of the corner.
+16,Nbd7,b8d7,r1b1kb1Q/pppnq2p/5npB/3p4/4P3/3P4/PPP2PPP/RN2KB1R w KQq - 2 9,Developing move which covers important positions in the center.
+17,Nc3,b1c3,r1b1kb1Q/pppnq2p/5npB/3p4/4P3/2NP4/PPP2PPP/R3KB1R b KQq - 3 9,The black center is attacked.
+18,c6,c7c6,r1b1kb1Q/pp1nq2p/2p2npB/3p4/4P3/2NP4/PPP2PPP/R3KB1R w KQq - 0 10,...and covered.
+19,O-O-O,e1c1,r1b1kb1Q/pp1nq2p/2p2npB/3p4/4P3/2NP4/PPP2PPP/2KR1B1R b q - 1 10,White decides to castle Queenside.
+20,Ng4,f6g4,r1b1kb1Q/pp1nq2p/2p3pB/3p4/4P1n1/2NP4/PPP2PPP/2KR1B1R w q - 2 11,"The queen is free to flee, but black wants at least the bishop in return for the given rook."
+21,Qd4,h8d4,r1b1kb2/pp1nq2p/2p3pB/3p4/3QP1n1/2NP4/PPP2PPP/2KR1B1R b q - 3 11,And black gets it with a chess.
+22,Bxh6+,f8h6,r1b1k3/pp1nq2p/2p3pb/3p4/3QP1n1/2NP4/PPP2PPP/2KR1B1R w q - 0 12,And black gets it with a chess.
+23,Kb1,c1b1,r1b1k3/pp1nq2p/2p3pb/3p4/3QP1n1/2NP4/PPP2PPP/1K1R1B1R b q - 1 12,Back to the queen.
+24,Bg7,h6g7,r1b1k3/pp1nq1bp/2p3p1/3p4/3QP1n1/2NP4/PPP2PPP/1K1R1B1R w q - 2 13,Back to the queen.
+25,e5,e4e5,r1b1k3/pp1nq1bp/2p3p1/3pP3/3Q2n1/2NP4/PPP2PPP/1K1R1B1R b q - 0 13,Way too many black pieces are pointed on this sqare for white to hope covering it with this move.
+26,Ndxe5,d7e5,r1b1k3/pp2q1bp/2p3p1/3pn3/3Q2n1/2NP4/PPP2PPP/1K1R1B1R w q - 0 14,Not a bad move by white endangering the e file with the King's family and escaping the knight's fork.
+27,Re1,d1e1,r1b1k3/pp2q1bp/2p3p1/3pn3/3Q2n1/2NP4/PPP2PPP/1K2RB1R b q - 1 14,Not a bad move by white endangering the e file with the King's family and escaping the knight's fork.
+28,Be6,c8e6,r3k3/pp2q1bp/2p1b1p1/3pn3/3Q2n1/2NP4/PPP2PPP/1K2RB1R w q - 2 15,Covering and opening for castling.

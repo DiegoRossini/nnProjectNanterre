@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A sicilian najdorf in which black missteps early and resigns after move 13. Not much annotation here as the moves are pretty self-evident.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A sicilian najdorf in which black missteps early and resigns after move 13. Not much annotation here as the moves are pretty self-evident.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Najdorf.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Najdorf.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Najdorf.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Najdorf.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Najdorf.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Najdorf.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Najdorf.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Najdorf.
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,"I had been playing 6. Be2 recently against the najdorf and wanted to try something new, but didn't want to go in for the sharp play following 6. Bg5 yet."
+12,e5,e7e5,rnbqkb1r/1p3ppp/p2p1n2/4p3/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,?? Blunder
+13,Nb3,d4b3,rnbqkb1r/1p3ppp/p2p1n2/4p3/4P3/1NN1B3/PPP2PPP/R2QKB1R b KQkq - 1 7,?? Blunder
+14,Nc6,b8c6,r1bqkb1r/1p3ppp/p1np1n2/4p3/4P3/1NN1B3/PPP2PPP/R2QKB1R w KQkq - 2 8,?? Blunder
+15,f3,f2f3,r1bqkb1r/1p3ppp/p1np1n2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 0 8,?? Blunder
+16,Be6,c8e6,r2qkb1r/1p3ppp/p1npbn2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R w KQkq - 1 9,?? Blunder
+17,Nd5,c3d5,r2qkb1r/1p3ppp/p1npbn2/3Np3/4P3/1N2BP2/PPP3PP/R2QKB1R b KQkq - 2 9,?? Blunder
+18,a5,a6a5,r2qkb1r/1p3ppp/2npbn2/p2Np3/4P3/1N2BP2/PPP3PP/R2QKB1R w KQkq - 0 10,?? Blunder
+19,Bb6,e3b6,r2qkb1r/1p3ppp/1Bnpbn2/p2Np3/4P3/1N3P2/PPP3PP/R2QKB1R b KQkq - 1 10,! Correctly exploiting Black's mistake.
+20,Qd7,d8d7,r3kb1r/1p1q1ppp/1Bnpbn2/p2Np3/4P3/1N3P2/PPP3PP/R2QKB1R w KQkq - 2 11,"? This move deserves a question mark, though perhaps not two, for after this White cannot even win the exchange back, but rather gives the rook up for nothing."
+21,Nc7+,d5c7,r3kb1r/1pNq1ppp/1Bnpbn2/p3p3/4P3/1N3P2/PPP3PP/R2QKB1R b KQkq - 3 11,Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here.
+22,Ke7,e8e7,r4b1r/1pNqkppp/1Bnpbn2/p3p3/4P3/1N3P2/PPP3PP/R2QKB1R w KQ - 4 12,Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here.
+23,Nxa8,c7a8,N4b1r/1p1qkppp/1Bnpbn2/p3p3/4P3/1N3P2/PPP3PP/R2QKB1R b KQ - 0 12,Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here.
+24,Ne8,f6e8,N3nb1r/1p1qkppp/1Bnpb3/p3p3/4P3/1N3P2/PPP3PP/R2QKB1R w KQ - 1 13,Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here.
+25,Be3,b6e3,N3nb1r/1p1qkppp/2npb3/p3p3/4P3/1N2BP2/PPP3PP/R2QKB1R b KQ - 2 13,Now the knight can escape to b6. If black had earlier tried 12... Qc8 13. Nc7 and white can chose where to put his knight again. Black resigns here.

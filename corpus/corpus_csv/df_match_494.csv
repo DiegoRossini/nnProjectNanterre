@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g3,g2g3,rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1,A game to look at and see what went wrong.  Or can someone tell me how to get rid of a bishop at h3.  Probably the answer is to avoid allowing the bishop to get there in the first place.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2,I began with g3 ready to bring my LB to g7 and black went with e5.
+3,e4,e2e4,rnbqkbnr/pppp1ppp/8/4p3/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2,I moved my pawn to e4 and black developed his DB to e7.
+4,Be7,f8e7,rnbqk1nr/ppppbppp/8/4p3/4P3/6P1/PPPP1P1P/RNBQKBNR w KQkq - 1 3,I moved my pawn to e4 and black developed his DB to e7.
+5,d3,d2d3,rnbqk1nr/ppppbppp/8/4p3/4P3/3P2P1/PPP2P1P/RNBQKBNR b KQkq - 0 3,Now I supported my e4 pawn with d3 and black developed his knight to d6 and he is ready to castle.  I on the other hand have not developed any pieces but I do have my DB and my queen on 2 open diagonals.
+6,Nf6,g8f6,rnbqk2r/ppppbppp/5n2/4p3/4P3/3P2P1/PPP2P1P/RNBQKBNR w KQkq - 1 4,Now I supported my e4 pawn with d3 and black developed his knight to d6 and he is ready to castle.  I on the other hand have not developed any pieces but I do have my DB and my queen on 2 open diagonals.
+7,Be2,f1e2,rnbqk2r/ppppbppp/5n2/4p3/4P3/3P2P1/PPP1BP1P/RNBQK1NR b KQkq - 2 4,Now I develop my LB to e2 and black castles.
+8,O-O,e8g8,rnbq1rk1/ppppbppp/5n2/4p3/4P3/3P2P1/PPP1BP1P/RNBQK1NR w KQ - 3 5,Now I develop my LB to e2 and black castles.
+9,Nh3,g1h3,rnbq1rk1/ppppbppp/5n2/4p3/4P3/3P2PN/PPP1BP1P/RNBQK2R b KQ - 4 5,I develop my knight to h3 which allows me to castle but I do not have any protection for my knight.  Black then pushes his pawn out to d6 so his LB is pointing at my knight on h3.
+10,d6,d7d6,rnbq1rk1/ppp1bppp/3p1n2/4p3/4P3/3P2PN/PPP1BP1P/RNBQK2R w KQ - 0 6,I develop my knight to h3 which allows me to castle but I do not have any protection for my knight.  Black then pushes his pawn out to d6 so his LB is pointing at my knight on h3.
+11,O-O,e1g1,rnbq1rk1/ppp1bppp/3p1n2/4p3/4P3/3P2PN/PPP1BP1P/RNBQ1RK1 b - - 1 6,I castled but probably should have redirected my h knight to g5 as black captured my h knight with the LB.
+12,Bxh3,c8h3,rn1q1rk1/ppp1bppp/3p1n2/4p3/4P3/3P2Pb/PPP1BP1P/RNBQ1RK1 w - - 0 7,I castled but probably should have redirected my h knight to g5 as black captured my h knight with the LB.
+13,Re1,f1e1,rn1q1rk1/ppp1bppp/3p1n2/4p3/4P3/3P2Pb/PPP1BP1P/RNBQR1K1 b - - 1 7,I move my rook out of the LB's reach to e1 and black now moves his queen down to d7 supporting the LB at h3.
+14,Qd7,d8d7,rn3rk1/pppqbppp/3p1n2/4p3/4P3/3P2Pb/PPP1BP1P/RNBQR1K1 w - - 2 8,I move my rook out of the LB's reach to e1 and black now moves his queen down to d7 supporting the LB at h3.
+15,Bf3,e2f3,rn3rk1/pppqbppp/3p1n2/4p3/4P3/3P1BPb/PPP2P1P/RNBQR1K1 b - - 3 8,I develop my LB to f3 and black moves his f knight to g4.
+16,Ng4,f6g4,rn3rk1/pppqbppp/3p4/4p3/4P1n1/3P1BPb/PPP2P1P/RNBQR1K1 w - - 4 9,I develop my LB to f3 and black moves his f knight to g4.
+17,Re2,e1e2,rn3rk1/pppqbppp/3p4/4p3/4P1n1/3P1BPb/PPP1RP1P/RNBQ2K1 b - - 5 9,I move my rook to e2 to support my f2 pawn to avoid black's knight capturing it and then harassing my queen.  Black's queen moves back to d8.
+18,Qd8,d7d8,rn1q1rk1/ppp1bppp/3p4/4p3/4P1n1/3P1BPb/PPP1RP1P/RNBQ2K1 w - - 6 10,I move my rook to e2 to support my f2 pawn to avoid black's knight capturing it and then harassing my queen.  Black's queen moves back to d8.
+19,Rd2,e2d2,rn1q1rk1/ppp1bppp/3p4/4p3/4P1n1/3P1BPb/PPPR1P1P/RNBQ2K1 b - - 7 10,I move my rook to d2 to allow the queen to move up better positioned to assist and get involved in the game. Black moves the queen back down to d7.
+20,Qd7,d8d7,rn3rk1/pppqbppp/3p4/4p3/4P1n1/3P1BPb/PPPR1P1P/RNBQ2K1 w - - 8 11,I move my rook to d2 to allow the queen to move up better positioned to assist and get involved in the game. Black moves the queen back down to d7.
+21,Qe2,d1e2,rn3rk1/pppqbppp/3p4/4p3/4P1n1/3P1BPb/PPPRQP1P/RNB3K1 b - - 9 11,Now I move my queen up to e2 supporting my pawns and pieces around the queen.  Black develops his knight to f6.
+22,Nc6,b8c6,r4rk1/pppqbppp/2np4/4p3/4P1n1/3P1BPb/PPPRQP1P/RNB3K1 w - - 10 12,Now I move my queen up to e2 supporting my pawns and pieces around the queen.  Black develops his knight to f6.
+23,d4,d3d4,r4rk1/pppqbppp/2np4/4p3/3PP1n1/5BPb/PPPRQP1P/RNB3K1 b - - 0 12,I push my d3 pawn to d4 and black moves f pawn to f5.
+24,f5,f7f5,r4rk1/pppqb1pp/2np4/4pp2/3PP1n1/5BPb/PPPRQP1P/RNB3K1 w - - 0 13,I push my d3 pawn to d4 and black moves f pawn to f5.
+25,c3,c2c3,r4rk1/pppqb1pp/2np4/4pp2/3PP1n1/2P2BPb/PP1RQP1P/RNB3K1 b - - 0 13,I move my pawn to d3 supporting my d4 pawn and black captures my pawn at e4 and attacking my LB.
+26,fxe4,f5e4,r4rk1/pppqb1pp/2np4/4p3/3Pp1n1/2P2BPb/PP1RQP1P/RNB3K1 w - - 0 14,I move my pawn to d3 supporting my d4 pawn and black captures my pawn at e4 and attacking my LB.
+27,Qxe4,e2e4,r4rk1/pppqb1pp/2np4/4p3/3PQ1n1/2P2BPb/PP1R1P1P/RNB3K1 b - - 0 14,I capture black's pawn at e4 with my queen and black moves his knight to f6 attacking my queen at e4.
+28,Nf6,g4f6,r4rk1/pppqb1pp/2np1n2/4p3/3PQ3/2P2BPb/PP1R1P1P/RNB3K1 w - - 1 15,I capture black's pawn at e4 with my queen and black moves his knight to f6 attacking my queen at e4.
+29,Qe3,e4e3,r4rk1/pppqb1pp/2np1n2/4p3/3P4/2P1QBPb/PP1R1P1P/RNB3K1 b - - 2 15,I move my queen down to e3 out of reach of the knight and black moves his c knight to a5.
+30,Na5,c6a5,r4rk1/pppqb1pp/3p1n2/n3p3/3P4/2P1QBPb/PP1R1P1P/RNB3K1 w - - 3 16,I move my queen down to e3 out of reach of the knight and black moves his c knight to a5.
+31,b3,b2b3,r4rk1/pppqb1pp/3p1n2/n3p3/3P4/1PP1QBPb/P2R1P1P/RNB3K1 b - - 0 16,I move pawn to b3 which allows the rook to protect more squares on the 3rd row.  Black moves his a8 rook to e8.
+32,Rae8,a8e8,4rrk1/pppqb1pp/3p1n2/n3p3/3P4/1PP1QBPb/P2R1P1P/RNB3K1 w - - 1 17,I move pawn to b3 which allows the rook to protect more squares on the 3rd row.  Black moves his a8 rook to e8.
+33,Na3,b1a3,4rrk1/pppqb1pp/3p1n2/n3p3/3P4/NPP1QBPb/P2R1P1P/R1B3K1 b - - 2 17,I move my knight to a3 protected by DB at c1.  Black pushes d pawn to d5.
+34,d5,d6d5,4rrk1/pppqb1pp/5n2/n2pp3/3P4/NPP1QBPb/P2R1P1P/R1B3K1 w - - 0 18,I move my knight to a3 protected by DB at c1.  Black pushes d pawn to d5.
+35,b4,b3b4,4rrk1/pppqb1pp/5n2/n2pp3/1P1P4/N1P1QBPb/P2R1P1P/R1B3K1 b - - 0 18,I push my b pawn to b4 kicking the knight at a5 which moves to c6.
+36,Nc6,a5c6,4rrk1/pppqb1pp/2n2n2/3pp3/1P1P4/N1P1QBPb/P2R1P1P/R1B3K1 w - - 1 19,I push my b pawn to b4 kicking the knight at a5 which moves to c6.
+37,Nb5,a3b5,4rrk1/pppqb1pp/2n2n2/1N1pp3/1P1P4/2P1QBPb/P2R1P1P/R1B3K1 b - - 2 19,I move my knight to b5 and black captures my pawn at d4 and attacks my queen.
+38,exd4,e5d4,4rrk1/pppqb1pp/2n2n2/1N1p4/1P1p4/2P1QBPb/P2R1P1P/R1B3K1 w - - 0 20,I move my knight to b5 and black captures my pawn at d4 and attacks my queen.

@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queen pawn opening. A bit interesting, I suppose. Normally I see e4, but this is equally good."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,To stop e4.
+3,d5,d4d5,rnbqkb1r/pppppppp/5n2/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,Feeling a bit under pressure. I've never had a game where the queen pawn went so far forward.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/3P4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,Feeling a bit under pressure. I've never had a game where the queen pawn went so far forward.
+5,c4,c2c4,rnbqkb1r/pppp1ppp/4pn2/3P4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"Constrained. White is able to move his pieces around quite easily, but I am now unable to develop my bishops and knights where I want them. Would there have been a better move than d6 to allow that?"
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3ppn2/3P4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"Constrained. White is able to move his pieces around quite easily, but I am now unable to develop my bishops and knights where I want them. Would there have been a better move than d6 to allow that?"
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/3ppn2/3P4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,I don't want that knight coming down to b5. I'm constrained enough as it is.
+8,a6,a7a6,rnbqkb1r/1pp2ppp/p2ppn2/3P4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,I don't want that knight coming down to b5. I'm constrained enough as it is.
+9,e4,e2e4,rnbqkb1r/1pp2ppp/p2ppn2/3P4/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,Getting ready to castle kingside. Too much pawn movement on the queenside to justify a castle there.
+10,e5,e6e5,rnbqkb1r/1pp2ppp/p2p1n2/3Pp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6,Getting ready to castle kingside. Too much pawn movement on the queenside to justify a castle there.
+11,Be2,f1e2,rnbqkb1r/1pp2ppp/p2p1n2/3Pp3/2P1P3/2N5/PP2BPPP/R1BQK1NR b KQkq - 1 6,Getting ready to castle kingside. Too much pawn movement on the queenside to justify a castle there.
+12,Be7,f8e7,rnbqk2r/1pp1bppp/p2p1n2/3Pp3/2P1P3/2N5/PP2BPPP/R1BQK1NR w KQkq - 2 7,Getting ready to castle kingside. Too much pawn movement on the queenside to justify a castle there.
+13,Nf3,g1f3,rnbqk2r/1pp1bppp/p2p1n2/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQkq - 3 7,Asking for a trade.
+14,Bd7,c8d7,rn1qk2r/1ppbbppp/p2p1n2/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQkq - 4 8,Asking for a trade.
+15,Be3,c1e3,rn1qk2r/1ppbbppp/p2p1n2/3Pp3/2P1P3/2N1BN2/PP2BPPP/R2QK2R b KQkq - 5 8,Asking for a trade.
+16,Ng4,f6g4,rn1qk2r/1ppbbppp/p2p4/3Pp3/2P1P1n1/2N1BN2/PP2BPPP/R2QK2R w KQkq - 6 9,Asking for a trade.
+17,Bd2,e3d2,rn1qk2r/1ppbbppp/p2p4/3Pp3/2P1P1n1/2N2N2/PP1BBPPP/R2QK2R b KQkq - 7 9,"But he declines. Well, at least my knight is pressuring him."
+18,c6,c7c6,rn1qk2r/1p1bbppp/p1pp4/3Pp3/2P1P1n1/2N2N2/PP1BBPPP/R2QK2R w KQkq - 0 10,"Not exactly sure why I made this move, but I certainly am glad I did. It will be revealed why later."
+19,a4,a2a4,rn1qk2r/1p1bbppp/p1pp4/3Pp3/P1P1P1n1/2N2N2/1P1BBPPP/R2QK2R b KQkq - 0 10,"Blunder on my end. Failed to notice that b7 was unguarded, and that White's queen was sitting pretty on b3, ready to take both a pawn and a rook."
+20,O-O,e8g8,rn1q1rk1/1p1bbppp/p1pp4/3Pp3/P1P1P1n1/2N2N2/1P1BBPPP/R2QK2R w KQ - 1 11,"Blunder on my end. Failed to notice that b7 was unguarded, and that White's queen was sitting pretty on b3, ready to take both a pawn and a rook."
+21,Qb3,d1b3,rn1q1rk1/1p1bbppp/p1pp4/3Pp3/P1P1P1n1/1QN2N2/1P1BBPPP/R3K2R b KQ - 2 11,"Blunder on my end. Failed to notice that b7 was unguarded, and that White's queen was sitting pretty on b3, ready to take both a pawn and a rook."
+22,Qe8,d8e8,rn2qrk1/1p1bbppp/p1pp4/3Pp3/P1P1P1n1/1QN2N2/1P1BBPPP/R3K2R w KQ - 3 12,"Blunder on my end. Failed to notice that b7 was unguarded, and that White's queen was sitting pretty on b3, ready to take both a pawn and a rook."
+23,Qxb7,b3b7,rn2qrk1/1Q1bbppp/p1pp4/3Pp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R b KQ - 0 12,And my rook is gone on the next move.
+24,Qc8,e8c8,rnq2rk1/1Q1bbppp/p1pp4/3Pp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R w KQ - 1 13,"I think I did this hoping he'd go for a trade. However, this move is incredibly important because of what it does to White's queen if it happens to take the rook: its escape route will be cut off (a6 will be guarded by the queen)."
+25,Qxa8,b7a8,Qnq2rk1/3bbppp/p1pp4/3Pp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R b KQ - 0 13,Traps the queen in!
+26,c5,c6c5,Qnq2rk1/3bbppp/p2p4/2pPp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R w KQ - 0 14,Traps the queen in!
+27,Qa7,a8a7,1nq2rk1/Q2bbppp/p2p4/2pPp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R b KQ - 1 14,"Still, the queen can't escape. My pawns block her way. It's hunting time!"
+28,Bd8,e7d8,1nqb1rk1/Q2b1ppp/p2p4/2pPp3/P1P1P1n1/2N2N2/1P1BBPPP/R3K2R w KQ - 2 15,Just some support here if I need it.
+29,h3,h2h3,1nqb1rk1/Q2b1ppp/p2p4/2pPp3/P1P1P1n1/2N2N1P/1P1BBPP1/R3K2R b KQ - 0 15,"Seems to pressure me here. I want to be very cautious here, however. Any other pieces that break through could help the queen. So I decide to drive the knight away with a conservative pawn push on h6."
+30,Nf6,g4f6,1nqb1rk1/Q2b1ppp/p2p1n2/2pPp3/P1P1P3/2N2N1P/1P1BBPP1/R3K2R w KQ - 1 16,"Seems to pressure me here. I want to be very cautious here, however. Any other pieces that break through could help the queen. So I decide to drive the knight away with a conservative pawn push on h6."
+31,Ng5,f3g5,1nqb1rk1/Q2b1ppp/p2p1n2/2pPp1N1/P1P1P3/2N4P/1P1BBPP1/R3K2R b KQ - 2 16,"Seems to pressure me here. I want to be very cautious here, however. Any other pieces that break through could help the queen. So I decide to drive the knight away with a conservative pawn push on h6."
+32,h6,h7h6,1nqb1rk1/Q2b1pp1/p2p1n1p/2pPp1N1/P1P1P3/2N4P/1P1BBPP1/R3K2R w KQ - 0 17,"I notice that I can use my knight only if d7 is open. If I can get him there, I'll be able to threaten Bb6, which would gain me a queen."
+33,Nf3,g5f3,1nqb1rk1/Q2b1pp1/p2p1n1p/2pPp3/P1P1P3/2N2N1P/1P1BBPP1/R3K2R b KQ - 1 17,"I notice that I can use my knight only if d7 is open. If I can get him there, I'll be able to threaten Bb6, which would gain me a queen."
+34,Nh5,f6h5,1nqb1rk1/Q2b1pp1/p2p3p/2pPp2n/P1P1P3/2N2N1P/1P1BBPP1/R3K2R w KQ - 2 18,"I notice that I can use my knight only if d7 is open. If I can get him there, I'll be able to threaten Bb6, which would gain me a queen."
+35,g3,g2g3,1nqb1rk1/Q2b1pp1/p2p3p/2pPp2n/P1P1P3/2N2NPP/1P1BBP2/R3K2R b KQ - 0 18,"I notice that I can use my knight only if d7 is open. If I can get him there, I'll be able to threaten Bb6, which would gain me a queen."
+36,Be8,d7e8,1nqbbrk1/Q4pp1/p2p3p/2pPp2n/P1P1P3/2N2NPP/1P1BBP2/R3K2R w KQ - 1 19,"I notice that I can use my knight only if d7 is open. If I can get him there, I'll be able to threaten Bb6, which would gain me a queen."
+37,Rb1,a1b1,1nqbbrk1/Q4pp1/p2p3p/2pPp2n/P1P1P3/2N2NPP/1P1BBP2/1R2K2R b K - 2 19,"Curses! He saw it, forcing me to..."
+38,Nd7,b8d7,2qbbrk1/Q2n1pp1/p2p3p/2pPp2n/P1P1P3/2N2NPP/1P1BBP2/1R2K2R w K - 3 20,"Curses! He saw it, forcing me to..."
+39,a5,a4a5,2qbbrk1/Q2n1pp1/p2p3p/P1pPp2n/2P1P3/2N2NPP/1P1BBP2/1R2K2R b K - 0 20,"Curses! He saw it, forcing me to..."
+40,Bxa5,d8a5,2q1brk1/Q2n1pp1/p2p3p/b1pPp2n/2P1P3/2N2NPP/1P1BBP2/1R2K2R w K - 0 21,"delay my capture of the queen. But hey, a free pawn nonetheless."
+41,Na4,c3a4,2q1brk1/Q2n1pp1/p2p3p/b1pPp2n/N1P1P3/5NPP/1P1BBP2/1R2K2R b K - 1 21,"Just what I was worried about! The knight is coming to help out the queen! I have to be very careful with my moves now, I don't want to let the queen escape from my trap."

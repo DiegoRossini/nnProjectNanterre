@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Strange move. Qe3 is usually played to prevent of Bc5.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Strange move. Qe3 is usually played to prevent of Bc5.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Strange move. Qe3 is usually played to prevent of Bc5.
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Strange move. Qe3 is usually played to prevent of Bc5.
+5,Qxd4,d1d4,rnbqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,Strange move. Qe3 is usually played to prevent of Bc5.
+6,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,Strange move. Qe3 is usually played to prevent of Bc5.
+7,Qa4,d4a4,r1bqkbnr/pppp1ppp/2n5/8/Q3P3/8/PPP2PPP/RNB1KBNR b KQkq - 2 4,Strange move. Qe3 is usually played to prevent of Bc5.
+8,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b5/Q3P3/8/PPP2PPP/RNB1KBNR w KQkq - 3 5,Slow down the mobility. If Nc3 and then Bb4 - black had lost a tempo.
+9,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/2b5/Q3P3/2P5/PP3PPP/RNB1KBNR b KQkq - 0 5,Slow down the mobility. If Nc3 and then Bb4 - black had lost a tempo.
+10,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b5/Q3P3/2P5/PP3PPP/RNB1KBNR w KQkq - 1 6,Bad move. Allows Bf2+.
+11,Bg5,c1g5,r1bqk2r/pppp1ppp/2n2n2/2b3B1/Q3P3/2P5/PP3PPP/RN2KBNR b KQkq - 2 6,Bad move. Allows Bf2+.
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b3B1/Q3P3/2P5/PP3PPP/RN2KBNR w KQ - 3 7,Missed chance.
+13,Bd3,f1d3,r1bq1rk1/pppp1ppp/2n2n2/2b3B1/Q3P3/2PB4/PP3PPP/RN2K1NR b KQ - 4 7,Missed defence - Nf3.
+14,Bxf2+,c5f2,r1bq1rk1/pppp1ppp/2n2n2/6B1/Q3P3/2PB4/PP3bPP/RN2K1NR w KQ - 0 8,Played at the second time.
+15,Kxf2,e1f2,r1bq1rk1/pppp1ppp/2n2n2/6B1/Q3P3/2PB4/PP3KPP/RN4NR b - - 0 8,Better was Ke1.
+16,Ng4+,f6g4,r1bq1rk1/pppp1ppp/2n5/6B1/Q3P1n1/2PB4/PP3KPP/RN4NR w - - 1 9,Better was Ke1.
+17,Ke2,f2e2,r1bq1rk1/pppp1ppp/2n5/6B1/Q3P1n1/2PB4/PP2K1PP/RN4NR b - - 2 9,Better was Ke1.
+18,Qxg5,d8g5,r1b2rk1/pppp1ppp/2n5/6q1/Q3P1n1/2PB4/PP2K1PP/RN4NR w - - 0 10,A terrible mistake.
+19,Nf3,g1f3,r1b2rk1/pppp1ppp/2n5/6q1/Q3P1n1/2PB1N2/PP2K1PP/RN5R b - - 1 10,A terrible mistake.
+20,Qe3+,g5e3,r1b2rk1/pppp1ppp/2n5/8/Q3P1n1/2PBqN2/PP2K1PP/RN5R w - - 2 11,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+21,Kd1,e2d1,r1b2rk1/pppp1ppp/2n5/8/Q3P1n1/2PBqN2/PP4PP/RN1K3R b - - 3 11,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+22,Nf2+,g4f2,r1b2rk1/pppp1ppp/2n5/8/Q3P3/2PBqN2/PP3nPP/RN1K3R w - - 4 12,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+23,Kc2,d1c2,r1b2rk1/pppp1ppp/2n5/8/Q3P3/2PBqN2/PPK2nPP/RN5R b - - 5 12,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+24,Qxd3+,e3d3,r1b2rk1/pppp1ppp/2n5/8/Q3P3/2Pq1N2/PPK2nPP/RN5R w - - 0 13,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+25,Kb3,c2b3,r1b2rk1/pppp1ppp/2n5/8/Q3P3/1KPq1N2/PP3nPP/RN5R b - - 1 13,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+26,Nxe4,f2e4,r1b2rk1/pppp1ppp/2n5/8/Q3n3/1KPq1N2/PP4PP/RN5R w - - 0 14,"In fact better in fact better then N:h1. Threatens Nc5. 
+If Ka3 - b5 and Qd1 , b4, Ka4, Nc5#. 
+If Qa3 - a5."
+27,Qc4,a4c4,r1b2rk1/pppp1ppp/2n5/8/2Q1n3/1KPq1N2/PP4PP/RN5R b - - 1 14,If K:a5 - b6 #;
+28,Na5+,c6a5,r1b2rk1/pppp1ppp/8/n7/2Q1n3/1KPq1N2/PP4PP/RN5R w - - 2 15,If K:a5 - b6 #;
+29,Kb4,b3b4,r1b2rk1/pppp1ppp/8/n7/1KQ1n3/2Pq1N2/PP4PP/RN5R b - - 3 15,If K:a5 - b6 #;
+30,Qxc4+,d3c4,r1b2rk1/pppp1ppp/8/n7/1Kq1n3/2P2N2/PP4PP/RN5R w - - 0 16,If K:a5 - b6 #;
+31,Ka3,b4a3,r1b2rk1/pppp1ppp/8/n7/2q1n3/K1P2N2/PP4PP/RN5R b - - 1 16,"The best move. 
+If a:b - Qa6 and c5 # ;"
+32,Nb3,a5b3,r1b2rk1/pppp1ppp/8/8/2q1n3/KnP2N2/PP4PP/RN5R w - - 2 17,"The best move. 
+If a:b - Qa6 and c5 # ;"
+33,Ne5,f3e5,r1b2rk1/pppp1ppp/8/4N3/2q1n3/KnP5/PP4PP/RN5R b - - 3 17,The last mistake.
+34,Qe6,c4e6,r1b2rk1/pppp1ppp/4q3/4N3/4n3/KnP5/PP4PP/RN5R w - - 4 18,The last mistake.
+35,c4,c3c4,r1b2rk1/pppp1ppp/4q3/4N3/2P1n3/Kn6/PP4PP/RN5R b - - 0 18,The last mistake.
+36,Nxa1,b3a1,r1b2rk1/pppp1ppp/4q3/4N3/2P1n3/K7/PP4PP/nN5R w - - 0 19,The last mistake.
+37,Nd3,e5d3,r1b2rk1/pppp1ppp/4q3/8/2P1n3/K2N4/PP4PP/nN5R b - - 1 19,The last mistake.
+38,Qa6+,e6a6,r1b2rk1/pppp1ppp/q7/8/2P1n3/K2N4/PP4PP/nN5R w - - 2 20,
+39,Kb4,a3b4,r1b2rk1/pppp1ppp/q7/8/1KP1n3/3N4/PP4PP/nN5R b - - 3 20,
+40,Nc2+,a1c2,r1b2rk1/pppp1ppp/q7/8/1KP1n3/3N4/PPn3PP/1N5R w - - 4 21,
+41,Kb3,b4b3,r1b2rk1/pppp1ppp/q7/8/2P1n3/1K1N4/PPn3PP/1N5R b - - 5 21,
+42,Nd4+,c2d4,r1b2rk1/pppp1ppp/q7/8/2Pnn3/1K1N4/PP4PP/1N5R w - - 6 22,
+43,Kb4,b3b4,r1b2rk1/pppp1ppp/q7/8/1KPnn3/3N4/PP4PP/1N5R b - - 7 22,
+44,Qxa2,a6a2,r1b2rk1/pppp1ppp/8/8/1KPnn3/3N4/qP4PP/1N5R w - - 0 23,
+45,Nc3,b1c3,r1b2rk1/pppp1ppp/8/8/1KPnn3/2NN4/qP4PP/7R b - - 1 23,
+46,a5#,a7a5,r1b2rk1/1ppp1ppp/8/p7/1KPnn3/2NN4/qP4PP/7R w - - 0 24,

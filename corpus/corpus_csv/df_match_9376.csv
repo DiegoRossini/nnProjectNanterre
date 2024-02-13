@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+6,c6,c7c6,rnbqkb1r/pp1p1ppp/2p2n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,This simply loses a pawn - d6 (Nf3) Nxe4 is much better here
+7,Bc4,f1c4,rnbqkb1r/pp1p1ppp/2p2n2/4N3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 1 4,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+8,d5,d7d5,rnbqkb1r/pp3ppp/2p2n2/3pN3/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+9,exd5,e4d5,rnbqkb1r/pp3ppp/2p2n2/3PN3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+10,cxd5,c6d5,rnbqkb1r/pp3ppp/5n2/3pN3/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+11,Bb5+,c4b5,rnbqkb1r/pp3ppp/5n2/1B1pN3/8/8/PPPP1PPP/RNBQK2R b KQkq - 1 6,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+12,Nbd7,b8d7,r1bqkb1r/pp1n1ppp/5n2/1B1pN3/8/8/PPPP1PPP/RNBQK2R w KQkq - 2 7,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+13,Qe2,d1e2,r1bqkb1r/pp1n1ppp/5n2/1B1pN3/8/8/PPPPQPPP/RNB1K2R b KQkq - 3 7,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+14,Qe7,d8e7,r1b1kb1r/pp1nqppp/5n2/1B1pN3/8/8/PPPPQPPP/RNB1K2R w KQkq - 4 8,"I would prefer Be7 here, as developing that bishop and castling is now very difficult."
+15,O-O,e1g1,r1b1kb1r/pp1nqppp/5n2/1B1pN3/8/8/PPPPQPPP/RNB2RK1 b kq - 5 8,"It is vital that you get the king off e file now. O-O-O is not pleasant as queenside is so exposed, but it is hard to gain enough moves to get the kingside free to castle, especially as the f8 bishop is currently defending your queen."
+16,a6,a7a6,r1b1kb1r/1p1nqppp/p4n2/1B1pN3/8/8/PPPPQPPP/RNB2RK1 w kq - 0 9,"It is vital that you get the king off e file now. O-O-O is not pleasant as queenside is so exposed, but it is hard to gain enough moves to get the kingside free to castle, especially as the f8 bishop is currently defending your queen."
+17,Bxd7+,b5d7,r1b1kb1r/1p1Bqppp/p4n2/3pN3/8/8/PPPPQPPP/RNB2RK1 b kq - 0 9,"It is vital that you get the king off e file now. O-O-O is not pleasant as queenside is so exposed, but it is hard to gain enough moves to get the kingside free to castle, especially as the f8 bishop is currently defending your queen."
+18,Bxd7,c8d7,r3kb1r/1p1bqppp/p4n2/3pN3/8/8/PPPPQPPP/RNB2RK1 w kq - 0 10,"It is vital that you get the king off e file now. O-O-O is not pleasant as queenside is so exposed, but it is hard to gain enough moves to get the kingside free to castle, especially as the f8 bishop is currently defending your queen."
+19,Re1,f1e1,r3kb1r/1p1bqppp/p4n2/3pN3/8/8/PPPPQPPP/RNB1R1K1 b kq - 1 10,"It is vital that you get the king off e file now. O-O-O is not pleasant as queenside is so exposed, but it is hard to gain enough moves to get the kingside free to castle, especially as the f8 bishop is currently defending your queen."
+20,Ne4,f6e4,r3kb1r/1p1bqppp/p7/3pN3/4n3/8/PPPPQPPP/RNB1R1K1 w kq - 2 11,"This is a mistake. Two bishops tend to be better than two knights or a bishop and a knight, so the swap is beneficial for white generally. It also gives you an unpleasant choice. Either capture with the king, leaving it exposed in the centre and unable to castle, or capture with the queen and lose the knight at e4 (it is then pinned and you cannot escape from the d or f pawns if I advance them).
+
+Something like Bb5 would retain the initiative and allow Ne4 to follow anyway."
+21,Nxd7,e5d7,r3kb1r/1p1Nqppp/p7/3p4/4n3/8/PPPPQPPP/RNB1R1K1 b kq - 0 11,Forcing the loss of the e4 knight whilst opening the diagonal for my bishop.
+22,Qxd7,e7d7,r3kb1r/1p1q1ppp/p7/3p4/4n3/8/PPPPQPPP/RNB1R1K1 w kq - 0 12,Forcing the loss of the e4 knight whilst opening the diagonal for my bishop.
+23,d3,d2d3,r3kb1r/1p1q1ppp/p7/3p4/4n3/3P4/PPP1QPPP/RNB1R1K1 b kq - 0 12,Forcing the loss of the e4 knight whilst opening the diagonal for my bishop.
+24,Qf5,d7f5,r3kb1r/1p3ppp/p7/3p1q2/4n3/3P4/PPP1QPPP/RNB1R1K1 w kq - 1 13,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+25,dxe4,d3e4,r3kb1r/1p3ppp/p7/3p1q2/4P3/8/PPP1QPPP/RNB1R1K1 b kq - 0 13,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+26,dxe4,d5e4,r3kb1r/1p3ppp/p7/5q2/4p3/8/PPP1QPPP/RNB1R1K1 w kq - 0 14,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+27,Qxe4+,e2e4,r3kb1r/1p3ppp/p7/5q2/4Q3/8/PPP2PPP/RNB1R1K1 b kq - 0 14,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+28,Qxe4,f5e4,r3kb1r/1p3ppp/p7/8/4q3/8/PPP2PPP/RNB1R1K1 w kq - 0 15,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+29,Rxe4+,e1e4,r3kb1r/1p3ppp/p7/8/4R3/8/PPP2PPP/RNB3K1 b kq - 0 15,"The exchange is now very beneficial to me as the material lead is a knight and a pawn. If ahead by a minor piece, trading off material is almost always advisable."
+30,Be7,f8e7,r3k2r/1p2bppp/p7/8/4R3/8/PPP2PPP/RNB3K1 w kq - 1 16,Decided to play Nd5 instead of develop the bishop.
+31,Nc3,b1c3,r3k2r/1p2bppp/p7/8/4R3/2N5/PPP2PPP/R1B3K1 b kq - 2 16,Decided to play Nd5 instead of develop the bishop.
+32,O-O,e8g8,r4rk1/1p2bppp/p7/8/4R3/2N5/PPP2PPP/R1B3K1 w - - 3 17,Decided to play Nd5 instead of develop the bishop.
+33,Nd5,c3d5,r4rk1/1p2bppp/p7/3N4/4R3/8/PPP2PPP/R1B3K1 b - - 4 17,Decided to play Nd5 instead of develop the bishop.
+34,Bd6,e7d6,r4rk1/1p3ppp/p2b4/3N4/4R3/8/PPP2PPP/R1B3K1 w - - 5 18,Encouraging the continuing exchange of material whilst allowing my a1 rook to get into play.
+35,Bf4,c1f4,r4rk1/1p3ppp/p2b4/3N4/4RB2/8/PPP2PPP/R5K1 b - - 6 18,Encouraging the continuing exchange of material whilst allowing my a1 rook to get into play.
+36,Bxf4,d6f4,r4rk1/1p3ppp/p7/3N4/4Rb2/8/PPP2PPP/R5K1 w - - 0 19,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+37,Nxf4,d5f4,r4rk1/1p3ppp/p7/8/4RN2/8/PPP2PPP/R5K1 b - - 0 19,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+38,Rac8,a8c8,2r2rk1/1p3ppp/p7/8/4RN2/8/PPP2PPP/R5K1 w - - 1 20,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+39,c3,c2c3,2r2rk1/1p3ppp/p7/8/4RN2/2P5/PP3PPP/R5K1 b - - 0 20,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+40,b5,b7b5,2r2rk1/5ppp/p7/1p6/4RN2/2P5/PP3PPP/R5K1 w - - 0 21,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+41,Nd5,f4d5,2r2rk1/5ppp/p7/1p1N4/4R3/2P5/PP3PPP/R5K1 b - - 1 21,Threatening the fork. I would play Rc-d8 to remove the threat of the fork whilst getting your rook on the open file. Kh8 is an alternative.
+42,g6,g7g6,2r2rk1/5p1p/p5p1/1p1N4/4R3/2P5/PP3PPP/R5K1 w - - 0 22,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+43,Ne7+,d5e7,2r2rk1/4Np1p/p5p1/1p6/4R3/2P5/PP3PPP/R5K1 b - - 1 22,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+44,Kg7,g8g7,2r2r2/4Npkp/p5p1/1p6/4R3/2P5/PP3PPP/R5K1 w - - 2 23,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+45,Nxc8,e7c8,2N2r2/5pkp/p5p1/1p6/4R3/2P5/PP3PPP/R5K1 b - - 0 23,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+46,Rxc8,f8c8,2r5/5pkp/p5p1/1p6/4R3/2P5/PP3PPP/R5K1 w - - 0 24,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+47,Rd1,a1d1,2r5/5pkp/p5p1/1p6/4R3/2P5/PP3PPP/3R2K1 b - - 1 24,Getting my rooks in control of both open files so that there's nowhere active for you to get your rook to.
+48,Rf8,c8f8,5r2/5pkp/p5p1/1p6/4R3/2P5/PP3PPP/3R2K1 w - - 2 25,Rc7 is better. That way I cannot easily get onto the 7th rank and you can play Ra7 or Rb7 to defend the pawns on the queenside as necessary. You need to hope I blunder now.
+49,Rd6,d1d6,5r2/5pkp/p2R2p1/1p6/4R3/2P5/PP3PPP/6K1 b - - 3 25,This is difficult. I would play Kh6 as keeping your rook is your only vague hope now.
+50,f5,f7f5,5r2/6kp/p2R2p1/1p3p2/4R3/2P5/PP3PPP/6K1 w - - 0 26,This is difficult. I would play Kh6 as keeping your rook is your only vague hope now.
+51,Re7+,e4e7,5r2/4R1kp/p2R2p1/1p3p2/8/2P5/PP3PPP/6K1 b - - 1 26,This is difficult. I would play Kh6 as keeping your rook is your only vague hope now.
+52,Rf7,f8f7,8/4Rrkp/p2R2p1/1p3p2/8/2P5/PP3PPP/6K1 w - - 2 27,This is difficult. I would play Kh6 as keeping your rook is your only vague hope now.
+53,Rxf7+,e7f7,8/5Rkp/p2R2p1/1p3p2/8/2P5/PP3PPP/6K1 b - - 0 27,Now there is simply nothing left. Many thanks for the game :)
+54,Kxf7,g7f7,8/5k1p/p2R2p1/1p3p2/8/2P5/PP3PPP/6K1 w - - 0 28,Now there is simply nothing left. Many thanks for the game :)
+55,Rxa6,d6a6,8/5k1p/R5p1/1p3p2/8/2P5/PP3PPP/6K1 b - - 0 28,Now there is simply nothing left. Many thanks for the game :)
+56,Kg7,f7g7,8/6kp/R5p1/1p3p2/8/2P5/PP3PPP/6K1 w - - 1 29,Now there is simply nothing left. Many thanks for the game :)
+57,Rb6,a6b6,8/6kp/1R4p1/1p3p2/8/2P5/PP3PPP/6K1 b - - 2 29,Now there is simply nothing left. Many thanks for the game :)
+58,h5,h7h5,8/6k1/1R4p1/1p3p1p/8/2P5/PP3PPP/6K1 w - - 0 30,Now there is simply nothing left. Many thanks for the game :)
+59,Rxb5,b6b5,8/6k1/6p1/1R3p1p/8/2P5/PP3PPP/6K1 b - - 0 30,Now there is simply nothing left. Many thanks for the game :)
+60,Kh6,g7h6,8/8/6pk/1R3p1p/8/2P5/PP3PPP/6K1 w - - 1 31,
+61,a4,a2a4,8/8/6pk/1R3p1p/P7/2P5/1P3PPP/6K1 b - - 0 31,
+62,h4,h5h4,8/8/6pk/1R3p2/P6p/2P5/1P3PPP/6K1 w - - 0 32,
+63,a5,a4a5,8/8/6pk/PR3p2/7p/2P5/1P3PPP/6K1 b - - 0 32,
+64,f4,f5f4,8/8/6pk/PR6/5p1p/2P5/1P3PPP/6K1 w - - 0 33,
+65,a6,a5a6,8/8/P5pk/1R6/5p1p/2P5/1P3PPP/6K1 b - - 0 33,
+66,g5,g6g5,8/8/P6k/1R4p1/5p1p/2P5/1P3PPP/6K1 w - - 0 34,
+67,a7,a6a7,8/P7/7k/1R4p1/5p1p/2P5/1P3PPP/6K1 b - - 0 34,

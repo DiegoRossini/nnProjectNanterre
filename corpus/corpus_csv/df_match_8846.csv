@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Trying to avoid a main line Sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Trying to avoid a main line Sicilian.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Trying to avoid a main line Sicilian.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Trying to avoid a main line Sicilian.
+5,c3,c2c3,rnbqkbnr/pp2pppp/3p4/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,Trying to avoid a main line Sicilian.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4,"Offering a trick, if 4. Nxe4 5. Qa4 , winning the knight."
+7,Be2,f1e2,rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/2P2N2/PP1PBPPP/RNBQK2R b KQkq - 2 4,"Offering a trick, if 4. Nxe4 5. Qa4 , winning the knight."
+8,Nc6,b8c6,r1bqkb1r/pp2pppp/2np1n2/2p5/4P3/2P2N2/PP1PBPPP/RNBQK2R w KQkq - 3 5,Now it's safe to take the pawn
+9,d4,d2d4,r1bqkb1r/pp2pppp/2np1n2/2p5/3PP3/2P2N2/PP2BPPP/RNBQK2R b KQkq - 0 5,Now it's safe to take the pawn
+10,cxd4,c5d4,r1bqkb1r/pp2pppp/2np1n2/8/3pP3/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 6,Now it's safe to take the pawn
+11,cxd4,c3d4,r1bqkb1r/pp2pppp/2np1n2/8/3PP3/5N2/PP2BPPP/RNBQK2R b KQkq - 0 6,Now it's safe to take the pawn
+12,Nxe4,f6e4,r1bqkb1r/pp2pppp/2np4/8/3Pn3/5N2/PP2BPPP/RNBQK2R w KQkq - 0 7,Now it's safe to take the pawn
+13,d5,d4d5,r1bqkb1r/pp2pppp/2np4/3P4/4n3/5N2/PP2BPPP/RNBQK2R b KQkq - 0 7,"As far as I could tell, book/database lines stop around here."
+14,Qa5+,d8a5,r1b1kb1r/pp2pppp/2np4/q2P4/4n3/5N2/PP2BPPP/RNBQK2R w KQkq - 1 8,"As far as I could tell, book/database lines stop around here."
+15,Nc3,b1c3,r1b1kb1r/pp2pppp/2np4/q2P4/4n3/2N2N2/PP2BPPP/R1BQK2R b KQkq - 2 8,"As far as I could tell, book/database lines stop around here."
+16,Nxc3,e4c3,r1b1kb1r/pp2pppp/2np4/q2P4/8/2n2N2/PP2BPPP/R1BQK2R w KQkq - 0 9,"As far as I could tell, book/database lines stop around here."
+17,bxc3,b2c3,r1b1kb1r/pp2pppp/2np4/q2P4/8/2P2N2/P3BPPP/R1BQK2R b KQkq - 0 9,"As far as I could tell, book/database lines stop around here."
+18,Ne5,c6e5,r1b1kb1r/pp2pppp/3p4/q2Pn3/8/2P2N2/P3BPPP/R1BQK2R w KQkq - 1 10,"As far as I could tell, book/database lines stop around here."
+19,O-O,e1g1,r1b1kb1r/pp2pppp/3p4/q2Pn3/8/2P2N2/P3BPPP/R1BQ1RK1 b kq - 2 10,"As far as I could tell, book/database lines stop around here."
+20,Qxc3,a5c3,r1b1kb1r/pp2pppp/3p4/3Pn3/8/2q2N2/P3BPPP/R1BQ1RK1 w kq - 0 11,"And this is a new move, threatening the rook on a1"
+21,Nxe5,f3e5,r1b1kb1r/pp2pppp/3p4/3PN3/8/2q5/P3BPPP/R1BQ1RK1 b kq - 0 11,"I had calculated that if 11.. Qxa1 12. Qa5  Kd8 13. Nxf7  looks good for white, with the h8 rook ready to be taken."
+22,Qxe5,c3e5,r1b1kb1r/pp2pppp/3p4/3Pq3/8/8/P3BPPP/R1BQ1RK1 w kq - 0 12,Sensible decision. Now what?
+23,Bb5+,e2b5,r1b1kb1r/pp2pppp/3p4/1B1Pq3/8/8/P4PPP/R1BQ1RK1 b kq - 1 12,I think 12.. Bd7 would have been OK here too
+24,Kd8,e8d8,r1bk1b1r/pp2pppp/3p4/1B1Pq3/8/8/P4PPP/R1BQ1RK1 w - - 2 13,I think 12.. Bd7 would have been OK here too
+25,Be3,c1e3,r1bk1b1r/pp2pppp/3p4/1B1Pq3/8/4B3/P4PPP/R2Q1RK1 b - - 3 13,Development and also saving the a1 rook
+26,e6,e7e6,r1bk1b1r/pp3ppp/3pp3/1B1Pq3/8/4B3/P4PPP/R2Q1RK1 w - - 0 14,"I was quite worried here, 2 pawns down already and about to go a third down. I was quite pleased with finding 14. Qa4 on my board between patients at work."
+27,Qa4,d1a4,r1bk1b1r/pp3ppp/3pp3/1B1Pq3/Q7/4B3/P4PPP/R4RK1 b - - 1 14,"So, what's the compensation. Black is 3 pawns up but White has a lead in development. the black king is stuck in the middle and lines are open for the rooks."
+28,Qxd5,e5d5,r1bk1b1r/pp3ppp/3pp3/1B1q4/Q7/4B3/P4PPP/R4RK1 w - - 0 15,"So, what's the compensation. Black is 3 pawns up but White has a lead in development. the black king is stuck in the middle and lines are open for the rooks."
+29,Rac1,a1c1,r1bk1b1r/pp3ppp/3pp3/1B1q4/Q7/4B3/P4PPP/2R2RK1 b - - 1 15,"I had in mind the idea of Be8, Rxc8 and Qd7#"
+30,f5,f7f5,r1bk1b1r/pp4pp/3pp3/1B1q1p2/Q7/4B3/P4PPP/2R2RK1 w - - 0 16,"I was surpised by this move, but it makes sense, making some room for the king and trying to kick away the bishop. But, CM8000 gives mate in 12: Starting with 16. Bg5  Be7 17. Bxe7  Kxe7 18. Qh4  Kf8 19. Rc7 Bd7 20. Rxd7 Re8 21. Qh5 e5 22. Rc1 Qe6 23. Rcc7 a6 24. Qf7  Qxf7 25. Rxf7  Kg8 26. Rxg7  Kf8 27. Rcf7#"
+31,Be8,b5e8,r1bkBb1r/pp4pp/3pp3/3q1p2/Q7/4B3/P4PPP/2R2RK1 b - - 1 16,Possibly the only move to avoid the plan as above.
+32,b5,b7b5,r1bkBb1r/p5pp/3pp3/1p1q1p2/Q7/4B3/P4PPP/2R2RK1 w - - 0 17,Possibly the only move to avoid the plan as above.
+33,Bxb5,e8b5,r1bk1b1r/p5pp/3pp3/1B1q1p2/Q7/4B3/P4PPP/2R2RK1 b - - 0 17,Decision time. I figured some more pressure on the queen and king would be better than getting another pawn back.
+34,f4,f5f4,r1bk1b1r/p5pp/3pp3/1B1q4/Q4p2/4B3/P4PPP/2R2RK1 w - - 0 18,Decision time. I figured some more pressure on the queen and king would be better than getting another pawn back.
+35,Rfd1,f1d1,r1bk1b1r/p5pp/3pp3/1B1q4/Q4p2/4B3/P4PPP/2RR2K1 b - - 1 18,Decision time. I figured some more pressure on the queen and king would be better than getting another pawn back.
+36,Qf5,d5f5,r1bk1b1r/p5pp/3pp3/1B3q2/Q4p2/4B3/P4PPP/2RR2K1 w - - 2 19,"This was another surprise, although not entirely sure what to expect."
+37,Bxf4,e3f4,r1bk1b1r/p5pp/3pp3/1B3q2/Q4B2/8/P4PPP/2RR2K1 b - - 0 19,"This was another surprise, although not entirely sure what to expect."
+38,a5,a7a5,r1bk1b1r/6pp/3pp3/pB3q2/Q4B2/8/P4PPP/2RR2K1 w - - 0 20,"This was another surprise, although not entirely sure what to expect."
+39,Bxd6,f4d6,r1bk1b1r/6pp/3Bp3/pB3q2/Q7/8/P4PPP/2RR2K1 b - - 0 20,Black resigns. It does look bad for black but I wasn't seeing a clear cut mate. 21... Bxd6 22. Rxd6  Ke7 then maybe 23 Qd4

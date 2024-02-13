@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,the ruy lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,the ruy lopez
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,the ruy lopez
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,the ruy lopez
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,the ruy lopez
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Marshall gambit
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Marshall gambit
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,Marshall gambit
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,Marshall gambit
+10,Be7,f8e7,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6,Marshall gambit
+11,Re1,f1e1,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 5 6,Marshall gambit
+12,b5,b7b5,r1bqk2r/2ppbppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 0 7,Marshall gambit
+13,Bb3,a4b3,r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 1 7,Marshall gambit
+14,O-O,e8g8,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - - 2 8,Marshall gambit
+15,c3,c2c3,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 8,Marshall gambit
+16,d5,d7d5,r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9,Marshall gambit
+17,exd5,e4d5,r1bq1rk1/2p1bppp/p1n2n2/1p1Pp3/8/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 9,"entering the main line.
+many players prefer, these days, the sidelines such as 8. h3 or 9. d4 or 8. a4 etc.
+in my opinion, the main line gives the most chances to both sides."
+18,Nxd5,f6d5,r1bq1rk1/2p1bppp/p1n5/1p1np3/8/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 10,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+19,Nxe5,f3e5,r1bq1rk1/2p1bppp/p1n5/1p1nN3/8/1BP5/PP1P1PPP/RNBQR1K1 b - - 0 10,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+20,Nxe5,c6e5,r1bq1rk1/2p1bppp/p7/1p1nn3/8/1BP5/PP1P1PPP/RNBQR1K1 w - - 0 11,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+21,Rxe5,e1e5,r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 b - - 0 11,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+22,c6,c7c6,r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 w - - 0 12,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+23,Bxd5,b3d5,r1bq1rk1/4bppp/p1p5/1p1BR3/8/2P5/PP1P1PPP/RNBQ2K1 b - - 0 12,"not so popular, and for a reason. the bishop is much better than the knight. without the bishop it will be harder to pass a4 and to get the queenside advantage. moreover, the knught can be taken any time, what's the rush?"
+24,cxd5,c6d5,r1bq1rk1/4bppp/p7/1p1pR3/8/2P5/PP1P1PPP/RNBQ2K1 w - - 0 13,a must. white has to free his queenside pieces...
+25,d4,d2d4,r1bq1rk1/4bppp/p7/1p1pR3/3P4/2P5/PP3PPP/RNBQ2K1 b - - 0 13,a must. white has to free his queenside pieces...
+26,Bd6,e7d6,r1bq1rk1/5ppp/p2b4/1p1pR3/3P4/2P5/PP3PPP/RNBQ2K1 w - - 1 14,black plays the regular idea. pressure on the kingside.
+27,Re3,e5e3,r1bq1rk1/5ppp/p2b4/1p1p4/3P4/2P1R3/PP3PPP/RNBQ2K1 b - - 2 14,"I didn't like that move at the time. it seems to block white's bishop. moreover, the rook has got no aquare to be on the 3rd row due to black bishops."
+28,Qh4,d8h4,r1b2rk1/5ppp/p2b4/1p1p4/3P3q/2P1R3/PP3PPP/RNBQ2K1 w - - 3 15,15. g3 is worth thinking of...
+29,h3,h2h3,r1b2rk1/5ppp/p2b4/1p1p4/3P3q/2P1R2P/PP3PP1/RNBQ2K1 b - - 0 15,15. g3 is worth thinking of...
+30,Bf5,c8f5,r4rk1/5ppp/p2b4/1p1p1b2/3P3q/2P1R2P/PP3PP1/RNBQ2K1 w - - 1 16,want to get the e4 square.
+31,Qf3,d1f3,r4rk1/5ppp/p2b4/1p1p1b2/3P3q/2P1RQ1P/PP3PP1/RNB3K1 b - - 2 16,white helps black here. probably 16. Nd2 was better.
+32,Be4,f5e4,r4rk1/5ppp/p2b4/1p1p4/3Pb2q/2P1RQ1P/PP3PP1/RNB3K1 w - - 3 17,"there is a lot of pressure on  g2, h3, h2 by black's bishops and queen."
+33,Qe2,f3e2,r4rk1/5ppp/p2b4/1p1p4/3Pb2q/2P1R2P/PP2QPP1/RNB3K1 b - - 4 17,with f4 and Rf6-Rg6. white is standing not so good...
+34,f5,f7f5,r4rk1/6pp/p2b4/1p1p1p2/3Pb2q/2P1R2P/PP2QPP1/RNB3K1 w - - 0 18,with f4 and Rf6-Rg6. white is standing not so good...
+35,g3,g2g3,r4rk1/6pp/p2b4/1p1p1p2/3Pb2q/2P1R1PP/PP2QP2/RNB3K1 b - - 0 18,"???
+prevents f4 but what about the h3 pawn?
+apperantley the way out of this mess was to give the rook on e3:
+18. Nd2 f4 19. Nxe4 fxe3 20. Nxd6 exf2  21. Kf1 Qg3 and still in the game."
+36,Qxh3,h4h3,r4rk1/6pp/p2b4/1p1p1p2/3Pb3/2P1R1Pq/PP2QP2/RNB3K1 w - - 0 19,the end.
+37,Nd2,b1d2,r4rk1/6pp/p2b4/1p1p1p2/3Pb3/2P1R1Pq/PP1NQP2/R1B3K1 b - - 1 19,the end.
+38,Qg2#,h3g2,r4rk1/6pp/p2b4/1p1p1p2/3Pb3/2P1R1P1/PP1NQPq1/R1B3K1 w - - 2 20,

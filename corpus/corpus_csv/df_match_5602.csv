@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Trying to attack the White Queen. See how many attacks all together!
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Trying to attack the White Queen. See how many attacks all together!
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Trying to attack the White Queen. See how many attacks all together!
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Trying to attack the White Queen. See how many attacks all together!
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 3 3,Trying to attack the White Queen. See how many attacks all together!
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p3n2/4p3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 0 4,Trying to attack the White Queen. See how many attacks all together!
+7,d3,d2d3,rnbqkb1r/p1pp1ppp/1p3n2/4p3/4P3/2NP1Q2/PPP2PPP/R1B1KBNR b KQkq - 0 4,Trying to attack the White Queen. See how many attacks all together!
+8,Bb7,c8b7,rn1qkb1r/pbpp1ppp/1p3n2/4p3/4P3/2NP1Q2/PPP2PPP/R1B1KBNR w KQkq - 1 5,Trying to attack the White Queen. See how many attacks all together!
+9,Nh3,g1h3,rn1qkb1r/pbpp1ppp/1p3n2/4p3/4P3/2NP1Q1N/PPP2PPP/R1B1KB1R b KQkq - 2 5,Trying to attack the White Queen. See how many attacks all together!
+10,d5,d7d5,rn1qkb1r/pbp2ppp/1p3n2/3pp3/4P3/2NP1Q1N/PPP2PPP/R1B1KB1R w KQkq - 0 6,"Bad move ! Instead of getting another defense for e4, got rid of d5."
+11,exd5,e4d5,rn1qkb1r/pbp2ppp/1p3n2/3Pp3/8/2NP1Q1N/PPP2PPP/R1B1KB1R b KQkq - 0 6,"Bad move ! Instead of getting another defense for e4, got rid of d5."
+12,Nxd5,f6d5,rn1qkb1r/pbp2ppp/1p6/3np3/8/2NP1Q1N/PPP2PPP/R1B1KB1R w KQkq - 0 7,Black pieces attacking.
+13,Nxd5,c3d5,rn1qkb1r/pbp2ppp/1p6/3Np3/8/3P1Q1N/PPP2PPP/R1B1KB1R b KQkq - 0 7,White Queen is getting more attacks.
+14,Bxd5,b7d5,rn1qkb1r/p1p2ppp/1p6/3bp3/8/3P1Q1N/PPP2PPP/R1B1KB1R w KQkq - 0 8,White Queen is getting more attacks.
+15,Qf5,f3f5,rn1qkb1r/p1p2ppp/1p6/3bpQ2/8/3P3N/PPP2PPP/R1B1KB1R b KQkq - 1 8,White Queen is getting more attacks.
+16,Nd7,b8d7,r2qkb1r/p1pn1ppp/1p6/3bpQ2/8/3P3N/PPP2PPP/R1B1KB1R w KQkq - 2 9,White Queen is getting more attacks.
+17,Be3,c1e3,r2qkb1r/p1pn1ppp/1p6/3bpQ2/8/3PB2N/PPP2PPP/R3KB1R b KQkq - 3 9,White Queen is getting more attacks.
+18,Qf6,d8f6,r3kb1r/p1pn1ppp/1p3q2/3bpQ2/8/3PB2N/PPP2PPP/R3KB1R w KQkq - 4 10,White Queen is getting more attacks.
+19,Qg4,f5g4,r3kb1r/p1pn1ppp/1p3q2/3bp3/6Q1/3PB2N/PPP2PPP/R3KB1R b KQkq - 5 10,"Again and again, the Queen is getting attacks."
+20,Be6,d5e6,r3kb1r/p1pn1ppp/1p2bq2/4p3/6Q1/3PB2N/PPP2PPP/R3KB1R w KQkq - 6 11,"Again and again, the Queen is getting attacks."
+21,Qa4,g4a4,r3kb1r/p1pn1ppp/1p2bq2/4p3/Q7/3PB2N/PPP2PPP/R3KB1R b KQkq - 7 11,Another attack !
+22,Bd6,f8d6,r3k2r/p1pn1ppp/1p1bbq2/4p3/Q7/3PB2N/PPP2PPP/R3KB1R w KQkq - 8 12,Another attack !
+23,O-O-O,e1c1,r3k2r/p1pn1ppp/1p1bbq2/4p3/Q7/3PB2N/PPP2PPP/2KR1B1R b kq - 9 12,Another attack !
+24,O-O,e8g8,r4rk1/p1pn1ppp/1p1bbq2/4p3/Q7/3PB2N/PPP2PPP/2KR1B1R w - - 10 13,Another attack !
+25,d4,d3d4,r4rk1/p1pn1ppp/1p1bbq2/4p3/Q2P4/4B2N/PPP2PPP/2KR1B1R b - - 0 13,Another attack !
+26,exd4,e5d4,r4rk1/p1pn1ppp/1p1bbq2/8/Q2p4/4B2N/PPP2PPP/2KR1B1R w - - 0 14,Another attack !
+27,Bxd4,e3d4,r4rk1/p1pn1ppp/1p1bbq2/8/Q2B4/7N/PPP2PPP/2KR1B1R b - - 0 14,Another attack !
+28,Qh6+,f6h6,r4rk1/p1pn1ppp/1p1bb2q/8/Q2B4/7N/PPP2PPP/2KR1B1R w - - 1 15,Another attack !
+29,Kb1,c1b1,r4rk1/p1pn1ppp/1p1bb2q/8/Q2B4/7N/PPP2PPP/1K1R1B1R b - - 2 15,Another attack !
+30,Nc5,d7c5,r4rk1/p1p2ppp/1p1bb2q/2n5/Q2B4/7N/PPP2PPP/1K1R1B1R w - - 3 16,Another attack !
+31,Qb4,a4b4,r4rk1/p1p2ppp/1p1bb2q/2n5/1Q1B4/7N/PPP2PPP/1K1R1B1R b - - 4 16,"Further and further black pieces, coming out and bothering the Queen."
+32,a5,a7a5,r4rk1/2p2ppp/1p1bb2q/p1n5/1Q1B4/7N/PPP2PPP/1K1R1B1R w - - 0 17,"Further and further black pieces, coming out and bothering the Queen."
+33,Qd2,b4d2,r4rk1/2p2ppp/1p1bb2q/p1n5/3B4/7N/PPPQ1PPP/1K1R1B1R b - - 1 17,Some sort of discovered attack to the Queen.
+34,Qg6,h6g6,r4rk1/2p2ppp/1p1bb1q1/p1n5/3B4/7N/PPPQ1PPP/1K1R1B1R w - - 2 18,Some sort of discovered attack to the Queen.
+35,Nf4,h3f4,r4rk1/2p2ppp/1p1bb1q1/p1n5/3B1N2/8/PPPQ1PPP/1K1R1B1R b - - 3 18,Some sort of discovered attack to the Queen.
+36,Qf5,g6f5,r4rk1/2p2ppp/1p1bb3/p1n2q2/3B1N2/8/PPPQ1PPP/1K1R1B1R w - - 4 19,Some sort of discovered attack to the Queen.
+37,Nh3,f4h3,r4rk1/2p2ppp/1p1bb3/p1n2q2/3B4/7N/PPPQ1PPP/1K1R1B1R b - - 5 19,Some sort of discovered attack to the Queen.
+38,Rad8,a8d8,3r1rk1/2p2ppp/1p1bb3/p1n2q2/3B4/7N/PPPQ1PPP/1K1R1B1R w - - 6 20,Some sort of discovered attack to the Queen.
+39,Bb5,f1b5,3r1rk1/2p2ppp/1p1bb3/pBn2q2/3B4/7N/PPPQ1PPP/1K1R3R b - - 7 20,More and more difficulties for the Queen.
+40,Ne4,c5e4,3r1rk1/2p2ppp/1p1bb3/pB3q2/3Bn3/7N/PPPQ1PPP/1K1R3R w - - 8 21,More and more difficulties for the Queen.
+41,Qe2,d2e2,3r1rk1/2p2ppp/1p1bb3/pB3q2/3Bn3/7N/PPP1QPPP/1K1R3R b - - 9 21,Bad move ! Knight was unprotected.
+42,Qg6,f5g6,3r1rk1/2p2ppp/1p1bb1q1/pB6/3Bn3/7N/PPP1QPPP/1K1R3R w - - 10 22,Bad move ! Knight was unprotected.
+43,Nf4,h3f4,3r1rk1/2p2ppp/1p1bb1q1/pB6/3BnN2/8/PPP1QPPP/1K1R3R b - - 11 22,Bad move ! Knight was unprotected.
+44,Bxf4,d6f4,3r1rk1/2p2ppp/1p2b1q1/pB6/3Bnb2/8/PPP1QPPP/1K1R3R w - - 0 23,Bad move ! Knight was unprotected.
+45,g3,g2g3,3r1rk1/2p2ppp/1p2b1q1/pB6/3Bnb2/6P1/PPP1QP1P/1K1R3R b - - 0 23,"Oh, no ! This time white king was troubled with a check."
+46,Nd2+,e4d2,3r1rk1/2p2ppp/1p2b1q1/pB6/3B1b2/6P1/PPPnQP1P/1K1R3R w - - 1 24,"Oh, no ! This time white king was troubled with a check."
+47,Rxd2,d1d2,3r1rk1/2p2ppp/1p2b1q1/pB6/3B1b2/6P1/PPPRQP1P/1K5R b - - 0 24,"Without cutting by the Rook, better take King away. Later can be attacked by the Bishop at d4."
+48,Bxd2,f4d2,3r1rk1/2p2ppp/1p2b1q1/pB6/3B4/6P1/PPPbQP1P/1K5R w - - 0 25,Getting further troubles by taking the Rook into the d file.
+49,Rd1,h1d1,3r1rk1/2p2ppp/1p2b1q1/pB6/3B4/6P1/PPPbQP1P/1K1R4 b - - 1 25,Getting further troubles by taking the Rook into the d file.
+50,Rxd4,d8d4,5rk1/2p2ppp/1p2b1q1/pB6/3r4/6P1/PPPbQP1P/1K1R4 w - - 0 26,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+51,Rxd2,d1d2,5rk1/2p2ppp/1p2b1q1/pB6/3r4/6P1/PPPRQP1P/1K6 b - - 0 26,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+52,Rxd2,d4d2,5rk1/2p2ppp/1p2b1q1/pB6/8/6P1/PPPrQP1P/1K6 w - - 0 27,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+53,Qxd2,e2d2,5rk1/2p2ppp/1p2b1q1/pB6/8/6P1/PPPQ1P1P/1K6 b - - 0 27,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+54,Qe4,g6e4,5rk1/2p2ppp/1p2b3/pB6/4q3/6P1/PPPQ1P1P/1K6 w - - 1 28,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+55,Bd3,b5d3,5rk1/2p2ppp/1p2b3/p7/4q3/3B2P1/PPPQ1P1P/1K6 b - - 2 28,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+56,Qh1+,e4h1,5rk1/2p2ppp/1p2b3/p7/8/3B2P1/PPPQ1P1P/1K5q w - - 3 29,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+57,Qc1,d2c1,5rk1/2p2ppp/1p2b3/p7/8/3B2P1/PPP2P1P/1KQ4q b - - 4 29,That was a nice move for the moment ! Though black pieces are much smarter ! Watch out !!!  It is ideal time to play tac-tics. Have the focus on Bishop at e6.
+58,Bxa2+,e6a2,5rk1/2p2ppp/1p6/p7/8/3B2P1/bPP2P1P/1KQ4q w - - 0 30,"Sacrificed ! Hoping to get a big harvest. See, it will work or ..."
+59,Kxa2,b1a2,5rk1/2p2ppp/1p6/p7/8/3B2P1/KPP2P1P/2Q4q b - - 0 30,Yes ! It worked and ...
+60,Qxc1,h1c1,5rk1/2p2ppp/1p6/p7/8/3B2P1/KPP2P1P/2q5 w - - 0 31,"Got away the white Queen and the black Queen with the Rook and company are very stronger than the white side and threatening to defeat of the white. As expected, white got resigned giving the well desired victory for the Blacks."

@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Pretty standard opening move
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Now I've had people question the motive behind pawn a3 or pawn h3, but it's because it helps me set up future positions and a safe point if it comes to pass in the future. Obviously we are only 2 moves into this game so I don't know what will happen further down the line."
+3,a3,a2a3,rnbqkbnr/pppp1ppp/4p3/8/3P4/P7/1PP1PPPP/RNBQKBNR b KQkq - 0 2,"Now I've had people question the motive behind pawn a3 or pawn h3, but it's because it helps me set up future positions and a safe point if it comes to pass in the future. Obviously we are only 2 moves into this game so I don't know what will happen further down the line."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n1p3/8/3P4/P7/1PP1PPPP/RNBQKBNR w KQkq - 1 3,Black does same move to protect threat of Bg5
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n1p3/8/3P4/P4N2/1PP1PPPP/RNBQKB1R b KQkq - 2 3,Black does same move to protect threat of Bg5
+6,h6,h7h6,r1bqkbnr/pppp1pp1/2n1p2p/8/3P4/P4N2/1PP1PPPP/RNBQKB1R w KQkq - 0 4,Black does same move to protect threat of Bg5
+7,Bf4,c1f4,r1bqkbnr/pppp1pp1/2n1p2p/8/3P1B2/P4N2/1PP1PPPP/RN1QKB1R b KQkq - 1 4,Ultimately I prefer the Bishops to always have some pressure on Black pawn at c7 in case they castle. Same goes for White bishop currently at f1. Although looks like Black is more likely to O-O
+8,Nf6,g8f6,r1bqkb1r/pppp1pp1/2n1pn1p/8/3P1B2/P4N2/1PP1PPPP/RN1QKB1R w KQkq - 2 5,Ultimately I prefer the Bishops to always have some pressure on Black pawn at c7 in case they castle. Same goes for White bishop currently at f1. Although looks like Black is more likely to O-O
+9,h3,h2h3,r1bqkb1r/pppp1pp1/2n1pn1p/8/3P1B2/P4N1P/1PP1PPP1/RN1QKB1R b KQkq - 0 5,Ultimately I prefer the Bishops to always have some pressure on Black pawn at c7 in case they castle. Same goes for White bishop currently at f1. Although looks like Black is more likely to O-O
+10,Nd5,f6d5,r1bqkb1r/pppp1pp1/2n1p2p/3n4/3P1B2/P4N1P/1PP1PPP1/RN1QKB1R w KQkq - 1 6,I push B to g3 instead of h2 because I was very confident that he'd castle on the bishop side. I didn't want to be in the Rh1 way when I tried for the backdoor checkmate
+11,Bg3,f4g3,r1bqkb1r/pppp1pp1/2n1p2p/3n4/3P4/P4NBP/1PP1PPP1/RN1QKB1R b KQkq - 2 6,I push B to g3 instead of h2 because I was very confident that he'd castle on the bishop side. I didn't want to be in the Rh1 way when I tried for the backdoor checkmate
+12,Be7,f8e7,r1bqk2r/ppppbpp1/2n1p2p/3n4/3P4/P4NBP/1PP1PPP1/RN1QKB1R w KQkq - 3 7,Opens up White bishop to move
+13,e3,e2e3,r1bqk2r/ppppbpp1/2n1p2p/3n4/3P4/P3PNBP/1PP2PP1/RN1QKB1R b KQkq - 0 7,Opens up White bishop to move
+14,a6,a7a6,r1bqk2r/1pppbpp1/p1n1p2p/3n4/3P4/P3PNBP/1PP2PP1/RN1QKB1R w KQkq - 0 8,If anything it was to move queen out of the Kings path for a castle if needed
+15,Qd2,d1d2,r1bqk2r/1pppbpp1/p1n1p2p/3n4/3P4/P3PNBP/1PPQ1PP1/RN2KB1R b KQkq - 1 8,If anything it was to move queen out of the Kings path for a castle if needed
+16,O-O,e8g8,r1bq1rk1/1pppbpp1/p1n1p2p/3n4/3P4/P3PNBP/1PPQ1PP1/RN2KB1R w KQ - 2 9,"As expected, Black castle which now I hope to set up solid positions to trap Black King in end game"
+17,Bd3,f1d3,r1bq1rk1/1pppbpp1/p1n1p2p/3n4/3P4/P2BPNBP/1PPQ1PP1/RN2K2R b KQ - 3 9,Nc3 to tempt Black knight into trading
+18,d6,d7d6,r1bq1rk1/1pp1bpp1/p1npp2p/3n4/3P4/P2BPNBP/1PPQ1PP1/RN2K2R w KQ - 0 10,Nc3 to tempt Black knight into trading
+19,Nc3,b1c3,r1bq1rk1/1pp1bpp1/p1npp2p/3n4/3P4/P1NBPNBP/1PPQ1PP1/R3K2R b KQ - 1 10,Nc3 to tempt Black knight into trading
+20,Nxc3,d5c3,r1bq1rk1/1pp1bpp1/p1npp2p/8/3P4/P1nBPNBP/1PPQ1PP1/R3K2R w KQ - 0 11,Accomplished
+21,Qxc3,d2c3,r1bq1rk1/1pp1bpp1/p1npp2p/8/3P4/P1QBPNBP/1PP2PP1/R3K2R b KQ - 0 11,My goal is to eventually remove black pawn from h6 and use rooks to trap Black King at g8. Also at some point get White Queen back to d2 for further development
+22,Bf6,e7f6,r1bq1rk1/1pp2pp1/p1nppb1p/8/3P4/P1QBPNBP/1PP2PP1/R3K2R w KQ - 1 12,My goal is to eventually remove black pawn from h6 and use rooks to trap Black King at g8. Also at some point get White Queen back to d2 for further development
+23,O-O-O,e1c1,r1bq1rk1/1pp2pp1/p1nppb1p/8/3P4/P1QBPNBP/1PP2PP1/2KR3R b - - 2 12,My goal is to eventually remove black pawn from h6 and use rooks to trap Black King at g8. Also at some point get White Queen back to d2 for further development
+24,Ne7,c6e7,r1bq1rk1/1pp1npp1/p2ppb1p/8/3P4/P1QBPNBP/1PP2PP1/2KR3R w - - 3 13,In order to remove Black pawn from h6 it is sometimes necessary to sacrifice a piece. Pawn to h4 supports the future sacrifice to take and open the H file
+25,h4,h3h4,r1bq1rk1/1pp1npp1/p2ppb1p/8/3P3P/P1QBPNB1/1PP2PP1/2KR3R b - - 0 13,In order to remove Black pawn from h6 it is sometimes necessary to sacrifice a piece. Pawn to h4 supports the future sacrifice to take and open the H file
+26,Nd5,e7d5,r1bq1rk1/1pp2pp1/p2ppb1p/3n4/3P3P/P1QBPNB1/1PP2PP1/2KR3R w - - 1 14,"Thankfully Black threatened my queen so I could put her into a solid position without wasting a turn. Note* Won't look like much of a ""solid"" position but for the sake of the end game it does what it's meant to do."
+27,Qd2,c3d2,r1bq1rk1/1pp2pp1/p2ppb1p/3n4/3P3P/P2BPNB1/1PPQ1PP1/2KR3R b - - 2 14,"""Solid"" position haha"
+28,Nb6,d5b6,r1bq1rk1/1pp2pp1/pn1ppb1p/8/3P3P/P2BPNB1/1PPQ1PP1/2KR3R w - - 3 15,Black knight regresses into same position again
+29,b3,b2b3,r1bq1rk1/1pp2pp1/pn1ppb1p/8/3P3P/PP1BPNB1/2PQ1PP1/2KR3R b - - 0 15,Black knight regresses into same position again
+30,Nd5,b6d5,r1bq1rk1/1pp2pp1/p2ppb1p/3n4/3P3P/PP1BPNB1/2PQ1PP1/2KR3R w - - 1 16,Black knight regresses into same position again
+31,e4,e3e4,r1bq1rk1/1pp2pp1/p2ppb1p/3n4/3PP2P/PP1B1NB1/2PQ1PP1/2KR3R b - - 0 16,Pawn threatens Black knight but actually helps put pressure on black pawn at h6 for backdoor checkmate. Note* If you can't see it yet give it a few moves
+32,Nb6,d5b6,r1bq1rk1/1pp2pp1/pn1ppb1p/8/3PP2P/PP1B1NB1/2PQ1PP1/2KR3R w - - 1 17,"With this, the attack begins. To be honest I don't think Black fully saw what i was ultimately going for due to lack of piece positions which I believe to be the downfall"
+33,Bf4,g3f4,r1bq1rk1/1pp2pp1/pn1ppb1p/8/3PPB1P/PP1B1N2/2PQ1PP1/2KR3R b - - 2 17,"With this, the attack begins. To be honest I don't think Black fully saw what i was ultimately going for due to lack of piece positions which I believe to be the downfall"
+34,e5,e6e5,r1bq1rk1/1pp2pp1/pn1p1b1p/4p3/3PPB1P/PP1B1N2/2PQ1PP1/2KR3R w - - 0 18,When Black took pawn to threaten Bf4 it opened up D file to put pressure on White bishop and trap my queen. Coincidentally in this moment I found an alt checkmate if my next move sacrifice proved ineffective.
+35,dxe5,d4e5,r1bq1rk1/1pp2pp1/pn1p1b1p/4P3/4PB1P/PP1B1N2/2PQ1PP1/2KR3R b - - 0 18,When Black took pawn to threaten Bf4 it opened up D file to put pressure on White bishop and trap my queen. Coincidentally in this moment I found an alt checkmate if my next move sacrifice proved ineffective.
+36,dxe5,d6e5,r1bq1rk1/1pp2pp1/pn3b1p/4p3/4PB1P/PP1B1N2/2PQ1PP1/2KR3R w - - 0 19,When Black took pawn to threaten Bf4 it opened up D file to put pressure on White bishop and trap my queen. Coincidentally in this moment I found an alt checkmate if my next move sacrifice proved ineffective.
+37,Bg5,f4g5,r1bq1rk1/1pp2pp1/pn3b1p/4p1B1/4P2P/PP1B1N2/2PQ1PP1/2KR3R b - - 1 19,The sacrifice
+38,hxg5,h6g5,r1bq1rk1/1pp2pp1/pn3b2/4p1p1/4P2P/PP1B1N2/2PQ1PP1/2KR3R w - - 0 20,The support takes which opens H file
+39,hxg5,h4g5,r1bq1rk1/1pp2pp1/pn3b2/4p1P1/4P3/PP1B1N2/2PQ1PP1/2KR3R b - - 0 20,The support takes which opens H file

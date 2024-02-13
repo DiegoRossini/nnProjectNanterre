@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,right off the bat I did not recognize this opening
+2,a6,a7a6,rnbqkbnr/1ppppppp/p7/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,right off the bat I did not recognize this opening
+3,e4,e2e4,rnbqkbnr/1ppppppp/p7/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,my thought was to take control of the center
+4,c5,c7c5,rnbqkbnr/1p1ppppp/p7/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Im still thinking im ok in establishing control of the center
+5,d5,d4d5,rnbqkbnr/1p1ppppp/p7/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Im still thinking im ok in establishing control of the center
+6,d6,d7d6,rnbqkbnr/1p2pppp/p2p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Im still thinking im ok in establishing control of the center
+7,c4,c2c4,rnbqkbnr/1p2pppp/p2p4/2pP4/2P1P3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,Im still thinking im ok in establishing control of the center
+8,Nf6,g8f6,rnbqkb1r/1p2pppp/p2p1n2/2pP4/2P1P3/8/PP3PPP/RNBQKBNR w KQkq - 1 5,the comp analysis actually says im alittle ahead
+9,Bg5,c1g5,rnbqkb1r/1p2pppp/p2p1n2/2pP2B1/2P1P3/8/PP3PPP/RN1QKBNR b KQkq - 2 5,then of course my first blunder..comp says Nc3 is better
+10,Nxe4,f6e4,rnbqkb1r/1p2pppp/p2p4/2pP2B1/2P1n3/8/PP3PPP/RN1QKBNR w KQkq - 0 6,I should have retreated to e3
+11,Bh4,g5h4,rnbqkb1r/1p2pppp/p2p4/2pP4/2P1n2B/8/PP3PPP/RN1QKBNR b KQkq - 1 6,I should have retreated to e3
+12,g5,g7g5,rnbqkb1r/1p2pp1p/p2p4/2pP2p1/2P1n2B/8/PP3PPP/RN1QKBNR w KQkq - 0 7,he is already dictating where I put my pieces
+13,Bg3,h4g3,rnbqkb1r/1p2pp1p/p2p4/2pP2p1/2P1n3/6B1/PP3PPP/RN1QKBNR b KQkq - 1 7,he is already dictating where I put my pieces
+14,Qa5+,d8a5,rnb1kb1r/1p2pp1p/p2p4/q1pP2p1/2P1n3/6B1/PP3PPP/RN1QKBNR w KQkq - 2 8,big mistake here..i actually looked at Nc3 but I was concerned about blacks knight on e4..
+15,Ke2,e1e2,rnb1kb1r/1p2pp1p/p2p4/q1pP2p1/2P1n3/6B1/PP2KPPP/RN1Q1BNR b kq - 3 8,big mistake here..i actually looked at Nc3 but I was concerned about blacks knight on e4..
+16,Bg7,f8g7,rnb1k2r/1p2ppbp/p2p4/q1pP2p1/2P1n3/6B1/PP2KPPP/RN1Q1BNR w kq - 4 9,now my concern is he will get my rook..black has me pinned with his Queen so my moves are few
+17,a3,a2a3,rnb1k2r/1p2ppbp/p2p4/q1pP2p1/2P1n3/P5B1/1P2KPPP/RN1Q1BNR b kq - 0 9,according to analysis every move black makes from here on in gains an advantage
+18,h5,h7h5,rnb1k2r/1p2ppb1/p2p4/q1pP2pp/2P1n3/P5B1/1P2KPPP/RN1Q1BNR w kq - 0 10,according to analysis every move black makes from here on in gains an advantage
+19,f3,f2f3,rnb1k2r/1p2ppb1/p2p4/q1pP2pp/2P1n3/P4PB1/1P2K1PP/RN1Q1BNR b kq - 0 10,so far even though he is gaining an advantage..comp analysis agrees with my moves
+20,Nxg3+,e4g3,rnb1k2r/1p2ppb1/p2p4/q1pP2pp/2P5/P4Pn1/1P2K1PP/RN1Q1BNR w kq - 0 11,so far even though he is gaining an advantage..comp analysis agrees with my moves
+21,hxg3,h2g3,rnb1k2r/1p2ppb1/p2p4/q1pP2pp/2P5/P4PP1/1P2K1P1/RN1Q1BNR b kq - 0 11,so far even though he is gaining an advantage..comp analysis agrees with my moves
+22,Bxb2,g7b2,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2P5/P4PP1/1b2K1P1/RN1Q1BNR w kq - 0 12,so far even though he is gaining an advantage..comp analysis agrees with my moves
+23,Ra2,a1a2,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2P5/P4PP1/Rb2K1P1/1N1Q1BNR b kq - 1 12,so far even though he is gaining an advantage..comp analysis agrees with my moves
+24,Be5,b2e5,rnb1k2r/1p2pp2/p2p4/q1pPb1pp/2P5/P4PP1/R3K1P1/1N1Q1BNR w kq - 2 13,so far even though he is gaining an advantage..comp analysis agrees with my moves
+25,Nd2,b1d2,rnb1k2r/1p2pp2/p2p4/q1pPb1pp/2P5/P4PP1/R2NK1P1/3Q1BNR b kq - 3 13,so far even though he is gaining an advantage..comp analysis agrees with my moves
+26,Bxg3,e5g3,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2P5/P4Pb1/R2NK1P1/3Q1BNR w kq - 0 14,so far even though he is gaining an advantage..comp analysis agrees with my moves
+27,Ne4,d2e4,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2P1N3/P4Pb1/R3K1P1/3Q1BNR b kq - 1 14,so far even though he is gaining an advantage..comp analysis agrees with my moves
+28,Be5,g3e5,rnb1k2r/1p2pp2/p2p4/q1pPb1pp/2P1N3/P4P2/R3K1P1/3Q1BNR w kq - 2 15,so far even though he is gaining an advantage..comp analysis agrees with my moves
+29,Kf2,e2f2,rnb1k2r/1p2pp2/p2p4/q1pPb1pp/2P1N3/P4P2/R4KP1/3Q1BNR b kq - 3 15,so far even though he is gaining an advantage..comp analysis agrees with my moves
+30,Bd4+,e5d4,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2PbN3/P4P2/R4KP1/3Q1BNR w kq - 4 16,so far even though he is gaining an advantage..comp analysis agrees with my moves
+31,Ke2,f2e2,rnb1k2r/1p2pp2/p2p4/q1pP2pp/2PbN3/P4P2/R3K1P1/3Q1BNR b kq - 5 16,so far even though he is gaining an advantage..comp analysis agrees with my moves
+32,b5,b7b5,rnb1k2r/4pp2/p2p4/qppP2pp/2PbN3/P4P2/R3K1P1/3Q1BNR w kq - 0 17,so far even though he is gaining an advantage..comp analysis agrees with my moves
+33,Nd2,e4d2,rnb1k2r/4pp2/p2p4/qppP2pp/2Pb4/P4P2/R2NK1P1/3Q1BNR b kq - 1 17,so far even though he is gaining an advantage..comp analysis agrees with my moves
+34,Bf5,c8f5,rn2k2r/4pp2/p2p4/qppP1bpp/2Pb4/P4P2/R2NK1P1/3Q1BNR w kq - 2 18,big mistake here ..I was just trying to threaten blacks queen...from move 11 on I was moving where black wanted me to. he told me at game end to play the board not the moves
+35,Nb3,d2b3,rn2k2r/4pp2/p2p4/qppP1bpp/2Pb4/PN3P2/R3K1P1/3Q1BNR b kq - 3 18,big mistake here ..I was just trying to threaten blacks queen...from move 11 on I was moving where black wanted me to. he told me at game end to play the board not the moves
+36,Qc3,a5c3,rn2k2r/4pp2/p2p4/1ppP1bpp/2Pb4/PNq2P2/R3K1P1/3Q1BNR w kq - 4 19,i wonder if black was cooking and doing his taxes while he played this game he certainly didn't need to think to much about my game lol...it was amazing how smooth he played
+37,cxb5,c4b5,rn2k2r/4pp2/p2p4/1PpP1bpp/3b4/PNq2P2/R3K1P1/3Q1BNR b kq - 0 19,i wonder if black was cooking and doing his taxes while he played this game he certainly didn't need to think to much about my game lol...it was amazing how smooth he played
+38,Qe3#,c3e3,rn2k2r/4pp2/p2p4/1PpP1bpp/3b4/PN2qP2/R3K1P1/3Q1BNR w kq - 1 20,i wonder if black was cooking and doing his taxes while he played this game he certainly didn't need to think to much about my game lol...it was amazing how smooth he played

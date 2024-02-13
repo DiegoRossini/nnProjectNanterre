@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,starting the gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this i believe is the worse way to not accept the gambit.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,this i believe is the worse way to not accept the gambit.
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,this i believe is the worse way to not accept the gambit.
+5,Bc4,f1c4,rnbqkbnr/pppp2pp/5p2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,continue develpoement
+6,c6,c7c6,rnbqkbnr/pp1p2pp/2p2p2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR w KQkq - 0 4,"4 pawn moves for black, and this one does nothing but hurt his structure, what piece of mine is going to b4?"
+7,Nc3,b1c3,rnbqkbnr/pp1p2pp/2p2p2/4p3/2B1PP2/2N5/PPPP2PP/R1BQK1NR b KQkq - 1 4,"4 pawn moves for black, and this one does nothing but hurt his structure, what piece of mine is going to b4?"
+8,a5,a7a5,rnbqkbnr/1p1p2pp/2p2p2/p3p3/2B1PP2/2N5/PPPP2PP/R1BQK1NR w KQkq - 0 5,"4 pawn moves for black, and this one does nothing but hurt his structure, what piece of mine is going to b4?"
+9,f5,f4f5,rnbqkbnr/1p1p2pp/2p2p2/p3pP2/2B1P3/2N5/PPPP2PP/R1BQK1NR b KQkq - 0 5,i end the gambit and decide to launch a attack threating Qh4
+10,Bb4,f8b4,rnbqk1nr/1p1p2pp/2p2p2/p3pP2/1bB1P3/2N5/PPPP2PP/R1BQK1NR w KQkq - 1 6,i let the pin happen hoping to keep the bishop station here and away from the king
+11,d3,d2d3,rnbqk1nr/1p1p2pp/2p2p2/p3pP2/1bB1P3/2NP4/PPP3PP/R1BQK1NR b KQkq - 0 6,i let the pin happen hoping to keep the bishop station here and away from the king
+12,Ne7,g8e7,rnbqk2r/1p1pn1pp/2p2p2/p3pP2/1bB1P3/2NP4/PPP3PP/R1BQK1NR w KQkq - 1 7,time to attack.
+13,Qh5+,d1h5,rnbqk2r/1p1pn1pp/2p2p2/p3pP1Q/1bB1P3/2NP4/PPP3PP/R1B1K1NR b KQkq - 2 7,time to attack.
+14,g6,g7g6,rnbqk2r/1p1pn2p/2p2pp1/p3pP1Q/1bB1P3/2NP4/PPP3PP/R1B1K1NR w KQkq - 0 8,trying to slvage a castling right
+15,fxg6,f5g6,rnbqk2r/1p1pn2p/2p2pP1/p3p2Q/1bB1P3/2NP4/PPP3PP/R1B1K1NR b KQkq - 0 8,pins the knight for a looooong time
+16,Nxg6,e7g6,rnbqk2r/1p1p3p/2p2pn1/p3p2Q/1bB1P3/2NP4/PPP3PP/R1B1K1NR w KQkq - 0 9,pins the knight for a looooong time
+17,Bh6,c1h6,rnbqk2r/1p1p3p/2p2pnB/p3p2Q/1bB1P3/2NP4/PPP3PP/R3K1NR b KQkq - 1 9,"not allowing black to castel, i doubt he would have but alas"
+18,Qe7,d8e7,rnb1k2r/1p1pq2p/2p2pnB/p3p2Q/1bB1P3/2NP4/PPP3PP/R3K1NR w KQkq - 2 10,castling into it maybe but i want to pull this rook into the action
+19,O-O-O,e1c1,rnb1k2r/1p1pq2p/2p2pnB/p3p2Q/1bB1P3/2NP4/PPP3PP/2KR2NR b kq - 3 10,castling into it maybe but i want to pull this rook into the action
+20,b5,b7b5,rnb1k2r/3pq2p/2p2pnB/pp2p2Q/1bB1P3/2NP4/PPP3PP/2KR2NR w kq - 0 11,"i would rather keep the bishop, so ill throw away the knight"
+21,Nxb5,c3b5,rnb1k2r/3pq2p/2p2pnB/pN2p2Q/1bB1P3/3P4/PPP3PP/2KR2NR b kq - 0 11,"i would rather keep the bishop, so ill throw away the knight"
+22,cxb5,c6b5,rnb1k2r/3pq2p/5pnB/pp2p2Q/1bB1P3/3P4/PPP3PP/2KR2NR w kq - 0 12,the quuen is walking awfully slow
+23,Bxb5,c4b5,rnb1k2r/3pq2p/5pnB/pB2p2Q/1b2P3/3P4/PPP3PP/2KR2NR b kq - 0 12,the quuen is walking awfully slow
+24,Qe6,e7e6,rnb1k2r/3p3p/4qpnB/pB2p2Q/1b2P3/3P4/PPP3PP/2KR2NR w kq - 1 13,the quuen is walking awfully slow
+25,Bc4,b5c4,rnb1k2r/3p3p/4qpnB/p3p2Q/1bB1P3/3P4/PPP3PP/2KR2NR b kq - 2 13,get back at my out post and harass the queen
+26,Qe7,e6e7,rnb1k2r/3pq2p/5pnB/p3p2Q/1bB1P3/3P4/PPP3PP/2KR2NR w kq - 3 14,back where it was giving white a tempo
+27,Nf3,g1f3,rnb1k2r/3pq2p/5pnB/p3p2Q/1bB1P3/3P1N2/PPP3PP/2KR3R b kq - 4 14,making room
+28,Rg8,h8g8,rnb1k1r1/3pq2p/5pnB/p3p2Q/1bB1P3/3P1N2/PPP3PP/2KR3R w q - 5 15,"trying to pressure the middle and open it up.  (did not relize the free rook on g7 either, i just now noticed it)"
+29,d4,d3d4,rnb1k1r1/3pq2p/5pnB/p3p2Q/1bBPP3/5N2/PPP3PP/2KR3R b q - 0 15,"trying to pressure the middle and open it up.  (did not relize the free rook on g7 either, i just now noticed it)"
+30,Rh8,g8h8,rnb1k2r/3pq2p/5pnB/p3p2Q/1bBPP3/5N2/PPP3PP/2KR3R w q - 1 16,appartly he did notice it.
+31,dxe5,d4e5,rnb1k2r/3pq2p/5pnB/p3P2Q/1bB1P3/5N2/PPP3PP/2KR3R b q - 0 16,opening the rook file
+32,Ba3,b4a3,rnb1k2r/3pq2p/5pnB/p3P2Q/2B1P3/b4N2/PPP3PP/2KR3R w q - 1 17,he is hoping ill break up my pawns.

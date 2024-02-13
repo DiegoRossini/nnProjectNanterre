@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,a bad move. what is the idea behind giving awaya pawn like that?
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,a bad move. what is the idea behind giving awaya pawn like that?
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,a bad move. what is the idea behind giving awaya pawn like that?
+4,e5,e7e5,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,a bad move. what is the idea behind giving awaya pawn like that?
+5,Nxe5,f3e5,rnbqkbnr/pp1p1ppp/8/2p1N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,making pressure and developing pieces.
+6,Nf6,g8f6,rnbqkb1r/pp1p1ppp/5n2/2p1N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,making pressure and developing pieces.
+7,Bc4,f1c4,rnbqkb1r/pp1p1ppp/5n2/2p1N3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 2 4,making pressure and developing pieces.
+8,d5,d7d5,rnbqkb1r/pp3ppp/5n2/2ppN3/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,it is important to get a steady center but not with the price of two pawns.
+9,exd5,e4d5,rnbqkb1r/pp3ppp/5n2/2pPN3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,it is important to get a steady center but not with the price of two pawns.
+10,Bd6,f8d6,rnbqk2r/pp3ppp/3b1n2/2pPN3/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 1 6,it is important to get a steady center but not with the price of two pawns.
+11,Qe2,d1e2,rnbqk2r/pp3ppp/3b1n2/2pPN3/2B5/8/PPPPQPPP/RNB1K2R b KQkq - 2 6,"white has a strong center play and the king side,"
+12,O-O,e8g8,rnbq1rk1/pp3ppp/3b1n2/2pPN3/2B5/8/PPPPQPPP/RNB1K2R w KQ - 3 7,"white has a strong center play and the king side,"
+13,f4,f2f4,rnbq1rk1/pp3ppp/3b1n2/2pPN3/2B2P2/8/PPPPQ1PP/RNB1K2R b KQ - 0 7,"white has a strong center play and the king side,"
+14,Bf5,c8f5,rn1q1rk1/pp3ppp/3b1n2/2pPNb2/2B2P2/8/PPPPQ1PP/RNB1K2R w KQ - 1 8,"white has a strong center play and the king side,"
+15,Nc3,b1c3,rn1q1rk1/pp3ppp/3b1n2/2pPNb2/2B2P2/2N5/PPPPQ1PP/R1B1K2R b KQ - 2 8,"white has a strong center play and the king side,"
+16,Qc7,d8c7,rn3rk1/ppq2ppp/3b1n2/2pPNb2/2B2P2/2N5/PPPPQ1PP/R1B1K2R w KQ - 3 9,"white has a strong center play and the king side,"
+17,O-O,e1g1,rn3rk1/ppq2ppp/3b1n2/2pPNb2/2B2P2/2N5/PPPPQ1PP/R1B2RK1 b - - 4 9,at last!
+18,Re8,f8e8,rn2r1k1/ppq2ppp/3b1n2/2pPNb2/2B2P2/2N5/PPPPQ1PP/R1B2RK1 w - - 5 10,better is a6 and avoiding white's Nb5.
+19,Nb5,c3b5,rn2r1k1/ppq2ppp/3b1n2/1NpPNb2/2B2P2/8/PPPPQ1PP/R1B2RK1 b - - 6 10,white will exchsnge all he is got.
+20,Qd8,c7d8,rn1qr1k1/pp3ppp/3b1n2/1NpPNb2/2B2P2/8/PPPPQ1PP/R1B2RK1 w - - 7 11,white will exchsnge all he is got.
+21,Nxd6,b5d6,rn1qr1k1/pp3ppp/3N1n2/2pPNb2/2B2P2/8/PPPPQ1PP/R1B2RK1 b - - 0 11,white will exchsnge all he is got.
+22,Qxd6,d8d6,rn2r1k1/pp3ppp/3q1n2/2pPNb2/2B2P2/8/PPPPQ1PP/R1B2RK1 w - - 0 12,white will exchsnge all he is got.
+23,Bb5,c4b5,rn2r1k1/pp3ppp/3q1n2/1BpPNb2/5P2/8/PPPPQ1PP/R1B2RK1 b - - 1 12,black is technically playing without two pieces.
+24,Re7,e8e7,rn4k1/pp2rppp/3q1n2/1BpPNb2/5P2/8/PPPPQ1PP/R1B2RK1 w - - 2 13,black is technically playing without two pieces.
+25,c4,c2c4,rn4k1/pp2rppp/3q1n2/1BpPNb2/2P2P2/8/PP1PQ1PP/R1B2RK1 b - - 0 13,black is technically playing without two pieces.
+26,Bg4,f5g4,rn4k1/pp2rppp/3q1n2/1BpPN3/2P2Pb1/8/PP1PQ1PP/R1B2RK1 w - - 1 14,black is technically playing without two pieces.
+27,Qd3,e2d3,rn4k1/pp2rppp/3q1n2/1BpPN3/2P2Pb1/3Q4/PP1P2PP/R1B2RK1 b - - 2 14,keeping that bishop is important.
+28,a6,a7a6,rn4k1/1p2rppp/p2q1n2/1BpPN3/2P2Pb1/3Q4/PP1P2PP/R1B2RK1 w - - 0 15,keeping that bishop is important.
+29,Nxg4,e5g4,rn4k1/1p2rppp/p2q1n2/1BpP4/2P2PN1/3Q4/PP1P2PP/R1B2RK1 b - - 0 15,white excganges all he can.
+30,Nxg4,f6g4,rn4k1/1p2rppp/p2q4/1BpP4/2P2Pn1/3Q4/PP1P2PP/R1B2RK1 w - - 0 16,game is technically over with that move. nothing more to see.
+31,Qf5,d3f5,rn4k1/1p2rppp/p2q4/1BpP1Q2/2P2Pn1/8/PP1P2PP/R1B2RK1 b - - 1 16,game is technically over with that move. nothing more to see.
+32,Nh6,g4h6,rn4k1/1p2rppp/p2q3n/1BpP1Q2/2P2P2/8/PP1P2PP/R1B2RK1 w - - 2 17,game is technically over with that move. nothing more to see.
+33,Qc8+,f5c8,rnQ3k1/1p2rppp/p2q3n/1BpP4/2P2P2/8/PP1P2PP/R1B2RK1 b - - 3 17,the end!
+34,Re8,e7e8,rnQ1r1k1/1p3ppp/p2q3n/1BpP4/2P2P2/8/PP1P2PP/R1B2RK1 w - - 4 18,the end!
+35,Bxe8,b5e8,rnQ1B1k1/1p3ppp/p2q3n/2pP4/2P2P2/8/PP1P2PP/R1B2RK1 b - - 0 18,the end!
+36,Qf8,d6f8,rnQ1Bqk1/1p3ppp/p6n/2pP4/2P2P2/8/PP1P2PP/R1B2RK1 w - - 1 19,the end!
+37,Re1,f1e1,rnQ1Bqk1/1p3ppp/p6n/2pP4/2P2P2/8/PP1P2PP/R1B1R1K1 b - - 2 19,the end!
+38,g6,g7g6,rnQ1Bqk1/1p3p1p/p5pn/2pP4/2P2P2/8/PP1P2PP/R1B1R1K1 w - - 0 20,the end!
+39,Qxb7,c8b7,rn2Bqk1/1Q3p1p/p5pn/2pP4/2P2P2/8/PP1P2PP/R1B1R1K1 b - - 0 20,the end!
+40,Qd6,f8d6,rn2B1k1/1Q3p1p/p2q2pn/2pP4/2P2P2/8/PP1P2PP/R1B1R1K1 w - - 1 21,the end!
+41,Qxa8,b7a8,Qn2B1k1/5p1p/p2q2pn/2pP4/2P2P2/8/PP1P2PP/R1B1R1K1 b - - 0 21,the end!
+42,Qxf4,d6f4,Qn2B1k1/5p1p/p5pn/2pP4/2P2q2/8/PP1P2PP/R1B1R1K1 w - - 0 22,the end!
+43,d3,d2d3,Qn2B1k1/5p1p/p5pn/2pP4/2P2q2/3P4/PP4PP/R1B1R1K1 b - - 0 22,the end!
+44,Qd4+,f4d4,Qn2B1k1/5p1p/p5pn/2pP4/2Pq4/3P4/PP4PP/R1B1R1K1 w - - 1 23,the end!
+45,Be3,c1e3,Qn2B1k1/5p1p/p5pn/2pP4/2Pq4/3PB3/PP4PP/R3R1K1 b - - 2 23,the end!
+46,Qh4,d4h4,Qn2B1k1/5p1p/p5pn/2pP4/2P4q/3PB3/PP4PP/R3R1K1 w - - 3 24,the end!
+47,Qxb8,a8b8,1Q2B1k1/5p1p/p5pn/2pP4/2P4q/3PB3/PP4PP/R3R1K1 b - - 0 24,the end!
+48,Ng4,h6g4,1Q2B1k1/5p1p/p5p1/2pP4/2P3nq/3PB3/PP4PP/R3R1K1 w - - 1 25,the end!
+49,Bxf7+,e8f7,1Q4k1/5B1p/p5p1/2pP4/2P3nq/3PB3/PP4PP/R3R1K1 b - - 0 25,the end!
+50,Kxf7,g8f7,1Q6/5k1p/p5p1/2pP4/2P3nq/3PB3/PP4PP/R3R1K1 w - - 0 26,the end!
+51,Ref1+,e1f1,1Q6/5k1p/p5p1/2pP4/2P3nq/3PB3/PP4PP/R4RK1 b - - 1 26,the end!
+52,Ke7,f7e7,1Q6/4k2p/p5p1/2pP4/2P3nq/3PB3/PP4PP/R4RK1 w - - 2 27,the end!
+53,Bxc5+,e3c5,1Q6/4k2p/p5p1/2BP4/2P3nq/3P4/PP4PP/R4RK1 b - - 0 27,the end!
+54,Kd7,e7d7,1Q6/3k3p/p5p1/2BP4/2P3nq/3P4/PP4PP/R4RK1 w - - 1 28,the end!
+55,Rf7+,f1f7,1Q6/3k1R1p/p5p1/2BP4/2P3nq/3P4/PP4PP/R5K1 b - - 2 28,the end!
+56,Qe7,h4e7,1Q6/3kqR1p/p5p1/2BP4/2P3n1/3P4/PP4PP/R5K1 w - - 3 29,the end!
+57,Rxe7#,f7e7,1Q6/3kR2p/p5p1/2BP4/2P3n1/3P4/PP4PP/R5K1 b - - 0 29,the end!

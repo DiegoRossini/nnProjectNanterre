@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Extra conservative play by me.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Extra conservative play by me.
+3,Bf4,c1f4,rnbqkbnr/pppp1ppp/4p3/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Extra conservative play by me.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Extra conservative play by me.
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Extra conservative play by me.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,Extra conservative play by me.
+7,c3,c2c3,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,Extra conservative play by me.
+8,c6,c7c6,rnbqkb1r/pp3ppp/2p1pn2/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 0 5,Extra conservative play by me.
+9,Nbd2,b1d2,rnbqkb1r/pp3ppp/2p1pn2/3p4/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 1 5,More accurate was e3.
+10,Bd6,f8d6,rnbqk2r/pp3ppp/2pbpn2/3p4/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 2 6,More accurate was e3.
+11,Ne5,f3e5,rnbqk2r/pp3ppp/2pbpn2/3pN3/3P1B2/2P5/PP1NPPPP/R2QKB1R b KQkq - 3 6,More accurate was e3.
+12,O-O,e8g8,rnbq1rk1/pp3ppp/2pbpn2/3pN3/3P1B2/2P5/PP1NPPPP/R2QKB1R w KQ - 4 7,More accurate was e3.
+13,h3,h2h3,rnbq1rk1/pp3ppp/2pbpn2/3pN3/3P1B2/2P4P/PP1NPPP1/R2QKB1R b KQ - 0 7,More accurate was e3.
+14,Qc7,d8c7,rnb2rk1/ppq2ppp/2pbpn2/3pN3/3P1B2/2P4P/PP1NPPP1/R2QKB1R w KQ - 1 8,"Standard asset, in which black has gotten a solid position near to equality."
+15,e3,e2e3,rnb2rk1/ppq2ppp/2pbpn2/3pN3/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R b KQ - 0 8,"Standard asset, in which black has gotten a solid position near to equality."
+16,Nbd7,b8d7,r1b2rk1/ppqn1ppp/2pbpn2/3pN3/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R w KQ - 1 9,"Standard asset, in which black has gotten a solid position near to equality."
+17,Ndf3,d2f3,r1b2rk1/ppqn1ppp/2pbpn2/3pN3/3P1B2/2P1PN1P/PP3PP1/R2QKB1R b KQ - 2 9,"Standard asset, in which black has gotten a solid position near to equality."
+18,Ne4,f6e4,r1b2rk1/ppqn1ppp/2pbp3/3pN3/3PnB2/2P1PN1P/PP3PP1/R2QKB1R w KQ - 3 10,? this deprives my Ne5 from his natural square after f6.
+19,Bd3,f1d3,r1b2rk1/ppqn1ppp/2pbp3/3pN3/3PnB2/2PBPN1P/PP3PP1/R2QK2R b KQ - 4 10,? this deprives my Ne5 from his natural square after f6.
+20,f6,f7f6,r1b2rk1/ppqn2pp/2pbpp2/3pN3/3PnB2/2PBPN1P/PP3PP1/R2QK2R w KQ - 0 11,"Improvising. If black goes BxB, NxR wins the exchange."
+21,Nxd7,e5d7,r1b2rk1/ppqN2pp/2pbpp2/3p4/3PnB2/2PBPN1P/PP3PP1/R2QK2R b KQ - 0 11,"Improvising. If black goes BxB, NxR wins the exchange."
+22,Bxd7,c8d7,r4rk1/ppqb2pp/2pbpp2/3p4/3PnB2/2PBPN1P/PP3PP1/R2QK2R w KQ - 0 12,Only sensible way to avoid the pawn scrambling if BxBf4.
+23,Bxd6,f4d6,r4rk1/ppqb2pp/2pBpp2/3p4/3Pn3/2PBPN1P/PP3PP1/R2QK2R b KQ - 0 12,Only sensible way to avoid the pawn scrambling if BxBf4.
+24,Nxd6,e4d6,r4rk1/ppqb2pp/2pnpp2/3p4/3P4/2PBPN1P/PP3PP1/R2QK2R w KQ - 0 13,"Plans to shield with f5, but I still have the g pawn."
+25,Qc2,d1c2,r4rk1/ppqb2pp/2pnpp2/3p4/3P4/2PBPN1P/PPQ2PP1/R3K2R b KQ - 1 13,"Not really threatening something right now. Black should have played now f4, and I have to cope with my Nf3, undefended after the f column gets free."
+26,f5,f6f5,r4rk1/ppqb2pp/2pnp3/3p1p2/3P4/2PBPN1P/PPQ2PP1/R3K2R w KQ - 0 14,"Not really threatening something right now. Black should have played now f4, and I have to cope with my Nf3, undefended after the f column gets free."
+27,g4,g2g4,r4rk1/ppqb2pp/2pnp3/3p1p2/3P2P1/2PBPN1P/PPQ2P2/R3K2R b KQ - 0 14,"Not really threatening something right now. Black should have played now f4, and I have to cope with my Nf3, undefended after the f column gets free."
+28,Ne4,d6e4,r4rk1/ppqb2pp/2p1p3/3p1p2/3Pn1P1/2PBPN1P/PPQ2P2/R3K2R w KQ - 1 15,Pressing f2 if the f column is opened.
+29,Ne5,f3e5,r4rk1/ppqb2pp/2p1p3/3pNp2/3Pn1P1/2PBP2P/PPQ2P2/R3K2R b KQ - 2 15,Blocking the way and controlling Black's lsb.
+30,b5,b7b5,r4rk1/p1qb2pp/2p1p3/1p1pNp2/3Pn1P1/2PBP2P/PPQ2P2/R3K2R w KQ - 0 16,Attacking my weak side I planned to shield in. Black is good.
+31,a3,a2a3,r4rk1/p1qb2pp/2p1p3/1p1pNp2/3Pn1P1/P1PBP2P/1PQ2P2/R3K2R b KQ - 0 16,Necessary. Initiative is to black. A poor result.
+32,a5,a7a5,r4rk1/2qb2pp/2p1p3/pp1pNp2/3Pn1P1/P1PBP2P/1PQ2P2/R3K2R w KQ - 0 17,Going on with the attack. Now I have to attack myself or I'll be slowly crushed in.
+33,f3,f2f3,r4rk1/2qb2pp/2p1p3/pp1pNp2/3Pn1P1/P1PBPP1P/1PQ5/R3K2R b KQ - 0 17,"Yes, why not. If Ng3, Rg1 and black has no way to defend it in the long run and will have to lose the exchange somewhere along the way. Say Ng3, Rg1, f4, exf4, Rxf4, RxN. And if Ng5 instead, h4, Nf7, f4! and even if my N is exchanged, the center is still mine, and my attack on the kingside guaranteed."
+34,Nd6,e4d6,r4rk1/2qb2pp/2pnp3/pp1pNp2/3P2P1/P1PBPP1P/1PQ5/R3K2R w KQ - 1 18,"Now it's clear: MY N is better than his, because of f3. White can't move the f pawn now without being exposed to Bxh7+. But I can't take it either, or I will activate his lsb. And NxB, QxN doesn't solve the problem. So?"
+35,Qg2,c2g2,r4rk1/2qb2pp/2pnp3/pp1pNp2/3P2P1/P1PBPP1P/1P4Q1/R3K2R b KQ - 2 18,Switching the attack to the g column. I'm threatening to open it.
+36,Nc4,d6c4,r4rk1/2qb2pp/2p1p3/pp1pNp2/2nP2P1/P1PBPP1P/1P4Q1/R3K2R w KQ - 3 19,"Black goes with a fork, but I have foreseen it. There is only one sensible answer."
+37,Bxc4,d3c4,r4rk1/2qb2pp/2p1p3/pp1pNp2/2BP2P1/P1P1PP1P/1P4Q1/R3K2R b KQ - 0 19,"Leave black a nice column to press on, but I can easily defend b2 with Q, K and R. Now, gxf5 seems indicated. But I wasn't incisive enough."
+38,bxc4,b5c4,r4rk1/2qb2pp/2p1p3/p2pNp2/2pP2P1/P1P1PP1P/1P4Q1/R3K2R w KQ - 0 20,"Leave black a nice column to press on, but I can easily defend b2 with Q, K and R. Now, gxf5 seems indicated. But I wasn't incisive enough."
+39,Rg1,h1g1,r4rk1/2qb2pp/2p1p3/p2pNp2/2pP2P1/P1P1PP1P/1P4Q1/R3K1R1 b Q - 1 20,"? Losing an extraimportant tempo to attack! now, black can play f4 and prevent the opening of the g column!"
+40,Bc8,d7c8,r1b2rk1/2q3pp/2p1p3/p2pNp2/2pP2P1/P1P1PP1P/1P4Q1/R3K1R1 w Q - 2 21,"Black chooses to guard g7 with the Q and K, keeping an eye on e6, just in case. Be8-Ra7 seemed a better plan."

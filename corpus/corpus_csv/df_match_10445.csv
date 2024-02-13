@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Just as a warning, this game is 89 moves long; make sure you have something to eat!"
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The pirc defense -- a defense I don't like playing against very much.
+3,f4,f2f4,rnbqkbnr/ppp1pppp/3p4/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"Hoping for 2. ...e5, transposing into the King's Gambit (fischer defense) after (usually) 3. Nf3 exf4."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3,"Black sticks with his plans to play the pirc, and I oblige him."
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 2 3,"All standard so far -- this is the Austrian attack of the pirc defense, where white has a big classical center, and black will counterattack against it from the flank."
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4,"All standard so far -- this is the Austrian attack of the pirc defense, where white has a big classical center, and black will counterattack against it from the flank."
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/3p1np1/8/4PP2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4,"All standard so far -- this is the Austrian attack of the pirc defense, where white has a big classical center, and black will counterattack against it from the flank."
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/4PP2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5,"All standard so far -- this is the Austrian attack of the pirc defense, where white has a big classical center, and black will counterattack against it from the flank."
+9,d4,d2d4,rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 5,"All standard so far -- this is the Austrian attack of the pirc defense, where white has a big classical center, and black will counterattack against it from the flank."
+10,c5,c7c5,rnbqk2r/pp2ppbp/3p1np1/2p5/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 0 6,"I was expecting something tame, like 0-0, getting the king to safety.  Apparently, this is a good move, too, as it forces white to commit to what he wants to do about the center."
+11,dxc5,d4c5,rnbqk2r/pp2ppbp/3p1np1/2P5/4PP2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 6,"Not the most popular decision, but even now I think it's pretty good, as it doesn't overextend like the alternatives e5 or d5 would, and it gives the white queen a little more scope.  
+
+The drawbacks are that it gives up a center pawn for black's c-pawn and exposes the Nc3.
+
+Most common, though, is Bb5 , which leads to a different type of game."
+12,Qa5,d8a5,rnb1k2r/pp2ppbp/3p1np1/q1P5/4PP2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 1 7,"Better than dxc5 7. Qxd8 Kxd8, as this entices white to go for a free pawn with 7. cxd6? Nxe4!, with a big advantage to black."
+13,Bd3,f1d3,rnb1k2r/pp2ppbp/3p1np1/q1P5/4PP2/2NB1N2/PPP3PP/R1BQK2R b KQkq - 2 7,Defends against Nxe4; IMO the best move here.  One lesson I've learned (painfully) is not to try too hard to create an advantage when there is none.
+14,Qxc5,a5c5,rnb1k2r/pp2ppbp/3p1np1/2q5/4PP2/2NB1N2/PPP3PP/R1BQK2R w KQkq - 0 8,"A good recapture, with more central pawns to black than white."
+15,Qe2,d1e2,rnb1k2r/pp2ppbp/3p1np1/2q5/4PP2/2NB1N2/PPP1Q1PP/R1B1K2R b KQkq - 1 8,"Preparing to chase the queen with Be3, while keeping options open about where to castle."
+16,Bg4,c8g4,rn2k2r/pp2ppbp/3p1np1/2q5/4PPb1/2NB1N2/PPP1Q1PP/R1B1K2R w KQkq - 2 9,"An aggressive developing square, but this pretty much commits black to ceding the bishop pair to white; this will turn out to be a very big deal in the endgame!  My preference for black would be to play 0-0 here, deferring the decision on where to develop the bishop."
+17,Be3,c1e3,rn2k2r/pp2ppbp/3p1np1/2q5/4PPb1/2NBBN2/PPP1Q1PP/R3K2R b KQkq - 3 9,The expected follow-up.
+18,Qa5,c5a5,rn2k2r/pp2ppbp/3p1np1/q7/4PPb1/2NBBN2/PPP1Q1PP/R3K2R w KQkq - 4 10,"Now there's really not a lot wrong with Qa5, or with Qb4 for that matter (black has more success with Qb4 according to the game DB), but why not play Qc7?  (The answer is that Qc7 fails to 10. Nb5!, and then black must play Qa5 [albeit with check] anyway.)  In any case, Qa5 leaves the queen open to harassment with, say, Bd2, and then she'll have to move again."
+19,O-O,e1g1,rn2k2r/pp2ppbp/3p1np1/q7/4PPb1/2NBBN2/PPP1Q1PP/R4RK1 b kq - 5 10,Seemed much better and safer than 0-0-0.  I expect black to follow suit.
+20,O-O,e8g8,rn3rk1/pp2ppbp/3p1np1/q7/4PPb1/2NBBN2/PPP1Q1PP/R4RK1 w - - 6 11,As expected.
+21,h3,h2h3,rn3rk1/pp2ppbp/3p1np1/q7/4PPb1/2NBBN1P/PPP1Q1P1/R4RK1 b - - 0 11,"Now black has a decision to make; give up the bishop pair (and this is a pretty good bishop for black), or retreat it.  Note that, due to black's queen maneuvering, he's just the tiniest bit behind in development."
+22,Bxf3,g4f3,rn3rk1/pp2ppbp/3p1np1/q7/4PP2/2NBBb1P/PPP1Q1P1/R4RK1 w - - 0 12,"This exchange allows black to catch up in development, but costs him the bishop pair."
+23,Qxf3,e2f3,rn3rk1/pp2ppbp/3p1np1/q7/4PP2/2NBBQ1P/PPP3P1/R4RK1 b - - 0 12,"By far the best recapture, creating a nice battery down the f-file while protecting the third rank."
+24,Nc6,b8c6,r4rk1/pp2ppbp/2np1np1/q7/4PP2/2NBBQ1P/PPP3P1/R4RK1 w - - 1 13,"Catching up in development, and threatening to win the bishop pair back with Nb4."

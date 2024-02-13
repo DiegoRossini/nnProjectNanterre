@@ -1,0 +1,118 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+4,Nc6,b8c6,r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+5,Nf3,g1f3,r1bqkb1r/pppppppp/2n2n2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+6,e6,e7e6,r1bqkb1r/pppp1ppp/2n1pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+7,Nc3,b1c3,r1bqkb1r/pppp1ppp/2n1pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+8,Bb4,f8b4,r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+9,Qc2,d1c2,r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R b KQkq - 3 5,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+10,d6,d7d6,r1bqk2r/ppp2ppp/2nppn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R w KQkq - 0 6,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+11,Bd2,c1d2,r1bqk2r/ppp2ppp/2nppn2/8/1bPP4/2N2N2/PPQBPPPP/R3KB1R b KQkq - 1 6,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+12,O-O,e8g8,r1bq1rk1/ppp2ppp/2nppn2/8/1bPP4/2N2N2/PPQBPPPP/R3KB1R w KQ - 2 7,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+13,a3,a2a3,r1bq1rk1/ppp2ppp/2nppn2/8/1bPP4/P1N2N2/1PQBPPPP/R3KB1R b KQ - 0 7,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+14,Bxc3,b4c3,r1bq1rk1/ppp2ppp/2nppn2/8/2PP4/P1b2N2/1PQBPPPP/R3KB1R w KQ - 0 8,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+15,bxc3,b2c3,r1bq1rk1/ppp2ppp/2nppn2/8/2PP4/P1P2N2/2QBPPPP/R3KB1R b KQ - 0 8,Taking with the pawn instead of the bishop breaks up and doubles pawns.
+16,h6,h7h6,r1bq1rk1/ppp2pp1/2nppn1p/8/2PP4/P1P2N2/2QBPPPP/R3KB1R w KQ - 0 9,I'm not sure what is stopping black's BxN here.
+17,Rd1,a1d1,r1bq1rk1/ppp2pp1/2nppn1p/8/2PP4/P1P2N2/2QBPPPP/3RKB1R b K - 1 9,I'm not sure what is stopping black's BxN here.
+18,Qe7,d8e7,r1b2rk1/ppp1qpp1/2nppn1p/8/2PP4/P1P2N2/2QBPPPP/3RKB1R w K - 2 10,I'm not sure what is stopping black's BxN here.
+19,a4,a3a4,r1b2rk1/ppp1qpp1/2nppn1p/8/P1PP4/2P2N2/2QBPPPP/3RKB1R b K - 0 10,I'm not sure what is stopping black's BxN here.
+20,e5,e6e5,r1b2rk1/ppp1qpp1/2np1n1p/4p3/P1PP4/2P2N2/2QBPPPP/3RKB1R w K - 0 11,I'm not sure what is stopping black's BxN here.
+21,e3,e2e3,r1b2rk1/ppp1qpp1/2np1n1p/4p3/P1PP4/2P1PN2/2QB1PPP/3RKB1R b K - 0 11,I'm not sure what is stopping black's BxN here.
+22,e4,e5e4,r1b2rk1/ppp1qpp1/2np1n1p/8/P1PPp3/2P1PN2/2QB1PPP/3RKB1R w K - 0 12,I'm not sure what is stopping black's BxN here.
+23,Nh4,f3h4,r1b2rk1/ppp1qpp1/2np1n1p/8/P1PPp2N/2P1P3/2QB1PPP/3RKB1R b K - 1 12,I'm not sure what is stopping black's BxN here.
+24,Ng4,f6g4,r1b2rk1/ppp1qpp1/2np3p/8/P1PPp1nN/2P1P3/2QB1PPP/3RKB1R w K - 2 13,I'm not sure what is stopping black's BxN here.
+25,Nf5,h4f5,r1b2rk1/ppp1qpp1/2np3p/5N2/P1PPp1n1/2P1P3/2QB1PPP/3RKB1R b K - 3 13,I'm not sure what is stopping black's BxN here.
+26,Qg5,e7g5,r1b2rk1/ppp2pp1/2np3p/5Nq1/P1PPp1n1/2P1P3/2QB1PPP/3RKB1R w K - 4 14,Sweet.
+27,Qxe4,c2e4,r1b2rk1/ppp2pp1/2np3p/5Nq1/P1PPQ1n1/2P1P3/3B1PPP/3RKB1R b K - 0 14,Sweet.
+28,Bxf5,c8f5,r4rk1/ppp2pp1/2np3p/5bq1/P1PPQ1n1/2P1P3/3B1PPP/3RKB1R w K - 0 15,Sweet.
+29,Qf3,e4f3,r4rk1/ppp2pp1/2np3p/5bq1/P1PP2n1/2P1PQ2/3B1PPP/3RKB1R b K - 1 15,Sweet.
+30,h5,h6h5,r4rk1/ppp2pp1/2np4/5bqp/P1PP2n1/2P1PQ2/3B1PPP/3RKB1R w K - 0 16,Sweet.
+31,e4,e3e4,r4rk1/ppp2pp1/2np4/5bqp/P1PPP1n1/2P2Q2/3B1PPP/3RKB1R b K - 0 16,Sweet.
+32,Qe7,g5e7,r4rk1/ppp1qpp1/2np4/5b1p/P1PPP1n1/2P2Q2/3B1PPP/3RKB1R w K - 1 17,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+33,Qxf5,f3f5,r4rk1/ppp1qpp1/2np4/5Q1p/P1PPP1n1/2P5/3B1PPP/3RKB1R b K - 0 17,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+34,g6,g7g6,r4rk1/ppp1qp2/2np2p1/5Q1p/P1PPP1n1/2P5/3B1PPP/3RKB1R w K - 0 18,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+35,Qg5,f5g5,r4rk1/ppp1qp2/2np2p1/6Qp/P1PPP1n1/2P5/3B1PPP/3RKB1R b K - 1 18,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+36,Qxe4+,e7e4,r4rk1/ppp2p2/2np2p1/6Qp/P1PPq1n1/2P5/3B1PPP/3RKB1R w K - 0 19,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+37,Be3,d2e3,r4rk1/ppp2p2/2np2p1/6Qp/P1PPq1n1/2P1B3/5PPP/3RKB1R b K - 1 19,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+38,f6,f7f6,r4rk1/ppp5/2np1pp1/6Qp/P1PPq1n1/2P1B3/5PPP/3RKB1R w K - 0 20,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+39,Qd5+,g5d5,r4rk1/ppp5/2np1pp1/3Q3p/P1PPq1n1/2P1B3/5PPP/3RKB1R b K - 1 20,"Forcing the exchange was good, otherwise NxB, PxN, QxP+ leaves black up a pawn and white particularly vulnerable."
+40,Qxd5,e4d5,r4rk1/ppp5/2np1pp1/3q3p/P1PP2n1/2P1B3/5PPP/3RKB1R w K - 0 21,"Not much of a threat, as the black knight is defending Pb7."
+41,cxd5,c4d5,r4rk1/ppp5/2np1pp1/3P3p/P2P2n1/2P1B3/5PPP/3RKB1R b K - 0 21,"Not much of a threat, as the black knight is defending Pb7."
+42,Na5,c6a5,r4rk1/ppp5/3p1pp1/n2P3p/P2P2n1/2P1B3/5PPP/3RKB1R w K - 1 22,"Not much of a threat, as the black knight is defending Pb7."
+43,Rb1,d1b1,r4rk1/ppp5/3p1pp1/n2P3p/P2P2n1/2P1B3/5PPP/1R2KB1R b K - 2 22,"Not much of a threat, as the black knight is defending Pb7."
+44,b6,b7b6,r4rk1/p1p5/1p1p1pp1/n2P3p/P2P2n1/2P1B3/5PPP/1R2KB1R w K - 0 23,How do you check me now?
+45,Bb5,f1b5,r4rk1/p1p5/1p1p1pp1/nB1P3p/P2P2n1/2P1B3/5PPP/1R2K2R b K - 1 23,How do you check me now?
+46,Nxe3,g4e3,r4rk1/p1p5/1p1p1pp1/nB1P3p/P2P4/2P1n3/5PPP/1R2K2R w K - 0 24,How do you check me now?
+47,fxe3,f2e3,r4rk1/p1p5/1p1p1pp1/nB1P3p/P2P4/2P1P3/6PP/1R2K2R b K - 0 24,How do you check me now?
+48,a6,a7a6,r4rk1/2p5/pp1p1pp1/nB1P3p/P2P4/2P1P3/6PP/1R2K2R w K - 0 25,How do you check me now?
+49,Bd3,b5d3,r4rk1/2p5/pp1p1pp1/n2P3p/P2P4/2PBP3/6PP/1R2K2R b K - 1 25,How do you check me now?
+50,Kg7,g8g7,r4r2/2p3k1/pp1p1pp1/n2P3p/P2P4/2PBP3/6PP/1R2K2R w K - 2 26,How do you check me now?
+51,c4,c3c4,r4r2/2p3k1/pp1p1pp1/n2P3p/P1PP4/3BP3/6PP/1R2K2R b K - 0 26,How do you check me now?
+52,Rae8,a8e8,4rr2/2p3k1/pp1p1pp1/n2P3p/P1PP4/3BP3/6PP/1R2K2R w K - 1 27,How do you check me now?
+53,Kf2,e1f2,4rr2/2p3k1/pp1p1pp1/n2P3p/P1PP4/3BP3/5KPP/1R5R b - - 2 27,How do you check me now?
+54,Nb7,a5b7,4rr2/1np3k1/pp1p1pp1/3P3p/P1PP4/3BP3/5KPP/1R5R w - - 3 28,How do you check me now?
+55,a5,a4a5,4rr2/1np3k1/pp1p1pp1/P2P3p/2PP4/3BP3/5KPP/1R5R b - - 0 28,How do you check me now?
+56,Nxa5,b7a5,4rr2/2p3k1/pp1p1pp1/n2P3p/2PP4/3BP3/5KPP/1R5R w - - 0 29,How do you check me now?
+57,c5,c4c5,4rr2/2p3k1/pp1p1pp1/n1PP3p/3P4/3BP3/5KPP/1R5R b - - 0 29,How do you check me now?
+58,b5,b6b5,4rr2/2p3k1/p2p1pp1/npPP3p/3P4/3BP3/5KPP/1R5R w - - 0 30,How do you check me now?
+59,Rba1,b1a1,4rr2/2p3k1/p2p1pp1/npPP3p/3P4/3BP3/5KPP/R6R b - - 1 30,How do you check me now?
+60,Nb7,a5b7,4rr2/1np3k1/p2p1pp1/1pPP3p/3P4/3BP3/5KPP/R6R w - - 2 31,How do you check me now?
+61,Rxa6,a1a6,4rr2/1np3k1/R2p1pp1/1pPP3p/3P4/3BP3/5KPP/7R b - - 0 31,How do you check me now?
+62,dxc5,d6c5,4rr2/1np3k1/R4pp1/1ppP3p/3P4/3BP3/5KPP/7R w - - 0 32,How do you check me now?
+63,Bxb5,d3b5,4rr2/1np3k1/R4pp1/1BpP3p/3P4/4P3/5KPP/7R b - - 0 32,How do you check me now?
+64,Red8,e8d8,3r1r2/1np3k1/R4pp1/1BpP3p/3P4/4P3/5KPP/7R w - - 1 33,How do you check me now?
+65,Ra7,a6a7,3r1r2/Rnp3k1/5pp1/1BpP3p/3P4/4P3/5KPP/7R b - - 2 33,How do you check me now?
+66,Nd6,b7d6,3r1r2/R1p3k1/3n1pp1/1BpP3p/3P4/4P3/5KPP/7R w - - 3 34,How do you check me now?
+67,Bc6,b5c6,3r1r2/R1p3k1/2Bn1pp1/2pP3p/3P4/4P3/5KPP/7R b - - 4 34,How do you check me now?
+68,Rf7,f8f7,3r4/R1p2rk1/2Bn1pp1/2pP3p/3P4/4P3/5KPP/7R w - - 5 35,How do you check me now?
+69,Rc1,h1c1,3r4/R1p2rk1/2Bn1pp1/2pP3p/3P4/4P3/5KPP/2R5 b - - 6 35,How do you check me now?
+70,Ne4+,d6e4,3r4/R1p2rk1/2B2pp1/2pP3p/3Pn3/4P3/5KPP/2R5 w - - 7 36,How do you check me now?
+71,Kf3,f2f3,3r4/R1p2rk1/2B2pp1/2pP3p/3Pn3/4PK2/6PP/2R5 b - - 8 36,How do you check me now?
+72,Nd2+,e4d2,3r4/R1p2rk1/2B2pp1/2pP3p/3P4/4PK2/3n2PP/2R5 w - - 9 37,How do you check me now?
+73,Ke2,f3e2,3r4/R1p2rk1/2B2pp1/2pP3p/3P4/4P3/3nK1PP/2R5 b - - 10 37,How do you check me now?
+74,Ne4,d2e4,3r4/R1p2rk1/2B2pp1/2pP3p/3Pn3/4P3/4K1PP/2R5 w - - 11 38,Easy to drive the king back from here--too easy.
+75,dxc5,d4c5,3r4/R1p2rk1/2B2pp1/2PP3p/4n3/4P3/4K1PP/2R5 b - - 0 38,Easy to drive the king back from here--too easy.
+76,f5,f6f5,3r4/R1p2rk1/2B3p1/2PP1p1p/4n3/4P3/4K1PP/2R5 w - - 0 39,Easy to drive the king back from here--too easy.
+77,Kf3,e2f3,3r4/R1p2rk1/2B3p1/2PP1p1p/4n3/4PK2/6PP/2R5 b - - 1 39,Easy to drive the king back from here--too easy.
+78,Kf6,g7f6,3r4/R1p2r2/2B2kp1/2PP1p1p/4n3/4PK2/6PP/2R5 w - - 2 40,Easy to drive the king back from here--too easy.
+79,Kf4,f3f4,3r4/R1p2r2/2B2kp1/2PP1p1p/4nK2/4P3/6PP/2R5 b - - 3 40,Easy to drive the king back from here--too easy.
+80,g5+,g6g5,3r4/R1p2r2/2B2k2/2PP1ppp/4nK2/4P3/6PP/2R5 w - - 0 41,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+81,Kf3,f4f3,3r4/R1p2r2/2B2k2/2PP1ppp/4n3/4PK2/6PP/2R5 b - - 1 41,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+82,Ke5,f6e5,3r4/R1p2r2/2B5/2PPkppp/4n3/4PK2/6PP/2R5 w - - 2 42,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+83,h3,h2h3,3r4/R1p2r2/2B5/2PPkppp/4n3/4PK1P/6P1/2R5 b - - 0 42,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+84,g4+,g5g4,3r4/R1p2r2/2B5/2PPkp1p/4n1p1/4PK1P/6P1/2R5 w - - 0 43,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+85,hxg4,h3g4,3r4/R1p2r2/2B5/2PPkp1p/4n1P1/4PK2/6P1/2R5 b - - 0 43,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+86,fxg4+,f5g4,3r4/R1p2r2/2B5/2PPk2p/4n1p1/4PK2/6P1/2R5 w - - 0 44,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+87,Ke2,f3e2,3r4/R1p2r2/2B5/2PPk2p/4n1p1/4P3/4K1P1/2R5 b - - 1 44,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+88,Rf2+,f7f2,3r4/R1p5/2B5/2PPk2p/4n1p1/4P3/4KrP1/2R5 w - - 2 45,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+89,Kd3,e2d3,3r4/R1p5/2B5/2PPk2p/4n1p1/3KP3/5rP1/2R5 b - - 3 45,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+90,Rxg2,f2g2,3r4/R1p5/2B5/2PPk2p/4n1p1/3KP3/6r1/2R5 w - - 0 46,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+91,Rxc7,a7c7,3r4/2R5/2B5/2PPk2p/4n1p1/3KP3/6r1/2R5 b - - 0 46,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+92,h4,h5h4,3r4/2R5/2B5/2PPk3/4n1pp/3KP3/6r1/2R5 w - - 0 47,"Rd2+ might have driven the white king to a less comfortable position, making it ultimately easier for black to promote those pawns."
+93,Re7+,c7e7,3r4/4R3/2B5/2PPk3/4n1pp/3KP3/6r1/2R5 b - - 1 47,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+94,Kf5,e5f5,3r4/4R3/2B5/2PP1k2/4n1pp/3KP3/6r1/2R5 w - - 2 48,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+95,Rxe4,e7e4,3r4/8/2B5/2PP1k2/4R1pp/3KP3/6r1/2R5 b - - 0 48,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+96,h3,h4h3,3r4/8/2B5/2PP1k2/4R1p1/3KP2p/6r1/2R5 w - - 0 49,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+97,d6,d5d6,3r4/8/2BP4/2P2k2/4R1p1/3KP2p/6r1/2R5 b - - 0 49,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+98,Rf2,g2f2,3r4/8/2BP4/2P2k2/4R1p1/3KP2p/5r2/2R5 w - - 1 50,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+99,d7,d6d7,3r4/3P4/2B5/2P2k2/4R1p1/3KP2p/5r2/2R5 b - - 0 50,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+100,Kg5,f5g5,3r4/3P4/2B5/2P3k1/4R1p1/3KP2p/5r2/2R5 w - - 1 51,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+101,Re8,e4e8,3rR3/3P4/2B5/2P3k1/6p1/3KP2p/5r2/2R5 b - - 2 51,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+102,Rf8,f2f8,3rRr2/3P4/2B5/2P3k1/6p1/3KP2p/8/2R5 w - - 3 52,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+103,Rxd8,e8d8,3R1r2/3P4/2B5/2P3k1/6p1/3KP2p/8/2R5 b - - 0 52,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+104,Rxd8,f8d8,3r4/3P4/2B5/2P3k1/6p1/3KP2p/8/2R5 w - - 0 53,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+105,Bb5,c6b5,3r4/3P4/8/1BP3k1/6p1/3KP2p/8/2R5 b - - 1 53,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+106,h2,h3h2,3r4/3P4/8/1BP3k1/6p1/3KP3/7p/2R5 w - - 0 54,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+107,c6,c5c6,3r4/3P4/2P5/1B4k1/6p1/3KP3/7p/2R5 b - - 0 54,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+108,g3,g4g3,3r4/3P4/2P5/1B4k1/8/3KP1p1/7p/2R5 w - - 0 55,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+109,c7,c6c7,3r4/2PP4/8/1B4k1/8/3KP1p1/7p/2R5 b - - 0 55,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+110,g2,g3g2,3r4/2PP4/8/1B4k1/8/3KP3/6pp/2R5 w - - 0 56,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+111,cxd8=Q+,c7d8q,3Q4/3P4/8/1B4k1/8/3KP3/6pp/2R5 b - - 0 56,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+112,Kg4,g5g4,3Q4/3P4/8/1B6/6k1/3KP3/6pp/2R5 w - - 1 57,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+113,Qg8+,d8g8,6Q1/3P4/8/1B6/6k1/3KP3/6pp/2R5 b - - 2 57,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+114,Kf3,g4f3,6Q1/3P4/8/1B6/8/3KPk2/6pp/2R5 w - - 3 58,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+115,Qxg2+,g8g2,8/3P4/8/1B6/8/3KPk2/6Qp/2R5 b - - 0 58,"Bc6! allows for a bishop/pawn exchange instead of a queen/pawn trade.  The rook remains for that last pawn, giving white two queens.  Though avoiding a stalemate with two queens is slightly trickier."
+116,Kxg2,f3g2,8/3P4/8/1B6/8/3KP3/6kp/2R5 w - - 0 59,
+117,d8=Q,d7d8q,3Q4/8/8/1B6/8/3KP3/6kp/2R5 b - - 0 59,

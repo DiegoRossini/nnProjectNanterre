@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's pawn opening.  Nothing unusual here.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's pawn game.
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Here is a move that's somewhat unusual for me.  I usually like to play 2.Nc3 to get my knight out there, but it didn't wind up making much of a difference in this game."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3,Possibly the most common move I've seen from black in the King's pawn game.
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,"My standard third move.  Good for development, attacks the center, forces black to keep protecting his pawn.  Sometimes I set up for 4.d4 and trade pawn and knights, but that can wait."
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Shoring up the protection on his pawn.  Also opens up the diagonal for his light bishop.  Pretty common move.
+7,Bg5,c1g5,r1bqkbnr/ppp2ppp/2np4/4p1B1/4P3/3P1N2/PPP2PPP/RN1QKB1R b KQkq - 1 4,"This is a move with very little upside.  I've done it a few times to try to catch someone off guard and take their queen, but no one has ever fallen for it.  The most common defense is 4...f6, which usually sends my bishop scampering back to e3 and gives black the tempo advantage.  The only thing my move does is discourage a king side castle, but really nothing else."
+8,Be7,f8e7,r1bqk1nr/ppp1bppp/2np4/4p1B1/4P3/3P1N2/PPP2PPP/RN1QKB1R w KQkq - 2 5,"He protects his queen with his bishop.  I think that he was trying to force my bishop back while developing his, but I think that this move just encourages a trade that doesn't have any real benefit for black.  4...f6 was the better move."
+9,Bxe7,g5e7,r1bqk1nr/ppp1Bppp/2np4/4p3/4P3/3P1N2/PPP2PPP/RN1QKB1R b KQkq - 0 5,"I take the trade.  Maybe not the best move in this situation, but I decided to play it aggressive."
+10,Ngxe7,g8e7,r1bqk2r/ppp1nppp/2np4/4p3/4P3/3P1N2/PPP2PPP/RN1QKB1R w KQkq - 0 6,"He finishes the trade with his knight.  This is probably his best move in this situation, and gives him an advantage in tempo.  I really haven't done much so far."
+11,d4,d3d4,r1bqk2r/ppp1nppp/2np4/4p3/3PP3/5N2/PPP2PPP/RN1QKB1R b KQkq - 0 6,"Now I set up for the pawn and knight trade.  the major benefit is that if he accepts, I can take control of the a1-g8 diagonal with my queen, but I also leave my queen out in the center unprotected.  Bit of a double-edged sword."
+12,exd4,e5d4,r1bqk2r/ppp1nppp/2np4/8/3pP3/5N2/PPP2PPP/RN1QKB1R w KQkq - 0 7,"He accepts, and starts a bloodbath for the next few moves."
+13,Nxd4,f3d4,r1bqk2r/ppp1nppp/2np4/8/3NP3/8/PPP2PPP/RN1QKB1R b KQkq - 0 7,Continuing the trade.
+14,Nxd4,c6d4,r1bqk2r/ppp1nppp/3p4/8/3nP3/8/PPP2PPP/RN1QKB1R w KQkq - 0 8,"He keeps it going.  This is the most common move, but I have seen black play 7...Ne5, or just leave his knights as is and move a knight or light bishop."
+15,Qxd4,d1d4,r1bqk2r/ppp1nppp/3p4/8/3QP3/8/PPP2PPP/RN2KB1R b KQkq - 0 8,I finish the trade.  Phew.  That will be the last capture for a while now.
+16,O-O,e8g8,r1bq1rk1/ppp1nppp/3p4/8/3QP3/8/PPP2PPP/RN2KB1R w KQ - 1 9,"I'm not sure if I like the castle in this situation.  My queen is threatening g7, which could spell doom for black if he makes some very wrong moves.  I would've tried to drive the queen back first, but honestly, this seems like a harmless move."
+17,Nc3,b1c3,r1bq1rk1/ppp1nppp/3p4/8/3QP3/2N5/PPP2PPP/R3KB1R b KQ - 2 9,"Now I start to actually develop my pieces, starting with my knight."
+18,c6,c7c6,r1bq1rk1/pp2nppp/2pp4/8/3QP3/2N5/PPP2PPP/R3KB1R w KQ - 0 10,He prevents what I would've liked to do next (10.Nd5) and opens up a diagonal for his queen.
+19,Bd3,f1d3,r1bq1rk1/pp2nppp/2pp4/8/3QP3/2NB4/PPP2PPP/R3K2R b KQ - 1 10,Now I start my king side attack. Also opens up the king side castle in case I want to get my rook involved.
+20,c5,c6c5,r1bq1rk1/pp2nppp/3p4/2p5/3QP3/2NB4/PPP2PPP/R3K2R w KQ - 0 11,I'm not sure why he took two moves to do this.  9...c5 would've forced the same dilemma for me and would've likely either knocked my queen further back or blocked my bishop.  Instead he sets me up for some nice attacking position.

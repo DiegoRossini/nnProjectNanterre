@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is a Veresov wich is going to have some nice pawn formation.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,This is a Veresov wich is going to have some nice pawn formation.
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,This is a Veresov wich is going to have some nice pawn formation.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,This is a Veresov wich is going to have some nice pawn formation.
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3,Just preventing a close Knight
+6,a6,a7a6,rnbqkb1r/1pp1pppp/p4n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 4,Just preventing a close Knight
+7,Na4,c3a4,rnbqkb1r/1pp1pppp/p4n2/3p4/N2P1B2/8/PPP1PPPP/R2QKBNR b KQkq - 1 4,"Pawn close up, nice diagonal formation, symetric but whit a bishop thretning c2"
+8,e6,e7e6,rnbqkb1r/1pp2ppp/p3pn2/3p4/N2P1B2/8/PPP1PPPP/R2QKBNR w KQkq - 0 5,"Pawn close up, nice diagonal formation, symetric but whit a bishop thretning c2"
+9,c3,c2c3,rnbqkb1r/1pp2ppp/p3pn2/3p4/N2P1B2/2P5/PP2PPPP/R2QKBNR b KQkq - 0 5,"Pawn close up, nice diagonal formation, symetric but whit a bishop thretning c2"
+10,Nh5,f6h5,rnbqkb1r/1pp2ppp/p3p3/3p3n/N2P1B2/2P5/PP2PPPP/R2QKBNR w KQkq - 1 6,"Pawn close up, nice diagonal formation, symetric but whit a bishop thretning c2"
+11,e3,e2e3,rnbqkb1r/1pp2ppp/p3p3/3p3n/N2P1B2/2P1P3/PP3PPP/R2QKBNR b KQkq - 0 6,Went for a change to open Kings column
+12,Nxf4,h5f4,rnbqkb1r/1pp2ppp/p3p3/3p4/N2P1n2/2P1P3/PP3PPP/R2QKBNR w KQkq - 0 7,Went for a change to open Kings column
+13,exf4,e3f4,rnbqkb1r/1pp2ppp/p3p3/3p4/N2P1P2/2P5/PP3PPP/R2QKBNR b KQkq - 0 7,"Another close up by pawns, nice picture. Note that a prision has been formed leaving the white Knight trapped, it´s doomed."
+14,c6,c7c6,rnbqkb1r/1p3ppp/p1p1p3/3p4/N2P1P2/2P5/PP3PPP/R2QKBNR w KQkq - 0 8,"Another close up by pawns, nice picture. Note that a prision has been formed leaving the white Knight trapped, it´s doomed."
+15,Nf3,g1f3,rnbqkb1r/1p3ppp/p1p1p3/3p4/N2P1P2/2P2N2/PP3PPP/R2QKB1R b KQkq - 1 8,I think this is not too good for white
+16,Nd7,b8d7,r1bqkb1r/1p1n1ppp/p1p1p3/3p4/N2P1P2/2P2N2/PP3PPP/R2QKB1R w KQkq - 2 9,I think this is not too good for white
+17,Ne5,f3e5,r1bqkb1r/1p1n1ppp/p1p1p3/3pN3/N2P1P2/2P5/PP3PPP/R2QKB1R b KQkq - 3 9,I think this is not too good for white
+18,b5,b7b5,r1bqkb1r/3n1ppp/p1p1p3/1p1pN3/N2P1P2/2P5/PP3PPP/R2QKB1R w KQkq - 0 10,Pressure on the prisioner
+19,Nc5,a4c5,r1bqkb1r/3n1ppp/p1p1p3/1pNpN3/3P1P2/2P5/PP3PPP/R2QKB1R b KQkq - 1 10,"Two Knights front attack, but note that there is +1 for the black, 11. Nc4xN d4xc5 12 Bc4x.."
+20,Nxc5,d7c5,r1bqkb1r/5ppp/p1p1p3/1pnpN3/3P1P2/2P5/PP3PPP/R2QKB1R w KQkq - 0 11,Cautelous defence for breaking formation
+21,dxc5,d4c5,r1bqkb1r/5ppp/p1p1p3/1pPpN3/5P2/2P5/PP3PPP/R2QKB1R b KQkq - 0 11,Cautelous defence for breaking formation
+22,Qc7,d8c7,r1b1kb1r/2q2ppp/p1p1p3/1pPpN3/5P2/2P5/PP3PPP/R2QKB1R w KQkq - 1 12,Cautelous defence for breaking formation
+23,g4,g2g4,r1b1kb1r/2q2ppp/p1p1p3/1pPpN3/5PP1/2P5/PP3P1P/R2QKB1R b KQkq - 0 12,"I think i should won the pawn first, but well, pressure to the K see what happen"
+24,f6,f7f6,r1b1kb1r/2q3pp/p1p1pp2/1pPpN3/5PP1/2P5/PP3P1P/R2QKB1R w KQkq - 0 13,"I think i should won the pawn first, but well, pressure to the K see what happen"
+25,Nd3,e5d3,r1b1kb1r/2q3pp/p1p1pp2/1pPp4/5PP1/2PN4/PP3P1P/R2QKB1R b KQkq - 1 13,"This is a good formation, going for a fresh start, like new attack, or contraoffensive, black winning place"
+26,e5,e6e5,r1b1kb1r/2q3pp/p1p2p2/1pPpp3/5PP1/2PN4/PP3P1P/R2QKB1R w KQkq - 0 14,"This is a good formation, going for a fresh start, like new attack, or contraoffensive, black winning place"
+27,fxe5,f4e5,r1b1kb1r/2q3pp/p1p2p2/1pPpP3/6P1/2PN4/PP3P1P/R2QKB1R b KQkq - 0 14,"This is a good formation, going for a fresh start, like new attack, or contraoffensive, black winning place"
+28,fxe5,f6e5,r1b1kb1r/2q3pp/p1p5/1pPpp3/6P1/2PN4/PP3P1P/R2QKB1R w KQkq - 0 15,"This is a good formation, going for a fresh start, like new attack, or contraoffensive, black winning place"
+29,b3,b2b3,r1b1kb1r/2q3pp/p1p5/1pPpp3/6P1/1PPN4/P4P1P/R2QKB1R b KQkq - 0 15,"This is a good formation, going for a fresh start, like new attack, or contraoffensive, black winning place"
+30,e4,e5e4,r1b1kb1r/2q3pp/p1p5/1pPp4/4p1P1/1PPN4/P4P1P/R2QKB1R w KQkq - 0 16,"New pawn structure. Stairways formed giving a diagonal strong attack, i don´t know why but two diagonals cover usually falls into mistakes, they are hard to see (in this level of play of course). I mean diagonals by Bc1 and Qc2."
+31,Nf4,d3f4,r1b1kb1r/2q3pp/p1p5/1pPp4/4pNP1/1PP5/P4P1P/R2QKB1R b KQkq - 1 16,"See what i mean, but even g4 was doomed whit Knight retreat, ohh humans!! didn´t want to retraet and fell in, no one can blame, Knight to the back and  restores the original chess position, is awful so mind play tricks on us."
+32,Qxf4,c7f4,r1b1kb1r/6pp/p1p5/1pPp4/4pqP1/1PP5/P4P1P/R2QKB1R w KQkq - 0 17,"White searching room for a Queen-Rook counter attack maybe, if holes are open"
+33,c4,c3c4,r1b1kb1r/6pp/p1p5/1pPp4/2P1pqP1/1P6/P4P1P/R2QKB1R b KQkq - 0 17,"White searching room for a Queen-Rook counter attack maybe, if holes are open"
+34,Bxg4,c8g4,r3kb1r/6pp/p1p5/1pPp4/2P1pqb1/1P6/P4P1P/R2QKB1R w KQkq - 0 18,"Completing the attack, Queen Bishop went downstairs, formation by pawn holding the white offensive"
+35,Be2,f1e2,r3kb1r/6pp/p1p5/1pPp4/2P1pqb1/1P6/P3BP1P/R2QK2R b KQkq - 1 18,Most completed
+36,Bxc5,f8c5,r3k2r/6pp/p1p5/1pbp4/2P1pqb1/1P6/P3BP1P/R2QK2R w KQkq - 0 19,Most completed
+37,Rf1,h1f1,r3k2r/6pp/p1p5/1pbp4/2P1pqb1/1P6/P3BP1P/R2QKR2 b Qkq - 1 19,White into the waters of black evil
+38,Bh3,g4h3,r3k2r/6pp/p1p5/1pbp4/2P1pq2/1P5b/P3BP1P/R2QKR2 w Qkq - 2 20,Inoffensive check
+39,Bh5+,e2h5,r3k2r/6pp/p1p5/1pbp3B/2P1pq2/1P5b/P4P1P/R2QKR2 b Qkq - 3 20,Inoffensive check
+40,Kd8,e8d8,r2k3r/6pp/p1p5/1pbp3B/2P1pq2/1P5b/P4P1P/R2QKR2 w Q - 4 21,And awful move
+41,f3,f2f3,r2k3r/6pp/p1p5/1pbp3B/2P1pq2/1P3P1b/P6P/R2QKR2 b Q - 0 21,And awful move
+42,Qe3+,f4e3,r2k3r/6pp/p1p5/1pbp3B/2P1p3/1P2qP1b/P6P/R2QKR2 w Q - 1 22,Check and the rest is clear. 21 ..Qe2 22 Qc3 and rook dies

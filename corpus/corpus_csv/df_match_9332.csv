@@ -1,0 +1,82 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Ruy Lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Ruy Lopez
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Ruy Lopez
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Ruy Lopez
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Ruy Lopez
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Ruy Lopez
+7,Bxc6,b5c6,r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,and i take his knight
+8,dxc6,d7c6,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+9,d4,d2d4,r1bqkbnr/1pp2ppp/p1p5/4p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+10,f6,f7f6,r1bqkbnr/1pp3pp/p1p2p2/4p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+11,c3,c2c3,r1bqkbnr/1pp3pp/p1p2p2/4p3/3PP3/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 6,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+12,exd4,e5d4,r1bqkbnr/1pp3pp/p1p2p2/8/3pP3/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 7,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+13,cxd4,c3d4,r1bqkbnr/1pp3pp/p1p2p2/8/3PP3/5N2/PP3PPP/RNBQK2R b KQkq - 0 7,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+14,Bg4,c8g4,r2qkbnr/1pp3pp/p1p2p2/8/3PP1b1/5N2/PP3PPP/RNBQK2R w KQkq - 1 8,"black pins my knight, but, in this moment, my d4 pawn is not in danger cause 8.h3 B:f3 9.g:f3. But.."
+15,Be3,c1e3,r2qkbnr/1pp3pp/p1p2p2/8/3PP1b1/4BN2/PP3PPP/RN1QK2R b KQkq - 2 8,i choose to defend it anyway.
+16,Bb4+,f8b4,r2qk1nr/1pp3pp/p1p2p2/8/1b1PP1b1/4BN2/PP3PPP/RN1QK2R w KQkq - 3 9,bishops off
+17,Bd2,e3d2,r2qk1nr/1pp3pp/p1p2p2/8/1b1PP1b1/5N2/PP1B1PPP/RN1QK2R b KQkq - 4 9,bishops off
+18,a5,a6a5,r2qk1nr/1pp3pp/2p2p2/p7/1b1PP1b1/5N2/PP1B1PPP/RN1QK2R w KQkq - 0 10,bishops off
+19,Bxb4,d2b4,r2qk1nr/1pp3pp/2p2p2/p7/1B1PP1b1/5N2/PP3PPP/RN1QK2R b KQkq - 0 10,bishops off
+20,axb4,a5b4,r2qk1nr/1pp3pp/2p2p2/8/1p1PP1b1/5N2/PP3PPP/RN1QK2R w KQkq - 0 11,bishops off
+21,Qd2,d1d2,r2qk1nr/1pp3pp/2p2p2/8/1p1PP1b1/5N2/PP1Q1PPP/RN2K2R b KQkq - 1 11,Qd2 is a mistake (i think)
+22,b3,b4b3,r2qk1nr/1pp3pp/2p2p2/8/3PP1b1/1p3N2/PP1Q1PPP/RN2K2R w KQkq - 0 12,queens are off
+23,a3,a2a3,r2qk1nr/1pp3pp/2p2p2/8/3PP1b1/Pp3N2/1P1Q1PPP/RN2K2R b KQkq - 0 12,queens are off
+24,Ra4,a8a4,3qk1nr/1pp3pp/2p2p2/8/r2PP1b1/Pp3N2/1P1Q1PPP/RN2K2R w KQk - 1 13,queens are off
+25,d5,d4d5,3qk1nr/1pp3pp/2p2p2/3P4/r3P1b1/Pp3N2/1P1Q1PPP/RN2K2R b KQk - 0 13,queens are off
+26,Rxe4+,a4e4,3qk1nr/1pp3pp/2p2p2/3P4/4r1b1/Pp3N2/1P1Q1PPP/RN2K2R w KQk - 0 14,queens are off
+27,Kf1,e1f1,3qk1nr/1pp3pp/2p2p2/3P4/4r1b1/Pp3N2/1P1Q1PPP/RN3K1R b k - 1 14,queens are off
+28,Qxd5,d8d5,4k1nr/1pp3pp/2p2p2/3q4/4r1b1/Pp3N2/1P1Q1PPP/RN3K1R w k - 0 15,queens are off
+29,Qxd5,d2d5,4k1nr/1pp3pp/2p2p2/3Q4/4r1b1/Pp3N2/1P3PPP/RN3K1R b k - 0 15,queens are off
+30,cxd5,c6d5,4k1nr/1pp3pp/5p2/3p4/4r1b1/Pp3N2/1P3PPP/RN3K1R w k - 0 16,queens are off
+31,Nbd2,b1d2,4k1nr/1pp3pp/5p2/3p4/4r1b1/Pp3N2/1P1N1PPP/R4K1R b k - 1 16,and i take a pawn
+32,Re6,e4e6,4k1nr/1pp3pp/4rp2/3p4/6b1/Pp3N2/1P1N1PPP/R4K1R w k - 2 17,i try...
+33,Rc1,a1c1,4k1nr/1pp3pp/4rp2/3p4/6b1/Pp3N2/1P1N1PPP/2R2K1R b k - 3 17,i try...
+34,c6,c7c6,4k1nr/1p4pp/2p1rp2/3p4/6b1/Pp3N2/1P1N1PPP/2R2K1R w k - 0 18,C'MON KNIGHT!
+35,Nxb3,d2b3,4k1nr/1p4pp/2p1rp2/3p4/6b1/PN3N2/1P3PPP/2R2K1R b k - 0 18,C'MON KNIGHT!
+36,Ne7,g8e7,4k2r/1p2n1pp/2p1rp2/3p4/6b1/PN3N2/1P3PPP/2R2K1R w k - 1 19,C'MON KNIGHT!
+37,Nbd4,b3d4,4k2r/1p2n1pp/2p1rp2/3p4/3N2b1/P4N2/1P3PPP/2R2K1R b k - 2 19,C'MON KNIGHT!
+38,Re4,e6e4,4k2r/1p2n1pp/2p2p2/3p4/3Nr1b1/P4N2/1P3PPP/2R2K1R w k - 3 20,C'MON KNIGHT!
+39,Rd1,c1d1,4k2r/1p2n1pp/2p2p2/3p4/3Nr1b1/P4N2/1P3PPP/3R1K1R b k - 4 20,C'MON KNIGHT!
+40,c5,c6c5,4k2r/1p2n1pp/5p2/2pp4/3Nr1b1/P4N2/1P3PPP/3R1K1R w k - 0 21,C'MON KNIGHT!
+41,Nb5,d4b5,4k2r/1p2n1pp/5p2/1Npp4/4r1b1/P4N2/1P3PPP/3R1K1R b k - 1 21,C'MON KNIGHT!
+42,O-O,e8g8,5rk1/1p2n1pp/5p2/1Npp4/4r1b1/P4N2/1P3PPP/3R1K1R w - - 2 22,he pushes his pawn
+43,h3,h2h3,5rk1/1p2n1pp/5p2/1Npp4/4r1b1/P4N1P/1P3PP1/3R1K1R b - - 0 22,he pushes his pawn
+44,Bxf3,g4f3,5rk1/1p2n1pp/5p2/1Npp4/4r3/P4b1P/1P3PP1/3R1K1R w - - 0 23,he pushes his pawn
+45,gxf3,g2f3,5rk1/1p2n1pp/5p2/1Npp4/4r3/P4P1P/1P3P2/3R1K1R b - - 0 23,he pushes his pawn
+46,Rf4,e4f4,5rk1/1p2n1pp/5p2/1Npp4/5r2/P4P1P/1P3P2/3R1K1R w - - 1 24,he pushes his pawn
+47,Kg2,f1g2,5rk1/1p2n1pp/5p2/1Npp4/5r2/P4P1P/1P3PK1/3R3R b - - 2 24,he pushes his pawn
+48,g5,g7g5,5rk1/1p2n2p/5p2/1Npp2p1/5r2/P4P1P/1P3PK1/3R3R w - - 0 25,he pushes his pawn
+49,Rhe1,h1e1,5rk1/1p2n2p/5p2/1Npp2p1/5r2/P4P1P/1P3PK1/3RR3 b - - 1 25,25...Kf7?? ahahahahh
+50,Kf7,g8f7,5r2/1p2nk1p/5p2/1Npp2p1/5r2/P4P1P/1P3PK1/3RR3 w - - 2 26,25...Kf7?? ahahahahh
+51,Nd6+,b5d6,5r2/1p2nk1p/3N1p2/2pp2p1/5r2/P4P1P/1P3PK1/3RR3 b - - 3 26,and his knight's out
+52,Kg6,f7g6,5r2/1p2n2p/3N1pk1/2pp2p1/5r2/P4P1P/1P3PK1/3RR3 w - - 4 27,and i'm a knight up
+53,Rxe7,e1e7,5r2/1p2R2p/3N1pk1/2pp2p1/5r2/P4P1P/1P3PK1/3R4 b - - 0 27,and i'm a knight up
+54,b5,b7b5,5r2/4R2p/3N1pk1/1ppp2p1/5r2/P4P1P/1P3PK1/3R4 w - - 0 28,and i'm a knight up
+55,Rxd5,d1d5,5r2/4R2p/3N1pk1/1ppR2p1/5r2/P4P1P/1P3PK1/8 b - - 0 28,and i'm a knight up
+56,Rd8,f8d8,3r4/4R2p/3N1pk1/1ppR2p1/5r2/P4P1P/1P3PK1/8 w - - 1 29,and i'm a knight up
+57,Re6,e7e6,3r4/7p/3NRpk1/1ppR2p1/5r2/P4P1P/1P3PK1/8 b - - 2 29,and his pawn's out too
+58,Rd4,f4d4,3r4/7p/3NRpk1/1ppR2p1/3r4/P4P1P/1P3PK1/8 w - - 3 30,and his pawn's out too
+59,Rxd4,d5d4,3r4/7p/3NRpk1/1pp3p1/3R4/P4P1P/1P3PK1/8 b - - 0 30,and his pawn's out too
+60,cxd4,c5d4,3r4/7p/3NRpk1/1p4p1/3p4/P4P1P/1P3PK1/8 w - - 0 31,and his pawn's out too
+61,Nxb5,d6b5,3r4/7p/4Rpk1/1N4p1/3p4/P4P1P/1P3PK1/8 b - - 0 31,and his pawn's out too
+62,d3,d4d3,3r4/7p/4Rpk1/1N4p1/8/P2p1P1P/1P3PK1/8 w - - 0 32,and his pawn's out too
+63,Re1,e6e1,3r4/7p/5pk1/1N4p1/8/P2p1P1P/1P3PK1/4R3 b - - 1 32,and his pawn's out too
+64,d2,d3d2,3r4/7p/5pk1/1N4p1/8/P4P1P/1P1p1PK1/4R3 w - - 0 33,and his pawn's out too
+65,Rd1,e1d1,3r4/7p/5pk1/1N4p1/8/P4P1P/1P1p1PK1/3R4 b - - 1 33,and his pawn's out too
+66,Rd5,d8d5,8/7p/5pk1/1N1r2p1/8/P4P1P/1P1p1PK1/3R4 w - - 2 34,b7 and he resign! i've beat my team captain!!! please comment!!!
+67,Nc3,b5c3,8/7p/5pk1/3r2p1/8/P1N2P1P/1P1p1PK1/3R4 b - - 3 34,b7 and he resign! i've beat my team captain!!! please comment!!!
+68,Rd6,d5d6,8/7p/3r1pk1/6p1/8/P1N2P1P/1P1p1PK1/3R4 w - - 4 35,b7 and he resign! i've beat my team captain!!! please comment!!!
+69,Ne4,c3e4,8/7p/3r1pk1/6p1/4N3/P4P1P/1P1p1PK1/3R4 b - - 5 35,b7 and he resign! i've beat my team captain!!! please comment!!!
+70,Rd4,d6d4,8/7p/5pk1/6p1/3rN3/P4P1P/1P1p1PK1/3R4 w - - 6 36,b7 and he resign! i've beat my team captain!!! please comment!!!
+71,Nxd2,e4d2,8/7p/5pk1/6p1/3r4/P4P1P/1P1N1PK1/3R4 b - - 0 36,b7 and he resign! i've beat my team captain!!! please comment!!!
+72,f5,f6f5,8/7p/6k1/5pp1/3r4/P4P1P/1P1N1PK1/3R4 w - - 0 37,b7 and he resign! i've beat my team captain!!! please comment!!!
+73,b4,b2b4,8/7p/6k1/5pp1/1P1r4/P4P1P/3N1PK1/3R4 b - - 0 37,b7 and he resign! i've beat my team captain!!! please comment!!!
+74,f4,f5f4,8/7p/6k1/6p1/1P1r1p2/P4P1P/3N1PK1/3R4 w - - 0 38,b7 and he resign! i've beat my team captain!!! please comment!!!
+75,b5,b4b5,8/7p/6k1/1P4p1/3r1p2/P4P1P/3N1PK1/3R4 b - - 0 38,b7 and he resign! i've beat my team captain!!! please comment!!!
+76,Ra4,d4a4,8/7p/6k1/1P4p1/r4p2/P4P1P/3N1PK1/3R4 w - - 1 39,b7 and he resign! i've beat my team captain!!! please comment!!!
+77,Ra1,d1a1,8/7p/6k1/1P4p1/r4p2/P4P1P/3N1PK1/R7 b - - 2 39,b7 and he resign! i've beat my team captain!!! please comment!!!
+78,Kf5,g6f5,8/7p/8/1P3kp1/r4p2/P4P1P/3N1PK1/R7 w - - 3 40,b7 and he resign! i've beat my team captain!!! please comment!!!
+79,b6,b5b6,8/7p/1P6/5kp1/r4p2/P4P1P/3N1PK1/R7 b - - 0 40,b7 and he resign! i've beat my team captain!!! please comment!!!
+80,Rd4,a4d4,8/7p/1P6/5kp1/3r1p2/P4P1P/3N1PK1/R7 w - - 1 41,b7 and he resign! i've beat my team captain!!! please comment!!!
+81,b7,b6b7,8/1P5p/8/5kp1/3r1p2/P4P1P/3N1PK1/R7 b - - 0 41,b7 and he resign! i've beat my team captain!!! please comment!!!

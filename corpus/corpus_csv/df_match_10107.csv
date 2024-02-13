@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My classic opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,classic response
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"This move I hadn't expect creates a ""gap"" in black's defence and blocks his queen"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"This move I hadn't expect creates a ""gap"" in black's defence and blocks his queen"
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"This move I hadn't expect creates a ""gap"" in black's defence and blocks his queen"
+6,f6,f7f6,r1bqkbnr/pppp2pp/2n2p2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"This move I hadn't expect creates a ""gap"" in black's defence and blocks his queen"
+7,Nc3,b1c3,r1bqkbnr/pppp2pp/2n2p2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,black's blocking the withe bishop
+8,a6,a7a6,r1bqkbnr/1ppp2pp/p1n2p2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,black's blocking the withe bishop
+9,O-O,e1g1,r1bqkbnr/1ppp2pp/p1n2p2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 5,castling
+10,g5,g7g5,r1bqkbnr/1ppp3p/p1n2p2/4p1p1/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,Now his king is very exposed to attacks
+11,d3,d2d3,r1bqkbnr/1ppp3p/p1n2p2/4p1p1/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 0 6,I want to use my bishop
+12,h5,h7h5,r1bqkbnr/1ppp4/p1n2p2/4p1pp/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w kq - 0 7,Another pawn move from black
+13,Nxg5,f3g5,r1bqkbnr/1ppp4/p1n2p2/4p1Np/2B1P3/2NP4/PPP2PPP/R1BQ1RK1 b kq - 0 7,This move will result in mate. It seems as I sacrifice a knight but I don't
+14,fxg5,f6g5,r1bqkbnr/1ppp4/p1n5/4p1pp/2B1P3/2NP4/PPP2PPP/R1BQ1RK1 w kq - 0 8,He captures this ensures my victory a little bit more
+15,Bxg8,c4g8,r1bqkbBr/1ppp4/p1n5/4p1pp/4P3/2NP4/PPP2PPP/R1BQ1RK1 b kq - 0 8,Exhanging my bishop for his knight and undoing the defence of h5
+16,Rxg8,h8g8,r1bqkbr1/1ppp4/p1n5/4p1pp/4P3/2NP4/PPP2PPP/R1BQ1RK1 w q - 0 9,Because black no longer defends h5 the white queen can give checkon h5
+17,Qxh5+,d1h5,r1bqkbr1/1ppp4/p1n5/4p1pQ/4P3/2NP4/PPP2PPP/R1B2RK1 b q - 0 9,Because black no longer defends h5 the white queen can give checkon h5
+18,Ke7,e8e7,r1bq1br1/1pppk3/p1n5/4p1pQ/4P3/2NP4/PPP2PPP/R1B2RK1 w - - 1 10,He has to capture my bisop with his rook or he loses his queen
+19,Bxg5+,c1g5,r1bq1br1/1pppk3/p1n5/4p1BQ/4P3/2NP4/PPP2PPP/R4RK1 b - - 0 10,He has to capture my bisop with his rook or he loses his queen
+20,Rxg5,g8g5,r1bq1b2/1pppk3/p1n5/4p1rQ/4P3/2NP4/PPP2PPP/R4RK1 w - - 0 11,Giving check again
+21,Qxg5+,h5g5,r1bq1b2/1pppk3/p1n5/4p1Q1/4P3/2NP4/PPP2PPP/R4RK1 b - - 0 11,Giving check again
+22,Ke8,e7e8,r1bqkb2/1ppp4/p1n5/4p1Q1/4P3/2NP4/PPP2PPP/R4RK1 w - - 1 12,Only possible move
+23,Qg6+,g5g6,r1bqkb2/1ppp4/p1n3Q1/4p3/4P3/2NP4/PPP2PPP/R4RK1 b - - 2 12,Only possible move
+24,Ke7,e8e7,r1bq1b2/1pppk3/p1n3Q1/4p3/4P3/2NP4/PPP2PPP/R4RK1 w - - 3 13,Only possible move
+25,Nd5#,c3d5,r1bq1b2/1pppk3/p1n3Q1/3Np3/4P3/3P4/PPP2PPP/R4RK1 b - - 4 13,And mate. Victory in 13 moves

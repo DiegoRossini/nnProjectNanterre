@@ -1,0 +1,71 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The most flexible move. I can play d5 in another move or a indian defense
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The most flexible move. I can play d5 in another move or a indian defense
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,This move do not shows the cards. White can plays c4 later
+4,b6,b7b6,rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Playing a queen indian-style
+5,e3,e2e3,rnbqkb1r/p1pppppp/1p3n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+6,Bb7,c8b7,rn1qkb1r/pbpppppp/1p3n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+7,Bd3,f1d3,rn1qkb1r/pbpppppp/1p3n2/8/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 2 4,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+8,e6,e7e6,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq - 0 5,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+9,O-O,e1g1,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQ1RK1 b kq - 1 5,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+10,Be7,f8e7,rn1qk2r/pbppbppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQ1RK1 w kq - 2 6,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+11,c3,c2c3,rn1qk2r/pbppbppp/1p2pn2/8/3P4/2PBPN2/PP3PPP/RNBQ1RK1 b kq - 0 6,"Now, the white`s structure is similar to a Colle system. Togheter, if white plays e4, take adventage. I can allows this move, but was a mistake. Ne4 or d5 are better."
+12,O-O,e8g8,rn1q1rk1/pbppbppp/1p2pn2/8/3P4/2PBPN2/PP3PPP/RNBQ1RK1 w - - 1 7,"Now, d5."
+13,Nbd2,b1d2,rn1q1rk1/pbppbppp/1p2pn2/8/3P4/2PBPN2/PP1N1PPP/R1BQ1RK1 b - - 2 7,"Now, d5."
+14,d6,d7d6,rn1q1rk1/pbp1bppp/1p1ppn2/8/3P4/2PBPN2/PP1N1PPP/R1BQ1RK1 w - - 0 8,"Now, d5."
+15,Qe2,d1e2,rn1q1rk1/pbp1bppp/1p1ppn2/8/3P4/2PBPN2/PP1NQPPP/R1B2RK1 b - - 1 8,"White are a good central position, with initiative and possible attack in kingside."
+16,Nbd7,b8d7,r2q1rk1/pbpnbppp/1p1ppn2/8/3P4/2PBPN2/PP1NQPPP/R1B2RK1 w - - 2 9,"White are a good central position, with initiative and possible attack in kingside."
+17,e4,e3e4,r2q1rk1/pbpnbppp/1p1ppn2/8/3PP3/2PB1N2/PP1NQPPP/R1B2RK1 b - - 0 9,"White are a good central position, with initiative and possible attack in kingside."
+18,c5,c7c5,r2q1rk1/pb1nbppp/1p1ppn2/2p5/3PP3/2PB1N2/PP1NQPPP/R1B2RK1 w - - 0 10,"I need space, but e5, stopping the white e pawn,  are better."
+19,Re1,f1e1,r2q1rk1/pb1nbppp/1p1ppn2/2p5/3PP3/2PB1N2/PP1NQPPP/R1B1R1K1 b - - 1 10,To take the c-column in case of cxd4. But me do not take that idea.
+20,Rc8,a8c8,2rq1rk1/pb1nbppp/1p1ppn2/2p5/3PP3/2PB1N2/PP1NQPPP/R1B1R1K1 w - - 2 11,To take the c-column in case of cxd4. But me do not take that idea.
+21,Nf1,d2f1,2rq1rk1/pb1nbppp/1p1ppn2/2p5/3PP3/2PB1N2/PP2QPPP/R1B1RNK1 b - - 3 11,"A bad move, with idea to opening the center and put the f-rook en d8, I gives to my opponent the f5-square and weak the d5.. White has a clear adventage"
+22,Qc7,d8c7,2r2rk1/pbqnbppp/1p1ppn2/2p5/3PP3/2PB1N2/PP2QPPP/R1B1RNK1 w - - 4 12,"A bad move, with idea to opening the center and put the f-rook en d8, I gives to my opponent the f5-square and weak the d5.. White has a clear adventage"
+23,Bf4,c1f4,2r2rk1/pbqnbppp/1p1ppn2/2p5/3PPB2/2PB1N2/PP2QPPP/R3RNK1 b - - 5 12,"A bad move, with idea to opening the center and put the f-rook en d8, I gives to my opponent the f5-square and weak the d5.. White has a clear adventage"
+24,e5,e6e5,2r2rk1/pbqnbppp/1p1p1n2/2p1p3/3PPB2/2PB1N2/PP2QPPP/R3RNK1 w - - 0 13,"A bad move, with idea to opening the center and put the f-rook en d8, I gives to my opponent the f5-square and weak the d5.. White has a clear adventage"
+25,dxe5,d4e5,2r2rk1/pbqnbppp/1p1p1n2/2p1P3/4PB2/2PB1N2/PP2QPPP/R3RNK1 b - - 0 13,"Ne3 are inevitable. Thus, I will have the pair of bishops"
+26,dxe5,d6e5,2r2rk1/pbqnbppp/1p3n2/2p1p3/4PB2/2PB1N2/PP2QPPP/R3RNK1 w - - 0 14,"Ne3 are inevitable. Thus, I will have the pair of bishops"
+27,Bg3,f4g3,2r2rk1/pbqnbppp/1p3n2/2p1p3/4P3/2PB1NB1/PP2QPPP/R3RNK1 b - - 1 14,"Ne3 are inevitable. Thus, I will have the pair of bishops"
+28,Nh5,f6h5,2r2rk1/pbqnbppp/1p6/2p1p2n/4P3/2PB1NB1/PP2QPPP/R3RNK1 w - - 2 15,"Ne3 are inevitable. Thus, I will have the pair of bishops"
+29,Rad1,a1d1,2r2rk1/pbqnbppp/1p6/2p1p2n/4P3/2PB1NB1/PP2QPPP/3RRNK1 b - - 3 15,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+30,Nxg3,h5g3,2r2rk1/pbqnbppp/1p6/2p1p3/4P3/2PB1Nn1/PP2QPPP/3RRNK1 w - - 0 16,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+31,Nxg3,f1g3,2r2rk1/pbqnbppp/1p6/2p1p3/4P3/2PB1NN1/PP2QPPP/3RR1K1 b - - 0 16,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+32,Rfd8,f8d8,2rr2k1/pbqnbppp/1p6/2p1p3/4P3/2PB1NN1/PP2QPPP/3RR1K1 w - - 1 17,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+33,Nf5,g3f5,2rr2k1/pbqnbppp/1p6/2p1pN2/4P3/2PB1N2/PP2QPPP/3RR1K1 b - - 2 17,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+34,Bf6,e7f6,2rr2k1/pbqn1ppp/1p3b2/2p1pN2/4P3/2PB1N2/PP2QPPP/3RR1K1 w - - 3 18,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+35,Bc4,d3c4,2rr2k1/pbqn1ppp/1p3b2/2p1pN2/2B1P3/2P2N2/PP2QPPP/3RR1K1 b - - 4 18,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+36,Nf8,d7f8,2rr1nk1/pbq2ppp/1p3b2/2p1pN2/2B1P3/2P2N2/PP2QPPP/3RR1K1 w - - 5 19,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+37,g4,g2g4,2rr1nk1/pbq2ppp/1p3b2/2p1pN2/2B1P1P1/2P2N2/PP2QP1P/3RR1K1 b - - 0 19,"White weakness the kingside in a try to attack. A bad strategy. He must play Bd5, the outpost, with total control of the position, Now, I have the outpost f4"
+38,Ng6,f8g6,2rr2k1/pbq2ppp/1p3bn1/2p1pN2/2B1P1P1/2P2N2/PP2QP1P/3RR1K1 w - - 1 20,A sacrifice without another piece to attack. Best are Bd5. Now I take material adventage.
+39,g5,g4g5,2rr2k1/pbq2ppp/1p3bn1/2p1pNP1/2B1P3/2P2N2/PP2QP1P/3RR1K1 b - - 0 20,A sacrifice without another piece to attack. Best are Bd5. Now I take material adventage.
+40,Be7,f6e7,2rr2k1/pbq1bppp/1p4n1/2p1pNP1/2B1P3/2P2N2/PP2QP1P/3RR1K1 w - - 1 21,A sacrifice without another piece to attack. Best are Bd5. Now I take material adventage.
+41,Bxf7+,c4f7,2rr2k1/pbq1bBpp/1p4n1/2p1pNP1/4P3/2P2N2/PP2QP1P/3RR1K1 b - - 0 21,A sacrifice without another piece to attack. Best are Bd5. Now I take material adventage.
+42,Kxf7,g8f7,2rr4/pbq1bkpp/1p4n1/2p1pNP1/4P3/2P2N2/PP2QP1P/3RR1K1 w - - 0 22,"Now, I will enchange material, to reduce the attack and approveach the pair of bishops"
+43,Qc4+,e2c4,2rr4/pbq1bkpp/1p4n1/2p1pNP1/2Q1P3/2P2N2/PP3P1P/3RR1K1 b - - 1 22,"Now, I will enchange material, to reduce the attack and approveach the pair of bishops"
+44,Kf8,f7f8,2rr1k2/pbq1b1pp/1p4n1/2p1pNP1/2Q1P3/2P2N2/PP3P1P/3RR1K1 w - - 2 23,"Now, I will enchange material, to reduce the attack and approveach the pair of bishops"
+45,Qe6,c4e6,2rr1k2/pbq1b1pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/3RR1K1 b - - 3 23,"Now, I will enchange material, to reduce the attack and approveach the pair of bishops"
+46,Rxd1,d8d1,2r2k2/pbq1b1pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/3rR1K1 w - - 0 24,"A big mistake, better is Qxd8, threating Qd1+ and Bc8."
+47,Rxd1,e1d1,2r2k2/pbq1b1pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/3R2K1 b - - 0 24,"A big mistake, better is Qxd8, threating Qd1+ and Bc8."
+48,Rd8,c8d8,3r1k2/pbq1b1pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/3R2K1 w - - 1 25,"A big mistake, better is Qxd8, threating Qd1+ and Bc8."
+49,Rxd8+,d1d8,3R1k2/pbq1b1pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/6K1 b - - 0 25,"A big mistake, better is Qxd8, threating Qd1+ and Bc8."
+50,Bxd8,e7d8,3b1k2/pbq3pp/1p2Q1n1/2p1pNP1/4P3/2P2N2/PP3P1P/6K1 w - - 0 26,"A big mistake, better is Qxd8, threating Qd1+ and Bc8."
+51,Nd6,f5d6,3b1k2/pbq3pp/1p1NQ1n1/2p1p1P1/4P3/2P2N2/PP3P1P/6K1 b - - 1 26,"Only move, but sufficient"
+52,Bc6,b7c6,3b1k2/p1q3pp/1pbNQ1n1/2p1p1P1/4P3/2P2N2/PP3P1P/6K1 w - - 2 27,"Only move, but sufficient"
+53,Nxe5,f3e5,3b1k2/p1q3pp/1pbNQ1n1/2p1N1P1/4P3/2P5/PP3P1P/6K1 b - - 0 27,Best is 30 h4 Bd7 31 Qf4
+54,Nxe5,g6e5,3b1k2/p1q3pp/1pbNQ3/2p1n1P1/4P3/2P5/PP3P1P/6K1 w - - 0 28,Best is 30 h4 Bd7 31 Qf4
+55,Qxe5,e6e5,3b1k2/p1q3pp/1pbN4/2p1Q1P1/4P3/2P5/PP3P1P/6K1 b - - 0 28,Best is 30 h4 Bd7 31 Qf4
+56,Qe7,c7e7,3b1k2/p3q1pp/1pbN4/2p1Q1P1/4P3/2P5/PP3P1P/6K1 w - - 1 29,Best is 30 h4 Bd7 31 Qf4
+57,Qf5+,e5f5,3b1k2/p3q1pp/1pbN4/2p2QP1/4P3/2P5/PP3P1P/6K1 b - - 2 29,Best is 30 h4 Bd7 31 Qf4
+58,Kg8,f8g8,3b2k1/p3q1pp/1pbN4/2p2QP1/4P3/2P5/PP3P1P/6K1 w - - 3 30,Best is 30 h4 Bd7 31 Qf4
+59,e5,e4e5,3b2k1/p3q1pp/1pbN4/2p1PQP1/8/2P5/PP3P1P/6K1 b - - 0 30,Best is 30 h4 Bd7 31 Qf4
+60,Qxg5+,e7g5,3b2k1/p5pp/1pbN4/2p1PQq1/8/2P5/PP3P1P/6K1 w - - 0 31,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+61,Qxg5,f5g5,3b2k1/p5pp/1pbN4/2p1P1Q1/8/2P5/PP3P1P/6K1 b - - 0 31,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+62,Bxg5,d8g5,6k1/p5pp/1pbN4/2p1P1b1/8/2P5/PP3P1P/6K1 w - - 0 32,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+63,Nc8,d6c8,2N3k1/p5pp/1pb5/2p1P1b1/8/2P5/PP3P1P/6K1 b - - 1 32,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+64,Kf7,g8f7,2N5/p4kpp/1pb5/2p1P1b1/8/2P5/PP3P1P/6K1 w - - 2 33,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+65,Nxa7,c8a7,8/N4kpp/1pb5/2p1P1b1/8/2P5/PP3P1P/6K1 b - - 0 33,"Now, the knigth are out of the game, and the last chance to not lost is  34 c4 35 Nb5, allows the exchange."
+66,Bd7,c6d7,8/N2b1kpp/1p6/2p1P1b1/8/2P5/PP3P1P/6K1 w - - 1 34,
+67,b4,b2b4,8/N2b1kpp/1p6/2p1P1b1/1P6/2P5/P4P1P/6K1 b - - 0 34,
+68,cxb4,c5b4,8/N2b1kpp/1p6/4P1b1/1p6/2P5/P4P1P/6K1 w - - 0 35,
+69,cxb4,c3b4,8/N2b1kpp/1p6/4P1b1/1P6/8/P4P1P/6K1 b - - 0 35,
+70,b5,b6b5,8/N2b1kpp/8/1p2P1b1/1P6/8/P4P1P/6K1 w - - 0 36,

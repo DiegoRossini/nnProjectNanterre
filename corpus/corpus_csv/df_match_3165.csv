@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Best by test, as Fischer says."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Looks like a standard Pirc defense.  I usually try to open with a large center and push the d or e-pawn to rank 5 against this turtlish opening.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"What??  This move moved me quite a bit.  Being unfamiliar with the so-called ""Balogh Defense,"" irregular as it might be, I played conservatively over the next few moves until the position could even out."
+4,f5,f7f5,rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"What??  This move moved me quite a bit.  Being unfamiliar with the so-called ""Balogh Defense,"" irregular as it might be, I played conservatively over the next few moves until the position could even out."
+5,f3,f2f3,rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3,3. Qh5+ g3 or 3. exf5 Bxf5 4. Qh5+ g3/Bg3 both lead nowhere.
+6,d5,d6d5,rnbqkbnr/ppp1p1pp/8/3p1p2/3PP3/5P2/PPP3PP/RNBQKBNR w KQkq - 0 4,Developing the knight and defending e4.  4. exd5 seemed playable but I wanted to migrate my f3 pawn to open my kingside and stay in the center.
+7,Nc3,b1c3,rnbqkbnr/ppp1p1pp/8/3p1p2/3PP3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 1 4,Developing the knight and defending e4.  4. exd5 seemed playable but I wanted to migrate my f3 pawn to open my kingside and stay in the center.
+8,dxe4,d5e4,rnbqkbnr/ppp1p1pp/8/5p2/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 0 5,Attacking d4.
+9,fxe4,f3e4,rnbqkbnr/ppp1p1pp/8/5p2/3PP3/2N5/PPP3PP/R1BQKBNR b KQkq - 0 5,Attacking d4.
+10,Nc6,b8c6,r1bqkbnr/ppp1p1pp/2n5/5p2/3PP3/2N5/PPP3PP/R1BQKBNR w KQkq - 1 6,Attacking d4.
+11,Nf3,g1f3,r1bqkbnr/ppp1p1pp/2n5/5p2/3PP3/2N2N2/PPP3PP/R1BQKB1R b KQkq - 2 6,Defending it and closing off my queen from h5 for a second time.
+12,Nf6,g8f6,r1bqkb1r/ppp1p1pp/2n2n2/5p2/3PP3/2N2N2/PPP3PP/R1BQKB1R w KQkq - 3 7,"Now all the cavalry are in play, but I have a strong pawn center and he has an open kingside.  What to do..."
+13,d5,d4d5,r1bqkb1r/ppp1p1pp/2n2n2/3P1p2/4P3/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 7,if 7. e5 then 7. ...Ne4 is very troublesome.  e.g. 8. Nxe4 fxe4 and my d pawn falls.  8. Bd3 or Bd2 leave me cramped while his knight laughs at me.
+14,Na5,c6a5,r1bqkb1r/ppp1p1pp/5n2/n2P1p2/4P3/2N2N2/PPP3PP/R1BQKB1R w KQkq - 1 8,"7. ...fxe4 8. dxc6 Qxd1 9. Kxd1 exf3 10. cxb7 Bxb7 or 
+8. Nxe4 Nxe4 9. dxc6 Qxd1 10. Kxd1 Nf2+    -/+ I got away with one there."
+15,Ne5,f3e5,r1bqkb1r/ppp1p1pp/5n2/n2PNp2/4P3/2N5/PPP3PP/R1BQKB1R b KQkq - 2 8,"8. e5 meets with Ne4 again.  I wanted to own the e8-h5 diagonal, even if I had to sacrifice some material.  I also tend to sacrifice more in blitz games; it's more fun that way."
+16,fxe4,f5e4,r1bqkb1r/ppp1p1pp/5n2/n2PN3/4p3/2N5/PPP3PP/R1BQKB1R w KQkq - 0 9,!?  Deflecting his knight.
+17,Nxe4,c3e4,r1bqkb1r/ppp1p1pp/5n2/n2PN3/4N3/8/PPP3PP/R1BQKB1R b KQkq - 0 9,!?  Deflecting his knight.
+18,Nxe4,f6e4,r1bqkb1r/ppp1p1pp/8/n2PN3/4n3/8/PPP3PP/R1BQKB1R w KQkq - 0 10,! Time for a momentary retreat.
+19,Qh5+,d1h5,r1bqkb1r/ppp1p1pp/8/n2PN2Q/4n3/8/PPP3PP/R1B1KB1R b KQkq - 1 10,! Time for a momentary retreat.
+20,g6,g7g6,r1bqkb1r/ppp1p2p/6p1/n2PN2Q/4n3/8/PPP3PP/R1B1KB1R w KQkq - 0 11,! Time for a momentary retreat.
+21,Nxg6,e5g6,r1bqkb1r/ppp1p2p/6N1/n2P3Q/4n3/8/PPP3PP/R1B1KB1R b KQkq - 0 11,! Time for a momentary retreat.
+22,Nf6,e4f6,r1bqkb1r/ppp1p2p/5nN1/n2P3Q/8/8/PPP3PP/R1B1KB1R w KQkq - 1 12,! Time for a momentary retreat.
+23,Qh4,h5h4,r1bqkb1r/ppp1p2p/5nN1/n2P4/7Q/8/PPP3PP/R1B1KB1R b KQkq - 2 12,Forced.
+24,Rg8,h8g8,r1bqkbr1/ppp1p2p/5nN1/n2P4/7Q/8/PPP3PP/R1B1KB1R w KQq - 3 13,13. Nf4 gives black solid initiative and blunts my attack.  Notice how dominant this knight is the rest of the game.
+25,Ne5,g6e5,r1bqkbr1/ppp1p2p/5n2/n2PN3/7Q/8/PPP3PP/R1B1KB1R b KQq - 4 13,13. Nf4 gives black solid initiative and blunts my attack.  Notice how dominant this knight is the rest of the game.
+26,Qxd5,d8d5,r1b1kbr1/ppp1p2p/5n2/n2qN3/7Q/8/PPP3PP/R1B1KB1R w KQq - 0 14,Your sacrifice will not be in vain!
+27,Bf4,c1f4,r1b1kbr1/ppp1p2p/5n2/n2qN3/5B1Q/8/PPP3PP/R3KB1R b KQq - 1 14,"Developing another piece and defending the knight.  Come on in, Queen!"
+28,Qe4+,d5e4,r1b1kbr1/ppp1p2p/5n2/n3N3/4qB1Q/8/PPP3PP/R3KB1R w KQq - 2 15,"14. ...Nc6 would have left me very frustrated.  Instead, he took the bait."
+29,Be2,f1e2,r1b1kbr1/ppp1p2p/5n2/n3N3/4qB1Q/8/PPP1B1PP/R3K2R b KQq - 3 15,Qxc2 may have been slightly better.  16. Bh5+ Nxh5 17. Qxh5+ Rg6 18. 0-0 Bg4! or 18. Nxg6 Qe4+ leaves black in an advantageous position.
+30,Qxg2,e4g2,r1b1kbr1/ppp1p2p/5n2/n3N3/5B1Q/8/PPP1B1qP/R3K2R w KQq - 0 16,Qxc2 may have been slightly better.  16. Bh5+ Nxh5 17. Qxh5+ Rg6 18. 0-0 Bg4! or 18. Nxg6 Qe4+ leaves black in an advantageous position.
+31,Bh5+,e2h5,r1b1kbr1/ppp1p2p/5n2/n3N2B/5B1Q/8/PPP3qP/R3K2R b KQq - 1 16,Forced. 17. ...Kd8 18. 0-0-0+! and black is soon mated with Rxd7 and Qe8.
+32,Nxh5,f6h5,r1b1kbr1/ppp1p2p/8/n3N2n/5B1Q/8/PPP3qP/R3K2R w KQq - 0 17,Forced. 17. ...Kd8 18. 0-0-0+! and black is soon mated with Rxd7 and Qe8.
+33,Qxh5+,h4h5,r1b1kbr1/ppp1p2p/8/n3N2Q/5B2/8/PPP3qP/R3K2R b KQq - 0 17,Forced. 17. ...Kd8 18. 0-0-0+! and black is soon mated with Rxd7 and Qe8.
+34,Rg6,g8g6,r1b1kb2/ppp1p2p/6r1/n3N2Q/5B2/8/PPP3qP/R3K2R w KQq - 1 18,Forced. 17. ...Kd8 18. 0-0-0+! and black is soon mated with Rxd7 and Qe8.

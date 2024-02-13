@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This was a game i recently played on playchess.com
+It is a good example of how being aggressive pays off in otb chess, much more than correspondance chess.
+Please leave comments using the new facility to do so. I haven't analysed very thoroughly, as this was more a game of instinct than calculated moves"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Planning c5
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Planning c5
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Planning c5
+5,h3,h2h3,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N1P/PPP1PPP1/RNBQKB1R b KQkq - 0 3,Strangely quiet move
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/3P4/5N1P/PPP1PPP1/RNBQKB1R w KQkq - 0 4,"Another quiet move, better would be something like Nc3 or Bf4."
+7,a3,a2a3,rnbqkbnr/pp3ppp/4p3/2pp4/3P4/P4N1P/1PP1PPP1/RNBQKB1R b KQkq - 0 4,"Another quiet move, better would be something like Nc3 or Bf4."
+8,Nf6,g8f6,rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/P4N1P/1PP1PPP1/RNBQKB1R w KQkq - 1 5,"Developing towards the centre still, starting to gain a nice advantage"
+9,Bg5,c1g5,rnbqkb1r/pp3ppp/4pn2/2pp2B1/3P4/P4N1P/1PP1PPP1/RN1QKB1R b KQkq - 2 5,"Good move, developing and attacking"
+10,Be7,f8e7,rnbqk2r/pp2bppp/4pn2/2pp2B1/3P4/P4N1P/1PP1PPP1/RN1QKB1R w KQkq - 3 6,"Quietly defending, and developing a further piece"
+11,Bf4,g5f4,rnbqk2r/pp2bppp/4pn2/2pp4/3P1B2/P4N1P/1PP1PPP1/RN1QKB1R b KQkq - 4 6,"A slightly strange move, retreating back for no apparent reason"
+12,Nc6,b8c6,r1bqk2r/pp2bppp/2n1pn2/2pp4/3P1B2/P4N1P/1PP1PPP1/RN1QKB1R w KQkq - 5 7,Continuing development towards the centre.
+13,dxc5,d4c5,r1bqk2r/pp2bppp/2n1pn2/2Pp4/5B2/P4N1P/1PP1PPP1/RN1QKB1R b KQkq - 0 7,"A reasonable move, though would have worked better had white kept his bishop on g5. Still it forces me to move my bishop a second time which is undesirable in the opening"
+14,Bxc5,e7c5,r1bqk2r/pp3ppp/2n1pn2/2bp4/5B2/P4N1P/1PP1PPP1/RN1QKB1R w KQkq - 0 8,"First big mistake. I suspect white is playing for a certain set-up, rather than playing against me."
+15,Nc3,b1c3,r1bqk2r/pp3ppp/2n1pn2/2bp4/5B2/P1N2N1P/1PP1PPP1/R2QKB1R b KQkq - 1 8,"First big mistake. I suspect white is playing for a certain set-up, rather than playing against me."
+16,O-O,e8g8,r1bq1rk1/pp3ppp/2n1pn2/2bp4/5B2/P1N2N1P/1PP1PPP1/R2QKB1R w KQ - 2 9,"Castle often castle early is the standard advice. I could have played Qb6 picking up a pawn, but in the heat of a blitz game i missed this."
+17,g4,g2g4,r1bq1rk1/pp3ppp/2n1pn2/2bp4/5BP1/P1N2N1P/1PP1PP2/R2QKB1R b KQ - 0 9,"A very odd move, leaving white unable to castle kingside, and weakening his pawn structure."
+18,Qb6,d8b6,r1b2rk1/pp3ppp/1qn1pn2/2bp4/5BP1/P1N2N1P/1PP1PP2/R2QKB1R w KQ - 1 10,"I find the move I missed last time, and overall i am in a much better position"
+19,b4,b2b4,r1b2rk1/pp3ppp/1qn1pn2/2bp4/1P3BP1/P1N2N1P/2P1PP2/R2QKB1R b KQ - 0 10,"Defending the b2 pawn, however much better would have been e3"
+20,Bxf2+,c5f2,r1b2rk1/pp3ppp/1qn1pn2/3p4/1P3BP1/P1N2N1P/2P1Pb2/R2QKB1R w KQ - 0 11,I take the pawn and push right into whites territory.
+21,Kd2,e1d2,r1b2rk1/pp3ppp/1qn1pn2/3p4/1P3BP1/P1N2N1P/2PKPb2/R2Q1B1R b - - 1 11,"I saw a chance to go on the offensive at this point. Better might have been Ne4 , but this offers the chance for white to make a mistake.
+If white takes the knight then: 12. Nxd4 Qxd4 13. Kc1 Qxf4, leaves me a piece up and coasting to an easy win"
+22,Nd4,c6d4,r1b2rk1/pp3ppp/1q2pn2/3p4/1P1n1BP1/P1N2N1P/2PKPb2/R2Q1B1R w - - 2 12,"I saw a chance to go on the offensive at this point. Better might have been Ne4 , but this offers the chance for white to make a mistake.
+If white takes the knight then: 12. Nxd4 Qxd4 13. Kc1 Qxf4, leaves me a piece up and coasting to an easy win"
+23,Ne5,f3e5,r1b2rk1/pp3ppp/1q2pn2/3pN3/1P1n1BP1/P1N4P/2PKPb2/R2Q1B1R b - - 3 12,White sidesteps this trap
+24,Rd8,f8d8,r1br2k1/pp3ppp/1q2pn2/3pN3/1P1n1BP1/P1N4P/2PKPb2/R2Q1B1R w - - 4 13,Quietly setting up an attack rather than rushing in with Ne4 . This move means that the obvious response Nxe4 leaves an awkward discovered check after dxe4
+25,e3,e2e3,r1br2k1/pp3ppp/1q2pn2/3pN3/1P1n1BP1/P1N1P2P/2PK1b2/R2Q1B1R b - - 0 13,"Probably the best move, trying to drive away the knight and releasing the bishop onto a good diagonal."

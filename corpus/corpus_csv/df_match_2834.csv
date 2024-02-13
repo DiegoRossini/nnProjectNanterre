@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Nice.  Fork the queen and rook...
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Nice.  Fork the queen and rook...
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Nice.  Fork the queen and rook...
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Nice.  Fork the queen and rook...
+5,a3,a2a3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR b KQkq - 0 3,Nice.  Fork the queen and rook...
+6,Bc5,f8c5,rnbqk2r/pppp1ppp/5n2/2b1p3/4P3/P1N5/1PPP1PPP/R1BQKBNR w KQkq - 1 4,Nice.  Fork the queen and rook...
+7,Nf3,g1f3,rnbqk2r/pppp1ppp/5n2/2b1p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R b KQkq - 2 4,Nice.  Fork the queen and rook...
+8,Ng4,f6g4,rnbqk2r/pppp1ppp/8/2b1p3/4P1n1/P1N2N2/1PPP1PPP/R1BQKB1R w KQkq - 3 5,Nice.  Fork the queen and rook...
+9,d4,d2d4,rnbqk2r/pppp1ppp/8/2b1p3/3PP1n1/P1N2N2/1PP2PPP/R1BQKB1R b KQkq - 0 5,...blocked.
+10,exd4,e5d4,rnbqk2r/pppp1ppp/8/2b5/3pP1n1/P1N2N2/1PP2PPP/R1BQKB1R w KQkq - 0 6,Pc7 is vulnerable.
+11,Nxd4,f3d4,rnbqk2r/pppp1ppp/8/2b5/3NP1n1/P1N5/1PP2PPP/R1BQKB1R b KQkq - 0 6,Pc7 is vulnerable.
+12,Qf6,d8f6,rnb1k2r/pppp1ppp/5q2/2b5/3NP1n1/P1N5/1PP2PPP/R1BQKB1R w KQkq - 1 7,Pc7 is vulnerable.
+13,Qxg4,d1g4,rnb1k2r/pppp1ppp/5q2/2b5/3NP1Q1/P1N5/1PP2PPP/R1B1KB1R b KQkq - 0 7,Pc7 is vulnerable.
+14,Bxd4,c5d4,rnb1k2r/pppp1ppp/5q2/8/3bP1Q1/P1N5/1PP2PPP/R1B1KB1R w KQkq - 0 8,Pc7 is vulnerable.
+15,Qg3,g4g3,rnb1k2r/pppp1ppp/5q2/8/3bP3/P1N3Q1/1PP2PPP/R1B1KB1R b KQkq - 1 8,Pc7 is vulnerable.
+16,O-O,e8g8,rnb2rk1/pppp1ppp/5q2/8/3bP3/P1N3Q1/1PP2PPP/R1B1KB1R w KQ - 2 9,Pc7 is vulnerable.
+17,Nd5,c3d5,rnb2rk1/pppp1ppp/5q2/3N4/3bP3/P5Q1/1PP2PPP/R1B1KB1R b KQ - 3 9,"Och, white will fork black's queen and rook.  Ra8 is good as toast!"
+18,Qe6,f6e6,rnb2rk1/pppp1ppp/4q3/3N4/3bP3/P5Q1/1PP2PPP/R1B1KB1R w KQ - 4 10,"Och, white will fork black's queen and rook.  Ra8 is good as toast!"
+19,Bd3,f1d3,rnb2rk1/pppp1ppp/4q3/3N4/3bP3/P2B2Q1/1PP2PPP/R1B1K2R b KQ - 5 10,Good move.  Protects the knight while preventing QxPg7#.
+20,Be5,d4e5,rnb2rk1/pppp1ppp/4q3/3Nb3/4P3/P2B2Q1/1PP2PPP/R1B1K2R w KQ - 6 11,Good move.  Protects the knight while preventing QxPg7#.
+21,Bf4,c1f4,rnb2rk1/pppp1ppp/4q3/3Nb3/4PB2/P2B2Q1/1PP2PPP/R3K2R b KQ - 7 11,Good move.  Protects the knight while preventing QxPg7#.
+22,Nc6,b8c6,r1b2rk1/pppp1ppp/2n1q3/3Nb3/4PB2/P2B2Q1/1PP2PPP/R3K2R w KQ - 8 12,Good move.  Protects the knight while preventing QxPg7#.
+23,Nxc7,d5c7,r1b2rk1/ppNp1ppp/2n1q3/4b3/4PB2/P2B2Q1/1PP2PPP/R3K2R b KQ - 0 12,Good move.  Protects the knight while preventing QxPg7#.
+24,Bxc7,e5c7,r1b2rk1/ppbp1ppp/2n1q3/8/4PB2/P2B2Q1/1PP2PPP/R3K2R w KQ - 0 13,Good move.  Protects the knight while preventing QxPg7#.
+25,Bxc7,f4c7,r1b2rk1/ppBp1ppp/2n1q3/8/4P3/P2B2Q1/1PP2PPP/R3K2R b KQ - 0 13,Good move.  Protects the knight while preventing QxPg7#.
+26,Nd4,c6d4,r1b2rk1/ppBp1ppp/4q3/8/3nP3/P2B2Q1/1PP2PPP/R3K2R w KQ - 1 14,Good move.  Protects the knight while preventing QxPg7#.
+27,O-O,e1g1,r1b2rk1/ppBp1ppp/4q3/8/3nP3/P2B2Q1/1PP2PPP/R4RK1 b - - 2 14,Good move.  Protects the knight while preventing QxPg7#.
+28,Re8,f8e8,r1b1r1k1/ppBp1ppp/4q3/8/3nP3/P2B2Q1/1PP2PPP/R4RK1 w - - 3 15,Good move.  Protects the knight while preventing QxPg7#.
+29,Be5,c7e5,r1b1r1k1/pp1p1ppp/4q3/4B3/3nP3/P2B2Q1/1PP2PPP/R4RK1 b - - 4 15,Good move.  Protects the knight while preventing QxPg7#.
+30,Qxe5,e6e5,r1b1r1k1/pp1p1ppp/8/4q3/3nP3/P2B2Q1/1PP2PPP/R4RK1 w - - 0 16,Good move.  Protects the knight while preventing QxPg7#.
+31,f4,f2f4,r1b1r1k1/pp1p1ppp/8/4q3/3nPP2/P2B2Q1/1PP3PP/R4RK1 b - - 0 16,"Pawn for rook?  Actually, deeply insightful move.  BxR followed by Ne2+.  White's rook is pinned by the black queen.  White queen rides tje black knight into glory."
+32,Qc5,e5c5,r1b1r1k1/pp1p1ppp/8/2q5/3nPP2/P2B2Q1/1PP3PP/R4RK1 w - - 1 17,"Pawn for rook?  Actually, deeply insightful move.  BxR followed by Ne2+.  White's rook is pinned by the black queen.  White queen rides tje black knight into glory."
+33,Rf2,f1f2,r1b1r1k1/pp1p1ppp/8/2q5/3nPP2/P2B2Q1/1PP2RPP/R5K1 b - - 2 17,"Pawn for rook?  Actually, deeply insightful move.  BxR followed by Ne2+.  White's rook is pinned by the black queen.  White queen rides tje black knight into glory."
+34,Rxe4,e8e4,r1b3k1/pp1p1ppp/8/2q5/3nrP2/P2B2Q1/1PP2RPP/R5K1 w - - 0 18,"Pawn for rook?  Actually, deeply insightful move.  BxR followed by Ne2+.  White's rook is pinned by the black queen.  White queen rides tje black knight into glory."
+35,Qh3,g3h3,r1b3k1/pp1p1ppp/8/2q5/3nrP2/P2B3Q/1PP2RPP/R5K1 b - - 1 18,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+36,Ne2+,d4e2,r1b3k1/pp1p1ppp/8/2q5/4rP2/P2B3Q/1PP1nRPP/R5K1 w - - 2 19,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+37,Kf1,g1f1,r1b3k1/pp1p1ppp/8/2q5/4rP2/P2B3Q/1PP1nRPP/R4K2 b - - 3 19,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+38,Nxf4,e2f4,r1b3k1/pp1p1ppp/8/2q5/4rn2/P2B3Q/1PP2RPP/R4K2 w - - 0 20,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+39,Qf3,h3f3,r1b3k1/pp1p1ppp/8/2q5/4rn2/P2B1Q2/1PP2RPP/R4K2 b - - 1 20,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+40,Rd4,e4d4,r1b3k1/pp1p1ppp/8/2q5/3r1n2/P2B1Q2/1PP2RPP/R4K2 w - - 2 21,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+41,g3,g2g3,r1b3k1/pp1p1ppp/8/2q5/3r1n2/P2B1QP1/1PP2R1P/R4K2 b - - 0 21,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+42,Ne6,f4e6,r1b3k1/pp1p1ppp/4n3/2q5/3r4/P2B1QP1/1PP2R1P/R4K2 w - - 1 22,Oops.  Black was ahead materially and could afford to sacrifice the knight with Pf6 or Qh5.
+43,Qxf7+,f3f7,r1b3k1/pp1p1Qpp/4n3/2q5/3r4/P2B2P1/1PP2R1P/R4K2 b - - 0 22,
+44,Kh8,g8h8,r1b4k/pp1p1Qpp/4n3/2q5/3r4/P2B2P1/1PP2R1P/R4K2 w - - 1 23,
+45,Qe8+,f7e8,r1b1Q2k/pp1p2pp/4n3/2q5/3r4/P2B2P1/1PP2R1P/R4K2 b - - 2 23,
+46,Nf8,e6f8,r1b1Qn1k/pp1p2pp/8/2q5/3r4/P2B2P1/1PP2R1P/R4K2 w - - 3 24,
+47,Rxf8+,f2f8,r1b1QR1k/pp1p2pp/8/2q5/3r4/P2B2P1/1PP4P/R4K2 b - - 0 24,
+48,Qxf8+,c5f8,r1b1Qq1k/pp1p2pp/8/8/3r4/P2B2P1/1PP4P/R4K2 w - - 0 25,
+49,Qxf8#,e8f8,r1b2Q1k/pp1p2pp/8/8/3r4/P2B2P1/1PP4P/R4K2 b - - 0 25,

@@ -1,0 +1,17 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My opponent had white pieces and game starts with d4.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"After d5, c4 we have queen's gambit."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"After d5, c4 we have queen's gambit."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"e4, the signature move of Albin counter gambit."
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,My opponent accepts the gambit pawn.
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"D4, gaining space on the board."
+7,e3,e2e3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 4,"White plays e3 which looks logical, hoping for dxe3 and then Bxe3 developing bishop by capturing the pawn, however this is an inaccuracy."
+8,Bb4+,f8b4,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 5,Bb4+ I'm going for the famous trap line - The Lasker's trap.
+9,Bd2,c1d2,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP1B1PPP/RN1QKBNR b KQkq - 2 5,"After Bd2, dxe3 the trap has been set, but will my opponent take the bait? To take or not to take? That is the question."
+10,dxe3,d4e3,rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq - 0 6,"After Bd2, dxe3 the trap has been set, but will my opponent take the bait? To take or not to take? That is the question."
+11,Bxb4,d2b4,rnbqk1nr/ppp2ppp/8/4P3/1BP5/4p3/PP3PPP/RN1QKBNR b KQkq - 0 6,"White falls for it. The best move is actually fxe3, it may look ugly, but he would perhaps survive."
+12,exf2+,e3f2,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP3pPP/RN1QKBNR w KQkq - 0 7,exf2+ King can not recapture because white would lose his queen.
+13,Ke2,e1e2,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2KpPP/RN1Q1BNR b kq - 1 7,Ke2 is the only move.
+14,fxg1=N+,f2g1n,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN1Q1BnR w kq - 0 8,"Fxg1=N+ under promoting to a knight with check. Promoting to any other piece would not work, because white has a in-between move Qxd8+, after Kxd8 white can then capture whichever piece the pawn promoted to with the rook. The best move in this position is actually Ke1 and black would follow with Qh4+. White is in deep trouble now, any inaccurate move would be devastating. Capturing the knight with rook would be a blunder..."
+15,Rxg1,h1g1,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN1Q1BR1 b kq - 0 8,White captures anyway...
+16,Bg4+,c8g4,rn1qk1nr/ppp2ppp/8/4P3/1BP3b1/8/PP2K1PP/RN1Q1BR1 w kq - 1 9,Bg4+ and he resigned. My opponent was not aware of this trap and cost him the game.

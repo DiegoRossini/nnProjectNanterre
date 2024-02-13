@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,d4 is my best first move statistically so I played it.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queens gambit.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Queens gambit.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Slav defense
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,Nc3 is flexible in case of e6 transposing into the semi-slav.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Nc3 is flexible in case of e6 transposing into the semi-slav.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,Nc3 is flexible in case of e6 transposing into the semi-slav.
+8,dxc4,d5c4,rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,This is the main point of the slav black will try to hold onto his c4 pawn.
+9,e4,e2e4,rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,This will transform into a gambit a4 may have been slightly better.
+10,b5,b7b5,rnbqkb1r/p3pppp/2p2n2/1p6/2pPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,forced if I want to hold onto my e pawn.
+11,e5,e4e5,rnbqkb1r/p3pppp/2p2n2/1p2P3/2pP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6,forced if I want to hold onto my e pawn.
+12,Nd5,f6d5,rnbqkb1r/p3pppp/2p5/1p1nP3/2pP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 7,slight trick black plays the best Nxc3.
+13,a4,a2a4,rnbqkb1r/p3pppp/2p5/1p1nP3/P1pP4/2N2N2/1P3PPP/R1BQKB1R b KQkq - 0 7,slight trick black plays the best Nxc3.
+14,e6,e7e6,rnbqkb1r/p4ppp/2p1p3/1p1nP3/P1pP4/2N2N2/1P3PPP/R1BQKB1R w KQkq - 0 8,slight trick black plays the best Nxc3.
+15,axb5,a4b5,rnbqkb1r/p4ppp/2p1p3/1P1nP3/2pP4/2N2N2/1P3PPP/R1BQKB1R b KQkq - 0 8,slight trick black plays the best Nxc3.
+16,Nxc3,d5c3,rnbqkb1r/p4ppp/2p1p3/1P2P3/2pP4/2n2N2/1P3PPP/R1BQKB1R w KQkq - 0 9,"Took me a while to rationalize this move.  I felt that Be2 or Ba3 may have been slightly better, though this move doesn't have anything wrong with it."
+17,bxc3,b2c3,rnbqkb1r/p4ppp/2p1p3/1P2P3/2pP4/2P2N2/5PPP/R1BQKB1R b KQkq - 0 9,"Took me a while to rationalize this move.  I felt that Be2 or Ba3 may have been slightly better, though this move doesn't have anything wrong with it."
+18,cxb5,c6b5,rnbqkb1r/p4ppp/4p3/1p2P3/2pP4/2P2N2/5PPP/R1BQKB1R w KQkq - 0 10,"Took me a while to rationalize this move.  I felt that Be2 or Ba3 may have been slightly better, though this move doesn't have anything wrong with it."
+19,Ng5,f3g5,rnbqkb1r/p4ppp/4p3/1p2P1N1/2pP4/2P5/5PPP/R1BQKB1R b KQkq - 1 10,"Took me a while to rationalize this move.  I felt that Be2 or Ba3 may have been slightly better, though this move doesn't have anything wrong with it."
+20,Qd7,d8d7,rnb1kb1r/p2q1ppp/4p3/1p2P1N1/2pP4/2P5/5PPP/R1BQKB1R w KQkq - 2 11,Qd7 responds to Qf3.
+21,Qg4,d1g4,rnb1kb1r/p2q1ppp/4p3/1p2P1N1/2pP2Q1/2P5/5PPP/R1B1KB1R b KQkq - 3 11,Qg4 seem more reasonable than Qh5 the other option for the queen.
+22,Bb7,c8b7,rn2kb1r/pb1q1ppp/4p3/1p2P1N1/2pP2Q1/2P5/5PPP/R1B1KB1R w KQkq - 4 12,Black position is now very solid.
+23,Be2,f1e2,rn2kb1r/pb1q1ppp/4p3/1p2P1N1/2pP2Q1/2P5/4BPPP/R1B1K2R b KQkq - 5 12,Black position is now very solid.
+24,Bd5,b7d5,rn2kb1r/p2q1ppp/4p3/1p1bP1N1/2pP2Q1/2P5/4BPPP/R1B1K2R w KQkq - 6 13,Black position is now very solid.
+25,O-O,e1g1,rn2kb1r/p2q1ppp/4p3/1p1bP1N1/2pP2Q1/2P5/4BPPP/R1B2RK1 b kq - 7 13,Ba3 trades bishops and stops b4.
+26,a5,a7a5,rn2kb1r/3q1ppp/4p3/pp1bP1N1/2pP2Q1/2P5/4BPPP/R1B2RK1 w kq - 0 14,Ba3 trades bishops and stops b4.
+27,Ba3,c1a3,rn2kb1r/3q1ppp/4p3/pp1bP1N1/2pP2Q1/B1P5/4BPPP/R4RK1 b kq - 1 14,Ba3 trades bishops and stops b4.
+28,Bxa3,f8a3,rn2k2r/3q1ppp/4p3/pp1bP1N1/2pP2Q1/b1P5/4BPPP/R4RK1 w kq - 0 15,This move took me about 20 minutes or so to play.  I was also thinking about Bf3 though I feel that I would be going backwards in development.
+29,Rxa3,a1a3,rn2k2r/3q1ppp/4p3/pp1bP1N1/2pP2Q1/R1P5/4BPPP/5RK1 b kq - 0 15,This move took me about 20 minutes or so to play.  I was also thinking about Bf3 though I feel that I would be going backwards in development.
+30,Qb7,d7b7,rn2k2r/1q3ppp/4p3/pp1bP1N1/2pP2Q1/R1P5/4BPPP/5RK1 w kq - 1 16,This move took me about 20 minutes or so to play.  I was also thinking about Bf3 though I feel that I would be going backwards in development.
+31,f4,f2f4,rn2k2r/1q3ppp/4p3/pp1bP1N1/2pP1PQ1/R1P5/4B1PP/5RK1 b kq - 0 16,This move took me about 20 minutes or so to play.  I was also thinking about Bf3 though I feel that I would be going backwards in development.
+32,h6,h7h6,rn2k2r/1q3pp1/4p2p/pp1bP1N1/2pP1PQ1/R1P5/4B1PP/5RK1 w kq - 0 17,kicks my knight back.
+33,Nf3,g5f3,rn2k2r/1q3pp1/4p2p/pp1bP3/2pP1PQ1/R1P2N2/4B1PP/5RK1 b kq - 1 17,I had expected O-O but black played b4 which is more fun!
+34,b4,b5b4,rn2k2r/1q3pp1/4p2p/p2bP3/1ppP1PQ1/R1P2N2/4B1PP/5RK1 w kq - 0 18,I had expected O-O but black played b4 which is more fun!
+35,cxb4,c3b4,rn2k2r/1q3pp1/4p2p/p2bP3/1PpP1PQ1/R4N2/4B1PP/5RK1 b kq - 0 18,"I finally got my pawn back but, the b and c pawns look ominous."
+36,axb4,a5b4,rn2k2r/1q3pp1/4p2p/3bP3/1ppP1PQ1/R4N2/4B1PP/5RK1 w kq - 0 19,"I finally got my pawn back but, the b and c pawns look ominous."
+37,Rxa8,a3a8,Rn2k2r/1q3pp1/4p2p/3bP3/1ppP1PQ1/5N2/4B1PP/5RK1 b k - 0 19,"I finally got my pawn back but, the b and c pawns look ominous."
+38,Qxa8,b7a8,qn2k2r/5pp1/4p2p/3bP3/1ppP1PQ1/5N2/4B1PP/5RK1 w k - 0 20,"I finally got my pawn back but, the b and c pawns look ominous."
+39,Qxg7,g4g7,qn2k2r/5pQ1/4p2p/3bP3/1ppP1P2/5N2/4B1PP/5RK1 b k - 0 20,"I finally got my pawn back but, the b and c pawns look ominous."
+40,Rf8,h8f8,qn2kr2/5pQ1/4p2p/3bP3/1ppP1P2/5N2/4B1PP/5RK1 w - - 1 21,Qxh6 would be too greedy.
+41,f5,f4f5,qn2kr2/5pQ1/4p2p/3bPP2/1ppP4/5N2/4B1PP/5RK1 b - - 0 21,Qxh6 would be too greedy.
+42,Qa7,a8a7,1n2kr2/q4pQ1/4p2p/3bPP2/1ppP4/5N2/4B1PP/5RK1 w - - 1 22,Nc6 prepares the very strong Nxd4!
+43,fxe6,f5e6,1n2kr2/q4pQ1/4P2p/3bP3/1ppP4/5N2/4B1PP/5RK1 b - - 0 22,Nc6 prepares the very strong Nxd4!
+44,Nc6,b8c6,4kr2/q4pQ1/2n1P2p/3bP3/1ppP4/5N2/4B1PP/5RK1 w - - 1 23,Nc6 prepares the very strong Nxd4!
+45,exf7+,e6f7,4kr2/q4PQ1/2n4p/3bP3/1ppP4/5N2/4B1PP/5RK1 b - - 0 23,This is probably the game winning mistake though blacks pawn are strong they are not quite decisive.  I got too greedy here I actually strengthened Nxd4.

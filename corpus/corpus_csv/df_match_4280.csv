@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The opening begins with 1.d4 d5.  It is also possible to reach it by 1.c3 d5 2.d4.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Black continues like white, taking control of part of the center."
+3,c3,c2c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2P5/PP2PPPP/RNBQKBNR b KQkq - 0 2,"This move may seem a bit unusual, as it blocks the c3 square and does not develop any pieces.  However, it creates a solid center for white and takes black out of the opening book."
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3p1b2/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 1 3,"This move is a normal move in position, because black wants to develop his white squared bishop before playing e6.  The problem is that black is not quite sure where the bishop is best placed, and it may spend extra tempi moving to a better square."
+5,g4,g2g4,rn1qkbnr/ppp1pppp/8/3p1b2/3P2P1/2P5/PP2PP1P/RNBQKBNR b KQkq - 0 3,I believe I am the developer of this move.  The idea is to force the bishop to move again while losing time.
+6,Bxg4,f5g4,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2P5/PP2PP1P/RNBQKBNR w KQkq - 0 4,"There is no reason black should decline the gambit, because if he is going to lose tempi, he might as well have a pawn for them."
+7,Bh3,f1h3,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2P4B/PP2PP1P/RNBQK1NR b KQkq - 1 4,This move is much better than f3 or h3 because it develops a piece while forcing black to do something about his g4 bishop.
+8,Qd7,d8d7,rn2kbnr/pppqpppp/8/3p4/3P2b1/2P4B/PP2PP1P/RNBQK1NR w KQkq - 2 5,"This probably is not the best move in the position as white can exchange bishops and play Qb3 targeting the weak b7 pawn.  Alternative lines include: 4...Bxh3 5.Nxh3 Nf6 6.Qb3 Qc8 7.Bf4! (if 7...Qxh3?? 8.Qxb7 Qg2 9.Rf1+-) with an interesting game and 4...Nf6 5.Qb3, which may transpose to the Bxh3 line."
+9,Bxg4,h3g4,rn2kbnr/pppqpppp/8/3p4/3P2B1/2P5/PP2PP1P/RNBQK1NR b KQkq - 0 5,Taking the bishop and forcing recapture by the queen.
+10,Qxg4,d7g4,rn2kbnr/ppp1pppp/8/3p4/3P2q1/2P5/PP2PP1P/RNBQK1NR w KQkq - 0 6,"Forced, but black's queenside looks weak."
+11,Qb3,d1b3,rn2kbnr/ppp1pppp/8/3p4/3P2q1/1QP5/PP2PP1P/RNB1K1NR b KQkq - 1 6,Attacking the b7 pawn.  The most exciting line is 6...Qg2 7.Qxb7 Qxh1 8.Kf1! Nf6 (to defend the b8 knight) 9.Qxa8 Nd7 10.Bf4 and white looks like he will win the b8 knight for a few pawns.
+12,b6,b7b6,rn2kbnr/p1p1pppp/1p6/3p4/3P2q1/1QP5/PP2PP1P/RNB1K1NR w KQkq - 0 7,Black wimps out of the exciting line and gives the pawn back for free.
+13,Qxd5,b3d5,rn2kbnr/p1p1pppp/1p6/3Q4/3P2q1/2P5/PP2PP1P/RNB1K1NR b KQkq - 0 7,"Snatching the pawn back, attacking the a8 rook, and protecting the g2 square."
+14,c6,c7c6,rn2kbnr/p3pppp/1pp5/3Q4/3P2q1/2P5/PP2PP1P/RNB1K1NR w KQkq - 0 8,Defending the a8 rook and forcing the queen to move.
+15,Qf3,d5f3,rn2kbnr/p3pppp/1pp5/8/3P2q1/2P2Q2/PP2PP1P/RNB1K1NR b KQkq - 1 8,"This is forced, as f3 allows Qg2."
+16,Qg6,g4g6,rn2kbnr/p3pppp/1pp3q1/8/3P4/2P2Q2/PP2PP1P/RNB1K1NR w KQkq - 2 9,Black wisely avoids trading queens and prevents white's knight from developing.
+17,e4,e2e4,rn2kbnr/p3pppp/1pp3q1/8/3PP3/2P2Q2/PP3P1P/RNB1K1NR b KQkq - 0 9,Blocking the g6-b1 diagonal and getting ready to move the pieces out.
+18,Nf6,g8f6,rn2kb1r/p3pppp/1pp2nq1/8/3PP3/2P2Q2/PP3P1P/RNB1K1NR w KQkq - 1 10,Developing and threatening white's e4 pawn.
+19,e5,e4e5,rn2kb1r/p3pppp/1pp2nq1/4P3/3P4/2P2Q2/PP3P1P/RNB1K1NR b KQkq - 0 10,"Pushing the pawn with a gain of time.  White's ""bad bishop"" is actually okay and black's bishop hasn't moved at all."
+20,Nd5,f6d5,rn2kb1r/p3pppp/1pp3q1/3nP3/3P4/2P2Q2/PP3P1P/RNB1K1NR w KQkq - 1 11,"Probably the best place for the knight.  Now, black should play e6 and try to develop the bishop."

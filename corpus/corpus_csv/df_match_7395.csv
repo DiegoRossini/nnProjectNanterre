@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I exclusively play 1.e4, never felt comfortable with d4 or anything else..."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Going for the Ruy Lopez, one of the openings with best winning chances for white."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Going for the Ruy Lopez, one of the openings with best winning chances for white."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Going for the Ruy Lopez, one of the openings with best winning chances for white."
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"Going for the Ruy Lopez, one of the openings with best winning chances for white."
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Stronger than the exchange variation (Bxc6)
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Stronger than the exchange variation (Bxc6)
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,Black plays an early ...b5 to drive the bishop off. More common is ...Be7 (closed system) first but this move allows for some interesting variations.
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,Black plays an early ...b5 to drive the bishop off. More common is ...Be7 (closed system) first but this move allows for some interesting variations.
+10,b5,b7b5,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6,Black plays an early ...b5 to drive the bishop off. More common is ...Be7 (closed system) first but this move allows for some interesting variations.
+11,Bb3,a4b3,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 1 6,"Interesting choice here, developing the bishop on the a8-h1 diagonale to put pressure on white's center. While this move is seen in many variations of the spanish opening at some point, the early b5 followed by Bb7 defines the Archangel (aka. counterthrust) variation. This idea was developed in the early sixties.
+Critics of this variation say that the early Bb7 gives away Blacks plans too early. White doesn't have to push c3-d4 here but can also play the very solid 7.d3!, reinforcing e4. This is the main reason why this is very rarely played on top level. 
+A more popular variant is to play 6...Bc5 instead (Neo-Archangelsk), deferring the development of the c8-bishop to when black knows what white is up to."
+12,Bb7,c8b7,r2qkb1r/1bpp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7,"Interesting choice here, developing the bishop on the a8-h1 diagonale to put pressure on white's center. While this move is seen in many variations of the spanish opening at some point, the early b5 followed by Bb7 defines the Archangel (aka. counterthrust) variation. This idea was developed in the early sixties.
+Critics of this variation say that the early Bb7 gives away Blacks plans too early. White doesn't have to push c3-d4 here but can also play the very solid 7.d3!, reinforcing e4. This is the main reason why this is very rarely played on top level. 
+A more popular variant is to play 6...Bc5 instead (Neo-Archangelsk), deferring the development of the c8-bishop to when black knows what white is up to."
+13,Nc3,b1c3,r2qkb1r/1bpp1ppp/p1n2n2/1p2p3/4P3/1BN2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 7,"Rather aggressive reply by white, immediately developing the knight. This poses some troubles as it inhibits c3 and leaves the bishop vulnerable on b3. More solid variations apart from the already mentioned d3 include 7.c3, making way for the bishop on c2 and preparing the ideal pawn center push d4; also possible is 7.Re1 (with the same thing in mind)."
+14,Bd6,f8d6,r2qk2r/1bpp1ppp/p1nb1n2/1p2p3/4P3/1BN2N2/PPPP1PPP/R1BQ1RK1 w kq - 4 8,"Developing the bishop and defending e5 - but this might not be the best idea here. The bishop blocks black's d-pawn, thereby weakening the center. After d3 black is also vulnerable to the knight pin on g5.
+Black usually plays Be7 or Bc5 here, followed by ...d6. Note how this looks pretty similar to the anti-marshall systems but with white being a tempo up.
+Also note that 7...Na5?! is not a good idea because 8.Nxe5! Nxb3 9.axb3 (probably best followed by ...b4 10.Nd5! Nxe4 11. d3 Bxd5 12.dxe4 Bb7 13.Re1) leaves white with a menacing position."
+15,d4,d2d4,r2qk2r/1bpp1ppp/p1nb1n2/1p2p3/3PP3/1BN2N2/PPP2PPP/R1BQ1RK1 b kq - 0 8,"White would rather play d3 here to setup a very solid closed position, probably followed by maneuvering the knight to the kingside (Nc3-e2-g3).
+I decided to speed things up a little with the immediate, aggressive d4?! push, opening the position and hoping for some tactical play."
+16,exd4,e5d4,r2qk2r/1bpp1ppp/p1nb1n2/1p6/3pP3/1BN2N2/PPP2PPP/R1BQ1RK1 w kq - 0 9,Better is ...Nxd4! 9.Nxd4 exd4 10.Qxd4 Qe7 with a good position for black.
+17,Nd5,c3d5,r2qk2r/1bpp1ppp/p1nb1n2/1p1N4/3pP3/1B3N2/PPP2PPP/R1BQ1RK1 b kq - 1 9,Good move! The reason why black should have taken with the knight instead.
+18,O-O,e8g8,r2q1rk1/1bpp1ppp/p1nb1n2/1p1N4/3pP3/1B3N2/PPP2PPP/R1BQ1RK1 w - - 2 10,"The best thing black can do is bring the king to safety. 
+...Nxd5 10.exd5 Ne7 11. Qxd4 O-O leaves white with an enormous space advantage and very favorable play.
+Note that snatching the bishop by ...Na5? is again not possible because 10.Nxf6+! Qxf6 11.e5! Bxf3 [...Bxe5? loses a piece: 12.Nxe5 Nxb3 13.axb3 Qxe5 14.Re1 Be4 15.f3] 12.exf6 Bxd1 13.fxg7! Rg8 14.Re1+! Be7 15.Bg5 Nc6 16.Raxd1 and it's white who has the bishop pair and the better endgame."
+19,Bg5,c1g5,r2q1rk1/1bpp1ppp/p1nb1n2/1p1N2B1/3pP3/1B3N2/PPP2PPP/R2Q1RK1 b - - 3 10,Developing the bishop and pinning the knight
+20,Be7,d6e7,r2q1rk1/1bppbppp/p1n2n2/1p1N2B1/3pP3/1B3N2/PPP2PPP/R2Q1RK1 w - - 4 11,"Pretty much forced, but loses a tempo."
+21,Nxe7+,d5e7,r2q1rk1/1bppNppp/p1n2n2/1p4B1/3pP3/1B3N2/PPP2PPP/R2Q1RK1 b - - 0 11,Now white has the bishop pair in an opened position. Definitely the better play for white.
+22,Qxe7,d8e7,r4rk1/1bppqppp/p1n2n2/1p4B1/3pP3/1B3N2/PPP2PPP/R2Q1RK1 w - - 0 12,Not ...Nxe7 12. Bxf6 gxf6 leaving the king vulnerable to direct attacks.
+23,Re1,f1e1,r4rk1/1bppqppp/p1n2n2/1p4B1/3pP3/1B3N2/PPP2PPP/R2QR1K1 b - - 1 12,...preparing the e5 push.
+24,h6,h7h6,r4rk1/1bppqpp1/p1n2n1p/1p4B1/3pP3/1B3N2/PPP2PPP/R2QR1K1 w - - 0 13,"Trying to drive off that bishop, but weakening the king - still, what else can black do?"
+25,Bh4,g5h4,r4rk1/1bppqpp1/p1n2n1p/1p6/3pP2B/1B3N2/PPP2PPP/R2QR1K1 b - - 1 13,"Chasing that bishop is almost always a bad idea. This leaves a gaping hole in blacks king defense, waiting to be exploited."
+26,g5,g7g5,r4rk1/1bppqp2/p1n2n1p/1p4p1/3pP2B/1B3N2/PPP2PPP/R2QR1K1 w - - 0 14,"Chasing that bishop is almost always a bad idea. This leaves a gaping hole in blacks king defense, waiting to be exploited."
+27,Bg3,h4g3,r4rk1/1bppqp2/p1n2n1p/1p4p1/3pP3/1B3NB1/PPP2PPP/R2QR1K1 b - - 1 14,"The final nail in black's coffin. Black tries to gain some play on the queenside, but the queen is needed for the king's defence.
+Probably the best idea here is ...Rae8, putting some more pressure on e4."
+28,Qc5,e7c5,r4rk1/1bpp1p2/p1n2n1p/1pq3p1/3pP3/1B3NB1/PPP2PPP/R2QR1K1 w - - 2 15,"The final nail in black's coffin. Black tries to gain some play on the queenside, but the queen is needed for the king's defence.
+Probably the best idea here is ...Rae8, putting some more pressure on e4."
+29,e5,e4e5,r4rk1/1bpp1p2/p1n2n1p/1pq1P1p1/3p4/1B3NB1/PPP2PPP/R2QR1K1 b - - 0 15,The best move! Drives away the last piece defending that king.

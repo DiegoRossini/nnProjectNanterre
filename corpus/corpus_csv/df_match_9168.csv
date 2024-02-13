@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The ""Wayward"" Queen attack"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The ""Wayward"" Queen attack"
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"The ""Wayward"" Queen attack"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Queen is forced back to d1 for a serious loss of tempo
+5,a3,a2a3,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/P7/1PPP1PPP/RNB1KBNR b KQkq - 0 3,Queen is forced back to d1 for a serious loss of tempo
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p2Q/4P3/P7/1PPP1PPP/RNB1KBNR w KQkq - 1 4,Queen is forced back to d1 for a serious loss of tempo
+7,Qe2,h5e2,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P7/1PPPQPPP/RNB1KBNR b KQkq - 2 4,Queen is forced back to d1 for a serious loss of tempo
+8,Nd4,c6d4,r1bqkb1r/pppp1ppp/5n2/4p3/3nP3/P7/1PPPQPPP/RNB1KBNR w KQkq - 3 5,Queen is forced back to d1 for a serious loss of tempo
+9,Qd3,e2d3,r1bqkb1r/pppp1ppp/5n2/4p3/3nP3/P2Q4/1PPP1PPP/RNB1KBNR b KQkq - 4 5,"Guess I was wrong, but if he insists on losing tempo ..."
+10,d5,d7d5,r1bqkb1r/ppp2ppp/5n2/3pp3/3nP3/P2Q4/1PPP1PPP/RNB1KBNR w KQkq - 0 6,"My expectations: 7. Nxe4, Bf5 for the half-pin on the knight. Expecting to have to handle 8. Nxf6 , Qxf6"
+11,Nc3,b1c3,r1bqkb1r/ppp2ppp/5n2/3pp3/3nP3/P1NQ4/1PPP1PPP/R1B1KBNR b KQkq - 1 6,"My expectations: 7. Nxe4, Bf5 for the half-pin on the knight. Expecting to have to handle 8. Nxf6 , Qxf6"
+12,dxe4,d5e4,r1bqkb1r/ppp2ppp/5n2/4p3/3np3/P1NQ4/1PPP1PPP/R1B1KBNR w KQkq - 0 7,"My expectations: 7. Nxe4, Bf5 for the half-pin on the knight. Expecting to have to handle 8. Nxf6 , Qxf6"
+13,Nxe4,c3e4,r1bqkb1r/ppp2ppp/5n2/4p3/3nN3/P2Q4/1PPP1PPP/R1B1KBNR b KQkq - 0 7,"I am still uncertain about this move. 9. Nxf6 ,gxf6 leaves me with a doubled pawn, but ensures either the loss of his a-rook or in the worst-case a knight-rook exchange. That may be why my opponent insisted on keeping his knight in position."
+14,Bf5,c8f5,r2qkb1r/ppp2ppp/5n2/4pb2/3nN3/P2Q4/1PPP1PPP/R1B1KBNR w KQkq - 1 8,"I am still uncertain about this move. 9. Nxf6 ,gxf6 leaves me with a doubled pawn, but ensures either the loss of his a-rook or in the worst-case a knight-rook exchange. That may be why my opponent insisted on keeping his knight in position."
+15,f3,f2f3,r2qkb1r/ppp2ppp/5n2/4pb2/3nN3/P2Q1P2/1PPP2PP/R1B1KBNR b KQkq - 0 8,"I am still uncertain about this move. 9. Nxf6 ,gxf6 leaves me with a doubled pawn, but ensures either the loss of his a-rook or in the worst-case a knight-rook exchange. That may be why my opponent insisted on keeping his knight in position."
+16,Qd5,d8d5,r3kb1r/ppp2ppp/5n2/3qpb2/3nN3/P2Q1P2/1PPP2PP/R1B1KBNR w KQkq - 1 9,"I am still uncertain about this move. 9. Nxf6 ,gxf6 leaves me with a doubled pawn, but ensures either the loss of his a-rook or in the worst-case a knight-rook exchange. That may be why my opponent insisted on keeping his knight in position."
+17,c4,c2c4,r3kb1r/ppp2ppp/5n2/3qpb2/2PnN3/P2Q1P2/1P1P2PP/R1B1KBNR b KQkq - 0 9,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+18,Bxe4,f5e4,r3kb1r/ppp2ppp/5n2/3qp3/2Pnb3/P2Q1P2/1P1P2PP/R1B1KBNR w KQkq - 0 10,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+19,fxe4,f3e4,r3kb1r/ppp2ppp/5n2/3qp3/2PnP3/P2Q4/1P1P2PP/R1B1KBNR b KQkq - 0 10,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+20,Qxe4+,d5e4,r3kb1r/ppp2ppp/5n2/4p3/2Pnq3/P2Q4/1P1P2PP/R1B1KBNR w KQkq - 0 11,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+21,Qxe4,d3e4,r3kb1r/ppp2ppp/5n2/4p3/2PnQ3/P7/1P1P2PP/R1B1KBNR b KQkq - 0 11,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+22,Nxe4,f6e4,r3kb1r/ppp2ppp/8/4p3/2Pnn3/P7/1P1P2PP/R1B1KBNR w KQkq - 0 12,"gained an important one pawn advantage in this series of exchanges while maintaining the threat of 12. Nc2  for the rook. Additionally (on hindsight) it leaves his h-rook vulnerable to Nf2, should my bishop be able to get to c5 to support it."
+23,Bd3,f1d3,r3kb1r/ppp2ppp/8/4p3/2Pnn3/P2B4/1P1P2PP/R1B1K1NR b KQkq - 1 12,"Seems like a terrible blunder, but he would have lost a bishop anyways had he gone for 13. Bb1,Nb3 14. Ra2,Nxc1 15. Ra1,Nb3 (for the getaway followed by O-O-O or bishop activation).
+The blunder probably happened with his attempt to defend an indefensible position."
+24,Nc5,e4c5,r3kb1r/ppp2ppp/8/2n1p3/2Pn4/P2B4/1P1P2PP/R1B1K1NR w KQkq - 2 13,"Seems like a terrible blunder, but he would have lost a bishop anyways had he gone for 13. Bb1,Nb3 14. Ra2,Nxc1 15. Ra1,Nb3 (for the getaway followed by O-O-O or bishop activation).
+The blunder probably happened with his attempt to defend an indefensible position."
+25,Bf5,d3f5,r3kb1r/ppp2ppp/8/2n1pB2/2Pn4/P7/1P1P2PP/R1B1K1NR b KQkq - 3 13,"Seems like a terrible blunder, but he would have lost a bishop anyways had he gone for 13. Bb1,Nb3 14. Ra2,Nxc1 15. Ra1,Nb3 (for the getaway followed by O-O-O or bishop activation).
+The blunder probably happened with his attempt to defend an indefensible position."
+26,Nxf5,d4f5,r3kb1r/ppp2ppp/8/2n1pn2/2P5/P7/1P1P2PP/R1B1K1NR w KQkq - 0 14,Takes the opportunity to extricate himself from an extremely bad spot.
+27,Ke2,e1e2,r3kb1r/ppp2ppp/8/2n1pn2/2P5/P7/1P1PK1PP/R1B3NR b kq - 1 14,Takes the opportunity to extricate himself from an extremely bad spot.
+28,O-O-O,e8c8,2kr1b1r/ppp2ppp/8/2n1pn2/2P5/P7/1P1PK1PP/R1B3NR w - - 2 15,exchanging pieces now is extremely beneficial to me especially if I can get more troops out while his queenside rook and bishop are essentially stuck.
+29,Nf3,g1f3,2kr1b1r/ppp2ppp/8/2n1pn2/2P5/P4N2/1P1PK1PP/R1B4R b - - 3 15,exchanging pieces now is extremely beneficial to me especially if I can get more troops out while his queenside rook and bishop are essentially stuck.
+30,Nd4+,f5d4,2kr1b1r/ppp2ppp/8/2n1p3/2Pn4/P4N2/1P1PK1PP/R1B4R w - - 4 16,exchanging pieces now is extremely beneficial to me especially if I can get more troops out while his queenside rook and bishop are essentially stuck.
+31,Nxd4,f3d4,2kr1b1r/ppp2ppp/8/2n1p3/2PN4/P7/1P1PK1PP/R1B4R b - - 0 16,exchanging pieces now is extremely beneficial to me especially if I can get more troops out while his queenside rook and bishop are essentially stuck.
+32,Rxd4,d8d4,2k2b1r/ppp2ppp/8/2n1p3/2Pr4/P7/1P1PK1PP/R1B4R w - - 0 17,exchanging pieces now is extremely beneficial to me especially if I can get more troops out while his queenside rook and bishop are essentially stuck.
+33,g3,g2g3,2k2b1r/ppp2ppp/8/2n1p3/2Pr4/P5P1/1P1PK2P/R1B4R b - - 0 17,"Not sure what he wanted to achieve with that, but I was gonna take the opportunity to clear away an annoying pawn and possibly position myself for a better attack (the fact that my bishop has yet to find a reasonable position to move to has troubled me for a while now)."
+34,Rxc4,d4c4,2k2b1r/ppp2ppp/8/2n1p3/2r5/P5P1/1P1PK2P/R1B4R w - - 0 18,probably took the chance to push the pawn and free his bishop (impossible earlier with the rook at d4).
+35,d3,d2d3,2k2b1r/ppp2ppp/8/2n1p3/2r5/P2P2P1/1P2K2P/R1B4R b - - 0 18,probably took the chance to push the pawn and free his bishop (impossible earlier with the rook at d4).
+36,Rc2+,c4c2,2k2b1r/ppp2ppp/8/2n1p3/8/P2P2P1/1Pr1K2P/R1B4R w - - 1 19,probably took the chance to push the pawn and free his bishop (impossible earlier with the rook at d4).
+37,Ke3,e2e3,2k2b1r/ppp2ppp/8/2n1p3/8/P2PK1P1/1Pr4P/R1B4R b - - 2 19,"Nb3 was designed to waste his time moving his ineffective rook to safety while freeing the c5 square for my bishop to finally play a useful role in the game. Frankly, at this point, I'm not certain I was willing to take his rook with my very powerful knight should he chose 20. Rf1 to make better use of his other rook instead."
+38,Nb3,c5b3,2k2b1r/ppp2ppp/8/4p3/8/Pn1PK1P1/1Pr4P/R1B4R w - - 3 20,"Nb3 was designed to waste his time moving his ineffective rook to safety while freeing the c5 square for my bishop to finally play a useful role in the game. Frankly, at this point, I'm not certain I was willing to take his rook with my very powerful knight should he chose 20. Rf1 to make better use of his other rook instead."
+39,Rb1,a1b1,2k2b1r/ppp2ppp/8/4p3/8/Pn1PK1P1/1Pr4P/1RB4R b - - 4 20,Only choice if he wants to avoid the devastating loss of a potentially useful bishop.
+40,f5,f7f5,2k2b1r/ppp3pp/8/4pp2/8/Pn1PK1P1/1Pr4P/1RB4R w - - 0 21,"I considered 20. Rb1,Bc5  but realized it served little purpose. Notice the King is no longer able to return to rank 2 because of my rook. f5 is intended to ensure he cannot even try to approach my lines, essentially trapping the poor fella for a possible mating position. I felt I had time on my side to pull this off."
+41,Rf1,h1f1,2k2b1r/ppp3pp/8/4pp2/8/Pn1PK1P1/1Pr4P/1RB2R2 b - - 1 21,"I had considered Rxh2 should he vacate the h1 spot, but Rf1 just made his piece seriously dangerous."
+42,Bc5+,f8c5,2k4r/ppp3pp/8/2b1pp2/8/Pn1PK1P1/1Pr4P/1RB2R2 w - - 2 22,"This is my (first time ever for me!!!) expected combo: 22. Kf3 (forced - I should have activated a conditional move instead of making the guy wait on a response to a forced move),Rf8 23. ...,e4  24. dxe4, fxe4  costing him a rook and granting me enough forces to finally take that bishop without answer."
+43,Kf3,e3f3,2k4r/ppp3pp/8/2b1pp2/8/Pn1P1KP1/1Pr4P/1RB2R2 b - - 3 22,"My expected sequence would be of somewhat greater value for my opponent, pawn for rook (not that it matters). Instead, by this move, he's simply offering the rook for free."
+44,Rf8,h8f8,2k2r2/ppp3pp/8/2b1pp2/8/Pn1P1KP1/1Pr4P/1RB2R2 w - - 4 23,"My expected sequence would be of somewhat greater value for my opponent, pawn for rook (not that it matters). Instead, by this move, he's simply offering the rook for free."
+45,g4,g3g4,2k2r2/ppp3pp/8/2b1pp2/6P1/Pn1P1K2/1Pr4P/1RB2R2 b - - 0 23,"My expected sequence would be of somewhat greater value for my opponent, pawn for rook (not that it matters). Instead, by this move, he's simply offering the rook for free."
+46,fxg4+,f5g4,2k2r2/ppp3pp/8/2b1p3/6p1/Pn1P1K2/1Pr4P/1RB2R2 w - - 0 24,"It is pretty much over for him at this point. 24. Kxg4,Rxf1 25. ...,Rxc1 forces a rook exchange. Any attempt to move his bishop simply loses him the b-rook with little in the way of compensation (no threat to King nor any other major piece)."
+47,Kxg4,f3g4,2k2r2/ppp3pp/8/2b1p3/6K1/Pn1P4/1Pr4P/1RB2R2 b - - 0 24,
+48,Rxf1,f8f1,2k5/ppp3pp/8/2b1p3/6K1/Pn1P4/1Pr4P/1RB2r2 w - - 0 25,
+49,Kh3,g4h3,2k5/ppp3pp/8/2b1p3/8/Pn1P3K/1Pr4P/1RB2r2 b - - 1 25,
+50,Rfxc1,f1c1,2k5/ppp3pp/8/2b1p3/8/Pn1P3K/1Pr4P/1Rr5 w - - 0 26,
+51,Rxc1,b1c1,2k5/ppp3pp/8/2b1p3/8/Pn1P3K/1Pr4P/2R5 b - - 0 26,
+52,Nxc1,b3c1,2k5/ppp3pp/8/2b1p3/8/P2P3K/1Pr4P/2n5 w - - 0 27,
+53,b4,b2b4,2k5/ppp3pp/8/2b1p3/1P6/P2P3K/2r4P/2n5 b - - 0 27,
+54,Bg1,c5g1,2k5/ppp3pp/8/4p3/1P6/P2P3K/2r4P/2n3b1 w - - 1 28,
+55,Kg4,h3g4,2k5/ppp3pp/8/4p3/1P4K1/P2P4/2r4P/2n3b1 b - - 2 28,
+56,Rxh2,c2h2,2k5/ppp3pp/8/4p3/1P4K1/P2P4/7r/2n3b1 w - - 0 29,
+57,Kf5,g4f5,2k5/ppp3pp/8/4pK2/1P6/P2P4/7r/2n3b1 b - - 1 29,
+58,Bd4,g1d4,2k5/ppp3pp/8/4pK2/1P1b4/P2P4/7r/2n5 w - - 2 30,
+59,Ke6,f5e6,2k5/ppp3pp/4K3/4p3/1P1b4/P2P4/7r/2n5 b - - 3 30,
+60,Nxd3,c1d3,2k5/ppp3pp/4K3/4p3/1P1b4/P2n4/7r/8 w - - 0 31,

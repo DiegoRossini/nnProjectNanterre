@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,in order to mowe f4 after castle
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,in order to mowe f4 after castle
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,in order to mowe f4 after castle
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,in order to mowe f4 after castle
+5,Ne2,g1e2,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPPNPPP/RNBQK2R b KQkq - 3 3,in order to mowe f4 after castle
+6,Bxf2+,c5f2,rnbqk1nr/pppp1ppp/8/4p3/2B1P3/8/PPPPNbPP/RNBQK2R w KQkq - 0 4,"surprise ! 
+i didnt expect this risky sacrifice, i'll try to move the king in g1 after eat this agresive bishop"
+7,Kxf2,e1f2,rnbqk1nr/pppp1ppp/8/4p3/2B1P3/8/PPPPNKPP/RNBQ3R b kq - 0 4,preparing Kg1
+8,Nf6,g8f6,rnbqk2r/pppp1ppp/5n2/4p3/2B1P3/8/PPPPNKPP/RNBQ3R w kq - 1 5,preparing Kg1
+9,Rf1,h1f1,rnbqk2r/pppp1ppp/5n2/4p3/2B1P3/8/PPPPNKPP/RNBQ1R2 b kq - 2 5,preparing Kg1
+10,Nxe4+,f6e4,rnbqk2r/pppp1ppp/8/4p3/2B1n3/8/PPPPNKPP/RNBQ1R2 w kq - 0 6,"no matter loosing this pawn, castle was more important, now i can develop"
+11,Kg1,f2g1,rnbqk2r/pppp1ppp/8/4p3/2B1n3/8/PPPPN1PP/RNBQ1RK1 b kq - 1 6,"no matter loosing this pawn, castle was more important, now i can develop"
+12,O-O,e8g8,rnbq1rk1/pppp1ppp/8/4p3/2B1n3/8/PPPPN1PP/RNBQ1RK1 w - - 2 7,i have to keep this treat on f7
+13,d3,d2d3,rnbq1rk1/pppp1ppp/8/4p3/2B1n3/3P4/PPP1N1PP/RNBQ1RK1 b - - 0 7,i have to keep this treat on f7
+14,d5,d7d5,rnbq1rk1/ppp2ppp/8/3pp3/2B1n3/3P4/PPP1N1PP/RNBQ1RK1 w - - 0 8,i have to keep this treat on f7
+15,Bb3,c4b3,rnbq1rk1/ppp2ppp/8/3pp3/4n3/1B1P4/PPP1N1PP/RNBQ1RK1 b - - 1 8,i have to keep this treat on f7
+16,Nc5,e4c5,rnbq1rk1/ppp2ppp/8/2npp3/8/1B1P4/PPP1N1PP/RNBQ1RK1 w - - 2 9,"anoiding knight, i'll try to go on treatening f7 whith the queen after Kc5 x Bb3"
+17,c3,c2c3,rnbq1rk1/ppp2ppp/8/2npp3/8/1BPP4/PP2N1PP/RNBQ1RK1 b - - 0 9,"surprise, it' becoming hard for white
+but it give me a oportunity to keep my white bishop whith Bc3 c2"
+18,Bg4,c8g4,rn1q1rk1/ppp2ppp/8/2npp3/6b1/1BPP4/PP2N1PP/RNBQ1RK1 w - - 1 10,"surprise, it' becoming hard for white
+but it give me a oportunity to keep my white bishop whith Bc3 c2"
+19,Bc2,b3c2,rn1q1rk1/ppp2ppp/8/2npp3/6b1/2PP4/PPB1N1PP/RNBQ1RK1 b - - 2 10,"i dont take the d4 paw because i prefer he do it 
+... - d4 x c3
+b2 x c3 - ...
+Bc3 !"
+20,d4,d5d4,rn1q1rk1/ppp2ppp/8/2n1p3/3p2b1/2PP4/PPB1N1PP/RNBQ1RK1 w - - 0 11,"i dont take the d4 paw because i prefer he do it 
+... - d4 x c3
+b2 x c3 - ...
+Bc3 !"
+21,Nd2,b1d2,rn1q1rk1/ppp2ppp/8/2n1p3/3p2b1/2PP4/PPBNN1PP/R1BQ1RK1 b - - 1 11,"i dont take the d4 paw because i prefer he do it 
+... - d4 x c3
+b2 x c3 - ...
+Bc3 !"
+22,dxc3,d4c3,rn1q1rk1/ppp2ppp/8/2n1p3/6b1/2pP4/PPBNN1PP/R1BQ1RK1 w - - 0 12,"i have to eat it, to dangerous"
+23,bxc3,b2c3,rn1q1rk1/ppp2ppp/8/2n1p3/6b1/2PP4/P1BNN1PP/R1BQ1RK1 b - - 0 12,"i have to eat it, to dangerous"
+24,Nxd3,c5d3,rn1q1rk1/ppp2ppp/8/4p3/6b1/2Pn4/P1BNN1PP/R1BQ1RK1 w - - 0 13,"i have to eat it, to dangerous"
+25,Bxd3,c2d3,rn1q1rk1/ppp2ppp/8/4p3/6b1/2PB4/P2NN1PP/R1BQ1RK1 b - - 0 13,"that was sure ! but i found a response whith Bf3, if he take it then i take it back whith the rook a treat the black queen"
+26,Qxd3,d8d3,rn3rk1/ppp2ppp/8/4p3/6b1/2Pq4/P2NN1PP/R1BQ1RK1 w - - 0 14,"that was sure ! but i found a response whith Bf3, if he take it then i take it back whith the rook a treat the black queen"
+27,Nf3,d2f3,rn3rk1/ppp2ppp/8/4p3/6b1/2Pq1N2/P3N1PP/R1BQ1RK1 b - - 1 14,this is not very interesting move ...
+28,Qg6,d3g6,rn3rk1/ppp2ppp/6q1/4p3/6b1/2P2N2/P3N1PP/R1BQ1RK1 w - - 2 15,this is not very interesting move ...
+29,Nxe5,f3e5,rn3rk1/ppp2ppp/6q1/4N3/6b1/2P5/P3N1PP/R1BQ1RK1 b - - 0 15,this is not very interesting move ...
+30,Qb6+,g6b6,rn3rk1/ppp2ppp/1q6/4N3/6b1/2P5/P3N1PP/R1BQ1RK1 w - - 1 16,this is not very interesting move ...
+31,Kh1,g1h1,rn3rk1/ppp2ppp/1q6/4N3/6b1/2P5/P3N1PP/R1BQ1R1K b - - 2 16,so what now ?
+32,Bxe2,g4e2,rn3rk1/ppp2ppp/1q6/4N3/8/2P5/P3b1PP/R1BQ1R1K w - - 0 17,"this exchange was not very interesting also for black, it shows that they have no more plans
+so a good oportunity to regain the initiative"
+33,Qxe2,d1e2,rn3rk1/ppp2ppp/1q6/4N3/8/2P5/P3Q1PP/R1B2R1K b - - 0 17,"this exchange was not very interesting also for black, it shows that they have no more plans
+so a good oportunity to regain the initiative"
+34,Re8,f8e8,rn2r1k1/ppp2ppp/1q6/4N3/8/2P5/P3Q1PP/R1B2R1K w - - 1 18,"it seems to be a good move for blacks ...
+but did they saw Qc4 ! treatening mate in f7 ?"
+35,Qc4,e2c4,rn2r1k1/ppp2ppp/1q6/4N3/2Q5/2P5/P5PP/R1B2R1K b - - 2 18,now they are in trouble
+36,Re6,e8e6,rn4k1/ppp2ppp/1q2r3/4N3/2Q5/2P5/P5PP/R1B2R1K w - - 3 19,"it whould be preferable to move the rook back to f8
+but most of the time, people dont like to move back, a bad question of ego"
+37,Nxf7,e5f7,rn4k1/ppp2Npp/1q2r3/8/2Q5/2P5/P5PP/R1B2R1K b - - 0 19,preparing Rf1 f8 maybe after ...
+38,Nd7,b8d7,r5k1/pppn1Npp/1q2r3/8/2Q5/2P5/P5PP/R1B2R1K w - - 1 20,preparing Rf1 f8 maybe after ...
+39,Ba3,c1a3,r5k1/pppn1Npp/1q2r3/8/2Q5/B1P5/P5PP/R4R1K b - - 2 20,preparing Rf1 f8 maybe after ...
+40,Rae8,a8e8,4r1k1/pppn1Npp/1q2r3/8/2Q5/B1P5/P5PP/R4R1K w - - 3 21,NO ! the danger for blacks is Kf7 g5 !
+41,Ng5,f7g5,4r1k1/pppn2pp/1q2r3/6N1/2Q5/B1P5/P5PP/R4R1K b - - 4 21,"good, but not enought : 
+23. Qd5 - surely c6 ignoring the treate of the f1 rook whith the a3 bishop ..."
+42,Ne5,d7e5,4r1k1/ppp3pp/1q2r3/4n1N1/2Q5/B1P5/P5PP/R4R1K w - - 5 22,"good, but not enought : 
+23. Qd5 - surely c6 ignoring the treate of the f1 rook whith the a3 bishop ..."
+43,Qd5,c4d5,4r1k1/ppp3pp/1q2r3/3Qn1N1/8/B1P5/P5PP/R4R1K b - - 6 22,"that was sure, this is the danger in blitz games"
+44,c6,c7c6,4r1k1/pp4pp/1qp1r3/3Qn1N1/8/B1P5/P5PP/R4R1K w - - 0 23,"that was sure, this is the danger in blitz games"

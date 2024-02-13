@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Russ, a relative beginner, asked me to play him and annotate the game for him, to help him see where he went wrong. I am happy to help him."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,So this is the Reti opening
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,This transposes bak into mainline queen's pawn opening.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,I opt for symmetry
+5,g3,g2g3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,And this is leading it back more towards the Reti it started out. c2-c4 would lead to the Queen's Gambit.
+6,c6,c7c6,rnbqkb1r/pp2pppp/2p2n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,His bishop is heading for g2 and this blocks its action
+7,Bg2,f1g2,rnbqkb1r/pp2pppp/2p2n2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,so he completes the manoeuvre
+8,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/3p1b2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,"I decide to develop, possibly following up with e7-e6 and my Bc8 is developed outside my pawn chain."
+9,h3,h2h3,rn1qkb1r/pp2pppp/2p2n2/3p1b2/3P4/5NPP/PPP1PPB1/RNBQK2R b KQkq - 0 5,"Post match computer analysis (PMCA) doesn't give this as an error, but I would. Why not simply 0-0 immediately?"
+10,Qc8,d8c8,rnq1kb1r/pp2pppp/2p2n2/3p1b2/3P4/5NPP/PPP1PPB1/RNBQK2R w KQkq - 1 6,"So I play this to stop 0-0. I play the queen to c8 rather than d7, so it cannot be attacked by Nf3-e5"
+11,O-O,e1g1,rnq1kb1r/pp2pppp/2p2n2/3p1b2/3P4/5NPP/PPP1PPB1/RNBQ1RK1 b kq - 2 6,but he plays it anyway. It just gives up a pawn.
+12,Bxh3,f5h3,rnq1kb1r/pp2pppp/2p2n2/3p4/3P4/5NPb/PPP1PPB1/RNBQ1RK1 w kq - 0 7,So I take
+13,Ng5,f3g5,rnq1kb1r/pp2pppp/2p2n2/3p2N1/3P4/6Pb/PPP1PPB1/RNBQ1RK1 b kq - 1 7,He attacks my bishop
+14,Bxg2,h3g2,rnq1kb1r/pp2pppp/2p2n2/3p2N1/3P4/6P1/PPP1PPb1/RNBQ1RK1 w kq - 0 8,So I take
+15,Kxg2,g1g2,rnq1kb1r/pp2pppp/2p2n2/3p2N1/3P4/6P1/PPP1PPK1/RNBQ1R2 b kq - 0 8,He takes back
+16,Qf5,c8f5,rn2kb1r/pp2pppp/2p2n2/3p1qN1/3P4/6P1/PPP1PPK1/RNBQ1R2 w kq - 1 9,I attack the knight. Now it is my queen I want to develop outside the pawn chain.
+17,f4,f2f4,rn2kb1r/pp2pppp/2p2n2/3p1qN1/3P1P2/6P1/PPP1P1K1/RNBQ1R2 b kq - 0 9,He protects the knight
+18,e6,e7e6,rn2kb1r/pp3ppp/2p1pn2/3p1qN1/3P1P2/6P1/PPP1P1K1/RNBQ1R2 w kq - 0 10,I open up a diagonal for my bishop.
+19,b3,b2b3,rn2kb1r/pp3ppp/2p1pn2/3p1qN1/3P1P2/1P4P1/P1P1P1K1/RNBQ1R2 b kq - 0 10,"He prepares to develop his. PMCA says Qd1-d3 is best, to challenge my powerful queen. It then gives Nbd7 11. Nc3 h6 12. Qxf5 exf5 13. Rh1 Bb4 14. Bd2 O-O 15. Nf3 Rfe8 16. Ne5 Nxe5 17. dxe5 as best for both sides. I'm not sure why it gives this, rather than either side exchanging queens and weakening the opponent's pawn formation."
+20,Nbd7,b8d7,r3kb1r/pp1n1ppp/2p1pn2/3p1qN1/3P1P2/1P4P1/P1P1P1K1/RNBQ1R2 w kq - 1 11,I get my other knight into play

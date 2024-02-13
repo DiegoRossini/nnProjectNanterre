@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Four Knights Def
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The Four Knights Def
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,The Four Knights Def
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,The Four Knights Def
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3,The Four Knights Def
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 4 4,The Four Knights Def
+7,Bg5,c1g5,r1bqkb1r/ppp1pppp/2n2n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 5 4,A poor move
+8,e6,e7e6,r1bqkb1r/ppp2ppp/2n1pn2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5,A poor move
+9,Ne5,f3e5,r1bqkb1r/ppp2ppp/2n1pn2/3pN1B1/3P4/2N5/PPP1PPPP/R2QKB1R b KQkq - 1 5,I set a trap
+10,Nxe5,c6e5,r1bqkb1r/ppp2ppp/4pn2/3pn1B1/3P4/2N5/PPP1PPPP/R2QKB1R w KQkq - 0 6,He takes
+11,dxe5,d4e5,r1bqkb1r/ppp2ppp/4pn2/3pP1B1/8/2N5/PPP1PPPP/R2QKB1R b KQkq - 0 6,The trap is seen
+12,h6,h7h6,r1bqkb1r/ppp2pp1/4pn1p/3pP1B1/8/2N5/PPP1PPPP/R2QKB1R w KQkq - 0 7,I didn't see that
+13,exf6,e5f6,r1bqkb1r/ppp2pp1/4pP1p/3p2B1/8/2N5/PPP1PPPP/R2QKB1R b KQkq - 0 7,I set another trap
+14,hxg5,h6g5,r1bqkb1r/ppp2pp1/4pP2/3p2p1/8/2N5/PPP1PPPP/R2QKB1R w KQkq - 0 8,I set another trap
+15,fxg7,f6g7,r1bqkb1r/ppp2pP1/4p3/3p2p1/8/2N5/PPP1PPPP/R2QKB1R b KQkq - 0 8,I set another trap
+16,Bxg7,f8g7,r1bqk2r/ppp2pb1/4p3/3p2p1/8/2N5/PPP1PPPP/R2QKB1R w KQkq - 0 9,I set another trap
+17,e4,e2e4,r1bqk2r/ppp2pb1/4p3/3p2p1/4P3/2N5/PPP2PPP/R2QKB1R b KQkq - 0 9,I set another trap
+18,d4,d5d4,r1bqk2r/ppp2pb1/4p3/6p1/3pP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 10,I set another trap
+19,Nb5,c3b5,r1bqk2r/ppp2pb1/4p3/1N4p1/3pP3/8/PPP2PPP/R2QKB1R b KQkq - 1 10,I set another trap
+20,e5,e6e5,r1bqk2r/ppp2pb1/8/1N2p1p1/3pP3/8/PPP2PPP/R2QKB1R w KQkq - 0 11,I set another trap
+21,Bc4,f1c4,r1bqk2r/ppp2pb1/8/1N2p1p1/2BpP3/8/PPP2PPP/R2QK2R b KQkq - 1 11,I set another trap
+22,c6,c7c6,r1bqk2r/pp3pb1/2p5/1N2p1p1/2BpP3/8/PPP2PPP/R2QK2R w KQkq - 0 12,I set another trap
+23,Qf3,d1f3,r1bqk2r/pp3pb1/2p5/1N2p1p1/2BpP3/5Q2/PPP2PPP/R3K2R b KQkq - 1 12,I set another trap
+24,a6,a7a6,r1bqk2r/1p3pb1/p1p5/1N2p1p1/2BpP3/5Q2/PPP2PPP/R3K2R w KQkq - 0 13,It isn't seen
+25,Qxf7#,f3f7,r1bqk2r/1p3Qb1/p1p5/1N2p1p1/2BpP3/8/PPP2PPP/R3K2R b KQkq - 0 13,A 13 move Scholar's mate

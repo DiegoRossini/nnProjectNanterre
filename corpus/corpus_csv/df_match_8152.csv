@@ -1,0 +1,130 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Preventing Nc2
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Preventing Nc2
+3,c4,c2c4,rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Preventing Nc2
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Preventing Nc2
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3,Preventing Nc2
+6,e5,e7e5,rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,Preventing Nc2
+7,dxe5,d4e5,rnbqkb1r/ppp2ppp/3p1n2/4P3/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,Preventing Nc2
+8,dxe5,d6e5,rnbqkb1r/ppp2ppp/5n2/4p3/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,Preventing Nc2
+9,Qxd8+,d1d8,rnbQkb1r/ppp2ppp/5n2/4p3/2P5/2N5/PP2PPPP/R1B1KBNR b KQkq - 0 5,Preventing Nc2
+10,Kxd8,e8d8,rnbk1b1r/ppp2ppp/5n2/4p3/2P5/2N5/PP2PPPP/R1B1KBNR w KQ - 0 6,Preventing Nc2
+11,g3,g2g3,rnbk1b1r/ppp2ppp/5n2/4p3/2P5/2N3P1/PP2PP1P/R1B1KBNR b KQ - 0 6,Preventing Nc2
+12,Nc6,b8c6,r1bk1b1r/ppp2ppp/2n2n2/4p3/2P5/2N3P1/PP2PP1P/R1B1KBNR w KQ - 1 7,Preventing Nc2
+13,Bg2,f1g2,r1bk1b1r/ppp2ppp/2n2n2/4p3/2P5/2N3P1/PP2PPBP/R1B1K1NR b KQ - 2 7,Preventing Nc2
+14,Bb4,f8b4,r1bk3r/ppp2ppp/2n2n2/4p3/1bP5/2N3P1/PP2PPBP/R1B1K1NR w KQ - 3 8,Preventing Nc2
+15,Bd2,c1d2,r1bk3r/ppp2ppp/2n2n2/4p3/1bP5/2N3P1/PP1BPPBP/R3K1NR b KQ - 4 8,Preventing Nc2
+16,Nd4,c6d4,r1bk3r/ppp2ppp/5n2/4p3/1bPn4/2N3P1/PP1BPPBP/R3K1NR w KQ - 5 9,Preventing Nc2
+17,Rc1,a1c1,r1bk3r/ppp2ppp/5n2/4p3/1bPn4/2N3P1/PP1BPPBP/2R1K1NR b K - 6 9,Preventing Nc2
+18,Bg4,c8g4,r2k3r/ppp2ppp/5n2/4p3/1bPn2b1/2N3P1/PP1BPPBP/2R1K1NR w K - 7 10,I don't know why I did that.
+19,Nf3,g1f3,r2k3r/ppp2ppp/5n2/4p3/1bPn2b1/2N2NP1/PP1BPPBP/2R1K2R b K - 8 10,I don't know why I did that.
+20,Nxf3+,d4f3,r2k3r/ppp2ppp/5n2/4p3/1bP3b1/2N2nP1/PP1BPPBP/2R1K2R w K - 0 11,I don't know why I did that.
+21,exf3,e2f3,r2k3r/ppp2ppp/5n2/4p3/1bP3b1/2N2PP1/PP1B1PBP/2R1K2R b K - 0 11,I don't know why I did that.
+22,Bf5,g4f5,r2k3r/ppp2ppp/5n2/4pb2/1bP5/2N2PP1/PP1B1PBP/2R1K2R w K - 1 12,I don't know why I did that.
+23,O-O,e1g1,r2k3r/ppp2ppp/5n2/4pb2/1bP5/2N2PP1/PP1B1PBP/2R2RK1 b - - 2 12,I don't know why I did that.
+24,Bxc3,b4c3,r2k3r/ppp2ppp/5n2/4pb2/2P5/2b2PP1/PP1B1PBP/2R2RK1 w - - 0 13,I don't know why I did that.
+25,Bxc3,d2c3,r2k3r/ppp2ppp/5n2/4pb2/2P5/2B2PP1/PP3PBP/2R2RK1 b - - 0 13,I don't know why I did that.
+26,Re8,h8e8,r2kr3/ppp2ppp/5n2/4pb2/2P5/2B2PP1/PP3PBP/2R2RK1 w - - 1 14,I don't know why I did that.
+27,Rcd1+,c1d1,r2kr3/ppp2ppp/5n2/4pb2/2P5/2B2PP1/PP3PBP/3R1RK1 b - - 2 14,I don't know why I did that.
+28,Kc8,d8c8,r1k1r3/ppp2ppp/5n2/4pb2/2P5/2B2PP1/PP3PBP/3R1RK1 w - - 3 15,I don't know why I did that.
+29,Rfe1,f1e1,r1k1r3/ppp2ppp/5n2/4pb2/2P5/2B2PP1/PP3PBP/3RR1K1 b - - 4 15,I don't know why I did that.
+30,e4,e5e4,r1k1r3/ppp2ppp/5n2/5b2/2P1p3/2B2PP1/PP3PBP/3RR1K1 w - - 0 16,I don't know why I did that.
+31,Bxf6,c3f6,r1k1r3/ppp2ppp/5B2/5b2/2P1p3/5PP1/PP3PBP/3RR1K1 b - - 0 16,Losing a pawn
+32,gxf6,g7f6,r1k1r3/ppp2p1p/5p2/5b2/2P1p3/5PP1/PP3PBP/3RR1K1 w - - 0 17,Losing a pawn
+33,fxe4,f3e4,r1k1r3/ppp2p1p/5p2/5b2/2P1P3/6P1/PP3PBP/3RR1K1 b - - 0 17,Losing a pawn
+34,Bg4,f5g4,r1k1r3/ppp2p1p/5p2/8/2P1P1b1/6P1/PP3PBP/3RR1K1 w - - 1 18,I have no idea why I did this move either. I just lost my Bishop.
+35,Rd3,d1d3,r1k1r3/ppp2p1p/5p2/8/2P1P1b1/3R2P1/PP3PBP/4R1K1 b - - 2 18,I have no idea why I did this move either. I just lost my Bishop.
+36,f5,f6f5,r1k1r3/ppp2p1p/8/5p2/2P1P1b1/3R2P1/PP3PBP/4R1K1 w - - 0 19,I have no idea why I did this move either. I just lost my Bishop.
+37,e5,e4e5,r1k1r3/ppp2p1p/8/4Pp2/2P3b1/3R2P1/PP3PBP/4R1K1 b - - 0 19,I have no idea why I did this move either. I just lost my Bishop.
+38,c6,c7c6,r1k1r3/pp3p1p/2p5/4Pp2/2P3b1/3R2P1/PP3PBP/4R1K1 w - - 0 20,I have no idea why I did this move either. I just lost my Bishop.
+39,f4,f2f4,r1k1r3/pp3p1p/2p5/4Pp2/2P2Pb1/3R2P1/PP4BP/4R1K1 b - - 0 20,I have no idea why I did this move either. I just lost my Bishop.
+40,Kc7,c8c7,r3r3/ppk2p1p/2p5/4Pp2/2P2Pb1/3R2P1/PP4BP/4R1K1 w - - 1 21,I have no idea why I did this move either. I just lost my Bishop.
+41,h3,h2h3,r3r3/ppk2p1p/2p5/4Pp2/2P2Pb1/3R2PP/PP4B1/4R1K1 b - - 0 21,I have no idea why I did this move either. I just lost my Bishop.
+42,Bh5,g4h5,r3r3/ppk2p1p/2p5/4Pp1b/2P2P2/3R2PP/PP4B1/4R1K1 w - - 1 22,I have no idea why I did this move either. I just lost my Bishop.
+43,Kf2,g1f2,r3r3/ppk2p1p/2p5/4Pp1b/2P2P2/3R2PP/PP3KB1/4R3 b - - 2 22,I have no idea why I did this move either. I just lost my Bishop.
+44,Rad8,a8d8,3rr3/ppk2p1p/2p5/4Pp1b/2P2P2/3R2PP/PP3KB1/4R3 w - - 3 23,I have no idea why I did this move either. I just lost my Bishop.
+45,Rxd8,d3d8,3Rr3/ppk2p1p/2p5/4Pp1b/2P2P2/6PP/PP3KB1/4R3 b - - 0 23,I have no idea why I did this move either. I just lost my Bishop.
+46,Kxd8,c7d8,3kr3/pp3p1p/2p5/4Pp1b/2P2P2/6PP/PP3KB1/4R3 w - - 0 24,I have no idea why I did this move either. I just lost my Bishop.
+47,Bf3,g2f3,3kr3/pp3p1p/2p5/4Pp1b/2P2P2/5BPP/PP3K2/4R3 b - - 1 24,I have no idea why I did this move either. I just lost my Bishop.
+48,Bg6,h5g6,3kr3/pp3p1p/2p3b1/4Pp2/2P2P2/5BPP/PP3K2/4R3 w - - 2 25,I have no idea why I did this move either. I just lost my Bishop.
+49,b4,b2b4,3kr3/pp3p1p/2p3b1/4Pp2/1PP2P2/5BPP/P4K2/4R3 b - - 0 25,I have no idea why I did this move either. I just lost my Bishop.
+50,Kc7,d8c7,4r3/ppk2p1p/2p3b1/4Pp2/1PP2P2/5BPP/P4K2/4R3 w - - 1 26,I have no idea why I did this move either. I just lost my Bishop.
+51,Rc1,e1c1,4r3/ppk2p1p/2p3b1/4Pp2/1PP2P2/5BPP/P4K2/2R5 b - - 2 26,I have no idea why I did this move either. I just lost my Bishop.
+52,Rd8,e8d8,3r4/ppk2p1p/2p3b1/4Pp2/1PP2P2/5BPP/P4K2/2R5 w - - 3 27,I have no idea why I did this move either. I just lost my Bishop.
+53,Ke3,f2e3,3r4/ppk2p1p/2p3b1/4Pp2/1PP2P2/4KBPP/P7/2R5 b - - 4 27,I have no idea why I did this move either. I just lost my Bishop.
+54,a6,a7a6,3r4/1pk2p1p/p1p3b1/4Pp2/1PP2P2/4KBPP/P7/2R5 w - - 0 28,I have no idea why I did this move either. I just lost my Bishop.
+55,b5,b4b5,3r4/1pk2p1p/p1p3b1/1P2Pp2/2P2P2/4KBPP/P7/2R5 b - - 0 28,I have no idea why I did this move either. I just lost my Bishop.
+56,c5,c6c5,3r4/1pk2p1p/p5b1/1Pp1Pp2/2P2P2/4KBPP/P7/2R5 w - - 0 29,I have no idea why I did this move either. I just lost my Bishop.
+57,a4,a2a4,3r4/1pk2p1p/p5b1/1Pp1Pp2/P1P2P2/4KBPP/8/2R5 b - - 0 29,I have no idea why I did this move either. I just lost my Bishop.
+58,Ra8,d8a8,r7/1pk2p1p/p5b1/1Pp1Pp2/P1P2P2/4KBPP/8/2R5 w - - 1 30,I have no idea why I did this move either. I just lost my Bishop.
+59,g4,g3g4,r7/1pk2p1p/p5b1/1Pp1Pp2/P1P2PP1/4KB1P/8/2R5 b - - 0 30,I have no idea why I did this move either. I just lost my Bishop.
+60,fxg4,f5g4,r7/1pk2p1p/p5b1/1Pp1P3/P1P2Pp1/4KB1P/8/2R5 w - - 0 31,I have no idea why I did this move either. I just lost my Bishop.
+61,hxg4,h3g4,r7/1pk2p1p/p5b1/1Pp1P3/P1P2PP1/4KB2/8/2R5 b - - 0 31,I have no idea why I did this move either. I just lost my Bishop.
+62,axb5,a6b5,r7/1pk2p1p/6b1/1pp1P3/P1P2PP1/4KB2/8/2R5 w - - 0 32,I have no idea why I did this move either. I just lost my Bishop.
+63,axb5,a4b5,r7/1pk2p1p/6b1/1Pp1P3/2P2PP1/4KB2/8/2R5 b - - 0 32,I have no idea why I did this move either. I just lost my Bishop.
+64,Ra3+,a8a3,8/1pk2p1p/6b1/1Pp1P3/2P2PP1/r3KB2/8/2R5 w - - 1 33,I have no idea why I did this move either. I just lost my Bishop.
+65,Kf2,e3f2,8/1pk2p1p/6b1/1Pp1P3/2P2PP1/r4B2/5K2/2R5 b - - 2 33,I have no idea why I did this move either. I just lost my Bishop.
+66,Bd3,g6d3,8/1pk2p1p/8/1Pp1P3/2P2PP1/r2b1B2/5K2/2R5 w - - 3 34,I have no idea why I did this move either. I just lost my Bishop.
+67,Bd5,f3d5,8/1pk2p1p/8/1PpBP3/2P2PP1/r2b4/5K2/2R5 b - - 4 34,I have no idea why I did this move either. I just lost my Bishop.
+68,Ra2+,a3a2,8/1pk2p1p/8/1PpBP3/2P2PP1/3b4/r4K2/2R5 w - - 5 35,I have no idea why I did this move either. I just lost my Bishop.
+69,Ke3,f2e3,8/1pk2p1p/8/1PpBP3/2P2PP1/3bK3/r7/2R5 b - - 6 35,I have no idea why I did this move either. I just lost my Bishop.
+70,Ra3,a2a3,8/1pk2p1p/8/1PpBP3/2P2PP1/r2bK3/8/2R5 w - - 7 36,I have no idea why I did this move either. I just lost my Bishop.
+71,Kd2,e3d2,8/1pk2p1p/8/1PpBP3/2P2PP1/r2b4/3K4/2R5 b - - 8 36,I have no idea why I did this move either. I just lost my Bishop.
+72,Bg6,d3g6,8/1pk2p1p/6b1/1PpBP3/2P2PP1/r7/3K4/2R5 w - - 9 37,I have no idea why I did this move either. I just lost my Bishop.
+73,f5,f4f5,8/1pk2p1p/6b1/1PpBPP2/2P3P1/r7/3K4/2R5 b - - 0 37,Bad Bad Mistake
+74,Rg3,a3g3,8/1pk2p1p/6b1/1PpBPP2/2P3P1/6r1/3K4/2R5 w - - 1 38,Bad Bad Mistake
+75,fxg6,f5g6,8/1pk2p1p/6P1/1PpBP3/2P3P1/6r1/3K4/2R5 b - - 0 38,Bad Bad Mistake
+76,fxg6,f7g6,8/1pk4p/6p1/1PpBP3/2P3P1/6r1/3K4/2R5 w - - 0 39,Bad Bad Mistake
+77,Be6,d5e6,8/1pk4p/4B1p1/1Pp1P3/2P3P1/6r1/3K4/2R5 b - - 1 39,Bad Bad Mistake
+78,h5,h7h5,8/1pk5/4B1p1/1Pp1P2p/2P3P1/6r1/3K4/2R5 w - - 0 40,Bad Bad Mistake
+79,gxh5,g4h5,8/1pk5/4B1p1/1Pp1P2P/2P5/6r1/3K4/2R5 b - - 0 40,Bad Bad Mistake
+80,gxh5,g6h5,8/1pk5/4B3/1Pp1P2p/2P5/6r1/3K4/2R5 w - - 0 41,Bad Bad Mistake
+81,Ke2,d2e2,8/1pk5/4B3/1Pp1P2p/2P5/6r1/4K3/2R5 b - - 1 41,Bad Bad Mistake
+82,Rg5,g3g5,8/1pk5/4B3/1Pp1P1rp/2P5/8/4K3/2R5 w - - 2 42,Bad Bad Mistake
+83,Bf7,e6f7,8/1pk2B2/8/1Pp1P1rp/2P5/8/4K3/2R5 b - - 3 42,Bad Bad Mistake
+84,Rxe5+,g5e5,8/1pk2B2/8/1Pp1r2p/2P5/8/4K3/2R5 w - - 0 43,Bad Bad Mistake
+85,Kf3,e2f3,8/1pk2B2/8/1Pp1r2p/2P5/5K2/8/2R5 b - - 1 43,Bad Bad Mistake
+86,Rf5+,e5f5,8/1pk2B2/8/1Pp2r1p/2P5/5K2/8/2R5 w - - 2 44,And We just play it out.
+87,Kg3,f3g3,8/1pk2B2/8/1Pp2r1p/2P5/6K1/8/2R5 b - - 3 44,And We just play it out.
+88,Rxf7,f5f7,8/1pk2r2/8/1Pp4p/2P5/6K1/8/2R5 w - - 0 45,And We just play it out.
+89,Kh4,g3h4,8/1pk2r2/8/1Pp4p/2P4K/8/8/2R5 b - - 1 45,And We just play it out.
+90,Rh7,f7h7,8/1pk4r/8/1Pp4p/2P4K/8/8/2R5 w - - 2 46,And We just play it out.
+91,Rd1,c1d1,8/1pk4r/8/1Pp4p/2P4K/8/8/3R4 b - - 3 46,And We just play it out.
+92,Rd7,h7d7,8/1pkr4/8/1Pp4p/2P4K/8/8/3R4 w - - 4 47,And We just play it out.
+93,Rc1,d1c1,8/1pkr4/8/1Pp4p/2P4K/8/8/2R5 b - - 5 47,And We just play it out.
+94,Rh7,d7h7,8/1pk4r/8/1Pp4p/2P4K/8/8/2R5 w - - 6 48,And We just play it out.
+95,Kg5,h4g5,8/1pk4r/8/1Pp3Kp/2P5/8/8/2R5 b - - 7 48,And We just play it out.
+96,h4,h5h4,8/1pk4r/8/1Pp3K1/2P4p/8/8/2R5 w - - 0 49,And We just play it out.
+97,Kg6,g5g6,8/1pk4r/6K1/1Pp5/2P4p/8/8/2R5 b - - 1 49,And We just play it out.
+98,Rd7,h7d7,8/1pkr4/6K1/1Pp5/2P4p/8/8/2R5 w - - 2 50,And We just play it out.
+99,Kg5,g6g5,8/1pkr4/8/1Pp3K1/2P4p/8/8/2R5 b - - 3 50,And We just play it out.
+100,h3,h4h3,8/1pkr4/8/1Pp3K1/2P5/7p/8/2R5 w - - 0 51,And We just play it out.
+101,Kg4,g5g4,8/1pkr4/8/1Pp5/2P3K1/7p/8/2R5 b - - 1 51,And We just play it out.
+102,h2,h3h2,8/1pkr4/8/1Pp5/2P3K1/8/7p/2R5 w - - 0 52,And We just play it out.
+103,Kg3,g4g3,8/1pkr4/8/1Pp5/2P5/6K1/7p/2R5 b - - 1 52,And We just play it out.
+104,Rh7,d7h7,8/1pk4r/8/1Pp5/2P5/6K1/7p/2R5 w - - 2 53,And We just play it out.
+105,Rh1,c1h1,8/1pk4r/8/1Pp5/2P5/6K1/7p/7R b - - 3 53,And We just play it out.
+106,Kd6,c7d6,8/1p5r/3k4/1Pp5/2P5/6K1/7p/7R w - - 4 54,And We just play it out.
+107,Kg2,g3g2,8/1p5r/3k4/1Pp5/2P5/8/6Kp/7R b - - 5 54,And We just play it out.
+108,Ke5,d6e5,8/1p5r/8/1Pp1k3/2P5/8/6Kp/7R w - - 6 55,And We just play it out.
+109,Rd1,h1d1,8/1p5r/8/1Pp1k3/2P5/8/6Kp/3R4 b - - 7 55,And We just play it out.
+110,h1=Q+,h2h1q,8/1p5r/8/1Pp1k3/2P5/8/6K1/3R3q w - - 0 56,And We just play it out.
+111,Rxh1,d1h1,8/1p5r/8/1Pp1k3/2P5/8/6K1/7R b - - 0 56,And We just play it out.
+112,Rxh1,h7h1,8/1p6/8/1Pp1k3/2P5/8/6K1/7r w - - 0 57,And We just play it out.
+113,Kxh1,g2h1,8/1p6/8/1Pp1k3/2P5/8/8/7K b - - 0 57,And We just play it out.
+114,Kd4,e5d4,8/1p6/8/1Pp5/2Pk4/8/8/7K w - - 1 58,White Resigns
+115,Kg2,h1g2,8/1p6/8/1Pp5/2Pk4/8/6K1/8 b - - 2 58,White Resigns
+116,Kxc4,d4c4,8/1p6/8/1Pp5/2k5/8/6K1/8 w - - 0 59,White Resigns
+117,b6,b5b6,8/1p6/1P6/2p5/2k5/8/6K1/8 b - - 0 59,White Resigns
+118,Kd3,c4d3,8/1p6/1P6/2p5/8/3k4/6K1/8 w - - 1 60,White Resigns
+119,Kf1,g2f1,8/1p6/1P6/2p5/8/3k4/8/5K2 b - - 2 60,White Resigns
+120,Kd2,d3d2,8/1p6/1P6/2p5/8/8/3k4/5K2 w - - 3 61,White Resigns
+121,Kf2,f1f2,8/1p6/1P6/2p5/8/8/3k1K2/8 b - - 4 61,White Resigns
+122,c4,c5c4,8/1p6/1P6/8/2p5/8/3k1K2/8 w - - 0 62,White Resigns
+123,Kf3,f2f3,8/1p6/1P6/8/2p5/5K2/3k4/8 b - - 1 62,White Resigns
+124,c3,c4c3,8/1p6/1P6/8/8/2p2K2/3k4/8 w - - 0 63,White Resigns
+125,Ke4,f3e4,8/1p6/1P6/8/4K3/2p5/3k4/8 b - - 1 63,White Resigns
+126,c2,c3c2,8/1p6/1P6/8/4K3/8/2pk4/8 w - - 0 64,White Resigns
+127,Kd5,e4d5,8/1p6/1P6/3K4/8/8/2pk4/8 b - - 1 64,White Resigns
+128,c1=Q,c2c1q,8/1p6/1P6/3K4/8/8/3k4/2q5 w - - 0 65,White Resigns
+129,Ke5,d5e5,8/1p6/1P6/4K3/8/8/3k4/2q5 b - - 1 65,White Resigns

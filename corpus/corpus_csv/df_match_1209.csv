@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,controls the center
+2,h5,h7h5,rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,controls the flank
+3,d4,d2d4,rnbqkbnr/ppppppp1/8/7p/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"? I don't get it, controlling the center more instead of seeking control elsewhere"
+4,a5,a7a5,rnbqkbnr/1pppppp1/8/p6p/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,! now I control 2 flanks > 1 center !
+5,Nc3,b1c3,rnbqkbnr/1pppppp1/8/p6p/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,i think that my knight is a little superior because it is not blocking a pawn
+6,Na6,b8a6,r1bqkbnr/1pppppp1/n7/p6p/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,i think that my knight is a little superior because it is not blocking a pawn
+7,Bxa6,f1a6,r1bqkbnr/1pppppp1/B7/p6p/3PP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 0 4,?? gives up long range piece for short one
+8,Rxa6,a8a6,2bqkbnr/1pppppp1/r7/p6p/3PP3/2N5/PPP2PPP/R1BQK1NR w KQk - 0 5,attacking pawn
+9,Qd3,d1d3,2bqkbnr/1pppppp1/r7/p6p/3PP3/2NQ4/PPP2PPP/R1B1K1NR b KQk - 1 5,attacking pawn
+10,Rg6,a6g6,2bqkbnr/1pppppp1/6r1/p6p/3PP3/2NQ4/PPP2PPP/R1B1K1NR w KQk - 2 6,attacking pawn
+11,Qf3,d3f3,2bqkbnr/1pppppp1/6r1/p6p/3PP3/2N2Q2/PPP2PPP/R1B1K1NR b KQk - 3 6,defending pawn
+12,Rf6,g6f6,2bqkbnr/1pppppp1/5r2/p6p/3PP3/2N2Q2/PPP2PPP/R1B1K1NR w KQk - 4 7,attacking queen
+13,Qd3,f3d3,2bqkbnr/1pppppp1/5r2/p6p/3PP3/2NQ4/PPP2PPP/R1B1K1NR b KQk - 5 7,retreats
+14,b5,b7b5,2bqkbnr/2ppppp1/5r2/pp5p/3PP3/2NQ4/PPP2PPP/R1B1K1NR w KQk - 0 8,decide to develop
+15,Qxb5,d3b5,2bqkbnr/2ppppp1/5r2/pQ5p/3PP3/2N5/PPP2PPP/R1B1K1NR b KQk - 0 8,he takes the gambit
+16,c5,c7c5,2bqkbnr/3pppp1/5r2/pQp4p/3PP3/2N5/PPP2PPP/R1B1K1NR w KQk - 0 9,another gambit to defend my a-pawn
+17,Qxc5,b5c5,2bqkbnr/3pppp1/5r2/p1Q4p/3PP3/2N5/PPP2PPP/R1B1K1NR b KQk - 0 9,attacking queen again
+18,Rc6,f6c6,2bqkbnr/3pppp1/2r5/p1Q4p/3PP3/2N5/PPP2PPP/R1B1K1NR w KQk - 1 10,attacking queen again
+19,Qe5,c5e5,2bqkbnr/3pppp1/2r5/p3Q2p/3PP3/2N5/PPP2PPP/R1B1K1NR b KQk - 2 10,still down 2 pawns but i attack 1
+20,Rg6,c6g6,2bqkbnr/3pppp1/6r1/p3Q2p/3PP3/2N5/PPP2PPP/R1B1K1NR w KQk - 3 11,still down 2 pawns but i attack 1
+21,g3,g2g3,2bqkbnr/3pppp1/6r1/p3Q2p/3PP3/2N3P1/PPP2P1P/R1B1K1NR b KQk - 0 11,starting an attack on the kingside
+22,h4,h5h4,2bqkbnr/3pppp1/6r1/p3Q3/3PP2p/2N3P1/PPP2P1P/R1B1K1NR w KQk - 0 12,starting an attack on the kingside
+23,Nf3,g1f3,2bqkbnr/3pppp1/6r1/p3Q3/3PP2p/2N2NP1/PPP2P1P/R1B1K2R b KQk - 1 12,only recapture
+24,hxg3,h4g3,2bqkbnr/3pppp1/6r1/p3Q3/3PP3/2N2Np1/PPP2P1P/R1B1K2R w KQk - 0 13,only recapture
+25,fxg3,f2g3,2bqkbnr/3pppp1/6r1/p3Q3/3PP3/2N2NP1/PPP4P/R1B1K2R b KQk - 0 13,only recapture
+26,Ba6,c8a6,3qkbnr/3pppp1/b5r1/p3Q3/3PP3/2N2NP1/PPP4P/R1B1K2R w KQk - 1 14,bishop > knight
+27,Bd2,c1d2,3qkbnr/3pppp1/b5r1/p3Q3/3PP3/2N2NP1/PPPB3P/R3K2R b KQk - 2 14,attacking knight
+28,Rf6,g6f6,3qkbnr/3pppp1/b4r2/p3Q3/3PP3/2N2NP1/PPPB3P/R3K2R w KQk - 3 15,attacking knight
+29,Nd5,c3d5,3qkbnr/3pppp1/b4r2/p2NQ3/3PP3/5NP1/PPPB3P/R3K2R b KQk - 4 15,but didn't realize his other knight gets dangerous

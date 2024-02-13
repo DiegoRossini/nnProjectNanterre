@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen Pawn.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,One of the most popular replies.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Developing.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,Developing.
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Wanting to play c4.
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Develops the bishop.
+7,c4,c2c4,rn1qkb1r/ppp1pppp/5n2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,Protected.
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,Protected.
+9,Nc3,b1c3,rn1qkb1r/ppp2ppp/4pn2/3p1b2/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 1 5,Putting pressure on the d5 pawn.
+10,Bb4,f8b4,rn1qk2r/ppp2ppp/4pn2/3p1b2/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 2 6,"Some think prefer the bishop over knight, thus not liking this move. I see no problem with it."
+11,Bd2,c1d2,rn1qk2r/ppp2ppp/4pn2/3p1b2/1bPP4/2N1PN2/PP1B1PPP/R2QKB1R b KQkq - 3 6,"Some think prefer the bishop over knight, thus not liking this move. I see no problem with it."
+12,Bxc3,b4c3,rn1qk2r/ppp2ppp/4pn2/3p1b2/2PP4/2b1PN2/PP1B1PPP/R2QKB1R w KQkq - 0 7,"Some think prefer the bishop over knight, thus not liking this move. I see no problem with it."
+13,Bxc3,d2c3,rn1qk2r/ppp2ppp/4pn2/3p1b2/2PP4/2B1PN2/PP3PPP/R2QKB1R b KQkq - 0 7,"Awww, man. Another pin??"
+14,Bg4,f5g4,rn1qk2r/ppp2ppp/4pn2/3p4/2PP2b1/2B1PN2/PP3PPP/R2QKB1R w KQkq - 1 8,"Awww, man. Another pin??"
+15,Qb3,d1b3,rn1qk2r/ppp2ppp/4pn2/3p4/2PP2b1/1QB1PN2/PP3PPP/R3KB1R b KQkq - 2 8,"Threatening Qxb7, which I now realize only wins a pawn after Bxf3 9. Qxb7 Nbd7 10. gxf3."
+16,b6,b7b6,rn1qk2r/p1p2ppp/1p2pn2/3p4/2PP2b1/1QB1PN2/PP3PPP/R3KB1R w KQkq - 0 9,Not wanting to double pawns.
+17,Be2,f1e2,rn1qk2r/p1p2ppp/1p2pn2/3p4/2PP2b1/1QB1PN2/PP2BPPP/R3K2R b KQkq - 1 9,Not wanting to double pawns.
+18,Nc6,b8c6,r2qk2r/p1p2ppp/1pn1pn2/3p4/2PP2b1/1QB1PN2/PP2BPPP/R3K2R w KQkq - 2 10,"I think black should be trying to find a way to threaten the knight on f3, not wasting moves like this."
+19,O-O-O,e1c1,r2qk2r/p1p2ppp/1pn1pn2/3p4/2PP2b1/1QB1PN2/PP2BPPP/2KR3R b kq - 3 10,"I think black should be trying to find a way to threaten the knight on f3, not wasting moves like this."
+20,a5,a7a5,r2qk2r/2p2ppp/1pn1pn2/p2p4/2PP2b1/1QB1PN2/PP2BPPP/2KR3R w kq - 0 11,"I think black should be trying to find a way to threaten the knight on f3, not wasting moves like this."
+21,Qb5,b3b5,r2qk2r/2p2ppp/1pn1pn2/pQ1p4/2PP2b1/2B1PN2/PP2BPPP/2KR3R b kq - 1 11,"Not wanting the bishop pinning my knight anymore, I threaten the bishop and force it to swap or retreat."
+22,Qd7,d8d7,r3k2r/2pq1ppp/1pn1pn2/pQ1p4/2PP2b1/2B1PN2/PP2BPPP/2KR3R w kq - 2 12,"Not wanting the bishop pinning my knight anymore, I threaten the bishop and force it to swap or retreat."
+23,h3,h2h3,r3k2r/2pq1ppp/1pn1pn2/pQ1p4/2PP2b1/2B1PN1P/PP2BPP1/2KR3R b kq - 0 12,"Not wanting the bishop pinning my knight anymore, I threaten the bishop and force it to swap or retreat."
+24,Bxf3,g4f3,r3k2r/2pq1ppp/1pn1pn2/pQ1p4/2PP4/2B1Pb1P/PP2BPP1/2KR3R w kq - 0 13,Finally castles.
+25,Bxf3,e2f3,r3k2r/2pq1ppp/1pn1pn2/pQ1p4/2PP4/2B1PB1P/PP3PP1/2KR3R b kq - 0 13,Finally castles.
+26,O-O,e8g8,r4rk1/2pq1ppp/1pn1pn2/pQ1p4/2PP4/2B1PB1P/PP3PP1/2KR3R w - - 1 14,Finally castles.
+27,g4,g2g4,r4rk1/2pq1ppp/1pn1pn2/pQ1p4/2PP2P1/2B1PB1P/PP3P2/2KR3R b - - 0 14,"g5 threatens the knight protecting the pawn on d5, then I can win the pawn."
+28,Nb4,c6b4,r4rk1/2pq1ppp/1p2pn2/pQ1p4/1nPP2P1/2B1PB1P/PP3P2/2KR3R w - - 1 15,Queen swap or free pawn… Or both.
+29,a3,a2a3,r4rk1/2pq1ppp/1p2pn2/pQ1p4/1nPP2P1/P1B1PB1P/1P3P2/2KR3R b - - 0 15,I like this move.
+30,Qxb5,d7b5,r4rk1/2p2ppp/1p2pn2/pq1p4/1nPP2P1/P1B1PB1P/1P3P2/2KR3R w - - 0 16,"Meh. After capturing the bishop I will no longer have doubled pawns on the b-file, because I will win take the knight with my pawn on b2."
+31,cxb5,c4b5,r4rk1/2p2ppp/1p2pn2/pP1p4/1n1P2P1/P1B1PB1P/1P3P2/2KR3R b - - 0 16,"Meh. After capturing the bishop I will no longer have doubled pawns on the b-file, because I will win take the knight with my pawn on b2."
+32,Na2+,b4a2,r4rk1/2p2ppp/1p2pn2/pP1p4/3P2P1/P1B1PB1P/nP3P2/2KR3R w - - 1 17,"Meh. After capturing the bishop I will no longer have doubled pawns on the b-file, because I will win take the knight with my pawn on b2."
+33,Kb1,c1b1,r4rk1/2p2ppp/1p2pn2/pP1p4/3P2P1/P1B1PB1P/nP3P2/1K1R3R b - - 2 17,Liking my position.
+34,Nxc3+,a2c3,r4rk1/2p2ppp/1p2pn2/pP1p4/3P2P1/P1n1PB1P/1P3P2/1K1R3R w - - 0 18,Liking my position.
+35,bxc3,b2c3,r4rk1/2p2ppp/1p2pn2/pP1p4/3P2P1/P1P1PB1P/5P2/1K1R3R b - - 0 18,Liking my position.
+36,Rfc8,f8c8,r1r3k1/2p2ppp/1p2pn2/pP1p4/3P2P1/P1P1PB1P/5P2/1K1R3R w - - 1 19,"Good move, the pinned pawn is under pressure."
+37,c4,c3c4,r1r3k1/2p2ppp/1p2pn2/pP1p4/2PP2P1/P3PB1P/5P2/1K1R3R b - - 0 19,"Good move, the pinned pawn is under pressure."

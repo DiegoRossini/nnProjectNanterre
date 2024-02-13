@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I start with my Queen Pawn.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,A non-committal move that will transpose into a modern queen pawn defense.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Following the book.
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,2...c5 - the Benoni Defense.
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"Refusing to commit to the Modern Benoni (3...e6), Benko Gambit (3...b5), or Czech Benoni (3...e5)."
+6,g6,g7g6,rnbqkb1r/pp1ppp1p/5np1/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"Refusing to commit to the Modern Benoni (3...e6), Benko Gambit (3...b5), or Czech Benoni (3...e5)."
+7,Nc3,b1c3,rnbqkb1r/pp1ppp1p/5np1/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,4...a6!? points at the pawn break b7-b5.
+8,a6,a7a6,rnbqkb1r/1p1ppp1p/p4np1/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,4...a6!? points at the pawn break b7-b5.
+9,e4,e2e4,rnbqkb1r/1p1ppp1p/p4np1/2pP4/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,Grabbing more of the center.
+10,d6,d7d6,rnbqkb1r/1p2pp1p/p2p1np1/2pP4/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6,This Benoni sideline looks like a King's Indian Defense with ...c5.
+11,Bg5,c1g5,rnbqkb1r/1p2pp1p/p2p1np1/2pP2B1/2P1P3/2N5/PP3PPP/R2QKBNR b KQkq - 1 6,Preparing Bh6.
+12,Bg7,f8g7,rnbqk2r/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N5/PP3PPP/R2QKBNR w KQkq - 2 7,Preparing Bh6.
+13,Qd2,d1d2,rnbqk2r/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N5/PP1Q1PPP/R3KBNR b KQkq - 3 7,Preparing Bh6.
+14,h6,h7h6,rnbqk2r/1p2ppb1/p2p1npp/2pP2B1/2P1P3/2N5/PP1Q1PPP/R3KBNR w KQkq - 0 8,I'm not sure what to think of this move. I would give it a ?!
+15,Be3,g5e3,rnbqk2r/1p2ppb1/p2p1npp/2pP4/2P1P3/2N1B3/PP1Q1PPP/R3KBNR b KQkq - 1 8,Still hoping to trade DSB's.
+16,Nbd7,b8d7,r1bqk2r/1p1nppb1/p2p1npp/2pP4/2P1P3/2N1B3/PP1Q1PPP/R3KBNR w KQkq - 2 9,"19.Rb1!? Since I think ...b5 is coming, I want to play b3 without worrying about tactics based on the a1-h8 diagonal and place my rook on a file that might open."
+17,Rb1,a1b1,r1bqk2r/1p1nppb1/p2p1npp/2pP4/2P1P3/2N1B3/PP1Q1PPP/1R2KBNR b Kkq - 3 9,"19.Rb1!? Since I think ...b5 is coming, I want to play b3 without worrying about tactics based on the a1-h8 diagonal and place my rook on a file that might open."
+18,O-O,e8g8,r1bq1rk1/1p1nppb1/p2p1npp/2pP4/2P1P3/2N1B3/PP1Q1PPP/1R2KBNR w K - 4 10,9.O-O? This move overlooks my threat the capture the h6-pawn
+19,Bxh6,e3h6,r1bq1rk1/1p1nppb1/p2p1npB/2pP4/2P1P3/2N5/PP1Q1PPP/1R2KBNR b K - 0 10,Capturing the loose pawn and forcing a swap of DSB's.
+20,Ne5,d7e5,r1bq1rk1/1p2ppb1/p2p1npB/2pPn3/2P1P3/2N5/PP1Q1PPP/1R2KBNR w K - 1 11,This natural-looking move might be a mistake because it allows me to play f4 with tempo.
+21,Bxg7,h6g7,r1bq1rk1/1p2ppB1/p2p1np1/2pPn3/2P1P3/2N5/PP1Q1PPP/1R2KBNR b K - 0 11,I swap DSB's.
+22,Kxg7,g8g7,r1bq1r2/1p2ppk1/p2p1np1/2pPn3/2P1P3/2N5/PP1Q1PPP/1R2KBNR w K - 0 12,This move is a mistake because it allows me to pawn storm with tempo.
+23,f4,f2f4,r1bq1r2/1p2ppk1/p2p1np1/2pPn3/2P1PP2/2N5/PP1Q2PP/1R2KBNR b K - 0 12,This move is a mistake because it allows me to pawn storm with tempo.
+24,Neg4,e5g4,r1bq1r2/1p2ppk1/p2p1np1/2pP4/2P1PPn1/2N5/PP1Q2PP/1R2KBNR w K - 1 13,This move is a mistake because it allows me to pawn storm with tempo.
+25,h3,h2h3,r1bq1r2/1p2ppk1/p2p1np1/2pP4/2P1PPn1/2N4P/PP1Q2P1/1R2KBNR b K - 0 13,"The first tempo, supporting the g2-g4 pawn thrust."
+26,Nh6,g4h6,r1bq1r2/1p2ppk1/p2p1npn/2pP4/2P1PP2/2N4P/PP1Q2P1/1R2KBNR w K - 1 14,Tempo #2: I advance my g-pawn and threaten to fork black's knights.
+27,g4,g2g4,r1bq1r2/1p2ppk1/p2p1npn/2pP4/2P1PPP1/2N4P/PP1Q4/1R2KBNR b K - 0 14,Tempo #2: I advance my g-pawn and threaten to fork black's knights.
+28,Nh7,f6h7,r1bq1r2/1p2ppkn/p2p2pn/2pP4/2P1PPP1/2N4P/PP1Q4/1R2KBNR w K - 1 15,Tempo #3: advancing another pawn with tempo.
+29,g5,g4g5,r1bq1r2/1p2ppkn/p2p2pn/2pP2P1/2P1PP2/2N4P/PP1Q4/1R2KBNR b K - 0 15,Tempo #3: advancing another pawn with tempo.

@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,very popular these days...
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,very popular these days...
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,very popular these days...
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,very popular these days...
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,leads to a wild game.
+6,c5,c7c5,rnbqkbnr/pp2pppp/8/2p5/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,leads to a wild game.
+7,d5,d4d5,rnbqkbnr/pp2pppp/8/2pP4/2p1P3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,leads to a wild game.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2pP4/2p1P3/8/PP3PPP/RNBQKBNR w KQkq - 1 5,leads to a wild game.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/5n2/2pP4/2p1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5,leads to a wild game.
+10,b5,b7b5,rnbqkb1r/p3pppp/5n2/1ppP4/2p1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6,leads to a wild game.
+11,Bf4,c1f4,rnbqkb1r/p3pppp/5n2/1ppP4/2p1PB2/2N5/PP3PPP/R2QKBNR b KQkq - 1 6,leads to a wild game.
+12,Qa5,d8a5,rnb1kb1r/p3pppp/5n2/qppP4/2p1PB2/2N5/PP3PPP/R2QKBNR w KQkq - 2 7,I think that 7. Qd2 was better.
+13,Bd2,f4d2,rnb1kb1r/p3pppp/5n2/qppP4/2p1P3/2N5/PP1B1PPP/R2QKBNR b KQkq - 3 7,I think that 7. Qd2 was better.
+14,b4,b5b4,rnb1kb1r/p3pppp/5n2/q1pP4/1pp1P3/2N5/PP1B1PPP/R2QKBNR w KQkq - 0 8,black will not exchange pieces so easy due to his advantage on the queenside.
+15,e5,e4e5,rnb1kb1r/p3pppp/5n2/q1pPP3/1pp5/2N5/PP1B1PPP/R2QKBNR b KQkq - 0 8,black will not exchange pieces so easy due to his advantage on the queenside.
+16,Nfd7,f6d7,rnb1kb1r/p2npppp/8/q1pPP3/1pp5/2N5/PP1B1PPP/R2QKBNR w KQkq - 1 9,black will not exchange pieces so easy due to his advantage on the queenside.
+17,e6,e5e6,rnb1kb1r/p2npppp/4P3/q1pP4/1pp5/2N5/PP1B1PPP/R2QKBNR b KQkq - 0 9,white is now obligated to take f7. all the power in the center is now lost.
+18,Nf6,d7f6,rnb1kb1r/p3pppp/4Pn2/q1pP4/1pp5/2N5/PP1B1PPP/R2QKBNR w KQkq - 1 10,"white, in order of keeping the attack, is sacreficing a piece. is it good?
+apperantly not..."
+19,exf7+,e6f7,rnb1kb1r/p3pPpp/5n2/q1pP4/1pp5/2N5/PP1B1PPP/R2QKBNR b KQkq - 0 10,"white, in order of keeping the attack, is sacreficing a piece. is it good?
+apperantly not..."
+20,Kxf7,e8f7,rnb2b1r/p3pkpp/5n2/q1pP4/1pp5/2N5/PP1B1PPP/R2QKBNR w KQ - 0 11,"white, in order of keeping the attack, is sacreficing a piece. is it good?
+apperantly not..."
+21,Ne4,c3e4,rnb2b1r/p3pkpp/5n2/q1pP4/1pp1N3/8/PP1B1PPP/R2QKBNR b KQ - 1 11,"white, in order of keeping the attack, is sacreficing a piece. is it good?
+apperantly not..."
+22,Nxe4,f6e4,rnb2b1r/p3pkpp/8/q1pP4/1pp1n3/8/PP1B1PPP/R2QKBNR w KQ - 0 12,"white must keep making threats. for black, the rook on a8 is of no matter. the white king is exposed in the center."
+23,Qf3+,d1f3,rnb2b1r/p3pkpp/8/q1pP4/1pp1n3/5Q2/PP1B1PPP/R3KBNR b KQ - 1 12,"white must keep making threats. for black, the rook on a8 is of no matter. the white king is exposed in the center."
+24,Nf6,e4f6,rnb2b1r/p3pkpp/5n2/q1pP4/1pp5/5Q2/PP1B1PPP/R3KBNR w KQ - 2 13,"white must keep making threats. for black, the rook on a8 is of no matter. the white king is exposed in the center."
+25,d6,d5d6,rnb2b1r/p3pkpp/3P1n2/q1p5/1pp5/5Q2/PP1B1PPP/R3KBNR b KQ - 0 13,"white must keep making threats. for black, the rook on a8 is of no matter. the white king is exposed in the center."
+26,Be6,c8e6,rn3b1r/p3pkpp/3Pbn2/q1p5/1pp5/5Q2/PP1B1PPP/R3KBNR w KQ - 1 14,devloping the pieces to attack white's king.
+27,Nh3,g1h3,rn3b1r/p3pkpp/3Pbn2/q1p5/1pp5/5Q1N/PP1B1PPP/R3KB1R b KQ - 2 14,"if white will not give that piece he will no longer be able to take the rook. by giving that piece white will place his king in the center, which is bas, or on the queenside, which worse..."
+28,Bd5,e6d5,rn3b1r/p3pkpp/3P1n2/q1pb4/1pp5/5Q1N/PP1B1PPP/R3KB1R w KQ - 3 15,"if white will not give that piece he will no longer be able to take the rook. by giving that piece white will place his king in the center, which is bas, or on the queenside, which worse..."
+29,Bxc4,f1c4,rn3b1r/p3pkpp/3P1n2/q1pb4/1pB5/5Q1N/PP1B1PPP/R3K2R b KQ - 0 15,"if white will not give that piece he will no longer be able to take the rook. by giving that piece white will place his king in the center, which is bas, or on the queenside, which worse..."
+30,Bxc4,d5c4,rn3b1r/p3pkpp/3P1n2/q1p5/1pb5/5Q1N/PP1B1PPP/R3K2R w KQ - 0 16,18... Bd5 is a threat.
+31,Ng5+,h3g5,rn3b1r/p3pkpp/3P1n2/q1p3N1/1pb5/5Q2/PP1B1PPP/R3K2R b KQ - 1 16,18... Bd5 is a threat.
+32,Kg8,f7g8,rn3bkr/p3p1pp/3P1n2/q1p3N1/1pb5/5Q2/PP1B1PPP/R3K2R w KQ - 2 17,18... Bd5 is a threat.
+33,Qxa8,f3a8,Qn3bkr/p3p1pp/3P1n2/q1p3N1/1pb5/8/PP1B1PPP/R3K2R b KQ - 0 17,18... Bd5 is a threat.
+34,Qb6,a5b6,Qn3bkr/p3p1pp/1q1P1n2/2p3N1/1pb5/8/PP1B1PPP/R3K2R w KQ - 1 18,18... Bd5 is a threat.
+35,Ne4,g5e4,Qn3bkr/p3p1pp/1q1P1n2/2p5/1pb1N3/8/PP1B1PPP/R3K2R b KQ - 2 18,a must.
+36,Kf7,g8f7,Qn3b1r/p3pkpp/1q1P1n2/2p5/1pb1N3/8/PP1B1PPP/R3K2R w KQ - 3 19,a must.
+37,Ng5+,e4g5,Qn3b1r/p3pkpp/1q1P1n2/2p3N1/1pb5/8/PP1B1PPP/R3K2R b KQ - 4 19,with no fear!
+38,Kg6,f7g6,Qn3b1r/p3p1pp/1q1P1nk1/2p3N1/1pb5/8/PP1B1PPP/R3K2R w KQ - 5 20,with no fear!
+39,Qf3,a8f3,1n3b1r/p3p1pp/1q1P1nk1/2p3N1/1pb5/5Q2/PP1B1PPP/R3K2R b KQ - 6 20,the Knight wants to join the party!
+40,Nc6,b8c6,5b1r/p3p1pp/1qnP1nk1/2p3N1/1pb5/5Q2/PP1B1PPP/R3K2R w KQ - 7 21,the Knight wants to join the party!
+41,dxe7,d6e7,5b1r/p3P1pp/1qn2nk1/2p3N1/1pb5/5Q2/PP1B1PPP/R3K2R b KQ - 0 21,"letting black's second Bishop entering the game, but other choice does white have?"
+42,Bxe7,f8e7,7r/p3b1pp/1qn2nk1/2p3N1/1pb5/5Q2/PP1B1PPP/R3K2R w KQ - 0 22,white is choosing the worst solution. the end is getting closer...
+43,O-O-O,e1c1,7r/p3b1pp/1qn2nk1/2p3N1/1pb5/5Q2/PP1B1PPP/2KR3R b - - 1 22,white is choosing the worst solution. the end is getting closer...
+44,Nd4,c6d4,7r/p3b1pp/1q3nk1/2p3N1/1pbn4/5Q2/PP1B1PPP/2KR3R w - - 2 23,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+45,Qe3,f3e3,7r/p3b1pp/1q3nk1/2p3N1/1pbn4/4Q3/PP1B1PPP/2KR3R b - - 3 23,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+46,Ne2+,d4e2,7r/p3b1pp/1q3nk1/2p3N1/1pb5/4Q3/PP1BnPPP/2KR3R w - - 4 24,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+47,Kb1,c1b1,7r/p3b1pp/1q3nk1/2p3N1/1pb5/4Q3/PP1BnPPP/1K1R3R b - - 5 24,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+48,Qa6,b6a6,7r/p3b1pp/q4nk1/2p3N1/1pb5/4Q3/PP1BnPPP/1K1R3R w - - 6 25,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+49,b3,b2b3,7r/p3b1pp/q4nk1/2p3N1/1pb5/1P2Q3/P2BnPPP/1K1R3R b - - 0 25,in order to prevent mate on a2 white will get it on the big diagonal (h8-a1)
+50,Bd3+,c4d3,7r/p3b1pp/q4nk1/2p3N1/1p6/1P1bQ3/P2BnPPP/1K1R3R w - - 1 26,the end...
+51,Ka1,b1a1,7r/p3b1pp/q4nk1/2p3N1/1p6/1P1bQ3/P2BnPPP/K2R3R b - - 2 26,the end...
+52,Nd5,f6d5,7r/p3b1pp/q5k1/2pn2N1/1p6/1P1bQ3/P2BnPPP/K2R3R w - - 3 27,the end...
+53,Qf3,e3f3,7r/p3b1pp/q5k1/2pn2N1/1p6/1P1b1Q2/P2BnPPP/K2R3R b - - 4 27,the end...
+54,Bf6+,e7f6,7r/p5pp/q4bk1/2pn2N1/1p6/1P1b1Q2/P2BnPPP/K2R3R w - - 5 28,the end...

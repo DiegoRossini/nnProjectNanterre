@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English defense.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,gambit on e5
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,gambit on e5
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,gambit on e5
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3,gambit on e5
+6,Bb4,f8b4,r1bqk1nr/pppp1ppp/2n5/4p3/1bP5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4,gambit on e5
+7,Nd5,c3d5,r1bqk1nr/pppp1ppp/2n5/3Np3/1bP5/5N2/PP1PPPPP/R1BQKB1R b KQkq - 5 4,gambit on e5
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/3Np3/1bP5/5N2/PP1PPPPP/R1BQKB1R w KQkq - 6 5,gambit on e5
+9,Nxb4,d5b4,r1bqk2r/pppp1ppp/2n2n2/4p3/1NP5/5N2/PP1PPPPP/R1BQKB1R b KQkq - 0 5,gambit on e5
+10,Nxb4,c6b4,r1bqk2r/pppp1ppp/5n2/4p3/1nP5/5N2/PP1PPPPP/R1BQKB1R w KQkq - 0 6,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+11,Nxe5,f3e5,r1bqk2r/pppp1ppp/5n2/4N3/1nP5/8/PP1PPPPP/R1BQKB1R b KQkq - 0 6,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/5n2/4N3/1nP5/8/PP1PPPPP/R1BQKB1R w KQ - 1 7,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+13,a3,a2a3,r1bq1rk1/pppp1ppp/5n2/4N3/1nP5/P7/1P1PPPPP/R1BQKB1R b KQ - 0 7,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+14,d6,d7d6,r1bq1rk1/ppp2ppp/3p1n2/4N3/1nP5/P7/1P1PPPPP/R1BQKB1R w KQ - 0 8,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+15,Nxf7,e5f7,r1bq1rk1/ppp2Npp/3p1n2/8/1nP5/P7/1P1PPPPP/R1BQKB1R b KQ - 0 8,really bad mistake... shame on me i'm white in this game its just that i transposed a real tournament game on this.
+16,Rxf7,f8f7,r1bq2k1/ppp2rpp/3p1n2/8/1nP5/P7/1P1PPPPP/R1BQKB1R w KQ - 0 9,i totally forgot the threat on f2 by Ne4 knight so g2 would be appropriate but it didnt do that
+17,axb4,a3b4,r1bq2k1/ppp2rpp/3p1n2/8/1PP5/8/1P1PPPPP/R1BQKB1R b KQ - 0 9,i totally forgot the threat on f2 by Ne4 knight so g2 would be appropriate but it didnt do that
+18,Be6,c8e6,r2q2k1/ppp2rpp/3pbn2/8/1PP5/8/1P1PPPPP/R1BQKB1R w KQ - 1 10,i totally forgot the threat on f2 by Ne4 knight so g2 would be appropriate but it didnt do that
+19,e3,e2e3,r2q2k1/ppp2rpp/3pbn2/8/1PP5/4P3/1P1P1PPP/R1BQKB1R b KQ - 0 10,nightmare begins
+20,Ne4,f6e4,r2q2k1/ppp2rpp/3pb3/8/1PP1n3/4P3/1P1P1PPP/R1BQKB1R w KQ - 1 11,Qc2 is my (best option) but i still missed the fact that i'll be mate after f3 even he didnt played it
+21,f3,f2f3,r2q2k1/ppp2rpp/3pb3/8/1PP1n3/4PP2/1P1P2PP/R1BQKB1R b KQ - 0 11,Qa4!
+22,Bg4,e6g4,r2q2k1/ppp2rpp/3p4/8/1PP1n1b1/4PP2/1P1P2PP/R1BQKB1R w KQ - 1 12,at this point i wonder why i didnt sacrificed the rook on h3
+23,h4,h2h4,r2q2k1/ppp2rpp/3p4/8/1PP1n1bP/4PP2/1P1P2P1/R1BQKB1R b KQ - 0 12,at this point i wonder why i didnt sacrificed the rook on h3
+24,Ng3,e4g3,r2q2k1/ppp2rpp/3p4/8/1PP3bP/4PPn1/1P1P2P1/R1BQKB1R w KQ - 1 13,at this point i wonder why i didnt sacrificed the rook on h3
+25,Rh2,h1h2,r2q2k1/ppp2rpp/3p4/8/1PP3bP/4PPn1/1P1P2PR/R1BQKB2 b Q - 2 13,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+26,Qf6,d8f6,r5k1/ppp2rpp/3p1q2/8/1PP3bP/4PPn1/1P1P2PR/R1BQKB2 w Q - 3 14,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+27,Kf2,e1f2,r5k1/ppp2rpp/3p1q2/8/1PP3bP/4PPn1/1P1P1KPR/R1BQ1B2 b - - 4 14,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+28,Qe5,f6e5,r5k1/ppp2rpp/3p4/4q3/1PP3bP/4PPn1/1P1P1KPR/R1BQ1B2 w - - 5 15,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+29,d4,d2d4,r5k1/ppp2rpp/3p4/4q3/1PPP2bP/4PPn1/1P3KPR/R1BQ1B2 b - - 0 15,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+30,Ne4+,g3e4,r5k1/ppp2rpp/3p4/4q3/1PPPn1bP/4PP2/1P3KPR/R1BQ1B2 w - - 1 16,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+31,Kg1,f2g1,r5k1/ppp2rpp/3p4/4q3/1PPPn1bP/4PP2/1P4PR/R1BQ1BK1 b - - 2 16,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+32,Qg3,e5g3,r5k1/ppp2rpp/3p4/8/1PPPn1bP/4PPq1/1P4PR/R1BQ1BK1 w - - 3 17,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+33,Qc2,d1c2,r5k1/ppp2rpp/3p4/8/1PPPn1bP/4PPq1/1PQ3PR/R1B2BK1 b - - 4 17,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+34,Rxf3,f7f3,r5k1/ppp3pp/3p4/8/1PPPn1bP/4Prq1/1PQ3PR/R1B2BK1 w - - 0 18,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+35,b3,b2b3,r5k1/ppp3pp/3p4/8/1PPPn1bP/1P2Prq1/2Q3PR/R1B2BK1 b - - 0 18,Rxf1  Kxf1  Raf8  Kg1 Qe1 mate
+36,Raf8,a8f8,5rk1/ppp3pp/3p4/8/1PPPn1bP/1P2Prq1/2Q3PR/R1B2BK1 w - - 1 19,More simple was Bxf5
+37,Bb2,c1b2,5rk1/ppp3pp/3p4/8/1PPPn1bP/1P2Prq1/1BQ3PR/R4BK1 b - - 2 19,More simple was Bxf5
+38,Rf3f2,f3f2,5rk1/ppp3pp/3p4/8/1PPPn1bP/1P2P1q1/1BQ2rPR/R4BK1 w - - 3 20,More simple was Bxf5
+39,Qxe4,c2e4,5rk1/ppp3pp/3p4/8/1PPPQ1bP/1P2P1q1/1B3rPR/R4BK1 b - - 0 20,More simple was Bxf5
+40,Rxb2,f2b2,5rk1/ppp3pp/3p4/8/1PPPQ1bP/1P2P1q1/1r4PR/R4BK1 w - - 0 21,More simple was Bxf5
+41,Bd3,f1d3,5rk1/ppp3pp/3p4/8/1PPPQ1bP/1P1BP1q1/1r4PR/R5K1 b - - 1 21,More simple was Bxf5
+42,Bf5,g4f5,5rk1/ppp3pp/3p4/5b2/1PPPQ2P/1P1BP1q1/1r4PR/R5K1 w - - 2 22,More simple was Bxf5
+43,Qd5+,e4d5,5rk1/ppp3pp/3p4/3Q1b2/1PPP3P/1P1BP1q1/1r4PR/R5K1 b - - 3 22,More simple was Bxf5
+44,Rf7,f8f7,6k1/ppp2rpp/3p4/3Q1b2/1PPP3P/1P1BP1q1/1r4PR/R5K1 w - - 4 23,More simple was Bxf5
+45,Rf1,a1f1,6k1/ppp2rpp/3p4/3Q1b2/1PPP3P/1P1BP1q1/1r4PR/5RK1 b - - 5 23,More simple was Bxf5
+46,Qf2+,g3f2,6k1/ppp2rpp/3p4/3Q1b2/1PPP3P/1P1BP3/1r3qPR/5RK1 w - - 6 24,I made mistake on translating then i had to correct the moves to keep the game as same as it was
+47,Kh1,g1h1,6k1/ppp2rpp/3p4/3Q1b2/1PPP3P/1P1BP3/1r3qPR/5R1K b - - 7 24,Qxf7 instead king and i'm mate by following Rxf7 Rb1
+48,Bxd3,f5d3,6k1/ppp2rpp/3p4/3Q4/1PPP3P/1P1bP3/1r3qPR/5R1K w - - 0 25,Qxf7 instead king and i'm mate by following Rxf7 Rb1
+49,Qxf7+,d5f7,6k1/ppp2Qpp/3p4/8/1PPP3P/1P1bP3/1r3qPR/5R1K b - - 0 25,Qxf7 instead king and i'm mate by following Rxf7 Rb1
+50,Kxf7,g8f7,8/ppp2kpp/3p4/8/1PPP3P/1P1bP3/1r3qPR/5R1K w - - 0 26,
+51,Rxf2+,f1f2,8/ppp2kpp/3p4/8/1PPP3P/1P1bP3/1r3RPR/7K b - - 0 26,
+52,Rxf2,b2f2,8/ppp2kpp/3p4/8/1PPP3P/1P1bP3/5rPR/7K w - - 0 27,
+53,Rh3,h2h3,8/ppp2kpp/3p4/8/1PPP3P/1P1bP2R/5rP1/7K b - - 1 27,
+54,Bc2,d3c2,8/ppp2kpp/3p4/8/1PPP3P/1P2P2R/2b2rP1/7K w - - 2 28,
+55,Rf3+,h3f3,8/ppp2kpp/3p4/8/1PPP3P/1P2PR2/2b2rP1/7K b - - 3 28,
+56,Bf5,c2f5,8/ppp2kpp/3p4/5b2/1PPP3P/1P2PR2/5rP1/7K w - - 4 29,
+57,Rxf2,f3f2,8/ppp2kpp/3p4/5b2/1PPP3P/1P2P3/5RP1/7K b - - 0 29,

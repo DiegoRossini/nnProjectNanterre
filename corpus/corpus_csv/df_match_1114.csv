@@ -1,0 +1,19 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King's Pawn, Patzer opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"King's Pawn, Patzer opening."
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"King's Pawn, Patzer opening."
+4,g6,g7g6,rnbqkbnr/pppp1p1p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 0 3,"This is a TERRIBLE defense against the Patzer, as QxPe5+ gives white Rh8."
+5,Qxe5+,h5e5,rnbqkbnr/pppp1p1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 3,White should now defend Pe4.
+6,Qe7,d8e7,rnb1kbnr/ppppqp1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 1 4,White should now defend Pe4.
+7,Qxh8,e5h8,rnb1kbnQ/ppppqp1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR b KQq - 0 4,White should now defend Pe4.
+8,Nf6,g8f6,rnb1kb1Q/ppppqp1p/5np1/8/4P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 5,White should now defend Pe4.
+9,e5,e4e5,rnb1kb1Q/ppppqp1p/5np1/4P3/8/8/PPPP1PPP/RNB1KBNR b KQq - 0 5,That isn't much of a defense.
+10,Qxe5+,e7e5,rnb1kb1Q/pppp1p1p/5np1/4q3/8/8/PPPP1PPP/RNB1KBNR w KQq - 0 6,"White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field."
+11,Be2,f1e2,rnb1kb1Q/pppp1p1p/5np1/4q3/8/8/PPPPBPPP/RNB1K1NR b KQq - 1 6,"White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field."
+12,b6,b7b6,rnb1kb1Q/p1pp1p1p/1p3np1/4q3/8/8/PPPPBPPP/RNB1K1NR w KQq - 0 7,"White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field."
+13,g3,g2g3,rnb1kb1Q/p1pp1p1p/1p3np1/4q3/8/6P1/PPPPBP1P/RNB1K1NR b KQq - 0 7,"White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field."
+14,Ba6,c8a6,rn2kb1Q/p1pp1p1p/bp3np1/4q3/8/6P1/PPPPBP1P/RNB1K1NR w KQq - 1 8,"White must watch out for QxBe2#.  We don't want this game to end too quickly.  Pd3 will protect the bishop at Pe2, while letting white's black bishop access to the field."
+15,f4,f2f4,rn2kb1Q/p1pp1p1p/bp3np1/4q3/5P2/6P1/PPPPB2P/RNB1K1NR b KQq - 0 8,"Wrong pawn.  If black moves Bb7, white's rook is at risk."
+16,Qe4,e5e4,rn2kb1Q/p1pp1p1p/bp3np1/8/4qP2/6P1/PPPPB2P/RNB1K1NR w KQq - 1 9,Even better.  Ng1 is the only thing protecting Be2 from QxBe2#.  White's rook is lost.
+17,Nf3,g1f3,rn2kb1Q/p1pp1p1p/bp3np1/8/4qP2/5NP1/PPPPB2P/RNB1K2R b KQq - 2 9,Oh no!  Game over!
+18,Qxe2#,e4e2,rn2kb1Q/p1pp1p1p/bp3np1/8/5P2/5NP1/PPPPq2P/RNB1K2R w KQq - 0 10,

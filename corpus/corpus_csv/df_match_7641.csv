@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi everyone!
+
+After two low draws and then a loss in my second game against dynamic_dv which at the moment I cannot bear to annotate, I am glad to report a successful mating attack.  My opponent plays a very unusual line of the Sicilian Defense which is characterised by 1. e4 c5."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,2. ...... a5 - most unusual.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,2. ...... a5 - most unusual.
+4,a5,a7a5,rnbqkbnr/1p1ppppp/8/p1p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,2. ...... a5 - most unusual.
+5,d4,d2d4,rnbqkbnr/1p1ppppp/8/p1p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,4. Be3 - the standard d4 is followed by some normal development.
+6,e6,e7e6,rnbqkbnr/1p1p1ppp/4p3/p1p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,4. Be3 - the standard d4 is followed by some normal development.
+7,Be3,c1e3,rnbqkbnr/1p1p1ppp/4p3/p1p5/3PP3/4BN2/PPP2PPP/RN1QKB1R b KQkq - 1 4,4. Be3 - the standard d4 is followed by some normal development.
+8,Nc6,b8c6,r1bqkbnr/1p1p1ppp/2n1p3/p1p5/3PP3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 2 5,4. ..... Nc6? - a developing move but loses a pawn.
+9,dxc5,d4c5,r1bqkbnr/1p1p1ppp/2n1p3/p1P5/4P3/4BN2/PPP2PPP/RN1QKB1R b KQkq - 0 5,5. dxc5 - tvm!
+10,Nb4,c6b4,r1bqkbnr/1p1p1ppp/4p3/p1P5/1n2P3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 1 6,7. ...... Bxa6 - I cannot overcome my fetish for exchanging B for N in order to bust up opponent's pawn structures.  Sometimes it works and sometimes it doesn't.  Here it does.
+11,a3,a2a3,r1bqkbnr/1p1p1ppp/4p3/p1P5/1n2P3/P3BN2/1PP2PPP/RN1QKB1R b KQkq - 0 6,7. ...... Bxa6 - I cannot overcome my fetish for exchanging B for N in order to bust up opponent's pawn structures.  Sometimes it works and sometimes it doesn't.  Here it does.
+12,Na6,b4a6,r1bqkbnr/1p1p1ppp/n3p3/p1P5/4P3/P3BN2/1PP2PPP/RN1QKB1R w KQkq - 1 7,7. ...... Bxa6 - I cannot overcome my fetish for exchanging B for N in order to bust up opponent's pawn structures.  Sometimes it works and sometimes it doesn't.  Here it does.
+13,Bxa6,f1a6,r1bqkbnr/1p1p1ppp/B3p3/p1P5/4P3/P3BN2/1PP2PPP/RN1QK2R b KQkq - 0 7,7. ...... Bxa6 - I cannot overcome my fetish for exchanging B for N in order to bust up opponent's pawn structures.  Sometimes it works and sometimes it doesn't.  Here it does.
+14,bxa6,b7a6,r1bqkbnr/3p1ppp/p3p3/p1P5/4P3/P3BN2/1PP2PPP/RN1QK2R w KQkq - 0 8,7. ...... Bxa6 - I cannot overcome my fetish for exchanging B for N in order to bust up opponent's pawn structures.  Sometimes it works and sometimes it doesn't.  Here it does.
+15,Nbd2,b1d2,r1bqkbnr/3p1ppp/p3p3/p1P5/4P3/P3BN2/1PPN1PPP/R2QK2R b KQkq - 1 8,8. Nbd2 - development.
+16,Nf6,g8f6,r1bqkb1r/3p1ppp/p3pn2/p1P5/4P3/P3BN2/1PPN1PPP/R2QK2R w KQkq - 2 9,9. b4 - consolidation of queenside pawn structure.
+17,b4,b2b4,r1bqkb1r/3p1ppp/p3pn2/p1P5/1P2P3/P3BN2/2PN1PPP/R2QK2R b KQkq - 0 9,9. b4 - consolidation of queenside pawn structure.
+18,Ng4,f6g4,r1bqkb1r/3p1ppp/p3p3/p1P5/1P2P1n1/P3BN2/2PN1PPP/R2QK2R w KQkq - 1 10,10. Bd4 - I sense Fou Lenoir is gonna do a grand job here.  Next turn I will not be disappointed.
+19,Bd4,e3d4,r1bqkb1r/3p1ppp/p3p3/p1P5/1P1BP1n1/P4N2/2PN1PPP/R2QK2R b KQkq - 2 10,10. Bd4 - I sense Fou Lenoir is gonna do a grand job here.  Next turn I will not be disappointed.
+20,g6,g7g6,r1bqkb1r/3p1p1p/p3p1p1/p1P5/1P1BP1n1/P4N2/2PN1PPP/R2QK2R w KQkq - 0 11,10. ...... g6?? - is this a Christmas Bonus?!
+21,Bxh8,d4h8,r1bqkb1B/3p1p1p/p3p1p1/p1P5/1P2P1n1/P4N2/2PN1PPP/R2QK2R b KQq - 0 11,11. Bxh8 - one rook gratefully received.
+22,f6,f7f6,r1bqkb1B/3p3p/p3ppp1/p1P5/1P2P1n1/P4N2/2PN1PPP/R2QK2R w KQq - 0 12,11. ..... f6 - tries to shut in Fou Lenoir but it ain't gonna work.
+23,e5,e4e5,r1bqkb1B/3p3p/p3ppp1/p1P1P3/1P4n1/P4N2/2PN1PPP/R2QK2R b KQq - 0 12,12. e5! - It ain't gonna work cos this move backs up f6 to allow Fou Lenoir to emerge from the black camp and I will therefore remain a whole rook and pawn up.
+24,axb4,a5b4,r1bqkb1B/3p3p/p3ppp1/2P1P3/1p4n1/P4N2/2PN1PPP/R2QK2R w KQq - 0 13,13. axb4 - pawn trade.
+25,axb4,a3b4,r1bqkb1B/3p3p/p3ppp1/2P1P3/1P4n1/5N2/2PN1PPP/R2QK2R b KQq - 0 13,13. axb4 - pawn trade.
+26,Bh6,f8h6,r1bqk2B/3p3p/p3pppb/2P1P3/1P4n1/5N2/2PN1PPP/R2QK2R w KQq - 1 14,14. Ne4 - my opponent's king is looking very draughty in the centre.  Glenda is just itching to get onto d6.  My opponent decides to give the f6 pawn back up with his king but still I take on f6 with Fou Lenoir.
+27,Ne4,d2e4,r1bqk2B/3p3p/p3pppb/2P1P3/1P2N1n1/5N2/2P2PPP/R2QK2R b KQq - 2 14,14. Ne4 - my opponent's king is looking very draughty in the centre.  Glenda is just itching to get onto d6.  My opponent decides to give the f6 pawn back up with his king but still I take on f6 with Fou Lenoir.
+28,Kf7,e8f7,r1bq3B/3p1k1p/p3pppb/2P1P3/1P2N1n1/5N2/2P2PPP/R2QK2R w KQ - 3 15,15. ..... Nxf6 - firstly black returns the compliment with a B for N trade.  Now I take the knight on f6 and increase my lead to 7 material points.
+29,Bxf6,h8f6,r1bq4/3p1k1p/p3pBpb/2P1P3/1P2N1n1/5N2/2P2PPP/R2QK2R b KQ - 0 15,15. ..... Nxf6 - firstly black returns the compliment with a B for N trade.  Now I take the knight on f6 and increase my lead to 7 material points.
+30,Nxf6,g4f6,r1bq4/3p1k1p/p3pnpb/2P1P3/1P2N3/5N2/2P2PPP/R2QK2R w KQ - 0 16,15. ..... Nxf6 - firstly black returns the compliment with a B for N trade.  Now I take the knight on f6 and increase my lead to 7 material points.
+31,Nxf6,e4f6,r1bq4/3p1k1p/p3pNpb/2P1P3/1P6/5N2/2P2PPP/R2QK2R b KQ - 0 16,17. Qd6 - offering a queen trade which he refuses.
+32,Qc7,d8c7,r1b5/2qp1k1p/p3pNpb/2P1P3/1P6/5N2/2P2PPP/R2QK2R w KQ - 1 17,17. Qd6 - offering a queen trade which he refuses.
+33,Qd6,d1d6,r1b5/2qp1k1p/p2QpNpb/2P1P3/1P6/5N2/2P2PPP/R3K2R b KQ - 2 17,17. Qd6 - offering a queen trade which he refuses.
+34,Qd8,c7d8,r1bq4/3p1k1p/p2QpNpb/2P1P3/1P6/5N2/2P2PPP/R3K2R w KQ - 3 18,18. 0-0 - time to make use of that extra rook.
+35,O-O,e1g1,r1bq4/3p1k1p/p2QpNpb/2P1P3/1P6/5N2/2P2PPP/R4RK1 b - - 4 18,18. 0-0 - time to make use of that extra rook.
+36,Bf8,h6f8,r1bq1b2/3p1k1p/p2QpNp1/2P1P3/1P6/5N2/2P2PPP/R4RK1 w - - 5 19,19. Ng5+ - the seed of a plan of attack on the black royal couple starts to germinate in the grey stuff between my lugholes.  No need to back Glenda off yet.  Seems unbelievable that it is not Glenda but her counterpart the Witch that is stuck on the back rank!
+37,Ng5+,f3g5,r1bq1b2/3p1k1p/p2QpNp1/2P1P1N1/1P6/8/2P2PPP/R4RK1 b - - 6 19,19. Ng5+ - the seed of a plan of attack on the black royal couple starts to germinate in the grey stuff between my lugholes.  No need to back Glenda off yet.  Seems unbelievable that it is not Glenda but her counterpart the Witch that is stuck on the back rank!
+38,Kg7,f7g7,r1bq1b2/3p2kp/p2QpNp1/2P1P1N1/1P6/8/2P2PPP/R4RK1 w - - 7 20,20.  Nxe6+ - the seed germinates and flowers into a won position for white.  I can exchange queens here but my opponent gives me the opportunity to do something a lot lot better ......
+39,Nxe6+,g5e6,r1bq1b2/3p2kp/p2QNNp1/2P1P3/1P6/8/2P2PPP/R4RK1 b - - 0 20,20.  Nxe6+ - the seed germinates and flowers into a won position for white.  I can exchange queens here but my opponent gives me the opportunity to do something a lot lot better ......

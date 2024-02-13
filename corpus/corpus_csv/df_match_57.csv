@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A four knights opening.  Old but it can be interesting.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A four knights opening.  Old but it can be interesting.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,A four knights opening.  Old but it can be interesting.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,A four knights opening.  Old but it can be interesting.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,A four knights opening.  Old but it can be interesting.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,A four knights opening.  Old but it can be interesting.
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+9,O-O,e1g1,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 5,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+10,a6,a7a6,r1bqkb1r/1pp2ppp/p1np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+11,Bxc6+,b5c6,r1bqkb1r/1pp2ppp/p1Bp1n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 0 6,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+12,bxc6,b7c6,r1bqkb1r/2p2ppp/p1pp1n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 7,"White has to take 6. Ba4 is met by 6. ..., b5,  7. Bb3, b4 and the pawn on e4 falls."
+13,d4,d2d4,r1bqkb1r/2p2ppp/p1pp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 7,"Threatening 8.  d4xe5, d6xe5, 9. Qd1xQd8, Kxd8  10. Nxe5"
+14,exd4,e5d4,r1bqkb1r/2p2ppp/p1pp1n2/8/3pP3/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 8,"The knight on d4 has a nice central position so black kicks the knight.  Going back to f3 allows the pin with 9. ..., Bg4 and other retreats don't look all that appealing."
+15,Nxd4,f3d4,r1bqkb1r/2p2ppp/p1pp1n2/8/3NP3/2N5/PPP2PPP/R1BQ1RK1 b kq - 0 8,"The knight on d4 has a nice central position so black kicks the knight.  Going back to f3 allows the pin with 9. ..., Bg4 and other retreats don't look all that appealing."
+16,c5,c6c5,r1bqkb1r/2p2ppp/p2p1n2/2p5/3NP3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 9,"The knight on d4 has a nice central position so black kicks the knight.  Going back to f3 allows the pin with 9. ..., Bg4 and other retreats don't look all that appealing."
+17,Nf5,d4f5,r1bqkb1r/2p2ppp/p2p1n2/2p2N2/4P3/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 9,"Yes the pawn is weak and it actually could impede a king side assault instead of help it, but the e-file is open.  Black should play Be7 and castle before any real pressure builds."
+18,Bxf5,c8f5,r2qkb1r/2p2ppp/p2p1n2/2p2b2/4P3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 10,"Yes the pawn is weak and it actually could impede a king side assault instead of help it, but the e-file is open.  Black should play Be7 and castle before any real pressure builds."
+19,exf5,e4f5,r2qkb1r/2p2ppp/p2p1n2/2p2P2/8/2N5/PPP2PPP/R1BQ1RK1 b kq - 0 10,"Yes the pawn is weak and it actually could impede a king side assault instead of help it, but the e-file is open.  Black should play Be7 and castle before any real pressure builds."
+20,Qd7,d8d7,r3kb1r/2pq1ppp/p2p1n2/2p2P2/8/2N5/PPP2PPP/R1BQ1RK1 w kq - 1 11,"Black immediately attacks the f pawn, but this is a mistake. White defends the pawn and attacks the rook on a8.  This is a slight gain of time that white needs.  ( Although Re1 check immediately might have been even better. )"
+21,Qf3,d1f3,r3kb1r/2pq1ppp/p2p1n2/2p2P2/8/2N2Q2/PPP2PPP/R1B2RK1 b kq - 2 11,"Black immediately attacks the f pawn, but this is a mistake. White defends the pawn and attacks the rook on a8.  This is a slight gain of time that white needs.  ( Although Re1 check immediately might have been even better. )"
+22,Rb8,a8b8,1r2kb1r/2pq1ppp/p2p1n2/2p2P2/8/2N2Q2/PPP2PPP/R1B2RK1 w k - 3 12,"A natural move that was expected it seems to attack the b2 pawn and saves the rook.  However it leaves the pawn on a6 undefended and if black had played 11. ..., Ra7 he would've had an easy way to counter the coming pin."
+23,Re1+,f1e1,1r2kb1r/2pq1ppp/p2p1n2/2p2P2/8/2N2Q2/PPP2PPP/R1B1R1K1 b k - 4 12,Black wants to castle but that would leave the bishop on e7 vulnerable.  The pawn on f5 is defended indirectly because the capture on e7 would be mate and white also can now take the pawn on a6.
+24,Be7,f8e7,1r2k2r/2pqbppp/p2p1n2/2p2P2/8/2N2Q2/PPP2PPP/R1B1R1K1 w k - 5 13,Black wants to castle but that would leave the bishop on e7 vulnerable.  The pawn on f5 is defended indirectly because the capture on e7 would be mate and white also can now take the pawn on a6.
+25,Qe2,f3e2,1r2k2r/2pqbppp/p2p1n2/2p2P2/8/2N5/PPP1QPPP/R1B1R1K1 b k - 6 13,Black wants to castle but that would leave the bishop on e7 vulnerable.  The pawn on f5 is defended indirectly because the capture on e7 would be mate and white also can now take the pawn on a6.
+26,Ng8,f6g8,1r2k1nr/2pqbppp/p2p4/2p2P2/8/2N5/PPP1QPPP/R1B1R1K1 w k - 7 14,Black perhaps wants to take on f5 and he also wants to increase the protection for the bishop on e7.  However 14. Nd5 keeps the pressure up.
+27,Nd5,c3d5,1r2k1nr/2pqbppp/p2p4/2pN1P2/8/8/PPP1QPPP/R1B1R1K1 b k - 8 14,Black perhaps wants to take on f5 and he also wants to increase the protection for the bishop on e7.  However 14. Nd5 keeps the pressure up.
+28,c6,c7c6,1r2k1nr/3qbppp/p1pp4/2pN1P2/8/8/PPP1QPPP/R1B1R1K1 w k - 0 15,If the rook were on a7 this move would have solved all his problems earlier.  But hindsight is always wonderful.
+29,Nxe7,d5e7,1r2k1nr/3qNppp/p1pp4/2p2P2/8/8/PPP1QPPP/R1B1R1K1 b k - 0 15,Taking with the queen allows 16. Qd1 (or Qd2) winning the queen for a rook so he has to recapture with the knight.
+30,Nxe7,g8e7,1r2k2r/3qnppp/p1pp4/2p2P2/8/8/PPP1QPPP/R1B1R1K1 w k - 0 16,Taking with the queen allows 16. Qd1 (or Qd2) winning the queen for a rook so he has to recapture with the knight.
+31,f6,f5f6,1r2k2r/3qnppp/p1pp1P2/2p5/8/8/PPP1QPPP/R1B1R1K1 b k - 0 16,This is obvious.  By threatening the pinned knight black must take and give up any hopes of a safe castled position.
+32,gxf6,g7f6,1r2k2r/3qnp1p/p1pp1p2/2p5/8/8/PPP1QPPP/R1B1R1K1 w k - 0 17,White could take on a6 but keeping the pressure on e7 and focusing the bishop on f6 is the priority.
+33,b3,b2b3,1r2k2r/3qnp1p/p1pp1p2/2p5/8/1P6/P1P1QPPP/R1B1R1K1 b k - 0 17,White could take on a6 but keeping the pressure on e7 and focusing the bishop on f6 is the priority.
+34,Kd8,e8d8,1r1k3r/3qnp1p/p1pp1p2/2p5/8/1P6/P1P1QPPP/R1B1R1K1 w - - 1 18,This is the only way to defend the f6 pawn. Black has spent a lot of tempo's on the knight to have it back on its original square.
+35,Bb2,c1b2,1r1k3r/3qnp1p/p1pp1p2/2p5/8/1P6/PBP1QPPP/R3R1K1 b - - 2 18,This is the only way to defend the f6 pawn. Black has spent a lot of tempo's on the knight to have it back on its original square.
+36,Ng8,e7g8,1r1k2nr/3q1p1p/p1pp1p2/2p5/8/1P6/PBP1QPPP/R3R1K1 w - - 3 19,This is the only way to defend the f6 pawn. Black has spent a lot of tempo's on the knight to have it back on its original square.
+37,Qxa6,e2a6,1r1k2nr/3q1p1p/Q1pp1p2/2p5/8/1P6/PBP2PPP/R3R1K1 b - - 0 19,"White decides to get the material even and create a passed pawn on the a-file that may come in useful.  At first I thought black might trying to start a king side attack, but actually he wants to protect his f pawn and get out of the potential fork."
+38,h5,h7h5,1r1k2nr/3q1p2/Q1pp1p2/2p4p/8/1P6/PBP2PPP/R3R1K1 w - - 0 20,"White decides to get the material even and create a passed pawn on the a-file that may come in useful.  At first I thought black might trying to start a king side attack, but actually he wants to protect his f pawn and get out of the potential fork."
+39,Rad1,a1d1,1r1k2nr/3q1p2/Q1pp1p2/2p4p/8/1P6/PBP2PPP/3RR1K1 b - - 1 20,Closing off the bishop's diagonal is a good idea.  I think he should have played this a move earlier.
+40,d5,d6d5,1r1k2nr/3q1p2/Q1p2p2/2pp3p/8/1P6/PBP2PPP/3RR1K1 w - - 0 21,Closing off the bishop's diagonal is a good idea.  I think he should have played this a move earlier.
+41,Qa4,a6a4,1r1k2nr/3q1p2/2p2p2/2pp3p/Q7/1P6/PBP2PPP/3RR1K1 b - - 1 21,"This indirectly prevents d4 since 21. ..., d4, 22, Bxd4, c5xBd4, 23. Rxd4  pins the queen to the king and wins the queen and two pawns for the bishop and rook."
+42,Rh6,h8h6,1r1k2n1/3q1p2/2p2p1r/2pp3p/Q7/1P6/PBP2PPP/3RR1K1 w - - 2 22,Black still wants to protect f6 and redevelop the knight.  There is also a potential threat to the pawn on c2.  White has a winning move but misses it.
+43,Qh4,a4h4,1r1k2n1/3q1p2/2p2p1r/2pp3p/7Q/1P6/PBP2PPP/3RR1K1 b - - 3 22,Black still wants to protect f6 and redevelop the knight.  There is also a potential threat to the pawn on c2.  White has a winning move but misses it.
+44,Qf5,d7f5,1r1k2n1/5p2/2p2p1r/2pp1q1p/7Q/1P6/PBP2PPP/3RR1K1 w - - 4 23,Black still wants to protect f6 and redevelop the knight.  There is also a potential threat to the pawn on c2.  White has a winning move but misses it.
+45,Rd3,d1d3,1r1k2n1/5p2/2p2p1r/2pp1q1p/7Q/1P1R4/PBP2PPP/4R1K1 b - - 5 23,White was thinking of Rf3 but now he finds the winning move.
+46,d4,d5d4,1r1k2n1/5p2/2p2p1r/2p2q1p/3p3Q/1P1R4/PBP2PPP/4R1K1 w - - 0 24,White was thinking of Rf3 but now he finds the winning move.
+47,Qg3,h4g3,1r1k2n1/5p2/2p2p1r/2p2q1p/3p4/1P1R2Q1/PBP2PPP/4R1K1 b - - 1 24,The knight and the rook on b8 both hang and black can't save both.

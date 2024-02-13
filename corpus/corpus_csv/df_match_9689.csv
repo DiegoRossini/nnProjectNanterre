@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,sets up the gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,sets up the gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,sets up the gambit
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,declines in what i must say seems like the worst way.
+5,Bc4,f1c4,rnbqkbnr/pppp2pp/5p2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,i must mark this move with a ? where is the knight going? it had no future on h6.
+6,Nh6,g8h6,rnbqkb1r/pppp2pp/5p1n/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,i must mark this move with a ? where is the knight going? it had no future on h6.
+7,f5,f4f5,rnbqkb1r/pppp2pp/5p1n/4pP2/2B1P3/8/PPPP2PP/RNBQK1NR b KQkq - 0 4,i force the declination of the gambit now to lay in an attack on the king side.
+8,d6,d7d6,rnbqkb1r/ppp3pp/3p1p1n/4pP2/2B1P3/8/PPPP2PP/RNBQK1NR w KQkq - 0 5,a very powerful check.
+9,Qh5+,d1h5,rnbqkb1r/ppp3pp/3p1p1n/4pP1Q/2B1P3/8/PPPP2PP/RNB1K1NR b KQkq - 1 5,a very powerful check.
+10,Kd7,e8d7,rnbq1b1r/pppk2pp/3p1p1n/4pP1Q/2B1P3/8/PPPP2PP/RNB1K1NR w KQ - 2 6,i want the check at f7 and the knight guards it so i must eliminate the knight. i also considerd nc3.
+11,d3,d2d3,rnbq1b1r/pppk2pp/3p1p1n/4pP1Q/2B1P3/3P4/PPP3PP/RNB1K1NR b KQ - 0 6,i want the check at f7 and the knight guards it so i must eliminate the knight. i also considerd nc3.
+12,c5,c7c5,rnbq1b1r/pp1k2pp/3p1p1n/2p1pP1Q/2B1P3/3P4/PPP3PP/RNB1K1NR w KQ - 0 7,giving his king running room i think.
+13,Bxh6,c1h6,rnbq1b1r/pp1k2pp/3p1p1B/2p1pP1Q/2B1P3/3P4/PPP3PP/RN2K1NR b KQ - 0 7,breaking the door down.
+14,gxh6,g7h6,rnbq1b1r/pp1k3p/3p1p1p/2p1pP1Q/2B1P3/3P4/PPP3PP/RN2K1NR w KQ - 0 8,the queen was a better blocker.
+15,Qf7+,h5f7,rnbq1b1r/pp1k1Q1p/3p1p1p/2p1pP2/2B1P3/3P4/PPP3PP/RN2K1NR b KQ - 1 8,the queen was a better blocker.
+16,Be7,f8e7,rnbq3r/pp1kbQ1p/3p1p1p/2p1pP2/2B1P3/3P4/PPP3PP/RN2K1NR w KQ - 2 9,the queen was a better blocker.
+17,Nc3,b1c3,rnbq3r/pp1kbQ1p/3p1p1p/2p1pP2/2B1P3/2NP4/PPP3PP/R3K1NR b KQ - 3 9,hoping for d5
+18,Qe8,d8e8,rnb1q2r/pp1kbQ1p/3p1p1p/2p1pP2/2B1P3/2NP4/PPP3PP/R3K1NR w KQ - 4 10,proposing a trade in which i have no desire in.
+19,Qe6+,f7e6,rnb1q2r/pp1kb2p/3pQp1p/2p1pP2/2B1P3/2NP4/PPP3PP/R3K1NR b KQ - 5 10,"this is actually a bad move, but black does not notice it and i got lucky, if he moves the king back to d8 i am alomst forced to proceed with nxd6,bxd6, qxf6 and my queen is safe."
+20,Kc6,d7c6,rnb1q2r/pp2b2p/2kpQp1p/2p1pP2/2B1P3/2NP4/PPP3PP/R3K1NR w KQ - 6 11,"this is actually a bad move, but black does not notice it and i got lucky, if he moves the king back to d8 i am alomst forced to proceed with nxd6,bxd6, qxf6 and my queen is safe."
+21,Bd5+,c4d5,rnb1q2r/pp2b2p/2kpQp1p/2pBpP2/4P3/2NP4/PPP3PP/R3K1NR b KQ - 7 11,"this is actually a bad move, but black does not notice it and i got lucky, if he moves the king back to d8 i am alomst forced to proceed with nxd6,bxd6, qxf6 and my queen is safe."
+22,Kc7,c6c7,rnb1q2r/ppk1b2p/3pQp1p/2pBpP2/4P3/2NP4/PPP3PP/R3K1NR w KQ - 8 12,"this is actually a bad move, but black does not notice it and i got lucky, if he moves the king back to d8 i am alomst forced to proceed with nxd6,bxd6, qxf6 and my queen is safe."
+23,Nb5+,c3b5,rnb1q2r/ppk1b2p/3pQp1p/1NpBpP2/4P3/3P4/PPP3PP/R3K1NR b KQ - 9 12,"this is actually a bad move, but black does not notice it and i got lucky, if he moves the king back to d8 i am alomst forced to proceed with nxd6,bxd6, qxf6 and my queen is safe."
+24,Qxb5,e8b5,rnb4r/ppk1b2p/3pQp1p/1qpBpP2/4P3/3P4/PPP3PP/R3K1NR w KQ - 0 13,he took the free knight which was not free at all.
+25,Qxe7+,e6e7,rnb4r/ppk1Q2p/3p1p1p/1qpBpP2/4P3/3P4/PPP3PP/R3K1NR b KQ - 0 13,once again the queen is a better interposer.
+26,Nd7,b8d7,r1b4r/ppknQ2p/3p1p1p/1qpBpP2/4P3/3P4/PPP3PP/R3K1NR w KQ - 1 14,once again the queen is a better interposer.
+27,b3,b2b3,r1b4r/ppknQ2p/3p1p1p/1qpBpP2/4P3/1P1P4/P1P3PP/R3K1NR b KQ - 0 14,stopping any interference into my territory
+28,Qb4+,b5b4,r1b4r/ppknQ2p/3p1p1p/2pBpP2/1q2P3/1P1P4/P1P3PP/R3K1NR w KQ - 1 15,"my knight sees a square he wants and has enough time to get there as black is busy falling over his own pieces, my knight wants c4."
+29,Ke2,e1e2,r1b4r/ppknQ2p/3p1p1p/2pBpP2/1q2P3/1P1P4/P1P1K1PP/R5NR b - - 2 15,"my knight sees a square he wants and has enough time to get there as black is busy falling over his own pieces, my knight wants c4."
+30,Rb8,a8b8,1rb4r/ppknQ2p/3p1p1p/2pBpP2/1q2P3/1P1P4/P1P1K1PP/R5NR w - - 3 16,"my knight sees a square he wants and has enough time to get there as black is busy falling over his own pieces, my knight wants c4."
+31,Nf3,g1f3,1rb4r/ppknQ2p/3p1p1p/2pBpP2/1q2P3/1P1P1N2/P1P1K1PP/R6R b - - 4 16,"my knight sees a square he wants and has enough time to get there as black is busy falling over his own pieces, my knight wants c4."
+32,b6,b7b6,1rb4r/p1knQ2p/1p1p1p1p/2pBpP2/1q2P3/1P1P1N2/P1P1K1PP/R6R w - - 0 17,gotta keep her out of my house
+33,Nd2,f3d2,1rb4r/p1knQ2p/1p1p1p1p/2pBpP2/1q2P3/1P1P4/P1PNK1PP/R6R b - - 1 17,gotta keep her out of my house
+34,Qc3,b4c3,1rb4r/p1knQ2p/1p1p1p1p/2pBpP2/4P3/1PqP4/P1PNK1PP/R6R w - - 2 18,gotta keep her out of my house
+35,Rhc1,h1c1,1rb4r/p1knQ2p/1p1p1p1p/2pBpP2/4P3/1PqP4/P1PNK1PP/R1R5 b - - 3 18,gotta keep her out of my house
+36,Ba6,c8a6,1r5r/p1knQ2p/bp1p1p1p/2pBpP2/4P3/1PqP4/P1PNK1PP/R1R5 w - - 4 19,now that the bishop is gone attack the pinned piece
+37,Be6,d5e6,1r5r/p1knQ2p/bp1pBp1p/2p1pP2/4P3/1PqP4/P1PNK1PP/R1R5 b - - 5 19,now that the bishop is gone attack the pinned piece
+38,Bb5,a6b5,1r5r/p1knQ2p/1p1pBp1p/1bp1pP2/4P3/1PqP4/P1PNK1PP/R1R5 w - - 6 20,he guards it
+39,Nc4,d2c4,1r5r/p1knQ2p/1p1pBp1p/1bp1pP2/2N1P3/1PqP4/P1P1K1PP/R1R5 b - - 7 20,multiple threats. the only answer i see is qd4?? which results in c3!! and the black queen is lost.

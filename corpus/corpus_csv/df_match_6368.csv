@@ -1,0 +1,116 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I analyzed this game with Stockfish 1.8.0. 25 seconds per move. I'll also put my own comments.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/3p4/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+6,dxe5,d6e5,rnbqkbnr/ppp2ppp/8/4p3/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+7,Qxd8+,d1d8,rnbQkbnr/ppp2ppp/8/4p3/2P5/8/PP2PPPP/RNB1KBNR b KQkq - 0 4,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+8,Kxd8,e8d8,rnbk1bnr/ppp2ppp/8/4p3/2P5/8/PP2PPPP/RNB1KBNR w KQ - 0 5,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+9,Nc3,b1c3,rnbk1bnr/ppp2ppp/8/4p3/2P5/2N5/PP2PPPP/R1B1KBNR b KQ - 1 5,With only 4 moves played queens are already traded. With queens off board inability to castle is not a big problem.
+10,Bb4,f8b4,rnbk2nr/ppp2ppp/8/4p3/1bP5/2N5/PP2PPPP/R1B1KBNR w KQ - 2 6,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+11,Bg5+,c1g5,rnbk2nr/ppp2ppp/8/4p1B1/1bP5/2N5/PP2PPPP/R3KBNR b KQ - 3 6,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+12,f6,f7f6,rnbk2nr/ppp3pp/5p2/4p1B1/1bP5/2N5/PP2PPPP/R3KBNR w KQ - 0 7,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+13,Rd1+,a1d1,rnbk2nr/ppp3pp/5p2/4p1B1/1bP5/2N5/PP2PPPP/3RKBNR b K - 1 7,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+14,Bd7,c8d7,rn1k2nr/pppb2pp/5p2/4p1B1/1bP5/2N5/PP2PPPP/3RKBNR w K - 2 8,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+15,Bd2,g5d2,rn1k2nr/pppb2pp/5p2/4p3/1bP5/2N5/PP1BPPPP/3RKBNR b K - 3 8,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+16,Nc6,b8c6,r2k2nr/pppb2pp/2n2p2/4p3/1bP5/2N5/PP1BPPPP/3RKBNR w K - 4 9,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+17,e3,e2e3,r2k2nr/pppb2pp/2n2p2/4p3/1bP5/2N1P3/PP1B1PPP/3RKBNR b K - 0 9,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+18,Nge7,g8e7,r2k3r/pppbn1pp/2n2p2/4p3/1bP5/2N1P3/PP1B1PPP/3RKBNR w K - 1 10,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+19,Nf3,g1f3,r2k3r/pppbn1pp/2n2p2/4p3/1bP5/2N1PN2/PP1B1PPP/3RKB1R b K - 2 10,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+20,Nf5,e7f5,r2k3r/pppb2pp/2n2p2/4pn2/1bP5/2N1PN2/PP1B1PPP/3RKB1R w K - 3 11,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+21,a3,a2a3,r2k3r/pppb2pp/2n2p2/4pn2/1bP5/P1N1PN2/1P1B1PPP/3RKB1R b K - 0 11,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+22,Be7,b4e7,r2k3r/pppbb1pp/2n2p2/4pn2/2P5/P1N1PN2/1P1B1PPP/3RKB1R w K - 1 12,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.32 / +0.88
+( 11...Bxc3 12.Bxc3 Nd6 13.Nd2 a6 14.Bd3 Be8 15.Ne4 Ke7 16.Nxd6 cxd6 17.Be2 Bg6 18.Rd2 a5 19.O-O a4 20.Rd5 b6 21.Rc1 Rhb8 22.Rd2 Be4 = )
+
+I should have traded the pieces. Now my bishop is very passive."
+23,g4,g2g4,r2k3r/pppbb1pp/2n2p2/4pn2/2P3P1/P1N1PN2/1P1B1P1P/3RKB1R b K - 0 12,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.88 / +0.04
+( 12.b4 Be6 13.Bd3 a5 14.Bc1 Ke8 15.Nd5 axb4 16.Nxc7+ Kf7 17.Nxa8 Rxa8 18.axb4 Nxb4 19.Be4 Nd6 20.Bxh7 Bxc4 += )
+
+Missing the opportunity."
+24,Nd6,f5d6,r2k3r/pppbb1pp/2nn1p2/4p3/2P3P1/P1N1PN2/1P1B1P1P/3RKB1R w K - 1 13,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.12 / -0.64
+( 14.b4 h5 15.gxh5 e4 16.Nd4 Nxd4 17.exd4 a5 18.c5 Nf5 19.h6 gxh6 20.Bg2 axb4 21.axb4 Nxd4 22.cxb6 cxb6 23.Bxe4 Ra3 24.Nd5 = )
+
+This loses a pawn."
+25,h3,h2h3,r2k3r/pppbb1pp/2nn1p2/4p3/2P3P1/P1N1PN1P/1P1B1P2/3RKB1R b K - 0 13,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.12 / -0.64
+( 14.b4 h5 15.gxh5 e4 16.Nd4 Nxd4 17.exd4 a5 18.c5 Nf5 19.h6 gxh6 20.Bg2 axb4 21.axb4 Nxd4 22.cxb6 cxb6 23.Bxe4 Ra3 24.Nd5 = )
+
+This loses a pawn."
+26,b6,b7b6,r2k3r/p1pbb1pp/1pnn1p2/4p3/2P3P1/P1N1PN1P/1P1B1P2/3RKB1R w K - 0 14,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.12 / -0.64
+( 14.b4 h5 15.gxh5 e4 16.Nd4 Nxd4 17.exd4 a5 18.c5 Nf5 19.h6 gxh6 20.Bg2 axb4 21.axb4 Nxd4 22.cxb6 cxb6 23.Bxe4 Ra3 24.Nd5 = )
+
+This loses a pawn."
+27,Be2,f1e2,r2k3r/p1pbb1pp/1pnn1p2/4p3/2P3P1/P1N1PN1P/1P1BBP2/3RK2R b K - 1 14,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  +0.12 / -0.64
+( 14.b4 h5 15.gxh5 e4 16.Nd4 Nxd4 17.exd4 a5 18.c5 Nf5 19.h6 gxh6 20.Bg2 axb4 21.axb4 Nxd4 22.cxb6 cxb6 23.Bxe4 Ra3 24.Nd5 = )
+
+This loses a pawn."
+28,Na5,c6a5,r2k3r/p1pbb1pp/1p1n1p2/n3p3/2P3P1/P1N1PN1P/1P1BBP2/3RK2R w K - 2 15,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -0.76 / -1.61
+( 15.c5 bxc5 16.Nd5 Nb3 17.Bc3 Ne4 18.Nh4 Rb8 19.Bd3 Nxc3 20.bxc3 Bd6 21.Nf5 h5 22.Ke2 Be6 23.c4 hxg4 24.hxg4 Kd7 25.Rxh8 Rxh8 26.Be4 Na5 =+ )
+
+The pawn is already lost so white should have tried to double black pawns with c5"
+29,b4,b2b4,r2k3r/p1pbb1pp/1p1n1p2/n3p3/1PP3P1/P1N1PN1P/3BBP2/3RK2R b K - 0 15,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -0.76 / -1.61
+( 15.c5 bxc5 16.Nd5 Nb3 17.Bc3 Ne4 18.Nh4 Rb8 19.Bd3 Nxc3 20.bxc3 Bd6 21.Nf5 h5 22.Ke2 Be6 23.c4 hxg4 24.hxg4 Kd7 25.Rxh8 Rxh8 26.Be4 Na5 =+ )
+
+The pawn is already lost so white should have tried to double black pawns with c5"
+30,Naxc4,a5c4,r2k3r/p1pbb1pp/1p1n1p2/4p3/1Pn3P1/P1N1PN1P/3BBP2/3RK2R w K - 0 16,Giving black bishop pair and extra space. Bc1 gave white better chances but it is psychologically difficult move that looks passive at glance.
+31,Bxc4,e2c4,r2k3r/p1pbb1pp/1p1n1p2/4p3/1PB3P1/P1N1PN1P/3B1P2/3RK2R b K - 0 16,Giving black bishop pair and extra space. Bc1 gave white better chances but it is psychologically difficult move that looks passive at glance.
+32,Nxc4,d6c4,r2k3r/p1pbb1pp/1p3p2/4p3/1Pn3P1/P1N1PN1P/3B1P2/3RK2R w K - 0 17,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -2.50 / -3.51
+( 17.Bc1 a5 18.Nd5 axb4 19.axb4 Ra2 20.Nh4 c6 21.Nxe7 Kxe7 22.f4 Rha8 23.O-O c5 24.bxc5 bxc5 25.Rd5 Rc2 26.Rfd1 Nb6 27.R5d2 -/+ )
+
+Sub-optimal but white is already losing.
+
+Look at the board. There position is somewhat symmetrical. Black has bishops on e7 and d7, rooks on a8 and h8. White has knights on f3 and c3, rooks on a1 and h1, pawns on a3 and h3, b4 and g4."
+33,Ra1,d1a1,r2k3r/p1pbb1pp/1p3p2/4p3/1Pn3P1/P1N1PN1P/3B1P2/R3K2R b K - 1 17,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -2.50 / -3.51
+( 17.Bc1 a5 18.Nd5 axb4 19.axb4 Ra2 20.Nh4 c6 21.Nxe7 Kxe7 22.f4 Rha8 23.O-O c5 24.bxc5 bxc5 25.Rd5 Rc2 26.Rfd1 Nb6 27.R5d2 -/+ )
+
+Sub-optimal but white is already losing.
+
+Look at the board. There position is somewhat symmetrical. Black has bishops on e7 and d7, rooks on a8 and h8. White has knights on f3 and c3, rooks on a1 and h1, pawns on a3 and h3, b4 and g4."
+34,h5,h7h5,r2k3r/p1pbb1p1/1p3p2/4p2p/1Pn3P1/P1N1PN1P/3B1P2/R3K2R w K - 0 18,I considered two symmetrical moves: a5 and h5. At the end I decided to play h5 cause I felt I will always be able to play a5 later. Computer analysis shows that a5 was better.
+35,gxh5,g4h5,r2k3r/p1pbb1p1/1p3p2/4p2P/1Pn5/P1N1PN1P/3B1P2/R3K2R b K - 0 18,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -3.11 / -3.95
+( 18.g5 a5 19.gxf6 gxf6 20.Ke2 Be6 21.e4 Kd7 22.Nd5 Bxd5 23.exd5 Nxd2 24.Nxd2 axb4 25.axb4 Kd6 26.f3 Kxd5 27.b5 h4 28.Rac1 Bc5 29.Ne4 Ra2+ 30.Kd3 -+ )
+
+This is losing more quickly."
+36,Rxh5,h8h5,r2k4/p1pbb1p1/1p3p2/4p2r/1Pn5/P1N1PN1P/3B1P2/R3K2R w K - 0 19,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -3.91 / -5.05
+( 19.Nd5 Bd6 20.e4 Bg4 21.Ng1 a5 22.bxa5 Nxd2 23.Kxd2 Rxa5 24.Ne3 Be6 25.a4 Bd7 26.Ne2 Rxa4 27.Rxa4 Bxa4 28.h4 Bc6 29.Nd5 Bc5 30.f4 Kd7 31.fxe5 -+ )"
+37,h4,h3h4,r2k4/p1pbb1p1/1p3p2/4p2r/1Pn4P/P1N1PN2/3B1P2/R3K2R b K - 0 19,"Stockfish 1.8 JA 64bit: Analysis reports blunder, with score change from/to:  -3.91 / -5.05
+( 19.Nd5 Bd6 20.e4 Bg4 21.Ng1 a5 22.bxa5 Nxd2 23.Kxd2 Rxa5 24.Ne3 Be6 25.a4 Bd7 26.Ne2 Rxa4 27.Rxa4 Bxa4 28.h4 Bc6 29.Nd5 Bc5 30.f4 Kd7 31.fxe5 -+ )"
+38,Bg4,d7g4,r2k4/p1p1b1p1/1p3p2/4p2r/1Pn3bP/P1N1PN2/3B1P2/R3K2R w K - 1 20,A final blunder. Even if white plays optimally instead of this blunder heavy loses are unavoidable.
+39,Ke2,e1e2,r2k4/p1p1b1p1/1p3p2/4p2r/1Pn3bP/P1N1PN2/3BKP2/R6R b - - 2 20,A final blunder. Even if white plays optimally instead of this blunder heavy loses are unavoidable.
+40,Nxd2,c4d2,r2k4/p1p1b1p1/1p3p2/4p2r/1P4bP/P1N1PN2/3nKP2/R6R w - - 0 21,Winning a piece.

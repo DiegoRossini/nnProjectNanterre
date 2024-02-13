@@ -1,0 +1,101 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This game I am annotating on behalf of my team captain, Dynamic Dave. It is a 117 move marathon draw! Did either side miss a win? Please let us know!"
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Caro-Kann Defence
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,This is the advance variation. Other moves are playable.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,This is the advance variation. Other moves are playable.
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,This is the advance variation. Other moves are playable.
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,Black takes the chance to develop the bishop outside the pawn chain
+7,Nf3,g1f3,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 4,This is standard development for this variation.
+8,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,This is standard development for this variation.
+9,Be2,f1e2,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R b KQkq - 1 5,This is standard development for this variation.
+10,c5,c6c5,rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6,White has better development so tries to open up the position.
+11,Be3,c1e3,rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1QK2R b KQkq - 1 6,White has better development so tries to open up the position.
+12,cxd4,c5d4,rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/4BN2/PPP1BPPP/RN1QK2R w KQkq - 0 7,White has better development so tries to open up the position.
+13,Nxd4,f3d4,rn1qkbnr/pp3ppp/4p3/3pPb2/3N4/4B3/PPP1BPPP/RN1QK2R b KQkq - 0 7,White has better development so tries to open up the position.
+14,Ne7,g8e7,rn1qkb1r/pp2nppp/4p3/3pPb2/3N4/4B3/PPP1BPPP/RN1QK2R w KQkq - 1 8,"8.....Nd7 seems a departure from the opening databases. Nbc6, dxc4 or Bxb1 are the usual moves"
+15,c4,c2c4,rn1qkb1r/pp2nppp/4p3/3pPb2/2PN4/4B3/PP2BPPP/RN1QK2R b KQkq - 0 8,"8.....Nd7 seems a departure from the opening databases. Nbc6, dxc4 or Bxb1 are the usual moves"
+16,Nd7,b8d7,r2qkb1r/pp1nnppp/4p3/3pPb2/2PN4/4B3/PP2BPPP/RN1QK2R w KQkq - 1 9,"8.....Nd7 seems a departure from the opening databases. Nbc6, dxc4 or Bxb1 are the usual moves"
+17,cxd5,c4d5,r2qkb1r/pp1nnppp/4p3/3PPb2/3N4/4B3/PP2BPPP/RN1QK2R b KQkq - 0 9,Threatening the knight and the pg2
+18,Qa5+,d8a5,r3kb1r/pp1nnppp/4p3/q2PPb2/3N4/4B3/PP2BPPP/RN1QK2R w KQkq - 1 10,Threatening the knight and the pg2
+19,Bd2,e3d2,r3kb1r/pp1nnppp/4p3/q2PPb2/3N4/8/PP1BBPPP/RN1QK2R b KQkq - 2 10,Threatening the knight and the pg2
+20,Qxd5,a5d5,r3kb1r/pp1nnppp/4p3/3qPb2/3N4/8/PP1BBPPP/RN1QK2R w KQkq - 0 11,Threatening the knight and the pg2
+21,Nb5,d4b5,r3kb1r/pp1nnppp/4p3/1N1qPb2/8/8/PP1BBPPP/RN1QK2R b KQkq - 1 11,Threatening the fork on c7 and the check on d6
+22,Kd8,e8d8,r2k1b1r/pp1nnppp/4p3/1N1qPb2/8/8/PP1BBPPP/RN1QK2R w KQ - 2 12,Having lost the right to castle I would have thought white had an edge now
+23,O-O,e1g1,r2k1b1r/pp1nnppp/4p3/1N1qPb2/8/8/PP1BBPPP/RN1Q1RK1 b - - 3 12,Having lost the right to castle I would have thought white had an edge now
+24,Nc6,e7c6,r2k1b1r/pp1n1ppp/2n1p3/1N1qPb2/8/8/PP1BBPPP/RN1Q1RK1 w - - 4 13,"With the queens off, losing the right to castle is less important"
+25,Bc3,d2c3,r2k1b1r/pp1n1ppp/2n1p3/1N1qPb2/8/2B5/PP2BPPP/RN1Q1RK1 b - - 5 13,"With the queens off, losing the right to castle is less important"
+26,Ndxe5,d7e5,r2k1b1r/pp3ppp/2n1p3/1N1qnb2/8/2B5/PP2BPPP/RN1Q1RK1 w - - 0 14,"With the queens off, losing the right to castle is less important"
+27,Qxd5+,d1d5,r2k1b1r/pp3ppp/2n1p3/1N1Qnb2/8/2B5/PP2BPPP/RN3RK1 b - - 0 14,"With the queens off, losing the right to castle is less important"
+28,exd5,e6d5,r2k1b1r/pp3ppp/2n5/1N1pnb2/8/2B5/PP2BPPP/RN3RK1 w - - 0 15,"With the queens off, losing the right to castle is less important"
+29,Rd1,f1d1,r2k1b1r/pp3ppp/2n5/1N1pnb2/8/2B5/PP2BPPP/RN1R2K1 b - - 1 15,"With the queens off, losing the right to castle is less important"
+30,f6,f7f6,r2k1b1r/pp4pp/2n2p2/1N1pnb2/8/2B5/PP2BPPP/RN1R2K1 w - - 0 16,"With the queens off, losing the right to castle is less important"
+31,Rxd5+,d1d5,r2k1b1r/pp4pp/2n2p2/1N1Rnb2/8/2B5/PP2BPPP/RN4K1 b - - 0 16,I am not sure why white retreated here. Why not just N(b)-a3?
+32,Kc8,d8c8,r1k2b1r/pp4pp/2n2p2/1N1Rnb2/8/2B5/PP2BPPP/RN4K1 w - - 1 17,I am not sure why white retreated here. Why not just N(b)-a3?
+33,Rd1,d5d1,r1k2b1r/pp4pp/2n2p2/1N2nb2/8/2B5/PP2BPPP/RN1R2K1 b - - 2 17,I am not sure why white retreated here. Why not just N(b)-a3?
+34,Bc5,f8c5,r1k4r/pp4pp/2n2p2/1Nb1nb2/8/2B5/PP2BPPP/RN1R2K1 w - - 3 18,Particularly if you are going to return to the same square!
+35,Rd5,d1d5,r1k4r/pp4pp/2n2p2/1NbRnb2/8/2B5/PP2BPPP/RN4K1 b - - 4 18,Particularly if you are going to return to the same square!
+36,Be7,c5e7,r1k4r/pp2b1pp/2n2p2/1N1Rnb2/8/2B5/PP2BPPP/RN4K1 w - - 5 19,white has now lost a tempo
+37,Nb1a3,b1a3,r1k4r/pp2b1pp/2n2p2/1N1Rnb2/8/N1B5/PP2BPPP/R5K1 b - - 6 19,white has now lost a tempo
+38,Be6,f5e6,r1k4r/pp2b1pp/2n1bp2/1N1Rn3/8/N1B5/PP2BPPP/R5K1 w - - 7 20,white may still have a slight edge as the black rook doesn't have many prospects
+39,Rdd1,d5d1,r1k4r/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/R2R2K1 b - - 8 20,white may still have a slight edge as the black rook doesn't have many prospects
+40,Rd8,h8d8,r1kr4/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/R2R2K1 w - - 9 21,white may still have a slight edge as the black rook doesn't have many prospects
+41,Rxd8+,d1d8,r1kR4/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/R5K1 b - - 0 21,white may still have a slight edge as the black rook doesn't have many prospects
+42,Kxd8,c8d8,r2k4/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/R5K1 w - - 0 22,white may still have a slight edge as the black rook doesn't have many prospects
+43,Rd1+,a1d1,r2k4/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/3R2K1 b - - 1 22,white may still have a slight edge as the black rook doesn't have many prospects
+44,Kc8,d8c8,r1k5/pp2b1pp/2n1bp2/1N2n3/8/N1B5/PP2BPPP/3R2K1 w - - 2 23,white may still have a slight edge as the black rook doesn't have many prospects
+45,Nd6+,b5d6,r1k5/pp2b1pp/2nNbp2/4n3/8/N1B5/PP2BPPP/3R2K1 b - - 3 23,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+46,Bxd6,e7d6,r1k5/pp4pp/2nbbp2/4n3/8/N1B5/PP2BPPP/3R2K1 w - - 0 24,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+47,Rxd6,d1d6,r1k5/pp4pp/2nRbp2/4n3/8/N1B5/PP2BPPP/6K1 b - - 0 24,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+48,Bxa2,e6a2,r1k5/pp4pp/2nR1p2/4n3/8/N1B5/bP2BPPP/6K1 w - - 0 25,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+49,f4,f2f4,r1k5/pp4pp/2nR1p2/4n3/5P2/N1B5/bP2B1PP/6K1 b - - 0 25,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+50,Nf7,e5f7,r1k5/pp3npp/2nR1p2/8/5P2/N1B5/bP2B1PP/6K1 w - - 1 26,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+51,Rd3,d6d3,r1k5/pp3npp/2n2p2/8/5P2/N1BR4/bP2B1PP/6K1 b - - 2 26,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+52,Kc7,c8c7,r7/ppk2npp/2n2p2/8/5P2/N1BR4/bP2B1PP/6K1 w - - 3 27,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+53,Rg3,d3g3,r7/ppk2npp/2n2p2/8/5P2/N1B3R1/bP2B1PP/6K1 b - - 4 27,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+54,Rg8,a8g8,6r1/ppk2npp/2n2p2/8/5P2/N1B3R1/bP2B1PP/6K1 w - - 5 28,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+55,Bd3,e2d3,6r1/ppk2npp/2n2p2/8/5P2/N1BB2R1/bP4PP/6K1 b - - 6 28,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+56,g6,g7g6,6r1/ppk2n1p/2n2pp1/8/5P2/N1BB2R1/bP4PP/6K1 w - - 0 29,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+57,Rh3,g3h3,6r1/ppk2n1p/2n2pp1/8/5P2/N1BB3R/bP4PP/6K1 b - - 1 29,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+58,h5,h7h5,6r1/ppk2n2/2n2pp1/7p/5P2/N1BB3R/bP4PP/6K1 w - - 0 30,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+59,Bxf6,c3f6,6r1/ppk2n2/2n2Bp1/7p/5P2/N2B3R/bP4PP/6K1 b - - 0 30,and so material balance is again restored. The fact that white has a king side majority and black a queen side majority means there are some chances of one side winning
+60,Nb4,c6b4,6r1/ppk2n2/5Bp1/7p/1n3P2/N2B3R/bP4PP/6K1 w - - 1 31,"white has the two bishops, but only a minimal advantage"
+61,Bf1,d3f1,6r1/ppk2n2/5Bp1/7p/1n3P2/N6R/bP4PP/5BK1 b - - 2 31,"white has the two bishops, but only a minimal advantage"
+62,Be6,a2e6,6r1/ppk2n2/4bBp1/7p/1n3P2/N6R/1P4PP/5BK1 w - - 3 32,"white has the two bishops, but only a minimal advantage"
+63,Rc3+,h3c3,6r1/ppk2n2/4bBp1/7p/1n3P2/N1R5/1P4PP/5BK1 b - - 4 32,"white has the two bishops, but only a minimal advantage"
+64,Kb8,c7b8,1k4r1/pp3n2/4bBp1/7p/1n3P2/N1R5/1P4PP/5BK1 w - - 5 33,"white has the two bishops, but only a minimal advantage"
+65,Re3,c3e3,1k4r1/pp3n2/4bBp1/7p/1n3P2/N3R3/1P4PP/5BK1 b - - 6 33,"white has the two bishops, but only a minimal advantage"
+66,Bd5,e6d5,1k4r1/pp3n2/5Bp1/3b3p/1n3P2/N3R3/1P4PP/5BK1 w - - 7 34,"white has the two bishops, but only a minimal advantage"
+67,Bc3,f6c3,1k4r1/pp3n2/6p1/3b3p/1n3P2/N1B1R3/1P4PP/5BK1 b - - 8 34,"white has the two bishops, but only a minimal advantage"
+68,Nc6,b4c6,1k4r1/pp3n2/2n3p1/3b3p/5P2/N1B1R3/1P4PP/5BK1 w - - 9 35,"white has the two bishops, but only a minimal advantage"
+69,b4,b2b4,1k4r1/pp3n2/2n3p1/3b3p/1P3P2/N1B1R3/6PP/5BK1 b - - 0 35,"white has the two bishops, but only a minimal advantage"
+70,a6,a7a6,1k4r1/1p3n2/p1n3p1/3b3p/1P3P2/N1B1R3/6PP/5BK1 w - - 0 36,"white has the two bishops, but only a minimal advantage"
+71,b5,b4b5,1k4r1/1p3n2/p1n3p1/1P1b3p/5P2/N1B1R3/6PP/5BK1 b - - 0 36,"white has the two bishops, but only a minimal advantage"
+72,axb5,a6b5,1k4r1/1p3n2/2n3p1/1p1b3p/5P2/N1B1R3/6PP/5BK1 w - - 0 37,"white has the two bishops, but only a minimal advantage"
+73,Nxb5,a3b5,1k4r1/1p3n2/2n3p1/1N1b3p/5P2/2B1R3/6PP/5BK1 b - - 0 37,"white has the two bishops, but only a minimal advantage"
+74,Rc8,g8c8,1kr5/1p3n2/2n3p1/1N1b3p/5P2/2B1R3/6PP/5BK1 w - - 1 38,"white has the two bishops, but only a minimal advantage"
+75,Rg3,e3g3,1kr5/1p3n2/2n3p1/1N1b3p/5P2/2B3R1/6PP/5BK1 b - - 2 38,"white has the two bishops, but only a minimal advantage"
+76,Be4,d5e4,1kr5/1p3n2/2n3p1/1N5p/4bP2/2B3R1/6PP/5BK1 w - - 3 39,"white has the two bishops, but only a minimal advantage"
+77,Bc4,f1c4,1kr5/1p3n2/2n3p1/1N5p/2B1bP2/2B3R1/6PP/6K1 b - - 4 39,"white has the two bishops, but only a minimal advantage"
+78,Ncd8,c6d8,1krn4/1p3n2/6p1/1N5p/2B1bP2/2B3R1/6PP/6K1 w - - 5 40,"white has the two bishops, but only a minimal advantage"
+79,Na3,b5a3,1krn4/1p3n2/6p1/7p/2B1bP2/N1B3R1/6PP/6K1 b - - 6 40,I am not convince by 42. h4. It makes it even harder for white to generate a passed pawn on the king side.
+80,Rc6,c8c6,1k1n4/1p3n2/2r3p1/7p/2B1bP2/N1B3R1/6PP/6K1 w - - 7 41,I am not convince by 42. h4. It makes it even harder for white to generate a passed pawn on the king side.
+81,Re3,g3e3,1k1n4/1p3n2/2r3p1/7p/2B1bP2/N1B1R3/6PP/6K1 b - - 8 41,I am not convince by 42. h4. It makes it even harder for white to generate a passed pawn on the king side.
+82,Bf5,e4f5,1k1n4/1p3n2/2r3p1/5b1p/2B2P2/N1B1R3/6PP/6K1 w - - 9 42,I am not convince by 42. h4. It makes it even harder for white to generate a passed pawn on the king side.
+83,h4,h2h4,1k1n4/1p3n2/2r3p1/5b1p/2B2P1P/N1B1R3/6P1/6K1 b - - 0 42,I am not convince by 42. h4. It makes it even harder for white to generate a passed pawn on the king side.
+84,Nd6,f7d6,1k1n4/1p6/2rn2p1/5b1p/2B2P1P/N1B1R3/6P1/6K1 w - - 1 43,A draw could have been agreed here. The players show good fighting spirit playing on.
+85,Be5,c3e5,1k1n4/1p6/2rn2p1/4Bb1p/2B2P1P/N3R3/6P1/6K1 b - - 2 43,A draw could have been agreed here. The players show good fighting spirit playing on.
+86,Kc8,b8c8,2kn4/1p6/2rn2p1/4Bb1p/2B2P1P/N3R3/6P1/6K1 w - - 3 44,A draw could have been agreed here. The players show good fighting spirit playing on.
+87,Bf1,c4f1,2kn4/1p6/2rn2p1/4Bb1p/5P1P/N3R3/6P1/5BK1 b - - 4 44,A draw could have been agreed here. The players show good fighting spirit playing on.
+88,Nd8f7,d8f7,2k5/1p3n2/2rn2p1/4Bb1p/5P1P/N3R3/6P1/5BK1 w - - 5 45,A draw could have been agreed here. The players show good fighting spirit playing on.
+89,Bb2,e5b2,2k5/1p3n2/2rn2p1/5b1p/5P1P/N3R3/1B4P1/5BK1 b - - 6 45,A draw could have been agreed here. The players show good fighting spirit playing on.
+90,Rb6,c6b6,2k5/1p3n2/1r1n2p1/5b1p/5P1P/N3R3/1B4P1/5BK1 w - - 7 46,A draw could have been agreed here. The players show good fighting spirit playing on.
+91,Bc1,b2c1,2k5/1p3n2/1r1n2p1/5b1p/5P1P/N3R3/6P1/2B2BK1 b - - 8 46,A draw could have been agreed here. The players show good fighting spirit playing on.
+92,Bd7,f5d7,2k5/1p1b1n2/1r1n2p1/7p/5P1P/N3R3/6P1/2B2BK1 w - - 9 47,A draw could have been agreed here. The players show good fighting spirit playing on.
+93,Rf3,e3f3,2k5/1p1b1n2/1r1n2p1/7p/5P1P/N4R2/6P1/2B2BK1 b - - 10 47,A draw could have been agreed here. The players show good fighting spirit playing on.
+94,Nf5,d6f5,2k5/1p1b1n2/1r4p1/5n1p/5P1P/N4R2/6P1/2B2BK1 w - - 11 48,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+95,Rh3,f3h3,2k5/1p1b1n2/1r4p1/5n1p/5P1P/N6R/6P1/2B2BK1 b - - 12 48,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+96,Nf7d6,f7d6,2k5/1p1b4/1r1n2p1/5n1p/5P1P/N6R/6P1/2B2BK1 w - - 13 49,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+97,Bd2,c1d2,2k5/1p1b4/1r1n2p1/5n1p/5P1P/N6R/3B2P1/5BK1 b - - 14 49,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+98,Ne4,d6e4,2k5/1p1b4/1r4p1/5n1p/4nP1P/N6R/3B2P1/5BK1 w - - 15 50,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+99,Be1,d2e1,2k5/1p1b4/1r4p1/5n1p/4nP1P/N6R/6P1/4BBK1 b - - 16 50,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."
+100,Nfg3,f5g3,2k5/1p1b4/1r4p1/7p/4nP1P/N5nR/6P1/4BBK1 w - - 17 51,"It gets interesting around here. 50. Nfg3 discovered an attack on the Rh3 with the bishop. If 51. RxN, NxR 52. BxN then Rb3 attacks the Bg3 and Nh3, so white attacks the black rook first."

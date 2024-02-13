@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A loss of time, but the move is on the agenda anyway."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"A loss of time, but the move is on the agenda anyway."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"A loss of time, but the move is on the agenda anyway."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"A loss of time, but the move is on the agenda anyway."
+5,Nd2,b1d2,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPPNPPPP/R2QKBNR b KQkq - 3 3,"A loss of time, but the move is on the agenda anyway."
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/8/PPPNPPPP/R2QKBNR w KQkq - 4 4,"A loss of time, but the move is on the agenda anyway."
+7,h3,h2h3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/7P/PPPNPPP1/R2QKBNR b KQkq - 0 4,"A loss of time, but the move is on the agenda anyway."
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1B2/7P/PPPNPPP1/R2QKBNR w KQkq - 0 5,...transposing into the usual lines.
+9,g4,g2g4,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1BP1/7P/PPPNPP2/R2QKBNR b KQkq - 0 5,...transposing into the usual lines.
+10,Bg6,f5g6,rn1qkb1r/ppp2ppp/4pnb1/3p4/3P1BP1/7P/PPPNPP2/R2QKBNR w KQkq - 1 6,...transposing into the usual lines.
+11,Ngf3,g1f3,rn1qkb1r/ppp2ppp/4pnb1/3p4/3P1BP1/5N1P/PPPNPP2/R2QKB1R b KQkq - 2 6,...transposing into the usual lines.
+12,Bb4,f8b4,rn1qk2r/ppp2ppp/4pnb1/3p4/1b1P1BP1/5N1P/PPPNPP2/R2QKB1R w KQkq - 3 7,"This move allows to play h4, being g4 protected."
+13,c3,c2c3,rn1qk2r/ppp2ppp/4pnb1/3p4/1b1P1BP1/2P2N1P/PP1NPP2/R2QKB1R b KQkq - 0 7,"This move allows to play h4, being g4 protected."
+14,Bd6,b4d6,rn1qk2r/ppp2ppp/3bpnb1/3p4/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R w KQkq - 1 8,"This move allows to play h4, being g4 protected."
+15,Ne5,f3e5,rn1qk2r/ppp2ppp/3bpnb1/3pN3/3P1BP1/2P4P/PP1NPP2/R2QKB1R b KQkq - 2 8,"This move allows to play h4, being g4 protected."
+16,O-O,e8g8,rn1q1rk1/ppp2ppp/3bpnb1/3pN3/3P1BP1/2P4P/PP1NPP2/R2QKB1R w KQ - 3 9,"This move allows to play h4, being g4 protected."
+17,e3,e2e3,rn1q1rk1/ppp2ppp/3bpnb1/3pN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R b KQ - 0 9,"This move allows to play h4, being g4 protected."
+18,Ne4,f6e4,rn1q1rk1/ppp2ppp/3bp1b1/3pN3/3PnBP1/2P1P2P/PP1N1P2/R2QKB1R w KQ - 1 10,"Now black can play f6, but NxB will be good for me."
+19,h4,h3h4,rn1q1rk1/ppp2ppp/3bp1b1/3pN3/3PnBPP/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 10,Very important to block Qh4.
+20,Nxd2,e4d2,rn1q1rk1/ppp2ppp/3bp1b1/3pN3/3P1BPP/2P1P3/PP1n1P2/R2QKB1R w KQ - 0 11,"In many occasions, here I took with the K. I want to keep my Q on the white squares, to be able to get quickly in front of the opp. K. I didn't get a clear idea on which is better, but here I played conventionally..."
+21,Qxd2,d1d2,rn1q1rk1/ppp2ppp/3bp1b1/3pN3/3P1BPP/2P1P3/PP1Q1P2/R3KB1R b KQ - 0 11,"I gave up the attack on the b7 pawn. It is defendable, and I want to go for the K."
+22,Bxe5,d6e5,rn1q1rk1/ppp2ppp/4p1b1/3pb3/3P1BPP/2P1P3/PP1Q1P2/R3KB1R w KQ - 0 12,"I gave up the attack on the b7 pawn. It is defendable, and I want to go for the K."
+23,dxe5,d4e5,rn1q1rk1/ppp2ppp/4p1b1/3pP3/5BPP/2P1P3/PP1Q1P2/R3KB1R b KQ - 0 12,"I gave up the attack on the b7 pawn. It is defendable, and I want to go for the K."
+24,f5,f7f5,rn1q1rk1/ppp3pp/4p1b1/3pPp2/5BPP/2P1P3/PP1Q1P2/R3KB1R w KQ f6 0 13,"Here, the position was so ""yummy"" that I didn't choose the right continuation. Bg5 had to come FIRST."
+25,h5,h4h5,rn1q1rk1/ppp3pp/4p1b1/3pPp1P/5BP1/2P1P3/PP1Q1P2/R3KB1R b KQ - 0 13,"? Open the g column was very important. True he can take with the R, but there's no damage in it, since I can play then Bd6. I missed it in this game, and this was very costly."
+26,Be8,g6e8,rn1qbrk1/ppp3pp/4p3/3pPp1P/5BP1/2P1P3/PP1Q1P2/R3KB1R w KQ - 1 14,?? Throwing away the game.
+27,g5,g4g5,rn1qbrk1/ppp3pp/4p3/3pPpPP/5B2/2P1P3/PP1Q1P2/R3KB1R b KQ - 0 14,?? Throwing away the game.
+28,Bc6,e8c6,rn1q1rk1/ppp3pp/2b1p3/3pPpPP/5B2/2P1P3/PP1Q1P2/R3KB1R w KQ - 1 15,"Now, I realize too late that I will have to manage a way to avoid the pawn's chain to be formed in front of his K. I'll have to sac a piece. Now, the bad B move allows me to occupy this central square, one-step to the Kside, with no loss of tempo dued to Nc6 or c5. Fortunately, my opponent is not a proficient attacker!"
+29,Qd4,d2d4,rn1q1rk1/ppp3pp/2b1p3/3pPpPP/3Q1B2/2P1P3/PP3P2/R3KB1R b KQ - 2 15,"Now, I realize too late that I will have to manage a way to avoid the pawn's chain to be formed in front of his K. I'll have to sac a piece. Now, the bad B move allows me to occupy this central square, one-step to the Kside, with no loss of tempo dued to Nc6 or c5. Fortunately, my opponent is not a proficient attacker!"
+30,Nd7,b8d7,r2q1rk1/pppn2pp/2b1p3/3pPpPP/3Q1B2/2P1P3/PP3P2/R3KB1R w KQ - 3 16,"...the plan is Bh4-g6. A simple one, but the very one I can figure out!"
+31,Bg3,f4g3,r2q1rk1/pppn2pp/2b1p3/3pPpPP/3Q4/2P1P1B1/PP3P2/R3KB1R b KQ - 4 16,"...the plan is Bh4-g6. A simple one, but the very one I can figure out!"
+32,Qe8,d8e8,r3qrk1/pppn2pp/2b1p3/3pPpPP/3Q4/2P1P1B1/PP3P2/R3KB1R w KQ - 5 17,Bd6... but I have no way of forcing the opening of the white diagonal. I plan to sac it on h5!
+33,Be2,f1e2,r3qrk1/pppn2pp/2b1p3/3pPpPP/3Q4/2P1P1B1/PP2BP2/R3K2R b KQ - 6 17,Bd6... but I have no way of forcing the opening of the white diagonal. I plan to sac it on h5!
+34,b6,b7b6,r3qrk1/p1pn2pp/1pb1p3/3pPpPP/3Q4/2P1P1B1/PP2BP2/R3K2R w KQ - 0 18,"In order to create at least some pressure, I have to reinforce the h column. In order to do that, I have to move the Q, but I don't want him to take advantage of d5 and the discovered threaton Rh1, so..."
+35,h6,h5h6,r3qrk1/p1pn2pp/1pb1p2P/3pPpP1/3Q4/2P1P1B1/PP2BP2/R3K2R b KQ - 0 18,"In order to create at least some pressure, I have to reinforce the h column. In order to do that, I have to move the Q, but I don't want him to take advantage of d5 and the discovered threaton Rh1, so..."
+36,g6,g7g6,r3qrk1/p1pn3p/1pb1p1pP/3pPpP1/3Q4/2P1P1B1/PP2BP2/R3K2R w KQ - 0 19,"In order to create at least some pressure, I have to reinforce the h column. In order to do that, I have to move the Q, but I don't want him to take advantage of d5 and the discovered threaton Rh1, so..."
+37,Rh2,h1h2,r3qrk1/p1pn3p/1pb1p1pP/3pPpP1/3Q4/2P1P1B1/PP2BP1R/R3K3 b Q - 1 19,"He prepares c5, but my Q is ready to fly to the K side. But all the point is that I dont' have any break in, NOT EVEN with the B sac! And I overlooked that."
+38,Bb7,c6b7,r3qrk1/pbpn3p/1p2p1pP/3pPpP1/3Q4/2P1P1B1/PP2BP1R/R3K3 w Q - 2 20,"He prepares c5, but my Q is ready to fly to the K side. But all the point is that I dont' have any break in, NOT EVEN with the B sac! And I overlooked that."
+39,O-O-O,e1c1,r3qrk1/pbpn3p/1p2p1pP/3pPpP1/3Q4/2P1P1B1/PP2BP1R/2KR4 b - - 3 20,"I know I'm castling into his storm, but I had the idea I could break in somehow."
+40,c5,c7c5,r3qrk1/pb1n3p/1p2p1pP/2ppPpP1/3Q4/2P1P1B1/PP2BP1R/2KR4 w - - 0 21,"? Fortunately, my op is taking the slow way."
+41,Qh4,d4h4,r3qrk1/pb1n3p/1p2p1pP/2ppPpP1/7Q/2P1P1B1/PP2BP1R/2KR4 b - - 1 21,"? Fortunately, my op is taking the slow way."
+42,a6,a7a6,r3qrk1/1b1n3p/pp2p1pP/2ppPpP1/7Q/2P1P1B1/PP2BP1R/2KR4 w - - 0 22,"? Fortunately, my op is taking the slow way."
+43,Rdh1,d1h1,r3qrk1/1b1n3p/pp2p1pP/2ppPpP1/7Q/2P1P1B1/PP2BP1R/2K4R b - - 1 22,?? Forgetting about d4.
+44,b5,b6b5,r3qrk1/1b1n3p/p3p1pP/1pppPpP1/7Q/2P1P1B1/PP2BP1R/2K4R w - - 0 23,Forgetting about d4!
+45,Qf4,h4f4,r3qrk1/1b1n3p/p3p1pP/1pppPpP1/5Q2/2P1P1B1/PP2BP1R/2K4R b - - 1 23,"I realize that if I want to get something out from the lsb's sac, I have to protect it with the R, not the Q."

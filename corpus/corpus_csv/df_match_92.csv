@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,I've been experimenting with this pawn structure vs. the d4 c4 pawn center.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,I've been experimenting with this pawn structure vs. the d4 c4 pawn center.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I've been experimenting with this pawn structure vs. the d4 c4 pawn center.
+4,b6,b7b6,rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I've been experimenting with this pawn structure vs. the d4 c4 pawn center.
+5,e3,e2e3,rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,"I am guessing that White was trying to prevent Ne4, but I think moving the f pawn here compromises the K's safety slightly."
+6,Bb7,c8b7,rn1qkbnr/pbpp1ppp/1p2p3/8/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,"I am guessing that White was trying to prevent Ne4, but I think moving the f pawn here compromises the K's safety slightly."
+7,Bd2,c1d2,rn1qkbnr/pbpp1ppp/1p2p3/8/2PP4/4P3/PP1B1PPP/RN1QKBNR b KQkq - 2 4,"I am guessing that White was trying to prevent Ne4, but I think moving the f pawn here compromises the K's safety slightly."
+8,Nf6,g8f6,rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/4P3/PP1B1PPP/RN1QKBNR w KQkq - 3 5,"I am guessing that White was trying to prevent Ne4, but I think moving the f pawn here compromises the K's safety slightly."
+9,f3,f2f3,rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/4PP2/PP1B2PP/RN1QKBNR b KQkq - 0 5,"I am guessing that White was trying to prevent Ne4, but I think moving the f pawn here compromises the K's safety slightly."
+10,Be7,f8e7,rn1qk2r/pbppbppp/1p2pn2/8/2PP4/4PP2/PP1B2PP/RN1QKBNR w KQkq - 1 6,"This phalanx looks imposing, but it's important to support it with pieces.  It's also sometimes dangerous to open the center before you have castled."
+11,Nc3,b1c3,rn1qk2r/pbppbppp/1p2pn2/8/2PP4/2N1PP2/PP1B2PP/R2QKBNR b KQkq - 2 6,"This phalanx looks imposing, but it's important to support it with pieces.  It's also sometimes dangerous to open the center before you have castled."
+12,O-O,e8g8,rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N1PP2/PP1B2PP/R2QKBNR w KQ - 3 7,"This phalanx looks imposing, but it's important to support it with pieces.  It's also sometimes dangerous to open the center before you have castled."
+13,e4,e3e4,rn1q1rk1/pbppbppp/1p2pn2/8/2PPP3/2N2P2/PP1B2PP/R2QKBNR b KQ - 0 7,"This phalanx looks imposing, but it's important to support it with pieces.  It's also sometimes dangerous to open the center before you have castled."
+14,d5,d7d5,rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PPP3/2N2P2/PP1B2PP/R2QKBNR w KQ - 0 8,f4 opens the diagonal for Black's Bb7.
+15,e5,e4e5,rn1q1rk1/pbp1bppp/1p2pn2/3pP3/2PP4/2N2P2/PP1B2PP/R2QKBNR b KQ - 0 8,f4 opens the diagonal for Black's Bb7.
+16,Ne8,f6e8,rn1qnrk1/pbp1bppp/1p2p3/3pP3/2PP4/2N2P2/PP1B2PP/R2QKBNR w KQ - 1 9,f4 opens the diagonal for Black's Bb7.
+17,f4,f3f4,rn1qnrk1/pbp1bppp/1p2p3/3pP3/2PP1P2/2N5/PP1B2PP/R2QKBNR b KQ - 0 9,f4 opens the diagonal for Black's Bb7.
+18,dxc4,d5c4,rn1qnrk1/pbp1bppp/1p2p3/4P3/2pP1P2/2N5/PP1B2PP/R2QKBNR w KQ - 0 10,White cannot recapture or Bxg2 also wins the R.
+19,Nf3,g1f3,rn1qnrk1/pbp1bppp/1p2p3/4P3/2pP1P2/2N2N2/PP1B2PP/R2QKB1R b KQ - 1 10,Now the d4 pawn is loose.
+20,Nc6,b8c6,r2qnrk1/pbp1bppp/1pn1p3/4P3/2pP1P2/2N2N2/PP1B2PP/R2QKB1R w KQ - 2 11,Now the d4 pawn is loose.
+21,Bxc4,f1c4,r2qnrk1/pbp1bppp/1pn1p3/4P3/2BP1P2/2N2N2/PP1B2PP/R2QK2R b KQ - 0 11,Sneaking a pawn.
+22,Nxd4,c6d4,r2qnrk1/pbp1bppp/1p2p3/4P3/2Bn1P2/2N2N2/PP1B2PP/R2QK2R w KQ - 0 12,Sneaking a pawn.
+23,Nxd4,f3d4,r2qnrk1/pbp1bppp/1p2p3/4P3/2BN1P2/2N5/PP1B2PP/R2QK2R b KQ - 0 12,"Now White cannot castle Kingside, and the Bc4 and g2 are hanging."
+24,Qxd4,d8d4,r3nrk1/pbp1bppp/1p2p3/4P3/2Bq1P2/2N5/PP1B2PP/R2QK2R w KQ - 0 13,"Now White cannot castle Kingside, and the Bc4 and g2 are hanging."
+25,Bf1,c4f1,r3nrk1/pbp1bppp/1p2p3/4P3/3q1P2/2N5/PP1B2PP/R2QKB1R b KQ - 1 13,White has to un-develop and waste a tempo dealing with the hanging pieces.
+26,Bh4+,e7h4,r3nrk1/pbp2ppp/1p2p3/4P3/3q1P1b/2N5/PP1B2PP/R2QKB1R w KQ - 2 14,This opens the diagonal to the Rh1.
+27,g3,g2g3,r3nrk1/pbp2ppp/1p2p3/4P3/3q1P1b/2N3P1/PP1B3P/R2QKB1R b KQ - 0 14,This opens the diagonal to the Rh1.
+28,Bxg3+,h4g3,r3nrk1/pbp2ppp/1p2p3/4P3/3q1P2/2N3b1/PP1B3P/R2QKB1R w KQ - 0 15,"Now Black is up the exchange, plus a couple of pawns."
+29,hxg3,h2g3,r3nrk1/pbp2ppp/1p2p3/4P3/3q1P2/2N3P1/PP1B4/R2QKB1R b KQ - 0 15,"Now Black is up the exchange, plus a couple of pawns."
+30,Bxh1,b7h1,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/2N3P1/PP1B4/R2QKB1b w Q - 0 16,"Now Black is up the exchange, plus a couple of pawns."
+31,Qc2,d1c2,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/2N3P1/PPQB4/R3KB1b b Q - 1 16,White is hoping to castle Queenside.
+32,Bf3,h1f3,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/2N2bP1/PPQB4/R3KB2 w Q - 2 17,Preventing immediate castling.
+33,Ne2,c3e2,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/5bP1/PPQBN3/R3KB2 b Q - 3 17,This combination will gain another pawn and eventually prevent castling altogether.
+34,Bxe2,f3e2,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/6P1/PPQBb3/R3KB2 w Q - 0 18,This combination will gain another pawn and eventually prevent castling altogether.
+35,Bxe2,f1e2,r3nrk1/p1p2ppp/1p2p3/4P3/3q1P2/6P1/PPQBB3/R3K3 b Q - 0 18,This combination will gain another pawn and eventually prevent castling altogether.
+36,Qg1+,d4g1,r3nrk1/p1p2ppp/1p2p3/4P3/5P2/6P1/PPQBB3/R3K1q1 w Q - 1 19,This combination will gain another pawn and eventually prevent castling altogether.
+37,Bf1,e2f1,r3nrk1/p1p2ppp/1p2p3/4P3/5P2/6P1/PPQB4/R3KBq1 b Q - 2 19,Forced.
+38,Qxg3+,g1g3,r3nrk1/p1p2ppp/1p2p3/4P3/5P2/6q1/PPQB4/R3KB2 w Q - 0 20,Now the K has moved and is stuck in the center forever.
+39,Ke2,e1e2,r3nrk1/p1p2ppp/1p2p3/4P3/5P2/6q1/PPQBK3/R4B2 b - - 1 20,Now the K has moved and is stuck in the center forever.
+40,c5,c7c5,r3nrk1/p4ppp/1p2p3/2p1P3/5P2/6q1/PPQBK3/R4B2 w - - 0 21,"White offers a Q exchange.  With a significant material advantage and no real positional problems, I happily accept."
+41,Qd3,c2d3,r3nrk1/p4ppp/1p2p3/2p1P3/5P2/3Q2q1/PP1BK3/R4B2 b - - 1 21,"White offers a Q exchange.  With a significant material advantage and no real positional problems, I happily accept."
+42,Qxd3+,g3d3,r3nrk1/p4ppp/1p2p3/2p1P3/5P2/3q4/PP1BK3/R4B2 w - - 0 22,Getting my R on to the open file.
+43,Kxd3,e2d3,r3nrk1/p4ppp/1p2p3/2p1P3/5P2/3K4/PP1B4/R4B2 b - - 0 22,Getting my R on to the open file.
+44,Nc7,e8c7,r4rk1/p1n2ppp/1p2p3/2p1P3/5P2/3K4/PP1B4/R4B2 w - - 1 23,Getting my R on to the open file.
+45,Bg2,f1g2,r4rk1/p1n2ppp/1p2p3/2p1P3/5P2/3K4/PP1B2B1/R7 b - - 2 23,Getting my R on to the open file.
+46,Rad8+,a8d8,3r1rk1/p1n2ppp/1p2p3/2p1P3/5P2/3K4/PP1B2B1/R7 w - - 3 24,Getting my R on to the open file.
+47,Kc2,d3c2,3r1rk1/p1n2ppp/1p2p3/2p1P3/5P2/8/PPKB2B1/R7 b - - 4 24,"I'm not sure why the R came here, but White is probably hoping for some kind of Kingside attack."
+48,Nb5,c7b5,3r1rk1/p4ppp/1p2p3/1np1P3/5P2/8/PPKB2B1/R7 w - - 5 25,"I'm not sure why the R came here, but White is probably hoping for some kind of Kingside attack."
+49,Rg1,a1g1,3r1rk1/p4ppp/1p2p3/1np1P3/5P2/8/PPKB2B1/6R1 b - - 6 25,"I'm not sure why the R came here, but White is probably hoping for some kind of Kingside attack."
+50,Rd7,d8d7,5rk1/p2r1ppp/1p2p3/1np1P3/5P2/8/PPKB2B1/6R1 w - - 7 26,Doubling Rs.
+51,Be3,d2e3,5rk1/p2r1ppp/1p2p3/1np1P3/5P2/4B3/PPK3B1/6R1 b - - 8 26,Doubling Rs.
+52,Rfd8,f8d8,3r2k1/p2r1ppp/1p2p3/1np1P3/5P2/4B3/PPK3B1/6R1 w - - 9 27,Doubling Rs.

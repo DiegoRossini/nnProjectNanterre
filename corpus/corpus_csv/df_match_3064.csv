@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Pretty unusual. It should be bad, but in a way that only great masters can exploit."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Pretty unusual. It should be bad, but in a way that only great masters can exploit."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/3p4/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Pretty unusual. It should be bad, but in a way that only great masters can exploit."
+4,c6,c7c6,rnbqkbnr/pp2pppp/2pp4/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"Pretty unusual. It should be bad, but in a way that only great masters can exploit."
+5,c3,c2c3,rnbqkbnr/pp2pppp/2pp4/8/3P1B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 0 3,"As a rule, in my scheme, when black moves the c pawn, I have to move mine, so I can counter Qb6 with Qc2 or Qb3. Period. :-)"
+6,Qc7,d8c7,rnb1kbnr/ppq1pppp/2pp4/8/3P1B2/2P5/PP2PPPP/RN1QKBNR w KQkq - 1 4,"Strange movement, but it is seeking for an early e5 without fearing the queen's exchange. It makes sense."
+7,e4,e2e4,rnb1kbnr/ppq1pppp/2pp4/8/3PPB2/2P5/PP3PPP/RN1QKBNR b KQkq - 0 4,I overlooked Nf3 in order to contest the center. My mistake.
+8,e5,e7e5,rnb1kbnr/ppq2ppp/2pp4/4p3/3PPB2/2P5/PP3PPP/RN1QKBNR w KQkq - 0 5,"this way I thought that the pressure against e5 will compensate the bishop's inactivity. If black goes f6, it opens the way for a future Qh5+, once more conditions are met."
+9,dxe5,d4e5,rnb1kbnr/ppq2ppp/2pp4/4P3/4PB2/2P5/PP3PPP/RN1QKBNR b KQkq - 0 5,"this way I thought that the pressure against e5 will compensate the bishop's inactivity. If black goes f6, it opens the way for a future Qh5+, once more conditions are met."
+10,dxe5,d6e5,rnb1kbnr/ppq2ppp/2p5/4p3/4PB2/2P5/PP3PPP/RN1QKBNR w KQkq - 0 6,"this way I thought that the pressure against e5 will compensate the bishop's inactivity. If black goes f6, it opens the way for a future Qh5+, once more conditions are met."
+11,Bg3,f4g3,rnb1kbnr/ppq2ppp/2p5/4p3/4P3/2P3B1/PP3PPP/RN1QKBNR b KQkq - 1 6,"this way I thought that the pressure against e5 will compensate the bishop's inactivity. If black goes f6, it opens the way for a future Qh5+, once more conditions are met."
+12,h6,h7h6,rnb1kbnr/ppq2pp1/2p4p/4p3/4P3/2P3B1/PP3PPP/RN1QKBNR w KQkq - 0 7,"Useless move. Probably black is already thinking in a pawn's storm, but then why not h5?"
+13,Nf3,g1f3,rnb1kbnr/ppq2pp1/2p4p/4p3/4P3/2P2NB1/PP3PPP/RN1QKB1R b KQkq - 1 7,Attacking e5 and developing.
+14,Nd7,b8d7,r1b1kbnr/ppqn1pp1/2p4p/4p3/4P3/2P2NB1/PP3PPP/RN1QKB1R w KQkq - 2 8,"Defending e5, but blocking his own lsb."
+15,Bc4,f1c4,r1b1kbnr/ppqn1pp1/2p4p/4p3/2B1P3/2P2NB1/PP3PPP/RN1QK2R b KQkq - 3 8,Attacking f7.
+16,Ngf6,g8f6,r1b1kb1r/ppqn1pp1/2p2n1p/4p3/2B1P3/2P2NB1/PP3PPP/RN1QK2R w KQkq - 4 9,Attacking e4.
+17,Nbd2,b1d2,r1b1kb1r/ppqn1pp1/2p2n1p/4p3/2B1P3/2P2NB1/PP1N1PPP/R2QK2R b KQkq - 5 9,"Defending e4. I'm not blocking any bishop with this move, but it is to be acknowledged that if my dsb were in e3 I'll stay better."
+18,a5,a7a5,r1b1kb1r/1pqn1pp1/2p2n1p/p3p3/2B1P3/2P2NB1/PP1N1PPP/R2QK2R w KQkq - 0 10,"Well, the pawn's storm will be the other side."
+19,Qb3,d1b3,r1b1kb1r/1pqn1pp1/2p2n1p/p3p3/2B1P3/1QP2NB1/PP1N1PPP/R3K2R b KQkq - 1 10,"I calculated that if a4 was played, Bxf7+, Kd8, Qe6, but I was unsure about Nb6, then, attacking the queen. The escape is Qxe5, so it's all ok. But I overlooked the simple..."
+20,Nc5,d7c5,r1b1kb1r/1pq2pp1/2p2n1p/p1n1p3/2B1P3/1QP2NB1/PP1N1PPP/R3K2R w KQkq - 2 11,"A pity, possible because of my dsb not being in e3."
+21,Qc2,b3c2,r1b1kb1r/1pq2pp1/2p2n1p/p1n1p3/2B1P3/2P2NB1/PPQN1PPP/R3K2R b KQkq - 3 11,Sadly. And I have to cover e3 from the knight.
+22,Bd6,f8d6,r1b1k2r/1pq2pp1/2pb1n1p/p1n1p3/2B1P3/2P2NB1/PPQN1PPP/R3K2R w KQkq - 4 12,"Freeing the queen, developing for castling."
+23,O-O,e1g1,r1b1k2r/1pq2pp1/2pb1n1p/p1n1p3/2B1P3/2P2NB1/PPQN1PPP/R4RK1 b kq - 5 12,"No more risks. The game was slightly out of control, so better to be wise."
+24,b5,b7b5,r1b1k2r/2q2pp1/2pb1n1p/ppn1p3/2B1P3/2P2NB1/PPQN1PPP/R4RK1 w kq - 0 13,"Black attacks, by his own right. Well done."
+25,Be2,c4e2,r1b1k2r/2q2pp1/2pb1n1p/ppn1p3/4P3/2P2NB1/PPQNBPPP/R4RK1 b kq - 1 13,Zen retreat. Often a best stategy.
+26,Be6,c8e6,r3k2r/2q2pp1/2pbbn1p/ppn1p3/4P3/2P2NB1/PPQNBPPP/R4RK1 w kq - 2 14,"Occupying a good diagonal. Black is frankly better, but it is not easy to materialize his positional advantage."

@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Tarrasch
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Tarrasch
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Tarrasch
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Tarrasch
+5,Nd2,b1d2,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3,Tarrasch
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4,Moves into the closed game.
+7,e5,e4e5,rnbqkb1r/ppp2ppp/4pn2/3pP3/3P4/8/PPPN1PPP/R1BQKBNR b KQkq - 0 4,Moves into the closed game.
+8,Nfd7,f6d7,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 1 5,Moves into the closed game.
+9,Bd3,f1d3,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/3B4/PPPN1PPP/R1BQK1NR b KQkq - 2 5,Normal is Nc6 I had the idea of Nf3 Qb6 O-O sacrificing the d4 pawn for a powerful initiative.  cxd4 cxd4 Nxd4 Nxd4 Qxd4 Nf3.
+10,c5,c7c5,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/3B4/PPPN1PPP/R1BQK1NR w KQkq - 0 6,Normal is Nc6 I had the idea of Nf3 Qb6 O-O sacrificing the d4 pawn for a powerful initiative.  cxd4 cxd4 Nxd4 Nxd4 Qxd4 Nf3.
+11,c3,c2c3,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR b KQkq - 0 6,Normal is Nc6 I had the idea of Nf3 Qb6 O-O sacrificing the d4 pawn for a powerful initiative.  cxd4 cxd4 Nxd4 Nxd4 Qxd4 Nf3.
+12,Be7,f8e7,rnbqk2r/pp1nbppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 1 7,Normal is Nc6 I had the idea of Nf3 Qb6 O-O sacrificing the d4 pawn for a powerful initiative.  cxd4 cxd4 Nxd4 Nxd4 Qxd4 Nf3.
+13,Qg4,d1g4,rnbqk2r/pp1nbppp/4p3/2ppP3/3P2Q1/2PB4/PP1N1PPP/R1B1K1NR b KQkq - 2 7,Beginning piece development to the king side.
+14,O-O,e8g8,rnbq1rk1/pp1nbppp/4p3/2ppP3/3P2Q1/2PB4/PP1N1PPP/R1B1K1NR w KQ - 3 8,Adding support to d4 and allowing the knight to come to f4.
+15,Ne2,g1e2,rnbq1rk1/pp1nbppp/4p3/2ppP3/3P2Q1/2PB4/PP1NNPPP/R1B1K2R b KQ - 4 8,Adding support to d4 and allowing the knight to come to f4.
+16,cxd4,c5d4,rnbq1rk1/pp1nbppp/4p3/3pP3/3p2Q1/2PB4/PP1NNPPP/R1B1K2R w KQ - 0 9,!? better might have been f6 however this isn't a bad move seeing as white takes e.p. exf6 is bad for white.
+17,cxd4,c3d4,rnbq1rk1/pp1nbppp/4p3/3pP3/3P2Q1/3B4/PP1NNPPP/R1B1K2R b KQ - 0 9,!? better might have been f6 however this isn't a bad move seeing as white takes e.p. exf6 is bad for white.
+18,Nc6,b8c6,r1bq1rk1/pp1nbppp/2n1p3/3pP3/3P2Q1/3B4/PP1NNPPP/R1B1K2R w KQ - 1 10,!? better might have been f6 however this isn't a bad move seeing as white takes e.p. exf6 is bad for white.
+19,O-O,e1g1,r1bq1rk1/pp1nbppp/2n1p3/3pP3/3P2Q1/3B4/PP1NNPPP/R1B2RK1 b - - 2 10,!? better might have been f6 however this isn't a bad move seeing as white takes e.p. exf6 is bad for white.
+20,f5,f7f5,r1bq1rk1/pp1nb1pp/2n1p3/3pPp2/3P2Q1/3B4/PP1NNPPP/R1B2RK1 w - f6 0 11,!? better might have been f6 however this isn't a bad move seeing as white takes e.p. exf6 is bad for white.
+21,Qh5,g4h5,r1bq1rk1/pp1nb1pp/2n1p3/3pPp1Q/3P4/3B4/PP1NNPPP/R1B2RK1 b - - 1 11,I don't want to trade queens since black is cramped and I have better attack chances.
+22,Qe8,d8e8,r1b1qrk1/pp1nb1pp/2n1p3/3pPp1Q/3P4/3B4/PP1NNPPP/R1B2RK1 w - - 2 12,I don't want to trade queens since black is cramped and I have better attack chances.
+23,Qh3,h5h3,r1b1qrk1/pp1nb1pp/2n1p3/3pPp2/3P4/3B3Q/PP1NNPPP/R1B2RK1 b - - 3 12,Maintaining the bishops pressure on the diagonal.
+24,Nb4,c6b4,r1b1qrk1/pp1nb1pp/4p3/3pPp2/1n1P4/3B3Q/PP1NNPPP/R1B2RK1 w - - 4 13,Maintaining the bishops pressure on the diagonal.
+25,Bb1,d3b1,r1b1qrk1/pp1nb1pp/4p3/3pPp2/1n1P4/7Q/PP1NNPPP/RBB2RK1 b - - 5 13,Maintaining the bishops pressure on the diagonal.
+26,Nb6,d7b6,r1b1qrk1/pp2b1pp/1n2p3/3pPp2/1n1P4/7Q/PP1NNPPP/RBB2RK1 w - - 6 14,Kicking the knight back and freeing up my ls bishop.
+27,a3,a2a3,r1b1qrk1/pp2b1pp/1n2p3/3pPp2/1n1P4/P6Q/1P1NNPPP/RBB2RK1 b - - 0 14,Kicking the knight back and freeing up my ls bishop.
+28,Nc6,b4c6,r1b1qrk1/pp2b1pp/1nn1p3/3pPp2/3P4/P6Q/1P1NNPPP/RBB2RK1 w - - 1 15,My plan is to play g4 at some point so I'm opening the g1 square for my rook.
+29,Kh1,g1h1,r1b1qrk1/pp2b1pp/1nn1p3/3pPp2/3P4/P6Q/1P1NNPPP/RBB2R1K b - - 2 15,My plan is to play g4 at some point so I'm opening the g1 square for my rook.
+30,g6,g7g6,r1b1qrk1/pp2b2p/1nn1p1p1/3pPp2/3P4/P6Q/1P1NNPPP/RBB2R1K w - - 0 16,?! weakens blacks dark squares significantly around his king.
+31,Nf3,d2f3,r1b1qrk1/pp2b2p/1nn1p1p1/3pPp2/3P4/P4N1Q/1P2NPPP/RBB2R1K b - - 1 16,?! This doesn't really do anything for white g4 I believe puts more pressure on blacks game.
+32,Qd8,e8d8,r1bq1rk1/pp2b2p/1nn1p1p1/3pPp2/3P4/P4N1Q/1P2NPPP/RBB2R1K w - - 2 17,?! This doesn't really do anything for white g4 I believe puts more pressure on blacks game.
+33,Qh6,h3h6,r1bq1rk1/pp2b2p/1nn1p1pQ/3pPp2/3P4/P4N2/1P2NPPP/RBB2R1K b - - 3 17,?! This doesn't really do anything for white g4 I believe puts more pressure on blacks game.
+34,Rf7,f8f7,r1bq2k1/pp2br1p/1nn1p1pQ/3pPp2/3P4/P4N2/1P2NPPP/RBB2R1K w - - 4 18,Creating the possibility of a knight sac on g6 and putting pressure on e6.
+35,Nf4,e2f4,r1bq2k1/pp2br1p/1nn1p1pQ/3pPp2/3P1N2/P4N2/1P3PPP/RBB2R1K b - - 5 18,Creating the possibility of a knight sac on g6 and putting pressure on e6.
+36,Bf8,e7f8,r1bq1bk1/pp3r1p/1nn1p1pQ/3pPp2/3P1N2/P4N2/1P3PPP/RBB2R1K w - - 6 19,Trying to create queen side play.
+37,Qh3,h6h3,r1bq1bk1/pp3r1p/1nn1p1p1/3pPp2/3P1N2/P4N1Q/1P3PPP/RBB2R1K b - - 7 19,Trying to create queen side play.
+38,Qc7,d8c7,r1b2bk1/ppq2r1p/1nn1p1p1/3pPp2/3P1N2/P4N1Q/1P3PPP/RBB2R1K w - - 8 20,Trying to create queen side play.
+39,g4,g2g4,r1b2bk1/ppq2r1p/1nn1p1p1/3pPp2/3P1NP1/P4N1Q/1P3P1P/RBB2R1K b - - 0 20,! pressures e6 and defends against blacks threat of Nb3.
+40,Na5,c6a5,r1b2bk1/ppq2r1p/1n2p1p1/n2pPp2/3P1NP1/P4N1Q/1P3P1P/RBB2R1K w - - 1 21,! pressures e6 and defends against blacks threat of Nb3.
+41,Ng5,f3g5,r1b2bk1/ppq2r1p/1n2p1p1/n2pPpN1/3P1NP1/P6Q/1P3P1P/RBB2R1K b - - 2 21,! pressures e6 and defends against blacks threat of Nb3.
+42,Re7,f7e7,r1b2bk1/ppq1r2p/1n2p1p1/n2pPpN1/3P1NP1/P6Q/1P3P1P/RBB2R1K w - - 3 22,Creates a target :).
+43,Bd2,c1d2,r1b2bk1/ppq1r2p/1n2p1p1/n2pPpN1/3P1NP1/P6Q/1P1B1P1P/RB3R1K b - - 4 22,knight must move
+44,Nac4,a5c4,r1b2bk1/ppq1r2p/1n2p1p1/3pPpN1/2nP1NP1/P6Q/1P1B1P1P/RB3R1K w - - 5 23,? Nc6 was the move.  Bb4 is devastating.
+45,Bb4,d2b4,r1b2bk1/ppq1r2p/1n2p1p1/3pPpN1/1BnP1NP1/P6Q/1P3P1P/RB3R1K b - - 6 23,?? loses big material Bxe8 is devastating to bad I missed it :(.
+46,Rg7,e7g7,r1b2bk1/ppq3rp/1n2p1p1/3pPpN1/1BnP1NP1/P6Q/1P3P1P/RB3R1K w - - 7 24,?? loses big material Bxe8 is devastating to bad I missed it :(.
+47,Nfxe6,f4e6,r1b2bk1/ppq3rp/1n2N1p1/3pPpN1/1BnP2P1/P6Q/1P3P1P/RB3R1K b - - 0 24,I saw the fork but missed that Bxf8 would put the king in the fork :/.

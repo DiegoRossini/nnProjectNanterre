@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Here it goes.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,More often played is nxd4.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,More often played is nxd4.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,More often played is nxd4.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,More often played is nxd4.
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,More often played is nxd4.
+7,Qxd4,d1d4,rnbqkbnr/ppp2ppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4,More often played is nxd4.
+8,c5,c7c5,rnbqkbnr/pp3ppp/3p4/2p5/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq - 0 5,Inaccurate.
+9,Bb5+,f1b5,rnbqkbnr/pp3ppp/3p4/1Bp5/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 1 5,Inaccurate.
+10,Bd7,c8d7,rn1qkbnr/pp1b1ppp/3p4/1Bp5/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 2 6,Inaccurate.
+11,Bxd7+,b5d7,rn1qkbnr/pp1B1ppp/3p4/2p5/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 0 6,Inaccurate.
+12,Qxd7,d8d7,rn2kbnr/pp1q1ppp/3p4/2p5/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 0 7,Inaccurate.
+13,Qd3,d4d3,rn2kbnr/pp1q1ppp/3p4/2p5/4P3/3Q1N2/PPP2PPP/RNB1K2R b KQkq - 1 7,Inaccurate.
+14,Be7,f8e7,rn2k1nr/pp1qbppp/3p4/2p5/4P3/3Q1N2/PPP2PPP/RNB1K2R w KQkq - 2 8,Inaccurate.
+15,Nc3,b1c3,rn2k1nr/pp1qbppp/3p4/2p5/4P3/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 3 8,Inaccurate.
+16,Nf6,g8f6,rn2k2r/pp1qbppp/3p1n2/2p5/4P3/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 4 9,Inaccurate.
+17,e5,e4e5,rn2k2r/pp1qbppp/3p1n2/2p1P3/8/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 0 9,Inaccurate.
+18,dxe5,d6e5,rn2k2r/pp1qbppp/5n2/2p1p3/8/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 0 10,He should have played Qe6 pinning and putting pressure on the knight.
+19,Nxe5,f3e5,rn2k2r/pp1qbppp/5n2/2p1N3/8/2NQ4/PPP2PPP/R1B1K2R b KQkq - 0 10,He should have played Qe6 pinning and putting pressure on the knight.
+20,Qxd3,d7d3,rn2k2r/pp2bppp/5n2/2p1N3/8/2Nq4/PPP2PPP/R1B1K2R w KQkq - 0 11,He should have played Qe6 pinning and putting pressure on the knight.
+21,Nxd3,e5d3,rn2k2r/pp2bppp/5n2/2p5/8/2NN4/PPP2PPP/R1B1K2R b KQkq - 0 11,? Simply drops a pawn.
+22,O-O,e8g8,rn3rk1/pp2bppp/5n2/2p5/8/2NN4/PPP2PPP/R1B1K2R w KQ - 1 12,? Simply drops a pawn.
+23,O-O,e1g1,rn3rk1/pp2bppp/5n2/2p5/8/2NN4/PPP2PPP/R1B2RK1 b - - 2 12,? Simply drops a pawn.
+24,c4,c5c4,rn3rk1/pp2bppp/5n2/8/2p5/2NN4/PPP2PPP/R1B2RK1 w - - 0 13,? Simply drops a pawn.
+25,Ne5,d3e5,rn3rk1/pp2bppp/5n2/4N3/2p5/2N5/PPP2PPP/R1B2RK1 b - - 1 13,? Simply drops a pawn.
+26,Rc8,f8c8,rnr3k1/pp2bppp/5n2/4N3/2p5/2N5/PPP2PPP/R1B2RK1 w - - 2 14,? Simply drops a pawn.
+27,Rd1,f1d1,rnr3k1/pp2bppp/5n2/4N3/2p5/2N5/PPP2PPP/R1BR2K1 b - - 3 14,? Simply drops a pawn.
+28,b5,b7b5,rnr3k1/p3bppp/5n2/1p2N3/2p5/2N5/PPP2PPP/R1BR2K1 w - - 0 15,? Simply drops a pawn.
+29,Nxb5,c3b5,rnr3k1/p3bppp/5n2/1N2N3/2p5/8/PPP2PPP/R1BR2K1 b - - 0 15,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+30,a6,a7a6,rnr3k1/4bppp/p4n2/1N2N3/2p5/8/PPP2PPP/R1BR2K1 w - - 0 16,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+31,Nd4,b5d4,rnr3k1/4bppp/p4n2/4N3/2pN4/8/PPP2PPP/R1BR2K1 b - - 1 16,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+32,c3,c4c3,rnr3k1/4bppp/p4n2/4N3/3N4/2p5/PPP2PPP/R1BR2K1 w - - 0 17,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+33,Nf5,d4f5,rnr3k1/4bppp/p4n2/4NN2/8/2p5/PPP2PPP/R1BR2K1 b - - 1 17,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+34,Ra7,a8a7,1nr3k1/r3bppp/p4n2/4NN2/8/2p5/PPP2PPP/R1BR2K1 w - - 2 18,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."
+35,Nd7,e5d7,1nr3k1/r2Nbppp/p4n2/5N2/8/2p5/PPP2PPP/R1BR2K1 b - - 3 18,"He resigned here, but I don't think he should have. The point is 18...eitherNxd7 19. Nxe7+. If 18...Rxd7 19. Rxd7 eitherNxd7 20. Nxe7+. However, their are other moves and he doesn't have to take it. If any one feels he should resign this position let me know. I think that the point of this annotation is to tell people not to stop at one or two moves. Really analyze if you feel you are lost."

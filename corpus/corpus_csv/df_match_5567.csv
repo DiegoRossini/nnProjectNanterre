@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Philidor's Defense. 
+This move isn't exactly bad, but I don't recommend it unless you know exactly what you're doing. Black would be better off defending the pawn while developing a piece (…Nc6, …Nf6)."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Philidor's Defense. 
+This move isn't exactly bad, but I don't recommend it unless you know exactly what you're doing. Black would be better off defending the pawn while developing a piece (…Nc6, …Nf6)."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Philidor's Defense. 
+This move isn't exactly bad, but I don't recommend it unless you know exactly what you're doing. Black would be better off defending the pawn while developing a piece (…Nc6, …Nf6)."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Philidor's Defense. 
+This move isn't exactly bad, but I don't recommend it unless you know exactly what you're doing. Black would be better off defending the pawn while developing a piece (…Nc6, …Nf6)."
+5,h3,h2h3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N1P/PPPP1PP1/RNBQKB1R b KQkq - 0 3,? Way too slow. White also should be developing his pieces.
+6,c5,c7c5,rnbqkbnr/pp3ppp/3p4/2p1p3/4P3/5N1P/PPPP1PP1/RNBQKB1R w KQkq - 0 4,"!? Interesting. This grabs a big share of the center, but again I think Black would be better off developing pieces."
+7,c3,c2c3,rnbqkbnr/pp3ppp/3p4/2p1p3/4P3/2P2N1P/PP1P1PP1/RNBQKB1R b KQkq - 0 4,! A good plan: preparing to blow the center open.
+8,Bd7,c8d7,rn1qkbnr/pp1b1ppp/3p4/2p1p3/4P3/2P2N1P/PP1P1PP1/RNBQKB1R w KQkq - 1 5,"?! Black now develops a piece, but not the right one or to the right square. …Nf6 would be more to the point: it gets Black one step closer to castling and attacks the e-pawn. Also, the LSB (Light-Squared Bishop) is better placed on e6, not d7. Development is good, but should be planned out and not done randomly."
+9,d4,d2d4,rn1qkbnr/pp1b1ppp/3p4/2p1p3/3PP3/2P2N1P/PP3PP1/RNBQKB1R b KQkq - 0 5,"! Again, White has exactly the right idea: to open the center and then punish Black's slow development. White's pieces will be able to develop rapidly once the Black pawns are weakened."
+10,Nc6,b8c6,r2qkbnr/pp1b1ppp/2np4/2p1p3/3PP3/2P2N1P/PP3PP1/RNBQKB1R w KQkq - 1 6,"Good, now Black is catching up. …Nf6 is still better for the reasons stated in Black's last move."
+11,Ng5,f3g5,r2qkbnr/pp1b1ppp/2np4/2p1p1N1/3PP3/2P4P/PP3PP1/RNBQKB1R b KQkq - 2 6,? Too much! White cannot attack with just one Knight. Bc4 was just crying out to be played.
+12,Nf6,g8f6,r2qkb1r/pp1b1ppp/2np1n2/2p1p1N1/3PP3/2P4P/PP3PP1/RNBQKB1R w KQkq - 3 7,"? This developing move is too late. …Be7 is better, attacking the Knight and leaving the defensive move …Nh6 open."
+13,Nxf7,g5f7,r2qkb1r/pp1b1Npp/2np1n2/2p1p3/3PP3/2P4P/PP3PP1/RNBQKB1R b KQkq - 0 7,"?? This is the logical follow-up to White's play, but it just loses a piece. Again, you can't attack with just one piece! Bc4 was again obvious, natural and good. Black would have no good way to defend the f-pawn."
+14,Kxf7,e8f7,r2q1b1r/pp1b1kpp/2np1n2/2p1p3/3PP3/2P4P/PP3PP1/RNBQKB1R w KQ - 0 8,Now this move comes… two moves too late.
+15,Bc4+,f1c4,r2q1b1r/pp1b1kpp/2np1n2/2p1p3/2BPP3/2P4P/PP3PP1/RNBQK2R b KQ - 1 8,Now this move comes… two moves too late.
+16,Ke8,f7e8,r2qkb1r/pp1b2pp/2np1n2/2p1p3/2BPP3/2P4P/PP3PP1/RNBQK2R w KQ - 2 9,Where is White's attack? Black has the extra material AND the lead in development.
+17,Qb3,d1b3,r2qkb1r/pp1b2pp/2np1n2/2p1p3/2BPP3/1QP4P/PP3PP1/RNB1K2R b KQ - 3 9,Where is White's attack? Black has the extra material AND the lead in development.
+18,exd4,e5d4,r2qkb1r/pp1b2pp/2np1n2/2p5/2BpP3/1QP4P/PP3PP1/RNB1K2R w KQ - 0 10,"! Good, clearing some tension in the center to reduce complications."
+19,Bf7+,c4f7,r2qkb1r/pp1b1Bpp/2np1n2/2p5/3pP3/1QP4P/PP3PP1/RNB1K2R b KQ - 1 10,?! Pointless checks are pointless.
+20,Ke7,e8e7,r2q1b1r/pp1bkBpp/2np1n2/2p5/3pP3/1QP4P/PP3PP1/RNB1K2R w KQ - 2 11,Finally getting some more pieces involved.
+21,Bg5,c1g5,r2q1b1r/pp1bkBpp/2np1n2/2p3B1/3pP3/1QP4P/PP3PP1/RN2K2R b KQ - 3 11,Finally getting some more pieces involved.
+22,h6,h7h6,r2q1b1r/pp1bkBp1/2np1n1p/2p3B1/3pP3/1QP4P/PP3PP1/RN2K2R w KQ - 0 12,With a cheapo threat.
+23,Bxf6+,g5f6,r2q1b1r/pp1bkBp1/2np1B1p/2p5/3pP3/1QP4P/PP3PP1/RN2K2R b KQ - 0 12,With a cheapo threat.
+24,gxf6,g7f6,r2q1b1r/pp1bkB2/2np1p1p/2p5/3pP3/1QP4P/PP3PP1/RN2K2R w KQ - 0 13,With a cheapo threat.
+25,Bg8,f7g8,r2q1bBr/pp1bk3/2np1p1p/2p5/3pP3/1QP4P/PP3PP1/RN2K2R b KQ - 1 13,With a cheapo threat.
+26,Ne5,c6e5,r2q1bBr/pp1bk3/3p1p1p/2p1n3/3pP3/1QP4P/PP3PP1/RN2K2R w KQ - 2 14,"!? A very tricky way to defend, giving back a single pawn to exchange off White's last aggressive piece. Good eye!"
+27,cxd4,c3d4,r2q1bBr/pp1bk3/3p1p1p/2p1n3/3PP3/1Q5P/PP3PP1/RN2K2R b KQ - 0 14,! Forcing exchanges.
+28,c4,c5c4,r2q1bBr/pp1bk3/3p1p1p/4n3/2pPP3/1Q5P/PP3PP1/RN2K2R w KQ - 0 15,! Forcing exchanges.
+29,Bxc4,g8c4,r2q1b1r/pp1bk3/3p1p1p/4n3/2BPP3/1Q5P/PP3PP1/RN2K2R b KQ - 0 15,Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.
+30,Nxc4,e5c4,r2q1b1r/pp1bk3/3p1p1p/8/2nPP3/1Q5P/PP3PP1/RN2K2R w KQ - 0 16,Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.
+31,Qxc4,b3c4,r2q1b1r/pp1bk3/3p1p1p/8/2QPP3/7P/PP3PP1/RN2K2R b KQ - 0 16,Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.
+32,Rc8,a8c8,2rq1b1r/pp1bk3/3p1p1p/8/2QPP3/7P/PP3PP1/RN2K2R w KQ - 1 17,Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.
+33,Qe2,c4e2,2rq1b1r/pp1bk3/3p1p1p/8/3PP3/7P/PP2QPP1/RN2K2R b KQ - 2 17,Now it is Black who attacks. I like how you didn't get stuck in defensive mode and seized your chance to end it quickly.
+34,Rc1+,c8c1,3q1b1r/pp1bk3/3p1p1p/8/3PP3/7P/PP2QPP1/RNr1K2R w KQ - 3 18,! Things don't look good for White…

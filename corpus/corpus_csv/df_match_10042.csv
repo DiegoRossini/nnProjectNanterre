@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King Pawn Opening to B12 Caro-Kann Advance Variation. Played against Excalibur Deluxe Talking Chess, Level 3."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Caro-Kann
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Standard is Nc3, but I wanted to try an idea using the Bishop."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Standard is Nc3, but I wanted to try an idea using the Bishop."
+5,Bd3,f1d3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 3,"Standard is Nc3, but I wanted to try an idea using the Bishop."
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 4,Perhaps e6 looks better. The knight can be displaced by e4-e5 costing tempo.
+7,e5,e4e5,rnbqkb1r/pp2pppp/2p2n2/3pP3/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 0 4,A blunder because the knight will be trapped.
+8,Ne4,f6e4,rnbqkb1r/pp2pppp/2p5/3pP3/3Pn3/3B4/PPP2PPP/RNBQK1NR w KQkq - 1 5,A blunder because the knight will be trapped.
+9,f3,f2f3,rnbqkb1r/pp2pppp/2p5/3pP3/3Pn3/3B1P2/PPP3PP/RNBQK1NR b KQkq - 0 5,Maybe the best idea for trying to compensate for the blunder 4...Ne4 by siezing control of the center after 6.fxe4 fxe4.
+10,f5,f7f5,rnbqkb1r/pp2p1pp/2p5/3pPp2/3Pn3/3B1P2/PPP3PP/RNBQK1NR w KQkq f6 0 6,Maybe the best idea for trying to compensate for the blunder 4...Ne4 by siezing control of the center after 6.fxe4 fxe4.
+11,fxe4,f3e4,rnbqkb1r/pp2p1pp/2p5/3pPp2/3PP3/3B4/PPP3PP/RNBQK1NR b KQkq - 0 6,"Trying for the best development of the Q bishop, perhaps hinting of castling to that side."
+12,fxe4,f5e4,rnbqkb1r/pp2p1pp/2p5/3pP3/3Pp3/3B4/PPP3PP/RNBQK1NR w KQkq - 0 7,"Trying for the best development of the Q bishop, perhaps hinting of castling to that side."
+13,Be2,d3e2,rnbqkb1r/pp2p1pp/2p5/3pP3/3Pp3/8/PPP1B1PP/RNBQK1NR b KQkq - 1 7,"Trying for the best development of the Q bishop, perhaps hinting of castling to that side."
+14,Bf5,c8f5,rn1qkb1r/pp2p1pp/2p5/3pPb2/3Pp3/8/PPP1B1PP/RNBQK1NR w KQkq - 2 8,"Trying for the best development of the Q bishop, perhaps hinting of castling to that side."
+15,Bg4,e2g4,rn1qkb1r/pp2p1pp/2p5/3pPb2/3Pp1B1/8/PPP3PP/RNBQK1NR b KQkq - 3 8,"With the idea of exchanging bishops with white influencing the c8-h3 diagonal, and watching g7, by the Queen."
+16,Bxg4,f5g4,rn1qkb1r/pp2p1pp/2p5/3pP3/3Pp1b1/8/PPP3PP/RNBQK1NR w KQkq - 0 9,Wedging black by blockading the e7 pawn on its home square to restrict black.
+17,Qxg4,d1g4,rn1qkb1r/pp2p1pp/2p5/3pP3/3Pp1Q1/8/PPP3PP/RNB1K1NR b KQkq - 0 9,Wedging black by blockading the e7 pawn on its home square to restrict black.
+18,Nd7,b8d7,r2qkb1r/pp1np1pp/2p5/3pP3/3Pp1Q1/8/PPP3PP/RNB1K1NR w KQkq - 1 10,Wedging black by blockading the e7 pawn on its home square to restrict black.
+19,e6,e5e6,r2qkb1r/pp1np1pp/2p1P3/3p4/3Pp1Q1/8/PPP3PP/RNB1K1NR b KQkq - 0 10,Wedging black by blockading the e7 pawn on its home square to restrict black.
+20,Nf6,d7f6,r2qkb1r/pp2p1pp/2p1Pn2/3p4/3Pp1Q1/8/PPP3PP/RNB1K1NR w KQkq - 1 11,A blunt attack on the Queen that offers no real gains.
+21,Qh3,g4h3,r2qkb1r/pp2p1pp/2p1Pn2/3p4/3Pp3/7Q/PPP3PP/RNB1K1NR b KQkq - 2 11,Keeping contact with e6.
+22,Qc7,d8c7,r3kb1r/ppq1p1pp/2p1Pn2/3p4/3Pp3/7Q/PPP3PP/RNB1K1NR w KQkq - 3 12,Developing for castling. There is 11...Qa5 for an option with 12.Nc3 a response. It isn't much of an alternate move because there is a lack of pieces to join in an attack queenside. The influence of the pawn wedge on the f8 bishop and lack of mobility for the f6 knight can be observed.
+23,g4,g2g4,r3kb1r/ppq1p1pp/2p1Pn2/3p4/3Pp1P1/7Q/PPP4P/RNB1K1NR b KQkq - 0 12,Taking space and threatening the knight.
+24,O-O-O,e8c8,2kr1b1r/ppq1p1pp/2p1Pn2/3p4/3Pp1P1/7Q/PPP4P/RNB1K1NR w KQ - 1 13,Castling to improve king safety.
+25,Ne2,g1e2,2kr1b1r/ppq1p1pp/2p1Pn2/3p4/3Pp1P1/7Q/PPP1N2P/RNB1K2R b KQ - 2 13,With the idea of Bc1-f4 to control the b8-h2 diagonal and keep the queen isolated from other pieces.
+26,h5,h7h5,2kr1b1r/ppq1p1p1/2p1Pn2/3p3p/3Pp1P1/7Q/PPP1N2P/RNB1K2R w KQ - 0 14,"No danger of 14...hxg4 because of 15.Qxh8, pin theme."
+27,Bf4,c1f4,2kr1b1r/ppq1p1p1/2p1Pn2/3p3p/3PpBP1/7Q/PPP1N2P/RN2K2R b KQ - 1 14,Completing a small plan.
+28,Qb6,c7b6,2kr1b1r/pp2p1p1/1qp1Pn2/3p3p/3PpBP1/7Q/PPP1N2P/RN2K2R w KQ - 2 15,Necessary to prevent queenside incursion.
+29,b3,b2b3,2kr1b1r/pp2p1p1/1qp1Pn2/3p3p/3PpBP1/1P5Q/P1P1N2P/RN2K2R b KQ - 0 15,Necessary to prevent queenside incursion.
+30,Nxg4,f6g4,2kr1b1r/pp2p1p1/1qp1P3/3p3p/3PpBn1/1P5Q/P1P1N2P/RN2K2R w KQ - 0 16,A serious blunder because the knight is really not defended due to the pin on the h8 rook. Better was 16...g5 17.Bxg5 Bg7 to defend the rook and restore the defender; the pawn can protect the knight.
+31,Rg1,h1g1,2kr1b1r/pp2p1p1/1qp1P3/3p3p/3PpBn1/1P5Q/P1P1N2P/RN2K1R1 b Q - 1 16,A serious blunder because the knight is really not defended due to the pin on the h8 rook. Better was 16...g5 17.Bxg5 Bg7 to defend the rook and restore the defender; the pawn can protect the knight.
+32,g6,g7g6,2kr1b1r/pp2p3/1qp1P1p1/3p3p/3PpBn1/1P5Q/P1P1N2P/RN2K1R1 w Q - 0 17,A serious blunder because the knight is really not defended due to the pin on the h8 rook. Better was 16...g5 17.Bxg5 Bg7 to defend the rook and restore the defender; the pawn can protect the knight.
+33,Rxg4,g1g4,2kr1b1r/pp2p3/1qp1P1p1/3p3p/3PpBR1/1P5Q/P1P1N2P/RN2K3 b Q - 0 17,"Good move, using the tactic of eliminated defender; the pawn can not take because of the undefended rook. If 17...hxg4 then 18.Qxh8 winning a piece."

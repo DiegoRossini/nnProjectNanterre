@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3P4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 3,Do not want to get a pawn instead of initiative: 3.c4 c6 4.dxc6 Nxc6
+6,Nxd5,f6d5,rnbqkb1r/ppp1pppp/8/3n4/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"Can't say that this is a mistake, but after this move white pawns are invited to go ahead. Black can easily find themselves behind in development. One should pay attention at some other moves: 4...g6, 4...Bg4."
+7,d4,d2d4,rnbqkb1r/ppp1pppp/8/3n4/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Can't say that this is a mistake, but after this move white pawns are invited to go ahead. Black can easily find themselves behind in development. One should pay attention at some other moves: 4...g6, 4...Bg4."
+8,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n5/3n4/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Can't say that this is a mistake, but after this move white pawns are invited to go ahead. Black can easily find themselves behind in development. One should pay attention at some other moves: 4...g6, 4...Bg4."
+9,c4,c2c4,r1bqkb1r/ppp1pppp/2n5/3n4/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,May be Nb4 is better?
+10,Nb6,d5b6,r1bqkb1r/ppp1pppp/1nn5/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,May be Nb4 is better?
+11,d5,d4d5,r1bqkb1r/ppp1pppp/1nn5/3P4/2P5/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6,May be Nb4 is better?
+12,Nb8,c6b8,rnbqkb1r/ppp1pppp/1n6/3P4/2P5/5N2/PP3PPP/RNBQKB1R w KQkq - 1 7,May be Nb4 is better?
+13,Nc3,b1c3,rnbqkb1r/ppp1pppp/1n6/3P4/2P5/2N2N2/PP3PPP/R1BQKB1R b KQkq - 2 7,"But this seems to be a mistake, because white queen occupies black diagonal and prevents natural development of black pieces. 7...e6 looks better."
+14,g6,g7g6,rnbqkb1r/ppp1pp1p/1n4p1/3P4/2P5/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 8,"But this seems to be a mistake, because white queen occupies black diagonal and prevents natural development of black pieces. 7...e6 looks better."
+15,Qd4,d1d4,rnbqkb1r/ppp1pp1p/1n4p1/3P4/2PQ4/2N2N2/PP3PPP/R1B1KB1R b KQkq - 1 8,This is an error after which black looses material.
+16,Rg8,h8g8,rnbqkbr1/ppp1pp1p/1n4p1/3P4/2PQ4/2N2N2/PP3PPP/R1B1KB1R w KQq - 2 9,This is an error after which black looses material.
+17,Bf4,c1f4,rnbqkbr1/ppp1pp1p/1n4p1/3P4/2PQ1B2/2N2N2/PP3PPP/R3KB1R b KQq - 3 9,This is an error after which black looses material.
+18,Bg7,f8g7,rnbqk1r1/ppp1ppbp/1n4p1/3P4/2PQ1B2/2N2N2/PP3PPP/R3KB1R w KQq - 4 10,This is an error after which black looses material.
+19,Qe3,d4e3,rnbqk1r1/ppp1ppbp/1n4p1/3P4/2P2B2/2N1QN2/PP3PPP/R3KB1R b KQq - 5 10,This is an error after which black looses material.
+20,Nb8d7,b8d7,r1bqk1r1/pppnppbp/1n4p1/3P4/2P2B2/2N1QN2/PP3PPP/R3KB1R w KQq - 6 11,This is an error after which black looses material.
+21,Nb5,c3b5,r1bqk1r1/pppnppbp/1n4p1/1N1P4/2P2B2/4QN2/PP3PPP/R3KB1R b KQq - 7 11,"Probably black overlooked that not only rook, but also the queen are in danger"
+22,Bxb2,g7b2,r1bqk1r1/pppnpp1p/1n4p1/1N1P4/2P2B2/4QN2/Pb3PPP/R3KB1R w KQq - 0 12,"Probably black overlooked that not only rook, but also the queen are in danger"
+23,Rb1,a1b1,r1bqk1r1/pppnpp1p/1n4p1/1N1P4/2P2B2/4QN2/Pb3PPP/1R2KB1R b Kq - 1 12,
+24,Na4,b6a4,r1bqk1r1/pppnpp1p/6p1/1N1P4/n1P2B2/4QN2/Pb3PPP/1R2KB1R w Kq - 2 13,
+25,Bxc7,f4c7,r1bqk1r1/ppBnpp1p/6p1/1N1P4/n1P5/4QN2/Pb3PPP/1R2KB1R b Kq - 0 13,
+26,Bc3+,b2c3,r1bqk1r1/ppBnpp1p/6p1/1N1P4/n1P5/2b1QN2/P4PPP/1R2KB1R w Kq - 1 14,
+27,Kd1,e1d1,r1bqk1r1/ppBnpp1p/6p1/1N1P4/n1P5/2b1QN2/P4PPP/1R1K1B1R b q - 2 14,

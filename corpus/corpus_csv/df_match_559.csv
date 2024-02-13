@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,The preferred computer line for black is 1... d5 2. Nf3 Nf6 3. e3 Bf5 4. Nc3 e6 5. a3 a5 6. b5 Bd6 7. Be2 c5
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,White should play 2. bxc5 e5 (2... e6 3. d4) 3. e3 Bxc5 4. Nf3 d6 5. d4 which gives him a slight advantage.
+3,b5,b4b5,rnbqkbnr/pp1ppppp/8/1Pp5/8/8/P1PPPPPP/RNBQKBNR b KQkq - 0 2,
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/1Ppp4/8/8/P1PPPPPP/RNBQKBNR w KQkq - 0 3,
+5,Bb2,c1b2,rnbqkbnr/pp2pppp/8/1Ppp4/8/8/PBPPPPPP/RN1QKBNR b KQkq - 1 3,
+6,d4,d5d4,rnbqkbnr/pp2pppp/8/1Pp5/3p4/8/PBPPPPPP/RN1QKBNR w KQkq - 0 4,3. ... a6 was better.
+7,c3,c2c3,rnbqkbnr/pp2pppp/8/1Pp5/3p4/2P5/PB1PPPPP/RN1QKBNR b KQkq - 0 4,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+8,e5,e7e5,rnbqkbnr/pp3ppp/8/1Pp1p3/3p4/2P5/PB1PPPPP/RN1QKBNR w KQkq - 0 5,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+9,cxd4,c3d4,rnbqkbnr/pp3ppp/8/1Pp1p3/3P4/8/PB1PPPPP/RN1QKBNR b KQkq - 0 5,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+10,cxd4,c5d4,rnbqkbnr/pp3ppp/8/1P2p3/3p4/8/PB1PPPPP/RN1QKBNR w KQkq - 0 6,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+11,Nf3,g1f3,rnbqkbnr/pp3ppp/8/1P2p3/3p4/5N2/PB1PPPPP/RN1QKB1R b KQkq - 1 6,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+12,Bd6,f8d6,rnbqk1nr/pp3ppp/3b4/1P2p3/3p4/5N2/PB1PPPPP/RN1QKB1R w KQkq - 2 7,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+13,e3,e2e3,rnbqk1nr/pp3ppp/3b4/1P2p3/3p4/4PN2/PB1P1PPP/RN1QKB1R b KQkq - 0 7,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+14,Nf6,g8f6,rnbqk2r/pp3ppp/3b1n2/1P2p3/3p4/4PN2/PB1P1PPP/RN1QKB1R w KQkq - 1 8,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+15,exd4,e3d4,rnbqk2r/pp3ppp/3b1n2/1P2p3/3P4/5N2/PB1P1PPP/RN1QKB1R b KQkq - 0 8,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+16,e4,e5e4,rnbqk2r/pp3ppp/3b1n2/1P6/3Pp3/5N2/PB1P1PPP/RN1QKB1R w KQkq - 0 9,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+17,Ne5,f3e5,rnbqk2r/pp3ppp/3b1n2/1P2N3/3Pp3/8/PB1P1PPP/RN1QKB1R b KQkq - 1 9,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+18,O-O,e8g8,rnbq1rk1/pp3ppp/3b1n2/1P2N3/3Pp3/8/PB1P1PPP/RN1QKB1R w KQ - 2 10,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+19,Qb3,d1b3,rnbq1rk1/pp3ppp/3b1n2/1P2N3/3Pp3/1Q6/PB1P1PPP/RN2KB1R b KQ - 3 10,"10. Na3 with the intent of Bc4, O-O, Re1, Bb3 and Nac4 was better."
+20,Be6,c8e6,rn1q1rk1/pp3ppp/3bbn2/1P2N3/3Pp3/1Q6/PB1P1PPP/RN2KB1R w KQ - 4 11,Instead the computer likes  10... Nbd7 followed by Qe7.
+21,Bc4,f1c4,rn1q1rk1/pp3ppp/3bbn2/1P2N3/2BPp3/1Q6/PB1P1PPP/RN2K2R b KQ - 5 11,Best for black is 11... Bxe5 12. dxe5 Nfd7 13. O-O (13. Bxe6 Nc5 14. Bxf7+ Rxf7  is winning for black.) 13... Nc5
+22,Bxc4,e6c4,rn1q1rk1/pp3ppp/3b1n2/1P2N3/2bPp3/1Q6/PB1P1PPP/RN2K2R w KQ - 0 12,12. Nxc4 instead gives white a slight advantage.
+23,Qxc4,b3c4,rn1q1rk1/pp3ppp/3b1n2/1P2N3/2QPp3/8/PB1P1PPP/RN2K2R b KQ - 0 12,12. Nxc4 instead gives white a slight advantage.
+24,Nbd7,b8d7,r2q1rk1/pp1n1ppp/3b1n2/1P2N3/2QPp3/8/PB1P1PPP/RN2K2R w KQ - 1 13,"Instead 12. Nxc4 gives white a slight advantage.
+Here 13. O-O is necessary to get the king out of the line of fire, because Black can play dxe5 followed by Nc5 and Nd3+.  So 13. O-O Rc8 14. Qb3 Bxe5 15. dxe5 Nc5 16. Qg3 is equal."
+25,Qb3,c4b3,r2q1rk1/pp1n1ppp/3b1n2/1P2N3/3Pp3/1Q6/PB1P1PPP/RN2K2R b KQ - 2 13,"Now black is winning with 13... Bxe5 14. dxe5 Nc5, which according to the computer, gives black has a huge advantage.  However, understanding why this is winning is not easy.  This leads to many complicated lines linked to below."
+26,Qc7,d8c7,r4rk1/ppqn1ppp/3b1n2/1P2N3/3Pp3/1Q6/PB1P1PPP/RN2K2R w KQ - 3 14,"Although this looks like a reasonable move, the previously stated 13... Bxe5 14. dxe5 Nc5 is much better."
+27,O-O,e1g1,r4rk1/ppqn1ppp/3b1n2/1P2N3/3Pp3/1Q6/PB1P1PPP/RN3RK1 b - - 4 14,14. Nc4 is a little better.
+28,Nxe5,d7e5,r4rk1/ppq2ppp/3b1n2/1P2n3/3Pp3/1Q6/PB1P1PPP/RN3RK1 w - - 0 15,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+29,dxe5,d4e5,r4rk1/ppq2ppp/3b1n2/1P2P3/4p3/1Q6/PB1P1PPP/RN3RK1 b - - 0 15,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+30,Bxe5,d6e5,r4rk1/ppq2ppp/5n2/1P2b3/4p3/1Q6/PB1P1PPP/RN3RK1 w - - 0 16,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+31,Bxe5,b2e5,r4rk1/ppq2ppp/5n2/1P2B3/4p3/1Q6/P2P1PPP/RN3RK1 b - - 0 16,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+32,Qxe5,c7e5,r4rk1/pp3ppp/5n2/1P2q3/4p3/1Q6/P2P1PPP/RN3RK1 w - - 0 17,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+33,Nc3,b1c3,r4rk1/pp3ppp/5n2/1P2q3/4p3/1QN5/P2P1PPP/R4RK1 b - - 1 17,"17. Na3 is a little better so as to later be able to go to c4, and to meet black's Ng4 with Qg3."
+34,Rfd8,f8d8,r2r2k1/pp3ppp/5n2/1P2q3/4p3/1QN5/P2P1PPP/R4RK1 w - - 2 18,"17. ... Ng4 first is also good.
+
+Here white could play 18. Qd1 to stop Ng4."
+35,Rad1,a1d1,r2r2k1/pp3ppp/5n2/1P2q3/4p3/1QN5/P2P1PPP/3R1RK1 b - - 3 18,Now Black is winning with 18... Ng4 19. g3 Qh5 20. h4 Ne5 which leads to a ton of complicated variations linked to below.
+36,Rd3,d8d3,r5k1/pp3ppp/5n2/1P2q3/4p3/1QNr4/P2P1PPP/3R1RK1 w - - 4 19,"Although I was proud of this move, it misses the much better and very complicated Ng4.
+
+Now 19. h3 is necessary to stop Ng4."
+37,Rfe1,f1e1,r5k1/pp3ppp/5n2/1P2q3/4p3/1QNr4/P2P1PPP/3RR1K1 b - - 5 19,Black can still win with 19... Ng4 which also leads to some complicated lines linked below.
+38,Rad8,a8d8,3r2k1/pp3ppp/5n2/1P2q3/4p3/1QNr4/P2P1PPP/3RR1K1 w - - 6 20,Now 20. h3 is necessary.
+39,Nxe4,c3e4,3r2k1/pp3ppp/5n2/1P2q3/4N3/1Q1r4/P2P1PPP/3RR1K1 b - - 0 20,A time pressure blunder.

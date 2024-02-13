@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi to all. First, I say ""My English is very poor"". Sorry if I committed mistakes in the annotation of the game. This is my first annotated game, a very dynamical play in a very sharp variation of the Two Knights defense. I used the StockFish for the postmortem analysis, but I tried to gives  my own calculations in the game and, if I or my opponent did't see a critical variation, estimates with the chess engine."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I prefer this variation to the alternative 3... Bc5. But, matter of taste!"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I prefer this variation to the alternative 3... Bc5. But, matter of taste!"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"I prefer this variation to the alternative 3... Bc5. But, matter of taste!"
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"I prefer this variation to the alternative 3... Bc5. But, matter of taste!"
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"I prefer this variation to the alternative 3... Bc5. But, matter of taste!"
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"If I played this position with white, I had moved 4 d4. But, againg, matter of taste, both variation are theoretical."
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5,"Two Knights defense, Traxler variation. I played, few years ago, this maneuver. Actually, I am playing the Fritz variation ( 4... d5 5 exd5 Nd4) without bad results. With the 4 ... d5 variation too is possible 5 ... Na5 (normal variation, I think) and 5 ... b5.
+
+ Now, white has three principal moves: 5 Bxf7+ (In my juice, the strongest move) 5 d4 and the move of the game, fork queen and rook."
+9,Nxf7,g5f7,r1bqk2r/pppp1Npp/2n2n2/2b1p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,"Black needs take risks, now.. This move is theoretical. I tried to remember variations of this line"
+10,Bxf2+,c5f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQK2R w KQkq - 0 6,"Black needs take risks, now.. This move is theoretical. I tried to remember variations of this line"
+11,Kxf2,e1f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1KPP/RNBQ3R b kq - 0 6,"The main alternative is 6. Kf1, keeping the fork in d8-h8 without gives a strong initiative to the black"
+12,Nxe4+,f6e4,r1bqk2r/pppp1Npp/2n5/4p3/2B1n3/8/PPPP1KPP/RNBQ3R w kq - 0 7,"I didn't remember the main variation, but I think about this natural move with check keep the attack"
+13,Ke3,f2e3,r1bqk2r/pppp1Npp/2n5/4p3/2B1n3/4K3/PPPP2PP/RNBQ3R b kq - 1 7,It's too risky!! May be 7 Kg1 was sure and black had to move the queen (Qe7... if 7 Kg1 Qf6 8 Qf3 and black (minimum)  wasted a tempo)
+14,Qh4,d8h4,r1b1k2r/pppp1Npp/2n5/4p3/2B1n2q/4K3/PPPP2PP/RNBQ3R w kq - 2 8,Qe7 was an alternative not attractive.
+15,g3,g2g3,r1b1k2r/pppp1Npp/2n5/4p3/2B1n2q/4K1P1/PPPP3P/RNBQ3R b kq - 0 8,"A nice try. I was calculated  about if 8 Nxh8 Qf2+ 9 Kxe4 d5+! 10 Kd3 Bf5+(StockFish gives me a better mate, but i did't see 10... dxc4+ 11 Kxc4 Qd4 and Qb4#) 11 Kc3 Qd4+ 12 Kb3 Qxc4+  13 Qa3 Qb4#, a funny king hunting . Alternatives to the 10th move was 10 Kxd5  Qd4#. 10 Bxd5 Bf5#."
+16,Nxg3,e4g3,r1b1k2r/pppp1Npp/2n5/4p3/2B4q/4K1n1/PPPP3P/RNBQ3R w kq - 0 9,Open the 4th file! without wasted of time
+17,hxg3,h2g3,r1b1k2r/pppp1Npp/2n5/4p3/2B4q/4K1P1/PPPP4/RNBQ3R b kq - 0 9,"This move is strong, better than Qxc4. However, I don't see something in the continuation of the game"
+18,Qd4+,h4d4,r1b1k2r/pppp1Npp/2n5/4p3/2Bq4/4K1P1/PPPP4/RNBQ3R w kq - 1 10,"This move is strong, better than Qxc4. However, I don't see something in the continuation of the game"
+19,Kf3,e3f3,r1b1k2r/pppp1Npp/2n5/4p3/2Bq4/5KP1/PPPP4/RNBQ3R b kq - 2 10,Development first!
+20,d5,d7d5,r1b1k2r/ppp2Npp/2n5/3pp3/2Bq4/5KP1/PPPP4/RNBQ3R w kq - 0 11,Development first!
+21,Nxh8,f7h8,r1b1k2N/ppp3pp/2n5/3pp3/2Bq4/5KP1/PPPP4/RNBQ3R b q - 0 11,"This move lost the game, in my opinion. White had Rh4 (I analyzed the postmortem with StockFish and white keep advantage in material). I don't see Rh4 in the game, only analyzes 11 Be2 and I was planned castle in the position. The variation in my mind was 11 Be2 0-0 (the knight is pinned) 12 Kg2 Rxf7 and white's king isn't in a sure place.
+
+The variation gives for SF is 11 Rh4 e4+ 12 Kg2 0-0 13 Bb3 Rxf7  (0.73 for white). The attack vanishes on the lines of the engine!!!"
+22,Bg4+,c8g4,r3k2N/ppp3pp/2n5/3pp3/2Bq2b1/5KP1/PPPP4/RNBQ3R w q - 1 12,"Capturing the queen and balances the material. Now, the position of the white king (and the development of the black pieces) gives a big advantage."
+23,Kg2,f3g2,r3k2N/ppp3pp/2n5/3pp3/2Bq2b1/6P1/PPPP2K1/RNBQ3R b q - 2 12,"This move looks ugly, but black had the threat Bf3+ and Qe4+ winning the exchange"
+24,Bxd1,g4d1,r3k2N/ppp3pp/2n5/3pp3/2Bq4/6P1/PPPP2K1/RNBb3R w q - 0 13,"This move looks ugly, but black had the threat Bf3+ and Qe4+ winning the exchange"
+25,d3,d2d3,r3k2N/ppp3pp/2n5/3pp3/2Bq4/3P2P1/PPP3K1/RNBb3R b q - 0 13,"This move looks ugly, but black had the threat Bf3+ and Qe4+ winning the exchange"
+26,dxc4,d5c4,r3k2N/ppp3pp/2n5/4p3/2pq4/3P2P1/PPP3K1/RNBb3R w q - 0 14,I can castle because the knight is trapped!
+27,Rxd1,h1d1,r3k2N/ppp3pp/2n5/4p3/2pq4/3P2P1/PPP3K1/RNBR4 b q - 0 14,I can castle because the knight is trapped!
+28,O-O-O,e8c8,2kr3N/ppp3pp/2n5/4p3/2pq4/3P2P1/PPP3K1/RNBR4 w - - 1 15,I can castle because the knight is trapped!
+29,Nf7,h8f7,2kr4/ppp2Npp/2n5/4p3/2pq4/3P2P1/PPP3K1/RNBR4 b - - 2 15,The rook enters in the kingside quickly!
+30,Rf8,d8f8,2k2r2/ppp2Npp/2n5/4p3/2pq4/3P2P1/PPP3K1/RNBR4 w - - 3 16,The rook enters in the kingside quickly!
+31,Ng5,f7g5,2k2r2/ppp3pp/2n5/4p1N1/2pq4/3P2P1/PPP3K1/RNBR4 b - - 4 16,If 17 Kh1 Qd5+ and mates in two moves. Equal for Kg1.
+32,Rf2+,f8f2,2k5/ppp3pp/2n5/4p1N1/2pq4/3P2P1/PPP2rK1/RNBR4 w - - 5 17,If 17 Kh1 Qd5+ and mates in two moves. Equal for Kg1.
+33,Kh3,g2h3,2k5/ppp3pp/2n5/4p1N1/2pq4/3P2PK/PPP2r2/RNBR4 b - - 6 17,If 17 Kh1 Qd5+ and mates in two moves. Equal for Kg1.
+34,Qd7+,d4d7,2k5/pppq2pp/2n5/4p1N1/2p5/3P2PK/PPP2r2/RNBR4 w - - 7 18,"Not the best move, h5 with mate net (SF gives the move). Now, the best try is 18 g4 (not possible with 17... h5) but I had many variations with advantage (18 ... h5 19 Rg1 hxg4+ 20 Rxg4  Rg2 or 18... Rg2 19 Kxg2 Qxg4+ and Qxd1) but I didn't see a mate attack."

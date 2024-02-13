@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+6,c6,c7c6,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 4,OK doesn't want to protect pawn all the time. Lets position our bishops behind the first line of pawns; keep them towers away from the back lines too.
+7,g3,g2g3,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/2N3P1/PPP1PP1P/R2QKBNR b KQkq - 0 4,He commits himself to O-O.
+8,g6,g7g6,rnbqkb1r/pp2pp1p/2p2np1/3p4/3P1B2/2N3P1/PPP1PP1P/R2QKBNR w KQkq - 0 5,He commits himself to O-O.
+9,Bh3,f1h3,rnbqkb1r/pp2pp1p/2p2np1/3p4/3P1B2/2N3PB/PPP1PP1P/R2QK1NR b KQkq - 1 5,He commits himself to O-O.
+10,Bg7,f8g7,rnbqk2r/pp2ppbp/2p2np1/3p4/3P1B2/2N3PB/PPP1PP1P/R2QK1NR w KQkq - 2 6,He commits himself to O-O.
+11,Bxc8,h3c8,rnBqk2r/pp2ppbp/2p2np1/3p4/3P1B2/2N3P1/PPP1PP1P/R2QK1NR b KQkq - 0 6,double up on the bishop and preparing O-O-O; Get them rooks pounding on his O-O side.
+12,Qxc8,d8c8,rnq1k2r/pp2ppbp/2p2np1/3p4/3P1B2/2N3P1/PPP1PP1P/R2QK1NR w KQkq - 0 7,double up on the bishop and preparing O-O-O; Get them rooks pounding on his O-O side.
+13,Qd2,d1d2,rnq1k2r/pp2ppbp/2p2np1/3p4/3P1B2/2N3P1/PPPQPP1P/R3K1NR b KQkq - 1 7,double up on the bishop and preparing O-O-O; Get them rooks pounding on his O-O side.
+14,O-O,e8g8,rnq2rk1/pp2ppbp/2p2np1/3p4/3P1B2/2N3P1/PPPQPP1P/R3K1NR w KQ - 2 8,Don't get this one.
+15,O-O-O,e1c1,rnq2rk1/pp2ppbp/2p2np1/3p4/3P1B2/2N3P1/PPPQPP1P/2KR2NR b - - 3 8,Don't get this one.
+16,b5,b7b5,rnq2rk1/p3ppbp/2p2np1/1p1p4/3P1B2/2N3P1/PPPQPP1P/2KR2NR w - - 0 9,Don't get this one.
+17,f3,f2f3,rnq2rk1/p3ppbp/2p2np1/1p1p4/3P1B2/2N2PP1/PPPQP2P/2KR2NR b - - 0 9,to push the H anf G pawns effectively i need to get rid of the horse on F
+18,Nbd7,b8d7,r1q2rk1/p2nppbp/2p2np1/1p1p4/3P1B2/2N2PP1/PPPQP2P/2KR2NR w - - 1 10,my knight looks much better on C5 anyway
+19,e4,e2e4,r1q2rk1/p2nppbp/2p2np1/1p1p4/3PPB2/2N2PP1/PPPQ3P/2KR2NR b - - 0 10,my knight looks much better on C5 anyway
+20,b4,b5b4,r1q2rk1/p2nppbp/2p2np1/3p4/1p1PPB2/2N2PP1/PPPQ3P/2KR2NR w - - 0 11,my knight looks much better on C5 anyway
+21,Na4,c3a4,r1q2rk1/p2nppbp/2p2np1/3p4/Np1PPB2/5PP1/PPPQ3P/2KR2NR b - - 1 11,with his queen still out of position I press on the black squares chasing K F6
+22,a5,a7a5,r1q2rk1/3nppbp/2p2np1/p2p4/Np1PPB2/5PP1/PPPQ3P/2KR2NR w - - 0 12,with his queen still out of position I press on the black squares chasing K F6
+23,e5,e4e5,r1q2rk1/3nppbp/2p2np1/p2pP3/Np1P1B2/5PP1/PPPQ3P/2KR2NR b - - 0 12,with his queen still out of position I press on the black squares chasing K F6
+24,Nh5,f6h5,r1q2rk1/3nppbp/2p3p1/p2pP2n/Np1P1B2/5PP1/PPPQ3P/2KR2NR w - - 1 13,Exchange rooks and foorce the knight back. nothing can stop my pawns
+25,Bh6,f4h6,r1q2rk1/3nppbp/2p3pB/p2pP2n/Np1P4/5PP1/PPPQ3P/2KR2NR b - - 2 13,Exchange rooks and foorce the knight back. nothing can stop my pawns
+26,Bxh6,g7h6,r1q2rk1/3npp1p/2p3pb/p2pP2n/Np1P4/5PP1/PPPQ3P/2KR2NR w - - 0 14,ake should have played K G7 ((a)R. Jacobs. My comment was ment for after move 14. ..e6).
+27,Qxh6,d2h6,r1q2rk1/3npp1p/2p3pQ/p2pP2n/Np1P4/5PP1/PPP4P/2KR2NR b - - 0 14,ake should have played K G7 ((a)R. Jacobs. My comment was ment for after move 14. ..e6).
+28,e6,e7e6,r1q2rk1/3n1p1p/2p1p1pQ/p2pP2n/Np1P4/5PP1/PPP4P/2KR2NR w - - 0 15,his knight is useless there it's totally protecting the wrong squares
+29,g4,g3g4,r1q2rk1/3n1p1p/2p1p1pQ/p2pP2n/Np1P2P1/5P2/PPP4P/2KR2NR b - - 0 15,his knight is useless there it's totally protecting the wrong squares
+30,Ng7,h5g7,r1q2rk1/3n1pnp/2p1p1pQ/p2pP3/Np1P2P1/5P2/PPP4P/2KR2NR w - - 1 16,his knight is useless there it's totally protecting the wrong squares
+31,h4,h2h4,r1q2rk1/3n1pnp/2p1p1pQ/p2pP3/Np1P2PP/5P2/PPP5/2KR2NR b - - 0 16,making room to flee. Our brave King leads by example (or follows his queen ?)
+32,Re8,f8e8,r1q1r1k1/3n1pnp/2p1p1pQ/p2pP3/Np1P2PP/5P2/PPP5/2KR2NR w - - 1 17,making room to flee. Our brave King leads by example (or follows his queen ?)
+33,h5,h4h5,r1q1r1k1/3n1pnp/2p1p1pQ/p2pP2P/Np1P2P1/5P2/PPP5/2KR2NR b - - 0 17,Here my best defence was F6. computer said it's gxh5
+34,Nf8,d7f8,r1q1rnk1/5pnp/2p1p1pQ/p2pP2P/Np1P2P1/5P2/PPP5/2KR2NR w - - 1 18,This guy is pinned down but refuses to give in. Must apply more force.
+35,Nc5,a4c5,r1q1rnk1/5pnp/2p1p1pQ/p1NpP2P/1p1P2P1/5P2/PPP5/2KR2NR b - - 2 18,Hoping to break through before he's mated.ake with H7 and mate on H8
+36,a4,a5a4,r1q1rnk1/5pnp/2p1p1pQ/2NpP2P/pp1P2P1/5P2/PPP5/2KR2NR w - - 0 19,Hoping to break through before he's mated.ake with H7 and mate on H8
+37,hxg6,h5g6,r1q1rnk1/5pnp/2p1p1PQ/2NpP3/pp1P2P1/5P2/PPP5/2KR2NR b - - 0 19,his knight on G7 is blocking this line for rooks and queen. Too soon for K E6.
+38,fxg6,f7g6,r1q1rnk1/6np/2p1p1pQ/2NpP3/pp1P2P1/5P2/PPP5/2KR2NR w - - 0 20,his knight on G7 is blocking this line for rooks and queen. Too soon for K E6.
+39,Nh3,g1h3,r1q1rnk1/6np/2p1p1pQ/2NpP3/pp1P2P1/5P1N/PPP5/2KR3R b - - 1 20,his knight on G7 is blocking this line for rooks and queen. Too soon for K E6.
+40,Ra7,a8a7,2q1rnk1/r5np/2p1p1pQ/2NpP3/pp1P2P1/5P1N/PPP5/2KR3R w - - 2 21,his knight on G7 is blocking this line for rooks and queen. Too soon for K E6.
+41,Ng5,h3g5,2q1rnk1/r5np/2p1p1pQ/2NpP1N1/pp1P2P1/5P2/PPP5/2KR3R b - - 3 21,H7 must be protected so au revoir knight
+42,Nf5,g7f5,2q1rnk1/r6p/2p1p1pQ/2NpPnN1/pp1P2P1/5P2/PPP5/2KR3R w - - 4 22,H7 must be protected so au revoir knight
+43,gxf5,g4f5,2q1rnk1/r6p/2p1p1pQ/2NpPPN1/pp1P4/5P2/PPP5/2KR3R b - - 0 22,I have to get to H8 with my queen. But it's covered. I need Rook #2
+44,exf5,e6f5,2q1rnk1/r6p/2p3pQ/2NpPpN1/pp1P4/5P2/PPP5/2KR3R w - - 0 23,I have to get to H8 with my queen. But it's covered. I need Rook #2
+45,Rde1,d1e1,2q1rnk1/r6p/2p3pQ/2NpPpN1/pp1P4/5P2/PPP5/2K1R2R b - - 1 23,E6 is too beautiful to occupy with just a pawn. And i don't want to let the Queen in on F4 chess !
+46,Qc7,c8c7,4rnk1/r1q4p/2p3pQ/2NpPpN1/pp1P4/5P2/PPP5/2K1R2R w - - 2 24,E6 is too beautiful to occupy with just a pawn. And i don't want to let the Queen in on F4 chess !
+47,Reg1,e1g1,4rnk1/r1q4p/2p3pQ/2NpPpN1/pp1P4/5P2/PPP5/2K3RR b - - 3 24,H7 is well protected but G6? H7 cannot leave H7 either ! Once the knight on G is gone and His knight on F8 forces to move I get through to H8.
+48,Re7,e8e7,5nk1/r1q1r2p/2p3pQ/2NpPpN1/pp1P4/5P2/PPP5/2K3RR w - - 4 25,doesn't matter. It's H8 i'm going for

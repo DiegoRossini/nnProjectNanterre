@@ -1,0 +1,85 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+5,d4,d2d4,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 3,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 1 4,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+11,Be2,f1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6,This is the classical King's Indian Defense starting position.  The normal move here is 6...e5.
+12,b6,b7b6,rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7,"I think this is an error, possibly enough that the game is over now!  6...b6 creates weakness on the queen side for white to attack, the light-squared bishop is best on c8 in the KID to aid the pawn storm on the king side, and finally b6 wastes time in attacking the center compared to the normal 6...e5.
+
+On <a href=""http://www.chessgames.com/perl/explorer?node=37575&move=6.5&moves=d4.Nf6.c4.g6.Nc3.Bg7.e4.d6.Nf3.O-O.Be2&nodes=10703.11482.11470.11471.11472.11473.11518.37573.11686.11486.37575"">chessgame's database</a> ...b6 has resulted in white winning: 83.3% and draw: 16.7% and black won 0%!"
+13,O-O,e1g1,rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7,"Often times, developing classically is the most practical way to meet strange out-of-book moves.
+
+In the computer match IsiChess vs Neurosis, 2006: continued 7.e5 Nfd7 8.exd6 cxd6 9.0-0 Bb7 10.Bg5 Nf6 11.d5 when white's space advantage gave him (it?) a slight advantage.
+
+I like 0-0 slightly better though, it seems strange to play e2-e4-e5 only to trade on d6 and not really gain anything."
+14,Bb7,c8b7,rn1q1rk1/pbp1ppbp/1p1p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8,"Scholz-Lilienthal ICCF corr 1987 continued 8.e5 dxe5 9.dxe5 Nfd7 10.e6 fxe6 11.Qc2 Nc6 12.Rd1 Qc8
+13.Bg5 Nf6 14.a3 e5 15.c5 e6 16.cxb6 axb6 17.Nb5 Nd5 18.Rac1 Rf7 19.Bh4 Rd7 20.Ng5 Nf4 21.Bc4 Rxd1  22.Rxd1 Nd4 23.Nxd4 exd4 24.Nxe6! when white had his material back and the initiative.
+
+This is more testing for the black side than my continuation which almost lets black off the hook.
+
+The final alternative is 8.Qc2 protecting the center and slowly building up behind it since black seems to refuse to attack it !?"
+15,d5,d4d5,rn1q1rk1/pbp1ppbp/1p1p1np1/3P4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8,"Scholz-Lilienthal ICCF corr 1987 continued 8.e5 dxe5 9.dxe5 Nfd7 10.e6 fxe6 11.Qc2 Nc6 12.Rd1 Qc8
+13.Bg5 Nf6 14.a3 e5 15.c5 e6 16.cxb6 axb6 17.Nb5 Nd5 18.Rac1 Rf7 19.Bh4 Rd7 20.Ng5 Nf4 21.Bc4 Rxd1  22.Rxd1 Nd4 23.Nxd4 exd4 24.Nxe6! when white had his material back and the initiative.
+
+This is more testing for the black side than my continuation which almost lets black off the hook.
+
+The final alternative is 8.Qc2 protecting the center and slowly building up behind it since black seems to refuse to attack it !?"
+16,c5,c7c5,rn1q1rk1/pb2ppbp/1p1p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - c6 0 9,"Crafty recommends: 11.dxe6 Nxe4 12.Nxe4 Bxe4 13.Bd3 Bxd3 14.Qxd3 Qe7 15.exf7  Qxf7 ( -.83)
+
+I instead threatened h6."
+17,Bg5,c1g5,rn1q1rk1/pb2ppbp/1p1p1np1/2pP2B1/2P1P3/2N2N2/PP2BPPP/R2Q1RK1 b - - 1 9,"Crafty recommends: 11.dxe6 Nxe4 12.Nxe4 Bxe4 13.Bd3 Bxd3 14.Qxd3 Qe7 15.exf7  Qxf7 ( -.83)
+
+I instead threatened h6."
+18,h6,h7h6,rn1q1rk1/pb2ppb1/1p1p1npp/2pP2B1/2P1P3/2N2N2/PP2BPPP/R2Q1RK1 w - - 0 10,"Crafty recommends: 11.dxe6 Nxe4 12.Nxe4 Bxe4 13.Bd3 Bxd3 14.Qxd3 Qe7 15.exf7  Qxf7 ( -.83)
+
+I instead threatened h6."
+19,Be3,g5e3,rn1q1rk1/pb2ppb1/1p1p1npp/2pP4/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 1 10,"Crafty recommends: 11.dxe6 Nxe4 12.Nxe4 Bxe4 13.Bd3 Bxd3 14.Qxd3 Qe7 15.exf7  Qxf7 ( -.83)
+
+I instead threatened h6."
+20,e6,e7e6,rn1q1rk1/pb3pb1/1p1ppnpp/2pP4/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 w - - 0 11,"Crafty recommends: 11.dxe6 Nxe4 12.Nxe4 Bxe4 13.Bd3 Bxd3 14.Qxd3 Qe7 15.exf7  Qxf7 ( -.83)
+
+I instead threatened h6."
+21,Qd2,d1d2,rn1q1rk1/pb3pb1/1p1ppnpp/2pP4/2P1P3/2N1BN2/PP1QBPPP/R4RK1 b - - 1 11,It seems 11...Ng4 would have been a much better move.  A possible continuation might be 12.Bf4 e5 13.Bg3 Nd7 14.Nh4 Ngf6 15.Qe3 Qe7 16.Qf3 Rad8 with a slight advantage for white.
+22,g5,g6g5,rn1q1rk1/pb3pb1/1p1ppn1p/2pP2p1/2P1P3/2N1BN2/PP1QBPPP/R4RK1 w - - 0 12,It seems 11...Ng4 would have been a much better move.  A possible continuation might be 12.Bf4 e5 13.Bg3 Nd7 14.Nh4 Ngf6 15.Qe3 Qe7 16.Qf3 Rad8 with a slight advantage for white.
+23,h4,h2h4,rn1q1rk1/pb3pb1/1p1ppn1p/2pP2p1/2P1P2P/2N1BN2/PP1QBPP1/R4RK1 b - - 0 12,"Attacking the new weakness, white firmly has the initiative now."
+24,Ng4,f6g4,rn1q1rk1/pb3pb1/1p1pp2p/2pP2p1/2P1P1nP/2N1BN2/PP1QBPP1/R4RK1 w - - 1 13,"This is just a mistake, losing a pawn.  ...g4 might have been better but after 13.Nh2 h5 14.Bg5 exd5 15.exd5 Re8 16.Qf4 Nbd7 16.f3 gxf3 17.Nxf3 a6 18.Rad1 exd5 19.exd5 white still has a large advantage."
+25,hxg5,h4g5,rn1q1rk1/pb3pb1/1p1pp2p/2pP2P1/2P1P1n1/2N1BN2/PP1QBPP1/R4RK1 b - - 0 13,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+26,Nxe3,g4e3,rn1q1rk1/pb3pb1/1p1pp2p/2pP2P1/2P1P3/2N1nN2/PP1QBPP1/R4RK1 w - - 0 14,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+27,Qxe3,d2e3,rn1q1rk1/pb3pb1/1p1pp2p/2pP2P1/2P1P3/2N1QN2/PP2BPP1/R4RK1 b - - 0 14,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+28,hxg5,h6g5,rn1q1rk1/pb3pb1/1p1pp3/2pP2p1/2P1P3/2N1QN2/PP2BPP1/R4RK1 w - - 0 15,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+29,Qxg5,e3g5,rn1q1rk1/pb3pb1/1p1pp3/2pP2Q1/2P1P3/2N2N2/PP2BPP1/R4RK1 b - - 0 15,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+30,Qxg5,d8g5,rn3rk1/pb3pb1/1p1pp3/2pP2q1/2P1P3/2N2N2/PP2BPP1/R4RK1 w - - 0 16,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+31,Nxg5,f3g5,rn3rk1/pb3pb1/1p1pp3/2pP2N1/2P1P3/2N5/PP2BPP1/R4RK1 b - - 0 16,"White now a material advantage, along with superior minor piece.  Here is where the ""technique"" comes into play."
+32,Bh6,g7h6,rn3rk1/pb3p2/1p1pp2b/2pP2N1/2P1P3/2N5/PP2BPP1/R4RK1 w - - 1 17,"Black closes the center hoping he can pull out a draw, but with this many pieces still on the board that will be very difficult to do."
+33,Nf3,g5f3,rn3rk1/pb3p2/1p1pp2b/2pP4/2P1P3/2N2N2/PP2BPP1/R4RK1 b - - 2 17,"Black closes the center hoping he can pull out a draw, but with this many pieces still on the board that will be very difficult to do."
+34,e5,e6e5,rn3rk1/pb3p2/1p1p3b/2pPp3/2P1P3/2N2N2/PP2BPP1/R4RK1 w - - 0 18,"Black closes the center hoping he can pull out a draw, but with this many pieces still on the board that will be very difficult to do."
+35,Nb5,c3b5,rn3rk1/pb3p2/1p1p3b/1NpPp3/2P1P3/5N2/PP2BPP1/R4RK1 b - - 1 18,"I should have won an exchange after this move because after 18...Rd8, the simple 19.Nc7 would have ended the game on the spot.  I of course didn't play this....."
+36,Rd8,f8d8,rn1r2k1/pb3p2/1p1p3b/1NpPp3/2P1P3/5N2/PP2BPP1/R4RK1 w - - 2 19,"A part blunder (!?) letting black back in the game.  I was aiming to take away all of black's counter play on the queen side, before using my extra pawn on the king side."
+37,a4,a2a4,rn1r2k1/pb3p2/1p1p3b/1NpPp3/P1P1P3/5N2/1P2BPP1/R4RK1 b - - 0 19,"A part blunder (!?) letting black back in the game.  I was aiming to take away all of black's counter play on the queen side, before using my extra pawn on the king side."
+38,a6,a7a6,rn1r2k1/1b3p2/pp1p3b/1NpPp3/P1P1P3/5N2/1P2BPP1/R4RK1 w - - 0 20,Aiming for the f5 post and threatening a possible f4 break.
+39,Nc3,b5c3,rn1r2k1/1b3p2/pp1p3b/2pPp3/P1P1P3/2N2N2/1P2BPP1/R4RK1 b - - 1 20,Aiming for the f5 post and threatening a possible f4 break.
+40,Nd7,b8d7,r2r2k1/1b1n1p2/pp1p3b/2pPp3/P1P1P3/2N2N2/1P2BPP1/R4RK1 w - - 2 21,Aiming for the f5 post and threatening a possible f4 break.
+41,Rad1,a1d1,r2r2k1/1b1n1p2/pp1p3b/2pPp3/P1P1P3/2N2N2/1P2BPP1/3R1RK1 b - - 3 21,Aiming for the f5 post and threatening a possible f4 break.
+42,Nf6,d7f6,r2r2k1/1b3p2/pp1p1n1b/2pPp3/P1P1P3/2N2N2/1P2BPP1/3R1RK1 w - - 4 22,Aiming for the f5 post and threatening a possible f4 break.
+43,Nh4,f3h4,r2r2k1/1b3p2/pp1p1n1b/2pPp3/P1P1P2N/2N5/1P2BPP1/3R1RK1 b - - 5 22,Aiming for the f5 post and threatening a possible f4 break.
+44,Bc8,b7c8,r1br2k1/5p2/pp1p1n1b/2pPp3/P1P1P2N/2N5/1P2BPP1/3R1RK1 w - - 6 23,"I first tidy up the situation on the queen side.  We are playing correspondence chess, why hurry?"
+45,b3,b2b3,r1br2k1/5p2/pp1p1n1b/2pPp3/P1P1P2N/1PN5/4BPP1/3R1RK1 b - - 0 23,"I first tidy up the situation on the queen side.  We are playing correspondence chess, why hurry?"
+46,Ra7,a8a7,2br2k1/r4p2/pp1p1n1b/2pPp3/P1P1P2N/1PN5/4BPP1/3R1RK1 w - - 1 24,"This was the first move of my king side play consisting of: Kg2, and doubling on the h-file"
+47,g3,g2g3,2br2k1/r4p2/pp1p1n1b/2pPp3/P1P1P2N/1PN3P1/4BP2/3R1RK1 b - - 0 24,"This was the first move of my king side play consisting of: Kg2, and doubling on the h-file"
+48,Kh7,g8h7,2br4/r4p1k/pp1p1n1b/2pPp3/P1P1P2N/1PN3P1/4BP2/3R1RK1 w - - 1 25,Black prepares for his rooks to slide over.
+49,Kg2,g1g2,2br4/r4p1k/pp1p1n1b/2pPp3/P1P1P2N/1PN3P1/4BPK1/3R1R2 b - - 2 25,Eyeing the b5 break.  But I just have to many pieces on that square.
+50,Rb7,a7b7,2br4/1r3p1k/pp1p1n1b/2pPp3/P1P1P2N/1PN3P1/4BPK1/3R1R2 w - - 3 26,Eyeing the b5 break.  But I just have to many pieces on that square.
+51,Rfh1,f1h1,2br4/1r3p1k/pp1p1n1b/2pPp3/P1P1P2N/1PN3P1/4BPK1/3R3R b - - 4 26,"again threatening the f4 break.  Unfortunately, Nf5 dis ch does not do anything after Kg8."
+52,Bg5,h6g5,2br4/1r3p1k/pp1p1n2/2pPp1b1/P1P1P2N/1PN3P1/4BPK1/3R3R w - - 5 27,"again threatening the f4 break.  Unfortunately, Nf5 dis ch does not do anything after Kg8."
+53,Rdf1,d1f1,2br4/1r3p1k/pp1p1n2/2pPp1b1/P1P1P2N/1PN3P1/4BPK1/5R1R b - - 6 27,"again threatening the f4 break.  Unfortunately, Nf5 dis ch does not do anything after Kg8."
+54,Kg7,h7g7,2br4/1r3pk1/pp1p1n2/2pPp1b1/P1P1P2N/1PN3P1/4BPK1/5R1R w - - 7 28,Finally a pawn break!
+55,f4,f2f4,2br4/1r3pk1/pp1p1n2/2pPp1b1/P1P1PP1N/1PN3P1/4B1K1/5R1R b - - 0 28,Finally a pawn break!
+56,Bh6,g5h6,2br4/1r3pk1/pp1p1n1b/2pPp3/P1P1PP1N/1PN3P1/4B1K1/5R1R w - - 1 29,Now I have a passed d-pawn for insurance.
+57,fxe5,f4e5,2br4/1r3pk1/pp1p1n1b/2pPP3/P1P1P2N/1PN3P1/4B1K1/5R1R b - - 0 29,Now I have a passed d-pawn for insurance.
+58,dxe5,d6e5,2br4/1r3pk1/pp3n1b/2pPp3/P1P1P2N/1PN3P1/4B1K1/5R1R w - - 0 30,Now I have a passed d-pawn for insurance.

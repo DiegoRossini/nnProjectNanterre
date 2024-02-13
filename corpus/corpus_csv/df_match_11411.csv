@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Not very aggressive
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Great first two moves
+3,d3,d2d3,rnbqkbnr/ppp1pppp/8/3p4/8/3PP3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Great first two moves
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/8/3PP3/PPP2PPP/RNBQKBNR w KQkq - 0 3,Great first two moves
+5,f4,f2f4,rnbqkbnr/ppp2ppp/8/3pp3/5P2/3PP3/PPP3PP/RNBQKBNR b KQkq - 0 3,"Might have looked at Nc6,Nd7 or exf. The queen is out a little early and could become a target. But it's not a terrible move"
+6,Qf6,d8f6,rnb1kbnr/ppp2ppp/5q2/3pp3/5P2/3PP3/PPP3PP/RNBQKBNR w KQkq - 1 4,"Might have looked at Nc6,Nd7 or exf. The queen is out a little early and could become a target. But it's not a terrible move"
+7,Nf3,g1f3,rnb1kbnr/ppp2ppp/5q2/3pp3/5P2/3PPN2/PPP3PP/RNBQKB1R b KQkq - 2 4,Looks like a good move but as you soon see white builds his pawn center while your bishop dances. Maybe Bd6 was better
+8,exf4,e5f4,rnb1kbnr/ppp2ppp/5q2/3p4/5p2/3PPN2/PPP3PP/RNBQKB1R w KQkq - 0 5,Looks like a good move but as you soon see white builds his pawn center while your bishop dances. Maybe Bd6 was better
+9,exf4,e3f4,rnb1kbnr/ppp2ppp/5q2/3p4/5P2/3P1N2/PPP3PP/RNBQKB1R b KQkq - 0 5,Looks like a good move but as you soon see white builds his pawn center while your bishop dances. Maybe Bd6 was better
+10,Bc5,f8c5,rnb1k1nr/ppp2ppp/5q2/2bp4/5P2/3P1N2/PPP3PP/RNBQKB1R w KQkq - 1 6,Looks like a good move but as you soon see white builds his pawn center while your bishop dances. Maybe Bd6 was better
+11,d4,d3d4,rnb1k1nr/ppp2ppp/5q2/2bp4/3P1P2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 6,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+12,Bb4+,c5b4,rnb1k1nr/ppp2ppp/5q2/3p4/1b1P1P2/5N2/PPP3PP/RNBQKB1R w KQkq - 1 7,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+13,c3,c2c3,rnb1k1nr/ppp2ppp/5q2/3p4/1b1P1P2/2P2N2/PP4PP/RNBQKB1R b KQkq - 0 7,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+14,Ba5,b4a5,rnb1k1nr/ppp2ppp/5q2/b2p4/3P1P2/2P2N2/PP4PP/RNBQKB1R w KQkq - 1 8,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+15,Qa4+,d1a4,rnb1k1nr/ppp2ppp/5q2/b2p4/Q2P1P2/2P2N2/PP4PP/RNB1KB1R b KQkq - 2 8,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+16,c6,c7c6,rnb1k1nr/pp3ppp/2p2q2/b2p4/Q2P1P2/2P2N2/PP4PP/RNB1KB1R w KQkq - 0 9,"A blunder. Many times when the queen does this double attack with check, the knight can go to c6 and protect the attacked piece at either a5 or b4, this is one of those times. Or if the knight Itself is attacked it can go to c6 and block the check."
+17,Qxa5,a4a5,rnb1k1nr/pp3ppp/2p2q2/Q2p4/3P1P2/2P2N2/PP4PP/RNB1KB1R b KQkq - 0 9,A blunder. f6 and the knight will be lost for a pawn.
+18,Qe6+,f6e6,rnb1k1nr/pp3ppp/2p1q3/Q2p4/3P1P2/2P2N2/PP4PP/RNB1KB1R w KQkq - 1 10,A blunder. f6 and the knight will be lost for a pawn.
+19,Ne5,f3e5,rnb1k1nr/pp3ppp/2p1q3/Q2pN3/3P1P2/2P5/PP4PP/RNB1KB1R b KQkq - 2 10,A blunder. f6 and the knight will be lost for a pawn.
+20,b6,b7b6,rnb1k1nr/p4ppp/1pp1q3/Q2pN3/3P1P2/2P5/PP4PP/RNB1KB1R w KQkq - 0 11,f6 needs to be played here.White plays Kf2 or Kd1 and the pin is broken.
+21,Qa3,a5a3,rnb1k1nr/p4ppp/1pp1q3/3pN3/3P1P2/Q1P5/PP4PP/RNB1KB1R b KQkq - 1 11,f6 needs to be played here.White plays Kf2 or Kd1 and the pin is broken.
+22,Nd7,b8d7,r1b1k1nr/p2n1ppp/1pp1q3/3pN3/3P1P2/Q1P5/PP4PP/RNB1KB1R w KQkq - 2 12,f6 needs to be played here.White plays Kf2 or Kd1 and the pin is broken.
+23,Bd3,f1d3,r1b1k1nr/p2n1ppp/1pp1q3/3pN3/3P1P2/Q1PB4/PP4PP/RNB1K2R b KQkq - 3 12,White gives you one more chance
+24,f6,f7f6,r1b1k1nr/p2n2pp/1pp1qp2/3pN3/3P1P2/Q1PB4/PP4PP/RNB1K2R w KQkq - 0 13,There we go
+25,f5,f4f5,r1b1k1nr/p2n2pp/1pp1qp2/3pNP2/3P4/Q1PB4/PP4PP/RNB1K2R b KQkq - 0 13,
+26,Qe7,e6e7,r1b1k1nr/p2nq1pp/1pp2p2/3pNP2/3P4/Q1PB4/PP4PP/RNB1K2R w KQkq - 1 14,
+27,O-O,e1g1,r1b1k1nr/p2nq1pp/1pp2p2/3pNP2/3P4/Q1PB4/PP4PP/RNB2RK1 b kq - 2 14,
+28,fxe5,f6e5,r1b1k1nr/p2nq1pp/1pp5/3ppP2/3P4/Q1PB4/PP4PP/RNB2RK1 w kq - 0 15,Also to be considered is QxQ giving him isolated doubled rook pawns.It's not bad to trade since material is even again.
+29,Re1,f1e1,r1b1k1nr/p2nq1pp/1pp5/3ppP2/3P4/Q1PB4/PP4PP/RNB1R1K1 b kq - 1 15,e5 isn't bad either
+30,Qh4,e7h4,r1b1k1nr/p2n2pp/1pp5/3ppP2/3P3q/Q1PB4/PP4PP/RNB1R1K1 w kq - 2 16,e5 isn't bad either
+31,g3,g2g3,r1b1k1nr/p2n2pp/1pp5/3ppP2/3P3q/Q1PB2P1/PP5P/RNB1R1K1 b kq - 0 16,Oops
+32,Qh5,h4h5,r1b1k1nr/p2n2pp/1pp5/3ppP1q/3P4/Q1PB2P1/PP5P/RNB1R1K1 w kq - 1 17,Oops
+33,dxe5,d4e5,r1b1k1nr/p2n2pp/1pp5/3pPP1q/8/Q1PB2P1/PP5P/RNB1R1K1 b kq - 0 17,Oops
+34,Ne7,g8e7,r1b1k2r/p2nn1pp/1pp5/3pPP1q/8/Q1PB2P1/PP5P/RNB1R1K1 w kq - 1 18,Oops
+35,g4,g3g4,r1b1k2r/p2nn1pp/1pp5/3pPP1q/6P1/Q1PB4/PP5P/RNB1R1K1 b kq - 0 18,Oops
+36,Qxg4+,h5g4,r1b1k2r/p2nn1pp/1pp5/3pPP2/6q1/Q1PB4/PP5P/RNB1R1K1 w kq - 0 19,correct
+37,Kf2,g1f2,r1b1k2r/p2nn1pp/1pp5/3pPP2/6q1/Q1PB4/PP3K1P/RNB1R3 b kq - 1 19,Nc5 attacks the bishop and frees yours to attack f5.
+38,Qh4+,g4h4,r1b1k2r/p2nn1pp/1pp5/3pPP2/7q/Q1PB4/PP3K1P/RNB1R3 w kq - 2 20,Another blunder
+39,Kg2,f2g2,r1b1k2r/p2nn1pp/1pp5/3pPP2/7q/Q1PB4/PP4KP/RNB1R3 b kq - 3 20,Another blunder
+40,Qxe1,h4e1,r1b1k2r/p2nn1pp/1pp5/3pPP2/8/Q1PB4/PP4KP/RNB1q3 w kq - 0 21,"Taking advantage of it again, sometimes you just play solid and notice your opponent's mistakes and all of a sudden you've won"
+41,Bg5,c1g5,r1b1k2r/p2nn1pp/1pp5/3pPPB1/8/Q1PB4/PP4KP/RN2q3 b kq - 1 21,Good move as QxNe7 is mate. Also is Qxe5
+42,c5,c6c5,r1b1k2r/p2nn1pp/1p6/2ppPPB1/8/Q1PB4/PP4KP/RN2q3 w kq - 0 22,Good move as QxNe7 is mate. Also is Qxe5
+43,f6,f5f6,r1b1k2r/p2nn1pp/1p3P2/2ppP1B1/8/Q1PB4/PP4KP/RN2q3 b kq - 0 22,"Lots of stuff going on over there now, got to be careful.Not a bad move though. You also have Qxe5, if then fxNe7 you have QxB, if fxg you still play QxB with check then pick up the pawn next move."
+44,h6,h7h6,r1b1k2r/p2nn1p1/1p3P1p/2ppP1B1/8/Q1PB4/PP4KP/RN2q3 w kq - 0 23,"Lots of stuff going on over there now, got to be careful.Not a bad move though. You also have Qxe5, if then fxNe7 you have QxB, if fxg you still play QxB with check then pick up the pawn next move."
+45,Bg6+,d3g6,r1b1k2r/p2nn1p1/1p3PBp/2ppP1B1/8/Q1P5/PP4KP/RN2q3 b kq - 1 23,Not sure what he's thinking. fxg Rg8 Bxh6 I would done
+46,Nxg6,e7g6,r1b1k2r/p2n2p1/1p3Pnp/2ppP1B1/8/Q1P5/PP4KP/RN2q3 w kq - 0 24,Not sure what he's thinking. fxg Rg8 Bxh6 I would done
+47,Qb3,a3b3,r1b1k2r/p2n2p1/1p3Pnp/2ppP1B1/8/1QP5/PP4KP/RN2q3 b kq - 1 24,Not sure what he's thinking. fxg Rg8 Bxh6 I would done

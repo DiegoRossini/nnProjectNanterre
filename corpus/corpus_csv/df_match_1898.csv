@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Testing the Budapest.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Testing the Budapest.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Testing the Budapest.
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Testing the Budapest.
+5,dxe5,d4e5,rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,Something has to block the check.
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/5n2/4P3/1bP5/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,Something has to block the check.
+7,Bd2,c1d2,rnbqk2r/pppp1ppp/5n2/4P3/1bP5/8/PP1BPPPP/RN1QKBNR b KQkq - 2 4,"If Qxd2, Ng4 all the same. But it was better for white."
+8,Bxd2+,b4d2,rnbqk2r/pppp1ppp/5n2/4P3/2P5/8/PP1bPPPP/RN1QKBNR w KQkq - 0 5,"If Qxd2, Ng4 all the same. But it was better for white."
+9,Nxd2,b1d2,rnbqk2r/pppp1ppp/5n2/4P3/2P5/8/PP1NPPPP/R2QKBNR b KQkq - 0 5,"If Qxd2, Ng4 all the same. But it was better for white."
+10,Ng4,f6g4,rnbqk2r/pppp1ppp/8/4P3/2P3n1/8/PP1NPPPP/R2QKBNR w KQkq - 1 6,"It comes to mind Qh4 (pinning the pawn to the rook). I didn't because of g3. In that case, to mantain the pin will cost several tempos to black, and I won't get much (by experience)."
+11,h3,h2h3,rnbqk2r/pppp1ppp/8/4P3/2P3n1/7P/PP1NPPP1/R2QKBNR b KQkq - 0 6,"It comes to mind Qh4 (pinning the pawn to the rook). I didn't because of g3. In that case, to mantain the pin will cost several tempos to black, and I won't get much (by experience)."
+12,Nxe5,g4e5,rnbqk2r/pppp1ppp/8/4n3/2P5/7P/PP1NPPP1/R2QKBNR w KQkq - 0 7,"f4 is disastrous for white, so this seems safe."
+13,e3,e2e3,rnbqk2r/pppp1ppp/8/4n3/2P5/4P2P/PP1N1PP1/R2QKBNR b KQkq - 0 7,"Uff, just a ""shot in the dark"". I should have castled first."
+14,d5,d7d5,rnbqk2r/ppp2ppp/8/3pn3/2P5/4P2P/PP1N1PP1/R2QKBNR w KQkq - 0 8,"Uff, just a ""shot in the dark"". I should have castled first."
+15,Ngf3,g1f3,rnbqk2r/ppp2ppp/8/3pn3/2P5/4PN1P/PP1N1PP1/R2QKB1R b KQkq - 1 8,"Any attempt to defend the knight seems to fail, and NxN just helps him, so..."
+16,Nxc4,e5c4,rnbqk2r/ppp2ppp/8/3p4/2n5/4PN1P/PP1N1PP1/R2QKB1R w KQkq - 0 9,...aware of QxQ+ to come.
+17,Nxc4,d2c4,rnbqk2r/ppp2ppp/8/3p4/2N5/4PN1P/PP3PP1/R2QKB1R b KQkq - 0 9,"This because there are no queens on the board, an white misses his dsb."
+18,dxc4,d5c4,rnbqk2r/ppp2ppp/8/8/2p5/4PN1P/PP3PP1/R2QKB1R w KQkq - 0 10,"This because there are no queens on the board, an white misses his dsb."
+19,Qxd8+,d1d8,rnbQk2r/ppp2ppp/8/8/2p5/4PN1P/PP3PP1/R3KB1R b KQkq - 0 10,"This because there are no queens on the board, an white misses his dsb."
+20,Kxd8,e8d8,rnbk3r/ppp2ppp/8/8/2p5/4PN1P/PP3PP1/R3KB1R w KQ - 0 11,"This because there are no queens on the board, an white misses his dsb."
+21,O-O-O+,e1c1,rnbk3r/ppp2ppp/8/8/2p5/4PN1P/PP3PP1/2KR1B1R b - - 1 11,"This because there are no queens on the board, an white misses his dsb."
+22,Ke7,d8e7,rnb4r/ppp1kppp/8/8/2p5/4PN1P/PP3PP1/2KR1B1R w - - 2 12,"This because there are no queens on the board, an white misses his dsb."
+23,Bxc4,f1c4,rnb4r/ppp1kppp/8/8/2B5/4PN1P/PP3PP1/2KR3R b - - 0 12,Foreseen.
+24,Nc6,b8c6,r1b4r/ppp1kppp/2n5/8/2B5/4PN1P/PP3PP1/2KR3R w - - 1 13,Foreseen.
+25,Ng5,f3g5,r1b4r/ppp1kppp/2n5/6N1/2B5/4P2P/PP3PP1/2KR3R b - - 2 13,Foreseen.
+26,f6,f7f6,r1b4r/ppp1k1pp/2n2p2/6N1/2B5/4P2P/PP3PP1/2KR3R w - - 0 14,"Now, Nd7 will just lose the knight. Black's position is not all too bad (white is still better)."
+27,Ne4,g5e4,r1b4r/ppp1k1pp/2n2p2/8/2B1N3/4P2P/PP3PP1/2KR3R b - - 1 14,"I have to play with great care, stopping the ""holes"" everywhere in my position. If Bf5, Nc5."
+28,Ne5,c6e5,r1b4r/ppp1k1pp/5p2/4n3/2B1N3/4P2P/PP3PP1/2KR3R w - - 2 15,Now I have a shadow of a grimp on d3. I'll try to exploit this.
+29,Bb3,c4b3,r1b4r/ppp1k1pp/5p2/4n3/4N3/1B2P2P/PP3PP1/2KR3R b - - 3 15,Now I have a shadow of a grimp on d3. I'll try to exploit this.
+30,Bf5,c8f5,r6r/ppp1k1pp/5p2/4nb2/4N3/1B2P2P/PP3PP1/2KR3R w - - 4 16,"The knight has to retreat, ""losing"" control of d3."
+31,Nc5,e4c5,r6r/ppp1k1pp/5p2/2N1nb2/8/1B2P2P/PP3PP1/2KR3R b - - 5 16,"The knight has to retreat, ""losing"" control of d3."
+32,b6,b7b6,r6r/p1p1k1pp/1p3p2/2N1nb2/8/1B2P2P/PP3PP1/2KR3R w - - 0 17,"The knight has to retreat, ""losing"" control of d3."
+33,Na6,c5a6,r6r/p1p1k1pp/Np3p2/4nb2/8/1B2P2P/PP3PP1/2KR3R b - - 1 17,"Very well, since if white allows Nxf2, Nxc7 is not a match, because of the opening of the c column..."
+34,Nd3+,e5d3,r6r/p1p1k1pp/Np3p2/5b2/8/1B1nP2P/PP3PP1/2KR3R w - - 2 18,"Very well, since if white allows Nxf2, Nxc7 is not a match, because of the opening of the c column..."
+35,Rxd3,d1d3,r6r/p1p1k1pp/Np3p2/5b2/8/1B1RP2P/PP3PP1/2K4R b - - 0 18,"Very well, since if white allows Nxf2, Nxc7 is not a match, because of the opening of the c column..."
+36,Bxd3,f5d3,r6r/p1p1k1pp/Np3p2/8/8/1B1bP2P/PP3PP1/2K4R w - - 0 19,Now the position is not too unbalanced. White has to fight with an exchange down...
+37,Nb4,a6b4,r6r/p1p1k1pp/1p3p2/8/1N6/1B1bP2P/PP3PP1/2K4R b - - 1 19,"It was tempting to keep the diagonal, but after e4 it will be closed all the same."
+38,Be4,d3e4,r6r/p1p1k1pp/1p3p2/8/1N2b3/1B2P2P/PP3PP1/2K4R w - - 2 20,"It was tempting to keep the diagonal, but after e4 it will be closed all the same."
+39,f3,f2f3,r6r/p1p1k1pp/1p3p2/8/1N2b3/1B2PP1P/PP4P1/2K4R b - - 0 20,"It was tempting to keep the diagonal, but after e4 it will be closed all the same."
+40,Bb7,e4b7,r6r/pbp1k1pp/1p3p2/8/1N6/1B2PP1P/PP4P1/2K4R w - - 1 21,"It was tempting to keep the diagonal, but after e4 it will be closed all the same."
+41,e4,e3e4,r6r/pbp1k1pp/1p3p2/8/1N2P3/1B3P1P/PP4P1/2K4R b - - 0 21,"I have to control the white pieces. And I don't have to exchange the lsb, if possible."
+42,c6,c7c6,r6r/pb2k1pp/1pp2p2/8/1N2P3/1B3P1P/PP4P1/2K4R w - - 0 22,"I have to control the white pieces. And I don't have to exchange the lsb, if possible."
+43,Re1,h1e1,r6r/pb2k1pp/1pp2p2/8/1N2P3/1B3P1P/PP4P1/2K1R3 b - - 1 22,"Preparing e5. This gives me a tempo, since is only half dangerous (Kxf6 is possible provided the rook can't penetrate)."
+44,a5,a7a5,r6r/1b2k1pp/1pp2p2/p7/1N2P3/1B3P1P/PP4P1/2K1R3 w - - 0 23,Go back.

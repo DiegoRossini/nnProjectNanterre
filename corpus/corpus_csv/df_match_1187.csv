@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal opeaning
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,same
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,queen out too soon
+4,g6,g7g6,rnbqkbnr/pppp1p1p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 0 3,pawn
+5,Qxe5+,h5e5,rnbqkbnr/pppp1p1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 3,check
+6,Be7,f8e7,rnbqk1nr/ppppbp1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 1 4,safe
+7,Qxh8,e5h8,rnbqk1nQ/ppppbp1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR b KQq - 0 4,all white is doing is moving the queen
+8,Bf8,e7f8,rnbqkbnQ/pppp1p1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 5,queen
+9,Qxg8,h8g8,rnbqkbQ1/pppp1p1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR b KQq - 0 5,queen
+10,Qe7,d8e7,rnb1kbQ1/ppppqp1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 6,queen
+11,b3,b2b3,rnb1kbQ1/ppppqp1p/6p1/8/4P3/1P6/P1PP1PPP/RNB1KBNR b KQq - 0 6,pawn down 9
+12,d6,d7d6,rnb1kbQ1/ppp1qp1p/3p2p1/8/4P3/1P6/P1PP1PPP/RNB1KBNR w KQq - 0 7,pawn
+13,Qxh7,g8h7,rnb1kb2/ppp1qp1Q/3p2p1/8/4P3/1P6/P1PP1PPP/RNB1KBNR b KQq - 0 7,queen
+14,Qxe4+,e7e4,rnb1kb2/ppp2p1Q/3p2p1/8/4q3/1P6/P1PP1PPP/RNB1KBNR w KQq - 0 8,check
+15,Ne2,g1e2,rnb1kb2/ppp2p1Q/3p2p1/8/4q3/1P6/P1PPNPPP/RNB1KB1R b KQq - 1 8,knight
+16,Qxc2,e4c2,rnb1kb2/ppp2p1Q/3p2p1/8/8/1P6/P1qPNPPP/RNB1KB1R w KQq - 0 9,queen
+17,Nbc3,b1c3,rnb1kb2/ppp2p1Q/3p2p1/8/8/1PN5/P1qPNPPP/R1B1KB1R b KQq - 1 9,knight
+18,Qf5,c2f5,rnb1kb2/ppp2p1Q/3p2p1/5q2/8/1PN5/P2PNPPP/R1B1KB1R w KQq - 2 10,queen
+19,Nd4,e2d4,rnb1kb2/ppp2p1Q/3p2p1/5q2/3N4/1PN5/P2P1PPP/R1B1KB1R b KQq - 3 10,knight
+20,Bd7,c8d7,rn2kb2/pppb1p1Q/3p2p1/5q2/3N4/1PN5/P2P1PPP/R1B1KB1R w KQq - 4 11,bad move

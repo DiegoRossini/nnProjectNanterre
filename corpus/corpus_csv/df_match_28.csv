@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Just a reminder about the time control. It was 40 moves in 90 minutes, after that an extra 30 minutes is added if your time runs out. There is also an increment of 30 seconds per move."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"This was a surprise. My opponent - the number 5 seed in the tournament, and a FIDE Master - the first I have ever played to my knowledge - has played the Benko Gambit."
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"And this surprised him, as d4 player he was not expecting me to allow a transposition to a e4 opening."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"The Pirc Defence (correctly pronounced ""peerts"", but often mispronounced ""perk""), sometimes known as the Ufimtsev Defence or Yugoslav Defence, is a chess opening characterised by Black responding to 1.e4 with 1...d6 and 2...Nf6, followed by ...g6 and ...Bg7, while allowing White to establish an impressive-looking centre with pawns on d4 and e4. It is named after the Slovenian Grandmaster Vasja Pirc."
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,The usual reply.
+6,c6,c7c6,rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Slightly unusual - black normally plays g6 here.
+7,Bd3,f1d3,rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 1 4,No point in going to c4 where it can be hit with b7-b5
+8,e5,e7e5,rnbqkb1r/pp3ppp/2pp1n2/4p3/3PP3/2NB4/PPP2PPP/R1BQK1NR w KQkq - 0 5,Black stakes a claim in the centre.
+9,Nge2,g1e2,rnbqkb1r/pp3ppp/2pp1n2/4p3/3PP3/2NB4/PPP1NPPP/R1BQK2R b KQkq - 1 5,And this is the usual reply
+10,b5,b7b5,rnbqkb1r/p4ppp/2pp1n2/1p2p3/3PP3/2NB4/PPP1NPPP/R1BQK2R w KQkq - 0 6,"I can't see this move on any of my databases, and I don't think it is very good! Too many pawn moves! Nb-d7, Be7, g6, exd4, Qc7 and Qb6 have all been played here."
+11,f3,f2f3,rnbqkb1r/p4ppp/2pp1n2/1p2p3/3PP3/2NB1P2/PPP1N1PP/R1BQK2R b KQkq - 0 6,"The setup f2–f3, Be3 and Qd2 is commonly used against the King's Indian Defence and Dragon Sicilian, and can also be used against the Pirc; indeed, this system is as old as the Pirc itself."
+12,h5,h7h5,rnbqkb1r/p4pp1/2pp1n2/1p2p2p/3PP3/2NB1P2/PPP1N1PP/R1BQK2R w KQkq - 0 7,"Another strange pawn move. Again, I think Nb-d7, Be7, g6, exd4, Qc7 and Qb6 are all better."
+13,Bg5,c1g5,rnbqkb1r/p4pp1/2pp1n2/1p2p1Bp/3PP3/2NB1P2/PPP1N1PP/R2QK2R b KQkq - 1 7,"Maybe I should have continued with my plan of Be3, but I almost felt duty bound to try and exploit his weakening of the g5 square and the fact he couldn't play h7-h6 any more."
+14,Be7,f8e7,rnbqk2r/p3bpp1/2pp1n2/1p2p1Bp/3PP3/2NB1P2/PPP1N1PP/R2QK2R w KQkq - 2 8,He at last develops.
+15,Qd2,d1d2,rnbqk2r/p3bpp1/2pp1n2/1p2p1Bp/3PP3/2NB1P2/PPPQN1PP/R3K2R b KQkq - 3 8,And I continue.
+16,a6,a7a6,rnbqk2r/4bpp1/p1pp1n2/1p2p1Bp/3PP3/2NB1P2/PPPQN1PP/R3K2R w KQkq - 0 9,Maybe he was planning c6-c5.
+17,dxe5,d4e5,rnbqk2r/4bpp1/p1pp1n2/1p2P1Bp/4P3/2NB1P2/PPPQN1PP/R3K2R b KQkq - 0 9,I exchanged as I was afraid of him exchanging on d4 followed by c6-c5-c4
+18,dxe5,d6e5,rnbqk2r/4bpp1/p1p2n2/1p2p1Bp/4P3/2NB1P2/PPPQN1PP/R3K2R w KQkq - 0 10,He takes back.
+19,Nd1,c3d1,rnbqk2r/4bpp1/p1p2n2/1p2p1Bp/4P3/3B1P2/PPPQN1PP/R2NK2R b KQkq - 1 10,I decide to re-route my knight to e3 and I was thinking about strengthening my centre with c2-c3.
+20,Be6,c8e6,rn1qk2r/4bpp1/p1p1bn2/1p2p1Bp/4P3/3B1P2/PPPQN1PP/R2NK2R w KQkq - 2 11,He develops.

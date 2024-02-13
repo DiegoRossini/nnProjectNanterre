@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,last book move
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,last book move
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,last book move
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,last book move
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,last book move
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,last book move
+7,d4,d2d4,rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,last book move
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,last book move
+9,Be2,f1e2,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/5N2/PPP1BPPP/RNBQK2R b KQkq - 2 5,last book move
+10,Bd6,f8d6,rnbqk2r/ppp2ppp/3b1n2/3p4/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 3 6,last book move
+11,O-O,e1g1,rnbqk2r/ppp2ppp/3b1n2/3p4/3P4/5N2/PPP1BPPP/RNBQ1RK1 b kq - 4 6,last book move
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/3b1n2/3p4/3P4/5N2/PPP1BPPP/RNBQ1RK1 w - - 5 7,last book move
+13,c4,c2c4,rnbq1rk1/ppp2ppp/3b1n2/3p4/2PP4/5N2/PP2BPPP/RNBQ1RK1 b - - 0 7,last book move
+14,dxc4,d5c4,rnbq1rk1/ppp2ppp/3b1n2/8/2pP4/5N2/PP2BPPP/RNBQ1RK1 w - - 0 8,last book move
+15,Bxc4,e2c4,rnbq1rk1/ppp2ppp/3b1n2/8/2BP4/5N2/PP3PPP/RNBQ1RK1 b - - 0 8,last book move
+16,Nbd7,b8d7,r1bq1rk1/pppn1ppp/3b1n2/8/2BP4/5N2/PP3PPP/RNBQ1RK1 w - - 1 9,last book move
+17,Nc3,b1c3,r1bq1rk1/pppn1ppp/3b1n2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 b - - 2 9,last book move
+18,Nb6,d7b6,r1bq1rk1/ppp2ppp/1n1b1n2/8/2BP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 3 10,last book move
+19,Bb3,c4b3,r1bq1rk1/ppp2ppp/1n1b1n2/8/3P4/1BN2N2/PP3PPP/R1BQ1RK1 b - - 4 10,last book move
+20,h6,h7h6,r1bq1rk1/ppp2pp1/1n1b1n1p/8/3P4/1BN2N2/PP3PPP/R1BQ1RK1 w - - 0 11,Covers g5
+21,Be3,c1e3,r1bq1rk1/ppp2pp1/1n1b1n1p/8/3P4/1BN1BN2/PP3PPP/R2Q1RK1 b - - 1 11,Alternative variation: 13. Bxh6 gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 $11
+22,Re8,f8e8,r1bqr1k1/ppp2pp1/1n1b1n1p/8/3P4/1BN1BN2/PP3PPP/R2Q1RK1 w - - 2 12,Alternative variation: 13. Bxh6 gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 $11
+23,Qc2,d1c2,r1bqr1k1/ppp2pp1/1n1b1n1p/8/3P4/1BN1BN2/PPQ2PPP/R4RK1 b - - 3 12,Alternative variation: 13. Bxh6 gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 $11
+24,Bg4,c8g4,r2qr1k1/ppp2pp1/1n1b1n1p/8/3P2b1/1BN1BN2/PPQ2PPP/R4RK1 w - - 4 13,Alternative variation: 13. Bxh6 gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 $11
+25,Nd2,f3d2,r2qr1k1/ppp2pp1/1n1b1n1p/8/3P2b1/1BN1B3/PPQN1PPP/R4RK1 b - - 5 13,Alternative variation: 13. Bxh6 gxh6 14. Qg6+ Kh8 15. Qxh6+ Nh7 $11
+26,c6,c7c6,r2qr1k1/pp3pp1/1npb1n1p/8/3P2b1/1BN1B3/PPQN1PPP/R4RK1 w - - 0 14,Consolidates b5+d5
+27,Nc4,d2c4,r2qr1k1/pp3pp1/1npb1n1p/8/2NP2b1/1BN1B3/PPQ2PPP/R4RK1 b - - 1 14,Alternative variation: 15. Rfe1 Nxc4 16. Bxc4 Qd7 $15
+28,Bc7,d6c7,r2qr1k1/ppb2pp1/1np2n1p/8/2NP2b1/1BN1B3/PPQ2PPP/R4RK1 w - - 2 15,Alternative variation: 15. Rfe1 Nxc4 16. Bxc4 Qd7 $15
+29,h3,h2h3,r2qr1k1/ppb2pp1/1np2n1p/8/2NP2b1/1BN1B2P/PPQ2PP1/R4RK1 b - - 0 15,Alternative variation: 15. Rfe1 Nxc4 16. Bxc4 Qd7 $15
+30,Bh5,g4h5,r2qr1k1/ppb2pp1/1np2n1p/7b/2NP4/1BN1B2P/PPQ2PP1/R4RK1 w - - 1 16,Alternative variation: 15... Nxc4 16. Bxc4 Qd6 $19
+31,a4,a2a4,r2qr1k1/ppb2pp1/1np2n1p/7b/P1NP4/1BN1B2P/1PQ2PP1/R4RK1 b - - 0 16,Alternative variation: 16. Ne5 [was possible] Nbd5 17. Rae1 $11
+32,Nxc4,b6c4,r2qr1k1/ppb2pp1/2p2n1p/7b/P1nP4/1BN1B2P/1PQ2PP1/R4RK1 w - - 0 17,Decoy: e3
+33,Bxc4,b3c4,r2qr1k1/ppb2pp1/2p2n1p/7b/P1BP4/2N1B2P/1PQ2PP1/R4RK1 b - - 0 17,Decoy: e3
+34,Qd6,d8d6,r3r1k1/ppb2pp1/2pq1n1p/7b/P1BP4/2N1B2P/1PQ2PP1/R4RK1 w - - 1 18,Decoy: e3
+35,g3,g2g3,r3r1k1/ppb2pp1/2pq1n1p/7b/P1BP4/2N1B1PP/1PQ2P2/R4RK1 b - - 0 18,Decoy: e3
+36,Rxe3,e8e3,r5k1/ppb2pp1/2pq1n1p/7b/P1BP4/2N1r1PP/1PQ2P2/R4RK1 w - - 0 19,Decoy: e3
+37,fxe3,f2e3,r5k1/ppb2pp1/2pq1n1p/7b/P1BP4/2N1P1PP/1PQ5/R4RK1 b - - 0 19,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+38,Qxg3+,d6g3,r5k1/ppb2pp1/2p2n1p/7b/P1BP4/2N1P1qP/1PQ5/R4RK1 w - - 0 20,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+39,Qg2,c2g2,r5k1/ppb2pp1/2p2n1p/7b/P1BP4/2N1P1qP/1P4Q1/R4RK1 b - - 1 20,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+40,Qxe3+,g3e3,r5k1/ppb2pp1/2p2n1p/7b/P1BP4/2N1q2P/1P4Q1/R4RK1 w - - 0 21,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+41,Kh1,g1h1,r5k1/ppb2pp1/2p2n1p/7b/P1BP4/2N1q2P/1P4Q1/R4R1K b - - 1 21,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+42,Qxd4,e3d4,r5k1/ppb2pp1/2p2n1p/7b/P1Bq4/2N4P/1P4Q1/R4R1K w - - 0 22,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+43,Bb3,c4b3,r5k1/ppb2pp1/2p2n1p/7b/P2q4/1BN4P/1P4Q1/R4R1K b - - 1 22,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+44,Re8,a8e8,4r1k1/ppb2pp1/2p2n1p/7b/P2q4/1BN4P/1P4Q1/R4R1K w - - 2 23,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+45,Rf2,f1f2,4r1k1/ppb2pp1/2p2n1p/7b/P2q4/1BN4P/1P3RQ1/R6K b - - 3 23,Alternative variation: 23. Rae1 Rxe1 24. Rxe1 Qh4 $19
+46,Re5,e8e5,6k1/ppb2pp1/2p2n1p/4r2b/P2q4/1BN4P/1P3RQ1/R6K w - - 4 24,Alternative variation: 23... Re3 [and Black takes home the point] 24. Rg1 g5 25. Rgf1 $19
+47,Rxf6,f2f6,6k1/ppb2pp1/2p2R1p/4r2b/P2q4/1BN4P/1P4Q1/R6K b - - 0 24,Alternative variation: 25. Rxf7 Bxf7 26. Bxf7+ Kxf7 27. Qe2 $19
+48,Rg5,e5g5,6k1/ppb2pp1/2p2R1p/6rb/P2q4/1BN4P/1P4Q1/R6K w - - 1 25,Alternative variation: 25. Rxf7 Bxf7 26. Bxf7+ Kxf7 27. Qe2 $19
+49,Qf2,g2f2,6k1/ppb2pp1/2p2R1p/6rb/P2q4/1BN4P/1P3Q2/R6K b - - 2 25,Alternative variation: 25. Rxf7 Bxf7 26. Bxf7+ Kxf7 27. Qe2 $19
+50,gxf6,g7f6,6k1/ppb2p2/2p2p1p/6rb/P2q4/1BN4P/1P3Q2/R6K w - - 0 26,"Alternative variation: 26. Rf1 [no good, but what else?] Qd7 27. Qe3 $19"
+51,Qxd4,f2d4,6k1/ppb2p2/2p2p1p/6rb/P2Q4/1BN4P/1P6/R6K b - - 0 26,"Alternative variation: 26. Rf1 [no good, but what else?] Qd7 27. Qe3 $19"
+52,Bf3#,h5f3,6k1/ppb2p2/2p2p1p/6r1/P2Q4/1BN2b1P/1P6/R6K w - - 1 27,

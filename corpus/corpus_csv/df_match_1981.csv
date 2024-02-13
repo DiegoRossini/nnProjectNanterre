@@ -1,0 +1,103 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Open sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Open sicilian
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Open sicilian
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Open sicilian
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Open sicilian
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,preventing the annoying pin on c3 knight.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,preventing the annoying pin on c3 knight.
+8,d6,d7d6,r1bqkbnr/pp2pppp/2np4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,preventing the annoying pin on c3 knight.
+9,Bc4,f1c4,r1bqkbnr/pp2pppp/2np4/8/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,preventing the annoying pin on c3 knight.
+10,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,preventing the annoying pin on c3 knight.
+11,Nc3,b1c3,r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 3 6,preventing the annoying pin on c3 knight.
+12,a6,a7a6,r1bqkb1r/1p2pppp/p1np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7,preventing the annoying pin on c3 knight.
+13,O-O,e1g1,r1bqkb1r/1p2pppp/p1np1n2/8/2BNP3/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 7,"Not a great move, If Qxd6 white wins a pawn."
+14,e5,e7e5,r1bqkb1r/1p3ppp/p1np1n2/4p3/2BNP3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 8,"Not a great move, If Qxd6 white wins a pawn."
+15,Nxc6,d4c6,r1bqkb1r/1p3ppp/p1Np1n2/4p3/2B1P3/2N5/PPP2PPP/R1BQ1RK1 b kq - 0 8,"Not a great move, If Qxd6 white wins a pawn."
+16,bxc6,b7c6,r1bqkb1r/5ppp/p1pp1n2/4p3/2B1P3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 9,"Not a great move, If Qxd6 white wins a pawn."
+17,Be3,c1e3,r1bqkb1r/5ppp/p1pp1n2/4p3/2B1P3/2N1B3/PPP2PPP/R2Q1RK1 b kq - 1 9,"Not a great move, If Qxd6 white wins a pawn."
+18,Bb7,c8b7,r2qkb1r/1b3ppp/p1pp1n2/4p3/2B1P3/2N1B3/PPP2PPP/R2Q1RK1 w kq - 2 10,"Not a great move, If Qxd6 white wins a pawn."
+19,Re1,f1e1,r2qkb1r/1b3ppp/p1pp1n2/4p3/2B1P3/2N1B3/PPP2PPP/R2QR1K1 b kq - 3 10,"Not a great move, If Qxd6 white wins a pawn."
+20,Be7,f8e7,r2qk2r/1b2bppp/p1pp1n2/4p3/2B1P3/2N1B3/PPP2PPP/R2QR1K1 w kq - 4 11,"Not a great move, If Qxd6 white wins a pawn."
+21,Qd2,d1d2,r2qk2r/1b2bppp/p1pp1n2/4p3/2B1P3/2N1B3/PPPQ1PPP/R3R1K1 b kq - 5 11,"Not a great move, If Qxd6 white wins a pawn."
+22,c5,c6c5,r2qk2r/1b2bppp/p2p1n2/2p1p3/2B1P3/2N1B3/PPPQ1PPP/R3R1K1 w kq - 0 12,"Not a great move, If Qxd6 white wins a pawn."
+23,Bg5,e3g5,r2qk2r/1b2bppp/p2p1n2/2p1p1B1/2B1P3/2N5/PPPQ1PPP/R3R1K1 b kq - 1 12,"Not a great move, If Qxd6 white wins a pawn."
+24,Qb6,d8b6,r3k2r/1b2bppp/pq1p1n2/2p1p1B1/2B1P3/2N5/PPPQ1PPP/R3R1K1 w kq - 2 13,"Not a great move, If Qxd6 white wins a pawn."
+25,Bxf6,g5f6,r3k2r/1b2bppp/pq1p1B2/2p1p3/2B1P3/2N5/PPPQ1PPP/R3R1K1 b kq - 0 13,"Not a great move, If Qxd6 white wins a pawn."
+26,Bxf6,e7f6,r3k2r/1b3ppp/pq1p1b2/2p1p3/2B1P3/2N5/PPPQ1PPP/R3R1K1 w kq - 0 14,"Not a great move, If Qxd6 white wins a pawn."
+27,Nd5,c3d5,r3k2r/1b3ppp/pq1p1b2/2pNp3/2B1P3/8/PPPQ1PPP/R3R1K1 b kq - 1 14,"Not a great move, If Qxd6 white wins a pawn."
+28,Bxd5,b7d5,r3k2r/5ppp/pq1p1b2/2pbp3/2B1P3/8/PPPQ1PPP/R3R1K1 w kq - 0 15,"Not a great move, If Qxd6 white wins a pawn."
+29,Bxd5,c4d5,r3k2r/5ppp/pq1p1b2/2pBp3/4P3/8/PPPQ1PPP/R3R1K1 b kq - 0 15,"Not a great move, If Qxd6 white wins a pawn."
+30,Rb8,a8b8,1r2k2r/5ppp/pq1p1b2/2pBp3/4P3/8/PPPQ1PPP/R3R1K1 w k - 1 16,"Not a great move, If Qxd6 white wins a pawn."
+31,b3,b2b3,1r2k2r/5ppp/pq1p1b2/2pBp3/4P3/1P6/P1PQ1PPP/R3R1K1 b k - 0 16,"Not a great move, If Qxd6 white wins a pawn."
+32,O-O,e8g8,1r3rk1/5ppp/pq1p1b2/2pBp3/4P3/1P6/P1PQ1PPP/R3R1K1 w - - 1 17,"Not a great move, If Qxd6 white wins a pawn."
+33,Rad1,a1d1,1r3rk1/5ppp/pq1p1b2/2pBp3/4P3/1P6/P1PQ1PPP/3RR1K1 b - - 2 17,"Not a great move, If Qxd6 white wins a pawn."
+34,h6,h7h6,1r3rk1/5pp1/pq1p1b1p/2pBp3/4P3/1P6/P1PQ1PPP/3RR1K1 w - - 0 18,"Not a great move, If Qxd6 white wins a pawn."
+35,Bc4,d5c4,1r3rk1/5pp1/pq1p1b1p/2p1p3/2B1P3/1P6/P1PQ1PPP/3RR1K1 b - - 1 18,"Not a great move, If Qxd6 white wins a pawn."
+36,Bg5,f6g5,1r3rk1/5pp1/pq1p3p/2p1p1b1/2B1P3/1P6/P1PQ1PPP/3RR1K1 w - - 2 19,"Not a great move, If Qxd6 white wins a pawn."
+37,Qd3,d2d3,1r3rk1/5pp1/pq1p3p/2p1p1b1/2B1P3/1P1Q4/P1P2PPP/3RR1K1 b - - 3 19,Exchange of a-pawns.
+38,Rfd8,f8d8,1r1r2k1/5pp1/pq1p3p/2p1p1b1/2B1P3/1P1Q4/P1P2PPP/3RR1K1 w - - 4 20,Exchange of a-pawns.
+39,Bxa6,c4a6,1r1r2k1/5pp1/Bq1p3p/2p1p1b1/4P3/1P1Q4/P1P2PPP/3RR1K1 b - - 0 20,Exchange of a-pawns.
+40,Rba8,b8a8,r2r2k1/5pp1/Bq1p3p/2p1p1b1/4P3/1P1Q4/P1P2PPP/3RR1K1 w - - 1 21,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+41,Bc4,a6c4,r2r2k1/5pp1/1q1p3p/2p1p1b1/2B1P3/1P1Q4/P1P2PPP/3RR1K1 b - - 2 21,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+42,Rxa2,a8a2,3r2k1/5pp1/1q1p3p/2p1p1b1/2B1P3/1P1Q4/r1P2PPP/3RR1K1 w - - 0 22,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+43,b4,b3b4,3r2k1/5pp1/1q1p3p/2p1p1b1/1PB1P3/3Q4/r1P2PPP/3RR1K1 b - - 0 22,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+44,Raa8,a2a8,r2r2k1/5pp1/1q1p3p/2p1p1b1/1PB1P3/3Q4/2P2PPP/3RR1K1 w - - 1 23,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+45,bxc5,b4c5,r2r2k1/5pp1/1q1p3p/2P1p1b1/2B1P3/3Q4/2P2PPP/3RR1K1 b - - 0 23,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+46,Qxc5,b6c5,r2r2k1/5pp1/3p3p/2q1p1b1/2B1P3/3Q4/2P2PPP/3RR1K1 w - - 0 24,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+47,Bd5,c4d5,r2r2k1/5pp1/3p3p/2qBp1b1/4P3/3Q4/2P2PPP/3RR1K1 b - - 1 24,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+48,Rac8,a8c8,2rr2k1/5pp1/3p3p/2qBp1b1/4P3/3Q4/2P2PPP/3RR1K1 w - - 2 25,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+49,Qf3,d3f3,2rr2k1/5pp1/3p3p/2qBp1b1/4P3/5Q2/2P2PPP/3RR1K1 b - - 3 25,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+50,Bf6,g5f6,2rr2k1/5pp1/3p1b1p/2qBp3/4P3/5Q2/2P2PPP/3RR1K1 w - - 4 26,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+51,Qh5,f3h5,2rr2k1/5pp1/3p1b1p/2qBp2Q/4P3/8/2P2PPP/3RR1K1 b - - 5 26,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+52,Rd7,d8d7,2r3k1/3r1pp1/3p1b1p/2qBp2Q/4P3/8/2P2PPP/3RR1K1 w - - 6 27,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+53,Qf5,h5f5,2r3k1/3r1pp1/3p1b1p/2qBpQ2/4P3/8/2P2PPP/3RR1K1 b - - 7 27,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+54,Ra7,d7a7,2r3k1/r4pp1/3p1b1p/2qBpQ2/4P3/8/2P2PPP/3RR1K1 w - - 8 28,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+55,Bb3,d5b3,2r3k1/r4pp1/3p1b1p/2q1pQ2/4P3/1B6/2P2PPP/3RR1K1 b - - 9 28,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+56,Bd8,f6d8,2rb2k1/r4pp1/3p3p/2q1pQ2/4P3/1B6/2P2PPP/3RR1K1 w - - 10 29,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+57,Re3,e1e3,2rb2k1/r4pp1/3p3p/2q1pQ2/4P3/1B2R3/2P2PPP/3R2K1 b - - 11 29,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+58,Qd4,c5d4,2rb2k1/r4pp1/3p3p/4pQ2/3qP3/1B2R3/2P2PPP/3R2K1 w - - 12 30,"Bait. If Rxd4, then Ra1+ after white blocks with his rooks, it is mate."
+59,c3,c2c3,2rb2k1/r4pp1/3p3p/4pQ2/3qP3/1BP1R3/5PPP/3R2K1 b - - 0 30,Bad move. Gives up a free pawn.
+60,Rxc3,c8c3,3b2k1/r4pp1/3p3p/4pQ2/3qP3/1Br1R3/5PPP/3R2K1 w - - 0 31,Big Blunder. Gives up a queen and a bishop for a rook and a pawn.
+61,Rxc3,e3c3,3b2k1/r4pp1/3p3p/4pQ2/3qP3/1BR5/5PPP/3R2K1 b - - 0 31,Big Blunder. Gives up a queen and a bishop for a rook and a pawn.
+62,Qxc3,d4c3,3b2k1/r4pp1/3p3p/4pQ2/4P3/1Bq5/5PPP/3R2K1 w - - 0 32,Big Blunder. Gives up a queen and a bishop for a rook and a pawn.
+63,Qxf7+,f5f7,3b2k1/r4Qp1/3p3p/4p3/4P3/1Bq5/5PPP/3R2K1 b - - 0 32,Big Blunder. Gives up a queen and a bishop for a rook and a pawn.
+64,Rxf7,a7f7,3b2k1/5rp1/3p3p/4p3/4P3/1Bq5/5PPP/3R2K1 w - - 0 33,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+65,Bxf7+,b3f7,3b2k1/5Bp1/3p3p/4p3/4P3/2q5/5PPP/3R2K1 b - - 0 33,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+66,Kxf7,g8f7,3b4/5kp1/3p3p/4p3/4P3/2q5/5PPP/3R2K1 w - - 0 34,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+67,g3,g2g3,3b4/5kp1/3p3p/4p3/4P3/2q3P1/5P1P/3R2K1 b - - 0 34,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+68,Qf3,c3f3,3b4/5kp1/3p3p/4p3/4P3/5qP1/5P1P/3R2K1 w - - 1 35,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+69,Rxd6,d1d6,3b4/5kp1/3R3p/4p3/4P3/5qP1/5P1P/6K1 b - - 0 35,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+70,Be7,d8e7,8/4bkp1/3R3p/4p3/4P3/5qP1/5P1P/6K1 w - - 1 36,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+71,Rd5,d6d5,8/4bkp1/7p/3Rp3/4P3/5qP1/5P1P/6K1 b - - 2 36,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+72,Qxe4,f3e4,8/4bkp1/7p/3Rp3/4q3/6P1/5P1P/6K1 w - - 0 37,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+73,Rd7,d5d7,8/3Rbkp1/7p/4p3/4q3/6P1/5P1P/6K1 b - - 1 37,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+74,Ke6,f7e6,8/3Rb1p1/4k2p/4p3/4q3/6P1/5P1P/6K1 w - - 2 38,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+75,Rd1,d7d1,8/4b1p1/4k2p/4p3/4q3/6P1/5P1P/3R2K1 b - - 3 38,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+76,Bc5,e7c5,8/6p1/4k2p/2b1p3/4q3/6P1/5P1P/3R2K1 w - - 4 39,Getthing the f-pawn on a diagonal. Could lead to complications for white.
+77,Kf1,g1f1,8/6p1/4k2p/2b1p3/4q3/6P1/5P1P/3R1K2 b - - 5 39,"Bad move, jeopardizes the white pawns after Qh1+."
+78,Qh1+,e4h1,8/6p1/4k2p/2b1p3/8/6P1/5P1P/3R1K1q w - - 6 40,Another bad move. Gives up the f-pawn for free.
+79,Ke2,f1e2,8/6p1/4k2p/2b1p3/8/6P1/4KP1P/3R3q b - - 7 40,Another bad move. Gives up the f-pawn for free.
+80,Qxh2,h1h2,8/6p1/4k2p/2b1p3/8/6P1/4KP1q/3R4 w - - 0 41,Another bad move. Gives up the f-pawn for free.
+81,Kf3,e2f3,8/6p1/4k2p/2b1p3/8/5KP1/5P1q/3R4 b - - 1 41,Another bad move. Gives up the f-pawn for free.
+82,Qxf2+,h2f2,8/6p1/4k2p/2b1p3/8/5KP1/5q2/3R4 w - - 0 42,Yet another blunder. Gives up the rook for nothing after Qe2+.
+83,Kg4,f3g4,8/6p1/4k2p/2b1p3/6K1/6P1/5q2/3R4 b - - 1 42,Yet another blunder. Gives up the rook for nothing after Qe2+.
+84,Qe2+,f2e2,8/6p1/4k2p/2b1p3/6K1/6P1/4q3/3R4 w - - 2 43,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+85,Kh4,g4h4,8/6p1/4k2p/2b1p3/7K/6P1/4q3/3R4 b - - 3 43,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+86,Qxd1,e2d1,8/6p1/4k2p/2b1p3/7K/6P1/8/3q4 w - - 0 44,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+87,g4,g3g4,8/6p1/4k2p/2b1p3/6PK/8/8/3q4 b - - 0 44,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+88,Be7+,c5e7,8/4b1p1/4k2p/4p3/6PK/8/8/3q4 w - - 1 45,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+89,Kh5,h4h5,8/4b1p1/4k2p/4p2K/6P1/8/8/3q4 b - - 2 45,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+90,Qh1+,d1h1,8/4b1p1/4k2p/4p2K/6P1/8/8/7q w - - 3 46,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+91,Kg6,h5g6,8/4b1p1/4k1Kp/4p3/6P1/8/8/7q b - - 4 46,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+92,Qg1,h1g1,8/4b1p1/4k1Kp/4p3/6P1/8/8/6q1 w - - 5 47,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+93,Kxg7,g6g7,8/4b1K1/4k2p/4p3/6P1/8/8/6q1 b - - 0 47,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+94,Qxg4+,g1g4,8/4b1K1/4k2p/4p3/6q1/8/8/8 w - - 0 48,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+95,Kxh6,g7h6,8/4b3/4k2K/4p3/6q1/8/8/8 b - - 0 48,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+96,Bf8+,e7f8,5b2/8/4k2K/4p3/6q1/8/8/8 w - - 1 49,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+97,Kh7,h6h7,5b2/7K/4k3/4p3/6q1/8/8/8 b - - 2 49,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+98,Qg5,g4g5,5b2/7K/4k3/4p1q1/8/8/8/8 w - - 3 50,"Could have ended the game here, however the result will not change due to a missed checkmate. Black is too far ahead."
+99,Kh8,h7h8,5b1K/8/4k3/4p1q1/8/8/8/8 b - - 4 50,
+100,Kf7,e6f7,5b1K/5k2/8/4p1q1/8/8/8/8 w - - 5 51,
+101,Kh7,h8h7,5b2/5k1K/8/4p1q1/8/8/8/8 b - - 6 51,
+102,Qg7#,g5g7,5b2/5kqK/8/4p3/8/8/8/8 w - - 7 52,

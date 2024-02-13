@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,a4,a2a4,rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1,Thematic tournament begins from this position
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2,Thematic tournament begins from this position
+3,a5,a4a5,rnbqkbnr/pppp1ppp/8/P3p3/8/8/1PPPPPPP/RNBQKBNR b KQkq - 0 2,Thematic tournament begins from this position
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/P2pp3/8/8/1PPPPPPP/RNBQKBNR w KQkq - 0 3,Thematic tournament begins from this position
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/P2pp3/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 3,Thematic tournament begins from this position
+6,f5,f7f5,rnbqkbnr/ppp3pp/8/P2ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 4,Thematic tournament begins from this position
+7,a6,a5a6,rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 4,Thematic tournament begins from this position
+8,Nxa6,b8a6,r1bqkbnr/ppp3pp/n7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 5,Black takes the gambit pawn.
+9,d4,d2d4,r1bqkbnr/ppp3pp/n7/3ppp2/3P4/4P3/1PP2PPP/RNBQKBNR b KQkq - 0 5,Black tries to lock in the center
+10,e4,e5e4,r1bqkbnr/ppp3pp/n7/3p1p2/3Pp3/4P3/1PP2PPP/RNBQKBNR w KQkq - 0 6,Black tries to lock in the center
+11,Nh3,g1h3,r1bqkbnr/ppp3pp/n7/3p1p2/3Pp3/4P2N/1PP2PPP/RNBQKB1R b KQkq - 1 6,White develops looking for weaknesses.
+12,c6,c7c6,r1bqkbnr/pp4pp/n1p5/3p1p2/3Pp3/4P2N/1PP2PPP/RNBQKB1R w KQkq - 0 7,Black wants to bring the N back from the rim.
+13,Nf4,h3f4,r1bqkbnr/pp4pp/n1p5/3p1p2/3PpN2/4P3/1PP2PPP/RNBQKB1R b KQkq - 1 7,Otherwise Qh5+
+14,Nf6,g8f6,r1bqkb1r/pp4pp/n1p2n2/3p1p2/3PpN2/4P3/1PP2PPP/RNBQKB1R w KQkq - 2 8,Otherwise Qh5+
+15,c4,c2c4,r1bqkb1r/pp4pp/n1p2n2/3p1p2/2PPpN2/4P3/1P3PPP/RNBQKB1R b KQkq - 0 8,White begins the counterattack against the center.
+16,Nc7,a6c7,r1bqkb1r/ppn3pp/2p2n2/3p1p2/2PPpN2/4P3/1P3PPP/RNBQKB1R w KQkq - 1 9,Black plans on bringing the N back into play.
+17,Nh5,f4h5,r1bqkb1r/ppn3pp/2p2n2/3p1p1N/2PPp3/4P3/1P3PPP/RNBQKB1R b KQkq - 2 9,This exchange tries to weaken Black's K position.
+18,g6,g7g6,r1bqkb1r/ppn4p/2p2np1/3p1p1N/2PPp3/4P3/1P3PPP/RNBQKB1R w KQkq - 0 10,Black puts the question to the N.
+19,Nxf6+,h5f6,r1bqkb1r/ppn4p/2p2Np1/3p1p2/2PPp3/4P3/1P3PPP/RNBQKB1R b KQkq - 0 10,"Similar to a French Defense reversed, white puts pressure on d5 and b7."
+20,Qxf6,d8f6,r1b1kb1r/ppn4p/2p2qp1/3p1p2/2PPp3/4P3/1P3PPP/RNBQKB1R w KQkq - 0 11,"Similar to a French Defense reversed, white puts pressure on d5 and b7."
+21,Qb3,d1b3,r1b1kb1r/ppn4p/2p2qp1/3p1p2/2PPp3/1Q2P3/1P3PPP/RNB1KB1R b KQkq - 1 11,"Similar to a French Defense reversed, white puts pressure on d5 and b7."
+22,Be6,c8e6,r3kb1r/ppn4p/2p1bqp1/3p1p2/2PPp3/1Q2P3/1P3PPP/RNB1KB1R w KQkq - 2 12,?? This is a losing blunder. I forgot about the threat to b7.
+23,Qxb7,b3b7,r3kb1r/pQn4p/2p1bqp1/3p1p2/2PPp3/4P3/1P3PPP/RNB1KB1R b KQkq - 0 12,"Of course, Black must protect the N but how?"
+24,Kd7,e8d7,r4b1r/pQnk3p/2p1bqp1/3p1p2/2PPp3/4P3/1P3PPP/RNB1KB1R w KQ - 1 13,"Hoping for some variation where Black can trap the Q at b7,"
+25,Nc3,b1c3,r4b1r/pQnk3p/2p1bqp1/3p1p2/2PPp3/2N1P3/1P3PPP/R1B1KB1R b KQ - 2 13,"With the idea of Rb8,"
+26,Bd6,f8d6,r6r/pQnk3p/2pbbqp1/3p1p2/2PPp3/2N1P3/1P3PPP/R1B1KB1R w KQ - 3 14,"With the idea of Rb8,"
+27,Ra6,a1a6,r6r/pQnk3p/R1pbbqp1/3p1p2/2PPp3/2N1P3/1P3PPP/2B1KB1R b K - 4 14,!! However this is fatal. Not only does Rb8 fail to Qxc6+ but there is no way of defending c6. Black must lose material and his king position will be a chronic problem. Given my opponents rating resignation was in order.

@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Again, I am annotating from a game hiredgun112 played - please take your time to observe and comment."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Normal.
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,An early queen move.
+4,Bb4,f8b4,rnbqk1nr/pppp1ppp/8/4p2Q/1b2P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Overlooking Qxe5+ then Qxg7/
+5,Qxe5+,h5e5,rnbqk1nr/pppp1ppp/8/4Q3/1b2P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 3,Fails to Qxg7.
+6,Ne7,g8e7,rnbqk2r/ppppnppp/8/4Q3/1b2P3/8/PPPP1PPP/RNB1KBNR w KQkq - 1 4,Fails to Qxg7.
+7,Qxg7,e5g7,rnbqk2r/ppppnpQp/8/8/1b2P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 4,I prefer Rg8.
+8,Rf8,h8f8,rnbqkr2/ppppnpQp/8/8/1b2P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 5,I prefer Rg8.
+9,Qxh7,g7h7,rnbqkr2/ppppnp1Q/8/8/1b2P3/8/PPPP1PPP/RNB1KBNR b KQq - 0 5,"I think that Black is actually more developed, despite losing three pawns - don't you?"
+10,Nbc6,b8c6,r1bqkr2/ppppnp1Q/2n5/8/1b2P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 6,Developing.
+11,Nf3,g1f3,r1bqkr2/ppppnp1Q/2n5/8/1b2P3/5N2/PPPP1PPP/RNB1KB1R b KQq - 2 6,Same for white.
+12,d6,d7d6,r1bqkr2/ppp1np1Q/2np4/8/1b2P3/5N2/PPPP1PPP/RNB1KB1R w KQq - 0 7,Opening up the diagonal.
+13,Bc4,f1c4,r1bqkr2/ppp1np1Q/2np4/8/1bB1P3/5N2/PPPP1PPP/RNB1K2R b KQq - 1 7,Eyeing f7.
+14,Bg4,c8g4,r2qkr2/ppp1np1Q/2np4/8/1bB1P1b1/5N2/PPPP1PPP/RNB1K2R w KQq - 2 8,Attacking the knight.
+15,Ng5,f3g5,r2qkr2/ppp1np1Q/2np4/6N1/1bB1P1b1/8/PPPP1PPP/RNB1K2R b KQq - 3 8,Here we have Bxf7+ winning the pawn.
+16,Qd7,d8d7,r3kr2/pppqnp1Q/2np4/6N1/1bB1P1b1/8/PPPP1PPP/RNB1K2R w KQq - 4 9,Overlooking Bxf7+.
+17,Bxf7+,c4f7,r3kr2/pppqnB1Q/2np4/6N1/1b2P1b1/8/PPPP1PPP/RNB1K2R b KQq - 0 9,What about Ke8.
+18,Rxf7,f8f7,r3k3/pppqnr1Q/2np4/6N1/1b2P1b1/8/PPPP1PPP/RNB1K2R w KQq - 0 10,What about Ke8.
+19,Qxf7+,h7f7,r3k3/pppqnQ2/2np4/6N1/1b2P1b1/8/PPPP1PPP/RNB1K2R b KQq - 0 10,The queen is immune due to the knight on g5.
+20,Kd8,e8d8,r2k4/pppqnQ2/2np4/6N1/1b2P1b1/8/PPPP1PPP/RNB1K2R w KQ - 1 11,The only square.
+21,Qg7,f7g7,r2k4/pppqn1Q1/2np4/6N1/1b2P1b1/8/PPPP1PPP/RNB1K2R b KQ - 2 11,Preparing Nf7+ followed by Qh8+ winning the rook.
+22,a5,a7a5,r2k4/1ppqn1Q1/2np4/p5N1/1b2P1b1/8/PPPP1PPP/RNB1K2R w KQ - 0 12,Overlooking Nf7+.
+23,Nf7+,g5f7,r2k4/1ppqnNQ1/2np4/p7/1b2P1b1/8/PPPP1PPP/RNB1K2R b KQ - 1 12,As I said.

@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White starts things off with the most popular opening, the King's Pawn Opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black responds with the King's Pawn Game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"White continues with the King's knight opening, which I expected, for I use it all the time."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I continue the King's Pawn Game.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,White brings out the Scotch Opening.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"I respond with the Scotch Relfsson Gambit, which I usually play in the Scotch."
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"As expected, white responds with the Scotch game."
+8,Nxd4,c6d4,r1bqkbnr/pppp1ppp/8/8/3nP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,Black goes ahead with the Scotch Ghulam Kassim variation.
+9,Qxd4,d1d4,r1bqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KB1R b KQkq - 0 5,"As I expected, the Scotch continues."
+10,d6,d7d6,r1bqkbnr/ppp2ppp/3p4/8/3QP3/8/PPP2PPP/RNB1KB1R w KQkq - 0 6,Black continues the Scotch.
+11,Nc3,b1c3,r1bqkbnr/ppp2ppp/3p4/8/3QP3/2N5/PPP2PPP/R1B1KB1R b KQkq - 1 6,"The Scotch ends. So with the traditional game openings over with, anything can happen at this point."
+12,c5,c7c5,r1bqkbnr/pp3ppp/3p4/2p5/3QP3/2N5/PPP2PPP/R1B1KB1R w KQkq - 0 7,White attacks the queen.
+13,Qa4+,d4a4,r1bqkbnr/pp3ppp/3p4/2p5/Q3P3/2N5/PPP2PPP/R1B1KB1R b KQkq - 1 7,"Not what I totally expected, but this can easily be countered."
+14,Bd7,c8d7,r2qkbnr/pp1b1ppp/3p4/2p5/Q3P3/2N5/PPP2PPP/R1B1KB1R w KQkq - 2 8,"Based on computer analysis: Mistake. Best: Bc6. I can see why. The b7 the pawn was completely unprotected, so white could gain a slight advantage here both in points and in position."
+15,Qb3,a4b3,r2qkbnr/pp1b1ppp/3p4/2p5/4P3/1QN5/PPP2PPP/R1B1KB1R b KQkq - 3 8,"Based on computer analysis: Mistake. Best: Bc6. I can see why. The b7 the pawn was completely unprotected, so white could gain a slight advantage here both in points and in position."
+16,f6,f7f6,r2qkbnr/pp1b2pp/3p1p2/2p5/4P3/1QN5/PPP2PPP/R1B1KB1R w KQkq - 0 9,"Based on computer analysis: Mistake. Best: Bc6. I can see why. The b7 the pawn was completely unprotected, so white could gain a slight advantage here both in points and in position."
+17,Bb5,f1b5,r2qkbnr/pp1b2pp/3p1p2/1Bp5/4P3/1QN5/PPP2PPP/R1B1K2R b KQkq - 1 9,"Fortunately for black, white instead responds with Bb5. The computer analysis sees this as a mistake of course."
+18,Bxb5,d7b5,r2qkbnr/pp4pp/3p1p2/1bp5/4P3/1QN5/PPP2PPP/R1B1K2R w KQkq - 0 10,"I decide to except a swap, although this will put me in check again."
+19,Qxb5+,b3b5,r2qkbnr/pp4pp/3p1p2/1Qp5/4P3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 10,I still wish to castle...
+20,Qd7,d8d7,r3kbnr/pp1q2pp/3p1p2/1Qp5/4P3/2N5/PPP2PPP/R1B1K2R w KQkq - 1 11,...so I use my queen to protect me. This will keep me from castling though if white accepts a fair trade.
+21,Qd3,b5d3,r3kbnr/pp1q2pp/3p1p2/2p5/4P3/2NQ4/PPP2PPP/R1B1K2R b KQkq - 2 11,"Fortunately for black, white wants to keep his queen."
+22,O-O-O,e8c8,2kr1bnr/pp1q2pp/3p1p2/2p5/4P3/2NQ4/PPP2PPP/R1B1K2R w KQ - 3 12,"With black's queen out of the way, black decides to castle queen-side."

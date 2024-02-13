@@ -1,0 +1,80 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Najdorf defense
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Najdorf defense
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Najdorf defense
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Najdorf defense
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Najdorf defense
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Najdorf defense
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Najdorf defense
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Najdorf defense
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Najdorf defense
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Najdorf defense
+11,f4,f2f4,rnbqkb1r/1p2pppp/p2p1n2/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq - 0 6,It is not popular variation.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R w KQkq - 0 7,White have got strong centre
+13,Be2,f1e2,rnbqkb1r/1p3ppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQK2R b KQkq - 1 7,White have got strong centre
+14,Qc7,d8c7,rnb1kb1r/1pq2ppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQK2R w KQkq - 2 8,White have got strong centre
+15,O-O,e1g1,rnb1kb1r/1pq2ppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1RK1 b kq - 3 8,White have got strong centre
+16,Be7,f8e7,rnb1k2r/1pq1bppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1RK1 w kq - 4 9,White have got strong centre
+17,Kh1,g1h1,rnb1k2r/1pq1bppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1R1K b kq - 5 9,White have got strong centre
+18,O-O,e8g8,rnb2rk1/1pq1bppp/p2ppn2/8/3NPP2/2N5/PPP1B1PP/R1BQ1R1K w - - 6 10,White have got strong centre
+19,a4,a2a4,rnb2rk1/1pq1bppp/p2ppn2/8/P2NPP2/2N5/1PP1B1PP/R1BQ1R1K b - - 0 10,White have got strong centre
+20,Nc6,b8c6,r1b2rk1/1pq1bppp/p1nppn2/8/P2NPP2/2N5/1PP1B1PP/R1BQ1R1K w - - 1 11,White have got strong centre
+21,Be3,c1e3,r1b2rk1/1pq1bppp/p1nppn2/8/P2NPP2/2N1B3/1PP1B1PP/R2Q1R1K b - - 2 11,White have got strong centre
+22,Re8,f8e8,r1b1r1k1/1pq1bppp/p1nppn2/8/P2NPP2/2N1B3/1PP1B1PP/R2Q1R1K w - - 3 12,idea {e4}
+23,Bf3,e2f3,r1b1r1k1/1pq1bppp/p1nppn2/8/P2NPP2/2N1BB2/1PP3PP/R2Q1R1K b - - 4 12,idea {e4}
+24,Na5,c6a5,r1b1r1k1/1pq1bppp/p2ppn2/n7/P2NPP2/2N1BB2/1PP3PP/R2Q1R1K w - - 5 13,{Be1}
+25,Bf2,e3f2,r1b1r1k1/1pq1bppp/p2ppn2/n7/P2NPP2/2N2B2/1PP2BPP/R2Q1R1K b - - 6 13,{Be1}
+26,Nd7,f6d7,r1b1r1k1/1pqnbppp/p2pp3/n7/P2NPP2/2N2B2/1PP2BPP/R2Q1R1K w - - 7 14,Rook is very good in the line f.
+27,Qe1,d1e1,r1b1r1k1/1pqnbppp/p2pp3/n7/P2NPP2/2N2B2/1PP2BPP/R3QR1K b - - 8 14,Rook is very good in the line f.
+28,b6,b7b6,r1b1r1k1/2qnbppp/pp1pp3/n7/P2NPP2/2N2B2/1PP2BPP/R3QR1K w - - 0 15,!!! white atack low black center.
+29,e5,e4e5,r1b1r1k1/2qnbppp/pp1pp3/n3P3/P2N1P2/2N2B2/1PP2BPP/R3QR1K b - - 0 15,!!! white atack low black center.
+30,Bb7,c8b7,r3r1k1/1bqnbppp/pp1pp3/n3P3/P2N1P2/2N2B2/1PP2BPP/R3QR1K w - - 1 16,? d5 closed center
+31,Bg3,f2g3,r3r1k1/1bqnbppp/pp1pp3/n3P3/P2N1P2/2N2BB1/1PP3PP/R3QR1K b - - 2 16,! {R:c3? R:b7 V:b7 V:f7} white win.
+32,dxe5,d6e5,r3r1k1/1bqnbppp/pp2p3/n3p3/P2N1P2/2N2BB1/1PP3PP/R3QR1K w - - 0 17,! {R:c3? R:b7 V:b7 V:f7} white win.
+33,fxe5,f4e5,r3r1k1/1bqnbppp/pp2p3/n3P3/P2N4/2N2BB1/1PP3PP/R3QR1K b - - 0 17,! {R:c3? R:b7 V:b7 V:f7} white win.
+34,Rac8,a8c8,2r1r1k1/1bqnbppp/pp2p3/n3P3/P2N4/2N2BB1/1PP3PP/R3QR1K w - - 1 18,! {R:c3? R:b7 V:b7 V:f7} white win.
+35,Rd1,a1d1,2r1r1k1/1bqnbppp/pp2p3/n3P3/P2N4/2N2BB1/1PP3PP/3RQR1K b - - 2 18,! {R:c3? R:b7 V:b7 V:f7} white win.
+36,Bb4,e7b4,2r1r1k1/1bqn1ppp/pp2p3/n3P3/Pb1N4/2N2BB1/1PP3PP/3RQR1K w - - 3 19,! {R:c3? R:b7 V:b7 V:f7} white win.
+37,Qf2,e1f2,2r1r1k1/1bqn1ppp/pp2p3/n3P3/Pb1N4/2N2BB1/1PP2QPP/3R1R1K b - - 4 19,! {R:c3? R:b7 V:b7 V:f7} white win.
+38,Ref8,e8f8,2r2rk1/1bqn1ppp/pp2p3/n3P3/Pb1N4/2N2BB1/1PP2QPP/3R1R1K w - - 5 20,White have got very strongs bishops.
+39,Ne4,c3e4,2r2rk1/1bqn1ppp/pp2p3/n3P3/Pb1NN3/5BB1/1PP2QPP/3R1R1K b - - 6 20,White have got very strongs bishops.
+40,Nxe5,d7e5,2r2rk1/1bq2ppp/pp2p3/n3n3/Pb1NN3/5BB1/1PP2QPP/3R1R1K w - - 0 21,White have got very strongs bishops.
+41,Bf4,g3f4,2r2rk1/1bq2ppp/pp2p3/n3n3/Pb1NNB2/5B2/1PP2QPP/3R1R1K b - - 1 21,White have got very strongs bishops.
+42,Bxe4,b7e4,2r2rk1/2q2ppp/pp2p3/n3n3/Pb1NbB2/5B2/1PP2QPP/3R1R1K w - - 0 22,White have got very strongs bishops.
+43,Bxe4,f3e4,2r2rk1/2q2ppp/pp2p3/n3n3/Pb1NBB2/8/1PP2QPP/3R1R1K b - - 0 22,White have got very strongs bishops.
+44,Bd6,b4d6,2r2rk1/2q2ppp/pp1bp3/n3n3/P2NBB2/8/1PP2QPP/3R1R1K w - - 1 23,!?
+45,Nf3,d4f3,2r2rk1/2q2ppp/pp1bp3/n3n3/P3BB2/5N2/1PP2QPP/3R1R1K b - - 2 23,!?
+46,f5,f7f5,2r2rk1/2q3pp/pp1bp3/n3np2/P3BB2/5N2/1PP2QPP/3R1R1K w - - 0 24,!?
+47,Bxe5,f4e5,2r2rk1/2q3pp/pp1bp3/n3Bp2/P3B3/5N2/1PP2QPP/3R1R1K b - - 0 24,!?
+48,Bxe5,d6e5,2r2rk1/2q3pp/pp2p3/n3bp2/P3B3/5N2/1PP2QPP/3R1R1K w - - 0 25,!?
+49,Bd3,e4d3,2r2rk1/2q3pp/pp2p3/n3bp2/P7/3B1N2/1PP2QPP/3R1R1K b - - 1 25,!?
+50,Bxb2,e5b2,2r2rk1/2q3pp/pp2p3/n4p2/P7/3B1N2/1bP2QPP/3R1R1K w - - 0 26,!?
+51,Rdb1,d1b1,2r2rk1/2q3pp/pp2p3/n4p2/P7/3B1N2/1bP2QPP/1R3R1K b - - 1 26,!?
+52,Bc3,b2c3,2r2rk1/2q3pp/pp2p3/n4p2/P7/2bB1N2/2P2QPP/1R3R1K w - - 2 27,!?
+53,Ng5,f3g5,2r2rk1/2q3pp/pp2p3/n4pN1/P7/2bB4/2P2QPP/1R3R1K b - - 3 27,!?
+54,Qe7,c7e7,2r2rk1/4q1pp/pp2p3/n4pN1/P7/2bB4/2P2QPP/1R3R1K w - - 4 28,???????????????????????????????????????????
+55,Qe3,f2e3,2r2rk1/4q1pp/pp2p3/n4pN1/P7/2bBQ3/2P3PP/1R3R1K b - - 5 28,???????????????????????????????????????????
+56,Nc4,a5c4,2r2rk1/4q1pp/pp2p3/5pN1/P1n5/2bBQ3/2P3PP/1R3R1K w - - 6 29,???????????????????????????????????????????
+57,Bxc4,d3c4,2r2rk1/4q1pp/pp2p3/5pN1/P1B5/2b1Q3/2P3PP/1R3R1K b - - 0 29,???????????????????????????????????????????
+58,Rxc4,c8c4,5rk1/4q1pp/pp2p3/5pN1/P1r5/2b1Q3/2P3PP/1R3R1K w - - 0 30,???????????????????????????????????????????
+59,Rxb6,b1b6,5rk1/4q1pp/pR2p3/5pN1/P1r5/2b1Q3/2P3PP/5R1K b - - 0 30,???????????????????????????????????????????
+60,Bd4,c3d4,5rk1/4q1pp/pR2p3/5pN1/P1rb4/4Q3/2P3PP/5R1K w - - 1 31,???????????????????????????????????????????
+61,Qd3,e3d3,5rk1/4q1pp/pR2p3/5pN1/P1rb4/3Q4/2P3PP/5R1K b - - 2 31,???????????????????????????????????????????
+62,Rxa4,c4a4,5rk1/4q1pp/pR2p3/5pN1/r2b4/3Q4/2P3PP/5R1K w - - 0 32,???????????????????????????????????????????
+63,Rxe6,b6e6,5rk1/4q1pp/p3R3/5pN1/r2b4/3Q4/2P3PP/5R1K b - - 0 32,???????????????????????????????????????????
+64,Qa3,e7a3,5rk1/6pp/p3R3/5pN1/r2b4/q2Q4/2P3PP/5R1K w - - 1 33,???????????????????????????????????????????
+65,Qe2,d3e2,5rk1/6pp/p3R3/5pN1/r2b4/q7/2P1Q1PP/5R1K b - - 2 33,???????????????????????????????????????????
+66,h6,h7h6,5rk1/6p1/p3R2p/5pN1/r2b4/q7/2P1Q1PP/5R1K w - - 0 34,???????????????????????????????????????????
+67,Rxh6,e6h6,5rk1/6p1/p6R/5pN1/r2b4/q7/2P1Q1PP/5R1K b - - 0 34,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.
+68,gxh6,g7h6,5rk1/8/p6p/5pN1/r2b4/q7/2P1Q1PP/5R1K w - - 0 35,!
+69,Qe6+,e2e6,5rk1/8/p3Q2p/5pN1/r2b4/q7/2P3PP/5R1K b - - 1 35,!
+70,Kg7,g8g7,5r2/6k1/p3Q2p/5pN1/r2b4/q7/2P3PP/5R1K w - - 2 36,!
+71,Qd7+,e6d7,5r2/3Q2k1/p6p/5pN1/r2b4/q7/2P3PP/5R1K b - - 3 36,!
+72,Kg6,g7g6,5r2/3Q4/p5kp/5pN1/r2b4/q7/2P3PP/5R1K w - - 4 37,!
+73,Ne6,g5e6,5r2/3Q4/p3N1kp/5p2/r2b4/q7/2P3PP/5R1K b - - 5 37,!
+74,Bc5,d4c5,5r2/3Q4/p3N1kp/2b2p2/r7/q7/2P3PP/5R1K w - - 6 38,black resign. { Kh4 g3 }
+75,Qg7+,d7g7,5r2/6Q1/p3N1kp/2b2p2/r7/q7/2P3PP/5R1K b - - 7 38,black resign. { Kh4 g3 }
+76,Kh5,g6h5,5r2/6Q1/p3N2p/2b2p1k/r7/q7/2P3PP/5R1K w - - 8 39,black resign. { Kh4 g3 }
+77,Nxf8,e6f8,5N2/6Q1/p6p/2b2p1k/r7/q7/2P3PP/5R1K b - - 0 39,black resign. { Kh4 g3 }
+78,Bxf8,c5f8,5b2/6Q1/p6p/5p1k/r7/q7/2P3PP/5R1K w - - 0 40,black resign. { Kh4 g3 }
+79,Qf7+,g7f7,5b2/5Q2/p6p/5p1k/r7/q7/2P3PP/5R1K b - - 1 40,black resign. { Kh4 g3 }

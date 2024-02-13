@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"An idea of Paul Keres.  This can still transpose into 'normal' open lines, but leaves open the possibility of entering a Closed Sicilian instead.  Of course, such finesses are lost on a computer..."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"An idea of Paul Keres.  This can still transpose into 'normal' open lines, but leaves open the possibility of entering a Closed Sicilian instead.  Of course, such finesses are lost on a computer..."
+3,Ne2,g1e2,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2,"An idea of Paul Keres.  This can still transpose into 'normal' open lines, but leaves open the possibility of entering a Closed Sicilian instead.  Of course, such finesses are lost on a computer..."
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/8/PPPPNPPP/RNBQKB1R w KQkq - 2 3,... or are they?  This can still lead to a version of Alekhine's Defence with 3.e5!? but then probably the Knight would have been better placed at f3!
+5,d3,d2d3,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/3P4/PPP1NPPP/RNBQKB1R b KQkq - 0 3,"Definitely going for a Closed Sicilian.  The aim is a slower sort of game than the Open variety, with a King-side build-up."
+6,Nc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/3P4/PPP1NPPP/RNBQKB1R w KQkq - 1 4,White is clearly aiming for f2-f4 at some early point.  Black contests this plan.
+7,g3,g2g3,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/3P2P1/PPP1NP1P/RNBQKB1R b KQkq - 0 4,White is clearly aiming for f2-f4 at some early point.  Black contests this plan.
+8,e5,e7e5,r1bqkb1r/pp1p1ppp/2n2n2/2p1p3/4P3/3P2P1/PPP1NP1P/RNBQKB1R w KQkq - 0 5,White is clearly aiming for f2-f4 at some early point.  Black contests this plan.
+9,Bg2,f1g2,r1bqkb1r/pp1p1ppp/2n2n2/2p1p3/4P3/3P2P1/PPP1NPBP/RNBQK2R b KQkq - 1 5,The f-pawn thrust is to wait upon White's developing his K-side.
+10,Bd6,f8d6,r1bqk2r/pp1p1ppp/2nb1n2/2p1p3/4P3/3P2P1/PPP1NPBP/RNBQK2R w KQkq - 2 6,"(?!) An odd move, clearly intended to inhibit f2-f4.  But that bishop is very awkwardly placed it seems to me."
+11,Nbc3,b1c3,r1bqk2r/pp1p1ppp/2nb1n2/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R b KQkq - 3 6,"(!?) A 'try-on'.  The bishop will have to move, constituting a loss of time for Black.  Of course White will lose time too, as the Knight will be driven off sooner or later by ...a6."
+12,O-O,e8g8,r1bq1rk1/pp1p1ppp/2nb1n2/2p1p3/4P3/2NP2P1/PPP1NPBP/R1BQK2R w KQ - 4 7,"(!?) A 'try-on'.  The bishop will have to move, constituting a loss of time for Black.  Of course White will lose time too, as the Knight will be driven off sooner or later by ...a6."
+13,Nb5,c3b5,r1bq1rk1/pp1p1ppp/2nb1n2/1Np1p3/4P3/3P2P1/PPP1NPBP/R1BQK2R b KQ - 5 7,"(!?) A 'try-on'.  The bishop will have to move, constituting a loss of time for Black.  Of course White will lose time too, as the Knight will be driven off sooner or later by ...a6."
+14,Be7,d6e7,r1bq1rk1/pp1pbppp/2n2n2/1Np1p3/4P3/3P2P1/PPP1NPBP/R1BQK2R w KQ - 6 8,releasing some of the pressure against f4.
+15,O-O,e1g1,r1bq1rk1/pp1pbppp/2n2n2/1Np1p3/4P3/3P2P1/PPP1NPBP/R1BQ1RK1 b - - 7 8,"A desirable move would have been ...d5, but that is not really feasible here on account of 8...d5  9.exd5 Nxd5?  10.Bxd5 Qxd5  11.Nc7 etc.  This more circumspect advance sensibly closes up the centre."
+16,d6,d7d6,r1bq1rk1/pp2bppp/2np1n2/1Np1p3/4P3/3P2P1/PPP1NPBP/R1BQ1RK1 w - - 0 9,"A desirable move would have been ...d5, but that is not really feasible here on account of 8...d5  9.exd5 Nxd5?  10.Bxd5 Qxd5  11.Nc7 etc.  This more circumspect advance sensibly closes up the centre."
+17,f4,f2f4,r1bq1rk1/pp2bppp/2np1n2/1Np1p3/4PP2/3P2P1/PPP1N1BP/R1BQ1RK1 b - - 0 9,The long-awaited break!
+18,Be6,c8e6,r2q1rk1/pp2bppp/2npbn2/1Np1p3/4PP2/3P2P1/PPP1N1BP/R1BQ1RK1 w - - 1 10,"This rather induces White's reply.  If 9...exf4, I was considering 10.gxf4, with a broad pawn front."
+19,f5,f4f5,r2q1rk1/pp2bppp/2npbn2/1Np1pP2/4P3/3P2P1/PPP1N1BP/R1BQ1RK1 b - - 0 10,"Releases the tension in the centre, but heralding a general pawn advance on the K-side."
+20,Bd7,e6d7,r2q1rk1/pp1bbppp/2np1n2/1Np1pP2/4P3/3P2P1/PPP1N1BP/R1BQ1RK1 w - - 1 11,"Preparing g3-g4, Ng3, g5 and h4."
+21,h3,h2h3,r2q1rk1/pp1bbppp/2np1n2/1Np1pP2/4P3/3P2PP/PPP1N1B1/R1BQ1RK1 b - - 0 11,"Preparing g3-g4, Ng3, g5 and h4."
+22,Qa5,d8a5,r4rk1/pp1bbppp/2np1n2/qNp1pP2/4P3/3P2PP/PPP1N1B1/R1BQ1RK1 w - - 1 12,"Attacking the loose knight.  My first thought was to retreat the knight at once, but first, why not close the centre altogether?  In fact, given my planned K-side operations, such closure is just about mandatory."
+23,c4,c2c4,r4rk1/pp1bbppp/2np1n2/qNp1pP2/2P1P3/3P2PP/PP2N1B1/R1BQ1RK1 b - - 0 12,(??) Already the decisive blunder.  Black must now lose his Queen.  How...?
+24,Qb4,a5b4,r4rk1/pp1bbppp/2np1n2/1Np1pP2/1qP1P3/3P2PP/PP2N1B1/R1BQ1RK1 w - - 1 13,(??) Already the decisive blunder.  Black must now lose his Queen.  How...?
+25,Bd2,c1d2,r4rk1/pp1bbppp/2np1n2/1Np1pP2/1qP1P3/3P2PP/PP1BN1B1/R2Q1RK1 b - - 2 13,By giving up the b-pawn!  Black's Queen has but one move...
+26,Qxb2,b4b2,r4rk1/pp1bbppp/2np1n2/1Np1pP2/2P1P3/3P2PP/Pq1BN1B1/R2Q1RK1 w - - 0 14,"Curtains for the Black Queen, which has no safe moves.  She sells her life for what it may fetch..."
+27,Bc3,d2c3,r4rk1/pp1bbppp/2np1n2/1Np1pP2/2P1P3/2BP2PP/Pq2N1B1/R2Q1RK1 b - - 1 14,"Curtains for the Black Queen, which has no safe moves.  She sells her life for what it may fetch..."
+28,Qxa1,b2a1,r4rk1/pp1bbppp/2np1n2/1Np1pP2/2P1P3/2BP2PP/P3N1B1/q2Q1RK1 w - - 0 15,Containing the damage to the major exchange.  But Black is now lost.
+29,Bxa1,c3a1,r4rk1/pp1bbppp/2np1n2/1Np1pP2/2P1P3/3P2PP/P3N1B1/B2Q1RK1 b - - 0 15,Possibly taking with the Queen was slightly better.  It will take two moves to bring this bishop into effective action.
+30,a6,a7a6,r4rk1/1p1bbppp/p1np1n2/1Np1pP2/2P1P3/3P2PP/P3N1B1/B2Q1RK1 w - - 0 16,(?!) Inefficient.  16.Nc7 was slightly better.
+31,Nbc3,b5c3,r4rk1/1p1bbppp/p1np1n2/2p1pP2/2P1P3/2NP2PP/P3N1B1/B2Q1RK1 b - - 1 16,(?!) Inefficient.  16.Nc7 was slightly better.

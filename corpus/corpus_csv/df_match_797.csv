@@ -1,0 +1,86 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queen's Pawn, Stonewall Attack.  Black does well with Nf6 or Bf5."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Queen's Pawn, Stonewall Attack.  Black does well with Nf6 or Bf5."
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Queen's Pawn, Stonewall Attack.  Black does well with Nf6 or Bf5."
+4,h5,h7h5,rnbqkbnr/ppp1ppp1/8/3p3p/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,"H5 is unusual, but black does well with this too, in he database."
+5,Bd3,f1d3,rnbqkbnr/ppp1ppp1/8/3p3p/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq - 1 3,Nc6 and B6 have been played with good success.  This move is off book and easily countered.
+6,Bg4,c8g4,rn1qkbnr/ppp1ppp1/8/3p3p/3P2b1/3BP3/PPP2PPP/RNBQK1NR w KQkq - 2 4,Nc6 and B6 have been played with good success.  This move is off book and easily countered.
+7,Be2,d3e2,rn1qkbnr/ppp1ppp1/8/3p3p/3P2b1/4P3/PPP1BPPP/RNBQK1NR b KQkq - 3 4,Oops.  Nowhere left for the bishop to fall back.
+8,f5,f7f5,rn1qkbnr/ppp1p1p1/8/3p1p1p/3P2b1/4P3/PPP1BPPP/RNBQK1NR w KQkq - 0 5,Oops.  Nowhere left for the bishop to fall back.
+9,f4,f2f4,rn1qkbnr/ppp1p1p1/8/3p1p1p/3P1Pb1/4P3/PPP1B1PP/RNBQK1NR b KQkq - 0 5,F3 instead would trap the black bishop.
+10,Qd6,d8d6,rn2kbnr/ppp1p1p1/3q4/3p1p1p/3P1Pb1/4P3/PPP1B1PP/RNBQK1NR w KQkq - 1 6,Pretty much forces the bishop exchange.
+11,h3,h2h3,rn2kbnr/ppp1p1p1/3q4/3p1p1p/3P1Pb1/4P2P/PPP1B1P1/RNBQK1NR b KQkq - 0 6,Pretty much forces the bishop exchange.
+12,Bxe2,g4e2,rn2kbnr/ppp1p1p1/3q4/3p1p1p/3P1P2/4P2P/PPP1b1P1/RNBQK1NR w KQkq - 0 7,"Ba3 is undefended, and a tasty morsel for the black queen."
+13,Nxe2,g1e2,rn2kbnr/ppp1p1p1/3q4/3p1p1p/3P1P2/4P2P/PPP1N1P1/RNBQK2R b KQkq - 0 7,"Ba3 is undefended, and a tasty morsel for the black queen."
+14,Qb4+,d6b4,rn2kbnr/ppp1p1p1/8/3p1p1p/1q1P1P2/4P2P/PPP1N1P1/RNBQK2R w KQkq - 1 8,"Ba3 is undefended, and a tasty morsel for the black queen."
+15,c3,c2c3,rn2kbnr/ppp1p1p1/8/3p1p1p/1q1P1P2/2P1P2P/PP2N1P1/RNBQK2R b KQkq - 0 8,"Ba3 is undefended, and a tasty morsel for the black queen."
+16,Qc4,b4c4,rn2kbnr/ppp1p1p1/8/3p1p1p/2qP1P2/2P1P2P/PP2N1P1/RNBQK2R w KQkq - 1 9,"Ba3 is undefended, and a tasty morsel for the black queen."
+17,b3,b2b3,rn2kbnr/ppp1p1p1/8/3p1p1p/2qP1P2/1PP1P2P/P3N1P1/RNBQK2R b KQkq - 0 9,"Ba3 is undefended, and a tasty morsel for the black queen."
+18,Qc6,c4c6,rn2kbnr/ppp1p1p1/2q5/3p1p1p/3P1P2/1PP1P2P/P3N1P1/RNBQK2R w KQkq - 1 10,"Ba3 is undefended, and a tasty morsel for the black queen."
+19,Ba3,c1a3,rn2kbnr/ppp1p1p1/2q5/3p1p1p/3P1P2/BPP1P2P/P3N1P1/RN1QK2R b KQkq - 2 10,"Ba3 is undefended, and a tasty morsel for the black queen."
+20,Nd7,b8d7,r3kbnr/pppnp1p1/2q5/3p1p1p/3P1P2/BPP1P2P/P3N1P1/RN1QK2R w KQkq - 3 11,"Ba3 is undefended, and a tasty morsel for the black queen."
+21,Nd2,b1d2,r3kbnr/pppnp1p1/2q5/3p1p1p/3P1P2/BPP1P2P/P2NN1P1/R2QK2R b KQkq - 4 11,"Ba3 is undefended, and a tasty morsel for the black queen."
+22,Qa6,c6a6,r3kbnr/pppnp1p1/q7/3p1p1p/3P1P2/BPP1P2P/P2NN1P1/R2QK2R w KQkq - 5 12,"Ba3 is undefended, and a tasty morsel for the black queen."
+23,c4,c3c4,r3kbnr/pppnp1p1/q7/3p1p1p/2PP1P2/BP2P2P/P2NN1P1/R2QK2R b KQkq - 0 12,"Ba3 is undefended, and a tasty morsel for the black queen."
+24,c6,c7c6,r3kbnr/pp1np1p1/q1p5/3p1p1p/2PP1P2/BP2P2P/P2NN1P1/R2QK2R w KQkq - 0 13,Ba3.  Ba3!  QxBa3 for free.
+25,c5,c4c5,r3kbnr/pp1np1p1/q1p5/2Pp1p1p/3P1P2/BP2P2P/P2NN1P1/R2QK2R b KQkq - 0 13,Ba3.  Ba3!  QxBa3 for free.
+26,b6,b7b6,r3kbnr/p2np1p1/qpp5/2Pp1p1p/3P1P2/BP2P2P/P2NN1P1/R2QK2R w KQkq - 0 14,I'm thinking Qxc3+.
+27,Bb4,a3b4,r3kbnr/p2np1p1/qpp5/2Pp1p1p/1B1P1P2/1P2P2P/P2NN1P1/R2QK2R b KQkq - 1 14,I'm thinking Qxc3+.
+28,Qb5,a6b5,r3kbnr/p2np1p1/1pp5/1qPp1p1p/1B1P1P2/1P2P2P/P2NN1P1/R2QK2R w KQkq - 2 15,I'm thinking Qxc3+.
+29,a3,a2a3,r3kbnr/p2np1p1/1pp5/1qPp1p1p/1B1P1P2/PP2P2P/3NN1P1/R2QK2R b KQkq - 0 15,I'm thinking Qxc3+.
+30,a5,a7a5,r3kbnr/3np1p1/1pp5/pqPp1p1p/1B1P1P2/PP2P2P/3NN1P1/R2QK2R w KQkq - 0 16,I'm thinking Qxc3+.
+31,Bc3,b4c3,r3kbnr/3np1p1/1pp5/pqPp1p1p/3P1P2/PPB1P2P/3NN1P1/R2QK2R b KQkq - 1 16,I'm thinking Qxc3+.
+32,Qd3,b5d3,r3kbnr/3np1p1/1pp5/p1Pp1p1p/3P1P2/PPBqP2P/3NN1P1/R2QK2R w KQkq - 2 17,I'm thinking Qxc3+.
+33,cxb6,c5b6,r3kbnr/3np1p1/1Pp5/p2p1p1p/3P1P2/PPBqP2P/3NN1P1/R2QK2R b KQkq - 0 17,I'm thinking Qxc3+.
+34,Nxb6,d7b6,r3kbnr/4p1p1/1np5/p2p1p1p/3P1P2/PPBqP2P/3NN1P1/R2QK2R w KQkq - 0 18,I'm thinking Qxc3+.
+35,O-O,e1g1,r3kbnr/4p1p1/1np5/p2p1p1p/3P1P2/PPBqP2P/3NN1P1/R2Q1RK1 b kq - 1 18,I'm thinking Qxc3+.
+36,Qxc3,d3c3,r3kbnr/4p1p1/1np5/p2p1p1p/3P1P2/PPq1P2P/3NN1P1/R2Q1RK1 w kq - 0 19,"Not a free bishop, because NxQc3."
+37,Nxc3,e2c3,r3kbnr/4p1p1/1np5/p2p1p1p/3P1P2/PPN1P2P/3N2P1/R2Q1RK1 b kq - 0 19,?  Black would do better developing the king side knight and bishop.
+38,e6,e7e6,r3kbnr/6p1/1np1p3/p2p1p1p/3P1P2/PPN1P2P/3N2P1/R2Q1RK1 w kq - 0 20,?  Black would do better developing the king side knight and bishop.
+39,Nf3,d2f3,r3kbnr/6p1/1np1p3/p2p1p1p/3P1P2/PPN1PN1P/6P1/R2Q1RK1 b kq - 1 20,?  Black would do better developing the king side knight and bishop.
+40,h4,h5h4,r3kbnr/6p1/1np1p3/p2p1p2/3P1P1p/PPN1PN1P/6P1/R2Q1RK1 w kq - 0 21,?  Black would do better developing the king side knight and bishop.
+41,Ng5,f3g5,r3kbnr/6p1/1np1p3/p2p1pN1/3P1P1p/PPN1P2P/6P1/R2Q1RK1 b kq - 1 21,?  Black would do better developing the king side knight and bishop.
+42,Ke7,e8e7,r4bnr/4k1p1/1np1p3/p2p1pN1/3P1P1p/PPN1P2P/6P1/R2Q1RK1 w - - 2 22,?  Black would do better developing the king side knight and bishop.
+43,Qe1,d1e1,r4bnr/4k1p1/1np1p3/p2p1pN1/3P1P1p/PPN1P2P/6P1/R3QRK1 b - - 3 22,?  Black would do better developing the king side knight and bishop.
+44,Kf6,e7f6,r4bnr/6p1/1np1pk2/p2p1pN1/3P1P1p/PPN1P2P/6P1/R3QRK1 w - - 4 23,?  Black would do better developing the king side knight and bishop.
+45,Nxe6,g5e6,r4bnr/6p1/1np1Nk2/p2p1p2/3P1P1p/PPN1P2P/6P1/R3QRK1 b - - 0 23,?  KxNe6 for free.  Kings can take pieces.
+46,Kxe6,f6e6,r4bnr/6p1/1np1k3/p2p1p2/3P1P1p/PPN1P2P/6P1/R3QRK1 w - - 0 24,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+47,g3,g2g3,r4bnr/6p1/1np1k3/p2p1p2/3P1P1p/PPN1P1PP/8/R3QRK1 b - - 0 24,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+48,Be7,f8e7,r5nr/4b1p1/1np1k3/p2p1p2/3P1P1p/PPN1P1PP/8/R3QRK1 w - - 1 25,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+49,Ra2,a1a2,r5nr/4b1p1/1np1k3/p2p1p2/3P1P1p/PPN1P1PP/R7/4QRK1 b - - 2 25,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+50,Nf6,g8f6,r6r/4b1p1/1np1kn2/p2p1p2/3P1P1p/PPN1P1PP/R7/4QRK1 w - - 3 26,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+51,Rf3,f1f3,r6r/4b1p1/1np1kn2/p2p1p2/3P1P1p/PPN1PRPP/R7/4Q1K1 b - - 4 26,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+52,a4,a5a4,r6r/4b1p1/1np1kn2/3p1p2/p2P1P1p/PPN1PRPP/R7/4Q1K1 w - - 0 27,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+53,b4,b3b4,r6r/4b1p1/1np1kn2/3p1p2/pP1P1P1p/P1N1PRPP/R7/4Q1K1 b - - 0 27,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+54,Nc4,b6c4,r6r/4b1p1/2p1kn2/3p1p2/pPnP1P1p/P1N1PRPP/R7/4Q1K1 w - - 1 28,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+55,b5,b4b5,r6r/4b1p1/2p1kn2/1P1p1p2/p1nP1P1p/P1N1PRPP/R7/4Q1K1 b - - 0 28,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+56,c5,c6c5,r6r/4b1p1/4kn2/1Ppp1p2/p1nP1P1p/P1N1PRPP/R7/4Q1K1 w - - 0 29,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+57,dxc5,d4c5,r6r/4b1p1/4kn2/1PPp1p2/p1n2P1p/P1N1PRPP/R7/4Q1K1 b - - 0 29,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+58,Bxc5,e7c5,r6r/6p1/4kn2/1Pbp1p2/p1n2P1p/P1N1PRPP/R7/4Q1K1 w - - 0 30,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+59,Kg2,g1g2,r6r/6p1/4kn2/1Pbp1p2/p1n2P1p/P1N1PRPP/R5K1/4Q3 b - - 1 30,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+60,Bxa3,c5a3,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/b1N1PRPP/R5K1/4Q3 w - - 0 31,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+61,Qf2,e1f2,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/b1N1PRPP/R4QK1/8 b - - 1 31,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+62,Bc1,a3c1,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/2N1PRPP/R4QK1/2b5 w - - 2 32,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+63,Rc2,a2c2,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/2N1PRPP/2R2QK1/2b5 b - - 3 32,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+64,Ba3,c1a3,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/b1N1PRPP/2R2QK1/8 w - - 4 33,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+65,Ra2,c2a2,r6r/6p1/4kn2/1P1p1p2/p1n2P1p/b1N1PRPP/R4QK1/8 b - - 5 33,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+66,Ne4,f6e4,r6r/6p1/4k3/1P1p1p2/p1n1nP1p/b1N1PRPP/R4QK1/8 w - - 6 34,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+67,Qc2,f2c2,r6r/6p1/4k3/1P1p1p2/p1n1nP1p/b1N1PRPP/R1Q3K1/8 b - - 7 34,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+68,hxg3,h4g3,r6r/6p1/4k3/1P1p1p2/p1n1nP2/b1N1PRpP/R1Q3K1/8 w - - 0 35,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+69,Qb1,c2b1,r6r/6p1/4k3/1P1p1p2/p1n1nP2/b1N1PRpP/R5K1/1Q6 b - - 1 35,"Ouch.  Nd2 forks the queen and f rook.  Either black knight, but Ned2 is clearly the superior choice, as the c knight guards the black bishop."
+70,Rh5,h8h5,r7/6p1/4k3/1P1p1p1r/p1n1nP2/b1N1PRpP/R5K1/1Q6 w - - 2 36,Nd2 still leaves Rf nowhere to run.
+71,Qh1,b1h1,r7/6p1/4k3/1P1p1p1r/p1n1nP2/b1N1PRpP/R5K1/7Q b - - 3 36,Nd2 still leaves Rf nowhere to run.
+72,Rah8,a8h8,7r/6p1/4k3/1P1p1p1r/p1n1nP2/b1N1PRpP/R5K1/7Q w - - 4 37,Nd2 still leaves Rf nowhere to run.
+73,Ne2,c3e2,7r/6p1/4k3/1P1p1p1r/p1n1nP2/b3PRpP/R3N1K1/7Q b - - 5 37,Nd2 still leaves Rf nowhere to run.
+74,g5,g7g5,7r/8/4k3/1P1p1ppr/p1n1nP2/b3PRpP/R3N1K1/7Q w - - 0 38,"Oh, the rook was a better choice.  White gets a free pawn."
+75,fxg5,f4g5,7r/8/4k3/1P1p1pPr/p1n1n3/b3PRpP/R3N1K1/7Q b - - 0 38,"Oh, the rook was a better choice.  White gets a free pawn."
+76,Nxg5,e4g5,7r/8/4k3/1P1p1pnr/p1n5/b3PRpP/R3N1K1/7Q w - - 0 39,"Oh, the rook was a better choice.  White gets a free pawn."
+77,Rf4,f3f4,7r/8/4k3/1P1p1pnr/p1n2R2/b3P1pP/R3N1K1/7Q b - - 1 39,White could trade a rook for knight and bishop.
+78,Nxe3+,c4e3,7r/8/4k3/1P1p1pnr/p4R2/b3n1pP/R3N1K1/7Q w - - 0 40,"White should not take the pawn, or black can pin the rook with Bd6.  Black must remember the bishop is cut loose."
+79,Kxg3,g2g3,7r/8/4k3/1P1p1pnr/p4R2/b3n1KP/R3N3/7Q b - - 0 40,"Here Rxh3+ trades rook for queen, though white would pick off Ba3.  Eight points for ten (queen plus pawn)."
+80,Ne4+,g5e4,7r/8/4k3/1P1p1p1r/p3nR2/b3n1KP/R3N3/7Q w - - 1 41,"Nice.  Queen goes bye bye, while rook saves knight."
+81,Kf3,g3f3,7r/8/4k3/1P1p1p1r/p3nR2/b3nK1P/R3N3/7Q b - - 2 41,"Nice.  Queen goes bye bye, while rook saves knight."
+82,Rh5xh3+,h5h3,7r/8/4k3/1P1p1p2/p3nR2/b3nK1r/R3N3/7Q w - - 0 42,"Nice.  Queen goes bye bye, while rook saves knight."
+83,Qxh3,h1h3,7r/8/4k3/1P1p1p2/p3nR2/b3nK1Q/R3N3/8 b - - 0 42,Nope.  RxNc4+ gives up the knight for nought.
+84,Rxh3+,h8h3,8/8/4k3/1P1p1p2/p3nR2/b3nK1r/R3N3/8 w - - 0 43,Nope.  RxNc4+ gives up the knight for nought.
+85,Ng3,e2g3,8/8/4k3/1P1p1p2/p3nR2/b3nKNr/R7/8 b - - 1 43,Nope.  RxNc4+ gives up the knight for nought.

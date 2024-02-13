@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"I prefer c4 over e4 and d4, since c4 does not obstruct any knights."
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"It is important to understand every positional weakness created by each of your opponent's moves as early as move 1. This move is now a weakness to target with plans of h4 h5 hxg6 opening my rook's file with tempo, while weakening Black's pawn structure if Black is unable to recapture with hxg6. But I am not going to waste all those moves just to weaken Black's pawn structure. h4 gives me a head-start on that potential middlegame plan."
+3,h4,h2h4,rnbqkbnr/pppppp1p/6p1/8/2P4P/8/PP1PPPP1/RNBQKBNR b KQkq - 0 2,"Normally a move like this is considered weak, but since there is a target to attack, this is a great move."
+4,Nf6,g8f6,rnbqkb1r/pppppp1p/5np1/8/2P4P/8/PP1PPPP1/RNBQKBNR w KQkq - 1 3,I respond by controlling the same square's Blacks knight did
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2P4P/2N5/PP1PPPP1/R1BQKBNR b KQkq - 2 3,I respond by controlling the same square's Blacks knight did
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2P4P/2N5/PP1PPPP1/R1BQKBNR w KQkq - 3 4,"Black develops his dark squared bishop, so I will too."
+7,d3,d2d3,rnbqk2r/ppppppbp/5np1/8/2P4P/2NP4/PP2PPP1/R1BQKBNR b KQkq - 0 4,"d4 is no good here, because it gives Black a target to attack. d3 also solidifies my pawn structure."
+8,h6,h7h6,rnbqk2r/ppppppb1/5npp/8/2P4P/2NP4/PP2PPP1/R1BQKBNR w KQkq - 0 5,This gives me another weakness to target on the kingside
+9,Bd2,c1d2,rnbqk2r/ppppppb1/5npp/8/2P4P/2NP4/PP1BPPP1/R2QKBNR b KQkq - 1 5,Black is restricted from castling for now.
+10,e5,e7e5,rnbqk2r/pppp1pb1/5npp/4p3/2P4P/2NP4/PP1BPPP1/R2QKBNR w KQkq - 0 6,Black is restricted from castling for now.
+11,Qc1,d1c1,rnbqk2r/pppp1pb1/5npp/4p3/2P4P/2NP4/PP1BPPP1/R1Q1KBNR b KQkq - 1 6,Black is restricted from castling for now.
+12,Nc6,b8c6,r1bqk2r/pppp1pb1/2n2npp/4p3/2P4P/2NP4/PP1BPPP1/R1Q1KBNR w KQkq - 2 7,"I think e4 was better since I am moving the same piece twice. But if Black trades knights, then I'll get an open c-file, and superior control of the center."
+13,Nd5,c3d5,r1bqk2r/pppp1pb1/2n2npp/3Np3/2P4P/3P4/PP1BPPP1/R1Q1KBNR b KQkq - 3 7,"I think e4 was better since I am moving the same piece twice. But if Black trades knights, then I'll get an open c-file, and superior control of the center."
+14,d6,d7d6,r1bqk2r/ppp2pb1/2np1npp/3Np3/2P4P/3P4/PP1BPPP1/R1Q1KBNR w KQkq - 0 8,"Here I think the best idea for me was e4 Ne2 Ng3 h5 where if Black pushes with g5, I get the f5 square."
+15,g3,g2g3,r1bqk2r/ppp2pb1/2np1npp/3Np3/2P4P/3P2P1/PP1BPP2/R1Q1KBNR b KQkq - 0 8,"Not good. This obstructs the g3 square for my knight, obstructs the g3 square for my rook, obstructs the g3 square for my bishop. etc."
+16,Be6,c8e6,r2qk2r/ppp2pb1/2npbnpp/3Np3/2P4P/3P2P1/PP1BPP2/R1Q1KBNR w KQkq - 1 9,"Bolstering my knight on d5, Black will have to move his c6 knight if he wants to chase me away with c6"
+17,e4,e2e4,r2qk2r/ppp2pb1/2npbnpp/3Np3/2P1P2P/3P2P1/PP1B1P2/R1Q1KBNR b KQkq - 0 9,"Bolstering my knight on d5, Black will have to move his c6 knight if he wants to chase me away with c6"
+18,Nd4,c6d4,r2qk2r/ppp2pb1/3pbnpp/3Np3/2PnP2P/3P2P1/PP1B1P2/R1Q1KBNR w KQkq - 1 10,"Since I already obstructed my position with g3, I decided that this wasn't going to be an active piece game, and that my plans would have to be entirely strategic. Even though my next move obstructs my position even more, it makes everything solid so that I can organize my undeveloped forces in the middlegame. My plan is to finish developing and then boost with g4-h5"
+19,f3,f2f3,r2qk2r/ppp2pb1/3pbnpp/3Np3/2PnP2P/3P1PP1/PP1B4/R1Q1KBNR b KQkq - 0 10,"Everything is secure on the kingside, but Black owns the queenside dark squares."
+20,c6,c7c6,r2qk2r/pp3pb1/2ppbnpp/3Np3/2PnP2P/3P1PP1/PP1B4/R1Q1KBNR w KQkq - 0 11,"Everything is secure on the kingside, but Black owns the queenside dark squares."
+21,Ne3,d5e3,r2qk2r/pp3pb1/2ppbnpp/4p3/2PnP2P/3PNPP1/PP1B4/R1Q1KBNR b KQkq - 1 11,"Everything is secure on the kingside, but Black owns the queenside dark squares."
+22,Nh5,f6h5,r2qk2r/pp3pb1/2ppb1pp/4p2n/2PnP2P/3PNPP1/PP1B4/R1Q1KBNR w KQkq - 2 12,"Everything is secure on the kingside, but Black owns the queenside dark squares."
+23,Kf2,e1f2,r2qk2r/pp3pb1/2ppb1pp/4p2n/2PnP2P/3PNPP1/PP1B1K2/R1Q2BNR b kq - 3 12,"Everything is secure on the kingside, but Black owns the queenside dark squares."
+24,Qb6,d8b6,r3k2r/pp3pb1/1qppb1pp/4p2n/2PnP2P/3PNPP1/PP1B1K2/R1Q2BNR w kq - 4 13,"I need Black's queen out, so I will use my pawns + threats of opening the b-file"
+25,b4,b2b4,r3k2r/pp3pb1/1qppb1pp/4p2n/1PPnP2P/3PNPP1/P2B1K2/R1Q2BNR b kq - 0 13,Threatening c5
+26,c5,c6c5,r3k2r/pp3pb1/1q1pb1pp/2p1p2n/1PPnP2P/3PNPP1/P2B1K2/R1Q2BNR w kq - 0 14,"Black stops immediate pawn invasion, but now he has the b-file to worry about"
+27,Rb1,a1b1,r3k2r/pp3pb1/1q1pb1pp/2p1p2n/1PPnP2P/3PNPP1/P2B1K2/1RQ2BNR b kq - 1 14,"Suddenly Black's superior pieces are targetless, so my solid position counts for more."
+28,Qc7,b6c7,r3k2r/ppq2pb1/3pb1pp/2p1p2n/1PPnP2P/3PNPP1/P2B1K2/1RQ2BNR w kq - 2 15,"Suddenly Black's superior pieces are targetless, so my solid position counts for more."
+29,Bh3,f1h3,r3k2r/ppq2pb1/3pb1pp/2p1p2n/1PPnP2P/3PNPPB/P2B1K2/1RQ3NR b kq - 3 15,"After Bxh3 Rxh3 (not Nxh3? Nxg3!) there is one less piece defending Black's kingside, so Nd5 f4 is now an idea"
+30,f5,f7f5,r3k2r/ppq3b1/3pb1pp/2p1pp1n/1PPnP2P/3PNPPB/P2B1K2/1RQ3NR w kq - 0 16,"Black wants to attack on the kingside first, but this move is very weakening to the 7th rank,"

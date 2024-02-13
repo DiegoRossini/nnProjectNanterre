@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The French Defence.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The French Defence.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Nc3 is the Paulsen Variation. Other main lines are exd5 (the Exchange Variation), e5 (the Advance), and Nd2 (the Tarrasch)."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Nc3 is the Paulsen Variation. Other main lines are exd5 (the Exchange Variation), e5 (the Advance), and Nd2 (the Tarrasch)."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"Nc3 is the Paulsen Variation. Other main lines are exd5 (the Exchange Variation), e5 (the Advance), and Nd2 (the Tarrasch)."
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,Other main lines are Bb4 (the Winawer) and dxe4 (Rubinstein's).
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 3 4,The Burn Variation. Steinitz preferred e5 here.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 4 5,"Another option is Ne4, the Tartakower."
+9,e5,e4e5,rnbqk2r/ppp1bppp/4pn2/3pP1B1/3P4/2N5/PPP2PPP/R2QKBNR b KQkq - 0 5,"Another option is Ne4, the Tartakower."
+10,Nfd7,f6d7,rnbqk2r/pppnbppp/4p3/3pP1B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 1 6,"Another option is Ne4, the Tartakower."
+11,h4,h2h4,rnbqk2r/pppnbppp/4p3/3pP1B1/3P3P/2N5/PPP2PP1/R2QKBNR b KQkq - 0 6,The Alekhine Attack.
+12,O-O,e8g8,rnbq1rk1/pppnbppp/4p3/3pP1B1/3P3P/2N5/PPP2PP1/R2QKBNR w KQ - 1 7,"0-0 here (Spielmann) is actually a good continuation, though not as popular as the other 2 lines, c5 and Bxg5."
+13,Qg4,d1g4,rnbq1rk1/pppnbppp/4p3/3pP1B1/3P2QP/2N5/PPP2PP1/R3KBNR b KQ - 2 7,f5 is certainly better here.
+14,Kh8,g8h8,rnbq1r1k/pppnbppp/4p3/3pP1B1/3P2QP/2N5/PPP2PP1/R3KBNR w KQ - 3 8,f5 is certainly better here.
+15,Nf3,g1f3,rnbq1r1k/pppnbppp/4p3/3pP1B1/3P2QP/2N2N2/PPP2PP1/R3KB1R b KQ - 4 8,c5 is a classical move in the French against white's centre.
+16,c5,c7c5,rnbq1r1k/pp1nbppp/4p3/2ppP1B1/3P2QP/2N2N2/PPP2PP1/R3KB1R w KQ - 0 9,c5 is a classical move in the French against white's centre.
+17,Bd3,f1d3,rnbq1r1k/pp1nbppp/4p3/2ppP1B1/3P2QP/2NB1N2/PPP2PP1/R3K2R b KQ - 1 9,"A strange looking move, merely inviting c4 and forcing the bishop to retreat.
+But the target remains the same: Bxh7!"
+18,cxd4,c5d4,rnbq1r1k/pp1nbppp/4p3/3pP1B1/3p2QP/2NB1N2/PPP2PP1/R3K2R w KQ - 0 10,"How can black neutralise the threat? 
+9. ... g6? is no good as 10.h5 Kg8 11.hxg6 fxg6 12.Rxh7! Kxh7 13.Qh5  Kg7 14.Qxg6  Kh8 15.Qh7 checkmate.
+Black could try h6 or f5 (as mentioned earlier)."
+19,Bxh7,d3h7,rnbq1r1k/pp1nbppB/4p3/3pP1B1/3p2QP/2N2N2/PPP2PP1/R3K2R b KQ - 0 10,!! Can you see why it should work in this situation?
+20,g6,g7g6,rnbq1r1k/pp1nbp1B/4p1p1/3pP1B1/3p2QP/2N2N2/PPP2PP1/R3K2R w KQ - 0 11,"This is the only move black can play.
+If 10. ... Kxh7 11.Bxe7 Qc7 12.Bd6! and now black must play 12. ... Qxd6, otherwise it's game over. For example: 12. ... Qb6 13.Qh5  Kh8 14.Ng5 and Qh7 checkmate cannot be prevented. 
+
+The queen could also go on a suicide mission, but to no avail: 10. ... Kxh7 11.Bxe7 Qxe7? 12.Qh5  Kg8 13.Ng5 Qxg5 14.hxg5 and once more Qh7 checkmate is inevitable (supported by the rook this time)."
+21,Bxg6,h7g6,rnbq1r1k/pp1nbp2/4p1B1/3pP1B1/3p2QP/2N2N2/PPP2PP1/R3K2R b KQ - 0 11,"Look at this position! Black's entire queenside is undeveloped and his King is naked and alone in the other corner. And that is the point of Bxh7 and the question: when does it work? Without the analysis potential of a chess engine it is impossible to calculate with precision the long-term benefits of playing Bxh7, and even computers sometimes cannot see the full potential until a few moves have been made. 
+Basically, any sacrifice made to open up the opponent's king should be made if (a) the king will end up truly exposed, and (b) pieces can be brought into the attack quicker than those brought in to help the defence."
+22,fxg6,f7g6,rnbq1r1k/pp1nb3/4p1p1/3pP1B1/3p2QP/2N2N2/PPP2PP1/R3K2R w KQ - 0 12,The key move! It opens the h-file for white's rook.
+23,h5,h4h5,rnbq1r1k/pp1nb3/4p1p1/3pP1BP/3p2Q1/2N2N2/PPP2PP1/R3K2R b KQ - 0 12,The key move! It opens the h-file for white's rook.
+24,Nxe5,d7e5,rnbq1r1k/pp2b3/4p1p1/3pn1BP/3p2Q1/2N2N2/PPP2PP1/R3K2R w KQ - 0 13,"Not 12. ... gxh5 Qxh5  13.Kg7 Qh7 checkmate. 
+Another possibility is 12. ... Bxg5 which I played through as the following wonderful King-hunt: 13.hxg6  Kg7 14.Rh7  Kxg6 15.Qh5  Kf5 16.g4  Kf4 17.Qh2  Kxg4 18.Qh3  Kf4 19.Ne2  Ke4 20.Qg4  Bf4 21.Ng3 checkmate, and what a beautiful end to an artistic hunt. Never forget that chess is as much art as it is science."
+25,Nxe5,f3e5,rnbq1r1k/pp2b3/4p1p1/3pN1BP/3p2Q1/2N5/PPP2PP1/R3K2R b KQ - 0 13,"Bringing another piece into the attack. All things considered though, 13.hxg6  is a simpler and more obvious move and also possibly guarantees a quicker end to the game: 13.hxg6  Kg7 14.Rh7 ! (which I didn't see at the time) and if 14. ... Kxg6 15.Qh5  Kf5 16.Nxd4 checkmate... very pretty."
+26,Bxg5,e7g5,rnbq1r1k/pp6/4p1p1/3pN1bP/3p2Q1/2N5/PPP2PP1/R3K2R w KQ - 0 14,And with the h-file open the King-hunt begins.
+27,hxg6+,h5g6,rnbq1r1k/pp6/4p1P1/3pN1b1/3p2Q1/2N5/PPP2PP1/R3K2R b KQ - 0 14,And with the h-file open the King-hunt begins.
+28,Kg8,h8g8,rnbq1rk1/pp6/4p1P1/3pN1b1/3p2Q1/2N5/PPP2PP1/R3K2R w KQ - 1 15,Kg7 is followed by 15.Rh7  Kg8 16.Qh5 Qf6 17.Ng4 e5 18.Nxf6  Bxf6 19.Rh8 ! Bxh8 20.Qh7 checkmate.
+29,Qh5,g4h5,rnbq1rk1/pp6/4p1P1/3pN1bQ/3p4/2N5/PPP2PP1/R3K2R b KQ - 2 15,"And my opponent resigned.
+Comments and questions are most welcome."
+30,Kg7,g8g7,rnbq1r2/pp4k1/4p1P1/3pN1bQ/3p4/2N5/PPP2PP1/R3K2R w KQ - 3 16,"And my opponent resigned.
+Comments and questions are most welcome."
+31,Qh7+,h5h7,rnbq1r2/pp4kQ/4p1P1/3pN1b1/3p4/2N5/PPP2PP1/R3K2R b KQ - 4 16,"And my opponent resigned.
+Comments and questions are most welcome."
+32,Kf6,g7f6,rnbq1r2/pp5Q/4pkP1/3pN1b1/3p4/2N5/PPP2PP1/R3K2R w KQ - 5 17,"And my opponent resigned.
+Comments and questions are most welcome."
+33,Ng4+,e5g4,rnbq1r2/pp5Q/4pkP1/3p2b1/3p2N1/2N5/PPP2PP1/R3K2R b KQ - 6 17,"And my opponent resigned.
+Comments and questions are most welcome."
+34,Kf5,f6f5,rnbq1r2/pp5Q/4p1P1/3p1kb1/3p2N1/2N5/PPP2PP1/R3K2R w KQ - 7 18,"And my opponent resigned.
+Comments and questions are most welcome."
+35,g7+,g6g7,rnbq1r2/pp4PQ/4p3/3p1kb1/3p2N1/2N5/PPP2PP1/R3K2R b KQ - 0 18,"And my opponent resigned.
+Comments and questions are most welcome."

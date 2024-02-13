@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Spanish Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Spanish Opening
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Spanish Opening
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Spanish Opening
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Spanish Opening
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,My opponents last move is unusual
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,My opponents last move is unusual
+8,b5,b7b5,r1bqkbnr/2pp1ppp/p1n5/1p2p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,My opponents last move is unusual
+9,Bb3,a4b3,r1bqkbnr/2pp1ppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R b KQkq - 1 5,My opponents last move is unusual
+10,Be7,f8e7,r1bqk1nr/2ppbppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R w KQkq - 2 6,My opponents last move is unusual
+11,O-O,e1g1,r1bqk1nr/2ppbppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 3 6,idea if 6..Nf6 7.Re1 In these lines of the Spanish white always castles kingside so might as well do it now as my opponent now needs to move. I will then be able to use this information to better place my pieces rather then trying to place it in a good spot now
+12,d6,d7d6,r1bqk1nr/2p1bppp/p1np4/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 0 7,threatening 7..Na5 winning the bishop pair
+13,c3,c2c3,r1bqk1nr/2p1bppp/p1np4/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQ1RK1 b kq - 0 7,creates a square for the bishop thus keeping bishop pair.Also controls d4 making a d4 advance possible later on
+14,Nf6,g8f6,r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQ1RK1 w kq - 1 8,transposes to mainline Spanish
+15,Re1,f1e1,r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b kq - 2 8,I always put my rook here although usually in a different move order
+16,Bg4,c8g4,r2qk2r/2p1bppp/p1np1n2/1p2p3/4P1b1/1BP2N2/PP1P1PPP/RNBQR1K1 w kq - 3 9,8..0-0 would be the mainline although the move played is logical. Since after 8..0-0 9.h3 and I will be able to get a d4 advance in one move. My opponents move discourages a d4 advance as my knight on f3 is pinned to queen
+17,d3,d2d3,r2qk2r/2p1bppp/p1np1n2/1p2p3/4P1b1/1BPP1N2/PP3PPP/RNBQR1K1 b kq - 0 9,Although 9.d4 is playable I prefer 9.d3 as now I will try to create a d4 advance slowly
+18,h6,h7h6,r2qk2r/2p1bpp1/p1np1n1p/1p2p3/4P1b1/1BPP1N2/PP3PPP/RNBQR1K1 w kq - 0 10,Don't think that preventing 10.Bg5 with 9..h6 is good. My opponent has nothing to fear with 10.Bg5. 9..0-0 is much better
+19,Nbd2,b1d2,r2qk2r/2p1bpp1/p1np1n1p/1p2p3/4P1b1/1BPP1N2/PP1N1PPP/R1BQR1K1 b kq - 1 10,"The knight would be poorly placed on 10.Na3, So I reposition it it via f1. The knight will end up on e3 or g3. The choice usually depends on what my opponent does. This f1 maneuver is typical in this variation of Spanish opening"
+20,O-O,e8g8,r2q1rk1/2p1bpp1/p1np1n1p/1p2p3/4P1b1/1BPP1N2/PP1N1PPP/R1BQR1K1 w - - 2 11,good move safeguards king
+21,Nf1,d2f1,r2q1rk1/2p1bpp1/p1np1n1p/1p2p3/4P1b1/1BPP1N2/PP3PPP/R1BQRNK1 b - - 3 11,continuing my knight maneuver
+22,a5,a6a5,r2q1rk1/2p1bpp1/2np1n1p/pp2p3/4P1b1/1BPP1N2/PP3PPP/R1BQRNK1 w - - 0 12,Don't like this. My opponent should be developing.The move in question also takes away protection of the b5 pawn. 11..Re8 instead
+23,Ne3,f1e3,r2q1rk1/2p1bpp1/2np1n1p/pp2p3/4P1b1/1BPPNN2/PP3PPP/R1BQR1K1 b - - 1 12,Decided that this square is better than g3 as the knight attacks the bishop on g4 which will have to move otherwise I get the bishop pair
+24,Qd7,d8d7,r4rk1/2pqbpp1/2np1n1p/pp2p3/4P1b1/1BPPNN2/PP3PPP/R1BQR1K1 w - - 2 13,This just seems to loss the bishop pair as I can't see anyway of my opponent taking advantage of his lead in development
+25,Nxg4,e3g4,r4rk1/2pqbpp1/2np1n1p/pp2p3/4P1N1/1BPP1N2/PP3PPP/R1BQR1K1 b - - 0 13,"This move is bad. Although the knight is stopping the DSB getting to e3, it's not controlling the center well.My move just forces it to a good square"
+26,Nxg4,f6g4,r4rk1/2pqbpp1/2np3p/pp2p3/4P1n1/1BPP1N2/PP3PPP/R1BQR1K1 w - - 0 14,"This move is bad. Although the knight is stopping the DSB getting to e3, it's not controlling the center well.My move just forces it to a good square"
+27,h3,h2h3,r4rk1/2pqbpp1/2np3p/pp2p3/4P1n1/1BPP1N1P/PP3PP1/R1BQR1K1 b - - 0 14,"This move is bad. Although the knight is stopping the DSB getting to e3, it's not controlling the center well.My move just forces it to a good square"
+28,Nf6,g4f6,r4rk1/2pqbpp1/2np1n1p/pp2p3/4P3/1BPP1N1P/PP3PP1/R1BQR1K1 w - - 1 15,"Only available safe square, albeit a good square for a knight"
+29,a4,a2a4,r4rk1/2pqbpp1/2np1n1p/pp2p3/P3P3/1BPP1N1P/1P3PP1/R1BQR1K1 b - - 0 15,"my LSB is well place on b3, 15.a4 stops 15..a4 by my opponent"
+30,b4,b5b4,r4rk1/2pqbpp1/2np1n1p/p3p3/Pp2P3/1BPP1N1P/1P3PP1/R1BQR1K1 w - - 0 16,I did think he had to play 15..bxa4 so this came as a surprise

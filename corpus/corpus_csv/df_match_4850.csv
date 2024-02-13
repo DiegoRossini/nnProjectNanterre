@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Standard stuff.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Standard stuff.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Standard stuff.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Standard stuff.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,Standard stuff.
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Standard stuff.
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,Standard stuff.
+8,dxc4,d5c4,rnbqkb1r/ppp2ppp/4pn2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+9,e4,e2e4,rnbqkb1r/ppp2ppp/4pn2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+10,Bb4,f8b4,rnbqk2r/ppp2ppp/4pn2/8/1bpPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 6,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+11,Bg5,c1g5,rnbqk2r/ppp2ppp/4pn2/6B1/1bpPP3/2N2N2/PP3PPP/R2QKB1R b KQkq - 2 6,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+12,h6,h7h6,rnbqk2r/ppp2pp1/4pn1p/6B1/1bpPP3/2N2N2/PP3PPP/R2QKB1R w KQkq - 0 7,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+13,Bxf6,g5f6,rnbqk2r/ppp2pp1/4pB1p/8/1bpPP3/2N2N2/PP3PPP/R2QKB1R b KQkq - 0 7,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+14,Qxf6,d8f6,rnb1k2r/ppp2pp1/4pq1p/8/1bpPP3/2N2N2/PP3PPP/R2QKB1R w KQkq - 0 8,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+15,Bxc4,f1c4,rnb1k2r/ppp2pp1/4pq1p/8/1bBPP3/2N2N2/PP3PPP/R2QK2R b KQkq - 0 8,"Development is nearly complete for both sides, although Black's Q-side is lagging a bit."
+16,O-O,e8g8,rnb2rk1/ppp2pp1/4pq1p/8/1bBPP3/2N2N2/PP3PPP/R2QK2R w KQ - 1 9,"With both Kings tucked away, now the tactics can start."
+17,O-O,e1g1,rnb2rk1/ppp2pp1/4pq1p/8/1bBPP3/2N2N2/PP3PPP/R2Q1RK1 b - - 2 9,"With both Kings tucked away, now the tactics can start."
+18,Bxc3,b4c3,rnb2rk1/ppp2pp1/4pq1p/8/2BPP3/2b2N2/PP3PPP/R2Q1RK1 w - - 0 10,"An exchange that helps me, opening the QN file for my Rook."
+19,bxc3,b2c3,rnb2rk1/ppp2pp1/4pq1p/8/2BPP3/2P2N2/P4PPP/R2Q1RK1 b - - 0 10,"An exchange that helps me, opening the QN file for my Rook."
+20,c6,c7c6,rnb2rk1/pp3pp1/2p1pq1p/8/2BPP3/2P2N2/P4PPP/R2Q1RK1 w - - 0 11,Aiming down the diagonal.
+21,Qc2,d1c2,rnb2rk1/pp3pp1/2p1pq1p/8/2BPP3/2P2N2/P1Q2PPP/R4RK1 b - - 1 11,Aiming down the diagonal.
+22,Qg6,f6g6,rnb2rk1/pp3pp1/2p1p1qp/8/2BPP3/2P2N2/P1Q2PPP/R4RK1 w - - 2 12,Forming a battery.
+23,Bd3,c4d3,rnb2rk1/pp3pp1/2p1p1qp/8/3PP3/2PB1N2/P1Q2PPP/R4RK1 b - - 3 12,Forming a battery.
+24,f5,f7f5,rnb2rk1/pp4p1/2p1p1qp/5p2/3PP3/2PB1N2/P1Q2PPP/R4RK1 w - - 0 13,"With the Black KB pawn no longer able to contest the square, I seize the outpost for my Knight."
+25,Ne5,f3e5,rnb2rk1/pp4p1/2p1p1qp/4Np2/3PP3/2PB4/P1Q2PPP/R4RK1 b - - 1 13,"With the Black KB pawn no longer able to contest the square, I seize the outpost for my Knight."
+26,Qe8,g6e8,rnb1qrk1/pp4p1/2p1p2p/4Np2/3PP3/2PB4/P1Q2PPP/R4RK1 w - - 2 14,An exchange of Pawns would now open the file for my Rook.
+27,Rfe1,f1e1,rnb1qrk1/pp4p1/2p1p2p/4Np2/3PP3/2PB4/P1Q2PPP/R3R1K1 b - - 3 14,An exchange of Pawns would now open the file for my Rook.
+28,Nd7,b8d7,r1b1qrk1/pp1n2p1/2p1p2p/4Np2/3PP3/2PB4/P1Q2PPP/R3R1K1 w - - 4 15,"Rather than retreat, I simply capture."
+29,Nxd7,e5d7,r1b1qrk1/pp1N2p1/2p1p2p/5p2/3PP3/2PB4/P1Q2PPP/R3R1K1 b - - 0 15,"Rather than retreat, I simply capture."
+30,Bxd7,c8d7,r3qrk1/pp1b2p1/2p1p2p/5p2/3PP3/2PB4/P1Q2PPP/R3R1K1 w - - 0 16,"The Pawn, pinned, cannot recapture."
+31,exf5,e4f5,r3qrk1/pp1b2p1/2p1p2p/5P2/3P4/2PB4/P1Q2PPP/R3R1K1 b - - 0 16,"The Pawn, pinned, cannot recapture."
+32,Rf6,f8f6,r3q1k1/pp1b2p1/2p1pr1p/5P2/3P4/2PB4/P1Q2PPP/R3R1K1 w - - 1 17,Setting up a pin...
+33,fxe6,f5e6,r3q1k1/pp1b2p1/2p1Pr1p/8/3P4/2PB4/P1Q2PPP/R3R1K1 b - - 0 17,Setting up a pin...
+34,Rxe6,f6e6,r3q1k1/pp1b2p1/2p1r2p/8/3P4/2PB4/P1Q2PPP/R3R1K1 w - - 0 18,of the Bishop...
+35,Rxe6,e1e6,r3q1k1/pp1b2p1/2p1R2p/8/3P4/2PB4/P1Q2PPP/R5K1 b - - 0 18,of the Bishop...
+36,Bxe6,d7e6,r3q1k1/pp4p1/2p1b2p/8/3P4/2PB4/P1Q2PPP/R5K1 w - - 0 19,...after the exchanges.
+37,Re1,a1e1,r3q1k1/pp4p1/2p1b2p/8/3P4/2PB4/P1Q2PPP/4R1K1 b - - 1 19,...after the exchanges.
+38,Rd8,a8d8,3rq1k1/pp4p1/2p1b2p/8/3P4/2PB4/P1Q2PPP/4R1K1 w - - 2 20,To guard against any last-ditch tries by Black of a back-rank mate.
+39,h3,h2h3,3rq1k1/pp4p1/2p1b2p/8/3P4/2PB3P/P1Q2PP1/4R1K1 b - - 0 20,To guard against any last-ditch tries by Black of a back-rank mate.
+40,Kf8,g8f8,3rqk2/pp4p1/2p1b2p/8/3P4/2PB3P/P1Q2PP1/4R1K1 w - - 1 21,"If 21... BxB, 22 RxQ CHECK forces Black's hand. 22... RxR or 22... KxR is followed by 23 QxB with a winning advantage of a Q for a R and a Pawn ahead to boot."
+41,Bf5,d3f5,3rqk2/pp4p1/2p1b2p/5B2/3P4/2P4P/P1Q2PP1/4R1K1 b - - 2 21,"If 21... BxB, 22 RxQ CHECK forces Black's hand. 22... RxR or 22... KxR is followed by 23 QxB with a winning advantage of a Q for a R and a Pawn ahead to boot."
+42,Rd6,d8d6,4qk2/pp4p1/2prb2p/5B2/3P4/2P4P/P1Q2PP1/4R1K1 w - - 3 22,"If 24... QxB, 25 RxQ secures a winning material edge. So Black tries 24 RxB..."
+43,Bxe6,f5e6,4qk2/pp4p1/2prB2p/8/3P4/2P4P/P1Q2PP1/4R1K1 b - - 0 22,"If 24... QxB, 25 RxQ secures a winning material edge. So Black tries 24 RxB..."
+44,Rxe6,d6e6,4qk2/pp4p1/2p1r2p/8/3P4/2P4P/P1Q2PP1/4R1K1 w - - 0 23,"...only to be blindsided by this move, winning the Rook."
+45,Qf5+,c2f5,4qk2/pp4p1/2p1r2p/5Q2/3P4/2P4P/P4PP1/4R1K1 b - - 1 23,"...only to be blindsided by this move, winning the Rook."
+46,Qf7,e8f7,5k2/pp3qp1/2p1r2p/5Q2/3P4/2P4P/P4PP1/4R1K1 w - - 2 24,With mate on the brain.
+47,Qxe6,f5e6,5k2/pp3qp1/2p1Q2p/8/3P4/2P4P/P4PP1/4R1K1 b - - 0 24,With mate on the brain.
+48,a5,a7a5,5k2/1p3qp1/2p1Q2p/p7/3P4/2P4P/P4PP1/4R1K1 w - - 0 25,The final move....
+49,Qc8+,e6c8,2Q2k2/1p3qp1/2p4p/p7/3P4/2P4P/P4PP1/4R1K1 b - - 1 25,The final move....
+50,Qe8,f7e8,2Q1qk2/1p4p1/2p4p/p7/3P4/2P4P/P4PP1/4R1K1 w - - 2 26,...before the curtain falls.
+51,Qxe8#,c8e8,4Qk2/1p4p1/2p4p/p7/3P4/2P4P/P4PP1/4R1K1 b - - 0 26,...before the curtain falls.

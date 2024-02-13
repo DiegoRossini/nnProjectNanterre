@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Weaker players may enjoy learning about the Nimzo-Indian Defence with this game. For stronger players I want you to evaluate the final position. Was black wrong to accept a draw?
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Black is going to play an Indian defence, as indicated by this move. It is the most played move in this position, and prevents white from playing e4."
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Again the most-played move. White gains space and prepares to develop his knights.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Again, this is most usual move in this position, although g6 heading for the King's Indian Defence or Grunfeld Defence is nearly as popular."
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,White can instead play Nf3 when black normally replies b6 going into the Queen's Indian Defence
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,"And this introduces the Nimzo-Indian Defence, named after Aron Nimzowitsch 1886-1935. There have been several famous games with this opening, for instance P Johner-Nimzowitsch 1926, Botvinnik-Capablance 1938 and the first game Spassky-Fischer 1972. Black prevents e4 with a pin on the Nc3"
+7,a3,a2a3,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/P1N5/1P2PPPP/R1BQKBNR b KQkq - 0 4,"The Samisch variation, named after Friedrich Samisch 1896-1975. It virtually forces black to give up the dark squared bishop, but in return, white gets doubled pawns"
+8,Bxc3+,b4c3,rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1b5/1P2PPPP/R1BQKBNR w KQkq - 0 5,"Having got rid of the black squared bishop, it makes sense to put pawns on black squares to compensate. This is the most commonly played move in this position"
+9,bxc3,b2c3,rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR b KQkq - 0 5,"Having got rid of the black squared bishop, it makes sense to put pawns on black squares to compensate. This is the most commonly played move in this position"
+10,c5,c7c5,rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P5/4PPPP/R1BQKBNR w KQkq - 0 6,"Having got rid of the black squared bishop, it makes sense to put pawns on black squares to compensate. This is the most commonly played move in this position"
+11,e3,e2e3,rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR b KQkq - 0 6,White bolsters the d4 pawn
+12,Nc6,b8c6,r1bqk2r/pp1p1ppp/2n1pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR w KQkq - 1 7,and black attacks it again
+13,Bd3,f1d3,r1bqk2r/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/5PPP/R1BQK1NR b KQkq - 2 7,both sides develop some more
+14,O-O,e8g8,r1bq1rk1/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/5PPP/R1BQK1NR w KQ - 3 8,both sides develop some more
+15,Ne2,g1e2,r1bq1rk1/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/4NPPP/R1BQK2R b KQ - 4 8,"In most opening the white knight goes to f3 instead. However this is the most commonly played move here. From here the white knight defends c3 and also after 0-0 white can play f3 and and e4, gaining a strong pawn centre"
+16,b6,b7b6,r1bq1rk1/p2p1ppp/1pn1pn2/2p5/2PP4/P1PBP3/4NPPP/R1BQK2R w KQ - 0 9,"Another pawn onto a black square, enhancing the scope of Bc8"
+17,e4,e3e4,r1bq1rk1/p2p1ppp/1pn1pn2/2p5/2PPP3/P1PB4/4NPPP/R1BQK2R b KQ - 0 9,Black doesn't want the f6 knight pinned with Bg5
+18,Ne8,f6e8,r1bqnrk1/p2p1ppp/1pn1p3/2p5/2PPP3/P1PB4/4NPPP/R1BQK2R w KQ - 1 10,Black doesn't want the f6 knight pinned with Bg5
+19,O-O,e1g1,r1bqnrk1/p2p1ppp/1pn1p3/2p5/2PPP3/P1PB4/4NPPP/R1BQ1RK1 b - - 2 10,Black brings pressure on the c4 pawn
+20,Ba6,c8a6,r2qnrk1/p2p1ppp/bpn1p3/2p5/2PPP3/P1PB4/4NPPP/R1BQ1RK1 w - - 3 11,Black brings pressure on the c4 pawn
+21,f4,f2f4,r2qnrk1/p2p1ppp/bpn1p3/2p5/2PPPP2/P1PB4/4N1PP/R1BQ1RK1 b - - 0 11,"White now has quite an impressive looking pawn centre, with moves like e5 and f5 in the air"
+22,f6,f7f6,r2qnrk1/p2p2pp/bpn1pp2/2p5/2PPPP2/P1PB4/4N1PP/R1BQ1RK1 w - - 0 12,"f5 is more commonly played, but in the world database on Gameknot f6 had scored better."
+23,e5,e4e5,r2qnrk1/p2p2pp/bpn1pp2/2p1P3/2PP1P2/P1PB4/4N1PP/R1BQ1RK1 b - - 0 12,"On the world database there are three games from this position, all draws. I would be happy with that. Adam is graded about 60 points ahead of me, and the only time I beat him was when he timed-out. Apart from that, before this game I had had 6 losses and one draw against him. I should have lost the one drawn game, he messed up after being a piece ahead."
+24,f5,f6f5,r2qnrk1/p2p2pp/bpn1p3/2p1Pp2/2PP1P2/P1PB4/4N1PP/R1BQ1RK1 w - - 0 13,"This looks horrible for black, the white pawns cutting the black position in two, black pieces round the edge of the board. In fact the black position is quite sound. The knights are better than the bishops in this rather blocked position"
+25,d5,d4d5,r2qnrk1/p2p2pp/bpn1p3/2pPPp2/2P2P2/P1PB4/4N1PP/R1BQ1RK1 b - - 0 13,"This looks horrible for black, the white pawns cutting the black position in two, black pieces round the edge of the board. In fact the black position is quite sound. The knights are better than the bishops in this rather blocked position"
+26,Na5,c6a5,r2qnrk1/p2p2pp/bp2p3/n1pPPp2/2P2P2/P1PB4/4N1PP/R1BQ1RK1 w - - 1 14,Instead of d6 white can't defend c4 with Qa4 and after exd the c pawn can't recapture as white would lose the Bd3
+27,d6,d5d6,r2qnrk1/p2p2pp/bp1Pp3/n1p1Pp2/2P2P2/P1PB4/4N1PP/R1BQ1RK1 b - - 0 14,Instead of d6 white can't defend c4 with Qa4 and after exd the c pawn can't recapture as white would lose the Bd3

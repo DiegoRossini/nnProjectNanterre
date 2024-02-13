@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Bishop's opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Bishop's opening.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Bishop's opening.
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,This move is not found in the database.  Not sure why--it seems like a good one.
+5,Nf3,g1f3,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,This move is not found in the database.  Not sure why--it seems like a good one.
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,This move is not found in the database.  Not sure why--it seems like a good one.
+7,d4,d2d4,rnb1k1nr/pppp1ppp/5q2/2b1p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,This move is not found in the database.  Not sure why--it seems like a good one.
+8,exd4,e5d4,rnb1k1nr/pppp1ppp/5q2/2b5/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,This move is not found in the database.  Not sure why--it seems like a good one.
+9,Bg5,c1g5,rnb1k1nr/pppp1ppp/5q2/2b3B1/2BpP3/5N2/PPP2PPP/RN1QK2R b KQkq - 1 5,Unwise.  RxN for free.
+10,Qg6,f6g6,rnb1k1nr/pppp1ppp/6q1/2b3B1/2BpP3/5N2/PPP2PPP/RN1QK2R w KQkq - 2 6,Unwise.  RxN for free.
+11,Nbd2,b1d2,rnb1k1nr/pppp1ppp/6q1/2b3B1/2BpP3/5N2/PPPN1PPP/R2QK2R b KQkq - 3 6,Unwise.  RxN for free.
+12,h6,h7h6,rnb1k1nr/pppp1pp1/6qp/2b3B1/2BpP3/5N2/PPPN1PPP/R2QK2R w KQkq - 0 7,Unwise.  RxN for free.
+13,Nb3,d2b3,rnb1k1nr/pppp1pp1/6qp/2b3B1/2BpP3/1N3N2/PPP2PPP/R2QK2R b KQkq - 1 7,Unwise.  RxN for free.
+14,hxg5,h6g5,rnb1k1nr/pppp1pp1/6q1/2b3p1/2BpP3/1N3N2/PPP2PPP/R2QK2R w KQkq - 0 8,Unwise.  RxN for free.
+15,Nxc5,b3c5,rnb1k1nr/pppp1pp1/6q1/2N3p1/2BpP3/5N2/PPP2PPP/R2QK2R b KQkq - 0 8,Unwise.  RxN for free.
+16,g4,g5g4,rnb1k1nr/pppp1pp1/6q1/2N5/2BpP1p1/5N2/PPP2PPP/R2QK2R w KQkq - 0 9,Unwise.  RxN for free.
+17,Nh4,f3h4,rnb1k1nr/pppp1pp1/6q1/2N5/2BpP1pN/8/PPP2PPP/R2QK2R b KQkq - 1 9,Unwise.  RxN for free.
+18,Qc6,g6c6,rnb1k1nr/pppp1pp1/2q5/2N5/2BpP1pN/8/PPP2PPP/R2QK2R w KQkq - 2 10,Yep.  This protects both knight and bishop.  But that h knight remains at risk.
+19,Qxd4,d1d4,rnb1k1nr/pppp1pp1/2q5/2N5/2BQP1pN/8/PPP2PPP/R3K2R b KQkq - 0 10,Yep.  This protects both knight and bishop.  But that h knight remains at risk.
+20,b6,b7b6,rnb1k1nr/p1pp1pp1/1pq5/2N5/2BQP1pN/8/PPP2PPP/R3K2R w KQkq - 0 11,"You know what I really like here?  Bd5.  The black queen and rook are lined up.  What is probably even better is Qe5+.  Nah, Bd5.  PxN, then Qe5+.  If the queen intercedes trade her for the bishop, and you still have QxPc5 as a little bonus.  Though instead of QxPc5, Pg3 to protect that poor knight might be better yet.  I cannot believe that thing is still hanging out there undefended.
+
+The problem with Bd5 is PxN threatens the white queen.  BxQ, PxQ, BxR.  White comes out ahead.  If black moves the queen white still takes the rook."
+21,Nd3,c5d3,rnb1k1nr/p1pp1pp1/1pq5/8/2BQP1pN/3N4/PPP2PPP/R3K2R b KQkq - 1 11,"Right, well, black HAS to see that undefended knight has been sitting out at h4 for four moves now.  Will black trade knights?"
+22,Qd6,c6d6,rnb1k1nr/p1pp1pp1/1p1q4/8/2BQP1pN/3N4/PPP2PPP/R3K2R w KQkq - 2 12,"Right, well, black HAS to see that undefended knight has been sitting out at h4 for four moves now.  Will black trade knights?"
+23,Qxg7,d4g7,rnb1k1nr/p1pp1pQ1/1p1q4/8/2B1P1pN/3N4/PPP2PPP/R3K2R b KQkq - 0 12,"Right, well, black HAS to see that undefended knight has been sitting out at h4 for four moves now.  Will black trade knights?"
+24,Rh6,h8h6,rnb1k1n1/p1pp1pQ1/1p1q3r/8/2B1P1pN/3N4/PPP2PPP/R3K2R w KQq - 1 13,"Well the knight is as ugly as a horse's head, but so what?  RxNh4 seems WAY better, so long as you're moving the rook.  Qf6 would probably have been better yet for black.
+
+Here white wants BxPf7+.  Black has Kd8, which is mortal because QxN+ is followed by Qf8 and then QxQ#.  But Ke7 is also horrible, because Nf5+ gives white the black queen.  Actually, Nf8+ drives the king back to d8, where the previous mate plays out.  Game over.  Force mate."
+25,Qxg8+,g7g8,rnb1k1Q1/p1pp1p2/1p1q3r/8/2B1P1pN/3N4/PPP2PPP/R3K2R b KQq - 0 13,"See, here white went for the knight out of pure greed.  A little patience would have worked wonders--take the pawn first--it is free.  QxPf7+ and the knight could be picked off at white's leisure.  Two pieces and black wouldn't even be able to propose a queen exchange."
+26,Qf8,d6f8,rnb1kqQ1/p1pp1p2/1p5r/8/2B1P1pN/3N4/PPP2PPP/R3K2R w KQq - 1 14,"Now the knight is lost for sure.  Castling was a terrible idea.  I would have gone with Pg3, to put some pawn power on that knight.  Or Nf3, to protect Ph2.  Now black takes the knight (finally) AND picks off Ph2."
+27,Qxg4,g8g4,rnb1kq2/p1pp1p2/1p5r/8/2B1P1QN/3N4/PPP2PPP/R3K2R b KQq - 0 14,"Now the knight is lost for sure.  Castling was a terrible idea.  I would have gone with Pg3, to put some pawn power on that knight.  Or Nf3, to protect Ph2.  Now black takes the knight (finally) AND picks off Ph2."
+28,Qh8,f8h8,rnb1k2q/p1pp1p2/1p5r/8/2B1P1QN/3N4/PPP2PPP/R3K2R w KQq - 1 15,"Now the knight is lost for sure.  Castling was a terrible idea.  I would have gone with Pg3, to put some pawn power on that knight.  Or Nf3, to protect Ph2.  Now black takes the knight (finally) AND picks off Ph2."
+29,O-O,e1g1,rnb1k2q/p1pp1p2/1p5r/8/2B1P1QN/3N4/PPP2PPP/R4RK1 b q - 2 15,"Now the knight is lost for sure.  Castling was a terrible idea.  I would have gone with Pg3, to put some pawn power on that knight.  Or Nf3, to protect Ph2.  Now black takes the knight (finally) AND picks off Ph2."
+30,Rxh4,h6h4,rnb1k2q/p1pp1p2/1p6/8/2B1P1Qr/3N4/PPP2PPP/R4RK1 w q - 0 16,"What, when in doubt push a pawn?  Pf7 is undefended."
+31,Qf3,g4f3,rnb1k2q/p1pp1p2/1p6/8/2B1P2r/3N1Q2/PPP2PPP/R4RK1 b q - 1 16,"What, when in doubt push a pawn?  Pf7 is undefended."
+32,Rxh2,h4h2,rnb1k2q/p1pp1p2/1p6/8/2B1P3/3N1Q2/PPP2PPr/R4RK1 w q - 0 17,"What, when in doubt push a pawn?  Pf7 is undefended."
+33,g3,g2g3,rnb1k2q/p1pp1p2/1p6/8/2B1P3/3N1QP1/PPP2P1r/R4RK1 b q - 0 17,"What, when in doubt push a pawn?  Pf7 is undefended."
+34,c6,c7c6,rnb1k2q/p2p1p2/1pp5/8/2B1P3/3N1QP1/PPP2P1r/R4RK1 w q - 0 18,"What, when in doubt push a pawn?  Pf7 is undefended."
+35,Qxf7+,f3f7,rnb1k2q/p2p1Q2/1pp5/8/2B1P3/3N2P1/PPP2P1r/R4RK1 b q - 0 18,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+36,Kd8,e8d8,rnbk3q/p2p1Q2/1pp5/8/2B1P3/3N2P1/PPP2P1r/R4RK1 w - - 1 19,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+37,Rfe1,f1e1,rnbk3q/p2p1Q2/1pp5/8/2B1P3/3N2P1/PPP2P1r/R3R1K1 b - - 2 19,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+38,Ba6,c8a6,rn1k3q/p2p1Q2/bpp5/8/2B1P3/3N2P1/PPP2P1r/R3R1K1 w - - 3 20,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+39,Kf1,g1f1,rn1k3q/p2p1Q2/bpp5/8/2B1P3/3N2P1/PPP2P1r/R3RK2 b - - 4 20,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+40,Rh1+,h2h1,rn1k3q/p2p1Q2/bpp5/8/2B1P3/3N2P1/PPP2P2/R3RK1r w - - 5 21,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+41,Ke2,f1e2,rn1k3q/p2p1Q2/bpp5/8/2B1P3/3N2P1/PPP1KP2/R3R2r b - - 6 21,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+42,Bxc4,a6c4,rn1k3q/p2p1Q2/1pp5/8/2b1P3/3N2P1/PPP1KP2/R3R2r w - - 0 22,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+43,Rexh1,e1h1,rn1k3q/p2p1Q2/1pp5/8/2b1P3/3N2P1/PPP1KP2/R6R b - - 0 22,"No.  The proper response here would be QxBc4.  RxR, RxR or NxR."
+44,Qxh1,h8h1,rn1k4/p2p1Q2/1pp5/8/2b1P3/3N2P1/PPP1KP2/R6q w - - 0 23,"Bishop should probably have taken the pawn, just to get something out of it."
+45,Rxh1,a1h1,rn1k4/p2p1Q2/1pp5/8/2b1P3/3N2P1/PPP1KP2/7R b - - 0 23,"Bishop should probably have taken the pawn, just to get something out of it."
+46,Bxf7,c4f7,rn1k4/p2p1b2/1pp5/8/4P3/3N2P1/PPP1KP2/7R w - - 0 24,"Bishop should probably have taken the pawn, just to get something out of it."
+47,Rh8+,h1h8,rn1k3R/p2p1b2/1pp5/8/4P3/3N2P1/PPP1KP2/8 b - - 1 24,"Bishop should probably have taken the pawn, just to get something out of it."
+48,Kc7,d8c7,rn5R/p1kp1b2/1pp5/8/4P3/3N2P1/PPP1KP2/8 w - - 2 25,"Bishop should probably have taken the pawn, just to get something out of it."
+49,Ne5,d3e5,rn5R/p1kp1b2/1pp5/4N3/4P3/6P1/PPP1KP2/8 b - - 3 25,"Bishop should probably have taken the pawn, just to get something out of it."
+50,Bxa2,f7a2,rn5R/p1kp4/1pp5/4N3/4P3/6P1/bPP1KP2/8 w - - 0 26,"Bishop should probably have taken the pawn, just to get something out of it."
+51,b3,b2b3,rn5R/p1kp4/1pp5/4N3/4P3/1P4P1/b1P1KP2/8 b - - 0 26,"Bishop should probably have taken the pawn, just to get something out of it."
+52,Bb1,a2b1,rn5R/p1kp4/1pp5/4N3/4P3/1P4P1/2P1KP2/1b6 w - - 1 27,"Bishop should probably have taken the pawn, just to get something out of it."
+53,Kd2,e2d2,rn5R/p1kp4/1pp5/4N3/4P3/1P4P1/2PK1P2/1b6 b - - 2 27,"Bishop should probably have taken the pawn, just to get something out of it."
+54,d6,d7d6,rn5R/p1k5/1ppp4/4N3/4P3/1P4P1/2PK1P2/1b6 w - - 0 28,"Bishop should probably have taken the pawn, just to get something out of it."
+55,Nf7,e5f7,rn5R/p1k2N2/1ppp4/8/4P3/1P4P1/2PK1P2/1b6 b - - 1 28,"Bishop should probably have taken the pawn, just to get something out of it."
+56,a5,a7a5,rn5R/2k2N2/1ppp4/p7/4P3/1P4P1/2PK1P2/1b6 w - - 0 29,"Bishop should probably have taken the pawn, just to get something out of it."
+57,Kc1,d2c1,rn5R/2k2N2/1ppp4/p7/4P3/1P4P1/2P2P2/1bK5 b - - 1 29,"Bishop should probably have taken the pawn, just to get something out of it."
+58,Ba2,b1a2,rn5R/2k2N2/1ppp4/p7/4P3/1P4P1/b1P2P2/2K5 w - - 2 30,"Bishop should probably have taken the pawn, just to get something out of it."
+59,Kb2,c1b2,rn5R/2k2N2/1ppp4/p7/4P3/1P4P1/bKP2P2/8 b - - 3 30,This move tosses Pd6 (as in NxPd6+).
+60,Kb7,c7b7,rn5R/1k3N2/1ppp4/p7/4P3/1P4P1/bKP2P2/8 w - - 4 31,This move tosses Pd6 (as in NxPd6+).
+61,Kxa2,b2a2,rn5R/1k3N2/1ppp4/p7/4P3/1P4P1/K1P2P2/8 b - - 0 31,Guess it can wait.
+62,Nd7,b8d7,r6R/1k1n1N2/1ppp4/p7/4P3/1P4P1/K1P2P2/8 w - - 1 32,"On the other hand, I see now black hoped to get the rook out.  Being down a pawn this late in the game even trades are ill advised."
+63,Nxd6+,f7d6,r6R/1k1n4/1ppN4/p7/4P3/1P4P1/K1P2P2/8 b - - 0 32,"Here white should push the e pawn.  Pe5.  Then Pe6 eats the black knight, unless black moves the king first."
+64,Ka7,b7a7,r6R/k2n4/1ppN4/p7/4P3/1P4P1/K1P2P2/8 w - - 1 33,"Here white should push the e pawn.  Pe5.  Then Pe6 eats the black knight, unless black moves the king first."
+65,Rh7,h8h7,r7/k2n3R/1ppN4/p7/4P3/1P4P1/K1P2P2/8 b - - 2 33,"Here white should push the e pawn.  Pe5.  Then Pe6 eats the black knight, unless black moves the king first."
+66,Rd8,a8d8,3r4/k2n3R/1ppN4/p7/4P3/1P4P1/K1P2P2/8 w - - 3 34,"Here white should push the e pawn.  Pe5.  Then Pe6 eats the black knight, unless black moves the king first."
+67,c4,c2c4,3r4/k2n3R/1ppN4/p7/2P1P3/1P4P1/K4P2/8 b - - 0 34,This pawn move occupies a square the knight would have liked to be on.
+68,Kb8,a7b8,1k1r4/3n3R/1ppN4/p7/2P1P3/1P4P1/K4P2/8 w - - 1 35,"Black, of course, wants to move the king to free up the knight."
+69,Nf7,d6f7,1k1r4/3n1N1R/1pp5/p7/2P1P3/1P4P1/K4P2/8 b - - 2 35,This doesn't help prevent RxPc6.
+70,Re8,d8e8,1k2r3/3n1N1R/1pp5/p7/2P1P3/1P4P1/K4P2/8 w - - 3 36,This doesn't help prevent RxPc6.
+71,f3,f2f3,1k2r3/3n1N1R/1pp5/p7/2P1P3/1P3PP1/K7/8 b - - 0 36,This doesn't help prevent RxPc6.
+72,Nf6,d7f6,1k2r3/5N1R/1pp2n2/p7/2P1P3/1P3PP1/K7/8 w - - 1 37,This doesn't help prevent RxPc6.
+73,Rh6,h7h6,1k2r3/5N2/1pp2n1R/p7/2P1P3/1P3PP1/K7/8 b - - 2 37,This doesn't help prevent RxPc6.
+74,Ng8,f6g8,1k2r1n1/5N2/1pp4R/p7/2P1P3/1P3PP1/K7/8 w - - 3 38,This doesn't help prevent RxPc6.
+75,Rxc6,h6c6,1k2r1n1/5N2/1pR5/p7/2P1P3/1P3PP1/K7/8 b - - 0 38,That doesn't help prevent RxPb6+.
+76,Ne7,g8e7,1k2r3/4nN2/1pR5/p7/2P1P3/1P3PP1/K7/8 w - - 1 39,That doesn't help prevent RxPb6+.

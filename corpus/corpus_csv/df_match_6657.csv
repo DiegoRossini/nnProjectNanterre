@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,So far so book.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,So far so book.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,So far so book.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,So far so book.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,So far so book.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,So far so book.
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"Here's where things start to get weird. This two-piece ""berserker"" attack is doomed to fail against proper defense. Why not simply continue developing?"
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Obvious.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Unwilling to admit he made a mistake.
+10,Na5,c6a5,r1bqkb1r/ppp2ppp/5n2/n2Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 1 6,Prematurely developing the Queen.
+11,Qe2,d1e2,r1bqkb1r/ppp2ppp/5n2/n2Pp1N1/2B5/8/PPPPQPPP/RNB1K2R b KQkq - 2 6,Prematurely developing the Queen.
+12,Nxc4,a5c4,r1bqkb1r/ppp2ppp/5n2/3Pp1N1/2n5/8/PPPPQPPP/RNB1K2R w KQkq - 0 7,"At this point, he has a chance to make up for his mistake. QxQ followed by O-O and development of the Q-side is indicated for White."
+13,Qxc4,e2c4,r1bqkb1r/ppp2ppp/5n2/3Pp1N1/2Q5/8/PPPP1PPP/RNB1K2R b KQkq - 0 7,"At this point, he has a chance to make up for his mistake. QxQ followed by O-O and development of the Q-side is indicated for White."
+14,Qxd5,d8d5,r1b1kb1r/ppp2ppp/5n2/3qp1N1/2Q5/8/PPPP1PPP/RNB1K2R w KQkq - 0 8,"At this point, he has a chance to make up for his mistake. QxQ followed by O-O and development of the Q-side is indicated for White."
+15,Qxc7,c4c7,r1b1kb1r/ppQ2ppp/5n2/3qp1N1/8/8/PPPP1PPP/RNB1K2R b KQkq - 0 8,Now his Rook is threatened and his King will never be able to find safety. The K-side is shattered and the Q-side is undeveloped.
+16,Qxg2,d5g2,r1b1kb1r/ppQ2ppp/5n2/4p1N1/8/8/PPPP1PqP/RNB1K2R w KQkq - 0 9,Now his Rook is threatened and his King will never be able to find safety. The K-side is shattered and the Q-side is undeveloped.
+17,Qxe5+,c7e5,r1b1kb1r/pp3ppp/5n2/4Q1N1/8/8/PPPP1PqP/RNB1K2R b KQkq - 0 9,"The Knight has no flight square! Now in addition to his positional disadvatages, he will face a material one as well."
+18,Be7,f8e7,r1b1k2r/pp2bppp/5n2/4Q1N1/8/8/PPPP1PqP/RNB1K2R w KQkq - 1 10,"The Knight has no flight square! Now in addition to his positional disadvatages, he will face a material one as well."
+19,Rf1,h1f1,r1b1k2r/pp2bppp/5n2/4Q1N1/8/8/PPPP1PqP/RNB1KR2 b Qkq - 2 10,"The Knight has no flight square! Now in addition to his positional disadvatages, he will face a material one as well."
+20,h6,h7h6,r1b1k2r/pp2bpp1/5n1p/4Q1N1/8/8/PPPP1PqP/RNB1KR2 w Qkq - 0 11,"The Knight has no flight square! Now in addition to his positional disadvatages, he will face a material one as well."
+21,Nxf7,g5f7,r1b1k2r/pp2bNp1/5n1p/4Q3/8/8/PPPP1PqP/RNB1KR2 b Qkq - 0 11,"My King would normally be called ""exposed"", but because White's Q-side pieces are undeveloped, he cannot exploit this."
+22,Kxf7,e8f7,r1b4r/pp2bkp1/5n1p/4Q3/8/8/PPPP1PqP/RNB1KR2 w Q - 0 12,"My King would normally be called ""exposed"", but because White's Q-side pieces are undeveloped, he cannot exploit this."
+23,f3,f2f3,r1b4r/pp2bkp1/5n1p/4Q3/8/5P2/PPPP2qP/RNB1KR2 b Q - 0 12,Threatening QxR mate.
+24,Bh3,c8h3,r6r/pp2bkp1/5n1p/4Q3/8/5P1b/PPPP2qP/RNB1KR2 w Q - 1 13,Threatening QxR mate.
+25,Qe2,e5e2,r6r/pp2bkp1/5n1p/8/8/5P1b/PPPPQ1qP/RNB1KR2 b Q - 2 13,Forced. But now he loses the Exchange after the Queens vanish from the board.
+26,Qxe2+,g2e2,r6r/pp2bkp1/5n1p/8/8/5P1b/PPPPq2P/RNB1KR2 w Q - 0 14,"I have a Rook for two Pawns, my opponent has no developed pieces, and my King is more centralized in the endgame that has arisen. White's best move here is ""resigns""."
+27,Kxe2,e1e2,r6r/pp2bkp1/5n1p/8/8/5P1b/PPPPK2P/RNB2R2 b - - 0 14,"I have a Rook for two Pawns, my opponent has no developed pieces, and my King is more centralized in the endgame that has arisen. White's best move here is ""resigns""."
+28,Bxf1+,h3f1,r6r/pp2bkp1/5n1p/8/8/5P2/PPPPK2P/RNB2b2 w - - 0 15,"I have a Rook for two Pawns, my opponent has no developed pieces, and my King is more centralized in the endgame that has arisen. White's best move here is ""resigns""."
+29,Kxf1,e2f1,r6r/pp2bkp1/5n1p/8/8/5P2/PPPP3P/RNB2K2 b - - 0 15,"I have a Rook for two Pawns, my opponent has no developed pieces, and my King is more centralized in the endgame that has arisen. White's best move here is ""resigns""."
+30,Rac8,a8c8,2r4r/pp2bkp1/5n1p/8/8/5P2/PPPP3P/RNB2K2 w - - 1 16,"Since he wants to play it out, I will simplify and simplify again. The more wood comes off the board, the bigger my material advantage looms."
+31,c3,c2c3,2r4r/pp2bkp1/5n1p/8/8/2P2P2/PP1P3P/RNB2K2 b - - 0 16,"Since he wants to play it out, I will simplify and simplify again. The more wood comes off the board, the bigger my material advantage looms."
+32,Nd5,f6d5,2r4r/pp2bkp1/7p/3n4/8/2P2P2/PP1P3P/RNB2K2 w - - 1 17,"Since he wants to play it out, I will simplify and simplify again. The more wood comes off the board, the bigger my material advantage looms."
+33,d3,d2d3,2r4r/pp2bkp1/7p/3n4/8/2PP1P2/PP5P/RNB2K2 b - - 0 17,The Bishops go first.
+34,Bg5,e7g5,2r4r/pp3kp1/7p/3n2b1/8/2PP1P2/PP5P/RNB2K2 w - - 1 18,The Bishops go first.
+35,Bxg5,c1g5,2r4r/pp3kp1/7p/3n2B1/8/2PP1P2/PP5P/RN3K2 b - - 0 18,Now I'd like to remove the Knights.
+36,hxg5,h6g5,2r4r/pp3kp1/8/3n2p1/8/2PP1P2/PP5P/RN3K2 w - - 0 19,Now I'd like to remove the Knights.
+37,Nd2,b1d2,2r4r/pp3kp1/8/3n2p1/8/2PP1P2/PP1N3P/R4K2 b - - 1 19,Grabbing a loose Pawn is always good. Now a potential back-rank mate is forming up. His King is trapped on the first row.
+38,Rxh2,h8h2,2r5/pp3kp1/8/3n2p1/8/2PP1P2/PP1N3r/R4K2 w - - 0 20,Grabbing a loose Pawn is always good. Now a potential back-rank mate is forming up. His King is trapped on the first row.
+39,Ke1,f1e1,2r5/pp3kp1/8/3n2p1/8/2PP1P2/PP1N3r/R3K3 b - - 1 20,"If 21 K-Q1, 21...R-K7 doubles the Rooks on the 7th rank. Victory would be short and swift from there."
+40,Re8+,c8e8,4r3/pp3kp1/8/3n2p1/8/2PP1P2/PP1N3r/R3K3 w - - 2 21,"If 21 K-Q1, 21...R-K7 doubles the Rooks on the 7th rank. Victory would be short and swift from there."
+41,Ne4,d2e4,4r3/pp3kp1/8/3n2p1/4N3/2PP1P2/PP5r/R3K3 b - - 3 21,This self-pin enables me to vaporize the Knights.
+42,Nf6,d5f6,4r3/pp3kp1/5n2/6p1/4N3/2PP1P2/PP5r/R3K3 w - - 4 22,"Mission accomplished. Now I just have to find a way to get the back-rank mate, since my opponent refuses to resign."
+43,b4,b2b4,4r3/pp3kp1/5n2/6p1/1P2N3/2PP1P2/P6r/R3K3 b - - 0 22,"Mission accomplished. Now I just have to find a way to get the back-rank mate, since my opponent refuses to resign."
+44,Nxe4,f6e4,4r3/pp3kp1/8/6p1/1P2n3/2PP1P2/P6r/R3K3 w - - 0 23,"Mission accomplished. Now I just have to find a way to get the back-rank mate, since my opponent refuses to resign."
+45,dxe4,d3e4,4r3/pp3kp1/8/6p1/1P2P3/2P2P2/P6r/R3K3 b - - 0 23,Clearing the KR file for my Rook on K1. Intended is R-R1 and R-R8 mate.
+46,Rc2,h2c2,4r3/pp3kp1/8/6p1/1P2P3/2P2P2/P1r5/R3K3 w - - 1 24,Clearing the KR file for my Rook on K1. Intended is R-R1 and R-R8 mate.

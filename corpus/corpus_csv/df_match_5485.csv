@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Mieses tries to get the amateur out of ""book"" immediately."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Mieses tries to get the amateur out of ""book"" immediately."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"Mieses tries to get the amateur out of ""book"" immediately."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Already lining up against he K-side.
+5,Bc4,f1c4,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,Already lining up against he K-side.
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4,Expecting 4 NxN P-Q4 winning back the piece. But...
+7,Qh5,d1h5,rnbqkb1r/pppp1ppp/8/4p2Q/2B1n3/2N5/PPPP1PPP/R1B1K1NR b KQkq - 1 4,"Mieses wastes no time, already threatening 5 QxP mate!"
+8,Nd6,e4d6,rnbqkb1r/pppp1ppp/3n4/4p2Q/2B5/2N5/PPPP1PPP/R1B1K1NR w KQkq - 2 5,To guard the weak spot at KB2.
+9,Bb3,c4b3,rnbqkb1r/pppp1ppp/3n4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR b KQkq - 3 5,Keeping the B on the attacking diagonal.
+10,Be7,f8e7,rnbqk2r/ppppbppp/3n4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR w KQkq - 4 6,Preparing to castle.
+11,d3,d2d3,rnbqk2r/ppppbppp/3n4/4p2Q/8/1BNP4/PPP2PPP/R1B1K1NR b KQkq - 0 6,Clearing the way for his QB to join the attack.
+12,O-O,e8g8,rnbq1rk1/ppppbppp/3n4/4p2Q/8/1BNP4/PPP2PPP/R1B1K1NR w KQ - 1 7,This move should first be prefaced with ...N-QB3 and ...P-KN3.
+13,Nf3,g1f3,rnbq1rk1/ppppbppp/3n4/4p2Q/8/1BNP1N2/PPP2PPP/R1B1K2R b KQ - 2 7,Looking to add to the pressure with N-KN5.
+14,Nc6,b8c6,r1bq1rk1/ppppbppp/2nn4/4p2Q/8/1BNP1N2/PPP2PPP/R1B1K2R w KQ - 3 8,"Seeing the threat to the KP, but unable to prevent Mieses' next move."
+15,Ng5,f3g5,r1bq1rk1/ppppbppp/2nn4/4p1NQ/8/1BNP4/PPP2PPP/R1B1K2R b KQ - 4 8,8... BxN would now fall to 9 BxB Q-K1 10 N-Q5! with too many threats for Black to defend.
+16,h6,h7h6,r1bq1rk1/ppppbpp1/2nn3p/4p1NQ/8/1BNP4/PPP2PPP/R1B1K2R w KQ - 0 9,Trying to drive the Knight a different way.
+17,h4,h2h4,r1bq1rk1/ppppbpp1/2nn3p/4p1NQ/7P/1BNP4/PPP2PP1/R1B1K2R b KQ - 0 9,9... PxN??? is now impossible [10 PxP Any 11 Q-R8 mate!]
+18,Ne8,d6e8,r1bqnrk1/ppppbpp1/2n4p/4p1NQ/7P/1BNP4/PPP2PP1/R1B1K2R w KQ - 1 10,Hoping to drive the Queen with his next move.
+19,Nd5,c3d5,r1bqnrk1/ppppbpp1/2n4p/3Np1NQ/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 2 10,Adding more force to the attack.
+20,Nf6,e8f6,r1bq1rk1/ppppbpp1/2n2n1p/3Np1NQ/7P/1B1P4/PPP2PP1/R1B1K2R w KQ - 3 11,Seems to guard everything and appears to drive the Queen. However...
+21,Qg6,h5g6,r1bq1rk1/ppppbpp1/2n2nQp/3Np1N1/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 4 11,"...here is the thunderbolt from heaven! Black resigns in the face of the following variations:
+
+If he plays an indifferent move, White has 12 NxN ch BxN 13 Q-R7 mate.
+
+11... PxN falls to 12 NxN ch BxN 13 PxP R-K1 14 QxBP mate.
+
+11.. PxQ falls to 12 NxB dbl ch K-R1 13 NxP mate.
+
+A spectacular attacking game by Mieses!"

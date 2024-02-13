@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+6,Nd7,b8d7,r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+7,Bc4,f1c4,r1bqkbnr/pppn1ppp/3p4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 4,This time Pawnbandit chooses the strongest line against the Hanham Phillidor.
+8,c6,c7c6,r1bqkbnr/pp1n1ppp/2pp4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,Necessary.
+9,Ng5,f3g5,r1bqkbnr/pp1n1ppp/2pp4/4p1N1/2BPP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,Necessary.
+10,Nh6,g8h6,r1bqkb1r/pp1n1ppp/2pp3n/4p1N1/2BPP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,Necessary.
+11,Qh5,d1h5,r1bqkb1r/pp1n1ppp/2pp3n/4p1NQ/2BPP3/8/PPP2PPP/RNB1K2R b KQkq - 3 6,"!? Stronger was 0-0, leading to lines favoring White."
+12,Qe7,d8e7,r1b1kb1r/pp1nqppp/2pp3n/4p1NQ/2BPP3/8/PPP2PPP/RNB1K2R w KQkq - 4 7,The best reply.
+13,Be3,c1e3,r1b1kb1r/pp1nqppp/2pp3n/4p1NQ/2BPP3/4B3/PPP2PPP/RN2K2R b KQkq - 5 7,Now is the time to exchange the pawn.
+14,exd4,e5d4,r1b1kb1r/pp1nqppp/2pp3n/6NQ/2BpP3/4B3/PPP2PPP/RN2K2R w KQkq - 0 8,Now is the time to exchange the pawn.
+15,Bxd4,e3d4,r1b1kb1r/pp1nqppp/2pp3n/6NQ/2BBP3/8/PPP2PPP/RN2K2R b KQkq - 0 8,"White still hopes for a brute force attack, but Black has defensive resources."
+16,Ne5,d7e5,r1b1kb1r/pp2qppp/2pp3n/4n1NQ/2BBP3/8/PPP2PPP/RN2K2R w KQkq - 1 9,"White still hopes for a brute force attack, but Black has defensive resources."
+17,Bxe5,d4e5,r1b1kb1r/pp2qppp/2pp3n/4B1NQ/2B1P3/8/PPP2PPP/RN2K2R b KQkq - 0 9,"White still hopes for a brute force attack, but Black has defensive resources."
+18,dxe5,d6e5,r1b1kb1r/pp2qppp/2p4n/4p1NQ/2B1P3/8/PPP2PPP/RN2K2R w KQkq - 0 10,"White still hopes for a brute force attack, but Black has defensive resources."
+19,Nc3,b1c3,r1b1kb1r/pp2qppp/2p4n/4p1NQ/2B1P3/2N5/PPP2PPP/R3K2R b KQkq - 1 10,"White still hopes for a brute force attack, but Black has defensive resources."
+20,g6,g7g6,r1b1kb1r/pp2qp1p/2p3pn/4p1NQ/2B1P3/2N5/PPP2PPP/R3K2R w KQkq - 0 11,Black wants to exchange off the bishop.
+21,Qh4,h5h4,r1b1kb1r/pp2qp1p/2p3pn/4p1N1/2B1P2Q/2N5/PPP2PPP/R3K2R b KQkq - 1 11,Black wants to exchange off the bishop.
+22,f6,f7f6,r1b1kb1r/pp2q2p/2p2ppn/4p1N1/2B1P2Q/2N5/PPP2PPP/R3K2R w KQkq - 0 12,Black wants to exchange off the bishop.
+23,Nf3,g5f3,r1b1kb1r/pp2q2p/2p2ppn/4p3/2B1P2Q/2N2N2/PPP2PPP/R3K2R b KQkq - 1 12,Black wants to exchange off the bishop.
+24,Be6,c8e6,r3kb1r/pp2q2p/2p1bppn/4p3/2B1P2Q/2N2N2/PPP2PPP/R3K2R w KQkq - 2 13,Black wants to exchange off the bishop.
+25,Bxe6,c4e6,r3kb1r/pp2q2p/2p1Bppn/4p3/4P2Q/2N2N2/PPP2PPP/R3K2R b KQkq - 0 13,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+26,Qxe6,e7e6,r3kb1r/pp5p/2p1qppn/4p3/4P2Q/2N2N2/PPP2PPP/R3K2R w KQkq - 0 14,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+27,O-O-O,e1c1,r3kb1r/pp5p/2p1qppn/4p3/4P2Q/2N2N2/PPP2PPP/2KR3R b kq - 1 14,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+28,Nf7,h6f7,r3kb1r/pp3n1p/2p1qpp1/4p3/4P2Q/2N2N2/PPP2PPP/2KR3R w kq - 2 15,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+29,Rd3,d1d3,r3kb1r/pp3n1p/2p1qpp1/4p3/4P2Q/2NR1N2/PPP2PPP/2K4R b kq - 3 15,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+30,Bd6,f8d6,r3k2r/pp3n1p/2pbqpp1/4p3/4P2Q/2NR1N2/PPP2PPP/2K4R w kq - 4 16,"At this point, Black decides it is safer to 0-0-0 and block the pressure on the d file."
+31,Rhd1,h1d1,r3k2r/pp3n1p/2pbqpp1/4p3/4P2Q/2NR1N2/PPP2PPP/2KR4 b kq - 5 16,Now is the time to advance the pawns with threat on the Queen.
+32,O-O-O,e8c8,2kr3r/pp3n1p/2pbqpp1/4p3/4P2Q/2NR1N2/PPP2PPP/2KR4 w - - 6 17,Now is the time to advance the pawns with threat on the Queen.
+33,Nd2,f3d2,2kr3r/pp3n1p/2pbqpp1/4p3/4P2Q/2NR4/PPPN1PPP/2KR4 b - - 7 17,Now is the time to advance the pawns with threat on the Queen.
+34,Be7,d6e7,2kr3r/pp2bn1p/2p1qpp1/4p3/4P2Q/2NR4/PPPN1PPP/2KR4 w - - 8 18,Now is the time to advance the pawns with threat on the Queen.
+35,Nb3,d2b3,2kr3r/pp2bn1p/2p1qpp1/4p3/4P2Q/1NNR4/PPP2PPP/2KR4 b - - 9 18,Now is the time to advance the pawns with threat on the Queen.
+36,f5,f6f5,2kr3r/pp2bn1p/2p1q1p1/4pp2/4P2Q/1NNR4/PPP2PPP/2KR4 w - - 0 19,Now is the time to advance the pawns with threat on the Queen.
+37,Qg3,h4g3,2kr3r/pp2bn1p/2p1q1p1/4pp2/4P3/1NNR2Q1/PPP2PPP/2KR4 b - - 1 19,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+38,f4,f5f4,2kr3r/pp2bn1p/2p1q1p1/4p3/4Pp2/1NNR2Q1/PPP2PPP/2KR4 w - - 0 20,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+39,Qf3,g3f3,2kr3r/pp2bn1p/2p1q1p1/4p3/4Pp2/1NNR1Q2/PPP2PPP/2KR4 b - - 1 20,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+40,g5,g6g5,2kr3r/pp2bn1p/2p1q3/4p1p1/4Pp2/1NNR1Q2/PPP2PPP/2KR4 w - - 0 21,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+41,Na4,c3a4,2kr3r/pp2bn1p/2p1q3/4p1p1/N3Pp2/1N1R1Q2/PPP2PPP/2KR4 b - - 1 21,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+42,b6,b7b6,2kr3r/p3bn1p/1pp1q3/4p1p1/N3Pp2/1N1R1Q2/PPP2PPP/2KR4 w - - 0 22,"Since the light square bishop has been traded off, Black is more concerned with preventing the Ns from mounting a strong attack."
+43,Qe2,f3e2,2kr3r/p3bn1p/1pp1q3/4p1p1/N3Pp2/1N1R4/PPP1QPPP/2KR4 b - - 1 22,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+44,Kb7,c8b7,3r3r/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N1R4/PPP1QPPP/2KR4 w - - 2 23,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+45,Qd2,e2d2,3r3r/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N1R4/PPPQ1PPP/2KR4 b - - 3 23,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+46,Rxd3,d8d3,7r/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N1r4/PPPQ1PPP/2KR4 w - - 0 24,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+47,Qxd3,d2d3,7r/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N1Q4/PPP2PPP/2KR4 b - - 0 24,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+48,Rd8,h8d8,3r4/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N1Q4/PPP2PPP/2KR4 w - - 1 25,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+49,Qe2,d3e2,3r4/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N6/PPP1QPPP/2KR4 b - - 2 25,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+50,Rxd1+,d8d1,8/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N6/PPP1QPPP/2Kr4 w - - 0 26,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+51,Qxd1,e2d1,8/pk2bn1p/1pp1q3/4p1p1/N3Pp2/1N6/PPP2PPP/2KQ4 b - - 0 26,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+52,g4,g5g4,8/pk2bn1p/1pp1q3/4p3/N3Ppp1/1N6/PPP2PPP/2KQ4 w - - 0 27,"After the exchanges, Black wants to continue the expansion on the side opposite the Kings."
+53,Qd3,d1d3,8/pk2bn1p/1pp1q3/4p3/N3Ppp1/1N1Q4/PPP2PPP/2K5 b - - 1 27,This plan is flawed because Black can advance the pawn and impede the attack.
+54,h5,h7h5,8/pk2bn2/1pp1q3/4p2p/N3Ppp1/1N1Q4/PPP2PPP/2K5 w - - 0 28,This plan is flawed because Black can advance the pawn and impede the attack.
+55,c4,c2c4,8/pk2bn2/1pp1q3/4p2p/N1P1Ppp1/1N1Q4/PP3PPP/2K5 b - - 0 28,This plan is flawed because Black can advance the pawn and impede the attack.
+56,Ng5,f7g5,8/pk2b3/1pp1q3/4p1np/N1P1Ppp1/1N1Q4/PP3PPP/2K5 w - - 1 29,This plan is flawed because Black can advance the pawn and impede the attack.
+57,c5,c4c5,8/pk2b3/1pp1q3/2P1p1np/N3Ppp1/1N1Q4/PP3PPP/2K5 b - - 0 29,This plan is flawed because Black can advance the pawn and impede the attack.
+58,b5,b6b5,8/pk2b3/2p1q3/1pP1p1np/N3Ppp1/1N1Q4/PP3PPP/2K5 w - - 0 30,Pawnbandit rightly did not want to sit back and play defensively. I was not expecting the move and had not properly prepared to counter it.
+59,Nc3,a4c3,8/pk2b3/2p1q3/1pP1p1np/4Ppp1/1NNQ4/PP3PPP/2K5 b - - 1 30,Pawnbandit rightly did not want to sit back and play defensively. I was not expecting the move and had not properly prepared to counter it.
+60,h4,h5h4,8/pk2b3/2p1q3/1pP1p1n1/4Pppp/1NNQ4/PP3PPP/2K5 w - - 0 31,Pawnbandit rightly did not want to sit back and play defensively. I was not expecting the move and had not properly prepared to counter it.
+61,Nxb5,c3b5,8/pk2b3/2p1q3/1NP1p1n1/4Pppp/1N1Q4/PP3PPP/2K5 b - - 0 31,Pawnbandit rightly did not want to sit back and play defensively. I was not expecting the move and had not properly prepared to counter it.
+62,cxb5,c6b5,8/pk2b3/4q3/1pP1p1n1/4Pppp/1N1Q4/PP3PPP/2K5 w - - 0 32,Better was Qd6.
+63,Qxb5+,d3b5,8/pk2b3/4q3/1QP1p1n1/4Pppp/1N6/PP3PPP/2K5 b - - 0 32,Better was Qd6.
+64,Kc8,b7c8,2k5/p3b3/4q3/1QP1p1n1/4Pppp/1N6/PP3PPP/2K5 w - - 1 33,Better was Qd6.
+65,c6,c5c6,2k5/p3b3/2P1q3/1Q2p1n1/4Pppp/1N6/PP3PPP/2K5 b - - 0 33,Better was Qd6.
+66,Bd6,e7d6,2k5/p7/2Pbq3/1Q2p1n1/4Pppp/1N6/PP3PPP/2K5 w - - 1 34,Better was Qd6.
+67,Kd2,c1d2,2k5/p7/2Pbq3/1Q2p1n1/4Pppp/1N6/PP1K1PPP/8 b - - 2 34,"The critical position. White should have played Qa6+, Kd8 (otherwise mate) QxP. This error gives Black time to consolidate. Today, Pawnbandit would have been all over Black instead."
+68,Qe7,e6e7,2k5/p3q3/2Pb4/1Q2p1n1/4Pppp/1N6/PP1K1PPP/8 w - - 3 35,Now Black can neutralize the attack.
+69,Qa6+,b5a6,2k5/p3q3/Q1Pb4/4p1n1/4Pppp/1N6/PP1K1PPP/8 b - - 4 35,Now Black can neutralize the attack.
+70,Kd8,c8d8,3k4/p3q3/Q1Pb4/4p1n1/4Pppp/1N6/PP1K1PPP/8 w - - 5 36,Now Black can neutralize the attack.
+71,a3,a2a3,3k4/p3q3/Q1Pb4/4p1n1/4Pppp/PN6/1P1K1PPP/8 b - - 0 36,Now Black can neutralize the attack.
+72,Nxe4+,g5e4,3k4/p3q3/Q1Pb4/4p3/4nppp/PN6/1P1K1PPP/8 w - - 0 37,Now Black can neutralize the attack.
+73,Ke1,d2e1,3k4/p3q3/Q1Pb4/4p3/4nppp/PN6/1P3PPP/4K3 b - - 1 37,Now Black can neutralize the attack.
+74,Nc5,e4c5,3k4/p3q3/Q1Pb4/2n1p3/5ppp/PN6/1P3PPP/4K3 w - - 2 38,Now Black can neutralize the attack.
+75,Qa5+,a6a5,3k4/p3q3/2Pb4/Q1n1p3/5ppp/PN6/1P3PPP/4K3 b - - 3 38,"White has nothing to show for the piece, and resigns."
+76,Qc7,e7c7,3k4/p1q5/2Pb4/Q1n1p3/5ppp/PN6/1P3PPP/4K3 w - - 4 39,"White has nothing to show for the piece, and resigns."

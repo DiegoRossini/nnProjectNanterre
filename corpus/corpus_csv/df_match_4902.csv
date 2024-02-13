@@ -1,0 +1,84 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,last book move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,last book move
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,last book move
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/3P1N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,last book move
+5,g3,g2g3,r1bqkbnr/pppp1ppp/2n5/4p3/8/3P1NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,last book move
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/8/3P1NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4,Alternative variation: 3... d5 4. Bg2 $15
+7,Bg2,f1g2,r1bqk1nr/pppp1ppp/2n5/2b1p3/8/3P1NP1/PPP1PPBP/RNBQK2R b KQkq - 2 4,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/8/3P1NP1/PPP1PPBP/RNBQK2R w KQkq - 3 5,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+9,O-O,e1g1,r1bqk2r/pppp1ppp/2n2n2/2b1p3/8/3P1NP1/PPP1PPBP/RNBQ1RK1 b kq - 4 5,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/8/3P1NP1/PPP1PPBP/RNBQ1RK1 w - - 5 6,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+11,Nc3,b1c3,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/8/2NP1NP1/PPP1PPBP/R1BQ1RK1 b - - 6 6,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+12,Be7,c5e7,r1bq1rk1/ppppbppp/2n2n2/4p3/8/2NP1NP1/PPP1PPBP/R1BQ1RK1 w - - 7 7,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+13,e3,e2e3,r1bq1rk1/ppppbppp/2n2n2/4p3/8/2NPPNP1/PPP2PBP/R1BQ1RK1 b - - 0 7,"Consolidates d4
+Alternative variation: 7. e4 d6 $14"
+14,d6,d7d6,r1bq1rk1/ppp1bppp/2np1n2/4p3/8/2NPPNP1/PPP2PBP/R1BQ1RK1 w - - 0 8,Alternative variation: 7... d5 8. Re1 $15
+15,Re1,f1e1,r1bq1rk1/ppp1bppp/2np1n2/4p3/8/2NPPNP1/PPP2PBP/R1BQR1K1 b - - 1 8,White threatens to win material: h3xg4
+16,Bg4,c8g4,r2q1rk1/ppp1bppp/2np1n2/4p3/6b1/2NPPNP1/PPP2PBP/R1BQR1K1 w - - 2 9,White threatens to win material: h3xg4
+17,h3,h2h3,r2q1rk1/ppp1bppp/2np1n2/4p3/6b1/2NPPNPP/PPP2PB1/R1BQR1K1 b - - 0 9,White threatens to win material: h3xg4
+18,Bh5,g4h5,r2q1rk1/ppp1bppp/2np1n2/4p2b/8/2NPPNPP/PPP2PB1/R1BQR1K1 w - - 1 10,"Secures b4
+Alternative variation: 10. g4 Bg6 $14"
+19,a3,a2a3,r2q1rk1/ppp1bppp/2np1n2/4p2b/8/P1NPPNPP/1PP2PB1/R1BQR1K1 b - - 0 10,"Secures b4
+Alternative variation: 10. g4 Bg6 $14"
+20,Nd7,f6d7,r2q1rk1/pppnbppp/2np4/4p2b/8/P1NPPNPP/1PP2PB1/R1BQR1K1 w - - 1 11,"Controls b4+d4
+Alternative variation: 12. Qd2 $11"
+21,Nd5,c3d5,r2q1rk1/pppnbppp/2np4/3Np2b/8/P2PPNPP/1PP2PB1/R1BQR1K1 b - - 2 11,"Controls b4+d4
+Alternative variation: 12. Qd2 $11"
+22,f5,f7f5,r2q1rk1/pppnb1pp/2np4/3Npp1b/8/P2PPNPP/1PP2PB1/R1BQR1K1 w - - 0 12,"Controls b4+d4
+Alternative variation: 12. Qd2 $11"
+23,c3,c2c3,r2q1rk1/pppnb1pp/2np4/3Npp1b/8/P1PPPNPP/1P3PB1/R1BQR1K1 b - - 0 12,"Controls b4+d4
+Alternative variation: 12. Qd2 $11"
+24,f4,f5f4,r2q1rk1/pppnb1pp/2np4/3Np2b/5p2/P1PPPNPP/1P3PB1/R1BQR1K1 w - - 0 13,"throwing away the advantage
+Alternative variation: 12... e4 13. Qb3 Na5 14. Nxe7+ Kh8 $17"
+25,exf4,e3f4,r2q1rk1/pppnb1pp/2np4/3Np2b/5P2/P1PP1NPP/1P3PB1/R1BQR1K1 b - - 0 13,Alternative variation: 13... Nb6 14. Nxe7+ Qxe7 15. d4 $18
+26,exf4,e5f4,r2q1rk1/pppnb1pp/2np4/3N3b/5p2/P1PP1NPP/1P3PB1/R1BQR1K1 w - - 0 14,Alternative variation: 13... Nb6 14. Nxe7+ Qxe7 15. d4 $18
+27,Nxf4,d5f4,r2q1rk1/pppnb1pp/2np4/7b/5N2/P1PP1NPP/1P3PB1/R1BQR1K1 b - - 0 14,Alternative variation: 14. Bxf4 [might be the shorter path] Nf6 15. Nxe7+ Nxe7 16. Qb3+ Bf7 17. Qxb7 $18
+28,Bg6,h5g6,r2q1rk1/pppnb1pp/2np2b1/8/5N2/P1PP1NPP/1P3PB1/R1BQR1K1 w - - 1 15,Alternative variation: 14... Bf7 $18
+29,Ne6,f4e6,r2q1rk1/pppnb1pp/2npN1b1/8/8/P1PP1NPP/1P3PB1/R1BQR1K1 b - - 2 15,Alternative variation: 16... Bxf8 [ doesn't do any good] 17. Ng5 h6 18. Bd5+ Kh8 19. Nf3 $18
+30,Qc8,d8c8,r1q2rk1/pppnb1pp/2npN1b1/8/8/P1PP1NPP/1P3PB1/R1BQR1K1 w - - 3 16,Alternative variation: 16... Bxf8 [ doesn't do any good] 17. Ng5 h6 18. Bd5+ Kh8 19. Nf3 $18
+31,Nxf8,e6f8,r1q2Nk1/pppnb1pp/2np2b1/8/8/P1PP1NPP/1P3PB1/R1BQR1K1 b - - 0 16,Alternative variation: 16... Bxf8 [ doesn't do any good] 17. Ng5 h6 18. Bd5+ Kh8 19. Nf3 $18
+32,Qxf8,c8f8,r4qk1/pppnb1pp/2np2b1/8/8/P1PP1NPP/1P3PB1/R1BQR1K1 w - - 0 17,Alternative variation: 16... Bxf8 [ doesn't do any good] 17. Ng5 h6 18. Bd5+ Kh8 19. Nf3 $18
+33,Qb3+,d1b3,r4qk1/pppnb1pp/2np2b1/8/8/PQPP1NPP/1P3PB1/R1B1R1K1 b - - 1 17,Alternative variation: 17... Bf7 [does not win a prize] 18. Qxb7 Bd5 19. Ne5 Bxg2 20. Qb3+ (20. Kxg2 Ndxe5 (20... Ncxe5 $2 21. f4 $18) 21. f4 Rb8 $16 (21... Nxd3 $2 [doesn't lead to anything significant] 22. Rd1 Nxb2 23. Qb3+ Qf7 24. Qxf7+ Kxf7 25. Bxb2 $18) ) (20. Nxc6 [is not possible] Bxc6 21. Qxc6 Rd8 $18) (20. Nxd7 [is no comparison] Qc8 21. Qxc8+ Rxc8 22. Kxg2 Rd8 $18) 20... Kh8 21. Nf7+ (21. Kxg2 $6 [is easily refuted] Ncxe5 22. Qd1 Qf7 $14) (21. Nxd7 [succumbs to] Qf3 22. Re3 Qd5 $18) 21... Kg8 22. Nxd6+ (22. Kxg2 $6 [is a bad alternative] Qxf7 23. Qxf7+ Kxf7 $14) 22... Kh8 23. Nf7+ Kg8 24. Ng5+ (24. Kxg2 $6 [is impossible] Qxf7 25. Qxf7+ Kxf7 $18) 24... Kh8 25. Kxg2 $18
+34,Kh8,g8h8,r4q1k/pppnb1pp/2np2b1/8/8/PQPP1NPP/1P3PB1/R1B1R1K1 w - - 2 18,Alternative variation: 17... Bf7 [does not win a prize] 18. Qxb7 Bd5 19. Ne5 Bxg2 20. Qb3+ (20. Kxg2 Ndxe5 (20... Ncxe5 $2 21. f4 $18) 21. f4 Rb8 $16 (21... Nxd3 $2 [doesn't lead to anything significant] 22. Rd1 Nxb2 23. Qb3+ Qf7 24. Qxf7+ Kxf7 25. Bxb2 $18) ) (20. Nxc6 [is not possible] Bxc6 21. Qxc6 Rd8 $18) (20. Nxd7 [is no comparison] Qc8 21. Qxc8+ Rxc8 22. Kxg2 Rd8 $18) 20... Kh8 21. Nf7+ (21. Kxg2 $6 [is easily refuted] Ncxe5 22. Qd1 Qf7 $14) (21. Nxd7 [succumbs to] Qf3 22. Re3 Qd5 $18) 21... Kg8 22. Nxd6+ (22. Kxg2 $6 [is a bad alternative] Qxf7 23. Qxf7+ Kxf7 $14) 22... Kh8 23. Nf7+ Kg8 24. Ng5+ (24. Kxg2 $6 [is impossible] Qxf7 25. Qxf7+ Kxf7 $18) 24... Kh8 25. Kxg2 $18
+35,Qxb7,b3b7,r4q1k/pQpnb1pp/2np2b1/8/8/P1PP1NPP/1P3PB1/R1B1R1K1 b - - 0 18,Alternative variation: 18... Na5 [a last effort to resist the inevitable] 19. Qb5 Nb3 20. Qxb3 Nc5 $18
+36,Nce5,c6e5,r4q1k/pQpnb1pp/3p2b1/4n3/8/P1PP1NPP/1P3PB1/R1B1R1K1 w - - 1 19,Alternative variation: 18... Na5 [a last effort to resist the inevitable] 19. Qb5 Nb3 20. Qxb3 Nc5 $18
+37,Nxe5,f3e5,r4q1k/pQpnb1pp/3p2b1/4N3/8/P1PP2PP/1P3PB1/R1B1R1K1 b - - 0 19,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+38,Nxe5,d7e5,r4q1k/pQp1b1pp/3p2b1/4n3/8/P1PP2PP/1P3PB1/R1B1R1K1 w - - 0 20,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+39,Qxa8,b7a8,Q4q1k/p1p1b1pp/3p2b1/4n3/8/P1PP2PP/1P3PB1/R1B1R1K1 b - - 0 20,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+40,Qxa8,f8a8,q6k/p1p1b1pp/3p2b1/4n3/8/P1PP2PP/1P3PB1/R1B1R1K1 w - - 0 21,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+41,Bxa8,g2a8,B6k/p1p1b1pp/3p2b1/4n3/8/P1PP2PP/1P3P2/R1B1R1K1 b - - 0 21,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+42,Bxd3,g6d3,B6k/p1p1b1pp/3p4/4n3/8/P1Pb2PP/1P3P2/R1B1R1K1 w - - 0 22,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+43,f4,f2f4,B6k/p1p1b1pp/3p4/4n3/5P2/P1Pb2PP/1P6/R1B1R1K1 b - - 0 22,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+44,Ng6,e5g6,B6k/p1p1b1pp/3p2n1/8/5P2/P1Pb2PP/1P6/R1B1R1K1 w - - 1 23,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+45,Be4,a8e4,7k/p1p1b1pp/3p2n1/8/4BP2/P1Pb2PP/1P6/R1B1R1K1 b - - 2 23,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+46,Bxe4,d3e4,7k/p1p1b1pp/3p2n1/8/4bP2/P1P3PP/1P6/R1B1R1K1 w - - 0 24,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+47,Rxe4,e1e4,7k/p1p1b1pp/3p2n1/8/4RP2/P1P3PP/1P6/R1B3K1 b - - 0 24,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+48,h5,h7h5,7k/p1p1b1p1/3p2n1/7p/4RP2/P1P3PP/1P6/R1B3K1 w - - 0 25,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+49,h4,h3h4,7k/p1p1b1p1/3p2n1/7p/4RP1P/P1P3P1/1P6/R1B3K1 b - - 0 25,Alternative variation: 25. Be3 [makes it even easier for White] Kh7 $18
+50,Bf6,e7f6,7k/p1p3p1/3p1bn1/7p/4RP1P/P1P3P1/1P6/R1B3K1 w - - 1 26,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+51,Ra4,e4a4,7k/p1p3p1/3p1bn1/7p/R4P1P/P1P3P1/1P6/R1B3K1 b - - 2 26,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+52,Ne7,g6e7,7k/p1p1n1p1/3p1b2/7p/R4P1P/P1P3P1/1P6/R1B3K1 w - - 3 27,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+53,Rxa7,a4a7,7k/R1p1n1p1/3p1b2/7p/5P1P/P1P3P1/1P6/R1B3K1 b - - 0 27,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+54,Nf5,e7f5,7k/R1p3p1/3p1b2/5n1p/5P1P/P1P3P1/1P6/R1B3K1 w - - 1 28,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+55,Kg2,g1g2,7k/R1p3p1/3p1b2/5n1p/5P1P/P1P3P1/1P4K1/R1B5 b - - 2 28,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+56,c5,c7c5,7k/R5p1/3p1b2/2p2n1p/5P1P/P1P3P1/1P4K1/R1B5 w - - 0 29,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+57,a4,a3a4,7k/R5p1/3p1b2/2p2n1p/P4P1P/2P3P1/1P4K1/R1B5 b - - 0 29,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+58,Ne7,f5e7,7k/R3n1p1/3p1b2/2p4p/P4P1P/2P3P1/1P4K1/R1B5 w - - 1 30,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+59,Bd2,c1d2,7k/R3n1p1/3p1b2/2p4p/P4P1P/2P3P1/1P1B2K1/R7 b - - 2 30,Alternative variation: 30. a5 Nc6 31. Rc7 Nxa5 32. Rxa5 Kh7 33. Rd7 Bxh4 34. gxh4 Kg6 35. Raa7 Kf5 36. Rxd6 g5 37. Kf3 g4+ 38. Kg2 Ke4 39. Re7+ Kf5 40. Re5#
+60,d5,d6d5,7k/R3n1p1/5b2/2pp3p/P4P1P/2P3P1/1P1B2K1/R7 w - - 0 31,Alternative variation: 32. Ra6 Nd8 33. Re8+ Kh7 34. Rxf6 gxf6 35. Rxd8 Kg7 36. a5 Kf7 37. a6 d4 38. a7 Ke6 39. a8=Q f5 40. Qc8+ Ke7 41. Rd7+ Kf6 42. Qc6#
+61,Re1,a1e1,7k/R3n1p1/5b2/2pp3p/P4P1P/2P3P1/1P1B2K1/4R3 b - - 1 31,Alternative variation: 32. Ra6 Nd8 33. Re8+ Kh7 34. Rxf6 gxf6 35. Rxd8 Kg7 36. a5 Kf7 37. a6 d4 38. a7 Ke6 39. a8=Q f5 40. Qc8+ Ke7 41. Rd7+ Kf6 42. Qc6#
+62,Nc6,e7c6,7k/R5p1/2n2b2/2pp3p/P4P1P/2P3P1/1P1B2K1/4R3 w - - 2 32,Alternative variation: 32. Ra6 Nd8 33. Re8+ Kh7 34. Rxf6 gxf6 35. Rxd8 Kg7 36. a5 Kf7 37. a6 d4 38. a7 Ke6 39. a8=Q f5 40. Qc8+ Ke7 41. Rd7+ Kf6 42. Qc6#
+63,Re8+,e1e8,4R2k/R5p1/2n2b2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 b - - 3 32,Alternative variation: 32. Ra6 Nd8 33. Re8+ Kh7 34. Rxf6 gxf6 35. Rxd8 Kg7 36. a5 Kf7 37. a6 d4 38. a7 Ke6 39. a8=Q f5 40. Qc8+ Ke7 41. Rd7+ Kf6 42. Qc6#
+64,Kh7,h8h7,4R3/R5pk/2n2b2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 w - - 4 33,Alternative variation: 33... Kg6 34. Rxc6 Kf7 35. Rxf6+ gxf6 36. Rb8 Ke7 37. a5 Ke6 38. a6 c4 39. a7 Ke7 40. a8=Q Ke6 41. Qc6+ Kf5 42. Qe8 d4 43. Rb5+ Kg4 44. Qxh5#
+65,Ra6,a7a6,4R3/6pk/R1n2b2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 b - - 5 33,Alternative variation: 33... Kg6 34. Rxc6 Kf7 35. Rxf6+ gxf6 36. Rb8 Ke7 37. a5 Ke6 38. a6 c4 39. a7 Ke7 40. a8=Q Ke6 41. Qc6+ Kf5 42. Qe8 d4 43. Rb5+ Kg4 44. Qxh5#
+66,Ne7,c6e7,4R3/4n1pk/R4b2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 w - - 6 34,Alternative variation: 33... Kg6 34. Rxc6 Kf7 35. Rxf6+ gxf6 36. Rb8 Ke7 37. a5 Ke6 38. a6 c4 39. a7 Ke7 40. a8=Q Ke6 41. Qc6+ Kf5 42. Qe8 d4 43. Rb5+ Kg4 44. Qxh5#
+67,Rxf6,a6f6,4R3/4n1pk/5R2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 b - - 0 34,Remove defender: f6
+68,gxf6,g7f6,4R3/4n2k/5p2/2pp3p/P4P1P/2P3P1/1P1B2K1/8 w - - 0 35,"Alternative variation: 34... gxf6 35. Rxe7+ [Remove defender]
+Alternative variation: 34... -- 35. Rxe7 [Mate threat]"

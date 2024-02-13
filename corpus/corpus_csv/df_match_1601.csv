@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"1.d4, my favorite first move when playing White."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"So, we have what is called the closed game. Closed games consist of 1.d4 d5, along with lines that transpose into this type of position. Semi closed games are 1.d4 and black responds with anything other than 1...d5. Open games are 1.e4 e5, and semi open games are 1. e4 and black responds with anything else other than 1...e5."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"With this move we have the Queens Gambit (QG). Whether accepted or declined depends on you.
+
+So in the following moves you declined the pawn. If ever you play the QG Accepted, understand the reason for accepting the pawn is not to win a pawn. You can't hold it, if your opponent knows what he is doing. The purpose in accepting the pawn is to get a semi opened d-file! In the process, you also give white a semi open c-file. 
+
+So for white to take advantage of his semi open c-file, he has to move pieces, e.g.: Qc2, and later Rc1. While for black to use the d-file, the queen is automatically there. So you save tempo."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,"So in the opening you have a constant battle to control the primary center squares, being d4, d5, e4 and e5. Whether you control them with pawns (as we did with our first moves, 1.d4 d5) or you control them with pieces (as I do with my 3rd move 3...Nc3), you must battle to control these squares! Also, to a lesser degree, the same principle goes for the secondary center squares, being c3, c4, c5, c6, d3, d6, e3, e6, f3, f4, f5 and f6. Bottom line Rick, to play well in the opening, you must be a control freak. Control those squares!
+
+So my pawn on d4 controls e5 (and c5).
+My pawn on c4 controls d5 (and b5, though that's not one of the primary or secondary squares).
+My knight on c3 controls e4 and d5.
+Your pawn on d5 controls e4 (and c4).
+Your pawn on e6 controls d5 (and f5).
+
+So the battle is on for the center."
+6,b5,b7b5,rnbqkbnr/p1p2ppp/4p3/1p1p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,"3...b5(?!)
+I was trying to figure out why you gave me this pawn and I think you did it to draw my c4 pawn away from the center. If that was why or if it's another reason, please advise in the comments. I'd like to know."
+7,cxb5,c4b5,rnbqkbnr/p1p2ppp/4p3/1P1p4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,"At any rate, I saw it as a free pawn. There are some advantages that, as valuable as they may be, are not worth as much as a pawn. I would say that my pawn being drawn away from the centre is one of them.
+
+I am now a pawn up, a pawn which by the way, became a thorn in your side here and later in the game. The thorn begins with this pawn on b5 now hindering your queen-knight's development to c6. It went on later to become a passed pawn, which you needed to sacrifice a bishop to stop."
+8,Nf6,g8f6,rnbqkb1r/p1p2ppp/4pn2/1P1p4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 1 5,Good development to the center.
+9,Nf3,g1f3,rnbqkb1r/p1p2ppp/4pn2/1P1p4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 2 5,So we both start controlling the centre with our kingside knights.
+10,c5,c7c5,rnbqkb1r/p4ppp/4pn2/1Ppp4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq c6 0 6,"Attacking my center. You also allow me if I choose, to capture ""en passant"", whereby you take back with the knight, getting him developed."
+11,dxc5,d4c5,rnbqkb1r/p4ppp/4pn2/1PPp4/8/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 6,"I take with my d-pawn as I did not want to help you develop your knight. This removes my central d-pawn from the board, so I needed some sort of compensation in order for me to be willing to take. In this case, I have my b5 pawn still hindering your development. I am also up a pawn."
+12,Bxc5,f8c5,rnbqk2r/p4ppp/4pn2/1Pbp4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 7,
+13,Bf4,c1f4,rnbqk2r/p4ppp/4pn2/1Pbp4/5B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 7,
+14,Nbd7,b8d7,r1bqk2r/p2n1ppp/4pn2/1Pbp4/5B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 8,
+15,e3,e2e3,r1bqk2r/p2n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 8,
+16,O-O,e8g8,r1bq1rk1/p2n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 9,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+17,Be2,f1e2,r1bq1rk1/p2n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP2BPPP/R2QK2R b KQ - 2 9,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+18,Bb7,c8b7,r2q1rk1/pb1n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP2BPPP/R2QK2R w KQ - 3 10,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+19,O-O,e1g1,r2q1rk1/pb1n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP2BPPP/R2Q1RK1 b - - 4 10,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+20,Re8,f8e8,r2qr1k1/pb1n1ppp/4pn2/1Pbp4/5B2/2N1PN2/PP2BPPP/R2Q1RK1 w - - 5 11,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+21,Ne5,f3e5,r2qr1k1/pb1n1ppp/4pn2/1PbpN3/5B2/2N1P3/PP2BPPP/R2Q1RK1 b - - 6 11,"So you've done a good job so far at keeping control of the 4 primary center squares. Because of that and your last move, 11...e5 is a real threat. So I prevent your pawn push with 11.Ne5."
+22,Nxe5,d7e5,r2qr1k1/pb3ppp/4pn2/1Pbpn3/5B2/2N1P3/PP2BPPP/R2Q1RK1 w - - 0 12,"It's not usually in your best interest to trade when you are down material. This is because if you trade everything off equally, your opponent will still have the extra material in the end game.
+
+In this case your only down a pawn, yet against a stronger player, a pawn is definitely sufficient to win, especially if the extra pawn is in a position to promote. In our game, you had to sac a bishop to prevent the promotion, so I will have at least a bishop lead in the endgame. Then I later promoted a pawn anyway."
+23,Bxe5,f4e5,r2qr1k1/pb3ppp/4pn2/1PbpB3/8/2N1P3/PP2BPPP/R2Q1RK1 b - - 0 12,The bishop on this diagonal is crucial for reasons I will explain in a bit.
+24,Ne4,f6e4,r2qr1k1/pb3ppp/4p3/1PbpB3/4n3/2N1P3/PP2BPPP/R2Q1RK1 w - - 1 13,More trading.
+25,Nxe4,c3e4,r2qr1k1/pb3ppp/4p3/1PbpB3/4N3/4P3/PP2BPPP/R2Q1RK1 b - - 0 13,I'll oblige.
+26,dxe4,d5e4,r2qr1k1/pb3ppp/4p3/1Pb1B3/4p3/4P3/PP2BPPP/R2Q1RK1 w - - 0 14,

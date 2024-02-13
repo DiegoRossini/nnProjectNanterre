@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"Though this isn't technically a loss it's certainly a game I could have won and for that reason I have decided to annotate it.
+
+This is a mini tournament game where this is the starting position"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,wastes a tempo and seems to achieve little
+3,d3,d2d3,rnbqkbnr/ppp1pppp/8/3p4/5P2/3P4/PPP1P1PP/RNBQKBNR b KQkq - 0 2,wastes a tempo and seems to achieve little
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/5P2/3P4/PPP1P1PP/RNBQKBNR w KQkq - 1 3,wastes a tempo and seems to achieve little
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3p4/5P2/3P1N2/PPP1P1PP/RNBQKB1R b KQkq - 2 3,wastes a tempo and seems to achieve little
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/5np1/3p4/5P2/3P1N2/PPP1P1PP/RNBQKB1R w KQkq - 0 4,wastes a tempo and seems to achieve little
+7,Nc3,b1c3,rnbqkb1r/ppp1pp1p/5np1/3p4/5P2/2NP1N2/PPP1P1PP/R1BQKB1R b KQkq - 1 4,wastes a tempo and seems to achieve little
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/5P2/2NP1N2/PPP1P1PP/R1BQKB1R w KQkq - 2 5,wastes a tempo and seems to achieve little
+9,d4,d3d4,rnbqk2r/ppp1ppbp/5np1/3p4/3P1P2/2N2N2/PPP1P1PP/R1BQKB1R b KQkq - 0 5,wastes a tempo and seems to achieve little
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3p4/3P1P2/2N2N2/PPP1P1PP/R1BQKB1R w KQ - 1 6,Creates a hole at e4 which is tempting for my knight
+11,e3,e2e3,rnbq1rk1/ppp1ppbp/5np1/3p4/3P1P2/2N1PN2/PPP3PP/R1BQKB1R b KQ - 0 6,Creates a hole at e4 which is tempting for my knight
+12,Bf5,c8f5,rn1q1rk1/ppp1ppbp/5np1/3p1b2/3P1P2/2N1PN2/PPP3PP/R1BQKB1R w KQ - 1 7,This was primarily to open up whites position and to make castling difficult for him
+13,h3,h2h3,rn1q1rk1/ppp1ppbp/5np1/3p1b2/3P1P2/2N1PN1P/PPP3P1/R1BQKB1R b KQ - 0 7,This was primarily to open up whites position and to make castling difficult for him
+14,Nc6,b8c6,r2q1rk1/ppp1ppbp/2n2np1/3p1b2/3P1P2/2N1PN1P/PPP3P1/R1BQKB1R w KQ - 1 8,This was primarily to open up whites position and to make castling difficult for him
+15,a3,a2a3,r2q1rk1/ppp1ppbp/2n2np1/3p1b2/3P1P2/P1N1PN1P/1PP3P1/R1BQKB1R b KQ - 0 8,This was primarily to open up whites position and to make castling difficult for him
+16,Ne4,f6e4,r2q1rk1/ppp1ppbp/2n3p1/3p1b2/3PnP2/P1N1PN1P/1PP3P1/R1BQKB1R w KQ - 1 9,This was primarily to open up whites position and to make castling difficult for him
+17,g4,g2g4,r2q1rk1/ppp1ppbp/2n3p1/3p1b2/3PnPP1/P1N1PN1P/1PP5/R1BQKB1R b KQ - 0 9,This was primarily to open up whites position and to make castling difficult for him
+18,Nxc3,e4c3,r2q1rk1/ppp1ppbp/2n3p1/3p1b2/3P1PP1/P1n1PN1P/1PP5/R1BQKB1R w KQ - 0 10,This was primarily to open up whites position and to make castling difficult for him
+19,bxc3,b2c3,r2q1rk1/ppp1ppbp/2n3p1/3p1b2/3P1PP1/P1P1PN1P/2P5/R1BQKB1R b KQ - 0 10,Joining the rooks
+20,Be4,f5e4,r2q1rk1/ppp1ppbp/2n3p1/3p4/3PbPP1/P1P1PN1P/2P5/R1BQKB1R w KQ - 1 11,Joining the rooks
+21,Bg2,f1g2,r2q1rk1/ppp1ppbp/2n3p1/3p4/3PbPP1/P1P1PN1P/2P3B1/R1BQK2R b KQ - 2 11,Joining the rooks
+22,e6,e7e6,r2q1rk1/ppp2pbp/2n1p1p1/3p4/3PbPP1/P1P1PN1P/2P3B1/R1BQK2R w KQ - 0 12,Joining the rooks
+23,g5,g4g5,r2q1rk1/ppp2pbp/2n1p1p1/3p2P1/3PbP2/P1P1PN1P/2P3B1/R1BQK2R b KQ - 0 12,Joining the rooks
+24,Qe7,d8e7,r4rk1/ppp1qpbp/2n1p1p1/3p2P1/3PbP2/P1P1PN1P/2P3B1/R1BQK2R w KQ - 1 13,Joining the rooks
+25,O-O,e1g1,r4rk1/ppp1qpbp/2n1p1p1/3p2P1/3PbP2/P1P1PN1P/2P3B1/R1BQ1RK1 b - - 2 13,I think white would have been better with fxe5 as he gains control over a half open f file
+26,a5,a7a5,r4rk1/1pp1qpbp/2n1p1p1/p2p2P1/3PbP2/P1P1PN1P/2P3B1/R1BQ1RK1 w - - 0 14,I think white would have been better with fxe5 as he gains control over a half open f file
+27,Ne5,f3e5,r4rk1/1pp1qpbp/2n1p1p1/p2pN1P1/3PbP2/P1P1P2P/2P3B1/R1BQ1RK1 b - - 1 14,I think white would have been better with fxe5 as he gains control over a half open f file
+28,Nxe5,c6e5,r4rk1/1pp1qpbp/4p1p1/p2pn1P1/3PbP2/P1P1P2P/2P3B1/R1BQ1RK1 w - - 0 15,I think white would have been better with fxe5 as he gains control over a half open f file
+29,dxe5,d4e5,r4rk1/1pp1qpbp/4p1p1/p2pP1P1/4bP2/P1P1P2P/2P3B1/R1BQ1RK1 b - - 0 15,I think white would have been better with fxe5 as he gains control over a half open f file
+30,Bxg2,e4g2,r4rk1/1pp1qpbp/4p1p1/p2pP1P1/5P2/P1P1P2P/2P3b1/R1BQ1RK1 w - - 0 16,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+31,Kxg2,g1g2,r4rk1/1pp1qpbp/4p1p1/p2pP1P1/5P2/P1P1P2P/2P3K1/R1BQ1R2 b - - 0 16,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+32,c5,c7c5,r4rk1/1p2qpbp/4p1p1/p1ppP1P1/5P2/P1P1P2P/2P3K1/R1BQ1R2 w - - 0 17,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+33,h4,h3h4,r4rk1/1p2qpbp/4p1p1/p1ppP1P1/5P1P/P1P1P3/2P3K1/R1BQ1R2 b - - 0 17,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+34,h6,h7h6,r4rk1/1p2qpb1/4p1pp/p1ppP1P1/5P1P/P1P1P3/2P3K1/R1BQ1R2 w - - 0 18,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+35,Rh1,f1h1,r4rk1/1p2qpb1/4p1pp/p1ppP1P1/5P1P/P1P1P3/2P3K1/R1BQ3R b - - 1 18,"trying to tempt gxh6 Bxh6 as then whites h pawn gets in the way of his rook, notice also that his dsb has very limited scope as most of his pawns are on black squares"
+36,h5,h6h5,r4rk1/1p2qpb1/4p1p1/p1ppP1Pp/5P1P/P1P1P3/2P3K1/R1BQ3R w - - 0 19,closing the area around the black king
+37,Qe2,d1e2,r4rk1/1p2qpb1/4p1p1/p1ppP1Pp/5P1P/P1P1P3/2P1Q1K1/R1B4R b - - 1 19,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+38,c4,c5c4,r4rk1/1p2qpb1/4p1p1/p2pP1Pp/2p2P1P/P1P1P3/2P1Q1K1/R1B4R w - - 0 20,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+39,a4,a3a4,r4rk1/1p2qpb1/4p1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R1B4R b - - 0 20,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+40,Rfb8,f8b8,rr4k1/1p2qpb1/4p1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R1B4R w - - 1 21,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+41,Ba3,c1a3,rr4k1/1p2qpb1/4p1p1/p2pP1Pp/P1p2P1P/B1P1P3/2P1Q1K1/R6R b - - 2 21,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+42,Qd7,e7d7,rr4k1/1p1q1pb1/4p1p1/p2pP1Pp/P1p2P1P/B1P1P3/2P1Q1K1/R6R w - - 3 22,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+43,Bd6,a3d6,rr4k1/1p1q1pb1/3Bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R6R b - - 4 22,The bishop here is an irritation but not much more. I was trying to figure out how to open up the position so I could get at whites exposed king
+44,Rbc8,b8c8,r1r3k1/1p1q1pb1/3Bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R6R w - - 5 23,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+45,Rhb1,h1b1,r1r3k1/1p1q1pb1/3Bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/RR6 b - - 6 23,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+46,Bf8,g7f8,r1r2bk1/1p1q1p2/3Bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/RR6 w - - 7 24,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+47,Rbd1,b1d1,r1r2bk1/1p1q1p2/3Bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R2R4 b - - 8 24,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+48,Bxd6,f8d6,r1r3k1/1p1q1p2/3bp1p1/p2pP1Pp/P1p2P1P/2P1P3/2P1Q1K1/R2R4 w - - 0 25,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+49,exd6,e5d6,r1r3k1/1p1q1p2/3Pp1p1/p2p2Pp/P1p2P1P/2P1P3/2P1Q1K1/R2R4 b - - 0 25,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+50,Qxd6,d7d6,r1r3k1/1p3p2/3qp1p1/p2p2Pp/P1p2P1P/2P1P3/2P1Q1K1/R2R4 w - - 0 26,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+51,Kg3,g2g3,r1r3k1/1p3p2/3qp1p1/p2p2Pp/P1p2P1P/2P1P1K1/2P1Q3/R2R4 b - - 1 26,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+52,e5,e6e5,r1r3k1/1p3p2/3q2p1/p2pp1Pp/P1p2P1P/2P1P1K1/2P1Q3/R2R4 w - - 0 27,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+53,Rd2,d1d2,r1r3k1/1p3p2/3q2p1/p2pp1Pp/P1p2P1P/2P1P1K1/2PRQ3/R7 b - - 1 27,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+54,Rce8,c8e8,r3r1k1/1p3p2/3q2p1/p2pp1Pp/P1p2P1P/2P1P1K1/2PRQ3/R7 w - - 2 28,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+55,Rad1,a1d1,r3r1k1/1p3p2/3q2p1/p2pp1Pp/P1p2P1P/2P1P1K1/2PRQ3/3R4 b - - 3 28,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+56,exf4+,e5f4,r3r1k1/1p3p2/3q2p1/p2p2Pp/P1p2p1P/2P1P1K1/2PRQ3/3R4 w - - 0 29,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+57,Kf3,g3f3,r3r1k1/1p3p2/3q2p1/p2p2Pp/P1p2p1P/2P1PK2/2PRQ3/3R4 b - - 1 29,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+58,fxe3,f4e3,r3r1k1/1p3p2/3q2p1/p2p2Pp/P1p4P/2P1pK2/2PRQ3/3R4 w - - 0 30,"I don't know what I was thinking of here, Rxe3+ is surely the move"
+59,Rd2xd5,d2d5,r3r1k1/1p3p2/3q2p1/p2R2Pp/P1p4P/2P1pK2/2P1Q3/3R4 b - - 0 30,This is no real threat
+60,Qc6,d6c6,r3r1k1/1p3p2/2q3p1/p2R2Pp/P1p4P/2P1pK2/2P1Q3/3R4 w - - 1 31,The rooks are now stifled and something like Rad8 will cause problems for white
+61,Kg2,f3g2,r3r1k1/1p3p2/2q3p1/p2R2Pp/P1p4P/2P1p3/2P1Q1K1/3R4 b - - 2 31,"I don't understand this move at all, I was expecting something like Kg3 which would at least break the pin on the rook"
+62,Re5,e8e5,r5k1/1p3p2/2q3p1/p2Rr1Pp/P1p4P/2P1p3/2P1Q1K1/3R4 w - - 3 32,I would be happy to exchange queens as I am so close to promoting
+63,Qf3,e2f3,r5k1/1p3p2/2q3p1/p2Rr1Pp/P1p4P/2P1pQ2/2P3K1/3R4 b - - 4 32,I would be happy to exchange queens as I am so close to promoting
+64,e2,e3e2,r5k1/1p3p2/2q3p1/p2Rr1Pp/P1p4P/2P2Q2/2P1p1K1/3R4 w - - 0 33,I would be happy to exchange queens as I am so close to promoting
+65,Rd5d8+,d5d8,r2R2k1/1p3p2/2q3p1/p3r1Pp/P1p4P/2P2Q2/2P1p1K1/3R4 b - - 1 33,another unexpected move as it leaves whites queen completely exposed
+66,Rxd8,a8d8,3r2k1/1p3p2/2q3p1/p3r1Pp/P1p4P/2P2Q2/2P1p1K1/3R4 w - - 0 34,another unexpected move as it leaves whites queen completely exposed
+67,Rxd8+,d1d8,3R2k1/1p3p2/2q3p1/p3r1Pp/P1p4P/2P2Q2/2P1p1K1/8 b - - 0 34,another unexpected move as it leaves whites queen completely exposed
+68,Kg7,g8g7,3R4/1p3pk1/2q3p1/p3r1Pp/P1p4P/2P2Q2/2P1p1K1/8 w - - 1 35,another unexpected move as it leaves whites queen completely exposed
+69,Kh3,g2h3,3R4/1p3pk1/2q3p1/p3r1Pp/P1p4P/2P2Q1K/2P1p3/8 b - - 2 35,another unexpected move as it leaves whites queen completely exposed
+70,Qxf3+,c6f3,3R4/1p3pk1/6p1/p3r1Pp/P1p4P/2P2q1K/2P1p3/8 w - - 0 36,"I was thinking about under promoting to a knight, with hindsight it may have been wise as this is the move that meant I couldn't win"
+71,Kh2,h3h2,3R4/1p3pk1/6p1/p3r1Pp/P1p4P/2P2q2/2P1p2K/8 b - - 1 36,"I was thinking about under promoting to a knight, with hindsight it may have been wise as this is the move that meant I couldn't win"
+72,e1=Q,e2e1q,3R4/1p3pk1/6p1/p3r1Pp/P1p4P/2P2q2/2P4K/4q3 w - - 0 37,"I was thinking about under promoting to a knight, with hindsight it may have been wise as this is the move that meant I couldn't win"
+73,Rg8+,d8g8,6R1/1p3pk1/6p1/p3r1Pp/P1p4P/2P2q2/2P4K/4q3 b - - 1 37,A very nice move from marros guarantees him a draw due to Kh7 Rh8+ .... leading to a draw by repitition
+74,Kxg8,g7g8,6k1/1p3p2/6p1/p3r1Pp/P1p4P/2P2q2/2P4K/4q3 w - - 0 38,"sadly for me it was only after my greed overcame me that I realised that the position was a stalemate, if only I had underpromoted. Well done to Marros."

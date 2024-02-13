@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I think this is a bit of a mistake as I can chase him.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,I think this is a bit of a mistake as I can chase him.
+3,d5,d4d5,r1bqkbnr/pppppppp/2n5/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,?? And this is the blunder. I guess he just wasn't thinking.
+4,e5,e7e5,r1bqkbnr/pppp1ppp/2n5/3Pp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3,?? And this is the blunder. I guess he just wasn't thinking.
+5,dxc6,d5c6,r1bqkbnr/pppp1ppp/2P5/4p3/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 3,"This opponent always tries to get scholar's mate, but much better would have been taking my pawn."
+6,Qf6,d8f6,r1b1kbnr/pppp1ppp/2P2q2/4p3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 4,"This opponent always tries to get scholar's mate, but much better would have been taking my pawn."
+7,cxd7+,c6d7,r1b1kbnr/pppP1ppp/5q2/4p3/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 4,"Well I'm up by three points so I thought ""Well this should be easy"" Yeah...easy"
+8,Bxd7,c8d7,r3kbnr/pppb1ppp/5q2/4p3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 5,"Well I'm up by three points so I thought ""Well this should be easy"" Yeah...easy"
+9,e4,e2e4,r3kbnr/pppb1ppp/5q2/4p3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 5,"I was feeling pretty good, not paying much attention and basically underestimating my opponent since I was ahead. I didn't notice that he had three pieces developed to my one."
+10,Bc5,f8c5,r3k1nr/pppb1ppp/5q2/2b1p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 1 6,"I was feeling pretty good, not paying much attention and basically underestimating my opponent since I was ahead. I didn't notice that he had three pieces developed to my one."
+11,Nf3,g1f3,r3k1nr/pppb1ppp/5q2/2b1p3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 6,"I was feeling pretty good, not paying much attention and basically underestimating my opponent since I was ahead. I didn't notice that he had three pieces developed to my one."
+12,Bg4,d7g4,r3k1nr/ppp2ppp/5q2/2b1p3/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 3 7,He tries a different approach...
+13,Be2,f1e2,r3k1nr/ppp2ppp/5q2/2b1p3/4P1b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 4 7,He tries a different approach...
+14,Bxf3,g4f3,r3k1nr/ppp2ppp/5q2/2b1p3/4P3/5b2/PPP1BPPP/RNBQK2R w KQkq - 0 8,He tries a different approach...
+15,Bxf3,e2f3,r3k1nr/ppp2ppp/5q2/2b1p3/4P3/5B2/PPP2PPP/RNBQK2R b KQkq - 0 8,He tries a different approach...
+16,Qh4,f6h4,r3k1nr/ppp2ppp/8/2b1p3/4P2q/5B2/PPP2PPP/RNBQK2R w KQkq - 1 9,He tries a different approach...
+17,g3,g2g3,r3k1nr/ppp2ppp/8/2b1p3/4P2q/5BP1/PPP2P1P/RNBQK2R b KQkq - 0 9,"Uh-oh, I can't castle."
+18,Qh3,h4h3,r3k1nr/ppp2ppp/8/2b1p3/4P3/5BPq/PPP2P1P/RNBQK2R w KQkq - 1 10,"Uh-oh, I can't castle."
+19,Bg4,f3g4,r3k1nr/ppp2ppp/8/2b1p3/4P1B1/6Pq/PPP2P1P/RNBQK2R b KQkq - 2 10,"I felt really clever making this move, I thought ""ha! to stop me from playing Qd7+ he has to give up his queen!"" I didn't realize I guess that it wouldn't do much."
+20,Qg2,h3g2,r3k1nr/ppp2ppp/8/2b1p3/4P1B1/6P1/PPP2PqP/RNBQK2R w KQkq - 3 11,Uh... Now what?
+21,Qd7+,d1d7,r3k1nr/pppQ1ppp/8/2b1p3/4P1B1/6P1/PPP2PqP/RNB1K2R b KQkq - 4 11,Uh... Now what?
+22,Kf8,e8f8,r4knr/pppQ1ppp/8/2b1p3/4P1B1/6P1/PPP2PqP/RNB1K2R w KQ - 5 12,Uh... Now what?
+23,Rf1,h1f1,r4knr/pppQ1ppp/8/2b1p3/4P1B1/6P1/PPP2PqP/RNB1KR2 b Q - 6 12,Defend rook
+24,Ne7,g8e7,r4k1r/pppQnppp/8/2b1p3/4P1B1/6P1/PPP2PqP/RNB1KR2 w Q - 7 13,"Uh oh... Pawn gone. What do I do now? I know, play like an idiot"
+25,Be3,c1e3,r4k1r/pppQnppp/8/2b1p3/4P1B1/4B1P1/PPP2PqP/RN2KR2 b Q - 8 13,"Uh oh... Pawn gone. What do I do now? I know, play like an idiot"
+26,Qxe4,g2e4,r4k1r/pppQnppp/8/2b1p3/4q1B1/4B1P1/PPP2P1P/RN2KR2 w Q - 0 14,"Uh oh... Pawn gone. What do I do now? I know, play like an idiot"
+27,Ke2,e1e2,r4k1r/pppQnppp/8/2b1p3/4q1B1/4B1P1/PPP1KP1P/RN3R2 b - - 1 14,I saw that he could play Bxe3 f2xe3 Qxe3+ so I decided to defend my bishop. Why I couldn't have just played Nc3 counterattacking his queen is a mystery.
+28,Qxc2+,e4c2,r4k1r/pppQnppp/8/2b1p3/6B1/4B1P1/PPq1KP1P/RN3R2 w - - 0 15,Um pawn gone... What do I do now?
+29,Nd2,b1d2,r4k1r/pppQnppp/8/2b1p3/6B1/4B1P1/PPqNKP1P/R4R2 b - - 1 15,Block and develop at the same time. And lose another pawn
+30,Bd6,c5d6,r4k1r/pppQnppp/3b4/4p3/6B1/4B1P1/PPqNKP1P/R4R2 w - - 2 16,I was trying to keep up my 'attack' although I was still leaving my pawn hanging.
+31,Bg5,e3g5,r4k1r/pppQnppp/3b4/4p1B1/6B1/6P1/PPqNKP1P/R4R2 b - - 3 16,I was trying to keep up my 'attack' although I was still leaving my pawn hanging.
+32,Nc6,e7c6,r4k1r/pppQ1ppp/2nb4/4p1B1/6B1/6P1/PPqNKP1P/R4R2 w - - 4 17,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+33,Bh5,g4h5,r4k1r/pppQ1ppp/2nb4/4p1BB/8/6P1/PPqNKP1P/R4R2 b - - 5 17,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+34,Nd4+,c6d4,r4k1r/pppQ1ppp/3b4/4p1BB/3n4/6P1/PPqNKP1P/R4R2 w - - 6 18,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+35,Ke1,e2e1,r4k1r/pppQ1ppp/3b4/4p1BB/3n4/6P1/PPqN1P1P/R3KR2 b - - 7 18,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+36,Qf5,c2f5,r4k1r/pppQ1ppp/3b4/4pqBB/3n4/6P1/PP1N1P1P/R3KR2 w - - 8 19,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+37,Qxf5,d7f5,r4k1r/ppp2ppp/3b4/4pQBB/3n4/6P1/PP1N1P1P/R3KR2 b - - 0 19,"I thought: Oh good, now the danger's over, his queen is gone and I've got an easy game. After all, I'm up a knight. I guess I didn't realize that I was also down two pawns."
+38,Nxf5,d4f5,r4k1r/ppp2ppp/3b4/4pnBB/8/6P1/PP1N1P1P/R3KR2 w - - 0 20,Well in hindsight I have to admit that white is better. But I played pretty badly earlier.
+39,Bg4,h5g4,r4k1r/ppp2ppp/3b4/4pnB1/6B1/6P1/PP1N1P1P/R3KR2 b - - 1 20,Well in hindsight I have to admit that white is better. But I played pretty badly earlier.
+40,Nd4,f5d4,r4k1r/ppp2ppp/3b4/4p1B1/3n2B1/6P1/PP1N1P1P/R3KR2 w - - 2 21,Threatens a very obvious fork that suddenly I miss
+41,Ne4,d2e4,r4k1r/ppp2ppp/3b4/4p1B1/3nN1B1/6P1/PP3P1P/R3KR2 b - - 3 21,See what I mean by I was playing like a 1st class idiot?
+42,Nc2+,d4c2,r4k1r/ppp2ppp/3b4/4p1B1/4N1B1/6P1/PPn2P1P/R3KR2 w - - 4 22,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+43,Kd1,e1d1,r4k1r/ppp2ppp/3b4/4p1B1/4N1B1/6P1/PPn2P1P/R2K1R2 b - - 5 22,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+44,Nxa1,c2a1,r4k1r/ppp2ppp/3b4/4p1B1/4N1B1/6P1/PP3P1P/n2K1R2 w - - 0 23,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+45,Re1,f1e1,r4k1r/ppp2ppp/3b4/4p1B1/4N1B1/6P1/PP3P1P/n2KR3 b - - 1 23,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+46,f6,f7f6,r4k1r/ppp3pp/3b1p2/4p1B1/4N1B1/6P1/PP3P1P/n2KR3 w - - 0 24,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+47,Bh4,g5h4,r4k1r/ppp3pp/3b1p2/4p3/4N1BB/6P1/PP3P1P/n2KR3 b - - 1 24,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.
+48,Rd8,a8d8,3r1k1r/ppp3pp/3b1p2/4p3/4N1BB/6P1/PP3P1P/n2KR3 w - - 2 25,Well look how the tides have turned. Suddenly he's up by four points (Though his knight won't live long) and threatening a tactic that surprisingly I see. I guess the shock of his fork brought me back to reality.

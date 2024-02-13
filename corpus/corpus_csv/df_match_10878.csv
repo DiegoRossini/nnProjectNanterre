@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,A05: Reti opening
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,A05: Reti opening
+3,g3,g2g3,rnbqkbnr/pppp1ppp/4p3/8/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2,A05: Reti opening
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3,A05: Reti opening
+5,Bg2,f1g2,rnbqkb1r/pppp1ppp/4pn2/8/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 2 3,A05: Reti opening
+6,Ng4,f6g4,rnbqkb1r/pppp1ppp/4p3/8/6n1/5NP1/PPPPPPBP/RNBQK2R w KQkq - 3 4,A05: Reti opening
+7,h3,h2h3,rnbqkb1r/pppp1ppp/4p3/8/6n1/5NPP/PPPPPPB1/RNBQK2R b KQkq - 0 4,A05: Reti opening
+8,Nxf2,g4f2,rnbqkb1r/pppp1ppp/4p3/8/8/5NPP/PPPPPnB1/RNBQK2R w KQkq - 0 5,"I've never seen this before, and I'm sure it could be devastating provided that black pressures the exposed king early."
+9,Kxf2,e1f2,rnbqkb1r/pppp1ppp/4p3/8/8/5NPP/PPPPPKB1/RNBQ3R b kq - 0 5,"An interesting sacrifice, but, eventually, black does not press the exposure of the king.
+5. ... Bc5  6. d4"
+10,Qf6,d8f6,rnb1kb1r/pppp1ppp/4pq2/8/8/5NPP/PPPPPKB1/RNBQ3R w kq - 1 6,Why h6?  Why not Bc5  or e5?
+11,d3,d2d3,rnb1kb1r/pppp1ppp/4pq2/8/8/3P1NPP/PPP1PKB1/RNBQ3R b kq - 0 6,Why h6?  Why not Bc5  or e5?
+12,h6,h7h6,rnb1kb1r/pppp1pp1/4pq1p/8/8/3P1NPP/PPP1PKB1/RNBQ3R w kq - 0 7,Why h6?  Why not Bc5  or e5?
+13,e3,e2e3,rnb1kb1r/pppp1pp1/4pq1p/8/8/3PPNPP/PPP2KB1/RNBQ3R b kq - 0 7,"I castle ""manually."""
+14,Bd6,f8d6,rnb1k2r/pppp1pp1/3bpq1p/8/8/3PPNPP/PPP2KB1/RNBQ3R w kq - 1 8,"I castle ""manually."""
+15,g4,g3g4,rnb1k2r/pppp1pp1/3bpq1p/8/6P1/3PPN1P/PPP2KB1/RNBQ3R b kq - 0 8,"I castle ""manually."""
+16,b6,b7b6,rnb1k2r/p1pp1pp1/1p1bpq1p/8/6P1/3PPN1P/PPP2KB1/RNBQ3R w kq - 0 9,"I castle ""manually."""
+17,Rf1,h1f1,rnb1k2r/p1pp1pp1/1p1bpq1p/8/6P1/3PPN1P/PPP2KB1/RNBQ1R2 b kq - 1 9,"I castle ""manually."""
+18,Qe7,f6e7,rnb1k2r/p1ppqpp1/1p1bp2p/8/6P1/3PPN1P/PPP2KB1/RNBQ1R2 w kq - 2 10,"I castle ""manually."""
+19,Kg1,f2g1,rnb1k2r/p1ppqpp1/1p1bp2p/8/6P1/3PPN1P/PPP3B1/RNBQ1RK1 b kq - 3 10,"I castle ""manually."""
+20,g5,g7g5,rnb1k2r/p1ppqp2/1p1bp2p/6p1/6P1/3PPN1P/PPP3B1/RNBQ1RK1 w kq - 0 11,"A double trap.  If ...
+11. .. Bxe5 then
+12. Bxa8!
+If ...
+11. .. c6 then
+12. Rxf7!"
+21,Ne5,f3e5,rnb1k2r/p1ppqp2/1p1bp2p/4N1p1/6P1/3PP2P/PPP3B1/RNBQ1RK1 b kq - 1 11,"A double trap.  If ...
+11. .. Bxe5 then
+12. Bxa8!
+If ...
+11. .. c6 then
+12. Rxf7!"
+22,c6,c7c6,rnb1k2r/p2pqp2/1ppbp2p/4N1p1/6P1/3PP2P/PPP3B1/RNBQ1RK1 w kq - 0 12,"Black sees the first trap, but maybe not the second."
+23,Rxf7,f1f7,rnb1k2r/p2pqR2/1ppbp2p/4N1p1/6P1/3PP2P/PPP3B1/RNBQ2K1 b kq - 0 12,"12.	... 	Qd8
+13.	Nxc6 	dxc6
+14.	Qf3 	Rf8
+15.	Rxf8  	Bxf8"
+24,Qd8,e7d8,rnbqk2r/p2p1R2/1ppbp2p/4N1p1/6P1/3PP2P/PPP3B1/RNBQ2K1 w kq - 1 13,"If I move my rook, I lose my knight.  If I lost my knight, I lose my rook.  So, I try to pressure the trapped black rook at a8."
+25,Nxc6,e5c6,rnbqk2r/p2p1R2/1pNbp2p/6p1/6P1/3PP2P/PPP3B1/RNBQ2K1 b kq - 0 13,"Trying to defend against the stacked Queen/Bishop, black forgets about the rook."
+26,dxc6,d7c6,rnbqk2r/p4R2/1ppbp2p/6p1/6P1/3PP2P/PPP3B1/RNBQ2K1 w kq - 0 14,"Trying to defend against the stacked Queen/Bishop, black forgets about the rook."
+27,Qf3,d1f3,rnbqk2r/p4R2/1ppbp2p/6p1/6P1/3PPQ1P/PPP3B1/RNB3K1 b kq - 1 14,"Trying to defend against the stacked Queen/Bishop, black forgets about the rook."
+28,Bb7,c8b7,rn1qk2r/pb3R2/1ppbp2p/6p1/6P1/3PPQ1P/PPP3B1/RNB3K1 w kq - 2 15,"Trying to defend against the stacked Queen/Bishop, black forgets about the rook."
+29,Rxb7,f7b7,rn1qk2r/pR6/1ppbp2p/6p1/6P1/3PPQ1P/PPP3B1/RNB3K1 b kq - 0 15,"Initially, I thought I'd move as follows:
+16.	... 	Kd8
+17.	Rxa7 	Rxa7
+18.	Qxa7 ..."
+30,Qc8,d8c8,rnq1k2r/pR6/1ppbp2p/6p1/6P1/3PPQ1P/PPP3B1/RNB3K1 w kq - 1 16,"Initially, I thought I'd move as follows:
+16.	... 	Kd8
+17.	Rxa7 	Rxa7
+18.	Qxa7 ..."
+31,Qf7+,f3f7,rnq1k2r/pR3Q2/1ppbp2p/6p1/6P1/3PP2P/PPP3B1/RNB3K1 b kq - 2 16,"Initially, I thought I'd move as follows:
+16.	... 	Kd8
+17.	Rxa7 	Rxa7
+18.	Qxa7 ..."
+32,Kd8,e8d8,rnqk3r/pR3Q2/1ppbp2p/6p1/6P1/3PP2P/PPP3B1/RNB3K1 w - - 3 17,"But, I see the fork to take the rook at h8."
+33,Qf6+,f7f6,rnqk3r/pR6/1ppbpQ1p/6p1/6P1/3PP2P/PPP3B1/RNB3K1 b - - 4 17,"At this point, there's two basic possibilities.  I set up conditional moves as follows:
+17. ... Ke8 18. Qxh8  Bf8 19. Rh7
+17. ... Be7 18. Qxe7"
+34,Be7,d6e7,rnqk3r/pR2b3/1pp1pQ1p/6p1/6P1/3PP2P/PPP3B1/RNB3K1 w - - 5 18,I certainly learned to be prepared for the possibility of 4. .. Nxf2 against Reti.
+35,Qxe7#,f6e7,rnqk3r/pR2Q3/1pp1p2p/6p1/6P1/3PP2P/PPP3B1/RNB3K1 b - - 0 18,I certainly learned to be prepared for the possibility of 4. .. Nxf2 against Reti.

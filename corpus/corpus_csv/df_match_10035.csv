@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,2...Nc6 is better.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,2...Nc6 is better.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,2...Nc6 is better.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,2...Nc6 is better.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,Better to wait until White forces the exchange.
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,Better to wait until White forces the exchange.
+7,Be2,f1e2,rn1qkbnr/ppp2ppp/3p4/4p3/4P1b1/2N2N2/PPPPBPPP/R1BQK2R b KQkq - 3 4,Better to wait until White forces the exchange.
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4p3/4P3/2N2b2/PPPPBPPP/R1BQK2R w KQkq - 0 5,Better to wait until White forces the exchange.
+9,Bxf3,e2f3,rn1qkbnr/ppp2ppp/3p4/4p3/4P3/2N2B2/PPPP1PPP/R1BQK2R b KQkq - 0 5,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+10,Nf6,g8f6,rn1qkb1r/ppp2ppp/3p1n2/4p3/4P3/2N2B2/PPPP1PPP/R1BQK2R w KQkq - 1 6,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+11,d4,d2d4,rn1qkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N2B2/PPP2PPP/R1BQK2R b KQkq - 0 6,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+12,exd4,e5d4,rn1qkb1r/ppp2ppp/3p1n2/8/3pP3/2N2B2/PPP2PPP/R1BQK2R w KQkq - 0 7,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+13,Qxd4,d1d4,rn1qkb1r/ppp2ppp/3p1n2/8/3QP3/2N2B2/PPP2PPP/R1B1K2R b KQkq - 0 7,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+14,Nc6,b8c6,r2qkb1r/ppp2ppp/2np1n2/8/3QP3/2N2B2/PPP2PPP/R1B1K2R w KQkq - 1 8,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+15,Qd3,d4d3,r2qkb1r/ppp2ppp/2np1n2/8/4P3/2NQ1B2/PPP2PPP/R1B1K2R b KQkq - 2 8,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+16,h6,h7h6,r2qkb1r/ppp2pp1/2np1n1p/8/4P3/2NQ1B2/PPP2PPP/R1B1K2R w KQkq - 0 9,There is no need to worry about 9.Bg5. 8...Be7 was the right move.
+17,Be3,c1e3,r2qkb1r/ppp2pp1/2np1n1p/8/4P3/2NQBB2/PPP2PPP/R3K2R b KQkq - 1 9,Very careless!
+18,Ne5,c6e5,r2qkb1r/ppp2pp1/3p1n1p/4n3/4P3/2NQBB2/PPP2PPP/R3K2R w KQkq - 2 10,Very careless!
+19,Qe2,d3e2,r2qkb1r/ppp2pp1/3p1n1p/4n3/4P3/2N1BB2/PPP1QPPP/R3K2R b KQkq - 3 10,Very careless!
+20,Qd7,d8d7,r3kb1r/pppq1pp1/3p1n1p/4n3/4P3/2N1BB2/PPP1QPPP/R3K2R w KQkq - 4 11,Very careless!
+21,O-O-O,e1c1,r3kb1r/pppq1pp1/3p1n1p/4n3/4P3/2N1BB2/PPP1QPPP/2KR3R b kq - 5 11,Very careless!
+22,Be7,f8e7,r3k2r/pppqbpp1/3p1n1p/4n3/4P3/2N1BB2/PPP1QPPP/2KR3R w kq - 6 12,Very careless!
+23,Nd5,c3d5,r3k2r/pppqbpp1/3p1n1p/3Nn3/4P3/4BB2/PPP1QPPP/2KR3R b kq - 7 12,Very careless!
+24,O-O,e8g8,r4rk1/pppqbpp1/3p1n1p/3Nn3/4P3/4BB2/PPP1QPPP/2KR3R w - - 8 13,Very careless!
+25,h3,h2h3,r4rk1/pppqbpp1/3p1n1p/3Nn3/4P3/4BB1P/PPP1QPP1/2KR3R b - - 0 13,Very careless!
+26,Qa4,d7a4,r4rk1/ppp1bpp1/3p1n1p/3Nn3/q3P3/4BB1P/PPP1QPP1/2KR3R w - - 1 14,Very careless!
+27,Nxe7+,d5e7,r4rk1/ppp1Npp1/3p1n1p/4n3/q3P3/4BB1P/PPP1QPP1/2KR3R b - - 0 14,
+28,Kh8,g8h8,r4r1k/ppp1Npp1/3p1n1p/4n3/q3P3/4BB1P/PPP1QPP1/2KR3R w - - 1 15,
+29,a3,a2a3,r4r1k/ppp1Npp1/3p1n1p/4n3/q3P3/P3BB1P/1PP1QPP1/2KR3R b - - 0 15,
+30,Nxe4,f6e4,r4r1k/ppp1Npp1/3p3p/4n3/q3n3/P3BB1P/1PP1QPP1/2KR3R w - - 0 16,
+31,Bxe4,f3e4,r4r1k/ppp1Npp1/3p3p/4n3/q3B3/P3B2P/1PP1QPP1/2KR3R b - - 0 16,
+32,Qxe4,a4e4,r4r1k/ppp1Npp1/3p3p/4n3/4q3/P3B2P/1PP1QPP1/2KR3R w - - 0 17,
+33,g4,g2g4,r4r1k/ppp1Npp1/3p3p/4n3/4q1P1/P3B2P/1PP1QP2/2KR3R b - - 0 17,
+34,Nd7,e5d7,r4r1k/pppnNpp1/3p3p/8/4q1P1/P3B2P/1PP1QP2/2KR3R w - - 1 18,
+35,Nf5,e7f5,r4r1k/pppn1pp1/3p3p/5N2/4q1P1/P3B2P/1PP1QP2/2KR3R b - - 2 18,
+36,Qe6,e4e6,r4r1k/pppn1pp1/3pq2p/5N2/6P1/P3B2P/1PP1QP2/2KR3R w - - 3 19,
+37,Qb5,e2b5,r4r1k/pppn1pp1/3pq2p/1Q3N2/6P1/P3B2P/1PP2P2/2KR3R b - - 4 19,
+38,b6,b7b6,r4r1k/p1pn1pp1/1p1pq2p/1Q3N2/6P1/P3B2P/1PP2P2/2KR3R w - - 0 20,
+39,Rhe1,h1e1,r4r1k/p1pn1pp1/1p1pq2p/1Q3N2/6P1/P3B2P/1PP2P2/2KRR3 b - - 1 20,
+40,Ne5,d7e5,r4r1k/p1p2pp1/1p1pq2p/1Q2nN2/6P1/P3B2P/1PP2P2/2KRR3 w - - 2 21,
+41,Bd4,e3d4,r4r1k/p1p2pp1/1p1pq2p/1Q2nN2/3B2P1/P6P/1PP2P2/2KRR3 b - - 3 21,
+42,f6,f7f6,r4r1k/p1p3p1/1p1pqp1p/1Q2nN2/3B2P1/P6P/1PP2P2/2KRR3 w - - 0 22,
+43,f4,f2f4,r4r1k/p1p3p1/1p1pqp1p/1Q2nN2/3B1PP1/P6P/1PP5/2KRR3 b - - 0 22,
+44,Qd7,e6d7,r4r1k/p1pq2p1/1p1p1p1p/1Q2nN2/3B1PP1/P6P/1PP5/2KRR3 w - - 1 23,
+45,Qd5,b5d5,r4r1k/p1pq2p1/1p1p1p1p/3QnN2/3B1PP1/P6P/1PP5/2KRR3 b - - 2 23,
+46,Nc6,e5c6,r4r1k/p1pq2p1/1pnp1p1p/3Q1N2/3B1PP1/P6P/1PP5/2KRR3 w - - 3 24,
+47,h4,h3h4,r4r1k/p1pq2p1/1pnp1p1p/3Q1N2/3B1PPP/P7/1PP5/2KRR3 b - - 0 24,
+48,Nxd4,c6d4,r4r1k/p1pq2p1/1p1p1p1p/3Q1N2/3n1PPP/P7/1PP5/2KRR3 w - - 0 25,
+49,Rxd4,d1d4,r4r1k/p1pq2p1/1p1p1p1p/3Q1N2/3R1PPP/P7/1PP5/2K1R3 b - - 0 25,
+50,Rae8,a8e8,4rr1k/p1pq2p1/1p1p1p1p/3Q1N2/3R1PPP/P7/1PP5/2K1R3 w - - 1 26,
+51,Rde4,d4e4,4rr1k/p1pq2p1/1p1p1p1p/3Q1N2/4RPPP/P7/1PP5/2K1R3 b - - 2 26,
+52,Kh7,h8h7,4rr2/p1pq2pk/1p1p1p1p/3Q1N2/4RPPP/P7/1PP5/2K1R3 w - - 3 27,
+53,h5,h4h5,4rr2/p1pq2pk/1p1p1p1p/3Q1N1P/4RPP1/P7/1PP5/2K1R3 b - - 0 27,
+54,g6,g7g6,4rr2/p1pq3k/1p1p1ppp/3Q1N1P/4RPP1/P7/1PP5/2K1R3 w - - 0 28,
+55,Re4e7+,e4e7,4rr2/p1pqR2k/1p1p1ppp/3Q1N1P/5PP1/P7/1PP5/2K1R3 b - - 1 28,
+56,Rxe7,e8e7,5r2/p1pqr2k/1p1p1ppp/3Q1N1P/5PP1/P7/1PP5/2K1R3 w - - 0 29,
+57,Rxe7+,e1e7,5r2/p1pqR2k/1p1p1ppp/3Q1N1P/5PP1/P7/1PP5/2K5 b - - 0 29,
+58,Qxe7,d7e7,5r2/p1p1q2k/1p1p1ppp/3Q1N1P/5PP1/P7/1PP5/2K5 w - - 0 30,
+59,Nxe7,f5e7,5r2/p1p1N2k/1p1p1ppp/3Q3P/5PP1/P7/1PP5/2K5 b - - 0 30,
+60,gxh5,g6h5,5r2/p1p1N2k/1p1p1p1p/3Q3p/5PP1/P7/1PP5/2K5 w - - 0 31,
+61,Qxh5,d5h5,5r2/p1p1N2k/1p1p1p1p/7Q/5PP1/P7/1PP5/2K5 b - - 0 31,
+62,c5,c7c5,5r2/p3N2k/1p1p1p1p/2p4Q/5PP1/P7/1PP5/2K5 w - - 0 32,
+63,Qg6+,h5g6,5r2/p3N2k/1p1p1pQp/2p5/5PP1/P7/1PP5/2K5 b - - 1 32,
+64,Kh8,h7h8,5r1k/p3N3/1p1p1pQp/2p5/5PP1/P7/1PP5/2K5 w - - 2 33,
+65,Qxh6#,g6h6,5r1k/p3N3/1p1p1p1Q/2p5/5PP1/P7/1PP5/2K5 b - - 0 33,

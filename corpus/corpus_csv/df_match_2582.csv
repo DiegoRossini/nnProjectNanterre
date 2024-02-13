@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The MT starting position.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The MT starting position.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The MT starting position.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The MT starting position.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,The MT starting position.
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,The MT starting position.
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,The MT starting position.
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,The MT starting position.
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,The MT starting position.
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,The MT starting position.
+11,Nf3,g1f3,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 6,"Probably the most flexible 6th move, keeping open the e4 lines, but retaining other options."
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 7,"Choosing one of the main lines, perhaps?"
+13,e4,e2e4,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 7,"Choosing one of the main lines, perhaps?"
+14,Bg7,f8g7,rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 8,"[!?] An unusual line, apparently designed at once to keep a Black minor piece - especially the bishop - out of g4.  It is very frequently the case that Black is interested in exchanging his light-square bishop (LSB) for the knight at f3, removing one of the supports for White's e-pawn's progress to e5, but also leaving whatever recaptures on f3 none-too-conveniently placed for White."
+15,h3,h2h3,rnbqk2r/pp3pbp/3p1np1/2pP4/4P3/2N2N1P/PP3PP1/R1BQKB1R b KQkq - 0 8,"[!?] An unusual line, apparently designed at once to keep a Black minor piece - especially the bishop - out of g4.  It is very frequently the case that Black is interested in exchanging his light-square bishop (LSB) for the knight at f3, removing one of the supports for White's e-pawn's progress to e5, but also leaving whatever recaptures on f3 none-too-conveniently placed for White."
+16,a6,a7a6,rnbqk2r/1p3pbp/p2p1np1/2pP4/4P3/2N2N1P/PP3PP1/R1BQKB1R w KQkq - 0 9,Preparing the thematic ...b5 advance.  You will see this little move in a large percentage of Benoni games...
+17,a4,a2a4,rnbqk2r/1p3pbp/p2p1np1/2pP4/P3P3/2N2N1P/1P3PP1/R1BQKB1R b KQkq - 0 9,...as you will this reply.  Black's Q-side operations are held up for the time being.
+18,Nbd7,b8d7,r1bqk2r/1p1n1pbp/p2p1np1/2pP4/P3P3/2N2N1P/1P3PP1/R1BQKB1R w KQkq - 1 10,[?!]  Probably Black ought to have been looking at castling about now.  Successive postponements were to prove mildly embarrassing in its results.
+19,Bd3,f1d3,r1bqk2r/1p1n1pbp/p2p1np1/2pP4/P3P3/2NB1N1P/1P3PP1/R1BQK2R b KQkq - 2 10,"With g4 unavailable to Black, this advanced development (instead of Be2) seems well motivated.  It supports e4 against possible Black attack, though such an eventuality looks a long way off at the moment."
+20,Nh5,f6h5,r1bqk2r/1p1n1pbp/p2p2p1/2pP3n/P3P3/2NB1N1P/1P3PP1/R1BQK2R w KQkq - 3 11,[!?] Intending to bring a knight to e5.  But 10....0-0 might well have been an inprovement before committing myself in this way.
+21,Bg5,c1g5,r1bqk2r/1p1n1pbp/p2p2p1/2pP2Bn/P3P3/2NB1N1P/1P3PP1/R2QK2R b KQkq - 4 11,[!] Most annoying.  Other than bring the knight back - horrors - there was just one sensible response.
+22,Bf6,g7f6,r1bqk2r/1p1n1p1p/p2p1bp1/2pP2Bn/P3P3/2NB1N1P/1P3PP1/R2QK2R w KQkq - 5 12,"[!?] Of course I had to have seen this coming, but it is no less a nuisance.  This bishop intervention at least puts the question to White: 'Care to exchange DSBs?'"
+23,Bh6,g5h6,r1bqk2r/1p1n1p1p/p2p1bpB/2pP3n/P3P3/2NB1N1P/1P3PP1/R2QK2R b KQkq - 6 12,"[!?] I rather expected this, though there was quite a bit to be said for 12.Bxf6 (...Qxf6)."
+24,Ne5,d7e5,r1bqk2r/1p3p1p/p2p1bpB/2pPn2n/P3P3/2NB1N1P/1P3PP1/R2QK2R w KQkq - 7 13,"An intermezzo.  The other knight is headed back to g7, but I wanted to get in the object of my play hereabouts..."
+25,Be2,d3e2,r1bqk2r/1p3p1p/p2p1bpB/2pPn2n/P3P3/2N2N1P/1P2BPP1/R2QK2R b KQkq - 8 13,"[!?]  Preserving his LSB.  As White, I might have been inclined to leave it on d3 and hope that Black exchanged his knight for it.  My reply suggests I might well have taken the Knight regardless, in which case White might have saved himself a couple of tempi."
+26,Nxf3+,e5f3,r1bqk2r/1p3p1p/p2p1bpB/2pP3n/P3P3/2N2n1P/1P2BPP1/R2QK2R w KQkq - 0 14,The reversal of positions on Bishop and Knight on the K-side makes an odd impression.
+27,Bxf3,e2f3,r1bqk2r/1p3p1p/p2p1bpB/2pP3n/P3P3/2N2B1P/1P3PP1/R2QK2R b KQkq - 0 14,The reversal of positions on Bishop and Knight on the K-side makes an odd impression.
+28,Ng7,h5g7,r1bqk2r/1p3pnp/p2p1bpB/2pP4/P3P3/2N2B1P/1P3PP1/R2QK2R w KQkq - 1 15,The reversal of positions on Bishop and Knight on the K-side makes an odd impression.
+29,O-O,e1g1,r1bqk2r/1p3pnp/p2p1bpB/2pP4/P3P3/2N2B1P/1P3PP1/R2Q1RK1 b kq - 2 15,At last!
+30,O-O,e8g8,r1bq1rk1/1p3pnp/p2p1bpB/2pP4/P3P3/2N2B1P/1P3PP1/R2Q1RK1 w - - 3 16,At last!
+31,Be2,f3e2,r1bq1rk1/1p3pnp/p2p1bpB/2pP4/P3P3/2N4P/1P2BPP1/R2Q1RK1 b - - 4 16,[?!] Clearly intended to free the f-pawn to advance.  But Black is in a position to stymie that plan...
+32,Bd4,f6d4,r1bq1rk1/1p3pnp/p2p2pB/2pP4/P2bP3/2N4P/1P2BPP1/R2Q1RK1 w - - 5 17,[!]  One of the features of the Modern Benoni is the control Black has over the e5 and d4 squares.  A bishop established on one of these squares has an influence on both sides of the board.
+33,Rb1,a1b1,r1bq1rk1/1p3pnp/p2p2pB/2pP4/P2bP3/2N4P/1P2BPP1/1R1Q1RK1 b - - 6 17,"[?]  Whether this was an integral part of white's plan is hard to fathom.  As it transpires, this move gave Black the chance, if he wanted to take it, to force a draw.  Mind you, the respective ratings here did influence my decisions in this game rather more than they usually do.  But having my eye drawn at once to the h3-square, it was hard to think of anything else..."
+34,Bxh3,c8h3,r2q1rk1/1p3pnp/p2p2pB/2pP4/P2bP3/2N4b/1P2BPP1/1R1Q1RK1 w - - 0 18,"[!]  Objectively, probably the best move on  the board.  The position is '='.  But it might have been an idea to look into 17...f5 a bit more closely."

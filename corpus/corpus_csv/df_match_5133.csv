@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Just to play differently.
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Just to play differently.
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Just to play differently.
+4,d6,d7d6,rnbqkbnr/ppp1p1pp/3p4/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Just to play differently.
+5,Bf4,c1f4,rnbqkbnr/ppp1p1pp/3p4/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Just to play differently.
+6,Nf6,g8f6,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,Just to play differently.
+7,e3,e2e3,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,Just to play differently.
+8,d5,d6d5,rnbqkb1r/ppp1p1pp/5n2/3p1p2/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,Just to play differently.
+9,c4,c2c4,rnbqkb1r/ppp1p1pp/5n2/3p1p2/2PP1B2/4PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,Just to play differently.
+10,e6,e7e6,rnbqkb1r/ppp3pp/4pn2/3p1p2/2PP1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 0 6,Just to play differently.
+11,c5,c4c5,rnbqkb1r/ppp3pp/4pn2/2Pp1p2/3P1B2/4PN2/PP3PPP/RN1QKB1R b KQkq - 0 6,Just to play differently.
+12,Nbd7,b8d7,r1bqkb1r/pppn2pp/4pn2/2Pp1p2/3P1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 1 7,Looking for c6.
+13,Qc2,d1c2,r1bqkb1r/pppn2pp/4pn2/2Pp1p2/3P1B2/4PN2/PPQ2PPP/RN2KB1R b KQkq - 2 7,Looking for c6.
+14,c6,c7c6,r1bqkb1r/pp1n2pp/2p1pn2/2Pp1p2/3P1B2/4PN2/PPQ2PPP/RN2KB1R w KQkq - 0 8,"Ok, but now black is a little cramped. I didn't have time to take accurate advantage of it."
+15,Bd3,f1d3,r1bqkb1r/pp1n2pp/2p1pn2/2Pp1p2/3P1B2/3BPN2/PPQ2PPP/RN2K2R b KQkq - 1 8,Just in case of any attempt of e5 in the future. Maybe Be2 is more accurate.
+16,a5,a7a5,r1bqkb1r/1p1n2pp/2p1pn2/p1Pp1p2/3P1B2/3BPN2/PPQ2PPP/RN2K2R w KQkq - 0 9,"I thought about Qa5+, instead."
+17,a4,a2a4,r1bqkb1r/1p1n2pp/2p1pn2/p1Pp1p2/P2P1B2/3BPN2/1PQ2PPP/RN2K2R b KQkq - 0 9,"Of course, trying to free himself. Now I have to react."
+18,b6,b7b6,r1bqkb1r/3n2pp/1pp1pn2/p1Pp1p2/P2P1B2/3BPN2/1PQ2PPP/RN2K2R w KQkq - 0 10,"Of course, trying to free himself. Now I have to react."
+19,Ng5,f3g5,r1bqkb1r/3n2pp/1pp1pn2/p1Pp1pN1/P2P1B2/3BP3/1PQ2PPP/RN2K2R b KQkq - 1 10,Putting a question on e6.
+20,Nxc5,d7c5,r1bqkb1r/6pp/1pp1pn2/p1np1pN1/P2P1B2/3BP3/1PQ2PPP/RN2K2R w KQkq - 0 11,"?! It improves black's position, but Nb8, even if it looks terrible, was better. Na3-b4 was a good  plan for black. I don't have anyting in the inmediate future."
+21,dxc5,d4c5,r1bqkb1r/6pp/1pp1pn2/p1Pp1pN1/P4B2/3BP3/1PQ2PPP/RN2K2R b KQkq - 0 11,"If I castle, it means I am planless."
+22,Bxc5,f8c5,r1bqk2r/6pp/1pp1pn2/p1bp1pN1/P4B2/3BP3/1PQ2PPP/RN2K2R w KQkq - 0 12,"If I castle, it means I am planless."
+23,O-O,e1g1,r1bqk2r/6pp/1pp1pn2/p1bp1pN1/P4B2/3BP3/1PQ2PPP/RN3RK1 b kq - 1 12,"If I castle, it means I am planless."
+24,O-O,e8g8,r1bq1rk1/6pp/1pp1pn2/p1bp1pN1/P4B2/3BP3/1PQ2PPP/RN3RK1 w - - 2 13,"Better was to develop Nd2, for instance. I was looking for the black squares."
+25,Nf3,g5f3,r1bq1rk1/6pp/1pp1pn2/p1bp1p2/P4B2/3BPN2/1PQ2PPP/RN3RK1 b - - 3 13,"Better was to develop Nd2, for instance. I was looking for the black squares."
+26,h6,h7h6,r1bq1rk1/6p1/1pp1pn1p/p1bp1p2/P4B2/3BPN2/1PQ2PPP/RN3RK1 w - - 0 14,"This was a mistake. If g4, Be5 was ok."
+27,h4,h2h4,r1bq1rk1/6p1/1pp1pn1p/p1bp1p2/P4B1P/3BPN2/1PQ2PP1/RN3RK1 b - - 0 14,"This was a mistake. If g4, Be5 was ok."
+28,Ne4,f6e4,r1bq1rk1/6p1/1pp1p2p/p1bp1p2/P3nB1P/3BPN2/1PQ2PP1/RN3RK1 w - - 1 15,With some perspective of exchange the knight and align my queen on the black diagonal. In a few moves.
+29,Be5,f4e5,r1bq1rk1/6p1/1pp1p2p/p1bpBp2/P3n2P/3BPN2/1PQ2PP1/RN3RK1 b - - 2 15,With some perspective of exchange the knight and align my queen on the black diagonal. In a few moves.
+30,g5,g7g5,r1bq1rk1/8/1pp1p2p/p1bpBpp1/P3n2P/3BPN2/1PQ2PP1/RN3RK1 w - - 0 16,Of course!
+31,Nd4,f3d4,r1bq1rk1/8/1pp1p2p/p1bpBpp1/P2Nn2P/3BP3/1PQ2PP1/RN3RK1 b - - 1 16,"Crazy and bad, but with no time, you attack."
+32,g4,g5g4,r1bq1rk1/8/1pp1p2p/p1bpBp2/P2Nn1pP/3BP3/1PQ2PP1/RN3RK1 w - - 0 17,"Not good, since taking h4 provides an useful open column to black."
+33,Nxc6,d4c6,r1bq1rk1/8/1pN1p2p/p1bpBp2/P3n1pP/3BP3/1PQ2PP1/RN3RK1 b - - 0 17,"g3 was natural. As always, I go wild and crazy. You don't want to exchange your beloved black bishop for my knight? Ok, you'll regret it."
+34,Qxh4,d8h4,r1b2rk1/8/1pN1p2p/p1bpBp2/P3n1pq/3BP3/1PQ2PP1/RN3RK1 w - - 0 18,"Wonderful, I was soooo clever! Now I am really near to mate."
+35,Bxe4,d3e4,r1b2rk1/8/1pN1p2p/p1bpBp2/P3B1pq/4P3/1PQ2PP1/RN3RK1 b - - 0 18,I can't allow this knight to be there.
+36,fxe4,f5e4,r1b2rk1/8/1pN1p2p/p1bpB3/P3p1pq/4P3/1PQ2PP1/RN3RK1 w - - 0 19,"f2 is protected, for now."
+37,g3,g2g3,r1b2rk1/8/1pN1p2p/p1bpB3/P3p1pq/4P1P1/1PQ2P2/RN3RK1 b - - 0 19,"I calculated quickly that a queen on h3 is better than his pawn... but it was not necessary, since I have my bishop guarding g3, too."

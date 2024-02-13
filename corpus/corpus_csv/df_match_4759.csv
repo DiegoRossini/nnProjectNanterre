@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This game is interesting, as I won a pawn and tried to hang on to it. I think I went wrong soon after and lost the exchange and from then on I had a lost position. After the game my opponent said that I was wrong to try to hang on to the extra pawn, but I suspect it is not really that bad. I would very much appreciate your views dear reader!"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,So he replies in kind
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I continue with the Queen's Gambit
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,and he declines it in the most popular way.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,I continue with the usual.
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,"and he continues with the Tarrasch Defence. http://en.wikipedia.org/wiki/Tarrasch_Defense ""With his third move, Black makes an aggressive bid for central space. After White plays cxd5 and dxc5, Black will be left with an isolated pawn on d5. Such a pawn may be weak, since it can no longer be defended by other pawns; but it grants Black a foothold in the center, and Black's bishops will have unobstructed lines for development."""
+7,cxd5,c4d5,rnbqkbnr/pp3ppp/4p3/2pP4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,I play the recommended.
+8,exd5,e6d5,rnbqkbnr/pp3ppp/8/2pp4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,"As well as this recapture, Black has the interesting Hennig-Schara gambit. 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1 exd5 7. Qxd5 Bd7 is one line. White should be ok, but I was slightly worried that he would play this and know it better than me!"
+9,Nf3,g1f3,rnbqkbnr/pp3ppp/8/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 5,So I continue with the usual development.
+10,Nc6,b8c6,r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 6,And so does he.
+11,g3,g2g3,r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 6,This is all main line. White intends on exchanging on c5 and having the Bg2 bearing down on the isolated d pawn on d5.
+12,Nf6,g8f6,r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq - 1 7,"Black ignores the chance to play The Swedish Variation (also called the Folkestone Variation) is a sharp line beginning 6... c4. Black now has a four to three queenside pawn majority, and will try to expand with ...b5, with White aiming for a central break with e4. The line is considered somewhat dubious, and is rarely seen nowadays.
+
+The Swedish Variation has ECO code D33."
+13,Bg2,f1g2,r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 2 7,and White carries on with developing.
+14,Be7,f8e7,r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 3 8,As does black.
+15,dxc5,d4c5,r1bqk2r/pp2bppp/2n2n2/2Pp4/8/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 0 8,"I thought it was time to take on c5, as he has moved his bishop from f8. In a similar black playing the standard defence to the Queens Gambit declines waits before white moves his Bf1 before exchanging on c4. I also prevent a transposition to the Swedish variation. I was interested to see that in fact both 0-0 and Bg5 are more popular at this point."
+16,Bxc5,e7c5,r1bqk2r/pp3ppp/2n2n2/2bp4/8/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 0 9,So he recaptures.
+17,Bg5,c1g5,r1bqk2r/pp3ppp/2n2n2/2bp2B1/8/2N2NP1/PP2PPBP/R2QK2R b KQkq - 1 9,I decided to increase the pressure on the d5 pawn.
+18,d4,d5d4,r1bqk2r/pp3ppp/2n2n2/2b3B1/3p4/2N2NP1/PP2PPBP/R2QK2R w KQkq - 0 10,Which he relieves by advancing
+19,Ne4,c3e4,r1bqk2r/pp3ppp/2n2n2/2b3B1/3pN3/5NP1/PP2PPBP/R2QK2R b KQkq - 1 10,I attack his Bc5 and threaten to take on f6
+20,Be7,c5e7,r1bqk2r/pp2bppp/2n2n2/6B1/3pN3/5NP1/PP2PPBP/R2QK2R w KQkq - 2 11,so he defends.

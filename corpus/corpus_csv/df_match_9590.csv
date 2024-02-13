@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f3,f2f3,rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"paulmag's reasoning for this opening was ""Have played it many times to try and develop my game with this opening, one mistake and am dead."""
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"When meeting an unorthodox opening, standard opening moves such as center pawns are good."
+3,Kf2,e1f2,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2,Continuing his unorthodox opening. There are several names for this opening; Gameknot calls it Hammerschlag.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/8/5P2/PPPPPKPP/RNBQ1BNR w kq - 0 3,Continuing the push in the middle.
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/3pp3/8/4PP2/PPPP1KPP/RNBQ1BNR b kq - 0 3,Opening the line for the bishop and protecting against Bc5 .
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3pp3/8/4PP2/PPPP1KPP/RNBQ1BNR w kq - 1 4,Another developing move.
+7,c4,c2c4,rnbqkb1r/ppp2ppp/5n2/3pp3/2P5/4PP2/PP1P1KPP/RNBQ1BNR b kq - 0 4,Finally pushing against my center.
+8,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n2n2/3pp3/2P5/4PP2/PP1P1KPP/RNBQ1BNR w kq - 1 5,Another developing move. I see no advantage from dxc4.
+9,Nc3,b1c3,r1bqkb1r/ppp2ppp/2n2n2/3pp3/2P5/2N1PP2/PP1P1KPP/R1BQ1BNR b kq - 2 5,"Finally developing a piece, but as my reply shows, cxd5 first would have been better."
+10,d4,d5d4,r1bqkb1r/ppp2ppp/2n2n2/4p3/2Pp4/2N1PP2/PP1P1KPP/R1BQ1BNR w kq - 0 6,Pushing the knight away.
+11,Nd5,c3d5,r1bqkb1r/ppp2ppp/2n2n2/3Np3/2Pp4/4PP2/PP1P1KPP/R1BQ1BNR b kq - 1 6,There are no pleasant alternatives. 6. exd4 Qxd4  is uncomfortable for black. 6...dxe3  following other knight moves is also bad for black.
+12,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np3/2Pp4/4PP2/PP1P1KPP/R1BQ1BNR w kq - 0 7,Winning a pawn.
+13,cxd5,c4d5,r1bqkb1r/ppp2ppp/2n5/3Pp3/3p4/4PP2/PP1P1KPP/R1BQ1BNR b kq - 0 7,Pushing the queen away.
+14,Qxd5,d8d5,r1b1kb1r/ppp2ppp/2n5/3qp3/3p4/4PP2/PP1P1KPP/R1BQ1BNR w kq - 0 8,Pushing the queen away.
+15,e4,e3e4,r1b1kb1r/ppp2ppp/2n5/3qp3/3pP3/5P2/PP1P1KPP/R1BQ1BNR b kq - 0 8,Pushing the queen away.
+16,Qe6,d5e6,r1b1kb1r/ppp2ppp/2n1q3/4p3/3pP3/5P2/PP1P1KPP/R1BQ1BNR w kq - 1 9,"The queen doesn't accomplish anything here and ends up moving later.  d6, c5, or a5 are probably better, since the black bishop can't move yet."
+17,Qc2,d1c2,r1b1kb1r/ppp2ppp/2n1q3/4p3/3pP3/5P2/PPQP1KPP/R1B2BNR b kq - 2 9,"Supporting Bc4, but again the queen doesn't accomplish much here. d3 and g3 (with the possibility of Bh3) would be good."
+18,Be7,f8e7,r1b1k2r/ppp1bppp/2n1q3/4p3/3pP3/5P2/PPQP1KPP/R1B2BNR w kq - 3 10,"Preparing O-O. Toga likes giving back a pawn with 9...Nb4 10. Qxc7 d3, and Rybka likes 9...Nb4 10. Qb1 d3 11. Bxd3 Bc5"
+19,a3,a2a3,r1b1k2r/ppp1bppp/2n1q3/4p3/3pP3/P4P2/1PQP1KPP/R1B2BNR b kq - 0 10,"Preventing Nb4, but unnecessary. An immediate Bc4 would be better."
+20,O-O,e8g8,r1b2rk1/ppp1bppp/2n1q3/4p3/3pP3/P4P2/1PQP1KPP/R1B2BNR w - - 1 11,Also possible was giving back the pawn with an attack with 10...d3 11. Bxd3 Nd4 12. Qc3 Qb6 or 10...d3 11. Qxd3 Bc5
+21,Bc4,f1c4,r1b2rk1/ppp1bppp/2n1q3/4p3/2BpP3/P4P2/1PQP1KPP/R1B3NR b - - 2 11,Forcing the queen to move again.
+22,Qd6,e6d6,r1b2rk1/ppp1bppp/2nq4/4p3/2BpP3/P4P2/1PQP1KPP/R1B3NR w - - 3 12,"g6 or f6 are probably better places for the queen. d3 again was possible, with the idea of Bc5 , and Qf6 and Qh4."

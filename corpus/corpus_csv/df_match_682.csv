@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I had white pieces and started with e4.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"After 5 moves, we have sicilian scheveningen variation."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"After 5 moves, we have sicilian scheveningen variation."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"After 5 moves, we have sicilian scheveningen variation."
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"After 5 moves, we have sicilian scheveningen variation."
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"After 5 moves, we have sicilian scheveningen variation."
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"After 5 moves, we have sicilian scheveningen variation."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"After 5 moves, we have sicilian scheveningen variation."
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,"After 5 moves, we have sicilian scheveningen variation."
+10,e6,e7e6,rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"After 5 moves, we have sicilian scheveningen variation."
+11,Be3,c1e3,rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,"Be3, a6 we have transposed to english attack (kind of)."
+12,a6,a7a6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,"Be3, a6 we have transposed to english attack (kind of)."
+13,Bc4,f1c4,rnbqkb1r/1p3ppp/p2ppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 1 7,Developing my lsb.
+14,b5,b7b5,rnbqkb1r/5ppp/p2ppn2/1p6/2BNP3/2N1B3/PPP2PPP/R2QK2R w KQkq - 0 8,"Black carried on with Bb7 adding more pressure to my centre, maybe planning to play Nbd7 and then Rc8 later."
+15,Bb3,c4b3,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/1BN1B3/PPP2PPP/R2QK2R b KQkq - 1 8,"Black carried on with Bb7 adding more pressure to my centre, maybe planning to play Nbd7 and then Rc8 later."
+16,Bb7,c8b7,rn1qkb1r/1b3ppp/p2ppn2/1p6/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQkq - 2 9,"Black carried on with Bb7 adding more pressure to my centre, maybe planning to play Nbd7 and then Rc8 later."
+17,f3,f2f3,rn1qkb1r/1b3ppp/p2ppn2/1p6/3NP3/1BN1BP2/PPP3PP/R2QK2R b KQkq - 0 9,"F3, defending my e pawn, also prevents Ng4 in the future."
+18,g6,g7g6,rn1qkb1r/1b3p1p/p2ppnp1/1p6/3NP3/1BN1BP2/PPP3PP/R2QK2R w KQkq - 0 10,"I was hoping black to play Be7, then I would carry on with Bxe6, fxe6 and Nxe6, forking black's queen and g pawn. However my opponent responded with G6, which indicates that he is going to fianchetto his dsb then castle king side."
+19,Qd2,d1d2,rn1qkb1r/1b3p1p/p2ppnp1/1p6/3NP3/1BN1BP2/PPPQ2PP/R3K2R b KQkq - 1 10,"Qd2, preparing to castle queen side, and then launch pawn storm on black's king side."
+20,Bg7,f8g7,rn1qk2r/1b3pbp/p2ppnp1/1p6/3NP3/1BN1BP2/PPPQ2PP/R3K2R w KQkq - 2 11,"Now a3, safety first, preventing b4 which could be an annoying move."
+21,a3,a2a3,rn1qk2r/1b3pbp/p2ppnp1/1p6/3NP3/PBN1BP2/1PPQ2PP/R3K2R b KQkq - 0 11,"Now a3, safety first, preventing b4 which could be an annoying move."
+22,O-O,e8g8,rn1q1rk1/1b3pbp/p2ppnp1/1p6/3NP3/PBN1BP2/1PPQ2PP/R3K2R w KQ - 1 12,Everything went according to my plan.
+23,O-O-O,e1c1,rn1q1rk1/1b3pbp/p2ppnp1/1p6/3NP3/PBN1BP2/1PPQ2PP/2KR3R b - - 2 12,Everything went according to my plan.
+24,Nc6,b8c6,r2q1rk1/1b3pbp/p1nppnp1/1p6/3NP3/PBN1BP2/1PPQ2PP/2KR3R w - - 3 13,"Frankly speaking, I don't think this move is not accurate, better move would be Nbd7 then Rc8."
+25,Nxc6,d4c6,r2q1rk1/1b3pbp/p1Nppnp1/1p6/4P3/PBN1BP2/1PPQ2PP/2KR3R b - - 0 13,"I could have played Qxd6, win a pawn, but I decided to keep my queen to help the king side attack. Bh6 trading black's dsb (which is one of black's most important defending pieces)."
+26,Bxc6,b7c6,r2q1rk1/5pbp/p1bppnp1/1p6/4P3/PBN1BP2/1PPQ2PP/2KR3R w - - 0 14,"I could have played Qxd6, win a pawn, but I decided to keep my queen to help the king side attack. Bh6 trading black's dsb (which is one of black's most important defending pieces)."
+27,Bh6,e3h6,r2q1rk1/5pbp/p1bppnpB/1p6/4P3/PBN2P2/1PPQ2PP/2KR3R b - - 1 14,"I could have played Qxd6, win a pawn, but I decided to keep my queen to help the king side attack. Bh6 trading black's dsb (which is one of black's most important defending pieces)."
+28,Bxh6,g7h6,r2q1rk1/5p1p/p1bppnpb/1p6/4P3/PBN2P2/1PPQ2PP/2KR3R w - - 0 15,"This move makes sense, connecting his rooks, lining up his queen with my king, also he can now bring a rook to defend his d pawn."
+29,Qxh6,d2h6,r2q1rk1/5p1p/p1bppnpQ/1p6/4P3/PBN2P2/1PP3PP/2KR3R b - - 0 15,"This move makes sense, connecting his rooks, lining up his queen with my king, also he can now bring a rook to defend his d pawn."
+30,Qc7,d8c7,r4rk1/2q2p1p/p1bppnpQ/1p6/4P3/PBN2P2/1PP3PP/2KR3R w - - 1 16,"This move makes sense, connecting his rooks, lining up his queen with my king, also he can now bring a rook to defend his d pawn."
+31,h4,h2h4,r4rk1/2q2p1p/p1bppnpQ/1p6/4P2P/PBN2P2/1PP3P1/2KR3R b - - 0 16,Here it goes!
+32,Kh8,g8h8,r4r1k/2q2p1p/p1bppnpQ/1p6/4P2P/PBN2P2/1PP3P1/2KR3R w - - 1 17,"With this move, black is now planning to play Ng8, protecting the weak dark squares."
+33,g4,g2g4,r4r1k/2q2p1p/p1bppnpQ/1p6/4P1PP/PBN2P2/1PP5/2KR3R b - - 0 17,My pawns are rolling.
+34,Ng8,f6g8,r4rnk/2q2p1p/p1bpp1pQ/1p6/4P1PP/PBN2P2/1PP5/2KR3R w - - 1 18,"Qf4, provoking e5, so that black would have a weak d pawn."
+35,Qf4,h6f4,r4rnk/2q2p1p/p1bpp1p1/1p6/4PQPP/PBN2P2/1PP5/2KR3R b - - 2 18,"Qf4, provoking e5, so that black would have a weak d pawn."
+36,e5,e6e5,r4rnk/2q2p1p/p1bp2p1/1p2p3/4PQPP/PBN2P2/1PP5/2KR3R w - - 0 19,And it happened.
+37,Qd2,f4d2,r4rnk/2q2p1p/p1bp2p1/1p2p3/4P1PP/PBN2P2/1PPQ4/2KR3R b - - 1 19,"Qd2. Retreating my queen, also attacks black's d pawn."
+38,Rfd8,f8d8,r2r2nk/2q2p1p/p1bp2p1/1p2p3/4P1PP/PBN2P2/1PPQ4/2KR3R w - - 2 20,I carried on with the attack on black's kind side.
+39,h5,h4h5,r2r2nk/2q2p1p/p1bp2p1/1p2p2P/4P1P1/PBN2P2/1PPQ4/2KR3R b - - 0 20,I carried on with the attack on black's kind side.

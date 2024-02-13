@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"dont usually play against this opening very often, continued with a plan for a strong centre"
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"dont usually play against this opening very often, continued with a plan for a strong centre"
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,in an effort to play e5 to start undermining the central pawns
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,in an effort to play e5 to start undermining the central pawns
+5,Nf3,g1f3,rnbqk1nr/ppppppbp/6p1/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,in an effort to play e5 to start undermining the central pawns
+6,d6,d7d6,rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,in an effort to play e5 to start undermining the central pawns
+7,Nc3,b1c3,rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,i thought this was weak because it allows e4 which removes the knight and blocks the bishop in
+8,Nf6,g8f6,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5,i thought this was weak because it allows e4 which removes the knight and blocks the bishop in
+9,e5,e4e5,rnbqk2r/ppp1ppbp/3p1np1/4P3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,"this move secures blacks knight in place and it cannot be attacked, this move allows me to build a very rapid attack as black needs to both attack this piece and defend his own"
+10,dxe5,d6e5,rnbqk2r/ppp1ppbp/5np1/4p3/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,"this move secures blacks knight in place and it cannot be attacked, this move allows me to build a very rapid attack as black needs to both attack this piece and defend his own"
+11,Nxe5,f3e5,rnbqk2r/ppp1ppbp/5np1/4N3/3P4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6,"this move secures blacks knight in place and it cannot be attacked, this move allows me to build a very rapid attack as black needs to both attack this piece and defend his own"
+12,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/4N3/3P4/2N5/PPP2PPP/R1BQKB1R w KQ - 1 7,"continuing the attack in particular f7 which has now become another worry for black, im now considering queen f3 which agains threatens f7, black needs to defend fast and correctly"
+13,Bc4,f1c4,rnbq1rk1/ppp1ppbp/5np1/4N3/2BP4/2N5/PPP2PPP/R1BQK2R b KQ - 2 7,"continuing the attack in particular f7 which has now become another worry for black, im now considering queen f3 which agains threatens f7, black needs to defend fast and correctly"
+14,e6,e7e6,rnbq1rk1/ppp2pbp/4pnp1/4N3/2BP4/2N5/PPP2PPP/R1BQK2R w KQ - 0 8,"not a bad move but it leaves black a little undeveloped and traps a good defensive piece, the bishop on c8!"
+15,Bg5,c1g5,rnbq1rk1/ppp2pbp/4pnp1/4N1B1/2BP4/2N5/PPP2PPP/R2QK2R b KQ - 1 8,now anchoring that knight in place adding to the threats
+16,Nbd7,b8d7,r1bq1rk1/pppn1pbp/4pnp1/4N1B1/2BP4/2N5/PPP2PPP/R2QK2R w KQ - 2 9,i kind of blew my advantage here and the computer agreed
+17,Nxd7,e5d7,r1bq1rk1/pppN1pbp/4pnp1/6B1/2BP4/2N5/PPP2PPP/R2QK2R b KQ - 0 9,"the computer said
+
+(+0.54) ALTERNATIVE - You slipped from a better position to an equal one. You should have played 9. O-O
+
+i now agree because if he took on e5 i would be attacking a pinned piece in a weak defensive structure"
+18,Qxd7,d8d7,r1b2rk1/pppq1pbp/4pnp1/6B1/2BP4/2N5/PPP2PPP/R2QK2R w KQ - 0 10,finally trying to get the bishop out
+19,O-O,e1g1,r1b2rk1/pppq1pbp/4pnp1/6B1/2BP4/2N5/PPP2PPP/R2Q1RK1 b - - 1 10,finally trying to get the bishop out
+20,b6,b7b6,r1b2rk1/p1pq1pbp/1p2pnp1/6B1/2BP4/2N5/PPP2PPP/R2Q1RK1 w - - 0 11,finally trying to get the bishop out
+21,Qf3,d1f3,r1b2rk1/p1pq1pbp/1p2pnp1/6B1/2BP4/2N2Q2/PPP2PPP/R4RK1 b - - 1 11,"queen f3 now threatening bxf6, it also stop the development of the bishop and he is forced to defend or move his rook"
+22,c6,c7c6,r1b2rk1/p2q1pbp/1pp1pnp1/6B1/2BP4/2N2Q2/PPP2PPP/R4RK1 w - - 0 12,"blunder! traps the bishop, fails to defend the threat ,need i say more"
+23,Bxf6,g5f6,r1b2rk1/p2q1pbp/1pp1pBp1/8/2BP4/2N2Q2/PPP2PPP/R4RK1 b - - 0 12,"threatens my queen, and finally gets the bishop to a square where it can maybe develop by using a mild tempo of c5. but its a little too late im the exchange up and im going to take my advantage right into the end of the midgame"
+24,Bb7,c8b7,r4rk1/pb1q1pbp/1pp1pBp1/8/2BP4/2N2Q2/PPP2PPP/R4RK1 w - - 1 13,"threatens my queen, and finally gets the bishop to a square where it can maybe develop by using a mild tempo of c5. but its a little too late im the exchange up and im going to take my advantage right into the end of the midgame"
+25,Bxg7,f6g7,r4rk1/pb1q1pBp/1pp1p1p1/8/2BP4/2N2Q2/PPP2PPP/R4RK1 b - - 0 13,just trading down
+26,Kxg7,g8g7,r4r2/pb1q1pkp/1pp1p1p1/8/2BP4/2N2Q2/PPP2PPP/R4RK1 w - - 0 14,supporting my advanced pawn
+27,Rad1,a1d1,r4r2/pb1q1pkp/1pp1p1p1/8/2BP4/2N2Q2/PPP2PPP/3R1RK1 b - - 1 14,supporting my advanced pawn
+28,b5,b6b5,r4r2/pb1q1pkp/2p1p1p1/1p6/2BP4/2N2Q2/PPP2PPP/3R1RK1 w - - 0 15,attacking the bishop on the queen side his pieces arent well developed enough to support these attacks and i simply neutralise the threats
+29,Bb3,c4b3,r4r2/pb1q1pkp/2p1p1p1/1p6/3P4/1BN2Q2/PPP2PPP/3R1RK1 b - - 1 15,"a4 and he resigned, the position is pretty much neutralised now. the attack on the queenside didnt deter my attacking initiative and the piece advantage would have secured me an easy win.
+
+Continuation:
+b4, Ne5, C5, D5, exD5...."
+30,a5,a7a5,r4r2/1b1q1pkp/2p1p1p1/pp6/3P4/1BN2Q2/PPP2PPP/3R1RK1 w - - 0 16,"a4 and he resigned, the position is pretty much neutralised now. the attack on the queenside didnt deter my attacking initiative and the piece advantage would have secured me an easy win.
+
+Continuation:
+b4, Ne5, C5, D5, exD5...."
+31,a4,a2a4,r4r2/1b1q1pkp/2p1p1p1/pp6/P2P4/1BN2Q2/1PP2PPP/3R1RK1 b - - 0 16,"a4 and he resigned, the position is pretty much neutralised now. the attack on the queenside didnt deter my attacking initiative and the piece advantage would have secured me an easy win.
+
+Continuation:
+b4, Ne5, C5, D5, exD5...."

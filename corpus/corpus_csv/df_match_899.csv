@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Odd move, don't do that."
+2,f6,f7f6,rnbqkbnr/ppppp1pp/5p2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Odd move, don't do that."
+3,Bf4,c1f4,rnbqkbnr/ppppp1pp/5p2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"g5 is still possible, but it doesn't go well for black (told by experience)."
+4,d6,d7d6,rnbqkbnr/ppp1p1pp/3p1p2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"g5 is still possible, but it doesn't go well for black (told by experience)."
+5,Nf3,g1f3,rnbqkbnr/ppp1p1pp/3p1p2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"g5 is still possible, but it doesn't go well for black (told by experience)."
+6,Bf5,c8f5,rn1qkbnr/ppp1p1pp/3p1p2/5b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,Threatening e4.
+7,Nbd2,b1d2,rn1qkbnr/ppp1p1pp/3p1p2/5b2/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 3 4,Threatening e4.
+8,Nc6,b8c6,r2qkbnr/ppp1p1pp/2np1p2/5b2/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 4 5,"Not ""seeing"" it."
+9,e3,e2e3,r2qkbnr/ppp1p1pp/2np1p2/5b2/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 0 5,? Stupidly leaving e4.
+10,Qd7,d8d7,r3kbnr/pppqp1pp/2np1p2/5b2/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 1 6,Clearing the way for castling and supporting his lsb. Black here misses a much better move: can you spot it?
+11,h3,h2h3,r3kbnr/pppqp1pp/2np1p2/5b2/3P1B2/4PN1P/PPPN1PP1/R2QKB1R b KQkq - 0 6,"? Starting a ""standard"" plan, without looking carefully to the board. e4 was still possible! (...and necessary, since Nb4 would have been very unconfortable for white!)"
+12,d5,d6d5,r3kbnr/pppqp1pp/2n2p2/3p1b2/3P1B2/4PN1P/PPPN1PP1/R2QKB1R w KQkq - 0 7,"Finally stops e4, at the cost of a tempo. He is also freeing the way for his dsb. Prepares Nb4, in a way."
+13,g4,g2g4,r3kbnr/pppqp1pp/2n2p2/3p1b2/3P1BP1/4PN1P/PPPN1P2/R2QKB1R b KQkq - 0 7,"Standard attack, giving up kingside castling perspectives at all."
+14,Be4,f5e4,r3kbnr/pppqp1pp/2n2p2/3p4/3PbBP1/4PN1P/PPPN1P2/R2QKB1R w KQkq - 1 8,"This ""wonderful"" Bishop can be easily controlled by white, who just leaves it there."
+15,Rh2,h1h2,r3kbnr/pppqp1pp/2n2p2/3p4/3PbBP1/4PN1P/PPPN1P1R/R2QKB2 b Qkq - 2 8,"BxN, NxN would be very fine for me. So black has a wonderful piece... Now. But white can exchange it when he wants, making Nb4 almost useless. Black has Nb5, but in that case I (white) plays NxB, then Nf3-d2, and everything's ok."
+16,f5,f6f5,r3kbnr/pppqp1pp/2n5/3p1p2/3PbBP1/4PN1P/PPPN1P1R/R2QKB2 w Qkq - 0 9,What an aggressive move! Nice! Of course it uncovers the kingside.
+17,Ne5,f3e5,r3kbnr/pppqp1pp/2n5/3pNp2/3PbBP1/4P2P/PPPN1P1R/R2QKB2 b Qkq - 1 9,"Eliminating the Nb4 jump, and setting a nasty threat on black. Which one?"
+18,Nxe5,c6e5,r3kbnr/pppqp1pp/8/3pnp2/3PbBP1/4P2P/PPPN1P1R/R2QKB2 w Qkq - 0 10,"After white retakes, black must be aware of a trapped B... did you realize it?"
+19,Bxe5,f4e5,r3kbnr/pppqp1pp/8/3pBp2/3Pb1P1/4P2P/PPPN1P1R/R2QKB2 b Qkq - 0 10,"Normally I take it with the pawn, but in this case, this B here is a monster, since no pawn nor N can exchange it, and black's dsb is condemned to g7's defence for some time."
+20,O-O-O,e8c8,2kr1bnr/pppqp1pp/8/3pBp2/3Pb1P1/4P2P/PPPN1P1R/R2QKB2 w Q - 1 11,"! ...or it should be. Black gives his K a remote fortress instead of the useless fxg4. g5 would have been an option, or e6 - Bd6. But before those plans can be even considered, black should have taken care of white's f3, that traps the ""wonderful"" bishop."
+21,c4,c2c4,2kr1bnr/pppqp1pp/8/3pBp2/2PPb1P1/4P2P/PP1N1P1R/R2QKB2 b Q - 0 11,"I ovelooked it! Instead, I started right away the queenside attack. No reason to lose time: dxc4, Bxc4, and d4 is still solid."
+22,e6,e7e6,2kr1bnr/pppq2pp/4p3/3pBp2/2PPb1P1/4P2P/PP1N1P1R/R2QKB2 w Q - 0 12,"Right, and I have to be careful about a possible / future Bb4(+), so I preferred to... (still ignoring f3, which may have came to be a better choice than to take it)."
+23,c5,c4c5,2kr1bnr/pppq2pp/4p3/2PpBp2/3Pb1P1/4P2P/PP1N1P1R/R2QKB2 b Q - 0 12,"This works because after f6, white can still attack via a Ba6 sac at some point."
+24,Qf7,d7f7,2kr1bnr/ppp2qpp/4p3/2PpBp2/3Pb1P1/4P2P/PP1N1P1R/R2QKB2 w Q - 1 13,"? No, wrong direction. Black doesn't have time for counterattack on f2. And still doesn't see the potentially trapped B."

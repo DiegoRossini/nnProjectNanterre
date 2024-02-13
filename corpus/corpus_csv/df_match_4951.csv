@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Right away, I go out of ""book""."
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Right away, I go out of ""book""."
+3,d4,d2d4,rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Completing the fianchetto while my opponent forms a so-called ""ideal center""."
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"Completing the fianchetto while my opponent forms a so-called ""ideal center""."
+5,Nc3,b1c3,rn1qkbnr/pbpppppp/1p6/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,Opening a line to develop my other B.
+6,e6,e7e6,rn1qkbnr/pbpp1ppp/1p2p3/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Opening a line to develop my other B.
+7,Bd3,f1d3,rn1qkbnr/pbpp1ppp/1p2p3/8/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 1 4,Continuing logically.
+8,Nf6,g8f6,rn1qkb1r/pbpp1ppp/1p2pn2/8/3PP3/2NB4/PPP2PPP/R1BQK1NR w KQkq - 2 5,Continuing logically.
+9,Bg5,c1g5,rn1qkb1r/pbpp1ppp/1p2pn2/6B1/3PP3/2NB4/PPP2PPP/R2QK1NR b KQkq - 3 5,Cutting off the pin.
+10,Be7,f8e7,rn1qk2r/pbppbppp/1p2pn2/6B1/3PP3/2NB4/PPP2PPP/R2QK1NR w KQkq - 4 6,Cutting off the pin.
+11,e5,e4e5,rn1qk2r/pbppbppp/1p2pn2/4P1B1/3P4/2NB4/PPP2PPP/R2QK1NR b KQkq - 0 6,"With a somewhat cramped position, exchanges are welcome."
+12,Nd5,f6d5,rn1qk2r/pbppbppp/1p2p3/3nP1B1/3P4/2NB4/PPP2PPP/R2QK1NR w KQkq - 1 7,"With a somewhat cramped position, exchanges are welcome."
+13,Nxd5,c3d5,rn1qk2r/pbppbppp/1p2p3/3NP1B1/3P4/3B4/PPP2PPP/R2QK1NR b KQkq - 0 7,First one...
+14,Bxd5,b7d5,rn1qk2r/p1ppbppp/1p2p3/3bP1B1/3P4/3B4/PPP2PPP/R2QK1NR w KQkq - 0 8,First one...
+15,Bxe7,g5e7,rn1qk2r/p1ppBppp/1p2p3/3bP3/3P4/3B4/PPP2PPP/R2QK1NR b KQkq - 0 8,"...and now two sets of minor pieces vanish. White should now play either 9 N-B3 or 9 P-KB3 [preferably the former, as it develops a piece on its natural square]..."
+16,Qxe7,d8e7,rn2k2r/p1ppqppp/1p2p3/3bP3/3P4/3B4/PPP2PPP/R2QK1NR w KQkq - 0 9,"...and now two sets of minor pieces vanish. White should now play either 9 N-B3 or 9 P-KB3 [preferably the former, as it develops a piece on its natural square]..."
+17,c4,c2c4,rn2k2r/p1ppqppp/1p2p3/3bP3/2PP4/3B4/PP3PPP/R2QK1NR b KQkq - 0 9,"...to prevent this move, winning the Rook."
+18,Bxg2,d5g2,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B4/PP3PbP/R2QK1NR w KQkq - 0 10,"...to prevent this move, winning the Rook."
+19,Nf3,g1f3,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B1N2/PP3PbP/R2QK2R b KQkq - 1 10,"Now I threaten to exchange off another set of minor pieces. With my material advantage, trading down is in my favor."
+20,Bxh1,g2h1,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B1N2/PP3P1P/R2QK2b w Qkq - 0 11,"Now I threaten to exchange off another set of minor pieces. With my material advantage, trading down is in my favor."
+21,Kd2,e1d2,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B1N2/PP1K1P1P/R2Q3b b kq - 1 11,And here is the exchange.
+22,Bxf3,h1f3,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B1b2/PP1K1P1P/R2Q4 w kq - 0 12,And here is the exchange.
+23,Qxf3,d1f3,rn2k2r/p1ppqppp/1p2p3/4P3/2PP4/3B1Q2/PP1K1P1P/R7 b kq - 0 12,Clearing the back rank and preparing to castle.
+24,Nc6,b8c6,r3k2r/p1ppqppp/1pn1p3/4P3/2PP4/3B1Q2/PP1K1P1P/R7 w kq - 1 13,Clearing the back rank and preparing to castle.
+25,d5,d4d5,r3k2r/p1ppqppp/1pn1p3/3PP3/2P5/3B1Q2/PP1K1P1P/R7 b kq - 0 13,Winning more material and forcing the last minors off the board.
+26,Nxe5,c6e5,r3k2r/p1ppqppp/1p2p3/3Pn3/2P5/3B1Q2/PP1K1P1P/R7 w kq - 0 14,Winning more material and forcing the last minors off the board.
+27,Qe2,f3e2,r3k2r/p1ppqppp/1p2p3/3Pn3/2P5/3B4/PP1KQP1P/R7 b kq - 1 14,The final swap.
+28,Nxd3,e5d3,r3k2r/p1ppqppp/1p2p3/3P4/2P5/3n4/PP1KQP1P/R7 w kq - 0 15,The final swap.
+29,Qxd3,e2d3,r3k2r/p1ppqppp/1p2p3/3P4/2P5/3Q4/PP1K1P1P/R7 b kq - 0 15,Securing my King.
+30,O-O-O,e8c8,2kr3r/p1ppqppp/1p2p3/3P4/2P5/3Q4/PP1K1P1P/R7 w - - 1 16,Securing my King.
+31,Re1,a1e1,2kr3r/p1ppqppp/1p2p3/3P4/2P5/3Q4/PP1K1P1P/4R3 b - - 2 16,Preparing to simplify down again.
+32,Qd6,e7d6,2kr3r/p1pp1ppp/1p1qp3/3P4/2P5/3Q4/PP1K1P1P/4R3 w - - 3 17,Preparing to simplify down again.
+33,b3,b2b3,2kr3r/p1pp1ppp/1p1qp3/3P4/2P5/1P1Q4/P2K1P1P/4R3 b - - 0 17,"Threatening 18... PxP forcing an exchange of major pieces [if White moves his Rook, 19... PxP forces the Queens off the board.] White resigns."
+34,Rhe8,h8e8,2krr3/p1pp1ppp/1p1qp3/3P4/2P5/1P1Q4/P2K1P1P/4R3 w - - 1 18,"Threatening 18... PxP forcing an exchange of major pieces [if White moves his Rook, 19... PxP forces the Queens off the board.] White resigns."

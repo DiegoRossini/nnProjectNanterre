@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Avoiding c4 and my Budapest-at-test. This is not a good move for white, but it is not straight forward to prove it."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Avoiding c4 and my Budapest-at-test. This is not a good move for white, but it is not straight forward to prove it."
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,"Avoiding c4 and my Budapest-at-test. This is not a good move for white, but it is not straight forward to prove it."
+4,b6,b7b6,rnbqkb1r/p1pppppp/1p3n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,"Passively taking a good diagonal. But white has few problems coping with that. The fianchetto has the disadvantage of being announced, so the opponent has time to move according to it."
+5,e4,e2e4,rnbqkb1r/p1pppppp/1p3n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Already threatening an annoying e5.
+6,d6,d7d6,rnbqkb1r/p1p1pppp/1p1p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"Well, this must be a mistake, but let's my opponent prove it."
+7,Bg5,c1g5,rnbqkb1r/p1p1pppp/1p1p1n2/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 1 4,"A doubled pawn is not a problem in this position, even if he cramps me a little."
+8,Nbd7,b8d7,r1bqkb1r/p1pnpppp/1p1p1n2/6B1/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 2 5,The bishop has to go to b7 anyway.
+9,Bb5,f1b5,r1bqkb1r/p1pnpppp/1p1p1n2/1B4B1/3PP3/2N5/PPP2PPP/R2QK1NR b KQkq - 3 5,Foreseen.
+10,Bb7,c8b7,r2qkb1r/pbpnpppp/1p1p1n2/1B4B1/3PP3/2N5/PPP2PPP/R2QK1NR w KQkq - 4 6,Now I threaten c6. He can take the knight and the other one and double my pawns... so what?
+11,Bxf6,g5f6,r2qkb1r/pbpnpppp/1p1p1B2/1B6/3PP3/2N5/PPP2PPP/R2QK1NR b KQkq - 0 6,"Good move, in order to control my bishop. Ok. But..."
+12,exf6,e7f6,r2qkb1r/pbpn1ppp/1p1p1p2/1B6/3PP3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 7,"Good move, in order to control my bishop. Ok. But..."
+13,d5,d4d5,r2qkb1r/pbpn1ppp/1p1p1p2/1B1P4/4P3/2N5/PPP2PPP/R2QK1NR b KQkq - 0 7,"Good move, in order to control my bishop. Ok. But..."
+14,a6,a7a6,r2qkb1r/1bpn1ppp/pp1p1p2/1B1P4/4P3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 8,The bishop will be chased away (or exchanged) anyway from the other side. I don't bother to advance the a and b pawns here. Should I?
+15,Bd3,b5d3,r2qkb1r/1bpn1ppp/pp1p1p2/3P4/4P3/2NB4/PPP2PPP/R2QK1NR b KQkq - 1 8,"Now my knight seems to have a nice post on e5, but I must be careful since it can be kicked away with f4. NxB, under this circumstance, is not a wise move, since the white bishop is still almost useless."
+16,g6,g7g6,r2qkb1r/1bpn1p1p/pp1p1pp1/3P4/4P3/2NB4/PPP2PPP/R2QK1NR w KQkq - 0 9,"...and it will bite on granite. Moreover, I leave room for my dsb to h6. A pretty unusual development scheme."
+17,Nf3,g1f3,r2qkb1r/1bpn1p1p/pp1p1pp1/3P4/4P3/2NB1N2/PPP2PPP/R2QK2R b KQkq - 1 9,Here white should have played f4.
+18,Bh6,f8h6,r2qk2r/1bpn1p1p/pp1p1ppb/3P4/4P3/2NB1N2/PPP2PPP/R2QK2R w KQkq - 2 10,"I have plenty of pieces on the kingside, and if he doesn't free them with e5 very soon, his pieces would be less active than mine."
+19,O-O,e1g1,r2qk2r/1bpn1p1p/pp1p1ppb/3P4/4P3/2NB1N2/PPP2PPP/R2Q1RK1 b kq - 3 10,"I have plenty of pieces on the kingside, and if he doesn't free them with e5 very soon, his pieces would be less active than mine."
+20,Ne5,d7e5,r2qk2r/1bp2p1p/pp1p1ppb/3Pn3/4P3/2NB1N2/PPP2PPP/R2Q1RK1 w kq - 4 11,Preparing a free way for the lsb.
+21,Nxe5,f3e5,r2qk2r/1bp2p1p/pp1p1ppb/3PN3/4P3/2NB4/PPP2PPP/R2Q1RK1 b kq - 0 11,"Now my pawns are ok, and white's kingside is weak."
+22,fxe5,f6e5,r2qk2r/1bp2p1p/pp1p2pb/3Pp3/4P3/2NB4/PPP2PPP/R2Q1RK1 w kq - 0 12,"Now my pawns are ok, and white's kingside is weak."
+23,Qg4,d1g4,r2qk2r/1bp2p1p/pp1p2pb/3Pp3/4P1Q1/2NB4/PPP2PPP/R4RK1 b kq - 1 12,...because of this.
+24,Bc8,b7c8,r1bqk2r/2p2p1p/pp1p2pb/3Pp3/4P1Q1/2NB4/PPP2PPP/R4RK1 w kq - 2 13,...because of this.
+25,Qf3,g4f3,r1bqk2r/2p2p1p/pp1p2pb/3Pp3/4P3/2NB1Q2/PPP2PPP/R4RK1 b kq - 3 13,"Here, castling is an attacking move. The break in f5 is on the agenda."
+26,O-O,e8g8,r1bq1rk1/2p2p1p/pp1p2pb/3Pp3/4P3/2NB1Q2/PPP2PPP/R4RK1 w - - 4 14,"Here, castling is an attacking move. The break in f5 is on the agenda."
+27,a4,a2a4,r1bq1rk1/2p2p1p/pp1p2pb/3Pp3/P3P3/2NB1Q2/1PP2PPP/R4RK1 b - - 0 14,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+28,f5,f7f5,r1bq1rk1/2p4p/pp1p2pb/3Ppp2/P3P3/2NB1Q2/1PP2PPP/R4RK1 w - - 0 15,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+29,exf5,e4f5,r1bq1rk1/2p4p/pp1p2pb/3PpP2/P7/2NB1Q2/1PP2PPP/R4RK1 b - - 0 15,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+30,Bxf5,c8f5,r2q1rk1/2p4p/pp1p2pb/3Ppb2/P7/2NB1Q2/1PP2PPP/R4RK1 w - - 0 16,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+31,Ne4,c3e4,r2q1rk1/2p4p/pp1p2pb/3Ppb2/P3N3/3B1Q2/1PP2PPP/R4RK1 b - - 1 16,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+32,Qd7,d8d7,r4rk1/2pq3p/pp1p2pb/3Ppb2/P3N3/3B1Q2/1PP2PPP/R4RK1 w - - 2 17,"Reinforcing my dominiom of the white square, and supporting the strong-looking Bg4. Why I choosed this instead of many other ways to proceed? A good question. It was pure instinct, I must be sincere. Was I right?"
+33,Ng3,e4g3,r4rk1/2pq3p/pp1p2pb/3Ppb2/P7/3B1QN1/1PP2PPP/R4RK1 b - - 3 17,"If BxB, the queen just retakes, and black has just an edge. This way I looked for something more active... and I prepared it before!"
+34,Bg4,f5g4,r4rk1/2pq3p/pp1p2pb/3Pp3/P5b1/3B1QN1/1PP2PPP/R4RK1 w - - 4 18,"If BxB, the queen just retakes, and black has just an edge. This way I looked for something more active... and I prepared it before!"

@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Scandinavian
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Scandinavian
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Scandinavian
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,supports the d pawn and opens a small line to a5 for my queen but restricts the options for my knight
+5,d3,d2d3,rnbqkbnr/pp2pppp/2p5/3p4/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 0 3,This seems a little passive to me although it is still a part of the opening
+6,d4,d5d4,rnbqkbnr/pp2pppp/2p5/8/3pP3/2NP4/PPP2PPP/R1BQKBNR w KQkq - 0 4,pushing the white knight away
+7,Na4,c3a4,rnbqkbnr/pp2pppp/2p5/8/N2pP3/3P4/PPP2PPP/R1BQKBNR b KQkq - 1 4,Nce2 is surely better. This move eventually loses the knight
+8,e5,e7e5,rnbqkbnr/pp3ppp/2p5/4p3/N2pP3/3P4/PPP2PPP/R1BQKBNR w KQkq - 0 5,propping up my d pawn and opening lines for my dsb
+9,a3,a2a3,rnbqkbnr/pp3ppp/2p5/4p3/N2pP3/P2P4/1PP2PPP/R1BQKBNR b KQkq - 0 5,protecting the g4 square
+10,Nf6,g8f6,rnbqkb1r/pp3ppp/2p2n2/4p3/N2pP3/P2P4/1PP2PPP/R1BQKBNR w KQkq - 1 6,protecting the g4 square
+11,h3,h2h3,rnbqkb1r/pp3ppp/2p2n2/4p3/N2pP3/P2P3P/1PP2PP1/R1BQKBNR b KQkq - 0 6,protecting the g4 square
+12,b5,b7b5,rnbqkb1r/p4ppp/2p2n2/1p2p3/N2pP3/P2P3P/1PP2PP1/R1BQKBNR w KQkq - 0 7,There he goes
+13,c4,c2c4,rnbqkb1r/p4ppp/2p2n2/1p2p3/N1PpP3/P2P3P/1P3PP1/R1BQKBNR b KQkq c3 0 7,This closes up the centre completely
+14,bxa4,b5a4,rnbqkb1r/p4ppp/2p2n2/4p3/p1PpP3/P2P3P/1P3PP1/R1BQKBNR w KQkq - 0 8,Preparing to castle
+15,Qxa4,d1a4,rnbqkb1r/p4ppp/2p2n2/4p3/Q1PpP3/P2P3P/1P3PP1/R1B1KBNR b KQkq - 0 8,Preparing to castle
+16,Bd6,f8d6,rnbqk2r/p4ppp/2pb1n2/4p3/Q1PpP3/P2P3P/1P3PP1/R1B1KBNR w KQkq - 1 9,Preparing to castle
+17,Bg5,c1g5,rnbqk2r/p4ppp/2pb1n2/4p1B1/Q1PpP3/P2P3P/1P3PP1/R3KBNR b KQkq - 2 9,"looking for a revealed attack on the white queen, the centre is completely closed up so c5 will make little difference"
+18,Bd7,c8d7,rn1qk2r/p2b1ppp/2pb1n2/4p1B1/Q1PpP3/P2P3P/1P3PP1/R3KBNR w KQkq - 3 10,"looking for a revealed attack on the white queen, the centre is completely closed up so c5 will make little difference"
+19,Nf3,g1f3,rn1qk2r/p2b1ppp/2pb1n2/4p1B1/Q1PpP3/P2P1N1P/1P3PP1/R3KB1R b KQkq - 4 10,I was expecting Qc2 or d1 to allow the queen to swap to the kingside for an assault on my king
+20,c5,c6c5,rn1qk2r/p2b1ppp/3b1n2/2p1p1B1/Q1PpP3/P2P1N1P/1P3PP1/R3KB1R w KQkq - 0 11,I was expecting Qc2 or d1 to allow the queen to swap to the kingside for an assault on my king
+21,Qb3,a4b3,rn1qk2r/p2b1ppp/3b1n2/2p1p1B1/2PpP3/PQ1P1N1P/1P3PP1/R3KB1R b KQkq - 1 11,I was expecting Qc2 or d1 to allow the queen to swap to the kingside for an assault on my king
+22,O-O,e8g8,rn1q1rk1/p2b1ppp/3b1n2/2p1p1B1/2PpP3/PQ1P1N1P/1P3PP1/R3KB1R w KQ - 2 12,I really can't see the point of this move it sidelines the knight
+23,Nh4,f3h4,rn1q1rk1/p2b1ppp/3b1n2/2p1p1B1/2PpP2N/PQ1P3P/1P3PP1/R3KB1R b KQ - 3 12,I really can't see the point of this move it sidelines the knight
+24,h6,h7h6,rn1q1rk1/p2b1pp1/3b1n1p/2p1p1B1/2PpP2N/PQ1P3P/1P3PP1/R3KB1R w KQ - 0 13,now I am expecting the knight to move back to where it was
+25,Bxf6,g5f6,rn1q1rk1/p2b1pp1/3b1B1p/2p1p3/2PpP2N/PQ1P3P/1P3PP1/R3KB1R b KQ - 0 13,now I am expecting the knight to move back to where it was
+26,Qxf6,d8f6,rn3rk1/p2b1pp1/3b1q1p/2p1p3/2PpP2N/PQ1P3P/1P3PP1/R3KB1R w KQ - 0 14,now I am expecting the knight to move back to where it was
+27,g3,g2g3,rn3rk1/p2b1pp1/3b1q1p/2p1p3/2PpP2N/PQ1P2PP/1P3P2/R3KB1R b KQ - 0 14,If black is intending to castle kings side he could be in big trouble
+28,Bc7,d6c7,rn3rk1/p1bb1pp1/5q1p/2p1p3/2PpP2N/PQ1P2PP/1P3P2/R3KB1R w KQ - 1 15,"Looking to get my dsb into a better position, from here I can try to force the king to move so that he cannot castle"
+29,Qb7,b3b7,rn3rk1/pQbb1pp1/5q1p/2p1p3/2PpP2N/P2P2PP/1P3P2/R3KB1R b KQ - 2 15,This is a mistake for white as we wlll see
+30,Ba5+,c7a5,rn3rk1/pQ1b1pp1/5q1p/b1p1p3/2PpP2N/P2P2PP/1P3P2/R3KB1R w KQ - 3 16,taking the only undefended piece away from the white queen
+31,b4,b2b4,rn3rk1/pQ1b1pp1/5q1p/b1p1p3/1PPpP2N/P2P2PP/5P2/R3KB1R b KQ - 0 16,White's greed has lost him his queen and my lsb is also now on a really nice diagonal
+32,Bc6,d7c6,rn3rk1/pQ3pp1/2b2q1p/b1p1p3/1PPpP2N/P2P2PP/5P2/R3KB1R w KQ - 1 17,White's greed has lost him his queen and my lsb is also now on a really nice diagonal
+33,Qxa8,b7a8,Qn3rk1/p4pp1/2b2q1p/b1p1p3/1PPpP2N/P2P2PP/5P2/R3KB1R b KQ - 0 17,Looking to finally get my knight into action I am aiming at the area in front of the white king via a5
+34,Bxa8,c6a8,bn3rk1/p4pp1/5q1p/b1p1p3/1PPpP2N/P2P2PP/5P2/R3KB1R w KQ - 0 18,Looking to finally get my knight into action I am aiming at the area in front of the white king via a5
+35,bxa5,b4a5,bn3rk1/p4pp1/5q1p/P1p1p3/2PpP2N/P2P2PP/5P2/R3KB1R b KQ - 0 18,Looking to finally get my knight into action I am aiming at the area in front of the white king via a5
+36,Nc6,b8c6,b4rk1/p4pp1/2n2q1p/P1p1p3/2PpP2N/P2P2PP/5P2/R3KB1R w KQ - 1 19,Looking to finally get my knight into action I am aiming at the area in front of the white king via a5

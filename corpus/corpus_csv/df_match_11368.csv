@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My old start out.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Expected e6 but o well.
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/8/4P3/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"Move queen out for 2 possible moves: 4-move-checkmate OR black g6 then take pond, check him, and take rook."
+4,Nh6,g8h6,rnbqkb1r/pppp1ppp/7n/4p2Q/8/4P3/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Black doesnt do what I was hoping for.
+5,d3,d2d3,rnbqkb1r/pppp1ppp/7n/4p2Q/8/3PP3/PPP2PPP/RNB1KBNR b KQkq - 0 3,Allows development and protects e5.
+6,Bd6,f8d6,rnbqk2r/pppp1ppp/3b3n/4p2Q/8/3PP3/PPP2PPP/RNB1KBNR w KQkq - 1 4,Allows development and protects e5.
+7,e4,e3e4,rnbqk2r/pppp1ppp/3b3n/4p2Q/4P3/3P4/PPP2PPP/RNB1KBNR b KQkq - 0 4,Allows development and stops e5 pond from moving foward.
+8,Nc6,b8c6,r1bqk2r/pppp1ppp/2nb3n/4p2Q/4P3/3P4/PPP2PPP/RNB1KBNR w KQkq - 1 5,Takes knight and doubles the pond.
+9,Bxh6,c1h6,r1bqk2r/pppp1ppp/2nb3B/4p2Q/4P3/3P4/PPP2PPP/RN2KBNR b KQkq - 0 5,Takes knight and doubles the pond.
+10,gxh6,g7h6,r1bqk2r/pppp1p1p/2nb3p/4p2Q/4P3/3P4/PPP2PPP/RN2KBNR w KQkq - 0 6,A simple block but  think I would have been better moving my knight to c3 or d2.
+11,Qxh6,h5h6,r1bqk2r/pppp1p1p/2nb3Q/4p3/4P3/3P4/PPP2PPP/RN2KBNR b KQkq - 0 6,A simple block but  think I would have been better moving my knight to c3 or d2.
+12,Bb4+,d6b4,r1bqk2r/pppp1p1p/2n4Q/4p3/1b2P3/3P4/PPP2PPP/RN2KBNR w KQkq - 1 7,A simple block but  think I would have been better moving my knight to c3 or d2.
+13,c3,c2c3,r1bqk2r/pppp1p1p/2n4Q/4p3/1b2P3/2PP4/PP3PPP/RN2KBNR b KQkq - 0 7,A simple block but  think I would have been better moving my knight to c3 or d2.
+14,Ba5,b4a5,r1bqk2r/pppp1p1p/2n4Q/b3p3/4P3/2PP4/PP3PPP/RN2KBNR w KQkq - 1 8,Pressuring a5.
+15,b4,b2b4,r1bqk2r/pppp1p1p/2n4Q/b3p3/1P2P3/2PP4/P4PPP/RN2KBNR b KQkq - 0 8,Pressuring a5.
+16,Bb6,a5b6,r1bqk2r/pppp1p1p/1bn4Q/4p3/1P2P3/2PP4/P4PPP/RN2KBNR w KQkq - 1 9,Somethings I froget what I was doing.
+17,b5,b4b5,r1bqk2r/pppp1p1p/1bn4Q/1P2p3/4P3/2PP4/P4PPP/RN2KBNR b KQkq - 0 9,Somethings I froget what I was doing.
+18,Na5,c6a5,r1bqk2r/pppp1p1p/1b5Q/nP2p3/4P3/2PP4/P4PPP/RN2KBNR w KQkq - 1 10,Somethings I froget what I was doing.
+19,Nd2,b1d2,r1bqk2r/pppp1p1p/1b5Q/nP2p3/4P3/2PP4/P2N1PPP/R3KBNR b KQkq - 2 10,Somethings I froget what I was doing.
+20,c5,c7c5,r1bqk2r/pp1p1p1p/1b5Q/nPp1p3/4P3/2PP4/P2N1PPP/R3KBNR w KQkq c6 0 11,"Queen side castle, although I think it would have been better to do king side castle because its more protected."
+21,O-O-O,e1c1,r1bqk2r/pp1p1p1p/1b5Q/nPp1p3/4P3/2PP4/P2N1PPP/2KR1BNR b kq - 1 11,"Queen side castle, although I think it would have been better to do king side castle because its more protected."
+22,d6,d7d6,r1bqk2r/pp3p1p/1b1p3Q/nPp1p3/4P3/2PP4/P2N1PPP/2KR1BNR w kq - 0 12,"Forking bishop and knight,"
+23,Nc4,d2c4,r1bqk2r/pp3p1p/1b1p3Q/nPp1p3/2N1P3/2PP4/P4PPP/2KR1BNR b kq - 1 12,"Forking bishop and knight,"
+24,Nxc4,a5c4,r1bqk2r/pp3p1p/1b1p3Q/1Pp1p3/2n1P3/2PP4/P4PPP/2KR1BNR w kq - 0 13,Doubling my pawns and capturing the knight. I guess it wasnt such a brilliant idea.
+25,dxc4,d3c4,r1bqk2r/pp3p1p/1b1p3Q/1Pp1p3/2P1P3/2P5/P4PPP/2KR1BNR b kq - 0 13,Doubling my pawns and capturing the knight. I guess it wasnt such a brilliant idea.
+26,Bg4,c8g4,r2qk2r/pp3p1p/1b1p3Q/1Pp1p3/2P1P1b1/2P5/P4PPP/2KR1BNR w kq - 1 14,Threatning rd1
+27,Qg7,h6g7,r2qk2r/pp3pQp/1b1p4/1Pp1p3/2P1P1b1/2P5/P4PPP/2KR1BNR b kq - 2 14,Forking the rook at h8 and bishop at g4.
+28,Rf8,h8f8,r2qkr2/pp3pQp/1b1p4/1Pp1p3/2P1P1b1/2P5/P4PPP/2KR1BNR w q - 3 15,I would have took the rook with my bishop but instead he messes up his king-side castling.
+29,Qxg4,g7g4,r2qkr2/pp3p1p/1b1p4/1Pp1p3/2P1P1Q1/2P5/P4PPP/2KR1BNR b q - 0 15,Allowing small development of rf8 but blocking off the queen.
+30,f6,f7f6,r2qkr2/pp5p/1b1p1p2/1Pp1p3/2P1P1Q1/2P5/P4PPP/2KR1BNR w q - 0 16,Allowing small development of rf8 but blocking off the queen.
+31,Qe6+,g4e6,r2qkr2/pp5p/1b1pQp2/1Pp1p3/2P1P3/2P5/P4PPP/2KR1BNR b q - 1 16,Blocks check with queen but messing up all his castling as well.
+32,Qe7,d8e7,r3kr2/pp2q2p/1b1pQp2/1Pp1p3/2P1P3/2P5/P4PPP/2KR1BNR w q - 2 17,Blocks check with queen but messing up all his castling as well.
+33,Qxe7+,e6e7,r3kr2/pp2Q2p/1b1p1p2/1Pp1p3/2P1P3/2P5/P4PPP/2KR1BNR b q - 0 17,Allows development... I think thats what I was doing...
+34,Kxe7,e8e7,r4r2/pp2k2p/1b1p1p2/1Pp1p3/2P1P3/2P5/P4PPP/2KR1BNR w - - 0 18,Allows development... I think thats what I was doing...
+35,h4,h2h4,r4r2/pp2k2p/1b1p1p2/1Pp1p3/2P1P2P/2P5/P4PP1/2KR1BNR b - - 0 18,Allows development... I think thats what I was doing...
+36,Ba5,b6a5,r4r2/pp2k2p/3p1p2/bPp1p3/2P1P2P/2P5/P4PP1/2KR1BNR w - - 1 19,Threatning c3.

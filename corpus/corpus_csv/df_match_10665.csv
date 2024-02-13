@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,i was planning on playing the danish gambit if he took but...
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,i was planning on playing the danish gambit if he took but...
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,i was planning on playing the danish gambit if he took but...
+4,Bd6,f8d6,rnbqk1nr/pppp1ppp/3b4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"? honestly this is terrible, it blocks in the bishop and after the pawn takes the bishop is on a very weak square"
+5,dxe5,d4e5,rnbqk1nr/pppp1ppp/3b4/4P3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,attacking the bishop
+6,Bxe5,d6e5,rnbqk1nr/pppp1ppp/8/4b3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,attacking the bishop
+7,Nf3,g1f3,rnbqk1nr/pppp1ppp/8/4b3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4,attacking the bishop
+8,Nc6,b8c6,r1bqk1nr/pppp1ppp/2n5/4b3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5,"waste of a tempo, trying to preempt 6. Ng5 and a queen, rook fork"
+9,Bc4,f1c4,r1bqk1nr/pppp1ppp/2n5/4b3/2B1P3/5N2/PPP2PPP/RNBQK2R b KQkq - 3 5,"waste of a tempo, trying to preempt 6. Ng5 and a queen, rook fork"
+10,h6,h7h6,r1bqk1nr/pppp1pp1/2n4p/4b3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"waste of a tempo, trying to preempt 6. Ng5 and a queen, rook fork"
+11,Nc3,b1c3,r1bqk1nr/pppp1pp1/2n4p/4b3/2B1P3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 6,taking advantage of the tempo he gave me to develop
+12,Nf6,g8f6,r1bqk2r/pppp1pp1/2n2n1p/4b3/2B1P3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 7,loses a pawn but the bishop pair is worth it
+13,Be3,c1e3,r1bqk2r/pppp1pp1/2n2n1p/4b3/2B1P3/2N1BN2/PPP2PPP/R2QK2R b KQkq - 3 7,loses a pawn but the bishop pair is worth it
+14,Bxc3+,e5c3,r1bqk2r/pppp1pp1/2n2n1p/8/2B1P3/2b1BN2/PPP2PPP/R2QK2R w KQkq - 0 8,threatens the knight and mate
+15,bxc3,b2c3,r1bqk2r/pppp1pp1/2n2n1p/8/2B1P3/2P1BN2/P1P2PPP/R2QK2R b KQkq - 0 8,threatens the knight and mate
+16,Nxe4,f6e4,r1bqk2r/pppp1pp1/2n4p/8/2B1n3/2P1BN2/P1P2PPP/R2QK2R w KQkq - 0 9,threatens the knight and mate
+17,Qd5,d1d5,r1bqk2r/pppp1pp1/2n4p/3Q4/2B1n3/2P1BN2/P1P2PPP/R3K2R b KQkq - 1 9,threatens the knight and mate
+18,Qe7,d8e7,r1b1k2r/ppppqpp1/2n4p/3Q4/2B1n3/2P1BN2/P1P2PPP/R3K2R w KQkq - 2 10,gives up the pawn for position and development
+19,O-O,e1g1,r1b1k2r/ppppqpp1/2n4p/3Q4/2B1n3/2P1BN2/P1P2PPP/R4RK1 b kq - 3 10,gives up the pawn for position and development
+20,O-O,e8g8,r1b2rk1/ppppqpp1/2n4p/3Q4/2B1n3/2P1BN2/P1P2PPP/R4RK1 w - - 4 11,gives up the pawn for position and development
+21,Rfe1,f1e1,r1b2rk1/ppppqpp1/2n4p/3Q4/2B1n3/2P1BN2/P1P2PPP/R3R1K1 b - - 5 11,gives up the pawn for position and development
+22,Nxc3,e4c3,r1b2rk1/ppppqpp1/2n4p/3Q4/2B5/2n1BN2/P1P2PPP/R3R1K1 w - - 0 12,the losing move
+23,Qh5,d5h5,r1b2rk1/ppppqpp1/2n4p/7Q/2B5/2n1BN2/P1P2PPP/R3R1K1 b - - 1 12,!!!
+24,d6,d7d6,r1b2rk1/ppp1qpp1/2np3p/7Q/2B5/2n1BN2/P1P2PPP/R3R1K1 w - - 0 13,"forced to prevent 13. Bc5 however, it can't defend bxh6"
+25,Bxh6,e3h6,r1b2rk1/ppp1qpp1/2np3B/7Q/2B5/2n2N2/P1P2PPP/R3R1K1 b - - 0 13,"discovered attack on the queen prevents gxh6, and now his castle is busted open, another reason why gxh6 fails is that after 14.Qg6  14.Kh8 15.Qxh6  15.Kg8 16.Qg6  16.Kh8 17.Ng5 his position is completely indefensible"
+26,Qf6,e7f6,r1b2rk1/ppp2pp1/2np1q1B/7Q/2B5/2n2N2/P1P2PPP/R3R1K1 w - - 1 14,"forced, queen has no other safe and defending squares"
+27,Bg5,h6g5,r1b2rk1/ppp2pp1/2np1q2/6BQ/2B5/2n2N2/P1P2PPP/R3R1K1 b - - 2 14,forces the queen to f5 away from the king
+28,Qf5,f6f5,r1b2rk1/ppp2pp1/2np4/5qBQ/2B5/2n2N2/P1P2PPP/R3R1K1 w - - 3 15,forces g6 because any other move results in Bxf5 or Qh7#
+29,Bd3,c4d3,r1b2rk1/ppp2pp1/2np4/5qBQ/8/2nB1N2/P1P2PPP/R3R1K1 b - - 4 15,forces g6 because any other move results in Bxf5 or Qh7#
+30,g6,g7g6,r1b2rk1/ppp2p2/2np2p1/5qBQ/8/2nB1N2/P1P2PPP/R3R1K1 w - - 0 16,the finishing blow because he has to move his queen and he cannot do so while defending Bf6 after which mate is inevitable
+31,Qh6,h5h6,r1b2rk1/ppp2p2/2np2pQ/5qB1/8/2nB1N2/P1P2PPP/R3R1K1 b - - 1 16,the finishing blow because he has to move his queen and he cannot do so while defending Bf6 after which mate is inevitable
+32,Qxg5,f5g5,r1b2rk1/ppp2p2/2np2pQ/6q1/8/2nB1N2/P1P2PPP/R3R1K1 w - - 0 17,he realizes he is finished so he takes the bishop
+33,Nxg5,f3g5,r1b2rk1/ppp2p2/2np2pQ/6N1/8/2nB4/P1P2PPP/R3R1K1 b - - 0 17,"The end to a very satisfying game that was over at move 12, if you have any comments or see any way he could have escaped my attack feel free to message me"
+34,Nd5,c3d5,r1b2rk1/ppp2p2/2np2pQ/3n2N1/8/3B4/P1P2PPP/R3R1K1 w - - 1 18,"The end to a very satisfying game that was over at move 12, if you have any comments or see any way he could have escaped my attack feel free to message me"
+35,Qh7#,h6h7,r1b2rk1/ppp2p1Q/2np2p1/3n2N1/8/3B4/P1P2PPP/R3R1K1 b - - 2 18,"The end to a very satisfying game that was over at move 12, if you have any comments or see any way he could have escaped my attack feel free to message me"

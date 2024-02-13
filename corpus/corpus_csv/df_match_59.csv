@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"One of the weakest answers, since it blocks lsb's action."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"One of the weakest answers, since it blocks lsb's action."
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"One of the weakest answers, since it blocks lsb's action."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,"One of the weakest answers, since it blocks lsb's action."
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,"One of the weakest answers, since it blocks lsb's action."
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4,The basic Icelandic asset.
+7,dxe6,d5e6,rnbqkb1r/ppp2ppp/4Pn2/8/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 4,The basic Icelandic asset.
+8,Bxe6,c8e6,rn1qkb1r/ppp2ppp/4bn2/8/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 5,The basic Icelandic asset.
+9,d4,d2d4,rn1qkb1r/ppp2ppp/4bn2/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,Another thematic second-best move. My opp. is testing my knowledges.
+10,Bb4+,f8b4,rn1qk2r/ppp2ppp/4bn2/8/1bPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6,...or Qe7. White will lose his d4 pawn or the exchange.
+11,Nc3,b1c3,rn1qk2r/ppp2ppp/4bn2/8/1bPP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 6,...or Qe7. White will lose his d4 pawn or the exchange.
+12,Ne4,f6e4,rn1qk2r/ppp2ppp/4b3/8/1bPPn3/2N5/PP3PPP/R1BQKBNR w KQkq - 3 7,...or Qe7. White will lose his d4 pawn or the exchange.
+13,Bd2,c1d2,rn1qk2r/ppp2ppp/4b3/8/1bPPn3/2N5/PP1B1PPP/R2QKBNR b KQkq - 4 7,White must defend f2.
+14,Qxd4,d8d4,rn2k2r/ppp2ppp/4b3/8/1bPqn3/2N5/PP1B1PPP/R2QKBNR w KQkq - 0 8,White must defend f2.
+15,Nxe4,c3e4,rn2k2r/ppp2ppp/4b3/8/1bPqN3/8/PP1B1PPP/R2QKBNR b KQkq - 0 8,Qe7 is another playable move here. My answer is forced: Qxb2 is just ugly.
+16,Qxe4+,d4e4,rn2k2r/ppp2ppp/4b3/8/1bP1q3/8/PP1B1PPP/R2QKBNR w KQkq - 0 9,"Here, the only thing I'll get would be his K exposed while I will be able to castle. But is more than nothing, with a stronger opponent! But it is true that, looking closely, now ...BxB+, 10. KxB, Qd4+, threatening b2, may whorth a look."
+17,Qe2,d1e2,rn2k2r/ppp2ppp/4b3/8/1bP1q3/8/PP1BQPPP/R3KBNR b KQkq - 1 9,"Here, the only thing I'll get would be his K exposed while I will be able to castle. But is more than nothing, with a stronger opponent! But it is true that, looking closely, now ...BxB+, 10. KxB, Qd4+, threatening b2, may whorth a look."
+18,Qxe2+,e4e2,rn2k2r/ppp2ppp/4b3/8/1bP5/8/PP1BqPPP/R3KBNR w KQkq - 0 10,"Now it comes the problem: how to continue? Do I grab the centered K advantage? I decide yes, but Nc6 can be interesting, in view of 11. Bf3? (BxB+, KxB, Nd4+, exchanging the Wlsb). But he won't have fallen for it."
+19,Bxe2,f1e2,rn2k2r/ppp2ppp/4b3/8/1bP5/8/PP1BBPPP/R3K1NR b KQkq - 0 10,"Now it comes the problem: how to continue? Do I grab the centered K advantage? I decide yes, but Nc6 can be interesting, in view of 11. Bf3? (BxB+, KxB, Nd4+, exchanging the Wlsb). But he won't have fallen for it."
+20,Bxd2+,b4d2,rn2k2r/ppp2ppp/4b3/8/2P5/8/PP1bBPPP/R3K1NR w KQkq - 0 11,"Now what? o-o is probably right, but I wanted to be sure he won't grab so much space and action with his lsb, so I dared to play..."
+21,Kxd2,e1d2,rn2k2r/ppp2ppp/4b3/8/2P5/8/PP1KBPPP/R5NR b kq - 0 11,"Now what? o-o is probably right, but I wanted to be sure he won't grab so much space and action with his lsb, so I dared to play..."
+22,c5,c7c5,rn2k2r/pp3ppp/4b3/2p5/2P5/8/PP1KBPPP/R5NR w kq - 0 12,"...weakening b7. Now, if Bf3, Nc6, and I'll accept gladly the doubled pawns keeping the only lsb on the board. Was it a good decision?"
+23,Nf3,g1f3,rn2k2r/pp3ppp/4b3/2p5/2P5/5N2/PP1KBPPP/R6R b kq - 1 12,"He apparently didn't see too much advantage in grabbing the diagonal, and, very ""old-schoolisly"", developed."
+24,Nc6,b8c6,r3k2r/pp3ppp/2n1b3/2p5/2P5/5N2/PP1KBPPP/R6R w kq - 2 13,"Now, I want to win a tempo by castling Qside and chech him. But h6 should be on my agenda."
+25,a3,a2a3,r3k2r/pp3ppp/2n1b3/2p5/2P5/P4N2/1P1KBPPP/R6R b kq - 0 13,"He, righly, protects my N's possible entryon b4. This allows me to play Na5, threatening the fork check on b2. I missed it, unfortunately."
+26,O-O-O+,e8c8,2kr3r/pp3ppp/2n1b3/2p5/2P5/P4N2/1P1KBPPP/R6R w - - 1 14,"...but now I set another treat, and I get a wonderful center occupation."
+27,Kc3,d2c3,2kr3r/pp3ppp/2n1b3/2p5/2P5/P1K2N2/1P2BPPP/R6R b - - 2 14,"...but now I set another treat, and I get a wonderful center occupation."
+28,Rhe8,h8e8,2krr3/pp3ppp/2n1b3/2p5/2P5/P1K2N2/1P2BPPP/R6R w - - 3 15,"...but now I set another treat, and I get a wonderful center occupation."
+29,Bd3,e2d3,2krr3/pp3ppp/2n1b3/2p5/2P5/P1KB1N2/1P3PPP/R6R b - - 4 15,"If white plays b4, I'd play Bh3. Either bxB, RxB, or Bf1 (otherwise, Bxb2 forks N and R), and I can retire the B where I like to. He is threatening h7 here, but it is doubtful he can release the B after g6, in the long run."
+30,Bg4,e6g4,2krr3/pp3ppp/2n5/2p5/2P3b1/P1KB1N2/1P3PPP/R6R w - - 5 16,"The idea is that if Bxh7, BxN and after g6 the B is trapped. Not so simple, though..."
+31,Ng5,f3g5,2krr3/pp3ppp/2n5/2p3N1/2P3b1/P1KB4/1P3PPP/R6R b - - 6 16,Ouch!
+32,Ne5,c6e5,2krr3/pp3ppp/8/2p1n1N1/2P3b1/P1KB4/1P3PPP/R6R w - - 7 17,"Protects f7, threats the B, ""forcing""..."
+33,Bxh7,d3h7,2krr3/pp3ppB/8/2p1n1N1/2P3b1/P1K5/1P3PPP/R6R b - - 0 17,"Now, white will lose a piece, after f6... doesn't he?"
+34,g6,g7g6,2krr3/pp3p1B/6p1/2p1n1N1/2P3b1/P1K5/1P3PPP/R6R w - - 0 18,"Now, white will lose a piece, after f6... doesn't he?"
+35,f3,f2f3,2krr3/pp3p1B/6p1/2p1n1N1/2P3b1/P1K2P2/1P4PP/R6R b - - 0 18,"The problem here is that after my B retires, f4 and my N has to go, and f7 falls. If I defend it with Be6, NxB and, again, f4 saves the material for him. I had two choices here: Bf5 (g4, Bd3!?), or..."

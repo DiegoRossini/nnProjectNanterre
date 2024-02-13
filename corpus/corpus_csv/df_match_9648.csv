@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,less common waiting move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,less common waiting move
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,less common waiting move
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,less common waiting move
+5,h3,h2h3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N1P/PPPP1PP1/RNBQKB1R b KQkq - 0 3,less common waiting move
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/4p3/4P3/5N1P/PPPP1PP1/RNBQKB1R w KQkq - 1 4,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/3p1n2/4p3/4P3/2N2N1P/PPPP1PP1/R1BQKB1R b KQkq - 2 4,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+8,Be7,f8e7,rnbqk2r/ppp1bppp/3p1n2/4p3/4P3/2N2N1P/PPPP1PP1/R1BQKB1R w KQkq - 3 5,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+9,d4,d2d4,rnbqk2r/ppp1bppp/3p1n2/4p3/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 5,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+10,Nbd7,b8d7,r1bqk2r/pppnbppp/3p1n2/4p3/3PP3/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 1 6,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+11,Be3,c1e3,r1bqk2r/pppnbppp/3p1n2/4p3/3PP3/2N1BN1P/PPP2PP1/R2QKB1R b KQkq - 2 6,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+12,O-O,e8g8,r1bq1rk1/pppnbppp/3p1n2/4p3/3PP3/2N1BN1P/PPP2PP1/R2QKB1R w KQ - 3 7,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+13,Qd2,d1d2,r1bq1rk1/pppnbppp/3p1n2/4p3/3PP3/2N1BN1P/PPPQ1PP1/R3KB1R b KQ - 4 7,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+14,c6,c7c6,r1bq1rk1/pp1nbppp/2pp1n2/4p3/3PP3/2N1BN1P/PPPQ1PP1/R3KB1R w KQ - 0 8,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+15,O-O-O,e1c1,r1bq1rk1/pp1nbppp/2pp1n2/4p3/3PP3/2N1BN1P/PPPQ1PP1/2KR1B1R b - - 1 8,"Up to now, fairly standard hanham formation. 0-0-0 is risky given black's counterplay on the queenside."
+16,Qc7,d8c7,r1b2rk1/ppqnbppp/2pp1n2/4p3/3PP3/2N1BN1P/PPPQ1PP1/2KR1B1R w - - 2 9,Better would have been 10...nb6
+17,g4,g2g4,r1b2rk1/ppqnbppp/2pp1n2/4p3/3PP1P1/2N1BN1P/PPPQ1P2/2KR1B1R b - - 0 9,Better would have been 10...nb6
+18,b5,b7b5,r1b2rk1/p1qnbppp/2pp1n2/1p2p3/3PP1P1/2N1BN1P/PPPQ1P2/2KR1B1R w - - 0 10,Better would have been 10...nb6
+19,Ne2,c3e2,r1b2rk1/p1qnbppp/2pp1n2/1p2p3/3PP1P1/4BN1P/PPPQNP2/2KR1B1R b - - 1 10,Better would have been 10...nb6
+20,c5,c6c5,r1b2rk1/p1qnbppp/3p1n2/1pp1p3/3PP1P1/4BN1P/PPPQNP2/2KR1B1R w - - 0 11,Better would have been 10...nb6
+21,dxe5,d4e5,r1b2rk1/p1qnbppp/3p1n2/1pp1P3/4P1P1/4BN1P/PPPQNP2/2KR1B1R b - - 0 11,"White prepares a kingside attack, while black hopes his queenside attack will prevail first."
+22,dxe5,d6e5,r1b2rk1/p1qnbppp/5n2/1pp1p3/4P1P1/4BN1P/PPPQNP2/2KR1B1R w - - 0 12,"White prepares a kingside attack, while black hopes his queenside attack will prevail first."
+23,Ng3,e2g3,r1b2rk1/p1qnbppp/5n2/1pp1p3/4P1P1/4BNNP/PPPQ1P2/2KR1B1R b - - 1 12,"White prepares a kingside attack, while black hopes his queenside attack will prevail first."
+24,Bb7,c8b7,r4rk1/pbqnbppp/5n2/1pp1p3/4P1P1/4BNNP/PPPQ1P2/2KR1B1R w - - 2 13,Here black decides an open position with pawn exchanges gives better chances if white takes the pawn.
+25,Bxb5,f1b5,r4rk1/pbqnbppp/5n2/1Bp1p3/4P1P1/4BNNP/PPPQ1P2/2KR3R b - - 0 13,Perhaps better would have been 13 nf5.
+26,Rfd8,f8d8,r2r2k1/pbqnbppp/5n2/1Bp1p3/4P1P1/4BNNP/PPPQ1P2/2KR3R w - - 1 14,The exchanges have left
+27,Qe2,d2e2,r2r2k1/pbqnbppp/5n2/1Bp1p3/4P1P1/4BNNP/PPP1QP2/2KR3R b - - 2 14,The exchanges have left
+28,Nxe4,f6e4,r2r2k1/pbqnbppp/8/1Bp1p3/4n1P1/4BNNP/PPP1QP2/2KR3R w - - 0 15,The exchanges have left
+29,Nxe4,g3e4,r2r2k1/pbqnbppp/8/1Bp1p3/4N1P1/4BN1P/PPP1QP2/2KR3R b - - 0 15,The exchanges have left
+30,Bxe4,b7e4,r2r2k1/p1qnbppp/8/1Bp1p3/4b1P1/4BN1P/PPP1QP2/2KR3R w - - 0 16,The exchanges have left
+31,Bxd7,b5d7,r2r2k1/p1qBbppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2KR3R b - - 0 16,The exchanges have left
+32,Rxd7,d8d7,r5k1/p1qrbppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2KR3R w - - 0 17,The exchanges have left
+33,Rxd7,d1d7,r5k1/p1qRbppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2K4R b - - 0 17,The exchanges have left
+34,Qxd7,c7d7,r5k1/p2qbppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2K4R w - - 0 18,The exchanges have left
+35,Re1,h1e1,r5k1/p2qbppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2K1R3 b - - 1 18,The exchanges have left
+36,Qc7,d7c7,r5k1/p1q1bppp/8/2p1p3/4b1P1/4BN1P/PPP1QP2/2K1R3 w - - 2 19,The exchanges have left
+37,Nd2,f3d2,r5k1/p1q1bppp/8/2p1p3/4b1P1/4B2P/PPPNQP2/2K1R3 b - - 3 19,"The exchanges have left black with strong bishops but the position is basically even, if unbalanced"
+38,Bb7,e4b7,r5k1/pbq1bppp/8/2p1p3/6P1/4B2P/PPPNQP2/2K1R3 w - - 4 20,"The exchanges have left black with strong bishops but the position is basically even, if unbalanced"
+39,f4,f2f4,r5k1/pbq1bppp/8/2p1p3/5PP1/4B2P/PPPNQ3/2K1R3 b - - 0 20,White tries to exploit the position of the black bishop
+40,Bh4,e7h4,r5k1/pbq2ppp/8/2p1p3/5PPb/4B2P/PPPNQ3/2K1R3 w - - 1 21,this is an essential intermediate move
+41,Rf1,e1f1,r5k1/pbq2ppp/8/2p1p3/5PPb/4B2P/PPPNQ3/2K2R2 b - - 2 21,Black offers a queen exchange
+42,exf4,e5f4,r5k1/pbq2ppp/8/2p5/5pPb/4B2P/PPPNQ3/2K2R2 w - - 0 22,Black offers a queen exchange
+43,Bxf4,e3f4,r5k1/pbq2ppp/8/2p5/5BPb/7P/PPPNQ3/2K2R2 b - - 0 22,Black offers a queen exchange
+44,Qe7,c7e7,r5k1/pb2qppp/8/2p5/5BPb/7P/PPPNQ3/2K2R2 w - - 1 23,Black offers a queen exchange
+45,Qh2,e2h2,r5k1/pb2qppp/8/2p5/5BPb/7P/PPPN3Q/2K2R2 b - - 2 23,"White declines the queen exchange, overestimating kingside chances. Now white's position deteriorates."
+46,Re8,a8e8,4r1k1/pb2qppp/8/2p5/5BPb/7P/PPPN3Q/2K2R2 w - - 3 24,"Now black controls the e-file, and threatens checkmate via a queen sac at e1."
+47,b3,b2b3,4r1k1/pb2qppp/8/2p5/5BPb/1P5P/P1PN3Q/2K2R2 b - - 0 24,prevents the checkmate
+48,Qe2,e7e2,4r1k1/pb3ppp/8/2p5/5BPb/1P5P/P1PNq2Q/2K2R2 w - - 1 25,Black seizes his seventh rank
+49,Qg1,h2g1,4r1k1/pb3ppp/8/2p5/5BPb/1P5P/P1PNq3/2K2RQ1 b - - 2 25,"a strong move, driving away the rook while threatening the h pawn."
+50,Bg2,b7g2,4r1k1/p4ppp/8/2p5/5BPb/1P5P/P1PNq1b1/2K2RQ1 w - - 3 26,"a strong move, driving away the rook while threatening the h pawn."
+51,Rd1,f1d1,4r1k1/p4ppp/8/2p5/5BPb/1P5P/P1PNq1b1/2KR2Q1 b - - 4 26,"White wants to keep the material even, but does not see the danger to his king."
+52,Bxh3,g2h3,4r1k1/p4ppp/8/2p5/5BPb/1P5b/P1PNq3/2KR2Q1 w - - 0 27,"White wants to keep the material even, but does not see the danger to his king."
+53,Qxc5,g1c5,4r1k1/p4ppp/8/2Q5/5BPb/1P5b/P1PNq3/2KR4 b - - 0 27,"White wants to keep the material even, but does not see the danger to his king."
+54,Qxg4,e2g4,4r1k1/p4ppp/8/2Q5/5Bqb/1P5b/P1PN4/2KR4 w - - 0 28,"Black could have played 27...QxR  here, since QxR is met by Re1 ."
+55,Qb5,c5b5,4r1k1/p4ppp/8/1Q6/5Bqb/1P5b/P1PN4/2KR4 b - - 1 28,Oblivious to the danger.
+56,Qxd1+,g4d1,4r1k1/p4ppp/8/1Q6/5B1b/1P5b/P1PN4/2Kq4 w - - 0 29,"QxR !!, a devastating surprise."

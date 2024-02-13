@@ -1,0 +1,144 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I really need to study the computer analysis on this one
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Mistake: +1.03 » … h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8
+Best: +0.00 » … c6 4. d4"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Mistake: +1.03 » … h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8
+Best: +0.00 » … c6 4. d4"
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Mistake: +1.03 » … h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8
+Best: +0.00 » … c6 4. d4"
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"Mistake: +1.03 » … h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8
+Best: +0.00 » … c6 4. d4"
+6,h6,h7h6,rnbqkbnr/ppp2pp1/3p3p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Mistake: +1.03 » … h6 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8
+Best: +0.00 » … c6 4. d4"
+7,c3,c2c3,rnbqkbnr/ppp2pp1/3p3p/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4,"Inaccuracy: +0.27 » 4. c3 Nf6 5. d4 exd4 6. O-O dxc3 7. Nxc3 Nc6 8. Qb3 Qd7 9. Qb5 Rb8 10. Qa4 h5 11. Nh4
+Best: +1.03 » 4. d4 exd4 5. Nxd4 Nf6 6. Nc3 c5 7. Nf3 Be6 8. Qd3 Bxc4 9. Qxc4 Nc6 10. O-O Rc8"
+8,Nf6,g8f6,rnbqkb1r/ppp2pp1/3p1n1p/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5,I was headed to K-side but ...b5
+9,Bd3,c4d3,rnbqkb1r/ppp2pp1/3p1n1p/4p3/4P3/2PB1N2/PP1P1PPP/RNBQK2R b KQkq - 2 5,I was headed to K-side but ...b5
+10,Bg4,c8g4,rn1qkb1r/ppp2pp1/3p1n1p/4p3/4P1b1/2PB1N2/PP1P1PPP/RNBQK2R w KQkq - 3 6,I was headed to K-side but ...b5
+11,h3,h2h3,rn1qkb1r/ppp2pp1/3p1n1p/4p3/4P1b1/2PB1N1P/PP1P1PP1/RNBQK2R b KQkq - 0 6,I was headed to K-side but ...b5
+12,Bxf3,g4f3,rn1qkb1r/ppp2pp1/3p1n1p/4p3/4P3/2PB1b1P/PP1P1PP1/RNBQK2R w KQkq - 0 7,I was headed to K-side but ...b5
+13,Qxf3,d1f3,rn1qkb1r/ppp2pp1/3p1n1p/4p3/4P3/2PB1Q1P/PP1P1PP1/RNB1K2R b KQkq - 0 7,I was headed to K-side but ...b5
+14,Be7,f8e7,rn1qk2r/ppp1bpp1/3p1n1p/4p3/4P3/2PB1Q1P/PP1P1PP1/RNB1K2R w KQkq - 1 8,I was headed to K-side but ...b5
+15,Bc2,d3c2,rn1qk2r/ppp1bpp1/3p1n1p/4p3/4P3/2P2Q1P/PPBP1PP1/RNB1K2R b KQkq - 2 8,I was headed to K-side but ...b5
+16,O-O,e8g8,rn1q1rk1/ppp1bpp1/3p1n1p/4p3/4P3/2P2Q1P/PPBP1PP1/RNB1K2R w KQ - 3 9,I was headed to K-side but ...b5
+17,d3,d2d3,rn1q1rk1/ppp1bpp1/3p1n1p/4p3/4P3/2PP1Q1P/PPB2PP1/RNB1K2R b KQ - 0 9,I was headed to K-side but ...b5
+18,Nc6,b8c6,r2q1rk1/ppp1bpp1/2np1n1p/4p3/4P3/2PP1Q1P/PPB2PP1/RNB1K2R w KQ - 1 10,I was headed to K-side but ...b5
+19,Nd2,b1d2,r2q1rk1/ppp1bpp1/2np1n1p/4p3/4P3/2PP1Q1P/PPBN1PP1/R1B1K2R b KQ - 2 10,I was headed to K-side but ...b5
+20,b5,b7b5,r2q1rk1/p1p1bpp1/2np1n1p/1p2p3/4P3/2PP1Q1P/PPBN1PP1/R1B1K2R w KQ - 0 11,I was headed to K-side but ...b5
+21,Nb3,d2b3,r2q1rk1/p1p1bpp1/2np1n1p/1p2p3/4P3/1NPP1Q1P/PPB2PP1/R1B1K2R b KQ - 1 11,I was headed to K-side but ...b5
+22,a5,a7a5,r2q1rk1/2p1bpp1/2np1n1p/pp2p3/4P3/1NPP1Q1P/PPB2PP1/R1B1K2R w KQ - 0 12,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+23,a4,a2a4,r2q1rk1/2p1bpp1/2np1n1p/pp2p3/P3P3/1NPP1Q1P/1PB2PP1/R1B1K2R b KQ - 0 12,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+24,b4,b5b4,r2q1rk1/2p1bpp1/2np1n1p/p3p3/Pp2P3/1NPP1Q1P/1PB2PP1/R1B1K2R w KQ - 0 13,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+25,Bd2,c1d2,r2q1rk1/2p1bpp1/2np1n1p/p3p3/Pp2P3/1NPP1Q1P/1PBB1PP1/R3K2R b KQ - 1 13,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+26,d5,d6d5,r2q1rk1/2p1bpp1/2n2n1p/p2pp3/Pp2P3/1NPP1Q1P/1PBB1PP1/R3K2R w KQ - 0 14,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+27,d4,d3d4,r2q1rk1/2p1bpp1/2n2n1p/p2pp3/Pp1PP3/1NP2Q1P/1PBB1PP1/R3K2R b KQ - 0 14,"Mistake: -0.92 » 14. d4 bxc3 15. bxc3 exd4 16. O-O Rb8 17. exd5 Ne5 18. Qg3 d3 19. Bxh6 Ng6 20. Qxd3 gxh6 21. Rad1 Nf4 22. Qg3+ Ng6 23. Nxa5 Nxd5 24. Bxg6
+Best: +0.38 » 14. O-O Rb8 15. Rfd1 Qd7 16. Rab1 Qe6 17. exd5 Qxd5 18. Qxd5 Nxd5 19. d4 exd4 20. Nxd4 Nxd4 21. cxd4"
+28,bxc3,b4c3,r2q1rk1/2p1bpp1/2n2n1p/p2pp3/P2PP3/1Np2Q1P/1PBB1PP1/R3K2R w KQ - 0 15,I thought he should open the d-file with something like 14...dxe4 but the computer says the game move was OK
+29,bxc3,b2c3,r2q1rk1/2p1bpp1/2n2n1p/p2pp3/P2PP3/1NP2Q1P/2BB1PP1/R3K2R b KQ - 0 15,"Inaccuracy: -1.63 » 16. cxd4 dxe4 17. Qc3 Qd5 18. O-O Bb4 19. Qe3 Rab8 20. Rab1 Rfd8 21. Rfd1 Nxd4 22. Nxd4 Qxd4 23. Qxd4 Rxd4
+Best: -0.86 » 16. O-O Ne5 17. Qf5 d3 18. Bb1 Rb8 19. Qxe5 Nxe4 20. f3 Bf6 21. Qf5 Nxd2 22. Nxd2 Bxc3 23. Ra2 Bd4+ 24. Kh1"
+30,exd4,e5d4,r2q1rk1/2p1bpp1/2n2n1p/p2p4/P2pP3/1NP2Q1P/2BB1PP1/R3K2R w KQ - 0 16,"Inaccuracy: -1.63 » 16. cxd4 dxe4 17. Qc3 Qd5 18. O-O Bb4 19. Qe3 Rab8 20. Rab1 Rfd8 21. Rfd1 Nxd4 22. Nxd4 Qxd4 23. Qxd4 Rxd4
+Best: -0.86 » 16. O-O Ne5 17. Qf5 d3 18. Bb1 Rb8 19. Qxe5 Nxe4 20. f3 Bf6 21. Qf5 Nxd2 22. Nxd2 Bxc3 23. Ra2 Bd4+ 24. Kh1"
+31,cxd4,c3d4,r2q1rk1/2p1bpp1/2n2n1p/p2p4/P2PP3/1N3Q1P/2BB1PP1/R3K2R b KQ - 0 16,"Inaccuracy: -1.63 » 16. cxd4 dxe4 17. Qc3 Qd5 18. O-O Bb4 19. Qe3 Rab8 20. Rab1 Rfd8 21. Rfd1 Nxd4 22. Nxd4 Qxd4 23. Qxd4 Rxd4
+Best: -0.86 » 16. O-O Ne5 17. Qf5 d3 18. Bb1 Rb8 19. Qxe5 Nxe4 20. f3 Bf6 21. Qf5 Nxd2 22. Nxd2 Bxc3 23. Ra2 Bd4+ 24. Kh1"
+32,Bb4,e7b4,r2q1rk1/2p2pp1/2n2n1p/p2p4/Pb1PP3/1N3Q1P/2BB1PP1/R3K2R w KQ - 1 17,"Mistake: +0.06 » … Bb4 17. e5 Bxd2+ 18. Kxd2 Nd7 19. Qxd5 Ndxe5 20. Qxd8 Raxd8 21. Kc3 Ng6 22. Be4 Nge7 23. Bxc6 Nxc6 24. Rhe1 Rfe8
+Best: -1.52 » … dxe4 17. Qe2 Nxd4 18. Nxd4 Qxd4 19. O-O Rfd8 20. Rfd1 Qe5 21. Rab1 Rab8 22. Rxb8 Rxb8 23. Be3 Nd5"
+33,e5,e4e5,r2q1rk1/2p2pp1/2n2n1p/p2pP3/Pb1P4/1N3Q1P/2BB1PP1/R3K2R b KQ - 0 17,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+34,Bxd2+,b4d2,r2q1rk1/2p2pp1/2n2n1p/p2pP3/P2P4/1N3Q1P/2Bb1PP1/R3K2R w KQ - 0 18,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+35,Kxd2,e1d2,r2q1rk1/2p2pp1/2n2n1p/p2pP3/P2P4/1N3Q1P/2BK1PP1/R6R b - - 0 18,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+36,Ne8,f6e8,r2qnrk1/2p2pp1/2n4p/p2pP3/P2P4/1N3Q1P/2BK1PP1/R6R w - - 1 19,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+37,Rab1,a1b1,r2qnrk1/2p2pp1/2n4p/p2pP3/P2P4/1N3Q1P/2BK1PP1/1R5R b - - 2 19,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+38,Rb8,a8b8,1r1qnrk1/2p2pp1/2n4p/p2pP3/P2P4/1N3Q1P/2BK1PP1/1R5R w - - 3 20,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+39,Rhc1,h1c1,1r1qnrk1/2p2pp1/2n4p/p2pP3/P2P4/1N3Q1P/2BK1PP1/1RR5 b - - 4 20,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+40,Rb4,b8b4,3qnrk1/2p2pp1/2n4p/p2pP3/Pr1P4/1N3Q1P/2BK1PP1/1RR5 w - - 5 21,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+41,Ke3,d2e3,3qnrk1/2p2pp1/2n4p/p2pP3/Pr1P4/1N2KQ1P/2B2PP1/1RR5 b - - 6 21,"Mistake: -0.81 » 21. Ke3 Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8
+Best: +0.66 » 21. Qd3 g6 22. Bd1 Rb6 23. Qe3 Ng7 24. Qxh6 Nf5 25. Qf4 Qe7 26. Bf3 Qb4+ 27. Ke2 Nfxd4+ 28. Nxd4 Qxd4 29. Qxd4 Nxd4+ 30. Ke3"
+42,Qg5+,d8g5,4nrk1/2p2pp1/2n4p/p2pP1q1/Pr1P4/1N2KQ1P/2B2PP1/1RR5 w - - 7 22,"Mistake: +0.28 » … Qg5+ 22. Qf4 Qxf4+ 23. Kxf4 f6 24. e6 Nd6 25. g3 Nxd4 26. Nxd4 Rxd4+ 27. Ke3 c5 28. Kf3 Rb4 29. Re1 Rc8 30. Bb3
+Best: -0.81 » … Rxa4 22. Qf4 Qe7 23. Bh7+ Kxh7 24. Rxc6 Qa3 25. Rc3 Rb4 26. Kf3 a4 27. Ra1 Qb2 28. Qf5+ Kg8"
+43,Ke2,e3e2,4nrk1/2p2pp1/2n4p/p2pP1q1/Pr1P4/1N3Q1P/2B1KPP1/1RR5 b - - 8 22,"Blunder: -2.96 » 22. Ke2 Rxb3 23. Qxd5 Rxb1 24. Rxb1 Nb4 25. Qe4 Nxc2 26. Qxc2 Qxg2 27. Qd3 Qd5 28. Rb5 Qa2+ 29. Qd2 Qxa4 30. Rxa5
+Best: +0.28 » 22. Qf4 Qxf4+ 23. Kxf4 f6 24. e6 Nd6 25. g3 Nxd4 26. Nxd4 Rxd4+ 27. Ke3 c5 28. Kf3 Rb4 29. Re1 Rc8 30. Bb3"
+44,Rxb3,b4b3,4nrk1/2p2pp1/2n4p/p2pP1q1/P2P4/1r3Q1P/2B1KPP1/1RR5 w - - 0 23,"I totally missed the point of this move, even made a note during the game that it was a blunder but it is not."
+45,Qxd5,f3d5,4nrk1/2p2pp1/2n4p/p2QP1q1/P2P4/1r5P/2B1KPP1/1RR5 b - - 0 23,"Blunder: +0.77 » … Rc3 24. Bh7+ Kxh7 25. Rxc3 Nd8 26. Qe4+ Kh8 27. Rg3 Qe7 28. Kf1 Qe6 29. Qd3 Qc6 30. Qb3 Qa6+ 31. Rd3 Nc6 32. Qc3 Nb4
+Best: -3.19 » … Rxb1 24. Rxb1 Nb4 25. Qe4 Nxc2 26. Qxc2 Qxg2 27. Qd3 f6 28. e6 Qd5 29. Qb3 Qxd4 30. Kf3 c5 31. Qc2"
+46,Rc3,b3c3,4nrk1/2p2pp1/2n4p/p2QP1q1/P2P4/2r4P/2B1KPP1/1RR5 w - - 1 24,"Blunder: +0.77 » … Rc3 24. Bh7+ Kxh7 25. Rxc3 Nd8 26. Qe4+ Kh8 27. Rg3 Qe7 28. Kf1 Qe6 29. Qd3 Qc6 30. Qb3 Qa6+ 31. Rd3 Nc6 32. Qc3 Nb4
+Best: -3.19 » … Rxb1 24. Rxb1 Nb4 25. Qe4 Nxc2 26. Qxc2 Qxg2 27. Qd3 f6 28. e6 Qd5 29. Qb3 Qxd4 30. Kf3 c5 31. Qc2"
+47,Bh7+,c2h7,4nrk1/2p2ppB/2n4p/p2QP1q1/P2P4/2r4P/4KPP1/1RR5 b - - 2 24,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+48,Kxh7,g8h7,4nr2/2p2ppk/2n4p/p2QP1q1/P2P4/2r4P/4KPP1/1RR5 w - - 0 25,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+49,Rxc3,c1c3,4nr2/2p2ppk/2n4p/p2QP1q1/P2P4/2R4P/4KPP1/1R6 b - - 0 25,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+50,Ne7,c6e7,4nr2/2p1nppk/7p/p2QP1q1/P2P4/2R4P/4KPP1/1R6 w - - 1 26,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+51,Qe4+,d5e4,4nr2/2p1nppk/7p/p3P1q1/P2PQ3/2R4P/4KPP1/1R6 b - - 2 26,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+52,Kg8,h7g8,4nrk1/2p1npp1/7p/p3P1q1/P2PQ3/2R4P/4KPP1/1R6 w - - 3 27,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+53,Rb5,b1b5,4nrk1/2p1npp1/7p/pR2P1q1/P2PQ3/2R4P/4KPP1/8 b - - 4 27,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+54,c6,c7c6,4nrk1/4npp1/2p4p/pR2P1q1/P2PQ3/2R4P/4KPP1/8 w - - 0 28,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+55,Rxa5,b5a5,4nrk1/4npp1/2p4p/R3P1q1/P2PQ3/2R4P/4KPP1/8 b - - 0 28,"Inaccuracy: +0.60 » 28. Rxa5 Nc7 29. Ra7 Ncd5 30. Rc4 Rb8 31. a5 Nf5 32. Ke1 Rb2 33. Ra8+ Kh7 34. Kf1 Rd2 35. Kg1 Rd1+ 36. Kh2
+Best: +1.52 » 28. Rb7 f6 29. g3 fxe5 30. dxe5 Rf7 31. Rc5 Qh5+ 32. Qg4 Qxg4+ 33. hxg4 Nd5 34. Rxf7 Kxf7 35. Rxc6 Nb4 36. Rc1"
+56,Nc7,e8c7,5rk1/2n1npp1/2p4p/R3P1q1/P2PQ3/2R4P/4KPP1/8 w - - 1 29,"Inaccuracy: +1.43 » … Nf4+ 31. Kf1 Qf5 32. f3 Ned5 33. Qxf5 Ne3+ 34. Kg1 Nxf5 35. Rd7 Ne6 36. Rxc6 Nexd4 37. Rc4 Re8 38. Rdxd4 Nxd4 39. Rxd4 Rxe5
+Best: +0.64 » … Rb8 31. g3 Nf5 32. g4 Nfe7 33. a5 Nf4+ 34. Kd2 Nc8 35. Rd7 Nxh3+ 36. Qe3 Nf4 37. Rxc6 Rb2+ 38. Kc3"
+57,Ra7,a5a7,5rk1/R1n1npp1/2p4p/4P1q1/P2PQ3/2R4P/4KPP1/8 b - - 2 29,"Inaccuracy: +1.43 » … Nf4+ 31. Kf1 Qf5 32. f3 Ned5 33. Qxf5 Ne3+ 34. Kg1 Nxf5 35. Rd7 Ne6 36. Rxc6 Nexd4 37. Rc4 Re8 38. Rdxd4 Nxd4 39. Rxd4 Rxe5
+Best: +0.64 » … Rb8 31. g3 Nf5 32. g4 Nfe7 33. a5 Nf4+ 34. Kd2 Nc8 35. Rd7 Nxh3+ 36. Qe3 Nf4 37. Rxc6 Rb2+ 38. Kc3"
+58,Ncd5,c7d5,5rk1/R3npp1/2p4p/3nP1q1/P2PQ3/2R4P/4KPP1/8 w - - 3 30,"Inaccuracy: +1.43 » … Nf4+ 31. Kf1 Qf5 32. f3 Ned5 33. Qxf5 Ne3+ 34. Kg1 Nxf5 35. Rd7 Ne6 36. Rxc6 Nexd4 37. Rc4 Re8 38. Rdxd4 Nxd4 39. Rxd4 Rxe5
+Best: +0.64 » … Rb8 31. g3 Nf5 32. g4 Nfe7 33. a5 Nf4+ 34. Kd2 Nc8 35. Rd7 Nxh3+ 36. Qe3 Nf4 37. Rxc6 Rb2+ 38. Kc3"
+59,Rc2,c3c2,5rk1/R3npp1/2p4p/3nP1q1/P2PQ3/7P/2R1KPP1/8 b - - 4 30,"Inaccuracy: +1.43 » … Nf4+ 31. Kf1 Qf5 32. f3 Ned5 33. Qxf5 Ne3+ 34. Kg1 Nxf5 35. Rd7 Ne6 36. Rxc6 Nexd4 37. Rc4 Re8 38. Rdxd4 Nxd4 39. Rxd4 Rxe5
+Best: +0.64 » … Rb8 31. g3 Nf5 32. g4 Nfe7 33. a5 Nf4+ 34. Kd2 Nc8 35. Rd7 Nxh3+ 36. Qe3 Nf4 37. Rxc6 Rb2+ 38. Kc3"
+60,Nf4+,d5f4,5rk1/R3npp1/2p4p/4P1q1/P2PQn2/7P/2R1KPP1/8 w - - 5 31,"Inaccuracy: +1.43 » … Nf4+ 31. Kf1 Qf5 32. f3 Ned5 33. Qxf5 Ne3+ 34. Kg1 Nxf5 35. Rd7 Ne6 36. Rxc6 Nexd4 37. Rc4 Re8 38. Rdxd4 Nxd4 39. Rxd4 Rxe5
+Best: +0.64 » … Rb8 31. g3 Nf5 32. g4 Nfe7 33. a5 Nf4+ 34. Kd2 Nc8 35. Rd7 Nxh3+ 36. Qe3 Nf4 37. Rxc6 Rb2+ 38. Kc3"
+61,Kf1,e2f1,5rk1/R3npp1/2p4p/4P1q1/P2PQn2/7P/2R2PP1/5K2 b - - 6 31,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+62,Re8,f8e8,4r1k1/R3npp1/2p4p/4P1q1/P2PQn2/7P/2R2PP1/5K2 w - - 7 32,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+63,Rb7,a7b7,4r1k1/1R2npp1/2p4p/4P1q1/P2PQn2/7P/2R2PP1/5K2 b - - 8 32,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+64,f5,f7f5,4r1k1/1R2n1p1/2p4p/4Ppq1/P2PQn2/7P/2R2PP1/5K2 w - f6 0 33,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+65,Qf3,e4f3,4r1k1/1R2n1p1/2p4p/4Ppq1/P2P1n2/5Q1P/2R2PP1/5K2 b - - 1 33,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+66,Ne6,f4e6,4r1k1/1R2n1p1/2p1n2p/4Ppq1/P2P4/5Q1P/2R2PP1/5K2 w - - 2 34,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+67,Rb4,b7b4,4r1k1/4n1p1/2p1n2p/4Ppq1/PR1P4/5Q1P/2R2PP1/5K2 b - - 3 34,"Mistake: +0.31 » 34. Rb4 Rd8 35. Qe3 Qxe3 36. fxe3 Nd5 37. Rb3 c5 38. dxc5 f4 39. exf4 Nd4 40. Rcc3 Nxb3 41. Rxb3 Nxf4
+Best: +1.98 » 34. Qb3 Qg6 35. a5 Kh7 36. Qa4 Qh5 37. Qa1 Qh4 38. Rd7 Qg5 39. Rd6 Nf4 40. f3 Ned5 41. Qa3 Re6 42. Rxe6 Nxe6 43. Rxc6 Nxd4"
+68,Rd8,e8d8,3r2k1/4n1p1/2p1n2p/4Ppq1/PR1P4/5Q1P/2R2PP1/5K2 w - - 4 35,"Mistake: -1.51 » 36. Rd2 Nd5 37. Qb3 Nxb4 38. Qxb4 Kh7 39. Qc4 Rb8 40. Qc2 Rb4 41. Rd1 Qh5 42. f3 Rxd4 43. a5 Rxd1+ 44. Qxd1 f4 45. Qd3+ Kg8
+Best: +0.52 » 36. Qb3 Kh7 37. Rb7 f4 38. Rc4 Nf5 39. a5 Nfxd4 40. Qd1 Qe4 41. a6 Qxe5 42. a7 Qe4 43. Rb2"
+69,Qe3,f3e3,3r2k1/4n1p1/2p1n2p/4Ppq1/PR1P4/4Q2P/2R2PP1/5K2 b - - 5 35,"Mistake: -1.51 » 36. Rd2 Nd5 37. Qb3 Nxb4 38. Qxb4 Kh7 39. Qc4 Rb8 40. Qc2 Rb4 41. Rd1 Qh5 42. f3 Rxd4 43. a5 Rxd1+ 44. Qxd1 f4 45. Qd3+ Kg8
+Best: +0.52 » 36. Qb3 Kh7 37. Rb7 f4 38. Rc4 Nf5 39. a5 Nfxd4 40. Qd1 Qe4 41. a6 Qxe5 42. a7 Qe4 43. Rb2"
+70,Qg6,g5g6,3r2k1/4n1p1/2p1n1qp/4Pp2/PR1P4/4Q2P/2R2PP1/5K2 w - - 6 36,"Mistake: -1.51 » 36. Rd2 Nd5 37. Qb3 Nxb4 38. Qxb4 Kh7 39. Qc4 Rb8 40. Qc2 Rb4 41. Rd1 Qh5 42. f3 Rxd4 43. a5 Rxd1+ 44. Qxd1 f4 45. Qd3+ Kg8
+Best: +0.52 » 36. Qb3 Kh7 37. Rb7 f4 38. Rc4 Nf5 39. a5 Nfxd4 40. Qd1 Qe4 41. a6 Qxe5 42. a7 Qe4 43. Rb2"
+71,Rd2,c2d2,3r2k1/4n1p1/2p1n1qp/4Pp2/PR1P4/4Q2P/3R1PP1/5K2 b - - 7 36,"Mistake: -1.51 » 36. Rd2 Nd5 37. Qb3 Nxb4 38. Qxb4 Kh7 39. Qc4 Rb8 40. Qc2 Rb4 41. Rd1 Qh5 42. f3 Rxd4 43. a5 Rxd1+ 44. Qxd1 f4 45. Qd3+ Kg8
+Best: +0.52 » 36. Qb3 Kh7 37. Rb7 f4 38. Rc4 Nf5 39. a5 Nfxd4 40. Qd1 Qe4 41. a6 Qxe5 42. a7 Qe4 43. Rb2"
+72,Nd5,e7d5,3r2k1/6p1/2p1n1qp/3nPp2/PR1P4/4Q2P/3R1PP1/5K2 w - - 8 37,"Inaccuracy: -1.08 » … Nf4 39. g3 Nxh3 40. a5 Ng5 41. a6 Qf7 42. Qa4 Ne6 43. Qxc6 Nxd4 44. Qc5 Rd5 45. Qc8+ Kh7
+Best: -1.80 » … Rd5 39. Kg1 f4 40. Kh2 f3 41. g3 Qe4 42. a5 Nxd4 43. Qb8+ Kh7 44. a6 Rxe5 45. a7"
+73,Qb3,e3b3,3r2k1/6p1/2p1n1qp/3nPp2/PR1P4/1Q5P/3R1PP1/5K2 b - - 9 37,"Inaccuracy: -1.08 » … Nf4 39. g3 Nxh3 40. a5 Ng5 41. a6 Qf7 42. Qa4 Ne6 43. Qxc6 Nxd4 44. Qc5 Rd5 45. Qc8+ Kh7
+Best: -1.80 » … Rd5 39. Kg1 f4 40. Kh2 f3 41. g3 Qe4 42. a5 Nxd4 43. Qb8+ Kh7 44. a6 Rxe5 45. a7"
+74,Nxb4,d5b4,3r2k1/6p1/2p1n1qp/4Pp2/Pn1P4/1Q5P/3R1PP1/5K2 w - - 0 38,"Inaccuracy: -1.08 » … Nf4 39. g3 Nxh3 40. a5 Ng5 41. a6 Qf7 42. Qa4 Ne6 43. Qxc6 Nxd4 44. Qc5 Rd5 45. Qc8+ Kh7
+Best: -1.80 » … Rd5 39. Kg1 f4 40. Kh2 f3 41. g3 Qe4 42. a5 Nxd4 43. Qb8+ Kh7 44. a6 Rxe5 45. a7"
+75,Qxb4,b3b4,3r2k1/6p1/2p1n1qp/4Pp2/PQ1P4/7P/3R1PP1/5K2 b - - 0 38,"Inaccuracy: -1.08 » … Nf4 39. g3 Nxh3 40. a5 Ng5 41. a6 Qf7 42. Qa4 Ne6 43. Qxc6 Nxd4 44. Qc5 Rd5 45. Qc8+ Kh7
+Best: -1.80 » … Rd5 39. Kg1 f4 40. Kh2 f3 41. g3 Qe4 42. a5 Nxd4 43. Qb8+ Kh7 44. a6 Rxe5 45. a7"
+76,Nf4,e6f4,3r2k1/6p1/2p3qp/4Pp2/PQ1P1n2/7P/3R1PP1/5K2 w - - 1 39,"Inaccuracy: -1.08 » … Nf4 39. g3 Nxh3 40. a5 Ng5 41. a6 Qf7 42. Qa4 Ne6 43. Qxc6 Nxd4 44. Qc5 Rd5 45. Qc8+ Kh7
+Best: -1.80 » … Rd5 39. Kg1 f4 40. Kh2 f3 41. g3 Qe4 42. a5 Nxd4 43. Qb8+ Kh7 44. a6 Rxe5 45. a7"
+77,f3,f2f3,3r2k1/6p1/2p3qp/4Pp2/PQ1P1n2/5P1P/3R2P1/5K2 b - - 0 39,"Blunder: -6.43 » 40. Qc4+ Kh8 41. Qc2 Qh2 42. Qd1 Rxd4 43. Rxd4 Qxg2+ 44. Ke1 Qg1+ 45. Kd2 Qxd4+ 46. Ke1 Qe3+ 47. Kf1 Nxh3 48. Kg2 Nf4+ 49. Kh1 Nd3 50. Kg2
+Best: -2.83 » 40. Qb6 Rf8 41. d5 Nxd5 42. Qd4 Re8 43. Re2 Nf4 44. Rd2 Qh2 45. a5 Qh1+ 46. Qg1 Qxg1+ 47. Kxg1 Rxe5"
+78,Qg3,g6g3,3r2k1/6p1/2p4p/4Pp2/PQ1P1n2/5PqP/3R2P1/5K2 w - - 1 40,"Blunder: -6.43 » 40. Qc4+ Kh8 41. Qc2 Qh2 42. Qd1 Rxd4 43. Rxd4 Qxg2+ 44. Ke1 Qg1+ 45. Kd2 Qxd4+ 46. Ke1 Qe3+ 47. Kf1 Nxh3 48. Kg2 Nf4+ 49. Kh1 Nd3 50. Kg2
+Best: -2.83 » 40. Qb6 Rf8 41. d5 Nxd5 42. Qd4 Re8 43. Re2 Nf4 44. Rd2 Qh2 45. a5 Qh1+ 46. Qg1 Qxg1+ 47. Kxg1 Rxe5"
+79,Qc4+,b4c4,3r2k1/6p1/2p4p/4Pp2/P1QP1n2/5PqP/3R2P1/5K2 b - - 2 40,"Blunder: -6.43 » 40. Qc4+ Kh8 41. Qc2 Qh2 42. Qd1 Rxd4 43. Rxd4 Qxg2+ 44. Ke1 Qg1+ 45. Kd2 Qxd4+ 46. Ke1 Qe3+ 47. Kf1 Nxh3 48. Kg2 Nf4+ 49. Kh1 Nd3 50. Kg2
+Best: -2.83 » 40. Qb6 Rf8 41. d5 Nxd5 42. Qd4 Re8 43. Re2 Nf4 44. Rd2 Qh2 45. a5 Qh1+ 46. Qg1 Qxg1+ 47. Kxg1 Rxe5"
+80,Kh7,g8h7,3r4/6pk/2p4p/4Pp2/P1QP1n2/5PqP/3R2P1/5K2 w - - 3 41,"Blunder: -2.03 » … Kh7 41. Qc2 Rb8 42. Kg1 Kh8 43. Qc1 Rb3 44. Qd1 Re3 45. Kf1 c5 46. dxc5 Rxe5 47. c6
+Best: -6.43 » … Kh8 41. Qc2 Qh2 42. Qd1 Rxd4 43. Rxd4 Qxg2+ 44. Ke1 Qg1+ 45. Kd2 Qxd4+ 46. Ke1 Qe3+ 47. Kf1 Nxh3 48. Kg2 Nf4+ 49. Kh1 Nd3 50. Kg2 Qf2+"

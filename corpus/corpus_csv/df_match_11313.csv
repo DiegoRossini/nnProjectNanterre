@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The French Defense. The idea is to play d5, challenging White's e-pawn. But my opponent didn't play the main variation."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The French Defense. The idea is to play d5, challenging White's e-pawn. But my opponent didn't play the main variation."
+3,d3,d2d3,rnbqkbnr/pppp1ppp/4p3/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,"I don't play this anymore, but the idea is to play Nd2 and keep the pawn on e4 if Black plays d5."
+4,g6,g7g6,rnbqkbnr/pppp1p1p/4p1p1/8/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 0 3,Not a normal move. 2... d5 is the most common move here.
+5,f4,f2f4,rnbqkbnr/pppp1p1p/4p1p1/8/4PP2/3P4/PPP3PP/RNBQKBNR b KQkq - 0 3,I want to prep for a pawn storm on the kingside in case Black castles there.
+6,Bg7,f8g7,rnbqk1nr/pppp1pbp/4p1p1/8/4PP2/3P4/PPP3PP/RNBQKBNR w KQkq - 1 4,"A better idea is to play 4...c5 before developing the knight there, because now I can control d4 with 5. c3."
+7,Nf3,g1f3,rnbqk1nr/pppp1pbp/4p1p1/8/4PP2/3P1N2/PPP3PP/RNBQKB1R b KQkq - 2 4,"A better idea is to play 4...c5 before developing the knight there, because now I can control d4 with 5. c3."
+8,Nc6,b8c6,r1bqk1nr/pppp1pbp/2n1p1p1/8/4PP2/3P1N2/PPP3PP/RNBQKB1R w KQkq - 3 5,"A better idea is to play 4...c5 before developing the knight there, because now I can control d4 with 5. c3."
+9,c3,c2c3,r1bqk1nr/pppp1pbp/2n1p1p1/8/4PP2/2PP1N2/PP4PP/RNBQKB1R b KQkq - 0 5,"An odd developing square, because that knight does not have any active purpose there."
+10,Nh6,g8h6,r1bqk2r/pppp1pbp/2n1p1pn/8/4PP2/2PP1N2/PP4PP/RNBQKB1R w KQkq - 1 6,"An odd developing square, because that knight does not have any active purpose there."
+11,h3,h2h3,r1bqk2r/pppp1pbp/2n1p1pn/8/4PP2/2PP1N1P/PP4P1/RNBQKB1R b KQkq - 0 6,Planning g4 whenever Black castles. But Black may be afraid to castle there if I play it too early.
+12,O-O,e8g8,r1bq1rk1/pppp1pbp/2n1p1pn/8/4PP2/2PP1N1P/PP4P1/RNBQKB1R w KQ - 1 7,"I'm threatening g5, winning the misplaced knight."
+13,g4,g2g4,r1bq1rk1/pppp1pbp/2n1p1pn/8/4PPP1/2PP1N1P/PP6/RNBQKB1R b KQ - 0 7,"I'm threatening g5, winning the misplaced knight."
+14,f6,f7f6,r1bq1rk1/pppp2bp/2n1pppn/8/4PPP1/2PP1N1P/PP6/RNBQKB1R w KQ - 0 8,Gives the knight the escape square f7.
+15,g5,g4g5,r1bq1rk1/pppp2bp/2n1pppn/6P1/4PP2/2PP1N1P/PP6/RNBQKB1R b KQ - 0 8,I thought I was being too hasty. I should've continued the attack slower and safer.
+16,fxg5,f6g5,r1bq1rk1/pppp2bp/2n1p1pn/6p1/4PP2/2PP1N1P/PP6/RNBQKB1R w KQ - 0 9,"Although I have a strong centre, I'm lacking in development from moving too many pawns, and my kingside is overextended."
+17,fxg5,f4g5,r1bq1rk1/pppp2bp/2n1p1pn/6P1/4P3/2PP1N1P/PP6/RNBQKB1R b KQ - 0 9,"Although I have a strong centre, I'm lacking in development from moving too many pawns, and my kingside is overextended."
+18,Nf7,h6f7,r1bq1rk1/pppp1nbp/2n1p1p1/6P1/4P3/2PP1N1P/PP6/RNBQKB1R w KQ - 1 10,"Although I have a strong centre, I'm lacking in development from moving too many pawns, and my kingside is overextended."
+19,d4,d3d4,r1bq1rk1/pppp1nbp/2n1p1p1/6P1/3PP3/2P2N1P/PP6/RNBQKB1R b KQ - 0 10,"Although I have a strong centre, I'm lacking in development from moving too many pawns, and my kingside is overextended."
+20,d5,d7d5,r1bq1rk1/ppp2nbp/2n1p1p1/3p2P1/3PP3/2P2N1P/PP6/RNBQKB1R w KQ - 0 11,"Now the position becomes more like a French structure, but where Black hasn't played c5."
+21,e5,e4e5,r1bq1rk1/ppp2nbp/2n1p1p1/3pP1P1/3P4/2P2N1P/PP6/RNBQKB1R b KQ - 0 11,"Now the position becomes more like a French structure, but where Black hasn't played c5."
+22,a6,a7a6,r1bq1rk1/1pp2nbp/p1n1p1p1/3pP1P1/3P4/2P2N1P/PP6/RNBQKB1R w KQ - 0 12,I wasn't sure exactly what the reason for this was.
+23,Bd3,f1d3,r1bq1rk1/1pp2nbp/p1n1p1p1/3pP1P1/3P4/2PB1N1P/PP6/RNBQK2R b KQ - 1 12,This move was also odd to me.
+24,Ne7,c6e7,r1bq1rk1/1pp1nnbp/p3p1p1/3pP1P1/3P4/2PB1N1P/PP6/RNBQK2R w KQ - 2 13,This move was also odd to me.
+25,Qe2,d1e2,r1bq1rk1/1pp1nnbp/p3p1p1/3pP1P1/3P4/2PB1N1P/PP2Q3/RNB1K2R b KQ - 3 13,"I plan to castle queenside, where I have pawns to cover me."
+26,h5,h7h5,r1bq1rk1/1pp1nnb1/p3p1p1/3pP1Pp/3P4/2PB1N1P/PP2Q3/RNB1K2R w KQ h6 0 14,Black keeps making odd moves here.
+27,Bf4,c1f4,r1bq1rk1/1pp1nnb1/p3p1p1/3pP1Pp/3P1B2/2PB1N1P/PP2Q3/RN2K2R b KQ - 1 14,"I thought Be3 was a better place for my bishop, where it doesn't sit on the open f-file."
+28,Nh8,f7h8,r1bq1rkn/1pp1n1b1/p3p1p1/3pP1Pp/3P1B2/2PB1N1P/PP2Q3/RN2K2R w KQ - 2 15,"Black has made 4 odd moves in a row, and I should've been winning, except I made a huge blunder here, getting into a lost position."
+29,Nbd2,b1d2,r1bq1rkn/1pp1n1b1/p3p1p1/3pP1Pp/3P1B2/2PB1N1P/PP1NQ3/R3K2R b KQ - 3 15,"15. Nbd2?? is totally losing because I hang the bishop. This is a common mistake in correspondence chess because a lot of times players will go to a game they haven't looked at for a few days, and make a move without checking the position for hanging pieces or threats."
+30,Rxf4,f8f4,r1bq2kn/1pp1n1b1/p3p1p1/3pP1Pp/3P1r2/2PB1N1P/PP1NQ3/R3K2R w KQ - 0 16,"I am totally lost in this position, but miraculously I came back and won. You're probably wondering how that happened in a position like this."

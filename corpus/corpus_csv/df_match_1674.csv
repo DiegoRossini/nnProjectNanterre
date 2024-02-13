@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Two knights defense.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Two knights defense.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Two knights defense.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Two knights defense.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Two knights defense.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Two knights defense.
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Ulvestad variation.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Ulvestad variation.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Lolli attack.
+10,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,Lolli attack.
+11,Qf3,d1f3,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/5Q2/PPPP1PPP/RNB1K2R b KQkq - 1 6,"Bd7 would probably have been better.  Alternatively, Qg6 gives black a new line of attack while defending the black knight."
+12,Qxg5,d8g5,r1b1kb1r/ppp2ppp/2n5/3np1q1/2B5/5Q2/PPPP1PPP/RNB1K2R w KQkq - 0 7,"Bd7 would probably have been better.  Alternatively, Qg6 gives black a new line of attack while defending the black knight."
+13,Bxd5,c4d5,r1b1kb1r/ppp2ppp/2n5/3Bp1q1/8/5Q2/PPPP1PPP/RNB1K2R b KQkq - 0 7,"Bd7 would probably have been better.  Alternatively, Qg6 gives black a new line of attack while defending the black knight."
+14,Be6,c8e6,r3kb1r/ppp2ppp/2n1b3/3Bp1q1/8/5Q2/PPPP1PPP/RNB1K2R w KQkq - 1 8,"Bd7 would probably have been better.  Alternatively, Qg6 gives black a new line of attack while defending the black knight."
+15,Bxc6+,d5c6,r3kb1r/ppp2ppp/2B1b3/4p1q1/8/5Q2/PPPP1PPP/RNB1K2R b KQkq - 0 8,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+16,Kd8,e8d8,r2k1b1r/ppp2ppp/2B1b3/4p1q1/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 1 9,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+17,Bxb7,c6b7,r2k1b1r/pBp2ppp/4b3/4p1q1/8/5Q2/PPPP1PPP/RNB1K2R b KQ - 0 9,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+18,Rb8,a8b8,1r1k1b1r/pBp2ppp/4b3/4p1q1/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 1 10,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+19,O-O,e1g1,1r1k1b1r/pBp2ppp/4b3/4p1q1/8/5Q2/PPPP1PPP/RNB2RK1 b - - 2 10,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+20,Bd6,f8d6,1r1k3r/pBp2ppp/3bb3/4p1q1/8/5Q2/PPPP1PPP/RNB2RK1 w - - 3 11,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+21,d4,d2d4,1r1k3r/pBp2ppp/3bb3/4p1q1/3P4/5Q2/PPP2PPP/RNB2RK1 b - - 0 11,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+22,exd4,e5d4,1r1k3r/pBp2ppp/3bb3/6q1/3p4/5Q2/PPP2PPP/RNB2RK1 w - - 0 12,Oops.  The reason white could move that d2 pawn now and not before castling was because otherwise black would get Bc1 for free.
+23,Bxg5+,c1g5,1r1k3r/pBp2ppp/3bb3/6B1/3p4/5Q2/PPP2PPP/RN3RK1 b - - 0 12,"While black can ill afford material trades, Be7 would make the game last longer.  The f6 interposition does not work well because BxP+.  PxB, QxB+ and black must move Kd7 or lose the h rook.  White would probably not trade a bishop for two pawns, but instead threaten black's black bishop with Bf4."
+24,Kd7,d8d7,1r5r/pBpk1ppp/3bb3/6B1/3p4/5Q2/PPP2PPP/RN3RK1 w - - 1 13,"While black can ill afford material trades, Be7 would make the game last longer.  The f6 interposition does not work well because BxP+.  PxB, QxB+ and black must move Kd7 or lose the h rook.  White would probably not trade a bishop for two pawns, but instead threaten black's black bishop with Bf4."
+25,Qc6#,f3c6,1r5r/pBpk1ppp/2Qbb3/6B1/3p4/8/PPP2PPP/RN3RK1 b - - 2 13,

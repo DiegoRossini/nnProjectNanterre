@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This defense is considered standard, but is probably inferior."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This defense is considered standard, but is probably inferior."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"This defense is considered standard, but is probably inferior."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"This defense is considered standard, but is probably inferior."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Nxd4?! is playable of course, but perhaps stronger is 4. Qxd4!?, with 4... Nc6 being answered by 5 Bb5, while after 4... Bd7 white can develop his Bc1 and then answer Nc6 naturally with Qd2."
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Nxd4?! is playable of course, but perhaps stronger is 4. Qxd4!?, with 4... Nc6 being answered by 5 Bb5, while after 4... Bd7 white can develop his Bc1 and then answer Nc6 naturally with Qd2."
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Nxd4?! is playable of course, but perhaps stronger is 4. Qxd4!?, with 4... Nc6 being answered by 5 Bb5, while after 4... Bd7 white can develop his Bc1 and then answer Nc6 naturally with Qd2."
+8,Qh4,d8h4,rnb1kbnr/ppp2ppp/3p4/8/3NP2q/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Qh4? is simply bad. There is a line in the Scotch game where Qh4 is played, however, but that is with extenuating circumstances."
+9,Nc3,b1c3,rnb1kbnr/ppp2ppp/3p4/8/3NP2q/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,It is now clear that Qh4 did nothing.
+10,c6,c7c6,rnb1kbnr/pp3ppp/2pp4/8/3NP2q/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,It is now clear that Qh4 did nothing.
+11,g3,g2g3,rnb1kbnr/pp3ppp/2pp4/8/3NP2q/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6,Be7?? loses.
+12,Qd8,h4d8,rnbqkbnr/pp3ppp/2pp4/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R w KQkq - 1 7,Be7?? loses.
+13,Bg2,f1g2,rnbqkbnr/pp3ppp/2pp4/8/3NP3/2N3P1/PPP2PBP/R1BQK2R b KQkq - 2 7,Be7?? loses.
+14,h5,h7h5,rnbqkbnr/pp3pp1/2pp4/7p/3NP3/2N3P1/PPP2PBP/R1BQK2R w KQkq - 0 8,Be7?? loses.
+15,h4,h2h4,rnbqkbnr/pp3pp1/2pp4/7p/3NP2P/2N3P1/PPP2PB1/R1BQK2R b KQkq - 0 8,Be7?? loses.
+16,Nd7,b8d7,r1bqkbnr/pp1n1pp1/2pp4/7p/3NP2P/2N3P1/PPP2PB1/R1BQK2R w KQkq - 1 9,Be7?? loses.
+17,Bg5,c1g5,r1bqkbnr/pp1n1pp1/2pp4/6Bp/3NP2P/2N3P1/PPP2PB1/R2QK2R b KQkq - 2 9,Be7?? loses.
+18,Be7,f8e7,r1bqk1nr/pp1nbpp1/2pp4/6Bp/3NP2P/2N3P1/PPP2PB1/R2QK2R w KQkq - 3 10,Be7?? loses.
+19,Bxe7,g5e7,r1bqk1nr/pp1nBpp1/2pp4/7p/3NP2P/2N3P1/PPP2PB1/R2QK2R b KQkq - 0 10,Now Bxe7?? lets black back into the game. Instead 10. Nf5! threatening both g7 and d6 is winning: Bxg5 Nxd6+ Kf8 (Ke7 hxg5) hxg5 and now Qxg5?? loses a piece to Nxc8 (Rxc8 Qxd7).
+20,Qxe7,d8e7,r1b1k1nr/pp1nqpp1/2pp4/7p/3NP2P/2N3P1/PPP2PB1/R2QK2R w KQkq - 0 11,"Qxe7?? loses again! After Nxe7 black is holding for the moment, although having lost his dark square bishop the d6 pawn may be in some trouble."
+21,Qd3,d1d3,r1b1k1nr/pp1nqpp1/2pp4/7p/3NP2P/2NQ2P1/PPP2PB1/R3K2R b KQkq - 1 11,Qd3?? lets black back into the game! Again Nf5 wins.
+22,Ne5,d7e5,r1b1k1nr/pp2qpp1/2pp4/4n2p/3NP2P/2NQ2P1/PPP2PB1/R3K2R w KQkq - 2 12,Now the f5 square is guarded.
+23,Qe2,d3e2,r1b1k1nr/pp2qpp1/2pp4/4n2p/3NP2P/2N3P1/PPP1QPB1/R3K2R b KQkq - 3 12,Bf3?? drops a piece.
+24,Bg4,c8g4,r3k1nr/pp2qpp1/2pp4/4n2p/3NP1bP/2N3P1/PPP1QPB1/R3K2R w KQkq - 4 13,Bf3?? drops a piece.
+25,Bf3,g2f3,r3k1nr/pp2qpp1/2pp4/4n2p/3NP1bP/2N2BP1/PPP1QP2/R3K2R b KQkq - 5 13,Bf3?? drops a piece.
+26,Nxf3+,e5f3,r3k1nr/pp2qpp1/2pp4/7p/3NP1bP/2N2nP1/PPP1QP2/R3K2R w KQkq - 0 14,"0-0-0?? lets white back, instead ... Qf6! is winning."
+27,Nxf3,d4f3,r3k1nr/pp2qpp1/2pp4/7p/4P1bP/2N2NP1/PPP1QP2/R3K2R b KQkq - 0 14,"0-0-0?? lets white back, instead ... Qf6! is winning."
+28,O-O-O,e8c8,2kr2nr/pp2qpp1/2pp4/7p/4P1bP/2N2NP1/PPP1QP2/R3K2R w KQ - 1 15,"0-0-0?? lets white back, instead ... Qf6! is winning."
+29,O-O-O,e1c1,2kr2nr/pp2qpp1/2pp4/7p/4P1bP/2N2NP1/PPP1QP2/2KR3R b - - 2 15,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+30,Qf6,e7f6,2kr2nr/pp3pp1/2pp1q2/7p/4P1bP/2N2NP1/PPP1QP2/2KR3R w - - 3 16,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+31,Rd3,d1d3,2kr2nr/pp3pp1/2pp1q2/7p/4P1bP/2NR1NP1/PPP1QP2/2K4R b - - 4 16,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+32,Re8,d8e8,2k1r1nr/pp3pp1/2pp1q2/7p/4P1bP/2NR1NP1/PPP1QP2/2K4R w - - 5 17,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+33,Qd1,e2d1,2k1r1nr/pp3pp1/2pp1q2/7p/4P1bP/2NR1NP1/PPP2P2/2KQ3R b - - 6 17,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+34,Kc7,c8c7,4r1nr/ppk2pp1/2pp1q2/7p/4P1bP/2NR1NP1/PPP2P2/2KQ3R w - - 7 18,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+35,Re1,h1e1,4r1nr/ppk2pp1/2pp1q2/7p/4P1bP/2NR1NP1/PPP2P2/2KQR3 b - - 8 18,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+36,d5,d6d5,4r1nr/ppk2pp1/2p2q2/3p3p/4P1bP/2NR1NP1/PPP2P2/2KQR3 w - - 0 19,"Of course this invited complications. Perhaps black should have avoided it altogether. Of course, it is also true that black did not defend at all in the game, but it appears that even with reasonable play the reply exd5! may be strong."
+37,exd5,e4d5,4r1nr/ppk2pp1/2p2q2/3P3p/6bP/2NR1NP1/PPP2P2/2KQR3 b - - 0 19,"This appears sound, although it should not have led to as large an advantage as it did in the game."
+38,Rxe1,e8e1,6nr/ppk2pp1/2p2q2/3P3p/6bP/2NR1NP1/PPP2P2/2KQr3 w - - 0 20,"This is the point where black might have wanted to pay attention. Clearly the maneuver Qe3-a7 is possible, so black might have wanted to defend by 21 ... Kd8 22 Qe3 Bg4 23 Qxa7 Bc8. With two pawns already and a potential third on b7 following Ne4-c5 (or potentially Na4-c5/b6), white looks better, but black could have continued playing."
+39,Qxe1,d1e1,6nr/ppk2pp1/2p2q2/3P3p/6bP/2NR1NP1/PPP2P2/2K1Q3 b - - 0 20,"This is the point where black might have wanted to pay attention. Clearly the maneuver Qe3-a7 is possible, so black might have wanted to defend by 21 ... Kd8 22 Qe3 Bg4 23 Qxa7 Bc8. With two pawns already and a potential third on b7 following Ne4-c5 (or potentially Na4-c5/b6), white looks better, but black could have continued playing."
+40,Bxf3,g4f3,6nr/ppk2pp1/2p2q2/3P3p/7P/2NR1bP1/PPP2P2/2K1Q3 w - - 0 21,"This is the point where black might have wanted to pay attention. Clearly the maneuver Qe3-a7 is possible, so black might have wanted to defend by 21 ... Kd8 22 Qe3 Bg4 23 Qxa7 Bc8. With two pawns already and a potential third on b7 following Ne4-c5 (or potentially Na4-c5/b6), white looks better, but black could have continued playing."
+41,d6+,d5d6,6nr/ppk2pp1/2pP1q2/7p/7P/2NR1bP1/PPP2P2/2K1Q3 b - - 0 21,"This is the point where black might have wanted to pay attention. Clearly the maneuver Qe3-a7 is possible, so black might have wanted to defend by 21 ... Kd8 22 Qe3 Bg4 23 Qxa7 Bc8. With two pawns already and a potential third on b7 following Ne4-c5 (or potentially Na4-c5/b6), white looks better, but black could have continued playing."
+42,Kd7,c7d7,6nr/pp1k1pp1/2pP1q2/7p/7P/2NR1bP1/PPP2P2/2K1Q3 w - - 1 22,"This is the point where black might have wanted to pay attention. Clearly the maneuver Qe3-a7 is possible, so black might have wanted to defend by 21 ... Kd8 22 Qe3 Bg4 23 Qxa7 Bc8. With two pawns already and a potential third on b7 following Ne4-c5 (or potentially Na4-c5/b6), white looks better, but black could have continued playing."
+43,Qe3,e1e3,6nr/pp1k1pp1/2pP1q2/7p/7P/2NRQbP1/PPP2P2/2K5 b - - 2 22,Rxd5? is probably bad. Instead 24 Qxa7! seems to leave white with a winning position.
+44,Bd5,f3d5,6nr/pp1k1pp1/2pP1q2/3b3p/7P/2NRQ1P1/PPP2P2/2K5 w - - 3 23,Rxd5? is probably bad. Instead 24 Qxa7! seems to leave white with a winning position.
+45,Nxd5,c3d5,6nr/pp1k1pp1/2pP1q2/3N3p/7P/3RQ1P1/PPP2P2/2K5 b - - 0 23,Rxd5? is probably bad. Instead 24 Qxa7! seems to leave white with a winning position.
+46,cxd5,c6d5,6nr/pp1k1pp1/3P1q2/3p3p/7P/3RQ1P1/PPP2P2/2K5 w - - 0 24,Rxd5? is probably bad. Instead 24 Qxa7! seems to leave white with a winning position.
+47,Rxd5,d3d5,6nr/pp1k1pp1/3P1q2/3R3p/7P/4Q1P1/PPP2P2/2K5 b - - 0 24,Rxd5? is probably bad. Instead 24 Qxa7! seems to leave white with a winning position.
+48,Qe6,f6e6,6nr/pp1k1pp1/3Pq3/3R3p/7P/4Q1P1/PPP2P2/2K5 w - - 1 25,"Of course, this loses. Black could have tried ... b6! perhaps?"
+49,Qc5,e3c5,6nr/pp1k1pp1/3Pq3/2QR3p/7P/6P1/PPP2P2/2K5 b - - 2 25,Now white is winning.
+50,Ne7,g8e7,7r/pp1knpp1/3Pq3/2QR3p/7P/6P1/PPP2P2/2K5 w - - 3 26,
+51,Qc7+,c5c7,7r/ppQknpp1/3Pq3/3R3p/7P/6P1/PPP2P2/2K5 b - - 4 26,
+52,Ke8,d7e8,4k2r/ppQ1npp1/3Pq3/3R3p/7P/6P1/PPP2P2/2K5 w - - 5 27,
+53,d7+,d6d7,4k2r/ppQPnpp1/4q3/3R3p/7P/6P1/PPP2P2/2K5 b - - 0 27,
+54,Kf8,e8f8,5k1r/ppQPnpp1/4q3/3R3p/7P/6P1/PPP2P2/2K5 w - - 1 28,
+55,d8=Q#,d7d8q,3Q1k1r/ppQ1npp1/4q3/3R3p/7P/6P1/PPP2P2/2K5 b - - 0 28,

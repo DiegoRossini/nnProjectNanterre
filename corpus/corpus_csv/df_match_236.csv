@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A brilliant game ! I try to anotate although I do not have the level.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,agressive beginning
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,agressive beginning
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/2pp4/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,agressive beginning
+5,exd5,e4d5,rnbqkbnr/pp2pppp/8/2pP4/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3,agressive beginning
+6,Qxd5,d8d5,rnb1kbnr/pp2pppp/8/2pq4/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 4,agressive beginning
+7,d4,d2d4,rnb1kbnr/pp2pppp/8/2pq4/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,"Probably to avoid 6.Bd3, for black doesn't want to play c4"
+8,Nc6,b8c6,r1b1kbnr/pp2pppp/2n5/2pq4/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 1 5,"Probably to avoid 6.Bd3, for black doesn't want to play c4"
+9,Nf3,g1f3,r1b1kbnr/pp2pppp/2n5/2pq4/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5,"Probably to avoid 6.Bd3, for black doesn't want to play c4"
+10,Bf5,c8f5,r3kbnr/pp2pppp/2n5/2pq1b2/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6,"Probably to avoid 6.Bd3, for black doesn't want to play c4"
+11,Be3,c1e3,r3kbnr/pp2pppp/2n5/2pq1b2/3P4/2P1BN2/PP3PPP/RN1QKB1R b KQkq - 4 6,Enabling 8. Bc4 but closing the d file for the queen. Would Na3 have been better ?
+12,Nf6,g8f6,r3kb1r/pp2pppp/2n2n2/2pq1b2/3P4/2P1BN2/PP3PPP/RN1QKB1R w KQkq - 5 7,Enabling 8. Bc4 but closing the d file for the queen. Would Na3 have been better ?
+13,Nbd2,b1d2,r3kb1r/pp2pppp/2n2n2/2pq1b2/3P4/2P1BN2/PP1N1PPP/R2QKB1R b KQkq - 6 7,Enabling 8. Bc4 but closing the d file for the queen. Would Na3 have been better ?
+14,cxd4,c5d4,r3kb1r/pp2pppp/2n2n2/3q1b2/3p4/2P1BN2/PP1N1PPP/R2QKB1R w KQkq - 0 8,The black queen has little place to go and there is a danger for black on f7.
+15,Bc4,f1c4,r3kb1r/pp2pppp/2n2n2/3q1b2/2Bp4/2P1BN2/PP1N1PPP/R2QK2R b KQkq - 1 8,The black queen has little place to go and there is a danger for black on f7.
+16,dxe3,d4e3,r3kb1r/pp2pppp/2n2n2/3q1b2/2B5/2P1pN2/PP1N1PPP/R2QK2R w KQkq - 0 9,"Queen sacrifice !?
+The computer doesn't consider it as a mistake, so that it has to be !!"
+17,Bxd5,c4d5,r3kb1r/pp2pppp/2n2n2/3B1b2/8/2P1pN2/PP1N1PPP/R2QK2R b KQkq - 0 9,Why not accept the gift ?
+18,exd2+,e3d2,r3kb1r/pp2pppp/2n2n2/3B1b2/8/2P2N2/PP1p1PPP/R2QK2R w KQkq - 0 10,If 10. Nxd2 Nxd2 and material value is equal but black is better in developpement
+19,Qxd2,d1d2,r3kb1r/pp2pppp/2n2n2/3B1b2/8/2P2N2/PP1Q1PPP/R3K2R b KQkq - 0 10,If 10. Nxd2 Nxd2 and material value is equal but black is better in developpement
+20,O-O-O,e8c8,2kr1b1r/pp2pppp/2n2n2/3B1b2/8/2P2N2/PP1Q1PPP/R3K2R w KQ - 1 11,Pinning the LSB
+21,c4,c3c4,2kr1b1r/pp2pppp/2n2n2/3B1b2/2P5/5N2/PP1Q1PPP/R3K2R b KQ - 0 11,logical attack
+22,e6,e7e6,2kr1b1r/pp3ppp/2n1pn2/3B1b2/2P5/5N2/PP1Q1PPP/R3K2R w KQ - 0 12,logical attack
+23,Qf4,d2f4,2kr1b1r/pp3ppp/2n1pn2/3B1b2/2P2Q2/5N2/PP3PPP/R3K2R b KQ - 1 12,Unpinning the bishop and menacing to exchange bishops if black plays 13... exd5
+24,Bb4+,f8b4,2kr3r/pp3ppp/2n1pn2/3B1b2/1bP2Q2/5N2/PP3PPP/R3K2R w KQ - 2 13,Just to prevent black to castle
+25,Ke2,e1e2,2kr3r/pp3ppp/2n1pn2/3B1b2/1bP2Q2/5N2/PP2KPPP/R6R b - - 3 13,Almost forced
+26,Bd6,b4d6,2kr3r/pp3ppp/2nbpn2/3B1b2/2P2Q2/5N2/PP2KPPP/R6R w - - 4 14,Black wants to send the white queen away from the LSB to take on d5
+27,Qg5,f4g5,2kr3r/pp3ppp/2nbpn2/3B1bQ1/2P5/5N2/PP2KPPP/R6R b - - 5 14,Only move to carry on menacing the LSB
+28,h6,h7h6,2kr3r/pp3pp1/2nbpn1p/3B1bQ1/2P5/5N2/PP2KPPP/R6R w - - 0 15,! sacrifying a pawn
+29,Qxg7,g5g7,2kr3r/pp3pQ1/2nbpn1p/3B1b2/2P5/5N2/PP2KPPP/R6R b - - 0 15,sacrifying another pawn.
+30,Nh5,f6h5,2kr3r/pp3pQ1/2nbp2p/3B1b1n/2P5/5N2/PP2KPPP/R6R w - - 1 16,sacrifying another pawn.
+31,Qxf7,g7f7,2kr3r/pp3Q2/2nbp2p/3B1b1n/2P5/5N2/PP2KPPP/R6R b - - 0 16,"Critical point of the game :
+White has a strong material advance (partly compensated by the fact that white will take the LSB)
+Black's pawn structure is terrible
+but :
+White will quickly be out of the center
+The white king is extremely weak
+Black pieces are more active and better connected ( The white queen is alone and in danger)
+Black has a rook on the central open file."
+32,Nf4+,h5f4,2kr3r/pp3Q2/2nbp2p/3B1b2/2P2n2/5N2/PP2KPPP/R6R w - - 1 17,White has little other choice (because of black's bishops)
+33,Kd1,e2d1,2kr3r/pp3Q2/2nbp2p/3B1b2/2P2n2/5N2/PP3PPP/R2K3R b - - 2 17,White has little other choice (because of black's bishops)
+34,Rhf8,h8f8,2kr1r2/pp3Q2/2nbp2p/3B1b2/2P2n2/5N2/PP3PPP/R2K3R w - - 3 18,Only square for the queen
+35,Qg7,f7g7,2kr1r2/pp4Q1/2nbp2p/3B1b2/2P2n2/5N2/PP3PPP/R2K3R b - - 4 18,Only square for the queen

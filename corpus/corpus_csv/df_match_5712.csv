@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Blocking the bishop's diagonal and limiting its usefulness.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Blocking the bishop's diagonal and limiting its usefulness.
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Blocking the bishop's diagonal and limiting its usefulness.
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,Blocking the bishop's diagonal and limiting its usefulness.
+5,Nc3,b1c3,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 1 3,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 2 4,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+7,d3,d2d3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 0 4,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2B1P3/2NP4/PPP2PPP/R1BQK1NR w KQkq - 1 5,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+9,Bg5,c1g5,r1bqkb1r/pp1p1ppp/2n1pn2/2p3B1/2B1P3/2NP4/PPP2PPP/R2QK1NR b KQkq - 2 5,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+10,Be7,f8e7,r1bqk2r/pp1pbppp/2n1pn2/2p3B1/2B1P3/2NP4/PPP2PPP/R2QK1NR w KQkq - 3 6,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+11,Nf3,g1f3,r1bqk2r/pp1pbppp/2n1pn2/2p3B1/2B1P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 4 6,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+12,O-O,e8g8,r1bq1rk1/pp1pbppp/2n1pn2/2p3B1/2B1P3/2NP1N2/PPP2PPP/R2QK2R w KQ - 5 7,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+13,h4,h2h4,r1bq1rk1/pp1pbppp/2n1pn2/2p3B1/2B1P2P/2NP1N2/PPP2PP1/R2QK2R b KQ - 0 7,This is probably too aggressive.  White has no guarantee of a winning attack on the flank while my center potential is threatening.
+14,h6,h7h6,r1bq1rk1/pp1pbpp1/2n1pn1p/2p3B1/2B1P2P/2NP1N2/PPP2PP1/R2QK2R w KQ - 0 8,Forcing a decision.
+15,Be3,g5e3,r1bq1rk1/pp1pbpp1/2n1pn1p/2p5/2B1P2P/2NPBN2/PPP2PP1/R2QK2R b KQ - 1 8,"A mistake, allowing me to force the loss of a piece."
+16,d5,d7d5,r1bq1rk1/pp2bpp1/2n1pn1p/2pp4/2B1P2P/2NPBN2/PPP2PP1/R2QK2R w KQ - 0 9,"The classic central break, now enhanced because of the positions of his bishops and c3 knight."
+17,e5,e4e5,r1bq1rk1/pp2bpp1/2n1pn1p/2ppP3/2B4P/2NPBN2/PPP2PP1/R2QK2R b KQ - 0 9,Not very useful.  I will simply move away.
+18,Ng4,f6g4,r1bq1rk1/pp2bpp1/2n1p2p/2ppP3/2B3nP/2NPBN2/PPP2PP1/R2QK2R w KQ - 1 10,"If he take the f6 pawn, I intend to take with the bishop, enticing him to take on c5.  If he takes, I will triple his pawns with Bxc3."
+19,Bxd5,c4d5,r1bq1rk1/pp2bpp1/2n1p2p/2pBP3/6nP/2NPBN2/PPP2PP1/R2QK2R b KQ - 0 10,"If he take the f6 pawn, I intend to take with the bishop, enticing him to take on c5.  If he takes, I will triple his pawns with Bxc3."
+20,exd5,e6d5,r1bq1rk1/pp2bpp1/2n4p/2ppP3/6nP/2NPBN2/PPP2PP1/R2QK2R w KQ - 0 11,"If he take the f6 pawn, I intend to take with the bishop, enticing him to take on c5.  If he takes, I will triple his pawns with Bxc3."
+21,d4,d3d4,r1bq1rk1/pp2bpp1/2n4p/2ppP3/3P2nP/2N1BN2/PPP2PP1/R2QK2R b KQ - 0 11,"If he take the f6 pawn, I intend to take with the bishop, enticing him to take on c5.  If he takes, I will triple his pawns with Bxc3."
+22,f6,f7f6,r1bq1rk1/pp2b1p1/2n2p1p/2ppP3/3P2nP/2N1BN2/PPP2PP1/R2QK2R w KQ - 0 12,"If he take the f6 pawn, I intend to take with the bishop, enticing him to take on c5.  If he takes, I will triple his pawns with Bxc3."
+23,exf6,e5f6,r1bq1rk1/pp2b1p1/2n2P1p/2pp4/3P2nP/2N1BN2/PPP2PP1/R2QK2R b KQ - 0 12,"White's pawn structure is ruined, and he's down in material.  It SHOULD be a sinch to win this, but, being a teenager, I do something dumb and impulsive that allows Mr. Clark to get back into the game."
+24,Bxf6,e7f6,r1bq1rk1/pp4p1/2n2b1p/2pp4/3P2nP/2N1BN2/PPP2PP1/R2QK2R w KQ - 0 13,"White's pawn structure is ruined, and he's down in material.  It SHOULD be a sinch to win this, but, being a teenager, I do something dumb and impulsive that allows Mr. Clark to get back into the game."
+25,dxc5,d4c5,r1bq1rk1/pp4p1/2n2b1p/2Pp4/6nP/2N1BN2/PPP2PP1/R2QK2R b KQ - 0 13,"White's pawn structure is ruined, and he's down in material.  It SHOULD be a sinch to win this, but, being a teenager, I do something dumb and impulsive that allows Mr. Clark to get back into the game."
+26,Bxc3+,f6c3,r1bq1rk1/pp4p1/2n4p/2Pp4/6nP/2b1BN2/PPP2PP1/R2QK2R w KQ - 0 14,"White's pawn structure is ruined, and he's down in material.  It SHOULD be a sinch to win this, but, being a teenager, I do something dumb and impulsive that allows Mr. Clark to get back into the game."
+27,bxc3,b2c3,r1bq1rk1/pp4p1/2n4p/2Pp4/6nP/2P1BN2/P1P2PP1/R2QK2R b KQ - 0 14,"White's pawn structure is ruined, and he's down in material.  It SHOULD be a sinch to win this, but, being a teenager, I do something dumb and impulsive that allows Mr. Clark to get back into the game."
+28,Nxe3,g4e3,r1bq1rk1/pp4p1/2n4p/2Pp4/7P/2P1nN2/P1P2PP1/R2QK2R w KQ - 0 15,Bxf3 was probably better.
+29,fxe3,f2e3,r1bq1rk1/pp4p1/2n4p/2Pp4/7P/2P1PN2/P1P3P1/R2QK2R b KQ - 0 15,Bxf3 was probably better.
+30,Bg4,c8g4,r2q1rk1/pp4p1/2n4p/2Pp4/6bP/2P1PN2/P1P3P1/R2QK2R w KQ - 1 16,Bxf3 was probably better.
+31,Kf2,e1f2,r2q1rk1/pp4p1/2n4p/2Pp4/6bP/2P1PN2/P1P2KP1/R2Q3R b - - 2 16,Bxf3 was probably better.
+32,Ne5,c6e5,r2q1rk1/pp4p1/7p/2Ppn3/6bP/2P1PN2/P1P2KP1/R2Q3R w - - 3 17,Bxf3 was probably better.
+33,Qd4,d1d4,r2q1rk1/pp4p1/7p/2Ppn3/3Q2bP/2P1PN2/P1P2KP1/R6R b - - 4 17,Bxf3 was probably better.
+34,Nxf3,e5f3,r2q1rk1/pp4p1/7p/2Pp4/3Q2bP/2P1Pn2/P1P2KP1/R6R w - - 0 18,Bxf3 was probably better.
+35,gxf3,g2f3,r2q1rk1/pp4p1/7p/2Pp4/3Q2bP/2P1PP2/P1P2K2/R6R b - - 0 18,Bxf3 was probably better.
+36,Rxf3+,f8f3,r2q2k1/pp4p1/7p/2Pp4/3Q2bP/2P1Pr2/P1P2K2/R6R w - - 0 19,Bxf3 was probably better.
+37,Kg2,f2g2,r2q2k1/pp4p1/7p/2Pp4/3Q2bP/2P1Pr2/P1P3K1/R6R b - - 1 19,Totally missing his next move.
+38,Kh8,g8h8,r2q3k/pp4p1/7p/2Pp4/3Q2bP/2P1Pr2/P1P3K1/R6R w - - 2 20,Totally missing his next move.
+39,Qxg4,d4g4,r2q3k/pp4p1/7p/2Pp4/6QP/2P1Pr2/P1P3K1/R6R b - - 0 20,"Now I'm losing in material, but white has tripled pawns."
+40,Qf6,d8f6,r6k/pp4p1/5q1p/2Pp4/6QP/2P1Pr2/P1P3K1/R6R w - - 1 21,"Now I'm losing in material, but white has tripled pawns."
+41,Rhf1,h1f1,r6k/pp4p1/5q1p/2Pp4/6QP/2P1Pr2/P1P3K1/R4R2 b - - 2 21,White could have taken on f3 without fear.  Both me and my opponent are performing sub-par.
+42,Rxf1,f3f1,r6k/pp4p1/5q1p/2Pp4/6QP/2P1P3/P1P3K1/R4r2 w - - 0 22,"White has a ""pig on the seventh"".  He has better chances, despite his tripled pawns."
+43,Rxf1,a1f1,r6k/pp4p1/5q1p/2Pp4/6QP/2P1P3/P1P3K1/5R2 b - - 0 22,"White has a ""pig on the seventh"".  He has better chances, despite his tripled pawns."
+44,Qxc3,f6c3,r6k/pp4p1/7p/2Pp4/6QP/2q1P3/P1P3K1/5R2 w - - 0 23,"White has a ""pig on the seventh"".  He has better chances, despite his tripled pawns."
+45,Rf7,f1f7,r6k/pp3Rp1/7p/2Pp4/6QP/2q1P3/P1P3K1/8 b - - 1 23,"White has a ""pig on the seventh"".  He has better chances, despite his tripled pawns."
+46,Qxc2+,c3c2,r6k/pp3Rp1/7p/2Pp4/6QP/4P3/P1q3K1/8 w - - 0 24,Keeping a wary eye on the possible mate on g7.
+47,Kh3,g2h3,r6k/pp3Rp1/7p/2Pp4/6QP/4P2K/P1q5/8 b - - 1 24,Keeping a wary eye on the possible mate on g7.
+48,Qc3,c2c3,r6k/pp3Rp1/7p/2Pp4/6QP/2q1P2K/P7/8 w - - 2 25,Keeping a wary eye on the possible mate on g7.
+49,Qd4,g4d4,r6k/pp3Rp1/7p/2Pp4/3Q3P/2q1P2K/P7/8 b - - 3 25,"Risky, but I like 26...Rb8 27.c6 even less."
+50,Qxd4,c3d4,r6k/pp3Rp1/7p/2Pp4/3q3P/4P2K/P7/8 w - - 0 26,"Risky, but I like 26...Rb8 27.c6 even less."
+51,exd4,e3d4,r6k/pp3Rp1/7p/2Pp4/3P3P/7K/P7/8 b - - 0 26,"Risky, but I like 26...Rb8 27.c6 even less."
+52,b6,b7b6,r6k/p4Rp1/1p5p/2Pp4/3P3P/7K/P7/8 w - - 0 27,"Risky, but I like 26...Rb8 27.c6 even less."
+53,c6,c5c6,r6k/p4Rp1/1pP4p/3p4/3P3P/7K/P7/8 b - - 0 27,"Threatening Rd8+, when white gets a queen.  My next move is forced."
+54,Rc8,a8c8,2r4k/p4Rp1/1pP4p/3p4/3P3P/7K/P7/8 w - - 1 28,"Threatening Rd8+, when white gets a queen.  My next move is forced."
+55,c7,c6c7,2r4k/p1P2Rp1/1p5p/3p4/3P3P/7K/P7/8 b - - 0 28,"Threatening Rd8+, when white gets a queen.  My next move is forced."
+56,Kg8,h8g8,2r3k1/p1P2Rp1/1p5p/3p4/3P3P/7K/P7/8 w - - 1 29,"Threatening Rd8+, when white gets a queen.  My next move is forced."
+57,Rd7,f7d7,2r3k1/p1PR2p1/1p5p/3p4/3P3P/7K/P7/8 b - - 2 29,"Threatening Rd8+, when white gets a queen.  My next move is forced."
+58,Kh7,g8h7,2r5/p1PR2pk/1p5p/3p4/3P3P/7K/P7/8 w - - 3 30,Now I have to get my king around the pawns before his king blocks the way.
+59,Kg4,h3g4,2r5/p1PR2pk/1p5p/3p4/3P2KP/8/P7/8 b - - 4 30,Just in time!
+60,Kg6,h7g6,2r5/p1PR2p1/1p4kp/3p4/3P2KP/8/P7/8 w - - 5 31,Just in time!
+61,h5+,h4h5,2r5/p1PR2p1/1p4kp/3p3P/3P2K1/8/P7/8 b - - 0 31,Spotting the distant queenside pawnstorm and attempting to preempt it.
+62,Kf6,g6f6,2r5/p1PR2p1/1p3k1p/3p3P/3P2K1/8/P7/8 w - - 1 32,Spotting the distant queenside pawnstorm and attempting to preempt it.
+63,Kf4,g4f4,2r5/p1PR2p1/1p3k1p/3p3P/3P1K2/8/P7/8 b - - 2 32,Spotting the distant queenside pawnstorm and attempting to preempt it.
+64,a5,a7a5,2r5/2PR2p1/1p3k1p/p2p3P/3P1K2/8/P7/8 w - - 0 33,Spotting the distant queenside pawnstorm and attempting to preempt it.
+65,Ke3,f4e3,2r5/2PR2p1/1p3k1p/p2p3P/3P4/4K3/P7/8 b - - 1 33,Spotting the distant queenside pawnstorm and attempting to preempt it.
+66,g5,g7g5,2r5/2PR4/1p3k1p/p2p2pP/3P4/4K3/P7/8 w - g6 0 34,Forcing him to take.  This position is beginning to look drawish.

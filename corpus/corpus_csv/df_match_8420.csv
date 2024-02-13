@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c3,c2c3,rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1,Weird start off for me
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/2P5/PP1PPPPP/RNBQKBNR w KQkq - 0 2,We come into pawn action as I try to control the center
+3,e4,e2e4,rnbqkbnr/pppp1ppp/8/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,We come into pawn action as I try to control the center
+4,b6,b7b6,rnbqkbnr/p1pp1ppp/1p6/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,We come into pawn action as I try to control the center
+5,d4,d2d4,rnbqkbnr/p1pp1ppp/1p6/4p3/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,We come into pawn action as I try to control the center
+6,exd4,e5d4,rnbqkbnr/p1pp1ppp/1p6/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,Attacking my e4 pawn
+7,cxd4,c3d4,rnbqkbnr/p1pp1ppp/1p6/8/3PP3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,Attacking my e4 pawn
+8,Bb7,c8b7,rn1qkbnr/pbpp1ppp/1p6/8/3PP3/8/PP3PPP/RNBQKBNR w KQkq - 1 5,Attacking my e4 pawn
+9,Nc3,b1c3,rn1qkbnr/pbpp1ppp/1p6/8/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5,"Pinning, and still looking at getting my pawn- removing the defender"
+10,Bb4,f8b4,rn1qk1nr/pbpp1ppp/1p6/8/1b1PP3/2N5/PP3PPP/R1BQKBNR w KQkq - 3 6,"Pinning, and still looking at getting my pawn- removing the defender"
+11,Qb3,d1b3,rn1qk1nr/pbpp1ppp/1p6/8/1b1PP3/1QN5/PP3PPP/R1B1KBNR b KQkq - 4 6,To attack a possible BxC3
+12,Qe7,d8e7,rn2k1nr/pbppqppp/1p6/8/1b1PP3/1QN5/PP3PPP/R1B1KBNR w KQkq - 5 7,To attack a possible BxC3
+13,Bd2,c1d2,rn2k1nr/pbppqppp/1p6/8/1b1PP3/1QN5/PP1B1PPP/R3KBNR b KQkq - 6 7,To attack a possible BxC3
+14,Bxc3,b4c3,rn2k1nr/pbppqppp/1p6/8/3PP3/1Qb5/PP1B1PPP/R3KBNR w KQkq - 0 8,He finaly gets my pawn
+15,Bxc3,d2c3,rn2k1nr/pbppqppp/1p6/8/3PP3/1QB5/PP3PPP/R3KBNR b KQkq - 0 8,He finaly gets my pawn
+16,Qxe4+,e7e4,rn2k1nr/pbpp1ppp/1p6/8/3Pq3/1QB5/PP3PPP/R3KBNR w KQkq - 0 9,He finaly gets my pawn
+17,Be2,f1e2,rn2k1nr/pbpp1ppp/1p6/8/3Pq3/1QB5/PP2BPPP/R3K1NR b KQkq - 1 9,"There goes my rook, but in about 8 more moves, I get a rook back"
+18,Qxg2,e4g2,rn2k1nr/pbpp1ppp/1p6/8/3P4/1QB5/PP2BPqP/R3K1NR w KQkq - 0 10,"There goes my rook, but in about 8 more moves, I get a rook back"
+19,O-O-O,e1c1,rn2k1nr/pbpp1ppp/1p6/8/3P4/1QB5/PP2BPqP/2KR2NR b kq - 1 10,"I was watching this for a 10.Re1, optional, 11.Bf3, getting the queen"
+20,Qxh1,g2h1,rn2k1nr/pbpp1ppp/1p6/8/3P4/1QB5/PP2BP1P/2KR2Nq w kq - 0 11,But he blocks
+21,Re1,d1e1,rn2k1nr/pbpp1ppp/1p6/8/3P4/1QB5/PP2BP1P/2K1R1Nq b kq - 1 11,But he blocks
+22,Ne7,g8e7,rn2k2r/pbppnppp/1p6/8/3P4/1QB5/PP2BP1P/2K1R1Nq w kq - 2 12,But he blocks
+23,Qa3,b3a3,rn2k2r/pbppnppp/1p6/8/3P4/Q1B5/PP2BP1P/2K1R1Nq b kq - 3 12,"putting presure on e7, and keeping on the 3rd rank for the future attack"
+24,d6,d7d6,rn2k2r/pbp1nppp/1p1p4/8/3P4/Q1B5/PP2BP1P/2K1R1Nq w kq - 0 13,"The rook attacks, she needs to get out"
+25,Nf3,g1f3,rn2k2r/pbp1nppp/1p1p4/8/3P4/Q1B2N2/PP2BP1P/2K1R2q b kq - 1 13,"The rook attacks, she needs to get out"
+26,Qg2,h1g2,rn2k2r/pbp1nppp/1p1p4/8/3P4/Q1B2N2/PP2BPqP/2K1R3 w kq - 2 14,Ya see how keeping on the 3rd rank is helping me?!?
+27,Bd2,c3d2,rn2k2r/pbp1nppp/1p1p4/8/3P4/Q4N2/PP1BBPqP/2K1R3 b kq - 3 14,Ya see how keeping on the 3rd rank is helping me?!?
+28,Bxf3,b7f3,rn2k2r/p1p1nppp/1p1p4/8/3P4/Q4b2/PP1BBPqP/2K1R3 w kq - 0 15,now I take action
+29,Bxf3,e2f3,rn2k2r/p1p1nppp/1p1p4/8/3P4/Q4B2/PP1B1PqP/2K1R3 b kq - 0 15,forking the two
+30,Qxf2,g2f2,rn2k2r/p1p1nppp/1p1p4/8/3P4/Q4B2/PP1B1q1P/2K1R3 w kq - 0 16,"Yay white, yay white- I'm not getting as slaughtered as usual"
+31,Bxa8,f3a8,Bn2k2r/p1p1nppp/1p1p4/8/3P4/Q7/PP1B1q1P/2K1R3 b k - 0 16,"Yay white, yay white- I'm not getting as slaughtered as usual"
+32,Qf6,f2f6,Bn2k2r/p1p1nppp/1p1p1q2/8/3P4/Q7/PP1B3P/2K1R3 w k - 1 17,"Sorry, my pawn's not for sale!"
+33,Qa4+,a3a4,Bn2k2r/p1p1nppp/1p1p1q2/8/Q2P4/8/PP1B3P/2K1R3 b k - 2 17,"That, unfortunately, blocked in my bishop"
+34,Kd8,e8d8,Bn1k3r/p1p1nppp/1p1p1q2/8/Q2P4/8/PP1B3P/2K1R3 w - - 3 18,"That, unfortunately, blocked in my bishop"
+35,d5,d4d5,Bn1k3r/p1p1nppp/1p1p1q2/3P4/Q7/8/PP1B3P/2K1R3 b - - 0 18,"That, unfortunately, blocked in my bishop"
+36,a5,a7a5,Bn1k3r/2p1nppp/1p1p1q2/p2P4/Q7/8/PP1B3P/2K1R3 w - - 0 19,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+37,h4,h2h4,Bn1k3r/2p1nppp/1p1p1q2/p2P4/Q6P/8/PP1B4/2K1R3 b - - 0 19,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+38,h6,h7h6,Bn1k3r/2p1npp1/1p1p1q1p/p2P4/Q6P/8/PP1B4/2K1R3 w - - 0 20,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+39,Bc3,d2c3,Bn1k3r/2p1npp1/1p1p1q1p/p2P4/Q6P/2B5/PP6/2K1R3 b - - 1 20,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+40,Qf2,f6f2,Bn1k3r/2p1npp1/1p1p3p/p2P4/Q6P/2B5/PP3q2/2K1R3 w - - 2 21,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+41,Bc6,a8c6,1n1k3r/2p1npp1/1pBp3p/p2P4/Q6P/2B5/PP3q2/2K1R3 b - - 3 21,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+42,Nbxc6,b8c6,3k3r/2p1npp1/1pnp3p/p2P4/Q6P/2B5/PP3q2/2K1R3 w - - 0 22,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+43,dxc6,d5c6,3k3r/2p1npp1/1pPp3p/p7/Q6P/2B5/PP3q2/2K1R3 b - - 0 22,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+44,Re8,h8e8,3kr3/2p1npp1/1pPp3p/p7/Q6P/2B5/PP3q2/2K1R3 w - - 1 23,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+45,Bxa5,c3a5,3kr3/2p1npp1/1pPp3p/B7/Q6P/8/PP3q2/2K1R3 b - - 0 23,"I was looking at a mate in 3, that he avoided- well, not mate, but I would come out a knight ahead in the experience"
+46,bxa5,b6a5,3kr3/2p1npp1/2Pp3p/p7/Q6P/8/PP3q2/2K1R3 w - - 0 24,BLAST!
+47,Qxa5,a4a5,3kr3/2p1npp1/2Pp3p/Q7/7P/8/PP3q2/2K1R3 b - - 0 24,BLAST!
+48,Qc5+,f2c5,3kr3/2p1npp1/2Pp3p/Q1q5/7P/8/PP6/2K1R3 w - - 1 25,BLAST!
+49,Qxc5,a5c5,3kr3/2p1npp1/2Pp3p/2Q5/7P/8/PP6/2K1R3 b - - 0 25,"I need to go for proomotion, a knight under"
+50,dxc5,d6c5,3kr3/2p1npp1/2P4p/2p5/7P/8/PP6/2K1R3 w - - 0 26,"I need to go for proomotion, a knight under"
+51,a4,a2a4,3kr3/2p1npp1/2P4p/2p5/P6P/8/1P6/2K1R3 b - - 0 26,"I need to go for proomotion, a knight under"

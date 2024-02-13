@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"? This is terrible, not only does it take no control of the center it opens up the infamous diagonal."
+2,f6,f7f6,rnbqkbnr/ppppp1pp/5p2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"? This is terrible, not only does it take no control of the center it opens up the infamous diagonal."
+3,e4,e2e4,rnbqkbnr/ppppp1pp/5p2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,I hog the center
+4,e5,e7e5,rnbqkbnr/pppp2pp/5p2/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"? This is odd, but if I take his pawn then he can't recapture for fear of Qh5+"
+5,dxe5,d4e5,rnbqkbnr/pppp2pp/5p2/4P3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,?? Uh oh I think you know what's coming.
+6,fxe5,f6e5,rnbqkbnr/pppp2pp/8/4p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,?? Uh oh I think you know what's coming.
+7,Qh5+,d1h5,rnbqkbnr/pppp2pp/8/4p2Q/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 1 4,And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.
+8,g6,g7g6,rnbqkbnr/pppp3p/6p1/4p2Q/4P3/8/PPP2PPP/RNB1KBNR w KQkq - 0 5,And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.
+9,Qxe5+,h5e5,rnbqkbnr/pppp3p/6p1/4Q3/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 0 5,And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.
+10,Qe7,d8e7,rnb1kbnr/ppppq2p/6p1/4Q3/4P3/8/PPP2PPP/RNB1KBNR w KQkq - 1 6,And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.
+11,Qxh8,e5h8,rnb1kbnQ/ppppq2p/6p1/8/4P3/8/PPP2PPP/RNB1KBNR b KQq - 0 6,And his rook drops off. In almost all the games I've played where I win his rook like this it is a fast game where I win quickly instead of just exchanging off material and coming into a won endgame.
+12,Qxe4+,e7e4,rnb1kbnQ/pppp3p/6p1/8/4q3/8/PPP2PPP/RNB1KBNR w KQq - 0 7,I did expect this.
+13,Ne2,g1e2,rnb1kbnQ/pppp3p/6p1/8/4q3/8/PPP1NPPP/RNB1KB1R b KQq - 1 7,If I blocked with my bishop that would allow Qxg2.
+14,Bb4+,f8b4,rnb1k1nQ/pppp3p/6p1/8/1b2q3/8/PPP1NPPP/RNB1KB1R w KQq - 2 8,Odd that he didn't exchange off his bishop for mine I mean I know he's behind but I think it would have been better to exchange.
+15,Bd2,c1d2,rnb1k1nQ/pppp3p/6p1/8/1b2q3/8/PPPBNPPP/RN2KB1R b KQq - 3 8,Odd that he didn't exchange off his bishop for mine I mean I know he's behind but I think it would have been better to exchange.
+16,Kf8,e8f8,rnb2knQ/pppp3p/6p1/8/1b2q3/8/PPPBNPPP/RN2KB1R w KQ - 4 9,Odd that he didn't exchange off his bishop for mine I mean I know he's behind but I think it would have been better to exchange.
+17,Nbc3,b1c3,rnb2knQ/pppp3p/6p1/8/1b2q3/2N5/PPPBNPPP/R3KB1R b KQ - 5 9,! This breaks the pin on my DSB and attacks his queen.
+18,Qxc2,e4c2,rnb2knQ/pppp3p/6p1/8/1b6/2N5/PPqBNPPP/R3KB1R w KQ - 0 10,"I knew he could do that, but from now on he'll move nothing but his king."
+19,Bh6+,d2h6,rnb2knQ/pppp3p/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R b KQ - 1 10,I'm looking for a mating net.
+20,Kf7,f8f7,rnb3nQ/pppp1k1p/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R w KQ - 2 11,I'm looking for a mating net.
+21,Qg7+,h8g7,rnb3n1/pppp1kQp/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R b KQ - 3 11,I'm looking for a mating net.
+22,Ke8,f7e8,rnb1k1n1/pppp2Qp/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R w KQ - 4 12,Now his DSB is blocked so...
+23,Qxg8+,g7g8,rnb1k1Q1/pppp3p/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R b KQ - 0 12,Now his DSB is blocked so...
+24,Ke7,e8e7,rnb3Q1/ppppk2p/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R w KQ - 1 13,Now his DSB is blocked so...
+25,Qf8+,g8f8,rnb2Q2/ppppk2p/6pB/8/1b6/2N5/PPq1NPPP/R3KB1R b KQ - 2 13,I play this.
+26,Ke6,e7e6,rnb2Q2/pppp3p/4k1pB/8/1b6/2N5/PPq1NPPP/R3KB1R w KQ - 3 14,"Hmm, looks like there's nothing better than Qxc8 as Nd4+ doesn't win his queen because my queen is attacked. Then I noticed"
+27,Nd4+,e2d4,rnb2Q2/pppp3p/4k1pB/8/1b1N4/2N5/PPq2PPP/R3KB1R b KQ - 4 14,! That this is good after all.
+28,Ke5,e6e5,rnb2Q2/pppp3p/6pB/4k3/1b1N4/2N5/PPq2PPP/R3KB1R w KQ - 5 15,And...Checkmate! I liked this game and would appreciate comments and a rating.
+29,Bg7#,h6g7,rnb2Q2/pppp2Bp/6p1/4k3/1b1N4/2N5/PPq2PPP/R3KB1R b KQ - 6 15,And...Checkmate! I liked this game and would appreciate comments and a rating.

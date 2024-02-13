@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A drawish opening...
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A drawish opening...
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,A drawish opening...
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,A drawish opening...
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,A drawish opening...
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,A drawish opening...
+7,d4,d2d4,r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,playing for the attack...
+8,exd4,e5d4,r1bqkb1r/pppp1ppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,playing for the attack...
+9,Nd5,c3d5,r1bqkb1r/pppp1ppp/2n2n2/3N4/3pP3/5N2/PPP2PPP/R1BQKB1R b KQkq - 1 5,playing for the attack...
+10,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/3N4/3pn3/5N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Unafraid...
+11,Qe2,d1e2,r1bqkb1r/pppp1ppp/2n5/3N4/3pn3/5N2/PPP1QPPP/R1B1KB1R b KQkq - 1 6,Pinning...
+12,f5,f7f5,r1bqkb1r/pppp2pp/2n5/3N1p2/3pn3/5N2/PPP1QPPP/R1B1KB1R w KQkq - 0 7,Aggressive play.
+13,Ng5,f3g5,r1bqkb1r/pppp2pp/2n5/3N1pN1/3pn3/8/PPP1QPPP/R1B1KB1R b KQkq - 1 7,Aggressive play.
+14,d3,d4d3,r1bqkb1r/pppp2pp/2n5/3N1pN1/4n3/3p4/PPP1QPPP/R1B1KB1R w KQkq - 0 8,Aggressive play.
+15,cxd3,c2d3,r1bqkb1r/pppp2pp/2n5/3N1pN1/4n3/3P4/PP2QPPP/R1B1KB1R b KQkq - 0 8,Trying to drive the Knight.
+16,Nd4,c6d4,r1bqkb1r/pppp2pp/8/3N1pN1/3nn3/3P4/PP2QPPP/R1B1KB1R w KQkq - 1 9,Trying to drive the Knight.
+17,Qh5+,e2h5,r1bqkb1r/pppp2pp/8/3N1pNQ/3nn3/3P4/PP3PPP/R1B1KB1R b KQkq - 2 9,Trying to drive the Knight.
+18,g6,g7g6,r1bqkb1r/pppp3p/6p1/3N1pNQ/3nn3/3P4/PP3PPP/R1B1KB1R w KQkq - 0 10,Trying to drive the Knight.
+19,Qh4,h5h4,r1bqkb1r/pppp3p/6p1/3N1pN1/3nn2Q/3P4/PP3PPP/R1B1KB1R b KQkq - 1 10,Trying to drive the Knight.
+20,c6,c7c6,r1bqkb1r/pp1p3p/2p3p1/3N1pN1/3nn2Q/3P4/PP3PPP/R1B1KB1R w KQkq - 0 11,Trying to drive the Knight.
+21,dxe4,d3e4,r1bqkb1r/pp1p3p/2p3p1/3N1pN1/3nP2Q/8/PP3PPP/R1B1KB1R b KQkq - 0 11,"Both players are attacking, without thinking of development."
+22,cxd5,c6d5,r1bqkb1r/pp1p3p/6p1/3p1pN1/3nP2Q/8/PP3PPP/R1B1KB1R w KQkq - 0 12,"Both players are attacking, without thinking of development."
+23,exd5,e4d5,r1bqkb1r/pp1p3p/6p1/3P1pN1/3n3Q/8/PP3PPP/R1B1KB1R b KQkq - 0 12,"Both players are attacking, without thinking of development."
+24,Qa5+,d8a5,r1b1kb1r/pp1p3p/6p1/q2P1pN1/3n3Q/8/PP3PPP/R1B1KB1R w KQkq - 1 13,"Both players are attacking, without thinking of development."
+25,Kd1,e1d1,r1b1kb1r/pp1p3p/6p1/q2P1pN1/3n3Q/8/PP3PPP/R1BK1B1R b kq - 2 13,Sacrificing the Bishop to open lines of attack.
+26,Qxd5,a5d5,r1b1kb1r/pp1p3p/6p1/3q1pN1/3n3Q/8/PP3PPP/R1BK1B1R w kq - 0 14,Sacrificing the Bishop to open lines of attack.
+27,Bc4,f1c4,r1b1kb1r/pp1p3p/6p1/3q1pN1/2Bn3Q/8/PP3PPP/R1BK3R b kq - 1 14,Sacrificing the Bishop to open lines of attack.
+28,Qxc4,d5c4,r1b1kb1r/pp1p3p/6p1/5pN1/2qn3Q/8/PP3PPP/R1BK3R w kq - 0 15,Sacrificing the Bishop to open lines of attack.
+29,Re1+,h1e1,r1b1kb1r/pp1p3p/6p1/5pN1/2qn3Q/8/PP3PPP/R1BKR3 b kq - 1 15,"Black has a large material advantage, but his QR and QB are out of play, so White has more pieces that are effective."
+30,Be7,f8e7,r1b1k2r/pp1pb2p/6p1/5pN1/2qn3Q/8/PP3PPP/R1BKR3 w kq - 2 16,"Black has a large material advantage, but his QR and QB are out of play, so White has more pieces that are effective."
+31,Rxe7+,e1e7,r1b1k2r/pp1pR2p/6p1/5pN1/2qn3Q/8/PP3PPP/R1BK4 b kq - 0 16,"Black has a large material advantage, but his QR and QB are out of play, so White has more pieces that are effective."
+32,Kxe7,e8e7,r1b4r/pp1pk2p/6p1/5pN1/2qn3Q/8/PP3PPP/R1BK4 w - - 0 17,"Black has a large material advantage, but his QR and QB are out of play, so White has more pieces that are effective."
+33,Ne4+,g5e4,r1b4r/pp1pk2p/6p1/5p2/2qnN2Q/8/PP3PPP/R1BK4 b - - 1 17,"Tempting Black to retreat with 17... K-B1???, to which the follow-up is 18 B-R6ch!!! and Black can resign."
+34,Ke6,e7e6,r1b4r/pp1p3p/4k1p1/5p2/2qnN2Q/8/PP3PPP/R1BK4 w - - 2 18,Black doesn't fall for the trap. But now his King is exposed.
+35,Qf6+,h4f6,r1b4r/pp1p3p/4kQp1/5p2/2qnN3/8/PP3PPP/R1BK4 b - - 3 18,The King-hunt is on in earnest.
+36,Kd5,e6d5,r1b4r/pp1p3p/5Qp1/3k1p2/2qnN3/8/PP3PPP/R1BK4 w - - 4 19,The King-hunt is on in earnest.
+37,Nc3+,e4c3,r1b4r/pp1p3p/5Qp1/3k1p2/2qn4/2N5/PP3PPP/R1BK4 b - - 5 19,The King-hunt is on in earnest.
+38,Kc5,d5c5,r1b4r/pp1p3p/5Qp1/2k2p2/2qn4/2N5/PP3PPP/R1BK4 w - - 6 20,The King-hunt is on in earnest.
+39,b4+,b2b4,r1b4r/pp1p3p/5Qp1/2k2p2/1Pqn4/2N5/P4PPP/R1BK4 b - - 0 20,If Black plays 21... K-R4!! White would have to settle for a draw by perpetual check. [22 Q-R3ch K-N3 23 Q-Q6ch K-R4]
+40,Kxb4,c5b4,r1b4r/pp1p3p/5Qp1/5p2/1kqn4/2N5/P4PPP/R1BK4 w - - 0 21,If Black plays 21... K-R4!! White would have to settle for a draw by perpetual check. [22 Q-R3ch K-N3 23 Q-Q6ch K-R4]
+41,Qd6+,f6d6,r1b4r/pp1p3p/3Q2p1/5p2/1kqn4/2N5/P4PPP/R1BK4 b - - 1 21,If Black plays 21... K-R4!! White would have to settle for a draw by perpetual check. [22 Q-R3ch K-N3 23 Q-Q6ch K-R4]
+42,Kxc3,b4c3,r1b4r/pp1p3p/3Q2p1/5p2/2qn4/2k5/P4PPP/R1BK4 w - - 0 22,The fatal mistake. Now the King is toast.
+43,Qa3+,d6a3,r1b4r/pp1p3p/6p1/5p2/2qn4/Q1k5/P4PPP/R1BK4 b - - 1 22,It's a matter of moves.
+44,Nb3,d4b3,r1b4r/pp1p3p/6p1/5p2/2q5/Qnk5/P4PPP/R1BK4 w - - 2 23,It's a matter of moves.
+45,Qb2+,a3b2,r1b4r/pp1p3p/6p1/5p2/2q5/1nk5/PQ3PPP/R1BK4 b - - 3 23,It's a matter of moves.
+46,Kb4,c3b4,r1b4r/pp1p3p/6p1/5p2/1kq5/1n6/PQ3PPP/R1BK4 w - - 4 24,It's a matter of moves.
+47,Bd2+,c1d2,r1b4r/pp1p3p/6p1/5p2/1kq5/1n6/PQ1B1PPP/R2K4 b - - 5 24,It's a matter of moves.
+48,Kb5,b4b5,r1b4r/pp1p3p/6p1/1k3p2/2q5/1n6/PQ1B1PPP/R2K4 w - - 6 25,White has won back most of his material now. The final attack starts.
+49,axb3,a2b3,r1b4r/pp1p3p/6p1/1k3p2/2q5/1P6/1Q1B1PPP/R2K4 b - - 0 25,White has won back most of his material now. The final attack starts.
+50,Qd3,c4d3,r1b4r/pp1p3p/6p1/1k3p2/8/1P1q4/1Q1B1PPP/R2K4 w - - 1 26,White has won back most of his material now. The final attack starts.
+51,Qxh8,b2h8,r1b4Q/pp1p3p/6p1/1k3p2/8/1P1q4/3B1PPP/R2K4 b - - 0 26,White has won back most of his material now. The final attack starts.
+52,b6,b7b6,r1b4Q/p2p3p/1p4p1/1k3p2/8/1P1q4/3B1PPP/R2K4 w - - 0 27,White has won back most of his material now. The final attack starts.
+53,Qe5+,h8e5,r1b5/p2p3p/1p4p1/1k2Qp2/8/1P1q4/3B1PPP/R2K4 b - - 1 27,White has won back most of his material now. The final attack starts.
+54,d5,d7d5,r1b5/p6p/1p4p1/1k1pQp2/8/1P1q4/3B1PPP/R2K4 w - - 0 28,Black bows to the inevitable and resigns.
+55,Qe8+,e5e8,r1b1Q3/p6p/1p4p1/1k1p1p2/8/1P1q4/3B1PPP/R2K4 b - - 1 28,Black bows to the inevitable and resigns.
+56,Kc5,b5c5,r1b1Q3/p6p/1p4p1/2kp1p2/8/1P1q4/3B1PPP/R2K4 w - - 2 29,Black bows to the inevitable and resigns.
+57,Rc1+,a1c1,r1b1Q3/p6p/1p4p1/2kp1p2/8/1P1q4/3B1PPP/2RK4 b - - 3 29,Black bows to the inevitable and resigns.
+58,Kd4,c5d4,r1b1Q3/p6p/1p4p1/3p1p2/3k4/1P1q4/3B1PPP/2RK4 w - - 4 30,Black bows to the inevitable and resigns.
+59,Qh8+,e8h8,r1b4Q/p6p/1p4p1/3p1p2/3k4/1P1q4/3B1PPP/2RK4 b - - 5 30,Black bows to the inevitable and resigns.
+60,Ke4,d4e4,r1b4Q/p6p/1p4p1/3p1p2/4k3/1P1q4/3B1PPP/2RK4 w - - 6 31,Black bows to the inevitable and resigns.
+61,f3+,f2f3,r1b4Q/p6p/1p4p1/3p1p2/4k3/1P1q1P2/3B2PP/2RK4 b - - 0 31,Black bows to the inevitable and resigns.

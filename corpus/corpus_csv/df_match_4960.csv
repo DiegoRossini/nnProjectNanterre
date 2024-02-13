@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"My favorite, I think it is called the ""London""."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"My favorite, I think it is called the ""London""."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"My favorite, I think it is called the ""London""."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"My favorite, I think it is called the ""London""."
+5,Bf4,c1f4,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"My favorite, I think it is called the ""London""."
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n1p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,"Nice for me. The best following for black involves c5 or c6, opening the way for the black queen to b6 and attacking b2."
+7,e3,e2e3,r1bqkbnr/ppp2ppp/2n1p3/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"This is to support g4, and to provide Bf4 a square to retire in case of Nh5."
+8,a6,a7a6,r1bqkbnr/1pp2ppp/p1n1p3/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,"This is to support g4, and to provide Bf4 a square to retire in case of Nh5."
+9,h3,h2h3,r1bqkbnr/1pp2ppp/p1n1p3/3p4/3P1B2/4PN1P/PPP2PP1/RN1QKB1R b KQkq - 0 5,"This is to support g4, and to provide Bf4 a square to retire in case of Nh5."
+10,Nf6,g8f6,r1bqkb1r/1pp2ppp/p1n1pn2/3p4/3P1B2/4PN1P/PPP2PP1/RN1QKB1R w KQkq - 1 6,"A nice outpost, but it is dangerous just in case of pressure on c3 or Qh5."
+11,g4,g2g4,r1bqkb1r/1pp2ppp/p1n1pn2/3p4/3P1BP1/4PN1P/PPP2P2/RN1QKB1R b KQkq - 0 6,"A nice outpost, but it is dangerous just in case of pressure on c3 or Qh5."
+12,Ne4,f6e4,r1bqkb1r/1pp2ppp/p1n1p3/3p4/3PnBP1/4PN1P/PPP2P2/RN1QKB1R w KQkq - 1 7,"A nice outpost, but it is dangerous just in case of pressure on c3 or Qh5."
+13,h4,h3h4,r1bqkb1r/1pp2ppp/p1n1p3/3p4/3PnBPP/4PN2/PPP2P2/RN1QKB1R b KQkq - 0 7,"This is allowed by the previous N advance, and blocks Qh5."
+14,Bb4+,f8b4,r1bqk2r/1pp2ppp/p1n1p3/3p4/1b1PnBPP/4PN2/PPP2P2/RN1QKB1R w KQkq - 1 8,"A waste of time. This move would have been ok AFTER I played Nd2, that allows ideas of a sac in c3, that can be dangerous in some circunstances."
+15,c3,c2c3,r1bqk2r/1pp2ppp/p1n1p3/3p4/1b1PnBPP/2P1PN2/PP3P2/RN1QKB1R b KQkq - 0 8,"g4 is not bad, to prevent definitively the sac in c3. But I made another plan."
+16,Ba5,b4a5,r1bqk2r/1pp2ppp/p1n1p3/b2p4/3PnBPP/2P1PN2/PP3P2/RN1QKB1R w KQkq - 1 9,"g4 is not bad, to prevent definitively the sac in c3. But I made another plan."
+17,Ne5,f3e5,r1bqk2r/1pp2ppp/p1n1p3/b2pN3/3PnBPP/2P1P3/PP3P2/RN1QKB1R b KQkq - 2 9,"I forsaw Nxc6, with a double attack with Qa4. The best answer for black is NxN, followed by c6, B or Qc7, with a good game."
+18,f6,f7f6,r1bqk2r/1pp3pp/p1n1pp2/b2pN3/3PnBPP/2P1P3/PP3P2/RN1QKB1R w KQkq - 0 10,"I'll never know if black saw the double attack of Qa4, but he went for it. If I had one more move, g5, now I could have played Qh5+, with a very good attack."
+19,Nxc6,e5c6,r1bqk2r/1pp3pp/p1N1pp2/b2p4/3PnBPP/2P1P3/PP3P2/RN1QKB1R b KQkq - 0 10,"Oh, wonderful... but not. This was the lesson. Look what happens after Qxc6..."
+20,bxc6,b7c6,r1bqk2r/2p3pp/p1p1pp2/b2p4/3PnBPP/2P1P3/PP3P2/RN1QKB1R w KQkq - 0 11,"Oh, wonderful... but not. This was the lesson. Look what happens after Qxc6..."
+21,Qa4,d1a4,r1bqk2r/2p3pp/p1p1pp2/b2p4/Q2PnBPP/2P1P3/PP3P2/RN2KB1R b KQkq - 1 11,"Oh, wonderful... but not. This was the lesson. Look what happens after Qxc6..."
+22,Bb6,a5b6,r1bqk2r/2p3pp/pbp1pp2/3p4/Q2PnBPP/2P1P3/PP3P2/RN2KB1R w KQkq - 2 12,"Uh-oh. The queen is trapped. Something more for the ""being so stupid"" notebook."
+23,Qxc6+,a4c6,r1bqk2r/2p3pp/pbQ1pp2/3p4/3PnBPP/2P1P3/PP3P2/RN2KB1R b KQkq - 0 12,"Uh-oh. The queen is trapped. Something more for the ""being so stupid"" notebook."
+24,Bd7,c8d7,r2qk2r/2pb2pp/pbQ1pp2/3p4/3PnBPP/2P1P3/PP3P2/RN2KB1R w KQkq - 1 13,"Uh-oh. The queen is trapped. Something more for the ""being so stupid"" notebook."
+25,Qb7,c6b7,r2qk2r/1Qpb2pp/pb2pp2/3p4/3PnBPP/2P1P3/PP3P2/RN2KB1R b KQkq - 2 13,The best try. Maybe even playable.
+26,Ra7,a8a7,3qk2r/rQpb2pp/pb2pp2/3p4/3PnBPP/2P1P3/PP3P2/RN2KB1R w KQk - 3 14,The best try. Maybe even playable.
+27,Bxc7,f4c7,3qk2r/rQBb2pp/pb2pp2/3p4/3Pn1PP/2P1P3/PP3P2/RN2KB1R b KQk - 0 14,The best try. Maybe even playable.
+28,Rxb7,a7b7,3qk2r/1rBb2pp/pb2pp2/3p4/3Pn1PP/2P1P3/PP3P2/RN2KB1R w KQk - 0 15,Minus one. It could be worse...
+29,Bxd8,c7d8,3Bk2r/1r1b2pp/pb2pp2/3p4/3Pn1PP/2P1P3/PP3P2/RN2KB1R b KQk - 0 15,Minus one. It could be worse...
+30,Bxd8,b6d8,3bk2r/1r1b2pp/p3pp2/3p4/3Pn1PP/2P1P3/PP3P2/RN2KB1R w KQk - 0 16,Minus one. It could be worse...
+31,b3,b2b3,3bk2r/1r1b2pp/p3pp2/3p4/3Pn1PP/1PP1P3/P4P2/RN2KB1R b KQk - 0 16,"Now I am very cramped... not good. Danger, danger..."
+32,Bc7,d8c7,4k2r/1rbb2pp/p3pp2/3p4/3Pn1PP/1PP1P3/P4P2/RN2KB1R w KQk - 1 17,"Black could have defended a6, but probably he overlooked it."
+33,Bxa6,f1a6,4k2r/1rbb2pp/B3pp2/3p4/3Pn1PP/1PP1P3/P4P2/RN2K2R b KQk - 0 17,Caring for g4 in case of e5.
+34,Rb6,b7b6,4k2r/2bb2pp/Br2pp2/3p4/3Pn1PP/1PP1P3/P4P2/RN2K2R w KQk - 1 18,Caring for g4 in case of e5.
+35,Be2,a6e2,4k2r/2bb2pp/1r2pp2/3p4/3Pn1PP/1PP1P3/P3BP2/RN2K2R b KQk - 2 18,Caring for g4 in case of e5.
+36,O-O,e8g8,5rk1/2bb2pp/1r2pp2/3p4/3Pn1PP/1PP1P3/P3BP2/RN2K2R w KQ - 3 19,"This was played in order to f3 without Ng3, since I wanted to preserve my bishop, my only working piece."
+37,Rh3,h1h3,5rk1/2bb2pp/1r2pp2/3p4/3Pn1PP/1PP1P2R/P3BP2/RN2K3 b Q - 4 19,"This was played in order to f3 without Ng3, since I wanted to preserve my bishop, my only working piece."
+38,e5,e6e5,5rk1/2bb2pp/1r3p2/3pp3/3Pn1PP/1PP1P2R/P3BP2/RN2K3 w Q - 0 20,Set free!
+39,f3,f2f3,5rk1/2bb2pp/1r3p2/3pp3/3Pn1PP/1PP1PP1R/P3B3/RN2K3 b Q - 0 20,Set free!
+40,Nd6,e4d6,5rk1/2bb2pp/1r1n1p2/3pp3/3P2PP/1PP1PP1R/P3B3/RN2K3 w Q - 1 21,"Let him take it means 1) if exd, to open the column to the rook, or 2) if cxd, leave room for a bishop penetration through a5."
+41,dxe5,d4e5,5rk1/2bb2pp/1r1n1p2/3pP3/6PP/1PP1PP1R/P3B3/RN2K3 b Q - 0 21,"Let him take it means 1) if exd, to open the column to the rook, or 2) if cxd, leave room for a bishop penetration through a5."
+42,fxe5,f6e5,5rk1/2bb2pp/1r1n4/3pp3/6PP/1PP1PP1R/P3B3/RN2K3 w Q - 0 22,"This means to open the column for his rook, but f3 is more defendable."

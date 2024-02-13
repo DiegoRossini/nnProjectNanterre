@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,The Nimzo-Larsen attack.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2,"The second most popular move, after 1… e5."
+3,Bb2,c1b2,rnbqkbnr/ppp1pppp/8/3p4/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2,"A very strange move, more popular is 2… Nf6, but practice favours black after 2… Bg4, and no so much with 2… Nf6."
+4,Bg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/6b1/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3,"A very strange move, more popular is 2… Nf6, but practice favours black after 2… Bg4, and no so much with 2… Nf6."
+5,f3,f2f3,rn1qkbnr/ppp1pppp/8/3p4/6b1/1P3P2/PBPPP1PP/RN1QKBNR b KQkq - 0 3,"!? The Litus Gambit, strange-looking at first, but very fun to play."
+6,Bf5,g4f5,rn1qkbnr/ppp1pppp/8/3p1b2/8/1P3P2/PBPPP1PP/RN1QKBNR w KQkq - 1 4,More popular nowadays is 3… Bh5.
+7,e4,e2e4,rn1qkbnr/ppp1pppp/8/3p1b2/4P3/1P3P2/PBPP2PP/RN1QKBNR b KQkq - 0 4,Attacking the e4-pawn.
+8,dxe4,d5e4,rn1qkbnr/ppp1pppp/8/5b2/4p3/1P3P2/PBPP2PP/RN1QKBNR w KQkq - 0 5,Attacking the e4-pawn.
+9,Nc3,b1c3,rn1qkbnr/ppp1pppp/8/5b2/4p3/1PN2P2/PBPP2PP/R2QKBNR b KQkq - 1 5,Attacking the e4-pawn.
+10,Nf6,g8f6,rn1qkb1r/ppp1pppp/5n2/5b2/4p3/1PN2P2/PBPP2PP/R2QKBNR w KQkq - 2 6,"!? This is where the Litus Gambit starts to look even stranger. The queen now blocks in the f1-bishop, and it should be clear to black that the queen wants to go to b5, forking the king and bishop."
+11,Qe2,d1e2,rn1qkb1r/ppp1pppp/5n2/5b2/4p3/1PN2P2/PBPPQ1PP/R3KBNR b KQkq - 3 6,"!? This is where the Litus Gambit starts to look even stranger. The queen now blocks in the f1-bishop, and it should be clear to black that the queen wants to go to b5, forking the king and bishop."
+12,exf3,e4f3,rn1qkb1r/ppp1pppp/5n2/5b2/8/1PN2p2/PBPPQ1PP/R3KBNR w KQkq - 0 7,"The bishop can block, but the b7-pawn is unprotected."
+13,Qb5+,e2b5,rn1qkb1r/ppp1pppp/5n2/1Q3b2/8/1PN2p2/PBPP2PP/R3KBNR b KQkq - 1 7,"The bishop can block, but the b7-pawn is unprotected."
+14,Bd7,f5d7,rn1qkb1r/pppbpppp/5n2/1Q6/8/1PN2p2/PBPP2PP/R3KBNR w KQkq - 2 8,"?? A losing blunder, much better was 8… Nc6! developing a piece and allowing the queen to protect the rook, but now things are going to start looking very ugly for black."
+15,Qxb7,b5b7,rn1qkb1r/pQpbpppp/5n2/8/8/1PN2p2/PBPP2PP/R3KBNR b KQkq - 0 8,"?? A losing blunder, much better was 8… Nc6! developing a piece and allowing the queen to protect the rook, but now things are going to start looking very ugly for black."
+16,Bc6,d7c6,rn1qkb1r/pQp1pppp/2b2n2/8/8/1PN2p2/PBPP2PP/R3KBNR w KQkq - 1 9,"?? A losing blunder, much better was 8… Nc6! developing a piece and allowing the queen to protect the rook, but now things are going to start looking very ugly for black."
+17,Bb5,f1b5,rn1qkb1r/pQp1pppp/2b2n2/1B6/8/1PN2p2/PBPP2PP/R3K1NR b KQkq - 2 9,! Showing why 8… Nc6 was better.
+18,f2+,f3f2,rn1qkb1r/pQp1pppp/2b2n2/1B6/8/1PN5/PBPP1pPP/R3K1NR w KQkq - 0 10,"The threats on the white king are nothing, and the queen on d2 will provide as a target for white."
+19,Kxf2,e1f2,rn1qkb1r/pQp1pppp/2b2n2/1B6/8/1PN5/PBPP1KPP/R5NR b kq - 0 10,"The threats on the white king are nothing, and the queen on d2 will provide as a target for white."
+20,Qxd2+,d8d2,rn2kb1r/pQp1pppp/2b2n2/1B6/8/1PN5/PBPq1KPP/R5NR w kq - 0 11,"The threats on the white king are nothing, and the queen on d2 will provide as a target for white."
+21,Nge2,g1e2,rn2kb1r/pQp1pppp/2b2n2/1B6/8/1PN5/PBPqNKPP/R6R b kq - 1 11,The only move which doesn't lose.
+22,Ng4+,f6g4,rn2kb1r/pQp1pppp/2b5/1B6/6n1/1PN5/PBPqNKPP/R6R w kq - 2 12,The only move which doesn't lose.
+23,Kf1,f2f1,rn2kb1r/pQp1pppp/2b5/1B6/6n1/1PN5/PBPqN1PP/R4K1R b kq - 3 12,The only move which doesn't lose.
+24,Ne3+,g4e3,rn2kb1r/pQp1pppp/2b5/1B6/8/1PN1n3/PBPqN1PP/R4K1R w kq - 4 13,"Remember that if it wasn't for the queen on d2, then Qc8 would be mate."
+25,Kg1,f1g1,rn2kb1r/pQp1pppp/2b5/1B6/8/1PN1n3/PBPqN1PP/R5KR b kq - 5 13,"Remember that if it wasn't for the queen on d2, then Qc8 would be mate."
+26,Bxb5,c6b5,rn2kb1r/pQp1pppp/8/1b6/8/1PN1n3/PBPqN1PP/R5KR w kq - 0 14,"Remember that if it wasn't for the queen on d2, then Qc8 would be mate."
+27,Nxb5,c3b5,rn2kb1r/pQp1pppp/8/1N6/8/1P2n3/PBPqN1PP/R5KR b kq - 0 14,"Remember that if it wasn't for the queen on d2, then Qc8 would be mate."
+28,f6,f7f6,rn2kb1r/pQp1p1pp/5p2/1N6/8/1P2n3/PBPqN1PP/R5KR w kq - 0 15,The game is looking quite unpleasant for black don't you think?
+29,Ned4,e2d4,rn2kb1r/pQp1p1pp/5p2/1N6/3N4/1P2n3/PBPq2PP/R5KR b kq - 1 15,"Finally, black resigns, the Queen is trapped and will soon be lost, plus there are threats of Qxa8 and Qc8+ and all sorts of stuff. Hope you enjoyed, thank you!"
+30,e5,e7e5,rn2kb1r/pQp3pp/5p2/1N2p3/3N4/1P2n3/PBPq2PP/R5KR w kq - 0 16,"Finally, black resigns, the Queen is trapped and will soon be lost, plus there are threats of Qxa8 and Qc8+ and all sorts of stuff. Hope you enjoyed, thank you!"
+31,Bc3,b2c3,rn2kb1r/pQp3pp/5p2/1N2p3/3N4/1PB1n3/P1Pq2PP/R5KR b kq - 1 16,"Finally, black resigns, the Queen is trapped and will soon be lost, plus there are threats of Qxa8 and Qc8+ and all sorts of stuff. Hope you enjoyed, thank you!"

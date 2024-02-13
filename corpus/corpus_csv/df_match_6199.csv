@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hello everyone, and today I will annotate a game I finished recently. 
+
+
+White starts with e4"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I choose the open games.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"the petrov's defence. Most opponents played Nxe5, and after d6, they could play 4.Nf3 or 4.Nxf7!?
+After 4.Nf3 Nxe4, the most common move is Nc3. The move I hated to see was the very dull 5.d4."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"the petrov's defence. Most opponents played Nxe5, and after d6, they could play 4.Nf3 or 4.Nxf7!?
+After 4.Nf3 Nxe4, the most common move is Nc3. The move I hated to see was the very dull 5.d4."
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Petrov 3 knights. 3...Bb4 is supposed to be really OK for black. I choose the 4 knights game.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"A perfectly reasonable move, but I don't like it because black can play 4...Nxe4 with equality."
+7,Bc4,f1c4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"A perfectly reasonable move, but I don't like it because black can play 4...Nxe4 with equality."
+8,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/4p3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"the intermezzo Bxf7ch?! is inferior because I get a strong center, and my king can artificially castle."
+9,Nxe4,c3e4,r1bqkb1r/pppp1ppp/2n5/4p3/2B1N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 5,"the intermezzo Bxf7ch?! is inferior because I get a strong center, and my king can artificially castle."
+10,d5,d7d5,r1bqkb1r/ppp2ppp/2n5/3pp3/2B1N3/5N2/PPPP1PPP/R1BQK2R w KQkq - 0 6,the point
+11,Bxd5,c4d5,r1bqkb1r/ppp2ppp/2n5/3Bp3/4N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 6,"the best continuation is Bd3, keeping the 2 bishops."
+12,Qxd5,d8d5,r1b1kb1r/ppp2ppp/2n5/3qp3/4N3/5N2/PPPP1PPP/R1BQK2R w KQkq - 0 7,my pieces are rather active.
+13,d3,d2d3,r1b1kb1r/ppp2ppp/2n5/3qp3/4N3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 0 7,my pieces are rather active.
+14,Bg4,c8g4,r3kb1r/ppp2ppp/2n5/3qp3/4N1b1/3P1N2/PPP2PPP/R1BQK2R w KQkq - 1 8,my pieces are rather active.
+15,h3,h2h3,r3kb1r/ppp2ppp/2n5/3qp3/4N1b1/3P1N1P/PPP2PP1/R1BQK2R b KQkq - 0 8,"another move in the DB was 8.Bh6, but this lacks a direct threat, and after something simple, like long castling, the bishop will have to go again."
+16,Bh5,g4h5,r3kb1r/ppp2ppp/2n5/3qp2b/4N3/3P1N1P/PPP2PP1/R1BQK2R w KQkq - 1 9,I really don't like this move. Black can get instant edge with Nd4
+17,Qe2,d1e2,r3kb1r/ppp2ppp/2n5/3qp2b/4N3/3P1N1P/PPP1QPP1/R1B1K2R b KQkq - 2 9,I really don't like this move. Black can get instant edge with Nd4
+18,Nd4,c6d4,r3kb1r/ppp2ppp/8/3qp2b/3nN3/3P1N1P/PPP1QPP1/R1B1K2R w KQkq - 3 10,now white's position is totally inferior no matter what he plays.
+19,c4,c2c4,r3kb1r/ppp2ppp/8/3qp2b/2PnN3/3P1N1P/PP2QPP1/R1B1K2R b KQkq - 0 10,a counter attack.
+20,Qa5+,d5a5,r3kb1r/ppp2ppp/8/q3p2b/2PnN3/3P1N1P/PP2QPP1/R1B1K2R w KQkq - 1 11,"according to my instant analysis, white's best try will give him a much inferior endgame."
+21,Qd2,e2d2,r3kb1r/ppp2ppp/8/q3p2b/2PnN3/3P1N1P/PP1Q1PP1/R1B1K2R b KQkq - 2 11,a mistake. Loss of material is inevitable.
+22,Bb4,f8b4,r3k2r/ppp2ppp/8/q3p2b/1bPnN3/3P1N1P/PP1Q1PP1/R1B1K2R w KQkq - 3 12,now I pick up a piece easily. Hopefully you can spot in a few seconds at most.
+23,Nc3,e4c3,r3k2r/ppp2ppp/8/q3p2b/1bPn4/2NP1N1P/PP1Q1PP1/R1B1K2R b KQkq - 4 12,now I pick up a piece easily. Hopefully you can spot in a few seconds at most.
+24,Bxf3,h5f3,r3k2r/ppp2ppp/8/q3p3/1bPn4/2NP1b1P/PP1Q1PP1/R1B1K2R w KQkq - 0 13,"the bishop is immune, and white is still in great difficulty."
+25,O-O,e1g1,r3k2r/ppp2ppp/8/q3p3/1bPn4/2NP1b1P/PP1Q1PP1/R1B2RK1 b kq - 1 13,Now I see a simple way to win.
+26,Ne2+,d4e2,r3k2r/ppp2ppp/8/q3p3/1bP5/2NP1b1P/PP1QnPP1/R1B2RK1 w kq - 2 14,both captures lose.
+27,Kh2,g1h2,r3k2r/ppp2ppp/8/q3p3/1bP5/2NP1b1P/PP1QnPPK/R1B2R2 b kq - 3 14,both captures lose.
+28,Nxc3,e2c3,r3k2r/ppp2ppp/8/q3p3/1bP5/2nP1b1P/PP1Q1PPK/R1B2R2 w kq - 0 15,both captures lose.
+29,bxc3,b2c3,r3k2r/ppp2ppp/8/q3p3/1bP5/2PP1b1P/P2Q1PPK/R1B2R2 b kq - 0 15,"it doesn't matter anymore, white's position is completely destroyed."

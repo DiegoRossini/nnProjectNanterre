@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nc3,b1c3,rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1,"By discouraging d4, black is close to equal.  However, I am not sure that I want to face 2. e4 going into a Vienna."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 0 2,"By discouraging d4, black is close to equal.  However, I am not sure that I want to face 2. e4 going into a Vienna."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 1 2,
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 2 3,Nxd4 is better.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 0 3,Nxd4 is better.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3p4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4,Nxd4 is better.
+7,Nb5,c3b5,r1bqkbnr/pppp1ppp/2n5/1N6/3p4/5N2/PPP1PPPP/R1BQKB1R b KQkq - 1 4,Nxd4 is better.
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/1N6/3p4/5N2/PPP1PPPP/R1BQKB1R w KQkq - 2 5,The strongest of many choices.
+9,Bf4,c1f4,r1bqkb1r/pppp1ppp/2n2n2/1N6/3p1B2/5N2/PPP1PPPP/R2QKB1R b KQkq - 3 5,The strongest of many choices.
+10,Bb4+,f8b4,r1bqk2r/pppp1ppp/2n2n2/1N6/1b1p1B2/5N2/PPP1PPPP/R2QKB1R w KQkq - 4 6,The strongest of many choices.
+11,Nd2,f3d2,r1bqk2r/pppp1ppp/2n2n2/1N6/1b1p1B2/8/PPPNPPPP/R2QKB1R b KQkq - 5 6,The strongest of many choices.
+12,Nd5,f6d5,r1bqk2r/pppp1ppp/2n5/1N1n4/1b1p1B2/8/PPPNPPPP/R2QKB1R w KQkq - 6 7,The strongest of many choices.
+13,Bg3,f4g3,r1bqk2r/pppp1ppp/2n5/1N1n4/1b1p4/6B1/PPPNPPPP/R2QKB1R b KQkq - 7 7,The strongest of many choices.
+14,h5,h7h5,r1bqk2r/pppp1pp1/2n5/1N1n3p/1b1p4/6B1/PPPNPPPP/R2QKB1R w KQkq - 0 8,The strongest of many choices.
+15,a3,a2a3,r1bqk2r/pppp1pp1/2n5/1N1n3p/1b1p4/P5B1/1PPNPPPP/R2QKB1R b KQkq - 0 8,8. h4  is better.
+16,Ba5,b4a5,r1bqk2r/pppp1pp1/2n5/bN1n3p/3p4/P5B1/1PPNPPPP/R2QKB1R w KQkq - 1 9,"The difference between playing this first before h4, which is still a great move, is that play could follow b4 h4, Be5 Nxe5, bxa5 with the pawn weak on  a5 instead of b4 and the c3 square is open to place a knight."
+17,b4,b2b4,r1bqk2r/pppp1pp1/2n5/bN1n3p/1P1p4/P5B1/2PNPPPP/R2QKB1R b KQkq - 0 9,10. Bd6 a6 11. Nxd4 Nc3 12. Nxc6 dxc6 13. Qc1 Qxd6 14. bxa5 Qf6 [with a much better game.  For example ...] 15. e3 Be6 16. Qb2 O-O-O 17. Bd3 Rh5 18. Rc1 h3 19. g3 Rxa5 20. Rf1 (20. O-O Rxd3) 20... Re5 21. Qa1 (21. Nb1 Na2 22. Kd2) 21... c5 22. a4 Bd5 23. Qa3 Bg2 24. Rg1 Kb8 25. Ra1 Re6 26. Qb2 Rb6 27. Qc1 g5 28. Qa3 Rb4 29. a5 Bc6 30. Rf1 Bb5 31. Rc1 Bxd3 32. cxd3 Rxd3 33. Qa1 Qd8 34. Nf3 Rb2 35. Rxc3 Rdd2 36. Nd4 cxd4 37. Ra3 Re2+ 38. Kd1 dxe3+
+18,h4,h5h4,r1bqk2r/pppp1pp1/2n5/bN1n4/1P1p3p/P5B1/2PNPPPP/R2QKB1R w KQkq - 0 10,10. Bd6 a6 11. Nxd4 Nc3 12. Nxc6 dxc6 13. Qc1 Qxd6 14. bxa5 Qf6 [with a much better game.  For example ...] 15. e3 Be6 16. Qb2 O-O-O 17. Bd3 Rh5 18. Rc1 h3 19. g3 Rxa5 20. Rf1 (20. O-O Rxd3) 20... Re5 21. Qa1 (21. Nb1 Na2 22. Kd2) 21... c5 22. a4 Bd5 23. Qa3 Bg2 24. Rg1 Kb8 25. Ra1 Re6 26. Qb2 Rb6 27. Qc1 g5 28. Qa3 Rb4 29. a5 Bc6 30. Rf1 Bb5 31. Rc1 Bxd3 32. cxd3 Rxd3 33. Qa1 Qd8 34. Nf3 Rb2 35. Rxc3 Rdd2 36. Nd4 cxd4 37. Ra3 Re2+ 38. Kd1 dxe3+
+19,bxa5,b4a5,r1bqk2r/pppp1pp1/2n5/PN1n4/3p3p/P5B1/2PNPPPP/R2QKB1R b KQkq - 0 10,10. Bd6 a6 11. Nxd4 Nc3 12. Nxc6 dxc6 13. Qc1 Qxd6 14. bxa5 Qf6 [with a much better game.  For example ...] 15. e3 Be6 16. Qb2 O-O-O 17. Bd3 Rh5 18. Rc1 h3 19. g3 Rxa5 20. Rf1 (20. O-O Rxd3) 20... Re5 21. Qa1 (21. Nb1 Na2 22. Kd2) 21... c5 22. a4 Bd5 23. Qa3 Bg2 24. Rg1 Kb8 25. Ra1 Re6 26. Qb2 Rb6 27. Qc1 g5 28. Qa3 Rb4 29. a5 Bc6 30. Rf1 Bb5 31. Rc1 Bxd3 32. cxd3 Rxd3 33. Qa1 Qd8 34. Nf3 Rb2 35. Rxc3 Rdd2 36. Nd4 cxd4 37. Ra3 Re2+ 38. Kd1 dxe3+
+20,hxg3,h4g3,r1bqk2r/pppp1pp1/2n5/PN1n4/3p4/P5p1/2PNPPPP/R2QKB1R w KQkq - 0 11,
+21,fxg3,f2g3,r1bqk2r/pppp1pp1/2n5/PN1n4/3p4/P5P1/2PNP1PP/R2QKB1R b KQkq - 0 11,
+22,Ne3,d5e3,r1bqk2r/pppp1pp1/2n5/PN6/3p4/P3n1P1/2PNP1PP/R2QKB1R w KQkq - 1 12,
+23,Qb1,d1b1,r1bqk2r/pppp1pp1/2n5/PN6/3p4/P3n1P1/2PNP1PP/RQ2KB1R b KQkq - 2 12,
+24,a6,a7a6,r1bqk2r/1ppp1pp1/p1n5/PN6/3p4/P3n1P1/2PNP1PP/RQ2KB1R w KQkq - 0 13,
+25,c3,c2c3,r1bqk2r/1ppp1pp1/p1n5/PN6/3p4/P1P1n1P1/3NP1PP/RQ2KB1R b KQkq - 0 13,
+26,axb5,a6b5,r1bqk2r/1ppp1pp1/2n5/Pp6/3p4/P1P1n1P1/3NP1PP/RQ2KB1R w KQkq - 0 14,
+27,Qe4+,b1e4,r1bqk2r/1ppp1pp1/2n5/Pp6/3pQ3/P1P1n1P1/3NP1PP/R3KB1R b KQkq - 1 14,
+28,Qe7,d8e7,r1b1k2r/1pppqpp1/2n5/Pp6/3pQ3/P1P1n1P1/3NP1PP/R3KB1R w KQkq - 2 15,Blunder.
+29,cxd4,c3d4,r1b1k2r/1pppqpp1/2n5/Pp6/3PQ3/P3n1P1/3NP1PP/R3KB1R b KQkq - 0 15,Blunder.
+30,Qxe4,e7e4,r1b1k2r/1ppp1pp1/2n5/Pp6/3Pq3/P3n1P1/3NP1PP/R3KB1R w KQkq - 0 16,"The game is over, but what follows is interesting."
+31,Nxe4,d2e4,r1b1k2r/1ppp1pp1/2n5/Pp6/3PN3/P3n1P1/4P1PP/R3KB1R b KQkq - 0 16,"The game is over, but what follows is interesting."
+32,Nc2+,e3c2,r1b1k2r/1ppp1pp1/2n5/Pp6/3PN3/P5P1/2n1P1PP/R3KB1R w KQkq - 1 17,"The game is over, but what follows is interesting."
+33,Kf2,e1f2,r1b1k2r/1ppp1pp1/2n5/Pp6/3PN3/P5P1/2n1PKPP/R4B1R b kq - 2 17,Rxa3 is also good.
+34,Nxa1,c2a1,r1b1k2r/1ppp1pp1/2n5/Pp6/3PN3/P5P1/4PKPP/n4B1R w kq - 0 18,Rxa3 is also good.
+35,e3,e2e3,r1b1k2r/1ppp1pp1/2n5/Pp6/3PN3/P3P1P1/5KPP/n4B1R b kq - 0 18,Rxa3 is also good.
+36,Rxa5,a8a5,2b1k2r/1ppp1pp1/2n5/rp6/3PN3/P3P1P1/5KPP/n4B1R w k - 0 19,Rxa3 is also good.
+37,Bxb5,f1b5,2b1k2r/1ppp1pp1/2n5/rB6/3PN3/P3P1P1/5KPP/n6R b k - 0 19,Rxa3 is also good.
+38,Rxb5,a5b5,2b1k2r/1ppp1pp1/2n5/1r6/3PN3/P3P1P1/5KPP/n6R w k - 0 20,Rxa3 is also good.
+39,Rxa1,h1a1,2b1k2r/1ppp1pp1/2n5/1r6/3PN3/P3P1P1/5KPP/R7 b k - 0 20,"Everything is winning, but this is the best."
+40,Rxh2,h8h2,2b1k3/1ppp1pp1/2n5/1r6/3PN3/P3P1P1/5KPr/R7 w - - 0 21,"Everything is winning, but this is the best."
+41,Nc3,e4c3,2b1k3/1ppp1pp1/2n5/1r6/3P4/P1N1P1P1/5KPr/R7 b - - 1 21,"Everything is winning, but this is the best."
+42,Rb2+,b5b2,2b1k3/1ppp1pp1/2n5/8/3P4/P1N1P1P1/1r3KPr/R7 w - - 2 22,"Everything is winning, but this is the best."
+43,Ne2,c3e2,2b1k3/1ppp1pp1/2n5/8/3P4/P3P1P1/1r2NKPr/R7 b - - 3 22,"Everything is winning, but this is the best."
+44,Rh6,h2h6,2b1k3/1ppp1pp1/2n4r/8/3P4/P3P1P1/1r2NKP1/R7 w - - 4 23,"Everything is winning, but this is the best."
+45,Kf3,f2f3,2b1k3/1ppp1pp1/2n4r/8/3P4/P3PKP1/1r2N1P1/R7 b - - 5 23,23. Re1  Makes more sense. Rf6+ 24. Kg1 g5 White has few good moves.
+46,Rf6+,h6f6,2b1k3/1ppp1pp1/2n2r2/8/3P4/P3PKP1/1r2N1P1/R7 w - - 6 24,24. Ke4 d5+ [Or Rxe2.] 25. Kd3 (25. Kxd5 Bf5 26. Kc4 Na5+ 27. Kc3 Rc2+ 28. Kb4 Rc4+ 29. Kxa5 Bd7) 25... Rf2 26. Re1 Bf5+ 27. e4 Rb3+ 28. Nc3 Bxe4+ 29. Ke3 Rxg2 30. Rc1 g5 31. g4 Na5
+47,Nf4,e2f4,2b1k3/1ppp1pp1/2n2r2/8/3P1N2/P3PKP1/1r4P1/R7 b - - 7 24,24. Ke4 d5+ [Or Rxe2.] 25. Kd3 (25. Kxd5 Bf5 26. Kc4 Na5+ 27. Kc3 Rc2+ 28. Kb4 Rc4+ 29. Kxa5 Bd7) 25... Rf2 26. Re1 Bf5+ 27. e4 Rb3+ 28. Nc3 Bxe4+ 29. Ke3 Rxg2 30. Rc1 g5 31. g4 Na5
+48,g5,g7g5,2b1k3/1ppp1p2/2n2r2/6p1/3P1N2/P3PKP1/1r4P1/R7 w - - 0 25,
+49,Re1,a1e1,2b1k3/1ppp1p2/2n2r2/6p1/3P1N2/P3PKP1/1r4P1/4R3 b - - 1 25,
+50,gxf4,g5f4,2b1k3/1ppp1p2/2n2r2/8/3P1p2/P3PKP1/1r4P1/4R3 w - - 0 26,
+51,exf4+,e3f4,2b1k3/1ppp1p2/2n2r2/8/3P1P2/P4KP1/1r4P1/4R3 b - - 0 26,
+52,Re6,f6e6,2b1k3/1ppp1p2/2n1r3/8/3P1P2/P4KP1/1r4P1/4R3 w - - 1 27,
+53,Rh1,e1h1,2b1k3/1ppp1p2/2n1r3/8/3P1P2/P4KP1/1r4P1/7R b - - 2 27,
+54,Nxd4+,c6d4,2b1k3/1ppp1p2/4r3/8/3n1P2/P4KP1/1r4P1/7R w - - 0 28,White resigned here.  What could happen is ...
+55,Kg4,f3g4,2b1k3/1ppp1p2/4r3/8/3n1PK1/P5P1/1r4P1/7R b - - 1 28,
+56,Rg6+,e6g6,2b1k3/1ppp1p2/6r1/8/3n1PK1/P5P1/1r4P1/7R w - - 2 29,
+57,Kh5,g4h5,2b1k3/1ppp1p2/6r1/7K/3n1P2/P5P1/1r4P1/7R b - - 3 29,
+58,Rxg2,b2g2,2b1k3/1ppp1p2/6r1/7K/3n1P2/P5P1/6r1/7R w - - 0 30,
+59,Re1+,h1e1,2b1k3/1ppp1p2/6r1/7K/3n1P2/P5P1/6r1/4R3 b - - 1 30,
+60,Ne2,d4e2,2b1k3/1ppp1p2/6r1/7K/5P2/P5P1/4n1r1/4R3 w - - 2 31,
+61,Rh1,e1h1,2b1k3/1ppp1p2/6r1/7K/5P2/P5P1/4n1r1/7R b - - 3 31,
+62,Nxg3+,e2g3,2b1k3/1ppp1p2/6r1/7K/5P2/P5n1/6r1/7R w - - 0 32,
+63,Kh4,h5h4,2b1k3/1ppp1p2/6r1/8/5P1K/P5n1/6r1/7R b - - 1 32,
+64,Nf5+,g3f5,2b1k3/1ppp1p2/6r1/5n2/5P1K/P7/6r1/7R w - - 2 33,

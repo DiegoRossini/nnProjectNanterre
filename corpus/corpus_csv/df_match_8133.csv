@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,1st move
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,my 1st move: i do always do that when im black
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,and if someone does that i always do
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,...this   because i already know he will do Qf3 so then i will do Ke5
+5,c3,c2c3,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/2P5/PP1P1PPP/RNBQK1NR b KQkq - 0 3,this time he did not
+6,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/2p5/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 1 4,*backup*
+7,f3,f2f3,r1bqkb1r/pp1ppppp/2n2n2/2p5/2B1P3/2P2P2/PP1P2PP/RNBQK1NR b KQkq - 0 4,he blocks his path with his knight g1
+8,d5,d7d5,r1bqkb1r/pp2pppp/2n2n2/2pp4/2B1P3/2P2P2/PP1P2PP/RNBQK1NR w KQkq - 0 5,at attack bishop
+9,d3,d2d3,r1bqkb1r/pp2pppp/2n2n2/2pp4/2B1P3/2PP1P2/PP4PP/RNBQK1NR b KQkq - 0 5,and he defends it.... which means he loses his bishop
+10,dxc4,d5c4,r1bqkb1r/pp2pppp/2n2n2/2p5/2p1P3/2PP1P2/PP4PP/RNBQK1NR w KQkq - 0 6,and thats not funny for him XD but he could do better moves than that
+11,d4,d3d4,r1bqkb1r/pp2pppp/2n2n2/2p5/2pPP3/2P2P2/PP4PP/RNBQK1NR b KQkq - 0 6,and he goes further with his pawn...
+12,cxd4,c5d4,r1bqkb1r/pp2pppp/2n2n2/8/2ppP3/2P2P2/PP4PP/RNBQK1NR w KQkq - 0 7,i take it
+13,Qd2,d1d2,r1bqkb1r/pp2pppp/2n2n2/8/2ppP3/2P2P2/PP1Q2PP/RNB1K1NR b KQkq - 1 7,and he goes 1 move further above with his queen
+14,dxc3,d4c3,r1bqkb1r/pp2pppp/2n2n2/8/2p1P3/2p2P2/PP1Q2PP/RNB1K1NR w KQkq - 0 8,i take the pawn
+15,Qxc3,d2c3,r1bqkb1r/pp2pppp/2n2n2/8/2p1P3/2Q2P2/PP4PP/RNB1K1NR b KQkq - 0 8,he takes the pawn with his queen
+16,e5,e7e5,r1bqkb1r/pp3ppp/2n2n2/4p3/2p1P3/2Q2P2/PP4PP/RNB1K1NR w KQkq - 0 9,he takes another pawn
+17,Qxc4,c3c4,r1bqkb1r/pp3ppp/2n2n2/4p3/2Q1P3/5P2/PP4PP/RNB1K1NR b KQkq - 0 9,he takes another pawn
+18,Qa5+,d8a5,r1b1kb1r/pp3ppp/2n2n2/q3p3/2Q1P3/5P2/PP4PP/RNB1K1NR w KQkq - 1 10,CHECK
+19,Bd2,c1d2,r1b1kb1r/pp3ppp/2n2n2/q3p3/2Q1P3/5P2/PP1B2PP/RN2K1NR b KQkq - 2 10,he defends + attacks
+20,Be6,c8e6,r3kb1r/pp3ppp/2n1bn2/q3p3/2Q1P3/5P2/PP1B2PP/RN2K1NR w KQkq - 3 11,i attack the queen
+21,Qd3,c4d3,r3kb1r/pp3ppp/2n1bn2/q3p3/4P3/3Q1P2/PP1B2PP/RN2K1NR b KQkq - 4 11,he goes away

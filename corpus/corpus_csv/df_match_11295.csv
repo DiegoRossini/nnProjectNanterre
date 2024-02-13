@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Starting the Ruy Lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Ruy Lopez achieved. Hoerah for me!
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Ruy Lopez achieved. Hoerah for me!
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Ruy Lopez achieved. Hoerah for me!
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The Ruy Lopez achieved. Hoerah for me!
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Pretty straightforward moves till here.
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Pretty straightforward moves till here.
+8,b5,b7b5,r1bqkbnr/2pp1ppp/p1n5/1p2p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,Pretty straightforward moves till here.
+9,Bb3,a4b3,r1bqkbnr/2pp1ppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R b KQkq - 1 5,Pretty straightforward moves till here.
+10,h6,h7h6,r1bqkbnr/2pp1pp1/p1n4p/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R w KQkq - 0 6,Very conservative move... maybe a bit too...
+11,O-O,e1g1,r1bqkbnr/2pp1pp1/p1n4p/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 1 6,"A bit questionable, coz it blocks the d pawn and the bishop is restricted by the e pawn..."
+12,Bd6,f8d6,r1bqk1nr/2pp1pp1/p1nb3p/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7,"A bit questionable, coz it blocks the d pawn and the bishop is restricted by the e pawn..."
+13,Bd5,b3d5,r1bqk1nr/2pp1pp1/p1nb3p/1p1Bp3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 7,Time to test the waters... let's just start with a pin on the knight
+14,Nge7,g8e7,r1bqk2r/2ppnpp1/p1nb3p/1p1Bp3/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 8,Guess he doesn't want my bishop there
+15,Nc3,b1c3,r1bqk2r/2ppnpp1/p1nb3p/1p1Bp3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 5 8,Maybe he'll like my knight more...
+16,Nxd5,e7d5,r1bqk2r/2pp1pp1/p1nb3p/1p1np3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 9,Or maybe not...
+17,Nxd5,c3d5,r1bqk2r/2pp1pp1/p1nb3p/1p1Np3/4P3/5N2/PPPP1PPP/R1BQ1RK1 b kq - 0 9,Or maybe not...
+18,Ne7,c6e7,r1bqk2r/2ppnpp1/p2b3p/1p1Np3/4P3/5N2/PPPP1PPP/R1BQ1RK1 w kq - 1 10,Or maybe not...
+19,d4,d2d4,r1bqk2r/2ppnpp1/p2b3p/1p1Np3/3PP3/5N2/PPP2PPP/R1BQ1RK1 b kq - 0 10,The move that gave me the advantage to exploit the underdeveloped center
+20,exd4,e5d4,r1bqk2r/2ppnpp1/p2b3p/1p1N4/3pP3/5N2/PPP2PPP/R1BQ1RK1 w kq - 0 11,The move that gave me the advantage to exploit the underdeveloped center
+21,Qxd4,d1d4,r1bqk2r/2ppnpp1/p2b3p/1p1N4/3QP3/5N2/PPP2PPP/R1B2RK1 b kq - 0 11,aiming at g7
+22,O-O,e8g8,r1bq1rk1/2ppnpp1/p2b3p/1p1N4/3QP3/5N2/PPP2PPP/R1B2RK1 w - - 1 12,the king in the line of fire... I smell trouble...!
+23,Nf6+,d5f6,r1bq1rk1/2ppnpp1/p2b1N1p/1p6/3QP3/5N2/PPP2PPP/R1B2RK1 b - - 2 12,"Kablam! If he takes the knight, a inevitable mating combination would follow with Qxf6 followed by Bxh6"
+24,Kh8,g8h8,r1bq1r1k/2ppnpp1/p2b1N1p/1p6/3QP3/5N2/PPP2PPP/R1B2RK1 w - - 3 13,"2nd Kablam! Now the bishop is joining the attack. If black takes one of the pieces with the pawn, checkmate will follow. Victory is close!"
+25,Bxh6,c1h6,r1bq1r1k/2ppnpp1/p2b1N1B/1p6/3QP3/5N2/PPP2PPP/R4RK1 b - - 0 13,"2nd Kablam! Now the bishop is joining the attack. If black takes one of the pieces with the pawn, checkmate will follow. Victory is close!"
+26,Nc6,e7c6,r1bq1r1k/2pp1pp1/p1nb1N1B/1p6/3QP3/5N2/PPP2PPP/R4RK1 w - - 1 14,Hmmm... this is actually the ONLY move black could make that would prolong his life in this game. Damn... But what about.....
+27,Bxg7+,h6g7,r1bq1r1k/2pp1pB1/p1nb1N2/1p6/3QP3/5N2/PPP2PPP/R4RK1 b - - 0 14,Exactly!... Bishop g7! Just sacrifise the bishop...
+28,Kxg7,h8g7,r1bq1r2/2pp1pk1/p1nb1N2/1p6/3QP3/5N2/PPP2PPP/R4RK1 w - - 0 15,Forced
+29,Nh5+,f6h5,r1bq1r2/2pp1pk1/p1nb4/1p5N/3QP3/5N2/PPP2PPP/R4RK1 b - - 1 15,Luring the king to the centre of the board
+30,Kh6,g7h6,r1bq1r2/2pp1p2/p1nb3k/1p5N/3QP3/5N2/PPP2PPP/R4RK1 w - - 2 16,Kinda Forced...
+31,Qg7+,d4g7,r1bq1r2/2pp1pQ1/p1nb3k/1p5N/4P3/5N2/PPP2PPP/R4RK1 b - - 3 16,And now it's time for another sacrifise

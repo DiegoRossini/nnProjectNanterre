@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,odd sicilian opening
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,odd sicilian opening
+3,e5,e4e5,rnbqkbnr/pp1ppppp/8/2p1P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,odd sicilian opening
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p1P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,odd sicilian opening
+5,f4,f2f4,r1bqkbnr/pp1ppppp/2n5/2p1P3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,odd sicilian opening
+6,d6,d7d6,r1bqkbnr/pp2pppp/2np4/2p1P3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4,odd sicilian opening
+7,Bb5,f1b5,r1bqkbnr/pp2pppp/2np4/1Bp1P3/5P2/8/PPPP2PP/RNBQK1NR b KQkq - 1 4,odd sicilian opening
+8,dxe5,d6e5,r1bqkbnr/pp2pppp/2n5/1Bp1p3/5P2/8/PPPP2PP/RNBQK1NR w KQkq - 0 5,odd sicilian opening
+9,Bxc6+,b5c6,r1bqkbnr/pp2pppp/2B5/2p1p3/5P2/8/PPPP2PP/RNBQK1NR b KQkq - 0 5,odd sicilian opening
+10,bxc6,b7c6,r1bqkbnr/p3pppp/2p5/2p1p3/5P2/8/PPPP2PP/RNBQK1NR w KQkq - 0 6,odd sicilian opening
+11,fxe5,f4e5,r1bqkbnr/p3pppp/2p5/2p1P3/8/8/PPPP2PP/RNBQK1NR b KQkq - 0 6,odd sicilian opening
+12,e6,e7e6,r1bqkbnr/p4ppp/2p1p3/2p1P3/8/8/PPPP2PP/RNBQK1NR w KQkq - 0 7,check and winning a pawn
+13,Qf3,d1f3,r1bqkbnr/p4ppp/2p1p3/2p1P3/8/5Q2/PPPP2PP/RNB1K1NR b KQkq - 1 7,check and winning a pawn
+14,Qc7,d8c7,r1b1kbnr/p1q2ppp/2p1p3/2p1P3/8/5Q2/PPPP2PP/RNB1K1NR w KQkq - 2 8,check and winning a pawn
+15,c4,c2c4,r1b1kbnr/p1q2ppp/2p1p3/2p1P3/2P5/5Q2/PP1P2PP/RNB1K1NR b KQkq - 0 8,check and winning a pawn
+16,Qxe5+,c7e5,r1b1kbnr/p4ppp/2p1p3/2p1q3/2P5/5Q2/PP1P2PP/RNB1K1NR w KQkq - 0 9,check and winning a pawn
+17,Ne2,g1e2,r1b1kbnr/p4ppp/2p1p3/2p1q3/2P5/5Q2/PP1PN1PP/RNB1K2R b KQkq - 1 9,defending the pawn
+18,Qc7,e5c7,r1b1kbnr/p1q2ppp/2p1p3/2p5/2P5/5Q2/PP1PN1PP/RNB1K2R w KQkq - 2 10,defending the pawn
+19,Nbc3,b1c3,r1b1kbnr/p1q2ppp/2p1p3/2p5/2P5/2N2Q2/PP1PN1PP/R1B1K2R b KQkq - 3 10,preparing to castle kingside
+20,Ba6,c8a6,r3kbnr/p1q2ppp/b1p1p3/2p5/2P5/2N2Q2/PP1PN1PP/R1B1K2R w KQkq - 4 11,preparing to castle kingside
+21,d3,d2d3,r3kbnr/p1q2ppp/b1p1p3/2p5/2P5/2NP1Q2/PP2N1PP/R1B1K2R b KQkq - 0 11,preparing to castle kingside
+22,Bd6,f8d6,r3k1nr/p1q2ppp/b1pbp3/2p5/2P5/2NP1Q2/PP2N1PP/R1B1K2R w KQkq - 1 12,preparing to castle kingside
+23,g3,g2g3,r3k1nr/p1q2ppp/b1pbp3/2p5/2P5/2NP1QP1/PP2N2P/R1B1K2R b KQkq - 0 12,preparing to castle kingside
+24,Nf6,g8f6,r3k2r/p1q2ppp/b1pbpn2/2p5/2P5/2NP1QP1/PP2N2P/R1B1K2R w KQkq - 1 13,preparing to castle kingside
+25,Bd2,c1d2,r3k2r/p1q2ppp/b1pbpn2/2p5/2P5/2NP1QP1/PP1BN2P/R3K2R b KQkq - 2 13,kingsie would be safer
+26,Rb8,a8b8,1r2k2r/p1q2ppp/b1pbpn2/2p5/2P5/2NP1QP1/PP1BN2P/R3K2R w KQk - 3 14,kingsie would be safer
+27,b3,b2b3,1r2k2r/p1q2ppp/b1pbpn2/2p5/2P5/1PNP1QP1/P2BN2P/R3K2R b KQk - 0 14,kingsie would be safer
+28,O-O,e8g8,1r3rk1/p1q2ppp/b1pbpn2/2p5/2P5/1PNP1QP1/P2BN2P/R3K2R w KQ - 1 15,kingsie would be safer
+29,O-O-O,e1c1,1r3rk1/p1q2ppp/b1pbpn2/2p5/2P5/1PNP1QP1/P2BN2P/2KR3R b - - 2 15,kingsie would be safer
+30,Be5,d6e5,1r3rk1/p1q2ppp/b1p1pn2/2p1b3/2P5/1PNP1QP1/P2BN2P/2KR3R w - - 3 16,threating to capture a pawn
+31,Qe3,f3e3,1r3rk1/p1q2ppp/b1p1pn2/2p1b3/2P5/1PNPQ1P1/P2BN2P/2KR3R b - - 4 16,threating to capture a pawn
+32,Ng4,f6g4,1r3rk1/p1q2ppp/b1p1p3/2p1b3/2P3n1/1PNPQ1P1/P2BN2P/2KR3R w - - 5 17,and i let her for positioning
+33,Qxc5,e3c5,1r3rk1/p1q2ppp/b1p1p3/2Q1b3/2P3n1/1PNP2P1/P2BN2P/2KR3R b - - 0 17,placing both rook in opening files
+34,Rfd8,f8d8,1r1r2k1/p1q2ppp/b1p1p3/2Q1b3/2P3n1/1PNP2P1/P2BN2P/2KR3R w - - 1 18,placing both rook in opening files
+35,Bf4,d2f4,1r1r2k1/p1q2ppp/b1p1p3/2Q1b3/2P2Bn1/1PNP2P1/P3N2P/2KR3R b - - 2 18,trade off
+36,Bxf4+,e5f4,1r1r2k1/p1q2ppp/b1p1p3/2Q5/2P2bn1/1PNP2P1/P3N2P/2KR3R w - - 0 19,trade off
+37,Nxf4,e2f4,1r1r2k1/p1q2ppp/b1p1p3/2Q5/2P2Nn1/1PNP2P1/P6P/2KR3R b - - 0 19,trade off
+38,Qd6,c7d6,1r1r2k1/p4ppp/b1pqp3/2Q5/2P2Nn1/1PNP2P1/P6P/2KR3R w - - 1 20,letting her capture the a pawn
+39,Qxa7,c5a7,1r1r2k1/Q4ppp/b1pqp3/8/2P2Nn1/1PNP2P1/P6P/2KR3R b - - 0 20,check
+40,Qa3+,d6a3,1r1r2k1/Q4ppp/b1p1p3/8/2P2Nn1/qPNP2P1/P6P/2KR3R w - - 1 21,check
+41,Kc2,c1c2,1r1r2k1/Q4ppp/b1p1p3/8/2P2Nn1/qPNP2P1/P1K4P/3R3R b - - 2 21,guess my next move
+42,c5,c6c5,1r1r2k1/Q4ppp/b3p3/2p5/2P2Nn1/qPNP2P1/P1K4P/3R3R w - - 0 22,c5!!!!!!! threatning Rb7 or Nf2 or Ne3
+43,Nh3,f4h3,1r1r2k1/Q4ppp/b3p3/2p5/2P3n1/qPNP2PN/P1K4P/3R3R b - - 1 22,shes going to loose her queen
+44,Rb7,b8b7,3r2k1/Qr3ppp/b3p3/2p5/2P3n1/qPNP2PN/P1K4P/3R3R w - - 2 23,"and Rb7 winning the queen this game is still in progress, hope u enjoy"

@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,familiar Scicilian Defense so far..
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,familiar Scicilian Defense so far..
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,familiar Scicilian Defense so far..
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,familiar Scicilian Defense so far..
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,familiar Scicilian Defense so far..
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,familiar Scicilian Defense so far..
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,familiar Scicilian Defense so far..
+8,e6,e7e6,rnbqkbnr/pp3ppp/3pp3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,familiar Scicilian Defense so far..
+9,Nc3,b1c3,rnbqkbnr/pp3ppp/3pp3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5,don't want my knight pinned
+10,Nc6,b8c6,r1bqkbnr/pp3ppp/2npp3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 6,don't want my knight pinned
+11,Be3,c1e3,r1bqkbnr/pp3ppp/2npp3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 3 6,don't want my knight pinned
+12,a6,a7a6,r1bqkbnr/1p3ppp/p1npp3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,don't want my knight pinned
+13,Be2,f1e2,r1bqkbnr/1p3ppp/p1npp3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 1 7,he's ready to castle
+14,Qh4,d8h4,r1b1kbnr/1p3ppp/p1npp3/8/3NP2q/2N1B3/PPP1BPPP/R2QK2R w KQkq - 2 8,a wasted move on my part.. I should be developing pieces
+15,Qd2,d1d2,r1b1kbnr/1p3ppp/p1npp3/8/3NP2q/2N1B3/PPPQBPPP/R3K2R b KQkq - 3 8,Is he castling queen-side??
+16,Nxd4,c6d4,r1b1kbnr/1p3ppp/p2pp3/8/3nP2q/2N1B3/PPPQBPPP/R3K2R w KQkq - 0 9,"I feared Nxe6, either stranding the d-pawn or opening the f-file before I can castle"
+17,Bxd4,e3d4,r1b1kbnr/1p3ppp/p2pp3/8/3BP2q/2N5/PPPQBPPP/R3K2R b KQkq - 0 9,big mistake!
+18,Be7,f8e7,r1b1k1nr/1p2bppp/p2pp3/8/3BP2q/2N5/PPPQBPPP/R3K2R w KQkq - 1 10,big mistake!
+19,Bxg7,d4g7,r1b1k1nr/1p2bpBp/p2pp3/8/4P2q/2N5/PPPQBPPP/R3K2R b KQkq - 0 10,"my rook is a ""goner"""
+20,Bf6,e7f6,r1b1k1nr/1p3pBp/p2ppb2/8/4P2q/2N5/PPPQBPPP/R3K2R w KQkq - 1 11,avenging my rook's demise
+21,Bxh8,g7h8,r1b1k1nB/1p3p1p/p2ppb2/8/4P2q/2N5/PPPQBPPP/R3K2R b KQq - 0 11,avenging my rook's demise
+22,Bxh8,f6h8,r1b1k1nb/1p3p1p/p2pp3/8/4P2q/2N5/PPPQBPPP/R3K2R w KQq - 0 12,avenging my rook's demise
+23,O-O-O,e1c1,r1b1k1nb/1p3p1p/p2pp3/8/4P2q/2N5/PPPQBPPP/2KR3R b q - 1 12,Should I grab the f2 pawn?
+24,Bxc3,h8c3,r1b1k1n1/1p3p1p/p2pp3/8/4P2q/2b5/PPPQBPPP/2KR3R w q - 0 13,"no, I'll dispose of the knight (I dislike opponents' knights)"
+25,Qxc3,d2c3,r1b1k1n1/1p3p1p/p2pp3/8/4P2q/2Q5/PPP1BPPP/2KR3R b q - 0 13,the e4 pawn looks tastier than the f2 pawn
+26,Qxe4,h4e4,r1b1k1n1/1p3p1p/p2pp3/8/4q3/2Q5/PPP1BPPP/2KR3R w q - 0 14,"ok, f2 would have been better..."
+27,Bf3,e2f3,r1b1k1n1/1p3p1p/p2pp3/8/4q3/2Q2B2/PPP2PPP/2KR3R b q - 1 14,"ok, f2 would have been better..."
+28,Qf4+,e4f4,r1b1k1n1/1p3p1p/p2pp3/8/5q2/2Q2B2/PPP2PPP/2KR3R w q - 2 15,I'll try nudging the king
+29,Kb1,c1b1,r1b1k1n1/1p3p1p/p2pp3/8/5q2/2Q2B2/PPP2PPP/1K1R3R b q - 3 15,I needed to block the diagonal so I could get the bishop out without losing the b7 pawn
+30,d5,d6d5,r1b1k1n1/1p3p1p/p3p3/3p4/5q2/2Q2B2/PPP2PPP/1K1R3R w q - 0 16,I needed to block the diagonal so I could get the bishop out without losing the b7 pawn
+31,g3,g2g3,r1b1k1n1/1p3p1p/p3p3/3p4/5q2/2Q2BP1/PPP2P1P/1K1R3R b q - 0 16,he nudges my queen
+32,Qf5,f4f5,r1b1k1n1/1p3p1p/p3p3/3p1q2/8/2Q2BP1/PPP2P1P/1K1R3R w q - 1 17,she stays nearby
+33,Rd3,d1d3,r1b1k1n1/1p3p1p/p3p3/3p1q2/8/2QR1BP1/PPP2P1P/1K5R b q - 2 17,he's up to something...
+34,Bd7,c8d7,r3k1n1/1p1b1p1p/p3p3/3p1q2/8/2QR1BP1/PPP2P1P/1K5R w q - 3 18,I'll attempt to patch the hole in my pawn structure with the bishop so I can castle
+35,Qc7,c3c7,r3k1n1/1pQb1p1p/p3p3/3p1q2/8/3R1BP1/PPP2P1P/1K5R b q - 4 18,he ain't havin' it

@@ -1,0 +1,82 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Stonewall attack.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Stonewall attack.
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Stonewall attack.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,Nf3 is decent.  This move is off book.
+5,b3,b2b3,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/1P2P3/P1P2PPP/RNBQKBNR b KQkq - 0 3,Nf3 is decent.  This move is off book.
+6,Bb4+,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b1P4/1P2P3/P1P2PPP/RNBQKBNR w KQkq - 1 4,Whoa!  RxQ4 makes this a horrible move.
+7,Bd2,c1d2,rnbqk1nr/ppp2ppp/4p3/3p4/1b1P4/1P2P3/P1PB1PPP/RN1QKBNR b KQkq - 2 4,Whoa!  RxQ4 makes this a horrible move.
+8,a5,a7a5,rnbqk1nr/1pp2ppp/4p3/p2p4/1b1P4/1P2P3/P1PB1PPP/RN1QKBNR w KQkq - 0 5,Whoa!  RxQ4 makes this a horrible move.
+9,c3,c2c3,rnbqk1nr/1pp2ppp/4p3/p2p4/1b1P4/1PP1P3/P2B1PPP/RN1QKBNR b KQkq - 0 5,Whoa!  RxQ4 makes this a horrible move.
+10,Be7,b4e7,rnbqk1nr/1pp1bppp/4p3/p2p4/3P4/1PP1P3/P2B1PPP/RN1QKBNR w KQkq - 1 6,Whoa!  RxQ4 makes this a horrible move.
+11,b4,b3b4,rnbqk1nr/1pp1bppp/4p3/p2p4/1P1P4/2P1P3/P2B1PPP/RN1QKBNR b KQkq - 0 6,Whoa!  RxQ4 makes this a horrible move.
+12,axb4,a5b4,rnbqk1nr/1pp1bppp/4p3/3p4/1p1P4/2P1P3/P2B1PPP/RN1QKBNR w KQkq - 0 7,Whoa!  RxQ4 makes this a horrible move.
+13,Qa4+,d1a4,rnbqk1nr/1pp1bppp/4p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2KBNR b KQkq - 1 7,Whoa!  RxQ4 makes this a horrible move.
+14,c6,c7c6,rnbqk1nr/1p2bppp/2p1p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2KBNR w KQkq - 0 8,Oops.
+15,Qxa8,a4a8,Qnbqk1nr/1p2bppp/2p1p3/3p4/1p1P4/2P1P3/P2B1PPP/RN2KBNR b KQk - 0 8,Black exposes a threat to the white queen.
+16,Qc7,d8c7,Qnb1k1nr/1pq1bppp/2p1p3/3p4/1p1P4/2P1P3/P2B1PPP/RN2KBNR w KQk - 1 9,Black exposes a threat to the white queen.
+17,Qa4,a8a4,1nb1k1nr/1pq1bppp/2p1p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2KBNR b KQk - 2 9,Black exposes a threat to the white queen.
+18,Na6,b8a6,2b1k1nr/1pq1bppp/n1p1p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2KBNR w KQk - 3 10,Black exposes a threat to the white queen.
+19,Bxa6,f1a6,2b1k1nr/1pq1bppp/B1p1p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2K1NR b KQk - 0 10,Black exposes a threat to the white queen.
+20,bxa6,b7a6,2b1k1nr/2q1bppp/p1p1p3/3p4/Qp1P4/2P1P3/P2B1PPP/RN2K1NR w KQk - 0 11,Black exposes a threat to the white queen.
+21,cxb4,c3b4,2b1k1nr/2q1bppp/p1p1p3/3p4/QP1P4/4P3/P2B1PPP/RN2K1NR b KQk - 0 11,Black exposes a threat to the white queen.
+22,Qb7,c7b7,2b1k1nr/1q2bppp/p1p1p3/3p4/QP1P4/4P3/P2B1PPP/RN2K1NR w KQk - 1 12,Black exposes a threat to the white queen.
+23,Ne2,g1e2,2b1k1nr/1q2bppp/p1p1p3/3p4/QP1P4/4P3/P2BNPPP/RN2K2R b KQk - 2 12,Black exposes a threat to the white queen.
+24,Bd7,c8d7,4k1nr/1q1bbppp/p1p1p3/3p4/QP1P4/4P3/P2BNPPP/RN2K2R w KQk - 3 13,Black exposes a threat to the white queen.
+25,Bc3,d2c3,4k1nr/1q1bbppp/p1p1p3/3p4/QP1P4/2B1P3/P3NPPP/RN2K2R b KQk - 4 13,Black exposes a threat to the white queen.
+26,Nf6,g8f6,4k2r/1q1bbppp/p1p1pn2/3p4/QP1P4/2B1P3/P3NPPP/RN2K2R w KQk - 5 14,Black exposes a threat to the white queen.
+27,Nd2,b1d2,4k2r/1q1bbppp/p1p1pn2/3p4/QP1P4/2B1P3/P2NNPPP/R3K2R b KQk - 6 14,Black exposes a threat to the white queen.
+28,c5,c6c5,4k2r/1q1bbppp/p3pn2/2pp4/QP1P4/2B1P3/P2NNPPP/R3K2R w KQk - 0 15,Black exposes a threat to the white queen.
+29,dxc5,d4c5,4k2r/1q1bbppp/p3pn2/2Pp4/QP6/2B1P3/P2NNPPP/R3K2R b KQk - 0 15,Which white ignores.
+30,Bxa4,d7a4,4k2r/1q2bppp/p3pn2/2Pp4/bP6/2B1P3/P2NNPPP/R3K2R w KQk - 0 16,Black does not let pass this second opportunity.
+31,O-O,e1g1,4k2r/1q2bppp/p3pn2/2Pp4/bP6/2B1P3/P2NNPPP/R4RK1 b k - 1 16,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+32,Qc6,b7c6,4k2r/4bppp/p1q1pn2/2Pp4/bP6/2B1P3/P2NNPPP/R4RK1 w k - 2 17,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+33,Bxf6,c3f6,4k2r/4bppp/p1q1pB2/2Pp4/bP6/4P3/P2NNPPP/R4RK1 b k - 0 17,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+34,Bxf6,e7f6,4k2r/5ppp/p1q1pb2/2Pp4/bP6/4P3/P2NNPPP/R4RK1 w k - 0 18,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+35,Rab1,a1b1,4k2r/5ppp/p1q1pb2/2Pp4/bP6/4P3/P2NNPPP/1R3RK1 b k - 1 18,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+36,h5,h7h5,4k2r/5pp1/p1q1pb2/2Pp3p/bP6/4P3/P2NNPPP/1R3RK1 w k - 0 19,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+37,f4,f2f4,4k2r/5pp1/p1q1pb2/2Pp3p/bP3P2/4P3/P2NN1PP/1R3RK1 b k - 0 19,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+38,Bb5,a4b5,4k2r/5pp1/p1q1pb2/1bPp3p/1P3P2/4P3/P2NN1PP/1R3RK1 w k - 1 20,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+39,Rbe1,b1e1,4k2r/5pp1/p1q1pb2/1bPp3p/1P3P2/4P3/P2NN1PP/4RRK1 b k - 2 20,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+40,h4,h5h4,4k2r/5pp1/p1q1pb2/1bPp4/1P3P1p/4P3/P2NN1PP/4RRK1 w k - 0 21,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+41,a3,a2a3,4k2r/5pp1/p1q1pb2/1bPp4/1P3P1p/P3P3/3NN1PP/4RRK1 b k - 0 21,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+42,h3,h4h3,4k2r/5pp1/p1q1pb2/1bPp4/1P3P2/P3P2p/3NN1PP/4RRK1 w k - 0 22,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+43,g3,g2g3,4k2r/5pp1/p1q1pb2/1bPp4/1P3P2/P3P1Pp/3NN2P/4RRK1 b k - 0 22,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+44,Rh6,h8h6,4k3/5pp1/p1q1pb1r/1bPp4/1P3P2/P3P1Pp/3NN2P/4RRK1 w - - 1 23,"Pd4 sets up a quick checkmate.  Easily parried, but an interesting move."
+45,Nf3,d2f3,4k3/5pp1/p1q1pb1r/1bPp4/1P3P2/P3PNPp/4N2P/4RRK1 b - - 2 23,?
+46,Qd6,c6d6,4k3/5pp1/p2qpb1r/1bPp4/1P3P2/P3PNPp/4N2P/4RRK1 w - - 3 24,?
+47,cxd6,c5d6,4k3/5pp1/p2Ppb1r/1b1p4/1P3P2/P3PNPp/4N2P/4RRK1 b - - 0 24,"Ouch!  White is encouraged to move NxPf7+, followed by leaping onto the rook."
+48,Kd7,e8d7,8/3k1pp1/p2Ppb1r/1b1p4/1P3P2/P3PNPp/4N2P/4RRK1 w - - 1 25,"Ouch!  White is encouraged to move NxPf7+, followed by leaping onto the rook."
+49,Ne5+,f3e5,8/3k1pp1/p2Ppb1r/1b1pN3/1P3P2/P3P1Pp/4N2P/4RRK1 b - - 2 25,"Ouch!  White is encouraged to move NxPf7+, followed by leaping onto the rook."
+50,Kxd6,d7d6,8/5pp1/p2kpb1r/1b1pN3/1P3P2/P3P1Pp/4N2P/4RRK1 w - - 0 26,"Ouch!  White is encouraged to move NxPf7+, followed by leaping onto the rook."
+51,Nxf7+,e5f7,8/5Np1/p2kpb1r/1b1p4/1P3P2/P3P1Pp/4N2P/4RRK1 b - - 0 26,Nope.  Bb2 gives black a pawn.
+52,Ke7,d6e7,8/4kNp1/p3pb1r/1b1p4/1P3P2/P3P1Pp/4N2P/4RRK1 w - - 1 27,Nope.  Bb2 gives black a pawn.
+53,Nxh6,f7h6,8/4k1p1/p3pb1N/1b1p4/1P3P2/P3P1Pp/4N2P/4RRK1 b - - 0 27,Nope.  Bb2 gives black a pawn.
+54,gxh6,g7h6,8/4k3/p3pb1p/1b1p4/1P3P2/P3P1Pp/4N2P/4RRK1 w - - 0 28,Nope.  Bb2 gives black a pawn.
+55,Rf2,f1f2,8/4k3/p3pb1p/1b1p4/1P3P2/P3P1Pp/4NR1P/4R1K1 b - - 1 28,Nope.  Bb2 gives black a pawn.
+56,h5,h6h5,8/4k3/p3pb2/1b1p3p/1P3P2/P3P1Pp/4NR1P/4R1K1 w - - 0 29,Nope.  Bb2 gives black a pawn.
+57,Rc1,e1c1,8/4k3/p3pb2/1b1p3p/1P3P2/P3P1Pp/4NR1P/2R3K1 b - - 1 29,Nope.  Bb2 gives black a pawn.
+58,h4,h5h4,8/4k3/p3pb2/1b1p4/1P3P1p/P3P1Pp/4NR1P/2R3K1 w - - 0 30,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+59,Rc7+,c1c7,8/2R1k3/p3pb2/1b1p4/1P3P1p/P3P1Pp/4NR1P/6K1 b - - 1 30,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+60,Kd6,e7d6,8/2R5/p2kpb2/1b1p4/1P3P1p/P3P1Pp/4NR1P/6K1 w - - 2 31,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+61,Rh7,c7h7,8/7R/p2kpb2/1b1p4/1P3P1p/P3P1Pp/4NR1P/6K1 b - - 3 31,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+62,Bb2,f6b2,8/7R/p2kp3/1b1p4/1P3P1p/P3P1Pp/1b2NR1P/6K1 w - - 4 32,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+63,Rxh4,h7h4,8/8/p2kp3/1b1p4/1P3P1R/P3P1Pp/1b2NR1P/6K1 b - - 0 32,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+64,Bf6,b2f6,8/8/p2kpb2/1b1p4/1P3P1R/P3P1Pp/4NR1P/6K1 w - - 1 33,"BxPa3 would probably have been better.  White wants to play RxPh3, which Bf6 encourages."
+65,Rxh3,h4h3,8/8/p2kpb2/1b1p4/1P3P2/P3P1PR/4NR1P/6K1 b - - 0 33,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+66,Bb2,f6b2,8/8/p2kp3/1b1p4/1P3P2/P3P1PR/1b2NR1P/6K1 w - - 1 34,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+67,Rh6,h3h6,8/8/p2kp2R/1b1p4/1P3P2/P3P1P1/1b2NR1P/6K1 b - - 2 34,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+68,Bd7,b5d7,8/3b4/p2kp2R/3p4/1P3P2/P3P1P1/1b2NR1P/6K1 w - - 3 35,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+69,f5,f4f5,8/3b4/p2kp2R/3p1P2/1P6/P3P1P1/1b2NR1P/6K1 b - - 0 35,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+70,Kc6,d6c6,8/3b4/p1k1p2R/3p1P2/1P6/P3P1P1/1b2NR1P/6K1 w - - 1 36,"That doesn't help Pe6.  To save Pa3 white can play Nd4+, followed by Nc2.  Black's black bishop will be blind to the knight on the white square.  But PxPe6 is free."
+71,f6,f5f6,8/3b4/p1k1pP1R/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 0 36,"PxPe6 would have been better.  Black would have to move the bishop to the eighth rank, though against two white rooks the conclusion is largely foregone, barring blunder."
+72,Kd6,c6d6,8/3b4/p2kpP1R/3p4/1P6/P3P1P1/1b2NR1P/6K1 w - - 1 37,Pf7 still works.
+73,Rh7,h6h7,8/3b3R/p2kpP2/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 2 37,Pf7 still works.
+74,Be8,d7e8,4b3/7R/p2kpP2/3p4/1P6/P3P1P1/1b2NR1P/6K1 w - - 3 38,Pf7 still works.
+75,f7,f6f7,4b3/5P1R/p2kp3/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 0 38,Pf8=Q+.  There is a rook at f2 protecting this pawn.
+76,Ke7,d6e7,4b3/4kP1R/p3p3/3p4/1P6/P3P1P1/1b2NR1P/6K1 w - - 1 39,Pf8=Q+.  There is a rook at f2 protecting this pawn.
+77,f8=Q+,f7f8q,4bQ2/4k2R/p3p3/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 0 39,"...or Ke7+, followed by QxBe8#.  Bigger point spread.  Though that is truly irrelevant.  I mention QxBe8# because many of Shosanna's victories are by the queen trapping the opposing king against the wall, and I would like to see a broader repertoire, especially if it reduces the number of moves.  She is my team mate, and sister-in-law, just to explain my interest in her progress."
+78,Kd8,e7d8,3kbQ2/7R/p3p3/3p4/1P6/P3P1P1/1b2NR1P/6K1 w - - 1 40,"...or Ke7+, followed by QxBe8#.  Bigger point spread.  Though that is truly irrelevant.  I mention QxBe8# because many of Shosanna's victories are by the queen trapping the opposing king against the wall, and I would like to see a broader repertoire, especially if it reduces the number of moves.  She is my team mate, and sister-in-law, just to explain my interest in her progress."
+79,Qd6+,f8d6,3kb3/7R/p2Qp3/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 2 40,"...or Ke7+, followed by QxBe8#.  Bigger point spread.  Though that is truly irrelevant.  I mention QxBe8# because many of Shosanna's victories are by the queen trapping the opposing king against the wall, and I would like to see a broader repertoire, especially if it reduces the number of moves.  She is my team mate, and sister-in-law, just to explain my interest in her progress."
+80,Kc8,d8c8,2k1b3/7R/p2Qp3/3p4/1P6/P3P1P1/1b2NR1P/6K1 w - - 3 41,
+81,Qc7#,d6c7,2k1b3/2Q4R/p3p3/3p4/1P6/P3P1P1/1b2NR1P/6K1 b - - 4 41,

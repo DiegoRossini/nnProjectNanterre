@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"1.d4 seemed my best choice against a much stronger opponent, avoiding the highly tactical versions of the more open e4."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Game knot openings database gives this as one of the poorer choices for black.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Game knot openings database gives this as one of the poorer choices for black.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,Game knot openings database gives this as one of the poorer choices for black.
+5,g3,g2g3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,Game knot openings database gives this as one of the poorer choices for black.
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,Game knot openings database gives this as one of the poorer choices for black.
+7,Bg2,f1g2,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,A quiet opening which suited me fine.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,A quiet opening which suited me fine.
+9,O-O,e1g1,rnbqk2r/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 3 5,A quiet opening which suited me fine.
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 4 6,A quiet opening which suited me fine.
+11,Nbd2,b1d2,rnbq1rk1/ppp1bppp/4pn2/3p4/3P4/5NP1/PPPNPPBP/R1BQ1RK1 b - - 5 6,Apparently not the best choice for white.
+12,Nbd7,b8d7,r1bq1rk1/pppnbppp/4pn2/3p4/3P4/5NP1/PPPNPPBP/R1BQ1RK1 w - - 6 7,Aiming at e5.
+13,c3,c2c3,r1bq1rk1/pppnbppp/4pn2/3p4/3P4/2P2NP1/PP1NPPBP/R1BQ1RK1 b - - 0 7,Aiming at e5.
+14,b6,b7b6,r1bq1rk1/p1pnbppp/1p2pn2/3p4/3P4/2P2NP1/PP1NPPBP/R1BQ1RK1 w - - 0 8,Aiming at e5.
+15,Qc2,d1c2,r1bq1rk1/p1pnbppp/1p2pn2/3p4/3P4/2P2NP1/PPQNPPBP/R1B2RK1 b - - 1 8,Aiming at e5.
+16,Ba6,c8a6,r2q1rk1/p1pnbppp/bp2pn2/3p4/3P4/2P2NP1/PPQNPPBP/R1B2RK1 w - - 2 9,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+17,Re1,f1e1,r2q1rk1/p1pnbppp/bp2pn2/3p4/3P4/2P2NP1/PPQNPPBP/R1B1R1K1 b - - 3 9,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+18,Rc8,a8c8,2rq1rk1/p1pnbppp/bp2pn2/3p4/3P4/2P2NP1/PPQNPPBP/R1B1R1K1 w - - 4 10,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+19,e4,e2e4,2rq1rk1/p1pnbppp/bp2pn2/3p4/3PP3/2P2NP1/PPQN1PBP/R1B1R1K1 b - - 0 10,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+20,dxe4,d5e4,2rq1rk1/p1pnbppp/bp2pn2/8/3Pp3/2P2NP1/PPQN1PBP/R1B1R1K1 w - - 0 11,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+21,Nxe4,d2e4,2rq1rk1/p1pnbppp/bp2pn2/8/3PN3/2P2NP1/PPQ2PBP/R1B1R1K1 b - - 0 11,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+22,Nxe4,f6e4,2rq1rk1/p1pnbppp/bp2p3/8/3Pn3/2P2NP1/PPQ2PBP/R1B1R1K1 w - - 0 12,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+23,Qxe4,c2e4,2rq1rk1/p1pnbppp/bp2p3/8/3PQ3/2P2NP1/PP3PBP/R1B1R1K1 b - - 0 12,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+24,c5,c7c5,2rq1rk1/p2nbppp/bp2p3/2p5/3PQ3/2P2NP1/PP3PBP/R1B1R1K1 w - - 0 13,"I was hoping for 12....Nf6 so I could play 13.Qc6, but black is alive to this."
+25,Be3,c1e3,2rq1rk1/p2nbppp/bp2p3/2p5/3PQ3/2P1BNP1/PP3PBP/R3R1K1 b - - 1 13,Developing and supporting d4.
+26,Nf6,d7f6,2rq1rk1/p3bppp/bp2pn2/2p5/3PQ3/2P1BNP1/PP3PBP/R3R1K1 w - - 2 14,QR develops
+27,Qc2,e4c2,2rq1rk1/p3bppp/bp2pn2/2p5/3P4/2P1BNP1/PPQ2PBP/R3R1K1 b - - 3 14,QR develops
+28,Bb7,a6b7,2rq1rk1/pb2bppp/1p2pn2/2p5/3P4/2P1BNP1/PPQ2PBP/R3R1K1 w - - 4 15,QR develops
+29,Rad1,a1d1,2rq1rk1/pb2bppp/1p2pn2/2p5/3P4/2P1BNP1/PPQ2PBP/3RR1K1 b - - 5 15,QR develops
+30,Be4,b7e4,2rq1rk1/p3bppp/1p2pn2/2p5/3Pb3/2P1BNP1/PPQ2PBP/3RR1K1 w - - 6 16,Black continues to drive white's queen and claims the centre with his magnificent bishop.
+31,Qc1,c2c1,2rq1rk1/p3bppp/1p2pn2/2p5/3Pb3/2P1BNP1/PP3PBP/2QRR1K1 b - - 7 16,Black is threatening to win the night so it has to move and protect the bishop on g2.
+32,Qc7,d8c7,2r2rk1/p1q1bppp/1p2pn2/2p5/3Pb3/2P1BNP1/PP3PBP/2QRR1K1 w - - 8 17,Black is threatening to win the night so it has to move and protect the bishop on g2.
+33,dxc5,d4c5,2r2rk1/p1q1bppp/1p2pn2/2P5/4b3/2P1BNP1/PP3PBP/2QRR1K1 b - - 0 17,Black is threatening to win the night so it has to move and protect the bishop on g2.
+34,Qb7,c7b7,2r2rk1/pq2bppp/1p2pn2/2P5/4b3/2P1BNP1/PP3PBP/2QRR1K1 w - - 1 18,Black is threatening to win the night so it has to move and protect the bishop on g2.
+35,Nh4,f3h4,2r2rk1/pq2bppp/1p2pn2/2P5/4b2N/2P1B1P1/PP3PBP/2QRR1K1 b - - 2 18,Black is threatening to win the night so it has to move and protect the bishop on g2.
+36,Bxc5,e7c5,2r2rk1/pq3ppp/1p2pn2/2b5/4b2N/2P1B1P1/PP3PBP/2QRR1K1 w - - 0 19,I don't want to take on c5 and develop black's rook.
+37,Bd4,e3d4,2r2rk1/pq3ppp/1p2pn2/2b5/3Bb2N/2P3P1/PP3PBP/2QRR1K1 b - - 1 19,I don't want to take on c5 and develop black's rook.
+38,Bxd4,c5d4,2r2rk1/pq3ppp/1p2pn2/8/3bb2N/2P3P1/PP3PBP/2QRR1K1 w - - 0 20,"Black decides not to ""blink first"" and exchange the white bishops."
+39,Rxd4,d1d4,2r2rk1/pq3ppp/1p2pn2/8/3Rb2N/2P3P1/PP3PBP/2Q1R1K1 b - - 0 20,"Black decides not to ""blink first"" and exchange the white bishops."
+40,Bd5,e4d5,2r2rk1/pq3ppp/1p2pn2/3b4/3R3N/2P3P1/PP3PBP/2Q1R1K1 w - - 1 21,"Black decides not to ""blink first"" and exchange the white bishops."
+41,Qd2,c1d2,2r2rk1/pq3ppp/1p2pn2/3b4/3R3N/2P3P1/PP1Q1PBP/4R1K1 b - - 2 21,Claiming d4.
+42,h6,h7h6,2r2rk1/pq3pp1/1p2pn1p/3b4/3R3N/2P3P1/PP1Q1PBP/4R1K1 w - - 0 22,Claiming d4.
+43,c4,c3c4,2r2rk1/pq3pp1/1p2pn1p/3b4/2PR3N/6P1/PP1Q1PBP/4R1K1 b - - 0 22,Claiming d4.
+44,Bc6,d5c6,2r2rk1/pq3pp1/1pb1pn1p/8/2PR3N/6P1/PP1Q1PBP/4R1K1 w - - 1 23,"If black gets the N to g5, I'm in all kinds of trouble."
+45,b3,b2b3,2r2rk1/pq3pp1/1pb1pn1p/8/2PR3N/1P4P1/P2Q1PBP/4R1K1 b - - 0 23,"If black gets the N to g5, I'm in all kinds of trouble."
+46,Nh7,f6h7,2r2rk1/pq3ppn/1pb1p2p/8/2PR3N/1P4P1/P2Q1PBP/4R1K1 w - - 1 24,"If black gets the N to g5, I'm in all kinds of trouble."
+47,f4,f2f4,2r2rk1/pq3ppn/1pb1p2p/8/2PR1P1N/1P4P1/P2Q2BP/4R1K1 b - - 0 24,"So I feel forced to play f4, leaving my king rather exposed."
+48,Nf6,h7f6,2r2rk1/pq3pp1/1pb1pn1p/8/2PR1P1N/1P4P1/P2Q2BP/4R1K1 w - - 1 25,I need to avoid the possible pin on d4.
+49,Rd1,e1d1,2r2rk1/pq3pp1/1pb1pn1p/8/2PR1P1N/1P4P1/P2Q2BP/3R2K1 b - - 2 25,I need to avoid the possible pin on d4.
+50,b5,b6b5,2r2rk1/pq3pp1/2b1pn1p/1p6/2PR1P1N/1P4P1/P2Q2BP/3R2K1 w - - 0 26,I need to avoid the possible pin on d4.
+51,h3,h2h3,2r2rk1/pq3pp1/2b1pn1p/1p6/2PR1P1N/1P4PP/P2Q2B1/3R2K1 b - - 0 26,I need to avoid the possible pin on d4.
+52,bxc4,b5c4,2r2rk1/pq3pp1/2b1pn1p/8/2pR1P1N/1P4PP/P2Q2B1/3R2K1 w - - 0 27,Maintaining control of the d-file
+53,bxc4,b3c4,2r2rk1/pq3pp1/2b1pn1p/8/2PR1P1N/6PP/P2Q2B1/3R2K1 b - - 0 27,Maintaining control of the d-file
+54,Ne4,f6e4,2r2rk1/pq3pp1/2b1p2p/8/2PRnP1N/6PP/P2Q2B1/3R2K1 w - - 1 28,Black confessed afterwards that f5 was a poor decision.
+55,Qe3,d2e3,2r2rk1/pq3pp1/2b1p2p/8/2PRnP1N/4Q1PP/P5B1/3R2K1 b - - 2 28,Black confessed afterwards that f5 was a poor decision.
+56,f5,f7f5,2r2rk1/pq4p1/2b1p2p/5p2/2PRnP1N/4Q1PP/P5B1/3R2K1 w - - 0 29,Black confessed afterwards that f5 was a poor decision.
+57,Ng6,h4g6,2r2rk1/pq4p1/2b1p1Np/5p2/2PRnP2/4Q1PP/P5B1/3R2K1 b - - 1 29,I need to take advantage of this to release my position.
+58,Rfe8,f8e8,2r1r1k1/pq4p1/2b1p1Np/5p2/2PRnP2/4Q1PP/P5B1/3R2K1 w - - 2 30,Time control reached. I have 3mins left and black 20mins; we add 15mins to finish the game.
+59,Ne5,g6e5,2r1r1k1/pq4p1/2b1p2p/4Np2/2PRnP2/4Q1PP/P5B1/3R2K1 b - - 3 30,Time control reached. I have 3mins left and black 20mins; we add 15mins to finish the game.
+60,Ba4,c6a4,2r1r1k1/pq4p1/4p2p/4Np2/b1PRnP2/4Q1PP/P5B1/3R2K1 w - - 4 31,Time control reached. I have 3mins left and black 20mins; we add 15mins to finish the game.

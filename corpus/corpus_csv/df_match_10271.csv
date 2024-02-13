@@ -1,0 +1,123 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,wait for the attack
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,watch c4
+3,g3,g2g3,rnbqkbnr/pppp1ppp/4p3/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2,watch c4
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/6P1/PPPP1P1P/RNBQKBNR w KQkq - 0 3,watch c4
+5,Qg4,d1g4,rnbqkbnr/ppp2ppp/4p3/3p4/4P1Q1/6P1/PPPP1P1P/RNB1KBNR b KQkq - 1 3,watch c4
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/4P1Q1/6P1/PPPP1P1P/RNB1KBNR w KQkq - 2 4,watch c4
+7,Qg5,g4g5,rnbqkb1r/ppp2ppp/4pn2/3p2Q1/4P3/6P1/PPPP1P1P/RNB1KBNR b KQkq - 3 4,watch c4
+8,Nxe4,f6e4,rnbqkb1r/ppp2ppp/4p3/3p2Q1/4n3/6P1/PPPP1P1P/RNB1KBNR w KQkq - 0 5,watch c4
+9,Qxd8+,g5d8,rnbQkb1r/ppp2ppp/4p3/3p4/4n3/6P1/PPPP1P1P/RNB1KBNR b KQkq - 0 5,watch c4
+10,Kxd8,e8d8,rnbk1b1r/ppp2ppp/4p3/3p4/4n3/6P1/PPPP1P1P/RNB1KBNR w KQ - 0 6,watch c4
+11,d3,d2d3,rnbk1b1r/ppp2ppp/4p3/3p4/4n3/3P2P1/PPP2P1P/RNB1KBNR b KQ - 0 6,watch c4
+12,Nf6,e4f6,rnbk1b1r/ppp2ppp/4pn2/3p4/8/3P2P1/PPP2P1P/RNB1KBNR w KQ - 1 7,watch c4
+13,Bg5,c1g5,rnbk1b1r/ppp2ppp/4pn2/3p2B1/8/3P2P1/PPP2P1P/RN2KBNR b KQ - 2 7,watch c4
+14,Be7,f8e7,rnbk3r/ppp1bppp/4pn2/3p2B1/8/3P2P1/PPP2P1P/RN2KBNR w KQ - 3 8,watch c4
+15,f3,f2f3,rnbk3r/ppp1bppp/4pn2/3p2B1/8/3P1PP1/PPP4P/RN2KBNR b KQ - 0 8,watch c4
+16,c5,c7c5,rnbk3r/pp2bppp/4pn2/2pp2B1/8/3P1PP1/PPP4P/RN2KBNR w KQ - 0 9,watch c4
+17,Nd2,b1d2,rnbk3r/pp2bppp/4pn2/2pp2B1/8/3P1PP1/PPPN3P/R3KBNR b KQ - 1 9,watch c4
+18,Nc6,b8c6,r1bk3r/pp2bppp/2n1pn2/2pp2B1/8/3P1PP1/PPPN3P/R3KBNR w KQ - 2 10,watch c4
+19,Bf4,g5f4,r1bk3r/pp2bppp/2n1pn2/2pp4/5B2/3P1PP1/PPPN3P/R3KBNR b KQ - 3 10,watch c4
+20,Nd7,f6d7,r1bk3r/pp1nbppp/2n1p3/2pp4/5B2/3P1PP1/PPPN3P/R3KBNR w KQ - 4 11,watch c4
+21,Nh3,g1h3,r1bk3r/pp1nbppp/2n1p3/2pp4/5B2/3P1PPN/PPPN3P/R3KB1R b KQ - 5 11,watch c4
+22,h6,h7h6,r1bk3r/pp1nbpp1/2n1p2p/2pp4/5B2/3P1PPN/PPPN3P/R3KB1R w KQ - 0 12,watch c4
+23,O-O-O,e1c1,r1bk3r/pp1nbpp1/2n1p2p/2pp4/5B2/3P1PPN/PPPN3P/2KR1B1R b - - 1 12,watch c4
+24,g5,g7g5,r1bk3r/pp1nbp2/2n1p2p/2pp2p1/5B2/3P1PPN/PPPN3P/2KR1B1R w - - 0 13,watch c4
+25,Be3,f4e3,r1bk3r/pp1nbp2/2n1p2p/2pp2p1/8/3PBPPN/PPPN3P/2KR1B1R b - - 1 13,watch c4
+26,Nb6,d7b6,r1bk3r/pp2bp2/1nn1p2p/2pp2p1/8/3PBPPN/PPPN3P/2KR1B1R w - - 2 14,watch c4
+27,Nb3,d2b3,r1bk3r/pp2bp2/1nn1p2p/2pp2p1/8/1N1PBPPN/PPP4P/2KR1B1R b - - 3 14,"bang.
+
+I suppose I should have gotten a rook."
+28,d4,d5d4,r1bk3r/pp2bp2/1nn1p2p/2p3p1/3p4/1N1PBPPN/PPP4P/2KR1B1R w - - 0 15,"bang.
+
+I suppose I should have gotten a rook."
+29,Bd2,e3d2,r1bk3r/pp2bp2/1nn1p2p/2p3p1/3p4/1N1P1PPN/PPPB3P/2KR1B1R b - - 1 15,"bang.
+
+I suppose I should have gotten a rook."
+30,e5,e6e5,r1bk3r/pp2bp2/1nn4p/2p1p1p1/3p4/1N1P1PPN/PPPB3P/2KR1B1R w - - 0 16,"bang.
+
+I suppose I should have gotten a rook."
+31,Nf2,h3f2,r1bk3r/pp2bp2/1nn4p/2p1p1p1/3p4/1N1P1PP1/PPPB1N1P/2KR1B1R b - - 1 16,"bang.
+
+I suppose I should have gotten a rook."
+32,Be6,c8e6,r2k3r/pp2bp2/1nn1b2p/2p1p1p1/3p4/1N1P1PP1/PPPB1N1P/2KR1B1R w - - 2 17,"bang.
+
+I suppose I should have gotten a rook."
+33,Na5,b3a5,r2k3r/pp2bp2/1nn1b2p/N1p1p1p1/3p4/3P1PP1/PPPB1N1P/2KR1B1R b - - 3 17,"bang.
+
+I suppose I should have gotten a rook."
+34,Nxa5,c6a5,r2k3r/pp2bp2/1n2b2p/n1p1p1p1/3p4/3P1PP1/PPPB1N1P/2KR1B1R w - - 0 18,"bang.
+
+I suppose I should have gotten a rook."
+35,Bxa5,d2a5,r2k3r/pp2bp2/1n2b2p/B1p1p1p1/3p4/3P1PP1/PPP2N1P/2KR1B1R b - - 0 18,"bang.
+
+I suppose I should have gotten a rook."
+36,f5,f7f5,r2k3r/pp2b3/1n2b2p/B1p1ppp1/3p4/3P1PP1/PPP2N1P/2KR1B1R w - - 0 19,"bang.
+
+I suppose I should have gotten a rook."
+37,Re1,d1e1,r2k3r/pp2b3/1n2b2p/B1p1ppp1/3p4/3P1PP1/PPP2N1P/2K1RB1R b - - 1 19,"bang.
+
+I suppose I should have gotten a rook."
+38,Bd6,e7d6,r2k3r/pp6/1n1bb2p/B1p1ppp1/3p4/3P1PP1/PPP2N1P/2K1RB1R w - - 2 20,"bang.
+
+I suppose I should have gotten a rook."
+39,Bxb6+,a5b6,r2k3r/pp6/1B1bb2p/2p1ppp1/3p4/3P1PP1/PPP2N1P/2K1RB1R b - - 0 20,"bang.
+
+I suppose I should have gotten a rook."
+40,axb6,a7b6,r2k3r/1p6/1p1bb2p/2p1ppp1/3p4/3P1PP1/PPP2N1P/2K1RB1R w - - 0 21,"bang.
+
+I suppose I should have gotten a rook."
+41,Bh3,f1h3,r2k3r/1p6/1p1bb2p/2p1ppp1/3p4/3P1PPB/PPP2N1P/2K1R2R b - - 1 21,"bang.
+
+I suppose I should have gotten a rook."
+42,Rxa2,a8a2,3k3r/1p6/1p1bb2p/2p1ppp1/3p4/3P1PPB/rPP2N1P/2K1R2R w - - 0 22,"bang.
+
+I suppose I should have gotten a rook."
+43,c4,c2c4,3k3r/1p6/1p1bb2p/2p1ppp1/2Pp4/3P1PPB/rP3N1P/2K1R2R b - c3 0 22,"bang.
+
+I suppose I should have gotten a rook."
+44,Kc7,d8c7,7r/1pk5/1p1bb2p/2p1ppp1/2Pp4/3P1PPB/rP3N1P/2K1R2R w - - 1 23,"bang.
+
+I suppose I should have gotten a rook."
+45,Kc2,c1c2,7r/1pk5/1p1bb2p/2p1ppp1/2Pp4/3P1PPB/rPK2N1P/4R2R b - - 2 23,"bang.
+
+I suppose I should have gotten a rook."
+46,Rha8,h8a8,r7/1pk5/1p1bb2p/2p1ppp1/2Pp4/3P1PPB/rPK2N1P/4R2R w - - 3 24,"bang.
+
+I suppose I should have gotten a rook."
+47,Kb3,c2b3,r7/1pk5/1p1bb2p/2p1ppp1/2Pp4/1K1P1PPB/rP3N1P/4R2R b - - 4 24,"bang.
+
+I suppose I should have gotten a rook."
+48,b5,b6b5,r7/1pk5/3bb2p/1pp1ppp1/2Pp4/1K1P1PPB/rP3N1P/4R2R w - - 0 25,"bang.
+
+I suppose I should have gotten a rook."
+49,Kc2,b3c2,r7/1pk5/3bb2p/1pp1ppp1/2Pp4/3P1PPB/rPK2N1P/4R2R b - - 1 25,"bang.
+
+I suppose I should have gotten a rook."
+50,Ra8a3,a8a3,8/1pk5/3bb2p/1pp1ppp1/2Pp4/r2P1PPB/rPK2N1P/4R2R w - - 2 26,"bang.
+
+I suppose I should have gotten a rook."
+51,Reb1,e1b1,8/1pk5/3bb2p/1pp1ppp1/2Pp4/r2P1PPB/rPK2N1P/1R5R b - - 3 26,"bang.
+
+I suppose I should have gotten a rook."
+52,bxc4,b5c4,8/1pk5/3bb2p/2p1ppp1/2pp4/r2P1PPB/rPK2N1P/1R5R w - - 0 27,"bang.
+
+I suppose I should have gotten a rook."
+53,Kd2,c2d2,8/1pk5/3bb2p/2p1ppp1/2pp4/r2P1PPB/rP1K1N1P/1R5R b - - 1 27,"bang.
+
+I suppose I should have gotten a rook."
+54,c3+,c4c3,8/1pk5/3bb2p/2p1ppp1/3p4/r1pP1PPB/rP1K1N1P/1R5R w - - 0 28,"bang.
+
+I suppose I should have gotten a rook."
+55,Ke2,d2e2,8/1pk5/3bb2p/2p1ppp1/3p4/r1pP1PPB/rP2KN1P/1R5R b - - 1 28,"bang.
+
+I suppose I should have gotten a rook."
+56,c2,c3c2,8/1pk5/3bb2p/2p1ppp1/3p4/r2P1PPB/rPp1KN1P/1R5R w - - 0 29,"bang.
+
+I suppose I should have gotten a rook."
+57,bxa3,b2a3,8/1pk5/3bb2p/2p1ppp1/3p4/P2P1PPB/r1p1KN1P/1R5R b - - 0 29,"bang.
+
+I suppose I should have gotten a rook."
+58,cxb1=Q#,c2b1q,8/1pk5/3bb2p/2p1ppp1/3p4/P2P1PPB/r3KN1P/1q5R w - - 0 30,"bang.
+
+I suppose I should have gotten a rook."

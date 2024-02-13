@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,I have been experimenting with the English opening against the computer lately to get a feel for how it plays.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"This is the particular branch that I am seeking for my experiments, the symmetrical version. Both players stake out control of a d file square on the opponents side of the board."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2,With this move white plays against ...e5.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 2 3,Black follows with a similar plan.
+5,e3,e2e3,rnbqkb1r/pp1ppppp/5n2/2p5/2P5/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,"This move fights for d4, and guards c4, and activates the bishop so it can be developed in preperation for 0-0, and is meant to support the followup move of d2-d4."
+6,d5,d7d5,rnbqkb1r/pp2pppp/5n2/2pp4/2P5/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 0 4,"Black begins an immediate fight for d5, fully developing a second pawn in the fight for the center."
+7,cxd5,c4d5,rnbqkb1r/pp2pppp/5n2/2pP4/8/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 4,"Exchanging this pawn away makes sense so that black has less influence in the center, and to prevent suffocating pawn moves by black."
+8,Nxd5,f6d5,rnbqkb1r/pp2pppp/8/2pn4/8/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 0 5,"Material equality is maintained, but the knight will not be welcomed here by white."
+9,Bc4,f1c4,rnbqkb1r/pp2pppp/8/2pn4/2B5/4PN2/PP1P1PPP/RNBQK2R b KQkq - 1 5,"This is a great developing move for the bishop, it is the most active placement. There is no real threat against the knight without a second piece, but the move does influence the center and draws a line to f7."
+10,Be6,c8e6,rn1qkb1r/pp2pppp/4b3/2pn4/2B5/4PN2/PP1P1PPP/RNBQK2R w KQkq - 2 6,"This move is not really necessary because the queen has guard of the knight, but it does allow black to try a tactic of ...Nc3! where it attacks both queen and the loose bishop."
+11,b3,b2b3,rn1qkb1r/pp2pppp/4b3/2pn4/2B5/1P2PN2/P2P1PPP/RNBQK2R b KQkq - 0 6,This refutes the tactical idea.
+12,Bf5,e6f5,rn1qkb1r/pp2pppp/8/2pn1b2/2B5/1P2PN2/P2P1PPP/RNBQK2R w KQkq - 1 7,"Black repositions the bishop to take control of c2, d3, e4 squares, but this position begs a fork."
+13,d3,d2d3,rn1qkb1r/pp2pppp/8/2pn1b2/2B5/1P1PPN2/P4PPP/RNBQK2R b KQkq - 0 7,+/= Threatening an e3-e4 fork.
+14,Qa5+,d8a5,rn2kb1r/pp2pppp/8/q1pn1b2/2B5/1P1PPN2/P4PPP/RNBQK2R w KQkq - 1 8,"?! Black chooses a rather dramatic, yet clumsy method to refute the fork by way of a distracting check, but this too has a tactical refutation."
+15,Bd2,c1d2,rn2kb1r/pp2pppp/8/q1pn1b2/2B5/1P1PPN2/P2B1PPP/RN1QK2R b KQkq - 2 8,! Now there are 3 threats for black to counter.
+16,Nb4,d5b4,rn2kb1r/pp2pppp/8/q1p2b2/1nB5/1P1PPN2/P2B1PPP/RN1QK2R w KQkq - 3 9,"Black finds a way out of the traps, but the knight is not in the happiest of positions here due to the pin that it has jumped into."
+17,O-O,e1g1,rn2kb1r/pp2pppp/8/q1p2b2/1nB5/1P1PPN2/P2B1PPP/RN1Q1RK1 b kq - 4 9,"+/- This prevents any wild ideas of ...Nxd3+, and it gives white a serious lead in development."
+18,Nb8c6,b8c6,r3kb1r/pp2pppp/2n5/q1p2b2/1nB5/1P1PPN2/P2B1PPP/RN1Q1RK1 w kq - 5 10,Black seeks to catch up in development.
+19,a3,a2a3,r3kb1r/pp2pppp/2n5/q1p2b2/1nB5/PP1PPN2/3B1PPP/RN1Q1RK1 b kq - 0 10,!? Creating a future threat once the rook is guarded.
+20,O-O-O,e8c8,2kr1b1r/pp2pppp/2n5/q1p2b2/1nB5/PP1PPN2/3B1PPP/RN1Q1RK1 w - - 1 11,"Black finally gains king safety, somewhat, and brings the rook into a coordinated attack with the bishop on d3."

@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The Four Knights' Game, usually considered quite drawish."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Four Knights' Game, usually considered quite drawish."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The Four Knights' Game, usually considered quite drawish."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"The Four Knights' Game, usually considered quite drawish."
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"The Four Knights' Game, usually considered quite drawish."
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"The Four Knights' Game, usually considered quite drawish."
+7,a3,a2a3,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R b KQkq - 0 4,I'm not sure why this was played. The situation seems to call for continued development.
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R w KQkq - 1 5,I exploit the time-wasting Pawn move by seizing an advantage in development.
+9,b4,b2b4,r1bqk2r/pppp1ppp/2n2n2/2b1p3/1P2P3/P1N2N2/2PP1PPP/R1BQKB1R b KQkq - 0 5,"Another wasted move. The rule in the opening is ironclad: move your pieces out quickly and only make necessary Pawn moves, or else your middle-game will be inferior."
+10,Bb6,c5b6,r1bqk2r/pppp1ppp/1bn2n2/4p3/1P2P3/P1N2N2/2PP1PPP/R1BQKB1R w KQkq - 1 6,"If White wants to fianchetto the Bishop, 4 P-QN3 and 5 B-N2 accomplish the task a move quicker."
+11,Bb2,c1b2,r1bqk2r/pppp1ppp/1bn2n2/4p3/1P2P3/P1N2N2/1BPP1PPP/R2QKB1R b KQkq - 2 6,"If White wants to fianchetto the Bishop, 4 P-QN3 and 5 B-N2 accomplish the task a move quicker."
+12,d6,d7d6,r1bqk2r/ppp2ppp/1bnp1n2/4p3/1P2P3/P1N2N2/1BPP1PPP/R2QKB1R w KQkq - 0 7,Preparing to castle.
+13,Bc4,f1c4,r1bqk2r/ppp2ppp/1bnp1n2/4p3/1PB1P3/P1N2N2/1BPP1PPP/R2QK2R b KQkq - 1 7,Preparing to castle.
+14,O-O,e8g8,r1bq1rk1/ppp2ppp/1bnp1n2/4p3/1PB1P3/P1N2N2/1BPP1PPP/R2QK2R w KQ - 2 8,I secure my King...
+15,O-O,e1g1,r1bq1rk1/ppp2ppp/1bnp1n2/4p3/1PB1P3/P1N2N2/1BPP1PPP/R2Q1RK1 b - - 3 8,...as does my opponent.
+16,Bg4,c8g4,r2q1rk1/ppp2ppp/1bnp1n2/4p3/1PB1P1b1/P1N2N2/1BPP1PPP/R2Q1RK1 w - - 4 9,Clearing the last minor piece off the back rank.
+17,Be2,c4e2,r2q1rk1/ppp2ppp/1bnp1n2/4p3/1P2P1b1/P1N2N2/1BPPBPPP/R2Q1RK1 b - - 5 9,Breaking the pin.
+18,Qd7,d8d7,r4rk1/pppq1ppp/1bnp1n2/4p3/1P2P1b1/P1N2N2/1BPPBPPP/R2Q1RK1 w - - 6 10,"My development is complete now, as my Rooks are connected. White still must move his Q off the back rank, so I have a slight advantage in time. Time advantages, however, must be converted before they evaporate."
+19,h3,h2h3,r4rk1/pppq1ppp/1bnp1n2/4p3/1P2P1b1/P1N2N1P/1BPPBPP1/R2Q1RK1 b - - 0 10,I see no reason to exchange Bishop for Knight at this stage.
+20,Be6,g4e6,r4rk1/pppq1ppp/1bnpbn2/4p3/1P2P3/P1N2N1P/1BPPBPP1/R2Q1RK1 w - - 1 11,I see no reason to exchange Bishop for Knight at this stage.
+21,Bb5,e2b5,r4rk1/pppq1ppp/1bnpbn2/1B2p3/1P2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 b - - 2 11,Now I'm the one putting the question.
+22,a6,a7a6,r4rk1/1ppq1ppp/pbnpbn2/1B2p3/1P2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 w - - 0 12,Now I'm the one putting the question.
+23,Ba4,b5a4,r4rk1/1ppq1ppp/pbnpbn2/4p3/BP2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 b - - 1 12,Maintaining the pin.
+24,Ba7,b6a7,r4rk1/bppq1ppp/p1npbn2/4p3/BP2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 w - - 2 13,I clear my Bishop out of the way and prepare to lock the Q-side with ...P-QN4.
+25,Bxc6,a4c6,r4rk1/bppq1ppp/p1Bpbn2/4p3/1P2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 b - - 0 13,"It is not necessary for White to concede the minor exchange here. 13 B-N3 would be acceptable, although I could choose to respond with 13...BxB, doubling the White QNP's."
+26,Qxc6,d7c6,r4rk1/bpp2ppp/p1qpbn2/4p3/1P2P3/P1N2N1P/1BPP1PP1/R2Q1RK1 w - - 0 14,I complete the exchange.
+27,d3,d2d3,r4rk1/bpp2ppp/p1qpbn2/4p3/1P2P3/P1NP1N1P/1BP2PP1/R2Q1RK1 b - - 0 14,"The Pawn structure on the Q-side is now virtually locked, meaning that the game will proceed at a more sedate pace. Instead of wild attacks, positional maneuvers will be the order of the day."
+28,b5,b7b5,r4rk1/b1p2ppp/p1qpbn2/1p2p3/1P2P3/P1NP1N1P/1BP2PP1/R2Q1RK1 w - - 0 15,"The Pawn structure on the Q-side is now virtually locked, meaning that the game will proceed at a more sedate pace. Instead of wild attacks, positional maneuvers will be the order of the day."
+29,Bc1,b2c1,r4rk1/b1p2ppp/p1qpbn2/1p2p3/1P2P3/P1NP1N1P/2P2PP1/R1BQ1RK1 b - - 1 15,"A mistake, although I miss the fact I can respond 15...QxN."
+30,h6,h7h6,r4rk1/b1p2pp1/p1qpbn1p/1p2p3/1P2P3/P1NP1N1P/2P2PP1/R1BQ1RK1 w - - 0 16,"Apparently White wanted to reposition his Bishop on this diagonal. I'm not sure why, since it allows me to trade off my less mobile KB and preserve my well-positioned, quite mobile QB."
+31,Be3,c1e3,r4rk1/b1p2pp1/p1qpbn1p/1p2p3/1P2P3/P1NPBN1P/2P2PP1/R2Q1RK1 b - - 1 16,"Apparently White wanted to reposition his Bishop on this diagonal. I'm not sure why, since it allows me to trade off my less mobile KB and preserve my well-positioned, quite mobile QB."

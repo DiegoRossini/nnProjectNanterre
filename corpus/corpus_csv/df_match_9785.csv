@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Reti Opening, maintaining White's options."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"Wade defense (or Philidor's defense by transposition), quite a passive and conservative choice of a defense by Black."
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 2,Black must have went for equal opportunity with 2.Bg4 (preferable line).
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Black must have went for equal opportunity with 2.Bg4 (preferable line).
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Expected by white (after reaching Philidor's defense, by transposition)"
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,3...Nd7 was a better choice
+7,dxe5,d4e5,r1bqkbnr/ppp2ppp/2np4/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,Threatening queen trade if Black recaptures 4...dxe5
+8,Qe7,d8e7,r1b1kbnr/ppp1qppp/2np4/4P3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,"4...Qe7, avoiding the queen trade, closes the path of the black bishop at f8."
+9,Nc3,b1c3,r1b1kbnr/ppp1qppp/2np4/4P3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,Opens the way for queen-side castling.
+10,dxe5,d6e5,r1b1kbnr/ppp1qppp/2n5/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Opens the way for queen-side castling.
+11,Bb5,f1b5,r1b1kbnr/ppp1qppp/2n5/1B2p3/4P3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 6,Opens the way for queen-side castling.
+12,Bd7,c8d7,r3kbnr/pppbqppp/2n5/1B2p3/4P3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 7,Opens the way for queen-side castling.
+13,Bg5,c1g5,r3kbnr/pppbqppp/2n5/1B2p1B1/4P3/2N2N2/PPP2PPP/R2QK2R b KQkq - 3 7,White is soliciting positional clarity on Black's side.
+14,f6,f7f6,r3kbnr/pppbq1pp/2n2p2/1B2p1B1/4P3/2N2N2/PPP2PPP/R2QK2R w KQkq - 0 8,This is almost the latest that Black could have delayed his castling.
+15,Be3,g5e3,r3kbnr/pppbq1pp/2n2p2/1B2p3/4P3/2N1BN2/PPP2PPP/R2QK2R b KQkq - 1 8,This is almost the latest that Black could have delayed his castling.
+16,a6,a7a6,r3kbnr/1ppbq1pp/p1n2p2/1B2p3/4P3/2N1BN2/PPP2PPP/R2QK2R w KQkq - 0 9,This is almost the latest that Black could have delayed his castling.
+17,Bc4,b5c4,r3kbnr/1ppbq1pp/p1n2p2/4p3/2B1P3/2N1BN2/PPP2PPP/R2QK2R b KQkq - 1 9,This is almost the latest that Black could have delayed his castling.
+18,O-O-O,e8c8,2kr1bnr/1ppbq1pp/p1n2p2/4p3/2B1P3/2N1BN2/PPP2PPP/R2QK2R w KQ - 2 10,This is almost the latest that Black could have delayed his castling.
+19,Qe2,d1e2,2kr1bnr/1ppbq1pp/p1n2p2/4p3/2B1P3/2N1BN2/PPP1QPPP/R3K2R b KQ - 3 10,"Activating the queen, and opening way for castling in both directions."
+20,Bg4,d7g4,2kr1bnr/1pp1q1pp/p1n2p2/4p3/2B1P1b1/2N1BN2/PPP1QPPP/R3K2R w KQ - 4 11,White could easily go for a draw 11.Bxa6 (draw forced in about 10 moves unless Black chooses to lose material). Black's queen-side is exposed.
+21,O-O,e1g1,2kr1bnr/1pp1q1pp/p1n2p2/4p3/2B1P1b1/2N1BN2/PPP1QPPP/R4RK1 b - - 5 11,White could easily go for a draw 11.Bxa6 (draw forced in about 10 moves unless Black chooses to lose material). Black's queen-side is exposed.
+22,g5,g7g5,2kr1bnr/1pp1q2p/p1n2p2/4p1p1/2B1P1b1/2N1BN2/PPP1QPPP/R4RK1 w - - 0 12,Serves no purpose (neither tactical nor for positional play). Black should rethink this move. Playing it means that Black did not have a total appreciation of the position on the table.
+23,h3,h2h3,2kr1bnr/1pp1q2p/p1n2p2/4p1p1/2B1P1b1/2N1BN1P/PPP1QPP1/R4RK1 b - - 0 12,"Black still has not done anything to relieve the immediate danger on the queen-side!!!
+note: Black seems to be playing moves TOO FAST!"
+24,Bh5,g4h5,2kr1bnr/1pp1q2p/p1n2p2/4p1pb/2B1P3/2N1BN1P/PPP1QPP1/R4RK1 w - - 1 13,"Black still has not done anything to relieve the immediate danger on the queen-side!!!
+note: Black seems to be playing moves TOO FAST!"
+25,Rfd1,f1d1,2kr1bnr/1pp1q2p/p1n2p2/4p1pb/2B1P3/2N1BN1P/PPP1QPP1/R2R2K1 b - - 2 13,"Black still has not done anything to relieve the immediate danger on the queen-side!!!
+note: Black seems to be playing moves TOO FAST!"
+26,Nd4,c6d4,2kr1bnr/1pp1q2p/p4p2/4p1pb/2BnP3/2N1BN1P/PPP1QPP1/R2R2K1 w - - 3 14,"Black still has not done anything to relieve the immediate danger on the queen-side!!!
+note: Black seems to be playing moves TOO FAST!"
+27,Bxd4,e3d4,2kr1bnr/1pp1q2p/p4p2/4p1pb/2BBP3/2N2N1P/PPP1QPP1/R2R2K1 b - - 0 14,A miscalculation. Black should have recaptured by the rook not the pawn (in which case the pawn is lost).
+28,exd4,e5d4,2kr1bnr/1pp1q2p/p4p2/6pb/2BpP3/2N2N1P/PPP1QPP1/R2R2K1 w - - 0 15,A miscalculation. Black should have recaptured by the rook not the pawn (in which case the pawn is lost).
+29,Nd5,c3d5,2kr1bnr/1pp1q2p/p4p2/3N2pb/2BpP3/5N1P/PPP1QPP1/R2R2K1 b - - 1 15,16...Bg5 or 16...Bf7 were the better moves!
+30,Qc5,e7c5,2kr1bnr/1pp4p/p4p2/2qN2pb/2BpP3/5N1P/PPP1QPP1/R2R2K1 w - - 2 16,16...Bg5 or 16...Bf7 were the better moves!
+31,g4,g2g4,2kr1bnr/1pp4p/p4p2/2qN2pb/2BpP1P1/5N1P/PPP1QP2/R2R2K1 b - - 0 16,16...Bg5 or 16...Bf7 were the better moves!
+32,Be8,h5e8,2krbbnr/1pp4p/p4p2/2qN2p1/2BpP1P1/5N1P/PPP1QP2/R2R2K1 w - - 1 17,16...Bg5 or 16...Bf7 were the better moves!
+33,Nxd4,f3d4,2krbbnr/1pp4p/p4p2/2qN2p1/2BNP1P1/7P/PPP1QP2/R2R2K1 b - - 0 17,Not Black's best move in this position.
+34,Rd6,d8d6,2k1bbnr/1pp4p/p2r1p2/2qN2p1/2BNP1P1/7P/PPP1QP2/R2R2K1 w - - 1 18,Not Black's best move in this position.
+35,b4,b2b4,2k1bbnr/1pp4p/p2r1p2/2qN2p1/1PBNP1P1/7P/P1P1QP2/R2R2K1 b - - 0 18,Shedding more light that Black should have played 17...Bd7.
+36,Qa7,c5a7,2k1bbnr/qpp4p/p2r1p2/3N2p1/1PBNP1P1/7P/P1P1QP2/R2R2K1 w - - 1 19,Shedding more light that Black should have played 17...Bd7.
+37,e5,e4e5,2k1bbnr/qpp4p/p2r1p2/3NP1p1/1PBN2P1/7P/P1P1QP2/R2R2K1 b - - 0 19,Shedding more light that Black should have played 17...Bd7.
+38,Rxd5,d6d5,2k1bbnr/qpp4p/p4p2/3rP1p1/1PBN2P1/7P/P1P1QP2/R2R2K1 w - - 0 20,Big blunder. NO explanation for this move!!!
+39,Bxd5,c4d5,2k1bbnr/qpp4p/p4p2/3BP1p1/1P1N2P1/7P/P1P1QP2/R2R2K1 b - - 0 20,Creating immense pressure on Black's king. Black does not seem to have much hope at this point.

@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings pawn offered
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Kings pawn offered
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,Kings pawn offered
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,taken
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"this bishop will prevent me from castling, so-"
+6,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b5/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4,"this bishop will prevent me from castling, so-"
+7,d4,d2d4,rnbqk1nr/pppp1ppp/8/2b5/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 4,pawn recovered
+8,Bb6,c5b6,rnbqk1nr/pppp1ppp/1b6/8/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq - 1 5,pawn recovered
+9,Bxf4,c1f4,rnbqk1nr/pppp1ppp/1b6/8/3PPB2/5N2/PPP3PP/RN1QKB1R b KQkq - 0 5,pawn recovered
+10,Qf6,d8f6,rnb1k1nr/pppp1ppp/1b3q2/8/3PPB2/5N2/PPP3PP/RN1QKB1R w KQkq - 1 6,"unusual to bring the queen out early, comments welcome"
+11,Qd2,d1d2,rnb1k1nr/pppp1ppp/1b3q2/8/3PPB2/5N2/PPPQ2PP/RN2KB1R b KQkq - 2 6,triple attack on my d pawn
+12,Nc6,b8c6,r1b1k1nr/pppp1ppp/1bn2q2/8/3PPB2/5N2/PPPQ2PP/RN2KB1R w KQkq - 3 7,triple attack on my d pawn
+13,e5,e4e5,r1b1k1nr/pppp1ppp/1bn2q2/4P3/3P1B2/5N2/PPPQ2PP/RN2KB1R b KQkq - 0 7,"harass the queen, maybe even a chance it gets trapped"
+14,Qg6,f6g6,r1b1k1nr/pppp1ppp/1bn3q1/4P3/3P1B2/5N2/PPPQ2PP/RN2KB1R w KQkq - 1 8,"harass the queen, maybe even a chance it gets trapped"
+15,Bd3,f1d3,r1b1k1nr/pppp1ppp/1bn3q1/4P3/3P1B2/3B1N2/PPPQ2PP/RN2K2R b KQkq - 2 8,"harass the queen, maybe even a chance it gets trapped"
+16,Qe6,g6e6,r1b1k1nr/pppp1ppp/1bn1q3/4P3/3P1B2/3B1N2/PPPQ2PP/RN2K2R w KQkq - 3 9,"i continue to harass his queen,"
+17,Ng5,f3g5,r1b1k1nr/pppp1ppp/1bn1q3/4P1N1/3P1B2/3B4/PPPQ2PP/RN2K2R b KQkq - 4 9,"i continue to harass his queen,"
+18,Qe7,e6e7,r1b1k1nr/ppppqppp/1bn5/4P1N1/3P1B2/3B4/PPPQ2PP/RN2K2R w KQkq - 5 10,this is when i wish i had castled earlier
+19,c3,c2c3,r1b1k1nr/ppppqppp/1bn5/4P1N1/3P1B2/2PB4/PP1Q2PP/RN2K2R b KQkq - 0 10,this is when i wish i had castled earlier
+20,h6,h7h6,r1b1k1nr/ppppqpp1/1bn4p/4P1N1/3P1B2/2PB4/PP1Q2PP/RN2K2R w KQkq - 0 11,this is when i wish i had castled earlier
+21,Nf3,g5f3,r1b1k1nr/ppppqpp1/1bn4p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN2K2R b KQkq - 1 11,this is when i wish i had castled earlier
+22,d6,d7d6,r1b1k1nr/ppp1qpp1/1bnp3p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN2K2R w KQkq - 0 12,this is when i wish i had castled earlier
+23,O-O,e1g1,r1b1k1nr/ppp1qpp1/1bnp3p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN3RK1 b kq - 1 12,"pushing his queen back after a lot of futile moves. 
+observe- i have castled, all pieces developed except the knight and three pawns pushed forward.
+black still has 3 pieces undeveloped and has not castled"
+24,Qd8,e7d8,r1bqk1nr/ppp2pp1/1bnp3p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN3RK1 w kq - 2 13,"pushing his queen back after a lot of futile moves. 
+observe- i have castled, all pieces developed except the knight and three pawns pushed forward.
+black still has 3 pieces undeveloped and has not castled"
+25,Kh1,g1h1,r1bqk1nr/ppp2pp1/1bnp3p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN3R1K b kq - 3 13,get my k away from that black bishops gaze
+26,Nge7,g8e7,r1bqk2r/ppp1npp1/1bnp3p/4P3/3P1B2/2PB1N2/PP1Q2PP/RN3R1K w kq - 4 14,this will clear the e file for me and also isolate his -
+27,exd6,e5d6,r1bqk2r/ppp1npp1/1bnP3p/8/3P1B2/2PB1N2/PP1Q2PP/RN3R1K b kq - 0 14,this will clear the e file for me and also isolate his -
+28,cxd6,c7d6,r1bqk2r/pp2npp1/1bnp3p/8/3P1B2/2PB1N2/PP1Q2PP/RN3R1K w kq - 0 15,- isolate his e pawn
+29,Na3,b1a3,r1bqk2r/pp2npp1/1bnp3p/8/3P1B2/N1PB1N2/PP1Q2PP/R4R1K b kq - 1 15,"now suddenly i start dreaming an attack on his kingside- note queen and both bishops pointing there.
+only problem was i had to make this unusual move of the knight to the edge"
+30,O-O,e8g8,r1bq1rk1/pp2npp1/1bnp3p/8/3P1B2/N1PB1N2/PP1Q2PP/R4R1K w - - 2 16,double attack on his e pawn
+31,Nb5,a3b5,r1bq1rk1/pp2npp1/1bnp3p/1N6/3P1B2/2PB1N2/PP1Q2PP/R4R1K b - - 3 16,double attack on his e pawn
+32,Bc7,b6c7,r1bq1rk1/ppb1npp1/2np3p/1N6/3P1B2/2PB1N2/PP1Q2PP/R4R1K w - - 4 17,he protects it
+33,Bxh6,f4h6,r1bq1rk1/ppb1npp1/2np3B/1N6/3P4/2PB1N2/PP1Q2PP/R4R1K b - - 0 17,boom
+34,gxh6,g7h6,r1bq1rk1/ppb1np2/2np3p/1N6/3P4/2PB1N2/PP1Q2PP/R4R1K w - - 0 18,boom
+35,Qxh6,d2h6,r1bq1rk1/ppb1np2/2np3Q/1N6/3P4/2PB1N2/PP4PP/R4R1K b - - 0 18,boom
+36,Bf5,c8f5,r2q1rk1/ppb1np2/2np3Q/1N3b2/3P4/2PB1N2/PP4PP/R4R1K w - - 1 19,"if i take his lsb, he will retake with his knight and my queen will have to move. HOWEVER CAN YOU SPOT THE MATING ATTACK?"
+37,Ng5,f3g5,r2q1rk1/ppb1np2/2np3Q/1N3bN1/3P4/2PB4/PP4PP/R4R1K b - - 2 19,dOUBLE BISHOP SACRIFICE.  He thinks he has h2 covered but HAVE YOU SPOTTED THE ALT ATTACK
+38,Bxd3,f5d3,r2q1rk1/ppb1np2/2np3Q/1N4N1/3P4/2Pb4/PP4PP/R4R1K w - - 0 20,dOUBLE BISHOP SACRIFICE.  He thinks he has h2 covered but HAVE YOU SPOTTED THE ALT ATTACK

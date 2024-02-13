@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hello everyone. This game gives you a debate of whether castling is good or not. Are you safe behind your wall of Pawns? You might be. Trouble is, these Pawns might start rebelling! Don't get what I mean? Well, you will later..."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black is kicking off with the Sicilian Defence.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"This is not that common, unless playing the Ruy Lopez.  Regular third moves for white are Nc3, Bc4, or maybe d3. Black should now play 3.... Nb4! escaping the threat although a6 is common in most junior games."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"This is not that common, unless playing the Ruy Lopez.  Regular third moves for white are Nc3, Bc4, or maybe d3. Black should now play 3.... Nb4! escaping the threat although a6 is common in most junior games."
+5,Bb5,f1b5,r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"This is not that common, unless playing the Ruy Lopez.  Regular third moves for white are Nc3, Bc4, or maybe d3. Black should now play 3.... Nb4! escaping the threat although a6 is common in most junior games."
+6,a6,a7a6,r1bqkbnr/1p1ppppp/p1n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"This move is debatable. It does chase the bishop away, but if 4. Bxc6 dxc6 Black results with doubled pawns. 4. ... bxc6 would still be the same, except the half-open file would be the b-file, not the d-file. Note that non of black's king-side pieces have been developed, making it difficult to castle."
+7,Bxc6,b5c6,r1bqkbnr/1p1ppppp/p1B5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,"Retreating the bishop with 4. Ba4 is silly as the bishop has to waste time running away, whilst back can catch up with the development with 4. ... Nf6 or even attack the bishop a second time with 4 ... b5!"
+8,dxc6,d7c6,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Black is forced to reply, resulting with doubled pawns. Black has all his pieces in bed, and his only piece that had come out was the knight, now taken, leaving white to move."
+9,O-O,e1g1,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5,White immediantly castles into saftey. Another option would have been 5. Nc3.
+10,Nf6,g8f6,r1bqkb1r/1p2pppp/p1p2n2/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6,Black develops his second knight.
+11,Nc3,b1c3,r1bqkb1r/1p2pppp/p1p2n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 6,6. Nc3 defends the e4 pawn. Note that 6. d3 is also OK.
+12,Bg4,c8g4,r2qkb1r/1p2pppp/p1p2n2/2p5/4P1b1/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 4 7,"This move pins the knight but white would not have doubled pawns as 7 ... Bxf3 8. Qxf3 resulting an advantage for white. Also, this enables blacks DSB to come out after 7. ... e6 does not block Black's LSB. 7 ... e5 is also another option as 8. Nxe5 would result in 8. ... Bxd1 winning the Queen."
+13,d3,d2d3,r2qkb1r/1p2pppp/p1p2n2/2p5/4P1b1/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 0 7,Supporting the e4 pawn and allowing White's DSB to develop.
+14,e5,e7e5,r2qkb1r/1p3ppp/p1p2n2/2p1p3/4P1b1/2NP1N2/PPP2PPP/R1BQ1RK1 w kq - 0 8,"In order to get Black's DSB out and get Black's king into saftey. Again, 8. Nxe5 is not an option as Black would reply with 8. ... Bxd1, winning the queen."
+15,Bg5,c1g5,r2qkb1r/1p3ppp/p1p2n2/2p1p1B1/4P1b1/2NP1N2/PPP2PPP/R2Q1RK1 b kq - 1 8,Developing the bishop and pinning the knight. Serves black right for pinning white's knight!
+16,Bd6,f8d6,r2qk2r/1p3ppp/p1pb1n2/2p1p1B1/4P1b1/2NP1N2/PPP2PPP/R2Q1RK1 w kq - 2 9,"Developing the bishop, preparing to castle."
+17,h3,h2h3,r2qk2r/1p3ppp/p1pb1n2/2p1p1B1/4P1b1/2NP1N1P/PPP2PP1/R2Q1RK1 b kq - 0 9,Chasing the bishop away. Note that 9. ... Bxf3? removes the pin.
+18,Be6,g4e6,r2qk2r/1p3ppp/p1pbbn2/2p1p1B1/4P3/2NP1N1P/PPP2PP1/R2Q1RK1 w kq - 1 10,"The bishop returns to home and supports his friend, the other bishop, launching effective attacks. Note that black's LSB is much more mobile and active than Black's DSB."
+19,Qe2,d1e2,r2qk2r/1p3ppp/p1pbbn2/2p1p1B1/4P3/2NP1N1P/PPP1QPP1/R4RK1 b kq - 2 10,White connects his rooks and gets the Queen into play.
+20,O-O,e8g8,r2q1rk1/1p3ppp/p1pbbn2/2p1p1B1/4P3/2NP1N1P/PPP1QPP1/R4RK1 w - - 3 11,"Black gets his king into saftey by castling, or is it really safe?"
+21,Rad1,a1d1,r2q1rk1/1p3ppp/p1pbbn2/2p1p1B1/4P3/2NP1N1P/PPP1QPP1/3R1RK1 b - - 4 11,White gets his Rook from the corner into the centre and into the game.
+22,h6,h7h6,r2q1rk1/1p3pp1/p1pbbn1p/2p1p1B1/4P3/2NP1N1P/PPP1QPP1/3R1RK1 w - - 0 12,"This move is also debatable. This messes up the kingside, but since white has done that too, so what's the problem?
+
+White should now play Bh4!! keeping the pin on the knight. Retreating down the long diagonal is a bad idea since the knight can now move into play without the queen being taken."

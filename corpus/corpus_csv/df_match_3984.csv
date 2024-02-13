@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,standard
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,queens gambit
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,queens gambit
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,now it is the queens gambit decline
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,now it is the queens gambit decline
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,now it is the queens gambit decline
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 4,now it is the queens gambit decline
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 2 5,now it is the queens gambit decline
+9,e3,e2e3,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5,sort of Turing into the Slav?
+10,c6,c7c6,rnbqk2r/pp2bppp/2p1pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 6,sort of Turing into the Slav?
+11,Nf3,g1f3,rnbqk2r/pp2bppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 1 6,sort of Turing into the Slav?
+12,Nbd7,b8d7,r1bqk2r/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 2 7,sort of Turing into the Slav?
+13,Qc2,d1c2,r1bqk2r/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R b KQkq - 3 7,"opposite side castling! i will attack on the queenside Higgie,the kingside!"
+14,h6,h7h6,r1bqk2r/pp1nbpp1/2p1pn1p/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R w KQkq - 0 8,"opposite side castling! i will attack on the queenside Higgie,the kingside!"
+15,Bh4,g5h4,r1bqk2r/pp1nbpp1/2p1pn1p/3p4/2PP3B/2N1PN2/PPQ2PPP/R3KB1R b KQkq - 1 8,"opposite side castling! i will attack on the queenside Higgie,the kingside!"
+16,O-O,e8g8,r1bq1rk1/pp1nbpp1/2p1pn1p/3p4/2PP3B/2N1PN2/PPQ2PPP/R3KB1R w KQ - 2 9,"opposite side castling! i will attack on the queenside Higgie,the kingside!"
+17,O-O-O,e1c1,r1bq1rk1/pp1nbpp1/2p1pn1p/3p4/2PP3B/2N1PN2/PPQ2PPP/2KR1B1R b - - 3 9,"opposite side castling! i will attack on the queenside Higgie,the kingside!"
+18,a6,a7a6,r1bq1rk1/1p1nbpp1/p1p1pn1p/3p4/2PP3B/2N1PN2/PPQ2PPP/2KR1B1R w - - 0 10,planning b5
+19,Kb1,c1b1,r1bq1rk1/1p1nbpp1/p1p1pn1p/3p4/2PP3B/2N1PN2/PPQ2PPP/1K1R1B1R b - - 1 10,closing the advance
+20,b5,b7b5,r1bq1rk1/3nbpp1/p1p1pn1p/1p1p4/2PP3B/2N1PN2/PPQ2PPP/1K1R1B1R w - - 0 11,closing the advance
+21,c5,c4c5,r1bq1rk1/3nbpp1/p1p1pn1p/1pPp4/3P3B/2N1PN2/PPQ2PPP/1K1R1B1R b - - 0 11,closing the advance
+22,Ne8,f6e8,r1bqnrk1/3nbpp1/p1p1p2p/1pPp4/3P3B/2N1PN2/PPQ2PPP/1K1R1B1R w - - 1 12,wanting to trade pieces
+23,Bg3,h4g3,r1bqnrk1/3nbpp1/p1p1p2p/1pPp4/3P4/2N1PNB1/PPQ2PPP/1K1R1B1R b - - 2 12,planning b4 with the idea of trading light colored bishops!
+24,a5,a6a5,r1bqnrk1/3nbpp1/2p1p2p/ppPp4/3P4/2N1PNB1/PPQ2PPP/1K1R1B1R w - - 0 13,planning b4 with the idea of trading light colored bishops!
+25,Bd3,f1d3,r1bqnrk1/3nbpp1/2p1p2p/ppPp4/3P4/2NBPNB1/PPQ2PPP/1K1R3R b - - 1 13,planning b4 with the idea of trading light colored bishops!
+26,Ba6,c8a6,r2qnrk1/3nbpp1/b1p1p2p/ppPp4/3P4/2NBPNB1/PPQ2PPP/1K1R3R w - - 2 14,planning b4 with the idea of trading light colored bishops!
+27,Ne2,c3e2,r2qnrk1/3nbpp1/b1p1p2p/ppPp4/3P4/3BPNB1/PPQ1NPPP/1K1R3R b - - 3 14,rook is in trouble!
+28,b4,b5b4,r2qnrk1/3nbpp1/b1p1p2p/p1Pp4/1p1P4/3BPNB1/PPQ1NPPP/1K1R3R w - - 0 15,rook is in trouble!
+29,Bxa6,d3a6,r2qnrk1/3nbpp1/B1p1p2p/p1Pp4/1p1P4/4PNB1/PPQ1NPPP/1K1R3R b - - 0 15,rook is in trouble!
+30,Rxa6,a8a6,3qnrk1/3nbpp1/r1p1p2p/p1Pp4/1p1P4/4PNB1/PPQ1NPPP/1K1R3R w - - 0 16,rook is in trouble!
+31,Qd3,c2d3,3qnrk1/3nbpp1/r1p1p2p/p1Pp4/1p1P4/3QPNB1/PP2NPPP/1K1R3R b - - 1 16,rook is in trouble!
+32,Ra7,a6a7,3qnrk1/r2nbpp1/2p1p2p/p1Pp4/1p1P4/3QPNB1/PP2NPPP/1K1R3R w - - 2 17,planning qa4! stopping the push
+33,Qb3,d3b3,3qnrk1/r2nbpp1/2p1p2p/p1Pp4/1p1P4/1Q2PNB1/PP2NPPP/1K1R3R b - - 3 17,planning qa4! stopping the push
+34,Nc7,e8c7,3q1rk1/r1nnbpp1/2p1p2p/p1Pp4/1p1P4/1Q2PNB1/PP2NPPP/1K1R3R w - - 4 18,my plan is to get his queen out of the way so i can push!
+35,Qa4,b3a4,3q1rk1/r1nnbpp1/2p1p2p/p1Pp4/Qp1P4/4PNB1/PP2NPPP/1K1R3R b - - 5 18,my plan is to get his queen out of the way so i can push!
+36,Nb5,c7b5,3q1rk1/r2nbpp1/2p1p2p/pnPp4/Qp1P4/4PNB1/PP2NPPP/1K1R3R w - - 6 19,my plan is to get his queen out of the way so i can push!
+37,Ka1,b1a1,3q1rk1/r2nbpp1/2p1p2p/pnPp4/Qp1P4/4PNB1/PP2NPPP/K2R3R b - - 7 19,my plan is to get his queen out of the way so i can push!
+38,Qc8,d8c8,2q2rk1/r2nbpp1/2p1p2p/pnPp4/Qp1P4/4PNB1/PP2NPPP/K2R3R w - - 8 20,my plan is to get his queen out of the way so i can push!
+39,h3,h2h3,2q2rk1/r2nbpp1/2p1p2p/pnPp4/Qp1P4/4PNBP/PP2NPP1/K2R3R b - - 0 20,my plan is to get his queen out of the way so i can push!
+40,Qa6,c8a6,5rk1/r2nbpp1/q1p1p2p/pnPp4/Qp1P4/4PNBP/PP2NPP1/K2R3R w - - 1 21,! planning to hop to e4
+41,Nc1,e2c1,5rk1/r2nbpp1/q1p1p2p/pnPp4/Qp1P4/4PNBP/PP3PP1/K1NR3R b - - 2 21,! planning to hop to e4
+42,Rb7,a7b7,5rk1/1r1nbpp1/q1p1p2p/pnPp4/Qp1P4/4PNBP/PP3PP1/K1NR3R w - - 3 22,! planning to hop to e4
+43,Nb3,c1b3,5rk1/1r1nbpp1/q1p1p2p/pnPp4/Qp1P4/1N2PNBP/PP3PP1/K2R3R b - - 4 22,! planning to hop to e4
+44,Ra8,f8a8,r5k1/1r1nbpp1/q1p1p2p/pnPp4/Qp1P4/1N2PNBP/PP3PP1/K2R3R w - - 5 23,! planning to hop to e4
+45,Bf4,g3f4,r5k1/1r1nbpp1/q1p1p2p/pnPp4/Qp1P1B2/1N2PN1P/PP3PP1/K2R3R b - - 6 23,! planning to hop to e4
+46,Nf6,d7f6,r5k1/1r2bpp1/q1p1pn1p/pnPp4/Qp1P1B2/1N2PN1P/PP3PP1/K2R3R w - - 7 24,! planning to hop to e4
+47,Ne5,f3e5,r5k1/1r2bpp1/q1p1pn1p/pnPpN3/Qp1P1B2/1N2P2P/PP3PP1/K2R3R b - - 8 24,"!!! i got a trap set do you see it? (i will give you a hint, it has something to do with trapping his Queen!)"
+48,Ne4,f6e4,r5k1/1r2bpp1/q1p1p2p/pnPpN3/Qp1PnB2/1N2P2P/PP3PP1/K2R3R w - - 9 25,"!!! i got a trap set do you see it? (i will give you a hint, it has something to do with trapping his Queen!)"
+49,Rhf1,h1f1,r5k1/1r2bpp1/q1p1p2p/pnPpN3/Qp1PnB2/1N2P2P/PP3PP1/K2R1R2 b - - 10 25,"!!! i got a trap set do you see it? (i will give you a hint, it has something to do with trapping his Queen!)"
+50,f6,f7f6,r5k1/1r2b1p1/q1p1pp1p/pnPpN3/Qp1PnB2/1N2P2P/PP3PP1/K2R1R2 w - - 0 26,"!!! i got a trap set do you see it? (i will give you a hint, it has something to do with trapping his Queen!)"
+51,Ng6,e5g6,r5k1/1r2b1p1/q1p1ppNp/pnPp4/Qp1PnB2/1N2P2P/PP3PP1/K2R1R2 b - - 1 26,!! winning the exchange in the long run!
+52,Nec3,e4c3,r5k1/1r2b1p1/q1p1ppNp/pnPp4/Qp1P1B2/1Nn1P2P/PP3PP1/K2R1R2 w - - 2 27,!! winning the exchange in the long run!
+53,bxc3,b2c3,r5k1/1r2b1p1/q1p1ppNp/pnPp4/Qp1P1B2/1NP1P2P/P4PP1/K2R1R2 b - - 0 27,now if the white knight was on e5 (like at move 24) he could take on c6 with the queen
+54,Nxc3,b5c3,r5k1/1r2b1p1/q1p1ppNp/p1Pp4/Qp1P1B2/1Nn1P2P/P4PP1/K2R1R2 w - - 0 28,now if the white knight was on e5 (like at move 24) he could take on c6 with the queen
+55,Qxa5,a4a5,r5k1/1r2b1p1/q1p1ppNp/Q1Pp4/1p1P1B2/1Nn1P2P/P4PP1/K2R1R2 b - - 0 28,mate is threatening
+56,Qxa5,a6a5,r5k1/1r2b1p1/2p1ppNp/q1Pp4/1p1P1B2/1Nn1P2P/P4PP1/K2R1R2 w - - 0 29,mate is threatening
+57,Nxa5,b3a5,r5k1/1r2b1p1/2p1ppNp/N1Pp4/1p1P1B2/2n1P2P/P4PP1/K2R1R2 b - - 0 29,mate is threatening
+58,Rxa5,a8a5,6k1/1r2b1p1/2p1ppNp/r1Pp4/1p1P1B2/2n1P2P/P4PP1/K2R1R2 w - - 0 30,mate is threatening
+59,Rd2,d1d2,6k1/1r2b1p1/2p1ppNp/r1Pp4/1p1P1B2/2n1P2P/P2R1PP1/K4R2 b - - 1 30,still threatening mate
+60,Rba7,b7a7,6k1/r3b1p1/2p1ppNp/r1Pp4/1p1P1B2/2n1P2P/P2R1PP1/K4R2 w - - 2 31,still threatening mate
+61,Nxe7+,g6e7,6k1/r3N1p1/2p1pp1p/r1Pp4/1p1P1B2/2n1P2P/P2R1PP1/K4R2 b - - 0 31,!! i cant take why: if rxn then rc1 then rea7 rcc2 holding
+62,Kf7,g8f7,8/r3Nkp1/2p1pp1p/r1Pp4/1p1P1B2/2n1P2P/P2R1PP1/K4R2 w - - 1 32,!! i cant take why: if rxn then rc1 then rea7 rcc2 holding
+63,Kb2,a1b2,8/r3Nkp1/2p1pp1p/r1Pp4/1p1P1B2/2n1P2P/PK1R1PP1/5R2 b - - 2 32,if king x b4????????? then r7a4 mate
+64,Ra5xa2+,a5a2,8/r3Nkp1/2p1pp1p/2Pp4/1p1P1B2/2n1P2P/rK1R1PP1/5R2 w - - 0 33,if king x b4????????? then r7a4 mate
+65,Kb3,b2b3,8/r3Nkp1/2p1pp1p/2Pp4/1p1P1B2/1Kn1P2P/r2R1PP1/5R2 b - - 1 33,if king x b4????????? then r7a4 mate
+66,Ra2a3+,a2a3,8/r3Nkp1/2p1pp1p/2Pp4/1p1P1B2/rKn1P2P/3R1PP1/5R2 w - - 2 34,if king x b4????????? then r7a4 mate

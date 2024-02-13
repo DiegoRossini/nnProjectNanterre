@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,So far a very standard opening - the Open Sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,So far a very standard opening - the Open Sicilian
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,So far a very standard opening - the Open Sicilian
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,So far a very standard opening - the Open Sicilian
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,So far a very standard opening - the Open Sicilian
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,So far a very standard opening - the Open Sicilian
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,So far a very standard opening - the Open Sicilian
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,So far a very standard opening - the Open Sicilian
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,So far a very standard opening - the Open Sicilian
+10,d6,d7d6,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,So far a very standard opening - the Open Sicilian
+11,h3,h2h3,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R b KQkq - 0 6,"But this move is very unusual, and for good reason. In an open position like this, white can't afford to waste moves like this."
+12,e5,e7e5,r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N4P/PPP2PP1/R1BQKB1R w KQkq - 0 7,"So I strike out in the centre. My d pawn is backward on a semi-open file, and can potentially be attacked by his rooks and queen along the d semi-open d file. But in return black gains a measure of central control."
+13,Nde2,d4e2,r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/2N4P/PPP1NPP1/R1BQKB1R b KQkq - 1 7,I don't think this is the best square to put the knight.
+14,Be7,f8e7,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/2N4P/PPP1NPP1/R1BQKB1R w KQkq - 2 8,So I carry on with my development
+15,Ng3,e2g3,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/2N3NP/PPP2PP1/R1BQKB1R b KQkq - 3 8,So this is his plan. The e pawn is protected by his Ng3 so he can play Nc3-d5 and he can also play Bc1-e3 without fear of me playing Nf6-g4 in reply. The downside is that he has wasted so many moves with his knight now at g3. Black is ahead in development.
+16,O-O,e8g8,r1bq1rk1/pp2bppp/2np1n2/4p3/4P3/2N3NP/PPP2PP1/R1BQKB1R w KQ - 4 9,So I continue to develop
+17,Bc4,f1c4,r1bq1rk1/pp2bppp/2np1n2/4p3/2B1P3/2N3NP/PPP2PP1/R1BQK2R b KQ - 5 9,He takes control of the d5 square.
+18,a6,a7a6,r1bq1rk1/1p2bppp/p1np1n2/4p3/2B1P3/2N3NP/PPP2PP1/R1BQK2R w KQ - 0 10,So I prepare to hit his bishop
+19,a3,a2a3,r1bq1rk1/1p2bppp/p1np1n2/4p3/2B1P3/P1N3NP/1PP2PP1/R1BQK2R b KQ - 0 10,He prepares a retreat square
+20,b5,b7b5,r1bq1rk1/4bppp/p1np1n2/1p2p3/2B1P3/P1N3NP/1PP2PP1/R1BQK2R w KQ - 0 11,I ht the bishop
+21,Ba2,c4a2,r1bq1rk1/4bppp/p1np1n2/1p2p3/4P3/P1N3NP/BPP2PP1/R1BQK2R b KQ - 1 11,He retreats
+22,Be6,c8e6,r2q1rk1/4bppp/p1npbn2/1p2p3/4P3/P1N3NP/BPP2PP1/R1BQK2R w KQ - 2 12,I contest the a2-g8 diagonal
+23,Nd5,c3d5,r2q1rk1/4bppp/p1npbn2/1p1Np3/4P3/P5NP/BPP2PP1/R1BQK2R b KQ - 3 12,"He throws the knight in. Now I have to be careful. I want to play Nc6-a5-c4, but Na5 immediately loses to Be6-b6, which is one reason for my next move, to cover the b6 square again"
+24,Rc8,a8c8,2rq1rk1/4bppp/p1npbn2/1p1Np3/4P3/P5NP/BPP2PP1/R1BQK2R w KQ - 4 13,"Now I have to be careful. I want to play Nc6-a5-c4, but Na5 immediately loses to Be6-b6, which is one reason for my next move, to cover the b6 square again"
+25,Be3,c1e3,2rq1rk1/4bppp/p1npbn2/1p1Np3/4P3/P3B1NP/BPP2PP1/R2QK2R b KQ - 5 13,"Now I have to be careful. I want to play Nc6-a5-c4, but Na5 immediately loses to Be6-b6, which is one reason for my next move, to cover the b6 square again"
+26,Nd7,f6d7,2rq1rk1/3nbppp/p1npb3/1p1Np3/4P3/P3B1NP/BPP2PP1/R2QK2R w KQ - 6 14,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+27,c3,c2c3,2rq1rk1/3nbppp/p1npb3/1p1Np3/4P3/P1P1B1NP/BP3PP1/R2QK2R b KQ - 0 14,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+28,Na5,c6a5,2rq1rk1/3nbppp/p2pb3/np1Np3/4P3/P1P1B1NP/BP3PP1/R2QK2R w KQ - 1 15,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+29,O-O,e1g1,2rq1rk1/3nbppp/p2pb3/np1Np3/4P3/P1P1B1NP/BP3PP1/R2Q1RK1 b - - 2 15,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+30,Nc4,a5c4,2rq1rk1/3nbppp/p2pb3/1p1Np3/2n1P3/P1P1B1NP/BP3PP1/R2Q1RK1 w - - 3 16,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+31,Qe2,d1e2,2rq1rk1/3nbppp/p2pb3/1p1Np3/2n1P3/P1P1B1NP/BP2QPP1/R4RK1 b - - 4 16,"Now he can't recapture on d5 with a piece, so I can exchange on d5 and my weakness on d6 is shielded by a pawn on d5."
+32,Bxd5,e6d5,2rq1rk1/3nbppp/p2p4/1p1bp3/2n1P3/P1P1B1NP/BP2QPP1/R4RK1 w - - 0 17,So I take
+33,exd5,e4d5,2rq1rk1/3nbppp/p2p4/1p1Pp3/2n5/P1P1B1NP/BP2QPP1/R4RK1 b - - 0 17,He takes back
+34,f5,f7f5,2rq1rk1/3nb1pp/p2p4/1p1Ppp2/2n5/P1P1B1NP/BP2QPP1/R4RK1 w - - 0 18,"And this is another benefit of exchanging on d5, my f5 pawn is free to advance, and I am threatening f5-f4"
+35,f4,f2f4,2rq1rk1/3nb1pp/p2p4/1p1Ppp2/2n2P2/P1P1B1NP/BP2Q1P1/R4RK1 b - - 0 18,He blocks that move. Now after the game I was thinking I should play 18....g7-g5 immediately. What do you think dear reader?

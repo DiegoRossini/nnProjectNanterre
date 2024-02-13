@@ -1,0 +1,161 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Good ol' e4.
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A somewhat unusual response.  The database calls this ""B06: Robatsch (modern) defence."""
+3,Nf3,g1f3,rnbqkbnr/pppppp1p/6p1/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Upon review, the GK database says d4 would have been stronger.  I stay closed and move d3.  Looking back, I wonder why I didn't go ahead with the more aggressive move of Bb5."
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Upon review, the GK database says d4 would have been stronger.  I stay closed and move d3.  Looking back, I wonder why I didn't go ahead with the more aggressive move of Bb5."
+5,d3,d2d3,rnbqk1nr/ppppppbp/6p1/8/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Upon review, the GK database says d4 would have been stronger.  I stay closed and move d3.  Looking back, I wonder why I didn't go ahead with the more aggressive move of Bb5."
+6,c5,c7c5,rnbqk1nr/pp1pppbp/6p1/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,A strong response.
+7,Nbd2,b1d2,rnbqk1nr/pp1pppbp/6p1/2p5/4P3/3P1N2/PPPN1PPP/R1BQKB1R b KQkq - 1 4,I decide to go for a queenside attack.  It ultimately works.
+8,d6,d7d6,rnbqk1nr/pp2ppbp/3p2p1/2p5/4P3/3P1N2/PPPN1PPP/R1BQKB1R w KQkq - 0 5,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+9,Rb1,a1b1,rnbqk1nr/pp2ppbp/3p2p1/2p5/4P3/3P1N2/PPPN1PPP/1RBQKB1R b Kkq - 1 5,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+10,Bg4,c8g4,rn1qk1nr/pp2ppbp/3p2p1/2p5/4P1b1/3P1N2/PPPN1PPP/1RBQKB1R w Kkq - 2 6,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+11,Be2,f1e2,rn1qk1nr/pp2ppbp/3p2p1/2p5/4P1b1/3P1N2/PPPNBPPP/1RBQK2R b Kkq - 3 6,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+12,Bxf3,g4f3,rn1qk1nr/pp2ppbp/3p2p1/2p5/4P3/3P1b2/PPPNBPPP/1RBQK2R w Kkq - 0 7,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+13,Nxf3,d2f3,rn1qk1nr/pp2ppbp/3p2p1/2p5/4P3/3P1N2/PPP1BPPP/1RBQK2R b Kkq - 0 7,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+14,a6,a7a6,rn1qk1nr/1p2ppbp/p2p2p1/2p5/4P3/3P1N2/PPP1BPPP/1RBQK2R w Kkq - 0 8,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+15,c4,c2c4,rn1qk1nr/1p2ppbp/p2p2p1/2p5/2P1P3/3P1N2/PP2BPPP/1RBQK2R b Kkq - 0 8,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+16,e6,e7e6,rn1qk1nr/1p3pbp/p2pp1p1/2p5/2P1P3/3P1N2/PP2BPPP/1RBQK2R w Kkq - 0 9,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+17,b4,b2b4,rn1qk1nr/1p3pbp/p2pp1p1/2p5/1PP1P3/3P1N2/P3BPPP/1RBQK2R b Kkq - 0 9,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+18,b6,b7b6,rn1qk1nr/5pbp/pp1pp1p1/2p5/1PP1P3/3P1N2/P3BPPP/1RBQK2R w Kkq - 0 10,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+19,bxc5,b4c5,rn1qk1nr/5pbp/pp1pp1p1/2P5/2P1P3/3P1N2/P3BPPP/1RBQK2R b Kkq - 0 10,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+20,bxc5,b6c5,rn1qk1nr/5pbp/p2pp1p1/2p5/2P1P3/3P1N2/P3BPPP/1RBQK2R w Kkq - 0 11,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+21,Qa4+,d1a4,rn1qk1nr/5pbp/p2pp1p1/2p5/Q1P1P3/3P1N2/P3BPPP/1RB1K2R b Kkq - 1 11,"Here's what I expected at this point ...
+11. ... Qd7
+12. Bd1 Qxa4
+13. Bxa4  Nd7
+14. Bxd7  Kxd7
+15. Rb7  Ke8
+16. Ng5"
+22,Nd7,b8d7,r2qk1nr/3n1pbp/p2pp1p1/2p5/Q1P1P3/3P1N2/P3BPPP/1RB1K2R w Kkq - 2 12,"Since he didn't respond with a Queen block, it allows me to pressure the d6 pawn."
+23,Qc6,a4c6,r2qk1nr/3n1pbp/p1Qpp1p1/2p5/2P1P3/3P1N2/P3BPPP/1RB1K2R b Kkq - 3 12,"Since he didn't respond with a Queen block, it allows me to pressure the d6 pawn."
+24,Ne7,g8e7,r2qk2r/3nnpbp/p1Qpp1p1/2p5/2P1P3/3P1N2/P3BPPP/1RB1K2R w Kkq - 4 13,Black misses the attack.
+25,Qxd6,c6d6,r2qk2r/3nnpbp/p2Qp1p1/2p5/2P1P3/3P1N2/P3BPPP/1RB1K2R b Kkq - 0 13,"Now that I look back at this fresh, I see that a one-piece counter-attack is rarely effective.  In this case, it wasn't.  He's a move behind and can't gain quite regain the tempo."
+26,O-O,e8g8,r2q1rk1/3nnpbp/p2Qp1p1/2p5/2P1P3/3P1N2/P3BPPP/1RB1K2R w K - 1 14,"Now that I look back at this fresh, I see that a one-piece counter-attack is rarely effective.  In this case, it wasn't.  He's a move behind and can't gain quite regain the tempo."
+27,Rb7,b1b7,r2q1rk1/1R1nnpbp/p2Qp1p1/2p5/2P1P3/3P1N2/P3BPPP/2B1K2R b K - 2 14,"Now that I look back at this fresh, I see that a one-piece counter-attack is rarely effective.  In this case, it wasn't.  He's a move behind and can't gain quite regain the tempo."
+28,Qa5+,d8a5,r4rk1/1R1nnpbp/p2Qp1p1/q1p5/2P1P3/3P1N2/P3BPPP/2B1K2R w K - 3 15,"Now that I look back at this fresh, I see that a one-piece counter-attack is rarely effective.  In this case, it wasn't.  He's a move behind and can't gain quite regain the tempo."
+29,Bd2,c1d2,r4rk1/1R1nnpbp/p2Qp1p1/q1p5/2P1P3/3P1N2/P2BBPPP/4K2R b K - 4 15,"Instead of protecting the knights, black adds a bishop into the mix."
+30,Bc3,g7c3,r4rk1/1R1nnp1p/p2Qp1p1/q1p5/2P1P3/2bP1N2/P2BBPPP/4K2R w K - 5 16,"Instead of protecting the knights, black adds a bishop into the mix."
+31,Rxd7,b7d7,r4rk1/3Rnp1p/p2Qp1p1/q1p5/2P1P3/2bP1N2/P2BBPPP/4K2R b K - 0 16,"I capitalize, gain 3, and I expect the following ...
+16. ... Nc8
+17. Qc6 Rb8
+18. Rb7"
+32,Bxd2+,c3d2,r4rk1/3Rnp1p/p2Qp1p1/q1p5/2P1P3/3P1N2/P2bBPPP/4K2R w K - 0 17,"Once again, he surprises me and continues to attack, but from a weaker position."
+33,Nxd2,f3d2,r4rk1/3Rnp1p/p2Qp1p1/q1p5/2P1P3/3P4/P2NBPPP/4K2R b K - 0 17,"My expectation again is that he'll preserve his knight...
+17. ... Nc8
+18. Qc6 Na7
+19. Qc7 Qxa2
+20. Qxc5 Nc8
+21. Qc6 Na7
+22. Qb7 Qa1 
+23. Bd1"
+34,Qxa2,a5a2,r4rk1/3Rnp1p/p2Qp1p1/2p5/2P1P3/3P4/q2NBPPP/4K2R w K - 0 18,He takes the pawn instead.
+35,Qxe7,d6e7,r4rk1/3RQp1p/p3p1p1/2p5/2P1P3/3P4/q2NBPPP/4K2R b K - 0 18,... and loses the second knight.
+36,a5,a6a5,r4rk1/3RQp1p/4p1p1/p1p5/2P1P3/3P4/q2NBPPP/4K2R w K - 0 19,... and a pawn.
+37,Qxc5,e7c5,r4rk1/3R1p1p/4p1p1/p1Q5/2P1P3/3P4/q2NBPPP/4K2R b K - 0 19,... and a pawn.
+38,a4,a5a4,r4rk1/3R1p1p/4p1p1/2Q5/p1P1P3/3P4/q2NBPPP/4K2R w K - 0 20,Some defense is in order.
+39,Qb4,c5b4,r4rk1/3R1p1p/4p1p1/8/pQP1P3/3P4/q2NBPPP/4K2R b K - 1 20,Some defense is in order.
+40,a3,a4a3,r4rk1/3R1p1p/4p1p1/8/1QP1P3/p2P4/q2NBPPP/4K2R w K - 0 21,Some defense is in order.
+41,O-O,e1g1,r4rk1/3R1p1p/4p1p1/8/1QP1P3/p2P4/q2NBPPP/5RK1 b - - 1 21,Some defense is in order.
+42,Rab8,a8b8,1r3rk1/3R1p1p/4p1p1/8/1QP1P3/p2P4/q2NBPPP/5RK1 w - - 2 22,"Never trade when you're behind, unless you have a plan.  Black makes a nice series of moves and makes the game competitive again.  I probably should have just moved my queen out of the way while protecting the knight, i.e. Qc3."
+43,Rb7,d7b7,1r3rk1/1R3p1p/4p1p1/8/1QP1P3/p2P4/q2NBPPP/5RK1 b - - 3 22,"Never trade when you're behind, unless you have a plan.  Black makes a nice series of moves and makes the game competitive again.  I probably should have just moved my queen out of the way while protecting the knight, i.e. Qc3."
+44,Rxb7,b8b7,5rk1/1r3p1p/4p1p1/8/1QP1P3/p2P4/q2NBPPP/5RK1 w - - 0 23,"24. ... Qxd3
+25. Ra1 Qc3
+26. Qb1"
+45,Qxb7,b4b7,5rk1/1Q3p1p/4p1p1/8/2P1P3/p2P4/q2NBPPP/5RK1 b - - 0 23,"24. ... Qxd3
+25. Ra1 Qc3
+26. Qb1"
+46,Qxd2,a2d2,5rk1/1Q3p1p/4p1p1/8/2P1P3/p2P4/3qBPPP/5RK1 w - - 0 24,"24. ... Qxd3
+25. Ra1 Qc3
+26. Qb1"
+47,Bf3,e2f3,5rk1/1Q3p1p/4p1p1/8/2P1P3/p2P1B2/3q1PPP/5RK1 b - - 1 24,"24. ... Qxd3
+25. Ra1 Qc3
+26. Qb1"
+48,Qxd3,d2d3,5rk1/1Q3p1p/4p1p1/8/2P1P3/p2q1B2/5PPP/5RK1 w - - 0 25,"So I wind up up three, in spite of a mistake."
+49,Ra1,f1a1,5rk1/1Q3p1p/4p1p1/8/2P1P3/p2q1B2/5PPP/R5K1 b - - 1 25,"So I wind up up three, in spite of a mistake."
+50,Qxc4,d3c4,5rk1/1Q3p1p/4p1p1/8/2q1P3/p4B2/5PPP/R5K1 w - - 0 26,"So I wind up up three, in spite of a mistake."
+51,Qa7,b7a7,5rk1/Q4p1p/4p1p1/8/2q1P3/p4B2/5PPP/R5K1 b - - 1 26,"So I wind up up three, in spite of a mistake."
+52,Qc3,c4c3,5rk1/Q4p1p/4p1p1/8/4P3/p1q2B2/5PPP/R5K1 w - - 2 27,"So I wind up up three, in spite of a mistake."
+53,Qxa3,a7a3,5rk1/5p1p/4p1p1/8/4P3/Q1q2B2/5PPP/R5K1 b - - 0 27,"So I wind up up three, in spite of a mistake."
+54,Rc8,f8c8,2r3k1/5p1p/4p1p1/8/4P3/Q1q2B2/5PPP/R5K1 w - - 1 28,"So I wind up up three, in spite of a mistake."
+55,Qxc3,a3c3,2r3k1/5p1p/4p1p1/8/4P3/2Q2B2/5PPP/R5K1 b - - 0 28,"So I wind up up three, in spite of a mistake."
+56,Rxc3,c8c3,6k1/5p1p/4p1p1/8/4P3/2r2B2/5PPP/R5K1 w - - 0 29,"So I wind up up three, in spite of a mistake."
+57,Rd1,a1d1,6k1/5p1p/4p1p1/8/4P3/2r2B2/5PPP/3R2K1 b - - 1 29,"So I wind up up three, in spite of a mistake."
+58,Kg7,g8g7,8/5pkp/4p1p1/8/4P3/2r2B2/5PPP/3R2K1 w - - 2 30,"So I wind up up three, in spite of a mistake."

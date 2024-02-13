@@ -1,0 +1,20 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Best by test.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,An asymmetrical defense. Sapira elects not to fight on Classical lines with 1... P-K4.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The fight for White's Q4 begins at once.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Challenging the KP...
+5,Nc3,b1c3,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,...and defending it.
+6,d5,d7d5,rnbqkb1r/pp2pppp/5n2/2pp4/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,"Practically forcing the exchange, as 4 P-K5 overextends White."
+7,exd5,e4d5,rnbqkb1r/pp2pppp/5n2/2pP4/8/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 0 4,"White chooses to be the exchanger. With 4 P-Q3 he could have made Black initiate the exchange, but it would have shut in his KB."
+8,Nxd5,f6d5,rnbqkb1r/pp2pppp/8/2pn4/8/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 5,The logical follow-up.
+9,Bb5+,f1b5,rnbqkb1r/pp2pppp/8/1Bpn4/8/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 5,Developing with tempo.
+10,Bd7,c8d7,rn1qkb1r/pp1bpppp/8/1Bpn4/8/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 6,"5... N-Q2 was the alternative, but this way Black doesn't block in his QB and can unpin with ...N-QB3."
+11,Ne5,f3e5,rn1qkb1r/pp1bpppp/8/1BpnN3/8/2N5/PPPP1PPP/R1BQK2R b KQkq - 3 6,Pressuring the pinned Bishop.
+12,Nxc3,d5c3,rn1qkb1r/pp1bpppp/8/1Bp1N3/8/2n5/PPPP1PPP/R1BQK2R w KQkq - 0 7,Sapira's one mistake. The correct move was 6... N-KB3!
+13,Qf3,d1f3,rn1qkb1r/pp1bpppp/8/1Bp1N3/8/2n2Q2/PPPP1PPP/R1B1K2R b KQkq - 1 7,Thomas pounces at once. The threat is 8 QxP mate!
+14,f6,f7f6,rn1qkb1r/pp1bp1pp/5p2/1Bp1N3/8/2n2Q2/PPPP1PPP/R1B1K2R w KQkq - 0 8,7... Q-B2 is equally bad [8 BxB ch NxB 9 QxP ch K-Q1 10 NxN and Black can resign.]
+15,Qh5+,f3h5,rn1qkb1r/pp1bp1pp/5p2/1Bp1N2Q/8/2n5/PPPP1PPP/R1B1K2R b KQkq - 1 8,Closing in for the kill.
+16,g6,g7g6,rn1qkb1r/pp1bp2p/5pp1/1Bp1N2Q/8/2n5/PPPP1PPP/R1B1K2R w KQkq - 0 9,Forced.
+17,Nxg6,e5g6,rn1qkb1r/pp1bp2p/5pN1/1Bp4Q/8/2n5/PPPP1PPP/R1B1K2R b KQkq - 0 9,If 9... PxN?? 10 QxP mate. So Black instead plays...
+18,Kf7,e8f7,rn1q1b1r/pp1bpk1p/5pN1/1Bp4Q/8/2n5/PPPP1PPP/R1B1K2R w KQ - 1 10,"...this move, his only other choice."
+19,Ne5+,g6e5,rn1q1b1r/pp1bpk1p/5p2/1Bp1N2Q/8/2n5/PPPP1PPP/R1B1K2R b KQ - 2 10,"This deadly double check forces Black's hand. Sapira resigns at once. His two alternatives are 10... K-N2 11 Q-B7 ch K-R3 12 QPxN mate, or 10... K-K3 11 B-B4 ch with the choice of 11... K-Q3 12 N-B7 ch winning Black's Queen or 11... N-Q4 12 BxN ch KxB 13 N-B7 ch winning Black's Queen."

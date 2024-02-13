@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game is a trial by fire of the alternative move (5...f6). I had to find out if this move can refute the gambit. I present the following game with my strategic ideas for your enjoyment.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This completes the moves needed to produce the BKG.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,This completes the moves needed to produce the BKG.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,This completes the moves needed to produce the BKG.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,This completes the moves needed to produce the BKG.
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4p3/2B1n3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,This completes the moves needed to produce the BKG.
+7,Nc3,b1c3,rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,This completes the moves needed to produce the BKG.
+8,Nxc3,e4c3,rnbqkb1r/pppp1ppp/8/4p3/2B5/2n2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,This completes the moves needed to produce the BKG.
+9,dxc3,d2c3,rnbqkb1r/pppp1ppp/8/4p3/2B5/2P2N2/PPP2PPP/R1BQK2R b KQkq - 0 5,This completes the moves needed to produce the BKG.
+10,f6,f7f6,rnbqkb1r/pppp2pp/5p2/4p3/2B5/2P2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,"Here is seen the (5...f6) alternative move. The computer typically likes to play ...Nc6, but I make it play the text move so I can have some fun with this variation of the Boden-Kierseritsky Gambit."
+11,O-O,e1g1,rnbqkb1r/pppp2pp/5p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 b kq - 1 6,Activates the rook. White has 5 active pieces vs black who has almost 2 active pieces.
+12,c6,c7c6,rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w kq - 0 7,"!? An interesting move with the idea of ...d5 to follow. This creates a strong center, or is it? Pawns chains are only as strong as their weakest link. Note the expansive pawn structure that follows."
+13,b4,b2b4,rnbqkb1r/pp1p2pp/2p2p2/4p3/1PB5/2P2N2/P1P2PPP/R1BQ1RK1 b kq - 0 7,"!? Sure, you are thinking what kind of a dumb move is that? It does nothing to challenge ...d5? I made this move based on intuition and because it can be used to break the pawn chain later by b4-b5, and it prevents ...Bc5, denying the bishop a centralized position."
+14,d5,d7d5,rnbqkb1r/pp4pp/2p2p2/3pp3/1PB5/2P2N2/P1P2PPP/R1BQ1RK1 w kq - 0 8,Expected.
+15,Bb3,c4b3,rnbqkb1r/pp4pp/2p2p2/3pp3/1P6/1BP2N2/P1P2PPP/R1BQ1RK1 b kq - 1 8,"The text move maintains the bishop on its best attacking line and allows for a later c4, which if follows ...0-0, becomes a very useful move."
+16,Be7,f8e7,rnbqk2r/pp2b1pp/2p2p2/3pp3/1P6/1BP2N2/P1P2PPP/R1BQ1RK1 w kq - 2 9,...0-0 is expected.
+17,Nh4,f3h4,rnbqk2r/pp2b1pp/2p2p2/3pp3/1P5N/1BP5/P1P2PPP/R1BQ1RK1 b kq - 3 9,"!? Opens a queen line, pushes the knight towards an expected castle, and can possibly entice a bad move like ...g5 creating an ever increasing amount of luft around the king. Threatens Qh5+ where if ...g6 then Nxg6 wins a pawn."
+18,O-O,e8g8,rnbq1rk1/pp2b1pp/2p2p2/3pp3/1P5N/1BP5/P1P2PPP/R1BQ1RK1 w - - 4 10,Blissfully unaware.
+19,f4,f2f4,rnbq1rk1/pp2b1pp/2p2p2/3pp3/1P3P1N/1BP5/P1P3PP/R1BQ1RK1 b - - 0 10,! Breaking the chain. Its not obvious how good this move really is until it is taken in context of the following moves.
+20,exf4,e5f4,rnbq1rk1/pp2b1pp/2p2p2/3p4/1P3p1N/1BP5/P1P3PP/R1BQ1RK1 w - - 0 11,"?! Not forced, seems better to leave the tension."
+21,c4,c3c4,rnbq1rk1/pp2b1pp/2p2p2/3p4/1PP2p1N/1B6/P1P3PP/R1BQ1RK1 b - - 0 11,"! Breaking the chain on the other flank, the central pawns are demolished. The threat of check is hanging."
+22,Bxb4,e7b4,rnbq1rk1/pp4pp/2p2p2/3p4/1bP2p1N/1B6/P1P3PP/R1BQ1RK1 w - - 0 12,Gains material but misses the threat.
+23,cxd5,c4d5,rnbq1rk1/pp4pp/2p2p2/3P4/1b3p1N/1B6/P1P3PP/R1BQ1RK1 b - - 0 12,A simpleton check.
+24,Bc5+,b4c5,rnbq1rk1/pp4pp/2p2p2/2bP4/5p1N/1B6/P1P3PP/R1BQ1RK1 w - - 1 13,A simpleton check.
+25,Kh1,g1h1,rnbq1rk1/pp4pp/2p2p2/2bP4/5p1N/1B6/P1P3PP/R1BQ1R1K b - - 2 13,"?! Trying to avoid the bishop check, but stepping into tactics."
+26,Kh8,g8h8,rnbq1r1k/pp4pp/2p2p2/2bP4/5p1N/1B6/P1P3PP/R1BQ1R1K w - - 3 14,"?! Trying to avoid the bishop check, but stepping into tactics."
+27,Ng6+,h4g6,rnbq1r1k/pp4pp/2p2pN1/2bP4/5p2/1B6/P1P3PP/R1BQ1R1K b - - 4 14,! A kicker of a move breaks down the castle walls.
+28,hxg6,h7g6,rnbq1r1k/pp4p1/2p2pp1/2bP4/5p2/1B6/P1P3PP/R1BQ1R1K w - - 0 15,Losing the rook may have been preferable.
+29,Rxf4,f1f4,rnbq1r1k/pp4p1/2p2pp1/2bP4/5R2/1B6/P1P3PP/R1BQ3K b - - 0 15,"Not just gain material, but threatening Rh4+"

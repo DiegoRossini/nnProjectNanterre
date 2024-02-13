@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"1. ............ d6 - the Pirc Defence.  May lead to the Philidor Defence by transposition, which it does and leads to an early queen exchange."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"1. ............ d6 - the Pirc Defence.  May lead to the Philidor Defence by transposition, which it does and leads to an early queen exchange."
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/3p4/4P3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+6,dxe5,d6e5,rnbqkbnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+7,Qxd8+,d1d8,rnbQkbnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 0 4,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+8,Kxd8,e8d8,rnbk1bnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNB1KBNR w KQ - 0 5,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+9,Nf3,g1f3,rnbk1bnr/ppp2ppp/8/4p3/4P3/5N2/PPP2PPP/RNB1KB1R b KQ - 1 5,5. Nf3 - after the early queen exchange I now develop my king knight attacking the black e pawn.
+10,f6,f7f6,rnbk1bnr/ppp3pp/5p2/4p3/4P3/5N2/PPP2PPP/RNB1KB1R w KQ - 0 6,"5. ............ f6?! - I think Nc6 defending the pawn by developing a piece was better, although queens are off the board it is still advisable to develop asap as there can be some nasty rook checks from queenside castling as you will see here."
+11,Nc3,b1c3,rnbk1bnr/ppp3pp/5p2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R b KQ - 1 6,"7. Bd2 - blocking the pin, developing a piece and preparing for queenside castling."
+12,Bb4,f8b4,rnbk2nr/ppp3pp/5p2/4p3/1b2P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 2 7,"7. Bd2 - blocking the pin, developing a piece and preparing for queenside castling."
+13,Bd2,c1d2,rnbk2nr/ppp3pp/5p2/4p3/1b2P3/2N2N2/PPPB1PPP/R3KB1R b KQ - 3 7,"7. Bd2 - blocking the pin, developing a piece and preparing for queenside castling."
+14,Be6,c8e6,rn1k2nr/ppp3pp/4bp2/4p3/1b2P3/2N2N2/PPPB1PPP/R3KB1R w KQ - 4 8,8. 0-0-0 - Voila!
+15,O-O-O,e1c1,rn1k2nr/ppp3pp/4bp2/4p3/1b2P3/2N2N2/PPPB1PPP/2KR1B1R b - - 5 8,8. 0-0-0 - Voila!
+16,Nc6,b8c6,r2k2nr/ppp3pp/2n1bp2/4p3/1b2P3/2N2N2/PPPB1PPP/2KR1B1R w - - 6 9,"8. ........... Nc6?? - development at last, but it is at the wrong time, Ne7 was called for here to prevent the resulting combo."
+17,Bh6+,d2h6,r2k2nr/ppp3pp/2n1bp1B/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R b - - 7 9,"9. Bh6 !! - this is a stunning discovered check, it does not appear to net any material at the moment but black will not have time to develop his king knight to free the trapped rook on h8.  I will now win at least the exchange."
+18,Ke7,d8e7,r5nr/ppp1k1pp/2n1bp1B/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R w - - 8 10,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+19,Bxg7,h6g7,r5nr/ppp1k1Bp/2n1bp2/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R b - - 0 10,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+20,Kf7,e7f7,r5nr/ppp2kBp/2n1bp2/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R w - - 1 11,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+21,Bxh8,g7h8,r5nB/ppp2k1p/2n1bp2/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R b - - 0 11,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+22,Nh6,g8h6,r6B/ppp2k1p/2n1bp1n/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R w - - 1 12,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+23,Bxf6,h8f6,r7/ppp2k1p/2n1bB1n/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R b - - 0 12,12. Bxf6 - Frere Lenoir does as much damage as he can before he perishes.
+24,Kxf6,f7f6,r7/ppp4p/2n1bk1n/4p3/1b2P3/2N2N2/PPP2PPP/2KR1B1R w - - 0 13,13. h3 - to prevent Ng4 threatening f2.
+25,h3,h2h3,r7/ppp4p/2n1bk1n/4p3/1b2P3/2N2N1P/PPP2PP1/2KR1B1R b - - 0 13,13. h3 - to prevent Ng4 threatening f2.
+26,Bxc3,b4c3,r7/ppp4p/2n1bk1n/4p3/4P3/2b2N1P/PPP2PP1/2KR1B1R w - - 0 14,"15. Nd2 - over the last few moves, two minor pieces have been exchanged and my queenside pawn structure is busted.  I try and consolidate.  Note that the a pawn is baited.  If black takes it with his bishop it will become trapped with c4 and rounded up by Henry a few moves later."
+27,bxc3,b2c3,r7/ppp4p/2n1bk1n/4p3/4P3/2P2N1P/P1P2PP1/2KR1B1R b - - 0 14,"15. Nd2 - over the last few moves, two minor pieces have been exchanged and my queenside pawn structure is busted.  I try and consolidate.  Note that the a pawn is baited.  If black takes it with his bishop it will become trapped with c4 and rounded up by Henry a few moves later."
+28,Nf7,h6f7,r7/ppp2n1p/2n1bk2/4p3/4P3/2P2N1P/P1P2PP1/2KR1B1R w - - 1 15,"15. Nd2 - over the last few moves, two minor pieces have been exchanged and my queenside pawn structure is busted.  I try and consolidate.  Note that the a pawn is baited.  If black takes it with his bishop it will become trapped with c4 and rounded up by Henry a few moves later."
+29,Nd2,f3d2,r7/ppp2n1p/2n1bk2/4p3/4P3/2P4P/P1PN1PP1/2KR1B1R b - - 2 15,"15. Nd2 - over the last few moves, two minor pieces have been exchanged and my queenside pawn structure is busted.  I try and consolidate.  Note that the a pawn is baited.  If black takes it with his bishop it will become trapped with c4 and rounded up by Henry a few moves later."
+30,Rd8,a8d8,3r4/ppp2n1p/2n1bk2/4p3/4P3/2P4P/P1PN1PP1/2KR1B1R w - - 3 16,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+31,Nb3,d2b3,3r4/ppp2n1p/2n1bk2/4p3/4P3/1NP4P/P1P2PP1/2KR1B1R b - - 4 16,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+32,Rxd1+,d8d1,8/ppp2n1p/2n1bk2/4p3/4P3/1NP4P/P1P2PP1/2Kr1B1R w - - 0 17,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+33,Kxd1,c1d1,8/ppp2n1p/2n1bk2/4p3/4P3/1NP4P/P1P2PP1/3K1B1R b - - 0 17,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+34,Bxb3,e6b3,8/ppp2n1p/2n2k2/4p3/4P3/1bP4P/P1P2PP1/3K1B1R w - - 0 18,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+35,cxb3,c2b3,8/ppp2n1p/2n2k2/4p3/4P3/1PP4P/P4PP1/3K1B1R b - - 0 18,18. cxb3 - my opponent is being extremely helpful - not only has he exchanged off his rook but he has straightened out my queenside pawns - I'm in 7th heaven here!
+36,Nd6,f7d6,8/ppp4p/2nn1k2/4p3/4P3/1PP4P/P4PP1/3K1B1R w - - 1 19,19. Bd3 - I finally complete my development on move 19.  Frere Leblanc defends my e pawn.  Next move I play f3 to consolidate my position.  After this black decided not to continue with the game and waved the white flag.
+37,Bd3,f1d3,8/ppp4p/2nn1k2/4p3/4P3/1PPB3P/P4PP1/3K3R b - - 2 19,19. Bd3 - I finally complete my development on move 19.  Frere Leblanc defends my e pawn.  Next move I play f3 to consolidate my position.  After this black decided not to continue with the game and waved the white flag.
+38,a6,a7a6,8/1pp4p/p1nn1k2/4p3/4P3/1PPB3P/P4PP1/3K3R w - - 0 20,
+39,f3,f2f3,8/1pp4p/p1nn1k2/4p3/4P3/1PPB1P1P/P5P1/3K3R b - - 0 20,

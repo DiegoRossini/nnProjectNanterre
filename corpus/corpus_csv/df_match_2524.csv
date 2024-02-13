@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Usual first move.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Hehe! My favorite.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,All normal.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,All normal.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"This and Qxd4 are the best, I believe."
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"This and Qxd4 are the best, I believe."
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"This and Qxd4 are the best, I believe."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Najdorf.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Najdorf.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Najdorf.
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,Probably the most solid move.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 0 7,You'd expect me to castle - but I usually don't
+13,f3,f2f3,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7,You'd expect me to castle - but I usually don't
+14,Be7,f8e7,rnbqk2r/1p2bppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 1 8,You'd expect me to castle - but I usually don't
+15,Qd2,d1d2,rnbqk2r/1p2bppp/p2ppn2/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 2 8,You'd expect me to castle - but I usually don't
+16,Qc7,d8c7,rnb1k2r/1pq1bppp/p2ppn2/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQkq - 3 9,Let's get started with our attacks.
+17,g4,g2g4,rnb1k2r/1pq1bppp/p2ppn2/8/3NP1P1/2N1BP2/PPPQ3P/R3KB1R b KQkq - 0 9,Let's get started with our attacks.
+18,b5,b7b5,rnb1k2r/2q1bppp/p2ppn2/1p6/3NP1P1/2N1BP2/PPPQ3P/R3KB1R w KQkq - 0 10,Let's get started with our attacks.
+19,g5,g4g5,rnb1k2r/2q1bppp/p2ppn2/1p4P1/3NP3/2N1BP2/PPPQ3P/R3KB1R b KQkq - 0 10,Castles to safety.
+20,Nfd7,f6d7,rnb1k2r/2qnbppp/p2pp3/1p4P1/3NP3/2N1BP2/PPPQ3P/R3KB1R w KQkq - 1 11,Castles to safety.
+21,O-O-O,e1c1,rnb1k2r/2qnbppp/p2pp3/1p4P1/3NP3/2N1BP2/PPPQ3P/2KR1B1R b kq - 2 11,Castles to safety.
+22,Bb7,c8b7,rn2k2r/1bqnbppp/p2pp3/1p4P1/3NP3/2N1BP2/PPPQ3P/2KR1B1R w kq - 3 12,I'm always afraid of Nxb5.
+23,Kb1,c1b1,rn2k2r/1bqnbppp/p2pp3/1p4P1/3NP3/2N1BP2/PPPQ3P/1K1R1B1R b kq - 4 12,I'm always afraid of Nxb5.
+24,Nc6,b8c6,r3k2r/1bqnbppp/p1npp3/1p4P1/3NP3/2N1BP2/PPPQ3P/1K1R1B1R w kq - 5 13,Planning Nc4.
+25,h4,h2h4,r3k2r/1bqnbppp/p1npp3/1p4P1/3NP2P/2N1BP2/PPPQ4/1K1R1B1R b kq - 0 13,Planning Nc4.
+26,Nce5,c6e5,r3k2r/1bqnbppp/p2pp3/1p2n1P1/3NP2P/2N1BP2/PPPQ4/1K1R1B1R w kq - 1 14,Planning Nc4.
+27,Qf2,d2f2,r3k2r/1bqnbppp/p2pp3/1p2n1P1/3NP2P/2N1BP2/PPP2Q2/1K1R1B1R b kq - 2 14,I like to work my knights.
+28,Nc5,d7c5,r3k2r/1bq1bppp/p2pp3/1pn1n1P1/3NP2P/2N1BP2/PPP2Q2/1K1R1B1R w kq - 3 15,I like to work my knights.
+29,Rg1,h1g1,r3k2r/1bq1bppp/p2pp3/1pn1n1P1/3NP2P/2N1BP2/PPP2Q2/1K1R1BR1 b kq - 4 15,"So far, I think I have a slight advantage."
+30,b4,b5b4,r3k2r/1bq1bppp/p2pp3/2n1n1P1/1p1NP2P/2N1BP2/PPP2Q2/1K1R1BR1 w kq - 0 16,"So far, I think I have a slight advantage."
+31,Nce2,c3e2,r3k2r/1bq1bppp/p2pp3/2n1n1P1/1p1NP2P/4BP2/PPP1NQ2/1K1R1BR1 b kq - 1 16,"So far, I think I have a slight advantage."
+32,Rc8,a8c8,2r1k2r/1bq1bppp/p2pp3/2n1n1P1/1p1NP2P/4BP2/PPP1NQ2/1K1R1BR1 w k - 2 17,"So far, I think I have a slight advantage."
+33,Rc1,d1c1,2r1k2r/1bq1bppp/p2pp3/2n1n1P1/1p1NP2P/4BP2/PPP1NQ2/1KR2BR1 b k - 3 17,She's reacting to all my moves. Something you shouldn't do unless forced.
+34,Nc4,e5c4,2r1k2r/1bq1bppp/p2pp3/2n3P1/1pnNP2P/4BP2/PPP1NQ2/1KR2BR1 w k - 4 18,She's reacting to all my moves. Something you shouldn't do unless forced.
+35,Nb3,d4b3,2r1k2r/1bq1bppp/p2pp3/2n3P1/1pn1P2P/1N2BP2/PPP1NQ2/1KR2BR1 b k - 5 18,She's reacting to all my moves. Something you shouldn't do unless forced.
+36,a5,a6a5,2r1k2r/1bq1bppp/3pp3/p1n3P1/1pn1P2P/1N2BP2/PPP1NQ2/1KR2BR1 w k - 0 19,Getting rid of her nasty bishop.
+37,Nxc5,b3c5,2r1k2r/1bq1bppp/3pp3/p1N3P1/1pn1P2P/4BP2/PPP1NQ2/1KR2BR1 b k - 0 19,Getting rid of her nasty bishop.
+38,dxc5,d6c5,2r1k2r/1bq1bppp/4p3/p1p3P1/1pn1P2P/4BP2/PPP1NQ2/1KR2BR1 w k - 0 20,Getting rid of her nasty bishop.
+39,Ng3,e2g3,2r1k2r/1bq1bppp/4p3/p1p3P1/1pn1P2P/4BPN1/PPP2Q2/1KR2BR1 b k - 1 20,Getting rid of her nasty bishop.
+40,Nxe3,c4e3,2r1k2r/1bq1bppp/4p3/p1p3P1/1p2P2P/4nPN1/PPP2Q2/1KR2BR1 w k - 0 21,Getting rid of her nasty bishop.
+41,Qxe3,f2e3,2r1k2r/1bq1bppp/4p3/p1p3P1/1p2P2P/4QPN1/PPP5/1KR2BR1 b k - 0 21,"See, my pawn's can run freely. For now."
+42,c4,c5c4,2r1k2r/1bq1bppp/4p3/p5P1/1pp1P2P/4QPN1/PPP5/1KR2BR1 w k - 0 22,"See, my pawn's can run freely. For now."
+43,Qe1,e3e1,2r1k2r/1bq1bppp/4p3/p5P1/1pp1P2P/5PN1/PPP5/1KR1QBR1 b k - 1 22,"See, my pawn's can run freely. For now."
+44,a4,a5a4,2r1k2r/1bq1bppp/4p3/6P1/ppp1P2P/5PN1/PPP5/1KR1QBR1 w k - 0 23,"See, my pawn's can run freely. For now."
+45,Be2,f1e2,2r1k2r/1bq1bppp/4p3/6P1/ppp1P2P/5PN1/PPP1B3/1KR1Q1R1 b k - 1 23,Here come's the decision. Do I castle or not?
+46,Bd6,e7d6,2r1k2r/1bq2ppp/3bp3/6P1/ppp1P2P/5PN1/PPP1B3/1KR1Q1R1 w k - 2 24,Here come's the decision. Do I castle or not?
+47,Nh5,g3h5,2r1k2r/1bq2ppp/3bp3/6PN/ppp1P2P/5P2/PPP1B3/1KR1Q1R1 b k - 3 24,Here come's the decision. Do I castle or not?
+48,Kf8,e8f8,2r2k1r/1bq2ppp/3bp3/6PN/ppp1P2P/5P2/PPP1B3/1KR1Q1R1 w - - 4 25,I don't!
+49,Rg2,g1g2,2r2k1r/1bq2ppp/3bp3/6PN/ppp1P2P/5P2/PPP1B1R1/1KR1Q3 b - - 5 25,Her knight is a pest. I want to get rid of it.
+50,Qc5,c7c5,2r2k1r/1b3ppp/3bp3/2q3PN/ppp1P2P/5P2/PPP1B1R1/1KR1Q3 w - - 6 26,Her knight is a pest. I want to get rid of it.
+51,Qf1,e1f1,2r2k1r/1b3ppp/3bp3/2q3PN/ppp1P2P/5P2/PPP1B1R1/1KR2Q2 b - - 7 26,Her knight is a pest. I want to get rid of it.
+52,g6,g7g6,2r2k1r/1b3p1p/3bp1p1/2q3PN/ppp1P2P/5P2/PPP1B1R1/1KR2Q2 w - - 0 27,Her knight is a pest. I want to get rid of it.
+53,Nf6,h5f6,2r2k1r/1b3p1p/3bpNp1/2q3P1/ppp1P2P/5P2/PPP1B1R1/1KR2Q2 b - - 1 27,"The way I see, it's not big of a threat on f6."

@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My second rated benoni  on gameknot
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,All very classical
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,All very classical
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,All very classical
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,All very classical
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,All very classical
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4,That's not the main line and probably not the best for black. I should have plaid g6
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,That's not the main line and probably not the best for black. I should have plaid g6
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,Now we go back to classical benoni
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,Now we go back to classical benoni
+11,e4,e2e4,rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6,Now we go back to classical benoni
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7,preparing the fiancheto
+13,f4,f2f4,rnbqkb1r/pp3p1p/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 7,Still classical line for benoni
+14,Bg7,f8g7,rnbqk2r/pp3pbp/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR w KQkq - 1 8,Still classical line for benoni
+15,Bb5+,f1b5,rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR b KQkq - 2 8,Mistake (I wanted to menace the knight)
+16,Nfd7,f6d7,rnbqk2r/pp1n1pbp/3p2p1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR w KQkq - 3 9,Mistake (I wanted to menace the knight)
+17,a4,a2a4,rnbqk2r/pp1n1pbp/3p2p1/1BpP4/P3PP2/2N5/1P4PP/R1BQK1NR b KQkq - 0 9,"Mistake, black should have castle"
+18,a6,a7a6,rnbqk2r/1p1n1pbp/p2p2p1/1BpP4/P3PP2/2N5/1P4PP/R1BQK1NR w KQkq - 0 10,"Mistake, black should have castle"
+19,Be2,b5e2,rnbqk2r/1p1n1pbp/p2p2p1/2pP4/P3PP2/2N5/1P2B1PP/R1BQK1NR b KQkq - 1 10,"Mistake, GK computer ""prefers"" 10. Bd3"
+20,Qe7,d8e7,rnb1k2r/1p1nqpbp/p2p2p1/2pP4/P3PP2/2N5/1P2B1PP/R1BQK1NR w KQkq - 2 11,Dangerous but the rooks are far away. it will take at least 4 moves for white to  bring one on the e file
+21,Qc2,d1c2,rnb1k2r/1p1nqpbp/p2p2p1/2pP4/P3PP2/2N5/1PQ1B1PP/R1B1K1NR b KQkq - 3 11,"Now black's plan is to deal with the e pawn as soon as possible.
+But the knight goes back to the place it was before the 8th move..."
+22,Nf6,d7f6,rnb1k2r/1p2qpbp/p2p1np1/2pP4/P3PP2/2N5/1PQ1B1PP/R1B1K1NR w KQkq - 4 12,"Now black's plan is to deal with the e pawn as soon as possible.
+But the knight goes back to the place it was before the 8th move..."
+23,Nf3,g1f3,rnb1k2r/1p2qpbp/p2p1np1/2pP4/P3PP2/2N2N2/1PQ1B1PP/R1B1K2R b KQkq - 5 12,So that white can castle
+24,O-O,e8g8,rnb2rk1/1p2qpbp/p2p1np1/2pP4/P3PP2/2N2N2/1PQ1B1PP/R1B1K2R w KQ - 6 13,logical move
+25,O-O,e1g1,rnb2rk1/1p2qpbp/p2p1np1/2pP4/P3PP2/2N2N2/1PQ1B1PP/R1B2RK1 b - - 7 13,"Now the king is safe, let's attack the central white pawns"
+26,Re8,f8e8,rnb1r1k1/1p2qpbp/p2p1np1/2pP4/P3PP2/2N2N2/1PQ1B1PP/R1B2RK1 w - - 8 14,"Now the king is safe, let's attack the central white pawns"
+27,Bd3,e2d3,rnb1r1k1/1p2qpbp/p2p1np1/2pP4/P3PP2/2NB1N2/1PQ3PP/R1B2RK1 b - - 9 14,To defend the pawn
+28,Bg4,c8g4,rn2r1k1/1p2qpbp/p2p1np1/2pP4/P3PPb1/2NB1N2/1PQ3PP/R1B2RK1 w - - 10 15,"I see no way to directly attack the e pawn but a sequence is possible attacking directly the king. I think I can at least obtain a draw (which would not be so bad with black against a player rated 100 points more) and may be a win, although I do not see the winning sequence."
+29,Rb1,a1b1,rn2r1k1/1p2qpbp/p2p1np1/2pP4/P3PPb1/2NB1N2/1PQ3PP/1RB2RK1 b - - 11 15,It seems that white didn't foresee the sequence black is about to drive
+30,Bxf3,g4f3,rn2r1k1/1p2qpbp/p2p1np1/2pP4/P3PP2/2NB1b2/1PQ3PP/1RB2RK1 w - - 0 16,"To launch his attack, black needs to get rid of the knight (the DSB shall come on d4)"
+31,Rxf3,f1f3,rn2r1k1/1p2qpbp/p2p1np1/2pP4/P3PP2/2NB1R2/1PQ3PP/1RB3K1 b - - 0 16,Logical
+32,Ng4,f6g4,rn2r1k1/1p2qpbp/p2p2p1/2pP4/P3PPn1/2NB1R2/1PQ3PP/1RB3K1 w - - 1 17,Freeing the DSB and menacing h2

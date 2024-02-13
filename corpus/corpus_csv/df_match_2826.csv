@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,So I start with the usual
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,He replies the same
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,I do the standard move
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,He defends his e pawn in a slightly unusual way. Nc6 or Nf6 are more common. This should be playable though.
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,So I advance in the centre.
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"This relieves the attack on e5, but at the cost of giving up a bishop for a knight. exd4, Nf6 or Nd7 were better moves"
+7,dxe5,d4e5,rn1qkbnr/ppp2ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"so I take on here. We are actually following a very famous game, Paul Morphy vs Duke Karl / Count Isouard ""A Night at the Opera"" http://www.chessgames.com/perl/chessgame?gid=1233404"
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5b2/PPP2PPP/RNBQKB1R w KQkq - 0 5,"He has to take the knight, or lose a pawn. If dxe5 instead, I can just exchange queens and then take on e5."
+9,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 0 5,"So I take with the queen, developing"
+10,dxe5,d6e5,rn1qkbnr/ppp2ppp/8/4p3/4P3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6,He takes back
+11,Bc4,f1c4,rn1qkbnr/ppp2ppp/8/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 1 6,As played by Paul Morphy
+12,Nf6,g8f6,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 2 7,Still following the steps of Morphy
+13,Qb3,f3b3,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7,"With a double attack on f7 and b7. In the Morphy game, black played Qe7, preparing to meet Qxb7 with Qb4+! and the queens come off. White would have the better ending, a pawn up. Morphy preferred to play Nc3 instead of taking on b7."
+14,Qd7,d8d7,rn2kb1r/pppq1ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 4 8,This is inferior
+15,Qxb7,b3b7,rn2kb1r/pQpq1ppp/5n2/4p3/2B1P3/8/PPP2PPP/RNB1K2R b KQkq - 0 8,"Now he loses a rook. If Qc6? to try and hold the rook, Bb5! wins the black queen."
+16,Nc6,b8c6,r3kb1r/pQpq1ppp/2n2n2/4p3/2B1P3/8/PPP2PPP/RNB1K2R w KQkq - 1 9,"Gameknot post-match computer analysis gives this as a mistake, but black is already lost"
+17,Qxa8+,b7a8,Q3kb1r/p1pq1ppp/2n2n2/4p3/2B1P3/8/PPP2PPP/RNB1K2R b KQk - 0 9,So I take the rook
+18,Nd8,c6d8,Q2nkb1r/p1pq1ppp/5n2/4p3/2B1P3/8/PPP2PPP/RNB1K2R w KQk - 1 10,Knight blocks the check
+19,O-O,e1g1,Q2nkb1r/p1pq1ppp/5n2/4p3/2B1P3/8/PPP2PPP/RNB2RK1 b k - 2 10,I castle
+20,h5,h7h5,Q2nkb1r/p1pq1pp1/5n2/4p2p/2B1P3/8/PPP2PPP/RNB2RK1 w k - 0 11,A mad attack on the king side. Gameknot suggest Bc5 as being better.

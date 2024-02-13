@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+7,Nc4,e5c4,rnbqkb1r/ppp2ppp/3p1n2/8/2N1P3/8/PPPP1PPP/RNBQKB1R b KQkq - 1 4,"The first deviation from ""book"". I was expecting the usual retreat of N-KB3."
+8,Nxe4,f6e4,rnbqkb1r/ppp2ppp/3p4/8/2N1n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 5,I play the book move and recapture the Pawn.
+9,d3,d2d3,rnbqkb1r/ppp2ppp/3p4/8/2N1n3/3P4/PPP2PPP/RNBQKB1R b KQkq - 0 5,"This move blocks my bro's K-side development, locking in the KB."
+10,Nf6,e4f6,rnbqkb1r/ppp2ppp/3p1n2/8/2N5/3P4/PPP2PPP/RNBQKB1R w KQkq - 1 6,"This move blocks my bro's K-side development, locking in the KB."
+11,Qe2+,d1e2,rnbqkb1r/ppp2ppp/3p1n2/8/2N5/3P4/PPP1QPPP/RNB1KB1R b KQkq - 2 6,"This move blocks my bro's K-side development, locking in the KB."
+12,Be7,f8e7,rnbqk2r/ppp1bppp/3p1n2/8/2N5/3P4/PPP1QPPP/RNB1KB1R w KQkq - 3 7,"Instead of castling at once, I aim to provoke a weakness in my bro's K-side. I anticipate he'll fianchetto his B and castle there."
+13,g3,g2g3,rnbqk2r/ppp1bppp/3p1n2/8/2N5/3P2P1/PPP1QP1P/RNB1KB1R b KQkq - 0 7,"Instead of castling at once, I aim to provoke a weakness in my bro's K-side. I anticipate he'll fianchetto his B and castle there."
+14,Bg4,c8g4,rn1qk2r/ppp1bppp/3p1n2/8/2N3b1/3P2P1/PPP1QP1P/RNB1KB1R w KQkq - 1 8,"Instead of castling at once, I aim to provoke a weakness in my bro's K-side. I anticipate he'll fianchetto his B and castle there."
+15,f3,f2f3,rn1qk2r/ppp1bppp/3p1n2/8/2N3b1/3P1PP1/PPP1Q2P/RNB1KB1R b KQkq - 0 8,"Having induced a Pawn weakness, I retreat my B to the square I intended to place it on all along."
+16,Be6,g4e6,rn1qk2r/ppp1bppp/3pbn2/8/2N5/3P1PP1/PPP1Q2P/RNB1KB1R w KQkq - 1 9,"Having induced a Pawn weakness, I retreat my B to the square I intended to place it on all along."
+17,Nc3,b1c3,rn1qk2r/ppp1bppp/3pbn2/8/2N5/2NP1PP1/PPP1Q2P/R1B1KB1R b KQkq - 2 9,Now I need to finish my Q-side development.
+18,O-O,e8g8,rn1q1rk1/ppp1bppp/3pbn2/8/2N5/2NP1PP1/PPP1Q2P/R1B1KB1R w KQ - 3 10,Now I need to finish my Q-side development.
+19,Bd2,c1d2,rn1q1rk1/ppp1bppp/3pbn2/8/2N5/2NP1PP1/PPPBQ2P/R3KB1R b KQ - 4 10,"With his K-side weakened, my brother wisely chooses to castle on the Q-side."
+20,Nc6,b8c6,r2q1rk1/ppp1bppp/2npbn2/8/2N5/2NP1PP1/PPPBQ2P/R3KB1R w KQ - 5 11,"With his K-side weakened, my brother wisely chooses to castle on the Q-side."
+21,O-O-O,e1c1,r2q1rk1/ppp1bppp/2npbn2/8/2N5/2NP1PP1/PPPBQ2P/2KR1B1R b - - 6 11,"With his K-side weakened, my brother wisely chooses to castle on the Q-side."
+22,Nd4,c6d4,r2q1rk1/ppp1bppp/3pbn2/8/2Nn4/2NP1PP1/PPPBQ2P/2KR1B1R w - - 7 12,I now have my Knight situated on a solidified central outpost.
+23,Qe3,e2e3,r2q1rk1/ppp1bppp/3pbn2/8/2Nn4/2NPQPP1/PPPB3P/2KR1B1R b - - 8 12,I now have my Knight situated on a solidified central outpost.
+24,c5,c7c5,r2q1rk1/pp2bppp/3pbn2/2p5/2Nn4/2NPQPP1/PPPB3P/2KR1B1R w - - 0 13,I now have my Knight situated on a solidified central outpost.
+25,Ne4,c3e4,r2q1rk1/pp2bppp/3pbn2/2p5/2NnN3/3PQPP1/PPPB3P/2KR1B1R b - - 1 13,My brother wants an equally good outpost for his own Knight...
+26,Nxe4,f6e4,r2q1rk1/pp2bppp/3pb3/2p5/2Nnn3/3PQPP1/PPPB3P/2KR1B1R w - - 0 14,...which I of course prevent...
+27,Qxe4,e3e4,r2q1rk1/pp2bppp/3pb3/2p5/2NnQ3/3P1PP1/PPPB3P/2KR1B1R b - - 0 14,...but he ends up with a beautifully centralized Queen.
+28,b5,b7b5,r2q1rk1/p3bppp/3pb3/1pp5/2NnQ3/3P1PP1/PPPB3P/2KR1B1R w - - 0 15,I aim to drive his Knight...
+29,Ba5,d2a5,r2q1rk1/p3bppp/3pb3/Bpp5/2NnQ3/3P1PP1/PPP4P/2KR1B1R b - - 1 15,...but he counterattacks instead of retreating.
+30,Bf5,e6f5,r2q1rk1/p3bppp/3p4/Bpp2b2/2NnQ3/3P1PP1/PPP4P/2KR1B1R w - - 2 16,"I plunged into the complications without fully calculating them, figuring I could find a way to come out ahead. However, my confidence was misplaced."
+31,Bxd8,a5d8,r2B1rk1/p3bppp/3p4/1pp2b2/2NnQ3/3P1PP1/PPP4P/2KR1B1R b - - 0 16,The tactical sequence is initiated.
+32,Bxe4,f5e4,r2B1rk1/p3bppp/3p4/1pp5/2Nnb3/3P1PP1/PPP4P/2KR1B1R w - - 0 17,This response is forced.
+33,Bxe7,d8e7,r4rk1/p3Bppp/3p4/1pp5/2Nnb3/3P1PP1/PPP4P/2KR1B1R b - - 0 17,"I had figured on 17 QPxB BxB, keeping the material even. This move shocked me."
+34,Bxf3,e4f3,r4rk1/p3Bppp/3p4/1pp5/2Nn4/3P1bP1/PPP4P/2KR1B1R w - - 0 18,"With my Rook under attack, this move is forced."
+35,Bxf8,e7f8,r4Bk1/p4ppp/3p4/1pp5/2Nn4/3P1bP1/PPP4P/2KR1B1R b - - 0 18,"With two pieces en prise, my brother cannot maintain the advantage of a piece. However, he will emerge a Pawn ahaead in the ensuing endgame."
+36,Bxh1,f3h1,r4Bk1/p4ppp/3p4/1pp5/2Nn4/3P2P1/PPP4P/2KR1B1b w - - 0 19,Now I have to be careful not to have this Bishop trapped.

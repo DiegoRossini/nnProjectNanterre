@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,interesting black opening
+2,h5,h7h5,rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,interesting black opening
+3,Nf3,g1f3,rnbqkbnr/ppppppp1/8/7p/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,white takes the center
+4,b6,b7b6,rnbqkbnr/p1ppppp1/1p6/7p/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,white takes the center
+5,Bc4,f1c4,rnbqkbnr/p1ppppp1/1p6/7p/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,white takes the center
+6,e6,e7e6,rnbqkbnr/p1pp1pp1/1p2p3/7p/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,white takes the center
+7,d4,d2d4,rnbqkbnr/p1pp1pp1/1p2p3/7p/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,white takes the center
+8,Bb7,c8b7,rn1qkbnr/pbpp1pp1/1p2p3/7p/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 1 5,paen trade opens the door to bishop attack
+9,e5,e4e5,rn1qkbnr/pbpp1pp1/1p2p3/4P2p/2BP4/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,paen trade opens the door to bishop attack
+10,Qe7,d8e7,rn2kbnr/pbppqpp1/1p2p3/4P2p/2BP4/5N2/PPP2PPP/RNBQK2R w KQkq - 1 6,paen trade opens the door to bishop attack
+11,a3,a2a3,rn2kbnr/pbppqpp1/1p2p3/4P2p/2BP4/P4N2/1PP2PPP/RNBQK2R b KQkq - 0 6,paen trade opens the door to bishop attack
+12,Nc6,b8c6,r3kbnr/pbppqpp1/1pn1p3/4P2p/2BP4/P4N2/1PP2PPP/RNBQK2R w KQkq - 1 7,paen trade opens the door to bishop attack
+13,Be3,c1e3,r3kbnr/pbppqpp1/1pn1p3/4P2p/2BP4/P3BN2/1PP2PPP/RN1QK2R b KQkq - 2 7,paen trade opens the door to bishop attack
+14,O-O-O,e8c8,2kr1bnr/pbppqpp1/1pn1p3/4P2p/2BP4/P3BN2/1PP2PPP/RN1QK2R w KQ - 3 8,paen trade opens the door to bishop attack
+15,Nc3,b1c3,2kr1bnr/pbppqpp1/1pn1p3/4P2p/2BP4/P1N1BN2/1PP2PPP/R2QK2R b KQ - 4 8,paen trade opens the door to bishop attack
+16,f6,f7f6,2kr1bnr/pbppq1p1/1pn1pp2/4P2p/2BP4/P1N1BN2/1PP2PPP/R2QK2R w KQ - 0 9,paen trade opens the door to bishop attack
+17,O-O,e1g1,2kr1bnr/pbppq1p1/1pn1pp2/4P2p/2BP4/P1N1BN2/1PP2PPP/R2Q1RK1 b - - 1 9,paen trade opens the door to bishop attack
+18,Nh6,g8h6,2kr1b1r/pbppq1p1/1pn1pp1n/4P2p/2BP4/P1N1BN2/1PP2PPP/R2Q1RK1 w - - 2 10,paen trade opens the door to bishop attack
+19,h3,h2h3,2kr1b1r/pbppq1p1/1pn1pp1n/4P2p/2BP4/P1N1BN1P/1PP2PP1/R2Q1RK1 b - - 0 10,paen trade opens the door to bishop attack
+20,Nf5,h6f5,2kr1b1r/pbppq1p1/1pn1pp2/4Pn1p/2BP4/P1N1BN1P/1PP2PP1/R2Q1RK1 w - - 1 11,paen trade opens the door to bishop attack
+21,Bd3,c4d3,2kr1b1r/pbppq1p1/1pn1pp2/4Pn1p/3P4/P1NBBN1P/1PP2PP1/R2Q1RK1 b - - 2 11,paen trade opens the door to bishop attack
+22,d6,d7d6,2kr1b1r/pbp1q1p1/1pnppp2/4Pn1p/3P4/P1NBBN1P/1PP2PP1/R2Q1RK1 w - - 0 12,paen trade opens the door to bishop attack
+23,Qd2,d1d2,2kr1b1r/pbp1q1p1/1pnppp2/4Pn1p/3P4/P1NBBN1P/1PPQ1PP1/R4RK1 b - - 1 12,paen trade opens the door to bishop attack
+24,dxe5,d6e5,2kr1b1r/pbp1q1p1/1pn1pp2/4pn1p/3P4/P1NBBN1P/1PPQ1PP1/R4RK1 w - - 0 13,trade knights to move the protective pawn
+25,dxe5,d4e5,2kr1b1r/pbp1q1p1/1pn1pp2/4Pn1p/8/P1NBBN1P/1PPQ1PP1/R4RK1 b - - 0 13,trade knights to move the protective pawn
+26,Nxe5,c6e5,2kr1b1r/pbp1q1p1/1p2pp2/4nn1p/8/P1NBBN1P/1PPQ1PP1/R4RK1 w - - 0 14,trade knights to move the protective pawn
+27,Nxe5,f3e5,2kr1b1r/pbp1q1p1/1p2pp2/4Nn1p/8/P1NBB2P/1PPQ1PP1/R4RK1 b - - 0 14,black has to trade rook for bishop
+28,fxe5,f6e5,2kr1b1r/pbp1q1p1/1p2p3/4pn1p/8/P1NBB2P/1PPQ1PP1/R4RK1 w - - 0 15,black has to trade rook for bishop
+29,Bg5,e3g5,2kr1b1r/pbp1q1p1/1p2p3/4pnBp/8/P1NB3P/1PPQ1PP1/R4RK1 b - - 1 15,black has to trade rook for bishop
+30,Qf7,e7f7,2kr1b1r/pbp2qp1/1p2p3/4pnBp/8/P1NB3P/1PPQ1PP1/R4RK1 w - - 2 16,taking bishop creates vulnerabillity with movement of bishop--check and a free piece
+31,Bxd8,g5d8,2kB1b1r/pbp2qp1/1p2p3/4pn1p/8/P1NB3P/1PPQ1PP1/R4RK1 b - - 0 16,taking bishop creates vulnerabillity with movement of bishop--check and a free piece
+32,Kxd8,c8d8,3k1b1r/pbp2qp1/1p2p3/4pn1p/8/P1NB3P/1PPQ1PP1/R4RK1 w - - 0 17,taking bishop creates vulnerabillity with movement of bishop--check and a free piece
+33,Bxf5+,d3f5,3k1b1r/pbp2qp1/1p2p3/4pB1p/8/P1N4P/1PPQ1PP1/R4RK1 b - - 0 17,black declines trade but opens the door to more aggression
+34,Ke8,d8e8,4kb1r/pbp2qp1/1p2p3/4pB1p/8/P1N4P/1PPQ1PP1/R4RK1 w - - 1 18,black declines trade but opens the door to more aggression
+35,Be4,f5e4,4kb1r/pbp2qp1/1p2p3/4p2p/4B3/P1N4P/1PPQ1PP1/R4RK1 b - - 2 18,black declines trade but opens the door to more aggression
+36,c6,c7c6,4kb1r/pb3qp1/1pp1p3/4p2p/4B3/P1N4P/1PPQ1PP1/R4RK1 w - - 0 19,black declines trade but opens the door to more aggression
+37,Rad1,a1d1,4kb1r/pb3qp1/1pp1p3/4p2p/4B3/P1N4P/1PPQ1PP1/3R1RK1 b - - 1 19,bishop protects d8 but not d7
+38,Be7,f8e7,4k2r/pb2bqp1/1pp1p3/4p2p/4B3/P1N4P/1PPQ1PP1/3R1RK1 w - - 2 20,bishop protects d8 but not d7
+39,Qd7+,d2d7,4k2r/pb1Qbqp1/1pp1p3/4p2p/4B3/P1N4P/1PP2PP1/3R1RK1 b - - 3 20,black bishop lost
+40,Kf8,e8f8,5k1r/pb1Qbqp1/1pp1p3/4p2p/4B3/P1N4P/1PP2PP1/3R1RK1 w - - 4 21,black bishop lost
+41,Qxb7,d7b7,5k1r/pQ2bqp1/1pp1p3/4p2p/4B3/P1N4P/1PP2PP1/3R1RK1 b - - 0 21,defensive move with queen opens a door for bishop
+42,Qe8,f7e8,4qk1r/pQ2b1p1/1pp1p3/4p2p/4B3/P1N4P/1PP2PP1/3R1RK1 w - - 1 22,defensive move with queen opens a door for bishop
+43,Bxc6,e4c6,4qk1r/pQ2b1p1/1pB1p3/4p2p/8/P1N4P/1PP2PP1/3R1RK1 b - - 0 22,moving queen loses rook
+44,Qg6,e8g6,5k1r/pQ2b1p1/1pB1p1q1/4p2p/8/P1N4P/1PP2PP1/3R1RK1 w - - 1 23,moving queen loses rook
+45,Qc8+,b7c8,2Q2k1r/p3b1p1/1pB1p1q1/4p2p/8/P1N4P/1PP2PP1/3R1RK1 b - - 2 23,at this point black has little left
+46,Kf7,f8f7,2Q4r/p3bkp1/1pB1p1q1/4p2p/8/P1N4P/1PP2PP1/3R1RK1 w - - 3 24,at this point black has little left
+47,Qxh8,c8h8,7Q/p3bkp1/1pB1p1q1/4p2p/8/P1N4P/1PP2PP1/3R1RK1 b - - 0 24,at this point black has little left
+48,Kf6,f7f6,7Q/p3b1p1/1pB1pkq1/4p2p/8/P1N4P/1PP2PP1/3R1RK1 w - - 1 25,pressure on king
+49,Ne4+,c3e4,7Q/p3b1p1/1pB1pkq1/4p2p/4N3/P6P/1PP2PP1/3R1RK1 b - - 2 25,pressure on king
+50,Kf5,f6f5,7Q/p3b1p1/1pB1p1q1/4pk1p/4N3/P6P/1PP2PP1/3R1RK1 w - - 3 26,followed by another attack on the queen
+51,Be8,c6e8,4B2Q/p3b1p1/1p2p1q1/4pk1p/4N3/P6P/1PP2PP1/3R1RK1 b - - 4 26,"best black can do is offer queen trade, and at this point, black can't afford trades"
+52,Qh6,g6h6,4B2Q/p3b1p1/1p2p2q/4pk1p/4N3/P6P/1PP2PP1/3R1RK1 w - - 5 27,rescue knight with a check before queen trade
+53,Ng3+,e4g3,4B2Q/p3b1p1/1p2p2q/4pk1p/8/P5NP/1PP2PP1/3R1RK1 b - - 6 27,rescue knight with a check before queen trade
+54,Kg5,f5g5,4B2Q/p3b1p1/1p2p2q/4p1kp/8/P5NP/1PP2PP1/3R1RK1 w - - 7 28,white now broadens attack
+55,Qxh6+,h8h6,4B3/p3b1p1/1p2p2Q/4p1kp/8/P5NP/1PP2PP1/3R1RK1 b - - 0 28,white now broadens attack
+56,gxh6,g7h6,4B3/p3b3/1p2p2p/4p1kp/8/P5NP/1PP2PP1/3R1RK1 w - - 0 29,white now broadens attack
+57,Rfe1,f1e1,4B3/p3b3/1p2p2p/4p1kp/8/P5NP/1PP2PP1/3RR1K1 b - - 1 29,"pawn at h5 vulnerable, then black bishop"
+58,Bf6,e7f6,4B3/p7/1p2pb1p/4p1kp/8/P5NP/1PP2PP1/3RR1K1 w - - 2 30,"pawn at h5 vulnerable, then black bishop"
+59,Nxh5,g3h5,4B3/p7/1p2pb1p/4p1kN/8/P6P/1PP2PP1/3RR1K1 b - - 0 30,another trade
+60,Kf5,g5f5,4B3/p7/1p2pb1p/4pk1N/8/P6P/1PP2PP1/3RR1K1 w - - 1 31,another trade
+61,Nxf6,h5f6,4B3/p7/1p2pN1p/4pk2/8/P6P/1PP2PP1/3RR1K1 b - - 0 31,rooks now aline to go after king
+62,Kxf6,f5f6,4B3/p7/1p2pk1p/4p3/8/P6P/1PP2PP1/3RR1K1 w - - 0 32,rooks now aline to go after king
+63,Re3,e1e3,4B3/p7/1p2pk1p/4p3/8/P3R2P/1PP2PP1/3R2K1 b - - 1 32,rooks now aline to go after king
+64,Kf5,f6f5,4B3/p7/1p2p2p/4pk2/8/P3R2P/1PP2PP1/3R2K1 w - - 2 33,rooks now aline to go after king

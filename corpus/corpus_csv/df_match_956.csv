@@ -1,0 +1,73 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Alekhine's defense.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,Alekhine's defense.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2,"Black generally does pretty well here, particularly with d5."
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,e6 is a popular response for black.
+5,Bc4,f1c4,rnbqkb1r/pp1ppppp/5n2/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 1 3,e6 is a popular response for black.
+6,Nc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 2 4,Nxf3 could save the undefended pawn.
+7,a3,a2a3,r1bqkb1r/pp1ppppp/2n2n2/2p5/2B1P3/P1N5/1PPP1PPP/R1BQK1NR b KQkq - 0 4,Nxf3 could save the undefended pawn.
+8,Ne5,c6e5,r1bqkb1r/pp1ppppp/5n2/2p1n3/2B1P3/P1N5/1PPP1PPP/R1BQK1NR w KQkq - 1 5,Nxf3 could save the undefended pawn.
+9,Ba2,c4a2,r1bqkb1r/pp1ppppp/5n2/2p1n3/4P3/P1N5/BPPP1PPP/R1BQK1NR b KQkq - 2 5,Nxf3 could save the undefended pawn.
+10,g5,g7g5,r1bqkb1r/pp1ppp1p/5n2/2p1n1p1/4P3/P1N5/BPPP1PPP/R1BQK1NR w KQkq - 0 6,Nxf3 could save the undefended pawn.
+11,Nf3,g1f3,r1bqkb1r/pp1ppp1p/5n2/2p1n1p1/4P3/P1N2N2/BPPP1PPP/R1BQK2R b KQkq - 1 6,Nxf3 could save the undefended pawn.
+12,Nc6,e5c6,r1bqkb1r/pp1ppp1p/2n2n2/2p3p1/4P3/P1N2N2/BPPP1PPP/R1BQK2R w KQkq - 2 7,Pawn e6 staves off N queen/rook fork.
+13,Nxg5,f3g5,r1bqkb1r/pp1ppp1p/2n2n2/2p3N1/4P3/P1N5/BPPP1PPP/R1BQK2R b KQkq - 0 7,Pawn e6 staves off N queen/rook fork.
+14,h6,h7h6,r1bqkb1r/pp1ppp2/2n2n1p/2p3N1/4P3/P1N5/BPPP1PPP/R1BQK2R w KQkq - 0 8,"Nope.  Bye bye, h rook."
+15,Nxf7,g5f7,r1bqkb1r/pp1ppN2/2n2n1p/2p5/4P3/P1N5/BPPP1PPP/R1BQK2R b KQkq - 0 8,Nd4 counter threats a nice fork.
+16,Qa5,d8a5,r1b1kb1r/pp1ppN2/2n2n1p/q1p5/4P3/P1N5/BPPP1PPP/R1BQK2R w KQkq - 1 9,Nd4 counter threats a nice fork.
+17,Nxh8,f7h8,r1b1kb1N/pp1pp3/2n2n1p/q1p5/4P3/P1N5/BPPP1PPP/R1BQK2R b KQq - 0 9,Nd4 counter threats a nice fork.
+18,Bg7,f8g7,r1b1k2N/pp1pp1b1/2n2n1p/q1p5/4P3/P1N5/BPPP1PPP/R1BQK2R w KQq - 1 10,Nd4 counter threats a nice fork.
+19,Ng6,h8g6,r1b1k3/pp1pp1b1/2n2nNp/q1p5/4P3/P1N5/BPPP1PPP/R1BQK2R b KQq - 2 10,Nd4 counter threats a nice fork.
+20,d6,d7d6,r1b1k3/pp2p1b1/2np1nNp/q1p5/4P3/P1N5/BPPP1PPP/R1BQK2R w KQq - 0 11,Nd4 counter threats a nice fork.
+21,Nf4,g6f4,r1b1k3/pp2p1b1/2np1n1p/q1p5/4PN2/P1N5/BPPP1PPP/R1BQK2R b KQq - 1 11,Nd4 counter threats a nice fork.
+22,Bg4,c8g4,r3k3/pp2p1b1/2np1n1p/q1p5/4PNb1/P1N5/BPPP1PPP/R1BQK2R w KQq - 2 12,Nd4 counter threats a nice fork.
+23,Nce2,c3e2,r3k3/pp2p1b1/2np1n1p/q1p5/4PNb1/P7/BPPPNPPP/R1BQK2R b KQq - 3 12,Nd4 counter threats a nice fork.
+24,O-O-O,e8c8,2kr4/pp2p1b1/2np1n1p/q1p5/4PNb1/P7/BPPPNPPP/R1BQK2R w KQ - 4 13,Nd4 counter threats a nice fork.
+25,h3,h2h3,2kr4/pp2p1b1/2np1n1p/q1p5/4PNb1/P6P/BPPPNPP1/R1BQK2R b KQ - 0 13,Nd4 counter threats a nice fork.
+26,Bxe2,g4e2,2kr4/pp2p1b1/2np1n1p/q1p5/4PN2/P6P/BPPPbPP1/R1BQK2R w KQ - 0 14,Nd4 counter threats a nice fork.
+27,Qxe2,d1e2,2kr4/pp2p1b1/2np1n1p/q1p5/4PN2/P6P/BPPPQPP1/R1B1K2R b KQ - 0 14,Nd4 counter threats a nice fork.
+28,e5,e7e5,2kr4/pp4b1/2np1n1p/q1p1p3/4PN2/P6P/BPPPQPP1/R1B1K2R w KQ - 0 15,Nd4 counter threats a nice fork.
+29,Ne6,f4e6,2kr4/pp4b1/2npNn1p/q1p1p3/4P3/P6P/BPPPQPP1/R1B1K2R b KQ - 1 15,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+30,Rd7,d8d7,2k5/pp1r2b1/2npNn1p/q1p1p3/4P3/P6P/BPPPQPP1/R1B1K2R w KQ - 2 16,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+31,Nxg7,e6g7,2k5/pp1r2N1/2np1n1p/q1p1p3/4P3/P6P/BPPPQPP1/R1B1K2R b KQ - 0 16,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+32,Rxg7,d7g7,2k5/pp4r1/2np1n1p/q1p1p3/4P3/P6P/BPPPQPP1/R1B1K2R w KQ - 0 17,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+33,O-O,e1g1,2k5/pp4r1/2np1n1p/q1p1p3/4P3/P6P/BPPPQPP1/R1B2RK1 b - - 1 17,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+34,Qd8,a5d8,2kq4/pp4r1/2np1n1p/2p1p3/4P3/P6P/BPPPQPP1/R1B2RK1 w - - 2 18,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+35,d3,d2d3,2kq4/pp4r1/2np1n1p/2p1p3/4P3/P2P3P/BPP1QPP1/R1B2RK1 b - - 0 18,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+36,Nd7,f6d7,2kq4/pp1n2r1/2np3p/2p1p3/4P3/P2P3P/BPP1QPP1/R1B2RK1 w - - 1 19,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+37,Bxh6,c1h6,2kq4/pp1n2r1/2np3B/2p1p3/4P3/P2P3P/BPP1QPP1/R4RK1 b - - 0 19,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+38,Rg6,g7g6,2kq4/pp1n4/2np2rB/2p1p3/4P3/P2P3P/BPP1QPP1/R4RK1 w - - 1 20,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+39,Qh5,e2h5,2kq4/pp1n4/2np2rB/2p1p2Q/4P3/P2P3P/BPP2PP1/R4RK1 b - - 2 20,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+40,Qe8,d8e8,2k1q3/pp1n4/2np2rB/2p1p2Q/4P3/P2P3P/BPP2PP1/R4RK1 w - - 3 21,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+41,Bd2,h6d2,2k1q3/pp1n4/2np2r1/2p1p2Q/4P3/P2P3P/BPPB1PP1/R4RK1 b - - 4 21,Whoa!  RxPg2+ trades white's pawn and queen for the black rook.  Do it!
+42,Nf8,d7f8,2k1qn2/pp6/2np2r1/2p1p2Q/4P3/P2P3P/BPPB1PP1/R4RK1 w - - 5 22,Nope.  Black makes up five points trading the rook.
+43,Bh6,d2h6,2k1qn2/pp6/2np2rB/2p1p2Q/4P3/P2P3P/BPP2PP1/R4RK1 b - - 6 22,Ahead eight white has incentive to trade.
+44,Nd7,f8d7,2k1q3/pp1n4/2np2rB/2p1p2Q/4P3/P2P3P/BPP2PP1/R4RK1 w - - 7 23,Ahead eight white has incentive to trade.
+45,Bg5,h6g5,2k1q3/pp1n4/2np2r1/2p1p1BQ/4P3/P2P3P/BPP2PP1/R4RK1 b - - 8 23,Ahead eight white has incentive to trade.
+46,Re6,g6e6,2k1q3/pp1n4/2npr3/2p1p1BQ/4P3/P2P3P/BPP2PP1/R4RK1 w - - 9 24,Ahead eight white has incentive to trade.
+47,Qh4,h5h4,2k1q3/pp1n4/2npr3/2p1p1B1/4P2Q/P2P3P/BPP2PP1/R4RK1 b - - 10 24,Qg8 looked interesting.
+48,Rg6,e6g6,2k1q3/pp1n4/2np2r1/2p1p1B1/4P2Q/P2P3P/BPP2PP1/R4RK1 w - - 11 25,Qg8 looked interesting.
+49,c3,c2c3,2k1q3/pp1n4/2np2r1/2p1p1B1/4P2Q/P1PP3P/BP3PP1/R4RK1 b - - 0 25,Qg8 looked interesting.
+50,Nf8,d7f8,2k1qn2/pp6/2np2r1/2p1p1B1/4P2Q/P1PP3P/BP3PP1/R4RK1 w - - 1 26,Qg8 looked interesting.
+51,f4,f2f4,2k1qn2/pp6/2np2r1/2p1p1B1/4PP1Q/P1PP3P/BP4P1/R4RK1 b - - 0 26,Pf6 looks good.
+52,Nd7,f8d7,2k1q3/pp1n4/2np2r1/2p1p1B1/4PP1Q/P1PP3P/BP4P1/R4RK1 w - - 1 27,Pf6 looks good.
+53,f5,f4f5,2k1q3/pp1n4/2np2r1/2p1pPB1/4P2Q/P1PP3P/BP4P1/R4RK1 b - - 0 27,Pf6 looks good.
+54,Rg7,g6g7,2k1q3/pp1n2r1/2np4/2p1pPB1/4P2Q/P1PP3P/BP4P1/R4RK1 w - - 1 28,Pf6 looks good.
+55,Qh6,h4h6,2k1q3/pp1n2r1/2np3Q/2p1pPB1/4P3/P1PP3P/BP4P1/R4RK1 b - - 2 28,Pf6 looks good.
+56,Rxg5,g7g5,2k1q3/pp1n4/2np3Q/2p1pPr1/4P3/P1PP3P/BP4P1/R4RK1 w - - 0 29,Pf6 looks good.
+57,Qxg5,h6g5,2k1q3/pp1n4/2np4/2p1pPQ1/4P3/P1PP3P/BP4P1/R4RK1 b - - 0 29,Pf6 looks good.
+58,Qe7,e8e7,2k5/pp1nq3/2np4/2p1pPQ1/4P3/P1PP3P/BP4P1/R4RK1 w - - 1 30,Pf6 looks good.
+59,Qh6,g5h6,2k5/pp1nq3/2np3Q/2p1pP2/4P3/P1PP3P/BP4P1/R4RK1 b - - 2 30,Pf6 looks good.
+60,Nd8,c6d8,2kn4/pp1nq3/3p3Q/2p1pP2/4P3/P1PP3P/BP4P1/R4RK1 w - - 3 31,
+61,Qh8,h6h8,2kn3Q/pp1nq3/3p4/2p1pP2/4P3/P1PP3P/BP4P1/R4RK1 b - - 4 31,
+62,Nf6,d7f6,2kn3Q/pp2q3/3p1n2/2p1pP2/4P3/P1PP3P/BP4P1/R4RK1 w - - 5 32,
+63,Qh4,h8h4,2kn4/pp2q3/3p1n2/2p1pP2/4P2Q/P1PP3P/BP4P1/R4RK1 b - - 6 32,
+64,b5,b7b5,2kn4/p3q3/3p1n2/1pp1pP2/4P2Q/P1PP3P/BP4P1/R4RK1 w - - 0 33,
+65,Rf3,f1f3,2kn4/p3q3/3p1n2/1pp1pP2/4P2Q/P1PP1R1P/BP4P1/R5K1 b - - 1 33,
+66,Kd7,c8d7,3n4/p2kq3/3p1n2/1pp1pP2/4P2Q/P1PP1R1P/BP4P1/R5K1 w - - 2 34,
+67,Rg3,f3g3,3n4/p2kq3/3p1n2/1pp1pP2/4P2Q/P1PP2RP/BP4P1/R5K1 b - - 3 34,
+68,Nb7,d8b7,8/pn1kq3/3p1n2/1pp1pP2/4P2Q/P1PP2RP/BP4P1/R5K1 w - - 4 35,
+69,Qh8,h4h8,7Q/pn1kq3/3p1n2/1pp1pP2/4P3/P1PP2RP/BP4P1/R5K1 b - - 5 35,
+70,Ne8,f6e8,4n2Q/pn1kq3/3p4/1pp1pP2/4P3/P1PP2RP/BP4P1/R5K1 w - - 6 36,
+71,Rf1,a1f1,4n2Q/pn1kq3/3p4/1pp1pP2/4P3/P1PP2RP/BP4P1/5RK1 b - - 7 36,
+72,Kc7,d7c7,4n2Q/pnk1q3/3p4/1pp1pP2/4P3/P1PP2RP/BP4P1/5RK1 w - - 8 37,

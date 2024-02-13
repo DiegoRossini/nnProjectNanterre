@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Looks like white is getting ready to castle early.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Looks like white is getting ready to castle early.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Looks like white is getting ready to castle early.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,Looks like white is getting ready to castle early.
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Looks like white is getting ready to castle early.
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Looks like white is getting ready to castle early.
+7,Bd3,f1d3,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 2 4,Looks like white is getting ready to castle early.
+8,Bg4,c8g4,r2qkb1r/ppp1pppp/2n2n2/3p4/3P2b1/3BPN2/PPP2PPP/RNBQK2R w KQkq - 3 5,Black sees an opportunity to pin the knight.
+9,Nbd2,b1d2,r2qkb1r/ppp1pppp/2n2n2/3p4/3P2b1/3BPN2/PPPN1PPP/R1BQK2R b KQkq - 4 5,"The intent here is to push the e pawn forward until it can fork white's bishop and knight. With the knight pinned, the fork can prove quite devastating."
+10,Qd6,d8d6,r3kb1r/ppp1pppp/2nq1n2/3p4/3P2b1/3BPN2/PPPN1PPP/R1BQK2R w KQkq - 5 6,"The intent here is to push the e pawn forward until it can fork white's bishop and knight. With the knight pinned, the fork can prove quite devastating."
+11,b3,b2b3,r3kb1r/ppp1pppp/2nq1n2/3p4/3P2b1/1P1BPN2/P1PN1PPP/R1BQK2R b KQkq - 0 6,"If white takes with the d4 pawn, then black takes back with the c6 knight - again forking white's bishop and knight."
+12,e5,e7e5,r3kb1r/ppp2ppp/2nq1n2/3pp3/3P2b1/1P1BPN2/P1PN1PPP/R1BQK2R w KQkq - 0 7,"If white takes with the d4 pawn, then black takes back with the c6 knight - again forking white's bishop and knight."
+13,Bb2,c1b2,r3kb1r/ppp2ppp/2nq1n2/3pp3/3P2b1/1P1BPN2/PBPN1PPP/R2QK2R b KQkq - 1 7,The fork is in place.
+14,e4,e5e4,r3kb1r/ppp2ppp/2nq1n2/3p4/3Pp1b1/1P1BPN2/PBPN1PPP/R2QK2R w KQkq - 0 8,The fork is in place.
+15,h3,h2h3,r3kb1r/ppp2ppp/2nq1n2/3p4/3Pp1b1/1P1BPN1P/PBPN1PP1/R2QK2R b KQkq - 0 8,White tries to scare the bishop away.
+16,Bxf3,g4f3,r3kb1r/ppp2ppp/2nq1n2/3p4/3Pp3/1P1BPb1P/PBPN1PP1/R2QK2R w KQkq - 0 9,White just takes the knight anyway.
+17,gxf3,g2f3,r3kb1r/ppp2ppp/2nq1n2/3p4/3Pp3/1P1BPP1P/PBPN1P2/R2QK2R b KQkq - 0 9,And the white grabs the bishop.
+18,exd3,e4d3,r3kb1r/ppp2ppp/2nq1n2/3p4/3P4/1P1pPP1P/PBPN1P2/R2QK2R w KQkq - 0 10,And the white grabs the bishop.
+19,cxd3,c2d3,r3kb1r/ppp2ppp/2nq1n2/3p4/3P4/1P1PPP1P/PB1N1P2/R2QK2R b KQkq - 0 10,Push pawn to allow the bishop to develop.
+20,O-O-O,e8c8,2kr1b1r/ppp2ppp/2nq1n2/3p4/3P4/1P1PPP1P/PB1N1P2/R2QK2R w KQ - 1 11,Push pawn to allow the bishop to develop.
+21,Qc2,d1c2,2kr1b1r/ppp2ppp/2nq1n2/3p4/3P4/1P1PPP1P/PBQN1P2/R3K2R b KQ - 2 11,Push pawn to allow the bishop to develop.
+22,Nd7,f6d7,2kr1b1r/pppn1ppp/2nq4/3p4/3P4/1P1PPP1P/PBQN1P2/R3K2R w KQ - 3 12,Push pawn to allow the bishop to develop.
+23,O-O-O,e1c1,2kr1b1r/pppn1ppp/2nq4/3p4/3P4/1P1PPP1P/PBQN1P2/2KR3R b - - 4 12,Push pawn to allow the bishop to develop.
+24,g6,g7g6,2kr1b1r/pppn1p1p/2nq2p1/3p4/3P4/1P1PPP1P/PBQN1P2/2KR3R w - - 0 13,Push pawn to allow the bishop to develop.
+25,Kb1,c1b1,2kr1b1r/pppn1p1p/2nq2p1/3p4/3P4/1P1PPP1P/PBQN1P2/1K1R3R b - - 1 13,"Since white castled on the queenside and to avoid the block of white pawns in the center, black brings minor pieces over to the queenside."
+26,Nb6,d7b6,2kr1b1r/ppp2p1p/1nnq2p1/3p4/3P4/1P1PPP1P/PBQN1P2/1K1R3R w - - 2 14,"Since white castled on the queenside and to avoid the block of white pawns in the center, black brings minor pieces over to the queenside."
+27,e4,e3e4,2kr1b1r/ppp2p1p/1nnq2p1/3p4/3PP3/1P1P1P1P/PBQN1P2/1K1R3R b - - 0 14,"Black decides not to exchange pawns in the middle. If an exchange happens, let white do it. That would triple-up the white pawns and make them an easy target later in the game. If black exchanged, then white could undouble the pawns on the d file and open the main diagonal for white's bishop. It's better to let white do the exchange."
+28,Bg7,f8g7,2kr3r/ppp2pbp/1nnq2p1/3p4/3PP3/1P1P1P1P/PBQN1P2/1K1R3R w - - 1 15,"Black decides not to exchange pawns in the middle. If an exchange happens, let white do it. That would triple-up the white pawns and make them an easy target later in the game. If black exchanged, then white could undouble the pawns on the d file and open the main diagonal for white's bishop. It's better to let white do the exchange."
+29,e5,e4e5,2kr3r/ppp2pbp/1nnq2p1/3pP3/3P4/1P1P1P1P/PBQN1P2/1K1R3R b - - 0 15,But white is not interested in the exchange but in blocking black's bishop and in pushing the queen out of the d6 square.
+30,Qe6,d6e6,2kr3r/ppp2pbp/1nn1q1p1/3pP3/3P4/1P1P1P1P/PBQN1P2/1K1R3R w - - 1 16,"I see this move as weak. It leaves the b3 pawn more vulnerable. A queen and knight are looking after it right now, but if those two pieces are captured or forced to move, then the pawn in front of the king is left unprotected."
+31,a4,a2a4,2kr3r/ppp2pbp/1nn1q1p1/3pP3/P2P4/1P1P1P1P/1BQN1P2/1K1R3R b - - 0 16,"I see this move as weak. It leaves the b3 pawn more vulnerable. A queen and knight are looking after it right now, but if those two pieces are captured or forced to move, then the pawn in front of the king is left unprotected."
+32,f6,f7f6,2kr3r/ppp3bp/1nn1qpp1/3pP3/P2P4/1P1P1P1P/1BQN1P2/1K1R3R w - - 0 17,Time to disrupt white's pawn line along the main diagonal.
+33,f4,f3f4,2kr3r/ppp3bp/1nn1qpp1/3pP3/P2P1P2/1P1P3P/1BQN1P2/1K1R3R b - - 0 17,And white brings in reinforcements.
+34,fxe5,f6e5,2kr3r/ppp3bp/1nn1q1p1/3pp3/P2P1P2/1P1P3P/1BQN1P2/1K1R3R w - - 0 18,Black moves to take the unprotected f2 pawn - and move the rook to where it can later threaten the poorly supported d4 pawn.
+35,fxe5,f4e5,2kr3r/ppp3bp/1nn1q1p1/3pP3/P2P4/1P1P3P/1BQN1P2/1K1R3R b - - 0 18,Black moves to take the unprotected f2 pawn - and move the rook to where it can later threaten the poorly supported d4 pawn.
+36,Rhf8,h8f8,2kr1r2/ppp3bp/1nn1q1p1/3pP3/P2P4/1P1P3P/1BQN1P2/1K1R3R w - - 1 19,Black moves to take the unprotected f2 pawn - and move the rook to where it can later threaten the poorly supported d4 pawn.
+37,Rh2,h1h2,2kr1r2/ppp3bp/1nn1q1p1/3pP3/P2P4/1P1P3P/1BQN1P1R/1K1R4 b - - 2 19,White brings queen to protect the d4 pawn.
+38,Rf4,f8f4,2kr4/ppp3bp/1nn1q1p1/3pP3/P2P1r2/1P1P3P/1BQN1P1R/1K1R4 w - - 3 20,White brings queen to protect the d4 pawn.
+39,Qc5,c2c5,2kr4/ppp3bp/1nn1q1p1/2QpP3/P2P1r2/1P1P3P/1B1N1P1R/1K1R4 b - - 4 20,White brings queen to protect the d4 pawn.
+40,Bf8,g7f8,2kr1b2/ppp4p/1nn1q1p1/2QpP3/P2P1r2/1P1P3P/1B1N1P1R/1K1R4 w - - 5 21,Queen retreats for safety and the d4 pawn is at the mercy of the c6 knight.
+41,Qc1,c5c1,2kr1b2/ppp4p/1nn1q1p1/3pP3/P2P1r2/1P1P3P/1B1N1P1R/1KQR4 b - - 6 21,Queen retreats for safety and the d4 pawn is at the mercy of the c6 knight.
+42,Nxd4,c6d4,2kr1b2/ppp4p/1n2q1p1/3pP3/P2n1r2/1P1P3P/1B1N1P1R/1KQR4 w - - 0 22,"From here, black can threaten two more pawns."
+43,Bxd4,b2d4,2kr1b2/ppp4p/1n2q1p1/3pP3/P2B1r2/1P1P3P/3N1P1R/1KQR4 b - - 0 22,"From here, black can threaten two more pawns."
+44,Rxd4,f4d4,2kr1b2/ppp4p/1n2q1p1/3pP3/P2r4/1P1P3P/3N1P1R/1KQR4 w - - 0 23,"From here, black can threaten two more pawns."
+45,f4,f2f4,2kr1b2/ppp4p/1n2q1p1/3pP3/P2r1P2/1P1P3P/3N3R/1KQR4 b - - 0 23,That was a blunder. White just offers up a pawn for free.

@@ -1,0 +1,15 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The original way to begin a game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White knight attacks the pawn. Black has a choice to play the philidor defense or the knights game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White knight attacks the pawn. Black has a choice to play the philidor defense or the knights game.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,black wants to develop his bishop to c5
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,White has a chance to grab the pawn on e5
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,nice move Berlin defense
+7,d3,d2d3,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,WTF?????????????????????????????????????? Who does that? You lose a pawn.
+8,Ne7,c6e7,r1bqkb1r/ppppnppp/5n2/1B2p3/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,WTF?????????????????????????????????????? Who does that? You lose a pawn.
+9,Nxe5,f3e5,r1bqkb1r/ppppnppp/5n2/1B2N3/4P3/3P4/PPP2PPP/RNBQK2R b KQkq - 0 5,Haha i took a pawn!!!!!
+10,c6,c7c6,r1bqkb1r/pp1pnppp/2p2n2/1B2N3/4P3/3P4/PPP2PPP/RNBQK2R w KQkq - 0 6,Die bishop!
+11,Bc4,b5c4,r1bqkb1r/pp1pnppp/2p2n2/4N3/2B1P3/3P4/PPP2PPP/RNBQK2R b KQkq - 1 6,White didn't see the trap sprung by qa5. This is the Mortimer trap
+12,Qa5+,d8a5,r1b1kb1r/pp1pnppp/2p2n2/q3N3/2B1P3/3P4/PPP2PPP/RNBQK2R w KQkq - 2 7,This is the mortimer trap
+13,Nc3,b1c3,r1b1kb1r/pp1pnppp/2p2n2/q3N3/2B1P3/2NP4/PPP2PPP/R1BQK2R b KQkq - 3 7,This is the mortimer trap
+14,Qxe5,a5e5,r1b1kb1r/pp1pnppp/2p2n2/4q3/2B1P3/2NP4/PPP2PPP/R1BQK2R w KQkq - 0 8,This is the mortimer trap

@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"According to theory, dxc4 is not the best move.  This isn't really a gambit you want to bite on."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"According to theory, dxc4 is not the best move.  This isn't really a gambit you want to bite on."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"According to theory, dxc4 is not the best move.  This isn't really a gambit you want to bite on."
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"According to theory, dxc4 is not the best move.  This isn't really a gambit you want to bite on."
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,"At this point, white has an advantage in space.  Your d and e pawns control the center -- c5, d5, e5, and f5."
+6,e5,e7e5,rnbqkbnr/ppp2ppp/8/4p3/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,"You should have played Nf3, but d5 is also ok. Generally speaking, the tension you had before d5 was working in your favor.  The player who breaks that tension usually suffers by doing so."
+7,d5,d4d5,rnbqkbnr/ppp2ppp/8/3Pp3/2p1P3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,"You should have played Nf3, but d5 is also ok. Generally speaking, the tension you had before d5 was working in your favor.  The player who breaks that tension usually suffers by doing so."
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3Pp3/2p1P3/8/PP3PPP/RNBQKBNR w KQkq - 1 5,"Why not Qc2?  You get your queen off the back rank and threaten the pawn on c4. Actually, f3 is a mistake (not a blunder). You hinder the development of your knight and your bishop. Ne2 closes you bishop in, unless of course you take the pawn on c4."
+9,f3,f2f3,rnbqkb1r/ppp2ppp/5n2/3Pp3/2p1P3/5P2/PP4PP/RNBQKBNR b KQkq - 0 5,"Why not Qc2?  You get your queen off the back rank and threaten the pawn on c4. Actually, f3 is a mistake (not a blunder). You hinder the development of your knight and your bishop. Ne2 closes you bishop in, unless of course you take the pawn on c4."
+10,c6,c7c6,rnbqkb1r/pp3ppp/2p2n2/3Pp3/2p1P3/5P2/PP4PP/RNBQKBNR w KQkq - 0 6,Nc3!
+11,Bxc4,f1c4,rnbqkb1r/pp3ppp/2p2n2/3Pp3/2B1P3/5P2/PP4PP/RNBQK1NR b KQkq - 0 6,Nc3!
+12,Bb4+,f8b4,rnbqk2r/pp3ppp/2p2n2/3Pp3/1bB1P3/5P2/PP4PP/RNBQK1NR w KQkq - 1 7,Nc3!
+13,Nc3,b1c3,rnbqk2r/pp3ppp/2p2n2/3Pp3/1bB1P3/2N2P2/PP4PP/R1BQK1NR b KQkq - 2 7,Nc3!
+14,O-O,e8g8,rnbq1rk1/pp3ppp/2p2n2/3Pp3/1bB1P3/2N2P2/PP4PP/R1BQK1NR w KQ - 3 8,"Black could have played cxd5, which would have been a pain for you."
+15,Bg5,c1g5,rnbq1rk1/pp3ppp/2p2n2/3Pp1B1/1bB1P3/2N2P2/PP4PP/R2QK1NR b KQ - 4 8,"While there is nothing wrong with Bg5, Be3 was stronger."
+16,cxd5,c6d5,rnbq1rk1/pp3ppp/5n2/3pp1B1/1bB1P3/2N2P2/PP4PP/R2QK1NR w KQ - 0 9,This shouldn't have been a surprise.
+17,Bxd5,c4d5,rnbq1rk1/pp3ppp/5n2/3Bp1B1/1b2P3/2N2P2/PP4PP/R2QK1NR b KQ - 0 9,This shouldn't have been a surprise.
+18,Nbd7,b8d7,r1bq1rk1/pp1n1ppp/5n2/3Bp1B1/1b2P3/2N2P2/PP4PP/R2QK1NR w KQ - 1 10,You are very much in this game.  Black has a slight edge and Nbd7 wasn't the strongest move out there.
+19,Qb3,d1b3,r1bq1rk1/pp1n1ppp/5n2/3Bp1B1/1b2P3/1QN2P2/PP4PP/R3K1NR b KQ - 2 10,A better move would have been Nge2.  Now you are almost done developing.
+20,Nc5,d7c5,r1bq1rk1/pp3ppp/5n2/2nBp1B1/1b2P3/1QN2P2/PP4PP/R3K1NR w KQ - 3 11,"This is okay, but Qb6 is even better."
+21,Qc4,b3c4,r1bq1rk1/pp3ppp/5n2/2nBp1B1/1bQ1P3/2N2P2/PP4PP/R3K1NR b KQ - 4 11,The queen should have gone back to c2.
+22,Bd7,c8d7,r2q1rk1/pp1b1ppp/5n2/2nBp1B1/1bQ1P3/2N2P2/PP4PP/R3K1NR w KQ - 5 12,Now black is got a definite advantage.
+23,O-O-O,e1c1,r2q1rk1/pp1b1ppp/5n2/2nBp1B1/1bQ1P3/2N2P2/PP4PP/2KR2NR b - - 6 12,This is a mistake.  You're castling into the lion's den.  Rd1 was a better option.
+24,Bxc3,b4c3,r2q1rk1/pp1b1ppp/5n2/2nBp1B1/2Q1P3/2b2P2/PP4PP/2KR2NR w - - 0 13,This was a very strong move for black!  He's threatening to ruin your defenses. bxc3 leaves a gaping hole.
+25,bxc3,b2c3,r2q1rk1/pp1b1ppp/5n2/2nBp1B1/2Q1P3/2P2P2/P5PP/2KR2NR b - - 0 13,"At this point, you are losing and almost lost.  Look at how coordinated blacks pieces are.  He is in a great position to wipe out most of your queen-side."
+26,Rc8,a8c8,2rq1rk1/pp1b1ppp/5n2/2nBp1B1/2Q1P3/2P2P2/P5PP/2KR2NR w - - 1 14,"At this point, you are losing and almost lost.  Look at how coordinated blacks pieces are.  He is in a great position to wipe out most of your queen-side."
+27,Qb4,c4b4,2rq1rk1/pp1b1ppp/5n2/2nBp1B1/1Q2P3/2P2P2/P5PP/2KR2NR b - - 2 14,What were your thoughts here?  This is a big boo-boo. Black should have played Nxd5 and you would have played Bxc8 and then Nxd4 and then Be7 and then Nxa2+ and you're a goner.
+28,a5,a7a5,2rq1rk1/1p1b1ppp/5n2/p1nBp1B1/1Q2P3/2P2P2/P5PP/2KR2NR w - - 0 15,"This is one of black's bigger mistakes!  You could have clawed back into it by playing Qa3.  Next for black would have been Qb6, Bb3, h6, Bxf6, Qxf6 and you still have a chance."
+29,Bxf6,g5f6,2rq1rk1/1p1b1ppp/5B2/p1nBp3/1Q2P3/2P2P2/P5PP/2KR2NR b - - 0 15,Qxa5 is not worth your time.  Qb1 and then c4 would have been better.
+30,Qxf6,d8f6,2r2rk1/1p1b1ppp/5q2/p1nBp3/1Q2P3/2P2P2/P5PP/2KR2NR w - - 0 16,Qxa5 is not worth your time.  Qb1 and then c4 would have been better.
+31,Qxa5,b4a5,2r2rk1/1p1b1ppp/5q2/Q1nBp3/4P3/2P2P2/P5PP/2KR2NR b - - 0 16,You'll drop a piece with this move -- your knight.
+32,Qg5+,f6g5,2r2rk1/1p1b1ppp/8/Q1nBp1q1/4P3/2P2P2/P5PP/2KR2NR w - - 1 17,You'll drop a piece with this move -- your knight.

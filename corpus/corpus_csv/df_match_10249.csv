@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,he opens the way i usually do
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,so i naturally match
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,nothing surprising
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,defend the pawn and get the knight out
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,the same
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 4 4,we're mirroring each other fine for now
+7,Nd5,c3d5,r1bqk1nr/pppp1ppp/2n5/2bNp3/2B1P3/8/PPPP1PPP/R1BQK1NR b KQkq - 5 4,"there's a more daring move. no immediate attack but it does trap my queen till i can either get rid of that knight or castle, otherwise he'll have a king/rook forked check"
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2bNp3/2B1P3/8/PPPP1PPP/R1BQK1NR w KQkq - 6 5,so i set up a sacrifice
+9,f4,f2f4,r1bqk2r/pppp1ppp/2n2n2/2bNp3/2B1PP2/8/PPPP2PP/R1BQK1NR b KQkq - 0 5,"that complicates matters quite a bit, plenty of options here"
+10,Nxe4,f6e4,r1bqk2r/pppp1ppp/2n5/2bNp3/2B1nP2/8/PPPP2PP/R1BQK1NR w KQkq - 0 6,"he probably expected me to either take f4 or trade the knights, this move obviously threw him for a bit of a loop, and his obvious next move might be to take e5 and trade pawns, but that would clearly give me a positional advantage with my two knights controlling the middle and my king still ready to castle"
+11,Ne3,d5e3,r1bqk2r/pppp1ppp/2n5/2b1p3/2B1nP2/4N3/PPPP2PP/R1BQK1NR b KQkq - 1 6,"the alternatives might not have been pretty, but i don't get this move at all. i would've guessed d2 to d3 to chase off my knight and delay the pawn exchange"
+12,exf4,e5f4,r1bqk2r/pppp1ppp/2n5/2b5/2B1np2/4N3/PPPP2PP/R1BQK1NR w KQkq - 0 7,"instead, i take his pawn, and now he's moved his knight right into its attack path so he's going to have to waste another move defending it"
+13,d4,d2d4,r1bqk2r/pppp1ppp/2n5/2b5/2BPnp2/4N3/PPP3PP/R1BQK1NR b KQkq - 0 7,"now he finally moves that d pawn, but this still doesn't make much sense, as my bishop is obviously not in real danger here and that d pawn is now doomed - it does force me to delay taking his knight though"
+14,Nxd4,c6d4,r1bqk2r/pppp1ppp/8/2b5/2Bnnp2/4N3/PPP3PP/R1BQK1NR w KQkq - 0 8,"so i take the pawn, and i'm back out of danger"
+15,Nf3,g1f3,r1bqk2r/pppp1ppp/8/2b5/2Bnnp2/4NN2/PPP3PP/R1BQK2R b KQkq - 1 8,"not bad, he's setting up a lot of options here. if i just take the knight at e3, he takes the one at d4 and he'll have the definite positional advantage. if i instead take the knight at f3, that enables his queen to come into play pretty decisively and make a real mess of things over there. so time for creative thinking"
+16,Nd6,e4d6,r1bqk2r/pppp1ppp/3n4/2b5/2Bn1p2/4NN2/PPP3PP/R1BQK2R w KQkq - 2 9,"so that's creative thinking, and not looking so hot now that i see it - no better than the other options already mentioned. now this is basically just looking like a mess of piece exchanges"
+17,Nxd4,f3d4,r1bqk2r/pppp1ppp/3n4/2b5/2BN1p2/4N3/PPP3PP/R1BQK2R b KQkq - 0 9,and it begins
+18,Bxd4,c5d4,r1bqk2r/pppp1ppp/3n4/8/2Bb1p2/4N3/PPP3PP/R1BQK2R w KQkq - 0 10,"now this was kind of silly - it would seem to be exchanging my knight and bishop for just his knight. i clearly should have sent the knight at d6 to take the bishop at c4, and then there'd at least be an even exchange. as it is, it would seem like i'd only come even out of this because i'd already decimated a bunch of his pawns"
+19,O-O,e1g1,r1bqk2r/pppp1ppp/3n4/8/2Bb1p2/4N3/PPP3PP/R1BQ1RK1 b kq - 1 10,"but, much to my surprise, he doesn't take the ridiculous bait and castles instead, leaving me some room to redeem myself"
+20,fxe3,f4e3,r1bqk2r/pppp1ppp/3n4/8/2Bb4/4p3/PPP3PP/R1BQ1RK1 w kq - 0 11,"i decide i might as well see what i can get here. again, a bad move. i should have used the bishop to take the knight, putting his king in check and thereby assuring that he'd have to trade his bishop for mine, so i'd get a bishop & a knight for just one bishop. a couple of big tactical errors early on here, and the middle of the board is almost cleared out already."

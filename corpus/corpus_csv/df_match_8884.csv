@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"e4 alotus, ainoa paras."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Sisialainen puolustus, t�t� k�ytti itse Gasparov yleens�."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,sotilasvaihto
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,sotilasvaihto
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,sotilasvaihto
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,sotilasvaihto
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,heppa suojaan ja uhkaamaan solttua d6:ssa.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,heppa suojaan ja uhkaamaan solttua d6:ssa.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,heppa suojaan ja uhkaamaan solttua d6:ssa.
+10,e5,e7e5,rnbqkb1r/pp3ppp/3p1n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,heppa suojaan ja uhkaamaan solttua d6:ssa.
+11,Bb5+,f1b5,rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6,heppa suojaan ja uhkaamaan solttua d6:ssa.
+12,Nbd7,b8d7,r1bqkb1r/pp1n1ppp/3p1n2/1B2p3/3NP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 7,heppa suojaan ja uhkaamaan solttua d6:ssa.
+13,Nf5,d4f5,r1bqkb1r/pp1n1ppp/3p1n2/1B2pN2/4P3/2N5/PPP2PPP/R1BQK2R b KQkq - 3 7,heppa suojaan ja uhkaamaan solttua d6:ssa.
+14,g6,g7g6,r1bqkb1r/pp1n1p1p/3p1np1/1B2pN2/4P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,"musta ei vissiin huomannu heikkoa solttua, kummallinen hy�kk�ys."
+15,Nxd6+,f5d6,r1bqkb1r/pp1n1p1p/3N1np1/1B2p3/4P3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 8,"?? kumma siirto, vaihtamalla daamit mustan kuningas saadaan liikkeella."
+16,Bxd6,f8d6,r1bqk2r/pp1n1p1p/3b1np1/1B2p3/4P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 9,"?? kumma siirto, vaihtamalla daamit mustan kuningas saadaan liikkeella."
+17,Qxd6,d1d6,r1bqk2r/pp1n1p1p/3Q1np1/1B2p3/4P3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 9,"?? kumma siirto, vaihtamalla daamit mustan kuningas saadaan liikkeella."
+18,Qe7,d8e7,r1b1k2r/pp1nqp1p/3Q1np1/1B2p3/4P3/2N5/PPP2PPP/R1B1K2R w KQkq - 1 10,"?? kumma siirto, vaihtamalla daamit mustan kuningas saadaan liikkeella."
+19,Qxe7+,d6e7,r1b1k2r/pp1nQp1p/5np1/1B2p3/4P3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 10,daami vaihto.
+20,Kxe7,e8e7,r1b4r/pp1nkp1p/5np1/1B2p3/4P3/2N5/PPP2PPP/R1B1K2R w KQ - 0 11,"kuningas liikkeelle, musta ei voi tornittaa."
+21,Bg5,c1g5,r1b4r/pp1nkp1p/5np1/1B2p1B1/4P3/2N5/PPP2PPP/R3K2R b KQ - 1 11,valkea sitoo mustan hevosen.
+22,Nb6,d7b6,r1b4r/pp2kp1p/1n3np1/1B2p1B1/4P3/2N5/PPP2PPP/R3K2R w KQ - 2 12,musta yritt�� kai saada l�hettins� peliin.
+23,O-O-O,e1c1,r1b4r/pp2kp1p/1n3np1/1B2p1B1/4P3/2N5/PPP2PPP/2KR3R b - - 3 12,Valkonen tornittaa ja saa samalla tornille avoimen linjan.
+24,Be6,c8e6,r6r/pp2kp1p/1n2bnp1/1B2p1B1/4P3/2N5/PPP2PPP/2KR3R w - - 4 13,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+25,Rhe1,h1e1,r6r/pp2kp1p/1n2bnp1/1B2p1B1/4P3/2N5/PPP2PPP/2KRR3 b - - 5 13,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+26,a6,a7a6,r6r/1p2kp1p/pn2bnp1/1B2p1B1/4P3/2N5/PPP2PPP/2KRR3 w - - 0 14,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+27,Be2,b5e2,r6r/1p2kp1p/pn2bnp1/4p1B1/4P3/2N5/PPP1BPPP/2KRR3 b - - 1 14,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+28,Rhd8,h8d8,r2r4/1p2kp1p/pn2bnp1/4p1B1/4P3/2N5/PPP1BPPP/2KRR3 w - - 2 15,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+29,b3,b2b3,r2r4/1p2kp1p/pn2bnp1/4p1B1/4P3/1PN5/P1P1BPPP/2KRR3 b - - 0 15,"Valkea valmistelee hepan peliin ottoa, a2 solttua suojaava liike."
+30,Rac8,a8c8,2rr4/1p2kp1p/pn2bnp1/4p1B1/4P3/1PN5/P1P1BPPP/2KRR3 w - - 1 16,Tornivaihto suojaa valkean hevosen.
+31,Rxd8,d1d8,2rR4/1p2kp1p/pn2bnp1/4p1B1/4P3/1PN5/P1P1BPPP/2K1R3 b - - 0 16,Tornivaihto suojaa valkean hevosen.
+32,Rxd8,c8d8,3r4/1p2kp1p/pn2bnp1/4p1B1/4P3/1PN5/P1P1BPPP/2K1R3 w - - 0 17,"!! Valkea uhkaa sy�d� musta sidotun hevosen. Jos - e5xf4, niin e5!"
+33,f4,f2f4,3r4/1p2kp1p/pn2bnp1/4p1B1/4PP2/1PN5/P1P1B1PP/2K1R3 b - - 0 17,"!! Valkea uhkaa sy�d� musta sidotun hevosen. Jos - e5xf4, niin e5!"
+34,h6,h7h6,3r4/1p2kp2/pn2bnpp/4p1B1/4PP2/1PN5/P1P1B1PP/2K1R3 w - - 0 18,musta yritt�� purkaa tilannetta.
+35,Bxh6,g5h6,3r4/1p2kp2/pn2bnpB/4p3/4PP2/1PN5/P1P1B1PP/2K1R3 b - - 0 18,"Tilanne jatkuu, mustan olisi ehk� pit�nyt siirt�� hevosta tai kunkkua."
+36,Rh8,d8h8,7r/1p2kp2/pn2bnpB/4p3/4PP2/1PN5/P1P1B1PP/2K1R3 w - - 1 19,"Tilanne jatkuu, mustan olisi ehk� pit�nyt siirt�� hevosta tai kunkkua."
+37,Bg5,h6g5,7r/1p2kp2/pn2bnp1/4p1B1/4PP2/1PN5/P1P1B1PP/2K1R3 b - - 2 19,"Tilanne jatkuu, mustan olisi ehk� pit�nyt siirt�� hevosta tai kunkkua."
+38,Nbd7,b6d7,7r/1p1nkp2/p3bnp1/4p1B1/4PP2/1PN5/P1P1B1PP/2K1R3 w - - 3 20,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+39,h3,h2h3,7r/1p1nkp2/p3bnp1/4p1B1/4PP2/1PN4P/P1P1B1P1/2K1R3 b - - 0 20,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+40,Rc8,h8c8,2r5/1p1nkp2/p3bnp1/4p1B1/4PP2/1PN4P/P1P1B1P1/2K1R3 w - - 1 21,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+41,Nd5+,c3d5,2r5/1p1nkp2/p3bnp1/3Np1B1/4PP2/1P5P/P1P1B1P1/2K1R3 b - - 2 21,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+42,Bxd5,e6d5,2r5/1p1nkp2/p4np1/3bp1B1/4PP2/1P5P/P1P1B1P1/2K1R3 w - - 0 22,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+43,exd5,e4d5,2r5/1p1nkp2/p4np1/3Pp1B1/5P2/1P5P/P1P1B1P1/2K1R3 b - - 0 22,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+44,Kd6,e7d6,2r5/1p1n1p2/p2k1np1/3Pp1B1/5P2/1P5P/P1P1B1P1/2K1R3 w - - 1 23,musta siirt�� kuninkaansa pois paljastus shakin uhasta ja menett�� hepan.
+45,fxe5+,f4e5,2r5/1p1n1p2/p2k1np1/3PP1B1/8/1P5P/P1P1B1P1/2K1R3 b - - 0 23,"paljastusshakin vuoksi musta ei sy� sotilasta. Jos Kxe5, niin Bb5, jolloin hevonen menee joka tapauksessa."
+46,Kc7,d6c7,2r5/1pkn1p2/p4np1/3PP1B1/8/1P5P/P1P1B1P1/2K1R3 w - - 1 24,"paljastusshakin vuoksi musta ei sy� sotilasta. Jos Kxe5, niin Bb5, jolloin hevonen menee joka tapauksessa."
+47,exf6,e5f6,2r5/1pkn1p2/p4Pp1/3P2B1/8/1P5P/P1P1B1P1/2K1R3 b - - 0 24,"valkea sitoo hevosen tornin eteen, jos musta suojaa - Rd8, niin Re7 ja tilanne on tukala. Musta luovuttaa."
+48,Kb8,c7b8,1kr5/1p1n1p2/p4Pp1/3P2B1/8/1P5P/P1P1B1P1/2K1R3 w - - 1 25,"valkea sitoo hevosen tornin eteen, jos musta suojaa - Rd8, niin Re7 ja tilanne on tukala. Musta luovuttaa."
+49,Bg4,e2g4,1kr5/1p1n1p2/p4Pp1/3P2B1/6B1/1P5P/P1P3P1/2K1R3 b - - 2 25,"valkea sitoo hevosen tornin eteen, jos musta suojaa - Rd8, niin Re7 ja tilanne on tukala. Musta luovuttaa."

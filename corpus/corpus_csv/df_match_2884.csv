@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Normal London setting.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Normal London setting.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Normal London setting.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Normal London setting.
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Normal London setting.
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Normal London setting.
+7,e3,e2e3,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"Black looks for attack right away on the queenside, and it is not a bad strategy."
+8,a6,a7a6,rnbqkbnr/1p3ppp/p3p3/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,"Black looks for attack right away on the queenside, and it is not a bad strategy."
+9,Nbd2,b1d2,rnbqkbnr/1p3ppp/p3p3/2pp4/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 1 5,I cannot allow black to penetrate too easily.
+10,Nc6,b8c6,r1bqkbnr/1p3ppp/p1n1p3/2pp4/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 2 6,I cannot allow black to penetrate too easily.
+11,c3,c2c3,r1bqkbnr/1p3ppp/p1n1p3/2pp4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQkq - 0 6,I cannot allow black to penetrate too easily.
+12,b6,b7b6,r1bqkbnr/5ppp/ppn1p3/2pp4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQkq - 0 7,"Better was B5, for that matter. But now I have a breath I don't fail to take."
+13,Ne5,f3e5,r1bqkbnr/5ppp/ppn1p3/2ppN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R b KQkq - 1 7,"The exchange leaves black completely undeveloped, and he must defend the knight."
+14,Bb7,c8b7,r2qkbnr/1b3ppp/ppn1p3/2ppN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R w KQkq - 2 8,"This slowens a lot black's attack on this side. But black's position is not all that weak, and if allowed to develop, will be as strong as mine."
+15,Qg4,d1g4,r2qkbnr/1b3ppp/ppn1p3/2ppN3/3P1BQ1/2P1P3/PP1N1PPP/R3KB1R b KQkq - 3 8,"So I decided to go to attack before the game switches again on the queenside. It was not a good idea Qh5 (threatening f7), black has many good ways to defend. But this move tempted him to..."
+16,Nf6,g8f6,r2qkb1r/1b3ppp/ppn1pn2/2ppN3/3P1BQ1/2P1P3/PP1N1PPP/R3KB1R w KQkq - 4 9,", of course, that is very good. Now let's prove that my queen out there is a threat or a loser."
+17,Qh4,g4h4,r2qkb1r/1b3ppp/ppn1pn2/2ppN3/3P1B1Q/2P1P3/PP1N1PPP/R3KB1R b KQkq - 5 9,"Better was h6, probably."
+18,Be7,f8e7,r2qk2r/1b2bppp/ppn1pn2/2ppN3/3P1B1Q/2P1P3/PP1N1PPP/R3KB1R w KQkq - 6 10,"Better was h6, probably."
+19,Qg3,h4g3,r2qk2r/1b2bppp/ppn1pn2/2ppN3/3P1B2/2P1P1Q1/PP1N1PPP/R3KB1R b KQkq - 7 10,"Now I expected Nh5, and my plan gets a question mark."
+20,O-O,e8g8,r2q1rk1/1b2bppp/ppn1pn2/2ppN3/3P1B2/2P1P1Q1/PP1N1PPP/R3KB1R w KQ - 8 11,"If Bh6, Nh5. But fortunately for me, my opponent overlooked Nh5 right now, so I can complete my scheme."
+21,Be2,f1e2,r2q1rk1/1b2bppp/ppn1pn2/2ppN3/3P1B2/2P1P1Q1/PP1NBPPP/R3K2R b KQ - 9 11,Now Bh6 is a threat.
+22,g6,g7g6,r2q1rk1/1b2bp1p/ppn1pnp1/2ppN3/3P1B2/2P1P1Q1/PP1NBPPP/R3K2R w KQ - 0 12,Good. It weakens his pawns. But this means that g6 is very near to...
+23,h4,h2h4,r2q1rk1/1b2bp1p/ppn1pnp1/2ppN3/3P1B1P/2P1P1Q1/PP1NBPP1/R3K2R b KQ - 0 12,"h5 would be nasty, but black should have preferred it to..."
+24,h5,h7h5,r2q1rk1/1b2bp2/ppn1pnp1/2ppN2p/3P1B1P/2P1P1Q1/PP1NBPP1/R3K2R w KQ - 0 13,"...because it gives me a ready-made position for a sac. Any other move and black goes NxN and I have to sac the lsb. Now, Bh6 could have been good. Re8, and I would have given a look at Nxf7."
+25,Nxg6,e5g6,r2q1rk1/1b2bp2/ppn1pnN1/2pp3p/3P1B1P/2P1P1Q1/PP1NBPP1/R3K2R b KQ - 0 13,NOw... what? This should be a winning position for white. I just have to find the right way. And I need more pieces into the attack.
+26,fxg6,f7g6,r2q1rk1/1b2b3/ppn1pnp1/2pp3p/3P1B1P/2P1P1Q1/PP1NBPP1/R3K2R w KQ - 0 14,NOw... what? This should be a winning position for white. I just have to find the right way. And I need more pieces into the attack.
+27,Qxg6+,g3g6,r2q1rk1/1b2b3/ppn1pnQ1/2pp3p/3P1B1P/2P1P3/PP1NBPP1/R3K2R b KQ - 0 14,NOw... what? This should be a winning position for white. I just have to find the right way. And I need more pieces into the attack.
+28,Kh8,g8h8,r2q1r1k/1b2b3/ppn1pnQ1/2pp3p/3P1B1P/2P1P3/PP1NBPP1/R3K2R w KQ - 1 15,NOw... what? This should be a winning position for white. I just have to find the right way. And I need more pieces into the attack.
+29,Rh3,h1h3,r2q1r1k/1b2b3/ppn1pnQ1/2pp3p/3P1B1P/2P1P2R/PP1NBPP1/R3K3 b Q - 2 15,...like a rook.
+30,Qe8,d8e8,r3qr1k/1b2b3/ppn1pnQ1/2pp3p/3P1B1P/2P1P2R/PP1NBPP1/R3K3 w Q - 3 16,I expected Rg8. It is interesting to see if black can defend in that line.
+31,Qh6+,g6h6,r3qr1k/1b2b3/ppn1pn1Q/2pp3p/3P1B1P/2P1P2R/PP1NBPP1/R3K3 b Q - 4 16,"No queen's exchange, my dear..."
+32,Nh7,f6h7,r3qr1k/1b2b2n/ppn1p2Q/2pp3p/3P1B1P/2P1P2R/PP1NBPP1/R3K3 w Q - 5 17,"Bxh5 was enough to win, I think."
+33,Bd3,e2d3,r3qr1k/1b2b2n/ppn1p2Q/2pp3p/3P1B1P/2PBP2R/PP1N1PP1/R3K3 b Q - 6 17,"Bxh5 was enough to win, I think."

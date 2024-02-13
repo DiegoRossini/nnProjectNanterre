@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+3,e4,e2e4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"C01: Defensa Francesa: Variante del Cambio, Montecarlo."
+7,c4,c2c4,rnbqkbnr/ppp2ppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4,(0.29)
+8,c6,c7c6,rnbqkbnr/pp3ppp/2p5/3p4/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5,(0.29)
+9,Nc3,b1c3,rnbqkbnr/pp3ppp/2p5/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 1 5,(0.29)
+10,Bb4,f8b4,rnbqk1nr/pp3ppp/2p5/3p4/1bPP4/2N5/PP3PPP/R1BQKBNR w KQkq - 2 6,(0.37)
+11,Nf3,g1f3,rnbqk1nr/pp3ppp/2p5/3p4/1bPP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 3 6,(0.37)
+12,Bg4,c8g4,rn1qk1nr/pp3ppp/2p5/3p4/1bPP2b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 4 7,(0.49)
+13,Be2,f1e2,rn1qk1nr/pp3ppp/2p5/3p4/1bPP2b1/2N2N2/PP2BPPP/R1BQK2R b KQkq - 5 7,(0.36)
+14,Nf6,g8f6,rn1qk2r/pp3ppp/2p2n2/3p4/1bPP2b1/2N2N2/PP2BPPP/R1BQK2R w KQkq - 6 8,(0.34)
+15,O-O,e1g1,rn1qk2r/pp3ppp/2p2n2/3p4/1bPP2b1/2N2N2/PP2BPPP/R1BQ1RK1 b kq - 7 8,(0.43)
+16,O-O,e8g8,rn1q1rk1/pp3ppp/2p2n2/3p4/1bPP2b1/2N2N2/PP2BPPP/R1BQ1RK1 w - - 8 9,(0.42)
+17,cxd5,c4d5,rn1q1rk1/pp3ppp/2p2n2/3P4/1b1P2b1/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 9,(0.38)
+18,cxd5,c6d5,rn1q1rk1/pp3ppp/5n2/3p4/1b1P2b1/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 10,(0.32)
+19,a3,a2a3,rn1q1rk1/pp3ppp/5n2/3p4/1b1P2b1/P1N2N2/1P2BPPP/R1BQ1RK1 b - - 0 10,(0.02)
+20,Ba5,b4a5,rn1q1rk1/pp3ppp/5n2/b2p4/3P2b1/P1N2N2/1P2BPPP/R1BQ1RK1 w - - 1 11,"(0.45) Algo mejor era : 10... Bxc3 11. bxc3 Ne4 12. Qb3 Nc6 13. Qxb7 Nxc3 14. Bd3 Qb6 15. Qxb6 axb6 16. Bd2 Ne4  )
+Si 10... Ba5 entonces 11. h3 Bf5 12. g4 Bxc3 13. bxc3 Be4 14. Bf4 Nc6 15. Qb3 Bxf3 16. Bxf3 con ligera ventaja para las blancas"
+21,b4,b2b4,rn1q1rk1/pp3ppp/5n2/b2p4/1P1P2b1/P1N2N2/4BPPP/R1BQ1RK1 b - - 0 11,(0.43)
+22,Bb6,a5b6,rn1q1rk1/pp3ppp/1b3n2/3p4/1P1P2b1/P1N2N2/4BPPP/R1BQ1RK1 w - - 1 12,(0.37)
+23,Bg5,c1g5,rn1q1rk1/pp3ppp/1b3n2/3p2B1/1P1P2b1/P1N2N2/4BPPP/R2Q1RK1 b - - 2 12,(0.35)
+24,Be6,g4e6,rn1q1rk1/pp3ppp/1b2bn2/3p2B1/1P1P4/P1N2N2/4BPPP/R2Q1RK1 w - - 3 13,(0.63)
+25,h3,h2h3,rn1q1rk1/pp3ppp/1b2bn2/3p2B1/1P1P4/P1N2N1P/4BPP1/R2Q1RK1 b - - 0 13,(0.32)
+26,Nbd7,b8d7,r2q1rk1/pp1n1ppp/1b2bn2/3p2B1/1P1P4/P1N2N1P/4BPP1/R2Q1RK1 w - - 1 14,"(0.73) Mala jugada. Era mejor 13... Nc6 14. b5 Na5 15. Bd3 Nc4 16. Qc2 h6 17. Bf4 Bc7 18. Ne5 Nxe5 19. dxe5 con posición igualada.
+Con  13... Nbd7 14. Bd3 h6 15. Bf4 Re8 16. Re1 Bc7 17. Bxc7 Qxc7 18. Qb3 Rac8 con ventaja para las blancas."
+27,Bh4,g5h4,r2q1rk1/pp1n1ppp/1b2bn2/3p4/1P1P3B/P1N2N1P/4BPP1/R2Q1RK1 b - - 2 14,(0.38)

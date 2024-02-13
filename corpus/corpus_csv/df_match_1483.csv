@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings pawn opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,standard
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Not so common
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,4 move checkmate alert!
+5,Qf3,d1f3,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,4 move checkmate alert!
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,Block
+7,Nc3,b1c3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 5 4,Developing...
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 6 5,Developing...
+9,Nge2,g1e2,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2Q2/PPPPNPPP/R1B1K2R b KQkq - 7 5,Castle
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2Q2/PPPPNPPP/R1B1K2R w KQ - 8 6,Castle
+11,d3,d2d3,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1Q2/PPP1NPPP/R1B1K2R b KQ - 0 6,More development(BSB).
+12,Nd4,c6d4,r1bq1rk1/pppp1ppp/5n2/2b1p3/2BnP3/2NP1Q2/PPP1NPPP/R1B1K2R w KQ - 1 7,Queen attack and trade
+13,Qf5,f3f5,r1bq1rk1/pppp1ppp/5n2/2b1pQ2/2BnP3/2NP4/PPP1NPPP/R1B1K2R b KQ - 2 7,"didnt see the queen was attacked, focused on fork"
+14,d5,d7d5,r1bq1rk1/ppp2ppp/5n2/2bppQ2/2BnP3/2NP4/PPP1NPPP/R1B1K2R w KQ - 0 8,Pawn hunting
+15,Qxe5,f5e5,r1bq1rk1/ppp2ppp/5n2/2bpQ3/2BnP3/2NP4/PPP1NPPP/R1B1K2R b KQ - 0 8,Pawn hunting
+16,Nxc2+,d4c2,r1bq1rk1/ppp2ppp/5n2/2bpQ3/2B1P3/2NP4/PPn1NPPP/R1B1K2R w KQ - 0 9,fork i was talking about
+17,Kd2,e1d2,r1bq1rk1/ppp2ppp/5n2/2bpQ3/2B1P3/2NP4/PPnKNPPP/R1B4R b - - 1 9,Free rook
+18,Nxa1,c2a1,r1bq1rk1/ppp2ppp/5n2/2bpQ3/2B1P3/2NP4/PP1KNPPP/n1B4R w - - 0 10,Free rook
+19,Bxd5,c4d5,r1bq1rk1/ppp2ppp/5n2/2bBQ3/4P3/2NP4/PP1KNPPP/n1B4R b - - 0 10,Free pawn(not very useful)
+20,Bxf2,c5f2,r1bq1rk1/ppp2ppp/5n2/3BQ3/4P3/2NP4/PP1KNbPP/n1B4R w - - 0 11,Free pawn(not very useful)
+21,b3,b2b3,r1bq1rk1/ppp2ppp/5n2/3BQ3/4P3/1PNP4/P2KNbPP/n1B4R b - - 0 11,Trade
+22,Nxd5,f6d5,r1bq1rk1/ppp2ppp/8/3nQ3/4P3/1PNP4/P2KNbPP/n1B4R w - - 0 12,Trade
+23,exd5,e4d5,r1bq1rk1/ppp2ppp/8/3PQ3/8/1PNP4/P2KNbPP/n1B4R b - - 0 12,Expected
+24,Bg4,c8g4,r2q1rk1/ppp2ppp/8/3PQ3/6b1/1PNP4/P2KNbPP/n1B4R w - - 1 13,"Pin to the knight, but its defended"
+25,Ba3,c1a3,r2q1rk1/ppp2ppp/8/3PQ3/6b1/BPNP4/P2KNbPP/n6R b - - 2 13,"Pin to the knight, but its defended"
+26,Re8,f8e8,r2qr1k1/ppp2ppp/8/3PQ3/6b1/BPNP4/P2KNbPP/n6R w - - 3 14,"Pin to the knight, but its defended"
+27,Qd4,e5d4,r2qr1k1/ppp2ppp/8/3P4/3Q2b1/BPNP4/P2KNbPP/n6R b - - 4 14,And a free queen
+28,Bxd4,f2d4,r2qr1k1/ppp2ppp/8/3P4/3b2b1/BPNP4/P2KN1PP/n6R w - - 0 15,Got the queen
+29,Nxd4,e2d4,r2qr1k1/ppp2ppp/8/3P4/3N2b1/BPNP4/P2K2PP/n6R b - - 0 15,Expected

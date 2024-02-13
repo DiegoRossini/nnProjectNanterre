@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Over the board game
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Caro-Kann
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Caro-Kann
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Caro-Kann
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,The aggressive Panov-Botvinik attack
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,The aggressive Panov-Botvinik attack
+7,c4,c2c4,rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4,The aggressive Panov-Botvinik attack
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/3p4/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5,"I don't know what the purpose of this move is, I just move it there.  I have seen other games from top players and this is common.  Maybe it's meant to block a check?"
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5,"I don't know what the purpose of this move is, I just move it there.  I have seen other games from top players and this is common.  Maybe it's meant to block a check?"
+10,Nc6,b8c6,r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 3 6,"I don't know what the purpose of this move is, I just move it there.  I have seen other games from top players and this is common.  Maybe it's meant to block a check?"
+11,Nf3,g1f3,r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 4 6,"So far, Standard book moves"
+12,Be6,c8e6,r2qkb1r/pp2pppp/2n1bn2/3p4/2PP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 5 7,!?  Playing Bishop-g4 can lead to exchanges and into the over-analysed endgame. Which White can gain a favorable position.  By the way Be6 is a move I pick up from Peter Leko.
+13,c5,c4c5,r2qkb1r/pp2pppp/2n1bn2/2Pp4/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 7,Would Bxc6...bxc6 benefit White?
+14,g6,g7g6,r2qkb1r/pp2pp1p/2n1bnp1/2Pp4/3P4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 8,Would Bxc6...bxc6 benefit White?
+15,Bb5,f1b5,r2qkb1r/pp2pp1p/2n1bnp1/1BPp4/3P4/2N2N2/PP3PPP/R1BQK2R b KQkq - 1 8,Would Bxc6...bxc6 benefit White?
+16,Bg7,f8g7,r2qk2r/pp2ppbp/2n1bnp1/1BPp4/3P4/2N2N2/PP3PPP/R1BQK2R w KQkq - 2 9,Would Bxc6...bxc6 benefit White?
+17,O-O,e1g1,r2qk2r/pp2ppbp/2n1bnp1/1BPp4/3P4/2N2N2/PP3PPP/R1BQ1RK1 b kq - 3 9,Would Bxc6...bxc6 benefit White?
+18,O-O,e8g8,r2q1rk1/pp2ppbp/2n1bnp1/1BPp4/3P4/2N2N2/PP3PPP/R1BQ1RK1 w - - 4 10,Not wanting a pawn on c6 I retreat my Bishop
+19,Re1,f1e1,r2q1rk1/pp2ppbp/2n1bnp1/1BPp4/3P4/2N2N2/PP3PPP/R1BQR1K1 b - - 5 10,Not wanting a pawn on c6 I retreat my Bishop
+20,Bd7,e6d7,r2q1rk1/pp1bppbp/2n2np1/1BPp4/3P4/2N2N2/PP3PPP/R1BQR1K1 w - - 6 11,Not wanting a pawn on c6 I retreat my Bishop
+21,Ne5,f3e5,r2q1rk1/pp1bppbp/2n2np1/1BPpN3/3P4/2N5/PP3PPP/R1BQR1K1 b - - 7 11,!
+22,e6,e7e6,r2q1rk1/pp1b1pbp/2n1pnp1/1BPpN3/3P4/2N5/PP3PPP/R1BQR1K1 w - - 0 12,!
+23,Nxd7,e5d7,r2q1rk1/pp1N1pbp/2n1pnp1/1BPp4/3P4/2N5/PP3PPP/R1BQR1K1 b - - 0 12,
+24,Qxd7,d8d7,r4rk1/pp1q1pbp/2n1pnp1/1BPp4/3P4/2N5/PP3PPP/R1BQR1K1 w - - 0 13,
+25,a3,a2a3,r4rk1/pp1q1pbp/2n1pnp1/1BPp4/3P4/P1N5/1P3PPP/R1BQR1K1 b - - 0 13,
+26,b6,b7b6,r4rk1/p2q1pbp/1pn1pnp1/1BPp4/3P4/P1N5/1P3PPP/R1BQR1K1 w - - 0 14,
+27,b4,b2b4,r4rk1/p2q1pbp/1pn1pnp1/1BPp4/1P1P4/P1N5/5PPP/R1BQR1K1 b - - 0 14,How would 14;...a5 fare?
+28,bxc5,b6c5,r4rk1/p2q1pbp/2n1pnp1/1Bpp4/1P1P4/P1N5/5PPP/R1BQR1K1 w - - 0 15,How would 14;...a5 fare?
+29,bxc5,b4c5,r4rk1/p2q1pbp/2n1pnp1/1BPp4/3P4/P1N5/5PPP/R1BQR1K1 b - - 0 15,Getting out of the pin.  Note the Queen is on the c7 diagonal leading to his monarch.
+30,Qc7,d7c7,r4rk1/p1q2pbp/2n1pnp1/1BPp4/3P4/P1N5/5PPP/R1BQR1K1 w - - 1 16,Getting out of the pin.  Note the Queen is on the c7 diagonal leading to his monarch.
+31,Qa4,d1a4,r4rk1/p1q2pbp/2n1pnp1/1BPp4/Q2P4/P1N5/5PPP/R1B1R1K1 b - - 2 16,Double attacking the Knight
+32,Rfc8,f8c8,r1r3k1/p1q2pbp/2n1pnp1/1BPp4/Q2P4/P1N5/5PPP/R1B1R1K1 w - - 3 17,I didn't think of Nxd4
+33,Ba6,b5a6,r1r3k1/p1q2pbp/B1n1pnp1/2Pp4/Q2P4/P1N5/5PPP/R1B1R1K1 b - - 4 17,!!  Attacking two targets with one move
+34,Ng4,f6g4,r1r3k1/p1q2pbp/B1n1p1p1/2Pp4/Q2P2n1/P1N5/5PPP/R1B1R1K1 w - - 5 18,!!  Attacking two targets with one move
+35,Bxc8,a6c8,r1B3k1/p1q2pbp/2n1p1p1/2Pp4/Q2P2n1/P1N5/5PPP/R1B1R1K1 b - - 0 18,hmm... Taking the bait
+36,Qxh2+,c7h2,r1B3k1/p4pbp/2n1p1p1/2Pp4/Q2P2n1/P1N5/5PPq/R1B1R1K1 w - - 0 19,If anybody sees a better continuation please comment
+37,Kf1,g1f1,r1B3k1/p4pbp/2n1p1p1/2Pp4/Q2P2n1/P1N5/5PPq/R1B1RK2 b - - 1 19,If anybody sees a better continuation please comment
+38,Qh1+,h2h1,r1B3k1/p4pbp/2n1p1p1/2Pp4/Q2P2n1/P1N5/5PP1/R1B1RK1q w - - 2 20,!
+39,Ke2,f1e2,r1B3k1/p4pbp/2n1p1p1/2Pp4/Q2P2n1/P1N5/4KPP1/R1B1R2q b - - 3 20,!
+40,Nxd4+,c6d4,r1B3k1/p4pbp/4p1p1/2Pp4/Q2n2n1/P1N5/4KPP1/R1B1R2q w - - 0 21,!
+41,Qxd4,a4d4,r1B3k1/p4pbp/4p1p1/2Pp4/3Q2n1/P1N5/4KPP1/R1B1R2q b - - 0 21,!
+42,Qxe1+,h1e1,r1B3k1/p4pbp/4p1p1/2Pp4/3Q2n1/P1N5/4KPP1/R1B1q3 w - - 0 22,!
+43,Kxe1,e2e1,r1B3k1/p4pbp/4p1p1/2Pp4/3Q2n1/P1N5/5PP1/R1B1K3 b - - 0 22,?
+44,Bxd4,g7d4,r1B3k1/p4p1p/4p1p1/2Pp4/3b2n1/P1N5/5PP1/R1B1K3 w - - 0 23,?
+45,Bb7,c8b7,r5k1/pB3p1p/4p1p1/2Pp4/3b2n1/P1N5/5PP1/R1B1K3 b - - 1 23,?
+46,Bxc3+,d4c3,r5k1/pB3p1p/4p1p1/2Pp4/6n1/P1b5/5PP1/R1B1K3 w - - 0 24,With check!  I didn't like moving my Rook to 23...Rb8 when he can protect it with 24.Rb1 nor did I like 24.c6

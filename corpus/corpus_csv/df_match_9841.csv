@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I'm at that point in my chess adventure that I have a few openings I feel comfortable with, and trust my tactical and positional instincts to get me through unknown lines. The French is one of those; I love its stable pawn structure and intense queenside play. However, I've learned chess ""backwards"" as to what is proper, concentrating on opening lines instead of endgame basis, and I often lose evenly matched endgames. Part of this is due to my limited ability to calculate long series of moves (as I'm no chess savant) and part of it is a fear of these types of endings (I'm much more comfortable mating in the late-middlegame).  So, this is exactly the type of game that I wish I had lost, or at least drawn - I made several severe severe endgame blunders that should have cost me the game, and I won only because my opponent (who had been playing extremely well) committed a more serious error than mine. In other words, a terrible way to win.
+
+The middle game is an excellent (and surprisingly accurate) example of the subdued positional jockeying that branches off into a little used variant of the French Defense at the eighth move. The themes expressed in this game are typical themes of the French: queenside play and a stable center pawn structure by black, with a concession of space and development to white.
+
+As always, all analysis has been supported by Crafty 20.14w32, the multi-threaded version of the Crafty engine."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Classical French system. Other options are: 3.Nd2 (Tarrasch:C03); 3. dxe4 (Exchange:C01); 3.c3 (also Exchange:C01), 3.e5 (Advance:C02)."
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Classical French system. Other options are: 3.Nd2 (Tarrasch:C03); 3. dxe4 (Exchange:C01); 3.c3 (also Exchange:C01), 3.e5 (Advance:C02)."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Classical French system. Other options are: 3.Nd2 (Tarrasch:C03); 3. dxe4 (Exchange:C01); 3.c3 (also Exchange:C01), 3.e5 (Advance:C02)."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"Classical French system. Other options are: 3.Nd2 (Tarrasch:C03); 3. dxe4 (Exchange:C01); 3.c3 (also Exchange:C01), 3.e5 (Advance:C02)."
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,This move transposes the game into the Steinitz variation of the Classical French (C11).
+7,e5,e4e5,rnbqkb1r/ppp2ppp/4pn2/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,This move transposes the game into the Steinitz variation of the Classical French (C11).
+8,Nfd7,f6d7,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"Standard opening book.
+
+Black's major plans are to advance the c-pawn to attack whites pawn chain, then ...Nc6 and ...Qb6, focusing all play on the queenside.  His light-bishop will obviously be an issue, being almost impossible to develop until the late middle-game.  This is a serious pain the ass, but not necessarily a major handicap; the conservative nature of the french means that as long as the black e- and d-pawns stand, it will be almost impossible for white to break through. 
+
+White's major plans are to defend his own center pawns and mount a kingside attack, often after both kings have been castled to opposite corners of the board.  Black can quickly overwhelm the d-pawn in particular, so careful play is needed. In the event that the d-pawn falls, the linked black center-pawns will eventually constitute a major advantage. In fact, these linked pawns are one of the biggest advantages of playing the French for black - these two pawns are often worth more than a rook in the end game (I give up a knight to maintain them in this game), and black's mission is to potect them at all cost!  Eventually, the d- and c- pawns will steamroll down the center of the board and promote early. In the event that white manages to shore up his pawn chain effectively, black will often sacrifice a knight to mount an attack."
+9,Nf3,g1f3,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,"This move is not a major named variation, but my database lists 1138 games for this position. Most major variations proceed 5. f4, shoring up the e5 pawn, as the d4 pawn is about to come under heavy fire (this is the main line of play)."
+10,c5,c7c5,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,The most popular reply.
+11,Be3,c1e3,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 1 6,6. dxc5 is the most popular choice here.
+12,Qb6,d8b6,rnb1kb1r/pp1n1ppp/1q2p3/2ppP3/3P4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 2 7,"Still in charted territory, although barely."
+13,b3,b2b3,rnb1kb1r/pp1n1ppp/1q2p3/2ppP3/3P4/1PN1BN2/P1P2PPP/R2QKB1R b KQkq - 0 7,"Still in charted territory, although barely."
+14,Nc6,b8c6,r1b1kb1r/pp1n1ppp/1qn1p3/2ppP3/3P4/1PN1BN2/P1P2PPP/R2QKB1R w KQkq - 1 8,"Still in charted territory, although barely."
+15,Na4,c3a4,r1b1kb1r/pp1n1ppp/1qn1p3/2ppP3/N2P4/1P2BN2/P1P2PPP/R2QKB1R b KQkq - 2 8,"This move marginalizes the white knight at the edge of the board, but alleviates the mounting pressure on the d-pawn by forcing the black queen to retreat. This drawback, however, is that this begin a long period of exile for the knight by placing it in a terrible position - always strive to centralize your knights - and white won't move him again until the 22nd move."
+16,Qc7,b6c7,r1b1kb1r/ppqn1ppp/2n1p3/2ppP3/N2P4/1P2BN2/P1P2PPP/R2QKB1R w KQkq - 3 9,The d-pawn falls
+17,Be2,f1e2,r1b1kb1r/ppqn1ppp/2n1p3/2ppP3/N2P4/1P2BN2/P1P1BPPP/R2QK2R b KQkq - 4 9,The d-pawn falls
+18,cxd4,c5d4,r1b1kb1r/ppqn1ppp/2n1p3/3pP3/N2p4/1P2BN2/P1P1BPPP/R2QK2R w KQkq - 0 10,The d-pawn falls
+19,Nxd4,f3d4,r1b1kb1r/ppqn1ppp/2n1p3/3pP3/N2N4/1P2B3/P1P1BPPP/R2QK2R b KQkq - 0 10,Not the best choice.
+20,Bb4+,f8b4,r1b1k2r/ppqn1ppp/2n1p3/3pP3/Nb1N4/1P2B3/P1P1BPPP/R2QK2R w KQkq - 1 11,Not the best choice.
+21,Bd2,e3d2,r1b1k2r/ppqn1ppp/2n1p3/3pP3/Nb1N4/1P6/P1PBBPPP/R2QK2R b KQkq - 2 11,"11. Bd2?
+
+11. c3 was better."
+22,Bxd2+,b4d2,r1b1k2r/ppqn1ppp/2n1p3/3pP3/N2N4/1P6/P1PbBPPP/R2QK2R w KQkq - 0 12,11. ...Nxd4 12. c3 (if 12.Bxb4 then 12. ...Nxc2!) was better
+23,Qxd2,d1d2,r1b1k2r/ppqn1ppp/2n1p3/3pP3/N2N4/1P6/P1PQBPPP/R3K2R b KQkq - 0 12,"Netting another pawn,  one that could potentially block my center pawns advancing down the center - my center pawns are looking stronger already."
+24,Nxd4,c6d4,r1b1k2r/ppqn1ppp/4p3/3pP3/N2n4/1P6/P1PQBPPP/R3K2R w KQkq - 0 13,"Netting another pawn,  one that could potentially block my center pawns advancing down the center - my center pawns are looking stronger already."
+25,Qxd4,d2d4,r1b1k2r/ppqn1ppp/4p3/3pP3/N2Q4/1P6/P1P1BPPP/R3K2R b KQkq - 0 13,"Netting another pawn,  one that could potentially block my center pawns advancing down the center - my center pawns are looking stronger already."
+26,Qxc2,c7c2,r1b1k2r/pp1n1ppp/4p3/3pP3/N2Q4/1P6/P1q1BPPP/R3K2R w KQkq - 0 14,"Netting another pawn,  one that could potentially block my center pawns advancing down the center - my center pawns are looking stronger already."
+27,Bd3,e2d3,r1b1k2r/pp1n1ppp/4p3/3pP3/N2Q4/1P1B4/P1q2PPP/R3K2R b KQkq - 1 14,Best was 15. ...Qxe5.
+28,Qc7,c2c7,r1b1k2r/ppqn1ppp/4p3/3pP3/N2Q4/1P1B4/P4PPP/R3K2R w KQkq - 2 15,Best was 15. ...Qxe5.
+29,O-O,e1g1,r1b1k2r/ppqn1ppp/4p3/3pP3/N2Q4/1P1B4/P4PPP/R4RK1 b kq - 3 15,Best was 15. ...Qxe5.
+30,Nxe5,d7e5,r1b1k2r/ppq2ppp/4p3/3pn3/N2Q4/1P1B4/P4PPP/R4RK1 w kq - 0 16,Best was 15. ...Qxe5.
+31,Rac1,a1c1,r1b1k2r/ppq2ppp/4p3/3pn3/N2Q4/1P1B4/P4PPP/2R2RK1 b kq - 1 16,17. Bb5 !
+32,Qd6,c7d6,r1b1k2r/pp3ppp/3qp3/3pn3/N2Q4/1P1B4/P4PPP/2R2RK1 w kq - 2 17,17. Bb5 !
+33,Bb5+,d3b5,r1b1k2r/pp3ppp/3qp3/1B1pn3/N2Q4/1P6/P4PPP/2R2RK1 b kq - 3 17,17. Bb5 !
+34,Bd7,c8d7,r3k2r/pp1b1ppp/3qp3/1B1pn3/N2Q4/1P6/P4PPP/2R2RK1 w kq - 4 18,"17. ...Bd7?
+Stupid."
+35,Bxd7+,b5d7,r3k2r/pp1B1ppp/3qp3/3pn3/N2Q4/1P6/P4PPP/2R2RK1 b kq - 0 18,"My pitiful 17th move now puts me between a rock and a hard place. I now have two options: give up the knight, or give up castling. 18. ...Nxd7?? 19. Qxg7! is terrible for me. Not only can I not castle in either direction, but I have to hide my king behind my center pawns where it will eventually be overwhelmed as white dominates every other area of the board.  Under these conditions, my vaunted linked center-pawns will be tied to providing cover for my king. 18. ...Kxd7 and the white knight comes back into the attack with a gain in tempo, 18. Nc5 !.
+
+I decide to give up the piece to maintain my center pawns and castling rights, and press my pawns up the board, proving how bad it sucks to be on the receiving end of the French endgame. Crafty hates me for this, but that's because it can't understand positional advantages without calculating for days on end."
+36,Qxd7,d6d7,r3k2r/pp1q1ppp/4p3/3pn3/N2Q4/1P6/P4PPP/2R2RK1 w kq - 0 19,"Advancing my center pawns with a gain in tempo. Now that most of the tension in the center has been resolved and there are no longer overwhelming tactical situations to consider, castling has become less necessary than gaining some momentum."
+37,Qxe5,d4e5,r3k2r/pp1q1ppp/4p3/3pQ3/N7/1P6/P4PPP/2R2RK1 b kq - 0 19,"Advancing my center pawns with a gain in tempo. Now that most of the tension in the center has been resolved and there are no longer overwhelming tactical situations to consider, castling has become less necessary than gaining some momentum."
+38,f6,f7f6,r3k2r/pp1q2pp/4pp2/3pQ3/N7/1P6/P4PPP/2R2RK1 w kq - 0 20,"Crafty likes 20. ...e5. In the event of a queen trade, most of the pressure will be off the king to castle, and it can move up to support the pawn advance by moving up the board under cover of the pawns. Another option was 20. ...b6."
+39,Qc7,e5c7,r3k2r/ppQq2pp/4pp2/3p4/N7/1P6/P4PPP/2R2RK1 b kq - 1 20,"Crafty likes 20. ...e5. In the event of a queen trade, most of the pressure will be off the king to castle, and it can move up to support the pawn advance by moving up the board under cover of the pawns. Another option was 20. ...b6."
+40,Qxc7,d7c7,r3k2r/ppq3pp/4pp2/3p4/N7/1P6/P4PPP/2R2RK1 w kq - 0 21,"Crafty likes 20. ...e5. In the event of a queen trade, most of the pressure will be off the king to castle, and it can move up to support the pawn advance by moving up the board under cover of the pawns. Another option was 20. ...b6."

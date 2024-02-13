@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"It was a nice sharp game by white, I've sacrificed a pawn to activate my a rook, then white managed to exchange a knight for three pawns and exposed my king in consequence of this, for some more moves I tried to explore the more active pieces I had and attack black's castle but my opponent found all the appropriate defenses so when draw was proposed I accepted immediately..."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,a symmetrical position let's see if white breaks it with Bg5...
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,a symmetrical position let's see if white breaks it with Bg5...
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,a symmetrical position let's see if white breaks it with Bg5...
+5,g3,g2g3,rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,a symmetrical position let's see if white breaks it with Bg5...
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,a symmetrical position let's see if white breaks it with Bg5...
+7,Bg2,f1g2,rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,a symmetrical position let's see if white breaks it with Bg5...
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,a symmetrical position let's see if white breaks it with Bg5...
+9,O-O,e1g1,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 3 5,a symmetrical position let's see if white breaks it with Bg5...
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 4 6,a symmetrical position let's see if white breaks it with Bg5...
+11,Bg5,c1g5,rnbq1rk1/ppp1ppbp/5np1/3p2B1/3P4/5NP1/PPP1PPBP/RN1Q1RK1 b - - 5 6,and he does
+12,Ne4,f6e4,rnbq1rk1/ppp1ppbp/6p1/3p2B1/3Pn3/5NP1/PPP1PPBP/RN1Q1RK1 w - - 6 7,Ne4 and now I expect Bf4 all others seams clearly worst for white
+13,Be3,g5e3,rnbq1rk1/ppp1ppbp/6p1/3p4/3Pn3/4BNP1/PPP1PPBP/RN1Q1RK1 b - - 7 7,"? fairly defensive... over protects the d pawn, and get himself in a very cramped position"
+14,c6,c7c6,rnbq1rk1/pp2ppbp/2p3p1/3p4/3Pn3/4BNP1/PPP1PPBP/RN1Q1RK1 w - - 0 8,avoids the exchange of knights
+15,Nbd2,b1d2,rnbq1rk1/pp2ppbp/2p3p1/3p4/3Pn3/4BNP1/PPPNPPBP/R2Q1RK1 b - - 1 8,avoids the exchange of knights
+16,Nd6,e4d6,rnbq1rk1/pp2ppbp/2pn2p1/3p4/3P4/4BNP1/PPPNPPBP/R2Q1RK1 w - - 2 9,avoids the exchange of knights
+17,c3,c2c3,rnbq1rk1/pp2ppbp/2pn2p1/3p4/3P4/2P1BNP1/PP1NPPBP/R2Q1RK1 b - - 0 9,the pawn structure is again symmetrical...
+18,Qb6,d8b6,rnb2rk1/pp2ppbp/1qpn2p1/3p4/3P4/2P1BNP1/PP1NPPBP/R2Q1RK1 w - - 1 10,now white needs a4 to prevent black's a4
+19,Nb3,d2b3,rnb2rk1/pp2ppbp/1qpn2p1/3p4/3P4/1NP1BNP1/PP2PPBP/R2Q1RK1 b - - 2 10,now white needs a4 to prevent black's a4
+20,a5,a7a5,rnb2rk1/1p2ppbp/1qpn2p1/p2p4/3P4/1NP1BNP1/PP2PPBP/R2Q1RK1 w - - 0 11,now white needs a4 to prevent black's a4
+21,Qc1,d1c1,rnb2rk1/1p2ppbp/1qpn2p1/p2p4/3P4/1NP1BNP1/PP2PPBP/R1Q2RK1 b - - 1 11,he might want to exchange dark squared bishops with Bh6
+22,a4,a5a4,rnb2rk1/1p2ppbp/1qpn2p1/3p4/p2P4/1NP1BNP1/PP2PPBP/R1Q2RK1 w - - 0 12,so I get to play a4 now white has either Nc5 with the idea of a latter Nd3 or he can play Nd2 in to a cramped position... I think he will chose Nc5 as his previous move might indicate he wants to exchange dark squared bishops and Nd2 prevents that...
+23,Nc5,b3c5,rnb2rk1/1p2ppbp/1qpn2p1/2Np4/p2P4/2P1BNP1/PP2PPBP/R1Q2RK1 b - - 1 12,aimed at e3
+24,Nc4,d6c4,rnb2rk1/1p2ppbp/1qp3p1/2Np4/p1nP4/2P1BNP1/PP2PPBP/R1Q2RK1 w - - 2 13,aimed at e3
+25,b3,b2b3,rnb2rk1/1p2ppbp/1qp3p1/2Np4/p1nP4/1PP1BNP1/P3PPBP/R1Q2RK1 b - - 0 13,axb3 axb3 and Rxa1 with the idea of Nxe3 to force double pawns on the e column or axb3 Nxb3 forced to avoid Bh6 that forces me to exchange my best bishop
+26,Nxe3,c4e3,rnb2rk1/1p2ppbp/1qp3p1/2Np4/p2P4/1PP1nNP1/P3PPBP/R1Q2RK1 w - - 0 14,now I must open the position to gain advantage for my bishop pair
+27,Qxe3,c1e3,rnb2rk1/1p2ppbp/1qp3p1/2Np4/p2P4/1PP1QNP1/P3PPBP/R4RK1 b - - 0 14,places the rook on the same column as white's queen while sacrificing the a pawn to open the column and activate my a rook
+28,Re8,f8e8,rnb1r1k1/1p2ppbp/1qp3p1/2Np4/p2P4/1PP1QNP1/P3PPBP/R4RK1 w - - 1 15,places the rook on the same column as white's queen while sacrificing the a pawn to open the column and activate my a rook
+29,Nxa4,c5a4,rnb1r1k1/1p2ppbp/1qp3p1/3p4/N2P4/1PP1QNP1/P3PPBP/R4RK1 b - - 0 15,"the idea is to keep an eye on d4 and the white queen, also prepares to push the b pawn if needed"
+30,Qa7,b6a7,rnb1r1k1/qp2ppbp/2p3p1/3p4/N2P4/1PP1QNP1/P3PPBP/R4RK1 w - - 1 16,"the idea is to keep an eye on d4 and the white queen, also prepares to push the b pawn if needed"
+31,Nc5,a4c5,rnb1r1k1/qp2ppbp/2p3p1/2Np4/3P4/1PP1QNP1/P3PPBP/R4RK1 b - - 2 16,"sacrifices another pawn to open the e column, now white has to deal with the threat on white's queen..."
+32,e5,e7e5,rnb1r1k1/qp3pbp/2p3p1/2Npp3/3P4/1PP1QNP1/P3PPBP/R4RK1 w - - 0 17,"sacrifices another pawn to open the e column, now white has to deal with the threat on white's queen..."
+33,Nxe5,f3e5,rnb1r1k1/qp3pbp/2p3p1/2NpN3/3P4/1PP1Q1P1/P3PPBP/R4RK1 b - - 0 17,"the knight is pinned, but a very dangerous moment for black, now if f6 aimed to wining the knight immediately, white have Nxc6 ignoring the pin and threatening my queen, which wins them another pawn, so I need Re7 because now if Nxc6 Nxc6 and the rook is defended by the knight a very sharp game so far, black sacrificed to pawns to get activity but white keeps finding some forcing moves to keep his threats coming at a steady pace..."
+34,Re7,e8e7,rnb3k1/qp2rpbp/2p3p1/2NpN3/3P4/1PP1Q1P1/P3PPBP/R4RK1 w - - 1 18,"forced, prevents Nxc6, as Nxc6 defends the rook, now probably Qg5 and only then f6 for black"
+35,Qg5,e3g5,rnb3k1/qp2rpbp/2p3p1/2NpN1Q1/3P4/1PP3P1/P3PPBP/R4RK1 b - - 2 18,as planed
+36,f6,f7f6,rnb3k1/qp2r1bp/2p2pp1/2NpN1Q1/3P4/1PP3P1/P3PPBP/R4RK1 w - - 0 19,as planed
+37,Nxg6,e5g6,rnb3k1/qp2r1bp/2p2pN1/2Np2Q1/3P4/1PP3P1/P3PPBP/R4RK1 b - - 0 19,"of course I've missed this... white sacrifices the knight for two pawns, and exposes my king, still as IM Daniel Rensch, states in his video ""Unbalanced Material: Minor Pieces vs Pawn"", there is nothing a pawn can do, that a piece can't do better, and a minor piece can at least deal with three and even up to four pawns sucessfully..., so I 'll try turn  to this pawn ""hecatomb"" in a win!"

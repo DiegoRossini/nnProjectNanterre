@@ -1,0 +1,73 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The King of Chess opens with the King Pawn! What a surprise ...
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black defends with the Caro-Kann.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/2p5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"This move is not in the opening book. It's not the sicilian, your majesty."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Too many pawn moves by White
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,Too many pawn moves by White
+6,Bg4,c8g4,rn1qkbnr/pp2pppp/2p5/3pP3/6b1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 4,Too many pawn moves by White
+7,d4,d2d4,rn1qkbnr/pp2pppp/2p5/3pP3/3P2b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,Too many pawn moves by White
+8,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/3pP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,Too many pawn moves by White
+9,c4,c2c4,rn1qkbnr/pp3ppp/2p1p3/3pP3/2PP2b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,Too many pawn moves by White
+10,Bb4+,f8b4,rn1qk1nr/pp3ppp/2p1p3/3pP3/1bPP2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,Too many pawn moves by White
+11,Bd2,c1d2,rn1qk1nr/pp3ppp/2p1p3/3pP3/1bPP2b1/5N2/PP1B1PPP/RN1QKB1R b KQkq - 2 6,Too many pawn moves by White
+12,Qa5,d8a5,rn2k1nr/pp3ppp/2p1p3/q2pP3/1bPP2b1/5N2/PP1B1PPP/RN1QKB1R w KQkq - 3 7,Too many pawn moves by White
+13,Nc3,b1c3,rn2k1nr/pp3ppp/2p1p3/q2pP3/1bPP2b1/2N2N2/PP1B1PPP/R2QKB1R b KQkq - 4 7,Too many pawn moves by White
+14,Ne7,g8e7,rn2k2r/pp2nppp/2p1p3/q2pP3/1bPP2b1/2N2N2/PP1B1PPP/R2QKB1R w KQkq - 5 8,Too many pawn moves by White
+15,a3,a2a3,rn2k2r/pp2nppp/2p1p3/q2pP3/1bPP2b1/P1N2N2/1P1B1PPP/R2QKB1R b KQkq - 0 8,Too many pawn moves by White
+16,Bxc3,b4c3,rn2k2r/pp2nppp/2p1p3/q2pP3/2PP2b1/P1b2N2/1P1B1PPP/R2QKB1R w KQkq - 0 9,Too many pawn moves by White
+17,Bxc3,d2c3,rn2k2r/pp2nppp/2p1p3/q2pP3/2PP2b1/P1B2N2/1P3PPP/R2QKB1R b KQkq - 0 9,Too many pawn moves by White
+18,Qc7,a5c7,rn2k2r/ppq1nppp/2p1p3/3pP3/2PP2b1/P1B2N2/1P3PPP/R2QKB1R w KQkq - 1 10,Too many pawn moves by White
+19,h3,h2h3,rn2k2r/ppq1nppp/2p1p3/3pP3/2PP2b1/P1B2N1P/1P3PP1/R2QKB1R b KQkq - 0 10,Too many pawn moves by White
+20,Bf5,g4f5,rn2k2r/ppq1nppp/2p1p3/3pPb2/2PP4/P1B2N1P/1P3PP1/R2QKB1R w KQkq - 1 11,Too many pawn moves by White
+21,g4,g2g4,rn2k2r/ppq1nppp/2p1p3/3pPb2/2PP2P1/P1B2N1P/1P3P2/R2QKB1R b KQkq - 0 11,Too many pawn moves by White
+22,Be4,f5e4,rn2k2r/ppq1nppp/2p1p3/3pP3/2PPb1P1/P1B2N1P/1P3P2/R2QKB1R w KQkq - 1 12,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+23,Rh2,h1h2,rn2k2r/ppq1nppp/2p1p3/3pP3/2PPb1P1/P1B2N1P/1P3P1R/R2QKB2 b Qkq - 2 12,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+24,Ng6,e7g6,rn2k2r/ppq2ppp/2p1p1n1/3pP3/2PPb1P1/P1B2N1P/1P3P1R/R2QKB2 w Qkq - 3 13,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+25,Nd2,f3d2,rn2k2r/ppq2ppp/2p1p1n1/3pP3/2PPb1P1/P1B4P/1P1N1P1R/R2QKB2 b Qkq - 4 13,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+26,Nd7,b8d7,r3k2r/ppqn1ppp/2p1p1n1/3pP3/2PPb1P1/P1B4P/1P1N1P1R/R2QKB2 w Qkq - 5 14,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+27,Nxe4,d2e4,r3k2r/ppqn1ppp/2p1p1n1/3pP3/2PPN1P1/P1B4P/1P3P1R/R2QKB2 b Qkq - 0 14,"White gains the Bishop pair, but the position is closed, so knights are preferred here."
+28,dxe4,d5e4,r3k2r/ppqn1ppp/2p1p1n1/4P3/2PPp1P1/P1B4P/1P3P1R/R2QKB2 w Qkq - 0 15,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+29,Qe2,d1e2,r3k2r/ppqn1ppp/2p1p1n1/4P3/2PPp1P1/P1B4P/1P2QP1R/R3KB2 b Qkq - 1 15,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+30,c5,c6c5,r3k2r/ppqn1ppp/4p1n1/2p1P3/2PPp1P1/P1B4P/1P2QP1R/R3KB2 w Qkq - 0 16,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+31,Qxe4,e2e4,r3k2r/ppqn1ppp/4p1n1/2p1P3/2PPQ1P1/P1B4P/1P3P1R/R3KB2 b Qkq - 0 16,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+32,cxd4,c5d4,r3k2r/ppqn1ppp/4p1n1/4P3/2PpQ1P1/P1B4P/1P3P1R/R3KB2 w Qkq - 0 17,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+33,Bxd4,c3d4,r3k2r/ppqn1ppp/4p1n1/4P3/2PBQ1P1/P6P/1P3P1R/R3KB2 b Qkq - 0 17,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+34,Ndxe5,d7e5,r3k2r/ppq2ppp/4p1n1/4n3/2PBQ1P1/P6P/1P3P1R/R3KB2 w Qkq - 0 18,"Opening up the position - probably not the best strategy for Black, because now the White bishops become powerful."
+35,c5,c4c5,r3k2r/ppq2ppp/4p1n1/2P1n3/3BQ1P1/P6P/1P3P1R/R3KB2 b Qkq - 0 18,"White's Rook is hanging, so Black takes advantage of it."
+36,Nf3+,e5f3,r3k2r/ppq2ppp/4p1n1/2P5/3BQ1P1/P4n1P/1P3P1R/R3KB2 w Qkq - 1 19,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+37,Qxf3,e4f3,r3k2r/ppq2ppp/4p1n1/2P5/3B2P1/P4Q1P/1P3P1R/R3KB2 b Qkq - 0 19,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+38,Qxh2,c7h2,r3k2r/pp3ppp/4p1n1/2P5/3B2P1/P4Q1P/1P3P1q/R3KB2 w Qkq - 0 20,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+39,Bb5+,f1b5,r3k2r/pp3ppp/4p1n1/1BP5/3B2P1/P4Q1P/1P3P1q/R3K3 b Qkq - 1 20,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+40,Kf8,e8f8,r4k1r/pp3ppp/4p1n1/1BP5/3B2P1/P4Q1P/1P3P1q/R3K3 w Q - 2 21,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+41,c6,c5c6,r4k1r/pp3ppp/2P1p1n1/1B6/3B2P1/P4Q1P/1P3P1q/R3K3 b Q - 0 21,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+42,bxc6,b7c6,r4k1r/p4ppp/2p1p1n1/1B6/3B2P1/P4Q1P/1P3P1q/R3K3 w Q - 0 22,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+43,Qxc6,f3c6,r4k1r/p4ppp/2Q1p1n1/1B6/3B2P1/P6P/1P3P1q/R3K3 b Q - 0 22,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+44,Rd8,a8d8,3r1k1r/p4ppp/2Q1p1n1/1B6/3B2P1/P6P/1P3P1q/R3K3 w Q - 1 23,"Black's kingside is horribly developed, but Black is up the exchange and should be able to hold he position, since the kingside pawns provide shelter. Black's h,g,f pawns haven't moved, as opposed to White's kingside and queenside pawns."
+45,O-O-O,e1c1,3r1k1r/p4ppp/2Q1p1n1/1B6/3B2P1/P6P/1P3P1q/2KR4 b - - 2 23,The King was safer on e1.
+46,Qf4+,h2f4,3r1k1r/p4ppp/2Q1p1n1/1B6/3B1qP1/P6P/1P3P2/2KR4 w - - 3 24,The only move to prevent Checkmate
+47,Be3,d4e3,3r1k1r/p4ppp/2Q1p1n1/1B6/5qP1/P3B2P/1P3P2/2KR4 b - - 4 24,The only move to prevent Checkmate
+48,Rxd1+,d8d1,5k1r/p4ppp/2Q1p1n1/1B6/5qP1/P3B2P/1P3P2/2Kr4 w - - 0 25,The only move to prevent Checkmate
+49,Kxd1,c1d1,5k1r/p4ppp/2Q1p1n1/1B6/5qP1/P3B2P/1P3P2/3K4 b - - 0 25,The only move to prevent Checkmate
+50,Qb8,f4b8,1q3k1r/p4ppp/2Q1p1n1/1B6/6P1/P3B2P/1P3P2/3K4 w - - 1 26,The only move to prevent Checkmate
+51,Bc5+,e3c5,1q3k1r/p4ppp/2Q1p1n1/1BB5/6P1/P6P/1P3P2/3K4 b - - 2 26,White blundered under time pressure.
+52,Kg8,f8g8,1q4kr/p4ppp/2Q1p1n1/1BB5/6P1/P6P/1P3P2/3K4 w - - 3 27,White blundered under time pressure.
+53,Bd6,c5d6,1q4kr/p4ppp/2QBp1n1/1B6/6P1/P6P/1P3P2/3K4 b - - 4 27,White blundered under time pressure.
+54,Qd8,b8d8,3q2kr/p4ppp/2QBp1n1/1B6/6P1/P6P/1P3P2/3K4 w - - 5 28,White blundered under time pressure.
+55,Kc2,d1c2,3q2kr/p4ppp/2QBp1n1/1B6/6P1/P6P/1PK2P2/8 b - - 6 28,White blundered under time pressure.
+56,h6,h7h6,3q2kr/p4pp1/2QBp1np/1B6/6P1/P6P/1PK2P2/8 w - - 0 29,White blundered under time pressure.
+57,f4,f2f4,3q2kr/p4pp1/2QBp1np/1B6/5PP1/P6P/1PK5/8 b - - 0 29,White blundered under time pressure.
+58,Kh7,g8h7,3q3r/p4ppk/2QBp1np/1B6/5PP1/P6P/1PK5/8 w - - 1 30,White blundered under time pressure.
+59,f5,f4f5,3q3r/p4ppk/2QBp1np/1B3P2/6P1/P6P/1PK5/8 b - - 0 30,White blundered under time pressure.
+60,Ne7,g6e7,3q3r/p3nppk/2QBp2p/1B3P2/6P1/P6P/1PK5/8 w - - 1 31,White blundered under time pressure.
+61,Qe4,c6e4,3q3r/p3nppk/3Bp2p/1B3P2/4Q1P1/P6P/1PK5/8 b - - 2 31,White blundered under time pressure.
+62,Qxd6,d8d6,7r/p3nppk/3qp2p/1B3P2/4Q1P1/P6P/1PK5/8 w - - 0 32,Now the King of Chess is about to be beheaded.
+63,fxe6+,f5e6,7r/p3nppk/3qP2p/1B6/4Q1P1/P6P/1PK5/8 b - - 0 32,Now the King of Chess is about to be beheaded.
+64,g6,g7g6,7r/p3np1k/3qP1pp/1B6/4Q1P1/P6P/1PK5/8 w - - 0 33,Now the King of Chess is about to be beheaded.
+65,exf7,e6f7,7r/p3nP1k/3q2pp/1B6/4Q1P1/P6P/1PK5/8 b - - 0 33,Now the King of Chess is about to be beheaded.
+66,Rc8+,h8c8,2r5/p3nP1k/3q2pp/1B6/4Q1P1/P6P/1PK5/8 w - - 1 34,Now the King of Chess is about to be beheaded.
+67,Kb1,c2b1,2r5/p3nP1k/3q2pp/1B6/4Q1P1/P6P/1P6/1K6 b - - 2 34,... and the King of Chess resigns. Long live the king!
+68,Qd1+,d6d1,2r5/p3nP1k/6pp/1B6/4Q1P1/P6P/1P6/1K1q4 w - - 3 35,... and the King of Chess resigns. Long live the king!
+69,Ka2,b1a2,2r5/p3nP1k/6pp/1B6/4Q1P1/P6P/KP6/3q4 b - - 4 35,... and the King of Chess resigns. Long live the king!
+70,Qd5+,d1d5,2r5/p3nP1k/6pp/1B1q4/4Q1P1/P6P/KP6/8 w - - 5 36,... and the King of Chess resigns. Long live the king!
+71,Qxd5,e4d5,2r5/p3nP1k/6pp/1B1Q4/6P1/P6P/KP6/8 b - - 0 36,... and the King of Chess resigns. Long live the king!
+72,Nxd5,e7d5,2r5/p4P1k/6pp/1B1n4/6P1/P6P/KP6/8 w - - 0 37,... and the King of Chess resigns. Long live the king!

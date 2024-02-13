@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,not contributing to development or control of the important central squares.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,not contributing to development or control of the important central squares.
+3,a3,a2a3,rnbqkbnr/pppp1ppp/8/4p3/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2,not contributing to development or control of the important central squares.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P7/1PPP1PPP/RNBQKBNR w KQkq - 1 3,attacking e4
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR b KQkq - 2 3,developing move defending e4
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/P1N5/1PPP1PPP/R1BQKBNR w KQkq - 3 4,following the rule to develop knights before bishops. but I think Bc5 would be fine here preventing d4.
+7,g4,g2g4,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P1P1/P1N5/1PPP1P1P/R1BQKBNR b KQkq - 0 4,an attack after only one piece developed? hmmm. this really gets white behind.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp3/4P1P1/P1N5/1PPP1P1P/R1BQKBNR w KQkq - 0 5,"now the pawn can be taken, or if g5 then Nxe4. white has created weaknesses with the g5 move, so I will try for an open game."
+9,h3,h2h3,r1bqkb1r/ppp2ppp/2n2n2/3pp3/4P1P1/P1N4P/1PPP1P2/R1BQKBNR b KQkq - 0 5,another pawn move to protect the weak g4 pawn. the dark squares are weakining around the king. he needs to play d3 and then Bg4 and Qd2 so he can castle queenside.
+10,dxe4,d5e4,r1bqkb1r/ppp2ppp/2n2n2/4p3/4p1P1/P1N4P/1PPP1P2/R1BQKBNR w KQkq - 0 6,free lunch! if d3 and Bg5 were played this would not be possible.
+11,g5,g4g5,r1bqkb1r/ppp2ppp/2n2n2/4p1P1/4p3/P1N4P/1PPP1P2/R1BQKBNR b KQkq - 0 6,the one pawn attack! such a brave little guy! Where are all the troops in the army? sleeping in the barracks?? What kind of army has only one brave soldier?
+12,Nd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1P1/4p3/P1N4P/1PPP1P2/R1BQKBNR w KQkq - 1 7,my troops rush to the frontier line en-mass!!
+13,Nxe4,c3e4,r1bqkb1r/ppp2ppp/2n5/3np1P1/4N3/P6P/1PPP1P2/R1BQKBNR b KQkq - 0 7,my troops rush to the frontier line en-mass!!
+14,Bf5,c8f5,r2qkb1r/ppp2ppp/2n5/3npbP1/4N3/P6P/1PPP1P2/R1BQKBNR w KQkq - 1 8,my troops rush to the frontier line en-mass!!
+15,Bg2,f1g2,r2qkb1r/ppp2ppp/2n5/3npbP1/4N3/P6P/1PPP1PB1/R1BQK1NR b KQkq - 2 8,this attack is justified! it prevents further development and threatens material gain!
+16,Nf4,d5f4,r2qkb1r/ppp2ppp/2n5/4pbP1/4Nn2/P6P/1PPP1PB1/R1BQK1NR w KQkq - 3 9,this attack is justified! it prevents further development and threatens material gain!
+17,Rh2,h1h2,r2qkb1r/ppp2ppp/2n5/4pbP1/4Nn2/P6P/1PPP1PBR/R1BQK1N1 b Qkq - 4 9,"like a stack of dominoes, once the first one falls, so go the rest."
+18,Nxg2+,f4g2,r2qkb1r/ppp2ppp/2n5/4pbP1/4N3/P6P/1PPP1PnR/R1BQK1N1 w Qkq - 0 10,perhaps I should have just continued developing here.
+19,Rxg2,h2g2,r2qkb1r/ppp2ppp/2n5/4pbP1/4N3/P6P/1PPP1PR1/R1BQK1N1 b Qkq - 0 10,perhaps I should have just continued developing here.
+20,Bxe4,f5e4,r2qkb1r/ppp2ppp/2n5/4p1P1/4b3/P6P/1PPP1PR1/R1BQK1N1 w Qkq - 0 11,perhaps I should have just continued developing here.
+21,Rg3,g2g3,r2qkb1r/ppp2ppp/2n5/4p1P1/4b3/P5RP/1PPP1P2/R1BQK1N1 b Qkq - 1 11,perhaps I should have just continued developing here.
+22,Nd4,c6d4,r2qkb1r/ppp2ppp/8/4p1P1/3nb3/P5RP/1PPP1P2/R1BQK1N1 w Qkq - 2 12,perhaps I should have just continued developing here.
+23,d3,d2d3,r2qkb1r/ppp2ppp/8/4p1P1/3nb3/P2P2RP/1PP2P2/R1BQK1N1 b Qkq - 0 12,"white has only developed the rook, and his pawns are a mess. black is a piece up with two pieces developed and no pawn weeknesses. Remember that each pawn move creates weak squares behind it."
+24,Bg6,e4g6,r2qkb1r/ppp2ppp/6b1/4p1P1/3n4/P2P2RP/1PP2P2/R1BQK1N1 w Qkq - 1 13,"white has only developed the rook, and his pawns are a mess. black is a piece up with two pieces developed and no pawn weeknesses. Remember that each pawn move creates weak squares behind it."
+25,c3,c2c3,r2qkb1r/ppp2ppp/6b1/4p1P1/3n4/P1PP2RP/1P3P2/R1BQK1N1 b Qkq - 0 13,"white has only developed the rook, and his pawns are a mess. black is a piece up with two pieces developed and no pawn weeknesses. Remember that each pawn move creates weak squares behind it."
+26,Nc6,d4c6,r2qkb1r/ppp2ppp/2n3b1/4p1P1/8/P1PP2RP/1P3P2/R1BQK1N1 w Qkq - 1 14,"white has only developed the rook, and his pawns are a mess. black is a piece up with two pieces developed and no pawn weeknesses. Remember that each pawn move creates weak squares behind it."
+27,b4,b2b4,r2qkb1r/ppp2ppp/2n3b1/4p1P1/1P6/P1PP2RP/5P2/R1BQK1N1 b Qkq - 0 14,"another pawn attack? pawn storms are effective, but perhaps only after development and ensuring king safty by castling."
+28,Bd6,f8d6,r2qk2r/ppp2ppp/2nb2b1/4p1P1/1P6/P1PP2RP/5P2/R1BQK1N1 w Qkq - 1 15,continuing with my development.
+29,a4,a3a4,r2qk2r/ppp2ppp/2nb2b1/4p1P1/PP6/2PP2RP/5P2/R1BQK1N1 b Qkq - 0 15,in order to open up the center and attack the king that is still there.
+30,O-O,e8g8,r2q1rk1/ppp2ppp/2nb2b1/4p1P1/PP6/2PP2RP/5P2/R1BQK1N1 w Q - 1 16,in order to open up the center and attack the king that is still there.
+31,Ba3,c1a3,r2q1rk1/ppp2ppp/2nb2b1/4p1P1/PP6/B1PP2RP/5P2/R2QK1N1 b Q - 2 16,in order to open up the center and attack the king that is still there.
+32,e4,e5e4,r2q1rk1/ppp2ppp/2nb2b1/6P1/PP2p3/B1PP2RP/5P2/R2QK1N1 w Q - 0 17,in order to open up the center and attack the king that is still there.
+33,b5,b4b5,r2q1rk1/ppp2ppp/2nb2b1/1P4P1/P3p3/B1PP2RP/5P2/R2QK1N1 b Q - 0 17,now I have a passed pawn.
+34,Bxa3,d6a3,r2q1rk1/ppp2ppp/2n3b1/1P4P1/P3p3/b1PP2RP/5P2/R2QK1N1 w Q - 0 18,now I have a passed pawn.
+35,Rxa3,a1a3,r2q1rk1/ppp2ppp/2n3b1/1P4P1/P3p3/R1PP2RP/5P2/3QK1N1 b - - 0 18,now I have a passed pawn.
+36,Ne5,c6e5,r2q1rk1/ppp2ppp/6b1/1P2n1P1/P3p3/R1PP2RP/5P2/3QK1N1 w - - 1 19,now I have a passed pawn.
+37,Kf1,e1f1,r2q1rk1/ppp2ppp/6b1/1P2n1P1/P3p3/R1PP2RP/5P2/3Q1KN1 b - - 2 19,now I have a passed pawn.
+38,exd3,e4d3,r2q1rk1/ppp2ppp/6b1/1P2n1P1/P7/R1Pp2RP/5P2/3Q1KN1 w - - 0 20,now I have a passed pawn.
+39,Nf3,g1f3,r2q1rk1/ppp2ppp/6b1/1P2n1P1/P7/R1Pp1NRP/5P2/3Q1K2 b - - 1 20,combining the defence of the knight with an attack on the rook. also this move is developing. the rooks are connected. once the rooks come to the center my development is complete.
+40,Qd6,d8d6,r4rk1/ppp2ppp/3q2b1/1P2n1P1/P7/R1Pp1NRP/5P2/3Q1K2 w - - 2 21,combining the defence of the knight with an attack on the rook. also this move is developing. the rooks are connected. once the rooks come to the center my development is complete.
+41,Nd4,f3d4,r4rk1/ppp2ppp/3q2b1/1P2n1P1/P2N4/R1Pp2RP/5P2/3Q1K2 b - - 3 21,it is nice to put the knight in the center! but your rook hangs.

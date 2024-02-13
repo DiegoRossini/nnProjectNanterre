@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The Queen's gambit. I hate playing against this, as it usually gives an obvious spacial advantage to White early on."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The Queen's gambit. I hate playing against this, as it usually gives an obvious spacial advantage to White early on."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"The Queen's gambit. I hate playing against this, as it usually gives an obvious spacial advantage to White early on."
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The Queen's gambit accepted. I could try, sometime, Nf6 or e6 instead or even (this is looking at the DB) e5, which could lead to some interesting play"
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,immediatly gaining control of the centre - the point of the Queen's Gambit
+6,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/8/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 1 4,"developing, and possibly preparing e5 to challenge the centre."
+7,Be3,c1e3,r1bqkbnr/ppp1pppp/2n5/8/2pPP3/4B3/PP3PPP/RN1QKBNR b KQkq - 2 4,"I didn't get this move from White at first, but it was actually good foresight from White which stops e5 from being as effective as it could be..."
+8,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/8/2pPP3/4B3/PP3PPP/RN1QKBNR w KQkq - 3 5,developing with a threat to the e-pawn. Not a big problem...
+9,Nc3,b1c3,r1bqkb1r/ppp1pppp/2n2n2/8/2pPP3/2N1B3/PP3PPP/R2QKBNR b KQkq - 4 5,"since it's easily defended. White also develops a piece of his own (which makes the move superior to alternatives such as f3, and Qc2 wins a pawn after Nxd4)"
+10,e5,e7e5,r1bqkb1r/ppp2ppp/2n2n2/4p3/2pPP3/2N1B3/PP3PPP/R2QKBNR w KQkq - 0 6,"Black's only centre pawn strikes at the centre, hoping to loosen White's centre control"
+11,d5,d4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp3/2p1P3/2N1B3/PP3PPP/R2QKBNR b KQkq - 0 6,"White wants none of that, of course, and this move keeps the centre as well as chasing away the knight. White couls have tried taking the pawn as well, which would result in White's rook occupying the d-file (6.dxe5 Nxe5 7.Qxd8+ Kxd8 8.0-0-0+, or 6.dxe5 Qxd1+ 7.Rxd1 Nxe5... though it also involves the knight protecting the pawn on c4, which could hinder the white bishop's development)"
+12,Ne7,c6e7,r1bqkb1r/ppp1nppp/5n2/3Pp3/2p1P3/2N1B3/PP3PPP/R2QKBNR w KQkq - 1 7,"it seemed to be the only logical move for me here - Nd4 loses a pawn (7.Bxd4 [justifying White's fourth move] 7...exd4 8.Qxd4), Na5 isn't a good square for the knight (though it is safe there) and Nb4 is the worst move here (7.a3 Na6, and the knight's in a horrible position)"
+13,Bxc4,f1c4,r1bqkb1r/ppp1nppp/5n2/3Pp3/2B1P3/2N1B3/PP3PPP/R2QK1NR b KQkq - 0 7,Now's a good a time as any - White continues his rapid development while regaining material. White has the upper hand here
+14,Ng6,e7g6,r1bqkb1r/ppp2ppp/5nn1/3Pp3/2B1P3/2N1B3/PP3PPP/R2QK1NR w KQkq - 1 8,"One of the things I like about Black's position here is that his bishops are in no way restricted, so it will be easy to develop them"
+15,Nf3,g1f3,r1bqkb1r/ppp2ppp/5nn1/3Pp3/2B1P3/2N1BN2/PP3PPP/R2QK2R b KQkq - 2 8,"This move pretty much leaves the DB (save one game, which ended in a draw)"
+16,Bg4,c8g4,r2qkb1r/ppp2ppp/5nn1/3Pp3/2B1P1b1/2N1BN2/PP3PPP/R2QK2R w KQkq - 3 9,"A waste of a move [well, in this game it was], as White can easily drive the bishop back with tempo. It did seem natural at the time - this pin happens all the time in chess games"
+17,h3,h2h3,r2qkb1r/ppp2ppp/5nn1/3Pp3/2B1P1b1/2N1BN1P/PP3PP1/R2QK2R b KQkq - 0 9,"Black can't respond with Bh5 because of 10.g4, which wins material... or can he? I could have tried a knight sac with 9...Bh5 10.g4 Nxg4 11.hxg4 Bxg4, and Black wins the knight after 12...Qf6"
+18,Bd7,g4d7,r2qkb1r/pppb1ppp/5nn1/3Pp3/2B1P3/2N1BN1P/PP3PP1/R2QK2R w KQkq - 1 10,"Luckily for White, I didn't see that in the game, and opted to retreat my bishop instead"
+19,O-O,e1g1,r2qkb1r/pppb1ppp/5nn1/3Pp3/2B1P3/2N1BN1P/PP3PP1/R2Q1RK1 b kq - 2 10,"White castles kingside, thereby securing his king (for now, at least)"
+20,Bb4,f8b4,r2qk2r/pppb1ppp/5nn1/3Pp3/1bB1P3/2N1BN1P/PP3PP1/R2Q1RK1 w kq - 3 11,"Of course, there's no pin on the knight here, but nevertheless there's a threat in this move; Black threatens to win a pawn with 11...Bxc3 12.bxc3 Nxe4"
+21,Qd3,d1d3,r2qk2r/pppb1ppp/5nn1/3Pp3/1bB1P3/2NQBN1P/PP3PP1/R4RK1 b kq - 4 11,"White sees the threat and moves to stop it, while bringing his queen out in the process"
+22,Qe7,d8e7,r3k2r/pppbqppp/5nn1/3Pp3/1bB1P3/2NQBN1P/PP3PP1/R4RK1 w kq - 5 12,"Black does likewise, and now he has a choice of whether to develop kingside or queenside"

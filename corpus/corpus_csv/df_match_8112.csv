@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"French, except the bishop in f5."
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,"French, except the bishop in f5."
+3,d4,d2d4,r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"French, except the bishop in f5."
+4,d5,d7d5,r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"French, except the bishop in f5."
+5,e5,e4e5,r1bqkbnr/ppp1pppp/2n5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"French, except the bishop in f5."
+6,Bf5,c8f5,r2qkbnr/ppp1pppp/2n5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,"French, except the bishop in f5."
+7,Bb5,f1b5,r2qkbnr/ppp1pppp/2n5/1B1pPb2/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 2 4,Otherwise Kh4
+8,e6,e7e6,r2qkbnr/ppp2ppp/2n1p3/1B1pPb2/3P4/8/PPP2PPP/RNBQK1NR w KQkq - 0 5,Otherwise Kh4
+9,Nf3,g1f3,r2qkbnr/ppp2ppp/2n1p3/1B1pPb2/3P4/5N2/PPP2PPP/RNBQK2R b KQkq - 1 5,Otherwise Kh4
+10,h6,h7h6,r2qkbnr/ppp2pp1/2n1p2p/1B1pPb2/3P4/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,Otherwise Kh4
+11,O-O,e1g1,r2qkbnr/ppp2pp1/2n1p2p/1B1pPb2/3P4/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 6,f6
+12,Be7,f8e7,r2qk1nr/ppp1bpp1/2n1p2p/1B1pPb2/3P4/5N2/PPP2PPP/RNBQ1RK1 w kq - 2 7,f6
+13,Nc3,b1c3,r2qk1nr/ppp1bpp1/2n1p2p/1B1pPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 3 7,Material won
+14,Qd7,d8d7,r3k1nr/pppqbpp1/2n1p2p/1B1pPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 4 8,Material won
+15,Na4,c3a4,r3k1nr/pppqbpp1/2n1p2p/1B1pPb2/N2P4/5N2/PPP2PPP/R1BQ1RK1 b kq - 5 8,Material won
+16,a6,a7a6,r3k1nr/1ppqbpp1/p1n1p2p/1B1pPb2/N2P4/5N2/PPP2PPP/R1BQ1RK1 w kq - 0 9,Material won
+17,Bxc6,b5c6,r3k1nr/1ppqbpp1/p1B1p2p/3pPb2/N2P4/5N2/PPP2PPP/R1BQ1RK1 b kq - 0 9,Material won
+18,Qxc6,d7c6,r3k1nr/1pp1bpp1/p1q1p2p/3pPb2/N2P4/5N2/PPP2PPP/R1BQ1RK1 w kq - 0 10,Material won
+19,Nc3,a4c3,r3k1nr/1pp1bpp1/p1q1p2p/3pPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 1 10,Material won
+20,O-O-O,e8c8,2kr2nr/1pp1bpp1/p1q1p2p/3pPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 w - - 2 11,Material won
+21,h3,h2h3,2kr2nr/1pp1bpp1/p1q1p2p/3pPb2/3P4/2N2N1P/PPP2PP1/R1BQ1RK1 b - - 0 11,Material won
+22,g5,g7g5,2kr2nr/1pp1bp2/p1q1p2p/3pPbp1/3P4/2N2N1P/PPP2PP1/R1BQ1RK1 w - - 0 12,Material won
+23,Nh2,f3h2,2kr2nr/1pp1bp2/p1q1p2p/3pPbp1/3P4/2N4P/PPP2PPN/R1BQ1RK1 b - - 1 12,Material won
+24,h5,h6h5,2kr2nr/1pp1bp2/p1q1p3/3pPbpp/3P4/2N4P/PPP2PPN/R1BQ1RK1 w - - 0 13,Material won
+25,a4,a2a4,2kr2nr/1pp1bp2/p1q1p3/3pPbpp/P2P4/2N4P/1PP2PPN/R1BQ1RK1 b - - 0 13,Material won
+26,f6,f7f6,2kr2nr/1pp1b3/p1q1pp2/3pPbpp/P2P4/2N4P/1PP2PPN/R1BQ1RK1 w - - 0 14,Material won
+27,a5,a4a5,2kr2nr/1pp1b3/p1q1pp2/P2pPbpp/3P4/2N4P/1PP2PPN/R1BQ1RK1 b - - 0 14,Material won
+28,fxe5,f6e5,2kr2nr/1pp1b3/p1q1p3/P2ppbpp/3P4/2N4P/1PP2PPN/R1BQ1RK1 w - - 0 15,Material won
+29,dxe5,d4e5,2kr2nr/1pp1b3/p1q1p3/P2pPbpp/8/2N4P/1PP2PPN/R1BQ1RK1 b - - 0 15,Material won
+30,d4,d5d4,2kr2nr/1pp1b3/p1q1p3/P3Pbpp/3p4/2N4P/1PP2PPN/R1BQ1RK1 w - - 0 16,Material won
+31,Ne2,c3e2,2kr2nr/1pp1b3/p1q1p3/P3Pbpp/3p4/7P/1PP1NPPN/R1BQ1RK1 b - - 1 16,Material won
+32,Bxc2,f5c2,2kr2nr/1pp1b3/p1q1p3/P3P1pp/3p4/7P/1Pb1NPPN/R1BQ1RK1 w - - 0 17,Material won
+33,Nxd4,e2d4,2kr2nr/1pp1b3/p1q1p3/P3P1pp/3N4/7P/1Pb2PPN/R1BQ1RK1 b - - 0 17,Material won
+34,Bxd1,c2d1,2kr2nr/1pp1b3/p1q1p3/P3P1pp/3N4/7P/1P3PPN/R1Bb1RK1 w - - 0 18,Material won
+35,Nxc6,d4c6,2kr2nr/1pp1b3/p1N1p3/P3P1pp/8/7P/1P3PPN/R1Bb1RK1 b - - 0 18,Bc4 better
+36,bxc6,b7c6,2kr2nr/2p1b3/p1p1p3/P3P1pp/8/7P/1P3PPN/R1Bb1RK1 w - - 0 19,Bc4 better
+37,Be3,c1e3,2kr2nr/2p1b3/p1p1p3/P3P1pp/8/4B2P/1P3PPN/R2b1RK1 b - - 1 19,Bc4 better
+38,Be2,d1e2,2kr2nr/2p1b3/p1p1p3/P3P1pp/8/4B2P/1P2bPPN/R4RK1 w - - 2 20,Bc4 better
+39,Rfe1,f1e1,2kr2nr/2p1b3/p1p1p3/P3P1pp/8/4B2P/1P2bPPN/R3R1K1 b - - 3 20,Bc4 better
+40,Bb5,e2b5,2kr2nr/2p1b3/p1p1p3/Pb2P1pp/8/4B2P/1P3PPN/R3R1K1 w - - 4 21,Bc4 better
+41,Nf3,h2f3,2kr2nr/2p1b3/p1p1p3/Pb2P1pp/8/4BN1P/1P3PP1/R3R1K1 b - - 5 21,Rd5 better
+42,g4,g5g4,2kr2nr/2p1b3/p1p1p3/Pb2P2p/6p1/4BN1P/1P3PP1/R3R1K1 w - - 0 22,Rd5 better
+43,hxg4,h3g4,2kr2nr/2p1b3/p1p1p3/Pb2P2p/6P1/4BN2/1P3PP1/R3R1K1 b - - 0 22,Rd5 better
+44,hxg4,h5g4,2kr2nr/2p1b3/p1p1p3/Pb2P3/6p1/4BN2/1P3PP1/R3R1K1 w - - 0 23,Rd5 better
+45,Nd4,f3d4,2kr2nr/2p1b3/p1p1p3/Pb2P3/3N2p1/4B3/1P3PP1/R3R1K1 b - - 1 23,Rd5 better
+46,Bc4,b5c4,2kr2nr/2p1b3/p1p1p3/P3P3/2bN2p1/4B3/1P3PP1/R3R1K1 w - - 2 24,Rd5 better
+47,Nxc6,d4c6,2kr2nr/2p1b3/p1N1p3/P3P3/2b3p1/4B3/1P3PP1/R3R1K1 b - - 0 24,Rd5 better
+48,Bd5,c4d5,2kr2nr/2p1b3/p1N1p3/P2bP3/6p1/4B3/1P3PP1/R3R1K1 w - - 1 25,Rd5 better
+49,Nxd8,c6d8,2kN2nr/2p1b3/p3p3/P2bP3/6p1/4B3/1P3PP1/R3R1K1 b - - 0 25,King is in danger!
+50,Kxd8,c8d8,3k2nr/2p1b3/p3p3/P2bP3/6p1/4B3/1P3PP1/R3R1K1 w - - 0 26,King is in danger!
+51,Ra4,a1a4,3k2nr/2p1b3/p3p3/P2bP3/R5p1/4B3/1P3PP1/4R1K1 b - - 1 26,King is in danger!
+52,Nh6,g8h6,3k3r/2p1b3/p3p2n/P2bP3/R5p1/4B3/1P3PP1/4R1K1 w - - 2 27,King is in danger!
+53,Bxh6,e3h6,3k3r/2p1b3/p3p2B/P2bP3/R5p1/8/1P3PP1/4R1K1 b - - 0 27,King is in danger!
+54,Rxh6,h8h6,3k4/2p1b3/p3p2r/P2bP3/R5p1/8/1P3PP1/4R1K1 w - - 0 28,King is in danger!
+55,Rxg4,a4g4,3k4/2p1b3/p3p2r/P2bP3/6R1/8/1P3PP1/4R1K1 b - - 0 28,King is in danger!
+56,Rh5,h6h5,3k4/2p1b3/p3p3/P2bP2r/6R1/8/1P3PP1/4R1K1 w - - 1 29,King is in danger!
+57,Rd1,e1d1,3k4/2p1b3/p3p3/P2bP2r/6R1/8/1P3PP1/3R2K1 b - - 2 29,King is in danger!
+58,Rxe5,h5e5,3k4/2p1b3/p3p3/P2br3/6R1/8/1P3PP1/3R2K1 w - - 0 30,King is in danger!
+59,Rg8+,g4g8,3k2R1/2p1b3/p3p3/P2br3/8/8/1P3PP1/3R2K1 b - - 1 30,King is in danger!
+60,Kd7,d8d7,6R1/2pkb3/p3p3/P2br3/8/8/1P3PP1/3R2K1 w - - 2 31,King is in danger!
+61,Ra8,g8a8,R7/2pkb3/p3p3/P2br3/8/8/1P3PP1/3R2K1 b - - 3 31,King is in danger!
+62,Re2,e5e2,R7/2pkb3/p3p3/P2b4/8/8/1P2rPP1/3R2K1 w - - 4 32,King is in danger!
+63,Rxa6,a8a6,8/2pkb3/R3p3/P2b4/8/8/1P2rPP1/3R2K1 b - - 0 32,King is in danger!
+64,Rxb2,e2b2,8/2pkb3/R3p3/P2b4/8/8/1r3PP1/3R2K1 w - - 0 33,King is in danger!
+65,Ra8,a6a8,R7/2pkb3/4p3/P2b4/8/8/1r3PP1/3R2K1 b - - 1 33,King is in danger!
+66,Ra2,b2a2,R7/2pkb3/4p3/P2b4/8/8/r4PP1/3R2K1 w - - 2 34,King is in danger!
+67,a6,a5a6,R7/2pkb3/P3p3/3b4/8/8/r4PP1/3R2K1 b - - 0 34,King is in danger!
+68,Bc5,e7c5,R7/2pk4/P3p3/2bb4/8/8/r4PP1/3R2K1 w - - 1 35,King is in danger!
+69,g4,g2g4,R7/2pk4/P3p3/2bb4/6P1/8/r4P2/3R2K1 b - - 0 35,Rxf1 Kxf1 Bxa8 another option
+70,Rxf2,a2f2,R7/2pk4/P3p3/2bb4/6P1/8/5r2/3R2K1 w - - 0 36,Rxf1 Kxf1 Bxa8 another option
+71,Rf1,d1f1,R7/2pk4/P3p3/2bb4/6P1/8/5r2/5RK1 b - - 1 36,Rxf1 Kxf1 Bxa8 another option
+72,Rf8+,f2f8,R4r2/2pk4/P3p3/2bb4/6P1/8/8/5RK1 w - - 2 37,Rxf1 Kxf1 Bxa8 another option
+73,Kh2,g1h2,R4r2/2pk4/P3p3/2bb4/6P1/8/7K/5R2 b - - 3 37,chessmate on Rh1
+74,Rxf1,f8f1,R7/2pk4/P3p3/2bb4/6P1/8/7K/5r2 w - - 0 38,chessmate on Rh1
+75,Rg8,a8g8,6R1/2pk4/P3p3/2bb4/6P1/8/7K/5r2 b - - 1 38,chessmate on Rh1
+76,Bd6+,c5d6,6R1/2pk4/P2bp3/3b4/6P1/8/7K/5r2 w - - 2 39,chessmate on Rh1

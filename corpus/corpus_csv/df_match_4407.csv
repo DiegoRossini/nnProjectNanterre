@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,One of my usual responses to 1 e3
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,One of my usual responses to 1 e3
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/8/4P3/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"Trying to go for ""scholar's mate"" eh? If 2 ... g6??, then simply 3 Qxe5 is winning for white, so instead..."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/8/4P3/PPPP1PPP/RNB1KBNR w KQkq - 2 3,...I develop the QN to protect e5 directly.
+5,Bd3,f1d3,r1bqkbnr/pppp1ppp/2n5/4p2Q/8/3BP3/PPPP1PPP/RNB1K1NR b KQkq - 3 3,"Now I can play 3 ... g6, as 2 ... Nc6 easily prevents 4 Qxe5 Nxe5 losing white's queen for a mere pawn."
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p2Q/8/3BP3/PPPP1PPP/RNB1K1NR w KQkq - 0 4,"Now I can play 3 ... g6, as 2 ... Nc6 easily prevents 4 Qxe5 Nxe5 losing white's queen for a mere pawn."
+7,Qg4,h5g4,r1bqkbnr/pppp1p1p/2n3p1/4p3/6Q1/3BP3/PPPP1PPP/RNB1K1NR b KQkq - 1 4,So white is forced to retreat the queen
+8,d5,d7d5,r1bqkbnr/ppp2p1p/2n3p1/3pp3/6Q1/3BP3/PPPP1PPP/RNB1K1NR w KQkq - 0 5,"Attacking the center, and also taunting Qxc8 Qxc8"
+9,Qxc8,g4c8,r1Qqkbnr/ppp2p1p/2n3p1/3pp3/8/3BP3/PPPP1PPP/RNB1K1NR b KQkq - 0 5,And white wanted to trade queen for LSB
+10,Qxc8,d8c8,r1q1kbnr/ppp2p1p/2n3p1/3pp3/8/3BP3/PPPP1PPP/RNB1K1NR w KQkq - 0 6,And white wanted to trade queen for LSB
+11,Bb5,d3b5,r1q1kbnr/ppp2p1p/2n3p1/1B1pp3/8/4P3/PPPP1PPP/RNB1K1NR b KQkq - 1 6,Pins Nc6 until threatened off the a4-e8 diagonal
+12,Qg4,c8g4,r3kbnr/ppp2p1p/2n3p1/1B1pp3/6q1/4P3/PPPP1PPP/RNB1K1NR w KQkq - 2 7,Does this queen move look premature? I need her out of the way in order to castle queen side
+13,Bf1,b5f1,r3kbnr/ppp2p1p/2n3p1/3pp3/6q1/4P3/PPPP1PPP/RNB1KBNR b KQkq - 3 7,"Defeats the purpose of 6 Bb5 altogether, I would have preferred a N development"
+14,O-O-O,e8c8,2kr1bnr/ppp2p1p/2n3p1/3pp3/6q1/4P3/PPPP1PPP/RNB1KBNR w KQ - 4 8,And now I castle.
+15,h3,h2h3,2kr1bnr/ppp2p1p/2n3p1/3pp3/6q1/4P2P/PPPP1PP1/RNB1KBNR b KQ - 0 8,"This move harasses my queen, so I need to retreat her, but to which square?"
+16,Qd7,g4d7,2kr1bnr/pppq1p1p/2n3p1/3pp3/8/4P2P/PPPP1PP1/RNB1KBNR w KQ - 1 9,And I went for 8 ... Qd7...
+17,Bb5,f1b5,2kr1bnr/pppq1p1p/2n3p1/1B1pp3/8/4P2P/PPPP1PP1/RNB1K1NR b KQ - 2 9,...which renews the B pin
+18,a6,a7a6,2kr1bnr/1ppq1p1p/p1n3p1/1B1pp3/8/4P2P/PPPP1PP1/RNB1K1NR w KQ - 0 10,"I want that B off the a4-e8 diagonal, if 10 Ba4 then simply 10 ... b5 undoes the pin..."
+19,Be2,b5e2,2kr1bnr/1ppq1p1p/p1n3p1/3pp3/8/4P2P/PPPPBPP1/RNB1K1NR b KQ - 1 10,...hence the retreat to e2
+20,Bg7,f8g7,2kr2nr/1ppq1pbp/p1n3p1/3pp3/8/4P2P/PPPPBPP1/RNB1K1NR w KQ - 2 11,I went for a B fianchetto
+21,Bg4,e2g4,2kr2nr/1ppq1pbp/p1n3p1/3pp3/6B1/4P2P/PPPP1PP1/RNB1K1NR b KQ - 3 11,Of course white wants that Q for B trade to equalize material (and to serve as the first Check of the game)...
+22,Nf6,g8f6,2kr3r/1ppq1pbp/p1n2np1/3pp3/6B1/4P2P/PPPP1PP1/RNB1K1NR w KQ - 4 12,...which I accept by developing the KN; both a R and a N are defending d7
+23,Bxd7+,g4d7,2kr3r/1ppB1pbp/p1n2np1/3pp3/8/4P2P/PPPP1PP1/RNB1K1NR b KQ - 0 12,So which piece do I take with?

@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Phillidor Defense
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Phillidor Defense
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Phillidor Defense
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Phillidor Defense
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Nxd4 is another way.
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Nxd4 is another way.
+7,Qxd4,d1d4,rnbqkbnr/ppp2ppp/3p4/8/3QP3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 4,Nxd4 is another way.
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/8/3QP3/5N2/PPP2PPP/RNB1KB1R w KQkq - 1 5,"White does not want to move his queen from this position, if he moves then 4. Qxd4 was wrong."
+9,Bb5,f1b5,r1bqkbnr/ppp2ppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 2 5,"White does not want to move his queen from this position, if he moves then 4. Qxd4 was wrong."
+10,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B6/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 3 6,"White does not want to move his queen from this position, if he moves then 4. Qxd4 was wrong."
+11,Bxc6,b5c6,r2qkbnr/pppb1ppp/2Bp4/8/3QP3/5N2/PPP2PPP/RNB1K2R b KQkq - 0 6,"White does not want to move his queen from this position, if he moves then 4. Qxd4 was wrong."
+12,Bxc6,d7c6,r2qkbnr/ppp2ppp/2bp4/8/3QP3/5N2/PPP2PPP/RNB1K2R w KQkq - 0 7,"White does not want to move his queen from this position, if he moves then 4. Qxd4 was wrong."
+13,Bg5,c1g5,r2qkbnr/ppp2ppp/2bp4/6B1/3QP3/5N2/PPP2PPP/RN2K2R b KQkq - 1 7,"This is very intersting move, if it is not book move then write it after my name :) ... White's idea is simple, if Black moves his queen then she becomes more passive, if Be7 then Qxg7, if Nf6 then White can ruin Black's kingside pawn structure by BxN PxN or BxN QxB QxQ PxQ or he can do something else as Nc3 where Bg5 will not be proved bad as it pins the knight and doing good job at g5, but if Black plays ..."
+14,f6,f7f6,r2qkbnr/ppp3pp/2bp1p2/6B1/3QP3/5N2/PPP2PPP/RN2K2R w KQkq - 0 8,f6 is the move that White wanted to move when he played Bg5. Because f6 is for knight and ...
+15,Be3,g5e3,r2qkbnr/ppp3pp/2bp1p2/8/3QP3/4BN2/PPP2PPP/RN2K2R b KQkq - 1 8,"you see now White's position is pretty good whereas Black's positoin is weeping, his kingside is totally packed specailly his pieces do not finding good squares to go, Black can castle long but he cannot do it so early as a7 pawn will hang plus white queen can threat any unwanted attack going to a7 and a8."
+16,Qe7,d8e7,r3kbnr/ppp1q1pp/2bp1p2/8/3QP3/4BN2/PPP2PPP/RN2K2R w KQkq - 2 9,"you see now White's position is pretty good whereas Black's positoin is weeping, his kingside is totally packed specailly his pieces do not finding good squares to go, Black can castle long but he cannot do it so early as a7 pawn will hang plus white queen can threat any unwanted attack going to a7 and a8."
+17,Nc3,b1c3,r3kbnr/ppp1q1pp/2bp1p2/8/3QP3/2N1BN2/PPP2PPP/R3K2R b KQkq - 3 9,"you see now White's position is pretty good whereas Black's positoin is weeping, his kingside is totally packed specailly his pieces do not finding good squares to go, Black can castle long but he cannot do it so early as a7 pawn will hang plus white queen can threat any unwanted attack going to a7 and a8."
+18,g5,g7g5,r3kbnr/ppp1q2p/2bp1p2/6p1/3QP3/2N1BN2/PPP2PPP/R3K2R w KQkq - 0 10,"this move is very interesting too, actually in this game this is the move which decides the middle game."
+19,Nxg5,f3g5,r3kbnr/ppp1q2p/2bp1p2/6N1/3QP3/2N1B3/PPP2PPP/R3K2R b KQkq - 0 10,...
+20,Bg7,f8g7,r3k1nr/ppp1q1bp/2bp1p2/6N1/3QP3/2N1B3/PPP2PPP/R3K2R w KQkq - 1 11,"White's knight is now hanging if he moves the knight say Nf3 then f5 attacking the white queen, white moves the queen then fxe5, taking pawn back, no any bad pawn structure and kingside mobilized."
+21,Nd5,c3d5,r3k1nr/ppp1q1bp/2bp1p2/3N2N1/3QP3/4B3/PPP2PPP/R3K2R b KQkq - 2 11,"so White plays this move, considering previous analysation, moving forward not backward, not giving any advantage or time to Black."
+22,Bxd5,c6d5,r3k1nr/ppp1q1bp/3p1p2/3b2N1/3QP3/4B3/PPP2PPP/R3K2R w KQkq - 0 12,this exchange favores White as Black's good bishop has gone.
+23,Qxd5,d4d5,r3k1nr/ppp1q1bp/3p1p2/3Q2N1/4P3/4B3/PPP2PPP/R3K2R b KQkq - 0 12,this exchange favores White as Black's good bishop has gone.
+24,c6,c7c6,r3k1nr/pp2q1bp/2pp1p2/3Q2N1/4P3/4B3/PPP2PPP/R3K2R w KQkq - 0 13,!
+25,Qf5,d5f5,r3k1nr/pp2q1bp/2pp1p2/5QN1/4P3/4B3/PPP2PPP/R3K2R b KQkq - 1 13,staying on 5th rank as supporting g5 square.
+26,fxg5,f6g5,r3k1nr/pp2q1bp/2pp4/5Qp1/4P3/4B3/PPP2PPP/R3K2R w KQkq - 0 14,"White got 2 pawn for knight, so its ok ..."
+27,Bxg5,e3g5,r3k1nr/pp2q1bp/2pp4/5QB1/4P3/8/PPP2PPP/R3K2R b KQkq - 0 14,"White got 2 pawn for knight, so its ok ..."
+28,Qe5,e7e5,r3k1nr/pp4bp/2pp4/4qQB1/4P3/8/PPP2PPP/R3K2R w KQkq - 1 15,"activating the rook and supporting b2 pawn, 2 in 1"
+29,Qxe5+,f5e5,r3k1nr/pp4bp/2pp4/4Q1B1/4P3/8/PPP2PPP/R3K2R b KQkq - 0 15,"activating the rook and supporting b2 pawn, 2 in 1"
+30,Bxe5,g7e5,r3k1nr/pp5p/2pp4/4b1B1/4P3/8/PPP2PPP/R3K2R w KQkq - 0 16,"activating the rook and supporting b2 pawn, 2 in 1"
+31,O-O-O,e1c1,r3k1nr/pp5p/2pp4/4b1B1/4P3/8/PPP2PPP/2KR3R b kq - 1 16,"activating the rook and supporting b2 pawn, 2 in 1"
+32,h6,h7h6,r3k1nr/pp6/2pp3p/4b1B1/4P3/8/PPP2PPP/2KR3R w kq - 0 17,...
+33,Be3,g5e3,r3k1nr/pp6/2pp3p/4b3/4P3/4B3/PPP2PPP/2KR3R b kq - 1 17,...
+34,Ke7,e8e7,r5nr/pp2k3/2pp3p/4b3/4P3/4B3/PPP2PPP/2KR3R w - - 2 18,...
+35,Rd3,d1d3,r5nr/pp2k3/2pp3p/4b3/4P3/3RB3/PPP2PPP/2K4R b - - 3 18,...
+36,b6,b7b6,r5nr/p3k3/1ppp3p/4b3/4P3/3RB3/PPP2PPP/2K4R w - - 0 19,...
+37,c4,c2c4,r5nr/p3k3/1ppp3p/4b3/2P1P3/3RB3/PP3PPP/2K4R b - - 0 19,...
+38,c5,c6c5,r5nr/p3k3/1p1p3p/2p1b3/2P1P3/3RB3/PP3PPP/2K4R w - - 0 20,"Black cannot take h3 pawn, if he does then g3, bishop is locked."
+39,Rhd1,h1d1,r5nr/p3k3/1p1p3p/2p1b3/2P1P3/3RB3/PP3PPP/2KR4 b - - 1 20,"Black cannot take h3 pawn, if he does then g3, bishop is locked."
+40,Rd8,a8d8,3r2nr/p3k3/1p1p3p/2p1b3/2P1P3/3RB3/PP3PPP/2KR4 w - - 2 21,"?! this is actually time wasting move, upto now i think this is only bad move White played. Actually White was hoping Ra8 in reply, but ..."
+41,Ra3,d3a3,3r2nr/p3k3/1p1p3p/2p1b3/2P1P3/R3B3/PP3PPP/2KR4 b - - 3 21,"?! this is actually time wasting move, upto now i think this is only bad move White played. Actually White was hoping Ra8 in reply, but ..."
+42,Rd7,d8d7,6nr/p2rk3/1p1p3p/2p1b3/2P1P3/R3B3/PP3PPP/2KR4 w - - 4 22,White was looking for this knight move for long.
+43,Rad3,a3d3,6nr/p2rk3/1p1p3p/2p1b3/2P1P3/3RB3/PP3PPP/2KR4 b - - 5 22,White was looking for this knight move for long.
+44,Nf6,g8f6,7r/p2rk3/1p1p1n1p/2p1b3/2P1P3/3RB3/PP3PPP/2KR4 w - - 6 23,White was looking for this knight move for long.
+45,f4,f2f4,7r/p2rk3/1p1p1n1p/2p1b3/2P1PP2/3RB3/PP4PP/2KR4 b - - 0 23,!

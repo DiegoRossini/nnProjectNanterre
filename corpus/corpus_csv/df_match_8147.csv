@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A philidor defence.It is a solid system,but Black's setup is a little cramped."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A philidor defence.It is a solid system,but Black's setup is a little cramped."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"A philidor defence.It is a solid system,but Black's setup is a little cramped."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"A philidor defence.It is a solid system,but Black's setup is a little cramped."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Striking in the center
+6,Nd7,b8d7,r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"The lion system.I play this sometimes,but I usually do it via Pirc Defence.1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7."
+7,Bc4,f1c4,r1bqkbnr/pppn1ppp/3p4/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 4,?! Pretty risky.The main line is 4...c6
+8,h6,h7h6,r1bqkbnr/pppn1pp1/3p3p/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,?! Pretty risky.The main line is 4...c6
+9,dxe5,d4e5,r1bqkbnr/pppn1pp1/3p3p/4P3/2B1P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"Maybe a better alternative is 5...Qe7,but I think 6.e6 gives White a slight advantage."
+10,dxe5,d6e5,r1bqkbnr/pppn1pp1/7p/4p3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"Maybe a better alternative is 5...Qe7,but I think 6.e6 gives White a slight advantage."
+11,Bxf7+,c4f7,r1bqkbnr/pppn1Bp1/7p/4p3/4P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 6,Sac!
+12,Kxf7,e8f7,r1bq1bnr/pppn1kp1/7p/4p3/4P3/5N2/PPP2PPP/RNBQK2R w KQ - 0 7,7...Nxe5?? 8.Qxd8
+13,Nxe5+,f3e5,r1bq1bnr/pppn1kp1/7p/4N3/4P3/8/PPP2PPP/RNBQK2R b KQ - 0 7,7...Nxe5?? 8.Qxd8
+14,Kf6,f7f6,r1bq1bnr/pppn2p1/5k1p/4N3/4P3/8/PPP2PPP/RNBQK2R w KQ - 1 8,7...Nxe5?? 8.Qxd8
+15,Nc3,b1c3,r1bq1bnr/pppn2p1/5k1p/4N3/4P3/2N5/PPP2PPP/R1BQK2R b KQ - 2 8,"A viable alternative is 8.Qd4,but I think Black can survive after 8...c5!(An exclamation mark may be a little exaggerative,but I think this relieves black's problems.8...c5 9.Nxd7+ Ke7 10.Qxc5+ Kd7 and I think Black is ok because a queen can't attack the king by itself.I feel this move is better because it brings another piece into the game and threatens 9.Nd5+"
+16,Kxe5,f6e5,r1bq1bnr/pppn2p1/7p/4k3/4P3/2N5/PPP2PPP/R1BQK2R w KQ - 0 9,? Better would have been 8...c6.Now White has a winning attack.
+17,Qd5+,d1d5,r1bq1bnr/pppn2p1/7p/3Qk3/4P3/2N5/PPP2PPP/R1B1K2R b KQ - 1 9,Black's King is unsafe.
+18,Kf6,e5f6,r1bq1bnr/pppn2p1/5k1p/3Q4/4P3/2N5/PPP2PPP/R1B1K2R w KQ - 2 10,Black's King is unsafe.
+19,Qf5+,d5f5,r1bq1bnr/pppn2p1/5k1p/5Q2/4P3/2N5/PPP2PPP/R1B1K2R b KQ - 3 10,Black's King is unsafe.
+20,Ke7,f6e7,r1bq1bnr/pppnk1p1/7p/5Q2/4P3/2N5/PPP2PPP/R1B1K2R w KQ - 4 11,Black's King is unsafe.
+21,Nd5+,c3d5,r1bq1bnr/pppnk1p1/7p/3N1Q2/4P3/8/PPP2PPP/R1B1K2R b KQ - 5 11,Black's King is unsafe.
+22,Kd6,e7d6,r1bq1bnr/pppn2p1/3k3p/3N1Q2/4P3/8/PPP2PPP/R1B1K2R w KQ - 6 12,Black's King is unsafe.
+23,Bf4+,c1f4,r1bq1bnr/pppn2p1/3k3p/3N1Q2/4PB2/8/PPP2PPP/R3K2R b KQ - 7 12,Black's King is unsafe.
+24,Kc6,d6c6,r1bq1bnr/pppn2p1/2k4p/3N1Q2/4PB2/8/PPP2PPP/R3K2R w KQ - 8 13,Black's King is unsafe.
+25,Qe6+,f5e6,r1bq1bnr/pppn2p1/2k1Q2p/3N4/4PB2/8/PPP2PPP/R3K2R b KQ - 9 13,White keeps checking.Not allowing Black to try to bring his pieces to defend.
+26,Bd6,f8d6,r1bq2nr/pppn2p1/2kbQ2p/3N4/4PB2/8/PPP2PPP/R3K2R w KQ - 10 14,White keeps checking.Not allowing Black to try to bring his pieces to defend.
+27,Nb4+,d5b4,r1bq2nr/pppn2p1/2kbQ2p/8/1N2PB2/8/PPP2PPP/R3K2R b KQ - 11 14,White keeps checking.Not allowing Black to try to bring his pieces to defend.
+28,Kb5,c6b5,r1bq2nr/pppn2p1/3bQ2p/1k6/1N2PB2/8/PPP2PPP/R3K2R w KQ - 12 15,This loses immediately.Although 14...Kb6 15.Bxd6 isn't so pleasant for Black either
+29,a4+,a2a4,r1bq2nr/pppn2p1/3bQ2p/1k6/PN2PB2/8/1PP2PPP/R3K2R b KQ - 0 15,15...Kxb4 16. Qb3+ Kc5 17.Qb5+ Kd4 18.Qd5#
+30,Ka5,b5a5,r1bq2nr/pppn2p1/3bQ2p/k7/PN2PB2/8/1PP2PPP/R3K2R w KQ - 1 16,15...Kxb4 16. Qb3+ Kc5 17.Qb5+ Kd4 18.Qd5#
+31,Qc4,e6c4,r1bq2nr/pppn2p1/3b3p/k7/PNQ1PB2/8/1PP2PPP/R3K2R b KQ - 2 16,Threating mate on b5.
+32,a6,a7a6,r1bq2nr/1ppn2p1/p2b3p/k7/PNQ1PB2/8/1PP2PPP/R3K2R w KQ - 0 17,"Seeing that White can easily mate after playing 18.Bd2,Black resigns."
+33,Nd5,b4d5,r1bq2nr/1ppn2p1/p2b3p/k2N4/P1Q1PB2/8/1PP2PPP/R3K2R b KQ - 1 17,"Seeing that White can easily mate after playing 18.Bd2,Black resigns."

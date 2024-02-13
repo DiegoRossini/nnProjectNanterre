@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,The starting position.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,The starting position.
+3,fxe5,f4e5,rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPP1PP/RNBQKBNR b KQkq - 0 2,The starting position.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq - 0 3,The starting position.
+5,exd6,e5d6,rnbqkbnr/ppp2ppp/3P4/8/8/8/PPPPP1PP/RNBQKBNR b KQkq - 0 3,The starting position.
+6,Bxd6,f8d6,rnbqk1nr/ppp2ppp/3b4/8/8/8/PPPPP1PP/RNBQKBNR w KQkq - 0 4,The starting position.
+7,Nf3,g1f3,rnbqk1nr/ppp2ppp/3b4/8/8/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 4,The starting position.
+8,g5,g7g5,rnbqk1nr/ppp2p1p/3b4/6p1/8/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 5,The starting position.
+9,g3,g2g3,rnbqk1nr/ppp2p1p/3b4/6p1/8/5NP1/PPPPP2P/RNBQKB1R b KQkq - 0 5,The starting position.
+10,g4,g5g4,rnbqk1nr/ppp2p1p/3b4/8/6p1/5NP1/PPPPP2P/RNBQKB1R w KQkq - 0 6,The starting position.
+11,Nh4,f3h4,rnbqk1nr/ppp2p1p/3b4/8/6pN/6P1/PPPPP2P/RNBQKB1R b KQkq - 1 6,The starting position.
+12,Ne7,g8e7,rnbqk2r/ppp1np1p/3b4/8/6pN/6P1/PPPPP2P/RNBQKB1R w KQkq - 2 7,The starting position.
+13,d4,d2d4,rnbqk2r/ppp1np1p/3b4/8/3P2pN/6P1/PPP1P2P/RNBQKB1R b KQkq - 0 7,The starting position.
+14,Ng6,e7g6,rnbqk2r/ppp2p1p/3b2n1/8/3P2pN/6P1/PPP1P2P/RNBQKB1R w KQkq - 1 8,The starting position.
+15,Nxg6,h4g6,rnbqk2r/ppp2p1p/3b2N1/8/3P2p1/6P1/PPP1P2P/RNBQKB1R b KQkq - 0 8,The starting position.
+16,hxg6,h7g6,rnbqk2r/ppp2p2/3b2p1/8/3P2p1/6P1/PPP1P2P/RNBQKB1R w KQkq - 0 9,The starting position.
+17,Bg2,f1g2,rnbqk2r/ppp2p2/3b2p1/8/3P2p1/6P1/PPP1P1BP/RNBQK2R b KQkq - 1 9,"If 10 RxR, 10... BxP ch followed by 11... BxR wins back the piece."
+18,Rxh2,h8h2,rnbqk3/ppp2p2/3b2p1/8/3P2p1/6P1/PPP1P1Br/RNBQK2R w KQq - 0 10,"If 10 RxR, 10... BxP ch followed by 11... BxR wins back the piece."
+19,Bf4,c1f4,rnbqk3/ppp2p2/3b2p1/8/3P1Bp1/6P1/PPP1P1Br/RN1QK2R b KQq - 1 10,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+20,Rxh1+,h2h1,rnbqk3/ppp2p2/3b2p1/8/3P1Bp1/6P1/PPP1P1B1/RN1QK2r w Qq - 0 11,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+21,Bxh1,g2h1,rnbqk3/ppp2p2/3b2p1/8/3P1Bp1/6P1/PPP1P3/RN1QK2B b Qq - 0 11,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+22,Bxf4,d6f4,rnbqk3/ppp2p2/6p1/8/3P1bp1/6P1/PPP1P3/RN1QK2B w Qq - 0 12,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+23,gxf4,g3f4,rnbqk3/ppp2p2/6p1/8/3P1Pp1/8/PPP1P3/RN1QK2B b Qq - 0 12,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+24,c6,c7c6,rnbqk3/pp3p2/2p3p1/8/3P1Pp1/8/PPP1P3/RN1QK2B w Qq - 0 13,More wood comes off the board. Material is even and both sides still have to develop the Queen-side pieces.
+25,Nc3,b1c3,rnbqk3/pp3p2/2p3p1/8/3P1Pp1/2N5/PPP1P3/R2QK2B b Qq - 1 13,I decline the Queen trade.
+26,Qh4+,d8h4,rnb1k3/pp3p2/2p3p1/8/3P1Ppq/2N5/PPP1P3/R2QK2B w Qq - 2 14,I decline the Queen trade.
+27,Kd2,e1d2,rnb1k3/pp3p2/2p3p1/8/3P1Ppq/2N5/PPPKP3/R2Q3B b q - 3 14,I decline the Queen trade.
+28,Bf5,c8f5,rn2k3/pp3p2/2p3p1/5b2/3P1Ppq/2N5/PPPKP3/R2Q3B w q - 4 15,I decline the Queen trade.
+29,Qe1,d1e1,rn2k3/pp3p2/2p3p1/5b2/3P1Ppq/2N5/PPPKP3/R3Q2B b q - 5 15,I decline the Queen trade.
+30,Qf6,h4f6,rn2k3/pp3p2/2p2qp1/5b2/3P1Pp1/2N5/PPPKP3/R3Q2B w q - 6 16,I decline the Queen trade.
+31,e3,e2e3,rn2k3/pp3p2/2p2qp1/5b2/3P1Pp1/2N1P3/PPPK4/R3Q2B b q - 0 16,Development is complete at last.
+32,Nd7,b8d7,r3k3/pp1n1p2/2p2qp1/5b2/3P1Pp1/2N1P3/PPPK4/R3Q2B w q - 1 17,Development is complete at last.
+33,a4,a2a4,r3k3/pp1n1p2/2p2qp1/5b2/P2P1Pp1/2N1P3/1PPK4/R3Q2B b q - 0 17,Development is complete at last.
+34,Nb6,d7b6,r3k3/pp3p2/1np2qp1/5b2/P2P1Pp1/2N1P3/1PPK4/R3Q2B w q - 1 18,Development is complete at last.
+35,b3,b2b3,r3k3/pp3p2/1np2qp1/5b2/P2P1Pp1/1PN1P3/2PK4/R3Q2B b q - 0 18,Development is complete at last.
+36,O-O-O,e8c8,2kr4/pp3p2/1np2qp1/5b2/P2P1Pp1/1PN1P3/2PK4/R3Q2B w - - 1 19,Development is complete at last.
+37,Rd1,a1d1,2kr4/pp3p2/1np2qp1/5b2/P2P1Pp1/1PN1P3/2PK4/3RQ2B b - - 2 19,I gain a material edge.
+38,Qe6,f6e6,2kr4/pp3p2/1np1q1p1/5b2/P2P1Pp1/1PN1P3/2PK4/3RQ2B w - - 3 20,I gain a material edge.
+39,Kc1,d2c1,2kr4/pp3p2/1np1q1p1/5b2/P2P1Pp1/1PN1P3/2P5/2KRQ2B b - - 4 20,I gain a material edge.
+40,Qe8,e6e8,2krq3/pp3p2/1np3p1/5b2/P2P1Pp1/1PN1P3/2P5/2KRQ2B w - - 5 21,I gain a material edge.
+41,Qh4,e1h4,2krq3/pp3p2/1np3p1/5b2/P2P1PpQ/1PN1P3/2P5/2KR3B b - - 6 21,I gain a material edge.
+42,Qxe3+,e8e3,2kr4/pp3p2/1np3p1/5b2/P2P1PpQ/1PN1q3/2P5/2KR3B w - - 0 22,I gain a material edge.
+43,Kb2,c1b2,2kr4/pp3p2/1np3p1/5b2/P2P1PpQ/1PN1q3/1KP5/3R3B b - - 1 22,I add to it.
+44,Qxf4,e3f4,2kr4/pp3p2/1np3p1/5b2/P2P1qpQ/1PN5/1KP5/3R3B w - - 0 23,I add to it.
+45,Qf6,h4f6,2kr4/pp3p2/1np2Qp1/5b2/P2P1qp1/1PN5/1KP5/3R3B b - - 1 23,I don't at all mind exchanging minors.
+46,Nd5,b6d5,2kr4/pp3p2/2p2Qp1/3n1b2/P2P1qp1/1PN5/1KP5/3R3B w - - 2 24,I don't at all mind exchanging minors.
+47,Bxd5,h1d5,2kr4/pp3p2/2p2Qp1/3B1b2/P2P1qp1/1PN5/1KP5/3R4 b - - 0 24,I don't at all mind exchanging minors.
+48,cxd5,c6d5,2kr4/pp3p2/5Qp1/3p1b2/P2P1qp1/1PN5/1KP5/3R4 w - - 0 25,I don't at all mind exchanging minors.
+49,Qxf7,f6f7,2kr4/pp3Q2/6p1/3p1b2/P2P1qp1/1PN5/1KP5/3R4 b - - 0 25,White overlooks this capture.
+50,Qf2,f4f2,2kr4/pp3Q2/6p1/3p1b2/P2P2p1/1PN5/1KP2q2/3R4 w - - 1 26,White overlooks this capture.
+51,Rc1,d1c1,2kr4/pp3Q2/6p1/3p1b2/P2P2p1/1PN5/1KP2q2/2R5 b - - 2 26,White overlooks this capture.
+52,Qxd4,f2d4,2kr4/pp3Q2/6p1/3p1b2/P2q2p1/1PN5/1KP5/2R5 w - - 0 27,White overlooks this capture.
+53,Rd1,c1d1,2kr4/pp3Q2/6p1/3p1b2/P2q2p1/1PN5/1KP5/3R4 b - - 1 27,Taking indirect aim at the base of the White Pawn-chain.
+54,Qc5,d4c5,2kr4/pp3Q2/6p1/2qp1b2/P5p1/1PN5/1KP5/3R4 w - - 2 28,Taking indirect aim at the base of the White Pawn-chain.
+55,Nxd5,c3d5,2kr4/pp3Q2/6p1/2qN1b2/P5p1/1P6/1KP5/3R4 b - - 0 28,"As planned, maintaining my edge."
+56,Qxc2+,c5c2,2kr4/pp3Q2/6p1/3N1b2/P5p1/1P6/1Kq5/3R4 w - - 0 29,"As planned, maintaining my edge."
+57,Ka3,b2a3,2kr4/pp3Q2/6p1/3N1b2/P5p1/KP6/2q5/3R4 b - - 1 29,Intending... Q-Q2 offering a Queen trade.
+58,Kb8,c8b8,1k1r4/pp3Q2/6p1/3N1b2/P5p1/KP6/2q5/3R4 w - - 2 30,Intending... Q-Q2 offering a Queen trade.
+59,Rd2,d1d2,1k1r4/pp3Q2/6p1/3N1b2/P5p1/KP6/2qR4/8 b - - 3 30,Intending... Q-Q2 offering a Queen trade.
+60,Qc6,c2c6,1k1r4/pp3Q2/2q3p1/3N1b2/P5p1/KP6/3R4/8 w - - 4 31,Intending... Q-Q2 offering a Queen trade.
+61,Re2,d2e2,1k1r4/pp3Q2/2q3p1/3N1b2/P5p1/KP6/4R3/8 b - - 5 31,Now I win a piece outright.
+62,Qxd5,c6d5,1k1r4/pp3Q2/6p1/3q1b2/P5p1/KP6/4R3/8 w - - 0 32,Now I win a piece outright.
+63,Qe7,f7e7,1k1r4/pp2Q3/6p1/3q1b2/P5p1/KP6/4R3/8 b - - 1 32,Now White really can't afford to trade Queens...
+64,Qd7,d5d7,1k1r4/pp1qQ3/6p1/5b2/P5p1/KP6/4R3/8 w - - 2 33,Now White really can't afford to trade Queens...
+65,Qe5+,e7e5,1k1r4/pp1q4/6p1/4Qb2/P5p1/KP6/4R3/8 b - - 3 33,...but I force them off the board.
+66,Qd6+,d7d6,1k1r4/pp6/3q2p1/4Qb2/P5p1/KP6/4R3/8 w - - 4 34,...but I force them off the board.
+67,Qxd6+,e5d6,1k1r4/pp6/3Q2p1/5b2/P5p1/KP6/4R3/8 b - - 0 34,Now I just have to mop up.
+68,Rxd6,d8d6,1k6/pp6/3r2p1/5b2/P5p1/KP6/4R3/8 w - - 0 35,Now I just have to mop up.
+69,Re8+,e2e8,1k2R3/pp6/3r2p1/5b2/P5p1/KP6/8/8 b - - 1 35,Looking to work the King to the K side to support my passed Pawns.
+70,Kc7,b8c7,4R3/ppk5/3r2p1/5b2/P5p1/KP6/8/8 w - - 2 36,Looking to work the King to the K side to support my passed Pawns.
+71,Re7+,e8e7,8/ppk1R3/3r2p1/5b2/P5p1/KP6/8/8 b - - 3 36,Looking to work the King to the K side to support my passed Pawns.
+72,Rd7,d6d7,8/ppkrR3/6p1/5b2/P5p1/KP6/8/8 w - - 4 37,Looking to work the King to the K side to support my passed Pawns.
+73,Re1,e7e1,8/ppkr4/6p1/5b2/P5p1/KP6/8/4R3 b - - 5 37,Looking to work the King to the K side to support my passed Pawns.
+74,Kd8,c7d8,3k4/pp1r4/6p1/5b2/P5p1/KP6/8/4R3 w - - 6 38,Looking to work the King to the K side to support my passed Pawns.
+75,a5,a4a5,3k4/pp1r4/6p1/P4b2/6p1/KP6/8/4R3 b - - 0 38,"Naturally, I want to lock the position on this side."
+76,b6,b7b6,3k4/p2r4/1p4p1/P4b2/6p1/KP6/8/4R3 w - - 0 39,"Naturally, I want to lock the position on this side."
+77,a6,a5a6,3k4/p2r4/Pp4p1/5b2/6p1/KP6/8/4R3 b - - 0 39,I now offer a Rook trade.
+78,Re7,d7e7,3k4/p3r3/Pp4p1/5b2/6p1/KP6/8/4R3 w - - 1 40,I now offer a Rook trade.
+79,Rh1,e1h1,3k4/p3r3/Pp4p1/5b2/6p1/KP6/8/7R b - - 2 40,White graciously resigns.
+80,g3,g4g3,3k4/p3r3/Pp4p1/5b2/8/KP4p1/8/7R w - - 0 41,White graciously resigns.

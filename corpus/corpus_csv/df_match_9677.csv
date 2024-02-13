@@ -1,0 +1,103 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,closed game
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,closed game
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,closed game
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,closed game
+5,a3,a2a3,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/P3P3/1PP2PPP/RNBQKBNR b KQkq - 0 3,i made a note to try to take out his lead pawn
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/3P4/P3P3/1PP2PPP/RNBQKBNR w KQkq - 0 4,i made a note to try to take out his lead pawn
+7,Nf3,g1f3,rnbqkbnr/pp3ppp/4p3/2pp4/3P4/P3PN2/1PP2PPP/RNBQKB1R b KQkq - 1 4,i made a note to try to take out his lead pawn
+8,c4,c5c4,rnbqkbnr/pp3ppp/4p3/3p4/2pP4/P3PN2/1PP2PPP/RNBQKB1R w KQkq - 0 5,i made a note to try to take out his lead pawn
+9,c3,c2c3,rnbqkbnr/pp3ppp/4p3/3p4/2pP4/P1P1PN2/1P3PPP/RNBQKB1R b KQkq - 0 5,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+10,Bd7,c8d7,rn1qkbnr/pp1b1ppp/4p3/3p4/2pP4/P1P1PN2/1P3PPP/RNBQKB1R w KQkq - 1 6,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+11,Nbd2,b1d2,rn1qkbnr/pp1b1ppp/4p3/3p4/2pP4/P1P1PN2/1P1N1PPP/R1BQKB1R b KQkq - 2 6,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+12,Nc6,b8c6,r2qkbnr/pp1b1ppp/2n1p3/3p4/2pP4/P1P1PN2/1P1N1PPP/R1BQKB1R w KQkq - 3 7,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+13,e4,e3e4,r2qkbnr/pp1b1ppp/2n1p3/3p4/2pPP3/P1P2N2/1P1N1PPP/R1BQKB1R b KQkq - 0 7,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+14,Qe7,d8e7,r3kbnr/pp1bqppp/2n1p3/3p4/2pPP3/P1P2N2/1P1N1PPP/R1BQKB1R w KQkq - 1 8,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+15,h3,h2h3,r3kbnr/pp1bqppp/2n1p3/3p4/2pPP3/P1P2N1P/1P1N1PP1/R1BQKB1R b KQkq - 0 8,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+16,Nf6,g8f6,r3kb1r/pp1bqppp/2n1pn2/3p4/2pPP3/P1P2N1P/1P1N1PP1/R1BQKB1R w KQkq - 1 9,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+17,e5,e4e5,r3kb1r/pp1bqppp/2n1pn2/3pP3/2pP4/P1P2N1P/1P1N1PP1/R1BQKB1R b KQkq - 0 9,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+18,Nh5,f6h5,r3kb1r/pp1bqppp/2n1p3/3pP2n/2pP4/P1P2N1P/1P1N1PP1/R1BQKB1R w KQkq - 1 10,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+19,Be2,f1e2,r3kb1r/pp1bqppp/2n1p3/3pP2n/2pP4/P1P2N1P/1P1NBPP1/R1BQK2R b KQkq - 2 10,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+20,f6,f7f6,r3kb1r/pp1bq1pp/2n1pp2/3pP2n/2pP4/P1P2N1P/1P1NBPP1/R1BQK2R w KQkq - 0 11,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+21,O-O,e1g1,r3kb1r/pp1bq1pp/2n1pp2/3pP2n/2pP4/P1P2N1P/1P1NBPP1/R1BQ1RK1 b kq - 1 11,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+22,fxe5,f6e5,r3kb1r/pp1bq1pp/2n1p3/3pp2n/2pP4/P1P2N1P/1P1NBPP1/R1BQ1RK1 w kq - 0 12,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+23,Nxe5,f3e5,r3kb1r/pp1bq1pp/2n1p3/3pN2n/2pP4/P1P4P/1P1NBPP1/R1BQ1RK1 b kq - 0 12,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+24,Nxe5,c6e5,r3kb1r/pp1bq1pp/4p3/3pn2n/2pP4/P1P4P/1P1NBPP1/R1BQ1RK1 w kq - 0 13,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+25,dxe5,d4e5,r3kb1r/pp1bq1pp/4p3/3pP2n/2p5/P1P4P/1P1NBPP1/R1BQ1RK1 b kq - 0 13,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+26,Nf4,h5f4,r3kb1r/pp1bq1pp/4p3/3pP3/2p2n2/P1P4P/1P1NBPP1/R1BQ1RK1 w kq - 1 14,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+27,Nf3,d2f3,r3kb1r/pp1bq1pp/4p3/3pP3/2p2n2/P1P2N1P/1P2BPP1/R1BQ1RK1 b kq - 2 14,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+28,Nxe2+,f4e2,r3kb1r/pp1bq1pp/4p3/3pP3/2p5/P1P2N1P/1P2nPP1/R1BQ1RK1 w kq - 0 15,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+29,Qxe2,d1e2,r3kb1r/pp1bq1pp/4p3/3pP3/2p5/P1P2N1P/1P2QPP1/R1B2RK1 b kq - 0 15,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+30,Ba4,d7a4,r3kb1r/pp2q1pp/4p3/3pP3/b1p5/P1P2N1P/1P2QPP1/R1B2RK1 w kq - 1 16,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+31,Bg5,c1g5,r3kb1r/pp2q1pp/4p3/3pP1B1/b1p5/P1P2N1P/1P2QPP1/R4RK1 b kq - 2 16,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+32,Qd7,e7d7,r3kb1r/pp1q2pp/4p3/3pP1B1/b1p5/P1P2N1P/1P2QPP1/R4RK1 w kq - 3 17,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+33,Nd4,f3d4,r3kb1r/pp1q2pp/4p3/3pP1B1/b1pN4/P1P4P/1P2QPP1/R4RK1 b kq - 4 17,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+34,Bc5,f8c5,r3k2r/pp1q2pp/4p3/2bpP1B1/b1pN4/P1P4P/1P2QPP1/R4RK1 w kq - 5 18,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+35,Qh5+,e2h5,r3k2r/pp1q2pp/4p3/2bpP1BQ/b1pN4/P1P4P/1P3PP1/R4RK1 b kq - 6 18,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+36,Qf7,d7f7,r3k2r/pp3qpp/4p3/2bpP1BQ/b1pN4/P1P4P/1P3PP1/R4RK1 w kq - 7 19,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+37,Nxe6,d4e6,r3k2r/pp3qpp/4N3/2bpP1BQ/b1p5/P1P4P/1P3PP1/R4RK1 b kq - 0 19,"he caught me by surprise here, anticipating he could regain the queen with a knight fork"
+38,Qxh5,f7h5,r3k2r/pp4pp/4N3/2bpP1Bq/b1p5/P1P4P/1P3PP1/R4RK1 w kq - 0 20,"i'm down in material here, though i will be able to make it up by move 25."
+39,Nxg7+,e6g7,r3k2r/pp4Np/8/2bpP1Bq/b1p5/P1P4P/1P3PP1/R4RK1 b kq - 0 20,"i'm down in material here, though i will be able to make it up by move 25."
+40,Kf7,e8f7,r6r/pp3kNp/8/2bpP1Bq/b1p5/P1P4P/1P3PP1/R4RK1 w - - 1 21,"i'm down in material here, though i will be able to make it up by move 25."
+41,Nxh5,g7h5,r6r/pp3k1p/8/2bpP1BN/b1p5/P1P4P/1P3PP1/R4RK1 b - - 0 21,"i'm down in material here, though i will be able to make it up by move 25."
+42,Kg6,f7g6,r6r/pp5p/6k1/2bpP1BN/b1p5/P1P4P/1P3PP1/R4RK1 w - - 1 22,"i'm down in material here, though i will be able to make it up by move 25."
+43,Bf6,g5f6,r6r/pp5p/5Bk1/2bpP2N/b1p5/P1P4P/1P3PP1/R4RK1 b - - 2 22,"i'm down in material here, though i will be able to make it up by move 25."
+44,Kxh5,g6h5,r6r/pp5p/5B2/2bpP2k/b1p5/P1P4P/1P3PP1/R4RK1 w - - 0 23,"i'm down in material here, though i will be able to make it up by move 25."
+45,Bxh8,f6h8,r6B/pp5p/8/2bpP2k/b1p5/P1P4P/1P3PP1/R4RK1 b - - 0 23,"it also leaves me with a rook vs. 2 minor piece situation after 27, though this will work out to my advantage"
+46,Rxh8,a8h8,7r/pp5p/8/2bpP2k/b1p5/P1P4P/1P3PP1/R4RK1 w - - 0 24,"it also leaves me with a rook vs. 2 minor piece situation after 27, though this will work out to my advantage"
+47,g3,g2g3,7r/pp5p/8/2bpP2k/b1p5/P1P3PP/1P3P2/R4RK1 b - - 0 24,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+48,Re8,h8e8,4r3/pp5p/8/2bpP2k/b1p5/P1P3PP/1P3P2/R4RK1 w - - 1 25,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+49,Kg2,g1g2,4r3/pp5p/8/2bpP2k/b1p5/P1P3PP/1P3PK1/R4R2 b - - 2 25,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+50,Rxe5,e8e5,8/pp5p/8/2bpr2k/b1p5/P1P3PP/1P3PK1/R4R2 w - - 0 26,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+51,Rae1,a1e1,8/pp5p/8/2bpr2k/b1p5/P1P3PP/1P3PK1/4RR2 b - - 1 26,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+52,Rxe1,e5e1,8/pp5p/8/2bp3k/b1p5/P1P3PP/1P3PK1/4rR2 w - - 0 27,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+53,Rxe1,f1e1,8/pp5p/8/2bp3k/b1p5/P1P3PP/1P3PK1/4R3 b - - 0 27,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+54,Bc6,a4c6,8/pp5p/2b5/2bp3k/2p5/P1P3PP/1P3PK1/4R3 w - - 1 28,"the advantage of two minor pieces vs. a rook is he can't afford to do a direct exchange for either, so they and the pawns can guard one another"
+55,Re5+,e1e5,8/pp5p/2b5/2bpR2k/2p5/P1P3PP/1P3PK1/8 b - - 2 28,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+56,Kg6,h5g6,8/pp5p/2b3k1/2bpR3/2p5/P1P3PP/1P3PK1/8 w - - 3 29,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+57,f3,f2f3,8/pp5p/2b3k1/2bpR3/2p5/P1P2PPP/1P4K1/8 b - - 0 29,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+58,Kf6,g6f6,8/pp5p/2b2k2/2bpR3/2p5/P1P2PPP/1P4K1/8 w - - 1 30,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+59,Rh5,e5h5,8/pp5p/2b2k2/2bp3R/2p5/P1P2PPP/1P4K1/8 b - - 2 30,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+60,Kg6,f6g6,8/pp5p/2b3k1/2bp3R/2p5/P1P2PPP/1P4K1/8 w - - 3 31,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+61,Re5,h5e5,8/pp5p/2b3k1/2bpR3/2p5/P1P2PPP/1P4K1/8 b - - 4 31,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+62,h5,h7h5,8/pp6/2b3k1/2bpR2p/2p5/P1P2PPP/1P4K1/8 w - - 0 32,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+63,h4,h3h4,8/pp6/2b3k1/2bpR2p/2p4P/P1P2PP1/1P4K1/8 b - - 0 32,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+64,Bf8,c5f8,5b2/pp6/2b3k1/3pR2p/2p4P/P1P2PP1/1P4K1/8 w - - 1 33,i've got to find a way to get my bishop into the back row before his pawns shut off all the passages
+65,Kf2,g2f2,5b2/pp6/2b3k1/3pR2p/2p4P/P1P2PP1/1P3K2/8 b - - 2 33,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+66,Bg7,f8g7,8/pp4b1/2b3k1/3pR2p/2p4P/P1P2PP1/1P3K2/8 w - - 3 34,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+67,Rg5+,e5g5,8/pp4b1/2b3k1/3p2Rp/2p4P/P1P2PP1/1P3K2/8 b - - 4 34,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+68,Kh6,g6h6,8/pp4b1/2b4k/3p2Rp/2p4P/P1P2PP1/1P3K2/8 w - - 5 35,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+69,Ke3,f2e3,8/pp4b1/2b4k/3p2Rp/2p4P/P1P1KPP1/1P6/8 b - - 6 35,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+70,Bf6,g7f6,8/pp6/2b2b1k/3p2Rp/2p4P/P1P1KPP1/1P6/8 w - - 7 36,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+71,Rf5,g5f5,8/pp6/2b2b1k/3p1R1p/2p4P/P1P1KPP1/1P6/8 b - - 8 36,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+72,Kg6,h6g6,8/pp6/2b2bk1/3p1R1p/2p4P/P1P1KPP1/1P6/8 w - - 9 37,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+73,g4,g3g4,8/pp6/2b2bk1/3p1R1p/2p3PP/P1P1KP2/1P6/8 b - - 0 37,"I pretty much had the game won here, as I'll go up a pawn after this exchange is complete"
+74,hxg4,h5g4,8/pp6/2b2bk1/3p1R2/2p3pP/P1P1KP2/1P6/8 w - - 0 38,
+75,fxg4,f3g4,8/pp6/2b2bk1/3p1R2/2p3PP/P1P1K3/1P6/8 b - - 0 38,
+76,Bxh4,f6h4,8/pp6/2b3k1/3p1R2/2p3Pb/P1P1K3/1P6/8 w - - 0 39,
+77,Rh5,f5h5,8/pp6/2b3k1/3p3R/2p3Pb/P1P1K3/1P6/8 b - - 1 39,
+78,Bf6,h4f6,8/pp6/2b2bk1/3p3R/2p3P1/P1P1K3/1P6/8 w - - 2 40,
+79,Kf4,e3f4,8/pp6/2b2bk1/3p3R/2p2KP1/P1P5/1P6/8 b - - 3 40,
+80,d4,d5d4,8/pp6/2b2bk1/7R/2pp1KP1/P1P5/1P6/8 w - - 0 41,
+81,cxd4,c3d4,8/pp6/2b2bk1/7R/2pP1KP1/P7/1P6/8 b - - 0 41,
+82,Bxd4,f6d4,8/pp6/2b3k1/7R/2pb1KP1/P7/1P6/8 w - - 0 42,
+83,Rh2,h5h2,8/pp6/2b3k1/8/2pb1KP1/P7/1P5R/8 b - - 1 42,
+84,Ba4,c6a4,8/pp6/6k1/8/b1pb1KP1/P7/1P5R/8 w - - 2 43,
+85,Ke4,f4e4,8/pp6/6k1/8/b1pbK1P1/P7/1P5R/8 b - - 3 43,
+86,Bf6,d4f6,8/pp6/5bk1/8/b1p1K1P1/P7/1P5R/8 w - - 4 44,
+87,Kd5,e4d5,8/pp6/5bk1/3K4/b1p3P1/P7/1P5R/8 b - - 5 44,
+88,c3,c4c3,8/pp6/5bk1/3K4/b5P1/P1p5/1P5R/8 w - - 0 45,
+89,bxc3,b2c3,8/pp6/5bk1/3K4/b5P1/P1P5/7R/8 b - - 0 45,
+90,Bxc3,f6c3,8/pp6/6k1/3K4/b5P1/P1b5/7R/8 w - - 0 46,
+91,Kc4,d5c4,8/pp6/6k1/8/b1K3P1/P1b5/7R/8 b - - 1 46,
+92,Bf6,c3f6,8/pp6/5bk1/8/b1K3P1/P7/7R/8 w - - 2 47,
+93,Kb4,c4b4,8/pp6/5bk1/8/bK4P1/P7/7R/8 b - - 3 47,
+94,Bc6,a4c6,8/pp6/2b2bk1/8/1K4P1/P7/7R/8 w - - 4 48,
+95,a4,a3a4,8/pp6/2b2bk1/8/PK4P1/8/7R/8 b - - 0 48,
+96,Kg5,g6g5,8/pp6/2b2b2/6k1/PK4P1/8/7R/8 w - - 1 49,
+97,a5,a4a5,8/pp6/2b2b2/P5k1/1K4P1/8/7R/8 b - - 0 49,
+98,Kxg4,g5g4,8/pp6/2b2b2/P7/1K4k1/8/7R/8 w - - 0 50,
+99,Rf2,h2f2,8/pp6/2b2b2/P7/1K4k1/8/5R2/8 b - - 1 50,
+100,Be7+,f6e7,8/pp2b3/2b5/P7/1K4k1/8/5R2/8 w - - 2 51,
+101,Kc4,b4c4,8/pp2b3/2b5/P7/2K3k1/8/5R2/8 b - - 3 51,
+102,b5+,b7b5,8/p3b3/2b5/Pp6/2K3k1/8/5R2/8 w - b6 0 52,

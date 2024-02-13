@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,French Defence
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,French Defence
+3,e5,e4e5,rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"Not great, but can transpose to the main line of the advance varation.(e4 e6,d4 d5, e5)"
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 3,"It may have been better to play d6, immediately challenging the e5 pawn. Taking on d6 gives black a development advantage after Bxd6 or else the pawn centre will crumble."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Back to the main line.
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"This allows black to swap off his bad bishop. White's whie squared bishop should find a good home on d3, where it creates some kingside pressure."
+7,Bb5+,f1b5,rnbqkbnr/pp3ppp/4p3/1BppP3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4,"This allows black to swap off his bad bishop. White's whie squared bishop should find a good home on d3, where it creates some kingside pressure."
+8,Bd7,c8d7,rn1qkbnr/pp1b1ppp/4p3/1BppP3/3P4/8/PPP2PPP/RNBQK1NR w KQkq - 2 5,Swapping the bad bishop.
+9,Bxd7+,b5d7,rn1qkbnr/pp1B1ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 0 5,I didnt take with the knight as it will be more active on c6.
+10,Qxd7,d8d7,rn2kbnr/pp1q1ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQK1NR w KQkq - 0 6,I didnt take with the knight as it will be more active on c6.
+11,Nc3,b1c3,rn2kbnr/pp1q1ppp/4p3/2ppP3/3P4/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 6,"it was better to try fortify the pawn chain with c3. The knight can then go to d2, then f3 or f1 and find a home on the kingside."
+12,Nc6,b8c6,r3kbnr/pp1q1ppp/2n1p3/2ppP3/3P4/2N5/PPP2PPP/R1BQK1NR w KQkq - 2 7,Putting more pressure on the pawn centre.
+13,Nf3,g1f3,r3kbnr/pp1q1ppp/2n1p3/2ppP3/3P4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 3 7,Developing and defending the pawn. Good move.
+14,cxd4,c5d4,r3kbnr/pp1q1ppp/2n1p3/3pP3/3p4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 8,Breaking up the pawn chain.
+15,Nxd4,f3d4,r3kbnr/pp1q1ppp/2n1p3/3pP3/3N4/2N5/PPP2PPP/R1BQK2R b KQkq - 0 8,"I think I missed winning a pawn with Nxe5, but even still I prefer black's position."
+16,Bc5,f8c5,r3k1nr/pp1q1ppp/2n1p3/2bpP3/3N4/2N5/PPP2PPP/R1BQK2R w KQkq - 1 9,"I think I missed winning a pawn with Nxe5, but even still I prefer black's position."
+17,Nxc6,d4c6,r3k1nr/pp1q1ppp/2N1p3/2bpP3/8/2N5/PPP2PPP/R1BQK2R b KQkq - 0 9,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+18,bxc6,b7c6,r3k1nr/p2q1ppp/2p1p3/2bpP3/8/2N5/PPP2PPP/R1BQK2R w KQkq - 0 10,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+19,O-O,e1g1,r3k1nr/p2q1ppp/2p1p3/2bpP3/8/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 10,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+20,Ne7,g8e7,r3k2r/p2qnppp/2p1p3/2bpP3/8/2N5/PPP2PPP/R1BQ1RK1 w kq - 2 11,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+21,Bg5,c1g5,r3k2r/p2qnppp/2p1p3/2bpP1B1/8/2N5/PPP2PPP/R2Q1RK1 b kq - 3 11,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+22,Ng6,e7g6,r3k2r/p2q1ppp/2p1p1n1/2bpP1B1/8/2N5/PPP2PPP/R2Q1RK1 w kq - 4 12,"Attacking the pawn e5 and also preparing h6, driving the Bishop back. Not that an immediate h6 allows Bxe7, while now it dosn't."
+23,Ne2,c3e2,r3k2r/p2q1ppp/2p1p1n1/2bpP1B1/8/8/PPP1NPPP/R2Q1RK1 b kq - 5 12,"White should be aiming for a kingside attack as that is where the black king will most likely castle. A plan involving the moves Kh1,f4, and maybe g4 and bringing the knight to g3 to support the attack. Of course the move played is part of the plan, but the pawn on e5 must be defended. Qe2 should be the played and not Re1 as the rook will support the pawns on the kingside."
+24,Nxe5,g6e5,r3k2r/p2q1ppp/2p1p3/2bpn1B1/8/8/PPP1NPPP/R2Q1RK1 w kq - 0 13,Free pawn.
+25,b3,b2b3,r3k2r/p2q1ppp/2p1p3/2bpn1B1/8/1P6/P1P1NPPP/R2Q1RK1 b kq - 0 13,"This move dosnt achieve much, Kh1 threatening to start moving the kingside pawns may be better."
+26,O-O,e8g8,r4rk1/p2q1ppp/2p1p3/2bpn1B1/8/1P6/P1P1NPPP/R2Q1RK1 w - - 1 14,Completing development and allowing black to go for the win.
+27,Nf4,e2f4,r4rk1/p2q1ppp/2p1p3/2bpn1B1/5N2/1P6/P1P2PPP/R2Q1RK1 b - - 2 14,"The knight looks good but it dosnt achieve much, and it blocks kingside pawns."
+28,f6,f7f6,r4rk1/p2q2pp/2p1pp2/2bpn1B1/5N2/1P6/P1P2PPP/R2Q1RK1 w - - 0 15,Forcing the win of a piece.
+29,Bh4,g5h4,r4rk1/p2q2pp/2p1pp2/2bpn3/5N1B/1P6/P1P2PPP/R2Q1RK1 b - - 1 15,"Trying to get some form of sompensation for the piece that will be lost, although it is really clutching at straws."
+30,g5,g7g5,r4rk1/p2q3p/2p1pp2/2bpn1p1/5N1B/1P6/P1P2PPP/R2Q1RK1 w - - 0 16,"Trying to get some form of sompensation for the piece that will be lost, although it is really clutching at straws."
+31,Qh5,d1h5,r4rk1/p2q3p/2p1pp2/2bpn1pQ/5N1B/1P6/P1P2PPP/R4RK1 b - - 1 16,"Trying to get some form of sompensation for the piece that will be lost, although it is really clutching at straws."

@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,this is awful.  again with the gruenfeld ideas but be warned this isn't pretty
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,blocks the c-pawn
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,blocks the c-pawn
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,"at this point, probably better to play Bf5 and cover the N and develop the B."
+5,e4,e2e4,rnbqkb1r/pppppp1p/5np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,"at this point, probably better to play Bf5 and cover the N and develop the B."
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"at this point, probably better to play Bf5 and cover the N and develop the B."
+7,e5,e4e5,rnbqkb1r/ppp1pp1p/5np1/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"at this point, probably better to play Bf5 and cover the N and develop the B."
+8,Ne4,f6e4,rnbqkb1r/ppp1pp1p/6p1/3pP3/3Pn3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"at this point, probably better to play Bf5 and cover the N and develop the B."
+9,Qd3,d1d3,rnbqkb1r/ppp1pp1p/6p1/3pP3/3Pn3/2NQ4/PPP2PPP/R1B1KBNR b KQkq - 2 5,"at this point, probably better to play Bf5 and cover the N and develop the B."
+10,Nxf2,e4f2,rnbqkb1r/ppp1pp1p/6p1/3pP3/3P4/2NQ4/PPP2nPP/R1B1KBNR w KQkq - 0 6,I get carried away with forks that force the K to move and prevent castling
+11,Kxf2,e1f2,rnbqkb1r/ppp1pp1p/6p1/3pP3/3P4/2NQ4/PPP2KPP/R1B2BNR b kq - 0 6,too late.
+12,Bf5,c8f5,rn1qkb1r/ppp1pp1p/6p1/3pPb2/3P4/2NQ4/PPP2KPP/R1B2BNR w kq - 1 7,too late.
+13,Qb5+,d3b5,rn1qkb1r/ppp1pp1p/6p1/1Q1pPb2/3P4/2N5/PPP2KPP/R1B2BNR b kq - 2 7,bringing the B back might have been better but boy those b7 pawns attract Qs like flies to excrement
+14,Nd7,b8d7,r2qkb1r/pppnpp1p/6p1/1Q1pPb2/3P4/2N5/PPP2KPP/R1B2BNR w kq - 3 8,bringing the B back might have been better but boy those b7 pawns attract Qs like flies to excrement
+15,Qxb7,b5b7,r2qkb1r/pQpnpp1p/6p1/3pPb2/3P4/2N5/PPP2KPP/R1B2BNR b kq - 0 8,bringing the B back might have been better but boy those b7 pawns attract Qs like flies to excrement
+16,Bxc2,f5c2,r2qkb1r/pQpnpp1p/6p1/3pP3/3P4/2N5/PPb2KPP/R1B2BNR w kq - 0 9,"this is a price for not developing properly.  i resist f6 because I like castling over there, but Nb6 wasn't the response"
+17,Bg5,c1g5,r2qkb1r/pQpnpp1p/6p1/3pP1B1/3P4/2N5/PPb2KPP/R4BNR b kq - 1 9,"this is a price for not developing properly.  i resist f6 because I like castling over there, but Nb6 wasn't the response"
+18,Nb6,d7b6,r2qkb1r/pQp1pp1p/1n4p1/3pP1B1/3P4/2N5/PPb2KPP/R4BNR w kq - 2 10,"now, I'm stuck.  no initiative, down in points.  the B can't help because it just HAD to go pawn-grabbin."
+19,Bb5+,f1b5,r2qkb1r/pQp1pp1p/1n4p1/1B1pP1B1/3P4/2N5/PPb2KPP/R5NR b kq - 3 10,"now, I'm stuck.  no initiative, down in points.  the B can't help because it just HAD to go pawn-grabbin."
+20,Nd7,b6d7,r2qkb1r/pQpnpp1p/6p1/1B1pP1B1/3P4/2N5/PPb2KPP/R5NR w kq - 4 11,the only move
+21,Nxd5,c3d5,r2qkb1r/pQpnpp1p/6p1/1B1NP1B1/3P4/8/PPb2KPP/R5NR b kq - 0 11,bringing in reinforcements
+22,Rc8,a8c8,2rqkb1r/pQpnpp1p/6p1/1B1NP1B1/3P4/8/PPb2KPP/R5NR w k - 1 12,"better to play Bg7?  there's a N fork looming, and that's not the least of the troubles"
+23,Rc1,a1c1,2rqkb1r/pQpnpp1p/6p1/1B1NP1B1/3P4/8/PPb2KPP/2R3NR b k - 2 12,"the B gets into the action but  with the other three--no four--pieces, it makes no difference.  the game is lost"
+24,Be4,c2e4,2rqkb1r/pQpnpp1p/6p1/1B1NP1B1/3Pb3/8/PP3KPP/2R3NR w k - 3 13,"the B gets into the action but  with the other three--no four--pieces, it makes no difference.  the game is lost"
+25,Rxc7,c1c7,2rqkb1r/pQRnpp1p/6p1/1B1NP1B1/3Pb3/8/PP3KPP/6NR b k - 0 13,"the B gets into the action but  with the other three--no four--pieces, it makes no difference.  the game is lost"
+26,Bxd5,e4d5,2rqkb1r/pQRnpp1p/6p1/1B1bP1B1/3P4/8/PP3KPP/6NR w k - 0 14,"the B gets into the action but  with the other three--no four--pieces, it makes no difference.  the game is lost"
+27,Bxd7+,b5d7,2rqkb1r/pQRBpp1p/6p1/3bP1B1/3P4/8/PP3KPP/6NR b k - 0 14,the only move but better refered to as a delay.
+28,Qxd7,d8d7,2r1kb1r/pQRqpp1p/6p1/3bP1B1/3P4/8/PP3KPP/6NR w k - 0 15,the only move but better refered to as a delay.
+29,Rxc8+,c7c8,2R1kb1r/pQ1qpp1p/6p1/3bP1B1/3P4/8/PP3KPP/6NR b k - 0 15,the only move but better refered to as a delay.
+30,Qd8,d7d8,2Rqkb1r/pQ2pp1p/6p1/3bP1B1/3P4/8/PP3KPP/6NR w k - 1 16,the only move but better refered to as a delay.
+31,Qb5+,b7b5,2Rqkb1r/p3pp1p/6p1/1Q1bP1B1/3P4/8/PP3KPP/6NR b k - 2 16,the only move but better refered to as a delay.
+32,Bc6,d5c6,2Rqkb1r/p3pp1p/2b3p1/1Q2P1B1/3P4/8/PP3KPP/6NR w k - 3 17,the only move but better refered to as a delay.
+33,Qxc6#,b5c6,2Rqkb1r/p3pp1p/2Q3p1/4P1B1/3P4/8/PP3KPP/6NR b k - 0 17,I look at this game when I feel too confident.  poor opening play can bring the reaper within twenty moves.  the opponent's name should have warned me..

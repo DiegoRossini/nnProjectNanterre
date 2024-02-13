@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The most logical and used move.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This follows the Sicilian defence (may be the best answer to 1.e4).
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,which may lead to Najdorf variation or Dragon variation.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,which may lead to Najdorf variation or Dragon variation.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,White's normal reply to Black's second move.
+6,Na6,b8a6,r1bqkbnr/pp2pppp/n2p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,3....Na6?I really don't know the aim of this move.
+7,Bxa6,f1a6,r1bqkbnr/pp2pppp/B2p4/2p5/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,bxa6??I expected 4....Qa5+ then 5....Qxa6.
+8,bxa6,b7a6,r1bqkbnr/p3pppp/p2p4/2p5/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,bxa6??I expected 4....Qa5+ then 5....Qxa6.
+9,dxc5,d4c5,r1bqkbnr/p3pppp/p2p4/2P5/4P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,I also expected 5....Qa5+ then 6....Qxc5.
+10,dxc5,d6c5,r1bqkbnr/p3pppp/p7/2p5/4P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,I also expected 5....Qa5+ then 6....Qxc5.
+11,Qxd8+,d1d8,r1bQkbnr/p3pppp/p7/2p5/4P3/5N2/PPP2PPP/RNB1K2R b KQkq - 0 6,Placing the white king in a safe position and helps the rock to dominate the d-file.
+12,Kxd8,e8d8,r1bk1bnr/p3pppp/p7/2p5/4P3/5N2/PPP2PPP/RNB1K2R w KQ - 0 7,Placing the white king in a safe position and helps the rock to dominate the d-file.
+13,O-O,e1g1,r1bk1bnr/p3pppp/p7/2p5/4P3/5N2/PPP2PPP/RNB2RK1 b - - 1 7,Placing the white king in a safe position and helps the rock to dominate the d-file.
+14,e6,e7e6,r1bk1bnr/p4ppp/p3p3/2p5/4P3/5N2/PPP2PPP/RNB2RK1 w - - 0 8,threatening 9.Nxf7 forking the king and rock.
+15,Ne5,f3e5,r1bk1bnr/p4ppp/p3p3/2p1N3/4P3/8/PPP2PPP/RNB2RK1 b - - 1 8,threatening 9.Nxf7 forking the king and rock.
+16,Ke8,d8e8,r1b1kbnr/p4ppp/p3p3/2p1N3/4P3/8/PPP2PPP/RNB2RK1 w - - 2 9,developping and threaten 10....Bxe4.
+17,Rd1,f1d1,r1b1kbnr/p4ppp/p3p3/2p1N3/4P3/8/PPP2PPP/RNBR2K1 b - - 3 9,developping and threaten 10....Bxe4.
+18,Bb7,c8b7,r3kbnr/pb3ppp/p3p3/2p1N3/4P3/8/PPP2PPP/RNBR2K1 w - - 4 10,developping and threaten 10....Bxe4.
+19,Nc3,b1c3,r3kbnr/pb3ppp/p3p3/2p1N3/4P3/2N5/PPP2PPP/R1BR2K1 b - - 5 10,developping and protecting e4.
+20,Nf6,g8f6,r3kb1r/pb3ppp/p3pn2/2p1N3/4P3/2N5/PPP2PPP/R1BR2K1 w - - 6 11,11....a5??? That will lead to the dangerous 12.Nb5.
+21,f3,f2f3,r3kb1r/pb3ppp/p3pn2/2p1N3/4P3/2N2P2/PPP3PP/R1BR2K1 b - - 0 11,11....a5??? That will lead to the dangerous 12.Nb5.
+22,a5,a6a5,r3kb1r/pb3ppp/4pn2/p1p1N3/4P3/2N2P2/PPP3PP/R1BR2K1 w - - 0 12,11....a5??? That will lead to the dangerous 12.Nb5.
+23,Nb5,c3b5,r3kb1r/pb3ppp/4pn2/pNp1N3/4P3/5P2/PPP3PP/R1BR2K1 b - - 1 12,12....Nxe4??
+24,Nxe4,f6e4,r3kb1r/pb3ppp/4p3/pNp1N3/4n3/5P2/PPP3PP/R1BR2K1 w - - 0 13,12....Nxe4??
+25,fxe4,f3e4,r3kb1r/pb3ppp/4p3/pNp1N3/4P3/8/PPP3PP/R1BR2K1 b - - 0 13,now it is mate in three.
+26,Bxe4,b7e4,r3kb1r/p4ppp/4p3/pNp1N3/4b3/8/PPP3PP/R1BR2K1 w - - 0 14,now it is mate in three.
+27,Nc7+,b5c7,r3kb1r/p1N2ppp/4p3/p1p1N3/4b3/8/PPP3PP/R1BR2K1 b - - 1 14,forced.
+28,Ke7,e8e7,r4b1r/p1N1kppp/4p3/p1p1N3/4b3/8/PPP3PP/R1BR2K1 w - - 2 15,forced.
+29,Bg5+,c1g5,r4b1r/p1N1kppp/4p3/p1p1N1B1/4b3/8/PPP3PP/R2R2K1 b - - 3 15,Again forced.
+30,f6,f7f6,r4b1r/p1N1k1pp/4pp2/p1p1N1B1/4b3/8/PPP3PP/R2R2K1 w - - 0 16,Again forced.
+31,Rd7#,d1d7,r4b1r/p1NRk1pp/4pp2/p1p1N1B1/4b3/8/PPP3PP/R5K1 b - - 1 16,

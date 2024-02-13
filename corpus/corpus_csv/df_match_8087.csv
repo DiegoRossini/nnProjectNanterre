@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi everyone!
+
+I have a collection of games which seem to proove the fact that 2 pieces are better than one rook, even though the side that has the rook may also have a pawn or two for these pieces.  This is Example No.1.  I kick off with 1.e4."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"2. ...... Nf6 - this is the Petrov's Defense, a counter-attack against the e4 pawn."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"2. ...... Nf6 - this is the Petrov's Defense, a counter-attack against the e4 pawn."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"2. ...... Nf6 - this is the Petrov's Defense, a counter-attack against the e4 pawn."
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,3. ...... Qe7 - skewers my knight against my e4 pawn and winning it very soon.
+6,Qe7,d8e7,rnb1kb1r/ppppqppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,3. ...... Qe7 - skewers my knight against my e4 pawn and winning it very soon.
+7,d4,d2d4,rnb1kb1r/ppppqppp/5n2/4N3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,4. d4 - supports e5 knight and opens up a diagonal for Fou Lenoir.
+8,Nc6,b8c6,r1b1kb1r/ppppqppp/2n2n2/4N3/3PP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,5. Nc3 - development.
+9,Nc3,b1c3,r1b1kb1r/ppppqppp/2n2n2/4N3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,5. Nc3 - development.
+10,Nxe5,c6e5,r1b1kb1r/ppppqppp/5n2/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,6. ........ Qxe5 - after a knight trade on e5 black has now restored material equality.
+11,dxe5,d4e5,r1b1kb1r/ppppqppp/5n2/4P3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6,6. ........ Qxe5 - after a knight trade on e5 black has now restored material equality.
+12,Qxe5,e7e5,r1b1kb1r/pppp1ppp/5n2/4q3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7,6. ........ Qxe5 - after a knight trade on e5 black has now restored material equality.
+13,f4,f2f4,r1b1kb1r/pppp1ppp/5n2/4q3/4PP2/2N5/PPP3PP/R1BQKB1R b KQkq - 0 7,"8. Qd4 - Glenda decides to come out to play, ah, she still has to defend something though, the pawn on e4!"
+14,Qe6,e5e6,r1b1kb1r/pppp1ppp/4qn2/8/4PP2/2N5/PPP3PP/R1BQKB1R w KQkq - 1 8,"8. Qd4 - Glenda decides to come out to play, ah, she still has to defend something though, the pawn on e4!"
+15,Qd4,d1d4,r1b1kb1r/pppp1ppp/4qn2/8/3QPP2/2N5/PPP3PP/R1B1KB1R b KQkq - 2 8,"8. Qd4 - Glenda decides to come out to play, ah, she still has to defend something though, the pawn on e4!"
+16,d6,d7d6,r1b1kb1r/ppp2ppp/3pqn2/8/3QPP2/2N5/PPP3PP/R1B1KB1R w KQkq - 0 9,10. ....... 0-0 - some normal development here.
+17,Be2,f1e2,r1b1kb1r/ppp2ppp/3pqn2/8/3QPP2/2N5/PPP1B1PP/R1B1K2R b KQkq - 1 9,10. ....... 0-0 - some normal development here.
+18,Be7,f8e7,r1b1k2r/ppp1bppp/3pqn2/8/3QPP2/2N5/PPP1B1PP/R1B1K2R w KQkq - 2 10,10. ....... 0-0 - some normal development here.
+19,O-O,e1g1,r1b1k2r/ppp1bppp/3pqn2/8/3QPP2/2N5/PPP1B1PP/R1B2RK1 b kq - 3 10,10. ....... 0-0 - some normal development here.
+20,O-O,e8g8,r1b2rk1/ppp1bppp/3pqn2/8/3QPP2/2N5/PPP1B1PP/R1B2RK1 w - - 4 11,10. ....... 0-0 - some normal development here.
+21,Bf3,e2f3,r1b2rk1/ppp1bppp/3pqn2/8/3QPP2/2N2B2/PPP3PP/R1B2RK1 b - - 5 11,11. Bf3 - Fou Leblanc decides to lend more support to my e4 pawn.
+22,c6,c7c6,r1b2rk1/pp2bppp/2ppqn2/8/3QPP2/2N2B2/PPP3PP/R1B2RK1 w - - 0 12,13. ........ Qxg4 - after Glenda decides to go back indoors there follows a B for N trade.  Glenda moves to f3 to try to drive back the Wicked Witch of the West.  The Witch flies back to d7.
+23,Qe3,d4e3,r1b2rk1/pp2bppp/2ppqn2/8/4PP2/2N1QB2/PPP3PP/R1B2RK1 b - - 1 12,13. ........ Qxg4 - after Glenda decides to go back indoors there follows a B for N trade.  Glenda moves to f3 to try to drive back the Wicked Witch of the West.  The Witch flies back to d7.
+24,Ng4,f6g4,r1b2rk1/pp2bppp/2ppq3/8/4PPn1/2N1QB2/PPP3PP/R1B2RK1 w - - 2 13,13. ........ Qxg4 - after Glenda decides to go back indoors there follows a B for N trade.  Glenda moves to f3 to try to drive back the Wicked Witch of the West.  The Witch flies back to d7.
+25,Bxg4,f3g4,r1b2rk1/pp2bppp/2ppq3/8/4PPB1/2N1Q3/PPP3PP/R1B2RK1 b - - 0 13,13. ........ Qxg4 - after Glenda decides to go back indoors there follows a B for N trade.  Glenda moves to f3 to try to drive back the Wicked Witch of the West.  The Witch flies back to d7.
+26,Qxg4,e6g4,r1b2rk1/pp2bppp/2pp4/8/4PPq1/2N1Q3/PPP3PP/R1B2RK1 w - - 0 14,13. ........ Qxg4 - after Glenda decides to go back indoors there follows a B for N trade.  Glenda moves to f3 to try to drive back the Wicked Witch of the West.  The Witch flies back to d7.
+27,Qf3,e3f3,r1b2rk1/pp2bppp/2pp4/8/4PPq1/2N2Q2/PPP3PP/R1B2RK1 b - - 1 14,15. Bd2 - Fou Lenoir finally emerges and the rooks are connected.
+28,Qd7,g4d7,r1b2rk1/pp1qbppp/2pp4/8/4PP2/2N2Q2/PPP3PP/R1B2RK1 w - - 2 15,15. Bd2 - Fou Lenoir finally emerges and the rooks are connected.
+29,Bd2,c1d2,r1b2rk1/pp1qbppp/2pp4/8/4PP2/2N2Q2/PPPB2PP/R4RK1 b - - 3 15,15. Bd2 - Fou Lenoir finally emerges and the rooks are connected.
+30,Qc7,d7c7,r1b2rk1/ppq1bppp/2pp4/8/4PP2/2N2Q2/PPPB2PP/R4RK1 w - - 4 16,16. Kh1 - Henry moves into the corner because he does not want to see the Witch on b3!  He likes her not!
+31,Kh1,g1h1,r1b2rk1/ppq1bppp/2pp4/8/4PP2/2N2Q2/PPPB2PP/R4R1K b - - 5 16,16. Kh1 - Henry moves into the corner because he does not want to see the Witch on b3!  He likes her not!
+32,Be6,c8e6,r4rk1/ppq1bppp/2ppb3/8/4PP2/2N2Q2/PPPB2PP/R4R1K w - - 6 17,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+33,b3,b2b3,r4rk1/ppq1bppp/2ppb3/8/4PP2/1PN2Q2/P1PB2PP/R4R1K b - - 0 17,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+34,Rad8,a8d8,3r1rk1/ppq1bppp/2ppb3/8/4PP2/1PN2Q2/P1PB2PP/R4R1K w - - 1 18,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+35,Ne2,c3e2,3r1rk1/ppq1bppp/2ppb3/8/4PP2/1P3Q2/P1PBN1PP/R4R1K b - - 2 18,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+36,d5,d6d5,3r1rk1/ppq1bppp/2p1b3/3p4/4PP2/1P3Q2/P1PBN1PP/R4R1K w - - 0 19,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+37,exd5,e4d5,3r1rk1/ppq1bppp/2p1b3/3P4/5P2/1P3Q2/P1PBN1PP/R4R1K b - - 0 19,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+38,Bxd5,e6d5,3r1rk1/ppq1bppp/2p5/3b4/5P2/1P3Q2/P1PBN1PP/R4R1K w - - 0 20,19. ........ Bxd5 - after a little bit of piece moving there is a pawn trade.
+39,Qe3,f3e3,3r1rk1/ppq1bppp/2p5/3b4/5P2/1P2Q3/P1PBN1PP/R4R1K b - - 1 20,"21. Bc3 - Fou Lenoir controls the long diagonal, I consider moving Glenda to g3 next move."
+40,Rfe8,f8e8,3rr1k1/ppq1bppp/2p5/3b4/5P2/1P2Q3/P1PBN1PP/R4R1K w - - 2 21,"21. Bc3 - Fou Lenoir controls the long diagonal, I consider moving Glenda to g3 next move."
+41,Bc3,d2c3,3rr1k1/ppq1bppp/2p5/3b4/5P2/1PB1Q3/P1P1N1PP/R4R1K b - - 3 21,"21. Bc3 - Fou Lenoir controls the long diagonal, I consider moving Glenda to g3 next move."
+42,Bf6,e7f6,3rr1k1/ppq2ppp/2p2b2/3b4/5P2/1PB1Q3/P1P1N1PP/R4R1K w - - 4 22,22. Qf2 - Glenda had to sidestep a discovery but now a combo from my opponent leads to the 2 piece for rook imbalance - hence the title of this annotation.
+43,Qf2,e3f2,3rr1k1/ppq2ppp/2p2b2/3b4/5P2/1PB5/P1P1NQPP/R4R1K b - - 5 22,22. Qf2 - Glenda had to sidestep a discovery but now a combo from my opponent leads to the 2 piece for rook imbalance - hence the title of this annotation.
+44,Rxe2,e8e2,3r2k1/ppq2ppp/2p2b2/3b4/5P2/1PB5/P1P1rQPP/R4R1K w - - 0 23,24. Rad1 - my queen rook centralises but that bishop pair do look ominous.
+45,Qxe2,f2e2,3r2k1/ppq2ppp/2p2b2/3b4/5P2/1PB5/P1P1Q1PP/R4R1K b - - 0 23,24. Rad1 - my queen rook centralises but that bishop pair do look ominous.
+46,Bxc3,f6c3,3r2k1/ppq2ppp/2p5/3b4/5P2/1Pb5/P1P1Q1PP/R4R1K w - - 0 24,24. Rad1 - my queen rook centralises but that bishop pair do look ominous.
+47,Rad1,a1d1,3r2k1/ppq2ppp/2p5/3b4/5P2/1Pb5/P1P1Q1PP/3R1R1K b - - 1 24,24. Rad1 - my queen rook centralises but that bishop pair do look ominous.
+48,Bf6,c3f6,3r2k1/ppq2ppp/2p2b2/3b4/5P2/1P6/P1P1Q1PP/3R1R1K w - - 2 25,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+49,Rd3,d1d3,3r2k1/ppq2ppp/2p2b2/3b4/5P2/1P1R4/P1P1Q1PP/5R1K b - - 3 25,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+50,b5,b7b5,3r2k1/p1q2ppp/2p2b2/1p1b4/5P2/1P1R4/P1P1Q1PP/5R1K w - - 0 26,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+51,Qd2,e2d2,3r2k1/p1q2ppp/2p2b2/1p1b4/5P2/1P1R4/P1PQ2PP/5R1K b - - 1 26,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+52,a6,a7a6,3r2k1/2q2ppp/p1p2b2/1p1b4/5P2/1P1R4/P1PQ2PP/5R1K w - - 0 27,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+53,c3,c2c3,3r2k1/2q2ppp/p1p2b2/1p1b4/5P2/1PPR4/P2Q2PP/5R1K b - - 0 27,27. c3 - trying to shut off part of the enemy dsb's long diagonal.
+54,a5,a6a5,3r2k1/2q2ppp/2p2b2/pp1b4/5P2/1PPR4/P2Q2PP/5R1K w - - 0 28,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+55,Rd1,f1d1,3r2k1/2q2ppp/2p2b2/pp1b4/5P2/1PPR4/P2Q2PP/3R3K b - - 1 28,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+56,Re8,d8e8,4r1k1/2q2ppp/2p2b2/pp1b4/5P2/1PPR4/P2Q2PP/3R3K w - - 2 29,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+57,Re3,d3e3,4r1k1/2q2ppp/2p2b2/pp1b4/5P2/1PP1R3/P2Q2PP/3R3K b - - 3 29,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+58,Rxe3,e8e3,6k1/2q2ppp/2p2b2/pp1b4/5P2/1PP1r3/P2Q2PP/3R3K w - - 0 30,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+59,Qxe3,d2e3,6k1/2q2ppp/2p2b2/pp1b4/5P2/1PP1Q3/P5PP/3R3K b - - 0 30,"30. Qxe3 - rook trade, but those 2 enemy bishops still look ominous."
+60,Qb8,c7b8,1q4k1/5ppp/2p2b2/pp1b4/5P2/1PP1Q3/P5PP/3R3K w - - 1 31,33. Rxe8+ - queen trade.
+61,Re1,d1e1,1q4k1/5ppp/2p2b2/pp1b4/5P2/1PP1Q3/P5PP/4R2K b - - 2 31,33. Rxe8+ - queen trade.
+62,h6,h7h6,1q4k1/5pp1/2p2b1p/pp1b4/5P2/1PP1Q3/P5PP/4R2K w - - 0 32,33. Rxe8+ - queen trade.
+63,Qe8+,e3e8,1q2Q1k1/5pp1/2p2b1p/pp1b4/5P2/1PP5/P5PP/4R2K b - - 1 32,33. Rxe8+ - queen trade.
+64,Qxe8,b8e8,4q1k1/5pp1/2p2b1p/pp1b4/5P2/1PP5/P5PP/4R2K w - - 0 33,33. Rxe8+ - queen trade.
+65,Rxe8+,e1e8,4R1k1/5pp1/2p2b1p/pp1b4/5P2/1PP5/P5PP/7K b - - 0 33,33. Rxe8+ - queen trade.
+66,Kh7,g8h7,4R3/5ppk/2p2b1p/pp1b4/5P2/1PP5/P5PP/7K w - - 1 34,34. Re3 - must defend the c3 pawn.
+67,Re3,e8e3,8/5ppk/2p2b1p/pp1b4/5P2/1PP1R3/P5PP/7K b - - 2 34,34. Re3 - must defend the c3 pawn.

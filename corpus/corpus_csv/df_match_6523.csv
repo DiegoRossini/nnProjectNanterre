@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Pretty standard up to here
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pretty standard up to here
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Pretty standard up to here
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Pretty standard up to here
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Pretty standard up to here
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Pretty standard up to here
+7,Bc4,f1c4,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,Pretty standard up to here
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,Pretty standard up to here
+9,O-O,e1g1,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5,Pretty standard up to here
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 8 6,Pretty standard up to here
+11,d3,d2d3,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b - - 0 6,Pretty standard up to here
+12,h6,h7h6,r1bq1rk1/pppp1pp1/2n2n1p/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7,Pretty standard up to here
+13,Be3,c1e3,r1bq1rk1/pppp1pp1/2n2n1p/2b1p3/2B1P3/2NPBN2/PPP2PPP/R2Q1RK1 b - - 1 7,I thought this wasn't the best move for white.
+14,b6,b7b6,r1bq1rk1/p1pp1pp1/1pn2n1p/2b1p3/2B1P3/2NPBN2/PPP2PPP/R2Q1RK1 w - - 0 8,I thought this wasn't the best move for white.
+15,Bxc5,e3c5,r1bq1rk1/p1pp1pp1/1pn2n1p/2B1p3/2B1P3/2NP1N2/PPP2PPP/R2Q1RK1 b - - 0 8,I thought this wasn't the best move for white.
+16,bxc5,b6c5,r1bq1rk1/p1pp1pp1/2n2n1p/2p1p3/2B1P3/2NP1N2/PPP2PPP/R2Q1RK1 w - - 0 9,I thought this wasn't the best move for white.
+17,Bd5,c4d5,r1bq1rk1/p1pp1pp1/2n2n1p/2pBp3/4P3/2NP1N2/PPP2PPP/R2Q1RK1 b - - 1 9,I thought this wasn't the best move for white.
+18,Bb7,c8b7,r2q1rk1/pbpp1pp1/2n2n1p/2pBp3/4P3/2NP1N2/PPP2PPP/R2Q1RK1 w - - 2 10,I thought this wasn't the best move for white.
+19,Bxc6,d5c6,r2q1rk1/pbpp1pp1/2B2n1p/2p1p3/4P3/2NP1N2/PPP2PPP/R2Q1RK1 b - - 0 10,I thought this wasn't the best move for white.
+20,Bxc6,b7c6,r2q1rk1/p1pp1pp1/2b2n1p/2p1p3/4P3/2NP1N2/PPP2PPP/R2Q1RK1 w - - 0 11,I thought this wasn't the best move for white.
+21,Nxe5,f3e5,r2q1rk1/p1pp1pp1/2b2n1p/2p1N3/4P3/2NP4/PPP2PPP/R2Q1RK1 b - - 0 11,I thought this wasn't the best move for white.
+22,Bb7,c6b7,r2q1rk1/pbpp1pp1/5n1p/2p1N3/4P3/2NP4/PPP2PPP/R2Q1RK1 w - - 1 12,I thought this wasn't the best move for white.
+23,f4,f2f4,r2q1rk1/pbpp1pp1/5n1p/2p1N3/4PP2/2NP4/PPP3PP/R2Q1RK1 b - - 0 12,I thought this wasn't the best move for white.
+24,d6,d7d6,r2q1rk1/pbp2pp1/3p1n1p/2p1N3/4PP2/2NP4/PPP3PP/R2Q1RK1 w - - 0 13,I thought this wasn't the best move for white.
+25,Nc4,e5c4,r2q1rk1/pbp2pp1/3p1n1p/2p5/2N1PP2/2NP4/PPP3PP/R2Q1RK1 b - - 1 13,I thought this wasn't the best move for white.
+26,Qd7,d8d7,r4rk1/pbpq1pp1/3p1n1p/2p5/2N1PP2/2NP4/PPP3PP/R2Q1RK1 w - - 2 14,I thought this wasn't the best move for white.
+27,e5,e4e5,r4rk1/pbpq1pp1/3p1n1p/2p1P3/2N2P2/2NP4/PPP3PP/R2Q1RK1 b - - 0 14,I thought this wasn't the best move for white.
+28,dxe5,d6e5,r4rk1/pbpq1pp1/5n1p/2p1p3/2N2P2/2NP4/PPP3PP/R2Q1RK1 w - - 0 15,White is on the run
+29,fxe5,f4e5,r4rk1/pbpq1pp1/5n1p/2p1P3/2N5/2NP4/PPP3PP/R2Q1RK1 b - - 0 15,White is on the run
+30,Qd4+,d7d4,r4rk1/pbp2pp1/5n1p/2p1P3/2Nq4/2NP4/PPP3PP/R2Q1RK1 w - - 1 16,White is on the run
+31,Kh1,g1h1,r4rk1/pbp2pp1/5n1p/2p1P3/2Nq4/2NP4/PPP3PP/R2Q1R1K b - - 2 16,White regains momentum
+32,Ng4,f6g4,r4rk1/pbp2pp1/7p/2p1P3/2Nq2n1/2NP4/PPP3PP/R2Q1R1K w - - 3 17,White regains momentum
+33,Qe2,d1e2,r4rk1/pbp2pp1/7p/2p1P3/2Nq2n1/2NP4/PPP1Q1PP/R4R1K b - - 4 17,White regains momentum
+34,Rfe8,f8e8,r3r1k1/pbp2pp1/7p/2p1P3/2Nq2n1/2NP4/PPP1Q1PP/R4R1K w - - 5 18,White tries to remove the queens support from that pesky knight.
+35,Nb5,c3b5,r3r1k1/pbp2pp1/7p/1Np1P3/2Nq2n1/3P4/PPP1Q1PP/R4R1K b - - 6 18,White tries to remove the queens support from that pesky knight.
+36,Qd7,d4d7,r3r1k1/pbpq1pp1/7p/1Np1P3/2N3n1/3P4/PPP1Q1PP/R4R1K w - - 7 19,White tries to remove the queens support from that pesky knight.
+37,Nxc7,b5c7,r3r1k1/pbNq1pp1/7p/2p1P3/2N3n1/3P4/PPP1Q1PP/R4R1K b - - 0 19,White tries to remove the queens support from that pesky knight.
+38,Nxh2,g4h2,r3r1k1/pbNq1pp1/7p/2p1P3/2N5/3P4/PPP1Q1Pn/R4R1K w - - 0 20,Black goes for an exchange
+39,Nxe8,c7e8,r3N1k1/pb1q1pp1/7p/2p1P3/2N5/3P4/PPP1Q1Pn/R4R1K b - - 0 20,Black has to sacrifice the increased defence.
+40,Nxf1,h2f1,r3N1k1/pb1q1pp1/7p/2p1P3/2N5/3P4/PPP1Q1P1/R4n1K w - - 0 21,Black has to sacrifice the increased defence.
+41,Nf6+,e8f6,r5k1/pb1q1pp1/5N1p/2p1P3/2N5/3P4/PPP1Q1P1/R4n1K b - - 1 21,Black has to sacrifice the increased defence.
+42,gxf6,g7f6,r5k1/pb1q1p2/5p1p/2p1P3/2N5/3P4/PPP1Q1P1/R4n1K w - - 0 22,Black has to sacrifice the increased defence.
+43,Rxf1,a1f1,r5k1/pb1q1p2/5p1p/2p1P3/2N5/3P4/PPP1Q1P1/5R1K b - - 0 22,Black beefs up the defence a bit
+44,Re8,a8e8,4r1k1/pb1q1p2/5p1p/2p1P3/2N5/3P4/PPP1Q1P1/5R1K w - - 1 23,Black beefs up the defence a bit
+45,Qh5,e2h5,4r1k1/pb1q1p2/5p1p/2p1P2Q/2N5/3P4/PPP3P1/5R1K b - - 2 23,White goes on the attack
+46,Qd5,d7d5,4r1k1/pb3p2/5p1p/2pqP2Q/2N5/3P4/PPP3P1/5R1K w - - 3 24,Now what?
+47,Ne3,c4e3,4r1k1/pb3p2/5p1p/2pqP2Q/8/3PN3/PPP3P1/5R1K b - - 4 24,Now what?
+48,Qxe5,d5e5,4r1k1/pb3p2/5p1p/2p1q2Q/8/3PN3/PPP3P1/5R1K w - - 0 25,Ouch. Wrong move.
+49,Nf5,e3f5,4r1k1/pb3p2/5p1p/2p1qN1Q/8/3P4/PPP3P1/5R1K b - - 1 25,White takes advantage.
+50,Bc8,b7c8,2b1r1k1/p4p2/5p1p/2p1qN1Q/8/3P4/PPP3P1/5R1K w - - 2 26,White now threatens either Rxf6 or (possibly more deadly) Qg6.
+51,Nxh6+,f5h6,2b1r1k1/p4p2/5p1N/2p1q2Q/8/3P4/PPP3P1/5R1K b - - 0 26,White now threatens either Rxf6 or (possibly more deadly) Qg6.
+52,Kg7,g8g7,2b1r3/p4pk1/5p1N/2p1q2Q/8/3P4/PPP3P1/5R1K w - - 1 27,White now threatens either Rxf6 or (possibly more deadly) Qg6.
+53,Qxf7+,h5f7,2b1r3/p4Qk1/5p1N/2p1q3/8/3P4/PPP3P1/5R1K b - - 0 27,White now threatens either Rxf6 or (possibly more deadly) Qg6.
+54,Kh8,g7h8,2b1r2k/p4Q2/5p1N/2p1q3/8/3P4/PPP3P1/5R1K w - - 1 28,White now threatens either Rxf6 or (possibly more deadly) Qg6.
+55,Qg6,f7g6,2b1r2k/p7/5pQN/2p1q3/8/3P4/PPP3P1/5R1K b - - 2 28,And it's the Queen
+56,Rf8,e8f8,2b2r1k/p7/5pQN/2p1q3/8/3P4/PPP3P1/5R1K w - - 3 29,Black forfeits
+57,Nf7+,h6f7,2b2r1k/p4N2/5pQ1/2p1q3/8/3P4/PPP3P1/5R1K b - - 4 29,Black forfeits
+58,Rxf7,f8f7,2b4k/p4r2/5pQ1/2p1q3/8/3P4/PPP3P1/5R1K w - - 0 30,Black forfeits
+59,Qxf7,g6f7,2b4k/p4Q2/5p2/2p1q3/8/3P4/PPP3P1/5R1K b - - 0 30,Black forfeits
+60,Bf5,c8f5,7k/p4Q2/5p2/2p1qb2/8/3P4/PPP3P1/5R1K w - - 1 31,Black forfeits
+61,Qh5+,f7h5,7k/p7/5p2/2p1qb1Q/8/3P4/PPP3P1/5R1K b - - 2 31,Black forfeits
+62,Bh7,f5h7,7k/p6b/5p2/2p1q2Q/8/3P4/PPP3P1/5R1K w - - 3 32,Black forfeits
+63,Qxe5,h5e5,7k/p6b/5p2/2p1Q3/8/3P4/PPP3P1/5R1K b - - 0 32,Black forfeits
+64,fxe5,f6e5,7k/p6b/8/2p1p3/8/3P4/PPP3P1/5R1K w - - 0 33,Black forfeits
+65,Rf7,f1f7,7k/p4R1b/8/2p1p3/8/3P4/PPP3P1/7K b - - 1 33,Black forfeits
+66,a5,a7a5,7k/5R1b/8/p1p1p3/8/3P4/PPP3P1/7K w - - 0 34,Black forfeits
+67,Rxh7+,f7h7,7k/7R/8/p1p1p3/8/3P4/PPP3P1/7K b - - 0 34,Black forfeits
+68,Kxh7,h8h7,8/7k/8/p1p1p3/8/3P4/PPP3P1/7K w - - 0 35,

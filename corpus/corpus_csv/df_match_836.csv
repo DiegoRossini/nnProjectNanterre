@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Agressive beginning for white
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Agressive beginning for white
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Agressive beginning for white
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Agressive beginning for white
+5,Bb5,f1b5,r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Agressive beginning for white
+6,a6,a7a6,r1bqkbnr/1p1ppppp/p1n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Agressive beginning for white
+7,Bxc6,b5c6,r1bqkbnr/1p1ppppp/p1B5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,Agressive beginning for white
+8,dxc6,d7c6,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,Most common than 4... bxc6
+9,d3,d2d3,r1bqkbnr/1p2pppp/p1p5/2p5/4P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"Mistake, the correct move was 7... b6"
+10,g6,g7g6,r1bqkbnr/1p2pp1p/p1p3p1/2p5/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"Mistake, the correct move was 7... b6"
+11,Be3,c1e3,r1bqkbnr/1p2pp1p/p1p3p1/2p5/4P3/3PBN2/PPP2PPP/RN1QK2R b KQkq - 1 6,"Mistake, the correct move was 7... b6"
+12,Bg7,f8g7,r1bqk1nr/1p2ppbp/p1p3p1/2p5/4P3/3PBN2/PPP2PPP/RN1QK2R w KQkq - 2 7,"Mistake, the correct move was 7... b6"
+13,Nc3,b1c3,r1bqk1nr/1p2ppbp/p1p3p1/2p5/4P3/2NPBN2/PPP2PPP/R2QK2R b KQkq - 3 7,"Mistake, the correct move was 7... b6"
+14,e6,e7e6,r1bqk1nr/1p3pbp/p1p1p1p1/2p5/4P3/2NPBN2/PPP2PPP/R2QK2R w KQkq - 0 8,"Mistake, the correct move was 7... b6"
+15,Bxc5,e3c5,r1bqk1nr/1p3pbp/p1p1p1p1/2B5/4P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 0 8,"White is one pawn up but has moved the bishop three times, so that it partly compensates for black"
+16,b6,b7b6,r1bqk1nr/5pbp/ppp1p1p1/2B5/4P3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 9,"White is one pawn up but has moved the bishop three times, so that it partly compensates for black"
+17,Be3,c5e3,r1bqk1nr/5pbp/ppp1p1p1/8/4P3/2NPBN2/PPP2PPP/R2QK2R b KQkq - 1 9,"White is one pawn up but has moved the bishop three times, so that it partly compensates for black"
+18,Ne7,g8e7,r1bqk2r/4npbp/ppp1p1p1/8/4P3/2NPBN2/PPP2PPP/R2QK2R w KQkq - 2 10,"Inaccuracy : 9... Nf6 would have been better ( if 10. e5 Nd7) In this place, with fiancheto, the knight blocks the queen."
+19,Qd2,d1d2,r1bqk2r/4npbp/ppp1p1p1/8/4P3/2NPBN2/PPPQ1PPP/R3K2R b KQkq - 3 10,Bayonet attack
+20,c5,c6c5,r1bqk2r/4npbp/pp2p1p1/2p5/4P3/2NPBN2/PPPQ1PPP/R3K2R w KQkq - 0 11,Bayonet attack
+21,Bh6,e3h6,r1bqk2r/4npbp/pp2p1pB/2p5/4P3/2NP1N2/PPPQ1PPP/R3K2R b KQkq - 1 11,Bayonet attack
+22,O-O,e8g8,r1bq1rk1/4npbp/pp2p1pB/2p5/4P3/2NP1N2/PPPQ1PPP/R3K2R w KQ - 2 12,White's intention is clear and black should beware about white attack on the kingside
+23,h4,h2h4,r1bq1rk1/4npbp/pp2p1pB/2p5/4P2P/2NP1N2/PPPQ1PP1/R3K2R b KQ - 0 12,White's intention is clear and black should beware about white attack on the kingside
+24,Bd7,c8d7,r2q1rk1/3bnpbp/pp2p1pB/2p5/4P2P/2NP1N2/PPPQ1PP1/R3K2R w KQ - 1 13,misatake (it blocks the queen and a control of the a8-h1 diagonal would have been better
+25,h5,h4h5,r2q1rk1/3bnpbp/pp2p1pB/2p4P/4P3/2NP1N2/PPPQ1PP1/R3K2R b KQ - 0 13,Whitte launches the attack
+26,b5,b6b5,r2q1rk1/3bnpbp/p3p1pB/1pp4P/4P3/2NP1N2/PPPQ1PP1/R3K2R w KQ - 0 14,Black has 3 possibilities but none is satisfying.
+27,hxg6,h5g6,r2q1rk1/3bnpbp/p3p1PB/1pp5/4P3/2NP1N2/PPPQ1PP1/R3K2R b KQ - 0 14,Black has 3 possibilities but none is satisfying.
+28,fxg6,f7g6,r2q1rk1/3bn1bp/p3p1pB/1pp5/4P3/2NP1N2/PPPQ1PP1/R3K2R w KQ - 0 15,14. ... Nh6 would probably have been better (the queen would have been free to come in reinforcement)
+29,Bxg7,h6g7,r2q1rk1/3bn1Bp/p3p1p1/1pp5/4P3/2NP1N2/PPPQ1PP1/R3K2R b KQ - 0 15,Black is doomed.
+30,Kxg7,g8g7,r2q1r2/3bn1kp/p3p1p1/1pp5/4P3/2NP1N2/PPPQ1PP1/R3K2R w KQ - 0 16,Black is doomed.
+31,Qh6+,d2h6,r2q1r2/3bn1kp/p3p1pQ/1pp5/4P3/2NP1N2/PPP2PP1/R3K2R b KQ - 1 16,Black is doomed.
+32,Kf6,g7f6,r2q1r2/3bn2p/p3pkpQ/1pp5/4P3/2NP1N2/PPP2PP1/R3K2R w KQ - 2 17,Black is doomed.
+33,e5+,e4e5,r2q1r2/3bn2p/p3pkpQ/1pp1P3/8/2NP1N2/PPP2PP1/R3K2R b KQ - 0 17,Beginning of the mating sequence.
+34,Kf7,f6f7,r2q1r2/3bnk1p/p3p1pQ/1pp1P3/8/2NP1N2/PPP2PP1/R3K2R w KQ - 1 18,"Forced move (if 17... Kf5 18. Qg5 mate) - if the e knight had occupated another square, black would have had more options."
+35,Qxh7+,h6h7,r2q1r2/3bnk1Q/p3p1p1/1pp1P3/8/2NP1N2/PPP2PP1/R3K2R b KQ - 0 18,Forced
+36,Ke8,f7e8,r2qkr2/3bn2Q/p3p1p1/1pp1P3/8/2NP1N2/PPP2PP1/R3K2R w KQ - 1 19,Forced
+37,Ne4,c3e4,r2qkr2/3bn2Q/p3p1p1/1pp1P3/4N3/3P1N2/PPP2PP1/R3K2R b KQ - 2 19,"White need more material for the mate (again, if black had set his LSB on the big diagonal, white would have had to find something else)"
+38,Nf5,e7f5,r2qkr2/3b3Q/p3p1p1/1pp1Pn2/4N3/3P1N2/PPP2PP1/R3K2R w KQ - 3 20,preventing mate
+39,Qxg6+,h7g6,r2qkr2/3b4/p3p1Q1/1pp1Pn2/4N3/3P1N2/PPP2PP1/R3K2R b KQ - 0 20,"But white has now enough material available to do the job. ( Note : Black's LSB on d7, blocking the escape route for the king)"
+40,Rf7,f8f7,r2qk3/3b1r2/p3p1Q1/1pp1Pn2/4N3/3P1N2/PPP2PP1/R3K2R w KQ - 1 21,The other option 20... Ke7 lead to mate even quicklier (21. Rh7+ Kf8 or Ke8 22. Qxf8+mate)
+41,Nfg5,f3g5,r2qk3/3b1r2/p3p1Q1/1pp1PnN1/4N3/3P4/PPP2PP1/R3K2R b KQ - 2 21,Mating menace

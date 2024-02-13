@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,French defence.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,French defence.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"French defence, Paulsen Variation."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"French defence, Paulsen Variation."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"French defence, Paulsen Variation."
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"French defence, Frere (Becker) variation"
+7,Nxe4,c3e4,rnbqkbnr/ppp2ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,"French defence, Frere (Becker) variation"
+8,Qd5,d8d5,rnb1kbnr/ppp2ppp/4p3/3q4/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,"French defence, Frere (Becker) variation"
+9,Bd3,f1d3,rnb1kbnr/ppp2ppp/4p3/3q4/3PN3/3B4/PPP2PPP/R1BQK1NR b KQkq - 2 5,if instead 5....Qxd4 then 6.Bb5+ and queen dies.
+10,Bb4+,f8b4,rnb1k1nr/ppp2ppp/4p3/3q4/1b1PN3/3B4/PPP2PPP/R1BQK1NR w KQkq - 3 6,if instead 5....Qxd4 then 6.Bb5+ and queen dies.
+11,c3,c2c3,rnb1k1nr/ppp2ppp/4p3/3q4/1b1PN3/2PB4/PP3PPP/R1BQK1NR b KQkq - 0 6,to trap black bishop with b4 then a5.
+12,Ba5,b4a5,rnb1k1nr/ppp2ppp/4p3/b2q4/3PN3/2PB4/PP3PPP/R1BQK1NR w KQkq - 1 7,to trap black bishop with b4 then a5.
+13,a4,a2a4,rnb1k1nr/ppp2ppp/4p3/b2q4/P2PN3/2PB4/1P3PPP/R1BQK1NR b KQkq - 0 7,to trap black bishop with b4 then a5.
+14,a6,a7a6,rnb1k1nr/1pp2ppp/p3p3/b2q4/P2PN3/2PB4/1P3PPP/R1BQK1NR w KQkq - 0 8,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+15,b4,b2b4,rnb1k1nr/1pp2ppp/p3p3/b2q4/PP1PN3/2PB4/5PPP/R1BQK1NR b KQkq - 0 8,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+16,Bb6,a5b6,rnb1k1nr/1pp2ppp/pb2p3/3q4/PP1PN3/2PB4/5PPP/R1BQK1NR w KQkq - 1 9,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+17,a5,a4a5,rnb1k1nr/1pp2ppp/pb2p3/P2q4/1P1PN3/2PB4/5PPP/R1BQK1NR b KQkq - 0 9,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+18,Ba7,b6a7,rnb1k1nr/bpp2ppp/p3p3/P2q4/1P1PN3/2PB4/5PPP/R1BQK1NR w KQkq - 1 10,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+19,Nf3,g1f3,rnb1k1nr/bpp2ppp/p3p3/P2q4/1P1PN3/2PB1N2/5PPP/R1BQK2R b KQkq - 2 10,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+20,Ne7,g8e7,rnb1k2r/bpp1nppp/p3p3/P2q4/1P1PN3/2PB1N2/5PPP/R1BQK2R w KQkq - 3 11,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+21,Ne5,f3e5,rnb1k2r/bpp1nppp/p3p3/P2qN3/1P1PN3/2PB4/5PPP/R1BQK2R b KQkq - 4 11,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+22,Nbc6,b8c6,r1b1k2r/bpp1nppp/p1n1p3/P2qN3/1P1PN3/2PB4/5PPP/R1BQK2R w KQkq - 5 12,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+23,f4,f2f4,r1b1k2r/bpp1nppp/p1n1p3/P2qN3/1P1PNP2/2PB4/6PP/R1BQK2R b KQkq - 0 12,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+24,O-O,e8g8,r1b2rk1/bpp1nppp/p1n1p3/P2qN3/1P1PNP2/2PB4/6PP/R1BQK2R w KQ - 1 13,12....O-O??? black shouldn't castle king side now as all his pieces are in the queen side.
+25,Qh5,d1h5,r1b2rk1/bpp1nppp/p1n1p3/P2qN2Q/1P1PNP2/2PB4/6PP/R1B1K2R b KQ - 2 13,13.Qh5!! now white has a very dangerous attack with all his pieces.
+26,Nxe5,c6e5,r1b2rk1/bpp1nppp/p3p3/P2qn2Q/1P1PNP2/2PB4/6PP/R1B1K2R w KQ - 0 14,13.Nxe5??
+27,Nf6+,e4f6,r1b2rk1/bpp1nppp/p3pN2/P2qn2Q/1P1P1P2/2PB4/6PP/R1B1K2R b KQ - 1 14,"14.Nf6!!! it is mate next move ,whatever black plays, 15.Qxh7# so black resigned here."

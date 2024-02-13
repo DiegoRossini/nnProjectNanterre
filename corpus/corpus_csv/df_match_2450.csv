@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My beloved queen's gambit
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,My beloved queen's gambit
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,My beloved queen's gambit
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Hmm, this is reminiscent of my blitz win against a 1700, shown here http://gameknot.com/annotation.pl/three-minute-plus-five-second-blitz-game?gm=50516 but in that game he didn't accept the gambit."
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2pP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,"Hmm, this is reminiscent of my blitz win against a 1700, shown here http://gameknot.com/annotation.pl/three-minute-plus-five-second-blitz-game?gm=50516 but in that game he didn't accept the gambit."
+6,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/5b2/2pP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,"Hmm, this is reminiscent of my blitz win against a 1700, shown here http://gameknot.com/annotation.pl/three-minute-plus-five-second-blitz-game?gm=50516 but in that game he didn't accept the gambit."
+7,Bxc4,f1c4,rn1qkbnr/ppp1pppp/8/5b2/2BP4/4P3/PP3PPP/RNBQK1NR b KQkq - 0 4,This move prevents me from playing Qb3 which forks b7 and f7 and allows his DSB out.
+8,e6,e7e6,rn1qkbnr/ppp2ppp/4p3/5b2/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5,This move prevents me from playing Qb3 which forks b7 and f7 and allows his DSB out.
+9,Nf3,g1f3,rn1qkbnr/ppp2ppp/4p3/5b2/2BP4/4PN2/PP3PPP/RNBQK2R b KQkq - 1 5,?! Weakens the diagonal for nothing.
+10,f6,f7f6,rn1qkbnr/ppp3pp/4pp2/5b2/2BP4/4PN2/PP3PPP/RNBQK2R w KQkq - 0 6,?! Weakens the diagonal for nothing.
+11,Nc3,b1c3,rn1qkbnr/ppp3pp/4pp2/5b2/2BP4/2N1PN2/PP3PPP/R1BQK2R b KQkq - 1 6,Breaking the pin
+12,Bb4,f8b4,rn1qk1nr/ppp3pp/4pp2/5b2/1bBP4/2N1PN2/PP3PPP/R1BQK2R w KQkq - 2 7,Breaking the pin
+13,Bd2,c1d2,rn1qk1nr/ppp3pp/4pp2/5b2/1bBP4/2N1PN2/PP1B1PPP/R2QK2R b KQkq - 3 7,Breaking the pin
+14,c6,c7c6,rn1qk1nr/pp4pp/2p1pp2/5b2/1bBP4/2N1PN2/PP1B1PPP/R2QK2R w KQkq - 0 8,?! This takes away his queen's knight's favorite square.
+15,Qb3,d1b3,rn1qk1nr/pp4pp/2p1pp2/5b2/1bBP4/1QN1PN2/PP1B1PPP/R3K2R b KQkq - 1 8,"? I was just delaying capturing on e6, but this allows him to divert my attack."
+16,a5,a7a5,rn1qk1nr/1p4pp/2p1pp2/p4b2/1bBP4/1QN1PN2/PP1B1PPP/R3K2R w KQkq - 0 9,"? I was just delaying capturing on e6, but this allows him to divert my attack."
+17,a3,a2a3,rn1qk1nr/1p4pp/2p1pp2/p4b2/1bBP4/PQN1PN2/1P1B1PPP/R3K2R b KQkq - 0 9,"? I was just delaying capturing on e6, but this allows him to divert my attack."
+18,Bxc3,b4c3,rn1qk1nr/1p4pp/2p1pp2/p4b2/2BP4/PQb1PN2/1P1B1PPP/R3K2R w KQkq - 0 10,Ugggh now I can't win his e pawn.
+19,Qxc3,b3c3,rn1qk1nr/1p4pp/2p1pp2/p4b2/2BP4/P1Q1PN2/1P1B1PPP/R3K2R b KQkq - 0 10,Ugggh now I can't win his e pawn.
+20,b5,b7b5,rn1qk1nr/6pp/2p1pp2/pp3b2/2BP4/P1Q1PN2/1P1B1PPP/R3K2R w KQkq - 0 11,"If he captures, I can take his e pawn."
+21,Bb3,c4b3,rn1qk1nr/6pp/2p1pp2/pp3b2/3P4/PBQ1PN2/1P1B1PPP/R3K2R b KQkq - 1 11,"If he captures, I can take his e pawn."
+22,Ne7,g8e7,rn1qk2r/4n1pp/2p1pp2/pp3b2/3P4/PBQ1PN2/1P1B1PPP/R3K2R w KQkq - 2 12,"If he captures, I can take his e pawn."
+23,e4,e3e4,rn1qk2r/4n1pp/2p1pp2/pp3b2/3PP3/PBQ2N2/1P1B1PPP/R3K2R b KQkq - 0 12,"If he captures, I can take his e pawn."
+24,Bxe4,f5e4,rn1qk2r/4n1pp/2p1pp2/pp6/3Pb3/PBQ2N2/1P1B1PPP/R3K2R w KQkq - 0 13,My LSB is quite good
+25,Bxe6,b3e6,rn1qk2r/4n1pp/2p1Bp2/pp6/3Pb3/P1Q2N2/1P1B1PPP/R3K2R b KQkq - 0 13,My LSB is quite good
+26,b4,b5b4,rn1qk2r/4n1pp/2p1Bp2/p7/1p1Pb3/P1Q2N2/1P1B1PPP/R3K2R w KQkq - 0 14,"I miscalculated here, I thought that he couldn't recapture because it was pinned to his rook, I didn't notice that this attacks my queen. I also can't take his pawn because then he could smash my rook."
+27,axb4,a3b4,rn1qk2r/4n1pp/2p1Bp2/p7/1P1Pb3/2Q2N2/1P1B1PPP/R3K2R b KQkq - 0 14,"I miscalculated here, I thought that he couldn't recapture because it was pinned to his rook, I didn't notice that this attacks my queen. I also can't take his pawn because then he could smash my rook."
+28,axb4,a5b4,rn1qk2r/4n1pp/2p1Bp2/8/1p1Pb3/2Q2N2/1P1B1PPP/R3K2R w KQkq - 0 15,"I miscalculated here, I thought that he couldn't recapture because it was pinned to his rook, I didn't notice that this attacks my queen. I also can't take his pawn because then he could smash my rook."
+29,Qc1,c3c1,rn1qk2r/4n1pp/2p1Bp2/8/1p1Pb3/5N2/1P1B1PPP/R1Q1K2R b KQkq - 1 15,My pawn structure gets smashed...
+30,Rxa1,a8a1,1n1qk2r/4n1pp/2p1Bp2/8/1p1Pb3/5N2/1P1B1PPP/r1Q1K2R w Kk - 0 16,My pawn structure gets smashed...
+31,Qxa1,c1a1,1n1qk2r/4n1pp/2p1Bp2/8/1p1Pb3/5N2/1P1B1PPP/Q3K2R b Kk - 0 16,My pawn structure gets smashed...
+32,Bxf3,e4f3,1n1qk2r/4n1pp/2p1Bp2/8/1p1P4/5b2/1P1B1PPP/Q3K2R w Kk - 0 17,My pawn structure gets smashed...
+33,gxf3,g2f3,1n1qk2r/4n1pp/2p1Bp2/8/1p1P4/5P2/1P1B1P1P/Q3K2R b Kk - 0 17,My pawn structure gets smashed...
+34,Qxd4,d8d4,1n2k2r/4n1pp/2p1Bp2/8/1p1q4/5P2/1P1B1P1P/Q3K2R w Kk - 0 18,And I lose a pawn. Things are looking pretty bad
+35,O-O,e1g1,1n2k2r/4n1pp/2p1Bp2/8/1p1q4/5P2/1P1B1P1P/Q4RK1 b k - 1 18,?? I make them worse with a truly stupid blunder.
+36,Qxd2,d4d2,1n2k2r/4n1pp/2p1Bp2/8/1p6/5P2/1P1q1P1P/Q4RK1 w k - 0 19,"Well I'm not going to roll over and die, I'll put up a fight."
+37,Qa8,a1a8,Qn2k2r/4n1pp/2p1Bp2/8/1p6/5P2/1P1q1P1P/5RK1 b k - 1 19,"Well I'm not going to roll over and die, I'll put up a fight."
+38,Qd8,d2d8,Qn1qk2r/4n1pp/2p1Bp2/8/1p6/5P2/1P3P1P/5RK1 w k - 2 20,"?? Allows a discovered attack that will win...A pawn...that's not really worth the trouble, so I play something else."
+39,Re1,f1e1,Qn1qk2r/4n1pp/2p1Bp2/8/1p6/5P2/1P3P1P/4R1K1 b k - 3 20,"?? Allows a discovered attack that will win...A pawn...that's not really worth the trouble, so I play something else."
+40,Ng6,e7g6,Qn1qk2r/6pp/2p1Bpn1/8/1p6/5P2/1P3P1P/4R1K1 w k - 4 21,"?? Allows a discovered attack that will win...A pawn...that's not really worth the trouble, so I play something else."
+41,Qb7,a8b7,1n1qk2r/1Q4pp/2p1Bpn1/8/1p6/5P2/1P3P1P/4R1K1 b k - 5 21,! Threatens mate
+42,Ne5,g6e5,1n1qk2r/1Q4pp/2p1Bp2/4n3/1p6/5P2/1P3P1P/4R1K1 w k - 6 22,Better would have been Qe7
+43,Rxe5,e1e5,1n1qk2r/1Q4pp/2p1Bp2/4R3/1p6/5P2/1P3P1P/6K1 b k - 0 22,!! If he recaptures I have mate.
+44,fxe5,f6e5,1n1qk2r/1Q4pp/2p1B3/4p3/1p6/5P2/1P3P1P/6K1 w k - 0 23,??? final blunder

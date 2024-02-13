@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Starting with well-known e5.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,Alekhine's defence...  Black plays the move in order to entice white's pawns forward so that it weakens white's position and makes targets for black to attack (hypermodern).
+3,e5,e4e5,rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,White usually starts attacking as soon as he sees Nf6.
+4,Nd5,f6d5,rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,"Clearly, there are few moves better than this one.
+
+Beginners tend to play 2...Ne4, which is weak to 3.d4, cutting off all escapes, or 3.d3, gaining plural tempi.
+
+Nevertheless, this move is solid."
+5,c4,c2c4,rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,White continues the attack.
+6,Nb6,d5b6,rnbqkb1r/pppppppp/1n6/4P3/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 1 4,"White has advanced two central pawns and a flank pawn, with a strong central position. However, white has not developed any minor pieces, and the position may be vulnerable."
+7,d4,d2d4,rnbqkb1r/pppppppp/1n6/4P3/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4,"White has advanced two central pawns and a flank pawn, with a strong central position. However, white has not developed any minor pieces, and the position may be vulnerable."
+8,d6,d7d6,rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5,Black plans to dissolve white's strong center.
+9,exd6,e5d6,rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,"5. ... cxd5, in a way, makes more sense with two central against the opponent's one. Personal play style dictates which is chosen."
+10,exd6,e7d6,rnbqkb1r/ppp2ppp/1n1p4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6,"5. ... cxd5, in a way, makes more sense with two central against the opponent's one. Personal play style dictates which is chosen."
+11,Nf3,g1f3,rnbqkb1r/ppp2ppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6,"White has developed a minor piece, but now its black's move, with initiative."
+12,Be7,f8e7,rnbqk2r/ppp1bppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7,"Black castles first, signifying his speed."
+13,Bd3,f1d3,rnbqk2r/ppp1bppp/1n1p4/8/2PP4/3B1N2/PP3PPP/RNBQK2R b KQkq - 3 7,"Black castles first, signifying his speed."
+14,O-O,e8g8,rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/3B1N2/PP3PPP/RNBQK2R w KQ - 4 8,"Black castles first, signifying his speed."
+15,O-O,e1g1,rnbq1rk1/ppp1bppp/1n1p4/8/2PP4/3B1N2/PP3PPP/RNBQ1RK1 b - - 5 8,"Black pins the knight, and the d4 pawn is no longer protected."
+16,Bg4,c8g4,rn1q1rk1/ppp1bppp/1n1p4/8/2PP2b1/3B1N2/PP3PPP/RNBQ1RK1 w - - 6 9,"Black pins the knight, and the d4 pawn is no longer protected."
+17,h3,h2h3,rn1q1rk1/ppp1bppp/1n1p4/8/2PP2b1/3B1N1P/PP3PP1/RNBQ1RK1 b - - 0 9,White drives the invader away.
+18,Bh5,g4h5,rn1q1rk1/ppp1bppp/1n1p4/7b/2PP4/3B1N1P/PP3PP1/RNBQ1RK1 w - - 1 10,Black decides to continue the pin rather than retreat to e6 or d7.
+19,b3,b2b3,rn1q1rk1/ppp1bppp/1n1p4/7b/2PP4/1P1B1N1P/P4PP1/RNBQ1RK1 b - - 0 10,"White decides to place his black-squared bishop in fianchetto, indirectly eyeing the enemy king position from far away."
+20,Nc6,b8c6,r2q1rk1/ppp1bppp/1nnp4/7b/2PP4/1P1B1N1P/P4PP1/RNBQ1RK1 w - - 1 11,Black decides to attack the unprotected pawn.
+21,Bb2,c1b2,r2q1rk1/ppp1bppp/1nnp4/7b/2PP4/1P1B1N1P/PB3PP1/RN1Q1RK1 b - - 2 11,The bishop is now in fianchetto and guards the pawn.
+22,Bf6,e7f6,r2q1rk1/ppp2ppp/1nnp1b2/7b/2PP4/1P1B1N1P/PB3PP1/RN1Q1RK1 w - - 3 12,"Another attacker develops, and the Bishop is on a more effective square than on e7. Notice how black countered the fianchetto with a bishop on the same diagonal."
+23,Be2,d3e2,r2q1rk1/ppp2ppp/1nnp1b2/7b/2PP4/1P3N1P/PB2BPP1/RN1Q1RK1 b - - 4 12,The bishop moves here to stop the pin and provides the queen and the knight as protectors to d4.
+24,Re8,f8e8,r2qr1k1/ppp2ppp/1nnp1b2/7b/2PP4/1P3N1P/PB2BPP1/RN1Q1RK1 w - - 5 13,Black takes the e-file while its open.
+25,Re1,f1e1,r2qr1k1/ppp2ppp/1nnp1b2/7b/2PP4/1P3N1P/PB2BPP1/RN1QR1K1 b - - 6 13,White neutralizes black's attack as well.

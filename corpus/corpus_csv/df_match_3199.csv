@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A beautiful London. I hardly believed it. Specially after losing a game with easy19 in the same tournament, in which I played very, very badly. With this game, I think I mantain the balance... blitzkov will have another chance to crush me, anyway :-)"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+7,e3,e2e3,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"When black plays e6, h3 is not really necessary anymore. I like h3 because it supports g4-g5, a standard attack."
+8,Bd6,f8d6,rnbqk2r/ppp2ppp/3bpn2/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 1 5,"Once Nf6 is played, this knight cannot be kicked anymore - or not that easily."
+9,Ne5,f3e5,rnbqk2r/ppp2ppp/3bpn2/3pN3/3P1B2/4P3/PPP2PPP/RN1QKB1R b KQkq - 2 5,"Once Nf6 is played, this knight cannot be kicked anymore - or not that easily."
+10,O-O,e8g8,rnbq1rk1/ppp2ppp/3bpn2/3pN3/3P1B2/4P3/PPP2PPP/RN1QKB1R w KQ - 3 6,"A common response is Nh5, to which I'll go Bg3, and if NxB, hxN, I get a free semiopen column."
+11,Nd2,b1d2,rnbq1rk1/ppp2ppp/3bpn2/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R b KQ - 4 6,"Better than Nc3, because I want to restrict black's dsb movements. If ever Bb4, c3."
+12,Nbd7,b8d7,r1bq1rk1/pppn1ppp/3bpn2/3pN3/3P1B2/4P3/PPPN1PPP/R2QKB1R w KQ - 5 7,"Black can take the N, but only at the cost of his dsb. And now black cannot play Nh5 anymore."
+13,Qf3,d1f3,r1bq1rk1/pppn1ppp/3bpn2/3pN3/3P1B2/4PQ2/PPPN1PPP/R3KB1R b KQ - 6 7,"!? An antinatural move. Another chance is g4 at once. No advantage, but white is where it is supposed to be: attacking."
+14,Qe7,d8e7,r1b2rk1/pppnqppp/3bpn2/3pN3/3P1B2/4PQ2/PPPN1PPP/R3KB1R w KQ - 7 8,"It seems a normal move, but black ""had"" to play c5, in order to open his position and activate his pieces."
+15,Bd3,f1d3,r1b2rk1/pppnqppp/3bpn2/3pN3/3P1B2/3BPQ2/PPPN1PPP/R3K2R b KQ - 8 8,Another gun over the black kingside.
+16,c6,c7c6,r1b2rk1/pp1nqppp/2pbpn2/3pN3/3P1B2/3BPQ2/PPPN1PPP/R3K2R w KQ - 0 9,"Dubious, I'd say. Black wants a solid position, but his lsb stays inactive. I'm already thinking on sacrifices (it doesn't work for a win... still:
+
+9.	Qg3 (threatening Bh6)		Nh5 (a standard defence)
+10.	Bxh7+	Kxh7
+11.	Qh3		f6 (black cannot avoid white to recover the piece)
+12.	Qxh5+	h7-g8
+13.	Ng6, winning. 
+
+Or: 
+
+9.	Qg3		Nh5
+10.	Bxh7+	Kxh7
+11.	Qh3		Bxe5 (say)
+12.	Qxh5+	Kg8
+13.	dxBe5		e7-b4
+14.	o-o-o		Nc5
+15.	Nb3		Ne4
+16.	Rd4		Qb5 and white's attack vanishes."
+17,Qg3,f3g3,r1b2rk1/pp1nqppp/2pbpn2/3pN3/3P1B2/3BP1Q1/PPPN1PPP/R3K2R b KQ - 1 9,"Black guards his bishop on a safe square, foreseeing danger for his dsb. 
+
+
+10.	f4-h6	f6-h5
+11.	g3-g4	d7-f6
+12.	h6-g5	f6-g4
+13.	g5-e7	g4-e5
+14.	d4-e5	f8-e8
+15.	g2-g4	e8-e7
+16.	g4-h5	b8-e5
+17.	e1-c1	c6-c5
+18.	c2-c3	b7-b6"
+18,Bb8,d6b8,rbb2rk1/pp1nqppp/2p1pn2/3pN3/3P1B2/3BP1Q1/PPPN1PPP/R3K2R w KQ - 2 10,"Black guards his bishop on a safe square, foreseeing danger for his dsb. 
+
+
+10.	f4-h6	f6-h5
+11.	g3-g4	d7-f6
+12.	h6-g5	f6-g4
+13.	g5-e7	g4-e5
+14.	d4-e5	f8-e8
+15.	g2-g4	e8-e7
+16.	g4-h5	b8-e5
+17.	e1-c1	c6-c5
+18.	c2-c3	b7-b6"
+19,Bg5,f4g5,rbb2rk1/pp1nqppp/2p1pn2/3pN1B1/3P4/3BP1Q1/PPPN1PPP/R3K2R b KQ - 3 10,"Much better than Bh6, IMO. Now black is cramped, since it cannot exchange without losing a piece. There are a lot of variations, but the main point is that Nf6 is pinned."
+20,Kh8,g8h8,rbb2r1k/pp1nqppp/2p1pn2/3pN1B1/3P4/3BP1Q1/PPPN1PPP/R3K2R w KQ - 4 11,"Probably seeking for h6. I think black should have tried Qb4 at once. If I go NxN, NxN; Qh3, f5 and my attack vanishes. (Not BxN because of Qh4, and black cannot defend the king's position)."
+21,O-O-O,e1c1,rbb2r1k/pp1nqppp/2p1pn2/3pN1B1/3P4/3BP1Q1/PPPN1PPP/2KR3R b - - 5 11,"After some calculation, I decided that there was no reason for hurry, since if I don't exchange pieces, black is cramped."
+22,a5,a7a5,rbb2r1k/1p1nqppp/2p1pn2/p2pN1B1/3P4/3BP1Q1/PPPN1PPP/2KR3R w - - 0 12,"I feared c5. This is only a lost tempo, since my pressure against the kingside becomes now stronger, now."
+23,f4,f2f4,rbb2r1k/1p1nqppp/2p1pn2/p2pN1B1/3P1P2/3BP1Q1/PPPN2PP/2KR3R b - - 0 12,"Again, I had to be patient. This makes my e5 knight free to move. The point of all my attack is to avoid a black knight to be on f6, so I can attack h7. If black exchanges now, in addition to the threat on the pinned knight, I can open the f semicolumn. Anyway, Nh5, trying a queen's exchange, fails because my bishop, after BxQe7, Nh5xQg3, hxNg3, threats the black Rook."
+24,c5,c6c5,rbb2r1k/1p1nqppp/4pn2/p1ppN1B1/3P1P2/3BP1Q1/PPPN2PP/2KR3R w - - 0 13,"At last, but a move too late."
+25,Qh4,g3h4,rbb2r1k/1p1nqppp/4pn2/p1ppN1B1/3P1P1Q/3BP3/PPPN2PP/2KR3R b - - 1 13,"Of course, if h6 at some point, I would have played h4, since hxB, hxg5+ was deadly for black."
+26,c4,c5c4,rbb2r1k/1p1nqppp/4pn2/p2pN1B1/2pP1P1Q/3BP3/PPPN2PP/2KR3R w - - 0 14,"I expected this, but my attack is ready to spring."
+27,Bxh7,d3h7,rbb2r1k/1p1nqppB/4pn2/p2pN1B1/2pP1P1Q/4P3/PPPN2PP/2KR3R b - - 0 14,The last try.
+28,c3,c4c3,rbb2r1k/1p1nqppB/4pn2/p2pN1B1/3P1P1Q/2p1P3/PPPN2PP/2KR3R w - - 0 15,The last try.

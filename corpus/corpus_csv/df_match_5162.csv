@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Planning e5.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Planning e5.
+3,f4,f2f4,rnbqkbnr/ppp1pppp/8/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq - 0 2,Planning e5.
+4,f6,f7f6,rnbqkbnr/ppp1p1pp/5p2/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq - 0 3,Planning e5.
+5,e3,e2e3,rnbqkbnr/ppp1p1pp/5p2/3p4/3P1P2/4P3/PPP3PP/RNBQKBNR b KQkq - 0 3,Not enough. Loses a pawn. Better is Nc6.
+6,e5,e7e5,rnbqkbnr/ppp3pp/5p2/3pp3/3P1P2/4P3/PPP3PP/RNBQKBNR w KQkq - 0 4,Not enough. Loses a pawn. Better is Nc6.
+7,fxe5,f4e5,rnbqkbnr/ppp3pp/5p2/3pP3/3P4/4P3/PPP3PP/RNBQKBNR b KQkq - 0 4,Waste of a good tempo? Better is Qxd5.
+8,fxe5,f6e5,rnbqkbnr/ppp3pp/8/3pp3/3P4/4P3/PPP3PP/RNBQKBNR w KQkq - 0 5,Waste of a good tempo? Better is Qxd5.
+9,dxe5,d4e5,rnbqkbnr/ppp3pp/8/3pP3/8/4P3/PPP3PP/RNBQKBNR b KQkq - 0 5,Waste of a good tempo? Better is Qxd5.
+10,Nc6,b8c6,r1bqkbnr/ppp3pp/2n5/3pP3/8/4P3/PPP3PP/RNBQKBNR w KQkq - 1 6,Waste of a good tempo? Better is Qxd5.
+11,Bb5,f1b5,r1bqkbnr/ppp3pp/2n5/1B1pP3/8/4P3/PPP3PP/RNBQK1NR b KQkq - 2 6,Waste of a good tempo? Better is Qxd5.
+12,Bd7,c8d7,r2qkbnr/pppb2pp/2n5/1B1pP3/8/4P3/PPP3PP/RNBQK1NR w KQkq - 3 7,Waste of a good tempo? Better is Qxd5.
+13,Qh5+,d1h5,r2qkbnr/pppb2pp/2n5/1B1pP2Q/8/4P3/PPP3PP/RNB1K1NR b KQkq - 4 7,Waste of a good tempo? Better is Qxd5.
+14,g6,g7g6,r2qkbnr/pppb3p/2n3p1/1B1pP2Q/8/4P3/PPP3PP/RNB1K1NR w KQkq - 0 8,Finally.
+15,Qf3,h5f3,r2qkbnr/pppb3p/2n3p1/1B1pP3/8/4PQ2/PPP3PP/RNB1K1NR b KQkq - 1 8,Finally.
+16,Nxe5,c6e5,r2qkbnr/pppb3p/6p1/1B1pn3/8/4PQ2/PPP3PP/RNB1K1NR w KQkq - 0 9,Finally.
+17,Qxd5,f3d5,r2qkbnr/pppb3p/6p1/1B1Qn3/8/4P3/PPP3PP/RNB1K1NR b KQkq - 0 9,Finally.
+18,Bg7,f8g7,r2qk1nr/pppb2bp/6p1/1B1Qn3/8/4P3/PPP3PP/RNB1K1NR w KQkq - 1 10,Protecting the Knight.
+19,a4,a2a4,r2qk1nr/pppb2bp/6p1/1B1Qn3/P7/4P3/1PP3PP/RNB1K1NR b KQkq - 0 10,S/he thinks the Bishop is safe!
+20,c6,c7c6,r2qk1nr/pp1b2bp/2p3p1/1B1Qn3/P7/4P3/1PP3PP/RNB1K1NR w KQkq - 0 11,Pinning the Knight and escaping.
+21,Qe4,d5e4,r2qk1nr/pp1b2bp/2p3p1/1B2n3/P3Q3/4P3/1PP3PP/RNB1K1NR b KQkq - 1 11,Pinning the Knight and escaping.
+22,cxb5,c6b5,r2qk1nr/pp1b2bp/6p1/1p2n3/P3Q3/4P3/1PP3PP/RNB1K1NR w KQkq - 0 12,Better is a5.
+23,axb5,a4b5,r2qk1nr/pp1b2bp/6p1/1P2n3/4Q3/4P3/1PP3PP/RNB1K1NR b KQkq - 0 12,Better is a5.
+24,Bxb5,d7b5,r2qk1nr/pp4bp/6p1/1b2n3/4Q3/4P3/1PP3PP/RNB1K1NR w KQkq - 0 13,?? Loses to Qd8+.
+25,Nf3,g1f3,r2qk1nr/pp4bp/6p1/1b2n3/4Q3/4PN2/1PP3PP/RNB1K2R b KQkq - 1 13,?? Loses to Qd8+.
+26,Qd6,d8d6,r3k1nr/pp4bp/3q2p1/1b2n3/4Q3/4PN2/1PP3PP/RNB1K2R w KQkq - 2 14,?? Loses to Qd8+.
+27,Qxb7,e4b7,r3k1nr/pQ4bp/3q2p1/1b2n3/8/4PN2/1PP3PP/RNB1K2R b KQkq - 0 14,?? Loses to Qd8+.
+28,Nxf3+,e5f3,r3k1nr/pQ4bp/3q2p1/1b6/8/4Pn2/1PP3PP/RNB1K2R w KQkq - 0 15,?? Loses to Qd8+.
+29,gxf3,g2f3,r3k1nr/pQ4bp/3q2p1/1b6/8/4PP2/1PP4P/RNB1K2R b KQkq - 0 15,?? Loses to Qd8+.
+30,Bc6,b5c6,r3k1nr/pQ4bp/2bq2p1/8/8/4PP2/1PP4P/RNB1K2R w KQkq - 1 16,?? Loses to Qd8+.
+31,Qxg7,b7g7,r3k1nr/p5Qp/2bq2p1/8/8/4PP2/1PP4P/RNB1K2R b KQkq - 0 16,?? Loses to Qd8+.
+32,Bxf3,c6f3,r3k1nr/p5Qp/3q2p1/8/8/4Pb2/1PP4P/RNB1K2R w KQkq - 0 17,?? Loses to Qd8+.
+33,Rf1,h1f1,r3k1nr/p5Qp/3q2p1/8/8/4Pb2/1PP4P/RNB1KR2 b Qkq - 1 17,?? Loses to Qd8+.
+34,Qd1+,d6d1,r3k1nr/p5Qp/6p1/8/8/4Pb2/1PP4P/RNBqKR2 w Qkq - 2 18,"Dancing 'round the e-pawn, and into the jaws of the unavoidable Mate Trap."
+35,Kf2,e1f2,r3k1nr/p5Qp/6p1/8/8/4Pb2/1PP2K1P/RNBq1R2 b kq - 3 18,"Dancing 'round the e-pawn, and into the jaws of the unavoidable Mate Trap."
+36,Qe2+,d1e2,r3k1nr/p5Qp/6p1/8/8/4Pb2/1PP1qK1P/RNB2R2 w kq - 4 19,"Dancing 'round the e-pawn, and into the jaws of the unavoidable Mate Trap."
+37,Kg3,f2g3,r3k1nr/p5Qp/6p1/8/8/4PbK1/1PP1q2P/RNB2R2 b kq - 5 19,"Dancing 'round the e-pawn, and into the jaws of the unavoidable Mate Trap."
+38,Qg2+,e2g2,r3k1nr/p5Qp/6p1/8/8/4PbK1/1PP3qP/RNB2R2 w kq - 6 20,Thank you for annotating! Please R&C!
+39,Kf4,g3f4,r3k1nr/p5Qp/6p1/8/5K2/4Pb2/1PP3qP/RNB2R2 b kq - 7 20,Thank you for annotating! Please R&C!
+40,Qg4+,g2g4,r3k1nr/p5Qp/6p1/8/5Kq1/4Pb2/1PP4P/RNB2R2 w kq - 8 21,Thank you for annotating! Please R&C!
+41,Ke5,f4e5,r3k1nr/p5Qp/6p1/4K3/6q1/4Pb2/1PP4P/RNB2R2 b kq - 9 21,Thank you for annotating! Please R&C!
+42,Qe4+,g4e4,r3k1nr/p5Qp/6p1/4K3/4q3/4Pb2/1PP4P/RNB2R2 w kq - 10 22,Thank you for annotating! Please R&C!
+43,Kd6,e5d6,r3k1nr/p5Qp/3K2p1/8/4q3/4Pb2/1PP4P/RNB2R2 b kq - 11 22,Thank you for annotating! Please R&C!
+44,Rd8+,a8d8,3rk1nr/p5Qp/3K2p1/8/4q3/4Pb2/1PP4P/RNB2R2 w k - 12 23,Thank you for annotating! Please R&C!
+45,Kc5,d6c5,3rk1nr/p5Qp/6p1/2K5/4q3/4Pb2/1PP4P/RNB2R2 b k - 13 23,Thank you for annotating! Please R&C!
+46,Rd5+,d8d5,4k1nr/p5Qp/6p1/2Kr4/4q3/4Pb2/1PP4P/RNB2R2 w k - 14 24,Thank you for annotating! Please R&C!
+47,Kc6,c5c6,4k1nr/p5Qp/2K3p1/3r4/4q3/4Pb2/1PP4P/RNB2R2 b k - 15 24,Thank you for annotating! Please R&C!
+48,Qe6+,e4e6,4k1nr/p5Qp/2K1q1p1/3r4/8/4Pb2/1PP4P/RNB2R2 w k - 16 25,Thank you for annotating! Please R&C!
+49,Kc7,c6c7,4k1nr/p1K3Qp/4q1p1/3r4/8/4Pb2/1PP4P/RNB2R2 b k - 17 25,Thank you for annotating! Please R&C!
+50,Rd7+,d5d7,4k1nr/p1Kr2Qp/4q1p1/8/8/4Pb2/1PP4P/RNB2R2 w k - 18 26,Thank you for annotating! Please R&C!
+51,Kb8,c7b8,1K2k1nr/p2r2Qp/4q1p1/8/8/4Pb2/1PP4P/RNB2R2 b k - 19 26,Thank you for annotating! Please R&C!
+52,Qb6+,e6b6,1K2k1nr/p2r2Qp/1q4p1/8/8/4Pb2/1PP4P/RNB2R2 w k - 20 27,Thank you for annotating! Please R&C!
+53,Kc8,b8c8,2K1k1nr/p2r2Qp/1q4p1/8/8/4Pb2/1PP4P/RNB2R2 b k - 21 27,Thank you for annotating! Please R&C!
+54,Qc7#,b6c7,2K1k1nr/p1qr2Qp/6p1/8/8/4Pb2/1PP4P/RNB2R2 w k - 22 28,Thank you for annotating! Please R&C!

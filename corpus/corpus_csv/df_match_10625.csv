@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e4. General king's pawn opening.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,e6. Leads into the French Defence.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"The most common moves follow, continuing with d4."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"e5. The advance variation, generally seen as better than exd5, as this lets Black achieve equality and White is generally seen to have the advantage."
+5,e5,e4e5,rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"e5. The advance variation, generally seen as better than exd5, as this lets Black achieve equality and White is generally seen to have the advantage."
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,f4. This gains control on the kingside. This sets the game up for a White kingside and Black queenside game.
+7,c3,c2c3,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,f4. This gains control on the kingside. This sets the game up for a White kingside and Black queenside game.
+8,Nc6,b8c6,r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 1 5,f4. This gains control on the kingside. This sets the game up for a White kingside and Black queenside game.
+9,f4,f2f4,r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P1P2/2P5/PP4PP/RNBQKBNR b KQkq - 0 5,f4. This gains control on the kingside. This sets the game up for a White kingside and Black queenside game.
+10,a6,a7a6,r1bqkbnr/1p3ppp/p1n1p3/2ppP3/3P1P2/2P5/PP4PP/RNBQKBNR w KQkq - 0 6,"a6. This is to prepare b5, gaining space on the Queenside."
+11,Nf3,g1f3,r1bqkbnr/1p3ppp/p1n1p3/2ppP3/3P1P2/2P2N2/PP4PP/RNBQKB1R b KQkq - 1 6,"a4, trying to break up the pawn control of the Queenside."
+12,b5,b7b5,r1bqkbnr/5ppp/p1n1p3/1pppP3/3P1P2/2P2N2/PP4PP/RNBQKB1R w KQkq - 0 7,"a4, trying to break up the pawn control of the Queenside."
+13,a4,a2a4,r1bqkbnr/5ppp/p1n1p3/1pppP3/P2P1P2/2P2N2/1P4PP/RNBQKB1R b KQkq - 0 7,"a4, trying to break up the pawn control of the Queenside."
+14,b4,b5b4,r1bqkbnr/5ppp/p1n1p3/2ppP3/Pp1P1P2/2P2N2/1P4PP/RNBQKB1R w KQkq - 0 8,"b4, instead of bxa, as after Rxp the a6 pawn will be isolated and weak."
+15,Be2,f1e2,r1bqkbnr/5ppp/p1n1p3/2ppP3/Pp1P1P2/2P2N2/1P2B1PP/RNBQK2R b KQkq - 1 8,Qa5. This puts pressure on the diagonal.
+16,Qa5,d8a5,r1b1kbnr/5ppp/p1n1p3/q1ppP3/Pp1P1P2/2P2N2/1P2B1PP/RNBQK2R w KQkq - 2 9,Qa5. This puts pressure on the diagonal.
+17,Bd2,c1d2,r1b1kbnr/5ppp/p1n1p3/q1ppP3/Pp1P1P2/2P2N2/1P1BB1PP/RN1QK2R b KQkq - 3 9,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+18,Bd7,c8d7,r3kbnr/3b1ppp/p1n1p3/q1ppP3/Pp1P1P2/2P2N2/1P1BB1PP/RN1QK2R w KQkq - 4 10,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+19,O-O,e1g1,r3kbnr/3b1ppp/p1n1p3/q1ppP3/Pp1P1P2/2P2N2/1P1BB1PP/RN1Q1RK1 b kq - 5 10,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+20,c4,c5c4,r3kbnr/3b1ppp/p1n1p3/q2pP3/PppP1P2/2P2N2/1P1BB1PP/RN1Q1RK1 w kq - 0 11,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+21,b3,b2b3,r3kbnr/3b1ppp/p1n1p3/q2pP3/PppP1P2/1PP2N2/3BB1PP/RN1Q1RK1 b kq - 0 11,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+22,cxb3,c4b3,r3kbnr/3b1ppp/p1n1p3/q2pP3/Pp1P1P2/1pP2N2/3BB1PP/RN1Q1RK1 w kq - 0 12,"Exchanges are needed from Black's point of view, as leaving the c pawn leads to bxc dxc Bxc leaving White a pawn up."
+23,Qxb3,d1b3,r3kbnr/3b1ppp/p1n1p3/q2pP3/Pp1P1P2/1QP2N2/3BB1PP/RN3RK1 b kq - 0 12,"This exchange is needed as well, as White still threatens to win a pawn. Now the Queenside is open but Black does not have good development on the Kingside."
+24,bxc3,b4c3,r3kbnr/3b1ppp/p1n1p3/q2pP3/P2P1P2/1Qp2N2/3BB1PP/RN3RK1 w kq - 0 13,"This exchange is needed as well, as White still threatens to win a pawn. Now the Queenside is open but Black does not have good development on the Kingside."
+25,Bxc3,d2c3,r3kbnr/3b1ppp/p1n1p3/q2pP3/P2P1P2/1QB2N2/4B1PP/RN3RK1 b kq - 0 13,Nge7 - tries to rectify the development problem.
+26,Qc7,a5c7,r3kbnr/2qb1ppp/p1n1p3/3pP3/P2P1P2/1QB2N2/4B1PP/RN3RK1 w kq - 1 14,Nge7 - tries to rectify the development problem.
+27,Qc2,b3c2,r3kbnr/2qb1ppp/p1n1p3/3pP3/P2P1P2/2B2N2/2Q1B1PP/RN3RK1 b kq - 2 14,Nge7 - tries to rectify the development problem.
+28,Nge7,g8e7,r3kb1r/2qbnppp/p1n1p3/3pP3/P2P1P2/2B2N2/2Q1B1PP/RN3RK1 w kq - 3 15,Nge7 - tries to rectify the development problem.
+29,Bd3,e2d3,r3kb1r/2qbnppp/p1n1p3/3pP3/P2P1P2/2BB1N2/2Q3PP/RN3RK1 b kq - 4 15,"Ng6, preventing Bxh7, maybe winning a pawn (after g6 Bxg6 fxg6 Qxg6  the position is a Bishop for three pawns, and Black's King is exposed in the centre)."
+30,Ng6,e7g6,r3kb1r/2qb1ppp/p1n1p1n1/3pP3/P2P1P2/2BB1N2/2Q3PP/RN3RK1 w kq - 5 16,"Ng6, preventing Bxh7, maybe winning a pawn (after g6 Bxg6 fxg6 Qxg6  the position is a Bishop for three pawns, and Black's King is exposed in the centre)."
+31,f5,f4f5,r3kb1r/2qb1ppp/p1n1p1n1/3pPP2/P2P4/2BB1N2/2Q3PP/RN3RK1 b kq - 0 16,f5. Pushing through the centre and kingside.
+32,exf5,e6f5,r3kb1r/2qb1ppp/p1n3n1/3pPp2/P2P4/2BB1N2/2Q3PP/RN3RK1 w kq - 0 17,Bb4. Development and threat of exchange - this is to equal white's development.
+33,Bxf5,d3f5,r3kb1r/2qb1ppp/p1n3n1/3pPB2/P2P4/2B2N2/2Q3PP/RN3RK1 b kq - 0 17,Bb4. Development and threat of exchange - this is to equal white's development.
+34,Bxf5,d7f5,r3kb1r/2q2ppp/p1n3n1/3pPb2/P2P4/2B2N2/2Q3PP/RN3RK1 w kq - 0 18,Bb4. Development and threat of exchange - this is to equal white's development.
+35,Qxf5,c2f5,r3kb1r/2q2ppp/p1n3n1/3pPQ2/P2P4/2B2N2/6PP/RN3RK1 b kq - 0 18,Bb4. Development and threat of exchange - this is to equal white's development.
+36,Bb4,f8b4,r3k2r/2q2ppp/p1n3n1/3pPQ2/Pb1P4/2B2N2/6PP/RN3RK1 w kq - 1 19,Bb4. Development and threat of exchange - this is to equal white's development.
+37,Ng5,f3g5,r3k2r/2q2ppp/p1n3n1/3pPQN1/Pb1P4/2B5/6PP/RN3RK1 b kq - 2 19,Ng5. Threatening N or Qxf7.
+38,O-O,e8g8,r4rk1/2q2ppp/p1n3n1/3pPQN1/Pb1P4/2B5/6PP/RN3RK1 w - - 3 20,"O-O, cancelling the threats with safety for the king."
+39,Bxb4,c3b4,r4rk1/2q2ppp/p1n3n1/3pPQN1/PB1P4/8/6PP/RN3RK1 b - - 0 20,Nd2. Even on the 21st move White is developing!
+40,Nxb4,c6b4,r4rk1/2q2ppp/p5n1/3pPQN1/Pn1P4/8/6PP/RN3RK1 w - - 0 21,Nd2. Even on the 21st move White is developing!
+41,Nd2,b1d2,r4rk1/2q2ppp/p5n1/3pPQN1/Pn1P4/8/3N2PP/R4RK1 b - - 1 21,Nd2. Even on the 21st move White is developing!
+42,Ra7,a8a7,5rk1/r1q2ppp/p5n1/3pPQN1/Pn1P4/8/3N2PP/R4RK1 w - - 2 22,"Ra7, protecting the f pawn so the f8 rook or queen can be moved."
+43,g3,g2g3,5rk1/r1q2ppp/p5n1/3pPQN1/Pn1P4/6P1/3N3P/R4RK1 b - - 0 22,"Qc2, trying to cancel some threats."
+44,Qc2,c7c2,5rk1/r4ppp/p5n1/3pPQN1/Pn1P4/6P1/2qN3P/R4RK1 w - - 1 23,"Qc2, trying to cancel some threats."

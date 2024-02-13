@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My own recommendation against myself.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,My own recommendation against myself.
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,My own recommendation against myself.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,My own recommendation against myself.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,My own recommendation against myself.
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,My own recommendation against myself.
+7,c3,c2c3,rnbqkb1r/pp1p1ppp/4pn2/2p5/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,I play this because I don't want to handle the pressure on b2 after ...Qb6.
+8,Nc6,b8c6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 1 5,Taking the pawn instead is good.
+9,e3,e2e3,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/3P1B2/2P1PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,"Fortress buildt. Now, let's see how to attack. He has to do something with his d pawn."
+10,Be7,f8e7,r1bqk2r/pp1pbppp/2n1pn2/2p5/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 1 6,"...or Nd7, ""waiting"" another move for him to castle. I invite him to do so this way."
+11,h3,h2h3,r1bqk2r/pp1pbppp/2n1pn2/2p5/3P1B2/2P1PN1P/PP3PP1/RN1QKB1R b KQkq - 0 6,"...or Nd7, ""waiting"" another move for him to castle. I invite him to do so this way."
+12,O-O,e8g8,r1bq1rk1/pp1pbppp/2n1pn2/2p5/3P1B2/2P1PN1P/PP3PP1/RN1QKB1R w KQ - 1 7,"...with this in mind, of course."
+13,g4,g2g4,r1bq1rk1/pp1pbppp/2n1pn2/2p5/3P1BP1/2P1PN1P/PP3P2/RN1QKB1R b KQ - 0 7,"...with this in mind, of course."
+14,d5,d7d5,r1bq1rk1/pp2bppp/2n1pn2/2pp4/3P1BP1/2P1PN1P/PP3P2/RN1QKB1R w KQ - 0 8,Just transposition.
+15,Bb5,f1b5,r1bq1rk1/pp2bppp/2n1pn2/1Bpp4/3P1BP1/2P1PN1P/PP3P2/RN1QK2R b KQ - 1 8,This is a new try for me. I intended to exchange the lsb and play on the Qside. A bad plan.
+16,Qb6,d8b6,r1b2rk1/pp2bppp/1qn1pn2/1Bpp4/3P1BP1/2P1PN1P/PP3P2/RN1QK2R w KQ - 2 9,"...and now I can remember why! The game is lost for me. If BxN, Qxb2."
+17,Bxc6,b5c6,r1b2rk1/pp2bppp/1qB1pn2/2pp4/3P1BP1/2P1PN1P/PP3P2/RN1QK2R b KQ - 0 9,"?? Thinking that b2 is posoned, which ISN'T."
+18,bxc6,b7c6,r1b2rk1/p3bppp/1qp1pn2/2pp4/3P1BP1/2P1PN1P/PP3P2/RN1QK2R w KQ - 0 10,"?? Thinking that b2 is posoned, which ISN'T."
+19,b3,b2b3,r1b2rk1/p3bppp/1qp1pn2/2pp4/3P1BP1/1PP1PN1P/P4P2/RN1QK2R b KQ - 0 10,"Bad structure, always losing, but a temporary relief. Qc7 is also good."
+20,cxd4,c5d4,r1b2rk1/p3bppp/1qp1pn2/3p4/3p1BP1/1PP1PN1P/P4P2/RN1QK2R w KQ - 0 11,Never discover the black diagonal to black.
+21,exd4,e3d4,r1b2rk1/p3bppp/1qp1pn2/3p4/3P1BP1/1PP2N1P/P4P2/RN1QK2R b KQ - 0 11,Never discover the black diagonal to black.
+22,Ba6,c8a6,r4rk1/p3bppp/bqp1pn2/3p4/3P1BP1/1PP2N1P/P4P2/RN1QK2R w KQ - 1 12,Ahhhh... a very famous bindle. Now it will be very hard to castle.
+23,Qc2,d1c2,r4rk1/p3bppp/bqp1pn2/3p4/3P1BP1/1PP2N1P/P1Q2P2/RN2K2R b KQ - 2 12,"I know he will play the R on the c file, but I have a faint plan."
+24,c5,c6c5,r4rk1/p3bppp/bq2pn2/2pp4/3P1BP1/1PP2N1P/P1Q2P2/RN2K2R w KQ - 0 13,"This. Black now decides. I won't take, and he doesn't want to. With many tactics involved."
+25,Be3,f4e3,r4rk1/p3bppp/bq2pn2/2pp4/3P2P1/1PP1BN1P/P1Q2P2/RN2K2R b KQ - 1 13,"This. Black now decides. I won't take, and he doesn't want to. With many tactics involved."
+26,Rac8,a8c8,2r2rk1/p3bppp/bq2pn2/2pp4/3P2P1/1PP1BN1P/P1Q2P2/RN2K2R w KQ - 2 14,"Getting step by step to c5, my only chance of survival."
+27,Nbd2,b1d2,2r2rk1/p3bppp/bq2pn2/2pp4/3P2P1/1PP1BN1P/P1QN1P2/R3K2R b KQ - 3 14,"Getting step by step to c5, my only chance of survival."
+28,Rfe8,f8e8,2r1r1k1/p3bppp/bq2pn2/2pp4/3P2P1/1PP1BN1P/P1QN1P2/R3K2R w KQ - 4 15,Another wasted tempo for black.
+29,c4,c3c4,2r1r1k1/p3bppp/bq2pn2/2pp4/2PP2P1/1P2BN1P/P1QN1P2/R3K2R b KQ - 0 15,"Now, this is a shot in the dark. I sensed I could benefit from the exchanges or at least make the game so complex to provoke mistakes."
+30,dxc4,d5c4,2r1r1k1/p3bppp/bq2pn2/2p5/2pP2P1/1P2BN1P/P1QN1P2/R3K2R w KQ - 0 16,"I need the N for the protection of the white diagonal on h1, now open."
+31,bxc4,b3c4,2r1r1k1/p3bppp/bq2pn2/2p5/2PP2P1/4BN1P/P1QN1P2/R3K2R b KQ - 0 16,"I need the N for the protection of the white diagonal on h1, now open."
+32,cxd4,c5d4,2r1r1k1/p3bppp/bq2pn2/8/2Pp2P1/4BN1P/P1QN1P2/R3K2R w KQ - 0 17,...and c4 holds.

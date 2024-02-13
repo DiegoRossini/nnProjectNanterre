@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+8,Bb4+,f8b4,r1bqk1nr/pppp1ppp/2n5/8/1b1NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+9,Bd2,c1d2,r1bqk1nr/pppp1ppp/2n5/8/1b1NP3/8/PPPB1PPP/RN1QKB1R b KQkq - 2 5,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+10,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/8/1b1NP3/8/PPPB1PPP/RN1QKB1R w KQkq - 3 6,?? Error - better BxBd2 as NxNc6 leaves B on b4 undefended!
+11,Nxc6,d4c6,r1bqk2r/pppp1ppp/2N2n2/8/1b2P3/8/PPPB1PPP/RN1QKB1R b KQkq - 0 6,? Now an attack starts? With 1 piece?
+12,dxc6,d7c6,r1bqk2r/ppp2ppp/2p2n2/8/1b2P3/8/PPPB1PPP/RN1QKB1R w KQkq - 0 7,? Now an attack starts? With 1 piece?
+13,Bxb4,d2b4,r1bqk2r/ppp2ppp/2p2n2/8/1B2P3/8/PPP2PPP/RN1QKB1R b KQkq - 0 7,? Now an attack starts? With 1 piece?
+14,Qxd1+,d8d1,r1b1k2r/ppp2ppp/2p2n2/8/1B2P3/8/PPP2PPP/RN1qKB1R w KQkq - 0 8,? Now an attack starts? With 1 piece?
+15,Kxd1,e1d1,r1b1k2r/ppp2ppp/2p2n2/8/1B2P3/8/PPP2PPP/RN1K1B1R b kq - 0 8,? Now an attack starts? With 1 piece?
+16,Be6,c8e6,r3k2r/ppp2ppp/2p1bn2/8/1B2P3/8/PPP2PPP/RN1K1B1R w kq - 1 9,? Now an attack starts? With 1 piece?
+17,Nc3,b1c3,r3k2r/ppp2ppp/2p1bn2/8/1B2P3/2N5/PPP2PPP/R2K1B1R b kq - 2 9,? Now an attack starts? With 1 piece?
+18,O-O-O+,e8c8,2kr3r/ppp2ppp/2p1bn2/8/1B2P3/2N5/PPP2PPP/R2K1B1R w - - 3 10,? Now an attack starts? With 1 piece?
+19,Bd3,f1d3,2kr3r/ppp2ppp/2p1bn2/8/1B2P3/2NB4/PPP2PPP/R2K3R b - - 4 10,? Now an attack starts? With 1 piece?
+20,Ng4,f6g4,2kr3r/ppp2ppp/2p1b3/8/1B2P1n1/2NB4/PPP2PPP/R2K3R w - - 5 11,? Now an attack starts? With 1 piece?
+21,f3,f2f3,2kr3r/ppp2ppp/2p1b3/8/1B2P1n1/2NB1P2/PPP3PP/R2K3R b - - 0 11,"fork, yes, sensible? not so sure"
+22,Nf2+,g4f2,2kr3r/ppp2ppp/2p1b3/8/1B2P3/2NB1P2/PPP2nPP/R2K3R w - - 1 12,"fork, yes, sensible? not so sure"
+23,Kd2,d1d2,2kr3r/ppp2ppp/2p1b3/8/1B2P3/2NB1P2/PPPK1nPP/R6R b - - 2 12,?? error (again) or stubborness?
+24,Nxh1,f2h1,2kr3r/ppp2ppp/2p1b3/8/1B2P3/2NB1P2/PPPK2PP/R6n w - - 0 13,?? error (again) or stubborness?
+25,Rxh1,a1h1,2kr3r/ppp2ppp/2p1b3/8/1B2P3/2NB1P2/PPPK2PP/7R b - - 0 13,?? error (again) or stubborness?
+26,Rd4,d8d4,2k4r/ppp2ppp/2p1b3/8/1B1rP3/2NB1P2/PPPK2PP/7R w - - 1 14,?? error (again) or stubborness?
+27,Bc5,b4c5,2k4r/ppp2ppp/2p1b3/2B5/3rP3/2NB1P2/PPPK2PP/7R b - - 2 14,?? error (again) or stubborness?
+28,Rhd8,h8d8,2kr4/ppp2ppp/2p1b3/2B5/3rP3/2NB1P2/PPPK2PP/7R w - - 3 15,?? error (again) or stubborness?
+29,Bxd4,c5d4,2kr4/ppp2ppp/2p1b3/8/3BP3/2NB1P2/PPPK2PP/7R b - - 0 15,game over
+30,Rxd4,d8d4,2k5/ppp2ppp/2p1b3/8/3rP3/2NB1P2/PPPK2PP/7R w - - 0 16,
+31,Re1,h1e1,2k5/ppp2ppp/2p1b3/8/3rP3/2NB1P2/PPPK2PP/4R3 b - - 1 16,
+32,a5,a7a5,2k5/1pp2ppp/2p1b3/p7/3rP3/2NB1P2/PPPK2PP/4R3 w - - 0 17,
+33,f4,f3f4,2k5/1pp2ppp/2p1b3/p7/3rPP2/2NB4/PPPK2PP/4R3 b - - 0 17,
+34,b5,b7b5,2k5/2p2ppp/2p1b3/pp6/3rPP2/2NB4/PPPK2PP/4R3 w - - 0 18,
+35,f5,f4f5,2k5/2p2ppp/2p1b3/pp3P2/3rP3/2NB4/PPPK2PP/4R3 b - - 0 18,
+36,Bc4,e6c4,2k5/2p2ppp/2p5/pp3P2/2brP3/2NB4/PPPK2PP/4R3 w - - 1 19,
+37,e5,e4e5,2k5/2p2ppp/2p5/pp2PP2/2br4/2NB4/PPPK2PP/4R3 b - - 0 19,
+38,b4,b5b4,2k5/2p2ppp/2p5/p3PP2/1pbr4/2NB4/PPPK2PP/4R3 w - - 0 20,
+39,Ne2,c3e2,2k5/2p2ppp/2p5/p3PP2/1pbr4/3B4/PPPKN1PP/4R3 b - - 1 20,
+40,Rd5,d4d5,2k5/2p2ppp/2p5/p2rPP2/1pb5/3B4/PPPKN1PP/4R3 w - - 2 21,
+41,Nf4,e2f4,2k5/2p2ppp/2p5/p2rPP2/1pb2N2/3B4/PPPK2PP/4R3 b - - 3 21,
+42,Rd4,d5d4,2k5/2p2ppp/2p5/p3PP2/1pbr1N2/3B4/PPPK2PP/4R3 w - - 4 22,
+43,Re4,e1e4,2k5/2p2ppp/2p5/p3PP2/1pbrRN2/3B4/PPPK2PP/8 b - - 5 22,
+44,b3,b4b3,2k5/2p2ppp/2p5/p3PP2/2brRN2/1p1B4/PPPK2PP/8 w - - 0 23,
+45,Rxd4,e4d4,2k5/2p2ppp/2p5/p3PP2/2bR1N2/1p1B4/PPPK2PP/8 b - - 0 23,
+46,Bxd3,c4d3,2k5/2p2ppp/2p5/p3PP2/3R1N2/1p1b4/PPPK2PP/8 w - - 0 24,
+47,cxb3,c2b3,2k5/2p2ppp/2p5/p3PP2/3R1N2/1P1b4/PP1K2PP/8 b - - 0 24,
+48,Bxf5,d3f5,2k5/2p2ppp/2p5/p3Pb2/3R1N2/1P6/PP1K2PP/8 w - - 0 25,
+49,a3,a2a3,2k5/2p2ppp/2p5/p3Pb2/3R1N2/PP6/1P1K2PP/8 b - - 0 25,
+50,c5,c6c5,2k5/2p2ppp/8/p1p1Pb2/3R1N2/PP6/1P1K2PP/8 w - - 0 26,
+51,Rc4,d4c4,2k5/2p2ppp/8/p1p1Pb2/2R2N2/PP6/1P1K2PP/8 b - - 1 26,
+52,g5,g7g5,2k5/2p2p1p/8/p1p1Pbp1/2R2N2/PP6/1P1K2PP/8 w - - 0 27,
+53,Nh5,f4h5,2k5/2p2p1p/8/p1p1PbpN/2R5/PP6/1P1K2PP/8 b - - 1 27,
+54,Bg6,f5g6,2k5/2p2p1p/6b1/p1p1P1pN/2R5/PP6/1P1K2PP/8 w - - 2 28,
+55,g4,g2g4,2k5/2p2p1p/6b1/p1p1P1pN/2R3P1/PP6/1P1K3P/8 b - - 0 28,
+56,Be4,g6e4,2k5/2p2p1p/8/p1p1P1pN/2R1b1P1/PP6/1P1K3P/8 w - - 1 29,
+57,Rxc5,c4c5,2k5/2p2p1p/8/p1R1P1pN/4b1P1/PP6/1P1K3P/8 b - - 0 29,

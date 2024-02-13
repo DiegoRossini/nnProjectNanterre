@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,Reti Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,normal King pawn response
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/2P5/3P4/PP2PPPP/RNBQKBNR b KQkq - 0 2,prevent a further pawn advance
+4,h6,h7h6,rnbqkbnr/pppp1pp1/7p/4p3/2P5/3P4/PP2PPPP/RNBQKBNR w KQkq - 0 3,premature.. Bg5 wasn't a threat yet
+5,Nc3,b1c3,rnbqkbnr/pppp1pp1/7p/4p3/2P5/2NP4/PP2PPPP/R1BQKBNR b KQkq - 1 3,Bb4 is a threat to me
+6,Nf6,g8f6,rnbqkb1r/pppp1pp1/5n1p/4p3/2P5/2NP4/PP2PPPP/R1BQKBNR w KQkq - 2 4,he develops a knight
+7,Nf3,g1f3,rnbqkb1r/pppp1pp1/5n1p/4p3/2P5/2NP1N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,ditto
+8,Bb4,f8b4,rnbqk2r/pppp1pp1/5n1p/4p3/1bP5/2NP1N2/PP2PPPP/R1BQKB1R w KQkq - 4 5,"I expected that on the last move, so no problem..."
+9,Bd2,c1d2,rnbqk2r/pppp1pp1/5n1p/4p3/1bP5/2NP1N2/PP1BPPPP/R2QKB1R b KQkq - 5 5,my bishop can run interference.
+10,O-O,e8g8,rnbq1rk1/pppp1pp1/5n1p/4p3/1bP5/2NP1N2/PP1BPPPP/R2QKB1R w KQ - 6 6,his King is safely tucked away now
+11,g3,g2g3,rnbq1rk1/pppp1pp1/5n1p/4p3/1bP5/2NP1NP1/PP1BPP1P/R2QKB1R b KQ - 0 6,I'll put by white bishop on the long diagonal before castling
+12,Nc6,b8c6,r1bq1rk1/pppp1pp1/2n2n1p/4p3/1bP5/2NP1NP1/PP1BPP1P/R2QKB1R w KQ - 1 7,he protects his bishop
+13,Bg2,f1g2,r1bq1rk1/pppp1pp1/2n2n1p/4p3/1bP5/2NP1NP1/PP1BPPBP/R2QK2R b KQ - 2 7,I finish preparations for castling
+14,d6,d7d6,r1bq1rk1/ppp2pp1/2np1n1p/4p3/1bP5/2NP1NP1/PP1BPPBP/R2QK2R w KQ - 0 8,he adds protection for the e5 pawn and opens a path for his bishop
+15,a3,a2a3,r1bq1rk1/ppp2pp1/2np1n1p/4p3/1bP5/P1NP1NP1/1P1BPPBP/R2QK2R b KQ - 0 8,I decide it's time to run off the bishop
+16,Bxc3,b4c3,r1bq1rk1/ppp2pp1/2np1n1p/4p3/2P5/P1bP1NP1/1P1BPPBP/R2QK2R w KQ - 0 9,he wants to trade (they almost always do!)
+17,Bxc3,d2c3,r1bq1rk1/ppp2pp1/2np1n1p/4p3/2P5/P1BP1NP1/1P2PPBP/R2QK2R b KQ - 0 9,so I trade knight for bishop
+18,Bf5,c8f5,r2q1rk1/ppp2pp1/2np1n1p/4pb2/2P5/P1BP1NP1/1P2PPBP/R2QK2R w KQ - 1 10,he develops his remaining bishop
+19,O-O,e1g1,r2q1rk1/ppp2pp1/2np1n1p/4pb2/2P5/P1BP1NP1/1P2PPBP/R2Q1RK1 b - - 2 10,safe at last!
+20,Re8,f8e8,r2qr1k1/ppp2pp1/2np1n1p/4pb2/2P5/P1BP1NP1/1P2PPBP/R2Q1RK1 w - - 3 11,he adds pressure to the d and e files

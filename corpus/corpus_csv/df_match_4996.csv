@@ -1,0 +1,17 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Best by test.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Standard.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Book.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The most flexible response.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Old-fashioned but playable.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,A must.
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Forced.
+8,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Rather than exchange Knights immediately, which would centralize White's Queen, I play to develop and pressure the Knight."
+9,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/2P5/PP3PPP/RNBQKB1R b KQkq - 0 5,Securely guards the Knight but impedes the development of the Q-side.
+10,Qf6,d8f6,r1b1k1nr/pppp1ppp/2n2q2/2b5/3NP3/2P5/PP3PPP/RNBQKB1R w KQkq - 1 6,Continuing to pressure the Knight.
+11,Be3,c1e3,r1b1k1nr/pppp1ppp/2n2q2/2b5/3NP3/2P1B3/PP3PPP/RN1QKB1R b KQkq - 2 6,Developing and guarding.
+12,Nge7,g8e7,r1b1k2r/ppppnppp/2n2q2/2b5/3NP3/2P1B3/PP3PPP/RN1QKB1R w KQkq - 3 7,Preparing to castle.
+13,Nxc6,d4c6,r1b1k2r/ppppnppp/2N2q2/2b5/4P3/2P1B3/PP3PPP/RN1QKB1R b KQkq - 0 7,Forcing my hand.
+14,Bxe3,c5e3,r1b1k2r/ppppnppp/2N2q2/8/4P3/2P1b3/PP3PPP/RN1QKB1R w KQkq - 0 8,To avoid losing material. If 8 PxB NxN (or QxN) keeps the balance.
+15,Nxe7,c6e7,r1b1k2r/ppppNppp/5q2/8/4P3/2P1b3/PP3PPP/RN1QKB1R b KQkq - 0 8,"A game that had been fairly tranquil, with relatively normal development and exchanges until now..."
+16,Qxf2#,f6f2,r1b1k2r/ppppNppp/8/8/4P3/2P1b3/PP3qPP/RN1QKB1R w KQkq - 0 9,...ends with this lightning-bolt!

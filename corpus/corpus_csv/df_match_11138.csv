@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,Suppose you win a pawn by move 13. How do you convert a full pawn into a full point? This is what I've been trying to do in this game.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"Apparently, there's a first for everything, even ""Bird's opening with 1..d5"". Never played this before."
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq - 0 2,"Apparently, there's a first for everything, even ""Bird's opening with 1..d5"". Never played this before."
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3p1b2/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq - 1 3,"Apparently, there's a first for everything, even ""Bird's opening with 1..d5"". Never played this before."
+5,e3,e2e3,rn1qkbnr/ppp1pppp/8/3p1b2/3P1P2/4P3/PPP3PP/RNBQKBNR b KQkq - 0 3,"Apparently, there's a first for everything, even ""Bird's opening with 1..d5"". Never played this before."
+6,Nf6,g8f6,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1P2/4P3/PPP3PP/RNBQKBNR w KQkq - 1 4,"They say it's not wise to move the same piece twice in the opening, so I chose to develop the other bishop instead of trading the light-coloured bishops."
+7,Nc3,b1c3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1P2/2N1P3/PPP3PP/R1BQKBNR b KQkq - 2 4,"They say it's not wise to move the same piece twice in the opening, so I chose to develop the other bishop instead of trading the light-coloured bishops."
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1P2/2N1P3/PPP3PP/R1BQKBNR w KQkq - 0 5,"They say it's not wise to move the same piece twice in the opening, so I chose to develop the other bishop instead of trading the light-coloured bishops."
+9,Bd3,f1d3,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1P2/2NBP3/PPP3PP/R1BQK1NR b KQkq - 1 5,"They say it's not wise to move the same piece twice in the opening, so I chose to develop the other bishop instead of trading the light-coloured bishops."
+10,Bb4,f8b4,rn1qk2r/ppp2ppp/4pn2/3p1b2/1b1P1P2/2NBP3/PPP3PP/R1BQK1NR w KQkq - 2 6,"They say it's not wise to move the same piece twice in the opening, so I chose to develop the other bishop instead of trading the light-coloured bishops."
+11,Bd2,c1d2,rn1qk2r/ppp2ppp/4pn2/3p1b2/1b1P1P2/2NBP3/PPPB2PP/R2QK1NR b KQkq - 3 6,Safety first
+12,O-O,e8g8,rn1q1rk1/ppp2ppp/4pn2/3p1b2/1b1P1P2/2NBP3/PPPB2PP/R2QK1NR w KQ - 4 7,Safety first
+13,Nf3,g1f3,rn1q1rk1/ppp2ppp/4pn2/3p1b2/1b1P1P2/2NBPN2/PPPB2PP/R2QK2R b KQ - 5 7,White is not going to castle very soon.
+14,Nc6,b8c6,r2q1rk1/ppp2ppp/2n1pn2/3p1b2/1b1P1P2/2NBPN2/PPPB2PP/R2QK2R w KQ - 6 8,Perhaps 8. 0-0 would have been a more solid move.
+15,Ne5,f3e5,r2q1rk1/ppp2ppp/2n1pn2/3pNb2/1b1P1P2/2NBP3/PPPB2PP/R2QK2R b KQ - 7 8,Perhaps 8. 0-0 would have been a more solid move.
+16,Nxe5,c6e5,r2q1rk1/ppp2ppp/4pn2/3pnb2/1b1P1P2/2NBP3/PPPB2PP/R2QK2R w KQ - 0 9,I'm not sure this intermediary move is good.
+17,fxe5,f4e5,r2q1rk1/ppp2ppp/4pn2/3pPb2/1b1P4/2NBP3/PPPB2PP/R2QK2R b KQ - 0 9,I'm not sure this intermediary move is good.
+18,Bg4,f5g4,r2q1rk1/ppp2ppp/4pn2/3pP3/1b1P2b1/2NBP3/PPPB2PP/R2QK2R w KQ - 1 10,I'm not sure this intermediary move is good.
+19,Be2,d3e2,r2q1rk1/ppp2ppp/4pn2/3pP3/1b1P2b1/2N1P3/PPPBB1PP/R2QK2R b KQ - 2 10,"I decided to trade the light-coloured bishops, because mine wasn't doing much."
+20,Bxe2,g4e2,r2q1rk1/ppp2ppp/4pn2/3pP3/1b1P4/2N1P3/PPPBb1PP/R2QK2R w KQ - 0 11,"Intending to place the knight at e4 after white retakes with 12. Bxc3; it's a well-placed spot for a knight, and it cannot be chased away easily"
+21,Qxe2,d1e2,r2q1rk1/ppp2ppp/4pn2/3pP3/1b1P4/2N1P3/PPPBQ1PP/R3K2R b KQ - 0 11,"Intending to place the knight at e4 after white retakes with 12. Bxc3; it's a well-placed spot for a knight, and it cannot be chased away easily"
+22,Bxc3,b4c3,r2q1rk1/ppp2ppp/4pn2/3pP3/3P4/2b1P3/PPPBQ1PP/R3K2R w KQ - 0 12,"Intending to place the knight at e4 after white retakes with 12. Bxc3; it's a well-placed spot for a knight, and it cannot be chased away easily"
+23,exf6,e5f6,r2q1rk1/ppp2ppp/4pP2/3p4/3P4/2b1P3/PPPBQ1PP/R3K2R b KQ - 0 12,"he believes that my knight's place is outside the table. Everybody has the right to an opinion, after all"
+24,Bxd2+,c3d2,r2q1rk1/ppp2ppp/4pP2/3p4/3P4/4P3/PPPbQ1PP/R3K2R w KQ - 0 13,"I exchanged bishop for bishop, he exchanged pawn for knight, so I came a pawn up after all the minor pieces have left the table. Being a pawn up, I thought ""well, if only I could exchange the rest of the pieces, I would have a very good chance to win this"".
+With all the pieces gone, I would have essentially a won game. But how do you win a ""won game""?"
+25,Qxd2,e2d2,r2q1rk1/ppp2ppp/4pP2/3p4/3P4/4P3/PPPQ2PP/R3K2R b KQ - 0 13,"I exchanged bishop for bishop, he exchanged pawn for knight, so I came a pawn up after all the minor pieces have left the table. Being a pawn up, I thought ""well, if only I could exchange the rest of the pieces, I would have a very good chance to win this"".
+With all the pieces gone, I would have essentially a won game. But how do you win a ""won game""?"
+26,Qxf6,d8f6,r4rk1/ppp2ppp/4pq2/3p4/3P4/4P3/PPPQ2PP/R3K2R w KQ - 0 14,"I exchanged bishop for bishop, he exchanged pawn for knight, so I came a pawn up after all the minor pieces have left the table. Being a pawn up, I thought ""well, if only I could exchange the rest of the pieces, I would have a very good chance to win this"".
+With all the pieces gone, I would have essentially a won game. But how do you win a ""won game""?"
+27,Rf1,h1f1,r4rk1/ppp2ppp/4pq2/3p4/3P4/4P3/PPPQ2PP/R3KR2 b Q - 1 14,taking possession of the half-open file
+28,Qh6,f6h6,r4rk1/ppp2ppp/4p2q/3p4/3P4/4P3/PPPQ2PP/R3KR2 w Q - 2 15,"Fritz likes 14..Qh4 better, but I preferred to keep an eye on e3, hoping that maybe he would leave it unguarded someday."
+29,O-O-O,e1c1,r4rk1/ppp2ppp/4p2q/3p4/3P4/4P3/PPPQ2PP/2KR1R2 b - - 3 15,"Finally, he castles. I believe the theory recommends an attack on queen's flank in this position, but that never happened."
+30,Qxh2,h6h2,r4rk1/ppp2ppp/4p3/3p4/3P4/4P3/PPPQ2Pq/2KR1R2 w - - 0 16,"I decided to go for the material, grab a (perhaps poisoned) pawn and hope to survive the attack that was to follow on the kingside."
+31,Qf2,d2f2,r4rk1/ppp2ppp/4p3/3p4/3P4/4P3/PPP2QPq/2KR1R2 b - - 1 16,"I intend to place the queen at g6, so that it can survey the weak point h7 after white takes control of the h file"
+32,Qh6,h2h6,r4rk1/ppp2ppp/4p2q/3p4/3P4/4P3/PPP2QP1/2KR1R2 w - - 2 17,"I intend to place the queen at g6, so that it can survey the weak point h7 after white takes control of the h file"
+33,Rfh1,f1h1,r4rk1/ppp2ppp/4p2q/3p4/3P4/4P3/PPP2QP1/2KR3R b - - 3 17,"he takes control of the h file, a very sensible move. I am now 2 pawns up, but an attack will certainly follow on the king's flank. Perhaps it really was a poisoned pawn."
+34,Qg5,h6g5,r4rk1/ppp2ppp/4p3/3p2q1/3P4/4P3/PPP2QP1/2KR3R w - - 4 18,"Between g6 and g5, I chose the latter because it sort of forces the white queen to keep guarding e3, which is now his weak point. Of course, I only use a piece for the attack, so he can easily attack me and guard e3 at the same time"
+35,Rh3,h1h3,r4rk1/ppp2ppp/4p3/3p2q1/3P4/4P2R/PPP2QP1/2KR4 b - - 5 18,"which he does; obviously, Rdh1 is to follow"
+36,f5,f7f5,r4rk1/ppp3pp/4p3/3p1pq1/3P4/4P2R/PPP2QP1/2KR4 w - - 0 19,"I must try to bring the rooks into play, otherwise I don't really stand a chance."

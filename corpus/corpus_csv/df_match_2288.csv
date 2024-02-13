@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,what opening is this
+2,f6,f7f6,rnbqkbnr/ppppp1pp/5p2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,moves pawn
+3,e4,e2e4,rnbqkbnr/ppppp1pp/5p2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 2,moves pawn
+4,Nc6,b8c6,r1bqkbnr/ppppp1pp/2n2p2/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 3,builds minor pieces
+5,Nc3,b1c3,r1bqkbnr/ppppp1pp/2n2p2/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 2 3,both knights out
+6,g6,g7g6,r1bqkbnr/ppppp2p/2n2pp1/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,moves pawn
+7,Bb5,f1b5,r1bqkbnr/ppppp2p/2n2pp1/1B6/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,attacking the knight
+8,a6,a7a6,r1bqkbnr/1pppp2p/p1n2pp1/1B6/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,is this a fork or pin
+9,Bxc6,b5c6,r1bqkbnr/1pppp2p/p1B2pp1/8/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5,what is it called when one pieces is under attack by one 2pieces
+10,bxc6,b7c6,r1bqkbnr/2ppp2p/p1p2pp1/8/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 6,moves pawn
+11,O-O,e1g1,r1bqkbnr/2ppp2p/p1p2pp1/8/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 6,castle king side
+12,Bb7,c8b7,r2qkbnr/1bppp2p/p1p2pp1/8/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 2 7,minor pieces
+13,b4,b2b4,r2qkbnr/1bppp2p/p1p2pp1/8/1P2P3/2N2N2/P1PP1PPP/R1BQ1RK1 b kq - 0 7,moves pawn
+14,Rb8,a8b8,1r1qkbnr/1bppp2p/p1p2pp1/8/1P2P3/2N2N2/P1PP1PPP/R1BQ1RK1 w k - 1 8,moves rook
+15,Ba3,c1a3,1r1qkbnr/1bppp2p/p1p2pp1/8/1P2P3/B1N2N2/P1PP1PPP/R2Q1RK1 b k - 2 8,moves bishop
+16,Bh6,f8h6,1r1qk1nr/1bppp2p/p1p2ppb/8/1P2P3/B1N2N2/P1PP1PPP/R2Q1RK1 w k - 3 9,moves bishop
+17,b5,b4b5,1r1qk1nr/1bppp2p/p1p2ppb/1P6/4P3/B1N2N2/P1PP1PPP/R2Q1RK1 b k - 0 9,moves knight
+18,axb5,a6b5,1r1qk1nr/1bppp2p/2p2ppb/1p6/4P3/B1N2N2/P1PP1PPP/R2Q1RK1 w k - 0 10,moves knight
+19,Nd4,f3d4,1r1qk1nr/1bppp2p/2p2ppb/1p6/3NP3/B1N5/P1PP1PPP/R2Q1RK1 b k - 1 10,moves knight
+20,Ba6,b7a6,1r1qk1nr/2ppp2p/b1p2ppb/1p6/3NP3/B1N5/P1PP1PPP/R2Q1RK1 w k - 2 11,moves bishop
+21,Qf3,d1f3,1r1qk1nr/2ppp2p/b1p2ppb/1p6/3NP3/B1N2Q2/P1PP1PPP/R4RK1 b k - 3 11,moves queen   black times out i win

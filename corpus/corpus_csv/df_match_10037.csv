@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Philidor Defence: My 2nd philidor in this ongoing tournment
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Philidor Defence: My 2nd philidor in this ongoing tournment
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Philidor Defence: My 2nd philidor in this ongoing tournment
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Philidor Defence: My 2nd philidor in this ongoing tournment
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The usual philidor stuff
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,this B development is premature - is amply demonstrated in one of the Morphys Game but players still persist ...
+7,dxe5,d4e5,rn1qkbnr/ppp2ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Forced, If 4....,dxe5; then 5.Qxd8 & 6.Nxe5 _ white is a healthy p up."
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5b2/PPP2PPP/RNBQKB1R w KQkq - 0 5,"Forced, If 4....,dxe5; then 5.Qxd8 & 6.Nxe5 _ white is a healthy p up."
+9,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 0 5,Develops & aims at blacks weak spot -f7p.
+10,dxe5,d6e5,rn1qkbnr/ppp2ppp/8/4p3/4P3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6,Develops & aims at blacks weak spot -f7p.
+11,Bc4,f1c4,rn1qkbnr/ppp2ppp/8/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 1 6,Develops & aims at blacks weak spot -f7p.
+12,Nf6,g8f6,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 2 7,develops & blocks the f7#; but white shifts his Q to b-file
+13,Qb3,f3b3,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7,sets a battery & reinstates the threat on f7-p & has another threat on b7-p
+14,Qe7,d8e7,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 4 8,Defends the main f7p
+15,Nc3,b1c3,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R b KQkq - 5 8,"Text is better than 8.Qxb7 as it is met with 8...,Qb4  when white is forced to Q swap. Text blocks the check, defends the e4-p & white is now ready for Qxb7"
+16,b6,b7b6,rn2kb1r/p1p1qppp/1p3n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R w KQkq - 0 9,"Black deviates. In the historical game Morphys opponent chose ....,c6 to defend his b7-p & here ...,"
+17,Bg5,c1g5,rn2kb1r/p1p1qppp/1p3n2/4p1B1/2B1P3/1QN5/PPP2PPP/R3K2R b KQkq - 1 9,"The famous pin ..., threat is Nd5"
+18,h6,h7h6,rn2kb1r/p1p1qpp1/1p3n1p/4p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 10,It seems blacks has underetimated the threat or overlooked
+19,Nd5,c3d5,rn2kb1r/p1p1qpp1/1p3n1p/3Np1B1/2B1P3/1Q6/PPP2PPP/R3K2R b KQkq - 1 10,Ignors blacks attack & counters with my big one
+20,Qd8,e7d8,rn1qkb1r/p1p2pp1/1p3n1p/3Np1B1/2B1P3/1Q6/PPP2PPP/R3K2R w KQkq - 2 11,"This leaves his f7-p hanging & white goes for the kill. Better for black was 10....,Qd7, though here also white wins but not as fast as in the game, as after 11.Bxf6 - wins a piece  & black cant take piece due to 12.Nxf6  - forks both Q & K"
+21,Nxf6+,d5f6,rn1qkb1r/p1p2pp1/1p3N1p/4p1B1/2B1P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 11,This exchange clears the attacking diagonal
+22,gxf6,g7f6,rn1qkb1r/p1p2p2/1p3p1p/4p1B1/2B1P3/1Q6/PPP2PPP/R3K2R w KQkq - 0 12,An excellent #
+23,Bxf7+,c4f7,rn1qkb1r/p1p2B2/1p3p1p/4p1B1/4P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 12,An excellent #
+24,Kd7,e8d7,rn1q1b1r/p1pk1B2/1p3p1p/4p1B1/4P3/1Q6/PPP2PPP/R3K2R w KQ - 1 13,An excellent #
+25,Qe6#,b3e6,rn1q1b1r/p1pk1B2/1p2Qp1p/4p1B1/4P3/8/PPP2PPP/R3K2R b KQ - 2 13,An excellent #

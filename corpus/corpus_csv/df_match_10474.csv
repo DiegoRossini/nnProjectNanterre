@@ -1,0 +1,106 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game was played on the German chess site schacharena.de. It is interesting for a cross pin in the middle game.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A bit unusual, the standard moves are d4 and Nc3 after black's Nf6."
+3,Bc4,f1c4,rnbqkbnr/ppp1pppp/3p4/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"A bit unusual, the standard moves are d4 and Nc3 after black's Nf6."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Still Nc3 could have been played here.
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,Still Nc3 could have been played here.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,Black develops the pieces further.
+7,Ne2,g1e2,rnbqkb1r/ppp1pp1p/3p1np1/8/2B1P3/3P4/PPP1NPPP/RNBQK2R b KQkq - 1 4,Black develops the pieces further.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/2B1P3/3P4/PPP1NPPP/RNBQK2R w KQkq - 2 5,Black develops the pieces further.
+9,O-O,e1g1,rnbqk2r/ppp1ppbp/3p1np1/8/2B1P3/3P4/PPP1NPPP/RNBQ1RK1 b kq - 3 5,Black develops the pieces further.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2B1P3/3P4/PPP1NPPP/RNBQ1RK1 w - - 4 6,Black develops the pieces further.
+11,Bb3,c4b3,rnbq1rk1/ppp1ppbp/3p1np1/8/4P3/1B1P4/PPP1NPPP/RNBQ1RK1 b - - 5 6,Black develops the pieces further.
+12,Nc6,b8c6,r1bq1rk1/ppp1ppbp/2np1np1/8/4P3/1B1P4/PPP1NPPP/RNBQ1RK1 w - - 6 7,Black develops the pieces further.
+13,c4,c2c4,r1bq1rk1/ppp1ppbp/2np1np1/8/2P1P3/1B1P4/PP2NPPP/RNBQ1RK1 b - - 0 7,"There are some weak dark squares in white's camp already: d4, b4."
+14,a5,a7a5,r1bq1rk1/1pp1ppbp/2np1np1/p7/2P1P3/1B1P4/PP2NPPP/RNBQ1RK1 w - - 0 8,Attack on the queen side.
+15,Ba4,b3a4,r1bq1rk1/1pp1ppbp/2np1np1/p7/B1P1P3/3P4/PP2NPPP/RNBQ1RK1 b - - 1 8,White forgets to develop his pieces.
+16,Nb4,c6b4,r1bq1rk1/1pp1ppbp/3p1np1/p7/BnP1P3/3P4/PP2NPPP/RNBQ1RK1 w - - 2 9,Attacks whites only active piece.
+17,a3,a2a3,r1bq1rk1/1pp1ppbp/3p1np1/p7/BnP1P3/P2P4/1P2NPPP/RNBQ1RK1 b - - 0 9,Attacks whites only active piece.
+18,Na6,b4a6,r1bq1rk1/1pp1ppbp/n2p1np1/p7/B1P1P3/P2P4/1P2NPPP/RNBQ1RK1 w - - 1 10,Attacks whites only active piece.
+19,Re1,f1e1,r1bq1rk1/1pp1ppbp/n2p1np1/p7/B1P1P3/P2P4/1P2NPPP/RNBQR1K1 b - - 2 10,Attacks whites only active piece.
+20,Bd7,c8d7,r2q1rk1/1ppbppbp/n2p1np1/p7/B1P1P3/P2P4/1P2NPPP/RNBQR1K1 w - - 3 11,Attacks whites only active piece.
+21,Bxd7,a4d7,r2q1rk1/1ppBppbp/n2p1np1/p7/2P1P3/P2P4/1P2NPPP/RNBQR1K1 b - - 0 11,Threatens a knight fork on b3.
+22,Qxd7,d8d7,r4rk1/1ppqppbp/n2p1np1/p7/2P1P3/P2P4/1P2NPPP/RNBQR1K1 w - - 0 12,Threatens a knight fork on b3.
+23,Qd2,d1d2,r4rk1/1ppqppbp/n2p1np1/p7/2P1P3/P2P4/1P1QNPPP/RNB1R1K1 b - - 1 12,Threatens a knight fork on b3.
+24,Nc5,a6c5,r4rk1/1ppqppbp/3p1np1/p1n5/2P1P3/P2P4/1P1QNPPP/RNB1R1K1 w - - 2 13,Threatens a knight fork on b3.
+25,Qd1,d2d1,r4rk1/1ppqppbp/3p1np1/p1n5/2P1P3/P2P4/1P2NPPP/RNBQR1K1 b - - 3 13,Opens the b-line.
+26,b5,b7b5,r4rk1/2pqppbp/3p1np1/ppn5/2P1P3/P2P4/1P2NPPP/RNBQR1K1 w - - 0 14,Opens the b-line.
+27,f3,f2f3,r4rk1/2pqppbp/3p1np1/ppn5/2P1P3/P2P1P2/1P2N1PP/RNBQR1K1 b - - 0 14,Weakens one more dark square: e3. Now there are several dark diagonals in white's camp open for black to exploit.
+28,bxc4,b5c4,r4rk1/2pqppbp/3p1np1/p1n5/2p1P3/P2P1P2/1P2N1PP/RNBQR1K1 w - - 0 15,Black searches for inititative on the queen side.
+29,dxc4,d3c4,r4rk1/2pqppbp/3p1np1/p1n5/2P1P3/P4P2/1P2N1PP/RNBQR1K1 b - - 0 15,Black searches for inititative on the queen side.
+30,Rfb8,f8b8,rr4k1/2pqppbp/3p1np1/p1n5/2P1P3/P4P2/1P2N1PP/RNBQR1K1 w - - 1 16,Black searches for inititative on the queen side.
+31,Nf4,e2f4,rr4k1/2pqppbp/3p1np1/p1n5/2P1PN2/P4P2/1P4PP/RNBQR1K1 b - - 2 16,The queen enters the queen side action.
+32,Nb3,c5b3,rr4k1/2pqppbp/3p1np1/p7/2P1PN2/Pn3P2/1P4PP/RNBQR1K1 w - - 3 17,The queen enters the queen side action.
+33,Ra2,a1a2,rr4k1/2pqppbp/3p1np1/p7/2P1PN2/Pn3P2/RP4PP/1NBQR1K1 b - - 4 17,The queen enters the queen side action.
+34,Qc6,d7c6,rr4k1/2p1ppbp/2qp1np1/p7/2P1PN2/Pn3P2/RP4PP/1NBQR1K1 w - - 5 18,The queen enters the queen side action.
+35,Qc2,d1c2,rr4k1/2p1ppbp/2qp1np1/p7/2P1PN2/Pn3P2/RPQ3PP/1NB1R1K1 b - - 6 18,Pins the knight to the queen. Here an exciting game takes its course!
+36,Nxc1,b3c1,rr4k1/2p1ppbp/2qp1np1/p7/2P1PN2/P4P2/RPQ3PP/1Nn1R1K1 w - - 0 19,Pins the knight to the queen. Here an exciting game takes its course!
+37,Qxc1,c2c1,rr4k1/2p1ppbp/2qp1np1/p7/2P1PN2/P4P2/RP4PP/1NQ1R1K1 b - - 0 19,Pins the knight to the queen. Here an exciting game takes its course!
+38,Bh6,g7h6,rr4k1/2p1pp1p/2qp1npb/p7/2P1PN2/P4P2/RP4PP/1NQ1R1K1 w - - 1 20,Pins the knight to the queen. Here an exciting game takes its course!
+39,Nd5,f4d5,rr4k1/2p1pp1p/2qp1npb/p2N4/2P1P3/P4P2/RP4PP/1NQ1R1K1 b - - 2 20,! If 20...Bxc1 then 21.Nxe7  and forks king and queen.
+40,Qc5+,c6c5,rr4k1/2p1pp1p/3p1npb/p1qN4/2P1P3/P4P2/RP4PP/1NQ1R1K1 w - - 3 21,The queen goes on the dark diagonal towards the white king.
+41,Ne3,d5e3,rr4k1/2p1pp1p/3p1npb/p1q5/2P1P3/P3NP2/RP4PP/1NQ1R1K1 b - - 4 21,"A cross pin!! Normally this is lethal, but white finds here again and again a way to hold on."
+42,Rb3,b8b3,r5k1/2p1pp1p/3p1npb/p1q5/2P1P3/Pr2NP2/RP4PP/1NQ1R1K1 w - - 5 22,?! This frees square a4.
+43,Nc3,b1c3,r5k1/2p1pp1p/3p1npb/p1q5/2P1P3/PrN1NP2/RP4PP/2Q1R1K1 b - - 6 22,?! This frees square a4.
+44,Rab8,a8b8,1r4k1/2p1pp1p/3p1npb/p1q5/2P1P3/PrN1NP2/RP4PP/2Q1R1K1 w - - 7 23,?! This frees square a4.
+45,a4,a3a4,1r4k1/2p1pp1p/3p1npb/p1q5/P1P1P3/1rN1NP2/RP4PP/2Q1R1K1 b - - 0 23,?! This frees square a4.
+46,Rb8b4,b8b4,6k1/2p1pp1p/3p1npb/p1q5/PrP1P3/1rN1NP2/RP4PP/2Q1R1K1 w - - 1 24,? Loses.
+47,Kf2,g1f2,6k1/2p1pp1p/3p1npb/p1q5/PrP1P3/1rN1NP2/RP3KPP/2Q1R3 b - - 2 24,? Loses.
+48,Rxc4,b4c4,6k1/2p1pp1p/3p1npb/p1q5/P1r1P3/1rN1NP2/RP3KPP/2Q1R3 w - - 0 25,? Loses.
+49,Kg1,f2g1,6k1/2p1pp1p/3p1npb/p1q5/P1r1P3/1rN1NP2/RP4PP/2Q1R1K1 b - - 1 25,? Loses.
+50,Rcxc3,c4c3,6k1/2p1pp1p/3p1npb/p1q5/P3P3/1rr1NP2/RP4PP/2Q1R1K1 w - - 0 26,? Loses.
+51,bxc3,b2c3,6k1/2p1pp1p/3p1npb/p1q5/P3P3/1rP1NP2/R5PP/2Q1R1K1 b - - 0 26,? Loses.
+52,Rxc3,b3c3,6k1/2p1pp1p/3p1npb/p1q5/P3P3/2r1NP2/R5PP/2Q1R1K1 w - - 0 27,? Loses.
+53,Qb2,c1b2,6k1/2p1pp1p/3p1npb/p1q5/P3P3/2r1NP2/RQ4PP/4R1K1 b - - 1 27,? Loses.
+54,Bxe3+,h6e3,6k1/2p1pp1p/3p1np1/p1q5/P3P3/2r1bP2/RQ4PP/4R1K1 w - - 0 28,? Loses.
+55,Kf1,g1f1,6k1/2p1pp1p/3p1np1/p1q5/P3P3/2r1bP2/RQ4PP/4RK2 b - - 1 28,? Loses.
+56,Qc4+,c5c4,6k1/2p1pp1p/3p1np1/p7/P1q1P3/2r1bP2/RQ4PP/4RK2 w - - 2 29,? Loses.
+57,Qe2,b2e2,6k1/2p1pp1p/3p1np1/p7/P1q1P3/2r1bP2/R3Q1PP/4RK2 b - - 3 29,? Loses.
+58,Qxe2+,c4e2,6k1/2p1pp1p/3p1np1/p7/P3P3/2r1bP2/R3q1PP/4RK2 w - - 0 30,? Loses.
+59,Raxe2,a2e2,6k1/2p1pp1p/3p1np1/p7/P3P3/2r1bP2/4R1PP/4RK2 b - - 0 30,? Loses.
+60,Bb6,e3b6,6k1/2p1pp1p/1b1p1np1/p7/P3P3/2r2P2/4R1PP/4RK2 w - - 1 31,? Loses.
+61,Rd1,e1d1,6k1/2p1pp1p/1b1p1np1/p7/P3P3/2r2P2/4R1PP/3R1K2 b - - 2 31,? Loses.
+62,Ra3,c3a3,6k1/2p1pp1p/1b1p1np1/p7/P3P3/r4P2/4R1PP/3R1K2 w - - 3 32,? Loses.
+63,e5,e4e5,6k1/2p1pp1p/1b1p1np1/p3P3/P7/r4P2/4R1PP/3R1K2 b - - 0 32,? Loses.
+64,Nd7,f6d7,6k1/2pnpp1p/1b1p2p1/p3P3/P7/r4P2/4R1PP/3R1K2 w - - 1 33,? Loses.
+65,exd6,e5d6,6k1/2pnpp1p/1b1P2p1/p7/P7/r4P2/4R1PP/3R1K2 b - - 0 33,? Loses.
+66,exd6,e7d6,6k1/2pn1p1p/1b1p2p1/p7/P7/r4P2/4R1PP/3R1K2 w - - 0 34,? Loses.
+67,Re8+,e2e8,4R1k1/2pn1p1p/1b1p2p1/p7/P7/r4P2/6PP/3R1K2 b - - 1 34,? Loses.
+68,Kg7,g8g7,4R3/2pn1pkp/1b1p2p1/p7/P7/r4P2/6PP/3R1K2 w - - 2 35,? Loses.
+69,Re7,e8e7,8/2pnRpkp/1b1p2p1/p7/P7/r4P2/6PP/3R1K2 b - - 3 35,? Loses.
+70,Ne5,d7e5,8/2p1Rpkp/1b1p2p1/p3n3/P7/r4P2/6PP/3R1K2 w - - 4 36,? Loses.
+71,f4,f3f4,8/2p1Rpkp/1b1p2p1/p3n3/P4P2/r7/6PP/3R1K2 b - - 0 36,? Loses.
+72,Nc4,e5c4,8/2p1Rpkp/1b1p2p1/p7/P1n2P2/r7/6PP/3R1K2 w - - 1 37,? Loses.
+73,Rc1,d1c1,8/2p1Rpkp/1b1p2p1/p7/P1n2P2/r7/6PP/2R2K2 b - - 2 37,? Loses.
+74,Ne3+,c4e3,8/2p1Rpkp/1b1p2p1/p7/P4P2/r3n3/6PP/2R2K2 w - - 3 38,? Loses.
+75,Ke2,f1e2,8/2p1Rpkp/1b1p2p1/p7/P4P2/r3n3/4K1PP/2R5 b - - 4 38,? Loses.
+76,Rxa4,a3a4,8/2p1Rpkp/1b1p2p1/p7/r4P2/4n3/4K1PP/2R5 w - - 0 39,? Loses.
+77,Rxe3,e7e3,8/2p2pkp/1b1p2p1/p7/r4P2/4R3/4K1PP/2R5 b - - 0 39,? Loses.
+78,Bxe3,b6e3,8/2p2pkp/3p2p1/p7/r4P2/4b3/4K1PP/2R5 w - - 0 40,? Loses.
+79,Kxe3,e2e3,8/2p2pkp/3p2p1/p7/r4P2/4K3/6PP/2R5 b - - 0 40,? Loses.
+80,c5,c7c5,8/5pkp/3p2p1/p1p5/r4P2/4K3/6PP/2R5 w - - 0 41,? Loses.
+81,Rd1,c1d1,8/5pkp/3p2p1/p1p5/r4P2/4K3/6PP/3R4 b - - 1 41,? Loses.
+82,Rd4,a4d4,8/5pkp/3p2p1/p1p5/3r1P2/4K3/6PP/3R4 w - - 2 42,? Loses.
+83,Rb1,d1b1,8/5pkp/3p2p1/p1p5/3r1P2/4K3/6PP/1R6 b - - 3 42,? Loses.
+84,a4,a5a4,8/5pkp/3p2p1/2p5/p2r1P2/4K3/6PP/1R6 w - - 0 43,? Loses.
+85,g4,g2g4,8/5pkp/3p2p1/2p5/p2r1PP1/4K3/7P/1R6 b - - 0 43,? Loses.
+86,f5,f7f5,8/6kp/3p2p1/2p2p2/p2r1PP1/4K3/7P/1R6 w - - 0 44,? Loses.
+87,Rb7+,b1b7,8/1R4kp/3p2p1/2p2p2/p2r1PP1/4K3/7P/8 b - - 1 44,? Loses.
+88,Kh6,g7h6,8/1R5p/3p2pk/2p2p2/p2r1PP1/4K3/7P/8 w - - 2 45,? Loses.
+89,g5+,g4g5,8/1R5p/3p2pk/2p2pP1/p2r1P2/4K3/7P/8 b - - 0 45,? Loses.
+90,Kh5,h6h5,8/1R5p/3p2p1/2p2pPk/p2r1P2/4K3/7P/8 w - - 1 46,? Loses.
+91,Rxh7+,b7h7,8/7R/3p2p1/2p2pPk/p2r1P2/4K3/7P/8 b - - 0 46,? Loses.
+92,Kg4,h5g4,8/7R/3p2p1/2p2pP1/p2r1Pk1/4K3/7P/8 w - - 1 47,? Loses.
+93,h3+,h2h3,8/7R/3p2p1/2p2pP1/p2r1Pk1/4K2P/8/8 b - - 0 47,? Loses.
+94,Kg3,g4g3,8/7R/3p2p1/2p2pP1/p2r1P2/4K1kP/8/8 w - - 1 48,? Loses.
+95,Rg7,h7g7,8/6R1/3p2p1/2p2pP1/p2r1P2/4K1kP/8/8 b - - 2 48,? Loses.
+96,Rxf4,d4f4,8/6R1/3p2p1/2p2pP1/p4r2/4K1kP/8/8 w - - 0 49,? Loses.
+97,Rxg6,g7g6,8/8/3p2R1/2p2pP1/p4r2/4K1kP/8/8 b - - 0 49,? Loses.
+98,a3,a4a3,8/8/3p2R1/2p2pP1/5r2/p3K1kP/8/8 w - - 0 50,? Loses.
+99,Rxd6,g6d6,8/8/3R4/2p2pP1/5r2/p3K1kP/8/8 b - - 0 50,? Loses.
+100,Re4+,f4e4,8/8/3R4/2p2pP1/4r3/p3K1kP/8/8 w - - 1 51,? Loses.
+101,Kd2,e3d2,8/8/3R4/2p2pP1/4r3/p5kP/3K4/8 b - - 2 51,? Loses.
+102,Rd4+,e4d4,8/8/3R4/2p2pP1/3r4/p5kP/3K4/8 w - - 3 52,? Loses.
+103,Kc3,d2c3,8/8/3R4/2p2pP1/3r4/p1K3kP/8/8 b - - 4 52,? Loses.
+104,Rxd6,d4d6,8/8/3r4/2p2pP1/8/p1K3kP/8/8 w - - 0 53,"The rest was blitz, playing for the opponent to lose on time. But fortunately 2 min were enough for me to get the game into the safe mate-harbour."
+105,Kc4,c3c4,8/8/3r4/2p2pP1/2K5/p5kP/8/8 b - - 1 53,"The rest was blitz, playing for the opponent to lose on time. But fortunately 2 min were enough for me to get the game into the safe mate-harbour."

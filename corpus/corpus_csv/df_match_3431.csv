@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Pirc Defense.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Pirc Defense.
+3,Bc4,f1c4,rnbqkbnr/ppp1pppp/3p4/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Guarding the e4 pawn.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Guarding the e4 pawn.
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,Guarding the e4 pawn.
+6,c5,c7c5,rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,Taking control of d4.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/2NP4/PPP2PPP/R1BQK1NR b KQkq - 1 4,Preparing to move to e5.
+8,g6,g7g6,rnbqkb1r/pp2pp1p/3p1np1/2p5/2B1P3/2NP4/PPP2PPP/R1BQK1NR w KQkq - 0 5,Development. Also increases control of d4.
+9,Nf3,g1f3,rnbqkb1r/pp2pp1p/3p1np1/2p5/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 1 5,Development. Also increases control of d4.
+10,Bg7,f8g7,rnbqk2r/pp2ppbp/3p1np1/2p5/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 2 6,Development. Also increases control of d4.
+11,h3,h2h3,rnbqk2r/pp2ppbp/3p1np1/2p5/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R b KQkq - 0 6,Bringing the kings to safety.
+12,O-O,e8g8,rnbq1rk1/pp2ppbp/3p1np1/2p5/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQ - 1 7,Bringing the kings to safety.
+13,O-O,e1g1,rnbq1rk1/pp2ppbp/3p1np1/2p5/2B1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 b - - 2 7,Bringing the kings to safety.
+14,a6,a7a6,rnbq1rk1/1p2ppbp/p2p1np1/2p5/2B1P3/2NP1N1P/PPP2PP1/R1BQ1RK1 w - - 0 8,Gaining queenside space.
+15,a3,a2a3,rnbq1rk1/1p2ppbp/p2p1np1/2p5/2B1P3/P1NP1N1P/1PP2PP1/R1BQ1RK1 b - - 0 8,Gaining queenside space.
+16,b5,b7b5,rnbq1rk1/4ppbp/p2p1np1/1pp5/2B1P3/P1NP1N1P/1PP2PP1/R1BQ1RK1 w - - 0 9,Gaining queenside space.
+17,Ba2,c4a2,rnbq1rk1/4ppbp/p2p1np1/1pp5/4P3/P1NP1N1P/BPP2PP1/R1BQ1RK1 b - - 1 9,Preparing to advance the a-pawn.
+18,Bd7,c8d7,rn1q1rk1/3bppbp/p2p1np1/1pp5/4P3/P1NP1N1P/BPP2PP1/R1BQ1RK1 w - - 2 10,Preparing to advance the a-pawn.
+19,Nd5,c3d5,rn1q1rk1/3bppbp/p2p1np1/1ppN4/4P3/P2P1N1P/BPP2PP1/R1BQ1RK1 b - - 3 10,Following the plan.
+20,a5,a6a5,rn1q1rk1/3bppbp/3p1np1/pppN4/4P3/P2P1N1P/BPP2PP1/R1BQ1RK1 w - - 0 11,Following the plan.
+21,Nxf6+,d5f6,rn1q1rk1/3bppbp/3p1Np1/ppp5/4P3/P2P1N1P/BPP2PP1/R1BQ1RK1 b - - 0 11,"Taking a very nice post of e5 while also threatening the rook. However, this post will not last for long."
+22,Bxf6,g7f6,rn1q1rk1/3bpp1p/3p1bp1/ppp5/4P3/P2P1N1P/BPP2PP1/R1BQ1RK1 w - - 0 12,"Taking a very nice post of e5 while also threatening the rook. However, this post will not last for long."
+23,Bd5,a2d5,rn1q1rk1/3bpp1p/3p1bp1/pppB4/4P3/P2P1N1P/1PP2PP1/R1BQ1RK1 b - - 1 12,"Taking a very nice post of e5 while also threatening the rook. However, this post will not last for long."
+24,Ra6,a8a6,1n1q1rk1/3bpp1p/r2p1bp1/pppB4/4P3/P2P1N1P/1PP2PP1/R1BQ1RK1 w - - 2 13,Preventing Bh6.
+25,c3,c2c3,1n1q1rk1/3bpp1p/r2p1bp1/pppB4/4P3/P1PP1N1P/1P3PP1/R1BQ1RK1 b - - 0 13,Preventing Bh6.
+26,Bg7,f6g7,1n1q1rk1/3bppbp/r2p2p1/pppB4/4P3/P1PP1N1P/1P3PP1/R1BQ1RK1 w - - 1 14,Preventing Bh6.
+27,Nh2,f3h2,1n1q1rk1/3bppbp/r2p2p1/pppB4/4P3/P1PP3P/1P3PPN/R1BQ1RK1 b - - 2 14,Getting rid of the bishop.
+28,e6,e7e6,1n1q1rk1/3b1pbp/r2pp1p1/pppB4/4P3/P1PP3P/1P3PPN/R1BQ1RK1 w - - 0 15,Getting rid of the bishop.
+29,Ba2,d5a2,1n1q1rk1/3b1pbp/r2pp1p1/ppp5/4P3/P1PP3P/BP3PPN/R1BQ1RK1 b - - 1 15,Opening up lines on the queenside.
+30,b4,b5b4,1n1q1rk1/3b1pbp/r2pp1p1/p1p5/1p2P3/P1PP3P/BP3PPN/R1BQ1RK1 w - - 0 16,Opening up lines on the queenside.
+31,Bd2,c1d2,1n1q1rk1/3b1pbp/r2pp1p1/p1p5/1p2P3/P1PP3P/BP1B1PPN/R2Q1RK1 b - - 1 16,Increasing pressure on b4 while defending the a1 rook.
+32,Qb6,d8b6,1n3rk1/3b1pbp/rq1pp1p1/p1p5/1p2P3/P1PP3P/BP1B1PPN/R2Q1RK1 w - - 2 17,Preparing for the opening of the b-file.
+33,axb4,a3b4,1n3rk1/3b1pbp/rq1pp1p1/p1p5/1P2P3/2PP3P/BP1B1PPN/R2Q1RK1 b - - 0 17,Taking control of the a-file.
+34,axb4,a5b4,1n3rk1/3b1pbp/rq1pp1p1/2p5/1p2P3/2PP3P/BP1B1PPN/R2Q1RK1 w - - 0 18,Taking control of the a-file.
+35,Bc4,a2c4,1n3rk1/3b1pbp/rq1pp1p1/2p5/1pB1P3/2PP3P/1P1B1PPN/R2Q1RK1 b - - 1 18,Taking control of the a-file.
+36,Rxa1,a6a1,1n3rk1/3b1pbp/1q1pp1p1/2p5/1pB1P3/2PP3P/1P1B1PPN/r2Q1RK1 w - - 0 19,Taking control of the a-file.
+37,Qxa1,d1a1,1n3rk1/3b1pbp/1q1pp1p1/2p5/1pB1P3/2PP3P/1P1B1PPN/Q4RK1 b - - 0 19,Taking control of the a-file.
+38,Bc6,d7c6,1n3rk1/5pbp/1qbpp1p1/2p5/1pB1P3/2PP3P/1P1B1PPN/Q4RK1 w - - 1 20,! Pushing the bishop back to a2.
+39,Ng4,h2g4,1n3rk1/5pbp/1qbpp1p1/2p5/1pB1P1N1/2PP3P/1P1B1PP1/Q4RK1 b - - 2 20,! Pushing the bishop back to a2.
+40,d5,d6d5,1n3rk1/5pbp/1qb1p1p1/2pp4/1pB1P1N1/2PP3P/1P1B1PP1/Q4RK1 w - - 0 21,! Pushing the bishop back to a2.
+41,exd5,e4d5,1n3rk1/5pbp/1qb1p1p1/2pP4/1pB3N1/2PP3P/1P1B1PP1/Q4RK1 b - - 0 21,The only safe square.
+42,exd5,e6d5,1n3rk1/5pbp/1qb3p1/2pp4/1pB3N1/2PP3P/1P1B1PP1/Q4RK1 w - - 0 22,The only safe square.
+43,Ba2,c4a2,1n3rk1/5pbp/1qb3p1/2pp4/1p4N1/2PP3P/BP1B1PP1/Q4RK1 b - - 1 22,The only safe square.
+44,b3,b4b3,1n3rk1/5pbp/1qb3p1/2pp4/6N1/1pPP3P/BP1B1PP1/Q4RK1 w - - 0 23,!! Excellent. It puts the white bishop out of the game while trapping the queen on the a-file.
+45,Bb1,a2b1,1n3rk1/5pbp/1qb3p1/2pp4/6N1/1pPP3P/1P1B1PP1/QB3RK1 b - - 1 23,Better was Nd7 followed by Ra8.
+46,Bb5,c6b5,1n3rk1/5pbp/1q4p1/1bpp4/6N1/1pPP3P/1P1B1PP1/QB3RK1 w - - 2 24,Better was Nd7 followed by Ra8.

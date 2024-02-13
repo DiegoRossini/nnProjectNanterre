@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Agressive.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Agressive.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/3p4/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Agressive.
+4,Nd7,b8d7,r1bqkbnr/pppnpppp/3p4/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Agressive.
+5,Nc3,b1c3,r1bqkbnr/pppnpppp/3p4/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Agressive.
+6,c6,c7c6,r1bqkbnr/pp1npppp/2pp4/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,Agressive.
+7,b4,b2b4,r1bqkbnr/pp1npppp/2pp4/8/1P2P3/2N2N2/P1PP1PPP/R1BQKB1R b KQkq - 0 4,Agressive.
+8,a5,a7a5,r1bqkbnr/1p1npppp/2pp4/p7/1P2P3/2N2N2/P1PP1PPP/R1BQKB1R w KQkq - 0 5,to stablize pawn formation.
+9,b5,b4b5,r1bqkbnr/1p1npppp/2pp4/pP6/4P3/2N2N2/P1PP1PPP/R1BQKB1R b KQkq - 0 5,Passive play. Better is d4.
+10,Ngf6,g8f6,r1bqkb1r/1p1npppp/2pp1n2/pP6/4P3/2N2N2/P1PP1PPP/R1BQKB1R w KQkq - 1 6,Passive play. Better is d4.
+11,a4,a2a4,r1bqkb1r/1p1npppp/2pp1n2/pP6/P3P3/2N2N2/2PP1PPP/R1BQKB1R b KQkq - 0 6,Passive play. Better is d4.
+12,e5,e7e5,r1bqkb1r/1p1n1ppp/2pp1n2/pP2p3/P3P3/2N2N2/2PP1PPP/R1BQKB1R w KQkq - 0 7,Passive play. Better is d4.
+13,h3,h2h3,r1bqkb1r/1p1n1ppp/2pp1n2/pP2p3/P3P3/2N2N1P/2PP1PP1/R1BQKB1R b KQkq - 0 7,Passive play. Better is d4.
+14,Qc7,d8c7,r1b1kb1r/1pqn1ppp/2pp1n2/pP2p3/P3P3/2N2N1P/2PP1PP1/R1BQKB1R w KQkq - 1 8,it is not clear what white got from this exchange.
+15,d4,d2d4,r1b1kb1r/1pqn1ppp/2pp1n2/pP2p3/P2PP3/2N2N1P/2P2PP1/R1BQKB1R b KQkq - 0 8,it is not clear what white got from this exchange.
+16,Be7,f8e7,r1b1k2r/1pqnbppp/2pp1n2/pP2p3/P2PP3/2N2N1P/2P2PP1/R1BQKB1R w KQkq - 1 9,it is not clear what white got from this exchange.
+17,dxe5,d4e5,r1b1k2r/1pqnbppp/2pp1n2/pP2P3/P3P3/2N2N1P/2P2PP1/R1BQKB1R b KQkq - 0 9,it is not clear what white got from this exchange.
+18,dxe5,d6e5,r1b1k2r/1pqnbppp/2p2n2/pP2p3/P3P3/2N2N1P/2P2PP1/R1BQKB1R w KQkq - 0 10,"A mistake, better to develop."
+19,Be3,c1e3,r1b1k2r/1pqnbppp/2p2n2/pP2p3/P3P3/2N1BN1P/2P2PP1/R2QKB1R b KQkq - 1 10,"A mistake, better to develop."
+20,O-O,e8g8,r1b2rk1/1pqnbppp/2p2n2/pP2p3/P3P3/2N1BN1P/2P2PP1/R2QKB1R w KQ - 2 11,"A mistake, better to develop."
+21,Ng5,f3g5,r1b2rk1/1pqnbppp/2p2n2/pP2p1N1/P3P3/2N1B2P/2P2PP1/R2QKB1R b KQ - 3 11,"A mistake, better to develop."
+22,h6,h7h6,r1b2rk1/1pqnbpp1/2p2n1p/pP2p1N1/P3P3/2N1B2P/2P2PP1/R2QKB1R w KQ - 0 12,Now Black has the initiative.
+23,Nf3,g5f3,r1b2rk1/1pqnbpp1/2p2n1p/pP2p3/P3P3/2N1BN1P/2P2PP1/R2QKB1R b KQ - 1 12,Now Black has the initiative.
+24,Bb4,e7b4,r1b2rk1/1pqn1pp1/2p2n1p/pP2p3/Pb2P3/2N1BN1P/2P2PP1/R2QKB1R w KQ - 2 13,Now Black has the initiative.
+25,Qd2,d1d2,r1b2rk1/1pqn1pp1/2p2n1p/pP2p3/Pb2P3/2N1BN1P/2PQ1PP1/R3KB1R b KQ - 3 13,?? A terrible error.
+26,Nxe4,f6e4,r1b2rk1/1pqn1pp1/2p4p/pP2p3/Pb2n3/2N1BN1P/2PQ1PP1/R3KB1R w KQ - 0 14,Obvious but even better was cxb first!
+27,Qd3,d2d3,r1b2rk1/1pqn1pp1/2p4p/pP2p3/Pb2n3/2NQBN1P/2P2PP1/R3KB1R b KQ - 1 14,Black is ahead in material and the White king is weak.
+28,Bxc3+,b4c3,r1b2rk1/1pqn1pp1/2p4p/pP2p3/P3n3/2bQBN1P/2P2PP1/R3KB1R w KQ - 0 15,Black is ahead in material and the White king is weak.
+29,Ke2,e1e2,r1b2rk1/1pqn1pp1/2p4p/pP2p3/P3n3/2bQBN1P/2P1KPP1/R4B1R b - - 1 15,Black is ahead in material and the White king is weak.
+30,Bxa1,c3a1,r1b2rk1/1pqn1pp1/2p4p/pP2p3/P3n3/3QBN1P/2P1KPP1/b4B1R w - - 0 16,Black is ahead in material and the White king is weak.
+31,Qxe4,d3e4,r1b2rk1/1pqn1pp1/2p4p/pP2p3/P3Q3/4BN1P/2P1KPP1/b4B1R b - - 0 16,Of course.
+32,cxb5,c6b5,r1b2rk1/1pqn1pp1/7p/pp2p3/P3Q3/4BN1P/2P1KPP1/b4B1R w - - 0 17,?? Again weak
+33,axb5,a4b5,r1b2rk1/1pqn1pp1/7p/pP2p3/4Q3/4BN1P/2P1KPP1/b4B1R b - - 0 17,?? Again weak
+34,Nf6,d7f6,r1b2rk1/1pq2pp1/5n1p/pP2p3/4Q3/4BN1P/2P1KPP1/b4B1R w - - 1 18,?? Again weak
+35,Qd3,e4d3,r1b2rk1/1pq2pp1/5n1p/pP2p3/8/3QBN1P/2P1KPP1/b4B1R b - - 2 18,?? Again weak
+36,e4,e5e4,r1b2rk1/1pq2pp1/5n1p/pP6/4p3/3QBN1P/2P1KPP1/b4B1R w - - 0 19,Winse the piece.
+37,Qa3,d3a3,r1b2rk1/1pq2pp1/5n1p/pP6/4p3/Q3BN1P/2P1KPP1/b4B1R b - - 1 19,Taking the pawn was better.
+38,exf3+,e4f3,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q3Bp1P/2P1KPP1/b4B1R w - - 0 20,Taking the pawn was better.
+39,Ke1,e2e1,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q3Bp1P/2P2PP1/b3KB1R b - - 1 20,Taking the pawn was better.
+40,Bc3+,a1c3,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q1b1Bp1P/2P2PP1/4KB1R w - - 2 21,To prepare for the attack.
+41,Kd1,e1d1,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q1b1Bp1P/2P2PP1/3K1B1R b - - 3 21,To prepare for the attack.
+42,fxg2,f3g2,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q1b1B2P/2P2Pp1/3K1B1R w - - 0 22,To prepare for the attack.
+43,Bxg2,f1g2,r1b2rk1/1pq2pp1/5n1p/pP6/8/Q1b1B2P/2P2PB1/3K3R b - - 0 22,To prepare for the attack.
+44,Bb4,c3b4,r1b2rk1/1pq2pp1/5n1p/pP6/1b6/Q3B2P/2P2PB1/3K3R w - - 1 23,To prepare for the attack.
+45,Qb2,a3b2,r1b2rk1/1pq2pp1/5n1p/pP6/1b6/4B2P/1QP2PB1/3K3R b - - 2 23,Now Black has a winning attack
+46,Bf5,c8f5,r4rk1/1pq2pp1/5n1p/pP3b2/1b6/4B2P/1QP2PB1/3K3R w - - 3 24,Now Black has a winning attack
+47,Rg1,h1g1,r4rk1/1pq2pp1/5n1p/pP3b2/1b6/4B2P/1QP2PB1/3K2R1 b - - 4 24,Now Black has a winning attack
+48,Rad8+,a8d8,3r1rk1/1pq2pp1/5n1p/pP3b2/1b6/4B2P/1QP2PB1/3K2R1 w - - 5 25,Now Black has a winning attack
+49,Kc1,d1c1,3r1rk1/1pq2pp1/5n1p/pP3b2/1b6/4B2P/1QP2PB1/2K3R1 b - - 6 25,"If Ke2, Qc4+ Kf3 Qe4+ Kg3 B-d6+ Bf4 QXB++. But this allows a pretty and instruction combination."
+50,Ba3,b4a3,3r1rk1/1pq2pp1/5n1p/pP3b2/8/b3B2P/1QP2PB1/2K3R1 w - - 7 26,!! If QxB Qc2++.
+51,b6,b5b6,3r1rk1/1pq2pp1/1P3n1p/p4b2/8/b3B2P/1QP2PB1/2K3R1 b - - 0 26,"Desperation, there are no good moves, but..."
+52,Qxc2#,c7c2,3r1rk1/1p3pp1/1P3n1p/p4b2/8/b3B2P/1Qq2PB1/2K3R1 w - - 0 27,This is Checkmate because the Q is pinned.

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"In a unrated game you can give your opponent a chance at winning with out effecting your rating or theirs, Game was accepted and white opened with the d4 opening. I opened as black with b5, with the plan to fianchetto my bishop on my Queen side."
+2,b5,b7b5,rnbqkbnr/p1pppppp/8/1p6/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Sticking to my plan
+3,e4,e2e4,rnbqkbnr/p1pppppp/8/1p6/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,d4 then e4 as expected
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/8/1p6/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,My bishop in position
+5,e5,e4e5,rn1qkbnr/pbpppppp/8/1p2P3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"advance pawn, This move opens the e4 square and now my bishop has a  better position"
+6,e6,e7e6,rn1qkbnr/pbpp1ppp/4p3/1p2P3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"e6 is played and opens up my Queen and my other Bishop. I leave my pawn on b5 hanging, setting a trap to be taken by whites lsb. If taken the Bbxg2 attacking rook. This is important to note that when you take with your B on the home row you leave your Rook's adjacent pawn in-protected."
+7,Bxb5,f1b5,rn1qkbnr/pbpp1ppp/4p3/1B2P3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 0 4,BxP takes the bait  Blunder best move nf3 to develop and protect p on d4.
+8,Bxg2,b7g2,rn1qkbnr/p1pp1ppp/4p3/1B2P3/3P4/8/PPP2PbP/RNBQK1NR w KQkq - 0 5,Bxp attacking  the Rook
+9,a3,a2a3,rn1qkbnr/p1pp1ppp/4p3/1B2P3/3P4/P7/1PP2PbP/RNBQK1NR b KQkq - 0 5,a3 is played
+10,Bxh1,g2h1,rn1qkbnr/p1pp1ppp/4p3/1B2P3/3P4/P7/1PP2P1P/RNBQK1Nb w Qkq - 0 6,BxR
+11,Be3,c1e3,rn1qkbnr/p1pp1ppp/4p3/1B2P3/3P4/P3B3/1PP2P1P/RN1QK1Nb b Qkq - 1 6,white develops a B
+12,Nc6,b8c6,r2qkbnr/p1pp1ppp/2n1p3/1B2P3/3P4/P3B3/1PP2P1P/RN1QK1Nb w Qkq - 2 7,I develop my Q side N.
+13,Nc3,b1c3,r2qkbnr/p1pp1ppp/2n1p3/1B2P3/3P4/P1N1B3/1PP2P1P/R2QK1Nb b Qkq - 3 7,white develops N
+14,Rb8,a8b8,1r1qkbnr/p1pp1ppp/2n1p3/1B2P3/3P4/P1N1B3/1PP2P1P/R2QK1Nb w Qk - 4 8,I relocate my R to the b-file.
+15,Bxc6,b5c6,1r1qkbnr/p1pp1ppp/2B1p3/4P3/3P4/P1N1B3/1PP2P1P/R2QK1Nb b Qk - 0 8,BxN
+16,Bxc6,h1c6,1r1qkbnr/p1pp1ppp/2b1p3/4P3/3P4/P1N1B3/1PP2P1P/R2QK1N1 w Qk - 0 9,BxB
+17,Qd2,d1d2,1r1qkbnr/p1pp1ppp/2b1p3/4P3/3P4/P1N1B3/1PPQ1P1P/R3K1N1 b Qk - 1 9,"Q is developed this move is a mistake, b3 is a better move to protect the b pawn"
+18,Rxb2,b8b2,3qkbnr/p1pp1ppp/2b1p3/4P3/3P4/P1N1B3/1rPQ1P1P/R3K1N1 w Qk - 0 10,RxP is taken because of the mistake of developing Q instead of b3
+19,Bg5,e3g5,3qkbnr/p1pp1ppp/2b1p3/4P1B1/3P4/P1N5/1rPQ1P1P/R3K1N1 b Qk - 1 10,B is relocated and to attack blacks Q.
+20,Ne7,g8e7,3qkb1r/p1ppnppp/2b1p3/4P1B1/3P4/P1N5/1rPQ1P1P/R3K1N1 w Qk - 2 11,N is moved to block the attack.

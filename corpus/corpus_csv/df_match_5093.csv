@@ -1,0 +1,117 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Symmetry fun.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,Symmetry fun.
+3,c4,c2c4,r1bqkbnr/pppppppp/2n5/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,Symmetry fun.
+4,e5,e7e5,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Symmetry fun.
+5,d3,d2d3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/3P1N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,Symmetry fun.
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/2P5/3P1N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Symmetry fun.
+7,g3,g2g3,r1bqkbnr/ppp2ppp/2np4/4p3/2P5/3P1NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4,Symmetry fun.
+8,g6,g7g6,r1bqkbnr/ppp2p1p/2np2p1/4p3/2P5/3P1NP1/PP2PP1P/RNBQKB1R w KQkq - 0 5,Symmetry fun.
+9,Bg2,f1g2,r1bqkbnr/ppp2p1p/2np2p1/4p3/2P5/3P1NP1/PP2PPBP/RNBQK2R b KQkq - 1 5,Symmetry fun.
+10,Bg7,f8g7,r1bqk1nr/ppp2pbp/2np2p1/4p3/2P5/3P1NP1/PP2PPBP/RNBQK2R w KQkq - 2 6,Symmetry fun.
+11,Nc3,b1c3,r1bqk1nr/ppp2pbp/2np2p1/4p3/2P5/2NP1NP1/PP2PPBP/R1BQK2R b KQkq - 3 6,Symmetry fun.
+12,Nf6,g8f6,r1bqk2r/ppp2pbp/2np1np1/4p3/2P5/2NP1NP1/PP2PPBP/R1BQK2R w KQkq - 4 7,Symmetry fun.
+13,Bg5,c1g5,r1bqk2r/ppp2pbp/2np1np1/4p1B1/2P5/2NP1NP1/PP2PPBP/R2QK2R b KQkq - 5 7,Symmetry fun.
+14,O-O,e8g8,r1bq1rk1/ppp2pbp/2np1np1/4p1B1/2P5/2NP1NP1/PP2PPBP/R2QK2R w KQ - 6 8,Symmetry fun.
+15,O-O,e1g1,r1bq1rk1/ppp2pbp/2np1np1/4p1B1/2P5/2NP1NP1/PP2PPBP/R2Q1RK1 b - - 7 8,Symmetry fun.
+16,Bg4,c8g4,r2q1rk1/ppp2pbp/2np1np1/4p1B1/2P3b1/2NP1NP1/PP2PPBP/R2Q1RK1 w - - 8 9,Symmetry fun.
+17,Nd5,c3d5,r2q1rk1/ppp2pbp/2np1np1/3Np1B1/2P3b1/3P1NP1/PP2PPBP/R2Q1RK1 b - - 9 9,Symmetry fun.
+18,Nd4,c6d4,r2q1rk1/ppp2pbp/3p1np1/3Np1B1/2Pn2b1/3P1NP1/PP2PPBP/R2Q1RK1 w - - 10 10,Symmetry fun.
+19,Nxd4,f3d4,r2q1rk1/ppp2pbp/3p1np1/3Np1B1/2PN2b1/3P2P1/PP2PPBP/R2Q1RK1 b - - 0 10,"Symmetry was fun, but I'll keep my Queen thank you.  And I musn't forget my Knight is skewered to my Queen."
+20,exd4,e5d4,r2q1rk1/ppp2pbp/3p1np1/3N2B1/2Pp2b1/3P2P1/PP2PPBP/R2Q1RK1 w - - 0 11,"Symmetry was fun, but I'll keep my Queen thank you.  And I musn't forget my Knight is skewered to my Queen."
+21,Qd2,d1d2,r2q1rk1/ppp2pbp/3p1np1/3N2B1/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 b - - 1 11,"White is increasing pressure on f6 (my skewered Knight) so I must anticipate Qf4, which would tip the exchange in Whites' favor. So..."
+22,c6,c7c6,r2q1rk1/pp3pbp/2pp1np1/3N2B1/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 w - - 0 12,c6 should force an even exchange.
+23,Nxf6+,d5f6,r2q1rk1/pp3pbp/2pp1Np1/6B1/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 b - - 0 12,Like so...
+24,Bxf6,g7f6,r2q1rk1/pp3p1p/2pp1bp1/6B1/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 w - - 0 13,Like so...
+25,Bxf6,g5f6,r2q1rk1/pp3p1p/2pp1Bp1/8/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 b - - 0 13,Like so...
+26,Qxf6,d8f6,r4rk1/pp3p1p/2pp1qp1/8/2Pp2b1/3P2P1/PP1QPPBP/R4RK1 w - - 0 14,Like so...
+27,Qb4,d2b4,r4rk1/pp3p1p/2pp1qp1/8/1QPp2b1/3P2P1/PP2PPBP/R4RK1 b - - 1 14,White Queen attacks vulnerable b7.
+28,Bxe2,g4e2,r4rk1/pp3p1p/2pp1qp1/8/1QPp4/3P2P1/PP2bPBP/R4RK1 w - - 0 15,"A free pawn, and attack the Rook?  Yes, thank you, don't mind if I do."
+29,Rfc1,f1c1,r4rk1/pp3p1p/2pp1qp1/8/1QPp4/3P2P1/PP2bPBP/R1R3K1 b - - 1 15,"I didn't expect the exchange, but I like the undoubled pawns."
+30,Rab8,a8b8,1r3rk1/pp3p1p/2pp1qp1/8/1QPp4/3P2P1/PP2bPBP/R1R3K1 w - - 2 16,"I didn't expect the exchange, but I like the undoubled pawns."
+31,Qd2,b4d2,1r3rk1/pp3p1p/2pp1qp1/8/2Pp4/3P2P1/PP1QbPBP/R1R3K1 b - - 3 16,"I didn't expect the exchange, but I like the undoubled pawns."
+32,Bf3,e2f3,1r3rk1/pp3p1p/2pp1qp1/8/2Pp4/3P1bP1/PP1Q1PBP/R1R3K1 w - - 4 17,"I didn't expect the exchange, but I like the undoubled pawns."
+33,Bxf3,g2f3,1r3rk1/pp3p1p/2pp1qp1/8/2Pp4/3P1BP1/PP1Q1P1P/R1R3K1 b - - 0 17,"I didn't expect the exchange, but I like the undoubled pawns."
+34,Qxf3,f6f3,1r3rk1/pp3p1p/2pp2p1/8/2Pp4/3P1qP1/PP1Q1P1P/R1R3K1 w - - 0 18,"I didn't expect the exchange, but I like the undoubled pawns."
+35,Rce1,c1e1,1r3rk1/pp3p1p/2pp2p1/8/2Pp4/3P1qP1/PP1Q1P1P/R3R1K1 b - - 1 18,"I didn't expect the exchange, but I like the undoubled pawns."
+36,Rfe8,f8e8,1r2r1k1/pp3p1p/2pp2p1/8/2Pp4/3P1qP1/PP1Q1P1P/R3R1K1 w - - 2 19,"I didn't expect the exchange, but I like the undoubled pawns."
+37,b3,b2b3,1r2r1k1/pp3p1p/2pp2p1/8/2Pp4/1P1P1qP1/P2Q1P1P/R3R1K1 b - - 0 19,"I didn't expect the exchange, but I like the undoubled pawns."
+38,Re5,e8e5,1r4k1/pp3p1p/2pp2p1/4r3/2Pp4/1P1P1qP1/P2Q1P1P/R3R1K1 w - - 1 20,"I didn't expect the exchange, but I like the undoubled pawns."
+39,Rxe5,e1e5,1r4k1/pp3p1p/2pp2p1/4R3/2Pp4/1P1P1qP1/P2Q1P1P/R5K1 b - - 0 20,"I didn't expect the exchange, but I like the undoubled pawns."
+40,dxe5,d6e5,1r4k1/pp3p1p/2p3p1/4p3/2Pp4/1P1P1qP1/P2Q1P1P/R5K1 w - - 0 21,"I didn't expect the exchange, but I like the undoubled pawns."
+41,Re1,a1e1,1r4k1/pp3p1p/2p3p1/4p3/2Pp4/1P1P1qP1/P2Q1P1P/4R1K1 b - - 1 21,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+42,f6,f7f6,1r4k1/pp5p/2p2pp1/4p3/2Pp4/1P1P1qP1/P2Q1P1P/4R1K1 w - - 0 22,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+43,a3,a2a3,1r4k1/pp5p/2p2pp1/4p3/2Pp4/PP1P1qP1/3Q1P1P/4R1K1 b - - 0 22,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+44,Re8,b8e8,4r1k1/pp5p/2p2pp1/4p3/2Pp4/PP1P1qP1/3Q1P1P/4R1K1 w - - 1 23,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+45,b4,b3b4,4r1k1/pp5p/2p2pp1/4p3/1PPp4/P2P1qP1/3Q1P1P/4R1K1 b - - 0 23,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+46,f5,f6f5,4r1k1/pp5p/2p3p1/4pp2/1PPp4/P2P1qP1/3Q1P1P/4R1K1 w - - 0 24,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+47,c5,c4c5,4r1k1/pp5p/2p3p1/2P1pp2/1P1p4/P2P1qP1/3Q1P1P/4R1K1 b - - 0 24,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+48,e4,e5e4,4r1k1/pp5p/2p3p1/2P2p2/1P1pp3/P2P1qP1/3Q1P1P/4R1K1 w - - 0 25,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+49,dxe4,d3e4,4r1k1/pp5p/2p3p1/2P2p2/1P1pP3/P4qP1/3Q1P1P/4R1K1 b - - 0 25,"Interesting.  I could outflank with Qxa3.  But I would I like the pawn exchange?  NO!  White gains points and Center!
+
+Do I Rxe4?  Maybe.  The Rook would protect vulnerable d4, and White would have few options, the most aggressive being Rxe4 which would leave my Queen parked in a good spot...
+
+And last but not least, I cannot ignore the e4 Pawn.  exf5 exposes my Rook to his."
+50,Rxe4,e8e4,6k1/pp5p/2p3p1/2P2p2/1P1pr3/P4qP1/3Q1P1P/4R1K1 w - - 0 26,"I could play a5 and stop the advance, leaving a4 vulnerable to Qa3...
+But without my Queen to support, a Rook exchange would leave my opponent up 1, instead of down 1! 
+
+Perhaps I should initiate a Rook exchange.  We could trade Queens too, and start the pawn race... 
+
+Qc3 looks promising - She attacks the Rook, Queen and Pawn in one fell swoop.   
+
+But I think I like d3 best.  Pressing matters..."
+51,a4,a3a4,6k1/pp5p/2p3p1/2P2p2/PP1pr3/5qP1/3Q1P1P/4R1K1 b - - 0 26,"I could play a5 and stop the advance, leaving a4 vulnerable to Qa3...
+But without my Queen to support, a Rook exchange would leave my opponent up 1, instead of down 1! 
+
+Perhaps I should initiate a Rook exchange.  We could trade Queens too, and start the pawn race... 
+
+Qc3 looks promising - She attacks the Rook, Queen and Pawn in one fell swoop.   
+
+But I think I like d3 best.  Pressing matters..."
+52,d3,d4d3,6k1/pp5p/2p3p1/2P2p2/PP2r3/3p1qP1/3Q1P1P/4R1K1 w - - 0 27,I think I like f4
+53,Qc3,d2c3,6k1/pp5p/2p3p1/2P2p2/PP2r3/2Qp1qP1/5P1P/4R1K1 b - - 1 27,I think I like f4
+54,f4,f5f4,6k1/pp5p/2p3p1/2P5/PP2rp2/2Qp1qP1/5P1P/4R1K1 w - - 0 28,"I think Black will regret this trade, for without that Rook...."
+55,Rxe4,e1e4,6k1/pp5p/2p3p1/2P5/PP2Rp2/2Qp1qP1/5P1P/6K1 b - - 0 28,"I think Black will regret this trade, for without that Rook...."
+56,Qxe4,f3e4,6k1/pp5p/2p3p1/2P5/PP2qp2/2Qp2P1/5P1P/6K1 w - - 0 29,How can he stop my d3 pawn?
+57,Qd2,c3d2,6k1/pp5p/2p3p1/2P5/PP2qp2/3p2P1/3Q1P1P/6K1 b - - 1 29,"Maybe slow it down,"
+58,Qe2,e4e2,6k1/pp5p/2p3p1/2P5/PP3p2/3p2P1/3QqP1P/6K1 w - - 2 30,but not stop it...
+59,Qxf4,d2f4,6k1/pp5p/2p3p1/2P5/PP3Q2/3p2P1/4qP1P/6K1 b - - 0 30,but not stop it...
+60,d2,d3d2,6k1/pp5p/2p3p1/2P5/PP3Q2/6P1/3pqP1P/6K1 w - - 0 31,but not stop it...
+61,Qb8+,f4b8,1Q4k1/pp5p/2p3p1/2P5/PP6/6P1/3pqP1P/6K1 b - - 1 31,The end draws near.
+62,Kg7,g8g7,1Q6/pp4kp/2p3p1/2P5/PP6/6P1/3pqP1P/6K1 w - - 2 32,The end draws near.
+63,Qxb7+,b8b7,8/pQ4kp/2p3p1/2P5/PP6/6P1/3pqP1P/6K1 b - - 0 32,The end draws near.
+64,Kh6,g7h6,8/pQ5p/2p3pk/2P5/PP6/6P1/3pqP1P/6K1 w - - 1 33,The end draws near.
+65,Qxc6,b7c6,8/p6p/2Q3pk/2P5/PP6/6P1/3pqP1P/6K1 b - - 0 33,And Whit resigns!
+66,d1=Q+,d2d1q,8/p6p/2Q3pk/2P5/PP6/6P1/4qP1P/3q2K1 w - - 0 34,And Whit resigns!

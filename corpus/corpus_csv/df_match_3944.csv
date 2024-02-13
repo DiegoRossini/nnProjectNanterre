@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,my favorite
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,the slav defense
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,the slav defense
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,the slav defense
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,standard move
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,standard move
+7,Nf3,g1f3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,standard move
+8,e6,e7e6,rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,standard move
+9,Bg5,c1g5,rnbqkb1r/pp3ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5,standard move
+10,Be7,f8e7,rnbqk2r/pp2bppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 6,i think this is a variation of the slav
+11,e3,e2e3,rnbqk2r/pp2bppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 6,i think this is a variation of the slav
+12,O-O,e8g8,rnbq1rk1/pp2bppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 7,i think this is a variation of the slav
+13,Rc1,a1c1,rnbq1rk1/pp2bppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R b K - 2 7,i think this is a variation of the slav
+14,Nbd7,b8d7,r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 3 8,i think this is a variation of the slav
+15,Bd3,f1d3,r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R b K - 4 8,i think this is a variation of the slav
+16,a6,a7a6,r1bq1rk1/1p1nbppp/p1p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R w K - 0 9,i think this is a variation of the slav
+17,c5,c4c5,r1bq1rk1/1p1nbppp/p1p1pn2/2Pp2B1/3P4/2NBPN2/PP3PPP/2RQK2R b K - 0 9,!? i did this so he wont go b5 and attack my c4 pawn twice. but at the same time he can get ready to try to advance to e5
+18,Re8,f8e8,r1bqr1k1/1p1nbppp/p1p1pn2/2Pp2B1/3P4/2NBPN2/PP3PPP/2RQK2R w K - 1 10,"now, if bxf6 then bxf6 and i cant take on h7 with my bishop cause of his f8 knight"
+19,Qc2,d1c2,r1bqr1k1/1p1nbppp/p1p1pn2/2Pp2B1/3P4/2NBPN2/PPQ2PPP/2R1K2R b K - 2 10,"now, if bxf6 then bxf6 and i cant take on h7 with my bishop cause of his f8 knight"
+20,Nf8,d7f8,r1bqrnk1/1p2bppp/p1p1pn2/2Pp2B1/3P4/2NBPN2/PPQ2PPP/2R1K2R w K - 3 11,"now, if bxf6 then bxf6 and i cant take on h7 with my bishop cause of his f8 knight"
+21,Ne5,f3e5,r1bqrnk1/1p2bppp/p1p1pn2/2PpN1B1/3P4/2NBP3/PPQ2PPP/2R1K2R b K - 4 11,!? this shows i want to attack his king! if i went bxe7 then qxe7 followed by f6 then the knight moves go e5
+22,Nh5,f6h5,r1bqrnk1/1p2bppp/p1p1p3/2PpN1Bn/3P4/2NBP3/PPQ2PPP/2R1K2R w K - 5 12,!? this shows i want to attack his king! if i went bxe7 then qxe7 followed by f6 then the knight moves go e5
+23,Qe2,c2e2,r1bqrnk1/1p2bppp/p1p1p3/2PpN1Bn/3P4/2NBP3/PP2QPPP/2R1K2R b K - 6 12,!? this shows i want to attack his king! if i went bxe7 then qxe7 followed by f6 then the knight moves go e5
+24,Bxg5,e7g5,r1bqrnk1/1p3ppp/p1p1p3/2PpN1bn/3P4/2NBP3/PP2QPPP/2R1K2R w K - 0 13,attacking f7
+25,Qxh5,e2h5,r1bqrnk1/1p3ppp/p1p1p3/2PpN1bQ/3P4/2NBP3/PP3PPP/2R1K2R b K - 0 13,attacking f7
+26,f6,f7f6,r1bqrnk1/1p4pp/p1p1pp2/2PpN1bQ/3P4/2NBP3/PP3PPP/2R1K2R w K - 0 14,!? a dubious idea!!?? I'm going to take his DSB and double his pawns
+27,Nf7,e5f7,r1bqrnk1/1p3Npp/p1p1pp2/2Pp2bQ/3P4/2NBP3/PP3PPP/2R1K2R b K - 1 14,!? a dubious idea!!?? I'm going to take his DSB and double his pawns
+28,Qe7,d8e7,r1b1rnk1/1p2qNpp/p1p1pp2/2Pp2bQ/3P4/2NBP3/PP3PPP/2R1K2R w K - 2 15,! if qxg4 then e5 attacking my queen (the LSB is) then i move my queen he can get play in the center
+29,Nxg5,f7g5,r1b1rnk1/1p2q1pp/p1p1pp2/2Pp2NQ/3P4/2NBP3/PP3PPP/2R1K2R b K - 0 15,! if qxg4 then e5 attacking my queen (the LSB is) then i move my queen he can get play in the center
+30,fxg5,f6g5,r1b1rnk1/1p2q1pp/p1p1p3/2Pp2pQ/3P4/2NBP3/PP3PPP/2R1K2R w K - 0 16,! if qxg4 then e5 attacking my queen (the LSB is) then i move my queen he can get play in the center
+31,h4,h2h4,r1b1rnk1/1p2q1pp/p1p1p3/2Pp2pQ/3P3P/2NBP3/PP3PP1/2R1K2R b K - 0 16,! if qxg4 then e5 attacking my queen (the LSB is) then i move my queen he can get play in the center
+32,g4,g5g4,r1b1rnk1/1p2q1pp/p1p1p3/2Pp3Q/3P2pP/2NBP3/PP3PP1/2R1K2R w K - 0 17,! if qxg4 then e5 attacking my queen (the LSB is) then i move my queen he can get play in the center
+33,f4,f2f4,r1b1rnk1/1p2q1pp/p1p1p3/2Pp3Q/3P1PpP/2NBP3/PP4P1/2R1K2R b K f3 0 17,!!this is a excellent move it prevents the threat of e5
+34,Bd7,c8d7,r3rnk1/1p1bq1pp/p1p1p3/2Pp3Q/3P1PpP/2NBP3/PP4P1/2R1K2R w K - 1 18,"! planning to go nb6 rook moves, nxd7 qxd7 qxg4 with a pawn up"
+35,Na4,c3a4,r3rnk1/1p1bq1pp/p1p1p3/2Pp3Q/N2P1PpP/3BP3/PP4P1/2R1K2R b K - 2 18,"! planning to go nb6 rook moves, nxd7 qxd7 qxg4 with a pawn up"
+36,Rad8,a8d8,3rrnk1/1p1bq1pp/p1p1p3/2Pp3Q/N2P1PpP/3BP3/PP4P1/2R1K2R w K - 3 19,im up a pawn
+37,Nb6,a4b6,3rrnk1/1p1bq1pp/pNp1p3/2Pp3Q/3P1PpP/3BP3/PP4P1/2R1K2R b K - 4 19,im up a pawn
+38,h6,h7h6,3rrnk1/1p1bq1p1/pNp1p2p/2Pp3Q/3P1PpP/3BP3/PP4P1/2R1K2R w K - 0 20,im up a pawn
+39,Nxd7,b6d7,3rrnk1/1p1Nq1p1/p1p1p2p/2Pp3Q/3P1PpP/3BP3/PP4P1/2R1K2R b K - 0 20,im up a pawn
+40,Rxd7,d8d7,4rnk1/1p1rq1p1/p1p1p2p/2Pp3Q/3P1PpP/3BP3/PP4P1/2R1K2R w K - 0 21,im up a pawn
+41,Qxg4,h5g4,4rnk1/1p1rq1p1/p1p1p2p/2Pp4/3P1PQP/3BP3/PP4P1/2R1K2R b K - 0 21,im up a pawn
+42,Nh7,f8h7,4r1k1/1p1rq1pn/p1p1p2p/2Pp4/3P1PQP/3BP3/PP4P1/2R1K2R w K - 1 22,my LSB is better then his knight why? it controls more space
+43,Qe2,g4e2,4r1k1/1p1rq1pn/p1p1p2p/2Pp4/3P1P1P/3BP3/PP2Q1P1/2R1K2R b K - 2 22,! this move is to close the queen side down
+44,Nf6,h7f6,4r1k1/1p1rq1p1/p1p1pn1p/2Pp4/3P1P1P/3BP3/PP2Q1P1/2R1K2R w K - 3 23,! this move is to close the queen side down
+45,a4,a2a4,4r1k1/1p1rq1p1/p1p1pn1p/2Pp4/P2P1P1P/3BP3/1P2Q1P1/2R1K2R b K - 0 23,! this move is to close the queen side down
+46,Qf7,e7f7,4r1k1/1p1r1qp1/p1p1pn1p/2Pp4/P2P1P1P/3BP3/1P2Q1P1/2R1K2R w K - 1 24,planning qh5 and an exchange of queens
+47,g4,g2g4,4r1k1/1p1r1qp1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P2Q3/2R1K2R b K - 0 24,! this stopped that
+48,Rc7,d7c7,4r1k1/1pr2qp1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P2Q3/2R1K2R w K - 1 25,! get my king out of the way so i can work  on the king side
+49,Kd1,e1d1,4r1k1/1pr2qp1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P2Q3/2RK3R b - - 2 25,! get my king out of the way so i can work  on the king side
+50,Qd7,f7d7,4r1k1/1prq2p1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P2Q3/2RK3R w - - 3 26,no where to go
+51,Qg2,e2g2,4r1k1/1prq2p1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P4Q1/2RK3R b - - 4 26,no where to go
+52,Qf7,d7f7,4r1k1/1pr2qp1/p1p1pn1p/2Pp4/P2P1PPP/3BP3/1P4Q1/2RK3R w - - 5 27,no where to go
+53,h5,h4h5,4r1k1/1pr2qp1/p1p1pn1p/2Pp3P/P2P1PP1/3BP3/1P4Q1/2RK3R b - - 0 27,"! a excellent move! i want to go g5 but, if g5 first he go h5!"

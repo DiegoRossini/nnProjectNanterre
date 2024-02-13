@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I'm not femiliar with that opening. at first look it seems to be not so good for black (3. exd5 Qxd5 4. Nc3 and the black queen is chased over the board).
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I'm not femiliar with that opening. at first look it seems to be not so good for black (3. exd5 Qxd5 4. Nc3 and the black queen is chased over the board).
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,I'm not femiliar with that opening. at first look it seems to be not so good for black (3. exd5 Qxd5 4. Nc3 and the black queen is chased over the board).
+4,d5,d7d5,rnbqkbnr/ppp1pp1p/6p1/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,I'm not femiliar with that opening. at first look it seems to be not so good for black (3. exd5 Qxd5 4. Nc3 and the black queen is chased over the board).
+5,exd5,e4d5,rnbqkbnr/ppp1pp1p/6p1/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,... or going back home.
+6,Qxd5,d8d5,rnb1kbnr/ppp1pp1p/6p1/3q4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,... or going back home.
+7,Nc3,b1c3,rnb1kbnr/ppp1pp1p/6p1/3q4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4,... or going back home.
+8,Qd8,d5d8,rnbqkbnr/ppp1pp1p/6p1/8/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 5,... or going back home.
+9,Nf3,g1f3,rnbqkbnr/ppp1pp1p/6p1/8/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 5,White has a great advantage in development and in the center.
+10,Bg7,f8g7,rnbqk1nr/ppp1ppbp/6p1/8/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 4 6,White has a great advantage in development and in the center.
+11,Bc4,f1c4,rnbqk1nr/ppp1ppbp/6p1/8/2BP4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 5 6,White has a great advantage in development and in the center.
+12,Nf6,g8f6,rnbqk2r/ppp1ppbp/5np1/8/2BP4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 6 7,7. 0-0 is better. put the king out of the fire line in the center.
+13,Bf4,c1f4,rnbqk2r/ppp1ppbp/5np1/8/2BP1B2/2N2N2/PPP2PPP/R2QK2R b KQkq - 7 7,7. 0-0 is better. put the king out of the fire line in the center.
+14,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/8/2BP1B2/2N2N2/PPP2PPP/R2QK2R w KQ - 8 8,waste of moves. white gives black the chance to get organized and attack in center.
+15,Nb5,c3b5,rnbq1rk1/ppp1ppbp/5np1/1N6/2BP1B2/5N2/PPP2PPP/R2QK2R b KQ - 9 8,waste of moves. white gives black the chance to get organized and attack in center.
+16,Na6,b8a6,r1bq1rk1/ppp1ppbp/n4np1/1N6/2BP1B2/5N2/PPP2PPP/R2QK2R w KQ - 10 9,waste of moves. white gives black the chance to get organized and attack in center.
+17,Nc3,b5c3,r1bq1rk1/ppp1ppbp/n4np1/8/2BP1B2/2N2N2/PPP2PPP/R2QK2R b KQ - 11 9,waste of moves. white gives black the chance to get organized and attack in center.
+18,b6,b7b6,r1bq1rk1/p1p1ppbp/np3np1/8/2BP1B2/2N2N2/PPP2PPP/R2QK2R w KQ - 0 10,??? why??? after 10... Bxa6 there will be no casteling in the king side.
+19,Bxa6,c4a6,r1bq1rk1/p1p1ppbp/Bp3np1/8/3P1B2/2N2N2/PPP2PPP/R2QK2R b KQ - 0 10,??? why??? after 10... Bxa6 there will be no casteling in the king side.
+20,Bxa6,c8a6,r2q1rk1/p1p1ppbp/bp3np1/8/3P1B2/2N2N2/PPP2PPP/R2QK2R w KQ - 0 11,the white king is in the center. black attacks with all his has got.
+21,a4,a2a4,r2q1rk1/p1p1ppbp/bp3np1/8/P2P1B2/2N2N2/1PP2PPP/R2QK2R b KQ - 0 11,the white king is in the center. black attacks with all his has got.
+22,Nd5,f6d5,r2q1rk1/p1p1ppbp/bp4p1/3n4/P2P1B2/2N2N2/1PP2PPP/R2QK2R w KQ - 1 12,the white king is in the center. black attacks with all his has got.
+23,Nxd5,c3d5,r2q1rk1/p1p1ppbp/bp4p1/3N4/P2P1B2/5N2/1PP2PPP/R2QK2R b KQ - 0 12,a poisened pawn. now black gets also the c file.
+24,Qxd5,d8d5,r4rk1/p1p1ppbp/bp4p1/3q4/P2P1B2/5N2/1PP2PPP/R2QK2R w KQ - 0 13,a poisened pawn. now black gets also the c file.
+25,Bxc7,f4c7,r4rk1/p1B1ppbp/bp4p1/3q4/P2P4/5N2/1PP2PPP/R2QK2R b KQ - 0 13,a poisened pawn. now black gets also the c file.
+26,Rac8,a8c8,2r2rk1/p1B1ppbp/bp4p1/3q4/P2P4/5N2/1PP2PPP/R2QK2R w KQ - 1 14,the rope around white's king is getting tight and tight in every move.
+27,Be5,c7e5,2r2rk1/p3ppbp/bp4p1/3qB3/P2P4/5N2/1PP2PPP/R2QK2R b KQ - 2 14,there is no escape now...
+28,Qe4+,d5e4,2r2rk1/p3ppbp/bp4p1/4B3/P2Pq3/5N2/1PP2PPP/R2QK2R w KQ - 3 15,there is no escape now...
+29,Kd2,e1d2,2r2rk1/p3ppbp/bp4p1/4B3/P2Pq3/5N2/1PPK1PPP/R2Q3R b - - 4 15,the poor end (for white).
+30,Bh6+,g7h6,2r2rk1/p3pp1p/bp4pb/4B3/P2Pq3/5N2/1PPK1PPP/R2Q3R w - - 5 16,the poor end (for white).

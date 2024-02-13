@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings pawn game
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Kings pawn game
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Developing and defending
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Developing and defending
+5,dxe5,d4e5,r1bqkbnr/pppp1ppp/2n5/4P3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Developing and defending
+6,Nxe5,c6e5,r1bqkbnr/pppp1ppp/8/4n3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Developing and defending
+7,Nf3,g1f3,r1bqkbnr/pppp1ppp/8/4n3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4,Developing and defending
+8,Bd6,f8d6,r1bqk1nr/pppp1ppp/3b4/4n3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5,Developing and defending
+9,Nxe5,f3e5,r1bqk1nr/pppp1ppp/3b4/4N3/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 0 5,"Not sure why but I was having a bit of a ""Keen to trade"" day."
+10,Bxe5,d6e5,r1bqk1nr/pppp1ppp/8/4b3/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6,"Not sure why but I was having a bit of a ""Keen to trade"" day."
+11,Nc3,b1c3,r1bqk1nr/pppp1ppp/8/4b3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6,Not sure what that was for. Like pinning f2 or something?
+12,Qh4,d8h4,r1b1k1nr/pppp1ppp/8/4b3/4P2q/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 7,Not sure what that was for. Like pinning f2 or something?
+13,Bd3,f1d3,r1b1k1nr/pppp1ppp/8/4b3/4P2q/2NB4/PPP2PPP/R1BQK2R b KQkq - 3 7,Managed to win his bishop
+14,Bxh2,e5h2,r1b1k1nr/pppp1ppp/8/8/4P2q/2NB4/PPP2PPb/R1BQK2R w KQkq - 0 8,Managed to win his bishop
+15,g3,g2g3,r1b1k1nr/pppp1ppp/8/8/4P2q/2NB2P1/PPP2P1b/R1BQK2R b KQkq - 0 8,Managed to win his bishop
+16,Qd8,h4d8,r1bqk1nr/pppp1ppp/8/8/4P3/2NB2P1/PPP2P1b/R1BQK2R w KQkq - 1 9,Managed to win his bishop
+17,Rxh2,h1h2,r1bqk1nr/pppp1ppp/8/8/4P3/2NB2P1/PPP2P1R/R1BQK3 b Qkq - 0 9,To prevent bh7+
+18,Ne7,g8e7,r1bqk2r/ppppnppp/8/8/4P3/2NB2P1/PPP2P1R/R1BQK3 w Qkq - 1 10,To prevent bh7+
+19,Be3,c1e3,r1bqk2r/ppppnppp/8/8/4P3/2NBB1P1/PPP2P1R/R2QK3 b Qkq - 2 10,To prevent bh7+
+20,O-O,e8g8,r1bq1rk1/ppppnppp/8/8/4P3/2NBB1P1/PPP2P1R/R2QK3 w Q - 3 11,To prevent bh7+
+21,Nd5,c3d5,r1bq1rk1/ppppnppp/8/3N4/4P3/3BB1P1/PPP2P1R/R2QK3 b Q - 4 11,To prevent bh7+
+22,Nxd5,e7d5,r1bq1rk1/pppp1ppp/8/3n4/4P3/3BB1P1/PPP2P1R/R2QK3 w Q - 0 12,To prevent bh7+
+23,exd5,e4d5,r1bq1rk1/pppp1ppp/8/3P4/8/3BB1P1/PPP2P1R/R2QK3 b Q - 0 12,To prevent bh7+
+24,h6,h7h6,r1bq1rk1/pppp1pp1/7p/3P4/8/3BB1P1/PPP2P1R/R2QK3 w Q - 0 13,To prevent bh7+
+25,Rh4,h2h4,r1bq1rk1/pppp1pp1/7p/3P4/7R/3BB1P1/PPP2P2/R2QK3 b Q - 1 13,To prevent qf3
+26,Re8,f8e8,r1bqr1k1/pppp1pp1/7p/3P4/7R/3BB1P1/PPP2P2/R2QK3 w Q - 2 14,To prevent qf3
+27,c3,c2c3,r1bqr1k1/pppp1pp1/7p/3P4/7R/2PBB1P1/PP3P2/R2QK3 b Q - 0 14,To prevent qf3
+28,d6,d7d6,r1bqr1k1/ppp2pp1/3p3p/3P4/7R/2PBB1P1/PP3P2/R2QK3 w Q - 0 15,To prevent qf3
+29,Qb3,d1b3,r1bqr1k1/ppp2pp1/3p3p/3P4/7R/1QPBB1P1/PP3P2/R3K3 b Q - 1 15,To prevent qf3
+30,b6,b7b6,r1bqr1k1/p1p2pp1/1p1p3p/3P4/7R/1QPBB1P1/PP3P2/R3K3 w Q - 0 16,To prevent qf3
+31,Kf1,e1f1,r1bqr1k1/p1p2pp1/1p1p3p/3P4/7R/1QPBB1P1/PP3P2/R4K2 b - - 1 16,To prevent qf3
+32,Qf6,d8f6,r1b1r1k1/p1p2pp1/1p1p1q1p/3P4/7R/1QPBB1P1/PP3P2/R4K2 w - - 2 17,To prevent qf3
+33,Re1,a1e1,r1b1r1k1/p1p2pp1/1p1p1q1p/3P4/7R/1QPBB1P1/PP3P2/4RK2 b - - 3 17,To prevent qf3
+34,Bf5,c8f5,r3r1k1/p1p2pp1/1p1p1q1p/3P1b2/7R/1QPBB1P1/PP3P2/4RK2 w - - 4 18,To prevent qf3
+35,Bxf5,d3f5,r3r1k1/p1p2pp1/1p1p1q1p/3P1B2/7R/1QP1B1P1/PP3P2/4RK2 b - - 0 18,To prevent qf3
+36,Qxf5,f6f5,r3r1k1/p1p2pp1/1p1p3p/3P1q2/7R/1QP1B1P1/PP3P2/4RK2 w - - 0 19,To prevent qf3
+37,Kg2,f1g2,r3r1k1/p1p2pp1/1p1p3p/3P1q2/7R/1QP1B1P1/PP3PK1/4R3 b - - 1 19,To prevent qf3
+38,Re7,e8e7,r5k1/p1p1rpp1/1p1p3p/3P1q2/7R/1QP1B1P1/PP3PK1/4R3 w - - 2 20,I could tell I wasn't doing very well
+39,f3,f2f3,r5k1/p1p1rpp1/1p1p3p/3P1q2/7R/1QP1BPP1/PP4K1/4R3 b - - 0 20,I could tell I wasn't doing very well
+40,Rae8,a8e8,4r1k1/p1p1rpp1/1p1p3p/3P1q2/7R/1QP1BPP1/PP4K1/4R3 w - - 1 21,I could tell I wasn't doing very well
+41,Rf4,h4f4,4r1k1/p1p1rpp1/1p1p3p/3P1q2/5R2/1QP1BPP1/PP4K1/4R3 b - - 2 21,I could tell I wasn't doing very well
+42,Qh7,f5h7,4r1k1/p1p1rppq/1p1p3p/3P4/5R2/1QP1BPP1/PP4K1/4R3 w - - 3 22,I could tell I wasn't doing very well
+43,Re4,f4e4,4r1k1/p1p1rppq/1p1p3p/3P4/4R3/1QP1BPP1/PP4K1/4R3 b - - 4 22,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+44,Re7xe4,e7e4,4r1k1/p1p2ppq/1p1p3p/3P4/4r3/1QP1BPP1/PP4K1/4R3 w - - 0 23,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+45,fxe4,f3e4,4r1k1/p1p2ppq/1p1p3p/3P4/4P3/1QP1B1P1/PP4K1/4R3 b - - 0 23,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+46,Qxe4+,h7e4,4r1k1/p1p2pp1/1p1p3p/3P4/4q3/1QP1B1P1/PP4K1/4R3 w - - 0 24,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+47,Kh2,g2h2,4r1k1/p1p2pp1/1p1p3p/3P4/4q3/1QP1B1P1/PP5K/4R3 b - - 1 24,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+48,Qf3,e4f3,4r1k1/p1p2pp1/1p1p3p/3P4/8/1QP1BqP1/PP5K/4R3 w - - 2 25,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+49,Bxb6,e3b6,4r1k1/p1p2pp1/1B1p3p/3P4/8/1QP2qP1/PP5K/4R3 b - - 0 25,I really hoped he would capture b6 without looking properly. Than I could go rxe8
+50,Rxe1,e8e1,6k1/p1p2pp1/1B1p3p/3P4/8/1QP2qP1/PP5K/4r3 w - - 0 26,But he saw it. I knew I was dead meat
+51,Bg1,b6g1,6k1/p1p2pp1/3p3p/3P4/8/1QP2qP1/PP5K/4r1B1 b - - 1 26,Running for my life
+52,Re2+,e1e2,6k1/p1p2pp1/3p3p/3P4/8/1QP2qP1/PP2r2K/6B1 w - - 2 27,Running for my life
+53,Bf2,g1f2,6k1/p1p2pp1/3p3p/3P4/8/1QP2qP1/PP2rB1K/8 b - - 3 27,Running for my life
+54,Rxf2+,e2f2,6k1/p1p2pp1/3p3p/3P4/8/1QP2qP1/PP3r1K/8 w - - 0 28,Running for my life
+55,Kh3,h2h3,6k1/p1p2pp1/3p3p/3P4/8/1QP2qPK/PP3r2/8 b - - 1 28,Running for my life
+56,Qh5#,f3h5,6k1/p1p2pp1/3p3p/3P3q/8/1QP3PK/PP3r2/8 w - - 2 29,"And I was knocked out of the tournament
+Thanks for viewing"

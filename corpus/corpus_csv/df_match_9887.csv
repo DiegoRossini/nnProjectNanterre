@@ -1,0 +1,99 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is a game played in a team match (I annotated both games). I had blundered away the exchange, and was contemplating resigning when a tactical oversight by my opponent gave me a chance to turn the tables over. 
+Both sides make many mistakes, but overall this was a fun game."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Ruy Lopez - Modern Archangel
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Ruy Lopez - Modern Archangel
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Ruy Lopez - Modern Archangel
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Ruy Lopez - Modern Archangel
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Ruy Lopez - Modern Archangel
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Ruy Lopez - Modern Archangel
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,Ruy Lopez - Modern Archangel
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,Ruy Lopez - Modern Archangel
+10,b5,b7b5,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6,Ruy Lopez - Modern Archangel
+11,Bb3,a4b3,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 1 6,Ruy Lopez - Modern Archangel
+12,Bc5,f8c5,r1bqk2r/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 2 7,Ruy Lopez - Modern Archangel
+13,Re1,f1e1,r1bqk2r/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 3 7,I seem to have more trouble with white playing c3 and d4 immediately.
+14,O-O,e8g8,r1bq1rk1/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - - 4 8,I suppose white was thinking some kind of Anti-Marshal variation.
+15,h3,h2h3,r1bq1rk1/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N1P/PPPP1PP1/RNBQR1K1 b - - 0 8,I suppose white was thinking some kind of Anti-Marshal variation.
+16,d6,d7d6,r1bq1rk1/2p2ppp/p1np1n2/1pb1p3/4P3/1B3N1P/PPPP1PP1/RNBQR1K1 w - - 0 9,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+17,c3,c2c3,r1bq1rk1/2p2ppp/p1np1n2/1pb1p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 b - - 0 9,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+18,Bb6,c5b6,r1bq1rk1/2p2ppp/pbnp1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+19,d4,d2d4,r1bq1rk1/2p2ppp/pbnp1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 b - - 0 10,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+20,Re8,f8e8,r1bqr1k1/2p2ppp/pbnp1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+21,Bg5,c1g5,r1bqr1k1/2p2ppp/pbnp1n2/1p2p1B1/3PP3/1BP2N1P/PP3PP1/RN1QR1K1 b - - 2 11,It is common for white to insert a4 Rb8 axb5 axb5 at some point
+22,h6,h7h6,r1bqr1k1/2p2pp1/pbnp1n1p/1p2p1B1/3PP3/1BP2N1P/PP3PP1/RN1QR1K1 w - - 0 12,"A lot of people (especially in blitz games) automatically take Nxg5 hxg5 Bxg5, which in this particular case is bad because of Bxd4."
+23,Bh4,g5h4,r1bqr1k1/2p2pp1/pbnp1n1p/1p2p3/3PP2B/1BP2N1P/PP3PP1/RN1QR1K1 b - - 1 12,"A lot of people (especially in blitz games) automatically take Nxg5 hxg5 Bxg5, which in this particular case is bad because of Bxd4."
+24,exd4,e5d4,r1bqr1k1/2p2pp1/pbnp1n1p/1p6/3pP2B/1BP2N1P/PP3PP1/RN1QR1K1 w - - 0 13,"A lot of people (especially in blitz games) automatically take Nxg5 hxg5 Bxg5, which in this particular case is bad because of Bxd4."
+25,cxd4,c3d4,r1bqr1k1/2p2pp1/pbnp1n1p/1p6/3PP2B/1B3N1P/PP3PP1/RN1QR1K1 b - - 0 13,"A lot of people (especially in blitz games) automatically take Nxg5 hxg5 Bxg5, which in this particular case is bad because of Bxd4."
+26,g5,g7g5,r1bqr1k1/2p2p2/pbnp1n1p/1p4p1/3PP2B/1B3N1P/PP3PP1/RN1QR1K1 w - - 0 14,"A lot of people (especially in blitz games) automatically take Nxg5 hxg5 Bxg5, which in this particular case is bad because of Bxd4."
+27,Bg3,h4g3,r1bqr1k1/2p2p2/pbnp1n1p/1p4p1/3PP3/1B3NBP/PP3PP1/RN1QR1K1 b - - 1 14,"I believe black still has a task to equalize here and find ways of dealing with both white's e4-d4 centre, 'spanish' b3 bishop and eliminate weaknesses on c file. Hence I played by a standard plan preparing c5.
+It seems g4 was better, as white has problems with protecting his d4 pawn."
+28,Na5,c6a5,r1bqr1k1/2p2p2/pb1p1n1p/np4p1/3PP3/1B3NBP/PP3PP1/RN1QR1K1 w - - 2 15,"Here I noticed white was threatening to start a strong attack with e5!, and decided to prevent that by moving my knight to g7, also preparing f5."
+29,Bc2,b3c2,r1bqr1k1/2p2p2/pb1p1n1p/np4p1/3PP3/5NBP/PPB2PP1/RN1QR1K1 b - - 3 15,"Here I noticed white was threatening to start a strong attack with e5!, and decided to prevent that by moving my knight to g7, also preparing f5."
+30,Nh5,f6h5,r1bqr1k1/2p2p2/pb1p3p/np4pn/3PP3/5NBP/PPB2PP1/RN1QR1K1 w - - 4 16,"?
+Bad timing. My pieces are badly placed, and more preparation was needed with moves such as Bb7."
+31,Bh2,g3h2,r1bqr1k1/2p2p2/pb1p3p/np4pn/3PP3/5N1P/PPB2PPB/RN1QR1K1 b - - 5 16,"?
+Bad timing. My pieces are badly placed, and more preparation was needed with moves such as Bb7."
+32,Ng7,h5g7,r1bqr1k1/2p2pn1/pb1p3p/np4p1/3PP3/5N1P/PPB2PPB/RN1QR1K1 w - - 6 17,"?
+Bad timing. My pieces are badly placed, and more preparation was needed with moves such as Bb7."
+33,Nc3,b1c3,r1bqr1k1/2p2pn1/pb1p3p/np4p1/3PP3/2N2N1P/PPB2PPB/R2QR1K1 b - - 7 17,"?
+Bad timing. My pieces are badly placed, and more preparation was needed with moves such as Bb7."
+34,c5,c7c5,r1bqr1k1/5pn1/pb1p3p/npp3p1/3PP3/2N2N1P/PPB2PPB/R2QR1K1 w - - 0 18,"?
+Bad timing. My pieces are badly placed, and more preparation was needed with moves such as Bb7."
+35,Nd5,c3d5,r1bqr1k1/5pn1/pb1p3p/nppN2p1/3PP3/5N1P/PPB2PPB/R2QR1K1 b - - 1 18,"?
+Second mistake in a row. I had to give up my bishop with moves such as Nc6 or Bb7."
+36,Ba7,b6a7,r1bqr1k1/b4pn1/p2p3p/nppN2p1/3PP3/5N1P/PPB2PPB/R2QR1K1 w - - 2 19,"?
+Second mistake in a row. I had to give up my bishop with moves such as Nc6 or Bb7."
+37,dxc5,d4c5,r1bqr1k1/b4pn1/p2p3p/npPN2p1/4P3/5N1P/PPB2PPB/R2QR1K1 b - - 0 19,"I have to lose 2 pawns for nothing, because of
+19. ... dxc5 20. Nc7 fork, 
+19. ... Bxc5 20. b4 fork"
+38,Bb7,c8b7,r2qr1k1/bb3pn1/p2p3p/npPN2p1/4P3/5N1P/PPB2PPB/R2QR1K1 w - - 1 20,"The d5 knight is an impressive piece, which is why I exchange it."
+39,cxd6,c5d6,r2qr1k1/bb3pn1/p2P3p/np1N2p1/4P3/5N1P/PPB2PPB/R2QR1K1 b - - 0 20,"?
+I must have been completely demoralized at this point."
+40,Bxd5,b7d5,r2qr1k1/b4pn1/p2P3p/np1b2p1/4P3/5N1P/PPB2PPB/R2QR1K1 w - - 0 21,"?
+I must have been completely demoralized at this point."
+41,Qxd5,d1d5,r2qr1k1/b4pn1/p2P3p/np1Q2p1/4P3/5N1P/PPB2PPB/R3R1K1 b - - 0 21,"?
+I must have been completely demoralized at this point."
+42,Rc8,a8c8,2rqr1k1/b4pn1/p2P3p/np1Q2p1/4P3/5N1P/PPB2PPB/R3R1K1 w - - 1 22,"?
+I must have been completely demoralized at this point."
+43,d7,d6d7,2rqr1k1/b2P1pn1/p6p/np1Q2p1/4P3/5N1P/PPB2PPB/R3R1K1 b - - 0 22,":(      
+What a miserable way to get forked!
+ On the second thought, Bxf2  22. Kxf2 Rxc2  23. Kg1 Re7 24. Ne5 Ne6 objectively was an improvement for me, compared to previous turn. How come I never saw that variation?"
+44,Rxc2,c8c2,3qr1k1/b2P1pn1/p6p/np1Q2p1/4P3/5N1P/PPr2PPB/R3R1K1 w - - 0 23,"?
+After this move, black gets some hopes of activity against white king (and decides not to resign for a few more moves!). In view of what happened in the game, Rf1 was better."
+45,dxe8=Q+,d7e8q,3qQ1k1/b4pn1/p6p/np1Q2p1/4P3/5N1P/PPr2PPB/R3R1K1 b - - 0 23,"?
+After this move, black gets some hopes of activity against white king (and decides not to resign for a few more moves!). In view of what happened in the game, Rf1 was better."
+46,Qxe8,d8e8,4q1k1/b4pn1/p6p/np1Q2p1/4P3/5N1P/PPr2PPB/R3R1K1 w - - 0 24,"?
+After this move, black gets some hopes of activity against white king (and decides not to resign for a few more moves!). In view of what happened in the game, Rf1 was better."
+47,Bg3,h2g3,4q1k1/b4pn1/p6p/np1Q2p1/4P3/5NBP/PPr2PP1/R3R1K1 b - - 1 24,"?
+After this move, black gets some hopes of activity against white king (and decides not to resign for a few more moves!). In view of what happened in the game, Rf1 was better."
+48,Nh5,g7h5,4q1k1/b4p2/p6p/np1Q2pn/4P3/5NBP/PPr2PP1/R3R1K1 w - - 2 25,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+49,Kh2,g1h2,4q1k1/b4p2/p6p/np1Q2pn/4P3/5NBP/PPr2PPK/R3R3 b - - 3 25,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+50,Bxf2,a7f2,4q1k1/5p2/p6p/np1Q2pn/4P3/5NBP/PPr2bPK/R3R3 w - - 0 26,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+51,Bxf2,g3f2,4q1k1/5p2/p6p/np1Q2pn/4P3/5N1P/PPr2BPK/R3R3 b - - 0 26,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+52,Rxf2,c2f2,4q1k1/5p2/p6p/np1Q2pn/4P3/5N1P/PP3rPK/R3R3 w - - 0 27,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+53,a4,a2a4,4q1k1/5p2/p6p/np1Q2pn/P3P3/5N1P/1P3rPK/R3R3 b - - 0 27,"?
+White's second mistake. After 27. Qd4 Rc2 28. Rc1, black's hopes are crushed. (27. Nxg5 does not work due to the same combination as in the game)"
+54,Rxg2+,f2g2,4q1k1/5p2/p6p/np1Q2pn/P3P3/5N1P/1P4rK/R3R3 w - - 0 28,!
+55,Kh1,h2h1,4q1k1/5p2/p6p/np1Q2pn/P3P3/5N1P/1P4r1/R3R2K b - - 1 28,"It seems black is regaining his piece in all variations, so white should have considered 28. Kxg2 Nf4  29. Kh1 Nxd5 30. exd5, which, at least is not too bad for white."
+56,Qc8,e8c8,2q3k1/5p2/p6p/np1Q2pn/P3P3/5N1P/1P4r1/R3R2K w - - 2 29,"?
+It's black's turn to be demoralized by the flip of the board. The Queen was needed for protecting e4, and the a5 knight does not matter. Necessary was 30. Ne2 Rxe2 31. Rxe2 Qxe2"
+57,Ng1,f3g1,2q3k1/5p2/p6p/np1Q2pn/P3P3/7P/1P4r1/R3R1NK b - - 3 29,"?
+It's black's turn to be demoralized by the flip of the board. The Queen was needed for protecting e4, and the a5 knight does not matter. Necessary was 30. Ne2 Rxe2 31. Rxe2 Qxe2"
+58,Qc2,c8c2,6k1/5p2/p6p/np1Q2pn/P3P3/7P/1Pq3r1/R3R1NK w - - 4 30,"?
+It's black's turn to be demoralized by the flip of the board. The Queen was needed for protecting e4, and the a5 knight does not matter. Necessary was 30. Ne2 Rxe2 31. Rxe2 Qxe2"
+59,Qd8+,d5d8,3Q2k1/5p2/p6p/np4pn/P3P3/7P/1Pq3r1/R3R1NK b - - 5 30,"?
+It's black's turn to be demoralized by the flip of the board. The Queen was needed for protecting e4, and the a5 knight does not matter. Necessary was 30. Ne2 Rxe2 31. Rxe2 Qxe2"
+60,Kh7,g8h7,3Q4/5p1k/p6p/np4pn/P3P3/7P/1Pq3r1/R3R1NK w - - 6 31,"Only defence -- but white is now offering his queen for less than a knight and rook: 32. ... Ng3  33. Nxg3 Qxd4 34. Kxg2 Qxb2 
+However, I thought I had a faster way of winning than fighting with queen and a couple of extra pawns against two rooks."
+61,Ne2,g1e2,3Q4/5p1k/p6p/np4pn/P3P3/7P/1Pq1N1r1/R3R2K b - - 7 31,"Only defence -- but white is now offering his queen for less than a knight and rook: 32. ... Ng3  33. Nxg3 Qxd4 34. Kxg2 Qxb2 
+However, I thought I had a faster way of winning than fighting with queen and a couple of extra pawns against two rooks."
+62,Qxe4,c2e4,3Q4/5p1k/p6p/np4pn/P3q3/7P/1P2N1r1/R3R2K w - - 0 32,"Only defence -- but white is now offering his queen for less than a knight and rook: 32. ... Ng3  33. Nxg3 Qxd4 34. Kxg2 Qxb2 
+However, I thought I had a faster way of winning than fighting with queen and a couple of extra pawns against two rooks."
+63,Qd4,d8d4,8/5p1k/p6p/np4pn/P2Qq3/7P/1P2N1r1/R3R2K b - - 1 32,"Only defence -- but white is now offering his queen for less than a knight and rook: 32. ... Ng3  33. Nxg3 Qxd4 34. Kxg2 Qxb2 
+However, I thought I had a faster way of winning than fighting with queen and a couple of extra pawns against two rooks."

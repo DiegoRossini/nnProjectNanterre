@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"sicilian defense... and since its the only defense i know for kp, i use it.  like it too."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"sicilian defense... and since its the only defense i know for kp, i use it.  like it too."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,i dont remember why i did this
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,i dont remember why i did this
+5,Nc3,b1c3,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,i dont remember why i did this
+6,g6,g7g6,rnbqkb1r/pp1ppp1p/5np1/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,i dont remember why i did this
+7,d4,d2d4,rnbqkb1r/pp1ppp1p/5np1/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,protecting pawn
+8,Qc7,d8c7,rnb1kb1r/ppqppp1p/5np1/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 5,protecting pawn
+9,e5,e4e5,rnb1kb1r/ppqppp1p/5np1/2p1P3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,move to safety
+10,Nh5,f6h5,rnb1kb1r/ppqppp1p/6p1/2p1P2n/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 6,move to safety
+11,g4,g2g4,rnb1kb1r/ppqppp1p/6p1/2p1P2n/3P2P1/2N2N2/PPP2P1P/R1BQKB1R b KQkq - 0 6,move to safety
+12,Ng7,h5g7,rnb1kb1r/ppqpppnp/6p1/2p1P3/3P2P1/2N2N2/PPP2P1P/R1BQKB1R w KQkq - 1 7,move to safety
+13,Bh6,c1h6,rnb1kb1r/ppqpppnp/6pB/2p1P3/3P2P1/2N2N2/PPP2P1P/R2QKB1R b KQkq - 2 7,attacks Ng2
+14,d5,d7d5,rnb1kb1r/ppq1ppnp/6pB/2ppP3/3P2P1/2N2N2/PPP2P1P/R2QKB1R w KQkq d6 0 8,attack f4 and opens up bishop
+15,Nxd5,c3d5,rnb1kb1r/ppq1ppnp/6pB/2pNP3/3P2P1/5N2/PPP2P1P/R2QKB1R b KQkq - 0 8,attacks Qc3
+16,Qd7,c7d7,rnb1kb1r/pp1qppnp/6pB/2pNP3/3P2P1/5N2/PPP2P1P/R2QKB1R w KQkq - 1 9,moves to safety
+17,Ne3,d5e3,rnb1kb1r/pp1qppnp/6pB/2p1P3/3P2P1/4NN2/PPP2P1P/R2QKB1R b KQkq - 2 9,moves to safety
+18,Nc6,b8c6,r1b1kb1r/pp1qppnp/2n3pB/2p1P3/3P2P1/4NN2/PPP2P1P/R2QKB1R w KQkq - 3 10,standard development
+19,Bb5,f1b5,r1b1kb1r/pp1qppnp/2n3pB/1Bp1P3/3P2P1/4NN2/PPP2P1P/R2QK2R b KQkq - 4 10,attacks my knight and queen pins it
+20,a6,a7a6,r1b1kb1r/1p1qppnp/p1n3pB/1Bp1P3/3P2P1/4NN2/PPP2P1P/R2QK2R w KQkq - 0 11,attacks bishop and forces it to move or trade
+21,Bxc6,b5c6,r1b1kb1r/1p1qppnp/p1B3pB/2p1P3/3P2P1/4NN2/PPP2P1P/R2QK2R b KQkq - 0 11,i take the trade
+22,Qxc6,d7c6,r1b1kb1r/1p2ppnp/p1q3pB/2p1P3/3P2P1/4NN2/PPP2P1P/R2QK2R w KQkq - 0 12,i take the trade
+23,d5,d4d5,r1b1kb1r/1p2ppnp/p1q3pB/2pPP3/6P1/4NN2/PPP2P1P/R2QK2R b KQkq - 0 12,attacks my queen
+24,Qb5,c6b5,r1b1kb1r/1p2ppnp/p5pB/1qpPP3/6P1/4NN2/PPP2P1P/R2QK2R w KQkq - 1 13,move to safety
+25,b3,b2b3,r1b1kb1r/1p2ppnp/p5pB/1qpPP3/6P1/1P2NN2/P1P2P1P/R2QK2R b KQkq - 0 13,move to safety and take a central position
+26,Qb4+,b5b4,r1b1kb1r/1p2ppnp/p5pB/2pPP3/1q4P1/1P2NN2/P1P2P1P/R2QK2R w KQkq - 1 14,move to safety and take a central position
+27,Qd2,d1d2,r1b1kb1r/1p2ppnp/p5pB/2pPP3/1q4P1/1P2NN2/P1PQ1P1P/R3K2R b KQkq - 2 14,move to safety and take a central position
+28,Qe4,b4e4,r1b1kb1r/1p2ppnp/p5pB/2pPP3/4q1P1/1P2NN2/P1PQ1P1P/R3K2R w KQkq - 3 15,move to safety and take a central position
+29,Qe2,d2e2,r1b1kb1r/1p2ppnp/p5pB/2pPP3/4q1P1/1P2NN2/P1P1QP1P/R3K2R b KQkq - 4 15,attempt to queen pin him
+30,Bxg4,c8g4,r3kb1r/1p2ppnp/p5pB/2pPP3/4q1b1/1P2NN2/P1P1QP1P/R3K2R w KQkq - 0 16,attempt to queen pin him
+31,Nxg4,e3g4,r3kb1r/1p2ppnp/p5pB/2pPP3/4q1N1/1P3N2/P1P1QP1P/R3K2R b KQkq - 0 16,i take the trade
+32,Qxg4,e4g4,r3kb1r/1p2ppnp/p5pB/2pPP3/6q1/1P3N2/P1P1QP1P/R3K2R w KQkq - 0 17,i take the trade
+33,Rg1,h1g1,r3kb1r/1p2ppnp/p5pB/2pPP3/6q1/1P3N2/P1P1QP1P/R3K1R1 b Qkq - 1 17,attacks my queen at g4

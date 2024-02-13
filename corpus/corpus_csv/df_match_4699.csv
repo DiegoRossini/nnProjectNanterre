@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,solo mueve a la dama al inicio si sabes lo que haces p:
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,solo mueve a la dama al inicio si sabes lo que haces p:
+3,e5,e4e5,rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,solo mueve a la dama al inicio si sabes lo que haces p:
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,solo mueve a la dama al inicio si sabes lo que haces p:
+5,Qh5,d1h5,r1bqkbnr/ppp1pppp/2n5/3pP2Q/8/8/PPPP1PPP/RNB1KBNR b KQkq - 2 3,solo mueve a la dama al inicio si sabes lo que haces p:
+6,g6,g7g6,r1bqkbnr/ppp1pp1p/2n3p1/3pP2Q/8/8/PPPP1PPP/RNB1KBNR w KQkq - 0 4,"defendiendo f7, para salvar el enroque"
+7,Qf3,h5f3,r1bqkbnr/ppp1pp1p/2n3p1/3pP3/8/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 4,"defendiendo f7, para salvar el enroque"
+8,Nh6,g8h6,r1bqkb1r/ppp1pp1p/2n3pn/3pP3/8/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 5,"defendiendo f7, para salvar el enroque"
+9,Bb5,f1b5,r1bqkb1r/ppp1pp1p/2n3pn/1B1pP3/8/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 5,"intercambia un caballo por un peon, very smart"
+10,Bd7,c8d7,r2qkb1r/pppbpp1p/2n3pn/1B1pP3/8/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 6,"intercambia un caballo por un peon, very smart"
+11,Nc3,b1c3,r2qkb1r/pppbpp1p/2n3pn/1B1pP3/8/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 5 6,"intercambia un caballo por un peon, very smart"
+12,e6,e7e6,r2qkb1r/pppb1p1p/2n1p1pn/1B1pP3/8/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 7,"intercambia un caballo por un peon, very smart"
+13,Nxd5,c3d5,r2qkb1r/pppb1p1p/2n1p1pn/1B1NP3/8/5Q2/PPPP1PPP/R1B1K1NR b KQkq - 0 7,"intercambia un caballo por un peon, very smart"
+14,exd5,e6d5,r2qkb1r/pppb1p1p/2n3pn/1B1pP3/8/5Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 8,"intercambia un alfil por un peon, so smart p:"
+15,Qxd5,f3d5,r2qkb1r/pppb1p1p/2n3pn/1B1QP3/8/8/PPPP1PPP/R1B1K1NR b KQkq - 0 8,"intercambia un alfil por un peon, so smart p:"
+16,Qe7,d8e7,r3kb1r/pppbqp1p/2n3pn/1B1QP3/8/8/PPPP1PPP/R1B1K1NR w KQkq - 1 9,"intercambia un alfil por un peon, so smart p:"
+17,d4,d2d4,r3kb1r/pppbqp1p/2n3pn/1B1QP3/3P4/8/PPP2PPP/R1B1K1NR b KQkq - 0 9,"intercambia un alfil por un peon, so smart p:"
+18,a6,a7a6,r3kb1r/1ppbqp1p/p1n3pn/1B1QP3/3P4/8/PPP2PPP/R1B1K1NR w KQkq - 0 10,"intercambia un alfil por un peon, so smart p:"
+19,Ba4,b5a4,r3kb1r/1ppbqp1p/p1n3pn/3QP3/B2P4/8/PPP2PPP/R1B1K1NR b KQkq - 1 10,"intercambia un alfil por un peon, so smart p:"
+20,b5,b7b5,r3kb1r/2pbqp1p/p1n3pn/1p1QP3/B2P4/8/PPP2PPP/R1B1K1NR w KQkq - 0 11,"intercambia un alfil por un peon, so smart p:"
+21,Bxb5,a4b5,r3kb1r/2pbqp1p/p1n3pn/1B1QP3/3P4/8/PPP2PPP/R1B1K1NR b KQkq - 0 11,"intercambia un alfil por un peon, so smart p:"
+22,axb5,a6b5,r3kb1r/2pbqp1p/2n3pn/1p1QP3/3P4/8/PPP2PPP/R1B1K1NR w KQkq - 0 12,defendiendo a la torre
+23,Qxb5,d5b5,r3kb1r/2pbqp1p/2n3pn/1Q2P3/3P4/8/PPP2PPP/R1B1K1NR b KQkq - 0 12,defendiendo a la torre
+24,Nxd4,c6d4,r3kb1r/2pbqp1p/6pn/1Q2P3/3n4/8/PPP2PPP/R1B1K1NR w KQkq - 0 13,defendiendo a la torre
+25,Qb7,b5b7,r3kb1r/1Qpbqp1p/6pn/4P3/3n4/8/PPP2PPP/R1B1K1NR b KQkq - 1 13,defendiendo a la torre
+26,Qd8,e7d8,r2qkb1r/1Qpb1p1p/6pn/4P3/3n4/8/PPP2PPP/R1B1K1NR w KQkq - 2 14,defendiendo a la torre
+27,Be3,c1e3,r2qkb1r/1Qpb1p1p/6pn/4P3/3n4/4B3/PPP2PPP/R3K1NR b KQkq - 3 14,pésimo movimiento
+28,Nxc2+,d4c2,r2qkb1r/1Qpb1p1p/6pn/4P3/8/4B3/PPn2PPP/R3K1NR w KQkq - 0 15,knight fork
+29,Ke2,e1e2,r2qkb1r/1Qpb1p1p/6pn/4P3/8/4B3/PPn1KPPP/R5NR b kq - 1 15,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+30,Nxa1,c2a1,r2qkb1r/1Qpb1p1p/6pn/4P3/8/4B3/PP2KPPP/n5NR w kq - 0 16,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+31,Nf3,g1f3,r2qkb1r/1Qpb1p1p/6pn/4P3/8/4BN2/PP2KPPP/n6R b kq - 1 16,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+32,Nc2,a1c2,r2qkb1r/1Qpb1p1p/6pn/4P3/8/4BN2/PPn1KPPP/7R w kq - 2 17,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+33,Bg5,e3g5,r2qkb1r/1Qpb1p1p/6pn/4P1B1/8/5N2/PPn1KPPP/7R b kq - 3 17,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+34,Qb8,d8b8,rq2kb1r/1Qpb1p1p/6pn/4P1B1/8/5N2/PPn1KPPP/7R w kq - 4 18,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+35,Qe4,b7e4,rq2kb1r/2pb1p1p/6pn/4P1B1/4Q3/5N2/PPn1KPPP/7R b kq - 5 18,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+36,Bf5,d7f5,rq2kb1r/2p2p1p/6pn/4PbB1/4Q3/5N2/PPn1KPPP/7R w kq - 6 19,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+37,Qc6+,e4c6,rq2kb1r/2p2p1p/2Q3pn/4PbB1/8/5N2/PPn1KPPP/7R b kq - 7 19,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+38,Bd7,f5d7,rq2kb1r/2pb1p1p/2Q3pn/4P1B1/8/5N2/PPn1KPPP/7R w kq - 8 20,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+39,Qxc2,c6c2,rq2kb1r/2pb1p1p/6pn/4P1B1/8/5N2/PPQ1KPPP/7R b kq - 0 20,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+40,Nf5,h6f5,rq2kb1r/2pb1p1p/6p1/4PnB1/8/5N2/PPQ1KPPP/7R w kq - 1 21,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+41,Bf6,g5f6,rq2kb1r/2pb1p1p/5Bp1/4Pn2/8/5N2/PPQ1KPPP/7R b kq - 2 21,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+42,Rg8,h8g8,rq2kbr1/2pb1p1p/5Bp1/4Pn2/8/5N2/PPQ1KPPP/7R w q - 3 22,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+43,Ng5,f3g5,rq2kbr1/2pb1p1p/5Bp1/4PnN1/8/8/PPQ1KPPP/7R b q - 4 22,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+44,Nd4+,f5d4,rq2kbr1/2pb1p1p/5Bp1/4P1N1/3n4/8/PPQ1KPPP/7R w q - 5 23,"knight fork again (:
+ knight fork = cuando un caballado da check y ademas ataca piezas valiosas como la dama o las torres"
+45,Kd2,e2d2,rq2kbr1/2pb1p1p/5Bp1/4P1N1/3n4/8/PPQK1PPP/7R b q - 6 23,
+46,Nxc2,d4c2,rq2kbr1/2pb1p1p/5Bp1/4P1N1/8/8/PPnK1PPP/7R w q - 0 24,
+47,Kxc2,d2c2,rq2kbr1/2pb1p1p/5Bp1/4P1N1/8/8/PPK2PPP/7R b q - 0 24,
+48,Bf5+,d7f5,rq2kbr1/2p2p1p/5Bp1/4PbN1/8/8/PPK2PPP/7R w q - 1 25,
+49,Kc3,c2c3,rq2kbr1/2p2p1p/5Bp1/4PbN1/8/2K5/PP3PPP/7R b q - 2 25,
+50,Qb4#,b8b4,r3kbr1/2p2p1p/5Bp1/4PbN1/1q6/2K5/PP3PPP/7R w q - 3 26,

@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Saemisch
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Saemisch
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Saemisch
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Saemisch
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Saemisch
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Saemisch
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,Saemisch
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Saemisch
+9,f3,f2f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR b KQkq - 0 5,Saemisch
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQ - 1 6,Opting for the Bennoni. I play c5 when white plays the Saemisch or the four pawns attack
+11,Bg5,c1g5,rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2P2/PP4PP/R2QKBNR b KQ - 2 6,Opting for the Bennoni. I play c5 when white plays the Saemisch or the four pawns attack
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N2P2/PP4PP/R2QKBNR w KQ - 0 7,Opting for the Bennoni. I play c5 when white plays the Saemisch or the four pawns attack
+13,d5,d4d5,rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR b KQ - 0 7,"White stops my counter attack on the queenside. Since the d & c pawns are fixed and my e7, d6, c5 pawn chain points to the queen side; you then attack on that side."
+14,a6,a7a6,rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR w KQ - 0 8,"White stops my counter attack on the queenside. Since the d & c pawns are fixed and my e7, d6, c5 pawn chain points to the queen side; you then attack on that side."
+15,a4,a2a4,rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/P1P1P3/2N2P2/1P4PP/R2QKBNR b KQ - 0 8,"White stops my counter attack on the queenside. Since the d & c pawns are fixed and my e7, d6, c5 pawn chain points to the queen side; you then attack on that side."
+16,h6,h7h6,rnbq1rk1/1p2ppb1/p2p1npp/2pP2B1/P1P1P3/2N2P2/1P4PP/R2QKBNR w KQ - 0 9,Knocking off the bishop
+17,Be3,g5e3,rnbq1rk1/1p2ppb1/p2p1npp/2pP4/P1P1P3/2N1BP2/1P4PP/R2QKBNR b KQ - 1 9,"And here I missed e6, one of the crucial moves in forming a bennoi formation. But I never play it!"
+18,Nbd7,b8d7,r1bq1rk1/1p1nppb1/p2p1npp/2pP4/P1P1P3/2N1BP2/1P4PP/R2QKBNR w KQ - 2 10,"And here I missed e6, one of the crucial moves in forming a bennoi formation. But I never play it!"
+19,Nh3,g1h3,r1bq1rk1/1p1nppb1/p2p1npp/2pP4/P1P1P3/2N1BP1N/1P4PP/R2QKB1R b KQ - 3 10,playing the queenside. If 10. f4...Nxe4!
+20,Qa5,d8a5,r1b2rk1/1p1nppb1/p2p1npp/q1pP4/P1P1P3/2N1BP1N/1P4PP/R2QKB1R w KQ - 4 11,playing the queenside. If 10. f4...Nxe4!
+21,Nf2,h3f2,r1b2rk1/1p1nppb1/p2p1npp/q1pP4/P1P1P3/2N1BP2/1P3NPP/R2QKB1R b KQ - 5 11,12. f4...Neg4
+22,Ne5,d7e5,r1b2rk1/1p2ppb1/p2p1npp/q1pPn3/P1P1P3/2N1BP2/1P3NPP/R2QKB1R w KQ - 6 12,12. f4...Neg4
+23,Bd2,e3d2,r1b2rk1/1p2ppb1/p2p1npp/q1pPn3/P1P1P3/2N2P2/1P1B1NPP/R2QKB1R b KQ - 7 12,12. f4...Neg4
+24,Qb4,a5b4,r1b2rk1/1p2ppb1/p2p1npp/2pPn3/PqP1P3/2N2P2/1P1B1NPP/R2QKB1R w KQ - 8 13,Making a bold move! Do you think White could have trap my Queen?
+25,b3,b2b3,r1b2rk1/1p2ppb1/p2p1npp/2pPn3/PqP1P3/1PN2P2/3B1NPP/R2QKB1R b KQ - 0 13,?? a poor move
+26,Qb6,b4b6,r1b2rk1/1p2ppb1/pq1p1npp/2pPn3/P1P1P3/1PN2P2/3B1NPP/R2QKB1R w KQ - 1 14,misssing a5
+27,Be2,f1e2,r1b2rk1/1p2ppb1/pq1p1npp/2pPn3/P1P1P3/1PN2P2/3BBNPP/R2QK2R b KQ - 2 14,misssing a5
+28,g5,g6g5,r1b2rk1/1p2ppb1/pq1p1n1p/2pPn1p1/P1P1P3/1PN2P2/3BBNPP/R2QK2R w KQ - 0 15,"I play a gambit to open the a1-h8 diagonal and to activate my bishop. The King's Indian can go for a long time so it's best to start the attack.
+(Or 14...h5 15. f4...Neg4)"
+29,f4,f3f4,r1b2rk1/1p2ppb1/pq1p1n1p/2pPn1p1/P1P1PP2/1PN5/3BBNPP/R2QK2R b KQ - 0 15,Moving the Knights in order to free my bishop
+30,Ng6,e5g6,r1b2rk1/1p2ppb1/pq1p1nnp/2pP2p1/P1P1PP2/1PN5/3BBNPP/R2QK2R w KQ - 1 16,Moving the Knights in order to free my bishop
+31,fxg5,f4g5,r1b2rk1/1p2ppb1/pq1p1nnp/2pP2P1/P1P1P3/1PN5/3BBNPP/R2QK2R b KQ - 0 16,Yes the pawn is unprotected
+32,hxg5,h6g5,r1b2rk1/1p2ppb1/pq1p1nn1/2pP2p1/P1P1P3/1PN5/3BBNPP/R2QK2R w KQ - 0 17,Yes the pawn is unprotected
+33,Bxg5,d2g5,r1b2rk1/1p2ppb1/pq1p1nn1/2pP2B1/P1P1P3/1PN5/4BNPP/R2QK2R b KQ - 0 17,Moving the second knight and offering yet another pawn!?
+34,Nh7,f6h7,r1b2rk1/1p2ppbn/pq1p2n1/2pP2B1/P1P1P3/1PN5/4BNPP/R2QK2R w KQ - 1 18,Moving the second knight and offering yet another pawn!?
+35,Bd2,g5d2,r1b2rk1/1p2ppbn/pq1p2n1/2pP4/P1P1P3/1PN5/3BBNPP/R2QK2R b KQ - 2 18,Best. If Bxe7...BxNc3
+36,Nf4,g6f4,r1b2rk1/1p2ppbn/pq1p4/2pP4/P1P1Pn2/1PN5/3BBNPP/R2QK2R w KQ - 3 19,The bishop is overloaded with work
+37,O-O,e1g1,r1b2rk1/1p2ppbn/pq1p4/2pP4/P1P1Pn2/1PN5/3BBNPP/R2Q1RK1 b - - 4 19,Now I have the bishop pair
+38,Nxe2+,f4e2,r1b2rk1/1p2ppbn/pq1p4/2pP4/P1P1P3/1PN5/3BnNPP/R2Q1RK1 w - - 0 20,Now I have the bishop pair
+39,Qxe2,d1e2,r1b2rk1/1p2ppbn/pq1p4/2pP4/P1P1P3/1PN5/3BQNPP/R4RK1 b - - 0 20,Now I had to regroup and I was going to play e6 but never got around to it
+40,Bd7,c8d7,r4rk1/1p1bppbn/pq1p4/2pP4/P1P1P3/1PN5/3BQNPP/R4RK1 w - - 1 21,Now I had to regroup and I was going to play e6 but never got around to it
+41,Rab1,a1b1,r4rk1/1p1bppbn/pq1p4/2pP4/P1P1P3/1PN5/3BQNPP/1R3RK1 b - - 2 21,Opening the f file
+42,Qd8,b6d8,r2q1rk1/1p1bppbn/p2p4/2pP4/P1P1P3/1PN5/3BQNPP/1R3RK1 w - - 3 22,Opening the f file
+43,Ncd1,c3d1,r2q1rk1/1p1bppbn/p2p4/2pP4/P1P1P3/1P6/3BQNPP/1R1N1RK1 b - - 4 22,Opening the f file
+44,f5,f7f5,r2q1rk1/1p1bp1bn/p2p4/2pP1p2/P1P1P3/1P6/3BQNPP/1R1N1RK1 w - - 0 23,Opening the f file
+45,Nd3,f2d3,r2q1rk1/1p1bp1bn/p2p4/2pP1p2/P1P1P3/1P1N4/3BQ1PP/1R1N1RK1 b - - 1 23,??
+46,b5,b7b5,r2q1rk1/3bp1bn/p2p4/1ppP1p2/P1P1P3/1P1N4/3BQ1PP/1R1N1RK1 w - - 0 24,??
+47,a5,a4a5,r2q1rk1/3bp1bn/p2p4/PppP1p2/2P1P3/1P1N4/3BQ1PP/1R1N1RK1 b - - 0 24,??

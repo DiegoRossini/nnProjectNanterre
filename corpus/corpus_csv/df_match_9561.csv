@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,Bird's Opening.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 1 2,Usually d5 to attempt to establish pawn center followed by this move.
+3,e3,e2e3,rnbqkb1r/pppppppp/5n2/8/5P2/4P3/PPPP2PP/RNBQKBNR b KQkq - 0 2,Supports f4 and continues Bird's Opening.
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/5P2/4P3/PPPP2PP/RNBQKBNR w KQkq - 0 3,Helps to counter f4 and applies pressure in center especially on e4.
+5,d3,d2d3,rnbqkb1r/ppp1pppp/5n2/3p4/5P2/3PP3/PPP3PP/RNBQKBNR b KQkq - 0 3,Eases pressure on e4 and prevents option of a knight outpost on e4 later in game.
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n2n2/3p4/5P2/3PP3/PPP3PP/RNBQKBNR w KQkq - 1 4,Helps to control center. Although I have seen c5 then this move afterwards.
+7,Nf3,g1f3,r1bqkb1r/ppp1pppp/2n2n2/3p4/5P2/3PPN2/PPP3PP/RNBQKB1R b KQkq - 2 4,Helps apply pressure to the dark central squares which is an objective for the Bird's Opening.
+8,Bg4,c8g4,r2qkb1r/ppp1pppp/2n2n2/3p4/5Pb1/3PPN2/PPP3PP/RNBQKB1R w KQkq - 3 5,Pins the knight and temporarily lessens its central threat.
+9,Be2,f1e2,r2qkb1r/ppp1pppp/2n2n2/3p4/5Pb1/3PPN2/PPP1B1PP/RNBQK2R b KQkq - 4 5,Unleashes the pin and makes way to castle.
+10,e6,e7e6,r2qkb1r/ppp2ppp/2n1pn2/3p4/5Pb1/3PPN2/PPP1B1PP/RNBQK2R w KQkq - 0 6,Supports d5 and gives the f8 bishop some options.
+11,O-O,e1g1,r2qkb1r/ppp2ppp/2n1pn2/3p4/5Pb1/3PPN2/PPP1B1PP/RNBQ1RK1 b kq - 1 6,A safe guard before attacking the queenside.
+12,Bd6,f8d6,r2qk2r/ppp2ppp/2nbpn2/3p4/5Pb1/3PPN2/PPP1B1PP/RNBQ1RK1 w kq - 2 7,Develops the bishop while adding support to e5.
+13,a3,a2a3,r2qk2r/ppp2ppp/2nbpn2/3p4/5Pb1/P2PPN2/1PP1B1PP/RNBQ1RK1 b kq - 0 7,Starts queenside attack.
+14,O-O,e8g8,r2q1rk1/ppp2ppp/2nbpn2/3p4/5Pb1/P2PPN2/1PP1B1PP/RNBQ1RK1 w - - 1 8,Ideal.
+15,b4,b2b4,r2q1rk1/ppp2ppp/2nbpn2/3p4/1P3Pb1/P2PPN2/2P1B1PP/RNBQ1RK1 b - - 0 8,"Continues queenside attack, prevents black bishop to c5, and allows Bb2 for white which gives white more control over the dark central squares."
+16,a6,a7a6,r2q1rk1/1pp2ppp/p1nbpn2/3p4/1P3Pb1/P2PPN2/2P1B1PP/RNBQ1RK1 w - - 0 9,Prevents b5.
+17,Nbd2,b1d2,r2q1rk1/1pp2ppp/p1nbpn2/3p4/1P3Pb1/P2PPN2/2PNB1PP/R1BQ1RK1 b - - 1 9,"Hoping for c4 next move and if black takes back, I take with my knight and have a temporary outpost on c4."
+18,b5,b7b5,r2q1rk1/2p2ppp/p1nbpn2/1p1p4/1P3Pb1/P2PPN2/2PNB1PP/R1BQ1RK1 w - - 0 10,An effective move that halts my plans for the queenside for now.
+19,Bb2,c1b2,r2q1rk1/2p2ppp/p1nbpn2/1p1p4/1P3Pb1/P2PPN2/1BPNB1PP/R2Q1RK1 b - - 1 10,Fianchettoes the bishop and attacks the dark center squares. Also allows rook c1 which can help support pawn c4 afterwards.
+20,a5,a6a5,r2q1rk1/2p2ppp/2nbpn2/pp1p4/1P3Pb1/P2PPN2/1BPNB1PP/R2Q1RK1 w - - 0 11,Hoping to control b4.

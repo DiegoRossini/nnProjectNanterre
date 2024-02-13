@@ -1,0 +1,71 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's pawn.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queen's pawn.
+3,c3,c2c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2P5/PP2PPPP/RNBQKBNR b KQkq - 0 2,Book.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 1 3,Book.
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2P2N2/PP2PPPP/RNBQKB1R b KQkq - 2 3,Book.
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2P2N2/PP2PPPP/RNBQKB1R w KQkq - 3 4,Book.
+7,h3,h2h3,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2P2N1P/PP2PPP1/RNBQKB1R b KQkq - 0 4,This move generally bodes well for black.  White seems to get a very slight advantage with Bf4 instead.
+8,Ne4,f6e4,r1bqkb1r/ppp1pppp/2n5/3p4/3Pn3/2P2N1P/PP2PPP1/RNBQKB1R w KQkq - 1 5,Off database.
+9,g4,g2g4,r1bqkb1r/ppp1pppp/2n5/3p4/3Pn1P1/2P2N1P/PP2PP2/RNBQKB1R b KQkq - 0 5,:) Going for an early kill.
+10,e5,e7e5,r1bqkb1r/ppp2ppp/2n5/3pp3/3Pn1P1/2P2N1P/PP2PP2/RNBQKB1R w KQkq - 0 6,:) Going for an early kill.
+11,Nxe5,f3e5,r1bqkb1r/ppp2ppp/2n5/3pN3/3Pn1P1/2P4P/PP2PP2/RNBQKB1R b KQkq - 0 6,:) Going for an early kill.
+12,Qh4,d8h4,r1b1kb1r/ppp2ppp/2n5/3pN3/3Pn1Pq/2P4P/PP2PP2/RNBQKB1R w KQkq - 1 7,:) Going for an early kill.
+13,Rh2,h1h2,r1b1kb1r/ppp2ppp/2n5/3pN3/3Pn1Pq/2P4P/PP2PP1R/RNBQKB2 b Qkq - 2 7,Bd6 looks interesting.
+14,Bd6,f8d6,r1b1k2r/ppp2ppp/2nb4/3pN3/3Pn1Pq/2P4P/PP2PP1R/RNBQKB2 w Qkq - 3 8,"Right on.  White will want to move the rook to g2, or black will play Pf6 and dine on horse."
+15,Nd2,b1d2,r1b1k2r/ppp2ppp/2nb4/3pN3/3Pn1Pq/2P4P/PP1NPP1R/R1BQKB2 b Qkq - 4 8,Horse meat is served.
+16,f6,f7f6,r1b1k2r/ppp3pp/2nb1p2/3pN3/3Pn1Pq/2P4P/PP1NPP1R/R1BQKB2 w Qkq - 0 9,Black threatens checkmate again.
+17,Nxc6,e5c6,r1b1k2r/ppp3pp/2Nb1p2/3p4/3Pn1Pq/2P4P/PP1NPP1R/R1BQKB2 b Qkq - 0 9,Black threatens checkmate again.
+18,Bxh2,d6h2,r1b1k2r/ppp3pp/2N2p2/3p4/3Pn1Pq/2P4P/PP1NPP1b/R1BQKB2 w Qkq - 0 10,Black threatens checkmate again.
+19,Nxe4,d2e4,r1b1k2r/ppp3pp/2N2p2/3p4/3PN1Pq/2P4P/PP2PP1b/R1BQKB2 b Qkq - 0 10,Black threatens checkmate again.
+20,dxe4,d5e4,r1b1k2r/ppp3pp/2N2p2/8/3Pp1Pq/2P4P/PP2PP1b/R1BQKB2 w Qkq - 0 11,Black threatens checkmate again.
+21,e3,e2e3,r1b1k2r/ppp3pp/2N2p2/8/3Pp1Pq/2P1P2P/PP3P1b/R1BQKB2 b Qkq - 0 11,Black threatens checkmate again.
+22,bxc6,b7c6,r1b1k2r/p1p3pp/2p2p2/8/3Pp1Pq/2P1P2P/PP3P1b/R1BQKB2 w Qkq - 0 12,Black threatens checkmate again.
+23,d5,d4d5,r1b1k2r/p1p3pp/2p2p2/3P4/4p1Pq/2P1P2P/PP3P1b/R1BQKB2 b Qkq - 0 12,Black threatens checkmate again.
+24,Bg1,h2g1,r1b1k2r/p1p3pp/2p2p2/3P4/4p1Pq/2P1P2P/PP3P2/R1BQKBb1 w Qkq - 1 13,Black threatens checkmate again.
+25,Qe2,d1e2,r1b1k2r/p1p3pp/2p2p2/3P4/4p1Pq/2P1P2P/PP2QP2/R1B1KBb1 b Qkq - 2 13,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+26,cxd5,c6d5,r1b1k2r/p1p3pp/5p2/3p4/4p1Pq/2P1P2P/PP2QP2/R1B1KBb1 w Qkq - 0 14,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+27,b4,b2b4,r1b1k2r/p1p3pp/5p2/3p4/1P2p1Pq/2P1P2P/P3QP2/R1B1KBb1 b Qkq - 0 14,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+28,a5,a7a5,r1b1k2r/2p3pp/5p2/p2p4/1P2p1Pq/2P1P2P/P3QP2/R1B1KBb1 w Qkq - 0 15,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+29,Ba3,c1a3,r1b1k2r/2p3pp/5p2/p2p4/1P2p1Pq/B1P1P2P/P3QP2/R3KBb1 b Qkq - 1 15,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+30,Ba6,c8a6,r3k2r/2p3pp/b4p2/p2p4/1P2p1Pq/B1P1P2P/P3QP2/R3KBb1 w Qkq - 2 16,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+31,b5,b4b5,r3k2r/2p3pp/b4p2/pP1p4/4p1Pq/B1P1P2P/P3QP2/R3KBb1 b Qkq - 0 16,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+32,Bb7,a6b7,r3k2r/1bp3pp/5p2/pP1p4/4p1Pq/B1P1P2P/P3QP2/R3KBb1 w Qkq - 1 17,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+33,Kd2,e1d2,r3k2r/1bp3pp/5p2/pP1p4/4p1Pq/B1P1P2P/P2KQP2/R4Bb1 b kq - 2 17,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+34,c6,c7c6,r3k2r/1b4pp/2p2p2/pP1p4/4p1Pq/B1P1P2P/P2KQP2/R4Bb1 w kq - 0 18,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+35,bxc6,b5c6,r3k2r/1b4pp/2P2p2/p2p4/4p1Pq/B1P1P2P/P2KQP2/R4Bb1 b kq - 0 18,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+36,Bxc6,b7c6,r3k2r/6pp/2b2p2/p2p4/4p1Pq/B1P1P2P/P2KQP2/R4Bb1 w kq - 0 19,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+37,c4,c3c4,r3k2r/6pp/2b2p2/p2p4/2P1p1Pq/B3P2P/P2KQP2/R4Bb1 b kq - 0 19,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+38,dxc4,d5c4,r3k2r/6pp/2b2p2/p7/2p1p1Pq/B3P2P/P2KQP2/R4Bb1 w kq - 0 20,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+39,Qxc4,e2c4,r3k2r/6pp/2b2p2/p7/2Q1p1Pq/B3P2P/P2K1P2/R4Bb1 b kq - 0 20,"O-O-O+ would be fun, though maybe not as much fun as QxPf2+.  Still how often does one get to check by castling?  With QxPf2+ white might interpose the bishop, but then QxPe3+ works--sort of a repeat performance."
+40,Rc8,a8c8,2r1k2r/6pp/2b2p2/p7/2Q1p1Pq/B3P2P/P2K1P2/R4Bb1 w k - 1 21,White's turn to threaten checkmate.
+41,Qc5,c4c5,2r1k2r/6pp/2b2p2/p1Q5/4p1Pq/B3P2P/P2K1P2/R4Bb1 b k - 2 21,White's turn to threaten checkmate.
+42,Qxf2+,h4f2,2r1k2r/6pp/2b2p2/p1Q5/4p1P1/B3P2P/P2K1q2/R4Bb1 w k - 0 22,QxPe3+ forces a trade of queens.  Even exchanges are generally recommended when one enjoys a six point (or seven point with Pe3) material advantage.
+43,Kc3,d2c3,2r1k2r/6pp/2b2p2/p1Q5/4p1P1/B1K1P2P/P4q2/R4Bb1 b k - 1 22,QxPe3+ forces a trade of queens.  Even exchanges are generally recommended when one enjoys a six point (or seven point with Pe3) material advantage.
+44,Bb7,c6b7,2r1k2r/1b4pp/5p2/p1Q5/4p1P1/B1K1P2P/P4q2/R4Bb1 w k - 2 23,But this move is much sweeter.  Queen for rook.  White will want to trade on black's 8th rank to keep the h rook in the corner.
+45,Qxc8+,c5c8,2Q1k2r/1b4pp/5p2/p7/4p1P1/B1K1P2P/P4q2/R4Bb1 b k - 0 23,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+46,Bxc8,b7c8,2b1k2r/6pp/5p2/p7/4p1P1/B1K1P2P/P4q2/R4Bb1 w k - 0 24,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+47,Bc5,a3c5,2b1k2r/6pp/5p2/p1B5/4p1P1/2K1P2P/P4q2/R4Bb1 b k - 1 24,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+48,Kf7,e8f7,2b4r/5kpp/5p2/p1B5/4p1P1/2K1P2P/P4q2/R4Bb1 w - - 2 25,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+49,Bc4+,f1c4,2b4r/5kpp/5p2/p1B5/2B1p1P1/2K1P2P/P4q2/R5b1 b - - 3 25,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+50,Be6,c8e6,7r/5kpp/4bp2/p1B5/2B1p1P1/2K1P2P/P4q2/R5b1 w - - 4 26,"Here Bb3 might be better.  BxB, PxB, and black must defend against RxPa5."
+51,Bxe6+,c4e6,7r/5kpp/4Bp2/p1B5/4p1P1/2K1P2P/P4q2/R5b1 b - - 0 26,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+52,Kxe6,f7e6,7r/6pp/4kp2/p1B5/4p1P1/2K1P2P/P4q2/R5b1 w - - 0 27,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+53,Kb3,c3b3,7r/6pp/4kp2/p1B5/4p1P1/1K2P2P/P4q2/R5b1 b - - 1 27,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+54,Rc8,h8c8,2r5/6pp/4kp2/p1B5/4p1P1/1K2P2P/P4q2/R5b1 w - - 2 28,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+55,Bd4,c5d4,2r5/6pp/4kp2/p7/3Bp1P1/1K2P2P/P4q2/R5b1 b - - 3 28,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+56,Bh2,g1h2,2r5/6pp/4kp2/p7/3Bp1P1/1K2P2P/P4q1b/R7 w - - 4 29,"Oh, I like Qc2+.  That leaves us 29. Ka3, Rc3+ 30 BxRc3, QxBc3+, 31. Ka4, Qb4#.
+But let's see what happens."
+57,Rb1,a1b1,2r5/6pp/4kp2/p7/3Bp1P1/1K2P2P/P4q1b/1R6 b - - 5 29,"Not good at all.  Rb8+ gives black a free rook.  Then again, so does Qc2+."
+58,Qc2+,f2c2,2r5/6pp/4kp2/p7/3Bp1P1/1K2P2P/P1q4b/1R6 w - - 6 30,"Ok, the quickest route I see is 30. Ka3, Bd6+ 31. Bc5 Bxc5+ 32. Rb4 Paxb4#.
+
+You could do it with the queen, but send in the little guy.  They almost never get to commit regicide."
+59,Ka3,b3a3,2r5/6pp/4kp2/p7/3Bp1P1/K3P2P/P1q4b/1R6 b - - 7 30,Bb2 would be a delaying tactic.
+60,Qxb1,c2b1,2r5/6pp/4kp2/p7/3Bp1P1/K3P2P/P6b/1q6 w - - 0 31,Bb2 would be a delaying tactic.
+61,h4,h3h4,2r5/6pp/4kp2/p7/3Bp1PP/K3P3/P6b/1q6 b - - 0 31,Bb2 would be a delaying tactic.
+62,Qb4#,b1b4,2r5/6pp/4kp2/p7/1q1Bp1PP/K3P3/P6b/8 w - - 1 32,

@@ -1,0 +1,90 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"1.d4 d5 2.c4 e5
+Black declines the Queen's Gambit and offer's the Albin Counter-Gambit with d4."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"1.d4 d5 2.c4 e5
+Black declines the Queen's Gambit and offer's the Albin Counter-Gambit with d4."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"1.d4 d5 2.c4 e5
+Black declines the Queen's Gambit and offer's the Albin Counter-Gambit with d4."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"1.d4 d5 2.c4 e5
+Black declines the Queen's Gambit and offer's the Albin Counter-Gambit with d4."
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"3.dxe5 d4 
+I accept the offered pawn. Black is prevented from dxc4, due to Qxd8 Kxd8 losing the ability to castle. Black pushes his pawn forward into my centre."
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"3.dxe5 d4 
+I accept the offered pawn. Black is prevented from dxc4, due to Qxd8 Kxd8 losing the ability to castle. Black pushes his pawn forward into my centre."
+7,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 4,"4.Nf3 Nc6 
+I attack the pawn, Black defends it."
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 5,"4.Nf3 Nc6 
+I attack the pawn, Black defends it."
+9,g3,g2g3,r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 5,"5.g3 Be6 
+Aiming to fiancetto the light squared bishop and enable castling. Black's bishop threatens Bxc4"
+10,Be6,c8e6,r2qkbnr/ppp2ppp/2n1b3/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 6,"5.g3 Be6 
+Aiming to fiancetto the light squared bishop and enable castling. Black's bishop threatens Bxc4"
+11,Nbd2,b1d2,r2qkbnr/ppp2ppp/2n1b3/4P3/2Pp4/5NP1/PP1NPP1P/R1BQKB1R b KQkq - 2 6,"6.Nbd2 Qd7
+Nc3 is prevented by black's pawn on d4, but Nbd2 also defends against BxC4. Black develops Queen to enable Queenside castling."
+12,Qd7,d8d7,r3kbnr/pppq1ppp/2n1b3/4P3/2Pp4/5NP1/PP1NPP1P/R1BQKB1R w KQkq - 3 7,"6.Nbd2 Qd7
+Nc3 is prevented by black's pawn on d4, but Nbd2 also defends against BxC4. Black develops Queen to enable Queenside castling."
+13,Bg2,f1g2,r3kbnr/pppq1ppp/2n1b3/4P3/2Pp4/5NP1/PP1NPPBP/R1BQK2R b KQkq - 4 7,"7.Bg2 O-O-O 
+I fiancetto my light squared Bishop to build up pressure on the centre (Xray on e4, d5, c6). Black castles long."
+14,O-O-O,e8c8,2kr1bnr/pppq1ppp/2n1b3/4P3/2Pp4/5NP1/PP1NPPBP/R1BQK2R w KQ - 5 8,"7.Bg2 O-O-O 
+I fiancetto my light squared Bishop to build up pressure on the centre (Xray on e4, d5, c6). Black castles long."
+15,O-O,e1g1,2kr1bnr/pppq1ppp/2n1b3/4P3/2Pp4/5NP1/PP1NPPBP/R1BQ1RK1 b - - 6 8,"8.O-O h5 
+I castle to defend my King. Black threatens my Kingside with his h-file pawn."
+16,h5,h7h5,2kr1bnr/pppq1pp1/2n1b3/4P2p/2Pp4/5NP1/PP1NPPBP/R1BQ1RK1 w - - 0 9,"8.O-O h5 
+I castle to defend my King. Black threatens my Kingside with his h-file pawn."
+17,Nb3,d2b3,2kr1bnr/pppq1pp1/2n1b3/4P2p/2Pp4/1N3NP1/PP2PPBP/R1BQ1RK1 b - - 1 9,"9.Nb3 h4 - Inaccuracy
+This was an error and I lose the previous positional advantage I have. Computer analysis puts this at -0.12. The pawn on c4 is undefended Bxc4 puts me a pawn down. Qa4 would have been better. However, Black has opted to continue his Kingside attack."
+18,h4,h5h4,2kr1bnr/pppq1pp1/2n1b3/4P3/2Pp3p/1N3NP1/PP2PPBP/R1BQ1RK1 w - - 0 10,"9.Nb3 h4 - Inaccuracy
+This was an error and I lose the previous positional advantage I have. Computer analysis puts this at -0.12. The pawn on c4 is undefended Bxc4 puts me a pawn down. Qa4 would have been better. However, Black has opted to continue his Kingside attack."
+19,Nxh4,f3h4,2kr1bnr/pppq1pp1/2n1b3/4P3/2Pp3N/1N4P1/PP2PPBP/R1BQ1RK1 b - - 0 10,"10.Nxh4 Nxe5
+I need to get rid of that pawn, doing so loses the defense of e5 which is then taken by Black. I have lost control of the centre, and the Kingside."
+20,Nxe5,c6e5,2kr1bnr/pppq1pp1/4b3/4n3/2Pp3N/1N4P1/PP2PPBP/R1BQ1RK1 w - - 0 11,"10.Nxh4 Nxe5
+I need to get rid of that pawn, doing so loses the defense of e5 which is then taken by Black. I have lost control of the centre, and the Kingside."
+21,Bf4,c1f4,2kr1bnr/pppq1pp1/4b3/4n3/2Pp1B1N/1N4P1/PP2PPBP/R2Q1RK1 b - - 1 11,"11.Bf4 Nxc4 
+I develop the dark squared bishop threatening Bxe5 and looking to control the diagonal increasing the threat on Black's Queenside for a later attack."
+22,Nxc4,e5c4,2kr1bnr/pppq1pp1/4b3/8/2np1B1N/1N4P1/PP2PPBP/R2Q1RK1 w - - 0 12,"11.Bf4 Nxc4 
+I develop the dark squared bishop threatening Bxe5 and looking to control the diagonal increasing the threat on Black's Queenside for a later attack."
+23,Rb1,a1b1,2kr1bnr/pppq1pp1/4b3/8/2np1B1N/1N4P1/PP2PPBP/1R1Q1RK1 b - - 1 12,"12.Rb1 Bd6 – Mistake!
+Worried about Nxb2 which would also threaten my Queen on d1 I rush to defend b2 with my rook. Computer analysis puts this at -0.64. However, Bd6 was also a mistake, this time on Black's part (+1.66). ( 13. Qxd4 b6 14. Bxd6 Qxd6 15. Qxg7 would have provided me a + 2 pawns advantage)."
+24,Bd6,f8d6,2kr2nr/pppq1pp1/3bb3/8/2np1B1N/1N4P1/PP2PPBP/1R1Q1RK1 w - - 2 13,"12.Rb1 Bd6 – Mistake!
+Worried about Nxb2 which would also threaten my Queen on d1 I rush to defend b2 with my rook. Computer analysis puts this at -0.64. However, Bd6 was also a mistake, this time on Black's part (+1.66). ( 13. Qxd4 b6 14. Bxd6 Qxd6 15. Qxg7 would have provided me a + 2 pawns advantage)."
+25,Qxd4,d1d4,2kr2nr/pppq1pp1/3bb3/8/2nQ1B1N/1N4P1/PP2PPBP/1R3RK1 b - - 0 13,"13.Qxd4 Kb8
+I have noticed Black's error and taken the pawn that was threatening my position. Black's King defends against Qxa7."
+26,Kb8,c8b8,1k1r2nr/pppq1pp1/3bb3/8/2nQ1B1N/1N4P1/PP2PPBP/1R3RK1 w - - 1 14,"13.Qxd4 Kb8
+I have noticed Black's error and taken the pawn that was threatening my position. Black's King defends against Qxa7."
+27,Rfd1,f1d1,1k1r2nr/pppq1pp1/3bb3/8/2nQ1B1N/1N4P1/PP2PPBP/1R1R2K1 b - - 2 14,"14.Rfd1 Bxf4 – Mistake!
+Rbc1 is better. Qxg7 would have been too greedy as Bxf4, gxf4 weakens my Kingside defense. (14 Rbc1 Qc8 15. Bxd6 Nxd6 16. Qxg7 Nh6 would have won me the pawn after dealing with the Bishop threatening f4.). Black takes my Bishop."
+28,Bxf4,d6f4,1k1r2nr/pppq1pp1/4b3/8/2nQ1b1N/1N4P1/PP2PPBP/1R1R2K1 w - - 0 15,"14.Rfd1 Bxf4 – Mistake!
+Rbc1 is better. Qxg7 would have been too greedy as Bxf4, gxf4 weakens my Kingside defense. (14 Rbc1 Qc8 15. Bxd6 Nxd6 16. Qxg7 Nh6 would have won me the pawn after dealing with the Bishop threatening f4.). Black takes my Bishop."
+29,Qxf4,d4f4,1k1r2nr/pppq1pp1/4b3/8/2n2Q1N/1N4P1/PP2PPBP/1R1R2K1 b - - 0 15,"15.Qxf4 Qxd1+ - Inaccuracy!
+Better was Qxg7 (15. Qxg7 Qxd1+ 16. Rxd1 Rxd1+ 17. Bf1 Be5 18. Qf8+ Bc8 19. Qc5 Bh3 20. Qf8+ Bc8). Black goes for a sequence of exchanges while I am under check losing tempo with pressure building on my Kingside."
+30,Qxd1+,d7d1,1k1r2nr/ppp2pp1/4b3/8/2n2Q1N/1N4P1/PP2PPBP/1R1q2K1 w - - 0 16,"15.Qxf4 Qxd1+ - Inaccuracy!
+Better was Qxg7 (15. Qxg7 Qxd1+ 16. Rxd1 Rxd1+ 17. Bf1 Be5 18. Qf8+ Bc8 19. Qc5 Bh3 20. Qf8+ Bc8). Black goes for a sequence of exchanges while I am under check losing tempo with pressure building on my Kingside."
+31,Rxd1,b1d1,1k1r2nr/ppp2pp1/4b3/8/2n2Q1N/1N4P1/PP2PPBP/3R2K1 b - - 0 16,"16.Rxd1 Rxd1+ 17.Bf1 Nf6
+This was forced. Black develops his knight to aid his attack on my Kingside."
+32,Rxd1+,d8d1,1k4nr/ppp2pp1/4b3/8/2n2Q1N/1N4P1/PP2PPBP/3r2K1 w - - 0 17,"16.Rxd1 Rxd1+ 17.Bf1 Nf6
+This was forced. Black develops his knight to aid his attack on my Kingside."
+33,Bf1,g2f1,1k4nr/ppp2pp1/4b3/8/2n2Q1N/1N4P1/PP2PP1P/3r1BK1 b - - 1 17,"16.Rxd1 Rxd1+ 17.Bf1 Nf6
+This was forced. Black develops his knight to aid his attack on my Kingside."
+34,Nf6,g8f6,1k5r/ppp2pp1/4bn2/8/2n2Q1N/1N4P1/PP2PP1P/3r1BK1 w - - 2 18,"16.Rxd1 Rxd1+ 17.Bf1 Nf6
+This was forced. Black develops his knight to aid his attack on my Kingside."
+35,Nd4,b3d4,1k5r/ppp2pp1/4bn2/8/2nN1Q1N/6P1/PP2PP1P/3r1BK1 b - - 3 18,"18.Nd4 Nd5 – Blunder!
+Computer scores this as -6.27. I should have gone with Nf5 to defend my King. Nd4 did have the aim of attacking the Bishop on e6 which was threatening Bh3 (can't take it with my Bishop due to the rook on d1) but I overlooked a quieter move which would have been more useful. Black threatens my Queen."
+36,Nd5,f6d5,1k5r/ppp2pp1/4b3/3n4/2nN1Q1N/6P1/PP2PP1P/3r1BK1 w - - 4 19,"18.Nd4 Nd5 – Blunder!
+Computer scores this as -6.27. I should have gone with Nf5 to defend my King. Nd4 did have the aim of attacking the Bishop on e6 which was threatening Bh3 (can't take it with my Bishop due to the rook on d1) but I overlooked a quieter move which would have been more useful. Black threatens my Queen."
+37,Qf3,f4f3,1k5r/ppp2pp1/4b3/3n4/2nN3N/5QP1/PP2PP1P/3r1BK1 b - - 5 19,"19.Qf3 Bh3 – Blunder!
+I am now at -10.99. I should have attacked the King with Nc6+. If Black responds with bxc6 then I can reply Qxc4 putting my Queen in a position to better defend my King and threaten a King/Rook fork with Qb3+. I had also missed the threat of Bh3 as my Bishop is pinned by the Rook."
+38,Bh3,e6h3,1k5r/ppp2pp1/8/3n4/2nN3N/5QPb/PP2PP1P/3r1BK1 w - - 6 20,"19.Qf3 Bh3 – Blunder!
+I am now at -10.99. I should have attacked the King with Nc6+. If Black responds with bxc6 then I can reply Qxc4 putting my Queen in a position to better defend my King and threaten a King/Rook fork with Qb3+. I had also missed the threat of Bh3 as my Bishop is pinned by the Rook."
+39,Ng2,h4g2,1k5r/ppp2pp1/8/3n4/2nN4/5QPb/PP2PPNP/3r1BK1 b - - 7 20,"20.Ng2 Nd2 – Blunder!
+-23.92. I am clearly done for. Nd2 forks my Queen and the pinned Bishop. I have to lose my Queen to temporarily survive. If I try to save the Queen then Rxf1 is checkmate."
+40,Nd2,c4d2,1k5r/ppp2pp1/8/3n4/3N4/5QPb/PP1nPPNP/3r1BK1 w - - 8 21,"20.Ng2 Nd2 – Blunder!
+-23.92. I am clearly done for. Nd2 forks my Queen and the pinned Bishop. I have to lose my Queen to temporarily survive. If I try to save the Queen then Rxf1 is checkmate."
+41,Ne3,g2e3,1k5r/ppp2pp1/8/3n4/3N4/4NQPb/PP1nPP1P/3r1BK1 b - - 9 21,"21.Ne3 Nxf3+ - Impending Checkmate
+The game is lost, I can not prevent mate."
+42,Nxf3+,d2f3,1k5r/ppp2pp1/8/3n4/3N4/4NnPb/PP2PP1P/3r1BK1 w - - 0 22,"21.Ne3 Nxf3+ - Impending Checkmate
+The game is lost, I can not prevent mate."
+43,Nxf3,d4f3,1k5r/ppp2pp1/8/3n4/8/4NNPb/PP2PP1P/3r1BK1 b - - 0 22,
+44,Nxe3,d5e3,1k5r/ppp2pp1/8/8/8/4nNPb/PP2PP1P/3r1BK1 w - - 0 23,
+45,Nd2,f3d2,1k5r/ppp2pp1/8/8/8/4n1Pb/PP1NPP1P/3r1BK1 b - - 1 23,
+46,Nxf1,e3f1,1k5r/ppp2pp1/8/8/8/6Pb/PP1NPP1P/3r1nK1 w - - 0 24,
+47,Nxf1,d2f1,1k5r/ppp2pp1/8/8/8/6Pb/PP2PP1P/3r1NK1 b - - 0 24,

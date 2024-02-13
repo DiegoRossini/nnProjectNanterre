@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"First glimpse of differing strategies here: White is developing minor pieces, while Black is favoring a pawn push."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"First glimpse of differing strategies here: White is developing minor pieces, while Black is favoring a pawn push."
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,"First glimpse of differing strategies here: White is developing minor pieces, while Black is favoring a pawn push."
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,"First glimpse of differing strategies here: White is developing minor pieces, while Black is favoring a pawn push."
+5,e3,e2e3,rnbqkbnr/pp2pppp/8/2pp4/3P4/2N1P3/PPP2PPP/R1BQKBNR b KQkq - 0 3,"Black threatens a pawn blockade, so White challenges it."
+6,c4,c5c4,rnbqkbnr/pp2pppp/8/3p4/2pP4/2N1P3/PPP2PPP/R1BQKBNR w KQkq - 0 4,"Black threatens a pawn blockade, so White challenges it."
+7,e4,e3e4,rnbqkbnr/pp2pppp/8/3p4/2pPP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"Black threatens a pawn blockade, so White challenges it."
+8,e6,e7e6,rnbqkbnr/pp3ppp/4p3/3p4/2pPP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,"White pursues control of the center, while Black seeks to barricade the center.  The pawn wall is complete."
+9,Qf3,d1f3,rnbqkbnr/pp3ppp/4p3/3p4/2pPP3/2N2Q2/PPP2PPP/R1B1KBNR b KQkq - 1 5,"White pursues control of the center, while Black seeks to barricade the center.  The pawn wall is complete."
+10,Bb4,f8b4,rnbqk1nr/pp3ppp/4p3/3p4/1bpPP3/2N2Q2/PPP2PPP/R1B1KBNR w KQkq - 2 6,Black finally shows some aggression; White meets him piece for piece.
+11,Bd2,c1d2,rnbqk1nr/pp3ppp/4p3/3p4/1bpPP3/2N2Q2/PPPB1PPP/R3KBNR b KQkq - 3 6,Black finally shows some aggression; White meets him piece for piece.
+12,f5,f7f5,rnbqk1nr/pp4pp/4p3/3p1p2/1bpPP3/2N2Q2/PPPB1PPP/R3KBNR w KQkq - 0 7,"Black advances the wall, and White has had enough and moves to break it."
+13,exd5,e4d5,rnbqk1nr/pp4pp/4p3/3P1p2/1bpP4/2N2Q2/PPPB1PPP/R3KBNR b KQkq - 0 7,"Black advances the wall, and White has had enough and moves to break it."
+14,exd5,e6d5,rnbqk1nr/pp4pp/8/3p1p2/1bpP4/2N2Q2/PPPB1PPP/R3KBNR w KQkq - 0 8,"Black tries a largely benign attack, though it does serve to prevent White from castling."
+15,Nxd5,c3d5,rnbqk1nr/pp4pp/8/3N1p2/1bpP4/5Q2/PPPB1PPP/R3KBNR b KQkq - 0 8,"Black tries a largely benign attack, though it does serve to prevent White from castling."
+16,Bxd2+,b4d2,rnbqk1nr/pp4pp/8/3N1p2/2pP4/5Q2/PPPb1PPP/R3KBNR w KQkq - 0 9,"Black tries a largely benign attack, though it does serve to prevent White from castling."
+17,Kxd2,e1d2,rnbqk1nr/pp4pp/8/3N1p2/2pP4/5Q2/PPPK1PPP/R4BNR b kq - 0 9,"A few exchanges later, the board is clear - only now Black is left with stranded pawns and nothing else, while White controls the center with both a queen and a knight, as well as having an open path for his rook."
+18,Nf6,g8f6,rnbqk2r/pp4pp/5n2/3N1p2/2pP4/5Q2/PPPK1PPP/R4BNR w kq - 1 10,Black attempts to challenge White for the center of the board; White aggressively denies him.  Knights are exchanged.
+19,Nxf6+,d5f6,rnbqk2r/pp4pp/5N2/5p2/2pP4/5Q2/PPPK1PPP/R4BNR b kq - 0 10,Black attempts to challenge White for the center of the board; White aggressively denies him.  Knights are exchanged.
+20,Qxf6,d8f6,rnb1k2r/pp4pp/5q2/5p2/2pP4/5Q2/PPPK1PPP/R4BNR w kq - 0 11,Black attempts to challenge White for the center of the board; White aggressively denies him.  Knights are exchanged.
+21,Re1+,a1e1,rnb1k2r/pp4pp/5q2/5p2/2pP4/5Q2/PPPK1PPP/4RBNR b kq - 1 11,"As the dust settles, White begins his assault on Black's king."
+22,Kf7,e8f7,rnb4r/pp3kpp/5q2/5p2/2pP4/5Q2/PPPK1PPP/4RBNR w - - 2 12,"Had Black blocked the check with his bishop, White would have answered with d5.  However, Black chose evasion (potentially looking to get his rook into the game)."
+23,Bxc4+,f1c4,rnb4r/pp3kpp/5q2/5p2/2BP4/5Q2/PPPK1PPP/4R1NR b - - 0 12,"White is relentless, taking a pawn and continuing the pressure on Black."
+24,Kf8,f7f8,rnb2k1r/pp4pp/5q2/5p2/2BP4/5Q2/PPPK1PPP/4R1NR w - - 1 13,"Black could have prolonged the game with Kg6, forcing White into a battle along the edge of the board and possibly opening up with one of his pieces.  However, he retreated instead, sealing his fate."
+25,Qa3+,f3a3,rnb2k1r/pp4pp/5q2/5p2/2BP4/Q7/PPPK1PPP/4R1NR b - - 2 13,"White drives the dagger in.  Black's only option is to block with his queen, and instead of losing another piece, he resigns."

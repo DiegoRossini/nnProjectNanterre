@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+6,dxc3,d4c3,rnbqkbnr/pppp1ppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+7,Nxc3,b1c3,rnbqkbnr/pppp1ppp/8/8/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+8,Bb4,f8b4,rnbqk1nr/pppp1ppp/8/8/1b2P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 5,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+9,Bc4,f1c4,rnbqk1nr/pppp1ppp/8/8/1bB1P3/2N5/PP3PPP/R1BQK1NR b KQkq - 2 5,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+10,Nf6,g8f6,rnbqk2r/pppp1ppp/5n2/8/1bB1P3/2N5/PP3PPP/R1BQK1NR w KQkq - 3 6,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+11,Bxf7+,c4f7,rnbqk2r/pppp1Bpp/5n2/8/1b2P3/2N5/PP3PPP/R1BQK1NR b KQkq - 0 6,"?! - an ambiguous sacrifice. Black loses his castling rights, and if 6...Kxf7 7 Qb3+ regains the piece."
+12,Kf8,e8f8,rnbq1k1r/pppp1Bpp/5n2/8/1b2P3/2N5/PP3PPP/R1BQK1NR w KQ - 1 7,Preferably taking the piece would have been better - 6...Kxf7 7 Qb3+ d5 8. Qxb4 Nxe4 9. Re8 and Black has a good game.
+13,Bd5,f7d5,rnbq1k1r/pppp2pp/5n2/3B4/1b2P3/2N5/PP3PPP/R1BQK1NR b KQ - 2 7,"White is going all out and trying to see how long it takes for Black to crack under the pressure. Maybe 8. Nge2, completing developing and castling, before launching this attack."
+14,Qe7,d8e7,rnb2k1r/ppppq1pp/5n2/3B4/1b2P3/2N5/PP3PPP/R1BQK1NR w KQ - 3 8,"White is going all out and trying to see how long it takes for Black to crack under the pressure. Maybe 8. Nge2, completing developing and castling, before launching this attack."
+15,Bg5,c1g5,rnb2k1r/ppppq1pp/5n2/3B2B1/1b2P3/2N5/PP3PPP/R2QK1NR b KQ - 4 8,"White is going all out and trying to see how long it takes for Black to crack under the pressure. Maybe 8. Nge2, completing developing and castling, before launching this attack."
+16,Qc5,e7c5,rnb2k1r/pppp2pp/5n2/2qB2B1/1b2P3/2N5/PP3PPP/R2QK1NR w KQ - 5 9,"even c6, driving the bishop, is better"
+17,Bxf6,g5f6,rnb2k1r/pppp2pp/5B2/2qB4/1b2P3/2N5/PP3PPP/R2QK1NR b KQ - 0 9,?! - such a risk - White is hoping for 10...Bxc3+ 11. bxc3 Qxc3+ 12. Ke2 Qxa1?? 13. Qf7#.
+18,gxf6,g7f6,rnb2k1r/pppp3p/5p2/2qB4/1b2P3/2N5/PP3PPP/R2QK1NR w KQ - 0 10,?! - such a risk - White is hoping for 10...Bxc3+ 11. bxc3 Qxc3+ 12. Ke2 Qxa1?? 13. Qf7#.
+19,Qh5,d1h5,rnb2k1r/pppp3p/5p2/2qB3Q/1b2P3/2N5/PP3PPP/R3K1NR b KQ - 1 10,?! - such a risk - White is hoping for 10...Bxc3+ 11. bxc3 Qxc3+ 12. Ke2 Qxa1?? 13. Qf7#.
+20,Bxc3+,b4c3,rnb2k1r/pppp3p/5p2/2qB3Q/4P3/2b5/PP3PPP/R3K1NR w KQ - 0 11,Quite.
+21,bxc3,b2c3,rnb2k1r/pppp3p/5p2/2qB3Q/4P3/2P5/P4PPP/R3K1NR b KQ - 0 11,Quite.
+22,Qxc3+,c5c3,rnb2k1r/pppp3p/5p2/3B3Q/4P3/2q5/P4PPP/R3K1NR w KQ - 0 12,Quite.
+23,Ke2,e1e2,rnb2k1r/pppp3p/5p2/3B3Q/4P3/2q5/P3KPPP/R5NR b - - 1 12,Quite.
+24,Ke7,f8e7,rnb4r/ppppk2p/5p2/3B3Q/4P3/2q5/P3KPPP/R5NR w - - 2 13,Quite.
+25,Qf7+,h5f7,rnb4r/ppppkQ1p/5p2/3B4/4P3/2q5/P3KPPP/R5NR b - - 3 13,"?! - Another decoy! This time the threat is 14...Qxc1?? 15. Qxf6+ Ke8 16. Bf7+ Kf8 17. Bg6+ Kg8 18. Qf7#.
+
+Rd1 is probably safer."
+26,Kd8,e7d8,rnbk3r/pppp1Q1p/5p2/3B4/4P3/2q5/P3KPPP/R5NR w - - 4 14,"?! - Another decoy! This time the threat is 14...Qxc1?? 15. Qxf6+ Ke8 16. Bf7+ Kf8 17. Bg6+ Kg8 18. Qf7#.
+
+Rd1 is probably safer."
+27,Rc1,a1c1,rnbk3r/pppp1Q1p/5p2/3B4/4P3/2q5/P3KPPP/2R3NR b - - 5 14,"?! - Another decoy! This time the threat is 14...Qxc1?? 15. Qxf6+ Ke8 16. Bf7+ Kf8 17. Bg6+ Kg8 18. Qf7#.
+
+Rd1 is probably safer."
+28,Qb2+,c3b2,rnbk3r/pppp1Q1p/5p2/3B4/4P3/8/Pq2KPPP/2R3NR w - - 6 15,White starts to go offtrack. Bring the bishop back with 16. Bb3 still keeps deadly threats whilst keeping the deficit to a minimum.
+29,Kf3,e2f3,rnbk3r/pppp1Q1p/5p2/3B4/4P3/5K2/Pq3PPP/2R3NR b - - 7 15,White starts to go offtrack. Bring the bishop back with 16. Bb3 still keeps deadly threats whilst keeping the deficit to a minimum.
+30,c6,c7c6,rnbk3r/pp1p1Q1p/2p2p2/3B4/4P3/5K2/Pq3PPP/2R3NR w - - 0 16,White starts to go offtrack. Bring the bishop back with 16. Bb3 still keeps deadly threats whilst keeping the deficit to a minimum.
+31,Nh3,g1h3,rnbk3r/pp1p1Q1p/2p2p2/3B4/4P3/5K1N/Pq3PPP/2R4R b - - 1 16,White starts to go offtrack. Bring the bishop back with 16. Bb3 still keeps deadly threats whilst keeping the deficit to a minimum.
+32,cxd5,c6d5,rnbk3r/pp1p1Q1p/5p2/3p4/4P3/5K1N/Pq3PPP/2R4R w - - 0 17,"Ruh Roh...Black himself makes a huge error that could give White a huge advantage, but unfortunately, White immediately crumbles. 18...Qf8! keeps Black's advantage - White would be a piece down and would have to trade queens to avoid being mated."
+33,exd5,e4d5,rnbk3r/pp1p1Q1p/5p2/3P4/8/5K1N/Pq3PPP/2R4R b - - 0 17,"Ruh Roh...Black himself makes a huge error that could give White a huge advantage, but unfortunately, White immediately crumbles. 18...Qf8! keeps Black's advantage - White would be a piece down and would have to trade queens to avoid being mated."
+34,Qa3+,b2a3,rnbk3r/pp1p1Q1p/5p2/3P4/8/q4K1N/P4PPP/2R4R w - - 1 18,"Ruh Roh...Black himself makes a huge error that could give White a huge advantage, but unfortunately, White immediately crumbles. 18...Qf8! keeps Black's advantage - White would be a piece down and would have to trade queens to avoid being mated."
+35,Kg4,f3g4,rnbk3r/pp1p1Q1p/5p2/3P4/6K1/q6N/P4PPP/2R4R b - - 2 18,"Ruh Roh...Black himself makes a huge error that could give White a huge advantage, but unfortunately, White immediately crumbles. 18...Qf8! keeps Black's advantage - White would be a piece down and would have to trade queens to avoid being mated."
+36,d6+,d7d6,rnbk3r/pp3Q1p/3p1p2/3P4/6K1/q6N/P4PPP/2R4R w - - 0 19,"Ruh Roh...Black himself makes a huge error that could give White a huge advantage, but unfortunately, White immediately crumbles. 18...Qf8! keeps Black's advantage - White would be a piece down and would have to trade queens to avoid being mated."
+37,Kf4,g4f4,rnbk3r/pp3Q1p/3p1p2/3P4/5K2/q6N/P4PPP/2R4R b - - 1 19,"(??) - White makes a bad error. He should have played 19. Kh4! and Black is faced with his problems, including Qxf6+, Qe6 and Rxc8#. He would give up the knight and in the long run, would be a rook down - White would have a big advantage."
+38,Qa4+,a3a4,rnbk3r/pp3Q1p/3p1p2/3P4/q4K2/7N/P4PPP/2R4R w - - 2 20,"(??) White now loses. He should have played 20. Kf3. In the resulting analysis, he would have to give up his queen, but his first blunder made his position hopeless."
+39,Kg3,f4g3,rnbk3r/pp3Q1p/3p1p2/3P4/q7/6KN/P4PPP/2R4R b - - 3 20,"(??) White now loses. He should have played 20. Kf3. In the resulting analysis, he would have to give up his queen, but his first blunder made his position hopeless."
+40,Qg4#,a4g4,rnbk3r/pp3Q1p/3p1p2/3P4/6q1/6KN/P4PPP/2R4R w - - 4 21,

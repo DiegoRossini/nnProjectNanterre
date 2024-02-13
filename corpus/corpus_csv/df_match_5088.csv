@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A normal opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"my stock response. I have tried out the sicilian (1. ...c4), but didn't like the choices my opponent could have as to how open or closed the game was, and the French (1. ... e6), but quickly found I had a huge space disadvantge, and so retured to this."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The Ruy Lopez, whites most common opening."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"The Ruy Lopez, whites most common opening."
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"The Ruy Lopez, whites most common opening."
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"A little seen response, but a good one. I beleive this is called the Cordel variation, but I'm not sure. It threatens to fork the knight on e5 (after 4. BxN dxB 5. Nxe5 Qd4) and a mate on f7, which will result in black winning back the pawn and having a superior position."
+7,Bxc6,b5c6,r1bqk1nr/pppp1ppp/2B5/2b1p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,My opponent duly obliges and takes the knight.
+8,dxc6,d7c6,r1bqk1nr/ppp2ppp/2p5/2b1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"I continue as planned. In a normal Ruy Lopez position, black would take with the b pawn, to gain more control in the centre."
+9,g3,g2g3,r1bqk1nr/ppp2ppp/2p5/2b1p3/4P3/5NP1/PPPP1P1P/RNBQK2R b KQkq - 0 5,"I'm not sure what this move was for. My opponent doesn't have an LSB to fianchetto, and this just creates weaknesse on g4, h3 and the knight on f3. The only reason I could think of was to move the knight, push f4 and then castle queenside. However, I would continue development before trying anything like this."
+10,Nf6,g8f6,r1bqk2r/ppp2ppp/2p2n2/2b1p3/4P3/5NP1/PPPP1P1P/RNBQK2R w KQkq - 1 6,I continue my development with an attack on the undefended pawn on e4.
+11,Nxe5,f3e5,r1bqk2r/ppp2ppp/2p2n2/2b1N3/4P3/6P1/PPPP1P1P/RNBQK2R b KQkq - 0 6,"My opponent now takes the 'free' pawn on e5. I could take on e4 with my knight, threatening f2, but I prefer..."
+12,Qd4,d8d4,r1b1k2r/ppp2ppp/2p2n2/2b1N3/3qP3/6P1/PPPP1P1P/RNBQK2R w KQkq - 1 7,"Qd4! I threaten mate on f2, the knight on e5 and the pawn on e4."
+13,Nd3,e5d3,r1b1k2r/ppp2ppp/2p2n2/2b5/3qP3/3N2P1/PPPP1P1P/RNBQK2R b KQkq - 2 7,White chooses the lesser of three evils.
+14,Qxe4+,d4e4,r1b1k2r/ppp2ppp/2p2n2/2b5/4q3/3N2P1/PPPP1P1P/RNBQK2R w KQkq - 0 8,"Pins my queen, so I can't take the rook on h1."
+15,Qe2,d1e2,r1b1k2r/ppp2ppp/2p2n2/2b5/4q3/3N2P1/PPPPQP1P/RNB1K2R b KQkq - 1 8,"Pins my queen, so I can't take the rook on h1."
+16,Qxe2+,e4e2,r1b1k2r/ppp2ppp/2p2n2/2b5/8/3N2P1/PPPPqP1P/RNB1K2R w KQkq - 0 9,"Queens swapped, black definitely has the better position, as white cannot castle, and is down on development."
+17,Kxe2,e1e2,r1b1k2r/ppp2ppp/2p2n2/2b5/8/3N2P1/PPPPKP1P/RNB4R b kq - 0 9,"Queens swapped, black definitely has the better position, as white cannot castle, and is down on development."
+18,Bb6,c5b6,r1b1k2r/ppp2ppp/1bp2n2/8/8/3N2P1/PPPPKP1P/RNB4R w kq - 1 10,"I retreat the bishop out of harms way, but I should have gone to d6. b6 loses a piece eventually, as the bichop can't retreat any further."
+19,b3,b2b3,r1b1k2r/ppp2ppp/1bp2n2/8/8/1P1N2P1/P1PPKP1P/RNB4R b kq - 0 10,"My opponent plans to fianchetto his DSB, rather than moving the knight and then the pawn on the d-file. This also sets him up for a Q-side attack."
+20,O-O,e8g8,r1b2rk1/ppp2ppp/1bp2n2/8/8/1P1N2P1/P1PPKP1P/RNB4R w - - 1 11,"I castle, to get my king out of the way and to get the rook involved down the e-file. Perhaps I should have played a6 or a5, to give my Bishop an escape square."
+21,Bb2,c1b2,r1b2rk1/ppp2ppp/1bp2n2/8/8/1P1N2P1/PBPPKP1P/RN5R b - - 2 11,"?? Not sure why I did this, it just loses a piece."
+22,Nd5,f6d5,r1b2rk1/ppp2ppp/1bp5/3n4/8/1P1N2P1/PBPPKP1P/RN5R w - - 3 12,"?? Not sure why I did this, it just loses a piece."
+23,c4,c2c4,r1b2rk1/ppp2ppp/1bp5/3n4/2P5/1P1N2P1/PB1PKP1P/RN5R b - - 0 12,"! The knight is attacked, and when it moves, c5 and then b4 are fatal for my bishop."
+24,Re8+,f8e8,r1b1r1k1/ppp2ppp/1bp5/3n4/2P5/1P1N2P1/PB1PKP1P/RN5R w - - 1 13,"I choose to keep my knight, as the bishop is rather trapped, and win a pawn for the sacrifice."
+25,Kd1,e2d1,r1b1r1k1/ppp2ppp/1bp5/3n4/2P5/1P1N2P1/PB1P1P1P/RN1K3R b - - 2 13,"I choose to keep my knight, as the bishop is rather trapped, and win a pawn for the sacrifice."
+26,Bxf2,b6f2,r1b1r1k1/ppp2ppp/2p5/3n4/2P5/1P1N2P1/PB1P1b1P/RN1K3R w - - 0 14,"I choose to keep my knight, as the bishop is rather trapped, and win a pawn for the sacrifice."
+27,Nxf2,d3f2,r1b1r1k1/ppp2ppp/2p5/3n4/2P5/1P4P1/PB1P1N1P/RN1K3R b - - 0 14,I'm now 2 points down and my opponent has a good position. Its amazing what a few moves can do to a game of chess.
+28,Ne7,d5e7,r1b1r1k1/ppp1nppp/2p5/8/2P5/1P4P1/PB1P1N1P/RN1K3R w - - 1 15,I'm now 2 points down and my opponent has a good position. Its amazing what a few moves can do to a game of chess.

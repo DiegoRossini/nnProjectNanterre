@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g3,g2g3,rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1,?
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2,?
+3,Bg2,f1g2,rnbqkbnr/pppp1ppp/8/4p3/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2,?
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3,?
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/3pp3/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 1 3,?
+6,e4,e5e4,rnbqkbnr/ppp2ppp/8/3p4/4p3/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 4,? Running low on squares.
+7,Nd4,f3d4,rnbqkbnr/ppp2ppp/8/3p4/3Np3/6P1/PPPPPPBP/RNBQK2R b KQkq - 1 4,? Running low on squares.
+8,c5,c7c5,rnbqkbnr/pp3ppp/8/2pp4/3Np3/6P1/PPPPPPBP/RNBQK2R w KQkq - 0 5,? Running low on squares.
+9,Nb5,d4b5,rnbqkbnr/pp3ppp/8/1Npp4/4p3/6P1/PPPPPPBP/RNBQK2R b KQkq - 1 5,? Running low on squares.
+10,a6,a7a6,rnbqkbnr/1p3ppp/p7/1Npp4/4p3/6P1/PPPPPPBP/RNBQK2R w KQkq - 0 6,!? Nail in the knights coffin.
+11,Nb5a3,b5a3,rnbqkbnr/1p3ppp/p7/2pp4/4p3/N5P1/PPPPPPBP/RNBQK2R b KQkq - 1 6,!? Nail in the knights coffin.
+12,b5,b7b5,rnbqkbnr/5ppp/p7/1ppp4/4p3/N5P1/PPPPPPBP/RNBQK2R w KQkq - 0 7,!? Nail in the knights coffin.
+13,d3,d2d3,rnbqkbnr/5ppp/p7/1ppp4/4p3/N2P2P1/PPP1PPBP/RNBQK2R b KQkq - 0 7,? Trapping knight on a3. But so far theoretical. All blacks moves are pawn moves - potentially permanent weakening moves. Weighed against whites fast development who knows what is going on here!?
+14,b4,b5b4,rnbqkbnr/5ppp/p7/2pp4/1p2p3/N2P2P1/PPP1PPBP/RNBQK2R w KQkq - 0 8,!?  [ 8. dxe4 bxa3 9. exd6 axb3 10. Bxb2 and white has strong bishops against blacks exposed king.]
+15,c4,c2c4,rnbqkbnr/5ppp/p7/2pp4/1pP1p3/N2P2P1/PP2PPBP/RNBQK2R b KQkq c3 0 8,!?  [ 8. dxe4 bxa3 9. exd6 axb3 10. Bxb2 and white has strong bishops against blacks exposed king.]
+16,bxa3,b4a3,rnbqkbnr/5ppp/p7/2pp4/2P1p3/p2P2P1/PP2PPBP/RNBQK2R w KQkq - 0 9,9. bxa3 Qf6!
+17,cxd5,c4d5,rnbqkbnr/5ppp/p7/2pP4/4p3/p2P2P1/PP2PPBP/RNBQK2R b KQkq - 0 9,9. bxa3 Qf6!
+18,axb2,a3b2,rnbqkbnr/5ppp/p7/2pP4/4p3/3P2P1/Pp2PPBP/RNBQK2R w KQkq - 0 10,[ worse is 9... Qa5+? 10. Nd2 [10. Nc3? Nd7 11. dxe4 Rb8! and white faces considerable difficulties] ]
+19,Bxb2,c1b2,rnbqkbnr/5ppp/p7/2pP4/4p3/3P2P1/PB2PPBP/RN1QK2R b KQkq - 0 10,And after the smoke has cleared white is a pawn down but for obvious attacking compensation.
+20,Nd7,b8d7,r1bqkbnr/3n1ppp/p7/2pP4/4p3/3P2P1/PB2PPBP/RN1QK2R w KQkq - 1 11,And after the smoke has cleared white is a pawn down but for obvious attacking compensation.
+21,dxe4,d3e4,r1bqkbnr/3n1ppp/p7/2pP4/4P3/6P1/PB2PPBP/RN1QK2R b KQkq - 0 11,And after the smoke has cleared white is a pawn down but for obvious attacking compensation.
+22,Rb8,a8b8,1rbqkbnr/3n1ppp/p7/2pP4/4P3/6P1/PB2PPBP/RN1QK2R w KQk - 1 12,"Creating short and long term threats. Eg, ..c4, ..Bc5 ..Nf6-g4, etc.."
+23,Qc2,d1c2,1rbqkbnr/3n1ppp/p7/2pP4/4P3/6P1/PBQ1PPBP/RN2K2R b KQk - 2 12,"Creating short and long term threats. Eg, ..c4, ..Bc5 ..Nf6-g4, etc.."
+24,Qb6,d8b6,1rb1kbnr/3n1ppp/pq6/2pP4/4P3/6P1/PBQ1PPBP/RN2K2R w KQk - 3 13,"Creating short and long term threats. Eg, ..c4, ..Bc5 ..Nf6-g4, etc.."
+25,Bc3,b2c3,1rb1kbnr/3n1ppp/pq6/2pP4/4P3/2B3P1/P1Q1PPBP/RN2K2R b KQk - 4 13,A useful pin against White's unprotected queen.
+26,Qg6,b6g6,1rb1kbnr/3n1ppp/p5q1/2pP4/4P3/2B3P1/P1Q1PPBP/RN2K2R w KQk - 5 14,A useful pin against White's unprotected queen.
+27,Nd2,b1d2,1rb1kbnr/3n1ppp/p5q1/2pP4/4P3/2B3P1/P1QNPPBP/R3K2R b KQk - 6 14,Threatening 15... Nxd5!
+28,Ngf6,g8f6,1rb1kb1r/3n1ppp/p4nq1/2pP4/4P3/2B3P1/P1QNPPBP/R3K2R w KQk - 7 15,Threatening 15... Nxd5!
+29,Qa4,c2a4,1rb1kb1r/3n1ppp/p4nq1/2pP4/Q3P3/2B3P1/P2NPPBP/R3K2R b KQk - 8 15,!
+30,Ng4,f6g4,1rb1kb1r/3n1ppp/p5q1/2pP4/Q3P1n1/2B3P1/P2NPPBP/R3K2R w KQk - 9 16,"15...Bd7 16. e5 Ng4 17. Be4 Qh6 18. d6! and things look bleak for black due to imminent strikes like Nc4, Bf5, e6!"
+31,h3,h2h3,1rb1kb1r/3n1ppp/p5q1/2pP4/Q3P1n1/2B3PP/P2NPPB1/R3K2R b KQk - 0 16,!! Good try.   White though once again plays solidly.
+32,Ne3,g4e3,1rb1kb1r/3n1ppp/p5q1/2pP4/Q3P3/2B1n1PP/P2NPPB1/R3K2R w KQk - 1 17,!! Good try.   White though once again plays solidly.
+33,Bf3,g2f3,1rb1kb1r/3n1ppp/p5q1/2pP4/Q3P3/2B1nBPP/P2NPP2/R3K2R b KQk - 2 17,!   [ 17. fxe3 Qxg3+ 18. Kf1 Qxe3 19. Qc4 Qf4+ 20. Nf3 Bd6 and black has good chances. ]
+34,Rb5,b8b5,2b1kb1r/3n1ppp/p5q1/1rpP4/Q3P3/2B1nBPP/P2NPP2/R3K2R w KQk - 3 18,"Black overlooked 17. Bf3! and now has a stranded knight. If white can play Rg1 then all his problems are solved.   After 17...Rb5 however things are a little more complicated.   Threatening 18...Nb6 which, amazingly, wins the white queen! [ 18. Rg1 Nb6! 19. Qa3 Nc2+ ]"
+35,fxe3,f2e3,2b1kb1r/3n1ppp/p5q1/1rpP4/Q3P3/2B1PBPP/P2NP3/R3K2R b KQk - 0 18,Effectively forced. (See previous note)  [ 18. Nc4? Nxc4 19. Qxc4 Nb6 20. Qd3 Na4 and black stands much better. ]
+36,Nb6,d7b6,2b1kb1r/5ppp/pn4q1/1rpP4/Q3P3/2B1PBPP/P2NP3/R3K2R w KQk - 1 19,Discovered attack! White is becoming enormously cramped and i think black has adequate compensation for the knight sacrifice.
+37,Qa3,a4a3,2b1kb1r/5ppp/pn4q1/1rpP4/4P3/Q1B1PBPP/P2NP3/R3K2R b KQk - 2 19,Discovered attack! White is becoming enormously cramped and i think black has adequate compensation for the knight sacrifice.
+38,Qxg3+,g6g3,2b1kb1r/5ppp/pn6/1rpP4/4P3/Q1B1PBqP/P2NP3/R3K2R w KQk - 0 20,Discovered attack! White is becoming enormously cramped and i think black has adequate compensation for the knight sacrifice.
+39,Kd1,e1d1,2b1kb1r/5ppp/pn6/1rpP4/4P3/Q1B1PBqP/P2NP3/R2K3R b k - 1 20,Discovered attack! White is becoming enormously cramped and i think black has adequate compensation for the knight sacrifice.
+40,c4,c5c4,2b1kb1r/5ppp/pn6/1r1P4/2p1P3/Q1B1PBqP/P2NP3/R2K3R w k - 0 21,Discovered attack! White is becoming enormously cramped and i think black has adequate compensation for the knight sacrifice.
+41,Qc1,a3c1,2b1kb1r/5ppp/pn6/1r1P4/2p1P3/2B1PBqP/P2NP3/R1QK3R b k - 1 21,22...Rc5 23. Bd4.
+42,Bd7,c8d7,4kb1r/3b1ppp/pn6/1r1P4/2p1P3/2B1PBqP/P2NP3/R1QK3R w k - 2 22,22...Rc5 23. Bd4.
+43,a4,a2a4,4kb1r/3b1ppp/pn6/1r1P4/P1p1P3/2B1PBqP/3NP3/R1QK3R b k - 0 22,22...Rc5 23. Bd4.
+44,Rb4,b5b4,4kb1r/3b1ppp/pn6/3P4/Prp1P3/2B1PBqP/3NP3/R1QK3R w k - 1 23,22...Rc5 23. Bd4.
+45,Qc2,c1c2,4kb1r/3b1ppp/pn6/3P4/Prp1P3/2B1PBqP/2QNP3/R2K3R b k - 2 23,"Why not take the rook, like everybody else would!!??  The obvious 23. Bxb4 Bxb4 24. Nxc4 looks OK to me."

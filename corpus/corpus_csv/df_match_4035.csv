@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Threatens the pawn with the knight.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Threatens the pawn with the knight.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Threatens the pawn with the knight.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is a very attacking move.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,This is a very attacking move.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"Not a very good move, leads to the Fried Liver Gambit."
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Threatens Nxf7.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,The only way to block the threat.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Some people think the exchange can be dangerous.
+10,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,Some people think the exchange can be dangerous.
+11,Nxf7,g5f7,r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,The gambit.
+12,Kxf7,e8f7,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R w KQ - 0 7,Checking the king and threatening the knight on d5.
+13,Qf3+,d1f3,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R b KQ - 1 7,Checking the king and threatening the knight on d5.
+14,Ke6,f7e6,r1bq1b1r/ppp3pp/2n1k3/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R w KQ - 2 8,The only way to protect the knight.
+15,Nc3,b1c3,r1bq1b1r/ppp3pp/2n1k3/3np3/2B5/2N2Q2/PPPP1PPP/R1B1K2R b KQ - 3 8,The pinned knight is troubled.
+16,Nce7,c6e7,r1bq1b1r/ppp1n1pp/4k3/3np3/2B5/2N2Q2/PPPP1PPP/R1B1K2R w KQ - 4 9,"If the pawn is taken, white wins the knight after: exd4 10. Qe4. The king moves out of check and white takes the knight with the knight or the bishop."
+17,d4,d2d4,r1bq1b1r/ppp1n1pp/4k3/3np3/2BP4/2N2Q2/PPP2PPP/R1B1K2R b KQ - 0 9,"If the pawn is taken, white wins the knight after: exd4 10. Qe4. The king moves out of check and white takes the knight with the knight or the bishop."
+18,c6,c7c6,r1bq1b1r/pp2n1pp/2p1k3/3np3/2BP4/2N2Q2/PPP2PPP/R1B1K2R w KQ - 0 10,Extra protection.
+19,dxe5,d4e5,r1bq1b1r/pp2n1pp/2p1k3/3nP3/2B5/2N2Q2/PPP2PPP/R1B1K2R b KQ - 0 10,Threatening to eliminate one of the knights protecters.
+20,g6,g7g6,r1bq1b1r/pp2n2p/2p1k1p1/3nP3/2B5/2N2Q2/PPP2PPP/R1B1K2R w KQ - 0 11,Threatening to eliminate one of the knights protecters.
+21,Bg5,c1g5,r1bq1b1r/pp2n2p/2p1k1p1/3nP1B1/2B5/2N2Q2/PPP2PPP/R3K2R b KQ - 1 11,Threatening to eliminate one of the knights protecters.
+22,h6,h7h6,r1bq1b1r/pp2n3/2p1k1pp/3nP1B1/2B5/2N2Q2/PPP2PPP/R3K2R w KQ - 0 12,A weak attempt to stop the bishop on g5.
+23,Bxe7,g5e7,r1bq1b1r/pp2B3/2p1k1pp/3nP3/2B5/2N2Q2/PPP2PPP/R3K2R b KQ - 0 12,"Takes the knight, and black's knight is now slightly more unprotected."
+24,Bxe7,f8e7,r1bq3r/pp2b3/2p1k1pp/3nP3/2B5/2N2Q2/PPP2PPP/R3K2R w KQ - 0 13,The knight is now under heaps of pressure.
+25,O-O-O,e1c1,r1bq3r/pp2b3/2p1k1pp/3nP3/2B5/2N2Q2/PPP2PPP/2KR3R b - - 1 13,The knight is now under heaps of pressure.
+26,Bg5+,e7g5,r1bq3r/pp6/2p1k1pp/3nP1b1/2B5/2N2Q2/PPP2PPP/2KR3R w - - 2 14,"Preparing for Rd8, giving extra protection."
+27,Kb1,c1b1,r1bq3r/pp6/2p1k1pp/3nP1b1/2B5/2N2Q2/PPP2PPP/1K1R3R b - - 3 14,"Preparing for Rd8, giving extra protection."
+28,Qd7,d8d7,r1b4r/pp1q4/2p1k1pp/3nP1b1/2B5/2N2Q2/PPP2PPP/1K1R3R w - - 4 15,"Preparing for Rd8, giving extra protection."
+29,Rhe1,h1e1,r1b4r/pp1q4/2p1k1pp/3nP1b1/2B5/2N2Q2/PPP2PPP/1K1RR3 b - - 5 15,"Ignoring the exchange which will come to white's advantage, white instead prepares for an attack."
+30,Rd8,h8d8,r1br4/pp1q4/2p1k1pp/3nP1b1/2B5/2N2Q2/PPP2PPP/1K1RR3 w - - 6 16,The king must give up the protection of the knight.
+31,Qg4+,f3g4,r1br4/pp1q4/2p1k1pp/3nP1b1/2B3Q1/2N5/PPP2PPP/1K1RR3 b - - 7 16,The king must give up the protection of the knight.
+32,Ke7,e6e7,r1br4/pp1qk3/2p3pp/3nP1b1/2B3Q1/2N5/PPP2PPP/1K1RR3 w - - 8 17,"Finally, the knight is taken."
+33,Nxd5+,c3d5,r1br4/pp1qk3/2p3pp/3NP1b1/2B3Q1/8/PPP2PPP/1K1RR3 b - - 0 17,"Finally, the knight is taken."

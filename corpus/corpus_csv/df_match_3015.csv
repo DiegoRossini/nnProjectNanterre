@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Short game. Black did well till the 10th move and a couple of mistakes after.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Central game, gambit refused"
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Central game, gambit refused"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"Central game, gambit refused"
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,"The most logical move, aiming at the center"
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+7,dxe5,d4e5,r1bqkbnr/ppp2ppp/2np4/4P3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+8,Bg4,c8g4,r2qkbnr/ppp2ppp/2np4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+9,Be2,f1e2,r2qkbnr/ppp2ppp/2np4/4P3/4P1b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 2 5,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+10,f6,f7f6,r2qkbnr/ppp3pp/2np1p2/4P3/4P1b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+11,exd6,e5d6,r2qkbnr/ppp3pp/2nP1p2/8/4P1b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 0 6,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+12,Bxd6,f8d6,r2qk1nr/ppp3pp/2nb1p2/8/4P1b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 7,White gets material advantage but black has 4 pieces out against 3 for white (gambit situation)
+13,Be3,c1e3,r2qk1nr/ppp3pp/2nb1p2/8/4P1b1/4BN2/PPP1BPPP/RN1QK2R b KQkq - 1 7,"White has to develop quickly. It's hard for black to castle short because the g knight cannot go to f6 and h6 is a bad place. Furthermore, the pawn f6 opens the diagonal a2-g8 for the white bishop. On the other hand, both white bishops aim at the black queen side and can be dangerous in case of long castle."
+14,Qe7,d8e7,r3k1nr/ppp1q1pp/2nb1p2/8/4P1b1/4BN2/PPP1BPPP/RN1QK2R w KQkq - 2 8,To eject the ennoying black bishop
+15,h3,h2h3,r3k1nr/ppp1q1pp/2nb1p2/8/4P1b1/4BN1P/PPP1BPP1/RN1QK2R b KQkq - 0 8,To eject the ennoying black bishop
+16,Be6,g4e6,r3k1nr/ppp1q1pp/2nbbp2/8/4P3/4BN1P/PPP1BPP1/RN1QK2R w KQkq - 1 9,Long castle for black whith white DSB aiming at a7... danger
+17,O-O,e1g1,r3k1nr/ppp1q1pp/2nbbp2/8/4P3/4BN1P/PPP1BPP1/RN1Q1RK1 b kq - 2 9,Long castle for black whith white DSB aiming at a7... danger
+18,O-O-O,e8c8,2kr2nr/ppp1q1pp/2nbbp2/8/4P3/4BN1P/PPP1BPP1/RN1Q1RK1 w - - 3 10,Long castle for black whith white DSB aiming at a7... danger
+19,Bd3,e2d3,2kr2nr/ppp1q1pp/2nbbp2/8/4P3/3BBN1P/PPP2PP1/RN1Q1RK1 b - - 4 10,Protecting the e pawn and allowing the queen to come on e2
+20,Ne5,c6e5,2kr2nr/ppp1q1pp/3bbp2/4n3/4P3/3BBN1P/PPP2PP1/RN1Q1RK1 w - - 5 11,Mistake
+21,Bxa7,e3a7,2kr2nr/Bpp1q1pp/3bbp2/4n3/4P3/3B1N1P/PPP2PP1/RN1Q1RK1 b - - 0 11,2 pawns advance for white and a hole near the king
+22,Kd7,c8d7,3r2nr/Bppkq1pp/3bbp2/4n3/4P3/3B1N1P/PPP2PP1/RN1Q1RK1 w - - 1 12,"Weak move, I suppose. It let the initiative to the white and the b pawn is now unprotected."
+23,Nc3,b1c3,3r2nr/Bppkq1pp/3bbp2/4n3/4P3/2NB1N1P/PPP2PP1/R2Q1RK1 b - - 2 12,"to developp and aim at b5 and d5, two important squares"
+24,c6,c7c6,3r2nr/Bp1kq1pp/2pbbp2/4n3/4P3/2NB1N1P/PPP2PP1/R2Q1RK1 w - - 0 13,defending the e pawn and aiming at d5 with the eventuallity of a sacrifice to oblige the c pawn to move.
+25,Qe2,d1e2,3r2nr/Bp1kq1pp/2pbbp2/4n3/4P3/2NB1N1P/PPP1QPP1/R4RK1 b - - 1 13,defending the e pawn and aiming at d5 with the eventuallity of a sacrifice to oblige the c pawn to move.
+26,Nxd3,e5d3,3r2nr/Bp1kq1pp/2pbbp2/8/4P3/2Nn1N1P/PPP1QPP1/R4RK1 w - - 0 14,It supress a menace but weakens black center and the exchanges are good for the one with material advance
+27,Qxd3,e2d3,3r2nr/Bp1kq1pp/2pbbp2/8/4P3/2NQ1N1P/PPP2PP1/R4RK1 b - - 0 14,Now black DSB is pined
+28,Ke8,d7e8,3rk1nr/Bp2q1pp/2pbbp2/8/4P3/2NQ1N1P/PPP2PP1/R4RK1 w - - 1 15,To permit the d rook to menace the white queen but letting the initiative to white. Now it will be hard for black to join both rooks
+29,Qe3,d3e3,3rk1nr/Bp2q1pp/2pbbp2/8/4P3/2N1QN1P/PPP2PP1/R4RK1 b - - 2 15,"To escape the d rook menace, protect the  bishop in a7 and create a menace on e file (permiting e5)"
+30,Bc4,e6c4,3rk1nr/Bp2q1pp/2pb1p2/8/2b1P3/2N1QN1P/PPP2PP1/R4RK1 w - - 3 16,This move achieves nothing. White anyway planned to send the f rook on e1 or d1
+31,Rfe1,f1e1,3rk1nr/Bp2q1pp/2pb1p2/8/2b1P3/2N1QN1P/PPP2PP1/R3R1K1 b - - 4 16,I hesitated between 16. Re1 and 16. Rd1 to settle on the open file. I finally opted for e1 because I planned to play e5 as soon as possible and because the a rook can come on d1.
+32,Be6,c4e6,3rk1nr/Bp2q1pp/2pbbp2/8/4P3/2N1QN1P/PPP2PP1/R3R1K1 w - - 5 17,"Back home. The 15th and 16th moves have achieved nothing, except the white's position is better."

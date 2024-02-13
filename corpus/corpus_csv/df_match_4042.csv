@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"One of the wise moves, here."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"One of the wise moves, here."
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"One of the wise moves, here."
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,"One of the wise moves, here."
+5,Nf3,g1f3,rnb1kbnr/ppp1pppp/8/3q4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 3,"One of the wise moves, here."
+6,Bf5,c8f5,rn2kbnr/ppp1pppp/8/3q1b2/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 4,"Necessary to block the white knight from b or d5, and to provide the queen hers best square, c7."
+7,d3,d2d3,rn2kbnr/ppp1pppp/8/3q1b2/8/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Necessary to block the white knight from b or d5, and to provide the queen hers best square, c7."
+8,c6,c7c6,rn2kbnr/pp2pppp/2p5/3q1b2/8/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,"Necessary to block the white knight from b or d5, and to provide the queen hers best square, c7."
+9,Nc3,b1c3,rn2kbnr/pp2pppp/2p5/3q1b2/8/2NP1N2/PPP2PPP/R1BQKB1R b KQkq - 1 5,c7 is on the reach. No danger from the discovered threat to the queen. So I can go on developing.
+10,Qa5,d5a5,rn2kbnr/pp2pppp/2p5/q4b2/8/2NP1N2/PPP2PPP/R1BQKB1R w KQkq - 2 6,c7 is on the reach. No danger from the discovered threat to the queen. So I can go on developing.
+11,Bd2,c1d2,rn2kbnr/pp2pppp/2p5/q4b2/8/2NP1N2/PPPB1PPP/R2QKB1R b KQkq - 3 6,c7 is on the reach. No danger from the discovered threat to the queen. So I can go on developing.
+12,e6,e7e6,rn2kbnr/pp3ppp/2p1p3/q4b2/8/2NP1N2/PPPB1PPP/R2QKB1R w KQkq - 0 7,Assuming Nh4 exchanges my bishop. No problem. The h column will be opened for me.
+13,a3,a2a3,rn2kbnr/pp3ppp/2p1p3/q4b2/8/P1NP1N2/1PPB1PPP/R2QKB1R b KQkq - 0 7,"If b4, Qc7, and if b5, I hold the exchange.  But white failed to occupy the good black diagonal."
+14,Bd6,f8d6,rn2k1nr/pp3ppp/2pbp3/q4b2/8/P1NP1N2/1PPB1PPP/R2QKB1R w KQkq - 1 8,"If b4, Qc7, and if b5, I hold the exchange.  But white failed to occupy the good black diagonal."
+15,Be2,f1e2,rn2k1nr/pp3ppp/2pbp3/q4b2/8/P1NP1N2/1PPBBPPP/R2QK2R b KQkq - 2 8,"Preparing to castle, but nothing more. White evaluated that the discovered attack leads to nothing."
+16,Nf6,g8f6,rn2k2r/pp3ppp/2pbpn2/q4b2/8/P1NP1N2/1PPBBPPP/R2QK2R w KQkq - 3 9,Tempting him. Ne7 would have been more solid.
+17,Ne4,c3e4,rn2k2r/pp3ppp/2pbpn2/q4b2/4N3/P2P1N2/1PPBBPPP/R2QK2R b KQkq - 4 9,"He acccepts the bite, and must choose between scramble my pawns or get rid of my good dsb."
+18,Qc7,a5c7,rn2k2r/ppq2ppp/2pbpn2/5b2/4N3/P2P1N2/1PPBBPPP/R2QK2R w KQkq - 5 10,"NxN scrambles my pawns, but opens a column for my rook, too."
+19,Nxd6+,e4d6,rn2k2r/ppq2ppp/2pNpn2/5b2/8/P2P1N2/1PPBBPPP/R2QK2R b KQkq - 0 10,"NxN scrambles my pawns, but opens a column for my rook, too."
+20,Qxd6,c7d6,rn2k2r/pp3ppp/2pqpn2/5b2/8/P2P1N2/1PPBBPPP/R2QK2R w KQkq - 0 11,"Now there is not a knight threat on the 5th row, so no problem in breaking my fortress if I am winning tempo and occupying the center in the process."
+21,Bb4,d2b4,rn2k2r/pp3ppp/2pqpn2/5b2/1B6/P2P1N2/1PP1BPPP/R2QK2R b KQkq - 1 11,"Now there is not a knight threat on the 5th row, so no problem in breaking my fortress if I am winning tempo and occupying the center in the process."
+22,c5,c6c5,rn2k2r/pp3ppp/3qpn2/2p2b2/1B6/P2P1N2/1PP1BPPP/R2QK2R w KQkq - 0 12,"Now there is not a knight threat on the 5th row, so no problem in breaking my fortress if I am winning tempo and occupying the center in the process."
+23,Bc3,b4c3,rn2k2r/pp3ppp/3qpn2/2p2b2/8/P1BP1N2/1PP1BPPP/R2QK2R b KQkq - 1 12,"He again can scramble my pawns, but I decided to afford it."
+24,O-O,e8g8,rn3rk1/pp3ppp/3qpn2/2p2b2/8/P1BP1N2/1PP1BPPP/R2QK2R w KQ - 2 13,"Into the wolf's mouth, as we'll say in Italy :-)"
+25,Be5,c3e5,rn3rk1/pp3ppp/3qpn2/2p1Bb2/8/P2P1N2/1PP1BPPP/R2QK2R b KQ - 3 13,"Yes, give me your best piece! :-)"
+26,Qb6,d6b6,rn3rk1/pp3ppp/1q2pn2/2p1Bb2/8/P2P1N2/1PP1BPPP/R2QK2R w KQ - 4 14,"Yes, give me your best piece! :-)"
+27,Bxf6,e5f6,rn3rk1/pp3ppp/1q2pB2/2p2b2/8/P2P1N2/1PP1BPPP/R2QK2R b KQ - 0 14,"Yes, give me your best piece! :-)"
+28,gxf6,g7f6,rn3rk1/pp3p1p/1q2pp2/2p2b2/8/P2P1N2/1PP1BPPP/R2QK2R w KQ - 0 15,The center is mine. And the kingside will hold for some more moves.
+29,Qc1,d1c1,rn3rk1/pp3p1p/1q2pp2/2p2b2/8/P2P1N2/1PP1BPPP/R1Q1K2R b KQ - 1 15,The center is mine. And the kingside will hold for some more moves.
+30,Nc6,b8c6,r4rk1/pp3p1p/1qn1pp2/2p2b2/8/P2P1N2/1PP1BPPP/R1Q1K2R w KQ - 2 16,"It was important to block Nc5, but I will fail."
+31,Nd2,f3d2,r4rk1/pp3p1p/1qn1pp2/2p2b2/8/P2P4/1PPNBPPP/R1Q1K2R b KQ - 3 16,"It was important to block Nc5, but I will fail."
+32,Ne5,c6e5,r4rk1/pp3p1p/1q2pp2/2p1nb2/8/P2P4/1PPNBPPP/R1Q1K2R w KQ - 4 17,"It was important to block Nc5, but I will fail."
+33,h3,h2h3,r4rk1/pp3p1p/1q2pp2/2p1nb2/8/P2P3P/1PPNBPP1/R1Q1K2R b KQ - 0 17,"Not f4, unless he planned to castle queenside."
+34,Rad8,a8d8,3r1rk1/pp3p1p/1q2pp2/2p1nb2/8/P2P3P/1PPNBPP1/R1Q1K2R w KQ - 1 18,A white attempt to contest the center must be hold.
+35,f4,f2f4,3r1rk1/pp3p1p/1q2pp2/2p1nb2/5P2/P2P3P/1PPNB1P1/R1Q1K2R b KQ - 0 18,"A blunder, since my bishop is trapped after g4. He must have believed in a trap, and probably it was risky for him, after all."
+36,Ng6,e5g6,3r1rk1/pp3p1p/1q2ppn1/2p2b2/5P2/P2P3P/1PPNB1P1/R1Q1K2R w KQ - 1 19,"A blunder, since my bishop is trapped after g4. He must have believed in a trap, and probably it was risky for him, after all."
+37,Nc4,d2c4,3r1rk1/pp3p1p/1q2ppn1/2p2b2/2N2P2/P2P3P/1PP1B1P1/R1Q1K2R b KQ - 2 19,"Now Bf3... my God, I'm fried!"
+38,Qc6,b6c6,3r1rk1/pp3p1p/2q1ppn1/2p2b2/2N2P2/P2P3P/1PP1B1P1/R1Q1K2R w KQ - 3 20,"Now Bf3... my God, I'm fried!"
+39,O-O,e1g1,3r1rk1/pp3p1p/2q1ppn1/2p2b2/2N2P2/P2P3P/1PP1B1P1/R1Q2RK1 b - - 4 20,"Planning Qc7 to have some compensation. If c3, it will be my advantage."
+40,Rd4,d8d4,5rk1/pp3p1p/2q1ppn1/2p2b2/2Nr1P2/P2P3P/1PP1B1P1/R1Q2RK1 w - - 5 21,"Planning Qc7 to have some compensation. If c3, it will be my advantage."

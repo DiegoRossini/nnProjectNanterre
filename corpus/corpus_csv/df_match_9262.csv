@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal ke4
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,mirror
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"pretty standard move, stops pawn moving to d5.  Protecion for e4 pawn"
+4,c5,c7c5,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Allows movement of b8 knight without trapping c7 pawn.
+5,Nf3,g1f3,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,Again standard defence with attack on e5 pawn
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n5/2p1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,Protects e5 plus other bonus of reinforcing d4. possible movement of knight to d5 now maybe
+7,Bc4,f1c4,r1bqkbnr/pp1p1ppp/2n5/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,no. Bishop c4. Attacking f7 pawn with added benefit of taking control of the centre of the board.
+8,h6,h7h6,r1bqkbnr/pp1p1pp1/2n4p/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,I will leave bishop at the moment and advance h7-h6 this will prevent a move to g5 with f3 knight and also stop c1 bishop coming down any time soon andallow me to freely move knight out onto f6.
+9,a3,a2a3,r1bqkbnr/pp1p1pp1/2n4p/2p1p3/2B1P3/P1N2N2/1PPP1PPP/R1BQK2R b KQkq - 0 5,there's that move to allow the bishop an extra escape route. d3 is next i think. if this is the case then i'm gonna try and get my queen on a5 though this will probably make him castle
+10,Nf6,g8f6,r1bqkb1r/pp1p1pp1/2n2n1p/2p1p3/2B1P3/P1N2N2/1PPP1PPP/R1BQK2R w KQkq - 1 6,extra defence first though and reinforces d5. i soon hope to get queen pawn here
+11,d3,d2d3,r1bqkb1r/pp1p1pp1/2n2n1p/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R1BQK2R b KQkq - 0 6,ah yes thought so. do i move queen now i wonder. i imagine this is to free bishop and strengthen pawns. hopefully now i have prevented his bishop from doing too much harm for now. The only problem now of course his bishop is going to d2 so queen might have to wait.
+12,d6,d7d6,r1bqkb1r/pp3pp1/2np1n1p/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R1BQK2R w KQkq - 0 7,ok. I'm making play for d5 here and hopefully take control of the centre. looking to somehow get queen ona5 bishop c8-e6 then npawn on d5. Only drawback is he could do bishop for bishop leaving me with a weakened defence. i'm going to try and look at a way to defend e6 with another piece now though moves obviously dependent on opposition
+13,Nd5,c3d5,r1bqkb1r/pp3pp1/2np1n1p/2pNp3/2B1P3/P2P1N2/1PP2PPP/R1BQK2R b KQkq - 1 7,ok. I did see this move. hoped he wouldn't so should have expected it. i think this is to win d5. don't think it is to attack knight as it is guarded by queen. I suppose there is a threat of the fork with queen and rook but i don't see a threat yet. probably mainly an attack e7 and c7 restricting my movement and blocking my pawn movement too. (git)
+14,Be6,c8e6,r2qkb1r/pp3pp1/2npbn1p/2pNp3/2B1P3/P2P1N2/1PP2PPP/R1BQK2R w KQkq - 2 8,well bishops where i wanted it but not much use now for my plan. I'm hoping this give him something to think about. This will prevent a move to b5 with bishop ( though not a lot of use in that move ) i want his knight away from here. cant take it yet as he has pawn on it. i think bishop d2 or castle
+15,Nxf6+,d5f6,r2qkb1r/pp3pp1/2npbN1p/2p1p3/2B1P3/P2P1N2/1PP2PPP/R1BQK2R b KQkq - 0 8,well was wrong about knight but at least i haveh6 pawn to protect against bishop attack. Only thing to do here now is queen. not sure of intentions at this point
+16,Qxf6,d8f6,r3kb1r/pp3pp1/2npbq1p/2p1p3/2B1P3/P2P1N2/1PP2PPP/R1BQK2R w KQkq - 0 9,remove knight. ... is he planning d3 pawn move. this might explain knight move....or is he thinking of a move down his right with his queen
+17,Bd2,c1d2,r3kb1r/pp3pp1/2npbq1p/2p1p3/2B1P3/P2P1N2/1PPB1PPP/R2QK2R b KQkq - 1 9,Interesting move. Queenside castle ? Otherwise unsure what is happening here unless maybe protecting the diagonal ready for a push
+18,Qd8,f6d8,r2qkb1r/pp3pp1/2npb2p/2p1p3/2B1P3/P2P1N2/1PPB1PPP/R2QK2R w KQkq - 2 10,retreat queen back. Not ready to bring this into play quite yet. Still looking for d5
+19,Bxe6,c4e6,r2qkb1r/pp3pp1/2npB2p/2p1p3/4P3/P2P1N2/1PPB1PPP/R2QK2R b KQkq - 0 10,knew about this earlier. this is to open me up
+20,fxe6,f7e6,r2qkb1r/pp4p1/2npp2p/2p1p3/4P3/P2P1N2/1PPB1PPP/R2QK2R w KQkq - 0 11,of course

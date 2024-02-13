@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,French defense
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,French defense
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/4p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Not a common move- we'll see why at the end.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,I proceeded with the typical 2.d5 for black
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 3,"White, perhaps uncomfortable with the positions the French provides, opts for the clearer and more open Exchange Variation."
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 4,"White, perhaps uncomfortable with the positions the French provides, opts for the clearer and more open Exchange Variation."
+7,d4,d2d4,rnbqkbnr/ppp2ppp/8/3p4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"This isn't exactly a book move for the Exchange Variation. But because the knight is here I'm developing my bishop a la Winawer. If he didn't block the pin, I probably would have exchanged the bishop for knight to double his pawns"
+8,Bb4,f8b4,rnbqk1nr/ppp2ppp/8/3p4/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"This isn't exactly a book move for the Exchange Variation. But because the knight is here I'm developing my bishop a la Winawer. If he didn't block the pin, I probably would have exchanged the bishop for knight to double his pawns"
+9,Bd2,c1d2,rnbqk1nr/ppp2ppp/8/3p4/1b1P4/2N5/PPPB1PPP/R2QKBNR b KQkq - 2 5,Developing classically
+10,Nf6,g8f6,rnbqk2r/ppp2ppp/5n2/3p4/1b1P4/2N5/PPPB1PPP/R2QKBNR w KQkq - 3 6,Developing classically
+11,Qe2+,d1e2,rnbqk2r/ppp2ppp/5n2/3p4/1b1P4/2N5/PPPBQPPP/R3KBNR b KQkq - 4 6,Brings the queen out early for a check. A useless move however. I get to develop a piece for free.
+12,Be6,c8e6,rn1qk2r/ppp2ppp/4bn2/3p4/1b1P4/2N5/PPPBQPPP/R3KBNR w KQkq - 5 7,Blocked behind the pawn but at least it's out.
+13,Qb5+,e2b5,rn1qk2r/ppp2ppp/4bn2/1Q1p4/1b1P4/2N5/PPPB1PPP/R3KBNR b KQkq - 6 7,Tries to win the bishop?
+14,Nc6,b8c6,r2qk2r/ppp2ppp/2n1bn2/1Q1p4/1b1P4/2N5/PPPB1PPP/R3KBNR w KQkq - 7 8,"...useless check again. The knight threatens d4 once the queen moves away. White can't immediately move the d2 bishop to support the pawn, because I would capture the knight and double his pawns on the C file. However, with developing my knight, I left the b7 pawn undefended. I figured by this point I would capitalize on my advantage in development by gambitting the pawn and developing even more."
+15,Qxb7,b5b7,r2qk2r/pQp2ppp/2n1bn2/3p4/1b1P4/2N5/PPPB1PPP/R3KBNR b KQkq - 0 8,He takes the gambit pawn. I'm curious as to what his best move was but I don't have an engine on hand
+16,Qe7,d8e7,r3k2r/pQp1qppp/2n1bn2/3p4/1b1P4/2N5/PPPB1PPP/R3KBNR w KQkq - 1 9,Developing the queen and setting up a discovery on white's King.
+17,Qxc6+,b7c6,r3k2r/p1p1qppp/2Q1bn2/3p4/1b1P4/2N5/PPPB1PPP/R3KBNR b KQkq - 0 9,Ouch. Blunder. Poisoned knight?
+18,Bd7+,e6d7,r3k2r/p1pbqppp/2Q2n2/3p4/1b1P4/2N5/PPPB1PPP/R3KBNR w KQkq - 1 10,Discovered check captures the queen
+19,Be2,f1e2,r3k2r/p1pbqppp/2Q2n2/3p4/1b1P4/2N5/PPPBBPPP/R3K1NR b KQkq - 2 10,"Due to his lack of development by this point, he castles long to protect the king more quickly (especially with my queen out and his lack of one)."
+20,Bxc6,d7c6,r3k2r/p1p1qppp/2b2n2/3p4/1b1P4/2N5/PPPBBPPP/R3K1NR w KQkq - 0 11,"Due to his lack of development by this point, he castles long to protect the king more quickly (especially with my queen out and his lack of one)."
+21,O-O-O,e1c1,r3k2r/p1p1qppp/2b2n2/3p4/1b1P4/2N5/PPPBBPPP/2KR2NR b kq - 1 11,"Due to his lack of development by this point, he castles long to protect the king more quickly (especially with my queen out and his lack of one)."
+22,O-O,e8g8,r4rk1/p1p1qppp/2b2n2/3p4/1b1P4/2N5/PPPBBPPP/2KR2NR w - - 2 12,Castle to activate and connect the rooks
+23,a3,a2a3,r4rk1/p1p1qppp/2b2n2/3p4/1b1P4/P1N5/1PPBBPPP/2KR2NR b - - 0 12,"White was sort of stuck here. If he developed his other knight, continues 12.Nf4? Bxc3 13. Bxc3 Qxe2. He also can't move his c3 knight anyway safely."
+24,Bxc3,b4c3,r4rk1/p1p1qppp/2b2n2/3p4/3P4/P1b5/1PPBBPPP/2KR2NR w - - 0 13,I don't want to lose time to retreat so I just exchange here
+25,Bxc3,d2c3,r4rk1/p1p1qppp/2b2n2/3p4/3P4/P1B5/1PP1BPPP/2KR2NR b - - 0 13,"Bishop on C3 now blocks the C pawn and has no diagonal towards the center. Will have to move again to be useful, with the permanent pawns in the center."
+26,Ne4,f6e4,r4rk1/p1p1qppp/2b5/3p4/3Pn3/P1B5/1PP1BPPP/2KR2NR w - - 1 14,Bringing the knight up the board

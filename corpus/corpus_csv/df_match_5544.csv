@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Regular opening, nothing special"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Regular opening, nothing special"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Regular opening, nothing special"
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Not what I expected, I expected d5-e4"
+5,Nxe5,f3e5,rnbqkbnr/ppp2ppp/8/3pN3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"Not what I expected, I expected d5-e4"
+6,Qe7,d8e7,rnb1kbnr/ppp1qppp/8/3pN3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,"Not what I expected, I expected d5-e4"
+7,d4,d2d4,rnb1kbnr/ppp1qppp/8/3pN3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Attack on my knight's defender. It seems I wasn't thinking so well at the moment
+8,c5,c7c5,rnb1kbnr/pp2qppp/8/2ppN3/3PP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,Attack on my knight's defender. It seems I wasn't thinking so well at the moment
+9,Qf3,d1f3,rnb1kbnr/pp2qppp/8/2ppN3/3PP3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 1 5,I'm still asking myself why I did that. It's just a really stupid move.
+10,cxd4,c5d4,rnb1kbnr/pp2qppp/8/3pN3/3pP3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6,"Now I have to defend my knight, queen unusable..."
+11,Qf4,f3f4,rnb1kbnr/pp2qppp/8/3pN3/3pPQ2/8/PPP2PPP/RNB1KB1R b KQkq - 1 6,"Now I have to defend my knight, queen unusable..."
+12,f6,f7f6,rnb1kbnr/pp2q1pp/5p2/3pN3/3pPQ2/8/PPP2PPP/RNB1KB1R w KQkq - 0 7,"I can't move my knight, because I would lose my tiny grab on the center. So, this is what I figured out."
+13,Bb5+,f1b5,rnb1kbnr/pp2q1pp/5p2/1B1pN3/3pPQ2/8/PPP2PPP/RNB1K2R b KQkq - 1 7,after a couple of trades my knight has moved and I have one turn to focus me on the center.
+14,Bd7,c8d7,rn2kbnr/pp1bq1pp/5p2/1B1pN3/3pPQ2/8/PPP2PPP/RNB1K2R w KQkq - 2 8,after a couple of trades my knight has moved and I have one turn to focus me on the center.
+15,Bxd7+,b5d7,rn2kbnr/pp1Bq1pp/5p2/3pN3/3pPQ2/8/PPP2PPP/RNB1K2R b KQkq - 0 8,after a couple of trades my knight has moved and I have one turn to focus me on the center.
+16,Nxd7,b8d7,r3kbnr/pp1nq1pp/5p2/3pN3/3pPQ2/8/PPP2PPP/RNB1K2R w KQkq - 0 9,after a couple of trades my knight has moved and I have one turn to focus me on the center.
+17,Nxd7,e5d7,r3kbnr/pp1Nq1pp/5p2/3p4/3pPQ2/8/PPP2PPP/RNB1K2R b KQkq - 0 9,after a couple of trades my knight has moved and I have one turn to focus me on the center.
+18,Kxd7,e8d7,r4bnr/pp1kq1pp/5p2/3p4/3pPQ2/8/PPP2PPP/RNB1K2R w KQ - 0 10,I didn't know why he used his king to take my knight
+19,f3,f2f3,r4bnr/pp1kq1pp/5p2/3p4/3pPQ2/5P2/PPP3PP/RNB1K2R b KQ - 0 10,"Now it becomes clear, he can now use his queen, otherwise he couldn't"
+20,dxe4,d5e4,r4bnr/pp1kq1pp/5p2/8/3ppQ2/5P2/PPP3PP/RNB1K2R w KQ - 0 11,"Now it becomes clear, he can now use his queen, otherwise he couldn't"
+21,Qxe4,f4e4,r4bnr/pp1kq1pp/5p2/8/3pQ3/5P2/PPP3PP/RNB1K2R b KQ - 0 11,"Now it becomes clear, he can now use his queen, otherwise he couldn't"
+22,Qb4+,e7b4,r4bnr/pp1k2pp/5p2/8/1q1pQ3/5P2/PPP3PP/RNB1K2R w KQ - 1 12,"Now it becomes clear, he can now use his queen, otherwise he couldn't"
+23,Bd2,c1d2,r4bnr/pp1k2pp/5p2/8/1q1pQ3/5P2/PPPB2PP/RN2K2R b KQ - 2 12,"That, was a foolish move, nearly the foolishest I made in this game."
+24,Qxb2,b4b2,r4bnr/pp1k2pp/5p2/8/3pQ3/5P2/PqPB2PP/RN2K2R w KQ - 0 13,I could expect it...
+25,Qg4+,e4g4,r4bnr/pp1k2pp/5p2/8/3p2Q1/5P2/PqPB2PP/RN2K2R b KQ - 1 13,"I'm trying to use a couple of checks in a row, you know, perhaps, there will be a chance."
+26,Ke7,d7e7,r4bnr/pp2k1pp/5p2/8/3p2Q1/5P2/PqPB2PP/RN2K2R w KQ - 2 14,"I'm trying to use a couple of checks in a row, you know, perhaps, there will be a chance."
+27,Qe4+,g4e4,r4bnr/pp2k1pp/5p2/8/3pQ3/5P2/PqPB2PP/RN2K2R b KQ - 3 14,"I'm trying to use a couple of checks in a row, you know, perhaps, there will be a chance."
+28,Kf7,e7f7,r4bnr/pp3kpp/5p2/8/3pQ3/5P2/PqPB2PP/RN2K2R w KQ - 4 15,Check after check after check...
+29,Qd5+,e4d5,r4bnr/pp3kpp/5p2/3Q4/3p4/5P2/PqPB2PP/RN2K2R b KQ - 5 15,Check after check after check...
+30,Kg6,f7g6,r4bnr/pp4pp/5pk1/3Q4/3p4/5P2/PqPB2PP/RN2K2R w KQ - 6 16,Check after check after check...
+31,Qe4+,d5e4,r4bnr/pp4pp/5pk1/8/3pQ3/5P2/PqPB2PP/RN2K2R b KQ - 7 16,Check after check after check...
+32,f5,f6f5,r4bnr/pp4pp/6k1/5p2/3pQ3/5P2/PqPB2PP/RN2K2R w KQ - 0 17,"hmmm, kinda impossible to give him a check right now..."
+33,Qe6+,e4e6,r4bnr/pp4pp/4Q1k1/5p2/3p4/5P2/PqPB2PP/RN2K2R b KQ - 1 17,"hmmm, kinda impossible to give him a check right now..."
+34,Nf6,g8f6,r4b1r/pp4pp/4Qnk1/5p2/3p4/5P2/PqPB2PP/RN2K2R w KQ - 2 18,"hmmm, kinda impossible to give him a check right now..."
+35,g4,g2g4,r4b1r/pp4pp/4Qnk1/5p2/3p2P1/5P2/PqPB3P/RN2K2R b KQ - 0 18,"So I move this, when he moves Qa1, I move Qf6++ mate."
+36,Re8,a8e8,4rb1r/pp4pp/4Qnk1/5p2/3p2P1/5P2/PqPB3P/RN2K2R w KQ - 1 19,"Finally, it turned out to be totally foolish... I lose my queen AND a rook."
+37,gxf5+,g4f5,4rb1r/pp4pp/4Qnk1/5P2/3p4/5P2/PqPB3P/RN2K2R b KQ - 0 19,"as said, I lose my queen."
+38,Kh5,g6h5,4rb1r/pp4pp/4Qn2/5P1k/3p4/5P2/PqPB3P/RN2K2R w KQ - 1 20,"as said, I lose my queen."
+39,Qxe8+,e6e8,4Qb1r/pp4pp/5n2/5P1k/3p4/5P2/PqPB3P/RN2K2R b KQ - 0 20,"as said, I lose my queen."
+40,Nxe8,f6e8,4nb1r/pp4pp/8/5P1k/3p4/5P2/PqPB3P/RN2K2R w KQ - 0 21,"as said, I lose my queen."
+41,Rg1,h1g1,4nb1r/pp4pp/8/5P1k/3p4/5P2/PqPB3P/RN2K1R1 b Q - 1 21,I lose my rook but I figured something out. With my next move everything will become clear
+42,Qxa1,b2a1,4nb1r/pp4pp/8/5P1k/3p4/5P2/P1PB3P/qN2K1R1 w - - 0 22,I lose my rook but I figured something out. With my next move everything will become clear
+43,Rg5+,g1g5,4nb1r/pp4pp/8/5PRk/3p4/5P2/P1PB3P/qN2K3 b - - 1 22,"He has to move Kh4, because Kh6 leads to Rg3+, Kh5, Rh3++ mate."
+44,Kh4,h5h4,4nb1r/pp4pp/8/5PR1/3p3k/5P2/P1PB3P/qN2K3 w - - 2 23,I'm just following the king.
+45,Rg4+,g5g4,4nb1r/pp4pp/8/5P2/3p2Rk/5P2/P1PB3P/qN2K3 b - - 3 23,I'm just following the king.

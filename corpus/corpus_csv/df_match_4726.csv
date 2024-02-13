@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"In this game, I play a speculative sacrifice. My opponent goes wrong and loses easily. I was dissappointed that the post-game computer analysis says my sac was not the best move in the position? What do you think dear reader?  Can anyone see what an independent search engine says is best in the position?"
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,So was start as a standard Dutch defence
+3,g3,g2g3,rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2,So was start as a standard Dutch defence
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 1 3,Routine development.
+5,Bg2,f1g2,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR b KQkq - 2 3,Black decides to fianchetto her King's side Bishop too.
+6,g6,g7g6,rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4,Black decides to fianchetto her King's side Bishop too.
+7,Nh3,g1h3,rnbqkb1r/ppppp2p/5np1/5p2/3P4/6PN/PPP1PPBP/RNBQK2R b KQkq - 1 4,My knight goes to h3 so as not to block the Bg2
+8,Bg7,f8g7,rnbqk2r/ppppp1bp/5np1/5p2/3P4/6PN/PPP1PPBP/RNBQK2R w KQkq - 2 5,My knight goes to h3 so as not to block the Bg2
+9,Nf4,h3f4,rnbqk2r/ppppp1bp/5np1/5p2/3P1N2/6P1/PPP1PPBP/RNBQK2R b KQkq - 3 5,Still fairly standard
+10,Nc6,b8c6,r1bqk2r/ppppp1bp/2n2np1/5p2/3P1N2/6P1/PPP1PPBP/RNBQK2R w KQkq - 4 6,Still fairly standard
+11,h4,h2h4,r1bqk2r/ppppp1bp/2n2np1/5p2/3P1N1P/6P1/PPP1PPB1/RNBQK2R b KQkq - 0 6,"PLayed to ancor the Nf4 and deter g5, and also with the possibility of attacking with h5 at some stage."
+12,e5,e7e5,r1bqk2r/pppp2bp/2n2np1/4pp2/3P1N1P/6P1/PPP1PPB1/RNBQK2R w KQkq - 0 7,The usual reply.
+13,dxe5,d4e5,r1bqk2r/pppp2bp/2n2np1/4Pp2/5N1P/6P1/PPP1PPB1/RNBQK2R b KQkq - 0 7,Taking is about White's only sensible option.
+14,Nxe5,c6e5,r1bqk2r/pppp2bp/5np1/4np2/5N1P/6P1/PPP1PPB1/RNBQK2R w KQkq - 0 8,c3 scores well on the opening databases
+15,c3,c2c3,r1bqk2r/pppp2bp/5np1/4np2/5N1P/2P3P1/PP2PPB1/RNBQK2R b KQkq - 0 8,c3 scores well on the opening databases
+16,c6,c7c6,r1bqk2r/pp1p2bp/2p2np1/4np2/5N1P/2P3P1/PP2PPB1/RNBQK2R w KQkq - 0 9,"So I attempt to follow Rukavina, Dario (2194) vs. Mijatovic, Vladimir (2134)"
+17,Be3,c1e3,r1bqk2r/pp1p2bp/2p2np1/4np2/5N1P/2P1B1P1/PP2PPB1/RN1QK2R b KQkq - 1 9,"So I attempt to follow Rukavina, Dario (2194) vs. Mijatovic, Vladimir (2134)"
+18,d6,d7d6,r1bqk2r/pp4bp/2pp1np1/4np2/5N1P/2P1B1P1/PP2PPB1/RN1QK2R w KQkq - 0 10,"But in that game black continued with Qe7, so I have to start thinking for myself."
+19,Nd2,b1d2,r1bqk2r/pp4bp/2pp1np1/4np2/5N1P/2P1B1P1/PP1NPPB1/R2QK2R b KQkq - 1 10,So I continue to develop
+20,Qc7,d8c7,r1b1k2r/ppq3bp/2pp1np1/4np2/5N1P/2P1B1P1/PP1NPPB1/R2QK2R w KQkq - 2 11,"So does she. This is actually the first mistake according to the post game computer, which gives Nfg4 11. Bd4 c5 12. Bxe5 dxe5 13. Nh3 e4 14. Nc4 Qxd1+ 15. Rxd1 O-O 16. h5 Be6 17. Nd6 Rab8 18. hxg6 hxg6 and a slight advantage to Black."
+21,Qb3,d1b3,r1b1k2r/ppq3bp/2pp1np1/4np2/5N1P/1QP1B1P1/PP1NPPB1/R3K2R b KQkq - 3 11,So I decide to make castling hard for her.
+22,Qf7,c7f7,r1b1k2r/pp3qbp/2pp1np1/4np2/5N1P/1QP1B1P1/PP1NPPB1/R3K2R w KQkq - 4 12,She offers the queen exchange
+23,Qb4,b3b4,r1b1k2r/pp3qbp/2pp1np1/4np2/1Q3N1P/2P1B1P1/PP1NPPB1/R3K2R b KQkq - 5 12,I avoid and hit d6.
+24,d5,d6d5,r1b1k2r/pp3qbp/2p2np1/3pnp2/1Q3N1P/2P1B1P1/PP1NPPB1/R3K2R w KQkq - 0 13,"d5 is also given as a mistake, and I tend to agree. Post game computer gives Nfg4 13. Qxd6 Nxe3 14. fxe3 Bd7 15. O-O-O O-O-O 16. Bd5 Qf8 17. Qxf8 Rhxf8 18. Ne6 cxd5 19. Nxg7 Kc7, again with slight advantage to Black. But now, what is Black to do about castling and developing the Bc8?"
+25,O-O-O,e1c1,r1b1k2r/pp3qbp/2p2np1/3pnp2/1Q3N1P/2P1B1P1/PP1NPPB1/2KR3R b kq - 1 13,So I castle
+26,b6,b7b6,r1b1k2r/p4qbp/1pp2np1/3pnp2/1Q3N1P/2P1B1P1/PP1NPPB1/2KR3R w kq - 0 14,"Aha, Bb7 or Ba6 is planned"

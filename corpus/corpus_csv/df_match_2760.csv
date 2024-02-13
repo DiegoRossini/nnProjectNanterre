@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I had white pieces and started with e4.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"stegal played e5, very standard move"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Nf3 was played, attacking e5 pawn."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"black played d6, indicates that he is going for Philidor's defense."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"I played d4, challenging the e5 pawn immediately, also making way for the lsb."
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"exd4 was played, this is known as the exchange variation of Philidor's defense."
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Nxd4, stand move."
+8,c5,c7c5,rnbqkbnr/pp3ppp/3p4/2p5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,"This move actually surprise me, black didn't play a normal looking move such as Nf6 or g6, but c5 was played, attacking the knight."
+9,Nf3,d4f3,rnbqkbnr/pp3ppp/3p4/2p5/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 5,"Nf3 was played, this wasn't an accurate move, may be Bb5+ is stronger, because Nf3 allows black to play Bg4."
+10,Bg4,c8g4,rn1qkbnr/pp3ppp/3p4/2p5/4P1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 6,"Bg4, pins the knight :("
+11,Be2,f1e2,rn1qkbnr/pp3ppp/3p4/2p5/4P1b1/5N2/PPP1BPPP/RNBQK2R b KQkq - 3 6,"Be2 unpin, but I really don't like the position of my lsb :("
+12,Bxf3,g4f3,rn1qkbnr/pp3ppp/3p4/2p5/4P3/5b2/PPP1BPPP/RNBQK2R w KQkq - 0 7,"To my surprise again, Bxf3 was played! black gives up his lsb. If I were black I would keep the lsb, instead of playing bxf3 I would play g6 and prepare for Bg7, because pawns on c5 and d6 is blocking the dsb. Bg7 allows the dsb to work on a better diagonal."
+13,Bxf3,e2f3,rn1qkbnr/pp3ppp/3p4/2p5/4P3/5B2/PPP2PPP/RNBQK2R b KQkq - 0 7,"never mind, Bxf3"
+14,Nc6,b8c6,r2qkbnr/pp3ppp/2np4/2p5/4P3/5B2/PPP2PPP/RNBQK2R w KQkq - 1 8,Nc6 develops the knight.
+15,Nc3,b1c3,r2qkbnr/pp3ppp/2np4/2p5/4P3/2N2B2/PPP2PPP/R1BQK2R b KQkq - 2 8,develop my knight
+16,Nf6,g8f6,r2qkb1r/pp3ppp/2np1n2/2p5/4P3/2N2B2/PPP2PPP/R1BQK2R w KQkq - 3 9,more developing move from black
+17,Bg5,c1g5,r2qkb1r/pp3ppp/2np1n2/2p3B1/4P3/2N2B2/PPP2PPP/R2QK2R b KQkq - 4 9,"Bg5, develop my dsb and pin the knight."
+18,Be7,f8e7,r2qk2r/pp2bppp/2np1n2/2p3B1/4P3/2N2B2/PPP2PPP/R2QK2R w KQkq - 5 10,"be7 unpins, also black is now ready to castle king side."
+19,Qd2,d1d2,r2qk2r/pp2bppp/2np1n2/2p3B1/4P3/2N2B2/PPPQ1PPP/R3K2R b KQkq - 6 10,"Qd2, preparing queen side castle, safety first, so i can then launch the attack on black king."
+20,O-O,e8g8,r2q1rk1/pp2bppp/2np1n2/2p3B1/4P3/2N2B2/PPPQ1PPP/R3K2R w KQ - 7 11,O-O!

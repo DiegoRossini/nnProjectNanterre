@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,h4,h2h4,rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq - 0 1,controlling the kingside
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/7P/8/PPPPPPP1/RNBQKBNR w KQkq - 0 2,controlling the center
+3,a4,a2a4,rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq - 0 2,controlling the queenside
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/P6P/8/1PPPPPP1/RNBQKBNR w KQkq - 1 3,"Black controls 1 center, I control 2 flanks, and 2>1"
+5,Nc3,b1c3,rnbqk1nr/pppp1ppp/8/2b1p3/P6P/2N5/1PPPPPP1/R1BQKBNR b KQkq - 2 3,developing without weakening
+6,Qf6,d8f6,rnb1k1nr/pppp1ppp/5q2/2b1p3/P6P/2N5/1PPPPPP1/R1BQKBNR w KQkq - 3 4,going for checkmate
+7,Ne4,c3e4,rnb1k1nr/pppp1ppp/5q2/2b1p3/P3N2P/8/1PPPPPP1/R1BQKBNR b KQkq - 4 4,!
+8,Qc6,f6c6,rnb1k1nr/pppp1ppp/2q5/2b1p3/P3N2P/8/1PPPPPP1/R1BQKBNR w KQkq - 5 5,I do not understand why people think a knight is worth a bishop. A bishop moves very very far.
+9,Nxc5,e4c5,rnb1k1nr/pppp1ppp/2q5/2N1p3/P6P/8/1PPPPPP1/R1BQKBNR b KQkq - 0 5,I do not understand why people think a knight is worth a bishop. A bishop moves very very far.
+10,Qxc5,c6c5,rnb1k1nr/pppp1ppp/8/2q1p3/P6P/8/1PPPPPP1/R1BQKBNR w KQkq - 0 6,I do not understand why people think a knight is worth a bishop. A bishop moves very very far.
+11,b4,b2b4,rnb1k1nr/pppp1ppp/8/2q1p3/PP5P/8/2PPPPP1/R1BQKBNR b KQkq - 0 6,attacking queen
+12,Qxb4,c5b4,rnb1k1nr/pppp1ppp/8/4p3/Pq5P/8/2PPPPP1/R1BQKBNR w KQkq - 0 7,down a pawn
+13,Ba3,c1a3,rnb1k1nr/pppp1ppp/8/4p3/Pq5P/B7/2PPPPP1/R2QKBNR b KQkq - 1 7,but i have a bishop that black does not
+14,Qxa4,b4a4,rnb1k1nr/pppp1ppp/8/4p3/q6P/B7/2PPPPP1/R2QKBNR w KQkq - 0 8,takes another pawn but black has weak pawns hiself
+15,Bd6,a3d6,rnb1k1nr/pppp1ppp/3B4/4p3/q6P/8/2PPPPP1/R2QKBNR b KQkq - 1 8,i get it back
+16,Qc6,a4c6,rnb1k1nr/pppp1ppp/2qB4/4p3/7P/8/2PPPPP1/R2QKBNR w KQkq - 2 9,maybe block with the knight here
+17,Bxe5,d6e5,rnb1k1nr/pppp1ppp/2q5/4B3/7P/8/2PPPPP1/R2QKBNR b KQkq - 0 9,maybe block with the knight here
+18,f6,f7f6,rnb1k1nr/pppp2pp/2q2p2/4B3/7P/8/2PPPPP1/R2QKBNR w KQkq - 0 10,maybe he thought i would take his knight with my bishop
+19,Bf4,e5f4,rnb1k1nr/pppp2pp/2q2p2/8/5B1P/8/2PPPPP1/R2QKBNR b KQkq - 1 10,i think it is a good piece
+20,Ne7,g8e7,rnb1k2r/ppppn1pp/2q2p2/8/5B1P/8/2PPPPP1/R2QKBNR w KQkq - 2 11,h5 looked annoying
+21,h5,h4h5,rnb1k2r/ppppn1pp/2q2p2/7P/5B2/8/2PPPPP1/R2QKBNR b KQkq - 0 11,h5 looked annoying
+22,d6,d7d6,rnb1k2r/ppp1n1pp/2qp1p2/7P/5B2/8/2PPPPP1/R2QKBNR w KQkq - 0 12,developing bishop
+23,Ra3,a1a3,rnb1k2r/ppp1n1pp/2qp1p2/7P/5B2/R7/2PPPPP1/3QKBNR b Kkq - 1 12,developing rook
+24,Bf5,c8f5,rn2k2r/ppp1n1pp/2qp1p2/5b1P/5B2/R7/2PPPPP1/3QKBNR w Kkq - 2 13,attacking pawn

@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"First aggressive move. If f6, Qh5+."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"First aggressive move. If f6, Qh5+."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"First aggressive move. If f6, Qh5+."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"First aggressive move. If f6, Qh5+."
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"First aggressive move. If f6, Qh5+."
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n1p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,"First aggressive move. If f6, Qh5+."
+7,e3,e2e3,r1bqkbnr/ppp2ppp/2n1p3/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"First aggressive move. If f6, Qh5+."
+8,h6,h7h6,r1bqkbnr/ppp2pp1/2n1p2p/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,"First aggressive move. If f6, Qh5+."
+9,Nbd2,b1d2,r1bqkbnr/ppp2pp1/2n1p2p/3p4/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 1 5,"First aggressive move. If f6, Qh5+."
+10,a6,a7a6,r1bqkbnr/1pp2pp1/p1n1p2p/3p4/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 0 6,"First aggressive move. If f6, Qh5+."
+11,c3,c2c3,r1bqkbnr/1pp2pp1/p1n1p2p/3p4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQkq - 0 6,"First aggressive move. If f6, Qh5+."
+12,Bd7,c8d7,r2qkbnr/1ppb1pp1/p1n1p2p/3p4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQkq - 1 7,"First aggressive move. If f6, Qh5+."
+13,Ne5,f3e5,r2qkbnr/1ppb1pp1/p1n1p2p/3pN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R b KQkq - 2 7,"First aggressive move. If f6, Qh5+."
+14,b5,b7b5,r2qkbnr/2pb1pp1/p1n1p2p/1p1pN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R w KQkq - 0 8,Normal. Black can cause problems on the Qside.
+15,a3,a2a3,r2qkbnr/2pb1pp1/p1n1p2p/1p1pN3/3P1B2/P1P1P3/1P1N1PPP/R2QKB1R b KQkq - 0 8,Normal. Black can cause problems on the Qside.
+16,Nf6,g8f6,r2qkb1r/2pb1pp1/p1n1pn1p/1p1pN3/3P1B2/P1P1P3/1P1N1PPP/R2QKB1R w KQkq - 1 9,Attacking asap.
+17,g4,g2g4,r2qkb1r/2pb1pp1/p1n1pn1p/1p1pN3/3P1BP1/P1P1P3/1P1N1P1P/R2QKB1R b KQkq - 0 9,Attacking asap.
+18,Bd6,f8d6,r2qk2r/2pb1pp1/p1nbpn1p/1p1pN3/3P1BP1/P1P1P3/1P1N1P1P/R2QKB1R w KQkq - 1 10,I don't fear the exchange.
+19,h4,h2h4,r2qk2r/2pb1pp1/p1nbpn1p/1p1pN3/3P1BPP/P1P1P3/1P1N1P2/R2QKB1R b KQkq - 0 10,I don't fear the exchange.
+20,Ne4,f6e4,r2qk2r/2pb1pp1/p1nbp2p/1p1pN3/3PnBPP/P1P1P3/1P1N1P2/R2QKB1R w KQkq - 1 11,"This supports the center after f6, Nd3."
+21,Ndf3,d2f3,r2qk2r/2pb1pp1/p1nbp2p/1p1pN3/3PnBPP/P1P1PN2/1P3P2/R2QKB1R b KQkq - 2 11,"This supports the center after f6, Nd3."
+22,Bxe5,d6e5,r2qk2r/2pb1pp1/p1n1p2p/1p1pb3/3PnBPP/P1P1PN2/1P3P2/R2QKB1R w KQkq - 0 12,"This cramps both of us, but I think it is better that a lot of exchanges and loss of tension."
+23,dxe5,d4e5,r2qk2r/2pb1pp1/p1n1p2p/1p1pP3/4nBPP/P1P1PN2/1P3P2/R2QKB1R b KQkq - 0 12,"This cramps both of us, but I think it is better that a lot of exchanges and loss of tension."
+24,f5,f7f5,r2qk2r/2pb2p1/p1n1p2p/1p1pPp2/4nBPP/P1P1PN2/1P3P2/R2QKB1R w KQkq f6 0 13,Interesting and dangerous.
+25,gxf5,g4f5,r2qk2r/2pb2p1/p1n1p2p/1p1pPP2/4nB1P/P1P1PN2/1P3P2/R2QKB1R b KQkq - 0 13,Better than exf6 ep. ? I'm not sure. My plan was to make a hole in d6 for my pawn.
+26,exf5,e6f5,r2qk2r/2pb2p1/p1n4p/1p1pPp2/4nB1P/P1P1PN2/1P3P2/R2QKB1R w KQkq - 0 14,"He can exchange my N, and my e6 plan will be delayed. But I'll have a wonderful pawn chain, so I won't complain."
+27,Nd4,f3d4,r2qk2r/2pb2p1/p1n4p/1p1pPp2/3NnB1P/P1P1P3/1P3P2/R2QKB1R b KQkq - 1 14,"He can exchange my N, and my e6 plan will be delayed. But I'll have a wonderful pawn chain, so I won't complain."
+28,O-O,e8g8,r2q1rk1/2pb2p1/p1n4p/1p1pPp2/3NnB1P/P1P1P3/1P3P2/R2QKB1R w KQ - 2 15,"? Very bad, just in front of the open column."
+29,e6,e5e6,r2q1rk1/2pb2p1/p1n1P2p/1p1p1p2/3NnB1P/P1P1P3/1P3P2/R2QKB1R b KQ - 0 15,...and overlooking this move.
+30,Nxd4,c6d4,r2q1rk1/2pb2p1/p3P2p/1p1p1p2/3nnB1P/P1P1P3/1P3P2/R2QKB1R w KQ - 0 16,"You see, the idea is that if I take the N with the Q, Bxe6 and d5 is defended. BUT..."
+31,exd7,e6d7,r2q1rk1/2pP2p1/p6p/1p1p1p2/3nnB1P/P1P1P3/1P3P2/R2QKB1R b KQ - 0 16,"Black has to retire the N, and now d5 IS not defended, and my Q will take it with check! Any other move loses a piece."
+32,Qxd7,d8d7,r4rk1/2pq2p1/p6p/1p1p1p2/3nnB1P/P1P1P3/1P3P2/R2QKB1R w KQ - 0 17,"? Black preferred to lose the N. If Ne6, Qxd5. Qe7 and it seems holdable."
+33,Qxd4,d1d4,r4rk1/2pq2p1/p6p/1p1p1p2/3QnB1P/P1P1P3/1P3P2/R3KB1R b KQ - 0 17,Pressuring d5.
+34,Nf6,e4f6,r4rk1/2pq2p1/p4n1p/1p1p1p2/3Q1B1P/P1P1P3/1P3P2/R3KB1R w KQ - 1 18,Pressuring d5.
+35,O-O-O,e1c1,r4rk1/2pq2p1/p4n1p/1p1p1p2/3Q1B1P/P1P1P3/1P3P2/2KR1B1R b - - 2 18,Pressuring d5.
+36,Rac8,a8c8,2r2rk1/2pq2p1/p4n1p/1p1p1p2/3Q1B1P/P1P1P3/1P3P2/2KR1B1R w - - 3 19,Threatening d5.
+37,Bg2,f1g2,2r2rk1/2pq2p1/p4n1p/1p1p1p2/3Q1B1P/P1P1P3/1P3PB1/2KR3R b - - 4 19,Threatening d5.
+38,c5,c7c5,2r2rk1/3q2p1/p4n1p/1ppp1p2/3Q1B1P/P1P1P3/1P3PB1/2KR3R w - - 0 20,"Too late, since I take with check. c6 would have been wiser. Qb6, though..."
+39,Bxd5+,g2d5,2r2rk1/3q2p1/p4n1p/1ppB1p2/3Q1B1P/P1P1P3/1P3P2/2KR3R b - - 0 20,"If Rd7, Rf7 and nothing special happens."
+40,Nxd5,f6d5,2r2rk1/3q2p1/p6p/1ppn1p2/3Q1B1P/P1P1P3/1P3P2/2KR3R w - - 0 21,"If Rd7, Rf7 and nothing special happens."
+41,Qxd5+,d4d5,2r2rk1/3q2p1/p6p/1ppQ1p2/5B1P/P1P1P3/1P3P2/2KR3R b - - 0 21,"If Rd7, Rf7 and nothing special happens."
+42,Qxd5,d7d5,2r2rk1/6p1/p6p/1ppq1p2/5B1P/P1P1P3/1P3P2/2KR3R w - - 0 22,"If Rd7, Rf7 and nothing special happens."
+43,Rxd5,d1d5,2r2rk1/6p1/p6p/1ppR1p2/5B1P/P1P1P3/1P3P2/2K4R b - - 0 22,"If Rd7, Rf7 and nothing special happens."
+44,c4,c5c4,2r2rk1/6p1/p6p/1p1R1p2/2p2B1P/P1P1P3/1P3P2/2K4R w - - 0 23,"If Rd7, Rf7 and nothing special happens."
+45,Rd6,d5d6,2r2rk1/6p1/p2R3p/1p3p2/2p2B1P/P1P1P3/1P3P2/2K4R b - - 1 23,"If Rd7, Rf7 and nothing special happens."
+46,Rca8,c8a8,r4rk1/6p1/p2R3p/1p3p2/2p2B1P/P1P1P3/1P3P2/2K4R w - - 2 24,Not worse than anything else.
+47,Rhd1,h1d1,r4rk1/6p1/p2R3p/1p3p2/2p2B1P/P1P1P3/1P3P2/2KR4 b - - 3 24,Not worse than anything else.
+48,Kh7,g8h7,r4r2/6pk/p2R3p/1p3p2/2p2B1P/P1P1P3/1P3P2/2KR4 w - - 4 25,Not worse than anything else.
+49,h5,h4h5,r4r2/6pk/p2R3p/1p3p1P/2p2B2/P1P1P3/1P3P2/2KR4 b - - 0 25,Blocking g7 where it is.

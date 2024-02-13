@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Who Needs Queens Anyway?
+
+Another example of planning ahead and forgetting to check at each step of the way."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Despite the attack very confident at this point.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Despite the attack very confident at this point.
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Despite the attack very confident at this point.
+5,Nc3,b1c3,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Despite the attack very confident at this point.
+6,h6,h7h6,rnb1kbnr/pppp1pp1/5q1p/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,Despite the attack very confident at this point.
+7,Nd5,c3d5,rnb1kbnr/pppp1pp1/5q1p/3Np3/4P3/5N2/PPPP1PPP/R1BQKB1R b KQkq - 1 4,Despite the attack very confident at this point.
+8,Qd8,f6d8,rnbqkbnr/pppp1pp1/7p/3Np3/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 2 5,Despite the attack very confident at this point.
+9,Bc4,f1c4,rnbqkbnr/pppp1pp1/7p/3Np3/2B1P3/5N2/PPPP1PPP/R1BQK2R b KQkq - 3 5,Despite the attack very confident at this point.
+10,Ne7,g8e7,rnbqkb1r/ppppnpp1/7p/3Np3/2B1P3/5N2/PPPP1PPP/R1BQK2R w KQkq - 4 6,Despite the attack very confident at this point.
+11,d3,d2d3,rnbqkb1r/ppppnpp1/7p/3Np3/2B1P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 0 6,Despite the attack very confident at this point.
+12,Nxd5,e7d5,rnbqkb1r/pppp1pp1/7p/3np3/2B1P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 7,Despite the attack very confident at this point.
+13,Bxd5,c4d5,rnbqkb1r/pppp1pp1/7p/3Bp3/4P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 0 7,Despite the attack very confident at this point.
+14,c6,c7c6,rnbqkb1r/pp1p1pp1/2p4p/3Bp3/4P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 8,Despite the attack very confident at this point.
+15,Bb3,d5b3,rnbqkb1r/pp1p1pp1/2p4p/4p3/4P3/1B1P1N2/PPP2PPP/R1BQK2R b KQkq - 1 8,Despite the attack very confident at this point.
+16,f6,f7f6,rnbqkb1r/pp1p2p1/2p2p1p/4p3/4P3/1B1P1N2/PPP2PPP/R1BQK2R w KQkq - 0 9,Despite the attack very confident at this point.
+17,d4,d3d4,rnbqkb1r/pp1p2p1/2p2p1p/4p3/3PP3/1B3N2/PPP2PPP/R1BQK2R b KQkq - 0 9,Despite the attack very confident at this point.
+18,Qa5+,d8a5,rnb1kb1r/pp1p2p1/2p2p1p/q3p3/3PP3/1B3N2/PPP2PPP/R1BQK2R w KQkq - 1 10,Despite the attack very confident at this point.
+19,Bd2,c1d2,rnb1kb1r/pp1p2p1/2p2p1p/q3p3/3PP3/1B3N2/PPPB1PPP/R2QK2R b KQkq - 2 10,Despite the attack very confident at this point.
+20,Bb4,f8b4,rnb1k2r/pp1p2p1/2p2p1p/q3p3/1b1PP3/1B3N2/PPPB1PPP/R2QK2R w KQkq - 3 11,Despite the attack very confident at this point.
+21,c3,c2c3,rnb1k2r/pp1p2p1/2p2p1p/q3p3/1b1PP3/1BP2N2/PP1B1PPP/R2QK2R b KQkq - 0 11,Probably should have used to bishop to counter-take.
+22,Bd6,b4d6,rnb1k2r/pp1p2p1/2pb1p1p/q3p3/3PP3/1BP2N2/PP1B1PPP/R2QK2R w KQkq - 1 12,Probably should have used to bishop to counter-take.
+23,dxe5,d4e5,rnb1k2r/pp1p2p1/2pb1p1p/q3P3/4P3/1BP2N2/PP1B1PPP/R2QK2R b KQkq - 0 12,Probably should have used to bishop to counter-take.
+24,fxe5,f6e5,rnb1k2r/pp1p2p1/2pb3p/q3p3/4P3/1BP2N2/PP1B1PPP/R2QK2R w KQkq - 0 13,Probably should have used to bishop to counter-take.
+25,O-O,e1g1,rnb1k2r/pp1p2p1/2pb3p/q3p3/4P3/1BP2N2/PP1B1PPP/R2Q1RK1 b kq - 1 13,"Just exploring, no real plan in mind. Hoping for an exposed on the queen, but got to time it right."
+26,h5,h6h5,rnb1k2r/pp1p2p1/2pb4/q3p2p/4P3/1BP2N2/PP1B1PPP/R2Q1RK1 w kq - 0 14,"Just exploring, no real plan in mind. Hoping for an exposed on the queen, but got to time it right."
+27,Ng5,f3g5,rnb1k2r/pp1p2p1/2pb4/q3p1Np/4P3/1BP5/PP1B1PPP/R2Q1RK1 b kq - 1 14,"Just exploring, no real plan in mind. Hoping for an exposed on the queen, but got to time it right."
+28,Rf8,h8f8,rnb1kr2/pp1p2p1/2pb4/q3p1Np/4P3/1BP5/PP1B1PPP/R2Q1RK1 w q - 2 15,Protecting the potential exposed attack on the queen.
+29,Qxh5+,d1h5,rnb1kr2/pp1p2p1/2pb4/q3p1NQ/4P3/1BP5/PP1B1PPP/R4RK1 b q - 0 15,Protecting the potential exposed attack on the queen.
+30,Kd8,e8d8,rnbk1r2/pp1p2p1/2pb4/q3p1NQ/4P3/1BP5/PP1B1PPP/R4RK1 w - - 1 16,Protecting the potential exposed attack on the queen.
+31,Rad1,a1d1,rnbk1r2/pp1p2p1/2pb4/q3p1NQ/4P3/1BP5/PP1B1PPP/3R1RK1 b - - 2 16,Protecting the potential exposed attack on the queen.
+32,Be7,d6e7,rnbk1r2/pp1pb1p1/2p5/q3p1NQ/4P3/1BP5/PP1B1PPP/3R1RK1 w - - 3 17,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+33,c4,c3c4,rnbk1r2/pp1pb1p1/2p5/q3p1NQ/2P1P3/1B6/PP1B1PPP/3R1RK1 b - - 0 17,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+34,Qc5,a5c5,rnbk1r2/pp1pb1p1/2p5/2q1p1NQ/2P1P3/1B6/PP1B1PPP/3R1RK1 w - - 1 18,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+35,Bc3,d2c3,rnbk1r2/pp1pb1p1/2p5/2q1p1NQ/2P1P3/1BB5/PP3PPP/3R1RK1 b - - 2 18,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+36,d6,d7d6,rnbk1r2/pp2b1p1/2pp4/2q1p1NQ/2P1P3/1BB5/PP3PPP/3R1RK1 w - - 0 19,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+37,a3,a2a3,rnbk1r2/pp2b1p1/2pp4/2q1p1NQ/2P1P3/PBB5/1P3PPP/3R1RK1 b - - 0 19,"Can't rem why I did that, must have been a reason. Well actually with me there may well not have been."
+38,Bxg5,e7g5,rnbk1r2/pp4p1/2pp4/2q1p1bQ/2P1P3/PBB5/1P3PPP/3R1RK1 w - - 0 20,"Oooh lovely, bishop in the way or king moves and I snaffle the rook yeah?"
+39,Qxg5+,h5g5,rnbk1r2/pp4p1/2pp4/2q1p1Q1/2P1P3/PBB5/1P3PPP/3R1RK1 b - - 0 20,"Oooh lovely, bishop in the way or king moves and I snaffle the rook yeah?"
+40,Kc7,d8c7,rnb2r2/ppk3p1/2pp4/2q1p1Q1/2P1P3/PBB5/1P3PPP/3R1RK1 w - - 1 21,"Oooh lovely, bishop in the way or king moves and I snaffle the rook yeah?"
+41,Qe7+,g5e7,rnb2r2/ppk1Q1p1/2pp4/2q1p3/2P1P3/PBB5/1P3PPP/3R1RK1 b - - 2 21,"Oooh lovely, bishop in the way or king moves and I snaffle the rook yeah?"
+42,Nd7,b8d7,r1b2r2/ppknQ1p1/2pp4/2q1p3/2P1P3/PBB5/1P3PPP/3R1RK1 w - - 3 22,"Ok, so its the knight I'll still snaffle the rook right?"
+43,Qxf8,e7f8,r1b2Q2/ppkn2p1/2pp4/2q1p3/2P1P3/PBB5/1P3PPP/3R1RK1 b - - 0 22,No. Ah. Oops. Now that wasn't part of the plan.
+44,Nxf8,d7f8,r1b2n2/ppk3p1/2pp4/2q1p3/2P1P3/PBB5/1P3PPP/3R1RK1 w - - 0 23,No. Ah. Oops. Now that wasn't part of the plan.
+45,Bb4,c3b4,r1b2n2/ppk3p1/2pp4/2q1p3/1BP1P3/PB6/1P3PPP/3R1RK1 b - - 1 23,Lets harass and see what happens.
+46,Qb6,c5b6,r1b2n2/ppk3p1/1qpp4/4p3/1BP1P3/PB6/1P3PPP/3R1RK1 w - - 2 24,I'm such a lucky Panda. When I check with my next move the king is forced onto the d file...
+47,Bxd6+,b4d6,r1b2n2/ppk3p1/1qpB4/4p3/2P1P3/PB6/1P3PPP/3R1RK1 b - - 0 24,And then I can pull a nasty trick like that on my unfortunate opponent.
+48,Kd8,c7d8,r1bk1n2/pp4p1/1qpB4/4p3/2P1P3/PB6/1P3PPP/3R1RK1 w - - 1 25,And then I can pull a nasty trick like that on my unfortunate opponent.
+49,Bc5+,d6c5,r1bk1n2/pp4p1/1qp5/2B1p3/2P1P3/PB6/1P3PPP/3R1RK1 b - - 2 25,And then I can pull a nasty trick like that on my unfortunate opponent.
+50,Bd7,c8d7,r2k1n2/pp1b2p1/1qp5/2B1p3/2P1P3/PB6/1P3PPP/3R1RK1 w - - 3 26,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+51,Bxb6+,c5b6,r2k1n2/pp1b2p1/1Bp5/4p3/2P1P3/PB6/1P3PPP/3R1RK1 b - - 0 26,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+52,axb6,a7b6,r2k1n2/1p1b2p1/1pp5/4p3/2P1P3/PB6/1P3PPP/3R1RK1 w - - 0 27,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+53,f4,f2f4,r2k1n2/1p1b2p1/1pp5/4p3/2P1PP2/PB6/1P4PP/3R1RK1 b - - 0 27,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+54,Ne6,f8e6,r2k4/1p1b2p1/1pp1n3/4p3/2P1PP2/PB6/1P4PP/3R1RK1 w - - 1 28,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+55,fxe5,f4e5,r2k4/1p1b2p1/1pp1n3/4P3/2P1P3/PB6/1P4PP/3R1RK1 b - - 0 28,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+56,c5,c6c5,r2k4/1p1b2p1/1p2n3/2p1P3/2P1P3/PB6/1P4PP/3R1RK1 w - - 0 29,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+57,Rd6,d1d6,r2k4/1p1b2p1/1p1Rn3/2p1P3/2P1P3/PB6/1P4PP/5RK1 b - - 1 29,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+58,Nc7,e6c7,r2k4/1pnb2p1/1p1R4/2p1P3/2P1P3/PB6/1P4PP/5RK1 w - - 2 30,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+59,Rfd1,f1d1,r2k4/1pnb2p1/1p1R4/2p1P3/2P1P3/PB6/1P4PP/3R2K1 b - - 3 30,"Now I'm being nasty. Relief always makes me want to maim, kill, slaughter. I'm a kind gentle soul in life. Honest."
+60,Ke7,d8e7,r7/1pnbk1p1/1p1R4/2p1P3/2P1P3/PB6/1P4PP/3R2K1 w - - 4 31,Probably e8 would have been better.
+61,Rd6xd7+,d6d7,r7/1pnRk1p1/1p6/2p1P3/2P1P3/PB6/1P4PP/3R2K1 b - - 0 31,Sac the e pawns to grab the b pawns and with a considerable advantage now I felt guilty enough about my somewhat aggressive tendencies to offer a draw. Which my opponent thought long and hard about before accepting *lol* they were probably hoping I'd have another brainfart!
+62,Ke6,e7e6,r7/1pnR2p1/1p2k3/2p1P3/2P1P3/PB6/1P4PP/3R2K1 w - - 1 32,Sac the e pawns to grab the b pawns and with a considerable advantage now I felt guilty enough about my somewhat aggressive tendencies to offer a draw. Which my opponent thought long and hard about before accepting *lol* they were probably hoping I'd have another brainfart!
+63,Rxc7,d7c7,r7/1pR3p1/1p2k3/2p1P3/2P1P3/PB6/1P4PP/3R2K1 b - - 0 32,Sac the e pawns to grab the b pawns and with a considerable advantage now I felt guilty enough about my somewhat aggressive tendencies to offer a draw. Which my opponent thought long and hard about before accepting *lol* they were probably hoping I'd have another brainfart!
+64,Rb8,a8b8,1r6/1pR3p1/1p2k3/2p1P3/2P1P3/PB6/1P4PP/3R2K1 w - - 1 33,Sac the e pawns to grab the b pawns and with a considerable advantage now I felt guilty enough about my somewhat aggressive tendencies to offer a draw. Which my opponent thought long and hard about before accepting *lol* they were probably hoping I'd have another brainfart!
+65,Rd6+,d1d6,1r6/1pR3p1/1p1Rk3/2p1P3/2P1P3/PB6/1P4PP/6K1 b - - 2 33,Sac the e pawns to grab the b pawns and with a considerable advantage now I felt guilty enough about my somewhat aggressive tendencies to offer a draw. Which my opponent thought long and hard about before accepting *lol* they were probably hoping I'd have another brainfart!

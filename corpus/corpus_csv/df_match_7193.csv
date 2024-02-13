@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Benoni system
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The Benoni system
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The Benoni system
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The Benoni system
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,The Benko Gambit
+6,b5,b7b5,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,The Benko Gambit
+7,cxb5,c4b5,rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 4,"..a6 is usually always played in the Benko. This gambit leads to lively play, and played correctly gives black excellent winning chances. Especially against unprepared white opponents."
+8,a6,a7a6,rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5,"..a6 is usually always played in the Benko. This gambit leads to lively play, and played correctly gives black excellent winning chances. Especially against unprepared white opponents."
+9,bxa6,b5a6,rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 5,Accepting black's second pawn
+10,g6,g7g6,rnbqkb1r/3ppp1p/P4np1/2pP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 6,"This is an interesting system, that I had studied but not actually played against in a real game"
+11,Nc3,b1c3,rnbqkb1r/3ppp1p/P4np1/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 6,"This is an interesting system, that I had studied but not actually played against in a real game"
+12,Bxa6,c8a6,rn1qkb1r/3ppp1p/b4np1/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 7,"This is an interesting system, that I had studied but not actually played against in a real game"
+13,g3,g2g3,rn1qkb1r/3ppp1p/b4np1/2pP4/8/2N3P1/PP2PP1P/R1BQKBNR b KQkq - 0 7,"This is an interesting system, that I had studied but not actually played against in a real game"
+14,d6,d7d6,rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N3P1/PP2PP1P/R1BQKBNR w KQkq - 0 8,Normal
+15,Nh3,g1h3,rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N3PN/PP2PP1P/R1BQKB1R b KQkq - 1 8,"A very interesting move. As the game develops, you will see exactly how powerful this move is. Here is an example of a top level game played using this particular line. [Event ""Vienna Millenium""]
+[White ""Jussupow, Artur""]
+[Black ""Topalov, Veselin""]
+[Result ""1/2-1/2""]
+[WhiteElo ""2665""]
+[BlackElo ""2750""]
+[EventDate ""1996.08.09""]
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. g3 d6 8. Nh3
+Bg7 9. Nf4 Nbd7 10. h4 h5 11. Bh3 O-O 12. Qc2 Ne5 13. O-O Qb6 14. Rb1 Bc8 15.
+Bxc8 Rfxc8 16. b3 Nfg4 17. Kg2 c4 18. Ne4 Qa7 19. a3 cxb3 20. Qxb3 Nc4 21. Ng5
+Nxa3 22. Qxa3 Qxa3 23. Bxa3 Rxa3 1/2-1/2"
+16,Bg7,f8g7,rn1qk2r/4ppbp/b2p1np1/2pP4/8/2N3PN/PP2PP1P/R1BQKB1R w KQkq - 2 9,"This is the key move in this variation. I play the solid ..h5. In preparation I understood this line to be drawish, but having played against it I am quite impressed by white's options."
+17,Nf4,h3f4,rn1qk2r/4ppbp/b2p1np1/2pP4/5N2/2N3P1/PP2PP1P/R1BQKB1R b KQkq - 3 9,"This is the key move in this variation. I play the solid ..h5. In preparation I understood this line to be drawish, but having played against it I am quite impressed by white's options."
+18,Nbd7,b8d7,r2qk2r/3nppbp/b2p1np1/2pP4/5N2/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 4 10,"This is the key move in this variation. I play the solid ..h5. In preparation I understood this line to be drawish, but having played against it I am quite impressed by white's options."
+19,h4,h2h4,r2qk2r/3nppbp/b2p1np1/2pP4/5N1P/2N3P1/PP2PP2/R1BQKB1R b KQkq - 0 10,"This is the key move in this variation. I play the solid ..h5. In preparation I understood this line to be drawish, but having played against it I am quite impressed by white's options."
+20,h5,h7h5,r2qk2r/3nppb1/b2p1np1/2pP3p/5N1P/2N3P1/PP2PP2/R1BQKB1R w KQkq - 0 11,Solid reply
+21,Bg2,f1g2,r2qk2r/3nppb1/b2p1np1/2pP3p/5N1P/2N3P1/PP2PPB1/R1BQK2R b KQkq - 1 11,"This is interesting. I needed to think about this. I expected Bh3, and tried to identify the strengths and weaknesses of the bishop being on g2. The main advantage is the overprotection of the d5 pawn, the prevention of black tactical finesses involving ..Nfe4 and a discovered attack with the bishop on g7, as well as the possibility of moving to e4 at some point to press against black's g6 pawn. The main disadvantage is the bishop being blocked for most of the game by the d5 pawn, the inability to support the move g4,  and the inability to later contest the h3-c8 light-square diagonal when black switches his bishop via c8 to the f5 square (very typical in this line, as white usually places his queen on c2)."
+22,O-O,e8g8,r2q1rk1/3nppb1/b2p1np1/2pP3p/5N1P/2N3P1/PP2PPB1/R1BQK2R w KQ - 2 12,"Again typical. Black often locates his rooks on the a and b-files, and plays ..c4 in the benko. At this point his game comes to life, and combined with his dark-square bishop he usually wins his pawn back"
+23,Qc2,d1c2,r2q1rk1/3nppb1/b2p1np1/2pP3p/5N1P/2N3P1/PPQ1PPB1/R1B1K2R b KQ - 3 12,"Again typical. Black often locates his rooks on the a and b-files, and plays ..c4 in the benko. At this point his game comes to life, and combined with his dark-square bishop he usually wins his pawn back"
+24,Ne5,d7e5,r2q1rk1/4ppb1/b2p1np1/2pPn2p/5N1P/2N3P1/PPQ1PPB1/R1B1K2R w KQ - 4 13,"Again typical. Black often locates his rooks on the a and b-files, and plays ..c4 in the benko. At this point his game comes to life, and combined with his dark-square bishop he usually wins his pawn back"
+25,O-O,e1g1,r2q1rk1/4ppb1/b2p1np1/2pPn2p/5N1P/2N3P1/PPQ1PPB1/R1B2RK1 b - - 5 13,"On reflection, I'm not totally happy with this move. Yes this move and the plan that follows is typical in the systems where white plays Bh3, but I feel its not necessary here."
+26,Qa5,d8a5,r4rk1/4ppb1/b2p1np1/q1pPn2p/5N1P/2N3P1/PPQ1PPB1/R1B2RK1 w - - 6 14,"On reflection, I'm not totally happy with this move. Yes this move and the plan that follows is typical in the systems where white plays Bh3, but I feel its not necessary here."
+27,b3,b2b3,r4rk1/4ppb1/b2p1np1/q1pPn2p/5N1P/1PN3P1/P1Q1PPB1/R1B2RK1 b - - 0 14,Typical move to slow ..c4
+28,Rfb8,f8b8,rr4k1/4ppb1/b2p1np1/q1pPn2p/5N1P/1PN3P1/P1Q1PPB1/R1B2RK1 w - - 1 15,Black gets ready for some fun
+29,Bd2,c1d2,rr4k1/4ppb1/b2p1np1/q1pPn2p/5N1P/1PN3P1/P1QBPPB1/R4RK1 b - - 2 15,White threatens a discovered attack on the queen
+30,Bc8,a6c8,rrb3k1/4ppb1/3p1np1/q1pPn2p/5N1P/1PN3P1/P1QBPPB1/R4RK1 w - - 3 16,"Thematic. Travelling via c8 to the f5 square to contest the diagonal, threaten the white queen, and protect g6"
+31,Ne4,c3e4,rrb3k1/4ppb1/3p1np1/q1pPn2p/4NN1P/1P4P1/P1QBPPB1/R4RK1 b - - 4 16,I think this position is already a little better for white
+32,Qa3,a5a3,rrb3k1/4ppb1/3p1np1/2pPn2p/4NN1P/qP4P1/P1QBPPB1/R4RK1 w - - 5 17,"The queen has to go somewhere, but this is not the correct place to support ..c4"
+33,Bc3,d2c3,rrb3k1/4ppb1/3p1np1/2pPn2p/4NN1P/qPB3P1/P1Q1PPB1/R4RK1 b - - 6 17,Neutralising some of black's threats that involve a knight move revealing a discovered attack from the dark-square bishop. White shows a deep understanding of the position
+34,Bf5,c8f5,rr4k1/4ppb1/3p1np1/2pPnb1p/4NN1P/qPB3P1/P1Q1PPB1/R4RK1 w - - 7 18,Thematic

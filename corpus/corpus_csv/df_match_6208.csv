@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's gambit.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queen's gambit.
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Queen's gambit.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3,Queen's gambit.
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,Queen's gambit.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 4,Declined.
+7,Nc3,b1c3,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 1 4,Declined.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 2 5,Declined.
+9,g3,g2g3,rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N1P1P1/PP3P1P/R1BQKBNR b KQkq - 0 5,Declined.
+10,e6,e7e6,rnbqk2r/ppp2pbp/4pnp1/3p4/2PP4/2N1P1P1/PP3P1P/R1BQKBNR w KQkq - 0 6,Declined.
+11,cxd5,c4d5,rnbqk2r/ppp2pbp/4pnp1/3P4/3P4/2N1P1P1/PP3P1P/R1BQKBNR b KQkq - 0 6,"!?  Aggressive, but really lacking in teeth because Nf3 does the trick."
+12,Nxd5,f6d5,rnbqk2r/ppp2pbp/4p1p1/3n4/3P4/2N1P1P1/PP3P1P/R1BQKBNR w KQkq - 0 7,"!?  Aggressive, but really lacking in teeth because Nf3 does the trick."
+13,Nxd5,c3d5,rnbqk2r/ppp2pbp/4p1p1/3N4/3P4/4P1P1/PP3P1P/R1BQKBNR b KQkq - 0 7,"!?  Aggressive, but really lacking in teeth because Nf3 does the trick."
+14,Qxd5,d8d5,rnb1k2r/ppp2pbp/4p1p1/3q4/3P4/4P1P1/PP3P1P/R1BQKBNR w KQkq - 0 8,"!?  Aggressive, but really lacking in teeth because Nf3 does the trick."
+15,Qf3,d1f3,rnb1k2r/ppp2pbp/4p1p1/3q4/3P4/4PQP1/PP3P1P/R1B1KBNR b KQkq - 1 8,As does this: meeting aggression with aggression.
+16,c6,c7c6,rnb1k2r/pp3pbp/2p1p1p1/3q4/3P4/4PQP1/PP3P1P/R1B1KBNR w KQkq - 0 9,"Very aggressive.  Expected Qxd5; Actually wanted it, but for some reason this move makes me think he wanted to exchange except the exchange makes no sense for him because his bishop will be 'biting on granite' as another annotator once stated."
+17,Bg2,f1g2,rnb1k2r/pp3pbp/2p1p1p1/3q4/3P4/4PQP1/PP3PBP/R1B1K1NR b KQkq - 1 9,"Very aggressive.  Expected Qxd5; Actually wanted it, but for some reason this move makes me think he wanted to exchange except the exchange makes no sense for him because his bishop will be 'biting on granite' as another annotator once stated."
+18,Qa5+,d5a5,rnb1k2r/pp3pbp/2p1p1p1/q7/3P4/4PQP1/PP3PBP/R1B1K1NR w KQkq - 2 10,"More baiting than bite, but these little probes are all what real chess is."
+19,Bd2,c1d2,rnb1k2r/pp3pbp/2p1p1p1/q7/3P4/4PQP1/PP1B1PBP/R3K1NR b KQkq - 3 10,Dual threats: b2 and preventing an immediate castle.
+20,Qb5,a5b5,rnb1k2r/pp3pbp/2p1p1p1/1q6/3P4/4PQP1/PP1B1PBP/R3K1NR w KQkq - 4 11,Dual threats: b2 and preventing an immediate castle.
+21,b3,b2b3,rnb1k2r/pp3pbp/2p1p1p1/1q6/3P4/1P2PQP1/P2B1PBP/R3K1NR b KQkq - 0 11,"The queen is now misplaced on b5, but I have to try and gain control of the a8-h1 diagonal simply because he wants it."
+22,O-O,e8g8,rnb2rk1/pp3pbp/2p1p1p1/1q6/3P4/1P2PQP1/P2B1PBP/R3K1NR w KQ - 1 12,"The queen is now misplaced on b5, but I have to try and gain control of the a8-h1 diagonal simply because he wants it."
+23,Ne2,g1e2,rnb2rk1/pp3pbp/2p1p1p1/1q6/3P4/1P2PQP1/P2BNPBP/R3K2R b KQ - 2 12,"The queen is now misplaced on b5, but I have to try and gain control of the a8-h1 diagonal simply because he wants it."
+24,b6,b7b6,rnb2rk1/p4pbp/1pp1p1p1/1q6/3P4/1P2PQP1/P2BNPBP/R3K2R w KQ - 0 13,"perhaps a mistep, but I would as soon trade on my terms."
+25,O-O,e1g1,rnb2rk1/p4pbp/1pp1p1p1/1q6/3P4/1P2PQP1/P2BNPBP/R4RK1 b - - 1 13,"perhaps a mistep, but I would as soon trade on my terms."
+26,Bb7,c8b7,rn3rk1/pb3pbp/1pp1p1p1/1q6/3P4/1P2PQP1/P2BNPBP/R4RK1 w - - 2 14,"perhaps a mistep, but I would as soon trade on my terms."
+27,Nc3,e2c3,rn3rk1/pb3pbp/1pp1p1p1/1q6/3P4/1PN1PQP1/P2B1PBP/R4RK1 b - - 3 14,"perhaps a mistep, but I would as soon trade on my terms."
+28,Qf5,b5f5,rn3rk1/pb3pbp/1pp1p1p1/5q2/3P4/1PN1PQP1/P2B1PBP/R4RK1 w - - 4 15,"perhaps a mistep, but I would as soon trade on my terms."
+29,Qxf5,f3f5,rn3rk1/pb3pbp/1pp1p1p1/5Q2/3P4/1PN1P1P1/P2B1PBP/R4RK1 b - - 0 15,!?  With an aim of attack.
+30,gxf5,g6f5,rn3rk1/pb3pbp/1pp1p3/5p2/3P4/1PN1P1P1/P2B1PBP/R4RK1 w - - 0 16,!?  With an aim of attack.
+31,Rfc1,f1c1,rn3rk1/pb3pbp/1pp1p3/5p2/3P4/1PN1P1P1/P2B1PBP/R1R3K1 b - - 1 16,His plan is clear: take advantage of the relative pin on the c pawn to win it.
+32,Nd7,b8d7,r4rk1/pb1n1pbp/1pp1p3/5p2/3P4/1PN1P1P1/P2B1PBP/R1R3K1 w - - 2 17,!
+33,h4,h2h4,r4rk1/pb1n1pbp/1pp1p3/5p2/3P3P/1PN1P1P1/P2B1PB1/R1R3K1 b - - 0 17,!
+34,e5,e6e5,r4rk1/pb1n1pbp/1pp5/4pp2/3P3P/1PN1P1P1/P2B1PB1/R1R3K1 w - - 0 18,"Partially expected f4, but he probably thought it too weakening, and it is."
+35,dxe5,d4e5,r4rk1/pb1n1pbp/1pp5/4Pp2/7P/1PN1P1P1/P2B1PB1/R1R3K1 b - - 0 18,"Partially expected f4, but he probably thought it too weakening, and it is."
+36,Bxe5,g7e5,r4rk1/pb1n1p1p/1pp5/4bp2/7P/1PN1P1P1/P2B1PB1/R1R3K1 w - - 0 19,"Partially expected f4, but he probably thought it too weakening, and it is."
+37,Rab1,a1b1,r4rk1/pb1n1p1p/1pp5/4bp2/7P/1PN1P1P1/P2B1PB1/1RR3K1 b - - 1 19,"Partially expected f4, but he probably thought it too weakening, and it is."
+38,Kh8,g8h8,r4r1k/pb1n1p1p/1pp5/4bp2/7P/1PN1P1P1/P2B1PB1/1RR3K1 w - - 2 20,!
+39,Ne2,c3e2,r4r1k/pb1n1p1p/1pp5/4bp2/7P/1P2P1P1/P2BNPB1/1RR3K1 b - - 3 20,!
+40,Nc5,d7c5,r4r1k/pb3p1p/1pp5/2n1bp2/7P/1P2P1P1/P2BNPB1/1RR3K1 w - - 4 21,"Closing down the threat on c6, but not really..."
+41,Bc3,d2c3,r4r1k/pb3p1p/1pp5/2n1bp2/7P/1PB1P1P1/P3NPB1/1RR3K1 b - - 5 21,"Understandable, but the simple b4 seems best."
+42,Bxc3,e5c3,r4r1k/pb3p1p/1pp5/2n2p2/7P/1Pb1P1P1/P3NPB1/1RR3K1 w - - 0 22,"I really have to wonder why not b4?  Two defenders, two attackers.  Tie goes to the defender."
+43,Rxc3,c1c3,r4r1k/pb3p1p/1pp5/2n2p2/7P/1PR1P1P1/P3NPB1/1R4K1 b - - 0 22,"I really have to wonder why not b4?  Two defenders, two attackers.  Tie goes to the defender."
+44,Rac8,a8c8,2r2r1k/pb3p1p/1pp5/2n2p2/7P/1PR1P1P1/P3NPB1/1R4K1 w - - 1 23,"I really have to wonder why not b4?  Two defenders, two attackers.  Tie goes to the defender."
+45,Rbc1,b1c1,2r2r1k/pb3p1p/1pp5/2n2p2/7P/1PR1P1P1/P3NPB1/2R3K1 b - - 2 23,"I really have to wonder why not b4?  Two defenders, two attackers.  Tie goes to the defender."
+46,Rc7,c8c7,5r1k/pbr2p1p/1pp5/2n2p2/7P/1PR1P1P1/P3NPB1/2R3K1 w - - 3 24,But surely now b4 was best!
+47,Nd4,e2d4,5r1k/pbr2p1p/1pp5/2n2p2/3N3P/1PR1P1P1/P4PB1/2R3K1 b - - 4 24,But surely now b4 was best!
+48,Rfc8,f8c8,2r4k/pbr2p1p/1pp5/2n2p2/3N3P/1PR1P1P1/P4PB1/2R3K1 w - - 5 25,"I flounder for a plan, but he might be too set on his."
+49,Nxf5,d4f5,2r4k/pbr2p1p/1pp5/2n2N2/7P/1PR1P1P1/P4PB1/2R3K1 b - - 0 25,"I flounder for a plan, but he might be too set on his."
+50,Ne6,c5e6,2r4k/pbr2p1p/1pp1n3/5N2/7P/1PR1P1P1/P4PB1/2R3K1 w - - 1 26,"His move gives me my plan, moving my rooks to the open file."
+51,Nd6,f5d6,2r4k/pbr2p1p/1ppNn3/8/7P/1PR1P1P1/P4PB1/2R3K1 b - - 2 26,"His move gives me my plan, moving my rooks to the open file."

@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This is an interesting game from the big mini-tournament ""King's Indian Defense, Four-pawn-variant"". White starts a strong attack on the black king, gets somewhat stuck in the process and eventually wins the endgame."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+9,f4,f2f4,rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 5,This is the Four-Pawn-Variant. White builds an impressive center which black aims to attack in the following. White aims to use his center majority to put pressure on the black position and eventually attack the black king.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR w KQ - 1 6,"Alternatives: 6...c5 (makes the position somewhat ""Benoni-ish""), 6...Bg4, 6...Nbd7, 6...c6"
+11,Nf3,g1f3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R b KQ - 2 6,"Alternatives: 6...c5 (makes the position somewhat ""Benoni-ish""), 6...Bg4, 6...Nbd7, 6...c6"
+12,Na6,b8a6,r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R w KQ - 3 7,"Alternatives: 6...c5 (makes the position somewhat ""Benoni-ish""), 6...Bg4, 6...Nbd7, 6...c6"
+13,Be2,f1e2,r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPPP2/2N2N2/PP2B1PP/R1BQK2R b KQ - 4 7,Allows the center advance of the d-pawn.
+14,e5,e7e5,r1bq1rk1/ppp2pbp/n2p1np1/4p3/2PPPP2/2N2N2/PP2B1PP/R1BQK2R w KQ - 0 8,Allows the center advance of the d-pawn.
+15,fxe5,f4e5,r1bq1rk1/ppp2pbp/n2p1np1/4P3/2PPP3/2N2N2/PP2B1PP/R1BQK2R b KQ - 0 8,Allows the center advance of the d-pawn.
+16,dxe5,d6e5,r1bq1rk1/ppp2pbp/n4np1/4p3/2PPP3/2N2N2/PP2B1PP/R1BQK2R w KQ - 0 9,Aims at the e4-pawn.
+17,d5,d4d5,r1bq1rk1/ppp2pbp/n4np1/3Pp3/2P1P3/2N2N2/PP2B1PP/R1BQK2R b KQ - 0 9,Aims at the e4-pawn.
+18,Nc5,a6c5,r1bq1rk1/ppp2pbp/5np1/2nPp3/2P1P3/2N2N2/PP2B1PP/R1BQK2R w KQ - 1 10,Aims at the e4-pawn.
+19,Bg5,c1g5,r1bq1rk1/ppp2pbp/5np1/2nPp1B1/2P1P3/2N2N2/PP2B1PP/R2QK2R b KQ - 2 10,Covers the pawn e4 and opens the f-file.
+20,Qd6,d8d6,r1b2rk1/ppp2pbp/3q1np1/2nPp1B1/2P1P3/2N2N2/PP2B1PP/R2QK2R w KQ - 3 11,Covers the pawn e4 and opens the f-file.
+21,Nd2,f3d2,r1b2rk1/ppp2pbp/3q1np1/2nPp1B1/2P1P3/2N5/PP1NB1PP/R2QK2R b KQ - 4 11,Covers the pawn e4 and opens the f-file.
+22,c6,c7c6,r1b2rk1/pp3pbp/2pq1np1/2nPp1B1/2P1P3/2N5/PP1NB1PP/R2QK2R w KQ - 0 12,Attacks the white center.
+23,O-O,e1g1,r1b2rk1/pp3pbp/2pq1np1/2nPp1B1/2P1P3/2N5/PP1NB1PP/R2Q1RK1 b - - 1 12,"This is a mistake. Although white's position is already quite offensive, the next move gives the start to an avalanche. 12...a5 would have prevented this and claimed more territory on the queen side."
+24,a6,a7a6,r1b2rk1/1p3pbp/p1pq1np1/2nPp1B1/2P1P3/2N5/PP1NB1PP/R2Q1RK1 w - - 0 13,"This is a mistake. Although white's position is already quite offensive, the next move gives the start to an avalanche. 12...a5 would have prevented this and claimed more territory on the queen side."
+25,b4,b2b4,r1b2rk1/1p3pbp/p1pq1np1/2nPp1B1/1PP1P3/2N5/P2NB1PP/R2Q1RK1 b - - 0 13,"Maybe the best of the possible moves in this difficult situation. Black gives a piece for two pawns. But the white attack is still about to start. 
+Alternative is 13...Ncd7 which blocks the c8-bishop and gives way to the pawn attack c5-d6 which would constrict black's position considerably."
+26,Ncxe4,c5e4,r1b2rk1/1p3pbp/p1pq1np1/3Pp1B1/1PP1n3/2N5/P2NB1PP/R2Q1RK1 w - - 0 14,"Maybe the best of the possible moves in this difficult situation. Black gives a piece for two pawns. But the white attack is still about to start. 
+Alternative is 13...Ncd7 which blocks the c8-bishop and gives way to the pawn attack c5-d6 which would constrict black's position considerably."
+27,Ncxe4,c3e4,r1b2rk1/1p3pbp/p1pq1np1/3Pp1B1/1PP1N3/8/P2NB1PP/R2Q1RK1 b - - 0 14,What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!
+28,Nxe4,f6e4,r1b2rk1/1p3pbp/p1pq2p1/3Pp1B1/1PP1n3/8/P2NB1PP/R2Q1RK1 w - - 0 15,What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!
+29,Nxe4,d2e4,r1b2rk1/1p3pbp/p1pq2p1/3Pp1B1/1PP1N3/8/P3B1PP/R2Q1RK1 b - - 0 15,What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!
+30,Qxb4,d6b4,r1b2rk1/1p3pbp/p1p3p1/3Pp1B1/1qP1N3/8/P3B1PP/R2Q1RK1 w - - 0 16,What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!
+31,Nf6+,e4f6,r1b2rk1/1p3pbp/p1p2Np1/3Pp1B1/1qP5/8/P3B1PP/R2Q1RK1 b - - 1 16,What to happen next? 16...Bxf6 17.Bxf6 looks bad and 16...Kh8 is the only move!
+32,Kh8,g8h8,r1b2r1k/1p3pbp/p1p2Np1/3Pp1B1/1qP5/8/P3B1PP/R2Q1RK1 w - - 2 17,What is the best way to rip open the king's castle??
+33,d6,d5d6,r1b2r1k/1p3pbp/p1pP1Np1/4p1B1/1qP5/8/P3B1PP/R2Q1RK1 b - - 0 17,This establishes another threat to the black camp: the advancing pawn aims at the square d8 which is controlled by the queen on d1 and the bishop on g5.
+34,Qc5+,b4c5,r1b2r1k/1p3pbp/p1pP1Np1/2q1p1B1/2P5/8/P3B1PP/R2Q1RK1 w - - 1 18,The bishop has to get out before being suffocated by the pawn on d7.
+35,Kh1,g1h1,r1b2r1k/1p3pbp/p1pP1Np1/2q1p1B1/2P5/8/P3B1PP/R2Q1R1K b - - 2 18,The bishop has to get out before being suffocated by the pawn on d7.
+36,Be6,c8e6,r4r1k/1p3pbp/p1pPbNp1/2q1p1B1/2P5/8/P3B1PP/R2Q1R1K w - - 3 19,The bishop has to get out before being suffocated by the pawn on d7.
+37,Ne4,f6e4,r4r1k/1p3pbp/p1pPb1p1/2q1p1B1/2P1N3/8/P3B1PP/R2Q1R1K b - - 4 19,?! Takes an attacking piece away. Maybe 20.Qd2 was more precise.
+38,Qd4,c5d4,r4r1k/1p3pbp/p1pPb1p1/4p1B1/2PqN3/8/P3B1PP/R2Q1R1K w - - 5 20,?! Takes an attacking piece away. Maybe 20.Qd2 was more precise.
+39,Qxd4,d1d4,r4r1k/1p3pbp/p1pPb1p1/4p1B1/2PQN3/8/P3B1PP/R4R1K b - - 0 20,?! Takes an attacking piece away. Maybe 20.Qd2 was more precise.
+40,exd4,e5d4,r4r1k/1p3pbp/p1pPb1p1/6B1/2PpN3/8/P3B1PP/R4R1K w - - 0 21,This eliminates the black bishop on g7 but also relieves black from the pressure on d8.
+41,Bf6,g5f6,r4r1k/1p3pbp/p1pPbBp1/8/2PpN3/8/P3B1PP/R4R1K b - - 1 21,This eliminates the black bishop on g7 but also relieves black from the pressure on d8.
+42,Bxf6,g7f6,r4r1k/1p3p1p/p1pPbbp1/8/2PpN3/8/P3B1PP/R4R1K w - - 0 22,"At once, the rook goes to the square that was covered by the bishop before."
+43,Nxf6,e4f6,r4r1k/1p3p1p/p1pPbNp1/8/2Pp4/8/P3B1PP/R4R1K b - - 0 22,"At once, the rook goes to the square that was covered by the bishop before."
+44,Rfd8,f8d8,r2r3k/1p3p1p/p1pPbNp1/8/2Pp4/8/P3B1PP/R4R1K w - - 1 23,"At once, the rook goes to the square that was covered by the bishop before."
+45,c5,c4c5,r2r3k/1p3p1p/p1pPbNp1/2P5/3p4/8/P3B1PP/R4R1K b - - 0 23,Strengthens the pawn on d6 but can be attacked from the side by pawn b6.
+46,Kg7,h8g7,r2r4/1p3pkp/p1pPbNp1/2P5/3p4/8/P3B1PP/R4R1K w - - 1 24,! The king fixes the f1-rook to the knight.
+47,Bg4,e2g4,r2r4/1p3pkp/p1pPbNp1/2P5/3p2B1/8/P5PP/R4R1K b - - 2 24,"Attacks the white ""support-pawn"" but white's next move is strong."
+48,Bc4,e6c4,r2r4/1p3pkp/p1pP1Np1/2P5/2bp2B1/8/P5PP/R4R1K w - - 3 25,"Attacks the white ""support-pawn"" but white's next move is strong."
+49,Rf2,f1f2,r2r4/1p3pkp/p1pP1Np1/2P5/2bp2B1/8/P4RPP/R6K b - - 4 25,"Attacks the white ""support-pawn"" but white's next move is strong."
+50,Rab8,a8b8,1r1r4/1p3pkp/p1pP1Np1/2P5/2bp2B1/8/P4RPP/R6K w - - 5 26,"Attacks the white ""support-pawn"" but white's next move is strong."
+51,a4,a2a4,1r1r4/1p3pkp/p1pP1Np1/2P5/P1bp2B1/8/5RPP/R6K b - - 0 26,"Attacks the white ""support-pawn"" but white's next move is strong."
+52,b6,b7b6,1r1r4/5pkp/pppP1Np1/2P5/P1bp2B1/8/5RPP/R6K w - - 0 27,"Attacks the white ""support-pawn"" but white's next move is strong."
+53,Nd7,f6d7,1r1r4/3N1pkp/pppP2p1/2P5/P1bp2B1/8/5RPP/R6K b - - 1 27,! The only move.

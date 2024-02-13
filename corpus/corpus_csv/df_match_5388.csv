@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,"Interesting opening, the Polish (Sokolsky) opening, I believe, up until Black's second move."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,All by the book.
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/1P6/2N5/P1PPPPPP/R1BQKBNR b KQkq - 1 2,All by the book.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/1P6/2N5/P1PPPPPP/R1BQKBNR w KQkq - 0 3,All by the book.
+5,e4,e2e4,rnbqkbnr/ppp2ppp/4p3/3p4/1P2P3/2N5/P1PP1PPP/R1BQKBNR b KQkq - 0 3,"From this move on, the opening is no longer found in the Gameknot database."
+6,Bxb4,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b2P3/2N5/P1PP1PPP/R1BQKBNR w KQkq - 0 4,Picking up almost free material.
+7,exd5,e4d5,rnbqk1nr/ppp2ppp/4p3/3P4/1b6/2N5/P1PP1PPP/R1BQKBNR b KQkq - 0 4,Now I'm ahead.
+8,exd5,e6d5,rnbqk1nr/ppp2ppp/8/3p4/1b6/2N5/P1PP1PPP/R1BQKBNR w KQkq - 0 5,Now I'm ahead.
+9,Nb5,c3b5,rnbqk1nr/ppp2ppp/8/1N1p4/1b6/8/P1PP1PPP/R1BQKBNR b KQkq - 1 5,Waste of a tempo. Why?
+10,Bd7,c8d7,rn1qk1nr/pppb1ppp/8/1N1p4/1b6/8/P1PP1PPP/R1BQKBNR w KQkq - 2 6,Checking and protecting the Knight.
+11,Qe2+,d1e2,rn1qk1nr/pppb1ppp/8/1N1p4/1b6/8/P1PPQPPP/R1B1KBNR b KQkq - 3 6,Checking and protecting the Knight.
+12,Ne7,g8e7,rn1qk2r/pppbnppp/8/1N1p4/1b6/8/P1PPQPPP/R1B1KBNR w KQkq - 4 7,"Three Knight moves out of the 9 he's had, and to no avail."
+13,g3,g2g3,rn1qk2r/pppbnppp/8/1N1p4/1b6/6P1/P1PPQP1P/R1B1KBNR b KQkq - 0 7,"Three Knight moves out of the 9 he's had, and to no avail."
+14,a6,a7a6,rn1qk2r/1ppbnppp/p7/1N1p4/1b6/6P1/P1PPQP1P/R1B1KBNR w KQkq - 0 8,"Three Knight moves out of the 9 he's had, and to no avail."
+15,Nd4,b5d4,rn1qk2r/1ppbnppp/p7/3p4/1b1N4/6P1/P1PPQP1P/R1B1KBNR b KQkq - 1 8,"Three Knight moves out of the 9 he's had, and to no avail."
+16,O-O,e8g8,rn1q1rk1/1ppbnppp/p7/3p4/1b1N4/6P1/P1PPQP1P/R1B1KBNR w KQ - 2 9,"Three Knight moves out of the 9 he's had, and to no avail."
+17,Ne6,d4e6,rn1q1rk1/1ppbnppp/p3N3/3p4/1b6/6P1/P1PPQP1P/R1B1KBNR b KQ - 3 9,"Three Knight moves out of the 9 he's had, and to no avail."
+18,Bxe6,d7e6,rn1q1rk1/1pp1nppp/p3b3/3p4/1b6/6P1/P1PPQP1P/R1B1KBNR w KQ - 0 10,I did not want to weaken my Kingside.
+19,Bh3,f1h3,rn1q1rk1/1pp1nppp/p3b3/3p4/1b6/6PB/P1PPQP1P/R1B1K1NR b KQ - 1 10,Trade when you are ahead.
+20,Bxh3,e6h3,rn1q1rk1/1pp1nppp/p7/3p4/1b6/6Pb/P1PPQP1P/R1B1K1NR w KQ - 0 11,Hoping for Rook-King fork on c2.
+21,Nxh3,g1h3,rn1q1rk1/1pp1nppp/p7/3p4/1b6/6PN/P1PPQP1P/R1B1K2R b KQ - 0 11,Hoping for Rook-King fork on c2.
+22,Nbc6,b8c6,r2q1rk1/1pp1nppp/p1n5/3p4/1b6/6PN/P1PPQP1P/R1B1K2R w KQ - 1 12,Hoping for Rook-King fork on c2.
+23,Ng5,h3g5,r2q1rk1/1pp1nppp/p1n5/3p2N1/1b6/6P1/P1PPQP1P/R1B1K2R b KQ - 2 12,Might as well scare the Queen.
+24,Nd4,c6d4,r2q1rk1/1pp1nppp/p7/3p2N1/1b1n4/6P1/P1PPQP1P/R1B1K2R w KQ - 3 13,Might as well scare the Queen.
+25,Qd3,e2d3,r2q1rk1/1pp1nppp/p7/3p2N1/1b1n4/3Q2P1/P1PP1P1P/R1B1K2R b KQ - 4 13,"To the wrong spot, though."
+26,Nef5,e7f5,r2q1rk1/1pp2ppp/p7/3p1nN1/1b1n4/3Q2P1/P1PP1P1P/R1B1K2R w KQ - 5 14,"Saving the Knight. Puts the pair in a weird predicament, though."
+27,g4,g3g4,r2q1rk1/1pp2ppp/p7/3p1nN1/1b1n2P1/3Q4/P1PP1P1P/R1B1K2R b KQ - 0 14,Pick up a free Knight.
+28,Re8+,f8e8,r2qr1k1/1pp2ppp/p7/3p1nN1/1b1n2P1/3Q4/P1PP1P1P/R1B1K2R w KQ - 1 15,Pick up a free Knight.
+29,Kf1,e1f1,r2qr1k1/1pp2ppp/p7/3p1nN1/1b1n2P1/3Q4/P1PP1P1P/R1B2K1R b - - 2 15,Pick up a free Knight.
+30,Qxg5,d8g5,r3r1k1/1pp2ppp/p7/3p1nq1/1b1n2P1/3Q4/P1PP1P1P/R1B2K1R w - - 0 16,Pick up a free Knight.
+31,Rg1,h1g1,r3r1k1/1pp2ppp/p7/3p1nq1/1b1n2P1/3Q4/P1PP1P1P/R1B2KR1 b - - 1 16,Protecting them both.
+32,Qf4,g5f4,r3r1k1/1pp2ppp/p7/3p1n2/1b1n1qP1/3Q4/P1PP1P1P/R1B2KR1 w - - 2 17,Protecting them both.
+33,Bb2,c1b2,r3r1k1/1pp2ppp/p7/3p1n2/1b1n1qP1/3Q4/PBPP1P1P/R4KR1 b - - 3 17,Now I lose them both.
+34,Qxh2,f4h2,r3r1k1/1pp2ppp/p7/3p1n2/1b1n2P1/3Q4/PBPP1P1q/R4KR1 w - - 0 18,Now I lose them both.
+35,Bxd4,b2d4,r3r1k1/1pp2ppp/p7/3p1n2/1b1B2P1/3Q4/P1PP1P1q/R4KR1 b - - 0 18,This should of happened on move 20.
+36,Nxd4,f5d4,r3r1k1/1pp2ppp/p7/3p4/1b1n2P1/3Q4/P1PP1P1q/R4KR1 w - - 0 19,This should of happened on move 20.
+37,Qxd4,d3d4,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/8/P1PP1P1q/R4KR1 b - - 0 19,This should of happened on move 20.
+38,Qh3+,h2h3,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/7q/P1PP1P2/R4KR1 w - - 1 20,This should of happened on move 20.
+39,Rg2,g1g2,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/7q/P1PP1PR1/R4K2 b - - 2 20,This should of happened on move 20.
+40,Qh1+,h3h1,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/8/P1PP1PR1/R4K1q w - - 3 21,This should of happened on move 20.
+41,Rg1,g2g1,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/8/P1PP1P2/R4KRq b - - 4 21,This should of happened on move 20.
+42,Qf3,h1f3,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/R4KR1 w - - 5 22,This should of happened on move 20.
+43,Re1,a1e1,r3r1k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/4RKR1 b - - 6 22,This should of happened on move 20.
+44,Rxe1+,e8e1,r5k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/4rKR1 w - - 0 23,This should of happened on move 20.
+45,Kxe1,f1e1,r5k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/4K1R1 b - - 0 23,This should of happened on move 20.
+46,Re8+,a8e8,4r1k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/4K1R1 w - - 1 24,This should of happened on move 20.
+47,Kf1,e1f1,4r1k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1P2/5KR1 b - - 2 24,This should of happened on move 20.
+48,Qh3+,f3h3,4r1k1/1pp2ppp/p7/3p4/1b1Q2P1/7q/P1PP1P2/5KR1 w - - 3 25,This should of happened on move 20.
+49,Rg2,g1g2,4r1k1/1pp2ppp/p7/3p4/1b1Q2P1/7q/P1PP1PR1/5K2 b - - 4 25,This should of happened on move 20.
+50,Qf3,h3f3,4r1k1/1pp2ppp/p7/3p4/1b1Q2P1/5q2/P1PP1PR1/5K2 w - - 5 26,This should of happened on move 20.
+51,Qb2,d4b2,4r1k1/1pp2ppp/p7/3p4/1b4P1/5q2/PQPP1PR1/5K2 b - - 6 26,"Here is the Question: WHY, White?! Why??"
+52,Qd1#,f3d1,4r1k1/1pp2ppp/p7/3p4/1b4P1/8/PQPP1PR1/3q1K2 w - - 7 27,"Maybe he didn't see it...I guess I'll never know. Thanks for watching, please rate and comment."

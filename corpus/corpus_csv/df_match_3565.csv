@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"ThenSicillian opening. Does not help black really develop, but challenges White power in the center."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"ThenSicillian opening. Does not help black really develop, but challenges White power in the center."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,All normal play up to here.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,All normal play up to here.
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,All normal play up to here.
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,All normal play up to here.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,All normal play up to here.
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,All normal play up to here.
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,All normal play up to here.
+10,e5,e7e5,r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"The best move, I think, is d6, preventing Knd6+"
+11,Ndb5,d4b5,r1bqkb1r/pp1p1ppp/2n2n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6,"The best move, I think, is d6, preventing Knd6+"
+12,a6,a7a6,r1bqkb1r/1p1p1ppp/p1n2n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7,"The best move, I think, is d6, preventing Knd6+"
+13,Nd6+,b5d6,r1bqkb1r/1p1p1ppp/p1nN1n2/4p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 7,Blcking black from castling.
+14,Bxd6,f8d6,r1bqk2r/1p1p1ppp/p1nb1n2/4p3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 8,Blcking black from castling.
+15,Qxd6,d1d6,r1bqk2r/1p1p1ppp/p1nQ1n2/4p3/4P3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 8,Blcking black from castling.
+16,Qe7,d8e7,r1b1k2r/1p1pqppp/p1nQ1n2/4p3/4P3/2N5/PPP2PPP/R1B1KB1R w KQkq - 1 9,Knxe7 is better in my opinion because now the black king cannot castle and could be drawn to the center.
+17,Qxe7+,d6e7,r1b1k2r/1p1pQppp/p1n2n2/4p3/4P3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 9,Knxe7 is better in my opinion because now the black king cannot castle and could be drawn to the center.
+18,Kxe7,e8e7,r1b4r/1p1pkppp/p1n2n2/4p3/4P3/2N5/PPP2PPP/R1B1KB1R w KQ - 0 10,Knxe7 is better in my opinion because now the black king cannot castle and could be drawn to the center.
+19,Bg5,c1g5,r1b4r/1p1pkppp/p1n2n2/4p1B1/4P3/2N5/PPP2PPP/R3KB1R b KQ - 1 10,Pins knight and threatens Knd5+
+20,Nd4,c6d4,r1b4r/1p1pkppp/p4n2/4p1B1/3nP3/2N5/PPP2PPP/R3KB1R w KQ - 2 11,Thinking of Knxc2+
+21,O-O-O,e1c1,r1b4r/1p1pkppp/p4n2/4p1B1/3nP3/2N5/PPP2PPP/2KR1B1R b - - 3 11,Gives my rook an open file to use and stops knight threat.
+22,h6,h7h6,r1b4r/1p1pkpp1/p4n1p/4p1B1/3nP3/2N5/PPP2PPP/2KR1B1R w - - 0 12,"His mistake, but all other moves don't end too well for black anyway."
+23,Nd5+,c3d5,r1b4r/1p1pkpp1/p4n1p/3Np1B1/3nP3/8/PPP2PPP/2KR1B1R b - - 1 12,"His mistake, but all other moves don't end too well for black anyway."
+24,Ke6,e7e6,r1b4r/1p1p1pp1/p3kn1p/3Np1B1/3nP3/8/PPP2PPP/2KR1B1R w - - 2 13,"His mistake, but all other moves don't end too well for black anyway."
+25,Bxf6,g5f6,r1b4r/1p1p1pp1/p3kB1p/3Np3/3nP3/8/PPP2PPP/2KR1B1R b - - 0 13,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+26,gxf6,g7f6,r1b4r/1p1p1p2/p3kp1p/3Np3/3nP3/8/PPP2PPP/2KR1B1R w - - 0 14,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+27,Nc7+,d5c7,r1b4r/1pNp1p2/p3kp1p/4p3/3nP3/8/PPP2PPP/2KR1B1R b - - 1 14,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+28,Ke7,e6e7,r1b4r/1pNpkp2/p4p1p/4p3/3nP3/8/PPP2PPP/2KR1B1R w - - 2 15,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+29,Nxa8,c7a8,N1b4r/1p1pkp2/p4p1p/4p3/3nP3/8/PPP2PPP/2KR1B1R b - - 0 15,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+30,d5,d7d5,N1b4r/1p2kp2/p4p1p/3pp3/3nP3/8/PPP2PPP/2KR1B1R w - - 0 16,Allows my rook a way to the middle of the board and an attack on the black king is imminent.
+31,c3,c2c3,N1b4r/1p2kp2/p4p1p/3pp3/3nP3/2P5/PP3PPP/2KR1B1R b - - 0 16,Allows my rook a way to the middle of the board and an attack on the black king is imminent.

@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Reti Opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Now basically a transposition from 1.d4 d5 2.Nf3 which I am perfectly fine with
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,Now basically a transposition from 1.d4 d5 2.Nf3 which I am perfectly fine with
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,A little bit too prophylatic IMO. White wastes a move guarding a square which I might haven't even put the bishop on.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 2 3,A little bit too prophylatic IMO. White wastes a move guarding a square which I might haven't even put the bishop on.
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4,A little bit too prophylatic IMO. White wastes a move guarding a square which I might haven't even put the bishop on.
+7,a3,a2a3,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/P1N2N2/1PP1PPPP/R1BQKB1R b KQkq - 0 4,A little bit too prophylatic IMO. White wastes a move guarding a square which I might haven't even put the bishop on.
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/P1N2N2/1PP1PPPP/R1BQKB1R w KQkq - 0 5,"getting the typical strike on c5,usual in all Queen's pawn openings"
+9,Be3,c1e3,rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/P1N1BN2/1PP1PPPP/R2QKB1R b KQkq - 1 5,I would prefer 5.e3 because the Bishop looks awkward here. But it does threaten c5
+10,cxd4,c5d4,rnbqkb1r/pp3ppp/4pn2/3p4/3p4/P1N1BN2/1PP1PPPP/R2QKB1R w KQkq - 0 6,so I take the pawn. An interesting (and good) continuation would be 5...b6 planning to fianchetto the Bishop on b7 and keep the active center.
+11,Bxd4,e3d4,rnbqkb1r/pp3ppp/4pn2/3p4/3B4/P1N2N2/1PP1PPPP/R2QKB1R b KQkq - 0 6,interesting that the comp. gives this as a mistake. I would prefer this move. I win the two bishops
+12,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/3p4/3B4/P1N2N2/1PP1PPPP/R2QKB1R w KQkq - 1 7,interesting that the comp. gives this as a mistake. I would prefer this move. I win the two bishops
+13,e3,e2e3,r1bqkb1r/pp3ppp/2n1pn2/3p4/3B4/P1N1PN2/1PP2PPP/R2QKB1R b KQkq - 0 7,interesting that the comp. gives this as a mistake. I would prefer this move. I win the two bishops
+14,Nxd4,c6d4,r1bqkb1r/pp3ppp/4pn2/3p4/3n4/P1N1PN2/1PP2PPP/R2QKB1R w KQkq - 0 8,interesting that the comp. gives this as a mistake. I would prefer this move. I win the two bishops
+15,Nxd4,f3d4,r1bqkb1r/pp3ppp/4pn2/3p4/3N4/P1N1P3/1PP2PPP/R2QKB1R b KQkq - 0 8,Both sides are developing their pieces quietly
+16,Bd6,f8d6,r1bqk2r/pp3ppp/3bpn2/3p4/3N4/P1N1P3/1PP2PPP/R2QKB1R w KQkq - 1 9,Both sides are developing their pieces quietly
+17,Bd3,f1d3,r1bqk2r/pp3ppp/3bpn2/3p4/3N4/P1NBP3/1PP2PPP/R2QK2R b KQkq - 2 9,"interesting that I would gain the two bishops only to give them back. Indeed,I didn't follow my plan but I really shouldn't waste time retreating my Bishop"
+18,O-O,e8g8,r1bq1rk1/pp3ppp/3bpn2/3p4/3N4/P1NBP3/1PP2PPP/R2QK2R w KQ - 3 10,"interesting that I would gain the two bishops only to give them back. Indeed,I didn't follow my plan but I really shouldn't waste time retreating my Bishop"
+19,Ndb5,d4b5,r1bq1rk1/pp3ppp/3bpn2/1N1p4/8/P1NBP3/1PP2PPP/R2QK2R b KQ - 4 10,"interesting that I would gain the two bishops only to give them back. Indeed,I didn't follow my plan but I really shouldn't waste time retreating my Bishop"
+20,a6,a7a6,r1bq1rk1/1p3ppp/p2bpn2/1N1p4/8/P1NBP3/1PP2PPP/R2QK2R w KQ - 0 11,"interesting that I would gain the two bishops only to give them back. Indeed,I didn't follow my plan but I really shouldn't waste time retreating my Bishop"
+21,Nxd6,b5d6,r1bq1rk1/1p3ppp/p2Npn2/3p4/8/P1NBP3/1PP2PPP/R2QK2R b KQ - 0 11,clearing the back rank and not giving away where he will castle
+22,Qxd6,d8d6,r1b2rk1/1p3ppp/p2qpn2/3p4/8/P1NBP3/1PP2PPP/R2QK2R w KQ - 0 12,clearing the back rank and not giving away where he will castle
+23,Qe2,d1e2,r1b2rk1/1p3ppp/p2qpn2/3p4/8/P1NBP3/1PP1QPPP/R3K2R b KQ - 1 12,clearing the back rank and not giving away where he will castle
+24,Bd7,c8d7,r4rk1/1p1b1ppp/p2qpn2/3p4/8/P1NBP3/1PP1QPPP/R3K2R w KQ - 2 13,developing the final piece. Things look very boring and equal
+25,Qf3,e2f3,r4rk1/1p1b1ppp/p2qpn2/3p4/8/P1NBPQ2/1PP2PPP/R3K2R b KQ - 3 13,why would he waste two moves moving it there when he could've just taken one? wastes a tempo
+26,Rac8,a8c8,2r2rk1/1p1b1ppp/p2qpn2/3p4/8/P1NBPQ2/1PP2PPP/R3K2R w KQ - 4 14,putting the rook on the semi-open file
+27,O-O-O,e1c1,2r2rk1/1p1b1ppp/p2qpn2/3p4/8/P1NBPQ2/1PP2PPP/2KR3R b - - 5 14,? looks safe but things aren't what they seem!
+28,Rxc3,c8c3,5rk1/1p1b1ppp/p2qpn2/3p4/8/P1rBPQ2/1PP2PPP/2KR3R w - - 0 15,! I played this quickly and intuitively. It just looked right. and I calculated lines later and my intuitions did not let me down
+29,bxc3,b2c3,5rk1/1p1b1ppp/p2qpn2/3p4/8/P1PBPQ2/2P2PPP/2KR3R b - - 0 15,no turning back now
+30,Qxa3+,d6a3,5rk1/1p1b1ppp/p3pn2/3p4/8/q1PBPQ2/2P2PPP/2KR3R w - - 0 16,Things on the Queenside break down and the king has to flee
+31,Kd2,c1d2,5rk1/1p1b1ppp/p3pn2/3p4/8/q1PBPQ2/2PK1PPP/3R3R b - - 1 16,"the alternative 16.Kb1 Qxc3 is good for Black. with a minor piece and two pawns(one of them passed) and a rook ready to swing over to help,White needs to be very careful"
+32,Rd8,f8d8,3r2k1/1p1b1ppp/p3pn2/3p4/8/q1PBPQ2/2PK1PPP/3R3R w - - 2 17,"The comp. gives 16...Rc8 as best but I disagree! White loses the pawn on c3 and is fine,but the move played aims more at the King and gives a big advantage to Black!
+
+there is no way to stop the threat of 17...Ne4+"
+33,h4,h2h4,3r2k1/1p1b1ppp/p3pn2/3p4/7P/q1PBPQ2/2PK1PP1/3R3R b - - 0 17,"Again there is no way to stop 17...Ne4+. And the computer ""improvement"" 17.Qf4 leads to the same result! 17...Ne4+! and it leads to the same motifs as the line played."

@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,? Weakening the King safety and the Pawnstructure. Black continues with the standard setup.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,? Weakening the King safety and the Pawnstructure. Black continues with the standard setup.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,? Weakening the King safety and the Pawnstructure. Black continues with the standard setup.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,? Weakening the King safety and the Pawnstructure. Black continues with the standard setup.
+5,f3,f2f3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3,? Weakening the King safety and the Pawnstructure. Black continues with the standard setup.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/5P2/PPP3PP/RNBQKBNR w KQkq - 0 4,"Strenghens the Pawnchain, black has to search for the weakest link.However it opens the Diagonal that Blacks Bishop is going to use. :)"
+7,d5,d4d5,rnbqkb1r/ppp1pp1p/3p1np1/3P4/4P3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 4,"Strenghens the Pawnchain, black has to search for the weakest link.However it opens the Diagonal that Blacks Bishop is going to use. :)"
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/3P4/4P3/5P2/PPP3PP/RNBQKBNR w KQkq - 1 5,"White has completly disregarded development. However the Bishops already have some power onfolding , but both nices have no good place to go."
+9,c3,c2c3,rnbqk2r/ppp1ppbp/3p1np1/3P4/4P3/2P2P2/PP4PP/RNBQKBNR b KQkq - 0 5,"White has completly disregarded development. However the Bishops already have some power onfolding , but both nices have no good place to go."
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/3P4/4P3/2P2P2/PP4PP/RNBQKBNR w KQ - 1 6,"White has completly disregarded development. However the Bishops already have some power onfolding , but both nices have no good place to go."
+11,Bg5,c1g5,rnbq1rk1/ppp1ppbp/3p1np1/3P2B1/4P3/2P2P2/PP4PP/RN1QKBNR b KQ - 2 6,"Deconstruct the Chain and probably recapture with development. (If White does not capture, it will either have an advanced pawn which will probably fall, or White has to move the queen early)"
+12,c6,c7c6,rnbq1rk1/pp2ppbp/2pp1np1/3P2B1/4P3/2P2P2/PP4PP/RN1QKBNR w KQ - 0 7,"Deconstruct the Chain and probably recapture with development. (If White does not capture, it will either have an advanced pawn which will probably fall, or White has to move the queen early)"
+13,dxc6,d5c6,rnbq1rk1/pp2ppbp/2Pp1np1/6B1/4P3/2P2P2/PP4PP/RN1QKBNR b KQ - 0 7,"I decided to recapture with the pawn because I was planning f5, because either I could develop with gain of tempi, all other moves do not look that sound to me."
+14,Nxc6,b8c6,r1bq1rk1/pp2ppbp/2np1np1/6B1/4P3/2P2P2/PP4PP/RN1QKBNR w KQ - 0 8,"I decided to recapture with the pawn because I was planning f5, because either I could develop with gain of tempi, all other moves do not look that sound to me."
+15,Bxf6,g5f6,r1bq1rk1/pp2ppbp/2np1Bp1/8/4P3/2P2P2/PP4PP/RN1QKBNR b KQ - 0 8,"I decided to recapture with the pawn because I was planning f5, because either I could develop with gain of tempi, all other moves do not look that sound to me."
+16,exf6,e7f6,r1bq1rk1/pp3pbp/2np1pp1/8/4P3/2P2P2/PP4PP/RN1QKBNR w KQ - 0 9,"I decided to recapture with the pawn because I was planning f5, because either I could develop with gain of tempi, all other moves do not look that sound to me."
+17,Nd2,b1d2,r1bq1rk1/pp3pbp/2np1pp1/8/4P3/2P2P2/PP1N2PP/R2QKBNR b KQ - 1 9,"?! White is terribly behind in development. The Knight on the second rank is not really well placed, but it wouldn't be well placed on a3 either..."
+18,f5,f6f5,r1bq1rk1/pp3pbp/2np2p1/5p2/4P3/2P2P2/PP1N2PP/R2QKBNR w KQ - 0 10,"? White wants to trade the e-Pawn for my isolated d-pawn, I got no problem with that, the Knight will be two far away from all the other pieces, interplay will proof to be very difficult."
+19,Nc4,d2c4,r1bq1rk1/pp3pbp/2np2p1/5p2/2N1P3/2P2P2/PP4PP/R2QKBNR b KQ - 1 10,"? White wants to trade the e-Pawn for my isolated d-pawn, I got no problem with that, the Knight will be two far away from all the other pieces, interplay will proof to be very difficult."
+20,fxe4,f5e4,r1bq1rk1/pp3pbp/2np2p1/8/2N1p3/2P2P2/PP4PP/R2QKBNR w KQ - 0 11,"Black nearly lost his advantage in development, but his position is still superior."
+21,Nxd6,c4d6,r1bq1rk1/pp3pbp/2nN2p1/8/4p3/2P2P2/PP4PP/R2QKBNR b KQ - 0 11,"Black nearly lost his advantage in development, but his position is still superior."
+22,exf3,e4f3,r1bq1rk1/pp3pbp/2nN2p1/8/8/2P2p2/PP4PP/R2QKBNR w KQ - 0 12,"Black nearly lost his advantage in development, but his position is still superior."
+23,Nxf3,g1f3,r1bq1rk1/pp3pbp/2nN2p1/8/8/2P2N2/PP4PP/R2QKB1R b KQ - 0 12,"Black nearly lost his advantage in development, but his position is still superior."
+24,Qe7+,d8e7,r1b2rk1/pp2qpbp/2nN2p1/8/8/2P2N2/PP4PP/R2QKB1R w KQ - 1 13,"This may be regarded as tactical, however strategically I think it's a sound move, as it occupies the open file which the rook can't occupy."
+25,Be2,f1e2,r1b2rk1/pp2qpbp/2nN2p1/8/8/2P2N2/PP2B1PP/R2QK2R b KQ - 2 13,Occupying the other open file and ByeBye Knight.
+26,Rd8,f8d8,r1br2k1/pp2qpbp/2nN2p1/8/8/2P2N2/PP2B1PP/R2QK2R w KQ - 3 14,Occupying the other open file and ByeBye Knight.
+27,O-O,e1g1,r1br2k1/pp2qpbp/2nN2p1/8/8/2P2N2/PP2B1PP/R2Q1RK1 b - - 4 14,"?! Of course it heighthens King safety, but now the Bishop is under fire."
+28,Rxd6,d8d6,r1b3k1/pp2qpbp/2nr2p1/8/8/2P2N2/PP2B1PP/R2Q1RK1 w - - 0 15,"?? Qe1 is proably the only solution, as Nd4 fails (15 Nd4 Nxd4 16 xd4 Rxd4/Bxd4+)."
+29,Qc2,d1c2,r1b3k1/pp2qpbp/2nr2p1/8/8/2P2N2/PPQ1B1PP/R4RK1 b - - 1 15,"?? Qe1 is proably the only solution, as Nd4 fails (15 Nd4 Nxd4 16 xd4 Rxd4/Bxd4+)."
+30,Bf5,c8f5,r5k1/pp2qpbp/2nr2p1/5b2/8/2P2N2/PPQ1B1PP/R4RK1 w - - 2 16,! Developing and hunting the sole defender of e2
+31,Qb3,c2b3,r5k1/pp2qpbp/2nr2p1/5b2/8/1QP2N2/PP2B1PP/R4RK1 b - - 3 16,"? White could have taken the Pawn on b7, to get at least something..."
+32,Qxe2,e7e2,r5k1/pp3pbp/2nr2p1/5b2/8/1QP2N2/PP2q1PP/R4RK1 w - - 0 17,"? White could have taken the Pawn on b7, to get at least something..."
+33,Rae1,a1e1,r5k1/pp3pbp/2nr2p1/5b2/8/1QP2N2/PP2q1PP/4RRK1 b - - 1 17,"? White could have taken the Pawn on b7, to get at least something..."
+34,Qa6,e2a6,r5k1/pp3pbp/q1nr2p1/5b2/8/1QP2N2/PP4PP/4RRK1 w - - 2 18,Let's simplify
+35,Ng5,f3g5,r5k1/pp3pbp/q1nr2p1/5bN1/8/1QP5/PP4PP/4RRK1 b - - 3 18,Let's simplify
+36,Qb6+,a6b6,r5k1/pp3pbp/1qnr2p1/5bN1/8/1QP5/PP4PP/4RRK1 w - - 4 19,Let's simplify
+37,Qxb6,b3b6,r5k1/pp3pbp/1Qnr2p1/5bN1/8/2P5/PP4PP/4RRK1 b - - 0 19,?! But whereelse to go?
+38,axb6,a7b6,r5k1/1p3pbp/1pnr2p1/5bN1/8/2P5/PP4PP/4RRK1 w - - 0 20,?! But whereelse to go?
+39,a3,a2a3,r5k1/1p3pbp/1pnr2p1/5bN1/8/P1P5/1P4PP/4RRK1 b - - 0 20,?! But whereelse to go?
+40,h6,h7h6,r5k1/1p3pb1/1pnr2pp/5bN1/8/P1P5/1P4PP/4RRK1 w - - 0 21,?! But whereelse to go?
+41,Nf3,g5f3,r5k1/1p3pb1/1pnr2pp/5b2/8/P1P2N2/1P4PP/4RRK1 b - - 1 21,?! But whereelse to go?
+42,Bg4,f5g4,r5k1/1p3pb1/1pnr2pp/8/6b1/P1P2N2/1P4PP/4RRK1 w - - 2 22,?! But whereelse to go?
+43,Nh4,f3h4,r5k1/1p3pb1/1pnr2pp/8/6bN/P1P5/1P4PP/4RRK1 b - - 3 22,?! But whereelse to go?
+44,g5,g6g5,r5k1/1p3pb1/1pnr3p/6p1/6bN/P1P5/1P4PP/4RRK1 w - - 0 23,The magical 2nd rank... however the game was sort of over
+45,Nf3,h4f3,r5k1/1p3pb1/1pnr3p/6p1/6b1/P1P2N2/1P4PP/4RRK1 b - - 1 23,The magical 2nd rank... however the game was sort of over
+46,Bxf3,g4f3,r5k1/1p3pb1/1pnr3p/6p1/8/P1P2b2/1P4PP/4RRK1 w - - 0 24,The magical 2nd rank... however the game was sort of over
+47,Rxf3,f1f3,r5k1/1p3pb1/1pnr3p/6p1/8/P1P2R2/1P4PP/4R1K1 b - - 0 24,The magical 2nd rank... however the game was sort of over
+48,Rd2,d6d2,r5k1/1p3pb1/1pn4p/6p1/8/P1P2R2/1P1r2PP/4R1K1 w - - 1 25,The magical 2nd rank... however the game was sort of over
+49,b4,b2b4,r5k1/1p3pb1/1pn4p/6p1/1P6/P1P2R2/3r2PP/4R1K1 b - - 0 25,"? allows further simplification, which only aids black."
+50,Rxa3,a8a3,6k1/1p3pb1/1pn4p/6p1/1P6/r1P2R2/3r2PP/4R1K1 w - - 0 26,"? allows further simplification, which only aids black."
+51,Kf1,g1f1,6k1/1p3pb1/1pn4p/6p1/1P6/r1P2R2/3r2PP/4RK2 b - - 1 26,"? allows further simplification, which only aids black."
+52,Bxc3,g7c3,6k1/1p3p2/1pn4p/6p1/1P6/r1b2R2/3r2PP/4RK2 w - - 0 27,"? allows further simplification, which only aids black."
+53,Rc1,e1c1,6k1/1p3p2/1pn4p/6p1/1P6/r1b2R2/3r2PP/2R2K2 b - - 1 27,"? allows further simplification, which only aids black."
+54,Bb2,c3b2,6k1/1p3p2/1pn4p/6p1/1P6/r4R2/1b1r2PP/2R2K2 w - - 2 28,And finally white resigned
+55,Rxa3,f3a3,6k1/1p3p2/1pn4p/6p1/1P6/R7/1b1r2PP/2R2K2 b - - 0 28,And finally white resigned
+56,Bxa3,b2a3,6k1/1p3p2/1pn4p/6p1/1P6/b7/3r2PP/2R2K2 w - - 0 29,And finally white resigned
+57,Rb1,c1b1,6k1/1p3p2/1pn4p/6p1/1P6/b7/3r2PP/1R3K2 b - - 1 29,And finally white resigned
+58,Bxb4,a3b4,6k1/1p3p2/1pn4p/6p1/1b6/8/3r2PP/1R3K2 w - - 0 30,And finally white resigned
+59,Kg1,f1g1,6k1/1p3p2/1pn4p/6p1/1b6/8/3r2PP/1R4K1 b - - 1 30,And finally white resigned
+60,Bc5+,b4c5,6k1/1p3p2/1pn4p/2b3p1/8/8/3r2PP/1R4K1 w - - 2 31,And finally white resigned
+61,Kh1,g1h1,6k1/1p3p2/1pn4p/2b3p1/8/8/3r2PP/1R5K b - - 3 31,And finally white resigned
+62,Nd4,c6d4,6k1/1p3p2/1p5p/2b3p1/3n4/8/3r2PP/1R5K w - - 4 32,And finally white resigned
+63,h3,h2h3,6k1/1p3p2/1p5p/2b3p1/3n4/7P/3r2P1/1R5K b - - 0 32,And finally white resigned
+64,b5,b6b5,6k1/1p3p2/7p/1pb3p1/3n4/7P/3r2P1/1R5K w - - 0 33,And finally white resigned
+65,Rc1,b1c1,6k1/1p3p2/7p/1pb3p1/3n4/7P/3r2P1/2R4K b - - 1 33,And finally white resigned
+66,Rc2,d2c2,6k1/1p3p2/7p/1pb3p1/3n4/7P/2r3P1/2R4K w - - 2 34,And finally white resigned
+67,Ra1,c1a1,6k1/1p3p2/7p/1pb3p1/3n4/7P/2r3P1/R6K b - - 3 34,And finally white resigned
+68,b4,b5b4,6k1/1p3p2/7p/2b3p1/1p1n4/7P/2r3P1/R6K w - - 0 35,And finally white resigned

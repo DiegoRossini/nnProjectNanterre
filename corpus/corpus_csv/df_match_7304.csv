@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White went to trade the knight with the black bishop.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White went to trade the knight with the black bishop.
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,White went to trade the knight with the black bishop.
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/2pp4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,White went to trade the knight with the black bishop.
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/8/2pp4/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,White went to trade the knight with the black bishop.
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/8/2p5/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,White went to trade the knight with the black bishop.
+7,Ng5,f3g5,rnbqkbnr/pp2pppp/8/2p3N1/4pP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 4,White went to trade the knight with the black bishop.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2p3N1/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 5,White went to trade the knight with the black bishop.
+9,Bc4,f1c4,rnbqkb1r/pp2pppp/5n2/2p3N1/2B1pP2/8/PPPP2PP/RNBQK2R b KQkq - 3 5,White went to trade the knight with the black bishop.
+10,Bg4,c8g4,rn1qkb1r/pp2pppp/5n2/2p3N1/2B1pPb1/8/PPPP2PP/RNBQK2R w KQkq - 4 6,White went to trade the knight with the black bishop.
+11,Qxg4,d1g4,rn1qkb1r/pp2pppp/5n2/2p3N1/2B1pPQ1/8/PPPP2PP/RNB1K2R b KQkq - 0 6,White went to trade the knight with the black bishop.
+12,Nxg4,f6g4,rn1qkb1r/pp2pppp/8/2p3N1/2B1pPn1/8/PPPP2PP/RNB1K2R w KQkq - 0 7,White went to trade the knight with the black bishop.
+13,Bxf7+,c4f7,rn1qkb1r/pp2pBpp/8/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R b KQkq - 0 7,White went to trade the knight with the black bishop.
+14,Kd7,e8d7,rn1q1b1r/pp1kpBpp/8/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 1 8,White went to trade the knight with the black bishop.
+15,Be6+,f7e6,rn1q1b1r/pp1kp1pp/4B3/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R b KQ - 2 8,White went to trade the knight with the black bishop.
+16,Ke8,d7e8,rn1qkb1r/pp2p1pp/4B3/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 3 9,White went to trade the knight with the black bishop.
+17,Bxg4,e6g4,rn1qkb1r/pp2p1pp/8/2p3N1/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 0 9,White went to trade the knight with the black bishop.
+18,Nc6,b8c6,r2qkb1r/pp2p1pp/2n5/2p3N1/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 1 10,White went to trade the knight with the black bishop.
+19,Ne6,g5e6,r2qkb1r/pp2p1pp/2n1N3/2p5/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 2 10,White went to trade the knight with the black bishop.
+20,Qd7,d8d7,r3kb1r/pp1qp1pp/2n1N3/2p5/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 3 11,"This move of the queen, stop white to do so. Cause white doesn't want to lose one of the bishops."
+21,h3,h2h3,r3kb1r/pp1qp1pp/2n1N3/2p5/4pPB1/7P/PPPP2P1/RNB1K2R b KQ - 0 11,So white tried to establish a defense for the bishop.
+22,Qd6,d7d6,r3kb1r/pp2p1pp/2nqN3/2p5/4pPB1/7P/PPPP2P1/RNB1K2R w KQ - 1 12,"Moved the queen to avoid to be captured. (If white went for Nxg7+, then bishop would have been able to capture the queen)"
+23,Nxf8,e6f8,r3kN1r/pp2p1pp/2nq4/2p5/4pPB1/7P/PPPP2P1/RNB1K2R b KQ - 0 12,White did the trade that he was looking for.
+24,Rxf8,h8f8,r3kr2/pp2p1pp/2nq4/2p5/4pPB1/7P/PPPP2P1/RNB1K2R w KQ - 0 13,Capturing the knight and also providing a guard for the queen's next move (Qxf4)
+25,Nc3,b1c3,r3kr2/pp2p1pp/2nq4/2p5/4pPB1/2N4P/PPPP2P1/R1B1K2R b KQ - 1 13,Maybe it was better if white did castle at this move.
+26,Qxf4,d6f4,r3kr2/pp2p1pp/2n5/2p5/4pqB1/2N4P/PPPP2P1/R1B1K2R w KQ - 0 14,Starting the attack!
+27,Nd5,c3d5,r3kr2/pp2p1pp/2n5/2pN4/4pqB1/7P/PPPP2P1/R1B1K2R b KQ - 1 14,White resigned.
+28,Qf2+,f4f2,r3kr2/pp2p1pp/2n5/2pN4/4p1B1/7P/PPPP1qP1/R1B1K2R w KQ - 2 15,White resigned.
+29,Kd1,e1d1,r3kr2/pp2p1pp/2n5/2pN4/4p1B1/7P/PPPP1qP1/R1BK3R b - - 3 15,White resigned.
+30,Qxg2,f2g2,r3kr2/pp2p1pp/2n5/2pN4/4p1B1/7P/PPPP2q1/R1BK3R w - - 0 16,White resigned.
+31,Re1,h1e1,r3kr2/pp2p1pp/2n5/2pN4/4p1B1/7P/PPPP2q1/R1BKR3 b - - 1 16,White resigned.
+32,Rf1,f8f1,r3k3/pp2p1pp/2n5/2pN4/4p1B1/7P/PPPP2q1/R1BKRr2 w - - 2 17,White resigned.
+33,Ne3,d5e3,r3k3/pp2p1pp/2n5/2p5/4p1B1/4N2P/PPPP2q1/R1BKRr2 b - - 3 17,White resigned.
+34,Rxe1+,f1e1,r3k3/pp2p1pp/2n5/2p5/4p1B1/4N2P/PPPP2q1/R1BKr3 w - - 0 18,White resigned.
+35,Kxe1,d1e1,r3k3/pp2p1pp/2n5/2p5/4p1B1/4N2P/PPPP2q1/R1B1K3 b - - 0 18,White resigned.
+36,Qg1+,g2g1,r3k3/pp2p1pp/2n5/2p5/4p1B1/4N2P/PPPP4/R1B1K1q1 w - - 1 19,White resigned.
+37,Nf1,e3f1,r3k3/pp2p1pp/2n5/2p5/4p1B1/7P/PPPP4/R1B1KNq1 b - - 2 19,White resigned.
+38,Nd4,c6d4,r3k3/pp2p1pp/8/2p5/3np1B1/7P/PPPP4/R1B1KNq1 w - - 3 20,White resigned.
+39,Bd1,g4d1,r3k3/pp2p1pp/8/2p5/3np3/7P/PPPP4/R1BBKNq1 b - - 4 20,It could be a good move for the next move of white.

@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,equal.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,equal.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,equal.
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,equal.
+5,Bc4,f1c4,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,the attack slowly is coming into place.
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,the attack slowly is coming into place.
+7,O-O,e1g1,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 5 4,the attack slowly is coming into place.
+8,Nh6,g8h6,rnb1k2r/pppp1ppp/5q1n/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 6 5,the attack slowly is coming into place.
+9,d3,d2d3,rnb1k2r/pppp1ppp/5q1n/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 5,the attack slowly is coming into place.
+10,Ng4,h6g4,rnb1k2r/pppp1ppp/5q2/2b1p3/2B1P1n1/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 1 6,the attack slowly is coming into place.
+11,Bg5,c1g5,rnb1k2r/pppp1ppp/5q2/2b1p1B1/2B1P1n1/3P1N2/PPP2PPP/RN1Q1RK1 b kq - 2 6,the attack slowly is coming into place.
+12,Qg6,f6g6,rnb1k2r/pppp1ppp/6q1/2b1p1B1/2B1P1n1/3P1N2/PPP2PPP/RN1Q1RK1 w kq - 3 7,?!
+13,Nc3,b1c3,rnb1k2r/pppp1ppp/6q1/2b1p1B1/2B1P1n1/2NP1N2/PPP2PPP/R2Q1RK1 b kq - 4 7,?!
+14,Qh5,g6h5,rnb1k2r/pppp1ppp/8/2b1p1Bq/2B1P1n1/2NP1N2/PPP2PPP/R2Q1RK1 w kq - 5 8,?!
+15,h3,h2h3,rnb1k2r/pppp1ppp/8/2b1p1Bq/2B1P1n1/2NP1N1P/PPP2PP1/R2Q1RK1 b kq - 0 8,a  flaw.
+16,f5,f7f5,rnb1k2r/pppp2pp/8/2b1ppBq/2B1P1n1/2NP1N1P/PPP2PP1/R2Q1RK1 w kq - 0 9,a  flaw.
+17,exf5,e4f5,rnb1k2r/pppp2pp/8/2b1pPBq/2B3n1/2NP1N1P/PPP2PP1/R2Q1RK1 b kq - 0 9,another flaw. he  could have saved the knight.
+18,Rf8,h8f8,rnb1kr2/pppp2pp/8/2b1pPBq/2B3n1/2NP1N1P/PPP2PP1/R2Q1RK1 w q - 1 10,another flaw. he  could have saved the knight.
+19,hxg4,h3g4,rnb1kr2/pppp2pp/8/2b1pPBq/2B3P1/2NP1N2/PPP2PP1/R2Q1RK1 b q - 0 10,"!! great ""sacrifice""  it's still +9 for white"
+20,Qxg4,h5g4,rnb1kr2/pppp2pp/8/2b1pPB1/2B3q1/2NP1N2/PPP2PP1/R2Q1RK1 w q - 0 11,"!! great ""sacrifice""  it's still +9 for white"
+21,Re1,f1e1,rnb1kr2/pppp2pp/8/2b1pPB1/2B3q1/2NP1N2/PPP2PP1/R2QR1K1 b q - 1 11,"!! great ""sacrifice""  it's still +9 for white"
+22,Be7,c5e7,rnb1kr2/ppppb1pp/8/4pPB1/2B3q1/2NP1N2/PPP2PP1/R2QR1K1 w q - 2 12,"!! great ""sacrifice""  it's still +9 for white"
+23,Rxe5,e1e5,rnb1kr2/ppppb1pp/8/4RPB1/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 b q - 0 12,"!! great ""sacrifice""  it's still +9 for white"
+24,Rf6,f8f6,rnb1k3/ppppb1pp/5r2/4RPB1/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 w q - 1 13,"!! great ""sacrifice""  it's still +9 for white"
+25,Bxf6,g5f6,rnb1k3/ppppb1pp/5B2/4RP2/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 b q - 0 13,"!! great ""sacrifice""  it's still +9 for white"
+26,gxf6,g7f6,rnb1k3/ppppb2p/5p2/4RP2/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 w q - 0 14,"!! great ""sacrifice""  it's still +9 for white"
+27,Rxe7+,e5e7,rnb1k3/ppppR2p/5p2/5P2/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 b q - 0 14,"!! great ""sacrifice""  it's still +9 for white"
+28,Kxe7,e8e7,rnb5/ppppk2p/5p2/5P2/2B3q1/2NP1N2/PPP2PP1/R2Q2K1 w - - 0 15,he should have resigned here.
+29,Qe2+,d1e2,rnb5/ppppk2p/5p2/5P2/2B3q1/2NP1N2/PPP1QPP1/R5K1 b - - 1 15,he should have resigned here.
+30,Kf8,e7f8,rnb2k2/pppp3p/5p2/5P2/2B3q1/2NP1N2/PPP1QPP1/R5K1 w - - 2 16,he should have resigned here.
+31,Re1,a1e1,rnb2k2/pppp3p/5p2/5P2/2B3q1/2NP1N2/PPP1QPP1/4R1K1 b - - 3 16,he should have resigned here.
+32,Qe4,g4e4,rnb2k2/pppp3p/5p2/5P2/2B1q3/2NP1N2/PPP1QPP1/4R1K1 w - - 4 17,he should have resigned here.
+33,Qxe4,e2e4,rnb2k2/pppp3p/5p2/5P2/2B1Q3/2NP1N2/PPP2PP1/4R1K1 b - - 0 17,mate in three.
+34,Kg7,f8g7,rnb5/pppp2kp/5p2/5P2/2B1Q3/2NP1N2/PPP2PP1/4R1K1 w - - 1 18,mate in three.
+35,Qg4+,e4g4,rnb5/pppp2kp/5p2/5P2/2B3Q1/2NP1N2/PPP2PP1/4R1K1 b - - 2 18,mate in three.
+36,Kh6,g7h6,rnb5/pppp3p/5p1k/5P2/2B3Q1/2NP1N2/PPP2PP1/4R1K1 w - - 3 19,mate in three.
+37,Qh4+,g4h4,rnb5/pppp3p/5p1k/5P2/2B4Q/2NP1N2/PPP2PP1/4R1K1 b - - 4 19,bad game for black. this is my first time trying this so know it's bad.
+38,Kg7,h6g7,rnb5/pppp2kp/5p2/5P2/2B4Q/2NP1N2/PPP2PP1/4R1K1 w - - 5 20,bad game for black. this is my first time trying this so know it's bad.
+39,Re7+,e1e7,rnb5/ppppR1kp/5p2/5P2/2B4Q/2NP1N2/PPP2PP1/6K1 b - - 6 20,bad game for black. this is my first time trying this so know it's bad.
+40,Kf8,g7f8,rnb2k2/ppppR2p/5p2/5P2/2B4Q/2NP1N2/PPP2PP1/6K1 w - - 7 21,bad game for black. this is my first time trying this so know it's bad.
+41,Qxf6#,h4f6,rnb2k2/ppppR2p/5Q2/5P2/2B5/2NP1N2/PPP2PP1/6K1 b - - 0 21,bad game for black. this is my first time trying this so know it's bad.

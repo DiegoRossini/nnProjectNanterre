@@ -1,0 +1,87 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"English (A34), symmetrical variation
+
+Annotated by me and some help from Rybka.
+The ratings are simply my estimates for both programs."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,This move gives room for the white bishop and also reinforces the center d4.
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,This move gives room for the white bishop and also reinforces the center d4.
+4,g6,g7g6,rnbqkbnr/pp1ppp1p/6p1/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,This move gives room for the white bishop and also reinforces the center d4.
+5,Nf3,g1f3,rnbqkbnr/pp1ppp1p/6p1/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3,This move gives room for the white bishop and also reinforces the center d4.
+6,Bg7,f8g7,rnbqk1nr/pp1pppbp/6p1/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4,This move gives room for the white bishop and also reinforces the center d4.
+7,e3,e2e3,rnbqk1nr/pp1pppbp/6p1/2p5/2P5/2N1PN2/PP1P1PPP/R1BQKB1R b KQkq - 0 4,This move gives room for the white bishop and also reinforces the center d4.
+8,Bxc3,g7c3,rnbqk1nr/pp1ppp1p/6p1/2p5/2P5/2b1PN2/PP1P1PPP/R1BQKB1R w KQkq - 0 5,This move basically prevents white from taking advantage of the e5 square.
+9,dxc3,d2c3,rnbqk1nr/pp1ppp1p/6p1/2p5/2P5/2P1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,This move basically prevents white from taking advantage of the e5 square.
+10,d6,d7d6,rnbqk1nr/pp2pp1p/3p2p1/2p5/2P5/2P1PN2/PP3PPP/R1BQKB1R w KQkq - 0 6,This move basically prevents white from taking advantage of the e5 square.
+11,Be2,f1e2,rnbqk1nr/pp2pp1p/3p2p1/2p5/2P5/2P1PN2/PP2BPPP/R1BQK2R b KQkq - 1 6,6. e4 Bg4 is slightly better.
+12,Nf6,g8f6,rnbqk2r/pp2pp1p/3p1np1/2p5/2P5/2P1PN2/PP2BPPP/R1BQK2R w KQkq - 2 7,Even game thus far.
+13,O-O,e1g1,rnbqk2r/pp2pp1p/3p1np1/2p5/2P5/2P1PN2/PP2BPPP/R1BQ1RK1 b kq - 3 7,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+14,Nc6,b8c6,r1bqk2r/pp2pp1p/2np1np1/2p5/2P5/2P1PN2/PP2BPPP/R1BQ1RK1 w kq - 4 8,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+15,b3,b2b3,r1bqk2r/pp2pp1p/2np1np1/2p5/2P5/1PP1PN2/P3BPPP/R1BQ1RK1 b kq - 0 8,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+16,O-O,e8g8,r1bq1rk1/pp2pp1p/2np1np1/2p5/2P5/1PP1PN2/P3BPPP/R1BQ1RK1 w - - 1 9,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+17,Bd2,c1d2,r1bq1rk1/pp2pp1p/2np1np1/2p5/2P5/1PP1PN2/P2BBPPP/R2Q1RK1 b - - 2 9,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+18,Qa5,d8a5,r1b2rk1/pp2pp1p/2np1np1/q1p5/2P5/1PP1PN2/P2BBPPP/R2Q1RK1 w - - 3 10,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+19,a3,a2a3,r1b2rk1/pp2pp1p/2np1np1/q1p5/2P5/PPP1PN2/3BBPPP/R2Q1RK1 b - - 0 10,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+20,Qb6,a5b6,r1b2rk1/pp2pp1p/1qnp1np1/2p5/2P5/PPP1PN2/3BBPPP/R2Q1RK1 w - - 1 11,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+21,b4,b3b4,r1b2rk1/pp2pp1p/1qnp1np1/2p5/1PP5/P1P1PN2/3BBPPP/R2Q1RK1 b - - 0 11,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+22,Bf5,c8f5,r4rk1/pp2pp1p/1qnp1np1/2p2b2/1PP5/P1P1PN2/3BBPPP/R2Q1RK1 w - - 1 12,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+23,b5,b4b5,r4rk1/pp2pp1p/1qnp1np1/1Pp2b2/2P5/P1P1PN2/3BBPPP/R2Q1RK1 b - - 0 12,"Seems like an okay move.
+12. Nh4 would threaten the black bishop (12. Nh4 Be6 13. f4 Ne4)"
+24,Na5,c6a5,r4rk1/pp2pp1p/1q1p1np1/nPp2b2/2P5/P1P1PN2/3BBPPP/R2Q1RK1 w - - 1 13,Na5 gives a small advantage to white.
+25,h4,h2h4,r4rk1/pp2pp1p/1q1p1np1/nPp2b2/2P4P/P1P1PN2/3BBPP1/R2Q1RK1 b - - 0 13,Alternate moves: 13. Bc1 Rfd8 14. Bb2 a6.
+26,Bg4,f5g4,r4rk1/pp2pp1p/1q1p1np1/nPp5/2P3bP/P1P1PN2/3BBPP1/R2Q1RK1 w - - 1 14,13. ...Be6! attacks the c4 pawn.
+27,Bd3,e2d3,r4rk1/pp2pp1p/1q1p1np1/nPp5/2P3bP/P1PBPN2/3B1PP1/R2Q1RK1 b - - 2 14,Obvious threat here is Nxd3.
+28,Nd7,f6d7,r4rk1/pp1npp1p/1q1p2p1/nPp5/2P3bP/P1PBPN2/3B1PP1/R2Q1RK1 w - - 3 15,Obvious threat here is Nxd3.
+29,e4,e3e4,r4rk1/pp1npp1p/1q1p2p1/nPp5/2P1P1bP/P1PB1N2/3B1PP1/R2Q1RK1 b - - 0 15,Obvious threat here is Nxd3.
+30,Ne5,d7e5,r4rk1/pp2pp1p/1q1p2p1/nPp1n3/2P1P1bP/P1PB1N2/3B1PP1/R2Q1RK1 w - - 1 16,Obvious threat here is Nxd3.
+31,Qe2,d1e2,r4rk1/pp2pp1p/1q1p2p1/nPp1n3/2P1P1bP/P1PB1N2/3BQPP1/R4RK1 b - - 2 16,A move like 16. Bg5 Rfe8 is alright.
+32,Nxd3,e5d3,r4rk1/pp2pp1p/1q1p2p1/nPp5/2P1P1bP/P1Pn1N2/3BQPP1/R4RK1 w - - 0 17,"Although this does not seem bad its not the best.
+16. ...Nb3 (bring that Knight more into play and attacks 3 pieces at once) 17. Rad1 Qa5 Bc1."
+33,Qxd3,e2d3,r4rk1/pp2pp1p/1q1p2p1/nPp5/2P1P1bP/P1PQ1N2/3B1PP1/R4RK1 b - - 0 17,Perhaps 18. Rfb1 is more interesting.
+34,Be6,g4e6,r4rk1/pp2pp1p/1q1pb1p1/nPp5/2P1P2P/P1PQ1N2/3B1PP1/R4RK1 w - - 1 18,Perhaps 18. Rfb1 is more interesting.
+35,Bh6,d2h6,r4rk1/pp2pp1p/1q1pb1pB/nPp5/2P1P2P/P1PQ1N2/5PP1/R4RK1 b - - 2 18,Perhaps 18. Rfb1 is more interesting.
+36,Bxc4,e6c4,r4rk1/pp2pp1p/1q1p2pB/nPp5/2b1P2P/P1PQ1N2/5PP1/R4RK1 w - - 0 19,19. Qe3 Bxc1 20. Bxf8 Rxf8 21. Rxf1 Qxb5 (gives black a significant advantage).
+37,Qb1,d3b1,r4rk1/pp2pp1p/1q1p2pB/nPp5/2b1P2P/P1P2N2/5PP1/RQ3RK1 b - - 1 19,19. Qe3 Bxc1 20. Bxf8 Rxf8 21. Rxf1 Qxb5 (gives black a significant advantage).
+38,Bxf1,c4f1,r4rk1/pp2pp1p/1q1p2pB/nPp5/4P2P/P1P2N2/5PP1/RQ3bK1 w - - 0 20,At least worth considering: 20. Qxf1 Rfc8.
+39,Bxf8,h6f8,r4Bk1/pp2pp1p/1q1p2p1/nPp5/4P2P/P1P2N2/5PP1/RQ3bK1 b - - 0 20,At least worth considering: 20. Qxf1 Rfc8.
+40,Bxg2,f1g2,r4Bk1/pp2pp1p/1q1p2p1/nPp5/4P2P/P1P2N2/5Pb1/RQ4K1 w - - 0 21,Waste of time.  23. Nd7 places the knight in a better spot.
+41,Kxg2,g1g2,r4Bk1/pp2pp1p/1q1p2p1/nPp5/4P2P/P1P2N2/5PK1/RQ6 b - - 0 21,Waste of time.  23. Nd7 places the knight in a better spot.
+42,Rxf8,a8f8,5rk1/pp2pp1p/1q1p2p1/nPp5/4P2P/P1P2N2/5PK1/RQ6 w - - 0 22,Waste of time.  23. Nd7 places the knight in a better spot.
+43,a4,a3a4,5rk1/pp2pp1p/1q1p2p1/nPp5/P3P2P/2P2N2/5PK1/RQ6 b - - 0 22,Waste of time.  23. Nd7 places the knight in a better spot.
+44,c4,c5c4,5rk1/pp2pp1p/1q1p2p1/nP6/P1p1P2P/2P2N2/5PK1/RQ6 w - - 0 23,Waste of time.  23. Nd7 places the knight in a better spot.
+45,Kg1,g2g1,5rk1/pp2pp1p/1q1p2p1/nP6/P1p1P2P/2P2N2/5P2/RQ4K1 b - - 1 23,Waste of time.  23. Nd7 places the knight in a better spot.
+46,Qc5,b6c5,5rk1/pp2pp1p/3p2p1/nPq5/P1p1P2P/2P2N2/5P2/RQ4K1 w - - 2 24,"Not a great move.  White should keep the queen while he can.
+24. Qf1 Qh5 25. Qh3 Nb3 is better but still opponent has advantage."
+47,Qb4,b1b4,5rk1/pp2pp1p/3p2p1/nPq5/PQp1P2P/2P2N2/5P2/R5K1 b - - 3 24,"Not a great move.  White should keep the queen while he can.
+24. Qf1 Qh5 25. Qh3 Nb3 is better but still opponent has advantage."
+48,Qh5,c5h5,5rk1/pp2pp1p/3p2p1/nP5q/PQp1P2P/2P2N2/5P2/R5K1 w - - 4 25,Here the queens should have been exchanged.
+49,Ne1,f3e1,5rk1/pp2pp1p/3p2p1/nP5q/PQp1P2P/2P5/5P2/R3N1K1 b - - 5 25,Here white is thinking of perhaps pushing the pawn to b6.
+50,Nb3,a5b3,5rk1/pp2pp1p/3p2p1/1P5q/PQp1P2P/1nP5/5P2/R3N1K1 w - - 6 26,Here white is thinking of perhaps pushing the pawn to b6.
+51,Ra2,a1a2,5rk1/pp2pp1p/3p2p1/1P5q/PQp1P2P/1nP5/R4P2/4N1K1 b - - 7 26,Here white is thinking of perhaps pushing the pawn to b6.
+52,Qg4+,h5g4,5rk1/pp2pp1p/3p2p1/1P6/PQp1P1qP/1nP5/R4P2/4N1K1 w - - 8 27,Here white is thinking of perhaps pushing the pawn to b6.
+53,Ng2,e1g2,5rk1/pp2pp1p/3p2p1/1P6/PQp1P1qP/1nP5/R4PN1/6K1 b - - 9 27,Here white is thinking of perhaps pushing the pawn to b6.
+54,Qxe4,g4e4,5rk1/pp2pp1p/3p2p1/1P6/PQp1q2P/1nP5/R4PN1/6K1 w - - 0 28,Here white is thinking of perhaps pushing the pawn to b6.
+55,Rb2,a2b2,5rk1/pp2pp1p/3p2p1/1P6/PQp1q2P/1nP5/1R3PN1/6K1 b - - 1 28,Here white is thinking of perhaps pushing the pawn to b6.
+56,Nc5,b3c5,5rk1/pp2pp1p/3p2p1/1Pn5/PQp1q2P/2P5/1R3PN1/6K1 w - - 2 29,Here white is thinking of perhaps pushing the pawn to b6.
+57,Qa5,b4a5,5rk1/pp2pp1p/3p2p1/QPn5/P1p1q2P/2P5/1R3PN1/6K1 b - - 3 29,Here white is thinking of perhaps pushing the pawn to b6.
+58,Ra8,f8a8,r5k1/pp2pp1p/3p2p1/QPn5/P1p1q2P/2P5/1R3PN1/6K1 w - - 4 30,"I am confused why this move was made (other than to avoid the Knight).
+The following looks much more interesting:
+31. Qxa7 Rxa7 32. bax7 Nxb2 33. a8Q+ Kg7 (still though black is winning)."
+59,b6,b5b6,r5k1/pp2pp1p/1P1p2p1/Q1n5/P1p1q2P/2P5/1R3PN1/6K1 b - - 0 30,"I am confused why this move was made (other than to avoid the Knight).
+The following looks much more interesting:
+31. Qxa7 Rxa7 32. bax7 Nxb2 33. a8Q+ Kg7 (still though black is winning)."
+60,Nd3,c5d3,r5k1/pp2pp1p/1P1p2p1/Q7/P1p1q2P/2Pn4/1R3PN1/6K1 w - - 1 31,"I am confused why this move was made (other than to avoid the Knight).
+The following looks much more interesting:
+31. Qxa7 Rxa7 32. bax7 Nxb2 33. a8Q+ Kg7 (still though black is winning)."
+61,Rc2,b2c2,r5k1/pp2pp1p/1P1p2p1/Q7/P1p1q2P/2Pn4/2R2PN1/6K1 b - - 2 31,"I am confused why this move was made (other than to avoid the Knight).
+The following looks much more interesting:
+31. Qxa7 Rxa7 32. bax7 Nxb2 33. a8Q+ Kg7 (still though black is winning)."

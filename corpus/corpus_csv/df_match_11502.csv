@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My standard...
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Slav Defense
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Slav Defense
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Slav Defense
+5,cxd5,c4d5,rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"I figured anyone who played 2...c6 was familiar with developing continuations, so I attempted to get him out of his repetoire as soon as possible."
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Logical developing moves by both sides so far.
+7,Nc3,b1c3,rnbqkbnr/pp2pppp/8/3p4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,Logical developing moves by both sides so far.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/3p4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 5,Logical developing moves by both sides so far.
+9,Bf4,c1f4,rnbqkb1r/pp2pppp/5n2/3p4/3P1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 5,Logical developing moves by both sides so far.
+10,Nc6,b8c6,r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 4 6,Logical developing moves by both sides so far.
+11,e3,e2e3,r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 6,Logical developing moves by both sides so far.
+12,a6,a7a6,r1bqkb1r/1p2pppp/p1n2n2/3p4/3P1B2/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 7,I was a little surprised by this one. I guess his fear of Bb5 provoked this.
+13,a3,a2a3,r1bqkb1r/1p2pppp/p1n2n2/3p4/3P1B2/P1N1P3/1P3PPP/R2QKBNR b KQkq - 0 7,"As I know had some time because of his last move, I play a defensive move to limit his dark squared bishop."
+14,h6,h7h6,r1bqkb1r/1p2ppp1/p1n2n1p/3p4/3P1B2/P1N1P3/1P3PPP/R2QKBNR w KQkq - 0 8,Another surprise. I would have thought Bf5 was next.
+15,Bd3,f1d3,r1bqkb1r/1p2ppp1/p1n2n1p/3p4/3P1B2/P1NBP3/1P3PPP/R2QK1NR b KQkq - 1 8,"Helping his dark bishop, but limiting his light one."
+16,e6,e7e6,r1bqkb1r/1p3pp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P3PPP/R2QK1NR w KQkq - 0 9,"Helping his dark bishop, but limiting his light one."
+17,Nge2,g1e2,r1bqkb1r/1p3pp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P2NPPP/R2QK2R b KQkq - 1 9,Development and castling complete.
+18,Be7,f8e7,r1bqk2r/1p2bpp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P2NPPP/R2QK2R w KQkq - 2 10,Development and castling complete.
+19,O-O,e1g1,r1bqk2r/1p2bpp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P2NPPP/R2Q1RK1 b kq - 3 10,Development and castling complete.
+20,O-O,e8g8,r1bq1rk1/1p2bpp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P2NPPP/R2Q1RK1 w - - 4 11,Rook to open file......
+21,Rc1,a1c1,r1bq1rk1/1p2bpp1/p1n1pn1p/3p4/3P1B2/P1NBP3/1P2NPPP/2RQ1RK1 b - - 5 11,Rook to open file......
+22,b5,b7b5,r1bq1rk1/4bpp1/p1n1pn1p/1p1p4/3P1B2/P1NBP3/1P2NPPP/2RQ1RK1 w - - 0 12,"And here is where the game starts getting interesting. White is trying to restrict the a and b pawns from advancing, while trying to find a new, better home for the knight."
+23,Na2,c3a2,r1bq1rk1/4bpp1/p1n1pn1p/1p1p4/3P1B2/P2BP3/NP2NPPP/2RQ1RK1 b - - 1 12,"And here is where the game starts getting interesting. White is trying to restrict the a and b pawns from advancing, while trying to find a new, better home for the knight."
+24,Bd7,c8d7,r2q1rk1/3bbpp1/p1n1pn1p/1p1p4/3P1B2/P2BP3/NP2NPPP/2RQ1RK1 w - - 2 13,"Last developing move for black, and potentially strong as it points towards any upcoming action on a4 and b5."
+25,h3,h2h3,r2q1rk1/3bbpp1/p1n1pn1p/1p1p4/3P1B2/P2BP2P/NP2NPP1/2RQ1RK1 b - - 0 13,Creating escape square for the dark squared bishop. I was concerned with black playing Nh5.
+26,Qa5,d8a5,r4rk1/3bbpp1/p1n1pn1p/qp1p4/3P1B2/P2BP2P/NP2NPP1/2RQ1RK1 w - - 1 14,Black now has a very strong presence on the queenside.
+27,f3,f2f3,r4rk1/3bbpp1/p1n1pn1p/qp1p4/3P1B2/P2BPP1P/NP2N1P1/2RQ1RK1 b - - 0 14,"With thoughts of saving my light bishop, as now Ne4 is not possible. If Ne4 were allowed, I would almost be forced to take it with my bishop. While that would double black's pawns, I'm thinking at this point that I need the bishop to stave off attacks on the queenside."
+28,Nh5,f6h5,r4rk1/3bbpp1/p1n1p2p/qp1p3n/3P1B2/P2BPP1P/NP2N1P1/2RQ1RK1 w - - 1 15,That's what I was scared of earlier...
+29,Bh2,f4h2,r4rk1/3bbpp1/p1n1p2p/qp1p3n/3P4/P2BPP1P/NP2N1PB/2RQ1RK1 b - - 2 15,And the bishop retreats to safety.
+30,b4,b5b4,r4rk1/3bbpp1/p1n1p2p/q2p3n/1p1P4/P2BPP1P/NP2N1PB/2RQ1RK1 w - - 0 16,Here comes the push.......
+31,a4,a3a4,r4rk1/3bbpp1/p1n1p2p/q2p3n/Pp1P4/3BPP1P/NP2N1PB/2RQ1RK1 b - - 0 16,"Allowing the push, and hoping to play b3 to lock up the queenside. At this point I realize that my knight on a2 is now a problem, as it is three zip codes away from any conflict."
+32,Qb6,a5b6,r4rk1/3bbpp1/pqn1p2p/3p3n/Pp1P4/3BPP1P/NP2N1PB/2RQ1RK1 w - - 1 17,I was expecting Rfb8.

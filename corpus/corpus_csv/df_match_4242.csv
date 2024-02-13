@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d3,d2d3,rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's pawn moving
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queen's pawn moving
+3,Bg5,c1g5,rnbqkbnr/ppp1pppp/8/3p2B1/8/3P4/PPP1PPPP/RN1QKBNR b KQkq - 1 2,This stops Nf6 but I can still move f6.
+4,h6,h7h6,rnbqkbnr/ppp1ppp1/7p/3p2B1/8/3P4/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"No, a6's better."
+5,Bd2,g5d2,rnbqkbnr/ppp1ppp1/7p/3p4/8/3P4/PPPBPPPP/RN1QKBNR b KQkq - 1 3,The bishop returns
+6,e5,e7e5,rnbqkbnr/ppp2pp1/7p/3pp3/8/3P4/PPPBPPPP/RN1QKBNR w KQkq - 0 4,Two strong pawns in the centre controlling d4 and e4.
+7,e3,e2e3,rnbqkbnr/ppp2pp1/7p/3pp3/8/3PP3/PPPB1PPP/RN1QKBNR b KQkq - 0 4,And the e2 pawn pushes its way.
+8,Bf5,c8f5,rn1qkbnr/ppp2pp1/7p/3ppb2/8/3PP3/PPPB1PPP/RN1QKBNR w KQkq - 1 5,Good by me
+9,e4,e3e4,rn1qkbnr/ppp2pp1/7p/3ppb2/4P3/3P4/PPPB1PPP/RN1QKBNR b KQkq - 0 5,Just what I thought but that's a very bad move.
+10,dxe4,d5e4,rn1qkbnr/ppp2pp1/7p/4pb2/4p3/3P4/PPPB1PPP/RN1QKBNR w KQkq - 0 6,"Here we go and it pins the bishop and d2, or well, at least it sort of does"
+11,dxe4,d3e4,rn1qkbnr/ppp2pp1/7p/4pb2/4P3/8/PPPB1PPP/RN1QKBNR b KQkq - 0 6,"Here we go and it pins the bishop and d2, or well, at least it sort of does"
+12,Bxe4,f5e4,rn1qkbnr/ppp2pp1/7p/4p3/4b3/8/PPPB1PPP/RN1QKBNR w KQkq - 0 7,"Here we go and it pins the bishop and d2, or well, at least it sort of does"
+13,Ne2,g1e2,rn1qkbnr/ppp2pp1/7p/4p3/4b3/8/PPPBNPPP/RN1QKB1R b KQkq - 1 7,The king can't castle now.
+14,Nf6,g8f6,rn1qkb1r/ppp2pp1/5n1p/4p3/4b3/8/PPPBNPPP/RN1QKB1R w KQkq - 2 8,f4? Strange move
+15,f4,f2f4,rn1qkb1r/ppp2pp1/5n1p/4p3/4bP2/8/PPPBN1PP/RN1QKB1R b KQkq - 0 8,f4? Strange move
+16,exf4,e5f4,rn1qkb1r/ppp2pp1/5n1p/8/4bp2/8/PPPBN1PP/RN1QKB1R w KQkq - 0 9,"Now, trying to maje a discovered check."
+17,Nxf4,e2f4,rn1qkb1r/ppp2pp1/5n1p/8/4bN2/8/PPPB2PP/RN1QKB1R b KQkq - 0 9,"Now, trying to maje a discovered check."
+18,Qe7,d8e7,rn2kb1r/ppp1qpp1/5n1p/8/4bN2/8/PPPB2PP/RN1QKB1R w KQkq - 1 10,"Now, trying to maje a discovered check."
+19,Be3,d2e3,rn2kb1r/ppp1qpp1/5n1p/8/4bN2/4B3/PPP3PP/RN1QKB1R b KQkq - 2 10,Doesn't look good for white
+20,Qe5,e7e5,rn2kb1r/ppp2pp1/5n1p/4q3/4bN2/4B3/PPP3PP/RN1QKB1R w KQkq - 3 11,"Chase the knight away,"
+21,Nh3,f4h3,rn2kb1r/ppp2pp1/5n1p/4q3/4b3/4B2N/PPP3PP/RN1QKB1R b KQkq - 4 11,"and my aim is'nt Qxb2, it's"
+22,Bxg2,e4g2,rn2kb1r/ppp2pp1/5n1p/4q3/8/4B2N/PPP3bP/RN1QKB1R w KQkq - 0 12,Close look at that. So that's why I chased the knight away.
+23,Rg1,h1g1,rn2kb1r/ppp2pp1/5n1p/4q3/8/4B2N/PPP3bP/RN1QKBR1 b Qkq - 1 12,Blunder....
+24,Qxe3+,e5e3,rn2kb1r/ppp2pp1/5n1p/8/8/4q2N/PPP3bP/RN1QKBR1 w Qkq - 0 13,A fork?
+25,Qe2,d1e2,rn2kb1r/ppp2pp1/5n1p/8/8/4q2N/PPP1Q1bP/RN2KBR1 b Qkq - 1 13,Have you ever seen such a thing like that. The white queen can't take my bishop and my queen can't take the knight. We pin each other. The world of pins arrive.
+26,Qxe2+,e3e2,rn2kb1r/ppp2pp1/5n1p/8/8/7N/PPP1q1bP/RN2KBR1 w Qkq - 0 14,So I just need to take the queen for the heck of it.

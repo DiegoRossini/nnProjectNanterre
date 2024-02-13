@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,queens pawn opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,queens pawn opening
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,queens gambit accept opposite colors
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,queens gambit accept opposite colors
+5,dxc5,d4c5,rnbqkbnr/pp2pppp/8/2Pp4/8/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 3,he accepts
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2Pp4/8/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 4,threatnig e5
+7,Bb5,f1b5,r1bqkbnr/pp2pppp/2n5/1BPp4/8/4P3/PPP2PPP/RNBQK1NR b KQkq - 2 4,pin
+8,e5,e7e5,r1bqkbnr/pp3ppp/2n5/1BPpp3/8/4P3/PPP2PPP/RNBQK1NR w KQkq - 0 5,ignoring the pin
+9,b4,b2b4,r1bqkbnr/pp3ppp/2n5/1BPpp3/1P6/4P3/P1P2PPP/RNBQK1NR b KQkq - 0 5,defending his extra pawn
+10,a5,a7a5,r1bqkbnr/1p3ppp/2n5/pBPpp3/1P6/4P3/P1P2PPP/RNBQK1NR w KQkq - 0 6,if he takes a5 ill play Qxa5 winning his bishop
+11,c3,c2c3,r1bqkbnr/1p3ppp/2n5/pBPpp3/1P6/2P1P3/P4PPP/RNBQK1NR b KQkq - 0 6,defending the pawn
+12,axb4,a5b4,r1bqkbnr/1p3ppp/2n5/1BPpp3/1p6/2P1P3/P4PPP/RNBQK1NR w KQkq - 0 7,trade and he will win a secod pawn
+13,Bxc6+,b5c6,r1bqkbnr/1p3ppp/2B5/2Ppp3/1p6/2P1P3/P4PPP/RNBQK1NR b KQkq - 0 7,trade and he will win a secod pawn
+14,bxc6,b7c6,r1bqkbnr/5ppp/2p5/2Ppp3/1p6/2P1P3/P4PPP/RNBQK1NR w KQkq - 0 8,trade and he will win a secod pawn
+15,cxb4,c3b4,r1bqkbnr/5ppp/2p5/2Ppp3/1P6/4P3/P4PPP/RNBQK1NR b KQkq - 0 8,a risky move but threatning Qxb4
+16,Qh4,d8h4,r1b1kbnr/5ppp/2p5/2Ppp3/1P5q/4P3/P4PPP/RNBQK1NR w KQkq - 1 9,a risky move but threatning Qxb4
+17,Nf3,g1f3,r1b1kbnr/5ppp/2p5/2Ppp3/1P5q/4PN2/P4PPP/RNBQK2R b KQkq - 2 9,losing a pawn
+18,Qxb4+,h4b4,r1b1kbnr/5ppp/2p5/2Ppp3/1q6/4PN2/P4PPP/RNBQK2R w KQkq - 0 10,capture
+19,Bd2,c1d2,r1b1kbnr/5ppp/2p5/2Ppp3/1q6/4PN2/P2B1PPP/RN1QK2R b KQkq - 1 10,defnding check
+20,Qxc5,b4c5,r1b1kbnr/5ppp/2p5/2qpp3/8/4PN2/P2B1PPP/RN1QK2R w KQkq - 0 11,capture
+21,Nxe5,f3e5,r1b1kbnr/5ppp/2p5/2qpN3/8/4P3/P2B1PPP/RN1QK2R b KQkq - 0 11,capture
+22,Bd6,f8d6,r1b1k1nr/5ppp/2pb4/2qpN3/8/4P3/P2B1PPP/RN1QK2R w KQkq - 1 12,he should meet this with Qc or d7 but he doesnt
+23,Bc3,d2c3,r1b1k1nr/5ppp/2pb4/2qpN3/8/2B1P3/P4PPP/RN1QK2R b KQkq - 2 12,he should meet this with Qc or d7 but he doesnt
+24,Ra3,a8a3,2b1k1nr/5ppp/2pb4/2qpN3/8/r1B1P3/P4PPP/RN1QK2R w KQk - 3 13,he should meet this with Qc or d7 but he doesnt
+25,Nxc6,e5c6,2b1k1nr/5ppp/2Nb4/2qp4/8/r1B1P3/P4PPP/RN1QK2R b KQk - 0 13,thinking he can win my g7 pawn but he over-looked it
+26,Rxc3,a3c3,2b1k1nr/5ppp/2Nb4/2qp4/8/2r1P3/P4PPP/RN1QK2R w KQk - 0 14,capture! winning matirial
+27,Nxc3,b1c3,2b1k1nr/5ppp/2Nb4/2qp4/8/2N1P3/P4PPP/R2QK2R b KQk - 0 14,after i capture he makes a huge mistake

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My standard opening.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,
+7,f3,f2f3,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2P2/PP2P1PP/R1BQKBNR b KQkq - 0 4,"This is a favorite of mine that I prepared for the Nimzo-Indian. The main idea is that the pawn on f3 supports an e4 push and an eventual g4 push to attack the king-side. The obvious drawback to this is that the g1 knight doesn't get to go to its natural square, but I can still route it to g3 via e2."
+8,d5,d7d5,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2P2/PP2P1PP/R1BQKBNR w KQkq - 0 5,Common theme to discourage e4.
+9,a3,a2a3,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/P1N2P2/1P2P1PP/R1BQKBNR b KQkq - 0 5,Forcing the bishop to make a choice.
+10,Bxc3+,b4c3,rnbqk2r/ppp2ppp/4pn2/3p4/2PP4/P1b2P2/1P2P1PP/R1BQKBNR w KQkq - 0 6,
+11,bxc3,b2c3,rnbqk2r/ppp2ppp/4pn2/3p4/2PP4/P1P2P2/4P1PP/R1BQKBNR b KQkq - 0 6,
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1P2P2/4P1PP/R1BQKBNR w KQ - 1 7,
+13,cxd5,c4d5,rnbq1rk1/ppp2ppp/4pn2/3P4/3P4/P1P2P2/4P1PP/R1BQKBNR b KQ - 0 7,Undoubling the pawns and preparing the development of my LSB.
+14,exd5,e6d5,rnbq1rk1/ppp2ppp/5n2/3p4/3P4/P1P2P2/4P1PP/R1BQKBNR w KQ - 0 8,
+15,e3,e2e3,rnbq1rk1/ppp2ppp/5n2/3p4/3P4/P1P1PP2/6PP/R1BQKBNR b KQ - 0 8,
+16,c5,c7c5,rnbq1rk1/pp3ppp/5n2/2pp4/3P4/P1P1PP2/6PP/R1BQKBNR w KQ - 0 9,"All main line so far. White's path of development is clear; Bd3, Ne2, O-O, and then prepare the king-side attack. Black's counter play will be focused on attacking the queen side as well as the center."
+17,Bd3,f1d3,rnbq1rk1/pp3ppp/5n2/2pp4/3P4/P1PBPP2/6PP/R1BQK1NR b KQ - 1 9,
+18,Nc6,b8c6,r1bq1rk1/pp3ppp/2n2n2/2pp4/3P4/P1PBPP2/6PP/R1BQK1NR w KQ - 2 10,
+19,Ne2,g1e2,r1bq1rk1/pp3ppp/2n2n2/2pp4/3P4/P1PBPP2/4N1PP/R1BQK2R b KQ - 3 10,
+20,Re8,f8e8,r1bqr1k1/pp3ppp/2n2n2/2pp4/3P4/P1PBPP2/4N1PP/R1BQK2R w KQ - 4 11,

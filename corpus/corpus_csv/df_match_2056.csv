@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e4 opening
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,attacking move
+3,Nf3,g1f3,rnbqkbnr/pppppp1p/6p1/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,i wanted to pass e5 so that the knight attack is blocked
+4,Nc6,b8c6,r1bqkbnr/pppppp1p/2n3p1/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,the opponent safeguard the e5 position
+5,Bb5,f1b5,r1bqkbnr/pppppp1p/2n3p1/1B6/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,sacrificed my knight for horse
+6,e6,e7e6,r1bqkbnr/pppp1p1p/2n1p1p1/1B6/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,sacrificed my knight for horse
+7,Bxc6,b5c6,r1bqkbnr/pppp1p1p/2B1p1p1/8/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,sacrificed my knight for horse
+8,dxc6,d7c6,r1bqkbnr/ppp2p1p/2p1p1p1/8/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,i thought this move will block the knight Bg7 and i can control the middle
+9,e5,e4e5,r1bqkbnr/ppp2p1p/2p1p1p1/4P3/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 5,i thought this move will block the knight Bg7 and i can control the middle
+10,Bg7,f8g7,r1bqk1nr/ppp2pbp/2p1p1p1/4P3/8/5N2/PPPP1PPP/RNBQK2R w KQkq - 1 6,opening to save the middle e5
+11,b3,b2b3,r1bqk1nr/ppp2pbp/2p1p1p1/4P3/8/1P3N2/P1PP1PPP/RNBQK2R b KQkq - 0 6,opening to save the middle e5
+12,b6,b7b6,r1bqk1nr/p1p2pbp/1pp1p1p1/4P3/8/1P3N2/P1PP1PPP/RNBQK2R w KQkq - 0 7,"could have gone for castling,,,my blunder"
+13,Bb2,c1b2,r1bqk1nr/p1p2pbp/1pp1p1p1/4P3/8/1P3N2/PBPP1PPP/RN1QK2R b KQkq - 1 7,"could have gone for castling,,,my blunder"
+14,Ba6,c8a6,r2qk1nr/p1p2pbp/bpp1p1p1/4P3/8/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 2 8,knight which blocks my castling
+15,d3,d2d3,r2qk1nr/p1p2pbp/bpp1p1p1/4P3/8/1P1P1N2/PBP2PPP/RN1QK2R b KQkq - 0 8,finally did the castling with difficulty
+16,Nh6,g8h6,r2qk2r/p1p2pbp/bpp1p1pn/4P3/8/1P1P1N2/PBP2PPP/RN1QK2R w KQkq - 1 9,finally did the castling with difficulty
+17,O-O,e1g1,r2qk2r/p1p2pbp/bpp1p1pn/4P3/8/1P1P1N2/PBP2PPP/RN1Q1RK1 b kq - 2 9,finally did the castling with difficulty
+18,Bb7,a6b7,r2qk2r/pbp2pbp/1pp1p1pn/4P3/8/1P1P1N2/PBP2PPP/RN1Q1RK1 w kq - 3 10,i wanted to prevent the opponent castling
+19,Ba3,b2a3,r2qk2r/pbp2pbp/1pp1p1pn/4P3/8/BP1P1N2/P1P2PPP/RN1Q1RK1 b kq - 4 10,i wanted to prevent the opponent castling
+20,c5,c6c5,r2qk2r/pbp2pbp/1p2p1pn/2p1P3/8/BP1P1N2/P1P2PPP/RN1Q1RK1 w kq - 0 11,another blunder move
+21,d4,d3d4,r2qk2r/pbp2pbp/1p2p1pn/2p1P3/3P4/BP3N2/P1P2PPP/RN1Q1RK1 b kq - 0 11,another blunder move
+22,cxd4,c5d4,r2qk2r/pbp2pbp/1p2p1pn/4P3/3p4/BP3N2/P1P2PPP/RN1Q1RK1 w kq - 0 12,my unnecessary move which made queen sacrifice
+23,Qxd4,d1d4,r2qk2r/pbp2pbp/1p2p1pn/4P3/3Q4/BP3N2/P1P2PPP/RN3RK1 b kq - 0 12,my unnecessary move which made queen sacrifice
+24,Qxd4,d8d4,r3k2r/pbp2pbp/1p2p1pn/4P3/3q4/BP3N2/P1P2PPP/RN3RK1 w kq - 0 13,double attack
+25,Nxd4,f3d4,r3k2r/pbp2pbp/1p2p1pn/4P3/3N4/BP6/P1P2PPP/RN3RK1 b kq - 0 13,double attack
+26,Bxe5,g7e5,r3k2r/pbp2p1p/1p2p1pn/4b3/3N4/BP6/P1P2PPP/RN3RK1 w kq - 0 14,double attack
+27,c3,c2c3,r3k2r/pbp2p1p/1p2p1pn/4b3/3N4/BPP5/P4PPP/RN3RK1 b kq - 0 14,my another blunder...which i lost my horse and also the king pawn is opened
+28,c5,c7c5,r3k2r/pb3p1p/1p2p1pn/2p1b3/3N4/BPP5/P4PPP/RN3RK1 w kq - 0 15,my another blunder...which i lost my horse and also the king pawn is opened
+29,Nf3,d4f3,r3k2r/pb3p1p/1p2p1pn/2p1b3/8/BPP2N2/P4PPP/RN3RK1 b kq - 1 15,my another blunder...which i lost my horse and also the king pawn is opened
+30,Bf6,e5f6,r3k2r/pb3p1p/1p2pbpn/2p5/8/BPP2N2/P4PPP/RN3RK1 w kq - 2 16,another blunder move...lost my knight ...
+31,Bb2,a3b2,r3k2r/pb3p1p/1p2pbpn/2p5/8/1PP2N2/PB3PPP/RN3RK1 b kq - 3 16,another blunder move...lost my knight ...
+32,Bxf3,b7f3,r3k2r/p4p1p/1p2pbpn/2p5/8/1PP2b2/PB3PPP/RN3RK1 w kq - 0 17,another blunder move...lost my knight ...
+33,gxf3,g2f3,r3k2r/p4p1p/1p2pbpn/2p5/8/1PP2P2/PB3P1P/RN3RK1 b kq - 0 17,another blunder move...lost my knight ...
+34,O-O,e8g8,r4rk1/p4p1p/1p2pbpn/2p5/8/1PP2P2/PB3P1P/RN3RK1 w - - 1 18,another blunder move...lost my knight ...
+35,Nd2,b1d2,r4rk1/p4p1p/1p2pbpn/2p5/8/1PP2P2/PB1N1P1P/R4RK1 b - - 2 18,another blunder move...lost my knight ...
+36,Nf5,h6f5,r4rk1/p4p1p/1p2pbp1/2p2n2/8/1PP2P2/PB1N1P1P/R4RK1 w - - 3 19,another blunder move...lost my knight ...
+37,Ne4,d2e4,r4rk1/p4p1p/1p2pbp1/2p2n2/4N3/1PP2P2/PB3P1P/R4RK1 b - - 4 19,another blunder move...lost my knight ...
+38,Bg7,f6g7,r4rk1/p4pbp/1p2p1p1/2p2n2/4N3/1PP2P2/PB3P1P/R4RK1 w - - 5 20,another blunder move...lost my knight ...
+39,Rab1,a1b1,r4rk1/p4pbp/1p2p1p1/2p2n2/4N3/1PP2P2/PB3P1P/1R3RK1 b - - 6 20,another blunder move...lost my knight ...
+40,Rfd8,f8d8,r2r2k1/p4pbp/1p2p1p1/2p2n2/4N3/1PP2P2/PB3P1P/1R3RK1 w - - 7 21,another blunder move...lost my knight ...
+41,Rfd1,f1d1,r2r2k1/p4pbp/1p2p1p1/2p2n2/4N3/1PP2P2/PB3P1P/1R1R2K1 b - - 8 21,another blunder move...lost my knight ...
+42,Nh4,f5h4,r2r2k1/p4pbp/1p2p1p1/2p5/4N2n/1PP2P2/PB3P1P/1R1R2K1 w - - 9 22,another blunder move...lost my knight ...
+43,c4,c3c4,r2r2k1/p4pbp/1p2p1p1/2p5/2P1N2n/1P3P2/PB3P1P/1R1R2K1 b - - 0 22,another blunder move...lost my knight ...
+44,Rxd1+,d8d1,r5k1/p4pbp/1p2p1p1/2p5/2P1N2n/1P3P2/PB3P1P/1R1r2K1 w - - 0 23,another blunder move...lost my knight ...
+45,Rxd1,b1d1,r5k1/p4pbp/1p2p1p1/2p5/2P1N2n/1P3P2/PB3P1P/3R2K1 b - - 0 23,another blunder move...lost my knight ...
+46,Bxb2,g7b2,r5k1/p4p1p/1p2p1p1/2p5/2P1N2n/1P3P2/Pb3P1P/3R2K1 w - - 0 24,this move blocked my rook
+47,Rd3,d1d3,r5k1/p4p1p/1p2p1p1/2p5/2P1N2n/1P1R1P2/Pb3P1P/6K1 b - - 1 24,this move blocked my rook
+48,Bd4,b2d4,r5k1/p4p1p/1p2p1p1/2p5/2PbN2n/1P1R1P2/P4P1P/6K1 w - - 2 25,this move blocked my rook
+49,h3,h2h3,r5k1/p4p1p/1p2p1p1/2p5/2PbN2n/1P1R1P1P/P4P2/6K1 b - - 0 25,my defense getting worse
+50,Rd8,a8d8,3r2k1/p4p1p/1p2p1p1/2p5/2PbN2n/1P1R1P1P/P4P2/6K1 w - - 1 26,my defense getting worse
+51,Kh2,g1h2,3r2k1/p4p1p/1p2p1p1/2p5/2PbN2n/1P1R1P1P/P4P1K/8 b - - 2 26,this check move...my remaining rook also lost
+52,Be5+,d4e5,3r2k1/p4p1p/1p2p1p1/2p1b3/2P1N2n/1P1R1P1P/P4P1K/8 w - - 3 27,this check move...my remaining rook also lost
+53,Ng3,e4g3,3r2k1/p4p1p/1p2p1p1/2p1b3/2P4n/1P1R1PNP/P4P1K/8 b - - 4 27,"with no major pieces available and defeat certain, i resigned..
+
+again when i reviewed my game, i found that i did not properly develop my pieces in the middle game..suggestions welcome"
+54,Rxd3,d8d3,6k1/p4p1p/1p2p1p1/2p1b3/2P4n/1P1r1PNP/P4P1K/8 w - - 0 28,"with no major pieces available and defeat certain, i resigned..
+
+again when i reviewed my game, i found that i did not properly develop my pieces in the middle game..suggestions welcome"

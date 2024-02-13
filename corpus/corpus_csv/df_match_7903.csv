@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This is a short game I played in a GK tournament recently. There were a range of tactics, nearly all of which were missed by at least one player."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"This is unusual - in my experience, white normally follows up with 3.c4 and attempts to squash black's position. As a move I don't like it for white, and the only game in the database that started like this was won by black."
+3,d5,d4d5,rnbqkb1r/pppppppp/5n2/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,"This is unusual - in my experience, white normally follows up with 3.c4 and attempts to squash black's position. As a move I don't like it for white, and the only game in the database that started like this was won by black."
+4,c6,c7c6,rnbqkb1r/pp1ppppp/2p2n2/3P4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,"I thought exchanging seems sensible - the line I have played most often is 3.c4 cxd5 4.cxd5 e6 5.d6 Qb6 6.Bf4, which leads to a complex position, as white must hang onto the pawn. In that line, I don't really like either player's position."
+5,dxc6,d5c6,rnbqkb1r/pp1ppppp/2P2n2/8/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 3,"3.dxc6? is certainly a mistake, handing black a central pawn majority and a development advantage."
+6,Nxc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/8/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 4,"3.dxc6? is certainly a mistake, handing black a central pawn majority and a development advantage."
+7,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/8/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 4,"I wanted to prevent the knight from having anywhere it could take up an outpost - not that I thought this likely, but it couldn't hurt, and in any case I needed to release my bishops. Finally, this unleashes the possibility of ...Qa5 and ...d4."
+8,d5,d7d5,r1bqkb1r/pp2pppp/2n2n2/3p4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 5,"I wanted to prevent the knight from having anywhere it could take up an outpost - not that I thought this likely, but it couldn't hurt, and in any case I needed to release my bishops. Finally, this unleashes the possibility of ...Qa5 and ...d4."
+9,Bf4,c1f4,r1bqkb1r/pp2pppp/2n2n2/3p4/5B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 5,"Driving back the knight, due to the threat of ...Qa5+. This is the first tactic my opponent missed."
+10,d4,d5d4,r1bqkb1r/pp2pppp/2n2n2/8/3p1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 6,"Driving back the knight, due to the threat of ...Qa5+. This is the first tactic my opponent missed."
+11,Nb5,c3b5,r1bqkb1r/pp2pppp/2n2n2/1N6/3p1B2/8/PPP1PPPP/R2QKBNR b KQkq - 1 6,No need to win the knight immediately.
+12,e5,e7e5,r1bqkb1r/pp3ppp/2n2n2/1N2p3/3p1B2/8/PPP1PPPP/R2QKBNR w KQkq - 0 7,No need to win the knight immediately.
+13,Bg3,f4g3,r1bqkb1r/pp3ppp/2n2n2/1N2p3/3p4/6B1/PPP1PPPP/R2QKBNR b KQkq - 1 7,"Now, if 9.cxd4??, ...Bb4. The only tactic we both saw."
+14,Qa5+,d8a5,r1b1kb1r/pp3ppp/2n2n2/qN2p3/3p4/6B1/PPP1PPPP/R2QKBNR w KQkq - 2 8,"Now, if 9.cxd4??, ...Bb4. The only tactic we both saw."
+15,c3,c2c3,r1b1kb1r/pp3ppp/2n2n2/qN2p3/3p4/2P3B1/PP2PPPP/R2QKBNR b KQkq - 0 8,"Now, if 9.cxd4??, ...Bb4. The only tactic we both saw."
+16,Qxb5,a5b5,r1b1kb1r/pp3ppp/2n2n2/1q2p3/3p4/2P3B1/PP2PPPP/R2QKBNR w KQkq - 0 9,"Now, if 9.cxd4??, ...Bb4. The only tactic we both saw."
+17,Rb1,a1b1,r1b1kb1r/pp3ppp/2n2n2/1q2p3/3p4/2P3B1/PP2PPPP/1R1QKBNR b Kkq - 1 9,"Providing backup for the b-pawn, but not oing much else. However, there is a devious trick that in turn, I missed..."
+18,Bf5,c8f5,r3kb1r/pp3ppp/2n2n2/1q2pb2/3p4/2P3B1/PP2PPPP/1R1QKBNR w Kkq - 2 10,Aiming to dislodge the rook...
+19,e4,e2e4,r3kb1r/pp3ppp/2n2n2/1q2pb2/3pP3/2P3B1/PP3PPP/1R1QKBNR b Kkq e3 0 10,"Whoops! There goes my extra peice! I decided to try and make the most of a bad job. My next move was aiming to exchange on c3, then swap queens, in order to leave me with an extra pawn and far superior development."
+20,Qa5,b5a5,r3kb1r/pp3ppp/2n2n2/q3pb2/3pP3/2P3B1/PP3PPP/1R1QKBNR w Kkq - 1 11,"I don't know why my opponent didn't take the bishop immediately - I calculated this to leave  me with not only extra material, but a far superior position."
+21,Qb3,d1b3,r3kb1r/pp3ppp/2n2n2/q3pb2/3pP3/1QP3B1/PP3PPP/1R2KBNR b Kkq - 2 11,"I don't know why my opponent didn't take the bishop immediately - I calculated this to leave  me with not only extra material, but a far superior position."
+22,dxc3,d4c3,r3kb1r/pp3ppp/2n2n2/q3pb2/4P3/1Qp3B1/PP3PPP/1R2KBNR w Kkq - 0 12,"Blunder, again!"
+23,exf5,e4f5,r3kb1r/pp3ppp/2n2n2/q3pP2/8/1Qp3B1/PP3PPP/1R2KBNR b Kkq - 0 12,"Blunder, again!"
+24,c2+,c3c2,r3kb1r/pp3ppp/2n2n2/q3pP2/8/1Q4B1/PPp2PPP/1R2KBNR w Kkq - 0 13,"With a simple finish, e.g. 13.Ke2 Nd4+ 14.Ke3 Ng4+ 15.Kd3 cxb1=Q+ 16.Qc2 Qxc2#"

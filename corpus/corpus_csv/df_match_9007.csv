@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"From a recent mini-tournament, white opens with the unconventional Van 't Kruijs opening. The opening is somewhat passive as it hinders the DSB, but has plenty of transpositional value as we could arrive in an English or Queen's pawn game, or reversed french or dutch."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I respond with intuitive moves that gain space and develop but soon gets me into trouble as white launches an attack on the kingside.
+3,b3,b2b3,rnbqkbnr/pppp1ppp/8/4p3/8/1P2P3/P1PP1PPP/RNBQKBNR b KQkq - 0 2,"A wasted move, I must have been worried about the bishop coming to b5, but a move like ...d5 or ...Nf6 is much better."
+4,a6,a7a6,rnbqkbnr/1ppp1ppp/p7/4p3/8/1P2P3/P1PP1PPP/RNBQKBNR w KQkq - 0 3,"A wasted move, I must have been worried about the bishop coming to b5, but a move like ...d5 or ...Nf6 is much better."
+5,Bb2,c1b2,rnbqkbnr/1ppp1ppp/p7/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 1 3,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+6,Nc6,b8c6,r1bqkbnr/1ppp1ppp/p1n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 2 4,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+7,Nc3,b1c3,r1bqkbnr/1ppp1ppp/p1n5/4p3/8/1PN1P3/PBPP1PPP/R2QKBNR b KQkq - 3 4,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/8/1PN1P3/PBPP1PPP/R2QKBNR w KQkq - 4 5,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+9,Qe2,d1e2,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/8/1PN1P3/PBPPQPPP/R3KBNR b KQkq - 5 5,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+10,d5,d7d5,r1bqkb1r/1pp2ppp/p1n2n2/3pp3/8/1PN1P3/PBPPQPPP/R3KBNR w KQkq - 0 6,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+11,O-O-O,e1c1,r1bqkb1r/1pp2ppp/p1n2n2/3pp3/8/1PN1P3/PBPPQPPP/2KR1BNR b kq - 1 6,White has adopted an unconventional opening and has gotten a passive position. No tactics for black are immediate but Crafty-20.14 gives the position -.54 suggesting 6... b5.
+12,Bf5,c8f5,r2qkb1r/1pp2ppp/p1n2n2/3ppb2/8/1PN1P3/PBPPQPPP/2KR1BNR w kq - 2 7,Gives white trouble after 7.... d4! 8. exd4 Bxc2 !
+13,Kb1,c1b1,r2qkb1r/1pp2ppp/p1n2n2/3ppb2/8/1PN1P3/PBPPQPPP/1K1R1BNR b kq - 3 7,Gives white trouble after 7.... d4! 8. exd4 Bxc2 !
+14,Bd6,f8d6,r2qk2r/1pp2ppp/p1nb1n2/3ppb2/8/1PN1P3/PBPPQPPP/1K1R1BNR w kq - 4 8,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+15,d3,d2d3,r2qk2r/1pp2ppp/p1nb1n2/3ppb2/8/1PNPP3/PBP1QPPP/1K1R1BNR b kq - 0 8,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+16,O-O,e8g8,r2q1rk1/1pp2ppp/p1nb1n2/3ppb2/8/1PNPP3/PBP1QPPP/1K1R1BNR w - - 1 9,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+17,h3,h2h3,r2q1rk1/1pp2ppp/p1nb1n2/3ppb2/8/1PNPP2P/PBP1QPP1/1K1R1BNR b - - 0 9,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+18,b5,b7b5,r2q1rk1/2p2ppp/p1nb1n2/1p1ppb2/8/1PNPP2P/PBP1QPP1/1K1R1BNR w - - 0 10,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+19,Rc1,d1c1,r2q1rk1/2p2ppp/p1nb1n2/1p1ppb2/8/1PNPP2P/PBP1QPP1/1KR2BNR b - - 1 10,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+20,Ne7,c6e7,r2q1rk1/2p1nppp/p2b1n2/1p1ppb2/8/1PNPP2P/PBP1QPP1/1KR2BNR w - - 2 11,Repositioning the knight for kingside defense and to start a queen-side pawn storm.
+21,g4,g2g4,r2q1rk1/2p1nppp/p2b1n2/1p1ppb2/6P1/1PNPP2P/PBP1QP2/1KR2BNR b - - 0 11,"Tricky position, black has been pushed back, but isn't exactly cramped, d-knight can go to b6, e-knight has f5 or d5 after d4 is played and both bishops have some squares. Meanwhile white has three undeveloped pieces on his kingside."
+22,Be6,f5e6,r2q1rk1/2p1nppp/p2bbn2/1p1pp3/6P1/1PNPP2P/PBP1QP2/1KR2BNR w - - 1 12,"Tricky position, black has been pushed back, but isn't exactly cramped, d-knight can go to b6, e-knight has f5 or d5 after d4 is played and both bishops have some squares. Meanwhile white has three undeveloped pieces on his kingside."
+23,g5,g4g5,r2q1rk1/2p1nppp/p2bbn2/1p1pp1P1/8/1PNPP2P/PBP1QP2/1KR2BNR b - - 0 12,"Tricky position, black has been pushed back, but isn't exactly cramped, d-knight can go to b6, e-knight has f5 or d5 after d4 is played and both bishops have some squares. Meanwhile white has three undeveloped pieces on his kingside."
+24,Nd7,f6d7,r2q1rk1/2pnnppp/p2bb3/1p1pp1P1/8/1PNPP2P/PBP1QP2/1KR2BNR w - - 1 13,"Tricky position, black has been pushed back, but isn't exactly cramped, d-knight can go to b6, e-knight has f5 or d5 after d4 is played and both bishops have some squares. Meanwhile white has three undeveloped pieces on his kingside."
+25,h4,h3h4,r2q1rk1/2pnnppp/p2bb3/1p1pp1P1/7P/1PNPP3/PBP1QP2/1KR2BNR b - - 0 13,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+26,c5,c7c5,r2q1rk1/3nnppp/p2bb3/1pppp1P1/7P/1PNPP3/PBP1QP2/1KR2BNR w - - 0 14,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+27,Nf3,g1f3,r2q1rk1/3nnppp/p2bb3/1pppp1P1/7P/1PNPPN2/PBP1QP2/1KR2B1R b - - 1 14,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+28,Nf5,e7f5,r2q1rk1/3n1ppp/p2bb3/1ppppnP1/7P/1PNPPN2/PBP1QP2/1KR2B1R w - - 2 15,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+29,h5,h4h5,r2q1rk1/3n1ppp/p2bb3/1ppppnPP/8/1PNPPN2/PBP1QP2/1KR2B1R b - - 0 15,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+30,g6,g7g6,r2q1rk1/3n1p1p/p2bb1p1/1ppppnPP/8/1PNPPN2/PBP1QP2/1KR2B1R w - - 0 16,"oops. Bad move, completely gives away any edge Black has built up and allows for hxg6. 15... b4 probably a draw, but ...g6 is almost a win for white."
+31,hxg6,h5g6,r2q1rk1/3n1p1p/p2bb1P1/1ppppnP1/8/1PNPPN2/PBP1QP2/1KR2B1R b - - 0 16,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+32,fxg6,f7g6,r2q1rk1/3n3p/p2bb1p1/1ppppnP1/8/1PNPPN2/PBP1QP2/1KR2B1R w - - 0 17,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+33,Bh3,f1h3,r2q1rk1/3n3p/p2bb1p1/1ppppnP1/8/1PNPPN1B/PBP1QP2/1KR4R b - - 1 17,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+34,d4,d5d4,r2q1rk1/3n3p/p2bb1p1/1pp1pnP1/3p4/1PNPPN1B/PBP1QP2/1KR4R w - - 0 18,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+35,Ne4,c3e4,r2q1rk1/3n3p/p2bb1p1/1pp1pnP1/3pN3/1P1PPN1B/PBP1QP2/1KR4R b - - 1 18,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+36,Be7,d6e7,r2q1rk1/3nb2p/p3b1p1/1pp1pnP1/3pN3/1P1PPN1B/PBP1QP2/1KR4R w - - 2 19,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+37,Nh4,f3h4,r2q1rk1/3nb2p/p3b1p1/1pp1pnP1/3pN2N/1P1PP2B/PBP1QP2/1KR4R b - - 3 19,19. exd4 cxd4 20. Bxd4 Bxb3 21. cxb3 exd4 22. Bxf5 Rxf5 23. Nxd4 Bxg5 24.Nxf5 Bxc1 leads to excellent game for White.
+38,Bxg5,e7g5,r2q1rk1/3n3p/p3b1p1/1pp1pnb1/3pN2N/1P1PP2B/PBP1QP2/1KR4R w - - 0 20,White has a huge advantage which they give away right....
+39,Nxg6,h4g6,r2q1rk1/3n3p/p3b1N1/1pp1pnb1/3pN3/1P1PP2B/PBP1QP2/1KR4R b - - 0 20,White has a huge advantage which they give away right....
+40,hxg6,h7g6,r2q1rk1/3n4/p3b1p1/1pp1pnb1/3pN3/1P1PP2B/PBP1QP2/1KR4R w - - 0 21,White has a huge advantage which they give away right....
+41,Bxf5,h3f5,r2q1rk1/3n4/p3b1p1/1pp1pBb1/3pN3/1P1PP3/PBP1QP2/1KR4R b - - 0 21,....here. 21. Rcg1 forces home the edge. Bxf5 allows black to defend against future attacks and now the knight sacrifice puts white on the defense.
+42,Bxf5,e6f5,r2q1rk1/3n4/p5p1/1pp1pbb1/3pN3/1P1PP3/PBP1QP2/1KR4R w - - 0 22,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+43,Nxg5,e4g5,r2q1rk1/3n4/p5p1/1pp1pbN1/3p4/1P1PP3/PBP1QP2/1KR4R b - - 0 22,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+44,Qxg5,d8g5,r4rk1/3n4/p5p1/1pp1pbq1/3p4/1P1PP3/PBP1QP2/1KR4R w - - 0 23,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+45,Rcg1,c1g1,r4rk1/3n4/p5p1/1pp1pbq1/3p4/1P1PP3/PBP1QP2/1K4RR b - - 1 23,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+46,Qf6,g5f6,r4rk1/3n4/p4qp1/1pp1pb2/3p4/1P1PP3/PBP1QP2/1K4RR w - - 2 24,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+47,e4,e3e4,r4rk1/3n4/p4qp1/1pp1pb2/3pP3/1P1P4/PBP1QP2/1K4RR b - - 0 24,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+48,Be6,f5e6,r4rk1/3n4/p3bqp1/1pp1p3/3pP3/1P1P4/PBP1QP2/1K4RR w - - 1 25,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+49,Bc1,b2c1,r4rk1/3n4/p3bqp1/1pp1p3/3pP3/1P1P4/P1P1QP2/1KB3RR b - - 2 25,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+50,c4,c5c4,r4rk1/3n4/p3bqp1/1p2p3/2ppP3/1P1P4/P1P1QP2/1KB3RR w - - 0 26,Having a hard time finding good moves I start to push the pawns on the queenside. Had White played Rh6 Black would have been in another pickle.
+51,Qe1,e2e1,r4rk1/3n4/p3bqp1/1p2p3/2ppP3/1P1P4/P1P2P2/1KB1Q1RR b - - 1 26,Gives up the defense of key squares. 26... cxd3! 27. cxd3 Rac8
+52,a5,a6a5,r4rk1/3n4/4bqp1/pp2p3/2ppP3/1P1P4/P1P2P2/1KB1Q1RR w - - 0 27,"White has spent many moves hoping to set up this pin(instead of playing Rh6), but actually Black can stop it..."
+53,Rxg6+,g1g6,r4rk1/3n4/4bqR1/pp2p3/2ppP3/1P1P4/P1P2P2/1KB1Q2R b - - 0 27,"White has spent many moves hoping to set up this pin(instead of playing Rh6), but actually Black can stop it..."
+54,Qxg6,f6g6,r4rk1/3n4/4b1q1/pp2p3/2ppP3/1P1P4/P1P2P2/1KB1Q2R w - - 0 28,"White has spent many moves hoping to set up this pin(instead of playing Rh6), but actually Black can stop it..."
+55,Rg1,h1g1,r4rk1/3n4/4b1q1/pp2p3/2ppP3/1P1P4/P1P2P2/1KB1Q1R1 b - - 1 28,"White has spent many moves hoping to set up this pin(instead of playing Rh6), but actually Black can stop it..."
+56,Bg4,e6g4,r4rk1/3n4/6q1/pp2p3/2ppP1b1/1P1P4/P1P2P2/1KB1Q1R1 w - - 2 29,Now White is really in trouble and the slow role of the pawns that Black has been pushing up the queenside will start to tell.
+57,f3,f2f3,r4rk1/3n4/6q1/pp2p3/2ppP1b1/1P1P1P2/P1P5/1KB1Q1R1 b - - 0 29,Now White is really in trouble and the slow role of the pawns that Black has been pushing up the queenside will start to tell.
+58,Rxf3,f8f3,r5k1/3n4/6q1/pp2p3/2ppP1b1/1P1P1r2/P1P5/1KB1Q1R1 w - - 0 30,Now White is really in trouble and the slow role of the pawns that Black has been pushing up the queenside will start to tell.
+59,Qh4,e1h4,r5k1/3n4/6q1/pp2p3/2ppP1bQ/1P1P1r2/P1P5/1KB3R1 b - - 1 30,Now White is really in trouble and the slow role of the pawns that Black has been pushing up the queenside will start to tell.
+60,Nf6,d7f6,r5k1/8/5nq1/pp2p3/2ppP1bQ/1P1P1r2/P1P5/1KB3R1 w - - 2 31,Now White is really in trouble and the slow role of the pawns that Black has been pushing up the queenside will start to tell.
+61,dxc4,d3c4,r5k1/8/5nq1/pp2p3/2PpP1bQ/1P3r2/P1P5/1KB3R1 b - - 0 31,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+62,bxc4,b5c4,r5k1/8/5nq1/p3p3/2ppP1bQ/1P3r2/P1P5/1KB3R1 w - - 0 32,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+63,Rh1,g1h1,r5k1/8/5nq1/p3p3/2ppP1bQ/1P3r2/P1P5/1KB4R b - - 1 32,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+64,Kf7,g8f7,r7/5k2/5nq1/p3p3/2ppP1bQ/1P3r2/P1P5/1KB4R w - - 2 33,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+65,Qe1,h4e1,r7/5k2/5nq1/p3p3/2ppP1b1/1P3r2/P1P5/1KB1Q2R b - - 3 33,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+66,cxb3,c4b3,r7/5k2/5nq1/p3p3/3pP1b1/1p3r2/P1P5/1KB1Q2R w - - 0 34,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+67,cxb3,c2b3,r7/5k2/5nq1/p3p3/3pP1b1/1P3r2/P7/1KB1Q2R b - - 0 34,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+68,Qxe4+,g6e4,r7/5k2/5n2/p3p3/3pq1b1/1P3r2/P7/1KB1Q2R w - - 0 35,"Force the trade of queens and I see a mate involving moving the rook to f2, check on c3 with the knight, then mate on a2."
+69,Qxe4,e1e4,r7/5k2/5n2/p3p3/3pQ1b1/1P3r2/P7/1KB4R b - - 0 35,Some spite checks from the rook and now black has time to set up the mate.
+70,Nxe4,f6e4,r7/5k2/8/p3p3/3pn1b1/1P3r2/P7/1KB4R w - - 0 36,Some spite checks from the rook and now black has time to set up the mate.
+71,Rh7+,h1h7,r7/5k1R/8/p3p3/3pn1b1/1P3r2/P7/1KB5 b - - 1 36,Some spite checks from the rook and now black has time to set up the mate.
+72,Kg6,f7g6,r7/7R/6k1/p3p3/3pn1b1/1P3r2/P7/1KB5 w - - 2 37,Some spite checks from the rook and now black has time to set up the mate.
+73,Rh6+,h7h6,r7/8/6kR/p3p3/3pn1b1/1P3r2/P7/1KB5 b - - 3 37,Some spite checks from the rook and now black has time to set up the mate.
+74,Kf5,g6f5,r7/8/7R/p3pk2/3pn1b1/1P3r2/P7/1KB5 w - - 4 38,Some spite checks from the rook and now black has time to set up the mate.
+75,a4,a2a4,r7/8/7R/p3pk2/P2pn1b1/1P3r2/8/1KB5 b - - 0 38,Some spite checks from the rook and now black has time to set up the mate.
+76,Rf2,f3f2,r7/8/7R/p3pk2/P2pn1b1/1P6/5r2/1KB5 w - - 1 39,Some spite checks from the rook and now black has time to set up the mate.
+77,Rh1,h6h1,r7/8/8/p3pk2/P2pn1b1/1P6/5r2/1KB4R b - - 2 39,
+78,Nc3+,e4c3,r7/8/8/p3pk2/P2p2b1/1Pn5/5r2/1KB4R w - - 3 40,
+79,Ka1,b1a1,r7/8/8/p3pk2/P2p2b1/1Pn5/5r2/K1B4R b - - 4 40,
+80,Ra2#,f2a2,r7/8/8/p3pk2/P2p2b1/1Pn5/r7/K1B4R w - - 5 41,

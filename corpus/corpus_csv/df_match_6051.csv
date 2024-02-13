@@ -1,0 +1,88 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"in this game, white went into a won endgame, but played a huge blunder in the very end.  But black resigned before trying to play out the position. This mistake was probably made by a miscalculation, as you will see."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this is the so called 4 knights scotch.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,this is the so called 4 knights scotch.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,this is the so called 4 knights scotch.
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,this is the so called 4 knights scotch.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,this is the so called 4 knights scotch.
+7,d4,d2d4,r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,this is the so called 4 knights scotch.
+8,Bb4,f8b4,r1bqk2r/pppp1ppp/2n2n2/4p3/1b1PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 5,"I do not know any theory on this opening, but this defense seems reasonable. White has no way to make any material gains."
+9,Nxe5,f3e5,r1bqk2r/pppp1ppp/2n2n2/4N3/1b1PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,acceptable.
+10,Nxe5,c6e5,r1bqk2r/pppp1ppp/5n2/4n3/1b1PP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"I consider that this is a mistake. The better move was probably 6.Nxe4, but here white still wins the majority of games."
+11,dxe5,d4e5,r1bqk2r/pppp1ppp/5n2/4P3/1b2P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6,"now black's position is much worse. The black knight has only 1 safe retreat, and that is back to g8. Black is forced to play 6...Nxe4 as the game went, or 6...Bxc3+ 7.bxc3 Nxe4 8.Qg4! winning material(8...Nxc3 9.Qc4)."
+12,Nxe4,f6e4,r1bqk2r/pppp1ppp/8/4P3/1b2n3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7,(!) this tricky move is best. Black has no way to prevent material losses. This transposes into the previous line I mentioned.
+13,Qg4,d1g4,r1bqk2r/pppp1ppp/8/4P3/1b2n1Q1/2N5/PPP2PPP/R1B1KB1R b KQkq - 1 7,(!) this tricky move is best. Black has no way to prevent material losses. This transposes into the previous line I mentioned.
+14,d5,d7d5,r1bqk2r/ppp2ppp/8/3pP3/1b2n1Q1/2N5/PPP2PPP/R1B1KB1R w KQkq d6 0 8,"an interesting choice. I cannot analyze all the lines, but this looks safe."
+15,Qxg7,g4g7,r1bqk2r/ppp2pQp/8/3pP3/1b2n3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 8,"an interesting choice. I cannot analyze all the lines, but this looks safe."
+16,Rf8,h8f8,r1bqkr2/ppp2pQp/8/3pP3/1b2n3/2N5/PPP2PPP/R1B1KB1R w KQq - 1 9,"an interesting choice. I cannot analyze all the lines, but this looks safe."
+17,a3,a2a3,r1bqkr2/ppp2pQp/8/3pP3/1b2n3/P1N5/1PP2PPP/R1B1KB1R b KQq - 0 9,"an interesting choice. I cannot analyze all the lines, but this looks safe."
+18,Bxc3+,b4c3,r1bqkr2/ppp2pQp/8/3pP3/4n3/P1b5/1PP2PPP/R1B1KB1R w KQq - 0 10,"after this move, white wins decisive material."
+19,bxc3,b2c3,r1bqkr2/ppp2pQp/8/3pP3/4n3/P1P5/2P2PPP/R1B1KB1R b KQq - 0 10,"after this move, white wins decisive material."
+20,c6,c7c6,r1bqkr2/pp3pQp/2p5/3pP3/4n3/P1P5/2P2PPP/R1B1KB1R w KQq - 0 11,"after this move, white wins decisive material."
+21,Bh6,c1h6,r1bqkr2/pp3pQp/2p4B/3pP3/4n3/P1P5/2P2PPP/R3KB1R b KQq - 1 11,the winning move.
+22,Qe7,d8e7,r1b1kr2/pp2qpQp/2p4B/3pP3/4n3/P1P5/2P2PPP/R3KB1R w KQq - 2 12,this loses the exchange. White simply plays 12.Qxf8+ Qxf8 13.Bxf8 Kxf8
+23,Bd3,f1d3,r1b1kr2/pp2qpQp/2p4B/3pP3/4n3/P1PB4/2P2PPP/R3K2R b KQq - 3 12,"acceptable, as the rook is not going anywhere soon."
+24,Bf5,c8f5,r3kr2/pp2qpQp/2p4B/3pPb2/4n3/P1PB4/2P2PPP/R3K2R w KQq - 4 13,white already has a decisive material advantage. He now uses the pin on the knight to win more material.
+25,Qxf8+,g7f8,r3kQ2/pp2qp1p/2p4B/3pPb2/4n3/P1PB4/2P2PPP/R3K2R b KQq - 0 13,white already has a decisive material advantage. He now uses the pin on the knight to win more material.
+26,Qxf8,e7f8,r3kq2/pp3p1p/2p4B/3pPb2/4n3/P1PB4/2P2PPP/R3K2R w KQq - 0 14,white already has a decisive material advantage. He now uses the pin on the knight to win more material.
+27,Bxf8,h6f8,r3kB2/pp3p1p/2p5/3pPb2/4n3/P1PB4/2P2PPP/R3K2R b KQq - 0 14,white already has a decisive material advantage. He now uses the pin on the knight to win more material.
+28,Kxf8,e8f8,r4k2/pp3p1p/2p5/3pPb2/4n3/P1PB4/2P2PPP/R3K2R w KQ - 0 15,white already has a decisive material advantage. He now uses the pin on the knight to win more material.
+29,f3,f2f3,r4k2/pp3p1p/2p5/3pPb2/4n3/P1PB1P2/2P3PP/R3K2R b KQ - 0 15,"black's position is hopeless here, as he is a full rook down."
+30,Re8,a8e8,4rk2/pp3p1p/2p5/3pPb2/4n3/P1PB1P2/2P3PP/R3K2R w KQ - 1 16,"black's position is hopeless here, as he is a full rook down."
+31,fxe4,f3e4,4rk2/pp3p1p/2p5/3pPb2/4P3/P1PB4/2P3PP/R3K2R b KQ - 0 16,"black's position is hopeless here, as he is a full rook down."
+32,Rxe5,e8e5,5k2/pp3p1p/2p5/3prb2/4P3/P1PB4/2P3PP/R3K2R w KQ - 0 17,"black's position is hopeless here, as he is a full rook down."
+33,O-O,e1g1,5k2/pp3p1p/2p5/3prb2/4P3/P1PB4/2P3PP/R4RK1 b - - 1 17,"great use of transformation of advantages. White completely clears the smoke from the board and still maintains his huge material advantages. @nuntar: It is probably better to keep more material, but I just like crystal clear positions."
+34,dxe4,d5e4,5k2/pp3p1p/2p5/4rb2/4p3/P1PB4/2P3PP/R4RK1 w - - 0 18,"great use of transformation of advantages. White completely clears the smoke from the board and still maintains his huge material advantages. @nuntar: It is probably better to keep more material, but I just like crystal clear positions."
+35,Rxf5,f1f5,5k2/pp3p1p/2p5/4rR2/4p3/P1PB4/2P3PP/R5K1 b - - 0 18,"great use of transformation of advantages. White completely clears the smoke from the board and still maintains his huge material advantages. @nuntar: It is probably better to keep more material, but I just like crystal clear positions."
+36,Rxf5,e5f5,5k2/pp3p1p/2p5/5r2/4p3/P1PB4/2P3PP/R5K1 w - - 0 19,"great use of transformation of advantages. White completely clears the smoke from the board and still maintains his huge material advantages. @nuntar: It is probably better to keep more material, but I just like crystal clear positions."
+37,Bxe4,d3e4,5k2/pp3p1p/2p5/5r2/4B3/P1P5/2P3PP/R5K1 b - - 0 19,"great use of transformation of advantages. White completely clears the smoke from the board and still maintains his huge material advantages. @nuntar: It is probably better to keep more material, but I just like crystal clear positions."
+38,Rc5,f5c5,5k2/pp3p1p/2p5/2r5/4B3/P1P5/2P3PP/R5K1 w - - 1 20,"black is trying to generate counterplay, but white should still win."
+39,Bxh7,e4h7,5k2/pp3p1B/2p5/2r5/8/P1P5/2P3PP/R5K1 b - - 0 20,"black is trying to generate counterplay, but white should still win."
+40,Rxc3,c5c3,5k2/pp3p1B/2p5/8/8/P1r5/2P3PP/R5K1 w - - 0 21,"black is trying to generate counterplay, but white should still win."
+41,Bd3,h7d3,5k2/pp3p2/2p5/8/8/P1rB4/2P3PP/R5K1 b - - 1 21,"black is trying to generate counterplay, but white should still win."
+42,c5,c6c5,5k2/pp3p2/8/2p5/8/P1rB4/2P3PP/R5K1 w - - 0 22,"black is trying to generate counterplay, but white should still win."
+43,Kf2,g1f2,5k2/pp3p2/8/2p5/8/P1rB4/2P2KPP/R7 b - - 1 22,"black is trying to generate counterplay, but white should still win."
+44,c4,c5c4,5k2/pp3p2/8/8/2p5/P1rB4/2P2KPP/R7 w - - 0 23,"black is trying to generate counterplay, but white should still win."
+45,Be4,d3e4,5k2/pp3p2/8/8/2p1B3/P1r5/2P2KPP/R7 b - - 1 23,"black is trying to generate counterplay, but white should still win."
+46,b5,b7b5,5k2/p4p2/8/1p6/2p1B3/P1r5/2P2KPP/R7 w - - 0 24,"black is trying to generate counterplay, but white should still win."
+47,Rb1,a1b1,5k2/p4p2/8/1p6/2p1B3/P1r5/2P2KPP/1R6 b - - 1 24,"black is trying to generate counterplay, but white should still win."
+48,a6,a7a6,5k2/5p2/p7/1p6/2p1B3/P1r5/2P2KPP/1R6 w - - 0 25,"black is trying to generate counterplay, but white should still win."
+49,h4,h2h4,5k2/5p2/p7/1p6/2p1B2P/P1r5/2P2KP1/1R6 b - - 0 25,"black is trying to generate counterplay, but white should still win."
+50,Rxa3,c3a3,5k2/5p2/p7/1p6/2p1B2P/r7/2P2KP1/1R6 w - - 0 26,"black is trying to generate counterplay, but white should still win."
+51,h5,h4h5,5k2/5p2/p7/1p5P/2p1B3/r7/2P2KP1/1R6 b - - 0 26,"black is trying to generate counterplay, but white should still win."
+52,Kg7,f8g7,8/5pk1/p7/1p5P/2p1B3/r7/2P2KP1/1R6 w - - 1 27,"black is trying to generate counterplay, but white should still win."
+53,g4,g2g4,8/5pk1/p7/1p5P/2p1B1P1/r7/2P2K2/1R6 b - - 0 27,"black is trying to generate counterplay, but white should still win."
+54,Kh6,g7h6,8/5p2/p6k/1p5P/2p1B1P1/r7/2P2K2/1R6 w - - 1 28,"black is trying to generate counterplay, but white should still win."
+55,Ke2,f2e2,8/5p2/p6k/1p5P/2p1B1P1/r7/2P1K3/1R6 b - - 2 28,"black is trying to generate counterplay, but white should still win."
+56,Rh3,a3h3,8/5p2/p6k/1p5P/2p1B1P1/7r/2P1K3/1R6 w - - 3 29,"black is trying to generate counterplay, but white should still win."
+57,Rf1,b1f1,8/5p2/p6k/1p5P/2p1B1P1/7r/2P1K3/5R2 b - - 4 29,"black is trying to generate counterplay, but white should still win."
+58,Rh4,h3h4,8/5p2/p6k/1p5P/2p1B1Pr/8/2P1K3/5R2 w - - 5 30,"black is trying to generate counterplay, but white should still win."
+59,Bf5,e4f5,8/5p2/p6k/1p3B1P/2p3Pr/8/2P1K3/5R2 b - - 6 30,"black is trying to generate counterplay, but white should still win."
+60,b4,b5b4,8/5p2/p6k/5B1P/1pp3Pr/8/2P1K3/5R2 w - - 0 31,"black is trying to generate counterplay, but white should still win."
+61,Rb1,f1b1,8/5p2/p6k/5B1P/1pp3Pr/8/2P1K3/1R6 b - - 1 31,"black is trying to generate counterplay, but white should still win."
+62,a5,a6a5,8/5p2/7k/p4B1P/1pp3Pr/8/2P1K3/1R6 w - - 0 32,"black is trying to generate counterplay, but white should still win."
+63,Kd2,e2d2,8/5p2/7k/p4B1P/1pp3Pr/8/2PK4/1R6 b - - 1 32,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+64,Rh2+,h4h2,8/5p2/7k/p4B1P/1pp3P1/8/2PK3r/1R6 w - - 2 33,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+65,Ke3,d2e3,8/5p2/7k/p4B1P/1pp3P1/4K3/2P4r/1R6 b - - 3 33,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+66,Rh3+,h2h3,8/5p2/7k/p4B1P/1pp3P1/4K2r/2P5/1R6 w - - 4 34,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+67,Kd4,e3d4,8/5p2/7k/p4B1P/1ppK2P1/7r/2P5/1R6 b - - 5 34,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+68,Rc3,h3c3,8/5p2/7k/p4B1P/1ppK2P1/2r5/2P5/1R6 w - - 6 35,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+69,Ke5,d4e5,8/5p2/7k/p3KB1P/1pp3P1/2r5/2P5/1R6 b - - 7 35,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+70,b3,b4b3,8/5p2/7k/p3KB1P/2p3P1/1pr5/2P5/1R6 w - - 0 36,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+71,cxb3,c2b3,8/5p2/7k/p3KB1P/2p3P1/1Pr5/8/1R6 b - - 0 36,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+72,cxb3,c4b3,8/5p2/7k/p3KB1P/6P1/1pr5/8/1R6 w - - 0 37,generating counterplay. Black has 2 passed pawns down the queen side. Now white must really carefully.
+73,Ra1,b1a1,8/5p2/7k/p3KB1P/6P1/1pr5/8/R7 b - - 1 37,threatening mate.
+74,Rc5+,c3c5,8/5p2/7k/p1r1KB1P/6P1/1p6/8/R7 w - - 2 38,threatening mate.
+75,Kf6,e5f6,8/5p2/5K1k/p1r2B1P/6P1/1p6/8/R7 b - - 3 38,threatening mate.
+76,b2,b3b2,8/5p2/5K1k/p1r2B1P/6P1/8/1p6/R7 w - - 0 39,threatening mate.
+77,Re1,a1e1,8/5p2/5K1k/p1r2B1P/6P1/8/1p6/4R3 b - - 1 39,threatening mate.
+78,Rc1,c5c1,8/5p2/5K1k/p4B1P/6P1/8/1p6/2r1R3 w - - 2 40,threatening mate.
+79,Re8,e1e8,4R3/5p2/5K1k/p4B1P/6P1/8/1p6/2r5 b - - 3 40,threatening mate.
+80,Rc6+,c1c6,4R3/5p2/2r2K1k/p4B1P/6P1/8/1p6/8 w - - 4 41,transforming advantages again. The endgame is easily won for white.
+81,Kxf7,f6f7,4R3/5K2/2r4k/p4B1P/6P1/8/1p6/8 b - - 0 41,transforming advantages again. The endgame is easily won for white.
+82,a4,a5a4,4R3/5K2/2r4k/5B1P/p5P1/8/1p6/8 w - - 0 42,transforming advantages again. The endgame is easily won for white.
+83,Re6+,e8e6,8/5K2/2r1R2k/5B1P/p5P1/8/1p6/8 b - - 1 42,transforming advantages again. The endgame is easily won for white.
+84,Rxe6,c6e6,8/5K2/4r2k/5B1P/p5P1/8/1p6/8 w - - 0 43,now the 2 black pawns are blockaded. The safest strategy is to directly march his king to the black pawns and win them. Both of white's pawn are indirectly defended(thanks nuntar).
+85,Kxe6,f7e6,8/8/4K2k/5B1P/p5P1/8/1p6/8 b - - 0 43,now the 2 black pawns are blockaded. The safest strategy is to directly march his king to the black pawns and win them. Both of white's pawn are indirectly defended(thanks nuntar).
+86,a3,a4a3,8/8/4K2k/5B1P/6P1/p7/1p6/8 w - - 0 44,now the 2 black pawns are blockaded. The safest strategy is to directly march his king to the black pawns and win them. Both of white's pawn are indirectly defended(thanks nuntar).
+87,Bb1,f5b1,8/8/4K2k/7P/6P1/p7/1p6/1B6 b - - 1 44,now the 2 black pawns are blockaded. The safest strategy is to directly march his king to the black pawns and win them. Both of white's pawn are indirectly defended(thanks nuntar).

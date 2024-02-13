@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Philidor's Defence, which I consider to be weak"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Philidor's Defence, which I consider to be weak"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Philidor's Defence, which I consider to be weak"
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Philidor's Defence, which I consider to be weak"
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Black is playing ""safe"" but this is too slow."
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Black is playing ""safe"" but this is too slow."
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Black is playing ""safe"" but this is too slow."
+8,c6,c7c6,rnbqkbnr/pp3ppp/2pp4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,"Black is playing ""safe"" but this is too slow."
+9,c4,c2c4,rnbqkbnr/pp3ppp/2pp4/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq - 0 5,"Black is playing ""safe"" but this is too slow."
+10,h6,h7h6,rnbqkbnr/pp3pp1/2pp3p/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 0 6,"Black is playing ""safe"" but this is too slow."
+11,Nc3,b1c3,rnbqkbnr/pp3pp1/2pp3p/8/2PNP3/2N5/PP3PPP/R1BQKB1R b KQkq - 1 6,Black develops a knight to the rim.
+12,Na6,b8a6,r1bqkbnr/pp3pp1/n1pp3p/8/2PNP3/2N5/PP3PPP/R1BQKB1R w KQkq - 2 7,Black develops a knight to the rim.
+13,g3,g2g3,r1bqkbnr/pp3pp1/n1pp3p/8/2PNP3/2N3P1/PP3P1P/R1BQKB1R b KQkq - 0 7,That square was for Black's g8 Knight.
+14,Qf6,d8f6,r1b1kbnr/pp3pp1/n1pp1q1p/8/2PNP3/2N3P1/PP3P1P/R1BQKB1R w KQkq - 1 8,That square was for Black's g8 Knight.
+15,Bg2,f1g2,r1b1kbnr/pp3pp1/n1pp1q1p/8/2PNP3/2N3P1/PP3PBP/R1BQK2R b KQkq - 2 8,Moving his queen twice for some flawed plan.
+16,Qg6,f6g6,r1b1kbnr/pp3pp1/n1pp2qp/8/2PNP3/2N3P1/PP3PBP/R1BQK2R w KQkq - 3 9,Moving his queen twice for some flawed plan.
+17,O-O,e1g1,r1b1kbnr/pp3pp1/n1pp2qp/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 b kq - 4 9,Black wastes 3 tempi just for this.
+18,Bg4,c8g4,r3kbnr/pp3pp1/n1pp2qp/8/2PNP1b1/2N3P1/PP3PBP/R1BQ1RK1 w kq - 5 10,Black wastes 3 tempi just for this.
+19,f3,f2f3,r3kbnr/pp3pp1/n1pp2qp/8/2PNP1b1/2N2PP1/PP4BP/R1BQ1RK1 b kq - 0 10,Black wastes 3 tempi just for this.
+20,Be6,g4e6,r3kbnr/pp3pp1/n1ppb1qp/8/2PNP3/2N2PP1/PP4BP/R1BQ1RK1 w kq - 1 11,Castling into it
+21,b3,b2b3,r3kbnr/pp3pp1/n1ppb1qp/8/2PNP3/1PN2PP1/P5BP/R1BQ1RK1 b kq - 0 11,Castling into it
+22,O-O-O,e8c8,2kr1bnr/pp3pp1/n1ppb1qp/8/2PNP3/1PN2PP1/P5BP/R1BQ1RK1 w - - 1 12,Castling into it
+23,Be3,c1e3,2kr1bnr/pp3pp1/n1ppb1qp/8/2PNP3/1PN1BPP1/P5BP/R2Q1RK1 b - - 2 12,"Here, White could play Nxe6 followed by Bxa7 because if ... b6, Then Qa4 and Black's king is in trouble."
+24,Nc5,a6c5,2kr1bnr/pp3pp1/2ppb1qp/2n5/2PNP3/1PN1BPP1/P5BP/R2Q1RK1 w - - 3 13,"Here, White could play Nxe6 followed by Bxa7 because if ... b6, Then Qa4 and Black's king is in trouble."
+25,b4,b3b4,2kr1bnr/pp3pp1/2ppb1qp/2n5/1PPNP3/2N1BPP1/P5BP/R2Q1RK1 b - - 0 13,"Here, White could play Nxe6 followed by Bxa7 because if ... b6, Then Qa4 and Black's king is in trouble."
+26,Nd7,c5d7,2kr1bnr/pp1n1pp1/2ppb1qp/8/1PPNP3/2N1BPP1/P5BP/R2Q1RK1 w - - 1 14,"Here, White could play Nxe6 followed by Bxa7 because if ... b6, Then Qa4 and Black's king is in trouble."
+27,Nxe6,d4e6,2kr1bnr/pp1n1pp1/2ppN1qp/8/1PP1P3/2N1BPP1/P5BP/R2Q1RK1 b - - 0 14,Black has only developed his Queen and will now be overrun.
+28,Qxe6,g6e6,2kr1bnr/pp1n1pp1/2ppq2p/8/1PP1P3/2N1BPP1/P5BP/R2Q1RK1 w - - 0 15,Black has only developed his Queen and will now be overrun.
+29,Qb3,d1b3,2kr1bnr/pp1n1pp1/2ppq2p/8/1PP1P3/1QN1BPP1/P5BP/R4RK1 b - - 1 15,Black has only developed his Queen and will now be overrun.
+30,b6,b7b6,2kr1bnr/p2n1pp1/1pppq2p/8/1PP1P3/1QN1BPP1/P5BP/R4RK1 w - - 0 16,Black has only developed his Queen and will now be overrun.
+31,a4,a2a4,2kr1bnr/p2n1pp1/1pppq2p/8/PPP1P3/1QN1BPP1/6BP/R4RK1 b - - 0 16,Black has only developed his Queen and will now be overrun.
+32,Nb8,d7b8,1nkr1bnr/p4pp1/1pppq2p/8/PPP1P3/1QN1BPP1/6BP/R4RK1 w - - 1 17,Black has only developed his Queen and will now be overrun.
+33,a5,a4a5,1nkr1bnr/p4pp1/1pppq2p/P7/1PP1P3/1QN1BPP1/6BP/R4RK1 b - - 0 17,Black has only developed his Queen and will now be overrun.
+34,Nd7,b8d7,2kr1bnr/p2n1pp1/1pppq2p/P7/1PP1P3/1QN1BPP1/6BP/R4RK1 w - - 1 18,"Closing the position, but resistance is futile."
+35,axb6,a5b6,2kr1bnr/p2n1pp1/1Pppq2p/8/1PP1P3/1QN1BPP1/6BP/R4RK1 b - - 0 18,"Closing the position, but resistance is futile."
+36,axb6,a7b6,2kr1bnr/3n1pp1/1pppq2p/8/1PP1P3/1QN1BPP1/6BP/R4RK1 w - - 0 19,"Closing the position, but resistance is futile."
+37,Ra6,a1a6,2kr1bnr/3n1pp1/Rpppq2p/8/1PP1P3/1QN1BPP1/6BP/5RK1 b - - 1 19,"Closing the position, but resistance is futile."
+38,Kc7,c8c7,3r1bnr/2kn1pp1/Rpppq2p/8/1PP1P3/1QN1BPP1/6BP/5RK1 w - - 2 20,"Closing the position, but resistance is futile."
+39,Rfa1,f1a1,3r1bnr/2kn1pp1/Rpppq2p/8/1PP1P3/1QN1BPP1/6BP/R5K1 b - - 3 20,"Closing the position, but resistance is futile."
+40,Rb8,d8b8,1r3bnr/2kn1pp1/Rpppq2p/8/1PP1P3/1QN1BPP1/6BP/R5K1 w - - 4 21,"Closing the position, but resistance is futile."
+41,b5,b4b5,1r3bnr/2kn1pp1/Rpppq2p/1P6/2P1P3/1QN1BPP1/6BP/R5K1 b - - 0 21,"Closing the position, but resistance is futile."
+42,c5,c6c5,1r3bnr/2kn1pp1/Rp1pq2p/1Pp5/2P1P3/1QN1BPP1/6BP/R5K1 w - - 0 22,"Closing the position, but resistance is futile."
+43,Nd5+,c3d5,1r3bnr/2kn1pp1/Rp1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 b - - 1 22,"A rook on the seventh rank always wins, they say."
+44,Kd8,c7d8,1r1k1bnr/3n1pp1/Rp1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 w - - 2 23,"A rook on the seventh rank always wins, they say."
+45,Ra6a8,a6a8,Rr1k1bnr/3n1pp1/1p1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 b - - 3 23,"A rook on the seventh rank always wins, they say."
+46,Ne7,g8e7,Rr1k1b1r/3nnpp1/1p1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 w - - 4 24,"A rook on the seventh rank always wins, they say."
+47,Rxb8+,a8b8,1R1k1b1r/3nnpp1/1p1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 b - - 0 24,"A rook on the seventh rank always wins, they say."
+48,Nxb8,d7b8,1n1k1b1r/4npp1/1p1pq2p/1PpN4/2P1P3/1Q2BPP1/6BP/R5K1 w - - 0 25,"A rook on the seventh rank always wins, they say."
+49,Nxb6,d5b6,1n1k1b1r/4npp1/1N1pq2p/1Pp5/2P1P3/1Q2BPP1/6BP/R5K1 b - - 0 25,"A rook on the seventh rank always wins, they say."
+50,Nc8,e7c8,1nnk1b1r/5pp1/1N1pq2p/1Pp5/2P1P3/1Q2BPP1/6BP/R5K1 w - - 1 26,"A rook on the seventh rank always wins, they say."
+51,Nxc8,b6c8,1nNk1b1r/5pp1/3pq2p/1Pp5/2P1P3/1Q2BPP1/6BP/R5K1 b - - 0 26,"A rook on the seventh rank always wins, they say."
+52,Qxc8,e6c8,1nqk1b1r/5pp1/3p3p/1Pp5/2P1P3/1Q2BPP1/6BP/R5K1 w - - 0 27,"A rook on the seventh rank always wins, they say."
+53,Ra7,a1a7,1nqk1b1r/R4pp1/3p3p/1Pp5/2P1P3/1Q2BPP1/6BP/6K1 b - - 1 27,"A rook on the seventh rank always wins, they say."
+54,Be7,f8e7,1nqk3r/R3bpp1/3p3p/1Pp5/2P1P3/1Q2BPP1/6BP/6K1 w - - 2 28,Black can play ... g5 here
+55,Bf4,e3f4,1nqk3r/R3bpp1/3p3p/1Pp5/2P1PB2/1Q3PP1/6BP/6K1 b - - 3 28,Black can play ... g5 here
+56,f6,f7f6,1nqk3r/R3b1p1/3p1p1p/1Pp5/2P1PB2/1Q3PP1/6BP/6K1 w - - 0 29,Threatening Nb6
+57,Qa4,b3a4,1nqk3r/R3b1p1/3p1p1p/1Pp5/Q1P1PB2/5PP1/6BP/6K1 b - - 1 29,Threatening Nb6
+58,Nd7,b8d7,2qk3r/R2nb1p1/3p1p1p/1Pp5/Q1P1PB2/5PP1/6BP/6K1 w - - 2 30,Threatening Nb6
+59,Qa5+,a4a5,2qk3r/R2nb1p1/3p1p1p/QPp5/2P1PB2/5PP1/6BP/6K1 b - - 3 30,Black is lost.
+60,Ke8,d8e8,2q1k2r/R2nb1p1/3p1p1p/QPp5/2P1PB2/5PP1/6BP/6K1 w - - 4 31,Black is lost.
+61,Bh3,g2h3,2q1k2r/R2nb1p1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 b - - 5 31,Black is lost.
+62,Kf7,e8f7,2q4r/R2nbkp1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 w - - 6 32,"Here Black ran out of time, but it's a clear win for White."
+63,Rxd7,a7d7,2q4r/3Rbkp1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 b - - 0 32,"Here Black ran out of time, but it's a clear win for White."
+64,Rd8,h8d8,2qr4/3Rbkp1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 w - - 1 33,"Here Black ran out of time, but it's a clear win for White."
+65,Rxe7+,d7e7,2qr4/4Rkp1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 b - - 0 33,"Here Black ran out of time, but it's a clear win for White."
+66,Kxe7,f7e7,2qr4/4k1p1/3p1p1p/QPp5/2P1PB2/5PPB/7P/6K1 w - - 0 34,"Here Black ran out of time, but it's a clear win for White."
+67,Bxc8,h3c8,2Br4/4k1p1/3p1p1p/QPp5/2P1PB2/5PP1/7P/6K1 b - - 0 34,"Here Black ran out of time, but it's a clear win for White."
+68,Rxc8,d8c8,2r5/4k1p1/3p1p1p/QPp5/2P1PB2/5PP1/7P/6K1 w - - 0 35,"Here Black ran out of time, but it's a clear win for White."
+69,b6,b5b6,2r5/4k1p1/1P1p1p1p/Q1p5/2P1PB2/5PP1/7P/6K1 b - - 0 35,"Here Black ran out of time, but it's a clear win for White."
+70,Rb8,c8b8,1r6/4k1p1/1P1p1p1p/Q1p5/2P1PB2/5PP1/7P/6K1 w - - 1 36,"Here Black ran out of time, but it's a clear win for White."
+71,Qa7+,a5a7,1r6/Q3k1p1/1P1p1p1p/2p5/2P1PB2/5PP1/7P/6K1 b - - 2 36,"Here Black ran out of time, but it's a clear win for White."

@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King gambit is always interesting. You think I'd learn by now that d5 is a little easier to play with than the firey continuation of g5.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King gambit is always interesting. You think I'd learn by now that d5 is a little easier to play with than the firey continuation of g5.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,King gambit is always interesting. You think I'd learn by now that d5 is a little easier to play with than the firey continuation of g5.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Too aggressive? Maybe. Which color are we talking about?
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Too aggressive? Maybe. Which color are we talking about?
+6,g5,g7g5,rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,Too aggressive? Maybe. Which color are we talking about?
+7,h4,h2h4,rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 4,Too aggressive? Maybe. Which color are we talking about?
+8,g4,g5g4,rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5,Too aggressive? Maybe. Which color are we talking about?
+9,Ng5,f3g5,rnbqkbnr/pppp1p1p/8/6N1/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 1 5,Too aggressive? Maybe. Which color are we talking about?
+10,h6,h7h6,rnbqkbnr/pppp1p2/7p/6N1/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 0 6,Too aggressive? Maybe. Which color are we talking about?
+11,Nxf7,g5f7,rnbqkbnr/pppp1N2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 0 6,Necessary to keep the queen from capturing g4.
+12,Kxf7,e8f7,rnbq1bnr/pppp1k2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R w KQ - 0 7,Necessary to keep the queen from capturing g4.
+13,Bc4+,f1c4,rnbq1bnr/pppp1k2/7p/8/2B1PppP/8/PPPP2P1/RNBQK2R b KQ - 1 7,Necessary to keep the queen from capturing g4.
+14,d5,d7d5,rnbq1bnr/ppp2k2/7p/3p4/2B1PppP/8/PPPP2P1/RNBQK2R w KQ - 0 8,Necessary to keep the queen from capturing g4.
+15,Bxd5+,c4d5,rnbq1bnr/ppp2k2/7p/3B4/4PppP/8/PPPP2P1/RNBQK2R b KQ - 0 8,"So far I am up a knight for a pawn but at what cost? Seriously, is it even possible to calculate? The f pawn looks like it will drop, I can't castle and none of my pieces are out. Although I am not sure how accurately white plays after this, I think this game could have easily gone either way."
+16,Ke8,f7e8,rnbqkbnr/ppp5/7p/3B4/4PppP/8/PPPP2P1/RNBQK2R w KQ - 1 9,"So far I am up a knight for a pawn but at what cost? Seriously, is it even possible to calculate? The f pawn looks like it will drop, I can't castle and none of my pieces are out. Although I am not sure how accurately white plays after this, I think this game could have easily gone either way."
+17,c4,c2c4,rnbqkbnr/ppp5/7p/3B4/2P1PppP/8/PP1P2P1/RNBQK2R b KQ - 0 9,"So far I am up a knight for a pawn but at what cost? Seriously, is it even possible to calculate? The f pawn looks like it will drop, I can't castle and none of my pieces are out. Although I am not sure how accurately white plays after this, I think this game could have easily gone either way."
+18,c6,c7c6,rnbqkbnr/pp6/2p4p/3B4/2P1PppP/8/PP1P2P1/RNBQK2R w KQ - 0 10,Forcing the trade.
+19,Bxg8,d5g8,rnbqkbBr/pp6/2p4p/8/2P1PppP/8/PP1P2P1/RNBQK2R b KQ - 0 10,The only way to not lose material
+20,Rxg8,h8g8,rnbqkbr1/pp6/2p4p/8/2P1PppP/8/PP1P2P1/RNBQK2R w KQ - 0 11,Threatening f4.
+21,d4,d2d4,rnbqkbr1/pp6/2p4p/8/2PPPppP/8/PP4P1/RNBQK2R b KQ - 0 11,Threatening f4.
+22,c5,c6c5,rnbqkbr1/pp6/7p/2p5/2PPPppP/8/PP4P1/RNBQK2R w KQ - 0 12,If I can trade queens I will be okay. Maybe. Neither of us have really developed so predicting how the game will go is very difficult.
+23,O-O,e1g1,rnbqkbr1/pp6/7p/2p5/2PPPppP/8/PP4P1/RNBQ1RK1 b - - 1 12,"? This invites Qxd4+ trading queens for the f pawn. Although white has counterplay, it does put a damper on his initiative for the knight."
+24,f3,f4f3,rnbqkbr1/pp6/7p/2p5/2PPP1pP/5p2/PP4P1/RNBQ1RK1 w - - 0 13,"The pawn is poisoned. Can you see how? Note, I still have no pieces out."
+25,gxf3,g2f3,rnbqkbr1/pp6/7p/2p5/2PPP1pP/5P2/PP6/RNBQ1RK1 b - - 0 13,?? this loses quickly.
+26,gxf3+,g4f3,rnbqkbr1/pp6/7p/2p5/2PPP2P/5p2/PP6/RNBQ1RK1 w - - 0 14,If Kh1/Kh2 then Qxh4#
+27,Kf2,g1f2,rnbqkbr1/pp6/7p/2p5/2PPP2P/5p2/PP3K2/RNBQ1R2 b - - 1 14,If Kh1/Kh2 then Qxh4#
+28,Qxh4+,d8h4,rnb1kbr1/pp6/7p/2p5/2PPP2q/5p2/PP3K2/RNBQ1R2 w - - 0 15,?? Bxd1 wins quickest although it loses the initiative.
+29,Kxf3,f2f3,rnb1kbr1/pp6/7p/2p5/2PPP2q/5K2/PP6/RNBQ1R2 b - - 0 15,?? Bxd1 wins quickest although it loses the initiative.
+30,Bg4+,c8g4,rn2kbr1/pp6/7p/2p5/2PPP1bq/5K2/PP6/RNBQ1R2 w - - 1 16,?? Bxd1 wins quickest although it loses the initiative.
+31,Ke3,f3e3,rn2kbr1/pp6/7p/2p5/2PPP1bq/4K3/PP6/RNBQ1R2 b - - 2 16,?? Bxd1 wins quickest although it loses the initiative.
+32,cxd4+,c5d4,rn2kbr1/pp6/7p/8/2PpP1bq/4K3/PP6/RNBQ1R2 w - - 0 17,?? Bxd1 wins quickest although it loses the initiative.
+33,Qxd4,d1d4,rn2kbr1/pp6/7p/8/2PQP1bq/4K3/PP6/RNB2R2 b - - 0 17,e5 needs to be defended and Qg3+ does not seem to quite do the trick yet as there is no Rd8.
+34,Nc6,b8c6,r3kbr1/pp6/2n4p/8/2PQP1bq/4K3/PP6/RNB2R2 w - - 1 18,e5 needs to be defended and Qg3+ does not seem to quite do the trick yet as there is no Rd8.
+35,Qd5,d4d5,r3kbr1/pp6/2n4p/3Q4/2P1P1bq/4K3/PP6/RNB2R2 b - - 2 18,"0-1
+
+...and doesn't that just give you a sickening feeling when you feel you only need to know opening theory?"
+36,Qg3+,h4g3,r3kbr1/pp6/2n4p/3Q4/2P1P1b1/4K1q1/PP6/RNB2R2 w - - 3 19,"0-1
+
+...and doesn't that just give you a sickening feeling when you feel you only need to know opening theory?"
+37,Kd2,e3d2,r3kbr1/pp6/2n4p/3Q4/2P1P1b1/6q1/PP1K4/RNB2R2 b - - 4 19,"0-1
+
+...and doesn't that just give you a sickening feeling when you feel you only need to know opening theory?"
+38,Rd8,a8d8,3rkbr1/pp6/2n4p/3Q4/2P1P1b1/6q1/PP1K4/RNB2R2 w - - 5 20,"0-1
+
+...and doesn't that just give you a sickening feeling when you feel you only need to know opening theory?"

@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,White strives for a classic Stonewall formation.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,White strives for a classic Stonewall formation.
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,White strives for a classic Stonewall formation.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3,White strives for a classic Stonewall formation.
+5,Bd3,f1d3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq - 2 3,White strives for a classic Stonewall formation.
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR w KQkq - 3 4,prevents e7-e5 and a prop for an eventual N at e5.
+7,f4,f2f4,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1P2/3BP3/PPP3PP/RNBQK1NR b KQkq - 0 4,prevents e7-e5 and a prop for an eventual N at e5.
+8,Bg4,c8g4,r2qkb1r/ppp1pppp/2n2n2/3p4/3P1Pb1/3BP3/PPP3PP/RNBQK1NR w KQkq - 1 5,"Black doesn't want to be saddled with a ""bad bishop."""
+9,Nf3,g1f3,r2qkb1r/ppp1pppp/2n2n2/3p4/3P1Pb1/3BPN2/PPP3PP/RNBQK2R b KQkq - 2 5,The pin is temporary.
+10,e6,e7e6,r2qkb1r/ppp2ppp/2n1pn2/3p4/3P1Pb1/3BPN2/PPP3PP/RNBQK2R w KQkq - 0 6,"The Bishop is in a bad spot, biting on granite."
+11,Nbd2,b1d2,r2qkb1r/ppp2ppp/2n1pn2/3p4/3P1Pb1/3BPN2/PPPN2PP/R1BQK2R b KQkq - 1 6,"The Bishop is in a bad spot, biting on granite."
+12,Bd6,f8d6,r2qk2r/ppp2ppp/2nbpn2/3p4/3P1Pb1/3BPN2/PPPN2PP/R1BQK2R w KQkq - 2 7,"The Bishop is in a bad spot, biting on granite."
+13,c3,c2c3,r2qk2r/ppp2ppp/2nbpn2/3p4/3P1Pb1/2PBPN2/PP1N2PP/R1BQK2R b KQkq - 0 7,Prevents Nb4 and establishes the Stonewall pawn formation on the black squares.
+14,O-O,e8g8,r2q1rk1/ppp2ppp/2nbpn2/3p4/3P1Pb1/2PBPN2/PP1N2PP/R1BQK2R w KQ - 1 8,"Black has wasted a move.  White doesn't want to provide double pawn support for Black's Knight at e4, therefore no exchange."
+15,O-O,e1g1,r2q1rk1/ppp2ppp/2nbpn2/3p4/3P1Pb1/2PBPN2/PP1N2PP/R1BQ1RK1 b - - 2 8,"Black has wasted a move.  White doesn't want to provide double pawn support for Black's Knight at e4, therefore no exchange."
+16,Bf5,g4f5,r2q1rk1/ppp2ppp/2nbpn2/3p1b2/3P1P2/2PBPN2/PP1N2PP/R1BQ1RK1 w - - 3 9,"Black has wasted a move.  White doesn't want to provide double pawn support for Black's Knight at e4, therefore no exchange."
+17,Bc2,d3c2,r2q1rk1/ppp2ppp/2nbpn2/3p1b2/3P1P2/2P1PN2/PPBN2PP/R1BQ1RK1 b - - 4 9,Black wastes another move.
+18,a6,a7a6,r2q1rk1/1pp2ppp/p1nbpn2/3p1b2/3P1P2/2P1PN2/PPBN2PP/R1BQ1RK1 w - - 0 10,Black wastes another move.
+19,Ne5,f3e5,r2q1rk1/1pp2ppp/p1nbpn2/3pNb2/3P1P2/2P1P3/PPBN2PP/R1BQ1RK1 b - - 1 10,This is the natural home of the King Knight.  Black can't play NxN because of the pawn fork.  White also plans an eventual pawn push e3-34 after suitable preparation.
+20,Ne7,c6e7,r2q1rk1/1pp1nppp/p2bpn2/3pNb2/3P1P2/2P1P3/PPBN2PP/R1BQ1RK1 w - - 2 11,"White may have been seeing ghosts, but an aggressive Kside attack is normal fare for the Stonewall, with g2-g4 often spearheading the attack.  h3 gives this idea some support."
+21,h3,h2h3,r2q1rk1/1pp1nppp/p2bpn2/3pNb2/3P1P2/2P1P2P/PPBN2P1/R1BQ1RK1 b - - 0 11,"White may have been seeing ghosts, but an aggressive Kside attack is normal fare for the Stonewall, with g2-g4 often spearheading the attack.  h3 gives this idea some support."
+22,c5,c7c5,r2q1rk1/1p2nppp/p2bpn2/2ppNb2/3P1P2/2P1P2P/PPBN2P1/R1BQ1RK1 w - - 0 12,Black's move is frequently seen but comes late in this variation.
+23,g4,g2g4,r2q1rk1/1p2nppp/p2bpn2/2ppNb2/3P1PP1/2P1P2P/PPBN4/R1BQ1RK1 b - - 0 12,"White has an easy game.  A lot of firepower directed at the black King, and the White King, although exposed, is safe."
+24,Bxc2,f5c2,r2q1rk1/1p2nppp/p2bpn2/2ppN3/3P1PP1/2P1P2P/PPbN4/R1BQ1RK1 w - - 0 13,"White has an easy game.  A lot of firepower directed at the black King, and the White King, although exposed, is safe."
+25,Qxc2,d1c2,r2q1rk1/1p2nppp/p2bpn2/2ppN3/3P1PP1/2P1P2P/PPQN4/R1B2RK1 b - - 0 13,"White has an easy game.  A lot of firepower directed at the black King, and the White King, although exposed, is safe."
+26,Qc7,d8c7,r4rk1/1pq1nppp/p2bpn2/2ppN3/3P1PP1/2P1P2P/PPQN4/R1B2RK1 w - - 1 14,White wants to keep a Knight on e5.
+27,Ndf3,d2f3,r4rk1/1pq1nppp/p2bpn2/2ppN3/3P1PP1/2P1PN1P/PPQ5/R1B2RK1 b - - 2 14,White wants to keep a Knight on e5.
+28,Rac8,a8c8,2r2rk1/1pq1nppp/p2bpn2/2ppN3/3P1PP1/2P1PN1P/PPQ5/R1B2RK1 w - - 3 15,"White seeks to provoke a pawn move, thus weakening Black's fortress.  It costs him two tempi."
+29,Ng5,f3g5,2r2rk1/1pq1nppp/p2bpn2/2ppN1N1/3P1PP1/2P1P2P/PPQ5/R1B2RK1 b - - 4 15,"White seeks to provoke a pawn move, thus weakening Black's fortress.  It costs him two tempi."
+30,h6,h7h6,2r2rk1/1pq1npp1/p2bpn1p/2ppN1N1/3P1PP1/2P1P2P/PPQ5/R1B2RK1 w - - 0 16,Mission accomplished.
+31,Ngf3,g5f3,2r2rk1/1pq1npp1/p2bpn1p/2ppN3/3P1PP1/2P1PN1P/PPQ5/R1B2RK1 b - - 1 16,Mission accomplished.
+32,b6,b7b6,2r2rk1/2q1npp1/pp1bpn1p/2ppN3/3P1PP1/2P1PN1P/PPQ5/R1B2RK1 w - - 0 17,Black's attack is irrelevant and too slow.
+33,Bd2,c1d2,2r2rk1/2q1npp1/pp1bpn1p/2ppN3/3P1PP1/2P1PN1P/PPQB4/R4RK1 b - - 1 17,White's passivity has given Black counterplay.
+34,Ne4,f6e4,2r2rk1/2q1npp1/pp1bp2p/2ppN3/3PnPP1/2P1PN1P/PPQB4/R4RK1 w - - 2 18,White's passivity has given Black counterplay.
+35,Be1,d2e1,2r2rk1/2q1npp1/pp1bp2p/2ppN3/3PnPP1/2P1PN1P/PPQ5/R3BRK1 b - - 3 18,White's passivity has given Black counterplay.
+36,f6,f7f6,2r2rk1/2q1n1p1/pp1bpp1p/2ppN3/3PnPP1/2P1PN1P/PPQ5/R3BRK1 w - - 0 19,White's passivity has given Black counterplay.
+37,Nd3,e5d3,2r2rk1/2q1n1p1/pp1bpp1p/2pp4/3PnPP1/2PNPN1P/PPQ5/R3BRK1 b - - 1 19,White plans to reposition the Knight onto the Kside.
+38,c4,c5c4,2r2rk1/2q1n1p1/pp1bpp1p/3p4/2pPnPP1/2PNPN1P/PPQ5/R3BRK1 w - - 0 20,White plans to reposition the Knight onto the Kside.
+39,Nc1,d3c1,2r2rk1/2q1n1p1/pp1bpp1p/3p4/2pPnPP1/2P1PN1P/PPQ5/R1N1BRK1 b - - 1 20,White plans to reposition the Knight onto the Kside.
+40,f5,f6f5,2r2rk1/2q1n1p1/pp1bp2p/3p1p2/2pPnPP1/2P1PN1P/PPQ5/R1N1BRK1 w - - 0 21,provides additional defense to g3 and allows access to the h-file by the Rook.
+41,Ne2,c1e2,2r2rk1/2q1n1p1/pp1bp2p/3p1p2/2pPnPP1/2P1PN1P/PPQ1N3/R3BRK1 b - - 1 21,provides additional defense to g3 and allows access to the h-file by the Rook.
+42,g5,g7g5,2r2rk1/2q1n3/pp1bp2p/3p1pp1/2pPnPP1/2P1PN1P/PPQ1N3/R3BRK1 w - - 0 22,provides additional defense to g3 and allows access to the h-file by the Rook.
+43,Ne5,f3e5,2r2rk1/2q1n3/pp1bp2p/3pNpp1/2pPnPP1/2P1P2P/PPQ1N3/R3BRK1 b - - 1 22,provides additional defense to g3 and allows access to the h-file by the Rook.
+44,fxg4,f5g4,2r2rk1/2q1n3/pp1bp2p/3pN1p1/2pPnPp1/2P1P2P/PPQ1N3/R3BRK1 w - - 0 23,provides additional defense to g3 and allows access to the h-file by the Rook.
+45,hxg4,h3g4,2r2rk1/2q1n3/pp1bp2p/3pN1p1/2pPnPP1/2P1P3/PPQ1N3/R3BRK1 b - - 0 23,provides additional defense to g3 and allows access to the h-file by the Rook.
+46,Bxe5,d6e5,2r2rk1/2q1n3/pp2p2p/3pb1p1/2pPnPP1/2P1P3/PPQ1N3/R3BRK1 w - - 0 24,provides additional defense to g3 and allows access to the h-file by the Rook.
+47,dxe5,d4e5,2r2rk1/2q1n3/pp2p2p/3pP1p1/2p1nPP1/2P1P3/PPQ1N3/R3BRK1 b - - 0 24,provides additional defense to g3 and allows access to the h-file by the Rook.
+48,Nc6,e7c6,2r2rk1/2q5/ppn1p2p/3pP1p1/2p1nPP1/2P1P3/PPQ1N3/R3BRK1 w - - 1 25,provides additional defense to g3 and allows access to the h-file by the Rook.
+49,Kg2,g1g2,2r2rk1/2q5/ppn1p2p/3pP1p1/2p1nPP1/2P1P3/PPQ1N1K1/R3BR2 b - - 2 25,provides additional defense to g3 and allows access to the h-file by the Rook.
+50,Qg7,c7g7,2r2rk1/6q1/ppn1p2p/3pP1p1/2p1nPP1/2P1P3/PPQ1N1K1/R3BR2 w - - 3 26,"and the game was timed out.  This was a bad game to annotate, as the result was really unresolved."
+51,Ng3,e2g3,2r2rk1/6q1/ppn1p2p/3pP1p1/2p1nPP1/2P1P1N1/PPQ3K1/R3BR2 b - - 4 26,"and the game was timed out.  This was a bad game to annotate, as the result was really unresolved."

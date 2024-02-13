@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I started with my usual kings pawn move that I use when playing white.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Defending the king's pawn against a possible attack with the pawn at d6
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/3p4/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Defending the king's pawn against a possible attack with the pawn at d6
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Defending the king's pawn against a possible attack with the pawn at d6
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 0 3,Defending the king's pawn against a possible attack with the pawn at d6
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/4P3/2NP4/PPP2PPP/R1BQKBNR w KQkq - 0 4,Let's keep an eye on the knight
+7,Bg5,c1g5,rnbqkb1r/ppp1pp1p/3p1np1/6B1/4P3/2NP4/PPP2PPP/R2QKBNR b KQkq - 1 4,Let's keep an eye on the knight
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/6B1/4P3/2NP4/PPP2PPP/R2QKBNR w KQkq - 2 5,I thought I would use the bishop for a future pin but decided to trade it
+9,Bxf6,g5f6,rnbqk2r/ppp1ppbp/3p1Bp1/8/4P3/2NP4/PPP2PPP/R2QKBNR b KQkq - 0 5,I thought I would use the bishop for a future pin but decided to trade it
+10,exf6,e7f6,rnbqk2r/ppp2pbp/3p1pp1/8/4P3/2NP4/PPP2PPP/R2QKBNR w KQkq - 0 6,I would probably have used the bishop to recapture here
+11,Nge2,g1e2,rnbqk2r/ppp2pbp/3p1pp1/8/4P3/2NP4/PPP1NPPP/R2QKB1R b KQkq - 1 6,Looking to break into the castle somehow...
+12,O-O,e8g8,rnbq1rk1/ppp2pbp/3p1pp1/8/4P3/2NP4/PPP1NPPP/R2QKB1R w KQ - 2 7,Looking to break into the castle somehow...
+13,f3,f2f3,rnbq1rk1/ppp2pbp/3p1pp1/8/4P3/2NP1P2/PPP1N1PP/R2QKB1R b KQ - 0 7,Looking to break into the castle somehow...
+14,Re8,f8e8,rnbqr1k1/ppp2pbp/3p1pp1/8/4P3/2NP1P2/PPP1N1PP/R2QKB1R w KQ - 1 8,Looking to break into the castle somehow...
+15,Qd2,d1d2,rnbqr1k1/ppp2pbp/3p1pp1/8/4P3/2NP1P2/PPPQN1PP/R3KB1R b KQ - 2 8,Looking to break into the castle somehow...
+16,f5,f6f5,rnbqr1k1/ppp2pbp/3p2p1/5p2/4P3/2NP1P2/PPPQN1PP/R3KB1R w KQ - 0 9,Prepare for a king and rook fork
+17,h4,h2h4,rnbqr1k1/ppp2pbp/3p2p1/5p2/4P2P/2NP1P2/PPPQN1P1/R3KB1R b KQ - 0 9,Prepare for a king and rook fork
+18,fxe4,f5e4,rnbqr1k1/ppp2pbp/3p2p1/8/4p2P/2NP1P2/PPPQN1P1/R3KB1R w KQ - 0 10,Prepare for a king and rook fork
+19,dxe4,d3e4,rnbqr1k1/ppp2pbp/3p2p1/8/4P2P/2N2P2/PPPQN1P1/R3KB1R b KQ - 0 10,Prepare for a king and rook fork
+20,Nc6,b8c6,r1bqr1k1/ppp2pbp/2np2p1/8/4P2P/2N2P2/PPPQN1P1/R3KB1R w KQ - 1 11,Prepare for a king and rook fork
+21,a3,a2a3,r1bqr1k1/ppp2pbp/2np2p1/8/4P2P/P1N2P2/1PPQN1P1/R3KB1R b KQ - 0 11,Prepare for a king and rook fork
+22,Be6,c8e6,r2qr1k1/ppp2pbp/2npb1p1/8/4P2P/P1N2P2/1PPQN1P1/R3KB1R w KQ - 1 12,pushing further for attack
+23,h5,h4h5,r2qr1k1/ppp2pbp/2npb1p1/7P/4P3/P1N2P2/1PPQN1P1/R3KB1R b KQ - 0 12,pushing further for attack
+24,Bc4,e6c4,r2qr1k1/ppp2pbp/2np2p1/7P/2b1P3/P1N2P2/1PPQN1P1/R3KB1R w KQ - 1 13,Good move. wasting my castling opportunity
+25,h6,h5h6,r2qr1k1/ppp2pbp/2np2pP/8/2b1P3/P1N2P2/1PPQN1P1/R3KB1R b KQ - 0 13,Good move. wasting my castling opportunity
+26,Bf6,g7f6,r2qr1k1/ppp2p1p/2np1bpP/8/2b1P3/P1N2P2/1PPQN1P1/R3KB1R w KQ - 1 14,Good move. wasting my castling opportunity
+27,b3,b2b3,r2qr1k1/ppp2p1p/2np1bpP/8/2b1P3/PPN2P2/2PQN1P1/R3KB1R b KQ - 0 14,Good move. wasting my castling opportunity
+28,Bxe2,c4e2,r2qr1k1/ppp2p1p/2np1bpP/8/4P3/PPN2P2/2PQb1P1/R3KB1R w KQ - 0 15,Good move. wasting my castling opportunity
+29,Bxe2,f1e2,r2qr1k1/ppp2p1p/2np1bpP/8/4P3/PPN2P2/2PQB1P1/R3K2R b KQ - 0 15,Good move. wasting my castling opportunity
+30,Bh4+,f6h4,r2qr1k1/ppp2p1p/2np2pP/8/4P2b/PPN2P2/2PQB1P1/R3K2R w KQ - 1 16,Good move. wasting my castling opportunity
+31,g3,g2g3,r2qr1k1/ppp2p1p/2np2pP/8/4P2b/PPN2PP1/2PQB3/R3K2R b KQ - 0 16,This was a big mistake. I cannot record what was in my mind.
+32,Bxg3+,h4g3,r2qr1k1/ppp2p1p/2np2pP/8/4P3/PPN2Pb1/2PQB3/R3K2R w KQ - 0 17,I had to distrurb the queen since moving his night to f3 could have been devastating.
+33,Kf1,e1f1,r2qr1k1/ppp2p1p/2np2pP/8/4P3/PPN2Pb1/2PQB3/R4K1R b - - 1 17,I had to distrurb the queen since moving his night to f3 could have been devastating.
+34,Qf6,d8f6,r3r1k1/ppp2p1p/2np1qpP/8/4P3/PPN2Pb1/2PQB3/R4K1R w - - 2 18,I had to distrurb the queen since moving his night to f3 could have been devastating.
+35,Rb1,a1b1,r3r1k1/ppp2p1p/2np1qpP/8/4P3/PPN2Pb1/2PQB3/1R3K1R b - - 3 18,I had to distrurb the queen since moving his night to f3 could have been devastating.
+36,Nd4,c6d4,r3r1k1/ppp2p1p/3p1qpP/8/3nP3/PPN2Pb1/2PQB3/1R3K1R w - - 4 19,I had to distrurb the queen since moving his night to f3 could have been devastating.
+37,Nd5,c3d5,r3r1k1/ppp2p1p/3p1qpP/3N4/3nP3/PP3Pb1/2PQB3/1R3K1R b - - 5 19,I had to distrurb the queen since moving his night to f3 could have been devastating.
+38,Qe5,f6e5,r3r1k1/ppp2p1p/3p2pP/3Nq3/3nP3/PP3Pb1/2PQB3/1R3K1R w - - 6 20,Fortunately now there was my chace to counter attak with the queen threat gone.....
+39,Nxc7,d5c7,r3r1k1/ppN2p1p/3p2pP/4q3/3nP3/PP3Pb1/2PQB3/1R3K1R b - - 0 20,Fork the two rooks
+40,Bf4,g3f4,r3r1k1/ppN2p1p/3p2pP/4q3/3nPb2/PP3P2/2PQB3/1R3K1R w - - 1 21,"Of course, this aimed to give him some time, but the take could not be avoided."
+41,Qd3,d2d3,r3r1k1/ppN2p1p/3p2pP/4q3/3nPb2/PP1Q1P2/2P1B3/1R3K1R b - - 2 21,Moved the queen to safety
+42,Rac8,a8c8,2r1r1k1/ppN2p1p/3p2pP/4q3/3nPb2/PP1Q1P2/2P1B3/1R3K1R w - - 3 22,Gained the rook.
+43,Nxe8,c7e8,2r1N1k1/pp3p1p/3p2pP/4q3/3nPb2/PP1Q1P2/2P1B3/1R3K1R b - - 0 22,Gained the rook.
+44,Rxc2,c8c2,4N1k1/pp3p1p/3p2pP/4q3/3nPb2/PP1Q1P2/2r1B3/1R3K1R w - - 0 23,But a breech opened
+45,Bd1,e2d1,4N1k1/pp3p1p/3p2pP/4q3/3nPb2/PP1Q1P2/2r5/1R1B1K1R b - - 1 23,Started a small cat and mouse game
+46,Rd2,c2d2,4N1k1/pp3p1p/3p2pP/4q3/3nPb2/PP1Q1P2/3r4/1R1B1K1R w - - 2 24,Now we need to improve our position...
+47,Qc3,d3c3,4N1k1/pp3p1p/3p2pP/4q3/3nPb2/PPQ2P2/3r4/1R1B1K1R b - - 3 24,Now we need to improve our position...
+48,Qb5+,e5b5,4N1k1/pp3p1p/3p2pP/1q6/3nPb2/PPQ2P2/3r4/1R1B1K1R w - - 4 25,Now we need to improve our position...
+49,Qc4,c3c4,4N1k1/pp3p1p/3p2pP/1q6/2QnPb2/PP3P2/3r4/1R1B1K1R b - - 5 25,Now we need to improve our position...
+50,Qxe8,b5e8,4q1k1/pp3p1p/3p2pP/8/2QnPb2/PP3P2/3r4/1R1B1K1R w - - 0 26,Now we need to improve our position...
+51,Rh4,h1h4,4q1k1/pp3p1p/3p2pP/8/2QnPb1R/PP3P2/3r4/1R1B1K2 b - - 1 26,Now we need to improve our position...
+52,b5,b7b5,4q1k1/p4p1p/3p2pP/1p6/2QnPb1R/PP3P2/3r4/1R1B1K2 w - - 0 27,All pices under strong defense
+53,Qb4,c4b4,4q1k1/p4p1p/3p2pP/1p6/1Q1nPb1R/PP3P2/3r4/1R1B1K2 b - - 1 27,All pices under strong defense
+54,Qe5,e8e5,6k1/p4p1p/3p2pP/1p2q3/1Q1nPb1R/PP3P2/3r4/1R1B1K2 w - - 2 28,All pices under strong defense

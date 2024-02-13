@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,White opens with the Reti.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,Black copies White's move.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,Transposing into an English Opening
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,"Black plays symmetrically, trying to aggravate White by simply copying his moves."
+5,Nc3,b1c3,rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3,Black continues with his strategy.
+6,Nc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4,Black continues with his strategy.
+7,d4,d2d4,r1bqkb1r/pp1ppppp/2n2n2/2p5/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4,"Even here, Black could play 4. ... d5!? after which 5. cxd5 Nxd5 6. dxc5 e6 is okay for Black."
+8,cxd4,c5d4,r1bqkb1r/pp1ppppp/2n2n2/8/2Pp4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,"Black invites the Open Sicilian, Maroczy Bind Variation."
+9,Nxd4,f3d4,r1bqkb1r/pp1ppppp/2n2n2/8/2PN4/2N5/PP2PPPP/R1BQKB1R b KQkq - 0 5,"Black invites the Open Sicilian, Maroczy Bind Variation."
+10,g6,g7g6,r1bqkb1r/pp1ppp1p/2n2np1/8/2PN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 0 6,"Black invites the Open Sicilian, Maroczy Bind Variation."
+11,e4,e2e4,r1bqkb1r/pp1ppp1p/2n2np1/8/2PNP3/2N5/PP3PPP/R1BQKB1R b KQkq - 0 6,Preventing 7. e5
+12,d6,d7d6,r1bqkb1r/pp2pp1p/2np1np1/8/2PNP3/2N5/PP3PPP/R1BQKB1R w KQkq - 0 7,Preventing 7. e5
+13,Be2,f1e2,r1bqkb1r/pp2pp1p/2np1np1/8/2PNP3/2N5/PP2BPPP/R1BQK2R b KQkq - 1 7,"White should castle or play Qd2, preparing 0-0-0."
+14,Bg7,f8g7,r1bqk2r/pp2ppbp/2np1np1/8/2PNP3/2N5/PP2BPPP/R1BQK2R w KQkq - 2 8,"White should castle or play Qd2, preparing 0-0-0."
+15,Be3,c1e3,r1bqk2r/pp2ppbp/2np1np1/8/2PNP3/2N1B3/PP2BPPP/R2QK2R b KQkq - 3 8,"White should castle or play Qd2, preparing 0-0-0."
+16,O-O,e8g8,r1bq1rk1/pp2ppbp/2np1np1/8/2PNP3/2N1B3/PP2BPPP/R2QK2R w KQ - 4 9,"White should castle or play Qd2, preparing 0-0-0."
+17,Nc2,d4c2,r1bq1rk1/pp2ppbp/2np1np1/8/2P1P3/2N1B3/PPN1BPPP/R2QK2R b KQ - 5 9,"White should castle or play Qd2, preparing 0-0-0."
+18,Nd7,f6d7,r1bq1rk1/pp1nppbp/2np2p1/8/2P1P3/2N1B3/PPN1BPPP/R2QK2R w KQ - 6 10,so that Bh6 can be met by Bh8
+19,Qd2,d1d2,r1bq1rk1/pp1nppbp/2np2p1/8/2P1P3/2N1B3/PPNQBPPP/R3K2R b KQ - 7 10,so that Bh6 can be met by Bh8
+20,Re8,f8e8,r1bqr1k1/pp1nppbp/2np2p1/8/2P1P3/2N1B3/PPNQBPPP/R3K2R w KQ - 8 11,so that Bh6 can be met by Bh8
+21,Rc1,a1c1,r1bqr1k1/pp1nppbp/2np2p1/8/2P1P3/2N1B3/PPNQBPPP/2R1K2R b K - 9 11,Threatening to win the e4-pawn
+22,Qa5,d8a5,r1b1r1k1/pp1nppbp/2np2p1/q7/2P1P3/2N1B3/PPNQBPPP/2R1K2R w K - 10 12,Threatening to win the e4-pawn
+23,Na3,c2a3,r1b1r1k1/pp1nppbp/2np2p1/q7/2P1P3/N1N1B3/PP1QBPPP/2R1K2R b K - 11 12,Threatening to win the e4-pawn
+24,Nc5,d7c5,r1b1r1k1/pp2ppbp/2np2p1/q1n5/2P1P3/N1N1B3/PP1QBPPP/2R1K2R w K - 12 13,Threatening to win the e4-pawn
+25,f3,f2f3,r1b1r1k1/pp2ppbp/2np2p1/q1n5/2P1P3/N1N1BP2/PP1QB1PP/2R1K2R b K - 0 13,"Apparently this looks winning for White, but Black has a surprise sacrifice."
+26,a6,a7a6,r1b1r1k1/1p2ppbp/p1np2p1/q1n5/2P1P3/N1N1BP2/PP1QB1PP/2R1K2R w K - 0 14,"Apparently this looks winning for White, but Black has a surprise sacrifice."
+27,O-O,e1g1,r1b1r1k1/1p2ppbp/p1np2p1/q1n5/2P1P3/N1N1BP2/PP1QB1PP/2R2RK1 b - - 1 14,"Apparently this looks winning for White, but Black has a surprise sacrifice."
+28,Nb4,c6b4,r1b1r1k1/1p2ppbp/p2p2p1/q1n5/1nP1P3/N1N1BP2/PP1QB1PP/2R2RK1 w - - 2 15,"Apparently this looks winning for White, but Black has a surprise sacrifice."
+29,Nd5,c3d5,r1b1r1k1/1p2ppbp/p2p2p1/q1nN4/1nP1P3/N3BP2/PP1QB1PP/2R2RK1 b - - 3 15,"Apparently this looks winning for White, but Black has a surprise sacrifice."
+30,Nxd5,b4d5,r1b1r1k1/1p2ppbp/p2p2p1/q1nn4/2P1P3/N3BP2/PP1QB1PP/2R2RK1 w - - 0 16,Black has two pieces and lots of play for the Queen.
+31,Qxa5,d2a5,r1b1r1k1/1p2ppbp/p2p2p1/Q1nn4/2P1P3/N3BP2/PP2B1PP/2R2RK1 b - - 0 16,Black has two pieces and lots of play for the Queen.
+32,Nxe3,d5e3,r1b1r1k1/1p2ppbp/p2p2p1/Q1n5/2P1P3/N3nP2/PP2B1PP/2R2RK1 w - - 0 17,Black has two pieces and lots of play for the Queen.
+33,Rfe1,f1e1,r1b1r1k1/1p2ppbp/p2p2p1/Q1n5/2P1P3/N3nP2/PP2B1PP/2R1R1K1 b - - 1 17,Black has two pieces and lots of play for the Queen.
+34,Bd4,g7d4,r1b1r1k1/1p2pp1p/p2p2p1/Q1n5/2PbP3/N3nP2/PP2B1PP/2R1R1K1 w - - 2 18,Black has two pieces and lots of play for the Queen.
+35,Kh1,g1h1,r1b1r1k1/1p2pp1p/p2p2p1/Q1n5/2PbP3/N3nP2/PP2B1PP/2R1R2K b - - 3 18,preventing Nb5
+36,Bd7,c8d7,r3r1k1/1p1bpp1p/p2p2p1/Q1n5/2PbP3/N3nP2/PP2B1PP/2R1R2K w - - 4 19,preventing Nb5
+37,Qd2,a5d2,r3r1k1/1p1bpp1p/p2p2p1/2n5/2PbP3/N3nP2/PP1QB1PP/2R1R2K b - - 5 19,Now the Black bishop will be very hard to remove.
+38,e5,e7e5,r3r1k1/1p1b1p1p/p2p2p1/2n1p3/2PbP3/N3nP2/PP1QB1PP/2R1R2K w - - 0 20,Now the Black bishop will be very hard to remove.
+39,Nc2,a3c2,r3r1k1/1p1b1p1p/p2p2p1/2n1p3/2PbP3/4nP2/PPNQB1PP/2R1R2K b - - 1 20,Now the Black bishop will be very hard to remove.
+40,Nxc2,e3c2,r3r1k1/1p1b1p1p/p2p2p1/2n1p3/2PbP3/5P2/PPnQB1PP/2R1R2K w - - 0 21,Now the Black bishop will be very hard to remove.
+41,Rxc2,c1c2,r3r1k1/1p1b1p1p/p2p2p1/2n1p3/2PbP3/5P2/PPRQB1PP/4R2K b - - 0 21,Now the Black bishop will be very hard to remove.
+42,Ba4,d7a4,r3r1k1/1p3p1p/p2p2p1/2n1p3/b1PbP3/5P2/PPRQB1PP/4R2K w - - 1 22,"Provoking b3, which further weakens the dark squares."
+43,b3,b2b3,r3r1k1/1p3p1p/p2p2p1/2n1p3/b1PbP3/1P3P2/P1RQB1PP/4R2K b - - 0 22,heading for f4
+44,Bc6,a4c6,r3r1k1/1p3p1p/p1bp2p1/2n1p3/2PbP3/1P3P2/P1RQB1PP/4R2K w - - 1 23,heading for f4
+45,Rcc1,c2c1,r3r1k1/1p3p1p/p1bp2p1/2n1p3/2PbP3/1P3P2/P2QB1PP/2R1R2K b - - 2 23,heading for f4
+46,Ne6,c5e6,r3r1k1/1p3p1p/p1bpn1p1/4p3/2PbP3/1P3P2/P2QB1PP/2R1R2K w - - 3 24,heading for f4
+47,g3,g2g3,r3r1k1/1p3p1p/p1bpn1p1/4p3/2PbP3/1P3PP1/P2QB2P/2R1R2K b - - 0 24,Preventing Qh6
+48,Kg7,g8g7,r3r3/1p3pkp/p1bpn1p1/4p3/2PbP3/1P3PP1/P2QB2P/2R1R2K w - - 1 25,Preventing Qh6
+49,Rcd1,c1d1,r3r3/1p3pkp/p1bpn1p1/4p3/2PbP3/1P3PP1/P2QB2P/3RR2K b - - 2 25,Black should have played ... f5 immediately.
+50,Ref8,e8f8,r4r2/1p3pkp/p1bpn1p1/4p3/2PbP3/1P3PP1/P2QB2P/3RR2K w - - 3 26,Black should have played ... f5 immediately.
+51,Bd3,e2d3,r4r2/1p3pkp/p1bpn1p1/4p3/2PbP3/1P1B1PP1/P2Q3P/3RR2K b - - 4 26,Black should have played ... f5 immediately.
+52,h6,h7h6,r4r2/1p3pk1/p1bpn1pp/4p3/2PbP3/1P1B1PP1/P2Q3P/3RR2K w - - 0 27,Black should have played ... f5 immediately.
+53,Bc2,d3c2,r4r2/1p3pk1/p1bpn1pp/4p3/2PbP3/1P3PP1/P1BQ3P/3RR2K b - - 1 27,Now White loses the exchange.
+54,Ng5,e6g5,r4r2/1p3pk1/p1bp2pp/4p1n1/2PbP3/1P3PP1/P1BQ3P/3RR2K w - - 2 28,Now White loses the exchange.
+55,f4,f3f4,r4r2/1p3pk1/p1bp2pp/4p1n1/2PbPP2/1P4P1/P1BQ3P/3RR2K b - - 0 28,Now White loses the exchange.

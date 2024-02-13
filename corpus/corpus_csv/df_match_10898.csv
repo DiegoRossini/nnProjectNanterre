@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,standard opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,a little early i think it almost demands him doing Bc5 soon
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,a little early i think it almost demands him doing Bc5 soon
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,a little early i think it almost demands him doing Bc5 soon
+5,b3,b2b3,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/1P6/P1PP1PPP/RNBQK1NR b KQkq - 0 3,see told you
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/1P6/P1PP1PPP/RNBQK1NR w KQkq - 1 4,see told you
+7,Nh3,g1h3,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/1P5N/P1PP1PPP/RNBQK2R b KQkq - 2 4,pawn donation?
+8,d5,d7d5,rnb1k1nr/ppp2ppp/5q2/2bpp3/2B1P3/1P5N/P1PP1PPP/RNBQK2R w KQkq - 0 5,pawn donation?
+9,Bxd5,c4d5,rnb1k1nr/ppp2ppp/5q2/2bBp3/4P3/1P5N/P1PP1PPP/RNBQK2R b KQkq - 0 5,"nice trade, i did not see it at first"
+10,Bxh3,c8h3,rn2k1nr/ppp2ppp/5q2/2bBp3/4P3/1P5b/P1PP1PPP/RNBQK2R w KQkq - 0 6,"nice trade, i did not see it at first"
+11,Qe2,d1e2,rn2k1nr/ppp2ppp/5q2/2bBp3/4P3/1P5b/P1PPQPPP/RNB1K2R b KQkq - 1 6,my turn
+12,Bxg2,h3g2,rn2k1nr/ppp2ppp/5q2/2bBp3/4P3/1P6/P1PPQPbP/RNB1K2R w KQkq - 0 7,my turn
+13,Rg1,h1g1,rn2k1nr/ppp2ppp/5q2/2bBp3/4P3/1P6/P1PPQPbP/RNB1K1R1 b Qkq - 1 7,my turn
+14,Bh3,g2h3,rn2k1nr/ppp2ppp/5q2/2bBp3/4P3/1P5b/P1PPQP1P/RNB1K1R1 w Qkq - 2 8,my turn
+15,Bxb7,d5b7,rn2k1nr/pBp2ppp/5q2/2b1p3/4P3/1P5b/P1PPQP1P/RNB1K1R1 b Qkq - 0 8,my turn
+16,Na6,b8a6,r3k1nr/pBp2ppp/n4q2/2b1p3/4P3/1P5b/P1PPQP1P/RNB1K1R1 w Qkq - 1 9,"hmm do i want a knight or a rook,"
+17,Bxa8,b7a8,B3k1nr/p1p2ppp/n4q2/2b1p3/4P3/1P5b/P1PPQP1P/RNB1K1R1 b Qk - 0 9,"big mistake, do you see why?"
+18,Nb4,a6b4,B3k1nr/p1p2ppp/5q2/2b1p3/1n2P3/1P5b/P1PPQP1P/RNB1K1R1 w Qk - 1 10,"big mistake, do you see why?"
+19,Qb5+,e2b5,B3k1nr/p1p2ppp/5q2/1Qb1p3/1n2P3/1P5b/P1PP1P1P/RNB1K1R1 b Qk - 2 10,i win the bishop
+20,Bd7,h3d7,B3k1nr/p1pb1ppp/5q2/1Qb1p3/1n2P3/1P6/P1PP1P1P/RNB1K1R1 w Qk - 3 11,nice spot for it
+21,Qxc5,b5c5,B3k1nr/p1pb1ppp/5q2/2Q1p3/1n2P3/1P6/P1PP1P1P/RNB1K1R1 b Qk - 0 11,nice spot for it
+22,Nc6,b4c6,B3k1nr/p1pb1ppp/2n2q2/2Q1p3/4P3/1P6/P1PP1P1P/RNB1K1R1 w Qk - 1 12,nice spot for it
+23,Bxc6,a8c6,4k1nr/p1pb1ppp/2B2q2/2Q1p3/4P3/1P6/P1PP1P1P/RNB1K1R1 b Qk - 0 12,nice spot for it
+24,Bxc6,d7c6,4k1nr/p1p2ppp/2b2q2/2Q1p3/4P3/1P6/P1PP1P1P/RNB1K1R1 w Qk - 0 13,nice spot for it
+25,Bb2,c1b2,4k1nr/p1p2ppp/2b2q2/2Q1p3/4P3/1P6/PBPP1P1P/RN2K1R1 b Qk - 1 13,nice spot for it
+26,Qe6,f6e6,4k1nr/p1p2ppp/2b1q3/2Q1p3/4P3/1P6/PBPP1P1P/RN2K1R1 w Qk - 2 14,that does not guard the pawn
+27,Bxe5,b2e5,4k1nr/p1p2ppp/2b1q3/2Q1B3/4P3/1P6/P1PP1P1P/RN2K1R1 b Qk - 0 14,oh another pawn
+28,f6,f7f6,4k1nr/p1p3pp/2b1qp2/2Q1B3/4P3/1P6/P1PP1P1P/RN2K1R1 w Qk - 0 15,oh another pawn
+29,Bxc7,e5c7,4k1nr/p1B3pp/2b1qp2/2Q5/4P3/1P6/P1PP1P1P/RN2K1R1 b Qk - 0 15,"i figured he would us the queen,"
+30,Bxe4,c6e4,4k1nr/p1B3pp/4qp2/2Q5/4b3/1P6/P1PP1P1P/RN2K1R1 w Qk - 0 16,"i figured he would us the queen,"
+31,Nc3,b1c3,4k1nr/p1B3pp/4qp2/2Q5/4b3/1PN5/P1PP1P1P/R3K1R1 b Qk - 1 16,"moved the knight so it could block the check,coming soon"
+32,Bxc2+,e4c2,4k1nr/p1B3pp/4qp2/2Q5/8/1PN5/P1bP1P1P/R3K1R1 w Qk - 0 17,see...
+33,Ne2,c3e2,4k1nr/p1B3pp/4qp2/2Q5/8/1P6/P1bPNP1P/R3K1R1 b Qk - 1 17,see...
+34,Bd3,c2d3,4k1nr/p1B3pp/4qp2/2Q5/8/1P1b4/P2PNP1P/R3K1R1 w Qk - 2 18,notice white still has Rxg7..
+35,Qe3,c5e3,4k1nr/p1B3pp/4qp2/8/8/1P1bQ3/P2PNP1P/R3K1R1 b Qk - 3 18,"bishop trade, still look at g7"
+36,Qe7,e6e7,4k1nr/p1B1q1pp/5p2/8/8/1P1bQ3/P2PNP1P/R3K1R1 w Qk - 4 19,"bishop trade, still look at g7"
+37,Qxd3,e3d3,4k1nr/p1B1q1pp/5p2/8/8/1P1Q4/P2PNP1P/R3K1R1 b Qk - 0 19,"bishop trade, still look at g7"
+38,Qxc7,e7c7,4k1nr/p1q3pp/5p2/8/8/1P1Q4/P2PNP1P/R3K1R1 w Qk - 0 20,perfect
+39,Qe3+,d3e3,4k1nr/p1q3pp/5p2/8/8/1P2Q3/P2PNP1P/R3K1R1 b Qk - 1 20,perfect
+40,Ne7,g8e7,4k2r/p1q1n1pp/5p2/8/8/1P2Q3/P2PNP1P/R3K1R1 w Qk - 2 21,perfect
+41,Rxg7,g1g7,4k2r/p1q1n1Rp/5p2/8/8/1P2Q3/P2PNP1P/R3K3 b Qk - 0 21,pins the knight twice
+42,Rf8,h8f8,4kr2/p1q1n1Rp/5p2/8/8/1P2Q3/P2PNP1P/R3K3 w Q - 1 22,yell at the queen and hopfully get c8
+43,Rc1,a1c1,4kr2/p1q1n1Rp/5p2/8/8/1P2Q3/P2PNP1P/2R1K3 b - - 2 22,yell at the queen and hopfully get c8

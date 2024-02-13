@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"So, I chose e4 to kick off with."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A common response, e5 was played."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I developed my knight to f3 and was looking forward to Black's next move, which was..."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"...Nc6, that protects his e5 pawn and attacks the d4 square."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"And now I didn't choose Ruy Lopez, but King's pawn game (C50)"
+6,h6,h7h6,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Black prevented my 4th Ng5 move, but Be7 would do the same, but also develop his DSB."
+7,d3,d2d3,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"And now d3 follows, intending to attack Black's kingside."
+8,a6,a7a6,r1bqkbnr/1ppp1pp1/p1n4p/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"4... a6 doesn't do too much... If I moved my LSB to c4, why would I move it to b5? If I had wanted to move my LSB there, I would have waited with developing my LSB and instead I would make some other developing moves."
+9,Be3,c1e3,r1bqkbnr/1ppp1pp1/p1n4p/4p3/2B1P3/3PBN2/PPP2PPP/RN1QK2R b KQkq - 1 5,"Be3 was a developing move, I could also have castled kingside, or move my other knight on c3."
+10,Nf6,g8f6,r1bqkb1r/1ppp1pp1/p1n2n1p/4p3/2B1P3/3PBN2/PPP2PPP/RN1QK2R w KQkq - 2 6,"This was also a developing move, but I started thinking. First I thought about that he would castle kingside, and I would have an easy game because of my 2 bishops aiming at Black's kingside, and I could play other moves, or rather a move combination attacking Black's kingside, for example Nh4, O-O, f4, Qf3, or sometime Nc3 and after Nd5 to make Black's knight on f6 deal with my knight on d5. Or the other option would be that he wanted to castle queenside in more moves, and this game would be quite dynamic."
+11,Nc3,b1c3,r1bqkb1r/1ppp1pp1/p1n2n1p/4p3/2B1P3/2NPBN2/PPP2PPP/R2QK2R b KQkq - 3 6,"OK, first I wanted to be one move to Nd5, so I developed my other knight."
+12,Be7,f8e7,r1bqk2r/1pppbpp1/p1n2n1p/4p3/2B1P3/2NPBN2/PPP2PPP/R2QK2R w KQkq - 4 7,As I thougth. It seems Black wants to castle kingside. Then I can continue my plan...
+13,O-O,e1g1,r1bqk2r/1pppbpp1/p1n2n1p/4p3/2B1P3/2NPBN2/PPP2PPP/R2Q1RK1 b kq - 5 7,...With castling...
+14,d6,d7d6,r1bqk2r/1pp1bpp1/p1np1n1p/4p3/2B1P3/2NPBN2/PPP2PPP/R2Q1RK1 w kq - 0 8,(d6 frees up some places for Black's LSB.)
+15,Nd5,c3d5,r1bqk2r/1pp1bpp1/p1np1n1p/3Np3/2B1P3/3PBN2/PPP2PPP/R2Q1RK1 b kq - 1 8,...With Nd5...
+16,O-O,e8g8,r1bq1rk1/1pp1bpp1/p1np1n1p/3Np3/2B1P3/3PBN2/PPP2PPP/R2Q1RK1 w - - 2 9,( Whoah! Black castles kingside? Brave.)
+17,Nxe7+,d5e7,r1bq1rk1/1pp1Npp1/p1np1n1p/4p3/2B1P3/3PBN2/PPP2PPP/R2Q1RK1 b - - 0 9,"...Nxe7+ takes his DSB, and only his LSB is left from his bishops. Maybe I should have taken his knight as I had planned..."
+18,Qxe7,d8e7,r1b2rk1/1pp1qpp1/p1np1n1p/4p3/2B1P3/3PBN2/PPP2PPP/R2Q1RK1 w - - 0 10,(But he may have captured with his knight on c6 to move some other defender to his kingside.)
+19,Nh4,f3h4,r1b2rk1/1pp1qpp1/p1np1n1p/4p3/2B1P2N/3PB3/PPP2PPP/R2Q1RK1 b - - 1 10,"...Nh4, looking for the f5 square..."
+20,Rb8,a8b8,1rb2rk1/1pp1qpp1/p1np1n1p/4p3/2B1P2N/3PB3/PPP2PPP/R2Q1RK1 w - - 2 11,(But what's this???)

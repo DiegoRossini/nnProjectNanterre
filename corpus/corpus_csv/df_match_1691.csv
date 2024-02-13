@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Thought it might be a useful exercise to annotate this in the interest of studying my game. Your comments are welcome if you think it will improve my play, and, by demonstrating the faults I've made, improve that of others."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I think that at this point the opponent has left 'book'.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I think that at this point the opponent has left 'book'.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I think that at this point the opponent has left 'book'.
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,I think that at this point the opponent has left 'book'.
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n1p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,I think that at this point the opponent has left 'book'.
+7,e3,e2e3,r1bqkbnr/ppp2ppp/2n1p3/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,"I defended with the bishop rather than blocking with the pawn because I thought that in the case he was to exchange, it would only help me develop but in the case he withdrew he would be forced to move back to either the edge of the board (a5) or possibly d6 losing a tempo."
+8,Bb4+,f8b4,r1bqk1nr/ppp2ppp/2n1p3/3p4/1bPP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5,"I defended with the bishop rather than blocking with the pawn because I thought that in the case he was to exchange, it would only help me develop but in the case he withdrew he would be forced to move back to either the edge of the board (a5) or possibly d6 losing a tempo."
+9,Bd2,c1d2,r1bqk1nr/ppp2ppp/2n1p3/3p4/1bPP4/4PN2/PP1B1PPP/RN1QKB1R b KQkq - 2 5,"I defended with the bishop rather than blocking with the pawn because I thought that in the case he was to exchange, it would only help me develop but in the case he withdrew he would be forced to move back to either the edge of the board (a5) or possibly d6 losing a tempo."
+10,Nf6,g8f6,r1bqk2r/ppp2ppp/2n1pn2/3p4/1bPP4/4PN2/PP1B1PPP/RN1QKB1R w KQkq - 3 6,"My thinking here was to destabilise his protection of the dark bishop.  Looking back now I guess I should have worked on development, possibly I could have moved a3.  
+
+Computer says taking the bishop was better."
+11,Ne5,f3e5,r1bqk2r/ppp2ppp/2n1pn2/3pN3/1bPP4/4P3/PP1B1PPP/RN1QKB1R b KQkq - 4 6,"My thinking here was to destabilise his protection of the dark bishop.  Looking back now I guess I should have worked on development, possibly I could have moved a3.  
+
+Computer says taking the bishop was better."
+12,Bxd2+,b4d2,r1bqk2r/ppp2ppp/2n1pn2/3pN3/2PP4/4P3/PP1b1PPP/RN1QKB1R w KQkq - 0 7,"He surprised me here, perhaps wanting to avoid the complexity of the swap.
+
+Computer says he should have moved the bishop to e7."
+13,Qxd2,d1d2,r1bqk2r/ppp2ppp/2n1pn2/3pN3/2PP4/4P3/PP1Q1PPP/RN2KB1R b KQkq - 0 7,"I took with the queen, was Nxd2 better?
+
+Computer says Nxd2 was better."
+14,dxc4,d5c4,r1bqk2r/ppp2ppp/2n1pn2/4N3/2pP4/4P3/PP1Q1PPP/RN2KB1R w KQkq - 0 8,"Taking the gambit at a late stage.  
+
+This was a mistake according to stockfish."
+15,Bxc4,f1c4,r1bqk2r/ppp2ppp/2n1pn2/4N3/2BP4/4P3/PP1Q1PPP/RN2K2R b KQkq - 0 8,Here I moved my bishop to a centre-controlling square but as it was unprotected here and the pawn was not a threat I could have taken with the knight instead (computer recommends) which would have led to tripled up pawns.
+16,Nxe5,c6e5,r1bqk2r/ppp2ppp/4pn2/4n3/2BP4/4P3/PP1Q1PPP/RN2K2R w KQkq - 0 9,"Now we have a fairly simple game to play. Pieces are equal and bishops are both light-squared. 
+
+Computer gives me +0.19 advantage which is probably due to advanced pawn and one move advantage."
+17,dxe5,d4e5,r1bqk2r/ppp2ppp/4pn2/4P3/2B5/4P3/PP1Q1PPP/RN2K2R b KQkq - 0 9,"Now we have a fairly simple game to play. Pieces are equal and bishops are both light-squared. 
+
+Computer gives me +0.19 advantage which is probably due to advanced pawn and one move advantage."
+18,Qxd2+,d8d2,r1b1k2r/ppp2ppp/4pn2/4P3/2B5/4P3/PP1q1PPP/RN2K2R w KQkq - 0 10,"Now we have a fairly simple game to play. Pieces are equal and bishops are both light-squared. 
+
+Computer gives me +0.19 advantage which is probably due to advanced pawn and one move advantage."
+19,Nxd2,b1d2,r1b1k2r/ppp2ppp/4pn2/4P3/2B5/4P3/PP1N1PPP/R3K2R b KQkq - 0 10,"Now we have a fairly simple game to play. Pieces are equal and bishops are both light-squared. 
+
+Computer gives me +0.19 advantage which is probably due to advanced pawn and one move advantage."
+20,Nd7,f6d7,r1b1k2r/pppn1ppp/4p3/4P3/2B5/4P3/PP1N1PPP/R3K2R w KQkq - 1 11,Knight moves to protect itself from e5 pawn and now threatens e5.
+21,f4,f2f4,r1b1k2r/pppn1ppp/4p3/4P3/2B2P2/4P3/PP1N2PP/R3K2R b KQkq - 0 11,protecting e5
+22,O-O,e8g8,r1b2rk1/pppn1ppp/4p3/4P3/2B2P2/4P3/PP1N2PP/R3K2R w KQ - 1 12,"Seems sound to me: we're at the 11th move. 
+
+Computer says b6 was better, preparing for the bishop on b7 and recommends I move to Kf2 rather than castling... interesting."
+23,O-O,e1g1,r1b2rk1/pppn1ppp/4p3/4P3/2B2P2/4P3/PP1N2PP/R4RK1 b - - 2 12,My intention was to put pressure on the c pawn.
+24,b6,b7b6,r1b2rk1/p1pn1ppp/1p2p3/4P3/2B2P2/4P3/PP1N2PP/R4RK1 w - - 0 13,My intention was to put pressure on the c pawn.
+25,Rac1,a1c1,r1b2rk1/p1pn1ppp/1p2p3/4P3/2B2P2/4P3/PP1N2PP/2R2RK1 b - - 1 13,My intention was to put pressure on the c pawn.
+26,Bb7,c8b7,r4rk1/pbpn1ppp/1p2p3/4P3/2B2P2/4P3/PP1N2PP/2R2RK1 w - - 2 14,Black has now got his rooks connected.
+27,Bb5,c4b5,r4rk1/pbpn1ppp/1p2p3/1B2P3/5P2/4P3/PP1N2PP/2R2RK1 b - - 3 14,Attacking the knight and the c pawn
+28,Nc5,d7c5,r4rk1/pbp2ppp/1p2p3/1Bn1P3/5P2/4P3/PP1N2PP/2R2RK1 w - - 4 15,Black saves both with one move.
+29,g4,g2g4,r4rk1/pbp2ppp/1p2p3/1Bn1P3/5PP1/4P3/PP1N3P/2R2RK1 b - - 0 15,"The intention here was to shift pressure from the left to the right side. I thought my pawn position was superior from that perspective so thought I'd try and capitalise.
+
+Stockfish sees this as a mistake, it removed my advantage bringing the game back to zero. In hindsight I can see that black now has free run at putting my pieces on the defense."
+30,f6,f7f6,r4rk1/pbp3pp/1p2pp2/1Bn1P3/5PP1/4P3/PP1N3P/2R2RK1 w - - 0 16,"Black doesn't capitalise on the loss of tempo and chooses to attack the advanced pawn.  
+
+Computer sees this as a mistake."
+31,b4,b2b4,r4rk1/pbp3pp/1p2pp2/1Bn1P3/1P3PP1/4P3/P2N3P/2R2RK1 b - - 0 16,Rather than taking the pawn immediately I thought I'd try and create multiple threats on black's pieces.
+32,Ba6,b7a6,r4rk1/p1p3pp/bp2pp2/1Bn1P3/1P3PP1/4P3/P2N3P/2R2RK1 w - - 1 17,"Black counters by threatening my bishop, which has been sitting unprotected."

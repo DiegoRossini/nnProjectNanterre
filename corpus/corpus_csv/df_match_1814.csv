@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Exchange Slav
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The Exchange Slav
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The Exchange Slav
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The Exchange Slav
+5,cxd5,c4d5,rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,The Exchange Slav
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,All standard opening theory
+7,Nf3,g1f3,rnbqkbnr/pp2pppp/8/3p4/3P4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 4,All standard opening theory
+8,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/3p4/3P4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 5,All standard opening theory
+9,Nc3,b1c3,r1bqkbnr/pp2pppp/2n5/3p4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 5,All standard opening theory
+10,Nf6,g8f6,r1bqkb1r/pp2pppp/2n2n2/3p4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 6,All standard opening theory
+11,Bf4,c1f4,r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 5 6,All standard opening theory
+12,a6,a7a6,r1bqkb1r/1p2pppp/p1n2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 7,All standard opening theory
+13,e3,e2e3,r1bqkb1r/1p2pppp/p1n2n2/3p4/3P1B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7,All standard opening theory
+14,Bg4,c8g4,r2qkb1r/1p2pppp/p1n2n2/3p4/3P1Bb1/2N1PN2/PP3PPP/R2QKB1R w KQkq - 1 8,Aimed at reducing white's control of e5.
+15,Rc1,a1c1,r2qkb1r/1p2pppp/p1n2n2/3p4/3P1Bb1/2N1PN2/PP3PPP/2RQKB1R b Kkq - 2 8,Developing the rook so that it may eventually control the c-file.
+16,e6,e7e6,r2qkb1r/1p3ppp/p1n1pn2/3p4/3P1Bb1/2N1PN2/PP3PPP/2RQKB1R w Kkq - 0 9,Forcing the bishop to either retreat or take the knight.
+17,h3,h2h3,r2qkb1r/1p3ppp/p1n1pn2/3p4/3P1Bb1/2N1PN1P/PP3PP1/2RQKB1R b Kkq - 0 9,Forcing the bishop to either retreat or take the knight.
+18,Bxf3,g4f3,r2qkb1r/1p3ppp/p1n1pn2/3p4/3P1B2/2N1Pb1P/PP3PP1/2RQKB1R w Kkq - 0 10,I decide to take the knight because it decreases white's control of e5.
+19,Qxf3,d1f3,r2qkb1r/1p3ppp/p1n1pn2/3p4/3P1B2/2N1PQ1P/PP3PP1/2R1KB1R b Kkq - 0 10,Exchanging the active white bishop for black's inactive.
+20,Bd6,f8d6,r2qk2r/1p3ppp/p1nbpn2/3p4/3P1B2/2N1PQ1P/PP3PP1/2R1KB1R w Kkq - 1 11,Exchanging the active white bishop for black's inactive.
+21,Bd3,f1d3,r2qk2r/1p3ppp/p1nbpn2/3p4/3P1B2/2NBPQ1P/PP3PP1/2R1K2R b Kkq - 2 11,This develops a piece but allows me an interesting combination.
+22,Bxf4,d6f4,r2qk2r/1p3ppp/p1n1pn2/3p4/3P1b2/2NBPQ1P/PP3PP1/2R1K2R w Kkq - 0 12,First I capture the darksquared bishop.
+23,Qxf4,f3f4,r2qk2r/1p3ppp/p1n1pn2/3p4/3P1Q2/2NBP2P/PP3PP1/2R1K2R b Kkq - 0 12,exf4 not only ruins white's pawn structure but also hangs the d-pawn.
+24,Qb6,d8b6,r3k2r/1p3ppp/pqn1pn2/3p4/3P1Q2/2NBP2P/PP3PP1/2R1K2R w Kkq - 1 13,Attacking the b-pawn which is fairly difficult for white to guard.
+25,O-O,e1g1,r3k2r/1p3ppp/pqn1pn2/3p4/3P1Q2/2NBP2P/PP3PP1/2R2RK1 b kq - 2 13,"Alternative variation: 13. b3 Rc8 (13... Nb4 14. Be2 Rc8 [This position just can't be great for white unless he finds some really good way to get a piece on c5.])
+Alternative variation: 13. Rb1 Nb4 14. Be2 Nc2+ 15. Kf1 Rc8 [ The uncoordination of white's pieces means a very comfortable position and advantage for black.]"
+26,Qxb2,b6b2,r3k2r/1p3ppp/p1n1pn2/3p4/3P1Q2/2NBP2P/Pq3PP1/2R2RK1 w kq - 0 14,After several minutes of calculation I decide that it is safe to take the pawn because Rb1 is impossible and Qd6 can be met by Qb4.
+27,Na4,c3a4,r3k2r/1p3ppp/p1n1pn2/3p4/N2P1Q2/3BP2P/Pq3PP1/2R2RK1 b kq - 1 14,Kicking the queen and bringing the knight to c5.
+28,Qa3,b2a3,r3k2r/1p3ppp/p1n1pn2/3p4/N2P1Q2/q2BP2P/P4PP1/2R2RK1 w kq - 2 15,"I was worried about Qxa2 losing the queen but I think I may have been okay after Ra1 Qb3 and I will be able to retreat my queen. Even if white wins back both pawns on the queenside the position is equal and as this play is nearly 200 points higher than me a draw is a very respectable result.
+Alternative variation: 14... Qxa2 15. Ra1 Qb3 16. Nc5 Qb6 17. Rfb1 Qd8 18. Rxb7 O-O 19. Bxa6 Nb8"
+29,Nc5,a4c5,r3k2r/1p3ppp/p1n1pn2/2Np4/3P1Q2/q2BP2P/P4PP1/2R2RK1 b kq - 3 15,Bringing my king to safety.
+30,O-O,e8g8,r4rk1/1p3ppp/p1n1pn2/2Np4/3P1Q2/q2BP2P/P4PP1/2R2RK1 w - - 4 16,Bringing my king to safety.
+31,Nxb7,c5b7,r4rk1/1N3ppp/p1n1pn2/3p4/3P1Q2/q2BP2P/P4PP1/2R2RK1 b - - 0 16,White has won the pawn back but I think I have a nice position.
+32,Qxd3,a3d3,r4rk1/1N3ppp/p1n1pn2/3p4/3P1Q2/3qP2P/P4PP1/2R2RK1 w - - 0 17,White has won the pawn back but I think I have a nice position.
+33,Rxc6,c1c6,r4rk1/1N3ppp/p1R1pn2/3p4/3P1Q2/3qP2P/P4PP1/5RK1 b - - 0 17,White has won the pawn back but I think I have a nice position.
+34,Qb5,d3b5,r4rk1/1N3ppp/p1R1pn2/1q1p4/3P1Q2/4P2P/P4PP1/5RK1 w - - 1 18,"I miss the move Qc7 which puts a lot of pressure on me because white's pieces are penetrating my position. Rfc8 is much better.
+Alternative variation: 17... Rfc8 18. Rfc1 (18. Rc7 Rxc7 19. Qxc7 Qa3 [Although black's rook is not ideally placed he should win the a2 pawn and would be doing just fine.] 20. Rc1 h6) 18... Rxc6 19. Rxc6 Qb1+ [And now black wins a free piece.]"
+35,Qc7,f4c7,r4rk1/1NQ2ppp/p1R1pn2/1q1p4/3P4/4P2P/P4PP1/5RK1 b - - 2 18,Threatening a2.
+36,Qa4,b5a4,r4rk1/1NQ2ppp/p1R1pn2/3p4/q2P4/4P2P/P4PP1/5RK1 w - - 3 19,Threatening a2.
+37,Rc2,c6c2,r4rk1/1NQ2ppp/p3pn2/3p4/q2P4/4P2P/P1R2PP1/5RK1 b - - 4 19,"Creating threats of a move like Rxb7 and then Qxc2. However, I think white is better here because all of black's pieces are badly placed."
+38,Ra7,a8a7,5rk1/rNQ2ppp/p3pn2/3p4/q2P4/4P2P/P1R2PP1/5RK1 w - - 5 20,"Creating threats of a move like Rxb7 and then Qxc2. However, I think white is better here because all of black's pieces are badly placed."

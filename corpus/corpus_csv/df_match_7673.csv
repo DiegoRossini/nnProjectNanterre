@@ -1,0 +1,83 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Ruy Lopez (Spanish opening) (C60)
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Ruy Lopez (Spanish opening) (C60)
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Ruy Lopez (Spanish opening) (C60)
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Ruy Lopez (Spanish opening) (C60)
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Ruy Lopez (Spanish opening) (C60)
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Ruy Lopez (C69), exchange variation, Alapin gambit (according to GK database)."
+7,Bxc6,b5c6,r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,"Ruy Lopez (C69), exchange variation, Alapin gambit (according to GK database)."
+8,dxc6,d7c6,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Ruy Lopez (C69), exchange variation, Alapin gambit (according to GK database)."
+9,O-O,e1g1,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5,"Ruy Lopez (C69), exchange variation, Alapin gambit (according to GK database)."
+10,Bg4,c8g4,r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6,"Ruy Lopez (C69), exchange variation, Alapin gambit (according to GK database)."
+11,d3,d2d3,r2qkbnr/1pp2ppp/p1p5/4p3/4P1b1/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 6,And now we're out the book (GK database).
+12,Bxf3,g4f3,r2qkbnr/1pp2ppp/p1p5/4p3/4P3/3P1b2/PPP2PPP/RNBQ1RK1 w kq - 0 7,And now we're out the book (GK database).
+13,Qxf3,d1f3,r2qkbnr/1pp2ppp/p1p5/4p3/4P3/3P1Q2/PPP2PPP/RNB2RK1 b kq - 0 7,And now we're out the book (GK database).
+14,Qf6,d8f6,r3kbnr/1pp2ppp/p1p2q2/4p3/4P3/3P1Q2/PPP2PPP/RNB2RK1 w kq - 1 8,And now we're out the book (GK database).
+15,Qe2,f3e2,r3kbnr/1pp2ppp/p1p2q2/4p3/4P3/3P4/PPP1QPPP/RNB2RK1 b kq - 2 8,And now we're out the book (GK database).
+16,Bc5,f8c5,r3k1nr/1pp2ppp/p1p2q2/2b1p3/4P3/3P4/PPP1QPPP/RNB2RK1 w kq - 3 9,10...g5 declaring kingside attack.
+17,Nc3,b1c3,r3k1nr/1pp2ppp/p1p2q2/2b1p3/4P3/2NP4/PPP1QPPP/R1B2RK1 b kq - 4 9,10...g5 declaring kingside attack.
+18,Ne7,g8e7,r3k2r/1pp1nppp/p1p2q2/2b1p3/4P3/2NP4/PPP1QPPP/R1B2RK1 w kq - 5 10,10...g5 declaring kingside attack.
+19,Kh1,g1h1,r3k2r/1pp1nppp/p1p2q2/2b1p3/4P3/2NP4/PPP1QPPP/R1B2R1K b kq - 6 10,10...g5 declaring kingside attack.
+20,g5,g7g5,r3k2r/1pp1np1p/p1p2q2/2b1p1p1/4P3/2NP4/PPP1QPPP/R1B2R1K w kq - 0 11,10...g5 declaring kingside attack.
+21,Be3,c1e3,r3k2r/1pp1np1p/p1p2q2/2b1p1p1/4P3/2NPB3/PPP1QPPP/R4R1K b kq - 1 11,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+22,Bd6,c5d6,r3k2r/1pp1np1p/p1pb1q2/4p1p1/4P3/2NPB3/PPP1QPPP/R4R1K w kq - 2 12,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+23,Rad1,a1d1,r3k2r/1pp1np1p/p1pb1q2/4p1p1/4P3/2NPB3/PPP1QPPP/3R1R1K b kq - 3 12,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+24,h5,h7h5,r3k2r/1pp1np2/p1pb1q2/4p1pp/4P3/2NPB3/PPP1QPPP/3R1R1K w kq - 0 13,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+25,d4,d3d4,r3k2r/1pp1np2/p1pb1q2/4p1pp/3PP3/2N1B3/PPP1QPPP/3R1R1K b kq - 0 13,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+26,g4,g5g4,r3k2r/1pp1np2/p1pb1q2/4p2p/3PP1p1/2N1B3/PPP1QPPP/3R1R1K w kq - 0 14,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+27,dxe5,d4e5,r3k2r/1pp1np2/p1pb1q2/4P2p/4P1p1/2N1B3/PPP1QPPP/3R1R1K b kq - 0 14,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+28,Bxe5,d6e5,r3k2r/1pp1np2/p1p2q2/4b2p/4P1p1/2N1B3/PPP1QPPP/3R1R1K w kq - 0 15,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+29,f4,f2f4,r3k2r/1pp1np2/p1p2q2/4b2p/4PPp1/2N1B3/PPP1Q1PP/3R1R1K b kq f3 0 15,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+30,Bxc3,e5c3,r3k2r/1pp1np2/p1p2q2/7p/4PPp1/2b1B3/PPP1Q1PP/3R1R1K w kq - 0 16,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+31,bxc3,b2c3,r3k2r/1pp1np2/p1p2q2/7p/4PPp1/2P1B3/P1P1Q1PP/3R1R1K b kq - 0 16,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+32,Rg8,h8g8,r3k1r1/1pp1np2/p1p2q2/7p/4PPp1/2P1B3/P1P1Q1PP/3R1R1K w q - 1 17,Taking the pawn would have set my queen and rook up for a fork by the bishop. Though this doesn't bother me as much as not being able to 0-0-0.
+33,f5,f4f5,r3k1r1/1pp1np2/p1p2q2/5P1p/4P1p1/2P1B3/P1P1Q1PP/3R1R1K b q - 0 17,I snatch the pawn.
+34,Qxc3,f6c3,r3k1r1/1pp1np2/p1p5/5P1p/4P1p1/2q1B3/P1P1Q1PP/3R1R1K w q - 0 18,I snatch the pawn.
+35,Rd3,d1d3,r3k1r1/1pp1np2/p1p5/5P1p/4P1p1/2qRB3/P1P1Q1PP/5R1K b q - 1 18,Creating an escape square.
+36,Qb4,c3b4,r3k1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3RB3/P1P1Q1PP/5R1K w q - 2 19,Creating an escape square.
+37,Bf2,e3f2,r3k1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3R4/P1P1QBPP/5R1K b q - 3 19,Creating an escape square.
+38,Rd8,a8d8,3rk1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3R4/P1P1QBPP/5R1K w - - 4 20,Creating an escape square.
+39,Rfd1,f1d1,3rk1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3R4/P1P1QBPP/3R3K b - - 5 20,Creating an escape square.
+40,Rxd3,d8d3,4k1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3r4/P1P1QBPP/3R3K w - - 0 21,Creating an escape square.
+41,Qxd3,e2d3,4k1r1/1pp1np2/p1p5/5P1p/1q2P1p1/3Q4/P1P2BPP/3R3K b - - 0 21,Creating an escape square.
+42,Qd6,b4d6,4k1r1/1pp1np2/p1pq4/5P1p/4P1p1/3Q4/P1P2BPP/3R3K w - - 1 22,Creating an escape square.
+43,Qe2,d3e2,4k1r1/1pp1np2/p1pq4/5P1p/4P1p1/8/P1P1QBPP/3R3K b - - 2 22,Creating an escape square.
+44,Qa3,d6a3,4k1r1/1pp1np2/p1p5/5P1p/4P1p1/q7/P1P1QBPP/3R3K w - - 3 23,Creating an escape square.
+45,Bg3,f2g3,4k1r1/1pp1np2/p1p5/5P1p/4P1p1/q5B1/P1P1Q1PP/3R3K b - - 4 23,Creating an escape square.
+46,f6,f7f6,4k1r1/1pp1n3/p1p2p2/5P1p/4P1p1/q5B1/P1P1Q1PP/3R3K w - - 0 24,Creating an escape square.
+47,Qd2,e2d2,4k1r1/1pp1n3/p1p2p2/5P1p/4P1p1/q5B1/P1PQ2PP/3R3K b - - 1 24,I snatch another pawn.
+48,Qxa2,a3a2,4k1r1/1pp1n3/p1p2p2/5P1p/4P1p1/6B1/q1PQ2PP/3R3K w - - 0 25,I snatch another pawn.
+49,Qd7+,d2d7,4k1r1/1ppQn3/p1p2p2/5P1p/4P1p1/6B1/q1P3PP/3R3K b - - 1 25,"Being 2+, I decided to give back in exchange for better defense."
+50,Kf7,e8f7,6r1/1ppQnk2/p1p2p2/5P1p/4P1p1/6B1/q1P3PP/3R3K w - - 2 26,"Being 2+, I decided to give back in exchange for better defense."
+51,Qxc7,d7c7,6r1/1pQ1nk2/p1p2p2/5P1p/4P1p1/6B1/q1P3PP/3R3K b - - 0 26,"Being 2+, I decided to give back in exchange for better defense."
+52,Qxc2,a2c2,6r1/1pQ1nk2/p1p2p2/5P1p/4P1p1/6B1/2q3PP/3R3K w - - 0 27,"Being 2+, I decided to give back in exchange for better defense."
+53,Re1,d1e1,6r1/1pQ1nk2/p1p2p2/5P1p/4P1p1/6B1/2q3PP/4R2K b - - 1 27,"Being 2+, I decided to give back in exchange for better defense."
+54,Re8,g8e8,4r3/1pQ1nk2/p1p2p2/5P1p/4P1p1/6B1/2q3PP/4R2K w - - 2 28,"Being 2+, I decided to give back in exchange for better defense."
+55,Qxb7,c7b7,4r3/1Q2nk2/p1p2p2/5P1p/4P1p1/6B1/2q3PP/4R2K b - - 0 28,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+56,a5,a6a5,4r3/1Q2nk2/2p2p2/p4P1p/4P1p1/6B1/2q3PP/4R2K w - - 0 29,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+57,Qa6,b7a6,4r3/4nk2/Q1p2p2/p4P1p/4P1p1/6B1/2q3PP/4R2K b - - 1 29,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+58,a4,a5a4,4r3/4nk2/Q1p2p2/5P1p/p3P1p1/6B1/2q3PP/4R2K w - - 0 30,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+59,Ra1,e1a1,4r3/4nk2/Q1p2p2/5P1p/p3P1p1/6B1/2q3PP/R6K b - - 1 30,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+60,h4,h5h4,4r3/4nk2/Q1p2p2/5P2/p3P1pp/6B1/2q3PP/R6K w - - 0 31,"This was an unnecessary sacrafice, as I thought I would need the B file for my rook when the D file was fine to begin with."
+61,Bxh4,g3h4,4r3/4nk2/Q1p2p2/5P2/p3P1pB/8/2q3PP/R6K b - - 0 31,I snatch a pawn.
+62,Rd8,e8d8,3r4/4nk2/Q1p2p2/5P2/p3P1pB/8/2q3PP/R6K w - - 1 32,I snatch a pawn.
+63,Re1,a1e1,3r4/4nk2/Q1p2p2/5P2/p3P1pB/8/2q3PP/4R2K b - - 2 32,I snatch a pawn.
+64,Rd1,d8d1,8/4nk2/Q1p2p2/5P2/p3P1pB/8/2q3PP/3rR2K w - - 3 33,I snatch a pawn.
+65,Qf1,a6f1,8/4nk2/2p2p2/5P2/p3P1pB/8/2q3PP/3rRQ1K b - - 4 33,I snatch a pawn.
+66,Rd2,d1d2,8/4nk2/2p2p2/5P2/p3P1pB/8/2qr2PP/4RQ1K w - - 5 34,I snatch a pawn.
+67,Rc1,e1c1,8/4nk2/2p2p2/5P2/p3P1pB/8/2qr2PP/2R2Q1K b - - 6 34,I snatch a pawn.
+68,Qxe4,c2e4,8/4nk2/2p2p2/5P2/p3q1pB/8/3r2PP/2R2Q1K w - - 0 35,I snatch a pawn.
+69,Re1,c1e1,8/4nk2/2p2p2/5P2/p3q1pB/8/3r2PP/4RQ1K b - - 1 35,Careful not to take f5 as 36.Rxe7 wins the queen by deflection!
+70,Qd5,e4d5,8/4nk2/2p2p2/3q1P2/p5pB/8/3r2PP/4RQ1K w - - 2 36,Careful not to take f5 as 36.Rxe7 wins the queen by deflection!
+71,Bg3,h4g3,8/4nk2/2p2p2/3q1P2/p5p1/6B1/3r2PP/4RQ1K b - - 3 36,Hoping one pawn will eventually promote...
+72,Nxf5,e7f5,8/5k2/2p2p2/3q1n2/p5p1/6B1/3r2PP/4RQ1K w - - 0 37,Hoping one pawn will eventually promote...
+73,Bf2,g3f2,8/5k2/2p2p2/3q1n2/p5p1/8/3r1BPP/4RQ1K b - - 1 37,Hoping one pawn will eventually promote...
+74,a3,a4a3,8/5k2/2p2p2/3q1n2/6p1/p7/3r1BPP/4RQ1K w - - 0 38,Hoping one pawn will eventually promote...
+75,Ra1,e1a1,8/5k2/2p2p2/3q1n2/6p1/p7/3r1BPP/R4Q1K b - - 1 38,Hoping one pawn will eventually promote...
+76,a2,a3a2,8/5k2/2p2p2/3q1n2/6p1/8/p2r1BPP/R4Q1K w - - 0 39,Hoping one pawn will eventually promote...
+77,Kg1,h1g1,8/5k2/2p2p2/3q1n2/6p1/8/p2r1BPP/R4QK1 b - - 1 39,Hoping one pawn will eventually promote...
+78,c5,c6c5,8/5k2/5p2/2pq1n2/6p1/8/p2r1BPP/R4QK1 w - - 0 40,Hoping one pawn will eventually promote...
+79,g3,g2g3,8/5k2/5p2/2pq1n2/6p1/6P1/p2r1B1P/R4QK1 b - - 0 40,Hoping one pawn will eventually promote...
+80,c4,c5c4,8/5k2/5p2/3q1n2/2p3p1/6P1/p2r1B1P/R4QK1 w - - 0 41,Hoping one pawn will eventually promote...
+81,Qc1,f1c1,8/5k2/5p2/3q1n2/2p3p1/6P1/p2r1B1P/R1Q3K1 b - - 1 41,"Wanting to put my knight to some use, 41.Ne3! covers all the bases and threatens mate in 1. White resigns. Thanks for watching my game. Please, leave a rating!"
+82,Ne3,f5e3,8/5k2/5p2/3q4/2p3p1/4n1P1/p2r1B1P/R1Q3K1 w - - 2 42,"Wanting to put my knight to some use, 41.Ne3! covers all the bases and threatens mate in 1. White resigns. Thanks for watching my game. Please, leave a rating!"

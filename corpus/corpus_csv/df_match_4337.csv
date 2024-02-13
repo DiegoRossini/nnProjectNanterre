@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I think it's called the Vienna game
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I think it's called the Vienna game
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,I think it's called the Vienna game
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Nothing exciting so far...
+5,Bc4,f1c4,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,Nothing exciting so far...
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4,fork trick...
+7,Qh5,d1h5,rnbqkb1r/pppp1ppp/8/4p2Q/2B1n3/2N5/PPPP1PPP/R1B1K1NR b KQkq - 1 4,Qh7?!! aha... trying a version of Scholar's mate? not quite...
+8,Nd6,e4d6,rnbqkb1r/pppp1ppp/3n4/4p2Q/2B5/2N5/PPPP1PPP/R1B1K1NR w KQkq - 2 5,and we are almost in the middle of the Frankenstein-Dracula -the white bishop is attacked
+9,Bb3,c4b3,rnbqkb1r/pppp1ppp/3n4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR b KQkq - 3 5,protect the bishop
+10,Nc6,b8c6,r1bqkb1r/pppp1ppp/2nn4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR w KQkq - 4 6,defend the pawn
+11,Nb5,c3b5,r1bqkb1r/pppp1ppp/2nn4/1N2p2Q/8/1B6/PPPP1PPP/R1B1K1NR b KQkq - 5 6,deflecting the black knight to prepare for checkmate
+12,g6,g7g6,r1bqkb1r/pppp1p1p/2nn2p1/1N2p2Q/8/1B6/PPPP1PPP/R1B1K1NR w KQkq - 0 7,keeping the attack
+13,Qf3,h5f3,r1bqkb1r/pppp1p1p/2nn2p1/1N2p3/8/1B3Q2/PPPP1PPP/R1B1K1NR b KQkq - 1 7,keeping the attack
+14,f5,f7f5,r1bqkb1r/pppp3p/2nn2p1/1N2pp2/8/1B3Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 8,blocking checkmate
+15,Qd5,f3d5,r1bqkb1r/pppp3p/2nn2p1/1N1Qpp2/8/1B6/PPPP1PPP/R1B1K1NR b KQkq - 1 8,threatening checkmate again... is this crazy or what?
+16,Qe7,d8e7,r1b1kb1r/ppppq2p/2nn2p1/1N1Qpp2/8/1B6/PPPP1PPP/R1B1K1NR w KQkq - 2 9,this might seem like an extremely horrible blunder
+17,Nxc7+,b5c7,r1b1kb1r/ppNpq2p/2nn2p1/3Qpp2/8/1B6/PPPP1PPP/R1B1K1NR b KQkq - 0 9,"it's not really, though, as you'll soon see"
+18,Kd8,e8d8,r1bk1b1r/ppNpq2p/2nn2p1/3Qpp2/8/1B6/PPPP1PPP/R1B1K1NR w KQ - 1 10,"it's not really, though, as you'll soon see"
+19,Nxa8,c7a8,N1bk1b1r/pp1pq2p/2nn2p1/3Qpp2/8/1B6/PPPP1PPP/R1B1K1NR b KQ - 0 10,"it's not really, though, as you'll soon see"
+20,b6,b7b6,N1bk1b1r/p2pq2p/1pnn2p1/3Qpp2/8/1B6/PPPP1PPP/R1B1K1NR w KQ - 0 11,who cares about a knight? white is behind in development
+21,d3,d2d3,N1bk1b1r/p2pq2p/1pnn2p1/3Qpp2/8/1B1P4/PPP2PPP/R1B1K1NR b KQ - 0 11,who cares about a knight? white is behind in development
+22,Bb7,c8b7,N2k1b1r/pb1pq2p/1pnn2p1/3Qpp2/8/1B1P4/PPP2PPP/R1B1K1NR w KQ - 1 12,development and attacking is worth more than saving 1 point with Nb6- white threatens Bg5 and he is going to castle queenside-as you'll see white will develop safely and win
+23,h4,h2h4,N2k1b1r/pb1pq2p/1pnn2p1/3Qpp2/7P/1B1P4/PPP2PP1/R1B1K1NR b KQ - 0 12,development and attacking is worth more than saving 1 point with Nb6- white threatens Bg5 and he is going to castle queenside-as you'll see white will develop safely and win
+24,f4,f5f4,N2k1b1r/pb1pq2p/1pnn2p1/3Qp3/5p1P/1B1P4/PPP2PP1/R1B1K1NR w KQ - 0 13,white wants a queen trade
+25,Qf3,d5f3,N2k1b1r/pb1pq2p/1pnn2p1/4p3/5p1P/1B1P1Q2/PPP2PP1/R1B1K1NR b KQ - 1 13,white wants a queen trade
+26,Nd4,c6d4,N2k1b1r/pb1pq2p/1p1n2p1/4p3/3n1p1P/1B1P1Q2/PPP2PP1/R1B1K1NR w KQ - 2 14,white wants a queen trade
+27,Qg4,f3g4,N2k1b1r/pb1pq2p/1p1n2p1/4p3/3n1pQP/1B1P4/PPP2PP1/R1B1K1NR b KQ - 3 14,white wants a queen trade
+28,Bg7,f8g7,N2k3r/pb1pq1bp/1p1n2p1/4p3/3n1pQP/1B1P4/PPP2PP1/R1B1K1NR w KQ - 4 15,Hmm...
+29,Bd2,c1d2,N2k3r/pb1pq1bp/1p1n2p1/4p3/3n1pQP/1B1P4/PPPB1PP1/R3K1NR b KQ - 5 15,Hmm...
+30,Bxa8,b7a8,b2k3r/p2pq1bp/1p1n2p1/4p3/3n1pQP/1B1P4/PPPB1PP1/R3K1NR w KQ - 0 16,Hmm...
+31,O-O-O,e1c1,b2k3r/p2pq1bp/1p1n2p1/4p3/3n1pQP/1B1P4/PPPB1PP1/2KR2NR b - - 1 16,king safety
+32,Bf6,g7f6,b2k3r/p2pq2p/1p1n1bp1/4p3/3n1pQP/1B1P4/PPPB1PP1/2KR2NR w - - 2 17,king safety
+33,Kb1,c1b1,b2k3r/p2pq2p/1p1n1bp1/4p3/3n1pQP/1B1P4/PPPB1PP1/1K1R2NR b - - 3 17,king safety
+34,Qg7,e7g7,b2k3r/p2p2qp/1p1n1bp1/4p3/3n1pQP/1B1P4/PPPB1PP1/1K1R2NR w - - 4 18,king safety
+35,Re1,d1e1,b2k3r/p2p2qp/1p1n1bp1/4p3/3n1pQP/1B1P4/PPPB1PP1/1K2R1NR b - - 5 18,Nothing much here
+36,h5,h7h5,b2k3r/p2p2q1/1p1n1bp1/4p2p/3n1pQP/1B1P4/PPPB1PP1/1K2R1NR w - - 0 19,Nothing much here
+37,Qh3,g4h3,b2k3r/p2p2q1/1p1n1bp1/4p2p/3n1p1P/1B1P3Q/PPPB1PP1/1K2R1NR b - - 1 19,Nothing much here
+38,Nd6f5,d6f5,b2k3r/p2p2q1/1p3bp1/4pn1p/3n1p1P/1B1P3Q/PPPB1PP1/1K2R1NR w - - 2 20,Nothing much here
+39,Ne2,g1e2,b2k3r/p2p2q1/1p3bp1/4pn1p/3n1p1P/1B1P3Q/PPPBNPP1/1K2R2R b - - 3 20,trade!!!!!

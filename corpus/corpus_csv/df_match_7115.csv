@@ -1,0 +1,116 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The game starts with a series of sacrifices, and white with a slight development advantage."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The game starts with a series of sacrifices, and white with a slight development advantage."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The game starts with a series of sacrifices, and white with a slight development advantage."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"The game starts with a series of sacrifices, and white with a slight development advantage."
+5,Bb5+,f1b5,rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"The game starts with a series of sacrifices, and white with a slight development advantage."
+6,Bd7,c8d7,rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"The game starts with a series of sacrifices, and white with a slight development advantage."
+7,Bxd7+,b5d7,rn1qkbnr/pp1Bpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,"The game starts with a series of sacrifices, and white with a slight development advantage."
+8,Nxd7,b8d7,r2qkbnr/pp1npppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"The game starts with a series of sacrifices, and white with a slight development advantage."
+9,d4,d2d4,r2qkbnr/pp1npppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"The game starts with a series of sacrifices, and white with a slight development advantage."
+10,cxd4,c5d4,r2qkbnr/pp1npppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"The game starts with a series of sacrifices, and white with a slight development advantage."
+11,Nxd4,f3d4,r2qkbnr/pp1npppp/3p4/8/3NP3/8/PPP2PPP/RNBQK2R b KQkq - 0 6,"The game starts with a series of sacrifices, and white with a slight development advantage."
+12,g6,g7g6,r2qkbnr/pp1npp1p/3p2p1/8/3NP3/8/PPP2PPP/RNBQK2R w KQkq - 0 7,Both players want to capture the opposing rook with their bishops.
+13,b3,b2b3,r2qkbnr/pp1npp1p/3p2p1/8/3NP3/1P6/P1P2PPP/RNBQK2R b KQkq - 0 7,Both players want to capture the opposing rook with their bishops.
+14,Bg7,f8g7,r2qk1nr/pp1nppbp/3p2p1/8/3NP3/1P6/P1P2PPP/RNBQK2R w KQkq - 1 8,Both players want to capture the opposing rook with their bishops.
+15,Bb2,c1b2,r2qk1nr/pp1nppbp/3p2p1/8/3NP3/1P6/PBP2PPP/RN1QK2R b KQkq - 2 8,Both players want to capture the opposing rook with their bishops.
+16,e6,e7e6,r2qk1nr/pp1n1pbp/3pp1p1/8/3NP3/1P6/PBP2PPP/RN1QK2R w KQkq - 0 9,"White threatens the queen while revealing the bishop, looking to attack while the queen retreats..."
+17,Nxe6,d4e6,r2qk1nr/pp1n1pbp/3pN1p1/8/4P3/1P6/PBP2PPP/RN1QK2R b KQkq - 0 9,"White threatens the queen while revealing the bishop, looking to attack while the queen retreats..."
+18,Qa5+,d8a5,r3k1nr/pp1n1pbp/3pN1p1/q7/4P3/1P6/PBP2PPP/RN1QK2R w KQkq - 1 10,...but the queen forces white to make a defensive move instead.
+19,Qd2,d1d2,r3k1nr/pp1n1pbp/3pN1p1/q7/4P3/1P6/PBPQ1PPP/RN2K2R b KQkq - 2 10,"Black gains a tempo, and material."
+20,Qxd2+,a5d2,r3k1nr/pp1n1pbp/3pN1p1/8/4P3/1P6/PBPq1PPP/RN2K2R w KQkq - 0 11,"Black gains a tempo, and material."
+21,Nxd2,b1d2,r3k1nr/pp1n1pbp/3pN1p1/8/4P3/1P6/PBPN1PPP/R3K2R b KQkq - 0 11,"Black gains a tempo, and material."
+22,Bxb2,g7b2,r3k1nr/pp1n1p1p/3pN1p1/8/4P3/1P6/PbPN1PPP/R3K2R w KQkq - 0 12,"Black gains a tempo, and material."
+23,Rb1,a1b1,r3k1nr/pp1n1p1p/3pN1p1/8/4P3/1P6/PbPN1PPP/1R2K2R b Kkq - 1 12,"However, the threat to the bishop results in a knight fork, and black loses a rook."
+24,Bc3,b2c3,r3k1nr/pp1n1p1p/3pN1p1/8/4P3/1Pb5/P1PN1PPP/1R2K2R w Kkq - 2 13,"However, the threat to the bishop results in a knight fork, and black loses a rook."
+25,Nc7+,e6c7,r3k1nr/ppNn1p1p/3p2p1/8/4P3/1Pb5/P1PN1PPP/1R2K2R b Kkq - 3 13,"However, the threat to the bishop results in a knight fork, and black loses a rook."
+26,Kd8,e8d8,r2k2nr/ppNn1p1p/3p2p1/8/4P3/1Pb5/P1PN1PPP/1R2K2R w K - 4 14,White is very cramped. He decides to move the rook into play.
+27,Nxa8,c7a8,N2k2nr/pp1n1p1p/3p2p1/8/4P3/1Pb5/P1PN1PPP/1R2K2R b K - 0 14,White is very cramped. He decides to move the rook into play.
+28,Ngf6,g8f6,N2k3r/pp1n1p1p/3p1np1/8/4P3/1Pb5/P1PN1PPP/1R2K2R w K - 1 15,White is very cramped. He decides to move the rook into play.
+29,f3,f2f3,N2k3r/pp1n1p1p/3p1np1/8/4P3/1Pb2P2/P1PN2PP/1R2K2R b K - 0 15,White is very cramped. He decides to move the rook into play.
+30,d5,d6d5,N2k3r/pp1n1p1p/5np1/3p4/4P3/1Pb2P2/P1PN2PP/1R2K2R w K - 0 16,White is very cramped. He decides to move the rook into play.
+31,exd5,e4d5,N2k3r/pp1n1p1p/5np1/3P4/8/1Pb2P2/P1PN2PP/1R2K2R b K - 0 16,White is very cramped. He decides to move the rook into play.
+32,Re8+,h8e8,N2kr3/pp1n1p1p/5np1/3P4/8/1Pb2P2/P1PN2PP/1R2K2R w K - 1 17,White is very cramped. He decides to move the rook into play.
+33,Kd1,e1d1,N2kr3/pp1n1p1p/5np1/3P4/8/1Pb2P2/P1PN2PP/1R1K3R b - - 2 17,White is very cramped. He decides to move the rook into play.
+34,Nxd5,f6d5,N2kr3/pp1n1p1p/6p1/3n4/8/1Pb2P2/P1PN2PP/1R1K3R w - - 0 18,White is very cramped. He decides to move the rook into play.
+35,Re1,h1e1,N2kr3/pp1n1p1p/6p1/3n4/8/1Pb2P2/P1PN2PP/1R1KR3 b - - 1 18,White is very cramped. He decides to move the rook into play.
+36,Ne5,d7e5,N2kr3/pp3p1p/6p1/3nn3/8/1Pb2P2/P1PN2PP/1R1KR3 w - - 2 19,White is very cramped. He decides to move the rook into play.
+37,h3,h2h3,N2kr3/pp3p1p/6p1/3nn3/8/1Pb2P1P/P1PN2P1/1R1KR3 b - - 0 19,White is very cramped. He decides to move the rook into play.
+38,Kd7,d8d7,N3r3/pp1k1p1p/6p1/3nn3/8/1Pb2P1P/P1PN2P1/1R1KR3 w - - 1 20,White is very cramped. He decides to move the rook into play.
+39,Re4,e1e4,N3r3/pp1k1p1p/6p1/3nn3/4R3/1Pb2P1P/P1PN2P1/1R1K4 b - - 2 20,White is very cramped. He decides to move the rook into play.
+40,f6,f7f6,N3r3/pp1k3p/5pp1/3nn3/4R3/1Pb2P1P/P1PN2P1/1R1K4 w - - 0 21,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+41,Ra4,e4a4,N3r3/pp1k3p/5pp1/3nn3/R7/1Pb2P1P/P1PN2P1/1R1K4 b - - 1 21,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+42,Rxa8,e8a8,r7/pp1k3p/5pp1/3nn3/R7/1Pb2P1P/P1PN2P1/1R1K4 w - - 0 22,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+43,Ne4,d2e4,r7/pp1k3p/5pp1/3nn3/R3N3/1Pb2P1P/P1P3P1/1R1K4 b - - 1 22,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+44,Ne3+,d5e3,r7/pp1k3p/5pp1/4n3/R3N3/1Pb1nP1P/P1P3P1/1R1K4 w - - 2 23,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+45,Ke2,d1e2,r7/pp1k3p/5pp1/4n3/R3N3/1Pb1nP1P/P1P1K1P1/1R6 b - - 3 23,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+46,Nxg2,e3g2,r7/pp1k3p/5pp1/4n3/R3N3/1Pb2P1P/P1P1K1n1/1R6 w - - 0 24,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+47,Nxc3,e4c3,r7/pp1k3p/5pp1/4n3/R7/1PN2P1P/P1P1K1n1/1R6 b - - 0 24,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+48,Re8,a8e8,4r3/pp1k3p/5pp1/4n3/R7/1PN2P1P/P1P1K1n1/1R6 w - - 1 25,A clever move; the knight will be moved to reveal the check from behind. White must move his king out of the way.
+49,Rd1+,b1d1,4r3/pp1k3p/5pp1/4n3/R7/1PN2P1P/P1P1K1n1/3R4 b - - 2 25,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+50,Kc6,d7c6,4r3/pp5p/2k2pp1/4n3/R7/1PN2P1P/P1P1K1n1/3R4 w - - 3 26,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+51,Kf2,e2f2,4r3/pp5p/2k2pp1/4n3/R7/1PN2P1P/P1P2Kn1/3R4 b - - 4 26,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+52,Nf4,g2f4,4r3/pp5p/2k2pp1/4n3/R4n2/1PN2P1P/P1P2K2/3R4 w - - 5 27,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+53,Rxf4,a4f4,4r3/pp5p/2k2pp1/4n3/5R2/1PN2P1P/P1P2K2/3R4 b - - 0 27,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+54,Re6,e8e6,8/pp5p/2k1rpp1/4n3/5R2/1PN2P1P/P1P2K2/3R4 w - - 1 28,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+55,Ra4,f4a4,8/pp5p/2k1rpp1/4n3/R7/1PN2P1P/P1P2K2/3R4 b - - 2 28,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+56,a6,a7a6,8/1p5p/p1k1rpp1/4n3/R7/1PN2P1P/P1P2K2/3R4 w - - 0 29,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+57,Rb4,a4b4,8/1p5p/p1k1rpp1/4n3/1R6/1PN2P1P/P1P2K2/3R4 b - - 1 29,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+58,b5,b7b5,8/7p/p1k1rpp1/1p2n3/1R6/1PN2P1P/P1P2K2/3R4 w - - 0 30,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+59,f4,f3f4,8/7p/p1k1rpp1/1p2n3/1R3P2/1PN4P/P1P2K2/3R4 b - - 0 30,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+60,Nd7,e5d7,8/3n3p/p1k1rpp1/1p6/1R3P2/1PN4P/P1P2K2/3R4 w - - 1 31,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+61,Re4,b4e4,8/3n3p/p1k1rpp1/1p6/4RP2/1PN4P/P1P2K2/3R4 b - - 2 31,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+62,Rxe4,e6e4,8/3n3p/p1k2pp1/1p6/4rP2/1PN4P/P1P2K2/3R4 w - - 0 32,"White, ahead in material, offers a rook exchange. Black, not wanting to retreat, accepts."
+63,Nxe4,c3e4,8/3n3p/p1k2pp1/1p6/4NP2/1P5P/P1P2K2/3R4 b - - 0 32,A pointless check; it achieves nothing.
+64,f5,f6f5,8/3n3p/p1k3p1/1p3p2/4NP2/1P5P/P1P2K2/3R4 w - - 0 33,A pointless check; it achieves nothing.
+65,Ng5,e4g5,8/3n3p/p1k3p1/1p3pN1/5P2/1P5P/P1P2K2/3R4 b - - 1 33,A pointless check; it achieves nothing.
+66,Nf6,d7f6,8/7p/p1k2np1/1p3pN1/5P2/1P5P/P1P2K2/3R4 w - - 2 34,A pointless check; it achieves nothing.
+67,Rd8,d1d8,3R4/7p/p1k2np1/1p3pN1/5P2/1P5P/P1P2K2/8 b - - 3 34,A pointless check; it achieves nothing.
+68,Nd7,f6d7,3R4/3n3p/p1k3p1/1p3pN1/5P2/1P5P/P1P2K2/8 w - - 4 35,A pointless check; it achieves nothing.
+69,Rh8,d8h8,7R/3n3p/p1k3p1/1p3pN1/5P2/1P5P/P1P2K2/8 b - - 5 35,A pointless check; it achieves nothing.
+70,Nf6,d7f6,7R/7p/p1k2np1/1p3pN1/5P2/1P5P/P1P2K2/8 w - - 6 36,A pointless check; it achieves nothing.
+71,Nxh7,g5h7,7R/7N/p1k2np1/1p3p2/5P2/1P5P/P1P2K2/8 b - - 0 36,A pointless check; it achieves nothing.
+72,Ne4+,f6e4,7R/7N/p1k3p1/1p3p2/4nP2/1P5P/P1P2K2/8 w - - 1 37,A pointless check; it achieves nothing.
+73,Kf3,f2f3,7R/7N/p1k3p1/1p3p2/4nP2/1P3K1P/P1P5/8 b - - 2 37,A pointless check; it achieves nothing.
+74,Kc5,c6c5,7R/7N/p5p1/1pk2p2/4nP2/1P3K1P/P1P5/8 w - - 3 38,A pointless check; it achieves nothing.
+75,Ra8,h8a8,R7/7N/p5p1/1pk2p2/4nP2/1P3K1P/P1P5/8 b - - 4 38,A pointless check; it achieves nothing.
+76,Kb6,c5b6,R7/7N/pk4p1/1p3p2/4nP2/1P3K1P/P1P5/8 w - - 5 39,A pointless check; it achieves nothing.
+77,Ng5,h7g5,R7/8/pk4p1/1p3pN1/4nP2/1P3K1P/P1P5/8 b - - 6 39,A pointless check; it achieves nothing.
+78,Nd2+,e4d2,R7/8/pk4p1/1p3pN1/5P2/1P3K1P/P1Pn4/8 w - - 7 40,A pointless check; it achieves nothing.
+79,Ke2,f3e2,R7/8/pk4p1/1p3pN1/5P2/1P5P/P1PnK3/8 b - - 8 40,A much better knight fork.
+80,Nb1,d2b1,R7/8/pk4p1/1p3pN1/5P2/1P5P/P1P1K3/1n6 w - - 9 41,A much better knight fork.
+81,Rg8,a8g8,6R1/8/pk4p1/1p3pN1/5P2/1P5P/P1P1K3/1n6 b - - 10 41,A much better knight fork.
+82,Nc3+,b1c3,6R1/8/pk4p1/1p3pN1/5P2/1Pn4P/P1P1K3/8 w - - 11 42,A much better knight fork.
+83,Kd3,e2d3,6R1/8/pk4p1/1p3pN1/5P2/1PnK3P/P1P5/8 b - - 12 42,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+84,Nxa2,c3a2,6R1/8/pk4p1/1p3pN1/5P2/1P1K3P/n1P5/8 w - - 0 43,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+85,Rxg6+,g8g6,8/8/pk4R1/1p3pN1/5P2/1P1K3P/n1P5/8 b - - 0 43,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+86,Ka5,b6a5,8/8/p5R1/kp3pN1/5P2/1P1K3P/n1P5/8 w - - 1 44,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+87,Rf6,g6f6,8/8/p4R2/kp3pN1/5P2/1P1K3P/n1P5/8 b - - 2 44,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+88,Nb4+,a2b4,8/8/p4R2/kp3pN1/1n3P2/1P1K3P/2P5/8 w - - 3 45,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+89,Kc3,d3c3,8/8/p4R2/kp3pN1/1n3P2/1PK4P/2P5/8 b - - 4 45,"Possibly the worst move available. It opens the door for the knight fork, Nd5!+"
+90,Nd5+,b4d5,8/8/p4R2/kp1n1pN1/5P2/1PK4P/2P5/8 w - - 5 46,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+91,Kd4,c3d4,8/8/p4R2/kp1n1pN1/3K1P2/1P5P/2P5/8 b - - 6 46,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+92,Nxf6,d5f6,8/8/p4n2/kp3pN1/3K1P2/1P5P/2P5/8 w - - 0 47,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+93,Ke5,d4e5,8/8/p4n2/kp2KpN1/5P2/1P5P/2P5/8 b - - 1 47,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+94,Nh5,f6h5,8/8/p7/kp2KpNn/5P2/1P5P/2P5/8 w - - 2 48,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+95,Kxf5,e5f5,8/8/p7/kp3KNn/5P2/1P5P/2P5/8 b - - 0 48,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+96,Ng3+,h5g3,8/8/p7/kp3KN1/5P2/1P4nP/2P5/8 w - - 1 49,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+97,Kg4,f5g4,8/8/p7/kp4N1/5PK1/1P4nP/2P5/8 b - - 2 49,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+98,Ne2,g3e2,8/8/p7/kp4N1/5PK1/1P5P/2P1n3/8 w - - 3 50,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+99,h4,h3h4,8/8/p7/kp4N1/5PKP/1P6/2P1n3/8 b - - 0 50,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+100,Kb4,a5b4,8/8/p7/1p4N1/1k3PKP/1P6/2P1n3/8 w - - 1 51,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+101,h5,h4h5,8/8/p7/1p4NP/1k3PK1/1P6/2P1n3/8 b - - 0 51,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+102,Nd4,e2d4,8/8/p7/1p4NP/1k1n1PK1/1P6/2P5/8 w - - 1 52,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+103,h6,h5h6,8/8/p6P/1p4N1/1k1n1PK1/1P6/2P5/8 b - - 0 52,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+104,Nxc2,d4c2,8/8/p6P/1p4N1/1k3PK1/1P6/2n5/8 w - - 0 53,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+105,h7,h6h7,8/7P/p7/1p4N1/1k3PK1/1P6/2n5/8 b - - 0 53,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+106,Kxb3,b4b3,8/7P/p7/1p4N1/5PK1/1k6/2n5/8 w - - 0 54,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+107,h8=Q,h7h8q,7Q/8/p7/1p4N1/5PK1/1k6/2n5/8 b - - 0 54,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+108,Ka4,b3a4,7Q/8/p7/1p4N1/k4PK1/8/2n5/8 w - - 1 55,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+109,Qe5,h8e5,8/8/p7/1p2Q1N1/k4PK1/8/2n5/8 b - - 2 55,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+110,a5,a6a5,8/8/8/pp2Q1N1/k4PK1/8/2n5/8 w - - 0 56,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+111,Qe4+,e5e4,8/8/8/pp4N1/k3QPK1/8/2n5/8 b - - 1 56,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+112,Nb4,c2b4,8/8/8/pp4N1/kn2QPK1/8/8/8 w - - 2 57,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+113,f5,f4f5,8/8/8/pp3PN1/kn2Q1K1/8/8/8 b - - 0 57,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+114,Ka3,a4a3,8/8/8/pp3PN1/1n2Q1K1/k7/8/8 w - - 1 58,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."
+115,f6,f5f6,8/8/5P2/pp4N1/1n2Q1K1/k7/8/8 b - - 0 58,"The second pawn is now unstoppable. Faced with the prospect of two queens, Black resigns."

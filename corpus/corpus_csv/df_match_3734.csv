@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"White played English opening. It is one of the most popular openings.
+Making room for his Q and controlling the important W sq d5."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"Black puts a pawn in the center.
+Controls 2 dark sqs d4 and f4 and opens diagonals for Q and B."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,"Nice developing move, attacking central white squares.
+One of the good things about English opening is that c pawn is not locked by the N."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,Development of K side.
+5,g3,g2g3,rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,g3 so white can place B on g2 to put more pressure on white squares.
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/5n2/4p3/1bP5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Clearing the way for castling and putting some pressure on white queen side.
+7,Bg2,f1g2,rnbqk2r/pppp1ppp/5n2/4p3/1bP5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,Fianchetto.
+8,Nc6,b8c6,r1bqk2r/pppp1ppp/2n2n2/4p3/1bP5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5,"Another development, but bad thing N has blocked the c pawn.
+0-0 is better. Then d6 and later Nbd7."
+9,e4,e2e4,r1bqk2r/pppp1ppp/2n2n2/4p3/1bP1P3/2N3P1/PP1P1PBP/R1BQK1NR b KQkq - 0 5,"Gaining space and occupying the important white square.
+Long diagonal is blocked."
+10,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/4p3/1bP1P3/2N3P1/PP1P1PBP/R1BQK1NR w KQkq - 0 6,Making way for QB.
+11,d3,d2d3,r1bqk2r/ppp2ppp/2np1n2/4p3/1bP1P3/2NP2P1/PP3PBP/R1BQK1NR b KQkq - 0 6,Nge2 is alternative.
+12,O-O,e8g8,r1bq1rk1/ppp2ppp/2np1n2/4p3/1bP1P3/2NP2P1/PP3PBP/R1BQK1NR w KQ - 1 7,Important move.
+13,Nge2,g1e2,r1bq1rk1/ppp2ppp/2np1n2/4p3/1bP1P3/2NP2P1/PP2NPBP/R1BQK2R b KQ - 2 7,"Supporting QN.
+Nf3 blocks the f pawn."
+14,a5,a7a5,r1bq1rk1/1pp2ppp/2np1n2/p3p3/1bP1P3/2NP2P1/PP2NPBP/R1BQK2R w KQ - 0 8,"Perhaps a mistake.
+... a6 seems better."
+15,O-O,e1g1,r1bq1rk1/1pp2ppp/2np1n2/p3p3/1bP1P3/2NP2P1/PP2NPBP/R1BQ1RK1 b - - 1 8,Pinning f pawn and further controlling d4 sq.
+16,Bc5,b4c5,r1bq1rk1/1pp2ppp/2np1n2/p1b1p3/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w - - 2 9,Pinning f pawn and further controlling d4 sq.
+17,Bg5,c1g5,r1bq1rk1/1pp2ppp/2np1n2/p1b1p1B1/2P1P3/2NP2P1/PP2NPBP/R2Q1RK1 b - - 3 9,"Developing and pinning.
+White's plan is to play Nd5 then capturing on f6, breaking the king side."
+18,h6,h7h6,r1bq1rk1/1pp2pp1/2np1n1p/p1b1p1B1/2P1P3/2NP2P1/PP2NPBP/R2Q1RK1 w - - 0 10,Putting question to the B. Blk wanted to resolve the pressure on his castled position.
+19,Be3,g5e3,r1bq1rk1/1pp2pp1/2np1n1p/p1b1p3/2P1P3/2NPB1P1/PP2NPBP/R2Q1RK1 b - - 1 10,"White did'nt give up his important B for the N.
+if BxN QxB
+  Nd5 Qd8
+i think blk pos is fine."
+20,Bxe3,c5e3,r1bq1rk1/1pp2pp1/2np1n1p/p3p3/2P1P3/2NPb1P1/PP2NPBP/R2Q1RK1 w - - 0 11,So white have some weakness.
+21,fxe3,f2e3,r1bq1rk1/1pp2pp1/2np1n1p/p3p3/2P1P3/2NPP1P1/PP2N1BP/R2Q1RK1 b - - 0 11,Doubled pawns.

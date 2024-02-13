@@ -1,0 +1,87 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Hoping to transpose to a Nimzo.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Hoping to transpose to a Nimzo.
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,Hoping to transpose to a Nimzo.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Hoping to transpose to a Nimzo.
+5,Bg5,c1g5,rnbqkb1r/pppp1ppp/4pn2/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Also good are Be7 and a6.
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p3B1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Also good are Be7 and a6.
+7,c3,c2c3,rnbqkb1r/pp1p1ppp/4pn2/2p3B1/3P4/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,Also good are Be7 and a6.
+8,h6,h7h6,rnbqkb1r/pp1p1pp1/4pn1p/2p3B1/3P4/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 0 5,Also good are Be7 and a6.
+9,Bf4,g5f4,rnbqkb1r/pp1p1pp1/4pn1p/2p5/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 1 5,Also good are Be7 and a6.
+10,Nc6,b8c6,r1bqkb1r/pp1p1pp1/2n1pn1p/2p5/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 2 6,Also good are Be7 and a6.
+11,e3,e2e3,r1bqkb1r/pp1p1pp1/2n1pn1p/2p5/3P1B2/2P1PN2/PP3PPP/RN1QKB1R b KQkq - 0 6,Also good are Be7 and a6.
+12,Nh5,f6h5,r1bqkb1r/pp1p1pp1/2n1p2p/2p4n/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 1 7,Also good are Be7 and a6.
+13,Bg3,f4g3,r1bqkb1r/pp1p1pp1/2n1p2p/2p4n/3P4/2P1PNB1/PP3PPP/RN1QKB1R b KQkq - 2 7,Also good are Be7 and a6.
+14,Nxg3,h5g3,r1bqkb1r/pp1p1pp1/2n1p2p/2p5/3P4/2P1PNn1/PP3PPP/RN1QKB1R w KQkq - 0 8,Also good are Be7 and a6.
+15,hxg3,h2g3,r1bqkb1r/pp1p1pp1/2n1p2p/2p5/3P4/2P1PNP1/PP3PP1/RN1QKB1R b KQkq - 0 8,Also good are Be7 and a6.
+16,d5,d7d5,r1bqkb1r/pp3pp1/2n1p2p/2pp4/3P4/2P1PNP1/PP3PP1/RN1QKB1R w KQkq - 0 9,Also good are Be7 and a6.
+17,Nbd2,b1d2,r1bqkb1r/pp3pp1/2n1p2p/2pp4/3P4/2P1PNP1/PP1N1PP1/R2QKB1R b KQkq - 1 9,Also good are Be7 and a6.
+18,Bd6,f8d6,r1bqk2r/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PP1N1PP1/R2QKB1R w KQkq - 2 10,Also good are Be7 and a6.
+19,Be2,f1e2,r1bqk2r/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PP1NBPP1/R2QK2R b KQkq - 3 10,"Although not terrible, I think White is less safe on the queenside."
+20,O-O,e8g8,r1bq1rk1/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PP1NBPP1/R2QK2R w KQ - 4 11,"Although not terrible, I think White is less safe on the queenside."
+21,Qc2,d1c2,r1bq1rk1/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PPQNBPP1/R3K2R b KQ - 5 11,"Although not terrible, I think White is less safe on the queenside."
+22,Re8,f8e8,r1bqr1k1/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PPQNBPP1/R3K2R w KQ - 6 12,"Although not terrible, I think White is less safe on the queenside."
+23,O-O-O,e1c1,r1bqr1k1/pp3pp1/2nbp2p/2pp4/3P4/2P1PNP1/PPQNBPP1/2KR3R b - - 7 12,"Although not terrible, I think White is less safe on the queenside."
+24,Bd7,c8d7,r2qr1k1/pp1b1pp1/2nbp2p/2pp4/3P4/2P1PNP1/PPQNBPP1/2KR3R w - - 8 13,"Or Rc8.
+
+Now 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn."
+25,Kb1,c1b1,r2qr1k1/pp1b1pp1/2nbp2p/2pp4/3P4/2P1PNP1/PPQNBPP1/1K1R3R b - - 9 13,"Or Rc8.
+
+Now 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn."
+26,cxd4,c5d4,r2qr1k1/pp1b1pp1/2nbp2p/3p4/3p4/2P1PNP1/PPQNBPP1/1K1R3R w - - 0 14,"Or Rc8.
+
+Now 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn."
+27,exd4,e3d4,r2qr1k1/pp1b1pp1/2nbp2p/3p4/3P4/2P2NP1/PPQNBPP1/1K1R3R b - - 0 14,"Or Rc8.
+
+Now 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn."
+28,b5,b7b5,r2qr1k1/p2b1pp1/2nbp2p/1p1p4/3P4/2P2NP1/PPQNBPP1/1K1R3R w - - 0 15,"Or Rc8.
+
+Now 15. Bxb5 Nb4 16. cxb4 Bxb5 17. a3 a5 18. a4 Rc8 19. Qb3 Bc4 20. Nxc4 dxc4 21. Qc2 axb4 and black has plenty of compensation for the pawn."
+29,Nh2,f3h2,r2qr1k1/p2b1pp1/2nbp2p/1p1p4/3P4/2P3P1/PPQNBPPN/1K1R3R b - - 1 15,Accomplishes next to nothing.
+30,b4,b5b4,r2qr1k1/p2b1pp1/2nbp2p/3p4/1p1P4/2P3P1/PPQNBPPN/1K1R3R w - - 0 16,Black is better here.
+31,Nb3,d2b3,r2qr1k1/p2b1pp1/2nbp2p/3p4/1p1P4/1NP3P1/PPQ1BPPN/1K1R3R b - - 1 16,Black keeps the pressure on.  Na5 is also interesting.
+32,bxc3,b4c3,r2qr1k1/p2b1pp1/2nbp2p/3p4/3P4/1Np3P1/PPQ1BPPN/1K1R3R w - - 0 17,Black keeps the pressure on.  Na5 is also interesting.
+33,bxc3,b2c3,r2qr1k1/p2b1pp1/2nbp2p/3p4/3P4/1NP3P1/P1Q1BPPN/1K1R3R b - - 0 17,Black keeps the pressure on.  Na5 is also interesting.
+34,Rb8,a8b8,1r1qr1k1/p2b1pp1/2nbp2p/3p4/3P4/1NP3P1/P1Q1BPPN/1K1R3R w - - 1 18,Black keeps the pressure on.  Na5 is also interesting.
+35,Ka1,b1a1,1r1qr1k1/p2b1pp1/2nbp2p/3p4/3P4/1NP3P1/P1Q1BPPN/K2R3R b - - 2 18,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+36,Na5,c6a5,1r1qr1k1/p2b1pp1/3bp2p/n2p4/3P4/1NP3P1/P1Q1BPPN/K2R3R w - - 3 19,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+37,Nxa5,b3a5,1r1qr1k1/p2b1pp1/3bp2p/N2p4/3P4/2P3P1/P1Q1BPPN/K2R3R b - - 0 19,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+38,Qxa5,d8a5,1r2r1k1/p2b1pp1/3bp2p/q2p4/3P4/2P3P1/P1Q1BPPN/K2R3R w - - 0 20,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+39,Rdb1,d1b1,1r2r1k1/p2b1pp1/3bp2p/q2p4/3P4/2P3P1/P1Q1BPPN/KR5R b - - 1 20,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+40,e5,e6e5,1r2r1k1/p2b1pp1/3b3p/q2pp3/3P4/2P3P1/P1Q1BPPN/KR5R w - - 0 21,"The key move.  Threatens Bf5.
+
+If 21. Bd3 exd4 22. cxd4 Ba4 causes problems for white's queen.  23. Qc1 Rxb1+  24. Qxb1 Ba3 and white will have to throw away material to delay mate.
+
+If  21. Rhc1 Rxb1+ 22. Rxb1 exd4 23. cxd4 Bb4 24. Rc1 Bd2 25. Qc5 Rxe2"
+41,Bf3,e2f3,1r2r1k1/p2b1pp1/3b3p/q2pp3/3P4/2P2BP1/P1Q2PPN/KR5R b - - 1 21,
+42,Bf5,d7f5,1r2r1k1/p4pp1/3b3p/q2ppb2/3P4/2P2BP1/P1Q2PPN/KR5R w - - 2 22,Now  23. Qxd4 Rxb1+ 24. Rxb1 Be5 25. Qe3 Qxc3+ 26. Qxc3 Bxc3+
+43,Qd2,c2d2,1r2r1k1/p4pp1/3b3p/q2ppb2/3P4/2P2BP1/P2Q1PPN/KR5R b - - 3 22,Now  23. Qxd4 Rxb1+ 24. Rxb1 Be5 25. Qe3 Qxc3+ 26. Qxc3 Bxc3+
+44,exd4,e5d4,1r2r1k1/p4pp1/3b3p/q2p1b2/3p4/2P2BP1/P2Q1PPN/KR5R w - - 0 23,Now  23. Qxd4 Rxb1+ 24. Rxb1 Be5 25. Qe3 Qxc3+ 26. Qxc3 Bxc3+
+45,Rxb8,b1b8,1R2r1k1/p4pp1/3b3p/q2p1b2/3p4/2P2BP1/P2Q1PPN/K6R b - - 0 23,
+46,Rxb8,e8b8,1r4k1/p4pp1/3b3p/q2p1b2/3p4/2P2BP1/P2Q1PPN/K6R w - - 0 24,
+47,g4,g3g4,1r4k1/p4pp1/3b3p/q2p1b2/3p2P1/2P2B2/P2Q1PPN/K6R b - - 0 24,
+48,dxc3,d4c3,1r4k1/p4pp1/3b3p/q2p1b2/6P1/2p2B2/P2Q1PPN/K6R w - - 0 25,
+49,Qe3,d2e3,1r4k1/p4pp1/3b3p/q2p1b2/6P1/2p1QB2/P4PPN/K6R b - - 1 25,
+50,Qa3,a5a3,1r4k1/p4pp1/3b3p/3p1b2/6P1/q1p1QB2/P4PPN/K6R w - - 2 26,
+51,Qe2,e3e2,1r4k1/p4pp1/3b3p/3p1b2/6P1/q1p2B2/P3QPPN/K6R b - - 3 26,
+52,Rb2,b8b2,6k1/p4pp1/3b3p/3p1b2/6P1/q1p2B2/Pr2QPPN/K6R w - - 4 27,

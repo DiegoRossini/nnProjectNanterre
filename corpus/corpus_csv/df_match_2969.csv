@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Mistake (Black oversaw the next move)
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Mistake (Black oversaw the next move)
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Mistake (Black oversaw the next move)
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,Mistake (Black oversaw the next move)
+5,dxc6,d5c6,rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3,Mistake (Black oversaw the next move)
+6,Nxc6,b8c6,r1bqkbnr/pp2pppp/2n5/8/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 4,Mistake (Black oversaw the next move)
+7,Nf3,g1f3,r1bqkbnr/pp2pppp/2n5/8/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4,Mistake (Black oversaw the next move)
+8,e5,e7e5,r1bqkbnr/pp3ppp/2n5/4p3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5,Mistake (Black oversaw the next move)
+9,Bb5,f1b5,r1bqkbnr/pp3ppp/2n5/1B2p3/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 5,Mistake (Black oversaw the next move)
+10,Nge7,g8e7,r1bqkb1r/pp2nppp/2n5/1B2p3/8/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 6,Mistake (Black oversaw the next move)
+11,Nxe5,f3e5,r1bqkb1r/pp2nppp/2n5/1B2N3/8/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,"Black has now two pawns less but four pieces out and the initiative. The mistake was, maybe, not so serious."
+12,Qd5,d8d5,r1b1kb1r/pp2nppp/2n5/1B1qN3/8/8/PPPP1PPP/RNBQK2R w KQkq - 1 7,"Black has now two pawns less but four pieces out and the initiative. The mistake was, maybe, not so serious."
+13,Bxc6+,b5c6,r1b1kb1r/pp2nppp/2B5/3qN3/8/8/PPPP1PPP/RNBQK2R b KQkq - 0 7,Only way not to lose a piece
+14,Nxc6,e7c6,r1b1kb1r/pp3ppp/2n5/3qN3/8/8/PPPP1PPP/RNBQK2R w KQkq - 0 8,Developping and pining the only piece white has out
+15,Nf3,e5f3,r1b1kb1r/pp3ppp/2n5/3q4/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 8,Developping and pining the only piece white has out
+16,Bg4,c8g4,r3kb1r/pp3ppp/2n5/3q4/6b1/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 9,Developping and pining the only piece white has out
+17,Nc3,b1c3,r3kb1r/pp3ppp/2n5/3q4/6b1/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 9,It's a risky move.
+18,Qh5,d5h5,r3kb1r/pp3ppp/2n5/7q/6b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 10,It's a risky move.
+19,d4,d2d4,r3kb1r/pp3ppp/2n5/7q/3P2b1/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 10,Black hesitated to castle long which would give a quick and mighty attack but a very weak king. I finally opted for developping. Black pieces are separated but everybody is protected and they cover quite a big amount of squares.
+20,Bb4,f8b4,r3k2r/pp3ppp/2n5/7q/1b1P2b1/2N2N2/PPP2PPP/R1BQK2R w KQkq - 1 11,Black hesitated to castle long which would give a quick and mighty attack but a very weak king. I finally opted for developping. Black pieces are separated but everybody is protected and they cover quite a big amount of squares.
+21,Be3,c1e3,r3k2r/pp3ppp/2n5/7q/1b1P2b1/2N1BN2/PPP2PPP/R2QK2R b KQkq - 2 11,"Now, the center is the next objective"
+22,O-O,e8g8,r4rk1/pp3ppp/2n5/7q/1b1P2b1/2N1BN2/PPP2PPP/R2QK2R w KQ - 3 12,"Now, the center is the next objective"
+23,a3,a2a3,r4rk1/pp3ppp/2n5/7q/1b1P2b1/P1N1BN2/1PP2PPP/R2QK2R b KQ - 0 12,"But black has to defend. I hesitated again to trade for, if  it gives white a double pawn which compensate a bit the two pawns advance, it opens the b file."
+24,Bxc3+,b4c3,r4rk1/pp3ppp/2n5/7q/3P2b1/P1b1BN2/1PP2PPP/R2QK2R w KQ - 0 13,"But black has to defend. I hesitated again to trade for, if  it gives white a double pawn which compensate a bit the two pawns advance, it opens the b file."
+25,bxc3,b2c3,r4rk1/pp3ppp/2n5/7q/3P2b1/P1P1BN2/2P2PPP/R2QK2R b KQ - 0 13,Central open file. The place to be.
+26,Rfe8,f8e8,r3r1k1/pp3ppp/2n5/7q/3P2b1/P1P1BN2/2P2PPP/R2QK2R w KQ - 1 14,Central open file. The place to be.
+27,h3,h2h3,r3r1k1/pp3ppp/2n5/7q/3P2b1/P1P1BN1P/2P2PP1/R2QK2R b KQ - 0 14,"Mistake, castle would have been better.
+Another hesitation but with two pawns late, black didn't dare to trade bishop and queen for a second double pawn. (with bishop alone, I might have try this line because white's pawn structure would have been far inferior. further more I begin to have a plan to attack c2 and c3."
+28,Bd7,g4d7,r3r1k1/pp1b1ppp/2n5/7q/3P4/P1P1BN1P/2P2PP1/R2QK2R w KQ - 1 15,"Mistake, castle would have been better.
+Another hesitation but with two pawns late, black didn't dare to trade bishop and queen for a second double pawn. (with bishop alone, I might have try this line because white's pawn structure would have been far inferior. further more I begin to have a plan to attack c2 and c3."
+29,g4,g2g4,r3r1k1/pp1b1ppp/2n5/7q/3P2P1/P1P1BN1P/2P2P2/R2QK2R b KQ - 0 15,"Mistake, white oversaw the next move."
+30,Qa5,h5a5,r3r1k1/pp1b1ppp/2n5/q7/3P2P1/P1P1BN1P/2P2P2/R2QK2R w KQ - 1 16,Mistake
+31,Qd3,d1d3,r3r1k1/pp1b1ppp/2n5/q7/3P2P1/P1PQBN1P/2P2P2/R3K2R b KQ - 2 16,Mistake
+32,Qd5,a5d5,r3r1k1/pp1b1ppp/2n5/3q4/3P2P1/P1PQBN1P/2P2P2/R3K2R w KQ - 3 17,"Mistake, Black has now a winning sequency"
+33,Ke2,e1e2,r3r1k1/pp1b1ppp/2n5/3q4/3P2P1/P1PQBN1P/2P1KP2/R6R b - - 4 17,"Mistake, Black has now a winning sequency"
+34,Na5,c6a5,r3r1k1/pp1b1ppp/8/n2q4/3P2P1/P1PQBN1P/2P1KP2/R6R w - - 5 18,"If I'm right, white .loses at least a knight and gets a very bad position."
+35,Ne5,f3e5,r3r1k1/pp1b1ppp/8/n2qN3/3P2P1/P1PQB2P/2P1KP2/R6R b - - 6 18,"Mistake, to avoid losing a knight, white loses far more."
+36,Bb5,d7b5,r3r1k1/pp3ppp/8/nb1qN3/3P2P1/P1PQB2P/2P1KP2/R6R w - - 7 19,The most natural move. Anyway white has little choice.
+37,c4,c3c4,r3r1k1/pp3ppp/8/nb1qN3/2PP2P1/P2QB2P/2P1KP2/R6R b - - 0 19,The most natural move. Anyway white has little choice.
+38,Nxc4,a5c4,r3r1k1/pp3ppp/8/1b1qN3/2nP2P1/P2QB2P/2P1KP2/R6R w - - 0 20,Better than Bxc4
+39,Qc3,d3c3,r3r1k1/pp3ppp/8/1b1qN3/2nP2P1/P1Q1B2P/2P1KP2/R6R b - - 1 20,Only way to save the lady
+40,Nxe5+,c4e5,r3r1k1/pp3ppp/8/1b1qn3/3P2P1/P1Q1B2P/2P1KP2/R6R w - - 0 21,"Better than Nf3 because the knight would have blocked the black queen.
+White can do nothing anyway, he is mate in a couple of moves."
+41,Kd2,e2d2,r3r1k1/pp3ppp/8/1b1qn3/3P2P1/P1Q1B2P/2PK1P2/R6R b - - 1 21,"Better than Nf3 because the knight would have blocked the black queen.
+White can do nothing anyway, he is mate in a couple of moves."
+42,Nc4+,e5c4,r3r1k1/pp3ppp/8/1b1q4/2nP2P1/P1Q1B2P/2PK1P2/R6R w - - 2 22,"Better than Nf3 because the knight would have blocked the black queen.
+White can do nothing anyway, he is mate in a couple of moves."

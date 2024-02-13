@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,traps his knight
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,traps his knight
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,traps his knight
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,traps his knight
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,traps his knight
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,traps his knight
+7,Nc3,b1c3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,traps his knight
+8,d6,d7d6,r1bqk1nr/ppp2ppp/2np4/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,traps his knight
+9,d3,d2d3,r1bqk1nr/ppp2ppp/2np4/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,traps his knight
+10,Bg4,c8g4,r2qk1nr/ppp2ppp/2np4/2b1p3/2B1P1b1/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 1 6,traps his knight
+11,Bd2,c1d2,r2qk1nr/ppp2ppp/2np4/2b1p3/2B1P1b1/2NP1N2/PPPB1PPP/R2QK2R b KQkq - 2 6,traps his knight
+12,Nge7,g8e7,r2qk2r/ppp1nppp/2np4/2b1p3/2B1P1b1/2NP1N2/PPPB1PPP/R2QK2R w KQkq - 3 7,traps his knight
+13,Bxf7+,c4f7,r2qk2r/ppp1nBpp/2np4/2b1p3/4P1b1/2NP1N2/PPPB1PPP/R2QK2R b KQkq - 0 7,traps his knight
+14,Kxf7,e8f7,r2q3r/ppp1nkpp/2np4/2b1p3/4P1b1/2NP1N2/PPPB1PPP/R2QK2R w KQ - 0 8,traps his knight
+15,Ng5+,f3g5,r2q3r/ppp1nkpp/2np4/2b1p1N1/4P1b1/2NP4/PPPB1PPP/R2QK2R b KQ - 1 8,traps his knight
+16,Ke8,f7e8,r2qk2r/ppp1n1pp/2np4/2b1p1N1/4P1b1/2NP4/PPPB1PPP/R2QK2R w KQ - 2 9,traps his knight
+17,Qxg4,d1g4,r2qk2r/ppp1n1pp/2np4/2b1p1N1/4P1Q1/2NP4/PPPB1PPP/R3K2R b KQ - 0 9,traps his knight
+18,Nd4,c6d4,r2qk2r/ppp1n1pp/3p4/2b1p1N1/3nP1Q1/2NP4/PPPB1PPP/R3K2R w KQ - 1 10,traps his knight
+19,O-O-O,e1c1,r2qk2r/ppp1n1pp/3p4/2b1p1N1/3nP1Q1/2NP4/PPPB1PPP/2KR3R b - - 2 10,traps his knight
+20,Ng6,e7g6,r2qk2r/ppp3pp/3p2n1/2b1p1N1/3nP1Q1/2NP4/PPPB1PPP/2KR3R w - - 3 11,traps his knight
+21,Ne6,g5e6,r2qk2r/ppp3pp/3pN1n1/2b1p3/3nP1Q1/2NP4/PPPB1PPP/2KR3R b - - 4 11,traps his knight
+22,Qd7,d8d7,r3k2r/pppq2pp/3pN1n1/2b1p3/3nP1Q1/2NP4/PPPB1PPP/2KR3R w - - 5 12,traps his knight
+23,Nxc7+,e6c7,r3k2r/ppNq2pp/3p2n1/2b1p3/3nP1Q1/2NP4/PPPB1PPP/2KR3R b - - 0 12,"finally realizes that i have a killer attack on his king, too little too late"
+24,Qxc7,d7c7,r3k2r/ppq3pp/3p2n1/2b1p3/3nP1Q1/2NP4/PPPB1PPP/2KR3R w - - 0 13,"finally realizes that i have a killer attack on his king, too little too late"
+25,Nd5,c3d5,r3k2r/ppq3pp/3p2n1/2bNp3/3nP1Q1/3P4/PPPB1PPP/2KR3R b - - 1 13,"finally realizes that i have a killer attack on his king, too little too late"
+26,Qd7,c7d7,r3k2r/pp1q2pp/3p2n1/2bNp3/3nP1Q1/3P4/PPPB1PPP/2KR3R w - - 2 14,"finally realizes that i have a killer attack on his king, too little too late"
+27,Qh5,g4h5,r3k2r/pp1q2pp/3p2n1/2bNp2Q/3nP3/3P4/PPPB1PPP/2KR3R b - - 3 14,"finally realizes that i have a killer attack on his king, too little too late"
+28,Rc8,a8c8,2r1k2r/pp1q2pp/3p2n1/2bNp2Q/3nP3/3P4/PPPB1PPP/2KR3R w - - 4 15,"finally realizes that i have a killer attack on his king, too little too late"
+29,Be3,d2e3,2r1k2r/pp1q2pp/3p2n1/2bNp2Q/3nP3/3PB3/PPP2PPP/2KR3R b - - 5 15,"finally realizes that i have a killer attack on his king, too little too late"
+30,Qa4,d7a4,2r1k2r/pp4pp/3p2n1/2bNp2Q/q2nP3/3PB3/PPP2PPP/2KR3R w - - 6 16,rook sac! force mate! awesome!
+31,Bxd4,e3d4,2r1k2r/pp4pp/3p2n1/2bNp2Q/q2BP3/3P4/PPP2PPP/2KR3R b - - 0 16,rook sac! force mate! awesome!
+32,Bxd4,c5d4,2r1k2r/pp4pp/3p2n1/3Np2Q/q2bP3/3P4/PPP2PPP/2KR3R w - - 0 17,rook sac! force mate! awesome!
+33,b3,b2b3,2r1k2r/pp4pp/3p2n1/3Np2Q/q2bP3/1P1P4/P1P2PPP/2KR3R b - - 0 17,rook sac! force mate! awesome!
+34,Rxc2+,c8c2,4k2r/pp4pp/3p2n1/3Np2Q/q2bP3/1P1P4/P1r2PPP/2KR3R w - - 0 18,rook sac! force mate! awesome!
+35,Kxc2,c1c2,4k2r/pp4pp/3p2n1/3Np2Q/q2bP3/1P1P4/P1K2PPP/3R3R b - - 0 18,
+36,Qxa2+,a4a2,4k2r/pp4pp/3p2n1/3Np2Q/3bP3/1P1P4/q1K2PPP/3R3R w - - 0 19,
+37,Kc1,c2c1,4k2r/pp4pp/3p2n1/3Np2Q/3bP3/1P1P4/q4PPP/2KR3R b - - 1 19,
+38,Qb2#,a2b2,4k2r/pp4pp/3p2n1/3Np2Q/3bP3/1P1P4/1q3PPP/2KR3R w - - 2 20,

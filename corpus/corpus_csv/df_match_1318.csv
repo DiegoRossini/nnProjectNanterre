@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,To allow in the simplest manner the support of the Pawn skeleton by P-QB3.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,To allow in the simplest manner the support of the Pawn skeleton by P-QB3.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,To allow in the simplest manner the support of the Pawn skeleton by P-QB3.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,To allow in the simplest manner the support of the Pawn skeleton by P-QB3.
+5,Nd2,b1d2,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3,To allow in the simplest manner the support of the Pawn skeleton by P-QB3.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4,Permitting White his intended development. 3... P-QB4 provides much more resistance.
+7,e5,e4e5,rnbqkb1r/ppp2ppp/4pn2/3pP3/3P4/8/PPPN1PPP/R1BQKBNR b KQkq - 0 4,Black must now decide on a course of action.
+8,Nfd7,f6d7,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 1 5,Black must now decide on a course of action.
+9,Bd3,f1d3,rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/3B4/PPPN1PPP/R1BQK1NR b KQkq - 2 5,Black must now decide on a course of action.
+10,c5,c7c5,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/3B4/PPPN1PPP/R1BQK1NR w KQkq - 0 6,Black must now decide on a course of action.
+11,c3,c2c3,rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR b KQkq - 0 6,Black must now decide on a course of action.
+12,Nc6,b8c6,r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 1 7,Black must now decide on a course of action.
+13,Ne2,g1e2,r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P4/2PB4/PP1NNPPP/R1BQK2R b KQkq - 2 7,Black must now decide on a course of action.
+14,Qb6,d8b6,r1b1kb1r/pp1n1ppp/1qn1p3/2ppP3/3P4/2PB4/PP1NNPPP/R1BQK2R w KQkq - 3 8,Black must now decide on a course of action.
+15,Nf3,d2f3,r1b1kb1r/pp1n1ppp/1qn1p3/2ppP3/3P4/2PB1N2/PP2NPPP/R1BQK2R b KQkq - 4 8,Black must now decide on a course of action.
+16,cxd4,c5d4,r1b1kb1r/pp1n1ppp/1qn1p3/3pP3/3p4/2PB1N2/PP2NPPP/R1BQK2R w KQkq - 0 9,"An example of Alekhine's blending of Classical and Hypermodern ideas. The Classical school did not like foregoing castling in this manner, but they did believe in denying exchanges to the more cramped opponent. Alekhine prefers the second consideration."
+17,cxd4,c3d4,r1b1kb1r/pp1n1ppp/1qn1p3/3pP3/3P4/3B1N2/PP2NPPP/R1BQK2R b KQkq - 0 9,"An example of Alekhine's blending of Classical and Hypermodern ideas. The Classical school did not like foregoing castling in this manner, but they did believe in denying exchanges to the more cramped opponent. Alekhine prefers the second consideration."
+18,Bb4+,f8b4,r1b1k2r/pp1n1ppp/1qn1p3/3pP3/1b1P4/3B1N2/PP2NPPP/R1BQK2R w KQkq - 1 10,"An example of Alekhine's blending of Classical and Hypermodern ideas. The Classical school did not like foregoing castling in this manner, but they did believe in denying exchanges to the more cramped opponent. Alekhine prefers the second consideration."
+19,Kf1,e1f1,r1b1k2r/pp1n1ppp/1qn1p3/3pP3/1b1P4/3B1N2/PP2NPPP/R1BQ1K1R b kq - 2 10,"An example of Alekhine's blending of Classical and Hypermodern ideas. The Classical school did not like foregoing castling in this manner, but they did believe in denying exchanges to the more cramped opponent. Alekhine prefers the second consideration."
+20,Be7,b4e7,r1b1k2r/pp1nbppp/1qn1p3/3pP3/3P4/3B1N2/PP2NPPP/R1BQ1K1R w kq - 3 11,"Castling would invite an immediate attack by P-KR4, where White would develop threats faster than Black could summon defenses to meet them."
+21,a3,a2a3,r1b1k2r/pp1nbppp/1qn1p3/3pP3/3P4/P2B1N2/1P2NPPP/R1BQ1K1R b kq - 0 11,"Castling would invite an immediate attack by P-KR4, where White would develop threats faster than Black could summon defenses to meet them."
+22,Nf8,d7f8,r1b1kn1r/pp2bppp/1qn1p3/3pP3/3P4/P2B1N2/1P2NPPP/R1BQ1K1R w kq - 1 12,"Castling would invite an immediate attack by P-KR4, where White would develop threats faster than Black could summon defenses to meet them."
+23,b4,b2b4,r1b1kn1r/pp2bppp/1qn1p3/3pP3/1P1P4/P2B1N2/4NPPP/R1BQ1K1R b kq - 0 12,"If 13... N-N3, 14 P-KR4 at once enforces a retreat or a weakness."
+24,Bd7,c8d7,r3kn1r/pp1bbppp/1qn1p3/3pP3/1P1P4/P2B1N2/4NPPP/R1BQ1K1R w kq - 1 13,"If 13... N-N3, 14 P-KR4 at once enforces a retreat or a weakness."
+25,Be3,c1e3,r3kn1r/pp1bbppp/1qn1p3/3pP3/1P1P4/P2BBN2/4NPPP/R2Q1K1R b kq - 2 13,"If 13... N-N3, 14 P-KR4 at once enforces a retreat or a weakness."
+26,Nd8,c6d8,r2nkn1r/pp1bbppp/1q2p3/3pP3/1P1P4/P2BBN2/4NPPP/R2Q1K1R w kq - 3 14,"If 13... N-N3, 14 P-KR4 at once enforces a retreat or a weakness."
+27,Nc3,e2c3,r2nkn1r/pp1bbppp/1q2p3/3pP3/1P1P4/P1NBBN2/5PPP/R2Q1K1R b kq - 4 14,After this move the whole of Black's Q side is tied up.
+28,a5,a7a5,r2nkn1r/1p1bbppp/1q2p3/p2pP3/1P1P4/P1NBBN2/5PPP/R2Q1K1R w kq - 0 15,After this move the whole of Black's Q side is tied up.
+29,Na4,c3a4,r2nkn1r/1p1bbppp/1q2p3/p2pP3/NP1P4/P2BBN2/5PPP/R2Q1K1R b kq - 1 15,After this move the whole of Black's Q side is tied up.
+30,Qa7,b6a7,r2nkn1r/qp1bbppp/4p3/p2pP3/NP1P4/P2BBN2/5PPP/R2Q1K1R w kq - 2 16,After this move the whole of Black's Q side is tied up.
+31,b5,b4b5,r2nkn1r/qp1bbppp/4p3/pP1pP3/N2P4/P2BBN2/5PPP/R2Q1K1R b kq - 0 16,After this move the whole of Black's Q side is tied up.
+32,b6,b7b6,r2nkn1r/q2bbppp/1p2p3/pP1pP3/N2P4/P2BBN2/5PPP/R2Q1K1R w kq - 0 17,Denying White the outpost square on QB5.
+33,g3,g2g3,r2nkn1r/q2bbppp/1p2p3/pP1pP3/N2P4/P2BBNP1/5P1P/R2Q1K1R b kq - 0 17,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+34,f5,f7f5,r2nkn1r/q2bb1pp/1p2p3/pP1pPp2/N2P4/P2BBNP1/5P1P/R2Q1K1R w kq f6 0 18,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+35,Kg2,f1g2,r2nkn1r/q2bb1pp/1p2p3/pP1pPp2/N2P4/P2BBNP1/5PKP/R2Q3R b kq - 1 18,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+36,Nf7,d8f7,r3kn1r/q2bbnpp/1p2p3/pP1pPp2/N2P4/P2BBNP1/5PKP/R2Q3R w kq - 2 19,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+37,Qd2,d1d2,r3kn1r/q2bbnpp/1p2p3/pP1pPp2/N2P4/P2BBNP1/3Q1PKP/R6R b kq - 3 19,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+38,h6,h7h6,r3kn1r/q2bbnp1/1p2p2p/pP1pPp2/N2P4/P2BBNP1/3Q1PKP/R6R w kq - 0 20,"Starting a fight for the black squares on the K side, but the weakening of the white squares offers White an alternative target."
+39,h4,h2h4,r3kn1r/q2bbnp1/1p2p2p/pP1pPp2/N2P3P/P2BBNP1/3Q1PK1/R6R b kq - 0 20,"Giving up control of KN5 to Black to secure KN6 for himself. Black cannot make full use of the black squares, however, as ...P-N4 would be answered with PxP e.p."
+40,Nh7,f8h7,r3k2r/q2bbnpn/1p2p2p/pP1pPp2/N2P3P/P2BBNP1/3Q1PK1/R6R w kq - 1 21,"Giving up control of KN5 to Black to secure KN6 for himself. Black cannot make full use of the black squares, however, as ...P-N4 would be answered with PxP e.p."
+41,h5,h4h5,r3k2r/q2bbnpn/1p2p2p/pP1pPp1P/N2P4/P2BBNP1/3Q1PK1/R6R b kq - 0 21,"Giving up control of KN5 to Black to secure KN6 for himself. Black cannot make full use of the black squares, however, as ...P-N4 would be answered with PxP e.p."
+42,Nfg5,f7g5,r3k2r/q2bb1pn/1p2p2p/pP1pPpnP/N2P4/P2BBNP1/3Q1PK1/R6R w kq - 1 22,"Persistently denying exchanges to a cramped opponent. 23... BxN is not feasible, as after 24 PxB Black's advanced Knight is trapped and won by 25 P-B3."
+43,Nh4,f3h4,r3k2r/q2bb1pn/1p2p2p/pP1pPpnP/N2P3N/P2BB1P1/3Q1PK1/R6R b kq - 2 22,"Persistently denying exchanges to a cramped opponent. 23... BxN is not feasible, as after 24 PxB Black's advanced Knight is trapped and won by 25 P-B3."
+44,Ne4,g5e4,r3k2r/q2bb1pn/1p2p2p/pP1pPp1P/N2Pn2N/P2BB1P1/3Q1PK1/R6R w kq - 3 23,"Persistently denying exchanges to a cramped opponent. 23... BxN is not feasible, as after 24 PxB Black's advanced Knight is trapped and won by 25 P-B3."
+45,Qb2,d2b2,r3k2r/q2bb1pn/1p2p2p/pP1pPp1P/N2Pn2N/P2BB1P1/1Q3PK1/R6R b kq - 4 23,"Persistently denying exchanges to a cramped opponent. 23... BxN is not feasible, as after 24 PxB Black's advanced Knight is trapped and won by 25 P-B3."
+46,Kf7,e8f7,r6r/q2bbkpn/1p2p2p/pP1pPp1P/N2Pn2N/P2BB1P1/1Q3PK1/R6R w - - 5 24,White begins to strengthen his operations on the white squares.
+47,f3,f2f3,r6r/q2bbkpn/1p2p2p/pP1pPp1P/N2Pn2N/P2BBPP1/1Q4K1/R6R b - - 0 24,White begins to strengthen his operations on the white squares.
+48,Neg5,e4g5,r6r/q2bbkpn/1p2p2p/pP1pPpnP/N2P3N/P2BBPP1/1Q4K1/R6R w - - 1 25,White begins to strengthen his operations on the white squares.
+49,g4,g3g4,r6r/q2bbkpn/1p2p2p/pP1pPpnP/N2P2PN/P2BBP2/1Q4K1/R6R b - - 0 25,White begins to strengthen his operations on the white squares.
+50,fxg4,f5g4,r6r/q2bbkpn/1p2p2p/pP1pP1nP/N2P2pN/P2BBP2/1Q4K1/R6R w - - 0 26,"If 27... N-K5, 28 BxN PxB 29 N-N6 wins the Exchange."
+51,Bg6+,d3g6,r6r/q2bbkpn/1p2p1Bp/pP1pP1nP/N2P2pN/P3BP2/1Q4K1/R6R b - - 1 26,"If 27... N-K5, 28 BxN PxB 29 N-N6 wins the Exchange."
+52,Kg8,f7g8,r5kr/q2bb1pn/1p2p1Bp/pP1pP1nP/N2P2pN/P3BP2/1Q4K1/R6R w - - 2 27,"If 27... N-K5, 28 BxN PxB 29 N-N6 wins the Exchange."
+53,f4,f3f4,r5kr/q2bb1pn/1p2p1Bp/pP1pP1nP/N2P1PpN/P3B3/1Q4K1/R6R b - - 0 27,"If 27... N-K5, 28 BxN PxB 29 N-N6 wins the Exchange."
+54,Nf3,g5f3,r5kr/q2bb1pn/1p2p1Bp/pP1pP2P/N2P1PpN/P3Bn2/1Q4K1/R6R w - - 1 28,"If 27... N-K5, 28 BxN PxB 29 N-N6 wins the Exchange."
+55,Bxh7+,g6h7,r5kr/q2bb1pB/1p2p2p/pP1pP2P/N2P1PpN/P3Bn2/1Q4K1/R6R b - - 0 28,"If instead KxB, 29 Q-B2 ch K-N1 30 N-N6 wins the Exchange."
+56,Rxh7,h8h7,r5k1/q2bb1pr/1p2p2p/pP1pP2P/N2P1PpN/P3Bn2/1Q4K1/R6R w - - 0 29,"If instead KxB, 29 Q-B2 ch K-N1 30 N-N6 wins the Exchange."
+57,Ng6,h4g6,r5k1/q2bb1pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3Bn2/1Q4K1/R6R b - - 1 29,"Now the material begins to fall, first the KNP and then the Knight which has no escape."
+58,Bd8,e7d8,r2b2k1/q2b2pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3Bn2/1Q4K1/R6R w - - 2 30,"Now the material begins to fall, first the KNP and then the Knight which has no escape."
+59,Rac1,a1c1,r2b2k1/q2b2pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3Bn2/1Q4K1/2R4R b - - 3 30,"Now the material begins to fall, first the KNP and then the Knight which has no escape."
+60,Be8,d7e8,r2bb1k1/q5pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3Bn2/1Q4K1/2R4R w - - 4 31,"Now the material begins to fall, first the KNP and then the Knight which has no escape."
+61,Kg3,g2g3,r2bb1k1/q5pr/1p2p1Np/pP1pP2P/N2P1Pp1/P3BnK1/1Q6/2R4R b - - 5 31,"Now the material begins to fall, first the KNP and then the Knight which has no escape."
+62,Qf7,a7f7,r2bb1k1/5qpr/1p2p1Np/pP1pP2P/N2P1Pp1/P3BnK1/1Q6/2R4R w - - 6 32,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+63,Kxg4,g3g4,r2bb1k1/5qpr/1p2p1Np/pP1pP2P/N2P1PK1/P3Bn2/1Q6/2R4R b - - 0 32,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+64,Nh4,f3h4,r2bb1k1/5qpr/1p2p1Np/pP1pP2P/N2P1PKn/P3B3/1Q6/2R4R w - - 1 33,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+65,Nxh4,g6h4,r2bb1k1/5qpr/1p2p2p/pP1pP2P/N2P1PKN/P3B3/1Q6/2R4R b - - 0 33,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+66,Qxh5+,f7h5,r2bb1k1/6pr/1p2p2p/pP1pP2q/N2P1PKN/P3B3/1Q6/2R4R w - - 0 34,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+67,Kg3,g4g3,r2bb1k1/6pr/1p2p2p/pP1pP2q/N2P1P1N/P3B1K1/1Q6/2R4R b - - 1 34,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+68,Qf7,h5f7,r2bb1k1/5qpr/1p2p2p/pP1pP3/N2P1P1N/P3B1K1/1Q6/2R4R w - - 2 35,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."
+69,Nf3,h4f3,r2bb1k1/5qpr/1p2p2p/pP1pP3/N2P1P2/P3BNK1/1Q6/2R4R b - - 3 35,"Black lost on time, but he has no compensation for the lost material, and White threatens Q-QB2 followed by N-N5."

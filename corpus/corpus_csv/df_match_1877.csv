@@ -1,0 +1,14 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Dutch defense.
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Dutch defense.
+3,h3,h2h3,rnbqkbnr/ppppp1pp/8/5p2/3P4/7P/PPP1PPP1/RNBQKBNR b KQkq - 0 2,h3 Variation.
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/7P/PPP1PPP1/RNBQKBNR w KQkq - 1 3,"White gives a pawn, but the rook gets an half-open h line."
+5,g4,g2g4,rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/7P/PPP1PP2/RNBQKBNR b KQkq - 0 3,"White gives a pawn, but the rook gets an half-open h line."
+6,fxg4,f5g4,rnbqkb1r/ppppp1pp/5n2/8/3P2p1/7P/PPP1PP2/RNBQKBNR w KQkq - 0 4,"Black can not protect the pawn at h7 with the Knight. When black does this, he will lose a rook or will be checkmated!"
+7,hxg4,h3g4,rnbqkb1r/ppppp1pp/5n2/8/3P2P1/8/PPP1PP2/RNBQKBNR b KQkq - 0 4,"Black can not protect the pawn at h7 with the Knight. When black does this, he will lose a rook or will be checkmated!"
+8,Nxg4,f6g4,rnbqkb1r/ppppp1pp/8/8/3P2n1/8/PPP1PP2/RNBQKBNR w KQkq - 0 5,"Black can not protect the pawn at h7 with the Knight. When black does this, he will lose a rook or will be checkmated!"
+9,Qd3,d1d3,rnbqkb1r/ppppp1pp/8/8/3P2n1/3Q4/PPP1PP2/RNB1KBNR b KQkq - 1 5,"Black can not protect the pawn at h7 with the Knight. When black does this, he will lose a rook or will be checkmated!"
+10,Nf6,g4f6,rnbqkb1r/ppppp1pp/5n2/8/3P4/3Q4/PPP1PP2/RNB1KBNR w KQkq - 2 6,"Mistake! Better is g6, it blocks the queen."
+11,Rxh7,h1h7,rnbqkb1r/ppppp1pR/5n2/8/3P4/3Q4/PPP1PP2/RNB1KBN1 b Qkq - 0 6,"when black takes the rook, he will be checkmated by Qg6#."
+12,Rxh7,h8h7,rnbqkb2/ppppp1pr/5n2/8/3P4/3Q4/PPP1PP2/RNB1KBN1 w Qq - 0 7,Checkmate!
+13,Qg6#,d3g6,rnbqkb2/ppppp1pr/5nQ1/8/3P4/8/PPP1PP2/RNB1KBN1 b Qq - 1 7,Checkmate!

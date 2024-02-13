@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game is slightly unusual in that it all ends with a pawn
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I've had some success with the Scandinavian and I fancied another try this time
+3,e5,e4e5,rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Adds more defence to d4.
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2ppP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,Adds more defence to d4.
+5,f4,f2f4,rnbqkbnr/pp2pppp/8/2ppP3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,Adds more defence to d4.
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2ppP3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4,Adds more defence to d4.
+7,c3,c2c3,r1bqkbnr/pp2pppp/2n5/2ppP3/5P2/2P5/PP1P2PP/RNBQKBNR b KQkq - 0 4,Adds more defence to d4.
+8,Qb6,d8b6,r1b1kbnr/pp2pppp/1qn5/2ppP3/5P2/2P5/PP1P2PP/RNBQKBNR w KQkq - 1 5,Adds more defence to d4.
+9,Qf3,d1f3,r1b1kbnr/pp2pppp/1qn5/2ppP3/5P2/2P2Q2/PP1P2PP/RNB1KBNR b KQkq - 2 5,"This is the move that diverges from the gameknot database. Alternatives there are d3, Nf3 which would be my preference and b3"
+10,Bf5,c8f5,r3kbnr/pp2pppp/1qn5/2ppPb2/5P2/2P2Q2/PP1P2PP/RNB1KBNR w KQkq - 3 6,Giving me the opportunity to castle
+11,Nh3,g1h3,r3kbnr/pp2pppp/1qn5/2ppPb2/5P2/2P2Q1N/PP1P2PP/RNB1KB1R b KQkq - 4 6,I have some doubts about this move I was expecting a d pawn advance
+12,e6,e7e6,r3kbnr/pp3ppp/1qn1p3/2ppPb2/5P2/2P2Q1N/PP1P2PP/RNB1KB1R w KQkq - 0 7,This move opens up a nice hole at b3 for my queen to aim at
+13,a3,a2a3,r3kbnr/pp3ppp/1qn1p3/2ppPb2/5P2/P1P2Q1N/1P1P2PP/RNB1KB1R b KQkq - 0 7,This move opens up a nice hole at b3 for my queen to aim at
+14,c4,c5c4,r3kbnr/pp3ppp/1qn1p3/3pPb2/2p2P2/P1P2Q1N/1P1P2PP/RNB1KB1R w KQkq - 0 8,Opening up the a7-g1 diagonal
+15,d3,d2d3,r3kbnr/pp3ppp/1qn1p3/3pPb2/2p2P2/P1PP1Q1N/1P4PP/RNB1KB1R b KQkq - 0 8,Threatens a fork on f7 but this is easily parried
+16,O-O-O,e8c8,2kr1bnr/pp3ppp/1qn1p3/3pPb2/2p2P2/P1PP1Q1N/1P4PP/RNB1KB1R w KQ - 1 9,Threatens a fork on f7 but this is easily parried
+17,Ng5,h3g5,2kr1bnr/pp3ppp/1qn1p3/3pPbN1/2p2P2/P1PP1Q2/1P4PP/RNB1KB1R b KQ - 2 9,Threatens a fork on f7 but this is easily parried
+18,Bg6,f5g6,2kr1bnr/pp3ppp/1qn1p1b1/3pP1N1/2p2P2/P1PP1Q2/1P4PP/RNB1KB1R w KQ - 3 10,"Closes the centre which often makes knights more significant but here I am happy with my lsb, white's bishops on the other hand are more restricted"
+19,d4,d3d4,2kr1bnr/pp3ppp/1qn1p1b1/3pP1N1/2pP1P2/P1P2Q2/1P4PP/RNB1KB1R b KQ - 0 10,"Closes the centre which often makes knights more significant but here I am happy with my lsb, white's bishops on the other hand are more restricted"
+20,Nge7,g8e7,2kr1b1r/pp2nppp/1qn1p1b1/3pP1N1/2pP1P2/P1P2Q2/1P4PP/RNB1KB1R w KQ - 1 11,intending to go to f5
+21,h4,h2h4,2kr1b1r/pp2nppp/1qn1p1b1/3pP1N1/2pP1P1P/P1P2Q2/1P4P1/RNB1KB1R b KQ - 0 11,Keeps h6 as an option for my knight if it gets to f5
+22,h5,h7h5,2kr1b1r/pp2npp1/1qn1p1b1/3pP1Np/2pP1P1P/P1P2Q2/1P4P1/RNB1KB1R w KQ - 0 12,Keeps h6 as an option for my knight if it gets to f5
+23,Nd2,b1d2,2kr1b1r/pp2npp1/1qn1p1b1/3pP1Np/2pP1P1P/P1P2Q2/1P1N2P1/R1B1KB1R b KQ - 1 12,Aiming at b3
+24,Na5,c6a5,2kr1b1r/pp2npp1/1q2p1b1/n2pP1Np/2pP1P1P/P1P2Q2/1P1N2P1/R1B1KB1R w KQ - 2 13,Aiming at b3
+25,Be2,f1e2,2kr1b1r/pp2npp1/1q2p1b1/n2pP1Np/2pP1P1P/P1P2Q2/1P1NB1P1/R1B1K2R b KQ - 3 13,links the rooks
+26,Nf5,e7f5,2kr1b1r/pp3pp1/1q2p1b1/n2pPnNp/2pP1P1P/P1P2Q2/1P1NB1P1/R1B1K2R w KQ - 4 14,links the rooks
+27,Bd1,e2d1,2kr1b1r/pp3pp1/1q2p1b1/n2pPnNp/2pP1P1P/P1P2Q2/1P1N2P1/R1BBK2R b KQ - 5 14,links the rooks
+28,Be7,f8e7,2kr3r/pp2bpp1/1q2p1b1/n2pPnNp/2pP1P1P/P1P2Q2/1P1N2P1/R1BBK2R w KQ - 6 15,links the rooks
+29,g4,g2g4,2kr3r/pp2bpp1/1q2p1b1/n2pPnNp/2pP1PPP/P1P2Q2/1P1N4/R1BBK2R b KQ - 0 15,A knight sac to open the centre up
+30,Nxd4,f5d4,2kr3r/pp2bpp1/1q2p1b1/n2pP1Np/2pn1PPP/P1P2Q2/1P1N4/R1BBK2R w KQ - 0 16,A knight sac to open the centre up
+31,cxd4,c3d4,2kr3r/pp2bpp1/1q2p1b1/n2pP1Np/2pP1PPP/P4Q2/1P1N4/R1BBK2R b KQ - 0 16,If white takes with his queen then I have Qxd4 and a chance to attack the exposed white king with my queen and lsb
+32,hxg4,h5g4,2kr3r/pp2bpp1/1q2p1b1/n2pP1N1/2pP1PpP/P4Q2/1P1N4/R1BBK2R w KQ - 0 17,If white takes with his queen then I have Qxd4 and a chance to attack the exposed white king with my queen and lsb
+33,Qxg4,f3g4,2kr3r/pp2bpp1/1q2p1b1/n2pP1N1/2pP1PQP/P7/1P1N4/R1BBK2R b KQ - 0 17,Loses the knight as we will see
+34,Qxd4,b6d4,2kr3r/pp2bpp1/4p1b1/n2pP1N1/2pq1PQP/P7/1P1N4/R1BBK2R w KQ - 0 18,Loses the knight as we will see
+35,Nxe6,g5e6,2kr3r/pp2bpp1/4N1b1/n2pP3/2pq1PQP/P7/1P1N4/R1BBK2R b KQ - 0 18,Loses the knight as we will see
+36,Qe3+,d4e3,2kr3r/pp2bpp1/4N1b1/n2pP3/2p2PQP/P3q3/1P1N4/R1BBK2R w KQ - 1 19,I'm not sure here if Bf5 would be better as it leaves the way open for bxh4+
+37,Be2,d1e2,2kr3r/pp2bpp1/4N1b1/n2pP3/2p2PQP/P3q3/1P1NB3/R1B1K2R b KQ - 2 19,I'm not sure here if Bf5 would be better as it leaves the way open for bxh4+
+38,Bh5,g6h5,2kr3r/pp2bpp1/4N3/n2pP2b/2p2PQP/P3q3/1P1NB3/R1B1K2R w KQ - 3 20,I'm not sure here if Bf5 would be better as it leaves the way open for bxh4+
+39,Qg2,g4g2,2kr3r/pp2bpp1/4N3/n2pP2b/2p2P1P/P3q3/1P1NB1Q1/R1B1K2R b KQ - 4 20,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+40,fxe6,f7e6,2kr3r/pp2b1p1/4p3/n2pP2b/2p2P1P/P3q3/1P1NB1Q1/R1B1K2R w KQ - 0 21,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+41,Qf2,g2f2,2kr3r/pp2b1p1/4p3/n2pP2b/2p2P1P/P3q3/1P1NBQ2/R1B1K2R b KQ - 1 21,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+42,Qxe2+,e3e2,2kr3r/pp2b1p1/4p3/n2pP2b/2p2P1P/P7/1P1NqQ2/R1B1K2R w KQ - 0 22,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+43,Qxe2,f2e2,2kr3r/pp2b1p1/4p3/n2pP2b/2p2P1P/P7/1P1NQ3/R1B1K2R b KQ - 0 22,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+44,Bxe2,h5e2,2kr3r/pp2b1p1/4p3/n2pP3/2p2P1P/P7/1P1Nb3/R1B1K2R w KQ - 0 23,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+45,Kxe2,e1e2,2kr3r/pp2b1p1/4p3/n2pP3/2p2P1P/P7/1P1NK3/R1B4R b - - 0 23,I now have one passed pawn and whites a rook is going to take a couple of moves to get free. If I need to try to apply some pressure
+46,g5,g7g5,2kr3r/pp2b3/4p3/n2pP1p1/2p2P1P/P7/1P1NK3/R1B4R w - - 0 24,The bishop is immune due to hxg5 Rxh1 pinning the bishop to the rook
+47,fxg5,f4g5,2kr3r/pp2b3/4p3/n2pP1P1/2p4P/P7/1P1NK3/R1B4R b - - 0 24,The bishop is immune due to hxg5 Rxh1 pinning the bishop to the rook
+48,Bxg5,e7g5,2kr3r/pp6/4p3/n2pP1b1/2p4P/P7/1P1NK3/R1B4R w - - 0 25,The bishop is immune due to hxg5 Rxh1 pinning the bishop to the rook

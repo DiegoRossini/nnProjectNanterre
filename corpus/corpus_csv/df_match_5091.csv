@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King's Gambit, my new favorite. An aggressive opening...It keeps the board open, which is my preference."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"King's Gambit, my new favorite. An aggressive opening...It keeps the board open, which is my preference."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"King's Gambit, my new favorite. An aggressive opening...It keeps the board open, which is my preference."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Accepted.
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+7,Be2,f1e2,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPPB1PP/RNBQK2R b KQkq - 1 4,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+8,h6,h7h6,rnbqkbnr/ppp2pp1/3p3p/8/4Pp2/5N2/PPPPB1PP/RNBQK2R w KQkq - 0 5,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+9,d4,d2d4,rnbqkbnr/ppp2pp1/3p3p/8/3PPp2/5N2/PPP1B1PP/RNBQK2R b KQkq - 0 5,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+10,a6,a7a6,rnbqkbnr/1pp2pp1/p2p3p/8/3PPp2/5N2/PPP1B1PP/RNBQK2R w KQkq - 0 6,"Up until now, it has been book Fischer defense. I don't prefer the Fischer as White, because it stops an eventual Nxf7. It doesn't, however, prevent Bxf7+!"
+11,Bxf4,c1f4,rnbqkbnr/1pp2pp1/p2p3p/8/3PPB2/5N2/PPP1B1PP/RN1QK2R b KQkq - 0 6,"Scoring back material. Book Fischer doesn't allow this, because of 5. ...g5."
+12,Nf6,g8f6,rnbqkb1r/1pp2pp1/p2p1n1p/8/3PPB2/5N2/PPP1B1PP/RN1QK2R w KQkq - 1 7,All four Knights come in.
+13,Nc3,b1c3,rnbqkb1r/1pp2pp1/p2p1n1p/8/3PPB2/2N2N2/PPP1B1PP/R2QK2R b KQkq - 2 7,All four Knights come in.
+14,Nc6,b8c6,r1bqkb1r/1pp2pp1/p1np1n1p/8/3PPB2/2N2N2/PPP1B1PP/R2QK2R w KQkq - 3 8,All four Knights come in.
+15,Qd2,d1d2,r1bqkb1r/1pp2pp1/p1np1n1p/8/3PPB2/2N2N2/PPPQB1PP/R3K2R b KQkq - 4 8,Now I can castle to either side.
+16,Be7,f8e7,r1bqk2r/1pp1bpp1/p1np1n1p/8/3PPB2/2N2N2/PPPQB1PP/R3K2R w KQkq - 5 9,I chose Queenside because I thought he would castle Kingside.
+17,O-O-O,e1c1,r1bqk2r/1pp1bpp1/p1np1n1p/8/3PPB2/2N2N2/PPPQB1PP/2KR3R b kq - 6 9,I chose Queenside because I thought he would castle Kingside.
+18,d5,d6d5,r1bqk2r/1pp1bpp1/p1n2n1p/3p4/3PPB2/2N2N2/PPPQB1PP/2KR3R w kq - 0 10,Ripping open the middle.
+19,exd5,e4d5,r1bqk2r/1pp1bpp1/p1n2n1p/3P4/3P1B2/2N2N2/PPPQB1PP/2KR3R b kq - 0 10,Ripping open the middle.
+20,Nxd5,f6d5,r1bqk2r/1pp1bpp1/p1n4p/3n4/3P1B2/2N2N2/PPPQB1PP/2KR3R w kq - 0 11,Protecting the a-pawn.
+21,Nxd5,c3d5,r1bqk2r/1pp1bpp1/p1n4p/3N4/3P1B2/5N2/PPPQB1PP/2KR3R b kq - 0 11,Protecting the a-pawn.
+22,Qxd5,d8d5,r1b1k2r/1pp1bpp1/p1n4p/3q4/3P1B2/5N2/PPPQB1PP/2KR3R w kq - 0 12,Protecting the a-pawn.
+23,Kb1,c1b1,r1b1k2r/1pp1bpp1/p1n4p/3q4/3P1B2/5N2/PPPQB1PP/1K1R3R b kq - 1 12,Protecting the a-pawn.
+24,Be6,c8e6,r3k2r/1pp1bpp1/p1n1b2p/3q4/3P1B2/5N2/PPPQB1PP/1K1R3R w kq - 2 13,Double trouble on the a2-g8 diagonal.
+25,b3,b2b3,r3k2r/1pp1bpp1/p1n1b2p/3q4/3P1B2/1P3N2/P1PQB1PP/1K1R3R b kq - 0 13,Blunder. This allows Bb4!
+26,O-O-O,e8c8,2kr3r/1pp1bpp1/p1n1b2p/3q4/3P1B2/1P3N2/P1PQB1PP/1K1R3R w - - 1 14,Blunder. This allows Bb4!
+27,Bc4,e2c4,2kr3r/1pp1bpp1/p1n1b2p/3q4/2BP1B2/1P3N2/P1PQ2PP/1K1R3R b - - 2 14,Blunder. This allows Bb4!
+28,Qe4,d5e4,2kr3r/1pp1bpp1/p1n1b2p/8/2BPqB2/1P3N2/P1PQ2PP/1K1R3R w - - 3 15,Blunder. This allows Bb4!
+29,Rhe1,h1e1,2kr3r/1pp1bpp1/p1n1b2p/8/2BPqB2/1P3N2/P1PQ2PP/1K1RR3 b - - 4 15,Blunder. This allows Bb4!
+30,Qf5,e4f5,2kr3r/1pp1bpp1/p1n1b2p/5q2/2BP1B2/1P3N2/P1PQ2PP/1K1RR3 w - - 5 16,As foretold.
+31,Bxe6+,c4e6,2kr3r/1pp1bpp1/p1n1B2p/5q2/3P1B2/1P3N2/P1PQ2PP/1K1RR3 b - - 0 16,As foretold.
+32,fxe6,f7e6,2kr3r/1pp1b1p1/p1n1p2p/5q2/3P1B2/1P3N2/P1PQ2PP/1K1RR3 w - - 0 17,As foretold.
+33,g3,g2g3,2kr3r/1pp1b1p1/p1n1p2p/5q2/3P1B2/1P3NP1/P1PQ3P/1K1RR3 b - - 0 17,As foretold.
+34,Bb4,e7b4,2kr3r/1pp3p1/p1n1p2p/5q2/1b1P1B2/1P3NP1/P1PQ3P/1K1RR3 w - - 1 18,As foretold.
+35,Qd3,d2d3,2kr3r/1pp3p1/p1n1p2p/5q2/1b1P1B2/1P1Q1NP1/P1P4P/1K1RR3 b - - 2 18,? Perhaps he wanted to keep the BSB for mating purposes.
+36,Qa5,f5a5,2kr3r/1pp3p1/p1n1p2p/q7/1b1P1B2/1P1Q1NP1/P1P4P/1K1RR3 w - - 3 19,? Perhaps he wanted to keep the BSB for mating purposes.
+37,Rxe6,e1e6,2kr3r/1pp3p1/p1n1R2p/q7/1b1P1B2/1P1Q1NP1/P1P4P/1K1R4 b - - 0 19,Evacuating the area.
+38,Bc3,b4c3,2kr3r/1pp3p1/p1n1R2p/q7/3P1B2/1PbQ1NP1/P1P4P/1K1R4 w - - 1 20,Stopping mate threat cold in its tracks.
+39,Bc1,f4c1,2kr3r/1pp3p1/p1n1R2p/q7/3P4/1PbQ1NP1/P1P4P/1KBR4 b - - 2 20,Stopping mate threat cold in its tracks.
+40,Bb4,c3b4,2kr3r/1pp3p1/p1n1R2p/q7/1b1P4/1P1Q1NP1/P1P4P/1KBR4 w - - 3 21,Qf5.
+41,g4,g3g4,2kr3r/1pp3p1/p1n1R2p/q7/1b1P2P1/1P1Q1N2/P1P4P/1KBR4 b - - 0 21,Qf5.
+42,Ba3,b4a3,2kr3r/1pp3p1/p1n1R2p/q7/3P2P1/bP1Q1N2/P1P4P/1KBR4 w - - 1 22,Getting that pesky Knight out of the way.
+43,Qf5,d3f5,2kr3r/1pp3p1/p1n1R2p/q4Q2/3P2P1/bP3N2/P1P4P/1KBR4 b - - 2 22,Getting that pesky Knight out of the way.
+44,Qb4,a5b4,2kr3r/1pp3p1/p1n1R2p/5Q2/1q1P2P1/bP3N2/P1P4P/1KBR4 w - - 3 23,Getting that pesky Knight out of the way.
+45,d5,d4d5,2kr3r/1pp3p1/p1n1R2p/3P1Q2/1q4P1/bP3N2/P1P4P/1KBR4 b - - 0 23,Getting that pesky Knight out of the way.
+46,Ne7,c6e7,2kr3r/1pp1n1p1/p3R2p/3P1Q2/1q4P1/bP3N2/P1P4P/1KBR4 w - - 1 24,Free food? I'm there!
+47,Rxe7+,e6e7,2kr3r/1pp1R1p1/p6p/3P1Q2/1q4P1/bP3N2/P1P4P/1KBR4 b - - 0 24,Worst move. Perhaps Rc8 or Qd6.
+48,Kb8,c8b8,1k1r3r/1pp1R1p1/p6p/3P1Q2/1q4P1/bP3N2/P1P4P/1KBR4 w - - 1 25,Worst move. Perhaps Rc8 or Qd6.
+49,Qe5,f5e5,1k1r3r/1pp1R1p1/p6p/3PQ3/1q4P1/bP3N2/P1P4P/1KBR4 b - - 2 25,Worst move. Perhaps Rc8 or Qd6.
+50,Qa5,b4a5,1k1r3r/1pp1R1p1/p6p/q2PQ3/6P1/bP3N2/P1P4P/1KBR4 w - - 3 26,Worst move. Perhaps Rc8 or Qd6.
+51,Bxa3,c1a3,1k1r3r/1pp1R1p1/p6p/q2PQ3/6P1/BP3N2/P1P4P/1K1R4 b - - 0 26,Worst move. Perhaps Rc8 or Qd6.
+52,Qxa3,a5a3,1k1r3r/1pp1R1p1/p6p/3PQ3/6P1/qP3N2/P1P4P/1K1R4 w - - 0 27,Worst move. Perhaps Rc8 or Qd6.
+53,Qxc7+,e5c7,1k1r3r/1pQ1R1p1/p6p/3P4/6P1/qP3N2/P1P4P/1K1R4 b - - 0 27,Here Black resigned. Mate is unavoidable. I hope you enjoyed this game! Please R&C and tune in for game two!

@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard e4 opening by me.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Scotch Game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Scotch Game.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Scotch Game.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The Scotch Game.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Scotch Gambit. Transposes to lots of openings so black has to be careful, but with accurate play white should get a small(or no advantage)."
+7,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4,"Scotch Gambit. Transposes to lots of openings so black has to be careful, but with accurate play white should get a small(or no advantage)."
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 2 5,Perreux variation. I have been looking at this line a lot more lately. The other options are the Max Lange(which i enjoy) and the main line 5. 0-0 5. Nxe4 6. Re1 6. d5 7. Bxd5 7. Qxd5 8. Nc3 8. Qa5(or h5) and 9. Nxe4 (which i do not).
+9,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/6N1/2BpP3/8/PPP2PPP/RNBQK2R b KQkq - 3 5,Perreux variation. I have been looking at this line a lot more lately. The other options are the Max Lange(which i enjoy) and the main line 5. 0-0 5. Nxe4 6. Re1 6. d5 7. Bxd5 7. Qxd5 8. Nc3 8. Qa5(or h5) and 9. Nxe4 (which i do not).
+10,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3p2N1/2BpP3/8/PPP2PPP/RNBQK2R w KQkq - 0 6,The strongest response *if* black plays carefully the next few moves
+11,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3P2N1/2Bp4/8/PPP2PPP/RNBQK2R b KQkq - 0 6,! not 6. Nxd5? 6. 0-0 when white tranposes into a favorable variation of the Loli attack.
+12,Qe7+,d8e7,r1b1kb1r/ppp1qppp/2n2n2/3P2N1/2Bp4/8/PPP2PPP/RNBQK2R w KQkq - 1 7,! not 6. Nxd5? 6. 0-0 when white tranposes into a favorable variation of the Loli attack.
+13,Kf1,e1f1,r1b1kb1r/ppp1qppp/2n2n2/3P2N1/2Bp4/8/PPP2PPP/RNBQ1K1R b kq - 2 7,! the best way to go for an advantage.
+14,Ne5,c6e5,r1b1kb1r/ppp1qppp/5n2/3Pn1N1/2Bp4/8/PPP2PPP/RNBQ1K1R w kq - 3 8,Main line up to here.
+15,Qxd4,d1d4,r1b1kb1r/ppp1qppp/5n2/3Pn1N1/2BQ4/8/PPP2PPP/RNB2K1R b kq - 0 8,Main line up to here.
+16,Nxc4,e5c4,r1b1kb1r/ppp1qppp/5n2/3P2N1/2nQ4/8/PPP2PPP/RNB2K1R w kq - 0 9,Main line up to here.
+17,Qxc4,d4c4,r1b1kb1r/ppp1qppp/5n2/3P2N1/2Q5/8/PPP2PPP/RNB2K1R b kq - 0 9,Main line up to here.
+18,Qc5,e7c5,r1b1kb1r/ppp2ppp/5n2/2qP2N1/2Q5/8/PPP2PPP/RNB2K1R w kq - 1 10,Basically white is up a pawn but must consolidate his king position in a queenless middle game.
+19,Qxc5,c4c5,r1b1kb1r/ppp2ppp/5n2/2QP2N1/8/8/PPP2PPP/RNB2K1R b kq - 0 10,Basically white is up a pawn but must consolidate his king position in a queenless middle game.
+20,Bxc5,f8c5,r1b1k2r/ppp2ppp/5n2/2bP2N1/8/8/PPP2PPP/RNB2K1R w kq - 0 11,Basically white is up a pawn but must consolidate his king position in a queenless middle game.
+21,Nc3,b1c3,r1b1k2r/ppp2ppp/5n2/2bP2N1/8/2N5/PPP2PPP/R1B2K1R b kq - 1 11,Still main line...
+22,Bf5,c8f5,r3k2r/ppp2ppp/5n2/2bP1bN1/8/2N5/PPP2PPP/R1B2K1R w kq - 2 12,Still main line...
+23,Bf4,c1f4,r3k2r/ppp2ppp/5n2/2bP1bN1/5B2/2N5/PPP2PPP/R4K1R b kq - 3 12,Still main line...
+24,O-O,e8g8,r4rk1/ppp2ppp/5n2/2bP1bN1/5B2/2N5/PPP2PPP/R4K1R w - - 4 13,Still main line...
+25,Bxc7,f4c7,r4rk1/ppB2ppp/5n2/2bP1bN1/8/2N5/PPP2PPP/R4K1R b - - 0 13,Still main line...
+26,Bxc2,f5c2,r4rk1/ppB2ppp/5n2/2bP2N1/8/2N5/PPb2PPP/R4K1R w - - 0 14,Still main line...
+27,Rc1,a1c1,r4rk1/ppB2ppp/5n2/2bP2N1/8/2N5/PPb2PPP/2R2K1R b - - 1 14,Still main line...
+28,Bd3+,c2d3,r4rk1/ppB2ppp/5n2/2bP2N1/8/2Nb4/PP3PPP/2R2K1R w - - 2 15,Still main line...
+29,Kg1,f1g1,r4rk1/ppB2ppp/5n2/2bP2N1/8/2Nb4/PP3PPP/2R3KR b - - 3 15,Still main line...
+30,Rfe8,f8e8,r3r1k1/ppB2ppp/5n2/2bP2N1/8/2Nb4/PP3PPP/2R3KR w - - 4 16,Now we actually have to start thinking.
+31,d6,d5d6,r3r1k1/ppB2ppp/3P1n2/2b3N1/8/2Nb4/PP3PPP/2R3KR b - - 0 16,"White's extra pawn is very dangerous, but the two black bishops and rook and knight are all ready to jump on the white king."
+32,Rac8,a8c8,2r1r1k1/ppB2ppp/3P1n2/2b3N1/8/2Nb4/PP3PPP/2R3KR w - - 1 17,?! I think h4 is slightly more accurate in this position
+33,h3,h2h3,2r1r1k1/ppB2ppp/3P1n2/2b3N1/8/2Nb3P/PP3PP1/2R3KR b - - 0 17,?! I think h4 is slightly more accurate in this position
+34,h6,h7h6,2r1r1k1/ppB2pp1/3P1n1p/2b3N1/8/2Nb3P/PP3PP1/2R3KR w - - 0 18,?! This is a good move.... but the problem is 18.Nce4! is just much better. Often in this line of the perreux variation if white can tactically take control of the e4 square he has a good position.
+35,Nge4,g5e4,2r1r1k1/ppB2pp1/3P1n1p/2b5/4N3/2Nb3P/PP3PP1/2R3KR b - - 1 18,?! This is a good move.... but the problem is 18.Nce4! is just much better. Often in this line of the perreux variation if white can tactically take control of the e4 square he has a good position.
+36,Bxe4,d3e4,2r1r1k1/ppB2pp1/3P1n1p/2b5/4b3/2N4P/PP3PP1/2R3KR w - - 0 19,! the pawn comes into effect
+37,Nxe4,c3e4,2r1r1k1/ppB2pp1/3P1n1p/2b5/4N3/7P/PP3PP1/2R3KR b - - 0 19,! the pawn comes into effect
+38,Nxe4,f6e4,2r1r1k1/ppB2pp1/3P3p/2b5/4n3/7P/PP3PP1/2R3KR w - - 0 20,! the pawn comes into effect
+39,d7,d6d7,2r1r1k1/ppBP1pp1/7p/2b5/4n3/7P/PP3PP1/2R3KR b - - 0 20,! the pawn comes into effect
+40,Bxf2+,c5f2,2r1r1k1/ppBP1pp1/7p/8/4n3/7P/PP3bP1/2R3KR w - - 0 21,Setting the tricky trap 22. Bxd8 23. Bg3+! 24. Kg1 24. Rxc1+
+41,Kh2,g1h2,2r1r1k1/ppBP1pp1/7p/8/4n3/7P/PP3bPK/2R4R b - - 1 21,Setting the tricky trap 22. Bxd8 23. Bg3+! 24. Kg1 24. Rxc1+
+42,Red8,e8d8,2rr2k1/ppBP1pp1/7p/8/4n3/7P/PP3bPK/2R4R w - - 2 22,Setting the tricky trap 22. Bxd8 23. Bg3+! 24. Kg1 24. Rxc1+
+43,dxc8=Q,d7c8q,2Qr2k1/ppB2pp1/7p/8/4n3/7P/PP3bPK/2R4R b - - 0 22,"The game is paused here because of the tournament that started. I am up an exchange, he has a pawn and some piece play as compensation."
+44,Rxc8,d8c8,2r3k1/ppB2pp1/7p/8/4n3/7P/PP3bPK/2R4R w - - 0 23,"The game is paused here because of the tournament that started. I am up an exchange, he has a pawn and some piece play as compensation."

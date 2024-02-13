@@ -1,0 +1,16 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Opening up the queen and f1 bishop and controlling d5.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A common response, the king pawn game."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Attacking the pawn and leading to several common openings.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Protecting the pawn.  Other moves are d6 (Philidor) or Nf6 (Petrov).
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"The Scotch Opening.  Planning dxe5, winning a pawn."
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Destroying the threat and the d4 pawn.
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Recapturing and putting a knight in the center of the board.
+8,Nxd4,c6d4,r1bqkbnr/pppp1ppp/8/8/3nP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,Not the best move.  This allows the white queen to come to a powerful post at d4.  Better is Bc5 or Nf6.
+9,Qxd4,d1d4,r1bqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KB1R b KQkq - 0 5,Maintaining material equality.
+10,Qf6,d8f6,r1b1kbnr/pppp1ppp/5q2/8/3QP3/8/PPP2PPP/RNB1KB1R w KQkq - 1 6,Black is hoping for Qxf6 Nxf6 or a retreat of the queen.
+11,e5,e4e5,r1b1kbnr/pppp1ppp/5q2/4P3/3Q4/8/PPP2PPP/RNB1KB1R b KQkq - 0 6,This is a good move that wins a tempo for white.
+12,Qg6,f6g6,r1b1kbnr/pppp1ppp/6q1/4P3/3Q4/8/PPP2PPP/RNB1KB1R w KQkq - 1 7,A move that tries to avoid giving up a tempo by threatening the c2 pawn.  If Qb6 Qxb6 and Nc3 or Qc6 Nc3 or Qe6 Bc4.
+13,Nc3,b1c3,r1b1kbnr/pppp1ppp/6q1/4P3/3Q4/2N5/PPP2PPP/R1B1KB1R b KQkq - 2 7,Developing with tempo.  The pawn is not as undefended as it seems.
+14,Qxc2,g6c2,r1b1kbnr/pppp1ppp/8/4P3/3Q4/2N5/PPq2PPP/R1B1KB1R w KQkq - 0 8,?? Black greedily snatches the c pawn.
+15,Bd3,f1d3,r1b1kbnr/pppp1ppp/8/4P3/3Q4/2NB4/PPq2PPP/R1B1K2R b KQkq - 1 8,Black resigns as his queen is trapped.

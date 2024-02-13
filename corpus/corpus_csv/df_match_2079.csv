@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Interesting blitz.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"White has to play symmetrically because of Qb6. It's playable, but it leads to another kind of game."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"White has to play symmetrically because of Qb6. It's playable, but it leads to another kind of game."
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"White has to play symmetrically because of Qb6. It's playable, but it leads to another kind of game."
+5,c3,c2c3,rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 0 3,"White has to play symmetrically because of Qb6. It's playable, but it leads to another kind of game."
+6,h6,h7h6,rnbqkbnr/pp2ppp1/2p4p/3p4/3P1B2/2P5/PP2PPPP/RN1QKBNR w KQkq - 0 4,Preparing a pawn storm against the bishop.
+7,Nf3,g1f3,rnbqkbnr/pp2ppp1/2p4p/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 1 4,"g5, Bg3, h5, h4!. White thinks already on a queenside castling."
+8,e6,e7e6,rnbqkbnr/pp3pp1/2p1p2p/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 0 5,"g5, Bg3, h5, h4!. White thinks already on a queenside castling."
+9,Nbd2,b1d2,rnbqkbnr/pp3pp1/2p1p2p/3p4/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 1 5,Better was e3. White is preparing his own pawn storm.
+10,Nf6,g8f6,rnbqkb1r/pp3pp1/2p1pn1p/3p4/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 2 6,Better was e3. White is preparing his own pawn storm.
+11,h3,h2h3,rnbqkb1r/pp3pp1/2p1pn1p/3p4/3P1B2/2P2N1P/PP1NPPP1/R2QKB1R b KQkq - 0 6,Better was e3. White is preparing his own pawn storm.
+12,Bd6,f8d6,rnbqk2r/pp3pp1/2pbpn1p/3p4/3P1B2/2P2N1P/PP1NPPP1/R2QKB1R w KQkq - 1 7,The key move in this line. The K in f6 prevents black from playing f6 at once.
+13,Ne5,f3e5,rnbqk2r/pp3pp1/2pbpn1p/3pN3/3P1B2/2P4P/PP1NPPP1/R2QKB1R b KQkq - 2 7,The key move in this line. The K in f6 prevents black from playing f6 at once.
+14,O-O,e8g8,rnbq1rk1/pp3pp1/2pbpn1p/3pN3/3P1B2/2P4P/PP1NPPP1/R2QKB1R w KQ - 3 8,"Black should have gone Nh5, while he could. I'd answered Bh2."
+15,e3,e2e3,rnbq1rk1/pp3pp1/2pbpn1p/3pN3/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R b KQ - 0 8,Let's say we transposed into this well-known position.
+16,Qc7,d8c7,rnb2rk1/ppq2pp1/2pbpn1p/3pN3/3P1B2/2P1P2P/PP1N1PP1/R2QKB1R w KQ - 1 9,Preparing Nd7.
+17,g4,g2g4,rnb2rk1/ppq2pp1/2pbpn1p/3pN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R b KQ - 0 9,"Bd3 is not threatening. My bet on this opening is that white has to get the bishop out ONLY when it represents a real threat to black. I can see no difference in white's position after Bd3. I don't want to castle kinside. Even after Qc2, the check in h7 (alone) is not a threat, so there's no need to waste time, when other moves like the text can make the opponent stop and think?"
+18,c5,c6c5,rnb2rk1/ppq2pp1/3bpn1p/2ppN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R w KQ - 0 10,"! A good move. Still, black should have gone for the Nd7 way, slowing down white's attack. But the idea behind this move is to become active on the queenside - the right strategy for black, given the position. But this reflects c6 as a waste of time. Black will pay for it."
+19,Nb3,d2b3,rnb2rk1/ppq2pp1/3bpn1p/2ppN3/3P1BP1/1NP1P2P/PP3P2/R2QKB1R b KQ - 1 10,"This was a try. White can follow his original plan and just play h4, to g5, etc. The text move opens a tactic line if c4: Nc5. Then black has to calculate if he can safely take the c pawn with BxN, or kick the Knight with b6. I'm not sure at all that white will get advantage from any of those lines. So my move deserves a ?."
+20,cxd4,c5d4,rnb2rk1/ppq2pp1/3bpn1p/3pN3/3p1BP1/1NP1P2P/PP3P2/R2QKB1R w KQ - 0 11,"? I thought: ""not Nxd4 because of BxN. True is that then white can go Nb5, but I didn't see it during the game."
+21,exd4,e3d4,rnb2rk1/ppq2pp1/3bpn1p/3pN3/3P1BP1/1NP4P/PP3P2/R2QKB1R b KQ - 0 11,"? I thought: ""not Nxd4 because of BxN. True is that then white can go Nb5, but I didn't see it during the game."
+22,Ne4,f6e4,rnb2rk1/ppq2pp1/3bp2p/3pN3/3PnBP1/1NP4P/PP3P2/R2QKB1R w KQ - 1 12,"As frightening as it is, this knight is scarcely a problem for white. And, note, black has it not easy playing..."
+23,Qf3,d1f3,rnb2rk1/ppq2pp1/3bp2p/3pN3/3PnBP1/1NP2Q1P/PP3P2/R3KB1R b KQ - 2 12,"(This queen move is a key one, because it becomes active on black's kingside. Trust me. On the other side, protects c3 against a possible sac)"
+24,f6,f7f6,rnb2rk1/ppq3p1/3bpp1p/3pN3/3PnBP1/1NP2Q1P/PP3P2/R3KB1R w KQ - 0 13,...because of...
+25,Ng6,e5g6,rnb2rk1/ppq3p1/3bppNp/3p4/3PnBP1/1NP2Q1P/PP3P2/R3KB1R b KQ - 1 13,"Nice. If black goes BxB, NxR, and white wins the exchange."
+26,Rf7,f8f7,rnb3k1/ppq2rp1/3bppNp/3p4/3PnBP1/1NP2Q1P/PP3P2/R3KB1R w KQ - 2 14,"Wisely. But now, how to proceed? White has it not easy to continue the attack. The only attacking move is..."
+27,Bd3,f1d3,rnb3k1/ppq2rp1/3bppNp/3p4/3PnBP1/1NPB1Q1P/PP3P2/R3K2R b KQ - 3 14,"Black can exchange pieces, but he will lose the d5 pawn once in e4. This is not so simple, you see: black can try e5, and white can't take it or the rook's action on the f column will become dangerous. Anyway, black - who was obviously putting all his hopes in the knight sac on c3, saw the chance to play it - since the white queen is not covering it anymore."
+28,Nxc3,e4c3,rnb3k1/ppq2rp1/3bppNp/3p4/3P1BP1/1NnB1Q1P/PP3P2/R3K2R w KQ - 0 15,"White can take because the rook in a1 is defended by the knight but... why getting into this kind of danger? Here, Rc1 would have been very nice. I overlooked it, but I  found this nice move:"

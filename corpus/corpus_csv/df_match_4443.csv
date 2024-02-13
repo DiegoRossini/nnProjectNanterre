@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Here is a game where despite one losing a lot matter. Do not panic. there is still chance of winning or draw.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Wanting my light Bishop attack the f7 pawn.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Wanting my light Bishop attack the f7 pawn.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Wanting my light Bishop attack the f7 pawn.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Wanting my light Bishop attack the f7 pawn.
+6,Nh6,g8h6,r1bqkb1r/pppp1ppp/2n4n/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"Up till now been a book opening But black would be better:
+3. … Nf6 4. d3"
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n4n/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Want my Knight to join attack on the f7 pawn.
+8,Qxg5,d8g5,r1b1kb1r/pppp1ppp/2n4n/4p1q1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Black attacking my d2 pawn square by taking my Knight on g5
+9,Qf3,d1f3,r1b1kb1r/pppp1ppp/2n4n/4p1q1/2B1P3/5Q2/PPPP1PPP/RNB1K2R b KQkq - 1 5,"Continuing my attack on the f7 pawn.
+Better: 5. O-O Qh4 6. d3 Bc5 7. Bxh6 Qxh6 8. Nc3 O-O 9. Nd5 Bd6 10. c3 Kh8 11. Re1 f5 12. Qf3 fxe4 13. Qxe4"
+10,Nd4,c6d4,r1b1kb1r/pppp1ppp/7n/4p1q1/2BnP3/5Q2/PPPP1PPP/RNB1K2R w KQkq - 2 6,Black brings Knight into battle by attacking my Queen.
+11,Qe3,f3e3,r1b1kb1r/pppp1ppp/7n/4p1q1/2BnP3/4Q3/PPPP1PPP/RNB1K2R b KQkq - 3 6,"Ok, Decide I willing to exchange queen. I like a simplified game anyway"
+12,Qxg2,g5g2,r1b1kb1r/pppp1ppp/7n/4p3/2BnP3/4Q3/PPPP1PqP/RNB1K2R w KQkq - 0 7,Black did not want to exchange Queens at this time. He wants my Rook.
+13,Rf1,h1f1,r1b1kb1r/pppp1ppp/7n/4p3/2BnP3/4Q3/PPPP1PqP/RNB1KR2 b Qkq - 1 7,"I am down a Pawn and a Piece at this time. I move my Rook so if taken, I take his Queen."
+14,Nf3+,d4f3,r1b1kb1r/pppp1ppp/7n/4p3/2B1P3/4Qn2/PPPP1PqP/RNB1KR2 w Qkq - 2 8,"Puts my King in Check. I haft to move my King. Already can not castle King side.
+Would be better: 8. … Nxc2+ 8. Kd1 Nxe3+ 9. fxe3 Qxe4 10. Bb5 Qg2 11. h4 Nf5 12. Nc3 Bb4 13. Bd3 d6 14. Be2 Bd7 15. h5 c6 16. d3"
+15,Ke2,e1e2,r1b1kb1r/pppp1ppp/7n/4p3/2B1P3/4Qn2/PPPPKPqP/RNB2R2 b kq - 3 8,Move King so I can still support the Rook.
+16,Ng1+,f3g1,r1b1kb1r/pppp1ppp/7n/4p3/2B1P3/4Q3/PPPPKPqP/RNB2Rn1 w kq - 4 9,"Checks again my King with same Knight.
+Better: 9. … Nxc2+ 8. Kd1 Nxe3+ 9. fxe3 Qxe4 10. Bb5 Qg2 11. h4 Nf5 12. Nc3 Bb4 13. Bd3 d6 14. Be2 Bd7 15. h5 c6 16. d3"
+17,Ke1,e2e1,r1b1kb1r/pppp1ppp/7n/4p3/2B1P3/4Q3/PPPP1PqP/RNB1KRn1 b kq - 5 9,"So I move my King again to support my Rook.
+Might better maybe take the Knight;
+9. Rxg1 Qxg1 10. Nc3 Qxh2 11. Nb5 Kd8"
+18,b6,b7b6,r1b1kb1r/p1pp1ppp/1p5n/4p3/2B1P3/4Q3/PPPP1PqP/RNB1KRn1 w kq - 0 10,"black prepares to bring out his light Bishop on Queen side.
+Better, 9. … Nf3+ 10. Kd1 Ng4 11. Qd3 Nxf2+ 12. Rxf2 Qxf2"
+19,Bd5,c4d5,r1b1kb1r/p1pp1ppp/1p5n/3Bp3/4P3/4Q3/PPPP1PqP/RNB1KRn1 b kq - 1 10,"so I put my light Bishop on center attacking his Queen side Rook preventing him bring out Bishop and at the same time cover my e4 pawn. In case he wants to take it with the Queen.
+Better: 10. Qg3 Qxe4+ 11. Kd1 Qxc4 12. Qxe5+ Qe6"
+20,c6,c7c6,r1b1kb1r/p2p1ppp/1pp4n/3Bp3/4P3/4Q3/PPPP1PqP/RNB1KRn1 w kq - 0 11,"So He attacks my Bishop with the c pawn.
+Better:10. … Nf3+ 11. Qxf3 Qxf3 12. Bxa8 Ng4"
+21,Bc4,d5c4,r1b1kb1r/p2p1ppp/1pp4n/4p3/2B1P3/4Q3/PPPP1PqP/RNB1KRn1 b kq - 1 11,So move Bishop but still attacking f7 square.
+22,d5,d7d5,r1b1kb1r/p4ppp/1pp4n/3pp3/2B1P3/4Q3/PPPP1PqP/RNB1KRn1 w kq - 0 12,"Attacks my Bishop and Pawn on e4 with his d pawn.
+Better: … Nf3+ 11. Qxf3 Qxf3 12. Bxa8 Ng4"
+23,exd5,e4d5,r1b1kb1r/p4ppp/1pp4n/3Pp3/2B5/4Q3/PPPP1PqP/RNB1KRn1 b kq - 0 12,"So let exchange pawns. 
+Better: 12. Be2 Bg4 13. f3 Bc5 14. d4 Bxd4"

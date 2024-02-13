@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King pawn opening, very popular and solid."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Sicilian defence, an opening I enjoy playing as black."
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Alapin's variation.  The pawn on c3 supports an eventual pawn on d4.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,This move develops the knight with the tempo of attacking the e4 pawn.
+5,e5,e4e5,rnbqkb1r/pp1ppppp/5n2/2p1P3/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3,Attacks the knight and removes the pawn from danger.
+6,Nd5,f6d5,rnbqkb1r/pp1ppppp/8/2pnP3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 4,Removes the knight from danger and moves to a central location.
+7,d4,d2d4,rnbqkb1r/pp1ppppp/8/2pnP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,The pawn thrust that was supported by 2) c3.
+8,cxd4,c5d4,rnbqkb1r/pp1ppppp/8/3nP3/3p4/2P5/PP3PPP/RNBQKBNR w KQkq - 0 5,Trading of central pawns to open up the c-file.
+9,cxd4,c3d4,rnbqkb1r/pp1ppppp/8/3nP3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,Completely opens the c-file.  The battle for this file will come into play later on in the game.
+10,e6,e7e6,rnbqkb1r/pp1p1ppp/4p3/3nP3/3P4/8/PP3PPP/RNBQKBNR w KQkq - 0 6,"I was still going off the database at this point.  The top two options for black were d6 and e6.  I prefered e6 because d6 seemed to temporarily lock in my black bishop.  I had plans of developing my white bishop to b7, so I didn't view e6 as locking in my white bishop."
+11,Nf3,g1f3,rnbqkb1r/pp1p1ppp/4p3/3nP3/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6,Standard developing move.
+12,b5,b7b5,rnbqkb1r/p2p1ppp/4p3/1p1nP3/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7,"This was the point where the game left the database.  As I mentioned before, the plan is to develop the bishop to b7 and take control of the long diagonal.  The move b6 was also a possibility, but b5 was a nice little trap.
+
+If white plays spontaneously 7) Bxb5, he loses the bishop to 7) ... Qa5 , forking the king and bishop.  The only way to defend both threats is 8) Nc3, after which black wins a piece with 8) ... Nxc3.  This trap is a good one to watch out for.
+
+Besides setting a trap, b5 also takes up more space on the queenside after being eventually backed up by a pawn on a6.  This is an example of a good trap: one that improves your position while giving your opponent an opportunity to make a blunder.  The only potential downside to this move is that it weakens the c5 square, and this will come to show later in the game."
+13,a3,a2a3,rnbqkb1r/p2p1ppp/4p3/1p1nP3/3P4/P4N2/1P3PPP/RNBQKB1R b KQkq - 0 7,"Of course, my opponent was too good to fall for the trap.  Instead, he stops a possible bishop check at b4."
+14,Bb7,c8b7,rn1qkb1r/pb1p1ppp/4p3/1p1nP3/3P4/P4N2/1P3PPP/RNBQKB1R w KQkq - 1 8,"Developing the bishop.  The other option was to immediately play a6 (which is the intended pawn set-up) and to play Bb7 next move, but I figured it would be better to leave the trap still in the air, just in case."
+15,Bd3,f1d3,rn1qkb1r/pb1p1ppp/4p3/1p1nP3/3P4/P2B1N2/1P3PPP/RNBQK2R b KQkq - 2 8,"It's now clear that white is definitely not going to fall for the trap.  Instead, he clears the way to castle kingside."
+16,a6,a7a6,rn1qkb1r/1b1p1ppp/p3p3/1p1nP3/3P4/P2B1N2/1P3PPP/RNBQK2R w KQkq - 0 9,"If white castles, the trap no longer exists.  This move supports the b6 pawn and moves into the structure I had planned."
+17,O-O,e1g1,rn1qkb1r/1b1p1ppp/p3p3/1p1nP3/3P4/P2B1N2/1P3PPP/RNBQ1RK1 b kq - 1 9,Develops the knight and puts pressure on d4.
+18,Nc6,b8c6,r2qkb1r/1b1p1ppp/p1n1p3/1p1nP3/3P4/P2B1N2/1P3PPP/RNBQ1RK1 w kq - 2 10,Develops the knight and puts pressure on d4.
+19,b4,b2b4,r2qkb1r/1b1p1ppp/p1n1p3/1p1nP3/1P1P4/P2B1N2/5PPP/RNBQ1RK1 b kq - 0 10,"Solidifies the pawn structure and provides an excellent knight outpost at c5.  This move also limits the mobility of my black bishop, whose only developing move is on e7.  A good, solid move."
+20,Qb6,d8b6,r3kb1r/1b1p1ppp/pqn1p3/1p1nP3/1P1P4/P2B1N2/5PPP/RNBQ1RK1 w kq - 1 11,"I was a bit torn between Qb6 and Nb6 at this point.  Qb6 has the immediate threat of winning the d4 pawn, but Nd6 is a much more strategical move.  Nd6 would prepare my knight to infiltrate at either c4 or a4 (probably c4), which would put it at a good outpost.  Nd4 would also start to clear up the long diagonal for my white bishop.  I ended up going with Qd6, which may have been a small mistake."
+21,Be3,c1e3,r3kb1r/1b1p1ppp/pqn1p3/1p1nP3/1P1P4/P2BBN2/5PPP/RN1Q1RK1 b kq - 2 11,Defends the pawn on e4 while developing the bishop.

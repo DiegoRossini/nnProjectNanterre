@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Benoni 6, no surprise, A65"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Benoni 6, no surprise, A65"
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Benoni 6, no surprise, A65"
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Benoni 6, no surprise, A65"
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"Benoni 6, no surprise, A65"
+6,e6,e7e6,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,"Benoni 6, no surprise, A65"
+7,Nc3,b1c3,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,"Benoni 6, no surprise, A65"
+8,exd5,e6d5,rnbqkb1r/pp1p1ppp/5n2/2pp4/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5,"Benoni 6, no surprise, A65"
+9,cxd5,c4d5,rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5,"Benoni 6, no surprise, A65"
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 6,"Benoni 6, no surprise, A65"
+11,e4,e2e4,rnbqkb1r/pp3ppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 6,"Benoni 6, no surprise, A65"
+12,g6,g7g6,rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 7,"Benoni 6, no surprise, A65"
+13,Bb5+,f1b5,rnbqkb1r/pp3p1p/3p1np1/1BpP4/4P3/2N5/PP3PPP/R1BQK1NR b KQkq - 1 7,"Not an ECO line, but not poor for white. Black has to be careful not to get his knights pinned all over."
+14,Nbd7,b8d7,r1bqkb1r/pp1n1p1p/3p1np1/1BpP4/4P3/2N5/PP3PPP/R1BQK1NR w KQkq - 2 8,"The white squared black bishop is often a very useful piece in the benoni, and is better than white's white squared bishop, often boxed in by its own pawns."
+15,Nge2,g1e2,r1bqkb1r/pp1n1p1p/3p1np1/1BpP4/4P3/2N5/PP2NPPP/R1BQK2R b KQkq - 3 8,"Nf3 is stronger, white shouldn't make the black squares (specifically e5 and d4) so easy to control."
+16,a6,a7a6,r1bqkb1r/1p1n1p1p/p2p1np1/1BpP4/4P3/2N5/PP2NPPP/R1BQK2R w KQkq - 0 9,"black already has equal (if not better) development and the bishop pair, looking to free open the board."
+17,Bxd7+,b5d7,r1bqkb1r/1p1B1p1p/p2p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQK2R b KQkq - 0 9,"black already has equal (if not better) development and the bishop pair, looking to free open the board."
+18,Bxd7,c8d7,r2qkb1r/1p1b1p1p/p2p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQK2R w KQkq - 0 10,"black already has equal (if not better) development and the bishop pair, looking to free open the board."
+19,O-O,e1g1,r2qkb1r/1p1b1p1p/p2p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQ1RK1 b kq - 1 10,"A waste of a move, in my opinion. The knight can get to e5 via d7 if it wanted to that badly, and if Bg4 would probably not be played on account ofr f3 being open. Better is Bf4, or Be3 developing."
+20,Bg7,f8g7,r2qk2r/1p1b1pbp/p2p1np1/2pP4/4P3/2N5/PP2NPPP/R1BQ1RK1 w kq - 2 11,"A waste of a move, in my opinion. The knight can get to e5 via d7 if it wanted to that badly, and if Bg4 would probably not be played on account ofr f3 being open. Better is Bf4, or Be3 developing."
+21,h3,h2h3,r2qk2r/1p1b1pbp/p2p1np1/2pP4/4P3/2N4P/PP2NPP1/R1BQ1RK1 b kq - 0 11,"A waste of a move, in my opinion. The knight can get to e5 via d7 if it wanted to that badly, and if Bg4 would probably not be played on account ofr f3 being open. Better is Bf4, or Be3 developing."
+22,O-O,e8g8,r2q1rk1/1p1b1pbp/p2p1np1/2pP4/4P3/2N4P/PP2NPP1/R1BQ1RK1 w - - 1 12,"I was considering playing b5 here, going for the initiative, but decided to rather castle and finish developement first."
+23,Bf4,c1f4,r2q1rk1/1p1b1pbp/p2p1np1/2pP4/4PB2/2N4P/PP2NPP1/R2Q1RK1 b - - 2 12,"better is Ng3, as the knight is horrorous on e2, and this move completely weakens the black squares around white's king."
+24,Qe7,d8e7,r4rk1/1p1bqpbp/p2p1np1/2pP4/4PB2/2N4P/PP2NPP1/R2Q1RK1 w - - 3 13,"better is Ng3, as the knight is horrorous on e2, and this move completely weakens the black squares around white's king."
+25,f3,f2f3,r4rk1/1p1bqpbp/p2p1np1/2pP4/4PB2/2N2P1P/PP2N1P1/R2Q1RK1 b - - 0 13,"better is Ng3, as the knight is horrorous on e2, and this move completely weakens the black squares around white's king."
+26,Nh5,f6h5,r4rk1/1p1bqpbp/p2p2p1/2pP3n/4PB2/2N2P1P/PP2N1P1/R2Q1RK1 w - - 1 14,"black plays both sides of the board, looking for spacial advantage on the queenside with a queenside initiative. The vast majority of his pieces are aimed at the center and the queenside."
+27,Be3,f4e3,r4rk1/1p1bqpbp/p2p2p1/2pP3n/4P3/2N1BP1P/PP2N1P1/R2Q1RK1 b - - 2 14,"black plays both sides of the board, looking for spacial advantage on the queenside with a queenside initiative. The vast majority of his pieces are aimed at the center and the queenside."
+28,b5,b7b5,r4rk1/3bqpbp/p2p2p1/1ppP3n/4P3/2N1BP1P/PP2N1P1/R2Q1RK1 w - - 0 15,"black plays both sides of the board, looking for spacial advantage on the queenside with a queenside initiative. The vast majority of his pieces are aimed at the center and the queenside."
+29,a3,a2a3,r4rk1/3bqpbp/p2p2p1/1ppP3n/4P3/P1N1BP1P/1P2N1P1/R2Q1RK1 b - - 0 15,"Yet another wasteful pawn move, in my opinion. White doesn't seem to have much of a plan, and definately does not have the initiative. Qd2, with developement, seems better, or perhaps g4?! with a tenacious kingside attack."
+30,f5,f7f5,r4rk1/3bq1bp/p2p2p1/1ppP1p1n/4P3/P1N1BP1P/1P2N1P1/R2Q1RK1 w - - 0 16,Black has achieved his two ideal pawn breaks in the benoni on b5 and f5. This is not good for white.
+31,Qc2,d1c2,r4rk1/3bq1bp/p2p2p1/1ppP1p1n/4P3/P1N1BP1P/1PQ1N1P1/R4RK1 b - - 1 16,working the queenside initiative.
+32,b4,b5b4,r4rk1/3bq1bp/p2p2p1/2pP1p1n/1p2P3/P1N1BP1P/1PQ1N1P1/R4RK1 w - - 0 17,working the queenside initiative.
+33,axb4,a3b4,r4rk1/3bq1bp/p2p2p1/2pP1p1n/1P2P3/2N1BP1P/1PQ1N1P1/R4RK1 b - - 0 17,black now has play on the open C file as well.
+34,cxb4,c5b4,r4rk1/3bq1bp/p2p2p1/3P1p1n/1p2P3/2N1BP1P/1PQ1N1P1/R4RK1 w - - 0 18,black now has play on the open C file as well.
+35,Na4,c3a4,r4rk1/3bq1bp/p2p2p1/3P1p1n/Np2P3/4BP1P/1PQ1N1P1/R4RK1 b - - 1 18,"Whites pawn structure is crushed, and his pieces very uncoordinated. Black enjoys a deadly long a1-h8 diagonal, a strong white squared bishop, and an open C file."
+36,fxe4,f5e4,r4rk1/3bq1bp/p2p2p1/3P3n/Np2p3/4BP1P/1PQ1N1P1/R4RK1 w - - 0 19,"Whites pawn structure is crushed, and his pieces very uncoordinated. Black enjoys a deadly long a1-h8 diagonal, a strong white squared bishop, and an open C file."
+37,fxe4,f3e4,r4rk1/3bq1bp/p2p2p1/3P3n/Np2P3/4B2P/1PQ1N1P1/R4RK1 b - - 0 19,I almost think f5 may have better.
+38,Rxf1+,f8f1,r5k1/3bq1bp/p2p2p1/3P3n/Np2P3/4B2P/1PQ1N1P1/R4rK1 w - - 0 20,Rxf1? Rc8 w/Qxe4.
+39,Kxf1,g1f1,r5k1/3bq1bp/p2p2p1/3P3n/Np2P3/4B2P/1PQ1N1P1/R4K2 b - - 0 20,Rxf1? Rc8 w/Qxe4.
+40,Rc8,a8c8,2r3k1/3bq1bp/p2p2p1/3P3n/Np2P3/4B2P/1PQ1N1P1/R4K2 w - - 1 21,Another piece moves in on the white territory. White is being devastated in his attempt to defend.
+41,Qb1,c2b1,2r3k1/3bq1bp/p2p2p1/3P3n/Np2P3/4B2P/1P2N1P1/RQ3K2 b - - 2 21,Another piece moves in on the white territory. White is being devastated in his attempt to defend.
+42,Bb5,d7b5,2r3k1/4q1bp/p2p2p1/1b1P3n/Np2P3/4B2P/1P2N1P1/RQ3K2 w - - 3 22,Another piece moves in on the white territory. White is being devastated in his attempt to defend.
+43,Nb6,a4b6,2r3k1/4q1bp/pN1p2p1/1b1P3n/1p2P3/4B2P/1P2N1P1/RQ3K2 b - - 4 22,trying to hold the knight.
+44,Rf8+,c8f8,5rk1/4q1bp/pN1p2p1/1b1P3n/1p2P3/4B2P/1P2N1P1/RQ3K2 w - - 5 23,trying to hold the knight.
+45,Ke1,f1e1,5rk1/4q1bp/pN1p2p1/1b1P3n/1p2P3/4B2P/1P2N1P1/RQ2K3 b - - 6 23,trying to hold the knight.
+46,Qh4+,e7h4,5rk1/6bp/pN1p2p1/1b1P3n/1p2P2q/4B2P/1P2N1P1/RQ2K3 w - - 7 24,white's king is being fired on heavily.
+47,Kd2,e1d2,5rk1/6bp/pN1p2p1/1b1P3n/1p2P2q/4B2P/1P1KN1P1/RQ6 b - - 8 24,A very powerful move.
+48,Ng3,h5g3,5rk1/6bp/pN1p2p1/1b1P4/1p2P2q/4B1nP/1P1KN1P1/RQ6 w - - 9 25,A very powerful move.

@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"? Bowlder Attack. Rather weak, but popular among less booked players as it seems good. But it allows Black to take the center with tempo when he plays d5."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"? Bowlder Attack. Rather weak, but popular among less booked players as it seems good. But it allows Black to take the center with tempo when he plays d5."
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"? Bowlder Attack. Rather weak, but popular among less booked players as it seems good. But it allows Black to take the center with tempo when he plays d5."
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,Nf6 inorder to play d5 was better.
+5,Nc3,b1c3,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 1 3,Nf6 inorder to play d5 was better.
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 2 4,Nf6 inorder to play d5 was better.
+7,Nf3,g1f3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,I like d3 more inorder to play Bg5 after 4...Nf6
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5,"d5 was much better, this allows a transposition into a more normal Sicilian (Looks like the Four Knight where white played Bc4 instead of Ndb5)"
+9,d4,d2d4,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 5,"d5 was much better, this allows a transposition into a more normal Sicilian (Looks like the Four Knight where white played Bc4 instead of Ndb5)"
+10,cxd4,c5d4,r1bqkb1r/pp1p1ppp/2n1pn2/8/2BpP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,"d5 was much better, this allows a transposition into a more normal Sicilian (Looks like the Four Knight where white played Bc4 instead of Ndb5)"
+11,Nxd4,f3d4,r1bqkb1r/pp1p1ppp/2n1pn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 6,"even after the captures in the center, d5 still looks good, desptie the isoltated d pawn, Ne5 also looks better than Bb4."
+12,Bb4,f8b4,r1bqk2r/pp1p1ppp/2n1pn2/8/1bBNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 1 7,"even after the captures in the center, d5 still looks good, desptie the isoltated d pawn, Ne5 also looks better than Bb4."
+13,Ndb5,d4b5,r1bqk2r/pp1p1ppp/2n1pn2/1N6/1bB1P3/2N5/PPP2PPP/R1BQK2R b KQkq - 2 7,"Clever and agressive, and possibly consistent. But simply castling seems safer."
+14,a6,a7a6,r1bqk2r/1p1p1ppp/p1n1pn2/1N6/1bB1P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,"Nxe4 and d5 (yes d5 again, the center is the most important part of the board) both are better."
+15,Nd6+,b5d6,r1bqk2r/1p1p1ppp/p1nNpn2/8/1bB1P3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 8,? Bad on a count of Nxe5
+16,Ke7,e8e7,r1bq3r/1p1pkppp/p1nNpn2/8/1bB1P3/2N5/PPP2PPP/R1BQK2R w KQ - 2 9,? Bad on a count of Nxe5
+17,e5,e4e5,r1bq3r/1p1pkppp/p1nNpn2/4P3/1bB5/2N5/PPP2PPP/R1BQK2R b KQ - 0 9,? Bad on a count of Nxe5
+18,Ne8,f6e8,r1bqn2r/1p1pkppp/p1nNp3/4P3/1bB5/2N5/PPP2PPP/R1BQK2R w KQ - 1 10,? Bad on a count of not being Nxe5
+19,Bg5+,c1g5,r1bqn2r/1p1pkppp/p1nNp3/4P1B1/1bB5/2N5/PPP2PPP/R2QK2R b KQ - 2 10,??Loses a piece after Nxe5 Nxc8  Qxc8 or Bxd6 exd6 Nxd6 with a duble attack on the 2 bishops.
+20,f6,f7f6,r1bqn2r/1p1pk1pp/p1nNpp2/4P1B1/1bB5/2N5/PPP2PPP/R2QK2R w KQ - 0 11,??Loses a piece after Nxe5 Nxc8  Qxc8 or Bxd6 exd6 Nxd6 with a duble attack on the 2 bishops.
+21,Qf3,d1f3,r1bqn2r/1p1pk1pp/p1nNpp2/4P1B1/1bB5/2N2Q2/PPP2PPP/R3K2R b KQ - 1 11,??Loses a piece after Nxe5 Nxc8  Qxc8 or Bxd6 exd6 Nxd6 with a duble attack on the 2 bishops.
+22,Bxd6,b4d6,r1bqn2r/1p1pk1pp/p1nbpp2/4P1B1/2B5/2N2Q2/PPP2PPP/R3K2R w KQ - 0 12,One way to win a piece
+23,exd6+,e5d6,r1bqn2r/1p1pk1pp/p1nPpp2/6B1/2B5/2N2Q2/PPP2PPP/R3K2R b KQ - 0 12,?? Looks to me to just lose another piece because afterExd5 there is still a double attack on the bioshops.
+24,Nxd6,e8d6,r1bq3r/1p1pk1pp/p1nnpp2/6B1/2B5/2N2Q2/PPP2PPP/R3K2R w KQ - 0 13,?? Looks to me to just lose another piece because afterExd5 there is still a double attack on the bioshops.
+25,Nd5+,c3d5,r1bq3r/1p1pk1pp/p1nnpp2/3N2B1/2B5/5Q2/PPP2PPP/R3K2R b KQ - 1 13,?? Looks to me to just lose another piece because afterExd5 there is still a double attack on the bioshops.
+26,Kf7,e7f7,r1bq3r/1p1p1kpp/p1nnpp2/3N2B1/2B5/5Q2/PPP2PPP/R3K2R w KQ - 2 14,"I prefer the simplest method, of just taking the knight and then a bishop."
+27,Bf4,g5f4,r1bq3r/1p1p1kpp/p1nnpp2/3N4/2B2B2/5Q2/PPP2PPP/R3K2R b KQ - 3 14,I like Nxf6 more because it atleast gets a pawn for the piece as opposed to nothing
+28,Nxc4,d6c4,r1bq3r/1p1p1kpp/p1n1pp2/3N4/2n2B2/5Q2/PPP2PPP/R3K2R w KQ - 0 15,?? looks good as the knight cant be taken right now (exd5 Qxd5  and white wins a knight. but after N6e5 Bxe5 Nxe5 both queen and knight are attacked and white loses another piece.
+29,O-O-O,e1c1,r1bq3r/1p1p1kpp/p1n1pp2/3N4/2n2B2/5Q2/PPP2PPP/2KR3R b - - 1 15,?? looks good as the knight cant be taken right now (exd5 Qxd5  and white wins a knight. but after N6e5 Bxe5 Nxe5 both queen and knight are attacked and white loses another piece.
+30,e5,e6e5,r1bq3r/1p1p1kpp/p1n2p2/3Np3/2n2B2/5Q2/PPP2PPP/2KR3R w - - 0 16,? N6e5 is better.
+31,Qb3,f3b3,r1bq3r/1p1p1kpp/p1n2p2/3Np3/2n2B2/1Q6/PPP2PPP/2KR3R b - - 1 16,"?? Weak because of N6a5 with another, yes you guessed it, DOUBLE ATTACK!!"
+32,Nc4a5,c4a5,r1bq3r/1p1p1kpp/p1n2p2/n2Np3/5B2/1Q6/PPP2PPP/2KR3R w - - 2 17,just as good as N6a5
+33,Qb6,b3b6,r1bq3r/1p1p1kpp/pQn2p2/n2Np3/5B2/8/PPP2PPP/2KR3R b - - 3 17,A nice try
+34,Qxb6,d8b6,r1b4r/1p1p1kpp/pqn2p2/n2Np3/5B2/8/PPP2PPP/2KR3R w - - 0 18,??Simpler is exf4 which just wins another piece without worrying about complications like the knight attacking the rook.

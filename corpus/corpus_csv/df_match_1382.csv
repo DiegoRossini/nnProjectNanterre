@@ -1,0 +1,76 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Patzer opening.  (Your opponent is looking toward the four move check mate--will come out with Bc4 if you let him).
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Patzer opening.  (Your opponent is looking toward the four move check mate--will come out with Bc4 if you let him).
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Patzer opening.  (Your opponent is looking toward the four move check mate--will come out with Bc4 if you let him).
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"Nc6 is the most typical response for black.  It defends the pawn and although it does not discourage Bc4, black ends up chasing the white queen while developing his pieces with 3...Pg6 (in response to Bc4).
+
+Putting the queen out on the field early is not bad when playing lower rated amateurs.  It is a powerful piece.  But the move is considered risky.  White's leading responses all do well."
+5,Nf3,g1f3,rnb1kbnr/pppp1ppp/5q2/4p2Q/4P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 3 3,With this move black loses Pe5.  I like Pd6 which protects Pe5 from white's marauding queen.
+6,g6,g7g6,rnb1kbnr/pppp1p1p/5qp1/4p2Q/4P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 0 4,With this move black loses Pe5.  I like Pd6 which protects Pe5 from white's marauding queen.
+7,Qxe5+,h5e5,rnb1kbnr/pppp1p1p/5qp1/4Q3/4P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 0 4,"Black might have been better off trading queens.  Now white can play QxPc7, putting black down a second pawn early in the game."
+8,Be7,f8e7,rnb1k1nr/ppppbp1p/5qp1/4Q3/4P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 1 5,"Black might have been better off trading queens.  Now white can play QxPc7, putting black down a second pawn early in the game."
+9,Qxc7,e5c7,rnb1k1nr/ppQpbp1p/5qp1/8/4P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 0 5,"While this is a decent move for black, white might respond with BxNa6.  Every trade now benefits white.  This trade doesn't double blacks pawns, though, since black can reply with QxBa6."
+10,Na6,b8a6,r1b1k1nr/ppQpbp1p/n4qp1/8/4P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 1 6,"While this is a decent move for black, white might respond with BxNa6.  Every trade now benefits white.  This trade doesn't double blacks pawns, though, since black can reply with QxBa6."
+11,Qc4,c7c4,r1b1k1nr/pp1pbp1p/n4qp1/8/2Q1P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 2 6,"White might better play Bb5, forcing black to defend Bd7.  BxBb5, QxB+, black cannot interpose and must move the king followed by QxPb7.  While this is generally considered a ""poisoned"" pawn, white cleans up Pa7 or Na6 too."
+12,d6,d7d6,r1b1k1nr/pp2bp1p/n2p1qp1/8/2Q1P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 0 7,"White might better play Bb5, forcing black to defend Bd7.  BxBb5, QxB+, black cannot interpose and must move the king followed by QxPb7.  While this is generally considered a ""poisoned"" pawn, white cleans up Pa7 or Na6 too."
+13,Qa4+,c4a4,r1b1k1nr/pp2bp1p/n2p1qp1/8/Q3P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 1 7,"White might better play Bb5, forcing black to defend Bd7.  BxBb5, QxB+, black cannot interpose and must move the king followed by QxPb7.  While this is generally considered a ""poisoned"" pawn, white cleans up Pa7 or Na6 too."
+14,Bd7,c8d7,r3k1nr/pp1bbp1p/n2p1qp1/8/Q3P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 2 8,"White might better play Bb5, forcing black to defend Bd7.  BxBb5, QxB+, black cannot interpose and must move the king followed by QxPb7.  While this is generally considered a ""poisoned"" pawn, white cleans up Pa7 or Na6 too."
+15,Qb3,a4b3,r3k1nr/pp1bbp1p/n2p1qp1/8/4P3/1Q3N2/PPPP1PPP/RNB1KB1R b KQkq - 3 8,"White might better play Bb5, forcing black to defend Bd7.  BxBb5, QxB+, black cannot interpose and must move the king followed by QxPb7.  While this is generally considered a ""poisoned"" pawn, white cleans up Pa7 or Na6 too."
+16,Be6,d7e6,r3k1nr/pp2bp1p/n2pbqp1/8/4P3/1Q3N2/PPPP1PPP/RNB1KB1R w KQkq - 4 9,This is a hollow threat.  White moved the queen on the b file to swallow Pb7.
+17,Qxb7,b3b7,r3k1nr/pQ2bp1p/n2pbqp1/8/4P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 0 9,"This doesn't save the knight, of course, but black could at least recoup one point with Rc8.  QxNa6, RxPc2.  On second thought, that isn't any good either, as white would move Qa4+ and seize Rc2.  The white queen has become a gnawing cancer in black's side."
+18,Rb8,a8b8,1r2k1nr/pQ2bp1p/n2pbqp1/8/4P3/5N2/PPPP1PPP/RNB1KB1R w KQk - 1 10,"This doesn't save the knight, of course, but black could at least recoup one point with Rc8.  QxNa6, RxPc2.  On second thought, that isn't any good either, as white would move Qa4+ and seize Rc2.  The white queen has become a gnawing cancer in black's side."
+19,Qxa6,b7a6,1r2k1nr/p3bp1p/Q2pbqp1/8/4P3/5N2/PPPP1PPP/RNB1KB1R b KQk - 0 10,QxPa7 must be coming up pretty quick.
+20,Rxb2,b8b2,4k1nr/p3bp1p/Q2pbqp1/8/4P3/5N2/PrPP1PPP/RNB1KB1R w KQk - 0 11,"While this might look like a bad move at first blush, it is actually quite good.  Black would end up trading a pawn, bishop, AND rook for black's rook provided white takes the bait.  White's best response here appears to be Pe5.  Black must then move the queen, giving white a cheap rook."
+21,Nc3,b1c3,4k1nr/p3bp1p/Q2pbqp1/8/4P3/2N2N2/PrPP1PPP/R1B1KB1R b KQk - 1 11,RxPc2 will trap the black rook.
+22,Rxc2,b2c2,4k1nr/p3bp1p/Q2pbqp1/8/4P3/2N2N2/P1rP1PPP/R1B1KB1R w KQk - 0 12,"Now it cannot move, though Nc3 is also pinned."
+23,Qxa7,a6a7,4k1nr/Q3bp1p/3pbqp1/8/4P3/2N2N2/P1rP1PPP/R1B1KB1R b KQk - 0 12,I'm partial to Rb1 for white.  Sets up lots of good possibilities.  I wish I could see possibilities for black.  It is understandable white the white queen chose a4--she has her eye on wrecking Rc2.
+24,Kf8,e8f8,5knr/Q3bp1p/3pbqp1/8/4P3/2N2N2/P1rP1PPP/R1B1KB1R w KQ - 1 13,I'm partial to Rb1 for white.  Sets up lots of good possibilities.  I wish I could see possibilities for black.  It is understandable white the white queen chose a4--she has her eye on wrecking Rc2.
+25,Qa4,a7a4,5knr/4bp1p/3pbqp1/8/Q3P3/2N2N2/P1rP1PPP/R1B1KB1R b KQ - 2 13,I'm partial to Rb1 for white.  Sets up lots of good possibilities.  I wish I could see possibilities for black.  It is understandable white the white queen chose a4--she has her eye on wrecking Rc2.
+26,Rxc3,c2c3,5knr/4bp1p/3pbqp1/8/Q3P3/2r2N2/P2P1PPP/R1B1KB1R w KQ - 0 14,"Actually, this is a great move for black.  PxRc3 and white loses the pawn with QxPc3+ AND the a rook.  I take back what I said earlier about the black rook being trapped.  Nice recover!  There is one small fly in the ointment, though--Bb2.  This pins the black rook against the black queen.  Black can trade the rook for the bishop with Rc1+, RxRc1, QxBb2.  White can then kind of force a queen trade (all trades are white's advantage while white enjoys material) with Qd4."
+27,Bb2,c1b2,5knr/4bp1p/3pbqp1/8/Q3P3/2r2N2/PB1P1PPP/R3KB1R b KQ - 1 14,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+28,Rc1+,c3c1,5knr/4bp1p/3pbqp1/8/Q3P3/5N2/PB1P1PPP/R1r1KB1R w KQ - 2 15,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+29,Rxc1,a1c1,5knr/4bp1p/3pbqp1/8/Q3P3/5N2/PB1P1PPP/2R1KB1R b K - 0 15,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+30,Qxb2,f6b2,5knr/4bp1p/3pb1p1/8/Q3P3/5N2/Pq1P1PPP/2R1KB1R w K - 0 16,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+31,Rc2,c1c2,5knr/4bp1p/3pb1p1/8/Q3P3/5N2/PqRP1PPP/4KB1R b K - 1 16,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+32,Qb6,b2b6,5knr/4bp1p/1q1pb1p1/8/Q3P3/5N2/P1RP1PPP/4KB1R w K - 2 17,"I kind of like Qb1+ better.  White won't interpose the rook, and Ke2 traps white's white bishop."
+33,Bc4,f1c4,5knr/4bp1p/1q1pb1p1/8/Q1B1P3/5N2/P1RP1PPP/4K2R b K - 3 17,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+34,Bxc4,e6c4,5knr/4bp1p/1q1p2p1/8/Q1b1P3/5N2/P1RP1PPP/4K2R w K - 0 18,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+35,Rxc4,c2c4,5knr/4bp1p/1q1p2p1/8/Q1R1P3/5N2/P2P1PPP/4K2R b K - 0 18,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+36,Qb1+,b6b1,5knr/4bp1p/3p2p1/8/Q1R1P3/5N2/P2P1PPP/1q2K2R w K - 1 19,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+37,Qd1,a4d1,5knr/4bp1p/3p2p1/8/2R1P3/5N2/P2P1PPP/1q1QK2R b K - 2 19,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+38,Qxa2,b1a2,5knr/4bp1p/3p2p1/8/2R1P3/5N2/q2P1PPP/3QK2R w K - 0 20,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+39,Rc8+,c4c8,2R2knr/4bp1p/3p2p1/8/4P3/5N2/q2P1PPP/3QK2R b K - 1 20,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+40,Kg7,f8g7,2R3nr/4bpkp/3p2p1/8/4P3/5N2/q2P1PPP/3QK2R w K - 2 21,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+41,O-O,e1g1,2R3nr/4bpkp/3p2p1/8/4P3/5N2/q2P1PPP/3Q1RK1 b - - 3 21,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+42,Qa6,a2a6,2R3nr/4bpkp/q2p2p1/8/4P3/5N2/3P1PPP/3Q1RK1 w - - 4 22,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+43,Rc1,c8c1,6nr/4bpkp/q2p2p1/8/4P3/5N2/3P1PPP/2RQ1RK1 b - - 5 22,"Qc1 seems like a better idea.  So long as the white rook remains on black's 8th rank the knight is pinned (against a rook swap), and white can pour more power onto the black side of the board."
+44,Nf6,g8f6,7r/4bpkp/q2p1np1/8/4P3/5N2/3P1PPP/2RQ1RK1 w - - 6 23,"Although black is down only three points, white wants to trade."
+45,d3,d2d3,7r/4bpkp/q2p1np1/8/4P3/3P1N2/5PPP/2RQ1RK1 b - - 0 23,"Although black is down only three points, white wants to trade."
+46,Ng4,f6g4,7r/4bpkp/q2p2p1/8/4P1n1/3P1N2/5PPP/2RQ1RK1 w - - 1 24,"Although black is down only three points, white wants to trade."
+47,Nd4,f3d4,7r/4bpkp/q2p2p1/8/3NP1n1/3P4/5PPP/2RQ1RK1 b - - 2 24,"Although black is down only three points, white wants to trade."
+48,h5,h7h5,7r/4bpk1/q2p2p1/7p/3NP1n1/3P4/5PPP/2RQ1RK1 w - - 0 25,"Although black is down only three points, white wants to trade."
+49,h3,h2h3,7r/4bpk1/q2p2p1/7p/3NP1n1/3P3P/5PP1/2RQ1RK1 b - - 0 25,"Although black is down only three points, white wants to trade."
+50,Ne5,g4e5,7r/4bpk1/q2p2p1/4n2p/3NP3/3P3P/5PP1/2RQ1RK1 w - - 1 26,"Although black is down only three points, white wants to trade."
+51,Rc3,c1c3,7r/4bpk1/q2p2p1/4n2p/3NP3/2RP3P/5PP1/3Q1RK1 b - - 2 26,"Although black is down only three points, white wants to trade."
+52,Rc8,h8c8,2r5/4bpk1/q2p2p1/4n2p/3NP3/2RP3P/5PP1/3Q1RK1 w - - 3 27,"Although black is down only three points, white wants to trade."
+53,Rxc8,c3c8,2R5/4bpk1/q2p2p1/4n2p/3NP3/3P3P/5PP1/3Q1RK1 b - - 0 27,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+54,Qxc8,a6c8,2q5/4bpk1/3p2p1/4n2p/3NP3/3P3P/5PP1/3Q1RK1 w - - 0 28,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+55,f4,f2f4,2q5/4bpk1/3p2p1/4n2p/3NPP2/3P3P/6P1/3Q1RK1 b - - 0 28,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+56,Nd7,e5d7,2q5/3nbpk1/3p2p1/7p/3NPP2/3P3P/6P1/3Q1RK1 w - - 1 29,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+57,f5,f4f5,2q5/3nbpk1/3p2p1/5P1p/3NP3/3P3P/6P1/3Q1RK1 b - - 0 29,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+58,gxf5,g6f5,2q5/3nbpk1/3p4/5p1p/3NP3/3P3P/6P1/3Q1RK1 w - - 0 30,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+59,Nxf5+,d4f5,2q5/3nbpk1/3p4/5N1p/4P3/3P3P/6P1/3Q1RK1 b - - 0 30,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+60,Kf6,g7f6,2q5/3nbp2/3p1k2/5N1p/4P3/3P3P/6P1/3Q1RK1 w - - 1 31,"Wrong square.  Black should play Kg6 to protect against QxPh5, and worse, NxPd6+ which gives white the black queen."
+61,Nxd6+,f5d6,2q5/3nbp2/3N1k2/7p/4P3/3P3P/6P1/3Q1RK1 b - - 0 31,...for free.
+62,Ke6,f6e6,2q5/3nbp2/3Nk3/7p/4P3/3P3P/6P1/3Q1RK1 w - - 1 32,...for free.
+63,Nxc8,d6c8,2N5/3nbp2/4k3/7p/4P3/3P3P/6P1/3Q1RK1 b - - 0 32,...for free.
+64,Ne5,d7e5,2N5/4bp2/4k3/4n2p/4P3/3P3P/6P1/3Q1RK1 w - - 1 33,
+65,Qb3+,d1b3,2N5/4bp2/4k3/4n2p/4P3/1Q1P3P/6P1/5RK1 b - - 2 33,
+66,Kd7,e6d7,2N5/3kbp2/8/4n2p/4P3/1Q1P3P/6P1/5RK1 w - - 3 34,
+67,Nxe7,c8e7,8/3kNp2/8/4n2p/4P3/1Q1P3P/6P1/5RK1 b - - 0 34,
+68,Kxe7,d7e7,8/4kp2/8/4n2p/4P3/1Q1P3P/6P1/5RK1 w - - 0 35,
+69,d4,d3d4,8/4kp2/8/4n2p/3PP3/1Q5P/6P1/5RK1 b - - 0 35,
+70,Nc6,e5c6,8/4kp2/2n5/7p/3PP3/1Q5P/6P1/5RK1 w - - 1 36,
+71,Qxf7+,b3f7,8/4kQ2/2n5/7p/3PP3/7P/6P1/5RK1 b - - 0 36,
+72,Kd6,e7d6,8/5Q2/2nk4/7p/3PP3/7P/6P1/5RK1 w - - 1 37,
+73,Rf6#,f1f6,8/5Q2/2nk1R2/7p/3PP3/7P/6P1/6K1 b - - 2 37,

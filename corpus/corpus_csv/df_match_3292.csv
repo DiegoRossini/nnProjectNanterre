@@ -1,0 +1,114 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's Gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's Gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,King's Gambit
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Black accepts the gambit.
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,a poor move
+6,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,a poor move
+7,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4,"Blunder, but hey! it's blitz."
+8,Be7,f8e7,rnbqk1nr/ppp1bppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq - 1 5,"Blunder, but hey! it's blitz."
+9,Nc3,b1c3,rnbqk1nr/ppp1bppp/8/3P4/5p2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 2 5,"Blunder, but hey! it's blitz."
+10,Bh4+,e7h4,rnbqk1nr/ppp2ppp/8/3P4/5p1b/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 3 6,The king goes a-running.
+11,Ke2,e1e2,rnbqk1nr/ppp2ppp/8/3P4/5p1b/2N2N2/PPPPK1PP/R1BQ1B1R b kq - 4 6,The king goes a-running.
+12,Qe7+,d8e7,rnb1k1nr/ppp1qppp/8/3P4/5p1b/2N2N2/PPPPK1PP/R1BQ1B1R w kq - 5 7,The king goes a-running.
+13,Kd3,e2d3,rnb1k1nr/ppp1qppp/8/3P4/5p1b/2NK1N2/PPPP2PP/R1BQ1B1R b kq - 6 7,The king goes a-running.
+14,Bf5+,c8f5,rn2k1nr/ppp1qppp/8/3P1b2/5p1b/2NK1N2/PPPP2PP/R1BQ1B1R w kq - 7 8,But where's the mate?
+15,Kc4,d3c4,rn2k1nr/ppp1qppp/8/3P1b2/2K2p1b/2N2N2/PPPP2PP/R1BQ1B1R b kq - 8 8,But where's the mate?
+16,Nd7,b8d7,r3k1nr/pppnqppp/8/3P1b2/2K2p1b/2N2N2/PPPP2PP/R1BQ1B1R w kq - 9 9,But where's the mate?
+17,Nxh4,f3h4,r3k1nr/pppnqppp/8/3P1b2/2K2p1N/2N5/PPPP2PP/R1BQ1B1R b kq - 0 9,But where's the mate?
+18,Nb6+,d7b6,r3k1nr/ppp1qppp/1n6/3P1b2/2K2p1N/2N5/PPPP2PP/R1BQ1B1R w kq - 1 10,But where's the mate?
+19,Kb3,c4b3,r3k1nr/ppp1qppp/1n6/3P1b2/5p1N/1KN5/PPPP2PP/R1BQ1B1R b kq - 2 10,But where's the mate?
+20,Qxh4,e7h4,r3k1nr/ppp2ppp/1n6/3P1b2/5p1q/1KN5/PPPP2PP/R1BQ1B1R w kq - 0 11,"With Queens off the board, White's king is ... unstoppable! LOL!"
+21,Qe2+,d1e2,r3k1nr/ppp2ppp/1n6/3P1b2/5p1q/1KN5/PPPPQ1PP/R1B2B1R b kq - 1 11,"With Queens off the board, White's king is ... unstoppable! LOL!"
+22,Ne7,g8e7,r3k2r/ppp1nppp/1n6/3P1b2/5p1q/1KN5/PPPPQ1PP/R1B2B1R w kq - 2 12,"With Queens off the board, White's king is ... unstoppable! LOL!"
+23,Qb5+,e2b5,r3k2r/ppp1nppp/1n6/1Q1P1b2/5p1q/1KN5/PPPP2PP/R1B2B1R b kq - 3 12,"With Queens off the board, White's king is ... unstoppable! LOL!"
+24,Bd7,f5d7,r3k2r/pppbnppp/1n6/1Q1P4/5p1q/1KN5/PPPP2PP/R1B2B1R w kq - 4 13,"With Queens off the board, White's king is ... unstoppable! LOL!"
+25,Qe2,b5e2,r3k2r/pppbnppp/1n6/3P4/5p1q/1KN5/PPPPQ1PP/R1B2B1R b kq - 5 13,"With Queens off the board, White's king is ... unstoppable! LOL!"
+26,O-O-O,e8c8,2kr3r/pppbnppp/1n6/3P4/5p1q/1KN5/PPPPQ1PP/R1B2B1R w - - 6 14,"With Queens off the board, White's king is ... unstoppable! LOL!"
+27,Qe4,e2e4,2kr3r/pppbnppp/1n6/3P4/4Qp1q/1KN5/PPPP2PP/R1B2B1R b - - 7 14,"With Queens off the board, White's king is ... unstoppable! LOL!"
+28,f5,f7f5,2kr3r/pppbn1pp/1n6/3P1p2/4Qp1q/1KN5/PPPP2PP/R1B2B1R w - - 0 15,"With Queens off the board, White's king is ... unstoppable! LOL!"
+29,Qf3,e4f3,2kr3r/pppbn1pp/1n6/3P1p2/5p1q/1KN2Q2/PPPP2PP/R1B2B1R b - - 1 15,"With Queens off the board, White's king is ... unstoppable! LOL!"
+30,Qf6,h4f6,2kr3r/pppbn1pp/1n3q2/3P1p2/5p2/1KN2Q2/PPPP2PP/R1B2B1R w - - 2 16,"With Queens off the board, White's king is ... unstoppable! LOL!"
+31,d3,d2d3,2kr3r/pppbn1pp/1n3q2/3P1p2/5p2/1KNP1Q2/PPP3PP/R1B2B1R b - - 0 16,"With Queens off the board, White's king is ... unstoppable! LOL!"
+32,Qd4,f6d4,2kr3r/pppbn1pp/1n6/3P1p2/3q1p2/1KNP1Q2/PPP3PP/R1B2B1R w - - 1 17,"With Queens off the board, White's king is ... unstoppable! LOL!"
+33,Qxf4,f3f4,2kr3r/pppbn1pp/1n6/3P1p2/3q1Q2/1KNP4/PPP3PP/R1B2B1R b - - 0 17,"With Queens off the board, White's king is ... unstoppable! LOL!"
+34,Qc5,d4c5,2kr3r/pppbn1pp/1n6/2qP1p2/5Q2/1KNP4/PPP3PP/R1B2B1R w - - 1 18,"With Queens off the board, White's king is ... unstoppable! LOL!"
+35,Be3,c1e3,2kr3r/pppbn1pp/1n6/2qP1p2/5Q2/1KNPB3/PPP3PP/R4B1R b - - 2 18,"With Queens off the board, White's king is ... unstoppable! LOL!"
+36,Qa5,c5a5,2kr3r/pppbn1pp/1n6/q2P1p2/5Q2/1KNPB3/PPP3PP/R4B1R w - - 3 19,"With Queens off the board, White's king is ... unstoppable! LOL!"
+37,Bxb6,e3b6,2kr3r/pppbn1pp/1B6/q2P1p2/5Q2/1KNP4/PPP3PP/R4B1R b - - 0 19,"With Queens off the board, White's king is ... unstoppable! LOL!"
+38,Qxb6+,a5b6,2kr3r/pppbn1pp/1q6/3P1p2/5Q2/1KNP4/PPP3PP/R4B1R w - - 0 20,"With Queens off the board, White's king is ... unstoppable! LOL!"
+39,Qb4,f4b4,2kr3r/pppbn1pp/1q6/3P1p2/1Q6/1KNP4/PPP3PP/R4B1R b - - 1 20,"With Queens off the board, White's king is ... unstoppable! LOL!"
+40,Qxb4+,b6b4,2kr3r/pppbn1pp/8/3P1p2/1q6/1KNP4/PPP3PP/R4B1R w - - 0 21,"With Queens off the board, White's king is ... unstoppable! LOL!"
+41,Kxb4,b3b4,2kr3r/pppbn1pp/8/3P1p2/1K6/2NP4/PPP3PP/R4B1R b - - 0 21,"With Queens off the board, White's king is ... unstoppable! LOL!"
+42,g6,g7g6,2kr3r/pppbn2p/6p1/3P1p2/1K6/2NP4/PPP3PP/R4B1R w - - 0 22,losing a piece ... and eventually the game
+43,Be2,f1e2,2kr3r/pppbn2p/6p1/3P1p2/1K6/2NP4/PPP1B1PP/R6R b - - 1 22,losing a piece ... and eventually the game
+44,Be8,d7e8,2krb2r/ppp1n2p/6p1/3P1p2/1K6/2NP4/PPP1B1PP/R6R w - - 2 23,losing a piece ... and eventually the game
+45,Bf3,e2f3,2krb2r/ppp1n2p/6p1/3P1p2/1K6/2NP1B2/PPP3PP/R6R b - - 3 23,losing a piece ... and eventually the game
+46,Bf7,e8f7,2kr3r/ppp1nb1p/6p1/3P1p2/1K6/2NP1B2/PPP3PP/R6R w - - 4 24,losing a piece ... and eventually the game
+47,d6,d5d6,2kr3r/ppp1nb1p/3P2p1/5p2/1K6/2NP1B2/PPP3PP/R6R b - - 0 24,losing a piece ... and eventually the game
+48,cxd6,c7d6,2kr3r/pp2nb1p/3p2p1/5p2/1K6/2NP1B2/PPP3PP/R6R w - - 0 25,losing a piece ... and eventually the game
+49,Rhe1,h1e1,2kr3r/pp2nb1p/3p2p1/5p2/1K6/2NP1B2/PPP3PP/R3R3 b - - 1 25,losing a piece ... and eventually the game
+50,Nd5+,e7d5,2kr3r/pp3b1p/3p2p1/3n1p2/1K6/2NP1B2/PPP3PP/R3R3 w - - 2 26,losing a piece ... and eventually the game
+51,Nxd5,c3d5,2kr3r/pp3b1p/3p2p1/3N1p2/1K6/3P1B2/PPP3PP/R3R3 b - - 0 26,2 consecutive blunders in a row!
+52,Bxd5,f7d5,2kr3r/pp5p/3p2p1/3b1p2/1K6/3P1B2/PPP3PP/R3R3 w - - 0 27,2 consecutive blunders in a row!
+53,Bxd5,f3d5,2kr3r/pp5p/3p2p1/3B1p2/1K6/3P4/PPP3PP/R3R3 b - - 0 27,2 consecutive blunders in a row!
+54,Rd7,d8d7,2k4r/pp1r3p/3p2p1/3B1p2/1K6/3P4/PPP3PP/R3R3 w - - 1 28,2 consecutive blunders in a row!
+55,Be6,d5e6,2k4r/pp1r3p/3pB1p1/5p2/1K6/3P4/PPP3PP/R3R3 b - - 2 28,2 consecutive blunders in a row!
+56,Rhd8,h8d8,2kr4/pp1r3p/3pB1p1/5p2/1K6/3P4/PPP3PP/R3R3 w - - 3 29,Now Black will have no pieces left.
+57,Bxd7+,e6d7,2kr4/pp1B3p/3p2p1/5p2/1K6/3P4/PPP3PP/R3R3 b - - 0 29,Now Black will have no pieces left.
+58,Rxd7,d8d7,2k5/pp1r3p/3p2p1/5p2/1K6/3P4/PPP3PP/R3R3 w - - 0 30,Now Black will have no pieces left.
+59,Re8+,e1e8,2k1R3/pp1r3p/3p2p1/5p2/1K6/3P4/PPP3PP/R7 b - - 1 30,Now Black will have no pieces left.
+60,Kc7,c8c7,4R3/ppkr3p/3p2p1/5p2/1K6/3P4/PPP3PP/R7 w - - 2 31,Now Black will have no pieces left.
+61,Rae1,a1e1,4R3/ppkr3p/3p2p1/5p2/1K6/3P4/PPP3PP/4R3 b - - 3 31,Now Black will have no pieces left.
+62,Kc6,c7c6,4R3/pp1r3p/2kp2p1/5p2/1K6/3P4/PPP3PP/4R3 w - - 4 32,Now Black will have no pieces left.
+63,c4,c2c4,4R3/pp1r3p/2kp2p1/5p2/1KP5/3P4/PP4PP/4R3 b - - 0 32,Now Black will have no pieces left.
+64,d5,d6d5,4R3/pp1r3p/2k3p1/3p1p2/1KP5/3P4/PP4PP/4R3 w - - 0 33,Now Black will have no pieces left.
+65,Re1e6+,e1e6,4R3/pp1r3p/2k1R1p1/3p1p2/1KP5/3P4/PP4PP/8 b - - 1 33,Now Black will have no pieces left.
+66,Kc7,c6c7,4R3/ppkr3p/4R1p1/3p1p2/1KP5/3P4/PP4PP/8 w - - 2 34,Now Black will have no pieces left.
+67,Re8e7,e8e7,8/ppkrR2p/4R1p1/3p1p2/1KP5/3P4/PP4PP/8 b - - 3 34,Now Black will have no pieces left.
+68,dxc4,d5c4,8/ppkrR2p/4R1p1/5p2/1Kp5/3P4/PP4PP/8 w - - 0 35,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+69,dxc4,d3c4,8/ppkrR2p/4R1p1/5p2/1KP5/8/PP4PP/8 b - - 0 35,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+70,b6,b7b6,8/p1krR2p/1p2R1p1/5p2/1KP5/8/PP4PP/8 w - - 0 36,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+71,Rxd7+,e7d7,8/p1kR3p/1p2R1p1/5p2/1KP5/8/PP4PP/8 b - - 0 36,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+72,Kxd7,c7d7,8/p2k3p/1p2R1p1/5p2/1KP5/8/PP4PP/8 w - - 0 37,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+73,Rf6,e6f6,8/p2k3p/1p3Rp1/5p2/1KP5/8/PP4PP/8 b - - 1 37,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+74,Ke7,d7e7,8/p3k2p/1p3Rp1/5p2/1KP5/8/PP4PP/8 w - - 2 38,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+75,Rc6,f6c6,8/p3k2p/1pR3p1/5p2/1KP5/8/PP4PP/8 b - - 3 38,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+76,Kd7,e7d7,8/p2k3p/1pR3p1/5p2/1KP5/8/PP4PP/8 w - - 4 39,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+77,Kb5,b4b5,8/p2k3p/1pR3p1/1K3p2/2P5/8/PP4PP/8 b - - 5 39,"If Black tries a6+, hoping for Kxa6?? ... Kxc6, just Kxb6 and it's only a matter of time."
+78,f4,f5f4,8/p2k3p/1pR3p1/1K6/2P2p2/8/PP4PP/8 w - - 0 40,Black tries to win on time.
+79,Rf6,c6f6,8/p2k3p/1p3Rp1/1K6/2P2p2/8/PP4PP/8 b - - 1 40,Black tries to win on time.
+80,Ke7,d7e7,8/p3k2p/1p3Rp1/1K6/2P2p2/8/PP4PP/8 w - - 2 41,Black tries to win on time.
+81,Rxf4,f6f4,8/p3k2p/1p4p1/1K6/2P2R2/8/PP4PP/8 b - - 0 41,Black tries to win on time.
+82,Ke6,e7e6,8/p6p/1p2k1p1/1K6/2P2R2/8/PP4PP/8 w - - 1 42,Black tries to win on time.
+83,h4,h2h4,8/p6p/1p2k1p1/1K6/2P2R1P/8/PP4P1/8 b - - 0 42,Black tries to win on time.
+84,h5,h7h5,8/p7/1p2k1p1/1K5p/2P2R1P/8/PP4P1/8 w - - 0 43,Black tries to win on time.
+85,g3,g2g3,8/p7/1p2k1p1/1K5p/2P2R1P/6P1/PP6/8 b - - 0 43,Black tries to win on time.
+86,Ke5,e6e5,8/p7/1p4p1/1K2k2p/2P2R1P/6P1/PP6/8 w - - 1 44,Black tries to win on time.
+87,Ka6,b5a6,8/p7/Kp4p1/4k2p/2P2R1P/6P1/PP6/8 b - - 2 44,Black tries to win on time.
+88,Kd6,e5d6,8/p7/Kp1k2p1/7p/2P2R1P/6P1/PP6/8 w - - 3 45,Black tries to win on time.
+89,Kxa7,a6a7,8/K7/1p1k2p1/7p/2P2R1P/6P1/PP6/8 b - - 0 45,Black tries to win on time.
+90,Kc5,d6c5,8/K7/1p4p1/2k4p/2P2R1P/6P1/PP6/8 w - - 1 46,Black tries to win on time.
+91,a3,a2a3,8/K7/1p4p1/2k4p/2P2R1P/P5P1/1P6/8 b - - 0 46,Black tries to win on time.
+92,b5,b6b5,8/K7/6p1/1pk4p/2P2R1P/P5P1/1P6/8 w - - 0 47,Black tries to win on time.
+93,b4+,b2b4,8/K7/6p1/1pk4p/1PP2R1P/P5P1/8/8 b - - 0 47,Black tries to win on time.
+94,Kc6,c5c6,8/K7/2k3p1/1p5p/1PP2R1P/P5P1/8/8 w - - 1 48,Black tries to win on time.
+95,c5,c4c5,8/K7/2k3p1/1pP4p/1P3R1P/P5P1/8/8 b - - 0 48,Black tries to win on time.
+96,Kd5,c6d5,8/K7/6p1/1pPk3p/1P3R1P/P5P1/8/8 w - - 1 49,Black tries to win on time.
+97,Kb6,a7b6,8/8/1K4p1/1pPk3p/1P3R1P/P5P1/8/8 b - - 2 49,Black tries to win on time.
+98,Ke5,d5e5,8/8/1K4p1/1pP1k2p/1P3R1P/P5P1/8/8 w - - 3 50,Black tries to win on time.
+99,c6,c5c6,8/8/1KP3p1/1p2k2p/1P3R1P/P5P1/8/8 b - - 0 50,Black tries to win on time.
+100,g5,g6g5,8/8/1KP5/1p2k1pp/1P3R1P/P5P1/8/8 w - - 0 51,Black tries to win on time.
+101,hxg5,h4g5,8/8/1KP5/1p2k1Pp/1P3R2/P5P1/8/8 b - - 0 51,Black tries to win on time.
+102,h4,h5h4,8/8/1KP5/1p2k1P1/1P3R1p/P5P1/8/8 w - - 0 52,Black tries to win on time.
+103,Rxh4,f4h4,8/8/1KP5/1p2k1P1/1P5R/P5P1/8/8 b - - 0 52,Black tries to win on time.
+104,Kf5,e5f5,8/8/1KP5/1p3kP1/1P5R/P5P1/8/8 w - - 1 53,Black tries to win on time.
+105,c7,c6c7,8/2P5/1K6/1p3kP1/1P5R/P5P1/8/8 b - - 0 53,Black tries to win on time.
+106,Kxg5,f5g5,8/2P5/1K6/1p4k1/1P5R/P5P1/8/8 w - - 0 54,Black tries to win on time.
+107,Rf4,h4f4,8/2P5/1K6/1p4k1/1P3R2/P5P1/8/8 b - - 1 54,Black tries to win on time.
+108,Kh5,g5h5,8/2P5/1K6/1p5k/1P3R2/P5P1/8/8 w - - 2 55,Black tries to win on time.
+109,c8=Q,c7c8q,2Q5/8/1K6/1p5k/1P3R2/P5P1/8/8 b - - 0 55,Black tries to win on time.
+110,Kg5,h5g5,2Q5/8/1K6/1p4k1/1P3R2/P5P1/8/8 w - - 1 56,Too bad for you!
+111,Qg8+,c8g8,6Q1/8/1K6/1p4k1/1P3R2/P5P1/8/8 b - - 2 56,Too bad for you!
+112,Kh5,g5h5,6Q1/8/1K6/1p5k/1P3R2/P5P1/8/8 w - - 3 57,Too bad for you!
+113,Rh4#,f4h4,6Q1/8/1K6/1p5k/1P5R/P5P1/8/8 b - - 4 57,Too bad for you!

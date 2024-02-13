@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,The English
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Guess White wants some room
+3,Nc3,b1c3,rnbqkbnr/pppppp1p/6p1/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,Guess White wants some room
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,Guess White wants some room
+5,g3,g2g3,rnbqk1nr/ppppppbp/6p1/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,Guess White wants some room
+6,Nf6,g8f6,rnbqk2r/ppppppbp/5np1/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Guess White wants some room
+7,Bg2,f1g2,rnbqk2r/ppppppbp/5np1/8/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,Guess White wants some room
+8,O-O,e8g8,rnbq1rk1/ppppppbp/5np1/8/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQ - 3 5,Guess White wants some room
+9,Nf3,g1f3,rnbq1rk1/ppppppbp/5np1/8/2P5/2N2NP1/PP1PPPBP/R1BQK2R b KQ - 4 5,Guess White wants some room
+10,d6,d7d6,rnbq1rk1/ppp1ppbp/3p1np1/8/2P5/2N2NP1/PP1PPPBP/R1BQK2R w KQ - 0 6,Guess White wants some room
+11,O-O,e1g1,rnbq1rk1/ppp1ppbp/3p1np1/8/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 b - - 1 6,Guess White wants some room
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 w - - 0 7,Guess White wants some room
+13,d4,d2d4,rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 7,Guess White wants some room
+14,Nc6,b8c6,r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 1 8,"White presses forth, and will follow with e4"
+15,d5,d4d5,r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8,"White presses forth, and will follow with e4"
+16,Nb8,c6b8,rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 1 9,"I think this is an error on my part, should have put the Knight to d7"
+17,e4,e2e4,rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2NP1/PP3PBP/R1BQ1RK1 b - - 0 9,"I think this is an error on my part, should have put the Knight to d7"
+18,a6,a7a6,rnbq1rk1/1p2ppbp/p2p1np1/2pP4/2P1P3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 10,"I think this is an error on my part, should have put the Knight to d7"
+19,Re1,f1e1,rnbq1rk1/1p2ppbp/p2p1np1/2pP4/2P1P3/2N2NP1/PP3PBP/R1BQR1K1 b - - 1 10,White will play d5
+20,Nbd7,b8d7,r1bq1rk1/1p1nppbp/p2p1np1/2pP4/2P1P3/2N2NP1/PP3PBP/R1BQR1K1 w - - 2 11,Time to have a go at c4 and try to encourage b3
+21,e5,e4e5,r1bq1rk1/1p1nppbp/p2p1np1/2pPP3/2P5/2N2NP1/PP3PBP/R1BQR1K1 b - - 0 11,Time to have a go at c4 and try to encourage b3
+22,dxe5,d6e5,r1bq1rk1/1p1nppbp/p4np1/2pPp3/2P5/2N2NP1/PP3PBP/R1BQR1K1 w - - 0 12,Time to have a go at c4 and try to encourage b3
+23,Nxe5,f3e5,r1bq1rk1/1p1nppbp/p4np1/2pPN3/2P5/2N3P1/PP3PBP/R1BQR1K1 b - - 0 12,Time to have a go at c4 and try to encourage b3
+24,Nxe5,d7e5,r1bq1rk1/1p2ppbp/p4np1/2pPn3/2P5/2N3P1/PP3PBP/R1BQR1K1 w - - 0 13,Time to have a go at c4 and try to encourage b3
+25,Rxe5,e1e5,r1bq1rk1/1p2ppbp/p4np1/2pPR3/2P5/2N3P1/PP3PBP/R1BQ2K1 b - - 0 13,Time to have a go at c4 and try to encourage b3
+26,Ng4,f6g4,r1bq1rk1/1p2ppbp/p5p1/2pPR3/2P3n1/2N3P1/PP3PBP/R1BQ2K1 w - - 1 14,Time to have a go at c4 and try to encourage b3
+27,Re1,e5e1,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P3n1/2N3P1/PP3PBP/R1BQR1K1 b - - 2 14,Time to have a go at c4 and try to encourage b3
+28,Ne5,g4e5,r1bq1rk1/1p2ppbp/p5p1/2pPn3/2P5/2N3P1/PP3PBP/R1BQR1K1 w - - 3 15,"This is a poor move, it allows the knight to d3 and gives black the opportunity of removing the black squared bishop"
+29,Qb3,d1b3,r1bq1rk1/1p2ppbp/p5p1/2pPn3/2P5/1QN3P1/PP3PBP/R1B1R1K1 b - - 4 15,"This is a poor move, it allows the knight to d3 and gives black the opportunity of removing the black squared bishop"
+30,Nd3,e5d3,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P5/1QNn2P1/PP3PBP/R1B1R1K1 w - - 5 16,"Black now has the bishop pair, and will force white to open the king side with b-h6"
+31,Re3,e1e3,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P5/1QNnR1P1/PP3PBP/R1B3K1 b - - 6 16,"Black now has the bishop pair, and will force white to open the king side with b-h6"
+32,Nxc1,d3c1,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P5/1QN1R1P1/PP3PBP/R1n3K1 w - - 0 17,"Black now has the bishop pair, and will force white to open the king side with b-h6"
+33,Rxc1,a1c1,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P5/1QN1R1P1/PP3PBP/2R3K1 b - - 0 17,"Black now has the bishop pair, and will force white to open the king side with b-h6"
+34,Bh6,g7h6,r1bq1rk1/1p2pp1p/p5pb/2pP4/2P5/1QN1R1P1/PP3PBP/2R3K1 w - - 1 18,Black is threatening a pin
+35,f4,f2f4,r1bq1rk1/1p2pp1p/p5pb/2pP4/2P2P2/1QN1R1P1/PP4BP/2R3K1 b - - 0 18,Black is threatening a pin
+36,Bg7,h6g7,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P2P2/1QN1R1P1/PP4BP/2R3K1 w - - 1 19,Black is threatening a pin
+37,Rce1,c1e1,r1bq1rk1/1p2ppbp/p5p1/2pP4/2P2P2/1QN1R1P1/PP4BP/4R1K1 b - - 2 19,White has missed it
+38,Bd4,g7d4,r1bq1rk1/1p2pp1p/p5p1/2pP4/2Pb1P2/1QN1R1P1/PP4BP/4R1K1 w - - 3 20,This black bishop is a good piece but white's rooks are strong so it is best to get rid
+39,Kf1,g1f1,r1bq1rk1/1p2pp1p/p5p1/2pP4/2Pb1P2/1QN1R1P1/PP4BP/4RK2 b - - 4 20,This black bishop is a good piece but white's rooks are strong so it is best to get rid
+40,Bxe3,d4e3,r1bq1rk1/1p2pp1p/p5p1/2pP4/2P2P2/1QN1b1P1/PP4BP/4RK2 w - - 0 21,Time to simplify
+41,Rxe3,e1e3,r1bq1rk1/1p2pp1p/p5p1/2pP4/2P2P2/1QN1R1P1/PP4BP/5K2 b - - 0 21,Time to simplify
+42,Rb8,a8b8,1rbq1rk1/1p2pp1p/p5p1/2pP4/2P2P2/1QN1R1P1/PP4BP/5K2 w - - 1 22,Time to simplify
+43,a4,a2a4,1rbq1rk1/1p2pp1p/p5p1/2pP4/P1P2P2/1QN1R1P1/1P4BP/5K2 b - - 0 22,Time to simplify
+44,e6,e7e6,1rbq1rk1/1p3p1p/p3p1p1/2pP4/P1P2P2/1QN1R1P1/1P4BP/5K2 w - - 0 23,Time to simplify
+45,dxe6,d5e6,1rbq1rk1/1p3p1p/p3P1p1/2p5/P1P2P2/1QN1R1P1/1P4BP/5K2 b - - 0 23,White is looking for N-f6 to cause all type of trouble
+46,Bxe6,c8e6,1r1q1rk1/1p3p1p/p3b1p1/2p5/P1P2P2/1QN1R1P1/1P4BP/5K2 w - - 0 24,White is looking for N-f6 to cause all type of trouble
+47,Nd5,c3d5,1r1q1rk1/1p3p1p/p3b1p1/2pN4/P1P2P2/1Q2R1P1/1P4BP/5K2 b - - 1 24,White is looking for N-f6 to cause all type of trouble
+48,b6,b7b6,1r1q1rk1/5p1p/pp2b1p1/2pN4/P1P2P2/1Q2R1P1/1P4BP/5K2 w - - 0 25,White is looking for N-f6 to cause all type of trouble
+49,Qc3,b3c3,1r1q1rk1/5p1p/pp2b1p1/2pN4/P1P2P2/2Q1R1P1/1P4BP/5K2 b - - 1 25,White is looking for N-f6 to cause all type of trouble
+50,Bxd5,e6d5,1r1q1rk1/5p1p/pp4p1/2pb4/P1P2P2/2Q1R1P1/1P4BP/5K2 w - - 0 26,Black places the queen on a better square
+51,cxd5,c4d5,1r1q1rk1/5p1p/pp4p1/2pP4/P4P2/2Q1R1P1/1P4BP/5K2 b - - 0 26,Black places the queen on a better square
+52,Qd7,d8d7,1r3rk1/3q1p1p/pp4p1/2pP4/P4P2/2Q1R1P1/1P4BP/5K2 w - - 1 27,"Again trying to simplify, the d pawn will fall"
+53,Qf6,c3f6,1r3rk1/3q1p1p/pp3Qp1/2pP4/P4P2/4R1P1/1P4BP/5K2 b - - 2 27,"Again trying to simplify, the d pawn will fall"
+54,Rfe8,f8e8,1r2r1k1/3q1p1p/pp3Qp1/2pP4/P4P2/4R1P1/1P4BP/5K2 w - - 3 28,"Again trying to simplify, the d pawn will fall"
+55,Rd3,e3d3,1r2r1k1/3q1p1p/pp3Qp1/2pP4/P4P2/3R2P1/1P4BP/5K2 b - - 4 28,"White gives up the file, Black grabs a pawn and is threatening all kinds of nastiness"
+56,Qxa4,d7a4,1r2r1k1/5p1p/pp3Qp1/2pP4/q4P2/3R2P1/1P4BP/5K2 w - - 0 29,"White has to stop Qa1+, if white plays Bf3, is met by qc2, and black wins another pawn"
+57,d6,d5d6,1r2r1k1/5p1p/pp1P1Qp1/2p5/q4P2/3R2P1/1P4BP/5K2 b - - 0 29,White has missed it mate in three
+58,Qa1+,a4a1,1r2r1k1/5p1p/pp1P1Qp1/2p5/5P2/3R2P1/1P4BP/q4K2 w - - 1 30,

@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Interesting endgame (I believe)
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Scandinavian gambit accepted
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Scandinavian gambit accepted
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,"I've begin to use this line for short. I usually plaid c6. This line is more common and has been plaid by great players (Alekhine, for example), so that it's easier to find games in various DB (easier for white as well...)"
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,We are not far away from a benoni
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4,We are not far away from a benoni
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/2N5/PP1P1PPP/R1BQKBNR b KQkq - 1 4,We are not far away from a benoni
+8,exd5,e6d5,rnbqkb1r/ppp2ppp/5n2/3p4/2P5/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 5,We are not far away from a benoni
+9,cxd5,c4d5,rnbqkb1r/ppp2ppp/5n2/3P4/8/2N5/PP1P1PPP/R1BQKBNR b KQkq - 0 5,trading
+10,Nxd5,f6d5,rnbqkb1r/ppp2ppp/8/3n4/8/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 6,White has now an isolated pawn on d file.
+11,Qf3,d1f3,rnbqkb1r/ppp2ppp/8/3n4/8/2N2Q2/PP1P1PPP/R1B1KBNR b KQkq - 1 6,White doesn't want to carry on trading
+12,Nb4,d5b4,rnbqkb1r/ppp2ppp/8/8/1n6/2N2Q2/PP1P1PPP/R1B1KBNR w KQkq - 2 7,"Fork attack menace...  Not sure it is a good move, for black doesn't develop in so doing."
+13,Qe4+,f3e4,rnbqkb1r/ppp2ppp/8/8/1n2Q3/2N5/PP1P1PPP/R1B1KBNR b KQkq - 3 7,White cannot castle. A little advantage for black.
+14,Qe7,d8e7,rnb1kb1r/ppp1qppp/8/8/1n2Q3/2N5/PP1P1PPP/R1B1KBNR w KQkq - 4 8,White cannot castle. A little advantage for black.
+15,Kd1,e1d1,rnb1kb1r/ppp1qppp/8/8/1n2Q3/2N5/PP1P1PPP/R1BK1BNR b kq - 5 8,White cannot castle. A little advantage for black.
+16,Qxe4,e7e4,rnb1kb1r/ppp2ppp/8/8/1n2q3/2N5/PP1P1PPP/R1BK1BNR w kq - 0 9,I do not really have choice.
+17,Nxe4,c3e4,rnb1kb1r/ppp2ppp/8/8/1n2N3/8/PP1P1PPP/R1BK1BNR b kq - 0 9,Black's plan is to settle in the center and attack the weak d pawn.
+18,Bf5,c8f5,rn2kb1r/ppp2ppp/8/5b2/1n2N3/8/PP1P1PPP/R1BK1BNR w kq - 1 10,Black's plan is to settle in the center and attack the weak d pawn.
+19,f3,f2f3,rn2kb1r/ppp2ppp/8/5b2/1n2N3/5P2/PP1P2PP/R1BK1BNR b kq - 0 10,"White is right not to abandon the center. Furthermore, if black trades by playing 10. ... BXe4 11. fXe4, white will have two pawns which can protect each other on e and d files."
+20,Nd7,b8d7,r3kb1r/pppn1ppp/8/5b2/1n2N3/5P2/PP1P2PP/R1BK1BNR w kq - 1 11,"So that if 11. Bb4, 11. ... c6 and white has to drawback"
+21,a3,a2a3,r3kb1r/pppn1ppp/8/5b2/1n2N3/P4P2/1P1P2PP/R1BK1BNR b kq - 0 11,Logical move
+22,Nd5,b4d5,r3kb1r/pppn1ppp/8/3n1b2/4N3/P4P2/1P1P2PP/R1BK1BNR w kq - 1 12,"Not a bad place for the knight but it is unprotected and subject to attack. Anyway, black had little choice."
+23,Bc4,f1c4,r3kb1r/pppn1ppp/8/3n1b2/2B1N3/P4P2/1P1P2PP/R1BK2NR b kq - 2 12,White develops and get menacing.
+24,c6,c7c6,r3kb1r/pp1n1ppp/2p5/3n1b2/2B1N3/P4P2/1P1P2PP/R1BK2NR w kq - 0 13,"Black do not want to remove the knight, which is probably a mistake, for in case of a trade.
+13. Bxd5 cxd5, black will have an isolated pawn on the d file."
+25,Ne2,g1e2,r3kb1r/pp1n1ppp/2p5/3n1b2/2B1N3/P4P2/1P1PN1PP/R1BK3R b kq - 1 13,"Black doesn't trade on d5, prefering to develop."
+26,Be7,f8e7,r3k2r/pp1nbppp/2p5/3n1b2/2B1N3/P4P2/1P1PN1PP/R1BK3R w kq - 2 14,Preparing the short castle which seems safer
+27,Ne2c3,e2c3,r3k2r/pp1nbppp/2p5/3n1b2/2B1N3/P1N2P2/1P1P2PP/R1BK3R b kq - 3 14,"Ennoying for black who doesn't want to trade, for an exchange of knight would enable white to play dxc3 and considerably improve his pawn structure."

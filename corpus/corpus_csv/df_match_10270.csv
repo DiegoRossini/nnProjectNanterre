@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Ok, e4. Probably one of the most common openings you will encounter. It is a good move by white as it allows both the Queen and Bishop to develop."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is the standard response to e4, although I have a better move to play, which I will show in a future game."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"The King's Gambit. Here Black should always take the f3 pawn (best move) followed by d6 which will stop my knight advancing into the centre board, If
+2.        ....exf4
+3. Nf3  d6
+This is known as the King's gambit Declined. Let's see what black does..."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"Ok. He took the pawn. Good move. Now as white the best move is Nf3 as it prevents blacks Queen from an early check which would either disrupt our King (Qh4) which would force the King off the back rank or at worst the loss of the Rook on h1. For example if we do something else like 
+3. Nc3  Qh4
+4. g3    f4xg3 now black can vary his attack. If we now play Ng3 to attack the black Queen, black can push the pawn forward for a discovered check attack on the Rook at h1(Strongest Move) so even if we take the Queen Black can replace it and gain a rook in the process."
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Now his queen Cannot go to h4 but there might still be danger if he does Be7. The best answer in that respect is h4.
+6,f6,f7f6,rnbqkbnr/pppp2pp/5p2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"Now this move by black wasn't the best for two reasons;
+1. It is blocking the Queen from coming out
+2  If he did d6 as he should have he would have opened up the other bishop for an attempt at pinning my Knight to my Queen. This tells me something. He wants to bring the Black square bishop into play(b4 or c5), which means he probably doesn't know this opening very well as he has already variated from the opening sequence."
+7,d4,d2d4,rnbqkbnr/pppp2pp/5p2/8/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 4,Alright Let's take control of the centre. This is what it is all about. Also I am attacking the f4 square.
+8,d5,d7d5,rnbqkbnr/ppp3pp/5p2/3p4/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq - 0 5,"I'm not too happy with Blacks move again. At best now he can pin my Knight with the Bishop but he is going to lose on development ( I can already see it coming. Better move by black was g5. This prevents White regaining the lost material with development (Bxf4) and is going to add pressure on my Knight. With what he moved, of course I wouldn't take it as his Queen would develop ( too early) but I would still be a pawn down."
+9,e5,e4e5,rnbqkbnr/ppp3pp/5p2/3pP3/3P1p2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 5,Now I could also have done Nc3 but He is waiting for me to do that for the pin on my King
+10,Qe7,d8e7,rnb1kbnr/ppp1q1pp/5p2/3pP3/3P1p2/5N2/PPP3PP/RNBQKB1R w KQkq - 1 6,"Right. Queen into play. Now let's see, Defense before Attack (Rule #4) . I have a pawn and a Knight to his pawn and Queen so if he initiates he is going to lose in the swap. Develop..."
+11,Bxf4,c1f4,rnb1kbnr/ppp1q1pp/5p2/3pP3/3P1B2/5N2/PPP3PP/RN1QKB1R b KQkq - 0 6,This gives me another attacking piece and I have regained the lost material. The only threat that black has is Qb4 for the check but It will cost him in the long run as I am already out developing him.
+12,fxe5,f6e5,rnb1kbnr/ppp1q1pp/8/3pp3/3P1B2/5N2/PPP3PP/RN1QKB1R w KQkq - 0 7,"Ok He is going to lose this battle. I have three possible options
+7. d4xe5  I don't like this as it would isolate my pawn from the other pawns. Even though it would give me a passed pawn I don't like the look of it.
+7. Bxe5  Possibility, but I don't like Blacks Nc6 or Nd7 opportunities (Rule #5 Bishops stronger in endgame than Knights)"
+13,Nxe5,f3e5,rnb1kbnr/ppp1q1pp/8/3pN3/3P1B2/8/PPP3PP/RN1QKB1R b KQkq - 0 7,"Leaving only one choice, Nxe5."
+14,Nd7,b8d7,r1b1kbnr/pppnq1pp/8/3pN3/3P1B2/8/PPP3PP/RN1QKB1R w KQkq - 1 8,"There you go, as expected. Let's go for the pin aye"
+15,Bb5,f1b5,r1b1kbnr/pppnq1pp/8/1B1pN3/3P1B2/8/PPP3PP/RN1QK2R b KQkq - 2 8,"Pretty basic stuff here. ""BACK OFF"" cries Black. This is a development move only. There is no real threat in the centre, if black takes my Knight with his then my bishop will take giving me time to castle and keeping the points nice and even."
+16,c6,c7c6,r1b1kbnr/pp1nq1pp/2p5/1B1pN3/3P1B2/8/PPP3PP/RN1QK2R w KQkq - 0 9,"Pretty basic stuff here. ""BACK OFF"" cries Black. This is a development move only. There is no real threat in the centre, if black takes my Knight with his then my bishop will take giving me time to castle and keeping the points nice and even."
+17,Ba4,b5a4,r1b1kbnr/pp1nq1pp/2p5/3pN3/B2P1B2/8/PPP3PP/RN1QK2R b KQkq - 1 9,"So I back off. The worst thing black could do here is chase my Bishop with b5, as this is what I want. It opens his right side meaning he can only castle King-side and he is forcing my bishop to go where I want it to go anyway (effectively helping me to develop)."
+18,Qb4+,e7b4,r1b1kbnr/pp1n2pp/2p5/3pN3/Bq1P1B2/8/PPP3PP/RN1QK2R w KQkq - 2 10,"Finally he does the check move. Best for white here is c3, Queen defends Bishop and the pawn stops the check and threatens the Queen at the same time, although I will lose a pawn out of the exchange"
+19,c3,c2c3,r1b1kbnr/pp1n2pp/2p5/3pN3/Bq1P1B2/2P5/PP4PP/RN1QK2R b KQkq - 0 10,"Now have to move the Knight or lose the Rook, which means losing another pawn(c3) but I will be even more developed than Black by doing so."
+20,Qxb2,b4b2,r1b1kbnr/pp1n2pp/2p5/3pN3/B2P1B2/2P5/Pq4PP/RN1QK2R w KQkq - 0 11,"Now have to move the Knight or lose the Rook, which means losing another pawn(c3) but I will be even more developed than Black by doing so."
+21,Nd2,b1d2,r1b1kbnr/pp1n2pp/2p5/3pN3/B2P1B2/2P5/Pq1N2PP/R2QK2R b KQkq - 1 11,"Let's count up shall we. White, four major pieces developed to Blacks Queen and Knight. Only one thing for it, Castle."
+22,Qxc3,b2c3,r1b1kbnr/pp1n2pp/2p5/3pN3/B2P1B2/2q5/P2N2PP/R2QK2R w KQkq - 0 12,"Let's count up shall we. White, four major pieces developed to Blacks Queen and Knight. Only one thing for it, Castle."
+23,O-O,e1g1,r1b1kbnr/pp1n2pp/2p5/3pN3/B2P1B2/2q5/P2N2PP/R2Q1RK1 b kq - 1 12,"Best move for black here, gain another piece and force my King to move. I could block with my rook but Rule #6 comes to mind, better not to pin oneself."
+24,Qxd4+,c3d4,r1b1kbnr/pp1n2pp/2p5/3pN3/B2q1B2/8/P2N2PP/R2Q1RK1 w kq - 0 13,"Best move for black here, gain another piece and force my King to move. I could block with my rook but Rule #6 comes to mind, better not to pin oneself."

@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's Pawn opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's Pawn opening
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"?! Already a very unusual move, though if Black does not know what he's doing, this move could be catastrophic (the best example is 2...g6?? 3.Qxe5!)"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,! The best move to reply to this threat - preventing Qxe5 and planning to drive away the queen next move
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,setting up the 4 move Scholar's mate - this is handled easily enough
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4,"this move also sets up a possible fianchetto kingside. Although the bishop to g7 might not be effective right now (its scope is blocked by Black's e5 pawn) it could be useful in setting up a sneaky trap later on - for example, what if there's an undefended piece on c3 and a piece on f3?"
+7,Qf3,h5f3,r1bqkbnr/pppp1p1p/2n3p1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 4,"once again, White threatens Qxf7 mate (though it does bar the f3 square for the knight), but Black can, once again defend easily..."
+8,Nf6,g8f6,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 5,"...by developing a piece to block the queen's attack on f7. Now, Black is now thinking of a future Nd4, putting the knight on a strong square and once again threatening the queen"
+9,Ne2,g1e2,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPPNPPP/RNB1K2R b KQkq - 3 5,"! Stopping any idea of Nd4, developing and preparing to castle. Not bad."
+10,d6,d7d6,r1bqkb1r/ppp2p1p/2np1np1/4p3/2B1P3/5Q2/PPPPNPPP/RNB1K2R w KQkq - 0 6,"opening up the diagonal for my light square bishop (but closing in my dark square bishop - it would probably have been better to develop it first) and threatening Bg4, driving the queen away"
+11,h3,h2h3,r1bqkb1r/ppp2p1p/2np1np1/4p3/2B1P3/5Q1P/PPPPNPP1/RNB1K2R b KQkq - 0 6,"preventing the threat...but after I saw this move I immediately saw 7.g4, and realised that 8.g5 would win my knight (it can't be moved because of Qxf7 mate) I can only see 7...g5 as a way to stop it, and that puts my pawn in an uncomfortable position"
+12,Be7,f8e7,r1bqk2r/ppp1bp1p/2np1np1/4p3/2B1P3/5Q1P/PPPPNPP1/RNB1K2R w KQkq - 1 7,I prepare to castle instead (maybe Bg7 would have been better here)
+13,g4,g2g4,r1bqk2r/ppp1bp1p/2np1np1/4p3/2B1P1P1/5Q1P/PPPPNP2/RNB1K2R b KQkq - 0 7,as expected...
+14,O-O,e8g8,r1bq1rk1/ppp1bp1p/2np1np1/4p3/2B1P1P1/5Q1P/PPPPNP2/RNB1K2R w KQ - 1 8,"this isn't the most desirable castling position for my king... (a strong move for White here would be d3, followed by Bh6!)"
+15,O-O,e1g1,r1bq1rk1/ppp1bp1p/2np1np1/4p3/2B1P1P1/5Q1P/PPPPNP2/RNB2RK1 b - - 2 8,"? The castling position is even worse for White! The whole point behind castling is to get your king to safety, and as it turns out, the king was much safer on e1"
+16,b6,b7b6,r1bq1rk1/p1p1bp1p/1pnp1np1/4p3/2B1P1P1/5Q1P/PPPPNP2/RNB2RK1 w - - 0 9,"fianchettoing my light square bishop would be very powerful here, if I could get the h1-a8 diagonal clear of pieces (especially considering the position of the king)"
+17,a3,a2a3,r1bq1rk1/p1p1bp1p/1pnp1np1/4p3/2B1P1P1/P4Q1P/1PPPNP2/RNB2RK1 b - - 0 9,? a wasted move. This serves no purpose whatsoever for White's game
+18,Bb7,c8b7,r2q1rk1/pbp1bp1p/1pnp1np1/4p3/2B1P1P1/P4Q1P/1PPPNP2/RNB2RK1 w - - 1 10,"fianchetto, as promised"
+19,c3,c2c3,r2q1rk1/pbp1bp1p/1pnp1np1/4p3/2B1P1P1/P1P2Q1P/1P1PNP2/RNB2RK1 b - - 0 10,"?? instead of developing, White is just making his position worse. He has just locked down all his pieces and it will take some time to free up his position (and of course the fact that the pawn move does nothing)"
+20,Rb8,a8b8,1r1q1rk1/pbp1bp1p/1pnp1np1/4p3/2B1P1P1/P1P2Q1P/1P1PNP2/RNB2RK1 w - - 1 11,the bishop needs to be protected for my combination to work. Only one more move...
+21,g5,g4g5,1r1q1rk1/pbp1bp1p/1pnp1np1/4p1P1/2B1P3/P1P2Q1P/1P1PNP2/RNB2RK1 b - - 0 11,"? the move to save White here is 11.d3!, both stopping my planned attack and a step towards freeing up White's position (12.Bh6, then 13.Nd2) now White is going to be in serious hurt..."

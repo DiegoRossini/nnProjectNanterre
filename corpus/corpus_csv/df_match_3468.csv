@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A flawed game but ends with an interesting checkmate.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+4,Nd7,b8d7,r1bqkbnr/pppnpppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+5,Be3,c1e3,r1bqkbnr/pppnpppp/3p4/8/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq - 2 3,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+6,e5,e7e5,r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/4B3/PPP2PPP/RN1QKBNR w KQkq - 0 4,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+7,Nf3,g1f3,r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/4BN2/PPP2PPP/RN1QKB1R b KQkq - 1 4,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+8,Ngf6,g8f6,r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP3/4BN2/PPP2PPP/RN1QKB1R w KQkq - 2 5,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+9,Nc3,b1c3,r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP3/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 3 5,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+10,Be7,f8e7,r1bqk2r/pppnbppp/3p1n2/4p3/3PP3/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 4 6,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+11,Qd2,d1d2,r1bqk2r/pppnbppp/3p1n2/4p3/3PP3/2N1BN2/PPPQ1PPP/R3KB1R b KQkq - 5 6,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+12,O-O,e8g8,r1bq1rk1/pppnbppp/3p1n2/4p3/3PP3/2N1BN2/PPPQ1PPP/R3KB1R w KQ - 6 7,"So far standard moves, but here ...c6 is better to allow ...Qc7."
+13,O-O-O,e1c1,r1bq1rk1/pppnbppp/3p1n2/4p3/3PP3/2N1BN2/PPPQ1PPP/2KR1B1R b - - 7 7,Seems risky.
+14,exd4,e5d4,r1bq1rk1/pppnbppp/3p1n2/8/3pP3/2N1BN2/PPPQ1PPP/2KR1B1R w - - 0 8,!? I did not feel like ... Ng4.
+15,Nxd4,f3d4,r1bq1rk1/pppnbppp/3p1n2/8/3NP3/2N1B3/PPPQ1PPP/2KR1B1R b - - 0 8,Threatens exchanges.
+16,Re8,f8e8,r1bqr1k1/pppnbppp/3p1n2/8/3NP3/2N1B3/PPPQ1PPP/2KR1B1R w - - 1 9,Threatens exchanges.
+17,g3,g2g3,r1bqr1k1/pppnbppp/3p1n2/8/3NP3/2N1B1P1/PPPQ1P1P/2KR1B1R b - - 0 9,Threatens exchanges.
+18,Nc5,d7c5,r1bqr1k1/ppp1bppp/3p1n2/2n5/3NP3/2N1B1P1/PPPQ1P1P/2KR1B1R w - - 1 10,Threatens exchanges.
+19,Bg2,f1g2,r1bqr1k1/ppp1bppp/3p1n2/2n5/3NP3/2N1B1P1/PPPQ1PBP/2KR3R b - - 2 10,Threatens exchanges.
+20,Bf8,e7f8,r1bqrbk1/ppp2ppp/3p1n2/2n5/3NP3/2N1B1P1/PPPQ1PBP/2KR3R w - - 3 11,Threatens exchanges.
+21,Bg5,e3g5,r1bqrbk1/ppp2ppp/3p1n2/2n3B1/3NP3/2N3P1/PPPQ1PBP/2KR3R b - - 4 11,Threatens exchanges.
+22,Ne6,c5e6,r1bqrbk1/ppp2ppp/3pnn2/6B1/3NP3/2N3P1/PPPQ1PBP/2KR3R w - - 5 12,Threatens exchanges.
+23,Bxf6,g5f6,r1bqrbk1/ppp2ppp/3pnB2/8/3NP3/2N3P1/PPPQ1PBP/2KR3R b - - 0 12,"At this point, there is nothing wrong with White's position,"
+24,Qxf6,d8f6,r1b1rbk1/ppp2ppp/3pnq2/8/3NP3/2N3P1/PPPQ1PBP/2KR3R w - - 0 13,"At this point, there is nothing wrong with White's position,"
+25,Nd5,c3d5,r1b1rbk1/ppp2ppp/3pnq2/3N4/3NP3/6P1/PPPQ1PBP/2KR3R b - - 1 13,"At this point, there is nothing wrong with White's position,"
+26,Qd8,f6d8,r1bqrbk1/ppp2ppp/3pn3/3N4/3NP3/6P1/PPPQ1PBP/2KR3R w - - 2 14,"At this point, there is nothing wrong with White's position,"
+27,Rhe1,h1e1,r1bqrbk1/ppp2ppp/3pn3/3N4/3NP3/6P1/PPPQ1PBP/2KRR3 b - - 3 14,Now Black has equalized and has a strong center.
+28,c6,c7c6,r1bqrbk1/pp3ppp/2ppn3/3N4/3NP3/6P1/PPPQ1PBP/2KRR3 w - - 0 15,Now Black has equalized and has a strong center.
+29,Nxe6,d4e6,r1bqrbk1/pp3ppp/2ppN3/3N4/4P3/6P1/PPPQ1PBP/2KRR3 b - - 0 15,Now Black has equalized and has a strong center.
+30,fxe6,f7e6,r1bqrbk1/pp4pp/2ppp3/3N4/4P3/6P1/PPPQ1PBP/2KRR3 w - - 0 16,Now Black has equalized and has a strong center.
+31,Nf4,d5f4,r1bqrbk1/pp4pp/2ppp3/8/4PN2/6P1/PPPQ1PBP/2KRR3 b - - 1 16,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+32,e5,e6e5,r1bqrbk1/pp4pp/2pp4/4p3/4PN2/6P1/PPPQ1PBP/2KRR3 w - - 0 17,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+33,Ne2,f4e2,r1bqrbk1/pp4pp/2pp4/4p3/4P3/6P1/PPPQNPBP/2KRR3 b - - 1 17,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+34,Qf6,d8f6,r1b1rbk1/pp4pp/2pp1q2/4p3/4P3/6P1/PPPQNPBP/2KRR3 w - - 2 18,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+35,Nc3,e2c3,r1b1rbk1/pp4pp/2pp1q2/4p3/4P3/2N3P1/PPPQ1PBP/2KRR3 b - - 3 18,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+36,Bg4,c8g4,r3rbk1/pp4pp/2pp1q2/4p3/4P1b1/2N3P1/PPPQ1PBP/2KRR3 w - - 4 19,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+37,f3,f2f3,r3rbk1/pp4pp/2pp1q2/4p3/4P1b1/2N2PP1/PPPQ2BP/2KRR3 b - - 0 19,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+38,Bh5,g4h5,r3rbk1/pp4pp/2pp1q2/4p2b/4P3/2N2PP1/PPPQ2BP/2KRR3 w - - 1 20,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+39,g4,g3g4,r3rbk1/pp4pp/2pp1q2/4p2b/4P1P1/2N2P2/PPPQ2BP/2KRR3 b - - 0 20,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+40,Bf7,h5f7,r3rbk1/pp3bpp/2pp1q2/4p3/4P1P1/2N2P2/PPPQ2BP/2KRR3 w - - 1 21,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+41,b3,b2b3,r3rbk1/pp3bpp/2pp1q2/4p3/4P1P1/1PN2P2/P1PQ2BP/2KRR3 b - - 0 21,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+42,Red8,e8d8,r2r1bk1/pp3bpp/2pp1q2/4p3/4P1P1/1PN2P2/P1PQ2BP/2KRR3 w - - 1 22,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+43,Qf2,d2f2,r2r1bk1/pp3bpp/2pp1q2/4p3/4P1P1/1PN2P2/P1P2QBP/2KRR3 b - - 2 22,This move is a mistake.  Best was 22 g5 Qe6 23. Qf2 b5 24. Qg3 Be7 25. h4 Qc8 26. Ne2 Rf8 27. f4 exf4 28. Nxf4 Qa6 29. e5 Qa3+ 30. Kb1
+44,d5,d6d5,r2r1bk1/pp3bpp/2p2q2/3pp3/4P1P1/1PN2P2/P1P2QBP/2KRR3 w - - 0 23,"! Now Whites king is in trouble, the advantage has shifted to Black."
+45,exd5,e4d5,r2r1bk1/pp3bpp/2p2q2/3Pp3/6P1/1PN2P2/P1P2QBP/2KRR3 b - - 0 23,?? A blunder. Black now has an overwhelming attack. Best was 24. Re2 Rac8 25. Na4 Qf4+ 26. Kb1 b5 27. Nb2 Bg6 28. Nd3 Bxd3 29. cxd3 Bb4 30. Qxa7 Qxh2
+46,cxd5,c6d5,r2r1bk1/pp3bpp/5q2/3pp3/6P1/1PN2P2/P1P2QBP/2KRR3 w - - 0 24,?? A blunder. Black now has an overwhelming attack. Best was 24. Re2 Rac8 25. Na4 Qf4+ 26. Kb1 b5 27. Nb2 Bg6 28. Nd3 Bxd3 29. cxd3 Bb4 30. Qxa7 Qxh2
+47,Nb5,c3b5,r2r1bk1/pp3bpp/5q2/1N1pp3/6P1/1P3P2/P1P2QBP/2KRR3 b - - 1 24,?? A blunder. Black now has an overwhelming attack. Best was 24. Re2 Rac8 25. Na4 Qf4+ 26. Kb1 b5 27. Nb2 Bg6 28. Nd3 Bxd3 29. cxd3 Bb4 30. Qxa7 Qxh2
+48,a6,a7a6,r2r1bk1/1p3bpp/p4q2/1N1pp3/6P1/1P3P2/P1P2QBP/2KRR3 w - - 0 25,?? A very bad plan.
+49,Nc3,b5c3,r2r1bk1/1p3bpp/p4q2/3pp3/6P1/1PN2P2/P1P2QBP/2KRR3 b - - 1 25,?? A very bad plan.
+50,Bb4,f8b4,r2r2k1/1p3bpp/p4q2/3pp3/1b4P1/1PN2P2/P1P2QBP/2KRR3 w - - 2 26,?? A very bad plan.
+51,Re3,e1e3,r2r2k1/1p3bpp/p4q2/3pp3/1b4P1/1PN1RP2/P1P2QBP/2KR4 b - - 3 26,?? A very bad plan.
+52,d4,d5d4,r2r2k1/1p3bpp/p4q2/4p3/1b1p2P1/1PN1RP2/P1P2QBP/2KR4 w - - 0 27,Best was 27. Nd5 Bxd5 28. Red3 Be4 29. R3d2 Bxd2+ 30. Rxd2 Rf8 31. Qg3 Bc6 32. Kb2 Qf4 33. Rd3 Qxg3 34. hxg3. This is a very bad plan.
+53,Ne4,c3e4,r2r2k1/1p3bpp/p4q2/4p3/1b1pN1P1/1P2RP2/P1P2QBP/2KR4 b - - 1 27,Best was 27. Nd5 Bxd5 28. Red3 Be4 29. R3d2 Bxd2+ 30. Rxd2 Rf8 31. Qg3 Bc6 32. Kb2 Qf4 33. Rd3 Qxg3 34. hxg3. This is a very bad plan.
+54,Qf4,f6f4,r2r2k1/1p3bpp/p7/4p3/1b1pNqP1/1P2RP2/P1P2QBP/2KR4 w - - 2 28,! Of course. The pin wins material.
+55,Rdd3,d1d3,r2r2k1/1p3bpp/p7/4p3/1b1pNqP1/1P1RRP2/P1P2QBP/2K5 b - - 3 28,?? Another bad move. Best was 28. Qe2 Ba3+ 29. Kb1 dxe3 30. Rxd8+ Rxd8 31. h4 Bg6 32. Qc4+ Kh8 33. Qe2 Bxe4 34. fxe4 Rd2 35. Qf3 Qxe4 36. Qf8+ Bxf8 37. Bxe4
+56,dxe3,d4e3,r2r2k1/1p3bpp/p7/4p3/1b2NqP1/1P1RpP2/P1P2QBP/2K5 w - - 0 29,"?? Very bad. Fortunately for White, Black overlooks the obvious mate in 2: Ba3+ Kb1 Rd1++."
+57,Rxe3,d3e3,r2r2k1/1p3bpp/p7/4p3/1b2NqP1/1P2RP2/P1P2QBP/2K5 b - - 0 29,"?? Very bad. Fortunately for White, Black overlooks the obvious mate in 2: Ba3+ Kb1 Rd1++."
+58,Bd5,f7d5,r2r2k1/1p4pp/p7/3bp3/1b2NqP1/1P2RP2/P1P2QBP/2K5 w - - 1 30,Black still wins...the plan is a slower mate.
+59,Qe2,f2e2,r2r2k1/1p4pp/p7/3bp3/1b2NqP1/1P2RP2/P1P1Q1BP/2K5 b - - 2 30,Preparing the following mate.
+60,Bxe4,d5e4,r2r2k1/1p4pp/p7/4p3/1b2bqP1/1P2RP2/P1P1Q1BP/2K5 w - - 0 31,Preparing the following mate.
+61,fxe4,f3e4,r2r2k1/1p4pp/p7/4p3/1b2PqP1/1P2R3/P1P1Q1BP/2K5 b - - 0 31,"The rook is pinned. Now mate is inevitable,"
+62,Qxe3+,f4e3,r2r2k1/1p4pp/p7/4p3/1b2P1P1/1P2q3/P1P1Q1BP/2K5 w - - 0 32,QxR+!!
+63,Qxe3,e2e3,r2r2k1/1p4pp/p7/4p3/1b2P1P1/1P2Q3/P1P3BP/2K5 b - - 0 32,"And mate. Although Black should have mated white earlier, the final mating combination is instructive."
+64,Ba3+,b4a3,r2r2k1/1p4pp/p7/4p3/4P1P1/bP2Q3/P1P3BP/2K5 w - - 1 33,"And mate. Although Black should have mated white earlier, the final mating combination is instructive."
+65,Kb1,c1b1,r2r2k1/1p4pp/p7/4p3/4P1P1/bP2Q3/P1P3BP/1K6 b - - 2 33,"And mate. Although Black should have mated white earlier, the final mating combination is instructive."
+66,Rd1+,d8d1,r5k1/1p4pp/p7/4p3/4P1P1/bP2Q3/P1P3BP/1K1r4 w - - 3 34,"And mate. Although Black should have mated white earlier, the final mating combination is instructive."

@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"Thought I'd try something different. It seems interesting, controls the e5 square and allows the knight to be developed behind the pawn rather than in front. Sounds a bit like the philidor rationale haha."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"I was a bit taken a back with the fianchetto, I presumed black would rather play an open game versus white's future cramped position, but what do I know?"
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,"I was a bit taken a back with the fianchetto, I presumed black would rather play an open game versus white's future cramped position, but what do I know?"
+4,g6,g7g6,rnbqkbnr/ppp1pp1p/6p1/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3,"I was a bit taken a back with the fianchetto, I presumed black would rather play an open game versus white's future cramped position, but what do I know?"
+5,e3,e2e3,rnbqkbnr/ppp1pp1p/6p1/3p4/5P2/4PN2/PPPP2PP/RNBQKB1R b KQkq - 0 3,That's more like it
+6,Bg7,f8g7,rnbqk1nr/ppp1ppbp/6p1/3p4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq - 1 4,That's more like it
+7,Be2,f1e2,rnbqk1nr/ppp1ppbp/6p1/3p4/5P2/4PN2/PPPPB1PP/RNBQK2R b KQkq - 2 4,That's more like it
+8,c5,c7c5,rnbqk1nr/pp2ppbp/6p1/2pp4/5P2/4PN2/PPPPB1PP/RNBQK2R w KQkq - 0 5,That's more like it
+9,d4,d2d4,rnbqk1nr/pp2ppbp/6p1/2pp4/3P1P2/4PN2/PPP1B1PP/RNBQK2R b KQkq - 0 5,Contest the center immediately. I don't want to be pushed back
+10,b6,b7b6,rnbqk1nr/p3ppbp/1p4p1/2pp4/3P1P2/4PN2/PPP1B1PP/RNBQK2R w KQkq - 0 6,I was again confused with this move. I thought better would be 5. ... cxd4 6. exd4 Nc6 7. 0-0
+11,dxc5,d4c5,rnbqk1nr/p3ppbp/1p4p1/2Pp4/5P2/4PN2/PPP1B1PP/RNBQK2R b KQkq - 0 6,"A rather confusing move for black to respond to, in blitz anyways. Goes against intuition to not lose material if a few seconds are spent observing the situation."
+12,bxc5,b6c5,rnbqk1nr/p3ppbp/6p1/2pp4/5P2/4PN2/PPP1B1PP/RNBQK2R w KQkq - 0 7,"A rather confusing move for black to respond to, in blitz anyways. Goes against intuition to not lose material if a few seconds are spent observing the situation."
+13,Bb5+,e2b5,rnbqk1nr/p3ppbp/6p1/1Bpp4/5P2/4PN2/PPP3PP/RNBQK2R b KQkq - 1 7,"A rather confusing move for black to respond to, in blitz anyways. Goes against intuition to not lose material if a few seconds are spent observing the situation."
+14,Bd7,c8d7,rn1qk1nr/p2bppbp/6p1/1Bpp4/5P2/4PN2/PPP3PP/RNBQK2R w KQkq - 2 8,And there's the mistake. 7. ... Kf8 is the move.
+15,Qxd5,d1d5,rn1qk1nr/p2bppbp/6p1/1BpQ4/5P2/4PN2/PPP3PP/RNB1K2R b KQkq - 0 8,Comfortable game shall ensue.
+16,Bxb5,d7b5,rn1qk1nr/p3ppbp/6p1/1bpQ4/5P2/4PN2/PPP3PP/RNB1K2R w KQkq - 0 9,Comfortable game shall ensue.
+17,Qxa8,d5a8,Qn1qk1nr/p3ppbp/6p1/1bp5/5P2/4PN2/PPP3PP/RNB1K2R b KQk - 0 9,Comfortable game shall ensue.
+18,Qa5+,d8a5,Qn2k1nr/p3ppbp/6p1/qbp5/5P2/4PN2/PPP3PP/RNB1K2R w KQk - 1 10,"Another poor move by black, better is to play Qb6 to protect the knight and pawn. White can now just deflect the queen with Nc3 and also attacking the b5 bishop"
+19,Nc3,b1c3,Qn2k1nr/p3ppbp/6p1/qbp5/5P2/2N1PN2/PPP3PP/R1B1K2R b KQk - 2 10,Qb6 is still preferential here. Black does bad to be greedy. I spent 30 seconds and decided to really bait black with the next couple of moves
+20,Bxc3+,g7c3,Qn2k1nr/p3pp1p/6p1/qbp5/5P2/2b1PN2/PPP3PP/R1B1K2R w KQk - 0 11,Qb6 is still preferential here. Black does bad to be greedy. I spent 30 seconds and decided to really bait black with the next couple of moves
+21,bxc3,b2c3,Qn2k1nr/p3pp1p/6p1/qbp5/5P2/2P1PN2/P1P3PP/R1B1K2R b KQk - 0 11,Qb6 is still preferential here. Black does bad to be greedy. I spent 30 seconds and decided to really bait black with the next couple of moves
+22,Qxc3+,a5c3,Qn2k1nr/p3pp1p/6p1/1bp5/5P2/2q1PN2/P1P3PP/R1B1K2R w KQk - 0 12,Qb6 is still preferential here. Black does bad to be greedy. I spent 30 seconds and decided to really bait black with the next couple of moves
+23,Bd2,c1d2,Qn2k1nr/p3pp1p/6p1/1bp5/5P2/2q1PN2/P1PB2PP/R3K2R b KQk - 1 12,"Black saw the couple of rooks for grab, but forgets about his own horrendous defense."
+24,Qxa1+,c3a1,Qn2k1nr/p3pp1p/6p1/1bp5/5P2/4PN2/P1PB2PP/q3K2R w Kk - 0 13,"Black saw the couple of rooks for grab, but forgets about his own horrendous defense."
+25,Kf2,e1f2,Qn2k1nr/p3pp1p/6p1/1bp5/5P2/4PN2/P1PB1KPP/q6R b k - 1 13,"Greed will get you, even 1700 players suffer from it."
+26,Kf8,e8f8,Qn3knr/p3pp1p/6p1/1bp5/5P2/4PN2/P1PB1KPP/q6R w - - 2 14,"Greed will get you, even 1700 players suffer from it."
+27,Qxb8+,a8b8,1Q3knr/p3pp1p/6p1/1bp5/5P2/4PN2/P1PB1KPP/q6R b - - 0 14,"Greed will get you, even 1700 players suffer from it."
+28,Kg7,f8g7,1Q4nr/p3ppkp/6p1/1bp5/5P2/4PN2/P1PB1KPP/q6R w - - 1 15,"Greed will get you, even 1700 players suffer from it."
+29,Rxa1,h1a1,1Q4nr/p3ppkp/6p1/1bp5/5P2/4PN2/P1PB1KPP/R7 b - - 0 15,"Greed will get you, even 1700 players suffer from it."

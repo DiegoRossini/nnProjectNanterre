@@ -1,0 +1,155 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queen's Pawn, Mason Variation."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Queen's Pawn, Mason Variation."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Queen's Pawn, Mason Variation."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,Black usually does pretty well with Pe6 or Pc5 here.
+5,h3,h2h3,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/7P/PPP1PPP1/RN1QKBNR b KQkq - 0 3,Black usually does pretty well with Pe6 or Pc5 here.
+6,h6,h7h6,rnbqkb1r/ppp1ppp1/5n1p/3p4/3P1B2/7P/PPP1PPP1/RN1QKBNR w KQkq - 0 4,Black usually does pretty well with Pe6 or Pc5 here.
+7,Nf3,g1f3,rnbqkb1r/ppp1ppp1/5n1p/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 1 4,...and off the database.
+8,Bf5,c8f5,rn1qkb1r/ppp1ppp1/5n1p/3p1b2/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 2 5,...and off the database.
+9,e3,e2e3,rn1qkb1r/ppp1ppp1/5n1p/3p1b2/3P1B2/4PN1P/PPP2PP1/RN1QKB1R b KQkq - 0 5,...and off the database.
+10,a6,a7a6,rn1qkb1r/1pp1ppp1/p4n1p/3p1b2/3P1B2/4PN1P/PPP2PP1/RN1QKB1R w KQkq - 0 6,...and off the database.
+11,Bd3,f1d3,rn1qkb1r/1pp1ppp1/p4n1p/3p1b2/3P1B2/3BPN1P/PPP2PP1/RN1QK2R b KQkq - 1 6,...and off the database.
+12,Bxd3,f5d3,rn1qkb1r/1pp1ppp1/p4n1p/3p4/3P1B2/3bPN1P/PPP2PP1/RN1QK2R w KQkq - 0 7,...and off the database.
+13,Qxd3,d1d3,rn1qkb1r/1pp1ppp1/p4n1p/3p4/3P1B2/3QPN1P/PPP2PP1/RN2K2R b KQkq - 0 7,...and off the database.
+14,e6,e7e6,rn1qkb1r/1pp2pp1/p3pn1p/3p4/3P1B2/3QPN1P/PPP2PP1/RN2K2R w KQkq - 0 8,...and off the database.
+15,Qb3,d3b3,rn1qkb1r/1pp2pp1/p3pn1p/3p4/3P1B2/1Q2PN1P/PPP2PP1/RN2K2R b KQkq - 1 8,...and off the database.
+16,b5,b7b5,rn1qkb1r/2p2pp1/p3pn1p/1p1p4/3P1B2/1Q2PN1P/PPP2PP1/RN2K2R w KQkq - 0 9,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+17,Nbd2,b1d2,rn1qkb1r/2p2pp1/p3pn1p/1p1p4/3P1B2/1Q2PN1P/PPPN1PP1/R3K2R b KQkq - 1 9,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+18,Bd6,f8d6,rn1qk2r/2p2pp1/p2bpn1p/1p1p4/3P1B2/1Q2PN1P/PPPN1PP1/R3K2R w KQkq - 2 10,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+19,Ne5,f3e5,rn1qk2r/2p2pp1/p2bpn1p/1p1pN3/3P1B2/1Q2P2P/PPPN1PP1/R3K2R b KQkq - 3 10,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+20,O-O,e8g8,rn1q1rk1/2p2pp1/p2bpn1p/1p1pN3/3P1B2/1Q2P2P/PPPN1PP1/R3K2R w KQ - 4 11,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+21,O-O-O,e1c1,rn1q1rk1/2p2pp1/p2bpn1p/1p1pN3/3P1B2/1Q2P2P/PPPN1PP1/2KR3R b - - 5 11,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+22,Nbd7,b8d7,r2q1rk1/2pn1pp1/p2bpn1p/1p1pN3/3P1B2/1Q2P2P/PPPN1PP1/2KR3R w - - 6 12,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+23,Nd3,e5d3,r2q1rk1/2pn1pp1/p2bpn1p/1p1p4/3P1B2/1Q1NP2P/PPPN1PP1/2KR3R b - - 7 12,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+24,Qe7,d8e7,r4rk1/2pnqpp1/p2bpn1p/1p1p4/3P1B2/1Q1NP2P/PPPN1PP1/2KR3R w - - 8 13,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+25,g4,g2g4,r4rk1/2pnqpp1/p2bpn1p/1p1p4/3P1BP1/1Q1NP2P/PPPN1P2/2KR3R b - - 0 13,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+26,Bxf4,d6f4,r4rk1/2pnqpp1/p3pn1p/1p1p4/3P1bP1/1Q1NP2P/PPPN1P2/2KR3R w - - 0 14,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+27,Nxf4,d3f4,r4rk1/2pnqpp1/p3pn1p/1p1p4/3P1NP1/1Q2P2P/PPPN1P2/2KR3R b - - 0 14,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+28,c5,c7c5,r4rk1/3nqpp1/p3pn1p/1ppp4/3P1NP1/1Q2P2P/PPPN1P2/2KR3R w - - 0 15,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+29,dxc5,d4c5,r4rk1/3nqpp1/p3pn1p/1pPp4/5NP1/1Q2P2P/PPPN1P2/2KR3R b - - 0 15,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+30,Nxc5,d7c5,r4rk1/4qpp1/p3pn1p/1pnp4/5NP1/1Q2P2P/PPPN1P2/2KR3R w - - 0 16,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+31,Qa3,b3a3,r4rk1/4qpp1/p3pn1p/1pnp4/5NP1/Q3P2P/PPPN1P2/2KR3R b - - 1 16,"Pb4 strikes my fancy.  Doubtful white would take it, though."
+32,Rfe8,f8e8,r3r1k1/4qpp1/p3pn1p/1pnp4/5NP1/Q3P2P/PPPN1P2/2KR3R w - - 2 17,"Oh, oh, NxP+."
+33,f3,f2f3,r3r1k1/4qpp1/p3pn1p/1pnp4/5NP1/Q3PP1P/PPPN4/2KR3R b - - 0 17,"Oh, oh, NxP+."
+34,e5,e6e5,r3r1k1/4qpp1/p4n1p/1pnpp3/5NP1/Q3PP1P/PPPN4/2KR3R w - - 0 18,"Oh, oh, NxP+."
+35,Nh5,f4h5,r3r1k1/4qpp1/p4n1p/1pnpp2N/6P1/Q3PP1P/PPPN4/2KR3R b - - 1 18,"Oh, oh, NxP+."
+36,Nxh5,f6h5,r3r1k1/4qpp1/p6p/1pnpp2n/6P1/Q3PP1P/PPPN4/2KR3R w - - 0 19,"Oh, oh, NxP+."
+37,gxh5,g4h5,r3r1k1/4qpp1/p6p/1pnpp2P/8/Q3PP1P/PPPN4/2KR3R b - - 0 19,"Oh, oh, NxP+."
+38,Na4,c5a4,r3r1k1/4qpp1/p6p/1p1pp2P/n7/Q3PP1P/PPPN4/2KR3R w - - 1 20,"Oh, oh, NxP+."
+39,Qxe7,a3e7,r3r1k1/4Qpp1/p6p/1p1pp2P/n7/4PP1P/PPPN4/2KR3R b - - 0 20,"Oh, oh, NxP+."
+40,Rxe7,e8e7,r5k1/4rpp1/p6p/1p1pp2P/n7/4PP1P/PPPN4/2KR3R w - - 0 21,"Oh, oh, NxP+."
+41,b3,b2b3,r5k1/4rpp1/p6p/1p1pp2P/n7/1P2PP1P/P1PN4/2KR3R b - - 0 21,"Oh, oh, NxP+."
+42,Nc3,a4c3,r5k1/4rpp1/p6p/1p1pp2P/8/1Pn1PP1P/P1PN4/2KR3R w - - 1 22,"Oh, oh, NxP+."
+43,Rde1,d1e1,r5k1/4rpp1/p6p/1p1pp2P/8/1Pn1PP1P/P1PN4/2K1R2R b - - 2 22,"Oh, oh, NxP+."
+44,Nxa2+,c3a2,r5k1/4rpp1/p6p/1p1pp2P/8/1P2PP1P/n1PN4/2K1R2R w - - 0 23,Yes!
+45,Kb2,c1b2,r5k1/4rpp1/p6p/1p1pp2P/8/1P2PP1P/nKPN4/4R2R b - - 1 23,Unbelievable!  White just threw his rook with Nd3+!
+46,Nb4,a2b4,r5k1/4rpp1/p6p/1p1pp2P/1n6/1P2PP1P/1KPN4/4R2R w - - 2 24,Unbelievable!  White just threw his rook with Nd3+!
+47,f4,f3f4,r5k1/4rpp1/p6p/1p1pp2P/1n3P2/1P2P2P/1KPN4/4R2R b - - 0 24,Unbelievable!  White just threw his rook with Nd3+!
+48,e4,e5e4,r5k1/4rpp1/p6p/1p1p3P/1n2pP2/1P2P2P/1KPN4/4R2R w - - 0 25,Unbelievable!  White just threw his rook with Nd3+!
+49,Rhg1,h1g1,r5k1/4rpp1/p6p/1p1p3P/1n2pP2/1P2P2P/1KPN4/4R1R1 b - - 1 25,Unbelievable!  White just threw his rook with Nd3+!
+50,a5,a6a5,r5k1/4rpp1/7p/pp1p3P/1n2pP2/1P2P2P/1KPN4/4R1R1 w - - 0 26,Unbelievable!  White just threw his rook with Nd3+!
+51,c3,c2c3,r5k1/4rpp1/7p/pp1p3P/1n2pP2/1PP1P2P/1K1N4/4R1R1 b - - 0 26,Unbelievable!  White just threw his rook with Nd3+!
+52,Nd3+,b4d3,r5k1/4rpp1/7p/pp1p3P/4pP2/1PPnP2P/1K1N4/4R1R1 w - - 1 27,Wonderful!
+53,Kc2,b2c2,r5k1/4rpp1/7p/pp1p3P/4pP2/1PPnP2P/2KN4/4R1R1 b - - 2 27,?  NxR+!  A good idea is to program it.
+54,b4,b5b4,r5k1/4rpp1/7p/p2p3P/1p2pP2/1PPnP2P/2KN4/4R1R1 w - - 0 28,?  NxR+!  A good idea is to program it.
+55,Rea1,e1a1,r5k1/4rpp1/7p/p2p3P/1p2pP2/1PPnP2P/2KN4/R5R1 b - - 1 28,Up two points black should trade.
+56,Rc7,e7c7,r5k1/2r2pp1/7p/p2p3P/1p2pP2/1PPnP2P/2KN4/R5R1 w - - 2 29,Up two points black should trade.
+57,c4,c3c4,r5k1/2r2pp1/7p/p2p3P/1pP1pP2/1P1nP2P/2KN4/R5R1 b - - 0 29,Up two points black should trade.
+58,f5,f7f5,r5k1/2r3p1/7p/p2p1p1P/1pP1pP2/1P1nP2P/2KN4/R5R1 w - - 0 30,Up two points black should trade.
+59,Kb1,c2b1,r5k1/2r3p1/7p/p2p1p1P/1pP1pP2/1P1nP2P/3N4/RK4R1 b - - 1 30,Up two points black should trade.
+60,dxc4,d5c4,r5k1/2r3p1/7p/p4p1P/1pp1pP2/1P1nP2P/3N4/RK4R1 w - - 0 31,Up two points black should trade.
+61,Nxc4,d2c4,r5k1/2r3p1/7p/p4p1P/1pN1pP2/1P1nP2P/8/RK4R1 b - - 0 31,Up two points black should trade.
+62,a4,a5a4,r5k1/2r3p1/7p/5p1P/ppN1pP2/1P1nP2P/8/RK4R1 w - - 0 32,Up two points black should trade.
+63,Nb6,c4b6,r5k1/2r3p1/1N5p/5p1P/pp2pP2/1P1nP2P/8/RK4R1 b - - 1 32,Up two points black should trade.
+64,Ra6,a8a6,6k1/2r3p1/rN5p/5p1P/pp2pP2/1P1nP2P/8/RK4R1 w - - 2 33,Up two points black should trade.
+65,Nxa4,b6a4,6k1/2r3p1/r6p/5p1P/Np2pP2/1P1nP2P/8/RK4R1 b - - 0 33,Up two points black should trade.
+66,Rac6,a6c6,6k1/2r3p1/2r4p/5p1P/Np2pP2/1P1nP2P/8/RK4R1 w - - 1 34,Up two points black should trade.
+67,Ka2,b1a2,6k1/2r3p1/2r4p/5p1P/Np2pP2/1P1nP2P/K7/R5R1 b - - 2 34,Up two points black should trade.
+68,Rc6c2+,c6c2,6k1/2r3p1/7p/5p1P/Np2pP2/1P1nP2P/K1r5/R5R1 w - - 3 35,Up two points black should trade.
+69,Kb1,a2b1,6k1/2r3p1/7p/5p1P/Np2pP2/1P1nP2P/2r5/RK4R1 b - - 4 35,Up two points black should trade.
+70,Rc2c1+,c2c1,6k1/2r3p1/7p/5p1P/Np2pP2/1P1nP2P/8/RKr3R1 w - - 5 36,Up two points black should trade.
+71,Rxc1,g1c1,6k1/2r3p1/7p/5p1P/Np2pP2/1P1nP2P/8/RKR5 b - - 0 36,Up two points black should trade.
+72,Rxc1+,c7c1,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/8/RKr5 w - - 0 37,Up two points black should trade.
+73,Ka2,b1a2,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/K7/R1r5 b - - 1 37,Up two points black should trade.
+74,Rc2+,c1c2,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/K1r5/R7 w - - 2 38,Up two points black should trade.
+75,Kb1,a2b1,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/2r5/RK6 b - - 3 38,Up two points black should trade.
+76,Rh2,c2h2,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/7r/RK6 w - - 4 39,Up two points black should trade.
+77,Ra2,a1a2,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2P/R6r/1K6 b - - 5 39,Up two points black should trade.
+78,Rxh3,h2h3,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2r/R7/1K6 w - - 0 40,Up two points black should trade.
+79,Re2,a2e2,6k1/6p1/7p/5p1P/Np2pP2/1P1nP2r/4R3/1K6 b - - 1 40,Up two points black should trade.
+80,Rxh5,h3h5,6k1/6p1/7p/5p1r/Np2pP2/1P1nP3/4R3/1K6 w - - 0 41,Up two points black should trade.
+81,Nb2,a4b2,6k1/6p1/7p/5p1r/1p2pP2/1P1nP3/1N2R3/1K6 b - - 1 41,Up two points black should trade.
+82,Nc5,d3c5,6k1/6p1/7p/2n2p1r/1p2pP2/1P2P3/1N2R3/1K6 w - - 2 42,Now don't trade...  Nd3 looks good.
+83,Kc2,b1c2,6k1/6p1/7p/2n2p1r/1p2pP2/1P2P3/1NK1R3/8 b - - 3 42,Now don't trade...  Nd3 looks good.
+84,g5,g7g5,6k1/8/7p/2n2ppr/1p2pP2/1P2P3/1NK1R3/8 w - - 0 43,Now don't trade...  Nd3 looks good.
+85,Na4,b2a4,6k1/8/7p/2n2ppr/Np2pP2/1P2P3/2K1R3/8 b - - 1 43,Now don't trade...  Nd3 looks good.
+86,Ne6,c5e6,6k1/8/4n2p/5ppr/Np2pP2/1P2P3/2K1R3/8 w - - 2 44,Use the rook so it is out of the way and the h pawn is passed.
+87,fxg5,f4g5,6k1/8/4n2p/5pPr/Np2p3/1P2P3/2K1R3/8 b - - 0 44,Use the rook so it is out of the way and the h pawn is passed.
+88,hxg5,h6g5,6k1/8/4n3/5ppr/Np2p3/1P2P3/2K1R3/8 w - - 0 45,"I guess it is still passes--and the rook is out of the way--and the pawn is ahead.  And it supports the other pawns.  Yeah, this was better."
+89,Nb6,a4b6,6k1/8/1N2n3/5ppr/1p2p3/1P2P3/2K1R3/8 b - - 1 45,"White will want to move Nd5 to take the pawn.  Black can defend with Nc5 then Nd3.  Nc7 also works, temporarily."
+90,Kf7,g8f7,8/5k2/1N2n3/5ppr/1p2p3/1P2P3/2K1R3/8 w - - 2 46,"But not that.  Black could also run the g pawn, tying up white's rook."
+91,Nd5,b6d5,8/5k2/4n3/3N1ppr/1p2p3/1P2P3/2K1R3/8 b - - 3 46,Oops.  Now white gets a pawn.
+92,f4,f5f4,8/5k2/4n3/3N2pr/1p2pp2/1P2P3/2K1R3/8 w - - 0 47,Oops.  Now white gets a pawn.
+93,exf4,e3f4,8/5k2/4n3/3N2pr/1p2pP2/1P6/2K1R3/8 b - - 0 47,I think Rf5 would have been better.  Black's advantage now evaporates.
+94,Nxf4,e6f4,8/5k2/8/3N2pr/1p2pn2/1P6/2K1R3/8 w - - 0 48,I think Rf5 would have been better.  Black's advantage now evaporates.
+95,Nxf4,d5f4,8/5k2/8/6pr/1p2pN2/1P6/2K1R3/8 b - - 0 48,I think Rf5 would have been better.  Black's advantage now evaporates.
+96,gxf4,g5f4,8/5k2/8/7r/1p2pp2/1P6/2K1R3/8 w - - 0 49,I think Rf5 would have been better.  Black's advantage now evaporates.
+97,Rxe4,e2e4,8/5k2/8/7r/1p2Rp2/1P6/2K5/8 b - - 0 49,I think Rf5 would have been better.  Black's advantage now evaporates.
+98,Rh4,h5h4,8/5k2/8/8/1p2Rp1r/1P6/2K5/8 w - - 1 50,I think Rf5 would have been better.  Black's advantage now evaporates.
+99,Kd1,c2d1,8/5k2/8/8/1p2Rp1r/1P6/8/3K4 b - - 2 50,
+100,Rh1+,h4h1,8/5k2/8/8/1p2Rp2/1P6/8/3K3r w - - 3 51,
+101,Ke2,d1e2,8/5k2/8/8/1p2Rp2/1P6/4K3/7r b - - 4 51,
+102,Rh3,h1h3,8/5k2/8/8/1p2Rp2/1P5r/4K3/8 w - - 5 52,
+103,Rxf4+,e4f4,8/5k2/8/8/1p3R2/1P5r/4K3/8 b - - 0 52,
+104,Ke6,f7e6,8/8/4k3/8/1p3R2/1P5r/4K3/8 w - - 1 53,
+105,Rxb4,f4b4,8/8/4k3/8/1R6/1P5r/4K3/8 b - - 0 53,
+106,Kd5,e6d5,8/8/8/3k4/1R6/1P5r/4K3/8 w - - 1 54,
+107,Rb8,b4b8,1R6/8/8/3k4/8/1P5r/4K3/8 b - - 2 54,
+108,Kc6,d5c6,1R6/8/2k5/8/8/1P5r/4K3/8 w - - 3 55,
+109,Kd2,e2d2,1R6/8/2k5/8/8/1P5r/3K4/8 b - - 4 55,
+110,Kc7,c6c7,1R6/2k5/8/8/8/1P5r/3K4/8 w - - 5 56,
+111,Rb4,b8b4,8/2k5/8/8/1R6/1P5r/3K4/8 b - - 6 56,
+112,Kc6,c7c6,8/8/2k5/8/1R6/1P5r/3K4/8 w - - 7 57,
+113,Kc2,d2c2,8/8/2k5/8/1R6/1P5r/2K5/8 b - - 8 57,
+114,Kc5,c6c5,8/8/8/2k5/1R6/1P5r/2K5/8 w - - 9 58,
+115,Rb8,b4b8,1R6/8/8/2k5/8/1P5r/2K5/8 b - - 10 58,
+116,Rh2+,h3h2,1R6/8/8/2k5/8/1P6/2K4r/8 w - - 11 59,
+117,Kc3,c2c3,1R6/8/8/2k5/8/1PK5/7r/8 b - - 12 59,
+118,Rh3+,h2h3,1R6/8/8/2k5/8/1PK4r/8/8 w - - 13 60,
+119,Kb2,c3b2,1R6/8/8/2k5/8/1P5r/1K6/8 b - - 14 60,
+120,Kc6,c5c6,1R6/8/2k5/8/8/1P5r/1K6/8 w - - 15 61,
+121,b4,b3b4,1R6/8/2k5/8/1P6/7r/1K6/8 b - - 0 61,
+122,Kc7,c6c7,1R6/2k5/8/8/1P6/7r/1K6/8 w - - 1 62,
+123,Rb5,b8b5,8/2k5/8/1R6/1P6/7r/1K6/8 b - - 2 62,
+124,Kc6,c7c6,8/8/2k5/1R6/1P6/7r/1K6/8 w - - 3 63,
+125,Rc5+,b5c5,8/8/2k5/2R5/1P6/7r/1K6/8 b - - 4 63,
+126,Kb6,c6b6,8/8/1k6/2R5/1P6/7r/1K6/8 w - - 5 64,
+127,Rc3,c5c3,8/8/1k6/8/1P6/2R4r/1K6/8 b - - 6 64,
+128,Rh5,h3h5,8/8/1k6/7r/1P6/2R5/1K6/8 w - - 7 65,
+129,Ka3,b2a3,8/8/1k6/7r/1P6/K1R5/8/8 b - - 8 65,
+130,Rh4,h5h4,8/8/1k6/8/1P5r/K1R5/8/8 w - - 9 66,
+131,Ka4,a3a4,8/8/1k6/8/KP5r/2R5/8/8 b - - 10 66,
+132,Re4,h4e4,8/8/1k6/8/KP2r3/2R5/8/8 w - - 11 67,
+133,Rh3,c3h3,8/8/1k6/8/KP2r3/7R/8/8 b - - 12 67,
+134,Re6,e4e6,8/8/1k2r3/8/KP6/7R/8/8 w - - 13 68,
+135,Rh5,h3h5,8/8/1k2r3/7R/KP6/8/8/8 b - - 14 68,
+136,Re4,e6e4,8/8/1k6/7R/KP2r3/8/8/8 w - - 15 69,
+137,Rh6+,h5h6,8/8/1k5R/8/KP2r3/8/8/8 b - - 16 69,
+138,Kb7,b6b7,8/1k6/7R/8/KP2r3/8/8/8 w - - 17 70,
+139,Ka5,a4a5,8/1k6/7R/K7/1P2r3/8/8/8 b - - 18 70,
+140,Re2,e4e2,8/1k6/7R/K7/1P6/8/4r3/8 w - - 19 71,
+141,b5,b4b5,8/1k6/7R/KP6/8/8/4r3/8 b - - 0 71,
+142,Ra2+,e2a2,8/1k6/7R/KP6/8/8/r7/8 w - - 1 72,
+143,Kb4,a5b4,8/1k6/7R/1P6/1K6/8/r7/8 b - - 2 72,
+144,Rb2+,a2b2,8/1k6/7R/1P6/1K6/8/1r6/8 w - - 3 73,
+145,Kc5,b4c5,8/1k6/7R/1PK5/8/8/1r6/8 b - - 4 73,
+146,Rc2+,b2c2,8/1k6/7R/1PK5/8/8/2r5/8 w - - 5 74,
+147,Kd4,c5d4,8/1k6/7R/1P6/3K4/8/2r5/8 b - - 6 74,
+148,Rc1,c2c1,8/1k6/7R/1P6/3K4/8/8/2r5 w - - 7 75,
+149,b6,b5b6,8/1k6/1P5R/8/3K4/8/8/2r5 b - - 0 75,
+150,Rc6,c1c6,8/1k6/1Pr4R/8/3K4/8/8/8 w - - 1 76,
+151,Rxc6,h6c6,8/1k6/1PR5/8/3K4/8/8/8 b - - 0 76,
+152,Kxc6,b7c6,8/8/1Pk5/8/3K4/8/8/8 w - - 0 77,
+153,b7,b6b7,8/1P6/2k5/8/3K4/8/8/8 b - - 0 77,
+154,Kxb7,c6b7,8/1k6/8/8/3K4/8/8/8 w - - 0 78,

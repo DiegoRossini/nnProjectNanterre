@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,All the tournament games start from this position.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2,All the tournament games start from this position.
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2,All the tournament games start from this position.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3,All the tournament games start from this position.
+5,e3,e2e3,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3,All the tournament games start from this position.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 1 4,All the tournament games start from this position.
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 2 4,All the tournament games start from this position.
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 5,All the tournament games start from this position.
+9,Ne2,g1e2,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/8/1P2P3/PBPPNPPP/RN1QK2R b KQkq - 1 5,All the tournament games start from this position.
+10,Bd7,c8d7,r2qkb1r/pppb1ppp/2np1n2/1B2p3/8/1P2P3/PBPPNPPP/RN1QK2R w KQkq - 2 6,All the tournament games start from this position.
+11,O-O,e1g1,r2qkb1r/pppb1ppp/2np1n2/1B2p3/8/1P2P3/PBPPNPPP/RN1Q1RK1 b kq - 3 6,All the tournament games start from this position.
+12,Be7,f8e7,r2qk2r/pppbbppp/2np1n2/1B2p3/8/1P2P3/PBPPNPPP/RN1Q1RK1 w kq - 4 7,All the tournament games start from this position.
+13,f4,f2f4,r2qk2r/pppbbppp/2np1n2/1B2p3/5P2/1P2P3/PBPPN1PP/RN1Q1RK1 b kq - 0 7,All the tournament games start from this position.
+14,O-O,e8g8,r2q1rk1/pppbbppp/2np1n2/1B2p3/5P2/1P2P3/PBPPN1PP/RN1Q1RK1 w - - 1 8,All the tournament games start from this position.
+15,fxe5,f4e5,r2q1rk1/pppbbppp/2np1n2/1B2P3/8/1P2P3/PBPPN1PP/RN1Q1RK1 b - - 0 8,White goes in...
+16,dxe5,d6e5,r2q1rk1/pppbbppp/2n2n2/1B2p3/8/1P2P3/PBPPN1PP/RN1Q1RK1 w - - 0 9,...for an immediate central exchange.
+17,Bxc6,b5c6,r2q1rk1/pppbbppp/2B2n2/4p3/8/1P2P3/PBPPN1PP/RN1Q1RK1 b - - 0 9,White follows up...
+18,Bxc6,d7c6,r2q1rk1/ppp1bppp/2b2n2/4p3/8/1P2P3/PBPPN1PP/RN1Q1RK1 w - - 0 10,...with an exchange of minors.
+19,Nbc3,b1c3,r2q1rk1/ppp1bppp/2b2n2/4p3/8/1PN1P3/PBPPN1PP/R2Q1RK1 b - - 1 10,Simple development.
+20,Bd6,e7d6,r2q1rk1/ppp2ppp/2bb1n2/4p3/8/1PN1P3/PBPPN1PP/R2Q1RK1 w - - 2 11,Guarding the loose Pawn.
+21,d3,d2d3,r2q1rk1/ppp2ppp/2bb1n2/4p3/8/1PNPP3/PBP1N1PP/R2Q1RK1 b - - 0 11,White prepares in the center.
+22,Ng4,f6g4,r2q1rk1/ppp2ppp/2bb4/4p3/6n1/1PNPP3/PBP1N1PP/R2Q1RK1 w - - 1 12,I add a second defender to the Pawn.
+23,Qd2,d1d2,r2q1rk1/ppp2ppp/2bb4/4p3/6n1/1PNPP3/PBPQN1PP/R4RK1 b - - 2 12,Clearing the back rank.
+24,Qg5,d8g5,r4rk1/ppp2ppp/2bb4/4p1q1/6n1/1PNPP3/PBPQN1PP/R4RK1 w - - 3 13,Likewise.
+25,Ne4,c3e4,r4rk1/ppp2ppp/2bb4/4p1q1/4N1n1/1P1PP3/PBPQN1PP/R4RK1 b - - 4 13,Centralizing the Knight and attacking the Queen.
+26,Qg6,g5g6,r4rk1/ppp2ppp/2bb2q1/4p3/4N1n1/1P1PP3/PBPQN1PP/R4RK1 w - - 5 14,I duck to safety.
+27,h3,h2h3,r4rk1/ppp2ppp/2bb2q1/4p3/4N1n1/1P1PP2P/PBPQN1P1/R4RK1 b - - 0 14,Forcing back the advanced Knight.
+28,Nf6,g4f6,r4rk1/ppp2ppp/2bb1nq1/4p3/4N3/1P1PP2P/PBPQN1P1/R4RK1 w - - 1 15,The logical spot.
+29,Nxd6,e4d6,r4rk1/ppp2ppp/2bN1nq1/4p3/8/1P1PP2P/PBPQN1P1/R4RK1 b - - 0 15,An enormous blunder...
+30,Qxg2#,g6g2,r4rk1/ppp2ppp/2bN1n2/4p3/8/1P1PP2P/PBPQN1q1/R4RK1 w - - 0 16,...ends the game suddenly!

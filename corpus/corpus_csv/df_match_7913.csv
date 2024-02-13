@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Should never have done that
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Should never have done that
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Should never have done that
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Should never have done that
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Should never have done that
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Should never have done that
+7,Bc4,f1c4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,Should never have done that
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,Should never have done that
+9,d3,d2d3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,Should never have done that
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQ - 1 6,Should never have done that
+11,O-O,e1g1,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b - - 2 6,Should never have done that
+12,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7,Should never have done that
+13,Na4,c3a4,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/N1B1P3/3P1N2/PPP2PPP/R1BQ1RK1 b - - 1 7,Should never have done that
+14,Bg4,c8g4,r2q1rk1/ppp2ppp/2np1n2/2b1p3/N1B1P1b1/3P1N2/PPP2PPP/R1BQ1RK1 w - - 2 8,Because I would be pinned like this.
+15,h3,h2h3,r2q1rk1/ppp2ppp/2np1n2/2b1p3/N1B1P1b1/3P1N1P/PPP2PP1/R1BQ1RK1 b - - 0 8,"Trying the same pin but his case is different. I didn't feel like playing g4, it weakens my kings side."
+16,Bh5,g4h5,r2q1rk1/ppp2ppp/2np1n2/2b1p2b/N1B1P3/3P1N1P/PPP2PP1/R1BQ1RK1 w - - 1 9,"Trying the same pin but his case is different. I didn't feel like playing g4, it weakens my kings side."
+17,Nxc5,a4c5,r2q1rk1/ppp2ppp/2np1n2/2N1p2b/2B1P3/3P1N1P/PPP2PP1/R1BQ1RK1 b - - 0 9,"Trying the same pin but his case is different. I didn't feel like playing g4, it weakens my kings side."
+18,dxc5,d6c5,r2q1rk1/ppp2ppp/2n2n2/2p1p2b/2B1P3/3P1N1P/PPP2PP1/R1BQ1RK1 w - - 0 10,"Trying the same pin but his case is different. I didn't feel like playing g4, it weakens my kings side."
+19,Bg5,c1g5,r2q1rk1/ppp2ppp/2n2n2/2p1p1Bb/2B1P3/3P1N1P/PPP2PP1/R2Q1RK1 b - - 1 10,"Trying the same pin but his case is different. I didn't feel like playing g4, it weakens my kings side."
+20,Qd6,d8d6,r4rk1/ppp2ppp/2nq1n2/2p1p1Bb/2B1P3/3P1N1P/PPP2PP1/R2Q1RK1 w - - 2 11,I was trying to bring my queen to e3.
+21,Qe2,d1e2,r4rk1/ppp2ppp/2nq1n2/2p1p1Bb/2B1P3/3P1N1P/PPP1QPP1/R4RK1 b - - 3 11,I was trying to bring my queen to e3.
+22,Nd4,c6d4,r4rk1/ppp2ppp/3q1n2/2p1p1Bb/2BnP3/3P1N1P/PPP1QPP1/R4RK1 w - - 4 12,Things just got worse.
+23,Qd1,e2d1,r4rk1/ppp2ppp/3q1n2/2p1p1Bb/2BnP3/3P1N1P/PPP2PP1/R2Q1RK1 b - - 5 12,Didn't worry too much about open flange in front of king because black bishop could easily replace the pawn.
+24,Nxf3+,d4f3,r4rk1/ppp2ppp/3q1n2/2p1p1Bb/2B1P3/3P1n1P/PPP2PP1/R2Q1RK1 w - - 0 13,Didn't worry too much about open flange in front of king because black bishop could easily replace the pawn.
+25,gxf3,g2f3,r4rk1/ppp2ppp/3q1n2/2p1p1Bb/2B1P3/3P1P1P/PPP2P2/R2Q1RK1 b - - 0 13,Didn't worry too much about open flange in front of king because black bishop could easily replace the pawn.
+26,Bg6,h5g6,r4rk1/ppp2ppp/3q1nb1/2p1p1B1/2B1P3/3P1P1P/PPP2P2/R2Q1RK1 w - - 1 14,Trying to turn weakness into attack with a 2 rooks and protected h pawn.
+27,Kh2,g1h2,r4rk1/ppp2ppp/3q1nb1/2p1p1B1/2B1P3/3P1P1P/PPP2P1K/R2Q1R2 b - - 2 14,Trying to turn weakness into attack with a 2 rooks and protected h pawn.
+28,Nh5,f6h5,r4rk1/ppp2ppp/3q2b1/2p1p1Bn/2B1P3/3P1P1P/PPP2P1K/R2Q1R2 w - - 3 15,Trying to turn weakness into attack with a 2 rooks and protected h pawn.
+29,Rh1,f1h1,r4rk1/ppp2ppp/3q2b1/2p1p1Bn/2B1P3/3P1P1P/PPP2P1K/R2Q3R b - - 4 15,Trying to turn weakness into attack with a 2 rooks and protected h pawn.
+30,Nf4,h5f4,r4rk1/ppp2ppp/3q2b1/2p1p1B1/2B1Pn2/3P1P1P/PPP2P1K/R2Q3R w - - 5 16,"Now, how to bring king behind f pawn?"
+31,Qd2,d1d2,r4rk1/ppp2ppp/3q2b1/2p1p1B1/2B1Pn2/3P1P1P/PPPQ1P1K/R6R b - - 6 16,"Now, how to bring king behind f pawn?"
+32,Kh8,g8h8,r4r1k/ppp2ppp/3q2b1/2p1p1B1/2B1Pn2/3P1P1P/PPPQ1P1K/R6R w - - 7 17,"Now, how to bring king behind f pawn?"
+33,Rag1,a1g1,r4r1k/ppp2ppp/3q2b1/2p1p1B1/2B1Pn2/3P1P1P/PPPQ1P1K/6RR b - - 8 17,"Now, how to bring king behind f pawn?"
+34,c6,c7c6,r4r1k/pp3ppp/2pq2b1/2p1p1B1/2B1Pn2/3P1P1P/PPPQ1P1K/6RR w - - 0 18,"Now, how to bring king behind f pawn?"
+35,Bxf4,g5f4,r4r1k/pp3ppp/2pq2b1/2p1p3/2B1PB2/3P1P1P/PPPQ1P1K/6RR b - - 0 18,Probably one of the my strongest move in the game.
+36,exf4,e5f4,r4r1k/pp3ppp/2pq2b1/2p5/2B1Pp2/3P1P1P/PPPQ1P1K/6RR w - - 0 19,His pawn was protecting my king. And he can't move it.
+37,Qd1,d2d1,r4r1k/pp3ppp/2pq2b1/2p5/2B1Pp2/3P1P1P/PPP2P1K/3Q2RR b - - 1 19,My king was closed in also. Trying to engage it somehow.
+38,f5,f7f5,r4r1k/pp4pp/2pq2b1/2p2p2/2B1Pp2/3P1P1P/PPP2P1K/3Q2RR w - - 0 20,Ah! now both rooks looked to be going for the kill.
+39,exf5,e4f5,r4r1k/pp4pp/2pq2b1/2p2P2/2B2p2/3P1P1P/PPP2P1K/3Q2RR b - - 0 20,Ah! now both rooks looked to be going for the kill.
+40,Rxf5,f8f5,r6k/pp4pp/2pq2b1/2p2r2/2B2p2/3P1P1P/PPP2P1K/3Q2RR w - - 0 21,Ah! now both rooks looked to be going for the kill.
+41,Rg2,g1g2,r6k/pp4pp/2pq2b1/2p2r2/2B2p2/3P1P1P/PPP2PRK/3Q3R b - - 1 21,Ah! now both rooks looked to be going for the kill.
+42,Rh5,f5h5,r6k/pp4pp/2pq2b1/2p4r/2B2p2/3P1P1P/PPP2PRK/3Q3R w - - 2 22,Now I'm in trouble.
+43,Kg1,h2g1,r6k/pp4pp/2pq2b1/2p4r/2B2p2/3P1P1P/PPP2PR1/3Q2KR b - - 3 22,Now I'm in trouble.
+44,Re8,a8e8,4r2k/pp4pp/2pq2b1/2p4r/2B2p2/3P1P1P/PPP2PR1/3Q2KR w - - 4 23,Now I'm in trouble.
+45,Qd2,d1d2,4r2k/pp4pp/2pq2b1/2p4r/2B2p2/3P1P1P/PPPQ1PR1/6KR b - - 5 23,Now I'm in trouble.
+46,Rhe5,h5e5,4r2k/pp4pp/2pq2b1/2p1r3/2B2p2/3P1P1P/PPPQ1PR1/6KR w - - 6 24,Now I'm in trouble.
+47,Qc3,d2c3,4r2k/pp4pp/2pq2b1/2p1r3/2B2p2/2QP1P1P/PPP2PR1/6KR b - - 7 24,"Even worse, my rooks are going to get pinned."
+48,Bh5,g6h5,4r2k/pp4pp/2pq4/2p1r2b/2B2p2/2QP1P1P/PPP2PR1/6KR w - - 8 25,"Even worse, my rooks are going to get pinned."
+49,d4,d3d4,4r2k/pp4pp/2pq4/2p1r2b/2BP1p2/2Q2P1P/PPP2PR1/6KR b - - 0 25,Attacking the rook and protecting the pawn.
+50,cxd4,c5d4,4r2k/pp4pp/2pq4/4r2b/2Bp1p2/2Q2P1P/PPP2PR1/6KR w - - 0 26,"Didn't see the pawn, ouch."
+51,Qd3,c3d3,4r2k/pp4pp/2pq4/4r2b/2Bp1p2/3Q1P1P/PPP2PR1/6KR b - - 1 26,My second best move. If he captures the pawn with the bishop I capture rook which he cannot return because of Qc8 threat which mates.
+52,Re5e1+,e5e1,4r2k/pp4pp/2pq4/7b/2Bp1p2/3Q1P1P/PPP2PR1/4r1KR w - - 2 27,My second best move. If he captures the pawn with the bishop I capture rook which he cannot return because of Qc8 threat which mates.
+53,Kh2,g1h2,4r2k/pp4pp/2pq4/7b/2Bp1p2/3Q1P1P/PPP2PRK/4r2R b - - 3 27,My second best move. If he captures the pawn with the bishop I capture rook which he cannot return because of Qc8 threat which mates.
+54,b5,b7b5,4r2k/p5pp/2pq4/1p5b/2Bp1p2/3Q1P1P/PPP2PRK/4r2R w - - 0 28,My second best move. If he captures the pawn with the bishop I capture rook which he cannot return because of Qc8 threat which mates.
+55,Qf5,d3f5,4r2k/p5pp/2pq4/1p3Q1b/2Bp1p2/5P1P/PPP2PRK/4r2R b - - 1 28,My second best move. If he captures the pawn with the bishop I capture rook which he cannot return because of Qc8 threat which mates.
+56,Bg6,h5g6,4r2k/p5pp/2pq2b1/1p3Q2/2Bp1p2/5P1P/PPP2PRK/4r2R w - - 2 29,Nice move? I thought Rxh1 was my downfall
+57,Rxe1,h1e1,4r2k/p5pp/2pq2b1/1p3Q2/2Bp1p2/5P1P/PPP2PRK/4R3 b - - 0 29,Clearly not very good but not too bad.
+58,bxc4,b5c4,4r2k/p5pp/2pq2b1/5Q2/2pp1p2/5P1P/PPP2PRK/4R3 w - - 0 30,Why didn't he get my rook? 29. ...Rxe1 leads to 30.Rxg6 hxg6 31. Qc8+ Kh7 and if king gets to h7 I have no more checks and black can play his game.

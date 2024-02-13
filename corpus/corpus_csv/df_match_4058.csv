@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,karo-kann defense
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,karo-kann defense
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"GO my bishops
+makes space for them to go"
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Not sure that is best choice
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,Not sure that is best choice
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Not sure that is best choice
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,Not sure that is best choice
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,Not sure that is best choice
+9,Nxf6+,e4f6,rnbqkb1r/pp2pppp/2p2N2/8/3P4/8/PPP2PPP/R1BQKBNR b KQkq - 0 5,attacks weak f7 pawn
+10,exf6,e7f6,rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6,attacks weak f7 pawn
+11,Bc4,f1c4,rnbqkb1r/pp3ppp/2p2p2/8/2BP4/8/PPP2PPP/R1BQK1NR b KQkq - 1 6,attacks weak f7 pawn
+12,Qe7+,d8e7,rnb1kb1r/pp2qppp/2p2p2/8/2BP4/8/PPP2PPP/R1BQK1NR w KQkq - 2 7,happy to exchange followed by Nxe2 and good development
+13,Qe2,d1e2,rnb1kb1r/pp2qppp/2p2p2/8/2BP4/8/PPP1QPPP/R1B1K1NR b KQkq - 3 7,happy to exchange followed by Nxe2 and good development
+14,Be6,c8e6,rn2kb1r/pp2qppp/2p1bp2/8/2BP4/8/PPP1QPPP/R1B1K1NR w KQkq - 4 8,bad for him though
+15,Bb3,c4b3,rn2kb1r/pp2qppp/2p1bp2/8/3P4/1B6/PPP1QPPP/R1B1K1NR b KQkq - 5 8,can't lose that!
+16,Bxb3,e6b3,rn2kb1r/pp2qppp/2p2p2/8/3P4/1b6/PPP1QPPP/R1B1K1NR w KQkq - 0 9,Rook eliberated
+17,axb3,a2b3,rn2kb1r/pp2qppp/2p2p2/8/3P4/1P6/1PP1QPPP/R1B1K1NR b KQkq - 0 9,Rook eliberated
+18,Nd7,b8d7,r3kb1r/pp1nqppp/2p2p2/8/3P4/1P6/1PP1QPPP/R1B1K1NR w KQkq - 1 10,"allows queen to run free
+""attacks"" a7 pawn"
+19,Be3,c1e3,r3kb1r/pp1nqppp/2p2p2/8/3P4/1P2B3/1PP1QPPP/R3K1NR b KQkq - 2 10,"allows queen to run free
+""attacks"" a7 pawn"
+20,Qe4,e7e4,r3kb1r/pp1n1ppp/2p2p2/8/3Pq3/1P2B3/1PP1QPPP/R3K1NR w KQkq - 3 11,uh-oh forks c2 and g2 pawns
+21,Bf4,e3f4,r3kb1r/pp1n1ppp/2p2p2/8/3PqB2/1P6/1PP1QPPP/R3K1NR b KQkq - 4 11,pins queen
+22,Qxe2+,e4e2,r3kb1r/pp1n1ppp/2p2p2/8/3P1B2/1P6/1PP1qPPP/R3K1NR w KQkq - 0 12,nice development
+23,Nxe2,g1e2,r3kb1r/pp1n1ppp/2p2p2/8/3P1B2/1P6/1PP1NPPP/R3K2R b KQkq - 0 12,nice development
+24,Nb6,d7b6,r3kb1r/pp3ppp/1np2p2/8/3P1B2/1P6/1PP1NPPP/R3K2R w KQkq - 1 13,starts it too
+25,c4,c2c4,r3kb1r/pp3ppp/1np2p2/8/2PP1B2/1P6/1P2NPPP/R3K2R b KQkq - 0 13,blocks knight from D5
+26,Bb4+,f8b4,r3k2r/pp3ppp/1np2p2/8/1bPP1B2/1P6/1P2NPPP/R3K2R w KQkq - 1 14,no more castling
+27,Kd1,e1d1,r3k2r/pp3ppp/1np2p2/8/1bPP1B2/1P6/1P2NPPP/R2K3R b kq - 2 14,no more castling
+28,Kd7,e8d7,r6r/pp1k1ppp/1np2p2/8/1bPP1B2/1P6/1P2NPPP/R2K3R w - - 3 15,protects e4 and letting Knight go there
+29,Kc2,d1c2,r6r/pp1k1ppp/1np2p2/8/1bPP1B2/1P6/1PK1NPPP/R6R b - - 4 15,protects e4 and letting Knight go there
+30,Rhe8,h8e8,r3r3/pp1k1ppp/1np2p2/8/1bPP1B2/1P6/1PK1NPPP/R6R w - - 5 16,protects e4 and letting Knight go there
+31,Ng3,e2g3,r3r3/pp1k1ppp/1np2p2/8/1bPP1B2/1P4N1/1PK2PPP/R6R b - - 6 16,protects e4 and letting Knight go there
+32,g6,g7g6,r3r3/pp1k1p1p/1np2pp1/8/1bPP1B2/1P4N1/1PK2PPP/R6R w - - 0 17,protects e4 and letting Knight go there
+33,Kd3,c2d3,r3r3/pp1k1p1p/1np2pp1/8/1bPP1B2/1P1K2N1/1P3PPP/R6R b - - 1 17,protects e4 and letting Knight go there
+34,a6,a7a6,r3r3/1p1k1p1p/pnp2pp1/8/1bPP1B2/1P1K2N1/1P3PPP/R6R w - - 0 18,"knight has no protection
+never helps you"
+35,Ne4,g3e4,r3r3/1p1k1p1p/pnp2pp1/8/1bPPNB2/1P1K4/1P3PPP/R6R b - - 1 18,"Threatens Nxf6+, Nxe8 >> advantage"
+36,Re6,e8e6,r7/1p1k1p1p/pnp1rpp1/8/1bPPNB2/1P1K4/1P3PPP/R6R w - - 2 19,"saw it
+BUT Kc5 is threat now"
+37,Bd2,f4d2,r7/1p1k1p1p/pnp1rpp1/8/1bPPN3/1P1K4/1P1B1PPP/R6R b - - 3 19,tries to get rid of bishop that protects C5

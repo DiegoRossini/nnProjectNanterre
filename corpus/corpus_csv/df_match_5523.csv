@@ -1,0 +1,117 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I rarely play the siclian but I was in the mood for a fun game.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I rarely play the siclian but I was in the mood for a fun game.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The typical movce is ...d6, or ...g6 but like I said was in a different mood."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"The typical movce is ...d6, or ...g6 but like I said was in a different mood."
+5,Nc3,b1c3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"The typical movce is ...d6, or ...g6 but like I said was in a different mood."
+6,Nd4,c6d4,r1bqkbnr/pp1ppppp/8/2p5/3nP3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"The typical movce is ...d6, or ...g6 but like I said was in a different mood."
+7,Bb5,f1b5,r1bqkbnr/pp1ppppp/8/1Bp5/3nP3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"If my opponent was to play something like 3. ...Nd4 on me I would play less aggressive moves and  aim to undermine the advanced knight in the future. 
+
+4. Nxd4!? cxd4 5. Ne2 e5 is ok for black"
+8,e6,e7e6,r1bqkbnr/pp1p1ppp/4p3/1Bp5/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,0-0 is preferrable to me only because I hate having to move a peice two times in a row.
+9,Bc4,b5c4,r1bqkbnr/pp1p1ppp/4p3/2p5/2BnP3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 5,0-0 is preferrable to me only because I hate having to move a peice two times in a row.
+10,a6,a7a6,r1bqkbnr/1p1p1ppp/p3p3/2p5/2BnP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 6,I am moving fast and have already kick started my queenside pawns.
+11,Nxd4,f3d4,r1bqkbnr/1p1p1ppp/p3p3/2p5/2BNP3/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 6,7. ...e5!? is risky because of the bishop on c4 and the fact that I am behind in development.
+12,cxd4,c5d4,r1bqkbnr/1p1p1ppp/p3p3/8/2BpP3/2N5/PPPP1PPP/R1BQK2R w KQkq - 0 7,7. ...e5!? is risky because of the bishop on c4 and the fact that I am behind in development.
+13,Ne2,c3e2,r1bqkbnr/1p1p1ppp/p3p3/8/2BpP3/8/PPPPNPPP/R1BQK2R b KQkq - 1 7,7. ...e5!? is risky because of the bishop on c4 and the fact that I am behind in development.
+14,Nf6,g8f6,r1bqkb1r/1p1p1ppp/p3pn2/8/2BpP3/8/PPPPNPPP/R1BQK2R w KQkq - 2 8,7. ...e5!? is risky because of the bishop on c4 and the fact that I am behind in development.
+15,Nxd4,e2d4,r1bqkb1r/1p1p1ppp/p3pn2/8/2BNP3/8/PPPP1PPP/R1BQK2R b KQkq - 0 8,Securing the knight on e4 for now and gaining tempo against the LSB
+16,Nxe4,f6e4,r1bqkb1r/1p1p1ppp/p3p3/8/2BNn3/8/PPPP1PPP/R1BQK2R w KQkq - 0 9,Securing the knight on e4 for now and gaining tempo against the LSB
+17,O-O,e1g1,r1bqkb1r/1p1p1ppp/p3p3/8/2BNn3/8/PPPP1PPP/R1BQ1RK1 b kq - 1 9,Securing the knight on e4 for now and gaining tempo against the LSB
+18,d5,d7d5,r1bqkb1r/1p3ppp/p3p3/3p4/2BNn3/8/PPPP1PPP/R1BQ1RK1 w kq - 0 10,Securing the knight on e4 for now and gaining tempo against the LSB
+19,Bb3,c4b3,r1bqkb1r/1p3ppp/p3p3/3p4/3Nn3/1B6/PPPP1PPP/R1BQ1RK1 b kq - 1 10,"When I evaluate a position I use the model that Antoloy Karpov give in his book, ""Finding the Right Plan""
+
+
+MATERIAL RELATIONSHIP BETWEEN FORCES
+The material relationship is currently equal                         Score: =
+PRESENCE OF DIRECT THREATS                                        Score: =
+white has no direct threats. Black has the direct threat of ...Nc5 which will cause a pawn weakness and disruption of whites ablility to develop his remaining pieces.  
+POSITION OF KING AND THEIR SAFETY                              Score: +/=
+the white king has castled kingside and front pawns remain unmoved. The black kings has prepared to castle kingside and is slightly behind white in development. 
+PAWN STRUCTURE, WEAK AND STRONG SQUARES                Score: -/+
+Black enjoys clear strong points on c4,c5 and e4, while white has d4. e5 and strong influence over the light squares on the queenside. Black has a more active and uniform pawn structure.   The half open e-file is under dispute. White has potiental attacks on e6 and can play d3 to boot the knight off of e4. Where as Black has Nc5 with good attacking chances in the centre. 
+THE CENTER AND SPACE                                                 Score: -/=
+Black currently has more influence in the center. Black enjoys greater control of space. 
+DEVELOPMENT AND POSITION OF PIECES                           Score: -/=
+Black's knight are slightly more active compared to their counterparts. Both have the equal amount of pieces developed. 
+
+Evalutation conclusion: Black has a better position based upon his greater piece and pawn moblity, and presence of a direct threat. However, the knight on e5 can not be easly attacked but needs preparation to execute. Whites knight is more secure on d4, and both players have development problems for their remaining bishops. In the end white has to play c3 in order to avoid serious pawn weaknesses."
+20,Bd6,f8d6,r1bqk2r/1p3ppp/p2bp3/3p4/3Nn3/1B6/PPPP1PPP/R1BQ1RK1 w kq - 2 11,"When I evaluate a position I use the model that Antoloy Karpov give in his book, ""Finding the Right Plan""
+
+
+MATERIAL RELATIONSHIP BETWEEN FORCES
+The material relationship is currently equal                         Score: =
+PRESENCE OF DIRECT THREATS                                        Score: =
+white has no direct threats. Black has the direct threat of ...Nc5 which will cause a pawn weakness and disruption of whites ablility to develop his remaining pieces.  
+POSITION OF KING AND THEIR SAFETY                              Score: +/=
+the white king has castled kingside and front pawns remain unmoved. The black kings has prepared to castle kingside and is slightly behind white in development. 
+PAWN STRUCTURE, WEAK AND STRONG SQUARES                Score: -/+
+Black enjoys clear strong points on c4,c5 and e4, while white has d4. e5 and strong influence over the light squares on the queenside. Black has a more active and uniform pawn structure.   The half open e-file is under dispute. White has potiental attacks on e6 and can play d3 to boot the knight off of e4. Where as Black has Nc5 with good attacking chances in the centre. 
+THE CENTER AND SPACE                                                 Score: -/=
+Black currently has more influence in the center. Black enjoys greater control of space. 
+DEVELOPMENT AND POSITION OF PIECES                           Score: -/=
+Black's knight are slightly more active compared to their counterparts. Both have the equal amount of pieces developed. 
+
+Evalutation conclusion: Black has a better position based upon his greater piece and pawn moblity, and presence of a direct threat. However, the knight on e5 can not be easly attacked but needs preparation to execute. Whites knight is more secure on d4, and both players have development problems for their remaining bishops. In the end white has to play c3 in order to avoid serious pawn weaknesses."
+21,c3,c2c3,r1bqk2r/1p3ppp/p2bp3/3p4/3Nn3/1BP5/PP1P1PPP/R1BQ1RK1 b kq - 0 11,"When I evaluate a position I use the model that Antoloy Karpov give in his book, ""Finding the Right Plan""
+
+
+MATERIAL RELATIONSHIP BETWEEN FORCES
+The material relationship is currently equal                         Score: =
+PRESENCE OF DIRECT THREATS                                        Score: =
+white has no direct threats. Black has the direct threat of ...Nc5 which will cause a pawn weakness and disruption of whites ablility to develop his remaining pieces.  
+POSITION OF KING AND THEIR SAFETY                              Score: +/=
+the white king has castled kingside and front pawns remain unmoved. The black kings has prepared to castle kingside and is slightly behind white in development. 
+PAWN STRUCTURE, WEAK AND STRONG SQUARES                Score: -/+
+Black enjoys clear strong points on c4,c5 and e4, while white has d4. e5 and strong influence over the light squares on the queenside. Black has a more active and uniform pawn structure.   The half open e-file is under dispute. White has potiental attacks on e6 and can play d3 to boot the knight off of e4. Where as Black has Nc5 with good attacking chances in the centre. 
+THE CENTER AND SPACE                                                 Score: -/=
+Black currently has more influence in the center. Black enjoys greater control of space. 
+DEVELOPMENT AND POSITION OF PIECES                           Score: -/=
+Black's knight are slightly more active compared to their counterparts. Both have the equal amount of pieces developed. 
+
+Evalutation conclusion: Black has a better position based upon his greater piece and pawn moblity, and presence of a direct threat. However, the knight on e5 can not be easly attacked but needs preparation to execute. Whites knight is more secure on d4, and both players have development problems for their remaining bishops. In the end white has to play c3 in order to avoid serious pawn weaknesses."
+22,O-O,e8g8,r1bq1rk1/1p3ppp/p2bp3/3p4/3Nn3/1BP5/PP1P1PPP/R1BQ1RK1 w - - 1 12,White can drive the knight back now without fearing serious weaknesses
+23,d3,d2d3,r1bq1rk1/1p3ppp/p2bp3/3p4/3Nn3/1BPP4/PP3PPP/R1BQ1RK1 b - - 0 12,White can drive the knight back now without fearing serious weaknesses
+24,Nc5,e4c5,r1bq1rk1/1p3ppp/p2bp3/2np4/3N4/1BPP4/PP3PPP/R1BQ1RK1 w - - 1 13,"!? a bit over zealous, and creates too many holes. Besides the feared, ...e5 is still premature as the advance of the e5 would seriously weaken d5 and the light sqaures. The best way to keep the balance is 13. Bc2."
+25,f4,f2f4,r1bq1rk1/1p3ppp/p2bp3/2np4/3N1P2/1BPP4/PP4PP/R1BQ1RK1 b - - 0 13,"!? a bit over zealous, and creates too many holes. Besides the feared, ...e5 is still premature as the advance of the e5 would seriously weaken d5 and the light sqaures. The best way to keep the balance is 13. Bc2."
+26,Nxb3,c5b3,r1bq1rk1/1p3ppp/p2bp3/3p4/3N1P2/1nPP4/PP4PP/R1BQ1RK1 w - - 0 14,the exchange is in black's favor because now I do not have a problem on the light squares.
+27,axb3,a2b3,r1bq1rk1/1p3ppp/p2bp3/3p4/3N1P2/1PPP4/1P4PP/R1BQ1RK1 b - - 0 14,f4 has a big red bulls eye on its back.
+28,Bd7,c8d7,r2q1rk1/1p1b1ppp/p2bp3/3p4/3N1P2/1PPP4/1P4PP/R1BQ1RK1 w - - 1 15,f4 has a big red bulls eye on its back.
+29,Be3,c1e3,r2q1rk1/1p1b1ppp/p2bp3/3p4/3N1P2/1PPPB3/1P4PP/R2Q1RK1 b - - 2 15,f4 has a big red bulls eye on its back.
+30,Qc7,d8c7,r4rk1/1pqb1ppp/p2bp3/3p4/3N1P2/1PPPB3/1P4PP/R2Q1RK1 w - - 3 16,f4 has a big red bulls eye on its back.
+31,Qf3,d1f3,r4rk1/1pqb1ppp/p2bp3/3p4/3N1P2/1PPPBQ2/1P4PP/R4RK1 b - - 4 16,"17. ...dxc4 only helps untangle whites messy pawns. However, if white intends then 18. ...exc5 unleashes the power of the bishop pair. In short, White can not afford to open the positon and must strive to keep it closed."
+32,Rfe8,f8e8,r3r1k1/1pqb1ppp/p2bp3/3p4/3N1P2/1PPPBQ2/1P4PP/R4RK1 w - - 5 17,"17. ...dxc4 only helps untangle whites messy pawns. However, if white intends then 18. ...exc5 unleashes the power of the bishop pair. In short, White can not afford to open the positon and must strive to keep it closed."
+33,c4,c3c4,r3r1k1/1pqb1ppp/p2bp3/3p4/2PN1P2/1P1PBQ2/1P4PP/R4RK1 b - - 0 17,"17. ...dxc4 only helps untangle whites messy pawns. However, if white intends then 18. ...exc5 unleashes the power of the bishop pair. In short, White can not afford to open the positon and must strive to keep it closed."
+34,Rac8,a8c8,2r1r1k1/1pqb1ppp/p2bp3/3p4/2PN1P2/1P1PBQ2/1P4PP/R4RK1 w - - 1 18,"17. ...dxc4 only helps untangle whites messy pawns. However, if white intends then 18. ...exc5 unleashes the power of the bishop pair. In short, White can not afford to open the positon and must strive to keep it closed."
+35,Rae1,a1e1,2r1r1k1/1pqb1ppp/p2bp3/3p4/2PN1P2/1P1PBQ2/1P4PP/4RRK1 b - - 2 18,"?? I should have played 
+18. ...dxc4 19. dxc4 b5!? with nice lines for attacking."
+36,h6,h7h6,2r1r1k1/1pqb1pp1/p2bp2p/3p4/2PN1P2/1P1PBQ2/1P4PP/4RRK1 w - - 0 19,"?? I should have played 
+18. ...dxc4 19. dxc4 b5!? with nice lines for attacking."
+37,Qf2,f3f2,2r1r1k1/1pqb1pp1/p2bp2p/3p4/2PN1P2/1P1PB3/1P3QPP/4RRK1 b - - 1 19,preparing for e5
+38,f6,f7f6,2r1r1k1/1pqb2p1/p2bpp1p/3p4/2PN1P2/1P1PB3/1P3QPP/4RRK1 w - - 0 20,preparing for e5
+39,Rea1,e1a1,2r1r1k1/1pqb2p1/p2bpp1p/3p4/2PN1P2/1P1PB3/1P3QPP/R4RK1 b - - 1 20,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+40,e5,e6e5,2r1r1k1/1pqb2p1/p2b1p1p/3pp3/2PN1P2/1P1PB3/1P3QPP/R4RK1 w - - 0 21,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+41,fxe5,f4e5,2r1r1k1/1pqb2p1/p2b1p1p/3pP3/2PN4/1P1PB3/1P3QPP/R4RK1 b - - 0 21,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+42,Bxe5,d6e5,2r1r1k1/1pqb2p1/p4p1p/3pb3/2PN4/1P1PB3/1P3QPP/R4RK1 w - - 0 22,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+43,Bf4,e3f4,2r1r1k1/1pqb2p1/p4p1p/3pb3/2PN1B2/1P1P4/1P3QPP/R4RK1 b - - 1 22,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+44,Bxf4,e5f4,2r1r1k1/1pqb2p1/p4p1p/3p4/2PN1b2/1P1P4/1P3QPP/R4RK1 w - - 0 23,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+45,Qxf4,f2f4,2r1r1k1/1pqb2p1/p4p1p/3p4/2PN1Q2/1P1P4/1P4PP/R4RK1 b - - 0 23,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+46,Qb6,c7b6,2r1r1k1/1p1b2p1/pq3p1p/3p4/2PN1Q2/1P1P4/1P4PP/R4RK1 w - - 1 24,attacks d4 and supports the third rank. the queen has more influence on this sqaure. And of course white wouls love to trade the queens of the board.
+47,Rfe1,f1e1,2r1r1k1/1p1b2p1/pq3p1p/3p4/2PN1Q2/1P1P4/1P4PP/R3R1K1 b - - 2 24,"diverting the queen off of the defence of d4. So I can seize control of d4 which will put tremdeous pressure on d3, b3 and b2."
+48,Bf5,d7f5,2r1r1k1/1p4p1/pq3p1p/3p1b2/2PN1Q2/1P1P4/1P4PP/R3R1K1 w - - 3 25,"diverting the queen off of the defence of d4. So I can seize control of d4 which will put tremdeous pressure on d3, b3 and b2."
+49,Qxf5,f4f5,2r1r1k1/1p4p1/pq3p1p/3p1Q2/2PN4/1P1P4/1P4PP/R3R1K1 b - - 0 25,creating the potiental for a past pawn after capturing b2 and b3.
+50,Qxd4+,b6d4,2r1r1k1/1p4p1/p4p1p/3p1Q2/2Pq4/1P1P4/1P4PP/R3R1K1 w - - 0 26,creating the potiental for a past pawn after capturing b2 and b3.
+51,Kf1,g1f1,2r1r1k1/1p4p1/p4p1p/3p1Q2/2Pq4/1P1P4/1P4PP/R3RK2 b - - 1 26,creating the potiental for a past pawn after capturing b2 and b3.
+52,dxc4,d5c4,2r1r1k1/1p4p1/p4p1p/5Q2/2pq4/1P1P4/1P4PP/R3RK2 w - - 0 27,creating the potiental for a past pawn after capturing b2 and b3.
+53,dxc4,d3c4,2r1r1k1/1p4p1/p4p1p/5Q2/2Pq4/1P6/1P4PP/R3RK2 b - - 0 27,creating the potiental for a past pawn after capturing b2 and b3.
+54,Rcd8,c8d8,3rr1k1/1p4p1/p4p1p/5Q2/2Pq4/1P6/1P4PP/R3RK2 w - - 1 28,creating the potiental for a past pawn after capturing b2 and b3.
+55,Qf3,f5f3,3rr1k1/1p4p1/p4p1p/8/2Pq4/1P3Q2/1P4PP/R3RK2 b - - 2 28,creating the potiental for a past pawn after capturing b2 and b3.
+56,Rxe1+,e8e1,3r2k1/1p4p1/p4p1p/8/2Pq4/1P3Q2/1P4PP/R3rK2 w - - 0 29,creating the potiental for a past pawn after capturing b2 and b3.
+57,Rxe1,a1e1,3r2k1/1p4p1/p4p1p/8/2Pq4/1P3Q2/1P4PP/4RK2 b - - 0 29,creating the potiental for a past pawn after capturing b2 and b3.
+58,b5,b7b5,3r2k1/6p1/p4p1p/1p6/2Pq4/1P3Q2/1P4PP/4RK2 w - - 0 30,creating the potiental for a past pawn after capturing b2 and b3.
+59,cxb5,c4b5,3r2k1/6p1/p4p1p/1P6/3q4/1P3Q2/1P4PP/4RK2 b - - 0 30,creating the potiental for a past pawn after capturing b2 and b3.
+60,axb5,a6b5,3r2k1/6p1/5p1p/1p6/3q4/1P3Q2/1P4PP/4RK2 w - - 0 31,creating the potiental for a past pawn after capturing b2 and b3.
+61,Qc3,f3c3,3r2k1/6p1/5p1p/1p6/3q4/1PQ5/1P4PP/4RK2 b - - 1 31,defending against the complete collapse of his queenside.
+62,Qf4+,d4f4,3r2k1/6p1/5p1p/1p6/5q2/1PQ5/1P4PP/4RK2 w - - 2 32,preventing any funny back rank checks and invasions on e7
+63,Kg1,f1g1,3r2k1/6p1/5p1p/1p6/5q2/1PQ5/1P4PP/4R1K1 b - - 3 32,preventing any funny back rank checks and invasions on e7
+64,Kf7,g8f7,3r4/5kp1/5p1p/1p6/5q2/1PQ5/1P4PP/4R1K1 w - - 4 33,preventing any funny back rank checks and invasions on e7

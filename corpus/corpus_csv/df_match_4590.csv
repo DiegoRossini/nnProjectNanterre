@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,An uncommon opening lead to a blunder that sealed the fate of the game
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Portuguese opening, my frequent choice against e5"
+3,Bb5,f1b5,rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"Portuguese opening, my frequent choice against e5"
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,the main line after 2...Nf6
+5,d4,d2d4,rnbqkb1r/pppp1ppp/5n2/1B2p3/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3,the main line after 2...Nf6
+6,Bd6,f8d6,rnbqk2r/pppp1ppp/3b1n2/1B2p3/3PP3/8/PPP2PPP/RNBQK1NR w KQkq - 1 4,?? allows a decisive attack
+7,dxe5,d4e5,rnbqk2r/pppp1ppp/3b1n2/1B2P3/4P3/8/PPP2PPP/RNBQK1NR b KQkq - 0 4,forks both bishop and knight
+8,Bxe5,d6e5,rnbqk2r/pppp1ppp/5n2/1B2b3/4P3/8/PPP2PPP/RNBQK1NR w KQkq - 0 5,"or:
+a) Ng4 Qxg4
+b) Bb4 c3 and black has two pieces en prise, will lose one of them"
+9,f4,f2f4,rnbqk2r/pppp1ppp/5n2/1B2b3/4PP2/8/PPP3PP/RNBQK1NR b KQkq - 0 5,"to support e5, if Bxf4 then Bxf4 and white's activity is overwhelming"
+10,Nxe4,f6e4,rnbqk2r/pppp1ppp/8/1B2b3/4nP2/8/PPP3PP/RNBQK1NR w KQkq - 0 6,"wins another pawn, but then I have Qd5 leaving again two black pieces ""en prise"""
+11,Qd5,d1d5,rnbqk2r/pppp1ppp/8/1B1Qb3/4nP2/8/PPP3PP/RNB1K1NR b KQkq - 1 6,again attacking both black pieces and also f7
+12,Qh4+,d8h4,rnb1k2r/pppp1ppp/8/1B1Qb3/4nP1q/8/PPP3PP/RNB1K1NR w KQkq - 2 7,blocks the queen
+13,g3,g2g3,rnb1k2r/pppp1ppp/8/1B1Qb3/4nP1q/6P1/PPP4P/RNB1K1NR b KQkq - 0 7,blocks the queen
+14,Nxg3,e4g3,rnb1k2r/pppp1ppp/8/1B1Qb3/5P1q/6n1/PPP4P/RNB1K1NR w KQkq - 0 8,hoping for hxg3
+15,Nf3,g1f3,rnb1k2r/pppp1ppp/8/1B1Qb3/5P1q/5Nn1/PPP4P/RNB1K2R b KQkq - 1 8,again two of black pieces attacked
+16,Qh5,h4h5,rnb1k2r/pppp1ppp/8/1B1Qb2q/5P2/5Nn1/PPP4P/RNB1K2R w KQkq - 2 9,"the knight is defended by my queen, and e2 is defended by my b5 bishop"
+17,Ng5,f3g5,rnb1k2r/pppp1ppp/8/1B1Qb1Nq/5P2/6n1/PPP4P/RNB1K2R b KQkq - 3 9,"a mate threat has appeared now, and black still has two pieces ""en prise"""
+18,Bf6,e5f6,rnb1k2r/pppp1ppp/5b2/1B1Q2Nq/5P2/6n1/PPP4P/RNB1K2R w KQkq - 4 10,to get some pieces back and harden black's queen life
+19,hxg3,h2g3,rnb1k2r/pppp1ppp/5b2/1B1Q2Nq/5P2/6P1/PPP5/RNB1K2R b KQkq - 0 10,to get some pieces back and harden black's queen life
+20,c6,c7c6,rnb1k2r/pp1p1ppp/2p2b2/1B1Q2Nq/5P2/6P1/PPP5/RNB1K2R w KQkq - 0 11,?? Loses the queen
+21,Qe4+,d5e4,rnb1k2r/pp1p1ppp/2p2b2/1B4Nq/4QP2/6P1/PPP5/RNB1K2R b KQkq - 1 11,"black king moves, or the bishop blocks the check and then Rxh5 win the queen, plus with my rook on h5 and knight on g5 I can avoid the pin that wins back the queen:
+ 
+11...Kd8 12.Rxh5:
+
+a) 12...Re8 to pin the queen 13.Nxf7 wins the rook also
+b) 12...Bxg5 I don't even have to move the queen away, 13.Rxg5 and I have my rook to block black's rook 13...Re8 14.Re5"
+22,Be7,f6e7,rnb1k2r/pp1pbppp/2p5/1B4Nq/4QP2/6P1/PPP5/RNB1K2R w KQkq - 2 12,"now if cxb5, I'll play Nxh7 aimed at Nf6+ to win the h8 rook"
+23,Rxh5,h1h5,rnb1k2r/pp1pbppp/2p5/1B4NR/4QP2/6P1/PPP5/RNB1K3 b Qkq - 0 12,"now if cxb5, I'll play Nxh7 aimed at Nf6+ to win the h8 rook"
+24,d5,d7d5,rnb1k2r/pp2bppp/2p5/1B1p2NR/4QP2/6P1/PPP5/RNB1K3 w Qkq - 0 13,?? the c pawn is pinned
+25,Qxd5,e4d5,rnb1k2r/pp2bppp/2p5/1B1Q2NR/5P2/6P1/PPP5/RNB1K3 b Qkq - 0 13,
+26,Bxg5,e7g5,rnb1k2r/pp3ppp/2p5/1B1Q2bR/5P2/6P1/PPP5/RNB1K3 w Qkq - 0 14,
+27,Qxg5,d5g5,rnb1k2r/pp3ppp/2p5/1B4QR/5P2/6P1/PPP5/RNB1K3 b Qkq - 0 14,

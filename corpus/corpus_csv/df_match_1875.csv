@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Ok, standard constes of the center."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Ok, standard constes of the center."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Ok, standard constes of the center."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"Ok, standard constes of the center."
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"Ok, standard constes of the center."
+6,Bd6,f8d6,rnbqk1nr/ppp2ppp/3bp3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,"Ok, standard constes of the center."
+7,Qd2,d1d2,rnbqk1nr/ppp2ppp/3bp3/3p4/3P1B2/5N2/PPPQPPPP/RN2KB1R b KQkq - 3 4,"Other options are Bg3, Ne5 or BxB."
+8,Bxf4,d6f4,rnbqk1nr/ppp2ppp/4p3/3p4/3P1b2/5N2/PPPQPPPP/RN2KB1R w KQkq - 0 5,"My queen is already out, joined with a knight, while black is undeveloped. Almost a death sentence."
+9,Qxf4,d2f4,rnbqk1nr/ppp2ppp/4p3/3p4/3P1Q2/5N2/PPP1PPPP/RN2KB1R b KQkq - 0 5,"My queen is already out, joined with a knight, while black is undeveloped. Almost a death sentence."
+10,Nf6,g8f6,rnbqk2r/ppp2ppp/4pn2/3p4/3P1Q2/5N2/PPP1PPPP/RN2KB1R w KQkq - 1 6,Among other moves.
+11,Qg5,f4g5,rnbqk2r/ppp2ppp/4pn2/3p2Q1/3P4/5N2/PPP1PPPP/RN2KB1R b KQkq - 2 6,Among other moves.
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/4pn2/3p2Q1/3P4/5N2/PPP1PPPP/RN2KB1R w KQ - 3 7,The risky defensive castling has to be covered with pieces...
+13,e3,e2e3,rnbq1rk1/ppp2ppp/4pn2/3p2Q1/3P4/4PN2/PPP2PPP/RN2KB1R b KQ - 0 7,"This ""innocent"" move opens the way for the lsb."
+14,c6,c7c6,rnbq1rk1/pp3ppp/2p1pn2/3p2Q1/3P4/4PN2/PPP2PPP/RN2KB1R w KQ - 0 8,This innocent move just accomplish nothing. Black had to try to exchange queens.
+15,Bd3,f1d3,rnbq1rk1/pp3ppp/2p1pn2/3p2Q1/3P4/3BPN2/PPP2PPP/RN2K2R b KQ - 1 8,Tempting him to..
+16,h6,h7h6,rnbq1rk1/pp3pp1/2p1pn1p/3p2Q1/3P4/3BPN2/PPP2PPP/RN2K2R w KQ - 0 9,Tempting him to..
+17,Qh4,g5h4,rnbq1rk1/pp3pp1/2p1pn1p/3p4/3P3Q/3BPN2/PPP2PPP/RN2K2R b KQ - 1 9,Tempting him to..
+18,g5,g7g5,rnbq1rk1/pp3p2/2p1pn1p/3p2p1/3P3Q/3BPN2/PPP2PPP/RN2K2R w KQ - 0 10,"Done. The game is won. This is exactly what you should never do. This same pattern presents itself in a lot of games, normally with a more complicate structure, where things are not so easy like here. But you can take this as a reference for your games, any time you plan the ""double kick sequence"". Both as attacker or defender..."
+19,Nxg5,f3g5,rnbq1rk1/pp3p2/2p1pn1p/3p2N1/3P3Q/3BP3/PPP2PPP/RN2K2R b KQ - 0 10,Simple and nice...
+20,hxg5,h6g5,rnbq1rk1/pp3p2/2p1pn2/3p2p1/3P3Q/3BP3/PPP2PPP/RN2K2R w KQ - 0 11,Simple and nice...
+21,Qxg5+,h4g5,rnbq1rk1/pp3p2/2p1pn2/3p2Q1/3P4/3BP3/PPP2PPP/RN2K2R b KQ - 0 11,Simple and nice...
+22,Kh8,g8h8,rnbq1r1k/pp3p2/2p1pn2/3p2Q1/3P4/3BP3/PPP2PPP/RN2K2R w KQ - 1 12,Simple and nice...
+23,Qh6+,g5h6,rnbq1r1k/pp3p2/2p1pn1Q/3p4/3P4/3BP3/PPP2PPP/RN2K2R b KQ - 2 12,Simple and nice...
+24,Nh7,f6h7,rnbq1r1k/pp3p1n/2p1p2Q/3p4/3P4/3BP3/PPP2PPP/RN2K2R w KQ - 3 13,Simple and nice...
+25,Qxh7#,h6h7,rnbq1r1k/pp3p1Q/2p1p3/3p4/3P4/3BP3/PPP2PPP/RN2K2R b KQ - 0 13,Simple and nice...

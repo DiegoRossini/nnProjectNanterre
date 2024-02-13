@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King's Pawn game. The most popular, although not most successful, opening for white."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pirc Defense.
+3,Bc4,f1c4,rnbqkbnr/ppp1pppp/3p4/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"I admit I was expecting d4, Nf3 or even Nc3 here since the LSB often belongs on e2 in the lines I know. Aside from that, a natural development move that also pressures the weak f7 square, which, as you'll see ahead, the Android intends to exploit."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Attacking the e4 pawn and continuing with my castling kingside agenda.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,Defending e4.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4,"Again,in the Pirc Black intends to castle kingside and control the center from the flanks."
+7,h3,h2h3,rnbqkb1r/ppp1pp1p/3p1np1/8/2B1P3/2N4P/PPPP1PP1/R1BQK1NR b KQkq - 0 4,"A quiet, but not uncommon, move that intends to prevent Black from exchanging it's passive LSB on c8 with the quite active White knight that'll sit on f3. Although it fulfills White's purpose in development, this move will prove to be quite critical in White's future demise."
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/2B1P3/2N4P/PPPP1PP1/R1BQK1NR w KQkq - 1 5,Natural development.
+9,d4,d2d4,rnbqk2r/ppp1ppbp/3p1np1/8/2BPP3/2N4P/PPP2PP1/R1BQK1NR b KQkq - 0 5,d4 finally.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2BPP3/2N4P/PPP2PP1/R1BQK1NR w KQ - 1 6,Castled at last. Now I can proceed to try and undermine White's central control.
+11,Nf3,g1f3,rnbq1rk1/ppp1ppbp/3p1np1/8/2BPP3/2N2N1P/PPP2PP1/R1BQK2R b KQ - 2 6,White prepares to castle too.
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/2BPP3/2N2N1P/PPP2PP1/R1BQK2R w KQ - 0 7,"Striking the center from the flanks. e5 is also commonly played, but  prefer to let my DSB have clear view of the a1-h8 great diagonal."
+13,dxc5,d4c5,rnbq1rk1/pp2ppbp/3p1np1/2P5/2B1P3/2N2N1P/PPP2PP1/R1BQK2R b KQ - 0 7,"Most would go for d5 and scramble the center even more for a while, but there's nothing wrong with exchanging."
+14,Qa5,d8a5,rnb2rk1/pp2ppbp/3p1np1/q1P5/2B1P3/2N2N1P/PPP2PP1/R1BQK2R w KQ - 1 8,Everything quite standard so far.
+15,Ng5,f3g5,rnb2rk1/pp2ppbp/3p1np1/q1P3N1/2B1P3/2N4P/PPP2PP1/R1BQK2R b KQ - 2 8,"Now, this move I find quite annoying even though its alright for Black. Guess I just grew tired of the old bishop and knight eyeing on f7 cliche."
+16,Qxc5,a5c5,rnb2rk1/pp2ppbp/3p1np1/2q3N1/2B1P3/2N4P/PPP2PP1/R1BQK2R w KQ - 0 9,"Recapturing on c5. If White wants to exchange his most active pieces for my king's stationary defenses, so be it."
+17,Bxf7+,c4f7,rnb2rk1/pp2pBbp/3p1np1/2q3N1/4P3/2N4P/PPP2PP1/R1BQK2R b KQ - 0 9,Here it comes.
+18,Rxf7,f8f7,rnb3k1/pp2prbp/3p1np1/2q3N1/4P3/2N4P/PPP2PP1/R1BQK2R w KQ - 0 10,I proceed with the trade.
+19,Nxf7,g5f7,rnb3k1/pp2pNbp/3p1np1/2q5/4P3/2N4P/PPP2PP1/R1BQK2R b KQ - 0 10,No going back. White must take the Rook or lose the exchange.
+20,Kxf7,g8f7,rnb5/pp2pkbp/3p1np1/2q5/4P3/2N4P/PPP2PP1/R1BQK2R w KQ - 0 11,"It's common sense that, in a simple kingside castle position (a.k.a.- non fianchettoed castle), exchanging White's most active knight and bishop for the f7 pawn and the still innactive f8 rook is suboptimal. After all,  piece activity plays a big role in any strong position. But, since Black's kingside pawn structure is already slightly weakened by the fianchettoed Bishop, this move is alright since it weakens it even more and removes two main defenders.  From now on I must make sure all my minor pieces are active to make up for my lost rook and slightly exposed king."

@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,D4 as per usual
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The Dutch, this should be fun"
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,So I just keep within the London system idea
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,So I just keep within the London system idea
+5,Bf4,c1f4,rnbqkb1r/ppppp1pp/5n2/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,So I just keep within the London system idea
+6,e6,e7e6,rnbqkb1r/pppp2pp/4pn2/5p2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,White keeps developing
+7,e3,e2e3,rnbqkb1r/pppp2pp/4pn2/5p2/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,White keeps developing
+8,b6,b7b6,rnbqkb1r/p1pp2pp/1p2pn2/5p2/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,White keeps developing
+9,Nbd2,b1d2,rnbqkb1r/p1pp2pp/1p2pn2/5p2/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 1 5,I decide to create an escape square for the bishop and am considering castling long
+10,Bb7,c8b7,rn1qkb1r/pbpp2pp/1p2pn2/5p2/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 2 6,I decide to create an escape square for the bishop and am considering castling long
+11,Bd3,f1d3,rn1qkb1r/pbpp2pp/1p2pn2/5p2/3P1B2/3BPN2/PPPN1PPP/R2QK2R b KQkq - 3 6,I decide to create an escape square for the bishop and am considering castling long
+12,Be7,f8e7,rn1qk2r/pbppb1pp/1p2pn2/5p2/3P1B2/3BPN2/PPPN1PPP/R2QK2R w KQkq - 4 7,I decide to create an escape square for the bishop and am considering castling long
+13,c3,c2c3,rn1qk2r/pbppb1pp/1p2pn2/5p2/3P1B2/2PBPN2/PP1N1PPP/R2QK2R b KQkq - 0 7,I decide to create an escape square for the bishop and am considering castling long
+14,O-O,e8g8,rn1q1rk1/pbppb1pp/1p2pn2/5p2/3P1B2/2PBPN2/PP1N1PPP/R2QK2R w KQ - 1 8,I decide to create an escape square for the bishop and am considering castling long
+15,h3,h2h3,rn1q1rk1/pbppb1pp/1p2pn2/5p2/3P1B2/2PBPN1P/PP1N1PP1/R2QK2R b KQ - 0 8,I decide to create an escape square for the bishop and am considering castling long
+16,Na6,b8a6,r2q1rk1/pbppb1pp/np2pn2/5p2/3P1B2/2PBPN1P/PP1N1PP1/R2QK2R w KQ - 1 9,"I guess black is thinking of playing c5, I'm having non of it and am going to start to charge down the king side"
+17,g4,g2g4,r2q1rk1/pbppb1pp/np2pn2/5p2/3P1BP1/2PBPN1P/PP1N1P2/R2QK2R b KQ - 0 9,"I decide to let the bishop go, but it does look messy"
+18,Nd5,f6d5,r2q1rk1/pbppb1pp/np2p3/3n1p2/3P1BP1/2PBPN1P/PP1N1P2/R2QK2R w KQ - 1 10,"I decide to let the bishop go, but it does look messy"
+19,Qe2,d1e2,r2q1rk1/pbppb1pp/np2p3/3n1p2/3P1BP1/2PBPN1P/PP1NQP2/R3K2R b KQ - 2 10,"I decide to let the bishop go, but it does look messy"
+20,Nxf4,d5f4,r2q1rk1/pbppb1pp/np2p3/5p2/3P1nP1/2PBPN1P/PP1NQP2/R3K2R w KQ - 0 11,"I am not sure of blacks idea here, but it allows white to continue"
+21,exf4,e3f4,r2q1rk1/pbppb1pp/np2p3/5p2/3P1PP1/2PB1N1P/PP1NQP2/R3K2R b KQ - 0 11,"I am not sure of blacks idea here, but it allows white to continue"
+22,Qc8,d8c8,r1q2rk1/pbppb1pp/np2p3/5p2/3P1PP1/2PB1N1P/PP1NQP2/R3K2R w KQ - 1 12,"I am not sure of blacks idea here, but it allows white to continue"
+23,gxf5,g4f5,r1q2rk1/pbppb1pp/np2p3/5P2/3P1P2/2PB1N1P/PP1NQP2/R3K2R b KQ - 0 12,Puts pressure on the king
+24,exf5,e6f5,r1q2rk1/pbppb1pp/np6/5p2/3P1P2/2PB1N1P/PP1NQP2/R3K2R w KQ - 0 13,Puts pressure on the king
+25,Rg1,h1g1,r1q2rk1/pbppb1pp/np6/5p2/3P1P2/2PB1N1P/PP1NQP2/R3K1R1 b Q - 1 13,Puts pressure on the king
+26,Bf6,e7f6,r1q2rk1/pbpp2pp/np3b2/5p2/3P1P2/2PB1N1P/PP1NQP2/R3K1R1 w Q - 2 14,Finally I castle
+27,O-O-O,e1c1,r1q2rk1/pbpp2pp/np3b2/5p2/3P1P2/2PB1N1P/PP1NQP2/2KR2R1 b - - 3 14,Finally I castle
+28,Re8,f8e8,r1q1r1k1/pbpp2pp/np3b2/5p2/3P1P2/2PB1N1P/PP1NQP2/2KR2R1 w - - 4 15,"Surprise, and Black plays the very natural d6"
+29,Ne5,f3e5,r1q1r1k1/pbpp2pp/np3b2/4Np2/3P1P2/2PB3P/PP1NQP2/2KR2R1 b - - 5 15,"Surprise, and Black plays the very natural d6"
+30,d6,d7d6,r1q1r1k1/pbp3pp/np1p1b2/4Np2/3P1P2/2PB3P/PP1NQP2/2KR2R1 w - - 0 16,Ouch
+31,Qh5,e2h5,r1q1r1k1/pbp3pp/np1p1b2/4Np1Q/3P1P2/2PB3P/PP1N1P2/2KR2R1 b - - 1 16,Ouch
+32,dxe5,d6e5,r1q1r1k1/pbp3pp/np3b2/4pp1Q/3P1P2/2PB3P/PP1N1P2/2KR2R1 w - - 0 17,Ouch
+33,Bxf5,d3f5,r1q1r1k1/pbp3pp/np3b2/4pB1Q/3P1P2/2P4P/PP1N1P2/2KR2R1 b - - 0 17,Ouch
+34,Qb8,c8b8,rq2r1k1/pbp3pp/np3b2/4pB1Q/3P1P2/2P4P/PP1N1P2/2KR2R1 w - - 1 18,Black moves the quenn away from the action
+35,fxe5,f4e5,rq2r1k1/pbp3pp/np3b2/4PB1Q/3P4/2P4P/PP1N1P2/2KR2R1 b - - 0 18,Black is trying to create some room but it is too late
+36,c5,c7c5,rq2r1k1/pb4pp/np3b2/2p1PB1Q/3P4/2P4P/PP1N1P2/2KR2R1 w - - 0 19,Black is trying to create some room but it is too late
+37,Qxh7+,h5h7,rq2r1k1/pb4pQ/np3b2/2p1PB2/3P4/2P4P/PP1N1P2/2KR2R1 b - - 0 19,White has a won game and black resigns
+38,Kf8,g8f8,rq2rk2/pb4pQ/np3b2/2p1PB2/3P4/2P4P/PP1N1P2/2KR2R1 w - - 1 20,White has a won game and black resigns
+39,exf6,e5f6,rq2rk2/pb4pQ/np3P2/2p2B2/3P4/2P4P/PP1N1P2/2KR2R1 b - - 0 20,White has a won game and black resigns

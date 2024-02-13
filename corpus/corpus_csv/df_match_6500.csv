@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A short Sicilian game with an interesting checkmate at the end,"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Strongest response.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Strongest response.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Strongest response.
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Strongest response.
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Strongest response.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Strongest response.
+8,e5,e7e5,r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,Strongest response.
+9,Nb5,d4b5,r1bqkbnr/pp1p1ppp/2n5/1N2p3/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 1 5,Strongest response.
+10,a6,a7a6,r1bqkbnr/1p1p1ppp/p1n5/1N2p3/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+11,Nd6+,b5d6,r1bqkbnr/1p1p1ppp/p1nN4/4p3/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 1 6,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+12,Bxd6,f8d6,r1bqk1nr/1p1p1ppp/p1nb4/4p3/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 7,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+13,Qxd6,d1d6,r1bqk1nr/1p1p1ppp/p1nQ4/4p3/4P3/8/PPP2PPP/RNB1KB1R b KQkq - 0 7,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+14,Qf6,d8f6,r1b1k1nr/1p1p1ppp/p1nQ1q2/4p3/4P3/8/PPP2PPP/RNB1KB1R w KQkq - 1 8,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+15,Qd3,d6d3,r1b1k1nr/1p1p1ppp/p1n2q2/4p3/4P3/3Q4/PPP2PPP/RNB1KB1R b KQkq - 2 8,"One of many alternatives in a fairly common position, with a better winning percentage for White. Black must play carefully."
+16,Nh6,g8h6,r1b1k2r/1p1p1ppp/p1n2q1n/4p3/4P3/3Q4/PPP2PPP/RNB1KB1R w KQkq - 3 9,?! An innovation which did not turn out well for Black. It leaves the d5 hole weak and the threat of ...Ng4 is easily parried.
+17,Nc3,b1c3,r1b1k2r/1p1p1ppp/p1n2q1n/4p3/4P3/2NQ4/PPP2PPP/R1B1KB1R b KQkq - 4 9,"Since Black has decided not to defend d5, White will control it."
+18,Rb8,a8b8,1rb1k2r/1p1p1ppp/p1n2q1n/4p3/4P3/2NQ4/PPP2PPP/R1B1KB1R w KQk - 5 10,"Preparing for a push down the b file and protecting the rook from Nc7+, but White gets a dangerous initiative here and Black's developmental advantage is suffering. Black was probably concerned that after the more natural ...0-0, 10 Nd5 Qd8 that Bxh6 would leave his K exposed."
+19,Nd5,c3d5,1rb1k2r/1p1p1ppp/p1n2q1n/3Np3/4P3/3Q4/PPP2PPP/R1B1KB1R b KQk - 6 10,"White must strike quickly before Black can regroup, occupying d5 and preparing a quick attack"
+20,Qd6,f6d6,1rb1k2r/1p1p1ppp/p1nq3n/3Np3/4P3/3Q4/PPP2PPP/R1B1KB1R w KQk - 7 11,?! This aggressive response exposes Black's queen to tactical threats and makes development harder. Better is the more patient 10 ...Qd8.
+21,Bg5,c1g5,1rb1k2r/1p1p1ppp/p1nq3n/3Np1B1/4P3/3Q4/PPP2PPP/R3KB1R b KQk - 8 11,"!! I rarely give this rating to my own moves but this is a very subtle but diabolical move with a hidden sting made possible by Black's inaccurate Q move, which is also very difficult to meet effectively. The immediate threat is the somewhat subtle 12 Nf6+! Ke7 (otherwise the Q is lost) 13 Ng4+ f6 14 QxQ+ KxQ  15 NxN PxN 16 BxP with an easily won game. And the natural looking 11 ...0-0? is now met by Ne7+! winning the Q."
+22,f6,f7f6,1rb1k2r/1p1p2pp/p1nq1p1n/3Np1B1/4P3/3Q4/PPP2PPP/R3KB1R w KQk - 0 12,"?? Wants to drive off the Bishop and probably play 0-0 next move, and is willing to accept Bxh6 doubling and weakening the K side pawns, but misses the primary threat and so loses even more quickly. Black's best move was probably the defensive retreat ...Ng8! and patient defense, although White retains a clear edge."
+23,Nxf6+,d5f6,1rb1k2r/1p1p2pp/p1nq1N1n/4p1B1/4P3/3Q4/PPP2PPP/R3KB1R b KQk - 0 12,! Fairly obvious now but exposing the hidden threat.
+24,Ke7,e8e7,1rb4r/1p1pk1pp/p1nq1N1n/4p1B1/4P3/3Q4/PPP2PPP/R3KB1R w KQ - 1 13,Otherwise the Q is lost.
+25,Ng4+,f6g4,1rb4r/1p1pk1pp/p1nq3n/4p1B1/4P1N1/3Q4/PPP2PPP/R3KB1R b KQ - 2 13,Forces the K to e6 with check if Black wants to defend the exposed Q.
+26,Ke6,e7e6,1rb4r/1p1p2pp/p1nqk2n/4p1B1/4P1N1/3Q4/PPP2PPP/R3KB1R w KQ - 3 14,"And my opponent resigns, since checkmate follows after the forced ...Qd5, 15 QxQ#."
+27,Qc4+,d3c4,1rb4r/1p1p2pp/p1nqk2n/4p1B1/2Q1P1N1/8/PPP2PPP/R3KB1R b KQ - 4 14,"And my opponent resigns, since checkmate follows after the forced ...Qd5, 15 QxQ#."

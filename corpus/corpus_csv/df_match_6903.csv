@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Never before seen this opening, be wary of d5 and early queen development"
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Never before seen this opening, be wary of d5 and early queen development"
+3,c4,c2c4,rnbqkbnr/ppp1pppp/3p4/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"Trying my normal way of positioning. Wary of c6, Nf6, e5, and f6. Don't let queen develop!!"
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 1 3,"Protecting the pawn, watching for Bg4."
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/2P1P3/3P4/PP3PPP/RNBQKBNR b KQkq - 0 3,"Protecting the pawn, watching for Bg4."
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/2P1P3/3P4/PP3PPP/RNBQKBNR w KQkq - 0 4,Setting up his bishop on g7 square is what it seems. Moved h3 to avoid the Bg4 and also for him to release his knight so he cant trap my queen side rook.
+7,h3,h2h3,rnbqkb1r/ppp1pp1p/3p1np1/8/2P1P3/3P3P/PP3PP1/RNBQKBNR b KQkq - 0 4,Setting up his bishop on g7 square is what it seems. Moved h3 to avoid the Bg4 and also for him to release his knight so he cant trap my queen side rook.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/2P1P3/3P3P/PP3PP1/RNBQKBNR w KQkq - 1 5,Nc3 to avoid the queen side rook trap. Wary of Nc6 or pawn development
+9,Nc3,b1c3,rnbqk2r/ppp1ppbp/3p1np1/8/2P1P3/2NP3P/PP3PP1/R1BQKBNR b KQkq - 2 5,Nc3 to avoid the queen side rook trap. Wary of Nc6 or pawn development
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2P1P3/2NP3P/PP3PP1/R1BQKBNR w KQ - 3 6,"Early castle, bring out material pieces, develop queen and black side bishop...."
+11,Nf3,g1f3,rnbq1rk1/ppp1ppbp/3p1np1/8/2P1P3/2NP1N1P/PP3PP1/R1BQKB1R b KQ - 4 6,"Early castle, bring out material pieces, develop queen and black side bishop...."
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/2P1P3/2NP1N1P/PP3PP1/R1BQKB1R w KQ - 0 7,Draw out his knight to play better position for my white square bishop. also opening up his defense
+13,Nd5,c3d5,rnbq1rk1/pp2ppbp/3p1np1/2pN4/2P1P3/3P1N1P/PP3PP1/R1BQKB1R b KQ - 1 7,Draw out his knight to play better position for my white square bishop. also opening up his defense
+14,Nxd5,f6d5,rnbq1rk1/pp2ppbp/3p2p1/2pn4/2P1P3/3P1N1P/PP3PP1/R1BQKB1R w KQ - 0 8,"Taking the knight with queen side pawn to avoid opening my king side too much. Possilbe Bd4, or e5"
+15,cxd5,c4d5,rnbq1rk1/pp2ppbp/3p2p1/2pP4/4P3/3P1N1P/PP3PP1/R1BQKB1R b KQ - 0 8,"Taking the knight with queen side pawn to avoid opening my king side too much. Possilbe Bd4, or e5"
+16,e6,e7e6,rnbq1rk1/pp3pbp/3pp1p1/2pP4/4P3/3P1N1P/PP3PP1/R1BQKB1R w KQ - 0 9,"Force the queen from hiding, hoping for black to move f6 therefore removes bishop from play"
+17,Bg5,c1g5,rnbq1rk1/pp3pbp/3pp1p1/2pP2B1/4P3/3P1N1P/PP3PP1/R2QKB1R b KQ - 1 9,"Force the queen from hiding, hoping for black to move f6 therefore removes bishop from play"
+18,Qb6,d8b6,rnb2rk1/pp3pbp/1q1pp1p1/2pP2B1/4P3/3P1N1P/PP3PP1/R2QKB1R w KQ - 2 10,Missed the Queen on this move. Moving the rook was seemingly the best move. If the bishop takes the pawn then the queen is in trouble.
+19,Rb1,a1b1,rnb2rk1/pp3pbp/1q1pp1p1/2pP2B1/4P3/3P1N1P/PP3PP1/1R1QKB1R b K - 3 10,Missed the Queen on this move. Moving the rook was seemingly the best move. If the bishop takes the pawn then the queen is in trouble.
+20,exd5,e6d5,rnb2rk1/pp3pbp/1q1p2p1/2pp2B1/4P3/3P1N1P/PP3PP1/1R1QKB1R w K - 0 11,"See no gain, pawn is protected and opened up possible queen side rook. Castle soon"
+21,exd5,e4d5,rnb2rk1/pp3pbp/1q1p2p1/2pP2B1/8/3P1N1P/PP3PP1/1R1QKB1R b K - 0 11,"See no gain, pawn is protected and opened up possible queen side rook. Castle soon"
+22,Qa5+,b6a5,rnb2rk1/pp3pbp/3p2p1/q1pP2B1/8/3P1N1P/PP3PP1/1R1QKB1R w K - 1 12,"See no gain, pawn is protected and opened up possible queen side rook. Castle soon"
+23,Nd2,f3d2,rnb2rk1/pp3pbp/3p2p1/q1pP2B1/8/3P3P/PP1N1PP1/1R1QKB1R b K - 2 12,"See no gain, pawn is protected and opened up possible queen side rook. Castle soon"
+24,Bf5,c8f5,rn3rk1/pp3pbp/3p2p1/q1pP1bB1/8/3P3P/PP1N1PP1/1R1QKB1R w K - 3 13,"See no gain, pawn is protected and opened up possible queen side rook. Castle soon"
+25,a3,a2a3,rn3rk1/pp3pbp/3p2p1/q1pP1bB1/8/P2P3P/1P1N1PP1/1R1QKB1R b K - 0 13,Protecting from lost pawn
+26,Re8+,f8e8,rn2r1k1/pp3pbp/3p2p1/q1pP1bB1/8/P2P3P/1P1N1PP1/1R1QKB1R w K - 1 14,Moved black bishop because that was the best move. Seemingly moving white square bishop would allow Bd3 and force to move my rook. Need to castle!!
+27,Be3,g5e3,rn2r1k1/pp3pbp/3p2p1/q1pP1b2/8/P2PB2P/1P1N1PP1/1R1QKB1R b K - 2 14,Moved black bishop because that was the best move. Seemingly moving white square bishop would allow Bd3 and force to move my rook. Need to castle!!
+28,Bh6,g7h6,rn2r1k1/pp3p1p/3p2pb/q1pP1b2/8/P2PB2P/1P1N1PP1/1R1QKB1R w K - 3 15,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+29,Be2,f1e2,rn2r1k1/pp3p1p/3p2pb/q1pP1b2/8/P2PB2P/1P1NBPP1/1R1QK2R b K - 4 15,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+30,Bxe3,h6e3,rn2r1k1/pp3p1p/3p2p1/q1pP1b2/8/P2Pb2P/1P1NBPP1/1R1QK2R w K - 0 16,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+31,fxe3,f2e3,rn2r1k1/pp3p1p/3p2p1/q1pP1b2/8/P2PP2P/1P1NB1P1/1R1QK2R b K - 0 16,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+32,Rxe3,e8e3,rn4k1/pp3p1p/3p2p1/q1pP1b2/8/P2Pr2P/1P1NB1P1/1R1QK2R w K - 0 17,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+33,O-O,e1g1,rn4k1/pp3p1p/3p2p1/q1pP1b2/8/P2Pr2P/1P1NB1P1/1R1Q1RK1 b - - 1 17,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+34,Bxd3,f5d3,rn4k1/pp3p1p/3p2p1/q1pP4/8/P2br2P/1P1NB1P1/1R1Q1RK1 w - - 0 18,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+35,Bxd3,e2d3,rn4k1/pp3p1p/3p2p1/q1pP4/8/P2Br2P/1P1N2P1/1R1Q1RK1 b - - 0 18,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+36,Rxd3,e3d3,rn4k1/pp3p1p/3p2p1/q1pP4/8/P2r3P/1P1N2P1/1R1Q1RK1 w - - 0 19,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+37,Rf2,f1f2,rn4k1/pp3p1p/3p2p1/q1pP4/8/P2r3P/1P1N1RP1/1R1Q2K1 b - - 1 19,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+38,Nd7,b8d7,r5k1/pp1n1p1p/3p2p1/q1pP4/8/P2r3P/1P1N1RP1/1R1Q2K1 w - - 2 20,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+39,b4,b2b4,r5k1/pp1n1p1p/3p2p1/q1pP4/1P6/P2r3P/3N1RP1/1R1Q2K1 b - - 0 20,Taking his queen out of action. Most likely Qa3. Then I will play Rb3
+40,Qxa3,a5a3,r5k1/pp1n1p1p/3p2p1/2pP4/1P6/q2r3P/3N1RP1/1R1Q2K1 w - - 0 21,Forces him to sac his queen or his rook. Protected in all sides
+41,Rb3,b1b3,r5k1/pp1n1p1p/3p2p1/2pP4/1P6/qR1r3P/3N1RP1/3Q2K1 b - - 1 21,Forces him to sac his queen or his rook. Protected in all sides
+42,Rxb3,d3b3,r5k1/pp1n1p1p/3p2p1/2pP4/1P6/qr5P/3N1RP1/3Q2K1 w - - 0 22,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+43,Nxb3,d2b3,r5k1/pp1n1p1p/3p2p1/2pP4/1P6/qN5P/5RP1/3Q2K1 b - - 0 22,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+44,Qxb4,a3b4,r5k1/pp1n1p1p/3p2p1/2pP4/1q6/1N5P/5RP1/3Q2K1 w - - 0 23,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+45,Nc1,b3c1,r5k1/pp1n1p1p/3p2p1/2pP4/1q6/7P/5RP1/2NQ2K1 b - - 1 23,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+46,Ne5,d7e5,r5k1/pp3p1p/3p2p1/2pPn3/1q6/7P/5RP1/2NQ2K1 w - - 2 24,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+47,Nd3,c1d3,r5k1/pp3p1p/3p2p1/2pPn3/1q6/3N3P/5RP1/3Q2K1 b - - 3 24,"Pawnless.... However, tactics will still pull through. If he does not accept the sac I will force it. Though he should seeing as its a fork. then play Qxd3 and protect my pawns"
+48,Qd4,b4d4,r5k1/pp3p1p/3p2p1/2pPn3/3q4/3N3P/5RP1/3Q2K1 w - - 4 25,"Nice move, didnt catch that"
+49,Nb2,d3b2,r5k1/pp3p1p/3p2p1/2pPn3/3q4/7P/1N3RP1/3Q2K1 b - - 5 25,"Only logically move I see, my game is in a spiral toward the ground"
+50,Qxd1+,d4d1,r5k1/pp3p1p/3p2p1/2pPn3/8/7P/1N3RP1/3q2K1 w - - 0 26,b4 then Nb5?
+51,Nxd1,b2d1,r5k1/pp3p1p/3p2p1/2pPn3/8/7P/5RP1/3N2K1 b - - 0 26,b4 then Nb5?
+52,b5,b7b5,r5k1/p4p1p/3p2p1/1ppPn3/8/7P/5RP1/3N2K1 w - - 0 27,b4 then Nb5?
+53,Nc3,d1c3,r5k1/p4p1p/3p2p1/1ppPn3/8/2N4P/5RP1/6K1 b - - 1 27,b4 then Nb5?
+54,a6,a7a6,r5k1/5p1p/p2p2p1/1ppPn3/8/2N4P/5RP1/6K1 w - - 0 28,moved here so he could not progress his pawn unless wanting to kill his knight. Possible f5 move
+55,Ne4,c3e4,r5k1/5p1p/p2p2p1/1ppPn3/4N3/7P/5RP1/6K1 b - - 1 28,moved here so he could not progress his pawn unless wanting to kill his knight. Possible f5 move
+56,Nc4,e5c4,r5k1/5p1p/p2p2p1/1ppP4/2n1N3/7P/5RP1/6K1 w - - 2 29,moved here so he could not progress his pawn unless wanting to kill his knight. Possible f5 move
+57,Rc2,f2c2,r5k1/5p1p/p2p2p1/1ppP4/2n1N3/7P/2R3P1/6K1 b - - 3 29,moved here so he could not progress his pawn unless wanting to kill his knight. Possible f5 move

@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Most people love 1.e4, because it gives great start for white; it opens 2 lines for the queen and bishop, and it controls a part of the center."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black does the same..
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"Known as Napoleon's Opening. Mostly used together with a Bc4-placement, aiming to checkmate black on f7, with Qf7#."
+4,Be7,f8e7,rnbqk1nr/ppppbppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"I wanted to play Philidor's Defence, with the next moves: Nf6 and 0-0. But I'm not so sure if that was the best defence against Qf3. First Nf6 would've been better."
+5,Bc4,f1c4,rnbqk1nr/ppppbppp/8/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,"There is white's attack. Now it's important for black to play Nf6, or at least f6."
+6,Nf6,g8f6,rnbqk2r/ppppbppp/5n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,"Develops a piece, and now black is ready to castle."
+7,d3,d2d3,rnbqk2r/ppppbppp/5n2/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 4,"Defending e4, and opens a diagonal for white's good bishop."
+8,c6,c7c6,rnbqk2r/pp1pbppp/2p2n2/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 0 5,My idea was to play 5. ... d5.
+9,Qg3,f3g3,rnbqk2r/pp1pbppp/2p2n2/4p3/2B1P3/3P2Q1/PPP2PPP/RNB1K1NR b KQkq - 1 5,A nice move from id=chatswood ! He attacks both black's e- and g-pawn !
+10,O-O,e8g8,rnbq1rk1/pp1pbppp/2p2n2/4p3/2B1P3/3P2Q1/PPP2PPP/RNB1K1NR w KQ - 2 6,"In my opinion the best move for black. He gives away a centre-pawn, but beholds his kingside-fortress !"
+11,Qxe5,g3e5,rnbq1rk1/pp1pbppp/2p2n2/4Q3/2B1P3/3P4/PPP2PPP/RNB1K1NR b KQ - 0 6,Capturing that lonely pawn; why not ?
+12,d5,d7d5,rnbq1rk1/pp2bppp/2p2n2/3pQ3/2B1P3/3P4/PPP2PPP/RNB1K1NR w KQ - 0 7,"As continuation, 7. Bb3 dxe4 8. dxe4 wouldn't be that bad for white.."
+13,exd5,e4d5,rnbq1rk1/pp2bppp/2p2n2/3PQ3/2B5/3P4/PPP2PPP/RNB1K1NR b KQ - 0 7,"Accepting my d-pawn. That wasn't good, IMO. Black attacks d5 with 3 pieces (c-pawn, f-knight and the queen). White only covers it by 2 pieces (c4-bishop and the queen)."
+14,cxd5,c6d5,rnbq1rk1/pp2bppp/5n2/3pQ3/2B5/3P4/PPP2PPP/RNB1K1NR w KQ - 0 8,"A pawn for a pawn.. Black now has a single pawn, wich is hard to defend (later on the game). But in this case, it's an attack towards white's bishop and taking over the initiative. White has to retreat now.."
+15,Bb3,c4b3,rnbq1rk1/pp2bppp/5n2/3pQ3/8/1B1P4/PPP2PPP/RNB1K1NR b KQ - 1 8,It's hardly to believe how less pieces are developed ! Both queensides haven't moved yet !
+16,Re8,f8e8,rnbqr1k1/pp2bppp/5n2/3pQ3/8/1B1P4/PPP2PPP/RNB1K1NR w KQ - 2 9,"Placing a rook on the same line as your opponent's queen-king-line, isn't a bad idea !"
+17,Qg5,e5g5,rnbqr1k1/pp2bppp/5n2/3p2Q1/8/1B1P4/PPP2PPP/RNB1K1NR b KQ - 3 9,"Waw ! I saw a mate in 2 coming, thanks to that rook on my e-file. White's purpose was to place his queen in safety. A check could be defended by 10. Be3, but a double-check is more then white can handle !"
+18,Bb4+,e7b4,rnbqr1k1/pp3ppp/5n2/3p2Q1/1b6/1B1P4/PPP2PPP/RNB1K1NR w KQ - 4 10,"The only safe squares for black are d1 and f1, but they both give mate on black's next move (10. Kd1 Re1# and 10. Kf1 Re1#)."
+19,Kd1,e1d1,rnbqr1k1/pp3ppp/5n2/3p2Q1/1b6/1B1P4/PPP2PPP/RNBK2NR b - - 5 10,"White can do nothing more then watching how he's getting slaughtered. Though white had a nice attack in the opening. But a good opening-advice is: develop minor pieces (knights & bishops), BEFORE your major pieces (rooks & queen)."
+20,Re1#,e8e1,rnbq2k1/pp3ppp/5n2/3p2Q1/1b6/1B1P4/PPP2PPP/RNBKr1NR w - - 6 11,Checkmate ! I annotated this game because it's a nice example of the basic opening principles. Thanks to id=chatswood for this game and to all of you for voting / giving comments ! Geert.

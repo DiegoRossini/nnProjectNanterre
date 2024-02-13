@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,We start off with a Dutch...
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,We start off with a Dutch...
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"...this move wasn't in the GK opening database. Main line was 2 c4, with some alternatives and this was not one of them. I responded with..."
+4,d5,d7d5,rnbqkbnr/ppp1p1pp/8/3p1p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"3 Qd3. There are times when bringing the queen out early is good, and the DS decided this was one of them."
+5,Qd3,d1d3,rnbqkbnr/ppp1p1pp/8/3p1p2/3P4/3Q1N2/PPP1PPPP/RNB1KB1R b KQkq - 1 3,"3 Qd3. There are times when bringing the queen out early is good, and the DS decided this was one of them."
+6,Nc6,b8c6,r1bqkbnr/ppp1p1pp/2n5/3p1p2/3P4/3Q1N2/PPP1PPPP/RNB1KB1R w KQkq - 2 4,Threat of 4 ... Nb4 scaring the queen.
+7,Ne5,f3e5,r1bqkbnr/ppp1p1pp/2n5/3pNp2/3P4/3Q4/PPP1PPPP/RNB1KB1R b KQkq - 3 4,"If black takes, 4 ... Nxe5 5 Nxe5, so..."
+8,Nb4,c6b4,r1bqkbnr/ppp1p1pp/8/3pNp2/1n1P4/3Q4/PPP1PPPP/RNB1KB1R w KQkq - 4 5,"...I went to b4 anyway, and queen moved to..."
+9,Qb5+,d3b5,r1bqkbnr/ppp1p1pp/8/1Q1pNp2/1n1P4/8/PPP1PPPP/RNB1KB1R b KQkq - 5 5,...b5! Next series of moves would drive queen away.
+10,c6,c7c6,r1bqkbnr/pp2p1pp/2p5/1Q1pNp2/1n1P4/8/PPP1PPPP/RNB1KB1R w KQkq - 0 6,"...and I have traded my DSB, a knight, and castling rights for white's queen."
+11,Qxb4,b5b4,r1bqkbnr/pp2p1pp/2p5/3pNp2/1Q1P4/8/PPP1PPPP/RNB1KB1R b KQkq - 0 6,"...and I have traded my DSB, a knight, and castling rights for white's queen."
+12,e6,e7e6,r1bqkbnr/pp4pp/2p1p3/3pNp2/1Q1P4/8/PPP1PPPP/RNB1KB1R w KQkq - 0 7,"...and I have traded my DSB, a knight, and castling rights for white's queen."
+13,Qxf8+,b4f8,r1bqkQnr/pp4pp/2p1p3/3pNp2/3P4/8/PPP1PPPP/RNB1KB1R b KQkq - 0 7,"...and I have traded my DSB, a knight, and castling rights for white's queen."
+14,Kxf8,e8f8,r1bq1knr/pp4pp/2p1p3/3pNp2/3P4/8/PPP1PPPP/RNB1KB1R w KQ - 0 8,"...and I have traded my DSB, a knight, and castling rights for white's queen."
+15,Bd2,c1d2,r1bq1knr/pp4pp/2p1p3/3pNp2/3P4/8/PPPBPPPP/RN2KB1R b KQ - 1 8,"Discovered check, winning the b pawn..."
+16,c5,c6c5,r1bq1knr/pp4pp/4p3/2ppNp2/3P4/8/PPPBPPPP/RN2KB1R w KQ - 0 9,"Discovered check, winning the b pawn..."
+17,dxc5,d4c5,r1bq1knr/pp4pp/4p3/2PpNp2/8/8/PPPBPPPP/RN2KB1R b KQ - 0 9,"Discovered check, winning the b pawn..."
+18,d4,d5d4,r1bq1knr/pp4pp/4p3/2P1Np2/3p4/8/PPPBPPPP/RN2KB1R w KQ - 0 10,"Discovered check, winning the b pawn..."
+19,Bb4,d2b4,r1bq1knr/pp4pp/4p3/2P1Np2/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 1 10,"Discovered check, winning the b pawn..."
+20,Nf6,g8f6,r1bq1k1r/pp4pp/4pn2/2P1Np2/1B1p4/8/PPP1PPPP/RN2KB1R w KQ - 2 11,"Discovered check, winning the b pawn..."
+21,c6+,c5c6,r1bq1k1r/pp4pp/2P1pn2/4Np2/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 0 11,"Discovered check, winning the b pawn..."
+22,Kg8,f8g8,r1bq2kr/pp4pp/2P1pn2/4Np2/1B1p4/8/PPP1PPPP/RN2KB1R w KQ - 1 12,"...which I retake with my LSB, connecting queen and rook which could be of use later."
+23,cxb7,c6b7,r1bq2kr/pP4pp/4pn2/4Np2/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 0 12,"...which I retake with my LSB, connecting queen and rook which could be of use later."
+24,Bxb7,c8b7,r2q2kr/pb4pp/4pn2/4Np2/1B1p4/8/PPP1PPPP/RN2KB1R w KQ - 0 13,"...which I retake with my LSB, connecting queen and rook which could be of use later."
+25,Nf3,e5f3,r2q2kr/pb4pp/4pn2/5p2/1B1p4/5N2/PPP1PPPP/RN2KB1R b KQ - 1 13,Aiming at g5.
+26,h5,h7h5,r2q2kr/pb4p1/4pn2/5p1p/1B1p4/5N2/PPP1PPPP/RN2KB1R w KQ - 0 14,13 ... h6 might have been preferred here.
+27,Ng5,f3g5,r2q2kr/pb4p1/4pn2/5pNp/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 1 14,Aiming for white's DSB...
+28,a5,a7a5,r2q2kr/1b4p1/4pn2/p4pNp/1B1p4/8/PPP1PPPP/RN2KB1R w KQ - 0 15,Aiming for white's DSB...
+29,Nxe6,g5e6,r2q2kr/1b4p1/4Nn2/p4p1p/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 0 15,"...and white has a similar idea, going after my queen."
+30,Qd5,d8d5,r5kr/1b4p1/4Nn2/p2q1p1p/1B1p4/8/PPP1PPPP/RN2KB1R w KQ - 1 16,"I move the queen out of harm's way, centralizing her at the same time."
+31,Nf8,e6f8,r4Nkr/1b4p1/5n2/p2q1p1p/1B1p4/8/PPP1PPPP/RN2KB1R b KQ - 2 16,Now I take the bishop.
+32,axb4,a5b4,r4Nkr/1b4p1/5n2/3q1p1p/1p1p4/8/PPP1PPPP/RN2KB1R w KQ - 0 17,Now I take the bishop.
+33,Ng6,f8g6,r5kr/1b4p1/5nN1/3q1p1p/1p1p4/8/PPP1PPPP/RN2KB1R b KQ - 1 17,I give up the queen to connect rooks. White's rooks weren't active at all (they haven't even moved once!) but mine become very active.
+34,d3,d4d3,r5kr/1b4p1/5nN1/3q1p1p/1p6/3p4/PPP1PPPP/RN2KB1R w KQ - 0 18,I give up the queen to connect rooks. White's rooks weren't active at all (they haven't even moved once!) but mine become very active.
+35,Ne7+,g6e7,r5kr/1b2N1p1/5n2/3q1p1p/1p6/3p4/PPP1PPPP/RN2KB1R b KQ - 1 18,I give up the queen to connect rooks. White's rooks weren't active at all (they haven't even moved once!) but mine become very active.
+36,Kh7,g8h7,r6r/1b2N1pk/5n2/3q1p1p/1p6/3p4/PPP1PPPP/RN2KB1R w KQ - 2 19,I give up the queen to connect rooks. White's rooks weren't active at all (they haven't even moved once!) but mine become very active.
+37,Nxd5,e7d5,r6r/1b4pk/5n2/3N1p1p/1p6/3p4/PPP1PPPP/RN2KB1R b KQ - 0 19,I give up the queen to connect rooks. White's rooks weren't active at all (they haven't even moved once!) but mine become very active.
+38,Bxd5,b7d5,r6r/6pk/5n2/3b1p1p/1p6/3p4/PPP1PPPP/RN2KB1R w KQ - 0 20,First I take that knight out of the picture.
+39,c4,c2c4,r6r/6pk/5n2/3b1p1p/1pP5/3p4/PP2PPPP/RN2KB1R b KQ c3 0 20,Why not go all the way back to a6?
+40,Bxc4,d5c4,r6r/6pk/5n2/5p1p/1pb5/3p4/PP2PPPP/RN2KB1R w KQ - 0 21,Why not go all the way back to a6?
+41,Na3,b1a3,r6r/6pk/5n2/5p1p/1pb5/N2p4/PP2PPPP/R3KB1R b KQ - 1 21,Why not go all the way back to a6?
+42,Ba6,c4a6,r6r/6pk/b4n2/5p1p/1p6/N2p4/PP2PPPP/R3KB1R w KQ - 2 22,Why not go all the way back to a6?
+43,Nc4,a3c4,r6r/6pk/b4n2/5p1p/1pN5/3p4/PP2PPPP/R3KB1R b KQ - 3 22,"While white is eying the c file, I am focused on doubling my rooks on the e file."
+44,Bxc4,a6c4,r6r/6pk/5n2/5p1p/1pb5/3p4/PP2PPPP/R3KB1R w KQ - 0 23,"While white is eying the c file, I am focused on doubling my rooks on the e file."
+45,Rc1,a1c1,r6r/6pk/5n2/5p1p/1pb5/3p4/PP2PPPP/2R1KB1R b K - 1 23,"While white is eying the c file, I am focused on doubling my rooks on the e file."
+46,Rhe8,h8e8,r3r3/6pk/5n2/5p1p/1pb5/3p4/PP2PPPP/2R1KB1R w K - 2 24,"While white is eying the c file, I am focused on doubling my rooks on the e file."

@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is my first annotation so excuse the errors, standard king pawn opening"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,standard king pawn reply
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,attack king pawn
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,knight defends king pawn and attacks d4
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,I am trying to open up a queen pawn attack here
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,mirror move
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"I decide to mix it up, in hindsight a mistake"
+8,Nd4,c6d4,r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,attacks the knight defended by the pawn
+9,Ba4,b5a4,r1bqkb1r/pppp1ppp/5n2/4p3/B2nP3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 7 5,I should have taken the knight here but was unhappy with the pawn attacking my knight
+10,Bc5,f8c5,r1bqk2r/pppp1ppp/5n2/2b1p3/B2nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 8 6,sensible knight attack for good position
+11,Nxe5,f3e5,r1bqk2r/pppp1ppp/5n2/2b1N3/B2nP3/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 6,decided to take the pawn
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/5n2/2b1N3/B2nP3/2N5/PPPP1PPP/R1BQK2R w KQ - 1 7,I should be castling here
+13,Nd3,e5d3,r1bq1rk1/pppp1ppp/5n2/2b5/B2nP3/2NN4/PPPP1PPP/R1BQK2R b KQ - 2 7,I should be castling here
+14,Bb6,c5b6,r1bq1rk1/pppp1ppp/1b3n2/8/B2nP3/2NN4/PPPP1PPP/R1BQK2R w KQ - 3 8,I should be castling here
+15,Nd5,c3d5,r1bq1rk1/pppp1ppp/1b3n2/3N4/B2nP3/3N4/PPPP1PPP/R1BQK2R b KQ - 4 8,but I go on the attack
+16,Nxd5,f6d5,r1bq1rk1/pppp1ppp/1b6/3n4/B2nP3/3N4/PPPP1PPP/R1BQK2R w KQ - 0 9,good move as it opens up the attack on the king
+17,exd5,e4d5,r1bq1rk1/pppp1ppp/1b6/3P4/B2n4/3N4/PPPP1PPP/R1BQK2R b KQ - 0 9,not happy to give up the queen so try to get out of it
+18,Re8+,f8e8,r1bqr1k1/pppp1ppp/1b6/3P4/B2n4/3N4/PPPP1PPP/R1BQK2R w KQ - 1 10,not happy to give up the queen so try to get out of it
+19,Kf1,e1f1,r1bqr1k1/pppp1ppp/1b6/3P4/B2n4/3N4/PPPP1PPP/R1BQ1K1R b - - 2 10,attacking move by the queen
+20,Qh4,d8h4,r1b1r1k1/pppp1ppp/1b6/3P4/B2n3q/3N4/PPPP1PPP/R1BQ1K1R w - - 3 11,attacking move by the queen
+21,f3,f2f3,r1b1r1k1/pppp1ppp/1b6/3P4/B2n3q/3N1P2/PPPP2PP/R1BQ1K1R b - - 0 11,not sure why I did this blind panic I think
+22,Nf5,d4f5,r1b1r1k1/pppp1ppp/1b6/3P1n2/B6q/3N1P2/PPPP2PP/R1BQ1K1R w - - 1 12,mate in sight
+23,Nc5,d3c5,r1b1r1k1/pppp1ppp/1b6/2NP1n2/B6q/5P2/PPPP2PP/R1BQ1K1R b - - 2 12,desperate defence but I know I have lost
+24,Ng3+,f5g3,r1b1r1k1/pppp1ppp/1b6/2NP4/B6q/5Pn1/PPPP2PP/R1BQ1K1R w - - 3 13,short and brutal
+25,Kg1,f1g1,r1b1r1k1/pppp1ppp/1b6/2NP4/B6q/5Pn1/PPPP2PP/R1BQ2KR b - - 4 13,short and brutal
+26,Qd4#,h4d4,r1b1r1k1/pppp1ppp/1b6/2NP4/B2q4/5Pn1/PPPP2PP/R1BQ2KR w - - 5 14,short and brutal

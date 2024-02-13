@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Odd opening.  This will be taken advantage of.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Odd opening.  This will be taken advantage of.
+3,c4,c2c4,rnbqkbnr/pp1ppppp/8/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Odd opening.  This will be taken advantage of.
+4,g6,g7g6,rnbqkbnr/pp1ppp1p/6p1/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 0 3,Odd opening.  This will be taken advantage of.
+5,f4,f2f4,rnbqkbnr/pp1ppp1p/6p1/2p5/2P1PP2/8/PP1P2PP/RNBQKBNR b KQkq - 0 3,Odd opening.  This will be taken advantage of.
+6,d6,d7d6,rnbqkbnr/pp2pp1p/3p2p1/2p5/2P1PP2/8/PP1P2PP/RNBQKBNR w KQkq - 0 4,Bad move by White.  Loses a pawn on the sixth move.
+7,d3,d2d3,rnbqkbnr/pp2pp1p/3p2p1/2p5/2P1PP2/3P4/PP4PP/RNBQKBNR b KQkq - 0 4,Bad move by White.  Loses a pawn on the sixth move.
+8,Bg7,f8g7,rnbqk1nr/pp2ppbp/3p2p1/2p5/2P1PP2/3P4/PP4PP/RNBQKBNR w KQkq - 1 5,Bad move by White.  Loses a pawn on the sixth move.
+9,h3,h2h3,rnbqk1nr/pp2ppbp/3p2p1/2p5/2P1PP2/3P3P/PP4P1/RNBQKBNR b KQkq - 0 5,Bad move by White.  Loses a pawn on the sixth move.
+10,e5,e7e5,rnbqk1nr/pp3pbp/3p2p1/2p1p3/2P1PP2/3P3P/PP4P1/RNBQKBNR w KQkq - 0 6,Bad move by White.  Loses a pawn on the sixth move.
+11,Qd2,d1d2,rnbqk1nr/pp3pbp/3p2p1/2p1p3/2P1PP2/3P3P/PP1Q2P1/RNB1KBNR b KQkq - 1 6,Bad move by White.  Loses a pawn on the sixth move.
+12,exf4,e5f4,rnbqk1nr/pp3pbp/3p2p1/2p5/2P1Pp2/3P3P/PP1Q2P1/RNB1KBNR w KQkq - 0 7,"White got greedy, and now has to lose material."
+13,Qxf4,d2f4,rnbqk1nr/pp3pbp/3p2p1/2p5/2P1PQ2/3P3P/PP4P1/RNB1KBNR b KQkq - 0 7,"White got greedy, and now has to lose material."
+14,Bh6,g7h6,rnbqk1nr/pp3p1p/3p2pb/2p5/2P1PQ2/3P3P/PP4P1/RNB1KBNR w KQkq - 1 8,"White got greedy, and now has to lose material."
+15,Qf2,f4f2,rnbqk1nr/pp3p1p/3p2pb/2p5/2P1P3/3P3P/PP3QP1/RNB1KBNR b KQkq - 2 8,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+16,Bxc1,h6c1,rnbqk1nr/pp3p1p/3p2p1/2p5/2P1P3/3P3P/PP3QP1/RNb1KBNR w KQkq - 0 9,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+17,Qc2,f2c2,rnbqk1nr/pp3p1p/3p2p1/2p5/2P1P3/3P3P/PPQ3P1/RNb1KBNR b KQkq - 1 9,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+18,Qh4+,d8h4,rnb1k1nr/pp3p1p/3p2p1/2p5/2P1P2q/3P3P/PPQ3P1/RNb1KBNR w KQkq - 2 10,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+19,Ke2,e1e2,rnb1k1nr/pp3p1p/3p2p1/2p5/2P1P2q/3P3P/PPQ1K1P1/RNb2BNR b kq - 3 10,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+20,Bg4+,c8g4,rn2k1nr/pp3p1p/3p2p1/2p5/2P1P1bq/3P3P/PPQ1K1P1/RNb2BNR w kq - 4 11,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+21,Nf3,g1f3,rn2k1nr/pp3p1p/3p2p1/2p5/2P1P1bq/3P1N1P/PPQ1K1P1/RNb2B1R b kq - 5 11,"His Bishop is hemmed in, his Knight is pinned, and his King is vulnerable.  Not good for White."
+22,Bf4,c1f4,rn2k1nr/pp3p1p/3p2p1/2p5/2P1Pbbq/3P1N1P/PPQ1K1P1/RN3B1R w kq - 6 12,Forcing the King to retreat.  Now we can get things going.
+23,Nbd2,b1d2,rn2k1nr/pp3p1p/3p2p1/2p5/2P1Pbbq/3P1N1P/PPQNK1P1/R4B1R b kq - 7 12,Forcing the King to retreat.  Now we can get things going.
+24,Nc6,b8c6,r3k1nr/pp3p1p/2np2p1/2p5/2P1Pbbq/3P1N1P/PPQNK1P1/R4B1R w kq - 8 13,Forcing the King to retreat.  Now we can get things going.
+25,Kd1,e2d1,r3k1nr/pp3p1p/2np2p1/2p5/2P1Pbbq/3P1N1P/PPQN2P1/R2K1B1R b kq - 9 13,Attacking the middle.
+26,O-O-O,e8c8,2kr2nr/pp3p1p/2np2p1/2p5/2P1Pbbq/3P1N1P/PPQN2P1/R2K1B1R w - - 10 14,Attacking the middle.
+27,Be2,f1e2,2kr2nr/pp3p1p/2np2p1/2p5/2P1Pbbq/3P1N1P/PPQNB1P1/R2K3R b - - 11 14,Attacking the middle.
+28,Bxf3,g4f3,2kr2nr/pp3p1p/2np2p1/2p5/2P1Pb1q/3P1b1P/PPQNB1P1/R2K3R w - - 0 15,Attacking the middle.
+29,Bxf3,e2f3,2kr2nr/pp3p1p/2np2p1/2p5/2P1Pb1q/3P1B1P/PPQN2P1/R2K3R b - - 0 15,Attacking the middle.
+30,Nd4,c6d4,2kr2nr/pp3p1p/3p2p1/2p5/2PnPb1q/3P1B1P/PPQN2P1/R2K3R w - - 1 16,Attacking the middle.
+31,Qc3,c2c3,2kr2nr/pp3p1p/3p2p1/2p5/2PnPb1q/2QP1B1P/PP1N2P1/R2K3R b - - 2 16,Attacking the middle.
+32,f5,f7f5,2kr2nr/pp5p/3p2p1/2p2p2/2PnPb1q/2QP1B1P/PP1N2P1/R2K3R w - - 0 17,Attacking the middle.
+33,b4,b2b4,2kr2nr/pp5p/3p2p1/2p2p2/1PPnPb1q/2QP1B1P/P2N2P1/R2K3R b - - 0 17,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+34,Nf6,g8f6,2kr3r/pp5p/3p1np1/2p2p2/1PPnPb1q/2QP1B1P/P2N2P1/R2K3R w - - 1 18,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+35,Nb3,d2b3,2kr3r/pp5p/3p1np1/2p2p2/1PPnPb1q/1NQP1B1P/P5P1/R2K3R b - - 2 18,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+36,Nxf3,d4f3,2kr3r/pp5p/3p1np1/2p2p2/1PP1Pb1q/1NQP1n1P/P5P1/R2K3R w - - 0 19,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+37,gxf3,g2f3,2kr3r/pp5p/3p1np1/2p2p2/1PP1Pb1q/1NQP1P1P/P7/R2K3R b - - 0 19,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+38,Be5,f4e5,2kr3r/pp5p/3p1np1/2p1bp2/1PP1P2q/1NQP1P1P/P7/R2K3R w - - 1 20,"Going after bigger steaks.  Not a strip steak, not a T-bone, but a Porterhouse, nice and juicy."
+39,d4,d3d4,2kr3r/pp5p/3p1np1/2p1bp2/1PPPP2q/1NQ2P1P/P7/R2K3R b - - 0 20,The final push.
+40,cxd4,c5d4,2kr3r/pp5p/3p1np1/4bp2/1PPpP2q/1NQ2P1P/P7/R2K3R w - - 0 21,The final push.
+41,Qd3,c3d3,2kr3r/pp5p/3p1np1/4bp2/1PPpP2q/1N1Q1P1P/P7/R2K3R b - - 1 21,The final push.
+42,fxe4,f5e4,2kr3r/pp5p/3p1np1/4b3/1PPpp2q/1N1Q1P1P/P7/R2K3R w - - 0 22,The final push.
+43,fxe4,f3e4,2kr3r/pp5p/3p1np1/4b3/1PPpP2q/1N1Q3P/P7/R2K3R b - - 0 22,"He doesn't want a triple fork.  I'm probably going to need one of those for my Porterhouse steak, perhaps he can lend it to me?"
+44,Nxe4,f6e4,2kr3r/pp5p/3p2p1/4b3/1PPpn2q/1N1Q3P/P7/R2K3R w - - 0 23,"He doesn't want a triple fork.  I'm probably going to need one of those for my Porterhouse steak, perhaps he can lend it to me?"
+45,Kc2,d1c2,2kr3r/pp5p/3p2p1/4b3/1PPpn2q/1N1Q3P/P1K5/R6R b - - 1 23,Where to move the Queen?  There are no good spots.
+46,Nf2,e4f2,2kr3r/pp5p/3p2p1/4b3/1PPp3q/1N1Q3P/P1K2n2/R6R w - - 2 24,Where to move the Queen?  There are no good spots.
+47,Qd2,d3d2,2kr3r/pp5p/3p2p1/4b3/1PPp3q/1N5P/P1KQ1n2/R6R b - - 3 24,White Resigns. If Kc1 Bf4 wins the Queen.  If Kb1 White loses both rooks.
+48,d3+,d4d3,2kr3r/pp5p/3p2p1/4b3/1PP4q/1N1p3P/P1KQ1n2/R6R w - - 0 25,White Resigns. If Kc1 Bf4 wins the Queen.  If Kb1 White loses both rooks.

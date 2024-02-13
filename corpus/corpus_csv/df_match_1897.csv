@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+8,Nd7,b8d7,r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+9,Nf3,g1f3,r1bqkbnr/pp1npppp/2p5/8/3PN3/5N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,5 Q-K2 QN-B3 [not 5.. KN-B3??? 6 N-Q6 mate] gives White nothing.
+10,Ngf6,g8f6,r1bqkb1r/pp1npppp/2p2n2/8/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 6,The Knight is not well-placed after 6 N-N3.
+11,Nxf6+,e4f6,r1bqkb1r/pp1npppp/2p2N2/8/3P4/5N2/PPP2PPP/R1BQKB1R b KQkq - 0 6,The Knight is not well-placed after 6 N-N3.
+12,Nxf6,d7f6,r1bqkb1r/pp2pppp/2p2n2/8/3P4/5N2/PPP2PPP/R1BQKB1R w KQkq - 0 7,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+13,Bc4,f1c4,r1bqkb1r/pp2pppp/2p2n2/8/2BP4/5N2/PPP2PPP/R1BQK2R b KQkq - 1 7,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+14,Bf5,c8f5,r2qkb1r/pp2pppp/2p2n2/5b2/2BP4/5N2/PPP2PPP/R1BQK2R w KQkq - 2 8,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+15,Qe2,d1e2,r2qkb1r/pp2pppp/2p2n2/5b2/2BP4/5N2/PPP1QPPP/R1B1K2R b KQkq - 3 8,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+16,e6,e7e6,r2qkb1r/pp3ppp/2p1pn2/5b2/2BP4/5N2/PPP1QPPP/R1B1K2R w KQkq - 0 9,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+17,Bg5,c1g5,r2qkb1r/pp3ppp/2p1pn2/5bB1/2BP4/5N2/PPP1QPPP/R3K2R b KQkq - 1 9,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+18,Bg4,f5g4,r2qkb1r/pp3ppp/2p1pn2/6B1/2BP2b1/5N2/PPP1QPPP/R3K2R w KQkq - 2 10,This super-refinement reduces all of White's attacking prospects. Petrosian has a knack for snuffing out such dreams twenty moves before they even enter his opponent's head!
+19,O-O-O,e1c1,r2qkb1r/pp3ppp/2p1pn2/6B1/2BP2b1/5N2/PPP1QPPP/2KR3R b kq - 3 10,"It might have been better to prevent further simplifications with 11 K-N1 N-Q4 12 B-B1! 0-0 13 B-Q3, etc."
+20,Be7,f8e7,r2qk2r/pp2bppp/2p1pn2/6B1/2BP2b1/5N2/PPP1QPPP/2KR3R w kq - 4 11,"It might have been better to prevent further simplifications with 11 K-N1 N-Q4 12 B-B1! 0-0 13 B-Q3, etc."
+21,h3,h2h3,r2qk2r/pp2bppp/2p1pn2/6B1/2BP2b1/5N1P/PPP1QPP1/2KR3R b kq - 0 11,"It might have been better to prevent further simplifications with 11 K-N1 N-Q4 12 B-B1! 0-0 13 B-Q3, etc."
+22,Bxf3,g4f3,r2qk2r/pp2bppp/2p1pn2/6B1/2BP4/5b1P/PPP1QPP1/2KR3R w kq - 0 12,Forces an exchange of Bishops.
+23,Qxf3,e2f3,r2qk2r/pp2bppp/2p1pn2/6B1/2BP4/5Q1P/PPP2PP1/2KR3R b kq - 0 12,Forces an exchange of Bishops.
+24,Nd5,f6d5,r2qk2r/pp2bppp/2p1p3/3n2B1/2BP4/5Q1P/PPP2PP1/2KR3R w kq - 1 13,Forces an exchange of Bishops.
+25,Bxe7,g5e7,r2qk2r/pp2Bppp/2p1p3/3n4/2BP4/5Q1P/PPP2PP1/2KR3R b kq - 0 13,"I had expected 14... O-O-O,"
+26,Qxe7,d8e7,r3k2r/pp2qppp/2p1p3/3n4/2BP4/5Q1P/PPP2PP1/2KR3R w kq - 0 14,"I had expected 14... O-O-O,"
+27,Kb1,c1b1,r3k2r/pp2qppp/2p1p3/3n4/2BP4/5Q1P/PPP2PP1/1K1R3R b kq - 1 14,"I had expected 14... O-O-O,"
+28,Rd8,a8d8,3rk2r/pp2qppp/2p1p3/3n4/2BP4/5Q1P/PPP2PP1/1K1R3R w k - 2 15,"I had expected 14... O-O-O,"
+29,Qe4,f3e4,3rk2r/pp2qppp/2p1p3/3n4/2BPQ3/7P/PPP2PP1/1K1R3R b k - 3 15,"Now it's apparent why Black didn't castle long. He wants to drum up counter-play on the Q-side, which he couldn't do if his King lived there."
+30,b5,b7b5,3rk2r/p3qppp/2p1p3/1p1n4/2BPQ3/7P/PPP2PP1/1K1R3R w k - 0 16,"Now it's apparent why Black didn't castle long. He wants to drum up counter-play on the Q-side, which he couldn't do if his King lived there."
+31,Bd3,c4d3,3rk2r/p3qppp/2p1p3/1p1n4/3PQ3/3B3P/PPP2PP1/1K1R3R b k - 1 16,Already White has been thrown on a mild defensive.
+32,a5,a7a5,3rk2r/4qppp/2p1p3/pp1n4/3PQ3/3B3P/PPP2PP1/1K1R3R w k - 0 17,Already White has been thrown on a mild defensive.
+33,c3,c2c3,3rk2r/4qppp/2p1p3/pp1n4/3PQ3/2PB3P/PP3PP1/1K1R3R b k - 0 17,Already White has been thrown on a mild defensive.
+34,Qd6,e7d6,3rk2r/5ppp/2pqp3/pp1n4/3PQ3/2PB3P/PP3PP1/1K1R3R w k - 1 18,17... P-R5 would be met by 18 P-R3.
+35,g3,g2g3,3rk2r/5ppp/2pqp3/pp1n4/3PQ3/2PB2PP/PP3P2/1K1R3R b k - 0 18,I thought he wanted to exchange Queens.
+36,b4,b5b4,3rk2r/5ppp/2pqp3/p2n4/1p1PQ3/2PB2PP/PP3P2/1K1R3R w k - 0 19,Practically forced -- but now the QB Pawn is weak.
+37,c4,c3c4,3rk2r/5ppp/2pqp3/p2n4/1pPPQ3/3B2PP/PP3P2/1K1R3R b k - 0 19,Practically forced -- but now the QB Pawn is weak.
+38,Nf6,d5f6,3rk2r/5ppp/2pqpn2/p7/1pPPQ3/3B2PP/PP3P2/1K1R3R w k - 1 20,After 20 Q-K2 O-O 21 B-B2 P-B4 White could easily end up with the bad Bishop.
+39,Qe5,e4e5,3rk2r/5ppp/2pqpn2/p3Q3/1pPP4/3B2PP/PP3P2/1K1R3R b k - 2 20,After 20 Q-K2 O-O 21 B-B2 P-B4 White could easily end up with the bad Bishop.
+40,c5,c6c5,3rk2r/5ppp/3qpn2/p1p1Q3/1pPP4/3B2PP/PP3P2/1K1R3R w k - 0 21,This looked like a shot ---
+41,Qg5,e5g5,3rk2r/5ppp/3qpn2/p1p3Q1/1pPP4/3B2PP/PP3P2/1K1R3R b k - 1 21,This looked like a shot ---
+42,h6,h7h6,3rk2r/5pp1/3qpn1p/p1p3Q1/1pPP4/3B2PP/PP3P2/1K1R3R w k - 0 22,-- but instead it's a shock.
+43,Qxc5,g5c5,3rk2r/5pp1/3qpn1p/p1Q5/1pPP4/3B2PP/PP3P2/1K1R3R b k - 0 22,23... R-QB1 immediately is also good.
+44,Qxc5,d6c5,3rk2r/5pp1/4pn1p/p1q5/1pPP4/3B2PP/PP3P2/1K1R3R w k - 0 23,23... R-QB1 immediately is also good.
+45,dxc5,d4c5,3rk2r/5pp1/4pn1p/p1P5/1pP5/3B2PP/PP3P2/1K1R3R b k - 0 23,23... R-QB1 immediately is also good.
+46,Ke7,e8e7,3r3r/4kpp1/4pn1p/p1P5/1pP5/3B2PP/PP3P2/1K1R3R w - - 1 24,23... R-QB1 immediately is also good.
+47,c6,c5c6,3r3r/4kpp1/2P1pn1p/p7/1pP5/3B2PP/PP3P2/1K1R3R b - - 0 24,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+48,Rd6,d8d6,7r/4kpp1/2Prpn1p/p7/1pP5/3B2PP/PP3P2/1K1R3R w - - 1 25,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+49,Rhe1,h1e1,7r/4kpp1/2Prpn1p/p7/1pP5/3B2PP/PP3P2/1K1RR3 b - - 2 25,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+50,Rxc6,d6c6,7r/4kpp1/2r1pn1p/p7/1pP5/3B2PP/PP3P2/1K1RR3 w - - 0 26,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+51,Re5,e1e5,7r/4kpp1/2r1pn1p/p3R3/1pP5/3B2PP/PP3P2/1K1R4 b - - 1 26,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+52,Ra8,h8a8,r7/4kpp1/2r1pn1p/p3R3/1pP5/3B2PP/PP3P2/1K1R4 w - - 2 27,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+53,Be4,d3e4,r7/4kpp1/2r1pn1p/p3R3/1pP1B3/6PP/PP3P2/1K1R4 b - - 3 27,"Right after I made this move, Petrosian offered a draw. I was ready to accept, but Tal happened to be standing there at that moment, hovering anxiously, since a drawn result would practically clinch first place for him. [It would have put him up a full point over Fischer with just one round remaining -- LA] So I refused -- not because I thought White has anything in the position, but because I didn't want to give Tal the satisfaction!"
+54,Rd6,c6d6,r7/4kpp1/3rpn1p/p3R3/1pP1B3/6PP/PP3P2/1K1R4 w - - 4 28,Serendipity. Simply 27... NxB leads to a dead draw.
+55,Bxa8,e4a8,B7/4kpp1/3rpn1p/p3R3/1pP5/6PP/PP3P2/1K1R4 b - - 0 28,"This obvious capture shattered Petrosian, who apparently had been engrossed in analyzing the intricacies of 28 RxR KxR 29 RxP ch PxR 30 BxR K-B4 31 P-N3 N-Q2 32 K-B2 K-Q5 with an absolute bind on the dark squares."
+56,Rxd1+,d6d1,B7/4kpp1/4pn1p/p3R3/1pP5/6PP/PP3P2/1K1r4 w - - 0 29,There's no turning back. If 29... R-Q1 30 RxRP wins.
+57,Kc2,b1c2,B7/4kpp1/4pn1p/p3R3/1pP5/6PP/PPK2P2/3r4 b - - 1 29,There's no turning back. If 29... R-Q1 30 RxRP wins.
+58,Rf1,d1f1,B7/4kpp1/4pn1p/p3R3/1pP5/6PP/PPK2P2/5r2 w - - 2 30,There's no turning back. If 29... R-Q1 30 RxRP wins.
+59,Rxa5,e5a5,B7/4kpp1/4pn1p/R7/1pP5/6PP/PPK2P2/5r2 b - - 0 30,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."
+60,Rxf2+,f1f2,B7/4kpp1/4pn1p/R7/1pP5/6PP/PPK2r2/8 w - - 0 31,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."
+61,Kb3,c2b3,B7/4kpp1/4pn1p/R7/1pP5/1K4PP/PP3r2/8 b - - 1 31,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."
+62,Rh2,f2h2,B7/4kpp1/4pn1p/R7/1pP5/1K4PP/PP5r/8 w - - 2 32,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."
+63,c5,c4c5,B7/4kpp1/4pn1p/R1P5/1p6/1K4PP/PP5r/8 b - - 0 32,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."
+64,Kd8,e7d8,B2k4/5pp1/4pn1p/R1P5/1p6/1K4PP/PP5r/8 w - - 1 33,"On 32... RxRP 33 R-R7 ch K-Q1 34 RxP RxP ch 35 KxP the Q-side Pawns hurtle toward a touchdown. The Bishop, since it can control both wings at once, is vastly superior to the Knight."

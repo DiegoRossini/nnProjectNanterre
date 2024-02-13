@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"English (A25), closed system"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"English (A25), closed system"
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,"English (A25), closed system"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,"English (A25), closed system"
+5,g3,g2g3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,"English (A25), closed system"
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,Here's where the match gets interesting very quickly.
+7,Bg2,f1g2,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,Here's where the match gets interesting very quickly.
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5,Here's where the match gets interesting very quickly.
+9,d3,d2d3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P5/2NP2P1/PP2PPBP/R1BQK1NR b KQkq - 0 5,Here's where the match gets interesting very quickly.
+10,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2P5/2NP2P1/PP2PPBP/R1BQK1NR w KQkq - 0 6,Here's where the match gets interesting very quickly.
+11,Bg5,c1g5,r1bqk2r/ppp2ppp/2np1n2/2b1p1B1/2P5/2NP2P1/PP2PPBP/R2QK1NR b KQkq - 1 6,"Here my opponent's intentions are obvious. Most likely he wanted to play Nd5 or Ne4 next turn to put immense pressure on my knight on f6. However, I catch him by surprise very quickly."
+12,Bxf2+,c5f2,r1bqk2r/ppp2ppp/2np1n2/4p1B1/2P5/2NP2P1/PP2PbBP/R2QK1NR w KQkq - 0 7,Here I intend on temporarily sacrificing my bishop to get a slight advantage in material.
+13,Kxf2,e1f2,r1bqk2r/ppp2ppp/2np1n2/4p1B1/2P5/2NP2P1/PP2PKBP/R2Q2NR b kq - 0 7,Sac accepted.
+14,Ng4+,f6g4,r1bqk2r/ppp2ppp/2np4/4p1B1/2P3n1/2NP2P1/PP2PKBP/R2Q2NR w kq - 1 8,"With this check, I'll get a bishop back and jump ahead in material by a pawn...or so I thought."
+15,Kf3,f2f3,r1bqk2r/ppp2ppp/2np4/4p1B1/2P3n1/2NP1KP1/PP2P1BP/R2Q2NR b kq - 2 8,"A horrific blunder. 8.Kf3?? leaves the king in a vulnerable position in the center of the board. Moving back to either c1 or d1 would've been better. Being ahead in material would be nice, but a bigger prize is in sight."
+16,Nd4+,c6d4,r1bqk2r/ppp2ppp/3p4/4p1B1/2Pn2n1/2NP1KP1/PP2P1BP/R2Q2NR w kq - 3 9,"The first move in a mate in 3. White resigned here. Here are the possible continuations:
+
+9. Ke5 f5+ 10. Kd5 c6++ (my conditional moves were set for this continuation)
+9. Ke5 f5+ 10. Kd5 Be6++
+9. Ke5 Bf5+ 10. Kd5 c6++
+
+I was very fortunate to get a golden opportunity this early in the game. The main lesson that I got out of this game is that it's almost never a good idea to bring your king out to the center of the board this early in the game. It's far too risky with this many pieces on the board."

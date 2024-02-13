@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares."
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares."
+5,c3,c2c3,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 0 3,"When black's c pawn is moved, white must move his own, in order to be able to answer Qb3 to Qb6. b6 weakens dangerously white's dark squares."
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/2P5/PP2PPPP/RN1QKBNR w KQkq - 1 4,"It seemed better to take the pawn first, so to be sure Bf8 will be free."
+7,e3,e2e3,r1bqkbnr/pp2pppp/2n5/2pp4/3P1B2/2P1P3/PP3PPP/RN1QKBNR b KQkq - 0 4,"Equilibrium, now I'm safe."
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2n2n2/2pp4/3P1B2/2P1P3/PP3PPP/RN1QKBNR w KQkq - 1 5,"Better than Nf3, just to leave black without Bg4, inviting f3, which blinds me."
+9,Nd2,b1d2,r1bqkb1r/pp2pppp/2n2n2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR b KQkq - 2 5,"Better than Nf3, just to leave black without Bg4, inviting f3, which blinds me."
+10,e6,e7e6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1B2/2P1P3/PP1N1PPP/R2QKBNR w KQkq - 0 6,Giving away the possibility to make Bc8 active on the white squares. Comprehensible but a mistake.
+11,g4,g2g4,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1BP1/2P1P3/PP1N1P1P/R2QKBNR b KQkq - 0 6,"...it just gives me space to do this, since this pawn is defended by the Q - thanks to the Ng1 staying at home."
+12,e5,e6e5,r1bqkb1r/pp3ppp/2n2n2/2ppp3/3P1BP1/2P1P3/PP1N1P1P/R2QKBNR w KQkq - 0 7,? Trying to mix up things? This just leaves me...
+13,dxe5,d4e5,r1bqkb1r/pp3ppp/2n2n2/2ppP3/5BP1/2P1P3/PP1N1P1P/R2QKBNR b KQkq - 0 7,"...so to force Nxg4, and then I could have chosen an attack way somehow."
+14,Bxg4,c8g4,r2qkb1r/pp3ppp/2n2n2/2ppP3/5Bb1/2P1P3/PP1N1P1P/R2QKBNR w KQkq - 0 8,"? Black made the worst possible choice, here, allowing a piece to be kicked, giving a tempo to the opponent... thus a piece, in this case!"
+15,f3,f2f3,r2qkb1r/pp3ppp/2n2n2/2ppP3/5Bb1/2P1PP2/PP1N3P/R2QKBNR b KQkq - 0 8,"Ok, but now, how to go on? My K is nearly weak... it's still possible some trick."
+16,Bh5,g4h5,r2qkb1r/pp3ppp/2n2n2/2ppP2b/5B2/2P1PP2/PP1N3P/R2QKBNR w KQkq - 1 9,"Ok, but now, how to go on? My K is nearly weak... it's still possible some trick."
+17,exf6,e5f6,r2qkb1r/pp3ppp/2n2P2/2pp3b/5B2/2P1PP2/PP1N3P/R2QKBNR b KQkq - 0 9,"Ok, but now, how to go on? My K is nearly weak... it's still possible some trick."
+18,Qxf6,d8f6,r3kb1r/pp3ppp/2n2q2/2pp3b/5B2/2P1PP2/PP1N3P/R2QKBNR w KQkq - 0 10,"Ok, but now, how to go on? My K is nearly weak... it's still possible some trick."
+19,Bh3,f1h3,r3kb1r/pp3ppp/2n2q2/2pp3b/5B2/2P1PP1B/PP1N3P/R2QK1NR b KQkq - 1 10,"Preventing black's castling! Thanks (again) to the unmoved Ng1, this B is inmune to Qf4+, Bg3."
+20,Bd6,f8d6,r3k2r/pp3ppp/2nb1q2/2pp3b/5B2/2P1PP1B/PP1N3P/R2QK1NR w KQkq - 2 11,"Natural is Bg3, and if BxB, hxB is still solid. But there is a tactical shot here..."
+21,Bxd6,f4d6,r3k2r/pp3ppp/2nB1q2/2pp3b/8/2P1PP1B/PP1N3P/R2QK1NR b KQkq - 0 11,! Black will lose one pawn.
+22,Qxd6,f6d6,r3k2r/pp3ppp/2nq4/2pp3b/8/2P1PP1B/PP1N3P/R2QK1NR w KQkq - 0 12,! Black will lose one pawn.
+23,Ne4,d2e4,r3k2r/pp3ppp/2nq4/2pp3b/4N3/2P1PP1B/PP5P/R2QK1NR b KQkq - 1 12,! Black will lose one pawn.
+24,Qe7,d6e7,r3k2r/pp2qppp/2n5/2pp3b/4N3/2P1PP1B/PP5P/R2QK1NR w KQkq - 2 13,...and Bh5 is threatened.
+25,Qxd5,d1d5,r3k2r/pp2qppp/2n5/2pQ3b/4N3/2P1PP1B/PP5P/R3K1NR b KQkq - 0 13,...and Bh5 is threatened.
+26,Qh4+,e7h4,r3k2r/pp3ppp/2n5/2pQ3b/4N2q/2P1PP1B/PP5P/R3K1NR w KQkq - 1 14,Black has to care about his B...
+27,Ng3,e4g3,r3k2r/pp3ppp/2n5/2pQ3b/7q/2P1PPNB/PP5P/R3K1NR b KQkq - 2 14,Black has to care about his B...
+28,Rd8,a8d8,3rk2r/pp3ppp/2n5/2pQ3b/7q/2P1PPNB/PP5P/R3K1NR w KQk - 3 15,"...which he omits, speeding up the finish."
+29,Qxh5,d5h5,3rk2r/pp3ppp/2n5/2p4Q/7q/2P1PPNB/PP5P/R3K1NR b KQk - 0 15,"So many moves, here... and time for a blunder!"
+30,Qc4,h4c4,3rk2r/pp3ppp/2n5/2p4Q/2q5/2P1PPNB/PP5P/R3K1NR w KQk - 1 16,"So many moves, here... and time for a blunder!"
+31,Ng1e2,g1e2,3rk2r/pp3ppp/2n5/2p4Q/2q5/2P1PPNB/PP2N2P/R3K2R b KQk - 2 16,"Allowing him to fork me, to Qg5, and then see. Nh5 should win somewhere."
+32,O-O,e8g8,3r1rk1/pp3ppp/2n5/2p4Q/2q5/2P1PPNB/PP2N2P/R3K2R w KQ - 3 17,"Allowing him to fork me, to Qg5, and then see. Nh5 should win somewhere."
+33,Bf5,h3f5,3r1rk1/pp3ppp/2n5/2p2B1Q/2q5/2P1PPN1/PP2N2P/R3K2R b KQ - 4 17,"Allowing him to fork me, to Qg5, and then see. Nh5 should win somewhere."
+34,g6,g7g6,3r1rk1/pp3p1p/2n3p1/2p2B1Q/2q5/2P1PPN1/PP2N2P/R3K2R w KQ - 0 18,"Threatening Qd2+, so I can't move my Ne2 or it will be severe."
+35,Qg5,h5g5,3r1rk1/pp3p1p/2n3p1/2p2BQ1/2q5/2P1PPN1/PP2N2P/R3K2R b KQ - 1 18,"Threatening Qd2+, so I can't move my Ne2 or it will be severe."
+36,Qd5,c4d5,3r1rk1/pp3p1p/2n3p1/2pq1BQ1/8/2P1PPN1/PP2N2P/R3K2R w KQ - 2 19,"Threatening Qd2+, so I can't move my Ne2 or it will be severe."
+37,e4,e3e4,3r1rk1/pp3p1p/2n3p1/2pq1BQ1/4P3/2P2PN1/PP2N2P/R3K2R b KQ - 0 19,"this way my Q covers d2. Black should have played f6 here, and I'd be in trouble."

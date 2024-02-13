@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Everything is standard so far.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Everything is standard so far.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Everything is standard so far.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Interesting. I was hoping that it would end quickly just like Legall's famous game, but my hopes were futile."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,A bit of a poor move by Black. I already have two knights developed and Black should instead focus on a move like 3. ... Nf6 or 3. ... Nc6.
+6,h6,h7h6,rnbqkbnr/ppp2pp1/3p3p/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,A bit of a poor move by Black. I already have two knights developed and Black should instead focus on a move like 3. ... Nf6 or 3. ... Nc6.
+7,Bc4,f1c4,rnbqkbnr/ppp2pp1/3p3p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,"Sure, Black's pawn on h6 was helping to stop my knight coming to g5, but I sensed that I had an advantage here."
+8,c6,c7c6,rnbqkbnr/pp3pp1/2pp3p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"Sure, Black's pawn on h6 was helping to stop my knight coming to g5, but I sensed that I had an advantage here."
+9,d4,d2d4,rnbqkbnr/pp3pp1/2pp3p/4p3/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 5,"This is an alright move, as I wanted to open up the position. 5. d3 might have been better."
+10,exd4,e5d4,rnbqkbnr/pp3pp1/2pp3p/8/2BpP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,I decide to recapture using the queen instead of the knight. Black is very open to attack and so has to be careful.
+11,Qxd4,d1d4,rnbqkbnr/pp3pp1/2pp3p/8/2BQP3/2N2N2/PPP2PPP/R1B1K2R b KQkq - 0 6,I decide to recapture using the queen instead of the knight. Black is very open to attack and so has to be careful.
+12,Be7,f8e7,rnbqk1nr/pp2bpp1/2pp3p/8/2BQP3/2N2N2/PPP2PPP/R1B1K2R w KQkq - 1 7,A mistake. I can now capture the pawn on g7.
+13,e5,e4e5,rnbqk1nr/pp2bpp1/2pp3p/4P3/2BQ4/2N2N2/PPP2PPP/R1B1K2R b KQkq - 0 7,"Unfortunately, I didn't see it. Instead, I block the possibility. After 7. Qxg7, Black can only defend the rook with 7. ... Bf6, after which I can play Qxf7#."
+14,c5,c6c5,rnbqk1nr/pp2bpp1/3p3p/2p1P3/2BQ4/2N2N2/PPP2PPP/R1B1K2R w KQkq - 0 8,Now Black is in serious trouble.
+15,Qd5,d4d5,rnbqk1nr/pp2bpp1/3p3p/2pQP3/2B5/2N2N2/PPP2PPP/R1B1K2R b KQkq - 1 8,Now Black is in serious trouble.
+16,Nc6,b8c6,r1bqk1nr/pp2bpp1/2np3p/2pQP3/2B5/2N2N2/PPP2PPP/R1B1K2R w KQkq - 2 9,Now Black is in serious trouble.
+17,Qxf7+,d5f7,r1bqk1nr/pp2bQp1/2np3p/2p1P3/2B5/2N2N2/PPP2PPP/R1B1K2R b KQkq - 0 9,"This is similar to Scholar's Mate, but with one vital difference. Black's king can run to d7."
+18,Kd7,e8d7,r1bq2nr/pp1kbQp1/2np3p/2p1P3/2B5/2N2N2/PPP2PPP/R1B1K2R w KQ - 1 10,Black gets greedy. Not something you want to do when you're in this type of situation.
+19,exd6,e5d6,r1bq2nr/pp1kbQp1/2nP3p/2p5/2B5/2N2N2/PPP2PPP/R1B1K2R b KQ - 0 10,Black gets greedy. Not something you want to do when you're in this type of situation.
+20,Kxd6,d7d6,r1bq2nr/pp2bQp1/2nk3p/2p5/2B5/2N2N2/PPP2PPP/R1B1K2R w KQ - 0 11,Black gets greedy. Not something you want to do when you're in this type of situation.
+21,Bf4+,c1f4,r1bq2nr/pp2bQp1/2nk3p/2p5/2B2B2/2N2N2/PPP2PPP/R3K2R b KQ - 1 11,"Stunning. I never would have expected myself to pull something like this off. If you wish to leave me a suggestion for an annotated game, or want to leave me feedback, please drop me a message. Your help is appreciated."
+22,Kd7,d6d7,r1bq2nr/pp1kbQp1/2n4p/2p5/2B2B2/2N2N2/PPP2PPP/R3K2R w KQ - 2 12,"Stunning. I never would have expected myself to pull something like this off. If you wish to leave me a suggestion for an annotated game, or want to leave me feedback, please drop me a message. Your help is appreciated."
+23,Be6#,c4e6,r1bq2nr/pp1kbQp1/2n1B2p/2p5/5B2/2N2N2/PPP2PPP/R3K2R b KQ - 3 12,"Stunning. I never would have expected myself to pull something like this off. If you wish to leave me a suggestion for an annotated game, or want to leave me feedback, please drop me a message. Your help is appreciated."

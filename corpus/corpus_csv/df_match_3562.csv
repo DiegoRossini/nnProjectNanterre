@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Alekhine's Defense
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,Alekhine's Defense
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2,Mistake: 4. Qe2 Qxd4
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Mistake: 4. Qe2 Qxd4
+5,d4,d2d4,rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Mistake: 4. Qe2 Qxd4
+6,dxe4,d5e4,rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Mistake: 4. Qe2 Qxd4
+7,Qe2,d1e2,rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N5/PPP1QPPP/R1B1KBNR b KQkq - 1 4,Mistake: 4. Qe2 Qxd4
+8,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/5b2/3Pp3/2N5/PPP1QPPP/R1B1KBNR w KQkq - 2 5,Better: 4... Qxd4
+9,Be3,c1e3,rn1qkb1r/ppp1pppp/5n2/5b2/3Pp3/2N1B3/PPP1QPPP/R3KBNR b KQkq - 3 5,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+10,Bg4,f5g4,rn1qkb1r/ppp1pppp/5n2/8/3Pp1b1/2N1B3/PPP1QPPP/R3KBNR w KQkq - 4 6,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+11,f3,f2f3,rn1qkb1r/ppp1pppp/5n2/8/3Pp1b1/2N1BP2/PPP1Q1PP/R3KBNR b KQkq - 0 6,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+12,exf3,e4f3,rn1qkb1r/ppp1pppp/5n2/8/3P2b1/2N1Bp2/PPP1Q1PP/R3KBNR w KQkq - 0 7,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+13,Nxf3,g1f3,rn1qkb1r/ppp1pppp/5n2/8/3P2b1/2N1BN2/PPP1Q1PP/R3KB1R b KQkq - 0 7,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+14,Nc6,b8c6,r2qkb1r/ppp1pppp/2n2n2/8/3P2b1/2N1BN2/PPP1Q1PP/R3KB1R w KQkq - 1 8,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+15,O-O-O,e1c1,r2qkb1r/ppp1pppp/2n2n2/8/3P2b1/2N1BN2/PPP1Q1PP/2KR1B1R b kq - 2 8,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+16,e6,e7e6,r2qkb1r/ppp2ppp/2n1pn2/8/3P2b1/2N1BN2/PPP1Q1PP/2KR1B1R w kq - 0 9,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+17,h3,h2h3,r2qkb1r/ppp2ppp/2n1pn2/8/3P2b1/2N1BN1P/PPP1Q1P1/2KR1B1R b kq - 0 9,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+18,Bh5,g4h5,r2qkb1r/ppp2ppp/2n1pn2/7b/3P4/2N1BN1P/PPP1Q1P1/2KR1B1R w kq - 1 10,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+19,g4,g2g4,r2qkb1r/ppp2ppp/2n1pn2/7b/3P2P1/2N1BN1P/PPP1Q3/2KR1B1R b kq - 0 10,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+20,Bg6,h5g6,r2qkb1r/ppp2ppp/2n1pnb1/8/3P2P1/2N1BN1P/PPP1Q3/2KR1B1R w kq - 1 11,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+21,Qb5,e2b5,r2qkb1r/ppp2ppp/2n1pnb1/1Q6/3P2P1/2N1BN1P/PPP5/2KR1B1R b kq - 2 11,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+22,Bd6,f8d6,r2qk2r/ppp2ppp/2nbpnb1/1Q6/3P2P1/2N1BN1P/PPP5/2KR1B1R w kq - 3 12,"Mistake: 11... Bd6 12. Qxb7 and Black has to move the Knight on c6.
+Better: 11... Rb8"
+23,Qxb7,b5b7,r2qk2r/pQp2ppp/2nbpnb1/8/3P2P1/2N1BN1P/PPP5/2KR1B1R b kq - 0 12,Mistake: 12... O-O 13. Qxc6
+24,O-O,e8g8,r2q1rk1/pQp2ppp/2nbpnb1/8/3P2P1/2N1BN1P/PPP5/2KR1B1R w - - 1 13,Mistake: 12... O-O 13. Qxc6
+25,Qxc6,b7c6,r2q1rk1/p1p2ppp/2Qbpnb1/8/3P2P1/2N1BN1P/PPP5/2KR1B1R b - - 0 13,Mistake: 13... Ne4 14. Nxe4
+26,Ne4,f6e4,r2q1rk1/p1p2ppp/2Qbp1b1/8/3Pn1P1/2N1BN1P/PPP5/2KR1B1R w - - 1 14,Mistake: 13... Ne4 14. Nxe4
+27,Nxe4,c3e4,r2q1rk1/p1p2ppp/2Qbp1b1/8/3PN1P1/4BN1P/PPP5/2KR1B1R b - - 0 14,"Now I'm up two Knights, and controlling the center."
+28,Be7,d6e7,r2q1rk1/p1p1bppp/2Q1p1b1/8/3PN1P1/4BN1P/PPP5/2KR1B1R w - - 1 15,Did not understand the point of this move.
+29,Bd3,f1d3,r2q1rk1/p1p1bppp/2Q1p1b1/8/3PN1P1/3BBN1P/PPP5/2KR3R b - - 2 15,Mistake: 15... f5 16. Qxe6
+30,f5,f7f5,r2q1rk1/p1p1b1pp/2Q1p1b1/5p2/3PN1P1/3BBN1P/PPP5/2KR3R w - - 0 16,Mistake: 15... f5 16. Qxe6
+31,Qxe6+,c6e6,r2q1rk1/p1p1b1pp/4Q1b1/5p2/3PN1P1/3BBN1P/PPP5/2KR3R b - - 0 16,"Plan: threaten a fork with Nf7+, thus exerting pressure and attacking Black's kingside. Might require exchange of light-squared bishops."
+32,Kh8,g8h8,r2q1r1k/p1p1b1pp/4Q1b1/5p2/3PN1P1/3BBN1P/PPP5/2KR3R w - - 1 17,"Plan: threaten a fork with Nf7+, thus exerting pressure and attacking Black's kingside. Might require exchange of light-squared bishops."
+33,Neg5,e4g5,r2q1r1k/p1p1b1pp/4Q1b1/5pN1/3P2P1/3BBN1P/PPP5/2KR3R b - - 2 17,"Plan: threaten a fork with Nf7+, thus exerting pressure and attacking Black's kingside. Might require exchange of light-squared bishops."
+34,f4,f5f4,r2q1r1k/p1p1b1pp/4Q1b1/6N1/3P1pP1/3BBN1P/PPP5/2KR3R w - - 0 18,Blunder: 17... f4 18. Bxg6 Qb8 19. Nf7+ Kg8 20. Bxf4
+35,Bxg6,d3g6,r2q1r1k/p1p1b1pp/4Q1B1/6N1/3P1pP1/4BN1P/PPP5/2KR3R b - - 0 18,Blunder: 18... fxe3 19. Nf7+ Rxf7 20. Qxf7
+36,fxe3,f4e3,r2q1r1k/p1p1b1pp/4Q1B1/6N1/3P2P1/4pN1P/PPP5/2KR3R w - - 0 19,Blunder: 18... fxe3 19. Nf7+ Rxf7 20. Qxf7
+37,Nf7+,g5f7,r2q1r1k/p1p1bNpp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R b - - 1 19,Blunder: 19... Kg8 20. Nxd8+ and the rest of the game follows. Black should have exchanged the Rook for the Knight and saved the Queen.
+38,Kg8,h8g8,r2q1rk1/p1p1bNpp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R w - - 2 20,Blunder: 19... Kg8 20. Nxd8+ and the rest of the game follows. Black should have exchanged the Rook for the Knight and saved the Queen.
+39,Nxd8+,f7d8,r2N1rk1/p1p1b1pp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R b - - 0 20,"Risky move, I was not sure whether it had played out correctly in my head."
+40,Kh8,g8h8,r2N1r1k/p1p1b1pp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R w - - 1 21,"Risky move, I was not sure whether it had played out correctly in my head."
+41,Nf7+,d8f7,r4r1k/p1p1bNpp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R b - - 2 21,"Risky move, I was not sure whether it had played out correctly in my head."
+42,Kg8,h8g8,r4rk1/p1p1bNpp/4Q1B1/8/3P2P1/4pN1P/PPP5/2KR3R w - - 3 22,"Risky move, I was not sure whether it had played out correctly in my head."
+43,Bxh7+,g6h7,r4rk1/p1p1bNpB/4Q3/8/3P2P1/4pN1P/PPP5/2KR3R b - - 0 22,"Risky move, I was not sure whether it had played out correctly in my head."
+44,Kxh7,g8h7,r4r2/p1p1bNpk/4Q3/8/3P2P1/4pN1P/PPP5/2KR3R w - - 0 23,Only move. The alternative 25... Bxg5 leads to 26. Nxg5+ Kh8 27. Qg6 followed by 28. Qh7#
+45,Nf3g5+,f3g5,r4r2/p1p1bNpk/4Q3/6N1/3P2P1/4p2P/PPP5/2KR3R b - - 1 23,Only move. The alternative 25... Bxg5 leads to 26. Nxg5+ Kh8 27. Qg6 followed by 28. Qh7#
+46,Kg8,h7g8,r4rk1/p1p1bNp1/4Q3/6N1/3P2P1/4p2P/PPP5/2KR3R w - - 2 24,Only move. The alternative 25... Bxg5 leads to 26. Nxg5+ Kh8 27. Qg6 followed by 28. Qh7#
+47,Qg6,e6g6,r4rk1/p1p1bNp1/6Q1/6N1/3P2P1/4p2P/PPP5/2KR3R b - - 3 24,"Blunder: 24... Rae8 25. Qh7#.
+Moving the Rook from f8: also a bad move: 25. Qh7+ Kf8 26. Qh8#.
+Best (only) move: 24... Bxg5 25. Nxg5, then 25... Re8 or 25... Rd8 (all other moves either lose the game with 26. Qh7#, or lose a Rook with 26. Qh7+ Kg8 27. Qh8+)"
+48,Rae8,a8e8,4rrk1/p1p1bNp1/6Q1/6N1/3P2P1/4p2P/PPP5/2KR3R w - - 4 25,"Blunder: 24... Rae8 25. Qh7#.
+Moving the Rook from f8: also a bad move: 25. Qh7+ Kf8 26. Qh8#.
+Best (only) move: 24... Bxg5 25. Nxg5, then 25... Re8 or 25... Rd8 (all other moves either lose the game with 26. Qh7#, or lose a Rook with 26. Qh7+ Kg8 27. Qh8+)"
+49,Qh7#,g6h7,4rrk1/p1p1bNpQ/8/6N1/3P2P1/4p2P/PPP5/2KR3R b - - 5 25,

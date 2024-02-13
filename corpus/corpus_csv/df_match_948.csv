@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Black chose ...
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black chose ...
+3,f4,f2f4,rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,Black chose ...
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Black chose ...
+5,e5,e4e5,rnbqkbnr/ppp2ppp/4p3/3pP3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,Black chose ...
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2ppP3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4,Black chose ...
+7,c3,c2c3,rnbqkbnr/pp3ppp/4p3/2ppP3/5P2/2P5/PP1P2PP/RNBQKBNR b KQkq - 0 4,Black chose ...
+8,Bd7,c8d7,rn1qkbnr/pp1b1ppp/4p3/2ppP3/5P2/2P5/PP1P2PP/RNBQKBNR w KQkq - 1 5,This seems like an odd move.
+9,Nf3,g1f3,rn1qkbnr/pp1b1ppp/4p3/2ppP3/5P2/2P2N2/PP1P2PP/RNBQKB1R b KQkq - 2 5,"Equally good are Qb6, Nc6 and Nh6, and some of these may transpose."
+10,Be7,f8e7,rn1qk1nr/pp1bbppp/4p3/2ppP3/5P2/2P2N2/PP1P2PP/RNBQKB1R w KQkq - 3 6,"Equally good are Qb6, Nc6 and Nh6, and some of these may transpose."
+11,a3,a2a3,rn1qk1nr/pp1bbppp/4p3/2ppP3/5P2/P1P2N2/1P1P2PP/RNBQKB1R b KQkq - 0 6,"Qb6, a5, c4 and Nc6 are viable alternatives."
+12,Nh6,g8h6,rn1qk2r/pp1bbppp/4p2n/2ppP3/5P2/P1P2N2/1P1P2PP/RNBQKB1R w KQkq - 1 7,"Qb6, a5, c4 and Nc6 are viable alternatives."
+13,d4,d2d4,rn1qk2r/pp1bbppp/4p2n/2ppP3/3P1P2/P1P2N2/1P4PP/RNBQKB1R b KQkq - 0 7,"Qb6, a5, c4 and Nc6 are viable alternatives."
+14,Nf5,h6f5,rn1qk2r/pp1bbppp/4p3/2ppPn2/3P1P2/P1P2N2/1P4PP/RNBQKB1R w KQkq - 1 8,"Qb6, a5, c4 and Nc6 are viable alternatives."
+15,Bd3,f1d3,rn1qk2r/pp1bbppp/4p3/2ppPn2/3P1P2/P1PB1N2/1P4PP/RNBQK2R b KQkq - 2 8,"Qb6, a5, c4 and Nc6 are viable alternatives."
+16,O-O,e8g8,rn1q1rk1/pp1bbppp/4p3/2ppPn2/3P1P2/P1PB1N2/1P4PP/RNBQK2R w KQ - 3 9,"Qb6, a5, c4 and Nc6 are viable alternatives."
+17,Kf2,e1f2,rn1q1rk1/pp1bbppp/4p3/2ppPn2/3P1P2/P1PB1N2/1P3KPP/RNBQ3R b - - 4 9,"Castling is the better move.  It remains to be seems though if black can exploit the position of the king, which for now looks perfectly safe."
+18,Nc6,b8c6,r2q1rk1/pp1bbppp/2n1p3/2ppPn2/3P1P2/P1PB1N2/1P3KPP/RNBQ3R w - - 5 10,Qb6 is also good.
+19,Bxf5,d3f5,r2q1rk1/pp1bbppp/2n1p3/2ppPB2/3P1P2/P1P2N2/1P3KPP/RNBQ3R b - - 0 10,Best.
+20,exf5,e6f5,r2q1rk1/pp1bbppp/2n5/2ppPp2/3P1P2/P1P2N2/1P3KPP/RNBQ3R w - - 0 11,Best.
+21,Be3,c1e3,r2q1rk1/pp1bbppp/2n5/2ppPp2/3P1P2/P1P1BN2/1P3KPP/RN1Q3R b - - 1 11,Best.
+22,Qb6,d8b6,r4rk1/pp1bbppp/1qn5/2ppPp2/3P1P2/P1P1BN2/1P3KPP/RN1Q3R w - - 2 12,Best.
+23,b4,b2b4,r4rk1/pp1bbppp/1qn5/2ppPp2/1P1P1P2/P1P1BN2/5KPP/RN1Q3R b - - 0 12,Black has a tiny edge.
+24,c4,c5c4,r4rk1/pp1bbppp/1qn5/3pPp2/1PpP1P2/P1P1BN2/5KPP/RN1Q3R w - - 0 13,Black has a tiny edge.
+25,h3,h2h3,r4rk1/pp1bbppp/1qn5/3pPp2/1PpP1P2/P1P1BN1P/5KP1/RN1Q3R b - - 0 13,"White neglects his development. 
+ 13. Nbd2 was better."
+26,a5,a7a5,r4rk1/1p1bbppp/1qn5/p2pPp2/1PpP1P2/P1P1BN1P/5KP1/RN1Q3R w - - 0 14,15. Qb1 Is better.
+27,Nbd2,b1d2,r4rk1/1p1bbppp/1qn5/p2pPp2/1PpP1P2/P1P1BN1P/3N1KP1/R2Q3R b - - 1 14,15. Qb1 Is better.
+28,Qa6,b6a6,r4rk1/1p1bbppp/q1n5/p2pPp2/1PpP1P2/P1P1BN1P/3N1KP1/R2Q3R w - - 2 15,15. Qb1 Is better.
+29,Qc2,d1c2,r4rk1/1p1bbppp/q1n5/p2pPp2/1PpP1P2/P1P1BN1P/2QN1KP1/R6R b - - 3 15,15. Qb1 Is better.
+30,axb4,a5b4,r4rk1/1p1bbppp/q1n5/3pPp2/1ppP1P2/P1P1BN1P/2QN1KP1/R6R w - - 0 16,"Because white keeps making poor choices, he is now lost.
+ 16. cxb4 Is better."
+31,axb4,a3b4,r4rk1/1p1bbppp/q1n5/3pPp2/1PpP1P2/2P1BN1P/2QN1KP1/R6R b - - 0 16,"Because white keeps making poor choices, he is now lost.
+ 16. cxb4 Is better."
+32,Qxa1,a6a1,r4rk1/1p1bbppp/2n5/3pPp2/1PpP1P2/2P1BN1P/2QN1KP1/q6R w - - 0 17,White lashes out with a bad move followed by another bad move.
+33,Rxa1,h1a1,r4rk1/1p1bbppp/2n5/3pPp2/1PpP1P2/2P1BN1P/2QN1KP1/R7 b - - 0 17,White lashes out with a bad move followed by another bad move.
+34,Rxa1,a8a1,5rk1/1p1bbppp/2n5/3pPp2/1PpP1P2/2P1BN1P/2QN1KP1/r7 w - - 0 18,White lashes out with a bad move followed by another bad move.
+35,g4,g2g4,5rk1/1p1bbppp/2n5/3pPp2/1PpP1PP1/2P1BN1P/2QN1K2/r7 b - - 0 18,White lashes out with a bad move followed by another bad move.
+36,Rfa8,f8a8,r5k1/1p1bbppp/2n5/3pPp2/1PpP1PP1/2P1BN1P/2QN1K2/r7 w - - 1 19,White lashes out with a bad move followed by another bad move.
+37,e6,e5e6,r5k1/1p1bbppp/2n1P3/3p1p2/1PpP1PP1/2P1BN1P/2QN1K2/r7 b - - 0 19,White lashes out with a bad move followed by another bad move.
+38,fxe6,f7e6,r5k1/1p1bb1pp/2n1p3/3p1p2/1PpP1PP1/2P1BN1P/2QN1K2/r7 w - - 0 20,This choice gets rids of the doubled pawns and leaves the d7 bishop more free.
+39,Ne5,f3e5,r5k1/1p1bb1pp/2n1p3/3pNp2/1PpP1PP1/2P1B2P/2QN1K2/r7 b - - 1 20,White can do a little better with Nxc4 and Qe2 to shelter the queen.
+40,Nxe5,c6e5,r5k1/1p1bb1pp/4p3/3pnp2/1PpP1PP1/2P1B2P/2QN1K2/r7 w - - 0 21,
+41,dxe5,d4e5,r5k1/1p1bb1pp/4p3/3pPp2/1Pp2PP1/2P1B2P/2QN1K2/r7 b - - 0 21,
+42,Ra8a2,a8a2,6k1/1p1bb1pp/4p3/3pPp2/1Pp2PP1/2P1B2P/r1QN1K2/r7 w - - 1 22,

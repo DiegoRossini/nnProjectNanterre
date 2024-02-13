@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nh3,g1h3,rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1,This move (1) does not control center squares and allows Black to take the center with pawns and (2) develops the knight to a position that does not control KR4/h4.  The weakness of not developing to KB3/f3 will be seen.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/7N/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"My opponent allows me to play P-K4 as Black.  Unless White wishes to challenge the square KB4/f4, White's knight will be limited in scope."
+3,e3,e2e3,rnbqkbnr/pppp1ppp/8/4p3/8/4P2N/PPPP1PPP/RNBQKB1R b KQkq - 0 2,"Taking more control over the center with a pawn, while releasing the QB for K-side attack."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/8/4P2N/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Taking more control over the center with a pawn, while releasing the QB for K-side attack."
+5,Qf3,d1f3,rnbqkbnr/ppp2ppp/8/3pp3/8/4PQ1N/PPPP1PPP/RNB1KB1R b KQkq - 1 3,An early Queen move that will allow Black to chase it around.  White can not challenge P-KB4/f4 right away because of 3...BxN 4 PxB Q-R4ch forcing the King to move.   White would need to make plans to Q-side castle first.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3pp3/8/4PQ1N/PPPP1PPP/RNB1KB1R w KQkq - 2 4,An early knight move that has no forces backing it up.  It will be easy to chase it off and gain time developing my own forces.
+7,Ng5,h3g5,rnbqkb1r/ppp2ppp/5n2/3pp1N1/8/4PQ2/PPPP1PPP/RNB1KB1R b KQkq - 3 4,An early knight move that has no forces backing it up.  It will be easy to chase it off and gain time developing my own forces.
+8,h6,h7h6,rnbqkb1r/ppp2pp1/5n1p/3pp1N1/8/4PQ2/PPPP1PPP/RNB1KB1R w KQkq - 0 5,"Basic development, but also preparing to limit moves for the WQ."
+9,Nh3,g5h3,rnbqkb1r/ppp2pp1/5n1p/3pp3/8/4PQ1N/PPPP1PPP/RNB1KB1R b KQkq - 1 5,"Basic development, but also preparing to limit moves for the WQ."
+10,Bd6,f8d6,rnbqk2r/ppp2pp1/3b1n1p/3pp3/8/4PQ1N/PPPP1PPP/RNB1KB1R w KQkq - 2 6,"Basic development, but also preparing to limit moves for the WQ."
+11,Nc3,b1c3,rnbqk2r/ppp2pp1/3b1n1p/3pp3/8/2N1PQ1N/PPPP1PPP/R1B1KB1R b KQkq - 3 6,"Time for White to retreat the Q to Q1/d1, followed by B-K2/e2."
+12,Bg4,c8g4,rn1qk2r/ppp2pp1/3b1n1p/3pp3/6b1/2N1PQ1N/PPPP1PPP/R1B1KB1R w KQkq - 4 7,The first move to trap the Queen. White can not escape loss. P-K5/e4 would also work but moves the pawn a second time w/o developing a piece.
+13,Qxf6,f3f6,rn1qk2r/ppp2pp1/3b1Q1p/3pp3/6b1/2N1P2N/PPPP1PPP/R1B1KB1R b KQkq - 0 7,Black gets one piece for the Queen.
+14,Qxf6,d8f6,rn2k2r/ppp2pp1/3b1q1p/3pp3/6b1/2N1P2N/PPPP1PPP/R1B1KB1R w KQkq - 0 8,Taking time to secure the back rank before embarking on attacks. Q-KN3/g6 or K3/e6 would be ambitious and not needed.
+15,Nxd5,c3d5,rn2k2r/ppp2pp1/3b1q1p/3Np3/6b1/4P2N/PPPP1PPP/R1B1KB1R b KQkq - 0 8,Taking time to secure the back rank before embarking on attacks. Q-KN3/g6 or K3/e6 would be ambitious and not needed.
+16,Qd8,f6d8,rn1qk2r/ppp2pp1/3b3p/3Np3/6b1/4P2N/PPPP1PPP/R1B1KB1R w KQkq - 1 9,Taking time to secure the back rank before embarking on attacks. Q-KN3/g6 or K3/e6 would be ambitious and not needed.
+17,f3,f2f3,rn1qk2r/ppp2pp1/3b3p/3Np3/6b1/4PP1N/PPPP2PP/R1B1KB1R b KQkq - 0 9,This opens a dark-squared path against the King.
+18,Be6,g4e6,rn1qk2r/ppp2pp1/3bb2p/3Np3/8/4PP1N/PPPP2PP/R1B1KB1R w KQkq - 1 10,"Avoiding BxN, which would trade a good bishop for a Knight on the side of the board.  The WN has no scope unless several moves are used to reposition it."
+19,e4,e3e4,rn1qk2r/ppp2pp1/3bb2p/3Np3/4P3/5P1N/PPPP2PP/R1B1KB1R b KQkq - 0 10,White's forces have all been pushed back now.
+20,c6,c7c6,rn1qk2r/pp3pp1/2pbb2p/3Np3/4P3/5P1N/PPPP2PP/R1B1KB1R w KQkq - 0 11,White's forces have all been pushed back now.
+21,Nc3,d5c3,rn1qk2r/pp3pp1/2pbb2p/4p3/4P3/2N2P1N/PPPP2PP/R1B1KB1R b KQkq - 1 11,White's forces have all been pushed back now.
+22,O-O,e8g8,rn1q1rk1/pp3pp1/2pbb2p/4p3/4P3/2N2P1N/PPPP2PP/R1B1KB1R w KQ - 2 12,Preparing to open the KB-file for rook usage.
+23,b3,b2b3,rn1q1rk1/pp3pp1/2pbb2p/4p3/4P3/1PN2P1N/P1PP2PP/R1B1KB1R b KQ - 0 12,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+24,Nd7,b8d7,r2q1rk1/pp1n1pp1/2pbb2p/4p3/4P3/1PN2P1N/P1PP2PP/R1B1KB1R w KQ - 1 13,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+25,Bc4,f1c4,r2q1rk1/pp1n1pp1/2pbb2p/4p3/2B1P3/1PN2P1N/P1PP2PP/R1B1K2R b KQ - 2 13,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+26,Bxc4,e6c4,r2q1rk1/pp1n1pp1/2pb3p/4p3/2b1P3/1PN2P1N/P1PP2PP/R1B1K2R w KQ - 0 14,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+27,bxc4,b3c4,r2q1rk1/pp1n1pp1/2pb3p/4p3/2P1P3/2N2P1N/P1PP2PP/R1B1K2R b KQ - 0 14,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+28,f5,f7f5,r2q1rk1/pp1n2p1/2pb3p/4pp2/2P1P3/2N2P1N/P1PP2PP/R1B1K2R w KQ - 0 15,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+29,Rf1,h1f1,r2q1rk1/pp1n2p1/2pb3p/4pp2/2P1P3/2N2P1N/P1PP2PP/R1B1KR2 b Q - 1 15,"P-Q3, B-Q2, and then O-O-O would keep White solid.  The WK is now firmly set in the center of the board, which will allow for later attack."
+30,Nc5,d7c5,r2q1rk1/pp4p1/2pb3p/2n1pp2/2P1P3/2N2P1N/P1PP2PP/R1B1KR2 w Q - 2 16,"The first consequence of the centered King.  
+Notice how this Queen move could not be played if White developed his KN to the stronger square KB3/f3."
+31,Ba3,c1a3,r2q1rk1/pp4p1/2pb3p/2n1pp2/2P1P3/B1N2P1N/P1PP2PP/R3KR2 b Q - 3 16,"The first consequence of the centered King.  
+Notice how this Queen move could not be played if White developed his KN to the stronger square KB3/f3."
+32,fxe4,f5e4,r2q1rk1/pp4p1/2pb3p/2n1p3/2P1p3/B1N2P1N/P1PP2PP/R3KR2 w Q - 0 17,"The first consequence of the centered King.  
+Notice how this Queen move could not be played if White developed his KN to the stronger square KB3/f3."
+33,fxe4,f3e4,r2q1rk1/pp4p1/2pb3p/2n1p3/2P1P3/B1N4N/P1PP2PP/R3KR2 b Q - 0 17,"The first consequence of the centered King.  
+Notice how this Queen move could not be played if White developed his KN to the stronger square KB3/f3."
+34,Qh4+,d8h4,r4rk1/pp4p1/2pb3p/2n1p3/2P1P2q/B1N4N/P1PP2PP/R3KR2 w Q - 1 18,"The first consequence of the centered King.  
+Notice how this Queen move could not be played if White developed his KN to the stronger square KB3/f3."
+35,Ke2,e1e2,r4rk1/pp4p1/2pb3p/2n1p3/2P1P2q/B1N4N/P1PPK1PP/R4R2 b - - 2 18,"A neat tactic to win a pawn, owing to the undefended WB."
+36,Nxe4,c5e4,r4rk1/pp4p1/2pb3p/4p3/2P1n2q/B1N4N/P1PPK1PP/R4R2 w - - 0 19,"A neat tactic to win a pawn, owing to the undefended WB."
+37,Bxd6,a3d6,r4rk1/pp4p1/2pB3p/4p3/2P1n2q/2N4N/P1PPK1PP/R4R2 b - - 0 19,Black continues to use simple tactics to remove White's pawn protection. If 21 PxN QxBPch 22 K-Q2 QR-Q1ch 23 K any QxN   regaining the Knight and capturing yet another pawn.
+38,Nxd6,e4d6,r4rk1/pp4p1/2pn3p/4p3/2P4q/2N4N/P1PPK1PP/R4R2 w - - 0 20,Black continues to use simple tactics to remove White's pawn protection. If 21 PxN QxBPch 22 K-Q2 QR-Q1ch 23 K any QxN   regaining the Knight and capturing yet another pawn.
+39,d3,d2d3,r4rk1/pp4p1/2pn3p/4p3/2P4q/2NP3N/P1P1K1PP/R4R2 b - - 0 20,Black continues to use simple tactics to remove White's pawn protection. If 21 PxN QxBPch 22 K-Q2 QR-Q1ch 23 K any QxN   regaining the Knight and capturing yet another pawn.
+40,Nxc4,d6c4,r4rk1/pp4p1/2p4p/4p3/2n4q/2NP3N/P1P1K1PP/R4R2 w - - 0 21,Black continues to use simple tactics to remove White's pawn protection. If 21 PxN QxBPch 22 K-Q2 QR-Q1ch 23 K any QxN   regaining the Knight and capturing yet another pawn.
+41,Ne4,c3e4,r4rk1/pp4p1/2p4p/4p3/2n1N2q/3P3N/P1P1K1PP/R4R2 b - - 1 21,"Centralizes the Knight, which is good, but also leaves White weak on the dark squares Q2/d2 and K3/e3.  This weakness will be exploited."
+42,Qg4+,h4g4,r4rk1/pp4p1/2p4p/4p3/2n1N1q1/3P3N/P1P1K1PP/R4R2 w - - 2 22,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+43,Rf3,f1f3,r4rk1/pp4p1/2p4p/4p3/2n1N1q1/3P1R1N/P1P1K1PP/R7 b - - 3 22,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+44,Qxg2+,g4g2,r4rk1/pp4p1/2p4p/4p3/2n1N3/3P1R1N/P1P1K1qP/R7 w - - 0 23,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+45,Rf2,f3f2,r4rk1/pp4p1/2p4p/4p3/2n1N3/3P3N/P1P1KRqP/R7 b - - 1 23,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+46,Qxh3,g2h3,r4rk1/pp4p1/2p4p/4p3/2n1N3/3P3q/P1P1KR1P/R7 w - - 0 24,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+47,Raf1,a1f1,r4rk1/pp4p1/2p4p/4p3/2n1N3/3P3q/P1P1KR1P/5R2 b - - 1 24,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+48,Rxf2+,f8f2,r5k1/pp4p1/2p4p/4p3/2n1N3/3P3q/P1P1Kr1P/5R2 w - - 0 25,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."
+49,Nxf2,e4f2,r5k1/pp4p1/2p4p/4p3/2n5/3P3q/P1P1KN1P/5R2 b - - 0 25,"RxR was needed to prevent mate, and to prevent the knight being pinned against the rook after R-KB1/f8."

@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Steinitz standard.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Italian Game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Italian Game.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Italian Game.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The Italian Game.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,The Italian Game.
+7,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4,"The standard (or ""book"") move, which aims to support playing d4."
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5,The most aggresive continuation. White is playing to maintain the tempo he has by virtue of having the first move of the game. Control of the center is the aim!
+9,d4,d2d4,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2BPP3/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 5,The most aggresive continuation. White is playing to maintain the tempo he has by virtue of having the first move of the game. Control of the center is the aim!
+10,exd4,e5d4,r1bqk2r/pppp1ppp/2n2n2/2b5/2BpP3/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 6,"Black strikes first, drawing first blood. This is the sound play."
+11,cxd4,c3d4,r1bqk2r/pppp1ppp/2n2n2/2b5/2BPP3/5N2/PP3PPP/RNBQK2R b KQkq - 0 6,"Regaining the material, and establishing a strong base of operations in the middle of the board."
+12,Bb4+,c5b4,r1bqk2r/pppp1ppp/2n2n2/8/1bBPP3/5N2/PP3PPP/RNBQK2R w KQkq - 1 7,"!? The most aggressive way to deal with the check. White opts to interpose with development. Safer, but far less sexy was [7.Bd2 Bxd2 8.Nbxd2 d5 9.exd5 Nxd5 10.Qb3!? Nce7] with even chances (albeit a little passive for white)."
+13,Nc3,b1c3,r1bqk2r/pppp1ppp/2n2n2/8/1bBPP3/2N2N2/PP3PPP/R1BQK2R b KQkq - 2 7,"!? The most aggressive way to deal with the check. White opts to interpose with development. Safer, but far less sexy was [7.Bd2 Bxd2 8.Nbxd2 d5 9.exd5 Nxd5 10.Qb3!? Nce7] with even chances (albeit a little passive for white)."
+14,d5,d7d5,r1bqk2r/ppp2ppp/2n2n2/3p4/1bBPP3/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 8,"?! Dubious, and condemned by many far more experienced than this lowly commentator. Modern theory suggests [7...Nxe4?! 8.0-0 Bxc3 (8...Nxc3!? 9.d5! The Moeller Attack)]."
+15,exd5,e4d5,r1bqk2r/ppp2ppp/2n2n2/3P4/1bBP4/2N2N2/PP3PPP/R1BQK2R b KQkq - 0 8,! White keeps up the pressure.
+16,Nxd5,f6d5,r1bqk2r/ppp2ppp/2n5/3n4/1bBP4/2N2N2/PP3PPP/R1BQK2R w KQkq - 0 9,"! from many including Kasparov. [9.Bxd5!? Qxd5 10.0-0 once again yields even, although passive chances for white]."
+17,O-O,e1g1,r1bqk2r/ppp2ppp/2n5/3n4/1bBP4/2N2N2/PP3PPP/R1BQ1RK1 b kq - 1 9,"! from many including Kasparov. [9.Bxd5!? Qxd5 10.0-0 once again yields even, although passive chances for white]."
+18,Be6,c8e6,r2qk2r/ppp2ppp/2n1b3/3n4/1bBP4/2N2N2/PP3PPP/R1BQ1RK1 w kq - 2 10,"! The best move. Black saw the danger of playing 9...Nxc3, as 10.bxc3 Bxc3 11.Bxf7 Kxf7 12.Qb3 ! Be6 13.Qxc3 yields a strong initiative for white."
+19,Bg5,c1g5,r2qk2r/ppp2ppp/2n1b3/3n2B1/1bBP4/2N2N2/PP3PPP/R2Q1RK1 b kq - 3 10,"Obviously I'm no Steinitz, but 10.Bd2 seems a little safer as the dark squared bishop can now be made to retreat if black plays h6."
+20,Be7,b4e7,r2qk2r/ppp1bppp/2n1b3/3n2B1/2BP4/2N2N2/PP3PPP/R2Q1RK1 w kq - 4 11,Black now sets the table for a feast of tactical captures.
+21,Bxd5,c4d5,r2qk2r/ppp1bppp/2n1b3/3B2B1/3P4/2N2N2/PP3PPP/R2Q1RK1 b kq - 0 11,White once again attempts to maintain his tempo.
+22,Bxd5,e6d5,r2qk2r/ppp1bppp/2n5/3b2B1/3P4/2N2N2/PP3PPP/R2Q1RK1 w kq - 0 12,White once again attempts to maintain his tempo.
+23,Nxd5,c3d5,r2qk2r/ppp1bppp/2n5/3N2B1/3P4/5N2/PP3PPP/R2Q1RK1 b kq - 0 12,White once again attempts to maintain his tempo.
+24,Qxd5,d8d5,r3k2r/ppp1bppp/2n5/3q2B1/3P4/5N2/PP3PPP/R2Q1RK1 w kq - 0 13,! Logical and strong! Black cannot castle now or his knight falls.
+25,Bxe7,g5e7,r3k2r/ppp1Bppp/2n5/3q4/3P4/5N2/PP3PPP/R2Q1RK1 b kq - 0 13,! Logical and strong! Black cannot castle now or his knight falls.
+26,Nxe7,c6e7,r3k2r/ppp1nppp/8/3q4/3P4/5N2/PP3PPP/R2Q1RK1 w kq - 0 14,! Logical and strong! Black cannot castle now or his knight falls.
+27,Re1,f1e1,r3k2r/ppp1nppp/8/3q4/3P4/5N2/PP3PPP/R2QR1K1 b kq - 1 14,! Logical and strong! Black cannot castle now or his knight falls.
+28,f6,f7f6,r3k2r/ppp1n1pp/5p2/3q4/3P4/5N2/PP3PPP/R2QR1K1 w kq - 0 15,"Steinitz loads up on the e file, preparing a potent battering ram."
+29,Qe2,d1e2,r3k2r/ppp1n1pp/5p2/3q4/3P4/5N2/PP2QPPP/R3R1K1 b kq - 1 15,"Steinitz loads up on the e file, preparing a potent battering ram."
+30,Qd7,d5d7,r3k2r/pppqn1pp/5p2/8/3P4/5N2/PP2QPPP/R3R1K1 w kq - 2 16,Black is now forced to retreat. Time for Steinitz to start turning up the heat.
+31,Rac1,a1c1,r3k2r/pppqn1pp/5p2/8/3P4/5N2/PP2QPPP/2R1R1K1 b kq - 3 16,"Solid looking, and it does sort of just feel right. But a subtle chink in the armor is detected by Steinitz."
+32,c6,c7c6,r3k2r/pp1qn1pp/2p2p2/8/3P4/5N2/PP2QPPP/2R1R1K1 w kq - 0 17,"Solid looking, and it does sort of just feel right. But a subtle chink in the armor is detected by Steinitz."
+33,d5,d4d5,r3k2r/pp1qn1pp/2p2p2/3P4/8/5N2/PP2QPPP/2R1R1K1 b kq - 0 17,!! The first move that sets up a combination that required incredible foresight. Steinitz opens up d4 for his knight.
+34,cxd5,c6d5,r3k2r/pp1qn1pp/5p2/3p4/8/5N2/PP2QPPP/2R1R1K1 w kq - 0 18,Black takes the bait.

@@ -1,0 +1,80 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The game starts here.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The game starts here.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The game starts here.
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,The game starts here.
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,The game starts here.
+6,dxc3,d4c3,rnbqkbnr/pppp1ppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,The game starts here.
+7,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1P3/2p5/PP3PPP/RNBQK1NR b KQkq - 1 4,The game starts here.
+8,cxb2,c3b2,rnbqkbnr/pppp1ppp/8/8/2B1P3/8/Pp3PPP/RNBQK1NR w KQkq - 0 5,The game starts here.
+9,Bxb2,c1b2,rnbqkbnr/pppp1ppp/8/8/2B1P3/8/PB3PPP/RN1QK1NR b KQkq - 0 5,The game starts here.
+10,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/2B1P3/8/PB3PPP/RN1QK1NR w KQkq - 0 6,I think this is best.
+11,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3P4/2B5/8/PB3PPP/RN1QK1NR b KQkq - 0 6,I would have taken with the bishop.
+12,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3P4/2B5/8/PB3PPP/RN1QK1NR w KQkq - 1 7,Chasing his queen.
+13,Qf3,d1f3,rnbqkb1r/ppp2ppp/5n2/3P4/2B5/5Q2/PB3PPP/RN2K1NR b KQkq - 2 7,Chasing his queen.
+14,Bg4,c8g4,rn1qkb1r/ppp2ppp/5n2/3P4/2B3b1/5Q2/PB3PPP/RN2K1NR w KQkq - 3 8,Chasing his queen.
+15,Bxf6,b2f6,rn1qkb1r/ppp2ppp/5B2/3P4/2B3b1/5Q2/P4PPP/RN2K1NR b KQkq - 0 8,"?? Blunder, he must have miscalculated."
+16,Bxf3,g4f3,rn1qkb1r/ppp2ppp/5B2/3P4/2B5/5b2/P4PPP/RN2K1NR w KQkq - 0 9,And he ends up down by three points. Now to just trade off the remaining material.
+17,Bxd8,f6d8,rn1Bkb1r/ppp2ppp/8/3P4/2B5/5b2/P4PPP/RN2K1NR b KQkq - 0 9,And he ends up down by three points. Now to just trade off the remaining material.
+18,Bxg2,f3g2,rn1Bkb1r/ppp2ppp/8/3P4/2B5/8/P4PbP/RN2K1NR w KQkq - 0 10,And he ends up down by three points. Now to just trade off the remaining material.
+19,Bxc7,d8c7,rn2kb1r/ppB2ppp/8/3P4/2B5/8/P4PbP/RN2K1NR b KQkq - 0 10,And he ends up down by three points. Now to just trade off the remaining material.
+20,Bxh1,g2h1,rn2kb1r/ppB2ppp/8/3P4/2B5/8/P4P1P/RN2K1Nb w Qkq - 0 11,And he ends up down by three points. Now to just trade off the remaining material.
+21,Bb5+,c4b5,rn2kb1r/ppB2ppp/8/1B1P4/8/8/P4P1P/RN2K1Nb b Qkq - 1 11,"I still have to be careful though, his pieces are swarming around me and that pawn looks dangerous."
+22,Ke7,e8e7,rn3b1r/ppB1kppp/8/1B1P4/8/8/P4P1P/RN2K1Nb w Q - 2 12,"I still have to be careful though, his pieces are swarming around me and that pawn looks dangerous."
+23,d6+,d5d6,rn3b1r/ppB1kppp/3P4/1B6/8/8/P4P1P/RN2K1Nb b Q - 0 12,"? I wouldn't have done this, it loses his passed pawn."
+24,Ke6,e7e6,rn3b1r/ppB2ppp/3Pk3/1B6/8/8/P4P1P/RN2K1Nb w Q - 1 13,"? I wouldn't have done this, it loses his passed pawn."
+25,Bc4+,b5c4,rn3b1r/ppB2ppp/3Pk3/8/2B5/8/P4P1P/RN2K1Nb b Q - 2 13,"? I wouldn't have done this, it loses his passed pawn."
+26,Kd7,e6d7,rn3b1r/ppBk1ppp/3P4/8/2B5/8/P4P1P/RN2K1Nb w Q - 3 14,"? I wouldn't have done this, it loses his passed pawn."
+27,Bxf7,c4f7,rn3b1r/ppBk1Bpp/3P4/8/8/8/P4P1P/RN2K1Nb b Q - 0 14,"? I wouldn't have done this, it loses his passed pawn."
+28,Bxd6,f8d6,rn5r/ppBk1Bpp/3b4/8/8/8/P4P1P/RN2K1Nb w Q - 0 15,"And my king is much more centralized for the endgame. This is a very interesting endgame, we both still have a knight undeveloped and it's only move 15. Some people might say it's still the middlegame, but I think it's the endgame."
+29,Bxd6,c7d6,rn5r/pp1k1Bpp/3B4/8/8/8/P4P1P/RN2K1Nb b Q - 0 15,"And my king is much more centralized for the endgame. This is a very interesting endgame, we both still have a knight undeveloped and it's only move 15. Some people might say it's still the middlegame, but I think it's the endgame."
+30,Kxd6,d7d6,rn5r/pp3Bpp/3k4/8/8/8/P4P1P/RN2K1Nb w Q - 0 16,"And my king is much more centralized for the endgame. This is a very interesting endgame, we both still have a knight undeveloped and it's only move 15. Some people might say it's still the middlegame, but I think it's the endgame."
+31,Nd2,b1d2,rn5r/pp3Bpp/3k4/8/8/8/P2N1P1P/R3K1Nb b Q - 1 16,Black has a huge advantage.
+32,Bd5,h1d5,rn5r/pp3Bpp/3k4/3b4/8/8/P2N1P1P/R3K1N1 w Q - 2 17,Black has a huge advantage.
+33,Bxd5,f7d5,rn5r/pp4pp/3k4/3B4/8/8/P2N1P1P/R3K1N1 b Q - 0 17,Black has a huge advantage.
+34,Kxd5,d6d5,rn5r/pp4pp/8/3k4/8/8/P2N1P1P/R3K1N1 w Q - 0 18,Black has a huge advantage.
+35,O-O-O,e1c1,rn5r/pp4pp/8/3k4/8/8/P2N1P1P/2KR2N1 b - - 1 18,Probably good as it gets his rook ready.
+36,Kc5,d5c5,rn5r/pp4pp/8/2k5/8/8/P2N1P1P/2KR2N1 w - - 2 19,"I wouldn't have done that, he should centralize."
+37,Nb3+,d2b3,rn5r/pp4pp/8/2k5/8/1N6/P4P1P/2KR2N1 b - - 3 19,"I wouldn't have done that, he should centralize."
+38,Kb5,c5b5,rn5r/pp4pp/8/1k6/8/1N6/P4P1P/2KR2N1 w - - 4 20,"I wouldn't have done that, he should centralize."
+39,Nd4+,b3d4,rn5r/pp4pp/8/1k6/3N4/8/P4P1P/2KR2N1 b - - 5 20,"I wouldn't have done that, he should centralize."
+40,Kb6,b5b6,rn5r/pp4pp/1k6/8/3N4/8/P4P1P/2KR2N1 w - - 6 21,"I wouldn't have done that, he should centralize."
+41,Kb1,c1b1,rn5r/pp4pp/1k6/8/3N4/8/P4P1P/1K1R2N1 b - - 7 21,"I wouldn't have done that, he should centralize."
+42,Nc6,b8c6,r6r/pp4pp/1kn5/8/3N4/8/P4P1P/1K1R2N1 w - - 8 22,Getting my rook out.
+43,Ngf3,g1f3,r6r/pp4pp/1kn5/8/3N4/5N2/P4P1P/1K1R4 b - - 9 22,Getting my rook out.
+44,Nxd4,c6d4,r6r/pp4pp/1k6/8/3n4/5N2/P4P1P/1K1R4 w - - 0 23,Getting my rook out.
+45,Rxd4,d1d4,r6r/pp4pp/1k6/8/3R4/5N2/P4P1P/1K6 b - - 0 23,Getting my rook out.
+46,Rhf8,h8f8,r4r2/pp4pp/1k6/8/3R4/5N2/P4P1P/1K6 w - - 1 24,Getting my rook out.
+47,Rd3,d4d3,r4r2/pp4pp/1k6/8/8/3R1N2/P4P1P/1K6 b - - 2 24,? Loses a pawn.
+48,Rad8,a8d8,3r1r2/pp4pp/1k6/8/8/3R1N2/P4P1P/1K6 w - - 3 25,? Loses a pawn.
+49,Rb3+,d3b3,3r1r2/pp4pp/1k6/8/8/1R3N2/P4P1P/1K6 b - - 4 25,? Loses a pawn.
+50,Kc6,b6c6,3r1r2/pp4pp/2k5/8/8/1R3N2/P4P1P/1K6 w - - 5 26,? Loses a pawn.
+51,Ne5+,f3e5,3r1r2/pp4pp/2k5/4N3/8/1R6/P4P1P/1K6 b - - 6 26,? Loses a pawn.
+52,Kd5,c6d5,3r1r2/pp4pp/8/3kN3/8/1R6/P4P1P/1K6 w - - 7 27,? Loses a pawn.
+53,Rb5+,b3b5,3r1r2/pp4pp/8/1R1kN3/8/8/P4P1P/1K6 b - - 8 27,? Loses a pawn.
+54,Ke6,d5e6,3r1r2/pp4pp/4k3/1R2N3/8/8/P4P1P/1K6 w - - 9 28,? Loses a pawn.
+55,a4,a2a4,3r1r2/pp4pp/4k3/1R2N3/P7/8/5P1P/1K6 b - - 0 28,? Loses a pawn.
+56,Rxf2,f8f2,3r4/pp4pp/4k3/1R2N3/P7/8/5r1P/1K6 w - - 0 29,I threaten mate.
+57,Kc1,b1c1,3r4/pp4pp/4k3/1R2N3/P7/8/5r1P/2K5 b - - 1 29,I threaten mate.
+58,Rdd2,d8d2,8/pp4pp/4k3/1R2N3/P7/8/3r1r1P/2K5 w - - 2 30,I threaten mate.
+59,Ng4,e5g4,8/pp4pp/4k3/1R6/P5N1/8/3r1r1P/2K5 b - - 3 30,I threaten mate.
+60,Rdc2+,d2c2,8/pp4pp/4k3/1R6/P5N1/8/2r2r1P/2K5 w - - 4 31,I threaten mate.
+61,Kb1,c1b1,8/pp4pp/4k3/1R6/P5N1/8/2r2r1P/1K6 b - - 5 31,I threaten mate.
+62,Rfe2,f2e2,8/pp4pp/4k3/1R6/P5N1/8/2r1r2P/1K6 w - - 6 32,I threaten mate.
+63,a5,a4a5,8/pp4pp/4k3/PR6/6N1/8/2r1r2P/1K6 b - - 0 32,I threaten mate.
+64,Rcd2,c2d2,8/pp4pp/4k3/PR6/6N1/8/3rr2P/1K6 w - - 1 33,I threaten mate.
+65,Kc1,b1c1,8/pp4pp/4k3/PR6/6N1/8/3rr2P/2K5 b - - 2 33,Trying to make his knight leave from the defense of the h pawn.
+66,Rda2,d2a2,8/pp4pp/4k3/PR6/6N1/8/r3r2P/2K5 w - - 3 34,Trying to make his knight leave from the defense of the h pawn.
+67,Kb1,c1b1,8/pp4pp/4k3/PR6/6N1/8/r3r2P/1K6 b - - 4 34,Trying to make his knight leave from the defense of the h pawn.
+68,Reg2,e2g2,8/pp4pp/4k3/PR6/6N1/8/r5rP/1K6 w - - 5 35,Trying to make his knight leave from the defense of the h pawn.
+69,Re5+,b5e5,8/pp4pp/4k3/P3R3/6N1/8/r5rP/1K6 b - - 6 35,?? Loses his knight.
+70,Kd6,e6d6,8/pp4pp/3k4/P3R3/6N1/8/r5rP/1K6 w - - 7 36,?? Loses his knight.
+71,Re4,e5e4,8/pp4pp/3k4/P7/4R1N1/8/r5rP/1K6 b - - 8 36,?? Loses his knight.
+72,Rxa5,a2a5,8/pp4pp/3k4/r7/4R1N1/8/6rP/1K6 w - - 0 37,?? Loses his knight.
+73,Rd4+,e4d4,8/pp4pp/3k4/r7/3R2N1/8/6rP/1K6 b - - 1 37,?? Loses his knight.
+74,Kc5,d6c5,8/pp4pp/8/r1k5/3R2N1/8/6rP/1K6 w - - 2 38,?? Loses his knight.
+75,Rd7,d4d7,8/pp1R2pp/8/r1k5/6N1/8/6rP/1K6 b - - 3 38,?? Loses his knight.
+76,Rxg4,g2g4,8/pp1R2pp/8/r1k5/6r1/8/7P/1K6 w - - 0 39,?? He got greedy.
+77,Rxb7,d7b7,8/pR4pp/8/r1k5/6r1/8/7P/1K6 b - - 0 39,?? He got greedy.
+78,Rb5+,a5b5,8/pR4pp/8/1rk5/6r1/8/7P/1K6 w - - 1 40,! Forces and exchange.
+79,Kc1,b1c1,8/pR4pp/8/1rk5/6r1/8/7P/2K5 b - - 2 40,?? I suppose this was his way of resigning.

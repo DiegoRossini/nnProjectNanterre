@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Indian Opening (according to Gameknot).
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Indian Opening (according to Gameknot).
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,Indian Opening (according to Gameknot).
+4,Qh4,d8h4,rnb1kbnr/pppp1ppp/8/4p3/4P2q/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3,? Overextension of the Queen
+5,Nf3,g1f3,rnb1kbnr/pppp1ppp/8/4p3/4P2q/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,Double-whammy: Queen threat + development.
+6,Qe7,h4e7,rnb1kbnr/ppppqppp/8/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 3 4,"? Let's waste time, shall we?"
+7,g3,g2g3,rnb1kbnr/ppppqppp/8/4p3/4P3/3P1NP1/PPP2P1P/RNBQKB1R b KQkq - 0 4,"? Let's waste time, shall we?"
+8,Qb4+,e7b4,rnb1kbnr/pppp1ppp/8/4p3/1q2P3/3P1NP1/PPP2P1P/RNBQKB1R w KQkq - 1 5,"? Let's waste time, shall we?"
+9,Nc3,b1c3,rnb1kbnr/pppp1ppp/8/4p3/1q2P3/2NP1NP1/PPP2P1P/R1BQKB1R b KQkq - 2 5,A free pawn?
+10,d5,d7d5,rnb1kbnr/ppp2ppp/8/3pp3/1q2P3/2NP1NP1/PPP2P1P/R1BQKB1R w KQkq - 0 6,A free pawn?
+11,Nxe5,f3e5,rnb1kbnr/ppp2ppp/8/3pN3/1q2P3/2NP2P1/PPP2P1P/R1BQKB1R b KQkq - 0 6,Center domination for White.
+12,dxe4,d5e4,rnb1kbnr/ppp2ppp/8/4N3/1q2p3/2NP2P1/PPP2P1P/R1BQKB1R w KQkq - 0 7,Center domination for White.
+13,dxe4,d3e4,rnb1kbnr/ppp2ppp/8/4N3/1q2P3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 7,Center domination for White.
+14,Nf6,g8f6,rnb1kb1r/ppp2ppp/5n2/4N3/1q2P3/2N3P1/PPP2P1P/R1BQKB1R w KQkq - 1 8,Looking for 8....Nxe4
+15,Bb5+,f1b5,rnb1kb1r/ppp2ppp/5n2/1B2N3/1q2P3/2N3P1/PPP2P1P/R1BQK2R b KQkq - 2 8,Answering an attack with an attack.
+16,c6,c7c6,rnb1kb1r/pp3ppp/2p2n2/1B2N3/1q2P3/2N3P1/PPP2P1P/R1BQK2R w KQkq - 0 9,Answering an attack with an attack.
+17,a3,a2a3,rnb1kb1r/pp3ppp/2p2n2/1B2N3/1q2P3/P1N3P1/1PP2P1P/R1BQK2R b KQkq - 0 9,Answering an attack with an attack.
+18,Qe7,b4e7,rnb1kb1r/pp2qppp/2p2n2/1B2N3/4P3/P1N3P1/1PP2P1P/R1BQK2R w KQkq - 1 10,Back to the good 'ole e7 square!
+19,Bc4,b5c4,rnb1kb1r/pp2qppp/2p2n2/4N3/2B1P3/P1N3P1/1PP2P1P/R1BQK2R b KQkq - 2 10,10. Bxf7! Qxf7 11. Nxe7 Kxe7
+20,Bg4,c8g4,rn2kb1r/pp2qppp/2p2n2/4N3/2B1P1b1/P1N3P1/1PP2P1P/R1BQK2R w KQkq - 3 11,A trade it is!
+21,f3,f2f3,rn2kb1r/pp2qppp/2p2n2/4N3/2B1P1b1/P1N2PP1/1PP4P/R1BQK2R b KQkq - 0 11,A trade it is!
+22,Be6,g4e6,rn2kb1r/pp2qppp/2p1bn2/4N3/2B1P3/P1N2PP1/1PP4P/R1BQK2R w KQkq - 1 12,A trade it is!
+23,Bxe6,c4e6,rn2kb1r/pp2qppp/2p1Bn2/4N3/4P3/P1N2PP1/1PP4P/R1BQK2R b KQkq - 0 12,A trade it is!
+24,Qxe6,e7e6,rn2kb1r/pp3ppp/2p1qn2/4N3/4P3/P1N2PP1/1PP4P/R1BQK2R w KQkq - 0 13,Protecting the e5 Knight.
+25,f4,f3f4,rn2kb1r/pp3ppp/2p1qn2/4N3/4PP2/P1N3P1/1PP4P/R1BQK2R b KQkq - 0 13,Protecting the e5 Knight.
+26,Qh3,e6h3,rn2kb1r/pp3ppp/2p2n2/4N3/4PP2/P1N3Pq/1PP4P/R1BQK2R w KQkq - 1 14,Curse the Black Knights!
+27,Na4,c3a4,rn2kb1r/pp3ppp/2p2n2/4N3/N3PP2/P5Pq/1PP4P/R1BQK2R b KQkq - 2 14,Bags a Knight.
+28,Qg2,h3g2,rn2kb1r/pp3ppp/2p2n2/4N3/N3PP2/P5P1/1PP3qP/R1BQK2R w KQkq - 3 15,Bags a Knight.
+29,Rf1,h1f1,rn2kb1r/pp3ppp/2p2n2/4N3/N3PP2/P5P1/1PP3qP/R1BQKR2 b Qkq - 4 15,Bags a Knight.
+30,Qxe4+,g2e4,rn2kb1r/pp3ppp/2p2n2/4N3/N3qP2/P5P1/1PP4P/R1BQKR2 w Qkq - 0 16,Bags a Knight.
+31,Kf2,e1f2,rn2kb1r/pp3ppp/2p2n2/4N3/N3qP2/P5P1/1PP2K1P/R1BQ1R2 b kq - 1 16,Preparing for a discovered check.
+32,Qxa4,e4a4,rn2kb1r/pp3ppp/2p2n2/4N3/q4P2/P5P1/1PP2K1P/R1BQ1R2 w kq - 0 17,Preparing for a discovered check.
+33,Re1,f1e1,rn2kb1r/pp3ppp/2p2n2/4N3/q4P2/P5P1/1PP2K1P/R1BQR3 b kq - 1 17,Preparing for a discovered check.
+34,Ng4+,f6g4,rn2kb1r/pp3ppp/2p5/4N3/q4Pn1/P5P1/1PP2K1P/R1BQR3 w kq - 2 18,? What was he thinking?
+35,Nxg4+,e5g4,rn2kb1r/pp3ppp/2p5/8/q4PN1/P5P1/1PP2K1P/R1BQR3 b kq - 0 18,"Discovered check, as planned, and picking up a Knight to boot."
+36,Be7,f8e7,rn2k2r/pp2bppp/2p5/8/q4PN1/P5P1/1PP2K1P/R1BQR3 w kq - 1 19,Doubling up for mate on e7.
+37,Qe2,d1e2,rn2k2r/pp2bppp/2p5/8/q4PN1/P5P1/1PP1QK1P/R1B1R3 b kq - 2 19,Doubling up for mate on e7.
+38,O-O,e8g8,rn3rk1/pp2bppp/2p5/8/q4PN1/P5P1/1PP1QK1P/R1B1R3 w - - 3 20,Escaping mate but
+39,Qxe7,e2e7,rn3rk1/pp2Qppp/2p5/8/q4PN1/P5P1/1PP2K1P/R1B1R3 b - - 0 20,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"
+40,Qxc2+,a4c2,rn3rk1/pp2Qppp/2p5/8/5PN1/P5P1/1Pq2K1P/R1B1R3 w - - 0 21,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"
+41,Kf1,f2f1,rn3rk1/pp2Qppp/2p5/8/5PN1/P5P1/1Pq4P/R1B1RK2 b - - 1 21,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"
+42,Qc4+,c2c4,rn3rk1/pp2Qppp/2p5/8/2q2PN1/P5P1/1P5P/R1B1RK2 w - - 2 22,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"
+43,Kg1,f1g1,rn3rk1/pp2Qppp/2p5/8/2q2PN1/P5P1/1P5P/R1B1R1K1 b - - 3 22,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"
+44,Na6,b8a6,r4rk1/pp2Qppp/n1p5/8/2q2PN1/P5P1/1P5P/R1B1R1K1 w - - 4 23,"It took a while for Black to move, but luckily he chose what he did or
+23. Qe8 Rxe8 24. Rxe8#
+but if he was smart
+23. Qe8 Na6"

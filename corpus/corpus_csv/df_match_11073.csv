@@ -1,0 +1,87 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The Smith-Morra gambit.  Usual continuation is 2...cxd4 3. c3 dxc3 4. Nxc3, where white sacrifices a pawn for fast development."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Smith-Morra gambit.  Usual continuation is 2...cxd4 3. c3 dxc3 4. Nxc3, where white sacrifices a pawn for fast development."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"The Smith-Morra gambit.  Usual continuation is 2...cxd4 3. c3 dxc3 4. Nxc3, where white sacrifices a pawn for fast development."
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Bringing the queen out this early is dubious.
+5,Qxd4,d1d4,rnbqkbnr/pp1ppppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,Bringing the queen out this early is dubious.
+6,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,"Now black is ahead in development, and the space in front of white's king is open."
+7,Qd1,d4d1,r1bqkbnr/pp1ppppp/2n5/8/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 2 4,"Now black is ahead in development, and the space in front of white's king is open."
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 3 5,I could have won a pawn with Nxe4.
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 4 5,I could have won a pawn with Nxe4.
+10,e6,e7e6,r1bqkb1r/pp1p1ppp/2n1pn2/8/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 6,I could have won a pawn with Nxe4.
+11,Nf3,g1f3,r1bqkb1r/pp1p1ppp/2n1pn2/8/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 6,I could have won a pawn with Nxe4.
+12,Bb4,f8b4,r1bqk2r/pp1p1ppp/2n1pn2/8/1b2P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 7,I could have won a pawn with Nxe4.
+13,Bb5,f1b5,r1bqk2r/pp1p1ppp/2n1pn2/1B6/1b2P3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 3 7,I could have won a pawn with Nxe4.
+14,O-O,e8g8,r1bq1rk1/pp1p1ppp/2n1pn2/1B6/1b2P3/2N2N2/PPP2PPP/R1BQK2R w KQ - 4 8,I could have won a pawn with Nxe4.
+15,O-O,e1g1,r1bq1rk1/pp1p1ppp/2n1pn2/1B6/1b2P3/2N2N2/PPP2PPP/R1BQ1RK1 b - - 5 8,I still could have won a pawn with Bxc3.
+16,d5,d7d5,r1bq1rk1/pp3ppp/2n1pn2/1B1p4/1b2P3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 9,I still could have won a pawn with Bxc3.
+17,e5,e4e5,r1bq1rk1/pp3ppp/2n1pn2/1B1pP3/1b6/2N2N2/PPP2PPP/R1BQ1RK1 b - - 0 9,Loses at least a pawn.
+18,Ne4,f6e4,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/1b2n3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 1 10,Loses at least a pawn.
+19,a3,a2a3,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/1b2n3/P1N2N2/1PP2PPP/R1BQ1RK1 b - - 0 10,Loses at least a pawn.
+20,Bxc3,b4c3,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/4n3/P1b2N2/1PP2PPP/R1BQ1RK1 w - - 0 11,? He should have recaptured.
+21,Qd3,d1d3,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/4n3/P1bQ1N2/1PP2PPP/R1B2RK1 b - - 1 11,? He should have recaptured.
+22,Ba5,c3a5,r1bq1rk1/pp3ppp/2n1p3/bB1pP3/4n3/P2Q1N2/1PP2PPP/R1B2RK1 w - - 2 12,White wisely declines the exchange.
+23,b4,b2b4,r1bq1rk1/pp3ppp/2n1p3/bB1pP3/1P2n3/P2Q1N2/2P2PPP/R1B2RK1 b - - 0 12,White wisely declines the exchange.
+24,Bb6,a5b6,r1bq1rk1/pp3ppp/1bn1p3/1B1pP3/1P2n3/P2Q1N2/2P2PPP/R1B2RK1 w - - 1 13,White wisely declines the exchange.
+25,Be3,c1e3,r1bq1rk1/pp3ppp/1bn1p3/1B1pP3/1P2n3/P2QBN2/2P2PPP/R4RK1 b - - 2 13,White wisely declines the exchange.
+26,Bxe3,b6e3,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/1P2n3/P2QbN2/2P2PPP/R4RK1 w - - 0 14,White wisely declines the exchange.
+27,Qxe3,d3e3,r1bq1rk1/pp3ppp/2n1p3/1B1pP3/1P2n3/P3QN2/2P2PPP/R4RK1 b - - 0 14,White wisely declines the exchange.
+28,f6,f7f6,r1bq1rk1/pp4pp/2n1pp2/1B1pP3/1P2n3/P3QN2/2P2PPP/R4RK1 w - - 0 15,White wisely declines the exchange.
+29,Bd3,b5d3,r1bq1rk1/pp4pp/2n1pp2/3pP3/1P2n3/P2BQN2/2P2PPP/R4RK1 b - - 1 15,White wisely declines the exchange.
+30,fxe5,f6e5,r1bq1rk1/pp4pp/2n1p3/3pp3/1P2n3/P2BQN2/2P2PPP/R4RK1 w - - 0 16,White wisely declines the exchange.
+31,Bxe4,d3e4,r1bq1rk1/pp4pp/2n1p3/3pp3/1P2B3/P3QN2/2P2PPP/R4RK1 b - - 0 16,White wisely declines the exchange.
+32,dxe4,d5e4,r1bq1rk1/pp4pp/2n1p3/4p3/1P2p3/P3QN2/2P2PPP/R4RK1 w - - 0 17,White wisely declines the exchange.
+33,Qxe4,e3e4,r1bq1rk1/pp4pp/2n1p3/4p3/1P2Q3/P4N2/2P2PPP/R4RK1 b - - 0 17,White wisely declines the exchange.
+34,Qd5,d8d5,r1b2rk1/pp4pp/2n1p3/3qp3/1P2Q3/P4N2/2P2PPP/R4RK1 w - - 1 18,White wisely declines the exchange.
+35,Qh4,e4h4,r1b2rk1/pp4pp/2n1p3/3qp3/1P5Q/P4N2/2P2PPP/R4RK1 b - - 2 18,White wisely declines the exchange.
+36,e4,e5e4,r1b2rk1/pp4pp/2n1p3/3q4/1P2p2Q/P4N2/2P2PPP/R4RK1 w - - 0 19,The white knight was defending two potential threats against c2: Nd4 and Qd2.
+37,Ng5,f3g5,r1b2rk1/pp4pp/2n1p3/3q2N1/1P2p2Q/P7/2P2PPP/R4RK1 b - - 1 19,"Nice multiple attack: e6 is well defended, but not e4 or h7."
+38,h6,h7h6,r1b2rk1/pp4p1/2n1p2p/3q2N1/1P2p2Q/P7/2P2PPP/R4RK1 w - - 0 20,"In my initial analysis I thought e4 was safe: 20. Nxe4 g5
+21. Qg4 e5 and I saw no way for the queen to protect the knight."
+39,Nxe4,g5e4,r1b2rk1/pp4p1/2n1p2p/3q4/1P2N2Q/P7/2P2PPP/R4RK1 b - - 0 20,I missed this move.
+40,g5,g7g5,r1b2rk1/pp6/2n1p2p/3q2p1/1P2N2Q/P7/2P2PPP/R4RK1 w - - 0 21,I missed this move.
+41,Qg4,h4g4,r1b2rk1/pp6/2n1p2p/3q2p1/1P2N1Q1/P7/2P2PPP/R4RK1 b - - 1 21,I missed this move.
+42,e5,e6e5,r1b2rk1/pp6/2n4p/3qp1p1/1P2N1Q1/P7/2P2PPP/R4RK1 w - - 0 22,I missed this move.
+43,Qe2,g4e2,r1b2rk1/pp6/2n4p/3qp1p1/1P2N3/P7/2P1QPPP/R4RK1 b - - 1 22,I missed this move.
+44,Nd4,c6d4,r1b2rk1/pp6/7p/3qp1p1/1P1nN3/P7/2P1QPPP/R4RK1 w - - 2 23,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+45,Qd3,e2d3,r1b2rk1/pp6/7p/3qp1p1/1P1nN3/P2Q4/2P2PPP/R4RK1 b - - 3 23,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+46,Bf5,c8f5,r4rk1/pp6/7p/3qpbp1/1P1nN3/P2Q4/2P2PPP/R4RK1 w - - 4 24,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+47,Rfe1,f1e1,r4rk1/pp6/7p/3qpbp1/1P1nN3/P2Q4/2P2PPP/R3R1K1 b - - 5 24,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+48,Rac8,a8c8,2r2rk1/pp6/7p/3qpbp1/1P1nN3/P2Q4/2P2PPP/R3R1K1 w - - 6 25,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+49,Rad1,a1d1,2r2rk1/pp6/7p/3qpbp1/1P1nN3/P2Q4/2P2PPP/3RR1K1 b - - 7 25,"I thought this left the c2 pawn underdefended, but missed the discovered pin."
+50,Rxc2,c8c2,5rk1/pp6/7p/3qpbp1/1P1nN3/P2Q4/2r2PPP/3RR1K1 w - - 0 26,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+51,Qxc2,d3c2,5rk1/pp6/7p/3qpbp1/1P1nN3/P7/2Q2PPP/3RR1K1 b - - 0 26,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+52,Nxc2,d4c2,5rk1/pp6/7p/3qpbp1/1P2N3/P7/2n2PPP/3RR1K1 w - - 0 27,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+53,Rxd5,d1d5,5rk1/pp6/7p/3Rpbp1/1P2N3/P7/2n2PPP/4R1K1 b - - 0 27,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+54,Nxe1,c2e1,5rk1/pp6/7p/3Rpbp1/1P2N3/P7/5PPP/4n1K1 w - - 0 28,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+55,Nd6,e4d6,5rk1/pp6/3N3p/3Rpbp1/1P6/P7/5PPP/4n1K1 b - - 1 28,"The dust settles and I did gain a pawn.
+He decides to make multiple threats rather than get a pawn immediately with Rxe5."
+56,Nc2,e1c2,5rk1/pp6/3N3p/3Rpbp1/1P6/P7/2n2PPP/6K1 w - - 2 29,"Certainly not 28...Rd8? 29. Nxf5 Rxd5 30. Ne7 !
+This avoids a fork after Rxe5, as well as attacking a3."
+57,h3,h2h3,5rk1/pp6/3N3p/3Rpbp1/1P6/P6P/2n2PP1/6K1 b - - 0 29,"As it turns out, this is a poor move."
+58,Nxa3,c2a3,5rk1/pp6/3N3p/3Rpbp1/1P6/n6P/5PP1/6K1 w - - 0 30,"As it turns out, this is a poor move."
+59,Rxe5,d5e5,5rk1/pp6/3N3p/4Rbp1/1P6/n6P/5PP1/6K1 b - - 0 30,"As it turns out, this is a poor move."
+60,Bc8,f5c8,2b2rk1/pp6/3N3p/4R1p1/1P6/n6P/5PP1/6K1 w - - 1 31,"As it turns out, this is a poor move."
+61,Re3,e5e3,2b2rk1/pp6/3N3p/6p1/1P6/n3R2P/5PP1/6K1 b - - 2 31,"? I missed the combination 32. Nxc8 Rxc8 33. Rxa3
+31...Nc2 Rc3 32. Nxb4 Nxc8 at least would have gained a pawn.
+31...Nb1 also doesn't work well, after 32. Rb3 Nd2 33. Rd3 Nf3  (Nb1 34. Rb3 repeats the position) 34. gxf3 Bxh3 35. Nxb7"
+62,Rd8,f8d8,2br2k1/pp6/3N3p/6p1/1P6/n3R2P/5PP1/6K1 w - - 3 32,"? I missed the combination 32. Nxc8 Rxc8 33. Rxa3
+31...Nc2 Rc3 32. Nxb4 Nxc8 at least would have gained a pawn.
+31...Nb1 also doesn't work well, after 32. Rb3 Nd2 33. Rd3 Nf3  (Nb1 34. Rb3 repeats the position) 34. gxf3 Bxh3 35. Nxb7"
+63,Nxc8,d6c8,2Nr2k1/pp6/7p/6p1/1P6/n3R2P/5PP1/6K1 b - - 0 32,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+64,Rxc8,d8c8,2r3k1/pp6/7p/6p1/1P6/n3R2P/5PP1/6K1 w - - 0 33,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+65,Rxa3,e3a3,2r3k1/pp6/7p/6p1/1P6/R6P/5PP1/6K1 b - - 0 33,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+66,a6,a7a6,2r3k1/1p6/p6p/6p1/1P6/R6P/5PP1/6K1 w - - 0 34,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+67,Rd3,a3d3,2r3k1/1p6/p6p/6p1/1P6/3R3P/5PP1/6K1 b - - 1 34,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+68,Rc1+,c8c1,6k1/1p6/p6p/6p1/1P6/3R3P/5PP1/2r3K1 w - - 2 35,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+69,Kh2,g1h2,6k1/1p6/p6p/6p1/1P6/3R3P/5PPK/2r5 b - - 3 35,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+70,Kf8,g8f8,5k2/1p6/p6p/6p1/1P6/3R3P/5PPK/2r5 w - - 4 36,"Preventing 36. Rd8  Kf7 37. Rd7  followed by Rxb7, but b5 would have done this as well."
+71,Rd7,d3d7,5k2/1p1R4/p6p/6p1/1P6/7P/5PPK/2r5 b - - 5 36,The only other option I could see was 36...b5 37. Rd6 Rc4 38. Rxa6 Rxb4 39. Rxh6
+72,Rc2,c1c2,5k2/1p1R4/p6p/6p1/1P6/7P/2r2PPK/8 w - - 6 37,The only other option I could see was 36...b5 37. Rd6 Rc4 38. Rxa6 Rxb4 39. Rxh6
+73,f3,f2f3,5k2/1p1R4/p6p/6p1/1P6/5P1P/2r3PK/8 b - - 0 37,"Well, that's the only option I see now."
+74,b5,b7b5,5k2/3R4/p6p/1p4p1/1P6/5P1P/2r3PK/8 w - - 0 38,"Well, that's the only option I see now."

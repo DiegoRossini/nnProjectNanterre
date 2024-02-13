@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Book so far.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Book so far.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Book so far.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Book so far.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Book so far.
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Unnecessarily blocks in the KB and cramps Black's position. 3... B-B4 is the correct move.
+7,O-O,e1g1,r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 4,"Bernstein, quite properly, tucks away his King befor engaging in complications."
+8,Nge7,g8e7,r1bqkb1r/ppp1nppp/2np4/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 5,"Another bad move. 4... N-B3, or even 4... N-R3 to add extra protection to the KBP, would allow 5... B-K2 and 6... O-O, getting the King to a relatively safe spot."
+9,Ng5,f3g5,r1bqkb1r/ppp1nppp/2np4/4p1N1/2B1P3/8/PPPP1PPP/RNBQ1RK1 b kq - 3 5,"Bernstein takes immediate advantage, pressuring KB7 at once."
+10,f6,f7f6,r1bqkb1r/ppp1n1pp/2np1p2/4p1N1/2B1P3/8/PPPP1PPP/RNBQ1RK1 w kq - 0 6,Opening the diagonal fully for the Bishop and ensuring his King will never have a safe haven.
+11,Bf7+,c4f7,r1bqkb1r/ppp1nBpp/2np1p2/4p1N1/4P3/8/PPPP1PPP/RNBQ1RK1 b kq - 1 6,Forcing the monarch to bestir himself.
+12,Kd7,e8d7,r1bq1b1r/pppknBpp/2np1p2/4p1N1/4P3/8/PPPP1PPP/RNBQ1RK1 w - - 2 7,The only square.
+13,Qg4+,d1g4,r1bq1b1r/pppknBpp/2np1p2/4p1N1/4P1Q1/8/PPPP1PPP/RNB2RK1 b - - 3 7,Adding force to the attack.
+14,f5,f6f5,r1bq1b1r/pppknBpp/2np4/4ppN1/4P1Q1/8/PPPP1PPP/RNB2RK1 w - - 0 8,"7... N-B4 isn't any better. Black's position is shattered already, just 7 moves in."
+15,exf5,e4f5,r1bq1b1r/pppknBpp/2np4/4pPN1/6Q1/8/PPPP1PPP/RNB2RK1 b - - 0 8,Setting up a vicious discovery.
+16,h5,h7h5,r1bq1b1r/pppknBp1/2np4/4pPNp/6Q1/8/PPPP1PPP/RNB2RK1 w - - 0 9,"White could win slowly with 9 BxRP, or quickly with..."
+17,f6+,f5f6,r1bq1b1r/pppknBp1/2np1P2/4p1Np/6Q1/8/PPPP1PPP/RNB2RK1 b - - 0 9,...this move.
+18,hxg4,h5g4,r1bq1b1r/pppknBp1/2np1P2/4p1N1/6p1/8/PPPP1PPP/RNB2RK1 w - - 0 10,"In spite of removing the Q, Black is still mated in 2 moves."
+19,Be6+,f7e6,r1bq1b1r/pppkn1p1/2npBP2/4p1N1/6p1/8/PPPP1PPP/RNB2RK1 b - - 1 10,Forcing the King to...
+20,Ke8,d7e8,r1bqkb1r/ppp1n1p1/2npBP2/4p1N1/6p1/8/PPPP1PPP/RNB2RK1 w - - 2 11,"...this square, where..."
+21,f7#,f6f7,r1bqkb1r/ppp1nPp1/2npB3/4p1N1/6p1/8/PPPP1PPP/RNB2RK1 b - - 0 11,...this Pawn finishes the game with a flourish.

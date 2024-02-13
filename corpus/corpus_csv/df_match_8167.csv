@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d3,d2d3,rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I've done this annotation to try to work out what went wrong in this game for me (black), any comments would be appreciated"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/3P4/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I chose this move as it seemed an interesting option, white seems fairly passive to me and this seemed to help me gain the initiative"
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"I chose this move as it seemed an interesting option, white seems fairly passive to me and this seemed to help me gain the initiative"
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/8/3P1N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"I chose this move as it seemed an interesting option, white seems fairly passive to me and this seemed to help me gain the initiative"
+5,Na3,b1a3,rnbqkbnr/pp2pppp/8/2pp4/8/N2P1N2/PPP1PPPP/R1BQKB1R b KQkq - 1 3,"This move takes us out of the Gameknot database. Generally speaking it's not a good position for any knight to be on the edge of a board, in this case the knight seems to be doing nothing"
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2pp4/8/N2P1N2/PPP1PPPP/R1BQKB1R w KQkq - 2 4,"Normal development. Looking to castle on the kings side, this move also helps discourage Bg5 a little"
+7,e3,e2e3,rnbqkb1r/pp2pppp/5n2/2pp4/8/N2PPN2/PPP2PPP/R1BQKB1R b KQkq - 0 4,"Another fairly passive move, white's bishops now have little scope for movement. I am expecting g3 followed by Bg2 at some point"
+8,Nc6,b8c6,r1bqkb1r/pp2pppp/2n2n2/2pp4/8/N2PPN2/PPP2PPP/R1BQKB1R w KQkq - 1 5,"Standard development, starting to think about the possibility of Qa5 and what if anything I might gain from it"
+9,Bd2,c1d2,r1bqkb1r/pp2pppp/2n2n2/2pp4/8/N2PPN2/PPPB1PPP/R2QKB1R b KQkq - 2 5,White appears to be looking to castle queen side
+10,e5,e7e5,r1bqkb1r/pp3ppp/2n2n2/2ppp3/8/N2PPN2/PPPB1PPP/R2QKB1R w KQkq - 0 6,"Lays a stronger claim on the centre, I also prefer this to e6 which restricts my lsb too much"
+11,Ng5,f3g5,r1bqkb1r/pp3ppp/2n2n2/2ppp1N1/8/N2PP3/PPPB1PPP/R2QKB1R b KQkq - 1 6,"An early attack by white, this also opens the diagonal to h5 for the white queen"
+12,Bg4,c8g4,r2qkb1r/pp3ppp/2n2n2/2ppp1N1/6b1/N2PP3/PPPB1PPP/R2QKB1R w KQkq - 2 7,"This is a poor move from white for a number of reasons. Firstly it pushes my bishop to h5  where I wanted it anyway, secondly it weakens the kingside pawn structure if white castles on that side. Finally it restricts the movement of the g5 knight, it's only safe spot is now h3
+
+Better was Be2"
+13,f3,f2f3,r2qkb1r/pp3ppp/2n2n2/2ppp1N1/6b1/N2PPP2/PPPB2PP/R2QKB1R b KQkq - 0 7,"This is a poor move from white for a number of reasons. Firstly it pushes my bishop to h5  where I wanted it anyway, secondly it weakens the kingside pawn structure if white castles on that side. Finally it restricts the movement of the g5 knight, it's only safe spot is now h3
+
+Better was Be2"
+14,Bh5,g4h5,r2qkb1r/pp3ppp/2n2n2/2ppp1Nb/8/N2PPP2/PPPB2PP/R2QKB1R w KQkq - 1 8,weakens the white pawn structure even further
+15,g4,g2g4,r2qkb1r/pp3ppp/2n2n2/2ppp1Nb/6P1/N2PPP2/PPPB3P/R2QKB1R b KQkq - 0 8,weakens the white pawn structure even further
+16,Bg6,h5g6,r2qkb1r/pp3ppp/2n2nb1/2ppp1N1/6P1/N2PPP2/PPPB3P/R2QKB1R w KQkq - 1 9,"White has forced my bishop into a better position, I am happy with it here, if needed h6 can create a safe hole for it and push the white knight to the side of the board"
+17,Rg1,h1g1,r2qkb1r/pp3ppp/2n2nb1/2ppp1N1/6P1/N2PPP2/PPPB3P/R2QKBR1 b Qkq - 2 9,"I cannot see the point of this move, it seems to achieve nothing, better would be something like Qe2 to allow white to castle, however with the benefit of hindsight white made good use of this position with his rook"
+18,h6,h7h6,r2qkb1r/pp3pp1/2n2nbp/2ppp1N1/6P1/N2PPP2/PPPB3P/R2QKBR1 w Qkq - 0 10,"This move may be a bit premature at the time I wasn't clear which side I would prefer to castle on and this was an attempt to make the kings side a safer option, would I have been better with Be7  or Bd6 or to move my queen, say to b6?"
+19,Nh3,g5h3,r2qkb1r/pp3pp1/2n2nbp/2ppp3/6P1/N2PPP1N/PPPB3P/R2QKBR1 b Qkq - 1 10,white now has both knights stuck at the edge of the board
+20,Bd6,f8d6,r2qk2r/pp3pp1/2nb1nbp/2ppp3/6P1/N2PPP1N/PPPB3P/R2QKBR1 w Qkq - 2 11,With hindsight e7 would be a much better place for this bishop.
+21,e4,e3e4,r2qk2r/pp3pp1/2nb1nbp/2ppp3/4P1P1/N2P1P1N/PPPB3P/R2QKBR1 b Qkq - 0 11,"I am now ready to castle on either side, whites previous move doesn't worry me unduly, I would be happy with exd5 Nxd5. Looking at it now, Qb6 seems better"
+22,Qd7,d8d7,r3k2r/pp1q1pp1/2nb1nbp/2ppp3/4P1P1/N2P1P1N/PPPB3P/R2QKBR1 w Qkq - 1 12,"I am now ready to castle on either side, whites previous move doesn't worry me unduly, I would be happy with exd5 Nxd5. Looking at it now, Qb6 seems better"
+23,exd5,e4d5,r3k2r/pp1q1pp1/2nb1nbp/2pPp3/6P1/N2P1P1N/PPPB3P/R2QKBR1 b Qkq - 0 12,I cannot recall why I did this and it still doesn't seem any better than Nxd5
+24,Ne7,c6e7,r3k2r/pp1qnpp1/3b1nbp/2pPp3/6P1/N2P1P1N/PPPB3P/R2QKBR1 w Qkq - 1 13,I cannot recall why I did this and it still doesn't seem any better than Nxd5
+25,c4,c2c4,r3k2r/pp1qnpp1/3b1nbp/2pPp3/2P3P1/N2P1P1N/PP1B3P/R2QKBR1 b Qkq - 0 13,I think white does the right thing with this move.
+26,Nc8,e7c8,r1n1k2r/pp1q1pp1/3b1nbp/2pPp3/2P3P1/N2P1P1N/PP1B3P/R2QKBR1 w Qkq - 1 14,heading to b6

@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This was my first win over the casual level computer(I kept making tactical mistakes), so I decided to share it.
+
+
+My favorite opening move."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Heading for the French Defense.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Standard French Defense.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"d5 is usual, but Nf6 is also fine."
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,Threatening to kick the knight back to g8 with e5.  d4 immediately would allow Nd4 and Black could defend Qd3 (or Bd3) with d5.  If exd6 e.p. then Nxd6 regains the pawn and puts the knight on a safe post.
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4,Pinning the knight and preparing to meet e5 with Ne4.
+7,Bd3,f1d3,rnbqk2r/pppp1ppp/4pn2/8/1b1PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 4 4,"Protects e4, and starts threat of e5 all over again.  Bxc3 is not bad for white, because the b pawn will be doubled toward the center."
+8,d5,d7d5,rnbqk2r/ppp2ppp/4pn2/3p4/1b1PP3/2NB4/PPP2PPP/R1BQK1NR w KQkq - 0 5,"Getting a stake of the center, and threating to win a pawn by dxe5.  However, the d5 square for the knight is now blocked."
+9,e5,e4e5,rnbqk2r/ppp2ppp/4pn2/3pP3/1b1P4/2NB4/PPP2PPP/R1BQK1NR b KQkq - 0 5,Logical pawn push to displace the knight.
+10,Ne4,f6e4,rnbqk2r/ppp2ppp/4p3/3pP3/1b1Pn3/2NB4/PPP2PPP/R1BQK1NR w KQkq - 1 6,"This threatens to win a pawn after exchances on c3, but if Bxe4 dxe4 the d pawn might be easily won."
+11,Bxe4,d3e4,rnbqk2r/ppp2ppp/4p3/3pP3/1b1PB3/2N5/PPP2PPP/R1BQK1NR b KQkq - 0 6,Exchanging bishop for knight to give black a weak doubled pawn.
+12,dxe4,d5e4,rnbqk2r/ppp2ppp/4p3/4P3/1b1Pp3/2N5/PPP2PPP/R1BQK1NR w KQkq - 0 7,"Forced, unless black wants to trade off his bishop for knight with check."
+13,Be3,c1e3,rnbqk2r/ppp2ppp/4p3/4P3/1b1Pp3/2N1B3/PPP2PPP/R2QK1NR b KQkq - 1 7,Supporting the base of the pawn chain.  Nge3 might have been better.
+14,Nc6,b8c6,r1bqk2r/ppp2ppp/2n1p3/4P3/1b1Pp3/2N1B3/PPP2PPP/R2QK1NR w KQkq - 2 8,Developing a piece.
+15,Nge2,g1e2,r1bqk2r/ppp2ppp/2n1p3/4P3/1b1Pp3/2N1B3/PPP1NPPP/R2QK2R b KQkq - 3 8,"Finally playing Nge3, with the idea of a3 and castling soon after."
+16,O-O,e8g8,r1bq1rk1/ppp2ppp/2n1p3/4P3/1b1Pp3/2N1B3/PPP1NPPP/R2QK2R w KQ - 4 9,"Castling, but allows white to play a3."
+17,a3,a2a3,r1bq1rk1/ppp2ppp/2n1p3/4P3/1b1Pp3/P1N1B3/1PP1NPPP/R2QK2R b KQ - 0 9,Chasing the bishop.
+18,Bxc3+,b4c3,r1bq1rk1/ppp2ppp/2n1p3/4P3/3Pp3/P1b1B3/1PP1NPPP/R2QK2R w KQ - 0 10,"This is black's first real mistake.  After Nxc3, there is no way black can protect his e4 pawn (if f5 then exf6 e.p.)  Ba5 was better."
+19,Nxc3,e2c3,r1bq1rk1/ppp2ppp/2n1p3/4P3/3Pp3/P1N1B3/1PP2PPP/R2QK2R b KQ - 0 10,Recapturing the piece and attacking the e4 pawn.
+20,f6,f7f6,r1bq1rk1/ppp3pp/2n1pp2/4P3/3Pp3/P1N1B3/1PP2PPP/R2QK2R w KQ - 0 11,Trying to hold on to the e4 pawn.

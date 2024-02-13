@@ -1,0 +1,113 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+7,g3,g2g3,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+8,Ba6,c8a6,rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+9,b3,b2b3,rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/1P3NP1/P3PP1P/RNBQKB1R b KQkq - 0 5,"The Queen's Indian defence. Usually, this ends up in equalized games, very well analyzed. In this game with Black, I tried to fight for the initiative with a new move."
+10,Ne4,f6e4,rn1qkb1r/p1pp1ppp/bp2p3/8/2PPn3/1P3NP1/P3PP1P/RNBQKB1R w KQkq - 1 6,"A new move! Why should Black not move the Knight into the center, with a delayed d5.
+White must take care because the plan 7. Bg2 followed by 8. 0-0 is countered by Black with 9. .. f5.
+
+Other possibilities were 5. .. d5 or 5 .. Bb4, but both alternatives are known and have been discussed recently (e.g. http://www.chesspublishing.com/content/10/index.htm#qui)"
+11,a3,a2a3,rn1qkb1r/p1pp1ppp/bp2p3/8/2PPn3/PP3NP1/4PP1P/RNBQKB1R b KQkq - 0 6,Black prepares castling.
+12,Be7,f8e7,rn1qk2r/p1ppbppp/bp2p3/8/2PPn3/PP3NP1/4PP1P/RNBQKB1R w KQkq - 1 7,Black prepares castling.
+13,Bg2,f1g2,rn1qk2r/p1ppbppp/bp2p3/8/2PPn3/PP3NP1/4PPBP/RNBQK2R b KQkq - 2 7,And so is White.
+14,d5,d7d5,rn1qk2r/p1p1bppp/bp2p3/3p4/2PPn3/PP3NP1/4PPBP/RNBQK2R w KQkq - 0 8,Required move if White plans Nc3 - The black Knight on e4 is looking for quick exchange.
+15,O-O,e1g1,rn1qk2r/p1p1bppp/bp2p3/3p4/2PPn3/PP3NP1/4PPBP/RNBQ1RK1 b kq - 1 8,Required move if White plans Nc3 - The black Knight on e4 is looking for quick exchange.
+16,O-O,e8g8,rn1q1rk1/p1p1bppp/bp2p3/3p4/2PPn3/PP3NP1/4PPBP/RNBQ1RK1 w - - 2 9,Required move if White plans Nc3 - The black Knight on e4 is looking for quick exchange.
+17,Bb2,c1b2,rn1q1rk1/p1p1bppp/bp2p3/3p4/2PPn3/PP3NP1/1B2PPBP/RN1Q1RK1 b - - 3 9,Required move if White plans Nc3 - The black Knight on e4 is looking for quick exchange.
+18,f5,f7f5,rn1q1rk1/p1p1b1pp/bp2p3/3p1p2/2PPn3/PP3NP1/1B2PPBP/RN1Q1RK1 w - - 0 10,"! The center is under Black's control, but White is going for a Knight combination. No less than five Knight moves follow."
+19,Ne5,f3e5,rn1q1rk1/p1p1b1pp/bp2p3/3pNp2/2PPn3/PP4P1/1B2PPBP/RN1Q1RK1 b - - 1 10,"After the Knight exchange combination, White has a small advantage for now."
+20,Nd7,b8d7,r2q1rk1/p1pnb1pp/bp2p3/3pNp2/2PPn3/PP4P1/1B2PPBP/RN1Q1RK1 w - - 2 11,"After the Knight exchange combination, White has a small advantage for now."
+21,Nc6,e5c6,r2q1rk1/p1pnb1pp/bpN1p3/3p1p2/2PPn3/PP4P1/1B2PPBP/RN1Q1RK1 b - - 3 11,"After the Knight exchange combination, White has a small advantage for now."
+22,Qe8,d8e8,r3qrk1/p1pnb1pp/bpN1p3/3p1p2/2PPn3/PP4P1/1B2PPBP/RN1Q1RK1 w - - 4 12,"After the Knight exchange combination, White has a small advantage for now."
+23,Nc3,b1c3,r3qrk1/p1pnb1pp/bpN1p3/3p1p2/2PPn3/PPN3P1/1B2PPBP/R2Q1RK1 b - - 5 12,"After the Knight exchange combination, White has a small advantage for now."
+24,Ndf6,d7f6,r3qrk1/p1p1b1pp/bpN1pn2/3p1p2/2PPn3/PPN3P1/1B2PPBP/R2Q1RK1 w - - 6 13,"After the Knight exchange combination, White has a small advantage for now."
+25,Nxe7+,c6e7,r3qrk1/p1p1N1pp/bp2pn2/3p1p2/2PPn3/PPN3P1/1B2PPBP/R2Q1RK1 b - - 0 13,"After the Knight exchange combination, White has a small advantage for now."
+26,Qxe7,e8e7,r4rk1/p1p1q1pp/bp2pn2/3p1p2/2PPn3/PPN3P1/1B2PPBP/R2Q1RK1 w - - 0 14,"After the Knight exchange combination, White has a small advantage for now."
+27,Nxe4,c3e4,r4rk1/p1p1q1pp/bp2pn2/3p1p2/2PPN3/PP4P1/1B2PPBP/R2Q1RK1 b - - 0 14,"After the Knight exchange combination, White has a small advantage for now."
+28,Nxe4,f6e4,r4rk1/p1p1q1pp/bp2p3/3p1p2/2PPn3/PP4P1/1B2PPBP/R2Q1RK1 w - - 0 15,"After the Knight exchange combination, White has a small advantage for now."
+29,Rc1,a1c1,r4rk1/p1p1q1pp/bp2p3/3p1p2/2PPn3/PP4P1/1B2PPBP/2RQ1RK1 b - - 1 15,! This was surprising for Black. With Qd2 and Re1 White is back in the fight for the center.
+30,Rad8,a8d8,3r1rk1/p1p1q1pp/bp2p3/3p1p2/2PPn3/PP4P1/1B2PPBP/2RQ1RK1 w - - 2 16,! This was surprising for Black. With Qd2 and Re1 White is back in the fight for the center.
+31,f3,f2f3,3r1rk1/p1p1q1pp/bp2p3/3p1p2/2PPn3/PP3PP1/1B2P1BP/2RQ1RK1 b - - 0 16,! This was surprising for Black. With Qd2 and Re1 White is back in the fight for the center.
+32,Nf6,e4f6,3r1rk1/p1p1q1pp/bp2pn2/3p1p2/2PP4/PP3PP1/1B2P1BP/2RQ1RK1 w - - 1 17,! This was surprising for Black. With Qd2 and Re1 White is back in the fight for the center.
+33,c5,c4c5,3r1rk1/p1p1q1pp/bp2pn2/2Pp1p2/3P4/PP3PP1/1B2P1BP/2RQ1RK1 b - - 0 17,! This was surprising for Black. With Qd2 and Re1 White is back in the fight for the center.
+34,f4,f5f4,3r1rk1/p1p1q1pp/bp2pn2/2Pp4/3P1p2/PP3PP1/1B2P1BP/2RQ1RK1 w - - 0 18,Black is attacking on the King side. The pawn opens the f file.
+35,Qd2,d1d2,3r1rk1/p1p1q1pp/bp2pn2/2Pp4/3P1p2/PP3PP1/1B1QP1BP/2R2RK1 b - - 1 18,Black is attacking on the King side. The pawn opens the f file.
+36,fxg3,f4g3,3r1rk1/p1p1q1pp/bp2pn2/2Pp4/3P4/PP3Pp1/1B1QP1BP/2R2RK1 w - - 0 19,Black is attacking on the King side. The pawn opens the f file.
+37,hxg3,h2g3,3r1rk1/p1p1q1pp/bp2pn2/2Pp4/3P4/PP3PP1/1B1QP1B1/2R2RK1 b - - 0 19,Forced. 20. g4? Nf4!
+38,Nh5,f6h5,3r1rk1/p1p1q1pp/bp2p3/2Pp3n/3P4/PP3PP1/1B1QP1B1/2R2RK1 w - - 1 20,Forced. 20. g4? Nf4!
+39,Kh2,g1h2,3r1rk1/p1p1q1pp/bp2p3/2Pp3n/3P4/PP3PP1/1B1QP1BK/2R2R2 b - - 2 20,Forced. 20. g4? Nf4!
+40,Rf6,f8f6,3r2k1/p1p1q1pp/bp2pr2/2Pp3n/3P4/PP3PP1/1B1QP1BK/2R2R2 w - - 3 21,The plan is doubling the rooks on the f file and a discovered attack with check on the h file.
+41,Qg5,d2g5,3r2k1/p1p1q1pp/bp2pr2/2Pp2Qn/3P4/PP3PP1/1B2P1BK/2R2R2 b - - 4 21,This move prepare e5.
+42,Qf7,e7f7,3r2k1/p1p2qpp/bp2pr2/2Pp2Qn/3P4/PP3PP1/1B2P1BK/2R2R2 w - - 5 22,This move prepare e5.
+43,Bh3,g2h3,3r2k1/p1p2qpp/bp2pr2/2Pp2Qn/3P4/PP3PPB/1B2P2K/2R2R2 b - - 6 22,This move prepare e5.
+44,Re8,d8e8,4r1k1/p1p2qpp/bp2pr2/2Pp2Qn/3P4/PP3PPB/1B2P2K/2R2R2 w - - 7 23,This move prepare e5.
+45,Rc2,c1c2,4r1k1/p1p2qpp/bp2pr2/2Pp2Qn/3P4/PP3PPB/1BR1P2K/5R2 b - - 8 23,A discovered attack of Bb2 at the rook Rf6!
+46,bxc5,b6c5,4r1k1/p1p2qpp/b3pr2/2pp2Qn/3P4/PP3PPB/1BR1P2K/5R2 w - - 0 24,A discovered attack of Bb2 at the rook Rf6!
+47,dxc5,d4c5,4r1k1/p1p2qpp/b3pr2/2Pp2Qn/8/PP3PPB/1BR1P2K/5R2 b - - 0 24,A discovered attack of Bb2 at the rook Rf6!
+48,e5,e6e5,4r1k1/p1p2qpp/b4r2/2Ppp1Qn/8/PP3PPB/1BR1P2K/5R2 w - - 0 25,g6 is not possible because of Qh6. Black is going for Queen exchange.
+49,Bg4,h3g4,4r1k1/p1p2qpp/b4r2/2Ppp1Qn/6B1/PP3PP1/1BR1P2K/5R2 b - - 1 25,g6 is not possible because of Qh6. Black is going for Queen exchange.
+50,Rg6,f6g6,4r1k1/p1p2qpp/b5r1/2Ppp1Qn/6B1/PP3PP1/1BR1P2K/5R2 w - - 2 26,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+51,Bxh5,g4h5,4r1k1/p1p2qpp/b5r1/2Ppp1QB/8/PP3PP1/1BR1P2K/5R2 b - - 0 26,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+52,Rxg5,g6g5,4r1k1/p1p2qpp/b7/2Ppp1rB/8/PP3PP1/1BR1P2K/5R2 w - - 0 27,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+53,Bxf7+,h5f7,4r1k1/p1p2Bpp/b7/2Ppp1r1/8/PP3PP1/1BR1P2K/5R2 b - - 0 27,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+54,Kxf7,g8f7,4r3/p1p2kpp/b7/2Ppp1r1/8/PP3PP1/1BR1P2K/5R2 w - - 0 28,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+55,Rd2,c2d2,4r3/p1p2kpp/b7/2Ppp1r1/8/PP3PP1/1B1RP2K/5R2 b - - 1 28,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+56,Kg6,f7g6,4r3/p1p3pp/b5k1/2Ppp1r1/8/PP3PP1/1B1RP2K/5R2 w - - 2 29,"28. .. d4 was also possible. White could only go for a draw with 
+29.f4 Rf5 30.Kg1 exf4 31.Bxd4 Rxe2 32.Rxe2 Bxe2 33.Rxf4 Rxf4 34.gxf4"
+57,Rxd5,d2d5,4r3/p1p3pp/b5k1/2PRp1r1/8/PP3PP1/1B2P2K/5R2 b - - 0 29,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+58,Bxe2,a6e2,4r3/p1p3pp/6k1/2PRp1r1/8/PP3PP1/1B2b2K/5R2 w - - 0 30,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+59,Re1,f1e1,4r3/p1p3pp/6k1/2PRp1r1/8/PP3PP1/1B2b2K/4R3 b - - 1 30,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+60,Bxf3,e2f3,4r3/p1p3pp/6k1/2PRp1r1/8/PP3bP1/1B5K/4R3 w - - 0 31,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+61,Rdxe5,d5e5,4r3/p1p3pp/6k1/2P1R1r1/8/PP3bP1/1B5K/4R3 b - - 0 31,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+62,Rgxe5,g5e5,4r3/p1p3pp/6k1/2P1r3/8/PP3bP1/1B5K/4R3 w - - 0 32,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+63,Bxe5,b2e5,4r3/p1p3pp/6k1/2P1B3/8/PP3bP1/7K/4R3 b - - 0 32,"After this combination, it is rather clear that the game is drawn. Black will exchange rooks."
+64,Kf5,g6f5,4r3/p1p3pp/8/2P1Bk2/8/PP3bP1/7K/4R3 w - - 1 33,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+65,Bc3,e5c3,4r3/p1p3pp/8/2P2k2/8/PPB2bP1/7K/4R3 b - - 2 33,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+66,Rxe1,e8e1,8/p1p3pp/8/2P2k2/8/PPB2bP1/7K/4r3 w - - 0 34,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+67,Bxe1,c3e1,8/p1p3pp/8/2P2k2/8/PP3bP1/7K/4B3 b - - 0 34,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+68,c6,c7c6,8/p5pp/2p5/2P2k2/8/PP3bP1/7K/4B3 w - - 0 35,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+69,Bc3,e1c3,8/p5pp/2p5/2P2k2/8/PPB2bP1/7K/8 b - - 1 35,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+70,g5,g7g5,8/p6p/2p5/2P2kp1/8/PPB2bP1/7K/8 w - - 0 36,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+71,Kg1,h2g1,8/p6p/2p5/2P2kp1/8/PPB2bP1/8/6K1 b - - 1 36,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+72,h5,h7h5,8/p7/2p5/2P2kpp/8/PPB2bP1/8/6K1 w - - 0 37,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+73,b4,b3b4,8/p7/2p5/2P2kpp/1P6/P1B2bP1/8/6K1 b - - 0 37,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+74,Bd5,f3d5,8/p7/2p5/2Pb1kpp/1P6/P1B3P1/8/6K1 w - - 1 38,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+75,Kh2,g1h2,8/p7/2p5/2Pb1kpp/1P6/P1B3P1/7K/8 b - - 2 38,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"
+76,Kg4,f5g4,8/p7/2p5/2Pb2pp/1P4k1/P1B3P1/7K/8 w - - 3 39,"Bishops on different colors are not always reason enough to draw a game, but here, the pawns are blocked, and White can handle the end game, even if the position is slightly worse than Black's. 
+
+So, is the new move 5. .. Ne4 a better alternative to Queen's indian defence classical lines, or is Black's position not getting strong enough for some advantage over White?"

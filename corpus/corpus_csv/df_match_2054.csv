@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Moving my pawn out
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Black moves the pawn
+3,e3,e2e3,rnbqkbnr/pppp1ppp/4p3/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Protecting my other pawn
+4,c6,c7c6,rnbqkbnr/pp1p1ppp/2p1p3/8/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,Random pawn moves by Black...
+5,Nc3,b1c3,rnbqkbnr/pp1p1ppp/2p1p3/8/3P4/2N1P3/PPP2PPP/R1BQKBNR b KQkq - 1 3,Moving my knight out
+6,Bb4,f8b4,rnbqk1nr/pp1p1ppp/2p1p3/8/1b1P4/2N1P3/PPP2PPP/R1BQKBNR w KQkq - 2 4,Threatening my knight with the bishop
+7,Bd2,c1d2,rnbqk1nr/pp1p1ppp/2p1p3/8/1b1P4/2N1P3/PPPB1PPP/R2QKBNR b KQkq - 3 4,Protecting my knight
+8,Qc7,d8c7,rnb1k1nr/ppqp1ppp/2p1p3/8/1b1P4/2N1P3/PPPB1PPP/R2QKBNR w KQkq - 4 5,Black moves out the Queen...
+9,a3,a2a3,rnb1k1nr/ppqp1ppp/2p1p3/8/1b1P4/P1N1P3/1PPB1PPP/R2QKBNR b KQkq - 0 5,Threatening the bishop
+10,Ba5,b4a5,rnb1k1nr/ppqp1ppp/2p1p3/b7/3P4/P1N1P3/1PPB1PPP/R2QKBNR w KQkq - 1 6,Moving the bishop out of danger
+11,b4,b2b4,rnb1k1nr/ppqp1ppp/2p1p3/b7/1P1P4/P1N1P3/2PB1PPP/R2QKBNR b KQkq - 0 6,Threatening the bishop again
+12,Bb6,a5b6,rnb1k1nr/ppqp1ppp/1bp1p3/8/1P1P4/P1N1P3/2PB1PPP/R2QKBNR w KQkq - 1 7,Moving the bishop (once again) out of danger
+13,a4,a3a4,rnb1k1nr/ppqp1ppp/1bp1p3/8/PP1P4/2N1P3/2PB1PPP/R2QKBNR b KQkq - 0 7,Planning to trap the bishop
+14,a5,a7a5,rnb1k1nr/1pqp1ppp/1bp1p3/p7/PP1P4/2N1P3/2PB1PPP/R2QKBNR w KQkq - 0 8,Protecting the bishop
+15,bxa5,b4a5,rnb1k1nr/1pqp1ppp/1bp1p3/P7/P2P4/2N1P3/2PB1PPP/R2QKBNR b KQkq - 0 8,Capturing the pawn
+16,Bxa5,b6a5,rnb1k1nr/1pqp1ppp/2p1p3/b7/P2P4/2N1P3/2PB1PPP/R2QKBNR w KQkq - 0 9,Black takes my pawn in response
+17,Nf3,g1f3,rnb1k1nr/1pqp1ppp/2p1p3/b7/P2P4/2N1PN2/2PB1PPP/R2QKB1R b KQkq - 1 9,Moving out my other knight
+18,g5,g7g5,rnb1k1nr/1pqp1p1p/2p1p3/b5p1/P2P4/2N1PN2/2PB1PPP/R2QKB1R w KQkq - 0 10,"Black moves out the pawn, not realizing what my knight is capable of"
+19,Nxg5,f3g5,rnb1k1nr/1pqp1p1p/2p1p3/b5N1/P2P4/2N1P3/2PB1PPP/R2QKB1R b KQkq - 0 10,I take the pawn
+20,h6,h7h6,rnb1k1nr/1pqp1p2/2p1p2p/b5N1/P2P4/2N1P3/2PB1PPP/R2QKB1R w KQkq - 0 11,Threatening my knight

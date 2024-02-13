@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Spanish opening - exchange variation.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Spanish opening - exchange variation.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Spanish opening - exchange variation.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Spanish opening - exchange variation.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The Spanish opening - exchange variation.
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,The Spanish opening - exchange variation.
+7,Bxc6,b5c6,r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,The Spanish opening - exchange variation.
+8,dxc6,d7c6,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,The Spanish opening - exchange variation.
+9,Nxe5,f3e5,r1bqkbnr/1pp2ppp/p1p5/4N3/4P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Takes the hanging pawn.
+10,Qd4,d8d4,r1b1kbnr/1pp2ppp/p1p5/4N3/3qP3/8/PPPP1PPP/RNBQK2R w KQkq - 1 6,This queen move could have been premature - but I liked it because it seemed aggressive.
+11,Nf3,e5f3,r1b1kbnr/1pp2ppp/p1p5/8/3qP3/5N2/PPPP1PPP/RNBQK2R b KQkq - 2 6,White moves his knight back...
+12,Qxe4+,d4e4,r1b1kbnr/1pp2ppp/p1p5/8/4q3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 7,"I capture his pawn with check. I can force him to move his king now, preventing castling."
+13,Qe2,d1e2,r1b1kbnr/1pp2ppp/p1p5/8/4q3/5N2/PPPPQPPP/RNB1K2R b KQkq - 1 7,Blocks the check.
+14,Qxe2+,e4e2,r1b1kbnr/1pp2ppp/p1p5/8/8/5N2/PPPPqPPP/RNB1K2R w KQkq - 0 8,"I exchange, forcing the King to move."
+15,Kxe2,e1e2,r1b1kbnr/1pp2ppp/p1p5/8/8/5N2/PPPPKPPP/RNB4R b kq - 0 8,Forced.
+16,Bg4,c8g4,r3kbnr/1pp2ppp/p1p5/8/6b1/5N2/PPPPKPPP/RNB4R w kq - 1 9,I pin his knight.
+17,Re1,h1e1,r3kbnr/1pp2ppp/p1p5/8/6b1/5N2/PPPPKPPP/RNB1R3 b kq - 2 9,"White prepares to ""castle manually"", with the threat of a discovered check."
+18,O-O-O,e8c8,2kr1bnr/1pp2ppp/p1p5/8/6b1/5N2/PPPPKPPP/RNB1R3 w - - 3 10,I castle out of the way.
+19,d3,d2d3,2kr1bnr/1pp2ppp/p1p5/8/6b1/3P1N2/PPP1KPPP/RNB1R3 b - - 0 10,Opening a line for his bishop.
+20,Nf6,g8f6,2kr1b1r/1pp2ppp/p1p2n2/8/6b1/3P1N2/PPP1KPPP/RNB1R3 w - - 1 11,I develop my knight.
+21,Be3,c1e3,2kr1b1r/1pp2ppp/p1p2n2/8/6b1/3PBN2/PPP1KPPP/RN2R3 b - - 2 11,Prevents a check on his king. Not sure if this is the best square for the bishop though - ...Re8 pins it.
+22,Bd6,f8d6,2kr3r/1pp2ppp/p1pb1n2/8/6b1/3PBN2/PPP1KPPP/RN2R3 w - - 3 12,I connect my rooks by moving my bishop out of the way.
+23,Nbd2,b1d2,2kr3r/1pp2ppp/p1pb1n2/8/6b1/3PBN2/PPPNKPPP/R3R3 b - - 4 12,"White develops his knight, protecting against ...Bxf2 followed by the loss of the h2 pawn. Looks quite cramped around his king now."
+24,Rhe8,h8e8,2krr3/1pp2ppp/p1pb1n2/8/6b1/3PBN2/PPPNKPPP/R3R3 w - - 5 13,I pin white's bishop.
+25,Kf1,e2f1,2krr3/1pp2ppp/p1pb1n2/8/6b1/3PBN2/PPPN1PPP/R3RK2 b - - 6 13,White moves his king out of the way.
+26,Nd5,f6d5,2krr3/1pp2ppp/p1pb4/3n4/6b1/3PBN2/PPPN1PPP/R3RK2 w - - 7 14,I push my knight forward to avoid it being pinned against my rook by Bg5.
+27,Ng5,f3g5,2krr3/1pp2ppp/p1pb4/3n2N1/6b1/3PB3/PPPN1PPP/R3RK2 b - - 8 14,Threatening to take one of my pawns (h7 or f7).

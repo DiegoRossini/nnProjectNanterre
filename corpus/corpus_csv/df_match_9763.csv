@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is a quite short game I played recently. I want to test you to solve some intersting and basic positional and tactical ideas.
+Take it as a quiz. 
+First of all, open the java window, so that you can see the flow of the game with my comments on the bottom. Flip the board, as you will be playing the black side.
+Then, cover with a sheet the part of the screen with the moves. Don't look at the moves.
+From time to time you will be asked to find a move on your own. When you read ""IT'S YOUR TURN"" you'll have to decide what move to make. MAKE SURE to have a plan behind the move you want to make, or to have the CORRECT tactical idea, otherwise IT'S LIKE YOU DID NOT ANSWER CORRECTLY. The first moves are theoretical and there will be no questions. Anyway, try to figure out what's going on.
+There are 10 points available in total (some questions give 2 points or more, others give 1 point). At the end, tell me your score!
+I think that players above 1800 should have few problems in analysing this game, but for those under 1500/1600 might be interesting.
+Good luck and enjoy!"
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Good, you chose the French Defence. :)"
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,This is probably the main variation of the French Defence.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,This is probably the main variation of the French Defence.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,This is probably the main variation of the French Defence.
+6,Bb4,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,This is probably the main variation of the French Defence.
+7,e5,e4e5,rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,This is probably the main variation of the French Defence.
+8,c5,c7c5,rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,This is probably the main variation of the French Defence.
+9,a3,a2a3,rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR b KQkq - 0 5,This is probably the main variation of the French Defence.
+10,Bxc3+,b4c3,rnbqk1nr/pp3ppp/4p3/2ppP3/3P4/P1b5/1PP2PPP/R1BQKBNR w KQkq - 0 6,This is probably the main variation of the French Defence.
+11,bxc3,b2c3,rnbqk1nr/pp3ppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR b KQkq - 0 6,This is probably the main variation of the French Defence.
+12,Ne7,g8e7,rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR w KQkq - 1 7,This is probably the main variation of the French Defence.
+13,Qg4,d1g4,rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR b KQkq - 2 7,This is probably the main variation of the French Defence.
+14,Qc7,d8c7,rnb1k2r/ppq1nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR w KQkq - 3 8,"Black accepts the challenge. He gives White two pawns on the flank in exchange for active piece play. In fact, white will lose some important tempos to capture those pawns. Now Black must play vigorously, to undermine white's centre and take the initiative."
+15,Qxg7,g4g7,rnb1k2r/ppq1npQp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1B1KBNR b KQkq - 0 8,Black starts his plan of undermining black's centre. White now can't play 10.cxd3 because of 10...Qc3
+16,Rg8,h8g8,rnb1k1r1/ppq1npQp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1B1KBNR w KQq - 1 9,Black starts his plan of undermining black's centre. White now can't play 10.cxd3 because of 10...Qc3
+17,Qxh7,g7h7,rnb1k1r1/ppq1np1Q/4p3/2ppP3/3P4/P1P5/2P2PPP/R1B1KBNR b KQq - 0 9,Black starts his plan of undermining black's centre. White now can't play 10.cxd3 because of 10...Qc3
+18,cxd4,c5d4,rnb1k1r1/ppq1np1Q/4p3/3pP3/3p4/P1P5/2P2PPP/R1B1KBNR w KQq - 0 10,Black starts his plan of undermining black's centre. White now can't play 10.cxd3 because of 10...Qc3
+19,Ne2,g1e2,rnb1k1r1/ppq1np1Q/4p3/3pP3/3p4/P1P5/2P1NPPP/R1B1KB1R b KQq - 1 10,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+20,Nbc6,b8c6,r1b1k1r1/ppq1np1Q/2n1p3/3pP3/3p4/P1P5/2P1NPPP/R1B1KB1R w KQq - 2 11,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+21,f4,f2f4,r1b1k1r1/ppq1np1Q/2n1p3/3pP3/3p1P2/P1P5/2P1N1PP/R1B1KB1R b KQq - 0 11,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+22,Bd7,c8d7,r3k1r1/ppqbnp1Q/2n1p3/3pP3/3p1P2/P1P5/2P1N1PP/R1B1KB1R w KQq - 1 12,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+23,Qd3,h7d3,r3k1r1/ppqbnp2/2n1p3/3pP3/3p1P2/P1PQ4/2P1N1PP/R1B1KB1R b KQq - 2 12,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+24,dxc3,d4c3,r3k1r1/ppqbnp2/2n1p3/3pP3/5P2/P1pQ4/2P1N1PP/R1B1KB1R w KQq - 0 13,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+25,Qxc3,d3c3,r3k1r1/ppqbnp2/2n1p3/3pP3/5P2/P1Q5/2P1N1PP/R1B1KB1R b KQq - 0 13,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+26,O-O-O,e8c8,2kr2r1/ppqbnp2/2n1p3/3pP3/5P2/P1Q5/2P1N1PP/R1B1KB1R w KQ - 1 14,"Up to now it's all theory. Anyway, before going on try to understand what's happening here. Black has almost completed development, though his pieces still need to find more aggressive posts to become really dangerous. White, on the other side, is still back in development, but if he manages to free himself he will be able to count on his strong passed h2 pawn. Black has a dynamic advantage (development, and if he can, initiative) while White has a static advantage (material and pawn structure)"
+27,Be3,c1e3,2kr2r1/ppqbnp2/2n1p3/3pP3/5P2/P1Q1B3/2P1N1PP/R3KB1R b KQ - 2 14,IT'S YOUR TURN TO MOVE
+28,d4,d5d4,2kr2r1/ppqbnp2/2n1p3/4P3/3p1P2/P1Q1B3/2P1N1PP/R3KB1R w KQ - 0 15,"2 points if you found this move. 14... Nf5 is also good (2 points, but only if you considered that after 15.Bf2 or 15.Bc5 there would follow 15...d4 anyway).
+
+The fact is that there was a fight for the d4 square. If white managed to take control of that square, he will probably be able to complete smoothly his development. Moreover, the pawn on d5 was a negative factor for Black, because his pieces didn't have space enough. After that pawn disappears, the scope of the Rd8, the Bd7 and the Ne7 will be greatly increased. So many good things for just one pawn! Think Dynamic!
+
+Add 2 more points if you also had in mind the following plan: exchange as many minor pieces as possible. In few moves we will see why."
+29,Nxd4,e2d4,2kr2r1/ppqbnp2/2n1p3/4P3/3N1P2/P1Q1B3/2P3PP/R3KB1R b KQ - 0 15,"Maybe 15.Bxd4 was slightly better, so white could retain some developed pieces for defensive tasks."
+30,Nd5,e7d5,2kr2r1/ppqb1p2/2n1p3/3nP3/3N1P2/P1Q1B3/2P3PP/R3KB1R w KQ - 1 16,IT'S YOUR TURN
+31,Qd2,c3d2,2kr2r1/ppqb1p2/2n1p3/3nP3/3N1P2/P3B3/2PQ2PP/R3KB1R b KQ - 2 16,IT'S YOUR TURN
+32,Nxe3,d5e3,2kr2r1/ppqb1p2/2n1p3/4P3/3N1P2/P3n3/2PQ2PP/R3KB1R w KQ - 0 17,IT'S YOUR TURN
+33,Qxe3,d2e3,2kr2r1/ppqb1p2/2n1p3/4P3/3N1P2/P3Q3/2P3PP/R3KB1R b KQ - 0 17,IT'S YOUR TURN
+34,Nxd4,c6d4,2kr2r1/ppqb1p2/4p3/4P3/3n1P2/P3Q3/2P3PP/R3KB1R w KQ - 0 18,IT'S YOUR TURN
+35,Qxd4,e3d4,2kr2r1/ppqb1p2/4p3/4P3/3Q1P2/P7/2P3PP/R3KB1R b KQ - 0 18,IT'S YOUR TURN
+36,Bb5,d7b5,2kr2r1/ppq2p2/4p3/1b2P3/3Q1P2/P7/2P3PP/R3KB1R w KQ - 1 19,"1 point. Attacking the Queen this way, Black exchanges the last minor piece, and he will finally GET the INITIATIVE because of his powerful and active Rooks against an uncastled king and those poor undeveloped Rooks. Moreover, white now cannot take in a7 because of 19...Qc3 .
+Not 18...Kb8? 19.Qd6!
+Nor 18...Bc6 19. Qxa7! are good.
+IMPORTANT: As you can see, Black is exchanging pieces even if is is down in material. You have probably been taught that when you have a material advange you should try to reach the endgame. BE CAREFUL with this approach! Don't always look for exchange of pieces when you are up with material. Instead, try to understand what is best to do in that situation! Sometimes it is necessary to fight with great determination even with a pawn up or two, because the player down in material may have some sort of dynamic compensation. In this case, for example, the more developed white pieces disappear, the bigger will be the difference in development between black and white."
+37,Qe3,d4e3,2kr2r1/ppq2p2/4p3/1b2P3/5P2/P3Q3/2P3PP/R3KB1R b KQ - 2 19,IT'S YOUR TURN
+38,Bxf1,b5f1,2kr2r1/ppq2p2/4p3/4P3/5P2/P3Q3/2P3PP/R3Kb1R w KQ - 0 20,IT'S YOUR TURN
+39,Kxf1,e1f1,2kr2r1/ppq2p2/4p3/4P3/5P2/P3Q3/2P3PP/R4K1R b - - 0 20,IT'S YOUR TURN
+40,Qxc2,c7c2,2kr2r1/pp3p2/4p3/4P3/5P2/P3Q3/2q3PP/R4K1R w - - 0 21,"2 Points, but only if you saw the variation 21.Rc1? Rd1 !! 22. Rxd1 Qxg2 !! (not 22...Qxd1? 0 points) with a quick win. Other white moves also lose badly, to you the pleasure to find them (eg. 21. Qc1?)
+
+Look at the position. Despite being 1 pawn down, Black has a firm initiative now, because of his strong and very active Rooks and Queen ready to penetrate in the enemy camp."
+41,g3,g2g3,2kr2r1/pp3p2/4p3/4P3/5P2/P3Q1P1/2q4P/R4K1R b - - 0 21,IT'S YOUR TURN
+42,Rd2,d8d2,2k3r1/pp3p2/4p3/4P3/5P2/P3Q1P1/2qr3P/R4K1R w - - 1 22,"1 point. A defensive and attacking move at the same time. After his move 21.g3, White was really threatening 22. Rc1 pinning the Queen. This move prevents this and also allows the doubling of Rooks along the d file (the Rg8 is no longer useful there).
+
+0 points (or negative!) if you chose 21...Kb8. It is pointless."
+43,Re1,a1e1,2k3r1/pp3p2/4p3/4P3/5P2/P3Q1P1/2qr3P/4RK1R b - - 2 22,"Threatrening 23...Rd1, winning"
+44,Rgd8,g8d8,2kr4/pp3p2/4p3/4P3/5P2/P3Q1P1/2qr3P/4RK1R w - - 3 23,"Threatrening 23...Rd1, winning"
+45,Qe4,e3e4,2kr4/pp3p2/4p3/4P3/4QP2/P5P1/2qr3P/4RK1R b - - 4 23,IT'S YOUR TURN. Calculate until a great advantage for black.
+46,Rf2+,d2f2,2kr4/pp3p2/4p3/4P3/4QP2/P5P1/2q2r1P/4RK1R w - - 5 24,"White resigns here. I had prepared 24. Kg1 Qb2!! with the mortal threat 25...Rdd2. Neither 25.Rc1  Qxc1! 26.Kxf2 Rd2  etc. nor 25.Rb1 Rg2 ! would have saved white.
+
+2 points if you saw all this. (There may be other winning variations: 2 points if you found one of these instead, but 0 points if you excanged Queens).
+
+Hope you enjoyed and liked the experiment. Let me know!"

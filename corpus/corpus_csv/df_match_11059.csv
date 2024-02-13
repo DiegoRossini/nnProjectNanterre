@@ -1,0 +1,94 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I'm playing black and I'm using the ""Fisher"" (Reti) opening again."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,An early attack by white.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,An early attack by white.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,An early attack by white.
+5,e4,e2e4,rnbqkb1r/pppppp1p/5np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,An early attack by white.
+6,d6,d7d6,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,An early attack by white.
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,An early attack by white.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5,An early attack by white.
+9,Bc4,f1c4,rnbqk2r/ppp1ppbp/3p1np1/8/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 3 5,An early attack by white.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2BPP3/2N2N2/PPP2PPP/R1BQK2R w KQ - 4 6,An early attack by white.
+11,e5,e4e5,rnbq1rk1/ppp1ppbp/3p1np1/4P3/2BP4/2N2N2/PPP2PPP/R1BQK2R b KQ - 0 6,An early attack by white.
+12,dxe5,d6e5,rnbq1rk1/ppp1ppbp/5np1/4p3/2BP4/2N2N2/PPP2PPP/R1BQK2R w KQ - 0 7,"If white takes the pawn, it opens up the early queen exchange."
+13,dxe5,d4e5,rnbq1rk1/ppp1ppbp/5np1/4P3/2B5/2N2N2/PPP2PPP/R1BQK2R b KQ - 0 7,"It's always a tough decision to exchange queens, but I must have been happy with my early castle and feeling confident about my chances, so I take his queen."
+14,Qxd1+,d8d1,rnb2rk1/ppp1ppbp/5np1/4P3/2B5/2N2N2/PPP2PPP/R1BqK2R w KQ - 0 8,White wisely preserves his ability to castle.
+15,Nxd1,c3d1,rnb2rk1/ppp1ppbp/5np1/4P3/2B5/5N2/PPP2PPP/R1BNK2R b KQ - 0 8,White wisely preserves his ability to castle.
+16,Ng4,f6g4,rnb2rk1/ppp1ppbp/6p1/4P3/2B3n1/5N2/PPP2PPP/R1BNK2R w KQ - 1 9,"Pressuring the e5 pawn.  I expect a pawn attack, which would result in stacked pawns.
+9. e6 Bxe6
+10. Bxe6 fxe6"
+17,Bf4,c1f4,rnb2rk1/ppp1ppbp/6p1/4P3/2B2Bn1/5N2/PPP2PPP/R2NK2R b KQ - 2 9,I get a bit lucky in that he chooses to defend the e5 pawn.
+18,Nc6,b8c6,r1b2rk1/ppp1ppbp/2n3p1/4P3/2B2Bn1/5N2/PPP2PPP/R2NK2R w KQ - 3 10,More pressure on e5.
+19,O-O,e1g1,r1b2rk1/ppp1ppbp/2n3p1/4P3/2B2Bn1/5N2/PPP2PPP/R2N1RK1 b - - 4 10,"A no brainer.  Go up one.  I fantasize about exchanges ...
+11. Nxe5 Nxe5
+12. Bxe5 Bxe5
+13. c3 b6
+14. Bd5 Rb8
+... but he recognizes the situation."
+20,Ngxe5,g4e5,r1b2rk1/ppp1ppbp/2n3p1/4n3/2B2B2/5N2/PPP2PPP/R2N1RK1 w - - 0 11,"A no brainer.  Go up one.  I fantasize about exchanges ...
+11. Nxe5 Nxe5
+12. Bxe5 Bxe5
+13. c3 b6
+14. Bd5 Rb8
+... but he recognizes the situation."
+21,Nd2,f3d2,r1b2rk1/ppp1ppbp/2n3p1/4n3/2B2B2/8/PPPN1PPP/R2N1RK1 b - - 1 11,"I look at this now, and I wonder why I didn't exchange the bishop for a knight, but I must have seen the chaos of a pair of knights in the middle of the board.  (I doubt I actually knew how successful this next move would be, but maybe by subconscious knew.)  :-)"
+22,Nd4,c6d4,r1b2rk1/ppp1ppbp/6p1/4n3/2Bn1B2/8/PPPN1PPP/R2N1RK1 w - - 2 12,"I set up a trap.  I expect ...
+13. Nxc4 Ne2 
+14. Kh1 Nxf4 ( 4)"
+23,c3,c2c3,r1b2rk1/ppp1ppbp/6p1/4n3/2Bn1B2/2P5/PP1N1PPP/R2N1RK1 b - - 0 12,"I set up a trap.  I expect ...
+13. Nxc4 Ne2 
+14. Kh1 Nxf4 ( 4)"
+24,Nxc4,e5c4,r1b2rk1/ppp1ppbp/6p1/8/2nn1B2/2P5/PP1N1PPP/R2N1RK1 w - - 0 13,"I set up a trap.  I expect ...
+13. Nxc4 Ne2 
+14. Kh1 Nxf4 ( 4)"
+25,cxd4,c3d4,r1b2rk1/ppp1ppbp/6p1/8/2nP1B2/8/PP1N1PPP/R2N1RK1 b - - 0 13,But he sees the trap!
+26,Nxd2,c4d2,r1b2rk1/ppp1ppbp/6p1/8/3P1B2/8/PP1n1PPP/R2N1RK1 w - - 0 14,"My big trap didn't work, but the small one does.  I'm still up 2 points and move into conservative play."
+27,Bxd2,f4d2,r1b2rk1/ppp1ppbp/6p1/8/3P4/8/PP1B1PPP/R2N1RK1 b - - 0 14,"My big trap didn't work, but the small one does.  I'm still up 2 points and move into conservative play."
+28,Bxd4,g7d4,r1b2rk1/ppp1pp1p/6p1/8/3b4/8/PP1B1PPP/R2N1RK1 w - - 0 15,"My big trap didn't work, but the small one does.  I'm still up 2 points and move into conservative play."
+29,Bb4,d2b4,r1b2rk1/ppp1pp1p/6p1/8/1B1b4/8/PP3PPP/R2N1RK1 b - - 1 15,I get lucky and he lets me gain a tempo.
+30,c5,c7c5,r1b2rk1/pp2pp1p/6p1/2p5/1B1b4/8/PP3PPP/R2N1RK1 w - - 0 16,I get lucky and he lets me gain a tempo.
+31,Bd2,b4d2,r1b2rk1/pp2pp1p/6p1/2p5/3b4/8/PP1B1PPP/R2N1RK1 b - - 1 16,"Up 2 points, I'll take a trade, even a knight for a bishop."
+32,Bg4,c8g4,r4rk1/pp2pp1p/6p1/2p5/3b2b1/8/PP1B1PPP/R2N1RK1 w - - 2 17,"Up 2 points, I'll take a trade, even a knight for a bishop."
+33,Nc3,d1c3,r4rk1/pp2pp1p/6p1/2p5/3b2b1/2N5/PP1B1PPP/R4RK1 b - - 3 17,"Up 2 points, I'll take a trade, even a knight for a bishop."
+34,Bxc3,d4c3,r4rk1/pp2pp1p/6p1/2p5/6b1/2b5/PP1B1PPP/R4RK1 w - - 0 18,"Here, I should be thinking about moving pieces into white squares where possible."
+35,Bxc3,d2c3,r4rk1/pp2pp1p/6p1/2p5/6b1/2B5/PP3PPP/R4RK1 b - - 0 18,"Here, I should be thinking about moving pieces into white squares where possible."
+36,a5,a7a5,r4rk1/1p2pp1p/6p1/p1p5/6b1/2B5/PP3PPP/R4RK1 w - - 0 19,Control the open file.
+37,h3,h2h3,r4rk1/1p2pp1p/6p1/p1p5/6b1/2B4P/PP3PP1/R4RK1 b - - 0 19,Control the open file.
+38,Be6,g4e6,r4rk1/1p2pp1p/4b1p1/p1p5/8/2B4P/PP3PP1/R4RK1 w - - 1 20,Control the open file.
+39,Rfe1,f1e1,r4rk1/1p2pp1p/4b1p1/p1p5/8/2B4P/PP3PP1/R3R1K1 b - - 2 20,Control the open file.
+40,b5,b7b5,r4rk1/4pp1p/4b1p1/ppp5/8/2B4P/PP3PP1/R3R1K1 w - - 0 21,Control the open file.
+41,Re5,e1e5,r4rk1/4pp1p/4b1p1/ppp1R3/8/2B4P/PP3PP1/R5K1 b - - 1 21,Control the open file.
+42,b4,b5b4,r4rk1/4pp1p/4b1p1/p1p1R3/1p6/2B4P/PP3PP1/R5K1 w - - 0 22,Control the open file.
+43,Be1,c3e1,r4rk1/4pp1p/4b1p1/p1p1R3/1p6/7P/PP3PP1/R3B1K1 b - - 1 22,Control the open file.
+44,c4,c5c4,r4rk1/4pp1p/4b1p1/p3R3/1pp5/7P/PP3PP1/R3B1K1 w - - 0 23,Control the open file.
+45,Rc1,a1c1,r4rk1/4pp1p/4b1p1/p3R3/1pp5/7P/PP3PP1/2R1B1K1 b - - 1 23,Control the open file.
+46,Rfd8,f8d8,r2r2k1/4pp1p/4b1p1/p3R3/1pp5/7P/PP3PP1/2R1B1K1 w - - 2 24,Control the open file.
+47,f3,f2f3,r2r2k1/4pp1p/4b1p1/p3R3/1pp5/5P1P/PP4P1/2R1B1K1 b - - 0 24,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+48,Ra6,a8a6,3r2k1/4pp1p/r3b1p1/p3R3/1pp5/5P1P/PP4P1/2R1B1K1 w - - 1 25,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+49,Bh4,e1h4,3r2k1/4pp1p/r3b1p1/p3R3/1pp4B/5P1P/PP4P1/2R3K1 b - - 2 25,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+50,f6,f7f6,3r2k1/4p2p/r3bpp1/p3R3/1pp4B/5P1P/PP4P1/2R3K1 w - - 0 26,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+51,Re4,e5e4,3r2k1/4p2p/r3bpp1/p7/1pp1R2B/5P1P/PP4P1/2R3K1 b - - 1 26,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+52,Rd2,d8d2,6k1/4p2p/r3bpp1/p7/1pp1R2B/5P1P/PP1r2P1/2R3K1 w - - 2 27,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+53,Rb1,c1b1,6k1/4p2p/r3bpp1/p7/1pp1R2B/5P1P/PP1r2P1/1R4K1 b - - 3 27,"A lucky break again, the pressure on the b2 pawn sets up diagonally stacked rooks."
+54,Bf5,e6f5,6k1/4p2p/r4pp1/p4b2/1pp1R2B/5P1P/PP1r2P1/1R4K1 w - - 4 28,"I'm expecting a block.  
+30. Be1 cxb3"
+55,Rxe7,e4e7,6k1/4R2p/r4pp1/p4b2/1pp4B/5P1P/PP1r2P1/1R4K1 b - - 0 28,"I'm expecting a block.  
+30. Be1 cxb3"
+56,Bxb1,f5b1,6k1/4R2p/r4pp1/p7/1pp4B/5P1P/PP1r2P1/1b4K1 w - - 0 29,"I'm expecting a block.  
+30. Be1 cxb3"
+57,b3,b2b3,6k1/4R2p/r4pp1/p7/1pp4B/1P3P1P/P2r2P1/1b4K1 b - - 0 29,"I'm expecting a block.  
+30. Be1 cxb3"
+58,Rd1+,d2d1,6k1/4R2p/r4pp1/p7/1pp4B/1P3P1P/P5P1/1b1r2K1 w - - 1 30,"I'm expecting a block.  
+30. Be1 cxb3"
+59,Kh2,g1h2,6k1/4R2p/r4pp1/p7/1pp4B/1P3P1P/P5PK/1b1r4 b - - 2 30,"A little late game sloppiness here, but no great harm."
+60,c3,c4c3,6k1/4R2p/r4pp1/p7/1p5B/1Pp2P1P/P5PK/1b1r4 w - - 0 31,"A little late game sloppiness here, but no great harm."
+61,Re1,e7e1,6k1/7p/r4pp1/p7/1p5B/1Pp2P1P/P5PK/1b1rR3 b - - 1 31,"A little late game sloppiness here, but no great harm."
+62,c2,c3c2,6k1/7p/r4pp1/p7/1p5B/1P3P1P/P1p3PK/1b1rR3 w - - 0 32,"A little late game sloppiness here, but no great harm."
+63,Rxd1,e1d1,6k1/7p/r4pp1/p7/1p5B/1P3P1P/P1p3PK/1b1R4 b - - 0 32,"A little late game sloppiness here, but no great harm."
+64,cxd1=Q,c2d1q,6k1/7p/r4pp1/p7/1p5B/1P3P1P/P5PK/1b1q4 w - - 0 33,"A little late game sloppiness here, but no great harm."
+65,g4,g2g4,6k1/7p/r4pp1/p7/1p4PB/1P3P1P/P6K/1b1q4 b - - 0 33,"A little late game sloppiness here, but no great harm."
+66,Qxf3,d1f3,6k1/7p/r4pp1/p7/1p4PB/1P3q1P/P6K/1b6 w - - 0 34,"A little late game sloppiness here, but no great harm."
+67,Bxf6,h4f6,6k1/7p/r4Bp1/p7/1p4P1/1P3q1P/P6K/1b6 b - - 0 34,"A little late game sloppiness here, but no great harm."
+68,Rxf6,a6f6,6k1/7p/5rp1/p7/1p4P1/1P3q1P/P6K/1b6 w - - 0 35,"A little late game sloppiness here, but no great harm."
+69,g5,g4g5,6k1/7p/5rp1/p5P1/1p6/1P3q1P/P6K/1b6 b - - 0 35,"A little late game sloppiness here, but no great harm."
+70,Bxa2,b1a2,6k1/7p/5rp1/p5P1/1p6/1P3q1P/b6K/8 w - - 0 36,"A little late game sloppiness here, but no great harm."

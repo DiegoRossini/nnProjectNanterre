@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I try the caro kahn. Do not know much about the opening, so that I'll look at the gameknot database."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I try the caro kahn. Do not know much about the opening, so that I'll look at the gameknot database."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The most common line
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,The most common line
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,The most common line
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,The most common line
+7,c4,c2c4,rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4,Preparing the castle
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/3p4/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5,Preparing the castle
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5,Preparing the castle
+10,Nc6,b8c6,r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 3 6,Preparing the castle
+11,Nf3,g1f3,r1bqkb1r/pp2pppp/2n2n2/3p4/2PP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 4 6,Preparing the castle
+12,Bg4,c8g4,r2qkb1r/pp2pppp/2n2n2/3p4/2PP2b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 5 7,Preparing the castle
+13,Be2,f1e2,r2qkb1r/pp2pppp/2n2n2/3p4/2PP2b1/2N2N2/PP2BPPP/R1BQK2R b KQkq - 6 7,Preparing the castle
+14,e6,e7e6,r2qkb1r/pp3ppp/2n1pn2/3p4/2PP2b1/2N2N2/PP2BPPP/R1BQK2R w KQkq - 0 8,Preparing the castle
+15,c5,c4c5,r2qkb1r/pp3ppp/2n1pn2/2Pp4/3P2b1/2N2N2/PP2BPPP/R1BQK2R b KQkq - 0 8,Preparing the castle
+16,Be7,f8e7,r2qk2r/pp2bppp/2n1pn2/2Pp4/3P2b1/2N2N2/PP2BPPP/R1BQK2R w KQkq - 1 9,Preparing the castle
+17,O-O,e1g1,r2qk2r/pp2bppp/2n1pn2/2Pp4/3P2b1/2N2N2/PP2BPPP/R1BQ1RK1 b kq - 2 9,White king in safety
+18,O-O,e8g8,r2q1rk1/pp2bppp/2n1pn2/2Pp4/3P2b1/2N2N2/PP2BPPP/R1BQ1RK1 w - - 3 10,Black castle as well.
+19,a3,a2a3,r2q1rk1/pp2bppp/2n1pn2/2Pp4/3P2b1/P1N2N2/1P2BPPP/R1BQ1RK1 b - - 0 10,To prevent 10. ... Nb4 and enable b4
+20,a6,a7a6,r2q1rk1/1p2bppp/p1n1pn2/2Pp4/3P2b1/P1N2N2/1P2BPPP/R1BQ1RK1 w - - 0 11,To prevent Bb5
+21,b4,b2b4,r2q1rk1/1p2bppp/p1n1pn2/2Pp4/1P1P2b1/P1N2N2/4BPPP/R1BQ1RK1 b - - 0 11,Developping the queenside
+22,Bf5,g4f5,r2q1rk1/1p2bppp/p1n1pn2/2Pp1b2/1P1P4/P1N2N2/4BPPP/R1BQ1RK1 w - - 1 12,"I felt a bit cramped, so that I prefered to lose a tempo to prepare 12. ... Ne4. an d try to get control of the center, for I didn't find any possibility to attack the queenside"
+23,Nh4,f3h4,r2q1rk1/1p2bppp/p1n1pn2/2Pp1b2/1P1P3N/P1N5/4BPPP/R1BQ1RK1 b - - 2 12,menacing black LSB and freeing the d1h5 diagonal for the white one
+24,Ne4,f6e4,r2q1rk1/1p2bppp/p1n1p3/2Pp1b2/1P1Pn2N/P1N5/4BPPP/R1BQ1RK1 w - - 3 13,"carrying on the plan. If 13. Nxf5 Nxc3, menacing the queen"
+25,Nxe4,c3e4,r2q1rk1/1p2bppp/p1n1p3/2Pp1b2/1P1PN2N/P7/4BPPP/R1BQ1RK1 b - - 0 13,white opts for a trade
+26,Bxe4,f5e4,r2q1rk1/1p2bppp/p1n1p3/2Pp4/1P1Pb2N/P7/4BPPP/R1BQ1RK1 w - - 0 14,White's h knight is under menace
+27,Nf3,h4f3,r2q1rk1/1p2bppp/p1n1p3/2Pp4/1P1Pb3/P4N2/4BPPP/R1BQ1RK1 b - - 1 14,black is under the menace of 15. b4 axb5 16. Bxb5
+28,Bf6,e7f6,r2q1rk1/1p3ppp/p1n1pb2/2Pp4/1P1Pb3/P4N2/4BPPP/R1BQ1RK1 w - - 2 15,white's weak pawn is the d4 one and this move prepares e5.
+29,Be3,c1e3,r2q1rk1/1p3ppp/p1n1pb2/2Pp4/1P1Pb3/P3BN2/4BPPP/R2Q1RK1 b - - 3 15,White opts to protect his pawn rather than to attack on the queenside.
+30,Re8,f8e8,r2qr1k1/1p3ppp/p1n1pb2/2Pp4/1P1Pb3/P3BN2/4BPPP/R2Q1RK1 w - - 4 16,preparing e5
+31,h3,h2h3,r2qr1k1/1p3ppp/p1n1pb2/2Pp4/1P1Pb3/P3BN1P/4BPP1/R2Q1RK1 b - - 0 16,I do not understand this move.
+32,e5,e6e5,r2qr1k1/1p3ppp/p1n2b2/2Ppp3/1P1Pb3/P3BN1P/4BPP1/R2Q1RK1 w - - 0 17,finaly playing e5
+33,dxe5,d4e5,r2qr1k1/1p3ppp/p1n2b2/2PpP3/1P2b3/P3BN1P/4BPP1/R2Q1RK1 b - - 0 17,"Material equality, Black is better on the center, white's pawn structure is stronger, both kings are safe, nobody controls the open file, both kings are safe. The situation is equilibrated. Black has the initiative."
+34,Bxe5,f6e5,r2qr1k1/1p3ppp/p1n5/2Ppb3/1P2b3/P3BN1P/4BPP1/R2Q1RK1 w - - 0 18,"Material equality, Black is better on the center, white's pawn structure is stronger, both kings are safe, nobody controls the open file, both kings are safe. The situation is equilibrated. Black has the initiative."

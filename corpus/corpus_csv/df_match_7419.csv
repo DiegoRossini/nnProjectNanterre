@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A standard opener for me. It helps get my bishop and queen out.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Not what I expected...
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,I am now both attacking Black's pawn at d5 and defending mine at e4.
+4,dxe4,d5e4,rnbqkbnr/ppp1pppp/8/8/4p3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,"Again, not what I expected. I can now, however, take Black's pawn at e4."
+5,Nxe4,c3e4,rnbqkbnr/ppp1pppp/8/8/4N3/8/PPPP1PPP/R1BQKBNR b KQkq - 0 3,Now I set the score straight.
+6,f6,f7f6,rnbqkbnr/ppp1p1pp/5p2/8/4N3/8/PPPP1PPP/R1BQKBNR w KQkq - 0 4,I don't see how this move helps the computer. It actually helps me now.
+7,Qh5+,d1h5,rnbqkbnr/ppp1p1pp/5p2/7Q/4N3/8/PPPP1PPP/R1B1KBNR b KQkq - 1 4,Haha... CHECK!
+8,g6,g7g6,rnbqkbnr/ppp1p2p/5pp1/7Q/4N3/8/PPPP1PPP/R1B1KBNR w KQkq - 0 5,"They now are trying to take my queen and block my attack on the King, I guess."
+9,Qf3,h5f3,rnbqkbnr/ppp1p2p/5pp1/8/4N3/5Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 5,"I thought that a retreat to here would be best, as a retreat to g4 could leave my queen open to a bishop."
+10,Bh6,f8h6,rnbqk1nr/ppp1p2p/5ppb/8/4N3/5Q2/PPPP1PPP/R1B1KBNR w KQkq - 2 6,I assume this is an attempt at a pin on my bishop at c1 and my pawn at d2.
+11,d3,d2d3,rnbqk1nr/ppp1p2p/5ppb/8/4N3/3P1Q2/PPP2PPP/R1B1KBNR b KQkq - 0 6,"This was a win/draw move for me. Either the bishop would not move and I could take it, or he would take my bishop and I could capture it with my rook."
+12,g5,g6g5,rnbqk1nr/ppp1p2p/5p1b/6p1/4N3/3P1Q2/PPP2PPP/R1B1KBNR w KQkq - 0 7,I guess this was a draw move. I can't capture his bishop now.
+13,Be3,c1e3,rnbqk1nr/ppp1p2p/5p1b/6p1/4N3/3PBQ2/PPP2PPP/R3KBNR b KQkq - 1 7,I'm still going to move my bishop at c1 to get it out on the board and allow queenside castling.
+14,Na6,b8a6,r1bqk1nr/ppp1p2p/n4p1b/6p1/4N3/3PBQ2/PPP2PPP/R3KBNR w KQkq - 2 8,Yay for castling!
+15,O-O-O,e1c1,r1bqk1nr/ppp1p2p/n4p1b/6p1/4N3/3PBQ2/PPP2PPP/2KR1BNR b kq - 3 8,Yay for castling!
+16,c6,c7c6,r1bqk1nr/pp2p2p/n1p2p1b/6p1/4N3/3PBQ2/PPP2PPP/2KR1BNR w kq - 0 9,Yay for check! (again!) Notice how this would also be a fork with the bishop at h6 if not for the knight at g8.
+17,Qh5+,f3h5,r1bqk1nr/pp2p2p/n1p2p1b/6pQ/4N3/3PB3/PPP2PPP/2KR1BNR b kq - 1 9,Yay for check! (again!) Notice how this would also be a fork with the bishop at h6 if not for the knight at g8.
+18,Kd7,e8d7,r1bq2nr/pp1kp2p/n1p2p1b/6pQ/4N3/3PB3/PPP2PPP/2KR1BNR w - - 2 10,Now they can't castle! Go me!
+19,Qg4+,h5g4,r1bq2nr/pp1kp2p/n1p2p1b/6p1/4N1Q1/3PB3/PPP2PPP/2KR1BNR b - - 3 10,Now I'm going to try to set up for checkmate.
+20,e6,e7e6,r1bq2nr/pp1k3p/n1p1pp1b/6p1/4N1Q1/3PB3/PPP2PPP/2KR1BNR w - - 0 11,"Well, they did the thing I didn't want them to do. Now their king has better mobility. Oh well."
+21,d4,d3d4,r1bq2nr/pp1k3p/n1p1pp1b/6p1/3PN1Q1/4B3/PPP2PPP/2KR1BNR b - - 0 11,Uh-oh... fork.
+22,f5,f6f5,r1bq2nr/pp1k3p/n1p1p2b/5pp1/3PN1Q1/4B3/PPP2PPP/2KR1BNR w - - 0 12,Uh-oh... fork.
+23,Qh5,g4h5,r1bq2nr/pp1k3p/n1p1p2b/5ppQ/3PN3/4B3/PPP2PPP/2KR1BNR b - - 1 12,I'll save my queen.

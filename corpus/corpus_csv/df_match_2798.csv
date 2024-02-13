@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,GK computer calls it the guatemala defense. Never heard of it.
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,GK computer calls it the guatemala defense. Never heard of it.
+3,d4,d2d4,rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Anyway, in such cases, occupy the center is never bad."
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Nc3 was another candidate move. d5 as well.
+5,Bd3,f1d3,rn1qkbnr/pbpppppp/1p6/8/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 2 3,Nc3 was another candidate move. d5 as well.
+6,e6,e7e6,rn1qkbnr/pbpp1ppp/1p2p3/8/3PP3/3B4/PPP2PPP/RNBQK1NR w KQkq - 0 4,So that white can castle quickly. If 4. ... d5 5. e5
+7,Nf3,g1f3,rn1qkbnr/pbpp1ppp/1p2p3/8/3PP3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 4,So that white can castle quickly. If 4. ... d5 5. e5
+8,Nf6,g8f6,rn1qkb1r/pbpp1ppp/1p2pn2/8/3PP3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 2 5,Queen on protection. e5 was another candidate move but white's plan is to develop quickly most of the pieces to control the center.
+9,Qe2,d1e2,rn1qkb1r/pbpp1ppp/1p2pn2/8/3PP3/3B1N2/PPP1QPPP/RNB1K2R b KQkq - 3 5,Queen on protection. e5 was another candidate move but white's plan is to develop quickly most of the pieces to control the center.
+10,Be7,f8e7,rn1qk2r/pbppbppp/1p2pn2/8/3PP3/3B1N2/PPP1QPPP/RNB1K2R w KQkq - 4 6,Preparing the castle.
+11,O-O,e1g1,rn1qk2r/pbppbppp/1p2pn2/8/3PP3/3B1N2/PPP1QPPP/RNB2RK1 b kq - 5 6,Both kings are safe.
+12,O-O,e8g8,rn1q1rk1/pbppbppp/1p2pn2/8/3PP3/3B1N2/PPP1QPPP/RNB2RK1 w - - 6 7,Both kings are safe.
+13,e5,e4e5,rn1q1rk1/pbppbppp/1p2pn2/4P3/3P4/3B1N2/PPP1QPPP/RNB2RK1 b - - 0 7,Attacking the first.
+14,Nd5,f6d5,rn1q1rk1/pbppbppp/1p2p3/3nP3/3P4/3B1N2/PPP1QPPP/RNB2RK1 w - - 1 8,Dangerous but menacing mate by Qh7.
+15,Qe4,e2e4,rn1q1rk1/pbppbppp/1p2p3/3nP3/3PQ3/3B1N2/PPP2PPP/RNB2RK1 b - - 2 8,Dangerous but menacing mate by Qh7.
+16,g6,g7g6,rn1q1rk1/pbppbp1p/1p2p1p1/3nP3/3PQ3/3B1N2/PPP2PPP/RNB2RK1 w - - 0 9,Weakening the king side.
+17,a3,a2a3,rn1q1rk1/pbppbp1p/1p2p1p1/3nP3/3PQ3/P2B1N2/1PP2PPP/RNB2RK1 b - - 0 9,preparing c4 to take black central knight which is pinned by the white queen.
+18,Qc8,d8c8,rnq2rk1/pbppbp1p/1p2p1p1/3nP3/3PQ3/P2B1N2/1PP2PPP/RNB2RK1 w - - 1 10,The knight is not pinned any longer. But the DSB has lost the queen's protection.
+19,Bg5,c1g5,rnq2rk1/pbppbp1p/1p2p1p1/3nP1B1/3PQ3/P2B1N2/1PP2PPP/RN3RK1 b - - 2 10,Bh6 was another candidate move but I thought that the rook on f8 blocked the black king and white's plan is to attack the king straight away as most black pieces are on the queenside. White has to bring his queen on h4 to have two possibilities of attack : e7 (with the  assistance of the DSB) or h7 (with the help of the f knight which could come on g5 if black plays Nxg5 or if white Bxe7).
+20,d6,d7d6,rnq2rk1/pbp1bp1p/1p1pp1p1/3nP1B1/3PQ3/P2B1N2/1PP2PPP/RN3RK1 w - - 0 11,Weak move. It doesn't
+21,c4,c2c4,rnq2rk1/pbp1bp1p/1p1pp1p1/3nP1B1/2PPQ3/P2B1N2/1P3PPP/RN3RK1 b - - 0 11,Everything seems to be ready. White's b knight is still in his garage but I do not want to let the initiative to black and the 4 pieces aiming at black's kingside (not counting the e pawn) seems to be enough. So white launches his attack.
+22,Nb4,d5b4,rnq2rk1/pbp1bp1p/1p1pp1p1/4P1B1/1nPPQ3/P2B1N2/1P3PPP/RN3RK1 w - - 1 12,Menacing to take white's LSB when the queen will have moved but white's attack will be more powerfull with queen on h4
+23,Qh4,e4h4,rnq2rk1/pbp1bp1p/1p1pp1p1/4P1B1/1nPP3Q/P2B1N2/1P3PPP/RN3RK1 b - - 2 12,If 12. ... Bxg5 13. Nxg5 h5 14.axb4
+24,Bxf3,b7f3,rnq2rk1/p1p1bp1p/1p1pp1p1/4P1B1/1nPP3Q/P2B1b2/1P3PPP/RN3RK1 w - - 0 13,Black has seen the danger and takes the knight but has now 3 pieces under menace.
+25,Bxe7,g5e7,rnq2rk1/p1p1Bp1p/1p1pp1p1/4P3/1nPP3Q/P2B1b2/1P3PPP/RN3RK1 b - - 0 13,At first sight menacing to take the rook but white has another plan and I hoped blck wouldn't think about it.
+26,Bxg2,f3g2,rnq2rk1/p1p1Bp1p/1p1pp1p1/4P3/1nPP3Q/P2B4/1P3PbP/RN3RK1 w - - 0 14,Not dangerous for the king (at least on a short term) and it doesn't disturb white's plan.

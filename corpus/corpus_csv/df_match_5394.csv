@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,All book up to here.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,All book up to here.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,All book up to here.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,All book up to here.
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,All book up to here.
+6,g5,g7g5,rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,All book up to here.
+7,h4,h2h4,rnbqkbnr/pppp1p1p/8/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 4,All book up to here.
+8,g4,g5g4,rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5,All book up to here.
+9,Ng5,f3g5,rnbqkbnr/pppp1p1p/8/6N1/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 1 5,Committed now. This Knight has no retreat after my next move.
+10,h6,h7h6,rnbqkbnr/pppp1p2/7p/6N1/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 0 6,"Getting something for the ""desperado"" Knight."
+11,Nxf7,g5f7,rnbqkbnr/pppp1N2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 0 6,"Getting something for the ""desperado"" Knight."
+12,Kxf7,e8f7,rnbq1bnr/pppp1k2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R w KQ - 0 7,K-K1 may have been better. Now my King is exposed and blocking my K-side pieces.
+13,Bc4+,f1c4,rnbq1bnr/pppp1k2/7p/8/2B1PppP/8/PPPP2P1/RNBQK2R b KQ - 1 7,K-K1 may have been better. Now my King is exposed and blocking my K-side pieces.
+14,d5,d7d5,rnbq1bnr/ppp2k2/7p/3p4/2B1PppP/8/PPPP2P1/RNBQK2R w KQ - 0 8,K-K1 may have been better. Now my King is exposed and blocking my K-side pieces.
+15,Bxd5+,c4d5,rnbq1bnr/ppp2k2/7p/3B4/4PppP/8/PPPP2P1/RNBQK2R b KQ - 0 8,K-K1 may have been better. Now my King is exposed and blocking my K-side pieces.
+16,Kg7,f7g7,rnbq1bnr/ppp3k1/7p/3B4/4PppP/8/PPPP2P1/RNBQK2R w KQ - 1 9,K-K1 may have been better. Now my King is exposed and blocking my K-side pieces.
+17,Bxb7,d5b7,rnbq1bnr/pBp3k1/7p/8/4PppP/8/PPPP2P1/RNBQK2R b KQ - 0 9,To allow his next move after I capture the B.
+18,Bxb7,c8b7,rn1q1bnr/pbp3k1/7p/8/4PppP/8/PPPP2P1/RNBQK2R w KQ - 0 10,I don't want to corner my K with K-R2.
+19,Qxg4+,d1g4,rn1q1bnr/pbp3k1/7p/8/4PpQP/8/PPPP2P1/RNB1K2R b KQ - 0 10,I don't want to corner my K with K-R2.
+20,Kf7,g7f7,rn1q1bnr/pbp2k2/7p/8/4PpQP/8/PPPP2P1/RNB1K2R w KQ - 1 11,I don't want to corner my K with K-R2.
+21,Qxf4+,g4f4,rn1q1bnr/pbp2k2/7p/8/4PQ1P/8/PPPP2P1/RNB1K2R b KQ - 0 11,K-K3 was probably better. The King needs to avoid being cornered.
+22,Kg7,f7g7,rn1q1bnr/pbp3k1/7p/8/4PQ1P/8/PPPP2P1/RNB1K2R w KQ - 1 12,K-K3 was probably better. The King needs to avoid being cornered.
+23,b3,b2b3,rn1q1bnr/pbp3k1/7p/8/4PQ1P/1P6/P1PP2P1/RNB1K2R b KQ - 0 12,I see what he plans...
+24,Be7,f8e7,rn1q2nr/pbp1b1k1/7p/8/4PQ1P/1P6/P1PP2P1/RNB1K2R w KQ - 1 13,..and move my B in position to defend the diagonal.
+25,Bb2+,c1b2,rn1q2nr/pbp1b1k1/7p/8/4PQ1P/1P6/PBPP2P1/RN2K2R b KQ - 2 13,The follow-up...
+26,Bf6,e7f6,rn1q2nr/pbp3k1/5b1p/8/4PQ1P/1P6/PBPP2P1/RN2K2R w KQ - 3 14,13... N-B3 is probably better.
+27,e5,e4e5,rn1q2nr/pbp3k1/5b1p/4P3/5Q1P/1P6/PBPP2P1/RN2K2R b KQ - 0 14,"A good move. The Bishop now becomes a ""desperado""."
+28,Bxh4+,f6h4,rn1q2nr/pbp3k1/7p/4P3/5Q1b/1P6/PBPP2P1/RN2K2R w KQ - 0 15,A bad mistake. Now my K is fatally exposed.
+29,Rxh4,h1h4,rn1q2nr/pbp3k1/7p/4P3/5Q1R/1P6/PBPP2P1/RN2K3 b Q - 0 15,"Now material is even, and my position is horrible."
+30,Ne7,g8e7,rn1q3r/pbp1n1k1/7p/4P3/5Q1R/1P6/PBPP2P1/RN2K3 w Q - 1 16,Desperation. I was planning to play N-N3 in response to Q-N4 ch.
+31,e6+,e5e6,rn1q3r/pbp1n1k1/4P2p/8/5Q1R/1P6/PBPP2P1/RN2K3 b Q - 0 16,I completely overlooked this discovered check.
+32,Kg6,g7g6,rn1q3r/pbp1n3/4P1kp/8/5Q1R/1P6/PBPP2P1/RN2K3 w Q - 1 17,Mate will follow shortly.
+33,Qf6+,f4f6,rn1q3r/pbp1n3/4PQkp/8/7R/1P6/PBPP2P1/RN2K3 b Q - 2 17,Closing the ring.
+34,Kh7,g6h7,rn1q3r/pbp1n2k/4PQ1p/8/7R/1P6/PBPP2P1/RN2K3 w Q - 3 18,The other move is equally bad.
+35,Qg7#,f6g7,rn1q3r/pbp1n1Qk/4P2p/8/7R/1P6/PBPP2P1/RN2K3 b Q - 4 18,End of game. Well done by my opponent.

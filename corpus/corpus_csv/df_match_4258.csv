@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Stronger seems Nh5. If I don't want to take the bishop back, I go Bg3, accepting the exchange to use the h file."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Stronger seems Nh5. If I don't want to take the bishop back, I go Bg3, accepting the exchange to use the h file."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"Stronger seems Nh5. If I don't want to take the bishop back, I go Bg3, accepting the exchange to use the h file."
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"Stronger seems Nh5. If I don't want to take the bishop back, I go Bg3, accepting the exchange to use the h file."
+5,Nf3,g1f3,rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"Now I can save the bishop, just in case. It is not regarded as good."
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"Now I can save the bishop, just in case. It is not regarded as good."
+7,h3,h2h3,rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,"Now I can save the bishop, just in case. It is not regarded as good."
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 1 5,"I don't want to push the center, nor with e4, nor with c4."
+9,e3,e2e3,rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/4PN1P/PPP2PP1/RN1QKB1R b KQkq - 0 5,"I don't want to push the center, nor with e4, nor with c4."
+10,Ne4,f6e4,rnbqk2r/ppp1ppbp/6p1/3p4/3PnB2/4PN1P/PPP2PP1/RN1QKB1R w KQkq - 1 6,This knight here is not so useful as it seems. But his twin will become black's more active piece.
+11,c3,c2c3,rnbqk2r/ppp1ppbp/6p1/3p4/3PnB2/2P1PN1P/PP3PP1/RN1QKB1R b KQkq - 0 6,This knight here is not so useful as it seems. But his twin will become black's more active piece.
+12,O-O,e8g8,rnbq1rk1/ppp1ppbp/6p1/3p4/3PnB2/2P1PN1P/PP3PP1/RN1QKB1R w KQ - 1 7,Just to avoid to support the knight with the bishop.
+13,g4,g2g4,rnbq1rk1/ppp1ppbp/6p1/3p4/3PnBP1/2P1PN1P/PP3P2/RN1QKB1R b KQ - 0 7,Just to avoid to support the knight with the bishop.
+14,Nd7,b8d7,r1bq1rk1/pppnppbp/6p1/3p4/3PnBP1/2P1PN1P/PP3P2/RN1QKB1R w KQ - 1 8,Preparing to support the knight.
+15,Bd3,f1d3,r1bq1rk1/pppnppbp/6p1/3p4/3PnBP1/2PBPN1P/PP3P2/RN1QK2R b KQ - 2 8,Indirectly looking for protecting the knight.
+16,b6,b7b6,r1bq1rk1/p1pnppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PP3P2/RN1QK2R w KQ - 0 9,Indirectly looking for protecting the knight.
+17,Qc2,d1c2,r1bq1rk1/p1pnppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQ2P2/RN2K2R b KQ - 1 9,"Accepted. Now, he has to take it, and I don't bother at all to lose my inactive N."
+18,Bb7,c8b7,r2q1rk1/pbpnppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQ2P2/RN2K2R w KQ - 2 10,"Accepted. Now, he has to take it, and I don't bother at all to lose my inactive N."
+19,Nbd2,b1d2,r2q1rk1/pbpnppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQN1P2/R3K2R b KQ - 3 10,"Accepted. Now, he has to take it, and I don't bother at all to lose my inactive N."
+20,Nxd2,e4d2,r2q1rk1/pbpnppbp/1p4p1/3p4/3P1BP1/2PBPN1P/PPQn1P2/R3K2R w KQ - 0 11,Surprise. I want to connect the rooks ASAP :-)
+21,Kxd2,e1d2,r2q1rk1/pbpnppbp/1p4p1/3p4/3P1BP1/2PBPN1P/PPQK1P2/R6R b - - 0 11,Surprise. I want to connect the rooks ASAP :-)
+22,Nf6,d7f6,r2q1rk1/pbp1ppbp/1p3np1/3p4/3P1BP1/2PBPN1P/PPQK1P2/R6R w - - 1 12,"Sweating, since I knew what was coming."
+23,Rag1,a1g1,r2q1rk1/pbp1ppbp/1p3np1/3p4/3P1BP1/2PBPN1P/PPQK1P2/6RR b - - 2 12,"Sweating, since I knew what was coming."
+24,Ne4+,f6e4,r2q1rk1/pbp1ppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQK1P2/6RR w - - 3 13,I won't take it. It will only favour him.
+25,Kc1,d2c1,r2q1rk1/pbp1ppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQ2P2/2K3RR b - - 4 13,I won't take it. It will only favour him.
+26,Rc8,a8c8,2rq1rk1/pbp1ppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQ2P2/2K3RR w - - 5 14,"Oh, yes, I know where are you aiming at."
+27,Kb1,c1b1,2rq1rk1/pbp1ppbp/1p4p1/3p4/3PnBP1/2PBPN1P/PPQ2P2/1K4RR b - - 6 14,"Better was the othe pawn, h5. Anyway, the issue is to surprise him (with not that bad moves)."
+28,c5,c7c5,2rq1rk1/pb2ppbp/1p4p1/2pp4/3PnBP1/2PBPN1P/PPQ2P2/1K4RR w - - 0 15,"Better was the othe pawn, h5. Anyway, the issue is to surprise him (with not that bad moves)."
+29,g5,g4g5,2rq1rk1/pb2ppbp/1p4p1/2pp2P1/3PnB2/2PBPN1P/PPQ2P2/1K4RR b - - 0 15,"Better was the othe pawn, h5. Anyway, the issue is to surprise him (with not that bad moves)."
+30,cxd4,c5d4,2rq1rk1/pb2ppbp/1p4p1/3p2P1/3pnB2/2PBPN1P/PPQ2P2/1K4RR w - - 0 16,"Interesting, but I can't see the advantage black has with these exchanges."
+31,exd4,e3d4,2rq1rk1/pb2ppbp/1p4p1/3p2P1/3PnB2/2PB1N1P/PPQ2P2/1K4RR b - - 0 16,"Interesting, but I can't see the advantage black has with these exchanges."
+32,Bxd4,g7d4,2rq1rk1/pb2pp1p/1p4p1/3p2P1/3bnB2/2PB1N1P/PPQ2P2/1K4RR w - - 0 17,"Interesting, but I can't see the advantage black has with these exchanges."
+33,Nxd4,f3d4,2rq1rk1/pb2pp1p/1p4p1/3p2P1/3NnB2/2PB3P/PPQ2P2/1K4RR b - - 0 17,"Interesting, but I can't see the advantage black has with these exchanges."
+34,e5,e7e5,2rq1rk1/pb3p1p/1p4p1/3pp1P1/3NnB2/2PB3P/PPQ2P2/1K4RR w - - 0 18,It seems logical to prepare it first.
+35,Bxe5,f4e5,2rq1rk1/pb3p1p/1p4p1/3pB1P1/3Nn3/2PB3P/PPQ2P2/1K4RR b - - 0 18,Opening the po(i)sition for me? Thank you!
+36,Nxg5,e4g5,2rq1rk1/pb3p1p/1p4p1/3pB1n1/3N4/2PB3P/PPQ2P2/1K4RR w - - 0 19,Opening the po(i)sition for me? Thank you!
+37,Qd2,c2d2,2rq1rk1/pb3p1p/1p4p1/3pB1n1/3N4/2PB3P/PP1Q1P2/1K4RR b - - 1 19,"I have to ""take"" those black diagonals. My queen must come into the game."
+38,Ne4,g5e4,2rq1rk1/pb3p1p/1p4p1/3pB3/3Nn3/2PB3P/PP1Q1P2/1K4RR w - - 2 20,"f6 was impossible because of Rxg6+, hxR, Qxg6+, Kh8, Nf5 and I win. Now, Bxg6, fxB, Rxg6+, hxR, Qxg6+, Kh8, BxN+, winning. But I saw another good move, thinking it was definitive."
+39,Qh6,d2h6,2rq1rk1/pb3p1p/1p4pQ/3pB3/3Nn3/2PB3P/PP3P2/1K4RR b - - 3 20,"f6 was impossible because of Rxg6+, hxR, Qxg6+, Kh8, Nf5 and I win. Now, Bxg6, fxB, Rxg6+, hxR, Qxg6+, Kh8, BxN+, winning. But I saw another good move, thinking it was definitive."
+40,Nf6,e4f6,2rq1rk1/pb3p1p/1p3npQ/3pB3/3N4/2PB3P/PP3P2/1K4RR w - - 4 21,"f6 was impossible because of Rxg6+, hxR, Qxg6+, Kh8, Nf5 and I win. Now, Bxg6, fxB, Rxg6+, hxR, Qxg6+, Kh8, BxN+, winning. But I saw another good move, thinking it was definitive."
+41,Nf5,d4f5,2rq1rk1/pb3p1p/1p3npQ/3pBN2/8/2PB3P/PP3P2/1K4RR b - - 5 21,I was wrong.
+42,Nh5,f6h5,2rq1rk1/pb3p1p/1p4pQ/3pBN1n/8/2PB3P/PP3P2/1K4RR w - - 6 22,"Desperate defence, since I can play straight away QxN. Of course it was a blunder, since Ne8 would have worked much better. Anyway, the Bxg6 sac would have worked all the same."

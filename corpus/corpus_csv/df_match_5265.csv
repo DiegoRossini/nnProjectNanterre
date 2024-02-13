@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Nothing wrong with Petrov's. It can give good chances to both sides.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Nothing wrong with Petrov's. It can give good chances to both sides.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Nothing wrong with Petrov's. It can give good chances to both sides.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Nothing wrong with Petrov's. It can give good chances to both sides.
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,?! I do not like this move as it prevents his light squared bishop from going anywhere.
+6,Bd6,f8d6,rnbqk2r/pppp1ppp/3b1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,?! I do not like this move as it prevents his light squared bishop from going anywhere.
+7,d4,d2d4,rnbqk2r/pppp1ppp/3b1n2/4N3/3PP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,5. Nxf7 Kxf7 6. Qh5 Kf8 7. Qf5+ Nf6 fails to regain the material although positionally I have an advantage.
+8,Nxe4,f6e4,rnbqk2r/pppp1ppp/3b4/4N3/3Pn3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,5. Nxf7 Kxf7 6. Qh5 Kf8 7. Qf5+ Nf6 fails to regain the material although positionally I have an advantage.
+9,Qg4,d1g4,rnbqk2r/pppp1ppp/3b4/4N3/3Pn1Q1/8/PPP2PPP/RNB1KB1R b KQkq - 1 5,!? 5. Ng5?? 6. Bxg5 f6 7. Qh5+ g6 (forced. 7. ... Ke7/Kf8 8. Qf7#) 8. Nxg6 fxg5 9. Nxg8+ Ke7/Kf8 10. Qf7#. If 8. ... hxg6 9. Qxh8+ Kf7 10. Qxh7+ and white is up a rook and pawn.
+10,Bxe5,d6e5,rnbqk2r/pppp1ppp/8/4b3/3Pn1Q1/8/PPP2PPP/RNB1KB1R w KQkq - 0 6,I think this is the best reply. Comments welcome!!
+11,dxe5,d4e5,rnbqk2r/pppp1ppp/8/4P3/4n1Q1/8/PPP2PPP/RNB1KB1R b KQkq - 0 6,exd e.p. is impossible because of 7. ... Bxg4
+12,d5,d7d5,rnbqk2r/ppp2ppp/8/3pP3/4n1Q1/8/PPP2PPP/RNB1KB1R w KQkq d6 0 7,exd e.p. is impossible because of 7. ... Bxg4
+13,Qxg7,g4g7,rnbqk2r/ppp2pQp/8/3pP3/4n3/8/PPP2PPP/RNB1KB1R b KQkq - 0 7,At this point I am okay with developing with only a pawn up because his king is in the middle of the board and I can make his pieces passive.
+14,Rf8,h8f8,rnbqkr2/ppp2pQp/8/3pP3/4n3/8/PPP2PPP/RNB1KB1R w KQq - 1 8,At this point I am okay with developing with only a pawn up because his king is in the middle of the board and I can make his pieces passive.
+15,Bd3,f1d3,rnbqkr2/ppp2pQp/8/3pP3/4n3/3B4/PPP2PPP/RNB1K2R b KQq - 2 8,At this point I am okay with developing with only a pawn up because his king is in the middle of the board and I can make his pieces passive.
+16,Bf5,c8f5,rn1qkr2/ppp2pQp/8/3pPb2/4n3/3B4/PPP2PPP/RNB1K2R w KQq - 3 9,At this point I am okay with developing with only a pawn up because his king is in the middle of the board and I can make his pieces passive.
+17,O-O,e1g1,rn1qkr2/ppp2pQp/8/3pPb2/4n3/3B4/PPP2PPP/RNB2RK1 b q - 4 9,At this point I am okay with developing with only a pawn up because his king is in the middle of the board and I can make his pieces passive.
+18,Nc6,b8c6,r2qkr2/ppp2pQp/2n5/3pPb2/4n3/3B4/PPP2PPP/RNB2RK1 w q - 5 10,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+19,Nc3,b1c3,r2qkr2/ppp2pQp/2n5/3pPb2/4n3/2NB4/PPP2PPP/R1B2RK1 b q - 6 10,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+20,Qd7,d8d7,r3kr2/pppq1pQp/2n5/3pPb2/4n3/2NB4/PPP2PPP/R1B2RK1 w q - 7 11,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+21,Bxe4,d3e4,r3kr2/pppq1pQp/2n5/3pPb2/4B3/2N5/PPP2PPP/R1B2RK1 b q - 0 11,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+22,dxe4,d5e4,r3kr2/pppq1pQp/2n5/4Pb2/4p3/2N5/PPP2PPP/R1B2RK1 w q - 0 12,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+23,Bg5,c1g5,r3kr2/pppq1pQp/2n5/4PbB1/4p3/2N5/PPP2PPP/R4RK1 b q - 1 12,12. ... f6 13. exf6 Qxg7 14. fxg7 Rg8 15. Bf6 threatening 16. Nd5.
+24,Qe6,d7e6,r3kr2/ppp2pQp/2n1q3/4PbB1/4p3/2N5/PPP2PPP/R4RK1 w q - 2 13,Black is going to have trouble castling now. 13. ... Ne7 14. Rad1
+25,Bf6,g5f6,r3kr2/ppp2pQp/2n1qB2/4Pb2/4p3/2N5/PPP2PPP/R4RK1 b q - 3 13,Black is going to have trouble castling now. 13. ... Ne7 14. Rad1
+26,a6,a7a6,r3kr2/1pp2pQp/p1n1qB2/4Pb2/4p3/2N5/PPP2PPP/R4RK1 w q - 0 14,None of black's pieces can move except his bishop!
+27,Rad1,a1d1,r3kr2/1pp2pQp/p1n1qB2/4Pb2/4p3/2N5/PPP2PPP/3R1RK1 b q - 1 14,None of black's pieces can move except his bishop!
+28,b5,b7b5,r3kr2/2p2pQp/p1n1qB2/1p2Pb2/4p3/2N5/PPP2PPP/3R1RK1 w q - 0 15,None of black's pieces can move except his bishop!
+29,Nd5,c3d5,r3kr2/2p2pQp/p1n1qB2/1p1NPb2/4p3/8/PPP2PPP/3R1RK1 b q - 1 15,None of black's pieces can move except his bishop!
+30,Rc8,a8c8,2r1kr2/2p2pQp/p1n1qB2/1p1NPb2/4p3/8/PPP2PPP/3R1RK1 w - - 2 16,None of black's pieces can move except his bishop!
+31,Rfe1,f1e1,2r1kr2/2p2pQp/p1n1qB2/1p1NPb2/4p3/8/PPP2PPP/3RR1K1 b - - 3 16,I can take my time to improve my position as black has no worthwhile moves to make. Although there was nothing wrong with 18. Rxe4 ...
+32,Bg4,f5g4,2r1kr2/2p2pQp/p1n1qB2/1p1NP3/4p1b1/8/PPP2PPP/3RR1K1 w - - 4 17,I can take my time to improve my position as black has no worthwhile moves to make. Although there was nothing wrong with 18. Rxe4 ...
+33,Rd2,d1d2,2r1kr2/2p2pQp/p1n1qB2/1p1NP3/4p1b1/8/PPPR1PPP/4R1K1 b - - 5 17,I can take my time to improve my position as black has no worthwhile moves to make. Although there was nothing wrong with 18. Rxe4 ...
+34,Bh5,g4h5,2r1kr2/2p2pQp/p1n1qB2/1p1NP2b/4p3/8/PPPR1PPP/4R1K1 w - - 6 18,I can take my time to improve my position as black has no worthwhile moves to make. Although there was nothing wrong with 18. Rxe4 ...
+35,c3,c2c3,2r1kr2/2p2pQp/p1n1qB2/1p1NP2b/4p3/2P5/PP1R1PPP/4R1K1 b - - 0 18,?? Checkmate in 2. See if you can find it.
+36,Bg6,h5g6,2r1kr2/2p2pQp/p1n1qBb1/1p1NP3/4p3/2P5/PP1R1PPP/4R1K1 w - - 1 19,?? Checkmate in 2. See if you can find it.
+37,h3,h2h3,2r1kr2/2p2pQp/p1n1qBb1/1p1NP3/4p3/2P4P/PP1R1PP1/4R1K1 b - - 0 19,?? Checkmate in 2. See if you can find it.
+38,Na5,c6a5,2r1kr2/2p2pQp/p3qBb1/np1NP3/4p3/2P4P/PP1R1PP1/4R1K1 w - - 1 20,?? Checkmate in 2. See if you can find it.
+39,Nxc7+,d5c7,2r1kr2/2N2pQp/p3qBb1/np2P3/4p3/2P4P/PP1R1PP1/4R1K1 b - - 0 20,! 1-0. 20. ... Rxc7 21. Rd8#. Black must take the knight since he is in check. A nice and short game if you ask me but not particularly climactic.

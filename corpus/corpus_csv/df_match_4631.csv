@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Standard reply.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Standard reply.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Normal.
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Still book, but a dangerous move, since it leaves the center to white."
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,Standard.
+6,e5,e7e5,rnbqkbnr/ppp2ppp/8/4p3/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,"Another thematic move, leading to a sharp game."
+7,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/4p3/2pPP3/5N2/PP3PPP/RNBQKB1R b KQkq - 1 4,Standard.
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/4p3/2pPP3/5N2/PP3PPP/RNBQKB1R w KQkq - 2 5,Even sharper.
+9,Bxc4,f1c4,rnbqkb1r/ppp2ppp/5n2/4p3/2BPP3/5N2/PP3PPP/RNBQK2R b KQkq - 0 5,"Leaves e4 to black, but at a cost."
+10,Bb4+,f8b4,rnbqk2r/ppp2ppp/5n2/4p3/1bBPP3/5N2/PP3PPP/RNBQK2R w KQkq - 1 6,Interposing a check for developement's sake.
+11,Bd2,c1d2,rnbqk2r/ppp2ppp/5n2/4p3/1bBPP3/5N2/PP1B1PPP/RN1QK2R b KQkq - 2 6,"Somewhat unexpected to me, but of course white cares for developement, without leaving black the extra tempo we will have if Nc3."
+12,Bxd2+,b4d2,rnbqk2r/ppp2ppp/5n2/4p3/2BPP3/5N2/PP1b1PPP/RN1QK2R w KQkq - 0 7,More developement for white.
+13,Nbxd2,b1d2,rnbqk2r/ppp2ppp/5n2/4p3/2BPP3/5N2/PP1N1PPP/R2QK2R b KQkq - 0 7,"e4 is defended, and three minor pieces are developed against one by black. It leaves d4 to black, though."
+14,exd4,e5d4,rnbqk2r/ppp2ppp/5n2/8/2BpP3/5N2/PP1N1PPP/R2QK2R w KQkq - 0 8,Greedily taking the offered pawn.
+15,e5,e4e5,rnbqk2r/ppp2ppp/5n2/4P3/2Bp4/5N2/PP1N1PPP/R2QK2R b KQkq - 0 8,Putting the question to the black knight.
+16,Ng4,f6g4,rnbqk2r/ppp2ppp/8/4P3/2Bp2n1/5N2/PP1N1PPP/R2QK2R w KQkq - 1 9,"Alternate moves were: Nd7, Nh5, or Qe7."
+17,h3,h2h3,rnbqk2r/ppp2ppp/8/4P3/2Bp2n1/5N1P/PP1N1PP1/R2QK2R b KQkq - 0 9,Another question.
+18,Nh6,g4h6,rnbqk2r/ppp2ppp/7n/4P3/2Bp4/5N1P/PP1N1PP1/R2QK2R w KQkq - 1 10,The knight retires to the only possible square.
+19,Nb3,d2b3,rnbqk2r/ppp2ppp/7n/4P3/2Bp4/1N3N1P/PP3PP1/R2QK2R b KQkq - 2 10,Attacking d4. Compare white's to black's position...
+20,c5,c7c5,rnbqk2r/pp3ppp/7n/2p1P3/2Bp4/1N3N1P/PP3PP1/R2QK2R w KQkq - 0 11,"Confidently, since if Nxc5, Qa5+, winning the knight."
+21,Qe2,d1e2,rnbqk2r/pp3ppp/7n/2p1P3/2Bp4/1N3N1P/PP2QPP1/R3K2R b KQkq - 1 11,With threats on the e column.

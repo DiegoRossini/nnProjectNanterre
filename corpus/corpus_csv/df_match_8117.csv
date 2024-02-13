@@ -1,0 +1,144 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Leads to modern defence
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Leads to modern defence
+3,f4,f2f4,rnbqkbnr/ppp1pppp/3p4/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq - 0 2,A new idea for me. Attacks the center.
+4,f5,f7f5,rnbqkbnr/ppp1p1pp/3p4/5p2/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq - 0 3,A new idea for me. Attacks the center.
+5,e3,e2e3,rnbqkbnr/ppp1p1pp/3p4/5p2/3P1P2/4P3/PPP3PP/RNBQKBNR b KQkq - 0 3,Attack the center!
+6,Nf6,g8f6,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P1P2/4P3/PPP3PP/RNBQKBNR w KQkq - 1 4,Attack the center!
+7,Bd3,f1d3,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P1P2/3BP3/PPP3PP/RNBQK1NR b KQkq - 2 4,Attack the center!
+8,c5,c7c5,rnbqkb1r/pp2p1pp/3p1n2/2p2p2/3P1P2/3BP3/PPP3PP/RNBQK1NR w KQkq - 0 5,Attack the center!
+9,Nf3,g1f3,rnbqkb1r/pp2p1pp/3p1n2/2p2p2/3P1P2/3BPN2/PPP3PP/RNBQK2R b KQkq - 1 5,A pawn win.
+10,Nc6,b8c6,r1bqkb1r/pp2p1pp/2np1n2/2p2p2/3P1P2/3BPN2/PPP3PP/RNBQK2R w KQkq - 2 6,A pawn win.
+11,c3,c2c3,r1bqkb1r/pp2p1pp/2np1n2/2p2p2/3P1P2/2PBPN2/PP4PP/RNBQK2R b KQkq - 0 6,A pawn win.
+12,e6,e7e6,r1bqkb1r/pp4pp/2nppn2/2p2p2/3P1P2/2PBPN2/PP4PP/RNBQK2R w KQkq - 0 7,A pawn win.
+13,b4,b2b4,r1bqkb1r/pp4pp/2nppn2/2p2p2/1P1P1P2/2PBPN2/P5PP/RNBQK2R b KQkq - 0 7,A pawn win.
+14,cxb4,c5b4,r1bqkb1r/pp4pp/2nppn2/5p2/1p1P1P2/2PBPN2/P5PP/RNBQK2R w KQkq - 0 8,A pawn win.
+15,c4,c3c4,r1bqkb1r/pp4pp/2nppn2/5p2/1pPP1P2/3BPN2/P5PP/RNBQK2R b KQkq - 0 8,Kbd2 Qc3 --> xe3
+16,Be7,f8e7,r1bqk2r/pp2b1pp/2nppn2/5p2/1pPP1P2/3BPN2/P5PP/RNBQK2R w KQkq - 1 9,Kbd2 Qc3 --> xe3
+17,a3,a2a3,r1bqk2r/pp2b1pp/2nppn2/5p2/1pPP1P2/P2BPN2/6PP/RNBQK2R b KQkq - 0 9,Kbd2 Qc3 --> xe3
+18,bxa3,b4a3,r1bqk2r/pp2b1pp/2nppn2/5p2/2PP1P2/p2BPN2/6PP/RNBQK2R w KQkq - 0 10,Kbd2 Qc3 --> xe3
+19,Bxa3,c1a3,r1bqk2r/pp2b1pp/2nppn2/5p2/2PP1P2/B2BPN2/6PP/RN1QK2R b KQkq - 0 10,Kbd2 Qc3 --> xe3
+20,Qa5+,d8a5,r1b1k2r/pp2b1pp/2nppn2/q4p2/2PP1P2/B2BPN2/6PP/RN1QK2R w KQkq - 1 11,Kbd2 Qc3 --> xe3
+21,Nfd2,f3d2,r1b1k2r/pp2b1pp/2nppn2/q4p2/2PP1P2/B2BP3/3N2PP/RN1QK2R b KQkq - 2 11,Qe2 e5
+22,Ng4,f6g4,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1Pn1/B2BP3/3N2PP/RN1QK2R w KQkq - 3 12,Qe2 e5
+23,O-O,e1g1,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1Pn1/B2BP3/3N2PP/RN1Q1RK1 b kq - 4 12,Qe2 e5
+24,Nxe3,g4e3,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1P2/B2Bn3/3N2PP/RN1Q1RK1 w kq - 0 13,Bf6 Bb2 Qb6
+25,Qe2,d1e2,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1P2/B2Bn3/3NQ1PP/RN3RK1 b kq - 1 13,Bf6 Bb2 Qb6
+26,Nxf1,e3f1,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1P2/B2B4/3NQ1PP/RN3nK1 w kq - 0 14,Bf6 Bb2 Qb6
+27,Qxf1,e2f1,r1b1k2r/pp2b1pp/2npp3/q4p2/2PP1P2/B2B4/3N2PP/RN3QK1 b kq - 0 14,Bf6 Bb2 Qb6
+28,Nxd4,c6d4,r1b1k2r/pp2b1pp/3pp3/q4p2/2Pn1P2/B2B4/3N2PP/RN3QK1 w kq - 0 15,Bf6 Bb2 Qb6
+29,Qf2,f1f2,r1b1k2r/pp2b1pp/3pp3/q4p2/2Pn1P2/B2B4/3N1QPP/RN4K1 b kq - 1 15,Bf6 Bb2 Qb6
+30,Qb6,a5b6,r1b1k2r/pp2b1pp/1q1pp3/5p2/2Pn1P2/B2B4/3N1QPP/RN4K1 w kq - 2 16,Bf6
+31,Nc3,b1c3,r1b1k2r/pp2b1pp/1q1pp3/5p2/2Pn1P2/B1NB4/3N1QPP/R5K1 b kq - 3 16,Bf6
+32,Nc6,d4c6,r1b1k2r/pp2b1pp/1qnpp3/5p2/2P2P2/B1NB4/3N1QPP/R5K1 w kq - 4 17,Bf6
+33,Kf1,g1f1,r1b1k2r/pp2b1pp/1qnpp3/5p2/2P2P2/B1NB4/3N1QPP/R4K2 b kq - 5 17,Some calculation...
+34,Qxf2+,b6f2,r1b1k2r/pp2b1pp/2npp3/5p2/2P2P2/B1NB4/3N1qPP/R4K2 w kq - 0 18,Some calculation...
+35,Kxf2,f1f2,r1b1k2r/pp2b1pp/2npp3/5p2/2P2P2/B1NB4/3N1KPP/R7 b kq - 0 18,Some calculation...
+36,Bf6,e7f6,r1b1k2r/pp4pp/2nppb2/5p2/2P2P2/B1NB4/3N1KPP/R7 w kq - 1 19,Some calculation...
+37,Bb2,a3b2,r1b1k2r/pp4pp/2nppb2/5p2/2P2P2/2NB4/1B1N1KPP/R7 b kq - 2 19,Some calculation...
+38,Nb4,c6b4,r1b1k2r/pp4pp/3ppb2/5p2/1nP2P2/2NB4/1B1N1KPP/R7 w kq - 3 20,Some calculation...
+39,Be2,d3e2,r1b1k2r/pp4pp/3ppb2/5p2/1nP2P2/2N5/1B1NBKPP/R7 b kq - 4 20,Some calculation...
+40,Nc2,b4c2,r1b1k2r/pp4pp/3ppb2/5p2/2P2P2/2N5/1BnNBKPP/R7 w kq - 5 21,Some calculation...
+41,Ra5,a1a5,r1b1k2r/pp4pp/3ppb2/R4p2/2P2P2/2N5/1BnNBKPP/8 b kq - 6 21,Some calculation...
+42,b6,b7b6,r1b1k2r/p5pp/1p1ppb2/R4p2/2P2P2/2N5/1BnNBKPP/8 w kq - 0 22,Some calculation...
+43,Rb5,a5b5,r1b1k2r/p5pp/1p1ppb2/1R3p2/2P2P2/2N5/1BnNBKPP/8 b kq - 1 22,Some calculation...
+44,Nd4,c2d4,r1b1k2r/p5pp/1p1ppb2/1R3p2/2Pn1P2/2N5/1B1NBKPP/8 w kq - 2 23,Some calculation...
+45,Bf3,e2f3,r1b1k2r/p5pp/1p1ppb2/1R3p2/2Pn1P2/2N2B2/1B1N1KPP/8 b kq - 3 23,Some calculation...
+46,Rb8,a8b8,1rb1k2r/p5pp/1p1ppb2/1R3p2/2Pn1P2/2N2B2/1B1N1KPP/8 w k - 4 24,Some calculation...
+47,Nb3,d2b3,1rb1k2r/p5pp/1p1ppb2/1R3p2/2Pn1P2/1NN2B2/1B3KPP/8 b k - 5 24,Some calculation...
+48,Nxb5,d4b5,1rb1k2r/p5pp/1p1ppb2/1n3p2/2P2P2/1NN2B2/1B3KPP/8 w k - 0 25,Some calculation...
+49,Bc6+,f3c6,1rb1k2r/p5pp/1pBppb2/1n3p2/2P2P2/1NN5/1B3KPP/8 b k - 1 25,Some calculation...
+50,Bd7,c8d7,1r2k2r/p2b2pp/1pBppb2/1n3p2/2P2P2/1NN5/1B3KPP/8 w k - 2 26,Some calculation...
+51,Bxb5,c6b5,1r2k2r/p2b2pp/1p1ppb2/1B3p2/2P2P2/1NN5/1B3KPP/8 b k - 0 26,Some calculation...
+52,Bxb5,d7b5,1r2k2r/p5pp/1p1ppb2/1b3p2/2P2P2/1NN5/1B3KPP/8 w k - 0 27,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+53,cxb5,c4b5,1r2k2r/p5pp/1p1ppb2/1P3p2/5P2/1NN5/1B3KPP/8 b k - 0 27,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+54,Rc8,b8c8,2r1k2r/p5pp/1p1ppb2/1P3p2/5P2/1NN5/1B3KPP/8 w k - 1 28,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+55,Na4,c3a4,2r1k2r/p5pp/1p1ppb2/1P3p2/N4P2/1N6/1B3KPP/8 b k - 2 28,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+56,Rc2+,c8c2,4k2r/p5pp/1p1ppb2/1P3p2/N4P2/1N6/1Br2KPP/8 w k - 3 29,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+57,Ke1,f2e1,4k2r/p5pp/1p1ppb2/1P3p2/N4P2/1N6/1Br3PP/4K3 b k - 4 29,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+58,Bxb2,f6b2,4k2r/p5pp/1p1pp3/1P3p2/N4P2/1N6/1br3PP/4K3 w k - 0 30,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+59,Kd1,e1d1,4k2r/p5pp/1p1pp3/1P3p2/N4P2/1N6/1br3PP/3K4 b k - 1 30,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+60,Rxg2,c2g2,4k2r/p5pp/1p1pp3/1P3p2/N4P2/1N6/1b4rP/3K4 w k - 0 31,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+61,h3,h2h3,4k2r/p5pp/1p1pp3/1P3p2/N4P2/1N5P/1b4r1/3K4 b k - 0 31,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+62,Kd7,e8d7,7r/p2k2pp/1p1pp3/1P3p2/N4P2/1N5P/1b4r1/3K4 w - - 1 32,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+63,Nd2,b3d2,7r/p2k2pp/1p1pp3/1P3p2/N4P2/7P/1b1N2r1/3K4 b - - 2 32,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+64,Bd4,b2d4,7r/p2k2pp/1p1pp3/1P3p2/N2b1P2/7P/3N2r1/3K4 w - - 3 33,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+65,Nb3,d2b3,7r/p2k2pp/1p1pp3/1P3p2/N2b1P2/1N5P/6r1/3K4 b - - 4 33,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+66,Be3,d4e3,7r/p2k2pp/1p1pp3/1P3p2/N4P2/1N2b2P/6r1/3K4 w - - 5 34,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+67,h4,h3h4,7r/p2k2pp/1p1pp3/1P3p2/N4P1P/1N2b3/6r1/3K4 b - - 0 34,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+68,Bxf4,e3f4,7r/p2k2pp/1p1pp3/1P3p2/N4b1P/1N6/6r1/3K4 w - - 0 35,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+69,Nd4,b3d4,7r/p2k2pp/1p1pp3/1P3p2/N2N1b1P/8/6r1/3K4 b - - 1 35,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+70,Rc8,h8c8,2r5/p2k2pp/1p1pp3/1P3p2/N2N1b1P/8/6r1/3K4 w - - 2 36,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+71,Nc6,d4c6,2r5/p2k2pp/1pNpp3/1P3p2/N4b1P/8/6r1/3K4 b - - 3 36,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+72,e5,e6e5,2r5/p2k2pp/1pNp4/1P2pp2/N4b1P/8/6r1/3K4 w - - 0 37,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+73,Nxa7,c6a7,2r5/N2k2pp/1p1p4/1P2pp2/N4b1P/8/6r1/3K4 b - - 0 37,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"
+74,Rc1#,c8c1,8/N2k2pp/1p1p4/1P2pp2/N4b1P/8/6r1/2rK4 w - - 1 38,"This game was played fast. 
+Lessons from this game: 
+Control the center;
+Try new ideas"

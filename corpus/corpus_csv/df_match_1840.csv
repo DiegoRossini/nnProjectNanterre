@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The starting position.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The starting position.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The starting position.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The starting position.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The starting position.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,The starting position.
+7,d3,d2d3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,The starting position.
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,The starting position.
+9,Nc3,b1c3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 2 5,The starting position.
+10,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6,The starting position.
+11,Bg5,c1g5,r1bqk2r/ppp2ppp/2np1n2/2b1p1B1/2B1P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 1 6,The starting position.
+12,h6,h7h6,r1bqk2r/ppp2pp1/2np1n1p/2b1p1B1/2B1P3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 7,The starting position.
+13,Bxf6,g5f6,r1bqk2r/ppp2pp1/2np1B1p/2b1p3/2B1P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 0 7,The starting position.
+14,Qxf6,d8f6,r1b1k2r/ppp2pp1/2np1q1p/2b1p3/2B1P3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 8,The starting position.
+15,Nd5,c3d5,r1b1k2r/ppp2pp1/2np1q1p/2bNp3/2B1P3/3P1N2/PPP2PPP/R2QK2R b KQkq - 1 8,The starting position.
+16,Qd8,f6d8,r1bqk2r/ppp2pp1/2np3p/2bNp3/2B1P3/3P1N2/PPP2PPP/R2QK2R w KQkq - 2 9,The starting position.
+17,c3,c2c3,r1bqk2r/ppp2pp1/2np3p/2bNp3/2B1P3/2PP1N2/PP3PPP/R2QK2R b KQkq - 0 9,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+18,a6,a7a6,r1bqk2r/1pp2pp1/p1np3p/2bNp3/2B1P3/2PP1N2/PP3PPP/R2QK2R w KQkq - 0 10,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+19,d4,d3d4,r1bqk2r/1pp2pp1/p1np3p/2bNp3/2BPP3/2P2N2/PP3PPP/R2QK2R b KQkq - 0 10,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+20,b5,b7b5,r1bqk2r/2p2pp1/p1np3p/1pbNp3/2BPP3/2P2N2/PP3PPP/R2QK2R w KQkq - 0 11,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+21,Bb3,c4b3,r1bqk2r/2p2pp1/p1np3p/1pbNp3/3PP3/1BP2N2/PP3PPP/R2QK2R b KQkq - 1 11,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+22,Bg4,c8g4,r2qk2r/2p2pp1/p1np3p/1pbNp3/3PP1b1/1BP2N2/PP3PPP/R2QK2R w KQkq - 2 12,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+23,dxc5,d4c5,r2qk2r/2p2pp1/p1np3p/1pPNp3/4P1b1/1BP2N2/PP3PPP/R2QK2R b KQkq - 0 12,"For whatever reason, my opponent didn't retreat the attacked Bishop, so I gladly snap it up."
+24,dxc5,d6c5,r2qk2r/2p2pp1/p1n4p/1ppNp3/4P1b1/1BP2N2/PP3PPP/R2QK2R w KQkq - 0 13,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+25,O-O,e1g1,r2qk2r/2p2pp1/p1n4p/1ppNp3/4P1b1/1BP2N2/PP3PPP/R2Q1RK1 b kq - 1 13,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+26,Na5,c6a5,r2qk2r/2p2pp1/p6p/nppNp3/4P1b1/1BP2N2/PP3PPP/R2Q1RK1 w kq - 2 14,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+27,Bc2,b3c2,r2qk2r/2p2pp1/p6p/nppNp3/4P1b1/2P2N2/PPB2PPP/R2Q1RK1 b kq - 3 14,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+28,Bxf3,g4f3,r2qk2r/2p2pp1/p6p/nppNp3/4P3/2P2b2/PPB2PPP/R2Q1RK1 w kq - 0 15,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+29,Qxf3,d1f3,r2qk2r/2p2pp1/p6p/nppNp3/4P3/2P2Q2/PPB2PPP/R4RK1 b kq - 0 15,After more slow maneuvering [typical of this variation] a pair of minors get swapped.
+30,Nc4,a5c4,r2qk2r/2p2pp1/p6p/1ppNp3/2n1P3/2P2Q2/PPB2PPP/R4RK1 w kq - 1 16,I attack Black's advanced Knight.
+31,Rfd1,f1d1,r2qk2r/2p2pp1/p6p/1ppNp3/2n1P3/2P2Q2/PPB2PPP/R2R2K1 b kq - 2 16,I attack Black's advanced Knight.
+32,Qc8,d8c8,r1q1k2r/2p2pp1/p6p/1ppNp3/2n1P3/2P2Q2/PPB2PPP/R2R2K1 w kq - 3 17,I attack Black's advanced Knight.
+33,Rab1,a1b1,r1q1k2r/2p2pp1/p6p/1ppNp3/2n1P3/2P2Q2/PPB2PPP/1R1R2K1 b kq - 4 17,I attack Black's advanced Knight.
+34,O-O,e8g8,r1q2rk1/2p2pp1/p6p/1ppNp3/2n1P3/2P2Q2/PPB2PPP/1R1R2K1 w - - 5 18,I attack Black's advanced Knight.
+35,Ne3,d5e3,r1q2rk1/2p2pp1/p6p/1pp1p3/2n1P3/2P1NQ2/PPB2PPP/1R1R2K1 b - - 6 18,I attack Black's advanced Knight.
+36,Nxe3,c4e3,r1q2rk1/2p2pp1/p6p/1pp1p3/4P3/2P1nQ2/PPB2PPP/1R1R2K1 w - - 0 19,Another exchange. I don't mind in the least.
+37,Qxe3,f3e3,r1q2rk1/2p2pp1/p6p/1pp1p3/4P3/2P1Q3/PPB2PPP/1R1R2K1 b - - 0 19,Another exchange. I don't mind in the least.
+38,c4,c5c4,r1q2rk1/2p2pp1/p6p/1p2p3/2p1P3/2P1Q3/PPB2PPP/1R1R2K1 w - - 0 20,Placing my Queen in a better spot.
+39,Qc5,e3c5,r1q2rk1/2p2pp1/p6p/1pQ1p3/2p1P3/2P5/PPB2PPP/1R1R2K1 b - - 1 20,Placing my Queen in a better spot.
+40,Re8,f8e8,r1q1r1k1/2p2pp1/p6p/1pQ1p3/2p1P3/2P5/PPB2PPP/1R1R2K1 w - - 2 21,I prepare...
+41,Rd2,d1d2,r1q1r1k1/2p2pp1/p6p/1pQ1p3/2p1P3/2P5/PPBR1PPP/1R4K1 b - - 3 21,I prepare...
+42,Qe6,c8e6,r3r1k1/2p2pp1/p3q2p/1pQ1p3/2p1P3/2P5/PPBR1PPP/1R4K1 w - - 4 22,...to double Rooks on the open file.
+43,Rbd1,b1d1,r3r1k1/2p2pp1/p3q2p/1pQ1p3/2p1P3/2P5/PPBR1PPP/3R2K1 b - - 5 22,...to double Rooks on the open file.
+44,g5,g7g5,r3r1k1/2p2p2/p3q2p/1pQ1p1p1/2p1P3/2P5/PPBR1PPP/3R2K1 w - - 0 23,"Solidifying my Pawns and making ""luft"", to avoid any future unpleasant tactical possibilities."
+45,f3,f2f3,r3r1k1/2p2p2/p3q2p/1pQ1p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 b - - 0 23,"Solidifying my Pawns and making ""luft"", to avoid any future unpleasant tactical possibilities."
+46,c6,c7c6,r3r1k1/5p2/p1p1q2p/1pQ1p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 w - - 0 24,I offer to trade Queens. Black should decline with ...Q-B1.
+47,Qd6,c5d6,r3r1k1/5p2/p1pQq2p/1p2p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 b - - 1 24,I offer to trade Queens. Black should decline with ...Q-B1.
+48,Rac8,a8c8,2r1r1k1/5p2/p1pQq2p/1p2p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 w - - 2 25,"With the Queens off the board, my job is simpler. As is the position."
+49,Qxe6,d6e6,2r1r1k1/5p2/p1p1Q2p/1p2p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 b - - 0 25,"With the Queens off the board, my job is simpler. As is the position."
+50,Rxe6,e8e6,2r3k1/5p2/p1p1r2p/1p2p1p1/2p1P3/2P2P2/PPBR2PP/3R2K1 w - - 0 26,I force off one pair of Rooks.
+51,Rd2d8+,d2d8,2rR2k1/5p2/p1p1r2p/1p2p1p1/2p1P3/2P2P2/PPB3PP/3R2K1 b - - 1 26,I force off one pair of Rooks.
+52,Rxd8,c8d8,3r2k1/5p2/p1p1r2p/1p2p1p1/2p1P3/2P2P2/PPB3PP/3R2K1 w - - 0 27,Black wisely keeps the second pair on the board.
+53,Rxd8+,d1d8,3R2k1/5p2/p1p1r2p/1p2p1p1/2p1P3/2P2P2/PPB3PP/6K1 b - - 0 27,Black wisely keeps the second pair on the board.
+54,Kg7,g8g7,3R4/5pk1/p1p1r2p/1p2p1p1/2p1P3/2P2P2/PPB3PP/6K1 w - - 1 28,Time to get my Pawns and King into action.
+55,g3,g2g3,3R4/5pk1/p1p1r2p/1p2p1p1/2p1P3/2P2PP1/PPB4P/6K1 b - - 0 28,Time to get my Pawns and King into action.
+56,h5,h6h5,3R4/5pk1/p1p1r3/1p2p1pp/2p1P3/2P2PP1/PPB4P/6K1 w - - 0 29,The endgame isn't easy to convert. I have to make sure I blockade the K-side first thing.
+57,h3,h2h3,3R4/5pk1/p1p1r3/1p2p1pp/2p1P3/2P2PPP/PPB5/6K1 b - - 0 29,The endgame isn't easy to convert. I have to make sure I blockade the K-side first thing.
+58,Kg6,g7g6,3R4/5p2/p1p1r1k1/1p2p1pp/2p1P3/2P2PPP/PPB5/6K1 w - - 1 30,I don't intend to let Black enter.
+59,Kg2,g1g2,3R4/5p2/p1p1r1k1/1p2p1pp/2p1P3/2P2PPP/PPB3K1/8 b - - 2 30,I don't intend to let Black enter.
+60,a5,a6a5,3R4/5p2/2p1r1k1/pp2p1pp/2p1P3/2P2PPP/PPB3K1/8 w - - 0 31,I focus my B on the area of interest.
+61,Bd1,c2d1,3R4/5p2/2p1r1k1/pp2p1pp/2p1P3/2P2PPP/PP4K1/3B4 b - - 1 31,I focus my B on the area of interest.
+62,Re7,e6e7,3R4/4rp2/2p3k1/pp2p1pp/2p1P3/2P2PPP/PP4K1/3B4 w - - 2 32,The idea is to lock the K-side.
+63,g4,g3g4,3R4/4rp2/2p3k1/pp2p1pp/2p1P1P1/2P2P1P/PP4K1/3B4 b - - 0 32,The idea is to lock the K-side.
+64,h4,h5h4,3R4/4rp2/2p3k1/pp2p1p1/2p1P1Pp/2P2P1P/PP4K1/3B4 w - - 0 33,I bring my rook back into play.
+65,Rd6+,d8d6,8/4rp2/2pR2k1/pp2p1p1/2p1P1Pp/2P2P1P/PP4K1/3B4 b - - 1 33,I bring my rook back into play.
+66,f6,f7f6,8/4r3/2pR1pk1/pp2p1p1/2p1P1Pp/2P2P1P/PP4K1/3B4 w - - 0 34,I need to centralize my King now.
+67,Kf2,g2f2,8/4r3/2pR1pk1/pp2p1p1/2p1P1Pp/2P2P1P/PP3K2/3B4 b - - 1 34,I need to centralize my King now.

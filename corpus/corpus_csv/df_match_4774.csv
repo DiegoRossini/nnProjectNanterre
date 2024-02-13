@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A fairly ordinary move
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Already I start attacking
+3,e5,e4e5,rnbqkbnr/ppp1pppp/8/3pP3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,My king is now open for check
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2ppP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,My king is now open for check
+5,Bb5+,f1b5,rnbqkbnr/pp2pppp/8/1BppP3/8/8/PPPP1PPP/RNBQK1NR b KQkq - 1 3,I use my knight
+6,Nd7,b8d7,r1bqkbnr/pp1npppp/8/1BppP3/8/8/PPPP1PPP/RNBQK1NR w KQkq - 2 4,I use my knight
+7,Bxd7+,b5d7,r1bqkbnr/pp1Bpppp/8/2ppP3/8/8/PPPP1PPP/RNBQK1NR b KQkq - 0 4,I take his bishop
+8,Bxd7,c8d7,r2qkbnr/pp1bpppp/8/2ppP3/8/8/PPPP1PPP/RNBQK1NR w KQkq - 0 5,I take his bishop
+9,d4,d2d4,r2qkbnr/pp1bpppp/8/2ppP3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 0 5,Getting my queen in the attack
+10,Qa5+,d8a5,r3kbnr/pp1bpppp/8/q1ppP3/3P4/8/PPP2PPP/RNBQK1NR w KQkq - 1 6,Getting my queen in the attack
+11,Bd2,c1d2,r3kbnr/pp1bpppp/8/q1ppP3/3P4/8/PPPB1PPP/RN1QK1NR b KQkq - 2 6,A good move
+12,Qb5,a5b5,r3kbnr/pp1bpppp/8/1qppP3/3P4/8/PPPB1PPP/RN1QK1NR w KQkq - 3 7,Still attacking
+13,b3,b2b3,r3kbnr/pp1bpppp/8/1qppP3/3P4/1P6/P1PB1PPP/RN1QK1NR b KQkq - 0 7,I try to take over the other side of the board
+14,h5,h7h5,r3kbnr/pp1bppp1/8/1qppP2p/3P4/1P6/P1PB1PPP/RN1QK1NR w KQkq - 0 8,I try to take over the other side of the board
+15,Nf3,g1f3,r3kbnr/pp1bppp1/8/1qppP2p/3P4/1P3N2/P1PB1PPP/RN1QK2R b KQkq - 1 8,His knight is pinned
+16,Bg4,d7g4,r3kbnr/pp2ppp1/8/1qppP2p/3P2b1/1P3N2/P1PB1PPP/RN1QK2R w KQkq - 2 9,His knight is pinned
+17,h3,h2h3,r3kbnr/pp2ppp1/8/1qppP2p/3P2b1/1P3N1P/P1PB1PP1/RN1QK2R b KQkq - 0 9,I might as well take it
+18,Bxf3,g4f3,r3kbnr/pp2ppp1/8/1qppP2p/3P4/1P3b1P/P1PB1PP1/RN1QK2R w KQkq - 0 10,I might as well take it
+19,Qxf3,d1f3,r3kbnr/pp2ppp1/8/1qppP2p/3P4/1P3Q1P/P1PB1PP1/RN2K2R b KQkq - 0 10,I suddenly have an idea
+20,cxd4,c5d4,r3kbnr/pp2ppp1/8/1q1pP2p/3p4/1P3Q1P/P1PB1PP1/RN2K2R w KQkq - 0 11,Attacking the queen
+21,Na3,b1a3,r3kbnr/pp2ppp1/8/1q1pP2p/3p4/NP3Q1P/P1PB1PP1/R3K2R b KQkq - 1 11,Attacking the queen
+22,Qc6,b5c6,r3kbnr/pp2ppp1/2q5/3pP2p/3p4/NP3Q1P/P1PB1PP1/R3K2R w KQkq - 2 12,My plan has been hatched! All I need him to do now is to
+23,O-O-O,e1c1,r3kbnr/pp2ppp1/2q5/3pP2p/3p4/NP3Q1P/P1PB1PP1/2KR3R b kq - 3 12,Castle!
+24,Qc5,c6c5,r3kbnr/pp2ppp1/8/2qpP2p/3p4/NP3Q1P/P1PB1PP1/2KR3R w kq - 4 13,A blunder. Rc8 is better
+25,Nb1,a3b1,r3kbnr/pp2ppp1/8/2qpP2p/3p4/1P3Q1P/P1PB1PP1/1NKR3R b kq - 5 13,The king only has 1 escape route
+26,Rc8,a8c8,2r1kbnr/pp2ppp1/8/2qpP2p/3p4/1P3Q1P/P1PB1PP1/1NKR3R w k - 6 14,Almost got him
+27,Qd3,f3d3,2r1kbnr/pp2ppp1/8/2qpP2p/3p4/1P1Q3P/P1PB1PP1/1NKR3R b k - 7 14,Bc3 would be better
+28,f6,f7f6,2r1kbnr/pp2p1p1/5p2/2qpP2p/3p4/1P1Q3P/P1PB1PP1/1NKR3R w k - 0 15,I have to give up the plan

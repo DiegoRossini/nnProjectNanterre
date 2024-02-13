@@ -1,0 +1,79 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,I've analysed this game in two parts. The first my feelings and observations during and just after  the game and in the second part engine assisted annotations(EA).
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,The Wade variation an opening in which my opponent is expert in.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,The Wade variation an opening in which my opponent is expert in.
+4,Bg4,c8g4,rn1qkbnr/ppp1pppp/3p4/8/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,The Wade variation an opening in which my opponent is expert in.
+5,e4,e2e4,rn1qkbnr/ppp1pppp/3p4/8/3PP1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,3.c4 is a major alternative line which after3.... Bxf3 4. exf3 leads to an imbalance in the position. Though theory and the silicon monster give white a reasonable plus my opponent has too often clawed his way to an advantage in the middlegame/endgame where his q-side majority has the final say.
+6,e6,e7e6,rn1qkbnr/ppp2ppp/3pp3/8/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,book and I believe Svidler may have played it but I feel it just hands white the add.I prefer 3.....Nbd7 preparing either c4 or e4
+7,h3,h2h3,rn1qkbnr/ppp2ppp/3pp3/8/3PP1b1/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 4,"Putting the question to the Bishop though I didn't expect the exchange of minor pieces. The move is useful as it prepares a ""luft"" for the King and discourages black from playing Ng4"
+8,Bh5,g4h5,rn1qkbnr/ppp2ppp/3pp3/7b/3PP3/5N1P/PPP2PP1/RNBQKB1R w KQkq - 1 5,Staking a claim for central space. My data base gives 6.g4 6.Be2 6.Bf4 as having been played here.
+9,Nc3,b1c3,rn1qkbnr/ppp2ppp/3pp3/7b/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 2 5,Staking a claim for central space. My data base gives 6.g4 6.Be2 6.Bf4 as having been played here.
+10,c6,c7c6,rn1qkbnr/pp3ppp/2ppp3/7b/3PP3/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 0 6,Staking a claim for central space. My data base gives 6.g4 6.Be2 6.Bf4 as having been played here.
+11,d5,d4d5,rn1qkbnr/pp3ppp/2ppp3/3P3b/4P3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6,Staking a claim for central space. My data base gives 6.g4 6.Be2 6.Bf4 as having been played here.
+12,exd5,e6d5,rn1qkbnr/pp3ppp/2pp4/3p3b/4P3/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 0 7,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+13,exd5,e4d5,rn1qkbnr/pp3ppp/2pp4/3P3b/8/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 7,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+14,Nf6,g8f6,rn1qkb1r/pp3ppp/2pp1n2/3P3b/8/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 1 8,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+15,Be2,f1e2,rn1qkb1r/pp3ppp/2pp1n2/3P3b/8/2N2N1P/PPP1BPP1/R1BQK2R b KQkq - 2 8,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+16,Be7,f8e7,rn1qk2r/pp2bppp/2pp1n2/3P3b/8/2N2N1P/PPP1BPP1/R1BQK2R w KQkq - 3 9,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+17,O-O,e1g1,rn1qk2r/pp2bppp/2pp1n2/3P3b/8/2N2N1P/PPP1BPP1/R1BQ1RK1 b kq - 4 9,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+18,O-O,e8g8,rn1q1rk1/pp2bppp/2pp1n2/3P3b/8/2N2N1P/PPP1BPP1/R1BQ1RK1 w - - 5 10,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+19,Be3,c1e3,rn1q1rk1/pp2bppp/2pp1n2/3P3b/8/2N1BN1P/PPP1BPP1/R2Q1RK1 b - - 6 10,"Continuing development though Bf4 may have been more accurate.
+EA.Houdini gives in order of preference: 10 Re1 10 Bf4 10 g4"
+20,c5,c6c5,rn1q1rk1/pp2bppp/3p1n2/2pP3b/8/2N1BN1P/PPP1BPP1/R2Q1RK1 w - - 0 11,Seeking Q-side counterplay.
+21,Re1,f1e1,rn1q1rk1/pp2bppp/3p1n2/2pP3b/8/2N1BN1P/PPP1BPP1/R2QR1K1 b - - 1 11,Seeking Q-side counterplay.
+22,a6,a7a6,rn1q1rk1/1p2bppp/p2p1n2/2pP3b/8/2N1BN1P/PPP1BPP1/R2QR1K1 w - - 0 12,Seeking Q-side counterplay.
+23,a4,a2a4,rn1q1rk1/1p2bppp/p2p1n2/2pP3b/P7/2N1BN1P/1PP1BPP1/R2QR1K1 b - - 0 12,"Looking to prevent blacks q-side expansion
+AE. Houdini prefers 12.Nh4 12.Nd2 12.Bf4.So perhaps my choice was unnecessary."
+24,b6,b7b6,rn1q1rk1/4bppp/pp1p1n2/2pP3b/P7/2N1BN1P/1PP1BPP1/R2QR1K1 w - - 0 13,"Played to prevent a5 but I think12.... Nbd7 was better then if 13.a5 black plays b5 14.axb Qxb6 with counterplay.
+EA. Houdini gives 12.......b6 as +0.73 for white preferring 12.....Bxf3 +0.39 or 12.....Nbd7 +0.46"
+25,Nd2,f3d2,rn1q1rk1/4bppp/pp1p1n2/2pP3b/P7/2N1B2P/1PPNBPP1/R2QR1K1 b - - 1 13,"Heading for c4 and also happy to exchange of WSB.
+AE. Houdinis first choice with an evaluation of +0.92. But an easy move to choose as in this old-benoni type of position Nd2 offering the bishop exchange and heading for c4 is thematic."
+26,Bg6,h5g6,rn1q1rk1/4bppp/pp1p1nb1/2pP4/P7/2N1B2P/1PPNBPP1/R2QR1K1 w - - 2 14,"14......Nbd7 developing is better even though the move played allows an eventual b5 after the double exchange of minor pieces.
+EA. Houdini gives this as +1.58 for white preferring  14.....Re8 +0.90  14.....Nbd7 +1.00"
+27,Nc4,d2c4,rn1q1rk1/4bppp/pp1p1nb1/2pP4/P1N5/2N1B2P/1PP1BPP1/R2QR1K1 b - - 3 14,"14......Nbd7 developing is better even though the move played allows an eventual b5 after the double exchange of minor pieces.
+EA. Houdini gives this as +1.58 for white preferring  14.....Re8 +0.90  14.....Nbd7 +1.00"
+28,Ne4,f6e4,rn1q1rk1/4bppp/pp1p2b1/2pP4/P1N1n3/2N1B2P/1PP1BPP1/R2QR1K1 w - - 4 15,"14......Nbd7 developing is better even though the move played allows an eventual b5 after the double exchange of minor pieces.
+EA. Houdini gives this as +1.58 for white preferring  14.....Re8 +0.90  14.....Nbd7 +1.00"
+29,Nxe4,c3e4,rn1q1rk1/4bppp/pp1p2b1/2pP4/P1N1N3/4B2P/1PP1BPP1/R2QR1K1 b - - 0 15,AE. Houdini prefers 16. Bd3 and 16.Bf4 both at +1.60 compared to 16.Bf3 +1.34
+30,Bxe4,g6e4,rn1q1rk1/4bppp/pp1p4/2pP4/P1N1b3/4B2P/1PP1BPP1/R2QR1K1 w - - 0 16,AE. Houdini prefers 16. Bd3 and 16.Bf4 both at +1.60 compared to 16.Bf3 +1.34
+31,Bf3,e2f3,rn1q1rk1/4bppp/pp1p4/2pP4/P1N1b3/4BB1P/1PP2PP1/R2QR1K1 b - - 1 16,AE. Houdini prefers 16. Bd3 and 16.Bf4 both at +1.60 compared to 16.Bf3 +1.34
+32,Bxf3,e4f3,rn1q1rk1/4bppp/pp1p4/2pP4/P1N5/4Bb1P/1PP2PP1/R2QR1K1 w - - 0 17,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+33,Qxf3,d1f3,rn1q1rk1/4bppp/pp1p4/2pP4/P1N5/4BQ1P/1PP2PP1/R3R1K1 b - - 0 17,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+34,Ra7,a8a7,1n1q1rk1/r3bppp/pp1p4/2pP4/P1N5/4BQ1P/1PP2PP1/R3R1K1 w - - 1 18,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+35,Bf4,e3f4,1n1q1rk1/r3bppp/pp1p4/2pP4/P1N2B2/5Q1P/1PP2PP1/R3R1K1 b - - 2 18,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+36,Rd7,a7d7,1n1q1rk1/3rbppp/pp1p4/2pP4/P1N2B2/5Q1P/1PP2PP1/R3R1K1 w - - 3 19,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+37,Re4,e1e4,1n1q1rk1/3rbppp/pp1p4/2pP4/P1N1RB2/5Q1P/1PP2PP1/R5K1 b - - 4 19,"Looking towards attacking the k-side.
+EA. Houdini prefers 19.Qb3 +1.75 compared to +1.31 for 19.Re4 but by this stage I had tunnel vision towards a K-side attack."
+38,b5,b6b5,1n1q1rk1/3rbppp/p2p4/1ppP4/P1N1RB2/5Q1P/1PP2PP1/R5K1 w - - 0 20,Retreating but still attacking.
+39,axb5,a4b5,1n1q1rk1/3rbppp/p2p4/1PpP4/2N1RB2/5Q1P/1PP2PP1/R5K1 b - - 0 20,Retreating but still attacking.
+40,axb5,a6b5,1n1q1rk1/3rbppp/3p4/1ppP4/2N1RB2/5Q1P/1PP2PP1/R5K1 w - - 0 21,Retreating but still attacking.
+41,Na3,c4a3,1n1q1rk1/3rbppp/3p4/1ppP4/4RB2/N4Q1P/1PP2PP1/R5K1 b - - 1 21,Retreating but still attacking.
+42,Qb6,d8b6,1n3rk1/3rbppp/1q1p4/1ppP4/4RB2/N4Q1P/1PP2PP1/R5K1 w - - 2 22,"Rb7 may have been better.
+AE. Houdini gives this as an error +2.34 for white preferring 21.....Rb7 +1.29 and 21....b4 +1.35"
+43,Rae1,a1e1,1n3rk1/3rbppp/1q1p4/1ppP4/4RB2/N4Q1P/1PP2PP1/4R1K1 b - - 3 22,"Bringing the final reserves into the attack. 
+AE. Houdini gives this as a mistake +1.51 preferring 22.Qe2 +2.38"
+44,Bf6,e7f6,1n3rk1/3r1ppp/1q1p1b2/1ppP4/4RB2/N4Q1P/1PP2PP1/4R1K1 w - - 4 23,"Trying to slow down blacks Q-side counter-play.
+EA.A mistake given +0.75 Houdini preferring 23.Re8 +1.65 and 23. Qb3 +1.50"
+45,c3,c2c3,1n3rk1/3r1ppp/1q1p1b2/1ppP4/4RB2/N1P2Q1P/1P3PP1/4R1K1 b - - 0 23,"Trying to slow down blacks Q-side counter-play.
+EA.A mistake given +0.75 Houdini preferring 23.Re8 +1.65 and 23. Qb3 +1.50"
+46,Na6,b8a6,5rk1/3r1ppp/nq1p1b2/1ppP4/4RB2/N1P2Q1P/1P3PP1/4R1K1 w - - 1 24,"Proud of this shot even though the computer programs don't rate it.
+EA. Interesting is the gameknot engine changes the position rating from+0.79 down to +0.39 after 24.Bh6 and Houdini rates similar.
+From exhilaration to the taste of ashes. My masterpiece is flawed.18.Qg4 =0.78 is preferred by both engines."
+47,Bh6,f4h6,5rk1/3r1ppp/nq1p1b1B/1ppP4/4R3/N1P2Q1P/1P3PP1/4R1K1 b - - 2 24,"Proud of this shot even though the computer programs don't rate it.
+EA. Interesting is the gameknot engine changes the position rating from+0.79 down to +0.39 after 24.Bh6 and Houdini rates similar.
+From exhilaration to the taste of ashes. My masterpiece is flawed.18.Qg4 =0.78 is preferred by both engines."
+48,Nc7,a6c7,5rk1/2nr1ppp/1q1p1b1B/1ppP4/4R3/N1P2Q1P/1P3PP1/4R1K1 w - - 3 25,"A blunder better was Qd8 
+EA. Gameknot engine gives this as a blunder and suggests the following line as +0.39: 24.....Qd8 25.Qg3 Kh8 26.Bf4 Nc7 27.Qd3 c4 28.Qd1 Qa8 29.Qg4 Rfd8 30.Bg5 Bxg5 31.Qxg5 Qxd5 32.Qxd5 Nxd5 33.Nxb5
+But doesn't 33.Re8 lead to mate? Conclusion, don't trust the gameknot engine.In the above line Houdini gives29....Rdd8 +0.00 with equality."

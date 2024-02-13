@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Any comments are welcome, especially from all the higher rated players!
+
+This is my game against a much higher rated opponent, so I decided to try the annotation feature and to learn more from my loss. :)"
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"black starts with Caro–Kann defense, which at my level is a very rare choice."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"I was considering also c4 instead of d4, but then I would end up with an isolated d pawn, which could be a problem."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,main line.
+5,Nd2,b1d2,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3,"maybe not the best choice to block the bishop, but keeps my c pawn free to move and hopefully knight will not stay there for long"
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/8/PPPN1PPP/R1BQKBNR w KQkq - 0 4,"I don't know why, but black takes,"
+7,Nxe4,d2e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,so I am happy to advance my knight.
+8,Nd7,b8d7,r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,"black also decided to temporarily block his bishop. Somehow this move is considered to be ok, although for me the black's position looks very passive. White is ready to move both bishops, but black cannot move any of his bishops."
+9,Bc4,f1c4,r1bqkbnr/pp1npppp/2p5/8/2BPN3/8/PPP2PPP/R1BQK1NR b KQkq - 2 5,simple development move.
+10,Ngf6,g8f6,r1bqkb1r/pp1npppp/2p2n2/8/2BPN3/8/PPP2PPP/R1BQK1NR w KQkq - 3 6,"black offers to exchange knights,"
+11,Qe2,d1e2,r1bqkb1r/pp1npppp/2p2n2/8/2BPN3/8/PPP1QPPP/R1B1K1NR b KQkq - 4 6,"I have to protect my knight, because I don't want to take on Nxf6 giving up my only developed knight and helping black to get the other knight from d7 to f6. Moving Queen also prepares connecting rooks and possible castling long.
+
+Now I checked some chessok database and it says that 6. Nxf6 has been played a lot, even by some super GMs rated 2740, but my 6. Qe2 only by a few, the highest being 2177, so not even master level :("
+12,Nxe4,f6e4,r1bqkb1r/pp1npppp/2p5/8/2BPn3/8/PPP1QPPP/R1B1K1NR w KQkq - 0 7,black takes knight and gets another knight developed with a tempo.
+13,Qxe4,e2e4,r1bqkb1r/pp1npppp/2p5/8/2BPQ3/8/PPP2PPP/R1B1K1NR b KQkq - 0 7,"ok, maybe it was not a good idea to move the Q, because now it will be chased away."
+14,Nf6,d7f6,r1bqkb1r/pp2pppp/2p2n2/8/2BPQ3/8/PPP2PPP/R1B1K1NR w KQkq - 1 8,I guess the only reasonable place for Q is d3.
+15,Qd3,e4d3,r1bqkb1r/pp2pppp/2p2n2/8/2BP4/3Q4/PPP2PPP/R1B1K1NR b KQkq - 2 8,.
+16,g6,g7g6,r1bqkb1r/pp2pp1p/2p2np1/8/2BP4/3Q4/PPP2PPP/R1B1K1NR w KQkq - 0 9,"black prepares for fianchetto, attacking d4 pawn,
+I will make b2-c3-d4 pawn chain to counter that black bishop."
+17,Nf3,g1f3,r1bqkb1r/pp2pp1p/2p2np1/8/2BP4/3Q1N2/PPP2PPP/R1B1K2R b KQkq - 1 9,"developing knight, preparing to castle"
+18,Bg7,f8g7,r1bqk2r/pp2ppbp/2p2np1/8/2BP4/3Q1N2/PPP2PPP/R1B1K2R w KQkq - 2 10,fianchettoing bishop
+19,Bg5,c1g5,r1bqk2r/pp2ppbp/2p2np1/6B1/2BP4/3Q1N2/PPP2PPP/R3K2R b KQkq - 3 10,development almost finished now
+20,O-O,e8g8,r1bq1rk1/pp2ppbp/2p2np1/6B1/2BP4/3Q1N2/PPP2PPP/R3K2R w KQ - 4 11,castling short

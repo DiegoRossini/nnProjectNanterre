@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I decided to try the Vienna Game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I decided to try the Vienna Game.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,I decided to try the Vienna Game.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,"The Max Lange variation.  The Falkbeer variation, Nf6, is more common, but both are solid."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,"Other good moves are f4 and g3, as well as Nf3, transposing to the Three Knights Opening."
+6,Nd4,c6d4,r1bqkbnr/pppp1ppp/8/4p3/2BnP3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 4 4,"This move surprised me, probably developing another piece would be better.  It does threaten a fork at c2, so my queen can't move."
+7,Nf3,g1f3,r1bqkbnr/pppp1ppp/8/4p3/2BnP3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"Since he undefended e5, this is the natural response.  If Nxf3, Qxf3 threatens scholar's mate and gives me the edge in development."
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/5n2/4p3/2BnP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,"In addition to gaining the pawn, this threatens Nxf7."
+9,Nxe5,f3e5,r1bqkb1r/pppp1ppp/5n2/4N3/2BnP3/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 5,"In addition to gaining the pawn, this threatens Nxf7."
+10,Bd6,f8d6,r1bqk2r/pppp1ppp/3b1n2/4N3/2BnP3/2N5/PPPP1PPP/R1BQK2R w KQkq - 1 6,? d5 or Ne6 would have stopped the fork.
+11,Nxf7,e5f7,r1bqk2r/pppp1Npp/3b1n2/8/2BnP3/2N5/PPPP1PPP/R1BQK2R b KQkq - 0 6,Winning the rook.
+12,Qe7,d8e7,r1b1k2r/ppppqNpp/3b1n2/8/2BnP3/2N5/PPPP1PPP/R1BQK2R w KQkq - 1 7,Threatening to win the queen with Nxc3 .
+13,Nxh8,f7h8,r1b1k2N/ppppq1pp/3b1n2/8/2BnP3/2N5/PPPP1PPP/R1BQK2R b KQq - 0 7,Threatening to win the queen with Nxc3 .
+14,Nxe4,f6e4,r1b1k2N/ppppq1pp/3b4/8/2Bnn3/2N5/PPPP1PPP/R1BQK2R w KQq - 0 8,Threatening to win the queen with Nxc3 .
+15,Ne2,c3e2,r1b1k2N/ppppq1pp/3b4/8/2Bnn3/8/PPPPNPPP/R1BQK2R b KQq - 1 8,"If Nxe2 Qxe2, his attack has lost it's bite."
+16,Be5,d6e5,r1b1k2N/ppppq1pp/8/4b3/2Bnn3/8/PPPPNPPP/R1BQK2R w KQq - 2 9,Preparing Qd6 for an attack on h2?  Probably actually preparing what happened in the game.
+17,Nf7,h8f7,r1b1k3/ppppqNpp/8/4b3/2Bnn3/8/PPPPNPPP/R1BQK2R b KQq - 3 9,"I wanted to get my king out with O-O, but that would lead to 9...Bxh2  10. Kxh2 (Kh1 Qh4 looks bad) Qh4  11. Kg1 Nf3  12. gxf3 Qg5  13. Ng3 (to avoid three-fold repetition, I failed to notice Kh2) Nxg3 14. fxg3 (I failed to notice Re1 ) Qxg3 , with three-fold repetition to follow.
+So I'll get my knight out of danger and threaten the bishop."
+18,Qc5,e7c5,r1b1k3/pppp1Npp/8/2q1b3/2Bnn3/8/PPPPNPPP/R1BQK2R w KQq - 4 10,"I figured he was attacking my bishop with thoughts of attack, but not an immediate plan."
+19,Nxe5,f7e5,r1b1k3/pppp2pp/8/2q1N3/2Bnn3/8/PPPPNPPP/R1BQK2R b KQq - 0 10,"? So I went ahead and took his bishop, expecting Qxe5.
+Nxd4 would have been the best move."
+20,Nf3+,d4f3,r1b1k3/pppp2pp/8/2q1N3/2B1n3/5n2/PPPPNPPP/R1BQK2R w KQq - 1 11,"! A very nice move, setting up the discovered threat of Qxf2#, which can't be prevented since the king is in check."
+21,Nxf3,e5f3,r1b1k3/pppp2pp/8/2q5/2B1n3/5N2/PPPPNPPP/R1BQK2R b KQq - 0 11,I decided to let him finish the checkmate.
+22,Qxf2#,c5f2,r1b1k3/pppp2pp/8/8/2B1n3/5N2/PPPPNqPP/R1BQK2R w KQq - 0 12,"A very interesting ending position.  The loser is up by 11 points, we both have 6 pawns left on their starting squares, most of my back rank and half of his queenside haven't moved, and 14 of the 22 moves have been by knights."

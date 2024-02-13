@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"I usually like to play aggressively, and so we started this game with a Two Knight defense opening."
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"This is a good play, white knight defends his pawn and attacks f7. I usually play d5 or Qe7, but this time I wanted to try something different and with Bc5 the game went to a Traxler variation."
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5,"This is a good play, white knight defends his pawn and attacks f7. I usually play d5 or Qe7, but this time I wanted to try something different and with Bc5 the game went to a Traxler variation."
+9,Nxf7,g5f7,r1bqk2r/pppp1Npp/2n2n2/2b1p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Bxf7 it's a better play. Nxf7 seems better because of the dual attack on black queen and rook but leads to...
+10,Bxf2+,c5f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQK2R w KQkq - 0 6,... Bxf2+ that puts white under pressure and forces a move by the king.
+11,Kf1,e1f1,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b kq - 1 6,Kxf2 was also possibly but with Nxe4+ the queen is released. This move seems a good defense although the rook becomes trapped.
+12,Qe7,d8e7,r1b1k2r/ppppqNpp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R w kq - 2 7,Take the queen from the attack.
+13,Nxh8,f7h8,r1b1k2N/ppppq1pp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b q - 0 7,With this play white takes the lead in pieces but the knight is removed from play. Black has to take advantage of its positioning and pressure must be kept.
+14,d5,d7d5,r1b1k2N/ppp1q1pp/2n2n2/3pp3/2B1P3/8/PPPP1bPP/RNBQ1K1R w q - 0 8,I wanted to keep the knight trapped and remove the protection of the f7 tile. This also releases the bishop.
+15,exd5,e4d5,r1b1k2N/ppp1q1pp/2n2n2/3Pp3/2B5/8/PPPP1bPP/RNBQ1K1R b q - 0 8,"This is a better play than Bxd5, because of 8. ... Bg4"
+16,Bg4,c8g4,r3k2N/ppp1q1pp/2n2n2/3Pp3/2B3b1/8/PPPP1bPP/RNBQ1K1R w q - 1 9,Had to switch bishops because the knight in c6 has to move and the white bishop had the queen support.
+17,Be2,c4e2,r3k2N/ppp1q1pp/2n2n2/3Pp3/6b1/8/PPPPBbPP/RNBQ1K1R b q - 2 9,Had to switch bishops because the knight in c6 has to move and the white bishop had the queen support.
+18,Bxe2+,g4e2,r3k2N/ppp1q1pp/2n2n2/3Pp3/8/8/PPPPbbPP/RNBQ1K1R w q - 0 10,Had to switch bishops because the knight in c6 has to move and the white bishop had the queen support.
+19,Qxe2,d1e2,r3k2N/ppp1q1pp/2n2n2/3Pp3/8/8/PPPPQbPP/RNB2K1R b q - 0 10,The only play that saves the knight and still pressures white.
+20,Nd4,c6d4,r3k2N/ppp1q1pp/5n2/3Pp3/3n4/8/PPPPQbPP/RNB2K1R w q - 1 11,The only play that saves the knight and still pressures white.
+21,Qd3,e2d3,r3k2N/ppp1q1pp/5n2/3Pp3/3n4/3Q4/PPPP1bPP/RNB2K1R b q - 2 11,"Qxf2 would have been better.
+Black could do 11. ... Nxc2 12. ... Na1 but doing that black loses its positional strength. And with 11. Qxf2 Ne4 black puts the f7 tile vulnerable."
+22,Qc5,e7c5,r3k2N/ppp3pp/5n2/2qPp3/3n4/3Q4/PPPP1bPP/RNB2K1R w q - 3 12,"Since white was so eager to defend c2 and consequently the rook, I brought the queen into game expecting a defensive maneuver of the c2 tile."
+23,Nc3,b1c3,r3k2N/ppp3pp/5n2/2qPp3/3n4/2NQ4/PPPP1bPP/R1B2K1R b q - 4 12,"I think that was a strong play, trying to bring the knight into game, but probably c3 was better forcing black to move the knight."
+24,O-O-O,e8c8,2kr3N/ppp3pp/5n2/2qPp3/3n4/2NQ4/PPPP1bPP/R1B2K1R w - - 5 13,Taking advantage of piece development I tried to bring the rook into game.
+25,Nf7,h8f7,2kr4/ppp2Npp/5n2/2qPp3/3n4/2NQ4/PPPP1bPP/R1B2K1R b - - 6 13,"White has a possibility to put the knight into play. But with this play I can do Nf6 and put the white king in a dangerous position.
+And alternative was e4 which would lead to Qh3+ Rd7, a rook lock and a very mobile white queen."
+26,Rf8,d8f8,2k2r2/ppp2Npp/5n2/2qPp3/3n4/2NQ4/PPPP1bPP/R1B2K1R w - - 7 14,"White has a possibility to put the knight into play. But with this play I can do Nf6 and put the white king in a dangerous position.
+And alternative was e4 which would lead to Qh3+ Rd7, a rook lock and a very mobile white queen."
+27,Nxe5,f7e5,2k2r2/ppp3pp/5n2/2qPN3/3n4/2NQ4/PPPP1bPP/R1B2K1R b - - 0 14,Now white is in serious danger.
+28,Nxd5,f6d5,2k2r2/ppp3pp/8/2qnN3/3n4/2NQ4/PPPP1bPP/R1B2K1R w - - 0 15,Now white is in serious danger.
+29,Nxd5,c3d5,2k2r2/ppp3pp/8/2qNN3/3n4/3Q4/PPPP1bPP/R1B2K1R b - - 0 15,The white king is surrounded and in serious pressure.
+30,Bg3+,f2g3,2k2r2/ppp3pp/8/2qNN3/3n4/3Q2b1/PPPP2PP/R1B2K1R w - - 1 16,The white king is surrounded and in serious pressure.
+31,Nf3,e5f3,2k2r2/ppp3pp/8/2qN4/3n4/3Q1Nb1/PPPP2PP/R1B2K1R b - - 2 16,"After 15. ... Bg3+ the mate was eminent.
+
+I really enjoyed this game. This really showed me the strength of a early pressure on the opposing king. 
+White gained piece advantage but loose development which was crucial in the end game."
+32,Nxf3,d4f3,2k2r2/ppp3pp/8/2qN4/8/3Q1nb1/PPPP2PP/R1B2K1R w - - 0 17,"After 15. ... Bg3+ the mate was eminent.
+
+I really enjoyed this game. This really showed me the strength of a early pressure on the opposing king. 
+White gained piece advantage but loose development which was crucial in the end game."
+33,gxf3,g2f3,2k2r2/ppp3pp/8/2qN4/8/3Q1Pb1/PPPP3P/R1B2K1R b - - 0 17,"After 15. ... Bg3+ the mate was eminent.
+
+I really enjoyed this game. This really showed me the strength of a early pressure on the opposing king. 
+White gained piece advantage but loose development which was crucial in the end game."
+34,Qf2#,c5f2,2k2r2/ppp3pp/8/3N4/8/3Q1Pb1/PPPP1q1P/R1B2K1R w - - 1 18,"After 15. ... Bg3+ the mate was eminent.
+
+I really enjoyed this game. This really showed me the strength of a early pressure on the opposing king. 
+White gained piece advantage but loose development which was crucial in the end game."

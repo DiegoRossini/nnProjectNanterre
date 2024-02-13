@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"The English opening. Against this I normally try to transpose to the King's Indian, which is what happens here."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2,We have now reached the mainline of the King's Indian Defense
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2,We have now reached the mainline of the King's Indian Defense
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,We have now reached the mainline of the King's Indian Defense
+5,Nf3,g1f3,rnbqkb1r/pppppp1p/5np1/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3,We have now reached the mainline of the King's Indian Defense
+6,d6,d7d6,rnbqkb1r/ppp1pp1p/3p1np1/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4,We have now reached the mainline of the King's Indian Defense
+7,d4,d2d4,rnbqkb1r/ppp1pp1p/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 4,We have now reached the mainline of the King's Indian Defense
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 1 5,We have now reached the mainline of the King's Indian Defense
+9,e4,e2e4,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 5,We have now reached the mainline of the King's Indian Defense
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 1 6,We have now reached the mainline of the King's Indian Defense
+11,h3,h2h3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 0 6,"a typical move, inviting white to close the center with d5. Then black will attack on the kingside with an eventual ...f5, while white will try to make progress on the queenside."
+12,e5,e7e5,rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 0 7,"a typical move, inviting white to close the center with d5. Then black will attack on the kingside with an eventual ...f5, while white will try to make progress on the queenside."
+13,d5,d4d5,rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 0 7,putting pressure on e4
+14,Nbd7,b8d7,r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 1 8,putting pressure on e4
+15,Be2,f1e2,r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N1P/PP2BPP1/R1BQK2R b KQ - 2 8,putting pressure on e4
+16,Nc5,d7c5,r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N2N1P/PP2BPP1/R1BQK2R w KQ - 3 9,putting pressure on e4
+17,Qc2,d1c2,r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N2N1P/PPQ1BPP1/R1B1K2R b KQ - 4 9,"this move is necessary to prevent b4, driving off the knight"
+18,a5,a7a5,r1bq1rk1/1pp2pbp/3p1np1/p1nPp3/2P1P3/2N2N1P/PPQ1BPP1/R1B1K2R w KQ - 0 10,"this move is necessary to prevent b4, driving off the knight"
+19,O-O,e1g1,r1bq1rk1/1pp2pbp/3p1np1/p1nPp3/2P1P3/2N2N1P/PPQ1BPP1/R1B2RK1 b - - 1 10,clearing the way for f5
+20,Ne8,f6e8,r1bqnrk1/1pp2pbp/3p2p1/p1nPp3/2P1P3/2N2N1P/PPQ1BPP1/R1B2RK1 w - - 2 11,clearing the way for f5
+21,Be3,c1e3,r1bqnrk1/1pp2pbp/3p2p1/p1nPp3/2P1P3/2N1BN1P/PPQ1BPP1/R4RK1 b - - 3 11,preparing b4 again
+22,b6,b7b6,r1bqnrk1/2p2pbp/1p1p2p1/p1nPp3/2P1P3/2N1BN1P/PPQ1BPP1/R4RK1 w - - 0 12,preparing b4 again
+23,a3,a2a3,r1bqnrk1/2p2pbp/1p1p2p1/p1nPp3/2P1P3/P1N1BN1P/1PQ1BPP1/R4RK1 b - - 0 12,preparing b4 again
+24,f5,f7f5,r1bqnrk1/2p3bp/1p1p2p1/p1nPpp2/2P1P3/P1N1BN1P/1PQ1BPP1/R4RK1 w - - 0 13,i decided to close the center even more with this move to prepare g6-g5-g4 opening lines on the kingside. In some lines a Bxh3 sac might be possible also.
+25,Bxc5,e3c5,r1bqnrk1/2p3bp/1p1p2p1/p1BPpp2/2P1P3/P1N2N1P/1PQ1BPP1/R4RK1 b - - 0 13,i decided to close the center even more with this move to prepare g6-g5-g4 opening lines on the kingside. In some lines a Bxh3 sac might be possible also.
+26,bxc5,b6c5,r1bqnrk1/2p3bp/3p2p1/p1pPpp2/2P1P3/P1N2N1P/1PQ1BPP1/R4RK1 w - - 0 14,i decided to close the center even more with this move to prepare g6-g5-g4 opening lines on the kingside. In some lines a Bxh3 sac might be possible also.
+27,Bd3,e2d3,r1bqnrk1/2p3bp/3p2p1/p1pPpp2/2P1P3/P1NB1N1P/1PQ2PP1/R4RK1 b - - 1 14,i decided to close the center even more with this move to prepare g6-g5-g4 opening lines on the kingside. In some lines a Bxh3 sac might be possible also.
+28,f4,f5f4,r1bqnrk1/2p3bp/3p2p1/p1pPp3/2P1Pp2/P1NB1N1P/1PQ2PP1/R4RK1 w - - 0 15,i decided to close the center even more with this move to prepare g6-g5-g4 opening lines on the kingside. In some lines a Bxh3 sac might be possible also.
+29,b4,b2b4,r1bqnrk1/2p3bp/3p2p1/p1pPp3/1PP1Pp2/P1NB1N1P/2Q2PP1/R4RK1 b - - 0 15,white breaks through on the queenside
+30,axb4,a5b4,r1bqnrk1/2p3bp/3p2p1/2pPp3/1pP1Pp2/P1NB1N1P/2Q2PP1/R4RK1 w - - 0 16,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+31,axb4,a3b4,r1bqnrk1/2p3bp/3p2p1/2pPp3/1PP1Pp2/2NB1N1P/2Q2PP1/R4RK1 b - - 0 16,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+32,Rxa1,a8a1,2bqnrk1/2p3bp/3p2p1/2pPp3/1PP1Pp2/2NB1N1P/2Q2PP1/r4RK1 w - - 0 17,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+33,Rxa1,f1a1,2bqnrk1/2p3bp/3p2p1/2pPp3/1PP1Pp2/2NB1N1P/2Q2PP1/R5K1 b - - 0 17,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+34,cxb4,c5b4,2bqnrk1/2p3bp/3p2p1/3Pp3/1pP1Pp2/2NB1N1P/2Q2PP1/R5K1 w - - 0 18,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+35,Na2,c3a2,2bqnrk1/2p3bp/3p2p1/3Pp3/1pP1Pp2/3B1N1P/N1Q2PP1/R5K1 b - - 1 18,white will now regain the pawn and can put his queenside files to use. If i didn't have an attack i would be worse.
+36,g5,g6g5,2bqnrk1/2p3bp/3p4/3Pp1p1/1pP1Pp2/3B1N1P/N1Q2PP1/R5K1 w - - 0 19,preventing g4
+37,Nh2,f3h2,2bqnrk1/2p3bp/3p4/3Pp1p1/1pP1Pp2/3B3P/N1Q2PPN/R5K1 b - - 1 19,preventing g4
+38,h5,h7h5,2bqnrk1/2p3b1/3p4/3Pp1pp/1pP1Pp2/3B3P/N1Q2PPN/R5K1 w - - 0 20,preparing it once more
+39,Nxb4,a2b4,2bqnrk1/2p3b1/3p4/3Pp1pp/1NP1Pp2/3B3P/2Q2PPN/R5K1 b - - 0 20,putting an end to both Nc6 and Ra8
+40,Bd7,c8d7,3qnrk1/2pb2b1/3p4/3Pp1pp/1NP1Pp2/3B3P/2Q2PPN/R5K1 w - - 1 21,putting an end to both Nc6 and Ra8
+41,Be2,d3e2,3qnrk1/2pb2b1/3p4/3Pp1pp/1NP1Pp2/7P/2Q1BPPN/R5K1 b - - 2 21,once again restraing g4
+42,Nf6,e8f6,3q1rk1/2pb2b1/3p1n2/3Pp1pp/1NP1Pp2/7P/2Q1BPPN/R5K1 w - - 3 22,and preparing it again!
+43,Ra3,a1a3,3q1rk1/2pb2b1/3p1n2/3Pp1pp/1NP1Pp2/R6P/2Q1BPPN/6K1 b - - 4 22,this slight inaccuracy lets me clamp down on the kingside with g3. White's king is then short of escape squares
+44,g4,g5g4,3q1rk1/2pb2b1/3p1n2/3Pp2p/1NP1Ppp1/R6P/2Q1BPPN/6K1 w - - 0 23,this slight inaccuracy lets me clamp down on the kingside with g3. White's king is then short of escape squares
+45,hxg4,h3g4,3q1rk1/2pb2b1/3p1n2/3Pp2p/1NP1PpP1/R7/2Q1BPPN/6K1 b - - 0 23,this slight inaccuracy lets me clamp down on the kingside with g3. White's king is then short of escape squares
+46,hxg4,h5g4,3q1rk1/2pb2b1/3p1n2/3Pp3/1NP1Ppp1/R7/2Q1BPPN/6K1 w - - 0 24,this slight inaccuracy lets me clamp down on the kingside with g3. White's king is then short of escape squares
+47,Bd3,e2d3,3q1rk1/2pb2b1/3p1n2/3Pp3/1NP1Ppp1/R2B4/2Q2PPN/6K1 b - - 1 24,this slight inaccuracy lets me clamp down on the kingside with g3. White's king is then short of escape squares
+48,Qe8,d8e8,4qrk1/2pb2b1/3p1n2/3Pp3/1NP1Ppp1/R2B4/2Q2PPN/6K1 w - - 2 25,preparing Qh5 and then Kf7 and Rh8 with a decisive attack
+49,Nf1,h2f1,4qrk1/2pb2b1/3p1n2/3Pp3/1NP1Ppp1/R2B4/2Q2PP1/5NK1 b - - 3 25,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+50,Qh5,e8h5,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1Ppp1/R2B4/2Q2PP1/5NK1 w - - 4 26,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+51,Nd2,f1d2,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1Ppp1/R2B4/2QN1PP1/6K1 b - - 5 26,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+52,g3,g4g3,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1Pp2/R2B2p1/2QN1PP1/6K1 w - - 0 27,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+53,fxg3,f2g3,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1Pp2/R2B2P1/2QN2P1/6K1 b - - 0 27,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+54,fxg3,f4g3,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1P3/R2B2p1/2QN2P1/6K1 w - - 0 28,now if the white king flees via the f file Nxd5  wins material. white's king is therefore trapped
+55,Nf3,d2f3,5rk1/2pb2b1/3p1n2/3Pp2q/1NP1P3/R2B1Np1/2Q3P1/6K1 b - - 1 28,the threat was Qh2  Kf1 Nxd5 . this is just about the only move covering h2 and closing the f file
+56,Kf7,g8f7,5r2/2pb1kb1/3p1n2/3Pp2q/1NP1P3/R2B1Np1/2Q3P1/6K1 w - - 2 29,preparing Rh8

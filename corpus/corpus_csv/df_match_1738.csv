@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Bold.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Bold.
+3,d5,d4d5,rnbqkb1r/pppppppp/5n2/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,Bold.
+4,d6,d7d6,rnbqkb1r/ppp1pppp/3p1n2/3P4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,Halting the pawn's advance.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/3P4/8/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 3,"Usually I do the Queen's Indian Defense when white does e4, but this time I'm going to operate for the King's Indian instead due to present circumstances (meaning e5)."
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/3P4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 4,"Usually I do the Queen's Indian Defense when white does e4, but this time I'm going to operate for the King's Indian instead due to present circumstances (meaning e5)."
+7,e4,e2e4,rnbqkb1r/ppp1pp1p/3p1np1/3P4/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,Building a center and protecting the pawn.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/3P4/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"Time to challenge the center, I'm thinking."
+9,Bg5,c1g5,rnbqk2r/ppp1ppbp/3p1np1/3P2B1/4P3/2N5/PPP2PPP/R2QKBNR b KQkq - 2 5,"Time to challenge the center, I'm thinking."
+10,c6,c7c6,rnbqk2r/pp2ppbp/2pp1np1/3P2B1/4P3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 6,"Time to challenge the center, I'm thinking."
+11,Bxf6,g5f6,rnbqk2r/pp2ppbp/2pp1Bp1/3P4/4P3/2N5/PPP2PPP/R2QKBNR b KQkq - 0 6,"Time to challenge the center, I'm thinking."
+12,Bxf6,g7f6,rnbqk2r/pp2pp1p/2pp1bp1/3P4/4P3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 7,"Time to challenge the center, I'm thinking."
+13,Qd3,d1d3,rnbqk2r/pp2pp1p/2pp1bp1/3P4/4P3/2NQ4/PPP2PPP/R3KBNR b KQkq - 1 7,"Time to challenge the center, I'm thinking."
+14,O-O,e8g8,rnbq1rk1/pp2pp1p/2pp1bp1/3P4/4P3/2NQ4/PPP2PPP/R3KBNR w KQ - 2 8,"Time to challenge the center, I'm thinking."
+15,O-O-O,e1c1,rnbq1rk1/pp2pp1p/2pp1bp1/3P4/4P3/2NQ4/PPP2PPP/2KR1BNR b - - 3 8,"Time to challenge the center, I'm thinking."
+16,cxd5,c6d5,rnbq1rk1/pp2pp1p/3p1bp1/3p4/4P3/2NQ4/PPP2PPP/2KR1BNR w - - 0 9,"Time to challenge the center, I'm thinking."
+17,Nxd5,c3d5,rnbq1rk1/pp2pp1p/3p1bp1/3N4/4P3/3Q4/PPP2PPP/2KR1BNR b - - 0 9,? White needs to develop.
+18,Bg7,f6g7,rnbq1rk1/pp2ppbp/3p2p1/3N4/4P3/3Q4/PPP2PPP/2KR1BNR w - - 1 10,? White needs to develop.
+19,Qc4,d3c4,rnbq1rk1/pp2ppbp/3p2p1/3N4/2Q1P3/8/PPP2PPP/2KR1BNR b - - 2 10,? White needs to develop.
+20,Nc6,b8c6,r1bq1rk1/pp2ppbp/2np2p1/3N4/2Q1P3/8/PPP2PPP/2KR1BNR w - - 3 11,? White needs to develop.
+21,h3,h2h3,r1bq1rk1/pp2ppbp/2np2p1/3N4/2Q1P3/7P/PPP2PP1/2KR1BNR b - - 0 11,? White needs to develop.
+22,Bd7,c8d7,r2q1rk1/pp1bppbp/2np2p1/3N4/2Q1P3/7P/PPP2PP1/2KR1BNR w - - 1 12,"Again, white should be developing."
+23,g4,g2g4,r2q1rk1/pp1bppbp/2np2p1/3N4/2Q1P1P1/7P/PPP2P2/2KR1BNR b - - 0 12,"Again, white should be developing."
+24,Rc8,a8c8,2rq1rk1/pp1bppbp/2np2p1/3N4/2Q1P1P1/7P/PPP2P2/2KR1BNR w - - 1 13,Now my setup is really powerful.
+25,Qd3,c4d3,2rq1rk1/pp1bppbp/2np2p1/3N4/4P1P1/3Q3P/PPP2P2/2KR1BNR b - - 2 13,Kicking the knight so that it won't have the opportunity to fork my king and rook on d7 when I need to move my queen.
+26,e6,e7e6,2rq1rk1/pp1b1pbp/2npp1p1/3N4/4P1P1/3Q3P/PPP2P2/2KR1BNR w - - 0 14,Kicking the knight so that it won't have the opportunity to fork my king and rook on d7 when I need to move my queen.
+27,Nf4,d5f4,2rq1rk1/pp1b1pbp/2npp1p1/8/4PNP1/3Q3P/PPP2P2/2KR1BNR b - - 1 14,"On first glance, my position is good because I'm fully developed and have a lot of firepower ready against white's king. White, by contrast, is undeveloped and doesn't seem to know what's coming."
+28,Nb4,c6b4,2rq1rk1/pp1b1pbp/3pp1p1/8/1n2PNP1/3Q3P/PPP2P2/2KR1BNR w - - 2 15,"The beginning of a great attack. Now white has to worry about both his c and b pawns due to my knight, rook, and DSB. I'm also offering my d-pawn as bait because if white leaves his king without its protection, he's going from being seriously in danger to sealing his fate."
+29,Qxd6,d3d6,2rq1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/PPP2P2/2KR1BNR b - - 0 15,"...bye, white!"
+30,Rxc2+,c8c2,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/PPr2P2/2KR1BNR w - - 0 16,Here I can do a windmill if I wanted to. What I didn't realize is that I also could have checkmated white here with ...Nc2#. Dang. That would have been pretty. In the moment I was looking for the fastest mate and actually missed it to choose this one instead:
+31,Kb1,c1b1,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/PPr2P2/1K1R1BNR b - - 1 16,Here I can do a windmill if I wanted to. What I didn't realize is that I also could have checkmated white here with ...Nc2#. Dang. That would have been pretty. In the moment I was looking for the fastest mate and actually missed it to choose this one instead:
+32,Rxb2+,c2b2,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/Pr3P2/1K1R1BNR w - - 0 17,Here I can do a windmill if I wanted to. What I didn't realize is that I also could have checkmated white here with ...Nc2#. Dang. That would have been pretty. In the moment I was looking for the fastest mate and actually missed it to choose this one instead:
+33,Ka1,b1a1,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/Pr3P2/K2R1BNR b - - 1 17,Here I can do a windmill if I wanted to. What I didn't realize is that I also could have checkmated white here with ...Nc2#. Dang. That would have been pretty. In the moment I was looking for the fastest mate and actually missed it to choose this one instead:
+34,Rxa2+,b2a2,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/r4P2/K2R1BNR w - - 0 18,Obliterating the pawn so white has no protection.
+35,Kb1,a1b1,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/r4P2/1K1R1BNR b - - 1 18,"Now if white does Kc1, I do Qc8 and I assume checkmate will follow closely. However, white opts for:"
+36,Rb2+,a2b2,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/1r3P2/1K1R1BNR w - - 2 19,"Now if white does Kc1, I do Qc8 and I assume checkmate will follow closely. However, white opts for:"
+37,Ka1,b1a1,3q1rk1/pp1b1pbp/3Qp1p1/8/1n2PNP1/7P/1r3P2/K2R1BNR b - - 3 19,Making my life easier.
+38,Qa5#,d8a5,5rk1/pp1b1pbp/3Qp1p1/q7/1n2PNP1/7P/1r3P2/K2R1BNR w - - 4 20,

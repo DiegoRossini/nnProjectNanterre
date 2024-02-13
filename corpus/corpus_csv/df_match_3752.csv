@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Well, basic as ever, a simple e4."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"!? This is a pretty weird move I played, yeah, but if played well enough, you can win with this. This commences the Scandinavian (or center counter) Defence!"
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"There was no other OK move here except for Nc3 and e5, and that's not even that good."
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,"Of course, the queen takes back, but I found 3.c4 a quite controversial move. It does bring another way out for the queen, but it doesn't exactly provide much control on the center. Also, if I keep my grip on the pawn and the Bishop moves away, I get a free pawn! 3. Nc3 would probably have been better."
+5,c4,c2c4,rnb1kbnr/ppp1pppp/8/3q4/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,"Of course, the queen takes back, but I found 3.c4 a quite controversial move. It does bring another way out for the queen, but it doesn't exactly provide much control on the center. Also, if I keep my grip on the pawn and the Bishop moves away, I get a free pawn! 3. Nc3 would probably have been better."
+6,Qe4+,d5e4,rnb1kbnr/ppp1pppp/8/8/2P1q3/8/PP1P1PPP/RNBQKBNR w KQkq - 1 4,"Other than Qe2, my opponent loses a pawn, (or rook, depending on how this is played.) If he blocks with 4. Be2, than I can simple use 4... Qxg2, forcing the bishop to come to f3. If he blocks 4. Ne2, than his c-pawn loses protection, and he loses a pawn. There are also setbacks with a less orginized position, and it ends in my move after 4... Qxe2 and 5. Bxe2 or Nxe2."
+7,Be2,f1e2,rnb1kbnr/ppp1pppp/8/8/2P1q3/8/PP1PBPPP/RNBQK1NR b KQkq - 2 4,"As described before, the only proper move here."
+8,Qxg2,e4g2,rnb1kbnr/ppp1pppp/8/8/2P5/8/PP1PBPqP/RNBQK1NR w KQkq - 0 5,"As described before, the only proper move here."
+9,Bf3,e2f3,rnb1kbnr/ppp1pppp/8/8/2P5/5B2/PP1P1PqP/RNBQK1NR b KQkq - 1 5,"With this, he blocks me from taking his rook, and technically forcing my Queen back to g6. (with g5, he can use d4, putting my Queen on a further run and developing his pieces faster."
+10,Qg6,g2g6,rnb1kbnr/ppp1pppp/6q1/8/2P5/5B2/PP1P1P1P/RNBQK1NR w KQkq - 2 6,"Alright, he brings his knight out. He could do Be4 now, threatening my queen."
+11,Nc3,b1c3,rnb1kbnr/ppp1pppp/6q1/8/2P5/2N2B2/PP1P1P1P/R1BQK1NR b KQkq - 3 6,"Alright, he brings his knight out. He could do Be4 now, threatening my queen."
+12,Nf6,g8f6,rnb1kb1r/ppp1pppp/5nq1/8/2P5/2N2B2/PP1P1P1P/R1BQK1NR w KQkq - 4 7,...But I don't let him. Let's see what he has to offer.
+13,d4,d2d4,rnb1kb1r/ppp1pppp/5nq1/8/2PP4/2N2B2/PP3P1P/R1BQK1NR b KQkq - 0 7,Now I'm trying to trade off my bad bishop for his good bishop!
+14,Bg4,c8g4,rn2kb1r/ppp1pppp/5nq1/8/2PP2b1/2N2B2/PP3P1P/R1BQK1NR w KQkq - 1 8,Now I'm trying to trade off my bad bishop for his good bishop!
+15,Bxg4,f3g4,rn2kb1r/ppp1pppp/5nq1/8/2PP2B1/2N5/PP3P1P/R1BQK1NR b KQkq - 0 8,... He is still one pawn down.
+16,Nxg4,f6g4,rn2kb1r/ppp1pppp/6q1/8/2PP2n1/2N5/PP3P1P/R1BQK1NR w KQkq - 0 9,... He is still one pawn down.
+17,Qa4+,d1a4,rn2kb1r/ppp1pppp/6q1/8/Q1PP2n1/2N5/PP3P1P/R1B1K1NR b KQkq - 1 9,"I don't know why, but I don't like this move. I think 9. Nd5 or Nb5 would have been better, as it threatens a Rook King fork."
+18,Nc6,b8c6,r3kb1r/ppp1pppp/2n3q1/8/Q1PP2n1/2N5/PP3P1P/R1B1K1NR w KQkq - 2 10,"Knight Block! Though this may seem worse than 9... Nd7 or even 9... c6, this is arguable better, because it actually allows Queen-side Castling without any consequences (O-O-O, Qxa7)"
+19,Nf3,g1f3,r3kb1r/ppp1pppp/2n3q1/8/Q1PP2n1/2N2N2/PP3P1P/R1B1K2R b KQkq - 3 10,"I guess that this is for development. What else? Oh yeah, it protects the D-pawn."
+20,O-O-O,e8c8,2kr1b1r/ppp1pppp/2n3q1/8/Q1PP2n1/2N2N2/PP3P1P/R1B1K2R w KQ - 4 11,"I castle, as planned. Now, there are two attackers attacking the d-pawn. I just need to bring my a-pawn to safety, now."
+21,d5,d4d5,2kr1b1r/ppp1pppp/2n3q1/3P4/Q1P3n1/2N2N2/PP3P1P/R1B1K2R b KQ - 0 11,"Knight and a pawn for a rook and a knight (or checkmate)! Fair trade, right?"
+22,Qd3,g6d3,2kr1b1r/ppp1pppp/2n5/3P4/Q1P3n1/2Nq1N2/PP3P1P/R1B1K2R w KQ - 1 12,"Knight and a pawn for a rook and a knight (or checkmate)! Fair trade, right?"
+23,Ng5,f3g5,2kr1b1r/ppp1pppp/2n5/3P2N1/Q1P3n1/2Nq4/PP3P1P/R1B1K2R b KQ - 2 12,I guess he didn't think it was that good for him.
+24,e6,e7e6,2kr1b1r/ppp2ppp/2n1p3/3P2N1/Q1P3n1/2Nq4/PP3P1P/R1B1K2R w KQ - 0 13,"Let's see what he does. Hopefully he will take the knight. If not, then he still will lose some. (Yes, I notice the rook fork, just don't care)"
+25,Nxf7,g5f7,2kr1b1r/ppp2Npp/2n1p3/3P4/Q1P3n1/2Nq4/PP3P1P/R1B1K2R b KQ - 0 13,Gasp! Rook Fork! Don't care! Not like I need that h rook anyways.
+26,Rd7,d8d7,2k2b1r/pppr1Npp/2n1p3/3P4/Q1P3n1/2Nq4/PP3P1P/R1B1K2R w KQ - 1 14,Too greedy. Technically costed him the game.
+27,Nxh8,f7h8,2k2b1N/pppr2pp/2n1p3/3P4/Q1P3n1/2Nq4/PP3P1P/R1B1K2R b KQ - 0 14,Too greedy. Technically costed him the game.

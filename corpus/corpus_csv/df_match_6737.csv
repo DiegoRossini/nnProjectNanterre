@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nc3,b1c3,rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1,Dunst Opening. An unusual opening move that develops a knight and pressures the central light squares. The reasons for its unpopularity are that it does not prevent Black from occupying the center (unlike 1.Nf3) and that it blocks White's c pawn from advancing.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 2 2,"Not a standard response to the Dunst Opening. The usual response is 1...d5, which occupies the center and threatens to attack White's knight if not blocked."
+3,e4,e2e4,r1bqkbnr/pppppppp/2n5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 2,"The standard continuation of the Dunst Opening. White occupies the center, protected by her knight."
+4,Nf6,g8f6,r1bqkb1r/pppppppp/2n2n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 1 3,Attacks Black's knight.
+5,d4,d2d4,r1bqkb1r/pppppppp/2n2n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Attacks Black's knight.
+6,e5,e7e5,r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Attacks Black's knight.
+7,d5,d4d5,r1bqkb1r/pppp1ppp/2n2n2/3Pp3/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,Attacks Black's knight.
+8,Nd4,c6d4,r1bqkb1r/pppp1ppp/5n2/3Pp3/3nP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,Black moves his knight out of harm's way. The knight now has an advanced foothold from which it can attack White's back rank in one move.
+9,Bg5,c1g5,r1bqkb1r/pppp1ppp/5n2/3Pp1B1/3nP3/2N5/PPP2PPP/R2QKBNR b KQkq - 2 5,Pins Black's knight to the queen.
+10,h6,h7h6,r1bqkb1r/pppp1pp1/5n1p/3Pp1B1/3nP3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 6,"Attack's White's bishop, forcing it to retreat."
+11,Bh4,g5h4,r1bqkb1r/pppp1pp1/5n1p/3Pp3/3nP2B/2N5/PPP2PPP/R2QKBNR b KQkq - 1 6,Renews the attack on White's bishop while freeing Black's knight from the pin.
+12,g5,g7g5,r1bqkb1r/pppp1p2/5n1p/3Pp1p1/3nP2B/2N5/PPP2PPP/R2QKBNR w KQkq - 0 7,Renews the attack on White's bishop while freeing Black's knight from the pin.
+13,Bg3,h4g3,r1bqkb1r/pppp1p2/5n1p/3Pp1p1/3nP3/2N3B1/PPP2PPP/R2QKBNR b KQkq - 1 7,Moves the bishop to safety while attacking Black's unprotected e pawn.
+14,d6,d7d6,r1bqkb1r/ppp2p2/3p1n1p/3Pp1p1/3nP3/2N3B1/PPP2PPP/R2QKBNR w KQkq - 0 8,Protects Black's e pawn.
+15,Bb5+,f1b5,r1bqkb1r/ppp2p2/3p1n1p/1B1Pp1p1/3nP3/2N3B1/PPP2PPP/R2QK1NR b KQkq - 1 8,"? Black can now play 8...Nxb5, which would force White to recapture with 9.Nxb5, hanging her e pawn. However, Black misses the opportunity and instead plays:"
+16,c6,c7c6,r1bqkb1r/pp3p2/2pp1n1p/1B1Pp1p1/3nP3/2N3B1/PPP2PPP/R2QK1NR w KQkq - 0 9,? Blocks the check and attacks the checking bishop.
+17,dxc6,d5c6,r1bqkb1r/pp3p2/2Pp1n1p/1B2p1p1/3nP3/2N3B1/PPP2PPP/R2QK1NR b KQkq - 0 9,? Again gives Black the opportunity to take advantage of the situation by playing 9...Nb5.
+18,bxc6,b7c6,r1bqkb1r/p4p2/2pp1n1p/1B2p1p1/3nP3/2N3B1/PPP2PPP/R2QK1NR w KQkq - 0 10,"? Recaptures the pawn and attacks White's bishop, forcing it to retreat."
+19,Ba4,b5a4,r1bqkb1r/p4p2/2pp1n1p/4p1p1/B2nP3/2N3B1/PPP2PPP/R2QK1NR b KQkq - 1 10,Moves the bishop to safety.
+20,h5,h6h5,r1bqkb1r/p4p2/2pp1n2/4p1pp/B2nP3/2N3B1/PPP2PPP/R2QK1NR w KQkq - 0 11,Black attempts to box in White's bishop on g3.
+21,h4,h2h4,r1bqkb1r/p4p2/2pp1n2/4p1pp/B2nP2P/2N3B1/PPP2PP1/R2QK1NR b KQkq - 0 11,Blocks Black's h pawn from attacking White's bishop and attacks Black's unprotected g pawn.
+22,g4,g5g4,r1bqkb1r/p4p2/2pp1n2/4p2p/B2nP1pP/2N3B1/PPP2PP1/R2QK1NR w KQkq - 0 12,Moves the g pawn out of danger.
+23,b4,b2b4,r1bqkb1r/p4p2/2pp1n2/4p2p/BP1nP1pP/2N3B1/P1P2PP1/R2QK1NR b KQkq - 0 12,Attack's White's unprotected pawn.
+24,a5,a7a5,r1bqkb1r/5p2/2pp1n2/p3p2p/BP1nP1pP/2N3B1/P1P2PP1/R2QK1NR w KQkq - 0 13,Attack's White's unprotected pawn.
+25,b5,b4b5,r1bqkb1r/5p2/2pp1n2/pP2p2p/B2nP1pP/2N3B1/P1P2PP1/R2QK1NR b KQkq - 0 13,"Moves the pawn to a protected square. The pawn is now twice protected and twice attacked. This square, b5, becomes an important focal point and remains so for the entire duration of the game."

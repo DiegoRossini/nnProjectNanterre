@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"In this game, white gets into early trouble losing a trapped bishop, and falls further and further into the stranglehold finishing with a mating net, no more able to escape than prey in the grasp of a python."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Qb3?. Premature.
+3,Bc4,f1c4,rnbqkbnr/ppp1pppp/3p4/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Qb3?. Premature.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Qb3?. Premature.
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,Qb3?. Premature.
+6,c6,c7c6,rnbqkb1r/pp2pppp/2pp1n2/8/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,Qb3?. Premature.
+7,a4,a2a4,rnbqkb1r/pp2pppp/2pp1n2/8/P1B1P3/3P4/1PP2PPP/RNBQK1NR b KQkq - 0 4,Qb3?. Premature.
+8,b6,b7b6,rnbqkb1r/p3pppp/1ppp1n2/8/P1B1P3/3P4/1PP2PPP/RNBQK1NR w KQkq - 0 5,Qb3?. Premature.
+9,h3,h2h3,rnbqkb1r/p3pppp/1ppp1n2/8/P1B1P3/3P3P/1PP2PP1/RNBQK1NR b KQkq - 0 5,Qb3?. Premature.
+10,e5,e7e5,rnbqkb1r/p4ppp/1ppp1n2/4p3/P1B1P3/3P3P/1PP2PP1/RNBQK1NR w KQkq - 0 6,Qb3?. Premature.
+11,Nf3,g1f3,rnbqkb1r/p4ppp/1ppp1n2/4p3/P1B1P3/3P1N1P/1PP2PP1/RNBQK2R b KQkq - 1 6,Qb3?. Premature.
+12,Be7,f8e7,rnbqk2r/p3bppp/1ppp1n2/4p3/P1B1P3/3P1N1P/1PP2PP1/RNBQK2R w KQkq - 2 7,Qb3?. Premature.
+13,c3,c2c3,rnbqk2r/p3bppp/1ppp1n2/4p3/P1B1P3/2PP1N1P/1P3PP1/RNBQK2R b KQkq - 0 7,Qb3?. Premature.
+14,O-O,e8g8,rnbq1rk1/p3bppp/1ppp1n2/4p3/P1B1P3/2PP1N1P/1P3PP1/RNBQK2R w KQ - 1 8,Qb3?. Premature.
+15,Qb3,d1b3,rnbq1rk1/p3bppp/1ppp1n2/4p3/P1B1P3/1QPP1N1P/1P3PP1/RNB1K2R b KQ - 2 8,Qb3?. Premature.
+16,d5,d6d5,rnbq1rk1/p3bppp/1pp2n2/3pp3/P1B1P3/1QPP1N1P/1P3PP1/RNB1K2R w KQ - 0 9,...d5! leaves White's bishop trapped.
+17,exd5,e4d5,rnbq1rk1/p3bppp/1pp2n2/3Pp3/P1B5/1QPP1N1P/1P3PP1/RNB1K2R b KQ - 0 9,"If Bb5, a3 wins the trapped bishop. White chooses this means to gain two pawns for the piece."
+18,cxd5,c6d5,rnbq1rk1/p3bppp/1p3n2/3pp3/P1B5/1QPP1N1P/1P3PP1/RNB1K2R w KQ - 0 10,"If Bb5, a3 wins the trapped bishop. White chooses this means to gain two pawns for the piece."
+19,Nxe5,f3e5,rnbq1rk1/p3bppp/1p3n2/3pN3/P1B5/1QPP3P/1P3PP1/RNB1K2R b KQ - 0 10,"If Bb5, a3 wins the trapped bishop. White chooses this means to gain two pawns for the piece."
+20,dxc4,d5c4,rnbq1rk1/p3bppp/1p3n2/4N3/P1p5/1QPP3P/1P3PP1/RNB1K2R w KQ - 0 11,Attacks the Knight and clears the e-file.
+21,dxc4,d3c4,rnbq1rk1/p3bppp/1p3n2/4N3/P1P5/1QP4P/1P3PP1/RNB1K2R b KQ - 0 11,Attacks the Knight and clears the e-file.
+22,Bd6,e7d6,rnbq1rk1/p4ppp/1p1b1n2/4N3/P1P5/1QP4P/1P3PP1/RNB1K2R w KQ - 1 12,Attacks the Knight and clears the e-file.
+23,Nf3,e5f3,rnbq1rk1/p4ppp/1p1b1n2/8/P1P5/1QP2N1P/1P3PP1/RNB1K2R b KQ - 2 12,"White prefers not to interposie the bishop, hoping to castle by hand instead."
+24,Re8+,f8e8,rnbqr1k1/p4ppp/1p1b1n2/8/P1P5/1QP2N1P/1P3PP1/RNB1K2R w KQ - 3 13,"White prefers not to interposie the bishop, hoping to castle by hand instead."
+25,Kf1,e1f1,rnbqr1k1/p4ppp/1p1b1n2/8/P1P5/1QP2N1P/1P3PP1/RNB2K1R b - - 4 13,"White prefers not to interposie the bishop, hoping to castle by hand instead."
+26,Nc6,b8c6,r1bqr1k1/p4ppp/1pnb1n2/8/P1P5/1QP2N1P/1P3PP1/RNB2K1R w - - 5 14,"Better would have been Be3 immediately. Later on, h6 provides a critical tempo."
+27,Bg5,c1g5,r1bqr1k1/p4ppp/1pnb1n2/6B1/P1P5/1QP2N1P/1P3PP1/RN3K1R b - - 6 14,"Better would have been Be3 immediately. Later on, h6 provides a critical tempo."
+28,h6,h7h6,r1bqr1k1/p4pp1/1pnb1n1p/6B1/P1P5/1QP2N1P/1P3PP1/RN3K1R w - - 0 15,"Better would have been Be3 immediately. Later on, h6 provides a critical tempo."
+29,Be3,g5e3,r1bqr1k1/p4pp1/1pnb1n1p/8/P1P5/1QP1BN1P/1P3PP1/RN3K1R b - - 1 15,"Better would have been Be3 immediately. Later on, h6 provides a critical tempo."
+30,Na5,c6a5,r1bqr1k1/p4pp1/1p1b1n1p/n7/P1P5/1QP1BN1P/1P3PP1/RN3K1R w - - 2 16,Begins a plan to fixate on the weak c pawn
+31,Qa2,b3a2,r1bqr1k1/p4pp1/1p1b1n1p/n7/P1P5/2P1BN1P/QP3PP1/RN3K1R b - - 3 16,Threatens to win the queen as well as the pawn.
+32,Ba6,c8a6,r2qr1k1/p4pp1/bp1b1n1p/n7/P1P5/2P1BN1P/QP3PP1/RN3K1R w - - 4 17,Threatens to win the queen as well as the pawn.
+33,Nbd2,b1d2,r2qr1k1/p4pp1/bp1b1n1p/n7/P1P5/2P1BN1P/QP1N1PP1/R4K1R b - - 5 17,...Ne5!? . The knight is immune since NxN loses to Bxc4 .
+34,Ne4,f6e4,r2qr1k1/p4pp1/bp1b3p/n7/P1P1n3/2P1BN1P/QP1N1PP1/R4K1R w - - 6 18,...Ne5!? . The knight is immune since NxN loses to Bxc4 .
+35,Rc1,a1c1,r2qr1k1/p4pp1/bp1b3p/n7/P1P1n3/2P1BN1P/QP1N1PP1/2R2K1R b - - 7 18,White wants to play b4 but wants to protect c3 first.
+36,Rc8,a8c8,2rqr1k1/p4pp1/bp1b3p/n7/P1P1n3/2P1BN1P/QP1N1PP1/2R2K1R w - - 8 19,More pressure on c4
+37,b3,b2b3,2rqr1k1/p4pp1/bp1b3p/n7/P1P1n3/1PP1BN1P/Q2N1PP1/2R2K1R b - - 0 19,Black wants to open up the center.
+38,Bc5,d6c5,2rqr1k1/p4pp1/bp5p/n1b5/P1P1n3/1PP1BN1P/Q2N1PP1/2R2K1R w - - 1 20,Black wants to open up the center.
+39,Nxe4,d2e4,2rqr1k1/p4pp1/bp5p/n1b5/P1P1N3/1PP1BN1P/Q4PP1/2R2K1R b - - 0 20,Bd2?! White wants to prepare b4 but does not have the time.
+40,Rxe4,e8e4,2rq2k1/p4pp1/bp5p/n1b5/P1P1r3/1PP1BN1P/Q4PP1/2R2K1R w - - 0 21,Bd2?! White wants to prepare b4 but does not have the time.
+41,Bd2,e3d2,2rq2k1/p4pp1/bp5p/n1b5/P1P1r3/1PP2N1P/Q2B1PP1/2R2K1R b - - 1 21,Bd2?! White wants to prepare b4 but does not have the time.
+42,Nxc4,a5c4,2rq2k1/p4pp1/bp5p/2b5/P1n1r3/1PP2N1P/Q2B1PP1/2R2K1R w - - 0 22,Nxc4! and the Knight is immune because of the bishop fork recapture winning the queen.
+43,Kg1,f1g1,2rq2k1/p4pp1/bp5p/2b5/P1n1r3/1PP2N1P/Q2B1PP1/2R3KR b - - 1 22,To avoid the discovered check and try and get the king out of the way.
+44,Nxd2,c4d2,2rq2k1/p4pp1/bp5p/2b5/P3r3/1PP2N1P/Q2n1PP1/2R3KR w - - 0 23,"Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside."
+45,Qxd2,a2d2,2rq2k1/p4pp1/bp5p/2b5/P3r3/1PP2N1P/3Q1PP1/2R3KR b - - 0 23,"Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside."
+46,Qxd2,d8d2,2r3k1/p4pp1/bp5p/2b5/P3r3/1PP2N1P/3q1PP1/2R3KR w - - 0 24,"Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside."
+47,Nxd2,f3d2,2r3k1/p4pp1/bp5p/2b5/P3r3/1PP4P/3N1PP1/2R3KR b - - 0 24,"Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside."
+48,Re2,e4e2,2r3k1/p4pp1/bp5p/2b5/P7/1PP4P/3NrPP1/2R3KR w - - 1 25,"Black has forced some exchanges and now seizes the rank with threat, empowered by the two bishops raking white' kingside."
+49,Nf3,d2f3,2r3k1/p4pp1/bp5p/2b5/P7/1PP2N1P/4rPP1/2R3KR b - - 2 25,Rxf2 is stronger than Bxf2  Black begins to set up a stranglehold on White's king.
+50,Rxf2,e2f2,2r3k1/p4pp1/bp5p/2b5/P7/1PP2N1P/5rP1/2R3KR w - - 0 26,Rxf2 is stronger than Bxf2  Black begins to set up a stranglehold on White's king.
+51,Kh2,g1h2,2r3k1/p4pp1/bp5p/2b5/P7/1PP2N1P/5rPK/2R4R b - - 1 26,To avoid the discovered check.
+52,Bd6+,c5d6,2r3k1/p4pp1/bp1b3p/8/P7/1PP2N1P/5rPK/2R4R w - - 2 27,"Black used the check to transfer the bishop to g3, boxing in the king."
+53,Kg1,h2g1,2r3k1/p4pp1/bp1b3p/8/P7/1PP2N1P/5rP1/2R3KR b - - 3 27,"Black used the check to transfer the bishop to g3, boxing in the king."
+54,Bg3,d6g3,2r3k1/p4pp1/bp5p/8/P7/1PP2NbP/5rP1/2R3KR w - - 4 28,"Black used the check to transfer the bishop to g3, boxing in the king."

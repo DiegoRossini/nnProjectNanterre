@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,the initial position in the mini tournament
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,the initial position in the mini tournament
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,the initial position in the mini tournament
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,the initial position in the mini tournament
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,the initial position in the mini tournament
+6,Nd4,c6d4,r1bqkbnr/pppp1ppp/8/4p3/2BnP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,the initial position in the mini tournament
+7,Nxe5,f3e5,r1bqkbnr/pppp1ppp/8/4N3/2BnP3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4,the initial position in the mini tournament
+8,Qg5,d8g5,r1b1kbnr/pppp1ppp/8/4N1q1/2BnP3/8/PPPP1PPP/RNBQK2R w KQkq - 1 5,looking for smothered mate in the opening
+9,Nf3,e5f3,r1b1kbnr/pppp1ppp/8/6q1/2BnP3/5N2/PPPP1PPP/RNBQK2R b KQkq - 2 5,making his rook safe
+10,Qxg2,g5g2,r1b1kbnr/pppp1ppp/8/8/2BnP3/5N2/PPPP1PqP/RNBQK2R w KQkq - 0 6,making his rook safe
+11,Rf1,h1f1,r1b1kbnr/pppp1ppp/8/8/2BnP3/5N2/PPPP1PqP/RNBQKR2 b Qkq - 1 6,making his rook safe
+12,Nxf3+,d4f3,r1b1kbnr/pppp1ppp/8/8/2B1P3/5n2/PPPP1PqP/RNBQKR2 w Qkq - 0 7,"i played this move because in order to save the rook,
+he would have to lose the game  
+eg:Rook g8, queen e4#"
+13,Ke2,e1e2,r1b1kbnr/pppp1ppp/8/8/2B1P3/5n2/PPPPKPqP/RNBQ1R2 b kq - 1 7,"i played this move because in order to save the rook,
+he would have to lose the game  
+eg:Rook g8, queen e4#"
+14,Nxh2,f3h2,r1b1kbnr/pppp1ppp/8/8/2B1P3/8/PPPPKPqn/RNBQ1R2 w kq - 0 8,"i played this move because in order to save the rook,
+he would have to lose the game  
+eg:Rook g8, queen e4#"
+15,Kd3,e2d3,r1b1kbnr/pppp1ppp/8/8/2B1P3/3K4/PPPP1Pqn/RNBQ1R2 b kq - 1 8,he must have seen the danger
+16,Nxf1,h2f1,r1b1kbnr/pppp1ppp/8/8/2B1P3/3K4/PPPP1Pq1/RNBQ1n2 w kq - 0 9,gaining more material
+17,Qh5,d1h5,r1b1kbnr/pppp1ppp/8/7Q/2B1P3/3K4/PPPP1Pq1/RNB2n2 b kq - 1 9,"i had to block checkmate (queen f3 check, king d8,queen f8#)"
+18,Qxf2,g2f2,r1b1kbnr/pppp1ppp/8/7Q/2B1P3/3K4/PPPP1q2/RNB2n2 w kq - 0 10,"a plan formed in my mind when he played this move,
+at first to get the queen but..."
+19,Qe5+,h5e5,r1b1kbnr/pppp1ppp/8/4Q3/2B1P3/3K4/PPPP1q2/RNB2n2 b kq - 1 10,"a plan formed in my mind when he played this move,
+at first to get the queen but..."
+20,Be7,f8e7,r1b1k1nr/ppppbppp/8/4Q3/2B1P3/3K4/PPPP1q2/RNB2n2 w kq - 2 11,"a plan formed in my mind when he played this move,
+at first to get the queen but..."
+21,Qxg7,e5g7,r1b1k1nr/ppppbpQp/8/8/2B1P3/3K4/PPPP1q2/RNB2n2 b kq - 0 11,"a plan formed in my mind when he played this move,
+at first to get the queen but..."
+22,Qf3+,f2f3,r1b1k1nr/ppppbpQp/8/8/2B1P3/3K1q2/PPPP4/RNB2n2 w kq - 1 12,"the only move.
+now i realised that i could beat him or get his queen,
+here is my masterplan"
+23,Kd4,d3d4,r1b1k1nr/ppppbpQp/8/8/2BKP3/5q2/PPPP4/RNB2n2 b kq - 2 12,"the only move.
+now i realised that i could beat him or get his queen,
+here is my masterplan"
+24,c5+,c7c5,r1b1k1nr/pp1pbpQp/8/2p5/2BKP3/5q2/PPPP4/RNB2n2 w kq - 0 13,
+25,Kd5,d4d5,r1b1k1nr/pp1pbpQp/8/2pK4/2B1P3/5q2/PPPP4/RNB2n2 b kq - 1 13,if he had played king e5 i would have played pawn d3#
+26,Nf6+,g8f6,r1b1k2r/pp1pbpQp/5n2/2pK4/2B1P3/5q2/PPPP4/RNB2n2 w kq - 2 14,
+27,Ke5,d5e5,r1b1k2r/pp1pbpQp/5n2/2p1K3/2B1P3/5q2/PPPP4/RNB2n2 b kq - 3 14,
+28,d6#,d7d6,r1b1k2r/pp2bpQp/3p1n2/2p1K3/2B1P3/5q2/PPPP4/RNB2n2 w kq - 0 15,

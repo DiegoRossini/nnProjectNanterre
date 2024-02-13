@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Trusted D4
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Well this blocks the bishop but does give some support for e5
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,Well this blocks the bishop but does give some support for e5
+4,d6,d7d6,rnbqkb1r/ppp1pppp/3p1n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Well this blocks the bishop but does give some support for e5
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/3p1n2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Well this blocks the bishop but does give some support for e5
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Well this blocks the bishop but does give some support for e5
+7,Nbd2,b1d2,rnbqkb1r/ppp1pp1p/3p1np1/8/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,Well this blocks the bishop but does give some support for e5
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 2 5,Well this blocks the bishop but does give some support for e5
+9,c3,c2c3,rnbqk2r/ppp1ppbp/3p1np1/8/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 0 5,Well this blocks the bishop but does give some support for e5
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQ - 1 6,Well this blocks the bishop but does give some support for e5
+11,e3,e2e3,rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQ - 0 6,Well this blocks the bishop but does give some support for e5
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQ - 1 7,Well this blocks the bishop but does give some support for e5
+13,Bd3,f1d3,r1bq1rk1/pppnppbp/3p1np1/8/3P1B2/2PBPN2/PP1N1PPP/R2QK2R b KQ - 2 7,The bishop will be released via b7
+14,c5,c7c5,r1bq1rk1/pp1nppbp/3p1np1/2p5/3P1B2/2PBPN2/PP1N1PPP/R2QK2R w KQ - 0 8,The bishop will be released via b7
+15,h3,h2h3,r1bq1rk1/pp1nppbp/3p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2QK2R b KQ - 0 8,The bishop will be released via b7
+16,b6,b7b6,r1bq1rk1/p2nppbp/1p1p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2QK2R w KQ - 0 9,The bishop will be released via b7
+17,O-O,e1g1,r1bq1rk1/p2nppbp/1p1p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2Q1RK1 b - - 1 9,Staking a claim for the centre
+18,Bb7,c8b7,r2q1rk1/pb1nppbp/1p1p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2Q1RK1 w - - 2 10,Staking a claim for the centre
+19,Re1,f1e1,r2q1rk1/pb1nppbp/1p1p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2QR1K1 b - - 3 10,Staking a claim for the centre
+20,Qc7,d8c7,r4rk1/pbqnppbp/1p1p1np1/2p5/3P1B2/2PBPN1P/PP1N1PP1/R2QR1K1 w - - 4 11,Staking a claim for the centre
+21,e4,e3e4,r4rk1/pbqnppbp/1p1p1np1/2p5/3PPB2/2PB1N1P/PP1N1PP1/R2QR1K1 b - - 0 11,Staking a claim for the centre
+22,e6,e7e6,r4rk1/pbqn1pbp/1p1ppnp1/2p5/3PPB2/2PB1N1P/PP1N1PP1/R2QR1K1 w - - 0 12,Give black something else to think about
+23,Nc4,d2c4,r4rk1/pbqn1pbp/1p1ppnp1/2p5/2NPPB2/2PB1N1P/PP3PP1/R2QR1K1 b - - 1 12,Give black something else to think about
+24,Ne8,f6e8,r3nrk1/pbqn1pbp/1p1pp1p1/2p5/2NPPB2/2PB1N1P/PP3PP1/R2QR1K1 w - - 2 13,Give black something else to think about
+25,a4,a2a4,r3nrk1/pbqn1pbp/1p1pp1p1/2p5/P1NPPB2/2PB1N1P/1P3PP1/R2QR1K1 b - - 0 13,Give black something else to think about
+26,e5,e6e5,r3nrk1/pbqn1pbp/1p1p2p1/2p1p3/P1NPPB2/2PB1N1P/1P3PP1/R2QR1K1 w - - 0 14,The rook looks up for grabs
+27,Bg5,f4g5,r3nrk1/pbqn1pbp/1p1p2p1/2p1p1B1/P1NPP3/2PB1N1P/1P3PP1/R2QR1K1 b - - 1 14,The rook looks up for grabs
+28,exd4,e5d4,r3nrk1/pbqn1pbp/1p1p2p1/2p3B1/P1NpP3/2PB1N1P/1P3PP1/R2QR1K1 w - - 0 15,charge
+29,cxd4,c3d4,r3nrk1/pbqn1pbp/1p1p2p1/2p3B1/P1NPP3/3B1N1P/1P3PP1/R2QR1K1 b - - 0 15,charge
+30,cxd4,c5d4,r3nrk1/pbqn1pbp/1p1p2p1/6B1/P1NpP3/3B1N1P/1P3PP1/R2QR1K1 w - - 0 16,charge
+31,Be7,g5e7,r3nrk1/pbqnBpbp/1p1p2p1/8/P1NpP3/3B1N1P/1P3PP1/R2QR1K1 b - - 1 16,charge
+32,Nc5,d7c5,r3nrk1/pbq1Bpbp/1p1p2p1/2n5/P1NpP3/3B1N1P/1P3PP1/R2QR1K1 w - - 2 17,charge
+33,Bxf8,e7f8,r3nBk1/pbq2pbp/1p1p2p1/2n5/P1NpP3/3B1N1P/1P3PP1/R2QR1K1 b - - 0 17,charge
+34,Kxf8,g8f8,r3nk2/pbq2pbp/1p1p2p1/2n5/P1NpP3/3B1N1P/1P3PP1/R2QR1K1 w - - 0 18,charge
+35,b4,b2b4,r3nk2/pbq2pbp/1p1p2p1/2n5/PPNpP3/3B1N1P/5PP1/R2QR1K1 b - - 0 18,charge
+36,Nxd3,c5d3,r3nk2/pbq2pbp/1p1p2p1/8/PPNpP3/3n1N1P/5PP1/R2QR1K1 w - - 0 19,grab the file
+37,Qxd3,d1d3,r3nk2/pbq2pbp/1p1p2p1/8/PPNpP3/3Q1N1P/5PP1/R3R1K1 b - - 0 19,grab the file
+38,Ba6,b7a6,r3nk2/p1q2pbp/bp1p2p1/8/PPNpP3/3Q1N1P/5PP1/R3R1K1 w - - 1 20,grab the file
+39,b5,b4b5,r3nk2/p1q2pbp/bp1p2p1/1P6/P1NpP3/3Q1N1P/5PP1/R3R1K1 b - - 0 20,grab the file
+40,Bb7,a6b7,r3nk2/pbq2pbp/1p1p2p1/1P6/P1NpP3/3Q1N1P/5PP1/R3R1K1 w - - 1 21,grab the file
+41,Rac1,a1c1,r3nk2/pbq2pbp/1p1p2p1/1P6/P1NpP3/3Q1N1P/5PP1/2R1R1K1 b - - 2 21,grab the file
+42,Qd7,c7d7,r3nk2/pb1q1pbp/1p1p2p1/1P6/P1NpP3/3Q1N1P/5PP1/2R1R1K1 w - - 3 22,"And then a pawn, black resigns"
+43,Nxd4,f3d4,r3nk2/pb1q1pbp/1p1p2p1/1P6/P1NNP3/3Q3P/5PP1/2R1R1K1 b - - 0 22,"And then a pawn, black resigns"

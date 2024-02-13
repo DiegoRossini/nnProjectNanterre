@@ -1,0 +1,71 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,4. Nxd4 (standard Sicilian Defence)
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,4. Nxd4 (standard Sicilian Defence)
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,4. Nxd4 (standard Sicilian Defence)
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,4. Nxd4 (standard Sicilian Defence)
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,4. Nxd4 (standard Sicilian Defence)
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,4. Nxd4 (standard Sicilian Defence)
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,4. Nxd4 (standard Sicilian Defence)
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,5. ........... a6 - this is the Naijdorf.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,5. ........... a6 - this is the Naijdorf.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,5. ........... a6 - this is the Naijdorf.
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,6.     Ng4 - this unusual move leads to an undevelopment of the white dsb.
+12,Ng4,f6g4,rnbqkb1r/1p2pppp/p2p4/8/3NP1n1/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7,6.     Ng4 - this unusual move leads to an undevelopment of the white dsb.
+13,Bc1,e3c1,rnbqkb1r/1p2pppp/p2p4/8/3NP1n1/2N5/PPP2PPP/R1BQKB1R b KQkq - 3 7,8. ......... Qb6!
+14,Nc6,b8c6,r1bqkb1r/1p2pppp/p1np4/8/3NP1n1/2N5/PPP2PPP/R1BQKB1R w KQkq - 4 8,8. ......... Qb6!
+15,Be2,f1e2,r1bqkb1r/1p2pppp/p1np4/8/3NP1n1/2N5/PPP1BPPP/R1BQK2R b KQkq - 5 8,8. ......... Qb6!
+16,Qb6,d8b6,r1b1kb1r/1p2pppp/pqnp4/8/3NP1n1/2N5/PPP1BPPP/R1BQK2R w KQkq - 6 9,8. ......... Qb6!
+17,Bxg4,e2g4,r1b1kb1r/1p2pppp/pqnp4/8/3NP1B1/2N5/PPP2PPP/R1BQK2R b KQkq - 0 9,11. Bd1 - a plethora of exchanges results in the black knight being very dominant and threatening a knight fork on c2.
+18,Qxd4,b6d4,r1b1kb1r/1p2pppp/p1np4/8/3qP1B1/2N5/PPP2PPP/R1BQK2R w KQkq - 0 10,11. Bd1 - a plethora of exchanges results in the black knight being very dominant and threatening a knight fork on c2.
+19,Qxd4,d1d4,r1b1kb1r/1p2pppp/p1np4/8/3QP1B1/2N5/PPP2PPP/R1B1K2R b KQkq - 0 10,11. Bd1 - a plethora of exchanges results in the black knight being very dominant and threatening a knight fork on c2.
+20,Nxd4,c6d4,r1b1kb1r/1p2pppp/p2p4/8/3nP1B1/2N5/PPP2PPP/R1B1K2R w KQkq - 0 11,11. Bd1 - a plethora of exchanges results in the black knight being very dominant and threatening a knight fork on c2.
+21,Bd1,g4d1,r1b1kb1r/1p2pppp/p2p4/8/3nP3/2N5/PPP2PPP/R1BBK2R b KQkq - 1 11,11. Bd1 - a plethora of exchanges results in the black knight being very dominant and threatening a knight fork on c2.
+22,e6,e7e6,r1b1kb1r/1p3ppp/p2pp3/8/3nP3/2N5/PPP2PPP/R1BBK2R w KQkq - 0 12,12. .......... Nc6 - the knight is driven back to c6.
+23,Be3,c1e3,r1b1kb1r/1p3ppp/p2pp3/8/3nP3/2N1B3/PPP2PPP/R2BK2R b KQkq - 1 12,12. .......... Nc6 - the knight is driven back to c6.
+24,Nc6,d4c6,r1b1kb1r/1p3ppp/p1npp3/8/4P3/2N1B3/PPP2PPP/R2BK2R w KQkq - 2 13,12. .......... Nc6 - the knight is driven back to c6.
+25,a3,a2a3,r1b1kb1r/1p3ppp/p1npp3/8/4P3/P1N1B3/1PP2PPP/R2BK2R b KQkq - 0 13,13. a3 - keeps the black knight out of b4.
+26,b5,b7b5,r1b1kb1r/5ppp/p1npp3/1p6/4P3/P1N1B3/1PP2PPP/R2BK2R w KQkq - 0 14,"15. Kd2?! - here I was indecisive as to where to put my king.  I thought that this was as good a way to connect the rooks than castling as the queens were off the board.  However, I was to pay for that moment of blind indecision over the next few moves."
+27,Be2,d1e2,r1b1kb1r/5ppp/p1npp3/1p6/4P3/P1N1B3/1PP1BPPP/R3K2R b KQkq - 1 14,"15. Kd2?! - here I was indecisive as to where to put my king.  I thought that this was as good a way to connect the rooks than castling as the queens were off the board.  However, I was to pay for that moment of blind indecision over the next few moves."
+28,Bb7,c8b7,r3kb1r/1b3ppp/p1npp3/1p6/4P3/P1N1B3/1PP1BPPP/R3K2R w KQkq - 2 15,"15. Kd2?! - here I was indecisive as to where to put my king.  I thought that this was as good a way to connect the rooks than castling as the queens were off the board.  However, I was to pay for that moment of blind indecision over the next few moves."
+29,Kd2,e1d2,r3kb1r/1b3ppp/p1npp3/1p6/4P3/P1N1B3/1PPKBPPP/R6R b kq - 3 15,"15. Kd2?! - here I was indecisive as to where to put my king.  I thought that this was as good a way to connect the rooks than castling as the queens were off the board.  However, I was to pay for that moment of blind indecision over the next few moves."
+30,Be7,f8e7,r3k2r/1b2bppp/p1npp3/1p6/4P3/P1N1B3/1PPKBPPP/R6R w kq - 4 16,"17. Ke1 - the real lemon - should have played Rad1 here and corrected the error by castling by hand but losing 2 tempi.  Again, why is this move bad?  Wait and see ......"
+31,f3,f2f3,r3k2r/1b2bppp/p1npp3/1p6/4P3/P1N1BP2/1PPKB1PP/R6R b kq - 0 16,"17. Ke1 - the real lemon - should have played Rad1 here and corrected the error by castling by hand but losing 2 tempi.  Again, why is this move bad?  Wait and see ......"
+32,O-O,e8g8,r4rk1/1b2bppp/p1npp3/1p6/4P3/P1N1BP2/1PPKB1PP/R6R w - - 1 17,"17. Ke1 - the real lemon - should have played Rad1 here and corrected the error by castling by hand but losing 2 tempi.  Again, why is this move bad?  Wait and see ......"
+33,Ke1,d2e1,r4rk1/1b2bppp/p1npp3/1p6/4P3/P1N1BP2/1PP1B1PP/R3K2R b - - 2 17,"17. Ke1 - the real lemon - should have played Rad1 here and corrected the error by castling by hand but losing 2 tempi.  Again, why is this move bad?  Wait and see ......"
+34,Rac8,a8c8,2r2rk1/1b2bppp/p1npp3/1p6/4P3/P1N1BP2/1PP1B1PP/R3K2R w - - 3 18,19. Rhf1? - I think I should have initiated the pawn exchange here.
+35,Kf2,e1f2,2r2rk1/1b2bppp/p1npp3/1p6/4P3/P1N1BP2/1PP1BKPP/R6R b - - 4 18,19. Rhf1? - I think I should have initiated the pawn exchange here.
+36,f5,f7f5,2r2rk1/1b2b1pp/p1npp3/1p3p2/4P3/P1N1BP2/1PP1BKPP/R6R w - - 0 19,19. Rhf1? - I think I should have initiated the pawn exchange here.
+37,Rhf1,h1f1,2r2rk1/1b2b1pp/p1npp3/1p3p2/4P3/P1N1BP2/1PP1BKPP/R4R2 b - - 1 19,19. Rhf1? - I think I should have initiated the pawn exchange here.
+38,fxe4,f5e4,2r2rk1/1b2b1pp/p1npp3/1p6/4p3/P1N1BP2/1PP1BKPP/R4R2 w - - 0 20,20. Nxe4 - the knight must recapture as the f pawn is pinned to the white king!
+39,Nxe4,c3e4,2r2rk1/1b2b1pp/p1npp3/1p6/4N3/P3BP2/1PP1BKPP/R4R2 b - - 0 20,20. Nxe4 - the knight must recapture as the f pawn is pinned to the white king!
+40,Ne5,c6e5,2r2rk1/1b2b1pp/p2pp3/1p2n3/4N3/P3BP2/1PP1BKPP/R4R2 w - - 1 21,"20. .......... Ne5!!! Very, very, nasty, a discovered attack on the c pawn and the white knight on e4 is en prise to the bishop because that wretched f3 pawn is STILL pinned to the white king.  A pawn drops."
+41,Kg1,f2g1,2r2rk1/1b2b1pp/p2pp3/1p2n3/4N3/P3BP2/1PP1B1PP/R4RK1 b - - 2 21,23. ........ Rxb2 (another white pawn drops)
+42,Rxc2,c8c2,5rk1/1b2b1pp/p2pp3/1p2n3/4N3/P3BP2/1Pr1B1PP/R4RK1 w - - 0 22,23. ........ Rxb2 (another white pawn drops)
+43,Rfe1,f1e1,5rk1/1b2b1pp/p2pp3/1p2n3/4N3/P3BP2/1Pr1B1PP/R3R1K1 b - - 1 22,23. ........ Rxb2 (another white pawn drops)
+44,Bxe4,b7e4,5rk1/4b1pp/p2pp3/1p2n3/4b3/P3BP2/1Pr1B1PP/R3R1K1 w - - 0 23,23. ........ Rxb2 (another white pawn drops)
+45,fxe4,f3e4,5rk1/4b1pp/p2pp3/1p2n3/4P3/P3B3/1Pr1B1PP/R3R1K1 b - - 0 23,23. ........ Rxb2 (another white pawn drops)
+46,Rxb2,c2b2,5rk1/4b1pp/p2pp3/1p2n3/4P3/P3B3/1r2B1PP/R3R1K1 w - - 0 24,23. ........ Rxb2 (another white pawn drops)
+47,Bd4,e3d4,5rk1/4b1pp/p2pp3/1p2n3/3BP3/P7/1r2B1PP/R3R1K1 b - - 1 24,"25. ......... dxe5 - normally if you are behind on material you are advised to exchange pawns and not to exchange pieces.  However there is a dual purpose in this.  Black's central pawn structure is now compromised and the bishops are on opposite colours, meaning that I could try to exchange rooks if given the opportunity and increase my drawing chances.  Lighttotheright gave me no such opportunity.  Those rooks will soon be lethal!"
+48,Rc2,b2c2,5rk1/4b1pp/p2pp3/1p2n3/3BP3/P7/2r1B1PP/R3R1K1 w - - 2 25,"25. ......... dxe5 - normally if you are behind on material you are advised to exchange pawns and not to exchange pieces.  However there is a dual purpose in this.  Black's central pawn structure is now compromised and the bishops are on opposite colours, meaning that I could try to exchange rooks if given the opportunity and increase my drawing chances.  Lighttotheright gave me no such opportunity.  Those rooks will soon be lethal!"
+49,Bxe5,d4e5,5rk1/4b1pp/p2pp3/1p2B3/4P3/P7/2r1B1PP/R3R1K1 b - - 0 25,"25. ......... dxe5 - normally if you are behind on material you are advised to exchange pawns and not to exchange pieces.  However there is a dual purpose in this.  Black's central pawn structure is now compromised and the bishops are on opposite colours, meaning that I could try to exchange rooks if given the opportunity and increase my drawing chances.  Lighttotheright gave me no such opportunity.  Those rooks will soon be lethal!"
+50,dxe5,d6e5,5rk1/4b1pp/p3p3/1p2p3/4P3/P7/2r1B1PP/R3R1K1 w - - 0 26,"25. ......... dxe5 - normally if you are behind on material you are advised to exchange pawns and not to exchange pieces.  However there is a dual purpose in this.  Black's central pawn structure is now compromised and the bishops are on opposite colours, meaning that I could try to exchange rooks if given the opportunity and increase my drawing chances.  Lighttotheright gave me no such opportunity.  Those rooks will soon be lethal!"
+51,Bg4,e2g4,5rk1/4b1pp/p3p3/1p2p3/4P1B1/P7/2r3PP/R3R1K1 b - - 1 26,27. ........... Kh8 - I have regained one of my pawns but the rooks begin their stranglehold on my second rank.  My bishop must come back to defend g2.
+52,Rff2,f8f2,6k1/4b1pp/p3p3/1p2p3/4P1B1/P7/2r2rPP/R3R1K1 w - - 2 27,27. ........... Kh8 - I have regained one of my pawns but the rooks begin their stranglehold on my second rank.  My bishop must come back to defend g2.
+53,Bxe6+,g4e6,6k1/4b1pp/p3B3/1p2p3/4P3/P7/2r2rPP/R3R1K1 b - - 0 27,27. ........... Kh8 - I have regained one of my pawns but the rooks begin their stranglehold on my second rank.  My bishop must come back to defend g2.
+54,Kh8,g8h8,7k/4b1pp/p3B3/1p2p3/4P3/P7/2r2rPP/R3R1K1 w - - 1 28,27. ........... Kh8 - I have regained one of my pawns but the rooks begin their stranglehold on my second rank.  My bishop must come back to defend g2.
+55,Bh3,e6h3,7k/4b1pp/p7/1p2p3/4P3/P6B/2r2rPP/R3R1K1 b - - 2 28,28. .......... Bc5 - threatening a deadly windmill/meatgrinder type of discovery here so my next move is forced.
+56,Bc5,e7c5,7k/6pp/p7/1pb1p3/4P3/P6B/2r2rPP/R3R1K1 w - - 3 29,28. .......... Bc5 - threatening a deadly windmill/meatgrinder type of discovery here so my next move is forced.
+57,Kh1,g1h1,7k/6pp/p7/1pb1p3/4P3/P6B/2r2rPP/R3R2K b - - 4 29,32. Rc2  - turns out to be nothing more than a spite check.
+58,g6,g7g6,7k/7p/p5p1/1pb1p3/4P3/P6B/2r2rPP/R3R2K w - - 0 30,32. Rc2  - turns out to be nothing more than a spite check.
+59,Red1,e1d1,7k/7p/p5p1/1pb1p3/4P3/P6B/2r2rPP/R2R3K b - - 1 30,32. Rc2  - turns out to be nothing more than a spite check.
+60,Bd4,c5d4,7k/7p/p5p1/1p2p3/3bP3/P6B/2r2rPP/R2R3K w - - 2 31,32. Rc2  - turns out to be nothing more than a spite check.
+61,Rac1,a1c1,7k/7p/p5p1/1p2p3/3bP3/P6B/2r2rPP/2RR3K b - - 3 31,32. Rc2  - turns out to be nothing more than a spite check.
+62,Rca2,c2a2,7k/7p/p5p1/1p2p3/3bP3/P6B/r4rPP/2RR3K w - - 4 32,32. Rc2  - turns out to be nothing more than a spite check.
+63,Rc8+,c1c8,2R4k/7p/p5p1/1p2p3/3bP3/P6B/r4rPP/3R3K b - - 5 32,32. Rc2  - turns out to be nothing more than a spite check.
+64,Kg7,h8g7,2R5/6kp/p5p1/1p2p3/3bP3/P6B/r4rPP/3R3K w - - 6 33,34. Rb7 - I have vague ideas of a king hunt if my opponent is careless enough to take the a3 pawn as if one of the rooks leaves the second rank then I will push up the g pawn to g5 delivering a check to draw the king out to open country but black's next move is a killer.
+65,Rc7+,c8c7,8/2R3kp/p5p1/1p2p3/3bP3/P6B/r4rPP/3R3K b - - 7 33,34. Rb7 - I have vague ideas of a king hunt if my opponent is careless enough to take the a3 pawn as if one of the rooks leaves the second rank then I will push up the g pawn to g5 delivering a check to draw the king out to open country but black's next move is a killer.
+66,Kh6,g7h6,8/2R4p/p5pk/1p2p3/3bP3/P6B/r4rPP/3R3K w - - 8 34,34. Rb7 - I have vague ideas of a king hunt if my opponent is careless enough to take the a3 pawn as if one of the rooks leaves the second rank then I will push up the g pawn to g5 delivering a check to draw the king out to open country but black's next move is a killer.
+67,Rb7,c7b7,8/1R5p/p5pk/1p2p3/3bP3/P6B/r4rPP/3R3K b - - 9 34,34. Rb7 - I have vague ideas of a king hunt if my opponent is careless enough to take the a3 pawn as if one of the rooks leaves the second rank then I will push up the g pawn to g5 delivering a check to draw the king out to open country but black's next move is a killer.
+68,Rfe2,f2e2,8/1R5p/p5pk/1p2p3/3bP3/P6B/r3r1PP/3R3K w - - 10 35,35. ........... Rxe4 - with 2 pawns down and with no hope of my plan reaching fruition as one of the moves in it would have involved moving my king rook to g1 - alas with blacks' rook unmasking a bishop battery onto that square that plan is void.  I waved the white flag.
+69,Rf1,d1f1,8/1R5p/p5pk/1p2p3/3bP3/P6B/r3r1PP/5R1K b - - 11 35,35. ........... Rxe4 - with 2 pawns down and with no hope of my plan reaching fruition as one of the moves in it would have involved moving my king rook to g1 - alas with blacks' rook unmasking a bishop battery onto that square that plan is void.  I waved the white flag.
+70,Rxe4,e2e4,8/1R5p/p5pk/1p2p3/3br3/P6B/r5PP/5R1K w - - 0 36,35. ........... Rxe4 - with 2 pawns down and with no hope of my plan reaching fruition as one of the moves in it would have involved moving my king rook to g1 - alas with blacks' rook unmasking a bishop battery onto that square that plan is void.  I waved the white flag.

@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Reti
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Reti
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,"Transposing to the regular d4, Nf4, Nf3, d5"
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,"Transposing to the regular d4, Nf4, Nf3, d5"
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 2 3,"I'm not copying, this is my preferred set up in this opening!"
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 3 4,"I'm not copying, this is my preferred set up in this opening!"
+7,e3,e2e3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"I'm not copying, this is my preferred set up in this opening!"
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,"I'm not copying, this is my preferred set up in this opening!"
+9,c4,c2c4,rn1qkb1r/ppp2ppp/4pn2/3p1b2/2PP1B2/4PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,Has to be worth doing
+10,Bb4+,f8b4,rn1qk2r/ppp2ppp/4pn2/3p1b2/1bPP1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 1 6,Has to be worth doing
+11,Nc3,b1c3,rn1qk2r/ppp2ppp/4pn2/3p1b2/1bPP1B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 2 6,Has to be worth doing
+12,Ne4,f6e4,rn1qk2r/ppp2ppp/4p3/3p1b2/1bPPnB2/2N1PN2/PP3PPP/R2QKB1R w KQkq - 3 7,Has to be worth doing
+13,Qb3,d1b3,rn1qk2r/ppp2ppp/4p3/3p1b2/1bPPnB2/1QN1PN2/PP3PPP/R3KB1R b KQkq - 4 7,The correct way to defend the knight.
+14,Qe7,d8e7,rn2k2r/ppp1qppp/4p3/3p1b2/1bPPnB2/1QN1PN2/PP3PPP/R3KB1R w KQkq - 5 8,Only after the game did I realise this drops the d-pawn!
+15,a3,a2a3,rn2k2r/ppp1qppp/4p3/3p1b2/1bPPnB2/PQN1PN2/1P3PPP/R3KB1R b KQkq - 0 8,The right move sequence. Pressuring me before I'm ready
+16,Bxc3+,b4c3,rn2k2r/ppp1qppp/4p3/3p1b2/2PPnB2/PQb1PN2/1P3PPP/R3KB1R w KQkq - 0 9,The right move sequence. Pressuring me before I'm ready
+17,bxc3,b2c3,rn2k2r/ppp1qppp/4p3/3p1b2/2PPnB2/PQP1PN2/5PPP/R3KB1R b KQkq - 0 9,The right move sequence. Pressuring me before I'm ready
+18,c6,c7c6,rn2k2r/pp2qppp/2p1p3/3p1b2/2PPnB2/PQP1PN2/5PPP/R3KB1R w KQkq - 0 10,The right move sequence. Pressuring me before I'm ready
+19,cxd5,c4d5,rn2k2r/pp2qppp/2p1p3/3P1b2/3PnB2/PQP1PN2/5PPP/R3KB1R b KQkq - 0 10,The right move sequence. Pressuring me before I'm ready
+20,exd5,e6d5,rn2k2r/pp2qppp/2p5/3p1b2/3PnB2/PQP1PN2/5PPP/R3KB1R w KQkq - 0 11,The right move sequence. Pressuring me before I'm ready
+21,c4,c3c4,rn2k2r/pp2qppp/2p5/3p1b2/2PPnB2/PQ2PN2/5PPP/R3KB1R b KQkq - 0 11,The right move sequence. Pressuring me before I'm ready
+22,Be6,f5e6,rn2k2r/pp2qppp/2p1b3/3p4/2PPnB2/PQ2PN2/5PPP/R3KB1R w KQkq - 1 12,The best way to defend the pawn.
+23,Bd3,f1d3,rn2k2r/pp2qppp/2p1b3/3p4/2PPnB2/PQ1BPN2/5PPP/R3K2R b KQkq - 2 12,How about dxc4 here? Decided to take the easy option
+24,O-O,e8g8,rn3rk1/pp2qppp/2p1b3/3p4/2PPnB2/PQ1BPN2/5PPP/R3K2R w KQ - 3 13,How about dxc4 here? Decided to take the easy option
+25,c5,c4c5,rn3rk1/pp2qppp/2p1b3/2Pp4/3PnB2/PQ1BPN2/5PPP/R3K2R b KQ - 0 13,closing up the centre and opening up possibilites of a siege of b7
+26,Re8,f8e8,rn2r1k1/pp2qppp/2p1b3/2Pp4/3PnB2/PQ1BPN2/5PPP/R3K2R w KQ - 1 14,Probably better of pressuring b7 IMO..
+27,Qc2,b3c2,rn2r1k1/pp2qppp/2p1b3/2Pp4/3PnB2/P2BPN2/2Q2PPP/R3K2R b KQ - 2 14,Threatening f3 winning the bishop
+28,Bf5,e6f5,rn2r1k1/pp2qppp/2p5/2Pp1b2/3PnB2/P2BPN2/2Q2PPP/R3K2R w KQ - 3 15,Threatening f3 winning the bishop
+29,Ne5,f3e5,rn2r1k1/pp2qppp/2p5/2PpNb2/3PnB2/P2BP3/2Q2PPP/R3K2R b KQ - 4 15,Threatening f3 winning the bishop
+30,Bg6,f5g6,rn2r1k1/pp2qppp/2p3b1/2PpN3/3PnB2/P2BP3/2Q2PPP/R3K2R w KQ - 5 16,Also considering g5 here..
+31,Nxg6,e5g6,rn2r1k1/pp2qppp/2p3N1/2Pp4/3PnB2/P2BP3/2Q2PPP/R3K2R b KQ - 0 16,A mistake. I'll be totally honest. For some reason I missed Bxb8. I considered every other possible bishop move but missed Bxb8!
+32,hxg6,h7g6,rn2r1k1/pp2qpp1/2p3p1/2Pp4/3PnB2/P2BP3/2Q2PPP/R3K2R w KQ - 0 17,A mistake. I'll be totally honest. For some reason I missed Bxb8. I considered every other possible bishop move but missed Bxb8!
+33,f3,f2f3,rn2r1k1/pp2qpp1/2p3p1/2Pp4/3PnB2/P2BPP2/2Q3PP/R3K2R b KQ - 0 17,A mistake. I'll be totally honest. For some reason I missed Bxb8. I considered every other possible bishop move but missed Bxb8!
+34,g5,g6g5,rn2r1k1/pp2qpp1/2p5/2Pp2p1/3PnB2/P2BPP2/2Q3PP/R3K2R w KQ - 0 18,A mistake. I'll be totally honest. For some reason I missed Bxb8. I considered every other possible bishop move but missed Bxb8!
+35,Bxb8,f4b8,rB2r1k1/pp2qpp1/2p5/2Pp2p1/3Pn3/P2BPP2/2Q3PP/R3K2R b KQ - 0 18,Luckily I can pick a couple of pawns up for the peice
+36,Nxc5,e4c5,rB2r1k1/pp2qpp1/2p5/2np2p1/3P4/P2BPP2/2Q3PP/R3K2R w KQ - 0 19,Luckily I can pick a couple of pawns up for the peice
+37,Be5,b8e5,r3r1k1/pp2qpp1/2p5/2npB1p1/3P4/P2BPP2/2Q3PP/R3K2R b KQ - 1 19,"Rather than Rae8, Rhe1."
+38,Nxd3+,c5d3,r3r1k1/pp2qpp1/2p5/3pB1p1/3P4/P2nPP2/2Q3PP/R3K2R w KQ - 0 20,"Rather than Rae8, Rhe1."
+39,Qxd3,c2d3,r3r1k1/pp2qpp1/2p5/3pB1p1/3P4/P2QPP2/6PP/R3K2R b KQ - 0 20,"Rather than Rae8, Rhe1."
+40,f6,f7f6,r3r1k1/pp2q1p1/2p2p2/3pB1p1/3P4/P2QPP2/6PP/R3K2R w KQ - 0 21,"Rather than Rae8, Rhe1."
+41,Bg3,e5g3,r3r1k1/pp2q1p1/2p2p2/3p2p1/3P4/P2QPPB1/6PP/R3K2R b KQ - 1 21,"Rather than Rae8, Rhe1."
+42,Qxe3+,e7e3,r3r1k1/pp4p1/2p2p2/3p2p1/3P4/P2QqPB1/6PP/R3K2R w KQ - 0 22,"Rather than Rae8, Rhe1."
+43,Qxe3,d3e3,r3r1k1/pp4p1/2p2p2/3p2p1/3P4/P3QPB1/6PP/R3K2R b KQ - 0 22,"Rather than Rae8, Rhe1."
+44,Rxe3+,e8e3,r5k1/pp4p1/2p2p2/3p2p1/3P4/P3rPB1/6PP/R3K2R w KQ - 0 23,"Rather than Rae8, Rhe1."
+45,Kd2,e1d2,r5k1/pp4p1/2p2p2/3p2p1/3P4/P3rPB1/3K2PP/R6R b - - 1 23,"Rather than Rae8, Rhe1."
+46,Rb3,e3b3,r5k1/pp4p1/2p2p2/3p2p1/3P4/Pr3PB1/3K2PP/R6R w - - 2 24,"Rather than Rae8, Rhe1."
+47,Rhb1,h1b1,r5k1/pp4p1/2p2p2/3p2p1/3P4/Pr3PB1/3K2PP/RR6 b - - 3 24,"Forcing a rook swap.
+
+White - 8 minutes
+Black  - 11 minutes"
+48,Rxb1,b3b1,r5k1/pp4p1/2p2p2/3p2p1/3P4/P4PB1/3K2PP/Rr6 w - - 0 25,Killing off the rooks options on the open file
+49,Rxb1,a1b1,r5k1/pp4p1/2p2p2/3p2p1/3P4/P4PB1/3K2PP/1R6 b - - 0 25,Killing off the rooks options on the open file
+50,b6,b7b6,r5k1/p5p1/1pp2p2/3p2p1/3P4/P4PB1/3K2PP/1R6 w - - 0 26,Killing off the rooks options on the open file
+51,Re1,b1e1,r5k1/p5p1/1pp2p2/3p2p1/3P4/P4PB1/3K2PP/4R3 b - - 1 26,Killing off the rooks options on the open file
+52,Kf7,g8f7,r7/p4kp1/1pp2p2/3p2p1/3P4/P4PB1/3K2PP/4R3 w - - 2 27,Killing off the rooks options on the open file
+53,Bd6,g3d6,r7/p4kp1/1ppB1p2/3p2p1/3P4/P4P2/3K2PP/4R3 b - - 3 27,Threatening Re7
+54,Rd8,a8d8,3r4/p4kp1/1ppB1p2/3p2p1/3P4/P4P2/3K2PP/4R3 w - - 4 28,"Re7 , Kf8, and no discovered check works as the rook is on the bishop and Bb4 falls to a5."

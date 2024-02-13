@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A ""casual"" game that went to a nice final combination, even with many mistakes in the middle."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Sensible but poor answer. Not without a plan behind.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Sensible but poor answer. Not without a plan behind.
+4,h6,h7h6,rnbqkbnr/ppp1ppp1/7p/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Sensible but poor answer. Not without a plan behind.
+5,Nf3,g1f3,rnbqkbnr/ppp1ppp1/7p/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"Logical was g5, following with the plan. Anyway, it is still possible."
+6,Nf6,g8f6,rnbqkb1r/ppp1ppp1/5n1p/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,"Logical was g5, following with the plan. Anyway, it is still possible."
+7,h3,h2h3,rnbqkb1r/ppp1ppp1/5n1p/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,"Returning the loss of tempo. This move, nevertheless, prepares g4..."
+8,e6,e7e6,rnbqkb1r/ppp2pp1/4pn1p/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 0 5,Closing in his own lsb. Ok. Better for me.
+9,c3,c2c3,rnbqkb1r/ppp2pp1/4pn1p/3p4/3P1B2/2P2N1P/PP2PPP1/RN1QKB1R b KQkq - 0 5,"This formation has a name we recently learned, but I couldn't remind its name."
+10,Be7,f8e7,rnbqk2r/ppp1bpp1/4pn1p/3p4/3P1B2/2P2N1P/PP2PPP1/RN1QKB1R w KQkq - 1 6,"Black can answer g5, with a tense game based on h4 by White."
+11,g4,g2g4,rnbqk2r/ppp1bpp1/4pn1p/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R b KQkq - 0 6,"Black can answer g5, with a tense game based on h4 by White."
+12,Nh7,f6h7,rnbqk2r/ppp1bppn/4p2p/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R w KQkq - 1 7,! Good.
+13,h4,h3h4,rnbqk2r/ppp1bppn/4p2p/3p4/3P1BPP/2P2N2/PP2PP2/RN1QKB1R b KQkq - 0 7,Blocking h4 for the Bdsb.
+14,O-O,e8g8,rnbq1rk1/ppp1bppn/4p2p/3p4/3P1BPP/2P2N2/PP2PP2/RN1QKB1R w KQ - 1 8,? Castling just under my firepower!
+15,Nbd2,b1d2,rnbq1rk1/ppp1bppn/4p2p/3p4/3P1BPP/2P2N2/PP1NPP2/R2QKB1R b KQ - 2 8,Giving black a last chance to play c5.
+16,e5,e6e5,rnbq1rk1/ppp1bppn/7p/3pp3/3P1BPP/2P2N2/PP1NPP2/R2QKB1R w KQ - 0 9,?! concedes a pawn in order to free his B. It's not that bad.
+17,Nxe5,f3e5,rnbq1rk1/ppp1bppn/7p/3pN3/3P1BPP/2P5/PP1NPP2/R2QKB1R b KQ - 0 9,"After the N's Exchange, g4 will fall, but is this a disadvantage for me or for my opponent?"
+18,Nd7,b8d7,r1bq1rk1/pppnbppn/7p/3pN3/3P1BPP/2P5/PP1NPP2/R2QKB1R w KQ - 1 10,"After the N's Exchange, g4 will fall, but is this a disadvantage for me or for my opponent?"
+19,Nxd7,e5d7,r1bq1rk1/pppNbppn/7p/3p4/3P1BPP/2P5/PP1NPP2/R2QKB1R b KQ - 0 10,"Ah, h4, of course, became undefended in the process. But again, it can reverse to my benefit."
+20,Bxd7,c8d7,r2q1rk1/pppbbppn/7p/3p4/3P1BPP/2P5/PP1NPP2/R2QKB1R w KQ - 0 11,"Ah, h4, of course, became undefended in the process. But again, it can reverse to my benefit."
+21,e3,e2e3,r2q1rk1/pppbbppn/7p/3p4/3P1BPP/2P1P3/PP1N1P2/R2QKB1R b KQ - 0 11,"Ah, h4, of course, became undefended in the process. But again, it can reverse to my benefit."
+22,Bxh4,e7h4,r2q1rk1/pppb1ppn/7p/3p4/3P1BPb/2P1P3/PP1N1P2/R2QKB1R w KQ - 0 12,"Ah, h4, of course, became undefended in the process. But again, it can reverse to my benefit."
+23,Nf3,d2f3,r2q1rk1/pppb1ppn/7p/3p4/3P1BPb/2P1PN2/PP3P2/R2QKB1R b KQ - 1 12,? Mistake.
+24,Bxg4,d7g4,r2q1rk1/ppp2ppn/7p/3p4/3P1Bbb/2P1PN2/PP3P2/R2QKB1R w KQ - 0 13,Desperate try. I'm not sure black anything sacrifying the B on f2+.
+25,Bh3,f1h3,r2q1rk1/ppp2ppn/7p/3p4/3P1Bbb/2P1PN1B/PP3P2/R2QK2R b KQ - 1 13,Desperate try. I'm not sure black anything sacrifying the B on f2+.
+26,Bxf3,g4f3,r2q1rk1/ppp2ppn/7p/3p4/3P1B1b/2P1Pb1B/PP3P2/R2QK2R w KQ - 0 14,"Well, I regret this, but it was the only way to keep active."
+27,Qxf3,d1f3,r2q1rk1/ppp2ppn/7p/3p4/3P1B1b/2P1PQ1B/PP3P2/R3K2R b KQ - 0 14,"Well, I regret this, but it was the only way to keep active."
+28,Ng5,h7g5,r2q1rk1/ppp2pp1/7p/3p2n1/3P1B1b/2P1PQ1B/PP3P2/R3K2R w KQ - 1 15,"Well, I regret this, but it was the only way to keep active."
+29,Bxg5,f4g5,r2q1rk1/ppp2pp1/7p/3p2B1/3P3b/2P1PQ1B/PP3P2/R3K2R b KQ - 0 15,"Now, I am -1 and defending my weak pawn's chain."
+30,Qxg5,d8g5,r4rk1/ppp2pp1/7p/3p2q1/3P3b/2P1PQ1B/PP3P2/R3K2R w KQ - 0 16,"Now, I am -1 and defending my weak pawn's chain."
+31,O-O-O,e1c1,r4rk1/ppp2pp1/7p/3p2q1/3P3b/2P1PQ1B/PP3P2/2KR3R b - - 1 16,"Now, I am -1 and defending my weak pawn's chain."
+32,Qf6,g5f6,r4rk1/ppp2pp1/5q1p/3p4/3P3b/2P1PQ1B/PP3P2/2KR3R w - - 2 17,?! Offering f2 for a tempo to align R and Q.
+33,Qg4,f3g4,r4rk1/ppp2pp1/5q1p/3p4/3P2Qb/2P1P2B/PP3P2/2KR3R b - - 3 17,?! Offering f2 for a tempo to align R and Q.
+34,Bg5,h4g5,r4rk1/ppp2pp1/5q1p/3p2b1/3P2Q1/2P1P2B/PP3P2/2KR3R w - - 4 18,"f4 was called for, but blitz..."

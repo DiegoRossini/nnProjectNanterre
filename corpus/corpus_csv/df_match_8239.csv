@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Closed sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Closed sicilian
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Closed sicilian
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,? I thought that Black should have taken it
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,? I thought that Black should have taken it
+6,a6,a7a6,r1bqkbnr/1p1ppppp/p1n5/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,? I thought that Black should have taken it
+7,d4,d2d4,r1bqkbnr/1p1ppppp/p1n5/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,? I thought that Black should have taken it
+8,b6,b7b6,r1bqkbnr/3ppppp/ppn5/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,? I thought that Black should have taken it
+9,d5,d4d5,r1bqkbnr/3ppppp/ppn5/2pP4/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,? A weird sacrifice but I was banking on the fact my opponent would play...
+10,Na5,c6a5,r1bqkbnr/3ppppp/pp6/n1pP4/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 6,? A weird sacrifice but I was banking on the fact my opponent would play...
+11,e5,e4e5,r1bqkbnr/3ppppp/pp6/n1pPP3/8/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 6,? A weird sacrifice but I was banking on the fact my opponent would play...
+12,e6,e7e6,r1bqkbnr/3p1ppp/pp2p3/n1pPP3/8/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 7,? A weird sacrifice but I was banking on the fact my opponent would play...
+13,d6,d5d6,r1bqkbnr/3p1ppp/pp1Pp3/n1p1P3/8/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 7,? A weird sacrifice but I was banking on the fact my opponent would play...
+14,f6,f7f6,r1bqkbnr/3p2pp/pp1Ppp2/n1p1P3/8/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 8,? A weird sacrifice but I was banking on the fact my opponent would play...
+15,Bxa6,f1a6,r1bqkbnr/3p2pp/Bp1Ppp2/n1p1P3/8/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 8,? A weird sacrifice but I was banking on the fact my opponent would play...
+16,Rxa6,a8a6,2bqkbnr/3p2pp/rp1Ppp2/n1p1P3/8/2N2N2/PPP2PPP/R1BQK2R w KQk - 0 9,??...this. Bxa6 is better and would have developed a piece as well
+17,Nb5,c3b5,2bqkbnr/3p2pp/rp1Ppp2/nNp1P3/8/5N2/PPP2PPP/R1BQK2R b KQk - 1 9,Threatening Nc7+
+18,fxe5,f6e5,2bqkbnr/3p2pp/rp1Pp3/nNp1p3/8/5N2/PPP2PPP/R1BQK2R w KQk - 0 10,"I thought that this was wrong as now the c7 square is undefended.
+Maybe Ne7 returning some of the material."
+19,Nxe5,f3e5,2bqkbnr/3p2pp/rp1Pp3/nNp1N3/8/8/PPP2PPP/R1BQK2R b KQk - 0 10,"I thought that this was wrong as now the c7 square is undefended.
+Maybe Ne7 returning some of the material."
+20,Qf6,d8f6,2b1kbnr/3p2pp/rp1Ppq2/nNp1N3/8/8/PPP2PPP/R1BQK2R w KQk - 1 11,"I thought that this was wrong as now the c7 square is undefended.
+Maybe Ne7 returning some of the material."
+21,Nc7+,b5c7,2b1kbnr/2Np2pp/rp1Ppq2/n1p1N3/8/8/PPP2PPP/R1BQK2R b KQk - 2 11,Forced
+22,Kd8,e8d8,2bk1bnr/2Np2pp/rp1Ppq2/n1p1N3/8/8/PPP2PPP/R1BQK2R w KQ - 3 12,Forced
+23,Bg5,c1g5,2bk1bnr/2Np2pp/rp1Ppq2/n1p1N1B1/8/8/PPP2PPP/R2QK2R b KQ - 4 12,Deflects the queen off the f7 square
+24,Qxg5,f6g5,2bk1bnr/2Np2pp/rp1Pp3/n1p1N1q1/8/8/PPP2PPP/R2QK2R w KQ - 0 13,Nh6 Bxf6 gxf7 would held out for a few more moves...(Thanks yoshark for the comment)
+25,Nf7#,e5f7,2bk1bnr/2Np1Npp/rp1Pp3/n1p3q1/8/8/PPP2PPP/R2QK2R b KQ - 1 13,A nice touch

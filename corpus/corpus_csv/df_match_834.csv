@@ -1,0 +1,132 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Reversed Grob, aka Borg/Basman Defense, or Macho Grob.  Black does surprisingly well with this opening, provided white does not play d4."
+2,g5,g7g5,rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Reversed Grob, aka Borg/Basman Defense, or Macho Grob.  Black does surprisingly well with this opening, provided white does not play d4."
+3,d4,d2d4,rnbqkbnr/pppppp1p/8/6p1/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"White played d4.  A good response for black is Bg7, according to the database."
+4,Bh6,f8h6,rnbqk1nr/pppppp1p/7b/6p1/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"http://gameknot.com/analyze-board.pl?bd=5398257&fb=1&mv=4&rnd=0.04544471067449585
+
+Black ultimately gets torn apart in the game above, though was a pawn up at the beginning."
+5,h3,h2h3,rnbqk1nr/pppppp1p/7b/6p1/3PP3/7P/PPP2PP1/RNBQKBNR b KQkq - 0 3,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+6,e6,e7e6,rnbqk1nr/pppp1p1p/4p2b/6p1/3PP3/7P/PPP2PP1/RNBQKBNR w KQkq - 0 4,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+7,Nc3,b1c3,rnbqk1nr/pppp1p1p/4p2b/6p1/3PP3/2N4P/PPP2PP1/R1BQKBNR b KQkq - 1 4,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+8,c6,c7c6,rnbqk1nr/pp1p1p1p/2p1p2b/6p1/3PP3/2N4P/PPP2PP1/R1BQKBNR w KQkq - 0 5,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+9,Nf3,g1f3,rnbqk1nr/pp1p1p1p/2p1p2b/6p1/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 1 5,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+10,Na6,b8a6,r1bqk1nr/pp1p1p1p/n1p1p2b/6p1/3PP3/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 2 6,"While black's pawns trap the knight except for Na6, BxNa6 doubles black's pawns.  I'd play Bxa6 as white."
+11,Bxa6,f1a6,r1bqk1nr/pp1p1p1p/B1p1p2b/6p1/3PP3/2N2N1P/PPP2PP1/R1BQK2R b KQkq - 0 6,Black risks doubling a second set of pawns.
+12,bxa6,b7a6,r1bqk1nr/p2p1p1p/p1p1p2b/6p1/3PP3/2N2N1P/PPP2PP1/R1BQK2R w KQkq - 0 7,Black risks doubling a second set of pawns.
+13,b4,b2b4,r1bqk1nr/p2p1p1p/p1p1p2b/6p1/1P1PP3/2N2N1P/P1P2PP1/R1BQK2R b KQkq - 0 7,Black risks doubling a second set of pawns.
+14,Rb8,a8b8,1rbqk1nr/p2p1p1p/p1p1p2b/6p1/1P1PP3/2N2N1P/P1P2PP1/R1BQK2R w KQk - 1 8,Black risks doubling a second set of pawns.
+15,a3,a2a3,1rbqk1nr/p2p1p1p/p1p1p2b/6p1/1P1PP3/P1N2N1P/2P2PP1/R1BQK2R b KQk - 0 8,Black risks doubling a second set of pawns.
+16,Nf6,g8f6,1rbqk2r/p2p1p1p/p1p1pn1b/6p1/1P1PP3/P1N2N1P/2P2PP1/R1BQK2R w KQk - 1 9,Black risks doubling a second set of pawns.
+17,e5,e4e5,1rbqk2r/p2p1p1p/p1p1pn1b/4P1p1/1P1P4/P1N2N1P/2P2PP1/R1BQK2R b KQk - 0 9,Black risks doubling a second set of pawns.
+18,Nd5,f6d5,1rbqk2r/p2p1p1p/p1p1p2b/3nP1p1/1P1P4/P1N2N1P/2P2PP1/R1BQK2R w KQk - 1 10,Black risks doubling a second set of pawns.
+19,Nxd5,c3d5,1rbqk2r/p2p1p1p/p1p1p2b/3NP1p1/1P1P4/P4N1P/2P2PP1/R1BQK2R b KQk - 0 10,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+20,exd5,e6d5,1rbqk2r/p2p1p1p/p1p4b/3pP1p1/1P1P4/P4N1P/2P2PP1/R1BQK2R w KQk - 0 11,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+21,g4,g2g4,1rbqk2r/p2p1p1p/p1p4b/3pP1p1/1P1P2P1/P4N1P/2P2P2/R1BQK2R b KQk - 0 11,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+22,Rg8,h8g8,1rbqk1r1/p2p1p1p/p1p4b/3pP1p1/1P1P2P1/P4N1P/2P2P2/R1BQK2R w KQ - 1 12,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+23,Be3,c1e3,1rbqk1r1/p2p1p1p/p1p4b/3pP1p1/1P1P2P1/P3BN1P/2P2P2/R2QK2R b KQ - 2 12,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+24,f6,f7f6,1rbqk1r1/p2p3p/p1p2p1b/3pP1p1/1P1P2P1/P3BN1P/2P2P2/R2QK2R w KQ - 0 13,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+25,exf6,e5f6,1rbqk1r1/p2p3p/p1p2P1b/3p2p1/1P1P2P1/P3BN1P/2P2P2/R2QK2R b KQ - 0 13,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+26,Qxf6,d8f6,1rb1k1r1/p2p3p/p1p2q1b/3p2p1/1P1P2P1/P3BN1P/2P2P2/R2QK2R w KQ - 0 14,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+27,Qe2,d1e2,1rb1k1r1/p2p3p/p1p2q1b/3p2p1/1P1P2P1/P3BN1P/2P1QP2/R3K2R b KQ - 1 14,"With this move white can take Pg5 for free with Bxpg5+.  Black will play Kf7 to protect Bh6.  To defend against this, black should play Kf7 now.  Otherwise, Qe6 gives white Bh6 for free too.
+
+Even better for white would be Bf4+.  The rook at b8 is worth 5 points, while the bishop and pawn add to only four.  More pieces but less aggregate value.  Black could also play Kd8, preserving the Rf8 threat to Nf3.  White's response to that would be Ne5."
+28,a5,a6a5,1rb1k1r1/p2p3p/2p2q1b/p2p2p1/1P1P2P1/P3BN1P/2P1QP2/R3K2R w KQ - 0 15,"While it looks like black can make off with Nf3, Bf4+ remains a potent threat."
+29,c3,c2c3,1rb1k1r1/p2p3p/2p2q1b/p2p2p1/1P1P2P1/P1P1BN1P/4QP2/R3K2R b KQ - 0 15,"While it looks like black can make off with Nf3, Bf4+ remains a potent threat."
+30,Rf8,g8f8,1rb1kr2/p2p3p/2p2q1b/p2p2p1/1P1P2P1/P1P1BN1P/4QP2/R3K2R w KQ - 1 16,"While it looks like black can make off with Nf3, Bf4+ remains a potent threat."
+31,Bxg5+,e3g5,1rb1kr2/p2p3p/2p2q1b/p2p2B1/1P1P2P1/P1P2N1P/4QP2/R3K2R b KQ - 0 16,"While Bf4 picks off Rb8, black can't take Nf3 after interposing the queen.  Bxg5+ gives white a pawn and bishop, while forcing the black queen off the Nf3 attack."
+32,Qe6,f6e6,1rb1kr2/p2p3p/2p1q2b/p2p2B1/1P1P2P1/P1P2N1P/4QP2/R3K2R w KQ - 1 17,"I think white would have been better off taking the bishop.  If black traded queens, KxQe2 positions white's king to protect Nf3, AND moves it closer to the middle of the board.  By trading queens black picks off Nf3 (RxNf3), and white's advantage boils down to a single pawn."
+33,Qxe6+,e2e6,1rb1kr2/p2p3p/2p1Q2b/p2p2B1/1P1P2P1/P1P2N1P/5P2/R3K2R b KQ - 0 17,"I think white would have been better off taking the bishop.  If black traded queens, KxQe2 positions white's king to protect Nf3, AND moves it closer to the middle of the board.  By trading queens black picks off Nf3 (RxNf3), and white's advantage boils down to a single pawn."
+34,dxe6,d7e6,1rb1kr2/p6p/2p1p2b/p2p2B1/1P1P2P1/P1P2N1P/5P2/R3K2R w KQ - 0 18,"What is that?  Nothing is attacking Pf2.  Pc3, however, now looks like toast."
+35,Bxh6,g5h6,1rb1kr2/p6p/2p1p2B/p2p4/1P1P2P1/P1P2N1P/5P2/R3K2R b KQ - 0 18,"What is that?  Nothing is attacking Pf2.  Pc3, however, now looks like toast."
+36,Rxf3,f8f3,1rb1k3/p6p/2p1p2B/p2p4/1P1P2P1/P1P2r1P/5P2/R3K2R w KQ - 0 19,"What is that?  Nothing is attacking Pf2.  Pc3, however, now looks like toast."
+37,Rh2,h1h2,1rb1k3/p6p/2p1p2B/p2p4/1P1P2P1/P1P2r1P/5P1R/R3K3 b Q - 1 19,"What is that?  Nothing is attacking Pf2.  Pc3, however, now looks like toast."
+38,Rxc3,f3c3,1rb1k3/p6p/2p1p2B/p2p4/1P1P2P1/P1r4P/5P1R/R3K3 w Q - 0 20,"Rd3 attacks Pd4 while preserving the rook's mobility.  Of course, white would probably respond with Rd1 or Rd2.  Rd2 would be better, otherwise PxPb4 gives black another pawn."
+39,f4,f2f4,1rb1k3/p6p/2p1p2B/p2p4/1P1P1PP1/P1r4P/7R/R3K3 b Q - 0 20,"Rd3 attacks Pd4 while preserving the rook's mobility.  Of course, white would probably respond with Rd1 or Rd2.  Rd2 would be better, otherwise PxPb4 gives black another pawn."
+40,Rc4,c3c4,1rb1k3/p6p/2p1p2B/p2p4/1PrP1PP1/P6P/7R/R3K3 w Q - 1 21,"Rd3 attacks Pd4 while preserving the rook's mobility.  Of course, white would probably respond with Rd1 or Rd2.  Rd2 would be better, otherwise PxPb4 gives black another pawn."
+41,Bg7,h6g7,1rb1k3/p5Bp/2p1p3/p2p4/1PrP1PP1/P6P/7R/R3K3 b Q - 2 21,"RxPd4 is not a serious threat because the bishop is cheaper than the rook.  White should have played RxPa7, followed by Be5 some time to block black's pawn progress.  Here black should consider Pa6 or probably better--Ra4."
+42,axb4,a5b4,1rb1k3/p5Bp/2p1p3/3p4/1prP1PP1/P6P/7R/R3K3 w Q - 0 22,"RxPd4 is not a serious threat because the bishop is cheaper than the rook.  White should have played RxPa7, followed by Be5 some time to block black's pawn progress.  Here black should consider Pa6 or probably better--Ra4."
+43,axb4,a3b4,1rb1k3/p5Bp/2p1p3/3p4/1PrP1PP1/7P/7R/R3K3 b Q - 0 22,"RxPd4 is not a serious threat because the bishop is cheaper than the rook.  White should have played RxPa7, followed by Be5 some time to block black's pawn progress.  Here black should consider Pa6 or probably better--Ra4."
+44,Rbxb4,b8b4,2b1k3/p5Bp/2p1p3/3p4/1rrP1PP1/7P/7R/R3K3 w Q - 0 23,"RxPd4 is not a serious threat because the bishop is cheaper than the rook.  White should have played RxPa7, followed by Be5 some time to block black's pawn progress.  Here black should consider Pa6 or probably better--Ra4."
+45,Rd2,h2d2,2b1k3/p5Bp/2p1p3/3p4/1rrP1PP1/7P/3R4/R3K3 b Q - 1 23,"RxPd4 is not a serious threat because the bishop is cheaper than the rook.  White should have played RxPa7, followed by Be5 some time to block black's pawn progress.  Here black should consider Pa6 or probably better--Ra4."
+46,Rb7,b4b7,2b1k3/pr4Bp/2p1p3/3p4/2rP1PP1/7P/3R4/R3K3 w Q - 2 24,"This doesn't really protect Pa7, because black can counter with Rda2, powering the rooks on the a file.  Black has nothing else to add.  The bishop (Pa6) is a better protector."
+47,Be5,g7e5,2b1k3/pr5p/2p1p3/3pB3/2rP1PP1/7P/3R4/R3K3 b Q - 3 24,"Yikes!  While Rh3 or Rg3 might scare black into moving a pawn, following up with Rh1+ (or Rg1+) would give up Ra1.  White would most likely respond with RxPa7, though."
+48,Rb3,b7b3,2b1k3/p6p/2p1p3/3pB3/2rP1PP1/1r5P/3R4/R3K3 w Q - 4 25,"Yikes!  While Rh3 or Rg3 might scare black into moving a pawn, following up with Rh1+ (or Rg1+) would give up Ra1.  White would most likely respond with RxPa7, though."
+49,h4,h3h4,2b1k3/p6p/2p1p3/3pB3/2rP1PPP/1r6/3R4/R3K3 b Q - 0 25,"Yikes!  While Rh3 or Rg3 might scare black into moving a pawn, following up with Rh1+ (or Rg1+) would give up Ra1.  White would most likely respond with RxPa7, though."
+50,Rcc3,c4c3,2b1k3/p6p/2p1p3/3pB3/3P1PPP/1rr5/3R4/R3K3 w Q - 1 26,Oh no.  Black could have forced a draw.
+51,Rxa7,a1a7,2b1k3/R6p/2p1p3/3pB3/3P1PPP/1rr5/3R4/4K3 b - - 0 26,Oh no.  Black could have forced a draw.
+52,Rb1+,b3b1,2b1k3/R6p/2p1p3/3pB3/3P1PPP/2r5/3R4/1r2K3 w - - 1 27,Oh no.  Black could have forced a draw.
+53,Rd1,d2d1,2b1k3/R6p/2p1p3/3pB3/3P1PPP/2r5/8/1r1RK3 b - - 2 27,Oh no.  Black could have forced a draw.
+54,Re3+,c3e3,2b1k3/R6p/2p1p3/3pB3/3P1PPP/4r3/8/1r1RK3 w - - 3 28,Oh no.  Black could have forced a draw.
+55,Kd2,e1d2,2b1k3/R6p/2p1p3/3pB3/3P1PPP/4r3/3K4/1r1R4 b - - 4 28,Oh no.  Black could have forced a draw.
+56,Rbb3,b1b3,2b1k3/R6p/2p1p3/3pB3/3P1PPP/1r2r3/3K4/3R4 w - - 5 29,Oh no.  Black could have forced a draw.
+57,Rxh7,a7h7,2b1k3/7R/2p1p3/3pB3/3P1PPP/1r2r3/3K4/3R4 b - - 0 29,Oh no.  Black could have forced a draw.
+58,Rbd3+,b3d3,2b1k3/7R/2p1p3/3pB3/3P1PPP/3rr3/3K4/3R4 w - - 1 30,Oh no.  Black could have forced a draw.
+59,Kc2,d2c2,2b1k3/7R/2p1p3/3pB3/3P1PPP/3rr3/2K5/3R4 b - - 2 30,Oh no.  Black could have forced a draw.
+60,Rdc3+,d3c3,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 3 31,Oh no.  Black could have forced a draw.
+61,Kb2,c2b2,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/1K6/3R4 b - - 4 31,Oh no.  Black could have forced a draw.
+62,Rcb3+,c3b3,2b1k3/7R/2p1p3/3pB3/3P1PPP/1r2r3/1K6/3R4 w - - 5 32,Oh no.  Black could have forced a draw.
+63,Kc2,b2c2,2b1k3/7R/2p1p3/3pB3/3P1PPP/1r2r3/2K5/3R4 b - - 6 32,Oh no.  Black could have forced a draw.
+64,Rbc3+,b3c3,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 7 33,Oh no.  Black could have forced a draw.
+65,Kd2,c2d2,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 b - - 8 33,Oh no.  Black could have forced a draw.
+66,Rcd3+,c3d3,2b1k3/7R/2p1p3/3pB3/3P1PPP/3rr3/3K4/3R4 w - - 9 34,Oh no.  Black could have forced a draw.
+67,Kc2,d2c2,2b1k3/7R/2p1p3/3pB3/3P1PPP/3rr3/2K5/3R4 b - - 10 34,Oh no.  Black could have forced a draw.
+68,Rdc3+,d3c3,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 11 35,Oh no.  Black could have forced a draw.
+69,Kd2,c2d2,2b1k3/7R/2p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 b - - 12 35,Oh no.  Black could have forced a draw.
+70,Ba6,c8a6,4k3/7R/b1p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 w - - 13 36,Oh no.  Black could have forced a draw.
+71,Rh8+,h7h8,4k2R/8/b1p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 b - - 14 36,Oh no.  Black could have forced a draw.
+72,Kd7,e8d7,7R/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 w - - 15 37,Oh no.  Black could have forced a draw.
+73,Ra8,h8a8,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/3K4/3R4 b - - 16 37,Oh no.  Black could have forced a draw.
+74,Rcd3+,c3d3,R7/3k4/b1p1p3/3pB3/3P1PPP/3rr3/3K4/3R4 w - - 17 38,Oh no.  Black could have forced a draw.
+75,Kc2,d2c2,R7/3k4/b1p1p3/3pB3/3P1PPP/3rr3/2K5/3R4 b - - 18 38,Oh no.  Black could have forced a draw.
+76,Rdc3+,d3c3,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 19 39,Oh no.  Black could have forced a draw.
+77,Kb2,c2b2,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/1K6/3R4 b - - 20 39,Oh no.  Black could have forced a draw.
+78,Rcb3+,c3b3,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/1K6/3R4 w - - 21 40,Oh no.  Black could have forced a draw.
+79,Kc2,b2c2,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/2K5/3R4 b - - 22 40,Oh no.  Black could have forced a draw.
+80,Rbc3+,b3c3,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 23 41,Oh no.  Black could have forced a draw.
+81,Kb2,c2b2,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/1K6/3R4 b - - 24 41,Oh no.  Black could have forced a draw.
+82,Rcb3+,c3b3,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/1K6/3R4 w - - 25 42,Oh no.  Black could have forced a draw.
+83,Kc2,b2c2,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/2K5/3R4 b - - 26 42,Oh no.  Black could have forced a draw.
+84,Rbc3+,b3c3,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/2K5/3R4 w - - 27 43,Oh no.  Black could have forced a draw.
+85,Kb2,c2b2,R7/3k4/b1p1p3/3pB3/3P1PPP/2r1r3/1K6/3R4 b - - 28 43,Oh no.  Black could have forced a draw.
+86,Rcb3+,c3b3,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/1K6/3R4 w - - 29 44,Oh no.  Black could have forced a draw.
+87,Kc2,b2c2,R7/3k4/b1p1p3/3pB3/3P1PPP/1r2r3/2K5/3R4 b - - 30 44,Oh no.  Black could have forced a draw.
+88,Bc4,a6c4,R7/3k4/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 w - - 31 45,Oh no.  Black could have forced a draw.
+89,Ra7+,a8a7,8/R2k4/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 b - - 32 45,Oh no.  Black could have forced a draw.
+90,Ke8,d7e8,4k3/R7/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 w - - 33 46,Oh no.  Black could have forced a draw.
+91,Ra8+,a7a8,R3k3/8/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 b - - 34 46,Oh no.  Black could have forced a draw.
+92,Kd7,e8d7,R7/3k4/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 w - - 35 47,Oh no.  Black could have forced a draw.
+93,Ra7+,a8a7,8/R2k4/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 b - - 36 47,Oh no.  Black could have forced a draw.
+94,Ke8,d7e8,4k3/R7/2p1p3/3pB3/2bP1PPP/1r2r3/2K5/3R4 w - - 37 48,Oh no.  Black could have forced a draw.
+95,g5,g4g5,4k3/R7/2p1p3/3pB1P1/2bP1P1P/1r2r3/2K5/3R4 b - - 0 48,Oh no.  Black could have forced a draw.
+96,Rbc3+,b3c3,4k3/R7/2p1p3/3pB1P1/2bP1P1P/2r1r3/2K5/3R4 w - - 1 49,Oh no.  Black could have forced a draw.
+97,Kb2,c2b2,4k3/R7/2p1p3/3pB1P1/2bP1P1P/2r1r3/1K6/3R4 b - - 2 49,Oh no.  Black could have forced a draw.
+98,Re2+,e3e2,4k3/R7/2p1p3/3pB1P1/2bP1P1P/2r5/1K2r3/3R4 w - - 3 50,Oh no.  Black could have forced a draw.
+99,Kxc3,b2c3,4k3/R7/2p1p3/3pB1P1/2bP1P1P/2K5/4r3/3R4 b - - 0 50,
+100,Re3+,e2e3,4k3/R7/2p1p3/3pB1P1/2bP1P1P/2K1r3/8/3R4 w - - 1 51,
+101,Kb4,c3b4,4k3/R7/2p1p3/3pB1P1/1KbP1P1P/4r3/8/3R4 b - - 2 51,
+102,Rb3+,e3b3,4k3/R7/2p1p3/3pB1P1/1KbP1P1P/1r6/8/3R4 w - - 3 52,
+103,Kc5,b4c5,4k3/R7/2p1p3/2KpB1P1/2bP1P1P/1r6/8/3R4 b - - 4 52,
+104,Bb5,c4b5,4k3/R7/2p1p3/1bKpB1P1/3P1P1P/1r6/8/3R4 w - - 5 53,
+105,Kd6,c5d6,4k3/R7/2pKp3/1b1pB1P1/3P1P1P/1r6/8/3R4 b - - 6 53,
+106,Be2,b5e2,4k3/R7/2pKp3/3pB1P1/3P1P1P/1r6/4b3/3R4 w - - 7 54,
+107,Rda1,d1a1,4k3/R7/2pKp3/3pB1P1/3P1P1P/1r6/4b3/R7 b - - 8 54,
+108,Rb6,b3b6,4k3/R7/1rpKp3/3pB1P1/3P1P1P/8/4b3/R7 w - - 9 55,
+109,Kxe6,d6e6,4k3/R7/1rp1K3/3pB1P1/3P1P1P/8/4b3/R7 b - - 0 55,
+110,Bg4+,e2g4,4k3/R7/1rp1K3/3pB1P1/3P1PbP/8/8/R7 w - - 1 56,
+111,Kd6,e6d6,4k3/R7/1rpK4/3pB1P1/3P1PbP/8/8/R7 b - - 2 56,

@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Guoco Piano.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Questionable but not totally beatable... yet...
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Questionable but not totally beatable... yet...
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Questionable but not totally beatable... yet...
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Questionable but not totally beatable... yet...
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Questionable but not totally beatable... yet...
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,The obviously only move.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,The obviously only move.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,5. ... Na5 is better. This creates major problems for black.
+10,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,5. ... Na5 is better. This creates major problems for black.
+11,Nxf7,g5f7,r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,There's the attack.
+12,Kxf7,e8f7,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R w KQ - 0 7,Logical.
+13,Qf3+,d1f3,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R b KQ - 1 7,Logical.
+14,Ke6,f7e6,r1bq1b1r/ppp3pp/2n1k3/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R w KQ - 2 8,"Here's where black starts to lose the game. Instead of trying desperately to hang on to the piece he has ""won"" black should just accept that he can't keep it and allow white the piece back. This would even the game out."
+15,Nc3,b1c3,r1bq1b1r/ppp3pp/2n1k3/3np3/2B5/2N2Q2/PPPP1PPP/R1B1K2R b KQ - 3 8,Black can't hold the knight for long anyway.
+16,Ncb4,c6b4,r1bq1b1r/ppp3pp/4k3/3np3/1nB5/2N2Q2/PPPP1PPP/R1B1K2R w KQ - 4 9,"another sacrifice, allowing black the choice between the c and d pawns, or the rook. Black jumps into the trap."
+17,d4,d2d4,r1bq1b1r/ppp3pp/4k3/3np3/1nBP4/2N2Q2/PPP2PPP/R1B1K2R b KQ - 0 9,"another sacrifice, allowing black the choice between the c and d pawns, or the rook. Black jumps into the trap."
+18,Nxc2+,b4c2,r1bq1b1r/ppp3pp/4k3/3np3/2BP4/2N2Q2/PPn2PPP/R1B1K2R w KQ - 0 10,"Black cannot take the rook, or 14. Bxd5 Qxd5 and black loses a queen or is mated."
+19,Kd1,e1d1,r1bq1b1r/ppp3pp/4k3/3np3/2BP4/2N2Q2/PPn2PPP/R1BK3R b - - 1 10,"Black cannot take the rook, or 14. Bxd5 Qxd5 and black loses a queen or is mated."
+20,Nxd4,c2d4,r1bq1b1r/ppp3pp/4k3/3np3/2Bn4/2N2Q2/PP3PPP/R1BK3R w - - 0 11,The correct move.
+21,Bxd5+,c4d5,r1bq1b1r/ppp3pp/4k3/3Bp3/3n4/2N2Q2/PP3PPP/R1BK3R b - - 0 11,Kd7 is the only option that doesn't lose.
+22,Ke7,e6e7,r1bq1b1r/ppp1k1pp/8/3Bp3/3n4/2N2Q2/PP3PPP/R1BK3R w - - 1 12,11. ... Kd7 is the only move that allows black to escape. Ooops. So black is mated in two.
+23,Qf7+,f3f7,r1bq1b1r/ppp1kQpp/8/3Bp3/3n4/2N5/PP3PPP/R1BK3R b - - 2 12,Black hung himself...
+24,Kd6,e7d6,r1bq1b1r/ppp2Qpp/3k4/3Bp3/3n4/2N5/PP3PPP/R1BK3R w - - 3 13,Black hung himself...
+25,Ne4#,c3e4,r1bq1b1r/ppp2Qpp/3k4/3Bp3/3nN3/8/PP3PPP/R1BK3R b - - 4 13,Black hung himself...

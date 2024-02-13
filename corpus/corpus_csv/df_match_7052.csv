@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Parham attack.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Parham attack.
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,The Parham attack.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,2. ... Nc6 is the usual continuation but I threw caution to the wind just to see what would happen
+5,Qxe5+,h5e5,rnbqkb1r/pppp1ppp/5n2/4Q3/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 3,Now the trick is to develop and force White to move his Queen around as much as possible
+6,Be7,f8e7,rnbqk2r/ppppbppp/5n2/4Q3/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 1 4,Now the trick is to develop and force White to move his Queen around as much as possible
+7,Nf3,g1f3,rnbqk2r/ppppbppp/5n2/4Q3/4P3/5N2/PPPP1PPP/RNB1KB1R b KQkq - 2 4,Now the trick is to develop and force White to move his Queen around as much as possible
+8,Nc6,b8c6,r1bqk2r/ppppbppp/2n2n2/4Q3/4P3/5N2/PPPP1PPP/RNB1KB1R w KQkq - 3 5,The first step in development although 4. ... d6 is also possible and maybe better as it frees the light squared Bishop while forcing White to move the Queen to safety
+9,Qf4,e5f4,r1bqk2r/ppppbppp/2n2n2/8/4PQ2/5N2/PPPP1PPP/RNB1KB1R b KQkq - 4 5,I liked this because it kept the pressure on White with 6. exd5 Nd5 attacking the Queen once again and with my Bishops acting in tandem giving the Queen few squares to which she might retreat
+10,d5,d7d5,r1bqk2r/ppp1bppp/2n2n2/3p4/4PQ2/5N2/PPPP1PPP/RNB1KB1R w KQkq - 0 6,I liked this because it kept the pressure on White with 6. exd5 Nd5 attacking the Queen once again and with my Bishops acting in tandem giving the Queen few squares to which she might retreat
+11,e5,e4e5,r1bqk2r/ppp1bppp/2n2n2/3pP3/5Q2/5N2/PPPP1PPP/RNB1KB1R b KQkq - 0 6,Run Queenie run
+12,Nh5,f6h5,r1bqk2r/ppp1bppp/2n5/3pP2n/5Q2/5N2/PPPP1PPP/RNB1KB1R w KQkq - 1 7,Run Queenie run
+13,Qe3,f4e3,r1bqk2r/ppp1bppp/2n5/3pP2n/8/4QN2/PPPP1PPP/RNB1KB1R b KQkq - 2 7,"I took a moment off here because I thought having my Rook available to jump on the e-file might be useful and of course, getting my King to safety"
+14,O-O,e8g8,r1bq1rk1/ppp1bppp/2n5/3pP2n/8/4QN2/PPPP1PPP/RNB1KB1R w KQ - 3 8,"I took a moment off here because I thought having my Rook available to jump on the e-file might be useful and of course, getting my King to safety"
+15,Bd3,f1d3,r1bq1rk1/ppp1bppp/2n5/3pP2n/8/3BQN2/PPPP1PPP/RNB1K2R b KQ - 4 8,This might not have been such a good move but I wanted to get the Bishop out. 8. ... Be6 might be better
+16,Bg4,c8g4,r2q1rk1/ppp1bppp/2n5/3pP2n/6b1/3BQN2/PPPP1PPP/RNB1K2R w KQ - 5 9,This might not have been such a good move but I wanted to get the Bishop out. 8. ... Be6 might be better
+17,h3,h2h3,r2q1rk1/ppp1bppp/2n5/3pP2n/6b1/3BQN1P/PPPP1PP1/RNB1K2R b KQ - 0 9,This protects the knight but does open the diagonal to White's attack with the dark squared Bishop and the Queen. Luckily this does not enter into the game continuation.
+18,Bxf3,g4f3,r2q1rk1/ppp1bppp/2n5/3pP2n/8/3BQb1P/PPPP1PP1/RNB1K2R w KQ - 0 10,This protects the knight but does open the diagonal to White's attack with the dark squared Bishop and the Queen. Luckily this does not enter into the game continuation.
+19,Qxf3,e3f3,r2q1rk1/ppp1bppp/2n5/3pP2n/8/3B1Q1P/PPPP1PP1/RNB1K2R b KQ - 0 10,This protects the knight but does open the diagonal to White's attack with the dark squared Bishop and the Queen. Luckily this does not enter into the game continuation.
+20,g6,g7g6,r2q1rk1/ppp1bp1p/2n3p1/3pP2n/8/3B1Q1P/PPPP1PP1/RNB1K2R w KQ - 0 11,This protects the knight but does open the diagonal to White's attack with the dark squared Bishop and the Queen. Luckily this does not enter into the game continuation.
+21,Nc3,b1c3,r2q1rk1/ppp1bp1p/2n3p1/3pP2n/8/2NB1Q1P/PPPP1PP1/R1B1K2R b KQ - 1 11,I'm just trying to use my space here and make potential threats.
+22,Nb4,c6b4,r2q1rk1/ppp1bp1p/6p1/3pP2n/1n6/2NB1Q1P/PPPP1PP1/R1B1K2R w KQ - 2 12,I'm just trying to use my space here and make potential threats.
+23,Nxd5,c3d5,r2q1rk1/ppp1bp1p/6p1/3NP2n/1n6/3B1Q1P/PPPP1PP1/R1B1K2R b KQ - 0 12,This is a blunder perhaps with an eye towards my Knight attacking the c2 square threatening a fork if the light squared Bishop ever moves but forgetting that it also defends this square
+24,Nxd5,b4d5,r2q1rk1/ppp1bp1p/6p1/3nP2n/8/3B1Q1P/PPPP1PP1/R1B1K2R w KQ - 0 13,I like that Knight at d5 quite a bit and I want to make White trade off his good Bishop if he wants to rid himself of it
+25,Bc4,d3c4,r2q1rk1/ppp1bp1p/6p1/3nP2n/2B5/5Q1P/PPPP1PP1/R1B1K2R b KQ - 1 13,I like that Knight at d5 quite a bit and I want to make White trade off his good Bishop if he wants to rid himself of it
+26,c6,c7c6,r2q1rk1/pp2bp1p/2p3p1/3nP2n/2B5/5Q1P/PPPP1PP1/R1B1K2R w KQ - 0 14,I like that Knight at d5 quite a bit and I want to make White trade off his good Bishop if he wants to rid himself of it
+27,g4,g2g4,r2q1rk1/pp2bp1p/2p3p1/3nP2n/2B3P1/5Q1P/PPPP1P2/R1B1K2R b KQ - 0 14,"Now, my Knight is in trouble but I find a nice series of zwischenzug moves of which I'm quite proud."
+28,Nb4,d5b4,r2q1rk1/pp2bp1p/2p3p1/4P2n/1nB3P1/5Q1P/PPPP1P2/R1B1K2R w KQ - 1 15,Threatening 15. ... Nxc2+ and picking up the rook
+29,Rb1,a1b1,r2q1rk1/pp2bp1p/2p3p1/4P2n/1nB3P1/5Q1P/PPPP1P2/1RB1K2R b K - 2 15,I think 15. Qe4 is best or possibly 15. Bd3 Nxd3 16. cxd3 but this just gives up another pawn. I suspect my opponent missed the series of moves that ends up saving both my Knights
+30,Nxc2+,b4c2,r2q1rk1/pp2bp1p/2p3p1/4P2n/2B3P1/5Q1P/PPnP1P2/1RB1K2R w K - 0 16,Pulling the Knight from danger and threatening the Queen
+31,Kd1,e1d1,r2q1rk1/pp2bp1p/2p3p1/4P2n/2B3P1/5Q1P/PPnP1P2/1RBK3R b - - 1 16,Pulling the Knight from danger and threatening the Queen
+32,Nd4,c2d4,r2q1rk1/pp2bp1p/2p3p1/4P2n/2Bn2P1/5Q1P/PP1P1P2/1RBK3R w - - 2 17,Pulling the Knight from danger and threatening the Queen
+33,Qe4,f3e4,r2q1rk1/pp2bp1p/2p3p1/4P2n/2BnQ1P1/7P/PP1P1P2/1RBK3R b - - 3 17,Getting both Knights to safety and picking up a pawn. My position is a bit cramped but White has lost the right to Castle and his dark squared Bishop and one Rook are both trapped for a bit longer
+34,Ng7,h5g7,r2q1rk1/pp2bpnp/2p3p1/4P3/2BnQ1P1/7P/PP1P1P2/1RBK3R w - - 4 18,Getting both Knights to safety and picking up a pawn. My position is a bit cramped but White has lost the right to Castle and his dark squared Bishop and one Rook are both trapped for a bit longer
+35,d3,d2d3,r2q1rk1/pp2bpnp/2p3p1/4P3/2BnQ1P1/3P3P/PP3P2/1RBK3R b - - 0 18,This forces the Bishop to a place where I can make a trade
+36,b5,b7b5,r2q1rk1/p3bpnp/2p3p1/1p2P3/2BnQ1P1/3P3P/PP3P2/1RBK3R w - - 0 19,This forces the Bishop to a place where I can make a trade
+37,Bb3,c4b3,r2q1rk1/p3bpnp/2p3p1/1p2P3/3nQ1P1/1B1P3P/PP3P2/1RBK3R b - - 1 19,While I did like the Knight at d4 I thought getting rid of the good Bishop and doubling pawns was to my advantage
+38,Nxb3,d4b3,r2q1rk1/p3bpnp/2p3p1/1p2P3/4Q1P1/1n1P3P/PP3P2/1RBK3R w - - 0 20,While I did like the Knight at d4 I thought getting rid of the good Bishop and doubling pawns was to my advantage
+39,axb3,a2b3,r2q1rk1/p3bpnp/2p3p1/1p2P3/4Q1P1/1P1P3P/1P3P2/1RBK3R b - - 0 20,Up two pawns I'm willing to trade Queens even if it means creating a pawn island
+40,Qd5,d8d5,r4rk1/p3bpnp/2p3p1/1p1qP3/4Q1P1/1P1P3P/1P3P2/1RBK3R w - - 1 21,Up two pawns I'm willing to trade Queens even if it means creating a pawn island

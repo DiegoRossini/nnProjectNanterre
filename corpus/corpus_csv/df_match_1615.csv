@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"The Fischer Defense, taking e5 away from the knight. This makes 5.h4 questionable, since 5. ... g4 displaces the knight."
+7,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/8/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 4,5.g3 is a solid alternative.
+8,g5,g7g5,rnbqkbnr/ppp2p1p/3p4/6p1/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq - 0 5,5.g3 is a solid alternative.
+9,h4,h2h4,rnbqkbnr/ppp2p1p/3p4/6p1/3PPp1P/5N2/PPP3P1/RNBQKB1R b KQkq - 0 5,5.g3 is a solid alternative.
+10,g4,g5g4,rnbqkbnr/ppp2p1p/3p4/8/3PPppP/5N2/PPP3P1/RNBQKB1R w KQkq - 0 6,If White can regain the pawn his mobile center will assure him the advantage.
+11,Ng1,f3g1,rnbqkbnr/ppp2p1p/3p4/8/3PPppP/8/PPP3P1/RNBQKBNR b KQkq - 1 6,If White can regain the pawn his mobile center will assure him the advantage.
+12,Qf6,d8f6,rnb1kbnr/ppp2p1p/3p1q2/8/3PPppP/8/PPP3P1/RNBQKBNR w KQkq - 2 7,If White can regain the pawn his mobile center will assure him the advantage.
+13,Nc3,b1c3,rnb1kbnr/ppp2p1p/3p1q2/8/3PPppP/2N5/PPP3P1/R1BQKBNR b KQkq - 3 7,If White can regain the pawn his mobile center will assure him the advantage.
+14,Ne7,g8e7,rnb1kb1r/ppp1np1p/3p1q2/8/3PPppP/2N5/PPP3P1/R1BQKBNR w KQkq - 4 8,If White can regain the pawn his mobile center will assure him the advantage.
+15,Nge2,g1e2,rnb1kb1r/ppp1np1p/3p1q2/8/3PPppP/2N5/PPP1N1P1/R1BQKB1R b KQkq - 5 8,If White can regain the pawn his mobile center will assure him the advantage.
+16,Bh6,f8h6,rnb1k2r/ppp1np1p/3p1q1b/8/3PPppP/2N5/PPP1N1P1/R1BQKB1R w KQkq - 6 9,If White can regain the pawn his mobile center will assure him the advantage.
+17,Qd2,d1d2,rnb1k2r/ppp1np1p/3p1q1b/8/3PPppP/2N5/PPPQN1P1/R1B1KB1R b KQkq - 7 9,"9. g3 is more common, but no better according to John Shaw (The King's Gambit, Quality Press)."
+18,Nbc6,b8c6,r1b1k2r/ppp1np1p/2np1q1b/8/3PPppP/2N5/PPPQN1P1/R1B1KB1R w KQkq - 8 10,Counterattacking d4 since f4 can no longer be held.
+19,g3,g2g3,r1b1k2r/ppp1np1p/2np1q1b/8/3PPppP/2N3P1/PPPQN3/R1B1KB1R b KQkq - 0 10,"10. Nb5 is more popular, and the move recommended by GameKnot's chess engine. Shaw does not think Nb5 is good for more than equality, as Black has the safer king and the better coordinated pieces."
+20,Bg7,h6g7,r1b1k2r/ppp1npbp/2np1q2/8/3PPppP/2N3P1/PPPQN3/R1B1KB1R w KQkq - 1 11,"Shaw gives this position as =/+, and his analysis does not include White's reply. Black's pieces are better coordinated than White's, and Black has a lead in development. Plus it appears that Black will be able to maintain the extra pawn for the moment. I don't like the computer's recommendation of 10...Be6, as it puts it in a precarious position. If 11. d5, Ne5 will suffice, but if 10.gxf4, Black has nothing better than 10...d5, which gives white a protected passed e-pawn."
+21,Qxf4,d2f4,r1b1k2r/ppp1npbp/2np1q2/8/3PPQpP/2N3P1/PPP1N3/R1B1KB1R b KQkq - 0 11,Black has the freer game plus an extra pawn.
+22,Nxd4,c6d4,r1b1k2r/ppp1npbp/3p1q2/8/3nPQpP/2N3P1/PPP1N3/R1B1KB1R w KQkq - 0 12,Black has the freer game plus an extra pawn.
+23,Nxd4,e2d4,r1b1k2r/ppp1npbp/3p1q2/8/3NPQpP/2N3P1/PPP5/R1B1KB1R b KQkq - 0 12,Black has the freer game plus an extra pawn.
+24,Qxd4,f6d4,r1b1k2r/ppp1npbp/3p4/8/3qPQpP/2N3P1/PPP5/R1B1KB1R w KQkq - 0 13,Black has the freer game plus an extra pawn.
+25,Nb5,c3b5,r1b1k2r/ppp1npbp/3p4/1N6/3qPQpP/6P1/PPP5/R1B1KB1R b KQkq - 1 13,The computer's line with 14. Qe3 avoids the following material loss.
+26,Qc5,d4c5,r1b1k2r/ppp1npbp/3p4/1Nq5/4PQpP/6P1/PPP5/R1B1KB1R w KQkq - 2 14,The computer's line with 14. Qe3 avoids the following material loss.
+27,Be3,c1e3,r1b1k2r/ppp1npbp/3p4/1Nq5/4PQpP/4B1P1/PPP5/R3KB1R b KQkq - 3 14,The computer's line with 14. Qe3 avoids the following material loss.
+28,Qb4+,c5b4,r1b1k2r/ppp1npbp/3p4/1N6/1q2PQpP/4B1P1/PPP5/R3KB1R w KQkq - 4 15,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+29,c3,c2c3,r1b1k2r/ppp1npbp/3p4/1N6/1q2PQpP/2P1B1P1/PP6/R3KB1R b KQkq - 0 15,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+30,Qxb2,b4b2,r1b1k2r/ppp1npbp/3p4/1N6/4PQpP/2P1B1P1/Pq6/R3KB1R w KQkq - 0 16,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+31,Rd1,a1d1,r1b1k2r/ppp1npbp/3p4/1N6/4PQpP/2P1B1P1/Pq6/3RKB1R b Kkq - 1 16,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+32,Bxc3+,g7c3,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/2b1B1P1/Pq6/3RKB1R w Kkq - 0 17,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+33,Bd2,e3d2,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/2b3P1/Pq1B4/3RKB1R b Kkq - 1 17,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+34,Bxd2+,c3d2,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/6P1/Pq1b4/3RKB1R w Kkq - 0 18,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+35,Rxd2,d1d2,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/6P1/Pq1R4/4KB1R b Kkq - 0 18,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+36,Qc1+,b2c1,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/6P1/P2R4/2q1KB1R w Kkq - 1 19,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+37,Kf2,e1f2,r1b1k2r/ppp1np1p/3p4/1N6/4PQpP/6P1/P2R1K2/2q2B1R b kq - 2 19,"If 19. Rd1, Qxf4 and 15. ... Kd8 with a winning ending."
+38,Qc5+,c1c5,r1b1k2r/ppp1np1p/3p4/1Nq5/4PQpP/6P1/P2R1K2/5B1R w kq - 3 20,White must either move his queen and allow the Black queen to reign supreme on e5 or trade down to a lost ending.
+39,Kg2,f2g2,r1b1k2r/ppp1np1p/3p4/1Nq5/4PQpP/6P1/P2R2K1/5B1R b kq - 4 20,White must either move his queen and allow the Black queen to reign supreme on e5 or trade down to a lost ending.
+40,a6,a7a6,r1b1k2r/1pp1np1p/p2p4/1Nq5/4PQpP/6P1/P2R2K1/5B1R w kq - 0 21,White must either move his queen and allow the Black queen to reign supreme on e5 or trade down to a lost ending.
+41,Nd4,b5d4,r1b1k2r/1pp1np1p/p2p4/2q5/3NPQpP/6P1/P2R2K1/5B1R b kq - 1 21,White must either move his queen and allow the Black queen to reign supreme on e5 or trade down to a lost ending.
+42,Qe5,c5e5,r1b1k2r/1pp1np1p/p2p4/4q3/3NPQpP/6P1/P2R2K1/5B1R w kq - 2 22,White must either move his queen and allow the Black queen to reign supreme on e5 or trade down to a lost ending.
+43,Qe3,f4e3,r1b1k2r/1pp1np1p/p2p4/4q3/3NP1pP/4Q1P1/P2R2K1/5B1R b kq - 3 22,"23. Re2 avoids losing more material but permits Black to force a winning ending, as the computer's recommended line shows."
+44,f5,f7f5,r1b1k2r/1pp1n2p/p2p4/4qp2/3NP1pP/4Q1P1/P2R2K1/5B1R w kq - 0 23,"23. Re2 avoids losing more material but permits Black to force a winning ending, as the computer's recommended line shows."
+45,Qb3,e3b3,r1b1k2r/1pp1n2p/p2p4/4qp2/3NP1pP/1Q4P1/P2R2K1/5B1R b kq - 1 23,"23. Re2 avoids losing more material but permits Black to force a winning ending, as the computer's recommended line shows."
+46,fxe4,f5e4,r1b1k2r/1pp1n2p/p2p4/4q3/3Np1pP/1Q4P1/P2R2K1/5B1R w kq - 0 24,"While it is necessary to get the Bf1 and Rh1 into play, this takes the knight's best square -- hence Black's reply."
+47,Be2,f1e2,r1b1k2r/1pp1n2p/p2p4/4q3/3Np1pP/1Q4P1/P2RB1K1/7R b kq - 1 24,"While it is necessary to get the Bf1 and Rh1 into play, this takes the knight's best square -- hence Black's reply."
+48,c5,c7c5,r1b1k2r/1p2n2p/p2p4/2p1q3/3Np1pP/1Q4P1/P2RB1K1/7R w kq - 0 25,"The mobile Black center pawns will soon become a nightmare for White. if 26. Qxb7, Bd5! is a killer."
+49,Nc2,d4c2,r1b1k2r/1p2n2p/p2p4/2p1q3/4p1pP/1Q4P1/P1NRB1K1/7R b kq - 1 25,"The mobile Black center pawns will soon become a nightmare for White. if 26. Qxb7, Bd5! is a killer."
+50,Be6,c8e6,r3k2r/1p2n2p/p2pb3/2p1q3/4p1pP/1Q4P1/P1NRB1K1/7R w kq - 2 26,"The mobile Black center pawns will soon become a nightmare for White. if 26. Qxb7, Bd5! is a killer."

@@ -1,0 +1,85 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,A double queen-pawn opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,A double queen-pawn opening
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,Unusual second move
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,Very unusual third move
+5,Bg5,c1g5,rnbqkbnr/pp2pppp/2p5/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 3,Very unusual third move
+6,Qb6,d8b6,rnb1kbnr/pp2pppp/1qp5/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 2 4,Probably out of the opening book already
+7,Rb1,a1b1,rnb1kbnr/pp2pppp/1qp5/3p2B1/3P4/2N5/PPP1PPPP/1R1QKBNR b Kkq - 3 4,!
+8,Bf5,c8f5,rn2kbnr/pp2pppp/1qp5/3p1bB1/3P4/2N5/PPP1PPPP/1R1QKBNR w Kkq - 4 5,!
+9,f3,f2f3,rn2kbnr/pp2pppp/1qp5/3p1bB1/3P4/2N2P2/PPP1P1PP/1R1QKBNR b Kkq - 0 5,!
+10,f6,f7f6,rn2kbnr/pp2p1pp/1qp2p2/3p1bB1/3P4/2N2P2/PPP1P1PP/1R1QKBNR w Kkq - 0 6,!
+11,Bh4,g5h4,rn2kbnr/pp2p1pp/1qp2p2/3p1b2/3P3B/2N2P2/PPP1P1PP/1R1QKBNR b Kkq - 1 6,!
+12,e5,e7e5,rn2kbnr/pp4pp/1qp2p2/3ppb2/3P3B/2N2P2/PPP1P1PP/1R1QKBNR w Kkq - 0 7,!
+13,e3,e2e3,rn2kbnr/pp4pp/1qp2p2/3ppb2/3P3B/2N1PP2/PPP3PP/1R1QKBNR b Kkq - 0 7,!
+14,Bb4,f8b4,rn2k1nr/pp4pp/1qp2p2/3ppb2/1b1P3B/2N1PP2/PPP3PP/1R1QKBNR w Kkq - 1 8,!
+15,Bd3,f1d3,rn2k1nr/pp4pp/1qp2p2/3ppb2/1b1P3B/2NBPP2/PPP3PP/1R1QK1NR b Kkq - 2 8,!
+16,Ne7,g8e7,rn2k2r/pp2n1pp/1qp2p2/3ppb2/1b1P3B/2NBPP2/PPP3PP/1R1QK1NR w Kkq - 3 9,!
+17,g4,g2g4,rn2k2r/pp2n1pp/1qp2p2/3ppb2/1b1P2PB/2NBPP2/PPP4P/1R1QK1NR b Kkq - 0 9,!
+18,exd4,e5d4,rn2k2r/pp2n1pp/1qp2p2/3p1b2/1b1p2PB/2NBPP2/PPP4P/1R1QK1NR w Kkq - 0 10,!
+19,Bxf5,d3f5,rn2k2r/pp2n1pp/1qp2p2/3p1B2/1b1p2PB/2N1PP2/PPP4P/1R1QK1NR b Kkq - 0 10,"Already, Black has a significant advantage."
+20,dxc3,d4c3,rn2k2r/pp2n1pp/1qp2p2/3p1B2/1b4PB/2p1PP2/PPP4P/1R1QK1NR w Kkq - 0 11,"Already, Black has a significant advantage."
+21,Kf2,e1f2,rn2k2r/pp2n1pp/1qp2p2/3p1B2/1b4PB/2p1PP2/PPP2K1P/1R1Q2NR b kq - 1 11,"Already, Black has a significant advantage."
+22,Nxf5,e7f5,rn2k2r/pp4pp/1qp2p2/3p1n2/1b4PB/2p1PP2/PPP2K1P/1R1Q2NR w kq - 0 12,"Already, Black has a significant advantage."
+23,gxf5,g4f5,rn2k2r/pp4pp/1qp2p2/3p1P2/1b5B/2p1PP2/PPP2K1P/1R1Q2NR b kq - 0 12,"Already, Black has a significant advantage."
+24,Bc5,b4c5,rn2k2r/pp4pp/1qp2p2/2bp1P2/7B/2p1PP2/PPP2K1P/1R1Q2NR w kq - 1 13,I should have sac-ed the exchange here.
+25,Qd3,d1d3,rn2k2r/pp4pp/1qp2p2/2bp1P2/7B/2pQPP2/PPP2K1P/1R4NR b kq - 2 13,I should have sac-ed the exchange here.
+26,cxb2,c3b2,rn2k2r/pp4pp/1qp2p2/2bp1P2/7B/3QPP2/PpP2K1P/1R4NR w kq - 0 14,I should have sac-ed the exchange here.
+27,Ne2,g1e2,rn2k2r/pp4pp/1qp2p2/2bp1P2/7B/3QPP2/PpP1NK1P/1R5R b kq - 1 14,I should have sac-ed the exchange here.
+28,O-O,e8g8,rn3rk1/pp4pp/1qp2p2/2bp1P2/7B/3QPP2/PpP1NK1P/1R5R w - - 2 15,I should have sac-ed the exchange here.
+29,Bg3,h4g3,rn3rk1/pp4pp/1qp2p2/2bp1P2/8/3QPPB1/PpP1NK1P/1R5R b - - 3 15,I should have sac-ed the exchange here.
+30,Re8,f8e8,rn2r1k1/pp4pp/1qp2p2/2bp1P2/8/3QPPB1/PpP1NK1P/1R5R w - - 4 16,I should have sac-ed the exchange here.
+31,Bf4,g3f4,rn2r1k1/pp4pp/1qp2p2/2bp1P2/5B2/3QPP2/PpP1NK1P/1R5R b - - 5 16,I should have sac-ed the exchange here.
+32,Na6,b8a6,r3r1k1/pp4pp/nqp2p2/2bp1P2/5B2/3QPP2/PpP1NK1P/1R5R w - - 6 17,I should have sac-ed the exchange here.
+33,c3,c2c3,r3r1k1/pp4pp/nqp2p2/2bp1P2/5B2/2PQPP2/Pp2NK1P/1R5R b - - 0 17,I should have sac-ed the exchange here.
+34,Re7,e8e7,r5k1/pp2r1pp/nqp2p2/2bp1P2/5B2/2PQPP2/Pp2NK1P/1R5R w - - 1 18,I should have sac-ed the exchange here.
+35,Qd2,d3d2,r5k1/pp2r1pp/nqp2p2/2bp1P2/5B2/2P1PP2/Pp1QNK1P/1R5R b - - 2 18,I should have sac-ed the exchange here.
+36,Rae8,a8e8,4r1k1/pp2r1pp/nqp2p2/2bp1P2/5B2/2P1PP2/Pp1QNK1P/1R5R w - - 3 19,I should have sac-ed the exchange here.
+37,Nd4,e2d4,4r1k1/pp2r1pp/nqp2p2/2bp1P2/3N1B2/2P1PP2/Pp1Q1K1P/1R5R b - - 4 19,I should have sac-ed the exchange here.
+38,Ba3,c5a3,4r1k1/pp2r1pp/nqp2p2/3p1P2/3N1B2/b1P1PP2/Pp1Q1K1P/1R5R w - - 5 20,I should have sac-ed the exchange here.
+39,Ne6,d4e6,4r1k1/pp2r1pp/nqp1Np2/3p1P2/5B2/b1P1PP2/Pp1Q1K1P/1R5R b - - 6 20,I should have sac-ed the exchange here.
+40,Nc5,a6c5,4r1k1/pp2r1pp/1qp1Np2/2np1P2/5B2/b1P1PP2/Pp1Q1K1P/1R5R w - - 7 21,This works also.
+41,Nd4,e6d4,4r1k1/pp2r1pp/1qp2p2/2np1P2/3N1B2/b1P1PP2/Pp1Q1K1P/1R5R b - - 8 21,This works also.
+42,Na4,c5a4,4r1k1/pp2r1pp/1qp2p2/3p1P2/n2N1B2/b1P1PP2/Pp1Q1K1P/1R5R w - - 9 22,This works also.
+43,Ne6,d4e6,4r1k1/pp2r1pp/1qp1Np2/3p1P2/n4B2/b1P1PP2/Pp1Q1K1P/1R5R b - - 10 22,This works also.
+44,Re7xe6,e7e6,4r1k1/pp4pp/1qp1rp2/3p1P2/n4B2/b1P1PP2/Pp1Q1K1P/1R5R w - - 0 23,This works also.
+45,fxe6,f5e6,4r1k1/pp4pp/1qp1Pp2/3p4/n4B2/b1P1PP2/Pp1Q1K1P/1R5R b - - 0 23,"Bad move (Monkey sees check, Monkey gives check)"
+46,Rxe6,e8e6,6k1/pp4pp/1qp1rp2/3p4/n4B2/b1P1PP2/Pp1Q1K1P/1R5R w - - 0 24,"Bad move (Monkey sees check, Monkey gives check)"
+47,c4,c3c4,6k1/pp4pp/1qp1rp2/3p4/n1P2B2/b3PP2/Pp1Q1K1P/1R5R b - - 0 24,"Bad move (Monkey sees check, Monkey gives check)"
+48,dxc4,d5c4,6k1/pp4pp/1qp1rp2/8/n1p2B2/b3PP2/Pp1Q1K1P/1R5R w - - 0 25,"Bad move (Monkey sees check, Monkey gives check)"
+49,Qd7,d2d7,6k1/pp1Q2pp/1qp1rp2/8/n1p2B2/b3PP2/Pp3K1P/1R5R b - - 1 25,"Bad move (Monkey sees check, Monkey gives check)"
+50,Re7,e6e7,6k1/pp1Qr1pp/1qp2p2/8/n1p2B2/b3PP2/Pp3K1P/1R5R w - - 2 26,"Bad move (Monkey sees check, Monkey gives check)"
+51,Qc8+,d7c8,2Q3k1/pp2r1pp/1qp2p2/8/n1p2B2/b3PP2/Pp3K1P/1R5R b - - 3 26,"Bad move (Monkey sees check, Monkey gives check)"
+52,Kf7,g8f7,2Q5/pp2rkpp/1qp2p2/8/n1p2B2/b3PP2/Pp3K1P/1R5R w - - 4 27,Here we go again ...
+53,Qg4,c8g4,8/pp2rkpp/1qp2p2/8/n1p2BQ1/b3PP2/Pp3K1P/1R5R b - - 5 27,Here we go again ...
+54,Nc3,a4c3,8/pp2rkpp/1qp2p2/8/2p2BQ1/b1n1PP2/Pp3K1P/1R5R w - - 6 28,Here we go again ...
+55,Qh5+,g4h5,8/pp2rkpp/1qp2p2/7Q/2p2B2/b1n1PP2/Pp3K1P/1R5R b - - 7 28,Here we go again ...
+56,Kg8,f7g8,6k1/pp2r1pp/1qp2p2/7Q/2p2B2/b1n1PP2/Pp3K1P/1R5R w - - 8 29,What's up with these impotent checks?
+57,Rhg1,h1g1,6k1/pp2r1pp/1qp2p2/7Q/2p2B2/b1n1PP2/Pp3K1P/1R4R1 b - - 9 29,What's up with these impotent checks?
+58,Nxb1,c3b1,6k1/pp2r1pp/1qp2p2/7Q/2p2B2/b3PP2/Pp3K1P/1n4R1 w - - 0 30,What's up with these impotent checks?
+59,Rxb1,g1b1,6k1/pp2r1pp/1qp2p2/7Q/2p2B2/b3PP2/Pp3K1P/1R6 b - - 0 30,What's up with these impotent checks?
+60,c3,c4c3,6k1/pp2r1pp/1qp2p2/7Q/5B2/b1p1PP2/Pp3K1P/1R6 w - - 0 31,What's up with these impotent checks?
+61,Qf5,h5f5,6k1/pp2r1pp/1qp2p2/5Q2/5B2/b1p1PP2/Pp3K1P/1R6 b - - 1 31,What's up with these impotent checks?
+62,Qc5,b6c5,6k1/pp2r1pp/2p2p2/2q2Q2/5B2/b1p1PP2/Pp3K1P/1R6 w - - 2 32,What's up with these impotent checks?
+63,Qc8+,f5c8,2Q3k1/pp2r1pp/2p2p2/2q5/5B2/b1p1PP2/Pp3K1P/1R6 b - - 3 32,What's up with these impotent checks?
+64,Kf7,g8f7,2Q5/pp2rkpp/2p2p2/2q5/5B2/b1p1PP2/Pp3K1P/1R6 w - - 4 33,Now the white Queen is cut off.
+65,Rd1,b1d1,2Q5/pp2rkpp/2p2p2/2q5/5B2/b1p1PP2/Pp3K1P/3R4 b - - 5 33,Now the white Queen is cut off.
+66,Qc4,c5c4,2Q5/pp2rkpp/2p2p2/8/2q2B2/b1p1PP2/Pp3K1P/3R4 w - - 6 34,Now the white Queen is cut off.
+67,Rd8,d1d8,2QR4/pp2rkpp/2p2p2/8/2q2B2/b1p1PP2/Pp3K1P/8 b - - 7 34,Now the white Queen is cut off.
+68,Qe6,c4e6,2QR4/pp2rkpp/2p1qp2/8/5B2/b1p1PP2/Pp3K1P/8 w - - 8 35,Now the white Queen is cut off.
+69,Rf8+,d8f8,2Q2R2/pp2rkpp/2p1qp2/8/5B2/b1p1PP2/Pp3K1P/8 b - - 9 35,Finally ... no more annoying checks.
+70,Kg6,f7g6,2Q2R2/pp2r1pp/2p1qpk1/8/5B2/b1p1PP2/Pp3K1P/8 w - - 10 36,Finally ... no more annoying checks.
+71,Qd8,c8d8,3Q1R2/pp2r1pp/2p1qpk1/8/5B2/b1p1PP2/Pp3K1P/8 b - - 11 36,"In this position, I should have played Qh3! and it's all over for white. During the game, I didn't realize that the rook on e7 was defended by the Bishop on a3."
+72,b1=Q,b2b1q,3Q1R2/pp2r1pp/2p1qpk1/8/5B2/b1p1PP2/P4K1P/1q6 w - - 0 37,"In this position, I should have played Qh3! and it's all over for white. During the game, I didn't realize that the rook on e7 was defended by the Bishop on a3."
+73,e4,e3e4,3Q1R2/pp2r1pp/2p1qpk1/8/4PB2/b1p2P2/P4K1P/1q6 b - - 0 37,"In this position, I should have played Qh3! and it's all over for white. During the game, I didn't realize that the rook on e7 was defended by the Bishop on a3."
+74,Qc2+,b1c2,3Q1R2/pp2r1pp/2p1qpk1/8/4PB2/b1p2P2/P1q2K1P/8 w - - 1 38,"Here, I should have played Qf1 and white can't prevent mate (either Qeh3# or Qfg1#)."
+75,Kg3,f2g3,3Q1R2/pp2r1pp/2p1qpk1/8/4PB2/b1p2PK1/P1q4P/8 b - - 2 38,"Here, I should have played Qf1 and white can't prevent mate (either Qeh3# or Qfg1#)."
+76,Qe2,c2e2,3Q1R2/pp2r1pp/2p1qpk1/8/4PB2/b1p2PK1/P3q2P/8 w - - 3 39,"Here, I should have played Qf1 and white can't prevent mate (either Qeh3# or Qfg1#)."
+77,h4,h2h4,3Q1R2/pp2r1pp/2p1qpk1/8/4PB1P/b1p2PK1/P3q3/8 b - - 0 39,"Here, I should have played Qf1 and white can't prevent mate (either Qeh3# or Qfg1#)."
+78,c2,c3c2,3Q1R2/pp2r1pp/2p1qpk1/8/4PB1P/b4PK1/P1p1q3/8 w - - 0 40,"Instead, I go for 3 Queens on the board."
+79,e5,e4e5,3Q1R2/pp2r1pp/2p1qpk1/4P3/5B1P/b4PK1/P1p1q3/8 b - - 0 40,The rook sac is in vain.
+80,c1=Q,c2c1q,3Q1R2/pp2r1pp/2p1qpk1/4P3/5B1P/b4PK1/P3q3/2q5 w - - 0 41,The rook sac is in vain.
+81,Rxf6+,f8f6,3Q4/pp2r1pp/2p1qRk1/4P3/5B1P/b4PK1/P3q3/2q5 b - - 0 41,The rook sac is in vain.
+82,gxf6,g7f6,3Q4/pp2r2p/2p1qpk1/4P3/5B1P/b4PK1/P3q3/2q5 w - - 0 42,White ran out of time. He would have been mated shortly.
+83,Bxc1,f4c1,3Q4/pp2r2p/2p1qpk1/4P3/7P/b4PK1/P3q3/2B5 b - - 0 42,White ran out of time. He would have been mated shortly.
+84,Bxc1,a3c1,3Q4/pp2r2p/2p1qpk1/4P3/7P/5PK1/P3q3/2b5 w - - 0 43,White ran out of time. He would have been mated shortly.

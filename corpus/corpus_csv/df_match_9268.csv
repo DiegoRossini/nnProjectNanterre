@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,this to allow knight out to protect king pawn without trapping c7 pawn
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this to allow knight out to protect king pawn without trapping c7 pawn
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,this to allow knight out to protect king pawn without trapping c7 pawn
+4,c5,c7c5,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,this to allow knight out to protect king pawn without trapping c7 pawn
+5,Nf3,g1f3,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,standard move attack king pawn
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n5/2p1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,defend king pawn
+7,Bc4,f1c4,r1bqkbnr/pp1p1ppp/2n5/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,i can only assume this to be a standard move attacking f7 pawn preparing the way for knight to take h8 rook and in turn takes a hold on centre of the board
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n2n2/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5,ultimately to allow a fight for d5
+9,O-O,e1g1,r1bqkb1r/pp1p1ppp/2n2n2/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 5 5,stop knight advance ???
+10,d6,d7d6,r1bqkb1r/pp3ppp/2np1n2/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,stop knight advance ???
+11,a3,a2a3,r1bqkb1r/pp3ppp/2np1n2/2p1p3/2B1P3/P1N2N2/1PPP1PPP/R1BQ1RK1 b kq - 0 6,stop knight advance ???
+12,a6,a7a6,r1bqkb1r/1p3ppp/p1np1n2/2p1p3/2B1P3/P1N2N2/1PPP1PPP/R1BQ1RK1 w kq - 0 7,ok then 2 can play at that game !! but seriously this'll allow me to force his bishop out of the way
+13,d3,d2d3,r1bqkb1r/1p3ppp/p1np1n2/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R1BQ1RK1 b kq - 0 7,to allow bishop room to manoeuvre?
+14,Rb8,a8b8,1rbqkb1r/1p3ppp/p1np1n2/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R1BQ1RK1 w k - 1 8,mmmm all this to protect b7 pawn when i advance it. Don't know whether it's worth it but want to start pushing up the board now.
+15,Bg5,c1g5,1rbqkb1r/1p3ppp/p1np1n2/2p1p1B1/2B1P3/P1NP1N2/1PP2PPP/R2Q1RK1 b k - 2 8,aah yes bishop out.. Will he really do knight for bishop ?? probably not i think just prevent me moving knight for a bit.. why ??
+16,Be7,f8e7,1rbqk2r/1p2bppp/p1np1n2/2p1p1B1/2B1P3/P1NP1N2/1PP2PPP/R2Q1RK1 w k - 3 9,don't like it so give added protection for queen
+17,Bxf6,g5f6,1rbqk2r/1p2bppp/p1np1B2/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R2Q1RK1 b k - 0 9,oh didn't think he'd do that really can't see what this achieves. can't move knight to g5 as he must know i'll take bishop with my bishop which protects g5 ?? am i missing something here ??
+18,Bxf6,e7f6,1rbqk2r/1p3ppp/p1np1b2/2p1p3/2B1P3/P1NP1N2/1PP2PPP/R2Q1RK1 w k - 0 10,got to do this need pawn for defense only move that makes sense... feel a little bit vulnerable here he's chosing my moves for me
+19,Bd5,c4d5,1rbqk2r/1p3ppp/p1np1b2/2pBp3/4P3/P1NP1N2/1PP2PPP/R2Q1RK1 b k - 1 10,stop b7 pawn advance ??
+20,Qb6,d8b6,1rb1k2r/1p3ppp/pqnp1b2/2pBp3/4P3/P1NP1N2/1PP2PPP/R2Q1RK1 w k - 2 11,thought about move to c7 here but just thought i'd test the water and see what happens if i attack pawn.....he must move rook or perhaps pawn but maybe he'll move his queen allowing me to attack his f3 knight with bishop !! yeah right !
+21,Rb1,a1b1,1rb1k2r/1p3ppp/pqnp1b2/2pBp3/4P3/P1NP1N2/1PP2PPP/1R1Q1RK1 b k - 3 11,as predicted foolish of me really...though you never know.  wasted move though.
+22,Qc7,b6c7,1rb1k2r/1pq2ppp/p1np1b2/2pBp3/4P3/P1NP1N2/1PP2PPP/1R1Q1RK1 w k - 4 12,back to original plan queen c7 gonna advance pawn
+23,h3,h2h3,1rb1k2r/1pq2ppp/p1np1b2/2pBp3/4P3/P1NP1N1P/1PP2PP1/1R1Q1RK1 b k - 0 12,well that stops a move to g4 with bishop
+24,Bxh3,c8h3,1r2k2r/1pq2ppp/p1np1b2/2pBp3/4P3/P1NP1N1b/1PP2PP1/1R1Q1RK1 w k - 0 13,gave this move a lot of thought as it puts me at quite a bit of a piece disadvantage but this will open his king up
+25,gxh3,g2h3,1r2k2r/1pq2ppp/p1np1b2/2pBp3/4P3/P1NP1N1P/1PP2P2/1R1Q1RK1 b k - 0 13,ok

@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,The starting position for all the games.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,The starting position for all the games.
+3,Bg2,f1g2,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2,The starting position for all the games.
+4,Bxg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/6b1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3,The starting position for all the games.
+5,c4,c2c4,rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 3,The starting position for all the games.
+6,c6,c7c6,rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4,The starting position for all the games.
+7,cxd5,c4d5,rn1qkbnr/pp2pppp/2p5/3P4/6b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 4,The starting position for all the games.
+8,cxd5,c6d5,rn1qkbnr/pp2pppp/8/3p4/6b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 5,The starting position for all the games.
+9,Qb3,d1b3,rn1qkbnr/pp2pppp/8/3p4/6b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 1 5,The starting position for all the games.
+10,Nf6,g8f6,rn1qkb1r/pp2pppp/5n2/3p4/6b1/1Q6/PP1PPPBP/RNB1K1NR w KQkq - 2 6,The starting position for all the games.
+11,Nc3,b1c3,rn1qkb1r/pp2pppp/5n2/3p4/6b1/1QN5/PP1PPPBP/R1B1K1NR b KQkq - 3 6,The starting position for all the games.
+12,e6,e7e6,rn1qkb1r/pp3ppp/4pn2/3p4/6b1/1QN5/PP1PPPBP/R1B1K1NR w KQkq - 0 7,The starting position for all the games.
+13,Qxb7,b3b7,rn1qkb1r/pQ3ppp/4pn2/3p4/6b1/2N5/PP1PPPBP/R1B1K1NR b KQkq - 0 7,The starting position for all the games.
+14,Nbd7,b8d7,r2qkb1r/pQ1n1ppp/4pn2/3p4/6b1/2N5/PP1PPPBP/R1B1K1NR w KQkq - 1 8,The starting position for all the games.
+15,Nb5,c3b5,r2qkb1r/pQ1n1ppp/4pn2/1N1p4/6b1/8/PP1PPPBP/R1B1K1NR b KQkq - 2 8,The starting position for all the games.
+16,Rc8,a8c8,2rqkb1r/pQ1n1ppp/4pn2/1N1p4/6b1/8/PP1PPPBP/R1B1K1NR w KQk - 3 9,The starting position for all the games.
+17,d4,d2d4,2rqkb1r/pQ1n1ppp/4pn2/1N1p4/3P2b1/8/PP2PPBP/R1B1K1NR b KQk - 0 9,White elects not to snap up the loose pawn on his QR7.
+18,Be7,f8e7,2rqk2r/pQ1nbppp/4pn2/1N1p4/3P2b1/8/PP2PPBP/R1B1K1NR w KQk - 1 10,Clearing a route for castling.
+19,f3,f2f3,2rqk2r/pQ1nbppp/4pn2/1N1p4/3P2b1/5P2/PP2P1BP/R1B1K1NR b KQk - 0 10,Ducking clear.
+20,Bh5,g4h5,2rqk2r/pQ1nbppp/4pn2/1N1p3b/3P4/5P2/PP2P1BP/R1B1K1NR w KQk - 1 11,Ducking clear.
+21,Qa6,b7a6,2rqk2r/p2nbppp/Q3pn2/1N1p3b/3P4/5P2/PP2P1BP/R1B1K1NR b KQk - 2 11,Placing my King into safety.
+22,O-O,e8g8,2rq1rk1/p2nbppp/Q3pn2/1N1p3b/3P4/5P2/PP2P1BP/R1B1K1NR w KQ - 3 12,Placing my King into safety.
+23,Nd6,b5d6,2rq1rk1/p2nbppp/Q2Npn2/3p3b/3P4/5P2/PP2P1BP/R1B1K1NR b KQ - 4 12,"If White wants to swap minor pieces, I'm agreeable."
+24,Bxd6,e7d6,2rq1rk1/p2n1ppp/Q2bpn2/3p3b/3P4/5P2/PP2P1BP/R1B1K1NR w KQ - 0 13,"If White wants to swap minor pieces, I'm agreeable."
+25,Qxd6,a6d6,2rq1rk1/p2n1ppp/3Qpn2/3p3b/3P4/5P2/PP2P1BP/R1B1K1NR b KQ - 0 13,I offer to exchange Queens as well.
+26,Nb6,d7b6,2rq1rk1/p4ppp/1n1Qpn2/3p3b/3P4/5P2/PP2P1BP/R1B1K1NR w KQ - 1 14,I offer to exchange Queens as well.
+27,Qg3,d6g3,2rq1rk1/p4ppp/1n2pn2/3p3b/3P4/5PQ1/PP2P1BP/R1B1K1NR b KQ - 2 14,Shielding the White Queen's attacking line.
+28,Bg6,h5g6,2rq1rk1/p4ppp/1n2pnb1/3p4/3P4/5PQ1/PP2P1BP/R1B1K1NR w KQ - 3 15,Shielding the White Queen's attacking line.
+29,f4,f3f4,2rq1rk1/p4ppp/1n2pnb1/3p4/3P1P2/6Q1/PP2P1BP/R1B1K1NR b KQ - 0 15,"Creating a retreat, if it proves needed."
+30,h6,h7h6,2rq1rk1/p4pp1/1n2pnbp/3p4/3P1P2/6Q1/PP2P1BP/R1B1K1NR w KQ - 0 16,"Creating a retreat, if it proves needed."
+31,Nh3,g1h3,2rq1rk1/p4pp1/1n2pnbp/3p4/3P1P2/6QN/PP2P1BP/R1B1K2R b KQ - 1 16,Placing my Knight on a strong outpost.
+32,Ne4,f6e4,2rq1rk1/p4pp1/1n2p1bp/3p4/3PnP2/6QN/PP2P1BP/R1B1K2R w KQ - 2 17,Placing my Knight on a strong outpost.
+33,Qa3,g3a3,2rq1rk1/p4pp1/1n2p1bp/3p4/3PnP2/Q6N/PP2P1BP/R1B1K2R b KQ - 3 17,Hastily guarding the attacked Pawn.
+34,Ra8,c8a8,r2q1rk1/p4pp1/1n2p1bp/3p4/3PnP2/Q6N/PP2P1BP/R1B1K2R w KQ - 4 18,Hastily guarding the attacked Pawn.
+35,Rg1,h1g1,r2q1rk1/p4pp1/1n2p1bp/3p4/3PnP2/Q6N/PP2P1BP/R1B1K1R1 b Q - 5 18,A useless move. 18 O-O or 18 B-K3 enabling 19 O-O-O were far better options. White has played well up to this point but now is the time to get the King out of the center.
+36,Nc4,b6c4,r2q1rk1/p4pp1/4p1bp/3p4/2nPnP2/Q6N/PP2P1BP/R1B1K1R1 w Q - 6 19,Placing my other Knight on a strong central outpost as well.
+37,Qb3,a3b3,r2q1rk1/p4pp1/4p1bp/3p4/2nPnP2/1Q5N/PP2P1BP/R1B1K1R1 b Q - 7 19,I exploit the fact that White failed to secure his King's safety by castling earlier.
+38,Qh4+,d8h4,r4rk1/p4pp1/4p1bp/3p4/2nPnP1q/1Q5N/PP2P1BP/R1B1K1R1 w Q - 8 20,I exploit the fact that White failed to secure his King's safety by castling earlier.
+39,Kd1,e1d1,r4rk1/p4pp1/4p1bp/3p4/2nPnP1q/1Q5N/PP2P1BP/R1BK2R1 b - - 9 20,Now I force the win of a oiece.
+40,Nf2+,e4f2,r4rk1/p4pp1/4p1bp/3p4/2nP1P1q/1Q5N/PP2PnBP/R1BK2R1 w - - 10 21,Now I force the win of a oiece.
+41,Nxf2,h3f2,r4rk1/p4pp1/4p1bp/3p4/2nP1P1q/1Q6/PP2PNBP/R1BK2R1 b - - 0 21,Either the Rook or Bishop must fall. 22 B-Q3 fails against ... NxB.
+42,Qxf2,h4f2,r4rk1/p4pp1/4p1bp/3p4/2nP1P2/1Q6/PP2PqBP/R1BK2R1 w - - 0 22,Either the Rook or Bishop must fall. 22 B-Q3 fails against ... NxB.
+43,Re1,g1e1,r4rk1/p4pp1/4p1bp/3p4/2nP1P2/1Q6/PP2PqBP/R1BKR3 b - - 1 22,I now have a technically easy win.
+44,Qxg2,f2g2,r4rk1/p4pp1/4p1bp/3p4/2nP1P2/1Q6/PP2P1qP/R1BKR3 w - - 0 23,I now have a technically easy win.
+45,e4,e2e4,r4rk1/p4pp1/4p1bp/3p4/2nPPP2/1Q6/PP4qP/R1BKR3 b - - 0 23,This blunder enables me to force mate.
+46,Bh5+,g6h5,r4rk1/p4pp1/4p2p/3p3b/2nPPP2/1Q6/PP4qP/R1BKR3 w - - 1 24,White's fate is sealed.
+47,Re2,e1e2,r4rk1/p4pp1/4p2p/3p3b/2nPPP2/1Q6/PP2R1qP/R1BK4 b - - 2 24,The end arrives.
+48,Qxe2#,g2e2,r4rk1/p4pp1/4p2p/3p3b/2nPPP2/1Q6/PP2q2P/R1BK4 w - - 0 25,The end arrives.

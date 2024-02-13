@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A great blitz game I played recently.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Preparing d4.
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,Preparing d4.
+4,a6,a7a6,rnbqkbnr/1p1ppppp/p7/2p5/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Preparing d4.
+5,Nf3,g1f3,rnbqkbnr/1p1ppppp/p7/2p5/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Preparing d4.
+6,h6,h7h6,rnbqkbnr/1p1pppp1/p6p/2p5/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,Preparing d4.
+7,c3,c2c3,rnbqkbnr/1p1pppp1/p6p/2p5/4PP2/2P2N2/PP1P2PP/RNBQKB1R b KQkq - 0 4,Preparing d4.
+8,d6,d7d6,rnbqkbnr/1p2ppp1/p2p3p/2p5/4PP2/2P2N2/PP1P2PP/RNBQKB1R w KQkq - 0 5,10 of the past 11 moves have been pawn moves.
+9,d4,d2d4,rnbqkbnr/1p2ppp1/p2p3p/2p5/3PPP2/2P2N2/PP4PP/RNBQKB1R b KQkq - 0 5,10 of the past 11 moves have been pawn moves.
+10,cxd4,c5d4,rnbqkbnr/1p2ppp1/p2p3p/8/3pPP2/2P2N2/PP4PP/RNBQKB1R w KQkq - 0 6,10 of the past 11 moves have been pawn moves.
+11,cxd4,c3d4,rnbqkbnr/1p2ppp1/p2p3p/8/3PPP2/5N2/PP4PP/RNBQKB1R b KQkq - 0 6,10 of the past 11 moves have been pawn moves.
+12,Bg4,c8g4,rn1qkbnr/1p2ppp1/p2p3p/8/3PPPb1/5N2/PP4PP/RNBQKB1R w KQkq - 1 7,(?) This move loses a pawn.
+13,Be2,f1e2,rn1qkbnr/1p2ppp1/p2p3p/8/3PPPb1/5N2/PP2B1PP/RNBQK2R b KQkq - 2 7,(?) This move loses a pawn.
+14,Bxf3,g4f3,rn1qkbnr/1p2ppp1/p2p3p/8/3PPP2/5b2/PP2B1PP/RNBQK2R w KQkq - 0 8,(?) This move loses a pawn.
+15,Bxf3,e2f3,rn1qkbnr/1p2ppp1/p2p3p/8/3PPP2/5B2/PP4PP/RNBQK2R b KQkq - 0 8,(?) This move loses a pawn.
+16,Qb6,d8b6,rn2kbnr/1p2ppp1/pq1p3p/8/3PPP2/5B2/PP4PP/RNBQK2R w KQkq - 1 9,(?) This move loses a pawn.
+17,O-O,e1g1,rn2kbnr/1p2ppp1/pq1p3p/8/3PPP2/5B2/PP4PP/RNBQ1RK1 b kq - 2 9,(?) This move loses a pawn.
+18,Nc6,b8c6,r3kbnr/1p2ppp1/pqnp3p/8/3PPP2/5B2/PP4PP/RNBQ1RK1 w kq - 3 10,"d5 can't be played because the pawn is pinned.
+Be3 loses the pawn on b2.
+Qa4 pins the knight, but the queen takes d4 instead.
+b3 will force a queen exchange if the queen takes d4.
+Kh1 doesn't stop the capture."
+19,Nc3,b1c3,r3kbnr/1p2ppp1/pqnp3p/8/3PPP2/2N2B2/PP4PP/R1BQ1RK1 b kq - 4 10,Instead I developed my knight.
+20,Nxd4,c6d4,r3kbnr/1p2ppp1/pq1p3p/8/3nPP2/2N2B2/PP4PP/R1BQ1RK1 w kq - 0 11,(?) Loses the pawn on b2
+21,Be3,c1e3,r3kbnr/1p2ppp1/pq1p3p/8/3nPP2/2N1BB2/PP4PP/R2Q1RK1 b kq - 1 11,(?) Loses the pawn on b2
+22,Nxf3+,d4f3,r3kbnr/1p2ppp1/pq1p3p/8/4PP2/2N1Bn2/PP4PP/R2Q1RK1 w kq - 0 12,gxf3 loses the bishop on e3
+23,Rxf3,f1f3,r3kbnr/1p2ppp1/pq1p3p/8/4PP2/2N1BR2/PP4PP/R2Q2K1 b kq - 0 12,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+24,Qxb2,b6b2,r3kbnr/1p2ppp1/p2p3p/8/4PP2/2N1BR2/Pq4PP/R2Q2K1 w kq - 0 13,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+25,Rc1,a1c1,r3kbnr/1p2ppp1/p2p3p/8/4PP2/2N1BR2/Pq4PP/2RQ2K1 b kq - 1 13,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+26,Rc8,a8c8,2r1kbnr/1p2ppp1/p2p3p/8/4PP2/2N1BR2/Pq4PP/2RQ2K1 w k - 2 14,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+27,Bd4,e3d4,2r1kbnr/1p2ppp1/p2p3p/8/3BPP2/2N2R2/Pq4PP/2RQ2K1 b k - 3 14,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+28,Qb4,b2b4,2r1kbnr/1p2ppp1/p2p3p/8/1q1BPP2/2N2R2/P5PP/2RQ2K1 w k - 4 15,The discovered attack (Bishop on d4) just traded the rooks and queens.I think that Qb4 was a waste of time.
+29,Nd5,c3d5,2r1kbnr/1p2ppp1/p2p3p/3N4/1q1BPP2/5R2/P5PP/2RQ2K1 b k - 5 15,(??) Loses the bishop. I didn't notice that the bishop would be taken on check.
+30,Rxc1,c8c1,4kbnr/1p2ppp1/p2p3p/3N4/1q1BPP2/5R2/P5PP/2rQ2K1 w k - 0 16,Attempting to trade queens. I would have brought out the knight instead.
+31,Qxc1,d1c1,4kbnr/1p2ppp1/p2p3p/3N4/1q1BPP2/5R2/P5PP/2Q3K1 b k - 0 16,Attempting to trade queens. I would have brought out the knight instead.
+32,Qxd4+,b4d4,4kbnr/1p2ppp1/p2p3p/3N4/3qPP2/5R2/P5PP/2Q3K1 w k - 0 17,Attempting to trade queens. I would have brought out the knight instead.
+33,Kh1,g1h1,4kbnr/1p2ppp1/p2p3p/3N4/3qPP2/5R2/P5PP/2Q4K b k - 1 17,Attempting to trade queens. I would have brought out the knight instead.
+34,Qc5,d4c5,4kbnr/1p2ppp1/p2p3p/2qN4/4PP2/5R2/P5PP/2Q4K w k - 2 18,Attempting to trade queens. I would have brought out the knight instead.
+35,Rc3,f3c3,4kbnr/1p2ppp1/p2p3p/2qN4/4PP2/2R5/P5PP/2Q4K b k - 3 18,"(??) Why he did that, I have no idea. I thought that he would play Qa5.(Doesn't Qa5 work?)"
+36,Qxc3,c5c3,4kbnr/1p2ppp1/p2p3p/3N4/4PP2/2q5/P5PP/2Q4K w k - 0 19,"(??) Why he did that, I have no idea. I thought that he would play Qa5.(Doesn't Qa5 work?)"
+37,Qxc3,c1c3,4kbnr/1p2ppp1/p2p3p/3N4/4PP2/2Q5/P5PP/7K b k - 0 19,"Mate in 2 that I didn't see:Qc7-->Ke6 Qc8#
+                                         -->Ke8 Qc8#"
+38,Kd7,e8d7,5bnr/1p1kppp1/p2p3p/3N4/4PP2/2Q5/P5PP/7K w - - 1 20,"Mate in 2 that I didn't see:Qc7-->Ke6 Qc8#
+                                         -->Ke8 Qc8#"
+39,f5,f4f5,5bnr/1p1kppp1/p2p3p/3N1P2/4P3/2Q5/P5PP/7K b - - 0 20,My way still works.
+40,e6,e7e6,5bnr/1p1k1pp1/p2pp2p/3N1P2/4P3/2Q5/P5PP/7K w - - 0 21,"Notice that the bishop, rook and knight never moved once."
+41,Qc7+,c3c7,5bnr/1pQk1pp1/p2pp2p/3N1P2/4P3/8/P5PP/7K b - - 1 21,"Notice that the bishop, rook and knight never moved once."
+42,Ke8,d7e8,4kbnr/1pQ2pp1/p2pp2p/3N1P2/4P3/8/P5PP/7K w - - 2 22,"Notice that the bishop, rook and knight never moved once."
+43,Qc8#,c7c8,2Q1kbnr/1p3pp1/p2pp2p/3N1P2/4P3/8/P5PP/7K b - - 3 22,"Notice that the bishop, rook and knight never moved once."

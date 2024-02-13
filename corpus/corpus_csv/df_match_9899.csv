@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Quick queen development
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Quick queen development
+3,Qf3,d1f3,rnbqkbnr/pp1ppppp/2p5/8/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Quick queen development
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 0 3,Blunder?
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 3,Blunder?
+6,e5,e7e5,rnbqkbnr/pp3ppp/2p5/3pp3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 0 4,Blunder?
+7,exd5,e4d5,rnbqkbnr/pp3ppp/2p5/3Pp3/8/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 0 4,Blunder?
+8,cxd5,c6d5,rnbqkbnr/pp3ppp/8/3pp3/8/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 0 5,Blunder?
+9,Nxd5,c3d5,rnbqkbnr/pp3ppp/8/3Np3/8/5Q2/PPPP1PPP/R1B1KBNR b KQkq - 0 5,Blunder?
+10,Be6,c8e6,rn1qkbnr/pp3ppp/4b3/3Np3/8/5Q2/PPPP1PPP/R1B1KBNR w KQkq - 1 6,Blunder?
+11,Bb5+,f1b5,rn1qkbnr/pp3ppp/4b3/1B1Np3/8/5Q2/PPPP1PPP/R1B1K1NR b KQkq - 2 6,Blunder?
+12,Nd7,b8d7,r2qkbnr/pp1n1ppp/4b3/1B1Np3/8/5Q2/PPPP1PPP/R1B1K1NR w KQkq - 3 7,Blunder?
+13,Nc3,d5c3,r2qkbnr/pp1n1ppp/4b3/1B2p3/8/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 4 7,Blunder?
+14,Ngf6,g8f6,r2qkb1r/pp1n1ppp/4bn2/1B2p3/8/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 5 8,Blunder?
+15,d3,d2d3,r2qkb1r/pp1n1ppp/4bn2/1B2p3/8/2NP1Q2/PPP2PPP/R1B1K1NR b KQkq - 0 8,Blunder?
+16,Bb4,f8b4,r2qk2r/pp1n1ppp/4bn2/1B2p3/1b6/2NP1Q2/PPP2PPP/R1B1K1NR w KQkq - 1 9,Blunder?
+17,Qg3,f3g3,r2qk2r/pp1n1ppp/4bn2/1B2p3/1b6/2NP2Q1/PPP2PPP/R1B1K1NR b KQkq - 2 9,Blunder?
+18,O-O,e8g8,r2q1rk1/pp1n1ppp/4bn2/1B2p3/1b6/2NP2Q1/PPP2PPP/R1B1K1NR w KQ - 3 10,Blunder?
+19,Bh6,c1h6,r2q1rk1/pp1n1ppp/4bn1B/1B2p3/1b6/2NP2Q1/PPP2PPP/R3K1NR b KQ - 4 10,Blunder?
+20,Ng4,f6g4,r2q1rk1/pp1n1ppp/4b2B/1B2p3/1b4n1/2NP2Q1/PPP2PPP/R3K1NR w KQ - 5 11,Blunder?
+21,h3,h2h3,r2q1rk1/pp1n1ppp/4b2B/1B2p3/1b4n1/2NP2QP/PPP2PP1/R3K1NR b KQ - 0 11,Blunder?
+22,Nxh6,g4h6,r2q1rk1/pp1n1ppp/4b2n/1B2p3/1b6/2NP2QP/PPP2PP1/R3K1NR w KQ - 0 12,bishop sacrifice wins the game
+23,O-O-O,e1c1,r2q1rk1/pp1n1ppp/4b2n/1B2p3/1b6/2NP2QP/PPP2PP1/2KR2NR b - - 1 12,bishop sacrifice wins the game
+24,Bxc3,b4c3,r2q1rk1/pp1n1ppp/4b2n/1B2p3/8/2bP2QP/PPP2PP1/2KR2NR w - - 0 13,bishop sacrifice wins the game
+25,bxc3,b2c3,r2q1rk1/pp1n1ppp/4b2n/1B2p3/8/2PP2QP/P1P2PP1/2KR2NR b - - 0 13,bishop sacrifice wins the game
+26,Nf5,h6f5,r2q1rk1/pp1n1ppp/4b3/1B2pn2/8/2PP2QP/P1P2PP1/2KR2NR w - - 1 14,bishop sacrifice wins the game
+27,Qf3,g3f3,r2q1rk1/pp1n1ppp/4b3/1B2pn2/8/2PP1Q1P/P1P2PP1/2KR2NR b - - 2 14,bishop sacrifice wins the game
+28,f6,f7f6,r2q1rk1/pp1n2pp/4bp2/1B2pn2/8/2PP1Q1P/P1P2PP1/2KR2NR w - - 0 15,bishop sacrifice wins the game
+29,g4,g2g4,r2q1rk1/pp1n2pp/4bp2/1B2pn2/6P1/2PP1Q1P/P1P2P2/2KR2NR b - - 0 15,bishop sacrifice wins the game
+30,Nd6,f5d6,r2q1rk1/pp1n2pp/3nbp2/1B2p3/6P1/2PP1Q1P/P1P2P2/2KR2NR w - - 1 16,bishop sacrifice wins the game
+31,a4,a2a4,r2q1rk1/pp1n2pp/3nbp2/1B2p3/P5P1/2PP1Q1P/2P2P2/2KR2NR b - - 0 16,bishop sacrifice wins the game
+32,a6,a7a6,r2q1rk1/1p1n2pp/p2nbp2/1B2p3/P5P1/2PP1Q1P/2P2P2/2KR2NR w - - 0 17,bishop sacrifice wins the game
+33,Bxd7,b5d7,r2q1rk1/1p1B2pp/p2nbp2/4p3/P5P1/2PP1Q1P/2P2P2/2KR2NR b - - 0 17,bishop sacrifice wins the game
+34,Qxd7,d8d7,r4rk1/1p1q2pp/p2nbp2/4p3/P5P1/2PP1Q1P/2P2P2/2KR2NR w - - 0 18,bishop sacrifice wins the game
+35,Qe3,f3e3,r4rk1/1p1q2pp/p2nbp2/4p3/P5P1/2PPQ2P/2P2P2/2KR2NR b - - 1 18,bishop sacrifice wins the game
+36,Bd5,e6d5,r4rk1/1p1q2pp/p2n1p2/3bp3/P5P1/2PPQ2P/2P2P2/2KR2NR w - - 2 19,bishop sacrifice wins the game
+37,Rh2,h1h2,r4rk1/1p1q2pp/p2n1p2/3bp3/P5P1/2PPQ2P/2P2P1R/2KR2N1 b - - 3 19,bishop sacrifice wins the game
+38,Qxa4,d7a4,r4rk1/1p4pp/p2n1p2/3bp3/q5P1/2PPQ2P/2P2P1R/2KR2N1 w - - 0 20,bishop sacrifice wins the game
+39,g5,g4g5,r4rk1/1p4pp/p2n1p2/3bp1P1/q7/2PPQ2P/2P2P1R/2KR2N1 b - - 0 20,bishop sacrifice wins the game
+40,Rac8,a8c8,2r2rk1/1p4pp/p2n1p2/3bp1P1/q7/2PPQ2P/2P2P1R/2KR2N1 w - - 1 21,bishop sacrifice wins the game
+41,c4,c3c4,2r2rk1/1p4pp/p2n1p2/3bp1P1/q1P5/3PQ2P/2P2P1R/2KR2N1 b - - 0 21,bishop sacrifice wins the game
+42,Bxc4,d5c4,2r2rk1/1p4pp/p2n1p2/4p1P1/q1b5/3PQ2P/2P2P1R/2KR2N1 w - - 0 22,queen is attacked. Could have continued with the lost of Q
+43,dxc4,d3c4,2r2rk1/1p4pp/p2n1p2/4p1P1/q1P5/4Q2P/2P2P1R/2KR2N1 b - - 0 22,queen is attacked. Could have continued with the lost of Q
+44,Nxc4,d6c4,2r2rk1/1p4pp/p4p2/4p1P1/q1n5/4Q2P/2P2P1R/2KR2N1 w - - 0 23,queen is attacked. Could have continued with the lost of Q
+45,Qe2,e3e2,2r2rk1/1p4pp/p4p2/4p1P1/q1n5/7P/2P1QP1R/2KR2N1 b - - 1 23,Checkmate balck wins
+46,Qa1#,a4a1,2r2rk1/1p4pp/p4p2/4p1P1/2n5/7P/2P1QP1R/q1KR2N1 w - - 2 24,Checkmate balck wins

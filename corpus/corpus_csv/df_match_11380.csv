@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,fairly standard type of opening - attacking my pawn and developing a piece.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,fairly standard type of opening - attacking my pawn and developing a piece.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,fairly standard type of opening - attacking my pawn and developing a piece.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I could have used the queen's pawn to defend but chose to develop my Knight instead.
+5,d3,d2d3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,securing white's King's pawn and opening a diagonal for the black square bishop
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,respond in kind
+7,h3,h2h3,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/3P1N1P/PPP2PP1/RNBQKB1R b KQkq - 0 4,"? questionable (slow) move.  It's only merit is it creates an escape square for the king should he castle on his side.  Too early to really need that though.
+Better to developthe queen's knight or one of his bishops."
+8,Nf6,g8f6,r1bqkb1r/ppp2ppp/2np1n2/4p3/4P3/3P1N1P/PPP2PP1/RNBQKB1R w KQkq - 1 5,I continue to develop my pieces.  This gives me better coverage of the centre of the board.
+9,Bd2,c1d2,r1bqkb1r/ppp2ppp/2np1n2/4p3/4P3/3P1N1P/PPPB1PP1/RN1QKB1R b KQkq - 2 5,still a very conservative developing move for his bishop - only one square.
+10,Be6,c8e6,r2qkb1r/ppp2ppp/2npbn2/4p3/4P3/3P1N1P/PPPB1PP1/RN1QKB1R w KQkq - 3 6,Taking advantage of white's hesitancy I push for more room - usually black does not have this luxury.
+11,Be2,f1e2,r2qkb1r/ppp2ppp/2npbn2/4p3/4P3/3P1N1P/PPPBBPP1/RN1QK2R b KQkq - 4 6,Another conservative developing move.
+12,d5,d6d5,r2qkb1r/ppp2ppp/2n1bn2/3pp3/4P3/3P1N1P/PPPBBPP1/RN1QK2R w KQkq - 0 7,I decide to press early to try and achieve dominance over the centre.
+13,Nc3,b1c3,r2qkb1r/ppp2ppp/2n1bn2/3pp3/4P3/2NP1N1P/PPPBBPP1/R2QK2R b KQkq - 1 7,At last the knight comes out.
+14,dxe4,d5e4,r2qkb1r/ppp2ppp/2n1bn2/4p3/4p3/2NP1N1P/PPPBBPP1/R2QK2R w KQkq - 0 8,I go for the pawn exchange.  Note that if white re-captures with his knight it will be unsupported by a pawn which makes it vulnerable.
+15,dxe4,d3e4,r2qkb1r/ppp2ppp/2n1bn2/4p3/4P3/2N2N1P/PPPBBPP1/R2QK2R b KQkq - 0 8,Pin that knight to a bishop (and potentially his king).
+16,Bb4,f8b4,r2qk2r/ppp2ppp/2n1bn2/4p3/1b2P3/2N2N1P/PPPBBPP1/R2QK2R w KQkq - 1 9,Pin that knight to a bishop (and potentially his king).
+17,Nd5,c3d5,r2qk2r/ppp2ppp/2n1bn2/3Np3/1b2P3/5N1P/PPPBBPP1/R2QK2R b KQkq - 2 9,"??? after being so timid white advances his knight agressively with only a pawn supporting it.
+It does unmask an attack by the bishop as well as attacking with his knight.  My bishop only has one defender so I must either retreat, exchange or protect it eg with a pawn."
+18,Bxd2+,b4d2,r2qk2r/ppp2ppp/2n1bn2/3Np3/4P3/5N1P/PPPbBPP1/R2QK2R w KQkq - 0 10,! I exchange.  Note that I have my eye on his lone pawn in the centre.  It is also his only support for his knight.  Moving a piece into danger unnecessarily is only wise if you believe you can force the play to your advantage.
+19,Qxd2,d1d2,r2qk2r/ppp2ppp/2n1bn2/3Np3/4P3/5N1P/PPPQBPP1/R3K2R b KQkq - 0 10,White completes the exchange but note his lone pawn is now vulnerable to my knight.  This wins a pawn and attacks his queen whilst his advanced knight is vulnerable.  One must go!
+20,Nxe4,f6e4,r2qk2r/ppp2ppp/2n1b3/3Np3/4n3/5N1P/PPPQBPP1/R3K2R w KQkq - 0 11,I go up by a pawn with more to come.
+21,Qe3,d2e3,r2qk2r/ppp2ppp/2n1b3/3Np3/4n3/4QN1P/PPP1BPP1/R3K2R b KQkq - 1 11,"He counter attacks with his queen, but my bishop can take his knight an then protect mine."
+22,Bxd5,e6d5,r2qk2r/ppp2ppp/2n5/3bp3/4n3/4QN1P/PPP1BPP1/R3K2R w KQkq - 0 12,Up by a pawn plus knight.  My aim now is to continue to pressurce white now that he is down.  Forcing exchanges until I can queen a pawn is my aim.
+23,Rd1,a1d1,r2qk2r/ppp2ppp/2n5/3bp3/4n3/4QN1P/PPP1BPP1/3RK2R b Kkq - 1 12,"White attacks the bishop with a more powerful piece.  As long as the bishop has some support (eg my queen) then it is ok (better would be to attack it with a pawn on c4).  White has, however, pinned my bishop to my queen.
+  Note that white's queen side pawns are left quite exposed now."

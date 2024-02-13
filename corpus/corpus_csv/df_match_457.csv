@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I knew d4 was a standard opening move. D6 is probably not the best response but I knew e5 was what I wanted to follow with.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I knew d4 was a standard opening move. D6 is probably not the best response but I knew e5 was what I wanted to follow with.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/3p4/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,C4 is what I think is the Queens Gambit opening. I followed with e5 which I knew could result in an early exchange of the Queens and remove my ability to castle.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,C4 is what I think is the Queens Gambit opening. I followed with e5 which I knew could result in an early exchange of the Queens and remove my ability to castle.
+5,d5,d4d5,rnbqkbnr/ppp2ppp/3p4/3Pp3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"D5 to control e6 and c6. This also restricts development of my N on b8. Bf5 to develop a piece, establish an early threat."
+6,Bf5,c8f5,rn1qkbnr/ppp2ppp/3p4/3Ppb2/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,"D5 to control e6 and c6. This also restricts development of my N on b8. Bf5 to develop a piece, establish an early threat."
+7,Nc3,b1c3,rn1qkbnr/ppp2ppp/3p4/3Ppb2/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 4,"Nc3 to develop and provide more control of the center. Nd7 to clear space on Q-side. Because of the cramped nature for my DSB, I wanted to maintain more tempo for the easier castle to obtain."
+8,Nd7,b8d7,r2qkbnr/pppn1ppp/3p4/3Ppb2/2P5/2N5/PP2PPPP/R1BQKBNR w KQkq - 3 5,"Nc3 to develop and provide more control of the center. Nd7 to clear space on Q-side. Because of the cramped nature for my DSB, I wanted to maintain more tempo for the easier castle to obtain."
+9,e4,e2e4,r2qkbnr/pppn1ppp/3p4/3Ppb2/2P1P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,E4 to threaten blacks LSB and also establish more center control. Bg6 is the only safe spot for my LSB. The downside of not playing 4...Nf6.
+10,Bg6,f5g6,r2qkbnr/pppn1ppp/3p2b1/3Pp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 6,E4 to threaten blacks LSB and also establish more center control. Bg6 is the only safe spot for my LSB. The downside of not playing 4...Nf6.
+11,Nf3,g1f3,r2qkbnr/pppn1ppp/3p2b1/3Pp3/2P1P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 2 6,White continues development. Nc5 to start threatening the E4 square and fight for center control.
+12,Nc5,d7c5,r2qkbnr/ppp2ppp/3p2b1/2nPp3/2P1P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 3 7,White continues development. Nc5 to start threatening the E4 square and fight for center control.
+13,Bd3,f1d3,r2qkbnr/ppp2ppp/3p2b1/2nPp3/2P1P3/2NB1N2/PP3PPP/R1BQK2R b KQkq - 4 7,White and black both move to protect/threaten the e5 square.
+14,Nf6,g8f6,r2qkb1r/ppp2ppp/3p1nb1/2nPp3/2P1P3/2NB1N2/PP3PPP/R1BQK2R w KQkq - 5 8,White and black both move to protect/threaten the e5 square.
+15,Bg5,c1g5,r2qkb1r/ppp2ppp/3p1nb1/2nPp1B1/2P1P3/2NB1N2/PP3PPP/R2QK2R b KQkq - 6 8,Bg5 to pin Nf6 to blacks queen. Erroding blacks threat on e5. Black response of Ph6 to start removing the threat.
+16,h6,h7h6,r2qkb1r/ppp2pp1/3p1nbp/2nPp1B1/2P1P3/2NB1N2/PP3PPP/R2QK2R w KQkq - 0 9,Bg5 to pin Nf6 to blacks queen. Erroding blacks threat on e5. Black response of Ph6 to start removing the threat.
+17,Bh4,g5h4,r2qkb1r/ppp2pp1/3p1nbp/2nPp3/2P1P2B/2NB1N2/PP3PPP/R2QK2R b KQkq - 1 9,White maintains pin. Black breaks pin.
+18,Be7,f8e7,r2qk2r/ppp1bpp1/3p1nbp/2nPp3/2P1P2B/2NB1N2/PP3PPP/R2QK2R w KQkq - 2 10,White maintains pin. Black breaks pin.
+19,a3,a2a3,r2qk2r/ppp1bpp1/3p1nbp/2nPp3/2P1P2B/P1NB1N2/1P3PPP/R2QK2R b KQkq - 0 10,I did not understand the purpose of a3 other than protect against future perches on b4. Black moves forward with starting an exchange.
+20,Ncxe4,c5e4,r2qk2r/ppp1bpp1/3p1nbp/3Pp3/2P1n2B/P1NB1N2/1P3PPP/R2QK2R w KQkq - 0 11,I did not understand the purpose of a3 other than protect against future perches on b4. Black moves forward with starting an exchange.
+21,Bxe4,d3e4,r2qk2r/ppp1bpp1/3p1nbp/3Pp3/2P1B2B/P1N2N2/1P3PPP/R2QK2R b KQkq - 0 11,Black finishes the exchange and is up a pawn with solid footing.
+22,Bxe4,g6e4,r2qk2r/ppp1bpp1/3p1n1p/3Pp3/2P1b2B/P1N2N2/1P3PPP/R2QK2R w KQkq - 0 12,Black finishes the exchange and is up a pawn with solid footing.
+23,Nxe4,c3e4,r2qk2r/ppp1bpp1/3p1n1p/3Pp3/2P1N2B/P4N2/1P3PPP/R2QK2R b KQkq - 0 12,Black finishes the exchange and is up a pawn with solid footing.
+24,Nxe4,f6e4,r2qk2r/ppp1bpp1/3p3p/3Pp3/2P1n2B/P4N2/1P3PPP/R2QK2R w KQkq - 0 13,Black finishes the exchange and is up a pawn with solid footing.
+25,Qc2,d1c2,r2qk2r/ppp1bpp1/3p3p/3Pp3/2P1n2B/P4N2/1PQ2PPP/R3K2R b KQkq - 1 13,White threatens the unprotected black N. Black refuses to relinquish his footing on e4.
+26,f5,f7f5,r2qk2r/ppp1b1p1/3p3p/3Ppp2/2P1n2B/P4N2/1PQ2PPP/R3K2R w KQkq - 0 14,White threatens the unprotected black N. Black refuses to relinquish his footing on e4.
+27,b4,b2b4,r2qk2r/ppp1b1p1/3p3p/3Ppp2/1PP1n2B/P4N2/2Q2PPP/R3K2R b KQkq - 0 14,White pushes Queen side pawns. I don't see the merits of that move at this juncture. Black attempts to exchange bishops.
+28,Bxh4,e7h4,r2qk2r/ppp3p1/3p3p/3Ppp2/1PP1n2b/P4N2/2Q2PPP/R3K2R w KQkq - 0 15,White pushes Queen side pawns. I don't see the merits of that move at this juncture. Black attempts to exchange bishops.
+29,g3,g2g3,r2qk2r/ppp3p1/3p3p/3Ppp2/1PP1n2b/P4NP1/2Q2P1P/R3K2R b KQkq - 0 15,White does not exchange. A clear error in judgement I think. Black moves his DSB back to safety
+30,Bf6,h4f6,r2qk2r/ppp3p1/3p1b1p/3Ppp2/1PP1n3/P4NP1/2Q2P1P/R3K2R w KQkq - 1 16,White does not exchange. A clear error in judgement I think. Black moves his DSB back to safety
+31,h4,h2h4,r2qk2r/ppp3p1/3p1b1p/3Ppp2/1PP1n2P/P4NP1/2Q2P2/R3K2R b KQkq - 0 16,White further prevents g5 positioning by black. Maybe an attempt to relocate his N. Nf3 may have been a little hope chess. I was unsure of the best move. I started a bad exchange to force white to make a tactical decision.
+32,Nxf2,e4f2,r2qk2r/ppp3p1/3p1b1p/3Ppp2/1PP4P/P4NP1/2Q2n2/R3K2R w KQkq - 0 17,White further prevents g5 positioning by black. Maybe an attempt to relocate his N. Nf3 may have been a little hope chess. I was unsure of the best move. I started a bad exchange to force white to make a tactical decision.
+33,Kxf2,e1f2,r2qk2r/ppp3p1/3p1b1p/3Ppp2/1PP4P/P4NP1/2Q2K2/R6R b kq - 0 17,White Kxf2 was not the best move and denies white a castle later. Black pushes to e4 and threatens f3.
+34,e4,e5e4,r2qk2r/ppp3p1/3p1b1p/3P1p2/1PP1p2P/P4NP1/2Q2K2/R6R w kq - 0 18,White Kxf2 was not the best move and denies white a castle later. Black pushes to e4 and threatens f3.
+35,Rae1,a1e1,r2qk2r/ppp3p1/3p1b1p/3P1p2/1PP1p2P/P4NP1/2Q2K2/4R2R b kq - 1 18,White pins pawn. Black breaks pin.
+36,Qe7,d8e7,r3k2r/ppp1q1p1/3p1b1p/3P1p2/1PP1p2P/P4NP1/2Q2K2/4R2R w kq - 2 19,White pins pawn. Black breaks pin.
+37,h5,h4h5,r3k2r/ppp1q1p1/3p1b1p/3P1p1P/1PP1p3/P4NP1/2Q2K2/4R2R b kq - 0 19,For lack of certainty black castles. Activates a rook and opens up room for both rooks to move.
+38,O-O,e8g8,r4rk1/ppp1q1p1/3p1b1p/3P1p1P/1PP1p3/P4NP1/2Q2K2/4R2R w - - 1 20,For lack of certainty black castles. Activates a rook and opens up room for both rooks to move.
+39,Re2,e1e2,r4rk1/ppp1q1p1/3p1b1p/3P1p1P/1PP1p3/P4NP1/2Q1RK2/7R b - - 2 20,Black threatens rook on e3. Offers exchange.
+40,Rfe8,f8e8,r3r1k1/ppp1q1p1/3p1b1p/3P1p1P/1PP1p3/P4NP1/2Q1RK2/7R w - - 3 21,Black threatens rook on e3. Offers exchange.
+41,Re3,e2e3,r3r1k1/ppp1q1p1/3p1b1p/3P1p1P/1PP1p3/P3RNP1/2Q2K2/7R b - - 4 21,Black threatens rook on e3. Offers exchange.
+42,c6,c7c6,r3r1k1/pp2q1p1/2pp1b1p/3P1p1P/1PP1p3/P3RNP1/2Q2K2/7R w - - 0 22,Black threatens rook on e3. Offers exchange.
+43,Qd2,c2d2,r3r1k1/pp2q1p1/2pp1b1p/3P1p1P/1PP1p3/P3RNP1/3Q1K2/7R b - - 1 22,Black threatens rook on e3. Offers exchange.
+44,b6,b7b6,r3r1k1/p3q1p1/1ppp1b1p/3P1p1P/1PP1p3/P3RNP1/3Q1K2/7R w - - 0 23,Black threatens rook on e3. Offers exchange.
+45,b5,b4b5,r3r1k1/p3q1p1/1ppp1b1p/1P1P1p1P/2P1p3/P3RNP1/3Q1K2/7R b - - 0 23,Black threatens rook on e3. Offers exchange.
+46,Bg5,f6g5,r3r1k1/p3q1p1/1ppp3p/1P1P1pbP/2P1p3/P3RNP1/3Q1K2/7R w - - 1 24,Black threatens rook on e3. Offers exchange.
+47,Nxg5,f3g5,r3r1k1/p3q1p1/1ppp3p/1P1P1pNP/2P1p3/P3R1P1/3Q1K2/7R b - - 0 24,Black establishes a fork on white. Very precarious position for white in my opinion.
+48,Qxg5,e7g5,r3r1k1/p5p1/1ppp3p/1P1P1pqP/2P1p3/P3R1P1/3Q1K2/7R w - - 0 25,Black establishes a fork on white. Very precarious position for white in my opinion.
+49,dxc6,d5c6,r3r1k1/p5p1/1pPp3p/1P3pqP/2P1p3/P3R1P1/3Q1K2/7R b - - 0 25,Black establishes a fork on white. Very precarious position for white in my opinion.
+50,f4,f5f4,r3r1k1/p5p1/1pPp3p/1P4qP/2P1pp2/P3R1P1/3Q1K2/7R w - - 0 26,Black establishes a fork on white. Very precarious position for white in my opinion.

@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,no es mi apertura normal
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Evita la clavada
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,Evita la clavada
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,Evita la clavada
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3,Evita la clavada
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 4 4,Evita la clavada
+7,h3,h2h3,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2N2N1P/PPP1PPP1/R1BQKB1R b KQkq - 0 4,Evita la clavada
+8,Bf5,c8f5,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P4/2N2N1P/PPP1PPP1/R1BQKB1R w KQkq - 1 5,si salgo de dama me gusta enrrocarme largo
+9,e3,e2e3,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P4/2N1PN1P/PPP2PP1/R1BQKB1R b KQkq - 0 5,si salgo de dama me gusta enrrocarme largo
+10,Qd7,d8d7,r3kb1r/pppqpppp/2n2n2/3p1b2/3P4/2N1PN1P/PPP2PP1/R1BQKB1R w KQkq - 1 6,si salgo de dama me gusta enrrocarme largo
+11,Bd3,f1d3,r3kb1r/pppqpppp/2n2n2/3p1b2/3P4/2NBPN1P/PPP2PP1/R1BQK2R b KQkq - 2 6,empieza el ataque real
+12,O-O-O,e8c8,2kr1b1r/pppqpppp/2n2n2/3p1b2/3P4/2NBPN1P/PPP2PP1/R1BQK2R w KQ - 3 7,empieza el ataque real
+13,Bxf5,d3f5,2kr1b1r/pppqpppp/2n2n2/3p1B2/3P4/2N1PN1P/PPP2PP1/R1BQK2R b KQ - 0 7,empieza el ataque real
+14,Qxf5,d7f5,2kr1b1r/ppp1pppp/2n2n2/3p1q2/3P4/2N1PN1P/PPP2PP1/R1BQK2R w KQ - 0 8,empieza el ataque real
+15,O-O,e1g1,2kr1b1r/ppp1pppp/2n2n2/3p1q2/3P4/2N1PN1P/PPP2PP1/R1BQ1RK1 b - - 1 8,empieza el ataque real
+16,h5,h7h5,2kr1b1r/ppp1ppp1/2n2n2/3p1q1p/3P4/2N1PN1P/PPP2PP1/R1BQ1RK1 w - - 0 9,empieza el ataque real
+17,Qd3,d1d3,2kr1b1r/ppp1ppp1/2n2n2/3p1q1p/3P4/2NQPN1P/PPP2PP1/R1B2RK1 b - - 1 9,intenta cambiar damas para qu el ataque sea menor pero no será suficiente
+18,Qxd3,f5d3,2kr1b1r/ppp1ppp1/2n2n2/3p3p/3P4/2NqPN1P/PPP2PP1/R1B2RK1 w - - 0 10,amenaza peon pero da igual
+19,cxd3,c2d3,2kr1b1r/ppp1ppp1/2n2n2/3p3p/3P4/2NPPN1P/PP3PP1/R1B2RK1 b - - 0 10,amenaza peon pero da igual
+20,Rg8,h8g8,2kr1br1/ppp1ppp1/2n2n2/3p3p/3P4/2NPPN1P/PP3PP1/R1B2RK1 w - - 1 11,amenaza peon pero da igual
+21,Ng5,f3g5,2kr1br1/ppp1ppp1/2n2n2/3p2Np/3P4/2NPP2P/PP3PP1/R1B2RK1 b - - 2 11,amenaza peon pero da igual
+22,Rd7,d8d7,2k2br1/ppprppp1/2n2n2/3p2Np/3P4/2NPP2P/PP3PP1/R1B2RK1 w - - 3 12,cambio que deja mal sus peones
+23,Nxf7,g5f7,2k2br1/ppprpNp1/2n2n2/3p3p/3P4/2NPP2P/PP3PP1/R1B2RK1 b - - 0 12,cambio que deja mal sus peones
+24,e6,e7e6,2k2br1/pppr1Np1/2n1pn2/3p3p/3P4/2NPP2P/PP3PP1/R1B2RK1 w - - 0 13,cambio que deja mal sus peones
+25,Ne5,f7e5,2k2br1/pppr2p1/2n1pn2/3pN2p/3P4/2NPP2P/PP3PP1/R1B2RK1 b - - 1 13,cambio que deja mal sus peones
+26,Nxe5,c6e5,2k2br1/pppr2p1/4pn2/3pn2p/3P4/2NPP2P/PP3PP1/R1B2RK1 w - - 0 14,cambio que deja mal sus peones
+27,dxe5,d4e5,2k2br1/pppr2p1/4pn2/3pP2p/8/2NPP2P/PP3PP1/R1B2RK1 b - - 0 14,ataque para abrir columna h
+28,Ne8,f6e8,2k1nbr1/pppr2p1/4p3/3pP2p/8/2NPP2P/PP3PP1/R1B2RK1 w - - 1 15,ataque para abrir columna h
+29,d4,d3d4,2k1nbr1/pppr2p1/4p3/3pP2p/3P4/2N1P2P/PP3PP1/R1B2RK1 b - - 0 15,ataque para abrir columna h
+30,g5,g7g5,2k1nbr1/pppr4/4p3/3pP1pp/3P4/2N1P2P/PP3PP1/R1B2RK1 w - - 0 16,ataque para abrir columna h
+31,Ne2,c3e2,2k1nbr1/pppr4/4p3/3pP1pp/3P4/4P2P/PP2NPP1/R1B2RK1 b - - 1 16,el caballo intenta llegar pero es demasiado tarde
+32,g4,g5g4,2k1nbr1/pppr4/4p3/3pP2p/3P2p1/4P2P/PP2NPP1/R1B2RK1 w - - 0 17,hxg4?
+33,hxg4,h3g4,2k1nbr1/pppr4/4p3/3pP2p/3P2P1/4P3/PP2NPP1/R1B2RK1 b - - 0 17,hxg4?
+34,hxg4,h5g4,2k1nbr1/pppr4/4p3/3pP3/3P2p1/4P3/PP2NPP1/R1B2RK1 w - - 0 18,otro sacrificio de peon para ganar tiempo
+35,Nf4,e2f4,2k1nbr1/pppr4/4p3/3pP3/3P1Np1/4P3/PP3PP1/R1B2RK1 b - - 1 18,otro sacrificio de peon para ganar tiempo
+36,Rh8,g8h8,2k1nb1r/pppr4/4p3/3pP3/3P1Np1/4P3/PP3PP1/R1B2RK1 w - - 2 19,otro sacrificio de peon para ganar tiempo
+37,Nxe6,f4e6,2k1nb1r/pppr4/4N3/3pP3/3P2p1/4P3/PP3PP1/R1B2RK1 b - - 0 19,otro sacrificio de peon para ganar tiempo
+38,Rdh7,d7h7,2k1nb1r/ppp4r/4N3/3pP3/3P2p1/4P3/PP3PP1/R1B2RK1 w - - 1 20,unica para alargar el mate
+39,f4,f2f4,2k1nb1r/ppp4r/4N3/3pP3/3P1Pp1/4P3/PP4P1/R1B2RK1 b - f3 0 20,unica para alargar el mate
+40,g3,g4g3,2k1nb1r/ppp4r/4N3/3pP3/3P1P2/4P1p1/PP4P1/R1B2RK1 w - - 0 21,
+41,Ng5,e6g5,2k1nb1r/ppp4r/8/3pP1N1/3P1P2/4P1p1/PP4P1/R1B2RK1 b - - 1 21,
+42,Rh7h1#,h7h1,2k1nb1r/ppp5/8/3pP1N1/3P1P2/4P1p1/PP4P1/R1B2RKr w - - 2 22,

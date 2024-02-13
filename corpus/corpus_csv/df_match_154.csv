@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My opponent start with the standard Queens pawn opening.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Among so many popular response i picked Ng6. I was not a regular player of this opening though
+3,e3,e2e3,rnbqkb1r/pppppppp/5n2/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,He advances e3 pawn that clears his LSB path and add a good defender to d4. (what's the name of this variation??)
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,I continued with my plan and Bg7 in next move for castling and sending my king to safe zone.
+5,Nf3,g1f3,rnbqkb1r/pppppp1p/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 1 3,He also continue with the castling in mind i think.
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 2 4,According to plan
+7,Nc3,b1c3,rnbqk2r/ppppppbp/5np1/8/3P4/2N1PN2/PPP2PPP/R1BQKB1R b KQkq - 3 4,"Nc3 prevent my f6 knight to come at e4 as i was planned. So, i hold castling and decided to add a defender for e4 square with pawn advancement to d5 which may passivate my Bishop at g7. Please suggest the best possible move at this point"
+8,d5,d7d5,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/2N1PN2/PPP2PPP/R1BQKB1R w KQkq - 0 5,I ignored blockage of my bishop movement at g7.
+9,h3,h2h3,rnbqk2r/ppp1ppbp/5np1/3p4/3P4/2N1PN1P/PPP2PP1/R1BQKB1R b KQkq - 0 5,The standard move to prevent my LSB to pin his knight at f3. It seems me a over protective move though
+10,Nc6,b8c6,r1bqk2r/ppp1ppbp/2n2np1/3p4/3P4/2N1PN1P/PPP2PP1/R1BQKB1R w KQkq - 1 6,This move is for supporting my next move of LSB at f5 and targeted his c2 pawn if there is any weakness he offers.
+11,a3,a2a3,r1bqk2r/ppp1ppbp/2n2np1/3p4/3P4/P1N1PN1P/1PP2PP1/R1BQKB1R b KQkq - 0 6,But he guessed my plan and prevent any advancement of Nc3 to b4 for targeting c2 pawn.
+12,O-O,e8g8,r1bq1rk1/ppp1ppbp/2n2np1/3p4/3P4/P1N1PN1P/1PP2PP1/R1BQKB1R w KQ - 1 7,So i stick to my plan and castle. Please suggest the timing of castling is right or not ?? as  opponent may have chance of pawn storm towards king side and exploit it to lead a winging situation.
+13,Bd3,f1d3,r1bq1rk1/ppp1ppbp/2n2np1/3p4/3P4/P1NBPN1P/1PP2PP1/R1BQK2R b KQ - 2 7,He finally develop his LSB to best available square d3 and further stop my plan of Ne5. So far he has no weakness to attack
+14,h6,h7h6,r1bq1rk1/ppp1ppb1/2n2npp/3p4/3P4/P1NBPN1P/1PP2PP1/R1BQK2R w KQ - 0 8,this move is for vacating h7 square for f6 Knight so that i activate my Bishop at g7 to some extent atleast.
+15,g4,g2g4,r1bq1rk1/ppp1ppb1/2n2npp/3p4/3P2P1/P1NBPN1P/1PP2P2/R1BQK2R b KQ - 0 8,"I was most afraid (psychologically) of king side pawn storm as i loose many game by this. He sacrifice his king safety at the cost of a strong pawn advancement as it seems. Post game computer analysis at chess-dotcom suggest this is a inaccuracy though, with a slight advantage of  0.65 in favor of black. Dear reader please share your view"
+16,Nh7,f6h7,r1bq1rk1/ppp1ppbn/2n3pp/3p4/3P2P1/P1NBPN1P/1PP2P2/R1BQK2R w KQ - 1 9,I was with my plan and also this seems me a reasonable move in this type of attack to king side
+17,Nh2,f3h2,r1bq1rk1/ppp1ppbn/2n3pp/3p4/3P2P1/P1NBP2P/1PP2P1N/R1BQK2R b KQ - 2 9,and his most awkward move for me. I think he tried to clear the path for f - pawn for a strong attack to my king side.
+18,e5,e7e5,r1bq1rk1/ppp2pbn/2n3pp/3pp3/3P2P1/P1NBP2P/1PP2P1N/R1BQK2R w KQ - 0 10,So i think this is best response of Nh2. Also open queen path through diagonal upto h4
+19,dxe5,d4e5,r1bq1rk1/ppp2pbn/2n3pp/3pP3/6P1/P1NBP2P/1PP2P1N/R1BQK2R b KQ - 0 10,As expected he accept pawn exchange.
+20,Bxe5,g7e5,r1bq1rk1/ppp2p1n/2n3pp/3pb3/6P1/P1NBP2P/1PP2P1N/R1BQK2R w KQ - 0 11,I take back pawn with Bishop keeping in mind to take his knight at h2. Although Chess-dotcom computer analysis prefer to take with knight and give a big advantage of 1.56 in favor of black.

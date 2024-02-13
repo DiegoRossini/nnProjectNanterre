@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,The starting position.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,The starting position.
+3,Bg2,f1g2,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2,The starting position.
+4,Bxg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/6b1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3,The starting position.
+5,c4,c2c4,rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 3,The starting position.
+6,c6,c7c6,rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4,The starting position.
+7,cxd5,c4d5,rn1qkbnr/pp2pppp/2p5/3P4/6b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 4,The starting position.
+8,cxd5,c6d5,rn1qkbnr/pp2pppp/8/3p4/6b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 5,The starting position.
+9,Qb3,d1b3,rn1qkbnr/pp2pppp/8/3p4/6b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 1 5,The starting position.
+10,Nf6,g8f6,rn1qkb1r/pp2pppp/5n2/3p4/6b1/1Q6/PP1PPPBP/RNB1K1NR w KQkq - 2 6,The starting position.
+11,Nc3,b1c3,rn1qkb1r/pp2pppp/5n2/3p4/6b1/1QN5/PP1PPPBP/R1B1K1NR b KQkq - 3 6,The starting position.
+12,e6,e7e6,rn1qkb1r/pp3ppp/4pn2/3p4/6b1/1QN5/PP1PPPBP/R1B1K1NR w KQkq - 0 7,The starting position.
+13,Qxb7,b3b7,rn1qkb1r/pQ3ppp/4pn2/3p4/6b1/2N5/PP1PPPBP/R1B1K1NR b KQkq - 0 7,The starting position.
+14,Nbd7,b8d7,r2qkb1r/pQ1n1ppp/4pn2/3p4/6b1/2N5/PP1PPPBP/R1B1K1NR w KQkq - 1 8,The starting position.
+15,Nb5,c3b5,r2qkb1r/pQ1n1ppp/4pn2/1N1p4/6b1/8/PP1PPPBP/R1B1K1NR b KQkq - 2 8,The starting position.
+16,Rc8,a8c8,2rqkb1r/pQ1n1ppp/4pn2/1N1p4/6b1/8/PP1PPPBP/R1B1K1NR w KQk - 3 9,The starting position.
+17,Qxa7,b7a7,2rqkb1r/Q2n1ppp/4pn2/1N1p4/6b1/8/PP1PPPBP/R1B1K1NR b KQk - 0 9,"I take the Pawn. If an end game is reached, the two connected passed pawns on the Q side may prove to be a boon."
+18,Bc5,f8c5,2rqk2r/Q2n1ppp/4pn2/1Nbp4/6b1/8/PP1PPPBP/R1B1K1NR w KQk - 1 10,I get my Queen out of harm's way.
+19,Qa4,a7a4,2rqk2r/3n1ppp/4pn2/1Nbp4/Q5b1/8/PP1PPPBP/R1B1K1NR b KQk - 2 10,I get my Queen out of harm's way.
+20,Nb6,d7b6,2rqk2r/5ppp/1n2pn2/1Nbp4/Q5b1/8/PP1PPPBP/R1B1K1NR w KQk - 3 11,I get my Queen out of harm's way.
+21,Qb3,a4b3,2rqk2r/5ppp/1n2pn2/1Nbp4/6b1/1Q6/PP1PPPBP/R1B1K1NR b KQk - 4 11,I get my Queen out of harm's way.
+22,O-O,e8g8,2rq1rk1/5ppp/1n2pn2/1Nbp4/6b1/1Q6/PP1PPPBP/R1B1K1NR w KQ - 5 12,I offer an exchange.
+23,Bf3,g2f3,2rq1rk1/5ppp/1n2pn2/1Nbp4/6b1/1Q3B2/PP1PPP1P/R1B1K1NR b KQ - 6 12,I offer an exchange.
+24,Bxf3,g4f3,2rq1rk1/5ppp/1n2pn2/1Nbp4/8/1Q3b2/PP1PPP1P/R1B1K1NR w KQ - 0 13,Now my Knight is on its natural square.
+25,Nxf3,g1f3,2rq1rk1/5ppp/1n2pn2/1Nbp4/8/1Q3N2/PP1PPP1P/R1B1K2R b KQ - 0 13,Now my Knight is on its natural square.
+26,Ne4,f6e4,2rq1rk1/5ppp/1n2p3/1Nbp4/4n3/1Q3N2/PP1PPP1P/R1B1K2R w KQ - 1 14,I force back the Black B.
+27,d4,d2d4,2rq1rk1/5ppp/1n2p3/1Nbp4/3Pn3/1Q3N2/PP2PP1P/R1B1K2R b KQ - 0 14,I force back the Black B.
+28,Be7,c5e7,2rq1rk1/4bppp/1n2p3/1N1p4/3Pn3/1Q3N2/PP2PP1P/R1B1K2R w KQ - 1 15,My King is probably safer here than on the half-open KN file.
+29,h4,h2h4,2rq1rk1/4bppp/1n2p3/1N1p4/3Pn2P/1Q3N2/PP2PP2/R1B1K2R b KQ - 0 15,My King is probably safer here than on the half-open KN file.
+30,Bb4+,e7b4,2rq1rk1/5ppp/1n2p3/1N1p4/1b1Pn2P/1Q3N2/PP2PP2/R1B1K2R w KQ - 1 16,My King is probably safer here than on the half-open KN file.
+31,Kf1,e1f1,2rq1rk1/5ppp/1n2p3/1N1p4/1b1Pn2P/1Q3N2/PP2PP2/R1B2K1R b - - 2 16,My King is probably safer here than on the half-open KN file.
+32,Rc4,c8c4,3q1rk1/5ppp/1n2p3/1N1p4/1brPn2P/1Q3N2/PP2PP2/R1B2K1R w - - 3 17,The position is getting complex.
+33,Be3,c1e3,3q1rk1/5ppp/1n2p3/1N1p4/1brPn2P/1Q2BN2/PP2PP2/R4K1R b - - 4 17,The position is getting complex.
+34,Qd7,d8d7,5rk1/3q1ppp/1n2p3/1N1p4/1brPn2P/1Q2BN2/PP2PP2/R4K1R w - - 5 18,The position is getting complex.
+35,Na3,b5a3,5rk1/3q1ppp/1n2p3/3p4/1brPn2P/NQ2BN2/PP2PP2/R4K1R b - - 6 18,The position is getting complex.
+36,Bxa3,b4a3,5rk1/3q1ppp/1n2p3/3p4/2rPn2P/bQ2BN2/PP2PP2/R4K1R w - - 0 19,A pair of minors fall.
+37,Qxa3,b3a3,5rk1/3q1ppp/1n2p3/3p4/2rPn2P/Q3BN2/PP2PP2/R4K1R b - - 0 19,A pair of minors fall.
+38,Ra8,f8a8,r5k1/3q1ppp/1n2p3/3p4/2rPn2P/Q3BN2/PP2PP2/R4K1R w - - 1 20,I duck clear and attack the Knight.
+39,Qb3,a3b3,r5k1/3q1ppp/1n2p3/3p4/2rPn2P/1Q2BN2/PP2PP2/R4K1R b - - 2 20,I duck clear and attack the Knight.
+40,Qd6,d7d6,r5k1/5ppp/1n1qp3/3p4/2rPn2P/1Q2BN2/PP2PP2/R4K1R w - - 3 21,This is why I didn't mind not castling. Now my Rook has a clear field of  fire at Black's King.
+41,Rg1,h1g1,r5k1/5ppp/1n1qp3/3p4/2rPn2P/1Q2BN2/PP2PP2/R4KR1 b - - 4 21,This is why I didn't mind not castling. Now my Rook has a clear field of  fire at Black's King.
+42,Rb8,a8b8,1r4k1/5ppp/1n1qp3/3p4/2rPn2P/1Q2BN2/PP2PP2/R4KR1 w - - 5 22,I don't want to be exposed to a discovered attack.
+43,Qd3,b3d3,1r4k1/5ppp/1n1qp3/3p4/2rPn2P/3QBN2/PP2PP2/R4KR1 b - - 6 22,I don't want to be exposed to a discovered attack.
+44,Qb4,d6b4,1r4k1/5ppp/1n2p3/3p4/1qrPn2P/3QBN2/PP2PP2/R4KR1 w - - 7 23,I try do drive back the Rook.
+45,b3,b2b3,1r4k1/5ppp/1n2p3/3p4/1qrPn2P/1P1QBN2/P3PP2/R4KR1 b - - 0 23,I try do drive back the Rook.
+46,Qc3,b4c3,1r4k1/5ppp/1n2p3/3p4/2rPn2P/1PqQBN2/P3PP2/R4KR1 w - - 1 24,I'll gladly exchange Queens.
+47,Qxc3,d3c3,1r4k1/5ppp/1n2p3/3p4/2rPn2P/1PQ1BN2/P3PP2/R4KR1 b - - 0 24,I'll gladly exchange Queens.
+48,Rxc3,c4c3,1r4k1/5ppp/1n2p3/3p4/3Pn2P/1Pr1BN2/P3PP2/R4KR1 w - - 0 25,I oppose Rooks.
+49,Rc1,a1c1,1r4k1/5ppp/1n2p3/3p4/3Pn2P/1Pr1BN2/P3PP2/2R2KR1 b - - 1 25,I oppose Rooks.
+50,Rbc8,b8c8,2r3k1/5ppp/1n2p3/3p4/3Pn2P/1Pr1BN2/P3PP2/2R2KR1 w - - 2 26,Clearing the back rank.
+51,Kg2,f1g2,2r3k1/5ppp/1n2p3/3p4/3Pn2P/1Pr1BN2/P3PPK1/2R3R1 b - - 3 26,Clearing the back rank.
+52,h5,h7h5,2r3k1/5pp1/1n2p3/3p3p/3Pn2P/1Pr1BN2/P3PPK1/2R3R1 w - - 0 27,Attempting to remove Black's well-posted Knight.
+53,Ng5,f3g5,2r3k1/5pp1/1n2p3/3p2Np/3Pn2P/1Pr1B3/P3PPK1/2R3R1 b - - 1 27,Attempting to remove Black's well-posted Knight.
+54,Nf6,e4f6,2r3k1/5pp1/1n2pn2/3p2Np/3P3P/1Pr1B3/P3PPK1/2R3R1 w - - 2 28,All exchanges are welcome.
+55,Rxc3,c1c3,2r3k1/5pp1/1n2pn2/3p2Np/3P3P/1PR1B3/P3PPK1/6R1 b - - 0 28,All exchanges are welcome.
+56,Rxc3,c8c3,6k1/5pp1/1n2pn2/3p2Np/3P3P/1Pr1B3/P3PPK1/6R1 w - - 0 29,Now the Rooks come off the board.
+57,Rc1,g1c1,6k1/5pp1/1n2pn2/3p2Np/3P3P/1Pr1B3/P3PPK1/2R5 b - - 1 29,Now the Rooks come off the board.
+58,Rxc1,c3c1,6k1/5pp1/1n2pn2/3p2Np/3P3P/1P2B3/P3PPK1/2r5 w - - 0 30,"We've reached the end game, and my connected passed Pawns suddenly loom large."
+59,Bxc1,e3c1,6k1/5pp1/1n2pn2/3p2Np/3P3P/1P6/P3PPK1/2B5 b - - 0 30,"We've reached the end game, and my connected passed Pawns suddenly loom large."

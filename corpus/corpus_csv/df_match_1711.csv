@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Queen develops in opening, not so good"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Queen develops in opening, not so good"
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"Queen develops in opening, not so good"
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 0 3,Scholars mate is defended
+5,Bc4,f1c4,rnbqkbnr/pppp2pp/5p2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 3,Scholars mate is defended
+6,Bc5,f8c5,rnbqk1nr/pppp2pp/5p2/2b1p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 4,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+7,Qh5+,f3h5,rnbqk1nr/pppp2pp/5p2/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 4,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+8,g6,g7g6,rnbqk1nr/pppp3p/5pp1/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 5,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+9,Qf3,h5f3,rnbqk1nr/pppp3p/5pp1/2b1p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 5,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+10,d6,d7d6,rnbqk1nr/ppp4p/3p1pp1/2b1p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 6,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+11,a3,a2a3,rnbqk1nr/ppp4p/3p1pp1/2b1p3/2B1P3/P4Q2/1PPP1PPP/RNB1K1NR b KQkq - 0 6,"B4 attacks bishop, I don't like these moves, queenside castling is bad"
+12,Nh6,g8h6,rnbqk2r/ppp4p/3p1ppn/2b1p3/2B1P3/P4Q2/1PPP1PPP/RNB1K1NR w KQkq - 1 7,Wonder why
+13,d3,d2d3,rnbqk2r/ppp4p/3p1ppn/2b1p3/2B1P3/P2P1Q2/1PP2PPP/RNB1K1NR b KQkq - 0 7,Wonder why
+14,Ng4,h6g4,rnbqk2r/ppp4p/3p1pp1/2b1p3/2B1P1n1/P2P1Q2/1PP2PPP/RNB1K1NR w KQkq - 1 8,Wonder why
+15,Be3,c1e3,rnbqk2r/ppp4p/3p1pp1/2b1p3/2B1P1n1/P2PBQ2/1PP2PPP/RN2K1NR b KQkq - 2 8,Equal matrieal
+16,Nxe3,g4e3,rnbqk2r/ppp4p/3p1pp1/2b1p3/2B1P3/P2PnQ2/1PP2PPP/RN2K1NR w KQkq - 0 9,Equal matrieal
+17,fxe3,f2e3,rnbqk2r/ppp4p/3p1pp1/2b1p3/2B1P3/P2PPQ2/1PP3PP/RN2K1NR b KQkq - 0 9,Equal matrieal
+18,Nc6,b8c6,r1bqk2r/ppp4p/2np1pp1/2b1p3/2B1P3/P2PPQ2/1PP3PP/RN2K1NR w KQkq - 1 10,Blacks kingside is weak
+19,c3,c2c3,r1bqk2r/ppp4p/2np1pp1/2b1p3/2B1P3/P1PPPQ2/1P4PP/RN2K1NR b KQkq - 0 10,Blacks kingside is weak
+20,h5,h7h5,r1bqk2r/ppp5/2np1pp1/2b1p2p/2B1P3/P1PPPQ2/1P4PP/RN2K1NR w KQkq - 0 11,Blacks kingside is weak
+21,Nh3,g1h3,r1bqk2r/ppp5/2np1pp1/2b1p2p/2B1P3/P1PPPQ1N/1P4PP/RN2K2R b KQkq - 1 11,Free pawn
+22,Bg4,c8g4,r2qk2r/ppp5/2np1pp1/2b1p2p/2B1P1b1/P1PPPQ1N/1P4PP/RN2K2R w KQkq - 2 12,Free pawn
+23,Qf2,f3f2,r2qk2r/ppp5/2np1pp1/2b1p2p/2B1P1b1/P1PPP2N/1P3QPP/RN2K2R b KQkq - 3 12,Free pawn
+24,Qd7,d8d7,r3k2r/pppq4/2np1pp1/2b1p2p/2B1P1b1/P1PPP2N/1P3QPP/RN2K2R w KQkq - 4 13,Free pawn
+25,Qxf6,f2f6,r3k2r/pppq4/2np1Qp1/2b1p2p/2B1P1b1/P1PPP2N/1P4PP/RN2K2R b KQkq - 0 13,Free pawn
+26,Rf8,h8f8,r3kr2/pppq4/2np1Qp1/2b1p2p/2B1P1b1/P1PPP2N/1P4PP/RN2K2R w KQq - 1 14,Free pawn
+27,Qxg6+,f6g6,r3kr2/pppq4/2np2Q1/2b1p2p/2B1P1b1/P1PPP2N/1P4PP/RN2K2R b KQq - 0 14,"Castling on white is not that good, black queenside is ok"
+28,Kd8,e8d8,r2k1r2/pppq4/2np2Q1/2b1p2p/2B1P1b1/P1PPP2N/1P4PP/RN2K2R w KQ - 1 15,"Castling on white is not that good, black queenside is ok"
+29,Ng5,h3g5,r2k1r2/pppq4/2np2Q1/2b1p1Np/2B1P1b1/P1PPP3/1P4PP/RN2K2R b KQ - 2 15,"Castling on white is not that good, black queenside is ok"
+30,Bxe3,c5e3,r2k1r2/pppq4/2np2Q1/4p1Np/2B1P1b1/P1PPb3/1P4PP/RN2K2R w KQ - 0 16,"Castling on white is not that good, black queenside is ok"
+31,b4,b2b4,r2k1r2/pppq4/2np2Q1/4p1Np/1PB1P1b1/P1PPb3/6PP/RN2K2R b KQ - 0 16,Hmmm
+32,Bf2+,e3f2,r2k1r2/pppq4/2np2Q1/4p1Np/1PB1P1b1/P1PP4/5bPP/RN2K2R w KQ - 1 17,Hmmm
+33,Kd2,e1d2,r2k1r2/pppq4/2np2Q1/4p1Np/1PB1P1b1/P1PP4/3K1bPP/RN5R b - - 2 17,Fork with king and rook! Or you lose a queen
+34,Bh4,f2h4,r2k1r2/pppq4/2np2Q1/4p1Np/1PB1P1bb/P1PP4/3K2PP/RN5R w - - 3 18,Fork with king and rook! Or you lose a queen
+35,Be6,c4e6,r2k1r2/pppq4/2npB1Q1/4p1Np/1P2P1bb/P1PP4/3K2PP/RN5R b - - 4 18,Fork with king and rook! Or you lose a queen
+36,Bxe6,g4e6,r2k1r2/pppq4/2npb1Q1/4p1Np/1P2P2b/P1PP4/3K2PP/RN5R w - - 0 19,Fork with king and rook! Or you lose a queen
+37,Qxh5,g6h5,r2k1r2/pppq4/2npb3/4p1NQ/1P2P2b/P1PP4/3K2PP/RN5R b - - 0 19,Noooo
+38,Rf2+,f8f2,r2k4/pppq4/2npb3/4p1NQ/1P2P2b/P1PP4/3K1rPP/RN5R w - - 1 20,Pawn fork!!
+39,Ke3,d2e3,r2k4/pppq4/2npb3/4p1NQ/1P2P2b/P1PPK3/5rPP/RN5R b - - 2 20,Pawn fork!!
+40,Rf4,f2f4,r2k4/pppq4/2npb3/4p1NQ/1P2Pr1b/P1PPK3/6PP/RN5R w - - 3 21,Pawn fork!!
+41,g3,g2g3,r2k4/pppq4/2npb3/4p1NQ/1P2Pr1b/P1PPK1P1/7P/RN5R b - - 0 21,Pawn fork!!
+42,Bxg3,h4g3,r2k4/pppq4/2npb3/4p1NQ/1P2Pr2/P1PPK1b1/7P/RN5R w - - 0 22,Rook  and king fork on Nxe6
+43,hxg3,h2g3,r2k4/pppq4/2npb3/4p1NQ/1P2Pr2/P1PPK1P1/8/RN5R b - - 0 22,Rook  and king fork on Nxe6
+44,Rf8,f4f8,r2k1r2/pppq4/2npb3/4p1NQ/1P2P3/P1PPK1P1/8/RN5R w - - 1 23,Rook  and king fork on Nxe6
+45,a4,a3a4,r2k1r2/pppq4/2npb3/4p1NQ/PP2P3/2PPK1P1/8/RN5R b - - 0 23,"C'mon do the fork, or attack the bishop"
+46,Bg4,e6g4,r2k1r2/pppq4/2np4/4p1NQ/PP2P1b1/2PPK1P1/8/RN5R w - - 1 24,"C'mon do the fork, or attack the bishop"
+47,Qh4,h5h4,r2k1r2/pppq4/2np4/4p1N1/PP2P1bQ/2PPK1P1/8/RN5R b - - 2 24,"C'mon do the fork, or attack the bishop"
+48,Ne7,c6e7,r2k1r2/pppqn3/3p4/4p1N1/PP2P1bQ/2PPK1P1/8/RN5R w - - 3 25,Wonder why
+49,Na3,b1a3,r2k1r2/pppqn3/3p4/4p1N1/PP2P1bQ/N1PPK1P1/8/R6R b - - 4 25,Wonder why
+50,b6,b7b6,r2k1r2/p1pqn3/1p1p4/4p1N1/PP2P1bQ/N1PPK1P1/8/R6R w - - 0 26,Rook attacked
+51,Nh7,g5h7,r2k1r2/p1pqn2N/1p1p4/4p3/PP2P1bQ/N1PPK1P1/8/R6R b - - 1 26,Rook attacked
+52,Rf3+,f8f3,r2k4/p1pqn2N/1p1p4/4p3/PP2P1bQ/N1PPKrP1/8/R6R w - - 2 27,Rook trade
+53,Kd2,e3d2,r2k4/p1pqn2N/1p1p4/4p3/PP2P1bQ/N1PP1rP1/3K4/R6R b - - 3 27,Rook trade
+54,Be6,g4e6,r2k4/p1pqn2N/1p1pb3/4p3/PP2P2Q/N1PP1rP1/3K4/R6R w - - 4 28,Rook trade
+55,Rhf1,h1f1,r2k4/p1pqn2N/1p1pb3/4p3/PP2P2Q/N1PP1rP1/3K4/R4R2 b - - 5 28,Rook trade
+56,Rxf1,f3f1,r2k4/p1pqn2N/1p1pb3/4p3/PP2P2Q/N1PP2P1/3K4/R4r2 w - - 0 29,Rook trade
+57,Rxf1,a1f1,r2k4/p1pqn2N/1p1pb3/4p3/PP2P2Q/N1PP2P1/3K4/5R2 b - - 0 29,Rook trade
+58,Kc8,d8c8,r1k5/p1pqn2N/1p1pb3/4p3/PP2P2Q/N1PP2P1/3K4/5R2 w - - 1 30,Fork
+59,Nf8,h7f8,r1k2N2/p1pqn3/1p1pb3/4p3/PP2P2Q/N1PP2P1/3K4/5R2 b - - 2 30,Fork
+60,Qxa4,d7a4,r1k2N2/p1p1n3/1p1pb3/4p3/qP2P2Q/N1PP2P1/3K4/5R2 w - - 0 31,Black wants a queen trade
+61,Nc2,a3c2,r1k2N2/p1p1n3/1p1pb3/4p3/qP2P2Q/2PP2P1/2NK4/5R2 b - - 1 31,Black wants a queen trade
+62,c5,c7c5,r1k2N2/p3n3/1p1pb3/2p1p3/qP2P2Q/2PP2P1/2NK4/5R2 w - - 0 32,Black wants a queen trade
+63,Nxe6,f8e6,r1k5/p3n3/1p1pN3/2p1p3/qP2P2Q/2PP2P1/2NK4/5R2 b - - 0 32,Black wants a queen trade
+64,cxb4,c5b4,r1k5/p3n3/1p1pN3/4p3/qp2P2Q/2PP2P1/2NK4/5R2 w - - 0 33,Black wants a queen trade
+65,Qxe7,h4e7,r1k5/p3Q3/1p1pN3/4p3/qp2P3/2PP2P1/2NK4/5R2 b - - 0 33,Black wants a queen trade
+66,bxc3+,b4c3,r1k5/p3Q3/1p1pN3/4p3/q3P3/2pP2P1/2NK4/5R2 w - - 0 34,Black wants a queen trade
+67,Ke3,d2e3,r1k5/p3Q3/1p1pN3/4p3/q3P3/2pPK1P1/2N5/5R2 b - - 1 34,Black wants a queen trade
+68,Qd7,a4d7,r1k5/p2qQ3/1p1pN3/4p3/4P3/2pPK1P1/2N5/5R2 w - - 2 35,Black wants a queen trade
+69,Rf8+,f1f8,r1k2R2/p2qQ3/1p1pN3/4p3/4P3/2pPK1P1/2N5/8 b - - 3 35,White says no

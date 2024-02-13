@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is my third attempt at an annotation. It's a short game and I hope quite an interesting one
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A good spot for the bishop and also allows black to castle
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,A good spot for the bishop and also allows black to castle
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,A good spot for the bishop and also allows black to castle
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,A good spot for the bishop and also allows black to castle
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,An early attack threatening to fork my queen and rook
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,An early attack threatening to fork my queen and rook
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5,"D5 is possibly a better counter.
+
+Gameknot describes this as two knights defence, Wilkes Barre (Traxler) variation"
+9,Nxf7,g5f7,r1bqk2r/pppp1Npp/2n2n2/2b1p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Gains a rook however there is an interesting counter to the early attack from white as we will see
+10,Bxf2+,c5f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQK2R w KQkq - 0 6,"If white takes the bishop with his king N e4 could pose some interesting options for black, as blacks queen can come into play"
+11,Kf1,e1f1,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b kq - 1 6,"If white takes the bishop with his king N e4 could pose some interesting options for black, as blacks queen can come into play"
+12,Qe7,d8e7,r1b1k2r/ppppqNpp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R w kq - 2 7,forced
+13,Nxh8,f7h8,r1b1k2N/ppppq1pp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b q - 0 7,Although this looks strong as the bishop is now difficult to remove from the centre it's a fatal mistake for white
+14,d5,d7d5,r1b1k2N/ppp1q1pp/2n2n2/3pp3/2B1P3/8/PPPP1bPP/RNBQ1K1R w q - 0 8,Although this looks strong as the bishop is now difficult to remove from the centre it's a fatal mistake for white
+15,Bxd5,c4d5,r1b1k2N/ppp1q1pp/2n2n2/3Bp3/4P3/8/PPPP1bPP/RNBQ1K1R b q - 0 8,Although this looks strong as the bishop is now difficult to remove from the centre it's a fatal mistake for white
+16,Bg4,c8g4,r3k2N/ppp1q1pp/2n2n2/3Bp3/4P1b1/8/PPPP1bPP/RNBQ1K1R w q - 1 9,Now the white queen must fall
+17,Kxf2,f1f2,r3k2N/ppp1q1pp/2n2n2/3Bp3/4P1b1/8/PPPP1KPP/RNBQ3R b q - 0 9,Although white is ahead in material he has a lot of peices undeveloped and his king is exposed. I also still have the option to castle which will force him to waste a move on the knight
+18,Bxd1,g4d1,r3k2N/ppp1q1pp/2n2n2/3Bp3/4P3/8/PPPP1KPP/RNBb3R w q - 0 10,Although white is ahead in material he has a lot of peices undeveloped and his king is exposed. I also still have the option to castle which will force him to waste a move on the knight
+19,Rxd1,h1d1,r3k2N/ppp1q1pp/2n2n2/3Bp3/4P3/8/PPPP1KPP/RNBR4 b q - 0 10,Although white is ahead in material he has a lot of peices undeveloped and his king is exposed. I also still have the option to castle which will force him to waste a move on the knight
+20,Ng4+,f6g4,r3k2N/ppp1q1pp/2n5/3Bp3/4P1n1/8/PPPP1KPP/RNBR4 w q - 1 11,"This appears to get the white king into a safer position, however my queen is well placed to apply serious pressure"
+21,Kg1,f2g1,r3k2N/ppp1q1pp/2n5/3Bp3/4P1n1/8/PPPP2PP/RNBR2K1 b q - 2 11,"This appears to get the white king into a safer position, however my queen is well placed to apply serious pressure"
+22,Qc5+,e7c5,r3k2N/ppp3pp/2n5/2qBp3/4P1n1/8/PPPP2PP/RNBR2K1 w q - 3 12,"KF1 loses immediately, I can't help but think that the best option for white here would have been d4"
+23,Kh1,g1h1,r3k2N/ppp3pp/2n5/2qBp3/4P1n1/8/PPPP2PP/RNBR3K b q - 4 12,"KF1 loses immediately, I can't help but think that the best option for white here would have been d4"
+24,Nf2+,g4f2,r3k2N/ppp3pp/2n5/2qBp3/4P3/8/PPPP1nPP/RNBR3K w q - 5 13,Forking the rook however I now have some more classic moves lined up
+25,Kg1,h1g1,r3k2N/ppp3pp/2n5/2qBp3/4P3/8/PPPP1nPP/RNBR2K1 b q - 6 13,forced
+26,Nh3+,f2h3,r3k2N/ppp3pp/2n5/2qBp3/4P3/7n/PPPP2PP/RNBR2K1 w q - 7 14,forced
+27,Kh1,g1h1,r3k2N/ppp3pp/2n5/2qBp3/4P3/7n/PPPP2PP/RNBR3K b q - 8 14,forced
+28,Qg1+,c5g1,r3k2N/ppp3pp/2n5/3Bp3/4P3/7n/PPPP2PP/RNBR2qK w q - 9 15,Thanks for reading
+29,Rxg1,d1g1,r3k2N/ppp3pp/2n5/3Bp3/4P3/7n/PPPP2PP/RNB3RK b q - 0 15,Thanks for reading
+30,Nf2#,h3f2,r3k2N/ppp3pp/2n5/3Bp3/4P3/8/PPPP1nPP/RNB3RK w q - 1 16,Thanks for reading

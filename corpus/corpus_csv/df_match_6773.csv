@@ -1,0 +1,71 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"So, I am continuing with my adventures with the sicilian"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"So, I am continuing with my adventures with the sicilian"
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"All is standard so far, what will white play here ?"
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"All is standard so far, what will white play here ?"
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"All is standard so far, what will white play here ?"
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"All is standard so far, what will white play here ?"
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"All is standard so far, what will white play here ?"
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"All is standard so far, what will white play here ?"
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,"All is standard so far, what will white play here ?"
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"All is standard so far, what will white play here ?"
+11,a4,a2a4,rnbqkb1r/1p2pppp/p2p1n2/8/P2NP3/2N5/1PP2PPP/R1BQKB1R b KQkq - 0 6,"I'm surprised, normally it's a bishop or the f pawn, but I guess he wants to prevent b5"
+12,Nbd7,b8d7,r1bqkb1r/1p1npppp/p2p1n2/8/P2NP3/2N5/1PP2PPP/R1BQKB1R w KQkq - 1 7,I play as normal
+13,Be2,f1e2,r1bqkb1r/1p1npppp/p2p1n2/8/P2NP3/2N5/1PP1BPPP/R1BQK2R b KQkq - 2 7,Now the bishop
+14,e5,e7e5,r1bqkb1r/1p1n1ppp/p2p1n2/4p3/P2NP3/2N5/1PP1BPPP/R1BQK2R w KQkq - 0 8,"I like this it has blocked the black squared bishop, I continue"
+15,Nf3,d4f3,r1bqkb1r/1p1n1ppp/p2p1n2/4p3/P3P3/2N2N2/1PP1BPPP/R1BQK2R b KQkq - 1 8,"I like this it has blocked the black squared bishop, I continue"
+16,Nc5,d7c5,r1bqkb1r/1p3ppp/p2p1n2/2n1p3/P3P3/2N2N2/1PP1BPPP/R1BQK2R w KQkq - 2 9,"I like this it has blocked the black squared bishop, I continue"
+17,Nd2,f3d2,r1bqkb1r/1p3ppp/p2p1n2/2n1p3/P3P3/2N5/1PPNBPPP/R1BQK2R b KQkq - 3 9,"I like this it has blocked the black squared bishop, I continue"
+18,Be7,f8e7,r1bqk2r/1p2bppp/p2p1n2/2n1p3/P3P3/2N5/1PPNBPPP/R1BQK2R w KQkq - 4 10,"I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file"
+19,O-O,e1g1,r1bqk2r/1p2bppp/p2p1n2/2n1p3/P3P3/2N5/1PPNBPPP/R1BQ1RK1 b kq - 5 10,"I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file"
+20,Be6,c8e6,r2qk2r/1p2bppp/p2pbn2/2n1p3/P3P3/2N5/1PPNBPPP/R1BQ1RK1 w kq - 6 11,"I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file"
+21,a5,a4a5,r2qk2r/1p2bppp/p2pbn2/P1n1p3/4P3/2N5/1PPNBPPP/R1BQ1RK1 b kq - 0 11,"I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file"
+22,O-O,e8g8,r2q1rk1/1p2bppp/p2pbn2/P1n1p3/4P3/2N5/1PPNBPPP/R1BQ1RK1 w - - 1 12,"I suspect he will play b4 to chase the knight away, which is kind of ok because I want to put my rooks on the c file"
+23,b4,b2b4,r2q1rk1/1p2bppp/p2pbn2/P1n1p3/1P2P3/2N5/2PNBPPP/R1BQ1RK1 b - - 0 12,"I am really unsure of the purpose of this move, time to stop this q side onslaught"
+24,Ncd7,c5d7,r2q1rk1/1p1nbppp/p2pbn2/P3p3/1P2P3/2N5/2PNBPPP/R1BQ1RK1 w - - 1 13,"I am really unsure of the purpose of this move, time to stop this q side onslaught"
+25,Bf3,e2f3,r2q1rk1/1p1nbppp/p2pbn2/P3p3/1P2P3/2N2B2/2PN1PPP/R1BQ1RK1 b - - 2 13,"I am really unsure of the purpose of this move, time to stop this q side onslaught"
+26,b5,b7b5,r2q1rk1/3nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/2PN1PPP/R1BQ1RK1 w - b6 0 14,I think I can cause white some problems along here
+27,Re1,f1e1,r2q1rk1/3nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/2PN1PPP/R1BQR1K1 b - - 1 14,I think I can cause white some problems along here
+28,Rc8,a8c8,2rq1rk1/3nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/2PN1PPP/R1BQR1K1 w - - 2 15,I think I can cause white some problems along here
+29,Bb2,c1b2,2rq1rk1/3nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/1BPN1PPP/R2QR1K1 b - - 3 15,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+30,Qc7,d8c7,2r2rk1/2qnbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/1BPN1PPP/R2QR1K1 w - - 4 16,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+31,Rc1,a1c1,2r2rk1/2qnbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/1BPN1PPP/2RQR1K1 b - - 5 16,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+32,Qb7,c7b7,2r2rk1/1q1nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/1BPN1PPP/2RQR1K1 w - - 6 17,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+33,Nf1,d2f1,2r2rk1/1q1nbppp/p2pbn2/Pp2p3/1P2P3/2N2B2/1BP2PPP/2RQRNK1 b - - 7 17,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+34,Rc4,c8c4,5rk1/1q1nbppp/p2pbn2/Pp2p3/1Pr1P3/2N2B2/1BP2PPP/2RQRNK1 w - - 8 18,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+35,Na2,c3a2,5rk1/1q1nbppp/p2pbn2/Pp2p3/1Pr1P3/5B2/NBP2PPP/2RQRNK1 b - - 9 18,"White is being slowly pinned back, and now I can exert a little more pressure on this c file"
+36,Rfc8,f8c8,2r3k1/1q1nbppp/p2pbn2/Pp2p3/1Pr1P3/5B2/NBP2PPP/2RQRNK1 w - - 10 19,20 moves before first blood
+37,Ne3,f1e3,2r3k1/1q1nbppp/p2pbn2/Pp2p3/1Pr1P3/4NB2/NBP2PPP/2RQR1K1 b - - 11 19,20 moves before first blood
+38,Rc4c7,c4c7,2r3k1/1qrnbppp/p2pbn2/Pp2p3/1P2P3/4NB2/NBP2PPP/2RQR1K1 w - - 12 20,20 moves before first blood
+39,Nd5,e3d5,2r3k1/1qrnbppp/p2pbn2/Pp1Np3/1P2P3/5B2/NBP2PPP/2RQR1K1 b - - 13 20,20 moves before first blood
+40,Nxd5,f6d5,2r3k1/1qrnbppp/p2pb3/Pp1np3/1P2P3/5B2/NBP2PPP/2RQR1K1 w - - 0 21,White is still not out of the woods
+41,exd5,e4d5,2r3k1/1qrnbppp/p2pb3/Pp1Pp3/1P6/5B2/NBP2PPP/2RQR1K1 b - - 0 21,White is still not out of the woods
+42,Bf5,e6f5,2r3k1/1qrnbppp/p2p4/Pp1Ppb2/1P6/5B2/NBP2PPP/2RQR1K1 w - - 1 22,White is still not out of the woods
+43,Re2,e1e2,2r3k1/1qrnbppp/p2p4/Pp1Ppb2/1P6/5B2/NBP1RPPP/2RQ2K1 b - - 2 22,White is still not out of the woods
+44,Bg5,e7g5,2r3k1/1qrn1ppp/p2p4/Pp1Ppbb1/1P6/5B2/NBP1RPPP/2RQ2K1 w - - 3 23,White is still not out of the woods
+45,Ra1,c1a1,2r3k1/1qrn1ppp/p2p4/Pp1Ppbb1/1P6/5B2/NBP1RPPP/R2Q2K1 b - - 4 23,White is still not out of the woods
+46,Bxc2,f5c2,2r3k1/1qrn1ppp/p2p4/Pp1Pp1b1/1P6/5B2/NBb1RPPP/R2Q2K1 w - - 0 24,White is still not out of the woods
+47,Rxc2,e2c2,2r3k1/1qrn1ppp/p2p4/Pp1Pp1b1/1P6/5B2/NBR2PPP/R2Q2K1 b - - 0 24,White is still not out of the woods
+48,Rc7xc2,c7c2,2r3k1/1q1n1ppp/p2p4/Pp1Pp1b1/1P6/5B2/NBr2PPP/R2Q2K1 w - - 0 25,White is still not out of the woods
+49,Bc1,b2c1,2r3k1/1q1n1ppp/p2p4/Pp1Pp1b1/1P6/5B2/N1r2PPP/R1BQ2K1 b - - 1 25,White is still not out of the woods
+50,Bxc1,g5c1,2r3k1/1q1n1ppp/p2p4/Pp1Pp3/1P6/5B2/N1r2PPP/R1bQ2K1 w - - 0 26,White is still not out of the woods
+51,Nxc1,a2c1,2r3k1/1q1n1ppp/p2p4/Pp1Pp3/1P6/5B2/2r2PPP/R1NQ2K1 b - - 0 26,White is still not out of the woods
+52,Nf6,d7f6,2r3k1/1q3ppp/p2p1n2/Pp1Pp3/1P6/5B2/2r2PPP/R1NQ2K1 w - - 1 27,White is still not out of the woods
+53,Nb3,c1b3,2r3k1/1q3ppp/p2p1n2/Pp1Pp3/1P6/1N3B2/2r2PPP/R2Q2K1 b - - 2 27,Black turns attention to the f pawn
+54,Qa7,b7a7,2r3k1/q4ppp/p2p1n2/Pp1Pp3/1P6/1N3B2/2r2PPP/R2Q2K1 w - - 3 28,Black turns attention to the f pawn
+55,Qe1,d1e1,2r3k1/q4ppp/p2p1n2/Pp1Pp3/1P6/1N3B2/2r2PPP/R3Q1K1 b - - 4 28,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+56,e4,e5e4,2r3k1/q4ppp/p2p1n2/Pp1P4/1P2p3/1N3B2/2r2PPP/R3Q1K1 w - - 0 29,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+57,Bd1,f3d1,2r3k1/q4ppp/p2p1n2/Pp1P4/1P2p3/1N6/2r2PPP/R2BQ1K1 b - - 1 29,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+58,Rb2,c2b2,2r3k1/q4ppp/p2p1n2/Pp1P4/1P2p3/1N6/1r3PPP/R2BQ1K1 w - - 2 30,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+59,Rc1,a1c1,2r3k1/q4ppp/p2p1n2/Pp1P4/1P2p3/1N6/1r3PPP/2RBQ1K1 b - - 3 30,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+60,Rxc1,c8c1,6k1/q4ppp/p2p1n2/Pp1P4/1P2p3/1N6/1r3PPP/2rBQ1K1 w - - 0 31,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+61,Nxc1,b3c1,6k1/q4ppp/p2p1n2/Pp1P4/1P2p3/8/1r3PPP/2NBQ1K1 b - - 0 31,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+62,Qd4,a7d4,6k1/5ppp/p2p1n2/Pp1P4/1P1qp3/8/1r3PPP/2NBQ1K1 w - - 1 32,"Nice central square for the queen, I think it is just a matter of time now, white has no counter play"
+63,Ne2,c1e2,6k1/5ppp/p2p1n2/Pp1P4/1P1qp3/8/1r2NPPP/3BQ1K1 b - - 2 32,"White is running out of moves, black is threatening Rb1, white's position is totally passive"
+64,Qd2,d4d2,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/8/1r1qNPPP/3BQ1K1 w - - 3 33,"White is running out of moves, black is threatening Rb1, white's position is totally passive"
+65,Kf1,g1f1,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/8/1r1qNPPP/3BQK2 b - - 4 33,"White is running out of moves, black is threatening Rb1, white's position is totally passive"
+66,Qd3,d2d3,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/3q4/1r2NPPP/3BQK2 w - - 5 34,"White is running out of moves, black is threatening Rb1, white's position is totally passive"
+67,Kg1,f1g1,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/3q4/1r2NPPP/3BQ1K1 b - - 6 34,Think I will have that knight
+68,Rb1,b2b1,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/3q4/4NPPP/1r1BQ1K1 w - - 7 35,Think I will have that knight
+69,Nc3,e2c3,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/2Nq4/5PPP/1r1BQ1K1 b - - 8 35,Think I will have that knight
+70,Qxc3,d3c3,6k1/5ppp/p2p1n2/Pp1P4/1P2p3/2q5/5PPP/1r1BQ1K1 w - - 0 36,White resigns the poistion is hopeless

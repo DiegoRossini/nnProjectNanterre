@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,sicilian.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,normal
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,normal
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,normal
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,still normal.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,still normal.
+8,d6,d7d6,r1bqkbnr/pp2pppp/2np4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,the maine line move in this position was nf6.
+9,Bb5,f1b5,r1bqkbnr/pp2pppp/2np4/1B6/3NP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,pin.
+10,Bd7,c8d7,r2qkbnr/pp1bpppp/2np4/1B6/3NP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,relieves the pin
+11,Nxc6,d4c6,r2qkbnr/pp1bpppp/2Np4/1B6/4P3/8/PPP2PPP/RNBQK2R b KQkq - 0 6,recaptures with bishop a goood move.
+12,Bxc6,d7c6,r2qkbnr/pp2pppp/2bp4/1B6/4P3/8/PPP2PPP/RNBQK2R w KQkq - 0 7,recaptures with bishop a goood move.
+13,Bxc6+,b5c6,r2qkbnr/pp2pppp/2Bp4/8/4P3/8/PPP2PPP/RNBQK2R b KQkq - 0 7,"check, not much choice."
+14,bxc6,b7c6,r2qkbnr/p3pppp/2pp4/8/4P3/8/PPP2PPP/RNBQK2R w KQkq - 0 8,developing.
+15,Nc3,b1c3,r2qkbnr/p3pppp/2pp4/8/4P3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 8,developing.
+16,Nf6,g8f6,r2qkb1r/p3pppp/2pp1n2/8/4P3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 9,developing.
+17,O-O,e1g1,r2qkb1r/p3pppp/2pp1n2/8/4P3/2N5/PPP2PPP/R1BQ1RK1 b kq - 3 9,white is first to have a safe king.
+18,Rb8,a8b8,1r1qkb1r/p3pppp/2pp1n2/8/4P3/2N5/PPP2PPP/R1BQ1RK1 w k - 4 10,"rook on a file, good."
+19,b3,b2b3,1r1qkb1r/p3pppp/2pp1n2/8/4P3/1PN5/P1P2PPP/R1BQ1RK1 b k - 0 10,ready to fianccetto.
+20,g6,g7g6,1r1qkb1r/p3pp1p/2pp1np1/8/4P3/1PN5/P1P2PPP/R1BQ1RK1 w k - 0 11,"same for black, it is now a fight for the diagonal."
+21,Bb2,c1b2,1r1qkb1r/p3pp1p/2pp1np1/8/4P3/1PN5/PBP2PPP/R2Q1RK1 b k - 1 11,im not sure about this move.
+22,Bg7,f8g7,1r1qk2r/p3ppbp/2pp1np1/8/4P3/1PN5/PBP2PPP/R2Q1RK1 w k - 2 12,im not sure about this move.
+23,Rb1,a1b1,1r1qk2r/p3ppbp/2pp1np1/8/4P3/1PN5/PBP2PPP/1R1Q1RK1 b k - 3 12,im not sure about this move.
+24,O-O,e8g8,1r1q1rk1/p3ppbp/2pp1np1/8/4P3/1PN5/PBP2PPP/1R1Q1RK1 w - - 4 13,safe king. about equal.
+25,f4,f2f4,1r1q1rk1/p3ppbp/2pp1np1/8/4PP2/1PN5/PBP3PP/1R1Q1RK1 b - - 0 13,the attack!
+26,Nd7,f6d7,1r1q1rk1/p2nppbp/2pp2p1/8/4PP2/1PN5/PBP3PP/1R1Q1RK1 w - - 1 14,big attack.
+27,f5,f4f5,1r1q1rk1/p2nppbp/2pp2p1/5P2/4P3/1PN5/PBP3PP/1R1Q1RK1 b - - 0 14,big attack.
+28,Bh8,g7h8,1r1q1rkb/p2npp1p/2pp2p1/5P2/4P3/1PN5/PBP3PP/1R1Q1RK1 w - - 1 15,a fairly pointless move.
+29,fxg6,f5g6,1r1q1rkb/p2npp1p/2pp2P1/8/4P3/1PN5/PBP3PP/1R1Q1RK1 b - - 0 15,still black has a safe king.
+30,hxg6,h7g6,1r1q1rkb/p2npp2/2pp2p1/8/4P3/1PN5/PBP3PP/1R1Q1RK1 w - - 0 16,still black has a safe king.
+31,Rf3,f1f3,1r1q1rkb/p2npp2/2pp2p1/8/4P3/1PN2R2/PBP3PP/1R1Q2K1 b - - 1 16,white is now trying to put his rook on h3

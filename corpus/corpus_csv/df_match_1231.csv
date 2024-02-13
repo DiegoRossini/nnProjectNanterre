@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"No matter what White did at this point, the knight was lost."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"No matter what White did at this point, the knight was lost."
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,"No matter what White did at this point, the knight was lost."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 0 3,"No matter what White did at this point, the knight was lost."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/8/3pp3/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 1 3,"No matter what White did at this point, the knight was lost."
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4p3/3pP3/2NP4/PPP2PPP/R1BQKBNR w KQkq - 0 4,"No matter what White did at this point, the knight was lost."
+7,Nd5,c3d5,rnbqkbnr/ppp2ppp/8/3Np3/3pP3/3P4/PPP2PPP/R1BQKBNR b KQkq - 1 4,"No matter what White did at this point, the knight was lost."
+8,c6,c7c6,rnbqkbnr/pp3ppp/2p5/3Np3/3pP3/3P4/PPP2PPP/R1BQKBNR w KQkq - 0 5,"No matter what White did at this point, the knight was lost."
+9,Nc3,d5c3,rnbqkbnr/pp3ppp/2p5/4p3/3pP3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 1 5,"No matter what White did at this point, the knight was lost."
+10,dxc3,d4c3,rnbqkbnr/pp3ppp/2p5/4p3/4P3/2pP4/PPP2PPP/R1BQKBNR w KQkq - 0 6,"No matter what White did at this point, the knight was lost."
+11,bxc3,b2c3,rnbqkbnr/pp3ppp/2p5/4p3/4P3/2PP4/P1P2PPP/R1BQKBNR b KQkq - 0 6,Taking the unprotected pawn
+12,Nf6,g8f6,rnbqkb1r/pp3ppp/2p2n2/4p3/4P3/2PP4/P1P2PPP/R1BQKBNR w KQkq - 1 7,Taking the unprotected pawn
+13,Nf3,g1f3,rnbqkb1r/pp3ppp/2p2n2/4p3/4P3/2PP1N2/P1P2PPP/R1BQKB1R b KQkq - 2 7,Taking the unprotected pawn
+14,Nbd7,b8d7,r1bqkb1r/pp1n1ppp/2p2n2/4p3/4P3/2PP1N2/P1P2PPP/R1BQKB1R w KQkq - 3 8,Taking the unprotected pawn
+15,d4,d3d4,r1bqkb1r/pp1n1ppp/2p2n2/4p3/3PP3/2P2N2/P1P2PPP/R1BQKB1R b KQkq - 0 8,Taking the unprotected pawn
+16,Nxe4,f6e4,r1bqkb1r/pp1n1ppp/2p5/4p3/3Pn3/2P2N2/P1P2PPP/R1BQKB1R w KQkq - 0 9,Taking the unprotected pawn
+17,Bd3,f1d3,r1bqkb1r/pp1n1ppp/2p5/4p3/3Pn3/2PB1N2/P1P2PPP/R1BQK2R b KQkq - 1 9,Another unprotected pawn
+18,Nxc3,e4c3,r1bqkb1r/pp1n1ppp/2p5/4p3/3P4/2nB1N2/P1P2PPP/R1BQK2R w KQkq - 0 10,Another unprotected pawn
+19,Qd2,d1d2,r1bqkb1r/pp1n1ppp/2p5/4p3/3P4/2nB1N2/P1PQ1PPP/R1B1K2R b KQkq - 1 10,"White tries to threaten my knight, but this will later work against him."
+20,Nd5,c3d5,r1bqkb1r/pp1n1ppp/2p5/3np3/3P4/3B1N2/P1PQ1PPP/R1B1K2R w KQkq - 2 11,Pinning the queen
+21,Nxe5,f3e5,r1bqkb1r/pp1n1ppp/2p5/3nN3/3P4/3B4/P1PQ1PPP/R1B1K2R b KQkq - 0 11,Pinning the queen
+22,Bb4,f8b4,r1bqk2r/pp1n1ppp/2p5/3nN3/1b1P4/3B4/P1PQ1PPP/R1B1K2R w KQkq - 1 12,Pinning the queen
+23,c3,c2c3,r1bqk2r/pp1n1ppp/2p5/3nN3/1b1P4/2PB4/P2Q1PPP/R1B1K2R b KQkq - 0 12,Useless move; now White has lost another pawn as well
+24,Bxc3,b4c3,r1bqk2r/pp1n1ppp/2p5/3nN3/3P4/2bB4/P2Q1PPP/R1B1K2R w KQkq - 0 13,"If I were White, I would have actually taken the bishop with my queen and at least offset some of the points that I win on the next move. (making it a +6 advantage rather than a +9)"
+25,Bb2,c1b2,r1bqk2r/pp1n1ppp/2p5/3nN3/3P4/2bB4/PB1Q1PPP/R3K2R b KQkq - 1 13,"If I were White, I would have actually taken the bishop with my queen and at least offset some of the points that I win on the next move. (making it a +6 advantage rather than a +9)"
+26,Bxd2+,c3d2,r1bqk2r/pp1n1ppp/2p5/3nN3/3P4/3B4/PB1b1PPP/R3K2R w KQkq - 0 14,Got White's queen
+27,Kxd2,e1d2,r1bqk2r/pp1n1ppp/2p5/3nN3/3P4/3B4/PB1K1PPP/R6R b kq - 0 14,Got White's queen
+28,Qg5+,d8g5,r1b1k2r/pp1n1ppp/2p5/3nN1q1/3P4/3B4/PB1K1PPP/R6R w kq - 1 15,Checking the king
+29,Ke1,d2e1,r1b1k2r/pp1n1ppp/2p5/3nN1q1/3P4/3B4/PB3PPP/R3K2R b kq - 2 15,Unprotected pawn
+30,Qxg2,g5g2,r1b1k2r/pp1n1ppp/2p5/3nN3/3P4/3B4/PB3PqP/R3K2R w kq - 0 16,Unprotected pawn
+31,Ke2,e1e2,r1b1k2r/pp1n1ppp/2p5/3nN3/3P4/3B4/PB2KPqP/R6R b kq - 1 16,White is trying to avoid losing a rook.
+32,Nf4+,d5f4,r1b1k2r/pp1n1ppp/2p5/4N3/3P1n2/3B4/PB2KPqP/R6R w kq - 2 17,Checking the king again
+33,Ke3,e2e3,r1b1k2r/pp1n1ppp/2p5/4N3/3P1n2/3BK3/PB3PqP/R6R b kq - 3 17,Check.
+34,Nd5+,f4d5,r1b1k2r/pp1n1ppp/2p5/3nN3/3P4/3BK3/PB3PqP/R6R w kq - 4 18,Check.
+35,Ke2,e3e2,r1b1k2r/pp1n1ppp/2p5/3nN3/3P4/3B4/PB2KPqP/R6R b kq - 5 18,Exchanging knights
+36,Nxe5,d7e5,r1b1k2r/pp3ppp/2p5/3nn3/3P4/3B4/PB2KPqP/R6R w kq - 0 19,Exchanging knights
+37,dxe5,d4e5,r1b1k2r/pp3ppp/2p5/3nP3/8/3B4/PB2KPqP/R6R b kq - 0 19,Unprotected pawn
+38,Bg4+,c8g4,r3k2r/pp3ppp/2p5/3nP3/6b1/3B4/PB2KPqP/R6R w kq - 1 20,Unprotected pawn
+39,Kd2,e2d2,r3k2r/pp3ppp/2p5/3nP3/6b1/3B4/PB1K1PqP/R6R b kq - 2 20,Unprotected pawn
+40,Qxf2+,g2f2,r3k2r/pp3ppp/2p5/3nP3/6b1/3B4/PB1K1q1P/R6R w kq - 0 21,Unprotected pawn
+41,Kc1,d2c1,r3k2r/pp3ppp/2p5/3nP3/6b1/3B4/PB3q1P/R1K4R b kq - 1 21,"Bad move for White; rather than exchanging bishops with no score change or perhaps moving the bishop away out of danger, instead I get a free bishop without having to sacrifice my own."
+42,Qe3+,f2e3,r3k2r/pp3ppp/2p5/3nP3/6b1/3Bq3/PB5P/R1K4R w kq - 2 22,"Bad move for White; rather than exchanging bishops with no score change or perhaps moving the bishop away out of danger, instead I get a free bishop without having to sacrifice my own."
+43,Kc2,c1c2,r3k2r/pp3ppp/2p5/3nP3/6b1/3Bq3/PBK4P/R6R b kq - 3 22,"Bad move for White; rather than exchanging bishops with no score change or perhaps moving the bishop away out of danger, instead I get a free bishop without having to sacrifice my own."
+44,Be2,g4e2,r3k2r/pp3ppp/2p5/3nP3/8/3Bq3/PBK1b2P/R6R w kq - 4 23,"Bad move for White; rather than exchanging bishops with no score change or perhaps moving the bishop away out of danger, instead I get a free bishop without having to sacrifice my own."
+45,Bc4,d3c4,r3k2r/pp3ppp/2p5/3nP3/2B5/4q3/PBK1b2P/R6R b kq - 5 23,"Bad move for White; rather than exchanging bishops with no score change or perhaps moving the bishop away out of danger, instead I get a free bishop without having to sacrifice my own."
+46,Bxc4,e2c4,r3k2r/pp3ppp/2p5/3nP3/2b5/4q3/PBK4P/R6R w kq - 0 24,Trying to chase the king away so I can take the rook
+47,Rhd1,h1d1,r3k2r/pp3ppp/2p5/3nP3/2b5/4q3/PBK4P/R2R4 b kq - 1 24,Trying to chase the king away so I can take the rook
+48,Qe2+,e3e2,r3k2r/pp3ppp/2p5/3nP3/2b5/8/PBK1q2P/R2R4 w kq - 2 25,Trying to chase the king away so I can take the rook
+49,Rd2,d1d2,r3k2r/pp3ppp/2p5/3nP3/2b5/8/PBKRq2P/R7 b kq - 3 25,Trying to chase the king away so I can take the rook
+50,Bd3+,c4d3,r3k2r/pp3ppp/2p5/3nP3/8/3b4/PBKRq2P/R7 w kq - 4 26,Trying to chase the king away so I can take the rook
+51,Kb3,c2b3,r3k2r/pp3ppp/2p5/3nP3/8/1K1b4/PB1Rq2P/R7 b kq - 5 26,White is aiming for my g pawn.
+52,Qxd2,e2d2,r3k2r/pp3ppp/2p5/3nP3/8/1K1b4/PB1q3P/R7 w kq - 0 27,White is aiming for my g pawn.
+53,Rg1,a1g1,r3k2r/pp3ppp/2p5/3nP3/8/1K1b4/PB1q3P/6R1 b kq - 1 27,White is aiming for my g pawn.
+54,Qc2+,d2c2,r3k2r/pp3ppp/2p5/3nP3/8/1K1b4/PBq4P/6R1 w kq - 2 28,I want White's other rook.
+55,Ka3,b3a3,r3k2r/pp3ppp/2p5/3nP3/8/K2b4/PBq4P/6R1 b kq - 3 28,I want White's other rook.
+56,Qc5+,c2c5,r3k2r/pp3ppp/2p5/2qnP3/8/K2b4/PB5P/6R1 w kq - 4 29,I want White's other rook.
+57,Kb3,a3b3,r3k2r/pp3ppp/2p5/2qnP3/8/1K1b4/PB5P/6R1 b kq - 5 29,Exchanging my knight for the bishop.
+58,Qxg1,c5g1,r3k2r/pp3ppp/2p5/3nP3/8/1K1b4/PB5P/6q1 w kq - 0 30,Exchanging my knight for the bishop.
+59,Bc3,b2c3,r3k2r/pp3ppp/2p5/3nP3/8/1KBb4/P6P/6q1 b kq - 1 30,Exchanging my knight for the bishop.
+60,Nxc3,d5c3,r3k2r/pp3ppp/2p5/4P3/8/1Knb4/P6P/6q1 w kq - 0 31,Exchanging my knight for the bishop.
+61,Kxc3,b3c3,r3k2r/pp3ppp/2p5/4P3/8/2Kb4/P6P/6q1 b kq - 0 31,Exchanging my knight for the bishop.

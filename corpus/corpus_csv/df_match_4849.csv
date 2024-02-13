@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Fairly ordinary opening, I guess"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Fairly ordinary opening, I guess"
+3,a3,a2a3,rnbqkbnr/pppp1ppp/8/4p3/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2,"Fairly ordinary opening, I guess"
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/P7/1PPP1PPP/RNBQKBNR w KQkq - 0 3,"Fairly ordinary opening, I guess"
+5,h3,h2h3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/P6P/1PPP1PP1/RNBQKBNR b KQkq - 0 3,"Fairly ordinary opening, I guess"
+6,b6,b7b6,rnbqkbnr/p1p2ppp/1p1p4/4p3/4P3/P6P/1PPP1PP1/RNBQKBNR w KQkq - 0 4,"Fairly ordinary opening, I guess"
+7,Qf3,d1f3,rnbqkbnr/p1p2ppp/1p1p4/4p3/4P3/P4Q1P/1PPP1PP1/RNB1KBNR b KQkq - 1 4,"Luckily, I see this one coming"
+8,a5,a7a5,rnbqkbnr/2p2ppp/1p1p4/p3p3/4P3/P4Q1P/1PPP1PP1/RNB1KBNR w KQkq - 0 5,"Luckily, I see this one coming"
+9,Bc4,f1c4,rnbqkbnr/2p2ppp/1p1p4/p3p3/2B1P3/P4Q1P/1PPP1PP1/RNB1K1NR b KQkq - 1 5,"Luckily, I see this one coming"
+10,Qd7,d8d7,rnb1kbnr/2pq1ppp/1p1p4/p3p3/2B1P3/P4Q1P/1PPP1PP1/RNB1K1NR w KQkq - 2 6,I don't understand why he doesn't take the queen when he has just lost his bishop
+11,Bxf7+,c4f7,rnb1kbnr/2pq1Bpp/1p1p4/p3p3/4P3/P4Q1P/1PPP1PP1/RNB1K1NR b KQkq - 0 6,I don't understand why he doesn't take the queen when he has just lost his bishop
+12,Qxf7,d7f7,rnb1kbnr/2p2qpp/1p1p4/p3p3/4P3/P4Q1P/1PPP1PP1/RNB1K1NR w KQkq - 0 7,I don't understand why he doesn't take the queen when he has just lost his bishop
+13,Qc3,f3c3,rnb1kbnr/2p2qpp/1p1p4/p3p3/4P3/P1Q4P/1PPP1PP1/RNB1K1NR b KQkq - 1 7,I don't understand why he doesn't take the queen when he has just lost his bishop
+14,Bb7,c8b7,rn2kbnr/1bp2qpp/1p1p4/p3p3/4P3/P1Q4P/1PPP1PP1/RNB1K1NR w KQkq - 2 8,Putting pressure on the e pawn
+15,Qe3,c3e3,rn2kbnr/1bp2qpp/1p1p4/p3p3/4P3/P3Q2P/1PPP1PP1/RNB1K1NR b KQkq - 3 8,"A stupid move by me, blocking the bishop from the pawn"
+16,Nc6,b8c6,r3kbnr/1bp2qpp/1pnp4/p3p3/4P3/P3Q2P/1PPP1PP1/RNB1K1NR w KQkq - 4 9,"A stupid move by me, blocking the bishop from the pawn"
+17,c3,c2c3,r3kbnr/1bp2qpp/1pnp4/p3p3/4P3/P1P1Q2P/1P1P1PP1/RNB1K1NR b KQkq - 0 9,Getting the queen in danger
+18,g6,g7g6,r3kbnr/1bp2q1p/1pnp2p1/p3p3/4P3/P1P1Q2P/1P1P1PP1/RNB1K1NR w KQkq - 0 10,Getting the queen in danger
+19,Nf3,g1f3,r3kbnr/1bp2q1p/1pnp2p1/p3p3/4P3/P1P1QN1P/1P1P1PP1/RNB1K2R b KQkq - 1 10,Getting the queen in danger
+20,Bh6,f8h6,r3k1nr/1bp2q1p/1pnp2pb/p3p3/4P3/P1P1QN1P/1P1P1PP1/RNB1K2R w KQkq - 2 11,Getting the queen in danger
+21,Qe2,e3e2,r3k1nr/1bp2q1p/1pnp2pb/p3p3/4P3/P1P2N1P/1P1PQPP1/RNB1K2R b KQkq - 3 11,More pressure on the e pawn
+22,Nf6,g8f6,r3k2r/1bp2q1p/1pnp1npb/p3p3/4P3/P1P2N1P/1P1PQPP1/RNB1K2R w KQkq - 4 12,More pressure on the e pawn
+23,Ng1,f3g1,r3k2r/1bp2q1p/1pnp1npb/p3p3/4P3/P1P4P/1P1PQPP1/RNB1K1NR b KQkq - 5 12,The bishop is back in attack
+24,Ne7,c6e7,r3k2r/1bp1nq1p/1p1p1npb/p3p3/4P3/P1P4P/1P1PQPP1/RNB1K1NR w KQkq - 6 13,The bishop is back in attack
+25,Nf3,g1f3,r3k2r/1bp1nq1p/1p1p1npb/p3p3/4P3/P1P2N1P/1P1PQPP1/RNB1K2R b KQkq - 7 13,Ha ha! The advantage is on my side
+26,Bxe4,b7e4,r3k2r/2p1nq1p/1p1p1npb/p3p3/4b3/P1P2N1P/1P1PQPP1/RNB1K2R w KQkq - 0 14,Ha ha! The advantage is on my side
+27,Ng1,f3g1,r3k2r/2p1nq1p/1p1p1npb/p3p3/4b3/P1P4P/1P1PQPP1/RNB1K1NR b KQkq - 1 14,I end my bishop's life by eliminating the knight
+28,Bxb1,e4b1,r3k2r/2p1nq1p/1p1p1npb/p3p3/8/P1P4P/1P1PQPP1/RbB1K1NR w KQkq - 0 15,I end my bishop's life by eliminating the knight
+29,Rxb1,a1b1,r3k2r/2p1nq1p/1p1p1npb/p3p3/8/P1P4P/1P1PQPP1/1RB1K1NR b Kkq - 0 15,Little does he realise he is being set-up
+30,Qa2,f7a2,r3k2r/2p1n2p/1p1p1npb/p3p3/8/P1P4P/qP1PQPP1/1RB1K1NR w Kkq - 1 16,
+31,Qd3,e2d3,r3k2r/2p1n2p/1p1p1npb/p3p3/8/P1PQ3P/qP1P1PP1/1RB1K1NR b Kkq - 2 16,Well backed up
+32,e4,e5e4,r3k2r/2p1n2p/1p1p1npb/p7/4p3/P1PQ3P/qP1P1PP1/1RB1K1NR w Kkq - 0 17,"Although the queen cannot take the pawn, it can still protect the knight"
+33,Qc2,d3c2,r3k2r/2p1n2p/1p1p1npb/p7/4p3/P1P4P/qPQP1PP1/1RB1K1NR b Kkq - 1 17,The battle of the pawns begins!
+34,d5,d6d5,r3k2r/2p1n2p/1p3npb/p2p4/4p3/P1P4P/qPQP1PP1/1RB1K1NR w Kkq - 0 18,The battle of the pawns begins!
+35,Ne2,g1e2,r3k2r/2p1n2p/1p3npb/p2p4/4p3/P1P4P/qPQPNPP1/1RB1K2R b Kkq - 1 18,The battle of the pawns begins!
+36,c5,c7c5,r3k2r/4n2p/1p3npb/p1pp4/4p3/P1P4P/qPQPNPP1/1RB1K2R w Kkq - 0 19,The battle of the pawns begins!
+37,f3,f2f3,r3k2r/4n2p/1p3npb/p1pp4/4p3/P1P2P1P/qPQPN1P1/1RB1K2R b Kkq - 0 19,The battle of the pawns begins!
+38,d4,d5d4,r3k2r/4n2p/1p3npb/p1p5/3pp3/P1P2P1P/qPQPN1P1/1RB1K2R w Kkq - 0 20,The battle of the pawns begins!
+39,cxd4,c3d4,r3k2r/4n2p/1p3npb/p1p5/3Pp3/P4P1P/qPQPN1P1/1RB1K2R b Kkq - 0 20,
+40,cxd4,c5d4,r3k2r/4n2p/1p3npb/p7/3pp3/P4P1P/qPQPN1P1/1RB1K2R w Kkq - 0 21,
+41,fxe4,f3e4,r3k2r/4n2p/1p3npb/p7/3pP3/P6P/qPQPN1P1/1RB1K2R b Kkq - 0 21,
+42,d3,d4d3,r3k2r/4n2p/1p3npb/p7/4P3/P2p3P/qPQPN1P1/1RB1K2R w Kkq - 0 22,
+43,Qxd3,c2d3,r3k2r/4n2p/1p3npb/p7/4P3/P2Q3P/qP1PN1P1/1RB1K2R b Kkq - 0 22,Now I am beginning to lose confidence

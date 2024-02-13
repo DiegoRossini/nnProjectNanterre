@@ -1,0 +1,18 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,bird
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,fianchetto (?) this is good because in bird g2 is quite weak
+3,d3,d2d3,rnbqkbnr/p1pppppp/1p6/8/5P2/3P4/PPP1P1PP/RNBQKBNR b KQkq - 0 2,preparing e4 against the Bb7 futur treath
+4,f5,f7f5,rnbqkbnr/p1ppp1pp/1p6/5p2/5P2/3P4/PPP1P1PP/RNBQKBNR w KQkq - 0 3,"ho ! ""surprise"" gambit. Easy to win with e4!"
+5,e4,e2e4,rnbqkbnr/p1ppp1pp/1p6/5p2/4PP2/3P4/PPP3PP/RNBQKBNR b KQkq - 0 3,first...
+6,Bb7,c8b7,rn1qkbnr/pbppp1pp/1p6/5p2/4PP2/3P4/PPP3PP/RNBQKBNR w KQkq - 1 4,"now the situation has changed : i dont care about the b2 fianchetto, i'm just going to attack e4xf5...Qh5+...etc"
+7,exf5,e4f5,rn1qkbnr/pbppp1pp/1p6/5P2/5P2/3P4/PPP3PP/RNBQKBNR b KQkq - 0 4,second...
+8,e5,e7e5,rn1qkbnr/pbpp2pp/1p6/4pP2/5P2/3P4/PPP3PP/RNBQKBNR w KQkq e6 0 5,"ho ! another surprise ! the danger was Qh5, so the only good answer was, at less, Kh6 in order to use it after in f7 protection....Yes idj, but then fxe5...is not so better, isnt it ?"
+9,Qh5+,d1h5,rn1qkbnr/pbpp2pp/1p6/4pP1Q/5P2/3P4/PPP3PP/RNB1KBNR b KQkq - 1 5,"Third !!! so the game is done, there is no good solution for blacks."
+10,g6,g7g6,rn1qkbnr/pbpp3p/1p4p1/4pP1Q/5P2/3P4/PPP3PP/RNB1KBNR w KQkq - 0 6,could be better for king to go in e7 (and start a terrible bloody escape)
+11,fxg6,f5g6,rn1qkbnr/pbpp3p/1p4P1/4p2Q/5P2/3P4/PPP3PP/RNB1KBNR b KQkq - 0 6,black rook is diner !
+12,hxg6,h7g6,rn1qkbnr/pbpp4/1p4p1/4p2Q/5P2/3P4/PPP3PP/RNB1KBNR w KQkq - 0 7,miam miam
+13,Qxh8,h5h8,rn1qkbnQ/pbpp4/1p4p1/4p3/5P2/3P4/PPP3PP/RNB1KBNR b KQq - 0 7,miam miam
+14,Nf6,g8f6,rn1qkb1Q/pbpp4/1p3np1/4p3/5P2/3P4/PPP3PP/RNB1KBNR w KQq - 1 8,"not enought, i have the f4 paw"
+15,fxe5,f4e5,rn1qkb1Q/pbpp4/1p3np1/4P3/8/3P4/PPP3PP/RNB1KBNR b KQq - 0 8,still not enought...i will take the knight and propose queen exchange...
+16,Qe7,d8e7,rn2kb1Q/pbppq3/1p3np1/4P3/8/3P4/PPP3PP/RNB1KBNR w KQq - 1 9,still not enought...i will take the knight and propose queen exchange...
+17,Qxf6,h8f6,rn2kb2/pbppq3/1p3Qp1/4P3/8/3P4/PPP3PP/RNB1KBNR b KQq - 0 9,then black resign. So this is a good exemple of what not to do when black fight bird

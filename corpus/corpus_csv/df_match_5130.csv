@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Starts with d-pawn since it gets more open
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Ordinary start
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Ordinary start
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Ordinary start
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Ordinary start
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Ordinary start
+7,Bf4,c1f4,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,Ordinary start
+8,c6,c7c6,rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 0 5,Ordinary start
+9,cxd5,c4d5,rnbqkb1r/pp3ppp/2p1pn2/3P4/3P1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5,Ordinary start
+10,exd5,e6d5,rnbqkb1r/pp3ppp/2p2n2/3p4/3P1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6,Ordinary start
+11,Nf3,g1f3,rnbqkb1r/pp3ppp/2p2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 6,Ordinary start
+12,Be7,f8e7,rnbqk2r/pp2bppp/2p2n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7,Losing a pawn but winning position
+13,e3,e2e3,rnbqk2r/pp2bppp/2p2n2/3p4/3P1B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7,Losing a pawn but winning position
+14,O-O,e8g8,rnbq1rk1/pp2bppp/2p2n2/3p4/3P1B2/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 8,Losing a pawn but winning position
+15,Be2,f1e2,rnbq1rk1/pp2bppp/2p2n2/3p4/3P1B2/2N1PN2/PP2BPPP/R2QK2R b KQ - 2 8,Losing a pawn but winning position
+16,h6,h7h6,rnbq1rk1/pp2bpp1/2p2n1p/3p4/3P1B2/2N1PN2/PP2BPPP/R2QK2R w KQ - 0 9,Losing a pawn but winning position
+17,Ne5,f3e5,rnbq1rk1/pp2bpp1/2p2n1p/3pN3/3P1B2/2N1P3/PP2BPPP/R2QK2R b KQ - 1 9,Losing a pawn but winning position
+18,Nbd7,b8d7,r1bq1rk1/pp1nbpp1/2p2n1p/3pN3/3P1B2/2N1P3/PP2BPPP/R2QK2R w KQ - 2 10,Losing a pawn but winning position
+19,h3,h2h3,r1bq1rk1/pp1nbpp1/2p2n1p/3pN3/3P1B2/2N1P2P/PP2BPP1/R2QK2R b KQ - 0 10,Losing a pawn but winning position
+20,Bb4,e7b4,r1bq1rk1/pp1n1pp1/2p2n1p/3pN3/1b1P1B2/2N1P2P/PP2BPP1/R2QK2R w KQ - 1 11,Losing a pawn but winning position
+21,a3,a2a3,r1bq1rk1/pp1n1pp1/2p2n1p/3pN3/1b1P1B2/P1N1P2P/1P2BPP1/R2QK2R b KQ - 0 11,Losing a pawn but winning position
+22,Bxc3+,b4c3,r1bq1rk1/pp1n1pp1/2p2n1p/3pN3/3P1B2/P1b1P2P/1P2BPP1/R2QK2R w KQ - 0 12,Losing a pawn but winning position
+23,bxc3,b2c3,r1bq1rk1/pp1n1pp1/2p2n1p/3pN3/3P1B2/P1P1P2P/4BPP1/R2QK2R b KQ - 0 12,Losing a pawn but winning position
+24,Ne4,f6e4,r1bq1rk1/pp1n1pp1/2p4p/3pN3/3PnB2/P1P1P2P/4BPP1/R2QK2R w KQ - 1 13,Losing a pawn but winning position
+25,Qc2,d1c2,r1bq1rk1/pp1n1pp1/2p4p/3pN3/3PnB2/P1P1P2P/2Q1BPP1/R3K2R b KQ - 2 13,Losing a pawn but winning position
+26,Qa5,d8a5,r1b2rk1/pp1n1pp1/2p4p/q2pN3/3PnB2/P1P1P2P/2Q1BPP1/R3K2R w KQ - 3 14,Losing a pawn but winning position
+27,O-O,e1g1,r1b2rk1/pp1n1pp1/2p4p/q2pN3/3PnB2/P1P1P2P/2Q1BPP1/R4RK1 b - - 4 14,Losing a pawn but winning position
+28,Nxc3,e4c3,r1b2rk1/pp1n1pp1/2p4p/q2pN3/3P1B2/P1n1P2P/2Q1BPP1/R4RK1 w - - 0 15,Losing a pawn but winning position
+29,Bd3,e2d3,r1b2rk1/pp1n1pp1/2p4p/q2pN3/3P1B2/P1nBP2P/2Q2PP1/R4RK1 b - - 1 15,Losing a pawn but winning position
+30,Nb5,c3b5,r1b2rk1/pp1n1pp1/2p4p/qn1pN3/3P1B2/P2BP2P/2Q2PP1/R4RK1 w - - 2 16,start of attack on the king
+31,Ng4,e5g4,r1b2rk1/pp1n1pp1/2p4p/qn1p4/3P1BN1/P2BP2P/2Q2PP1/R4RK1 b - - 3 16,start of attack on the king
+32,Nc7,b5c7,r1b2rk1/ppnn1pp1/2p4p/q2p4/3P1BN1/P2BP2P/2Q2PP1/R4RK1 w - - 4 17,start of attack on the king
+33,Qe2,c2e2,r1b2rk1/ppnn1pp1/2p4p/q2p4/3P1BN1/P2BP2P/4QPP1/R4RK1 b - - 5 17,start of attack on the king
+34,Ne6,c7e6,r1b2rk1/pp1n1pp1/2p1n2p/q2p4/3P1BN1/P2BP2P/4QPP1/R4RK1 w - - 6 18,keep the pressure!!!
+35,Bxh6,f4h6,r1b2rk1/pp1n1pp1/2p1n2B/q2p4/3P2N1/P2BP2P/4QPP1/R4RK1 b - - 0 18,keep the pressure!!!
+36,Qd8,a5d8,r1bq1rk1/pp1n1pp1/2p1n2B/3p4/3P2N1/P2BP2P/4QPP1/R4RK1 w - - 1 19,keep the pressure!!!
+37,Qf3,e2f3,r1bq1rk1/pp1n1pp1/2p1n2B/3p4/3P2N1/P2BPQ1P/5PP1/R4RK1 b - - 2 19,keep the pressure!!!
+38,gxh6,g7h6,r1bq1rk1/pp1n1p2/2p1n2p/3p4/3P2N1/P2BPQ1P/5PP1/R4RK1 w - - 0 20,keep the pressure!!!
+39,Qf5,f3f5,r1bq1rk1/pp1n1p2/2p1n2p/3p1Q2/3P2N1/P2BP2P/5PP1/R4RK1 b - - 1 20,keep the pressure!!!
+40,Ng5,e6g5,r1bq1rk1/pp1n1p2/2p4p/3p1Qn1/3P2N1/P2BP2P/5PP1/R4RK1 w - - 2 21,force the king to move
+41,h4,h3h4,r1bq1rk1/pp1n1p2/2p4p/3p1Qn1/3P2NP/P2BP3/5PP1/R4RK1 b - - 0 21,force the king to move
+42,Ne4,g5e4,r1bq1rk1/pp1n1p2/2p4p/3p1Q2/3Pn1NP/P2BP3/5PP1/R4RK1 w - - 1 22,force the king to move
+43,f3,f2f3,r1bq1rk1/pp1n1p2/2p4p/3p1Q2/3Pn1NP/P2BPP2/6P1/R4RK1 b - - 0 22,force the king to move
+44,Nef6,e4f6,r1bq1rk1/pp1n1p2/2p2n1p/3p1Q2/3P2NP/P2BPP2/6P1/R4RK1 w - - 1 23,force the king to move
+45,Nxh6+,g4h6,r1bq1rk1/pp1n1p2/2p2n1N/3p1Q2/3P3P/P2BPP2/6P1/R4RK1 b - - 0 23,force the king to move
+46,Kh8,g8h8,r1bq1r1k/pp1n1p2/2p2n1N/3p1Q2/3P3P/P2BPP2/6P1/R4RK1 w - - 1 24,force the king to move
+47,Ng4,h6g4,r1bq1r1k/pp1n1p2/2p2n2/3p1Q2/3P2NP/P2BPP2/6P1/R4RK1 b - - 2 24,force the king to move
+48,Rg8,f8g8,r1bq2rk/pp1n1p2/2p2n2/3p1Q2/3P2NP/P2BPP2/6P1/R4RK1 w - - 3 25,force the king to move
+49,e4,e3e4,r1bq2rk/pp1n1p2/2p2n2/3p1Q2/3PP1NP/P2B1P2/6P1/R4RK1 b - - 0 25,force the king to move
+50,Nxg4,f6g4,r1bq2rk/pp1n1p2/2p5/3p1Q2/3PP1nP/P2B1P2/6P1/R4RK1 w - - 0 26,force the king to move
+51,Qh5+,f5h5,r1bq2rk/pp1n1p2/2p5/3p3Q/3PP1nP/P2B1P2/6P1/R4RK1 b - - 1 26,force the king to move
+52,Kg7,h8g7,r1bq2r1/pp1n1pk1/2p5/3p3Q/3PP1nP/P2B1P2/6P1/R4RK1 w - - 2 27,now the pressure raises
+53,fxg4,f3g4,r1bq2r1/pp1n1pk1/2p5/3p3Q/3PP1PP/P2B4/6P1/R4RK1 b - - 0 27,now the pressure raises
+54,Qe7,d8e7,r1b3r1/pp1nqpk1/2p5/3p3Q/3PP1PP/P2B4/6P1/R4RK1 w - - 1 28,now the pressure raises
+55,g5,g4g5,r1b3r1/pp1nqpk1/2p5/3p2PQ/3PP2P/P2B4/6P1/R4RK1 b - - 0 28,now the pressure raises
+56,Kf8,g7f8,r1b2kr1/pp1nqp2/2p5/3p2PQ/3PP2P/P2B4/6P1/R4RK1 w - - 1 29,now the pressure raises
+57,Rae1,a1e1,r1b2kr1/pp1nqp2/2p5/3p2PQ/3PP2P/P2B4/6P1/4RRK1 b - - 2 29,now the pressure raises
+58,Nb6,d7b6,r1b2kr1/pp2qp2/1np5/3p2PQ/3PP2P/P2B4/6P1/4RRK1 w - - 3 30,a nice mate by pawn against a strong player!!
+59,exd5,e4d5,r1b2kr1/pp2qp2/1np5/3P2PQ/3P3P/P2B4/6P1/4RRK1 b - - 0 30,a nice mate by pawn against a strong player!!
+60,Qc7,e7c7,r1b2kr1/ppq2p2/1np5/3P2PQ/3P3P/P2B4/6P1/4RRK1 w - - 1 31,a nice mate by pawn against a strong player!!
+61,g6,g5g6,r1b2kr1/ppq2p2/1np3P1/3P3Q/3P3P/P2B4/6P1/4RRK1 b - - 0 31,a nice mate by pawn against a strong player!!
+62,Rg7,g8g7,r1b2k2/ppq2pr1/1np3P1/3P3Q/3P3P/P2B4/6P1/4RRK1 w - - 1 32,a nice mate by pawn against a strong player!!
+63,Qh8+,h5h8,r1b2k1Q/ppq2pr1/1np3P1/3P4/3P3P/P2B4/6P1/4RRK1 b - - 2 32,a nice mate by pawn against a strong player!!
+64,Rg8,g7g8,r1b2krQ/ppq2p2/1np3P1/3P4/3P3P/P2B4/6P1/4RRK1 w - - 3 33,a nice mate by pawn against a strong player!!
+65,g7#,g6g7,r1b2krQ/ppq2pP1/1np5/3P4/3P3P/P2B4/6P1/4RRK1 b - - 0 33,a nice mate by pawn against a strong player!!

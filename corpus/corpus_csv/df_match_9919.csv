@@ -1,0 +1,119 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I thought I'd start by fianchettoing the queenside bishop instead of the usual kingside.  This is known as Owen's defense, and according to Wikipedia (which is always right), it has a rather dubious reputation.  I not only cede the center early, but I also delay kingside castling for a while."
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I thought I'd start by fianchettoing the queenside bishop instead of the usual kingside.  This is known as Owen's defense, and according to Wikipedia (which is always right), it has a rather dubious reputation.  I not only cede the center early, but I also delay kingside castling for a while."
+3,Qf3,d1f3,rnbqkbnr/p1pppppp/1p6/8/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Hey look- almost checkmated three moves in
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Hey look- almost checkmated three moves in
+5,Bc4,f1c4,rn1qkbnr/pbpppppp/1p6/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,Hey look- almost checkmated three moves in
+6,e6,e7e6,rn1qkbnr/pbpp1ppp/1p2p3/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 4,"As pointed out in the comments, Bxf3 to steal the queen was definitely the better move"
+7,Nc3,b1c3,rn1qkbnr/pbpp1ppp/1p2p3/8/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 1 4,"As pointed out in the comments, Bxf3 to steal the queen was definitely the better move"
+8,f5,f7f5,rn1qkbnr/pbpp2pp/1p2p3/5p2/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 5,"As pointed out in the comments, Bxf3 to steal the queen was definitely the better move"
+9,exf5,e4f5,rn1qkbnr/pbpp2pp/1p2p3/5P2/2B5/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 0 5,"As pointed out in the comments, Bxf3 to steal the queen was definitely the better move"
+10,exf5,e6f5,rn1qkbnr/pbpp2pp/1p6/5p2/2B5/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 6,"As pointed out in the comments, Bxf3 to steal the queen was definitely the better move"
+11,Qxf5,f3f5,rn1qkbnr/pbpp2pp/1p6/5Q2/2B5/2N5/PPPP1PPP/R1B1K1NR b KQkq - 0 6,Not particularly sure what I was thinking with that exchange- I must have just miscalculated
+12,Qe7+,d8e7,rn2kbnr/pbppq1pp/1p6/5Q2/2B5/2N5/PPPP1PPP/R1B1K1NR w KQkq - 1 7,The correct move would have been Bxg2
+13,Nge2,g1e2,rn2kbnr/pbppq1pp/1p6/5Q2/2B5/2N5/PPPPNPPP/R1B1K2R b KQkq - 2 7,The correct move would have been Bxg2
+14,Nc6,b8c6,r3kbnr/pbppq1pp/1pn5/5Q2/2B5/2N5/PPPPNPPP/R1B1K2R w KQkq - 3 8,The correct move would have been Bxg2
+15,Bxg8,c4g8,r3kbBr/pbppq1pp/1pn5/5Q2/8/2N5/PPPPNPPP/R1B1K2R b KQkq - 0 8,"I was too stingy to give up another pawn, and I think I paid for it."
+16,g6,g7g6,r3kbBr/pbppq2p/1pn3p1/5Q2/8/2N5/PPPPNPPP/R1B1K2R w KQkq - 0 9,"I was too stingy to give up another pawn, and I think I paid for it."
+17,Qd5,f5d5,r3kbBr/pbppq2p/1pn3p1/3Q4/8/2N5/PPPPNPPP/R1B1K2R b KQkq - 1 9,"QxB would probably have been better, although the Fritz chess engine has them about equal."
+18,Na5,c6a5,r3kbBr/pbppq2p/1p4p1/n2Q4/8/2N5/PPPPNPPP/R1B1K2R w KQkq - 2 10,"QxB would probably have been better, although the Fritz chess engine has them about equal."
+19,Bf7+,g8f7,r3kb1r/pbppqB1p/1p4p1/n2Q4/8/2N5/PPPPNPPP/R1B1K2R b KQkq - 3 10,"QxB would probably have been better, although the Fritz chess engine has them about equal."
+20,Kd8,e8d8,r2k1b1r/pbppqB1p/1p4p1/n2Q4/8/2N5/PPPPNPPP/R1B1K2R w KQ - 4 11,I missed Bxg2 again here
+21,Qd4,d5d4,r2k1b1r/pbppqB1p/1p4p1/n7/3Q4/2N5/PPPPNPPP/R1B1K2R b KQ - 5 11,I missed Bxg2 again here
+22,Qxf7,e7f7,r2k1b1r/pbpp1q1p/1p4p1/n7/3Q4/2N5/PPPPNPPP/R1B1K2R w KQ - 0 12,I missed Bxg2 again here
+23,Qxh8,d4h8,r2k1b1Q/pbpp1q1p/1p4p1/n7/8/2N5/PPPPNPPP/R1B1K2R b KQ - 0 12,I missed Bxg2 again here
+24,Qg7,f7g7,r2k1b1Q/pbpp2qp/1p4p1/n7/8/2N5/PPPPNPPP/R1B1K2R w KQ - 1 13,I missed Bxg2 again here
+25,Qxg7,h8g7,r2k1b2/pbpp2Qp/1p4p1/n7/8/2N5/PPPPNPPP/R1B1K2R b KQ - 0 13,"Now I'm a rook and a pawn down, with no chance to castle and my knight at the edge of the board.  On the plus side, my bishops are very well placed."
+26,Bxg7,f8g7,r2k4/pbpp2bp/1p4p1/n7/8/2N5/PPPPNPPP/R1B1K2R w KQ - 0 14,"Now I'm a rook and a pawn down, with no chance to castle and my knight at the edge of the board.  On the plus side, my bishops are very well placed."
+27,O-O,e1g1,r2k4/pbpp2bp/1p4p1/n7/8/2N5/PPPPNPPP/R1B2RK1 b - - 1 14,Giving my rook a way to get out.
+28,Nc4,a5c4,r2k4/pbpp2bp/1p4p1/8/2n5/2N5/PPPPNPPP/R1B2RK1 w - - 2 15,Giving my rook a way to get out.
+29,d3,d2d3,r2k4/pbpp2bp/1p4p1/8/2n5/2NP4/PPP1NPPP/R1B2RK1 b - - 0 15,Giving my rook a way to get out.
+30,Nd6,c4d6,r2k4/pbpp2bp/1p1n2p1/8/8/2NP4/PPP1NPPP/R1B2RK1 w - - 1 16,Giving my rook a way to get out.
+31,Bf4,c1f4,r2k4/pbpp2bp/1p1n2p1/8/5B2/2NP4/PPP1NPPP/R4RK1 b - - 2 16,Giving my rook a way to get out.
+32,Ke7,d8e7,r7/pbppk1bp/1p1n2p1/8/5B2/2NP4/PPP1NPPP/R4RK1 w - - 3 17,Giving my rook a way to get out.
+33,Bxd6+,f4d6,r7/pbppk1bp/1p1B2p1/8/8/2NP4/PPP1NPPP/R4RK1 b - - 0 17,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+34,Kxd6,e7d6,r7/pbpp2bp/1p1k2p1/8/8/2NP4/PPP1NPPP/R4RK1 w - - 0 18,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+35,a4,a2a4,r7/pbpp2bp/1p1k2p1/8/P7/2NP4/1PP1NPPP/R4RK1 b - - 0 18,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+36,Re8,a8e8,4r3/pbpp2bp/1p1k2p1/8/P7/2NP4/1PP1NPPP/R4RK1 w - - 1 19,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+37,Nb5+,c3b5,4r3/pbpp2bp/1p1k2p1/1N6/P7/3P4/1PP1NPPP/R4RK1 b - - 2 19,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+38,Ke7,d6e7,4r3/pbppk1bp/1p4p1/1N6/P7/3P4/1PP1NPPP/R4RK1 w - - 3 20,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+39,Rab1,a1b1,4r3/pbppk1bp/1p4p1/1N6/P7/3P4/1PP1NPPP/1R3RK1 b - - 4 20,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+40,Kd8,e7d8,3kr3/pbpp2bp/1p4p1/1N6/P7/3P4/1PP1NPPP/1R3RK1 w - - 5 21,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+41,Rfe1,f1e1,3kr3/pbpp2bp/1p4p1/1N6/P7/3P4/1PP1NPPP/1R2R1K1 b - - 6 21,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+42,Re5,e8e5,3k4/pbpp2bp/1p4p1/1N2r3/P7/3P4/1PP1NPPP/1R2R1K1 w - - 7 22,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+43,d4,d3d4,3k4/pbpp2bp/1p4p1/1N2r3/P2P4/8/1PP1NPPP/1R2R1K1 b - - 0 22,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+44,Rg5,e5g5,3k4/pbpp2bp/1p4p1/1N4r1/P2P4/8/1PP1NPPP/1R2R1K1 w - - 1 23,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+45,g3,g2g3,3k4/pbpp2bp/1p4p1/1N4r1/P2P4/6P1/1PP1NP1P/1R2R1K1 b - - 0 23,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+46,Bf8,g7f8,3k1b2/pbpp3p/1p4p1/1N4r1/P2P4/6P1/1PP1NP1P/1R2R1K1 w - - 1 24,"The pawn at d4 was quite well defended, so I guess I just wanted a little more mobility"
+47,h4,h2h4,3k1b2/pbpp3p/1p4p1/1N4r1/P2P3P/6P1/1PP1NP2/1R2R1K1 b - - 0 24,Rather last ditch effort to get a checkmate
+48,Rf5,g5f5,3k1b2/pbpp3p/1p4p1/1N3r2/P2P3P/6P1/1PP1NP2/1R2R1K1 w - - 1 25,Rather last ditch effort to get a checkmate
+49,Nxa7,b5a7,3k1b2/Nbpp3p/1p4p1/5r2/P2P3P/6P1/1PP1NP2/1R2R1K1 b - - 0 25,Rather last ditch effort to get a checkmate
+50,c5,c7c5,3k1b2/Nb1p3p/1p4p1/2p2r2/P2P3P/6P1/1PP1NP2/1R2R1K1 w - - 0 26,Rather last ditch effort to get a checkmate
+51,g4,g3g4,3k1b2/Nb1p3p/1p4p1/2p2r2/P2P2PP/8/1PP1NP2/1R2R1K1 b - - 0 26,Rather last ditch effort to get a checkmate
+52,Rf3,f5f3,3k1b2/Nb1p3p/1p4p1/2p5/P2P2PP/5r2/1PP1NP2/1R2R1K1 w - - 1 27,Rather last ditch effort to get a checkmate
+53,b4,b2b4,3k1b2/Nb1p3p/1p4p1/2p5/PP1P2PP/5r2/2P1NP2/1R2R1K1 b - - 0 27,Rather last ditch effort to get a checkmate
+54,Rh3,f3h3,3k1b2/Nb1p3p/1p4p1/2p5/PP1P2PP/7r/2P1NP2/1R2R1K1 w - - 1 28,Rather last ditch effort to get a checkmate
+55,Ng3,e2g3,3k1b2/Nb1p3p/1p4p1/2p5/PP1P2PP/6Nr/2P2P2/1R2R1K1 b - - 2 28,I was looking very hard for a perpetual check to get the draw
+56,Bd6,f8d6,3k4/Nb1p3p/1p1b2p1/2p5/PP1P2PP/6Nr/2P2P2/1R2R1K1 w - - 3 29,I was looking very hard for a perpetual check to get the draw
+57,bxc5,b4c5,3k4/Nb1p3p/1p1b2p1/2P5/P2P2PP/6Nr/2P2P2/1R2R1K1 b - - 0 29,I was looking very hard for a perpetual check to get the draw
+58,Bxg3,d6g3,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/6br/2P2P2/1R2R1K1 w - - 0 30,I was looking very hard for a perpetual check to get the draw
+59,fxg3,f2g3,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/6Pr/2P5/1R2R1K1 b - - 0 30,I was looking very hard for a perpetual check to get the draw
+60,Rxg3+,h3g3,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/6r1/2P5/1R2R1K1 w - - 0 31,I was looking very hard for a perpetual check to get the draw
+61,Kh2,g1h2,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/6r1/2P4K/1R2R3 b - - 1 31,I was looking very hard for a perpetual check to get the draw
+62,Rg2+,g3g2,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/8/2P3rK/1R2R3 w - - 2 32,I was looking very hard for a perpetual check to get the draw
+63,Kh3,h2h3,3k4/Nb1p3p/1p4p1/2P5/P2P2PP/7K/2P3r1/1R2R3 b - - 3 32,I was looking very hard for a perpetual check to get the draw
+64,Bf3,b7f3,3k4/N2p3p/1p4p1/2P5/P2P2PP/5b1K/2P3r1/1R2R3 w - - 4 33,I was looking very hard for a perpetual check to get the draw
+65,Rxb6,b1b6,3k4/N2p3p/1R4p1/2P5/P2P2PP/5b1K/2P3r1/4R3 b - - 0 33,I was looking very hard for a perpetual check to get the draw
+66,Rxg4,g2g4,3k4/N2p3p/1R4p1/2P5/P2P2rP/5b1K/2P5/4R3 w - - 0 34,I was looking very hard for a perpetual check to get the draw
+67,c6,c5c6,3k4/N2p3p/1RP3p1/8/P2P2rP/5b1K/2P5/4R3 b - - 0 34,I was looking very hard for a perpetual check to get the draw
+68,g5,g6g5,3k4/N2p3p/1RP5/6p1/P2P2rP/5b1K/2P5/4R3 w - - 0 35,I was looking very hard for a perpetual check to get the draw
+69,Re3,e1e3,3k4/N2p3p/1RP5/6p1/P2P2rP/4Rb1K/2P5/8 b - - 1 35,I was looking very hard for a perpetual check to get the draw
+70,Rxh4+,g4h4,3k4/N2p3p/1RP5/6p1/P2P3r/4Rb1K/2P5/8 w - - 0 36,I was looking very hard for a perpetual check to get the draw
+71,Kg3,h3g3,3k4/N2p3p/1RP5/6p1/P2P3r/4RbK1/2P5/8 b - - 1 36,I was looking very hard for a perpetual check to get the draw
+72,Bd1,f3d1,3k4/N2p3p/1RP5/6p1/P2P3r/4R1K1/2P5/3b4 w - - 2 37,I was looking very hard for a perpetual check to get the draw
+73,Rb8+,b6b8,1R1k4/N2p3p/2P5/6p1/P2P3r/4R1K1/2P5/3b4 b - - 3 37,I was looking very hard for a perpetual check to get the draw
+74,Kc7,d8c7,1R6/N1kp3p/2P5/6p1/P2P3r/4R1K1/2P5/3b4 w - - 4 38,I was looking very hard for a perpetual check to get the draw
+75,Rc8+,b8c8,2R5/N1kp3p/2P5/6p1/P2P3r/4R1K1/2P5/3b4 b - - 5 38,I was looking very hard for a perpetual check to get the draw
+76,Kb6,c7b6,2R5/N2p3p/1kP5/6p1/P2P3r/4R1K1/2P5/3b4 w - - 6 39,I was looking very hard for a perpetual check to get the draw
+77,Kg2,g3g2,2R5/N2p3p/1kP5/6p1/P2P3r/4R3/2P3K1/3b4 b - - 7 39,I was looking very hard for a perpetual check to get the draw
+78,Rg4+,h4g4,2R5/N2p3p/1kP5/6p1/P2P2r1/4R3/2P3K1/3b4 w - - 8 40,I was looking very hard for a perpetual check to get the draw
+79,Rg3,e3g3,2R5/N2p3p/1kP5/6p1/P2P2r1/6R1/2P3K1/3b4 b - - 9 40,I was looking very hard for a perpetual check to get the draw
+80,Rxd4,g4d4,2R5/N2p3p/1kP5/6p1/P2r4/6R1/2P3K1/3b4 w - - 0 41,I was looking very hard for a perpetual check to get the draw
+81,Rd3,g3d3,2R5/N2p3p/1kP5/6p1/P2r4/3R4/2P3K1/3b4 b - - 1 41,I was looking very hard for a perpetual check to get the draw
+82,Rg4+,d4g4,2R5/N2p3p/1kP5/6p1/P5r1/3R4/2P3K1/3b4 w - - 2 42,I was looking very hard for a perpetual check to get the draw
+83,Kf1,g2f1,2R5/N2p3p/1kP5/6p1/P5r1/3R4/2P5/3b1K2 b - - 3 42,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+84,Rf4+,g4f4,2R5/N2p3p/1kP5/6p1/P4r2/3R4/2P5/3b1K2 w - - 4 43,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+85,Ke1,f1e1,2R5/N2p3p/1kP5/6p1/P4r2/3R4/2P5/3bK3 b - - 5 43,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+86,Bxc2,d1c2,2R5/N2p3p/1kP5/6p1/P4r2/3R4/2b5/4K3 w - - 0 44,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+87,Rxd7,d3d7,2R5/N2R3p/1kP5/6p1/P4r2/8/2b5/4K3 b - - 0 44,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+88,Re4+,f4e4,2R5/N2R3p/1kP5/6p1/P3r3/8/2b5/4K3 w - - 1 45,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+89,Kd2,e1d2,2R5/N2R3p/1kP5/6p1/P3r3/8/2bK4/8 b - - 2 45,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+90,Bxa4,c2a4,2R5/N2R3p/1kP5/6p1/b3r3/8/3K4/8 w - - 0 46,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+91,Rb8+,c8b8,1R6/N2R3p/1kP5/6p1/b3r3/8/3K4/8 b - - 1 46,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+92,Kc5,b6c5,1R6/N2R3p/2P5/2k3p1/b3r3/8/3K4/8 w - - 2 47,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+93,c7,c6c7,1R6/N1PR3p/8/2k3p1/b3r3/8/3K4/8 b - - 0 47,"I think this was a mistake by white- he's willing to sacrifice his rook to promote a pawn, but he can't promote the pawn after Bxd7."
+94,Bxd7,a4d7,1R6/N1Pb3p/8/2k3p1/4r3/8/3K4/8 w - - 0 48,Pawn grabbing time.
+95,Rh8,b8h8,7R/N1Pb3p/8/2k3p1/4r3/8/3K4/8 b - - 1 48,Pawn grabbing time.
+96,Kd6,c5d6,7R/N1Pb3p/3k4/6p1/4r3/8/3K4/8 w - - 2 49,"This might have been a mistake by me.  I was willing to sacrifice my rook to take his pawn, thinking he couldn't do much with the rook and knight against my bishop and two pawns."
+97,Kd3,d2d3,7R/N1Pb3p/3k4/6p1/4r3/3K4/8/8 b - - 3 49,"This might have been a mistake by me.  I was willing to sacrifice my rook to take his pawn, thinking he couldn't do much with the rook and knight against my bishop and two pawns."
+98,Kxc7,d6c7,7R/N1kb3p/8/6p1/4r3/3K4/8/8 w - - 0 50,The only safe place for that pawn- I was hoping to eventually trade the pawn and my bishop for his rook.
+99,Kxe4,d3e4,7R/N1kb3p/8/6p1/4K3/8/8/8 b - - 0 50,The only safe place for that pawn- I was hoping to eventually trade the pawn and my bishop for his rook.
+100,g4,g5g4,7R/N1kb3p/8/8/4K1p1/8/8/8 w - - 0 51,The only safe place for that pawn- I was hoping to eventually trade the pawn and my bishop for his rook.
+101,Kf4,e4f4,7R/N1kb3p/8/8/5Kp1/8/8/8 b - - 1 51,Not sure why I didn't move to b6 instead
+102,Kd6,c7d6,7R/N2b3p/3k4/8/5Kp1/8/8/8 w - - 2 52,Not sure why I didn't move to b6 instead
+103,Rxh7,h8h7,8/N2b3R/3k4/8/5Kp1/8/8/8 b - - 0 52,Not sure why I didn't move to b6 instead
+104,Kc7,d6c7,8/N1kb3R/8/8/5Kp1/8/8/8 w - - 1 53,Not sure why I didn't move to b6 instead
+105,Rh5,h7h5,8/N1kb4/8/7R/5Kp1/8/8/8 b - - 2 53,Not sure why I didn't move to b6 instead
+106,Kd6,c7d6,8/N2b4/3k4/7R/5Kp1/8/8/8 w - - 3 54,Not sure why I didn't move to b6 instead
+107,Rh1,h5h1,8/N2b4/3k4/8/5Kp1/8/8/7R b - - 4 54,Trading the bishop for the knight wasn't acceptable
+108,Kc7,d6c7,8/N1kb4/8/8/5Kp1/8/8/7R w - - 5 55,Trading the bishop for the knight wasn't acceptable
+109,Rb1,h1b1,8/N1kb4/8/8/5Kp1/8/8/1R6 b - - 6 55,Trading the bishop for the knight wasn't acceptable
+110,Kd6,c7d6,8/N2b4/3k4/8/5Kp1/8/8/1R6 w - - 7 56,Trading the bishop for the knight wasn't acceptable
+111,Nb5+,a7b5,8/3b4/3k4/1N6/5Kp1/8/8/1R6 b - - 8 56,Trading the bishop for the knight wasn't acceptable
+112,Ke7,d6e7,8/3bk3/8/1N6/5Kp1/8/8/1R6 w - - 9 57,Trading the bishop for the knight wasn't acceptable
+113,Nd4,b5d4,8/3bk3/8/8/3N1Kp1/8/8/1R6 b - - 10 57,Trading the bishop for the knight wasn't acceptable
+114,Kf6,e7f6,8/3b4/5k2/8/3N1Kp1/8/8/1R6 w - - 11 58,Trading the bishop for the knight wasn't acceptable
+115,Rb7,b1b7,8/1R1b4/5k2/8/3N1Kp1/8/8/8 b - - 12 58,"I think I'm lost here no matter what, but I'm not sure I even saw the rook fork."
+116,Bc8,d7c8,2b5/1R6/5k2/8/3N1Kp1/8/8/8 w - - 13 59,"I think I'm lost here no matter what, but I'm not sure I even saw the rook fork."
+117,Rc7,b7c7,2b5/2R5/5k2/8/3N1Kp1/8/8/8 b - - 14 59,"I think I'm lost here no matter what, but I'm not sure I even saw the rook fork."
+118,Ba6,c8a6,8/2R5/b4k2/8/3N1Kp1/8/8/8 w - - 15 60,"I think I'm lost here no matter what, but I'm not sure I even saw the rook fork."

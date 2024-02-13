@@ -1,0 +1,86 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+5,c4,c2c4,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,This setup can often leave Black with an isolated pawn--which can be good or bad depending on the activity it gives the pieces.
+7,cxd5,c4d5,rnbqkbnr/pp3ppp/4p3/2pP4/3P4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 4,Black's d-pawn is now isolated and can become a target.
+8,exd5,e6d5,rnbqkbnr/pp3ppp/8/2pp4/3P4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 5,Black's d-pawn is now isolated and can become a target.
+9,dxc5,d4c5,rnbqkbnr/pp3ppp/8/2Pp4/8/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 5,Black's d-pawn is now isolated and can become a target.
+10,Bxc5,f8c5,rnbqk1nr/pp3ppp/8/2bp4/8/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 6,Black's d-pawn is now isolated and can become a target.
+11,g3,g2g3,rnbqk1nr/pp3ppp/8/2bp4/8/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 6,It's not clear if h6 is useful since White's dark-square Bishop has good squares besides g5.
+12,h6,h7h6,rnbqk1nr/pp3pp1/7p/2bp4/8/5NP1/PP2PP1P/RNBQKB1R w KQkq - 0 7,It's not clear if h6 is useful since White's dark-square Bishop has good squares besides g5.
+13,Bg2,f1g2,rnbqk1nr/pp3pp1/7p/2bp4/8/5NP1/PP2PPBP/RNBQK2R b KQkq - 1 7,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+14,Nf6,g8f6,rnbqk2r/pp3pp1/5n1p/2bp4/8/5NP1/PP2PPBP/RNBQK2R w KQkq - 2 8,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+15,O-O,e1g1,rnbqk2r/pp3pp1/5n1p/2bp4/8/5NP1/PP2PPBP/RNBQ1RK1 b kq - 3 8,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+16,O-O,e8g8,rnbq1rk1/pp3pp1/5n1p/2bp4/8/5NP1/PP2PPBP/RNBQ1RK1 w - - 4 9,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+17,Nc3,b1c3,rnbq1rk1/pp3pp1/5n1p/2bp4/8/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 5 9,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+18,d4,d5d4,rnbq1rk1/pp3pp1/5n1p/2b5/3p4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 10,"This push to d4 loses the pawn.  It's attacked twice and defended twice right now, but one of the defenders can be removed."
+19,Na4,c3a4,rnbq1rk1/pp3pp1/5n1p/2b5/N2p4/5NP1/PP2PPBP/R1BQ1RK1 b - - 1 10,"Now that the defender has been removed, the pawn is loose."
+20,Bb6,c5b6,rnbq1rk1/pp3pp1/1b3n1p/8/N2p4/5NP1/PP2PPBP/R1BQ1RK1 w - - 2 11,"Now that the defender has been removed, the pawn is loose."
+21,Nxb6,a4b6,rnbq1rk1/pp3pp1/1N3n1p/8/3p4/5NP1/PP2PPBP/R1BQ1RK1 b - - 0 11,"Now that the defender has been removed, the pawn is loose."
+22,Qxb6,d8b6,rnb2rk1/pp3pp1/1q3n1p/8/3p4/5NP1/PP2PPBP/R1BQ1RK1 w - - 0 12,"Now that the defender has been removed, the pawn is loose."
+23,Qxd4,d1d4,rnb2rk1/pp3pp1/1q3n1p/8/3Q4/5NP1/PP2PPBP/R1B2RK1 b - - 0 12,"White is now a pawn up.  In addition, Black's development will be slowed by the centralized N.  Black can't move the B with dropping the b pawn.  And if the N moves to c6, the b pawn also hangs."
+24,Qxd4,b6d4,rnb2rk1/pp3pp1/5n1p/8/3q4/5NP1/PP2PPBP/R1B2RK1 w - - 0 13,"White is now a pawn up.  In addition, Black's development will be slowed by the centralized N.  Black can't move the B with dropping the b pawn.  And if the N moves to c6, the b pawn also hangs."
+25,Nxd4,f3d4,rnb2rk1/pp3pp1/5n1p/8/3N4/6P1/PP2PPBP/R1B2RK1 b - - 0 13,"White is now a pawn up.  In addition, Black's development will be slowed by the centralized N.  Black can't move the B with dropping the b pawn.  And if the N moves to c6, the b pawn also hangs."
+26,Rd8,f8d8,rnbr2k1/pp3pp1/5n1p/8/3N4/6P1/PP2PPBP/R1B2RK1 w - - 1 14,The B on c3 threatens to eventually create another weakness by capturing on f6.
+27,e3,e2e3,rnbr2k1/pp3pp1/5n1p/8/3N4/4P1P1/PP3PBP/R1B2RK1 b - - 0 14,The B on c3 threatens to eventually create another weakness by capturing on f6.
+28,Na6,b8a6,r1br2k1/pp3pp1/n4n1p/8/3N4/4P1P1/PP3PBP/R1B2RK1 w - - 1 15,The B on c3 threatens to eventually create another weakness by capturing on f6.
+29,Bd2,c1d2,r1br2k1/pp3pp1/n4n1p/8/3N4/4P1P1/PP1B1PBP/R4RK1 b - - 2 15,The B on c3 threatens to eventually create another weakness by capturing on f6.
+30,Nc5,a6c5,r1br2k1/pp3pp1/5n1p/2n5/3N4/4P1P1/PP1B1PBP/R4RK1 w - - 3 16,The B on c3 threatens to eventually create another weakness by capturing on f6.
+31,Bc3,d2c3,r1br2k1/pp3pp1/5n1p/2n5/3N4/2B1P1P1/PP3PBP/R4RK1 b - - 4 16,The B on c3 threatens to eventually create another weakness by capturing on f6.
+32,Nce4,c5e4,r1br2k1/pp3pp1/5n1p/8/3Nn3/2B1P1P1/PP3PBP/R4RK1 w - - 5 17,Recapturing with the pawn on c3 would leave an isolated pawn on an open file to become a target.
+33,Rac1,a1c1,r1br2k1/pp3pp1/5n1p/8/3Nn3/2B1P1P1/PP3PBP/2R2RK1 b - - 6 17,Recapturing with the pawn on c3 would leave an isolated pawn on an open file to become a target.
+34,Nc5,e4c5,r1br2k1/pp3pp1/5n1p/2n5/3N4/2B1P1P1/PP3PBP/2R2RK1 w - - 7 18,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+35,Rfd1,f1d1,r1br2k1/pp3pp1/5n1p/2n5/3N4/2B1P1P1/PP3PBP/2RR2K1 b - - 8 18,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+36,Bg4,c8g4,r2r2k1/pp3pp1/5n1p/2n5/3N2b1/2B1P1P1/PP3PBP/2RR2K1 w - - 9 19,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+37,Nf3,d4f3,r2r2k1/pp3pp1/5n1p/2n5/6b1/2B1PNP1/PP3PBP/2RR2K1 b - - 10 19,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+38,Rxd1+,d8d1,r5k1/pp3pp1/5n1p/2n5/6b1/2B1PNP1/PP3PBP/2Rr2K1 w - - 0 20,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+39,Rxd1,c1d1,r5k1/pp3pp1/5n1p/2n5/6b1/2B1PNP1/PP3PBP/3R2K1 b - - 0 20,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+40,Nce4,c5e4,r5k1/pp3pp1/5n1p/8/4n1b1/2B1PNP1/PP3PBP/3R2K1 w - - 1 21,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+41,Rc1,d1c1,r5k1/pp3pp1/5n1p/8/4n1b1/2B1PNP1/PP3PBP/2R3K1 b - - 2 21,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+42,Bxf3,g4f3,r5k1/pp3pp1/5n1p/8/4n3/2B1PbP1/PP3PBP/2R3K1 w - - 0 22,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+43,Bxf3,g2f3,r5k1/pp3pp1/5n1p/8/4n3/2B1PBP1/PP3P1P/2R3K1 b - - 0 22,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+44,Nxc3,e4c3,r5k1/pp3pp1/5n1p/8/8/2n1PBP1/PP3P1P/2R3K1 w - - 0 23,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+45,Rxc3,c1c3,r5k1/pp3pp1/5n1p/8/8/2R1PBP1/PP3P1P/6K1 b - - 0 23,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+46,Rb8,a8b8,1r4k1/pp3pp1/5n1p/8/8/2R1PBP1/PP3P1P/6K1 w - - 1 24,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+47,Rc7,c3c7,1r4k1/ppR2pp1/5n1p/8/8/4PBP1/PP3P1P/6K1 b - - 2 24,"b7 is now a target.  If the b-pawn moves, the a-pawn hangs."
+48,Ne8,f6e8,1r2n1k1/ppR2pp1/7p/8/8/4PBP1/PP3P1P/6K1 w - - 3 25,Winning a second pawn.
+49,Rxb7,c7b7,1r2n1k1/pR3pp1/7p/8/8/4PBP1/PP3P1P/6K1 b - - 0 25,Winning a second pawn.
+50,Ra8,b8a8,r3n1k1/pR3pp1/7p/8/8/4PBP1/PP3P1P/6K1 w - - 1 26,"This allows a discovered attack on the a8 R, which wins another pawn."
+51,Rxf7,b7f7,r3n1k1/p4Rp1/7p/8/8/4PBP1/PP3P1P/6K1 b - - 0 26,"If Kxf7, Bxa8."
+52,Rb8,a8b8,1r2n1k1/p4Rp1/7p/8/8/4PBP1/PP3P1P/6K1 w - - 1 27,"White is winning here.  There are pawn majorities on both sides of the board.  The e-pawn is now a passed pawn.  And with pawns on both sides, the B should be superior to the N due to its speed."
+53,Rb7,f7b7,1r2n1k1/pR4p1/7p/8/8/4PBP1/PP3P1P/6K1 b - - 2 27,"White is winning here.  There are pawn majorities on both sides of the board.  The e-pawn is now a passed pawn.  And with pawns on both sides, the B should be superior to the N due to its speed."
+54,Rxb7,b8b7,4n1k1/pr4p1/7p/8/8/4PBP1/PP3P1P/6K1 w - - 0 28,"White is winning here.  There are pawn majorities on both sides of the board.  The e-pawn is now a passed pawn.  And with pawns on both sides, the B should be superior to the N due to its speed."
+55,Bxb7,f3b7,4n1k1/pB4p1/7p/8/8/4P1P1/PP3P1P/6K1 b - - 0 28,"White is winning here.  There are pawn majorities on both sides of the board.  The e-pawn is now a passed pawn.  And with pawns on both sides, the B should be superior to the N due to its speed."
+56,Nd6,e8d6,6k1/pB4p1/3n3p/8/8/4P1P1/PP3P1P/6K1 w - - 1 29,"Ideally, one would keep K and B on opposite-colored squares to avoid the possibility of a fork.  Barring that, pay attention!"
+57,Bd5+,b7d5,6k1/p5p1/3n3p/3B4/8/4P1P1/PP3P1P/6K1 b - - 2 29,"Ideally, one would keep K and B on opposite-colored squares to avoid the possibility of a fork.  Barring that, pay attention!"
+58,Kf8,g8f8,5k2/p5p1/3n3p/3B4/8/4P1P1/PP3P1P/6K1 w - - 3 30,"Ideally, one would keep K and B on opposite-colored squares to avoid the possibility of a fork.  Barring that, pay attention!"
+59,Kf1,g1f1,5k2/p5p1/3n3p/3B4/8/4P1P1/PP3P1P/5K2 b - - 4 30,"Ideally, one would keep K and B on opposite-colored squares to avoid the possibility of a fork.  Barring that, pay attention!"
+60,Ke7,f8e7,8/p3k1p1/3n3p/3B4/8/4P1P1/PP3P1P/5K2 w - - 5 31,"If Nxc4, White has a second passed pawn."
+61,Ke2,f1e2,8/p3k1p1/3n3p/3B4/8/4P1P1/PP2KP1P/8 b - - 6 31,"If Nxc4, White has a second passed pawn."
+62,Nc8,d6c8,2n5/p3k1p1/7p/3B4/8/4P1P1/PP2KP1P/8 w - - 7 32,"If Nxc4, White has a second passed pawn."
+63,b3,b2b3,2n5/p3k1p1/7p/3B4/8/1P2P1P1/P3KP1P/8 b - - 0 32,"If Nxc4, White has a second passed pawn."
+64,Nb6,c8b6,8/p3k1p1/1n5p/3B4/8/1P2P1P1/P3KP1P/8 w - - 1 33,"If Nxc4, White has a second passed pawn."
+65,Bc4,d5c4,8/p3k1p1/1n5p/8/2B5/1P2P1P1/P3KP1P/8 b - - 2 33,"If Nxc4, White has a second passed pawn."
+66,Kf6,e7f6,8/p5p1/1n3k1p/8/2B5/1P2P1P1/P3KP1P/8 w - - 3 34,"The idea to break up the White pawns is a good one, but here White has a check."
+67,e4,e3e4,8/p5p1/1n3k1p/8/2B1P3/1P4P1/P3KP1P/8 b - - 0 34,"The idea to break up the White pawns is a good one, but here White has a check."
+68,a5,a7a5,8/6p1/1n3k1p/p7/2B1P3/1P4P1/P3KP1P/8 w - - 0 35,"The idea to break up the White pawns is a good one, but here White has a check."
+69,Ke3,e2e3,8/6p1/1n3k1p/p7/2B1P3/1P2K1P1/P4P1P/8 b - - 1 35,"The idea to break up the White pawns is a good one, but here White has a check."
+70,Nd7,b6d7,8/3n2p1/5k1p/p7/2B1P3/1P2K1P1/P4P1P/8 w - - 2 36,"The idea to break up the White pawns is a good one, but here White has a check."
+71,f4,f2f4,8/3n2p1/5k1p/p7/2B1PP2/1P2K1P1/P6P/8 b - - 0 36,"The idea to break up the White pawns is a good one, but here White has a check."
+72,Nb6,d7b6,8/6p1/1n3k1p/p7/2B1PP2/1P2K1P1/P6P/8 w - - 1 37,"The idea to break up the White pawns is a good one, but here White has a check."
+73,g4,g3g4,8/6p1/1n3k1p/p7/2B1PPP1/1P2K3/P6P/8 b - - 0 37,"The idea to break up the White pawns is a good one, but here White has a check."
+74,g5,g7g5,8/8/1n3k1p/p5p1/2B1PPP1/1P2K3/P6P/8 w - - 0 38,"The idea to break up the White pawns is a good one, but here White has a check."
+75,e5+,e4e5,8/8/1n3k1p/p3P1p1/2B2PP1/1P2K3/P6P/8 b - - 0 38,Now White has two passed pawns.  Black's h-pawn is also backward and can't move without being captured and creating another passer.
+76,Ke7,f6e7,8/4k3/1n5p/p3P1p1/2B2PP1/1P2K3/P6P/8 w - - 1 39,Now White has two passed pawns.  Black's h-pawn is also backward and can't move without being captured and creating another passer.
+77,f5,f4f5,8/4k3/1n5p/p3PPp1/2B3P1/1P2K3/P6P/8 b - - 0 39,Now White has two passed pawns.  Black's h-pawn is also backward and can't move without being captured and creating another passer.
+78,Nd7,b6d7,8/3nk3/7p/p3PPp1/2B3P1/1P2K3/P6P/8 w - - 1 40,"Since b5 is available for White's B, moving to b8 gives White's B the opportunity to dominate the N by covering all of its available squares."
+79,Kd4,e3d4,8/3nk3/7p/p3PPp1/2BK2P1/1P6/P6P/8 b - - 2 40,"Since b5 is available for White's B, moving to b8 gives White's B the opportunity to dominate the N by covering all of its available squares."
+80,Nb8,d7b8,1n6/4k3/7p/p3PPp1/2BK2P1/1P6/P6P/8 w - - 3 41,"Since b5 is available for White's B, moving to b8 gives White's B the opportunity to dominate the N by covering all of its available squares."
+81,Bb5,c4b5,1n6/4k3/7p/pB2PPp1/3K2P1/1P6/P6P/8 b - - 4 41,White can't lose now.  Black's pawns are frozen.  White already has two passed pawns on the Kingside and can create a third by force on the Queenside.  Black's lone K will not be able to stop them all.
+82,Nd7,b8d7,8/3nk3/7p/pB2PPp1/3K2P1/1P6/P6P/8 w - - 5 42,White can't lose now.  Black's pawns are frozen.  White already has two passed pawns on the Kingside and can create a third by force on the Queenside.  Black's lone K will not be able to stop them all.
+83,Bxd7,b5d7,8/3Bk3/7p/p3PPp1/3K2P1/1P6/P6P/8 b - - 0 42,White can't lose now.  Black's pawns are frozen.  White already has two passed pawns on the Kingside and can create a third by force on the Queenside.  Black's lone K will not be able to stop them all.
+84,Kxd7,e7d7,8/3k4/7p/p3PPp1/3K2P1/1P6/P6P/8 w - - 0 43,White can't lose now.  Black's pawns are frozen.  White already has two passed pawns on the Kingside and can create a third by force on the Queenside.  Black's lone K will not be able to stop them all.
+85,Kc5,d4c5,8/3k4/7p/p1K1PPp1/6P1/1P6/P6P/8 b - - 1 43,Black correctly resigned here.  The passed pawns will not be able to be stopped.

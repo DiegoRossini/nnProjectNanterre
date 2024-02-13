@@ -1,0 +1,174 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This game is one of my favorites for several reasons.  The first is the fact that I found my longest forced mating line to date (March 2008) in this game, an 18-ply forced mate at move 14 (which ended up being only 9 ply in practice, but the game was over, regardless).  The second is the quick way my attack springs into action in response to several subtle (and not so subtle) errors by my opponent.  The third is due to a fundamental aspect of the game; my opponent's defense crumbles rapidly for positional reasons, mostly due to self-inflicted weaknesses in his pawn-chain.  
+
+Pawn maintenance is increasingly my dominant consideration during play, although I still have pawn chains implode from time to time.
+
+The primary lesson to take from this game is one of pawn-structure management. Changes in your pawn structure are not to be made lightly - an entire chain of pawns imploding upon itself
+is an ugly sight (I've had this happen to me more often than I care to recall) - and even successful changes mean a long term shift in the positional requirements of future play.  Pawn structure maintenance is increasingly my dominant consideration during play, although I am still pretty pitiful at it. As a general rule of thumb, you should probably ponder over pawn moves at least twice as long as you ponder over a piece move. On another note, let go ahead and disclose to you that I didn't exactly outshine my opponent in pawn play this game - mine leaves quite a lot to be desired, and I probably would have been sunk had my opponent not made a few critical errors.
+
+Another lesson to take is one about development. Asymmetrical development can be a weapon - learn how to capitalize on your advantages and use spare tempo to control the pace of the game!
+
+All analysis in this annotation have been confirmed (and corrected, where necessary) with Crafty 20.14w32, the multi-threaded version of the Crafty Engine."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The queens gambit is my preferred opening as white, although I'm far from proficient in it.  What little know, I learned from Chris Ward's ""Play the Queens Gambit"" (Everyman).  This is his suggestion for the QGA (ECO:D20)."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"The queens gambit is my preferred opening as white, although I'm far from proficient in it.  What little know, I learned from Chris Ward's ""Play the Queens Gambit"" (Everyman).  This is his suggestion for the QGA (ECO:D20)."
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The queens gambit is my preferred opening as white, although I'm far from proficient in it.  What little know, I learned from Chris Ward's ""Play the Queens Gambit"" (Everyman).  This is his suggestion for the QGA (ECO:D20)."
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,"The queens gambit is my preferred opening as white, although I'm far from proficient in it.  What little know, I learned from Chris Ward's ""Play the Queens Gambit"" (Everyman).  This is his suggestion for the QGA (ECO:D20)."
+6,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/8/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,"Ward awards this move a ""?!"", for being black's most passive option. I certainly agree that it's passive, although probably not unsound."
+7,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/8/2pPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 1 4,"5 ...f6?!
+
+This begins the self-inflicted pawn weaknesses, starting with the already weak f-pawn
+
+5 ...Bb4
+5 ...Nf6
+
+both of which continue normal development, would have been fine."
+8,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n1p3/8/2pPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 2 5,"5 ...f6?!
+
+This begins the self-inflicted pawn weaknesses, starting with the already weak f-pawn
+
+5 ...Bb4
+5 ...Nf6
+
+both of which continue normal development, would have been fine."
+9,Nf3,g1f3,r1bqkbnr/ppp2ppp/2n1p3/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 3 5,"5 ...f6?!
+
+This begins the self-inflicted pawn weaknesses, starting with the already weak f-pawn
+
+5 ...Bb4
+5 ...Nf6
+
+both of which continue normal development, would have been fine."
+10,f6,f7f6,r1bqkbnr/ppp3pp/2n1pp2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,"5 ...f6?!
+
+This begins the self-inflicted pawn weaknesses, starting with the already weak f-pawn
+
+5 ...Bb4
+5 ...Nf6
+
+both of which continue normal development, would have been fine."
+11,Bxc4,f1c4,r1bqkbnr/ppp3pp/2n1pp2/8/2BPP3/2N2N2/PP3PPP/R1BQK2R b KQkq - 0 6,"Crafty likes 7. d5 better (although 0-0 is the second choice), followed by
+7 ...exd5 
+8. exd5 Ne5 
+9. Nxe5 fxe5 
+10.Qh5  Ng6 
+11. Bd3 Qf6
+
+etc, leading to a wide open tactical battle on the king-side."
+12,Nge7,g8e7,r1bqkb1r/ppp1n1pp/2n1pp2/8/2BPP3/2N2N2/PP3PPP/R1BQK2R w KQkq - 1 7,"Crafty likes 7. d5 better (although 0-0 is the second choice), followed by
+7 ...exd5 
+8. exd5 Ne5 
+9. Nxe5 fxe5 
+10.Qh5  Ng6 
+11. Bd3 Qf6
+
+etc, leading to a wide open tactical battle on the king-side."
+13,O-O,e1g1,r1bqkb1r/ppp1n1pp/2n1pp2/8/2BPP3/2N2N2/PP3PPP/R1BQ1RK1 b kq - 2 7,"Crafty likes 7. d5 better (although 0-0 is the second choice), followed by
+7 ...exd5 
+8. exd5 Ne5 
+9. Nxe5 fxe5 
+10.Qh5  Ng6 
+11. Bd3 Qf6
+
+etc, leading to a wide open tactical battle on the king-side."
+14,g6,g7g6,r1bqkb1r/ppp1n2p/2n1ppp1/8/2BPP3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 0 8,"8. Nh4?
+
+A mistake on my part. 7 ...g6 called for the immediate 8. d5!, blowing open the center, whereas Nh4? gives up the d4 pawn. My opponent has developed only two pieces to my three, and both of his bishops are hemmed in by pieces, requiring at least three moves to castle to the queenside (the king-side being dubious because of its altered pawn structure). Note the bottleneck that the knight on e7 causes - its choking the mobility out of both the queen on d8 and the bishop on f8.  
+
+If you see a major log-jam like this in your opponent's camp, always look  for the truly nasty option: pin the piece in place so that the jam cannot be immediately resolved. Your opponent will be tearing his hair out in frustration by the end-game."
+15,Nh4,f3h4,r1bqkb1r/ppp1n2p/2n1ppp1/8/2BPP2N/2N5/PP3PPP/R1BQ1RK1 b kq - 1 8,"8. Nh4?
+
+A mistake on my part. 7 ...g6 called for the immediate 8. d5!, blowing open the center, whereas Nh4? gives up the d4 pawn. My opponent has developed only two pieces to my three, and both of his bishops are hemmed in by pieces, requiring at least three moves to castle to the queenside (the king-side being dubious because of its altered pawn structure). Note the bottleneck that the knight on e7 causes - its choking the mobility out of both the queen on d8 and the bishop on f8.  
+
+If you see a major log-jam like this in your opponent's camp, always look  for the truly nasty option: pin the piece in place so that the jam cannot be immediately resolved. Your opponent will be tearing his hair out in frustration by the end-game."
+16,f5,f6f5,r1bqkb1r/ppp1n2p/2n1p1p1/5p2/2BPP2N/2N5/PP3PPP/R1BQ1RK1 w kq - 0 9,"8. ...f5?!
+Instead
+8. ...Nxd4!
+netting a pawn and destroying my center."
+17,d5,d4d5,r1bqkb1r/ppp1n2p/2n1p1p1/3P1p2/2B1P2N/2N5/PP3PPP/R1BQ1RK1 b kq - 0 9,"Inaccurate, but not necessarily bad. Unfortunately, I fail to take my own advice I outlined above, and don't respond to 8. ...f5 with 9. Bg5!, which would throw a serious spanner in black's future development.
+
+Crafty also likes Bf4 and exf5 over this move."
+18,fxe4,f5e4,r1bqkb1r/ppp1n2p/2n1p1p1/3P4/2B1p2N/2N5/PP3PPP/R1BQ1RK1 w kq - 0 10,"9. ...fxe4?
+
+Of course this move is a blunder, because it gives up the knight on c6. 9. ...Ne5 or was certainly better, and 9. ...Nxd5 would unjam black's pieces quite nicely.
+
+A larger point, however, is the fact that white's king-side pawns are now critically weakened.  The h5-h8 diagonal is a wonderful avenue to attack, and it is often worth sacrificing a piece in order to achieve access to these squares, especially when you have a lead in development."
+19,dxc6,d5c6,r1bqkb1r/ppp1n2p/2P1p1p1/8/2B1p2N/2N5/PP3PPP/R1BQ1RK1 b kq - 0 10,"Black's pawn structure goes from simply bad to complete structural collapse in 3-ply's time.  Black now has two sets of doubled pawns and 4 pawn islands.
+
+The better option was 10. ...Nxc6, keeping the pawn structure somewhat intact."
+20,bxc6,b7c6,r1bqkb1r/p1p1n2p/2p1p1p1/8/2B1p2N/2N5/PP3PPP/R1BQ1RK1 w kq - 0 11,"Black's pawn structure goes from simply bad to complete structural collapse in 3-ply's time.  Black now has two sets of doubled pawns and 4 pawn islands.
+
+The better option was 10. ...Nxc6, keeping the pawn structure somewhat intact."
+21,Bg5,c1g5,r1bqkb1r/p1p1n2p/2p1p1p1/6B1/2B1p2N/2N5/PP3PPP/R2Q1RK1 b kq - 1 11,"This move heaps more misery onto black's position. Black's dark-bishop can be developed to g7, but the light-bishop is going to need some time before it becomes active; any square it goes to needs at least one pawn moved."
+22,Bd7,c8d7,r2qkb1r/p1pbn2p/2p1p1p1/6B1/2B1p2N/2N5/PP3PPP/R2Q1RK1 w kq - 2 12,"Poor. Now black's king is entombed behind his own pieces, with no pawn protection to help defend.
+
+Better was 11 ...Qxd1, putting black at a heavy disadvantage, but would have taken much of the sting out of white's building attack."
+23,Nxe4,c3e4,r2qkb1r/p1pbn2p/2p1p1p1/6B1/2B1N2N/8/PP3PPP/R2Q1RK1 b kq - 0 12,"The tsunami mounts; the knight is headed towards the hole at f6, or the hole at c5.  
+Crafty agrees this is the strongest move."
+24,h6,h7h6,r2qkb1r/p1pbn3/2p1p1pp/6B1/2B1N2N/8/PP3PPP/R2Q1RK1 w kq - 0 13,"11. h6??
+
+This tiny little pawn move seals black's fate. White has four developed and attacking pieces, whereas black has only one piece developed beyond its original square - where it does more harm blocking his own development than any defensive good! Moreover, it further weakens the only stable black pawns on the board.  White's pieces can now flood into the black camp, unopposed by any pesky defensive pawns, while the black pieces are unable to coordinate because of a lack of space."
+25,Nxg6,h4g6,r2qkb1r/p1pbn3/2p1p1Np/6B1/2B1N3/8/PP3PPP/R2Q1RK1 b kq - 0 13,"6. Nxg6!
+
+This is the strongest reply to 11. ...h6, beginning a powerful attack. 
+Look at the holes in black's position, created by to many pawn moves, where my knights have found quite comfortable homes: g6, f6, e5, and c5 are all currently undefended, and my knights have easy access to all of these squares. This is, in fact, just the type of attack knights love to work in, nimbly leaping around defenders who constantly trip over each other, while the bishop on c4 keeps pressure on the isolated e-pawn.
+
+Black's best here is to give up his queen to stall the attack by a few moves.
+13. Nxg6 Nxg6
+14. Bxd8 Kxd8
+15. Bxe6 Ne5
+16. f4 (etc)
+although this is also a hopeless line."
+26,Rg8,h8g8,r2qkbr1/p1pbn3/2p1p1Np/6B1/2B1N3/8/PP3PPP/R2Q1RK1 w q - 1 14,"13. ...Rg8??
+
+I admit this looks superficially tempting, but this is the move that loses the game for black, leading to forced mate."
+27,Nf6+,e4f6,r2qkbr1/p1pbn3/2p1pNNp/6B1/2B5/8/PP3PPP/R2Q1RK1 b q - 2 14,"Looking at the position, I was convinced that there had to be a forced mate for white. After several hours of staring at the analysis board, I finally found it - an 18-ply (9-move) mating line. To date, this is the longest forced mate I have found during play.
+
+14. Nf6+  Kf7
+15. Ne5  Kg7
+16. Qh5 Kh8
+17. Bxh6 Qe8
+18. Nf7  Qxf7
+19. Qxf7   Rg7
+20. Bxg7  Bxg7
+21. Qh5  Bh6
+22. Qxh6"
+28,Kf7,e8f7,r2q1br1/p1pbnk2/2p1pNNp/6B1/2B5/8/PP3PPP/R2Q1RK1 w - - 3 15,"16. Qh5!
+This was the kicker, and the hardest move to decide on during analysis. The placement of the queen here seals the deal; most lines now end in mate."
+29,Ne5+,g6e5,r2q1br1/p1pbnk2/2p1pN1p/4N1B1/2B5/8/PP3PPP/R2Q1RK1 b - - 4 15,"16. Qh5!
+This was the kicker, and the hardest move to decide on during analysis. The placement of the queen here seals the deal; most lines now end in mate."
+30,Kg7,f7g7,r2q1br1/p1pbn1k1/2p1pN1p/4N1B1/2B5/8/PP3PPP/R2Q1RK1 w - - 5 16,"16. Qh5!
+This was the kicker, and the hardest move to decide on during analysis. The placement of the queen here seals the deal; most lines now end in mate."
+31,Qh5,d1h5,r2q1br1/p1pbn1k1/2p1pN1p/4N1BQ/2B5/8/PP3PPP/R4RK1 b - - 6 16,"16. Qh5!
+This was the kicker, and the hardest move to decide on during analysis. The placement of the queen here seals the deal; most lines now end in mate."
+32,hxg5,h6g5,r2q1br1/p1pbn1k1/2p1pN2/4N1pQ/2B5/8/PP3PPP/R4RK1 w - - 0 17,"Only other option was 16. ...Kh8, which merely postpones mate for 7 moves.
+16. ...hxg5 does make the final mate much prettier than ...Kh8, however."
+33,Qh7+,h5h7,r2q1br1/p1pbn1kQ/2p1pN2/4N1p1/2B5/8/PP3PPP/R4RK1 b - - 1 17,"An unusually ascetically pleasing mate. 
+
+Three general rules of thumb: 
+Don't move too many pawns during the opening, or you're likely to face a massive attack.
+ 
+Aways consider pawn moves VERY carefully - little pawn moves have huge long term positional, strategic, and tactical ramifications. 
+
+Use pawns to deny enemy knights forward positions; use pawns (carefully!) as a prophylactic against knight attacks.  There are few things worse than one (or god forbid two!) knights operating behind your pawn structure, and the more pawn moves you make, the more inroads into your position you open.
+
+The most important piece of hard-won chess knowledge I've gained thus far is this: always set up a pawn structure you are comfortable with (open or closed) in the first few moves, then develop around this structure. I'm progressively favoring more conservative pawn structures that will defend themselves - the French Defense has become my favorite opening to play as black, since black's pawns require little attention or maintenance."
+34,Kxf6,g7f6,r2q1br1/p1pbn2Q/2p1pk2/4N1p1/2B5/8/PP3PPP/R4RK1 w - - 0 18,"An unusually ascetically pleasing mate. 
+
+Three general rules of thumb: 
+Don't move too many pawns during the opening, or you're likely to face a massive attack.
+ 
+Aways consider pawn moves VERY carefully - little pawn moves have huge long term positional, strategic, and tactical ramifications. 
+
+Use pawns to deny enemy knights forward positions; use pawns (carefully!) as a prophylactic against knight attacks.  There are few things worse than one (or god forbid two!) knights operating behind your pawn structure, and the more pawn moves you make, the more inroads into your position you open.
+
+The most important piece of hard-won chess knowledge I've gained thus far is this: always set up a pawn structure you are comfortable with (open or closed) in the first few moves, then develop around this structure. I'm progressively favoring more conservative pawn structures that will defend themselves - the French Defense has become my favorite opening to play as black, since black's pawns require little attention or maintenance."
+35,Ng4#,e5g4,r2q1br1/p1pbn2Q/2p1pk2/6p1/2B3N1/8/PP3PPP/R4RK1 b - - 1 18,"An unusually ascetically pleasing mate. 
+
+Three general rules of thumb: 
+Don't move too many pawns during the opening, or you're likely to face a massive attack.
+ 
+Aways consider pawn moves VERY carefully - little pawn moves have huge long term positional, strategic, and tactical ramifications. 
+
+Use pawns to deny enemy knights forward positions; use pawns (carefully!) as a prophylactic against knight attacks.  There are few things worse than one (or god forbid two!) knights operating behind your pawn structure, and the more pawn moves you make, the more inroads into your position you open.
+
+The most important piece of hard-won chess knowledge I've gained thus far is this: always set up a pawn structure you are comfortable with (open or closed) in the first few moves, then develop around this structure. I'm progressively favoring more conservative pawn structures that will defend themselves - the French Defense has become my favorite opening to play as black, since black's pawns require little attention or maintenance."

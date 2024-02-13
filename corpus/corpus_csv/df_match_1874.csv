@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,All normal.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,All normal.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,All normal.
+4,h6,h7h6,rnbqkbnr/ppp1ppp1/7p/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,All normal.
+5,Nf3,g1f3,rnbqkbnr/ppp1ppp1/7p/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,All normal.
+6,Bf5,c8f5,rn1qkbnr/ppp1ppp1/7p/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,All normal.
+7,Nbd2,b1d2,rn1qkbnr/ppp1ppp1/7p/3p1b2/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 3 4,All normal.
+8,e6,e7e6,rn1qkbnr/ppp2pp1/4p2p/3p1b2/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 0 5,All normal.
+9,e3,e2e3,rn1qkbnr/ppp2pp1/4p2p/3p1b2/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 0 5,"Too much simmetry, but I can't expect more."
+10,Nf6,g8f6,rn1qkb1r/ppp2pp1/4pn1p/3p1b2/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 1 6,"Too much simmetry, but I can't expect more."
+11,h3,h2h3,rn1qkb1r/ppp2pp1/4pn1p/3p1b2/3P1B2/4PN1P/PPPN1PP1/R2QKB1R b KQkq - 0 6,"Too much simmetry, but I can't expect more."
+12,Bd6,f8d6,rn1qk2r/ppp2pp1/3bpn1p/3p1b2/3P1B2/4PN1P/PPPN1PP1/R2QKB1R w KQkq - 1 7,I always like this move.
+13,Ne5,f3e5,rn1qk2r/ppp2pp1/3bpn1p/3pNb2/3P1B2/4P2P/PPPN1PP1/R2QKB1R b KQkq - 2 7,I always like this move.
+14,O-O,e8g8,rn1q1rk1/ppp2pp1/3bpn1p/3pNb2/3P1B2/4P2P/PPPN1PP1/R2QKB1R w KQ - 3 8,Accepting a tought attack.
+15,g4,g2g4,rn1q1rk1/ppp2pp1/3bpn1p/3pNb2/3P1BP1/4P2P/PPPN1P2/R2QKB1R b KQ - 0 8,"Roller pawns. g5 at once would have been interesting, but this seemed more straightforward."
+16,Bh7,f5h7,rn1q1rk1/ppp2ppb/3bpn1p/3pN3/3P1BP1/4P2P/PPPN1P2/R2QKB1R w KQ - 1 9,"Roller pawns. g5 at once would have been interesting, but this seemed more straightforward."
+17,h4,h3h4,rn1q1rk1/ppp2ppb/3bpn1p/3pN3/3P1BPP/4P3/PPPN1P2/R2QKB1R b KQ - 0 9,"Roller pawns. g5 at once would have been interesting, but this seemed more straightforward."
+18,Ne4,f6e4,rn1q1rk1/ppp2ppb/3bp2p/3pN3/3PnBPP/4P3/PPPN1P2/R2QKB1R w KQ - 1 10,"Normal and useless, if well handled."
+19,g5,g4g5,rn1q1rk1/ppp2ppb/3bp2p/3pN1P1/3PnB1P/4P3/PPPN1P2/R2QKB1R b KQ - 0 10,"Now, the knight is threatened after f3..."
+20,Nxd2,e4d2,rn1q1rk1/ppp2ppb/3bp2p/3pN1P1/3P1B1P/4P3/PPPn1P2/R2QKB1R w KQ - 0 11,Of course. A lot of potential attack would be diverted from h5 if I take with the queen - undoubtely my opponent's intent.
+21,Kxd2,e1d2,rn1q1rk1/ppp2ppb/3bp2p/3pN1P1/3P1B1P/4P3/PPPK1P2/R2Q1B1R b - - 0 11,Of course. A lot of potential attack would be diverted from h5 if I take with the queen - undoubtely my opponent's intent.
+22,Bxe5,d6e5,rn1q1rk1/ppp2ppb/4p2p/3pb1P1/3P1B1P/4P3/PPPK1P2/R2Q1B1R w - - 0 12,"Normally, I retake with the pawn, to restrict black's kingside. But not this time, with the king exposed behind."
+23,Bxe5,f4e5,rn1q1rk1/ppp2ppb/4p2p/3pB1P1/3P3P/4P3/PPPK1P2/R2Q1B1R b - - 0 12,Black can't move the f pawn to kick my bishop without unraveling his king's protection by opening the g column.
+24,hxg5,h6g5,rn1q1rk1/ppp2ppb/4p3/3pB1p1/3P3P/4P3/PPPK1P2/R2Q1B1R w - - 0 13,"Better was to wait for gxh and go g6, hoping to find shield behind the white pawn. Black should have developed the knight, to exchange the white's dsb if allowed."
+25,hxg5,h4g5,rn1q1rk1/ppp2ppb/4p3/3pB1P1/3P4/4P3/PPPK1P2/R2Q1B1R b - - 0 13,It's now just a matter of decide how to kick the queen in the right way.
+26,Qxg5,d8g5,rn3rk1/ppp2ppb/4p3/3pB1q1/3P4/4P3/PPPK1P2/R2Q1B1R w - - 0 14,It's now just a matter of decide how to kick the queen in the right way.
+27,Bf4,e5f4,rn3rk1/ppp2ppb/4p3/3p2q1/3P1B2/4P3/PPPK1P2/R2Q1B1R b - - 1 14,Naive?
+28,Qf5,g5f5,rn3rk1/ppp2ppb/4p3/3p1q2/3P1B2/4P3/PPPK1P2/R2Q1B1R w - - 2 15,"Black's last blunder. Qf6 was called for, letting to white the way to get out of repeated queen hunt. But with this black gives to white the extra tempo needed to get the lsb developed..."
+29,Bd3,f1d3,rn3rk1/ppp2ppb/4p3/3p1q2/3P1B2/3BP3/PPPK1P2/R2Q3R b - - 3 15,"Obviously, black is lost. A really ""easy"" win, but I used my ""secret weapons"" in a nice way against a high rated opponent (ovbiously not playing at 100%!)."
+30,Qf6,f5f6,rn3rk1/ppp2ppb/4pq2/3p4/3P1B2/3BP3/PPPK1P2/R2Q3R w - - 4 16,"Obviously, black is lost. A really ""easy"" win, but I used my ""secret weapons"" in a nice way against a high rated opponent (ovbiously not playing at 100%!)."
+31,Bxh7+,d3h7,rn3rk1/ppp2ppB/4pq2/3p4/3P1B2/4P3/PPPK1P2/R2Q3R b - - 0 16,"Obviously, black is lost. A really ""easy"" win, but I used my ""secret weapons"" in a nice way against a high rated opponent (ovbiously not playing at 100%!)."

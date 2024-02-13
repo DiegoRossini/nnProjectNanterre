@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The classical approach
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The classical approach
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The classical approach
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,The classical approach
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,The classical approach
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,The classical approach
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,The classical approach
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5,The classical approach
+9,Be2,f1e2,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 5,The classical approach
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R w KQ - 4 6,This turns out to be quite a good variation. Maybe time to check my openingsbook???
+11,O-O,e1g1,rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 b - - 5 6,This turns out to be quite a good variation. Maybe time to check my openingsbook???
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/3PP3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 0 7,This turns out to be quite a good variation. Maybe time to check my openingsbook???
+13,dxc5,d4c5,rnbq1rk1/pp2ppbp/3p1np1/2P5/4P3/2N2N2/PPP1BPPP/R1BQ1RK1 b - - 0 7,theory..
+14,dxc5,d6c5,rnbq1rk1/pp2ppbp/5np1/2p5/4P3/2N2N2/PPP1BPPP/R1BQ1RK1 w - - 0 8,theory..
+15,Be3,c1e3,rnbq1rk1/pp2ppbp/5np1/2p5/4P3/2N1BN2/PPP1BPPP/R2Q1RK1 b - - 1 8,theory..
+16,b6,b7b6,rnbq1rk1/p3ppbp/1p3np1/2p5/4P3/2N1BN2/PPP1BPPP/R2Q1RK1 w - - 0 9,theory..
+17,h3,h2h3,rnbq1rk1/p3ppbp/1p3np1/2p5/4P3/2N1BN1P/PPP1BPP1/R2Q1RK1 b - - 0 9,theory..
+18,Bb7,c8b7,rn1q1rk1/pb2ppbp/1p3np1/2p5/4P3/2N1BN1P/PPP1BPP1/R2Q1RK1 w - - 1 10,theory..
+19,e5,e4e5,rn1q1rk1/pb2ppbp/1p3np1/2p1P3/8/2N1BN1P/PPP1BPP1/R2Q1RK1 b - - 0 10,theory..
+20,Ne4,f6e4,rn1q1rk1/pb2ppbp/1p4p1/2p1P3/4n3/2N1BN1P/PPP1BPP1/R2Q1RK1 w - - 1 11,"Now it seems like white can get some advantage. Again...maybe i should check my openingsbook, for at first i thought blacks set-up was OK, and now i do get a plus...."
+21,Qxd8,d1d8,rn1Q1rk1/pb2ppbp/1p4p1/2p1P3/4n3/2N1BN1P/PPP1BPP1/R4RK1 b - - 0 11,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+22,Rxd8,f8d8,rn1r2k1/pb2ppbp/1p4p1/2p1P3/4n3/2N1BN1P/PPP1BPP1/R4RK1 w - - 0 12,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+23,Nxe4,c3e4,rn1r2k1/pb2ppbp/1p4p1/2p1P3/4N3/4BN1P/PPP1BPP1/R4RK1 b - - 0 12,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+24,Bxe4,b7e4,rn1r2k1/p3ppbp/1p4p1/2p1P3/4b3/4BN1P/PPP1BPP1/R4RK1 w - - 0 13,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+25,Ng5,f3g5,rn1r2k1/p3ppbp/1p4p1/2p1P1N1/4b3/4B2P/PPP1BPP1/R4RK1 b - - 1 13,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+26,Bb7,e4b7,rn1r2k1/pb2ppbp/1p4p1/2p1P1N1/8/4B2P/PPP1BPP1/R4RK1 w - - 2 14,if 13..Bxc2? then 14.Bf3 at least wins the exchange (14...Nd7 or 14...Na6 15. Bxa8 Rxa8)
+27,e6,e5e6,rn1r2k1/pb2ppbp/1p2P1p1/2p3N1/8/4B2P/PPP1BPP1/R4RK1 b - - 0 14,interesting play!
+28,f5,f7f5,rn1r2k1/pb2p1bp/1p2P1p1/2p2pN1/8/4B2P/PPP1BPP1/R4RK1 w - - 0 15,Or 14...f6 15.Nf7. After ...f6 black has no pressure against b2/d4
+29,c3,c2c3,rn1r2k1/pb2p1bp/1p2P1p1/2p2pN1/8/2P1B2P/PP2BPP1/R4RK1 b - - 0 15,16.Nf7!?
+30,Bf6,g7f6,rn1r2k1/pb2p2p/1p2Pbp1/2p2pN1/8/2P1B2P/PP2BPP1/R4RK1 w - - 1 16,16.Nf7!?
+31,Rad1,a1d1,rn1r2k1/pb2p2p/1p2Pbp1/2p2pN1/8/2P1B2P/PP2BPP1/3R1RK1 b - - 2 16,16.Nf7!?
+32,Nc6,b8c6,r2r2k1/pb2p2p/1pn1Pbp1/2p2pN1/8/2P1B2P/PP2BPP1/3R1RK1 w - - 3 17,What can black do?? His position is very cramped.
+33,Nf7,g5f7,r2r2k1/pb2pN1p/1pn1Pbp1/2p2p2/8/2P1B2P/PP2BPP1/3R1RK1 b - - 4 17,What can black do?? His position is very cramped.
+34,Rxd1,d8d1,r5k1/pb2pN1p/1pn1Pbp1/2p2p2/8/2P1B2P/PP2BPP1/3r1RK1 w - - 0 18,What can black do?? His position is very cramped.
+35,Rxd1,f1d1,r5k1/pb2pN1p/1pn1Pbp1/2p2p2/8/2P1B2P/PP2BPP1/3R2K1 b - - 0 18,What can black do?? His position is very cramped.
+36,Kf8,g8f8,r4k2/pb2pN1p/1pn1Pbp1/2p2p2/8/2P1B2P/PP2BPP1/3R2K1 w - - 1 19,What can black do?? His position is very cramped.
+37,Bf3,e2f3,r4k2/pb2pN1p/1pn1Pbp1/2p2p2/8/2P1BB1P/PP3PP1/3R2K1 b - - 2 19,Rd7 coming up!
+38,Na5,c6a5,r4k2/pb2pN1p/1p2Pbp1/n1p2p2/8/2P1BB1P/PP3PP1/3R2K1 w - - 3 20,"Bisshops exchanged, black still cramped..."
+39,Bxb7,f3b7,r4k2/pB2pN1p/1p2Pbp1/n1p2p2/8/2P1B2P/PP3PP1/3R2K1 b - - 0 20,"Bisshops exchanged, black still cramped..."
+40,Nxb7,a5b7,r4k2/pn2pN1p/1p2Pbp1/2p2p2/8/2P1B2P/PP3PP1/3R2K1 w - - 0 21,"Bisshops exchanged, black still cramped..."
+41,Rd7,d1d7,r4k2/pn1RpN1p/1p2Pbp1/2p2p2/8/2P1B2P/PP3PP1/6K1 b - - 1 21,"Bisshops exchanged, black still cramped..."
+42,Na5,b7a5,r4k2/p2RpN1p/1p2Pbp1/n1p2p2/8/2P1B2P/PP3PP1/6K1 w - - 2 22,"Look at this position! The black king is stalemated, white just needs a check and its mate...even without queens mating attacks occur!"
+43,Bh6+,e3h6,r4k2/p2RpN1p/1p2PbpB/n1p2p2/8/2P4P/PP3PP1/6K1 b - - 3 22,"Look at this position! The black king is stalemated, white just needs a check and its mate...even without queens mating attacks occur!"
+44,Kg8,f8g8,r5k1/p2RpN1p/1p2PbpB/n1p2p2/8/2P4P/PP3PP1/6K1 w - - 4 23,"Look at this position! The black king is stalemated, white just needs a check and its mate...even without queens mating attacks occur!"
+45,g4,g2g4,r5k1/p2RpN1p/1p2PbpB/n1p2p2/6P1/2P4P/PP3P2/6K1 b - - 0 23,idea: gxf gxf Rd7-d3-g3 and mating
+46,fxg4,f5g4,r5k1/p2RpN1p/1p2PbpB/n1p5/6p1/2P4P/PP3P2/6K1 w - - 0 24,now the g-file will stay closed but the black play is more and more limited.... He has only his knight to play with.
+47,hxg4,h3g4,r5k1/p2RpN1p/1p2PbpB/n1p5/6P1/2P5/PP3P2/6K1 b - - 0 24,now the g-file will stay closed but the black play is more and more limited.... He has only his knight to play with.
+48,Nc6,a5c6,r5k1/p2RpN1p/1pn1PbpB/2p5/6P1/2P5/PP3P2/6K1 w - - 1 25,now the g-file will stay closed but the black play is more and more limited.... He has only his knight to play with.
+49,f4,f2f4,r5k1/p2RpN1p/1pn1PbpB/2p5/5PP1/2P5/PP6/6K1 b - - 0 25,e5 is mine! g5 is mine! f5 is mine! h5 is mine! d4 is mine! d5 is mine! e4 is mine!
+50,a5,a7a5,r5k1/3RpN1p/1pn1PbpB/p1p5/5PP1/2P5/PP6/6K1 w - - 0 26,"the black rook can move now, without losing the a-pawn"
+51,Rc7,d7c7,r5k1/2R1pN1p/1pn1PbpB/p1p5/5PP1/2P5/PP6/6K1 b - - 1 26,"only move, 26...Nd8 26.Nxd8 Rxd8 27.Rd7 and black has no counterplay at all"
+52,Na7,c6a7,r5k1/n1R1pN1p/1p2PbpB/p1p5/5PP1/2P5/PP6/6K1 w - - 2 27,"only move, 26...Nd8 26.Nxd8 Rxd8 27.Rd7 and black has no counterplay at all"
+53,Kf2,g1f2,r5k1/n1R1pN1p/1p2PbpB/p1p5/5PP1/2P5/PP3K2/8 b - - 3 27,"simple strategy: black cannot improve his position, so meanwhile the white king can be activatedb before white actions take place"
+54,a4,a5a4,r5k1/n1R1pN1p/1p2PbpB/2p5/p4PP1/2P5/PP3K2/8 w - - 0 28,Despair....but helps to create a nice finish of the game
+55,a3,a2a3,r5k1/n1R1pN1p/1p2PbpB/2p5/p4PP1/P1P5/1P3K2/8 b - - 0 28,Despair....but helps to create a nice finish of the game
+56,Nb5,a7b5,r5k1/2R1pN1p/1p2PbpB/1np5/p4PP1/P1P5/1P3K2/8 w - - 1 29,Despair....but helps to create a nice finish of the game
+57,Rd7,c7d7,r5k1/3RpN1p/1p2PbpB/1np5/p4PP1/P1P5/1P3K2/8 b - - 2 29,Despair....but helps to create a nice finish of the game
+58,Bxc3,f6c3,r5k1/3RpN1p/1p2P1pB/1np5/p4PP1/P1b5/1P3K2/8 w - - 0 30,Despair....but helps to create a nice finish of the game

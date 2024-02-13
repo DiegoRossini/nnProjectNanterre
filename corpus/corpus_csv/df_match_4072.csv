@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,if e4 we have a Sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,if e4 we have a Sicilian
+3,e4,e2e4,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 2,white will pawn storm my king side...
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,white will pawn storm my king side...
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,white will pawn storm my king side...
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,white will pawn storm my king side...
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 4,white will pawn storm my king side...
+8,cxd4,c5d4,rnbqkb1r/pp2pppp/3p1n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,white will pawn storm my king side...
+9,Nxd4,f3d4,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,white will pawn storm my king side...
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,white will pawn storm my king side...
+11,Be3,c1e3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,white will pawn storm my king side...
+12,Nbd7,b8d7,r1bqkb1r/1p1npppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7,white will pawn storm my king side...
+13,f3,f2f3,r1bqkb1r/1p1npppp/p2p1n2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7,white will pawn storm my king side...
+14,e6,e7e6,r1bqkb1r/1p1n1ppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 0 8,white will pawn storm my king side...
+15,g4,g2g4,r1bqkb1r/1p1n1ppp/p2ppn2/8/3NP1P1/2N1BP2/PPP4P/R2QKB1R b KQkq - 0 8,white will pawn storm my king side...
+16,h6,h7h6,r1bqkb1r/1p1n1pp1/p2ppn1p/8/3NP1P1/2N1BP2/PPP4P/R2QKB1R w KQkq - 0 9,getting some leverage on g5
+17,Qd2,d1d2,r1bqkb1r/1p1n1pp1/p2ppn1p/8/3NP1P1/2N1BP2/PPPQ3P/R3KB1R b KQkq - 1 9,and now counter-attacking on the queen side
+18,b5,b7b5,r1bqkb1r/3n1pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/R3KB1R w KQkq - 0 10,and now counter-attacking on the queen side
+19,O-O-O,e1c1,r1bqkb1r/3n1pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R b kq - 1 10,again to get more space on the queen side
+20,b4,b5b4,r1bqkb1r/3n1pp1/p2ppn1p/8/1p1NP1P1/2N1BP2/PPPQ3P/2KR1B1R w kq - 0 11,again to get more space on the queen side
+21,Nce2,c3e2,r1bqkb1r/3n1pp1/p2ppn1p/8/1p1NP1P1/4BP2/PPPQN2P/2KR1B1R b kq - 1 11,"leaves the b pawn ""en prise"" because if white captures it allows me to open up the center with tempo and get two pawns for my pawn"
+22,Qc7,d8c7,r1b1kb1r/2qn1pp1/p2ppn1p/8/1p1NP1P1/4BP2/PPPQN2P/2KR1B1R w kq - 2 12,"leaves the b pawn ""en prise"" because if white captures it allows me to open up the center with tempo and get two pawns for my pawn"
+23,h4,h2h4,r1b1kb1r/2qn1pp1/p2ppn1p/8/1p1NP1PP/4BP2/PPPQN3/2KR1B1R b kq - 0 12,"and also counter-attacking on the center, now I expect Bf4 e5"
+24,d5,d6d5,r1b1kb1r/2qn1pp1/p3pn1p/3p4/1p1NP1PP/4BP2/PPPQN3/2KR1B1R w kq - 0 13,"and also counter-attacking on the center, now I expect Bf4 e5"
+25,Bf4,e3f4,r1b1kb1r/2qn1pp1/p3pn1p/3p4/1p1NPBPP/5P2/PPPQN3/2KR1B1R b kq - 1 13,forcing my reply
+26,e5,e6e5,r1b1kb1r/2qn1pp1/p4n1p/3pp3/1p1NPBPP/5P2/PPPQN3/2KR1B1R w kq - 0 14,"to block the threat on my queen, so I can keep it on c7"
+27,g5,g4g5,r1b1kb1r/2qn1pp1/p4n1p/3pp1P1/1p1NPB1P/5P2/PPPQN3/2KR1B1R b kq - 0 14,"? this move was expectable after Bh2, but not now, my opponent must have mixed up is move order"
+28,hxg5,h6g5,r1b1kb1r/2qn1pp1/p4n2/3pp1p1/1p1NPB1P/5P2/PPPQN3/2KR1B1R w kq - 0 15,forcing the retreat because if white captures the leaves the h2-b8 diagonal releasing the pin on e5 and thus losing the d4 knight
+29,Bh2,f4h2,r1b1kb1r/2qn1pp1/p4n2/3pp1p1/1p1NP2P/5P2/PPPQN2B/2KR1B1R b kq - 1 15,and I get two pawns advantage
+30,gxh4,g5h4,r1b1kb1r/2qn1pp1/p4n2/3pp3/1p1NP2p/5P2/PPPQN2B/2KR1B1R w kq - 0 16,and I get two pawns advantage
+31,exd5,e4d5,r1b1kb1r/2qn1pp1/p4n2/3Pp3/1p1N3p/5P2/PPPQN2B/2KR1B1R b kq - 0 16,"my knights will support each other, without blocking the f pawn"
+32,Nxd5,f6d5,r1b1kb1r/2qn1pp1/p7/3np3/1p1N3p/5P2/PPPQN2B/2KR1B1R w kq - 0 17,"my knights will support each other, without blocking the f pawn"
+33,Kb1,c1b1,r1b1kb1r/2qn1pp1/p7/3np3/1p1N3p/5P2/PPPQN2B/1K1R1B1R b kq - 1 17,"my knights will support each other, without blocking the f pawn"
+34,Nd7b6,d7b6,r1b1kb1r/2q2pp1/pn6/3np3/1p1N3p/5P2/PPPQN2B/1K1R1B1R w kq - 2 18,"my knights will support each other, without blocking the f pawn"
+35,Nc1,e2c1,r1b1kb1r/2q2pp1/pn6/3np3/1p1N3p/5P2/PPPQ3B/1KNR1B1R b kq - 3 18,consolidation of the queen side
+36,Bd6,f8d6,r1b1k2r/2q2pp1/pn1b4/3np3/1p1N3p/5P2/PPPQ3B/1KNR1B1R w kq - 4 19,consolidation of the queen side
+37,Ndb3,d4b3,r1b1k2r/2q2pp1/pn1b4/3np3/1p5p/1N3P2/PPPQ3B/1KNR1B1R b kq - 5 19,consolidation of the queen side
+38,a5,a6a5,r1b1k2r/2q2pp1/1n1b4/p2np3/1p5p/1N3P2/PPPQ3B/1KNR1B1R w kq - 0 20,consolidation of the queen side
+39,Re1,d1e1,r1b1k2r/2q2pp1/1n1b4/p2np3/1p5p/1N3P2/PPPQ3B/1KN1RB1R b kq - 1 20,"and moving the king away from danger without a castle because I need the rook on the h column and the queen side is to much open, next I may need to play g6 to open an escape route for the king"
+40,Kf8,e8f8,r1b2k1r/2q2pp1/1n1b4/p2np3/1p5p/1N3P2/PPPQ3B/1KN1RB1R w - - 2 21,"and moving the king away from danger without a castle because I need the rook on the h column and the queen side is to much open, next I may need to play g6 to open an escape route for the king"
+41,f4,f3f4,r1b2k1r/2q2pp1/1n1b4/p2np3/1p3P1p/1N6/PPPQ3B/1KN1RB1R b - - 0 21,"?! sacrifices a pawn, white pieces can all be pointed at my king but does it worth three pawns? Does he have time for it? More so with white's king also vulnerable"
+42,Nxf4,d5f4,r1b2k1r/2q2pp1/1n1b4/p3p3/1p3n1p/1N6/PPPQ3B/1KN1RB1R w - - 0 22,to counter on Nb5
+43,Bxf4,h2f4,r1b2k1r/2q2pp1/1n1b4/p3p3/1p3B1p/1N6/PPPQ4/1KN1RB1R b - - 0 22,to counter on Nb5
+44,exf4,e5f4,r1b2k1r/2q2pp1/1n1b4/p7/1p3p1p/1N6/PPPQ4/1KN1RB1R w - - 0 23,to counter on Nb5
+45,Nd4,b3d4,r1b2k1r/2q2pp1/1n1b4/p7/1p1N1p1p/8/PPPQ4/1KN1RB1R b - - 1 23,to counter on Nb5
+46,Bd7,c8d7,r4k1r/2qb1pp1/1n1b4/p7/1p1N1p1p/8/PPPQ4/1KN1RB1R w - - 2 24,to counter on Nb5
+47,Nb5,d4b5,r4k1r/2qb1pp1/1n1b4/pN6/1p3p1p/8/PPPQ4/1KN1RB1R b - - 3 24,for seconds I even considered Nc4 but it loses to the immediate Bxc4 Qxc4 Qxd6+
+48,Bxb5,d7b5,r4k1r/2q2pp1/1n1b4/pb6/1p3p1p/8/PPPQ4/1KN1RB1R w - - 0 25,for seconds I even considered Nc4 but it loses to the immediate Bxc4 Qxc4 Qxd6+
+49,Bxb5,f1b5,r4k1r/2q2pp1/1n1b4/pB6/1p3p1p/8/PPPQ4/1KN1R2R b - - 0 25,now e8 is a bit weak so I need that g6 square
+50,g6,g7g6,r4k1r/2q2p2/1n1b2p1/pB6/1p3p1p/8/PPPQ4/1KN1R2R w - - 0 26,to prepare the blockade on e5...
+51,Qd4,d2d4,r4k1r/2q2p2/1n1b2p1/pB6/1p1Q1p1p/8/PPP5/1KN1R2R b - - 1 26,to prepare the blockade on e5...
+52,Rh5,h8h5,r4k2/2q2p2/1n1b2p1/pB5r/1p1Q1p1p/8/PPP5/1KN1R2R w - - 2 27,to prepare the blockade on e5...

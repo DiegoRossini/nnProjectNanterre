@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This leaves Pe5 undefended.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This leaves Pe5 undefended.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,This leaves Pe5 undefended.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,This leaves Pe5 undefended.
+5,Nf3,g1f3,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,This leaves Pe5 undefended.
+6,d6,d7d6,rnbqk1nr/ppp2ppp/3p4/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,This leaves Pe5 undefended.
+7,Nd5,c3d5,rnbqk1nr/ppp2ppp/3p4/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R b KQkq - 1 4,This leaves Pe5 undefended.
+8,c6,c7c6,rnbqk1nr/pp3ppp/2pp4/2bNp3/4P3/5N2/PPPP1PPP/R1BQKB1R w KQkq - 0 5,This leaves Pe5 undefended.
+9,Ne3,d5e3,rnbqk1nr/pp3ppp/2pp4/2b1p3/4P3/4NN2/PPPP1PPP/R1BQKB1R b KQkq - 1 5,This leaves Pe5 undefended.
+10,d5,d6d5,rnbqk1nr/pp3ppp/2p5/2bpp3/4P3/4NN2/PPPP1PPP/R1BQKB1R w KQkq - 0 6,This leaves Pe5 undefended.
+11,exd5,e4d5,rnbqk1nr/pp3ppp/2p5/2bPp3/8/4NN2/PPPP1PPP/R1BQKB1R b KQkq - 0 6,"Bye, bye, Pe5.  I hardly knew ye."
+12,cxd5,c6d5,rnbqk1nr/pp3ppp/8/2bpp3/8/4NN2/PPPP1PPP/R1BQKB1R w KQkq - 0 7,"Bye, bye, Pe5.  I hardly knew ye."
+13,Nxe5,f3e5,rnbqk1nr/pp3ppp/8/2bpN3/8/4N3/PPPP1PPP/R1BQKB1R b KQkq - 0 7,"Bye, bye, Pe5.  I hardly knew ye."
+14,Nf6,g8f6,rnbqk2r/pp3ppp/5n2/2bpN3/8/4N3/PPPP1PPP/R1BQKB1R w KQkq - 1 8,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+15,f3,f2f3,rnbqk2r/pp3ppp/5n2/2bpN3/8/4NP2/PPPP2PP/R1BQKB1R b KQkq - 0 8,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+16,d4,d5d4,rnbqk2r/pp3ppp/5n2/2b1N3/3p4/4NP2/PPPP2PP/R1BQKB1R w KQkq - 0 9,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+17,Ne3c4,e3c4,rnbqk2r/pp3ppp/5n2/2b1N3/2Np4/5P2/PPPP2PP/R1BQKB1R b KQkq - 1 9,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+18,Nd5,f6d5,rnbqk2r/pp3ppp/8/2bnN3/2Np4/5P2/PPPP2PP/R1BQKB1R w KQkq - 2 10,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+19,d3,d2d3,rnbqk2r/pp3ppp/8/2bnN3/2Np4/3P1P2/PPP3PP/R1BQKB1R b KQkq - 0 10,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+20,Ne3,d5e3,rnbqk2r/pp3ppp/8/2b1N3/2Np4/3PnP2/PPP3PP/R1BQKB1R w KQkq - 1 11,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+21,Bxe3,c1e3,rnbqk2r/pp3ppp/8/2b1N3/2Np4/3PBP2/PPP3PP/R2QKB1R b KQkq - 0 11,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+22,dxe3,d4e3,rnbqk2r/pp3ppp/8/2b1N3/2N5/3PpP2/PPP3PP/R2QKB1R w KQkq - 0 12,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+23,Qe2,d1e2,rnbqk2r/pp3ppp/8/2b1N3/2N5/3PpP2/PPP1Q1PP/R3KB1R b KQkq - 1 12,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+24,Nc6,b8c6,r1bqk2r/pp3ppp/2n5/2b1N3/2N5/3PpP2/PPP1Q1PP/R3KB1R w KQkq - 2 13,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+25,Nxc6,e5c6,r1bqk2r/pp3ppp/2N5/2b5/2N5/3PpP2/PPP1Q1PP/R3KB1R b KQkq - 0 13,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+26,bxc6,b7c6,r1bqk2r/p4ppp/2p5/2b5/2N5/3PpP2/PPP1Q1PP/R3KB1R w KQkq - 0 14,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+27,a3,a2a3,r1bqk2r/p4ppp/2p5/2b5/2N5/P2PpP2/1PP1Q1PP/R3KB1R b KQkq - 0 14,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+28,O-O,e8g8,r1bq1rk1/p4ppp/2p5/2b5/2N5/P2PpP2/1PP1Q1PP/R3KB1R w KQ - 1 15,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+29,Nxe3,c4e3,r1bq1rk1/p4ppp/2p5/2b5/8/P2PNP2/1PP1Q1PP/R3KB1R b KQ - 0 15,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+30,Re8,f8e8,r1bqr1k1/p4ppp/2p5/2b5/8/P2PNP2/1PP1Q1PP/R3KB1R w KQ - 1 16,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+31,g3,g2g3,r1bqr1k1/p4ppp/2p5/2b5/8/P2PNPP1/1PP1Q2P/R3KB1R b KQ - 0 16,"Oops.  Black has two pieces attacking the white knight, white has only the queen defending it.  Worse, if black takes the knight with the rook, the white queen is pinned."
+32,Rxe3,e8e3,r1bq2k1/p4ppp/2p5/2b5/8/P2PrPP1/1PP1Q2P/R3KB1R w KQ - 0 17,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+33,O-O-O,e1c1,r1bq2k1/p4ppp/2p5/2b5/8/P2PrPP1/1PP1Q2P/2KR1B1R b - - 1 17,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+34,Rxe2,e3e2,r1bq2k1/p4ppp/2p5/2b5/8/P2P1PP1/1PP1r2P/2KR1B1R w - - 0 18,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+35,Bxe2,f1e2,r1bq2k1/p4ppp/2p5/2b5/8/P2P1PP1/1PP1B2P/2KR3R b - - 0 18,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+36,Bh3,c8h3,r2q2k1/p4ppp/2p5/2b5/8/P2P1PPb/1PP1B2P/2KR3R w - - 1 19,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+37,d4,d3d4,r2q2k1/p4ppp/2p5/2b5/3P4/P4PPb/1PP1B2P/2KR3R b - - 0 19,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+38,Bxd4,c5d4,r2q2k1/p4ppp/2p5/8/3b4/P4PPb/1PP1B2P/2KR3R w - - 0 20,"Unwise.  Pc3 nets white that black bishop.  Or if black moves the bishop, white trades a rook for the black queen, undoing a good part of black's material advantage.  Then again, Qg5+ or Qe7 trades bishop for bishop.  So nabbing the pawn isn't that bad after all.  Carry on..."
+39,Bc4,e2c4,r2q2k1/p4ppp/2p5/8/2Bb4/P4PPb/1PP4P/2KR3R b - - 1 20,Now I'm thinking Bg2 followed by BxPf3.
+40,Bg2,h3g2,r2q2k1/p4ppp/2p5/8/2Bb4/P4PP1/1PP3bP/2KR3R w - - 2 21,:)
+41,Rhe1,h1e1,r2q2k1/p4ppp/2p5/8/2Bb4/P4PP1/1PP3bP/2KRR3 b - - 3 21,That won't save the bishop from Pc3.
+42,c5,c6c5,r2q2k1/p4ppp/8/2p5/2Bb4/P4PP1/1PP3bP/2KRR3 w - - 0 22,That won't save the bishop from Pc3.
+43,Rd3,d1d3,r2q2k1/p4ppp/8/2p5/2Bb4/P2R1PP1/1PP3bP/2K1R3 b - - 1 22,Now here black should move somewhere to protect a pawn fork of white's rook and bishop.  Perhaps Qb5.
+44,Qb8,d8b8,rq4k1/p4ppp/8/2p5/2Bb4/P2R1PP1/1PP3bP/2K1R3 w - - 2 23,Now here black should move somewhere to protect a pawn fork of white's rook and bishop.  Perhaps Qb5.
+45,Bb3,c4b3,rq4k1/p4ppp/8/2p5/3b4/PB1R1PP1/1PP3bP/2K1R3 b - - 3 23,Now here black should move somewhere to protect a pawn fork of white's rook and bishop.  Perhaps Qb5.
+46,c4,c5c4,rq4k1/p4ppp/8/8/2pb4/PB1R1PP1/1PP3bP/2K1R3 w - - 0 24,"This seems a bit premature, but with the material advantage black can afford to trade down."
+47,Rxd4,d3d4,rq4k1/p4ppp/8/8/2pR4/PB3PP1/1PP3bP/2K1R3 b - - 0 24,So why not BxPf3?  Maybe better safe than letting the king get killed in his own castle--but white is moves away from setting up a palace coup.
+48,cxb3,c4b3,rq4k1/p4ppp/8/8/3R4/Pp3PP1/1PP3bP/2K1R3 w - - 0 25,So why not BxPf3?  Maybe better safe than letting the king get killed in his own castle--but white is moves away from setting up a palace coup.
+49,c3,c2c3,rq4k1/p4ppp/8/8/3R4/PpP2PP1/1P4bP/2K1R3 b - - 0 25,So why not BxPf3?  Maybe better safe than letting the king get killed in his own castle--but white is moves away from setting up a palace coup.
+50,g6,g7g6,rq4k1/p4p1p/6p1/8/3R4/PpP2PP1/1P4bP/2K1R3 w - - 0 26,So why not BxPf3?  Maybe better safe than letting the king get killed in his own castle--but white is moves away from setting up a palace coup.
+51,f4,f3f4,rq4k1/p4p1p/6p1/8/3R1P2/PpP3P1/1P4bP/2K1R3 b - - 0 26,"Qd5 would have protected Pb3, at least momentarily."
+52,Qb7,b8b7,r5k1/pq3p1p/6p1/8/3R1P2/PpP3P1/1P4bP/2K1R3 w - - 1 27,"Qd5 would have protected Pb3, at least momentarily."
+53,Rb4,d4b4,r5k1/pq3p1p/6p1/8/1R3P2/PpP3P1/1P4bP/2K1R3 b - - 2 27,"Qd5 would have protected Pb3, at least momentarily."
+54,Qf3,b7f3,r5k1/p4p1p/6p1/8/1R3P2/PpP2qP1/1P4bP/2K1R3 w - - 3 28,"Qd5 would have protected Pb3, at least momentarily."
+55,Rxb3,b4b3,r5k1/p4p1p/6p1/8/5P2/PRP2qP1/1P4bP/2K1R3 b - - 0 28,The white rook has fallen.
+56,Qf2,f3f2,r5k1/p4p1p/6p1/8/5P2/PRP3P1/1P3qbP/2K1R3 w - - 1 29,The white rook has fallen.
+57,Rd1,e1d1,r5k1/p4p1p/6p1/8/5P2/PRP3P1/1P3qbP/2KR4 b - - 2 29,The white rook has fallen.
+58,Qe3+,f2e3,r5k1/p4p1p/6p1/8/5P2/PRP1q1P1/1P4bP/2KR4 w - - 3 30,The white rook has fallen.
+59,Rd2,d1d2,r5k1/p4p1p/6p1/8/5P2/PRP1q1P1/1P1R2bP/2K5 b - - 4 30,The white rook has fallen.
+60,Rd8,a8d8,3r2k1/p4p1p/6p1/8/5P2/PRP1q1P1/1P1R2bP/2K5 w - - 5 31,The white rook has fallen.
+61,Kb1,c1b1,3r2k1/p4p1p/6p1/8/5P2/PRP1q1P1/1P1R2bP/1K6 b - - 6 31,I think I would have recommended using the rook instead.  This would make it easier to bring more heavy artillery to bear on the king's position.
+62,Qxd2,e3d2,3r2k1/p4p1p/6p1/8/5P2/PRP3P1/1P1q2bP/1K6 w - - 0 32,I think I would have recommended using the rook instead.  This would make it easier to bring more heavy artillery to bear on the king's position.
+63,Ka2,b1a2,3r2k1/p4p1p/6p1/8/5P2/PRP3P1/KP1q2bP/8 b - - 1 32,"Ok, Bd5 is a classic pin."
+64,Qc1,d2c1,3r2k1/p4p1p/6p1/8/5P2/PRP3P1/KP4bP/2q5 w - - 2 33,"I still like Bd5--it keeps the white rook from moving, and should ultimately make for a quicker game.  Failing that, Rd2 might be better than Rd1.  This would confine white's rook to the b column (or QxPb2#)."
+65,a4,a3a4,3r2k1/p4p1p/6p1/8/P4P2/1RP3P1/KP4bP/2q5 b - - 0 33,"I still like Bd5--it keeps the white rook from moving, and should ultimately make for a quicker game.  Failing that, Rd2 might be better than Rd1.  This would confine white's rook to the b column (or QxPb2#)."
+66,Rd1,d8d1,6k1/p4p1p/6p1/8/P4P2/1RP3P1/KP4bP/2qr4 w - - 1 34,"I still like Bd5--it keeps the white rook from moving, and should ultimately make for a quicker game.  Failing that, Rd2 might be better than Rd1.  This would confine white's rook to the b column (or QxPb2#)."
+67,Rb8+,b3b8,1R4k1/p4p1p/6p1/8/P4P2/2P3P1/KP4bP/2qr4 b - - 2 34,
+68,Kg7,g8g7,1R6/p4pkp/6p1/8/P4P2/2P3P1/KP4bP/2qr4 w - - 3 35,
+69,Ka3,a2a3,1R6/p4pkp/6p1/8/P4P2/K1P3P1/1P4bP/2qr4 b - - 4 35,
+70,Qa1+,c1a1,1R6/p4pkp/6p1/8/P4P2/K1P3P1/1P4bP/q2r4 w - - 5 36,
+71,Kb3,a3b3,1R6/p4pkp/6p1/8/P4P2/1KP3P1/1P4bP/q2r4 b - - 6 36,

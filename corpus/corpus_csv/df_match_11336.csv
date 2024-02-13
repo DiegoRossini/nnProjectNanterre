@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I am White.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+7,b4,b2b4,r1bqk1nr/pppp1ppp/2n5/2b1p3/1PB1P3/5N2/P1PP1PPP/RNBQK2R b KQkq - 0 4,"The Evans' Gambit. My idea is to drive the bishop to the unimportant b4 square, and play c3 with tempo attacking it."
+8,Bxb4,c5b4,r1bqk1nr/pppp1ppp/2n5/4p3/1bB1P3/5N2/P1PP1PPP/RNBQK2R w KQkq - 0 5,Other moves allow me to play d4 with an overwhelming centre.
+9,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/4p3/1bB1P3/2P2N2/P2P1PPP/RNBQK2R b KQkq - 0 5,Other moves allow me to play d4 with an overwhelming centre.
+10,Ba5,b4a5,r1bqk1nr/pppp1ppp/2n5/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQK2R w KQkq - 1 6,Other moves allow me to play d4 with an overwhelming centre.
+11,O-O,e1g1,r1bqk1nr/pppp1ppp/2n5/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQ1RK1 b kq - 2 6,Threatening to take over the centre with d4.
+12,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/b3p3/2B1P3/2P2N2/P2P1PPP/RNBQ1RK1 w kq - 3 7,Defends the pawn and threatens f7
+13,Ng5,f3g5,r1bqk2r/pppp1ppp/2n2n2/b3p1N1/2B1P3/2P5/P2P1PPP/RNBQ1RK1 b kq - 4 7,Defends the pawn and threatens f7
+14,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/b3p1N1/2B1P3/2P5/P2P1PPP/RNBQ1RK1 w - - 5 8,"7...d5 is risky because after exd5 Nxd5, I can sacrifice my knight with Nxf7 and then play Qf3 check, forcing the king to expose itself on e6, giving Black an uncomfortable position."
+15,f4,f2f4,r1bq1rk1/pppp1ppp/2n2n2/b3p1N1/2B1PP2/2P5/P2P2PP/RNBQ1RK1 b - - 0 8,I want to attack Black right away by taking over the centre with d4.
+16,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/b3p1N1/2B1PP2/2P5/P2P2PP/RNBQ1RK1 w - - 0 9,"A terrible mistake. Black should've played Bb6, which activates his bishop and threatens my pawn at d4 which would be pinned to my king. With Black's extra pawn and counterplay, perhaps he could've won, but with this error, winning is highly unlikely for Black."
+17,d4,d2d4,r1bq1rk1/ppp2ppp/2np1n2/b3p1N1/2BPPP2/2P5/P5PP/RNBQ1RK1 b - - 0 9,"A terrible mistake. Black should've played Bb6, which activates his bishop and threatens my pawn at d4 which would be pinned to my king. With Black's extra pawn and counterplay, perhaps he could've won, but with this error, winning is highly unlikely for Black."
+18,h6,h7h6,r1bq1rk1/ppp2pp1/2np1n1p/b3p1N1/2BPPP2/2P5/P5PP/RNBQ1RK1 w - - 0 10,"A terrible mistake. Black should've played Bb6, which activates his bishop and threatens my pawn at d4 which would be pinned to my king. With Black's extra pawn and counterplay, perhaps he could've won, but with this error, winning is highly unlikely for Black."
+19,dxe5,d4e5,r1bq1rk1/ppp2pp1/2np1n1p/b3P1N1/2B1PP2/2P5/P5PP/RNBQ1RK1 b - - 0 10,"Black probably assumed that I had to retreat my knight, but instead I open up the centre while counterattacking his knight."
+20,dxe5,d6e5,r1bq1rk1/ppp2pp1/2n2n1p/b3p1N1/2B1PP2/2P5/P5PP/RNBQ1RK1 w - - 0 11,"Is going to drive the rook away from the defense of f7, or will drive the knight away from the defense of e5. Thus winning my pawn back that I sacrificed in the opening, and giving Black a very uncomfortable defensive position."
+21,Qxd8,d1d8,r1bQ1rk1/ppp2pp1/2n2n1p/b3p1N1/2B1PP2/2P5/P5PP/RNB2RK1 b - - 0 11,"Is going to drive the rook away from the defense of f7, or will drive the knight away from the defense of e5. Thus winning my pawn back that I sacrificed in the opening, and giving Black a very uncomfortable defensive position."
+22,Bb6+,a5b6,r1bQ1rk1/ppp2pp1/1bn2n1p/4p1N1/2B1PP2/2P5/P5PP/RNB2RK1 w - - 1 12,A temporary sacrifice
+23,Kh1,g1h1,r1bQ1rk1/ppp2pp1/1bn2n1p/4p1N1/2B1PP2/2P5/P5PP/RNB2R1K b - - 2 12,A temporary sacrifice
+24,Nxd8,c6d8,r1bn1rk1/ppp2pp1/1b3n1p/4p1N1/2B1PP2/2P5/P5PP/RNB2R1K w - - 0 13,A temporary sacrifice
+25,fxe5,f4e5,r1bn1rk1/ppp2pp1/1b3n1p/4P1N1/2B1P3/2P5/P5PP/RNB2R1K b - - 0 13,A temporary sacrifice
+26,Nd7,f6d7,r1bn1rk1/pppn1pp1/1b5p/4P1N1/2B1P3/2P5/P5PP/RNB2R1K w - - 1 14,A temporary sacrifice
+27,Nxf7,g5f7,r1bn1rk1/pppn1Np1/1b5p/4P3/2B1P3/2P5/P5PP/RNB2R1K b - - 0 14,A temporary sacrifice
+28,Nxf7,d8f7,r1b2rk1/pppn1np1/1b5p/4P3/2B1P3/2P5/P5PP/RNB2R1K w - - 0 15,I win the knight back instantly and come out a pawn up.
+29,e6,e5e6,r1b2rk1/pppn1np1/1b2P2p/8/2B1P3/2P5/P5PP/RNB2R1K b - - 0 15,I win the knight back instantly and come out a pawn up.
+30,Nde5,d7e5,r1b2rk1/ppp2np1/1b2P2p/4n3/2B1P3/2P5/P5PP/RNB2R1K w - - 1 16,I win the knight back instantly and come out a pawn up.
+31,exf7+,e6f7,r1b2rk1/ppp2Pp1/1b5p/4n3/2B1P3/2P5/P5PP/RNB2R1K b - - 0 16,I win the knight back instantly and come out a pawn up.
+32,Kh8,g8h8,r1b2r1k/ppp2Pp1/1b5p/4n3/2B1P3/2P5/P5PP/RNB2R1K w - - 1 17,I win the knight back instantly and come out a pawn up.
+33,Ba3,c1a3,r1b2r1k/ppp2Pp1/1b5p/4n3/2B1P3/B1P5/P5PP/RN3R1K b - - 2 17,Black can't move his rook because of my promotion threat.
+34,c5,c7c5,r1b2r1k/pp3Pp1/1b5p/2p1n3/2B1P3/B1P5/P5PP/RN3R1K w - - 0 18,Black can't move his rook because of my promotion threat.
+35,Bd5,c4d5,r1b2r1k/pp3Pp1/1b5p/2pBn3/4P3/B1P5/P5PP/RN3R1K b - - 1 18,My bishop is very strong on d5 because it cannot be threatened by any pieces.
+36,Rb8,a8b8,1rb2r1k/pp3Pp1/1b5p/2pBn3/4P3/B1P5/P5PP/RN3R1K w - - 2 19,Gives my knight a developing square.
+37,c4,c3c4,1rb2r1k/pp3Pp1/1b5p/2pBn3/2P1P3/B7/P5PP/RN3R1K b - - 0 19,Gives my knight a developing square.
+38,Bg4,c8g4,1r3r1k/pp3Pp1/1b5p/2pBn3/2P1P1b1/B7/P5PP/RN3R1K w - - 1 20,"A pointless move, because his threat of Be2 can be easily countered."
+39,Nc3,b1c3,1r3r1k/pp3Pp1/1b5p/2pBn3/2P1P1b1/B1N5/P5PP/R4R1K b - - 2 20,"A losing blunder. Black was losing anyway, but now it is much clearer."
+40,Bd7,g4d7,1r3r1k/pp1b1Pp1/1b5p/2pBn3/2P1P3/B1N5/P5PP/R4R1K w - - 3 21,"A losing blunder. Black was losing anyway, but now it is much clearer."
+41,Rad1,a1d1,1r3r1k/pp1b1Pp1/1b5p/2pBn3/2P1P3/B1N5/P5PP/3R1R1K b - - 4 21,"A losing blunder. Black was losing anyway, but now it is much clearer."
+42,Kh7,h8h7,1r3r2/pp1b1Ppk/1b5p/2pBn3/2P1P3/B1N5/P5PP/3R1R1K w - - 5 22,"A losing blunder. Black was losing anyway, but now it is much clearer."
+43,Nb5,c3b5,1r3r2/pp1b1Ppk/1b5p/1NpBn3/2P1P3/B7/P5PP/3R1R1K b - - 6 22,"A losing blunder. Black was losing anyway, but now it is much clearer."
+44,Bg4,d7g4,1r3r2/pp3Ppk/1b5p/1NpBn3/2P1P1b1/B7/P5PP/3R1R1K w - - 7 23,"A losing blunder. Black was losing anyway, but now it is much clearer."
+45,Rde1,d1e1,1r3r2/pp3Ppk/1b5p/1NpBn3/2P1P1b1/B7/P5PP/4RR1K b - - 8 23,"A losing blunder. Black was losing anyway, but now it is much clearer."
+46,Rbd8,b8d8,3r1r2/pp3Ppk/1b5p/1NpBn3/2P1P1b1/B7/P5PP/4RR1K w - - 9 24,"A losing blunder. Black was losing anyway, but now it is much clearer."
+47,h3,h2h3,3r1r2/pp3Ppk/1b5p/1NpBn3/2P1P1b1/B6P/P5P1/4RR1K b - - 0 24,"A losing blunder. Black was losing anyway, but now it is much clearer."
+48,Bh5,g4h5,3r1r2/pp3Ppk/1b5p/1NpBn2b/2P1P3/B6P/P5P1/4RR1K w - - 1 25,"A losing blunder. Black was losing anyway, but now it is much clearer."
+49,Rf5,f1f5,3r1r2/pp3Ppk/1b5p/1NpBnR1b/2P1P3/B6P/P5P1/4R2K b - - 2 25,I am threatening both pieces at once.
+50,Nd3,e5d3,3r1r2/pp3Ppk/1b5p/1NpB1R1b/2P1P3/B2n3P/P5P1/4R2K w - - 3 26,I am still attacking both pieces.
+51,Re3,e1e3,3r1r2/pp3Ppk/1b5p/1NpB1R1b/2P1P3/B2nR2P/P5P1/7K b - - 4 26,I am still attacking both pieces.
+52,g6,g7g6,3r1r2/pp3P1k/1b4pp/1NpB1R1b/2P1P3/B2nR2P/P5P1/7K w - - 0 27,"If I retreat my rook, then black's knight escapes to b4 and I don't win any material."
+53,Rxh5,f5h5,3r1r2/pp3P1k/1b4pp/1NpB3R/2P1P3/B2nR2P/P5P1/7K b - - 0 27,"If I retreat my rook, then black's knight escapes to b4 and I don't win any material."

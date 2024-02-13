@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Strange opening coming up here
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Strange opening coming up here
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Strange opening coming up here
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I take the unprotected pawn
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,I take the unprotected pawn
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,And he does the same
+7,Qe2,d1e2,rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPPQPPP/RNB1KB1R b KQkq - 1 4,"I was hoping for Nf6, Nc6+, getting the queen, but he knows how to protect it"
+8,d5,d7d5,rnbqkb1r/ppp2ppp/8/3pN3/4n3/8/PPPPQPPP/RNB1KB1R w KQkq - 0 5,Removing the gaurd
+9,c4,c2c4,rnbqkb1r/ppp2ppp/8/3pN3/2P1n3/8/PP1PQPPP/RNB1KB1R b KQkq - 0 5,Removing the gaurd
+10,Be6,c8e6,rn1qkb1r/ppp2ppp/4b3/3pN3/2P1n3/8/PP1PQPPP/RNB1KB1R w KQkq - 1 6,"What do you know, extra protection"
+11,cxd5,c4d5,rn1qkb1r/ppp2ppp/4b3/3PN3/4n3/8/PP1PQPPP/RNB1KB1R b KQkq - 0 6,Trading queens
+12,Qxd5,d8d5,rn2kb1r/ppp2ppp/4b3/3qN3/4n3/8/PP1PQPPP/RNB1KB1R w KQkq - 0 7,Trading queens
+13,Qb5+,e2b5,rn2kb1r/ppp2ppp/4b3/1Q1qN3/4n3/8/PP1P1PPP/RNB1KB1R b KQkq - 1 7,Trading queens
+14,c6,c7c6,rn2kb1r/pp3ppp/2p1b3/1Q1qN3/4n3/8/PP1P1PPP/RNB1KB1R w KQkq - 0 8,Forcing a trade
+15,Qxd5,b5d5,rn2kb1r/pp3ppp/2p1b3/3QN3/4n3/8/PP1P1PPP/RNB1KB1R b KQkq - 0 8,Forcing a trade
+16,Bxd5,e6d5,rn2kb1r/pp3ppp/2p5/3bN3/4n3/8/PP1P1PPP/RNB1KB1R w KQkq - 0 9,Forcing a trade
+17,Bc4,f1c4,rn2kb1r/pp3ppp/2p5/3bN3/2B1n3/8/PP1P1PPP/RNB1K2R b KQkq - 1 9,Forcing a trade
+18,Bxc4,d5c4,rn2kb1r/pp3ppp/2p5/4N3/2b1n3/8/PP1P1PPP/RNB1K2R w KQkq - 0 10,To put presure on me- not happening
+19,Nxc4,e5c4,rn2kb1r/pp3ppp/2p5/8/2N1n3/8/PP1P1PPP/RNB1K2R b KQkq - 0 10,To put presure on me- not happening
+20,Bc5,f8c5,rn2k2r/pp3ppp/2p5/2b5/2N1n3/8/PP1P1PPP/RNB1K2R w KQkq - 1 11,To put presure on me- not happening
+21,Ne3,c4e3,rn2k2r/pp3ppp/2p5/2b5/4n3/4N3/PP1P1PPP/RNB1K2R b KQkq - 2 11,"I castle, to stay secure"
+22,O-O,e8g8,rn3rk1/pp3ppp/2p5/2b5/4n3/4N3/PP1P1PPP/RNB1K2R w KQ - 3 12,"I castle, to stay secure"
+23,O-O,e1g1,rn3rk1/pp3ppp/2p5/2b5/4n3/4N3/PP1P1PPP/RNB2RK1 b - - 4 12,"I castle, to stay secure"
+24,Rd8,f8d8,rn1r2k1/pp3ppp/2p5/2b5/4n3/4N3/PP1P1PPP/RNB2RK1 w - - 5 13,Questioning his weird moves
+25,Re1,f1e1,rn1r2k1/pp3ppp/2p5/2b5/4n3/4N3/PP1P1PPP/RNB1R1K1 b - - 6 13,Questioning his weird moves
+26,Bd4,c5d4,rn1r2k1/pp3ppp/2p5/8/3bn3/4N3/PP1P1PPP/RNB1R1K1 w - - 7 14,Questioning his weird moves
+27,h3,h2h3,rn1r2k1/pp3ppp/2p5/8/3bn3/4N2P/PP1P1PP1/RNB1R1K1 b - - 0 14,Questioning his weird moves
+28,Nc5,e4c5,rn1r2k1/pp3ppp/2p5/2n5/3b4/4N2P/PP1P1PP1/RNB1R1K1 w - - 1 15,Questioning his weird moves
+29,Na3,b1a3,rn1r2k1/pp3ppp/2p5/2n5/3b4/N3N2P/PP1P1PP1/R1B1R1K1 b - - 2 15,Questioning his weird moves
+30,Nd3,c5d3,rn1r2k1/pp3ppp/2p5/8/3b4/N2nN2P/PP1P1PP1/R1B1R1K1 w - - 3 16,"The following would come if I hadn't played it right-Rd1, NxC1, RxC1, BxB2, forking the rooks"
+31,Re2,e1e2,rn1r2k1/pp3ppp/2p5/8/3b4/N2nN2P/PP1PRPP1/R1B3K1 b - - 4 16,"Playing it safe, yet loosing 2 pawns in the process anyway"
+32,Nxb2,d3b2,rn1r2k1/pp3ppp/2p5/8/3b4/N3N2P/Pn1PRPP1/R1B3K1 w - - 0 17,"Playing it safe, yet loosing 2 pawns in the process anyway"
+33,d3,d2d3,rn1r2k1/pp3ppp/2p5/8/3b4/N2PN2P/Pn2RPP1/R1B3K1 b - - 0 17,"Playing it safe, yet loosing 2 pawns in the process anyway"
+34,Nxd3,b2d3,rn1r2k1/pp3ppp/2p5/8/3b4/N2nN2P/P3RPP1/R1B3K1 w - - 0 18,Gianing back momentum
+35,Rb1,a1b1,rn1r2k1/pp3ppp/2p5/8/3b4/N2nN2P/P3RPP1/1RB3K1 b - - 1 18,Gianing back momentum
+36,Nxc1,d3c1,rn1r2k1/pp3ppp/2p5/8/3b4/N3N2P/P3RPP1/1Rn3K1 w - - 0 19,Gianing back momentum
+37,Rxc1,b1c1,rn1r2k1/pp3ppp/2p5/8/3b4/N3N2P/P3RPP1/2R3K1 b - - 0 19,Gianing back momentum
+38,b5,b7b5,rn1r2k1/p4ppp/2p5/1p6/3b4/N3N2P/P3RPP1/2R3K1 w - - 0 20,Pinning the rook
+39,Rd1,c1d1,rn1r2k1/p4ppp/2p5/1p6/3b4/N3N2P/P3RPP1/3R2K1 b - - 1 20,Pinning the rook
+40,c5,c6c5,rn1r2k1/p4ppp/8/1pp5/3b4/N3N2P/P3RPP1/3R2K1 w - - 0 21,"Heh,Heh, someone dropped a pawn"
+41,Nxb5,a3b5,rn1r2k1/p4ppp/8/1Np5/3b4/4N2P/P3RPP1/3R2K1 b - - 0 21,"Finding myself stuck, I randomly moved a piece"
+42,Nc6,b8c6,r2r2k1/p4ppp/2n5/1Np5/3b4/4N2P/P3RPP1/3R2K1 w - - 1 22,"Finding myself stuck, I randomly moved a piece"
+43,a3,a2a3,r2r2k1/p4ppp/2n5/1Np5/3b4/P3N2P/4RPP1/3R2K1 b - - 0 22,"Finding myself stuck, I randomly moved a piece"
+44,Bxe3,d4e3,r2r2k1/p4ppp/2n5/1Np5/8/P3b2P/4RPP1/3R2K1 w - - 0 23,First things first
+45,Rxd8+,d1d8,r2R2k1/p4ppp/2n5/1Np5/8/P3b2P/4RPP1/6K1 b - - 0 23,First things first
+46,Rxd8,a8d8,3r2k1/p4ppp/2n5/1Np5/8/P3b2P/4RPP1/6K1 w - - 0 24,"Blocking a possoble back rank mate, like I did"
+47,Rxe3,e2e3,3r2k1/p4ppp/2n5/1Np5/8/P3R2P/5PP1/6K1 b - - 0 24,"Blocking a possoble back rank mate, like I did"
+48,g6,g7g6,3r2k1/p4p1p/2n3p1/1Np5/8/P3R2P/5PP1/6K1 w - - 0 25,"Blocking a possoble back rank mate, like I did"
+49,Kh2,g1h2,3r2k1/p4p1p/2n3p1/1Np5/8/P3R2P/5PPK/8 b - - 1 25,Waisting no time to that move

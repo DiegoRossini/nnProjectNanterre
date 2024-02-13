@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Typical.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Pirc Defence. I've played against this before, but I'm not too familiar with it."
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Already out of openings book, but seems fine to me."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Already out of openings book, but seems fine to me."
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/3p4/4P3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Is this OK? I guess it throws black's castling opportunities away.
+6,dxe5,d6e5,rnbqkbnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Is this OK? I guess it throws black's castling opportunities away.
+7,Qxd8+,d1d8,rnbQkbnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNB1KBNR b KQkq - 0 4,Is this OK? I guess it throws black's castling opportunities away.
+8,Kxd8,e8d8,rnbk1bnr/ppp2ppp/8/4p3/4P3/8/PPP2PPP/RNB1KBNR w KQ - 0 5,Development.
+9,Nf3,g1f3,rnbk1bnr/ppp2ppp/8/4p3/4P3/5N2/PPP2PPP/RNB1KB1R b KQ - 1 5,Development.
+10,Nc6,b8c6,r1bk1bnr/ppp2ppp/2n5/4p3/4P3/5N2/PPP2PPP/RNB1KB1R w KQ - 2 6,Development.
+11,Bb5,f1b5,r1bk1bnr/ppp2ppp/2n5/1B2p3/4P3/5N2/PPP2PPP/RNB1K2R b KQ - 3 6,Development.
+12,f6,f7f6,r1bk1bnr/ppp3pp/2n2p2/1B2p3/4P3/5N2/PPP2PPP/RNB1K2R w KQ - 0 7,"If I do Bxc6, Nxe5 afterwards no longer wins material. Would Bd6 have been better though?"
+13,Bxc6,b5c6,r1bk1bnr/ppp3pp/2B2p2/4p3/4P3/5N2/PPP2PPP/RNB1K2R b KQ - 0 7,Trying to trade against strong opponents.
+14,bxc6,b7c6,r1bk1bnr/p1p3pp/2p2p2/4p3/4P3/5N2/PPP2PPP/RNB1K2R w KQ - 0 8,Trying to trade against strong opponents.
+15,O-O,e1g1,r1bk1bnr/p1p3pp/2p2p2/4p3/4P3/5N2/PPP2PPP/RNB2RK1 b - - 1 8,Castles.
+16,Bd6,f8d6,r1bk2nr/p1p3pp/2pb1p2/4p3/4P3/5N2/PPP2PPP/RNB2RK1 w - - 2 9,Both knights out.
+17,Nc3,b1c3,r1bk2nr/p1p3pp/2pb1p2/4p3/4P3/2N2N2/PPP2PPP/R1B2RK1 b - - 3 9,Both knights out.
+18,Ne7,g8e7,r1bk3r/p1p1n1pp/2pb1p2/4p3/4P3/2N2N2/PPP2PPP/R1B2RK1 w - - 4 10,Was this OK?
+19,Be3,c1e3,r1bk3r/p1p1n1pp/2pb1p2/4p3/4P3/2N1BN2/PPP2PPP/R4RK1 b - - 5 10,Was this OK?
+20,c5,c6c5,r1bk3r/p1p1n1pp/3b1p2/2p1p3/4P3/2N1BN2/PPP2PPP/R4RK1 w - - 0 11,Pinned.
+21,Rad1,a1d1,r1bk3r/p1p1n1pp/3b1p2/2p1p3/4P3/2N1BN2/PPP2PPP/3R1RK1 b - - 1 11,Pinned.
+22,Ba6,c8a6,r2k3r/p1p1n1pp/b2b1p2/2p1p3/4P3/2N1BN2/PPP2PPP/3R1RK1 w - - 2 12,Was black's move OK?
+23,Rfe1,f1e1,r2k3r/p1p1n1pp/b2b1p2/2p1p3/4P3/2N1BN2/PPP2PPP/3RR1K1 b - - 3 12,Free pawn.
+24,Rb8,a8b8,1r1k3r/p1p1n1pp/b2b1p2/2p1p3/4P3/2N1BN2/PPP2PPP/3RR1K1 w - - 4 13,Free pawn.
+25,Bxc5,e3c5,1r1k3r/p1p1n1pp/b2b1p2/2B1p3/4P3/2N2N2/PPP2PPP/3RR1K1 b - - 0 13,Free pawn.
+26,Ke8,d8e8,1r2k2r/p1p1n1pp/b2b1p2/2B1p3/4P3/2N2N2/PPP2PPP/3RR1K1 w - - 1 14,Breaks pin.
+27,Bxd6,c5d6,1r2k2r/p1p1n1pp/b2B1p2/4p3/4P3/2N2N2/PPP2PPP/3RR1K1 b - - 0 14,"Gains material, but is this OK?"
+28,cxd6,c7d6,1r2k2r/p3n1pp/b2p1p2/4p3/4P3/2N2N2/PPP2PPP/3RR1K1 w - - 0 15,"Gains material, but is this OK?"
+29,Rxd6,d1d6,1r2k2r/p3n1pp/b2R1p2/4p3/4P3/2N2N2/PPP2PPP/4R1K1 b - - 0 15,"Gains material, but is this OK?"
+30,Rb6,b8b6,4k2r/p3n1pp/br1R1p2/4p3/4P3/2N2N2/PPP2PPP/4R1K1 w - - 1 16,"Probably not too good, as trading behind generally isn't a good idea."
+31,Rxb6,d6b6,4k2r/p3n1pp/bR3p2/4p3/4P3/2N2N2/PPP2PPP/4R1K1 b - - 0 16,End of the bloodshed.
+32,axb6,a7b6,4k2r/4n1pp/bp3p2/4p3/4P3/2N2N2/PPP2PPP/4R1K1 w - - 0 17,End of the bloodshed.
+33,Nd5,c3d5,4k2r/4n1pp/bp3p2/3Np3/4P3/5N2/PPP2PPP/4R1K1 b - - 1 17,More trading.
+34,Nxd5,e7d5,4k2r/6pp/bp3p2/3np3/4P3/5N2/PPP2PPP/4R1K1 w - - 0 18,More trading.
+35,exd5,e4d5,4k2r/6pp/bp3p2/3Pp3/8/5N2/PPP2PPP/4R1K1 b - - 0 18,More trading.
+36,Ke7,e8e7,7r/4k1pp/bp3p2/3Pp3/8/5N2/PPP2PPP/4R1K1 w - - 1 19,Maybe he was hoping to kill pawn.
+37,Rd1,e1d1,7r/4k1pp/bp3p2/3Pp3/8/5N2/PPP2PPP/3R2K1 b - - 2 19,"Putting pressure on d5, but the pawn is still safe."
+38,Rd8,h8d8,3r4/4k1pp/bp3p2/3Pp3/8/5N2/PPP2PPP/3R2K1 w - - 3 20,"Putting pressure on d5, but the pawn is still safe."

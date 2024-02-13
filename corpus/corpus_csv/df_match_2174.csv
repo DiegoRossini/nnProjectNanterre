@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"So far, nothing too crazy. Neither player is doing much besides developing."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"So far, nothing too crazy. Neither player is doing much besides developing."
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"So far, nothing too crazy. Neither player is doing much besides developing."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"So far, nothing too crazy. Neither player is doing much besides developing."
+5,Nd2,b1d2,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPPNPPPP/R2QKBNR b KQkq - 3 3,"So far, nothing too crazy. Neither player is doing much besides developing."
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/8/PPPNPPPP/R2QKBNR w KQkq - 0 4,"So far, nothing too crazy. Neither player is doing much besides developing."
+7,e3,e2e3,rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/4P3/PPPN1PPP/R2QKBNR b KQkq - 0 4,"So far, nothing too crazy. Neither player is doing much besides developing."
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/4P3/PPPN1PPP/R2QKBNR w KQkq - 1 5,"So far, nothing too crazy. Neither player is doing much besides developing."
+9,Bd3,f1d3,rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/3BP3/PPPN1PPP/R2QK1NR b KQkq - 2 5,This is the first move that suggests my kingside will become under fire. I did not see it and continued with my development.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3p4/3P1B2/3BP3/PPPN1PPP/R2QK1NR w KQ - 3 6,"!? This looks pretty sound, but the important thing is that white needs to support the pawn."
+11,h4,h2h4,rnbq1rk1/ppp1ppbp/5np1/3p4/3P1B1P/3BP3/PPPN1PP1/R2QK1NR b KQ - 0 6,"!? This looks pretty sound, but the important thing is that white needs to support the pawn."
+12,c5,c7c5,rnbq1rk1/pp2ppbp/5np1/2pp4/3P1B1P/3BP3/PPPN1PP1/R2QK1NR w KQ - 0 7,I realized that white will probably try to castle queenside or keep the king in the center. With this in mind I need to open up the queenside and center.
+13,h5,h4h5,rnbq1rk1/pp2ppbp/5np1/2pp3P/3P1B2/3BP3/PPPN1PP1/R2QK1NR b KQ - 0 7,!? I take the bait. White should have had more pieces lined up to attack and supported the pawn.
+14,Nxh5,f6h5,rnbq1rk1/pp2ppbp/6p1/2pp3n/3P1B2/3BP3/PPPN1PP1/R2QK1NR w KQ - 0 8,!? I take the bait. White should have had more pieces lined up to attack and supported the pawn.
+15,Rxh5,h1h5,rnbq1rk1/pp2ppbp/6p1/2pp3R/3P1B2/3BP3/PPPN1PP1/R2QK1N1 b Q - 0 8,"? This looks scary for black but is not sound, even in blitz. The counterplay looks good, but it can be shut down. This is sac #1."
+16,gxh5,g6h5,rnbq1rk1/pp2ppbp/8/2pp3p/3P1B2/3BP3/PPPN1PP1/R2QK1N1 w Q - 0 9,This looks bad for black. Try to find his best defense.
+17,Qxh5,d1h5,rnbq1rk1/pp2ppbp/8/2pp3Q/3P1B2/3BP3/PPPN1PP1/R3K1N1 b Q - 0 9,This looks bad for black. Try to find his best defense.
+18,f5,f7f5,rnbq1rk1/pp2p1bp/8/2pp1p1Q/3P1B2/3BP3/PPPN1PP1/R3K1N1 w Q - 0 10,"! White's attack just fizzed. Even though as black you are not really supposed to move your kingside pawns, the defense was necessary. White could have continued with g4, but that pawn may just get in the way if it captures f5."
+19,O-O-O,e1c1,rnbq1rk1/pp2p1bp/8/2pp1p1Q/3P1B2/3BP3/PPPN1PP1/2KR2N1 b - - 1 10,"I know white is trying to swing his rook in, but this gives me time to consolidate and counter attack."
+20,Qe8,d8e8,rnb1qrk1/pp2p1bp/8/2pp1p1Q/3P1B2/3BP3/PPPN1PP1/2KR2N1 w - - 2 11,My queen is better placed on e8.
+21,Qh2,h5h2,rnb1qrk1/pp2p1bp/8/2pp1p2/3P1B2/3BP3/PPPN1PPQ/2KR2N1 b - - 3 11,White was threatening to capture my knight on g8. Bd7 was also an option.
+22,Nc6,b8c6,r1b1qrk1/pp2p1bp/2n5/2pp1p2/3P1B2/3BP3/PPPN1PPQ/2KR2N1 w - - 4 12,White was threatening to capture my knight on g8. Bd7 was also an option.
+23,Ngf3,g1f3,r1b1qrk1/pp2p1bp/2n5/2pp1p2/3P1B2/3BPN2/PPPN1PPQ/2KR4 b - - 5 12,I decide to push white's bishop back.
+24,c4,c5c4,r1b1qrk1/pp2p1bp/2n5/3p1p2/2pP1B2/3BPN2/PPPN1PPQ/2KR4 w - - 0 13,I decide to push white's bishop back.
+25,Ng5,f3g5,r1b1qrk1/pp2p1bp/2n5/3p1pN1/2pP1B2/3BP3/PPPN1PPQ/2KR4 b - - 1 13,Threatening Qxh7#
+26,Qg6,e8g6,r1b2rk1/pp2p1bp/2n3q1/3p1pN1/2pP1B2/3BP3/PPPN1PPQ/2KR4 w - - 2 14,The seeming best defense.
+27,Nxc4,d2c4,r1b2rk1/pp2p1bp/2n3q1/3p1pN1/2NP1B2/3BP3/PPP2PPQ/2KR4 b - - 0 14,"? Even though black is up material, I don't think that this is best. It again looks scary but lacks some soundness. Sacrifice #2."
+28,dxc4,d5c4,r1b2rk1/pp2p1bp/2n3q1/5pN1/2pP1B2/3BP3/PPP2PPQ/2KR4 w - - 0 15,Kh8 is bad since Bf7 threatens the queen. If Rxf7 than Nxf7 wins the exchange back since the black queen must defend h7.
+29,Bxc4+,d3c4,r1b2rk1/pp2p1bp/2n3q1/5pN1/2BP1B2/4P3/PPP2PPQ/2KR4 b - - 0 15,Kh8 is bad since Bf7 threatens the queen. If Rxf7 than Nxf7 wins the exchange back since the black queen must defend h7.
+30,e6,e7e6,r1b2rk1/pp4bp/2n1p1q1/5pN1/2BP1B2/4P3/PPP2PPQ/2KR4 w - - 0 16,"My bishop is now passive and bad. However, white has almost run out of pieces to attack black with! As weird and passive as black is, white's attack is about to be curbed."
+31,Rh1,d1h1,r1b2rk1/pp4bp/2n1p1q1/5pN1/2BP1B2/4P3/PPP2PPQ/2K4R b - - 1 16,Overpowering h7.
+32,h6,h7h6,r1b2rk1/pp4b1/2n1p1qp/5pN1/2BP1B2/4P3/PPP2PPQ/2K4R w - - 0 17,"This is not a difficult move to spot but is very strong. With the f7 square no longer attacked, black's king can escape to the queenside if necessary since black has enough pieces to defend his king."
+33,Nxe6,g5e6,r1b2rk1/pp4b1/2n1N1qp/5p2/2BP1B2/4P3/PPP2PPQ/2K4R b - - 0 17,Sacrifice #3. I think this is where the position is given to black.

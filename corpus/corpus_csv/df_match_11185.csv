@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Bishops opening. Again.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Bishops opening. Again.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Bishops opening. Again.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"Bishops Opening, Ponziani Gambit"
+5,d4,d2d4,rnbqkb1r/pppp1ppp/5n2/4p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3,"Bishops Opening, Ponziani Gambit"
+6,exd4,e5d4,rnbqkb1r/pppp1ppp/5n2/8/2BpP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4,"This is the main line. Question is what happens if e5? Oh, if e5, the ...d5."
+7,e5,e4e5,rnbqkb1r/pppp1ppp/5n2/4P3/2Bp4/8/PPP2PPP/RNBQK1NR b KQkq - 0 4,According to kibitz28.txt
+8,d5,d7d5,rnbqkb1r/ppp2ppp/5n2/3pP3/2Bp4/8/PPP2PPP/RNBQK1NR w KQkq d6 0 5,According to kibitz28.txt
+9,Bd3,c4d3,rnbqkb1r/ppp2ppp/5n2/3pP3/3p4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 5,"Dangerous move, inviting Qxd5."
+10,Ne4,f6e4,rnbqkb1r/ppp2ppp/8/3pP3/3pn3/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 6,"Dangerous move, inviting Qxd5."
+11,Be2,d3e2,rnbqkb1r/ppp2ppp/8/3pP3/3pn3/8/PPP1BPPP/RNBQK1NR b KQkq - 3 6,"Dangerous move, inviting Qxd5."
+12,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n5/3pP3/3pn3/8/PPP1BPPP/RNBQK1NR w KQkq - 4 7,"Dangerous move, inviting Qxd5."
+13,Bh5,e2h5,r1bqkb1r/ppp2ppp/2n5/3pP2B/3pn3/8/PPP2PPP/RNBQK1NR b KQkq - 5 7,"Dangerous move, inviting Qxd5."
+14,Nxe5,c6e5,r1bqkb1r/ppp2ppp/8/3pn2B/3pn3/8/PPP2PPP/RNBQK1NR w KQkq - 0 8,"Dangerous move, inviting Qxd5."
+15,f4,f2f4,r1bqkb1r/ppp2ppp/8/3pn2B/3pnP2/8/PPP3PP/RNBQK1NR b KQkq - 0 8,f4?
+16,Qh4+,d8h4,r1b1kb1r/ppp2ppp/8/3pn2B/3pnP1q/8/PPP3PP/RNBQK1NR w KQkq - 1 9,No effective way for white to counter the check.
+17,g3,g2g3,r1b1kb1r/ppp2ppp/8/3pn2B/3pnP1q/6P1/PPP4P/RNBQK1NR b KQkq - 0 9,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+18,Nxg3,e4g3,r1b1kb1r/ppp2ppp/8/3pn2B/3p1P1q/6n1/PPP4P/RNBQK1NR w KQkq - 0 10,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+19,Nf3,g1f3,r1b1kb1r/ppp2ppp/8/3pn2B/3p1P1q/5Nn1/PPP4P/RNBQK2R b KQkq - 1 10,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+20,Nxf3+,e5f3,r1b1kb1r/ppp2ppp/8/3p3B/3p1P1q/5nn1/PPP4P/RNBQK2R w KQkq - 0 11,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+21,Bxf3,h5f3,r1b1kb1r/ppp2ppp/8/3p4/3p1P1q/5Bn1/PPP4P/RNBQK2R b KQkq - 0 11,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+22,Nxh1+,g3h1,r1b1kb1r/ppp2ppp/8/3p4/3p1P1q/5B2/PPP4P/RNBQK2n w Qkq - 0 12,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+23,Kd2,e1d2,r1b1kb1r/ppp2ppp/8/3p4/3p1P1q/5B2/PPPK3P/RNBQ3n b kq - 1 12,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+24,Qxf4+,h4f4,r1b1kb1r/ppp2ppp/8/3p4/3p1q2/5B2/PPPK3P/RNBQ3n w kq - 0 13,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+25,Ke2,d2e2,r1b1kb1r/ppp2ppp/8/3p4/3p1q2/5B2/PPP1K2P/RNBQ3n b kq - 1 13,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+26,Qxh2+,f4h2,r1b1kb1r/ppp2ppp/8/3p4/3p4/5B2/PPP1K2q/RNBQ3n w kq - 0 14,"Key here is to keep checking, but avoid exchange of Queen via a white check"
+27,Kd3,e2d3,r1b1kb1r/ppp2ppp/8/3p4/3p4/3K1B2/PPP4q/RNBQ3n b kq - 1 14,
+28,Bf5+,c8f5,r3kb1r/ppp2ppp/8/3p1b2/3p4/3K1B2/PPP4q/RNBQ3n w kq - 2 15,
+29,Kxd4,d3d4,r3kb1r/ppp2ppp/8/3p1b2/3K4/5B2/PPP4q/RNBQ3n b kq - 0 15,
+30,c5+,c7c5,r3kb1r/pp3ppp/8/2pp1b2/3K4/5B2/PPP4q/RNBQ3n w kq - 0 16,
+31,Kxd5,d4d5,r3kb1r/pp3ppp/8/2pK1b2/8/5B2/PPP4q/RNBQ3n b kq - 0 16,
+32,O-O-O+,e8c8,2kr1b1r/pp3ppp/8/2pK1b2/8/5B2/PPP4q/RNBQ3n w - - 1 17,
+33,Kc4,d5c4,2kr1b1r/pp3ppp/8/2p2b2/2K5/5B2/PPP4q/RNBQ3n b - - 2 17,
+34,b5+,b7b5,2kr1b1r/p4ppp/8/1pp2b2/2K5/5B2/PPP4q/RNBQ3n w - - 0 18,
+35,Kxb5,c4b5,2kr1b1r/p4ppp/8/1Kp2b2/8/5B2/PPP4q/RNBQ3n b - - 0 18,
+36,Qb8+,h2b8,1qkr1b1r/p4ppp/8/1Kp2b2/8/5B2/PPP5/RNBQ3n w - - 1 19,

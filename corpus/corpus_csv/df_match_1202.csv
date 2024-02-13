@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English Opening. This was my standard opening at the time. I recently changed it to King's Pawn though.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"Black responds with English (A30), symmetrical variation."
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,"White responds with the English (A34), symmetrical variation."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,"Black responds with the English (A35), symmetrical variation. I see why they call it the symmetrical variation lol."
+5,e3,e2e3,r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 3,"This was, again, part of my original opening, which again, I have since changed. There's not anything wrong with this move though."
+6,d6,d7d6,r1bqkbnr/pp2pppp/2np4/2p5/2P5/2N1P3/PP1P1PPP/R1BQKBNR w KQkq - 0 4,"If you've seen my recent past annotations, you can already tell how different my openings are, and I think they were changed for the better."
+7,Nf3,g1f3,r1bqkbnr/pp2pppp/2np4/2p5/2P5/2N1PN2/PP1P1PPP/R1BQKB1R b KQkq - 1 4,"If you've seen my recent past annotations, you can already tell how different my openings are, and I think they were changed for the better."
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/2p5/2P5/2N1PN2/PP1P1PPP/R1BQKB1R w KQkq - 2 5,Not surprised to see all the knights out.
+9,h3,h2h3,r1bqkb1r/pp2pppp/2np1n2/2p5/2P5/2N1PN1P/PP1P1PP1/R1BQKB1R b KQkq - 0 5,"At this point, the game is simply starting off as standard: Both sides are even, and both sides continue to develop. I'm glad I'm able to do that now."
+10,Bf5,c8f5,r2qkb1r/pp2pppp/2np1n2/2p2b2/2P5/2N1PN1P/PP1P1PP1/R1BQKB1R w KQkq - 1 6,"At this point, the game is simply starting off as standard: Both sides are even, and both sides continue to develop. I'm glad I'm able to do that now."
+11,Be2,f1e2,r2qkb1r/pp2pppp/2np1n2/2p2b2/2P5/2N1PN1P/PP1PBPP1/R1BQK2R b KQkq - 2 6,White prepares to castle.
+12,g6,g7g6,r2qkb1r/pp2pp1p/2np1np1/2p2b2/2P5/2N1PN1P/PP1PBPP1/R1BQK2R w KQkq - 0 7,Black is preparing to castle as well.
+13,O-O,e1g1,r2qkb1r/pp2pp1p/2np1np1/2p2b2/2P5/2N1PN1P/PP1PBPP1/R1BQ1RK1 b kq - 1 7,"As expected, white castles."
+14,Bg7,f8g7,r2qk2r/pp2ppbp/2np1np1/2p2b2/2P5/2N1PN1P/PP1PBPP1/R1BQ1RK1 w kq - 2 8,White continues to develop.
+15,b3,b2b3,r2qk2r/pp2ppbp/2np1np1/2p2b2/2P5/1PN1PN1P/P2PBPP1/R1BQ1RK1 b kq - 0 8,White continues to develop.
+16,O-O,e8g8,r2q1rk1/pp2ppbp/2np1np1/2p2b2/2P5/1PN1PN1P/P2PBPP1/R1BQ1RK1 w - - 1 9,"As expected, black castles."
+17,d3,d2d3,r2q1rk1/pp2ppbp/2np1np1/2p2b2/2P5/1PNPPN1P/P3BPP1/R1BQ1RK1 b - - 0 9,"This would actually be my first inaccuracy, or minor mistake. Some of you may not be able to see it now, so I will explain through the next couple of moves."
+18,Ne4,f6e4,r2q1rk1/pp2ppbp/2np2p1/2p2b2/2P1n3/1PNPPN1P/P3BPP1/R1BQ1RK1 w - - 1 10,Take note that this is NOT a free knight.
+19,dxe4,d3e4,r2q1rk1/pp2ppbp/2np2p1/2p2b2/2P1P3/1PN1PN1P/P3BPP1/R1BQ1RK1 b - - 0 10,I still take of course.
+20,Bxc3,g7c3,r2q1rk1/pp2pp1p/2np2p1/2p2b2/2P1P3/1Pb1PN1P/P3BPP1/R1BQ1RK1 w - - 0 11,"Here's where that move I made on move 9 comes into play. See, when black moved his Knight to e4, his g7 Bishop was lined up for my c3 Knight. We see what happened next. Sounds like a simple exchange, but not exactly. I can't take black's LSB (Light Spaced Bishop) because his DSB (Dark Spaced Bishop) now targets my a1 rook. Of course I will move my rook. That move I made at move 9 did allow black to start to gain a bit of an advantage, but it could be worse. You will see the other reason why the move 9 move was an inaccuracy in a moment."
+21,Rb1,a1b1,r2q1rk1/pp2pp1p/2np2p1/2p2b2/2P1P3/1Pb1PN1P/P3BPP1/1RBQ1RK1 b - - 1 11,"Of course, as I said, white will protect his rook."
+22,Bxe4,f5e4,r2q1rk1/pp2pp1p/2np2p1/2p5/2P1b3/1Pb1PN1P/P3BPP1/1RBQ1RK1 w - - 0 12,"Here's the final result of white's inaccuracy earlier. Black gains a free pawn. It may only be a pawn and not matter that much, but since black is clearly getting a positional advantage, you can see now how 9. d3 was an inaccuracy. There is still plenty of game to go."
+23,Bd3,e2d3,r2q1rk1/pp2pp1p/2np2p1/2p5/2P1b3/1PbBPN1P/P4PP1/1RBQ1RK1 b - - 1 12,"It's pretty obvious to me that black plans to exchange pieces. It's not always the case though, so I play this move to ensure the exchange."

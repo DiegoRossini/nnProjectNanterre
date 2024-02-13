@@ -1,0 +1,84 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The starting position for all the games.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The starting position for all the games.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The starting position for all the games.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The starting position for all the games.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The starting position for all the games.
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,The starting position for all the games.
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,The starting position for all the games.
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,The starting position for all the games.
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,The starting position for all the games.
+10,Be7,f8e7,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6,The starting position for all the games.
+11,Qe2,d1e2,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPPQPPP/RNB2RK1 b kq - 5 6,The starting position for all the games.
+12,b5,b7b5,r1bqk2r/2ppbppp/p1n2n2/1p2p3/B3P3/5N2/PPPPQPPP/RNB2RK1 w kq - 0 7,The starting position for all the games.
+13,Bb3,a4b3,r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPPQPPP/RNB2RK1 b kq - 1 7,The starting position for all the games.
+14,O-O,e8g8,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPPQPPP/RNB2RK1 w - - 2 8,The starting position for all the games.
+15,c3,c2c3,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1PQPPP/RNB2RK1 b - - 0 8,"It took a while, but development is finally complete and the game starts taking shape."
+16,d5,d7d5,r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1PQPPP/RNB2RK1 w - - 0 9,"It took a while, but development is finally complete and the game starts taking shape."
+17,d3,d2d3,r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BPP1N2/PP2QPPP/RNB2RK1 b - - 0 9,"It took a while, but development is finally complete and the game starts taking shape."
+18,dxe4,d5e4,r1bq1rk1/2p1bppp/p1n2n2/1p2p3/4p3/1BPP1N2/PP2QPPP/RNB2RK1 w - - 0 10,"It took a while, but development is finally complete and the game starts taking shape."
+19,dxe4,d3e4,r1bq1rk1/2p1bppp/p1n2n2/1p2p3/4P3/1BP2N2/PP2QPPP/RNB2RK1 b - - 0 10,"It took a while, but development is finally complete and the game starts taking shape."
+20,Bg4,c8g4,r2q1rk1/2p1bppp/p1n2n2/1p2p3/4P1b1/1BP2N2/PP2QPPP/RNB2RK1 w - - 1 11,"It took a while, but development is finally complete and the game starts taking shape."
+21,h3,h2h3,r2q1rk1/2p1bppp/p1n2n2/1p2p3/4P1b1/1BP2N1P/PP2QPP1/RNB2RK1 b - - 0 11,"It took a while, but development is finally complete and the game starts taking shape."
+22,Bxf3,g4f3,r2q1rk1/2p1bppp/p1n2n2/1p2p3/4P3/1BP2b1P/PP2QPP1/RNB2RK1 w - - 0 12,"It took a while, but development is finally complete and the game starts taking shape."
+23,Qxf3,e2f3,r2q1rk1/2p1bppp/p1n2n2/1p2p3/4P3/1BP2Q1P/PP3PP1/RNB2RK1 b - - 0 12,"It took a while, but development is finally complete and the game starts taking shape."
+24,b4,b5b4,r2q1rk1/2p1bppp/p1n2n2/4p3/1p2P3/1BP2Q1P/PP3PP1/RNB2RK1 w - - 0 13,"It took a while, but development is finally complete and the game starts taking shape."
+25,Bd2,c1d2,r2q1rk1/2p1bppp/p1n2n2/4p3/1p2P3/1BP2Q1P/PP1B1PP1/RN3RK1 b - - 1 13,"It took a while, but development is finally complete and the game starts taking shape."
+26,a5,a6a5,r2q1rk1/2p1bppp/2n2n2/p3p3/1p2P3/1BP2Q1P/PP1B1PP1/RN3RK1 w - - 0 14,"It took a while, but development is finally complete and the game starts taking shape."
+27,Rd1,f1d1,r2q1rk1/2p1bppp/2n2n2/p3p3/1p2P3/1BP2Q1P/PP1B1PP1/RN1R2K1 b - - 1 14,"It took a while, but development is finally complete and the game starts taking shape."
+28,h6,h7h6,r2q1rk1/2p1bpp1/2n2n1p/p3p3/1p2P3/1BP2Q1P/PP1B1PP1/RN1R2K1 w - - 0 15,"It took a while, but development is finally complete and the game starts taking shape."
+29,a3,a2a3,r2q1rk1/2p1bpp1/2n2n1p/p3p3/1p2P3/PBP2Q1P/1P1B1PP1/RN1R2K1 b - - 0 15,"It took a while, but development is finally complete and the game starts taking shape."
+30,bxc3,b4c3,r2q1rk1/2p1bpp1/2n2n1p/p3p3/4P3/PBp2Q1P/1P1B1PP1/RN1R2K1 w - - 0 16,"It took a while, but development is finally complete and the game starts taking shape."
+31,Bxc3,d2c3,r2q1rk1/2p1bpp1/2n2n1p/p3p3/4P3/PBB2Q1P/1P3PP1/RN1R2K1 b - - 0 16,"It took a while, but development is finally complete and the game starts taking shape."
+32,Qc8,d8c8,r1q2rk1/2p1bpp1/2n2n1p/p3p3/4P3/PBB2Q1P/1P3PP1/RN1R2K1 w - - 1 17,"It took a while, but development is finally complete and the game starts taking shape."
+33,Nd2,b1d2,r1q2rk1/2p1bpp1/2n2n1p/p3p3/4P3/PBB2Q1P/1P1N1PP1/R2R2K1 b - - 2 17,"It took a while, but development is finally complete and the game starts taking shape."
+34,a4,a5a4,r1q2rk1/2p1bpp1/2n2n1p/4p3/p3P3/PBB2Q1P/1P1N1PP1/R2R2K1 w - - 0 18,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+35,Ba2,b3a2,r1q2rk1/2p1bpp1/2n2n1p/4p3/p3P3/P1B2Q1P/BP1N1PP1/R2R2K1 b - - 1 18,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+36,Bd6,e7d6,r1q2rk1/2p2pp1/2nb1n1p/4p3/p3P3/P1B2Q1P/BP1N1PP1/R2R2K1 w - - 2 19,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+37,Kh1,g1h1,r1q2rk1/2p2pp1/2nb1n1p/4p3/p3P3/P1B2Q1P/BP1N1PP1/R2R3K b - - 3 19,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+38,Ne7,c6e7,r1q2rk1/2p1npp1/3b1n1p/4p3/p3P3/P1B2Q1P/BP1N1PP1/R2R3K w - - 4 20,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+39,Nc4,d2c4,r1q2rk1/2p1npp1/3b1n1p/4p3/p1N1P3/P1B2Q1P/BP3PP1/R2R3K b - - 5 20,"After some maneuvering, I threaten to exchange off Black's remaining Bishop, which would leave me with the much better pair of minor pieces."
+40,Ng6,e7g6,r1q2rk1/2p2pp1/3b1nnp/4p3/p1N1P3/P1B2Q1P/BP3PP1/R2R3K w - - 6 21,I gain a Pawn in the mix-up
+41,Nxd6,c4d6,r1q2rk1/2p2pp1/3N1nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R2R3K b - - 0 21,I gain a Pawn in the mix-up
+42,cxd6,c7d6,r1q2rk1/5pp1/3p1nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R2R3K w - - 0 22,I gain a Pawn in the mix-up
+43,Rxd6,d1d6,r1q2rk1/5pp1/3R1nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R6K b - - 0 22,I gain a Pawn in the mix-up
+44,Ra6,a8a6,2q2rk1/5pp1/r2R1nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R6K w - - 1 23,"Up a pawn and with 2 B's vs. 2 Knights on an open board, I'm definitely not averse to exchanging major pieces."
+45,Rxa6,d6a6,2q2rk1/5pp1/R4nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R6K b - - 0 23,"Up a pawn and with 2 B's vs. 2 Knights on an open board, I'm definitely not averse to exchanging major pieces."
+46,Qxa6,c8a6,5rk1/5pp1/q4nnp/4p3/p3P3/P1B2Q1P/BP3PP1/R6K w - - 0 24,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+47,Rd1,a1d1,5rk1/5pp1/q4nnp/4p3/p3P3/P1B2Q1P/BP3PP1/3R3K b - - 1 24,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+48,Qb5,a6b5,5rk1/5pp1/5nnp/1q2p3/p3P3/P1B2Q1P/BP3PP1/3R3K w - - 2 25,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+49,Bd5,a2d5,5rk1/5pp1/5nnp/1q1Bp3/p3P3/P1B2Q1P/1P3PP1/3R3K b - - 3 25,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+50,Nxd5,f6d5,5rk1/5pp1/6np/1q1np3/p3P3/P1B2Q1P/1P3PP1/3R3K w - - 0 26,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+51,Rxd5,d1d5,5rk1/5pp1/6np/1q1Rp3/p3P3/P1B2Q1P/1P3PP1/7K b - - 0 26,I sacrifice a minor exchange with the intent of winning a second Pawn [Black's KP].
+52,Qf1+,b5f1,5rk1/5pp1/6np/3Rp3/p3P3/P1B2Q1P/1P3PP1/5q1K w - - 1 27,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+53,Kh2,h1h2,5rk1/5pp1/6np/3Rp3/p3P3/P1B2Q1P/1P3PPK/5q2 b - - 2 27,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+54,Nf4,g6f4,5rk1/5pp1/7p/3Rp3/p3Pn2/P1B2Q1P/1P3PPK/5q2 w - - 3 28,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+55,Bxe5,c3e5,5rk1/5pp1/7p/3RB3/p3Pn2/P4Q1P/1P3PPK/5q2 b - - 0 28,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+56,Nxd5,f4d5,5rk1/5pp1/7p/3nB3/p3P3/P4Q1P/1P3PPK/5q2 w - - 0 29,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+57,exd5,e4d5,5rk1/5pp1/7p/3PB3/p7/P4Q1P/1P3PPK/5q2 b - - 0 29,"In the confusion, I overlook that Black can win the Exchange. Now material is even, but my passed QP gives me an advantage."
+58,Qb5,f1b5,5rk1/5pp1/7p/1q1PB3/p7/P4Q1P/1P3PPK/8 w - - 1 30,Buying time by threatening mate.
+59,Qg4,f3g4,5rk1/5pp1/7p/1q1PB3/p5Q1/P6P/1P3PPK/8 b - - 2 30,Buying time by threatening mate.
+60,f6,f7f6,5rk1/6p1/5p1p/1q1PB3/p5Q1/P6P/1P3PPK/8 w - - 0 31,Keeping the initiative by attacking the Rook.
+61,Bd6,e5d6,5rk1/6p1/3B1p1p/1q1P4/p5Q1/P6P/1P3PPK/8 b - - 1 31,Keeping the initiative by attacking the Rook.
+62,Rd8,f8d8,3r2k1/6p1/3B1p1p/1q1P4/p5Q1/P6P/1P3PPK/8 w - - 2 32,"Now I've finally guarded my passed Pawn, and still maintain the initiative with a check."
+63,Qe6+,g4e6,3r2k1/6p1/3BQp1p/1q1P4/p7/P6P/1P3PPK/8 b - - 3 32,"Now I've finally guarded my passed Pawn, and still maintain the initiative with a check."
+64,Kh8,g8h8,3r3k/6p1/3BQp1p/1q1P4/p7/P6P/1P3PPK/8 w - - 4 33,Trying to set up a mate on the cornered King.
+65,Qf7,e6f7,3r3k/5Qp1/3B1p1p/1q1P4/p7/P6P/1P3PPK/8 b - - 5 33,Trying to set up a mate on the cornered King.
+66,Qxb2,b5b2,3r3k/5Qp1/3B1p1p/3P4/p7/P6P/1q3PPK/8 w - - 0 34,"I willingly give up the QNP to threaten mate in 1. Black's Q is now forced to defend his KN2, restricting its movements severely."
+67,Bf8,d6f8,3r1B1k/5Qp1/5p1p/3P4/p7/P6P/1q3PPK/8 b - - 1 34,"I willingly give up the QNP to threaten mate in 1. Black's Q is now forced to defend his KN2, restricting its movements severely."
+68,f5,f6f5,3r1B1k/5Qp1/7p/3P1p2/p7/P6P/1q3PPK/8 w - - 0 35,"In the meantime, with the Q tied down, I press my passed Pawn menacingly forward."
+69,d6,d5d6,3r1B1k/5Qp1/3P3p/5p2/p7/P6P/1q3PPK/8 b - - 0 35,"In the meantime, with the Q tied down, I press my passed Pawn menacingly forward."
+70,Qd4,b2d4,3r1B1k/5Qp1/3P3p/5p2/p2q4/P6P/5PPK/8 w - - 1 36,"Black could rid himself of the menacing Pawn with 36... RxP 37 QxR, but I would have a technically easy win with my piece ahead."
+71,Qe7,f7e7,3r1B1k/4Q1p1/3P3p/5p2/p2q4/P6P/5PPK/8 b - - 2 36,"Black could rid himself of the menacing Pawn with 36... RxP 37 QxR, but I would have a technically easy win with my piece ahead."
+72,Ra8,d8a8,r4B1k/4Q1p1/3P3p/5p2/p2q4/P6P/5PPK/8 w - - 3 37,Pressing forward.
+73,d7,d6d7,r4B1k/3PQ1p1/7p/5p2/p2q4/P6P/5PPK/8 b - - 0 37,Pressing forward.
+74,Kg8,h8g8,r4Bk1/3PQ1p1/7p/5p2/p2q4/P6P/5PPK/8 w - - 1 38,"If Black tries 38... Q-Q4 guarding the R and keeping the Queening square doubly guarded, I force his hand with 39 B-K7 dis ch."
+75,Qe8,e7e8,r3QBk1/3P2p1/7p/5p2/p2q4/P6P/5PPK/8 b - - 2 38,"If Black tries 38... Q-Q4 guarding the R and keeping the Queening square doubly guarded, I force his hand with 39 B-K7 dis ch."
+76,Rxe8,a8e8,4rBk1/3P2p1/7p/5p2/p2q4/P6P/5PPK/8 w - - 0 39,"Not only do I win the Rook, I also threaten to win at once with 40 B-B5 dis ch simultaneously attacking the Q."
+77,dxe8=Q,d7e8q,4QBk1/6p1/7p/5p2/p2q4/P6P/5PPK/8 b - - 0 39,"Not only do I win the Rook, I also threaten to win at once with 40 B-B5 dis ch simultaneously attacking the Q."
+78,Qc4,d4c4,4QBk1/6p1/7p/5p2/p1q5/P6P/5PPK/8 w - - 1 40,I secure my B and QRP while maintaining the initiative.
+79,Bb4+,f8b4,4Q1k1/6p1/7p/5p2/pBq5/P6P/5PPK/8 b - - 2 40,I secure my B and QRP while maintaining the initiative.
+80,Kh7,g8h7,4Q3/6pk/7p/5p2/pBq5/P6P/5PPK/8 w - - 3 41,Now I have yet another passed Pawn.
+81,Qxa4,e8a4,8/6pk/7p/5p2/QBq5/P6P/5PPK/8 b - - 0 41,Now I have yet another passed Pawn.
+82,Qf4+,c4f4,8/6pk/7p/5p2/QB3q2/P6P/5PPK/8 w - - 1 42,Black is still fighting...
+83,g3,g2g3,8/6pk/7p/5p2/QB3q2/P5PP/5P1K/8 b - - 0 42,Black is still fighting...

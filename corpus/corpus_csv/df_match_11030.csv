@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Centre counter, should give white open lines to attack with, and better centre control"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Centre counter, should give white open lines to attack with, and better centre control"
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Centre counter, should give white open lines to attack with, and better centre control"
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Accepting the pawn, the better move. Trying to protect the pawn gives white the option to push the d-pawn to d5 cramping blacks position."
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,White is now offering an extra pawn for speedier development. Accepting means black has to be accurate with his defence as white has better attacking options
+6,dxc3,d4c3,rnbqkbnr/pppp1ppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,"I always take the extra pawn, although it hasn't brought me much success in the past. White now has the options of Nxc3 or Bc4."
+7,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1P3/2p5/PP3PPP/RNBQK1NR b KQkq - 1 4,"The danish gambit, offering a 3rd pawn to allow white to get 2 bishops aimed at the kingside, and a lot of room on his queenside."
+8,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/2B1P3/2p5/PP3PPP/RNBQK1NR w KQkq - 2 5,"I decide I need to do some developing. More usual is cxb2, but a pawn up I feel no need to grab extra material at the minute. I go back on this decision next move, but with the night on c6 I have the option of Ne5 protecting the weak f-pawn if things get difficult"
+9,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/8/2B1P3/2p2N2/PP3PPP/RNBQK2R b KQkq - 3 5,Still ignores the pawn and continues development
+10,cxb2,c3b2,r1bqkbnr/pppp1ppp/2n5/8/2B1P3/5N2/Pp3PPP/RNBQK2R w KQkq - 0 6,I take the pawn allowing white to develope a 3rd piece to my 1.
+11,Bxb2,c1b2,r1bqkbnr/pppp1ppp/2n5/8/2B1P3/5N2/PB3PPP/RN1QK2R b KQkq - 0 6,Naturally recaptures the pawn. In this position white although 2 pawns down looks in a very strong position.
+12,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/8/2B1P3/5N2/PB3PPP/RN1QK2R w KQkq - 0 7,Played to allow me to move the g8 knight out without the annoying e5 push from white.
+13,O-O,e1g1,r1bqkbnr/ppp2ppp/2np4/8/2B1P3/5N2/PB3PPP/RN1Q1RK1 b kq - 1 7,"Castles to safety and brings out a rook which, when the queen moves, has 2 open files to use."
+14,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/8/2B1P3/5N2/PB3PPP/RN1Q1RK1 w kq - 2 8,I cannot play an immediate Nf6 as Ng5 will cause a number of problems. So I play a quiet move and wait for white to show his hand
+15,Nbd2,b1d2,r2qkbnr/pppb1ppp/2np4/8/2B1P3/5N2/PB1N1PPP/R2Q1RK1 b kq - 3 8,"White continues development, bringing out his final minor piece. He moves the knight here to keep it out of the line of his bishop on b2. The move seems awkward, and blocks the queen, but I would think the main aim of it is to allow the rook some movement. With three open files to use two well placed rooks could be a major asset for white."
+16,Be7,f8e7,r2qk1nr/pppbbppp/2np4/8/2B1P3/5N2/PB1N1PPP/R2Q1RK1 w kq - 4 9,"A terrible blunder, leaving the g2 pawn completely undefended. Such a simple mistake, and brings up a major point I was always telling the novices I taught. Always, before making a move, consider what your opponent will play. Whether this is a threat you need to block or a weakness you create with a move.
+After a move like that it's crucial to maintain focus and keep fighting, even if you have given your opponent a winning advantage."
+17,Bxg7,b2g7,r2qk1nr/pppbbpBp/2np4/8/2B1P3/5N2/P2N1PPP/R2Q1RK1 b kq - 0 9,Winning the pawn and the exchange
+18,Bf6,e7f6,r2qk1nr/pppb1pBp/2np1b2/8/2B1P3/5N2/P2N1PPP/R2Q1RK1 w kq - 1 10,Naturally to win back the bishop after it takes the rook. My hope in this position is that the extra pawn and bishop pair will give me some chance of defending the game
+19,Bxh8,g7h8,r2qk1nB/pppb1p1p/2np1b2/8/2B1P3/5N2/P2N1PPP/R2Q1RK1 b q - 0 10,"At this point I badly need to rearrange my forces and castle. My opponent however continues to make small threats that I need to defend, giving me no time to achieve anything I want to."
+20,Bxh8,f6h8,r2qk1nb/pppb1p1p/2np4/8/2B1P3/5N2/P2N1PPP/R2Q1RK1 w q - 0 11,"At this point I badly need to rearrange my forces and castle. My opponent however continues to make small threats that I need to defend, giving me no time to achieve anything I want to."
+21,Rb1,a1b1,r2qk1nb/pppb1p1p/2np4/8/2B1P3/5N2/P2N1PPP/1R1Q1RK1 b q - 1 11,"A subtle move, but very clever. As I mentioned before I badly want to castle, and can only do this queenside. Whites move forces a very difficult choice.
+1) 11...Rb8 giving up castling rights, and trapping my king in the centre
+2) 11...b6 weakening the white squares on the queenside, making it less safe to caslte. eg Ba6 gets behind the pawns and opens up mating threats on b7 with either the queen or by pushing the a-pawn to open up the pawns"
+22,Rb8,a8b8,1r1qk1nb/pppb1p1p/2np4/8/2B1P3/5N2/P2N1PPP/1R1Q1RK1 w - - 2 12,"Relatively best, but my play needs to be accurate to avoid a swift checkmate with my exposed king"
+23,Qc2,d1c2,1r1qk1nb/pppb1p1p/2np4/8/2B1P3/5N2/P1QN1PPP/1R3RK1 b - - 3 12,"A quiet move, setting up the threat of 13. e5 and 14. Qxh7, with major complications."

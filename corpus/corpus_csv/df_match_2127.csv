@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,same
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,knight out
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,same
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,moves pawns
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/5n2/4p3/1b2P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,check
+7,c3,c2c3,rnbqk2r/pppp1ppp/5n2/4p3/1b2P3/2PP1N2/PP3PPP/RNBQKB1R b KQkq - 0 4,blocks
+8,Ba5,b4a5,rnbqk2r/pppp1ppp/5n2/b3p3/4P3/2PP1N2/PP3PPP/RNBQKB1R w KQkq - 1 5,back
+9,d4,d3d4,rnbqk2r/pppp1ppp/5n2/b3p3/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5,moves pawn
+10,Nxe4,f6e4,rnbqk2r/pppp1ppp/8/b3p3/3Pn3/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 6,takes pawn
+11,dxe5,d4e5,rnbqk2r/pppp1ppp/8/b3P3/4n3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 6,takes pawn
+12,O-O,e8g8,rnbq1rk1/pppp1ppp/8/b3P3/4n3/2P2N2/PP3PPP/RNBQKB1R w KQ - 1 7,castle
+13,Bd3,f1d3,rnbq1rk1/pppp1ppp/8/b3P3/4n3/2PB1N2/PP3PPP/RNBQK2R b KQ - 2 7,moves bishop
+14,Nc5,e4c5,rnbq1rk1/pppp1ppp/8/b1n1P3/8/2PB1N2/PP3PPP/RNBQK2R w KQ - 3 8,moves back
+15,Bc4,d3c4,rnbq1rk1/pppp1ppp/8/b1n1P3/2B5/2P2N2/PP3PPP/RNBQK2R b KQ - 4 8,moves bishop
+16,Nc6,b8c6,r1bq1rk1/pppp1ppp/2n5/b1n1P3/2B5/2P2N2/PP3PPP/RNBQK2R w KQ - 5 9,both kinghts out
+17,Bf4,c1f4,r1bq1rk1/pppp1ppp/2n5/b1n1P3/2B2B2/2P2N2/PP3PPP/RN1QK2R b KQ - 6 9,both bishops out
+18,Ne4,c5e4,r1bq1rk1/pppp1ppp/2n5/b3P3/2B1nB2/2P2N2/PP3PPP/RN1QK2R w KQ - 7 10,moves knights
+19,b4,b2b4,r1bq1rk1/pppp1ppp/2n5/b3P3/1PB1nB2/2P2N2/P4PPP/RN1QK2R b KQ - 0 10,moves pawn
+20,Bxb4,a5b4,r1bq1rk1/pppp1ppp/2n5/4P3/1bB1nB2/2P2N2/P4PPP/RN1QK2R w KQ - 0 11,white down by 2

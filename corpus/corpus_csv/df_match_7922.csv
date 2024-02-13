@@ -1,0 +1,97 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,More experimentation on random openings.
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,More experimentation on random openings.
+3,e5,e4e5,rnbqkbnr/pppppp1p/6p1/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Black now has a 2 to 1 pawn advantage in the center.
+4,d6,d7d6,rnbqkbnr/ppp1pp1p/3p2p1/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,Black now has a 2 to 1 pawn advantage in the center.
+5,Nf3,g1f3,rnbqkbnr/ppp1pp1p/3p2p1/4P3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 3,Black now has a 2 to 1 pawn advantage in the center.
+6,Bg7,f8g7,rnbqk1nr/ppp1ppbp/3p2p1/4P3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 4,Black now has a 2 to 1 pawn advantage in the center.
+7,exd6,e5d6,rnbqk1nr/ppp1ppbp/3P2p1/8/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 4,Black now has a 2 to 1 pawn advantage in the center.
+8,cxd6,c7d6,rnbqk1nr/pp2ppbp/3p2p1/8/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5,Black now has a 2 to 1 pawn advantage in the center.
+9,Bb5+,f1b5,rnbqk1nr/pp2ppbp/3p2p1/1B6/8/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 5,This could delay White's castling.
+10,Nc6,b8c6,r1bqk1nr/pp2ppbp/2np2p1/1B6/8/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 6,This could delay White's castling.
+11,Ng5,f3g5,r1bqk1nr/pp2ppbp/2np2p1/1B4N1/8/8/PPPP1PPP/RNBQK2R b KQkq - 3 6,This could delay White's castling.
+12,Nf6,g8f6,r1bqk2r/pp2ppbp/2np1np1/1B4N1/8/8/PPPP1PPP/RNBQK2R w KQkq - 4 7,This could delay White's castling.
+13,d4,d2d4,r1bqk2r/pp2ppbp/2np1np1/1B4N1/3P4/8/PPP2PPP/RNBQK2R b KQkq - 0 7,This could delay White's castling.
+14,O-O,e8g8,r1bq1rk1/pp2ppbp/2np1np1/1B4N1/3P4/8/PPP2PPP/RNBQK2R w KQ - 1 8,This could delay White's castling.
+15,Bxc6,b5c6,r1bq1rk1/pp2ppbp/2Bp1np1/6N1/3P4/8/PPP2PPP/RNBQK2R b KQ - 0 8,This could delay White's castling.
+16,bxc6,b7c6,r1bq1rk1/p3ppbp/2pp1np1/6N1/3P4/8/PPP2PPP/RNBQK2R w KQ - 0 9,This could delay White's castling.
+17,Qf3,d1f3,r1bq1rk1/p3ppbp/2pp1np1/6N1/3P4/5Q2/PPP2PPP/RNB1K2R b KQ - 1 9,This could delay White's castling.
+18,Qd7,d8d7,r1b2rk1/p2qppbp/2pp1np1/6N1/3P4/5Q2/PPP2PPP/RNB1K2R w KQ - 2 10,This could delay White's castling.
+19,Nc3,b1c3,r1b2rk1/p2qppbp/2pp1np1/6N1/3P4/2N2Q2/PPP2PPP/R1B1K2R b KQ - 3 10,This could delay White's castling.
+20,Ba6,c8a6,r4rk1/p2qppbp/b1pp1np1/6N1/3P4/2N2Q2/PPP2PPP/R1B1K2R w KQ - 4 11,This could delay White's castling.
+21,Qe3,f3e3,r4rk1/p2qppbp/b1pp1np1/6N1/3P4/2N1Q3/PPP2PPP/R1B1K2R b KQ - 5 11,Trying to open the e file.
+22,Rfe8,f8e8,r3r1k1/p2qppbp/b1pp1np1/6N1/3P4/2N1Q3/PPP2PPP/R1B1K2R w KQ - 6 12,Trying to open the e file.
+23,Bd2,c1d2,r3r1k1/p2qppbp/b1pp1np1/6N1/3P4/2N1Q3/PPPB1PPP/R3K2R b KQ - 7 12,Trying to open the e file.
+24,e5,e7e5,r3r1k1/p2q1pbp/b1pp1np1/4p1N1/3P4/2N1Q3/PPPB1PPP/R3K2R w KQ - 0 13,Trying to open the e file.
+25,O-O-O,e1c1,r3r1k1/p2q1pbp/b1pp1np1/4p1N1/3P4/2N1Q3/PPPB1PPP/2KR3R b - - 1 13,Black is now a pawn ahead.
+26,exd4,e5d4,r3r1k1/p2q1pbp/b1pp1np1/6N1/3p4/2N1Q3/PPPB1PPP/2KR3R w - - 0 14,Black is now a pawn ahead.
+27,Qxd4,e3d4,r3r1k1/p2q1pbp/b1pp1np1/6N1/3Q4/2N5/PPPB1PPP/2KR3R b - - 0 14,Black is now a pawn ahead.
+28,Rad8,a8d8,3rr1k1/p2q1pbp/b1pp1np1/6N1/3Q4/2N5/PPPB1PPP/2KR3R w - - 1 15,Black is now a pawn ahead.
+29,Qa4,d4a4,3rr1k1/p2q1pbp/b1pp1np1/6N1/Q7/2N5/PPPB1PPP/2KR3R b - - 2 15,Black is now a pawn ahead.
+30,Bb5,a6b5,3rr1k1/p2q1pbp/2pp1np1/1b4N1/Q7/2N5/PPPB1PPP/2KR3R w - - 3 16,Black is now a pawn ahead.
+31,Nxb5,c3b5,3rr1k1/p2q1pbp/2pp1np1/1N4N1/Q7/8/PPPB1PPP/2KR3R b - - 0 16,Black is now a pawn ahead.
+32,cxb5,c6b5,3rr1k1/p2q1pbp/3p1np1/1p4N1/Q7/8/PPPB1PPP/2KR3R w - - 0 17,Black is now a pawn ahead.
+33,Qb3,a4b3,3rr1k1/p2q1pbp/3p1np1/1p4N1/8/1Q6/PPPB1PPP/2KR3R b - - 1 17,Black is now a pawn ahead.
+34,d5,d6d5,3rr1k1/p2q1pbp/5np1/1p1p2N1/8/1Q6/PPPB1PPP/2KR3R w - - 0 18,Black is now a pawn ahead.
+35,Bc3,d2c3,3rr1k1/p2q1pbp/5np1/1p1p2N1/8/1QB5/PPP2PPP/2KR3R b - - 1 18,Black is now a pawn ahead.
+36,a6,a7a6,3rr1k1/3q1pbp/p4np1/1p1p2N1/8/1QB5/PPP2PPP/2KR3R w - - 0 19,Black is now a pawn ahead.
+37,Bxf6,c3f6,3rr1k1/3q1pbp/p4Bp1/1p1p2N1/8/1Q6/PPP2PPP/2KR3R b - - 0 19,Black is now a pawn ahead.
+38,Bxf6,g7f6,3rr1k1/3q1p1p/p4bp1/1p1p2N1/8/1Q6/PPP2PPP/2KR3R w - - 0 20,Black is now a pawn ahead.
+39,f4,f2f4,3rr1k1/3q1p1p/p4bp1/1p1p2N1/5P2/1Q6/PPP3PP/2KR3R b - - 0 20,Black is now a pawn ahead.
+40,Qf5,d7f5,3rr1k1/5p1p/p4bp1/1p1p1qN1/5P2/1Q6/PPP3PP/2KR3R w - - 1 21,Black is now a pawn ahead.
+41,g3,g2g3,3rr1k1/5p1p/p4bp1/1p1p1qN1/5P2/1Q4P1/PPP4P/2KR3R b - - 0 21,Black is now a pawn ahead.
+42,Bxg5,f6g5,3rr1k1/5p1p/p5p1/1p1p1qb1/5P2/1Q4P1/PPP4P/2KR3R w - - 0 22,Black is now a pawn ahead.
+43,fxg5,f4g5,3rr1k1/5p1p/p5p1/1p1p1qP1/8/1Q4P1/PPP4P/2KR3R b - - 0 22,Black is now a pawn ahead.
+44,Qxg5+,f5g5,3rr1k1/5p1p/p5p1/1p1p2q1/8/1Q4P1/PPP4P/2KR3R w - - 0 23,Black is now a pawn ahead.
+45,Kb1,c1b1,3rr1k1/5p1p/p5p1/1p1p2q1/8/1Q4P1/PPP4P/1K1R3R b - - 1 23,White's position could become difficult.
+46,d4,d5d4,3rr1k1/5p1p/p5p1/1p4q1/3p4/1Q4P1/PPP4P/1K1R3R w - - 0 24,White's position could become difficult.
+47,Rhf1,h1f1,3rr1k1/5p1p/p5p1/1p4q1/3p4/1Q4P1/PPP4P/1K1R1R2 b - - 1 24,White's position could become difficult.
+48,Qd5,g5d5,3rr1k1/5p1p/p5p1/1p1q4/3p4/1Q4P1/PPP4P/1K1R1R2 w - - 2 25,White's position could become difficult.
+49,Qa3,b3a3,3rr1k1/5p1p/p5p1/1p1q4/3p4/Q5P1/PPP4P/1K1R1R2 b - - 3 25,White's position could become difficult.
+50,Re3,e8e3,3r2k1/5p1p/p5p1/1p1q4/3p4/Q3r1P1/PPP4P/1K1R1R2 w - - 4 26,White's position could become difficult.
+51,Qxa6,a3a6,3r2k1/5p1p/Q5p1/1p1q4/3p4/4r1P1/PPP4P/1K1R1R2 b - - 0 26,White's position could become difficult.
+52,Ra8,d8a8,r5k1/5p1p/Q5p1/1p1q4/3p4/4r1P1/PPP4P/1K1R1R2 w - - 1 27,White's position could become difficult.
+53,Qf6,a6f6,r5k1/5p1p/5Qp1/1p1q4/3p4/4r1P1/PPP4P/1K1R1R2 b - - 2 27,White's position could become difficult.
+54,Qxa2+,d5a2,r5k1/5p1p/5Qp1/1p6/3p4/4r1P1/qPP4P/1K1R1R2 w - - 0 28,White's position could become difficult.
+55,Kc1,b1c1,r5k1/5p1p/5Qp1/1p6/3p4/4r1P1/qPP4P/2KR1R2 b - - 1 28,White has lost considerable material now and is on the ropes.
+56,Qc4,a2c4,r5k1/5p1p/5Qp1/1p6/2qp4/4r1P1/1PP4P/2KR1R2 w - - 2 29,White has lost considerable material now and is on the ropes.
+57,c3,c2c3,r5k1/5p1p/5Qp1/1p6/2qp4/2P1r1P1/1P5P/2KR1R2 b - - 0 29,White has lost considerable material now and is on the ropes.
+58,Ra1+,a8a1,6k1/5p1p/5Qp1/1p6/2qp4/2P1r1P1/1P5P/r1KR1R2 w - - 1 30,White has lost considerable material now and is on the ropes.
+59,Kc2,c1c2,6k1/5p1p/5Qp1/1p6/2qp4/2P1r1P1/1PK4P/r2R1R2 b - - 2 30,White has lost considerable material now and is on the ropes.
+60,d3+,d4d3,6k1/5p1p/5Qp1/1p6/2q5/2Ppr1P1/1PK4P/r2R1R2 w - - 0 31,White has lost considerable material now and is on the ropes.
+61,Rxd3,d1d3,6k1/5p1p/5Qp1/1p6/2q5/2PRr1P1/1PK4P/r4R2 b - - 0 31,White has lost considerable material now and is on the ropes.
+62,Qxd3+,c4d3,6k1/5p1p/5Qp1/1p6/8/2Pqr1P1/1PK4P/r4R2 w - - 0 32,White has lost considerable material now and is on the ropes.
+63,Kb3,c2b3,6k1/5p1p/5Qp1/1p6/8/1KPqr1P1/1P5P/r4R2 b - - 1 32,White has lost considerable material now and is on the ropes.
+64,Rxf1,a1f1,6k1/5p1p/5Qp1/1p6/8/1KPqr1P1/1P5P/5r2 w - - 0 33,White has lost considerable material now and is on the ropes.
+65,Qc6,f6c6,6k1/5p1p/2Q3p1/1p6/8/1KPqr1P1/1P5P/5r2 b - - 1 33,Black has an easy win from here.  White's pawn cannot be protected.
+66,Qc4+,d3c4,6k1/5p1p/2Q3p1/1p6/2q5/1KP1r1P1/1P5P/5r2 w - - 2 34,Black has an easy win from here.  White's pawn cannot be protected.
+67,Qxc4,c6c4,6k1/5p1p/6p1/1p6/2Q5/1KP1r1P1/1P5P/5r2 b - - 0 34,Black has an easy win from here.  White's pawn cannot be protected.
+68,bxc4+,b5c4,6k1/5p1p/6p1/8/2p5/1KP1r1P1/1P5P/5r2 w - - 0 35,Black has an easy win from here.  White's pawn cannot be protected.
+69,Kxc4,b3c4,6k1/5p1p/6p1/8/2K5/2P1r1P1/1P5P/5r2 b - - 0 35,Black has an easy win from here.  White's pawn cannot be protected.
+70,Re2,e3e2,6k1/5p1p/6p1/8/2K5/2P3P1/1P2r2P/5r2 w - - 1 36,Black has an easy win from here.  White's pawn cannot be protected.
+71,b3,b2b3,6k1/5p1p/6p1/8/2K5/1PP3P1/4r2P/5r2 b - - 0 36,Black has an easy win from here.  White's pawn cannot be protected.
+72,Rxh2,e2h2,6k1/5p1p/6p1/8/2K5/1PP3P1/7r/5r2 w - - 0 37,Black has an easy win from here.  White's pawn cannot be protected.
+73,b4,b3b4,6k1/5p1p/6p1/8/1PK5/2P3P1/7r/5r2 b - - 0 37,Black has an easy win from here.  White's pawn cannot be protected.
+74,Rg2,h2g2,6k1/5p1p/6p1/8/1PK5/2P3P1/6r1/5r2 w - - 1 38,Black has an easy win from here.  White's pawn cannot be protected.
+75,b5,b4b5,6k1/5p1p/6p1/1P6/2K5/2P3P1/6r1/5r2 b - - 0 38,Black has an easy win from here.  White's pawn cannot be protected.
+76,Rxg3,g2g3,6k1/5p1p/6p1/1P6/2K5/2P3r1/8/5r2 w - - 0 39,Black has an easy win from here.  White's pawn cannot be protected.
+77,b6,b5b6,6k1/5p1p/1P4p1/8/2K5/2P3r1/8/5r2 b - - 0 39,Black has an easy win from here.  White's pawn cannot be protected.
+78,Rb1,f1b1,6k1/5p1p/1P4p1/8/2K5/2P3r1/8/1r6 w - - 1 40,Black has an easy win from here.  White's pawn cannot be protected.
+79,Kc5,c4c5,6k1/5p1p/1P4p1/2K5/8/2P3r1/8/1r6 b - - 2 40,Black has an easy win from here.  White's pawn cannot be protected.
+80,Rxc3+,g3c3,6k1/5p1p/1P4p1/2K5/8/2r5/8/1r6 w - - 0 41,Black has an easy win from here.  White's pawn cannot be protected.
+81,Kd4,c5d4,6k1/5p1p/1P4p1/8/3K4/2r5/8/1r6 b - - 1 41,An elementary checkmate.
+82,Rcb3,c3b3,6k1/5p1p/1P4p1/8/3K4/1r6/8/1r6 w - - 2 42,An elementary checkmate.
+83,Kc5,d4c5,6k1/5p1p/1P4p1/2K5/8/1r6/8/1r6 b - - 3 42,An elementary checkmate.
+84,Rb3xb6,b3b6,6k1/5p1p/1r4p1/2K5/8/8/8/1r6 w - - 0 43,An elementary checkmate.
+85,Kd5,c5d5,6k1/5p1p/1r4p1/3K4/8/8/8/1r6 b - - 1 43,An elementary checkmate.
+86,Re6,b6e6,6k1/5p1p/4r1p1/3K4/8/8/8/1r6 w - - 2 44,An elementary checkmate.
+87,Kc5,d5c5,6k1/5p1p/4r1p1/2K5/8/8/8/1r6 b - - 3 44,An elementary checkmate.
+88,Rd1,b1d1,6k1/5p1p/4r1p1/2K5/8/8/8/3r4 w - - 4 45,An elementary checkmate.
+89,Kb5,c5b5,6k1/5p1p/4r1p1/1K6/8/8/8/3r4 b - - 5 45,An elementary checkmate.
+90,Rc1,d1c1,6k1/5p1p/4r1p1/1K6/8/8/8/2r5 w - - 6 46,An elementary checkmate.
+91,Kb4,b5b4,6k1/5p1p/4r1p1/8/1K6/8/8/2r5 b - - 7 46,An elementary checkmate.
+92,Rb6+,e6b6,6k1/5p1p/1r4p1/8/1K6/8/8/2r5 w - - 8 47,An elementary checkmate.
+93,Ka5,b4a5,6k1/5p1p/1r4p1/K7/8/8/8/2r5 b - - 9 47,An elementary checkmate.
+94,Rb2,b6b2,6k1/5p1p/6p1/K7/8/8/1r6/2r5 w - - 10 48,An elementary checkmate.
+95,Ka4,a5a4,6k1/5p1p/6p1/8/K7/8/1r6/2r5 b - - 11 48,
+96,Ra1#,c1a1,6k1/5p1p/6p1/8/K7/8/1r6/r7 w - - 12 49,

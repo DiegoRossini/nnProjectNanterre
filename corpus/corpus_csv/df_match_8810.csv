@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,A good sacrifice saves a bad opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+7,Nbd2,b1d2,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 0 5,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+9,e3,e2e3,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 0 5,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+10,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 1 6,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+11,c3,c2c3,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQkq - 0 6,"This move is necessary here to prevent black's Qb6, making possible the countermove Qc2."
+12,Bd6,f8d6,r1bqk2r/pp3ppp/2nbpn2/2pp4/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQkq - 1 7,"The ""key"" of this opening. If something takes my Knight, I take with the pawn. While it seems to make my bishop useless, it provides me with a strong ""disturbing element"" that allows me to attack the kingside. In fact, the best strategy for black is to castle queenside."
+13,Ne5,f3e5,r1bqk2r/pp3ppp/2nbpn2/2ppN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R b KQkq - 2 7,"The ""key"" of this opening. If something takes my Knight, I take with the pawn. While it seems to make my bishop useless, it provides me with a strong ""disturbing element"" that allows me to attack the kingside. In fact, the best strategy for black is to castle queenside."
+14,Qc7,d8c7,r1b1k2r/ppq2ppp/2nbpn2/2ppN3/3P1B2/2P1P3/PP1N1PPP/R2QKB1R w KQkq - 3 8,"Just in time, as foreseen."
+15,Ndf3,d2f3,r1b1k2r/ppq2ppp/2nbpn2/2ppN3/3P1B2/2P1PN2/PP3PPP/R2QKB1R b KQkq - 4 8,"Just in time, as foreseen."
+16,O-O,e8g8,r1b2rk1/ppq2ppp/2nbpn2/2ppN3/3P1B2/2P1PN2/PP3PPP/R2QKB1R w KQ - 5 9,"He ""falls"" in my preferred attack scheme."
+17,g4,g2g4,r1b2rk1/ppq2ppp/2nbpn2/2ppN3/3P1BP1/2P1PN2/PP3P1P/R2QKB1R b KQ - 0 9,"Slower but safer h4, or even h3-g4. But I wanted to open the g column."
+18,cxd4,c5d4,r1b2rk1/ppq2ppp/2nbpn2/3pN3/3p1BP1/2P1PN2/PP3P1P/R2QKB1R w KQ - 0 10,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+19,exd4,e3d4,r1b2rk1/ppq2ppp/2nbpn2/3pN3/3P1BP1/2P2N2/PP3P1P/R2QKB1R b KQ - 0 10,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+20,Nxg4,f6g4,r1b2rk1/ppq2ppp/2nbp3/3pN3/3P1Bn1/2P2N2/PP3P1P/R2QKB1R w KQ - 0 11,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+21,Nxg4,e5g4,r1b2rk1/ppq2ppp/2nbp3/3p4/3P1BN1/2P2N2/PP3P1P/R2QKB1R b KQ - 0 11,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+22,Bxf4,d6f4,r1b2rk1/ppq2ppp/2n1p3/3p4/3P1bN1/2P2N2/PP3P1P/R2QKB1R w KQ - 0 12,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+23,Rg1,h1g1,r1b2rk1/ppq2ppp/2n1p3/3p4/3P1bN1/2P2N2/PP3P1P/R2QKBR1 b Q - 1 12,"Now, the black bishop is bothering me, yes, but my guns are pointing at the enemys heart."
+24,f5,f7f5,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P1bN1/2P2N2/PP3P1P/R2QKBR1 w Q - 0 13,The right one (ouch!)
+25,Ne3,g4e3,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P1b2/2P1NN2/PP3P1P/R2QKBR1 b Q - 1 13,"This bishop won't do anything, here, but I have to prepare the run of my forces across the 1 row. Also, it means that a future f5-f4 would be almost impossible for him."
+26,Bxh2,f4h2,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P4/2P1NN2/PP3P1b/R2QKBR1 w Q - 0 14,"This bishop won't do anything, here, but I have to prepare the run of my forces across the 1 row. Also, it means that a future f5-f4 would be almost impossible for him."
+27,Rg2,g1g2,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P4/2P1NN2/PP3PRb/R2QKB2 b Q - 1 14,"This bishop won't do anything, here, but I have to prepare the run of my forces across the 1 row. Also, it means that a future f5-f4 would be almost impossible for him."
+28,Bf4,h2f4,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P1b2/2P1NN2/PP3PR1/R2QKB2 w Q - 2 15,"This bishop won't do anything, here, but I have to prepare the run of my forces across the 1 row. Also, it means that a future f5-f4 would be almost impossible for him."
+29,Bd3,f1d3,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P1b2/2PBNN2/PP3PR1/R2QK3 b Q - 3 15,"This bishop won't do anything, here, but I have to prepare the run of my forces across the 1 row. Also, it means that a future f5-f4 would be almost impossible for him."
+30,Bxe3,f4e3,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P4/2PBbN2/PP3PR1/R2QK3 w Q - 0 16,"Anyway, this entire line is not the best for white, and in fact I am inferior now."
+31,fxe3,f2e3,r1b2rk1/ppq3pp/2n1p3/3p1p2/3P4/2PBPN2/PP4R1/R2QK3 b Q - 0 16,"Anyway, this entire line is not the best for white, and in fact I am inferior now."
+32,h6,h7h6,r1b2rk1/ppq3p1/2n1p2p/3p1p2/3P4/2PBPN2/PP4R1/R2QK3 w Q - 0 17,"Anyway, this entire line is not the best for white, and in fact I am inferior now."
+33,Kd2,e1d2,r1b2rk1/ppq3p1/2n1p2p/3p1p2/3P4/2PBPN2/PP1K2R1/R2Q4 b - - 1 17,"Things you have to do in order to speed up the attack. To move the queen would have been too slow, since it has no good square. Now, it can go to h1, and the other rook to g1..."
+34,g5,g7g5,r1b2rk1/ppq5/2n1p2p/3p1pp1/3P4/2PBPN2/PP1K2R1/R2Q4 w - - 0 18,"Wrong line. Black should have developed, solving his Bc8 problem, instead of trying a futile attack."
+35,Nxg5,f3g5,r1b2rk1/ppq5/2n1p2p/3p1pN1/3P4/2PBP3/PP1K2R1/R2Q4 b - - 0 18,"Of course. If hxN, Rxg5 , Kf7, Qh5  etc. He loses his queen for a rook, minimum."
+36,Kh8,g8h8,r1b2r1k/ppq5/2n1p2p/3p1pN1/3P4/2PBP3/PP1K2R1/R2Q4 w - - 1 19,"With my pieces like that, I recovered the position, with advantage."
+37,Qh5,d1h5,r1b2r1k/ppq5/2n1p2p/3p1pNQ/3P4/2PBP3/PP1K2R1/R7 b - - 2 19,"With my pieces like that, I recovered the position, with advantage."
+38,Qg7,c7g7,r1b2r1k/pp4q1/2n1p2p/3p1pNQ/3P4/2PBP3/PP1K2R1/R7 w - - 3 20,What else? Maybe Rf6 would have been better.
+39,Nf7+,g5f7,r1b2r1k/pp3Nq1/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K2R1/R7 b - - 4 20,"Nice, isn't it? RxN, RxQ, and if QxN, Qxh6, Qh7, Qxf8 winning."
+40,Rxf7,f8f7,r1b4k/pp3rq1/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K2R1/R7 w - - 0 21,My other rook is not trapped as his.
+41,Rxg7,g2g7,r1b4k/pp3rR1/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K4/R7 b - - 0 21,My other rook is not trapped as his.
+42,Kxg7,h8g7,r1b5/pp3rk1/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K4/R7 w - - 0 22,My other rook is not trapped as his.
+43,Rg1+,a1g1,r1b5/pp3rk1/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K4/6R1 b - - 1 22,"Now, it's just a matter of time."
+44,Kf8,g7f8,r1b2k2/pp3r2/2n1p2p/3p1p1Q/3P4/2PBP3/PP1K4/6R1 w - - 2 23,"Now, it's just a matter of time."
+45,Qxh6+,h5h6,r1b2k2/pp3r2/2n1p2Q/3p1p2/3P4/2PBP3/PP1K4/6R1 b - - 0 23,"Now, it's just a matter of time."
+46,Ke7,f8e7,r1b5/pp2kr2/2n1p2Q/3p1p2/3P4/2PBP3/PP1K4/6R1 w - - 1 24,"Now, it's just a matter of time."
+47,Rg8,g1g8,r1b3R1/pp2kr2/2n1p2Q/3p1p2/3P4/2PBP3/PP1K4/8 b - - 2 24,"Now, it's just a matter of time."
+48,Nd8,c6d8,r1bn2R1/pp2kr2/4p2Q/3p1p2/3P4/2PBP3/PP1K4/8 w - - 3 25,"Now, it's just a matter of time."
+49,Qg5+,h6g5,r1bn2R1/pp2kr2/4p3/3p1pQ1/3P4/2PBP3/PP1K4/8 b - - 4 25,"Now, it's just a matter of time."
+50,Rf6,f7f6,r1bn2R1/pp2k3/4pr2/3p1pQ1/3P4/2PBP3/PP1K4/8 w - - 5 26,"Uh oh, another possibility for me to simplify. Otherwise, black could have resisted with ugly position, Kd7..."
+51,Rxd8,g8d8,r1bR4/pp2k3/4pr2/3p1pQ1/3P4/2PBP3/PP1K4/8 b - - 0 26,The game is over...
+52,Kxd8,e7d8,r1bk4/pp6/4pr2/3p1pQ1/3P4/2PBP3/PP1K4/8 w - - 0 27,The game is over...
+53,Qxf6+,g5f6,r1bk4/pp6/4pQ2/3p1p2/3P4/2PBP3/PP1K4/8 b - - 0 27,The game is over...

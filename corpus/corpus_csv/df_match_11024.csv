@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Sicilian Defence, Bowlder Attack"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Sicilian Defence, Bowlder Attack"
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"Sicilian Defence, Bowlder Attack"
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,To prevent the white b from hitting f7
+5,Nf3,g1f3,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,In order to prevent the white B from checking after moving the d pawn to d5(which is the next move in fact.)
+6,Nf6,g8f6,rnbqkb1r/pp1p1ppp/4pn2/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,In order to prevent the white B from checking after moving the d pawn to d5(which is the next move in fact.)
+7,Nc3,b1c3,rnbqkb1r/pp1p1ppp/4pn2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,In order to prevent the white B from checking after moving the d pawn to d5(which is the next move in fact.)
+8,a6,a7a6,rnbqkb1r/1p1p1ppp/p3pn2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,In order to prevent the white B from checking after moving the d pawn to d5(which is the next move in fact.)
+9,a4,a2a4,rnbqkb1r/1p1p1ppp/p3pn2/2p5/P1B1P3/2N2N2/1PPP1PPP/R1BQK2R b KQkq - 0 5,preventing ...b5 and then ...Bb7 thus controlling the long white diagonal(also another reason why 4...a6 was played)
+10,d5,d7d5,rnbqkb1r/1p3ppp/p3pn2/2pp4/P1B1P3/2N2N2/1PPP1PPP/R1BQK2R w KQkq - 0 6,a mistake? Could anyone pls. comment?
+11,exd5,e4d5,rnbqkb1r/1p3ppp/p3pn2/2pP4/P1B5/2N2N2/1PPP1PPP/R1BQK2R b KQkq - 0 6,a mistake? Could anyone pls. comment?
+12,exd5,e6d5,rnbqkb1r/1p3ppp/p4n2/2pp4/P1B5/2N2N2/1PPP1PPP/R1BQK2R w KQkq - 0 7,a mistake? Could anyone pls. comment?
+13,Qe2+,d1e2,rnbqkb1r/1p3ppp/p4n2/2pp4/P1B5/2N2N2/1PPPQPPP/R1B1K2R b KQkq - 1 7,a mistake? Could anyone pls. comment?
+14,Be7,f8e7,rnbqk2r/1p2bppp/p4n2/2pp4/P1B5/2N2N2/1PPPQPPP/R1B1K2R w KQkq - 2 8,played with the aim of restricting white(see 11...cxd4)
+15,Ba2,c4a2,rnbqk2r/1p2bppp/p4n2/2pp4/P7/2N2N2/BPPPQPPP/R1B1K2R b KQkq - 3 8,played with the aim of restricting white(see 11...cxd4)
+16,Nc6,b8c6,r1bqk2r/1p2bppp/p1n2n2/2pp4/P7/2N2N2/BPPPQPPP/R1B1K2R w KQkq - 4 9,played with the aim of restricting white(see 11...cxd4)
+17,h3,h2h3,r1bqk2r/1p2bppp/p1n2n2/2pp4/P7/2N2N1P/BPPPQPP1/R1B1K2R b KQkq - 0 9,putting the k to safety
+18,O-O,e8g8,r1bq1rk1/1p2bppp/p1n2n2/2pp4/P7/2N2N1P/BPPPQPP1/R1B1K2R w KQ - 1 10,putting the k to safety
+19,O-O,e1g1,r1bq1rk1/1p2bppp/p1n2n2/2pp4/P7/2N2N1P/BPPPQPP1/R1B2RK1 b - - 2 10,same conclusion
+20,Nd4,c6d4,r1bq1rk1/1p2bppp/p4n2/2pp4/P2n4/2N2N1P/BPPPQPP1/R1B2RK1 w - - 3 11,11. Qd1 is a better move although white would still be constricted
+21,Nxd4,f3d4,r1bq1rk1/1p2bppp/p4n2/2pp4/P2N4/2N4P/BPPPQPP1/R1B2RK1 b - - 0 11,11. Qd1 is a better move although white would still be constricted
+22,cxd4,c5d4,r1bq1rk1/1p2bppp/p4n2/3p4/P2p4/2N4P/BPPPQPP1/R1B2RK1 w - - 0 12,the start of whites' constriction(see 8...Nc6)
+23,Nd1,c3d1,r1bq1rk1/1p2bppp/p4n2/3p4/P2p4/7P/BPPPQPP1/R1BN1RK1 b - - 1 12,thus controlling the e file.
+24,Re8,f8e8,r1bqr1k1/1p2bppp/p4n2/3p4/P2p4/7P/BPPPQPP1/R1BN1RK1 w - - 2 13,thus controlling the e file.
+25,d3,d2d3,r1bqr1k1/1p2bppp/p4n2/3p4/P2p4/3P3P/BPP1QPP1/R1BN1RK1 b - - 0 13,with the aim of releasing the b from c1
+26,Bd6,e7d6,r1bqr1k1/1p3ppp/p2b1n2/3p4/P2p4/3P3P/BPP1QPP1/R1BN1RK1 w - - 1 14,A quaint little trap is sprung on white.
+27,Qf3,e2f3,r1bqr1k1/1p3ppp/p2b1n2/3p4/P2p4/3P1Q1P/BPP2PP1/R1BN1RK1 b - - 2 14,A quaint little trap is sprung on white.
+28,Qc7,d8c7,r1b1r1k1/1pq2ppp/p2b1n2/3p4/P2p4/3P1Q1P/BPP2PP1/R1BN1RK1 w - - 3 15,A quaint little trap is sprung on white.
+29,Bxd5,a2d5,r1b1r1k1/1pq2ppp/p2b1n2/3B4/P2p4/3P1Q1P/1PP2PP1/R1BN1RK1 b - - 0 15,A quaint little trap is sprung on white.
+30,Nxd5,f6d5,r1b1r1k1/1pq2ppp/p2b4/3n4/P2p4/3P1Q1P/1PP2PP1/R1BN1RK1 w - - 0 16,A quaint little trap is sprung on white.
+31,Qxd5,f3d5,r1b1r1k1/1pq2ppp/p2b4/3Q4/P2p4/3P3P/1PP2PP1/R1BN1RK1 b - - 0 16,A quaint little trap is sprung on white.
+32,Rd8,e8d8,r1br2k1/1pq2ppp/p2b4/3Q4/P2p4/3P3P/1PP2PP1/R1BN1RK1 w - - 1 17,A quaint little trap is sprung on white.
+33,Qb3,d5b3,r1br2k1/1pq2ppp/p2b4/8/P2p4/1Q1P3P/1PP2PP1/R1BN1RK1 b - - 2 17,another mistake?(the q is out of place in the q-side) this prevents black from going thru with his quaint little trap.
+34,Re8,d8e8,r1b1r1k1/1pq2ppp/p2b4/8/P2p4/1Q1P3P/1PP2PP1/R1BN1RK1 w - - 3 18,Maybe white is hoping that black would attack this pawn en passant.
+35,c4,c2c4,r1b1r1k1/1pq2ppp/p2b4/8/P1Pp4/1Q1P3P/1P3PP1/R1BN1RK1 b - c3 0 18,Maybe white is hoping that black would attack this pawn en passant.
+36,Re2,e8e2,r1b3k1/1pq2ppp/p2b4/8/P1Pp4/1Q1P3P/1P2rPP1/R1BN1RK1 w - - 1 19,the start of black rook domination of the e file
+37,f4,f2f4,r1b3k1/1pq2ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P2r1P1/R1BN1RK1 b - - 0 19,white is desperate to put on a semblance of defense for his k
+38,Bd7,c8d7,r5k1/1pqb1ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P2r1P1/R1BN1RK1 w - - 1 20,In order to control the long white diagonal
+39,Rf2,f1f2,r5k1/1pqb1ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P2rRP1/R1BN2K1 b - - 2 20,The beginning of whites' rapid deterioration.
+40,Re1+,e2e1,r5k1/1pqb1ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P3RP1/R1BNr1K1 w - - 3 21,The beginning of whites' rapid deterioration.
+41,Kh2,g1h2,r5k1/1pqb1ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P3RPK/R1BNr3 b - - 4 21,thus controlling the e file
+42,Rae8,a8e8,4r1k1/1pqb1ppp/p2b4/8/P1Pp1P2/1Q1P3P/1P3RPK/R1BNr3 w - - 5 22,thus controlling the e file

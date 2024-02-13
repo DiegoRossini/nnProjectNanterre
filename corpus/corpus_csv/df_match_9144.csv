@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"open up for bishop, queen along diagonal and protect d5"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"open up for bishop, queen along diagonal and protect d5"
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"open up for bishop, queen along diagonal and protect d5"
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"open up for bishop, queen along diagonal and protect d5"
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,"open up for bishop, queen along diagonal and protect d5"
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 0 4,"open up for bishop, queen along diagonal and protect d5"
+7,Nf3,g1f3,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 1 4,king side castle
+8,Bd6,f8d6,rnbqk2r/ppp2ppp/3bpn2/3p4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 2 5,king side castle
+9,Bg5,f4g5,rnbqk2r/ppp2ppp/3bpn2/3p2B1/3P4/4PN2/PPP2PPP/RN1QKB1R b KQkq - 3 5,moving same piece twice? pins N
+10,c5,c7c5,rnbqk2r/pp3ppp/3bpn2/2pp2B1/3P4/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 6,"occupy space, this was the fundamental theme for this game"
+11,Bxf6,g5f6,rnbqk2r/pp3ppp/3bpB2/2pp4/3P4/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 6,trade of pieces as well as safely mobilising queen
+12,Qxf6,d8f6,rnb1k2r/pp3ppp/3bpq2/2pp4/3P4/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 7,trade of pieces as well as safely mobilising queen
+13,c3,c2c3,rnb1k2r/pp3ppp/3bpq2/2pp4/3P4/2P1PN2/PP3PPP/RN1QKB1R b KQkq - 0 7,defends d4 but maybe not required? 7... cxd4 8. Nxd4 would be safe for white. now c3 is not free N on b1
+14,Bd7,c8d7,rn2k2r/pp1b1ppp/3bpq2/2pp4/3P4/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 1 8,take diagonal
+15,b3,b2b3,rn2k2r/pp1b1ppp/3bpq2/2pp4/3P4/1PP1PN2/P4PPP/RN1QKB1R b KQkq - 0 8,occupy space
+16,b5,b7b5,rn2k2r/p2b1ppp/3bpq2/1ppp4/3P4/1PP1PN2/P4PPP/RN1QKB1R w KQkq - 0 9,even more space
+17,a3,a2a3,rn2k2r/p2b1ppp/3bpq2/1ppp4/3P4/PPP1PN2/5PPP/RN1QKB1R b KQkq - 0 9,"was expecting bxc4, consider how locked in white pieces are now. neither Nb1 or Bf1 can do much"
+18,c4,c5c4,rn2k2r/p2b1ppp/3bpq2/1p1p4/2pP4/PPP1PN2/5PPP/RN1QKB1R w KQkq - 0 10,"was expecting bxc4, consider how locked in white pieces are now. neither Nb1 or Bf1 can do much"
+19,b4,b3b4,rn2k2r/p2b1ppp/3bpq2/1p1p4/1PpP4/P1P1PN2/5PPP/RN1QKB1R b KQkq - 0 10,"was expecting bxc4, consider how locked in white pieces are now. neither Nb1 or Bf1 can do much"
+20,O-O,e8g8,rn3rk1/p2b1ppp/3bpq2/1p1p4/1PpP4/P1P1PN2/5PPP/RN1QKB1R w KQ - 1 11,now totally locked in
+21,Nbd2,b1d2,rn3rk1/p2b1ppp/3bpq2/1p1p4/1PpP4/P1P1PN2/3N1PPP/R2QKB1R b KQ - 2 11,now totally locked in
+22,a5,a7a5,rn3rk1/3b1ppp/3bpq2/pp1p4/1PpP4/P1P1PN2/3N1PPP/R2QKB1R w KQ - 0 12,now totally locked in
+23,Be2,f1e2,rn3rk1/3b1ppp/3bpq2/pp1p4/1PpP4/P1P1PN2/3NBPPP/R2QK2R b KQ - 1 12,now totally locked in
+24,a4,a5a4,rn3rk1/3b1ppp/3bpq2/1p1p4/pPpP4/P1P1PN2/3NBPPP/R2QK2R w KQ - 0 13,now totally locked in
+25,Qc2,d1c2,rn3rk1/3b1ppp/3bpq2/1p1p4/pPpP4/P1P1PN2/2QNBPPP/R3K2R b KQ - 1 13,slow maneuvers from white
+26,Nc6,b8c6,r4rk1/3b1ppp/2nbpq2/1p1p4/pPpP4/P1P1PN2/2QNBPPP/R3K2R w KQ - 2 14,slow maneuvers from white
+27,Bd1,e2d1,r4rk1/3b1ppp/2nbpq2/1p1p4/pPpP4/P1P1PN2/2QN1PPP/R2BK2R b KQ - 3 14,slow maneuvers from white
+28,e5,e6e5,r4rk1/3b1ppp/2nb1q2/1p1pp3/pPpP4/P1P1PN2/2QN1PPP/R2BK2R w KQ - 0 15,start to open middle
+29,dxe5,d4e5,r4rk1/3b1ppp/2nb1q2/1p1pP3/pPp5/P1P1PN2/2QN1PPP/R2BK2R b KQ - 0 15,wanted B on e5 more than N so start trade with N
+30,Nxe5,c6e5,r4rk1/3b1ppp/3b1q2/1p1pn3/pPp5/P1P1PN2/2QN1PPP/R2BK2R w KQ - 0 16,wanted B on e5 more than N so start trade with N
+31,Nxe5,f3e5,r4rk1/3b1ppp/3b1q2/1p1pN3/pPp5/P1P1P3/2QN1PPP/R2BK2R b KQ - 0 16,threatens Bxc3 winning pawn and further threatening Bxa1
+32,Bxe5,d6e5,r4rk1/3b1ppp/5q2/1p1pb3/pPp5/P1P1P3/2QN1PPP/R2BK2R w KQ - 0 17,threatens Bxc3 winning pawn and further threatening Bxa1
+33,Nb1,d2b1,r4rk1/3b1ppp/5q2/1p1pb3/pPp5/P1P1P3/2Q2PPP/RN1BK2R b KQ - 1 17,defends c3
+34,Bf5,d7f5,r4rk1/5ppp/5q2/1p1pbb2/pPp5/P1P1P3/2Q2PPP/RN1BK2R w KQ - 2 18,remove defender of c3
+35,Qb2,c2b2,r4rk1/5ppp/5q2/1p1pbb2/pPp5/P1P1P3/1Q3PPP/RN1BK2R b KQ - 3 18,remove defender of c3
+36,Bxb1,f5b1,r4rk1/5ppp/5q2/1p1pb3/pPp5/P1P1P3/1Q3PPP/Rb1BK2R w KQ - 0 19,remove defender of c3
+37,Rxb1,a1b1,r4rk1/5ppp/5q2/1p1pb3/pPp5/P1P1P3/1Q3PPP/1R1BK2R b K - 0 19,"blunder, loses queen for white, better was 19 Qxb1"
+38,Bxc3+,e5c3,r4rk1/5ppp/5q2/1p1p4/pPp5/P1b1P3/1Q3PPP/1R1BK2R w K - 0 20,wins white queen
+39,Qd2,b2d2,r4rk1/5ppp/5q2/1p1p4/pPp5/P1b1P3/3Q1PPP/1R1BK2R b K - 1 20,threaten c2. if Bxc2 then Qxc2  and trouble
+40,Bxd2+,c3d2,r4rk1/5ppp/5q2/1p1p4/pPp5/P3P3/3b1PPP/1R1BK2R w K - 0 21,threaten c2. if Bxc2 then Qxc2  and trouble
+41,Kxd2,e1d2,r4rk1/5ppp/5q2/1p1p4/pPp5/P3P3/3K1PPP/1R1B3R b - - 0 21,threaten c2. if Bxc2 then Qxc2  and trouble
+42,c3+,c4c3,r4rk1/5ppp/5q2/1p1p4/pP6/P1p1P3/3K1PPP/1R1B3R w - - 0 22,threaten c2. if Bxc2 then Qxc2  and trouble
+43,Ke2,d2e2,r4rk1/5ppp/5q2/1p1p4/pP6/P1p1P3/4KPPP/1R1B3R b - - 1 22,threaten c2. if Bxc2 then Qxc2  and trouble
+44,Qg6,f6g6,r4rk1/5ppp/6q1/1p1p4/pP6/P1p1P3/4KPPP/1R1B3R w - - 2 23,threaten c2. if Bxc2 then Qxc2  and trouble

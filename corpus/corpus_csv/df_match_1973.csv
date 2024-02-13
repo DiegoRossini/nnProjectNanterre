@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Normal opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Normal opening
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,Normal opening
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,I want to Castle queenside
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3,I want to Castle queenside
+6,Nh5,f6h5,rnbqkb1r/ppp1pppp/8/3p3n/3P1B2/2N5/PPP1PPPP/R2QKBNR w KQkq - 4 4,I want to Castle queenside
+7,Qd2,d1d2,rnbqkb1r/ppp1pppp/8/3p3n/3P1B2/2N5/PPPQPPPP/R3KBNR b KQkq - 5 4,I want to Castle queenside
+8,Rg8,h8g8,rnbqkbr1/ppp1pppp/8/3p3n/3P1B2/2N5/PPPQPPPP/R3KBNR w KQq - 6 5,I don't know what he/she will do with this move
+9,O-O-O,e1c1,rnbqkbr1/ppp1pppp/8/3p3n/3P1B2/2N5/PPPQPPPP/2KR1BNR b q - 7 5,I have castled.
+10,g5,g7g5,rnbqkbr1/ppp1pp1p/8/3p2pn/3P1B2/2N5/PPPQPPPP/2KR1BNR w q - 0 6,"This was his/her first mistake, I can take the pawn with the Bishop, because the figure is protected by the queen."
+11,Bxg5,f4g5,rnbqkbr1/ppp1pp1p/8/3p2Bn/3P4/2N5/PPPQPPPP/2KR1BNR b q - 0 6,I attack the center
+12,f6,f7f6,rnbqkbr1/ppp1p2p/5p2/3p2Bn/3P4/2N5/PPPQPPPP/2KR1BNR w q - 0 7,I attack the center
+13,Bh6,g5h6,rnbqkbr1/ppp1p2p/5p1B/3p3n/3P4/2N5/PPPQPPPP/2KR1BNR b q - 1 7,I attack the center
+14,Bg7,f8g7,rnbqk1r1/ppp1p1bp/5p1B/3p3n/3P4/2N5/PPPQPPPP/2KR1BNR w q - 2 8,I attack the center
+15,e4,e2e4,rnbqk1r1/ppp1p1bp/5p1B/3p3n/3PP3/2N5/PPPQ1PPP/2KR1BNR b q - 0 8,I attack the center
+16,e6,e7e6,rnbqk1r1/ppp3bp/4pp1B/3p3n/3PP3/2N5/PPPQ1PPP/2KR1BNR w q - 0 9,Black protect the pawn.
+17,exd5,e4d5,rnbqk1r1/ppp3bp/4pp1B/3P3n/3P4/2N5/PPPQ1PPP/2KR1BNR b q - 0 9,I take it
+18,Qd6,d8d6,rnb1k1r1/ppp3bp/3qpp1B/3P3n/3P4/2N5/PPPQ1PPP/2KR1BNR w q - 1 10,What will black do with this move?
+19,dxe6,d5e6,rnb1k1r1/ppp3bp/3qPp1B/7n/3P4/2N5/PPPQ1PPP/2KR1BNR b q - 0 10,I take another pawn
+20,Bxe6,c8e6,rn2k1r1/ppp3bp/3qbp1B/7n/3P4/2N5/PPPQ1PPP/2KR1BNR w q - 0 11,I take the Bishop at g7
+21,Bxg7,h6g7,rn2k1r1/ppp3Bp/3qbp2/7n/3P4/2N5/PPPQ1PPP/2KR1BNR b q - 0 11,I take the Bishop at g7
+22,Rxg7,g8g7,rn2k3/ppp3rp/3qbp2/7n/3P4/2N5/PPPQ1PPP/2KR1BNR w q - 0 12,And Black too
+23,d5,d4d5,rn2k3/ppp3rp/3qbp2/3P3n/8/2N5/PPPQ1PPP/2KR1BNR b q - 0 12,I attack the Bishop
+24,Bd7,e6d7,rn2k3/pppb2rp/3q1p2/3P3n/8/2N5/PPPQ1PPP/2KR1BNR w q - 1 13,"The move was a mistake, because I get the Knight with check. Better: Qe5 because the queen is protected by the pawn at f6 and the Queen protect the Knight at h5"
+25,Qe2+,d2e2,rn2k3/pppb2rp/3q1p2/3P3n/8/2N5/PPP1QPPP/2KR1BNR b q - 2 13,"The move was a mistake, because I get the Knight with check. Better: Qe5 because the queen is protected by the pawn at f6 and the Queen protect the Knight at h5"
+26,Re7,g7e7,rn2k3/pppbr2p/3q1p2/3P3n/8/2N5/PPP1QPPP/2KR1BNR w q - 3 14,"The move was a mistake, because I get the Knight with check. Better: Qe5 because the queen is protected by the pawn at f6 and the Queen protect the Knight at h5"
+27,Qxh5+,e2h5,rn2k3/pppbr2p/3q1p2/3P3Q/8/2N5/PPP2PPP/2KR1BNR b q - 0 14,

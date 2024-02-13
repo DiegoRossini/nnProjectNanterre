@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,and from now players make their moves in the game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,and from now players make their moves in the game.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,and from now players make their moves in the game.
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,and from now players make their moves in the game.
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,and from now players make their moves in the game.
+6,dxc3,d4c3,rnbqkbnr/pppp1ppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,Black captured the pawn at c3 with his d4 pawn.
+7,Nxc3,b1c3,rnbqkbnr/pppp1ppp/8/8/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,White captured back with his knight.  So now white is in control of the centre.  But I am sure it won't be for long.
+8,Bb4,f8b4,rnbqk1nr/pppp1ppp/8/8/1b2P3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 5,Black develops his DB to b4 and is attacking white's knight at c3.  White is still going to have a fight to maintain his monopoly on the centre.
+9,Bd2,c1d2,rnbqk1nr/pppp1ppp/8/8/1b2P3/2N5/PP1B1PPP/R2QKBNR b KQkq - 2 5,White moves his DB to d2 to avoid using his pawn if the knight is captured.
+10,Qf6,d8f6,rnb1k1nr/pppp1ppp/5q2/8/1b2P3/2N5/PP1B1PPP/R2QKBNR w KQkq - 3 6,Now black moves his queen to f6 and attacks the knight again.
+11,Qf3,d1f3,rnb1k1nr/pppp1ppp/5q2/8/1b2P3/2N2Q2/PP1B1PPP/R3KBNR b KQkq - 4 6,White decides to get right to it and also brings out his queen to avoid the queen hitting the square f2 which could also have been a target if black was interested in sacrificing his queen.
+12,Qd6,f6d6,rnb1k1nr/pppp1ppp/3q4/8/1b2P3/2N2Q2/PP1B1PPP/R3KBNR w KQkq - 5 7,Black moves his queen to d6 and is now attacking the DB at c2 which is protecting the knight.
+13,Bd3,f1d3,rnb1k1nr/pppp1ppp/3q4/8/1b2P3/2NB1Q2/PP1B1PPP/R3K1NR b KQkq - 6 7,White brings out his LB to d3 with the queen protecting it.
+14,a6,a7a6,rnb1k1nr/1ppp1ppp/p2q4/8/1b2P3/2NB1Q2/PP1B1PPP/R3K1NR w KQkq - 0 8,Black moves his pawn to a6 which protects the square b5 in case white's knight tries to extricate itself from c3.
+15,Bf4,d2f4,rnb1k1nr/1ppp1ppp/p2q4/8/1b2PB2/2NB1Q2/PP3PPP/R3K1NR b KQkq - 1 8,White decides the pawn can be used in the case of the capture of the knight at c3 and now moves his DB to f4 and is attacking the queen at d6.
+16,Qd4,d6d4,rnb1k1nr/1ppp1ppp/p7/8/1b1qPB2/2NB1Q2/PP3PPP/R3K1NR w KQkq - 2 9,Black moves his queen to d4.  Black does not seem to be developing many pieces just moving his queen around.  White has 4 pieces developed and black has developed only 2 pieces.
+17,Nge2,g1e2,rnb1k1nr/1ppp1ppp/p7/8/1b1qPB2/2NB1Q2/PP2NPPP/R3K2R b KQkq - 3 9,White now develops his final piece to e2 and the king can now castle short or long but I think short may be preferable with the threat of the queen and bishop on the queenside.
+18,Bxc3+,b4c3,rnb1k1nr/1ppp1ppp/p7/8/3qPB2/2bB1Q2/PP2NPPP/R3K2R w KQkq - 0 10,Now black decides to capture the knight at c3 with the DB.
+19,bxc3,b2c3,rnb1k1nr/1ppp1ppp/p7/8/3qPB2/2PB1Q2/P3NPPP/R3K2R b KQkq - 0 10,White recaptures with the pawn as the knight gives this pawn protection and it leaves the knight covering the DB at f4 too.  Now the pawn is attacking the queen at d4.
+20,Qb6,d4b6,rnb1k1nr/1ppp1ppp/pq6/8/4PB2/2PB1Q2/P3NPPP/R3K2R w KQkq - 1 11,Black moves the queen to b6.
+21,Be3,f4e3,rnb1k1nr/1ppp1ppp/pq6/8/4P3/2PBBQ2/P3NPPP/R3K2R b KQkq - 2 11,White moves his DB to e3 to provide protection to f2.
+22,Qb2,b6b2,rnb1k1nr/1ppp1ppp/p7/8/4P3/2PBBQ2/Pq2NPPP/R3K2R w KQkq - 3 12,Black's queen now comes to b2.
+23,O-O,e1g1,rnb1k1nr/1ppp1ppp/p7/8/4P3/2PBBQ2/Pq2NPPP/R4RK1 b kq - 4 12,White castles and the rooks are brought together so the black queen cannot capture anything on the squares adjacent as they are all protected.  The only piece that was unprotected before was the rook at a1 but this is also now protected.
+24,Qa3,b2a3,rnb1k1nr/1ppp1ppp/p7/8/4P3/q1PBBQ2/P3NPPP/R4RK1 w kq - 5 13,Black queen now moves to a3 and is purely an object for white to attack should the opportunity arise.  I would think black would perhaps now try to develop and make his plan of attack on the white king.  However I think white's king is pretty well protected at present.  Whilst the black king is left in the middle with a weak square in front of him which perhaps black would like white to attack but white is no rush.

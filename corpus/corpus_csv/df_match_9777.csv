@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"C33, Kings Gambit Accepted, Bishop's gambit."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"C33, Kings Gambit Accepted, Bishop's gambit."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"C33, Kings Gambit Accepted, Bishop's gambit."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"C33, Kings Gambit Accepted, Bishop's gambit."
+5,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,"C33, Kings Gambit Accepted, Bishop's gambit."
+6,Qh4+,d8h4,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,"A less agressive approach would have been 3..., Nf6. 4. Nc3, c6."
+7,Kf1,e1f1,rnb1kbnr/pppp1ppp/8/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR b kq - 3 4,"No choice, g3 loses a pawn. White can not castle anymore and with the f-pawn offered in the gambit black may have a chance to launch an attack on this side."
+8,Nf6,g8f6,rnb1kb1r/pppp1ppp/5n2/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5,To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).
+9,Nf3,g1f3,rnb1kb1r/pppp1ppp/5n2/8/2B1Pp1q/5N2/PPPP2PP/RNBQ1K1R b kq - 5 5,To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).
+10,Qh6,h4h6,rnb1kb1r/pppp1ppp/5n1q/8/2B1Pp2/5N2/PPPP2PP/RNBQ1K1R w kq - 6 6,To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).
+11,Ne5,f3e5,rnb1kb1r/pppp1ppp/5n1q/4N3/2B1Pp2/8/PPPP2PP/RNBQ1K1R b kq - 7 6,To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).
+12,d5,d7d5,rnb1kb1r/ppp2ppp/5n1q/3pN3/2B1Pp2/8/PPPP2PP/RNBQ1K1R w kq - 0 7,To stop the threat at f7 and to open up the bishop. (which will not move during the entire game...).
+13,exd5,e4d5,rnb1kb1r/ppp2ppp/5n1q/3PN3/2B2p2/8/PPPP2PP/RNBQ1K1R b kq - 0 7,"This blocks the pawn and the bishop, while attacking the knight."
+14,Bd6,f8d6,rnb1k2r/ppp2ppp/3b1n1q/3PN3/2B2p2/8/PPPP2PP/RNBQ1K1R w kq - 1 8,"This blocks the pawn and the bishop, while attacking the knight."
+15,d4,d2d4,rnb1k2r/ppp2ppp/3b1n1q/3PN3/2BP1p2/8/PPP3PP/RNBQ1K1R b kq - 0 8,Threatens Kg3  and wins material.
+16,O-O,e8g8,rnb2rk1/ppp2ppp/3b1n1q/3PN3/2BP1p2/8/PPP3PP/RNBQ1K1R w - - 1 9,Threatens Kg3  and wins material.
+17,Qf3,d1f3,rnb2rk1/ppp2ppp/3b1n1q/3PN3/2BP1p2/5Q2/PPP3PP/RNB2K1R b - - 2 9,Threatens Kg3  and wins material.
+18,Nh5,f6h5,rnb2rk1/ppp2ppp/3b3q/3PN2n/2BP1p2/5Q2/PPP3PP/RNB2K1R w - - 3 10,Threatens Kg3  and wins material.
+19,Kf2,f1f2,rnb2rk1/ppp2ppp/3b3q/3PN2n/2BP1p2/5Q2/PPP2KPP/RNB4R b - - 4 10,"If 11 Ng4 then not 11...., Qg5 because of 12 h4, Qf5, 13 Bd3 loses Q."
+20,Nd7,b8d7,r1b2rk1/pppn1ppp/3b3q/3PN2n/2BP1p2/5Q2/PPP2KPP/RNB4R w - - 5 11,"If 11 Ng4 then not 11...., Qg5 because of 12 h4, Qf5, 13 Bd3 loses Q."
+21,Re1,h1e1,r1b2rk1/pppn1ppp/3b3q/3PN2n/2BP1p2/5Q2/PPP2KPP/RNB1R3 b - - 6 11,"11 ..., Nf6? N on h5 has no space to go anymore. It follows 12 g3, note fork on pawn f4 (white Bishop takes black Queen). Possible is Nxg3, 13 hxg3, Qh2  14 Qg2, Qxg3 15 Qxg3, fxg3 16 Kxg3. White has material and black 3 free pawns on the King's wing."
+22,Nb6,d7b6,r1b2rk1/ppp2ppp/1n1b3q/3PN2n/2BP1p2/5Q2/PPP2KPP/RNB1R3 w - - 7 12,"11 ..., Nf6? N on h5 has no space to go anymore. It follows 12 g3, note fork on pawn f4 (white Bishop takes black Queen). Possible is Nxg3, 13 hxg3, Qh2  14 Qg2, Qxg3 15 Qxg3, fxg3 16 Kxg3. White has material and black 3 free pawns on the King's wing."
+23,Bd3,c4d3,r1b2rk1/ppp2ppp/1n1b3q/3PN2n/3P1p2/3B1Q2/PPP2KPP/RNB1R3 b - - 8 12,"13 ..., fxg3ep? 14 hxg3, fxe5. 15 Bxh6, Rxf3. 16 Kxf3, gxh6. 17 dxe5 is definitely better for white, leaving black with two awkward h pawns and having converted the blocked d pawns into strong d e front."
+24,f6,f7f6,r1b2rk1/ppp3pp/1n1b1p1q/3PN2n/3P1p2/3B1Q2/PPP2KPP/RNB1R3 w - - 0 13,"13 ..., fxg3ep? 14 hxg3, fxe5. 15 Bxh6, Rxf3. 16 Kxf3, gxh6. 17 dxe5 is definitely better for white, leaving black with two awkward h pawns and having converted the blocked d pawns into strong d e front."
+25,g4,g2g4,r1b2rk1/ppp3pp/1n1b1p1q/3PN2n/3P1pP1/3B1Q2/PPP2K1P/RNB1R3 b - g3 0 13,"13 ..., fxg3ep? 14 hxg3, fxe5. 15 Bxh6, Rxf3. 16 Kxf3, gxh6. 17 dxe5 is definitely better for white, leaving black with two awkward h pawns and having converted the blocked d pawns into strong d e front."
+26,fxe5,f6e5,r1b2rk1/ppp3pp/1n1b3q/3Pp2n/3P1pP1/3B1Q2/PPP2K1P/RNB1R3 w - - 0 14,"13 ..., fxg3ep? 14 hxg3, fxe5. 15 Bxh6, Rxf3. 16 Kxf3, gxh6. 17 dxe5 is definitely better for white, leaving black with two awkward h pawns and having converted the blocked d pawns into strong d e front."
+27,dxe5,d4e5,r1b2rk1/ppp3pp/1n1b3q/3PP2n/5pP1/3B1Q2/PPP2K1P/RNB1R3 b - - 0 14,"I looked at Ng3. White can not take hxg3 for fxg3 will lose the Q. But 15. Kg2 works for white, still attacking 2 pieces.
+Not 15. exd6? Qxh2  16. Qg2, Qxg2 17. Kxg2 and maybe equal play?"
+28,Bc5+,d6c5,r1b2rk1/ppp3pp/1n5q/2bPP2n/5pP1/3B1Q2/PPP2K1P/RNB1R3 w - - 1 15,"I looked at Ng3. White can not take hxg3 for fxg3 will lose the Q. But 15. Kg2 works for white, still attacking 2 pieces.
+Not 15. exd6? Qxh2  16. Qg2, Qxg2 17. Kxg2 and maybe equal play?"
+29,Kg2,f2g2,r1b2rk1/ppp3pp/1n5q/2bPP2n/5pP1/3B1Q2/PPP3KP/RNB1R3 b - - 2 15,"White can still not take that Knight back. But 15. Ke2? Ng3 ! 16. hxg3, Qh2  17. Kd1 (Kf1, Qg2  ), fxg3 (attacks Q with Rook) gets real dangerous for white."
+30,Qg5,h6g5,r1b2rk1/ppp3pp/1n6/2bPP1qn/5pP1/3B1Q2/PPP3KP/RNB1R3 w - - 3 16,"White can still not take that Knight back. But 15. Ke2? Ng3 ! 16. hxg3, Qh2  17. Kd1 (Kf1, Qg2  ), fxg3 (attacks Q with Rook) gets real dangerous for white."
+31,h3,h2h3,r1b2rk1/ppp3pp/1n6/2bPP1qn/5pP1/3B1Q1P/PPP3K1/RNB1R3 b - - 0 16,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+32,Ng3,h5g3,r1b2rk1/ppp3pp/1n6/2bPP1q1/5pP1/3B1QnP/PPP3K1/RNB1R3 w - - 1 17,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+33,Nd2,b1d2,r1b2rk1/ppp3pp/1n6/2bPP1q1/5pP1/3B1QnP/PPPN2K1/R1B1R3 b - - 2 17,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+34,h5,h7h5,r1b2rk1/ppp3p1/1n6/2bPP1qp/5pP1/3B1QnP/PPPN2K1/R1B1R3 w - - 0 18,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+35,Ne4,d2e4,r1b2rk1/ppp3p1/1n6/2bPP1qp/4NpP1/3B1QnP/PPP3K1/R1B1R3 b - - 1 18,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+36,Qxe5,g5e5,r1b2rk1/ppp3p1/1n6/2bPq2p/4NpP1/3B1QnP/PPP3K1/R1B1R3 w - - 0 19,Note: This is the first move on the second day of the game. Black is playing from a hotel room in North Carolina at 4 am (jetlag).
+37,Nxc5,e4c5,r1b2rk1/ppp3p1/1n6/2NPq2p/5pP1/3B1QnP/PPP3K1/R1B1R3 b - - 0 19,"Bad move, gives away Rook instantly. Bd2 was better, in preparation of moving that Knight. 
+
+Shows how undeveloped pieces work against you."
+38,Qxe1,e5e1,r1b2rk1/ppp3p1/1n6/2NP3p/5pP1/3B1QnP/PPP3K1/R1B1q3 w - - 0 20,White gives up the other rook to completely stop the black attack and develop one of his own.
+39,Bxf4,c1f4,r1b2rk1/ppp3p1/1n6/2NP3p/5BP1/3B1QnP/PPP3K1/R3q3 b - - 0 20,White gives up the other rook to completely stop the black attack and develop one of his own.
+40,Qxa1,e1a1,r1b2rk1/ppp3p1/1n6/2NP3p/5BP1/3B1QnP/PPP3K1/q7 w - - 0 21,"Not much choice actually, maybe Qe7 or Qb4. This is actually a fairly risky move, with many black pieces parked in corners."
+41,Qxg3,f3g3,r1b2rk1/ppp3p1/1n6/2NP3p/5BP1/3B2QP/PPP3K1/q7 b - - 0 21,White completely owns the center of the board!
+42,Rxf4,f8f4,r1b3k1/ppp3p1/1n6/2NP3p/5rP1/3B2QP/PPP3K1/q7 w - - 0 22,The white attack will be too strong for example when that Bishop had moved to e5.
+43,Qxf4,g3f4,r1b3k1/ppp3p1/1n6/2NP3p/5QP1/3B3P/PPP3K1/q7 b - - 0 22,"Important to get the black Queen back to where the action is, occupy that diagonal and square f3 accessible to come to the rescue."
+44,Qxb2,a1b2,r1b3k1/ppp3p1/1n6/2NP3p/5QP1/3B3P/PqP3K1/8 w - - 0 23,"Important to get the black Queen back to where the action is, occupy that diagonal and square f3 accessible to come to the rescue."
+45,Qe4,f4e4,r1b3k1/ppp3p1/1n6/2NP3p/4Q1P1/3B3P/PqP3K1/8 b - - 1 23,"Thinking that there's time for such a move, black takes the g-pawn with its h-pawn that was written off already, completely missing the checkmate in one....."
+46,hxg4,h5g4,r1b3k1/ppp3p1/1n6/2NP4/4Q1p1/3B3P/PqP3K1/8 w - - 0 24,"Thinking that there's time for such a move, black takes the g-pawn with its h-pawn that was written off already, completely missing the checkmate in one....."
+47,Qe8#,e4e8,r1b1Q1k1/ppp3p1/1n6/2NP4/6p1/3B3P/PqP3K1/8 b - - 1 24,"Terrible finish of an exciting game...
+
+23..., Qf6. 24. Qh7 , Kf8. 25. Qxh5, would have saved the day."

@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,this was the modern until now!
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this was the modern until now!
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,this was the modern until now!
+4,e6,e7e6,rnbqkbnr/pppp1p1p/4p1p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,this was the modern until now!
+5,Nc3,b1c3,rnbqkbnr/pppp1p1p/4p1p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,protect e4
+6,Bg7,f8g7,rnbqk1nr/pppp1pbp/4p1p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,protect e4
+7,Be3,c1e3,rnbqk1nr/pppp1pbp/4p1p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 3 4,protect e4
+8,Ne7,g8e7,rnbqk2r/ppppnpbp/4p1p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR w KQkq - 4 5,protect e4
+9,f3,f2f3,rnbqk2r/ppppnpbp/4p1p1/8/3PP3/2N1BP2/PPP3PP/R2QKBNR b KQkq - 0 5,protect e4
+10,d6,d7d6,rnbqk2r/ppp1npbp/3pp1p1/8/3PP3/2N1BP2/PPP3PP/R2QKBNR w KQkq - 0 6,plan is to 0-0-0 and attack on the king side!
+11,Nge2,g1e2,rnbqk2r/ppp1npbp/3pp1p1/8/3PP3/2N1BP2/PPP1N1PP/R2QKB1R b KQkq - 1 6,plan is to 0-0-0 and attack on the king side!
+12,Nd7,b8d7,r1bqk2r/pppnnpbp/3pp1p1/8/3PP3/2N1BP2/PPP1N1PP/R2QKB1R w KQkq - 2 7,plan is to 0-0-0 and attack on the king side!
+13,Qd2,d1d2,r1bqk2r/pppnnpbp/3pp1p1/8/3PP3/2N1BP2/PPPQN1PP/R3KB1R b KQkq - 3 7,plan is to 0-0-0 and attack on the king side!
+14,b6,b7b6,r1bqk2r/p1pnnpbp/1p1pp1p1/8/3PP3/2N1BP2/PPPQN1PP/R3KB1R w KQkq - 0 8,going as planed!
+15,O-O-O,e1c1,r1bqk2r/p1pnnpbp/1p1pp1p1/8/3PP3/2N1BP2/PPPQN1PP/2KR1B1R b kq - 1 8,going as planed!
+16,Bb7,c8b7,r2qk2r/pbpnnpbp/1p1pp1p1/8/3PP3/2N1BP2/PPPQN1PP/2KR1B1R w kq - 2 9,going as planed!
+17,g4,g2g4,r2qk2r/pbpnnpbp/1p1pp1p1/8/3PP1P1/2N1BP2/PPPQN2P/2KR1B1R b kq - 0 9,going as planed!
+18,O-O,e8g8,r2q1rk1/pbpnnpbp/1p1pp1p1/8/3PP1P1/2N1BP2/PPPQN2P/2KR1B1R w - - 1 10,trade his defender!
+19,h4,h2h4,r2q1rk1/pbpnnpbp/1p1pp1p1/8/3PP1PP/2N1BP2/PPPQN3/2KR1B1R b - - 0 10,trade his defender!
+20,c5,c7c5,r2q1rk1/pb1nnpbp/1p1pp1p1/2p5/3PP1PP/2N1BP2/PPPQN3/2KR1B1R w - - 0 11,trade his defender!
+21,h5,h4h5,r2q1rk1/pb1nnpbp/1p1pp1p1/2p4P/3PP1P1/2N1BP2/PPPQN3/2KR1B1R b - - 0 11,trade his defender!
+22,cxd4,c5d4,r2q1rk1/pb1nnpbp/1p1pp1p1/7P/3pP1P1/2N1BP2/PPPQN3/2KR1B1R w - - 0 12,trade his defender!
+23,Nxd4,e2d4,r2q1rk1/pb1nnpbp/1p1pp1p1/7P/3NP1P1/2N1BP2/PPPQ4/2KR1B1R b - - 0 12,trade his defender!
+24,d5,d6d5,r2q1rk1/pb1nnpbp/1p2p1p1/3p3P/3NP1P1/2N1BP2/PPPQ4/2KR1B1R w - - 0 13,trade his defender!
+25,Bh6,e3h6,r2q1rk1/pb1nnpbp/1p2p1pB/3p3P/3NP1P1/2N2P2/PPPQ4/2KR1B1R b - - 1 13,trade his defender!
+26,Nc5,d7c5,r2q1rk1/pb2npbp/1p2p1pB/2np3P/3NP1P1/2N2P2/PPPQ4/2KR1B1R w - - 2 14,best part off the game!
+27,Bxg7,h6g7,r2q1rk1/pb2npBp/1p2p1p1/2np3P/3NP1P1/2N2P2/PPPQ4/2KR1B1R b - - 0 14,best part off the game!
+28,Kxg7,g8g7,r2q1r2/pb2npkp/1p2p1p1/2np3P/3NP1P1/2N2P2/PPPQ4/2KR1B1R w - - 0 15,best part off the game!
+29,b4,b2b4,r2q1r2/pb2npkp/1p2p1p1/2np3P/1P1NP1P1/2N2P2/P1PQ4/2KR1B1R b - - 0 15,!? this makes his knight move away from guarding e6!
+30,Na6,c5a6,r2q1r2/pb2npkp/np2p1p1/3p3P/1P1NP1P1/2N2P2/P1PQ4/2KR1B1R w - - 1 16,resigns!!! why: if fxg6 than nxe6+ winning or hxg6 qh6+ winning or nxg6 qh6+winning!!!
+31,hxg6,h5g6,r2q1r2/pb2npkp/np2p1P1/3p4/1P1NP1P1/2N2P2/P1PQ4/2KR1B1R b - - 0 16,resigns!!! why: if fxg6 than nxe6+ winning or hxg6 qh6+ winning or nxg6 qh6+winning!!!

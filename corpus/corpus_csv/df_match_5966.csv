@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Preemptively guarding the KP against Black's fianchetto.
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Preemptively guarding the KP against Black's fianchetto.
+3,Nc3,b1c3,rnbqkbnr/p1pppppp/1p6/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Preemptively guarding the KP against Black's fianchetto.
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Presumably so as not to block the long diagonal.
+5,Bc4,f1c4,rn1qkbnr/pbpppppp/1p6/8/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,Presumably so as not to block the long diagonal.
+6,Na6,b8a6,r2qkbnr/pbpppppp/np6/8/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 4 4,Presumably so as not to block the long diagonal.
+7,Nh3,g1h3,r2qkbnr/pbpppppp/np6/8/2B1P3/2N4N/PPPP1PPP/R1BQK2R b KQkq - 5 4,In preparation for an advance of the KBP.
+8,e5,e7e5,r2qkbnr/pbpp1ppp/np6/4p3/2B1P3/2N4N/PPPP1PPP/R1BQK2R w KQkq - 0 5,Tucking the King away before the K-side advance.
+9,O-O,e1g1,r2qkbnr/pbpp1ppp/np6/4p3/2B1P3/2N4N/PPPP1PPP/R1BQ1RK1 b kq - 1 5,Tucking the King away before the K-side advance.
+10,h6,h7h6,r2qkbnr/pbpp1pp1/np5p/4p3/2B1P3/2N4N/PPPP1PPP/R1BQ1RK1 w kq - 0 6,I assume this was to guard against a potential move of N-N5.
+11,d3,d2d3,r2qkbnr/pbpp1pp1/np5p/4p3/2B1P3/2NP3N/PPP2PPP/R1BQ1RK1 b kq - 0 6,Securing the KP.
+12,c5,c7c5,r2qkbnr/pb1p1pp1/np5p/2p1p3/2B1P3/2NP3N/PPP2PPP/R1BQ1RK1 w kq - 0 7,The long-awaited K-side attack begins.
+13,f4,f2f4,r2qkbnr/pb1p1pp1/np5p/2p1p3/2B1PP2/2NP3N/PPP3PP/R1BQ1RK1 b kq - 0 7,The long-awaited K-side attack begins.
+14,f6,f7f6,r2qkbnr/pb1p2p1/np3p1p/2p1p3/2B1PP2/2NP3N/PPP3PP/R1BQ1RK1 w kq - 0 8,"Allowing White to open the KB file, and thus a mistake."
+15,fxe5,f4e5,r2qkbnr/pb1p2p1/np3p1p/2p1P3/2B1P3/2NP3N/PPP3PP/R1BQ1RK1 b kq - 0 8,The King-hunt begins now.
+16,fxe5,f6e5,r2qkbnr/pb1p2p1/np5p/2p1p3/2B1P3/2NP3N/PPP3PP/R1BQ1RK1 w kq - 0 9,The King-hunt begins now.
+17,Qh5+,d1h5,r2qkbnr/pb1p2p1/np5p/2p1p2Q/2B1P3/2NP3N/PPP3PP/R1B2RK1 b kq - 1 9,The King-hunt begins now.
+18,g6,g7g6,r2qkbnr/pb1p4/np4pp/2p1p2Q/2B1P3/2NP3N/PPP3PP/R1B2RK1 w kq - 0 10,Turning up the heat.
+19,Qxg6+,h5g6,r2qkbnr/pb1p4/np4Qp/2p1p3/2B1P3/2NP3N/PPP3PP/R1B2RK1 b kq - 0 10,Turning up the heat.
+20,Ke7,e8e7,r2q1bnr/pb1pk3/np4Qp/2p1p3/2B1P3/2NP3N/PPP3PP/R1B2RK1 w - - 1 11,Turning up the heat.
+21,Qf7+,g6f7,r2q1bnr/pb1pkQ2/np5p/2p1p3/2B1P3/2NP3N/PPP3PP/R1B2RK1 b - - 2 11,Turning up the heat.
+22,Kd6,e7d6,r2q1bnr/pb1p1Q2/np1k3p/2p1p3/2B1P3/2NP3N/PPP3PP/R1B2RK1 w - - 3 12,Closing in.
+23,Nb5+,c3b5,r2q1bnr/pb1p1Q2/np1k3p/1Np1p3/2B1P3/3P3N/PPP3PP/R1B2RK1 b - - 4 12,Closing in.
+24,Kc6,d6c6,r2q1bnr/pb1p1Q2/npk4p/1Np1p3/2B1P3/3P3N/PPP3PP/R1B2RK1 w - - 5 13,A nice finish.
+25,Qd5#,f7d5,r2q1bnr/pb1p4/npk4p/1NpQp3/2B1P3/3P3N/PPP3PP/R1B2RK1 b - - 6 13,A nice finish.

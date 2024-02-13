@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,6. Bb5?misses Black's tactical shot...
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,6. Bb5?misses Black's tactical shot...
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,6. Bb5?misses Black's tactical shot...
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,6. Bb5?misses Black's tactical shot...
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,6. Bb5?misses Black's tactical shot...
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4,6. Bb5?misses Black's tactical shot...
+7,Bg5,c1g5,r1bqkb1r/pppnpppp/3p1n2/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 4 4,6. Bb5?misses Black's tactical shot...
+8,e5,e7e5,r1bqkb1r/pppn1ppp/3p1n2/4p1B1/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5,6. Bb5?misses Black's tactical shot...
+9,d5,d4d5,r1bqkb1r/pppn1ppp/3p1n2/3Pp1B1/4P3/2N5/PPP2PPP/R2QKBNR b KQkq - 0 5,6. Bb5?misses Black's tactical shot...
+10,Be7,f8e7,r1bqk2r/pppnbppp/3p1n2/3Pp1B1/4P3/2N5/PPP2PPP/R2QKBNR w KQkq - 1 6,6. Bb5?misses Black's tactical shot...
+11,Bb5,f1b5,r1bqk2r/pppnbppp/3p1n2/1B1Pp1B1/4P3/2N5/PPP2PPP/R2QK1NR b KQkq - 2 6,6. Bb5?misses Black's tactical shot...
+12,Nxd5,f6d5,r1bqk2r/pppnbppp/3p4/1B1np1B1/4P3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 7,"Wins a pawn, if NxN, then BXB, and if BxB, NxB."
+13,Bxd7+,b5d7,r1bqk2r/pppBbppp/3p4/3np1B1/4P3/2N5/PPP2PPP/R2QK1NR b KQkq - 0 7,Black wants to contest the center with the extra pawn.
+14,Bxd7,c8d7,r2qk2r/pppbbppp/3p4/3np1B1/4P3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 8,Black wants to contest the center with the extra pawn.
+15,Bxe7,g5e7,r2qk2r/pppbBppp/3p4/3np3/4P3/2N5/PPP2PPP/R2QK1NR b KQkq - 0 8,Black wants to contest the center with the extra pawn.
+16,Nxe7,d5e7,r2qk2r/pppbnppp/3p4/4p3/4P3/2N5/PPP2PPP/R2QK1NR w KQkq - 0 9,Black wants to contest the center with the extra pawn.
+17,h3,h2h3,r2qk2r/pppbnppp/3p4/4p3/4P3/2N4P/PPP2PP1/R2QK1NR b KQkq - 0 9,Black wants to contest the center with the extra pawn.
+18,O-O,e8g8,r2q1rk1/pppbnppp/3p4/4p3/4P3/2N4P/PPP2PP1/R2QK1NR w KQ - 1 10,Black wants to contest the center with the extra pawn.
+19,Nf3,g1f3,r2q1rk1/pppbnppp/3p4/4p3/4P3/2N2N1P/PPP2PP1/R2QK2R b KQ - 2 10,Black wants to contest the center with the extra pawn.
+20,f5,f7f5,r2q1rk1/pppbn1pp/3p4/4pp2/4P3/2N2N1P/PPP2PP1/R2QK2R w KQ - 0 11,Black wants to contest the center with the extra pawn.
+21,Nd5,c3d5,r2q1rk1/pppbn1pp/3p4/3Npp2/4P3/5N1P/PPP2PP1/R2QK2R b KQ - 1 11,"Expecting NxN , QxN Qd5"
+22,fxe4,f5e4,r2q1rk1/pppbn1pp/3p4/3Np3/4p3/5N1P/PPP2PP1/R2QK2R w KQ - 0 12,"Expecting NxN , QxN Qd5"
+23,Nxe7+,d5e7,r2q1rk1/pppbN1pp/3p4/4p3/4p3/5N1P/PPP2PP1/R2QK2R b KQ - 0 12,"Expectied Qd5 , this retreat seems passive given  the material deficit."
+24,Qxe7,d8e7,r4rk1/pppbq1pp/3p4/4p3/4p3/5N1P/PPP2PP1/R2QK2R w KQ - 0 13,"Expectied Qd5 , this retreat seems passive given  the material deficit."
+25,Nd2,f3d2,r4rk1/pppbq1pp/3p4/4p3/4p3/7P/PPPN1PP1/R2QK2R b KQ - 1 13,"Expectied Qd5 , this retreat seems passive given  the material deficit."
+26,d5,d6d5,r4rk1/pppbq1pp/8/3pp3/4p3/7P/PPPN1PP1/R2QK2R w KQ - 0 14,"16 a4?!, I think simply 0-0 is better."
+27,Qe2,d1e2,r4rk1/pppbq1pp/8/3pp3/4p3/7P/PPPNQPP1/R3K2R b KQ - 1 14,"16 a4?!, I think simply 0-0 is better."
+28,Qf6,e7f6,r4rk1/pppb2pp/5q2/3pp3/4p3/7P/PPPNQPP1/R3K2R w KQ - 2 15,"16 a4?!, I think simply 0-0 is better."
+29,c4,c2c4,r4rk1/pppb2pp/5q2/3pp3/2P1p3/7P/PP1NQPP1/R3K2R b KQ - 0 15,"16 a4?!, I think simply 0-0 is better."
+30,c6,c7c6,r4rk1/pp1b2pp/2p2q2/3pp3/2P1p3/7P/PP1NQPP1/R3K2R w KQ - 0 16,"16 a4?!, I think simply 0-0 is better."
+31,a4,a2a4,r4rk1/pp1b2pp/2p2q2/3pp3/P1P1p3/7P/1P1NQPP1/R3K2R b KQ - 0 16,"16 a4?!, I think simply 0-0 is better."
+32,Qg6,f6g6,r4rk1/pp1b2pp/2p3q1/3pp3/P1P1p3/7P/1P1NQPP1/R3K2R w KQ - 1 17,To weaken White's kingside and possibly double the rooks on the f file.
+33,g4,g2g4,r4rk1/pp1b2pp/2p3q1/3pp3/P1P1p1P1/7P/1P1NQP2/R3K2R b KQ - 0 17,"A fateful decision to castle 0-0-0 since the king is exposed, but 0-0 would have left the king too exposed."
+34,Rf4,f8f4,r5k1/pp1b2pp/2p3q1/3pp3/P1P1prP1/7P/1P1NQP2/R3K2R w KQ - 1 18,"A fateful decision to castle 0-0-0 since the king is exposed, but 0-0 would have left the king too exposed."
+35,O-O-O,e1c1,r5k1/pp1b2pp/2p3q1/3pp3/P1P1prP1/7P/1P1NQP2/2KR3R b - - 2 18,"A fateful decision to castle 0-0-0 since the king is exposed, but 0-0 would have left the king too exposed."
+36,Raf8,a8f8,5rk1/pp1b2pp/2p3q1/3pp3/P1P1prP1/7P/1P1NQP2/2KR3R w - - 3 19,"...Rf8!? Perhaps too routine, in retrospect I think ..Qd6! threatening an immediate attack on the king is stronger."
+37,Rh2,h1h2,5rk1/pp1b2pp/2p3q1/3pp3/P1P1prP1/7P/1P1NQP1R/2KR4 b - - 4 19,"I played ...d4!? thinking I could just bust open the center and attack the king after b5. While this plan did work, ..Qd6! is still stronger."
+38,d4,d5d4,5rk1/pp1b2pp/2p3q1/4p3/P1PpprP1/7P/1P1NQP1R/2KR4 w - - 0 20,"I played ...d4!? thinking I could just bust open the center and attack the king after b5. While this plan did work, ..Qd6! is still stronger."
+39,Re1,d1e1,5rk1/pp1b2pp/2p3q1/4p3/P1PpprP1/7P/1P1NQP1R/2K1R3 b - - 1 20,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+40,b5,b7b5,5rk1/p2b2pp/2p3q1/1p2p3/P1PpprP1/7P/1P1NQP1R/2K1R3 w - - 0 21,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+41,axb5,a4b5,5rk1/p2b2pp/2p3q1/1P2p3/2PpprP1/7P/1P1NQP1R/2K1R3 b - - 0 21,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+42,cxb5,c6b5,5rk1/p2b2pp/6q1/1p2p3/2PpprP1/7P/1P1NQP1R/2K1R3 w - - 0 22,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+43,cxb5,c4b5,5rk1/p2b2pp/6q1/1P2p3/3pprP1/7P/1P1NQP1R/2K1R3 b - - 0 22,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+44,d3,d4d3,5rk1/p2b2pp/6q1/1P2p3/4prP1/3p3P/1P1NQP1R/2K1R3 w - - 0 23,"...d3!? is the point of the plan, now Black can take on b5 and the king will be exposed."
+45,Qe3,e2e3,5rk1/p2b2pp/6q1/1P2p3/4prP1/3pQ2P/1P1N1P1R/2K1R3 b - - 1 23,"...d2 !?, to open up lines of attack. I was hoping for Nxp??, Rc8 ."
+46,Bxb5,d7b5,5rk1/p5pp/6q1/1b2p3/4prP1/3pQ2P/1P1N1P1R/2K1R3 w - - 0 24,"...d2 !?, to open up lines of attack. I was hoping for Nxp??, Rc8 ."
+47,Nxe4,d2e4,5rk1/p5pp/6q1/1b2p3/4NrP1/3pQ2P/1P3P1R/2K1R3 b - - 0 24,"...d2 !?, to open up lines of attack. I was hoping for Nxp??, Rc8 ."
+48,d2+,d3d2,5rk1/p5pp/6q1/1b2p3/4NrP1/4Q2P/1P1p1P1R/2K1R3 w - - 0 25,"...d2 !?, to open up lines of attack. I was hoping for Nxp??, Rc8 ."
+49,Qxd2,e3d2,5rk1/p5pp/6q1/1b2p3/4NrP1/7P/1P1Q1P1R/2K1R3 b - - 0 25,"Now if .. RxN??, Qd5 ! So Black needs another plan."
+50,Qa6,g6a6,5rk1/p5pp/q7/1b2p3/4NrP1/7P/1P1Q1P1R/2K1R3 w - - 1 26,Protects the Bishop and threatens a check along the a file.
+51,Qd5+,d2d5,5rk1/p5pp/q7/1b1Qp3/4NrP1/7P/1P3P1R/2K1R3 b - - 2 26,White wants to centralize the queen and open up bank rate mate possibilities if Black is careless.
+52,Kh8,g8h8,5r1k/p5pp/q7/1b1Qp3/4NrP1/7P/1P3P1R/2K1R3 w - - 3 27,"Relying on this move to hold everything together, but this move does not work."
+53,Nc3,e4c3,5r1k/p5pp/q7/1b1Qp3/5rP1/2N4P/1P3P1R/2K1R3 b - - 4 27,"Relying on this move to hold everything together, but this move does not work."
+54,Qa1+,a6a1,5r1k/p5pp/8/1b1Qp3/5rP1/2N4P/1P3P1R/q1K1R3 w - - 5 28,The start of a winning combination...
+55,Nb1,c3b1,5r1k/p5pp/8/1b1Qp3/5rP1/7P/1P3P1R/qNK1R3 b - - 6 28,"If Kd1, QxN  and similar to game."
+56,Rc8+,f8c8,2r4k/p5pp/8/1b1Qp3/5rP1/7P/1P3P1R/qNK1R3 w - - 7 29,"If Kd1, QxN  and similar to game."
+57,Kd2,c1d2,2r4k/p5pp/8/1b1Qp3/5rP1/7P/1P1K1P1R/qN2R3 b - - 8 29,"If Kd1, QxN  and similar to game."
+58,Qxb2+,a1b2,2r4k/p5pp/8/1b1Qp3/5rP1/7P/1q1K1P1R/1N2R3 w - - 0 30,"Forced. If Qc3  were possible, mate would follow, so..."
+59,Ke3,d2e3,2r4k/p5pp/8/1b1Qp3/5rP1/4K2P/1q3P1R/1N2R3 b - - 1 30,"Forced. If Qc3  were possible, mate would follow, so..."
+60,Rc3+,c8c3,7k/p5pp/8/1b1Qp3/5rP1/2r1K2P/1q3P1R/1N2R3 w - - 2 31,forced

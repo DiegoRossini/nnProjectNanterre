@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,the bird takes flight
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,sicilian response
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq - 0 2,gambit surprise !
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2p2P2/8/PP1PP1PP/RNBQKBNR w KQkq - 0 3,most of the tme i win when the gambit is accepted...
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2p2P2/4P3/PP1P2PP/RNBQKBNR b KQkq - 0 3,defending carefully and preventing b8 knight or queen going to d4
+6,b5,b7b5,rnbqkbnr/p1p1pppp/8/1p6/2p2P2/4P3/PP1P2PP/RNBQKBNR w KQkq - 0 4,normal reaction : defending the c4 position. Wicht is not such a good idea in my opinion because my king will go to king side anyway so pressure on queen side could be lost time
+7,Nf3,g1f3,rnbqkbnr/p1p1pppp/8/1p6/2p2P2/4PN2/PP1P2PP/RNBQKB1R b KQkq - 1 4,develop and prepare castle
+8,Bf5,c8f5,rn1qkbnr/p1p1pppp/8/1p3b2/2p2P2/4PN2/PP1P2PP/RNBQKB1R w KQkq - 2 5,"...hum...i have to keep my b1 knight and be carefull of ...Nc6 ...Nb4...Nc2+ wining the a rook. And if i whant to play b2 b3 to open the f1 bishop diagonal, i have to prevent c4 c3 with Nc3"
+9,Nc3,b1c3,rn1qkbnr/p1p1pppp/8/1p3b2/2p2P2/2N1PN2/PP1P2PP/R1BQKB1R b KQkq - 3 5,"renforcing the paw structure. This is inacurate, better to devlop king side."
+10,c6,c7c6,rn1qkbnr/p3pppp/2p5/1p3b2/2p2P2/2N1PN2/PP1P2PP/R1BQKB1R w KQkq - 0 6,"renforcing the paw structure. This is inacurate, better to devlop king side."
+11,b3,b2b3,rn1qkbnr/p3pppp/2p5/1p3b2/2p2P2/1PN1PN2/P2P2PP/R1BQKB1R b KQkq - 0 6,normal attack to free my f1 bishop and preparing attack to the king withthe a4-e8 diagonal or the a2-f7 one
+12,b4,b5b4,rn1qkbnr/p3pppp/2p5/5b2/1pp2P2/1PN1PN2/P2P2PP/R1BQKB1R w KQkq - 0 7,"ok, but my knight can go to a4 and stay there safely"
+13,Na4,c3a4,rn1qkbnr/p3pppp/2p5/5b2/Npp2P2/1P2PN2/P2P2PP/R1BQKB1R b KQkq - 1 7,"bad, i will develop my queen and threat f7"
+14,cxb3,c4b3,rn1qkbnr/p3pppp/2p5/5b2/Np3P2/1p2PN2/P2P2PP/R1BQKB1R w KQkq - 0 8,"bad, i will develop my queen and threat f7"
+15,Qxb3,d1b3,rn1qkbnr/p3pppp/2p5/5b2/Np3P2/1Q2PN2/P2P2PP/R1B1KB1R b KQkq - 0 8,now he has to defend and i won a tempo
+16,e6,e7e6,rn1qkbnr/p4ppp/2p1p3/5b2/Np3P2/1Q2PN2/P2P2PP/R1B1KB1R w KQkq - 0 9,now he has to defend and i won a tempo
+17,Bc4,f1c4,rn1qkbnr/p4ppp/2p1p3/5b2/NpB2P2/1Q2PN2/P2P2PP/R1B1K2R b KQkq - 1 9,the plan was Nf d4 ...d4xf5...e6xf5 and Bxf7+! ...etc.
+18,Bd6,f8d6,rn1qk1nr/p4ppp/2pbp3/5b2/NpB2P2/1Q2PN2/P2P2PP/R1B1K2R w KQkq - 2 10,continuing the plan. I supose that black prepare castle
+19,Nd4,f3d4,rn1qk1nr/p4ppp/2pbp3/5b2/NpBN1P2/1Q2P3/P2P2PP/R1B1K2R b KQkq - 3 10,continuing the plan. I supose that black prepare castle
+20,Ne7,g8e7,rn1qk2r/p3nppp/2pbp3/5b2/NpBN1P2/1Q2P3/P2P2PP/R1B1K2R w KQkq - 4 11,now it cancel my plans and be about to castle. BIG regrets. I will do it any way d4xf5 e7xf5 e3 e4
+21,Nxf5,d4f5,rn1qk2r/p3nppp/2pbp3/5N2/NpB2P2/1Q2P3/P2P2PP/R1B1K2R b KQkq - 0 11,first castle
+22,Nxf5,e7f5,rn1qk2r/p4ppp/2pbp3/5n2/NpB2P2/1Q2P3/P2P2PP/R1B1K2R w KQkq - 0 12,first castle
+23,O-O,e1g1,rn1qk2r/p4ppp/2pbp3/5n2/NpB2P2/1Q2P3/P2P2PP/R1B2RK1 b kq - 1 12,i dont understand this move ??? maybe a mouse slip
+24,Rg8,h8g8,rn1qk1r1/p4ppp/2pbp3/5n2/NpB2P2/1Q2P3/P2P2PP/R1B2RK1 w q - 2 13,i dont understand this move ??? maybe a mouse slip
+25,e4,e3e4,rn1qk1r1/p4ppp/2pbp3/5n2/NpB1PP2/1Q6/P2P2PP/R1B2RK1 b q - 0 13,"not good enought, this night is not safe"
+26,Nd4,f5d4,rn1qk1r1/p4ppp/2pbp3/8/NpBnPP2/1Q6/P2P2PP/R1B2RK1 w q - 1 14,"not good enought, this night is not safe"
+27,Qd3,b3d3,rn1qk1r1/p4ppp/2pbp3/8/NpBnPP2/3Q4/P2P2PP/R1B2RK1 b q - 2 14,chess and winign a pawn is coming after exchange
+28,Nb5,d4b5,rn1qk1r1/p4ppp/2pbp3/1n6/NpB1PP2/3Q4/P2P2PP/R1B2RK1 w q - 3 15,chess and winign a pawn is coming after exchange

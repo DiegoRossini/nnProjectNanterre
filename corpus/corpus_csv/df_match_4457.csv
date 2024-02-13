@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Petroff defence.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Petroff defence.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Petroff defence.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Petroff defence.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Transposes into the four knights game.
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Transposes into the four knights game.
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,White prods my bishop with a pawn.
+8,Bb4,f8b4,r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,White prods my bishop with a pawn.
+9,a3,a2a3,r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/P1N2N2/1PPP1PPP/R1BQK2R b KQkq - 0 5,White prods my bishop with a pawn.
+10,Bxc3,b4c3,r1bqk2r/pppp1ppp/2n2n2/1B2p3/4P3/P1b2N2/1PPP1PPP/R1BQK2R w KQkq - 0 6,I trade...
+11,dxc3,d2c3,r1bqk2r/pppp1ppp/2n2n2/1B2p3/4P3/P1P2N2/1PP2PPP/R1BQK2R b KQkq - 0 6,"White recaptures with his d2 pawn. I think it might have been better to capture with the b2 pawn instead, since white's centre may later be weakened by the absence of centrl pawns? Although capturing with the d2 pawn does open up the c1-h6 diagonal for whites bishop..."
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/1B2p3/4P3/P1P2N2/1PP2PPP/R1BQK2R w KQ - 1 7,I castle kingside.
+13,Bxc6,b5c6,r1bq1rk1/pppp1ppp/2B2n2/4p3/4P3/P1P2N2/1PP2PPP/R1BQK2R b KQ - 0 7,White captures the knight on c6.
+14,dxc6,d7c6,r1bq1rk1/ppp2ppp/2p2n2/4p3/4P3/P1P2N2/1PP2PPP/R1BQK2R w KQ - 0 8,"I recapture with the pawn on d7. This capture takes one of black's pawns away from the centre, not towards it. Now there should be a struggle for control of the open d file..."
+15,Bg5,c1g5,r1bq1rk1/ppp2ppp/2p2n2/4p1B1/4P3/P1P2N2/1PP2PPP/R2QK2R b KQ - 1 8,Win pins my knight...
+16,Qxd1+,d8d1,r1b2rk1/ppp2ppp/2p2n2/4p1B1/4P3/P1P2N2/1PP2PPP/R2qK2R w KQ - 0 9,...but the pin is only temporary.
+17,Rxd1,a1d1,r1b2rk1/ppp2ppp/2p2n2/4p1B1/4P3/P1P2N2/1PP2PPP/3RK2R b K - 0 9,"White recaptures with his rook, seizing control of the open d file."
+18,Nxe4,f6e4,r1b2rk1/ppp2ppp/2p5/4p1B1/4n3/P1P2N2/1PP2PPP/3RK2R w K - 0 10,"My knight, no longer pinned, captures white's pawn on e4. But I have given white the d file. Was this worth it? d8 looks pretty weak for me now - white's rook and bishop are both staring straight at it."
+19,O-O,e1g1,r1b2rk1/ppp2ppp/2p5/4p1B1/4n3/P1P2N2/1PP2PPP/3R1RK1 b - - 1 10,White castles.
+20,f6,f7f6,r1b2rk1/ppp3pp/2p2p2/4p1B1/4n3/P1P2N2/1PP2PPP/3R1RK1 w - - 0 11,I defend the pawn on e5 and threaten white's bishop.
+21,Be3,g5e3,r1b2rk1/ppp3pp/2p2p2/4p3/4n3/P1P1BN2/1PP2PPP/3R1RK1 b - - 1 11,White moves his bishop out of harm's way.
+22,Be6,c8e6,r4rk1/ppp3pp/2p1bp2/4p3/4n3/P1P1BN2/1PP2PPP/3R1RK1 w - - 2 12,"I develop my  bishop, and connect my rooks on the back rank."
+23,h3,h2h3,r4rk1/ppp3pp/2p1bp2/4p3/4n3/P1P1BN1P/1PP2PP1/3R1RK1 b - - 0 12,This prevents white's knight being pinned by Bg4... I think this was a bit of a waste of a move though - I'd just played Be6 the move before - if I'd wanted to play Bg4 I'd have done it already. Rd3 or might have been better - preparing to double rooks on the d file.
+24,b6,b7b6,r4rk1/p1p3pp/1pp1bp2/4p3/4n3/P1P1BN1P/1PP2PP1/3R1RK1 w - - 0 13,I try to control the c5 square more solidly than just covering it with the knight. White's bishop now has very few squares. But perhaps moving a rook to d8 straight away is better?
+25,Nd2,f3d2,r4rk1/p1p3pp/1pp1bp2/4p3/4n3/P1P1B2P/1PPN1PP1/3R1RK1 b - - 1 13,"Attacking my knight, but closing the d-file."
+26,Nd6,e4d6,r4rk1/p1p3pp/1ppnbp2/4p3/8/P1P1B2P/1PPN1PP1/3R1RK1 w - - 2 14,"I don't swap - since this allows white to take back with his rook, and he could then double his rooks on the d file on his next move. Moving my knight to c5 would not be good - white could swap his inactive bishop for my active knight, and I'd have tripled pawns after recapturing!"

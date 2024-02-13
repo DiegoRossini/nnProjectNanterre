@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"please note that: !! = very good move, ! = good move, ?? = very bad move (blunder), ? = bad move (mistake), !? = maybe 
+
+good maybe bad move.
+
+d4 flowed by c4 to open the game."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,reply to my massage.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,to open the game.
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,to control the center and to open the way for the light bishop.
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq - 0 3,to control the center and to open the way for the light bishop.
+6,b5,b7b5,rnbqkbnr/p1p1pppp/8/1p6/2pPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4,protection.
+7,g3,g2g3,rnbqkbnr/p1p1pppp/8/1p6/2pPP3/6P1/PP3P1P/RNBQKBNR b KQkq - 0 4,to find another way for the bishop and preparing for castling.
+8,Bb7,c8b7,rn1qkbnr/pbp1pppp/8/1p6/2pPP3/6P1/PP3P1P/RNBQKBNR w KQkq - 1 5,attacking e4 pawn.
+9,Bg2,f1g2,rn1qkbnr/pbp1pppp/8/1p6/2pPP3/6P1/PP3PBP/RNBQK1NR b KQkq - 2 5,protection and preparing for early castling.
+10,e6,e7e6,rn1qkbnr/pbp2ppp/4p3/1p6/2pPP3/6P1/PP3PBP/RNBQK1NR w KQkq - 0 6,opening for dark bishop.
+11,Nh3,g1h3,rn1qkbnr/pbp2ppp/4p3/1p6/2pPP3/6PN/PP3PBP/RNBQK2R b KQkq - 1 6,developing and ready for castling.
+12,h6,h7h6,rn1qkbnr/pbp2pp1/4p2p/1p6/2pPP3/6PN/PP3PBP/RNBQK2R w KQkq - 0 7,to prevent white knight from jumping to j5.
+13,a3,a2a3,rn1qkbnr/pbp2pp1/4p2p/1p6/2pPP3/P5PN/1P3PBP/RNBQK2R b KQkq - 0 7,to prevent dark bishop to go to b4 to check the king.
+14,Nf6,g8f6,rn1qkb1r/pbp2pp1/4pn1p/1p6/2pPP3/P5PN/1P3PBP/RNBQK2R w KQkq - 1 8,developing and attacking e4 pawn. !
+15,Nc3,b1c3,rn1qkb1r/pbp2pp1/4pn1p/1p6/2pPP3/P1N3PN/1P3PBP/R1BQK2R b KQkq - 2 8,"developing, defense for pawn in e4 and attacking b5 pawn if the defense problem is solved. !"
+16,c6,c7c6,rn1qkb1r/pb3pp1/2p1pn1p/1p6/2pPP3/P1N3PN/1P3PBP/R1BQK2R w KQkq - 0 9,protection.
+17,e5,e4e5,rn1qkb1r/pb3pp1/2p1pn1p/1p2P3/2pP4/P1N3PN/1P3PBP/R1BQK2R b KQkq - 0 9,attacking the knight.
+18,Nd5,f6d5,rn1qkb1r/pb3pp1/2p1p2p/1p1nP3/2pP4/P1N3PN/1P3PBP/R1BQK2R w KQkq - 1 10,avoiding knights exchange.
+19,Ne2,c3e2,rn1qkb1r/pb3pp1/2p1p2p/1p1nP3/2pP4/P5PN/1P2NPBP/R1BQK2R b KQkq - 2 10,avoiding knights exchange.
+20,Be7,f8e7,rn1qk2r/pb2bpp1/2p1p2p/1p1nP3/2pP4/P5PN/1P2NPBP/R1BQK2R w KQkq - 3 11,early castling. !
+21,O-O,e1g1,rn1qk2r/pb2bpp1/2p1p2p/1p1nP3/2pP4/P5PN/1P2NPBP/R1BQ1RK1 b kq - 4 11,early castling. !
+22,f6,f7f6,rn1qk2r/pb2b1p1/2p1pp1p/1p1nP3/2pP4/P5PN/1P2NPBP/R1BQ1RK1 w kq - 0 12,attacking center pawn.
+23,Nef4,e2f4,rn1qk2r/pb2b1p1/2p1pp1p/1p1nP3/2pP1N2/P5PN/1P3PBP/R1BQ1RK1 b kq - 1 12,attacking e6 pawn and the queen after that.

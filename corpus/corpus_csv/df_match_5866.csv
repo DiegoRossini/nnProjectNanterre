@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,He is definitely aggressive going after f7 quickly.
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,He is definitely aggressive going after f7 quickly.
+3,Bc4,f1c4,rnbqkbnr/p1pppppp/1p6/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,He is definitely aggressive going after f7 quickly.
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,He is definitely aggressive going after f7 quickly.
+5,Qf3,d1f3,rn1qkbnr/pbpppppp/1p6/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,He is definitely aggressive going after f7 quickly.
+6,Nf6,g8f6,rn1qkb1r/pbpppppp/1p3n2/8/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,Taking advantage of the pin on the e4 pawn.
+7,d3,d2d3,rn1qkb1r/pbpppppp/1p3n2/8/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 4,Defending the doubly attacked pawn.
+8,e6,e7e6,rn1qkb1r/pbpp1ppp/1p2pn2/8/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 0 5,Blocking the c4 Bishop from the f7 square.
+9,Bg5,c1g5,rn1qkb1r/pbpp1ppp/1p2pn2/6B1/2B1P3/3P1Q2/PPP2PPP/RN2K1NR b KQkq - 1 5,A pin.
+10,Be7,f8e7,rn1qk2r/pbppbppp/1p2pn2/6B1/2B1P3/3P1Q2/PPP2PPP/RN2K1NR w KQkq - 2 6,A pin undone.
+11,Nh3,g1h3,rn1qk2r/pbppbppp/1p2pn2/6B1/2B1P3/3P1Q1N/PPP2PPP/RN2K2R b KQkq - 3 6,Finishing his development.
+12,O-O,e8g8,rn1q1rk1/pbppbppp/1p2pn2/6B1/2B1P3/3P1Q1N/PPP2PPP/RN2K2R w KQ - 4 7,Finishing his development.
+13,Nc3,b1c3,rn1q1rk1/pbppbppp/1p2pn2/6B1/2B1P3/2NP1Q1N/PPP2PPP/R3K2R b KQ - 5 7,Finishing his development.
+14,h6,h7h6,rn1q1rk1/pbppbpp1/1p2pn1p/6B1/2B1P3/2NP1Q1N/PPP2PPP/R3K2R w KQ - 0 8,Threatens Bxh6 but allows the ensuing fork.
+15,Bf4,g5f4,rn1q1rk1/pbppbpp1/1p2pn1p/8/2B1PB2/2NP1Q1N/PPP2PPP/R3K2R b KQ - 1 8,Threatens Bxh6 but allows the ensuing fork.
+16,d6,d7d6,rn1q1rk1/pbp1bpp1/1p1ppn1p/8/2B1PB2/2NP1Q1N/PPP2PPP/R3K2R w KQ - 0 9,Threatens Bxh6 but allows the ensuing fork.
+17,Qg3,f3g3,rn1q1rk1/pbp1bpp1/1p1ppn1p/8/2B1PB2/2NP2QN/PPP2PPP/R3K2R b KQ - 1 9,Threatens Bxh6 but allows the ensuing fork.
+18,Nh5,f6h5,rn1q1rk1/pbp1bpp1/1p1pp2p/7n/2B1PB2/2NP2QN/PPP2PPP/R3K2R w KQ - 2 10,Stops Bxh6 but allows White to make his h3 Knight more involved in the game.
+19,Qg4,g3g4,rn1q1rk1/pbp1bpp1/1p1pp2p/7n/2B1PBQ1/2NP3N/PPP2PPP/R3K2R b KQ - 3 10,Stops Bxh6 but allows White to make his h3 Knight more involved in the game.
+20,Nxf4,h5f4,rn1q1rk1/pbp1bpp1/1p1pp2p/8/2B1PnQ1/2NP3N/PPP2PPP/R3K2R w KQ - 0 11,Stops Bxh6 but allows White to make his h3 Knight more involved in the game.
+21,Nxf4,h3f4,rn1q1rk1/pbp1bpp1/1p1pp2p/8/2B1PNQ1/2NP4/PPP2PPP/R3K2R b KQ - 0 11,Bringing the Queen's Knight into the fray.
+22,Nd7,b8d7,r2q1rk1/pbpnbpp1/1p1pp2p/8/2B1PNQ1/2NP4/PPP2PPP/R3K2R w KQ - 1 12,Bringing the Queen's Knight into the fray.
+23,Nh5,f4h5,r2q1rk1/pbpnbpp1/1p1pp2p/7N/2B1P1Q1/2NP4/PPP2PPP/R3K2R b KQ - 2 12,Blocking the mating square.  But as I annotate this I am thinking that Bf6 may have been sufficient.  I can only say that when I made that move I was holding f6 open for my Knight.
+24,Bg5,e7g5,r2q1rk1/pbpn1pp1/1p1pp2p/6bN/2B1P1Q1/2NP4/PPP2PPP/R3K2R w KQ - 3 13,Blocking the mating square.  But as I annotate this I am thinking that Bf6 may have been sufficient.  I can only say that when I made that move I was holding f6 open for my Knight.
+25,h4,h2h4,r2q1rk1/pbpn1pp1/1p1pp2p/6bN/2B1P1QP/2NP4/PPP2PP1/R3K2R b KQ - 0 13,The Bishop has no place safe to go. For some reason I seem blind to Bf6.
+26,Ne5,d7e5,r2q1rk1/pbp2pp1/1p1pp2p/4n1bN/2B1P1QP/2NP4/PPP2PP1/R3K2R w KQ - 1 14,So the calvary to the rescue. I seem to have developed some inbred reluctance to putting my Bishop on f6.
+27,Qg3,g4g3,r2q1rk1/pbp2pp1/1p1pp2p/4n1bN/2B1P2P/2NP2Q1/PPP2PP1/R3K2R b KQ - 2 14,Maintaining an eye g7.
+28,Bf6,g5f6,r2q1rk1/pbp2pp1/1p1ppb1p/4n2N/2B1P2P/2NP2Q1/PPP2PP1/R3K2R w KQ - 3 15,Maybe I woke up or maybe I just wanted to see what would happen if the Bishop was here.
+29,O-O-O,e1c1,r2q1rk1/pbp2pp1/1p1ppb1p/4n2N/2B1P2P/2NP2Q1/PPP2PP1/2KR3R b - - 4 15,Perhaps going after his King's pawn with Nxc4 was a better alternative.
+30,Ng6,e5g6,r2q1rk1/pbp2pp1/1p1ppbnp/7N/2B1P2P/2NP2Q1/PPP2PP1/2KR3R w - - 5 16,Perhaps going after his King's pawn with Nxc4 was a better alternative.
+31,f4,f2f4,r2q1rk1/pbp2pp1/1p1ppbnp/7N/2B1PP1P/2NP2Q1/PPP3P1/2KR3R b - - 0 16,"Okay I got it, but already I am wondering if I haven't opened a can of worms."
+32,Nxh4,g6h4,r2q1rk1/pbp2pp1/1p1ppb1p/7N/2B1PP1n/2NP2Q1/PPP3P1/2KR3R w - - 0 17,"Okay I got it, but already I am wondering if I haven't opened a can of worms."
+33,e5,e4e5,r2q1rk1/pbp2pp1/1p1ppb1p/4P2N/2B2P1n/2NP2Q1/PPP3P1/2KR3R b - - 0 17,What was wrong with Nf5 first?
+34,dxe5,d6e5,r2q1rk1/pbp2pp1/1p2pb1p/4p2N/2B2P1n/2NP2Q1/PPP3P1/2KR3R w - - 0 18,What was wrong with Nf5 first?
+35,fxe5,f4e5,r2q1rk1/pbp2pp1/1p2pb1p/4P2N/2B4n/2NP2Q1/PPP3P1/2KR3R b - - 0 18,That check let me get my Knight off of the h file for a while.
+36,Bg5+,f6g5,r2q1rk1/pbp2pp1/1p2p2p/4P1bN/2B4n/2NP2Q1/PPP3P1/2KR3R w - - 1 19,That check let me get my Knight off of the h file for a while.
+37,Kb1,c1b1,r2q1rk1/pbp2pp1/1p2p2p/4P1bN/2B4n/2NP2Q1/PPP3P1/1K1R3R b - - 2 19,That check let me get my Knight off of the h file for a while.
+38,Nf5,h4f5,r2q1rk1/pbp2pp1/1p2p2p/4PnbN/2B5/2NP2Q1/PPP3P1/1K1R3R w - - 3 20,That check let me get my Knight off of the h file for a while.
+39,Qh3,g3h3,r2q1rk1/pbp2pp1/1p2p2p/4PnbN/2B5/2NP3Q/PPP3P1/1K1R3R b - - 4 20,Perhaps I have survived his sandstorm.
+40,Ne3,f5e3,r2q1rk1/pbp2pp1/1p2p2p/4P1bN/2B5/2NPn2Q/PPP3P1/1K1R3R w - - 5 21,Perhaps I have survived his sandstorm.

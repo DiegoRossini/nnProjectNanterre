@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Slav defense
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Slav defense
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Slav defense
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Slav defense
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,not the usual line but going to Slav defense main line
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,not the usual line but going to Slav defense main line
+7,Nf3,g1f3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,not the usual line but going to Slav defense main line
+8,e6,e7e6,rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,I like to solve the black bishop issue this way
+9,Bg5,c1g5,rnbqkb1r/pp3ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5,I like to solve the black bishop issue this way
+10,h6,h7h6,rnbqkb1r/pp3pp1/2p1pn1p/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6,Black decides - I don't want the center
+11,Bxf6,g5f6,rnbqkb1r/pp3pp1/2p1pB1p/3p4/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 6,Black decides - I don't want the center
+12,Qxf6,d8f6,rnb1kb1r/pp3pp1/2p1pq1p/3p4/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 7,Black decides - I don't want the center
+13,e3,e2e3,rnb1kb1r/pp3pp1/2p1pq1p/3p4/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7,Black decides - I don't want the center
+14,dxc4,d5c4,rnb1kb1r/pp3pp1/2p1pq1p/8/2pP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 0 8,Black decides - I don't want the center
+15,Bxc4,f1c4,rnb1kb1r/pp3pp1/2p1pq1p/8/2BP4/2N1PN2/PP3PPP/R2QK2R b KQkq - 0 8,Black decides to solve the white bishop issue - but destroying the pawn structure for a suitable place for your bishop?!?
+16,b5,b7b5,rnb1kb1r/p4pp1/2p1pq1p/1p6/2BP4/2N1PN2/PP3PPP/R2QK2R w KQkq - 0 9,Black decides to solve the white bishop issue - but destroying the pawn structure for a suitable place for your bishop?!?
+17,Bd3,c4d3,rnb1kb1r/p4pp1/2p1pq1p/1p6/3P4/2NBPN2/PP3PPP/R2QK2R b KQkq - 1 9,Semi opened flank - some would say not so good I would say so far so good
+18,Nd7,b8d7,r1b1kb1r/p2n1pp1/2p1pq1p/1p6/3P4/2NBPN2/PP3PPP/R2QK2R w KQkq - 2 10,Semi opened flank - some would say not so good I would say so far so good
+19,Qc2,d1c2,r1b1kb1r/p2n1pp1/2p1pq1p/1p6/3P4/2NBPN2/PPQ2PPP/R3K2R b KQkq - 3 10,Semi opened flank - some would say not so good I would say so far so good
+20,Bb7,c8b7,r3kb1r/pb1n1pp1/2p1pq1p/1p6/3P4/2NBPN2/PPQ2PPP/R3K2R w KQkq - 4 11,It is time to send the queen home
+21,Ne4,c3e4,r3kb1r/pb1n1pp1/2p1pq1p/1p6/3PN3/3BPN2/PPQ2PPP/R3K2R b KQkq - 5 11,It is time to send the queen home
+22,Qd8,f6d8,r2qkb1r/pb1n1pp1/2p1p2p/1p6/3PN3/3BPN2/PPQ2PPP/R3K2R w KQkq - 6 12,Development part 1 done - next rooks and taking over the center
+23,O-O,e1g1,r2qkb1r/pb1n1pp1/2p1p2p/1p6/3PN3/3BPN2/PPQ2PPP/R4RK1 b kq - 7 12,Development part 1 done - next rooks and taking over the center
+24,Be7,f8e7,r2qk2r/pb1nbpp1/2p1p2p/1p6/3PN3/3BPN2/PPQ2PPP/R4RK1 w kq - 8 13,Due to the course of the game it would have been better for the A-flank rook to take this spot but the basic idea is F-rook to D and A-rook to C
+25,Rfd1,f1d1,r2qk2r/pb1nbpp1/2p1p2p/1p6/3PN3/3BPN2/PPQ2PPP/R2R2K1 b kq - 9 13,Due to the course of the game it would have been better for the A-flank rook to take this spot but the basic idea is F-rook to D and A-rook to C
+26,f5,f7f5,r2qk2r/pb1nb1p1/2p1p2p/1p3p2/3PN3/3BPN2/PPQ2PPP/R2R2K1 w kq - 0 14,"I once read - don't send a pawn to do the man's work, they can't go back"
+27,Ng3,e4g3,r2qk2r/pb1nb1p1/2p1p2p/1p3p2/3P4/3BPNN1/PPQ2PPP/R2R2K1 b kq - 1 14,Well look at those clumsy knights pinned to the king's pawns - or are they
+28,O-O,e8g8,r2q1rk1/pb1nb1p1/2p1p2p/1p3p2/3P4/3BPNN1/PPQ2PPP/R2R2K1 w - - 2 15,Finally the black finishes development
+29,Ne2,g3e2,r2q1rk1/pb1nb1p1/2p1p2p/1p3p2/3P4/3BPN2/PPQ1NPPP/R2R2K1 b - - 3 15,Look the way the knights with the pawns control the black center squares - the black pawns can go no further
+30,Qc7,d8c7,r4rk1/pbqnb1p1/2p1p2p/1p3p2/3P4/3BPN2/PPQ1NPPP/R2R2K1 w - - 4 16,X-ray lesson #1 - never leave your queen X-rayed
+31,Bxb5,d3b5,r4rk1/pbqnb1p1/2p1p2p/1B3p2/3P4/4PN2/PPQ1NPPP/R2R2K1 b - - 0 16,I don't care about pawns I am going to mate
+32,Bd6,e7d6,r4rk1/pbqn2p1/2pbp2p/1B3p2/3P4/4PN2/PPQ1NPPP/R2R2K1 w - - 1 17,I don't care about pawns I am going to mate
+33,Bc4,b5c4,r4rk1/pbqn2p1/2pbp2p/5p2/2BP4/4PN2/PPQ1NPPP/R2R2K1 b - - 2 17,Pointing out the black e6 weakness and more important pointing out the pointless black attack
+34,Rae8,a8e8,4rrk1/pbqn2p1/2pbp2p/5p2/2BP4/4PN2/PPQ1NPPP/R2R2K1 w - - 3 18,That black bishop dilemma - I can't mate I can't go anywhere else
+35,a3,a2a3,4rrk1/pbqn2p1/2pbp2p/5p2/2BP4/P3PN2/1PQ1NPPP/R2R2K1 b - - 0 18,That black bishop dilemma - I can't mate I can't go anywhere else
+36,Nf6,d7f6,4rrk1/pbq3p1/2pbpn1p/5p2/2BP4/P3PN2/1PQ1NPPP/R2R2K1 w - - 1 19,X-ray lesson #2 - never leave your King X-rayyed
+37,Qxf5,c2f5,4rrk1/pbq3p1/2pbpn1p/5Q2/2BP4/P3PN2/1P2NPPP/R2R2K1 b - - 0 19,Although it seems the Queen is cornered it still watches the crucial squares - the week pawn on e6 and defends the knight on f3
+38,Nd5,f6d5,4rrk1/pbq3p1/2pbp2p/3n1Q2/2BP4/P3PN2/1P2NPPP/R2R2K1 w - - 1 20,Although it seems the Queen is cornered it still watches the crucial squares - the week pawn on e6 and defends the knight on f3
+39,Qh3,f5h3,4rrk1/pbq3p1/2pbp2p/3n4/2BP4/P3PN1Q/1P2NPPP/R2R2K1 b - - 2 20,Although it seems the Queen is cornered it still watches the crucial squares - the week pawn on e6 and defends the knight on f3
+40,Rf6,f8f6,4r1k1/pbq3p1/2pbpr1p/3n4/2BP4/P3PN1Q/1P2NPPP/R2R2K1 w - - 3 21,"as I mentioned before - the black left the center for the white, so it was time to seize it"
+41,e4,e3e4,4r1k1/pbq3p1/2pbpr1p/3n4/2BPP3/P4N1Q/1P2NPPP/R2R2K1 b - - 0 21,"as I mentioned before - the black left the center for the white, so it was time to seize it"

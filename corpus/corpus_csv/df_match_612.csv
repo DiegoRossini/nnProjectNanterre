@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I tried this instead, for variety's sake."
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I tried this instead, for variety's sake."
+3,Bf4,c1f4,rnbqkbnr/p1pppppp/1p6/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"I tried this instead, for variety's sake."
+4,Bb7,c8b7,rn1qkbnr/pbpppppp/1p6/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"I tried this instead, for variety's sake."
+5,Nd2,b1d2,rn1qkbnr/pbpppppp/1p6/8/3P1B2/8/PPPNPPPP/R2QKBNR b KQkq - 3 3,"I tried this instead, for variety's sake."
+6,g6,g7g6,rn1qkbnr/pbpppp1p/1p4p1/8/3P1B2/8/PPPNPPPP/R2QKBNR w KQkq - 0 4,"I tried this instead, for variety's sake."
+7,e4,e2e4,rn1qkbnr/pbpppp1p/1p4p1/8/3PPB2/8/PPPN1PPP/R2QKBNR b KQkq - 0 4,"I tried this instead, for variety's sake."
+8,Nf6,g8f6,rn1qkb1r/pbpppp1p/1p3np1/8/3PPB2/8/PPPN1PPP/R2QKBNR w KQkq - 1 5,"I tried this instead, for variety's sake."
+9,e5,e4e5,rn1qkb1r/pbpppp1p/1p3np1/4P3/3P1B2/8/PPPN1PPP/R2QKBNR b KQkq - 0 5,"I tried this instead, for variety's sake."
+10,Nd5,f6d5,rn1qkb1r/pbpppp1p/1p4p1/3nP3/3P1B2/8/PPPN1PPP/R2QKBNR w KQkq - 1 6,The N can be kicked and the tmpo returned. With some precautions.
+11,Bg3,f4g3,rn1qkb1r/pbpppp1p/1p4p1/3nP3/3P4/6B1/PPPN1PPP/R2QKBNR b KQkq - 2 6,The N can be kicked and the tmpo returned. With some precautions.
+12,c6,c7c6,rn1qkb1r/pb1ppp1p/1pp3p1/3nP3/3P4/6B1/PPPN1PPP/R2QKBNR w KQkq - 0 7,??? Anti-natural move that cramps inmediately black beyond the imaginable.
+13,a3,a2a3,rn1qkb1r/pb1ppp1p/1pp3p1/3nP3/3P4/P5B1/1PPN1PPP/R2QKBNR b KQkq - 0 7,This is to prevent Nd5 to jump on b4 after c4.
+14,e6,e7e6,rn1qkb1r/pb1p1p1p/1pp1p1p1/3nP3/3P4/P5B1/1PPN1PPP/R2QKBNR w KQkq - 0 8,Now tell me: who has the board?
+15,c4,c2c4,rn1qkb1r/pb1p1p1p/1pp1p1p1/3nP3/2PP4/P5B1/1P1N1PPP/R2QKBNR b KQkq - 0 8,Now tell me: who has the board?
+16,Nc7,d5c7,rn1qkb1r/pbnp1p1p/1pp1p1p1/4P3/2PP4/P5B1/1P1N1PPP/R2QKBNR w KQkq - 1 9,Now tell me: who has the board?
+17,Ne4,d2e4,rn1qkb1r/pbnp1p1p/1pp1p1p1/4P3/2PPN3/P5B1/1P3PPP/R2QKBNR b KQkq - 2 9,"Nf6 is a must. Only move: Be7, covering al N's landing squares."
+18,Qc8,d8c8,rnq1kb1r/pbnp1p1p/1pp1p1p1/4P3/2PPN3/P5B1/1P3PPP/R2QKBNR w KQkq - 3 10,?
+19,Nf6+,e4f6,rnq1kb1r/pbnp1p1p/1pp1pNp1/4P3/2PP4/P5B1/1P3PPP/R2QKBNR b KQkq - 4 10,"Maybe not the best. Better is to develop some other piece, but I couldn't see any attack right now."
+20,Kd8,e8d8,rnqk1b1r/pbnp1p1p/1pp1pNp1/4P3/2PP4/P5B1/1P3PPP/R2QKBNR w KQ - 5 11,"Maybe not the best. Better is to develop some other piece, but I couldn't see any attack right now."
+21,Bh4,g3h4,rnqk1b1r/pbnp1p1p/1pp1pNp1/4P3/2PP3B/P7/1P3PPP/R2QKBNR b KQ - 6 11,"Maybe not the best. Better is to develop some other piece, but I couldn't see any attack right now."
+22,g5,g6g5,rnqk1b1r/pbnp1p1p/1pp1pN2/4P1p1/2PP3B/P7/1P3PPP/R2QKBNR w KQ - 0 12,"? Another help from my opponent, who obviously doesn't know what to play!"
+23,Bxg5,h4g5,rnqk1b1r/pbnp1p1p/1pp1pN2/4P1B1/2PP4/P7/1P3PPP/R2QKBNR b KQ - 0 12,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+24,h6,h7h6,rnqk1b1r/pbnp1p2/1pp1pN1p/4P1B1/2PP4/P7/1P3PPP/R2QKBNR w KQ - 0 13,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+25,Bh4,g5h4,rnqk1b1r/pbnp1p2/1pp1pN1p/4P3/2PP3B/P7/1P3PPP/R2QKBNR b KQ - 1 13,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+26,Be7,f8e7,rnqk3r/pbnpbp2/1pp1pN1p/4P3/2PP3B/P7/1P3PPP/R2QKBNR w KQ - 2 14,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+27,Qh5,d1h5,rnqk3r/pbnpbp2/1pp1pN1p/4P2Q/2PP3B/P7/1P3PPP/R3KBNR b KQ - 3 14,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+28,Nba6,b8a6,r1qk3r/pbnpbp2/npp1pN1p/4P2Q/2PP3B/P7/1P3PPP/R3KBNR w KQ - 4 15,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+29,Nf3,g1f3,r1qk3r/pbnpbp2/npp1pN1p/4P2Q/2PP3B/P4N2/1P3PPP/R3KB1R b KQ - 5 15,"Qxf7 at once was just an invitation to Rf8. But now, this N has a target."
+30,c5,c6c5,r1qk3r/pbnpbp2/np2pN1p/2p1P2Q/2PP3B/P4N2/1P3PPP/R3KB1R w KQ - 0 16,?? Losing the track. Ng5 at once would have won right away.
+31,Be2,f1e2,r1qk3r/pbnpbp2/np2pN1p/2p1P2Q/2PP3B/P4N2/1P2BPPP/R3K2R b KQ - 1 16,?? Losing the track. Ng5 at once would have won right away.
+32,cxd4,c5d4,r1qk3r/pbnpbp2/np2pN1p/4P2Q/2Pp3B/P4N2/1P2BPPP/R3K2R w KQ - 0 17,"Cashing the R would have been easy, but..."
+33,Ng5,f3g5,r1qk3r/pbnpbp2/np2pN1p/4P1NQ/2Pp3B/P7/1P2BPPP/R3K2R b KQ - 1 17,"Cashing the R would have been easy, but..."
+34,Ne8,c7e8,r1qkn2r/pb1pbp2/np2pN1p/4P1NQ/2Pp3B/P7/1P2BPPP/R3K2R w KQ - 2 18,"Cashing the R would have been easy, but..."
+35,Nxf7+,g5f7,r1qkn2r/pb1pbN2/np2pN1p/4P2Q/2Pp3B/P7/1P2BPPP/R3K2R b KQ - 0 18,"Cashing the R would have been easy, but..."
+36,Kc7,d8c7,r1q1n2r/pbkpbN2/np2pN1p/4P2Q/2Pp3B/P7/1P2BPPP/R3K2R w KQ - 1 19,"Cashing the R would have been easy, but..."
+37,Nxe8+,f6e8,r1q1N2r/pbkpbN2/np2p2p/4P2Q/2Pp3B/P7/1P2BPPP/R3K2R b KQ - 0 19,"This appealed me more, but I was just losing a possible 5 points free win."
+38,Rxe8,h8e8,r1q1r3/pbkpbN2/np2p2p/4P2Q/2Pp3B/P7/1P2BPPP/R3K2R w KQ - 0 20,"This appealed me more, but I was just losing a possible 5 points free win."
+39,Bxe7,h4e7,r1q1r3/pbkpBN2/np2p2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R b KQ - 0 20,"This appealed me more, but I was just losing a possible 5 points free win."
+40,Rxe7,e8e7,r1q5/pbkprN2/np2p2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R w KQ - 0 21,"This appealed me more, but I was just losing a possible 5 points free win."
+41,Nd6,f7d6,r1q5/pbkpr3/np1Np2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R b KQ - 1 21,"This appealed me more, but I was just losing a possible 5 points free win."
+42,Qg8,c8g8,r5q1/pbkpr3/np1Np2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R w KQ - 2 22,aiming to g2.
+43,Nxb7,d6b7,r5q1/pNkpr3/np2p2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R b KQ - 0 22,"If Qxg2, Bf3."
+44,Kxb7,c7b7,r5q1/pk1pr3/np2p2p/4P2Q/2Pp4/P7/1P2BPPP/R3K2R w KQ - 0 23,"...and I am +3, with an exchange and a won engdame."
+45,Bf3+,e2f3,r5q1/pk1pr3/np2p2p/4P2Q/2Pp4/P4B2/1P3PPP/R3K2R b KQ - 1 23,"...and I am +3, with an exchange and a won engdame."
+46,Kb8,b7b8,rk4q1/p2pr3/np2p2p/4P2Q/2Pp4/P4B2/1P3PPP/R3K2R w KQ - 2 24,"...and I am +3, with an exchange and a won engdame."
+47,Bxa8,f3a8,Bk4q1/p2pr3/np2p2p/4P2Q/2Pp4/P7/1P3PPP/R3K2R b KQ - 0 24,"...and I am +3, with an exchange and a won engdame."
+48,Kxa8,b8a8,k5q1/p2pr3/np2p2p/4P2Q/2Pp4/P7/1P3PPP/R3K2R w KQ - 0 25,"...and I am +3, with an exchange and a won engdame."
+49,Qf3+,h5f3,k5q1/p2pr3/np2p2p/4P3/2Pp4/P4Q2/1P3PPP/R3K2R b KQ - 1 25,"...and I am +3, with an exchange and a won engdame."
+50,Kb8,a8b8,1k4q1/p2pr3/np2p2p/4P3/2Pp4/P4Q2/1P3PPP/R3K2R w KQ - 2 26,"...and I am +3, with an exchange and a won engdame."
+51,b4,b2b4,1k4q1/p2pr3/np2p2p/4P3/1PPp4/P4Q2/5PPP/R3K2R b KQ - 0 26,
+52,Qg5,g8g5,1k6/p2pr3/np2p2p/4P1q1/1PPp4/P4Q2/5PPP/R3K2R w KQ - 1 27,
+53,Qe4,f3e4,1k6/p2pr3/np2p2p/4P1q1/1PPpQ3/P7/5PPP/R3K2R b KQ - 2 27,

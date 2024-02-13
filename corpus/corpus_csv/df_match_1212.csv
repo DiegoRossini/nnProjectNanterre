@@ -1,0 +1,84 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Old Benoni Defense.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Old Benoni Defense.
+3,e3,e2e3,rnbqkbnr/pp1ppppp/8/2p5/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Here I'm slightly partial to BxN, which doubles white's pawns."
+4,Qa5+,d8a5,rnb1kbnr/pp1ppppp/8/q1p5/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3,"Here I'm slightly partial to BxN, which doubles white's pawns."
+5,Qd2,d1d2,rnb1kbnr/pp1ppppp/8/q1p5/3P4/4P3/PPPQ1PPP/RNB1KBNR b KQkq - 2 3,"Here I'm slightly partial to BxN, which doubles white's pawns."
+6,Qb6,a5b6,rnb1kbnr/pp1ppppp/1q6/2p5/3P4/4P3/PPPQ1PPP/RNB1KBNR w KQkq - 3 4,"Here I'm slightly partial to BxN, which doubles white's pawns."
+7,Nf3,g1f3,rnb1kbnr/pp1ppppp/1q6/2p5/3P4/4PN2/PPPQ1PPP/RNB1KB1R b KQkq - 4 4,"Here I'm slightly partial to BxN, which doubles white's pawns."
+8,d6,d7d6,rnb1kbnr/pp2pppp/1q1p4/2p5/3P4/4PN2/PPPQ1PPP/RNB1KB1R w KQkq - 0 5,"Here I'm slightly partial to BxN, which doubles white's pawns."
+9,Nc3,b1c3,rnb1kbnr/pp2pppp/1q1p4/2p5/3P4/2N1PN2/PPPQ1PPP/R1B1KB1R b KQkq - 1 5,"Here I'm slightly partial to BxN, which doubles white's pawns."
+10,Bg4,c8g4,rn2kbnr/pp2pppp/1q1p4/2p5/3P2b1/2N1PN2/PPPQ1PPP/R1B1KB1R w KQkq - 2 6,"Here I'm slightly partial to BxN, which doubles white's pawns."
+11,h3,h2h3,rn2kbnr/pp2pppp/1q1p4/2p5/3P2b1/2N1PN1P/PPPQ1PP1/R1B1KB1R b KQkq - 0 6,"Here I'm slightly partial to BxN, which doubles white's pawns."
+12,Bh5,g4h5,rn2kbnr/pp2pppp/1q1p4/2p4b/3P4/2N1PN1P/PPPQ1PP1/R1B1KB1R w KQkq - 1 7,"Here I'm slightly partial to BxN, which doubles white's pawns."
+13,g4,g2g4,rn2kbnr/pp2pppp/1q1p4/2p4b/3P2P1/2N1PN1P/PPPQ1P2/R1B1KB1R b KQkq - 0 7,"Uh, oops.  A brief review is in order.
+
+1.  Can you force mate?  (No).
+2.  Can you prevent force mate?  (None appears imminent).
+3.  Can you take a high value piece (HVP)?
+4.  [And this is critical here]  Can you prevent your opponent seizing a HVP?
+
+Something should be done to prevent NxQb6, like Qc7 or Qd8.  Qc6 is ok too, if NxPd4 then QxNa4."
+14,Bg6,h5g6,rn2kbnr/pp2pppp/1q1p2b1/2p5/3P2P1/2N1PN1P/PPPQ1P2/R1B1KB1R w KQkq - 1 8,"Uh, oops.  A brief review is in order.
+
+1.  Can you force mate?  (No).
+2.  Can you prevent force mate?  (None appears imminent).
+3.  Can you take a high value piece (HVP)?
+4.  [And this is critical here]  Can you prevent your opponent seizing a HVP?
+
+Something should be done to prevent NxQb6, like Qc7 or Qd8.  Qc6 is ok too, if NxPd4 then QxNa4."
+15,Na4,c3a4,rn2kbnr/pp2pppp/1q1p2b1/2p5/N2P2P1/4PN1P/PPPQ1P2/R1B1KB1R b KQkq - 2 8,"Uh, oops.  A brief review is in order.
+
+1.  Can you force mate?  (No).
+2.  Can you prevent force mate?  (None appears imminent).
+3.  Can you take a high value piece (HVP)?
+4.  [And this is critical here]  Can you prevent your opponent seizing a HVP?
+
+Something should be done to prevent NxQb6, like Qc7 or Qd8.  Qc6 is ok too, if NxPd4 then QxNa4."
+16,cxd4,c5d4,rn2kbnr/pp2pppp/1q1p2b1/8/N2p2P1/4PN1P/PPPQ1P2/R1B1KB1R w KQkq - 0 9,"Uh, oops.  A brief review is in order.
+
+1.  Can you force mate?  (No).
+2.  Can you prevent force mate?  (None appears imminent).
+3.  Can you take a high value piece (HVP)?
+4.  [And this is critical here]  Can you prevent your opponent seizing a HVP?
+
+Something should be done to prevent NxQb6, like Qc7 or Qd8.  Qc6 is ok too, if NxPd4 then QxNa4."
+17,Nxb6,a4b6,rn2kbnr/pp2pppp/1N1p2b1/8/3p2P1/4PN1P/PPPQ1P2/R1B1KB1R b KQkq - 0 9,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+18,dxe3,d4e3,rn2kbnr/pp2pppp/1N1p2b1/8/6P1/4pN1P/PPPQ1P2/R1B1KB1R w KQkq - 0 10,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+19,Bb5+,f1b5,rn2kbnr/pp2pppp/1N1p2b1/1B6/6P1/4pN1P/PPPQ1P2/R1B1K2R b KQkq - 1 10,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+20,Nc6,b8c6,r3kbnr/pp2pppp/1Nnp2b1/1B6/6P1/4pN1P/PPPQ1P2/R1B1K2R w KQkq - 2 11,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+21,Bxc6+,b5c6,r3kbnr/pp2pppp/1NBp2b1/8/6P1/4pN1P/PPPQ1P2/R1B1K2R b KQkq - 0 11,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+22,bxc6,b7c6,r3kbnr/p3pppp/1Npp2b1/8/6P1/4pN1P/PPPQ1P2/R1B1K2R w KQkq - 0 12,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+23,Qa5,d2a5,r3kbnr/p3pppp/1Npp2b1/Q7/6P1/4pN1P/PPP2P2/R1B1K2R b KQkq - 1 12,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+24,exf2+,e3f2,r3kbnr/p3pppp/1Npp2b1/Q7/6P1/5N1P/PPP2p2/R1B1K2R w KQkq - 0 13,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+25,Kxf2,e1f2,r3kbnr/p3pppp/1Npp2b1/Q7/6P1/5N1P/PPP2K2/R1B4R b kq - 0 13,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+26,Nf6,g8f6,r3kb1r/p3pppp/1Npp1nb1/Q7/6P1/5N1P/PPP2K2/R1B4R w kq - 1 14,"Uh, oops again.  Remember rule 4--can you prevent your opponent acquiring a HVP?  Because while PxN is right out (QxRa8+), Rd8 might stave off disaster a few more moves."
+27,Nxa8,b6a8,N3kb1r/p3pppp/2pp1nb1/Q7/6P1/5N1P/PPP2K2/R1B4R b k - 0 14,Here black needs to be working on rule 2--how to stave off imminent mate.
+28,e5,e7e5,N3kb1r/p4ppp/2pp1nb1/Q3p3/6P1/5N1P/PPP2K2/R1B4R w k - 0 15,That is a good first step.
+29,Nc7+,a8c7,4kb1r/p1N2ppp/2pp1nb1/Q3p3/6P1/5N1P/PPP2K2/R1B4R b k - 1 15,"This puts the king in the path of the bishop, preventing the remaining rook's egress.  On the other hand, Kd87 is clearly bad for discovered check (white moves the rook).  Kd7 isn't great either, but it's the only option left with a check by knight."
+30,Ke7,e8e7,5b1r/p1N1kppp/2pp1nb1/Q3p3/6P1/5N1P/PPP2K2/R1B4R w - - 2 16,"This puts the king in the path of the bishop, preventing the remaining rook's egress.  On the other hand, Kd87 is clearly bad for discovered check (white moves the rook).  Kd7 isn't great either, but it's the only option left with a check by knight."
+31,Bg5,c1g5,5b1r/p1N1kppp/2pp1nb1/Q3p1B1/6P1/5N1P/PPP2K2/R6R b - - 3 16,White would have been better off playing QxPa7 first.  The knight would then be safe from NxNd5.
+32,h6,h7h6,5b1r/p1N1kpp1/2pp1nbp/Q3p1B1/6P1/5N1P/PPP2K2/R6R w - - 0 17,White would have been better off playing QxPa7 first.  The knight would then be safe from NxNd5.
+33,Be3,g5e3,5b1r/p1N1kpp1/2pp1nbp/Q3p3/6P1/4BN1P/PPP2K2/R6R b - - 1 17,White would have been better off playing QxPa7 first.  The knight would then be safe from NxNd5.
+34,c5,c6c5,5b1r/p1N1kpp1/3p1nbp/Q1p1p3/6P1/4BN1P/PPP2K2/R6R w - - 0 18,White would have been better off playing QxPa7 first.  The knight would then be safe from NxNd5.
+35,Nd5+,c7d5,5b1r/p3kpp1/3p1nbp/Q1pNp3/6P1/4BN1P/PPP2K2/R6R b - - 1 18,White would have been better off playing QxPa7 first.  The knight would then be safe from NxNd5.
+36,Nxd5,f6d5,5b1r/p3kpp1/3p2bp/Q1pnp3/6P1/4BN1P/PPP2K2/R6R w - - 0 19,"White will be happy to trade knight for pawn.  KxPd5, QxPf7+..."
+37,Qxa7+,a5a7,5b1r/Q3kpp1/3p2bp/2pnp3/6P1/4BN1P/PPP2K2/R6R b - - 0 19,"White will be happy to trade knight for pawn.  KxPd5, QxPf7+..."
+38,Ke6,e7e6,5b1r/Q4pp1/3pk1bp/2pnp3/6P1/4BN1P/PPP2K2/R6R w - - 1 20,"White will be happy to trade knight for pawn.  KxPd5, QxPf7+..."
+39,c4,c2c4,5b1r/Q4pp1/3pk1bp/2pnp3/2P3P1/4BN1P/PP3K2/R6R b - - 0 20,"White will be happy to trade knight for pawn.  KxPd5, QxPf7+..."
+40,Bd3,g6d3,5b1r/Q4pp1/3pk2p/2pnp3/2P3P1/3bBN1P/PP3K2/R6R w - - 1 21,"White will be happy to trade knight for pawn.  KxPd5, QxPf7+..."
+41,cxd5+,c4d5,5b1r/Q4pp1/3pk2p/2pPp3/6P1/3bBN1P/PP3K2/R6R b - - 0 21,Just like that.
+42,Kxd5,e6d5,5b1r/Q4pp1/3p3p/2pkp3/6P1/3bBN1P/PP3K2/R6R w - - 0 22,Just like that.
+43,Qxf7+,a7f7,5b1r/5Qp1/3p3p/2pkp3/6P1/3bBN1P/PP3K2/R6R b - - 0 22,Just like that.
+44,Kc6,d5c6,5b1r/5Qp1/2kp3p/2p1p3/6P1/3bBN1P/PP3K2/R6R w - - 1 23,"For white Qe6 permits NxPe5, provided black does not move the king.  Down 13 I'm running low on good moves for black."
+45,b4,b2b4,5b1r/5Qp1/2kp3p/2p1p3/1P4P1/3bBN1P/P4K2/R6R b - - 0 23,"Instead of simply sacrificing a pawn white would have been better off moving Rac1 first.  Or better yet, Rhc1.  Ra could protect the a pawn for promotion.  Then Pb4 can't be taken until the king moves off the c file."
+46,cxb4,c5b4,5b1r/5Qp1/2kp3p/4p3/1p4P1/3bBN1P/P4K2/R6R w - - 0 24,
+47,Rhc1+,h1c1,5b1r/5Qp1/2kp3p/4p3/1p4P1/3bBN1P/P4K2/R1R5 b - - 1 24,
+48,Kb5,c6b5,5b1r/5Qp1/3p3p/1k2p3/1p4P1/3bBN1P/P4K2/R1R5 w - - 2 25,
+49,a4+,a2a4,5b1r/5Qp1/3p3p/1k2p3/Pp4P1/3bBN1P/5K2/R1R5 b - a3 0 25,
+50,Ka6,b5a6,5b1r/5Qp1/k2p3p/4p3/Pp4P1/3bBN1P/5K2/R1R5 w - - 1 26,
+51,Rc6+,c1c6,5b1r/5Qp1/k1Rp3p/4p3/Pp4P1/3bBN1P/5K2/R7 b - - 2 26,
+52,Ka5,a6a5,5b1r/5Qp1/2Rp3p/k3p3/Pp4P1/3bBN1P/5K2/R7 w - - 3 27,
+53,Qd5+,f7d5,5b1r/6p1/2Rp3p/k2Qp3/Pp4P1/3bBN1P/5K2/R7 b - - 4 27,
+54,Bb5,d3b5,5b1r/6p1/2Rp3p/kb1Qp3/Pp4P1/4BN1P/5K2/R7 w - - 5 28,
+55,Qxb5#,d5b5,5b1r/6p1/2Rp3p/kQ2p3/Pp4P1/4BN1P/5K2/R7 b - - 0 28,

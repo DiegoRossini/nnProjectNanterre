@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The King's pawn opening: my normal first move as white, hoping to catch opponent's out, for the Scholar's mate. I learned this move at high school: that's why I do this opening."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,"Alekhine's defence. My opponent is ahead on development, and my pawn is under attack from the knight, and one way of defending it is..."
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2,"...to bring out my queenside knight, going with the Scandinavian version. I am now level on development, and I could develop my light-square bishop or queen if I wanted/needed to..."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,"...but he brings up his queen's pawn, placing my king's pawn under attack, so now we have pawns on the light squares in the centre of the board, contested by the knights..."
+5,exd5,e4d5,rnbqkb1r/ppp1pppp/5n2/3P4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 3,...and I decide to take his pawn to initiate an exchange...
+6,Nxd5,f6d5,rnbqkb1r/ppp1pppp/8/3n4/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 4,...and he captures my pawn to get back on level terms...
+7,Nxd5,c3d5,rnbqkb1r/ppp1pppp/8/3N4/8/8/PPPP1PPP/R1BQKBNR b KQkq - 0 4,"...and we trade our knights, getting his queen out into the middle of the board..."
+8,Qxd5,d8d5,rnb1kb1r/ppp1pppp/8/3q4/8/8/PPPP1PPP/R1BQKBNR w KQkq - 0 5,"...and we trade our knights, getting his queen out into the middle of the board..."
+9,Qf3,d1f3,rnb1kb1r/ppp1pppp/8/3q4/8/5Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 5,"...and I bring mine out to contest the long light diagonal, hoping my opponent will capture my queen with his, so my remaining knight can move out..."
+10,e6,e7e6,rnb1kb1r/ppp2ppp/4p3/3q4/8/5Q2/PPPP1PPP/R1B1KBNR w KQkq - 0 6,...but I end up initiating the exchange.
+11,Qxd5,f3d5,rnb1kb1r/ppp2ppp/4p3/3Q4/8/8/PPPP1PPP/R1B1KBNR b KQkq - 0 6,...but I end up initiating the exchange.
+12,exd5,e6d5,rnb1kb1r/ppp2ppp/8/3p4/8/8/PPPP1PPP/R1B1KBNR w KQkq - 0 7,...but I end up initiating the exchange.
+13,d4,d2d4,rnb1kb1r/ppp2ppp/8/3p4/3P4/8/PPP2PPP/R1B1KBNR b KQkq - 0 7,I bring up my queen's pawn to block his pawn and to free my queenside bishop...
+14,b6,b7b6,rnb1kb1r/p1p2ppp/1p6/3p4/3P4/8/PPP2PPP/R1B1KBNR w KQkq - 0 8,...and he's hoping to fianchetto his queenside bishop...
+15,Nf3,g1f3,rnb1kb1r/p1p2ppp/1p6/3p4/3P4/5N2/PPP2PPP/R1B1KB1R b KQkq - 1 8,...so I bring up my remaining knight...
+16,Bd6,f8d6,rnb1k2r/p1p2ppp/1p1b4/3p4/3P4/5N2/PPP2PPP/R1B1KB1R w KQkq - 2 9,"...but a little surprisingly, he brings out his kingside bishop (I was expecting Bb7)..."
+17,c4,c2c4,rnb1k2r/p1p2ppp/1p1b4/3p4/2PP4/5N2/PP3PPP/R1B1KB1R b KQkq - 0 9,"...so I attack his pawn with mine, hoping to trade pawns, to get my bishop onto c4..."
+18,Be6,c8e6,rn2k2r/p1p2ppp/1p1bb3/3p4/2PP4/5N2/PP3PPP/R1B1KB1R w KQkq - 1 10,...but he brings light-square bishop on the shorter diagonal (Bb7 would have been another way to defend his pawn)...
+19,b3,b2b3,rn2k2r/p1p2ppp/1p1bb3/3p4/2PP4/1P3N2/P4PPP/R1B1KB1R b KQkq - 0 10,"...so I cover my QBP with my QNP, hoping for 10... dxc4 11. Bxc4 Bxc4 12. bxc4, where I'd have two pawns still on the 4th rank..."
+20,h6,h7h6,rn2k2r/p1p2pp1/1p1bb2p/3p4/2PP4/1P3N2/P4PPP/R1B1KB1R w KQkq - 0 11,"...but I end up initiating the exchange. This wasn't really a good trade, as I now have an isolated pawn on d4, even if it is covered by my knight, as the latter is under attack from the bishop."
+21,cxd5,c4d5,rn2k2r/p1p2pp1/1p1bb2p/3P4/3P4/1P3N2/P4PPP/R1B1KB1R b KQkq - 0 11,"...but I end up initiating the exchange. This wasn't really a good trade, as I now have an isolated pawn on d4, even if it is covered by my knight, as the latter is under attack from the bishop."
+22,Bxd5,e6d5,rn2k2r/p1p2pp1/1p1b3p/3b4/3P4/1P3N2/P4PPP/R1B1KB1R w KQkq - 0 12,"...but I end up initiating the exchange. This wasn't really a good trade, as I now have an isolated pawn on d4, even if it is covered by my knight, as the latter is under attack from the bishop."
+23,Bc4,f1c4,rn2k2r/p1p2pp1/1p1b3p/3b4/2BP4/1P3N2/P4PPP/R1B1K2R b KQkq - 1 12,"Why did I do this move? I was hoping to trade bishops, so my pawn on d4 would no longer be isolated, even if the one on a2 did, as the rook would still be behind it..."
+24,Bxf3,d5f3,rn2k2r/p1p2pp1/1p1b3p/8/2BP4/1P3b2/P4PPP/R1B1K2R w KQkq - 0 13,"...but instead, I end up with a distorted pawn structure, which is all over the place: doubled isolated pawns on f2 and f3, and an isolated pawn on d4."
+25,gxf3,g2f3,rn2k2r/p1p2pp1/1p1b3p/8/2BP4/1P3P2/P4P1P/R1B1K2R b KQkq - 0 13,"...but instead, I end up with a distorted pawn structure, which is all over the place: doubled isolated pawns on f2 and f3, and an isolated pawn on d4."
+26,O-O,e8g8,rn3rk1/p1p2pp1/1p1b3p/8/2BP4/1P3P2/P4P1P/R1B1K2R w KQ - 1 14,I attack his rook...
+27,Bd5,c4d5,rn3rk1/p1p2pp1/1p1b3p/3B4/3P4/1P3P2/P4P1P/R1B1K2R b KQ - 2 14,I attack his rook...

@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I know it is playable, but I don't like to trap my own bishop."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I know it is playable, but I don't like to trap my own bishop."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"I know it is playable, but I don't like to trap my own bishop."
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"I know it is playable, but I don't like to trap my own bishop."
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"I know it is playable, but I don't like to trap my own bishop."
+6,g6,g7g6,rnbqkbnr/pp2pp1p/2p3p1/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,"I know it is playable, but I don't like to trap my own bishop."
+7,Nc3,b1c3,rnbqkbnr/pp2pp1p/2p3p1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,"I know it is playable, but I don't like to trap my own bishop."
+8,e6,e7e6,rnbqkbnr/pp3p1p/2p1p1p1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,"I know it is playable, but I don't like to trap my own bishop."
+9,Bf4,c1f4,rnbqkbnr/pp3p1p/2p1p1p1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5,"I am not a fan of ""rules"", but black has started developing the first piece just now, against 3 well placed pieces by white..."
+10,Nf6,g8f6,rnbqkb1r/pp3p1p/2p1pnp1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 6,"I am not a fan of ""rules"", but black has started developing the first piece just now, against 3 well placed pieces by white..."
+11,e3,e2e3,rnbqkb1r/pp3p1p/2p1pnp1/3p4/2PP1B2/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 6,It is well known that dxc4 makes only an apparent waste of tempo for white.
+12,Bg7,f8g7,rnbqk2r/pp3pbp/2p1pnp1/3p4/2PP1B2/2N1PN2/PP3PPP/R2QKB1R w KQkq - 1 7,It is well known that dxc4 makes only an apparent waste of tempo for white.
+13,Bd3,f1d3,rnbqk2r/pp3pbp/2p1pnp1/3p4/2PP1B2/2NBPN2/PP3PPP/R2QK2R b KQkq - 2 7,It is well known that dxc4 makes only an apparent waste of tempo for white.
+14,O-O,e8g8,rnbq1rk1/pp3pbp/2p1pnp1/3p4/2PP1B2/2NBPN2/PP3PPP/R2QK2R w KQ - 3 8,"This ""squeezes"" black's position a lot. But white hasn't got anything concretely, yet."
+15,Ne5,f3e5,rnbq1rk1/pp3pbp/2p1pnp1/3pN3/2PP1B2/2NBP3/PP3PPP/R2QK2R b KQ - 4 8,"This ""squeezes"" black's position a lot. But white hasn't got anything concretely, yet."
+16,Nbd7,b8d7,r1bq1rk1/pp1n1pbp/2p1pnp1/3pN3/2PP1B2/2NBP3/PP3PPP/R2QK2R w KQ - 5 9,"This ""squeezes"" black's position a lot. But white hasn't got anything concretely, yet."
+17,c5,c4c5,r1bq1rk1/pp1n1pbp/2p1pnp1/2PpN3/3P1B2/2NBP3/PP3PPP/R2QK2R b KQ - 0 9,"This ""squeezes"" black's position a lot. But white hasn't got anything concretely, yet."
+18,b6,b7b6,r1bq1rk1/p2n1pbp/1pp1pnp1/2PpN3/3P1B2/2NBP3/PP3PPP/R2QK2R w KQ - 0 10,"A big mistake, but black has almost no moves to play. Though, he must have taken the knight and played Nh5 in order to release the position."
+19,Nxc6,e5c6,r1bq1rk1/p2n1pbp/1pN1pnp1/2Pp4/3P1B2/2NBP3/PP3PPP/R2QK2R b KQ - 0 10,And a quality is gone for black.
+20,Qe8,d8e8,r1b1qrk1/p2n1pbp/1pN1pnp1/2Pp4/3P1B2/2NBP3/PP3PPP/R2QK2R w KQ - 1 11,And a quality is gone for black.
+21,Bd6,f4d6,r1b1qrk1/p2n1pbp/1pNBpnp1/2Pp4/3P4/2NBP3/PP3PPP/R2QK2R b KQ - 2 11,And a quality is gone for black.
+22,bxc5,b6c5,r1b1qrk1/p2n1pbp/2NBpnp1/2pp4/3P4/2NBP3/PP3PPP/R2QK2R w KQ - 0 12,"Correctly. Another choice was Ne7+, Kh8, NxB, black retakes, BxR. This way white cashes."
+23,dxc5,d4c5,r1b1qrk1/p2n1pbp/2NBpnp1/2Pp4/8/2NBP3/PP3PPP/R2QK2R b KQ - 0 12,"Correctly. Another choice was Ne7+, Kh8, NxB, black retakes, BxR. This way white cashes."
+24,Bb7,c8b7,r3qrk1/pb1n1pbp/2NBpnp1/2Pp4/8/2NBP3/PP3PPP/R2QK2R w KQ - 1 13,"Not possible now, but white has more aces in his sleeve."
+25,Bb5,d3b5,r3qrk1/pb1n1pbp/2NBpnp1/1BPp4/8/2N1P3/PP3PPP/R2QK2R b KQ - 2 13,Realizing that Ne7+ is a winning threat.
+26,a6,a7a6,r3qrk1/1b1n1pbp/p1NBpnp1/1BPp4/8/2N1P3/PP3PPP/R2QK2R w KQ - 0 14,Realizing that Ne7+ is a winning threat.
+27,Ba4,b5a4,r3qrk1/1b1n1pbp/p1NBpnp1/2Pp4/B7/2N1P3/PP3PPP/R2QK2R b KQ - 1 14,Realizing that Ne7+ is a winning threat.
+28,Bxc6,b7c6,r3qrk1/3n1pbp/p1bBpnp1/2Pp4/B7/2N1P3/PP3PPP/R2QK2R w KQ - 0 15,Realizing that Ne7+ is a winning threat.
+29,Bxc6,a4c6,r3qrk1/3n1pbp/p1BBpnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R b KQ - 0 15,"This just loses another quality. A better try for black could have been Ne4, posing threats on the black diagonal."
+30,Qc8,e8c8,r1q2rk1/3n1pbp/p1BBpnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R w KQ - 1 16,"This just loses another quality. A better try for black could have been Ne4, posing threats on the black diagonal."
+31,Bxa8,c6a8,B1q2rk1/3n1pbp/p2Bpnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R b KQ - 0 16,This proves the previous move was a waste of tempo. But it is also setting a nice tactic...
+32,Qxa8,c8a8,q4rk1/3n1pbp/p2Bpnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R w KQ - 0 17,This proves the previous move was a waste of tempo. But it is also setting a nice tactic...
+33,Bxf8,d6f8,q4Bk1/3n1pbp/p3pnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R b KQ - 0 17,"White should have castled here, even losing a pawn and freeing black's pieces."
+34,Bxf8,g7f8,q4bk1/3n1p1p/p3pnp1/2Pp4/8/2N1P3/PP3PPP/R2QK2R w KQ - 0 18,"White should have castled here, even losing a pawn and freeing black's pieces."
+35,b4,b2b4,q4bk1/3n1p1p/p3pnp1/2Pp4/1P6/2N1P3/P4PPP/R2QK2R b KQ - 0 18,"You would say white ""saw"" everyting that is about to happen, and decided he could survive the storm."
+36,d4,d5d4,q4bk1/3n1p1p/p3pnp1/2P5/1P1p4/2N1P3/P4PPP/R2QK2R w KQ - 0 19,"You would say white ""saw"" everyting that is about to happen, and decided he could survive the storm."
+37,exd4,e3d4,q4bk1/3n1p1p/p3pnp1/2P5/1P1P4/2N5/P4PPP/R2QK2R b KQ - 0 19,"You would say white ""saw"" everyting that is about to happen, and decided he could survive the storm."
+38,Qxg2,a8g2,5bk1/3n1p1p/p3pnp1/2P5/1P1P4/2N5/P4PqP/R2QK2R w KQ - 0 20,Qf1. Black cannot exchange the queens due to his material.
+39,Ke2,e1e2,5bk1/3n1p1p/p3pnp1/2P5/1P1P4/2N5/P3KPqP/R2Q3R b - - 1 20,Qf1. Black cannot exchange the queens due to his material.
+40,Ng4,f6g4,5bk1/3n1p1p/p3p1p1/2P5/1P1P2n1/2N5/P3KPqP/R2Q3R w - - 2 21,Qf1. Black cannot exchange the queens due to his material.
+41,Rf1,h1f1,5bk1/3n1p1p/p3p1p1/2P5/1P1P2n1/2N5/P3KPqP/R2Q1R2 b - - 3 21,Qf1. Black cannot exchange the queens due to his material.
+42,Nxh2,g4h2,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/2N5/P3KPqn/R2Q1R2 w - - 0 22,"The storm get worse. If black plays Bh6, is threatening mate at once. White must play something like Qd3, but black is near to make white sweat..."
+43,Rh1,f1h1,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/2N5/P3KPqn/R2Q3R b - - 1 22,"The storm get worse. If black plays Bh6, is threatening mate at once. White must play something like Qd3, but black is near to make white sweat..."
+44,Qf3+,g2f3,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/2N2q2/P3KP1n/R2Q3R w - - 2 23,"White must look to exchange queens here, even if he doesn't like it."
+45,Kd2,e2d2,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/2N2q2/P2K1P1n/R2Q3R b - - 3 23,"White must look to exchange queens here, even if he doesn't like it."
+46,Qxf2+,f3f2,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/2N5/P2K1q1n/R2Q3R w - - 0 24,"White must look to exchange queens here, even if he doesn't like it."
+47,Ne2,c3e2,5bk1/3n1p1p/p3p1p1/2P5/1P1P4/8/P2KNq1n/R2Q3R b - - 1 24,"White must look to exchange queens here, even if he doesn't like it."
+48,Bh6+,f8h6,6k1/3n1p1p/p3p1pb/2P5/1P1P4/8/P2KNq1n/R2Q3R w - - 2 25,"Which he finally does. But he could have played the king, if it wanted to avoid the exchange."
+49,Kc3,d2c3,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K5/P3Nq1n/R2Q3R b - - 3 25,"Which he finally does. But he could have played the king, if it wanted to avoid the exchange."
+50,Qf3+,f2f3,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K2q2/P3N2n/R2Q3R w - - 4 26,"Which he finally does. But he could have played the king, if it wanted to avoid the exchange."
+51,Qd3,d1d3,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2KQ1q2/P3N2n/R6R b - - 5 26,"Which he finally does. But he could have played the king, if it wanted to avoid the exchange."
+52,Qh5,f3h5,6k1/3n1p1p/p3p1pb/2P4q/1P1P4/2KQ4/P3N2n/R6R w - - 6 27,The storm is over.
+53,Qg3,d3g3,6k1/3n1p1p/p3p1pb/2P4q/1P1P4/2K3Q1/P3N2n/R6R b - - 7 27,Or Ng3. Now it is forced.
+54,Qxe2,h5e2,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K3Q1/P3q2n/R6R w - - 0 28,Rah1 was pointless.
+55,Rxh2,h1h2,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K3Q1/P3q2R/R7 b - - 0 28,Rah1 was pointless.
+56,Qe3+,e2e3,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K1q1Q1/P6R/R7 w - - 1 29,Rah1 was pointless.
+57,Qxe3,g3e3,6k1/3n1p1p/p3p1pb/2P5/1P1P4/2K1Q3/P6R/R7 b - - 0 29,Rah1 was pointless.
+58,Bxe3,h6e3,6k1/3n1p1p/p3p1p1/2P5/1P1P4/2K1b3/P6R/R7 w - - 0 30,Rah1 was pointless.
+59,Kc4,c3c4,6k1/3n1p1p/p3p1p1/2P5/1PKP4/4b3/P6R/R7 b - - 1 30,Rah1 was pointless.

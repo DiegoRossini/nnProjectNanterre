@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A standard opening move, which occupies the centre and allows the Bf1 and Qd1 to be developed."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Caro-Kann Defence.  This move prepares the move 2...d5, which takes a part of the centre."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Taking control of the centre.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Taking a part of the centre.
+
+White now has a choice between either: 
+1.  Exchanging the pawns by exd5. 
+2.  Advancing the e4 pawn and avoiding exchanges, by e5. 
+3.  Defending the e4 pawn by a piece, by Nc3 or Nd2."
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,White decides to advance and avoid exchanges.  Note how the central pawns are now all locked up.
+6,c5,c6c5,rnbqkbnr/pp2pppp/8/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"Black is basically luring White into taking his c-pawn.  If White takes the pawn, then Black can work to attack the e5 pawn, which is because the pawn which was defending e5 is no longer on d4.  Although this seems to lose a pawn for Black, Black knows that he can easily win the c-pawn back.  For example, 4.dxc5 Qa5  and then 5...Qxc5."
+7,dxc5,d4c5,rnbqkbnr/pp2pppp/8/2PpP3/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4,"White indeed decides to take the c-pawn.  Now Black has a clear plan: to win White's c5 pawn and then pile up pressure on the e5 pawn.  This will hopefully tie White down to defending it, and then Black can decide what to do from there."
+8,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2PpP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 1 5,"Instead of going for the c5 pawn straight away, Black rightly decides to threaten the e5 pawn, because the e5 pawn is more valuable to White than the c5 pawn.  The e5 pawn is more valuable than the c5 pawn because it restricts Black's development more.  The c5 pawn doesn't stop Black from getting his Ng8 or or Bc8 out, for example.  However, the e5 pawn stops Black from playing Nf6, which is the best square for the knight."
+9,Nf3,g1f3,r1bqkbnr/pp2pppp/2n5/2PpP3/8/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 5,White logically defends his e-pawn and develops a piece.
+10,Bg4,c8g4,r2qkbnr/pp2pppp/2n5/2PpP3/6b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 3 6,"Black wants to play e6 and then take the c5 pawn with his Bf8, but he doesn't want to play e6 yet because it would lock in the Bc8 and prevent it from being developed in any active way.  Therefore, Black develops his Bc8 first.
+
+5...Bg4 pins the Nf3 to the Qd1, preventing it from moving.  If the Nf3 moves, then Black can take White's queen.  So now the knight is tied down to the f3 square, and stops it from taking back at e5 if Black plays Nxe5.
+
+Another way of explaining this is that Black's Nc6 attacks e5, but White's Nf3 defends e5.  So Black is attacking e5 once and White is defending it once.  This means that Black can't take e5.  Black needs a superior attacking force to White's defending force.  The Bg4 negates the Nf3's defence of the e5 pawn, which means that Black is attacking e5 once and White is defending it 0 times.  So Black is now threatening to take the e5 pawn."
+11,Bf4,c1f4,r2qkbnr/pp2pppp/2n5/2PpP3/5Bb1/5N2/PPP2PPP/RN1QKB1R b KQkq - 4 6,"White defends against the threat, now he has one defender compared to one attacker.  The e5 pawn is safe."
+12,e6,e7e6,r2qkbnr/pp3ppp/2n1p3/2PpP3/5Bb1/5N2/PPP2PPP/RN1QKB1R w KQkq - 0 7,"Now Black's light-squared bishop is outside of the f7-e6-d5 pawn chain.  Black is now threatening to play Bxc5, with a superior position due to his more active pieces."
+13,Bb5,f1b5,r2qkbnr/pp3ppp/2n1p3/1BPpP3/5Bb1/5N2/PPP2PPP/RN1QK2R b KQkq - 1 7,"White develops his bishop and frees his pieces defending the e5 pawn a bit, because now the Nc6 is pinned."
+14,a6,a7a6,r2qkbnr/1p3ppp/p1n1p3/1BPpP3/5Bb1/5N2/PPP2PPP/RN1QK2R w KQkq - 0 8,"Black shoos the Bb5 away.  Now White can either take the Nc6, retreat the bishop to a4 (and maintaining the pin), or retreat the bishop to d3 or e2."
+15,Bxc6+,b5c6,r2qkbnr/1p3ppp/p1B1p3/2PpP3/5Bb1/5N2/PPP2PPP/RN1QK2R b KQkq - 0 8,White decides to trade bishop for knight.
+16,bxc6,b7c6,r2qkbnr/5ppp/p1p1p3/2PpP3/5Bb1/5N2/PPP2PPP/RN1QK2R w KQkq - 0 9,Black takes back.
+17,Be3,f4e3,r2qkbnr/5ppp/p1p1p3/2PpP3/6b1/4BN2/PPP2PPP/RN1QK2R b KQkq - 1 9,"This isn't a good move, for a few reasons.
+
+Firstly, White is moving the same piece twice in the opening.  He's wasting time, when he should be taking out his Nb1 or castling.
+
+Secondly, White shouldn't try to defend the c5 pawn.  The e5 pawn is much more important."
+18,Qa5+,d8a5,r3kbnr/5ppp/p1p1p3/q1PpP3/6b1/4BN2/PPP2PPP/RN1QK2R w KQkq - 2 10,Black decides to pick up White's c5 pawn immediately.
+19,c3,c2c3,r3kbnr/5ppp/p1p1p3/q1PpP3/6b1/2P1BN2/PP3PPP/RN1QK2R b KQkq - 0 10,"Blocking the check, and preparing the move pawn to b4.
+
+Black can't actually take the c5 pawn now.  This is because, after 10...Bxc5, White can play b4, attacking both Black's queen and bishop.  Black would be forced to retreat his queen, and then White can take Black's Bc5 for free."
+20,Ne7,g8e7,r3kb1r/4nppp/p1p1p3/q1PpP3/6b1/2P1BN2/PP3PPP/RN1QK2R w KQkq - 1 11,"So instead, Black decides to continue with development.  While the Ne7 seems to be blocking the Bf8 and slowing down development, this is not an issue, because Black intends to play Nf5 next move."

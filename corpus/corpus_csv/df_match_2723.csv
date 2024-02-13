@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hi all! This is will be my very first annotated game, and it's dedicated to my team Castle Collectors. I hope you will enjoy it and maybe learn one or two things.
+
+Unrated practice game between Mistee and Alex388 
+(The idea was to play a game with no DB to discuss some chess principles)"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"In this game we have an e4 opening, which is the most traditional White's first move. It's a direct approach to the possession of the center, while it frees the white bishop and the queen.
+In the other side, black respond with a Sicilian defense, which is also the most played defense against 1. e4, and also the best-scoring against it. The main idea behind c5 move is to control d4 square and fight for center with an asymmetrical position.
+
+Develop Principles:
+- Fight for center
+- Try to develop your knights before the bishops
+- Do not move again the same piece, unless it's required
+- Take your pieces out with time gains or threatening something"
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"2. Nf3 is the main line, keeping the attack and control of the center, while Nc3 is more a ""psychological"" move where White waits Black to move (mainly Nc6 or e6), so it can discard d6 move which leads to a Nadjorf defense. Also Nc3 could be another way to start the ""Grand Prix Attack"" (1. e4 c5 2. f4 ..)"
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,"2. .. e6 correspond to a Taimanov (4. .. Nc6) or Kan (""Paulsen""; 4. .. a6) variation. 
+
+We notice that in Sicilian Defenses is very common to see lots of pawn moves instead of pieces moves. This is a contradiction to the principles, but is firmly based on the theory of the defense, which with the the space gain, tries to catch up in the development."
+5,Nf3,g1f3,rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,"With this third move, White advise she will probably fight for center with d4 move, as it has a development advantage."
+6,a6,a7a6,rnbqkbnr/1p1p1ppp/p3p3/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,"3. .. a6, responds to a Sicilian Kan. Here black could have played 3. .. d5! instead of 3. .. a6, fighting for the center from the beginning. In most Sicilian's defenses the defending player must know to many lines and theory, so I strongly recommend to new player to avoid those approaches and follow chess principles. In this case, fight for the center.
+A common line here could have been:
+1. e4 c5
+2. Nc3 e6
+3. Nf3 d5
+4. exd5 exd5
+5. d4 Nf3"
+7,Bc4,f1c4,rnbqkbnr/1p1p1ppp/p3p3/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,"Bc4, a natural move to allow the 0-0, however in this particular position it make no sense to develop the bishop to a constrained, moreover, it allows Black to gain more space in the queen side by b5 advance. Better ways to develop the white bishop in this situations could be:
+a) g3 and then Bg2 doing a fianchetto.
+b) playing 4. d4 cxd4 5. Nxd4 Nf6 (probable for black) 6. Bd3, a better diagonal for the white bishop, because it supports a future e5 advance attacking the Black's King castle on h7. 
+c) playing Be2, avoiding any exchange."
+8,b5,b7b5,rnbqkbnr/3p1ppp/p3p3/1pp5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,Notice how Black wins space in the queen side. Now White must be careful to get his bishop trapped (Bb3??).
+9,Bd3,c4d3,rnbqkbnr/3p1ppp/p3p3/1pp5/4P3/2NB1N2/PPPP1PPP/R1BQK2R b KQkq - 1 5,"Bd3?
+A very strange move. With this move White have trapped his black bishop. Also it's announcing that it's going to short castle. 
+Be2 would had been a better place."
+10,Bb7,c8b7,rn1qkbnr/1b1p1ppp/p3p3/1pp5/4P3/2NB1N2/PPPP1PPP/R1BQK2R w KQkq - 2 6,"Black refuses to play c4?!, as he knows he cant extend to much or the pawn chain would be to easily attack. Also, according to this kind of Sicilian Defense (Kan variation), it hurries to play in the big diagonal (a8-h1) with his white bishop.
+Other good option could have been d6 preparing an interesting e5, shutting down any possibilities of white to make e5 soon (resulting in developmental problems because of Bd3)."
+11,O-O,e1g1,rn1qkbnr/1b1p1ppp/p3p3/1pp5/4P3/2NB1N2/PPPP1PPP/R1BQ1RK1 b kq - 3 6,The only possibility to solve the black bishop develop. White doesn't want to waste another tempo playing Be2.
+12,d6,d7d6,rn1qkbnr/1b3ppp/p2pp3/1pp5/4P3/2NB1N2/PPPP1PPP/R1BQ1RK1 w kq - 0 7,The only possibility to solve the black bishop develop. White doesn't want to waste another tempo playing Be2.
+13,b3,b2b3,rn1qkbnr/1b3ppp/p2pp3/1pp5/4P3/1PNB1N2/P1PP1PPP/R1BQ1RK1 b kq - 0 7,The only possibility to solve the black bishop develop. White doesn't want to waste another tempo playing Be2.
+14,Ne7,g8e7,rn1qkb1r/1b2nppp/p2pp3/1pp5/4P3/1PNB1N2/P1PP1PPP/R1BQ1RK1 w kq - 1 8,"First Black mistake. Maybe confused by the strange way White is developing her pieces it tries to avoid e5 (7. .. Nf6 8. e5, solving the problem of the white bishop). 
+7. ..Nh6 (taking advantage the black bishop can't take on h6, and then jumping to a possible attack in g4)
+or better: 7. .. e5!? 8. .. Nf6"
+15,Bb2,c1b2,rn1qkb1r/1b2nppp/p2pp3/1pp5/4P3/1PNB1N2/PBPP1PPP/R2Q1RK1 b kq - 2 8,"Black is ambitious, he doesn't develop his Knight to d7-e5, he wants to have the opportunity to set a Night in d4."
+16,Ng6,e7g6,rn1qkb1r/1b3ppp/p2pp1n1/1pp5/4P3/1PNB1N2/PBPP1PPP/R2Q1RK1 w kq - 3 9,"Black is ambitious, he doesn't develop his Knight to d7-e5, he wants to have the opportunity to set a Night in d4."
+17,Qe2,d1e2,rn1qkb1r/1b3ppp/p2pp1n1/1pp5/4P3/1PNB1N2/PBPPQPPP/R4RK1 b kq - 4 9,"Black is ambitious, he doesn't develop his Knight to d7-e5, he wants to have the opportunity to set a Night in d4."
+18,Nc6,b8c6,r2qkb1r/1b3ppp/p1npp1n1/1pp5/4P3/1PNB1N2/PBPPQPPP/R4RK1 w kq - 5 10,"Black is ambitious, he doesn't develop his Knight to d7-e5, he wants to have the opportunity to set a Night in d4."
+19,Qe3,e2e3,r2qkb1r/1b3ppp/p1npp1n1/1pp5/4P3/1PNBQN2/PBPP1PPP/R4RK1 b kq - 6 10,White needs desperately more space!
+20,Be7,f8e7,r2qk2r/1b2bppp/p1npp1n1/1pp5/4P3/1PNBQN2/PBPP1PPP/R4RK1 w kq - 7 11,"Black, even with a lot of more space than white, is having some develop problems. It's very important to visualize where are heading the pieces before moving them. The Knight on c6 interrupts the bishop."
+21,Ne2,c3e2,r2qk2r/1b2bppp/p1npp1n1/1pp5/4P3/1P1BQN2/PBPPNPPP/R4RK1 b kq - 8 11,"Regroup! Good move!, White starts to reorganize her pieces in order to launch a king-side attack."
+22,O-O,e8g8,r2q1rk1/1b2bppp/p1npp1n1/1pp5/4P3/1P1BQN2/PBPPNPPP/R4RK1 w - - 9 12,"Again, black e5 could have prevented any problem with both diagonals against the king. It's a little bit risky to castle in this kind of positions, where white could easily exchange some pieces and mount a quick attack."
+23,Nf4,e2f4,r2q1rk1/1b2bppp/p1npp1n1/1pp5/4PN2/1P1BQN2/PBPP1PPP/R4RK1 b - - 10 12,"Finally! Without the Nf6 defending the king, Black admit it also has some develop problem and now tries to reorganize to take advantage of the d3 bishop."
+24,Nxf4,g6f4,r2q1rk1/1b2bppp/p1npp3/1pp5/4Pn2/1P1BQN2/PBPP1PPP/R4RK1 w - - 0 13,"Finally! Without the Nf6 defending the king, Black admit it also has some develop problem and now tries to reorganize to take advantage of the d3 bishop."
+25,Qxf4,e3f4,r2q1rk1/1b2bppp/p1npp3/1pp5/4PQ2/1P1B1N2/PBPP1PPP/R4RK1 b - - 0 13,"Finally! Without the Nf6 defending the king, Black admit it also has some develop problem and now tries to reorganize to take advantage of the d3 bishop."
+26,e5,e6e5,r2q1rk1/1b2bppp/p1np4/1pp1p3/4PQ2/1P1B1N2/PBPP1PPP/R4RK1 w - - 0 14,"Finally! Without the Nf6 defending the king, Black admit it also has some develop problem and now tries to reorganize to take advantage of the d3 bishop."
+27,Qf5,f4f5,r2q1rk1/1b2bppp/p1np4/1pp1pQ2/4P3/1P1B1N2/PBPP1PPP/R4RK1 b - - 1 14,"Black wins a tempo to improve his black bishop, now d7-h3 diagonal is more valuable."
+28,Bc8,b7c8,r1bq1rk1/4bppp/p1np4/1pp1pQ2/4P3/1P1B1N2/PBPP1PPP/R4RK1 w - - 2 15,"Black wins a tempo to improve his black bishop, now d7-h3 diagonal is more valuable."
+29,Qh5,f5h5,r1bq1rk1/4bppp/p1np4/1pp1p2Q/4P3/1P1B1N2/PBPP1PPP/R4RK1 b - - 3 15,"Having seen the weakness of d3 and c2 (Bd3 can't leave to e2 or c2 pawn is freely taken), black hurries to double the pawns."
+30,Nb4,c6b4,r1bq1rk1/4bppp/p2p4/1pp1p2Q/1n2P3/1P1B1N2/PBPP1PPP/R4RK1 w - - 4 16,"Having seen the weakness of d3 and c2 (Bd3 can't leave to e2 or c2 pawn is freely taken), black hurries to double the pawns."

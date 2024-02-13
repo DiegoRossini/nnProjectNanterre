@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My usual opening move.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,My opponent chooses to play an Indian defense.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,I probably should have studied the Gruenfeld a bit more than I did. I was quite confident that I could play this opening well enough to at least get an equal position.
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I probably should have studied the Gruenfeld a bit more than I did. I was quite confident that I could play this opening well enough to at least get an equal position.
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,I probably should have studied the Gruenfeld a bit more than I did. I was quite confident that I could play this opening well enough to at least get an equal position.
+6,d5,d7d5,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,I probably should have studied the Gruenfeld a bit more than I did. I was quite confident that I could play this opening well enough to at least get an equal position.
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,cxd5 is considered the main line. I played this because I am sure that my opponent was a lot more prepared for that response than I was.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5,This move made sense to me. I simply wanted to develop my DSB to a nice diagonal before playing e3.
+9,Bf4,c1f4,rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 5,This move made sense to me. I simply wanted to develop my DSB to a nice diagonal before playing e3.
+10,c5,c7c5,rnbqk2r/pp2ppbp/5np1/2pp4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6,Black offers a pawn in order to get some immediate pressure onto the c3 knight by moving the queen to a5 and then threatening something like Ne4.
+11,dxc5,d4c5,rnbqk2r/pp2ppbp/5np1/2Pp4/2P2B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 0 6,!? Perhaps an immediate cxd5 was best. I just wanted to make sure that my knight was protected.
+12,Qa5,d8a5,rnb1k2r/pp2ppbp/5np1/q1Pp4/2P2B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 1 7,!? Perhaps an immediate cxd5 was best. I just wanted to make sure that my knight was protected.
+13,Rc1,a1c1,rnb1k2r/pp2ppbp/5np1/q1Pp4/2P2B2/2N2N2/PP2PPPP/2RQKB1R b Kkq - 2 7,!? Perhaps an immediate cxd5 was best. I just wanted to make sure that my knight was protected.
+14,Nc6,b8c6,r1b1k2r/pp2ppbp/2n2np1/q1Pp4/2P2B2/2N2N2/PP2PPPP/2RQKB1R w Kkq - 3 8,"!? Very bold move. I thought for a while about cxd5 followed by Nb4. My intuition told me that it would be wise not to do that because it would be quite difficult for white to defend all of these queenside attacks, so I played a logical move."
+15,e3,e2e3,r1b1k2r/pp2ppbp/2n2np1/q1Pp4/2P2B2/2N1PN2/PP3PPP/2RQKB1R b Kkq - 0 8,? This only helps black do what he wants. Qb3 would have been best.
+16,Ne4,f6e4,r1b1k2r/pp2ppbp/2n3p1/q1Pp4/2P1nB2/2N1PN2/PP3PPP/2RQKB1R w Kkq - 1 9,? This only helps black do what he wants. Qb3 would have been best.
+17,Qc2,d1c2,r1b1k2r/pp2ppbp/2n3p1/q1Pp4/2P1nB2/2N1PN2/PPQ2PPP/2R1KB1R b Kkq - 2 9,? This only helps black do what he wants. Qb3 would have been best.
+18,Bf5,c8f5,r3k2r/pp2ppbp/2n3p1/q1Pp1b2/2P1nB2/2N1PN2/PPQ2PPP/2R1KB1R w Kkq - 3 10,As now I have to go there anyways.
+19,Bd3,f1d3,r3k2r/pp2ppbp/2n3p1/q1Pp1b2/2P1nB2/2NBPN2/PPQ2PPP/2R1K2R b Kkq - 4 10,"??
+Wow! I failed to do a blunder check. This loses quickly to Nb4."
+20,Nb4,c6b4,r3k2r/pp2ppbp/6p1/q1Pp1b2/1nP1nB2/2NBPN2/PPQ2PPP/2R1K2R w Kkq - 5 11,Ouch.
+21,Qe2,c2e2,r3k2r/pp2ppbp/6p1/q1Pp1b2/1nP1nB2/2NBPN2/PP2QPPP/2R1K2R b Kkq - 6 11,Opens up a discovered attack on the bishop.
+22,Nxc3,e4c3,r3k2r/pp2ppbp/6p1/q1Pp1b2/1nP2B2/2nBPN2/PP2QPPP/2R1K2R w Kkq - 0 12,Opens up a discovered attack on the bishop.
+23,Rxc3,c1c3,r3k2r/pp2ppbp/6p1/q1Pp1b2/1nP2B2/2RBPN2/PP2QPPP/4K2R b Kkq - 0 12,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+24,Bxc3+,g7c3,r3k2r/pp2pp1p/6p1/q1Pp1b2/1nP2B2/2bBPN2/PP2QPPP/4K2R w Kkq - 0 13,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+25,bxc3,b2c3,r3k2r/pp2pp1p/6p1/q1Pp1b2/1nP2B2/2PBPN2/P3QPPP/4K2R b Kkq - 0 13,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+26,Nxd3+,b4d3,r3k2r/pp2pp1p/6p1/q1Pp1b2/2P2B2/2PnPN2/P3QPPP/4K2R w Kkq - 0 14,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+27,Kf1,e1f1,r3k2r/pp2pp1p/6p1/q1Pp1b2/2P2B2/2PnPN2/P3QPPP/5K1R b kq - 1 14,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+28,Nxf4,d3f4,r3k2r/pp2pp1p/6p1/q1Pp1b2/2P2n2/2P1PN2/P3QPPP/5K1R w kq - 0 15,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+29,exf4,e3f4,r3k2r/pp2pp1p/6p1/q1Pp1b2/2P2P2/2P2N2/P3QPPP/5K1R b kq - 0 15,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+30,Qxc3,a5c3,r3k2r/pp2pp1p/6p1/2Pp1b2/2P2P2/2q2N2/P3QPPP/5K1R w kq - 0 16,And now after some exchanges I am down a whole rook. I was almost planning on resigning but I decided to see if I could finish it out.
+31,Kg1,f1g1,r3k2r/pp2pp1p/6p1/2Pp1b2/2P2P2/2q2N2/P3QPPP/6KR b kq - 1 16,Preventing the bishop from pinning the queen to the king.
+32,d4,d5d4,r3k2r/pp2pp1p/6p1/2P2b2/2Pp1P2/2q2N2/P3QPPP/6KR w kq - 0 17,Now he thought that he was winning easily and began to play quite carelessly.
+33,Qe5,e2e5,r3k2r/pp2pp1p/6p1/2P1Qb2/2Pp1P2/2q2N2/P4PPP/6KR b kq - 1 17,This move was played with high hopes that black would castle king side. It would turn out to benefit me because I must strike hard and fast to have a chance.
+34,O-O,e8g8,r4rk1/pp2pp1p/6p1/2P1Qb2/2Pp1P2/2q2N2/P4PPP/6KR w - - 2 18,And black does just that.
+35,h4,h2h4,r4rk1/pp2pp1p/6p1/2P1Qb2/2Pp1P1P/2q2N2/P4PP1/6KR b - - 0 18,Pushing my pawn in hopes of ripping open the h file for my rook.
+36,Qxc4,c3c4,r4rk1/pp2pp1p/6p1/2P1Qb2/2qp1P1P/5N2/P4PP1/6KR w - - 0 19,"Black allows me to do this, but he is still winning right? There are not many pieces that can stop him from promoting that pawn."
+37,h5,h4h5,r4rk1/pp2pp1p/6p1/2P1Qb1P/2qp1P2/5N2/P4PP1/6KR b - - 0 19,"Black allows me to do this, but he is still winning right? There are not many pieces that can stop him from promoting that pawn."
+38,d3,d4d3,r4rk1/pp2pp1p/6p1/2P1Qb1P/2q2P2/3p1N2/P4PP1/6KR w - - 0 20,"Black allows me to do this, but he is still winning right? There are not many pieces that can stop him from promoting that pawn."

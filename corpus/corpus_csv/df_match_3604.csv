@@ -1,0 +1,83 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+9,e3,e2e3,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+10,Nbd7,b8d7,r1bqk2r/pppnbppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQkq - 1 6,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+11,Nf3,g1f3,r1bqk2r/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 2 6,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+12,O-O,e8g8,r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 3 7,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+13,Bd3,f1d3,r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2NBPN2/PP3PPP/R2QK2R b KQ - 4 7,"Cxd5 is a bit better, I think, because Dxc4 will force bishop to move again: loss of tempo for white."
+14,h6,h7h6,r1bq1rk1/pppnbpp1/4pn1p/3p2B1/2PP4/2NBPN2/PP3PPP/R2QK2R w KQ - 0 8,Stops possibility of a back-rank checkmate.
+15,Bh4,g5h4,r1bq1rk1/pppnbpp1/4pn1p/3p4/2PP3B/2NBPN2/PP3PPP/R2QK2R b KQ - 1 8,"g5 is unwise, it opens up and weakens my kingside"
+16,dxc4,d5c4,r1bq1rk1/pppnbpp1/4pn1p/8/2pP3B/2NBPN2/PP3PPP/R2QK2R w KQ - 0 9,"g5 is unwise, it opens up and weakens my kingside"
+17,Bxc4,d3c4,r1bq1rk1/pppnbpp1/4pn1p/8/2BP3B/2N1PN2/PP3PPP/R2QK2R b KQ - 0 9,Going for b5 and Bb7
+18,a6,a7a6,r1bq1rk1/1ppnbpp1/p3pn1p/8/2BP3B/2N1PN2/PP3PPP/R2QK2R w KQ - 0 10,Going for b5 and Bb7
+19,a4,a2a4,r1bq1rk1/1ppnbpp1/p3pn1p/8/P1BP3B/2N1PN2/1P3PPP/R2QK2R b KQ - 0 10,"Stops it, but, no matter"
+20,b6,b7b6,r1bq1rk1/2pnbpp1/pp2pn1p/8/P1BP3B/2N1PN2/1P3PPP/R2QK2R w KQ - 0 11,Advance pawns to attack the queenside.
+21,O-O,e1g1,r1bq1rk1/2pnbpp1/pp2pn1p/8/P1BP3B/2N1PN2/1P3PPP/R2Q1RK1 b - - 1 11,Advance pawns to attack the queenside.
+22,Bb7,c8b7,r2q1rk1/1bpnbpp1/pp2pn1p/8/P1BP3B/2N1PN2/1P3PPP/R2Q1RK1 w - - 2 12,Advance pawns to attack the queenside.
+23,Re1,f1e1,r2q1rk1/1bpnbpp1/pp2pn1p/8/P1BP3B/2N1PN2/1P3PPP/R2QR1K1 b - - 3 12,Advance pawns to attack the queenside.
+24,c5,c7c5,r2q1rk1/1b1nbpp1/pp2pn1p/2p5/P1BP3B/2N1PN2/1P3PPP/R2QR1K1 w - - 0 13,Advance pawns to attack the queenside.
+25,Qc2,d1c2,r2q1rk1/1b1nbpp1/pp2pn1p/2p5/P1BP3B/2N1PN2/1PQ2PPP/R3R1K1 b - - 1 13,Threatens cxd4
+26,Rc8,a8c8,2rq1rk1/1b1nbpp1/pp2pn1p/2p5/P1BP3B/2N1PN2/1PQ2PPP/R3R1K1 w - - 2 14,Threatens cxd4
+27,Qe2,c2e2,2rq1rk1/1b1nbpp1/pp2pn1p/2p5/P1BP3B/2N1PN2/1P2QPPP/R3R1K1 b - - 3 14,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+28,Bxf3,b7f3,2rq1rk1/3nbpp1/pp2pn1p/2p5/P1BP3B/2N1Pb2/1P2QPPP/R3R1K1 w - - 0 15,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+29,Qxf3,e2f3,2rq1rk1/3nbpp1/pp2pn1p/2p5/P1BP3B/2N1PQ2/1P3PPP/R3R1K1 b - - 0 15,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+30,cxd4,c5d4,2rq1rk1/3nbpp1/pp2pn1p/8/P1Bp3B/2N1PQ2/1P3PPP/R3R1K1 w - - 0 16,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+31,Bxa6,c4a6,2rq1rk1/3nbpp1/Bp2pn1p/8/P2p3B/2N1PQ2/1P3PPP/R3R1K1 b - - 0 16,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+32,dxc3,d4c3,2rq1rk1/3nbpp1/Bp2pn1p/8/P6B/2p1PQ2/1P3PPP/R3R1K1 w - - 0 17,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+33,Bxc8,a6c8,2Bq1rk1/3nbpp1/1p2pn1p/8/P6B/2p1PQ2/1P3PPP/R3R1K1 b - - 0 17,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+34,cxb2,c3b2,2Bq1rk1/3nbpp1/1p2pn1p/8/P6B/4PQ2/1p3PPP/R3R1K1 w - - 0 18,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+35,Ra2,a1a2,2Bq1rk1/3nbpp1/1p2pn1p/8/P6B/4PQ2/Rp3PPP/4R1K1 b - - 1 18,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+36,Qxc8,d8c8,2q2rk1/3nbpp1/1p2pn1p/8/P6B/4PQ2/Rp3PPP/4R1K1 w - - 0 19,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+37,Rxb2,a2b2,2q2rk1/3nbpp1/1p2pn1p/8/P6B/4PQ2/1R3PPP/4R1K1 b - - 0 19,"all the trades seem good
+A knight, a bishop, and 2 pawns, for a rook and 1 pawn"
+38,Qc4,c8c4,5rk1/3nbpp1/1p2pn1p/8/P1q4B/4PQ2/1R3PPP/4R1K1 w - - 1 20,"Wrong
+Bg3 is best"
+39,Qf4,f3f4,5rk1/3nbpp1/1p2pn1p/8/P1q2Q1B/4P3/1R3PPP/4R1K1 b - - 2 20,"Wrong
+Bg3 is best"
+40,Qc3,c4c3,5rk1/3nbpp1/1p2pn1p/8/P4Q1B/2q1P3/1R3PPP/4R1K1 w - - 3 21,forks rooks (both unprotected) and renews threat of g5
+41,Reb1,e1b1,5rk1/3nbpp1/1p2pn1p/8/P4Q1B/2q1P3/1R3PPP/1R4K1 b - - 4 21,threatening Qc1+ Rxc1 Rxc1#
+42,g5,g7g5,5rk1/3nbp2/1p2pn1p/6p1/P4Q1B/2q1P3/1R3PPP/1R4K1 w - - 0 22,threatening Qc1+ Rxc1 Rxc1#
+43,Bxg5,h4g5,5rk1/3nbp2/1p2pn1p/6B1/P4Q2/2q1P3/1R3PPP/1R4K1 b - - 0 22,threatening Qc1+ Rxc1 Rxc1#
+44,Rc8,f8c8,2r3k1/3nbp2/1p2pn1p/6B1/P4Q2/2q1P3/1R3PPP/1R4K1 w - - 1 23,threatening Qc1+ Rxc1 Rxc1#
+45,h4,h2h4,2r3k1/3nbp2/1p2pn1p/6B1/P4Q1P/2q1P3/1R3PP1/1R4K1 b - - 0 23,uncovers bishop with gain of tempo
+46,Nd5,f6d5,2r3k1/3nbp2/1p2p2p/3n2B1/P4Q1P/2q1P3/1R3PP1/1R4K1 w - - 1 24,uncovers bishop with gain of tempo
+47,Qg4,f4g4,2r3k1/3nbp2/1p2p2p/3n2B1/P5QP/2q1P3/1R3PP1/1R4K1 b - - 2 24,uncovers queen to attack rook at b2
+48,hxg5,h6g5,2r3k1/3nbp2/1p2p3/3n2p1/P5QP/2q1P3/1R3PP1/1R4K1 w - - 0 25,uncovers queen to attack rook at b2
+49,hxg5,h4g5,2r3k1/3nbp2/1p2p3/3n2P1/P5Q1/2q1P3/1R3PP1/1R4K1 b - - 0 25,uncovers queen to attack rook at b2
+50,Qg7,c3g7,2r3k1/3nbpq1/1p2p3/3n2P1/P5Q1/4P3/1R3PP1/1R4K1 w - - 1 26,uncovers queen to attack rook at b2
+51,e4,e3e4,2r3k1/3nbpq1/1p2p3/3n2P1/P3P1Q1/8/1R3PP1/1R4K1 b - - 0 26,uncovers queen to attack rook at b2
+52,Nc3,d5c3,2r3k1/3nbpq1/1p2p3/6P1/P3P1Q1/2n5/1R3PP1/1R4K1 w - - 1 27,uncovers queen to attack rook at b2
+53,Re1,b1e1,2r3k1/3nbpq1/1p2p3/6P1/P3P1Q1/2n5/1R3PP1/4R1K1 b - - 2 27,uncovers queen to attack rook at b2
+54,Nxe4,c3e4,2r3k1/3nbpq1/1p2p3/6P1/P3n1Q1/8/1R3PP1/4R1K1 w - - 0 28,uncovers queen to attack rook at b2
+55,Rb5,b2b5,2r3k1/3nbpq1/1p2p3/1R4P1/P3n1Q1/8/5PP1/4R1K1 b - - 1 28,"protects knight, attacks queen"
+56,f5,f7f5,2r3k1/3nb1q1/1p2p3/1R3pP1/P3n1Q1/8/5PP1/4R1K1 w - f6 0 29,"protects knight, attacks queen"
+57,Qd1,g4d1,2r3k1/3nb1q1/1p2p3/1R3pP1/P3n3/8/5PP1/3QR1K1 b - - 1 29,attacks knight
+58,Bxg5,e7g5,2r3k1/3n2q1/1p2p3/1R3pb1/P3n3/8/5PP1/3QR1K1 w - - 0 30,uncovers queen to protect knight
+59,Qb3,d1b3,2r3k1/3n2q1/1p2p3/1R3pb1/P3n3/1Q6/5PP1/4R1K1 b - - 1 30,"attacks e6 pawn.
+He is making many attacking moves that don't help him at all"
+60,Qf7,g7f7,2r3k1/3n1q2/1p2p3/1R3pb1/P3n3/1Q6/5PP1/4R1K1 w - - 2 31,"forks the rooks
+He's finally had enough. 
+0-1"
+61,Rd1,e1d1,2r3k1/3n1q2/1p2p3/1R3pb1/P3n3/1Q6/5PP1/3R2K1 b - - 3 31,"forks the rooks
+He's finally had enough. 
+0-1"
+62,Nc3,e4c3,2r3k1/3n1q2/1p2p3/1R3pb1/P7/1Qn5/5PP1/3R2K1 w - - 4 32,"forks the rooks
+He's finally had enough. 
+0-1"

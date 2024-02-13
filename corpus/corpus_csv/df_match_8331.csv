@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f3,f2f3,rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"Black's strategy is to develop first, then attack."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"Black's strategy is to develop first, then attack."
+3,Kf2,e1f2,rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2,"Black's strategy is to develop first, then attack."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/8/5P2/PPPPPKPP/RNBQ1BNR w kq - 0 3,"Black's strategy is to develop first, then attack."
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/3pp3/8/4PP2/PPPP1KPP/RNBQ1BNR b kq - 0 3,"Black's strategy is to develop first, then attack."
+6,f5,f7f5,rnbqkbnr/ppp3pp/8/3ppp2/8/4PP2/PPPP1KPP/RNBQ1BNR w kq - 0 4,"Black's strategy is to develop first, then attack."
+7,g3,g2g3,rnbqkbnr/ppp3pp/8/3ppp2/8/4PPP1/PPPP1K1P/RNBQ1BNR b kq - 0 4,"Black's strategy is to develop first, then attack."
+8,Nf6,g8f6,rnbqkb1r/ppp3pp/5n2/3ppp2/8/4PPP1/PPPP1K1P/RNBQ1BNR w kq - 1 5,"Black's strategy is to develop first, then attack."
+9,d4,d2d4,rnbqkb1r/ppp3pp/5n2/3ppp2/3P4/4PPP1/PPP2K1P/RNBQ1BNR b kq - 0 5,? Better to maintain the central blockade
+10,Nbd7,b8d7,r1bqkb1r/pppn2pp/5n2/3ppp2/3P4/4PPP1/PPP2K1P/RNBQ1BNR w kq - 1 6,? Better to maintain the central blockade
+11,dxe5,d4e5,r1bqkb1r/pppn2pp/5n2/3pPp2/8/4PPP1/PPP2K1P/RNBQ1BNR b kq - 0 6,? Better to maintain the central blockade
+12,Nxe5,d7e5,r1bqkb1r/ppp3pp/5n2/3pnp2/8/4PPP1/PPP2K1P/RNBQ1BNR w kq - 0 7,? White is too far behind in development for these kinds of moves.
+13,Qd4,d1d4,r1bqkb1r/ppp3pp/5n2/3pnp2/3Q4/4PPP1/PPP2K1P/RNB2BNR b kq - 1 7,? White is too far behind in development for these kinds of moves.
+14,Bd6,f8d6,r1bqk2r/ppp3pp/3b1n2/3pnp2/3Q4/4PPP1/PPP2K1P/RNB2BNR w kq - 2 8,? White is too far behind in development for these kinds of moves.
+15,b4,b2b4,r1bqk2r/ppp3pp/3b1n2/3pnp2/1P1Q4/4PPP1/P1P2K1P/RNB2BNR b kq - 0 8,? White is too far behind in development for these kinds of moves.
+16,O-O,e8g8,r1bq1rk1/ppp3pp/3b1n2/3pnp2/1P1Q4/4PPP1/P1P2K1P/RNB2BNR w - - 1 9,? White is too far behind in development for these kinds of moves.
+17,h3,h2h3,r1bq1rk1/ppp3pp/3b1n2/3pnp2/1P1Q4/4PPPP/P1P2K2/RNB2BNR b - - 0 9,? White is too far behind in development for these kinds of moves.
+18,Qe7,d8e7,r1b2rk1/ppp1q1pp/3b1n2/3pnp2/1P1Q4/4PPPP/P1P2K2/RNB2BNR w - - 1 10,Start of a plan to exploit White's weaknesses.
+19,a3,a2a3,r1b2rk1/ppp1q1pp/3b1n2/3pnp2/1P1Q4/P3PPPP/2P2K2/RNB2BNR b - - 0 10,?? The Queen must retreat along the a1-h8 diagonal. Now...
+20,Nc6,e5c6,r1b2rk1/ppp1q1pp/2nb1n2/3p1p2/1P1Q4/P3PPPP/2P2K2/RNB2BNR w - - 1 11,?? The Queen must retreat along the a1-h8 diagonal. Now...
+21,Qd1,d4d1,r1b2rk1/ppp1q1pp/2nb1n2/3p1p2/1P6/P3PPPP/2P2K2/RNBQ1BNR b - - 2 11,?? The Queen must retreat along the a1-h8 diagonal. Now...
+22,Qe5,e7e5,r1b2rk1/ppp3pp/2nb1n2/3pqp2/1P6/P3PPPP/2P2K2/RNBQ1BNR w - - 3 12,Threatens the rook g3.
+23,c3,c2c3,r1b2rk1/ppp3pp/2nb1n2/3pqp2/1P6/P1P1PPPP/5K2/RNBQ1BNR b - - 0 12,White is trying hard to regroup and find counterplay.
+24,Qxg3+,e5g3,r1b2rk1/ppp3pp/2nb1n2/3p1p2/1P6/P1P1PPqP/5K2/RNBQ1BNR w - - 0 13,White is trying hard to regroup and find counterplay.
+25,Ke2,f2e2,r1b2rk1/ppp3pp/2nb1n2/3p1p2/1P6/P1P1PPqP/4K3/RNBQ1BNR b - - 1 13,White is trying hard to regroup and find counterplay.
+26,Re8,f8e8,r1b1r1k1/ppp3pp/2nb1n2/3p1p2/1P6/P1P1PPqP/4K3/RNBQ1BNR w - - 2 14,White is trying hard to regroup and find counterplay.
+27,Qe1,d1e1,r1b1r1k1/ppp3pp/2nb1n2/3p1p2/1P6/P1P1PPqP/4K3/RNB1QBNR b - - 3 14,White is trying hard to regroup and find counterplay.
+28,Qe5,g3e5,r1b1r1k1/ppp3pp/2nb1n2/3pqp2/1P6/P1P1PP1P/4K3/RNB1QBNR w - - 4 15,White is trying hard to regroup and find counterplay.
+29,Kd3,e2d3,r1b1r1k1/ppp3pp/2nb1n2/3pqp2/1P6/P1PKPP1P/8/RNB1QBNR b - - 5 15,White is trying hard to regroup and find counterplay.
+30,f4,f5f4,r1b1r1k1/ppp3pp/2nb1n2/3pq3/1P3p2/P1PKPP1P/8/RNB1QBNR w - - 0 16,White is trying hard to regroup and find counterplay.
+31,Kc2,d3c2,r1b1r1k1/ppp3pp/2nb1n2/3pq3/1P3p2/P1P1PP1P/2K5/RNB1QBNR b - - 1 16,White is trying hard to regroup and find counterplay.
+32,fxe3,f4e3,r1b1r1k1/ppp3pp/2nb1n2/3pq3/1P6/P1P1pP1P/2K5/RNB1QBNR w - - 0 17,White is trying hard to regroup and find counterplay.
+33,Bd3,f1d3,r1b1r1k1/ppp3pp/2nb1n2/3pq3/1P6/P1PBpP1P/2K5/RNB1Q1NR b - - 1 17,White is trying hard to regroup and find counterplay.
+34,Nh5,f6h5,r1b1r1k1/ppp3pp/2nb4/3pq2n/1P6/P1PBpP1P/2K5/RNB1Q1NR w - - 2 18,? Hopes for counterplay along the g file. But...
+35,Ne2,g1e2,r1b1r1k1/ppp3pp/2nb4/3pq2n/1P6/P1PBpP1P/2K1N3/RNB1Q2R b - - 3 18,? Hopes for counterplay along the g file. But...
+36,Nf4,h5f4,r1b1r1k1/ppp3pp/2nb4/3pq3/1P3n2/P1PBpP1P/2K1N3/RNB1Q2R w - - 4 19,? Hopes for counterplay along the g file. But...
+37,Qg3,e1g3,r1b1r1k1/ppp3pp/2nb4/3pq3/1P3n2/P1PBpPQP/2K1N3/RNB4R b - - 5 19,? Hopes for counterplay along the g file. But...
+38,Nxd3,f4d3,r1b1r1k1/ppp3pp/2nb4/3pq3/1P6/P1PnpPQP/2K1N3/RNB4R w - - 0 20,Black has gained a full piece.
+39,Qxe5,g3e5,r1b1r1k1/ppp3pp/2nb4/3pQ3/1P6/P1PnpP1P/2K1N3/RNB4R b - - 0 20,Black has gained a full piece.
+40,Ndxe5,d3e5,r1b1r1k1/ppp3pp/2nb4/3pn3/1P6/P1P1pP1P/2K1N3/RNB4R w - - 0 21,Black has gained a full piece.
+41,Nf4,e2f4,r1b1r1k1/ppp3pp/2nb4/3pn3/1P3N2/P1P1pP1P/2K5/RNB4R b - - 1 21,"The pawn will queen, forcing White to lose yet another piece. White resigns."
+42,Nxf3,e5f3,r1b1r1k1/ppp3pp/2nb4/3p4/1P3N2/P1P1pn1P/2K5/RNB4R w - - 0 22,"The pawn will queen, forcing White to lose yet another piece. White resigns."
+43,Nxd5,f4d5,r1b1r1k1/ppp3pp/2nb4/3N4/1P6/P1P1pn1P/2K5/RNB4R b - - 0 22,"The pawn will queen, forcing White to lose yet another piece. White resigns."
+44,e2,e3e2,r1b1r1k1/ppp3pp/2nb4/3N4/1P6/P1P2n1P/2K1p3/RNB4R w - - 0 23,"The pawn will queen, forcing White to lose yet another piece. White resigns."

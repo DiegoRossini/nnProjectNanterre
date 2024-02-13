@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White strikes at the middle as early as he can. This is the most commonly played first move as White, the other popular choices being 1.d4, 1.c4 or even 1.Nf3."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black directly challenges white for possession of the center.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White develops his knight and attack Black's newly advanced pawn.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Instead of protecting his pawn, Black goes for the counterattack! This is known as the Petrov's defence, and it is quite playable."
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"However, I decline the pawn trade and protected my pawn by bringing up my other knight."
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Black does the same. This is known as the four-knight opening.
+7,Nxe5,f3e5,r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4,"!? It is generally a bad idea to trade a piece for a lesser one or a pawn unless you can get some other advantage by doing so. I wouldn't recommend this opening for low-rated players, but it can surprise your opponent. This is called the Schultze-Mueller gambit, and is also nicknamed as the ""Halloween gambit"". While it does throw some opening rules through the window across the street, White will be able to harass Black's knights with his powerful central pawns."
+8,Nxe5,c6e5,r1bqkb1r/pppp1ppp/5n2/4n3/4P3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 0 5,Black accepts the sacrifice.
+9,d4,d2d4,r1bqkb1r/pppp1ppp/5n2/4n3/3PP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,White strikes back with force!
+10,Nxe4,f6e4,r1bqkb1r/pppp1ppp/8/4n3/3Pn3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"?! Black simply decides to give back his extra knight to break White's central pawn formation. While this does reduce White's main positional advantage, it nulls Black's one: his material advantage. Better was to hold on the knight via 5...Nc6 or Ng6."
+11,Nxe4,c3e4,r1bqkb1r/pppp1ppp/8/4n3/3PN3/8/PPP2PPP/R1BQKB1R b KQkq - 0 6,White recaptures Black's e4 knight. The e5 knight is still attacked and has to retreat.
+12,Ng6,e5g6,r1bqkb1r/pppp1ppp/6n1/8/3PN3/8/PPP2PPP/R1BQKB1R w KQkq - 1 7,"In this position, we can see the consequences of Black's 5th move. White has a pawn and knight out to Black's sole knight."
+13,Bd3,f1d3,r1bqkb1r/pppp1ppp/6n1/8/3PN3/3B4/PPP2PPP/R1BQK2R b KQkq - 2 7,Development.
+14,d5,d7d5,r1bqkb1r/ppp2ppp/6n1/3p4/3PN3/3B4/PPP2PPP/R1BQK2R w KQkq - 0 8,"Good move by Black, it opens his LSB and threatens White's knight."
+15,Ng3,e4g3,r1bqkb1r/ppp2ppp/6n1/3p4/3P4/3B2N1/PPP2PPP/R1BQK2R b KQkq - 1 8,Simple retreat.
+16,Bd6,f8d6,r1bqk2r/ppp2ppp/3b2n1/3p4/3P4/3B2N1/PPP2PPP/R1BQK2R w KQkq - 2 9,"Black develops his bishop, just like white did. Please notice the similarities between both players' pieces."
+17,O-O,e1g1,r1bqk2r/ppp2ppp/3b2n1/3p4/3P4/3B2N1/PPP2PPP/R1BQ1RK1 b kq - 3 9,"White castles, threatening to put his rook onto the open e file."
+18,O-O,e8g8,r1bq1rk1/ppp2ppp/3b2n1/3p4/3P4/3B2N1/PPP2PPP/R1BQ1RK1 w - - 4 10,"Black does the same, albeit he does so to tuck his king into safety. The game retains its symmetry between both players. A downside of mirroring White's every move as Black is that whatever weaknesses your opponent have also apply to you. Black will never get a distinctive advantage over white by doing so. Whilst white will not have any distinctive advantage either, it is his turn to play, so he has the initiative."
+19,Qh5,d1h5,r1bq1rk1/ppp2ppp/3b2n1/3p3Q/3P4/3B2N1/PPP2PPP/R1B2RK1 b - - 5 10,"! White aggressively places his queen to a dangerous square on the kingside, pinning the knight to the h7 square and attacking the d pawn. Black cannot replicate this move without losing a piece. 10...Qh4?? 11.Bxg6! Bxg3 12.hxg3! 12...Qxh5 13.Bxh5 and white is up a bishop."
+20,Qf6,d8f6,r1b2rk1/ppp2ppp/3b1qn1/3p3Q/3P4/3B2N1/PPP2PPP/R1B2RK1 w - - 6 11,"Black moves his queen onto the battlefield, threatening my d pawn."

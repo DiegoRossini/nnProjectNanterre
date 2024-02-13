@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+5,c3,c2c3,rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+6,d3,d4d3,rnbqkbnr/pp1ppppp/8/8/4P3/2Pp4/PP3PPP/RNBQKBNR w KQkq - 0 4,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+7,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/8/4P3/2Pp1N2/PP3PPP/RNBQKB1R b KQkq - 1 4,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+8,d6,d7d6,rnbqkbnr/pp2pppp/3p4/8/4P3/2Pp1N2/PP3PPP/RNBQKB1R w KQkq - 0 5,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+9,Bxd3,f1d3,rnbqkbnr/pp2pppp/3p4/8/4P3/2PB1N2/PP3PPP/RNBQK2R b KQkq - 0 5,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+10,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/4P3/2PB1N2/PP3PPP/RNBQK2R w KQkq - 1 6,"Not a good position for black, I guess. white has four pieces out against 2 for black"
+11,O-O,e1g1,rnbqkb1r/pp2pppp/3p1n2/8/4P3/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 2 6,joining the rooks and aiming at the king
+12,g6,g7g6,rnbqkb1r/pp2pp1p/3p1np1/8/4P3/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 7,joining the rooks and aiming at the king
+13,Bg5,c1g5,rnbqkb1r/pp2pp1p/3p1np1/6B1/4P3/2PB1N2/PP3PPP/RN1Q1RK1 b kq - 1 7,joining the rooks and aiming at the king
+14,Bg7,f8g7,rnbqk2r/pp2ppbp/3p1np1/6B1/4P3/2PB1N2/PP3PPP/RN1Q1RK1 w kq - 2 8,joining the rooks and aiming at the king
+15,Nbd2,b1d2,rnbqk2r/pp2ppbp/3p1np1/6B1/4P3/2PB1N2/PP1N1PPP/R2Q1RK1 b kq - 3 8,joining the rooks and aiming at the king
+16,O-O,e8g8,rnbq1rk1/pp2ppbp/3p1np1/6B1/4P3/2PB1N2/PP1N1PPP/R2Q1RK1 w - - 4 9,joining the rooks and aiming at the king
+17,Qc2,d1c2,rnbq1rk1/pp2ppbp/3p1np1/6B1/4P3/2PB1N2/PPQN1PPP/R4RK1 b - - 5 9,joining the rooks and aiming at the king
+18,Nc6,b8c6,r1bq1rk1/pp2ppbp/2np1np1/6B1/4P3/2PB1N2/PPQN1PPP/R4RK1 w - - 6 10,Black develop toward the center
+19,Rfe1,f1e1,r1bq1rk1/pp2ppbp/2np1np1/6B1/4P3/2PB1N2/PPQN1PPP/R3R1K1 b - - 7 10,to occupy the semi open file
+20,a6,a7a6,r1bq1rk1/1p2ppbp/p1np1np1/6B1/4P3/2PB1N2/PPQN1PPP/R3R1K1 w - - 0 11,to occupy the semi open file
+21,Rad1,a1d1,r1bq1rk1/1p2ppbp/p1np1np1/6B1/4P3/2PB1N2/PPQN1PPP/3RR1K1 b - - 1 11,to occupy the semi open file
+22,Bg4,c8g4,r2q1rk1/1p2ppbp/p1np1np1/6B1/4P1b1/2PB1N2/PPQN1PPP/3RR1K1 w - - 2 12,Chasing the bishop
+23,h3,h2h3,r2q1rk1/1p2ppbp/p1np1np1/6B1/4P1b1/2PB1N1P/PPQN1PP1/3RR1K1 b - - 0 12,Chasing the bishop
+24,Be6,g4e6,r2q1rk1/1p2ppbp/p1npbnp1/6B1/4P3/2PB1N1P/PPQN1PP1/3RR1K1 w - - 1 13,Controlling the center
+25,Bc4,d3c4,r2q1rk1/1p2ppbp/p1npbnp1/6B1/2B1P3/2P2N1P/PPQN1PP1/3RR1K1 b - - 2 13,Controlling the center
+26,Bd7,e6d7,r2q1rk1/1p1bppbp/p1np1np1/6B1/2B1P3/2P2N1P/PPQN1PP1/3RR1K1 w - - 3 14,Developping on the queen side
+27,b4,b2b4,r2q1rk1/1p1bppbp/p1np1np1/6B1/1PB1P3/2P2N1P/P1QN1PP1/3RR1K1 b - - 0 14,Developping on the queen side
+28,Qc8,d8c8,r1q2rk1/1p1bppbp/p1np1np1/6B1/1PB1P3/2P2N1P/P1QN1PP1/3RR1K1 w - - 1 15,Danger on white kingside (if 15. ... Bxh3 ; 16. gxh3 Qxh3 - menace Ng4 or Qg4+
+29,Bf1,c4f1,r1q2rk1/1p1bppbp/p1np1np1/6B1/1P2P3/2P2N1P/P1QN1PP1/3RRBK1 b - - 2 15,To prevent black's attack on the kingside
+30,Nxb4,c6b4,r1q2rk1/1p1bppbp/p2p1np1/6B1/1n2P3/2P2N1P/P1QN1PP1/3RRBK1 w - - 0 16,I oversaw this move
+31,Qb3,c2b3,r1q2rk1/1p1bppbp/p2p1np1/6B1/1n2P3/1QP2N1P/P2N1PP1/3RRBK1 b - - 1 16,To chase the knight
+32,Nc6,b4c6,r1q2rk1/1p1bppbp/p1np1np1/6B1/4P3/1QP2N1P/P2N1PP1/3RRBK1 w - - 2 17,"Now, black has a material advantage, white's pawn structure is inferior (the a and c pawns are unsupported), white is a bit stronger in the center but black only needs one move (e5) to regain the control.White pieces are more mobile.
+White plan is to exchange the weak c pawn against black stronger d pawn but for that, white has to prevent black to control the center and/or attack on the queenside"
+33,Rdb1,d1b1,r1q2rk1/1p1bppbp/p1np1np1/6B1/4P3/1QP2N1P/P2N1PP1/1R2RBK1 b - - 3 17,Menacing b7 and occupying the semi open file b
+34,Rb8,a8b8,1rq2rk1/1p1bppbp/p1np1np1/6B1/4P3/1QP2N1P/P2N1PP1/1R2RBK1 w - - 4 18,Menacing the queen
+35,Rec1,e1c1,1rq2rk1/1p1bppbp/p1np1np1/6B1/4P3/1QP2N1P/P2N1PP1/1RR2BK1 b - - 5 18,to enable the c pawn to advance
+36,Be6,d7e6,1rq2rk1/1p2ppbp/p1npbnp1/6B1/4P3/1QP2N1P/P2N1PP1/1RR2BK1 w - - 6 19,"aiming at d6, which will be an important square in a couple of moves (see white's plan on annotation - move 16.)"
+37,Qa3,b3a3,1rq2rk1/1p2ppbp/p1npbnp1/6B1/4P3/Q1P2N1P/P2N1PP1/1RR2BK1 b - - 7 19,"aiming at d6, which will be an important square in a couple of moves (see white's plan on annotation - move 16.)"
+38,h6,h7h6,1rq2rk1/1p2ppb1/p1npbnpp/6B1/4P3/Q1P2N1P/P2N1PP1/1RR2BK1 w - - 0 20,d6 is the aim
+39,Bf4,g5f4,1rq2rk1/1p2ppb1/p1npbnpp/8/4PB2/Q1P2N1P/P2N1PP1/1RR2BK1 b - - 1 20,d6 is the aim
+40,Nd7,f6d7,1rq2rk1/1p1nppb1/p1npb1pp/8/4PB2/Q1P2N1P/P2N1PP1/1RR2BK1 w - - 2 21,To protect the DSB which will be an important piece and carrying on menacing d6
+41,Bh2,f4h2,1rq2rk1/1p1nppb1/p1npb1pp/8/4P3/Q1P2N1P/P2N1PPB/1RR2BK1 b - - 3 21,To protect the DSB which will be an important piece and carrying on menacing d6
+42,Nde5,d7e5,1rq2rk1/1p2ppb1/p1npb1pp/4n3/4P3/Q1P2N1P/P2N1PPB/1RR2BK1 w - - 4 22,"One tempo, the c pawn has to advance"
+43,c4,c3c4,1rq2rk1/1p2ppb1/p1npb1pp/4n3/2P1P3/Q4N1P/P2N1PPB/1RR2BK1 b - - 0 22,"One tempo, the c pawn has to advance"

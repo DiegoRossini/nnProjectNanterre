@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+8,d6,d7d6,r1bqkbnr/pp2pppp/2np4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,4...Nf6 forces white along a narrower path.  As played white can transpose to a bind with c4 or not.
+9,c4,c2c4,r1bqkbnr/pp2pppp/2np4/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq - 0 5,Interesting.
+10,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6,Interesting.
+11,Nc3,b1c3,r1bqkb1r/pp2pppp/2np1n2/8/2PNP3/2N5/PP3PPP/R1BQKB1R b KQkq - 2 6,Interesting.
+12,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/8/2PNP3/2N5/PP3PPP/R1BQKB1R w KQkq - 0 7,Interesting.
+13,g3,g2g3,r1bqkb1r/pp2pp1p/2np1np1/8/2PNP3/2N3P1/PP3P1P/R1BQKB1R b KQkq - 0 7,Interesting.
+14,Bg7,f8g7,r1bqk2r/pp2ppbp/2np1np1/8/2PNP3/2N3P1/PP3P1P/R1BQKB1R w KQkq - 1 8,Interesting.
+15,Bg2,f1g2,r1bqk2r/pp2ppbp/2np1np1/8/2PNP3/2N3P1/PP3PBP/R1BQK2R b KQkq - 2 8,Interesting.
+16,O-O,e8g8,r1bq1rk1/pp2ppbp/2np1np1/8/2PNP3/2N3P1/PP3PBP/R1BQK2R w KQ - 3 9,Interesting.
+17,O-O,e1g1,r1bq1rk1/pp2ppbp/2np1np1/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 b - - 4 9,Interesting.
+18,Ne5,c6e5,r1bq1rk1/pp2ppbp/3p1np1/4n3/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 w - - 5 10,Interesting.
+19,b3,b2b3,r1bq1rk1/pp2ppbp/3p1np1/4n3/2PNP3/1PN3P1/P4PBP/R1BQ1RK1 b - - 0 10,!
+20,Bg4,c8g4,r2q1rk1/pp2ppbp/3p1np1/4n3/2PNP1b1/1PN3P1/P4PBP/R1BQ1RK1 w - - 1 11,!
+21,f3,f2f3,r2q1rk1/pp2ppbp/3p1np1/4n3/2PNP1b1/1PN2PP1/P5BP/R1BQ1RK1 b - - 0 11,"If black gets a hold of d4, white will be very much worse for wear."
+22,Bd7,g4d7,r2q1rk1/pp1bppbp/3p1np1/4n3/2PNP3/1PN2PP1/P5BP/R1BQ1RK1 w - - 1 12,"If black gets a hold of d4, white will be very much worse for wear."
+23,Be3,c1e3,r2q1rk1/pp1bppbp/3p1np1/4n3/2PNP3/1PN1BPP1/P5BP/R2Q1RK1 b - - 2 12,"If black gets a hold of d4, white will be very much worse for wear."
+24,Qa5,d8a5,r4rk1/pp1bppbp/3p1np1/q3n3/2PNP3/1PN1BPP1/P5BP/R2Q1RK1 w - - 3 13,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+25,Qc2,d1c2,r4rk1/pp1bppbp/3p1np1/q3n3/2PNP3/1PN1BPP1/P1Q3BP/R4RK1 b - - 4 13,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+26,Rac8,a8c8,2r2rk1/pp1bppbp/3p1np1/q3n3/2PNP3/1PN1BPP1/P1Q3BP/R4RK1 w - - 5 14,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+27,f4,f3f4,2r2rk1/pp1bppbp/3p1np1/q3n3/2PNPP2/1PN1B1P1/P1Q3BP/R4RK1 b - - 0 14,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+28,Nc6,e5c6,2r2rk1/pp1bppbp/2np1np1/q7/2PNPP2/1PN1B1P1/P1Q3BP/R4RK1 w - - 1 15,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+29,Nf3,d4f3,2r2rk1/pp1bppbp/2np1np1/q7/2P1PP2/1PN1BNP1/P1Q3BP/R4RK1 b - - 2 15,I have to wonder if Nxc6 was better even though it exchanges white's central knight.
+30,Ng4,f6g4,2r2rk1/pp1bppbp/2np2p1/q7/2P1PPn1/1PN1BNP1/P1Q3BP/R4RK1 w - - 3 16,"Expected, but is still a good move.  Black threatens both bishop and knight when the white knight is suffering from a relative pin (as opposed to an absolute pin where the rules of the game prohibit the piece from moving away)."
+31,Bd2,e3d2,2r2rk1/pp1bppbp/2np2p1/q7/2P1PPn1/1PN2NP1/P1QB2BP/R4RK1 b - - 4 16,! Diffusing the white idea with check and delivering a rather nasty idea of his own.  Black is taking advantage of weaknesses that white has created in his position.
+32,Qc5+,a5c5,2r2rk1/pp1bppbp/2np2p1/2q5/2P1PPn1/1PN2NP1/P1QB2BP/R4RK1 w - - 5 17,! Diffusing the white idea with check and delivering a rather nasty idea of his own.  Black is taking advantage of weaknesses that white has created in his position.
+33,Kh1,g1h1,2r2rk1/pp1bppbp/2np2p1/2q5/2P1PPn1/1PN2NP1/P1QB2BP/R4R1K b - - 6 17,!
+34,Nf2+,g4f2,2r2rk1/pp1bppbp/2np2p1/2q5/2P1PP2/1PN2NP1/P1QB1nBP/R4R1K w - - 7 18,!
+35,Rxf2,f1f2,2r2rk1/pp1bppbp/2np2p1/2q5/2P1PP2/1PN2NP1/P1QB1RBP/R6K b - - 0 18,"!  White will be down two pawns, but he survives with the bishop pair for now and responds to the following idea: 18.Kg1 Nxe4+ 19.Kh1 Nxd2! 20.Qxd2 Qb4!"
+36,Qxf2,c5f2,2r2rk1/pp1bppbp/2np2p1/8/2P1PP2/1PN2NP1/P1QB1qBP/R6K w - - 0 19,"Black is compelled to move, but he is ahead."
+37,Rf1,a1f1,2r2rk1/pp1bppbp/2np2p1/8/2P1PP2/1PN2NP1/P1QB1qBP/5R1K b - - 1 19,"Black is compelled to move, but he is ahead."
+38,Qc5,f2c5,2r2rk1/pp1bppbp/2np2p1/2q5/2P1PP2/1PN2NP1/P1QB2BP/5R1K w - - 2 20,? See black's next.
+39,Nd5,c3d5,2r2rk1/pp1bppbp/2np2p1/2qN4/2P1PP2/1P3NP1/P1QB2BP/5R1K b - - 3 20,? See black's next.
+40,e6,e7e6,2r2rk1/pp1b1pbp/2npp1p1/2qN4/2P1PP2/1P3NP1/P1QB2BP/5R1K w - - 0 21,Need to evaluate 21.b4 as the played move seems seems to cost material.  21.b4! and the queen has no escape planned: 21...Nxb4 22.Bxb4 Qxc4! and black siezes the file but trades away his material advantage to save the queen.
+41,Be3,d2e3,2r2rk1/pp1b1pbp/2npp1p1/2qN4/2P1PP2/1P2BNP1/P1Q3BP/5R1K b - - 1 21,Need to evaluate 21.b4 as the played move seems seems to cost material.  21.b4! and the queen has no escape planned: 21...Nxb4 22.Bxb4 Qxc4! and black siezes the file but trades away his material advantage to save the queen.
+42,Qa3,c5a3,2r2rk1/pp1b1pbp/2npp1p1/3N4/2P1PP2/qP2BNP1/P1Q3BP/5R1K w - - 2 22,"White would very much like exchanging dark-square bishops, and that threat on his knight is irksome."
+43,Bc1,e3c1,2r2rk1/pp1b1pbp/2npp1p1/3N4/2P1PP2/qP3NP1/P1Q3BP/2B2R1K b - - 3 22,"White would very much like exchanging dark-square bishops, and that threat on his knight is irksome."
+44,Qa6,a3a6,2r2rk1/pp1b1pbp/q1npp1p1/3N4/2P1PP2/1P3NP1/P1Q3BP/2B2R1K w - - 4 23,I need to evaluate 23.Ne3.
+45,Nc3,d5c3,2r2rk1/pp1b1pbp/q1npp1p1/8/2P1PP2/1PN2NP1/P1Q3BP/2B2R1K b - - 5 23,I need to evaluate 23.Ne3.
+46,Nb4,c6b4,2r2rk1/pp1b1pbp/q2pp1p1/8/1nP1PP2/1PN2NP1/P1Q3BP/2B2R1K w - - 6 24,A good move with a dark side; It wins a pawn but it concedes the dark squares.
+47,Qd2,c2d2,2r2rk1/pp1b1pbp/q2pp1p1/8/1nP1PP2/1PN2NP1/P2Q2BP/2B2R1K b - - 7 24,A good move with a dark side; It wins a pawn but it concedes the dark squares.
+48,Bxc3,g7c3,2r2rk1/pp1b1p1p/q2pp1p1/8/1nP1PP2/1Pb2NP1/P2Q2BP/2B2R1K w - - 0 25,A good move with a dark side; It wins a pawn but it concedes the dark squares.
+49,Qxc3,d2c3,2r2rk1/pp1b1p1p/q2pp1p1/8/1nP1PP2/1PQ2NP1/P5BP/2B2R1K b - - 0 25,"Irritating, but accurate where white loses the dark squares."
+50,Nxa2,b4a2,2r2rk1/pp1b1p1p/q2pp1p1/8/2P1PP2/1PQ2NP1/n5BP/2B2R1K w - - 0 26,"Irritating, but accurate where white loses the dark squares."
+51,Qf6,c3f6,2r2rk1/pp1b1p1p/q2ppQp1/8/2P1PP2/1P3NP1/n5BP/2B2R1K b - - 1 26,But white wants to control the dark squares anyway.
+52,Nxc1,a2c1,2r2rk1/pp1b1p1p/q2ppQp1/8/2P1PP2/1P3NP1/6BP/2n2R1K w - - 0 27,"Black may believe he has removed white's teeth, but there is fight left."
+53,Rxc1,f1c1,2r2rk1/pp1b1p1p/q2ppQp1/8/2P1PP2/1P3NP1/6BP/2R4K b - - 0 27,? And a Blunder provides the way.  I was struggling through ideas on how to pivot the knight to the square I want it on when he releases control of a key square on the path.  Up until now black was winning or the game was even.  Now the game is at least even or in white's hands.
+54,d5,d6d5,2r2rk1/pp1b1p1p/q3pQp1/3p4/2P1PP2/1P3NP1/6BP/2R4K w - - 0 28,? And a Blunder provides the way.  I was struggling through ideas on how to pivot the knight to the square I want it on when he releases control of a key square on the path.  Up until now black was winning or the game was even.  Now the game is at least even or in white's hands.
+55,Ne5,f3e5,2r2rk1/pp1b1p1p/q3pQp1/3pN3/2P1PP2/1P4P1/6BP/2R4K b - - 1 28,?? Terrible.  Saves a piece at the cost of the game.  Black must defend g4.
+56,Bc6,d7c6,2r2rk1/pp3p1p/q1b1pQp1/3pN3/2P1PP2/1P4P1/6BP/2R4K w - - 2 29,?? Terrible.  Saves a piece at the cost of the game.  Black must defend g4.

@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I always thought white had the advantage at this opening because my c8 bishop is blocked by e6 pawn.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I always thought white had the advantage at this opening because my c8 bishop is blocked by e6 pawn.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,AND white has control of the center.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,guess I have to take my own share of it (center)
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"In case of exd5, my pawn would be alone with no pawn protecting it=> weak position"
+6,Bb4,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,"In case of exd5, my pawn would be alone with no pawn protecting it=> weak position"
+7,Bd2,c1d2,rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPPB1PPP/R2QKBNR b KQkq - 3 4,"prevents previous position
+uncovers queen to attack d4 pawn"
+8,dxe4,d5e4,rnbqk1nr/ppp2ppp/4p3/8/1b1Pp3/2N5/PPPB1PPP/R2QKBNR w KQkq - 0 5,"prevents previous position
+uncovers queen to attack d4 pawn"
+9,Qg4,d1g4,rnbqk1nr/ppp2ppp/4p3/8/1b1Pp1Q1/2N5/PPPB1PPP/R3KBNR b KQkq - 1 5,forks g7 and e4 pawn
+10,Nf6,g8f6,rnbqk2r/ppp2ppp/4pn2/8/1b1Pp1Q1/2N5/PPPB1PPP/R3KBNR w KQkq - 2 6,protects e4 pawn
+11,Qxg7,g4g7,rnbqk2r/ppp2pQp/4pn2/8/1b1Pp3/2N5/PPPB1PPP/R3KBNR b KQkq - 0 6,"unpleasant position for black's queen
+takes control of semi-open file"
+12,Rg8,h8g8,rnbqk1r1/ppp2pQp/4pn2/8/1b1Pp3/2N5/PPPB1PPP/R3KBNR w KQq - 1 7,"unpleasant position for black's queen
+takes control of semi-open file"
+13,Qh6,g7h6,rnbqk1r1/ppp2p1p/4pn1Q/8/1b1Pp3/2N5/PPPB1PPP/R3KBNR b KQq - 2 7,move the queen around even if bishop loses any activity in the center
+14,Nc6,b8c6,r1bqk1r1/ppp2p1p/2n1pn1Q/8/1b1Pp3/2N5/PPPB1PPP/R3KBNR w KQq - 3 8,move the queen around even if bishop loses any activity in the center
+15,O-O-O,e1c1,r1bqk1r1/ppp2p1p/2n1pn1Q/8/1b1Pp3/2N5/PPPB1PPP/2KR1BNR b q - 4 8,move the queen around even if bishop loses any activity in the center
+16,Rg6,g8g6,r1bqk3/ppp2p1p/2n1pnrQ/8/1b1Pp3/2N5/PPPB1PPP/2KR1BNR w q - 5 9,move the queen around even if bishop loses any activity in the center
+17,Qh4,h6h4,r1bqk3/ppp2p1p/2n1pnr1/8/1b1Pp2Q/2N5/PPPB1PPP/2KR1BNR b q - 6 9,move the queen around even if bishop loses any activity in the center
+18,Rg4,g6g4,r1bqk3/ppp2p1p/2n1pn2/8/1b1Pp1rQ/2N5/PPPB1PPP/2KR1BNR w q - 7 10,move the queen around even if bishop loses any activity in the center
+19,Qh6,h4h6,r1bqk3/ppp2p1p/2n1pn1Q/8/1b1Pp1r1/2N5/PPPB1PPP/2KR1BNR b q - 8 10,move the queen around even if bishop loses any activity in the center
+20,Bf8,b4f8,r1bqkb2/ppp2p1p/2n1pn1Q/8/3Pp1r1/2N5/PPPB1PPP/2KR1BNR w q - 9 11,move the queen around even if bishop loses any activity in the center
+21,Qh3,h6h3,r1bqkb2/ppp2p1p/2n1pn2/8/3Pp1r1/2N4Q/PPPB1PPP/2KR1BNR b q - 10 11,natural take pawn and move knight to a dangerous position because of its extensive grasp on its surroundings
+22,Nxd4,c6d4,r1bqkb2/ppp2p1p/4pn2/8/3np1r1/2N4Q/PPPB1PPP/2KR1BNR w q - 0 12,natural take pawn and move knight to a dangerous position because of its extensive grasp on its surroundings
+23,Nb5,c3b5,r1bqkb2/ppp2p1p/4pn2/1N6/3np1r1/7Q/PPPB1PPP/2KR1BNR b q - 1 12,"seems wrong, Be3 is better, I think (pins knight to queen with rook)"
+24,e5,e6e5,r1bqkb2/ppp2p1p/5n2/1N2p3/3np1r1/7Q/PPPB1PPP/2KR1BNR w q - 0 13,simply delays the inevitable: great gain of tempo.
+25,Qc3,h3c3,r1bqkb2/ppp2p1p/5n2/1N2p3/3np1r1/2Q5/PPPB1PPP/2KR1BNR b q - 1 13,simply delays the inevitable: great gain of tempo.
+26,c6,c7c6,r1bqkb2/pp3p1p/2p2n2/1N2p3/3np1r1/2Q5/PPPB1PPP/2KR1BNR w q - 0 14,simply delays the inevitable: great gain of tempo.
+27,h3,h2h3,r1bqkb2/pp3p1p/2p2n2/1N2p3/3np1r1/2Q4P/PPPB1PP1/2KR1BNR b q - 0 14,simply delays the inevitable: great gain of tempo.
+28,Rg6,g4g6,r1bqkb2/pp3p1p/2p2nr1/1N2p3/3np3/2Q4P/PPPB1PP1/2KR1BNR w q - 1 15,"another pawn in the center and I get a ""free"" move"
+29,Na3,b5a3,r1bqkb2/pp3p1p/2p2nr1/4p3/3np3/N1Q4P/PPPB1PP1/2KR1BNR b q - 2 15,"another pawn in the center and I get a ""free"" move"
+30,Nd5,f6d5,r1bqkb2/pp3p1p/2p3r1/3np3/3np3/N1Q4P/PPPB1PP1/2KR1BNR w q - 3 16,"another pawn in the center and I get a ""free"" move"
+31,Qa5,c3a5,r1bqkb2/pp3p1p/2p3r1/Q2np3/3np3/N6P/PPPB1PP1/2KR1BNR b q - 4 16,forced
+32,b6,b7b6,r1bqkb2/p4p1p/1pp3r1/Q2np3/3np3/N6P/PPPB1PP1/2KR1BNR w q - 0 17,forced
+33,Qa4,a5a4,r1bqkb2/p4p1p/1pp3r1/3np3/Q2np3/N6P/PPPB1PP1/2KR1BNR b q - 1 17,threatens c5
+34,Bd7,c8d7,r2qkb2/p2b1p1p/1pp3r1/3np3/Q2np3/N6P/PPPB1PP1/2KR1BNR w q - 2 18,threatens c5
+35,c4,c2c4,r2qkb2/p2b1p1p/1pp3r1/3np3/Q1Pnp3/N6P/PP1B1PP1/2KR1BNR b q - 0 18,BLUNDER
+36,c5,c6c5,r2qkb2/p2b1p1p/1p4r1/2pnp3/Q1Pnp3/N6P/PP1B1PP1/2KR1BNR w q - 0 19,queen can't run to c4 anymore because of pawn
+37,Nb5,a3b5,r2qkb2/p2b1p1p/1p4r1/1Npnp3/Q1Pnp3/7P/PP1B1PP1/2KR1BNR b q - 1 19,forced
+38,a6,a7a6,r2qkb2/3b1p1p/pp4r1/1Npnp3/Q1Pnp3/7P/PP1B1PP1/2KR1BNR w q - 0 20,"Anything black does will end up with a lost queen.
+
+0-1
+
+this opening does have its advantages"

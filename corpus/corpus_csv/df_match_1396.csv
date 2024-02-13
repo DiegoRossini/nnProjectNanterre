@@ -1,0 +1,79 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"If 2 P-Q4, 2...P-Q4 3 P-K5 B-B4 with a fairly easy development."
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,"If 2 P-Q4, 2...P-Q4 3 P-K5 B-B4 with a fairly easy development."
+3,Nc3,b1c3,r1bqkbnr/pppppppp/2n5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2,"If 2 P-Q4, 2...P-Q4 3 P-K5 B-B4 with a fairly easy development."
+4,e6,e7e6,r1bqkbnr/pppp1ppp/2n1p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Now the game has transposed into a kind of French Defense where Black has played N-QB3 instead of P-QB4.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n1p3/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Now the game has transposed into a kind of French Defense where Black has played N-QB3 instead of P-QB4.
+6,d5,d7d5,r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Now the game has transposed into a kind of French Defense where Black has played N-QB3 instead of P-QB4.
+7,e5,e4e5,r1bqkbnr/ppp2ppp/2n1p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"If  4... QN-Q2, 5 QN-Q2 P-QB4 6 P-QB3."
+8,Nge7,g8e7,r1bqkb1r/ppp1nppp/2n1p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"If  4... QN-Q2, 5 QN-Q2 P-QB4 6 P-QB3."
+9,Nf3,g1f3,r1bqkb1r/ppp1nppp/2n1p3/3pP3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,One of the advantages of the system is that Black solves the problem of the bad QB in the French Defense.
+10,b6,b7b6,r1bqkb1r/p1p1nppp/1pn1p3/3pP3/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,One of the advantages of the system is that Black solves the problem of the bad QB in the French Defense.
+11,Ne2,c3e2,r1bqkb1r/p1p1nppp/1pn1p3/3pP3/3P4/5N2/PPP1NPPP/R1BQKB1R b KQkq - 1 6,"If 6 B-K2, 6... P-QR4 followed by 7... B-R3."
+12,Ba6,c8a6,r2qkb1r/p1p1nppp/bpn1p3/3pP3/3P4/5N2/PPP1NPPP/R1BQKB1R w KQkq - 2 7,White is deprived of his best attacking piece.
+13,Ng3,e2g3,r2qkb1r/p1p1nppp/bpn1p3/3pP3/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 3 7,White is deprived of his best attacking piece.
+14,Bxf1,a6f1,r2qkb1r/p1p1nppp/1pn1p3/3pP3/3P4/5NN1/PPP2PPP/R1BQKb1R w KQkq - 0 8,White is deprived of his best attacking piece.
+15,Kxf1,e1f1,r2qkb1r/p1p1nppp/1pn1p3/3pP3/3P4/5NN1/PPP2PPP/R1BQ1K1R b kq - 0 8,White is deprived of his best attacking piece.
+16,h5,h7h5,r2qkb1r/p1p1npp1/1pn1p3/3pP2p/3P4/5NN1/PPP2PPP/R1BQ1K1R w kq - 0 9,A typical Niemzowitschian maneuver. He secures a grip on the white squares and prevents White from getting a grip on the black squares with N-R5.
+17,Bg5,c1g5,r2qkb1r/p1p1npp1/1pn1p3/3pP1Bp/3P4/5NN1/PPP2PPP/R2Q1K1R b kq - 1 9,Threatening 10 N-R4 P-N3 11 B-B6.
+18,Qc8,d8c8,r1q1kb1r/p1p1npp1/1pn1p3/3pP1Bp/3P4/5NN1/PPP2PPP/R2Q1K1R w kq - 2 10,"Avoiding 10 N-R4 Q-R3 ch 11 K-N1 Q-R5, where Black wins the Q pawn in exchange for the KR pawn."
+19,Qd3,d1d3,r1q1kb1r/p1p1npp1/1pn1p3/3pP1Bp/3P4/3Q1NN1/PPP2PPP/R4K1R b kq - 3 10,"Avoiding 10 N-R4 Q-R3 ch 11 K-N1 Q-R5, where Black wins the Q pawn in exchange for the KR pawn."
+20,Ng6,e7g6,r1q1kb1r/p1p2pp1/1pn1p1n1/3pP1Bp/3P4/3Q1NN1/PPP2PPP/R4K1R w kq - 4 11,Now White cannot enforce a hold on the black squares with either N-R4 or P-KR4.
+21,c3,c2c3,r1q1kb1r/p1p2pp1/1pn1p1n1/3pP1Bp/3P4/2PQ1NN1/PP3PPP/R4K1R b kq - 0 11,Now White cannot enforce a hold on the black squares with either N-R4 or P-KR4.
+22,h4,h5h4,r1q1kb1r/p1p2pp1/1pn1p1n1/3pP1B1/3P3p/2PQ1NN1/PP3PPP/R4K1R w kq - 0 12,Now White cannot enforce a hold on the black squares with either N-R4 or P-KR4.
+23,Ne2,g3e2,r1q1kb1r/p1p2pp1/1pn1p1n1/3pP1B1/3P3p/2PQ1N2/PP2NPPP/R4K1R b kq - 1 12,At last Black makes his effort to secure the center.
+24,Be7,f8e7,r1q1k2r/p1p1bpp1/1pn1p1n1/3pP1B1/3P3p/2PQ1N2/PP2NPPP/R4K1R w kq - 2 13,At last Black makes his effort to secure the center.
+25,h3,h2h3,r1q1k2r/p1p1bpp1/1pn1p1n1/3pP1B1/3P3p/2PQ1N1P/PP2NPP1/R4K1R b kq - 0 13,At last Black makes his effort to secure the center.
+26,Bxg5,e7g5,r1q1k2r/p1p2pp1/1pn1p1n1/3pP1b1/3P3p/2PQ1N1P/PP2NPP1/R4K1R w kq - 0 14,At last Black makes his effort to secure the center.
+27,Nxg5,f3g5,r1q1k2r/p1p2pp1/1pn1p1n1/3pP1N1/3P3p/2PQ3P/PP2NPP1/R4K1R b kq - 0 14,At last Black makes his effort to secure the center.
+28,Nce7,c6e7,r1q1k2r/p1p1npp1/1p2p1n1/3pP1N1/3P3p/2PQ3P/PP2NPP1/R4K1R w kq - 1 15,At last Black makes his effort to secure the center.
+29,Kg1,f1g1,r1q1k2r/p1p1npp1/1p2p1n1/3pP1N1/3P3p/2PQ3P/PP2NPP1/R5KR b kq - 2 15,At last Black makes his effort to secure the center.
+30,f6,f7f6,r1q1k2r/p1p1n1p1/1p2ppn1/3pP1N1/3P3p/2PQ3P/PP2NPP1/R5KR w kq - 0 16,At last Black makes his effort to secure the center.
+31,Nf3,g5f3,r1q1k2r/p1p1n1p1/1p2ppn1/3pP3/3P3p/2PQ1N1P/PP2NPP1/R5KR b kq - 1 16,Preparing ...P-QB4.
+32,Qd7,c8d7,r3k2r/p1pqn1p1/1p2ppn1/3pP3/3P3p/2PQ1N1P/PP2NPP1/R5KR w kq - 2 17,Preparing ...P-QB4.
+33,Kh2,g1h2,r3k2r/p1pqn1p1/1p2ppn1/3pP3/3P3p/2PQ1N1P/PP2NPPK/R6R b kq - 3 17,"If 18 KPxP, 18... Q-B2 ch 19 K-N1 NPxP and White's KR is shut in."
+34,c5,c7c5,r3k2r/p2qn1p1/1p2ppn1/2ppP3/3P3p/2PQ1N1P/PP2NPPK/R6R w kq - 0 18,"If 18 KPxP, 18... Q-B2 ch 19 K-N1 NPxP and White's KR is shut in."
+35,c4,c3c4,r3k2r/p2qn1p1/1p2ppn1/2ppP3/2PP3p/3Q1N1P/PP2NPPK/R6R b kq - 0 18,"If 18 KPxP, 18... Q-B2 ch 19 K-N1 NPxP and White's KR is shut in."
+36,Qc7,d7c7,r3k2r/p1q1n1p1/1p2ppn1/2ppP3/2PP3p/3Q1N1P/PP2NPPK/R6R w kq - 1 19,"If 19... PxKP?, 20 Q-N5 ch K-B1 21 N-N5 PxP dis ch 22 P-B4 NxBP 23 KR-KB1 NxQP 24 NxP ch wins for White."
+37,cxd5,c4d5,r3k2r/p1q1n1p1/1p2ppn1/2pPP3/3P3p/3Q1N1P/PP2NPPK/R6R b kq - 0 19,"If 19... PxKP?, 20 Q-N5 ch K-B1 21 N-N5 PxP dis ch 22 P-B4 NxBP 23 KR-KB1 NxQP 24 NxP ch wins for White."
+38,c4,c5c4,r3k2r/p1q1n1p1/1p2ppn1/3PP3/2pP3p/3Q1N1P/PP2NPPK/R6R w kq - 0 20,"If 19... PxKP?, 20 Q-N5 ch K-B1 21 N-N5 PxP dis ch 22 P-B4 NxBP 23 KR-KB1 NxQP 24 NxP ch wins for White."
+39,Qc2,d3c2,r3k2r/p1q1n1p1/1p2ppn1/3PP3/2pP3p/5N1P/PPQ1NPPK/R6R b kq - 1 20,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+40,exd5,e6d5,r3k2r/p1q1n1p1/1p3pn1/3pP3/2pP3p/5N1P/PPQ1NPPK/R6R w kq - 0 21,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+41,Rhe1,h1e1,r3k2r/p1q1n1p1/1p3pn1/3pP3/2pP3p/5N1P/PPQ1NPPK/R3R3 b kq - 1 21,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+42,O-O,e8g8,r4rk1/p1q1n1p1/1p3pn1/3pP3/2pP3p/5N1P/PPQ1NPPK/R3R3 w - - 2 22,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+43,Nc3,e2c3,r4rk1/p1q1n1p1/1p3pn1/3pP3/2pP3p/2N2N1P/PPQ2PPK/R3R3 b - - 3 22,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+44,fxe5,f6e5,r4rk1/p1q1n1p1/1p4n1/3pp3/2pP3p/2N2N1P/PPQ2PPK/R3R3 w - - 0 23,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+45,Nxe5,f3e5,r4rk1/p1q1n1p1/1p4n1/3pN3/2pP3p/2N4P/PPQ2PPK/R3R3 b - - 0 23,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+46,Nxe5,g6e5,r4rk1/p1q1n1p1/1p6/3pn3/2pP3p/2N4P/PPQ2PPK/R3R3 w - - 0 24,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+47,dxe5,d4e5,r4rk1/p1q1n1p1/1p6/3pP3/2p4p/2N4P/PPQ2PPK/R3R3 b - - 0 24,White could have retained drawing chances with 24 RxN! N-B3 25 NxP Q-Q3 26 QxP NxR 27 PxN QxP ch 28 P-B4 Q-K3 29 P-B5 Q-K4 ch 30 K-R2 R-B2 31 R-Q1. After the text move the passed black QP becomes a terror.
+48,d4,d5d4,r4rk1/p1q1n1p1/1p6/4P3/2pp3p/2N4P/PPQ2PPK/R3R3 w - - 0 25,"If 26... P-QN4, White holds with 27 QR-Q1 P-Q6 28 RxP RxP 29 R-Q2."
+49,Nb5,c3b5,r4rk1/p1q1n1p1/1p6/1N2P3/2pp3p/7P/PPQ2PPK/R3R3 b - - 1 25,"If 26... P-QN4, White holds with 27 QR-Q1 P-Q6 28 RxP RxP 29 R-Q2."
+50,Qc5,c7c5,r4rk1/p3n1p1/1p6/1Nq1P3/2pp3p/7P/PPQ2PPK/R3R3 w - - 2 26,"If 26... P-QN4, White holds with 27 QR-Q1 P-Q6 28 RxP RxP 29 R-Q2."
+51,Nd6,b5d6,r4rk1/p3n1p1/1p1N4/2q1P3/2pp3p/7P/PPQ2PPK/R3R3 b - - 3 26,"If 26... P-QN4, White holds with 27 QR-Q1 P-Q6 28 RxP RxP 29 R-Q2."
+52,d3,d4d3,r4rk1/p3n1p1/1p1N4/2q1P3/2p4p/3p3P/PPQ2PPK/R3R3 w - - 0 27,"If 26... P-QN4, White holds with 27 QR-Q1 P-Q6 28 RxP RxP 29 R-Q2."
+53,Qxc4+,c2c4,r4rk1/p3n1p1/1p1N4/2q1P3/2Q4p/3p3P/PP3PPK/R3R3 b - - 0 27,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+54,Qxc4,c5c4,r4rk1/p3n1p1/1p1N4/4P3/2q4p/3p3P/PP3PPK/R3R3 w - - 0 28,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+55,Nxc4,d6c4,r4rk1/p3n1p1/1p6/4P3/2N4p/3p3P/PP3PPK/R3R3 b - - 0 28,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+56,Rxf2,f8f2,r5k1/p3n1p1/1p6/4P3/2N4p/3p3P/PP3rPK/R3R3 w - - 0 29,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+57,Rad1,a1d1,r5k1/p3n1p1/1p6/4P3/2N4p/3p3P/PP3rPK/3RR3 b - - 1 29,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+58,Rc8,a8c8,2r3k1/p3n1p1/1p6/4P3/2N4p/3p3P/PP3rPK/3RR3 w - - 2 30,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+59,Ne3,c4e3,2r3k1/p3n1p1/1p6/4P3/7p/3pN2P/PP3rPK/3RR3 b - - 3 30,Not 30 N-Q6? R/1-B7 with complete control of the 7th rank.
+60,Rd8,c8d8,3r2k1/p3n1p1/1p6/4P3/7p/3pN2P/PP3rPK/3RR3 w - - 4 31,Not 32 N-Q6 NxN 33 RxP N-N2 34 RxR ch NxR 35 P-K6 NxP 36 RxN RxP with a won ending for Black.
+61,Nc4,e3c4,3r2k1/p3n1p1/1p6/4P3/2N4p/3p3P/PP3rPK/3RR3 b - - 5 31,Not 32 N-Q6 NxN 33 RxP N-N2 34 RxR ch NxR 35 P-K6 NxP 36 RxN RxP with a won ending for Black.
+62,Nf5,e7f5,3r2k1/p5p1/1p6/4Pn2/2N4p/3p3P/PP3rPK/3RR3 w - - 6 32,Not 32 N-Q6 NxN 33 RxP N-N2 34 RxR ch NxR 35 P-K6 NxP 36 RxN RxP with a won ending for Black.
+63,a4,a2a4,3r2k1/p5p1/1p6/4Pn2/P1N4p/3p3P/1P3rPK/3RR3 b - - 0 32,Not 32 N-Q6 NxN 33 RxP N-N2 34 RxR ch NxR 35 P-K6 NxP 36 RxN RxP with a won ending for Black.
+64,Kf7,g8f7,3r4/p4kp1/1p6/4Pn2/P1N4p/3p3P/1P3rPK/3RR3 w - - 1 33,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+65,Re4,e1e4,3r4/p4kp1/1p6/4Pn2/P1N1R2p/3p3P/1P3rPK/3R4 b - - 2 33,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+66,Re2,f2e2,3r4/p4kp1/1p6/4Pn2/P1N1R2p/3p3P/1P2r1PK/3R4 w - - 3 34,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+67,Rf4,e4f4,3r4/p4kp1/1p6/4Pn2/P1N2R1p/3p3P/1P2r1PK/3R4 b - - 4 34,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+68,Ke6,f7e6,3r4/p5p1/1p2k3/4Pn2/P1N2R1p/3p3P/1P2r1PK/3R4 w - - 5 35,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+69,Rg4,f4g4,3r4/p5p1/1p2k3/4Pn2/P1N3Rp/3p3P/1P2r1PK/3R4 b - - 6 35,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+70,d2,d3d2,3r4/p5p1/1p2k3/4Pn2/P1N3Rp/7P/1P1pr1PK/3R4 w - - 0 36,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+71,Rg6+,g4g6,3r4/p5p1/1p2k1R1/4Pn2/P1N4p/7P/1P1pr1PK/3R4 b - - 1 36,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+72,Kf7,e6f7,3r4/p4kp1/1p4R1/4Pn2/P1N4p/7P/1P1pr1PK/3R4 w - - 2 37,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+73,Rg4,g6g4,3r4/p4kp1/1p6/4Pn2/P1N3Rp/7P/1P1pr1PK/3R4 b - - 3 37,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+74,a6,a7a6,3r4/5kp1/pp6/4Pn2/P1N3Rp/7P/1P1pr1PK/3R4 w - - 0 38,The move that forces the Knight to give way at last by the threat of ...P-QN4. If 38 NxP Black plays ...R-K8 at once.
+75,Rf4,g4f4,3r4/5kp1/pp6/4Pn2/P1N2R1p/7P/1P1pr1PK/3R4 b - - 1 38,White resigns.
+76,Ke6,f7e6,3r4/6p1/pp2k3/4Pn2/P1N2R1p/7P/1P1pr1PK/3R4 w - - 2 39,White resigns.
+77,Nd6,c4d6,3r4/6p1/pp1Nk3/4Pn2/P4R1p/7P/1P1pr1PK/3R4 b - - 3 39,White resigns.
+78,Ne3,f5e3,3r4/6p1/pp1Nk3/4P3/P4R1p/4n2P/1P1pr1PK/3R4 w - - 4 40,White resigns.

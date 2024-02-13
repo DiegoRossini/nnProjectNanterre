@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"""Attack is the best defense"" (at least, for this particular game)."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Englund gambit
+3,dxe5,d4e5,rnbqkbnr/pppp1ppp/8/4P3/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,Black develops as quickly as possible.
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3,Black develops as quickly as possible.
+5,exf6,e5f6,rnbqkbnr/pppp2pp/5P2/8/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 3,Black develops as quickly as possible.
+6,Nxf6,g8f6,rnbqkb1r/pppp2pp/5n2/8/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 4,Black develops as quickly as possible.
+7,Nf3,g1f3,rnbqkb1r/pppp2pp/5n2/8/8/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 4,Black develops as quickly as possible.
+8,Bc5,f8c5,rnbqk2r/pppp2pp/5n2/2b5/8/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 5,Black develops as quickly as possible.
+9,e3,e2e3,rnbqk2r/pppp2pp/5n2/2b5/8/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 5,The black king is not very safe here but the rook is operational after the 5th move.
+10,O-O,e8g8,rnbq1rk1/pppp2pp/5n2/2b5/8/4PN2/PPP2PPP/RNBQKB1R w KQ - 1 6,The black king is not very safe here but the rook is operational after the 5th move.
+11,Bd3,f1d3,rnbq1rk1/pppp2pp/5n2/2b5/8/3BPN2/PPP2PPP/RNBQK2R b KQ - 2 6,Black has condemned himself to strong developement moves (because of the weakness of the king)
+12,d5,d7d5,rnbq1rk1/ppp3pp/5n2/2bp4/8/3BPN2/PPP2PPP/RNBQK2R w KQ - 0 7,Black has condemned himself to strong developement moves (because of the weakness of the king)
+13,O-O,e1g1,rnbq1rk1/ppp3pp/5n2/2bp4/8/3BPN2/PPP2PPP/RNBQ1RK1 b - - 1 7,Logicas move. Now black's plan is to settle on the center and rush to the kingside.
+14,Qe8,d8e8,rnb1qrk1/ppp3pp/5n2/2bp4/8/3BPN2/PPP2PPP/RNBQ1RK1 w - - 2 8,"Occupaying the two open files. Black didn't want to play 7. ... Qe7 because if the queen and the rook have to be doubled at an early stage of the game, it's better to have the queen behind the rook. Furthermore, I thought that the h5 square could be a important place to control."
+15,Re1,f1e1,rnb1qrk1/ppp3pp/5n2/2bp4/8/3BPN2/PPP2PPP/RNBQR1K1 b - - 3 8,Rook in front of the queen on the semi open file... Dangerous.
+16,Be6,c8e6,rn2qrk1/ppp3pp/4bn2/2bp4/8/3BPN2/PPP2PPP/RNBQR1K1 w - - 4 9,The a2g8 diagonal has to be occupated by black for the danger will be there.
+17,Nbd2,b1d2,rn2qrk1/ppp3pp/4bn2/2bp4/8/3BPN2/PPPN1PPP/R1BQR1K1 b - - 5 9,Black's developpement is almost completed and has been quick enough.
+18,Nbd7,b8d7,r3qrk1/pppn2pp/4bn2/2bp4/8/3BPN2/PPPN1PPP/R1BQR1K1 w - - 6 10,Black's developpement is almost completed and has been quick enough.
+19,b3,b2b3,r3qrk1/pppn2pp/4bn2/2bp4/8/1P1BPN2/P1PN1PPP/R1BQR1K1 b - - 0 10,White will sson have many attacking possibilities.
+20,Bg4,e6g4,r3qrk1/pppn2pp/5n2/2bp4/6b1/1P1BPN2/P1PN1PPP/R1BQR1K1 w - - 1 11,So that black decides to launch the first attack without waiting (doubling the rooks or the queen would take at least 2 moves) and after 11. Bb2 black will be in position to attack by 12. e4 or 12. Ne5.
+21,Bb2,c1b2,r3qrk1/pppn2pp/5n2/2bp4/6b1/1P1BPN2/PBPN1PPP/R2QR1K1 b - - 2 11,If 12. Nxe4 dxe4 with fork attack between th f knight and the d bishop.
+22,Ne4,f6e4,r3qrk1/pppn2pp/8/2bp4/4n1b1/1P1BPN2/PBPN1PPP/R2QR1K1 w - - 3 12,If 12. Nxe4 dxe4 with fork attack between th f knight and the d bishop.
+23,c4,c2c4,r3qrk1/pppn2pp/8/2bp4/2P1n1b1/1P1BPN2/PB1N1PPP/R2QR1K1 b - - 0 12,white attacks the weak pawn and menaces to create an open file in c for his queen or his rook (the queen on c3 would be a problem for black).
+24,Nxd2,e4d2,r3qrk1/pppn2pp/8/2bp4/2P3b1/1P1BPN2/PB1n1PPP/R2QR1K1 w - - 0 13,Black has no time to loose.
+25,Qxd2,d1d2,r3qrk1/pppn2pp/8/2bp4/2P3b1/1P1BPN2/PB1Q1PPP/R3R1K1 b - - 0 13,"Now, the queen has moved, black can carry on."
+26,Bxf3,g4f3,r3qrk1/pppn2pp/8/2bp4/2P5/1P1BPb2/PB1Q1PPP/R3R1K1 w - - 0 14,"I hesitated to bring the queen on the h file to have a stronger attack on the king side but I decided it would take too long a time, for white can play Qc3 at any time and it would cause black a lot of trouble"
+27,gxf3,g2f3,r3qrk1/pppn2pp/8/2bp4/2P5/1P1BPP2/PB1Q1P1P/R3R1K1 b - - 0 14,Weakening white's king side
+28,Rxf3,f8f3,r3q1k1/pppn2pp/8/2bp4/2P5/1P1BPr2/PB1Q1P1P/R3R1K1 w - - 0 15,"Material equality, both kings are unsafe, black is better on the semi open files, white pawn structure is weaker (separated in 3 parts), serious threats to come for blackwith the two open diagonals a1h8 and b1h7. The kings weakness make it a dangerous double edged position but the danger is on both sides."
+29,Kh1,g1h1,r3q1k1/pppn2pp/8/2bp4/2P5/1P1BPr2/PB1Q1P1P/R3R2K b - - 1 15,It was an unexpected move (I was sure white would play Kf1) and I realised that the rook would come on g1 to menace g7 which is now a major danger for black.

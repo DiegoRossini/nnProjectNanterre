@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Grunfeld opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The Grunfeld opening
+3,g3,g2g3,rnbqkbnr/ppp1pppp/8/3p4/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2,The Grunfeld opening
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 1 3,The Grunfeld opening
+5,Bg2,f1g2,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/6P1/PPP1PPBP/RNBQK1NR b KQkq - 2 3,The Grunfeld opening
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 3 4,The Grunfeld opening
+7,c4,c2c4,r1bqkb1r/ppp1pppp/2n2n2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 0 4,The Grunfeld opening
+8,g6,g7g6,r1bqkb1r/ppp1pp1p/2n2np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 0 5,The Grunfeld opening
+9,Nc3,b1c3,r1bqkb1r/ppp1pp1p/2n2np1/3p4/2PP4/2N3P1/PP2PPBP/R1BQK1NR b KQkq - 1 5,"Black is careless, he should have played dxc4 first."
+10,Bg7,f8g7,r1bqk2r/ppp1ppbp/2n2np1/3p4/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 2 6,"Black is careless, he should have played dxc4 first."
+11,cxd5,c4d5,r1bqk2r/ppp1ppbp/2n2np1/3P4/3P4/2N3P1/PP2PPBP/R1BQK1NR b KQkq - 0 6,How obvious...
+12,Nb8,c6b8,rnbqk2r/ppp1ppbp/5np1/3P4/3P4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 1 7,"In just two moves white has gained massive advantage, after just one single mistake by black."
+13,e4,e2e4,rnbqk2r/ppp1ppbp/5np1/3P4/3PP3/2N3P1/PP3PBP/R1BQK1NR b KQkq - 0 7,"In just two moves white has gained massive advantage, after just one single mistake by black."
+14,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3P4/3PP3/2N3P1/PP3PBP/R1BQK1NR w KQ - 1 8,Strengthening white's grip on the fields d5/e4
+15,Bg5,c1g5,rnbq1rk1/ppp1ppbp/5np1/3P2B1/3PP3/2N3P1/PP3PBP/R2QK1NR b KQ - 2 8,Strengthening white's grip on the fields d5/e4
+16,c6,c7c6,rnbq1rk1/pp2ppbp/2p2np1/3P2B1/3PP3/2N3P1/PP3PBP/R2QK1NR w KQ - 0 9,"I investigated returning the pawn with e5, but it brings nothing"
+17,dxc6,d5c6,rnbq1rk1/pp2ppbp/2P2np1/6B1/3PP3/2N3P1/PP3PBP/R2QK1NR b KQ - 0 9,"Keeping the option open to attack the center with c6-c5, but at the const of another tempo.
+Its probably better than Nxc6 however, as that leaves white's mighty center formation unchallenged"
+18,bxc6,b7c6,rnbq1rk1/p3ppbp/2p2np1/6B1/3PP3/2N3P1/PP3PBP/R2QK1NR w KQ - 0 10,"Keeping the option open to attack the center with c6-c5, but at the const of another tempo.
+Its probably better than Nxc6 however, as that leaves white's mighty center formation unchallenged"
+19,Nge2,g1e2,rnbq1rk1/p3ppbp/2p2np1/6B1/3PP3/2N3P1/PP2NPBP/R2QK2R b KQ - 1 10,In order to answer Bg4 with f3.
+20,Qa5,d8a5,rnb2rk1/p3ppbp/2p2np1/q5B1/3PP3/2N3P1/PP2NPBP/R2QK2R w KQ - 2 11,Winning another pawn...
+21,e5,e4e5,rnb2rk1/p3ppbp/2p2np1/q3P1B1/3P4/2N3P1/PP2NPBP/R2QK2R b KQ - 0 11,Winning another pawn...
+22,Nd5,f6d5,rnb2rk1/p3ppbp/2p3p1/q2nP1B1/3P4/2N3P1/PP2NPBP/R2QK2R w KQ - 1 12,"Trading this bisshop had to be considered carefully, as the fields h3/g2 are exposed to black bishop.
+However after carefull calculations, I deemed the trade safe."
+23,Bxd5,g2d5,rnb2rk1/p3ppbp/2p3p1/q2BP1B1/3P4/2N3P1/PP2NP1P/R2QK2R b KQ - 0 12,"Trading this bisshop had to be considered carefully, as the fields h3/g2 are exposed to black bishop.
+However after carefull calculations, I deemed the trade safe."
+24,cxd5,c6d5,rnb2rk1/p3ppbp/6p1/q2pP1B1/3P4/2N3P1/PP2NP1P/R2QK2R w KQ - 0 13,"Two pawns up, white has a big advantage now."
+25,Bxe7,g5e7,rnb2rk1/p3Bpbp/6p1/q2pP3/3P4/2N3P1/PP2NP1P/R2QK2R b KQ - 0 13,"Two pawns up, white has a big advantage now."
+26,Re8,f8e8,rnb1r1k1/p3Bpbp/6p1/q2pP3/3P4/2N3P1/PP2NP1P/R2QK2R w KQ - 1 14,"Short intermezzo to remove the Queen form the a5-e1 diagonal. 
+Also I am improving my pawn formation."
+27,b4,b2b4,rnb1r1k1/p3Bpbp/6p1/q2pP3/1P1P4/2N3P1/P3NP1P/R2QK2R b KQ - 0 14,"Short intermezzo to remove the Queen form the a5-e1 diagonal. 
+Also I am improving my pawn formation."
+28,Qc7,a5c7,rnb1r1k1/p1q1Bpbp/6p1/3pP3/1P1P4/2N3P1/P3NP1P/R2QK2R w KQ - 1 15,Solid.
+29,Bc5,e7c5,rnb1r1k1/p1q2pbp/6p1/2BpP3/1P1P4/2N3P1/P3NP1P/R2QK2R b KQ - 2 15,Solid.
+30,Bg4,c8g4,rn2r1k1/p1q2pbp/6p1/2BpP3/1P1P2b1/2N3P1/P3NP1P/R2QK2R w KQ - 3 16,using the standalone d5 pawn ad a diversion
+31,Qb3,d1b3,rn2r1k1/p1q2pbp/6p1/2BpP3/1P1P2b1/1QN3P1/P3NP1P/R3K2R b KQ - 4 16,using the standalone d5 pawn ad a diversion
+32,Bf3,g4f3,rn2r1k1/p1q2pbp/6p1/2BpP3/1P1P4/1QN2bP1/P3NP1P/R3K2R w KQ - 5 17,"Veru understandable, and at first sight this seems strong. Yet this is the third mistake, giving white an even bigger material lead."
+33,Nxd5,c3d5,rn2r1k1/p1q2pbp/6p1/2BNP3/1P1P4/1Q3bP1/P3NP1P/R3K2R b KQ - 0 17,"Of course, exploiting the fact that Bf3 is exposed."
+34,Bxd5,f3d5,rn2r1k1/p1q2pbp/6p1/2BbP3/1P1P4/1Q4P1/P3NP1P/R3K2R w KQ - 0 18,"Safe, finally"
+35,Qxd5,b3d5,rn2r1k1/p1q2pbp/6p1/2BQP3/1P1P4/6P1/P3NP1P/R3K2R b KQ - 0 18,"Safe, finally"
+36,Nd7,b8d7,r3r1k1/p1qn1pbp/6p1/2BQP3/1P1P4/6P1/P3NP1P/R3K2R w KQ - 1 19,"Safe, finally"
+37,O-O,e1g1,r3r1k1/p1qn1pbp/6p1/2BQP3/1P1P4/6P1/P3NP1P/R4RK1 b - - 2 19,"Safe, finally"
+38,Rad8,a8d8,3rr1k1/p1qn1pbp/6p1/2BQP3/1P1P4/6P1/P3NP1P/R4RK1 w - - 3 20,"Nice try, but I am not falling into such traps."
+39,Qb3,d5b3,3rr1k1/p1qn1pbp/6p1/2B1P3/1P1P4/1Q4P1/P3NP1P/R4RK1 b - - 4 20,"Nice try, but I am not falling into such traps."
+40,Rdb8,d8b8,1r2r1k1/p1qn1pbp/6p1/2B1P3/1P1P4/1Q4P1/P3NP1P/R4RK1 w - - 5 21,Threatening Nxc5 this time
+41,Rac1,a1c1,1r2r1k1/p1qn1pbp/6p1/2B1P3/1P1P4/1Q4P1/P3NP1P/2R2RK1 b - - 6 21,White has a winning advantage
+42,Nxc5,d7c5,1r2r1k1/p1q2pbp/6p1/2n1P3/1P1P4/1Q4P1/P3NP1P/2R2RK1 w - - 0 22,White has a winning advantage
+43,Rxc5,c1c5,1r2r1k1/p1q2pbp/6p1/2R1P3/1P1P4/1Q4P1/P3NP1P/5RK1 b - - 0 22,White has a winning advantage
+44,Qb6,c7b6,1r2r1k1/p4pbp/1q4p1/2R1P3/1P1P4/1Q4P1/P3NP1P/5RK1 w - - 1 23,White has a winning advantage
+45,a3,a2a3,1r2r1k1/p4pbp/1q4p1/2R1P3/1P1P4/PQ4P1/4NP1P/5RK1 b - - 0 23,White has a winning advantage
+46,Red8,e8d8,1r1r2k1/p4pbp/1q4p1/2R1P3/1P1P4/PQ4P1/4NP1P/5RK1 w - - 1 24,White has a winning advantage
+47,Rfc1,f1c1,1r1r2k1/p4pbp/1q4p1/2R1P3/1P1P4/PQ4P1/4NP1P/2R3K1 b - - 2 24,White has a winning advantage

@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The King's pawn opening, followed by knight development threatening the pawn. All standard stuff for me"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The King's pawn opening, followed by knight development threatening the pawn. All standard stuff for me"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The King's pawn opening, followed by knight development threatening the pawn. All standard stuff for me"
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,?! 2...Nc6 and 2...d6 both seem to be better here. Bringing out the queen this early could be bad for Black...
+5,Nc3,b1c3,rnb1kbnr/pppp1ppp/5q2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"White brings out his other knight, while threatening to pressure the queen with 4.Nd5"
+6,c6,c7c6,rnb1kbnr/pp1p1ppp/2p2q2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,"Although this is mainline (according to the DB) and it does prevent Nd5, it also blocks any of the good squares for Black's queenside knight"
+7,Bc4,f1c4,rnb1kbnr/pp1p1ppp/2p2q2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,"continuing development, but this move can be dangerous in light of..."
+8,a5,a7a5,rnb1kbnr/1p1p1ppp/2p2q2/p3p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"...this move (though I didn't understand it at the time). I say 'can be dangerous' because the bishop isn't threatened with capture yet, as it can still retreat along the f1-a6 diagonal... (but if White wishes to keep the bishop on the a2-f8 diagonal, the best move would be to move the a-pawn)"
+9,d3,d2d3,rnb1kbnr/1p1p1ppp/2p2q2/p3p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,? Blocking that retreat is probably the worst thing that White can do here...
+10,b5,b7b5,rnb1kbnr/3p1ppp/2p2q2/pp2p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 0 6,! now 4...a5 is justified. White's bishop can't retreat to the b3 square because of 6...a4
+11,Nxb5,c3b5,rnb1kbnr/3p1ppp/2p2q2/pN2p3/2B1P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 0 6,the best way to get something out of the situation - Black will end up a point up
+12,cxb5,c6b5,rnb1kbnr/3p1ppp/5q2/pp2p3/2B1P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 7,?! too slow - it allows White at a lead in development which may compensate for the point disadvantage...
+13,Bxb5,c4b5,rnb1kbnr/3p1ppp/5q2/pB2p3/4P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 0 7,?! too slow - it allows White at a lead in development which may compensate for the point disadvantage...
+14,h6,h7h6,rnb1kbnr/3p1pp1/5q1p/pB2p3/4P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 8,?! too slow - it allows White at a lead in development which may compensate for the point disadvantage...
+15,O-O,e1g1,rnb1kbnr/3p1pp1/5q1p/pB2p3/4P3/3P1N2/PPP2PPP/R1BQ1RK1 b kq - 1 8,"developing, getting my king to safety"
+16,Qb6,f6b6,rnb1kbnr/3p1pp1/1q5p/pB2p3/4P3/3P1N2/PPP2PPP/R1BQ1RK1 w kq - 2 9,"Threatening the knight, but that's easily countered..."
+17,c4,c2c4,rnb1kbnr/3p1pp1/1q5p/pB2p3/2P1P3/3P1N2/PP3PPP/R1BQ1RK1 b kq - 0 9,"White doesn't want to retreat the bishop, so he simply supports it with the pawn. Since Black has left the e-pawn hanging, his next move would probably have to be defending that pawn"
+18,g5,g7g5,rnb1kbnr/3p1p2/1q5p/pB2p1p1/2P1P3/3P1N2/PP3PPP/R1BQ1RK1 w kq - 0 10,"nope - Black looks to be thinking about a kingside pawn storm. I don't fear that yet...especially since Black has no developed pieces other than his queen... (also, the h5 square could prove to be a weak square for White)"
+19,Nxe5,f3e5,rnb1kbnr/3p1p2/1q5p/pB2N1p1/2P1P3/3P4/PP3PPP/R1BQ1RK1 b kq - 0 10,White eagerly snatches the chance to regain material equality - a knight for three pawns
+20,Rh7,h8h7,rnb1kbn1/3p1p1r/1q5p/pB2N1p1/2P1P3/3P4/PP3PPP/R1BQ1RK1 w q - 1 11,"this move makes no sense whatsoever... even if Black was looking to move the rook over to the g-file, why didn't he just move the knight first? (though as I look at this, I see a knight sac opportunity if Black hadn't made that move; 11.Nxf7 Kxf7 12.Qh5+ Kg7 [any other move is met with Bxg5, as the h-pawn is pinned to the rook] 13.b3.... it seems to be a powerful attack from White, and I would have tried it if I had the chance, but whether it amounts to anything...) [actually, I would have given this move a ??, but it actually saves Black from a devastating attack later on in the game...]"
+21,Be3,c1e3,rnb1kbn1/3p1p1r/1q5p/pB2N1p1/2P1P3/3PB3/PP3PPP/R2Q1RK1 b q - 2 11,"White brings his other bishop into the action, with a threat to the queen as well!"
+22,Qc7,b6c7,rnb1kbn1/2qp1p1r/7p/pB2N1p1/2P1P3/3PB3/PP3PPP/R2Q1RK1 w q - 3 12,Black sidesteps the attack and makes a counter-threat on the knight on e5.
+23,d4,d3d4,rnb1kbn1/2qp1p1r/7p/pB2N1p1/2PPP3/4B3/PP3PPP/R2Q1RK1 b q - 0 12,"White is playing aggressively here - again, his piece chooses not to escape, and remains a threat to Black"
+24,Bd6,f8d6,rnb1k1n1/2qp1p1r/3b3p/pB2N1p1/2PPP3/4B3/PP3PPP/R2Q1RK1 w q - 1 13,"Black threatens to win a pawn with 13...Bxe5 14. dxe5 Qxe5, while developing one of his pieces. The best move for Black in this position, I think"

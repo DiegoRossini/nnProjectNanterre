@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I won't annotate the first few moves, any good opening book could do a much better job."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Najdorf
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Najdorf
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,The Najdorf
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The Najdorf
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,The Najdorf
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,The Najdorf
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,The Najdorf
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,The Najdorf
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,The Najdorf
+11,f3,f2f3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6,A solid move supporting the centre and preparing a kingside pawn storm.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R w KQkq - 0 7,Black also opts for solidarity. The other main alternative was 6...e5 when black normally obtains good piece play at the cost of structural weakness.
+13,Be3,c1e3,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 1 7,Developing the bishop to an active square supporting the d4 knight.
+14,b5,b7b5,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 0 8,Removing the c4 square from the light squared bishop and expanding on the queenside
+15,Qd2,d1d2,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 1 8,preparing 0-0-0 with pressure along the d file. An immediate g4 is also playable
+16,Be7,f8e7,rnbqk2r/4bppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQkq - 2 9,...Bb7 is more consistent but this move is going to be played at some point so why not now?
+17,Be2,f1e2,rnbqk2r/4bppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQB1PP/R3K2R b KQkq - 3 9,"?! why? what does the bishop do on e2 that it wasn't doing on f1? very little. Not worth the tempo, white should continue 0-0-0 with a powerful d file battery."
+18,Bb7,c8b7,rn1qk2r/1b2bppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQB1PP/R3K2R w KQkq - 4 10,The best square for the bishop putting pressure on the white centre and so slowing down whites kingside attack
+19,g4,g2g4,rn1qk2r/1b2bppp/p2ppn2/1p6/3NP1P1/2N1BP2/PPPQB2P/R3K2R b KQkq - 0 10,continuing in thematic fashion although 0-0-0 is good here too.
+20,Nfd7,f6d7,rn1qk2r/1b1nbppp/p2pp3/1p6/3NP1P1/2N1BP2/PPPQB2P/R3K2R w KQkq - 1 11,opening the lines for the queen and bishop and so slowing the white pawns as well as repositioning the knight to the queenside.
+21,O-O-O,e1c1,rn1qk2r/1b1nbppp/p2pp3/1p6/3NP1P1/2N1BP2/PPPQB2P/2KR3R b kq - 2 11,doubling major pieces on the d file against the slightly weak d pawn and removing th king from the centre
+22,Nb6,d7b6,rn1qk2r/1b2bppp/pn1pp3/1p6/3NP1P1/2N1BP2/PPPQB2P/2KR3R w kq - 3 12,Eyeing the c4 square. A black knight landing there will be quite awkward for white.
+23,Rdf1,d1f1,rn1qk2r/1b2bppp/pn1pp3/1p6/3NP1P1/2N1BP2/PPPQB2P/2K2R1R b kq - 4 12,?! a strange move here the rook is much better placed on d1. The motivation of this move is clearly whites desire to play f4 however this goes no way toward achieving that goal. a3 is required in order to play f4 so why not play it now?
+24,Nb8d7,b8d7,r2qk2r/1b1nbppp/pn1pp3/1p6/3NP1P1/2N1BP2/PPPQB2P/2K2R1R w kq - 5 13,Blacks previously unmoved queens knight starts its march towards c4 via e5
+25,a3,a2a3,r2qk2r/1b1nbppp/pn1pp3/1p6/3NP1P1/P1N1BP2/1PPQB2P/2K2R1R b kq - 0 13,finally preparing f4 but white's attack is now quite dangerously behind and black now establishes a rather strong knight on the c4 square. a3 also weakens the kings position which a knight on c4 is primed to exploit
+26,Ne5,d7e5,r2qk2r/1b2bppp/pn1pp3/1p2n3/3NP1P1/P1N1BP2/1PPQB2P/2K2R1R w kq - 1 14,Grabbing the c4 square with both hands.
+27,Bf2,e3f2,r2qk2r/1b2bppp/pn1pp3/1p2n3/3NP1P1/P1N2P2/1PPQBB1P/2K2R1R b kq - 2 14,? not a strong move at all. clearly white wants to keep his dark squared bishop but this move allows black a choice between an obviously better position and winning the exchange.
+28,Nbc4,b6c4,r2qk2r/1b2bppp/p2pp3/1p2n3/2nNP1P1/P1N2P2/1PPQBB1P/2K2R1R w kq - 3 15,14...Bg5 15.Be3 Nbc4 16.Bxg5 Nxd2 17.Bxd8 Nxf1 18.Bg5 h6 19.Bxh6 Rxh6 20.Bxf1 is also playable but i'd rather not cash in just yet

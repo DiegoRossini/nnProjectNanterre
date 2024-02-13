@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"The English opening - one I haven't played in quite awhile, but I thought I'd give it a try"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2,"I expected a pawn move, but of course this is perfectly playable"
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2,going through with the normal set of moves that I usually play with the English opening
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,"Preparing a d5 push, perhaps?"
+5,g3,g2g3,rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,preparing an obvious fianchetto...
+6,c6,c7c6,rnbqkb1r/pp1p1ppp/2p1pn2/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4,"? I don't like this move - Black is putting a lot of support behind a pawn push to d5, but he could have played that now! I'm seeing something like 3...d5 4.cxd5 Nxd5 5.Bf7 with reasonable chances for both sides. The more pressing concern with that pawn is that it blocks the natural square for Black's knight [though to be fair, that problem is sorted out quickly enough...]"
+7,Bg2,f1g2,rnbqkb1r/pp1p1ppp/2p1pn2/8/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 1 4,"I don't know whether I'm right or not here, but the general idea of the English opening is the d5 square. With this aggressive move, Black pretty much declares that the d5 square is his!"
+8,d5,d7d5,rnbqkb1r/pp3ppp/2p1pn2/3p4/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 5,"I don't know whether I'm right or not here, but the general idea of the English opening is the d5 square. With this aggressive move, Black pretty much declares that the d5 square is his!"
+9,cxd5,c4d5,rnbqkb1r/pp3ppp/2p1pn2/3P4/8/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 0 5,I didn't see much alternative here...
+10,cxd5,c6d5,rnbqkb1r/pp3ppp/4pn2/3p4/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 0 6,the right pawn recapture - Black keeps centre pawns on the d and e file
+11,d4,d2d4,rnbqkb1r/pp3ppp/4pn2/3p4/3P4/2N3P1/PP2PPBP/R1BQK1NR b KQkq - 0 6,White decides to make a thrust in the centre with his pawn... six moves into the game!
+12,Qb6,d8b6,rnb1kb1r/pp3ppp/1q2pn2/3p4/3P4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 1 7,"A temporary pin on the bishop, who has to defend the b2 pawn"
+13,Qc2,d1c2,rnb1kb1r/pp3ppp/1q2pn2/3p4/3P4/2N3P1/PPQ1PPBP/R1B1K1NR b KQkq - 2 7,"I remember choosing this move over b3 because I wanted White to keep ahead in the development race [at this point, I actually considered Black a little better... though to be honest, there really isn't any attacking chances for either side right now]"
+14,Qb4,b6b4,rnb1kb1r/pp3ppp/4pn2/3p4/1q1P4/2N3P1/PPQ1PPBP/R1B1K1NR w KQkq - 3 8,? never move a piece twice in the opening... and I saw an opportunity for a discovered attack here...
+15,Bd2,c1d2,rnb1kb1r/pp3ppp/4pn2/3p4/1q1P4/2N3P1/PPQBPPBP/R3K1NR b KQkq - 4 8,"! as far as I can see, the only way in which Black can stop a fork at c7 is 8...Kd8 [losing castling rights] 9.Nxd5 Qd3 10.Nxf6 gxf6, which gives White an advantage material wise and positionally! Howver..."
+16,Qxd4,b4d4,rnb1kb1r/pp3ppp/4pn2/3p4/3q4/2N3P1/PPQBPPBP/R3K1NR w KQkq - 0 9,"? I guess Black wanted to follow through with his plan to take the pawn, and I had missed this move, but I easily found a refutation tp Black's plans..."
+17,Nb5,c3b5,rnb1kb1r/pp3ppp/4pn2/1N1p4/3q4/6P1/PPQBPPBP/R3K1NR b KQkq - 1 9,"crushing! all of a sudden, White has three threats - the knight threatens the queen on d4, the queen threatens the bishop on c8 and the knight threatens to win the rook with Nc7+"
+18,Qb6,d4b6,rnb1kb1r/pp3ppp/1q2pn2/1N1p4/8/6P1/PPQBPPBP/R3K1NR w KQkq - 2 10,"?? Black sees two threats (though Nc7+ can still be played) but misses Qxc8+. Now, Black is in for a world of hurt... I think best for Black would have been 9...Qc4 10.Qxc4 dxc4 11.Nc7+ Kd8 12.Nxa8"
+19,Qxc8+,c2c8,rnQ1kb1r/pp3ppp/1q2pn2/1N1p4/8/6P1/PP1BPPBP/R3K1NR b KQkq - 0 10,(!)
+20,Qd8,b6d8,rnQqkb1r/pp3ppp/4pn2/1N1p4/8/6P1/PP1BPPBP/R3K1NR w KQkq - 1 11,"another variation is 10...Ke7 11.Bb4+ Qd6 12.Bxd6#, so this variation is...um....'better'..."
+21,Nc7+,b5c7,rnQqkb1r/ppN2ppp/4pn2/3p4/8/6P1/PP1BPPBP/R3K1NR b KQkq - 2 11,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+22,Ke7,e8e7,rnQq1b1r/ppN1kppp/4pn2/3p4/8/6P1/PP1BPPBP/R3K1NR w KQ - 3 12,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+23,Bb4+,d2b4,rnQq1b1r/ppN1kppp/4pn2/3p4/1B6/6P1/PP2PPBP/R3K1NR b KQ - 4 12,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+24,Qd6,d8d6,rnQ2b1r/ppN1kppp/3qpn2/3p4/1B6/6P1/PP2PPBP/R3K1NR w KQ - 5 13,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+25,Bxd6+,b4d6,rnQ2b1r/ppN1kppp/3Bpn2/3p4/8/6P1/PP2PPBP/R3K1NR b KQ - 0 13,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+26,Kxd6,e7d6,rnQ2b1r/ppN2ppp/3kpn2/3p4/8/6P1/PP2PPBP/R3K1NR w KQ - 0 14,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)
+27,Nxa8,c7a8,NnQ2b1r/pp3ppp/3kpn2/3p4/8/6P1/PP2PPBP/R3K1NR b KQ - 0 14,...but still leads to a heavy loss in material - Black resigns. I't slways pleasing to get quick wins like this sometimes :)

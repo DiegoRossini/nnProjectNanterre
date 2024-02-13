@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this ""on purpose"", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this ""on purpose"", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this ""on purpose"", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement."
+4,c6,c7c6,rnbqkb1r/pp1ppppp/2p2n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this ""on purpose"", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement."
+5,Nf3,g1f3,rnbqkb1r/pp1ppppp/2p2n2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"A principle says that when black moves this pawn, I have to move mine c pawn to, in order to provide room for  my Q to b2 in case of Qb6. I missed this ""on purpose"", to test some ideas similar to a game I was engaged in, where I missed by mistake the c pawn movement."
+6,b5,b7b5,rnbqkb1r/p2ppppp/2p2n2/1p6/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,My opponent went for this quick pawn's storm.
+7,Nbd2,b1d2,rnbqkb1r/p2ppppp/2p2n2/1p6/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,"Somewhat surprised, but liking the challenge."
+8,a5,a7a5,rnbqkb1r/3ppppp/2p2n2/pp6/3P1B2/5N2/PPPNPPPP/R2QKB1R w KQkq - 0 5,! Even better! Now I could test the overexpansion.
+9,c3,c2c3,rnbqkb1r/3ppppp/2p2n2/pp6/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 0 5,"Threatening e4, that my opponent missed."
+10,Bb7,c8b7,rn1qkb1r/1b1ppppp/2p2n2/pp6/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 1 6,"Threatening e4, that my opponent missed."
+11,Qc2,d1c2,rn1qkb1r/1b1ppppp/2p2n2/pp6/3P1B2/2P2N2/PPQNPPPP/R3KB1R b KQkq - 2 6,"Threatening e4, that my opponent missed."
+12,e6,e7e6,rn1qkb1r/1b1p1ppp/2p1pn2/pp6/3P1B2/2P2N2/PPQNPPPP/R3KB1R w KQkq - 0 7,"Much better was d5, preventing e4."
+13,e4,e2e4,rn1qkb1r/1b1p1ppp/2p1pn2/pp6/3PPB2/2P2N2/PPQN1PPP/R3KB1R b KQkq - 0 7,"Counterattacking, probably the foreseen countermove to e4."
+14,c5,c6c5,rn1qkb1r/1b1p1ppp/4pn2/ppp5/3PPB2/2P2N2/PPQN1PPP/R3KB1R w KQkq - 0 8,"Counterattacking, probably the foreseen countermove to e4."
+15,Bd3,f1d3,rn1qkb1r/1b1p1ppp/4pn2/ppp5/3PPB2/2PB1N2/PPQN1PPP/R3K2R b KQkq - 1 8,"Inviting c4, Be7, and the situation is more controlled, but not good for white."
+16,cxd4,c5d4,rn1qkb1r/1b1p1ppp/4pn2/pp6/3pPB2/2PB1N2/PPQN1PPP/R3K2R w KQkq - 0 9,?? thanks! My opponent helps me to open the game when I'm squeezed.
+17,Nxd4,f3d4,rn1qkb1r/1b1p1ppp/4pn2/pp6/3NPB2/2PB4/PPQN1PPP/R3K2R b KQkq - 0 9,"A more active piece. The for, d5 is not possible without a support for it."
+18,b4,b5b4,rn1qkb1r/1b1p1ppp/4pn2/p7/1p1NPB2/2PB4/PPQN1PPP/R3K2R w KQkq - 0 10,"It seems very strong, but what does it threat?"
+19,Nc4,d2c4,rn1qkb1r/1b1p1ppp/4pn2/p7/1pNNPB2/2PB4/PPQ2PPP/R3K2R b KQkq - 1 10,"I just ignore it, because my N has a wonderful spot on d3."
+20,bxc3,b4c3,rn1qkb1r/1b1p1ppp/4pn2/p7/2NNPB2/2pB4/PPQ2PPP/R3K2R w KQkq - 0 11,Virtually forced.
+21,Nd6+,c4d6,rn1qkb1r/1b1p1ppp/3Npn2/p7/3NPB2/2pB4/PPQ2PPP/R3K2R b KQkq - 1 11,Virtually forced.
+22,Bxd6,f8d6,rn1qk2r/1b1p1ppp/3bpn2/p7/3NPB2/2pB4/PPQ2PPP/R3K2R w KQkq - 0 12,Virtually forced.
+23,Bxd6,f4d6,rn1qk2r/1b1p1ppp/3Bpn2/p7/3NP3/2pB4/PPQ2PPP/R3K2R b KQkq - 0 12,"What an outpost! If Qb6 now, e5 and let's see what happens."
+24,cxb2,c3b2,rn1qk2r/1b1p1ppp/3Bpn2/p7/3NP3/3B4/PpQ2PPP/R3K2R w KQkq - 0 13,"Embarassing, but also opening the column for my Q (as foreseen)."
+25,Rb1,a1b1,rn1qk2r/1b1p1ppp/3Bpn2/p7/3NP3/3B4/PpQ2PPP/1R2K2R b Kkq - 1 13,! Black has just nothing now!
+26,Qb6,d8b6,rn2k2r/1b1p1ppp/1q1Bpn2/p7/3NP3/3B4/PpQ2PPP/1R2K2R w Kkq - 2 14,No escape for the Q but...
+27,Bc5,d6c5,rn2k2r/1b1p1ppp/1q2pn2/p1B5/3NP3/3B4/PpQ2PPP/1R2K2R b Kkq - 3 14,No escape for the Q but...
+28,Qc7,b6c7,rn2k2r/1bqp1ppp/4pn2/p1B5/3NP3/3B4/PpQ2PPP/1R2K2R w Kkq - 4 15,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."
+29,Nb5,d4b5,rn2k2r/1bqp1ppp/4pn2/pNB5/4P3/3B4/PpQ2PPP/1R2K2R b Kkq - 5 15,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."
+30,Qf4,c7f4,rn2k2r/1b1p1ppp/4pn2/pNB5/4Pq2/3B4/PpQ2PPP/1R2K2R w Kkq - 6 16,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."
+31,Nd6+,b5d6,rn2k2r/1b1p1ppp/3Npn2/p1B5/4Pq2/3B4/PpQ2PPP/1R2K2R b Kkq - 7 16,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."
+32,Ke7,e8e7,rn5r/1b1pkppp/3Npn2/p1B5/4Pq2/3B4/PpQ2PPP/1R2K2R w K - 8 17,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."
+33,Nxb7+,d6b7,rn5r/1N1pkppp/4pn2/p1B5/4Pq2/3B4/PpQ2PPP/1R2K2R b K - 0 17,"And here my opponent resigned, in sight of d6, Bxd6+, or similar."

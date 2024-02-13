@@ -1,0 +1,94 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"opening this pawn will convert the opening into many games and gambit like French, Nimzo Indian, Queen's Indian,"
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"opening this pawn will convert the opening into many games and gambit like French, Nimzo Indian, Queen's Indian,"
+3,c4,c2c4,rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Blumenfeld gambit
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Blumenfeld gambit
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3,Blumenfeld gambit
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Blumenfeld gambit
+7,d5,d4d5,rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 4,Blumenfeld gambit
+8,b5,b7b5,rnbqkb1r/p2p1ppp/4pn2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 5,Blumenfeld gambit
+9,Bg5,c1g5,rnbqkb1r/p2p1ppp/4pn2/1ppP2B1/2P5/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 5,alternatives 6...h6 7. Bxf6 Qxf6
+10,exd5,e6d5,rnbqkb1r/p2p1ppp/5n2/1ppp2B1/2P5/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 6,alternatives 6...h6 7. Bxf6 Qxf6
+11,cxd5,c4d5,rnbqkb1r/p2p1ppp/5n2/1ppP2B1/8/5N2/PP2PPPP/RN1QKB1R b KQkq - 0 6,alternatives 6...h6 7. Bxf6 Qxf6
+12,Qa5+,d8a5,rnb1kb1r/p2p1ppp/5n2/qppP2B1/8/5N2/PP2PPPP/RN1QKB1R w KQkq - 1 7,alternatives 6...h6 7. Bxf6 Qxf6
+13,Nc3,b1c3,rnb1kb1r/p2p1ppp/5n2/qppP2B1/8/2N2N2/PP2PPPP/R2QKB1R b KQkq - 2 7,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+14,Ne4,f6e4,rnb1kb1r/p2p1ppp/8/qppP2B1/4n3/2N2N2/PP2PPPP/R2QKB1R w KQkq - 3 8,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+15,Bd2,g5d2,rnb1kb1r/p2p1ppp/8/qppP4/4n3/2N2N2/PP1BPPPP/R2QKB1R b KQkq - 4 8,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+16,Nxd2,e4d2,rnb1kb1r/p2p1ppp/8/qppP4/8/2N2N2/PP1nPPPP/R2QKB1R w KQkq - 0 9,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+17,Nxd2,f3d2,rnb1kb1r/p2p1ppp/8/qppP4/8/2N5/PP1NPPPP/R2QKB1R b KQkq - 0 9,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+18,b4,b5b4,rnb1kb1r/p2p1ppp/8/q1pP4/1p6/2N5/PP1NPPPP/R2QKB1R w KQkq - 0 10,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+19,Nce4,c3e4,rnb1kb1r/p2p1ppp/8/q1pP4/1p2N3/8/PP1NPPPP/R2QKB1R b KQkq - 1 10,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+20,d6,d7d6,rnb1kb1r/p4ppp/3p4/q1pP4/1p2N3/8/PP1NPPPP/R2QKB1R w KQkq - 0 11,"At this stage I had confusion what is the best one and played 10...d6. After the game I analysed thru Chessmaster, it  gives 10. Qb6"
+21,Nc4,d2c4,rnb1kb1r/p4ppp/3p4/q1pP4/1pN1N3/8/PP2PPPP/R2QKB1R b KQkq - 1 11,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+22,Qc7,a5c7,rnb1kb1r/p1q2ppp/3p4/2pP4/1pN1N3/8/PP2PPPP/R2QKB1R w KQkq - 2 12,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+23,Qa4+,d1a4,rnb1kb1r/p1q2ppp/3p4/2pP4/QpN1N3/8/PP2PPPP/R3KB1R b KQkq - 3 12,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+24,Bd7,c8d7,rn2kb1r/p1qb1ppp/3p4/2pP4/QpN1N3/8/PP2PPPP/R3KB1R w KQkq - 4 13,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+25,Qb3,a4b3,rn2kb1r/p1qb1ppp/3p4/2pP4/1pN1N3/1Q6/PP2PPPP/R3KB1R b KQkq - 5 13,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+26,Bb5,d7b5,rn2kb1r/p1q2ppp/3p4/1bpP4/1pN1N3/1Q6/PP2PPPP/R3KB1R w KQkq - 6 14,logically played here if 13...Be7? 14. Qg3 O-O 15. Nxd6 losing a pawn
+27,Qe3,b3e3,rn2kb1r/p1q2ppp/3p4/1bpP4/1pN1N3/4Q3/PP2PPPP/R3KB1R b KQkq - 7 14,a Big Idea stronger than <14.e3> Now black can't play 14...Be7 15. Nxd6+
+28,Kd8,e8d8,rn1k1b1r/p1q2ppp/3p4/1bpP4/1pN1N3/4Q3/PP2PPPP/R3KB1R w KQ - 8 15,can try 15. Rc1 Nbd7
+29,Ned2,e4d2,rn1k1b1r/p1q2ppp/3p4/1bpP4/1pN5/4Q3/PP1NPPPP/R3KB1R b KQ - 9 15,can try 15. Rc1 Nbd7
+30,Be7,f8e7,rn1k3r/p1q1bppp/3p4/1bpP4/1pN5/4Q3/PP1NPPPP/R3KB1R w KQ - 10 16,trying to manual castling
+31,Qg3,e3g3,rn1k3r/p1q1bppp/3p4/1bpP4/1pN5/6Q1/PP1NPPPP/R3KB1R b KQ - 11 16,trying to manual castling
+32,g6,g7g6,rn1k3r/p1q1bp1p/3p2p1/1bpP4/1pN5/6Q1/PP1NPPPP/R3KB1R w KQ - 0 17,trying to manual castling
+33,e4,e2e4,rn1k3r/p1q1bp1p/3p2p1/1bpP4/1pN1P3/6Q1/PP1N1PPP/R3KB1R b KQ - 0 17,trying to manual castling
+34,Nd7,b8d7,r2k3r/p1qnbp1p/3p2p1/1bpP4/1pN1P3/6Q1/PP1N1PPP/R3KB1R w KQ - 1 18,trying to manual castling
+35,Be2,f1e2,r2k3r/p1qnbp1p/3p2p1/1bpP4/1pN1P3/6Q1/PP1NBPPP/R3K2R b KQ - 2 18,trying to manual castling
+36,Ke8,d8e8,r3k2r/p1qnbp1p/3p2p1/1bpP4/1pN1P3/6Q1/PP1NBPPP/R3K2R w KQ - 3 19,trying to manual castling
+37,Qf3,g3f3,r3k2r/p1qnbp1p/3p2p1/1bpP4/1pN1P3/5Q2/PP1NBPPP/R3K2R b KQ - 4 19,"A good Idea, wins a pawn but black can overcome from this attack"
+38,Kf8,e8f8,r4k1r/p1qnbp1p/3p2p1/1bpP4/1pN1P3/5Q2/PP1NBPPP/R3K2R w KQ - 5 20,"A good Idea, wins a pawn but black can overcome from this attack"
+39,Nxd6,c4d6,r4k1r/p1qnbp1p/3N2p1/1bpP4/1p2P3/5Q2/PP1NBPPP/R3K2R b KQ - 0 20,"A good Idea, wins a pawn but black can overcome from this attack"
+40,Ne5,d7e5,r4k1r/p1q1bp1p/3N2p1/1bpPn3/1p2P3/5Q2/PP1NBPPP/R3K2R w KQ - 1 21,24. Ba4 was playable with the replay.. Nd3
+41,Qg3,f3g3,r4k1r/p1q1bp1p/3N2p1/1bpPn3/1p2P3/6Q1/PP1NBPPP/R3K2R b KQ - 2 21,24. Ba4 was playable with the replay.. Nd3
+42,Bxd6,e7d6,r4k1r/p1q2p1p/3b2p1/1bpPn3/1p2P3/6Q1/PP1NBPPP/R3K2R w KQ - 0 22,24. Ba4 was playable with the replay.. Nd3
+43,Bxb5,e2b5,r4k1r/p1q2p1p/3b2p1/1BpPn3/1p2P3/6Q1/PP1N1PPP/R3K2R b KQ - 0 22,24. Ba4 was playable with the replay.. Nd3
+44,c4,c5c4,r4k1r/p1q2p1p/3b2p1/1B1Pn3/1pp1P3/6Q1/PP1N1PPP/R3K2R w KQ - 0 23,24. Ba4 was playable with the replay.. Nd3
+45,O-O,e1g1,r4k1r/p1q2p1p/3b2p1/1B1Pn3/1pp1P3/6Q1/PP1N1PPP/R4RK1 b - - 1 23,24. Ba4 was playable with the replay.. Nd3
+46,Rb8,a8b8,1r3k1r/p1q2p1p/3b2p1/1B1Pn3/1pp1P3/6Q1/PP1N1PPP/R4RK1 w - - 2 24,24. Ba4 was playable with the replay.. Nd3
+47,f4,f2f4,1r3k1r/p1q2p1p/3b2p1/1B1Pn3/1pp1PP2/6Q1/PP1N2PP/R4RK1 b - - 0 24,24. Ba4 was playable with the replay.. Nd3
+48,Rxb5,b8b5,5k1r/p1q2p1p/3b2p1/1r1Pn3/1pp1PP2/6Q1/PP1N2PP/R4RK1 w - - 0 25,I got my pawn back
+49,fxe5,f4e5,5k1r/p1q2p1p/3b2p1/1r1PP3/1pp1P3/6Q1/PP1N2PP/R4RK1 b - - 0 25,I got my pawn back
+50,Bxe5,d6e5,5k1r/p1q2p1p/6p1/1r1Pb3/1pp1P3/6Q1/PP1N2PP/R4RK1 w - - 0 26,I got my pawn back
+51,Qf2,g3f2,5k1r/p1q2p1p/6p1/1r1Pb3/1pp1P3/8/PP1N1QPP/R4RK1 b - - 1 26,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+52,Qc5,c7c5,5k1r/p4p1p/6p1/1rqPb3/1pp1P3/8/PP1N1QPP/R4RK1 w - - 2 27,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+53,Qxc5+,f2c5,5k1r/p4p1p/6p1/1rQPb3/1pp1P3/8/PP1N2PP/R4RK1 b - - 0 27,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+54,Rxc5,b5c5,5k1r/p4p1p/6p1/2rPb3/1pp1P3/8/PP1N2PP/R4RK1 w - - 0 28,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+55,Rab1,a1b1,5k1r/p4p1p/6p1/2rPb3/1pp1P3/8/PP1N2PP/1R3RK1 b - - 1 28,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+56,c3,c4c3,5k1r/p4p1p/6p1/2rPb3/1p2P3/2p5/PP1N2PP/1R3RK1 w - - 0 29,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+57,bxc3,b2c3,5k1r/p4p1p/6p1/2rPb3/1p2P3/2P5/P2N2PP/1R3RK1 b - - 0 29,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+58,bxc3,b4c3,5k1r/p4p1p/6p1/2rPb3/4P3/2p5/P2N2PP/1R3RK1 w - - 0 30,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+59,Nb3,d2b3,5k1r/p4p1p/6p1/2rPb3/4P3/1Np5/P5PP/1R3RK1 b - - 1 30,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+60,Rc4,c5c4,5k1r/p4p1p/6p1/3Pb3/2r1P3/1Np5/P5PP/1R3RK1 w - - 2 31,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+61,Rbe1,b1e1,5k1r/p4p1p/6p1/3Pb3/2r1P3/1Np5/P5PP/4RRK1 b - - 3 31,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+62,c2,c3c2,5k1r/p4p1p/6p1/3Pb3/2r1P3/1N6/P1p3PP/4RRK1 w - - 0 32,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+63,Kf2,g1f2,5k1r/p4p1p/6p1/3Pb3/2r1P3/1N6/P1p2KPP/4RR2 b - - 1 32,other chances 32. Re2 Bb2 33.e5 Ke7 Ree1 Rhc8
+64,Ke7,f8e7,7r/p3kp1p/6p1/3Pb3/2r1P3/1N6/P1p2KPP/4RR2 w - - 2 33,here I tried 35.a4 otherthan Ra4 Nc1
+65,Ke3,f2e3,7r/p3kp1p/6p1/3Pb3/2r1P3/1N2K3/P1p3PP/4RR2 b - - 3 33,here I tried 35.a4 otherthan Ra4 Nc1
+66,Rhc8,h8c8,2r5/p3kp1p/6p1/3Pb3/2r1P3/1N2K3/P1p3PP/4RR2 w - - 4 34,here I tried 35.a4 otherthan Ra4 Nc1
+67,g3,g2g3,2r5/p3kp1p/6p1/3Pb3/2r1P3/1N2K1P1/P1p4P/4RR2 b - - 0 34,here I tried 35.a4 otherthan Ra4 Nc1
+68,a5,a7a5,2r5/4kp1p/6p1/p2Pb3/2r1P3/1N2K1P1/P1p4P/4RR2 w - - 0 35,here I tried 35.a4 otherthan Ra4 Nc1
+69,Nc1,b3c1,2r5/4kp1p/6p1/p2Pb3/2r1P3/4K1P1/P1p4P/2N1RR2 b - - 1 35,other moves 36. Nd3 Bg7
+70,a4,a5a4,2r5/4kp1p/6p1/3Pb3/p1r1P3/4K1P1/P1p4P/2N1RR2 w - - 0 36,other moves 36. Nd3 Bg7
+71,g4,g3g4,2r5/4kp1p/6p1/3Pb3/p1r1P1P1/4K3/P1p4P/2N1RR2 b - - 0 36,other moves 36. Nd3 Bg7
+72,Rc4c3+,c4c3,2r5/4kp1p/6p1/3Pb3/p3P1P1/2r1K3/P1p4P/2N1RR2 w - - 1 37,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+73,Nd3,c1d3,2r5/4kp1p/6p1/3Pb3/p3P1P1/2rNK3/P1p4P/4RR2 b - - 2 37,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+74,Ra3,c3a3,2r5/4kp1p/6p1/3Pb3/p3P1P1/r2NK3/P1p4P/4RR2 w - - 3 38,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+75,Ke2,e3e2,2r5/4kp1p/6p1/3Pb3/p3P1P1/r2N4/P1p1K2P/4RR2 b - - 4 38,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+76,Rxa2,a3a2,2r5/4kp1p/6p1/3Pb3/p3P1P1/3N4/r1p1K2P/4RR2 w - - 0 39,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+77,Rec1,e1c1,2r5/4kp1p/6p1/3Pb3/p3P1P1/3N4/r1p1K2P/2R2R2 b - - 1 39,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+78,Bd6,e5d6,2r5/4kp1p/3b2p1/3P4/p3P1P1/3N4/r1p1K2P/2R2R2 w - - 2 40,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+79,Ke3,e2e3,2r5/4kp1p/3b2p1/3P4/p3P1P1/3NK3/r1p4P/2R2R2 b - - 3 40,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+80,Ra3,a2a3,2r5/4kp1p/3b2p1/3P4/p3P1P1/r2NK3/2p4P/2R2R2 w - - 4 41,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+81,Ke2,e3e2,2r5/4kp1p/3b2p1/3P4/p3P1P1/r2N4/2p1K2P/2R2R2 b - - 5 41,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+82,Rb3,a3b3,2r5/4kp1p/3b2p1/3P4/p3P1P1/1r1N4/2p1K2P/2R2R2 w - - 6 42,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+83,e5,e4e5,2r5/4kp1p/3b2p1/3PP3/p5P1/1r1N4/2p1K2P/2R2R2 b - - 0 42,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+84,Ba3,d6a3,2r5/4kp1p/6p1/3PP3/p5P1/br1N4/2p1K2P/2R2R2 w - - 1 43,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+85,Rca1,c1a1,2r5/4kp1p/6p1/3PP3/p5P1/br1N4/2p1K2P/R4R2 b - - 2 43,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+86,Rc4,c8c4,8/4kp1p/6p1/3PP3/p1r3P1/br1N4/2p1K2P/R4R2 w - - 3 44,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+87,d6+,d5d6,8/4kp1p/3P2p1/4P3/p1r3P1/br1N4/2p1K2P/R4R2 b - - 0 44,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+88,Ke8,e7e8,4k3/5p1p/3P2p1/4P3/p1r3P1/br1N4/2p1K2P/R4R2 w - - 1 45,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+89,d7+,d6d7,4k3/3P1p1p/6p1/4P3/p1r3P1/br1N4/2p1K2P/R4R2 b - - 0 45,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+90,Kxd7,e8d7,8/3k1p1p/6p1/4P3/p1r3P1/br1N4/2p1K2P/R4R2 w - - 0 46,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+91,Rxf7+,f1f7,8/3k1R1p/6p1/4P3/p1r3P1/br1N4/2p1K2P/R7 b - - 0 46,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+92,Ke6,d7e6,8/5R1p/4k1p1/4P3/p1r3P1/br1N4/2p1K2P/R7 w - - 1 47,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6
+93,Rf6+,f7f6,8/7p/4kRp1/4P3/p1r3P1/br1N4/2p1K2P/R7 b - - 2 47,White resigned. overlooked 47...Kd5 48. Rf7 c1=N+ 49. Nxc1 Bxc1 50. e6 Rb2+ 51. Kf1 Kxe6

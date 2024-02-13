@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This game is a typical QGD. There is a lot of position play. Both players have strong bishops. White however goes down two pawns early. Is that enough for black to win? Lets find out
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I think ...e6 is widely regarded as black most solid reply to Queens Gambit. However, dxc4 is completely playable. ...Dxc4 does lead to more open and attacking lines."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"I think ...e6 is widely regarded as black most solid reply to Queens Gambit. However, dxc4 is completely playable. ...Dxc4 does lead to more open and attacking lines."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"I think ...e6 is widely regarded as black most solid reply to Queens Gambit. However, dxc4 is completely playable. ...Dxc4 does lead to more open and attacking lines."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,this is a bit inferior to Be7. The point of ...Be7 is that it discourages white from playing Bg5.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,this is a bit inferior to Be7. The point of ...Be7 is that it discourages white from playing Bg5.
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,intending to meet Bxf6 with Nxf6 to perceive the pawn structure.
+8,Nbd7,b8d7,r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,intending to meet Bxf6 with Nxf6 to perceive the pawn structure.
+9,cxd5,c4d5,r1bqkb1r/pppn1ppp/4pn2/3P2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5,This releases the tension in the centre. This move was a favorite of WC Petrosian.
+10,exd5,e6d5,r1bqkb1r/pppn1ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6,The queens gambit declined normal defense. This defense has become very popular lately.
+11,e3,e2e3,r1bqkb1r/pppn1ppp/5n2/3p2B1/3P4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 6,The queens gambit declined normal defense. This defense has become very popular lately.
+12,c6,c7c6,r1bqkb1r/pp1n1ppp/2p2n2/3p2B1/3P4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 7,The queens gambit declined normal defense. This defense has become very popular lately.
+13,Bd3,f1d3,r1bqkb1r/pp1n1ppp/2p2n2/3p2B1/3P4/2NBP3/PP3PPP/R2QK1NR b KQkq - 1 7,A natural square for the bishop it controls e4 and aims at the weak h7 square. The Bishop is well placed here.
+14,Be7,f8e7,r1bqk2r/pp1nbppp/2p2n2/3p2B1/3P4/2NBP3/PP3PPP/R2QK1NR w KQkq - 2 8,Black opts for the solid Be7 instead of the opportunistic Bb4. ...A6 is also playable
+15,Qc2,d1c2,r1bqk2r/pp1nbppp/2p2n2/3p2B1/3P4/2NBP3/PPQ2PPP/R3K1NR b KQkq - 3 8,adds to the control of e4 and pressures h7.  For white the critical squares are e4 and e5. For Black they are d5 and c4.
+16,h6,h7h6,r1bqk2r/pp1nbpp1/2p2n1p/3p2B1/3P4/2NBP3/PPQ2PPP/R3K1NR w KQkq - 0 9,"This creates a weakness at g6 but it is better than allowing white to capture on h7. 
+
+see this link for an example: http://gameknot.com/chess.pl?bd=8118505"
+17,Bh4,g5h4,r1bqk2r/pp1nbpp1/2p2n1p/3p4/3P3B/2NBP3/PPQ2PPP/R3K1NR b KQkq - 1 9,on route to d6 and allows black to develop the light bishop.
+18,Nb6,d7b6,r1bqk2r/pp2bpp1/1np2n1p/3p4/3P3B/2NBP3/PPQ2PPP/R3K1NR w KQkq - 2 10,on route to d6 and allows black to develop the light bishop.
+19,Nf3,g1f3,r1bqk2r/pp2bpp1/1np2n1p/3p4/3P3B/2NBPN2/PPQ2PPP/R3K2R b KQkq - 3 10,prepares for Nc4 and developing the bishop.
+20,Be6,c8e6,r2qk2r/pp2bpp1/1np1bn1p/3p4/3P3B/2NBPN2/PPQ2PPP/R3K2R w KQkq - 4 11,prepares for Nc4 and developing the bishop.
+21,a4,a2a4,r2qk2r/pp2bpp1/1np1bn1p/3p4/P2P3B/2NBPN2/1PQ2PPP/R3K2R b KQkq - 0 11,this creates an unnecessary weakness on the queen side.
+22,Nc4,b6c4,r2qk2r/pp2bpp1/2p1bn1p/3p4/P1nP3B/2NBPN2/1PQ2PPP/R3K2R w KQkq - 1 12,booting the knight out of c4. White can also play Bxc4 with a good game. The text move has the disadvantage of creating a backward B pawn. I would prefer Bxc4.
+23,b3,b2b3,r2qk2r/pp2bpp1/2p1bn1p/3p4/P1nP3B/1PNBPN2/2Q2PPP/R3K2R b KQkq - 0 12,booting the knight out of c4. White can also play Bxc4 with a good game. The text move has the disadvantage of creating a backward B pawn. I would prefer Bxc4.
+24,Nd6,c4d6,r2qk2r/pp2bpp1/2pnbn1p/3p4/P2P3B/1PNBPN2/2Q2PPP/R3K2R w KQkq - 1 13,From here the knight gaurds e4 and waits for an opportunity to jump back to c4.
+25,a5,a4a5,r2qk2r/pp2bpp1/2pnbn1p/P2p4/3P3B/1PNBPN2/2Q2PPP/R3K2R b KQkq - 0 13,I wonder if this is a testing move by white. This move cramps black on the queen side but the pawn is over extended and in need to protection.
+26,O-O,e8g8,r2q1rk1/pp2bpp1/2pnbn1p/P2p4/3P3B/1PNBPN2/2Q2PPP/R3K2R w KQ - 1 14,I am in no hurry to open the position up before I am completely developed. Right now I am a little cramped but my position is very solid.
+27,Ne5,f3e5,r2q1rk1/pp2bpp1/2pnbn1p/P2pN3/3P3B/1PNBP3/2Q2PPP/R3K2R b KQ - 2 14,a good central post for the knight. This makes going back to c4 with my knight a lot harder.
+28,Rc8,a8c8,2rq1rk1/pp2bpp1/2pnbn1p/P2pN3/3P3B/1PNBP3/2Q2PPP/R3K2R w KQ - 3 15,preparing for the freeing c5 break which undermines the E5 Knight.
+29,b4,b3b4,2rq1rk1/pp2bpp1/2pnbn1p/P2pN3/1P1P3B/2NBP3/2Q2PPP/R3K2R b KQ - 0 15,attempting to prevent c5 but creates a hole on c4.

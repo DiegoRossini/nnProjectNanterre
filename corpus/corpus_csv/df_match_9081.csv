@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Pirc setup
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pirc setup
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/3p4/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Pirc setup
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Pirc setup
+5,d3,d2d3,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 0 3,Pirc setup
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/4P3/2NP4/PPP2PPP/R1BQKBNR w KQkq - 0 4,Pirc setup
+7,Nf3,g1f3,rnbqkb1r/ppp1pp1p/3p1np1/8/4P3/2NP1N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,Pirc setup
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/4P3/2NP1N2/PPP2PPP/R1BQKB1R w KQkq - 2 5,Pirc setup
+9,Ng5,f3g5,rnbqk2r/ppp1ppbp/3p1np1/6N1/4P3/2NP4/PPP2PPP/R1BQKB1R b KQkq - 3 5,Pirc setup
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/6N1/4P3/2NP4/PPP2PPP/R1BQKB1R w KQ - 4 6,Pirc setup
+11,d4,d3d4,rnbq1rk1/ppp1ppbp/3p1np1/6N1/3PP3/2N5/PPP2PPP/R1BQKB1R b KQ - 0 6,finally able to move
+12,e5,e7e5,rnbq1rk1/ppp2pbp/3p1np1/4p1N1/3PP3/2N5/PPP2PPP/R1BQKB1R w KQ - 0 7,finally able to move
+13,dxe5,d4e5,rnbq1rk1/ppp2pbp/3p1np1/4P1N1/4P3/2N5/PPP2PPP/R1BQKB1R b KQ - 0 7,finally able to move
+14,dxe5,d6e5,rnbq1rk1/ppp2pbp/5np1/4p1N1/4P3/2N5/PPP2PPP/R1BQKB1R w KQ - 0 8,finally able to move
+15,Bd3,f1d3,rnbq1rk1/ppp2pbp/5np1/4p1N1/4P3/2NB4/PPP2PPP/R1BQK2R b KQ - 1 8,finally able to move
+16,Nc6,b8c6,r1bq1rk1/ppp2pbp/2n2np1/4p1N1/4P3/2NB4/PPP2PPP/R1BQK2R w KQ - 2 9,finally able to move
+17,O-O,e1g1,r1bq1rk1/ppp2pbp/2n2np1/4p1N1/4P3/2NB4/PPP2PPP/R1BQ1RK1 b - - 3 9,finally able to move
+18,Nd4,c6d4,r1bq1rk1/ppp2pbp/5np1/4p1N1/3nP3/2NB4/PPP2PPP/R1BQ1RK1 w - - 4 10,finally able to move
+19,Be3,c1e3,r1bq1rk1/ppp2pbp/5np1/4p1N1/3nP3/2NBB3/PPP2PPP/R2Q1RK1 b - - 5 10,finally able to move
+20,c5,c7c5,r1bq1rk1/pp3pbp/5np1/2p1p1N1/3nP3/2NBB3/PPP2PPP/R2Q1RK1 w - - 0 11,finally able to move
+21,Bc4,d3c4,r1bq1rk1/pp3pbp/5np1/2p1p1N1/2BnP3/2N1B3/PPP2PPP/R2Q1RK1 b - - 1 11,finally able to move
+22,Be6,c8e6,r2q1rk1/pp3pbp/4bnp1/2p1p1N1/2BnP3/2N1B3/PPP2PPP/R2Q1RK1 w - - 2 12,finally able to move
+23,Qd3,d1d3,r2q1rk1/pp3pbp/4bnp1/2p1p1N1/2BnP3/2NQB3/PPP2PPP/R4RK1 b - - 3 12,finally able to move
+24,Bxc4,e6c4,r2q1rk1/pp3pbp/5np1/2p1p1N1/2bnP3/2NQB3/PPP2PPP/R4RK1 w - - 0 13,finally able to move
+25,Qxc4,d3c4,r2q1rk1/pp3pbp/5np1/2p1p1N1/2QnP3/2N1B3/PPP2PPP/R4RK1 b - - 0 13,finally able to move
+26,b6,b7b6,r2q1rk1/p4pbp/1p3np1/2p1p1N1/2QnP3/2N1B3/PPP2PPP/R4RK1 w - - 0 14,finally able to move
+27,Rad1,a1d1,r2q1rk1/p4pbp/1p3np1/2p1p1N1/2QnP3/2N1B3/PPP2PPP/3R1RK1 b - - 1 14,finally able to move
+28,Nh5,f6h5,r2q1rk1/p4pbp/1p4p1/2p1p1Nn/2QnP3/2N1B3/PPP2PPP/3R1RK1 w - - 2 15,finally able to move
+29,b4,b2b4,r2q1rk1/p4pbp/1p4p1/2p1p1Nn/1PQnP3/2N1B3/P1P2PPP/3R1RK1 b - - 0 15,finally able to move
+30,Nf4,h5f4,r2q1rk1/p4pbp/1p4p1/2p1p1N1/1PQnPn2/2N1B3/P1P2PPP/3R1RK1 w - - 1 16,finally able to move
+31,Bxf4,e3f4,r2q1rk1/p4pbp/1p4p1/2p1p1N1/1PQnPB2/2N5/P1P2PPP/3R1RK1 b - - 0 16,finally able to move
+32,exf4,e5f4,r2q1rk1/p4pbp/1p4p1/2p3N1/1PQnPp2/2N5/P1P2PPP/3R1RK1 w - - 0 17,finally able to move
+33,bxc5,b4c5,r2q1rk1/p4pbp/1p4p1/2P3N1/2QnPp2/2N5/P1P2PPP/3R1RK1 b - - 0 17,finally able to move
+34,bxc5,b6c5,r2q1rk1/p4pbp/6p1/2p3N1/2QnPp2/2N5/P1P2PPP/3R1RK1 w - - 0 18,finally able to move
+35,Qxc5,c4c5,r2q1rk1/p4pbp/6p1/2Q3N1/3nPp2/2N5/P1P2PPP/3R1RK1 b - - 0 18,finally able to move
+36,Qf6,d8f6,r4rk1/p4pbp/5qp1/2Q3N1/3nPp2/2N5/P1P2PPP/3R1RK1 w - - 1 19,finally able to move
+37,Qd5,c5d5,r4rk1/p4pbp/5qp1/3Q2N1/3nPp2/2N5/P1P2PPP/3R1RK1 b - - 2 19,finally able to move
+38,Nxc2,d4c2,r4rk1/p4pbp/5qp1/3Q2N1/4Pp2/2N5/P1n2PPP/3R1RK1 w - - 0 20,finally able to move
+39,Rd3,d1d3,r4rk1/p4pbp/5qp1/3Q2N1/4Pp2/2NR4/P1n2PPP/5RK1 b - - 1 20,wants to exchange queens for an endgame with a piece up
+40,Rad8,a8d8,3r1rk1/p4pbp/5qp1/3Q2N1/4Pp2/2NR4/P1n2PPP/5RK1 w - - 2 21,wants to exchange queens for an endgame with a piece up
+41,Qc4,d5c4,3r1rk1/p4pbp/5qp1/6N1/2Q1Pp2/2NR4/P1n2PPP/5RK1 b - - 3 21,wants to exchange queens for an endgame with a piece up
+42,Rxd3,d8d3,5rk1/p4pbp/5qp1/6N1/2Q1Pp2/2Nr4/P1n2PPP/5RK1 w - - 0 22,wants to exchange queens for an endgame with a piece up
+43,Qxd3,c4d3,5rk1/p4pbp/5qp1/6N1/4Pp2/2NQ4/P1n2PPP/5RK1 b - - 0 22,wants to exchange queens for an endgame with a piece up
+44,Qxc3,f6c3,5rk1/p4pbp/6p1/6N1/4Pp2/2qQ4/P1n2PPP/5RK1 w - - 0 23,wants to exchange queens for an endgame with a piece up
+45,Qxc3,d3c3,5rk1/p4pbp/6p1/6N1/4Pp2/2Q5/P1n2PPP/5RK1 b - - 0 23,"material equality,however position wise,black have the advantage.In addition, comes a fork"
+46,Bxc3,g7c3,5rk1/p4p1p/6p1/6N1/4Pp2/2b5/P1n2PPP/5RK1 w - - 0 24,"material equality,however position wise,black have the advantage.In addition, comes a fork"
+47,Rc1,f1c1,5rk1/p4p1p/6p1/6N1/4Pp2/2b5/P1n2PPP/2R3K1 b - - 1 24,"material equality,however position wise,black have the advantage.In addition, comes a fork"
+48,Nd4,c2d4,5rk1/p4p1p/6p1/6N1/3nPp2/2b5/P4PPP/2R3K1 w - - 2 25,"material equality,however position wise,black have the advantage.In addition, comes a fork"
+49,Rxc3,c1c3,5rk1/p4p1p/6p1/6N1/3nPp2/2R5/P4PPP/6K1 b - - 0 25,"material equality,however position wise,black have the advantage.In addition, comes a fork"
+50,Ne2+,d4e2,5rk1/p4p1p/6p1/6N1/4Pp2/2R5/P3nPPP/6K1 w - - 1 26,fork and gains the rook
+51,Kh1,g1h1,5rk1/p4p1p/6p1/6N1/4Pp2/2R5/P3nPPP/7K b - - 2 26,white resign.No way of stopping the black a pawn
+52,Nxc3,e2c3,5rk1/p4p1p/6p1/6N1/4Pp2/2n5/P4PPP/7K w - - 0 27,white resign.No way of stopping the black a pawn
+53,h4,h2h4,5rk1/p4p1p/6p1/6N1/4Pp1P/2n5/P4PP1/7K b - - 0 27,white resign.No way of stopping the black a pawn
+54,Nxa2,c3a2,5rk1/p4p1p/6p1/6N1/4Pp1P/8/n4PP1/7K w - - 0 28,white resign.No way of stopping the black a pawn
+55,g4,g2g4,5rk1/p4p1p/6p1/6N1/4PpPP/8/n4P2/7K b - g3 0 28,white resign.No way of stopping the black a pawn
+56,a5,a7a5,5rk1/5p1p/6p1/p5N1/4PpPP/8/n4P2/7K w - - 0 29,white resign.No way of stopping the black a pawn

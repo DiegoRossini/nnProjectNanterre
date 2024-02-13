@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Centre game
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Centre game
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Centre game
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,This is called Berger variation in the database
+5,Qxd4,d1d4,rnbqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,This is called Berger variation in the database
+6,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,This is called Berger variation in the database
+7,Qe3,d4e3,r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq - 2 4,This is called Berger variation in the database
+8,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/8/4P3/4Q3/PPP2PPP/RNB1KBNR w KQkq - 3 5,This is called Berger variation in the database
+9,Be2,f1e2,r1bqkb1r/pppp1ppp/2n2n2/8/4P3/4Q3/PPP1BPPP/RNB1K1NR b KQkq - 4 5,"Knight development looks more natural here, and indeed Nc3 is the most often continuation"
+10,Be7,f8e7,r1bqk2r/ppppbppp/2n2n2/8/4P3/4Q3/PPP1BPPP/RNB1K1NR w KQkq - 5 6,"Preparing d4 - Be7 breaks the pin and avoids 7. exd5+, which loses Black's knight"
+11,g4,g2g4,r1bqk2r/ppppbppp/2n2n2/8/4P1P1/4Q3/PPP1BP1P/RNB1K1NR b KQkq - 0 6,Now that is an aggressive start of a Kingside attack. Let's see if the attack is powerful enough to compensate White's weakened kingside.
+12,d5,d7d5,r1bqk2r/ppp1bppp/2n2n2/3p4/4P1P1/4Q3/PPP1BP1P/RNB1K1NR w KQkq - 0 7,Protects e4
+13,f3,f2f3,r1bqk2r/ppp1bppp/2n2n2/3p4/4P1P1/4QP2/PPP1B2P/RNB1K1NR b KQkq - 0 7,Protects e4
+14,O-O,e8g8,r1bq1rk1/ppp1bppp/2n2n2/3p4/4P1P1/4QP2/PPP1B2P/RNB1K1NR w KQ - 1 8,I decided to castle right into the upcoming pawn storm..
+15,g5,g4g5,r1bq1rk1/ppp1bppp/2n2n2/3p2P1/4P3/4QP2/PPP1B2P/RNB1K1NR b KQ - 0 8,..which continues promptly
+16,Nh5,f6h5,r1bq1rk1/ppp1bppp/2n5/3p2Pn/4P3/4QP2/PPP1B2P/RNB1K1NR w KQ - 1 9,"If he does not want my pawn, I am okay keeping it for my own micro-storm. I think that White has made a mistake by not taking this pawn earlier, because it will cause problems later on."
+17,f4,f3f4,r1bq1rk1/ppp1bppp/2n5/3p2Pn/4PP2/4Q3/PPP1B2P/RNB1K1NR b KQ - 0 9,"If he does not want my pawn, I am okay keeping it for my own micro-storm. I think that White has made a mistake by not taking this pawn earlier, because it will cause problems later on."
+18,d4,d5d4,r1bq1rk1/ppp1bppp/2n5/6Pn/3pPP2/4Q3/PPP1B2P/RNB1K1NR w KQ - 0 10,"If he does not want my pawn, I am okay keeping it for my own micro-storm. I think that White has made a mistake by not taking this pawn earlier, because it will cause problems later on."
+19,Qd2,e3d2,r1bq1rk1/ppp1bppp/2n5/6Pn/3pPP2/8/PPPQB2P/RNB1K1NR b KQ - 1 10,This is a mistake that I did not take advantage of. Better was 10. Qf3.
+20,g6,g7g6,r1bq1rk1/ppp1bp1p/2n3p1/6Pn/3pPP2/8/PPPQB2P/RNB1K1NR w KQ - 0 11,10. ..Bb4+ 11. c3 dxc3 12. Nxf3 g6 would probably lead to a more balanced position. The line played here led to Black's dark-squared Bishop being locked.
+21,Bxh5,e2h5,r1bq1rk1/ppp1bp1p/2n3p1/6PB/3pPP2/8/PPPQ3P/RNB1K1NR b KQ - 0 11,Now I have a strong spy in White's kingside
+22,gxh5,g6h5,r1bq1rk1/ppp1bp1p/2n5/6Pp/3pPP2/8/PPPQ3P/RNB1K1NR w KQ - 0 12,Now I have a strong spy in White's kingside
+23,h4,h2h4,r1bq1rk1/ppp1bp1p/2n5/6Pp/3pPP1P/8/PPPQ4/RNB1K1NR b KQ - 0 12,Now I have a strong spy in White's kingside
+24,Bg4,c8g4,r2q1rk1/ppp1bp1p/2n5/6Pp/3pPPbP/8/PPPQ4/RNB1K1NR w KQ - 1 13,Now I have a strong spy in White's kingside
+25,Qf2,d2f2,r2q1rk1/ppp1bp1p/2n5/6Pp/3pPPbP/8/PPP2Q2/RNB1K1NR b KQ - 2 13,"Now White wants to develop Queenside and castle, so he frees way for his dark-squared bishop"
+26,Bb4+,e7b4,r2q1rk1/ppp2p1p/2n5/6Pp/1b1pPPbP/8/PPP2Q2/RNB1K1NR w KQ - 3 14,I do not see why he avoids taking this pawn
+27,Bd2,c1d2,r2q1rk1/ppp2p1p/2n5/6Pp/1b1pPPbP/8/PPPB1Q2/RN2K1NR b KQ - 4 14,I do not see why he avoids taking this pawn
+28,Re8,f8e8,r2qr1k1/ppp2p1p/2n5/6Pp/1b1pPPbP/8/PPPB1Q2/RN2K1NR w KQ - 5 15,I do not see why he avoids taking this pawn
+29,e5,e4e5,r2qr1k1/ppp2p1p/2n5/4P1Pp/1b1p1PbP/8/PPPB1Q2/RN2K1NR b KQ - 0 15,I do not see why he avoids taking this pawn
+30,Qd5,d8d5,r3r1k1/ppp2p1p/2n5/3qP1Pp/1b1p1PbP/8/PPPB1Q2/RN2K1NR w KQ - 1 16,I do not see why he avoids taking this pawn
+31,Rh2,h1h2,r3r1k1/ppp2p1p/2n5/3qP1Pp/1b1p1PbP/8/PPPB1Q1R/RN2K1N1 b Q - 2 16,I do not see why he avoids taking this pawn
+32,d3,d4d3,r3r1k1/ppp2p1p/2n5/3qP1Pp/1b3PbP/3p4/PPPB1Q1R/RN2K1N1 w Q - 0 17,I do not see why he avoids taking this pawn
+33,c3,c2c3,r3r1k1/ppp2p1p/2n5/3qP1Pp/1b3PbP/2Pp4/PP1B1Q1R/RN2K1N1 b Q - 0 17,I do not see why he avoids taking this pawn
+34,Qe4+,d5e4,r3r1k1/ppp2p1p/2n5/4P1Pp/1b2qPbP/2Pp4/PP1B1Q1R/RN2K1N1 w Q - 1 18,A proposal to exchange the Queens
+35,Qe3,f2e3,r3r1k1/ppp2p1p/2n5/4P1Pp/1b2qPbP/2PpQ3/PP1B3R/RN2K1N1 b Q - 2 18,...accepted. But better was probably Be3
+36,Qxe3+,e4e3,r3r1k1/ppp2p1p/2n5/4P1Pp/1b3PbP/2Ppq3/PP1B3R/RN2K1N1 w Q - 0 19,Now Black's dark-squared bishop is forced back
+37,Bxe3,d2e3,r3r1k1/ppp2p1p/2n5/4P1Pp/1b3PbP/2PpB3/PP5R/RN2K1N1 b Q - 0 19,Now Black's dark-squared bishop is forced back
+38,Be7,b4e7,r3r1k1/ppp1bp1p/2n5/4P1Pp/5PbP/2PpB3/PP5R/RN2K1N1 w Q - 1 20,Now Black's dark-squared bishop is forced back
+39,Nd2,b1d2,r3r1k1/ppp1bp1p/2n5/4P1Pp/5PbP/2PpB3/PP1N3R/R3K1N1 b Q - 2 20,White's development is finally complete
+40,Rad8,a8d8,3rr1k1/ppp1bp1p/2n5/4P1Pp/5PbP/2PpB3/PP1N3R/R3K1N1 w Q - 3 21,But he does not want to castle
+41,b4,b2b4,3rr1k1/ppp1bp1p/2n5/4P1Pp/1P3PbP/2PpB3/P2N3R/R3K1N1 b Q - 0 21,But he does not want to castle
+42,a6,a7a6,3rr1k1/1pp1bp1p/p1n5/4P1Pp/1P3PbP/2PpB3/P2N3R/R3K1N1 w Q - 0 22,"Prevents b5, because it would cause Black's Knight escape to b8"

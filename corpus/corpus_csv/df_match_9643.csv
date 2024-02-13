@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+6,c6,c7c6,rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,"Not sure what you had in mind here, but this is only good if your plan was to follow it up with ...d5. Your priority should be to develop your pieces, so ...Bf5 and ...Nc6 are the best moves."
+7,f4,f2f4,rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1PP2/3P4/PPP3PP/RNBQK1NR b KQkq - 0 4,"Already we can see the problems caused by 3...c6:
+
+1. The e-pawn can no longer be protected by playing ...Nc6.
+2. If you play the natural ...d6, the bishop on f8 is blocked in.
+
+The move you have selected means that the other bishop is now blocked in and more time-consuming pawn moves will be required to free it. On the plus side, you are threatening to win a pawn."
+8,Bd6,f8d6,rnbqk2r/pp1p1ppp/2pb1n2/4p3/2B1PP2/3P4/PPP3PP/RNBQK1NR w KQkq - 1 5,"Already we can see the problems caused by 3...c6:
+
+1. The e-pawn can no longer be protected by playing ...Nc6.
+2. If you play the natural ...d6, the bishop on f8 is blocked in.
+
+The move you have selected means that the other bishop is now blocked in and more time-consuming pawn moves will be required to free it. On the plus side, you are threatening to win a pawn."
+9,Nf3,g1f3,rnbqk2r/pp1p1ppp/2pb1n2/4p3/2B1PP2/3P1N2/PPP3PP/RNBQK2R b KQkq - 2 5,"Developing a piece to a good square and threatening to win a pawn, but ignoring the threat to his own pawn."
+10,Qe7,d8e7,rnb1k2r/pp1pqppp/2pb1n2/4p3/2B1PP2/3P1N2/PPP3PP/RNBQK2R w KQkq - 3 6,I guess you saw 5...exf4 6.e5 Qe7 7.Qe2.
+11,Ng5,f3g5,rnb1k2r/pp1pqppp/2pb1n2/4p1N1/2B1PP2/3P4/PPP3PP/RNBQK2R b KQkq - 4 6,Pointless - what will White do after 6.0-0?
+12,exf4,e5f4,rnb1k2r/pp1pqppp/2pb1n2/6N1/2B1Pp2/3P4/PPP3PP/RNBQK2R w KQkq - 0 7,You really should have castled.
+13,Bxf7+,c4f7,rnb1k2r/pp1pqBpp/2pb1n2/6N1/4Pp2/3P4/PPP3PP/RNBQK2R b KQkq - 0 7,"Not good - after 9...bxc4 10.Nxh8, the knight is trapped and Black has the advantage."
+14,Kf8,e8f8,rnb2k1r/pp1pqBpp/2pb1n2/6N1/4Pp2/3P4/PPP3PP/RNBQK2R w KQ - 1 8,"Not good - after 9...bxc4 10.Nxh8, the knight is trapped and Black has the advantage."
+15,Bc4,f7c4,rnb2k1r/pp1pq1pp/2pb1n2/6N1/2B1Pp2/3P4/PPP3PP/RNBQK2R b KQ - 2 8,"Not good - after 9...bxc4 10.Nxh8, the knight is trapped and Black has the advantage."
+16,b5,b7b5,rnb2k1r/p2pq1pp/2pb1n2/1p4N1/2B1Pp2/3P4/PPP3PP/RNBQK2R w KQ - 0 9,"Not good - after 9...bxc4 10.Nxh8, the knight is trapped and Black has the advantage."
+17,Nf7,g5f7,rnb2k1r/p2pqNpp/2pb1n2/1p6/2B1Pp2/3P4/PPP3PP/RNBQK2R b KQ - 1 9,"Not good - after 9...bxc4 10.Nxh8, the knight is trapped and Black has the advantage."
+18,Rg8,h8g8,rnb2kr1/p2pqNpp/2pb1n2/1p6/2B1Pp2/3P4/PPP3PP/RNBQK2R w KQ - 2 10,9...bxc4 gives Black the advantage.
+19,Nxd6,f7d6,rnb2kr1/p2pq1pp/2pN1n2/1p6/2B1Pp2/3P4/PPP3PP/RNBQK2R b KQ - 0 10,"White has won the exchange, but Black has the better development, so the game isn't over yet."
+20,Qxd6,e7d6,rnb2kr1/p2p2pp/2pq1n2/1p6/2B1Pp2/3P4/PPP3PP/RNBQK2R w KQ - 0 11,"White has won the exchange, but Black has the better development, so the game isn't over yet."
+21,Bxg8,c4g8,rnb2kB1/p2p2pp/2pq1n2/1p6/4Pp2/3P4/PPP3PP/RNBQK2R b KQ - 0 11,"White has won the exchange, but Black has the better development, so the game isn't over yet."
+22,Kxg8,f8g8,rnb3k1/p2p2pp/2pq1n2/1p6/4Pp2/3P4/PPP3PP/RNBQK2R w KQ - 0 12,"White has won the exchange, but Black has the better development, so the game isn't over yet."
+23,Qf3,d1f3,rnb3k1/p2p2pp/2pq1n2/1p6/4Pp2/3P1Q2/PPP3PP/RNB1K2R b KQ - 1 12,"Unfortunately, it's not easy (because of previous moves) for Black to complete his development quickly and effectively. So although this move doesn't actually develop a piece it was probably the best available since it hinders White's development (although at the expense of a pawn)."
+24,Qd4,d6d4,rnb3k1/p2p2pp/2p2n2/1p6/3qPp2/3P1Q2/PPP3PP/RNB1K2R w KQ - 2 13,"Unfortunately, it's not easy (because of previous moves) for Black to complete his development quickly and effectively. So although this move doesn't actually develop a piece it was probably the best available since it hinders White's development (although at the expense of a pawn)."
+25,Qxf4,f3f4,rnb3k1/p2p2pp/2p2n2/1p6/3qPQ2/3P4/PPP3PP/RNB1K2R b KQ - 0 13,Freeing both bishop and knight - good.
+26,d5,d7d5,rnb3k1/p5pp/2p2n2/1p1p4/3qPQ2/3P4/PPP3PP/RNB1K2R w KQ - 0 14,Freeing both bishop and knight - good.
+27,c3,c2c3,rnb3k1/p5pp/2p2n2/1p1p4/3qPQ2/2PP4/PP4PP/RNB1K2R b KQ - 0 14,A horrible move - why not Nc3?
+28,Qxd3,d4d3,rnb3k1/p5pp/2p2n2/1p1p4/4PQ2/2Pq4/PP4PP/RNB1K2R w KQ - 0 15,Threatening 16.e5 with 17.exf6 or mate to follow.
+29,Rf1,h1f1,rnb3k1/p5pp/2p2n2/1p1p4/4PQ2/2Pq4/PP4PP/RNB1KR2 b Q - 1 15,Threatening 16.e5 with 17.exf6 or mate to follow.
+30,Bg4,c8g4,rn4k1/p5pp/2p2n2/1p1p4/4PQb1/2Pq4/PP4PP/RNB1KR2 w Q - 2 16,Well found! But if White had played Nc3 he would be protecting those white squares around his king.
+31,Qd2,f4d2,rn4k1/p5pp/2p2n2/1p1p4/4P1b1/2Pq4/PP1Q2PP/RNB1KR2 b Q - 3 16,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+32,Qxe4+,d3e4,rn4k1/p5pp/2p2n2/1p1p4/4q1b1/2P5/PP1Q2PP/RNB1KR2 w Q - 0 17,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+33,Qe3,d2e3,rn4k1/p5pp/2p2n2/1p1p4/4q1b1/2P1Q3/PP4PP/RNB1KR2 b Q - 1 17,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+34,Qc2,e4c2,rn4k1/p5pp/2p2n2/1p1p4/6b1/2P1Q3/PPq3PP/RNB1KR2 w Q - 2 18,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+35,h3,h2h3,rn4k1/p5pp/2p2n2/1p1p4/6b1/2P1Q2P/PPq3P1/RNB1KR2 b Q - 0 18,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+36,Bh5,g4h5,rn4k1/p5pp/2p2n2/1p1p3b/8/2P1Q2P/PPq3P1/RNB1KR2 w Q - 1 19,"You should have noticed that White's king and queen were on the same file, so 18...Nbd7 19.hxg4 Re8 was an option here."
+37,Qe6+,e3e6,rn4k1/p5pp/2p1Qn2/1p1p3b/8/2P4P/PPq3P1/RNB1KR2 b Q - 2 19,A rather rash decision! There is no way that White can win with only one developed piece.
+38,Kh8,g8h8,rn5k/p5pp/2p1Qn2/1p1p3b/8/2P4P/PPq3P1/RNB1KR2 w Q - 3 20,A rather rash decision! There is no way that White can win with only one developed piece.
+39,Rxf6,f1f6,rn5k/p5pp/2p1QR2/1p1p3b/8/2P4P/PPq3P1/RNB1K3 b Q - 0 20,A rather rash decision! There is no way that White can win with only one developed piece.
+40,Qd1+,c2d1,rn5k/p5pp/2p1QR2/1p1p3b/8/2P4P/PP4P1/RNBqK3 w Q - 1 21,Either 20...Qxc1 or 20...Nd7 wins the game for Black. 20...gxf6 would probably be good enough for a draw.
+41,Kf2,e1f2,rn5k/p5pp/2p1QR2/1p1p3b/8/2P4P/PP3KP1/RNBq4 b - - 2 21,Black can still hold the game with ...Nd7.
+42,gxf6,g7f6,rn5k/p6p/2p1Qp2/1p1p3b/8/2P4P/PP3KP1/RNBq4 w - - 0 22,Black can still hold the game with ...Nd7.
+43,Qxf6+,e6f6,rn5k/p6p/2p2Q2/1p1p3b/8/2P4P/PP3KP1/RNBq4 b - - 0 22,Game over.
+44,Kg8,h8g8,rn4k1/p6p/2p2Q2/1p1p3b/8/2P4P/PP3KP1/RNBq4 w - - 1 23,
+45,Bh6,c1h6,rn4k1/p6p/2p2Q1B/1p1p3b/8/2P4P/PP3KP1/RN1q4 b - - 2 23,
+46,Qc2+,d1c2,rn4k1/p6p/2p2Q1B/1p1p3b/8/2P4P/PPq2KP1/RN6 w - - 3 24,
+47,Kg1,f2g1,rn4k1/p6p/2p2Q1B/1p1p3b/8/2P4P/PPq3P1/RN4K1 b - - 4 24,
+48,Qg6,c2g6,rn4k1/p6p/2p2QqB/1p1p3b/8/2P4P/PP4P1/RN4K1 w - - 5 25,
+49,Qf8#,f6f8,rn3Qk1/p6p/2p3qB/1p1p3b/8/2P4P/PP4P1/RN4K1 b - - 6 25,

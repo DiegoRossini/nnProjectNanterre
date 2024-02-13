@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is a great game with immediate aggression from White, that once started could not be stopped. Only continued forced Check moves kept me alive.
+There were many places where the wrong aggressive play would have backfire into a Checkmate against me. 
+
+I thought I would try to understand the King gambit by playing it"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is a great game with immediate aggression from White, that once started could not be stopped. Only continued forced Check moves kept me alive.
+There were many places where the wrong aggressive play would have backfire into a Checkmate against me. 
+
+I thought I would try to understand the King gambit by playing it"
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"This is a great game with immediate aggression from White, that once started could not be stopped. Only continued forced Check moves kept me alive.
+There were many places where the wrong aggressive play would have backfire into a Checkmate against me. 
+
+I thought I would try to understand the King gambit by playing it"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3,"declined...OK, I'll just play it as if it was taken"
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 2 3,which is this move
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,maybe I'll sacrifice my bishop to eliminate his castle option
+7,Bc4,f1c4,r1bqkbnr/ppp2ppp/2np4/4p3/2B1PP2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4,maybe I'll sacrifice my bishop to eliminate his castle option
+8,Bg4,c8g4,r2qkbnr/ppp2ppp/2np4/4p3/2B1PPb1/5N2/PPPP2PP/RNBQK2R w KQkq - 2 5,but then what...
+9,c3,c2c3,r2qkbnr/ppp2ppp/2np4/4p3/2B1PPb1/2P2N2/PP1P2PP/RNBQK2R b KQkq - 0 5,"This will constrict my bishop, but my queen can keep pressure on"
+10,Nf6,g8f6,r2qkb1r/ppp2ppp/2np1n2/4p3/2B1PPb1/2P2N2/PP1P2PP/RNBQK2R w KQkq - 1 6,this doesn't change my plan
+11,Bxf7+,c4f7,r2qkb1r/ppp2Bpp/2np1n2/4p3/4PPb1/2P2N2/PP1P2PP/RNBQK2R b KQkq - 0 6,I went for it
+12,Kxf7,e8f7,r2q1b1r/ppp2kpp/2np1n2/4p3/4PPb1/2P2N2/PP1P2PP/RNBQK2R w KQ - 0 7,forced
+13,Qb3+,d1b3,r2q1b1r/ppp2kpp/2np1n2/4p3/4PPb1/1QP2N2/PP1P2PP/RNB1K2R b KQ - 1 7,as planned...
+14,d5,d6d5,r2q1b1r/ppp2kpp/2n2n2/3pp3/4PPb1/1QP2N2/PP1P2PP/RNB1K2R w KQ - 0 8,simple block
+15,Ng5+,f3g5,r2q1b1r/ppp2kpp/2n2n2/3pp1N1/4PPb1/1QP5/PP1P2PP/RNB1K2R b KQ - 1 8,Why not...
+16,Kg6,f7g6,r2q1b1r/ppp3pp/2n2nk1/3pp1N1/4PPb1/1QP5/PP1P2PP/RNB1K2R w KQ - 2 9,"Whoa...I expected a retreat.
+I took a couple of days to calculate the next move.
+
+Advancing the f pawn for check was enticing, hoping he would go to h5 for a triple fork.
+Even taking my knight COULD work out...
+
+That move would have been risky---I found several ways for this to backfire into a checkmate for myself.
+Bishop taking that pawn was would have been the best counter to that move, but other responses were shaky for me as well."
+17,d3,d2d3,r2q1b1r/ppp3pp/2n2nk1/3pp1N1/4PPb1/1QPP4/PP4PP/RNB1K2R b KQ - 0 9,"so, I'll just protect what I have so far...
+and having this bishop diagonal open is crucial in the long run"
+18,h6,h7h6,r2q1b1r/ppp3p1/2n2nkp/3pp1N1/4PPb1/1QPP4/PP4PP/RNB1K2R w KQ - 0 10,"OK, the knight has to move"
+19,f5+,f4f5,r2q1b1r/ppp3p1/2n2nkp/3ppPN1/4P1b1/1QPP4/PP4PP/RNB1K2R b KQ - 0 10,now his King can't take the knight
+20,Bxf5,g4f5,r2q1b1r/ppp3p1/2n2nkp/3ppbN1/4P3/1QPP4/PP4PP/RNB1K2R w KQ - 0 11,but there's that bishop
+21,exf5+,e4f5,r2q1b1r/ppp3p1/2n2nkp/3ppPN1/8/1QPP4/PP4PP/RNB1K2R b KQ - 0 11,"I had to take it. It isolates the pawn, but I can't castle with that bishop there and I won't do well against 2 bishops with this pawn structure"
+22,Kxf5,g6f5,r2q1b1r/ppp3p1/2n2n1p/3ppkN1/8/1QPP4/PP4PP/RNB1K2R w KQ - 0 12,"hmmm, if he had left that hanging pawn there, he probably would have taken it eventually..."
+23,Nf7,g5f7,r2q1b1r/ppp2Np1/2n2n1p/3ppk2/8/1QPP4/PP4PP/RNB1K2R b KQ - 1 12,"Now the fork is available
+I was worried that I was taking out a rook that might not threaten anytime soon.
+Would have been better off getting my pieces out?
+
+IF I can continue play, this play will be worth it"

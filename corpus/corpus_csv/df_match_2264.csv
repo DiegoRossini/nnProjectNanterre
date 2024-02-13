@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A blitz with a strong opponent that provided some hopes of a counterattack, maybe interesting."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Fine until here. Now black attacks.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Fine until here. Now black attacks.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,Fine until here. Now black attacks.
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,Fine until here. Now black attacks.
+6,Bg4,c8g4,r2qkbnr/ppp1pppp/2n5/3p4/3P1Bb1/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4,Fine until here. Now black attacks.
+7,Nbd2,b1d2,r2qkbnr/ppp1pppp/2n5/3p4/3P1Bb1/5N2/PPPNPPPP/R2QKB1R b KQkq - 5 4,Fine until here. Now black attacks.
+8,Nf6,g8f6,r2qkb1r/ppp1pppp/2n2n2/3p4/3P1Bb1/5N2/PPPNPPPP/R2QKB1R w KQkq - 6 5,Fine until here. Now black attacks.
+9,e3,e2e3,r2qkb1r/ppp1pppp/2n2n2/3p4/3P1Bb1/4PN2/PPPN1PPP/R2QKB1R b KQkq - 0 5,Fine until here. Now black attacks.
+10,Nh5,f6h5,r2qkb1r/ppp1pppp/2n5/3p3n/3P1Bb1/4PN2/PPPN1PPP/R2QKB1R w KQkq - 1 6,Fine until here. Now black attacks.
+11,h3,h2h3,r2qkb1r/ppp1pppp/2n5/3p3n/3P1Bb1/4PN1P/PPPN1PP1/R2QKB1R b KQkq - 0 6,"I found a way to avoid to lose plainly the dsb. I could have moved it to g3, so the exchange compensates me with the semiopen h column, but I tried this (for me) new idea."
+12,Bxf3,g4f3,r2qkb1r/ppp1pppp/2n5/3p3n/3P1B2/4Pb1P/PPPN1PP1/R2QKB1R w KQkq - 0 7,"Black is solid, but white is a little ahead in developement. Not that bad..."
+13,Qxf3,d1f3,r2qkb1r/ppp1pppp/2n5/3p3n/3P1B2/4PQ1P/PPPN1PP1/R3KB1R b KQkq - 0 7,"Black is solid, but white is a little ahead in developement. Not that bad..."
+14,Nxf4,h5f4,r2qkb1r/ppp1pppp/2n5/3p4/3P1n2/4PQ1P/PPPN1PP1/R3KB1R w KQkq - 0 8,"Black is solid, but white is a little ahead in developement. Not that bad..."
+15,Qxf4,f3f4,r2qkb1r/ppp1pppp/2n5/3p4/3P1Q2/4P2P/PPPN1PP1/R3KB1R b KQkq - 0 8,"Black is solid, but white is a little ahead in developement. Not that bad..."
+16,e6,e7e6,r2qkb1r/ppp2ppp/2n1p3/3p4/3P1Q2/4P2P/PPPN1PP1/R3KB1R w KQkq - 0 9,"Not really necessary, but not bad."
+17,Bb5,f1b5,r2qkb1r/ppp2ppp/2n1p3/1B1p4/3P1Q2/4P2P/PPPN1PP1/R3K2R b KQkq - 1 9,"Not really necessary, but not bad."
+18,Bd6,f8d6,r2qk2r/ppp2ppp/2nbp3/1B1p4/3P1Q2/4P2P/PPPN1PP1/R3K2R w KQkq - 2 10,"The queen must be careful, but has plenty of action on the naked kingside."
+19,Qg4,f4g4,r2qk2r/ppp2ppp/2nbp3/1B1p4/3P2Q1/4P2P/PPPN1PP1/R3K2R b KQkq - 3 10,"The queen must be careful, but has plenty of action on the naked kingside."
+20,O-O,e8g8,r2q1rk1/ppp2ppp/2nbp3/1B1p4/3P2Q1/4P2P/PPPN1PP1/R3K2R w KQ - 4 11,"Taking space and contesting a possible e5, but overseeing..."
+21,f4,f2f4,r2q1rk1/ppp2ppp/2nbp3/1B1p4/3P1PQ1/4P2P/PPPN2P1/R3K2R b KQ - 0 11,"Taking space and contesting a possible e5, but overseeing..."
+22,Nb4,c6b4,r2q1rk1/ppp2ppp/3bp3/1B1p4/1n1P1PQ1/4P2P/PPPN2P1/R3K2R w KQ - 1 12,! It is difficult for white to defend.
+23,Ba4,b5a4,r2q1rk1/ppp2ppp/3bp3/3p4/Bn1P1PQ1/4P2P/PPPN2P1/R3K2R b KQ - 2 12,"I tried the same trick than before, but it is not so good now."
+24,b5,b7b5,r2q1rk1/p1p2ppp/3bp3/1p1p4/Bn1P1PQ1/4P2P/PPPN2P1/R3K2R w KQ - 0 13,"I tried the same trick than before, but it is not so good now."
+25,Bb3,a4b3,r2q1rk1/p1p2ppp/3bp3/1p1p4/1n1P1PQ1/1B2P2P/PPPN2P1/R3K2R b KQ - 1 13,"I tried the same trick than before, but it is not so good now."
+26,a5,a7a5,r2q1rk1/2p2ppp/3bp3/pp1p4/1n1P1PQ1/1B2P2P/PPPN2P1/R3K2R w KQ - 0 14,"I tried the same trick than before, but it is not so good now."
+27,c3,c2c3,r2q1rk1/2p2ppp/3bp3/pp1p4/1n1P1PQ1/1BP1P2P/PP1N2P1/R3K2R b KQ - 0 14,"I lose a pawn, but solve my castling problem, and I have an open semicolumn to work with."
+28,Nd3+,b4d3,r2q1rk1/2p2ppp/3bp3/pp1p4/3P1PQ1/1BPnP2P/PP1N2P1/R3K2R w KQ - 1 15,"I lose a pawn, but solve my castling problem, and I have an open semicolumn to work with."
+29,Ke2,e1e2,r2q1rk1/2p2ppp/3bp3/pp1p4/3P1PQ1/1BPnP2P/PP1NK1P1/R6R b - - 2 15,"I lose a pawn, but solve my castling problem, and I have an open semicolumn to work with."
+30,Nxb2,d3b2,r2q1rk1/2p2ppp/3bp3/pp1p4/3P1PQ1/1BP1P2P/Pn1NK1P1/R6R w - - 0 16,"I lose a pawn, but solve my castling problem, and I have an open semicolumn to work with."
+31,Rab1,a1b1,r2q1rk1/2p2ppp/3bp3/pp1p4/3P1PQ1/1BP1P2P/Pn1NK1P1/1R5R b - - 1 16,"Nothing better for black, as forseen."
+32,Nc4,b2c4,r2q1rk1/2p2ppp/3bp3/pp1p4/2nP1PQ1/1BP1P2P/P2NK1P1/1R5R w - - 2 17,"Nothing better for black, as forseen."
+33,Nxc4,d2c4,r2q1rk1/2p2ppp/3bp3/pp1p4/2NP1PQ1/1BP1P2P/P3K1P1/1R5R b - - 0 17,"Now, my bishop's mobility is restricted, and a pawn storm is coming from the west... but hey, do I have something of my own to exploit?"
+34,dxc4,d5c4,r2q1rk1/2p2ppp/3bp3/pp6/2pP1PQ1/1BP1P2P/P3K1P1/1R5R w - - 0 18,"Now, my bishop's mobility is restricted, and a pawn storm is coming from the west... but hey, do I have something of my own to exploit?"
+35,Bc2,b3c2,r2q1rk1/2p2ppp/3bp3/pp6/2pP1PQ1/2P1P2P/P1B1K1P1/1R5R b - - 1 18,"Now, my bishop's mobility is restricted, and a pawn storm is coming from the west... but hey, do I have something of my own to exploit?"
+36,c6,c7c6,r2q1rk1/5ppp/2pbp3/pp6/2pP1PQ1/2P1P2P/P1B1K1P1/1R5R w - - 0 19,"Staring here, to provoke an advance that will favour me."
+37,Qh5,g4h5,r2q1rk1/5ppp/2pbp3/pp5Q/2pP1P2/2P1P2P/P1B1K1P1/1R5R b - - 1 19,"Staring here, to provoke an advance that will favour me."
+38,g6,g7g6,r2q1rk1/5p1p/2pbp1p1/pp5Q/2pP1P2/2P1P2P/P1B1K1P1/1R5R w - - 0 20,"Freeing the way for my h pawn, while threatening c6."
+39,Qf3,h5f3,r2q1rk1/5p1p/2pbp1p1/pp6/2pP1P2/2P1PQ1P/P1B1K1P1/1R5R b - - 1 20,"Freeing the way for my h pawn, while threatening c6."
+40,Qb6,d8b6,r4rk1/5p1p/1qpbp1p1/pp6/2pP1P2/2P1PQ1P/P1B1K1P1/1R5R w - - 2 21,The best square?
+41,h4,h3h4,r4rk1/5p1p/1qpbp1p1/pp6/2pP1P1P/2P1PQ2/P1B1K1P1/1R5R b - - 0 21,"Am I not worried about the storm? well... the best strategy, here, seems to be... not to lose time over there! :-)"
+42,b4,b5b4,r4rk1/5p1p/1qpbp1p1/p7/1ppP1P1P/2P1PQ2/P1B1K1P1/1R5R w - - 0 22,...of course.
+43,h5,h4h5,r4rk1/5p1p/1qpbp1p1/p6P/1ppP1P2/2P1PQ2/P1B1K1P1/1R5R b - - 0 22,...of course.
+44,c5,c6c5,r4rk1/5p1p/1q1bp1p1/p1p4P/1ppP1P2/2P1PQ2/P1B1K1P1/1R5R w - - 0 23,"The pawn is pinned to the queen, so I can even let it advance..."
+45,hxg6,h5g6,r4rk1/5p1p/1q1bp1P1/p1p5/1ppP1P2/2P1PQ2/P1B1K1P1/1R5R b - - 0 23,"...but here is not sunny, too..."
+46,fxg6,f7g6,r4rk1/7p/1q1bp1p1/p1p5/1ppP1P2/2P1PQ2/P1B1K1P1/1R5R w - - 0 24,Forking to good pawns.
+47,Qh3,f3h3,r4rk1/7p/1q1bp1p1/p1p5/1ppP1P2/2P1P2Q/P1B1K1P1/1R5R b - - 1 24,Forking to good pawns.

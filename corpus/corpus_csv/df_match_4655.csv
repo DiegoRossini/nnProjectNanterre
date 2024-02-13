@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,putting immediate pressure over white
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,putting immediate pressure over white
+4,d4,d5d4,rnbqkbnr/ppp1pppp/8/8/3pP3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,putting immediate pressure over white
+5,Nce2,c3e2,rnbqkbnr/ppp1pppp/8/8/3pP3/8/PPPPNPPP/R1BQKBNR b KQkq - 1 3,"to get the bishop on the main diagonal keeping pressure on the centre from the sides in fashion with the hyper-modern philosophy, overprotecting the pawn with c5 allows some tactics on the main diagonal latter on."
+6,g6,g7g6,rnbqkbnr/ppp1pp1p/6p1/8/3pP3/8/PPPPNPPP/R1BQKBNR w KQkq - 0 4,"to get the bishop on the main diagonal keeping pressure on the centre from the sides in fashion with the hyper-modern philosophy, overprotecting the pawn with c5 allows some tactics on the main diagonal latter on."
+7,b3,b2b3,rnbqkbnr/ppp1pp1p/6p1/8/3pP3/1P6/P1PPNPPP/R1BQKBNR b KQkq - 0 4,"counter-fianchetto usually king side fianchetto is more productive and correct, white may also try the extended fianchetto with Ba3 to profit from the lack of defence of e7"
+8,Bg7,f8g7,rnbqk1nr/ppp1ppbp/6p1/8/3pP3/1P6/P1PPNPPP/R1BQKBNR w KQkq - 1 5,"...not the extended fiancheto, the idea is just to oppose black's occupation of the main diagonal a1-h8"
+9,Bb2,c1b2,rnbqk1nr/ppp1ppbp/6p1/8/3pP3/1P6/PBPPNPPP/R2QKBNR b KQkq - 2 5,"...not the extended fiancheto, the idea is just to oppose black's occupation of the main diagonal a1-h8"
+10,c5,c7c5,rnbqk1nr/pp2ppbp/6p1/2p5/3pP3/1P6/PBPPNPPP/R2QKBNR w KQkq - 0 6,over-protection of the d pawn
+11,Nf4,e2f4,rnbqk1nr/pp2ppbp/6p1/2p5/3pPN2/1P6/PBPP1PPP/R2QKBNR b KQkq - 1 6,"now e5 would be an error as the knight would have a golden outpost in d5, d6 tp prevent Nd5 is also wrong as weakens the dark squares around the king's wing"
+12,Nf6,g8f6,rnbqk2r/pp2ppbp/5np1/2p5/3pPN2/1P6/PBPP1PPP/R2QKBNR w KQkq - 2 7,... so if Nd5 the Nxd5 picks a pawn for free
+13,Qf3,d1f3,rnbqk2r/pp2ppbp/5np1/2p5/3pPN2/1P3Q2/PBPP1PPP/R3KBNR b KQkq - 3 7,Defence of the pawn without the compromise of light squared bishop development
+14,Nc6,b8c6,r1bqk2r/pp2ppbp/2n2np1/2p5/3pPN2/1P3Q2/PBPP1PPP/R3KBNR w KQkq - 4 8,"prophylactic development against e5, maybe possible Ne5 also"
+15,Bb5,f1b5,r1bqk2r/pp2ppbp/2n2np1/1Bp5/3pPN2/1P3Q2/PBPP1PPP/R3K1NR b KQkq - 5 8,pins the knight
+16,Bd7,c8d7,r2qk2r/pp1bppbp/2n2np1/1Bp5/3pPN2/1P3Q2/PBPP1PPP/R3K1NR w KQkq - 6 9,again allowing both Ne5 and Nxe5 if needed
+17,c3,c2c3,r2qk2r/pp1bppbp/2n2np1/1Bp5/3pPN2/1PP2Q2/PB1P1PPP/R3K1NR b KQkq - 0 9,? aiming for cxd4 Nxd4 Bxd7 with simplification of the position?
+18,O-O,e8g8,r2q1rk1/pp1bppbp/2n2np1/1Bp5/3pPN2/1PP2Q2/PB1P1PPP/R3K1NR w KQ - 1 10,removing the king from the dangerous pin and proving that c3 is a bad idea
+19,Qd3,f3d3,r2q1rk1/pp1bppbp/2n2np1/1Bp5/3pPN2/1PPQ4/PB1P1PPP/R3K1NR b KQ - 2 10,? puts the queen in the wolf den
+20,g5,g6g5,r2q1rk1/pp1bppbp/2n2n2/1Bp3p1/3pPN2/1PPQ4/PB1P1PPP/R3K1NR w KQ - 0 11,forces the knight away from defence of d3 with the idea of playing d3 latter on
+21,Nfe2,f4e2,r2q1rk1/pp1bppbp/2n2n2/1Bp3p1/3pP3/1PPQ4/PB1PNPPP/R3K1NR b KQ - 1 11,"now wins the bishop with a discovered attack and by forcing the queen to move from the same diagonal:
+
+Qg3?? the queen is trapped and forcefully captured by Nxe4 as it has no safe escape squares
+Qc2 has Bxb5
+same as Qb1 Bxb5"
+22,Ne5,c6e5,r2q1rk1/pp1bppbp/5n2/1Bp1n1p1/3pP3/1PPQ4/PB1PNPPP/R3K1NR w KQ - 2 12,"now wins the bishop with a discovered attack and by forcing the queen to move from the same diagonal:
+
+Qg3?? the queen is trapped and forcefully captured by Nxe4 as it has no safe escape squares
+Qc2 has Bxb5
+same as Qb1 Bxb5"
+23,Qg3,d3g3,r2q1rk1/pp1bppbp/5n2/1Bp1n1p1/3pP3/1PP3Q1/PB1PNPPP/R3K1NR b KQ - 3 12,?? loses the queen to Nxe4
+24,Nxe4,f6e4,r2q1rk1/pp1bppbp/8/1Bp1n1p1/3pn3/1PP3Q1/PB1PNPPP/R3K1NR w KQ - 0 13,"trying to get more material for his queen white tries to put some more black pieces ""en prise"""
+25,cxd4,c3d4,r2q1rk1/pp1bppbp/8/1Bp1n1p1/3Pn3/1P4Q1/PB1PNPPP/R3K1NR b KQ - 0 13,"trying to get more material for his queen white tries to put some more black pieces ""en prise"""
+26,Nxg3,e4g3,r2q1rk1/pp1bppbp/8/1Bp1n1p1/3P4/1P4n1/PB1PNPPP/R3K1NR w KQ - 0 14,"now white has some choices to make, lets count to see the alternatives:
+a) Bxd7 loses the rook to Nxh1 but the Zwischenzug Nd3+ forks the king and bishop to win yet another piece a forced sequence after 14.Bxd7?? Nd3+ 15.Kd1 only move 15...Nxb2+ 16.K moves Nxh1 as the b2 knight is temporarily protected by the threat Bxd4 to skewer the rook 
+
+b) Nxg3 better from white's point of view, keeps the rook but exchanges the b5 bishop for the e5 knight
+
+c) hxg3 even better as avoids the loss of the rook and opens a column to develop it, simultaneously keeps the knight centralized on e2
+
+d) dxe5 also loses the rook so is worst than hxg3"

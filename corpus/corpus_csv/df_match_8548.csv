@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"New Opponent, same old opening. An OTB game from last month."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"New Opponent, same old opening. An OTB game from last month."
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Figure we're headed for a closed Sicilian so I prepare e5 and open my bishop. Apparently Nc6 is more recommended but I think this is fine.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Figure we're headed for a closed Sicilian so I prepare e5 and open my bishop. Apparently Nc6 is more recommended but I think this is fine.
+5,g4,g2g4,rnbqkbnr/pp2pppp/3p4/2p5/4P1P1/2N5/PPPP1P1P/R1BQKBNR b KQkq - 0 3,"?! Way out of book, my Fritz tree doesn't have this move and the GK World database shows three games. Fritz recommends 3... Nc6"
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2np4/2p5/4P1P1/2N5/PPPP1P1P/R1BQKBNR w KQkq - 1 4,What'd ya know!
+7,Bg2,f1g2,r1bqkbnr/pp2pppp/2np4/2p5/4P1P1/2N5/PPPP1PBP/R1BQK1NR b KQkq - 2 4,"One reason to push the g-pawn, prepare Bg2. Fritz wants 4...e5"
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/2p5/4P1P1/2N5/PPPP1PBP/R1BQK1NR w KQkq - 3 5,Not necessarily a terrible move. If Black is thinking of castling long then the knight can traverse from f6 to d7 to b6 and rest happily eying d5 and c4. Fritz still gives Black a small edge here (-.25).
+9,g5,g4g5,r1bqkb1r/pp2pppp/2np1n2/2p3P1/4P3/2N5/PPPP1PBP/R1BQK1NR b KQkq - 0 5,"?? Heeere's the blunder, quick trap the knight!"
+10,Ng4,f6g4,r1bqkb1r/pp2pppp/2np4/2p3P1/4P1n1/2N5/PPPP1PBP/R1BQK1NR w KQkq - 1 6,"?? Heeere's the blunder, quick trap the knight!"
+11,f4,f2f4,r1bqkb1r/pp2pppp/2np4/2p3P1/4PPn1/2N5/PPPP2BP/R1BQK1NR b KQkq - 0 6,"! Duh. At the time I was thinking that my opponent would play f3, then I would play to e5, c4, then b6. Pretty silly considering the other path previously mentioned."
+12,h5,h7h5,r1bqkb1r/pp2ppp1/2np4/2p3Pp/4PPn1/2N5/PPPP2BP/R1BQK1NR w KQkq h6 0 7,"Not wanting to resign this early I tell myself, o.k. I'll recapture with my bishop and see what, if anything, I can make of the position. Then a few moves down the line I'll resign."
+13,h3,h2h3,r1bqkb1r/pp2ppp1/2np4/2p3Pp/4PPn1/2N4P/PPPP2B1/R1BQK1NR b KQkq - 0 7,Trying to see if I can stir up some problems deep in White territory.
+14,Nd4,c6d4,r1bqkb1r/pp2ppp1/3p4/2p3Pp/3nPPn1/2N4P/PPPP2B1/R1BQK1NR w KQkq - 1 8,Trying to see if I can stir up some problems deep in White territory.
+15,hxg4,h3g4,r1bqkb1r/pp2ppp1/3p4/2p3Pp/3nPPP1/2N5/PPPP2B1/R1BQK1NR b KQkq - 0 8,"As planned, but the plan is not a good one. Accurate play leads to immediate disaster for Black. Fritz recommended 6...h6 7.h3 hxg5 8.hxg4 Rxh1 9.Bxh1 gxf4 An interesting struggle with black getting two pawns for the piece. Evaluated at (.39) after 10. Nh3 e5"
+16,Bxg4,c8g4,r2qkb1r/pp2ppp1/3p4/2p3Pp/3nPPb1/2N5/PPPP2B1/R1BQK1NR w KQkq - 0 9,"As planned, but the plan is not a good one. Accurate play leads to immediate disaster for Black. Fritz recommended 6...h6 7.h3 hxg5 8.hxg4 Rxh1 9.Bxh1 gxf4 An interesting struggle with black getting two pawns for the piece. Evaluated at (.39) after 10. Nh3 e5"
+17,Nf3,g1f3,r2qkb1r/pp2ppp1/3p4/2p3Pp/3nPPb1/2N2N2/PPPP2B1/R1BQK2R b KQkq - 1 9,"While this move isn't losing, it does lead to trouble for White later on. Voluntarily placing the knight in the pin with the knight on d4 wasn't the wisest move. Force the bishop trade with 9. Bf3 Nxf3+ 10. Nxf3 , develop and castle queen-side and the game is quite comfortable for White."
+18,Qb6,d8b6,r3kb1r/pp2ppp1/1q1p4/2p3Pp/3nPPb1/2N2N2/PPPP2B1/R1BQK2R w KQkq - 2 10,"Misplayed by black, the text allows Nd5, a very strong post. Fritz recommends ...h4 immediately by Black with the score at (.93)"
+19,d3,d2d3,r3kb1r/pp2ppp1/1q1p4/2p3Pp/3nPPb1/2NP1N2/PPP3B1/R1BQK2R b KQkq - 0 10,I realize the knights dangerous post and hasten to rob it of that square.
+20,e6,e7e6,r3kb1r/pp3pp1/1q1pp3/2p3Pp/3nPPb1/2NP1N2/PPP3B1/R1BQK2R w KQkq - 0 11,I realize the knights dangerous post and hasten to rob it of that square.
+21,Na4,c3a4,r3kb1r/pp3pp1/1q1pp3/2p3Pp/N2nPPb1/3P1N2/PPP3B1/R1BQK2R b KQkq - 1 11,Perhaps goaded by the pawn on e6 to look for knight moves White plays the pointless Na4.
+22,Qa5+,b6a5,r3kb1r/pp3pp1/3pp3/q1p3Pp/N2nPPb1/3P1N2/PPP3B1/R1BQK2R w KQkq - 2 12,Forcedly admitting the error. White still maintains a lead (.41) after the recommended ...h4.
+23,Nc3,a4c3,r3kb1r/pp3pp1/3pp3/q1p3Pp/3nPPb1/2NP1N2/PPP3B1/R1BQK2R b KQkq - 3 12,Forcedly admitting the error. White still maintains a lead (.41) after the recommended ...h4.
+24,b5,b7b5,r3kb1r/p4pp1/3pp3/qpp3Pp/3nPPb1/2NP1N2/PPP3B1/R1BQK2R w KQkq - 0 13,I'm insistent on letting White win this game as this gives white a much bigger edge after 13.Kf2  (2.49) White must be feeling confident up a piece and not searching for the strongest moves.
+25,O-O,e1g1,r3kb1r/p4pp1/3pp3/qpp3Pp/3nPPb1/2NP1N2/PPP3B1/R1BQ1RK1 b kq - 1 13,"? Instead of searching for the strongest moves White has played one of the weakest, castling directly into my only hope for counter play on the h-file."
+26,h4,h5h4,r3kb1r/p4pp1/3pp3/qpp3P1/3nPPbp/2NP1N2/PPP3B1/R1BQ1RK1 w kq - 0 14,"This is the ""losing"" move for White. Not actually a losing move but it puts the game back on even keel (-0.05)."
+27,Qd2,d1d2,r3kb1r/p4pp1/3pp3/qpp3P1/3nPPbp/2NP1N2/PPPQ2B1/R1B2RK1 b kq - 1 14,"This is the ""losing"" move for White. Not actually a losing move but it puts the game back on even keel (-0.05)."
+28,h3,h4h3,r3kb1r/p4pp1/3pp3/qpp3P1/3nPPb1/2NP1N1p/PPPQ2B1/R1B2RK1 w kq - 0 15,Want to drive this knight off the protection of e2.
+29,Bh1,g2h1,r3kb1r/p4pp1/3pp3/qpp3P1/3nPPb1/2NP1N1p/PPPQ4/R1B2RKB b kq - 1 15,Want to drive this knight off the protection of e2.
+30,b4,b5b4,r3kb1r/p4pp1/3pp3/q1p3P1/1p1nPPb1/2NP1N1p/PPPQ4/R1B2RKB w kq - 0 16,Want to drive this knight off the protection of e2.

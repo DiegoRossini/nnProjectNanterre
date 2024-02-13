@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Find a move which can give checkmate if Kd8 is W:s next move.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,Find a move which can give checkmate if Kd8 is W:s next move.
+3,c3,c2c3,r1bqkbnr/pppppppp/2n5/8/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Find a move which can give checkmate if Kd8 is W:s next move.
+4,d5,d7d5,r1bqkbnr/ppp1pppp/2n5/3p4/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,Find a move which can give checkmate if Kd8 is W:s next move.
+5,exd5,e4d5,r1bqkbnr/ppp1pppp/2n5/3P4/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3,Find a move which can give checkmate if Kd8 is W:s next move.
+6,Qxd5,d8d5,r1b1kbnr/ppp1pppp/2n5/3q4/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 4,Find a move which can give checkmate if Kd8 is W:s next move.
+7,Qf3,d1f3,r1b1kbnr/ppp1pppp/2n5/3q4/8/2P2Q2/PP1P1PPP/RNB1KBNR b KQkq - 1 4,Find a move which can give checkmate if Kd8 is W:s next move.
+8,Qe6+,d5e6,r1b1kbnr/ppp1pppp/2n1q3/8/8/2P2Q2/PP1P1PPP/RNB1KBNR w KQkq - 2 5,Find a move which can give checkmate if Kd8 is W:s next move.
+9,Qe2,f3e2,r1b1kbnr/ppp1pppp/2n1q3/8/8/2P5/PP1PQPPP/RNB1KBNR b KQkq - 3 5,Find a move which can give checkmate if Kd8 is W:s next move.
+10,Ne5,c6e5,r1b1kbnr/ppp1pppp/4q3/4n3/8/2P5/PP1PQPPP/RNB1KBNR w KQkq - 4 6,Find a move which can give checkmate if Kd8 is W:s next move.
+11,d4,d2d4,r1b1kbnr/ppp1pppp/4q3/4n3/3P4/2P5/PP2QPPP/RNB1KBNR b KQkq - 0 6,Find a move which can give checkmate if Kd8 is W:s next move.
+12,Nd3+,e5d3,r1b1kbnr/ppp1pppp/4q3/8/3P4/2Pn4/PP2QPPP/RNB1KBNR w KQkq - 1 7,Find a move which can give checkmate if Kd8 is W:s next move.
+13,Kd2,e1d2,r1b1kbnr/ppp1pppp/4q3/8/3P4/2Pn4/PP1KQPPP/RNB2BNR b kq - 2 7,"Well, W moved Kd7 instead"
+14,Qh6+,e6h6,r1b1kbnr/ppp1pppp/7q/8/3P4/2Pn4/PP1KQPPP/RNB2BNR w kq - 3 8,"Checked again, and if Kxd6 so is Bb5+ next"
+15,Kc2,d2c2,r1b1kbnr/ppp1pppp/7q/8/3P4/2Pn4/PPK1QPPP/RNB2BNR b kq - 4 8,Why W didn't captured by Kxd6 so...
+16,Qxc1+,h6c1,r1b1kbnr/ppp1pppp/8/8/3P4/2Pn4/PPK1QPPP/RNq2BNR w kq - 0 9,Even in this move have W possibility to capture by Kxd6 and if that had Bf5+ was my next move
+17,Kb3,c2b3,r1b1kbnr/ppp1pppp/8/8/3P4/1KPn4/PP2QPPP/RNq2BNR b kq - 1 9,"W coosed to escape, probably because Bf5+ had forced W to Kc4"
+18,Be6+,c8e6,r3kbnr/ppp1pppp/4b3/8/3P4/1KPn4/PP2QPPP/RNq2BNR w kq - 2 10,So it went Be6+ instead.....
+19,Ka3,b3a3,r3kbnr/ppp1pppp/4b3/8/3P4/K1Pn4/PP2QPPP/RNq2BNR b kq - 3 10,Ka6 is understanding because Ka5 had maked Nxb2+
+20,Bc4,e6c4,r3kbnr/ppp1pppp/8/8/2bP4/K1Pn4/PP2QPPP/RNq2BNR w kq - 4 11,Have to rescue Nd3 which also give chans to check in next move by e6.....
+21,Qd2,e2d2,r3kbnr/ppp1pppp/8/8/2bP4/K1Pn4/PP1Q1PPP/RNq2BNR b kq - 5 11,"And Wfind no other move than to impend QxQc1 in next move,"
+22,e6+,e7e6,r3kbnr/ppp2ppp/4p3/8/2bP4/K1Pn4/PP1Q1PPP/RNq2BNR w kq - 0 12,"had possibility to capture the other Bishop by Qxf8, but saw the chance to make mate by e3+ and took it...."
+23,Ka4,a3a4,r3kbnr/ppp2ppp/4p3/8/K1bP4/2Pn4/PP1Q1PPP/RNq2BNR b kq - 1 12,Here gives chanse to the cheeck by Nxb7...
+24,Nxb2+,d3b2,r3kbnr/ppp2ppp/4p3/8/K1bP4/2P5/Pn1Q1PPP/RNq2BNR w kq - 0 13,and here leaved I a note that it was a unusual end of game....
+25,Ka5,a4a5,r3kbnr/ppp2ppp/4p3/K7/2bP4/2P5/Pn1Q1PPP/RNq2BNR b kq - 1 13,And with just that possible move so.....
+26,b6#,b7b6,r3kbnr/p1p2ppp/1p2p3/K7/2bP4/2P5/Pn1Q1PPP/RNq2BNR w kq - 0 14,Checkmate!

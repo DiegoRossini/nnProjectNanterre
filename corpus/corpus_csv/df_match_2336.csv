@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Ruy Lopez opening, nothing to see here."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Ruy Lopez opening, nothing to see here."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Ruy Lopez opening, nothing to see here."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Ruy Lopez opening, nothing to see here."
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"Ruy Lopez opening, nothing to see here."
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Book move, pushing the bishop to make a decision."
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Ordinary developing move.
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,Ordinary developing move.
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,Another book developing move.
+10,Be7,f8e7,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6,Another book developing move.
+11,Re1,f1e1,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 5 6,Grabbing some queenside space whilst white must retreat.
+12,b5,b7b5,r1bqk2r/2ppbppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 0 7,Grabbing some queenside space whilst white must retreat.
+13,Bb3,a4b3,r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 1 7,"Still in book, letting the LSB out."
+14,O-O,e8g8,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - - 2 8,"Still in book, letting the LSB out."
+15,c3,c2c3,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 8,"Still in book, letting the LSB out."
+16,d6,d7d6,r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9,"Still in book, letting the LSB out."
+17,d4,d2d4,r1bq1rk1/2p1bppp/p1np1n2/1p2p3/3PP3/1BP2N2/PP3PPP/RNBQR1K1 b - - 0 9,Maintaining the tension in the centre and pinning the knight.
+18,Bg4,c8g4,r2q1rk1/2p1bppp/p1np1n2/1p2p3/3PP1b1/1BP2N2/PP3PPP/RNBQR1K1 w - - 1 10,Maintaining the tension in the centre and pinning the knight.
+19,d5,d4d5,r2q1rk1/2p1bppp/p1np1n2/1p1Pp3/4P1b1/1BP2N2/PP3PPP/RNBQR1K1 b - - 0 10,"With a view to forcing the bishop back to c2 where it doesn't have much influence and cramps whites base, or exchanging for a knight which is slightly in my favour I believe."
+20,Na5,c6a5,r2q1rk1/2p1bppp/p2p1n2/np1Pp3/4P1b1/1BP2N2/PP3PPP/RNBQR1K1 w - - 1 11,"With a view to forcing the bishop back to c2 where it doesn't have much influence and cramps whites base, or exchanging for a knight which is slightly in my favour I believe."
+21,Be3,c1e3,r2q1rk1/2p1bppp/p2p1n2/np1Pp3/4P1b1/1BP1BN2/PP3PPP/RN1QR1K1 b - - 2 11,"Well this is the first move out of book and unfortunately it's a mistake, cutting off the defence to e4."
+22,Nxe4,f6e4,r2q1rk1/2p1bppp/p2p4/np1Pp3/4n1b1/1BP1BN2/PP3PPP/RN1QR1K1 w - - 0 12,"Free centre pawn, it would be rude to turn it down.."
+23,Bd2,e3d2,r2q1rk1/2p1bppp/p2p4/np1Pp3/4n1b1/1BP2N2/PP1B1PPP/RN1QR1K1 b - - 1 12,"Exchanging off whites LSB for a knight, the knight wasn't doing much there on the edge other than threatening to go to c4, so this seemed like a good idea."
+24,Nxb3,a5b3,r2q1rk1/2p1bppp/p2p4/1p1Pp3/4n1b1/1nP2N2/PP1B1PPP/RN1QR1K1 w - - 0 13,"Exchanging off whites LSB for a knight, the knight wasn't doing much there on the edge other than threatening to go to c4, so this seemed like a good idea."
+25,axb3,a2b3,r2q1rk1/2p1bppp/p2p4/1p1Pp3/4n1b1/1PP2N2/1P1B1PPP/RN1QR1K1 b - - 0 13,"d5 is undefended so although this blocks blacks DSB in, it keeps white on the back foot."
+26,Nf6,e4f6,r2q1rk1/2p1bppp/p2p1n2/1p1Pp3/6b1/1PP2N2/1P1B1PPP/RN1QR1K1 w - - 1 14,"d5 is undefended so although this blocks blacks DSB in, it keeps white on the back foot."
+27,Bg5,d2g5,r2q1rk1/2p1bppp/p2p1n2/1p1Pp1B1/6b1/1PP2N2/1P3PPP/RN1QR1K1 b - - 2 14,"The start of a series of exchanges that wins the d pawn, I don't believe white has any way of avoiding this loss."
+28,Bxf3,g4f3,r2q1rk1/2p1bppp/p2p1n2/1p1Pp1B1/8/1PP2b2/1P3PPP/RN1QR1K1 w - - 0 15,"The start of a series of exchanges that wins the d pawn, I don't believe white has any way of avoiding this loss."
+29,Qxf3,d1f3,r2q1rk1/2p1bppp/p2p1n2/1p1Pp1B1/8/1PP2Q2/1P3PPP/RN2R1K1 b - - 0 15,"Bxe7 might have been better, leaving black with a knight rather than a bishop, although being behind 2 pawns perhaps white should have pulled the bishop back rather than exchaning pieces."
+30,Nxd5,f6d5,r2q1rk1/2p1bppp/p2p4/1p1np1B1/8/1PP2Q2/1P3PPP/RN2R1K1 w - - 0 16,"Bxe7 might have been better, leaving black with a knight rather than a bishop, although being behind 2 pawns perhaps white should have pulled the bishop back rather than exchaning pieces."
+31,Qxd5,f3d5,r2q1rk1/2p1bppp/p2p4/1p1Qp1B1/8/1PP5/1P3PPP/RN2R1K1 b - - 0 16,"Bxe7 might have been better, leaving black with a knight rather than a bishop, although being behind 2 pawns perhaps white should have pulled the bishop back rather than exchaning pieces."
+32,Bxg5,e7g5,r2q1rk1/2p2ppp/p2p4/1p1Qp1b1/8/1PP5/1P3PPP/RN2R1K1 w - - 0 17,The only move that doesn't lose material.
+33,Qb7,d5b7,r2q1rk1/1Qp2ppp/p2p4/1p2p1b1/8/1PP5/1P3PPP/RN2R1K1 b - - 1 17,The only move that doesn't lose material.
+34,Qc8,d8c8,r1q2rk1/1Qp2ppp/p2p4/1p2p1b1/8/1PP5/1P3PPP/RN2R1K1 w - - 2 18,The only move that doesn't lose material.
+35,Qxc8,b7c8,r1Q2rk1/2p2ppp/p2p4/1p2p1b1/8/1PP5/1P3PPP/RN2R1K1 b - - 0 18,"Queens off the board now, black should have enough to win this game now although he is rather blocked in by his own pawns, my general plan at this point was to just advance everything together and with a few simplifying exchanges the extra pawns should lead to a relatively simple endgame win."
+36,Rfxc8,f8c8,r1r3k1/2p2ppp/p2p4/1p2p1b1/8/1PP5/1P3PPP/RN2R1K1 w - - 0 19,"Queens off the board now, black should have enough to win this game now although he is rather blocked in by his own pawns, my general plan at this point was to just advance everything together and with a few simplifying exchanges the extra pawns should lead to a relatively simple endgame win."
+37,Re2,e1e2,r1r3k1/2p2ppp/p2p4/1p2p1b1/8/1PP5/1P2RPPP/RN4K1 b - - 1 19,The idea of this move was to restrain whites kingside pawns and stop white trying to cramp the bishop in.
+38,h5,h7h5,r1r3k1/2p2pp1/p2p4/1p2p1bp/8/1PP5/1P2RPPP/RN4K1 w - - 0 20,The idea of this move was to restrain whites kingside pawns and stop white trying to cramp the bishop in.
+39,c4,c3c4,r1r3k1/2p2pp1/p2p4/1p2p1bp/2P5/1P6/1P2RPPP/RN4K1 b - - 0 20,"Carrying on with the plan to advance everything together gradually, the bishops mobility isn't great at the moment but that won't be a permanent situation."
+40,f6,f7f6,r1r3k1/2p3p1/p2p1p2/1p2p1bp/2P5/1P6/1P2RPPP/RN4K1 w - - 0 21,"Carrying on with the plan to advance everything together gradually, the bishops mobility isn't great at the moment but that won't be a permanent situation."
+41,cxb5,c4b5,r1r3k1/2p3p1/p2p1p2/1P2p1bp/8/1P6/1P2RPPP/RN4K1 b - - 0 21,"This didn't strike me as a particularly good move, allowing black to open the a-file and get the rooks into a more active position. The gameknot computer agrees  and suggests Nc3 instead."
+42,axb5,a6b5,r1r3k1/2p3p1/3p1p2/1p2p1bp/8/1P6/1P2RPPP/RN4K1 w - - 0 22,"May as well open the a-file since the opportunity has presented itself, white will have to allow the exchange of his rook since Na3 isn't a permissible defence (due to ..b4)."

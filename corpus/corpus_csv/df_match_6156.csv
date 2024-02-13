@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Kings Gambit, accepted"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Kings Gambit, accepted"
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"Kings Gambit, accepted"
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"Kings Gambit, accepted"
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,and here we're done with my knowledge of theory
+6,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b5/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4,and here we're done with my knowledge of theory
+7,d4,d2d4,rnbqk1nr/pppp1ppp/8/2b5/3PPp2/5N2/PPP3PP/RNBQKB1R b KQkq - 0 4,"White hunts the bishop and enables itself to retake the pawn on f4 (I'm pretty sure this has some name, I think I've seen this quite often)."
+8,Bb6,c5b6,rnbqk1nr/pppp1ppp/1b6/8/3PPp2/5N2/PPP3PP/RNBQKB1R w KQkq - 1 5,"White hunts the bishop and enables itself to retake the pawn on f4 (I'm pretty sure this has some name, I think I've seen this quite often)."
+9,Bxf4,c1f4,rnbqk1nr/pppp1ppp/1b6/8/3PPB2/5N2/PPP3PP/RN1QKB1R b KQkq - 0 5,"White hunts the bishop and enables itself to retake the pawn on f4 (I'm pretty sure this has some name, I think I've seen this quite often)."
+10,d5,d7d5,rnbqk1nr/ppp2ppp/1b6/3p4/3PPB2/5N2/PPP3PP/RN1QKB1R w KQkq - 0 6,"White hunts the bishop and enables itself to retake the pawn on f4 (I'm pretty sure this has some name, I think I've seen this quite often)."
+11,Nc3,b1c3,rnbqk1nr/ppp2ppp/1b6/3p4/3PPB2/2N2N2/PPP3PP/R2QKB1R b KQkq - 1 6,Black decides to pin White's Knight and leaves the Pawn on D5 defended only by the Queen... so White decides to take it
+12,Bg4,c8g4,rn1qk1nr/ppp2ppp/1b6/3p4/3PPBb1/2N2N2/PPP3PP/R2QKB1R w KQkq - 2 7,Black decides to pin White's Knight and leaves the Pawn on D5 defended only by the Queen... so White decides to take it
+13,exd5,e4d5,rn1qk1nr/ppp2ppp/1b6/3P4/3P1Bb1/2N2N2/PPP3PP/R2QKB1R b KQkq - 0 7,"Now Black tries to pin the knight, such that the Queen can retake the pawn. White counters by a check on B5."
+14,Ba5,b6a5,rn1qk1nr/ppp2ppp/8/b2P4/3P1Bb1/2N2N2/PPP3PP/R2QKB1R w KQkq - 1 8,"Now Black tries to pin the knight, such that the Queen can retake the pawn. White counters by a check on B5."
+15,Bb5+,f1b5,rn1qk1nr/ppp2ppp/8/bB1P4/3P1Bb1/2N2N2/PPP3PP/R2QK2R b KQkq - 2 8,"Now Black tries to pin the knight, such that the Queen can retake the pawn. White counters by a check on B5."
+16,c6,c7c6,rn1qk1nr/pp3ppp/2p5/bB1P4/3P1Bb1/2N2N2/PPP3PP/R2QK2R w KQkq - 0 9,"The other option I saw for black was Nd7, which would also have saved the pawn"
+17,dxc6,d5c6,rn1qk1nr/pp3ppp/2P5/bB6/3P1Bb1/2N2N2/PPP3PP/R2QK2R b KQkq - 0 9,Black gives away the pair of bishops.
+18,bxc6,b7c6,rn1qk1nr/p4ppp/2p5/bB6/3P1Bb1/2N2N2/PPP3PP/R2QK2R w KQkq - 0 10,Black gives away the pair of bishops.
+19,Ba4,b5a4,rn1qk1nr/p4ppp/2p5/b7/B2P1Bb1/2N2N2/PPP3PP/R2QK2R b KQkq - 1 10,Black gives away the pair of bishops.
+20,Bxc3+,a5c3,rn1qk1nr/p4ppp/2p5/8/B2P1Bb1/2b2N2/PPP3PP/R2QK2R w KQkq - 0 11,Black gives away the pair of bishops.
+21,bxc3,b2c3,rn1qk1nr/p4ppp/2p5/8/B2P1Bb1/2P2N2/P1P3PP/R2QK2R b KQkq - 0 11,Black gives away the pair of bishops.
+22,Qa5,d8a5,rn2k1nr/p4ppp/2p5/q7/B2P1Bb1/2P2N2/P1P3PP/R2QK2R w KQkq - 1 12,White tries to build up some pressure
+23,Qe2+,d1e2,rn2k1nr/p4ppp/2p5/q7/B2P1Bb1/2P2N2/P1P1Q1PP/R3K2R b KQkq - 2 12,White tries to build up some pressure
+24,Ne7,g8e7,rn2k2r/p3nppp/2p5/q7/B2P1Bb1/2P2N2/P1P1Q1PP/R3K2R w KQkq - 3 13,White builds up some pressure (mate on Qxe7) and wants to snatch of the knight
+25,Bd6,f4d6,rn2k2r/p3nppp/2pB4/q7/B2P2b1/2P2N2/P1P1Q1PP/R3K2R b KQkq - 4 13,White builds up some pressure (mate on Qxe7) and wants to snatch of the knight
+26,O-O,e8g8,rn3rk1/p3nppp/2pB4/q7/B2P2b1/2P2N2/P1P1Q1PP/R3K2R w KQ - 5 14,Black prevents a mate on Qxf8
+27,Qxe7,e2e7,rn3rk1/p3Qppp/2pB4/q7/B2P2b1/2P2N2/P1P3PP/R3K2R b KQ - 0 14,Black prevents a mate on Qxf8
+28,Na6,b8a6,r4rk1/p3Qppp/n1pB4/q7/B2P2b1/2P2N2/P1P3PP/R3K2R w KQ - 1 15,Black prevents a mate on Qxf8
+29,Bxc6,a4c6,r4rk1/p3Qppp/n1BB4/q7/3P2b1/2P2N2/P1P3PP/R3K2R b KQ - 0 15,"A big blunder by white, a better option would have been 15. Bb3. Of course it could not have prevented the check on Qc3. I actually thought about castling short for a few moments... don't know why I didn't...
+Possible variation would then have been:
+15.Bb3 Qxc3+ 16.Kf2 Bxf3 17 xf3 Qxd4+ 18. Kg3 h6 And white would have a naked King, but the pair of Bishops and thereby a piece in advance (although a pawn less)"
+30,Qxc3+,a5c3,r4rk1/p3Qppp/n1BB4/8/3P2b1/2q2N2/P1P3PP/R3K2R w KQ - 0 16,What had to come...
+31,Kf2,e1f2,r4rk1/p3Qppp/n1BB4/8/3P2b1/2q2N2/P1P2KPP/R6R b - - 1 16,What had to come...
+32,Qxc6,c3c6,r4rk1/p3Qppp/n1qB4/8/3P2b1/5N2/P1P2KPP/R6R w - - 0 17,What had to come...
+33,Ne5,f3e5,r4rk1/p3Qppp/n1qB4/4N3/3P2b1/8/P1P2KPP/R6R b - - 1 17,Trying to increase the pressure
+34,Qxc2+,c6c2,r4rk1/p3Qppp/n2B4/4N3/3P2b1/8/P1q2KPP/R6R w - - 0 18,Attacking the Knight and the Rook at once
+35,Kg3,f2g3,r4rk1/p3Qppp/n2B4/4N3/3P2b1/6K1/P1q3PP/R6R b - - 1 18,Attacking the Knight and the Rook at once
+36,Be6,g4e6,r4rk1/p3Qppp/n2Bb3/4N3/3P4/6K1/P1q3PP/R6R w - - 2 19,Attacking the Knight and the Rook at once
+37,Qb7,e7b7,r4rk1/pQ3ppp/n2Bb3/4N3/3P4/6K1/P1q3PP/R6R b - - 3 19,Attacking the Knight and the Rook at once
+38,Qc3+,c2c3,r4rk1/pQ3ppp/n2Bb3/4N3/3P4/2q3K1/P5PP/R6R w - - 4 20,Defending the Knight by a counterattack
+39,Nf3,e5f3,r4rk1/pQ3ppp/n2Bb3/8/3P4/2q2NK1/P5PP/R6R b - - 5 20,Defending the Knight by a counterattack
+40,Qc8,c3c8,r1q2rk1/pQ3ppp/n2Bb3/8/3P4/5NK1/P5PP/R6R w - - 6 21,Defending the Knight by a counterattack
+41,Qb5,b7b5,r1q2rk1/p4ppp/n2Bb3/1Q6/3P4/5NK1/P5PP/R6R b - - 7 21,Starting again a counter attack and slowly starting to move into a bad position
+42,Rd8,f8d8,r1qr2k1/p4ppp/n2Bb3/1Q6/3P4/5NK1/P5PP/R6R w - - 8 22,Starting again a counter attack and slowly starting to move into a bad position
+43,Rhc1,h1c1,r1qr2k1/p4ppp/n2Bb3/1Q6/3P4/5NK1/P5PP/R1R5 b - - 9 22,Starting again a counter attack and slowly starting to move into a bad position
+44,Qd7,c8d7,r2r2k1/p2q1ppp/n2Bb3/1Q6/3P4/5NK1/P5PP/R1R5 w - - 10 23,Up to this point an exchange could have been the startingpoint to an balanced endgame. Although white has an isolated pawn (which would get hard to defend)
+45,Rc6,c1c6,r2r2k1/p2q1ppp/n1RBb3/1Q6/3P4/5NK1/P5PP/R7 b - - 11 23,"Again: attacking instead of defending, following a tactic, which has in this situation no hope for success"
+46,Nb8,a6b8,rn1r2k1/p2q1ppp/2RBb3/1Q6/3P4/5NK1/P5PP/R7 w - - 12 24,"Again: attacking instead of defending, following a tactic, which has in this situation no hope for success"
+47,Ne5,f3e5,rn1r2k1/p2q1ppp/2RBb3/1Q2N3/3P4/6K1/P5PP/R7 b - - 13 24,"Again: attacking instead of defending, following a tactic, which has in this situation no hope for success"
+48,Qe8,d7e8,rn1rq1k1/p4ppp/2RBb3/1Q2N3/3P4/6K1/P5PP/R7 w - - 14 25,"The next blunder... I thought i Take the Bishop and then I'll have a forkat C6... but this fork is no real fork, sind black can escape while checking..."
+49,Bxb8,d6b8,rB1rq1k1/p4ppp/2R1b3/1Q2N3/3P4/6K1/P5PP/R7 b - - 0 25,"The next blunder... I thought i Take the Bishop and then I'll have a forkat C6... but this fork is no real fork, sind black can escape while checking..."
+50,Raxb8,a8b8,1r1rq1k1/p4ppp/2R1b3/1Q2N3/3P4/6K1/P5PP/R7 w - - 0 26,"The next blunder... I thought i Take the Bishop and then I'll have a forkat C6... but this fork is no real fork, sind black can escape while checking..."
+51,Qc5,b5c5,1r1rq1k1/p4ppp/2R1b3/2Q1N3/3P4/6K1/P5PP/R7 b - - 1 26,"The next blunder... I thought i Take the Bishop and then I'll have a forkat C6... but this fork is no real fork, sind black can escape while checking..."
+52,f6,f7f6,1r1rq1k1/p5pp/2R1bp2/2Q1N3/3P4/6K1/P5PP/R7 w - - 0 27,"The next blunder... I thought i Take the Bishop and then I'll have a forkat C6... but this fork is no real fork, sind black can escape while checking..."
+53,Rxe6,c6e6,1r1rq1k1/p5pp/4Rp2/2Q1N3/3P4/6K1/P5PP/R7 b - - 0 27,and the ending starts...
+54,Qxe6,e8e6,1r1r2k1/p5pp/4qp2/2Q1N3/3P4/6K1/P5PP/R7 w - - 0 28,and the ending starts...
+55,Nc6,e5c6,1r1r2k1/p5pp/2N1qp2/2Q5/3P4/6K1/P5PP/R7 b - - 1 28,and the ending starts...
+56,Qe3+,e6e3,1r1r2k1/p5pp/2N2p2/2Q5/3P4/4q1K1/P5PP/R7 w - - 2 29,and the ending starts...

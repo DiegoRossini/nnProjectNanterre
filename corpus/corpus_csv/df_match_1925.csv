@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,East Indian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,East Indian
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,a6 is missing
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,a6 is missing
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,a6 is missing
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2np4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,a6 is missing
+7,d4,d2d4,r1bqkbnr/pp2pppp/2np4/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,a6 is missing
+8,cxd4,c5d4,r1bqkbnr/pp2pppp/2np4/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,a6 is missing
+9,Nxd4,f3d4,r1bqkbnr/pp2pppp/2np4/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,a6 is missing
+10,e6,e7e6,r1bqkbnr/pp3ppp/2npp3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,a6 is missing
+11,Be3,c1e3,r1bqkbnr/pp3ppp/2npp3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,a6 is missing
+12,Nf6,g8f6,r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7,a6 is missing
+13,f3,f2f3,r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7,a6 is missing
+14,d5,d6d5,r1bqkb1r/pp3ppp/2n1pn2/3p4/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 0 8,a6 is missing
+15,Bb5,f1b5,r1bqkb1r/pp3ppp/2n1pn2/1B1p4/3NP3/2N1BP2/PPP3PP/R2QK2R b KQkq - 1 8,a6 is missing
+16,Bd7,c8d7,r2qkb1r/pp1b1ppp/2n1pn2/1B1p4/3NP3/2N1BP2/PPP3PP/R2QK2R w KQkq - 2 9,threatening discovered attack
+17,exd5,e4d5,r2qkb1r/pp1b1ppp/2n1pn2/1B1P4/3N4/2N1BP2/PPP3PP/R2QK2R b KQkq - 0 9,threatening discovered attack
+18,Nxd5,f6d5,r2qkb1r/pp1b1ppp/2n1p3/1B1n4/3N4/2N1BP2/PPP3PP/R2QK2R w KQkq - 0 10,threatening discovered attack
+19,Nxd5,c3d5,r2qkb1r/pp1b1ppp/2n1p3/1B1N4/3N4/4BP2/PPP3PP/R2QK2R b KQkq - 0 10,threatening discovered attack
+20,exd5,e6d5,r2qkb1r/pp1b1ppp/2n5/1B1p4/3N4/4BP2/PPP3PP/R2QK2R w KQkq - 0 11,threatening discovered attack
+21,Qe2,d1e2,r2qkb1r/pp1b1ppp/2n5/1B1p4/3N4/4BP2/PPP1Q1PP/R3K2R b KQkq - 1 11,threatening discovered attack
+22,Be7,f8e7,r2qk2r/pp1bbppp/2n5/1B1p4/3N4/4BP2/PPP1Q1PP/R3K2R w KQkq - 2 12,white is much more opened on black camp
+23,O-O-O,e1c1,r2qk2r/pp1bbppp/2n5/1B1p4/3N4/4BP2/PPP1Q1PP/2KR3R b kq - 3 12,white is much more opened on black camp
+24,O-O,e8g8,r2q1rk1/pp1bbppp/2n5/1B1p4/3N4/4BP2/PPP1Q1PP/2KR3R w - - 4 13,isolated d pawn relied
+25,Nxc6,d4c6,r2q1rk1/pp1bbppp/2N5/1B1p4/8/4BP2/PPP1Q1PP/2KR3R b - - 0 13,isolated d pawn relied
+26,bxc6,b7c6,r2q1rk1/p2bbppp/2p5/1B1p4/8/4BP2/PPP1Q1PP/2KR3R w - - 0 14,isolated d pawn relied
+27,Bd3,b5d3,r2q1rk1/p2bbppp/2p5/3p4/8/3BBP2/PPP1Q1PP/2KR3R b - - 1 14,first arm pointing ahead
+28,Bf6,e7f6,r2q1rk1/p2b1ppp/2p2b2/3p4/8/3BBP2/PPP1Q1PP/2KR3R w - - 2 15,first arm pointing ahead
+29,Qd2,e2d2,r2q1rk1/p2b1ppp/2p2b2/3p4/8/3BBP2/PPPQ2PP/2KR3R b - - 3 15,second arm pointing ahead
+30,Rb8,a8b8,1r1q1rk1/p2b1ppp/2p2b2/3p4/8/3BBP2/PPPQ2PP/2KR3R w - - 4 16,second arm pointing ahead
+31,c3,c2c3,1r1q1rk1/p2b1ppp/2p2b2/3p4/8/2PBBP2/PP1Q2PP/2KR3R b - - 0 16,third arm...
+32,Qa5,d8a5,1r3rk1/p2b1ppp/2p2b2/q2p4/8/2PBBP2/PP1Q2PP/2KR3R w - - 1 17,third arm...
+33,a3,a2a3,1r3rk1/p2b1ppp/2p2b2/q2p4/8/P1PBBP2/1P1Q2PP/2KR3R b - - 0 17,this is a terrible mistake: a7 is not the crucial pawn.
+34,Rb7,b8b7,5rk1/pr1b1ppp/2p2b2/q2p4/8/P1PBBP2/1P1Q2PP/2KR3R w - - 1 18,this is a terrible mistake: a7 is not the crucial pawn.
+35,Qf2,d2f2,5rk1/pr1b1ppp/2p2b2/q2p4/8/P1PBBP2/1P3QPP/2KR3R b - - 2 18,this is a terrible mistake: a7 is not the crucial pawn.
+36,Bxc3,f6c3,5rk1/pr1b1ppp/2p5/q2p4/8/P1bBBP2/1P3QPP/2KR3R w - - 0 19,c3 is...
+37,bxc3,b2c3,5rk1/pr1b1ppp/2p5/q2p4/8/P1PBBP2/5QPP/2KR3R b - - 0 19,there is no escape. Every response is now fatale
+38,Qxc3+,a5c3,5rk1/pr1b1ppp/2p5/3p4/8/P1qBBP2/5QPP/2KR3R w - - 0 20,there is no escape. Every response is now fatale
+39,Qc2,f2c2,5rk1/pr1b1ppp/2p5/3p4/8/P1qBBP2/2Q3PP/2KR3R b - - 1 20,why not? just a short momentum
+40,Qxa3+,c3a3,5rk1/pr1b1ppp/2p5/3p4/8/q2BBP2/2Q3PP/2KR3R w - - 0 21,why not? just a short momentum
+41,Kd2,c1d2,5rk1/pr1b1ppp/2p5/3p4/8/q2BBP2/2QK2PP/3R3R b - - 1 21,why not? just a short momentum
+42,Rb2,b7b2,5rk1/p2b1ppp/2p5/3p4/8/q2BBP2/1rQK2PP/3R3R w - - 2 22,why not? just a short momentum
+43,Bxh7+,d3h7,5rk1/p2b1ppB/2p5/3p4/8/q3BP2/1rQK2PP/3R3R b - - 0 22,why not? just a short momentum
+44,Kh8,g8h8,5r1k/p2b1ppB/2p5/3p4/8/q3BP2/1rQK2PP/3R3R w - - 1 23,+3 and decisive position
+45,Qxb2,c2b2,5r1k/p2b1ppB/2p5/3p4/8/q3BP2/1Q1K2PP/3R3R b - - 0 23,+3 and decisive position
+46,Qxb2+,a3b2,5r1k/p2b1ppB/2p5/3p4/8/4BP2/1q1K2PP/3R3R w - - 0 24,+3 and decisive position
+47,Bc2,h7c2,5r1k/p2b1pp1/2p5/3p4/8/4BP2/1qBK2PP/3R3R b - - 1 24,"followed, for example by d5-d4-d3... End of story."
+48,Bf5,d7f5,5r1k/p4pp1/2p5/3p1b2/8/4BP2/1qBK2PP/3R3R w - - 2 25,"followed, for example by d5-d4-d3... End of story."

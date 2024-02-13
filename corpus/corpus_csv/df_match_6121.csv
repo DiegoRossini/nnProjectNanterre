@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This is an ill-advised opening pattern for black because of 3.dxe5 dxe5 4. Qxd8 Kxd8, which leaves black unable to castle."
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"This is an ill-advised opening pattern for black because of 3.dxe5 dxe5 4. Qxd8 Kxd8, which leaves black unable to castle."
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"This is an ill-advised opening pattern for black because of 3.dxe5 dxe5 4. Qxd8 Kxd8, which leaves black unable to castle."
+4,e5,e7e5,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"This is an ill-advised opening pattern for black because of 3.dxe5 dxe5 4. Qxd8 Kxd8, which leaves black unable to castle."
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3,I probably should have taken the pawn right away instead of waiting. Black could have simply taken on d4.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 4,This was another error by Black that allows me to win the e pawn.
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 4,Play should have continued 4.dxe5 dxe5 5. Qxd8 Kxd8 6. Nxe5 Be6 7. Nc6 (or f3). This again allows for exd4
+8,c6,c7c6,rnbqkb1r/pp3ppp/2pp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,Luckily my opponent made a mistake again.
+9,dxe5,d4e5,rnbqkb1r/pp3ppp/2pp1n2/4P3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+10,dxe5,d6e5,rnbqkb1r/pp3ppp/2p2n2/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+11,Qxd8+,d1d8,rnbQkb1r/pp3ppp/2p2n2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R b KQkq - 0 6,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+12,Kxd8,e8d8,rnbk1b1r/pp3ppp/2p2n2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 0 7,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+13,Nxe5,f3e5,rnbk1b1r/pp3ppp/2p2n2/4N3/4P3/2N5/PPP2PPP/R1B1KB1R b KQ - 0 7,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+14,Bd6,f8d6,rnbk3r/pp3ppp/2pb1n2/4N3/4P3/2N5/PPP2PPP/R1B1KB1R w KQ - 1 8,Another mistake. It is pointless to threaten a piece away that has the intention of moving elsewhere next turn.
+15,Nxf7+,e5f7,rnbk3r/pp3Npp/2pb1n2/8/4P3/2N5/PPP2PPP/R1B1KB1R b KQ - 0 8,"Again, just as in my first game, my opponent moves his bishop twice, perhaps since the only reason he put it on d6 in the first place was to chase away my knight."
+16,Ke8,d8e8,rnb1k2r/pp3Npp/2pb1n2/8/4P3/2N5/PPP2PPP/R1B1KB1R w KQ - 1 9,"Again, just as in my first game, my opponent moves his bishop twice, perhaps since the only reason he put it on d6 in the first place was to chase away my knight."
+17,Nxh8,f7h8,rnb1k2N/pp4pp/2pb1n2/8/4P3/2N5/PPP2PPP/R1B1KB1R b KQ - 0 9,"Again, just as in my first game, my opponent moves his bishop twice, perhaps since the only reason he put it on d6 in the first place was to chase away my knight."
+18,Bc5,d6c5,rnb1k2N/pp4pp/2p2n2/2b5/4P3/2N5/PPP2PPP/R1B1KB1R w KQ - 1 10,"Again, just as in my first game, my opponent moves his bishop twice, perhaps since the only reason he put it on d6 in the first place was to chase away my knight."
+19,Bc4,f1c4,rnb1k2N/pp4pp/2p2n2/2b5/2B1P3/2N5/PPP2PPP/R1B1K2R b KQ - 2 10,It would have been better just to castle here.
+20,Ng4,f6g4,rnb1k2N/pp4pp/2p5/2b5/2B1P1n1/2N5/PPP2PPP/R1B1K2R w KQ - 3 11,It would have been better just to castle here.
+21,Nd1,c3d1,rnb1k2N/pp4pp/2p5/2b5/2B1P1n1/8/PPP2PPP/R1BNK2R b KQ - 4 11,It would have been better just to castle here.
+22,Ne5,g4e5,rnb1k2N/pp4pp/2p5/2b1n3/2B1P3/8/PPP2PPP/R1BNK2R w KQ - 5 12,I can't remember why I made this move.
+23,Bb3,c4b3,rnb1k2N/pp4pp/2p5/2b1n3/4P3/1B6/PPP2PPP/R1BNK2R b KQ - 6 12,I can't remember why I made this move.
+24,Nbd7,b8d7,r1b1k2N/pp1n2pp/2p5/2b1n3/4P3/1B6/PPP2PPP/R1BNK2R w KQ - 7 13,I can't remember why I made this move.
+25,a3,a2a3,r1b1k2N/pp1n2pp/2p5/2b1n3/4P3/PB6/1PP2PPP/R1BNK2R b KQ - 0 13,I can't remember why I made this move.
+26,Nf6,d7f6,r1b1k2N/pp4pp/2p2n2/2b1n3/4P3/PB6/1PP2PPP/R1BNK2R w KQ - 1 14,Why did I just ignore the e pawn? Why didn't I castle on the previous turn?
+27,O-O,e1g1,r1b1k2N/pp4pp/2p2n2/2b1n3/4P3/PB6/1PP2PPP/R1BN1RK1 b - - 2 14,Why did I just ignore the e pawn? Why didn't I castle on the previous turn?
+28,Nxe4,f6e4,r1b1k2N/pp4pp/2p5/2b1n3/4n3/PB6/1PP2PPP/R1BN1RK1 w - - 0 15,Too bad I couldn't fork with f3.
+29,Re1,f1e1,r1b1k2N/pp4pp/2p5/2b1n3/4n3/PB6/1PP2PPP/R1BNR1K1 b - - 1 15,Too bad I couldn't fork with f3.
+30,Bf5,c8f5,r3k2N/pp4pp/2p5/2b1nb2/4n3/PB6/1PP2PPP/R1BNR1K1 w - - 2 16,Too bad I couldn't fork with f3.
+31,Bf4,c1f4,r3k2N/pp4pp/2p5/2b1nb2/4nB2/PB6/1PP2PPP/R2NR1K1 b - - 3 16,Too bad I couldn't fork with f3.
+32,Ng4,e5g4,r3k2N/pp4pp/2p5/2b2b2/4nBn1/PB6/1PP2PPP/R2NR1K1 w - - 4 17,Too bad I couldn't fork with f3.
+33,Be3,f4e3,r3k2N/pp4pp/2p5/2b2b2/4n1n1/PB2B3/1PP2PPP/R2NR1K1 b - - 5 17,My opponent neglected the pin on the knight.
+34,Rd8,a8d8,3rk2N/pp4pp/2p5/2b2b2/4n1n1/PB2B3/1PP2PPP/R2NR1K1 w - - 6 18,My opponent neglected the pin on the knight.
+35,Bxc5,e3c5,3rk2N/pp4pp/2p5/2B2b2/4n1n1/PB6/1PP2PPP/R2NR1K1 b - - 0 18,"Black essentially forked my knight and bishop, so I figured trading a bishop and knight for a rook would be the best line."
+36,Kd7,e8d7,3r3N/pp1k2pp/2p5/2B2b2/4n1n1/PB6/1PP2PPP/R2NR1K1 w - - 1 19,"Black essentially forked my knight and bishop, so I figured trading a bishop and knight for a rook would be the best line."
+37,Nf7,h8f7,3r4/pp1k1Npp/2p5/2B2b2/4n1n1/PB6/1PP2PPP/R2NR1K1 b - - 2 19,"Black essentially forked my knight and bishop, so I figured trading a bishop and knight for a rook would be the best line."
+38,Nxc5,e4c5,3r4/pp1k1Npp/2p5/2n2b2/6n1/PB6/1PP2PPP/R2NR1K1 w - - 0 20,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+39,Nxd8,f7d8,3N4/pp1k2pp/2p5/2n2b2/6n1/PB6/1PP2PPP/R2NR1K1 b - - 0 20,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+40,Kxd8,d7d8,3k4/pp4pp/2p5/2n2b2/6n1/PB6/1PP2PPP/R2NR1K1 w - - 0 21,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+41,Ne3,d1e3,3k4/pp4pp/2p5/2n2b2/6n1/PB2N3/1PP2PPP/R3R1K1 b - - 1 21,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+42,Nxe3,g4e3,3k4/pp4pp/2p5/2n2b2/8/PB2n3/1PP2PPP/R3R1K1 w - - 0 22,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+43,Rxe3,e1e3,3k4/pp4pp/2p5/2n2b2/8/PB2R3/1PP2PPP/R5K1 b - - 0 22,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+44,Kc7,d8c7,8/ppk3pp/2p5/2n2b2/8/PB2R3/1PP2PPP/R5K1 w - - 1 23,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."
+45,Rd1,a1d1,8/ppk3pp/2p5/2n2b2/8/PB2R3/1PP2PPP/3R2K1 b - - 2 23,"My opponent resigned, mostly because he was tired of playing, but I still got something out of this short game."

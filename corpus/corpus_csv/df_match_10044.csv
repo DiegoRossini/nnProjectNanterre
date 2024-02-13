@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White initiates the Ruy-Lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White initiates the Ruy-Lopez
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White initiates the Ruy-Lopez
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,White initiates the Ruy-Lopez
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,White initiates the Ruy-Lopez
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,All pretty standard Ruy-Lopez stuff
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,All pretty standard Ruy-Lopez stuff
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,All pretty standard Ruy-Lopez stuff
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,All pretty standard Ruy-Lopez stuff
+10,Be7,f8e7,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6,All pretty standard Ruy-Lopez stuff
+11,Re1,f1e1,r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 5 6,All pretty standard Ruy-Lopez stuff
+12,b5,b7b5,r1bqk2r/2ppbppp/p1n2n2/1p2p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 0 7,All pretty standard Ruy-Lopez stuff
+13,Bb3,a4b3,r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 1 7,All pretty standard Ruy-Lopez stuff
+14,O-O,e8g8,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - - 2 8,"8...,d6!? but here black changes the move order (idea was to keep the Marshall Attack in hand if given opportunity)"
+15,c3,c2c3,r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 8,White presents the opportunity but somehow I decided to change & played the standard stuff. (Actually a bad sign of double mind which should be avoided)
+16,d6,d7d6,r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9,Black now threatens to pin the f3N
+17,d4,d2d4,r1bq1rk1/2p1bppp/p1np1n2/1p2p3/3PP3/1BP2N2/PP3PPP/RNBQR1K1 b - - 0 9,Text is playable
+18,Bg4,c8g4,r2q1rk1/2p1bppp/p1np1n2/1p2p3/3PP1b1/1BP2N2/PP3PPP/RNBQR1K1 w - - 1 10,Since white allows the pin Black grabs the opportunity.
+19,Nbd2,b1d2,r2q1rk1/2p1bppp/p1np1n2/1p2p3/3PP1b1/1BP2N2/PP1N1PPP/R1BQR1K1 b - - 2 10,This is ?! Here pretty stuff was either 10.d5 or 10.Be3; Whites text now allows black to win the center d4-p
+20,exd4,e5d4,r2q1rk1/2p1bppp/p1np1n2/1p6/3pP1b1/1BP2N2/PP1N1PPP/R1BQR1K1 w - - 0 11,"Too late! Now Whites tries to minimize the loss. Here 11.cxd4, is met with 11...,Nxd4 with strong bind. Anyway black continues with"
+21,h3,h2h3,r2q1rk1/2p1bppp/p1np1n2/1p6/3pP1b1/1BP2N1P/PP1N1PP1/R1BQR1K1 b - - 0 11,"Too late! Now Whites tries to minimize the loss. Here 11.cxd4, is met with 11...,Nxd4 with strong bind. Anyway black continues with"
+22,dxc3,d4c3,r2q1rk1/2p1bppp/p1np1n2/1p6/4P1b1/1Bp2N1P/PP1N1PP1/R1BQR1K1 w - - 0 12,"Much better, than either of 11...,Bh5 retreats spoils the position for black as after 12.g4, white will recover the p or 11...,Bxf3 - the exchange removes the pressure & here also though white loses a p but at a small cost."
+23,bxc3,b2c3,r2q1rk1/2p1bppp/p1np1n2/1p6/4P1b1/1BP2N1P/P2N1PP1/R1BQR1K1 b - - 0 12,"White avoides taking the B as after 12.hxg4,cxd2; 13.Nxd2, whites has a bad position of p structure & his k is slightly exposed."
+24,Bh5,g4h5,r2q1rk1/2p1bppp/p1np1n2/1p5b/4P3/1BP2N1P/P2N1PP1/R1BQR1K1 w - - 1 13,"Still maintains the pin & now black plans 13...,Ne5"
+25,Qc2,d1c2,r2q1rk1/2p1bppp/p1np1n2/1p5b/4P3/1BP2N1P/P1QN1PP1/R1B1R1K1 b - - 2 13,Unpins the N but black still comes down with
+26,Ne5,c6e5,r2q1rk1/2p1bppp/p2p1n2/1p2n2b/4P3/1BP2N1P/P1QN1PP1/R1B1R1K1 w - - 3 14,"Threatens to trade minor pieces on f3 & shatter whites caslted position, so white is forced (practically) to play"
+27,Nxe5,f3e5,r2q1rk1/2p1bppp/p2p1n2/1p2N2b/4P3/1BP4P/P1QN1PP1/R1B1R1K1 b - - 0 14,eying for either d5 or f5 square from e3 or g3 hop
+28,dxe5,d6e5,r2q1rk1/2p1bppp/p4n2/1p2p2b/4P3/1BP4P/P1QN1PP1/R1B1R1K1 w - - 0 15,eying for either d5 or f5 square from e3 or g3 hop
+29,Nf1,d2f1,r2q1rk1/2p1bppp/p4n2/1p2p2b/4P3/1BP4P/P1Q2PP1/R1B1RNK1 b - - 1 15,eying for either d5 or f5 square from e3 or g3 hop
+30,c5,c7c5,r2q1rk1/4bppp/p4n2/1pp1p2b/4P3/1BP4P/P1Q2PP1/R1B1RNK1 w - - 0 16,"Ignores whites N jump, now there is danger of whites B getting trapped, so white plays"
+31,c4,c3c4,r2q1rk1/4bppp/p4n2/1pp1p2b/2P1P3/1B5P/P1Q2PP1/R1B1RNK1 b - - 0 16,"blocks the ...,c4 advance. Text threatens 17.cxb4 & 18.Qxc5= & also opens the outlet for his DSB which might turn on the long diagonal attacking blacks central e5-p, so black plays"
+32,Qc7,d8c7,r4rk1/2q1bppp/p4n2/1pp1p2b/2P1P3/1B5P/P1Q2PP1/R1B1RNK1 w - - 1 17,Defends above threats
+33,cxb5,c4b5,r4rk1/2q1bppp/p4n2/1Pp1p2b/4P3/1B5P/P1Q2PP1/R1B1RNK1 b - - 0 17,Here I feel this is ?! as it allows black a neat passer on qs
+34,axb5,a6b5,r4rk1/2q1bppp/5n2/1pp1p2b/4P3/1B5P/P1Q2PP1/R1B1RNK1 w - - 0 18,"else B gets trapped, but better was 18.Qc3 so as to play 19.Bb2"
+35,a3,a2a3,r4rk1/2q1bppp/5n2/1pp1p2b/4P3/PB5P/2Q2PP1/R1B1RNK1 b - - 0 18,"else B gets trapped, but better was 18.Qc3 so as to play 19.Bb2"

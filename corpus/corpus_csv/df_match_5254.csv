@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This game tells you not to use Queen for protecting more than 1 piece at the same time,
+
+Let's See :)"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Prevent moving knight
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,Prevent moving knight
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Prevent moving knight
+5,d3,d2d3,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,Prevent moving knight
+6,d6,d7d6,rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4,Prevent moving knight
+7,Ne2,g1e2,rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/3P4/PPP1NPPP/RNBQK2R b KQkq - 1 4,Prevent moving knight
+8,h6,h7h6,rnbqk1nr/ppp2pp1/3p3p/2b1p3/2B1P3/3P4/PPP1NPPP/RNBQK2R w KQkq - 0 5,Prevent moving knight
+9,Ng3,e2g3,rnbqk1nr/ppp2pp1/3p3p/2b1p3/2B1P3/3P2N1/PPP2PPP/RNBQK2R b KQkq - 1 5,Prevent moving knight
+10,Nc6,b8c6,r1bqk1nr/ppp2pp1/2np3p/2b1p3/2B1P3/3P2N1/PPP2PPP/RNBQK2R w KQkq - 2 6,Prevent moving knight
+11,c3,c2c3,r1bqk1nr/ppp2pp1/2np3p/2b1p3/2B1P3/2PP2N1/PP3PPP/RNBQK2R b KQkq - 0 6,Prevent moving knight
+12,Nf6,g8f6,r1bqk2r/ppp2pp1/2np1n1p/2b1p3/2B1P3/2PP2N1/PP3PPP/RNBQK2R w KQkq - 1 7,"Now, I see he will attack using his King pawns, I think this is a mistake"
+13,h3,h2h3,r1bqk2r/ppp2pp1/2np1n1p/2b1p3/2B1P3/2PP2NP/PP3PP1/RNBQK2R b KQkq - 0 7,"Now, I see he will attack using his King pawns, I think this is a mistake"
+14,a6,a7a6,r1bqk2r/1pp2pp1/p1np1n1p/2b1p3/2B1P3/2PP2NP/PP3PP1/RNBQK2R w KQkq - 0 8,"Now, I see he will attack using his King pawns, I think this is a mistake"
+15,O-O,e1g1,r1bqk2r/1pp2pp1/p1np1n1p/2b1p3/2B1P3/2PP2NP/PP3PP1/RNBQ1RK1 b kq - 1 8,"Now, I see he will attack using his King pawns, I think this is a mistake"
+16,g5,g7g5,r1bqk2r/1pp2p2/p1np1n1p/2b1p1p1/2B1P3/2PP2NP/PP3PP1/RNBQ1RK1 w kq - 0 9,"Now, I see he will attack using his King pawns, I think this is a mistake"
+17,Nd2,b1d2,r1bqk2r/1pp2p2/p1np1n1p/2b1p1p1/2B1P3/2PP2NP/PP1N1PP1/R1BQ1RK1 b kq - 1 9,"I will get rid of his bishop, by switching it with my knight"
+18,g4,g5g4,r1bqk2r/1pp2p2/p1np1n1p/2b1p3/2B1P1p1/2PP2NP/PP1N1PP1/R1BQ1RK1 w kq - 0 10,No need for change
+19,h4,h3h4,r1bqk2r/1pp2p2/p1np1n1p/2b1p3/2B1P1pP/2PP2N1/PP1N1PP1/R1BQ1RK1 b kq - 0 10,No need for change
+20,Nh7,f6h7,r1bqk2r/1pp2p1n/p1np3p/2b1p3/2B1P1pP/2PP2N1/PP1N1PP1/R1BQ1RK1 w kq - 1 11,"I will give him my pawn, but i need to take his bishop"
+21,Nb3,d2b3,r1bqk2r/1pp2p1n/p1np3p/2b1p3/2B1P1pP/1NPP2N1/PP3PP1/R1BQ1RK1 b kq - 2 11,So i think that my king is protectet
+22,Qxh4,d8h4,r1b1k2r/1pp2p1n/p1np3p/2b1p3/2B1P1pq/1NPP2N1/PP3PP1/R1BQ1RK1 w kq - 0 12,So i think that my king is protectet
+23,Nxc5,b3c5,r1b1k2r/1pp2p1n/p1np3p/2N1p3/2B1P1pq/2PP2N1/PP3PP1/R1BQ1RK1 b kq - 0 12,So i think that my king is protectet
+24,dxc5,d6c5,r1b1k2r/1pp2p1n/p1n4p/2p1p3/2B1P1pq/2PP2N1/PP3PP1/R1BQ1RK1 w kq - 0 13,So i think that my king is protectet
+25,Be3,c1e3,r1b1k2r/1pp2p1n/p1n4p/2p1p3/2B1P1pq/2PPB1N1/PP3PP1/R2Q1RK1 b kq - 1 13,"Now, i will get pawn at c5"
+26,b6,b7b6,r1b1k2r/2p2p1n/ppn4p/2p1p3/2B1P1pq/2PPB1N1/PP3PP1/R2Q1RK1 w kq - 0 14,or getting his knight by my bishop
+27,Bd5,c4d5,r1b1k2r/2p2p1n/ppn4p/2pBp3/4P1pq/2PPB1N1/PP3PP1/R2Q1RK1 b kq - 1 14,now trying to getting it by my pawn
+28,Qf6,h4f6,r1b1k2r/2p2p1n/ppn2q1p/2pBp3/4P1p1/2PPB1N1/PP3PP1/R2Q1RK1 w kq - 2 15,now trying to getting it by my pawn
+29,b4,b2b4,r1b1k2r/2p2p1n/ppn2q1p/2pBp3/1P2P1p1/2PPB1N1/P4PP1/R2Q1RK1 b kq - 0 15,now trying to getting it by my pawn
+30,Ng5,h7g5,r1b1k2r/2p2p2/ppn2q1p/2pBp1n1/1P2P1p1/2PPB1N1/P4PP1/R2Q1RK1 w kq - 1 16,"Ohhhhhhhhhhhhh, a huge mistakefrom black, let's see"
+31,a4,a2a4,r1b1k2r/2p2p2/ppn2q1p/2pBp1n1/PP2P1p1/2PPB1N1/5PP1/R2Q1RK1 b kq - 0 16,"Ohhhhhhhhhhhhh, a huge mistakefrom black, let's see"
+32,h5,h6h5,r1b1k2r/2p2p2/ppn2q2/2pBp1np/PP2P1p1/2PPB1N1/5PP1/R2Q1RK1 w kq - 0 17,"Ohhhhhhhhhhhhh, a huge mistakefrom black, let's see"
+33,Bxg5,e3g5,r1b1k2r/2p2p2/ppn2q2/2pBp1Bp/PP2P1p1/2PP2N1/5PP1/R2Q1RK1 b kq - 0 17,he lost a knight
+34,Qg6,f6g6,r1b1k2r/2p2p2/ppn3q1/2pBp1Bp/PP2P1p1/2PP2N1/5PP1/R2Q1RK1 w kq - 1 18,and no more attack at my King :)
+35,Bh4,g5h4,r1b1k2r/2p2p2/ppn3q1/2pBp2p/PP2P1pB/2PP2N1/5PP1/R2Q1RK1 b kq - 2 18,and no more attack at my King :)
+36,Bb7,c8b7,r3k2r/1bp2p2/ppn3q1/2pBp2p/PP2P1pB/2PP2N1/5PP1/R2Q1RK1 w kq - 3 19,Now attack for a rock
+37,b5,b4b5,r3k2r/1bp2p2/ppn3q1/1PpBp2p/P3P1pB/2PP2N1/5PP1/R2Q1RK1 b kq - 0 19,Now attack for a rock
+38,Nd8,c6d8,r2nk2r/1bp2p2/pp4q1/1PpBp2p/P3P1pB/2PP2N1/5PP1/R2Q1RK1 w kq - 1 20,Now attack for a rock
+39,Qb3,d1b3,r2nk2r/1bp2p2/pp4q1/1PpBp2p/P3P1pB/1QPP2N1/5PP1/R4RK1 b kq - 2 20,Now attack for a rock
+40,Bxd5,b7d5,r2nk2r/2p2p2/pp4q1/1Ppbp2p/P3P1pB/1QPP2N1/5PP1/R4RK1 w kq - 0 21,Now attack for a rock
+41,Qxd5,b3d5,r2nk2r/2p2p2/pp4q1/1PpQp2p/P3P1pB/2PP2N1/5PP1/R4RK1 b kq - 0 21,Now attack for a rock
+42,c6,c7c6,r2nk2r/5p2/ppp3q1/1PpQp2p/P3P1pB/2PP2N1/5PP1/R4RK1 w kq - 0 22,here is the rock
+43,Qxe5+,d5e5,r2nk2r/5p2/ppp3q1/1Pp1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 b kq - 0 22,here is the rock
+44,Ne6,d8e6,r3k2r/5p2/ppp1n1q1/1Pp1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 w kq - 1 23,here is the rock
+45,Qxh8+,e5h8,r3k2Q/5p2/ppp1n1q1/1Pp4p/P3P1pB/2PP2N1/5PP1/R4RK1 b q - 0 23,here is the rock
+46,Nf8,e6f8,r3kn1Q/5p2/ppp3q1/1Pp4p/P3P1pB/2PP2N1/5PP1/R4RK1 w q - 1 24,"now getteing a knight, or another rock"
+47,Qe5+,h8e5,r3kn2/5p2/ppp3q1/1Pp1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 b q - 2 24,"now getteing a knight, or another rock"
+48,Ne6,f8e6,r3k3/5p2/ppp1n1q1/1Pp1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 w q - 3 25,"now getteing a knight, or another rock"
+49,bxc6,b5c6,r3k3/5p2/ppP1n1q1/2p1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 b q - 0 25,"now getteing a knight, or another rock"
+50,Rc8,a8c8,2r1k3/5p2/ppP1n1q1/2p1Q2p/P3P1pB/2PP2N1/5PP1/R4RK1 w - - 1 26,"now getteing a knight, or another rock"
+51,d4,d3d4,2r1k3/5p2/ppP1n1q1/2p1Q2p/P2PP1pB/2P3N1/5PP1/R4RK1 b - - 0 26,"now getteing a knight, or another rock"
+52,Rxc6,c8c6,4k3/5p2/ppr1n1q1/2p1Q2p/P2PP1pB/2P3N1/5PP1/R4RK1 w - - 0 27,"check, and get a good piece"
+53,d5,d4d5,4k3/5p2/ppr1n1q1/2pPQ2p/P3P1pB/2P3N1/5PP1/R4RK1 b - - 0 27,"check, and get a good piece"
+54,f6,f7f6,4k3/8/ppr1npq1/2pPQ2p/P3P1pB/2P3N1/5PP1/R4RK1 w - - 0 28,"check, and get a good piece"
+55,Qb8+,e5b8,1Q2k3/8/ppr1npq1/2pP3p/P3P1pB/2P3N1/5PP1/R4RK1 b - - 1 28,"check, using my knight will let him loose his other knight"
+56,Nd8,e6d8,1Q1nk3/8/ppr2pq1/2pP3p/P3P1pB/2P3N1/5PP1/R4RK1 w - - 2 29,"check, using my knight will let him loose his other knight"
+57,dxc6,d5c6,1Q1nk3/8/ppP2pq1/2p4p/P3P1pB/2P3N1/5PP1/R4RK1 b - - 0 29,"check, using my knight will let him loose his other knight"
+58,Ke7,e8e7,1Q1n4/4k3/ppP2pq1/2p4p/P3P1pB/2P3N1/5PP1/R4RK1 w - - 1 30,"check, using my knight will let him loose his other knight"
+59,Nf5+,g3f5,1Q1n4/4k3/ppP2pq1/2p2N1p/P3P1pB/2P5/5PP1/R4RK1 b - - 2 30,"check, using my knight will let him loose his other knight"
+60,Ke6,e7e6,1Q1n4/8/ppP1kpq1/2p2N1p/P3P1pB/2P5/5PP1/R4RK1 w - - 3 31,"now , 3 moves to the end"
+61,Qxd8,b8d8,3Q4/8/ppP1kpq1/2p2N1p/P3P1pB/2P5/5PP1/R4RK1 b - - 0 31,"now , 3 moves to the end"
+62,Ke5,e6e5,3Q4/8/ppP2pq1/2p1kN1p/P3P1pB/2P5/5PP1/R4RK1 w - - 1 32,"now , 3 moves to the end"
+63,Qd5+,d8d5,8/8/ppP2pq1/2pQkN1p/P3P1pB/2P5/5PP1/R4RK1 b - - 2 32,Good Game
+64,Kf4,e5f4,8/8/ppP2pq1/2pQ1N1p/P3PkpB/2P5/5PP1/R4RK1 w - - 3 33,Good Game
+65,g3+,g2g3,8/8/ppP2pq1/2pQ1N1p/P3PkpB/2P3P1/5P2/R4RK1 b - - 0 33,Good Game
+66,Kf3,f4f3,8/8/ppP2pq1/2pQ1N1p/P3P1pB/2P2kP1/5P2/R4RK1 w - - 1 34,Good Game
+67,Qd3#,d5d3,8/8/ppP2pq1/2p2N1p/P3P1pB/2PQ1kP1/5P2/R4RK1 b - - 2 34,Good Game

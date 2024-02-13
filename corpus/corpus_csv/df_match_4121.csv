@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,for surprise reasons I choose the Pirc
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,for surprise reasons I choose the Pirc
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,now if Nc3 I have e5 immediately challenging the center
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,now if Nc3 I have e5 immediately challenging the center
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,"and here it is as expected white keeps in the main lines, so I get to challenge the center with e5"
+6,e5,e7e5,rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"the Ruy Lopez Pirc, in this line the game assumes a structure and development very similar to those occurred on an open game... the Pirc was just a decoy!"
+7,dxe5,d4e5,rnbqkb1r/ppp2ppp/3p1n2/4P3/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"the more drawish variation, white bets on exchanging queens to get a more comfortable middlegame, with less tactical sharpness..."
+8,dxe5,d6e5,rnbqkb1r/ppp2ppp/5n2/4p3/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,"now if Qxd8 Kxd8 and next maybe Bc4 or Bg5, has of now black has equalized, with an easier game than in the corresponding Ruy Lopez..."
+9,Qxd8+,d1d8,rnbQkb1r/ppp2ppp/5n2/4p3/4P3/2N5/PPP2PPP/R1B1KBNR b KQkq - 0 5,Queens off the board and the king in the center wont be hazardous for me...
+10,Kxd8,e8d8,rnbk1b1r/ppp2ppp/5n2/4p3/4P3/2N5/PPP2PPP/R1B1KBNR w KQ - 0 6,Queens off the board and the king in the center wont be hazardous for me...
+11,Nf3,g1f3,rnbk1b1r/ppp2ppp/5n2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R b KQ - 1 6,"preparing Be6 by placing the rook on the future semi-open column, and to keep my king on the center of the boards eyeing both wings..."
+12,Bd6,f8d6,rnbk3r/ppp2ppp/3b1n2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 2 7,"preparing Be6 by placing the rook on the future semi-open column, and to keep my king on the center of the boards eyeing both wings..."
+13,Bc4,f1c4,rnbk3r/ppp2ppp/3b1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1B1K2R b KQ - 3 7,"preparing Be6 by placing the rook on the future semi-open column, and to keep my king on the center of the boards eyeing both wings..."
+14,Rf8,h8f8,rnbk1r2/ppp2ppp/3b1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1B1K2R w KQ - 4 8,"preparing Be6 by placing the rook on the future semi-open column, and to keep my king on the center of the boards eyeing both wings..."
+15,Bg5,c1g5,rnbk1r2/ppp2ppp/3b1n2/4p1B1/2B1P3/2N2N2/PPP2PPP/R3K2R b KQ - 5 8,it was this or a shy retreat...
+16,Be6,c8e6,rn1k1r2/ppp2ppp/3bbn2/4p1B1/2B1P3/2N2N2/PPP2PPP/R3K2R w KQ - 6 9,it was this or a shy retreat...
+17,Bxe6,c4e6,rn1k1r2/ppp2ppp/3bBn2/4p1B1/4P3/2N2N2/PPP2PPP/R3K2R b KQ - 0 9,it was this or a shy retreat...
+18,fxe6,f7e6,rn1k1r2/ppp3pp/3bpn2/4p1B1/4P3/2N2N2/PPP2PPP/R3K2R w KQ - 0 10,"and now here it is the open column, I've managed to equalize right on the opening"
+19,O-O-O,e1c1,rn1k1r2/ppp3pp/3bpn2/4p1B1/4P3/2N2N2/PPP2PPP/2KR3R b - - 1 10,eventually heading to g3
+20,h6,h7h6,rn1k1r2/ppp3p1/3bpn1p/4p1B1/4P3/2N2N2/PPP2PPP/2KR3R w - - 0 11,eventually heading to g3
+21,Bh4,g5h4,rn1k1r2/ppp3p1/3bpn1p/4p3/4P2B/2N2N2/PPP2PPP/2KR3R b - - 1 11,eventually heading to g3
+22,Nc6,b8c6,r2k1r2/ppp3p1/2nbpn1p/4p3/4P2B/2N2N2/PPP2PPP/2KR3R w - - 2 12,developing
+23,h3,h2h3,r2k1r2/ppp3p1/2nbpn1p/4p3/4P2B/2N2N1P/PPP2PP1/2KR3R b - - 0 12,"prophylaxis in two ways, preventing Ng4 and opening an escape square for the dark squares bishop"
+24,Ke7,d8e7,r4r2/ppp1k1p1/2nbpn1p/4p3/4P2B/2N2N1P/PPP2PP1/2KR3R w - - 1 13,leaves d8 to connect rooks while assuming a defensive role for my weakest pawn e6 and increases control of the d column if the rooks are ever to be exchanged
+25,a3,a2a3,r4r2/ppp1k1p1/2nbpn1p/4p3/4P2B/P1N2N1P/1PP2PP1/2KR3R b - - 0 13,blocks the column in reply to white's threat of doubling the rooks
+26,Rad8,a8d8,3r1r2/ppp1k1p1/2nbpn1p/4p3/4P2B/P1N2N1P/1PP2PP1/2KR3R w - - 1 14,blocks the column in reply to white's threat of doubling the rooks
+27,Rd3,d1d3,3r1r2/ppp1k1p1/2nbpn1p/4p3/4P2B/P1NR1N1P/1PP2PP1/2K4R b - - 2 14,blocks the column in reply to white's threat of doubling the rooks
+28,Nd4,c6d4,3r1r2/ppp1k1p1/3bpn1p/4p3/3nP2B/P1NR1N1P/1PP2PP1/2K4R w - - 3 15,blocks the column in reply to white's threat of doubling the rooks
+29,Rhd1,h1d1,3r1r2/ppp1k1p1/3bpn1p/4p3/3nP2B/P1NR1N1P/1PP2PP1/2KR4 b - - 4 15,a6 to follow preventing Nb5 and preparing the b5 push
+30,c5,c7c5,3r1r2/pp2k1p1/3bpn1p/2p1p3/3nP2B/P1NR1N1P/1PP2PP1/2KR4 w - - 0 16,a6 to follow preventing Nb5 and preparing the b5 push
+31,Rd1d2,d1d2,3r1r2/pp2k1p1/3bpn1p/2p1p3/3nP2B/P1NR1N1P/1PPR1PP1/2K5 b - - 1 16,"with tempo, after a6 and b5 I'll have much more space and white would have a bit cramped position"
+32,c4,c5c4,3r1r2/pp2k1p1/3bpn1p/4p3/2pnP2B/P1NR1N1P/1PPR1PP1/2K5 w - - 0 17,"with tempo, after a6 and b5 I'll have much more space and white would have a bit cramped position"
+33,Re3,d3e3,3r1r2/pp2k1p1/3bpn1p/4p3/2pnP2B/P1N1RN1P/1PPR1PP1/2K5 b - - 1 17,only
+34,a6,a7a6,3r1r2/1p2k1p1/p2bpn1p/4p3/2pnP2B/P1N1RN1P/1PPR1PP1/2K5 w - - 0 18,"preparing b5, and preventing Nb5"
+35,Bg3,h4g3,3r1r2/1p2k1p1/p2bpn1p/4p3/2pnP3/P1N1RNBP/1PPR1PP1/2K5 b - - 1 18,"with my pawns and pieces set I choose to exchange a few more pieces to simplify the game, and try to outplay my opponent due to the space advantage and activity of the remaining pieces"
+36,Nxf3,d4f3,3r1r2/1p2k1p1/p2bpn1p/4p3/2p1P3/P1N1RnBP/1PPR1PP1/2K5 w - - 0 19,"with my pawns and pieces set I choose to exchange a few more pieces to simplify the game, and try to outplay my opponent due to the space advantage and activity of the remaining pieces"

@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"I am playing as black.  The Bird's [Thanks chessboard12] opening from my opponent.
+
+Computer Score: book"
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,Score: -0.15
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,Score: -0.14
+4,d5,d7d5,rnbqkbnr/ppp1p1pp/8/3p1p2/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3,Score: -0.51
+5,d4,d2d4,rnbqkbnr/ppp1p1pp/8/3p1p2/3P1P2/5N2/PPP1P1PP/RNBQKB1R b KQkq - 0 3,Score: -0.12
+6,e6,e7e6,rnbqkbnr/ppp3pp/4p3/3p1p2/3P1P2/5N2/PPP1P1PP/RNBQKB1R w KQkq - 0 4,Score: -0.12
+7,Ne5,f3e5,rnbqkbnr/ppp3pp/4p3/3pNp2/3P1P2/8/PPP1P1PP/RNBQKB1R b KQkq - 1 4,Score: +0.05
+8,Bd6,f8d6,rnbqk1nr/ppp3pp/3bp3/3pNp2/3P1P2/8/PPP1P1PP/RNBQKB1R w KQkq - 2 5,Score: -0.18
+9,Nc3,b1c3,rnbqk1nr/ppp3pp/3bp3/3pNp2/3P1P2/2N5/PPP1P1PP/R1BQKB1R b KQkq - 3 5,Score: -0.18
+10,a6,a7a6,rnbqk1nr/1pp3pp/p2bp3/3pNp2/3P1P2/2N5/PPP1P1PP/R1BQKB1R w KQkq - 0 6,Score: -0.38
+11,g4,g2g4,rnbqk1nr/1pp3pp/p2bp3/3pNp2/3P1PP1/2N5/PPP1P2P/R1BQKB1R b KQkq - 0 6,"The computer calls this move a mistake.  I agree and I will capitalize soon.
+
+Mistake: +1.26 » 6. g4 Qh4+ 7. Kd2 Nf6 8. Qe1 Qxe1+ 9. Kxe1 Nxg4 10. Bh3 Bxe5 11. fxe5 Nc6 12. e3 Bd7
+Best: -0.39 » 6. e3 Nf6 7. Bd2 O-O 8. Qe2 Nbd7 9. O-O-O Be7 10. Qf3 Nxe5 11. dxe5 Ne4 12. Nxe4 fxe4"
+12,Bxe5,d6e5,rnbqk1nr/1pp3pp/p3p3/3pbp2/3P1PP1/2N5/PPP1P2P/R1BQKB1R w KQkq - 0 7,Score: +0.76
+13,fxe5,f4e5,rnbqk1nr/1pp3pp/p3p3/3pPp2/3P2P1/2N5/PPP1P2P/R1BQKB1R b KQkq - 0 7,Score: +1.07
+14,Qh4+,d8h4,rnb1k1nr/1pp3pp/p3p3/3pPp2/3P2Pq/2N5/PPP1P2P/R1BQKB1R w KQkq - 1 8,"Only one option here, and I take his pawn, and the lead.
+
+Score: +1.16"
+15,Kd2,e1d2,rnb1k1nr/1pp3pp/p3p3/3pPp2/3P2Pq/2N5/PPPKP2P/R1BQ1B1R b kq - 2 8,Score: +1.07
+16,Qxg4,h4g4,rnb1k1nr/1pp3pp/p3p3/3pPp2/3P2q1/2N5/PPPKP2P/R1BQ1B1R w kq - 0 9,"I am not sure why the score actually drops here.  Perhaps fxg4 would have been better, but I didn't want to block my queen.
+
+Score: +0.13"
+17,e3,e2e3,rnb1k1nr/1pp3pp/p3p3/3pPp2/3P2q1/2N1P3/PPPK3P/R1BQ1B1R b kq - 0 9,Score: +0.20
+18,Qg5,g4g5,rnb1k1nr/1pp3pp/p3p3/3pPpq1/3P4/2N1P3/PPPK3P/R1BQ1B1R w kq - 1 10,"I wasn't ready to trade queens at this point.
+
+Score: +0.11"
+19,Kd3,d2d3,rnb1k1nr/1pp3pp/p3p3/3pPpq1/3P4/2NKP3/PPP4P/R1BQ1B1R b kq - 2 10,Score: +0.52
+20,Bd7,c8d7,rn2k1nr/1ppb2pp/p3p3/3pPpq1/3P4/2NKP3/PPP4P/R1BQ1B1R w kq - 3 11,Score: +0.49

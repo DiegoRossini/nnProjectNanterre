@@ -1,0 +1,90 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"White camp is attacking on the King side. I answer by 1. ... d5, right in the center, because that is what is important in early game."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"White camp is attacking on the King side. I answer by 1. ... d5, right in the center, because that is what is important in early game."
+3,h3,h2h3,rnbqkbnr/ppp1pppp/8/3p4/5P2/7P/PPPPP1P1/RNBQKBNR b KQkq - 0 2,"2. h3? Playing Nf3 is better. h3 is totally a bet, because I can play Bg4 or Ng4, but not before a long time. More important, it loses time, and Black camp can attack by 2. c5! which controls the center. In this game, that's the plan."
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/5P2/7P/PPPPP1P1/RNBQKBNR w KQkq - 0 3,"4. a3? Same as 2. h3. It is a bet, and, my knight has nothing to do there. Its place is more in the center."
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/8/2pp4/5P2/5N1P/PPPPP1P1/RNBQKB1R b KQkq - 1 3,"4. a3? Same as 2. h3. It is a bet, and, my knight has nothing to do there. Its place is more in the center."
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/2pp4/5P2/5N1P/PPPPP1P1/RNBQKB1R w KQkq - 2 4,"4. a3? Same as 2. h3. It is a bet, and, my knight has nothing to do there. Its place is more in the center."
+7,a3,a2a3,r1bqkbnr/pp2pppp/2n5/2pp4/5P2/P4N1P/1PPPP1P1/RNBQKB1R b KQkq - 0 4,"4. a3? Same as 2. h3. It is a bet, and, my knight has nothing to do there. Its place is more in the center."
+8,g6,g7g6,r1bqkbnr/pp2pp1p/2n3p1/2pp4/5P2/P4N1P/1PPPP1P1/RNBQKB1R w KQkq - 0 5,"6. a4 ? White are making a lot of mistakes. After 5. g5?! I thought that the would push against my castle and control f6, which would have forced my knight to go to e7, which is not really a good place."
+9,g4,g2g4,r1bqkbnr/pp2pp1p/2n3p1/2pp4/5PP1/P4N1P/1PPPP3/RNBQKB1R b KQkq - 0 5,"6. a4 ? White are making a lot of mistakes. After 5. g5?! I thought that the would push against my castle and control f6, which would have forced my knight to go to e7, which is not really a good place."
+10,Bg7,f8g7,r1bqk1nr/pp2ppbp/2n3p1/2pp4/5PP1/P4N1P/1PPPP3/RNBQKB1R w KQkq - 1 6,"6. a4 ? White are making a lot of mistakes. After 5. g5?! I thought that the would push against my castle and control f6, which would have forced my knight to go to e7, which is not really a good place."
+11,a4,a3a4,r1bqk1nr/pp2ppbp/2n3p1/2pp4/P4PP1/5N1P/1PPPP3/RNBQKB1R b KQkq - 0 6,"6. a4 ? White are making a lot of mistakes. After 5. g5?! I thought that the would push against my castle and control f6, which would have forced my knight to go to e7, which is not really a good place."
+12,Nf6,g8f6,r1bqk2r/pp2ppbp/2n2np1/2pp4/P4PP1/5N1P/1PPPP3/RNBQKB1R w KQkq - 1 7,8. g5! to continue the plan. Control the center is not the plan for White here. And their bishops don't play. Black definitely have the initiative.
+13,d3,d2d3,r1bqk2r/pp2ppbp/2n2np1/2pp4/P4PP1/3P1N1P/1PP1P3/RNBQKB1R b KQkq - 0 7,8. g5! to continue the plan. Control the center is not the plan for White here. And their bishops don't play. Black definitely have the initiative.
+14,O-O,e8g8,r1bq1rk1/pp2ppbp/2n2np1/2pp4/P4PP1/3P1N1P/1PP1P3/RNBQKB1R w KQ - 1 8,8. g5! to continue the plan. Control the center is not the plan for White here. And their bishops don't play. Black definitely have the initiative.
+15,e3,e2e3,r1bq1rk1/pp2ppbp/2n2np1/2pp4/P4PP1/3PPN1P/1PP5/RNBQKB1R b KQ - 0 8,8. g5! to continue the plan. Control the center is not the plan for White here. And their bishops don't play. Black definitely have the initiative.
+16,Re8,f8e8,r1bqr1k1/pp2ppbp/2n2np1/2pp4/P4PP1/3PPN1P/1PP5/RNBQKB1R w KQ - 1 9,"e3 is weak, and I need to open the game by e5, after playing 9. ... Qc7"
+17,c3,c2c3,r1bqr1k1/pp2ppbp/2n2np1/2pp4/P4PP1/2PPPN1P/1P6/RNBQKB1R b KQ - 0 9,"White have a great pawn structure here. But in fact, that does not serve their game: it definitely breaks their Knights and Bishops. 11. ... exf4 is very dangerous too."
+18,Qc7,d8c7,r1b1r1k1/ppq1ppbp/2n2np1/2pp4/P4PP1/2PPPN1P/1P6/RNBQKB1R w KQ - 1 10,"White have a great pawn structure here. But in fact, that does not serve their game: it definitely breaks their Knights and Bishops. 11. ... exf4 is very dangerous too."
+19,Bg2,f1g2,r1b1r1k1/ppq1ppbp/2n2np1/2pp4/P4PP1/2PPPN1P/1P4B1/RNBQK2R b KQ - 2 10,"White have a great pawn structure here. But in fact, that does not serve their game: it definitely breaks their Knights and Bishops. 11. ... exf4 is very dangerous too."
+20,e5,e7e5,r1b1r1k1/ppq2pbp/2n2np1/2ppp3/P4PP1/2PPPN1P/1P4B1/RNBQK2R w KQ - 0 11,"White have a great pawn structure here. But in fact, that does not serve their game: it definitely breaks their Knights and Bishops. 11. ... exf4 is very dangerous too."
+21,b3,b2b3,r1b1r1k1/ppq2pbp/2n2np1/2ppp3/P4PP1/1PPPPN1P/6B1/RNBQK2R b KQ - 0 11,"White have a great pawn structure here. But in fact, that does not serve their game: it definitely breaks their Knights and Bishops. 11. ... exf4 is very dangerous too."
+22,exf4,e5f4,r1b1r1k1/ppq2pbp/2n2np1/2pp4/P4pP1/1PPPPN1P/6B1/RNBQK2R w KQ - 0 12,12. ... Rxe3 is not possible (even very tempting) because of the Bishop in c1.
+23,Qe2,d1e2,r1b1r1k1/ppq2pbp/2n2np1/2pp4/P4pP1/1PPPPN1P/4Q1B1/RNB1K2R b KQ - 1 12,12. ... Rxe3 is not possible (even very tempting) because of the Bishop in c1.
+24,fxe3,f4e3,r1b1r1k1/ppq2pbp/2n2np1/2pp4/P5P1/1PPPpN1P/4Q1B1/RNB1K2R w KQ - 0 13,12. ... Rxe3 is not possible (even very tempting) because of the Bishop in c1.
+25,Bxe3,c1e3,r1b1r1k1/ppq2pbp/2n2np1/2pp4/P5P1/1PPPBN1P/4Q1B1/RN2K2R b KQ - 0 13,"Black want to gain something. As all the White pieces are on the King, it is time to attack."
+26,Qg3+,c7g3,r1b1r1k1/pp3pbp/2n2np1/2pp4/P5P1/1PPPBNqP/4Q1B1/RN2K2R w KQ - 1 14,"Black want to gain something. As all the White pieces are on the King, it is time to attack."
+27,Kd1,e1d1,r1b1r1k1/pp3pbp/2n2np1/2pp4/P5P1/1PPPBNqP/4Q1B1/RN1K3R b - - 2 14,"With the opening of the center, I prefer the exchange of the queens. Next step, continue to exchange and maybe win some material."
+28,d4,d5d4,r1b1r1k1/pp3pbp/2n2np1/2p5/P2p2P1/1PPPBNqP/4Q1B1/RN1K3R w - - 0 15,"With the opening of the center, I prefer the exchange of the queens. Next step, continue to exchange and maybe win some material."
+29,Qf2,e2f2,r1b1r1k1/pp3pbp/2n2np1/2p5/P2p2P1/1PPPBNqP/5QB1/RN1K3R b - - 1 15,"With the opening of the center, I prefer the exchange of the queens. Next step, continue to exchange and maybe win some material."
+30,Qxf2,g3f2,r1b1r1k1/pp3pbp/2n2np1/2p5/P2p2P1/1PPPBN1P/5qB1/RN1K3R w - - 0 16,"With the opening of the center, I prefer the exchange of the queens. Next step, continue to exchange and maybe win some material."
+31,Bxf2,e3f2,r1b1r1k1/pp3pbp/2n2np1/2p5/P2p2P1/1PPP1N1P/5BB1/RN1K3R b - - 0 16,"With the opening of the center, I prefer the exchange of the queens. Next step, continue to exchange and maybe win some material."
+32,Nd5,f6d5,r1b1r1k1/pp3pbp/2n3p1/2pn4/P2p2P1/1PPP1N1P/5BB1/RN1K3R w - - 1 17,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+33,Nfd2,f3d2,r1b1r1k1/pp3pbp/2n3p1/2pn4/P2p2P1/1PPP3P/3N1BB1/RN1K3R b - - 2 17,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+34,Nxc3+,d5c3,r1b1r1k1/pp3pbp/2n3p1/2p5/P2p2P1/1PnP3P/3N1BB1/RN1K3R w - - 0 18,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+35,Kc2,d1c2,r1b1r1k1/pp3pbp/2n3p1/2p5/P2p2P1/1PnP3P/2KN1BB1/RN5R b - - 1 18,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+36,Nxb1,c3b1,r1b1r1k1/pp3pbp/2n3p1/2p5/P2p2P1/1P1P3P/2KN1BB1/Rn5R w - - 0 19,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+37,Raxb1,a1b1,r1b1r1k1/pp3pbp/2n3p1/2p5/P2p2P1/1P1P3P/2KN1BB1/1R5R b - - 0 19,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+38,Be6,c8e6,r3r1k1/pp3pbp/2n1b1p1/2p5/P2p2P1/1P1P3P/2KN1BB1/1R5R w - - 1 20,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+39,g5,g4g5,r3r1k1/pp3pbp/2n1b1p1/2p3P1/P2p4/1P1P3P/2KN1BB1/1R5R b - - 0 20,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+40,Bf5,e6f5,r3r1k1/pp3pbp/2n3p1/2p2bP1/P2p4/1P1P3P/2KN1BB1/1R5R w - - 1 21,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+41,Bxc6,g2c6,r3r1k1/pp3pbp/2B3p1/2p2bP1/P2p4/1P1P3P/2KN1B2/1R5R b - - 0 21,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+42,bxc6,b7c6,r3r1k1/p4pbp/2p3p1/2p2bP1/P2p4/1P1P3P/2KN1B2/1R5R w - - 0 22,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+43,Bg3,f2g3,r3r1k1/p4pbp/2p3p1/2p2bP1/P2p4/1P1P2BP/2KN4/1R5R b - - 1 22,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+44,Re3,e8e3,r5k1/p4pbp/2p3p1/2p2bP1/P2p4/1P1Pr1BP/2KN4/1R5R w - - 2 23,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+45,Bf4,g3f4,r5k1/p4pbp/2p3p1/2p2bP1/P2p1B2/1P1Pr2P/2KN4/1R5R b - - 3 23,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+46,Rxd3,e3d3,r5k1/p4pbp/2p3p1/2p2bP1/P2p1B2/1P1r3P/2KN4/1R5R w - - 0 24,"With a very dangerous rook in d3, the b column wide open, I concentrate my forces on the queen size where the white king hides."
+47,Kd1,c2d1,r5k1/p4pbp/2p3p1/2p2bP1/P2p1B2/1P1r3P/3N4/1R1K3R b - - 1 24,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+48,f6,f7f6,r5k1/p5bp/2p2pp1/2p2bP1/P2p1B2/1P1r3P/3N4/1R1K3R w - - 0 25,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+49,Kc1,d1c1,r5k1/p5bp/2p2pp1/2p2bP1/P2p1B2/1P1r3P/3N4/1RK4R b - - 1 25,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+50,fxg5,f6g5,r5k1/p5bp/2p3p1/2p2bp1/P2p1B2/1P1r3P/3N4/1RK4R w - - 0 26,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+51,Bxg5,f4g5,r5k1/p5bp/2p3p1/2p2bB1/P2p4/1P1r3P/3N4/1RK4R b - - 0 26,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+52,Be6,f5e6,r5k1/p5bp/2p1b1p1/2p3B1/P2p4/1P1r3P/3N4/1RK4R w - - 1 27,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+53,h4,h3h4,r5k1/p5bp/2p1b1p1/2p3B1/P2p3P/1P1r4/3N4/1RK4R b - - 0 27,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+54,Rb8,a8b8,1r4k1/p5bp/2p1b1p1/2p3B1/P2p3P/1P1r4/3N4/1RK4R w - - 1 28,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+55,Kc2,c1c2,1r4k1/p5bp/2p1b1p1/2p3B1/P2p3P/1P1r4/2KN4/1R5R b - - 2 28,"Looking to obtain the b pawn. 28. Kc2 remebered me that it is not a pawn, it is the king that I want."
+56,Rc3+,d3c3,1r4k1/p5bp/2p1b1p1/2p3B1/P2p3P/1Pr5/2KN4/1R5R w - - 3 29,"29. ... d3 prepares Rc2. Bxb3 is interesting too, but the Bishops pair is too precious."
+57,Kb2,c2b2,1r4k1/p5bp/2p1b1p1/2p3B1/P2p3P/1Pr5/1K1N4/1R5R b - - 4 29,"29. ... d3 prepares Rc2. Bxb3 is interesting too, but the Bishops pair is too precious."
+58,d3,d4d3,1r4k1/p5bp/2p1b1p1/2p3B1/P6P/1Prp4/1K1N4/1R5R w - - 0 30,"29. ... d3 prepares Rc2. Bxb3 is interesting too, but the Bishops pair is too precious."
+59,Ka3,b2a3,1r4k1/p5bp/2p1b1p1/2p3B1/P6P/KPrp4/3N4/1R5R b - - 1 30,"Even better! I need just to play c4, and then, the white position is crushing itself."
+60,c4,c5c4,1r4k1/p5bp/2p1b1p1/6B1/P1p4P/KPrp4/3N4/1R5R w - - 0 31,"There is only one square where the king is safe. I did not found a checkmate for this continuation, but the advantage of the Black camp is too strong to do something great. 
+
+After 31. Kb2, we have:
+31. Kb2 Rc2+
+32. Ka3 Bf8+
+33. Be7 Bxe7#
+
+If they play 32. Ka1, 32. ... b2+ may give you everything white camp has."
+61,Ka2,a3a2,1r4k1/p5bp/2p1b1p1/6B1/P1p4P/1Prp4/K2N4/1R5R b - - 1 31,"There is only one square where the king is safe. I did not found a checkmate for this continuation, but the advantage of the Black camp is too strong to do something great. 
+
+After 31. Kb2, we have:
+31. Kb2 Rc2+
+32. Ka3 Bf8+
+33. Be7 Bxe7#
+
+If they play 32. Ka1, 32. ... b2+ may give you everything white camp has."
+62,cxb3+,c4b3,1r4k1/p5bp/2p1b1p1/6B1/P6P/1prp4/K2N4/1R5R w - - 0 32,"There is only one square where the king is safe. I did not found a checkmate for this continuation, but the advantage of the Black camp is too strong to do something great. 
+
+After 31. Kb2, we have:
+31. Kb2 Rc2+
+32. Ka3 Bf8+
+33. Be7 Bxe7#
+
+If they play 32. Ka1, 32. ... b2+ may give you everything white camp has."
+63,Ka3,a2a3,1r4k1/p5bp/2p1b1p1/6B1/P6P/Kprp4/3N4/1R5R b - - 1 32,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."
+64,b2+,b3b2,1r4k1/p5bp/2p1b1p1/6B1/P6P/K1rp4/1p1N4/1R5R w - - 0 33,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."
+65,Nb3,d2b3,1r4k1/p5bp/2p1b1p1/6B1/P6P/KNrp4/1p6/1R5R b - - 1 33,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."
+66,Rbxb3+,b8b3,6k1/p5bp/2p1b1p1/6B1/P6P/Krrp4/1p6/1R5R w - - 0 34,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."
+67,Ka2,a3a2,6k1/p5bp/2p1b1p1/6B1/P6P/1rrp4/Kp6/1R5R b - - 1 34,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."
+68,Rb4#,b3b4,6k1/p5bp/2p1b1p1/6B1/Pr5P/2rp4/Kp6/1R5R w - - 2 35,"Thanks for reading this annotation (sorry for the bad English, I'm french and it's late :)) and see you later for another analysis."

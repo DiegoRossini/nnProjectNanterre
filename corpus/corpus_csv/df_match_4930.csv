@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,"I rarely see this opening, and I think the last time I remember seeing it was from studying a 19th century game. I'm sure the pawn is bait ..."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,"... but I think I can play this to my advantage, so I move out to the center and threaten to take the baited pawn."
+3,Bg2,f1g2,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2,I take the bait and ...
+4,Bxg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/6b1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3,I take the bait and ...
+5,c4,c2c4,rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 3,"... white offers another poisoned pawn. Having studied this opening in a 19th century game, I know not to take the second pawn. If I do, the white bishop takes b7 and then takes a8 one move later. For the gain of two pawns, black loses a pawn and a rook."
+6,Be6,g4e6,rn1qkbnr/ppp1pppp/4b3/3p4/2P5/8/PP1PPPBP/RNBQK1NR w KQkq - 1 4,I pull the bishop back to protect my own pawn. This move block's the king's pawn and hence makes it harder for my dark square bishop to get out and join the fight.
+7,Qa4+,d1a4,rn1qkbnr/ppp1pppp/4b3/3p4/Q1P5/8/PP1PPPBP/RNB1K1NR b KQkq - 2 4,"I guessed white would bring the queen out early to put me in check. Possible responses are to bring back the bishop to d7 and threaten the queen, move the knight to c6 to block the queen's attack, block with my own queen, or use a lowly pawn. Regardless of black's move, I suspect white will move the queen to b4 and threaten the unprotected b7 pawn."
+8,c6,c7c6,rn1qkbnr/pp2pppp/2p1b3/3p4/Q1P5/8/PP1PPPBP/RNB1K1NR w KQkq - 0 5,I'm not surprised at the queen move. My options are to push the b7 pawn or move the queen to protect it.
+9,Qb4,a4b4,rn1qkbnr/pp2pppp/2p1b3/3p4/1QP5/8/PP1PPPBP/RNB1K1NR b KQkq - 1 5,I'm not surprised at the queen move. My options are to push the b7 pawn or move the queen to protect it.
+10,b6,b7b6,rn1qkbnr/p3pppp/1pp1b3/3p4/1QP5/8/PP1PPPBP/RNB1K1NR w KQkq - 0 6,"White decides to take out black's bishop, take control over the center, and have a momentary advantage in material. Here, I can retake white's bishop with the pawn and be 1 pawn up, but that advantage is too momentary since white can go Qb5+ Nd7, Qxd5 followed by either e6 or Nf6."
+11,cxd5,c4d5,rn1qkbnr/p3pppp/1pp1b3/3P4/1Q6/8/PP1PPPBP/RNB1K1NR b KQkq - 0 6,"White decides to take out black's bishop, take control over the center, and have a momentary advantage in material. Here, I can retake white's bishop with the pawn and be 1 pawn up, but that advantage is too momentary since white can go Qb5+ Nd7, Qxd5 followed by either e6 or Nf6."
+12,Bxd5,e6d5,rn1qkbnr/p3pppp/1pp5/3b4/1Q6/8/PP1PPPBP/RNB1K1NR w KQkq - 0 7,"White decides to take out black's bishop, take control over the center, and have a momentary advantage in material. Here, I can retake white's bishop with the pawn and be 1 pawn up, but that advantage is too momentary since white can go Qb5+ Nd7, Qxd5 followed by either e6 or Nf6."
+13,Bxd5,g2d5,rn1qkbnr/p3pppp/1pp5/3B4/1Q6/8/PP1PPP1P/RNB1K1NR b KQkq - 0 7,"White decides to take out black's bishop, take control over the center, and have a momentary advantage in material. Here, I can retake white's bishop with the pawn and be 1 pawn up, but that advantage is too momentary since white can go Qb5+ Nd7, Qxd5 followed by either e6 or Nf6."
+14,e6,e7e6,rn1qkbnr/p4ppp/1pp1p3/3B4/1Q6/8/PP1PPP1P/RNB1K1NR w KQkq - 0 8,Surprise #1! I can threaten the bishop and queen in one move.
+15,Bxc6+,d5c6,rn1qkbnr/p4ppp/1pB1p3/8/1Q6/8/PP1PPP1P/RNB1K1NR b KQkq - 0 8,A logical way for white to regain tempo and avoid losing the bishop when moving the queen.
+16,Nxc6,b8c6,r2qkbnr/p4ppp/1pn1p3/8/1Q6/8/PP1PPP1P/RNB1K1NR w KQkq - 0 9,Now I have two threats on the white queen. A goal for the next few moves is to get my queen onto the main diagonal where I can take out the exposed rook on h1.
+17,Qb5,b4b5,r2qkbnr/p4ppp/1pn1p3/1Q6/8/8/PP1PPP1P/RNB1K1NR b KQkq - 1 9,White moves pieces to put pressure on the pinned black knight.
+18,Qc7,d8c7,r3kbnr/p1q2ppp/1pn1p3/1Q6/8/8/PP1PPP1P/RNB1K1NR w KQkq - 2 10,White moves pieces to put pressure on the pinned black knight.
+19,Nf3,g1f3,r3kbnr/p1q2ppp/1pn1p3/1Q6/8/5N2/PP1PPP1P/RNB1K2R b KQkq - 3 10,White moves pieces to put pressure on the pinned black knight.
+20,Bc5,f8c5,r3k1nr/p1q2ppp/1pn1p3/1Qb5/8/5N2/PP1PPP1P/RNB1K2R w KQkq - 4 11,Move the bishop out so I can use the other black knight for support.
+21,Ne5,f3e5,r3k1nr/p1q2ppp/1pn1p3/1Qb1N3/8/8/PP1PPP1P/RNB1K2R b KQkq - 5 11,Not only is my second knight ready to provide support to the first but the king can now castle to safety.
+22,Nge7,g8e7,r3k2r/p1q1nppp/1pn1p3/1Qb1N3/8/8/PP1PPP1P/RNB1K2R w KQkq - 6 12,Not only is my second knight ready to provide support to the first but the king can now castle to safety.
+23,Nxc6,e5c6,r3k2r/p1q1nppp/1pN1p3/1Qb5/8/8/PP1PPP1P/RNB1K2R b KQkq - 0 12,A predictable exchange of knights.
+24,Nxc6,e7c6,r3k2r/p1q2ppp/1pn1p3/1Qb5/8/8/PP1PPP1P/RNB1K2R w KQkq - 0 13,A predictable exchange of knights.
+25,e3,e2e3,r3k2r/p1q2ppp/1pn1p3/1Qb5/8/4P3/PP1P1P1P/RNB1K2R b KQkq - 0 13,And the king moves to safety thus allowing the pinned knight to move freely.
+26,O-O,e8g8,r4rk1/p1q2ppp/1pn1p3/1Qb5/8/4P3/PP1P1P1P/RNB1K2R w KQ - 1 14,And the king moves to safety thus allowing the pinned knight to move freely.
+27,f4,f2f4,r4rk1/p1q2ppp/1pn1p3/1Qb5/5P2/4P3/PP1P3P/RNB1K2R b KQ - 0 14,Black develops a pawn and puts pressure on the white queen.
+28,a6,a7a6,r4rk1/2q2ppp/ppn1p3/1Qb5/5P2/4P3/PP1P3P/RNB1K2R w KQ - 0 15,Black develops a pawn and puts pressure on the white queen.
+29,Qd3,b5d3,r4rk1/2q2ppp/ppn1p3/2b5/5P2/3QP3/PP1P3P/RNB1K2R b KQ - 1 15,The rook takes control over the half-open file and puts more pressure on the white queen.
+30,Rfd8,f8d8,r2r2k1/2q2ppp/ppn1p3/2b5/5P2/3QP3/PP1P3P/RNB1K2R w KQ - 2 16,The rook takes control over the half-open file and puts more pressure on the white queen.
+31,Qe4,d3e4,r2r2k1/2q2ppp/ppn1p3/2b5/4QP2/4P3/PP1P3P/RNB1K2R b KQ - 3 16,"The knight moves towards the tempting c2 square where it can fork the king and rook. Unfortunately, there is a queen protecting that spot, so I shall have to move the bishop out of the way of my own queen first."
+32,Nb4,c6b4,r2r2k1/2q2ppp/pp2p3/2b5/1n2QP2/4P3/PP1P3P/RNB1K2R w KQ - 4 17,"The knight moves towards the tempting c2 square where it can fork the king and rook. Unfortunately, there is a queen protecting that spot, so I shall have to move the bishop out of the way of my own queen first."
+33,a3,a2a3,r2r2k1/2q2ppp/pp2p3/2b5/1n2QP2/P3P3/1P1P3P/RNB1K2R b KQ - 0 17,But white obviously doesn't want my knight that close.

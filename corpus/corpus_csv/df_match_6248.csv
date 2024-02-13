@@ -1,0 +1,101 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I sometimes play the London System, which sometimes leads to uninteresting positions, but the lines are very simple."
+2,b6,b7b6,rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I sometimes play the London System, which sometimes leads to uninteresting positions, but the lines are very simple."
+3,Bf4,c1f4,rnbqkbnr/p1pppppp/1p6/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"I sometimes play the London System, which sometimes leads to uninteresting positions, but the lines are very simple."
+4,d6,d7d6,rnbqkbnr/p1p1pppp/1p1p4/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Black is going to fianchetto both bishops.  I want to keep the board closed.
+5,e3,e2e3,rnbqkbnr/p1p1pppp/1p1p4/8/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,Black is going to fianchetto both bishops.  I want to keep the board closed.
+6,Bb7,c8b7,rn1qkbnr/pbp1pppp/1p1p4/8/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 1 4,Black is going to fianchetto both bishops.  I want to keep the board closed.
+7,Nf3,g1f3,rn1qkbnr/pbp1pppp/1p1p4/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 2 4,Black is going to fianchetto both bishops.  I want to keep the board closed.
+8,g6,g7g6,rn1qkbnr/pbp1pp1p/1p1p2p1/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,Black is going to fianchetto both bishops.  I want to keep the board closed.
+9,Nbd2,b1d2,rn1qkbnr/pbp1pp1p/1p1p2p1/8/3P1B2/4PN2/PPPN1PPP/R2QKB1R b KQkq - 1 5,An immediate e5 from black would have opened some lines for black's bishops.
+10,Bg7,f8g7,rn1qk1nr/pbp1ppbp/1p1p2p1/8/3P1B2/4PN2/PPPN1PPP/R2QKB1R w KQkq - 2 6,An immediate e5 from black would have opened some lines for black's bishops.
+11,Be2,f1e2,rn1qk1nr/pbp1ppbp/1p1p2p1/8/3P1B2/4PN2/PPPNBPPP/R2QK2R b KQkq - 3 6,An immediate e5 from black would have opened some lines for black's bishops.
+12,e6,e7e6,rn1qk1nr/pbp2pbp/1p1pp1p1/8/3P1B2/4PN2/PPPNBPPP/R2QK2R w KQkq - 0 7,An immediate e5 from black would have opened some lines for black's bishops.
+13,c4,c2c4,rn1qk1nr/pbp2pbp/1p1pp1p1/8/2PP1B2/4PN2/PP1NBPPP/R2QK2R b KQkq - 0 7,Black has finally prepared e5.
+14,Ne7,g8e7,rn1qk2r/pbp1npbp/1p1pp1p1/8/2PP1B2/4PN2/PP1NBPPP/R2QK2R w KQkq - 1 8,Black has finally prepared e5.
+15,O-O,e1g1,rn1qk2r/pbp1npbp/1p1pp1p1/8/2PP1B2/4PN2/PP1NBPPP/R2Q1RK1 b kq - 2 8,Black has finally prepared e5.
+16,Nd7,b8d7,r2qk2r/pbpnnpbp/1p1pp1p1/8/2PP1B2/4PN2/PP1NBPPP/R2Q1RK1 w kq - 3 9,Black has finally prepared e5.
+17,Qc2,d1c2,r2qk2r/pbpnnpbp/1p1pp1p1/8/2PP1B2/4PN2/PPQNBPPP/R4RK1 b kq - 4 9,Black has finally prepared e5.
+18,O-O,e8g8,r2q1rk1/pbpnnpbp/1p1pp1p1/8/2PP1B2/4PN2/PPQNBPPP/R4RK1 w - - 5 10,Black has finally prepared e5.
+19,Rac1,a1c1,r2q1rk1/pbpnnpbp/1p1pp1p1/8/2PP1B2/4PN2/PPQNBPPP/2R2RK1 b - - 6 10,Black has finally prepared e5.
+20,h6,h7h6,r2q1rk1/pbpnnpb1/1p1pp1pp/8/2PP1B2/4PN2/PPQNBPPP/2R2RK1 w - - 0 11,Black has finally prepared e5.
+21,h3,h2h3,r2q1rk1/pbpnnpb1/1p1pp1pp/8/2PP1B2/4PN1P/PPQNBPP1/2R2RK1 b - - 0 11,Black has finally prepared e5.
+22,e5,e6e5,r2q1rk1/pbpnnpb1/1p1p2pp/4p3/2PP1B2/4PN1P/PPQNBPP1/2R2RK1 w - - 0 12,Black has finally prepared e5.
+23,dxe5,d4e5,r2q1rk1/pbpnnpb1/1p1p2pp/4P3/2P2B2/4PN1P/PPQNBPP1/2R2RK1 b - - 0 12,A logical blockading move.
+24,dxe5,d6e5,r2q1rk1/pbpnnpb1/1p4pp/4p3/2P2B2/4PN1P/PPQNBPP1/2R2RK1 w - - 0 13,A logical blockading move.
+25,Bg3,f4g3,r2q1rk1/pbpnnpb1/1p4pp/4p3/2P5/4PNBP/PPQNBPP1/2R2RK1 b - - 1 13,A logical blockading move.
+26,Nf5,e7f5,r2q1rk1/pbpn1pb1/1p4pp/4pn2/2P5/4PNBP/PPQNBPP1/2R2RK1 w - - 2 14,A logical blockading move.
+27,Bh2,g3h2,r2q1rk1/pbpn1pb1/1p4pp/4pn2/2P5/4PN1P/PPQNBPPB/2R2RK1 b - - 3 14,A logical blockading move.
+28,Re8,f8e8,r2qr1k1/pbpn1pb1/1p4pp/4pn2/2P5/4PN1P/PPQNBPPB/2R2RK1 w - - 4 15,A logical blockading move.
+29,Ne4,d2e4,r2qr1k1/pbpn1pb1/1p4pp/4pn2/2P1N3/4PN1P/PPQ1BPPB/2R2RK1 b - - 5 15,A logical blockading move.
+30,Qe7,d8e7,r3r1k1/pbpnqpb1/1p4pp/4pn2/2P1N3/4PN1P/PPQ1BPPB/2R2RK1 w - - 6 16,"I thought about this position for a while.  After the knights come off, I would be able to play e4."
+31,Rfd1,f1d1,r3r1k1/pbpnqpb1/1p4pp/4pn2/2P1N3/4PN1P/PPQ1BPPB/2RR2K1 b - - 7 16,"I thought about this position for a while.  After the knights come off, I would be able to play e4."
+32,Nc5,d7c5,r3r1k1/pbp1qpb1/1p4pp/2n1pn2/2P1N3/4PN1P/PPQ1BPPB/2RR2K1 w - - 8 17,"I thought about this position for a while.  After the knights come off, I would be able to play e4."
+33,Nxc5,e4c5,r3r1k1/pbp1qpb1/1p4pp/2N1pn2/2P5/4PN1P/PPQ1BPPB/2RR2K1 b - - 0 17,"Black is probably better now, with a dangerous passed pawn."
+34,Qxc5,e7c5,r3r1k1/pbp2pb1/1p4pp/2q1pn2/2P5/4PN1P/PPQ1BPPB/2RR2K1 w - - 0 18,"Black is probably better now, with a dangerous passed pawn."
+35,e4,e3e4,r3r1k1/pbp2pb1/1p4pp/2q1pn2/2P1P3/5N1P/PPQ1BPPB/2RR2K1 b - - 0 18,"Black is probably better now, with a dangerous passed pawn."
+36,Nd4,f5d4,r3r1k1/pbp2pb1/1p4pp/2q1p3/2PnP3/5N1P/PPQ1BPPB/2RR2K1 w - - 1 19,"Black is probably better now, with a dangerous passed pawn."
+37,Nxd4,f3d4,r3r1k1/pbp2pb1/1p4pp/2q1p3/2PNP3/7P/PPQ1BPPB/2RR2K1 b - - 0 19,"Black is probably better now, with a dangerous passed pawn."
+38,exd4,e5d4,r3r1k1/pbp2pb1/1p4pp/2q5/2PpP3/7P/PPQ1BPPB/2RR2K1 w - - 0 20,"Black is probably better now, with a dangerous passed pawn."
+39,Bd3,e2d3,r3r1k1/pbp2pb1/1p4pp/2q5/2PpP3/3B3P/PPQ2PPB/2RR2K1 b - - 1 20,"Seemingly utilitarian use of the bishop, but in the game it was a strong piece."
+40,Qe7,c5e7,r3r1k1/pbp1qpb1/1p4pp/8/2PpP3/3B3P/PPQ2PPB/2RR2K1 w - - 2 21,"The position seems closed, with little prospect of black's d-pawn advancing.  White has limited the scope of the black bishops, and has a strong bishop on h2."
+41,f3,f2f3,r3r1k1/pbp1qpb1/1p4pp/8/2PpP3/3B1P1P/PPQ3PB/2RR2K1 b - - 0 21,"The position seems closed, with little prospect of black's d-pawn advancing.  White has limited the scope of the black bishops, and has a strong bishop on h2."
+42,c5,c7c5,r3r1k1/pb2qpb1/1p4pp/2p5/2PpP3/3B1P1P/PPQ3PB/2RR2K1 w - - 0 22,"The position seems closed, with little prospect of black's d-pawn advancing.  White has limited the scope of the black bishops, and has a strong bishop on h2."
+43,Qf2,c2f2,r3r1k1/pb2qpb1/1p4pp/2p5/2PpP3/3B1P1P/PP3QPB/2RR2K1 b - - 1 22,Ideas of coming to the kingside and pressuring e6.
+44,Qg5,e7g5,r3r1k1/pb3pb1/1p4pp/2p3q1/2PpP3/3B1P1P/PP3QPB/2RR2K1 w - - 2 23,A good defense.  My next move will introduce some dynamism into the position.
+45,h4,h3h4,r3r1k1/pb3pb1/1p4pp/2p3q1/2PpP2P/3B1P2/PP3QPB/2RR2K1 b - - 0 23,"Both of white's bishops are pointing at the black king, which has come forward to support the weak h6 pawn.  White is threatening to open lines around the black king.  His own king is exposed, but he is able to keep the center closed, and minimize the scope of black's bishops."
+46,Qe7,g5e7,r3r1k1/pb2qpb1/1p4pp/2p5/2PpP2P/3B1P2/PP3QPB/2RR2K1 w - - 1 24,"Both of white's bishops are pointing at the black king, which has come forward to support the weak h6 pawn.  White is threatening to open lines around the black king.  His own king is exposed, but he is able to keep the center closed, and minimize the scope of black's bishops."
+47,Bf4,h2f4,r3r1k1/pb2qpb1/1p4pp/2p5/2PpPB1P/3B1P2/PP3QP1/2RR2K1 b - - 2 24,"Both of white's bishops are pointing at the black king, which has come forward to support the weak h6 pawn.  White is threatening to open lines around the black king.  His own king is exposed, but he is able to keep the center closed, and minimize the scope of black's bishops."
+48,Kh7,g8h7,r3r3/pb2qpbk/1p4pp/2p5/2PpPB1P/3B1P2/PP3QP1/2RR2K1 w - - 3 25,"Both of white's bishops are pointing at the black king, which has come forward to support the weak h6 pawn.  White is threatening to open lines around the black king.  His own king is exposed, but he is able to keep the center closed, and minimize the scope of black's bishops."
+49,g4,g2g4,r3r3/pb2qpbk/1p4pp/2p5/2PpPBPP/3B1P2/PP3Q2/2RR2K1 b - - 0 25,"Both of white's bishops are pointing at the black king, which has come forward to support the weak h6 pawn.  White is threatening to open lines around the black king.  His own king is exposed, but he is able to keep the center closed, and minimize the scope of black's bishops."
+50,Be5,g7e5,r3r3/pb2qp1k/1p4pp/2p1b3/2PpPBPP/3B1P2/PP3Q2/2RR2K1 w - - 1 26,Maybe not the best.  Maybe kf1 and ke2 was better.
+51,Bxe5,f4e5,r3r3/pb2qp1k/1p4pp/2p1B3/2PpP1PP/3B1P2/PP3Q2/2RR2K1 b - - 0 26,Maybe not the best.  Maybe kf1 and ke2 was better.
+52,Qxe5,e7e5,r3r3/pb3p1k/1p4pp/2p1q3/2PpP1PP/3B1P2/PP3Q2/2RR2K1 w - - 0 27,Maybe not the best.  Maybe kf1 and ke2 was better.
+53,h5,h4h5,r3r3/pb3p1k/1p4pp/2p1q2P/2PpP1P1/3B1P2/PP3Q2/2RR2K1 b - - 0 27,Maybe not the best.  Maybe kf1 and ke2 was better.
+54,gxh5,g6h5,r3r3/pb3p1k/1p5p/2p1q2p/2PpP1P1/3B1P2/PP3Q2/2RR2K1 w - - 0 28,When should white play e5?
+55,gxh5,g4h5,r3r3/pb3p1k/1p5p/2p1q2P/2PpP3/3B1P2/PP3Q2/2RR2K1 b - - 0 28,When should white play e5?
+56,Reg8+,e8g8,r5r1/pb3p1k/1p5p/2p1q2P/2PpP3/3B1P2/PP3Q2/2RR2K1 w - - 1 29,When should white play e5?
+57,Kf1,g1f1,r5r1/pb3p1k/1p5p/2p1q2P/2PpP3/3B1P2/PP3Q2/2RR1K2 b - - 2 29,When should white play e5?
+58,Qxh5,e5h5,r5r1/pb3p1k/1p5p/2p4q/2PpP3/3B1P2/PP3Q2/2RR1K2 w - - 0 30,When should white play e5?
+59,Ke2,f1e2,r5r1/pb3p1k/1p5p/2p4q/2PpP3/3B1P2/PP2KQ2/2RR4 b - - 1 30,When should white play e5?
+60,Rae8,a8e8,4r1r1/pb3p1k/1p5p/2p4q/2PpP3/3B1P2/PP2KQ2/2RR4 w - - 2 31,When should white play e5?
+61,Rdh1,d1h1,4r1r1/pb3p1k/1p5p/2p4q/2PpP3/3B1P2/PP2KQ2/2R4R b - - 3 31,When should white play e5?
+62,Qe5,h5e5,4r1r1/pb3p1k/1p5p/2p1q3/2PpP3/3B1P2/PP2KQ2/2R4R w - - 4 32,When should white play e5?
+63,Qh4,f2h4,4r1r1/pb3p1k/1p5p/2p1q3/2PpP2Q/3B1P2/PP2K3/2R4R b - - 5 32,When should white play e5?
+64,Rg6,g8g6,4r3/pb3p1k/1p4rp/2p1q3/2PpP2Q/3B1P2/PP2K3/2R4R w - - 6 33,When should white play e5?
+65,Rcg1,c1g1,4r3/pb3p1k/1p4rp/2p1q3/2PpP2Q/3B1P2/PP2K3/6RR b - - 7 33,When should white play e5?
+66,Reg8,e8g8,6r1/pb3p1k/1p4rp/2p1q3/2PpP2Q/3B1P2/PP2K3/6RR w - - 8 34,When should white play e5?
+67,f4,f3f4,6r1/pb3p1k/1p4rp/2p1q3/2PpPP1Q/3B4/PP2K3/6RR b - - 0 34,When should white play e5?
+68,Qg7,e5g7,6r1/pb3pqk/1p4rp/2p5/2PpPP1Q/3B4/PP2K3/6RR w - - 1 35,When should white play e5?
+69,Rxg6,g1g6,6r1/pb3pqk/1p4Rp/2p5/2PpPP1Q/3B4/PP2K3/7R b - - 0 35,Black declined a draw offer.  It is looking like black will defend this.
+70,fxg6,f7g6,6r1/pb4qk/1p4pp/2p5/2PpPP1Q/3B4/PP2K3/7R w - - 0 36,Black declined a draw offer.  It is looking like black will defend this.
+71,Rg1,h1g1,6r1/pb4qk/1p4pp/2p5/2PpPP1Q/3B4/PP2K3/6R1 b - - 1 36,Black declined a draw offer.  It is looking like black will defend this.
+72,Bc8,b7c8,2b3r1/p5qk/1p4pp/2p5/2PpPP1Q/3B4/PP2K3/6R1 w - - 2 37,Black declined a draw offer.  It is looking like black will defend this.
+73,e5,e4e5,2b3r1/p5qk/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/6R1 b - - 0 37,Black declined a draw offer.  It is looking like black will defend this.
+74,Qf7,g7f7,2b3r1/p4q1k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/6R1 w - - 1 38,Black declined a draw offer.  It is looking like black will defend this.
+75,Rh1,g1h1,2b3r1/p4q1k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/7R b - - 2 38,Black declined a draw offer.  It is looking like black will defend this.
+76,Qg7,f7g7,2b3r1/p5qk/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/7R w - - 3 39,Black declined a draw offer.  It is looking like black will defend this.
+77,Rg1,h1g1,2b3r1/p5qk/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/6R1 b - - 4 39,Black declined a draw offer.  It is looking like black will defend this.
+78,Qf7,g7f7,2b3r1/p4q1k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/6R1 w - - 5 40,Black declined a draw offer.  It is looking like black will defend this.
+79,Rh1,g1h1,2b3r1/p4q1k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/7R b - - 6 40,Black declined a draw offer.  It is looking like black will defend this.
+80,Qf8,f7f8,2b2qr1/p6k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/7R w - - 7 41,Black declined a draw offer.  It is looking like black will defend this.
+81,Rg1,h1g1,2b2qr1/p6k/1p4pp/2p1P3/2Pp1P1Q/3B4/PP2K3/6R1 b - - 8 41,"A crushing move.  The continuation I played, while under time pressure, frees black d-pawn and loses the game for white."
+82,Bf5,c8f5,5qr1/p6k/1p4pp/2p1Pb2/2Pp1P1Q/3B4/PP2K3/6R1 w - - 9 42,"A crushing move.  The continuation I played, while under time pressure, frees black d-pawn and loses the game for white."
+83,Bxf5,d3f5,5qr1/p6k/1p4pp/2p1PB2/2Pp1P1Q/8/PP2K3/6R1 b - - 0 42,
+84,Qxf5,f8f5,6r1/p6k/1p4pp/2p1Pq2/2Pp1P1Q/8/PP2K3/6R1 w - - 0 43,
+85,Qe7+,h4e7,6r1/p3Q2k/1p4pp/2p1Pq2/2Pp1P2/8/PP2K3/6R1 b - - 1 43,
+86,Rg7,g8g7,8/p3Q1rk/1p4pp/2p1Pq2/2Pp1P2/8/PP2K3/6R1 w - - 2 44,
+87,Qh4,e7h4,8/p5rk/1p4pp/2p1Pq2/2Pp1P1Q/8/PP2K3/6R1 b - - 3 44,
+88,Qc2+,f5c2,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/8/PPq1K3/6R1 w - - 4 45,
+89,Kf3,e2f3,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/5K2/PPq5/6R1 b - - 5 45,
+90,Qd3+,c2d3,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/3q1K2/PP6/6R1 w - - 6 46,
+91,Kf2,f3f2,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/3q4/PP3K2/6R1 b - - 7 46,
+92,Qe3+,d3e3,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/4q3/PP3K2/6R1 w - - 8 47,
+93,Kf1,f2f1,8/p5rk/1p4pp/2p1P3/2Pp1P1Q/4q3/PP6/5KR1 b - - 9 47,
+94,d3,d4d3,8/p5rk/1p4pp/2p1P3/2P2P1Q/3pq3/PP6/5KR1 w - - 0 48,
+95,Rxg6,g1g6,8/p5rk/1p4Rp/2p1P3/2P2P1Q/3pq3/PP6/5K2 b - - 0 48,
+96,Rxg6,g7g6,8/p6k/1p4rp/2p1P3/2P2P1Q/3pq3/PP6/5K2 w - - 0 49,
+97,Qe7+,h4e7,8/p3Q2k/1p4rp/2p1P3/2P2P2/3pq3/PP6/5K2 b - - 1 49,
+98,Rg7,g6g7,8/p3Q1rk/1p5p/2p1P3/2P2P2/3pq3/PP6/5K2 w - - 2 50,
+99,Qe6,e7e6,8/p5rk/1p2Q2p/2p1P3/2P2P2/3pq3/PP6/5K2 b - - 3 50,
+100,Qe2#,e3e2,8/p5rk/1p2Q2p/2p1P3/2P2P2/3p4/PP2q3/5K2 w - - 4 51,

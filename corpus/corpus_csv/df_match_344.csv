@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This was a Gameknot game I played with one of my Oswestry Chess Club colleagues.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,It starts conventionally enough.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Queen's Gambit.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Declined.
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,I play the main line.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,So does he.
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,I pin the knight.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,He unpins.
+9,e3,e2e3,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5,I open up the diagonal for my f1 bishop.
+10,h6,h7h6,rnbqk2r/ppp1bpp1/4pn1p/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 6,"By playing this now, he reduces my options, for instance, if he plays 5....0-0 immediately, I have 6. Qc2 and can meet 6....h6 with 7. h4?! with interesting complications (which don't necessarily favour white)."
+11,Bh4,g5h4,rnbqk2r/ppp1bpp1/4pn1p/3p4/2PP3B/2N1P3/PP3PPP/R2QKBNR b KQkq - 1 6,So I drop the bishop back.
+12,Nc6,b8c6,r1bqk2r/ppp1bpp1/2n1pn1p/3p4/2PP3B/2N1P3/PP3PPP/R2QKBNR w KQkq - 2 7,"I have two opening databases on my Gameknot system. One is the world database of over-the-board games played by the top players and the other is the database of openings played by the best Gameknot players. This move 6....Nc6 is not even in the world database - and for good reasons. In this variation, black usually plays at some time either c7-c6 strengthening the centre, or c7-c5 contesting the centre. This rules out both these options for the time being."
+13,Nf3,g1f3,r1bqk2r/ppp1bpp1/2n1pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R b KQkq - 3 7,I played this to stop any idea he may have of e6-e5.
+14,O-O,e8g8,r1bq1rk1/ppp1bpp1/2n1pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 4 8,He castles.
+15,Rc1,a1c1,r1bq1rk1/ppp1bpp1/2n1pn1p/3p4/2PP3B/2N1PN2/PP3PPP/2RQKB1R b K - 5 8,I develop.
+16,Nh7,f6h7,r1bq1rk1/ppp1bppn/2n1p2p/3p4/2PP3B/2N1PN2/PP3PPP/2RQKB1R w K - 6 9,"This is another mistake. My Bh4 is my bad bishop, being on the same colour as my pawns in the centre on d4 and e3. His Be7 is his good bishop, being on the opposite colour to his pawns on e6 and d5. Yet he invites me to exchange my good bishop for his bad bishop."
+17,Bxe7,h4e7,r1bq1rk1/ppp1Bppn/2n1p2p/3p4/2PP4/2N1PN2/PP3PPP/2RQKB1R b K - 0 9,Which I glad accept.
+18,Nxe7,c6e7,r1bq1rk1/ppp1nppn/4p2p/3p4/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 0 10,He takes back.
+19,e4,e3e4,r1bq1rk1/ppp1nppn/4p2p/3p4/2PPP3/2N2N2/PP3PPP/2RQKB1R b K - 0 10,"I advance in the centre. Gameknot computer gives this as a mistake, but in the only game in the database with this variation, white won. It seems logical to advance in the centre while I can."
+20,dxc4,d5c4,r1bq1rk1/ppp1nppn/4p2p/8/2pPP3/2N2N2/PP3PPP/2RQKB1R w K - 0 11,"This is another slight inaccuracy, allowing my Bf1 to develop with tempo."

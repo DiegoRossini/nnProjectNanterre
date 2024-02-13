@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The colle-system.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The colle-system.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,The colle-system.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,The colle-system.
+5,e3,e2e3,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The colle-system.
+6,c6,c7c6,rnbqkbnr/pp3ppp/2p1p3/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,The colle-system.
+7,Bd3,f1d3,rnbqkbnr/pp3ppp/2p1p3/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 1 4,The colle-system.
+8,Nf6,g8f6,rnbqkb1r/pp3ppp/2p1pn2/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq - 2 5,The colle-system.
+9,Nbd2,b1d2,rnbqkb1r/pp3ppp/2p1pn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQK2R b KQkq - 3 5,The colle-system.
+10,Bd6,f8d6,rnbqk2r/pp3ppp/2pbpn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQK2R w KQkq - 4 6,The colle-system.
+11,O-O,e1g1,rnbqk2r/pp3ppp/2pbpn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQ1RK1 b kq - 5 6,The colle-system.
+12,O-O,e8g8,rnbq1rk1/pp3ppp/2pbpn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQ1RK1 w - - 6 7,The colle-system.
+13,Re1,f1e1,rnbq1rk1/pp3ppp/2pbpn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQR1K1 b - - 7 7,The colle-system.
+14,Qc7,d8c7,rnb2rk1/ppq2ppp/2pbpn2/3p4/3P4/3BPN2/PPPN1PPP/R1BQR1K1 w - - 8 8,"Very active variation. Maybe sharp, too."
+15,e4,e3e4,rnb2rk1/ppq2ppp/2pbpn2/3p4/3PP3/3B1N2/PPPN1PPP/R1BQR1K1 b - - 0 8,"Very active variation. Maybe sharp, too."
+16,dxe4,d5e4,rnb2rk1/ppq2ppp/2pbpn2/8/3Pp3/3B1N2/PPPN1PPP/R1BQR1K1 w - - 0 9,"Very active variation. Maybe sharp, too."
+17,Nxe4,d2e4,rnb2rk1/ppq2ppp/2pbpn2/8/3PN3/3B1N2/PPP2PPP/R1BQR1K1 b - - 0 9,"Very active variation. Maybe sharp, too."
+18,Nxe4,f6e4,rnb2rk1/ppq2ppp/2pbp3/8/3Pn3/3B1N2/PPP2PPP/R1BQR1K1 w - - 0 10,"Very active variation. Maybe sharp, too."
+19,Rxe4,e1e4,rnb2rk1/ppq2ppp/2pbp3/8/3PR3/3B1N2/PPP2PPP/R1BQ2K1 b - - 0 10,"Very active variation. Maybe sharp, too."
+20,f5,f7f5,rnb2rk1/ppq3pp/2pbp3/5p2/3PR3/3B1N2/PPP2PPP/R1BQ2K1 w - - 0 11,"Very active variation. Maybe sharp, too."
+21,Rh4,e4h4,rnb2rk1/ppq3pp/2pbp3/5p2/3P3R/3B1N2/PPP2PPP/R1BQ2K1 b - - 1 11,"Very active variation. Maybe sharp, too."
+22,Nd7,b8d7,r1b2rk1/ppqn2pp/2pbp3/5p2/3P3R/3B1N2/PPP2PPP/R1BQ2K1 w - - 2 12,Otherwise I win back the rook with Qh5
+23,Ng5,f3g5,r1b2rk1/ppqn2pp/2pbp3/5pN1/3P3R/3B4/PPP2PPP/R1BQ2K1 b - - 3 12,Otherwise I win back the rook with Qh5
+24,Nf6,d7f6,r1b2rk1/ppq3pp/2pbpn2/5pN1/3P3R/3B4/PPP2PPP/R1BQ2K1 w - - 4 13,Otherwise I win back the rook with Qh5
+25,Bc4,d3c4,r1b2rk1/ppq3pp/2pbpn2/5pN1/2BP3R/8/PPP2PPP/R1BQ2K1 b - - 5 13,Otherwise I win back the rook with Qh5
+26,Re8,f8e8,r1b1r1k1/ppq3pp/2pbpn2/5pN1/2BP3R/8/PPP2PPP/R1BQ2K1 w - - 6 14,Otherwise I win back the rook with Qh5
+27,Nxh7,g5h7,r1b1r1k1/ppq3pN/2pbpn2/5p2/2BP3R/8/PPP2PPP/R1BQ2K1 b - - 0 14,Otherwise I win back the rook with Qh5
+28,Nxh7,f6h7,r1b1r1k1/ppq3pn/2pbp3/5p2/2BP3R/8/PPP2PPP/R1BQ2K1 w - - 0 15,Otherwise I win back the rook with Qh5
+29,Rxh7,h4h7,r1b1r1k1/ppq3pR/2pbp3/5p2/2BP4/8/PPP2PPP/R1BQ2K1 b - - 0 15,Otherwise I win back the rook with Qh5
+30,Qf7,c7f7,r1b1r1k1/pp3qpR/2pbp3/5p2/2BP4/8/PPP2PPP/R1BQ2K1 w - - 1 16,Otherwise I win back the rook with Qh5
+31,Qh5,d1h5,r1b1r1k1/pp3qpR/2pbp3/5p1Q/2BP4/8/PPP2PPP/R1B3K1 b - - 2 16,One pawn more and an opened black king. White have the winning position.
+32,Qxh5,f7h5,r1b1r1k1/pp4pR/2pbp3/5p1q/2BP4/8/PPP2PPP/R1B3K1 w - - 0 17,One pawn more and an opened black king. White have the winning position.
+33,Rxh5,h7h5,r1b1r1k1/pp4p1/2pbp3/5p1R/2BP4/8/PPP2PPP/R1B3K1 b - - 0 17,One pawn more and an opened black king. White have the winning position.
+34,a5,a7a5,r1b1r1k1/1p4p1/2pbp3/p4p1R/2BP4/8/PPP2PPP/R1B3K1 w - - 0 18,"This happens, when I have no good day. The war is over, white can go home with resign..."
+35,a3,a2a3,r1b1r1k1/1p4p1/2pbp3/p4p1R/2BP4/P7/1PP2PPP/R1B3K1 b - - 0 18,"This happens, when I have no good day. The war is over, white can go home with resign..."
+36,b5,b7b5,r1b1r1k1/6p1/2pbp3/pp3p1R/2BP4/P7/1PP2PPP/R1B3K1 w - - 0 19,"This happens, when I have no good day. The war is over, white can go home with resign..."
+37,Ba2,c4a2,r1b1r1k1/6p1/2pbp3/pp3p1R/3P4/P7/BPP2PPP/R1B3K1 b - - 1 19,"This happens, when I have no good day. The war is over, white can go home with resign..."
+38,Kf7,g8f7,r1b1r3/5kp1/2pbp3/pp3p1R/3P4/P7/BPP2PPP/R1B3K1 w - - 2 20,"This happens, when I have no good day. The war is over, white can go home with resign..."
+39,Rxf5+,h5f5,r1b1r3/5kp1/2pbp3/pp3R2/3P4/P7/BPP2PPP/R1B3K1 b - - 0 20,"This happens, when I have no good day. The war is over, white can go home with resign..."
+40,Kg6,f7g6,r1b1r3/6p1/2pbp1k1/pp3R2/3P4/P7/BPP2PPP/R1B3K1 w - - 1 21,"This happens, when I have no good day. The war is over, white can go home with resign..."
+41,Rg5+,f5g5,r1b1r3/6p1/2pbp1k1/pp4R1/3P4/P7/BPP2PPP/R1B3K1 b - - 2 21,"This happens, when I have no good day. The war is over, white can go home with resign..."
+42,Kf6,g6f6,r1b1r3/6p1/2pbpk2/pp4R1/3P4/P7/BPP2PPP/R1B3K1 w - - 3 22,"This happens, when I have no good day. The war is over, white can go home with resign..."
+43,Be3,c1e3,r1b1r3/6p1/2pbpk2/pp4R1/3P4/P3B3/BPP2PPP/R5K1 b - - 4 22,"This happens, when I have no good day. The war is over, white can go home with resign..."
+44,e5,e6e5,r1b1r3/6p1/2pb1k2/pp2p1R1/3P4/P3B3/BPP2PPP/R5K1 w - - 0 23,"This happens, when I have no good day. The war is over, white can go home with resign..."
+45,d5,d4d5,r1b1r3/6p1/2pb1k2/pp1Pp1R1/8/P3B3/BPP2PPP/R5K1 b - - 0 23,"This happens, when I have no good day. The war is over, white can go home with resign..."
+46,c5,c6c5,r1b1r3/6p1/3b1k2/pppPp1R1/8/P3B3/BPP2PPP/R5K1 w - - 0 24,"This happens, when I have no good day. The war is over, white can go home with resign..."
+47,Rd1,a1d1,r1b1r3/6p1/3b1k2/pppPp1R1/8/P3B3/BPP2PPP/3R2K1 b - - 1 24,"This happens, when I have no good day. The war is over, white can go home with resign..."
+48,c4,c5c4,r1b1r3/6p1/3b1k2/pp1Pp1R1/2p5/P3B3/BPP2PPP/3R2K1 w - - 0 25,"This happens, when I have no good day. The war is over, white can go home with resign..."
+49,c3,c2c3,r1b1r3/6p1/3b1k2/pp1Pp1R1/2p5/P1P1B3/BP3PPP/3R2K1 b - - 0 25,"This happens, when I have no good day. The war is over, white can go home with resign..."
+50,Bf5,c8f5,r3r3/6p1/3b1k2/pp1PpbR1/2p5/P1P1B3/BP3PPP/3R2K1 w - - 1 26,"This happens, when I have no good day. The war is over, white can go home with resign..."
+51,Bb1,a2b1,r3r3/6p1/3b1k2/pp1PpbR1/2p5/P1P1B3/1P3PPP/1B1R2K1 b - - 2 26,"This happens, when I have no good day. The war is over, white can go home with resign..."
+52,e4,e5e4,r3r3/6p1/3b1k2/pp1P1bR1/2p1p3/P1P1B3/1P3PPP/1B1R2K1 w - - 0 27,"This happens, when I have no good day. The war is over, white can go home with resign..."
+53,Bd4+,e3d4,r3r3/6p1/3b1k2/pp1P1bR1/2pBp3/P1P5/1P3PPP/1B1R2K1 b - - 1 27,"This happens, when I have no good day. The war is over, white can go home with resign..."
+54,Kxg5,f6g5,r3r3/6p1/3b4/pp1P1bk1/2pBp3/P1P5/1P3PPP/1B1R2K1 w - - 0 28,I have 3 (maybe pawns against 2 bishops - no way.
+55,Bxg7,d4g7,r3r3/6B1/3b4/pp1P1bk1/2p1p3/P1P5/1P3PPP/1B1R2K1 b - - 0 28,I have 3 (maybe pawns against 2 bishops - no way.
+56,e3,e4e3,r3r3/6B1/3b4/pp1P1bk1/2p5/P1P1p3/1P3PPP/1B1R2K1 w - - 0 29,I have 3 (maybe pawns against 2 bishops - no way.
+57,Bd4,g7d4,r3r3/8/3b4/pp1P1bk1/2pB4/P1P1p3/1P3PPP/1B1R2K1 b - - 1 29,I have 3 (maybe pawns against 2 bishops - no way.
+58,e2,e3e2,r3r3/8/3b4/pp1P1bk1/2pB4/P1P5/1P2pPPP/1B1R2K1 w - - 0 30,I have 3 (maybe pawns against 2 bishops - no way.
+59,Re1,d1e1,r3r3/8/3b4/pp1P1bk1/2pB4/P1P5/1P2pPPP/1B2R1K1 b - - 1 30,I have 3 (maybe pawns against 2 bishops - no way.
+60,Bxb1,f5b1,r3r3/8/3b4/pp1P2k1/2pB4/P1P5/1P2pPPP/1b2R1K1 w - - 0 31,I have 3 (maybe pawns against 2 bishops - no way.
+61,Be3+,d4e3,r3r3/8/3b4/pp1P2k1/2p5/P1P1B3/1P2pPPP/1b2R1K1 b - - 1 31,I have 3 (maybe pawns against 2 bishops - no way.
+62,Rxe3,e8e3,r7/8/3b4/pp1P2k1/2p5/P1P1r3/1P2pPPP/1b2R1K1 w - - 0 32,I have 3 (maybe pawns against 2 bishops - no way.
+63,fxe3,f2e3,r7/8/3b4/pp1P2k1/2p5/P1P1P3/1P2p1PP/1b2R1K1 b - - 0 32,I have 3 (maybe pawns against 2 bishops - no way.

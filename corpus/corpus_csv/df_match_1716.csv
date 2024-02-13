@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,gambit
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,gambit
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,gambit
+5,d3,d2d3,rnbqkbnr/ppp2ppp/8/3pp3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,declining the gambit
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2n5/3pp3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"pretty normal, just the sleeping king bishop and the gambit with the pawns"
+7,Nc3,b1c3,r1bqkbnr/ppp2ppp/2n5/3pp3/4P3/2NP1N2/PPP2PPP/R1BQKB1R b KQkq - 2 4,"pretty normal, just the sleeping king bishop and the gambit with the pawns"
+8,Nf6,g8f6,r1bqkb1r/ppp2ppp/2n2n2/3pp3/4P3/2NP1N2/PPP2PPP/R1BQKB1R w KQkq - 3 5,"pretty normal, just the sleeping king bishop and the gambit with the pawns"
+9,Bg5,c1g5,r1bqkb1r/ppp2ppp/2n2n2/3pp1B1/4P3/2NP1N2/PPP2PPP/R2QKB1R b KQkq - 4 5,"pretty normal, just the sleeping king bishop and the gambit with the pawns"
+10,Be7,f8e7,r1bqk2r/ppp1bppp/2n2n2/3pp1B1/4P3/2NP1N2/PPP2PPP/R2QKB1R w KQkq - 5 6,knight pinned
+11,d4,d3d4,r1bqk2r/ppp1bppp/2n2n2/3pp1B1/3PP3/2N2N2/PPP2PPP/R2QKB1R b KQkq - 0 6,knight pinned
+12,O-O,e8g8,r1bq1rk1/ppp1bppp/2n2n2/3pp1B1/3PP3/2N2N2/PPP2PPP/R2QKB1R w KQ - 1 7,knight pinned
+13,h4,h2h4,r1bq1rk1/ppp1bppp/2n2n2/3pp1B1/3PP2P/2N2N2/PPP2PP1/R2QKB1R b KQ - 0 7,knight pinned
+14,Bg4,c8g4,r2q1rk1/ppp1bppp/2n2n2/3pp1B1/3PP1bP/2N2N2/PPP2PP1/R2QKB1R w KQ - 1 8,knight pinned
+15,Be2,f1e2,r2q1rk1/ppp1bppp/2n2n2/3pp1B1/3PP1bP/2N2N2/PPP1BPP1/R2QK2R b KQ - 2 8,now not
+16,Bb4,e7b4,r2q1rk1/ppp2ppp/2n2n2/3pp1B1/1b1PP1bP/2N2N2/PPP1BPP1/R2QK2R w KQ - 3 9,other knight pinned
+17,Nxe5,f3e5,r2q1rk1/ppp2ppp/2n2n2/3pN1B1/1b1PP1bP/2N5/PPP1BPP1/R2QK2R b KQ - 0 9,"g4 bishop exposed, queen is for free"
+18,Nxe5,c6e5,r2q1rk1/ppp2ppp/5n2/3pn1B1/1b1PP1bP/2N5/PPP1BPP1/R2QK2R w KQ - 0 10,"g4 bishop exposed, queen is for free"
+19,dxe5,d4e5,r2q1rk1/ppp2ppp/5n2/3pP1B1/1b2P1bP/2N5/PPP1BPP1/R2QK2R b KQ - 0 10,"g4 bishop exposed, queen is for free"
+20,Nxe4,f6e4,r2q1rk1/ppp2ppp/8/3pP1B1/1b2n1bP/2N5/PPP1BPP1/R2QK2R w KQ - 0 11,"g4 bishop exposed, queen is for free"
+21,Bxd8,g5d8,r2B1rk1/ppp2ppp/8/3pP3/1b2n1bP/2N5/PPP1BPP1/R2QK2R b KQ - 0 11,"on this position i would not castle king side, so i would try not damaging the queen side but it seems you must if trying not to lose queen if knight recaptures, fork with queen and bishop, but queen can defend"
+22,Bxc3+,b4c3,r2B1rk1/ppp2ppp/8/3pP3/4n1bP/2b5/PPP1BPP1/R2QK2R w KQ - 0 12,"on this position i would not castle king side, so i would try not damaging the queen side but it seems you must if trying not to lose queen if knight recaptures, fork with queen and bishop, but queen can defend"
+23,bxc3,b2c3,r2B1rk1/ppp2ppp/8/3pP3/4n1bP/2P5/P1P1BPP1/R2QK2R b KQ - 0 12,"see the idea knight take bishop, queen takes bishop and attack queen"
+24,Nxc3,e4c3,r2B1rk1/ppp2ppp/8/3pP3/6bP/2n5/P1P1BPP1/R2QK2R w KQ - 0 13,"see the idea knight take bishop, queen takes bishop and attack queen"
+25,Qd4,d1d4,r2B1rk1/ppp2ppp/8/3pP3/3Q2bP/2n5/P1P1BPP1/R3K2R b KQ - 1 13,"see the idea knight take bishop, queen takes bishop and attack queen"
+26,Nxe2,c3e2,r2B1rk1/ppp2ppp/8/3pP3/3Q2bP/8/P1P1nPP1/R3K2R w KQ - 0 14,knight is for free
+27,Qxg4,d4g4,r2B1rk1/ppp2ppp/8/3pP3/6QP/8/P1P1nPP1/R3K2R b KQ - 0 14,knight is for free
+28,Raxd8,a8d8,3r1rk1/ppp2ppp/8/3pP3/6QP/8/P1P1nPP1/R3K2R w KQ - 0 15,knight is for free
+29,Qxe2,g4e2,3r1rk1/ppp2ppp/8/3pP3/7P/8/P1P1QPP1/R3K2R b KQ - 0 15,free file 7th rank danger
+30,c5,c7c5,3r1rk1/pp3ppp/8/2ppP3/7P/8/P1P1QPP1/R3K2R w KQ - 0 16,free file 7th rank danger
+31,Rb1,a1b1,3r1rk1/pp3ppp/8/2ppP3/7P/8/P1P1QPP1/1R2K2R b K - 1 16,free file 7th rank danger
+32,b6,b7b6,3r1rk1/p4ppp/1p6/2ppP3/7P/8/P1P1QPP1/1R2K2R w K - 0 17,defending the pawn
+33,c4,c2c4,3r1rk1/p4ppp/1p6/2ppP3/2P4P/8/P3QPP1/1R2K2R b K - 0 17,wonder why....
+34,d4,d5d4,3r1rk1/p4ppp/1p6/2p1P3/2Pp3P/8/P3QPP1/1R2K2R w K - 0 18,wonder why....
+35,Qe4,e2e4,3r1rk1/p4ppp/1p6/2p1P3/2PpQ2P/8/P4PP1/1R2K2R b K - 1 18,wonder why....
+36,Rde8,d8e8,4rrk1/p4ppp/1p6/2p1P3/2PpQ2P/8/P4PP1/1R2K2R w K - 2 19,wonder why....
+37,Kd2,e1d2,4rrk1/p4ppp/1p6/2p1P3/2PpQ2P/8/P2K1PP1/1R5R b - - 3 19,wonder why....
+38,f6,f7f6,4rrk1/p5pp/1p3p2/2p1P3/2PpQ2P/8/P2K1PP1/1R5R w - - 0 20,"double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made"
+39,e6,e5e6,4rrk1/p5pp/1p2Pp2/2p5/2PpQ2P/8/P2K1PP1/1R5R b - - 0 20,"double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made"
+40,Re7,e8e7,5rk1/p3r1pp/1p2Pp2/2p5/2PpQ2P/8/P2K1PP1/1R5R w - - 1 21,"double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made"
+41,g4,g2g4,5rk1/p3r1pp/1p2Pp2/2p5/2PpQ1PP/8/P2K1P2/1R5R b - - 0 21,"double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made"
+42,Rfe8,f8e8,4r1k1/p3r1pp/1p2Pp2/2p5/2PpQ1PP/8/P2K1P2/1R5R w - - 1 22,"double rooks, so rook takes pawn queen needs to move. e file for the king is bad, kinda get move 19 if like with bishop x-ray attack can be made"
+43,Rbe1,b1e1,4r1k1/p3r1pp/1p2Pp2/2p5/2PpQ1PP/8/P2K1P2/4R2R b - - 2 22,hmmmm... not bad
+44,Re7xe6,e7e6,4r1k1/p5pp/1p2rp2/2p5/2PpQ1PP/8/P2K1P2/4R2R w - - 0 23,hmmmm... not bad
+45,Qb7,e4b7,4r1k1/pQ4pp/1p2rp2/2p5/2Pp2PP/8/P2K1P2/4R2R b - - 1 23,hmmmm... not bad
+46,Re6e7,e6e7,4r1k1/pQ2r1pp/1p3p2/2p5/2Pp2PP/8/P2K1P2/4R2R w - - 2 24,what i thought checkmate is nearing black resinged
+47,Rxe7,e1e7,4r1k1/pQ2R1pp/1p3p2/2p5/2Pp2PP/8/P2K1P2/7R b - - 0 24,what i thought checkmate is nearing black resinged

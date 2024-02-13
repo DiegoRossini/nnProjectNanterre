@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Dutch defense
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Dutch defense
+3,g3,g2g3,rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2,Perhaps this isn't the right square for the bishop.
+4,d6,d7d6,rnbqkbnr/ppp1p1pp/3p4/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR w KQkq - 0 3,Perhaps this isn't the right square for the bishop.
+5,Bg2,f1g2,rnbqkbnr/ppp1p1pp/3p4/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR b KQkq - 1 3,Perhaps this isn't the right square for the bishop.
+6,Nf6,g8f6,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 2 4,Perhaps this isn't the right square for the bishop.
+7,c4,c2c4,rnbqkb1r/ppp1p1pp/3p1n2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 0 4,Perhaps this isn't the right square for the bishop.
+8,g6,g7g6,rnbqkb1r/ppp1p2p/3p1np1/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 0 5,Perhaps this isn't the right square for the bishop.
+9,Nc3,b1c3,rnbqkb1r/ppp1p2p/3p1np1/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR b KQkq - 1 5,Perhaps this isn't the right square for the bishop.
+10,Bg7,f8g7,rnbqk2r/ppp1p1bp/3p1np1/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 2 6,Perhaps this isn't the right square for the bishop.
+11,Nf3,g1f3,rnbqk2r/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 3 6,Perhaps this isn't the right square for the bishop.
+12,O-O,e8g8,rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 4 7,Perhaps this isn't the right square for the bishop.
+13,O-O,e1g1,rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 5 7,Perhaps this isn't the right square for the bishop.
+14,Nc6,b8c6,r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 6 8,Perhaps this isn't the right square for the bishop.
+15,Bg5,c1g5,r1bq1rk1/ppp1p1bp/2np1np1/5pB1/2PP4/2N2NP1/PP2PPBP/R2Q1RK1 b - - 7 8,Perhaps this isn't the right square for the bishop.
+16,Ne4,f6e4,r1bq1rk1/ppp1p1bp/2np2p1/5pB1/2PPn3/2N2NP1/PP2PPBP/R2Q1RK1 w - - 8 9,If 8. Nxe4 fxe4  9. Nh4 nxd4 is good for black.
+17,Be3,g5e3,r1bq1rk1/ppp1p1bp/2np2p1/5p2/2PPn3/2N1BNP1/PP2PPBP/R2Q1RK1 b - - 9 9,Black has weakened White's queenside pawn structure.
+18,Nxc3,e4c3,r1bq1rk1/ppp1p1bp/2np2p1/5p2/2PP4/2n1BNP1/PP2PPBP/R2Q1RK1 w - - 0 10,Black has weakened White's queenside pawn structure.
+19,bxc3,b2c3,r1bq1rk1/ppp1p1bp/2np2p1/5p2/2PP4/2P1BNP1/P3PPBP/R2Q1RK1 b - - 0 10,Black has weakened White's queenside pawn structure.
+20,h6,h7h6,r1bq1rk1/ppp1p1b1/2np2pp/5p2/2PP4/2P1BNP1/P3PPBP/R2Q1RK1 w - - 0 11,"stops the knight going to g5, but creates a target on h6."
+21,h4,h2h4,r1bq1rk1/ppp1p1b1/2np2pp/5p2/2PP3P/2P1BNP1/P3PPB1/R2Q1RK1 b - - 0 11,stops ...g5
+22,e5,e7e5,r1bq1rk1/ppp3b1/2np2pp/4pp2/2PP3P/2P1BNP1/P3PPB1/R2Q1RK1 w - - 0 12,"If white takes the e5 pawn a queen swap is likely, which would not suit white at this stage."
+23,Qd2,d1d2,r1bq1rk1/ppp3b1/2np2pp/4pp2/2PP3P/2P1BNP1/P2QPPB1/R4RK1 b - - 1 12,"Protects the h pawn. Later in the game the black king's position on the edge of the board will be 
+a problem for black."
+24,Kh7,g8h7,r1bq1r2/ppp3bk/2np2pp/4pp2/2PP3P/2P1BNP1/P2QPPB1/R4RK1 w - - 2 13,"Protects the h pawn. Later in the game the black king's position on the edge of the board will be 
+a problem for black."
+25,Ne1,f3e1,r1bq1r2/ppp3bk/2np2pp/4pp2/2PP3P/2P1B1P1/P2QPPB1/R3NRK1 b - - 3 13,"knight is aiming for d3, and then f4."
+26,Bd7,c8d7,r2q1r2/pppb2bk/2np2pp/4pp2/2PP3P/2P1B1P1/P2QPPB1/R3NRK1 w - - 4 14,A good outpost for the knight.
+27,Nd3,e1d3,r2q1r2/pppb2bk/2np2pp/4pp2/2PP3P/2PNB1P1/P2QPPB1/R4RK1 b - - 5 14,A good outpost for the knight.
+28,e4,e5e4,r2q1r2/pppb2bk/2np2pp/5p2/2PPp2P/2PNB1P1/P2QPPB1/R4RK1 w - - 0 15,A good outpost for the knight.
+29,Nf4,d3f4,r2q1r2/pppb2bk/2np2pp/5p2/2PPpN1P/2P1B1P1/P2QPPB1/R4RK1 b - - 1 15,A good outpost for the knight.
+30,Na5,c6a5,r2q1r2/pppb2bk/3p2pp/n4p2/2PPpN1P/2P1B1P1/P2QPPB1/R4RK1 w - - 2 16,threatens the weakened c4 pawn.
+31,c5,c4c5,r2q1r2/pppb2bk/3p2pp/n1P2p2/3PpN1P/2P1B1P1/P2QPPB1/R4RK1 b - - 0 16,"white is in no hurry to capture back on c5, which would create doubled isolated pawns on the 
+c file. It's more important to attack the pawn on e4."
+32,Nc4,a5c4,r2q1r2/pppb2bk/3p2pp/2P2p2/2nPpN1P/2P1B1P1/P2QPPB1/R4RK1 w - - 1 17,"white is in no hurry to capture back on c5, which would create doubled isolated pawns on the 
+c file. It's more important to attack the pawn on e4."
+33,Qc1,d2c1,r2q1r2/pppb2bk/3p2pp/2P2p2/2nPpN1P/2P1B1P1/P3PPB1/R1Q2RK1 b - - 2 17,"white is in no hurry to capture back on c5, which would create doubled isolated pawns on the 
+c file. It's more important to attack the pawn on e4."
+34,dxc5,d6c5,r2q1r2/pppb2bk/6pp/2p2p2/2nPpN1P/2P1B1P1/P3PPB1/R1Q2RK1 w - - 0 18,"white is in no hurry to capture back on c5, which would create doubled isolated pawns on the 
+c file. It's more important to attack the pawn on e4."
+35,f3,f2f3,r2q1r2/pppb2bk/6pp/2p2p2/2nPpN1P/2P1BPP1/P3P1B1/R1Q2RK1 b - - 0 18,"white is in no hurry to capture back on c5, which would create doubled isolated pawns on the 
+c file. It's more important to attack the pawn on e4."
+36,Re8,f8e8,r2qr3/pppb2bk/6pp/2p2p2/2nPpN1P/2P1BPP1/P3P1B1/R1Q2RK1 w - - 1 19,? Perhaps Nxe3 would be better.
+37,fxe4,f3e4,r2qr3/pppb2bk/6pp/2p2p2/2nPPN1P/2P1B1P1/P3P1B1/R1Q2RK1 b - - 0 19,? Perhaps Nxe3 would be better.
+38,fxe4,f5e4,r2qr3/pppb2bk/6pp/2p5/2nPpN1P/2P1B1P1/P3P1B1/R1Q2RK1 w - - 0 20,? Perhaps Nxe3 would be better.
+39,dxc5,d4c5,r2qr3/pppb2bk/6pp/2P5/2n1pN1P/2P1B1P1/P3P1B1/R1Q2RK1 b - - 0 20,? Perhaps Nxe3 would be better.
+40,Bf5,d7f5,r2qr3/ppp3bk/6pp/2P2b2/2n1pN1P/2P1B1P1/P3P1B1/R1Q2RK1 w - - 1 21,? Perhaps Nxe3 would be better.
+41,Rd1,f1d1,r2qr3/ppp3bk/6pp/2P2b2/2n1pN1P/2P1B1P1/P3P1B1/R1QR2K1 b - - 2 21,"White is pleased to have the bishop on d4, protecting c3 and preparing e3. This also frees up 
+the white queen."
+42,Qe7,d8e7,r3r3/ppp1q1bk/6pp/2P2b2/2n1pN1P/2P1B1P1/P3P1B1/R1QR2K1 w - - 3 22,"White is pleased to have the bishop on d4, protecting c3 and preparing e3. This also frees up 
+the white queen."
+43,Bd4,e3d4,r3r3/ppp1q1bk/6pp/2P2b2/2nBpN1P/2P3P1/P3P1B1/R1QR2K1 b - - 4 22,"White is pleased to have the bishop on d4, protecting c3 and preparing e3. This also frees up 
+the white queen."
+44,c6,c7c6,r3r3/pp2q1bk/2p3pp/2P2b2/2nBpN1P/2P3P1/P3P1B1/R1QR2K1 w - - 0 23,Chases the knight away from c4.
+45,e3,e2e3,r3r3/pp2q1bk/2p3pp/2P2b2/2nBpN1P/2P1P1P1/P5B1/R1QR2K1 b - - 0 23,Chases the knight away from c4.
+46,Rad8,a8d8,3rr3/pp2q1bk/2p3pp/2P2b2/2nBpN1P/2P1P1P1/P5B1/R1QR2K1 w - - 1 24,Chases the knight away from c4.
+47,Bf1,g2f1,3rr3/pp2q1bk/2p3pp/2P2b2/2nBpN1P/2P1P1P1/P7/R1QR1BK1 b - - 2 24,Chases the knight away from c4.
+48,Ne5,c4e5,3rr3/pp2q1bk/2p3pp/2P1nb2/3BpN1P/2P1P1P1/P7/R1QR1BK1 w - - 3 25,"White fears 25...Nf3  26 Kf2 Nxh4 27 gxh4 Qxh4 which looks promising for Black.
+With this move white can answer ...Nf3 with Ng2, and then ...Nxh4 is met by Nxh4."
+49,Kf2,g1f2,3rr3/pp2q1bk/2p3pp/2P1nb2/3BpN1P/2P1P1P1/P4K2/R1QR1B2 b - - 4 25,"White fears 25...Nf3  26 Kf2 Nxh4 27 gxh4 Qxh4 which looks promising for Black.
+With this move white can answer ...Nf3 with Ng2, and then ...Nxh4 is met by Nxh4."
+50,Ref8,e8f8,3r1r2/pp2q1bk/2p3pp/2P1nb2/3BpN1P/2P1P1P1/P4K2/R1QR1B2 w - - 5 26,white has to be careful of a pin or discovered check on the open f file.
+51,Be2,f1e2,3r1r2/pp2q1bk/2p3pp/2P1nb2/3BpN1P/2P1P1P1/P3BK2/R1QR4 b - - 6 26,"Anticipating the opening (or half opening) of the h file. White wants to transfer the rook back to
+h1."
+52,g5,g6g5,3r1r2/pp2q1bk/2p4p/2P1nbp1/3BpN1P/2P1P1P1/P3BK2/R1QR4 w - - 0 27,"Worth considering is ...hxg5 28 Rh1  Bh6 and white has real problems with the f4 knight,
+...Nd3  (forking king and queen), and ...Bg4 (possibly with a discovered check)."
+53,hxg5,h4g5,3r1r2/pp2q1bk/2p4p/2P1nbP1/3BpN2/2P1P1P1/P3BK2/R1QR4 b - - 0 27,"Worth considering is ...hxg5 28 Rh1  Bh6 and white has real problems with the f4 knight,
+...Nd3  (forking king and queen), and ...Bg4 (possibly with a discovered check)."
+54,Qxg5,e7g5,3r1r2/pp4bk/2p4p/2P1nbq1/3BpN2/2P1P1P1/P3BK2/R1QR4 w - - 0 28,"Worth considering is ...hxg5 28 Rh1  Bh6 and white has real problems with the f4 knight,
+...Nd3  (forking king and queen), and ...Bg4 (possibly with a discovered check)."
+55,Rh1,d1h1,3r1r2/pp4bk/2p4p/2P1nbq1/3BpN2/2P1P1P1/P3BK2/R1Q4R b - - 1 28,Maybe the rook will go to h4 at some stage.

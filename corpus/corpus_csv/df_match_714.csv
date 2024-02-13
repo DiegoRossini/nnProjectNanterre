@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Queen's pawn, Stonewall attack."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Queen's pawn, Stonewall attack."
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Queen's pawn, Stonewall attack."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Nf3 is probably better.  There are not many openings in the database with this move, and the few there are black tends to do quite well."
+5,Bb5+,f1b5,rnbqkbnr/ppp2ppp/4p3/1B1p4/3P4/4P3/PPP2PPP/RNBQK1NR b KQkq - 1 3,"Nf3 is probably better.  There are not many openings in the database with this move, and the few there are black tends to do quite well."
+6,c6,c7c6,rnbqkbnr/pp3ppp/2p1p3/1B1p4/3P4/4P3/PPP2PPP/RNBQK1NR w KQkq - 0 4,"In this exchange black ends up a pawn, with the white king again placed in check."
+7,Be2,b5e2,rnbqkbnr/pp3ppp/2p1p3/3p4/3P4/4P3/PPP1BPPP/RNBQK1NR b KQkq - 1 4,"In this exchange black ends up a pawn, with the white king again placed in check."
+8,Nh6,g8h6,rnbqkb1r/pp3ppp/2p1p2n/3p4/3P4/4P3/PPP1BPPP/RNBQK1NR w KQkq - 2 5,"In this exchange black ends up a pawn, with the white king again placed in check."
+9,g4,g2g4,rnbqkb1r/pp3ppp/2p1p2n/3p4/3P2P1/4P3/PPP1BP1P/RNBQK1NR b KQkq - 0 5,"In this exchange black ends up a pawn, with the white king again placed in check."
+10,Qa5+,d8a5,rnb1kb1r/pp3ppp/2p1p2n/q2p4/3P2P1/4P3/PPP1BP1P/RNBQK1NR w KQkq - 1 6,"In this exchange black ends up a pawn, with the white king again placed in check."
+11,c3,c2c3,rnb1kb1r/pp3ppp/2p1p2n/q2p4/3P2P1/2P1P3/PP2BP1P/RNBQK1NR b KQkq - 0 6,"In this exchange black ends up a pawn, with the white king again placed in check."
+12,c5,c6c5,rnb1kb1r/pp3ppp/4p2n/q1pp4/3P2P1/2P1P3/PP2BP1P/RNBQK1NR w KQkq - 0 7,"In this exchange black ends up a pawn, with the white king again placed in check."
+13,b4,b2b4,rnb1kb1r/pp3ppp/4p2n/q1pp4/1P1P2P1/2P1P3/P3BP1P/RNBQK1NR b KQkq - 0 7,"In this exchange black ends up a pawn, with the white king again placed in check."
+14,Qc7,a5c7,rnb1kb1r/ppq2ppp/4p2n/2pp4/1P1P2P1/2P1P3/P3BP1P/RNBQK1NR w KQkq - 1 8,"Black would probably be better off taking the pawn, cxPb4.  If white plays cxPb4 in response, black answers with BxPb4+.  Or QxPb4+.  Black ends up a pawn in that exchange.  Here, black drops a pawn."
+15,Qa4+,d1a4,rnb1kb1r/ppq2ppp/4p2n/2pp4/QP1P2P1/2P1P3/P3BP1P/RNB1K1NR b KQkq - 2 8,Pb5 is interesting.
+16,Bd7,c8d7,rn2kb1r/ppqb1ppp/4p2n/2pp4/QP1P2P1/2P1P3/P3BP1P/RNB1K1NR w KQkq - 3 9,Pb5 is interesting.
+17,Qc2,a4c2,rn2kb1r/ppqb1ppp/4p2n/2pp4/1P1P2P1/2P1P3/P1Q1BP1P/RNB1K1NR b KQkq - 4 9,Pb5 is interesting.
+18,cxb4,c5b4,rn2kb1r/ppqb1ppp/4p2n/3p4/1p1P2P1/2P1P3/P1Q1BP1P/RNB1K1NR w KQkq - 0 10,PcxPb4 gives black the white queen.
+19,c4,c3c4,rn2kb1r/ppqb1ppp/4p2n/3p4/1pPP2P1/4P3/P1Q1BP1P/RNB1K1NR b KQkq - 0 10,"Pdxc4, Bxc4 gives black NxPg4."
+20,dxc4,d5c4,rn2kb1r/ppqb1ppp/4p2n/8/1ppP2P1/4P3/P1Q1BP1P/RNB1K1NR w KQkq - 0 11,Here BxBb5+ gives white the black queen.
+21,Bxc4,e2c4,rn2kb1r/ppqb1ppp/4p2n/8/1pBP2P1/4P3/P1Q2P1P/RNB1K1NR b KQkq - 0 11,Here BxBb5+ gives white the black queen.
+22,Bb5,d7b5,rn2kb1r/ppq2ppp/4p2n/1b6/1pBP2P1/4P3/P1Q2P1P/RNB1K1NR w KQkq - 1 12,Here BxBb5+ gives white the black queen.
+23,Bb3,c4b3,rn2kb1r/ppq2ppp/4p2n/1b6/1p1P2P1/1B2P3/P1Q2P1P/RNB1K1NR b KQkq - 2 12,BxBf8 messes up black's king side castle.
+24,Bc6,b5c6,rn2kb1r/ppq2ppp/2b1p2n/8/1p1P2P1/1B2P3/P1Q2P1P/RNB1K1NR w KQkq - 3 13,BxBf8 messes up black's king side castle.
+25,f3,f2f3,rn2kb1r/ppq2ppp/2b1p2n/8/1p1P2P1/1B2PP2/P1Q4P/RNB1K1NR b KQkq - 0 13,BxBf8 messes up black's king side castle.
+26,Qd6,c7d6,rn2kb1r/pp3ppp/2bqp2n/8/1p1P2P1/1B2PP2/P1Q4P/RNB1K1NR w KQkq - 1 14,BxBf8 messes up black's king side castle.
+27,a3,a2a3,rn2kb1r/pp3ppp/2bqp2n/8/1p1P2P1/PB2PP2/2Q4P/RNB1K1NR b KQkq - 0 14,BxBf8 messes up black's king side castle.
+28,bxa3,b4a3,rn2kb1r/pp3ppp/2bqp2n/8/3P2P1/pB2PP2/2Q4P/RNB1K1NR w KQkq - 0 15,BxBf8 messes up black's king side castle.
+29,Bxa3,c1a3,rn2kb1r/pp3ppp/2bqp2n/8/3P2P1/BB2PP2/2Q4P/RN2K1NR b KQkq - 0 15,BxBf8 messes up black's king side castle.
+30,Qd7,d6d7,rn2kb1r/pp1q1ppp/2b1p2n/8/3P2P1/BB2PP2/2Q4P/RN2K1NR w KQkq - 1 16,BxBf8 messes up black's king side castle.
+31,g5,g4g5,rn2kb1r/pp1q1ppp/2b1p2n/6P1/3P4/BB2PP2/2Q4P/RN2K1NR b KQkq - 0 16,Pe3 is undefended.  I would expect black to play NxPe3.
+32,Nf5,h6f5,rn2kb1r/pp1q1ppp/2b1p3/5nP1/3P4/BB2PP2/2Q4P/RN2K1NR w KQkq - 1 17,Pe3 is undefended.  I would expect black to play NxPe3.
+33,h4,h2h4,rn2kb1r/pp1q1ppp/2b1p3/5nP1/3P3P/BB2PP2/2Q5/RN2K1NR b KQkq - 0 17,Pe3 is undefended.  I would expect black to play NxPe3.
+34,Nxe3,f5e3,rn2kb1r/pp1q1ppp/2b1p3/6P1/3P3P/BB2nP2/2Q5/RN2K1NR w KQkq - 0 18,Pd4 is now undefended.
+35,Qe2,c2e2,rn2kb1r/pp1q1ppp/2b1p3/6P1/3P3P/BB2nP2/4Q3/RN2K1NR b KQkq - 1 18,Pd4 is now undefended.
+36,Nf5,e3f5,rn2kb1r/pp1q1ppp/2b1p3/5nP1/3P3P/BB3P2/4Q3/RN2K1NR w KQkq - 2 19,Pd4 is now undefended.
+37,Bc2,b3c2,rn2kb1r/pp1q1ppp/2b1p3/5nP1/3P3P/B4P2/2B1Q3/RN2K1NR b KQkq - 3 19,"Pd4 is undefended.  Black has a choice of NxPd4, forcing white to move the queen again, or QxPd4, threatening Ra1."
+38,Nxd4,f5d4,rn2kb1r/pp1q1ppp/2b1p3/6P1/3n3P/B4P2/2B1Q3/RN2K1NR w KQkq - 0 20,Down four points white should consider every even trade with care.  Even trades benefit black.
+39,Qd3,e2d3,rn2kb1r/pp1q1ppp/2b1p3/6P1/3n3P/B2Q1P2/2B5/RN2K1NR b KQkq - 1 20,Down four points white should consider every even trade with care.  Even trades benefit black.
+40,Bxa3,f8a3,rn2k2r/pp1q1ppp/2b1p3/6P1/3n3P/b2Q1P2/2B5/RN2K1NR w KQkq - 0 21,Down four points white should consider every even trade with care.  Even trades benefit black.
+41,Nxa3,b1a3,rn2k2r/pp1q1ppp/2b1p3/6P1/3n3P/N2Q1P2/2B5/R3K1NR b KQkq - 0 21,Down four points white should consider every even trade with care.  Even trades benefit black.
+42,g6,g7g6,rn2k2r/pp1q1p1p/2b1p1p1/6P1/3n3P/N2Q1P2/2B5/R3K1NR w KQkq - 0 22,Down four points white should consider every even trade with care.  Even trades benefit black.
+43,Qc4,d3c4,rn2k2r/pp1q1p1p/2b1p1p1/6P1/2Qn3P/N4P2/2B5/R3K1NR b KQkq - 1 22,Down four points white should consider every even trade with care.  Even trades benefit black.
+44,Nxf3+,d4f3,rn2k2r/pp1q1p1p/2b1p1p1/6P1/2Q4P/N4n2/2B5/R3K1NR w KQkq - 0 23,Down four points white should consider every even trade with care.  Even trades benefit black.
+45,Nxf3,g1f3,rn2k2r/pp1q1p1p/2b1p1p1/6P1/2Q4P/N4N2/2B5/R3K2R b KQkq - 0 23,Down four points white should consider every even trade with care.  Even trades benefit black.
+46,Bxf3,c6f3,rn2k2r/pp1q1p1p/4p1p1/6P1/2Q4P/N4b2/2B5/R3K2R w KQkq - 0 24,Down four points white should consider every even trade with care.  Even trades benefit black.
+47,Qc3,c4c3,rn2k2r/pp1q1p1p/4p1p1/6P1/7P/N1Q2b2/2B5/R3K2R b KQkq - 1 24,Down four points white should consider every even trade with care.  Even trades benefit black.
+48,Rg8,h8g8,rn2k1r1/pp1q1p1p/4p1p1/6P1/7P/N1Q2b2/2B5/R3K2R w KQq - 2 25,"One move that might be fun for white is Nb5.  Should black be foolish enough to respond with QxNb5, white answers with Ba4, pinning the black queen against the king.  If black makes some other move (besides the king), white can play Nc7+, forking the a8 rook."
+49,Rh3,h1h3,rn2k1r1/pp1q1p1p/4p1p1/6P1/7P/N1Q2b1R/2B5/R3K3 b Qq - 3 25,"One move that might be fun for white is Nb5.  Should black be foolish enough to respond with QxNb5, white answers with Ba4, pinning the black queen against the king.  If black makes some other move (besides the king), white can play Nc7+, forking the a8 rook."
+50,Bg4,f3g4,rn2k1r1/pp1q1p1p/4p1p1/6P1/6bP/N1Q4R/2B5/R3K3 w Qq - 4 26,"One move that might be fun for white is Nb5.  Should black be foolish enough to respond with QxNb5, white answers with Ba4, pinning the black queen against the king.  If black makes some other move (besides the king), white can play Nc7+, forking the a8 rook."
+51,Rg3,h3g3,rn2k1r1/pp1q1p1p/4p1p1/6P1/6bP/N1Q3R1/2B5/R3K3 b Qq - 5 26,"One move that might be fun for white is Nb5.  Should black be foolish enough to respond with QxNb5, white answers with Ba4, pinning the black queen against the king.  If black makes some other move (besides the king), white can play Nc7+, forking the a8 rook."
+52,Bf5,g4f5,rn2k1r1/pp1q1p1p/4p1p1/5bP1/7P/N1Q3R1/2B5/R3K3 w Qq - 6 27,Nice.
+53,Bb3,c2b3,rn2k1r1/pp1q1p1p/4p1p1/5bP1/7P/NBQ3R1/8/R3K3 b Qq - 7 27,Nice.
+54,Nc6,b8c6,r3k1r1/pp1q1p1p/2n1p1p1/5bP1/7P/NBQ3R1/8/R3K3 w Qq - 8 28,Nice.
+55,Rd1,a1d1,r3k1r1/pp1q1p1p/2n1p1p1/5bP1/7P/NBQ3R1/8/3RK3 b q - 9 28,Nice.
+56,Qc7,d7c7,r3k1r1/ppq2p1p/2n1p1p1/5bP1/7P/NBQ3R1/8/3RK3 w q - 10 29,Nice.
+57,Nb5,a3b5,r3k1r1/ppq2p1p/2n1p1p1/1N3bP1/7P/1BQ3R1/8/3RK3 b q - 11 29,Nice.
+58,Qb6,c7b6,r3k1r1/pp3p1p/1qn1p1p1/1N3bP1/7P/1BQ3R1/8/3RK3 w q - 12 30,Nice.
+59,Nd6+,b5d6,r3k1r1/pp3p1p/1qnNp1p1/5bP1/7P/1BQ3R1/8/3RK3 b q - 13 30,Nice.
+60,Ke7,e8e7,r5r1/pp2kp1p/1qnNp1p1/5bP1/7P/1BQ3R1/8/3RK3 w - - 14 31,Nice.
+61,Qf6+,c3f6,r5r1/pp2kp1p/1qnNpQp1/5bP1/7P/1B4R1/8/3RK3 b - - 15 31,Nice.
+62,Kd7,e7d7,r5r1/pp1k1p1p/1qnNpQp1/5bP1/7P/1B4R1/8/3RK3 w - - 16 32,White takes the black queen with Nc4+ (discovered check with the rook).
+63,Nxf7+,d6f7,r5r1/pp1k1N1p/1qn1pQp1/5bP1/7P/1B4R1/8/3RK3 b - - 0 32,Nc4+ was immensely better.

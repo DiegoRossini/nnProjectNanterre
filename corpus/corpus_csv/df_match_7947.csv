@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The king's pawn opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My standard reply
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The ruy lopez.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The ruy lopez.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The ruy lopez.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,The berlin.My favorite defense against the Ruy.
+7,d3,d2d3,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,A quiet move that doesn't really promise White an advantage
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,5.Nxe5? Qd4!
+9,h3,h2h3,r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N1P/PPP2PP1/RNBQK2R b KQkq - 0 5,5.Nxe5? Qd4!
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N1P/PPP2PP1/RNBQK2R w KQ - 1 6,Routine castling
+11,O-O,e1g1,r1bq1rk1/pppp1ppp/2n2n2/1Bb1p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 b - - 2 6,Back away from the knight!
+12,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/1Bb1p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 w - - 0 7,Back away from the knight!
+13,Bg5,c1g5,r1bq1rk1/ppp2ppp/2np1n2/1Bb1p1B1/4P3/3P1N1P/PPP2PP1/RN1Q1RK1 b - - 1 7,Back away from the knight!
+14,h6,h7h6,r1bq1rk1/ppp2pp1/2np1n1p/1Bb1p1B1/4P3/3P1N1P/PPP2PP1/RN1Q1RK1 w - - 0 8,Back away from the knight!
+15,Bh4,g5h4,r1bq1rk1/ppp2pp1/2np1n1p/1Bb1p3/4P2B/3P1N1P/PPP2PP1/RN1Q1RK1 b - - 1 8,I like to harass bishops.=)
+16,g5,g7g5,r1bq1rk1/ppp2p2/2np1n1p/1Bb1p1p1/4P2B/3P1N1P/PPP2PP1/RN1Q1RK1 w - - 0 9,I like to harass bishops.=)
+17,Bg3,h4g3,r1bq1rk1/ppp2p2/2np1n1p/1Bb1p1p1/4P3/3P1NBP/PPP2PP1/RN1Q1RK1 b - - 1 9,Looking to gain the two Bishops.
+18,Nh5,f6h5,r1bq1rk1/ppp2p2/2np3p/1Bb1p1pn/4P3/3P1NBP/PPP2PP1/RN1Q1RK1 w - - 2 10,Looking to gain the two Bishops.
+19,Bh2,g3h2,r1bq1rk1/ppp2p2/2np3p/1Bb1p1pn/4P3/3P1N1P/PPP2PPB/RN1Q1RK1 b - - 3 10,Adding pressure to the knight
+20,g4,g5g4,r1bq1rk1/ppp2p2/2np3p/1Bb1p2n/4P1p1/3P1N1P/PPP2PPB/RN1Q1RK1 w - - 0 11,Adding pressure to the knight
+21,hxg4,h3g4,r1bq1rk1/ppp2p2/2np3p/1Bb1p2n/4P1P1/3P1N2/PPP2PPB/RN1Q1RK1 b - - 0 11,Adding pressure to the knight
+22,Bxg4,c8g4,r2q1rk1/ppp2p2/2np3p/1Bb1p2n/4P1b1/3P1N2/PPP2PPB/RN1Q1RK1 w - - 0 12,Adding pressure to the knight
+23,Nbd2,b1d2,r2q1rk1/ppp2p2/2np3p/1Bb1p2n/4P1b1/3P1N2/PPPN1PPB/R2Q1RK1 b - - 1 12,Adding pressure to the knight
+24,Nd4,c6d4,r2q1rk1/ppp2p2/3p3p/1Bb1p2n/3nP1b1/3P1N2/PPPN1PPB/R2Q1RK1 w - - 2 13,Adding pressure to the knight
+25,Bc4,b5c4,r2q1rk1/ppp2p2/3p3p/2b1p2n/2BnP1b1/3P1N2/PPPN1PPB/R2Q1RK1 b - - 3 13,Dogpile on the knight on f3!
+26,Qf6,d8f6,r4rk1/ppp2p2/3p1q1p/2b1p2n/2BnP1b1/3P1N2/PPPN1PPB/R2Q1RK1 w - - 4 14,Dogpile on the knight on f3!
+27,c3,c2c3,r4rk1/ppp2p2/3p1q1p/2b1p2n/2BnP1b1/2PP1N2/PP1N1PPB/R2Q1RK1 b - - 0 14,I look to attack the weak doubled pawns in the future.
+28,Nxf3+,d4f3,r4rk1/ppp2p2/3p1q1p/2b1p2n/2B1P1b1/2PP1n2/PP1N1PPB/R2Q1RK1 w - - 0 15,I look to attack the weak doubled pawns in the future.
+29,Nxf3,d2f3,r4rk1/ppp2p2/3p1q1p/2b1p2n/2B1P1b1/2PP1N2/PP3PPB/R2Q1RK1 b - - 0 15,I look to attack the weak doubled pawns in the future.
+30,Bxf3,g4f3,r4rk1/ppp2p2/3p1q1p/2b1p2n/2B1P3/2PP1b2/PP3PPB/R2Q1RK1 w - - 0 16,I look to attack the weak doubled pawns in the future.
+31,Qxf3,d1f3,r4rk1/ppp2p2/3p1q1p/2b1p2n/2B1P3/2PP1Q2/PP3PPB/R4RK1 b - - 0 16,I look to attack the weak doubled pawns in the future.
+32,Qxf3,f6f3,r4rk1/ppp2p2/3p3p/2b1p2n/2B1P3/2PP1q2/PP3PPB/R4RK1 w - - 0 17,I look to attack the weak doubled pawns in the future.
+33,gxf3,g2f3,r4rk1/ppp2p2/3p3p/2b1p2n/2B1P3/2PP1P2/PP3P1B/R4RK1 b - - 0 17,I look to attack the weak doubled pawns in the future.
+34,c6,c7c6,r4rk1/pp3p2/2pp3p/2b1p2n/2B1P3/2PP1P2/PP3P1B/R4RK1 w - - 0 18,This move is not necessary but I like the Bishop's chances on the g1-a7 diagonal
+35,b4,b2b4,r4rk1/pp3p2/2pp3p/2b1p2n/1PB1P3/2PP1P2/P4P1B/R4RK1 b - - 0 18,This move is not necessary but I like the Bishop's chances on the g1-a7 diagonal
+36,Bb6,c5b6,r4rk1/pp3p2/1bpp3p/4p2n/1PB1P3/2PP1P2/P4P1B/R4RK1 w - - 1 19,This move is not necessary but I like the Bishop's chances on the g1-a7 diagonal
+37,a4,a2a4,r4rk1/pp3p2/1bpp3p/4p2n/PPB1P3/2PP1P2/5P1B/R4RK1 b - - 0 19,This move is not necessary but I like the Bishop's chances on the g1-a7 diagonal
+38,a6,a7a6,r4rk1/1p3p2/pbpp3p/4p2n/PPB1P3/2PP1P2/5P1B/R4RK1 w - - 0 20,This move is not necessary but I like the Bishop's chances on the g1-a7 diagonal
+39,a5,a4a5,r4rk1/1p3p2/pbpp3p/P3p2n/1PB1P3/2PP1P2/5P1B/R4RK1 b - - 0 20,Kicking the bishop back.
+40,Ba7,b6a7,r4rk1/bp3p2/p1pp3p/P3p2n/1PB1P3/2PP1P2/5P1B/R4RK1 w - - 1 21,Looking to maneuver the rook on the  open g-file
+41,Kg2,g1g2,r4rk1/bp3p2/p1pp3p/P3p2n/1PB1P3/2PP1P2/5PKB/R4R2 b - - 2 21,Looking to maneuver the rook on the  open g-file
+42,Kh7,g8h7,r4r2/bp3p1k/p1pp3p/P3p2n/1PB1P3/2PP1P2/5PKB/R4R2 w - - 3 22,Looking to maneuver the rook on the  open g-file
+43,Rfh1,f1h1,r4r2/bp3p1k/p1pp3p/P3p2n/1PB1P3/2PP1P2/5PKB/R6R b - - 4 22,This seems to me a bit of an concession.
+44,f5,f7f5,r4r2/bp5k/p1pp3p/P3pp1n/1PB1P3/2PP1P2/5PKB/R6R w - - 0 23,This seems to me a bit of an concession.
+45,exf5,e4f5,r4r2/bp5k/p1pp3p/P3pP1n/1PB5/2PP1P2/5PKB/R6R b - - 0 23,This seems to me a bit of an concession.
+46,Rxf5,f8f5,r7/bp5k/p1pp3p/P3pr1n/1PB5/2PP1P2/5PKB/R6R w - - 0 24,Forced
+47,Be6,c4e6,r7/bp5k/p1ppB2p/P3pr1n/1P6/2PP1P2/5PKB/R6R b - - 1 24,Forced
+48,Nf4+,h5f4,r7/bp5k/p1ppB2p/P3pr2/1P3n2/2PP1P2/5PKB/R6R w - - 2 25,Forced
+49,Bxf4,h2f4,r7/bp5k/p1ppB2p/P3pr2/1P3B2/2PP1P2/5PK1/R6R b - - 0 25,Forced
+50,Rxf4,f5f4,r7/bp5k/p1ppB2p/P3p3/1P3r2/2PP1P2/5PK1/R6R w - - 0 26,Black has a good position.
+51,Rae1,a1e1,r7/bp5k/p1ppB2p/P3p3/1P3r2/2PP1P2/5PK1/4R2R b - - 1 26,Black has a good position.
+52,Re8,a8e8,4r3/bp5k/p1ppB2p/P3p3/1P3r2/2PP1P2/5PK1/4R2R w - - 2 27,Black has a good position.
+53,Bb3,e6b3,4r3/bp5k/p1pp3p/P3p3/1P3r2/1BPP1P2/5PK1/4R2R b - - 3 27,Black has great control over the center and a better position.
+54,d5,d6d5,4r3/bp5k/p1p4p/P2pp3/1P3r2/1BPP1P2/5PK1/4R2R w - - 0 28,Black has great control over the center and a better position.

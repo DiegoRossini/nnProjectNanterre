@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Sicilian opening
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Sicilian opening
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The variation I used to play: Smith-Morra gambit.
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,accepted
+5,c3,c2c3,rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,He wants to fianchetto his bisschop. Is this still book?
+6,dxc3,d4c3,rnbqkbnr/pp1ppppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,He wants to fianchetto his bisschop. Is this still book?
+7,Nxc3,b1c3,rnbqkbnr/pp1ppppp/8/8/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,He wants to fianchetto his bisschop. Is this still book?
+8,g6,g7g6,rnbqkbnr/pp1ppp1p/6p1/8/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,He wants to fianchetto his bisschop. Is this still book?
+9,Nf3,g1f3,rnbqkbnr/pp1ppp1p/6p1/8/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,trying to build up some pressure on f7.
+10,Bg7,f8g7,rnbqk1nr/pp1pppbp/6p1/8/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6,trying to build up some pressure on f7.
+11,Qb3,d1b3,rnbqk1nr/pp1pppbp/6p1/8/4P3/1QN2N2/PP3PPP/R1B1KB1R b KQkq - 3 6,trying to build up some pressure on f7.
+12,Nf6,g8f6,rnbqk2r/pp1pppbp/5np1/8/4P3/1QN2N2/PP3PPP/R1B1KB1R w KQkq - 4 7,preparing for O-O
+13,Bc4,f1c4,rnbqk2r/pp1pppbp/5np1/8/2B1P3/1QN2N2/PP3PPP/R1B1K2R b KQkq - 5 7,three pieces attacking f7!
+14,O-O,e8g8,rnbq1rk1/pp1pppbp/5np1/8/2B1P3/1QN2N2/PP3PPP/R1B1K2R w KQ - 6 8,three pieces attacking f7!
+15,Ng5,f3g5,rnbq1rk1/pp1pppbp/5np1/6N1/2B1P3/1QN5/PP3PPP/R1B1K2R b KQ - 7 8,three pieces attacking f7!
+16,e6,e7e6,rnbq1rk1/pp1p1pbp/4pnp1/6N1/2B1P3/1QN5/PP3PPP/R1B1K2R w KQ - 0 9,easily dealt with the thread
+17,Nb5,c3b5,rnbq1rk1/pp1p1pbp/4pnp1/1N4N1/2B1P3/1Q6/PP3PPP/R1B1K2R b KQ - 1 9,"trying to force something on the queenside and 'blocking' the queen, when she moves I can play Nc7 winning the rook! As we I can play Nd6 which attacks f7 again."
+18,Nc6,b8c6,r1bq1rk1/pp1p1pbp/2n1pnp1/1N4N1/2B1P3/1Q6/PP3PPP/R1B1K2R w KQ - 2 10,"attacking h7, but it isn't very effective due to the knight on f6."
+19,Qh3,b3h3,r1bq1rk1/pp1p1pbp/2n1pnp1/1N4N1/2B1P3/7Q/PP3PPP/R1B1K2R b KQ - 3 10,"attacking h7, but it isn't very effective due to the knight on f6."
+20,a6,a7a6,r1bq1rk1/1p1p1pbp/p1n1pnp1/1N4N1/2B1P3/7Q/PP3PPP/R1B1K2R w KQ - 0 11,pushing my knight away.
+21,Nc3,b5c3,r1bq1rk1/1p1p1pbp/p1n1pnp1/6N1/2B1P3/2N4Q/PP3PPP/R1B1K2R b KQ - 1 11,"As I think about it now, I would've prefered Nd6 as I mention before"
+22,h5,h7h5,r1bq1rk1/1p1p1pb1/p1n1pnp1/6Np/2B1P3/2N4Q/PP3PPP/R1B1K2R w KQ - 0 12,I count this a mistake as it weakens the kingside and the mate on h7 was allready protected by the knight
+23,Bf4,c1f4,r1bq1rk1/1p1p1pb1/p1n1pnp1/6Np/2B1PB2/2N4Q/PP3PPP/R3K2R b KQ - 1 12,"developing my DSB, aiming for d6 again."
+24,b5,b7b5,r1bq1rk1/3p1pb1/p1n1pnp1/1p4Np/2B1PB2/2N4Q/PP3PPP/R3K2R w KQ - 0 13,pushing my LSB away
+25,e5,e4e5,r1bq1rk1/3p1pb1/p1n1pnp1/1p2P1Np/2B2B2/2N4Q/PP3PPP/R3K2R b KQ - 0 13,attacking his 'annoying' f6 knight.
+26,bxc4,b5c4,r1bq1rk1/3p1pb1/p1n1pnp1/4P1Np/2p2B2/2N4Q/PP3PPP/R3K2R w KQ - 0 14,"he trades, he now has the bisschop pair but he weakened his kingside."
+27,exf6,e5f6,r1bq1rk1/3p1pb1/p1n1pPp1/6Np/2p2B2/2N4Q/PP3PPP/R3K2R b KQ - 0 14,"he trades, he now has the bisschop pair but he weakened his kingside."
+28,Qxf6,d8f6,r1b2rk1/3p1pb1/p1n1pqp1/6Np/2p2B2/2N4Q/PP3PPP/R3K2R w KQ - 0 15,"trying to trade of pawns, however, it costs me a bisschop, something I missed..."
+29,g4,g2g4,r1b2rk1/3p1pb1/p1n1pqp1/6Np/2p2BP1/2N4Q/PP3P1P/R3K2R b KQ - 0 15,"trying to trade of pawns, however, it costs me a bisschop, something I missed..."
+30,Qxf4,f6f4,r1b2rk1/3p1pb1/p1n1p1p1/6Np/2p2qP1/2N4Q/PP3P1P/R3K2R w KQ - 0 16,protecting my threatened knight and putting more pressure on the kingside.
+31,Nce4,c3e4,r1b2rk1/3p1pb1/p1n1p1p1/6Np/2p1NqP1/7Q/PP3P1P/R3K2R b KQ - 1 16,protecting my threatened knight and putting more pressure on the kingside.
+32,d5,d7d5,r1b2rk1/5pb1/p1n1p1p1/3p2Np/2p1NqP1/7Q/PP3P1P/R3K2R w KQ - 0 17,attacking my knight!

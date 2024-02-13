@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White takes aim at f6, black at f3."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"White takes aim at f6, black at f3."
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"White takes aim at f6, black at f3."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"White takes aim at f6, black at f3."
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,"White takes aim at f6, black at f3."
+6,Bc5,f8c5,rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4,"White takes aim at f6, black at f3."
+7,h3,h2h3,rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/3P3P/PPP2PP1/RNBQK1NR b KQkq - 0 4,"This move likely telecasts his intention for a kingside attack, but it could be a weak move waiting to see how black develops."
+8,O-O,e8g8,rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/3P3P/PPP2PP1/RNBQK1NR w KQ - 1 5,Probably aiming for Bg5.
+9,Qf3,d1f3,rnbq1rk1/pppp1ppp/5n2/2b1p3/2B1P3/3P1Q1P/PPP2PP1/RNB1K1NR b KQ - 2 5,Probably aiming for Bg5.
+10,Nc6,b8c6,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1Q1P/PPP2PP1/RNB1K1NR w KQ - 3 6,"This is quite common for when white plays an early Qf3.  He has to keep the knight off of d4, but this is the best square for the knight, so a rather indirect battle for the square ensues."
+11,c3,c2c3,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/2PP1Q1P/PP3PP1/RNB1K1NR b KQ - 0 6,"This is quite common for when white plays an early Qf3.  He has to keep the knight off of d4, but this is the best square for the knight, so a rather indirect battle for the square ensues."
+12,Bb6,c5b6,r1bq1rk1/pppp1ppp/1bn2n2/4p3/2B1P3/2PP1Q1P/PP3PP1/RNB1K1NR w KQ - 1 7,Black would like to pin the c pawn allowing the knight to slip into d4.
+13,b4,b2b4,r1bq1rk1/pppp1ppp/1bn2n2/4p3/1PB1P3/2PP1Q1P/P4PP1/RNB1K1NR b KQ - 0 7,"White is not having it.  White is aiming to claim not only the kingside, but the queenside as well."
+14,a5,a7a5,r1bq1rk1/1ppp1ppp/1bn2n2/p3p3/1PB1P3/2PP1Q1P/P4PP1/RNB1K1NR w KQ - 0 8,But black wants the pin.
+15,b5,b4b5,r1bq1rk1/1ppp1ppp/1bn2n2/pP2p3/2B1P3/2PP1Q1P/P4PP1/RNB1K1NR b KQ - 0 8,"White forces the abandonment of d4, but there is a cost.  Black is rather well placed for a position like a King's Indian but with the dark-square bishop along the a7-f2 diagonal rather than placed on g7."
+16,Ne7,c6e7,r1bq1rk1/1pppnppp/1b3n2/pP2p3/2B1P3/2PP1Q1P/P4PP1/RNB1K1NR w KQ - 1 9,"I suspect this is a mistake, but white seems unsure how to proceed."
+17,a4,a2a4,r1bq1rk1/1pppnppp/1b3n2/pP2p3/P1B1P3/2PP1Q1P/5PP1/RNB1K1NR b KQ - 0 9,"I suspect this is a mistake, but white seems unsure how to proceed."
+18,d5,d7d5,r1bq1rk1/1pp1nppp/1b3n2/pP1pp3/P1B1P3/2PP1Q1P/5PP1/RNB1K1NR w KQ - 0 10,"Plan 1 for black - Hit the center and take advantage of the vulnerable white king.  White is several moves away from castling kingside, and it appears that his king might be equally vulnerable there too."
+19,Bb3,c4b3,r1bq1rk1/1pp1nppp/1b3n2/pP1pp3/P3P3/1BPP1Q1P/5PP1/RNB1K1NR b KQ - 1 10,"Options?  1, Open the center for attack.  2, Close the center and play along a position similar to the King's Indian."
+20,d4,d5d4,r1bq1rk1/1pp1nppp/1b3n2/pP2p3/P2pP3/1BPP1Q1P/5PP1/RNB1K1NR w KQ - 0 11,Just about forced as 11.cxd4 is met by Bxd4 and the white rook must move.
+21,c4,c3c4,r1bq1rk1/1pp1nppp/1b3n2/pP2p3/P1PpP3/1B1P1Q1P/5PP1/RNB1K1NR b KQ - 0 11,Just about forced as 11.cxd4 is met by Bxd4 and the white rook must move.
+22,c5,c7c5,r1bq1rk1/1p2nppp/1b3n2/pPp1p3/P1PpP3/1B1P1Q1P/5PP1/RNB1K1NR w KQ c6 0 12,"The black dark square bishop looks awkward, but this move effectively closes white's plan for queenside counterplay."
+23,Qg3,f3g3,r1bq1rk1/1p2nppp/1b3n2/pPp1p3/P1PpP3/1B1P2QP/5PP1/RNB1K1NR b KQ - 1 12,"White seriously underestimates the black threats possibly because of Bb6 and c5, but the moves had a purpose."
+24,Qd6,d8d6,r1b2rk1/1p2nppp/1b1q1n2/pPp1p3/P1PpP3/1B1P2QP/5PP1/RNB1K1NR w KQ - 2 13,Black sees Bh6 coming so he plays a useful waiting move that allows him to delay Ng6.
+25,Bh6,c1h6,r1b2rk1/1p2nppp/1b1q1n1B/pPp1p3/P1PpP3/1B1P2QP/5PP1/RN2K1NR b KQ - 3 13,And now the bishop has wasted a move.
+26,Ng6,e7g6,r1b2rk1/1p3ppp/1b1q1nnB/pPp1p3/P1PpP3/1B1P2QP/5PP1/RN2K1NR w KQ - 4 14,And now the bishop has wasted a move.
+27,Bg5,h6g5,r1b2rk1/1p3ppp/1b1q1nn1/pPp1p1B1/P1PpP3/1B1P2QP/5PP1/RN2K1NR b KQ - 5 14,"Seemed worth a try, even though the move is easily dealt with."
+28,Nh5,f6h5,r1b2rk1/1p3ppp/1b1q2n1/pPp1p1Bn/P1PpP3/1B1P2QP/5PP1/RN2K1NR w KQ - 6 15,"Seemed worth a try, even though the move is easily dealt with."
+29,Qf3,g3f3,r1b2rk1/1p3ppp/1b1q2n1/pPp1p1Bn/P1PpP3/1B1P1Q1P/5PP1/RN2K1NR b KQ - 7 15,Expecting Nf6?
+30,Nhf4,h5f4,r1b2rk1/1p3ppp/1b1q2n1/pPp1p1B1/P1PpPn2/1B1P1Q1P/5PP1/RN2K1NR w KQ - 8 16,Retreating with a threat.
+31,g3,g2g3,r1b2rk1/1p3ppp/1b1q2n1/pPp1p1B1/P1PpPn2/1B1P1QPP/5P2/RN2K1NR b KQ - 0 16,Retreating with a threat.
+32,Ne6,f4e6,r1b2rk1/1p3ppp/1b1qn1n1/pPp1p1B1/P1PpP3/1B1P1QPP/5P2/RN2K1NR w KQ - 1 17,Retreating with a threat.
+33,Bd2,g5d2,r1b2rk1/1p3ppp/1b1qn1n1/pPp1p3/P1PpP3/1B1P1QPP/3B1P2/RN2K1NR b KQ - 2 17,"I am not sure this is really offering a pawn as the pawn can probably be recaptured, but the idea has some bite.  White has no haven for his king.  Black is threatening to open up the f file."
+34,f5,f7f5,r1b2rk1/1p4pp/1b1qn1n1/pPp1pp2/P1PpP3/1B1P1QPP/3B1P2/RN2K1NR w KQ - 0 18,"I am not sure this is really offering a pawn as the pawn can probably be recaptured, but the idea has some bite.  White has no haven for his king.  Black is threatening to open up the f file."

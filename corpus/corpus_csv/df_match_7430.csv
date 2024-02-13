@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Advancing the king's pawn up two squares is highly useful because it occupies a center square, attacks the center square d5, and allows the development of White's king's bishop and queen"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"As black my normal response to 1.e4 is 1...c5, but this time I chose 1...e5."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,.
+6,h6,h7h6,r1bqkbnr/pppp1pp1/2n4p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,? Losing a tempo in development. Because I normally play 1...c5 I would not guard the g5-square at this time and could face the unpleasant  Ng5 with attack on unprotected f7. But here h6 is not necessary because blacks queen is controlling g5. A general rule is also that moving the rank pawns is not the best because it later can turn out to be an attacking point in order to weaken the castled king side. Personally I often find it hard to not move h6/a6 or a3/h3 because I'm not too happy about the bishop on g4/b4/g5/b5.
+7,d4,d2d4,r1bqkbnr/pppp1pp1/2n4p/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,I think this is the best move now! Challenging control for center of the board.
+8,exd4,e5d4,r1bqkbnr/pppp1pp1/2n4p/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,.
+9,Bf4,c1f4,r1bqkbnr/pppp1pp1/2n4p/8/2BpPB2/5N2/PPP2PPP/RN1QK2R b KQkq - 1 5,"5 Bf4 was probably the best, which give black temporarily a chance to keep the d4 pawn and white has to spend time and effort to win back the pawn. Better would be Nxd4.."
+10,Bc5,f8c5,r1bqk1nr/pppp1pp1/2n4p/2b5/2BpPB2/5N2/PPP2PPP/RN1QK2R w KQkq - 2 6,I decided to defend the pawn. Equally good or better is probably Bb4+.
+11,Na3,b1a3,r1bqk1nr/pppp1pp1/2n4p/2b5/2BpPB2/N4N2/PPP2PPP/R2QK2R b KQkq - 3 6,"?! I don't follow the idea/continuation of Na3. If looking at general/beginners opening rules this is a poor move. But maybe white has a longer plan for it? Knights doesn't like to be ranked, which give them less influence in controlling squares"
+12,a6,a7a6,r1bqk1nr/1ppp1pp1/p1n4p/2b5/2BpPB2/N4N2/PPP2PPP/R2QK2R w KQkq - 0 7,"Again black make a poor move. The idea is to prevent white Nb5 with help from Bf4 will attack on c7. But far better and still protecting c7 is 6...d6, with healthy development for black by opening the d7-h3 diagonal"
+13,Bd5,c4d5,r1bqk1nr/1ppp1pp1/p1n4p/2bB4/3pPB2/N4N2/PPP2PPP/R2QK2R b KQkq - 1 7,Again I don't follow what black has in mind. Personally I think castling would be the natural continuation.
+14,Nce7,c6e7,r1bqk1nr/1pppnpp1/p6p/2bB4/3pPB2/N4N2/PPP2PPP/R2QK2R w KQkq - 2 8,7...Nge7 would have been better and continued the development for black.
+15,Ne5,f3e5,r1bqk1nr/1pppnpp1/p6p/2bBN3/3pPB2/N7/PPP2PPP/R2QK2R b KQkq - 3 8,This is what I would call the first mistake for white. Again I would like to hear what white had in mind. Black immediately took advantage of this...and played Nxd5
+16,Nxd5,e7d5,r1bqk1nr/1ppp1pp1/p6p/2bnN3/3pPB2/N7/PPP2PPP/R2QK2R w KQkq - 0 9,.
+17,exd5,e4d5,r1bqk1nr/1ppp1pp1/p6p/2bPN3/3p1B2/N7/PPP2PPP/R2QK2R b KQkq - 0 9,.
+18,d6,d7d6,r1bqk1nr/1pp2pp1/p2p3p/2bPN3/3p1B2/N7/PPP2PPP/R2QK2R w KQkq - 0 10,Best continuation. E.g. Qe7 pinning down the knight to king is easily answered by white castling.
+19,Nd3,e5d3,r1bqk1nr/1pp2pp1/p2p3p/2bP4/3p1B2/N2N4/PPP2PPP/R2QK2R b KQkq - 1 10,Sensible move!
+20,Qe7+,d8e7,r1b1k1nr/1pp1qpp1/p2p3p/2bP4/3p1B2/N2N4/PPP2PPP/R2QK2R w KQkq - 2 11,"I was not sure about this move, but didn't find any better move. Nf6 was into consideration, but for unknown reason I didn't like White response Qe2+. Bxa3 was also interesting without me finding a likable continuation"

@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,my typical opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,going for the quick checkmate.....can always still develop with Nb3 if plan A fails.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,going for the quick checkmate.....can always still develop with Nb3 if plan A fails.
+4,a6,a7a6,rnbqkbnr/1ppp1ppp/p7/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,going for the quick checkmate.....can always still develop with Nb3 if plan A fails.
+5,Qf3,d1f3,rnbqkbnr/1ppp1ppp/p7/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 3,going for the quick checkmate.....can always still develop with Nb3 if plan A fails.
+6,Nf6,g8f6,rnbqkb1r/1ppp1ppp/p4n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 4,blocks with the Knight...this is the typical way to stop QxP (checkmate)
+7,Qf5,f3f5,rnbqkb1r/1ppp1ppp/p4n2/4pQ2/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 4,Attempting to take the pawn at e5
+8,Nc6,b8c6,r1bqkb1r/1ppp1ppp/p1n2n2/4pQ2/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 5,Hopewell blocks by moving out his other knight.  This is also a good move because he continues to develop his pieces...and he can move the knight to d4 to threaten my queen.
+9,Nf3,g1f3,r1bqkb1r/1ppp1ppp/p1n2n2/4pQ2/2B1P3/5N2/PPPP1PPP/RNB1K2R b KQkq - 5 5,I pose a double threat on the pawn and also prevent knight to d4 without causing a knight exchange.
+10,d5,d7d5,r1bqkb1r/1pp2ppp/p1n2n2/3ppQ2/2B1P3/5N2/PPPP1PPP/RNB1K2R w KQkq - 0 6,EXCELLENT MOVE by Hopewell!  This move threatens my queen with his bishop (revealed check) and threatens my bishop at the same time.  This is going to cost me a three point lead and a major piece.  Hard to swallow--but I must move the queen...and lose the bishop.
+11,Qg5,f5g5,r1bqkb1r/1pp2ppp/p1n2n2/3pp1Q1/2B1P3/5N2/PPPP1PPP/RNB1K2R b KQkq - 1 6,he doesn't feel the need to take my bishop right away--and forces my queen back farther first.
+12,h6,h7h6,r1bqkb1r/1pp2pp1/p1n2n1p/3pp1Q1/2B1P3/5N2/PPPP1PPP/RNB1K2R w KQkq - 0 7,he doesn't feel the need to take my bishop right away--and forces my queen back farther first.
+13,Qe3,g5e3,r1bqkb1r/1pp2pp1/p1n2n1p/3pp3/2B1P3/4QN2/PPPP1PPP/RNB1K2R b KQkq - 1 7,down 3 points and position....my situation is not looking as well....he opened his queen rank as well for an attack.  He has control of this game.
+14,dxc4,d5c4,r1bqkb1r/1pp2pp1/p1n2n1p/4p3/2p1P3/4QN2/PPPP1PPP/RNB1K2R w KQkq - 0 8,down 3 points and position....my situation is not looking as well....he opened his queen rank as well for an attack.  He has control of this game.
+15,Nc3,b1c3,r1bqkb1r/1pp2pp1/p1n2n1p/4p3/2p1P3/2N1QN2/PPPP1PPP/R1B1K2R b KQkq - 1 8,trying to develop some before the attack comes in.  The best offense is a good defense.
+16,Nd4,c6d4,r1bqkb1r/1pp2pp1/p4n1p/4p3/2pnP3/2N1QN2/PPPP1PPP/R1B1K2R w KQkq - 2 9,"threatens my c2 pawn--which would split my king, queen, and rook in one shot."
+17,Kd1,e1d1,r1bqkb1r/1pp2pp1/p4n1p/4p3/2pnP3/2N1QN2/PPPP1PPP/R1BK3R b kq - 3 9,"protected the pawn, but lost my ability to castle with this move.  Another good play by hopewell."
+18,Nxf3,d4f3,r1bqkb1r/1pp2pp1/p4n1p/4p3/2p1P3/2N1Qn2/PPPP1PPP/R1BK3R w kq - 0 10,knight exchange.
+19,gxf3,g2f3,r1bqkb1r/1pp2pp1/p4n1p/4p3/2p1P3/2N1QP2/PPPP1P1P/R1BK3R b kq - 0 10,his attack continues to develop--his queen now controls center and protects the loose pawn on c4.
+20,Qd4,d8d4,r1b1kb1r/1pp2pp1/p4n1p/4p3/2pqP3/2N1QP2/PPPP1P1P/R1BK3R w kq - 1 11,his attack continues to develop--his queen now controls center and protects the loose pawn on c4.
+21,Qxd4,e3d4,r1b1kb1r/1pp2pp1/p4n1p/4p3/2pQP3/2N2P2/PPPP1P1P/R1BK3R b kq - 0 11,queen exchange--I was thinking I needed to clear out some space.
+22,exd4,e5d4,r1b1kb1r/1pp2pp1/p4n1p/8/2ppP3/2N2P2/PPPP1P1P/R1BK3R w kq - 0 12,still threatening my knight--but more importantly locking my king in.  This pawn is in a very threatening and annoying place right now for me.  Hopewell continues to thrive.
+23,Ne2,c3e2,r1b1kb1r/1pp2pp1/p4n1p/8/2ppP3/5P2/PPPPNP1P/R1BK3R b kq - 1 12,still threatening my knight--but more importantly locking my king in.  This pawn is in a very threatening and annoying place right now for me.  Hopewell continues to thrive.
+24,d3,d4d3,r1b1kb1r/1pp2pp1/p4n1p/8/2p1P3/3p1P2/PPPPNP1P/R1BK3R w kq - 0 13,still threatening my knight--but more importantly locking my king in.  This pawn is in a very threatening and annoying place right now for me.  Hopewell continues to thrive.
+25,cxd3,c2d3,r1b1kb1r/1pp2pp1/p4n1p/8/2p1P3/3P1P2/PP1PNP1P/R1BK3R b kq - 0 13,still threatening my knight--but more importantly locking my king in.  This pawn is in a very threatening and annoying place right now for me.  Hopewell continues to thrive.
+26,cxd3,c4d3,r1b1kb1r/1pp2pp1/p4n1p/8/4P3/3p1P2/PP1PNP1P/R1BK3R w kq - 0 14,still threatening my knight--but more importantly locking my king in.  This pawn is in a very threatening and annoying place right now for me.  Hopewell continues to thrive.
+27,Nc3,e2c3,r1b1kb1r/1pp2pp1/p4n1p/8/4P3/2Np1P2/PP1P1P1P/R1BK3R b kq - 1 14,threatens to exchange another lesser piece in attempt to gain positioning and advance his pawn.
+28,Bb4,f8b4,r1b1k2r/1pp2pp1/p4n1p/8/1b2P3/2Np1P2/PP1P1P1P/R1BK3R w kq - 2 15,threatens to exchange another lesser piece in attempt to gain positioning and advance his pawn.
+29,b3,b2b3,r1b1k2r/1pp2pp1/p4n1p/8/1b2P3/1PNp1P2/P2P1P1P/R1BK3R b kq - 0 15,Hopewell castles to give rook support to his pawn which has already moved almost all the way across the board and we are only on move 16!
+30,Bxc3,b4c3,r1b1k2r/1pp2pp1/p4n1p/8/4P3/1Pbp1P2/P2P1P1P/R1BK3R w kq - 0 16,Hopewell castles to give rook support to his pawn which has already moved almost all the way across the board and we are only on move 16!
+31,dxc3,d2c3,r1b1k2r/1pp2pp1/p4n1p/8/4P3/1PPp1P2/P4P1P/R1BK3R b kq - 0 16,Hopewell castles to give rook support to his pawn which has already moved almost all the way across the board and we are only on move 16!
+32,O-O,e8g8,r1b2rk1/1pp2pp1/p4n1p/8/4P3/1PPp1P2/P4P1P/R1BK3R w - - 1 17,Hopewell castles to give rook support to his pawn which has already moved almost all the way across the board and we are only on move 16!
+33,Bb2,c1b2,r1b2rk1/1pp2pp1/p4n1p/8/4P3/1PPp1P2/PB3P1P/R2K3R b - - 2 17,"attempting to clear a space for my rooks to move in--but I have a bigger plan then that--Rg1, Pc4, BxN or if his knight moves RxP to create a slide."
+34,Nd7,f6d7,r1b2rk1/1ppn1pp1/p6p/8/4P3/1PPp1P2/PB3P1P/R2K3R w - - 3 18,"He moves his knight obviously not seeing what is to come, I move the rook first trying to be conspicuous."

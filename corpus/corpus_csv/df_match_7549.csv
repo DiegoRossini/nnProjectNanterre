@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,I start out with the English opening
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"? an unusual response from Black (or at least, the first time Black played this against me) The most obvious drawback is that knight can't reach the c6 square"
+3,g3,g2g3,rnbqkbnr/pp1ppppp/2p5/8/2P5/6P1/PP1PPP1P/RNBQKBNR b KQkq - 0 2,working towards fianchetto-ing that bishop...
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 0 3,This justifies Black's last move to some extent - by the look of it Black wasn't too keen on bringing its queen out too early. It also allows the dark-square knight to move to d7.
+5,e3,e2e3,rnbqkbnr/pp2pppp/2p5/3p4/2P5/4P1P1/PP1P1P1P/RNBQKBNR b KQkq - 0 3,I defend the pawn with my bishop (maybe 3. d3 would have been better here)
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/4P1P1/PP1P1P1P/RNBQKBNR w KQkq - 1 4,simple development from Black
+7,Bg2,f1g2,rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/4P1P1/PP1P1PBP/RNBQK1NR b KQkq - 2 4,"? drops a pawn for White, though it could easily get the pawn back after dxc4"
+8,g6,g7g6,rnbqkb1r/pp2pp1p/2p2np1/3p4/2P5/4P1P1/PP1P1PBP/RNBQK1NR w KQkq - 0 5,"Black either overlooked the pawn capture or chose to ignore it and develop instead. Either way, it opens up a counterattacking option for White..."
+9,Qa4,d1a4,rnbqkb1r/pp2pp1p/2p2np1/3p4/Q1P5/4P1P1/PP1P1PBP/RNB1K1NR b KQkq - 1 5,"?! White threatens to win at least a pawn. Neither of us noticed in the game, but Black could have stopped losing out on the exchange with Be6 (e.g 5...Be6 6.cxd5 Bxd5 7.Bxd5 Nxd5) Also, b5 seems logical here as well, attacking the queen, but of course loses a pawn (5...b5 6.cxb5 cxb5 7.Qxb5+)"
+10,Bg7,f8g7,rnbqk2r/pp2ppbp/2p2np1/3p4/Q1P5/4P1P1/PP1P1PBP/RNB1K1NR w KQkq - 2 6,? Black chooses to ignore the threat entirely...
+11,cxd5,c4d5,rnbqk2r/pp2ppbp/2p2np1/3P4/Q7/4P1P1/PP1P1PBP/RNB1K1NR b KQkq - 0 6,"And White nabs a pawn. Because the c-pawn is pinned to the king by the queen, both Bxd5 and cxd5 are not an option here"
+12,O-O,e8g8,rnbq1rk1/pp2ppbp/2p2np1/3P4/Q7/4P1P1/PP1P1PBP/RNB1K1NR w KQ - 1 7,"Bd7 would have been the only move to stop another pawn loss, but since Black chose to ignore the threat again..."
+13,dxc6,d5c6,rnbq1rk1/pp2ppbp/2P2np1/8/Q7/4P1P1/PP1P1PBP/RNB1K1NR b KQ - 0 7,why not?
+14,bxc6,b7c6,rnbq1rk1/p3ppbp/2p2np1/8/Q7/4P1P1/PP1P1PBP/RNB1K1NR w KQ - 0 8,"Black chooses to exchange, whch isn't a good idea when you're down in points (though each side still has all of its pieces on the board - maybe it isn't so bad in that situation if you can use exchanges to get a better position) but then again, that c-pawn was dangerous there"
+15,Bxc6,g2c6,rnbq1rk1/p3ppbp/2B2np1/8/Q7/4P1P1/PP1P1P1P/RNB1K1NR b KQ - 0 8,a bishop-for-knight exchange
+16,Nxc6,b8c6,r1bq1rk1/p3ppbp/2n2np1/8/Q7/4P1P1/PP1P1P1P/RNB1K1NR w KQ - 0 9,a bishop-for-knight exchange
+17,Qxc6,a4c6,r1bq1rk1/p3ppbp/2Q2np1/8/8/4P1P1/PP1P1P1P/RNB1K1NR b KQ - 0 9,Driving the White Queen away and preventing her from taking the rook
+18,Bd7,c8d7,r2q1rk1/p2bppbp/2Q2np1/8/8/4P1P1/PP1P1P1P/RNB1K1NR w KQ - 1 10,Driving the White Queen away and preventing her from taking the rook
+19,Qa6,c6a6,r2q1rk1/p2bppbp/Q4np1/8/8/4P1P1/PP1P1P1P/RNB1K1NR b KQ - 2 10,"one of three moves to stop Black from playing Bc6. The other two moves (Qf3 and Qg2) are dangerous because of Qc8 (or Rc8), and White would be forced to drop its bishop to stop Black's bishop from taking the rook (e.g 9.Qe2? Rc8! 10.f3 Rxc1+ with a check as the cherry on top of the cake!)"
+20,Nd5,f6d5,r2q1rk1/p2bppbp/Q5p1/3n4/8/4P1P1/PP1P1P1P/RNB1K1NR w KQ - 3 11,looking towards Nb4.
+21,Ne2,g1e2,r2q1rk1/p2bppbp/Q5p1/3n4/8/4P1P1/PP1PNP1P/RNB1K2R b KQ - 4 11,This move gives the rook squares to escape to as well as opening up castling opportunities...
+22,Bg4,d7g4,r2q1rk1/p3ppbp/Q5p1/3n4/6b1/4P1P1/PP1PNP1P/RNB1K2R w KQ - 5 12,Which would be a bad idea right now!

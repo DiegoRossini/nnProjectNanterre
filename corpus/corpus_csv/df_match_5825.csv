@@ -1,0 +1,16 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A common move for white.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A common move for black.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,A common 2nd move for white.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,A common 2nd move for black.
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Going for the four knights game.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Only three knights.
+7,d4,d2d4,r1bqk1nr/pppp1ppp/2n5/2b1p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,Loses a pawn.
+8,exd4,e5d4,r1bqk1nr/pppp1ppp/2n5/2b5/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,--
+9,Bg5,c1g5,r1bqk1nr/pppp1ppp/2n5/2b3B1/3pP3/2N2N2/PPP2PPP/R2QKB1R b KQkq - 1 5,A very bad move for white. After 5...f6 either the bishop or knight is gone.
+10,Nge7,g8e7,r1bqk2r/ppppnppp/2n5/2b3B1/3pP3/2N2N2/PPP2PPP/R2QKB1R w KQkq - 2 6,Black missed their chance.
+11,Nd5,c3d5,r1bqk2r/ppppnppp/2n5/2bN2B1/3pP3/5N2/PPP2PPP/R2QKB1R b KQkq - 3 6,Not the best move. Black can't take the knight because the queen is pinned.
+12,g6,g7g6,r1bqk2r/ppppnp1p/2n3p1/2bN2B1/3pP3/5N2/PPP2PPP/R2QKB1R w KQkq - 0 7,The losing move. I don't see a move that could be worse.
+13,Nf6+,d5f6,r1bqk2r/ppppnp1p/2n2Np1/2b3B1/3pP3/5N2/PPP2PPP/R2QKB1R b KQkq - 1 7,White sees the chance to win early
+14,Kf8,e8f8,r1bq1k1r/ppppnp1p/2n2Np1/2b3B1/3pP3/5N2/PPP2PPP/R2QKB1R w KQ - 2 8,--
+15,Bh6#,g5h6,r1bq1k1r/ppppnp1p/2n2NpB/2b5/3pP3/5N2/PPP2PPP/R2QKB1R b KQ - 3 8,An 8 move mate. Remember that this game was played in the casual section of the tournament.

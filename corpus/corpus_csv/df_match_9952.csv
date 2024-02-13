@@ -1,0 +1,92 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,better is d5 and to transport into Benoni or Benko gambit.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,better is d5 and to transport into Benoni or Benko gambit.
+3,c4,c2c4,rnbqkbnr/pp1ppppp/8/2p5/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,better is d5 and to transport into Benoni or Benko gambit.
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I prefer Nxd4.
+5,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/8/2Pp4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,I prefer Nxd4.
+6,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/8/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,I prefer Nxd4.
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/2PN4/8/PP2PPPP/RNBQKB1R b KQkq - 0 4,I prefer Nxd4.
+8,e5,e7e5,r1bqkbnr/pp1p1ppp/2n5/4p3/2PN4/8/PP2PPPP/RNBQKB1R w KQkq - 0 5,I prefer Nxd4.
+9,Nxc6,d4c6,r1bqkbnr/pp1p1ppp/2N5/4p3/2P5/8/PP2PPPP/RNBQKB1R b KQkq - 0 5,a positional mistake. why opening a file for black?
+10,bxc6,b7c6,r1bqkbnr/p2p1ppp/2p5/4p3/2P5/8/PP2PPPP/RNBQKB1R w KQkq - 0 6,a positional mistake. why opening a file for black?
+11,Qb3,d1b3,r1bqkbnr/p2p1ppp/2p5/4p3/2P5/1Q6/PP2PPPP/RNB1KB1R b KQkq - 1 6,a positional mistake. why opening a file for black?
+12,Qb6,d8b6,r1b1kbnr/p2p1ppp/1qp5/4p3/2P5/1Q6/PP2PPPP/RNB1KB1R w KQkq - 2 7,a positional mistake. why opening a file for black?
+13,Qxb6,b3b6,r1b1kbnr/p2p1ppp/1Qp5/4p3/2P5/8/PP2PPPP/RNB1KB1R b KQkq - 0 7,a positional mistake. why opening a file for black?
+14,axb6,a7b6,r1b1kbnr/3p1ppp/1pp5/4p3/2P5/8/PP2PPPP/RNB1KB1R w KQkq - 0 8,"with Be6 and d5, breaking through the center."
+15,e4,e2e4,r1b1kbnr/3p1ppp/1pp5/4p3/2P1P3/8/PP3PPP/RNB1KB1R b KQkq - 0 8,"with Be6 and d5, breaking through the center."
+16,Nf6,g8f6,r1b1kb1r/3p1ppp/1pp2n2/4p3/2P1P3/8/PP3PPP/RNB1KB1R w KQkq - 1 9,"with Be6 and d5, breaking through the center."
+17,Nc3,b1c3,r1b1kb1r/3p1ppp/1pp2n2/4p3/2P1P3/2N5/PP3PPP/R1B1KB1R b KQkq - 2 9,"with Be6 and d5, breaking through the center."
+18,Bb4,f8b4,r1b1k2r/3p1ppp/1pp2n2/4p3/1bP1P3/2N5/PP3PPP/R1B1KB1R w KQkq - 3 10,"with Be6 and d5, breaking through the center."
+19,Bd2,c1d2,r1b1k2r/3p1ppp/1pp2n2/4p3/1bP1P3/2N5/PP1B1PPP/R3KB1R b KQkq - 4 10,"with Be6 and d5, breaking through the center."
+20,d6,d7d6,r1b1k2r/5ppp/1ppp1n2/4p3/1bP1P3/2N5/PP1B1PPP/R3KB1R w KQkq - 0 11,"with Be6 and d5, breaking through the center."
+21,f3,f2f3,r1b1k2r/5ppp/1ppp1n2/4p3/1bP1P3/2N2P2/PP1B2PP/R3KB1R b KQkq - 0 11,I think that Be2 with 0-0 and a3 is more safe.
+22,O-O,e8g8,r1b2rk1/5ppp/1ppp1n2/4p3/1bP1P3/2N2P2/PP1B2PP/R3KB1R w KQ - 1 12,I think that Be2 with 0-0 and a3 is more safe.
+23,g4,g2g4,r1b2rk1/5ppp/1ppp1n2/4p3/1bP1P1P1/2N2P2/PP1B3P/R3KB1R b KQ - 0 12,I think that Be2 with 0-0 and a3 is more safe.
+24,Be6,c8e6,r4rk1/5ppp/1pppbn2/4p3/1bP1P1P1/2N2P2/PP1B3P/R3KB1R w KQ - 1 13,wants the a file and the a pawn...
+25,h4,h2h4,r4rk1/5ppp/1pppbn2/4p3/1bP1P1PP/2N2P2/PP1B4/R3KB1R b KQ - 0 13,wants the a file and the a pawn...
+26,Ra7,a8a7,5rk1/r4ppp/1pppbn2/4p3/1bP1P1PP/2N2P2/PP1B4/R3KB1R w KQ - 1 14,wants the a file and the a pawn...
+27,h5,h4h5,5rk1/r4ppp/1pppbn2/4p2P/1bP1P1P1/2N2P2/PP1B4/R3KB1R b KQ - 0 14,finding a weak spot - d6.
+28,Rfa8,f8a8,r5k1/r4ppp/1pppbn2/4p2P/1bP1P1P1/2N2P2/PP1B4/R3KB1R w KQ - 1 15,finding a weak spot - d6.
+29,a3,a2a3,r5k1/r4ppp/1pppbn2/4p2P/1bP1P1P1/P1N2P2/1P1B4/R3KB1R b KQ - 0 15,finding a weak spot - d6.
+30,Bc5,b4c5,r5k1/r4ppp/1pppbn2/2b1p2P/2P1P1P1/P1N2P2/1P1B4/R3KB1R w KQ - 1 16,finding a weak spot - d6.
+31,h6,h5h6,r5k1/r4ppp/1pppbn1P/2b1p3/2P1P1P1/P1N2P2/1P1B4/R3KB1R b KQ - 0 16,finding a weak spot - d6.
+32,g6,g7g6,r5k1/r4p1p/1pppbnpP/2b1p3/2P1P1P1/P1N2P2/1P1B4/R3KB1R w KQ - 0 17,finding a weak spot - d6.
+33,Bg5,d2g5,r5k1/r4p1p/1pppbnpP/2b1p1B1/2P1P1P1/P1N2P2/1P6/R3KB1R b KQ - 1 17,finding a weak spot - d6.
+34,Nd7,f6d7,r5k1/r2n1p1p/1pppb1pP/2b1p1B1/2P1P1P1/P1N2P2/1P6/R3KB1R w KQ - 2 18,finding a weak spot - d6.
+35,O-O-O,e1c1,r5k1/r2n1p1p/1pppb1pP/2b1p1B1/2P1P1P1/P1N2P2/1P6/2KR1B1R b - - 3 18,finding a weak spot - d6.
+36,f6,f7f6,r5k1/r2n3p/1pppbppP/2b1p1B1/2P1P1P1/P1N2P2/1P6/2KR1B1R w - - 0 19,keep controling the center.
+37,Bh4,g5h4,r5k1/r2n3p/1pppbppP/2b1p3/2P1P1PB/P1N2P2/1P6/2KR1B1R b - - 1 19,keep controling the center.
+38,g5,g6g5,r5k1/r2n3p/1pppbp1P/2b1p1p1/2P1P1PB/P1N2P2/1P6/2KR1B1R w - - 0 20,keep controling the center.
+39,Bg3,h4g3,r5k1/r2n3p/1pppbp1P/2b1p1p1/2P1P1P1/P1N2PB1/1P6/2KR1B1R b - - 1 20,keep controling the center.
+40,Bd4,c5d4,r5k1/r2n3p/1pppbp1P/4p1p1/2PbP1P1/P1N2PB1/1P6/2KR1B1R w - - 2 21,keep controling the center.
+41,Na2,c3a2,r5k1/r2n3p/1pppbp1P/4p1p1/2PbP1P1/P4PB1/NP6/2KR1B1R b - - 3 21,the knight is getting into the party too.
+42,Nc5,d7c5,r5k1/r6p/1pppbp1P/2n1p1p1/2PbP1P1/P4PB1/NP6/2KR1B1R w - - 4 22,the knight is getting into the party too.
+43,Nb4,a2b4,r5k1/r6p/1pppbp1P/2n1p1p1/1NPbP1P1/P4PB1/1P6/2KR1B1R b - - 5 22,nothing will move that bishop from d4.
+44,Bd7,e6d7,r5k1/r2b3p/1ppp1p1P/2n1p1p1/1NPbP1P1/P4PB1/1P6/2KR1B1R w - - 6 23,nothing will move that bishop from d4.
+45,Kc2,c1c2,r5k1/r2b3p/1ppp1p1P/2n1p1p1/1NPbP1P1/P4PB1/1PK5/3R1B1R b - - 7 23,nothing will move that bishop from d4.
+46,Na4,c5a4,r5k1/r2b3p/1ppp1p1P/4p1p1/nNPbP1P1/P4PB1/1PK5/3R1B1R w - - 8 24,nothing will move that bishop from d4.
+47,Nd3,b4d3,r5k1/r2b3p/1ppp1p1P/4p1p1/n1PbP1P1/P2N1PB1/1PK5/3R1B1R b - - 9 24,nothing will move that bishop from d4.
+48,c5,c6c5,r5k1/r2b3p/1p1p1p1P/2p1p1p1/n1PbP1P1/P2N1PB1/1PK5/3R1B1R w - - 0 25,nothing will move that bishop from d4.
+49,Bf2,g3f2,r5k1/r2b3p/1p1p1p1P/2p1p1p1/n1PbP1P1/P2N1P2/1PK2B2/3R1B1R b - - 1 25,breaking through the queenside ng open files a and soon b.
+50,b5,b6b5,r5k1/r2b3p/3p1p1P/1pp1p1p1/n1PbP1P1/P2N1P2/1PK2B2/3R1B1R w - - 0 26,breaking through the queenside ng open files a and soon b.
+51,cxb5,c4b5,r5k1/r2b3p/3p1p1P/1Pp1p1p1/n2bP1P1/P2N1P2/1PK2B2/3R1B1R b - - 0 26,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+52,Bxb5,d7b5,r5k1/r6p/3p1p1P/1bp1p1p1/n2bP1P1/P2N1P2/1PK2B2/3R1B1R w - - 0 27,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+53,Bxd4,f2d4,r5k1/r6p/3p1p1P/1bp1p1p1/n2BP1P1/P2N1P2/1PK5/3R1B1R b - - 0 27,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+54,Bxd3+,b5d3,r5k1/r6p/3p1p1P/2p1p1p1/n2BP1P1/P2b1P2/1PK5/3R1B1R w - - 0 28,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+55,Bxd3,f1d3,r5k1/r6p/3p1p1P/2p1p1p1/n2BP1P1/P2B1P2/1PK5/3R3R b - - 0 28,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+56,cxd4,c5d4,r5k1/r6p/3p1p1P/4p1p1/n2pP1P1/P2B1P2/1PK5/3R3R w - - 0 29,there are now two pawns in favour of white in the queen side but I dont see how white can hold them both.
+57,Bc4+,d3c4,r5k1/r6p/3p1p1P/4p1p1/n1BpP1P1/P4P2/1PK5/3R3R b - - 1 29,these exchanges are not good for black...
+58,Kf8,g8f8,r4k2/r6p/3p1p1P/4p1p1/n1BpP1P1/P4P2/1PK5/3R3R w - - 2 30,these exchanges are not good for black...
+59,Rdb1,d1b1,r4k2/r6p/3p1p1P/4p1p1/n1BpP1P1/P4P2/1PK5/1R5R b - - 3 30,these exchanges are not good for black...
+60,Rc7,a7c7,r4k2/2r4p/3p1p1P/4p1p1/n1BpP1P1/P4P2/1PK5/1R5R w - - 4 31,these exchanges are not good for black...
+61,Kd3,c2d3,r4k2/2r4p/3p1p1P/4p1p1/n1BpP1P1/P2K1P2/1P6/1R5R b - - 5 31,these exchanges are not good for black...
+62,Rb8,a8b8,1r3k2/2r4p/3p1p1P/4p1p1/n1BpP1P1/P2K1P2/1P6/1R5R w - - 6 32,these exchanges are not good for black...
+63,b3,b2b3,1r3k2/2r4p/3p1p1P/4p1p1/n1BpP1P1/PP1K1P2/8/1R5R b - - 0 32,these exchanges are not good for black...
+64,Nb6,a4b6,1r3k2/2r4p/1n1p1p1P/4p1p1/2BpP1P1/PP1K1P2/8/1R5R w - - 1 33,these exchanges are not good for black...
+65,Rhc1,h1c1,1r3k2/2r4p/1n1p1p1P/4p1p1/2BpP1P1/PP1K1P2/8/1RR5 b - - 2 33,these exchanges are not good for black...
+66,Nxc4,b6c4,1r3k2/2r4p/3p1p1P/4p1p1/2npP1P1/PP1K1P2/8/1RR5 w - - 0 34,these exchanges are not good for black...
+67,Rxc4,c1c4,1r3k2/2r4p/3p1p1P/4p1p1/2RpP1P1/PP1K1P2/8/1R6 b - - 0 34,these exchanges are not good for black...
+68,Rxc4,c7c4,1r3k2/7p/3p1p1P/4p1p1/2rpP1P1/PP1K1P2/8/1R6 w - - 0 35,these exchanges are not good for black...
+69,Kxc4,d3c4,1r3k2/7p/3p1p1P/4p1p1/2KpP1P1/PP3P2/8/1R6 b - - 0 35,these exchanges are not good for black...
+70,Rc8+,b8c8,2r2k2/7p/3p1p1P/4p1p1/2KpP1P1/PP3P2/8/1R6 w - - 1 36,? first of all Rb2 is needed and then white can move on with his two pawns.
+71,Kd3,c4d3,2r2k2/7p/3p1p1P/4p1p1/3pP1P1/PP1K1P2/8/1R6 b - - 2 36,? first of all Rb2 is needed and then white can move on with his two pawns.
+72,Rc3+,c8c3,5k2/7p/3p1p1P/4p1p1/3pP1P1/PPrK1P2/8/1R6 w - - 3 37,? first of all Rb2 is needed and then white can move on with his two pawns.
+73,Ke2,d3e2,5k2/7p/3p1p1P/4p1p1/3pP1P1/PPr2P2/4K3/1R6 b - - 4 37,? first of all Rb2 is needed and then white can move on with his two pawns.
+74,Ke7,f8e7,8/4k2p/3p1p1P/4p1p1/3pP1P1/PPr2P2/4K3/1R6 w - - 5 38,? first of all Rb2 is needed and then white can move on with his two pawns.
+75,a4,a3a4,8/4k2p/3p1p1P/4p1p1/P2pP1P1/1Pr2P2/4K3/1R6 b - - 0 38,? first of all Rb2 is needed and then white can move on with his two pawns.
+76,Kd7,e7d7,8/3k3p/3p1p1P/4p1p1/P2pP1P1/1Pr2P2/4K3/1R6 w - - 1 39,Rc1 must be considered. I cant see how white defends his h6 pawn.
+77,b4,b3b4,8/3k3p/3p1p1P/4p1p1/PP1pP1P1/2r2P2/4K3/1R6 b - - 0 39,Rc1 must be considered. I cant see how white defends his h6 pawn.
+78,Kc6,d7c6,8/7p/2kp1p1P/4p1p1/PP1pP1P1/2r2P2/4K3/1R6 w - - 1 40,Rc1 must be considered. I cant see how white defends his h6 pawn.
+79,b5+,b4b5,8/7p/2kp1p1P/1P2p1p1/P2pP1P1/2r2P2/4K3/1R6 b - - 0 40,Rc1 must be considered. I cant see how white defends his h6 pawn.
+80,Kb6,c6b6,8/7p/1k1p1p1P/1P2p1p1/P2pP1P1/2r2P2/4K3/1R6 w - - 1 41,Rc1 must be considered. I cant see how white defends his h6 pawn.
+81,Ra1,b1a1,8/7p/1k1p1p1P/1P2p1p1/P2pP1P1/2r2P2/4K3/R7 b - - 2 41,Rc1 must be considered. I cant see how white defends his h6 pawn.
+82,Ka5,b6a5,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2r2P2/4K3/R7 w - - 3 42,Rc1 must be considered. I cant see how white defends his h6 pawn.
+83,Ra2,a1a2,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2r2P2/R3K3/8 b - - 4 42,Rc1 must be considered. I cant see how white defends his h6 pawn.
+84,Rc1,c3c1,8/7p/3p1p1P/kP2p1p1/P2pP1P1/5P2/R3K3/2r5 w - - 5 43,Rc1 must be considered. I cant see how white defends his h6 pawn.
+85,Kd3,e2d3,8/7p/3p1p1P/kP2p1p1/P2pP1P1/3K1P2/R7/2r5 b - - 6 43,Rc1 must be considered. I cant see how white defends his h6 pawn.
+86,Rc3+,c1c3,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2rK1P2/R7/8 w - - 7 44,Rc1 must be considered. I cant see how white defends his h6 pawn.
+87,Ke2,d3e2,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2r2P2/R3K3/8 b - - 8 44,Rc1 must be considered. I cant see how white defends his h6 pawn.
+88,Re3+,c3e3,8/7p/3p1p1P/kP2p1p1/P2pP1P1/4rP2/R3K3/8 w - - 9 45,Rc1 must be considered. I cant see how white defends his h6 pawn.
+89,Kf2,e2f2,8/7p/3p1p1P/kP2p1p1/P2pP1P1/4rP2/R4K2/8 b - - 10 45,a draw...
+90,Rc3,e3c3,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2r2P2/R4K2/8 w - - 11 46,a draw...
+91,Ke2,f2e2,8/7p/3p1p1P/kP2p1p1/P2pP1P1/2r2P2/R3K3/8 b - - 12 46,a draw...

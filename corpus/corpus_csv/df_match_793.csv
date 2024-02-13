@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,same
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,building my knights
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,pawn wall
+5,Bb5+,f1b5,rnbqkbnr/ppp2ppp/3p4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,check
+6,Bd7,c8d7,rn1qkbnr/pppb1ppp/3p4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,block
+7,Bxd7+,b5d7,rn1qkbnr/pppB1ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,check.  how could someone stop checking at the start at the game.
+8,Nxd7,b8d7,r2qkbnr/pppn1ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,evan
+9,O-O,e1g1,r2qkbnr/pppn1ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5,castle
+10,Qe7,d8e7,r3kbnr/pppnqppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6,queen
+11,Nc3,b1c3,r3kbnr/pppnqppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 6,knights both out
+12,Nc5,d7c5,r3kbnr/ppp1qppp/3p4/2n1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 4 7,same knight
+13,b3,b2b3,r3kbnr/ppp1qppp/3p4/2n1p3/4P3/1PN2N2/P1PP1PPP/R1BQ1RK1 b kq - 0 7,pawn
+14,O-O-O,e8c8,2kr1bnr/ppp1qppp/3p4/2n1p3/4P3/1PN2N2/P1PP1PPP/R1BQ1RK1 w - - 1 8,castle
+15,Ba3,c1a3,2kr1bnr/ppp1qppp/3p4/2n1p3/4P3/BPN2N2/P1PP1PPP/R2Q1RK1 b - - 2 8,all minor pieces out.
+16,g5,g7g5,2kr1bnr/ppp1qp1p/3p4/2n1p1p1/4P3/BPN2N2/P1PP1PPP/R2Q1RK1 w - - 0 9,pawn
+17,Nxg5,f3g5,2kr1bnr/ppp1qp1p/3p4/2n1p1N1/4P3/BPN5/P1PP1PPP/R2Q1RK1 b - - 0 9,minor
+18,Bh6,f8h6,2kr2nr/ppp1qp1p/3p3b/2n1p1N1/4P3/BPN5/P1PP1PPP/R2Q1RK1 w - - 1 10,same
+19,Nxf7,g5f7,2kr2nr/ppp1qN1p/3p3b/2n1p3/4P3/BPN5/P1PP1PPP/R2Q1RK1 b - - 0 10,same
+20,Qxf7,e7f7,2kr2nr/ppp2q1p/3p3b/2n1p3/4P3/BPN5/P1PP1PPP/R2Q1RK1 w - - 0 11,-1

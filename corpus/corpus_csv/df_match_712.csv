@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,Opening with the English opening
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Opening with the English opening
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,Pawn to e3 to allow light bishop access to diagonal and protect pawn at c4
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,Pawn to e3 to allow light bishop access to diagonal and protect pawn at c4
+5,e3,e2e3,rnbqkbnr/pp1p1ppp/4p3/2p5/2P5/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 3,Pawn to e3 to allow light bishop access to diagonal and protect pawn at c4
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2P5/2N1P3/PP1P1PPP/R1BQKBNR w KQkq - 1 4,Developing g knight
+7,Nge2,g1e2,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2P5/2N1P3/PP1PNPPP/R1BQKB1R b KQkq - 2 4,Developing g knight
+8,Bd6,f8d6,r1bqk1nr/pp1p1ppp/2nbp3/2p5/2P5/2N1P3/PP1PNPPP/R1BQKB1R w KQkq - 3 5,Preparing to fianchetto light bishop
+9,g3,g2g3,r1bqk1nr/pp1p1ppp/2nbp3/2p5/2P5/2N1P1P1/PP1PNP1P/R1BQKB1R b KQkq - 0 5,Preparing to fianchetto light bishop
+10,Nf6,g8f6,r1bqk2r/pp1p1ppp/2nbpn2/2p5/2P5/2N1P1P1/PP1PNP1P/R1BQKB1R w KQkq - 1 6,Light bishop taking control of h3 diagonal
+11,Bh3,f1h3,r1bqk2r/pp1p1ppp/2nbpn2/2p5/2P5/2N1P1PB/PP1PNP1P/R1BQK2R b KQkq - 2 6,Light bishop taking control of h3 diagonal
+12,O-O,e8g8,r1bq1rk1/pp1p1ppp/2nbpn2/2p5/2P5/2N1P1PB/PP1PNP1P/R1BQK2R w KQ - 3 7,Castling on king side
+13,O-O,e1g1,r1bq1rk1/pp1p1ppp/2nbpn2/2p5/2P5/2N1P1PB/PP1PNP1P/R1BQ1RK1 b - - 4 7,Castling on king side
+14,Ne5,c6e5,r1bq1rk1/pp1p1ppp/3bpn2/2p1n3/2P5/2N1P1PB/PP1PNP1P/R1BQ1RK1 w - - 5 8,Pawn push on f file attacking knight at e5
+15,f4,f2f4,r1bq1rk1/pp1p1ppp/3bpn2/2p1n3/2P2P2/2N1P1PB/PP1PN2P/R1BQ1RK1 b - - 0 8,Pawn push on f file attacking knight at e5
+16,Nd3,e5d3,r1bq1rk1/pp1p1ppp/3bpn2/2p5/2P2P2/2NnP1PB/PP1PN2P/R1BQ1RK1 w - - 1 9,Black's knight finds a safe place to lodge at d3.  I move my light bishop to g2 ready to protect e pawn when it moves up.
+17,Bg2,h3g2,r1bq1rk1/pp1p1ppp/3bpn2/2p5/2P2P2/2NnP1P1/PP1PN1BP/R1BQ1RK1 b - - 2 9,Black's knight finds a safe place to lodge at d3.  I move my light bishop to g2 ready to protect e pawn when it moves up.
+18,a5,a7a5,r1bq1rk1/1p1p1ppp/3bpn2/p1p5/2P2P2/2NnP1P1/PP1PN1BP/R1BQ1RK1 w - - 0 10,Pushing e file pawn to gain centre space
+19,e4,e3e4,r1bq1rk1/1p1p1ppp/3bpn2/p1p5/2P1PP2/2Nn2P1/PP1PN1BP/R1BQ1RK1 b - - 0 10,Pushing e file pawn to gain centre space
+20,b6,b7b6,r1bq1rk1/3p1ppp/1p1bpn2/p1p5/2P1PP2/2Nn2P1/PP1PN1BP/R1BQ1RK1 w - - 0 11,Pushing e file pawn forking bishop and knight.  Now have a pawn chain consisting of 4 pawns from h2 to e5.  Game should be mine if I don't lose it.
+21,e5,e4e5,r1bq1rk1/3p1ppp/1p1bpn2/p1p1P3/2P2P2/2Nn2P1/PP1PN1BP/R1BQ1RK1 b - - 0 11,Pushing e file pawn forking bishop and knight.  Now have a pawn chain consisting of 4 pawns from h2 to e5.  Game should be mine if I don't lose it.
+22,Ne8,f6e8,r1bqnrk1/3p1ppp/1p1bp3/p1p1P3/2P2P2/2Nn2P1/PP1PN1BP/R1BQ1RK1 w - - 1 12,Black's f6 knight retreats to f8.  I move c knight to e4 into a more central position to control more squares and threatening dark bishop
+23,Ne4,c3e4,r1bqnrk1/3p1ppp/1p1bp3/p1p1P3/2P1NP2/3n2P1/PP1PN1BP/R1BQ1RK1 b - - 2 12,Black's f6 knight retreats to f8.  I move c knight to e4 into a more central position to control more squares and threatening dark bishop
+24,Be7,d6e7,r1bqnrk1/3pbppp/1p2p3/p1p1P3/2P1NP2/3n2P1/PP1PN1BP/R1BQ1RK1 w - - 3 13,Black's dark bishop retreats to e7.  I push f file pawn attacking e6 pawn whilst protected by rook
+25,f5,f4f5,r1bqnrk1/3pbppp/1p2p3/p1p1PP2/2P1N3/3n2P1/PP1PN1BP/R1BQ1RK1 b - - 0 13,Black's dark bishop retreats to e7.  I push f file pawn attacking e6 pawn whilst protected by rook
+26,Bb7,c8b7,r2qnrk1/1b1pbppp/1p2p3/p1p1PP2/2P1N3/3n2P1/PP1PN1BP/R1BQ1RK1 w - - 1 14,Black's light bishop moves to f7 possibly protecting rook and attacking knight at e4.  Pushing f file pawn forking pawn and bishop.
+27,f6,f5f6,r2qnrk1/1b1pbppp/1p2pP2/p1p1P3/2P1N3/3n2P1/PP1PN1BP/R1BQ1RK1 b - - 0 14,Black's light bishop moves to f7 possibly protecting rook and attacking knight at e4.  Pushing f file pawn forking pawn and bishop.
+28,gxf6,g7f6,r2qnrk1/1b1pbp1p/1p2pp2/p1p1P3/2P1N3/3n2P1/PP1PN1BP/R1BQ1RK1 w - - 0 15,Black's g7 pawn takes my f6 pawn and doubles up his pawns on f file.  I move rook to f3 in order to attack knight at d3. Whilst also threatening pawn at f6.
+29,Rf3,f1f3,r2qnrk1/1b1pbp1p/1p2pp2/p1p1P3/2P1N3/3n1RP1/PP1PN1BP/R1BQ2K1 b - - 1 15,Black's g7 pawn takes my f6 pawn and doubles up his pawns on f file.  I move rook to f3 in order to attack knight at d3. Whilst also threatening pawn at f6.
+30,Qc7,d8c7,r3nrk1/1bqpbp1p/1p2pp2/p1p1P3/2P1N3/3n1RP1/PP1PN1BP/R1BQ2K1 w - - 2 16,Black's queen is threatening my pawn on e5 as well as black's pawn at f6 which could threaten my knight at e4.  But I continue to take knight at d3.
+31,Rxd3,f3d3,r3nrk1/1bqpbp1p/1p2pp2/p1p1P3/2P1N3/3R2P1/PP1PN1BP/R1BQ2K1 b - - 0 16,Black's queen is threatening my pawn on e5 as well as black's pawn at f6 which could threaten my knight at e4.  But I continue to take knight at d3.
+32,f5,f6f5,r3nrk1/1bqpbp1p/1p2p3/p1p1Pp2/2P1N3/3R2P1/PP1PN1BP/R1BQ2K1 w - - 0 17,Black's pawn at f5 is threatening my knight at e4.  I sacrificed my knight and instead moved my rook back to f3.
+33,Rf3,d3f3,r3nrk1/1bqpbp1p/1p2p3/p1p1Pp2/2P1N3/5RP1/PP1PN1BP/R1BQ2K1 b - - 1 17,Black's pawn at f5 is threatening my knight at e4.  I sacrificed my knight and instead moved my rook back to f3.
+34,fxe4,f5e4,r3nrk1/1bqpbp1p/1p2p3/p1p1P3/2P1p3/5RP1/PP1PN1BP/R1BQ2K1 w - - 0 18,Black captures my knight at e4 and I bring rook to e3 to halt e pawn's progress.  Both light colored bishops are on same diagonal as e4 pawn.  [I think I would have stayed on this file if I was black as he risks losing rook as well if the bishop moves.]
+35,Re3,f3e3,r3nrk1/1bqpbp1p/1p2p3/p1p1P3/2P1p3/4R1P1/PP1PN1BP/R1BQ2K1 b - - 1 18,Black captures my knight at e4 and I bring rook to e3 to halt e pawn's progress.  Both light colored bishops are on same diagonal as e4 pawn.  [I think I would have stayed on this file if I was black as he risks losing rook as well if the bishop moves.]
+36,Ba6,b7a6,r3nrk1/2qpbp1p/bp2p3/p1p1P3/2P1p3/4R1P1/PP1PN1BP/R1BQ2K1 w - - 2 19,Black's light colored bishop moves to a6 and I take pawn at e4.  I should continue and take black's rook if no protection is provided to it.
+37,Bxe4,g2e4,r3nrk1/2qpbp1p/bp2p3/p1p1P3/2P1B3/4R1P1/PP1PN2P/R1BQ2K1 b - - 0 19,Black's light colored bishop moves to a6 and I take pawn at e4.  I should continue and take black's rook if no protection is provided to it.
+38,b5,b6b5,r3nrk1/2qpbp1p/b3p3/ppp1P3/2P1B3/4R1P1/PP1PN2P/R1BQ2K1 w - - 0 20,Black pushes b file pawn attacking my pawn at c4 leaving rook unprotected.  But I did not see this and stupidly move knight to c3 which I thought may give more protection to my light bishop which is an important piece.  Must have thought it may be important in checking king.
+39,Nc3,e2c3,r3nrk1/2qpbp1p/b3p3/ppp1P3/2P1B3/2N1R1P1/PP1P3P/R1BQ2K1 b - - 1 20,Black pushes b file pawn attacking my pawn at c4 leaving rook unprotected.  But I did not see this and stupidly move knight to c3 which I thought may give more protection to my light bishop which is an important piece.  Must have thought it may be important in checking king.
+40,bxc4,b5c4,r3nrk1/2qpbp1p/b3p3/p1p1P3/2p1B3/2N1R1P1/PP1P3P/R1BQ2K1 w - - 0 21,Black takes my pawn at c4 doubling up his pawns on c file.  I move queen to g4 and check king.
+41,Qg4+,d1g4,r3nrk1/2qpbp1p/b3p3/p1p1P3/2p1B1Q1/2N1R1P1/PP1P3P/R1B3K1 b - - 1 21,Black takes my pawn at c4 doubling up his pawns on c file.  I move queen to g4 and check king.

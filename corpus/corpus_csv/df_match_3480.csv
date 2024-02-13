@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Just an opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Just an opening
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Just an opening
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,Just an opening
+5,c4,c2c4,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,Just an opening
+6,Bb4+,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1bPP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,First exchange
+7,Bd2,c1d2,rnbqk1nr/ppp2ppp/4p3/3p4/1bPP4/4P3/PP1B1PPP/RN1QKBNR b KQkq - 2 4,First exchange
+8,Bxd2+,b4d2,rnbqk1nr/ppp2ppp/4p3/3p4/2PP4/4P3/PP1b1PPP/RN1QKBNR w KQkq - 0 5,First exchange
+9,Qxd2,d1d2,rnbqk1nr/ppp2ppp/4p3/3p4/2PP4/4P3/PP1Q1PPP/RN2KBNR b KQkq - 0 5,First exchange
+10,c6,c7c6,rnbqk1nr/pp3ppp/2p1p3/3p4/2PP4/4P3/PP1Q1PPP/RN2KBNR w KQkq - 0 6,Going for second exchange
+11,Nc3,b1c3,rnbqk1nr/pp3ppp/2p1p3/3p4/2PP4/2N1P3/PP1Q1PPP/R3KBNR b KQkq - 1 6,Going for second exchange
+12,Nf6,g8f6,rnbqk2r/pp3ppp/2p1pn2/3p4/2PP4/2N1P3/PP1Q1PPP/R3KBNR w KQkq - 2 7,Going for second exchange
+13,c5,c4c5,rnbqk2r/pp3ppp/2p1pn2/2Pp4/3P4/2N1P3/PP1Q1PPP/R3KBNR b KQkq - 0 7,Going for second exchange
+14,Ne4,f6e4,rnbqk2r/pp3ppp/2p1p3/2Pp4/3Pn3/2N1P3/PP1Q1PPP/R3KBNR w KQkq - 1 8,Going for second exchange
+15,Qd1,d2d1,rnbqk2r/pp3ppp/2p1p3/2Pp4/3Pn3/2N1P3/PP3PPP/R2QKBNR b KQkq - 2 8,Going for second exchange
+16,Nxc3,e4c3,rnbqk2r/pp3ppp/2p1p3/2Pp4/3P4/2n1P3/PP3PPP/R2QKBNR w KQkq - 0 9,"Centre dominated, strong structure, beginning to attack"
+17,bxc3,b2c3,rnbqk2r/pp3ppp/2p1p3/2Pp4/3P4/2P1P3/P4PPP/R2QKBNR b KQkq - 0 9,"Centre dominated, strong structure, beginning to attack"
+18,O-O,e8g8,rnbq1rk1/pp3ppp/2p1p3/2Pp4/3P4/2P1P3/P4PPP/R2QKBNR w KQ - 1 10,"H7 always better queen first and bishop below for mate, but thats how it goes"
+19,Bd3,f1d3,rnbq1rk1/pp3ppp/2p1p3/2Pp4/3P4/2PBP3/P4PPP/R2QK1NR b KQ - 2 10,"H7 always better queen first and bishop below for mate, but thats how it goes"
+20,b5,b7b5,rnbq1rk1/p4ppp/2p1p3/1pPp4/3P4/2PBP3/P4PPP/R2QK1NR w KQ b6 0 11,"H7 always better queen first and bishop below for mate, but thats how it goes"
+21,Qc2,d1c2,rnbq1rk1/p4ppp/2p1p3/1pPp4/3P4/2PBP3/P1Q2PPP/R3K1NR b KQ - 1 11,"H7 always better queen first and bishop below for mate, but thats how it goes"
+22,g6,g7g6,rnbq1rk1/p4p1p/2p1p1p1/1pPp4/3P4/2PBP3/P1Q2PPP/R3K1NR w KQ - 0 12,Destroyer Pawn in his way
+23,h4,h2h4,rnbq1rk1/p4p1p/2p1p1p1/1pPp4/3P3P/2PBP3/P1Q2PP1/R3K1NR b KQ - 0 12,Destroyer Pawn in his way
+24,Na6,b8a6,r1bq1rk1/p4p1p/n1p1p1p1/1pPp4/3P3P/2PBP3/P1Q2PP1/R3K1NR w KQ - 1 13,Penetrates
+25,h5,h4h5,r1bq1rk1/p4p1p/n1p1p1p1/1pPp3P/3P4/2PBP3/P1Q2PP1/R3K1NR b KQ - 0 13,Penetrates
+26,h6,h7h6,r1bq1rk1/p4p2/n1p1p1pp/1pPp3P/3P4/2PBP3/P1Q2PP1/R3K1NR w KQ - 0 14,Penetrates
+27,hxg6,h5g6,r1bq1rk1/p4p2/n1p1p1Pp/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1NR b KQ - 0 14,Penetrates
+28,Qf6,d8f6,r1b2rk1/p4p2/n1p1pqPp/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1NR w KQ - 1 15,Full penetration
+29,Rxh6,h1h6,r1b2rk1/p4p2/n1p1pqPR/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 b Q - 0 15,Full penetration
+30,Qg7,f6g7,r1b2rk1/p4pq1/n1p1p1PR/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 w Q - 1 16,Going deep
+31,Rh7,h6h7,r1b2rk1/p4pqR/n1p1p1P1/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 b Q - 2 16,Going deep
+32,Qf6,g7f6,r1b2rk1/p4p1R/n1p1pqP1/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 w Q - 3 17,Going deep
+33,g7,g6g7,r1b2rk1/p4pPR/n1p1pq2/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 b Q - 0 17,Going deep
+34,Re8,f8e8,r1b1r1k1/p4pPR/n1p1pq2/1pPp4/3P4/2PBP3/P1Q2PP1/R3K1N1 w Q - 1 18,Black tries to force weakness
+35,Qe2,c2e2,r1b1r1k1/p4pPR/n1p1pq2/1pPp4/3P4/2PBP3/P3QPP1/R3K1N1 b Q - 2 18,Black tries to force weakness
+36,e5,e6e5,r1b1r1k1/p4pPR/n1p2q2/1pPpp3/3P4/2PBP3/P3QPP1/R3K1N1 w Q - 0 19,Black tries to force weakness
+37,Rh8+,h7h8,r1b1r1kR/p4pP1/n1p2q2/1pPpp3/3P4/2PBP3/P3QPP1/R3K1N1 b Q - 1 19,Far beyond drivennnn
+38,Kxg7,g8g7,r1b1r2R/p4pk1/n1p2q2/1pPpp3/3P4/2PBP3/P3QPP1/R3K1N1 w Q - 0 20,90 degrees rook
+39,Rxe8,h8e8,r1b1R3/p4pk1/n1p2q2/1pPpp3/3P4/2PBP3/P3QPP1/R3K1N1 b Q - 0 20,90 degrees rook
+40,Qh6,f6h6,r1b1R3/p4pk1/n1p4q/1pPpp3/3P4/2PBP3/P3QPP1/R3K1N1 w Q - 1 21,270° rook
+41,Rxe5,e8e5,r1b5/p4pk1/n1p4q/1pPpR3/3P4/2PBP3/P3QPP1/R3K1N1 b Q - 0 21,270° rook
+42,Be6,c8e6,r7/p4pk1/n1p1b2q/1pPpR3/3P4/2PBP3/P3QPP1/R3K1N1 w Q - 1 22,Avoiding the black queen because of a1 is not safe
+43,Nh3,g1h3,r7/p4pk1/n1p1b2q/1pPpR3/3P4/2PBP2N/P3QPP1/R3K3 b Q - 2 22,Avoiding the black queen because of a1 is not safe
+44,Bxh3,e6h3,r7/p4pk1/n1p4q/1pPpR3/3P4/2PBP2b/P3QPP1/R3K3 w Q - 0 23,360° on rook!!!
+45,Rh5,e5h5,r7/p4pk1/n1p4q/1pPp3R/3P4/2PBP2b/P3QPP1/R3K3 b Q - 1 23,360° on rook!!!
+46,Qe6,h6e6,r7/p4pk1/n1p1q3/1pPp3R/3P4/2PBP2b/P3QPP1/R3K3 w Q - 2 24,Gets even
+47,Rxh3,h5h3,r7/p4pk1/n1p1q3/1pPp4/3P4/2PBP2R/P3QPP1/R3K3 b Q - 0 24,Gets even
+48,Rh8,a8h8,7r/p4pk1/n1p1q3/1pPp4/3P4/2PBP2R/P3QPP1/R3K3 w Q - 1 25,And sacrifice for black total weakness
+49,Rxh8,h3h8,7R/p4pk1/n1p1q3/1pPp4/3P4/2PBP3/P3QPP1/R3K3 b Q - 0 25,And sacrifice for black total weakness
+50,Kxh8,g7h8,7k/p4p2/n1p1q3/1pPp4/3P4/2PBP3/P3QPP1/R3K3 w Q - 0 26,Going for the final
+51,Qh5+,e2h5,7k/p4p2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/R3K3 b Q - 1 26,Going for the final
+52,Kg8,h8g8,6k1/p4p2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/R3K3 w Q - 2 27,Going for the final
+53,O-O-O,e1c1,6k1/p4p2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/2KR4 b - - 3 27,Going for the final
+54,Kf8,g8f8,5k2/p4p2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/2KR4 w - - 4 28,Going for the final
+55,Rh1,d1h1,5k2/p4p2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/2K4R b - - 5 28,Going for the final
+56,Ke7,f8e7,8/p3kp2/n1p1q3/1pPp3Q/3P4/2PBP3/P4PP1/2K4R w - - 6 29,Going for the final
+57,Qh7,h5h7,8/p3kp1Q/n1p1q3/1pPp4/3P4/2PBP3/P4PP1/2K4R b - - 7 29,Going for the final
+58,Nc7,a6c7,8/p1n1kp1Q/2p1q3/1pPp4/3P4/2PBP3/P4PP1/2K4R w - - 8 30,Extreme attack
+59,Bf5,d3f5,8/p1n1kp1Q/2p1q3/1pPp1B2/3P4/2P1P3/P4PP1/2K4R b - - 9 30,Extreme attack
+60,Qf6,e6f6,8/p1n1kp1Q/2p2q2/1pPp1B2/3P4/2P1P3/P4PP1/2K4R w - - 10 31,Extreme attack
+61,Rh6,h1h6,8/p1n1kp1Q/2p2q1R/1pPp1B2/3P4/2P1P3/P4PP1/2K5 b - - 11 31,Extreme attack
+62,Qg5,f6g5,8/p1n1kp1Q/2p4R/1pPp1Bq1/3P4/2P1P3/P4PP1/2K5 w - - 12 32,Decided to lose last pieces soooo
+63,Rxc6,h6c6,8/p1n1kp1Q/2R5/1pPp1Bq1/3P4/2P1P3/P4PP1/2K5 b - - 0 32,Decided to lose last pieces soooo
+64,Kf8,e7f8,5k2/p1n2p1Q/2R5/1pPp1Bq1/3P4/2P1P3/P4PP1/2K5 w - - 1 33,Decided to lose last pieces soooo

@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My normal opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,pretty standard
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,pretty standard
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,pretty standard
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,pretty standard
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,pretty standard
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,pretty standard
+8,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Still by the book
+9,Be3,c1e3,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/4B3/PPP2PPP/RN1QKB1R b KQkq - 2 5,Still by the book
+10,Qf6,d8f6,r1b1k1nr/pppp1ppp/2n2q2/2b5/3NP3/4B3/PPP2PPP/RN1QKB1R w KQkq - 3 6,Computer analysis says this was an inaccuracy and I should have moved 6. c3 Nge7
+11,Nxc6,d4c6,r1b1k1nr/pppp1ppp/2N2q2/2b5/4P3/4B3/PPP2PPP/RN1QKB1R b KQkq - 0 6,Computer analysis says this was an inaccuracy and I should have moved 6. c3 Nge7
+12,Bxe3,c5e3,r1b1k1nr/pppp1ppp/2N2q2/8/4P3/4b3/PPP2PPP/RN1QKB1R w KQkq - 0 7,bishop exchange
+13,fxe3,f2e3,r1b1k1nr/pppp1ppp/2N2q2/8/4P3/4P3/PPP3PP/RN1QKB1R b KQkq - 0 7,bishop exchange
+14,bxc6,b7c6,r1b1k1nr/p1pp1ppp/2p2q2/8/4P3/4P3/PPP3PP/RN1QKB1R w KQkq - 0 8,I think this was the best available move.
+15,Qd4,d1d4,r1b1k1nr/p1pp1ppp/2p2q2/8/3QP3/4P3/PPP3PP/RN2KB1R b KQkq - 1 8,I think this was the best available move.
+16,c5,c6c5,r1b1k1nr/p1pp1ppp/5q2/2p5/3QP3/4P3/PPP3PP/RN2KB1R w KQkq - 0 9,queen exchange b/c I'm playing a great player and I don't know what else to do.
+17,Qxf6,d4f6,r1b1k1nr/p1pp1ppp/5Q2/2p5/4P3/4P3/PPP3PP/RN2KB1R b KQkq - 0 9,queen exchange b/c I'm playing a great player and I don't know what else to do.
+18,Nxf6,g8f6,r1b1k2r/p1pp1ppp/5n2/2p5/4P3/4P3/PPP3PP/RN2KB1R w KQkq - 0 10,protecting e4
+19,Nc3,b1c3,r1b1k2r/p1pp1ppp/5n2/2p5/4P3/2N1P3/PPP3PP/R3KB1R b KQkq - 1 10,protecting e4
+20,Bb7,c8b7,r3k2r/pbpp1ppp/5n2/2p5/4P3/2N1P3/PPP3PP/R3KB1R w KQkq - 2 11,Another computer analysis Inaccuracy:  Best was 11. Bd3 O-O 12. O-O Rab8 13. b3 Rfe8 14. Nb5 Nxe4 15. Nxc7 Re5 16. Nb5 a5 17. Bxe4 Bxe4 18. Nd6 Bd5 19. e4
+21,Nb5,c3b5,r3k2r/pbpp1ppp/5n2/1Np5/4P3/4P3/PPP3PP/R3KB1R b KQkq - 3 11,Another computer analysis Inaccuracy:  Best was 11. Bd3 O-O 12. O-O Rab8 13. b3 Rfe8 14. Nb5 Nxe4 15. Nxc7 Re5 16. Nb5 a5 17. Bxe4 Bxe4 18. Nd6 Bd5 19. e4
+22,Kd8,e8d8,r2k3r/pbpp1ppp/5n2/1Np5/4P3/4P3/PPP3PP/R3KB1R w KQ - 4 12,wanted the option of castling having conceded the pawn at e4 like an idiot.
+23,Be2,f1e2,r2k3r/pbpp1ppp/5n2/1Np5/4P3/4P3/PPP1B1PP/R3K2R b KQ - 5 12,wanted the option of castling having conceded the pawn at e4 like an idiot.
+24,Bxe4,b7e4,r2k3r/p1pp1ppp/5n2/1Np5/4b3/4P3/PPP1B1PP/R3K2R w KQ - 0 13,"This was a computer rated Mistake: Mistake: -2.19 » 13. Bf3 Rb8 14. Nc3 Bxc2 15. O-O Bd3 16. Rf2 Re8 17. Re1 Re5 18. Rd2 c4 19. Kh1 d5 20. Rc1 Kd7 21. b3 Kc6 22. bxc4 Bxc4
+
+Best: -1.01 » 13. O-O-O Re8 14. Nc3 Bb7 15. Rd3 Rb8 16. Re1 Ne4 17. Nxe4 Bxe4 18. Rd2 Re5 19. Rf1 Ke7 20. Bd3 Ke6 21. Bxe4 Rxe4"
+25,Bf3,e2f3,r2k3r/p1pp1ppp/5n2/1Np5/4b3/4PB2/PPP3PP/R3K2R b KQ - 1 13,"This was a computer rated Mistake: Mistake: -2.19 » 13. Bf3 Rb8 14. Nc3 Bxc2 15. O-O Bd3 16. Rf2 Re8 17. Re1 Re5 18. Rd2 c4 19. Kh1 d5 20. Rc1 Kd7 21. b3 Kc6 22. bxc4 Bxc4
+
+Best: -1.01 » 13. O-O-O Re8 14. Nc3 Bb7 15. Rd3 Rb8 16. Re1 Ne4 17. Nxe4 Bxe4 18. Rd2 Re5 19. Rf1 Ke7 20. Bd3 Ke6 21. Bxe4 Rxe4"
+26,Rb8,a8b8,1r1k3r/p1pp1ppp/5n2/1Np5/4b3/4PB2/PPP3PP/R3K2R w KQ - 2 14,protecting the knight
+27,c4,c2c4,1r1k3r/p1pp1ppp/5n2/1Np5/2P1b3/4PB2/PP4PP/R3K2R b KQ - 0 14,protecting the knight
+28,Bxf3,e4f3,1r1k3r/p1pp1ppp/5n2/1Np5/2P5/4Pb2/PP4PP/R3K2R w KQ - 0 15,bishop swap
+29,gxf3,g2f3,1r1k3r/p1pp1ppp/5n2/1Np5/2P5/4PP2/PP5P/R3K2R b KQ - 0 15,bishop swap
+30,a6,a7a6,1r1k3r/2pp1ppp/p4n2/1Np5/2P5/4PP2/PP5P/R3K2R w KQ - 0 16,had to retreat
+31,Nc3,b5c3,1r1k3r/2pp1ppp/p4n2/2p5/2P5/2N1PP2/PP5P/R3K2R b KQ - 1 16,had to retreat
+32,Rxb2,b8b2,3k3r/2pp1ppp/p4n2/2p5/2P5/2N1PP2/Pr5P/R3K2R w KQ - 0 17,cost me another pawn
+33,Na4,c3a4,3k3r/2pp1ppp/p4n2/2p5/N1P5/4PP2/Pr5P/R3K2R b KQ - 1 17,cost me another pawn
+34,Rc2,b2c2,3k3r/2pp1ppp/p4n2/2p5/N1P5/4PP2/P1r4P/R3K2R w KQ - 2 18,thought it was good to get a pawn back.
+35,Nxc5,a4c5,3k3r/2pp1ppp/p4n2/2N5/2P5/4PP2/P1r4P/R3K2R b KQ - 0 18,thought it was good to get a pawn back.
+36,Re8,h8e8,3kr3/2pp1ppp/p4n2/2N5/2P5/4PP2/P1r4P/R3K2R w KQ - 1 19,only option I think think of
+37,e4,e3e4,3kr3/2pp1ppp/p4n2/2N5/2P1P3/5P2/P1r4P/R3K2R b KQ - 0 19,only option I think think of
+38,Rxc4,c2c4,3kr3/2pp1ppp/p4n2/2N5/2r1P3/5P2/P6P/R3K2R w KQ - 0 20,"Computer says:
+
+Mistake: -4.42 » 20. Nxa6 Re6 21. Nb8 Rb6 22. Nxd7 Kxd7 23. Rg1 g6 24. Rf1 Rc2 25. Rf2 Rxf2 26. Kxf2 Rb2+ 27. Kg3 c5 28. Rd1+ Kc6 29. a4 Nh5+ 30. Kh3
+Best: -3.16 » 20. Nd3 d5 21. Rd1 Kc8 22. e5 Nd7 23. O-O c5 24. f4 Ra4 25. Rf2 c4 26. Nb2 Ra5 27. Rfd2 c3"
+39,Nxa6,c5a6,3kr3/2pp1ppp/N4n2/8/2r1P3/5P2/P6P/R3K2R b KQ - 0 20,"Computer says:
+
+Mistake: -4.42 » 20. Nxa6 Re6 21. Nb8 Rb6 22. Nxd7 Kxd7 23. Rg1 g6 24. Rf1 Rc2 25. Rf2 Rxf2 26. Kxf2 Rb2+ 27. Kg3 c5 28. Rd1+ Kc6 29. a4 Nh5+ 30. Kh3
+Best: -3.16 » 20. Nd3 d5 21. Rd1 Kc8 22. e5 Nd7 23. O-O c5 24. f4 Ra4 25. Rf2 c4 26. Nb2 Ra5 27. Rfd2 c3"
+40,Re6,e8e6,3k4/2pp1ppp/N3rn2/8/2r1P3/5P2/P6P/R3K2R w KQ - 1 21,"Against a great player, I knew I was dead and just finished it out because that is the rules of WTWLR."
+41,Nxc7,a6c7,3k4/2Np1ppp/4rn2/8/2r1P3/5P2/P6P/R3K2R b KQ - 0 21,"Against a great player, I knew I was dead and just finished it out because that is the rules of WTWLR."
+42,Kxc7,d8c7,8/2kp1ppp/4rn2/8/2r1P3/5P2/P6P/R3K2R w KQ - 0 22,"Against a great player, I knew I was dead and just finished it out because that is the rules of WTWLR."
+43,O-O,e1g1,8/2kp1ppp/4rn2/8/2r1P3/5P2/P6P/R4RK1 b - - 1 22,"Against a great player, I knew I was dead and just finished it out because that is the rules of WTWLR."
+44,d5,d7d5,8/2k2ppp/4rn2/3p4/2r1P3/5P2/P6P/R4RK1 w - - 0 23,I tried pushing up a pawn but....
+45,a4,a2a4,8/2k2ppp/4rn2/3p4/P1r1P3/5P2/7P/R4RK1 b - - 0 23,I tried pushing up a pawn but....
+46,dxe4,d5e4,8/2k2ppp/4rn2/8/P1r1p3/5P2/7P/R4RK1 w - - 0 24,I tried pushing up a pawn but....
+47,a5,a4a5,8/2k2ppp/4rn2/P7/2r1p3/5P2/7P/R4RK1 b - - 0 24,I tried pushing up a pawn but....
+48,e3,e4e3,8/2k2ppp/4rn2/P7/2r5/4pP2/7P/R4RK1 w - - 0 25,I tried pushing up a pawn but....
+49,a6,a5a6,8/2k2ppp/P3rn2/8/2r5/4pP2/7P/R4RK1 b - - 0 25,I tried pushing up a pawn but....
+50,Kb8,c7b8,1k6/5ppp/P3rn2/8/2r5/4pP2/7P/R4RK1 w - - 1 26,I tried pushing up a pawn but....
+51,Rfb1+,f1b1,1k6/5ppp/P3rn2/8/2r5/4pP2/7P/RR4K1 b - - 2 26,I tried pushing up a pawn but....

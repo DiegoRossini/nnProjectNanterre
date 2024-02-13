@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White starts conventionally.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black replies with the same.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,This is the Vienna Game http://en.wikipedia.org/wiki/Vienna_Game
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Black continues to copy.
+5,f4,f2f4,r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3,"This is now the Vienna Gambit, a King's Gambit, with both sides having their queen's knight developed."
+6,exf4,e5f4,r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4,"Black accepts. In the 19th century, it was considered unsporting not to accept gambits."
+7,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/8/3PPp2/2N5/PPP3PP/R1BQKBNR b KQkq - 0 4,"This is a mistake by White, allowing the black queen to check on h4. Better is Nf3 or even Bc4, so that if the queen checks, the white king has f1 to go to."
+8,Qh4+,d8h4,r1b1kbnr/pppp1ppp/2n5/8/3PPp1q/2N5/PPP3PP/R1BQKBNR w KQkq - 1 5,So black throws in the check.
+9,Ke2,e1e2,r1b1kbnr/pppp1ppp/2n5/8/3PPp1q/2N5/PPP1K1PP/R1BQ1BNR b kq - 2 5,And the king starts his march up the board.
+10,d5,d7d5,r1b1kbnr/ppp2ppp/2n5/3p4/3PPp1q/2N5/PPP1K1PP/R1BQ1BNR w kq - 0 6,"Black gives his extra pawn back, to open up the game. It is very much in the style of 19th century chess. Simply d6 is better."
+11,exd5,e4d5,r1b1kbnr/ppp2ppp/2n5/3P4/3P1p1q/2N5/PPP1K1PP/R1BQ1BNR b kq - 0 6,So white takes.
+12,Bg4+,c8g4,r3kbnr/ppp2ppp/2n5/3P4/3P1pbq/2N5/PPP1K1PP/R1BQ1BNR w kq - 1 7,Black throws in a check
+13,Nf3,g1f3,r3kbnr/ppp2ppp/2n5/3P4/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R b kq - 2 7,"White blocks, rather than part with his queen."
+14,O-O-O,e8c8,2kr1bnr/ppp2ppp/2n5/3P4/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R w - - 3 8,"Black castles, sacrificing a knight for an attack."
+15,dxc6,d5c6,2kr1bnr/ppp2ppp/2P5/8/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R b - - 0 8,So white takes.
+16,Bc5,f8c5,2kr2nr/ppp2ppp/2P5/2b5/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R w - - 1 9,Black concentrates on development.
+17,cxb7+,c6b7,2kr2nr/pPp2ppp/8/2b5/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R b - - 0 9,White takes again.
+18,Kb8,c8b8,1k1r2nr/pPp2ppp/8/2b5/3P1pbq/2N2N2/PPP1K1PP/R1BQ1B1R w - - 1 10,"The black king decides to shelter behind he pawn, rather than take it. Amazingly all this was played again in 1997! http://gameknot.com/analyze-board.pl?bd=x592552&mv=17&rnd=0.6976808656472713
+In that game white decided to try Qe1 and lost after Qh5
+11.	Bxf4	Re8+ 12.	Be3	Bxd4 13.	Nd1	Nf6 14.	Qd2	Bxe3 15.	Nxe3	Bxf3+ 16.	gxf3	Nd5 17.	Re1	Nxe3 18.	Kf2	Ng4+
+19.	Kg3	Ne5  20.	Bg2	Re6 21.	Qc3	Rhe8 22.	h4	g5 23.	Re4	f5 24.	Ra4	gxh4+ 25.	Rhxh4	Qg5+ 26.	Kf2	Ng6
+27.	Rh2	Re2+ 28.	Kf1	Qc1+"
+19,Nb5,c3b5,1k1r2nr/pPp2ppp/8/1Nb5/3P1pbq/5N2/PPP1K1PP/R1BQ1B1R b - - 2 10,Played to protect d4
+20,Nf6,g8f6,1k1r3r/pPp2ppp/5n2/1Nb5/3P1pbq/5N2/PPP1K1PP/R1BQ1B1R w - - 3 11,Blcak continues to develop.

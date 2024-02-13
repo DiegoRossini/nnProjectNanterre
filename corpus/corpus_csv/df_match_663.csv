@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+9,e3,e2e3,rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5,So it starts off as a very standard Queen's Gambit Declined. https://en.wikipedia.org/wiki/Queen%27s_Gambit_Declined
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQ - 1 6,Castling is pretty standard here.
+11,Qc2,d1c2,rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PPQ2PPP/R3KBNR b KQ - 2 6,Played with a view of meeting h6 with h4!?
+12,Nc6,b8c6,r1bq1rk1/ppp1bppp/2n1pn2/3p2B1/2PP4/2N1P3/PPQ2PPP/R3KBNR w KQ - 3 7,This is unusual. The Nb8 normally goes to d7 in this sort of variation.
+13,a3,a2a3,r1bq1rk1/ppp1bppp/2n1pn2/3p2B1/2PP4/P1N1P3/1PQ2PPP/R3KBNR b KQ - 0 7,Played to stop the knight coming in to b4.
+14,a6,a7a6,r1bq1rk1/1pp1bppp/p1n1pn2/3p2B1/2PP4/P1N1P3/1PQ2PPP/R3KBNR w KQ - 0 8,"I am not quite sure why he played this. There is only one game in the Gameknot opening databases with this position, donmartigre (1786) vs. rkarka (1904)		Time control: 2 days per move
+Started: 24-Dec-10, Ended: 15-Jan-11 which continued 8. Bd3 dxc4 9. Bxc4 and white eventually winning in 33. I think the move I played is an improvement."
+15,Nf3,g1f3,r1bq1rk1/1pp1bppp/p1n1pn2/3p2B1/2PP4/P1N1PN2/1PQ2PPP/R3KB1R b KQ - 1 8,Because now if he takes on c4 I take back with my bishop and I haven't lost a tempo with my bishop. So we are already out of the opening database - or at least the ones I have access to.
+16,h6,h7h6,r1bq1rk1/1pp1bpp1/p1n1pn1p/3p2B1/2PP4/P1N1PN2/1PQ2PPP/R3KB1R w KQ - 0 9,The computer likes this move.
+17,h4,h2h4,r1bq1rk1/1pp1bpp1/p1n1pn1p/3p2B1/2PP3P/P1N1PN2/1PQ2PP1/R3KB1R b KQ - 0 9,"The computer prefers Bf4. The idea is of course, if he takes the bishop he has to be very careful where he moves the knight, after I recapture his pawn. After 9......hxg5 10. hxg5 he really has to move his knight to e4 otherwise I play Qh7 mate. I can then capture twice on e4 and I have two pawns for the piece and a raging attack."
+18,Nh7,f6h7,r1bq1rk1/1pp1bppn/p1n1p2p/3p2B1/2PP3P/P1N1PN2/1PQ2PP1/R3KB1R w KQ - 1 10,"Computer prefers Na5. This move is a little passive, and his knight is de-centralised."
+19,Bf4,g5f4,r1bq1rk1/1pp1bppn/p1n1p2p/3p4/2PP1B1P/P1N1PN2/1PQ2PP1/R3KB1R b KQ - 2 10,"Computer prefers the exchange on e7, but I wanted to keep pieces on."
+20,f5,f7f5,r1bq1rk1/1pp1b1pn/p1n1p2p/3p1p2/2PP1B1P/P1N1PN2/1PQ2PP1/R3KB1R w KQ - 0 11,"This seems a very logical way to slow down, if not stop the white attack altogether. We both miss a little trick here. Computer prefers bringing the knight back to f6."
+21,O-O-O,e1c1,r1bq1rk1/1pp1b1pn/p1n1p2p/3p1p2/2PP1B1P/P1N1PN2/1PQ2PP1/2KR1B1R b - - 1 11,"I play aggressively, but I missed a little tactic. I could have taken twice on d5, and after 11. cxd5 exd5 12. Nxd5, if he takes back with the queen I have Bc4 winning the queen."
+22,Nf6,h7f6,r1bq1rk1/1pp1b1p1/p1n1pn1p/3p1p2/2PP1B1P/P1N1PN2/1PQ2PP1/2KR1B1R w - - 2 12,Now the knight comes back and it is no longer possible. Computer agrees this is the best move.
+23,Ne5,f3e5,r1bq1rk1/1pp1b1p1/p1n1pn1p/3pNp2/2PP1B1P/P1N1P3/1PQ2PP1/2KR1B1R b - - 3 12,"Computer likes this move too, trying to build up an attacking position."
+24,Nxe5,c6e5,r1bq1rk1/1pp1b1p1/p3pn1p/3pnp2/2PP1B1P/P1N1P3/1PQ2PP1/2KR1B1R w - - 0 13,"He takes, and again, the computer gives this as a mistake. There are once again tactics which we both miss."
+25,Bxe5,f4e5,r1bq1rk1/1pp1b1p1/p3pn1p/3pBp2/2PP3P/P1N1P3/1PQ2PP1/2KR1B1R b - - 0 13,"It seems natural to recapture this way, and to keep my pawns in a good formation. However, the computer points out that taking on e5 with the pawn wins the d pawn, for instance 13. dxe5 Ne4 14. Nxe4 fxe4 15. cxd5 exd5 16. Rxd5! and if the queen takes the rook on d5 17. Bc4 wins the queen again."
+26,c6,c7c6,r1bq1rk1/1p2b1p1/p1p1pn1p/3pBp2/2PP3P/P1N1P3/1PQ2PP1/2KR1B1R w - - 0 14,"But now he puts a stop to anything like that! Computer prefers b5, sacrificing a pawn to open lines for black's pieces."
+27,Be2,f1e2,r1bq1rk1/1p2b1p1/p1p1pn1p/3pBp2/2PP3P/P1N1P3/1PQ1BPP1/2KR3R b - - 1 14,So I continue my development.
+28,Bd6,e7d6,r1bq1rk1/1p4p1/p1pbpn1p/3pBp2/2PP3P/P1N1P3/1PQ1BPP1/2KR3R w - - 2 15,He exchanges an attacking piece.

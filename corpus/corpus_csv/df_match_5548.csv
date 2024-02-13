@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The game begins quietly, with a Three Knights' Game."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The game begins quietly, with a Three Knights' Game."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"The game begins quietly, with a Three Knights' Game."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,"The game begins quietly, with a Three Knights' Game."
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"The game begins quietly, with a Three Knights' Game."
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p1n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,White exploits Black's passive third move to take command of the center.
+7,d4,d2d4,rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,White exploits Black's passive third move to take command of the center.
+8,Bg4,c8g4,rn1qkb1r/ppp2ppp/3p1n2/4p3/3PP1b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 1 5,Forcing Black to concede a minor exchange.
+9,dxe5,d4e5,rn1qkb1r/ppp2ppp/3p1n2/4P3/4P1b1/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,Forcing Black to concede a minor exchange.
+10,Bxf3,g4f3,rn1qkb1r/ppp2ppp/3p1n2/4P3/4P3/2N2b2/PPP2PPP/R1BQKB1R w KQkq - 0 6,Now the White Queen has a relatively open board to roam on. The consequences will be disastrous for Black.
+11,Qxf3,d1f3,rn1qkb1r/ppp2ppp/3p1n2/4P3/4P3/2N2Q2/PPP2PPP/R1B1KB1R b KQkq - 0 6,Now the White Queen has a relatively open board to roam on. The consequences will be disastrous for Black.
+12,dxe5,d6e5,rn1qkb1r/ppp2ppp/5n2/4p3/4P3/2N2Q2/PPP2PPP/R1B1KB1R w KQkq - 0 7,Developing aggressively with a pin.
+13,Bg5,c1g5,rn1qkb1r/ppp2ppp/5n2/4p1B1/4P3/2N2Q2/PPP2PPP/R3KB1R b KQkq - 1 7,Developing aggressively with a pin.
+14,Bb4,f8b4,rn1qk2r/ppp2ppp/5n2/4p1B1/1b2P3/2N2Q2/PPP2PPP/R3KB1R w KQkq - 2 8,Forcing Black's response if he wants to avoid losing material.
+15,Rd1,a1d1,rn1qk2r/ppp2ppp/5n2/4p1B1/1b2P3/2N2Q2/PPP2PPP/3RKB1R b Kkq - 3 8,Forcing Black's response if he wants to avoid losing material.
+16,Qe7,d8e7,rn2k2r/ppp1qppp/5n2/4p1B1/1b2P3/2N2Q2/PPP2PPP/3RKB1R w Kkq - 4 9,Bringing another piece to bear on Black's weakened position.
+17,Bc4,f1c4,rn2k2r/ppp1qppp/5n2/4p1B1/1bB1P3/2N2Q2/PPP2PPP/3RK2R b Kkq - 5 9,Bringing another piece to bear on Black's weakened position.
+18,Nbd7,b8d7,r3k2r/pppnqppp/5n2/4p1B1/1bB1P3/2N2Q2/PPP2PPP/3RK2R w Kkq - 6 10,"Now White can attack en masse, with his King safely secure."
+19,O-O,e1g1,r3k2r/pppnqppp/5n2/4p1B1/1bB1P3/2N2Q2/PPP2PPP/3R1RK1 b kq - 7 10,"Now White can attack en masse, with his King safely secure."
+20,Bxc3,b4c3,r3k2r/pppnqppp/5n2/4p1B1/2B1P3/2b2Q2/PPP2PPP/3R1RK1 w kq - 0 11,"Forced, else 11 N-Q5 would rip open Black's position. Black anticipates 11 PxB in response, as QxB is obviously unsatisfactory -- right?"
+21,Qxc3,f3c3,r3k2r/pppnqppp/5n2/4p1B1/2B1P3/2Q5/PPP2PPP/3R1RK1 b kq - 0 11,Difference of opinion makes horse races... and chess games!
+22,Nxe4,f6e4,r3k2r/pppnqppp/8/4p1B1/2B1n3/2Q5/PPP2PPP/3R1RK1 w kq - 0 12,"Anticipating 12 BxQ NxQ 13 PxN KxB 14 BxP, and Black would have a strong game."
+23,Rxd7,d1d7,r3k2r/pppRqppp/8/4p1B1/2B1n3/2Q5/PPP2PPP/5RK1 b kq - 0 12,"The move Black missed! If 12... NxQ, 13 RxQ ch will be followed up with 14 RxBP ch and 15 PxN. If instead 12... QxR, 13 QxP ch K-B1 14 QxN. And 12 KxR? fails against 13 Q-R3 ch!!, winning Black's Q!"
+24,Qxg5,e7g5,r3k2r/pppR1ppp/8/4p1q1/2B1n3/2Q5/PPP2PPP/5RK1 w kq - 0 13,Black's position is crumbling fast.
+25,Qd3,c3d3,r3k2r/pppR1ppp/8/4p1q1/2B1n3/3Q4/PPP2PPP/5RK1 b kq - 1 13,Black's position is crumbling fast.
+26,Nd6,e4d6,r3k2r/pppR1ppp/3n4/4p1q1/2B5/3Q4/PPP2PPP/5RK1 w kq - 2 14,13... N-B4 would fall to 14 BxP ch K-B1 15 Q-QR3 P-QN3 16 RxP!
+27,Rxc7,d7c7,r3k2r/ppR2ppp/3n4/4p1q1/2B5/3Q4/PPP2PPP/5RK1 b kq - 0 14,Removing the Knight's support.
+28,Rd8,a8d8,3rk2r/ppR2ppp/3n4/4p1q1/2B5/3Q4/PPP2PPP/5RK1 w k - 1 15,Attacking the Q and gaining another tempo for his attack on the K.
+29,f4,f2f4,3rk2r/ppR2ppp/3n4/4p1q1/2B2P2/3Q4/PPP3PP/5RK1 b k - 0 15,Attacking the Q and gaining another tempo for his attack on the K.
+30,exf4,e5f4,3rk2r/ppR2ppp/3n4/6q1/2B2p2/3Q4/PPP3PP/5RK1 w k - 0 16,Simple and strong.
+31,Re1+,f1e1,3rk2r/ppR2ppp/3n4/6q1/2B2p2/3Q4/PPP3PP/4R1K1 b k - 1 16,Simple and strong.
+32,Kf8,e8f8,3r1k1r/ppR2ppp/3n4/6q1/2B2p2/3Q4/PPP3PP/4R1K1 w - - 2 17,"Black resigns. If 17... RxQ, 18 RxPch K-N1 19 R-K8 mate."
+33,Qxd6+,d3d6,3r1k1r/ppR2ppp/3Q4/6q1/2B2p2/8/PPP3PP/4R1K1 b - - 0 17,"Black resigns. If 17... RxQ, 18 RxPch K-N1 19 R-K8 mate."

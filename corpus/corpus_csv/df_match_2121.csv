@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I start with my usual
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,And we have a Caro-Kann for this match.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,So I grab the center.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,and they play the main line.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,"e5 is worth considering, but I prefer knights entering play over hitting 5th rank with pawns so soon."
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,So Black sparks the exchange...
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,I oblige...
+8,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,"And now Black goes for a knight chase, while opening the door to a possible attack on c2."
+9,Ng3,e4g3,rn1qkbnr/pp2pppp/2p5/5b2/3P4/6N1/PPP2PPP/R1BQKBNR b KQkq - 2 5,I opt for reversing the attack on the bishop.
+10,Bg6,f5g6,rn1qkbnr/pp2pppp/2p3b1/8/3P4/6N1/PPP2PPP/R1BQKBNR w KQkq - 3 6,"Black really wants to control this diagonal. Usually White wants to castle long in this varation, so the goal here seems to be to make this desire difficult by compromising the queenside."
+11,h4,h2h4,rn1qkbnr/pp2pppp/2p3b1/8/3P3P/6N1/PPP2PP1/R1BQKBNR b KQkq - 0 6,So I move to chase the bishop into the corner and even possibly allow for Rh3.
+12,h6,h7h6,rn1qkbnr/pp2ppp1/2p3bp/8/3P3P/6N1/PPP2PP1/R1BQKBNR w KQkq - 0 7,"As expected, preferring a possible 7. h5 over Black playing it and meeting a confusing 7. Bg5, however this gives White plenty of options. I want that bishop out of play and to provide relief to this diagonal; the question is, when do I play Bd3?"
+13,Nf3,g1f3,rn1qkbnr/pp2ppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R b KQkq - 1 7,"Out comes this knight, having a certain idea in mind."
+14,Nf6,g8f6,rn1qkb1r/pp2ppp1/2p2nbp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R w KQkq - 2 8,"Development, and making O-O a nearer possibility."
+15,Ne5,f3e5,rn1qkb1r/pp2ppp1/2p2nbp/4N3/3P3P/6N1/PPP2PP1/R1BQKB1R b KQkq - 3 8,"I continue to target the bishop; meanwhile, this is an excellant square for the knight, so why not?"
+16,Bh7,g6h7,rn1qkb1r/pp2pppb/2p2n1p/4N3/3P3P/6N1/PPP2PP1/R1BQKB1R w KQkq - 4 9,Forced into a corner. All other squares are terrible moves.
+17,Bd3,f1d3,rn1qkb1r/pp2pppb/2p2n1p/4N3/3P3P/3B2N1/PPP2PP1/R1BQK2R b KQkq - 5 9,"And now, Black must lose this powerful bishop, or forever hide it from play..."
+18,Bxd3,h7d3,rn1qkb1r/pp2ppp1/2p2n1p/4N3/3P3P/3b2N1/PPP2PP1/R1BQK2R w KQkq - 0 10,Likewise. Is Bg8 even worth considering?
+19,Qxd3,d1d3,rn1qkb1r/pp2ppp1/2p2n1p/4N3/3P3P/3Q2N1/PPP2PP1/R1B1K2R b KQkq - 0 10,"No point in doubling the pawns; the knight is currently safe on e5, and this is a great square for the queen. My king is also able to castle long soon..."
+20,e6,e7e6,rn1qkb1r/pp3pp1/2p1pn1p/4N3/3P3P/3Q2N1/PPP2PP1/R1B1K2R w KQkq - 0 11,"Black wants to harass with the other bishop now, forcing c3 after Bb4+ if I'm not careful."

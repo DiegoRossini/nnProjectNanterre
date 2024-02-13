@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard white opening.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Caro-Kann defense, where 2. d5 will challenge the strong white center."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"?  This move develops the knight to a bad square and ignores the center.  I can understand that when playing someone rated higher than you, you want to take him into unfamiliar territory, but it has to be SOUND unfamiliar territory."
+4,Na6,b8a6,r1bqkbnr/pp1ppppp/n1p5/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"?  This move develops the knight to a bad square and ignores the center.  I can understand that when playing someone rated higher than you, you want to take him into unfamiliar territory, but it has to be SOUND unfamiliar territory."
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/n1p5/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,Simple development.
+6,Nf6,g8f6,r1bqkb1r/pp1ppppp/n1p2n2/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 3 4,"?!  This move looks like simple development, but without having moved either center pawn, white can chase the knight all day."
+7,e5,e4e5,r1bqkb1r/pp1ppppp/n1p2n2/4P3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,...and so I do.
+8,Nd5,f6d5,r1bqkb1r/pp1ppppp/n1p5/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,The most logical follow up.
+9,c4,c2c4,r1bqkb1r/pp1ppppp/n1p5/3nP3/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,"White now has a big pawn center, and black had to retreat the knight to either b6 or c7 to preserve material equality."
+10,Qa5+,d8a5,r1b1kb1r/pp1ppppp/n1p5/q2nP3/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,"?  A bad move which loses a piece.  Black clearly wants to play Nb4.  He couldn't have done that this move, because a3 wins a knight, but as you'll see..."
+11,Bd2,c1d2,r1b1kb1r/pp1ppppp/n1p5/q2nP3/2PP4/5N2/PP1B1PPP/RN1QKB1R b KQkq - 2 6,"This forces Nd-b4 anyway (or else white just plays cxd5, a piece up), and white wins a piece nonetheless."
+12,Ndb4,d5b4,r1b1kb1r/pp1ppppp/n1p5/q3P3/1nPP4/5N2/PP1B1PPP/RN1QKB1R w KQkq - 3 7,"You might think white doesn't win a piece, because axb4 is met by Qxa1, but the threat is to either exchange the Na6 or force it to move, and then play Bxb4."
+13,a3,a2a3,r1b1kb1r/pp1ppppp/n1p5/q3P3/1nPP4/P4N2/1P1B1PPP/RN1QKB1R b KQkq - 0 7,"You might think white doesn't win a piece, because axb4 is met by Qxa1, but the threat is to either exchange the Na6 or force it to move, and then play Bxb4."
+14,e6,e7e6,r1b1kb1r/pp1p1ppp/n1p1p3/q3P3/1nPP4/P4N2/1P1B1PPP/RN1QKB1R w KQkq - 0 8,"Black defends the Nb4, but this is easily countered by..."
+15,c5,c4c5,r1b1kb1r/pp1p1ppp/n1p1p3/q1P1P3/1n1P4/P4N2/1P1B1PPP/RN1QKB1R b KQkq - 0 8,"!  Cementing the win of the knight, as white can play Bxa6, exchanging the knight, followed by Bxb4.  Black is busted."
+16,Bxc5,f8c5,r1b1k2r/pp1p1ppp/n1p1p3/q1b1P3/1n1P4/P4N2/1P1B1PPP/RN1QKB1R w KQkq - 0 9,Lashing out in desperation?
+17,dxc5,d4c5,r1b1k2r/pp1p1ppp/n1p1p3/q1P1P3/1n6/P4N2/1P1B1PPP/RN1QKB1R b KQkq - 0 9,Happy to pick up a bishop for my troubles...
+18,Nd3+,b4d3,r1b1k2r/pp1p1ppp/n1p1p3/q1P1P3/8/P2n1N2/1P1B1PPP/RN1QKB1R w KQkq - 1 10,"?  I expected black to try to take on c5 here, to get some compensation, but this move is particularly bad."
+19,Bxd3,f1d3,r1b1k2r/pp1p1ppp/n1p1p3/q1P1P3/8/P2B1N2/1P1B1PPP/RN1QK2R b KQkq - 0 10,"Because... now I have some pieces in place for a kingside attack, and black has no way to defend the kingside."
+20,Qxc5,a5c5,r1b1k2r/pp1p1ppp/n1p1p3/2q1P3/8/P2B1N2/1P1B1PPP/RN1QK2R w KQkq - 0 11,Why not grab a pawn for your troubles?
+21,Nc3,b1c3,r1b1k2r/pp1p1ppp/n1p1p3/2q1P3/8/P1NB1N2/1P1B1PPP/R2QK2R b KQkq - 1 11,"There could have been a faster way to attack the kingside, but black helps me out by neglecting the threat.  The more obvious threat is Ne4, hitting the queen."
+22,Qb6,c5b6,r1b1k2r/pp1p1ppp/nqp1p3/4P3/8/P1NB1N2/1P1B1PPP/R2QK2R w KQkq - 2 12,"Looking to grab the b2 pawn, perhaps?  I'm going to play Ne4 anyway, though, as the queen isn't my objective here."

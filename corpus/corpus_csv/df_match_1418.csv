@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g3,g2g3,rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1,"Benko's Opening.  The leading responses (d5, e5, Nf6, g6, & c5) all tend to be pretty good for black."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2,The database favors Nc6 as a response.
+3,Bg2,f1g2,rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2,The database favors Nc6 as a response.
+4,e5,e7e5,rnbqkbnr/pp1p1ppp/8/2p1p3/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 0 3,Not in the database.
+5,e3,e2e3,rnbqkbnr/pp1p1ppp/8/2p1p3/8/4P1P1/PPPP1PBP/RNBQK1NR b KQkq - 0 3,Not in the database.
+6,Nf6,g8f6,rnbqkb1r/pp1p1ppp/5n2/2p1p3/8/4P1P1/PPPP1PBP/RNBQK1NR w KQkq - 1 4,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+7,f4,f2f4,rnbqkb1r/pp1p1ppp/5n2/2p1p3/5P2/4P1P1/PPPP2BP/RNBQK1NR b KQkq - 0 4,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+8,exf4,e5f4,rnbqkb1r/pp1p1ppp/5n2/2p5/5p2/4P1P1/PPPP2BP/RNBQK1NR w KQkq - 0 5,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+9,exf4,e3f4,rnbqkb1r/pp1p1ppp/5n2/2p5/5P2/6P1/PPPP2BP/RNBQK1NR b KQkq - 0 5,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+10,d6,d7d6,rnbqkb1r/pp3ppp/3p1n2/2p5/5P2/6P1/PPPP2BP/RNBQK1NR w KQkq - 0 6,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+11,b3,b2b3,rnbqkb1r/pp3ppp/3p1n2/2p5/5P2/1P4P1/P1PP2BP/RNBQK1NR b KQkq - 0 6,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+12,Bg4,c8g4,rn1qkb1r/pp3ppp/3p1n2/2p5/5Pb1/1P4P1/P1PP2BP/RNBQK1NR w KQkq - 1 7,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+13,Bf3,g2f3,rn1qkb1r/pp3ppp/3p1n2/2p5/5Pb1/1P3BP1/P1PP3P/RNBQK1NR b KQkq - 2 7,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+14,Bh5,g4h5,rn1qkb1r/pp3ppp/3p1n2/2p4b/5P2/1P3BP1/P1PP3P/RNBQK1NR w KQkq - 3 8,"Uh, retreat is a bad idea here because BxB, NxB, QxN and white comes out ahead in this exchange 3 points.  BxBf3 would have been better.  QxB, Nc6 (to prevent QxPb7)."
+15,Bxh5,f3h5,rn1qkb1r/pp3ppp/3p1n2/2p4B/5P2/1P4P1/P1PP3P/RNBQK1NR b KQkq - 0 8,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+16,Nxh5,f6h5,rn1qkb1r/pp3ppp/3p4/2p4n/5P2/1P4P1/P1PP3P/RNBQK1NR w KQkq - 0 9,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+17,Qxh5,d1h5,rn1qkb1r/pp3ppp/3p4/2p4Q/5P2/1P4P1/P1PP3P/RNB1K1NR b KQkq - 0 9,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+18,Be7,f8e7,rn1qk2r/pp2bppp/3p4/2p4Q/5P2/1P4P1/P1PP3P/RNB1K1NR w KQkq - 1 10,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+19,Bb2,c1b2,rn1qk2r/pp2bppp/3p4/2p4Q/5P2/1P4P1/PBPP3P/RN2K1NR b KQkq - 2 10,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+20,O-O,e8g8,rn1q1rk1/pp2bppp/3p4/2p4Q/5P2/1P4P1/PBPP3P/RN2K1NR w KQ - 3 11,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+21,Qg4,h5g4,rn1q1rk1/pp2bppp/3p4/2p5/5PQ1/1P4P1/PBPP3P/RN2K1NR b KQ - 4 11,Here white is setting up for QxPg7#.  Black should respond with Bf6 or possibly Pg6.
+22,Nc6,b8c6,r2q1rk1/pp2bppp/2np4/2p5/5PQ1/1P4P1/PBPP3P/RN2K1NR w KQ - 5 12,Nc6 was not the answer.
+23,Qxg7#,g4g7,r2q1rk1/pp2bpQp/2np4/2p5/5P2/1P4P1/PBPP3P/RN2K1NR b KQ - 0 12,

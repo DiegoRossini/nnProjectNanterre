@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A bad move. Opens up the potential for Q-R5ch.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A bad move. Opens up the potential for Q-R5ch.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,A bad move. Opens up the potential for Q-R5ch.
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,A bad move. Opens up the potential for Q-R5ch.
+5,Nh3,g1h3,rnbqkbnr/pppp2pp/5p2/4p3/4PP2/7N/PPPP2PP/RNBQKB1R b KQkq - 1 3,I move my Knight to R3 to keep open the line for the Queen.
+6,Bb4,f8b4,rnbqk1nr/pppp2pp/5p2/4p3/1b2PP2/7N/PPPP2PP/RNBQKB1R w KQkq - 2 4,"Haphazard. 2 16-year-olds with little skill, so..."
+7,Nc3,b1c3,rnbqk1nr/pppp2pp/5p2/4p3/1b2PP2/2N4N/PPPP2PP/R1BQKB1R b KQkq - 3 4,"Haphazard. 2 16-year-olds with little skill, so..."
+8,b6,b7b6,rnbqk1nr/p1pp2pp/1p3p2/4p3/1b2PP2/2N4N/PPPP2PP/R1BQKB1R w KQkq - 0 5,"Haphazard. 2 16-year-olds with little skill, so..."
+9,Bc4,f1c4,rnbqk1nr/p1pp2pp/1p3p2/4p3/1bB1PP2/2N4N/PPPP2PP/R1BQK2R b KQkq - 1 5,The threat is obvious... at least to me.
+10,Bb7,c8b7,rn1qk1nr/pbpp2pp/1p3p2/4p3/1bB1PP2/2N4N/PPPP2PP/R1BQK2R w KQkq - 2 6,The threat is obvious... at least to me.
+11,fxe5,f4e5,rn1qk1nr/pbpp2pp/1p3p2/4P3/1bB1P3/2N4N/PPPP2PP/R1BQK2R b KQkq - 0 6,The threat is obvious... at least to me.
+12,fxe5,f6e5,rn1qk1nr/pbpp2pp/1p6/4p3/1bB1P3/2N4N/PPPP2PP/R1BQK2R w KQkq - 0 7,The threat is obvious... at least to me.
+13,O-O,e1g1,rn1qk1nr/pbpp2pp/1p6/4p3/1bB1P3/2N4N/PPPP2PP/R1BQ1RK1 b kq - 1 7,The threat is obvious... at least to me.
+14,a5,a7a5,rn1qk1nr/1bpp2pp/1p6/p3p3/1bB1P3/2N4N/PPPP2PP/R1BQ1RK1 w kq - 0 8,Not to my opponent. Now Q-R5 ch is coming.
+15,Qh5+,d1h5,rn1qk1nr/1bpp2pp/1p6/p3p2Q/1bB1P3/2N4N/PPPP2PP/R1B2RK1 b kq - 1 8,Sacrificing a Pawn to open the line for B-N5ch.
+16,Ke7,e8e7,rn1q2nr/1bppk1pp/1p6/p3p2Q/1bB1P3/2N4N/PPPP2PP/R1B2RK1 w - - 2 9,Sacrificing a Pawn to open the line for B-N5ch.
+17,d4,d2d4,rn1q2nr/1bppk1pp/1p6/p3p2Q/1bBPP3/2N4N/PPP3PP/R1B2RK1 b - - 0 9,Sacrificing a Pawn to open the line for B-N5ch.
+18,exd4,e5d4,rn1q2nr/1bppk1pp/1p6/p6Q/1bBpP3/2N4N/PPP3PP/R1B2RK1 w - - 0 10,Discoveries are always powerful...
+19,Bg5+,c1g5,rn1q2nr/1bppk1pp/1p6/p5BQ/1bBpP3/2N4N/PPP3PP/R4RK1 b - - 1 10,Discoveries are always powerful...
+20,Kd6,e7d6,rn1q2nr/1bpp2pp/1p1k4/p5BQ/1bBpP3/2N4N/PPP3PP/R4RK1 w - - 2 11,Discoveries are always powerful...
+21,Bf4+,g5f4,rn1q2nr/1bpp2pp/1p1k4/p6Q/1bBpPB2/2N4N/PPP3PP/R4RK1 b - - 3 11,Discoveries are always powerful...
+22,Ke7,d6e7,rn1q2nr/1bppk1pp/1p6/p6Q/1bBpPB2/2N4N/PPP3PP/R4RK1 w - - 4 12,Discoveries are always powerful...
+23,Qe5+,h5e5,rn1q2nr/1bppk1pp/1p6/p3Q3/1bBpPB2/2N4N/PPP3PP/R4RK1 b - - 5 12,Discoveries are always powerful...
+24,Kf8,e7f8,rn1q1knr/1bpp2pp/1p6/p3Q3/1bBpPB2/2N4N/PPP3PP/R4RK1 w - - 6 13,Discoveries are always powerful...
+25,Bg5+,f4g5,rn1q1knr/1bpp2pp/1p6/p3Q1B1/1bBpP3/2N4N/PPP3PP/R4RK1 b - - 7 13,Discoveries are always powerful...
+26,Nf6,g8f6,rn1q1k1r/1bpp2pp/1p3n2/p3Q1B1/1bBpP3/2N4N/PPP3PP/R4RK1 w - - 8 14,Winning back the sacrificed material.
+27,Rxf6+,f1f6,rn1q1k1r/1bpp2pp/1p3R2/p3Q1B1/1bBpP3/2N4N/PPP3PP/R5K1 b - - 0 14,Winning back the sacrificed material.
+28,gxf6,g7f6,rn1q1k1r/1bpp3p/1p3p2/p3Q1B1/1bBpP3/2N4N/PPP3PP/R5K1 w - - 0 15,Winning back the sacrificed material.
+29,Bxf6,g5f6,rn1q1k1r/1bpp3p/1p3B2/p3Q3/1bBpP3/2N4N/PPP3PP/R5K1 b - - 0 15,Winning back the sacrificed material.
+30,Qc8,d8c8,rnq2k1r/1bpp3p/1p3B2/p3Q3/1bBpP3/2N4N/PPP3PP/R5K1 w - - 1 16,Winning back the sacrificed material.
+31,Bxh8,f6h8,rnq2k1B/1bpp3p/1p6/p3Q3/1bBpP3/2N4N/PPP3PP/R5K1 b - - 0 16,Winning back the sacrificed material.
+32,dxc3,d4c3,rnq2k1B/1bpp3p/1p6/p3Q3/1bB1P3/2p4N/PPP3PP/R5K1 w - - 0 17,"This equalizes the material but allows a mate. Black's best hope was 16... B-Q2. If he can follow up with 17... Q-Q1, he'll at least have a couple of pieces he can use to help defend his exposed King."
+33,Qf6+,e5f6,rnq2k1B/1bpp3p/1p3Q2/p7/1bB1P3/2p4N/PPP3PP/R5K1 b - - 1 17,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+34,Ke8,f8e8,rnq1k2B/1bpp3p/1p3Q2/p7/1bB1P3/2p4N/PPP3PP/R5K1 w - - 2 18,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+35,Qf7+,f6f7,rnq1k2B/1bpp1Q1p/1p6/p7/1bB1P3/2p4N/PPP3PP/R5K1 b - - 3 18,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+36,Kd8,e8d8,rnqk3B/1bpp1Q1p/1p6/p7/1bB1P3/2p4N/PPP3PP/R5K1 w - - 4 19,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+37,Bf6+,h8f6,rnqk4/1bpp1Q1p/1p3B2/p7/1bB1P3/2p4N/PPP3PP/R5K1 b - - 5 19,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+38,Be7,b4e7,rnqk4/1bppbQ1p/1p3B2/p7/2B1P3/2p4N/PPP3PP/R5K1 w - - 6 20,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."
+39,Bxe7#,f6e7,rnqk4/1bppBQ1p/1p6/p7/2B1P3/2p4N/PPP3PP/R5K1 b - - 0 20,"I definitely exploited some major mistakes by my opponent, like not developing quickly and opening files where he was weak."

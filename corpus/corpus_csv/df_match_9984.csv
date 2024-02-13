@@ -1,0 +1,73 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,the reason c4 is played before e3 is the bishop on c1.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,the reason c4 is played before e3 is the bishop on c1.
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,the reason c4 is played before e3 is the bishop on c1.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,? strange... the move in the text blocks black from developing properly.
+5,c4,c2c4,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,? strange... the move in the text blocks black from developing properly.
+6,Be6,c8e6,rn1qkbnr/pp2pppp/2p1b3/3p4/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,? strange... the move in the text blocks black from developing properly.
+7,cxd5,c4d5,rn1qkbnr/pp2pppp/2p1b3/3P4/3P4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 4,"wants e4. maybe Nc3 was better with the ""regular"" development Nf3 Bd3 0-0 etc."
+8,Bxd5,e6d5,rn1qkbnr/pp2pppp/2p5/3b4/3P4/4P3/PP3PPP/RNBQKBNR w KQkq - 0 5,"wants e4. maybe Nc3 was better with the ""regular"" development Nf3 Bd3 0-0 etc."
+9,f3,f2f3,rn1qkbnr/pp2pppp/2p5/3b4/3P4/4PP2/PP4PP/RNBQKBNR b KQkq - 0 5,"wants e4. maybe Nc3 was better with the ""regular"" development Nf3 Bd3 0-0 etc."
+10,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/3b4/3P4/4PP2/PP4PP/RNBQKBNR w KQkq - 0 6,?? after e4 the bishop has nowhere to go.
+11,e4,e3e4,rn1qkbnr/pp3ppp/2p1p3/3b4/3PP3/5P2/PP4PP/RNBQKBNR b KQkq - 0 6,a lame try to take a2...
+12,Qa5+,d8a5,rn2kbnr/pp3ppp/2p1p3/q2b4/3PP3/5P2/PP4PP/RNBQKBNR w KQkq - 1 7,a lame try to take a2...
+13,Bd2,c1d2,rn2kbnr/pp3ppp/2p1p3/q2b4/3PP3/5P2/PP1B2PP/RN1QKBNR b KQkq - 2 7,white with a piece up gains great advantage.
+14,Bb4,f8b4,rn2k1nr/pp3ppp/2p1p3/q2b4/1b1PP3/5P2/PP1B2PP/RN1QKBNR w KQkq - 3 8,white with a piece up gains great advantage.
+15,exd5,e4d5,rn2k1nr/pp3ppp/2p1p3/q2P4/1b1P4/5P2/PP1B2PP/RN1QKBNR b KQkq - 0 8,white with a piece up gains great advantage.
+16,Bxd2+,b4d2,rn2k1nr/pp3ppp/2p1p3/q2P4/3P4/5P2/PP1b2PP/RN1QKBNR w KQkq - 0 9,weakening the king side.
+17,Nxd2,b1d2,rn2k1nr/pp3ppp/2p1p3/q2P4/3P4/5P2/PP1N2PP/R2QKBNR b KQkq - 0 9,weakening the king side.
+18,Qxd5,a5d5,rn2k1nr/pp3ppp/2p1p3/3q4/3P4/5P2/PP1N2PP/R2QKBNR w KQkq - 0 10,weakening the king side.
+19,Ne4,d2e4,rn2k1nr/pp3ppp/2p1p3/3q4/3PN3/5P2/PP4PP/R2QKBNR b KQkq - 1 10,weakening the king side.
+20,f5,f7f5,rn2k1nr/pp4pp/2p1p3/3q1p2/3PN3/5P2/PP4PP/R2QKBNR w KQkq - 0 11,weakening the king side.
+21,Nc5,e4c5,rn2k1nr/pp4pp/2p1p3/2Nq1p2/3P4/5P2/PP4PP/R2QKBNR b KQkq - 1 11,white looks fantastic while black is poorly placed over the board.
+22,b6,b7b6,rn2k1nr/p5pp/1pp1p3/2Nq1p2/3P4/5P2/PP4PP/R2QKBNR w KQkq - 0 12,white looks fantastic while black is poorly placed over the board.
+23,Nb3,c5b3,rn2k1nr/p5pp/1pp1p3/3q1p2/3P4/1N3P2/PP4PP/R2QKBNR b KQkq - 1 12,white looks fantastic while black is poorly placed over the board.
+24,Nf6,g8f6,rn2k2r/p5pp/1pp1pn2/3q1p2/3P4/1N3P2/PP4PP/R2QKBNR w KQkq - 2 13,white looks fantastic while black is poorly placed over the board.
+25,Rc1,a1c1,rn2k2r/p5pp/1pp1pn2/3q1p2/3P4/1N3P2/PP4PP/2RQKBNR b Kkq - 3 13,white looks fantastic while black is poorly placed over the board.
+26,O-O,e8g8,rn3rk1/p5pp/1pp1pn2/3q1p2/3P4/1N3P2/PP4PP/2RQKBNR w K - 4 14,white looks fantastic while black is poorly placed over the board.
+27,Bc4,f1c4,rn3rk1/p5pp/1pp1pn2/3q1p2/2BP4/1N3P2/PP4PP/2RQK1NR b K - 5 14,white looks fantastic while black is poorly placed over the board.
+28,Qd6,d5d6,rn3rk1/p5pp/1ppqpn2/5p2/2BP4/1N3P2/PP4PP/2RQK1NR w K - 6 15,preparing 0-0
+29,Ne2,g1e2,rn3rk1/p5pp/1ppqpn2/5p2/2BP4/1N3P2/PP2N1PP/2RQK2R b K - 7 15,preparing 0-0
+30,b5,b6b5,rn3rk1/p5pp/2pqpn2/1p3p2/2BP4/1N3P2/PP2N1PP/2RQK2R w K - 0 16,at least the knight can not be vanished by a pawn.
+31,Bd3,c4d3,rn3rk1/p5pp/2pqpn2/1p3p2/3P4/1N1B1P2/PP2N1PP/2RQK2R b K - 1 16,at least the knight can not be vanished by a pawn.
+32,Nd5,f6d5,rn3rk1/p5pp/2pqp3/1p1n1p2/3P4/1N1B1P2/PP2N1PP/2RQK2R w K - 2 17,at least the knight can not be vanished by a pawn.
+33,Qd2,d1d2,rn3rk1/p5pp/2pqp3/1p1n1p2/3P4/1N1B1P2/PP1QN1PP/2R1K2R b K - 3 17,18. Bb1!
+34,Nb4,d5b4,rn3rk1/p5pp/2pqp3/1p3p2/1n1P4/1N1B1P2/PP1QN1PP/2R1K2R w K - 4 18,18. Bb1!
+35,Nc5,b3c5,rn3rk1/p5pp/2pqp3/1pN2p2/1n1P4/3B1P2/PP1QN1PP/2R1K2R b K - 5 18,18. Bb1!
+36,Nxa2,b4a2,rn3rk1/p5pp/2pqp3/1pN2p2/3P4/3B1P2/nP1QN1PP/2R1K2R w K - 0 19,with material advantage it is always good to exchange pieces.
+37,Rc2,c1c2,rn3rk1/p5pp/2pqp3/1pN2p2/3P4/3B1P2/nPRQN1PP/4K2R b K - 1 19,with material advantage it is always good to exchange pieces.
+38,Nd7,b8d7,r4rk1/p2n2pp/2pqp3/1pN2p2/3P4/3B1P2/nPRQN1PP/4K2R w K - 2 20,with material advantage it is always good to exchange pieces.
+39,Nxd7,c5d7,r4rk1/p2N2pp/2pqp3/1p3p2/3P4/3B1P2/nPRQN1PP/4K2R b K - 0 20,with material advantage it is always good to exchange pieces.
+40,Qxd7,d6d7,r4rk1/p2q2pp/2p1p3/1p3p2/3P4/3B1P2/nPRQN1PP/4K2R w K - 0 21,white needs 0-0 soon.
+41,Qa5,d2a5,r4rk1/p2q2pp/2p1p3/Qp3p2/3P4/3B1P2/nPR1N1PP/4K2R b K - 1 21,white needs 0-0 soon.
+42,Qd5,d7d5,r4rk1/p5pp/2p1p3/Qp1q1p2/3P4/3B1P2/nPR1N1PP/4K2R w K - 2 22,white needs 0-0 soon.
+43,O-O,e1g1,r4rk1/p5pp/2p1p3/Qp1q1p2/3P4/3B1P2/nPR1N1PP/5RK1 b - - 3 22,? Qd2 is a must!
+44,Qb3,d5b3,r4rk1/p5pp/2p1p3/Qp3p2/3P4/1q1B1P2/nPR1N1PP/5RK1 w - - 4 23,? Qd2 is a must!
+45,Rd1,f1d1,r4rk1/p5pp/2p1p3/Qp3p2/3P4/1q1B1P2/nPR1N1PP/3R2K1 b - - 5 23,? Qd2 is a must!
+46,Nb4,a2b4,r4rk1/p5pp/2p1p3/Qp3p2/1n1P4/1q1B1P2/1PR1N1PP/3R2K1 w - - 6 24,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+47,Nc1,e2c1,r4rk1/p5pp/2p1p3/Qp3p2/1n1P4/1q1B1P2/1PR3PP/2NR2K1 b - - 7 24,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+48,Qa4,b3a4,r4rk1/p5pp/2p1p3/Qp3p2/qn1P4/3B1P2/1PR3PP/2NR2K1 w - - 8 25,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+49,Qxa4,a5a4,r4rk1/p5pp/2p1p3/1p3p2/Qn1P4/3B1P2/1PR3PP/2NR2K1 b - - 0 25,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+50,bxa4,b5a4,r4rk1/p5pp/2p1p3/5p2/pn1P4/3B1P2/1PR3PP/2NR2K1 w - - 0 26,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+51,Rc4,c2c4,r4rk1/p5pp/2p1p3/5p2/pnRP4/3B1P2/1P4PP/2NR2K1 b - - 1 26,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+52,Nxd3,b4d3,r4rk1/p5pp/2p1p3/5p2/p1RP4/3n1P2/1P4PP/2NR2K1 w - - 0 27,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+53,Rxd3,d1d3,r4rk1/p5pp/2p1p3/5p2/p1RP4/3R1P2/1P4PP/2N3K1 b - - 0 27,after allthe pieces' exchanging white is still with a piece up and aiming fr a victory.
+54,Rab8,a8b8,1r3rk1/p5pp/2p1p3/5p2/p1RP4/3R1P2/1P4PP/2N3K1 w - - 1 28,28. b2 locks the b file.
+55,Rxa4,c4a4,1r3rk1/p5pp/2p1p3/5p2/R2P4/3R1P2/1P4PP/2N3K1 b - - 0 28,28. b2 locks the b file.
+56,Rxb2,b8b2,5rk1/p5pp/2p1p3/5p2/R2P4/3R1P2/1r4PP/2N3K1 w - - 0 29,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+57,Rxa7,a4a7,5rk1/R5pp/2p1p3/5p2/3P4/3R1P2/1r4PP/2N3K1 b - - 0 29,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+58,Rc2,b2c2,5rk1/R5pp/2p1p3/5p2/3P4/3R1P2/2r3PP/2N3K1 w - - 1 30,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+59,Nb3,c1b3,5rk1/R5pp/2p1p3/5p2/3P4/1N1R1P2/2r3PP/6K1 b - - 2 30,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+60,Rb8,f8b8,1r4k1/R5pp/2p1p3/5p2/3P4/1N1R1P2/2r3PP/6K1 w - - 3 31,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+61,Nd2,b3d2,1r4k1/R5pp/2p1p3/5p2/3P4/3R1P2/2rN2PP/6K1 b - - 4 31,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+62,Rbb2,b8b2,6k1/R5pp/2p1p3/5p2/3P4/3R1P2/1rrN2PP/6K1 w - - 5 32,black has to rooks on the second so even if he is with a piece down he looks not that bad.
+63,Ra8+,a7a8,R5k1/6pp/2p1p3/5p2/3P4/3R1P2/1rrN2PP/6K1 b - - 6 32,sacrifices the only light piece that is left in order to loose-up a bit.
+64,Kf7,g8f7,R7/5kpp/2p1p3/5p2/3P4/3R1P2/1rrN2PP/6K1 w - - 7 33,sacrifices the only light piece that is left in order to loose-up a bit.
+65,Ra7+,a8a7,8/R4kpp/2p1p3/5p2/3P4/3R1P2/1rrN2PP/6K1 b - - 8 33,sacrifices the only light piece that is left in order to loose-up a bit.
+66,Kf6,f7f6,8/R5pp/2p1pk2/5p2/3P4/3R1P2/1rrN2PP/6K1 w - - 9 34,sacrifices the only light piece that is left in order to loose-up a bit.
+67,Ne4+,d2e4,8/R5pp/2p1pk2/5p2/3PN3/3R1P2/1rr3PP/6K1 b - - 10 34,sacrifices the only light piece that is left in order to loose-up a bit.
+68,fxe4,f5e4,8/R5pp/2p1pk2/8/3Pp3/3R1P2/1rr3PP/6K1 w - - 0 35,no need to carry on. the end!
+69,Rd1,d3d1,8/R5pp/2p1pk2/8/3Pp3/5P2/1rr3PP/3R2K1 b - - 1 35,no need to carry on. the end!
+70,exf3,e4f3,8/R5pp/2p1pk2/8/3P4/5p2/1rr3PP/3R2K1 w - - 0 36,no need to carry on. the end!
+71,gxf3,g2f3,8/R5pp/2p1pk2/8/3P4/5P2/1rr4P/3R2K1 b - - 0 36,no need to carry on. the end!
+72,Rcxh2,c2h2,8/R5pp/2p1pk2/8/3P4/5P2/1r5r/3R2K1 w - - 0 37,no need to carry on. the end!

@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This will create dark square weaknesses that black will later regret.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This will create dark square weaknesses that black will later regret.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,This will create dark square weaknesses that black will later regret.
+4,g6,g7g6,rnbqkbnr/pppp1p1p/4p1p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,This will create dark square weaknesses that black will later regret.
+5,Bd3,f1d3,rnbqkbnr/pppp1p1p/4p1p1/8/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 3,The natural developing move Nf3 is slightly better.
+6,Bg7,f8g7,rnbqk1nr/pppp1pbp/4p1p1/8/3PP3/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 4,The natural developing move Nf3 is slightly better.
+7,Be3,c1e3,rnbqk1nr/pppp1pbp/4p1p1/8/3PP3/3BB3/PPP2PPP/RN1QK1NR b KQkq - 3 4,The natural developing move Nf3 is slightly better.
+8,c5,c7c5,rnbqk1nr/pp1p1pbp/4p1p1/2p5/3PP3/3BB3/PPP2PPP/RN1QK1NR w KQkq - 0 5,Alternative variation: 4... d5 5. exd5 exd5 6. Nf3 [is only minuscule better for white.]
+9,c3,c2c3,rnbqk1nr/pp1p1pbp/4p1p1/2p5/3PP3/2PBB3/PP3PPP/RN1QK1NR b KQkq - 0 5,Alternative variation: 5. dxc5 [ Amazingly is stronger.] Bxb2 6. Nd2 Bxa1 [A mistake.] 7. Qxa1 f6 8. Nc4 [ with a better game.]
+10,cxd4,c5d4,rnbqk1nr/pp1p1pbp/4p1p1/8/3pP3/2PBB3/PP3PPP/RN1QK1NR w KQkq - 0 6,Premature.
+11,cxd4,c3d4,rnbqk1nr/pp1p1pbp/4p1p1/8/3PP3/3BB3/PP3PPP/RN1QK1NR b KQkq - 0 6,Premature.
+12,Qb6,d8b6,rnb1k1nr/pp1p1pbp/1q2p1p1/8/3PP3/3BB3/PP3PPP/RN1QK1NR w KQkq - 1 7,Premature.
+13,Ne2,g1e2,rnb1k1nr/pp1p1pbp/1q2p1p1/8/3PP3/3BB3/PP2NPPP/RN1QK2R b KQkq - 2 7,Alternative variation: 7. Nc3 [ is slightly better. Obviously not Qxb2?? 8. Nb5] Qxb2 8. Nb5 Na6 9. a3
+14,Qxb2,b6b2,rnb1k1nr/pp1p1pbp/4p1p1/8/3PP3/3BB3/Pq2NPPP/RN1QK2R w KQkq - 0 8,"White's counterplay is too great.
+Alternative variation: 7... d5 8. Nbc3 Ne7 9. Qd2 [ with a slight edge for white.]"
+15,Nbc3,b1c3,rnb1k1nr/pp1p1pbp/4p1p1/8/3PP3/2NBB3/Pq2NPPP/R2QK2R b KQkq - 1 8,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+16,Qb6,b2b6,rnb1k1nr/pp1p1pbp/1q2p1p1/8/3PP3/2NBB3/P3NPPP/R2QK2R w KQkq - 2 9,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+17,Rc1,a1c1,rnb1k1nr/pp1p1pbp/1q2p1p1/8/3PP3/2NBB3/P3NPPP/2RQK2R b Kkq - 3 9,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+18,Na6,b8a6,r1b1k1nr/pp1p1pbp/nq2p1p1/8/3PP3/2NBB3/P3NPPP/2RQK2R w Kkq - 4 10,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+19,Nb5,c3b5,r1b1k1nr/pp1p1pbp/nq2p1p1/1N6/3PP3/3BB3/P3NPPP/2RQK2R b Kkq - 5 10,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+20,Bf8,g7f8,r1b1kbnr/pp1p1p1p/nq2p1p1/1N6/3PP3/3BB3/P3NPPP/2RQK2R w Kkq - 6 11,Alternative variation: 10... Ne7 [ is a little better.] 11. d5 Qa5+ 12. Bd2 Qb6 13. Qa4 exd5 14. Qa3 [ And black has a lot of problems.]
+21,O-O,e1g1,r1b1kbnr/pp1p1p1p/nq2p1p1/1N6/3PP3/3BB3/P3NPPP/2RQ1RK1 b kq - 7 11,"Black's position is falling apart.
+Alternative variation: 11... Qd8 [And black survives longer.] 12. Qa4 f6 13. Bf4 Kf7 14. Bc7 [and black is constrained.] Qe8 15. Nd6+"
+22,d6,d7d6,r1b1kbnr/pp3p1p/nq1pp1p1/1N6/3PP3/3BB3/P3NPPP/2RQ1RK1 w kq - 0 12,"Black's position is falling apart.
+Alternative variation: 11... Qd8 [And black survives longer.] 12. Qa4 f6 13. Bf4 Kf7 14. Bc7 [and black is constrained.] Qe8 15. Nd6+"
+23,d5,d4d5,r1b1kbnr/pp3p1p/nq1pp1p1/1N1P4/4P3/3BB3/P3NPPP/2RQ1RK1 b kq - 0 12,Alternative variation: 13. dxe6 [Is stronger.] Bxe6 (13... fxe6 14. Nf4) 14. Bd4 f6 15. Nf4
+24,Qa5,b6a5,r1b1kbnr/pp3p1p/n2pp1p1/qN1P4/4P3/3BB3/P3NPPP/2RQ1RK1 w kq - 1 13,Alternative variation: 13. dxe6 [Is stronger.] Bxe6 (13... fxe6 14. Nf4) 14. Bd4 f6 15. Nf4
+25,Bd4,e3d4,r1b1kbnr/pp3p1p/n2pp1p1/qN1P4/3BP3/3B4/P3NPPP/2RQ1RK1 b kq - 2 13,Alternative variation: 13. dxe6 [Is stronger.] Bxe6 (13... fxe6 14. Nf4) 14. Bd4 f6 15. Nf4
+26,e5,e6e5,r1b1kbnr/pp3p1p/n2p2p1/qN1Pp3/3BP3/3B4/P3NPPP/2RQ1RK1 w kq - 0 14,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+27,Bc3,d4c3,r1b1kbnr/pp3p1p/n2p2p1/qN1Pp3/4P3/2BB4/P3NPPP/2RQ1RK1 b kq - 1 14,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+28,Qd8,a5d8,r1bqkbnr/pp3p1p/n2p2p1/1N1Pp3/4P3/2BB4/P3NPPP/2RQ1RK1 w kq - 2 15,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+29,f4,f2f4,r1bqkbnr/pp3p1p/n2p2p1/1N1Pp3/4PP2/2BB4/P3N1PP/2RQ1RK1 b kq - 0 15,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+30,f6,f7f6,r1bqkbnr/pp5p/n2p1pp1/1N1Pp3/4PP2/2BB4/P3N1PP/2RQ1RK1 w kq - 0 16,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+31,fxe5,f4e5,r1bqkbnr/pp5p/n2p1pp1/1N1PP3/4P3/2BB4/P3N1PP/2RQ1RK1 b kq - 0 16,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+32,fxe5,f6e5,r1bqkbnr/pp5p/n2p2p1/1N1Pp3/4P3/2BB4/P3N1PP/2RQ1RK1 w kq - 0 17,"The open file for the rook will be ruinous.
+Alternative variation: 16... dxe5 17. d6 Bh6 [ Is not as bad.] 18. Bd2"
+33,Qa4,d1a4,r1bqkbnr/pp5p/n2p2p1/1N1Pp3/Q3P3/2BB4/P3N1PP/2R2RK1 b kq - 1 17,Alternative variation: 18. Qa3 [Is stronger.] Nh6 (18... Nc5 19. Bxe5 dxe5 20. Rxc5 Bxc5+ 21. Qxc5) 19. Bxe5 Qb6+ (19... dxe5 20. Rxf8+ Rxf8 21. Nd6+ Ke7 22. Nxb7+) 20. Bd4
+34,Bd7,c8d7,r2qkbnr/pp1b3p/n2p2p1/1N1Pp3/Q3P3/2BB4/P3N1PP/2R2RK1 w kq - 2 18,Alternative variation: 18. Qa3 [Is stronger.] Nh6 (18... Nc5 19. Bxe5 dxe5 20. Rxc5 Bxc5+ 21. Qxc5) 19. Bxe5 Qb6+ (19... dxe5 20. Rxf8+ Rxf8 21. Nd6+ Ke7 22. Nxb7+) 20. Bd4
+35,Bb4,c3b4,r2qkbnr/pp1b3p/n2p2p1/1N1Pp3/QB2P3/3B4/P3N1PP/2R2RK1 b kq - 3 18,Alternative variation: 18. Qa3 [Is stronger.] Nh6 (18... Nc5 19. Bxe5 dxe5 20. Rxc5 Bxc5+ 21. Qxc5) 19. Bxe5 Qb6+ (19... dxe5 20. Rxf8+ Rxf8 21. Nd6+ Ke7 22. Nxb7+) 20. Bd4
+36,Nh6,g8h6,r2qkb1r/pp1b3p/n2p2pn/1N1Pp3/QB2P3/3B4/P3N1PP/2R2RK1 w kq - 4 19,Alternative variation: 18... Nf6 [Is a little safer.]
+37,Kh1,g1h1,r2qkb1r/pp1b3p/n2p2pn/1N1Pp3/QB2P3/3B4/P3N1PP/2R2R1K b kq - 5 19,"White misses the winning move.
+Alternative variation: 19. Rxf8+ Kxf8 20. Bxd6+ Kg8 21. Bxe5 Nf7 22. Bb2 Rc8 23. Qd4 [Leads to complicated tactical threats]"
+38,Nf7,h6f7,r2qkb1r/pp1b1n1p/n2p2p1/1N1Pp3/QB2P3/3B4/P3N1PP/2R2R1K w kq - 6 20,Alternative variation: 20. Qb3 Be7 21. Rxf7 Kxf7 22. Nxd6+ Bxd6 23. Bxd6 Qf6 24. Qa3 Rae8 25. Ng3 Kg7 26. Rf1 Qg5 27. Qb2 Nb8 28. Qxb7
+39,Qa3,a4a3,r2qkb1r/pp1b1n1p/n2p2p1/1N1Pp3/1B2P3/Q2B4/P3N1PP/2R2R1K b kq - 7 20,Alternative variation: 20. Qb3 Be7 21. Rxf7 Kxf7 22. Nxd6+ Bxd6 23. Bxd6 Qf6 24. Qa3 Rae8 25. Ng3 Kg7 26. Rf1 Qg5 27. Qb2 Nb8 28. Qxb7
+40,Nc5,a6c5,r2qkb1r/pp1b1n1p/3p2p1/1NnPp3/1B2P3/Q2B4/P3N1PP/2R2R1K w kq - 8 21,Alternative variation: 20... Be7 [Is much safer.] 21. Nxd6+ Bxd6 22. Bxd6 Nxd6 23. Bxa6 Qe7 24. Bd3
+41,Nxd6+,b5d6,r2qkb1r/pp1b1n1p/3N2p1/2nPp3/1B2P3/Q2B4/P3N1PP/2R2R1K b kq - 0 21,Alternative variation: 21. Bxc5 [ Is apparently crushing.] dxc5 22. d6 Nxd6 23. Qxc5 Nxb5 (23... Bxb5 24. Bxb5+ Nxb5 25. Qxb5+ Qd7 26. Qxe5+) 24. Qxe5+ [is crushing.]
+42,Bxd6,f8d6,r2qk2r/pp1b1n1p/3b2p1/2nPp3/1B2P3/Q2B4/P3N1PP/2R2R1K w kq - 0 22,Alternative variation: 23... b6 [ first is a little better because it makes it harder for white to play d6.]
+43,Bxc5,b4c5,r2qk2r/pp1b1n1p/3b2p1/2BPp3/4P3/Q2B4/P3N1PP/2R2R1K b kq - 0 22,Alternative variation: 23... b6 [ first is a little better because it makes it harder for white to play d6.]
+44,Bxc5,d6c5,r2qk2r/pp1b1n1p/6p1/2bPp3/4P3/Q2B4/P3N1PP/2R2R1K w kq - 0 23,Alternative variation: 23... b6 [ first is a little better because it makes it harder for white to play d6.]
+45,Qxc5,a3c5,r2qk2r/pp1b1n1p/6p1/2QPp3/4P3/3B4/P3N1PP/2R2R1K b kq - 0 23,Alternative variation: 23... b6 [ first is a little better because it makes it harder for white to play d6.]
+46,Qe7,d8e7,r3k2r/pp1bqn1p/6p1/2QPp3/4P3/3B4/P3N1PP/2R2R1K w kq - 1 24,Alternative variation: 23... b6 [ first is a little better because it makes it harder for white to play d6.]
+47,Qc7,c5c7,r3k2r/ppQbqn1p/6p1/3Pp3/4P3/3B4/P3N1PP/2R2R1K b kq - 2 24,Alternative variation: 24. d6 [is slightly stronger.] Qxd6 (24... Nxd6 25. Nc3 Bc6 26. Nd5 Bxd5 27. Qxd5 a6 28. Rc7 Qxc7 29. Qxe5+ Kd7 30. Qg7+) 25. Bc4
+48,Nd6,f7d6,r3k2r/ppQbq2p/3n2p1/3Pp3/4P3/3B4/P3N1PP/2R2R1K w kq - 3 25,"Suddenly black's game is worse.
+Alternative variation: 25... a6 [ allows black to defend Rc7 with Rc8.]"
+49,Qa5,c7a5,r3k2r/pp1bq2p/3n2p1/Q2Pp3/4P3/3B4/P3N1PP/2R2R1K b kq - 4 25,"Suddenly black's game is worse.
+Alternative variation: 25... a6 [ allows black to defend Rc7 with Rc8.]"
+50,h5,h7h5,r3k2r/pp1bq3/3n2p1/Q2Pp2p/4P3/3B4/P3N1PP/2R2R1K w kq - 0 26,"Suddenly black's game is worse.
+Alternative variation: 25... a6 [ allows black to defend Rc7 with Rc8.]"

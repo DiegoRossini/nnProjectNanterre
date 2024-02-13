@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,standard.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,standard.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,standard.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,I'm planning to play d5.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,this is the Nimzo- Indian.
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,this is the Nimzo- Indian.
+7,e3,e2e3,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4,this is to develop the LSB.
+8,O-O,e8g8,rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQ - 1 5,king safety.
+9,Bd3,f1d3,rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR b KQ - 2 5,attacking c4.
+10,d5,d7d5,rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBP3/PP3PPP/R1BQK1NR w KQ - 0 6,attacking c4.
+11,Nf3,g1f3,rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R b KQ - 1 6,now he has a isolated d4 pawn.
+12,c5,c7c5,rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ - 0 7,now he has a isolated d4 pawn.
+13,O-O,e1g1,rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 1 7,now he has a isolated d4 pawn.
+14,cxd4,c5d4,rnbq1rk1/pp3ppp/4pn2/3p4/1bPp4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 0 8,now he has a isolated d4 pawn.
+15,exd4,e3d4,rnbq1rk1/pp3ppp/4pn2/3p4/1bPP4/2NB1N2/PP3PPP/R1BQ1RK1 b - - 0 8,now he has a isolated d4 pawn.
+16,dxc4,d5c4,rnbq1rk1/pp3ppp/4pn2/8/1bpP4/2NB1N2/PP3PPP/R1BQ1RK1 w - - 0 9,now he has a isolated d4 pawn.
+17,Bxc4,d3c4,rnbq1rk1/pp3ppp/4pn2/8/1bBP4/2N2N2/PP3PPP/R1BQ1RK1 b - - 0 9,now he has a isolated d4 pawn.
+18,Nc6,b8c6,r1bq1rk1/pp3ppp/2n1pn2/8/1bBP4/2N2N2/PP3PPP/R1BQ1RK1 w - - 1 10,this helps to guard my knight.
+19,Bg5,c1g5,r1bq1rk1/pp3ppp/2n1pn2/6B1/1bBP4/2N2N2/PP3PPP/R2Q1RK1 b - - 2 10,this helps to guard my knight.
+20,h6,h7h6,r1bq1rk1/pp3pp1/2n1pn1p/6B1/1bBP4/2N2N2/PP3PPP/R2Q1RK1 w - - 0 11,this helps to guard my knight.
+21,Bh4,g5h4,r1bq1rk1/pp3pp1/2n1pn1p/8/1bBP3B/2N2N2/PP3PPP/R2Q1RK1 b - - 1 11,this helps to guard my knight.
+22,Be7,b4e7,r1bq1rk1/pp2bpp1/2n1pn1p/8/2BP3B/2N2N2/PP3PPP/R2Q1RK1 w - - 2 12,this helps to guard my knight.
+23,Re1,f1e1,r1bq1rk1/pp2bpp1/2n1pn1p/8/2BP3B/2N2N2/PP3PPP/R2QR1K1 b - - 3 12,"this is to go, Bb7."
+24,b6,b7b6,r1bq1rk1/p3bpp1/1pn1pn1p/8/2BP3B/2N2N2/PP3PPP/R2QR1K1 w - - 0 13,"this is to go, Bb7."
+25,a3,a2a3,r1bq1rk1/p3bpp1/1pn1pn1p/8/2BP3B/P1N2N2/1P3PPP/R2QR1K1 b - - 0 13,the fight for the c file begins!!
+26,Bb7,c8b7,r2q1rk1/pb2bpp1/1pn1pn1p/8/2BP3B/P1N2N2/1P3PPP/R2QR1K1 w - - 1 14,the fight for the c file begins!!
+27,Rc1,a1c1,r2q1rk1/pb2bpp1/1pn1pn1p/8/2BP3B/P1N2N2/1P3PPP/2RQR1K1 b - - 2 14,the fight for the c file begins!!
+28,Rc8,a8c8,2rq1rk1/pb2bpp1/1pn1pn1p/8/2BP3B/P1N2N2/1P3PPP/2RQR1K1 w - - 3 15,the fight for the c file begins!!
+29,Ba2,c4a2,2rq1rk1/pb2bpp1/1pn1pn1p/8/3P3B/P1N2N2/BP3PPP/2RQR1K1 b - - 4 15,"i was hoping for, nxh4."
+30,Nd5,f6d5,2rq1rk1/pb2bpp1/1pn1p2p/3n4/3P3B/P1N2N2/BP3PPP/2RQR1K1 w - - 5 16,"i was hoping for, nxh4."
+31,Nxd5,c3d5,2rq1rk1/pb2bpp1/1pn1p2p/3N4/3P3B/P4N2/BP3PPP/2RQR1K1 b - - 0 16,"i was hoping for, nxh4."
+32,Bxh4,e7h4,2rq1rk1/pb3pp1/1pn1p2p/3N4/3P3b/P4N2/BP3PPP/2RQR1K1 w - - 0 17,"i was hoping for, nxh4."
+33,Nf4,d5f4,2rq1rk1/pb3pp1/1pn1p2p/8/3P1N1b/P4N2/BP3PPP/2RQR1K1 b - - 1 17,"i was hoping for, nxh4."
+34,Bf6,h4f6,2rq1rk1/pb3pp1/1pn1pb1p/8/3P1N2/P4N2/BP3PPP/2RQR1K1 w - - 2 18,"! this is a good move!! after i take, he takes with his bishop, and takes my rook."
+35,Nxe6,f4e6,2rq1rk1/pb3pp1/1pn1Nb1p/8/3P4/P4N2/BP3PPP/2RQR1K1 b - - 0 18,"! this is a good move!! after i take, he takes with his bishop, and takes my rook."
+36,fxe6,f7e6,2rq1rk1/pb4p1/1pn1pb1p/8/3P4/P4N2/BP3PPP/2RQR1K1 w - - 0 19,"if i take with the Bishop he goes, rxc6."
+37,Bxe6+,a2e6,2rq1rk1/pb4p1/1pn1Bb1p/8/3P4/P4N2/1P3PPP/2RQR1K1 b - - 0 19,"if i take with the Bishop he goes, rxc6."
+38,Kh8,g8h8,2rq1r1k/pb4p1/1pn1Bb1p/8/3P4/P4N2/1P3PPP/2RQR1K1 w - - 1 20,"if i take with the Bishop he goes, rxc6."
+39,Bxc8,e6c8,2Bq1r1k/pb4p1/1pn2b1p/8/3P4/P4N2/1P3PPP/2RQR1K1 b - - 0 20,"if i take with the Bishop he goes, rxc6."
+40,Qxc8,d8c8,2q2r1k/pb4p1/1pn2b1p/8/3P4/P4N2/1P3PPP/2RQR1K1 w - - 0 21,i cant move my knight due to the threat of rxc8.
+41,d5,d4d5,2q2r1k/pb4p1/1pn2b1p/3P4/8/P4N2/1P3PPP/2RQR1K1 b - - 0 21,i cant move my knight due to the threat of rxc8.
+42,Rd8,f8d8,2qr3k/pb4p1/1pn2b1p/3P4/8/P4N2/1P3PPP/2RQR1K1 w - - 1 22,i was thinking about resigning right here.
+43,Qb3,d1b3,2qr3k/pb4p1/1pn2b1p/3P4/8/PQ3N2/1P3PPP/2R1R1K1 b - - 2 22,i was thinking about resigning right here.
+44,Qa8,c8a8,q2r3k/pb4p1/1pn2b1p/3P4/8/PQ3N2/1P3PPP/2R1R1K1 w - - 3 23,i was thinking about resigning right here.
+45,dxc6,d5c6,q2r3k/pb4p1/1pP2b1p/8/8/PQ3N2/1P3PPP/2R1R1K1 b - - 0 23,i was thinking about resigning right here.
+46,Bxc6,b7c6,q2r3k/p5p1/1pb2b1p/8/8/PQ3N2/1P3PPP/2R1R1K1 w - - 0 24,i was thinking about resigning right here.
+47,Ne5,f3e5,q2r3k/p5p1/1pb2b1p/4N3/8/PQ6/1P3PPP/2R1R1K1 b - - 1 24,winning a pawn.
+48,Bxe5,f6e5,q2r3k/p5p1/1pb4p/4b3/8/PQ6/1P3PPP/2R1R1K1 w - - 0 25,winning a pawn.
+49,Rxe5,e1e5,q2r3k/p5p1/1pb4p/4R3/8/PQ6/1P3PPP/2R3K1 b - - 0 25,winning a pawn.
+50,Bxg2,c6g2,q2r3k/p5p1/1p5p/4R3/8/PQ6/1P3PbP/2R3K1 w - - 0 26,winning a pawn.
+51,Qg3,b3g3,q2r3k/p5p1/1p5p/4R3/8/P5Q1/1P3PbP/2R3K1 b - - 1 26,planning to go qxg7 mate.
+52,Bc6,g2c6,q2r3k/p5p1/1pb4p/4R3/8/P5Q1/1P3P1P/2R3K1 w - - 2 27,planning to go qxg7 mate.
+53,Re7,e5e7,q2r3k/p3R1p1/1pb4p/8/8/P5Q1/1P3P1P/2R3K1 b - - 3 27,planning to go qxg7 mate.
+54,Rg8,d8g8,q5rk/p3R1p1/1pb4p/8/8/P5Q1/1P3P1P/2R3K1 w - - 4 28,attacking my bishop.
+55,Qg6,g3g6,q5rk/p3R1p1/1pb3Qp/8/8/P7/1P3P1P/2R3K1 b - - 5 28,attacking my bishop.

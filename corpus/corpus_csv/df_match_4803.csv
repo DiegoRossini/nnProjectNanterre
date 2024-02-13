@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+4,g6,g7g6,rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+5,c4,c2c4,rnbqkbnr/pp1ppp1p/6p1/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+6,Nc6,b8c6,r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+7,d4,d2d4,r1bqkbnr/pp1ppp1p/2n3p1/2p5/2PPP3/5N2/PP3PPP/RNBQKB1R b KQkq - 0 4,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+8,cxd4,c5d4,r1bqkbnr/pp1ppp1p/2n3p1/8/2PpP3/5N2/PP3PPP/RNBQKB1R w KQkq - 0 5,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+9,Nxd4,f3d4,r1bqkbnr/pp1ppp1p/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq - 0 5,"This is the infamous Maroczy bind. White makes sure that black will never be able to play ...d5.  The downside is potentially weak central dark squares, which the ""dragon bishop"" on g7 may be able to exploit."
+10,Bg7,f8g7,r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6,"This is the start of the variation I have prepared. The idea, believe it or not, is to transfer the N from c6 to e6 ..."
+11,Be3,c1e3,r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/4B3/PP3PPP/RN1QKB1R b KQkq - 2 6,"This is the start of the variation I have prepared. The idea, believe it or not, is to transfer the N from c6 to e6 ..."
+12,Nf6,g8f6,r1bqk2r/pp1pppbp/2n2np1/8/2PNP3/4B3/PP3PPP/RN1QKB1R w KQkq - 3 7,"This is the start of the variation I have prepared. The idea, believe it or not, is to transfer the N from c6 to e6 ..."
+13,Nc3,b1c3,r1bqk2r/pp1pppbp/2n2np1/8/2PNP3/2N1B3/PP3PPP/R2QKB1R b KQkq - 4 7,"This is the start of the variation I have prepared. The idea, believe it or not, is to transfer the N from c6 to e6 ..."
+14,Ng4,f6g4,r1bqk2r/pp1pppbp/2n3p1/8/2PNP1n1/2N1B3/PP3PPP/R2QKB1R w KQkq - 5 8,"This is the start of the variation I have prepared. The idea, believe it or not, is to transfer the N from c6 to e6 ..."
+15,Qxg4,d1g4,r1bqk2r/pp1pppbp/2n3p1/8/2PNP1Q1/2N1B3/PP3PPP/R3KB1R b KQkq - 0 8,"Not 9.Bxd4? Bxd4, and black is clearly better due to the bishop pair, and in particular the unrestricted DSB. If the white Q stays on g4, black can play ...d5! anyway due to the discovered attack."
+16,Nxd4,c6d4,r1bqk2r/pp1pppbp/6p1/8/2PnP1Q1/2N1B3/PP3PPP/R3KB1R w KQkq - 0 9,"Not 9.Bxd4? Bxd4, and black is clearly better due to the bishop pair, and in particular the unrestricted DSB. If the white Q stays on g4, black can play ...d5! anyway due to the discovered attack."
+17,Qd1,g4d1,r1bqk2r/pp1pppbp/6p1/8/2PnP3/2N1B3/PP3PPP/R2QKB1R b KQkq - 1 9,"Not 9.Bxd4? Bxd4, and black is clearly better due to the bishop pair, and in particular the unrestricted DSB. If the white Q stays on g4, black can play ...d5! anyway due to the discovered attack."
+18,Ne6,d4e6,r1bqk2r/pp1pppbp/4n1p1/8/2P1P3/2N1B3/PP3PPP/R2QKB1R w KQkq - 2 10,"On e6, the N keeps an eye on the critical central dark squares, c5, d4, and f4."
+19,Rc1,a1c1,r1bqk2r/pp1pppbp/4n1p1/8/2P1P3/2N1B3/PP3PPP/2RQKB1R b Kkq - 3 10,"Black's immediate threat was ...Bxc3+, wrecking white's Q-side pawns."
+20,Qa5,d8a5,r1b1k2r/pp1pppbp/4n1p1/q7/2P1P3/2N1B3/PP3PPP/2RQKB1R w Kkq - 4 11,Black must play actively to slow down white's development.
+21,Bd3,f1d3,r1b1k2r/pp1pppbp/4n1p1/q7/2P1P3/2NBB3/PP3PPP/2RQK2R b Kkq - 5 11,"This is the only suitable diagonal for black's LSB. With the B on b7, white has to be careful about pushing his K-side pawns. Also, the B keeps an eye on d5, and can be traded for white's N if necessary."
+22,b6,b7b6,r1b1k2r/p2pppbp/1p2n1p1/q7/2P1P3/2NBB3/PP3PPP/2RQK2R w Kkq - 0 12,"This is the only suitable diagonal for black's LSB. With the B on b7, white has to be careful about pushing his K-side pawns. Also, the B keeps an eye on d5, and can be traded for white's N if necessary."
+23,O-O,e1g1,r1b1k2r/p2pppbp/1p2n1p1/q7/2P1P3/2NBB3/PP3PPP/2RQ1RK1 b kq - 1 12,"This is the only suitable diagonal for black's LSB. With the B on b7, white has to be careful about pushing his K-side pawns. Also, the B keeps an eye on d5, and can be traded for white's N if necessary."
+24,Bb7,c8b7,r3k2r/pb1pppbp/1p2n1p1/q7/2P1P3/2NBB3/PP3PPP/2RQ1RK1 w kq - 2 13,"This is the only suitable diagonal for black's LSB. With the B on b7, white has to be careful about pushing his K-side pawns. Also, the B keeps an eye on d5, and can be traded for white's N if necessary."
+25,f4,f2f4,r3k2r/pb1pppbp/1p2n1p1/q7/2P1PP2/2NBB3/PP4PP/2RQ1RK1 b kq - 0 13,"I don't think that white should move the f-pawn in this variation. With both e3 and d4 weak, black can get a lot of play on the dark squares. IMO, this pawn needs to stay on f2 to keep the a7-g1 diagonal sealed, at least until the black DSB has been dealt with."
+26,d6,d7d6,r3k2r/pb2ppbp/1p1pn1p1/q7/2P1PP2/2NBB3/PP4PP/2RQ1RK1 w kq - 0 14,"The GK computer doesn't like this move, preferring 14.Rf2. I think both 14.Qe2 and 14.Bb1 give black a lot more problems than 14.Rf2, but that's a story for another annotation ;)"
+27,a4,a2a4,r3k2r/pb2ppbp/1p1pn1p1/q7/P1P1PP2/2NBB3/1P4PP/2RQ1RK1 b kq - 0 14,"The GK computer doesn't like this move, preferring 14.Rf2. I think both 14.Qe2 and 14.Bb1 give black a lot more problems than 14.Rf2, but that's a story for another annotation ;)"
+28,Nc5,e6c5,r3k2r/pb2ppbp/1p1p2p1/q1n5/P1P1PP2/2NBB3/1P4PP/2RQ1RK1 w kq - 1 15,White's a-pawn advance allows black to threaten ...Qb4 and ...Nb3
+29,Bxc5,e3c5,r3k2r/pb2ppbp/1p1p2p1/q1B5/P1P1PP2/2NB4/1P4PP/2RQ1RK1 b kq - 0 15,"Giving up the DSB is a big positional blunder, as now black's own DSB can become a monster.  Better is 15.Nd5 Bxd5 16.cxd5 O-O 17.Bb5 Qb4, with an equal position."
+30,bxc5,b6c5,r3k2r/pb2ppbp/3p2p1/q1p5/P1P1PP2/2NB4/1P4PP/2RQ1RK1 w kq - 0 16,"White might own d5, but now black owns d4, and with it the a7-g1 diagonal."
+31,Qe2,d1e2,r3k2r/pb2ppbp/3p2p1/q1p5/P1P1PP2/2NB4/1P2Q1PP/2R2RK1 b kq - 1 16,Trying to seal in the bishop on g7.
+32,O-O,e8g8,r4rk1/pb2ppbp/3p2p1/q1p5/P1P1PP2/2NB4/1P2Q1PP/2R2RK1 w - - 2 17,Trying to seal in the bishop on g7.
+33,e5,e4e5,r4rk1/pb2ppbp/3p2p1/q1p1P3/P1P2P2/2NB4/1P2Q1PP/2R2RK1 b - - 0 17,Trying to seal in the bishop on g7.
+34,dxe5,d6e5,r4rk1/pb2ppbp/6p1/q1p1p3/P1P2P2/2NB4/1P2Q1PP/2R2RK1 w - - 0 18,Planning to sac the exchange in order to activate the bishops
+35,fxe5,f4e5,r4rk1/pb2ppbp/6p1/q1p1P3/P1P5/2NB4/1P2Q1PP/2R2RK1 b - - 0 18,Planning to sac the exchange in order to activate the bishops
+36,Qb6,a5b6,r4rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NB4/1P2Q1PP/2R2RK1 w - - 1 19,Planning to sac the exchange in order to activate the bishops
+37,Rf2,f1f2,r4rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NB4/1P2QRPP/2R3K1 b - - 2 19,Planning to sac the exchange in order to activate the bishops
+38,Rad8,a8d8,3r1rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NB4/1P2QRPP/2R3K1 w - - 3 20,Planning to sac the exchange in order to activate the bishops
+39,Qe3,e2e3,3r1rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NBQ3/1P3RPP/2R3K1 b - - 4 20,Black is winning. The active bishops and dark-square control are more than enough compensation for the exchange.
+40,Rxd3,d8d3,5rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NrQ3/1P3RPP/2R3K1 w - - 0 21,Black is winning. The active bishops and dark-square control are more than enough compensation for the exchange.
+41,Qxd3,e3d3,5rk1/pb2ppbp/1q4p1/2p1P3/P1P5/2NQ4/1P3RPP/2R3K1 b - - 0 21,Black is winning. The active bishops and dark-square control are more than enough compensation for the exchange.
+42,Bxe5,g7e5,5rk1/pb2pp1p/1q4p1/2p1b3/P1P5/2NQ4/1P3RPP/2R3K1 w - - 0 22,Black is winning. The active bishops and dark-square control are more than enough compensation for the exchange.
+43,Kh1,g1h1,5rk1/pb2pp1p/1q4p1/2p1b3/P1P5/2NQ4/1P3RPP/2R4K b - - 1 22,"Oh, I forgot to mention the passed e-pawn, too."
+44,Bd4,e5d4,5rk1/pb2pp1p/1q4p1/2p5/P1Pb4/2NQ4/1P3RPP/2R4K w - - 2 23,"Oh, I forgot to mention the passed e-pawn, too."
+45,Re2,f2e2,5rk1/pb2pp1p/1q4p1/2p5/P1Pb4/2NQ4/1P2R1PP/2R4K b - - 3 23,"Oh, I forgot to mention the passed e-pawn, too."
+46,e5,e7e5,5rk1/pb3p1p/1q4p1/2p1p3/P1Pb4/2NQ4/1P2R1PP/2R4K w - - 0 24,"Oh, I forgot to mention the passed e-pawn, too."
+47,Nb5,c3b5,5rk1/pb3p1p/1q4p1/1Np1p3/P1Pb4/3Q4/1P2R1PP/2R4K b - - 1 24,Black has no desire to trade his best piece for a mere knight.
+48,e4,e5e4,5rk1/pb3p1p/1q4p1/1Np5/P1Pbp3/3Q4/1P2R1PP/2R4K w - - 0 25,Black has no desire to trade his best piece for a mere knight.
+49,Qb3,d3b3,5rk1/pb3p1p/1q4p1/1Np5/P1Pbp3/1Q6/1P2R1PP/2R4K b - - 1 25,Black has no desire to trade his best piece for a mere knight.
+50,Be5,d4e5,5rk1/pb3p1p/1q4p1/1Np1b3/P1P1p3/1Q6/1P2R1PP/2R4K w - - 2 26,Black has no desire to trade his best piece for a mere knight.
+51,Qe3,b3e3,5rk1/pb3p1p/1q4p1/1Np1b3/P1P1p3/4Q3/1P2R1PP/2R4K b - - 3 26,Chasing away the N so that the B can return to his post on d4.
+52,a6,a7a6,5rk1/1b3p1p/pq4p1/1Np1b3/P1P1p3/4Q3/1P2R1PP/2R4K w - - 0 27,Chasing away the N so that the B can return to his post on d4.
+53,Nc3,b5c3,5rk1/1b3p1p/pq4p1/2p1b3/P1P1p3/2N1Q3/1P2R1PP/2R4K b - - 1 27,"Black now has a K-side attack brewing, with both B's pointed at white's K."
+54,Bd4,e5d4,5rk1/1b3p1p/pq4p1/2p5/P1Pbp3/2N1Q3/1P2R1PP/2R4K w - - 2 28,"Black now has a K-side attack brewing, with both B's pointed at white's K."
+55,Qd2,e3d2,5rk1/1b3p1p/pq4p1/2p5/P1Pbp3/2N5/1P1QR1PP/2R4K b - - 3 28,"Black now has a K-side attack brewing, with both B's pointed at white's K."
+56,f5,f7f5,5rk1/1b5p/pq4p1/2p2p2/P1Pbp3/2N5/1P1QR1PP/2R4K w - - 0 29,"Black now has a K-side attack brewing, with both B's pointed at white's K."
+57,Qc2,d2c2,5rk1/1b5p/pq4p1/2p2p2/P1Pbp3/2N5/1PQ1R1PP/2R4K b - - 1 29,"Threatening ...Be5, with mate to follow."
+58,Qe6,b6e6,5rk1/1b5p/p3q1p1/2p2p2/P1Pbp3/2N5/1PQ1R1PP/2R4K w - - 2 30,"Threatening ...Be5, with mate to follow."
+59,Qb3,c2b3,5rk1/1b5p/p3q1p1/2p2p2/P1Pbp3/1QN5/1P2R1PP/2R4K b - - 3 30,"Threatening ...Be5, with mate to follow."
+60,Rb8,f8b8,1r4k1/1b5p/p3q1p1/2p2p2/P1Pbp3/1QN5/1P2R1PP/2R4K w - - 4 31,"Threatening ...Be5, with mate to follow."
+61,a5,a4a5,1r4k1/1b5p/p3q1p1/P1p2p2/2Pbp3/1QN5/1P2R1PP/2R4K b - - 0 31,"Threatening ...Be5, with mate to follow."
+62,Qe5,e6e5,1r4k1/1b5p/p5p1/P1p1qp2/2Pbp3/1QN5/1P2R1PP/2R4K w - - 1 32,"Threatening ...Be5, with mate to follow."
+63,Qa4,b3a4,1r4k1/1b5p/p5p1/P1p1qp2/Q1Pbp3/2N5/1P2R1PP/2R4K b - - 2 32,"Threatening ...Be5, with mate to follow."
+64,Qf4,e5f4,1r4k1/1b5p/p5p1/P1p2p2/Q1Pbpq2/2N5/1P2R1PP/2R4K w - - 3 33,"Threatening ...Be5, with mate to follow."

@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"King's Pawn, Patzer Opening.
+
+Bringing the queen out early allows your opponent to chase her around the board.  He develops his pieces while you move the same one over and over.  If black answers with Pg6, great!  You get a rook.  Or if black plays Nc6 to protect the pawn, you might shoot for the four move mate with Bc4.  Black will probably counter that, however.  It is better to play conservatively unless you know your opponent is likely to be easy prey."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"King's Pawn, Patzer Opening.
+
+Bringing the queen out early allows your opponent to chase her around the board.  He develops his pieces while you move the same one over and over.  If black answers with Pg6, great!  You get a rook.  Or if black plays Nc6 to protect the pawn, you might shoot for the four move mate with Bc4.  Black will probably counter that, however.  It is better to play conservatively unless you know your opponent is likely to be easy prey."
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"King's Pawn, Patzer Opening.
+
+Bringing the queen out early allows your opponent to chase her around the board.  He develops his pieces while you move the same one over and over.  If black answers with Pg6, great!  You get a rook.  Or if black plays Nc6 to protect the pawn, you might shoot for the four move mate with Bc4.  Black will probably counter that, however.  It is better to play conservatively unless you know your opponent is likely to be easy prey."
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"Not in the database.  Nf3 attacks Pe5, this is a more popular response, to which black counters with d6 or something else."
+5,g4,g2g4,rnb1kbnr/pppp1ppp/5q2/4p2Q/4P1P1/8/PPPP1P1P/RNB1KBNR b KQkq - 0 3,"Not in the database.  Nf3 attacks Pe5, this is a more popular response, to which black counters with d6 or something else."
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p2Q/4P1P1/8/PPPP1P1P/RNB1KBNR w KQkq - 1 4,"Now black is setting up for a ""four move"" checkmate against white."
+7,Ne2,g1e2,rnb1k1nr/pppp1ppp/5q2/2b1p2Q/4P1P1/8/PPPPNP1P/RNB1KB1R b KQkq - 2 4,Nice.
+8,Qxf2+,f6f2,rnb1k1nr/pppp1ppp/8/2b1p2Q/4P1P1/8/PPPPNq1P/RNB1KB1R w KQkq - 0 5,Nice.
+9,Kd1,e1d1,rnb1k1nr/pppp1ppp/8/2b1p2Q/4P1P1/8/PPPPNq1P/RNBK1B1R b kq - 1 5,Nice.
+10,Nf6,g8f6,rnb1k2r/pppp1ppp/5n2/2b1p2Q/4P1P1/8/PPPPNq1P/RNBK1B1R w kq - 2 6,Nice.
+11,Qxe5+,h5e5,rnb1k2r/pppp1ppp/5n2/2b1Q3/4P1P1/8/PPPPNq1P/RNBK1B1R b kq - 0 6,Nice.
+12,Kd8,e8d8,rnbk3r/pppp1ppp/5n2/2b1Q3/4P1P1/8/PPPPNq1P/RNBK1B1R w - - 1 7,"Black may be thinking Qf3, to attack the h rook.  Ph4 gives white a little wiggle room."
+13,g5,g4g5,rnbk3r/pppp1ppp/5n2/2b1Q1P1/4P3/8/PPPPNq1P/RNBK1B1R b - - 0 7,"I wondered if white might be thinking that.  The trouble is, Nh5 protects Pg7."
+14,Ne8,f6e8,rnbkn2r/pppp1ppp/8/2b1Q1P1/4P3/8/PPPPNq1P/RNBK1B1R w - - 1 8,The bishop is worth less than the rook.
+15,d4,d2d4,rnbkn2r/pppp1ppp/8/2b1Q1P1/3PP3/8/PPP1Nq1P/RNBK1B1R b - - 0 8,The bishop is worth less than the rook.
+16,Qf3,f2f3,rnbkn2r/pppp1ppp/8/2b1Q1P1/3PP3/5q2/PPP1N2P/RNBK1B1R w - - 1 9,The bishop is worth less than the rook.
+17,Qxc5,e5c5,rnbkn2r/pppp1ppp/8/2Q3P1/3PP3/5q2/PPP1N2P/RNBK1B1R b - - 0 9,The bishop is worth less than the rook.
+18,Qxe4,f3e4,rnbkn2r/pppp1ppp/8/2Q3P1/3Pq3/8/PPP1N2P/RNBK1B1R w - - 0 10,The rook (QxRh1) is worth much more than the pawn (Qxe4).  Following that white must defend against QxBf1+.
+19,Nbc3,b1c3,rnbkn2r/pppp1ppp/8/2Q3P1/3Pq3/2N5/PPP1N2P/R1BK1B1R b - - 1 10,This just encourages QxRh1.  White should play Ng3 instead.  Qf3+ could be answered with Be2 while the knight covers the rook.
+20,Qxh1,e4h1,rnbkn2r/pppp1ppp/8/2Q3P1/3P4/2N5/PPP1N2P/R1BK1B1q w - - 0 11,QxPh2 instead and the black queen just about mops up white's king side.
+21,Qf5,c5f5,rnbkn2r/pppp1ppp/8/5QP1/3P4/2N5/PPP1N2P/R1BK1B1q b - - 1 11,QxPh2 instead and the black queen just about mops up white's king side.
+22,g6,g7g6,rnbkn2r/pppp1p1p/6p1/5QP1/3P4/2N5/PPP1N2P/R1BK1B1q w - - 0 12,QxPh2 instead and the black queen just about mops up white's king side.
+23,Qe5,f5e5,rnbkn2r/pppp1p1p/6p1/4Q1P1/3P4/2N5/PPP1N2P/R1BK1B1q b - - 1 12,"Uh, no, the knight (e8) is covering that square."
+24,Qxf1+,h1f1,rnbkn2r/pppp1p1p/6p1/4Q1P1/3P4/2N5/PPP1N2P/R1BK1q2 w - - 0 13,"Uh, no, the knight (e8) is covering that square."
+25,Kd2,d1d2,rnbkn2r/pppp1p1p/6p1/4Q1P1/3P4/2N5/PPPKN2P/R1B2q2 b - - 1 13,"Uh, no, the knight (e8) is covering that square."
+26,Rf8,h8f8,rnbknr2/pppp1p1p/6p1/4Q1P1/3P4/2N5/PPPKN2P/R1B2q2 w - - 2 14,"Uh, no, the knight (e8) is covering that square."
+27,Ng3,e2g3,rnbknr2/pppp1p1p/6p1/4Q1P1/3P4/2N3N1/PPPK3P/R1B2q2 b - - 3 14,"Uh, no, the knight (e8) is covering that square."
+28,Qg2+,f1g2,rnbknr2/pppp1p1p/6p1/4Q1P1/3P4/2N3N1/PPPK2qP/R1B5 w - - 4 15,"Uh, no, the knight (e8) is covering that square."
+29,Nce2,c3e2,rnbknr2/pppp1p1p/6p1/4Q1P1/3P4/6N1/PPPKN1qP/R1B5 b - - 5 15,"Uh, no, the knight (e8) is covering that square."
+30,d6,d7d6,rnbknr2/ppp2p1p/3p2p1/4Q1P1/3P4/6N1/PPPKN1qP/R1B5 w - - 0 16,"Uh, no, the knight (e8) is covering that square."
+31,Qg7,e5g7,rnbknr2/ppp2pQp/3p2p1/6P1/3P4/6N1/PPPKN1qP/R1B5 b - - 1 16,"Uh, no, the knight (e8) is covering that square."
+32,Nxg7,e8g7,rnbk1r2/ppp2pnp/3p2p1/6P1/3P4/6N1/PPPKN1qP/R1B5 w - - 0 17,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+33,Kc3,d2c3,rnbk1r2/ppp2pnp/3p2p1/6P1/3P4/2K3N1/PPP1N1qP/R1B5 b - - 1 17,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+34,Nf5,g7f5,rnbk1r2/ppp2p1p/3p2p1/5nP1/3P4/2K3N1/PPP1N1qP/R1B5 w - - 2 18,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+35,Nf4,e2f4,rnbk1r2/ppp2p1p/3p2p1/5nP1/3P1N2/2K3N1/PPP3qP/R1B5 b - - 3 18,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+36,Qxh2,g2h2,rnbk1r2/ppp2p1p/3p2p1/5nP1/3P1N2/2K3N1/PPP4q/R1B5 w - - 0 19,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+37,Nd5,f4d5,rnbk1r2/ppp2p1p/3p2p1/3N1nP1/3P4/2K3N1/PPP4q/R1B5 b - - 1 19,"Black has two pieces on Ng3.  Nf4 was protected by Bc1.  Nge2 would let the knights protect each other, and probably beats NxNf5 which would permit black to play Bf5, threatening QxPc2+.  Down 16 points white doesn't really want fair trades, but the deficit is so large he must consider playing for a stale mate."
+38,Qxg3+,h2g3,rnbk1r2/ppp2p1p/3p2p1/3N1nP1/3P4/2K3q1/PPP5/R1B5 w - - 0 20,Kb4 might have stretched the game out a bit further.
+39,Kc4,c3c4,rnbk1r2/ppp2p1p/3p2p1/3N1nP1/2KP4/6q1/PPP5/R1B5 b - - 1 20,Kb4 might have stretched the game out a bit further.
+40,Be6,c8e6,rn1k1r2/ppp2p1p/3pb1p1/3N1nP1/2KP4/6q1/PPP5/R1B5 w - - 2 21,"This threat is empty as white cannot play NxQf4 due to ""discovered check.""  Black should take the free bishop."
+41,Bf4,c1f4,rn1k1r2/ppp2p1p/3pb1p1/3N1nP1/2KP1B2/6q1/PPP5/R7 b - - 3 21,"This threat is empty as white cannot play NxQf4 due to ""discovered check.""  Black should take the free bishop."
+42,Bxd5+,e6d5,rn1k1r2/ppp2p1p/3p2p1/3b1nP1/2KP1B2/6q1/PPP5/R7 w - - 0 22,"Here Rd1 would be a bad idea--Qf3+ gives black the rook.  I would suggest Pc3 to protect against QxPd4#, and write off the g pawn as hopelessly lost."
+43,Kxd5,c4d5,rn1k1r2/ppp2p1p/3p2p1/3K1nP1/3P1B2/6q1/PPP5/R7 b - - 0 22,"Here Rd1 would be a bad idea--Qf3+ gives black the rook.  I would suggest Pc3 to protect against QxPd4#, and write off the g pawn as hopelessly lost."
+44,Qxf4,g3f4,rn1k1r2/ppp2p1p/3p2p1/3K1nP1/3P1q2/8/PPP5/R7 w - - 0 23,"Here Rd1 would be a bad idea--Qf3+ gives black the rook.  I would suggest Pc3 to protect against QxPd4#, and write off the g pawn as hopelessly lost."
+45,Rg1,a1g1,rn1k1r2/ppp2p1p/3p2p1/3K1nP1/3P1q2/8/PPP5/6R1 b - - 1 23,"While Pg5 is valuable (being white's furthest advance pawn), there is little hope of promoting it and that center pawn is really more important, particularly given the king hanging out in the center of the field."
+46,Qxd4#,f4d4,rn1k1r2/ppp2p1p/3p2p1/3K1nP1/3q4/8/PPP5/6R1 w - - 0 24,

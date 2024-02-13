@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kamikaze
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,pin
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,pin
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,pin
+5,Bc4,f1c4,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,pin
+6,Bxf2+,c5f2,rnbqk1nr/pppp1ppp/8/4p3/2B1P3/5N2/PPPP1bPP/RNBQK2R w KQkq - 0 4,pin
+7,Kxf2,e1f2,rnbqk1nr/pppp1ppp/8/4p3/2B1P3/5N2/PPPP1KPP/RNBQ3R b kq - 0 4,pin
+8,d5,d7d5,rnbqk1nr/ppp2ppp/8/3pp3/2B1P3/5N2/PPPP1KPP/RNBQ3R w kq - 0 5,pin
+9,Bxd5,c4d5,rnbqk1nr/ppp2ppp/8/3Bp3/4P3/5N2/PPPP1KPP/RNBQ3R b kq - 0 5,pin
+10,Nc6,b8c6,r1bqk1nr/ppp2ppp/2n5/3Bp3/4P3/5N2/PPPP1KPP/RNBQ3R w kq - 1 6,pin
+11,Bxc6+,d5c6,r1bqk1nr/ppp2ppp/2B5/4p3/4P3/5N2/PPPP1KPP/RNBQ3R b kq - 0 6,pin
+12,bxc6,b7c6,r1bqk1nr/p1p2ppp/2p5/4p3/4P3/5N2/PPPP1KPP/RNBQ3R w kq - 0 7,pin
+13,Re1,h1e1,r1bqk1nr/p1p2ppp/2p5/4p3/4P3/5N2/PPPP1KPP/RNBQR3 b kq - 1 7,pin
+14,Bg4,c8g4,r2qk1nr/p1p2ppp/2p5/4p3/4P1b1/5N2/PPPP1KPP/RNBQR3 w kq - 2 8,pin
+15,h3,h2h3,r2qk1nr/p1p2ppp/2p5/4p3/4P1b1/5N1P/PPPP1KP1/RNBQR3 b kq - 0 8,opportunity
+16,h5,h7h5,r2qk1nr/p1p2pp1/2p5/4p2p/4P1b1/5N1P/PPPP1KP1/RNBQR3 w kq - 0 9,finally some position
+17,hxg4,h3g4,r2qk1nr/p1p2pp1/2p5/4p2p/4P1P1/5N2/PPPP1KP1/RNBQR3 b kq - 0 9,finally some position
+18,hxg4,h5g4,r2qk1nr/p1p2pp1/2p5/4p3/4P1p1/5N2/PPPP1KP1/RNBQR3 w kq - 0 10,finally some position
+19,Ng1,f3g1,r2qk1nr/p1p2pp1/2p5/4p3/4P1p1/8/PPPP1KP1/RNBQR1N1 b kq - 1 10,king on the run
+20,Qh4+,d8h4,r3k1nr/p1p2pp1/2p5/4p3/4P1pq/8/PPPP1KP1/RNBQR1N1 w kq - 2 11,king on the run
+21,Ke2,f2e2,r3k1nr/p1p2pp1/2p5/4p3/4P1pq/8/PPPPK1P1/RNBQR1N1 b kq - 3 11,making way for rook/corner king
+22,Qg3,h4g3,r3k1nr/p1p2pp1/2p5/4p3/4P1p1/6q1/PPPPK1P1/RNBQR1N1 w kq - 4 12,making way for rook/corner king
+23,Kf1,e2f1,r3k1nr/p1p2pp1/2p5/4p3/4P1p1/6q1/PPPP2P1/RNBQRKN1 b kq - 5 12,protect pawn
+24,Rh1,h8h1,r3k1n1/p1p2pp1/2p5/4p3/4P1p1/6q1/PPPP2P1/RNBQRKNr w q - 6 13,"I could have gone Qf4, but did""nt"
+25,Qe2,d1e2,r3k1n1/p1p2pp1/2p5/4p3/4P1p1/6q1/PPPPQ1P1/RNB1RKNr b q - 7 13,interesting...
+26,Qh2,g3h2,r3k1n1/p1p2pp1/2p5/4p3/4P1p1/8/PPPPQ1Pq/RNB1RKNr w q - 8 14,interesting...
+27,Qe3,e2e3,r3k1n1/p1p2pp1/2p5/4p3/4P1p1/4Q3/PPPP2Pq/RNB1RKNr b q - 9 14,"night to attack e4 then queen g1, then Ke2 then Qxrook etc"
+28,Nf6,g8f6,r3k3/p1p2pp1/2p2n2/4p3/4P1p1/4Q3/PPPP2Pq/RNB1RKNr w q - 10 15,"night to attack e4 then queen g1, then Ke2 then Qxrook etc"
+29,d3,d2d3,r3k3/p1p2pp1/2p2n2/4p3/4P1p1/3PQ3/PPP3Pq/RNB1RKNr b q - 0 15,not!
+30,Nh5,f6h5,r3k3/p1p2pp1/2p5/4p2n/4P1p1/3PQ3/PPP3Pq/RNB1RKNr w q - 1 16,develop
+31,Ke2,f1e2,r3k3/p1p2pp1/2p5/4p2n/4P1p1/3PQ3/PPP1K1Pq/RNB1R1Nr b q - 2 16,"perhaps I could have done more here, but I thought I should castle to further development"
+32,O-O-O,e8c8,2kr4/p1p2pp1/2p5/4p2n/4P1p1/3PQ3/PPP1K1Pq/RNB1R1Nr w - - 3 17,kamikaze
+33,Kd1,e2d1,2kr4/p1p2pp1/2p5/4p2n/4P1p1/3PQ3/PPP3Pq/RNBKR1Nr b - - 4 17,kamikaze
+34,Nf4,h5f4,2kr4/p1p2pp1/2p5/4p3/4Pnp1/3PQ3/PPP3Pq/RNBKR1Nr w - - 5 18,kamikaze
+35,Qxa7,e3a7,2kr4/Q1p2pp1/2p5/4p3/4Pnp1/3P4/PPP3Pq/RNBKR1Nr b - - 0 18,kamikaze
+36,Rxd3+,d8d3,2k5/Q1p2pp1/2p5/4p3/4Pnp1/3r4/PPP3Pq/RNBKR1Nr w - - 0 19,kamikaze
+37,cxd3,c2d3,2k5/Q1p2pp1/2p5/4p3/4Pnp1/3P4/PP4Pq/RNBKR1Nr b - - 0 19,white should have done Qa6
+38,Nxd3,f4d3,2k5/Q1p2pp1/2p5/4p3/4P1p1/3n4/PP4Pq/RNBKR1Nr w - - 0 20,white should have done Qa6
+39,Bd2,c1d2,2k5/Q1p2pp1/2p5/4p3/4P1p1/3n4/PP1B2Pq/RN1KR1Nr b - - 1 20,I think it was shock
+40,Nxe1,d3e1,2k5/Q1p2pp1/2p5/4p3/4P1p1/8/PP1B2Pq/RN1Kn1Nr w - - 0 21,I think it was shock
+41,Bxe1,d2e1,2k5/Q1p2pp1/2p5/4p3/4P1p1/8/PP4Pq/RN1KB1Nr b - - 0 21,going for queen
+42,Rxg1,h1g1,2k5/Q1p2pp1/2p5/4p3/4P1p1/8/PP4Pq/RN1KB1r1 w - - 0 22,going for queen
+43,Qe3,a7e3,2k5/2p2pp1/2p5/4p3/4P1p1/4Q3/PP4Pq/RN1KB1r1 b - - 1 22,going for queen
+44,Rxg2,g1g2,2k5/2p2pp1/2p5/4p3/4P1p1/4Q3/PP4rq/RN1KB3 w - - 0 23,going for queen
+45,Nd2,b1d2,2k5/2p2pp1/2p5/4p3/4P1p1/4Q3/PP1N2rq/R2KB3 b - - 1 23,going for queen
+46,g3,g4g3,2k5/2p2pp1/2p5/4p3/4P3/4Q1p1/PP1N2rq/R2KB3 w - - 0 24,going for queen
+47,Rc1,a1c1,2k5/2p2pp1/2p5/4p3/4P3/4Q1p1/PP1N2rq/2RKB3 b - - 1 24,If I could pull this off
+48,Qh5+,h2h5,2k5/2p2pp1/2p5/4p2q/4P3/4Q1p1/PP1N2r1/2RKB3 w - - 2 25,move out of pin
+49,Kc2,d1c2,2k5/2p2pp1/2p5/4p2q/4P3/4Q1p1/PPKN2r1/2R1B3 b - - 3 25,move out of pin
+50,Qg4,h5g4,2k5/2p2pp1/2p5/4p3/4P1q1/4Q1p1/PPKN2r1/2R1B3 w - - 4 26,move out of pin
+51,Kc3,c2c3,2k5/2p2pp1/2p5/4p3/4P1q1/2K1Q1p1/PP1N2r1/2R1B3 b - - 5 26,move out of pin
+52,Qh3,g4h3,2k5/2p2pp1/2p5/4p3/4P3/2K1Q1pq/PP1N2r1/2R1B3 w - - 6 27,stopping the night
+53,Nf3,d2f3,2k5/2p2pp1/2p5/4p3/4P3/2K1QNpq/PP4r1/2R1B3 b - - 7 27,stopping the night
+54,f6,f7f6,2k5/2p3p1/2p2p2/4p3/4P3/2K1QNpq/PP4r1/2R1B3 w - - 0 28,stopping the night

@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I played in a simul once when I was 9 (and lost in something like 50 moves), and the guy giving the simul had white on all the boards, and played 1. e4 against me... I wonder if it's a theme among advanced chess players?"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The scandinavian (or center-counter) defense, where black's queen comes out early but he normally winds up with a solid position, especially if white devotes too much time to chasing the queen."
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"2. ...Nf6 is less common, but also sound."
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,"2. ...Nf6 is less common, but also sound."
+5,Nc3,b1c3,rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 3,"A natural developing move, forcing the queen to move."
+6,Qa5,d5a5,rnb1kbnr/ppp1pppp/8/q7/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4,"No surprises.  An interesting alternative for black is Qd6.  In my very first gameknot game, black played 3. ...Qc6???, which loses immediately to 4. Bb5!, so watch out for that trap!"
+7,d4,d2d4,rnb1kbnr/ppp1pppp/8/q7/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,All standard so far.
+8,c6,c7c6,rnb1kbnr/pp2pppp/2p5/q7/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,"Slightly more common is 4. ...Nf6, but this is a good move, as it allows Qc7, which is generally a good square for the queen after a move like 5. Bd2."
+9,Nf3,g1f3,rnb1kbnr/pp2pppp/2p5/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5,Just keeps on developing.  This game is pretty unremarkable so far.
+10,Bg4,c8g4,rn2kbnr/pp2pppp/2p5/q7/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6,"5. ...Nf6 and 5. ...Bf5 are good alternatives to this move, which pins the knight, but will often lead to black ceding the bishop pair after white plays h3."
+11,Bf4,c1f4,rn2kbnr/pp2pppp/2p5/q7/3P1Bb1/2N2N2/PPP2PPP/R2QKB1R b KQkq - 3 6,"Denying black the use of the c7 square for his queen, and solidifying white's ownership of e5.  This move is unpopular, however, and 6. h3, 6. Be2, 6. Bc4, and even the super-obvious 6. Bd2 are more common than this move, which seems to allow a long-term pin on the Nc3, at least until white castles.
+
+A reasonable plan for black in the face of this unusual move is 6. ...e6 followed by 7. ...Bb4."
+12,e6,e7e6,rn2kbnr/pp3ppp/2p1p3/q7/3P1Bb1/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 7,And black sees this as well!
+13,h3,h2h3,rn2kbnr/pp3ppp/2p1p3/q7/3P1Bb1/2N2N1P/PPP2PP1/R2QKB1R b KQkq - 0 7,"And now that the c8-h3 diagonal has been closed, it makes sense for white to break the pin on the Nf3; it looks like he may emerge with the two bishops after all."
+14,Bxf3,g4f3,rn2kbnr/pp3ppp/2p1p3/q7/3P1B2/2N2b1P/PPP2PP1/R2QKB1R w KQkq - 0 8,"This perfectly natural move has never been seen on gameknot before... but there's nothing terrible about it.  I prefer Bh5 myself, as the text develops white's queen for him."
+15,Qxf3,d1f3,rn2kbnr/pp3ppp/2p1p3/q7/3P1B2/2N2Q1P/PPP2PP1/R3KB1R b KQkq - 0 8,"Of course.  Now, white is ahead in development, but black's position looks pretty solid, and he still has Bb4, but it doesn't look so menacing with a queen on f3."
+16,Bb4,f8b4,rn2k1nr/pp3ppp/2p1p3/q7/1b1P1B2/2N2Q1P/PPP2PP1/R3KB1R w KQkq - 1 9,"Okay, now I'm not sure whether this is a bad move objectively or not, but I don't like it.  It seems far too optimistic of black, given his developmental deficit and the fact that both his knights are still at home.  
+
+I would've thought about Be7 or Nf6 instead, here, trying to catch up in development."
+17,Be2,f1e2,rn2k1nr/pp3ppp/2p1p3/q7/1b1P1B2/2N2Q1P/PPP1BPP1/R3K2R b KQkq - 2 9,"White continues his development, looking to castle kingside, perhaps.  The e2 square suits the bishop, where it can eye both sides of the board -- developing to c4 or d3 restricts its mobility, given the position of the black pawns."
+18,Nd7,b8d7,r3k1nr/pp1n1ppp/2p1p3/q7/1b1P1B2/2N2Q1P/PPP1BPP1/R3K2R w KQkq - 3 10,"?  This move gets a question mark, not because it's a bad move, but because it's the start of a dubious plan by black.  This anticipates a queenside castle, but that's a pretty poor decision given white's development.  
+
+Better, I think, would've been 9. ...Nf6 followed by 0-0."
+19,a3,a2a3,r3k1nr/pp1n1ppp/2p1p3/q7/1b1P1B2/P1N2Q1P/1PP1BPP1/R3K2R b KQkq - 0 10,"!?  An interesting trap!  While black isn't afraid of axb4 because of Qxa1 , there is an unbelievable combination if black plays 0-0-0, instead of, say, Nf6 next."
+20,O-O-O,e8c8,2kr2nr/pp1n1ppp/2p1p3/q7/1b1P1B2/P1N2Q1P/1PP1BPP1/R3K2R w KQ - 1 11,"???  Noooooo... how many times have you been warned against ""castling into it"", no name?  Now black falls victim to an amazing sacrificial combination."
+21,axb4,a3b4,2kr2nr/pp1n1ppp/2p1p3/q7/1P1P1B2/2N2Q1P/1PP1BPP1/R3K2R b KQ - 0 11,!  Excellent here.  White offers black the exchange.

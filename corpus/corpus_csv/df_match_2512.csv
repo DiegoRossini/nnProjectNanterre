@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Opens Bc1 diagonal c1-h6 and makes space
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Indian defense Knights attacks center square e4
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Gains more space and gets more control over d5 square
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Prepares to kingside castle and control black squares on diagonal a1-h8
+5,Nf3,g1f3,rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,Instead of building a pawn center with e4 I went with developing Bg2 to control whites squares on h1-a8 diagonal
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Instead of building a pawn center with e4 I went with developing Bg2 to control whites squares on h1-a8 diagonal
+7,Nc3,b1c3,rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,Instead of building a pawn center with e4 I went with developing Bg2 to control whites squares on h1-a8 diagonal
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,Instead of building a pawn center with e4 I went with developing Bg2 to control whites squares on h1-a8 diagonal
+9,g3,g2g3,rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 5,Instead of building a pawn center with e4 I went with developing Bg2 to control whites squares on h1-a8 diagonal
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PP1P/R1BQKB1R w KQ - 1 6,Black gets more control on e5 square
+11,Bg2,f1g2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQ - 2 6,Black gets more control on e5 square
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 3 7,Black gets more control on e5 square
+13,O-O,e1g1,r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 4 7,Preparing to challenge black bishop on g7
+14,c5,c7c5,r1bq1rk1/pp1nppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8,Preparing to challenge black bishop on g7
+15,b3,b2b3,r1bq1rk1/pp1nppbp/3p1np1/2p5/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8,Preparing to challenge black bishop on g7
+16,Rb8,a8b8,1rbq1rk1/pp1nppbp/3p1np1/2p5/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 w - - 1 9,It is important to note that black sticks with his plan to attack on queenside and control of black squares. From here my plan was to trade black bishops to weakend his control of dark squares and then to keep my control of whites squares on h1-a8 diagonal
+17,Bb2,c1b2,1rbq1rk1/pp1nppbp/3p1np1/2p5/2PP4/1PN2NP1/PB2PPBP/R2Q1RK1 b - - 2 9,Here I came up with another plan that was to control the C-file which was soon to be open after b5 it is also important to note that control of open files with rooks is a huge positional advantage latter in the game but this is not always the case in certain positions
+18,a6,a7a6,1rbq1rk1/1p1nppbp/p2p1np1/2p5/2PP4/1PN2NP1/PB2PPBP/R2Q1RK1 w - - 0 10,Here I came up with another plan that was to control the C-file which was soon to be open after b5 it is also important to note that control of open files with rooks is a huge positional advantage latter in the game but this is not always the case in certain positions
+19,Rc1,a1c1,1rbq1rk1/1p1nppbp/p2p1np1/2p5/2PP4/1PN2NP1/PB2PPBP/2RQ1RK1 b - - 1 10,Here I came up with another plan that was to control the C-file which was soon to be open after b5 it is also important to note that control of open files with rooks is a huge positional advantage latter in the game but this is not always the case in certain positions
+20,b5,b7b5,1rbq1rk1/3nppbp/p2p1np1/1pp5/2PP4/1PN2NP1/PB2PPBP/2RQ1RK1 w - - 0 11,Opening D-file for more active play from both sides
+21,dxc5,d4c5,1rbq1rk1/3nppbp/p2p1np1/1pP5/2P5/1PN2NP1/PB2PPBP/2RQ1RK1 b - - 0 11,Opening D-file for more active play from both sides
+22,Nxc5,d7c5,1rbq1rk1/4ppbp/p2p1np1/1pn5/2P5/1PN2NP1/PB2PPBP/2RQ1RK1 w - - 0 12,Opening C-file with rook on C1 square already
+23,cxb5,c4b5,1rbq1rk1/4ppbp/p2p1np1/1Pn5/8/1PN2NP1/PB2PPBP/2RQ1RK1 b - - 0 12,Opening C-file with rook on C1 square already
+24,axb5,a6b5,1rbq1rk1/4ppbp/3p1np1/1pn5/8/1PN2NP1/PB2PPBP/2RQ1RK1 w - - 0 13,From here my strategy is to control C-file and to latter attack his weak isolated pawn on b5 and then promote one of my queenside pawns
+25,Nd4,f3d4,1rbq1rk1/4ppbp/3p1np1/1pn5/3N4/1PN3P1/PB2PPBP/2RQ1RK1 b - - 1 13,Activating my white bishop
+26,Bd7,c8d7,1r1q1rk1/3bppbp/3p1np1/1pn5/3N4/1PN3P1/PB2PPBP/2RQ1RK1 w - - 2 14,Chasing his knight away from powerful post where it control lots of squares in my camp
+27,b4,b3b4,1r1q1rk1/3bppbp/3p1np1/1pn5/1P1N4/2N3P1/PB2PPBP/2RQ1RK1 b - - 0 14,Chasing his knight away from powerful post where it control lots of squares in my camp
+28,Na6,c5a6,1r1q1rk1/3bppbp/n2p1np1/1p6/1P1N4/2N3P1/PB2PPBP/2RQ1RK1 w - - 1 15,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+29,a3,a2a3,1r1q1rk1/3bppbp/n2p1np1/1p6/1P1N4/P1N3P1/1B2PPBP/2RQ1RK1 b - - 0 15,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+30,Qb6,d8b6,1r3rk1/3bppbp/nq1p1np1/1p6/1P1N4/P1N3P1/1B2PPBP/2RQ1RK1 w - - 1 16,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+31,Qd2,d1d2,1r3rk1/3bppbp/nq1p1np1/1p6/1P1N4/P1N3P1/1B1QPPBP/2R2RK1 b - - 2 16,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+32,Nc7,a6c7,1r3rk1/2nbppbp/1q1p1np1/1p6/1P1N4/P1N3P1/1B1QPPBP/2R2RK1 w - - 3 17,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+33,Nd1,c3d1,1r3rk1/2nbppbp/1q1p1np1/1p6/1P1N4/P5P1/1B1QPPBP/2RN1RK1 b - - 4 17,Preparing to play Nc6 follow by the trade by dark bishops which was part of my plan earlier
+34,Rfc8,f8c8,1rr3k1/2nbppbp/1q1p1np1/1p6/1P1N4/P5P1/1B1QPPBP/2RN1RK1 w - - 5 18,Fighting back to control C-file
+35,Nc6,d4c6,1rr3k1/2nbppbp/1qNp1np1/1p6/1P6/P5P1/1B1QPPBP/2RN1RK1 b - - 6 18,Forced
+36,Bxc6,d7c6,1rr3k1/2n1ppbp/1qbp1np1/1p6/1P6/P5P1/1B1QPPBP/2RN1RK1 w - - 0 19,Forced
+37,Rxc6,c1c6,1rr3k1/2n1ppbp/1qRp1np1/1p6/1P6/P5P1/1B1QPPBP/3N1RK1 b - - 0 19,First part of current plan success I have control of C-file and will now try to play Rc1 to dominate C-file with heavy pieces
+38,Qa7,b6a7,1rr3k1/q1n1ppbp/2Rp1np1/1p6/1P6/P5P1/1B1QPPBP/3N1RK1 w - - 1 20,First part of current plan success I have control of C-file and will now try to play Rc1 to dominate C-file with heavy pieces
+39,Qc2,d2c2,1rr3k1/q1n1ppbp/2Rp1np1/1p6/1P6/P5P1/1BQ1PPBP/3N1RK1 b - - 2 20,First part of current plan success I have control of C-file and will now try to play Rc1 to dominate C-file with heavy pieces
+40,Nd7,f6d7,1rr3k1/q1nnppbp/2Rp2p1/1p6/1P6/P5P1/1BQ1PPBP/3N1RK1 w - - 3 21,Bring knight to queenside to fight back for control of C-file or maybe to trade bishops then play Ne5 followed by Nc4 blocking my control of C-file which would mean my plan failure and I would have to come up with a new one
+41,Bxg7,b2g7,1rr3k1/q1nnppBp/2Rp2p1/1p6/1P6/P5P1/2Q1PPBP/3N1RK1 b - - 0 21,Decreasing his control of blacks squares and exposing king just a little for maybe a useful check latter

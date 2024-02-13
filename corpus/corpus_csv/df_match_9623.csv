@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The usual 1.e4
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The French Defence, an opening I'm somewhat familiar with."
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Taking up more of the center, the most common response according to the GK game database."
+4,b6,b7b6,rnbqkbnr/p1pp1ppp/1p2p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"This is something I had never seen before, but after looking at it, I thought that it was pretty logical; the LSB is blocked in behind the e6 pawn in the French and putting the bishop on b7 both solves that problem and puts the bishop on its longest possible diagonal."
+5,Nf3,g1f3,rnbqkbnr/p1pp1ppp/1p2p3/8/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3,"Pretty standard, covering more of the center, preparing to castle, and blocking out the potential bishop on b7."
+6,Bb7,c8b7,rn1qkbnr/pbpp1ppp/1p2p3/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 4,"Exactly what I saw coming at this point, I'm not extremely worried about that bishop right now because I have material in its way, but I do know I have to keep an eye on it."
+7,d5,d4d5,rn1qkbnr/pbpp1ppp/1p2p3/3P4/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Looking at the GK game database, this is the only (somewhat reasonable) move that gives black the better winning percentage. From what I can see, the only bad thing with this move is that after an exchange of the pawns, white's queen side pawns might be a little overextended, but the d pawn would still block in his well-positioned LSB."
+8,Nf6,g8f6,rn1qkb1r/pbpp1ppp/1p2pn2/3P4/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,A developing move that forces white to do something with the pawns planted on the a8-h1 diagonal and prepares to castle
+9,dxe6,d5e6,rn1qkb1r/pbpp1ppp/1p2Pn2/8/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 5,"Looking back, I'm not so sure about this choice. It takes a pawn off the diagonal I was looking to block off but allows him to have more influence in the center with his 2 pawns to white's 1.
+I'm fairly certain that 5. Nc3 or Bd3 would have been better"
+10,fxe6,f7e6,rn1qkb1r/pbpp2pp/1p2pn2/8/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 6,The logical recapture
+11,e5,e4e5,rn1qkb1r/pbpp2pp/1p2pn2/4P3/8/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 6,"White left this pawn hanging, so this was one of the few options with this pawn, but now it's even more isolated."
+12,Ng4,f6g4,rn1qkb1r/pbpp2pp/1p2p3/4P3/6n1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 7,"This keeps the knight off the diagonal, places it aggressively on the king side attacking the weak f2 square, and puts pressure on the isolated e pawn."
+13,Bf4,c1f4,rn1qkb1r/pbpp2pp/1p2p3/4P3/5Bn1/5N2/PPP2PPP/RN1QKB1R b KQkq - 2 7,"This move is somewhat questionable; it overprotects the pawn allowing the knight to move if necessary and develops a piece evening things out as far as that goes, but very awkwardly puts the bishop in a place where it can only retreat."
+14,Be7,f8e7,rn1qk2r/pbppb1pp/1p2p3/4P3/5Bn1/5N2/PPP2PPP/RN1QKB1R w KQkq - 3 8,Develops the bishop without overextending it and allows for black to castle and at the same time place his rook on the potentially open f file.
+15,h3,h2h3,rn1qk2r/pbppb1pp/1p2p3/4P3/5Bn1/5N1P/PPP2PP1/RN1QKB1R b KQkq - 0 8,White wants a little breathing room on the king side and that knight is both a pest and easily kicked out. This is a pretty safe move because there is no real possibility of a sac on h3 because the bishop is on b7.
+16,Nh6,g4h6,rn1qk2r/pbppb1pp/1p2p2n/4P3/5B2/5N1P/PPP2PP1/RN1QKB1R w KQkq - 1 9,The knight's only square to go to
+17,Nc3,b1c3,rn1qk2r/pbppb1pp/1p2p2n/4P3/5B2/2N2N1P/PPP2PP1/R2QKB1R b KQkq - 2 9,Evening out development
+18,Nf5,h6f5,rn1qk2r/pbppb1pp/1p2p3/4Pn2/5B2/2N2N1P/PPP2PP1/R2QKB1R w KQkq - 3 10,"A strong square for the knight, and it practically begs white to push the g pawn to greatly weaken the king side"
+19,Bd3,f1d3,rn1qk2r/pbppb1pp/1p2p3/4Pn2/5B2/2NB1N1P/PPP2PP1/R2QK2R b KQkq - 4 10,Developing white's final minor piece allowing him to castle
+20,O-O,e8g8,rn1q1rk1/pbppb1pp/1p2p3/4Pn2/5B2/2NB1N1P/PPP2PP1/R2QK2R w KQ - 5 11,"Securing the king and once again, placing the rook on the potentially open f file."

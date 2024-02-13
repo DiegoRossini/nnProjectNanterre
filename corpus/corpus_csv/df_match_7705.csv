@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,my standard way of beginning
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I don't think this is the best, it allows me full control of the center"
+3,c4,c2c4,rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"I don't think this is the best, it allows me full control of the center"
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,"I don't think this is the best, it allows me full control of the center"
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3,"I don't think this is the best, it allows me full control of the center"
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,"I don't think this is the best, it allows me full control of the center"
+7,e4,e2e4,rnbqkb1r/p1pp1ppp/1p2pn2/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,After my 5º move I would have waited a little longer to castle!
+8,Bb4,f8b4,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 5,After my 5º move I would have waited a little longer to castle!
+9,Bd3,f1d3,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPPP3/2NB4/PP3PPP/R1BQK1NR b KQkq - 2 5,After my 5º move I would have waited a little longer to castle!
+10,O-O,e8g8,rnbq1rk1/p1pp1ppp/1p2pn2/8/1bPPP3/2NB4/PP3PPP/R1BQK1NR w KQ - 3 6,After my 5º move I would have waited a little longer to castle!
+11,e5,e4e5,rnbq1rk1/p1pp1ppp/1p2pn2/4P3/1bPP4/2NB4/PP3PPP/R1BQK1NR b KQ - 0 6,"The only possibility, which shows already some troubles!"
+12,Ne8,f6e8,rnbqnrk1/p1pp1ppp/1p2p3/4P3/1bPP4/2NB4/PP3PPP/R1BQK1NR w KQ - 1 7,"The only possibility, which shows already some troubles!"
+13,Qe2,d1e2,rnbqnrk1/p1pp1ppp/1p2p3/4P3/1bPP4/2NB4/PP2QPPP/R1B1K1NR b KQ - 2 7,"The threat is obvius (Qe4), but still, I have second thoughts on this one"
+14,Qh4,d8h4,rnb1nrk1/p1pp1ppp/1p2p3/4P3/1bPP3q/2NB4/PP2QPPP/R1B1K1NR w KQ - 3 8,"F5 was the best option, along with Bb7, because this allows"
+15,Nf3,g1f3,rnb1nrk1/p1pp1ppp/1p2p3/4P3/1bPP3q/2NB1N2/PP2QPPP/R1B1K2R b KQ - 4 8,Ups! my anxiety is stronger! Qe4 looks better (g4 doesn't look bad either!)
+16,Qh5,h4h5,rnb1nrk1/p1pp1ppp/1p2p3/4P2q/1bPP4/2NB1N2/PP2QPPP/R1B1K2R w KQ - 5 9,Ups! my anxiety is stronger! Qe4 looks better (g4 doesn't look bad either!)
+17,g4,g2g4,rnb1nrk1/p1pp1ppp/1p2p3/4P2q/1bPP2P1/2NB1N2/PP2QP1P/R1B1K2R b KQ - 0 9,Ups! my anxiety is stronger! Qe4 looks better (g4 doesn't look bad either!)
+18,Qxg4,h5g4,rnb1nrk1/p1pp1ppp/1p2p3/4P3/1bPP2q1/2NB1N2/PP2QP1P/R1B1K2R w KQ - 0 10,Only one. Qh3 loses a pawn after Kg5
+19,Rg1,h1g1,rnb1nrk1/p1pp1ppp/1p2p3/4P3/1bPP2q1/2NB1N2/PP2QP1P/R1B1K1R1 b Q - 1 10,F5 still better
+20,Qh5,g4h5,rnb1nrk1/p1pp1ppp/1p2p3/4P2q/1bPP4/2NB1N2/PP2QP1P/R1B1K1R1 w Q - 2 11,F5 still better
+21,Rg5,g1g5,rnb1nrk1/p1pp1ppp/1p2p3/4P1Rq/1bPP4/2NB1N2/PP2QP1P/R1B1K3 b Q - 3 11,F5 still better
+22,Qh3,h5h3,rnb1nrk1/p1pp1ppp/1p2p3/4P1R1/1bPP4/2NB1N1q/PP2QP1P/R1B1K3 w Q - 4 12,F5 still better
+23,Bf4,c1f4,rnb1nrk1/p1pp1ppp/1p2p3/4P1R1/1bPP1B2/2NB1N1q/PP2QP1P/R3K3 b Q - 5 12,F5 still better
+24,Bb7,c8b7,rn2nrk1/pbpp1ppp/1p2p3/4P1R1/1bPP1B2/2NB1N1q/PP2QP1P/R3K3 w Q - 6 13,F5 still better
+25,Ng1,f3g1,rn2nrk1/pbpp1ppp/1p2p3/4P1R1/1bPP1B2/2NB3q/PP2QP1P/R3K1N1 b Q - 7 13,"I was very close to do the same final combination, but I realized that after the queen takes the bishop, it goes back to h6!"
+26,Qh4,h3h4,rn2nrk1/pbpp1ppp/1p2p3/4P1R1/1bPP1B1q/2NB4/PP2QP1P/R3K1N1 w Q - 8 14,"I was very close to do the same final combination, but I realized that after the queen takes the bishop, it goes back to h6!"
+27,Be3,f4e3,rn2nrk1/pbpp1ppp/1p2p3/4P1R1/1bPP3q/2NBB3/PP2QP1P/R3K1N1 b Q - 9 14,"Again, f5 was necesary."
+28,Qxh2,h4h2,rn2nrk1/pbpp1ppp/1p2p3/4P1R1/1bPP4/2NBB3/PP2QP1q/R3K1N1 w Q - 0 15,"Again, f5 was necesary."
+29,Rh5,g5h5,rn2nrk1/pbpp1ppp/1p2p3/4P2R/1bPP4/2NBB3/PP2QP1q/R3K1N1 b Q - 1 15,"Final destination, the king's castle!"
+30,Qxg1+,h2g1,rn2nrk1/pbpp1ppp/1p2p3/4P2R/1bPP4/2NBB3/PP2QP2/R3K1q1 w Q - 0 16,"We are all in, Qf1 was out of the quetion."
+31,Kd2,e1d2,rn2nrk1/pbpp1ppp/1p2p3/4P2R/1bPP4/2NBB3/PP1KQP2/R5q1 b - - 1 16,"We are all in, Qf1 was out of the quetion."
+32,Qxa1,g1a1,rn2nrk1/pbpp1ppp/1p2p3/4P2R/1bPP4/2NBB3/PP1KQP2/q7 w - - 0 17,"Thans God he did it. His final chance was to accept his mistakes with Qg6, and after Bxg6, take with the F pawn, and that would have given me some heavy work, but, I would still have the upper hand!"
+33,Bxh7+,d3h7,rn2nrk1/pbpp1ppB/1p2p3/4P2R/1bPP4/2N1B3/PP1KQP2/q7 b - - 0 17,"Finally, let's take the king to dance!"
+34,Kh8,g8h8,rn2nr1k/pbpp1ppB/1p2p3/4P2R/1bPP4/2N1B3/PP1KQP2/q7 w - - 1 18,Would you mind coming back to h8?
+35,Bg6+,h7g6,rn2nr1k/pbpp1pp1/1p2p1B1/4P2R/1bPP4/2N1B3/PP1KQP2/q7 b - - 2 18,Would you mind coming back to h8?
+36,Kg8,h8g8,rn2nrk1/pbpp1pp1/1p2p1B1/4P2R/1bPP4/2N1B3/PP1KQP2/q7 w - - 3 19,Would you mind coming back to h8?
+37,Rh8+,h5h8,rn2nrkR/pbpp1pp1/1p2p1B1/4P3/1bPP4/2N1B3/PP1KQP2/q7 b - - 4 19,Would you mind coming back to h8?
+38,Kxh8,g8h8,rn2nr1k/pbpp1pp1/1p2p1B1/4P3/1bPP4/2N1B3/PP1KQP2/q7 w - - 0 20,"I really enjoyed this game, specially because fire works are not my strength! Nevertheless, it all came possible thanks to my opponent greed!
+I hpe you liked it as well!"
+39,Qh5+,e2h5,rn2nr1k/pbpp1pp1/1p2p1B1/4P2Q/1bPP4/2N1B3/PP1K1P2/q7 b - - 1 20,"I really enjoyed this game, specially because fire works are not my strength! Nevertheless, it all came possible thanks to my opponent greed!
+I hpe you liked it as well!"
+40,Kg8,h8g8,rn2nrk1/pbpp1pp1/1p2p1B1/4P2Q/1bPP4/2N1B3/PP1K1P2/q7 w - - 2 21,"I really enjoyed this game, specially because fire works are not my strength! Nevertheless, it all came possible thanks to my opponent greed!
+I hpe you liked it as well!"
+41,Qh7#,h5h7,rn2nrk1/pbpp1ppQ/1p2p1B1/4P3/1bPP4/2N1B3/PP1K1P2/q7 b - - 3 21,"I really enjoyed this game, specially because fire works are not my strength! Nevertheless, it all came possible thanks to my opponent greed!
+I hpe you liked it as well!"

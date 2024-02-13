@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,ok move by white
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,not a very good move by white
+3,Qd3,d1d3,rnbqkbnr/ppp1pppp/8/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR b KQkq - 1 2,not a very good move by white
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3Q4/PPP1PPPP/RNB1KBNR w KQkq - 2 3,i play normally
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/3Q4/PP2PPPP/RNB1KBNR b KQkq - 0 3,white should have done this move before Qd3
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/3Q4/PP2PPPP/RNB1KBNR w KQkq - 0 4,don't know if this is right
+7,cxd5,c4d5,rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/3Q4/PP2PPPP/RNB1KBNR b KQkq - 0 4,don't know if this is right
+8,Nxd5,f6d5,rnbqkb1r/ppp2ppp/4p3/3n4/3P4/3Q4/PP2PPPP/RNB1KBNR w KQkq - 0 5,don't know if this is right
+9,e4,e2e4,rnbqkb1r/ppp2ppp/4p3/3n4/3PP3/3Q4/PP3PPP/RNB1KBNR b KQkq - 0 5,this move was not as good as Nb4
+10,Nb6,d5b6,rnbqkb1r/ppp2ppp/1n2p3/8/3PP3/3Q4/PP3PPP/RNB1KBNR w KQkq - 1 6,this move was not as good as Nb4
+11,e5,e4e5,rnbqkb1r/ppp2ppp/1n2p3/4P3/3P4/3Q4/PP3PPP/RNB1KBNR b KQkq - 0 6,not an accurate move by white
+12,Bb4+,f8b4,rnbqk2r/ppp2ppp/1n2p3/4P3/1b1P4/3Q4/PP3PPP/RNB1KBNR w KQkq - 1 7,"was not the best move, better was Bd2"
+13,Nc3,b1c3,rnbqk2r/ppp2ppp/1n2p3/4P3/1b1P4/2NQ4/PP3PPP/R1B1KBNR b KQkq - 2 7,"was not the best move, better was Bd2"
+14,O-O,e8g8,rnbq1rk1/ppp2ppp/1n2p3/4P3/1b1P4/2NQ4/PP3PPP/R1B1KBNR w KQ - 3 8,"a better move by me would be Nd5, but same general idea"
+15,Nf3,g1f3,rnbq1rk1/ppp2ppp/1n2p3/4P3/1b1P4/2NQ1N2/PP3PPP/R1B1KB1R b KQ - 4 8,"a better move by me would be Nd5, but same general idea"
+16,h6,h7h6,rnbq1rk1/ppp2pp1/1n2p2p/4P3/1b1P4/2NQ1N2/PP3PPP/R1B1KB1R w KQ - 0 9,"a better move by me would be Nd5, but same general idea"
+17,Qe4,d3e4,rnbq1rk1/ppp2pp1/1n2p2p/4P3/1b1PQ3/2N2N2/PP3PPP/R1B1KB1R b KQ - 1 9,"a better move by me would be Nd5, but same general idea"
+18,Na4,b6a4,rnbq1rk1/ppp2pp1/4p2p/4P3/nb1PQ3/2N2N2/PP3PPP/R1B1KB1R w KQ - 2 10,"a better move by me would be Nd5, but same general idea"
+19,d5,d4d5,rnbq1rk1/ppp2pp1/4p2p/3PP3/nb2Q3/2N2N2/PP3PPP/R1B1KB1R b KQ - 0 10,mistake by white
+20,Bxc3+,b4c3,rnbq1rk1/ppp2pp1/4p2p/3PP3/n3Q3/2b2N2/PP3PPP/R1B1KB1R w KQ - 0 11,blunder by white
+21,Nd2,f3d2,rnbq1rk1/ppp2pp1/4p2p/3PP3/n3Q3/2b5/PP1N1PPP/R1B1KB1R b KQ - 1 11,blunder by white
+22,Bxd2+,c3d2,rnbq1rk1/ppp2pp1/4p2p/3PP3/n3Q3/8/PP1b1PPP/R1B1KB1R w KQ - 0 12,"if i took the pawn on b2, it would get trapped by Qb4"
+23,Bxd2,c1d2,rnbq1rk1/ppp2pp1/4p2p/3PP3/n3Q3/8/PP1B1PPP/R3KB1R b KQ - 0 12,"if i took the pawn on b2, it would get trapped by Qb4"
+24,Nc5,a4c5,rnbq1rk1/ppp2pp1/4p2p/2nPP3/4Q3/8/PP1B1PPP/R3KB1R w KQ - 1 13,"if i took the pawn on b2, it would get trapped by Qb4"
+25,Qc2,e4c2,rnbq1rk1/ppp2pp1/4p2p/2nPP3/8/8/PPQB1PPP/R3KB1R b KQ - 2 13,another bad mistake
+26,Qxd5,d8d5,rnb2rk1/ppp2pp1/4p2p/2nqP3/8/8/PPQB1PPP/R3KB1R w KQ - 0 14,another bad mistake
+27,Be2,f1e2,rnb2rk1/ppp2pp1/4p2p/2nqP3/8/8/PPQBBPPP/R3K2R b KQ - 1 14,another bad mistake
+28,Qxg2,d5g2,rnb2rk1/ppp2pp1/4p2p/2n1P3/8/8/PPQBBPqP/R3K2R w KQ - 0 15,a good move by me
+29,Rf1,h1f1,rnb2rk1/ppp2pp1/4p2p/2n1P3/8/8/PPQBBPqP/R3KR2 b Q - 1 15,a good move by me
+30,Ne4,c5e4,rnb2rk1/ppp2pp1/4p2p/4P3/4n3/8/PPQBBPqP/R3KR2 w Q - 2 16,a good move by me
+31,f3,f2f3,rnb2rk1/ppp2pp1/4p2p/4P3/4n3/5P2/PPQBB1qP/R3KR2 b Q - 0 16,mistake by white
+32,Nxd2,e4d2,rnb2rk1/ppp2pp1/4p2p/4P3/8/5P2/PPQnB1qP/R3KR2 w Q - 0 17,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+33,Qxd2,c2d2,rnb2rk1/ppp2pp1/4p2p/4P3/8/5P2/PP1QB1qP/R3KR2 b Q - 0 17,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+34,Qxh2,g2h2,rnb2rk1/ppp2pp1/4p2p/4P3/8/5P2/PP1QB2q/R3KR2 w Q - 0 18,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+35,O-O-O,e1c1,rnb2rk1/ppp2pp1/4p2p/4P3/8/5P2/PP1QB2q/2KR1R2 b - - 1 18,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+36,Qxe5,h2e5,rnb2rk1/ppp2pp1/4p2p/4q3/8/5P2/PP1QB3/2KR1R2 w - - 0 19,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+37,Qc2,d2c2,rnb2rk1/ppp2pp1/4p2p/4q3/8/5P2/PPQ1B3/2KR1R2 b - - 1 19,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+38,Nc6,b8c6,r1b2rk1/ppp2pp1/2n1p2p/4q3/8/5P2/PPQ1B3/2KR1R2 w - - 2 20,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+39,Ba6,e2a6,r1b2rk1/ppp2pp1/B1n1p2p/4q3/8/5P2/PPQ5/2KR1R2 b - - 3 20,"a very bad blunder by white, you see what he tries to do, find a way to get a piece"
+40,Nb4,c6b4,r1b2rk1/ppp2pp1/B3p2p/4q3/1n6/5P2/PPQ5/2KR1R2 w - - 4 21,now black is clearly winning
+41,Rfe1,f1e1,r1b2rk1/ppp2pp1/B3p2p/4q3/1n6/5P2/PPQ5/2KRR3 b - - 5 21,now black is clearly winning
+42,Qf4+,e5f4,r1b2rk1/ppp2pp1/B3p2p/8/1n3q2/5P2/PPQ5/2KRR3 w - - 6 22,now black is clearly winning
+43,Qd2,c2d2,r1b2rk1/ppp2pp1/B3p2p/8/1n3q2/5P2/PP1Q4/2KRR3 b - - 7 22,now black is clearly winning
+44,Qxd2+,f4d2,r1b2rk1/ppp2pp1/B3p2p/8/1n6/5P2/PP1q4/2KRR3 w - - 0 23,now black is clearly winning
+45,Rxd2,d1d2,r1b2rk1/ppp2pp1/B3p2p/8/1n6/5P2/PP1R4/2K1R3 b - - 0 23,now black is clearly winning
+46,Nxa6,b4a6,r1b2rk1/ppp2pp1/n3p2p/8/8/5P2/PP1R4/2K1R3 w - - 0 24,now black is clearly winning
+47,Red1,e1d1,r1b2rk1/ppp2pp1/n3p2p/8/8/5P2/PP1R4/2KR4 b - - 1 24,"and black resigned, thank you for reading this annotate"
+48,Kh7,g8h7,r1b2r2/ppp2ppk/n3p2p/8/8/5P2/PP1R4/2KR4 w - - 2 25,"and black resigned, thank you for reading this annotate"
+49,Rd2d8,d2d8,r1bR1r2/ppp2ppk/n3p2p/8/8/5P2/PP6/2KR4 b - - 3 25,"and black resigned, thank you for reading this annotate"
+50,Rxd8,f8d8,r1br4/ppp2ppk/n3p2p/8/8/5P2/PP6/2KR4 w - - 0 26,"and black resigned, thank you for reading this annotate"
+51,Rxd8,d1d8,r1bR4/ppp2ppk/n3p2p/8/8/5P2/PP6/2K5 b - - 0 26,"and black resigned, thank you for reading this annotate"
+52,c6,c7c6,r1bR4/pp3ppk/n1p1p2p/8/8/5P2/PP6/2K5 w - - 0 27,"and black resigned, thank you for reading this annotate"
+53,Kc2,c1c2,r1bR4/pp3ppk/n1p1p2p/8/8/5P2/PPK5/8 b - - 1 27,"and black resigned, thank you for reading this annotate"
+54,Nc5,a6c5,r1bR4/pp3ppk/2p1p2p/2n5/8/5P2/PPK5/8 w - - 2 28,"and black resigned, thank you for reading this annotate"
+55,Kc3,c2c3,r1bR4/pp3ppk/2p1p2p/2n5/8/2K2P2/PP6/8 b - - 3 28,"and black resigned, thank you for reading this annotate"
+56,Nd7,c5d7,r1bR4/pp1n1ppk/2p1p2p/8/8/2K2P2/PP6/8 w - - 4 29,"and black resigned, thank you for reading this annotate"
+57,Kd4,c3d4,r1bR4/pp1n1ppk/2p1p2p/8/3K4/5P2/PP6/8 b - - 5 29,"and black resigned, thank you for reading this annotate"
+58,Nb6,d7b6,r1bR4/pp3ppk/1np1p2p/8/3K4/5P2/PP6/8 w - - 6 30,"and black resigned, thank you for reading this annotate"
+59,Rf8,d8f8,r1b2R2/pp3ppk/1np1p2p/8/3K4/5P2/PP6/8 b - - 7 30,"and black resigned, thank you for reading this annotate"
+60,Kg6,h7g6,r1b2R2/pp3pp1/1np1p1kp/8/3K4/5P2/PP6/8 w - - 8 31,"and black resigned, thank you for reading this annotate"
+61,f4,f3f4,r1b2R2/pp3pp1/1np1p1kp/8/3K1P2/8/PP6/8 b - - 0 31,"and black resigned, thank you for reading this annotate"
+62,Bd7,c8d7,r4R2/pp1b1pp1/1np1p1kp/8/3K1P2/8/PP6/8 w - - 1 32,"and black resigned, thank you for reading this annotate"
+63,f5+,f4f5,r4R2/pp1b1pp1/1np1p1kp/5P2/3K4/8/PP6/8 b - - 0 32,"and black resigned, thank you for reading this annotate"
+64,exf5,e6f5,r4R2/pp1b1pp1/1np3kp/5p2/3K4/8/PP6/8 w - - 0 33,"and black resigned, thank you for reading this annotate"
+65,Rxa8,f8a8,R7/pp1b1pp1/1np3kp/5p2/3K4/8/PP6/8 b - - 0 33,"and black resigned, thank you for reading this annotate"

@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,White heads for the Stonewall.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,White heads for the Stonewall.
+3,e3,e2e3,rnbqkb1r/pppppppp/5n2/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,White heads for the Stonewall.
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,"This is a waste of time.  My Bishop isn't going for f3, it's headed for f5 to trade-off White's only good bishop."
+5,h3,h2h3,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P2P/PPP2PP1/RNBQKBNR b KQkq - 0 3,"This is a waste of time.  My Bishop isn't going for f3, it's headed for f5 to trade-off White's only good bishop."
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P4/4P2P/PPP2PP1/RNBQKBNR w KQkq - 1 4,4...c3 or c4 might have been a better choice.
+7,Nc3,b1c3,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P4/2N1P2P/PPP2PP1/R1BQKBNR b KQkq - 2 4,4...c3 or c4 might have been a better choice.
+8,Nc6,b8c6,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P4/2N1P2P/PPP2PP1/R1BQKBNR w KQkq - 3 5,I'm already ahead in development and White's dark-squared bishop is out of the game.
+9,Bd3,f1d3,r2qkb1r/ppp1pppp/2n2n2/3p1b2/3P4/2NBP2P/PPP2PP1/R1BQK1NR b KQkq - 4 5,I'm already ahead in development and White's dark-squared bishop is out of the game.
+10,e6,e7e6,r2qkb1r/ppp2ppp/2n1pn2/3p1b2/3P4/2NBP2P/PPP2PP1/R1BQK1NR w KQkq - 0 6,I'm already ahead in development and White's dark-squared bishop is out of the game.
+11,Bxf5,d3f5,r2qkb1r/ppp2ppp/2n1pn2/3p1B2/3P4/2N1P2P/PPP2PP1/R1BQK1NR b KQkq - 0 6,I'm already ahead in development and White's dark-squared bishop is out of the game.
+12,exf5,e6f5,r2qkb1r/ppp2ppp/2n2n2/3p1p2/3P4/2N1P2P/PPP2PP1/R1BQK1NR w KQkq - 0 7,I'm already ahead in development and White's dark-squared bishop is out of the game.
+13,f3,f2f3,r2qkb1r/ppp2ppp/2n2n2/3p1p2/3P4/2N1PP1P/PPP3P1/R1BQK1NR b KQkq - 0 7,White seems to be afraid of pins.  Doesn't he see all the dark-squared holes surrounding his king?
+14,g6,g7g6,r2qkb1r/ppp2p1p/2n2np1/3p1p2/3P4/2N1PP1P/PPP3P1/R1BQK1NR w KQkq - 0 8,White seems to be afraid of pins.  Doesn't he see all the dark-squared holes surrounding his king?
+15,a3,a2a3,r2qkb1r/ppp2p1p/2n2np1/3p1p2/3P4/P1N1PP1P/1PP3P1/R1BQK1NR b KQkq - 0 8,White seems to be afraid of pins.  Doesn't he see all the dark-squared holes surrounding his king?
+16,Bh6,f8h6,r2qk2r/ppp2p1p/2n2npb/3p1p2/3P4/P1N1PP1P/1PP3P1/R1BQK1NR w KQkq - 1 9,"0-1
+
+White forgets the pawn on e3 can't re-capture because of the pin on the king."
+17,Nge2,g1e2,r2qk2r/ppp2p1p/2n2npb/3p1p2/3P4/P1N1PP1P/1PP1N1P1/R1BQK2R b KQkq - 2 9,"0-1
+
+White forgets the pawn on e3 can't re-capture because of the pin on the king."
+18,Qe7,d8e7,r3k2r/ppp1qp1p/2n2npb/3p1p2/3P4/P1N1PP1P/1PP1N1P1/R1BQK2R w KQkq - 3 10,"0-1
+
+White forgets the pawn on e3 can't re-capture because of the pin on the king."
+19,Nf4,e2f4,r3k2r/ppp1qp1p/2n2npb/3p1p2/3P1N2/P1N1PP1P/1PP3P1/R1BQK2R b KQkq - 4 10,"0-1
+
+White forgets the pawn on e3 can't re-capture because of the pin on the king."
+20,Bxf4,h6f4,r3k2r/ppp1qp1p/2n2np1/3p1p2/3P1b2/P1N1PP1P/1PP3P1/R1BQK2R w KQkq - 0 11,"When ahead in material, trade-off."
+21,O-O,e1g1,r3k2r/ppp1qp1p/2n2np1/3p1p2/3P1b2/P1N1PP1P/1PP3P1/R1BQ1RK1 b kq - 1 11,"When ahead in material, trade-off."
+22,Bxe3+,f4e3,r3k2r/ppp1qp1p/2n2np1/3p1p2/3P4/P1N1bP1P/1PP3P1/R1BQ1RK1 w kq - 0 12,"When ahead in material, trade-off."
+23,Bxe3,c1e3,r3k2r/ppp1qp1p/2n2np1/3p1p2/3P4/P1N1BP1P/1PP3P1/R2Q1RK1 b kq - 0 12,"When ahead in material, trade-off."
+24,Qxe3+,e7e3,r3k2r/ppp2p1p/2n2np1/3p1p2/3P4/P1N1qP1P/1PP3P1/R2Q1RK1 w kq - 0 13,"When ahead in material, trade-off."
+25,Kh1,g1h1,r3k2r/ppp2p1p/2n2np1/3p1p2/3P4/P1N1qP1P/1PP3P1/R2Q1R1K b kq - 1 13,"When ahead in material, trade-off."
+26,O-O-O,e8c8,2kr3r/ppp2p1p/2n2np1/3p1p2/3P4/P1N1qP1P/1PP3P1/R2Q1R1K w - - 2 14,"When ahead in material, trade-off."
+27,Re1,f1e1,2kr3r/ppp2p1p/2n2np1/3p1p2/3P4/P1N1qP1P/1PP3P1/R2QR2K b - - 3 14,"When ahead in material, trade-off."
+28,Qxd4,e3d4,2kr3r/ppp2p1p/2n2np1/3p1p2/3q4/P1N2P1P/1PP3P1/R2QR2K w - - 0 15,"When ahead in material, trade-off."
+29,Qc1,d1c1,2kr3r/ppp2p1p/2n2np1/3p1p2/3q4/P1N2P1P/1PP3P1/R1Q1R2K b - - 1 15,White knows trading is bad but the queen has nowhere good to go.
+30,Rhe8,h8e8,2krr3/ppp2p1p/2n2np1/3p1p2/3q4/P1N2P1P/1PP3P1/R1Q1R2K w - - 2 16,"Again, when ahead in material, trade-off."

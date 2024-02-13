@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard King Pawn opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Kings pawn game (C20)
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Kings Knight Opening (C40)
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I recently started using this.  It is called the Petrov's Defense (C42)
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Now this is called the Petrov Three Knights Game  (C42)
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"In my opinion it should now be called the Four Knights Game, but what do I know."
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"White threatens the black knight.   We are still using the ""book"" according to GameKnot Analyzer."
+8,Nd4,c6d4,r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,"Black horse threatens white bishop.  Notice that Black leaves his e5 pawn unprotected, but seems to be unworried. We are still using the ""book"" according to GameKnot Analyzer."
+9,Ba4,b5a4,r1bqkb1r/pppp1ppp/5n2/4p3/B2nP3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 7 5,"White bishop flees.  Black pawn is still in jeopardy. We are still using the ""book"" according to GameKnot Analyzer."
+10,Bc5,f8c5,r1bqk2r/pppp1ppp/5n2/2b1p3/B2nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 8 6,"Black develops a bishop and continues to ignore the extreme peril that his e5 pawn is in.  We are still using the ""book"" according to GameKnot Analyzer."
+11,O-O,e1g1,r1bqk2r/pppp1ppp/5n2/2b1p3/B2nP3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 9 6,White castles. Don't know why he declined to take the black pawn here.
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/5n2/2b1p3/B2nP3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 10 7,Black castles and still remains completely unconcerned about that poor pawn on e5.
+13,Nxe5,f3e5,r1bq1rk1/pppp1ppp/5n2/2b1N3/B2nP3/2N5/PPPP1PPP/R1BQ1RK1 b - - 0 7,Finally white takes the pawn and black goes one point down with no apparent possibility of getting that point back ever again.
+14,d6,d7d6,r1bq1rk1/ppp2ppp/3p1n2/2b1N3/B2nP3/2N5/PPPP1PPP/R1BQ1RK1 w - - 0 8,Black shoos away the white horse and gives some support to the black Bishop.
+15,Nd3,e5d3,r1bq1rk1/ppp2ppp/3p1n2/2b5/B2nP3/2NN4/PPPP1PPP/R1BQ1RK1 b - - 1 8,"White horse runs away, but maybe that was the wrong direction to run.  It looks fine at this point but as the games progresses you will see that white is leaving his king out to dry with no protection."
+16,Bg4,c8g4,r2q1rk1/ppp2ppp/3p1n2/2b5/B2nP1b1/2NN4/PPPP1PPP/R1BQ1RK1 w - - 2 9,Black develops a Bishop and also acts as a pesky fly to annoy the white queen.
+17,Qe1,d1e1,r2q1rk1/ppp2ppp/3p1n2/2b5/B2nP1b1/2NN4/PPPP1PPP/R1B1QRK1 b - - 3 9,"The white queen gets herself out of trouble but maybe this was not a good way to do it.  Why did not white push the f pawn to f3? Oh I see.  Its because the threat of a ""discovered check"" if the black horse moves to take c2."
+18,Nf3+,d4f3,r2q1rk1/ppp2ppp/3p1n2/2b5/B3P1b1/2NN1n2/PPPP1PPP/R1B1QRK1 w - - 4 10,"Black makes a bold sacrifice.  The black horse forks the white King and Queen so that the only possible response is for white to take the horse with his pawn.  This leaves the white King a little exposed to the elements, but black is bleeding away material and is fixing to go 3 points down."
+19,gxf3,g2f3,r2q1rk1/ppp2ppp/3p1n2/2b5/B3P1b1/2NN1P2/PPPP1P1P/R1B1QRK1 b - - 0 10,As expected white takes the black horse and black is now 4 points down.
+20,Bxf3,g4f3,r2q1rk1/ppp2ppp/3p1n2/2b5/B3P3/2NN1b2/PPPP1P1P/R1B1QRK1 w - - 0 11,Black gets one point back but remains a horse down.  In return the black bishop is in a good spot with no apparent way to be dislodged.

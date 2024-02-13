@@ -1,0 +1,64 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Caro-Kan defense.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Caro-Kan defense.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,White is considering castling queenside.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,White is considering castling queenside.
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,White is considering castling queenside.
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,White is considering castling queenside.
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,White is considering castling queenside.
+8,Nd7,b8d7,r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,White is considering castling queenside.
+9,Qd3,d1d3,r1bqkbnr/pp1npppp/2p5/8/3PN3/3Q4/PPP2PPP/R1B1KBNR b KQkq - 2 5,White is considering castling queenside.
+10,e6,e7e6,r1bqkbnr/pp1n1ppp/2p1p3/8/3PN3/3Q4/PPP2PPP/R1B1KBNR w KQkq - 0 6,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+11,Nf3,g1f3,r1bqkbnr/pp1n1ppp/2p1p3/8/3PN3/3Q1N2/PPP2PPP/R1B1KB1R b KQkq - 1 6,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+12,Ngf6,g8f6,r1bqkb1r/pp1n1ppp/2p1pn2/8/3PN3/3Q1N2/PPP2PPP/R1B1KB1R w KQkq - 2 7,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+13,Bg5,c1g5,r1bqkb1r/pp1n1ppp/2p1pn2/6B1/3PN3/3Q1N2/PPP2PPP/R3KB1R b KQkq - 3 7,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+14,Bb4+,f8b4,r1bqk2r/pp1n1ppp/2p1pn2/6B1/1b1PN3/3Q1N2/PPP2PPP/R3KB1R w KQkq - 4 8,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+15,c3,c2c3,r1bqk2r/pp1n1ppp/2p1pn2/6B1/1b1PN3/2PQ1N2/PP3PPP/R3KB1R b KQkq - 0 8,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+16,Be7,b4e7,r1bqk2r/pp1nbppp/2p1pn2/6B1/3PN3/2PQ1N2/PP3PPP/R3KB1R w KQkq - 1 9,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+17,Nxf6+,e4f6,r1bqk2r/pp1nbppp/2p1pN2/6B1/3P4/2PQ1N2/PP3PPP/R3KB1R b KQkq - 0 9,"White wants to castle queenside but first captures on f6 to avoid
+9 0-0-0 Nxe4 10 Bxe7 Nxf2 11 Bxd8 Nxd3+ 12 Rxd3 Kxd8"
+18,Bxf6,e7f6,r1bqk2r/pp1n1ppp/2p1pb2/6B1/3P4/2PQ1N2/PP3PPP/R3KB1R w KQkq - 0 10,The kings are on opposite sides of the board. This suggests a sharp game.
+19,Bxf6,g5f6,r1bqk2r/pp1n1ppp/2p1pB2/8/3P4/2PQ1N2/PP3PPP/R3KB1R b KQkq - 0 10,The kings are on opposite sides of the board. This suggests a sharp game.
+20,Nxf6,d7f6,r1bqk2r/pp3ppp/2p1pn2/8/3P4/2PQ1N2/PP3PPP/R3KB1R w KQkq - 0 11,The kings are on opposite sides of the board. This suggests a sharp game.
+21,O-O-O,e1c1,r1bqk2r/pp3ppp/2p1pn2/8/3P4/2PQ1N2/PP3PPP/2KR1B1R b kq - 1 11,The kings are on opposite sides of the board. This suggests a sharp game.
+22,O-O,e8g8,r1bq1rk1/pp3ppp/2p1pn2/8/3P4/2PQ1N2/PP3PPP/2KR1B1R w - - 2 12,The kings are on opposite sides of the board. This suggests a sharp game.
+23,h4,h2h4,r1bq1rk1/pp3ppp/2p1pn2/8/3P3P/2PQ1N2/PP3PP1/2KR1B1R b - - 0 12,To attack c6 and obstruct the e6 pawn. It also frees the f2 pawn to advance.
+24,b6,b7b6,r1bq1rk1/p4ppp/1pp1pn2/8/3P3P/2PQ1N2/PP3PP1/2KR1B1R w - - 0 13,To attack c6 and obstruct the e6 pawn. It also frees the f2 pawn to advance.
+25,Ne5,f3e5,r1bq1rk1/p4ppp/1pp1pn2/4N3/3P3P/2PQ4/PP3PP1/2KR1B1R b - - 1 13,To attack c6 and obstruct the e6 pawn. It also frees the f2 pawn to advance.
+26,Bb7,c8b7,r2q1rk1/pb3ppp/1pp1pn2/4N3/3P3P/2PQ4/PP3PP1/2KR1B1R w - - 2 14,Black's placement of the light squared bishop is a problem. On b7 it temporarily has limited scope but the e6 pawn blocks it from getting to the d1-h5 or b1-h7 diagonal.
+27,f3,f2f3,r2q1rk1/pb3ppp/1pp1pn2/4N3/3P3P/2PQ1P2/PP4P1/2KR1B1R b - - 0 14,Preparing g4 and limiting the black bishop's possible activity on this diagonal.
+28,Qc7,d8c7,r4rk1/pbq2ppp/1pp1pn2/4N3/3P3P/2PQ1P2/PP4P1/2KR1B1R w - - 1 15,White's kingside pawns are becoming dangerous.
+29,g4,g2g4,r4rk1/pbq2ppp/1pp1pn2/4N3/3P2PP/2PQ1P2/PP6/2KR1B1R b - - 0 15,White's kingside pawns are becoming dangerous.
+30,Rad8,a8d8,3r1rk1/pbq2ppp/1pp1pn2/4N3/3P2PP/2PQ1P2/PP6/2KR1B1R w - - 1 16,Harassing the knight.
+31,g5,g4g5,3r1rk1/pbq2ppp/1pp1pn2/4N1P1/3P3P/2PQ1P2/PP6/2KR1B1R b - - 0 16,Harassing the knight.
+32,Nd7,f6d7,3r1rk1/pbqn1ppp/1pp1p3/4N1P1/3P3P/2PQ1P2/PP6/2KR1B1R w - - 1 17,"White wants to keep the knight alive. If white accepted a knight swap then the game would look drawish. 
+Also the black knight on d7 hinders the power of the d8 rook - so white doesn't want to remove this hindrance.
+The text does allow black to play ...Qf4+. (Black chooses not to.)"
+33,Ng4,e5g4,3r1rk1/pbqn1ppp/1pp1p3/6P1/3P2NP/2PQ1P2/PP6/2KR1B1R b - - 2 17,"White wants to keep the knight alive. If white accepted a knight swap then the game would look drawish. 
+Also the black knight on d7 hinders the power of the d8 rook - so white doesn't want to remove this hindrance.
+The text does allow black to play ...Qf4+. (Black chooses not to.)"
+34,c5,c6c5,3r1rk1/pbqn1ppp/1p2p3/2p3P1/3P2NP/2PQ1P2/PP6/2KR1B1R w - - 0 18,Opening the diagonal for the bishop and getting some advancing pawns in front of the white king.
+35,Qe3,d3e3,3r1rk1/pbqn1ppp/1p2p3/2p3P1/3P2NP/2P1QP2/PP6/2KR1B1R b - - 1 18,White's position is steadily improving. Black's consolation is that lines have been opened for the b7 bishop.
+36,cxd4,c5d4,3r1rk1/pbqn1ppp/1p2p3/6P1/3p2NP/2P1QP2/PP6/2KR1B1R w - - 0 19,White's position is steadily improving. Black's consolation is that lines have been opened for the b7 bishop.
+37,Rxd4,d1d4,3r1rk1/pbqn1ppp/1p2p3/6P1/3R2NP/2P1QP2/PP6/2K2B1R b - - 0 19,White's position is steadily improving. Black's consolation is that lines have been opened for the b7 bishop.
+38,e5,e6e5,3r1rk1/pbqn1ppp/1p6/4p1P1/3R2NP/2P1QP2/PP6/2K2B1R w - - 0 20,"Crunch time for white. Attack, or retreat the rook?"
+39,Nf6+,g4f6,3r1rk1/pbqn1ppp/1p3N2/4p1P1/3R3P/2P1QP2/PP6/2K2B1R b - - 1 20,"White offers a knight for free (but for positional advantage). Black has three choices; ...gxf6 (grabbing material), ...Kh8 (spurning the offer) or ...Nxf6."
+40,gxf6,g7f6,3r1rk1/pbqn1p1p/1p3p2/4p1P1/3R3P/2P1QP2/PP6/2K2B1R w - - 0 21,Necessary. 21 ...Nxf6? 22 Qg5+ Kh8  23 Qxf6+ Kg8 24 Rg1#.
+41,gxf6,g5f6,3r1rk1/pbqn1p1p/1p3P2/4p3/3R3P/2P1QP2/PP6/2K2B1R b - - 0 21,Necessary. 21 ...Nxf6? 22 Qg5+ Kh8  23 Qxf6+ Kg8 24 Rg1#.
+42,Kh8,g8h8,3r1r1k/pbqn1p1p/1p3P2/4p3/3R3P/2P1QP2/PP6/2K2B1R w - - 1 22,Necessary. 21 ...Nxf6? 22 Qg5+ Kh8  23 Qxf6+ Kg8 24 Rg1#.
+43,Qh6,e3h6,3r1r1k/pbqn1p1p/1p3P1Q/4p3/3R3P/2P2P2/PP6/2K2B1R b - - 2 22,Also necessary.
+44,Rfg8,f8g8,3r2rk/pbqn1p1p/1p3P1Q/4p3/3R3P/2P2P2/PP6/2K2B1R w - - 3 23,Also necessary.
+45,Bd3,f1d3,3r2rk/pbqn1p1p/1p3P1Q/4p3/3R3P/2PB1P2/PP6/2K4R b - - 4 23,Now white shifts the focus from g7 to h7 as the mating square.
+46,Nf8,d7f8,3r1nrk/pbq2p1p/1p3P1Q/4p3/3R3P/2PB1P2/PP6/2K4R w - - 5 24,Maybe better for black was ...f4.
+47,Rg4,d4g4,3r1nrk/pbq2p1p/1p3P1Q/4p3/6RP/2PB1P2/PP6/2K4R b - - 6 24,"White still has mating threats.
+And the black f7 pawn continues to isolate the black king from the other black pieces."
+48,Rg6,g8g6,3r1n1k/pbq2p1p/1p3PrQ/4p3/6RP/2PB1P2/PP6/2K4R w - - 7 25,Finally black has unstopped the blockage at f7. Now the black queen guards g7.
+49,Bxg6,d3g6,3r1n1k/pbq2p1p/1p3PBQ/4p3/6RP/2P2P2/PP6/2K4R b - - 0 25,Finally black has unstopped the blockage at f7. Now the black queen guards g7.
+50,fxg6,f7g6,3r1n1k/pbq4p/1p3PpQ/4p3/6RP/2P2P2/PP6/2K4R w - - 0 26,Finally black has unstopped the blockage at f7. Now the black queen guards g7.

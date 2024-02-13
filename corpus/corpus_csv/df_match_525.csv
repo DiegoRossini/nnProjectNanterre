@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,So white starts conventionally.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Jeremy replies in kind.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"White play the Centre game (C21). It is not meant to give white any advantage, as it opens up the game too early."
+4,exd4,e5d4,rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,So Jeremy takes.
+5,c3,c2c3,rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,White offers a pawn sacrifice.
+6,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,Black counters in the centre. This is the recommended reply.
+7,e5,e4e5,rnbqkbnr/ppp2ppp/8/3pP3/3p4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,White advances.
+8,dxc3,d4c3,rnbqkbnr/ppp2ppp/8/3pP3/8/2p5/PP3PPP/RNBQKBNR w KQkq - 0 5,Black now takes the offered pawn.
+9,Nxc3,b1c3,rnbqkbnr/ppp2ppp/8/3pP3/8/2N5/PP3PPP/R1BQKBNR b KQkq - 0 5,White recaptures and attacks the pawn on d5.
+10,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/3p4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6,So black advances and counter-attacks the knight.
+11,Nb5,c3b5,rnbqkbnr/ppp2ppp/8/1N2P3/3p4/8/PP3PPP/R1BQKBNR b KQkq - 1 6,"And now the pawn on d4 is attacked twice, by queen and knight, but only protected once."
+12,a6,a7a6,rnbqkbnr/1pp2ppp/p7/1N2P3/3p4/8/PP3PPP/R1BQKBNR w KQkq - 0 7,"Black gives the pawn back, as a rather nasty check is in the air."
+13,Nxd4,b5d4,rnbqkbnr/1pp2ppp/p7/4P3/3N4/8/PP3PPP/R1BQKBNR b KQkq - 0 7,White takes the pawn back.
+14,Bb4+,f8b4,rnbqk1nr/1pp2ppp/p7/4P3/1b1N4/8/PP3PPP/R1BQKBNR w KQkq - 1 8,"But this check comes in. If white blocks with the bishop, the knight on d4 falls, so white is forced to play a very unnatural move."
+15,Ke2,e1e2,rnbqk1nr/1pp2ppp/p7/4P3/1b1N4/8/PP2KPPP/R1BQ1BNR b kq - 2 8,White cannot castle now.
+16,Qe7,d8e7,rnb1k1nr/1pp1qppp/p7/4P3/1b1N4/8/PP2KPPP/R1BQ1BNR w kq - 3 9,The pawn on e5 is now threatened. Ne7 is more commonly played here. We are now out of the Gameknot databases.
+17,Ngf3,g1f3,rnb1k1nr/1pp1qppp/p7/4P3/1b1N4/5N2/PP2KPPP/R1BQ1B1R b kq - 4 9,The logical way to protect e5
+18,Bg4,c8g4,rn2k1nr/1pp1qppp/p7/4P3/1b1N2b1/5N2/PP2KPPP/R1BQ1B1R w kq - 5 10,"By pinning the knight, black threatens e5 again."
+19,Qb3,d1b3,rn2k1nr/1pp1qppp/p7/4P3/1b1N2b1/1Q3N2/PP2KPPP/R1B2B1R b kq - 6 10,Not sure what this achieves. I was expecting Bf4 to protect e5
+20,Nd7,b8d7,r3k1nr/1ppnqppp/p7/4P3/1b1N2b1/1Q3N2/PP2KPPP/R1B2B1R w kq - 7 11,Black could have just taken on e5 with the queen.

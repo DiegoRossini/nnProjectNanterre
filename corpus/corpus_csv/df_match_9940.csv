@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Scandinavian Defence aka Center Counter
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Scandinavian Defence aka Center Counter
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Boehnke Gambit.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3Pp3/8/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 3,Boehnke Gambit.
+5,Bb5+,f1b5,rnbqkbnr/ppp2ppp/8/1B1Pp3/8/8/PPPP1PPP/RNBQK1NR b KQkq - 1 3,a developing move by the b.
+6,c6,c7c6,rnbqkbnr/pp3ppp/2p5/1B1Pp3/8/8/PPPP1PPP/RNBQK1NR w KQkq - 0 4,in order to maintain the pin.
+7,Ba4,b5a4,rnbqkbnr/pp3ppp/2p5/3Pp3/B7/8/PPPP1PPP/RNBQK1NR b KQkq - 1 4,in order to maintain the pin.
+8,Bc5,f8c5,rnbqk1nr/pp3ppp/2p5/2bPp3/B7/8/PPPP1PPP/RNBQK1NR w KQkq - 2 5,developing the b and attacking the f2 pawn at the same time.
+9,dxc6,d5c6,rnbqk1nr/pp3ppp/2P5/2b1p3/B7/8/PPPP1PPP/RNBQK1NR b KQkq - 0 5,"if 6.Kxf2, then 6...Qd4+ , attacking the Bish at a4 and preventing the k from castling."
+10,Bxf2+,c5f2,rnbqk1nr/pp3ppp/2P5/4p3/B7/8/PPPP1bPP/RNBQK1NR w KQkq - 0 6,"if 6.Kxf2, then 6...Qd4+ , attacking the Bish at a4 and preventing the k from castling."
+11,Kf1,e1f1,rnbqk1nr/pp3ppp/2P5/4p3/B7/8/PPPP1bPP/RNBQ1KNR b kq - 1 6,wonder why he did this. maybe trying to save the Bish
+12,bxc6,b7c6,rnbqk1nr/p4ppp/2p5/4p3/B7/8/PPPP1bPP/RNBQ1KNR w kq - 0 7,thus attacking both the Bish at f2 and the pawn at e5.
+13,Qe2,d1e2,rnbqk1nr/p4ppp/2p5/4p3/B7/8/PPPPQbPP/RNB2KNR b kq - 1 7,thus attacking both the Bish at f2 and the pawn at e5.
+14,Ba6,c8a6,rn1qk1nr/p4ppp/b1p5/4p3/B7/8/PPPPQbPP/RNB2KNR w kq - 2 8,bet he did not see this.
+15,d3,d2d3,rn1qk1nr/p4ppp/b1p5/4p3/B7/3P4/PPP1QbPP/RNB2KNR b kq - 0 8,forced move.
+16,Bd4,f2d4,rn1qk1nr/p4ppp/b1p5/4p3/B2b4/3P4/PPP1Q1PP/RNB2KNR w kq - 1 9,Defending the pawn at e5.
+17,Nf3,g1f3,rn1qk1nr/p4ppp/b1p5/4p3/B2b4/3P1N2/PPP1Q1PP/RNB2K1R b kq - 2 9,best move for white is Nxe5.
+18,Nf6,g8f6,rn1qk2r/p4ppp/b1p2n2/4p3/B2b4/3P1N2/PPP1Q1PP/RNB2K1R w kq - 3 10,best move for white is Nxe5.
+19,c3,c2c3,rn1qk2r/p4ppp/b1p2n2/4p3/B2b4/2PP1N2/PP2Q1PP/RNB2K1R b kq - 0 10,best move for white is Nxe5.
+20,Bxc3,d4c3,rn1qk2r/p4ppp/b1p2n2/4p3/B7/2bP1N2/PP2Q1PP/RNB2K1R w kq - 0 11,"threatening Bxd3, winning the q. the move culminates in winning the d3 pawn come move 13."
+21,Nxe5,f3e5,rn1qk2r/p4ppp/b1p2n2/4N3/B7/2bP4/PP2Q1PP/RNB2K1R b kq - 0 11,defending the d3 pawn.
+22,Bxe5,c3e5,rn1qk2r/p4ppp/b1p2n2/4b3/B7/3P4/PP2Q1PP/RNB2K1R w kq - 0 12,to prevent 13...Qxd3+ (white prevented the + but not the taking of the dpawn)
+23,Qxe5+,e2e5,rn1qk2r/p4ppp/b1p2n2/4Q3/B7/3P4/PP4PP/RNB2K1R b kq - 0 12,to prevent 13...Qxd3+ (white prevented the + but not the taking of the dpawn)
+24,Kf8,e8f8,rn1q1k1r/p4ppp/b1p2n2/4Q3/B7/3P4/PP4PP/RNB2K1R w - - 1 13,to prevent 13...Qxd3+ (white prevented the + but not the taking of the dpawn)
+25,Ke1,f1e1,rn1q1k1r/p4ppp/b1p2n2/4Q3/B7/3P4/PP4PP/RNB1K2R b - - 2 13,to prevent 13...Qxd3+ (white prevented the + but not the taking of the dpawn)
+26,Qxd3,d8d3,rn3k1r/p4ppp/b1p2n2/4Q3/B7/3q4/PP4PP/RNB1K2R w - - 0 14,"anywhere the k moves, black wins the pawn."
+27,Qc5+,e5c5,rn3k1r/p4ppp/b1p2n2/2Q5/B7/3q4/PP4PP/RNB1K2R b - - 1 14,prevents the mate at e2.
+28,Kg8,f8g8,rn4kr/p4ppp/b1p2n2/2Q5/B7/3q4/PP4PP/RNB1K2R w - - 2 15,prevents the mate at e2.
+29,Nc3,b1c3,rn4kr/p4ppp/b1p2n2/2Q5/B7/2Nq4/PP4PP/R1B1K2R b - - 3 15,prevents the mate at e2.
+30,Nbd7,b8d7,r5kr/p2n1ppp/b1p2n2/2Q5/B7/2Nq4/PP4PP/R1B1K2R w - - 4 16,a move to not only to gain a tempo but threaten the next move.
+31,Qf2,c5f2,r5kr/p2n1ppp/b1p2n2/8/B7/2Nq4/PP3QPP/R1B1K2R b - - 5 16,White resigned. mate in 5: 16..Re8+ 17.Ne2 Ne4 18.Qf1 Ng3 19.hxg3 Rxe2+ 20.Qxe2 Qxe2++
+32,Re8+,a8e8,4r1kr/p2n1ppp/b1p2n2/8/B7/2Nq4/PP3QPP/R1B1K2R w - - 6 17,White resigned. mate in 5: 16..Re8+ 17.Ne2 Ne4 18.Qf1 Ng3 19.hxg3 Rxe2+ 20.Qxe2 Qxe2++

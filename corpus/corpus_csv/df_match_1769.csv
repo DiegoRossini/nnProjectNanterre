@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A opening move I'm quite accustomed to, the King's Pawn Opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is always my response, to King's Pawn, the King's Pawn Game."
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"White plays the Bishop's Opening. I already know white is planning to see if I fall for the 'checkmate in three moves' strategy, but I never fall for that anymore."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"I respond with another move I'm popular with, the Bishop's Opening, Berlin Defence, which pretty much ruins any hope for a checkmate on f7."
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3,"This is not a opening in the book, so the book ends early."
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 1 4,Black pulls out the other knight.
+7,Bg5,c1g5,r1bqkb1r/pppp1ppp/2n2n2/4p1B1/2B1P3/3P4/PPP2PPP/RN1QK1NR b KQkq - 2 4,"Another common move. This either usually ends in a bishop, knight exchange or white retreats the bishop."
+8,Be7,f8e7,r1bqk2r/ppppbppp/2n2n2/4p1B1/2B1P3/3P4/PPP2PPP/RN1QK1NR w KQkq - 3 5,I open myself up for castling king-side.
+9,Nf3,g1f3,r1bqk2r/ppppbppp/2n2n2/4p1B1/2B1P3/3P1N2/PPP2PPP/RN1QK2R b KQkq - 4 5,Moment of truth...
+10,h6,h7h6,r1bqk2r/ppppbpp1/2n2n1p/4p1B1/2B1P3/3P1N2/PPP2PPP/RN1QK2R w KQkq - 0 6,Moment of truth...
+11,Bh4,g5h4,r1bqk2r/ppppbpp1/2n2n1p/4p3/2B1P2B/3P1N2/PPP2PPP/RN1QK2R b KQkq - 1 6,...and white retreats the bishop.
+12,g5,g7g5,r1bqk2r/ppppbp2/2n2n1p/4p1p1/2B1P2B/3P1N2/PPP2PPP/RN1QK2R w KQkq - 0 7,Another common move I make. I want to drive back the bishop further.
+13,Bg3,h4g3,r1bqk2r/ppppbp2/2n2n1p/4p1p1/2B1P3/3P1NB1/PPP2PPP/RN1QK2R b KQkq - 1 7,"Normally, this is a good move. You castle and protect your king further. Computer analysis views this as a inaccuracy. I couldn't understand this at first, but it didn't take me long to see why. There are 2 white pieces focused on the black e5 pawn, but only 1 black piece focused on the pawn. The result will be a +1 material point advantage for white. Although not much of a advantage, it is still an advantage."
+14,O-O,e8g8,r1bq1rk1/ppppbp2/2n2n1p/4p1p1/2B1P3/3P1NB1/PPP2PPP/RN1QK2R w KQ - 2 8,"Normally, this is a good move. You castle and protect your king further. Computer analysis views this as a inaccuracy. I couldn't understand this at first, but it didn't take me long to see why. There are 2 white pieces focused on the black e5 pawn, but only 1 black piece focused on the pawn. The result will be a +1 material point advantage for white. Although not much of a advantage, it is still an advantage."
+15,Nxe5,f3e5,r1bq1rk1/ppppbp2/2n2n1p/4N1p1/2B1P3/3P2B1/PPP2PPP/RN1QK2R b KQ - 0 8,"Black now has a small advantage, but being so small, I was not worried."
+16,Nxe5,c6e5,r1bq1rk1/ppppbp2/5n1p/4n1p1/2B1P3/3P2B1/PPP2PPP/RN1QK2R w KQ - 0 9,"Black now has a small advantage, but being so small, I was not worried."
+17,Bxe5,g3e5,r1bq1rk1/ppppbp2/5n1p/4B1p1/2B1P3/3P4/PPP2PPP/RN1QK2R b KQ - 0 9,"Black now has a small advantage, but being so small, I was not worried."
+18,d6,d7d6,r1bq1rk1/ppp1bp2/3p1n1p/4B1p1/2B1P3/3P4/PPP2PPP/RN1QK2R w KQ - 0 10,"After what I saw earlier, I expected white to retreat his bishop again."
+19,Bc3,e5c3,r1bq1rk1/ppp1bp2/3p1n1p/6p1/2B1P3/2BP4/PPP2PPP/RN1QK2R b KQ - 1 10,I was quite correct.
+20,Bg4,c8g4,r2q1rk1/ppp1bp2/3p1n1p/6p1/2B1P1b1/2BP4/PPP2PPP/RN1QK2R w KQ - 2 11,"Yet another popular move by black. I bring my bishop out to attack the queen, and the bishop is protected by the knight. Of course, white will protect it."
+21,Qd2,d1d2,r2q1rk1/ppp1bp2/3p1n1p/6p1/2B1P1b1/2BP4/PPPQ1PPP/RN2K2R b KQ - 3 11,"I was actually expecting white to play 11. f3, but this move works to."
+22,d5,d6d5,r2q1rk1/ppp1bp2/5n1p/3p2p1/2B1P1b1/2BP4/PPPQ1PPP/RN2K2R w KQ - 0 12,I bring a strong attack that involves my knight and queen. It's not likely though that I would get a material advantage.
+23,exd5,e4d5,r2q1rk1/ppp1bp2/5n1p/3P2p1/2B3b1/2BP4/PPPQ1PPP/RN2K2R b KQ - 0 12,"I'm not surprised white didn't play 13. Bxd5, but why Bd4 when white could castle? The computer analysis does view this as a mistake and that a king-side castle was the best move."
+24,Nxd5,f6d5,r2q1rk1/ppp1bp2/7p/3n2p1/2B3b1/2BP4/PPPQ1PPP/RN2K2R w KQ - 0 13,"I'm not surprised white didn't play 13. Bxd5, but why Bd4 when white could castle? The computer analysis does view this as a mistake and that a king-side castle was the best move."
+25,Bd4,c3d4,r2q1rk1/ppp1bp2/7p/3n2p1/2BB2b1/3P4/PPPQ1PPP/RN2K2R b KQ - 1 13,"I'm not surprised white didn't play 13. Bxd5, but why Bd4 when white could castle? The computer analysis does view this as a mistake and that a king-side castle was the best move."
+26,c6,c7c6,r2q1rk1/pp2bp2/2p4p/3n2p1/2BB2b1/3P4/PPPQ1PPP/RN2K2R w KQ - 0 14,"I decide to protect my knight just in case white does decide to attack. I did not see a possible advantage though. 13. ... Nf4 14. Be5 Nxg2+ 15. Kf1 ... This sequence would of not only gave me back my material advantage, but also would give me an advantage in position on the board, but again, I missed the opportunity."

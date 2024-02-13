@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This is always interesting
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,This is always interesting
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,This is always interesting
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,This is always interesting
+5,Bf4,c1f4,rnbqkb1r/pppp1ppp/4pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,This is always interesting
+6,c5,c7c5,rnbqkb1r/pp1p1ppp/4pn2/2p5/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,This is always interesting
+7,e3,e2e3,rnbqkb1r/pp1p1ppp/4pn2/2p5/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,Whites queen isn't in a good place
+8,Qb6,d8b6,rnb1kb1r/pp1p1ppp/1q2pn2/2p5/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 1 5,Whites queen isn't in a good place
+9,Qc1,d1c1,rnb1kb1r/pp1p1ppp/1q2pn2/2p5/3P1B2/4PN2/PPP2PPP/RNQ1KB1R b KQkq - 2 5,Whites queen isn't in a good place
+10,Nc6,b8c6,r1b1kb1r/pp1p1ppp/1qn1pn2/2p5/3P1B2/4PN2/PPP2PPP/RNQ1KB1R w KQkq - 3 6,Whites queen isn't in a good place
+11,c3,c2c3,r1b1kb1r/pp1p1ppp/1qn1pn2/2p5/3P1B2/2P1PN2/PP3PPP/RNQ1KB1R b KQkq - 0 6,Whites queen isn't in a good place
+12,d5,d7d5,r1b1kb1r/pp3ppp/1qn1pn2/2pp4/3P1B2/2P1PN2/PP3PPP/RNQ1KB1R w KQkq - 0 7,Whites queen isn't in a good place
+13,Bd3,f1d3,r1b1kb1r/pp3ppp/1qn1pn2/2pp4/3P1B2/2PBPN2/PP3PPP/RNQ1K2R b KQkq - 1 7,Whites queen isn't in a good place
+14,cxd4,c5d4,r1b1kb1r/pp3ppp/1qn1pn2/3p4/3p1B2/2PBPN2/PP3PPP/RNQ1K2R w KQkq - 0 8,Whites queen isn't in a good place
+15,exd4,e3d4,r1b1kb1r/pp3ppp/1qn1pn2/3p4/3P1B2/2PB1N2/PP3PPP/RNQ1K2R b KQkq - 0 8,Whites queen isn't in a good place
+16,Bd7,c8d7,r3kb1r/pp1b1ppp/1qn1pn2/3p4/3P1B2/2PB1N2/PP3PPP/RNQ1K2R w KQkq - 1 9,Whites queen isn't in a good place
+17,Nbd2,b1d2,r3kb1r/pp1b1ppp/1qn1pn2/3p4/3P1B2/2PB1N2/PP1N1PPP/R1Q1K2R b KQkq - 2 9,Whites queen isn't in a good place
+18,Rc8,a8c8,2r1kb1r/pp1b1ppp/1qn1pn2/3p4/3P1B2/2PB1N2/PP1N1PPP/R1Q1K2R w KQk - 3 10,Whites queen isn't in a good place
+19,Qb1,c1b1,2r1kb1r/pp1b1ppp/1qn1pn2/3p4/3P1B2/2PB1N2/PP1N1PPP/RQ2K2R b KQk - 4 10,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+20,Nh5,f6h5,2r1kb1r/pp1b1ppp/1qn1p3/3p3n/3P1B2/2PB1N2/PP1N1PPP/RQ2K2R w KQk - 5 11,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+21,Be3,f4e3,2r1kb1r/pp1b1ppp/1qn1p3/3p3n/3P4/2PBBN2/PP1N1PPP/RQ2K2R b KQk - 6 11,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+22,h6,h7h6,2r1kb1r/pp1b1pp1/1qn1p2p/3p3n/3P4/2PBBN2/PP1N1PPP/RQ2K2R w KQk - 0 12,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+23,O-O,e1g1,2r1kb1r/pp1b1pp1/1qn1p2p/3p3n/3P4/2PBBN2/PP1N1PPP/RQ3RK1 b k - 1 12,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+24,f5,f7f5,2r1kb1r/pp1b2p1/1qn1p2p/3p1p1n/3P4/2PBBN2/PP1N1PPP/RQ3RK1 w k - 0 13,"Well that creates a space which my knight would like to exploit, and I guess black will not castle"
+25,Nh4,f3h4,2r1kb1r/pp1b2p1/1qn1p2p/3p1p1n/3P3N/2PBB3/PP1N1PPP/RQ3RK1 b k - 1 13,Black can trap the bishop here but at a price
+26,g5,g7g5,2r1kb1r/pp1b4/1qn1p2p/3p1ppn/3P3N/2PBB3/PP1N1PPP/RQ3RK1 w k - 0 14,Black can trap the bishop here but at a price
+27,Ng6,h4g6,2r1kb1r/pp1b4/1qn1p1Np/3p1ppn/3P4/2PBB3/PP1N1PPP/RQ3RK1 b k - 1 14,Black can trap the bishop here but at a price
+28,Rg8,h8g8,2r1kbr1/pp1b4/1qn1p1Np/3p1ppn/3P4/2PBB3/PP1N1PPP/RQ3RK1 w - - 2 15,n c5 looks appealing
+29,Nxf8,g6f8,2r1kNr1/pp1b4/1qn1p2p/3p1ppn/3P4/2PBB3/PP1N1PPP/RQ3RK1 b - - 0 15,n c5 looks appealing
+30,Kxf8,e8f8,2r2kr1/pp1b4/1qn1p2p/3p1ppn/3P4/2PBB3/PP1N1PPP/RQ3RK1 w - - 0 16,n c5 looks appealing
+31,Nb3,d2b3,2r2kr1/pp1b4/1qn1p2p/3p1ppn/3P4/1NPBB3/PP3PPP/RQ3RK1 b - - 1 16,n c5 looks appealing
+32,f4,f5f4,2r2kr1/pp1b4/1qn1p2p/3p2pn/3P1p2/1NPBB3/PP3PPP/RQ3RK1 w - - 0 17,Black has opened up the king side
+33,Bd2,e3d2,2r2kr1/pp1b4/1qn1p2p/3p2pn/3P1p2/1NPB4/PP1B1PPP/RQ3RK1 b - - 1 17,Black has opened up the king side
+34,Ne7,c6e7,2r2kr1/pp1bn3/1q2p2p/3p2pn/3P1p2/1NPB4/PP1B1PPP/RQ3RK1 w - - 2 18,Black has opened up the king side
+35,Nc5,b3c5,2r2kr1/pp1bn3/1q2p2p/2Np2pn/3P1p2/2PB4/PP1B1PPP/RQ3RK1 b - - 3 18,I am surprised by this although I suspect some black thinks there is enough momentum on the king side to force a win
+36,Rxc5,c8c5,5kr1/pp1bn3/1q2p2p/2rp2pn/3P1p2/2PB4/PP1B1PPP/RQ3RK1 w - - 0 19,I am surprised by this although I suspect some black thinks there is enough momentum on the king side to force a win
+37,dxc5,d4c5,5kr1/pp1bn3/1q2p2p/2Pp2pn/5p2/2PB4/PP1B1PPP/RQ3RK1 b - - 0 19,Black's attack is crumbling
+38,Qxc5,b6c5,5kr1/pp1bn3/4p2p/2qp2pn/5p2/2PB4/PP1B1PPP/RQ3RK1 w - - 0 20,Black's attack is crumbling
+39,Re1,f1e1,5kr1/pp1bn3/4p2p/2qp2pn/5p2/2PB4/PP1B1PPP/RQ2R1K1 b - - 1 20,Black's attack is crumbling
+40,g4,g5g4,5kr1/pp1bn3/4p2p/2qp3n/5pp1/2PB4/PP1B1PPP/RQ2R1K1 w - - 0 21,Black's attack is crumbling
+41,Re5,e1e5,5kr1/pp1bn3/4p2p/2qpR2n/5pp1/2PB4/PP1B1PPP/RQ4K1 b - - 1 21,Black's attack is crumbling
+42,g3,g4g3,5kr1/pp1bn3/4p2p/2qpR2n/5p2/2PB2p1/PP1B1PPP/RQ4K1 w - - 0 22,Black's attack is crumbling
+43,hxg3,h2g3,5kr1/pp1bn3/4p2p/2qpR2n/5p2/2PB2P1/PP1B1PP1/RQ4K1 b - - 0 22,Black's attack is crumbling
+44,Nf5,e7f5,5kr1/pp1b4/4p2p/2qpRn1n/5p2/2PB2P1/PP1B1PP1/RQ4K1 w - - 1 23,Black's attack is crumbling
+45,Bxf5,d3f5,5kr1/pp1b4/4p2p/2qpRB1n/5p2/2P3P1/PP1B1PP1/RQ4K1 b - - 0 23,Black's attack is crumbling
+46,exf5,e6f5,5kr1/pp1b4/7p/2qpRp1n/5p2/2P3P1/PP1B1PP1/RQ4K1 w - - 0 24,Black's attack is crumbling
+47,Rxf5+,e5f5,5kr1/pp1b4/7p/2qp1R1n/5p2/2P3P1/PP1B1PP1/RQ4K1 b - - 0 24,Black's attack is crumbling
+48,Bxf5,d7f5,5kr1/pp6/7p/2qp1b1n/5p2/2P3P1/PP1B1PP1/RQ4K1 w - - 0 25,Black resigned
+49,Qxf5+,b1f5,5kr1/pp6/7p/2qp1Q1n/5p2/2P3P1/PP1B1PP1/R5K1 b - - 0 25,Black resigned
+50,Ke7,f8e7,6r1/pp2k3/7p/2qp1Q1n/5p2/2P3P1/PP1B1PP1/R5K1 w - - 1 26,Black resigned
+51,Re1+,a1e1,6r1/pp2k3/7p/2qp1Q1n/5p2/2P3P1/PP1B1PP1/4R1K1 b - - 2 26,Black resigned
+52,Kd8,e7d8,3k2r1/pp6/7p/2qp1Q1n/5p2/2P3P1/PP1B1PP1/4R1K1 w - - 3 27,Black resigned
+53,Qf7,f5f7,3k2r1/pp3Q2/7p/2qp3n/5p2/2P3P1/PP1B1PP1/4R1K1 b - - 4 27,Black resigned
+54,Rf8,g8f8,3k1r2/pp3Q2/7p/2qp3n/5p2/2P3P1/PP1B1PP1/4R1K1 w - - 5 28,Black resigned
+55,Qxh5,f7h5,3k1r2/pp6/7p/2qp3Q/5p2/2P3P1/PP1B1PP1/4R1K1 b - - 0 28,Black resigned
+56,fxg3,f4g3,3k1r2/pp6/7p/2qp3Q/8/2P3p1/PP1B1PP1/4R1K1 w - - 0 29,Black resigned
+57,Qh4+,h5h4,3k1r2/pp6/7p/2qp4/7Q/2P3p1/PP1B1PP1/4R1K1 b - - 1 29,Black resigned
+58,Kc8,d8c8,2k2r2/pp6/7p/2qp4/7Q/2P3p1/PP1B1PP1/4R1K1 w - - 2 30,Black resigned
+59,Qg4+,h4g4,2k2r2/pp6/7p/2qp4/6Q1/2P3p1/PP1B1PP1/4R1K1 b - - 3 30,Black resigned
+60,Kb8,c8b8,1k3r2/pp6/7p/2qp4/6Q1/2P3p1/PP1B1PP1/4R1K1 w - - 4 31,Black resigned
+61,Qxg3+,g4g3,1k3r2/pp6/7p/2qp4/8/2P3Q1/PP1B1PP1/4R1K1 b - - 0 31,Black resigned

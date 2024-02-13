@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,the theory usually recomends 3..Qa5
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,the theory usually recomends 3..Qa5
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,the theory usually recomends 3..Qa5
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,the theory usually recomends 3..Qa5
+5,Nc3,b1c3,rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 3,the theory usually recomends 3..Qa5
+6,Qd8,d5d8,rnbqkbnr/ppp1pppp/8/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4,the theory usually recomends 3..Qa5
+7,Bc4,f1c4,rnbqkbnr/ppp1pppp/8/8/2B5/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 4,"now, Bd5 or Nd5 is possible"
+8,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/8/2B5/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 5,"now, Bd5 or Nd5 is possible"
+9,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/8/2B5/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 5,"now, Bd5 or Nd5 is possible"
+10,Nd7,b8d7,r1bqkbnr/pppn1ppp/4p3/8/2B5/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 6,"now, Bd5 or Nd5 is possible"
+11,d4,d2d4,r1bqkbnr/pppn1ppp/4p3/8/2BP4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 6,"now, Bd5 or Nd5 is possible"
+12,h6,h7h6,r1bqkbnr/pppn1pp1/4p2p/8/2BP4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 7,"now, Bd5 or Nd5 is possible"
+13,O-O,e1g1,r1bqkbnr/pppn1pp1/4p2p/8/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 1 7,"now, Bd5 or Nd5 is possible"
+14,a6,a7a6,r1bqkbnr/1ppn1pp1/p3p2p/8/2BP4/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 8,"now, Bd5 or Nd5 is possible"
+15,Re1,f1e1,r1bqkbnr/1ppn1pp1/p3p2p/8/2BP4/2N2N2/PPP2PPP/R1BQR1K1 b kq - 1 8,"now, Bd5 or Nd5 is possible"
+16,Nb6,d7b6,r1bqkbnr/1pp2pp1/pn2p2p/8/2BP4/2N2N2/PPP2PPP/R1BQR1K1 w kq - 2 9,11..0-0 is not possible because of 12.Bxh6!
+17,Bb3,c4b3,r1bqkbnr/1pp2pp1/pn2p2p/8/3P4/1BN2N2/PPP2PPP/R1BQR1K1 b kq - 3 9,11..0-0 is not possible because of 12.Bxh6!
+18,Bb4,f8b4,r1bqk1nr/1pp2pp1/pn2p2p/8/1b1P4/1BN2N2/PPP2PPP/R1BQR1K1 w kq - 4 10,11..0-0 is not possible because of 12.Bxh6!
+19,Ne5,f3e5,r1bqk1nr/1pp2pp1/pn2p2p/4N3/1b1P4/1BN5/PPP2PPP/R1BQR1K1 b kq - 5 10,11..0-0 is not possible because of 12.Bxh6!
+20,Ne7,g8e7,r1bqk2r/1pp1npp1/pn2p2p/4N3/1b1P4/1BN5/PPP2PPP/R1BQR1K1 w kq - 6 11,11..0-0 is not possible because of 12.Bxh6!
+21,Qg4,d1g4,r1bqk2r/1pp1npp1/pn2p2p/4N3/1b1P2Q1/1BN5/PPP2PPP/R1B1R1K1 b kq - 7 11,11..0-0 is not possible because of 12.Bxh6!
+22,Nf5,e7f5,r1bqk2r/1pp2pp1/pn2p2p/4Nn2/1b1P2Q1/1BN5/PPP2PPP/R1B1R1K1 w kq - 8 12,"Now white can force a queen exchange with 12.Qxf5 exf5 13. Nc6  , but further analysis will find a better move"
+23,Nxf7,e5f7,r1bqk2r/1pp2Np1/pn2p2p/5n2/1b1P2Q1/1BN5/PPP2PPP/R1B1R1K1 b kq - 0 12,"the oldest trick in the book, exploiting the weakness of f7"
+24,Kxf7,e8f7,r1bq3r/1pp2kp1/pn2p2p/5n2/1b1P2Q1/1BN5/PPP2PPP/R1B1R1K1 w - - 0 13,"if not, white will be an exchange and pawn up. Perhaps it would have offered better chances for black"
+25,Qxf5+,g4f5,r1bq3r/1pp2kp1/pn2p2p/5Q2/1b1P4/1BN5/PPP2PPP/R1B1R1K1 b - - 0 13,exploiting the pin on the a2-g8 diagonal
+26,Ke7,f7e7,r1bq3r/1pp1k1p1/pn2p2p/5Q2/1b1P4/1BN5/PPP2PPP/R1B1R1K1 w - - 1 14,maybe 13..Kg8 would have offered better chances of survival
+27,Rxe6+,e1e6,r1bq3r/1pp1k1p1/pn2R2p/5Q2/1b1P4/1BN5/PPP2PPP/R1B3K1 b - - 0 14,bringing the artillery into play
+28,Kd7,e7d7,r1bq3r/1ppk2p1/pn2R2p/5Q2/1b1P4/1BN5/PPP2PPP/R1B3K1 w - - 1 15,"if 14..Bxe6, 15.Qxe6 Kf8 15.Qf7# (again, f7)"
+29,Rxb6+,e6b6,r1bq3r/1ppk2p1/pR5p/5Q2/1b1P4/1BN5/PPP2PPP/R1B3K1 b - - 0 15,checkmate in two
+30,Ke8,d7e8,r1bqk2r/1pp3p1/pR5p/5Q2/1b1P4/1BN5/PPP2PPP/R1B3K1 w - - 1 16,"e7 or e8, Qf7 ends the game"
+31,Qf7#,f5f7,r1bqk2r/1pp2Qp1/pR5p/8/1b1P4/1BN5/PPP2PPP/R1B3K1 b - - 2 16,a miniature

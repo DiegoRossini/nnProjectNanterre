@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I always like to play 1. d4 because it gives you a range of opening ideas.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"1. d4 c6 - I do not know this opening. However, it is most likely that 2. ... d5 will be played."
+3,e4,e2e4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,e4 dominates the centre.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Black replies 2. ... d5, just as predicted."
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"If 3. exd5 cxd5, we have a normal 1. d4 d5 opening, save that my e- file is vulnerable to attack, and black's c-file is half-open. Thus, I proceed with 3. e5."
+6,Qa5+,d8a5,rnb1kbnr/pp2pppp/2p5/q2pP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,"This move is by far a mistake. The queen should not go out in the opening unless the opponent is sure: however, the more important reason is that the queen will be vulnerable to attack."
+7,Bd2,c1d2,rnb1kbnr/pp2pppp/2p5/q2pP3/3P4/8/PPPB1PPP/RN1QKBNR b KQkq - 2 4,"The queen is now chased away by Bd2. Nc3 would have been possible, as would 4. c3, but the bishop has a better taste."
+8,Qb6,a5b6,rnb1kbnr/pp2pppp/1qp5/3pP3/3P4/8/PPPB1PPP/RN1QKBNR w KQkq - 3 5,"The only available square save c7 and d8. This threatens 5. ... Qxb2 or 5. ... Qxd4, the latter better."
+9,Nf3,g1f3,rnb1kbnr/pp2pppp/1qp5/3pP3/3P4/5N2/PPPB1PPP/RN1QKB1R b KQkq - 4 5,"Nf3 to defend the d-pawn, a key pawn. Note that after 5. ... Qxb2, there is now sufficient attack for white."
+10,e6,e7e6,rnb1kbnr/pp3ppp/1qp1p3/3pP3/3P4/5N2/PPPB1PPP/RN1QKB1R w KQkq - 0 6,"5. ... e6 etches in the light-squared bishop, but the other bishop can come out also. It also supports the d-pawn."
+11,a4,a2a4,rnb1kbnr/pp3ppp/1qp1p3/3pP3/P2P4/5N2/1PPB1PPP/RN1QKB1R b KQkq - 0 6,"6. a4!? A most obvious thought, is 7. a5 next move. But 7. a5 has also more sophistication than you may think ..."
+12,Nd7,b8d7,r1b1kbnr/pp1n1ppp/1qp1p3/3pP3/P2P4/5N2/1PPB1PPP/RN1QKB1R w KQkq - 1 7,"Black ignores the threat completely, and instead develops his knight."
+13,a5,a4a5,r1b1kbnr/pp1n1ppp/1qp1p3/P2pP3/3P4/5N2/1PPB1PPP/RN1QKB1R b KQkq - 0 7,7. a5!  There are only 3 squares that Black can escape with the queen.
+14,Qxb2,b6b2,r1b1kbnr/pp1n1ppp/2p1p3/P2pP3/3P4/5N2/1qPB1PPP/RN1QKB1R w KQkq - 0 8,"The title tells the story. This is by far the worst move in Black's play, as you will see soon. Let's play 'spot the move' ..."
+15,Bc3,d2c3,r1b1kbnr/pp1n1ppp/2p1p3/P2pP3/3P4/2B2N2/1qP2PPP/RN1QKB1R b KQkq - 1 8,"8. Bc3! And within only eight moves of the game, black's queen is trapped."
+16,Qxa1,b2a1,r1b1kbnr/pp1n1ppp/2p1p3/P2pP3/3P4/2B2N2/2P2PPP/qN1QKB1R w Kkq - 0 9,"The only beneficial gain, but then Black will be three points down."
+17,Bxa1,c3a1,r1b1kbnr/pp1n1ppp/2p1p3/P2pP3/3P4/5N2/2P2PPP/BN1QKB1R b Kkq - 0 9,"To develop the LSB to b7. However, after the pawn exchange, Black has axb6, threatening the bishop, or Nxc6, developing the knight."
+18,b6,b7b6,r1b1kbnr/p2n1ppp/1pp1p3/P2pP3/3P4/5N2/2P2PPP/BN1QKB1R w Kkq - 0 10,"To develop the LSB to b7. However, after the pawn exchange, Black has axb6, threatening the bishop, or Nxc6, developing the knight."
+19,a6,a5a6,r1b1kbnr/p2n1ppp/Ppp1p3/3pP3/3P4/5N2/2P2PPP/BN1QKB1R b Kkq - 0 10,"This prevents Bb7. However, after b5!, the pawn is trapped."
+20,b5,b6b5,r1b1kbnr/p2n1ppp/P1p1p3/1p1pP3/3P4/5N2/2P2PPP/BN1QKB1R w Kkq - 0 11,b5! and now the pawn is unfortunately etched in.
+21,Nbd2,b1d2,r1b1kbnr/p2n1ppp/P1p1p3/1p1pP3/3P4/5N2/2PN1PPP/B2QKB1R b Kkq - 1 11,"Nd2, preparing c4! next move, collapsing the black pawn structure."

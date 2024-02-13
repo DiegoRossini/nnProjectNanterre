@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The sicilian defence. I think this is the best response to 1.e4 but that's just my personal opinion
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The sicilian defence. I think this is the best response to 1.e4 but that's just my personal opinion
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+8,Nxd4,c6d4,r1bqkbnr/pp1ppppp/8/8/3nP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,"Hmm this isn't so popular. Common alternatives are 2.e6, d6 or Nf6"
+9,Qxd4,d1d4,r1bqkbnr/pp1ppppp/8/8/3QP3/8/PPP2PPP/RNB1KB1R b KQkq - 0 5,This isn't commom either. I expected d6 or e6
+10,b6,b7b6,r1bqkbnr/p2ppppp/1p6/8/3QP3/8/PPP2PPP/RNB1KB1R w KQkq - 0 6,This isn't commom either. I expected d6 or e6
+11,Nc3,b1c3,r1bqkbnr/p2ppppp/1p6/8/3QP3/2N5/PPP2PPP/R1B1KB1R b KQkq - 1 6,Logical development so far. I have a yugoslav kinda setup. I planned to castle queenside and pawn storm my opponent kingside if he castled there
+12,Bb7,c8b7,r2qkbnr/pb1ppppp/1p6/8/3QP3/2N5/PPP2PPP/R1B1KB1R w KQkq - 2 7,Logical development so far. I have a yugoslav kinda setup. I planned to castle queenside and pawn storm my opponent kingside if he castled there
+13,Be3,c1e3,r2qkbnr/pb1ppppp/1p6/8/3QP3/2N1B3/PPP2PPP/R3KB1R b KQkq - 3 7,Logical development so far. I have a yugoslav kinda setup. I planned to castle queenside and pawn storm my opponent kingside if he castled there
+14,e6,e7e6,r2qkbnr/pb1p1ppp/1p2p3/8/3QP3/2N1B3/PPP2PPP/R3KB1R w KQkq - 0 8,Logical development so far. I have a yugoslav kinda setup. I planned to castle queenside and pawn storm my opponent kingside if he castled there
+15,f3,f2f3,r2qkbnr/pb1p1ppp/1p2p3/8/3QP3/2N1BP2/PPP3PP/R3KB1R b KQkq - 0 8,Logical development so far. I have a yugoslav kinda setup. I planned to castle queenside and pawn storm my opponent kingside if he castled there
+16,Bc5,f8c5,r2qk1nr/pb1p1ppp/1p2p3/2b5/3QP3/2N1BP2/PPP3PP/R3KB1R w KQkq - 1 9,...
+17,Qd2,d4d2,r2qk1nr/pb1p1ppp/1p2p3/2b5/4P3/2N1BP2/PPPQ2PP/R3KB1R b KQkq - 2 9,...
+18,Bxe3,c5e3,r2qk1nr/pb1p1ppp/1p2p3/8/4P3/2N1bP2/PPPQ2PP/R3KB1R w KQkq - 0 10,...
+19,Qxe3,d2e3,r2qk1nr/pb1p1ppp/1p2p3/8/4P3/2N1QP2/PPP3PP/R3KB1R b KQkq - 0 10,...
+20,Ne7,g8e7,r2qk2r/pb1pnppp/1p2p3/8/4P3/2N1QP2/PPP3PP/R3KB1R w KQkq - 1 11,And the pawn march begins!
+21,h4,h2h4,r2qk2r/pb1pnppp/1p2p3/8/4P2P/2N1QP2/PPP3P1/R3KB1R b KQkq - 0 11,And the pawn march begins!
+22,O-O,e8g8,r2q1rk1/pb1pnppp/1p2p3/8/4P2P/2N1QP2/PPP3P1/R3KB1R w KQ - 1 12,And the pawn march begins!
+23,g4,g2g4,r2q1rk1/pb1pnppp/1p2p3/8/4P1PP/2N1QP2/PPP5/R3KB1R b KQ - 0 12,And the pawn march begins!
+24,d5,d7d5,r2q1rk1/pb2nppp/1p2p3/3p4/4P1PP/2N1QP2/PPP5/R3KB1R w KQ - 0 13,"While I attack my opponent's kingside, he begins a central counter attack. This is usually a good idea if one wants to have counterplay whatsoever"
+25,O-O-O,e1c1,r2q1rk1/pb2nppp/1p2p3/3p4/4P1PP/2N1QP2/PPP5/2KR1B1R b - - 1 13,"While I attack my opponent's kingside, he begins a central counter attack. This is usually a good idea if one wants to have counterplay whatsoever"
+26,Qc7,d8c7,r4rk1/pbq1nppp/1p2p3/3p4/4P1PP/2N1QP2/PPP5/2KR1B1R w - - 2 14,It was from here I began to drift a little. This losses a pawn I think
+27,e5,e4e5,r4rk1/pbq1nppp/1p2p3/3pP3/6PP/2N1QP2/PPP5/2KR1B1R b - - 0 14,It was from here I began to drift a little. This losses a pawn I think
+28,Nc6,e7c6,r4rk1/pbq2ppp/1pn1p3/3pP3/6PP/2N1QP2/PPP5/2KR1B1R w - - 1 15,"?! Like I said earlier, my play began to dwindle. The queen supports a g-pawn push but the rook would have been better suited for the job"
+29,Qg1,e3g1,r4rk1/pbq2ppp/1pn1p3/3pP3/6PP/2N2P2/PPP5/2KR1BQR b - - 2 15,"?! Like I said earlier, my play began to dwindle. The queen supports a g-pawn push but the rook would have been better suited for the job"
+30,Qxe5,c7e5,r4rk1/pb3ppp/1pn1p3/3pq3/6PP/2N2P2/PPP5/2KR1BQR w - - 0 16,I would need all my pieces in the attack if I want it to be successful
+31,g5,g4g5,r4rk1/pb3ppp/1pn1p3/3pq1P1/7P/2N2P2/PPP5/2KR1BQR b - - 0 16,I would need all my pieces in the attack if I want it to be successful
+32,Rad8,a8d8,3r1rk1/pb3ppp/1pn1p3/3pq1P1/7P/2N2P2/PPP5/2KR1BQR w - - 1 17,I would need all my pieces in the attack if I want it to be successful
+33,Bd3,f1d3,3r1rk1/pb3ppp/1pn1p3/3pq1P1/7P/2NB1P2/PPP5/2KR2QR b - - 2 17,I would need all my pieces in the attack if I want it to be successful
+34,Nb4,c6b4,3r1rk1/pb3ppp/1p2p3/3pq1P1/1n5P/2NB1P2/PPP5/2KR2QR w - - 3 18,That bishop was just too powerful on that diagonal to ignore. Besides retreating the knight would have lost valuable tempo
+35,a3,a2a3,3r1rk1/pb3ppp/1p2p3/3pq1P1/1n5P/P1NB1P2/1PP5/2KR2QR b - - 0 18,That bishop was just too powerful on that diagonal to ignore. Besides retreating the knight would have lost valuable tempo
+36,Nxd3+,b4d3,3r1rk1/pb3ppp/1p2p3/3pq1P1/7P/P1Nn1P2/1PP5/2KR2QR w - - 0 19,That bishop was just too powerful on that diagonal to ignore. Besides retreating the knight would have lost valuable tempo
+37,Rxd3,d1d3,3r1rk1/pb3ppp/1p2p3/3pq1P1/7P/P1NR1P2/1PP5/2K3QR b - - 0 19,White tries to force the rook to leave the defence of the f-pawn. Retreating to e3 only encourages white to play d4 which would win a piece
+38,Qf4+,e5f4,3r1rk1/pb3ppp/1p2p3/3p2P1/5q1P/P1NR1P2/1PP5/2K3QR w - - 1 20,White tries to force the rook to leave the defence of the f-pawn. Retreating to e3 only encourages white to play d4 which would win a piece
+39,Kb1,c1b1,3r1rk1/pb3ppp/1p2p3/3p2P1/5q1P/P1NR1P2/1PP5/1K4QR b - - 2 20,White tries to force the rook to leave the defence of the f-pawn. Retreating to e3 only encourages white to play d4 which would win a piece
+40,Ba6,b7a6,3r1rk1/p4ppp/bp2p3/3p2P1/5q1P/P1NR1P2/1PP5/1K4QR w - - 3 21,White tries to force the rook to leave the defence of the f-pawn. Retreating to e3 only encourages white to play d4 which would win a piece
+41,Ne2,c3e2,3r1rk1/p4ppp/bp2p3/3p2P1/5q1P/P2R1P2/1PP1N3/1K4QR b - - 4 21,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+42,Qf5,f4f5,3r1rk1/p4ppp/bp2p3/3p1qP1/7P/P2R1P2/1PP1N3/1K4QR w - - 5 22,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+43,Rd2,d3d2,3r1rk1/p4ppp/bp2p3/3p1qP1/7P/P4P2/1PPRN3/1K4QR b - - 6 22,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+44,Bxe2,a6e2,3r1rk1/p4ppp/1p2p3/3p1qP1/7P/P4P2/1PPRb3/1K4QR w - - 0 23,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+45,Rxe2,d2e2,3r1rk1/p4ppp/1p2p3/3p1qP1/7P/P4P2/1PP1R3/1K4QR b - - 0 23,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+46,Qxf3,f5f3,3r1rk1/p4ppp/1p2p3/3p2P1/7P/P4q2/1PP1R3/1K4QR w - - 0 24,"White nabs a second pawn... Its now do or die for me because if this game reaches an end-game, white's two extra pawns should be decisive.."
+47,Rg2,e2g2,3r1rk1/p4ppp/1p2p3/3p2P1/7P/P4q2/1PP3R1/1K4QR b - - 1 24,I had a hard time deciding whether to put this rook on g2 or h2. It turned out this rook would be the brave soldier that would save the black nation
+48,Rdc8,d8c8,2r2rk1/p4ppp/1p2p3/3p2P1/7P/P4q2/1PP3R1/1K4QR w - - 2 25,"Like I said, its do or die"
+49,h5,h4h5,2r2rk1/p4ppp/1p2p3/3p2PP/8/P4q2/1PP3R1/1K4QR b - - 0 25,"Like I said, its do or die"
+50,d4,d5d4,2r2rk1/p4ppp/1p2p3/6PP/3p4/P4q2/1PP3R1/1K4QR w - - 0 26,! A pawn sacrifice to fully open the g and h files for me.
+51,g6,g5g6,2r2rk1/p4ppp/1p2p1P1/7P/3p4/P4q2/1PP3R1/1K4QR b - - 0 26,! A pawn sacrifice to fully open the g and h files for me.
+52,fxg6,f7g6,2r2rk1/p5pp/1p2p1p1/7P/3p4/P4q2/1PP3R1/1K4QR w - - 0 27,! A pawn sacrifice to fully open the g and h files for me.
+53,h6,h5h6,2r2rk1/p5pp/1p2p1pP/8/3p4/P4q2/1PP3R1/1K4QR b - - 0 27,! A pawn sacrifice to fully open the g and h files for me.
+54,gxh6,g7h6,2r2rk1/p6p/1p2p1pp/8/3p4/P4q2/1PP3R1/1K4QR w - - 0 28,It was immediately after I played this move I realised that Rxg6+! Was far better. If he played Kh8 then Qxd4+ puts black in serious trouble. Playing hxg6 fails to Qxg6 Kh8 Rxh6#
+55,Rxh6,h1h6,2r2rk1/p6p/1p2p1pR/8/3p4/P4q2/1PP3R1/1K4Q1 b - - 0 28,It was immediately after I played this move I realised that Rxg6+! Was far better. If he played Kh8 then Qxd4+ puts black in serious trouble. Playing hxg6 fails to Qxg6 Kh8 Rxh6#
+56,d3,d4d3,2r2rk1/p6p/1p2p1pR/8/8/P2p1q2/1PP3R1/1K4Q1 w - - 0 29,This turned out to be blacks losing move. He should have payed more attention to his defence. Now I breakthrough by force
+57,Rgxg6+,g2g6,2r2rk1/p6p/1p2p1RR/8/8/P2p1q2/1PP5/1K4Q1 b - - 0 29,! Solid. My opponent can't take the rook as Qxg6 would be checkmate
+58,Kh8,g8h8,2r2r1k/p6p/1p2p1RR/8/8/P2p1q2/1PP5/1K4Q1 w - - 1 30,The best place for the king as Kf7 losses to (30. Kf7 31. Rxh7+ Ke8 32. Rxe6+ Kd8 33. Qd4+ Qd5 34. Qxd5#

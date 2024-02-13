@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My opponent plays Queen Pawn.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queen's Gambit.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Queen's Gambit.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,"According to Game DB, this is QGD (D06), Marshall defence. Most people defend with the e6, I prefer with the knight, as it doesn't block in my bishop on the second move, and if I need to, I can just protect with e6 later."
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3,What did I say?
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,What did I say?
+7,a3,a2a3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/P1N5/1P2PPPP/R1BQKBNR b KQkq - 0 4,"I guess this move is played to stop black from playing Bb4, pinning the knight, but I would prefer Bg5, continuing with the Gambit, or Nf3."
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/P1N5/1P2PPPP/R1BQKBNR w KQkq - 0 5,"Takes?? Now, I have two centre pawns to one. Better: e3 or Nf3."
+9,dxc5,d4c5,rnbqkb1r/pp3ppp/4pn2/2Pp4/2P5/P1N5/1P2PPPP/R1BQKBNR b KQkq - 0 5,"Takes?? Now, I have two centre pawns to one. Better: e3 or Nf3."
+10,Bxc5,f8c5,rnbqk2r/pp3ppp/4pn2/2bp4/2P5/P1N5/1P2PPPP/R1BQKBNR w KQkq - 0 6,I have developed two pieces to white's one.
+11,Bg5,c1g5,rnbqk2r/pp3ppp/4pn2/2bp2B1/2P5/P1N5/1P2PPPP/R2QKBNR b KQkq - 1 6,Pinning my knight to my queen.
+12,O-O,e8g8,rnbq1rk1/pp3ppp/4pn2/2bp2B1/2P5/P1N5/1P2PPPP/R2QKBNR w KQ - 2 7,(?) Loses a knight for a pawn.
+13,cxd5,c4d5,rnbq1rk1/pp3ppp/4pn2/2bP2B1/8/P1N5/1P2PPPP/R2QKBNR b KQ - 0 7,(?) Loses a knight for a pawn.
+14,exd5,e6d5,rnbq1rk1/pp3ppp/5n2/2bp2B1/8/P1N5/1P2PPPP/R2QKBNR w KQ - 0 8,(?) Loses a knight for a pawn.
+15,Nxd5,c3d5,rnbq1rk1/pp3ppp/5n2/2bN2B1/8/P7/1P2PPPP/R2QKBNR b KQ - 0 8,(?) Loses a knight for a pawn.
+16,Qxd5,d8d5,rnb2rk1/pp3ppp/5n2/2bq2B1/8/P7/1P2PPPP/R2QKBNR w KQ - 0 9,I love swapping queens.
+17,Bxf6,g5f6,rnb2rk1/pp3ppp/5B2/2bq4/8/P7/1P2PPPP/R2QKBNR b KQ - 0 9,I love swapping queens.
+18,Qxd1+,d5d1,rnb2rk1/pp3ppp/5B2/2b5/8/P7/1P2PPPP/R2qKBNR w KQ - 0 10,I love swapping queens.
+19,Rxd1,a1d1,rnb2rk1/pp3ppp/5B2/2b5/8/P7/1P2PPPP/3RKBNR b K - 0 10,"I am now up +2 with my bishop developed, and my king safely castled (Except now open to the g-file)."
+20,gxf6,g7f6,rnb2rk1/pp3p1p/5p2/2b5/8/P7/1P2PPPP/3RKBNR w K - 0 11,"I am now up +2 with my bishop developed, and my king safely castled (Except now open to the g-file)."
+21,e3,e2e3,rnb2rk1/pp3p1p/5p2/2b5/8/P3P3/1P3PPP/3RKBNR b K - 0 11,Wanting to develop his Bishop.
+22,Nc6,b8c6,r1b2rk1/pp3p1p/2n2p2/2b5/8/P3P3/1P3PPP/3RKBNR w K - 1 12,"Not wanting doubled pawns, I offer a swap."
+23,Bc4,f1c4,r1b2rk1/pp3p1p/2n2p2/2b5/2B5/P3P3/1P3PPP/3RK1NR b K - 2 12,"Not wanting doubled pawns, I offer a swap."
+24,Be6,c8e6,r4rk1/pp3p1p/2n1bp2/2b5/2B5/P3P3/1P3PPP/3RK1NR w K - 3 13,"Not wanting doubled pawns, I offer a swap."
+25,Be2,c4e2,r4rk1/pp3p1p/2n1bp2/2b5/8/P3P3/1P2BPPP/3RK1NR b K - 4 13,Awww.
+26,Rfd8,f8d8,r2r2k1/pp3p1p/2n1bp2/2b5/8/P3P3/1P2BPPP/3RK1NR w K - 5 14,The white rook no longer owns this file.
+27,Nf3,g1f3,r2r2k1/pp3p1p/2n1bp2/2b5/8/P3PN2/1P2BPPP/3RK2R b K - 6 14,I happily swap rooks.
+28,Rxd1+,d8d1,r5k1/pp3p1p/2n1bp2/2b5/8/P3PN2/1P2BPPP/3rK2R w K - 0 15,I happily swap rooks.
+29,Bxd1,e2d1,r5k1/pp3p1p/2n1bp2/2b5/8/P3PN2/1P3PPP/3BK2R b K - 0 15,Now I own the file.
+30,Rd8,a8d8,3r2k1/pp3p1p/2n1bp2/2b5/8/P3PN2/1P3PPP/3BK2R w K - 1 16,Now I own the file.
+31,O-O,e1g1,3r2k1/pp3p1p/2n1bp2/2b5/8/P3PN2/1P3PPP/3B1RK1 b - - 2 16,"Again, I offer a swap to un-double my pawns (If that's a word)."
+32,Ne5,c6e5,3r2k1/pp3p1p/4bp2/2b1n3/8/P3PN2/1P3PPP/3B1RK1 w - - 3 17,"Again, I offer a swap to un-double my pawns (If that's a word)."
+33,b4,b2b4,3r2k1/pp3p1p/4bp2/2b1n3/1P6/P3PN2/5PPP/3B1RK1 b - - 0 17,"Threatening the rook. I also see a possibility of: 19. Re1 a4 20. bxa4 Bxa3. Threatening Bb4, trapping the rook."
+34,Be7,c5e7,3r2k1/pp2bp1p/4bp2/4n3/1P6/P3PN2/5PPP/3B1RK1 w - - 1 18,"Threatening the rook. I also see a possibility of: 19. Re1 a4 20. bxa4 Bxa3. Threatening Bb4, trapping the rook."
+35,Nd4,f3d4,3r2k1/pp2bp1p/4bp2/4n3/1P1N4/P3P3/5PPP/3B1RK1 b - - 2 18,"Threatening the rook. I also see a possibility of: 19. Re1 a4 20. bxa4 Bxa3. Threatening Bb4, trapping the rook."
+36,Bc4,e6c4,3r2k1/pp2bp1p/5p2/4n3/1PbN4/P3P3/5PPP/3B1RK1 w - - 3 19,"Threatening the rook. I also see a possibility of: 19. Re1 a4 20. bxa4 Bxa3. Threatening Bb4, trapping the rook."
+37,Re1,f1e1,3r2k1/pp2bp1p/5p2/4n3/1PbN4/P3P3/5PPP/3BR1K1 b - - 4 19,Threatening my bishop. Unless I want to swap (I don't) my only option is Bf8.
+38,a5,a7a5,3r2k1/1p2bp1p/5p2/p3n3/1PbN4/P3P3/5PPP/3BR1K1 w - - 0 20,Threatening my bishop. Unless I want to swap (I don't) my only option is Bf8.
+39,Nf5,d4f5,3r2k1/1p2bp1p/5p2/p3nN2/1Pb5/P3P3/5PPP/3BR1K1 b - - 1 20,Threatening my bishop. Unless I want to swap (I don't) my only option is Bf8.

@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Vienna Game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Vienna Game.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Vienna Game.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Black steps out of opening book targeting the week f7 square.
+5,Nf3,g1f3,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Point being Nc6 4. Nxe5 Nxe5 5. d4.
+6,d6,d7d6,rnbqk1nr/ppp2ppp/3p4/2b1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,Black solidifies his position with his bad bishop outside of his pawn structure.
+7,d4,d2d4,rnbqk1nr/ppp2ppp/3p4/2b1p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,d3 seemed week due to blacks bishop.  d4 may not be possible later so I challenge the center right away.
+8,exd4,e5d4,rnbqk1nr/ppp2ppp/3p4/2b5/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,Bg5 was considered.
+9,Nxd4,f3d4,rnbqk1nr/ppp2ppp/3p4/2b5/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,Bg5 was considered.
+10,Nf6,g8f6,rnbqk2r/ppp2ppp/3p1n2/2b5/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 1 6,Bg5 was considered.
+11,Bc4,f1c4,rnbqk2r/ppp2ppp/3p1n2/2b5/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 2 6,Bg5 was considered.
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/3p1n2/2b5/2BNP3/2N5/PPP2PPP/R1BQK2R w KQ - 3 7,locking the bishop in for the time.  Nxd5 is met with caution.  8. Nxd5 c6!?
+13,O-O,e1g1,rnbq1rk1/ppp2ppp/3p1n2/2b5/2BNP3/2N5/PPP2PPP/R1BQ1RK1 b - - 4 7,locking the bishop in for the time.  Nxd5 is met with caution.  8. Nxd5 c6!?
+14,d5,d6d5,rnbq1rk1/ppp2ppp/5n2/2bp4/2BNP3/2N5/PPP2PPP/R1BQ1RK1 w - - 0 8,locking the bishop in for the time.  Nxd5 is met with caution.  8. Nxd5 c6!?
+15,exd5,e4d5,rnbq1rk1/ppp2ppp/5n2/2bP4/2BN4/2N5/PPP2PPP/R1BQ1RK1 b - - 0 8,locking the bishop in for the time.  Nxd5 is met with caution.  8. Nxd5 c6!?
+16,c6,c7c6,rnbq1rk1/pp3ppp/2p2n2/2bP4/2BN4/2N5/PPP2PPP/R1BQ1RK1 w - - 0 9,!? white can't take on dxc6 Qxd4 losing a knight.
+17,Bg5,c1g5,rnbq1rk1/pp3ppp/2p2n2/2bP2B1/2BN4/2N5/PPP2PPP/R2Q1RK1 b - - 1 9,I almost considered not playing this move.  But it does break up black structure which is a key to my attack later on.
+18,Qb6,d8b6,rnb2rk1/pp3ppp/1qp2n2/2bP2B1/2BN4/2N5/PPP2PPP/R2Q1RK1 w - - 2 10,I almost considered not playing this move.  But it does break up black structure which is a key to my attack later on.
+19,Bxf6,g5f6,rnb2rk1/pp3ppp/1qp2B2/2bP4/2BN4/2N5/PPP2PPP/R2Q1RK1 b - - 0 10,I almost considered not playing this move.  But it does break up black structure which is a key to my attack later on.
+20,gxf6,g7f6,rnb2rk1/pp3p1p/1qp2p2/2bP4/2BN4/2N5/PPP2PPP/R2Q1RK1 w - - 0 11,Na4!? Qb4 Nxc5
+21,Na4,c3a4,rnb2rk1/pp3p1p/1qp2p2/2bP4/N1BN4/8/PPP2PPP/R2Q1RK1 b - - 1 11,Na4!? Qb4 Nxc5
+22,Qb4,b6b4,rnb2rk1/pp3p1p/2p2p2/2bP4/NqBN4/8/PPP2PPP/R2Q1RK1 w - - 2 12,Now the queen has a choice Qxc4 Ne4 or Qxc5 Bb3.  I believe the correct move though it fuels a bit of an attack for white is Qxc4.
+23,Nxc5,a4c5,rnb2rk1/pp3p1p/2p2p2/2NP4/1qBN4/8/PPP2PPP/R2Q1RK1 b - - 0 12,Now the queen has a choice Qxc4 Ne4 or Qxc5 Bb3.  I believe the correct move though it fuels a bit of an attack for white is Qxc4.
+24,Qxc5,b4c5,rnb2rk1/pp3p1p/2p2p2/2qP4/2BN4/8/PPP2PPP/R2Q1RK1 w - - 0 13,keeping the bishop under lock and key.
+25,Bb3,c4b3,rnb2rk1/pp3p1p/2p2p2/2qP4/3N4/1B6/PPP2PPP/R2Q1RK1 b - - 1 13,keeping the bishop under lock and key.
+26,cxd5,c6d5,rnb2rk1/pp3p1p/5p2/2qp4/3N4/1B6/PPP2PPP/R2Q1RK1 w - - 0 14,keeping the bishop under lock and key.
+27,Qd3,d1d3,rnb2rk1/pp3p1p/5p2/2qp4/3N4/1B1Q4/PPP2PPP/R4RK1 b - - 1 14,Connecting the rooks and allowing a possible check Qg3.
+28,Bg4,c8g4,rn3rk1/pp3p1p/5p2/2qp4/3N2b1/1B1Q4/PPP2PPP/R4RK1 w - - 2 15,Prevents Rd1.
+29,f3,f2f3,rn3rk1/pp3p1p/5p2/2qp4/3N2b1/1B1Q1P2/PPP3PP/R4RK1 b - - 0 15,unpins the knight.
+30,Bh5,g4h5,rn3rk1/pp3p1p/5p2/2qp3b/3N4/1B1Q1P2/PPP3PP/R4RK1 w - - 1 16,unpins the knight.
+31,Kh1,g1h1,rn3rk1/pp3p1p/5p2/2qp3b/3N4/1B1Q1P2/PPP3PP/R4R1K b - - 2 16,unpins the knight.
+32,Bg6,h5g6,rn3rk1/pp3p1p/5pb1/2qp4/3N4/1B1Q1P2/PPP3PP/R4R1K w - - 3 17,Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.
+33,Qd2,d3d2,rn3rk1/pp3p1p/5pb1/2qp4/3N4/1B3P2/PPPQ2PP/R4R1K b - - 4 17,Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.
+34,Nc6,b8c6,r4rk1/pp3p1p/2n2pb1/2qp4/3N4/1B3P2/PPPQ2PP/R4R1K w - - 5 18,Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.
+35,Nxc6,d4c6,r4rk1/pp3p1p/2N2pb1/2qp4/8/1B3P2/PPPQ2PP/R4R1K b - - 0 18,Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.
+36,bxc6,b7c6,r4rk1/p4p1p/2p2pb1/2qp4/8/1B3P2/PPPQ2PP/R4R1K w - - 0 19,Trade of knights Giving the bishop little to no life but its still a good bishop and the endgame should we reach it could be quite good for white.
+37,f4,f3f4,r4rk1/p4p1p/2p2pb1/2qp4/5P2/1B6/PPPQ2PP/R4R1K b - - 0 19,Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.
+38,Rae8,a8e8,4rrk1/p4p1p/2p2pb1/2qp4/5P2/1B6/PPPQ2PP/R4R1K w - - 1 20,Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.
+39,f5,f4f5,4rrk1/p4p1p/2p2pb1/2qp1P2/8/1B6/PPPQ2PP/R4R1K b - - 0 20,Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.
+40,Bh5,g6h5,4rrk1/p4p1p/2p2p2/2qp1P1b/8/1B6/PPPQ2PP/R4R1K w - - 1 21,Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.
+41,Rae1,a1e1,4rrk1/p4p1p/2p2p2/2qp1P1b/8/1B6/PPPQ2PP/4RR1K b - - 2 21,Critical point what can black do? a5 is met by a4 Bg4 is met by Qf4.
+42,Rxe1,e8e1,5rk1/p4p1p/2p2p2/2qp1P1b/8/1B6/PPPQ2PP/4rR1K w - - 0 22,Black makes a choice though not a good one.  White will have full control of the e-file.
+43,Rxe1,f1e1,5rk1/p4p1p/2p2p2/2qp1P1b/8/1B6/PPPQ2PP/4R2K b - - 0 22,Give the bishop chase.
+44,Bg4,h5g4,5rk1/p4p1p/2p2p2/2qp1P2/6b1/1B6/PPPQ2PP/4R2K w - - 1 23,Give the bishop chase.
+45,Qf4,d2f4,5rk1/p4p1p/2p2p2/2qp1P2/5Qb1/1B6/PPP3PP/4R2K b - - 2 23,Give the bishop chase.
+46,Bh5,g4h5,5rk1/p4p1p/2p2p2/2qp1P1b/5Q2/1B6/PPP3PP/4R2K w - - 3 24,Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.
+47,Qg3+,f4g3,5rk1/p4p1p/2p2p2/2qp1P1b/8/1B4Q1/PPP3PP/4R2K b - - 4 24,Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.
+48,Kh8,g8h8,5r1k/p4p1p/2p2p2/2qp1P1b/8/1B4Q1/PPP3PP/4R2K w - - 5 25,Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.
+49,Qh4,g3h4,5r1k/p4p1p/2p2p2/2qp1P1b/7Q/1B6/PPP3PP/4R2K b - - 6 25,Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.
+50,Bf3,h5f3,5r1k/p4p1p/2p2p2/2qp1P2/7Q/1B3b2/PPP3PP/4R2K w - - 7 26,Black had no where to go so decides to sac the bishop for structure.  Though I have a very good attack going in which mate is soon. Best was probably Bg6.  I believe it is force mate from here stop and see if you can find it.

@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Nc6 is more common, and better"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Nc6 is more common, and better"
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Nc6 is more common, and better"
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"Nc6 is more common, and better"
+5,c3,c2c3,rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"Nc6 is more common, and better"
+6,dxc3,d4c3,rnbqkbnr/pp1ppppp/8/8/4P3/2p5/PP3PPP/RNBQKBNR w KQkq - 0 4,"Nc6 is more common, and better"
+7,Nxc3,b1c3,rnbqkbnr/pp1ppppp/8/8/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,"Nc6 is more common, and better"
+8,e5,e7e5,rnbqkbnr/pp1p1ppp/8/4p3/4P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,"Nc6 is more common, and better"
+9,Nf3,g1f3,rnbqkbnr/pp1p1ppp/8/4p3/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,"Nc6 is more common, and better"
+10,Nf6,g8f6,rnbqkb1r/pp1p1ppp/5n2/4p3/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6,"Nc6 is more common, and better"
+11,Bc4,f1c4,rnbqkb1r/pp1p1ppp/5n2/4p3/2B1P3/2N2N2/PP3PPP/R1BQK2R b KQkq - 3 6,"a bit early for this trade, castling is better here"
+12,Bc5,f8c5,rnbqk2r/pp1p1ppp/5n2/2b1p3/2B1P3/2N2N2/PP3PPP/R1BQK2R w KQkq - 4 7,"a bit early for this trade, castling is better here"
+13,Nxe5,f3e5,rnbqk2r/pp1p1ppp/5n2/2b1N3/2B1P3/2N5/PP3PPP/R1BQK2R b KQkq - 0 7,"a bit early for this trade, castling is better here"
+14,O-O,e8g8,rnbq1rk1/pp1p1ppp/5n2/2b1N3/2B1P3/2N5/PP3PPP/R1BQK2R w KQ - 1 8,"a bit early for this trade, castling is better here"
+15,Nxf7,e5f7,rnbq1rk1/pp1p1Npp/5n2/2b5/2B1P3/2N5/PP3PPP/R1BQK2R b KQ - 0 8,"a bit early for this trade, castling is better here"
+16,Rxf7,f8f7,rnbq2k1/pp1p1rpp/5n2/2b5/2B1P3/2N5/PP3PPP/R1BQK2R w KQ - 0 9,Qe7 was the play
+17,Bxf7+,c4f7,rnbq2k1/pp1p1Bpp/5n2/2b5/4P3/2N5/PP3PPP/R1BQK2R b KQ - 0 9,Qe7 was the play
+18,Kxf7,g8f7,rnbq4/pp1p1kpp/5n2/2b5/4P3/2N5/PP3PPP/R1BQK2R w KQ - 0 10,Qe7 was the play
+19,e5,e4e5,rnbq4/pp1p1kpp/5n2/2b1P3/8/2N5/PP3PPP/R1BQK2R b KQ - 0 10,Qe7 was the play
+20,Ne8,f6e8,rnbqn3/pp1p1kpp/8/2b1P3/8/2N5/PP3PPP/R1BQK2R w KQ - 1 11,Qe7 was the play
+21,Qd5+,d1d5,rnbqn3/pp1p1kpp/8/2bQP3/8/2N5/PP3PPP/R1B1K2R b KQ - 2 11,Qg8 wins more quickly
+22,Ke7,f7e7,rnbqn3/pp1pk1pp/8/2bQP3/8/2N5/PP3PPP/R1B1K2R w KQ - 3 12,Qg8 wins more quickly
+23,Qxc5+,d5c5,rnbqn3/pp1pk1pp/8/2Q1P3/8/2N5/PP3PPP/R1B1K2R b KQ - 0 12,Qg8 wins more quickly
+24,d6,d7d6,rnbqn3/pp2k1pp/3p4/2Q1P3/8/2N5/PP3PPP/R1B1K2R w KQ - 0 13,Bg5  or exd6  are better here
+25,Nd5+,c3d5,rnbqn3/pp2k1pp/3p4/2QNP3/8/8/PP3PPP/R1B1K2R b KQ - 1 13,Bg5  or exd6  are better here
+26,Ke6,e7e6,rnbqn3/pp4pp/3pk3/2QNP3/8/8/PP3PPP/R1B1K2R w KQ - 2 14,"he should have retreated his king to f7 by now, and has passed up multiple opportunities to do so"
+27,exd6,e5d6,rnbqn3/pp4pp/3Pk3/2QN4/8/8/PP3PPP/R1B1K2R b KQ - 0 14,Qc4 is better
+28,Na6,b8a6,r1bqn3/pp4pp/n2Pk3/2QN4/8/8/PP3PPP/R1B1K2R w KQ - 1 15,again Kf7 is better
+29,Nf4+,d5f4,r1bqn3/pp4pp/n2Pk3/2Q5/5N2/8/PP3PPP/R1B1K2R b KQ - 2 15,again Kf7 is better
+30,Kd7,e6d7,r1bqn3/pp1k2pp/n2P4/2Q5/5N2/8/PP3PPP/R1B1K2R w KQ - 3 16,again Kf7 is better
+31,Qe5,c5e5,r1bqn3/pp1k2pp/n2P4/4Q3/5N2/8/PP3PPP/R1B1K2R b KQ - 4 16,"perhaps Qb5 , then castle?  Should lead to material gain"
+32,Nb4,a6b4,r1bqn3/pp1k2pp/3P4/4Q3/1n3N2/8/PP3PPP/R1B1K2R w KQ - 5 17,needed to take on d6
+33,Qe6+,e5e6,r1bqn3/pp1k2pp/3PQ3/8/1n3N2/8/PP3PPP/R1B1K2R b KQ - 6 17,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+34,Kc6,d7c6,r1bqn3/pp4pp/2kPQ3/8/1n3N2/8/PP3PPP/R1B1K2R w KQ - 7 18,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+35,Qc4+,e6c4,r1bqn3/pp4pp/2kP4/8/1nQ2N2/8/PP3PPP/R1B1K2R b KQ - 8 18,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+36,Kxd6,c6d6,r1bqn3/pp4pp/3k4/8/1nQ2N2/8/PP3PPP/R1B1K2R w KQ - 0 19,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+37,Qxb4+,c4b4,r1bqn3/pp4pp/3k4/8/1Q3N2/8/PP3PPP/R1B1K2R b KQ - 0 19,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+38,Kc7,d6c7,r1bqn3/ppk3pp/8/8/1Q3N2/8/PP3PPP/R1B1K2R w KQ - 1 20,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+39,O-O,e1g1,r1bqn3/ppk3pp/8/8/1Q3N2/8/PP3PPP/R1B2RK1 b - - 2 20,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+40,Qg5,d8g5,r1b1n3/ppk3pp/8/6q1/1Q3N2/8/PP3PPP/R1B2RK1 w - - 3 21,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"
+41,Nd5+,f4d5,r1b1n3/ppk3pp/8/3N2q1/1Q6/8/PP3PPP/R1B2RK1 b - - 4 21,"Ne6 IS far superior, but overall my comments are only advocating better winning moves.  Apart from move 8, very well played by Nick"

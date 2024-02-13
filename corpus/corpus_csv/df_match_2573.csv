@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+5,Bc4,f1c4,rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+6,Bd7,c8d7,rn1qkbnr/pp1bpppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+7,Nc3,b1c3,rn1qkbnr/pp1bpppp/3p4/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+8,Nf6,g8f6,rn1qkb1r/pp1bpppp/3p1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+9,O-O,e1g1,rn1qkb1r/pp1bpppp/3p1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 5 5,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+10,h6,h7h6,rn1qkb1r/pp1bppp1/3p1n1p/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,"The opening moves give white a better position since white has already castled, while black needs 3 moves to castle, and white already has two minor pieces out in front of the pawns while black has only 1 minor piece on the front lines."
+11,e5,e4e5,rn1qkb1r/pp1bppp1/3p1n1p/2p1P3/2B5/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 0 6,I expected black to reply with d6xe5.
+12,Ng4,f6g4,rn1qkb1r/pp1bppp1/3p3p/2p1P3/2B3n1/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 1 7,I expected black to reply with d6xe5.
+13,exd6,e5d6,rn1qkb1r/pp1bppp1/3P3p/2p5/2B3n1/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 0 7,The pawn exchange opens up the king line before the black king can castle.
+14,exd6,e7d6,rn1qkb1r/pp1b1pp1/3p3p/2p5/2B3n1/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 8,The pawn exchange opens up the king line before the black king can castle.
+15,Re1+,f1e1,rn1qkb1r/pp1b1pp1/3p3p/2p5/2B3n1/2N2N2/PPPP1PPP/R1BQR1K1 b kq - 1 8,Be6 would have led to Bxe6 f7xe6 Rxe5+ with white ahead by a pawn and able to deploy both knights to support the rook. Be7 allows black to castle.
+16,Be7,f8e7,rn1qk2r/pp1bbpp1/3p3p/2p5/2B3n1/2N2N2/PPPP1PPP/R1BQR1K1 w kq - 2 9,Be6 would have led to Bxe6 f7xe6 Rxe5+ with white ahead by a pawn and able to deploy both knights to support the rook. Be7 allows black to castle.
+17,Nd5,c3d5,rn1qk2r/pp1bbpp1/3p3p/2pN4/2B3n1/5N2/PPPP1PPP/R1BQR1K1 b kq - 3 9,White puts another threat on the pinned bishop.
+18,Nc6,b8c6,r2qk2r/pp1bbpp1/2np3p/2pN4/2B3n1/5N2/PPPP1PPP/R1BQR1K1 w kq - 4 10,White plans to fianchetto the bishop and take out unprotected g7 pawn.
+19,b3,b2b3,r2qk2r/pp1bbpp1/2np3p/2pN4/2B3n1/1P3N2/P1PP1PPP/R1BQR1K1 b kq - 0 10,White plans to fianchetto the bishop and take out unprotected g7 pawn.
+20,Nf6,g4f6,r2qk2r/pp1bbpp1/2np1n1p/2pN4/2B5/1P3N2/P1PP1PPP/R1BQR1K1 w kq - 1 11,That pawn is still unprotected even after it captures the knight.
+21,Nxf6+,d5f6,r2qk2r/pp1bbpp1/2np1N1p/2p5/2B5/1P3N2/P1PP1PPP/R1BQR1K1 b kq - 0 11,That pawn is still unprotected even after it captures the knight.
+22,gxf6,g7f6,r2qk2r/pp1bbp2/2np1p1p/2p5/2B5/1P3N2/P1PP1PPP/R1BQR1K1 w kq - 0 12,That pawn is still unprotected even after it captures the knight.
+23,Bb2,c1b2,r2qk2r/pp1bbp2/2np1p1p/2p5/2B5/1P3N2/PBPP1PPP/R2QR1K1 b kq - 1 12,Black knight moves to unpin the bishop and protect the weak f7 pawn.
+24,Ne5,c6e5,r2qk2r/pp1bbp2/3p1p1p/2p1n3/2B5/1P3N2/PBPP1PPP/R2QR1K1 w kq - 2 13,Black knight moves to unpin the bishop and protect the weak f7 pawn.
+25,Nxe5,f3e5,r2qk2r/pp1bbp2/3p1p1p/2p1N3/2B5/1P6/PBPP1PPP/R2QR1K1 b kq - 0 13,"White removes the knight and threatens the f7 pawn. An alternative move was Bd4 so the black knight could not threaten it. Black might have replied with Nxf3+ followed by Qxf3 and thus line up the queen and bishop against the unprotected b7 pawn. Or black might have replied with Bc6 to defend the b7 pawn. If that happened, white would have exchanged bishops: Bxc6 b7xc6."
+26,dxe5,d6e5,r2qk2r/pp1bbp2/5p1p/2p1p3/2B5/1P6/PBPP1PPP/R2QR1K1 w kq - 0 14,White threatens mate on f7.
+27,Qh5,d1h5,r2qk2r/pp1bbp2/5p1p/2p1p2Q/2B5/1P6/PBPP1PPP/R3R1K1 b kq - 1 14,White threatens mate on f7.
+28,Rh7,h8h7,r2qk3/pp1bbp1r/5p1p/2p1p2Q/2B5/1P6/PBPP1PPP/R3R1K1 w q - 2 15,Best response for black.
+29,c3,c2c3,r2qk3/pp1bbp1r/5p1p/2p1p2Q/2B5/1PP5/PB1P1PPP/R3R1K1 b q - 0 15,"Looks like white is blocking his own bishop, but the real goal is to clear out black's center pawns for a devastating attack later. Notice how both of black's bishops are in front of the king and queen. Just keep watching the center of the board for the next few moves."
+30,b5,b7b5,r2qk3/p2bbp1r/5p1p/1pp1p2Q/2B5/1PP5/PB1P1PPP/R3R1K1 w q - 0 16,Now white is ready to clean out the center of the board.
+31,Bd5,c4d5,r2qk3/p2bbp1r/5p1p/1ppBp2Q/8/1PP5/PB1P1PPP/R3R1K1 b q - 1 16,Now white is ready to clean out the center of the board.
+32,Rb8,a8b8,1r1qk3/p2bbp1r/5p1p/1ppBp2Q/8/1PP5/PB1P1PPP/R3R1K1 w - - 2 17,Now white is ready to clean out the center of the board.
+33,d4,d2d4,1r1qk3/p2bbp1r/5p1p/1ppBp2Q/3P4/1PP5/PB3PPP/R3R1K1 b - - 0 17,Now white is ready to clean out the center of the board.
+34,cxd4,c5d4,1r1qk3/p2bbp1r/5p1p/1p1Bp2Q/3p4/1PP5/PB3PPP/R3R1K1 w - - 0 18,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+35,cxd4,c3d4,1r1qk3/p2bbp1r/5p1p/1p1Bp2Q/3P4/1P6/PB3PPP/R3R1K1 b - - 0 18,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+36,b4,b5b4,1r1qk3/p2bbp1r/5p1p/3Bp2Q/1p1P4/1P6/PB3PPP/R3R1K1 w - - 0 19,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+37,dxe5,d4e5,1r1qk3/p2bbp1r/5p1p/3BP2Q/1p6/1P6/PB3PPP/R3R1K1 b - - 0 19,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+38,fxe5,f6e5,1r1qk3/p2bbp1r/7p/3Bp2Q/1p6/1P6/PB3PPP/R3R1K1 w - - 0 20,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+39,Bxe5,b2e5,1r1qk3/p2bbp1r/7p/3BB2Q/1p6/1P6/P4PPP/R3R1K1 b - - 0 20,"White has now cleared the center pawns away, is one point up in material, and is ready to unveil the long-term tactic he's been working towards since move 15."
+40,Rb5,b8b5,3qk3/p2bbp1r/7p/1r1BB2Q/1p6/1P6/P4PPP/R3R1K1 w - - 1 21,Pulling back one bishop to get ready for the real attack.
+41,Bc4,d5c4,3qk3/p2bbp1r/7p/1r2B2Q/1pB5/1P6/P4PPP/R3R1K1 b - - 2 21,Pulling back one bishop to get ready for the real attack.
+42,Rc5,b5c5,3qk3/p2bbp1r/7p/2r1B2Q/1pB5/1P6/P4PPP/R3R1K1 w - - 3 22,Move queen out of danger.
+43,Qf3,h5f3,3qk3/p2bbp1r/7p/2r1B3/1pB5/1P3Q2/P4PPP/R3R1K1 b - - 4 22,Move queen out of danger.
+44,Rc8,c5c8,2rqk3/p2bbp1r/7p/4B3/1pB5/1P3Q2/P4PPP/R3R1K1 w - - 5 23,Now black's d7 bishop is pinned against the queen!
+45,Rad1,a1d1,2rqk3/p2bbp1r/7p/4B3/1pB5/1P3Q2/P4PPP/3RR1K1 b - - 6 23,Now black's d7 bishop is pinned against the queen!
+46,h5,h6h5,2rqk3/p2bbp1r/8/4B2p/1pB5/1P3Q2/P4PPP/3RR1K1 w - - 0 24,"And now black's e7 bishop is pinned against the king! With both bishops pinned, black has few options."
+47,Bf6,e5f6,2rqk3/p2bbp1r/5B2/7p/1pB5/1P3Q2/P4PPP/3RR1K1 b - - 1 24,"And now black's e7 bishop is pinned against the king! With both bishops pinned, black has few options."
+48,h4,h5h4,2rqk3/p2bbp1r/5B2/8/1pB4p/1P3Q2/P4PPP/3RR1K1 w - - 0 25,One bishop gone!
+49,Rxe7+,e1e7,2rqk3/p2bRp1r/5B2/8/1pB4p/1P3Q2/P4PPP/3R2K1 b - - 0 25,One bishop gone!
+50,Kf8,e8f8,2rq1k2/p2bRp1r/5B2/8/1pB4p/1P3Q2/P4PPP/3R2K1 w - - 1 26,Black either moves the king out of danger or recaptures with the queen. The result is to either accept the loss of a bishop or exchange the queen for a rook and bishop.

@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g4,g2g4,rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1,"starting the most risky grob, it wasnt volontary, it's just a mistake from me !
+good players never get in this trap (2/...- bc4 3/ c4 - d5xc4 4/ Bxb7 ...etc) and then is very dificult to get back the g4 pawn."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPP1P/RNBQKBNR w KQkq - 0 2,"starting the most risky grob, it wasnt volontary, it's just a mistake from me !
+good players never get in this trap (2/...- bc4 3/ c4 - d5xc4 4/ Bxb7 ...etc) and then is very dificult to get back the g4 pawn."
+3,Bg2,f1g2,rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2,"starting the most risky grob, it wasnt volontary, it's just a mistake from me !
+good players never get in this trap (2/...- bc4 3/ c4 - d5xc4 4/ Bxb7 ...etc) and then is very dificult to get back the g4 pawn."
+4,Bxg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/6b1/8/PPPPPPBP/RNBQK1NR w KQkq - 0 3,"ho ! this is uncomon, now the bishop in g4 is blocked"
+5,c4,c2c4,rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq - 0 3,"ho ! this is uncomon, now the bishop in g4 is blocked"
+6,e6,e7e6,rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4,"ho ! this is uncomon, now the bishop in g4 is blocked"
+7,Qb3,d1b3,rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 1 4,treathening b7 and preparing c4 x d5
+8,b6,b7b6,rn1qkbnr/p1p2ppp/1p2p3/3p4/2P3b1/1Q6/PP1PPPBP/RNB1K1NR w KQkq - 0 5,"ho ! 
+this was THE mistake, he is opening the diagonal h1 a8  ignoring the treath of the bishop g2"
+9,cxd5,c4d5,rn1qkbnr/p1p2ppp/1p2p3/3P4/6b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 0 5,"this was very easy
+now we have double treath : Bd5xa8 and Bd5xf7
+the game is done. 
+This is very typical of wining games whith grob"
+10,exd5,e6d5,rn1qkbnr/p1p2ppp/1p6/3p4/6b1/1Q6/PP1PPPBP/RNB1K1NR w KQkq - 0 6,"this was very easy
+now we have double treath : Bd5xa8 and Bd5xf7
+the game is done. 
+This is very typical of wining games whith grob"
+11,Bxd5,g2d5,rn1qkbnr/p1p2ppp/1p6/3B4/6b1/1Q6/PP1PPP1P/RNB1K1NR b KQkq - 0 6,"this was very easy
+now we have double treath : Bd5xa8 and Bd5xf7
+the game is done. 
+This is very typical of wining games whith grob"
+12,c6,c7c6,rn1qkbnr/p4ppp/1pp5/3B4/6b1/1Q6/PP1PPP1P/RNB1K1NR w KQkq - 0 7,"wining the g8 knight
+and soon wining the g4 bishop..."
+13,Bxf7+,d5f7,rn1qkbnr/p4Bpp/1pp5/8/6b1/1Q6/PP1PPP1P/RNB1K1NR b KQkq - 0 7,"wining the g8 knight
+and soon wining the g4 bishop..."
+14,Ke7,e8e7,rn1q1bnr/p3kBpp/1pp5/8/6b1/1Q6/PP1PPP1P/RNB1K1NR w KQ - 1 8,"wining the g8 knight
+and soon wining the g4 bishop..."
+15,Bxg8,f7g8,rn1q1bBr/p3k1pp/1pp5/8/6b1/1Q6/PP1PPP1P/RNB1K1NR b KQ - 0 8,i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8
+16,Nd7,b8d7,r2q1bBr/p2nk1pp/1pp5/8/6b1/1Q6/PP1PPP1P/RNB1K1NR w KQ - 1 9,i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8
+17,Qb4+,b3b4,r2q1bBr/p2nk1pp/1pp5/8/1Q4b1/8/PP1PPP1P/RNB1K1NR b KQ - 2 9,i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8
+18,c5,c6c5,r2q1bBr/p2nk1pp/1p6/2p5/1Q4b1/8/PP1PPP1P/RNB1K1NR w KQ - 0 10,i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8
+19,Qe4+,b4e4,r2q1bBr/p2nk1pp/1p6/2p5/4Q1b1/8/PP1PPP1P/RNB1K1NR b KQ - 1 10,i prefer wait before taking the bishop because it whould just be a exchange whith mine in g8
+20,Kf6,e7f6,r2q1bBr/p2n2pp/1p3k2/2p5/4Q1b1/8/PP1PPP1P/RNB1K1NR w KQ - 2 11,"ho ho, it's becoming hard for black"
+21,Bd5,g8d5,r2q1b1r/p2n2pp/1p3k2/2pB4/4Q1b1/8/PP1PPP1P/RNB1K1NR b KQ - 3 11,I choose to loose a tempo and keep my bishop because my game is not well developped and I will need some more pieces to mat
+22,Bf5,g4f5,r2q1b1r/p2n2pp/1p3k2/2pB1b2/4Q3/8/PP1PPP1P/RNB1K1NR w KQ - 4 12,bishop nailed
+23,Qf4,e4f4,r2q1b1r/p2n2pp/1p3k2/2pB1b2/5Q2/8/PP1PPP1P/RNB1K1NR b KQ - 5 12,bishop nailed
+24,g5,g7g5,r2q1b1r/p2n3p/1p3k2/2pB1bp1/5Q2/8/PP1PPP1P/RNB1K1NR w KQ - 0 13,"nailed anyway ! 
+and now it'getting hot for the a8 rook !..."
+25,Qf3,f4f3,r2q1b1r/p2n3p/1p3k2/2pB1bp1/8/5Q2/PP1PPP1P/RNB1K1NR b KQ - 1 13,"nailed anyway ! 
+and now it'getting hot for the a8 rook !..."
+26,Rc8,a8c8,2rq1b1r/p2n3p/1p3k2/2pB1bp1/8/5Q2/PP1PPP1P/RNB1K1NR w KQ - 2 14,"preparing Bc1 b2, treathening the h8 rook and developing my pieces to mat"
+27,b3,b2b3,2rq1b1r/p2n3p/1p3k2/2pB1bp1/8/1P3Q2/P2PPP1P/RNB1K1NR b KQ - 0 14,"preparing Bc1 b2, treathening the h8 rook and developing my pieces to mat"
+28,Ne5,d7e5,2rq1b1r/p6p/1p3k2/2pBnbp1/8/1P3Q2/P2PPP1P/RNB1K1NR w KQ - 1 15,MISTAKE : this knight igore my next move whith bishop !
+29,Bb2,c1b2,2rq1b1r/p6p/1p3k2/2pBnbp1/8/1P3Q2/PB1PPP1P/RN2K1NR b KQ - 2 15,here we are !
+30,Bd6,f8d6,2rq3r/p6p/1p1b1k2/2pBnbp1/8/1P3Q2/PB1PPP1P/RN2K1NR w KQ - 3 16,"the knight is still nailed, and i win a tempo"
+31,e4,e2e4,2rq3r/p6p/1p1b1k2/2pBnbp1/4P3/1P3Q2/PB1P1P1P/RN2K1NR b KQ - 0 16,vicious pawn attacking !
+32,g4,g5g4,2rq3r/p6p/1p1b1k2/2pBnb2/4P1p1/1P3Q2/PB1P1P1P/RN2K1NR w KQ - 0 17,"MISTAKE : the queen take the f5 bishop
+this is the pleasur of blitz, bad player like me has sometime his chance whith good players."
+33,Qxf5+,f3f5,2rq3r/p6p/1p1b1k2/2pBnQ2/4P1p1/1P6/PB1P1P1P/RN2K1NR b KQ - 0 17,"there is no hurry,"
+34,Kg7,f6g7,2rq3r/p5kp/1p1b4/2pBnQ2/4P1p1/1P6/PB1P1P1P/RN2K1NR w KQ - 1 18,"there is no hurry,"
+35,Qxg4+,f5g4,2rq3r/p5kp/1p1b4/2pBn3/4P1Q1/1P6/PB1P1P1P/RN2K1NR b KQ - 0 18,"there is no hurry,"
+36,Kf8,g7f8,2rq1k1r/p6p/1p1b4/2pBn3/4P1Q1/1P6/PB1P1P1P/RN2K1NR w KQ - 1 19,and then we go back on the same critical situation
+37,Qf5+,g4f5,2rq1k1r/p6p/1p1b4/2pBnQ2/4P3/1P6/PB1P1P1P/RN2K1NR b KQ - 2 19,and then we go back on the same critical situation
+38,Ke8,f8e8,2rqk2r/p6p/1p1b4/2pBnQ2/4P3/1P6/PB1P1P1P/RN2K1NR w KQ - 3 20,"i whould like to mat in f7, so i have to eat this knight !"

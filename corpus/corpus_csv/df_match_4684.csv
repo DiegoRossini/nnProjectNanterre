@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,an english opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,this is known variation for the English opening which lead to closed game (closed English)
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,this is known variation for the English opening which lead to closed game (closed English)
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,this is known variation for the English opening which lead to closed game (closed English)
+5,Nf3,g1f3,r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3,three nights game
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4,four nights opening
+7,e4,e2e4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R b KQkq - 0 4,this variation is one of the English opening variation which called (Nimzowitsch variation)
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R w KQkq - 1 5,continuing with the line and black prepares for castling
+9,Be2,f1e2,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2P1P3/2N2N2/PP1PBPPP/R1BQK2R b KQkq - 2 5,prepareing for castling too
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2P1P3/2N2N2/PP1PBPPP/R1BQK2R w KQ - 3 6,castled
+11,O-O,e1g1,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2P1P3/2N2N2/PP1PBPPP/R1BQ1RK1 b - - 4 6,too
+12,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2P1P3/2N2N2/PP1PBPPP/R1BQ1RK1 w - - 0 7,devloping the d7 pawn and open the line for the c8 bishop
+13,d3,d2d3,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2P1P3/2NP1N2/PP2BPPP/R1BQ1RK1 b - - 0 7,same thing
+14,Nd4,c6d4,r1bq1rk1/ppp2ppp/3p1n2/2b1p3/2PnP3/2NP1N2/PP2BPPP/R1BQ1RK1 w - - 1 8,now black trying to centralize the knight and by taking the very active d4 squire
+15,Nxd4,f3d4,r1bq1rk1/ppp2ppp/3p1n2/2b1p3/2PNP3/2NP4/PP2BPPP/R1BQ1RK1 b - - 0 8,normal move
+16,Bxd4,c5d4,r1bq1rk1/ppp2ppp/3p1n2/4p3/2PbP3/2NP4/PP2BPPP/R1BQ1RK1 w - - 0 9,normal move
+17,Bg5,c1g5,r1bq1rk1/ppp2ppp/3p1n2/4p1B1/2PbP3/2NP4/PP2BPPP/R2Q1RK1 b - - 1 9,normal move
+18,h6,h7h6,r1bq1rk1/ppp2pp1/3p1n1p/4p1B1/2PbP3/2NP4/PP2BPPP/R2Q1RK1 w - - 0 10,retreating
+19,Bh4,g5h4,r1bq1rk1/ppp2pp1/3p1n1p/4p3/2PbP2B/2NP4/PP2BPPP/R2Q1RK1 b - - 1 10,retreating
+20,Bd7,c8d7,r2q1rk1/pppb1pp1/3p1n1p/4p3/2PbP2B/2NP4/PP2BPPP/R2Q1RK1 w - - 2 11,bad move because its open the c line for the black Rock
+21,Qc2,d1c2,r2q1rk1/pppb1pp1/3p1n1p/4p3/2PbP2B/2NP4/PPQ1BPPP/R4RK1 b - - 3 11,bad move because its open the c line for the black Rock
+22,c6,c7c6,r2q1rk1/pp1b1pp1/2pp1n1p/4p3/2PbP2B/2NP4/PPQ1BPPP/R4RK1 w - - 0 12,bad move because its open the c line for the black Rock
+23,b4,b2b4,r2q1rk1/pp1b1pp1/2pp1n1p/4p3/1PPbP2B/2NP4/P1Q1BPPP/R4RK1 b - - 0 12,bad move because its open the c line for the black Rock
+24,a5,a7a5,r2q1rk1/1p1b1pp1/2pp1n1p/p3p3/1PPbP2B/2NP4/P1Q1BPPP/R4RK1 w - - 0 13,bad move because its open the c line for the black Rock
+25,a3,a2a3,r2q1rk1/1p1b1pp1/2pp1n1p/p3p3/1PPbP2B/P1NP4/2Q1BPPP/R4RK1 b - - 0 13,bad move because its open the c line for the black Rock
+26,b5,b7b5,r2q1rk1/3b1pp1/2pp1n1p/pp2p3/1PPbP2B/P1NP4/2Q1BPPP/R4RK1 w - - 0 14,bad move because its open the c line for the black Rock
+27,cxb5,c4b5,r2q1rk1/3b1pp1/2pp1n1p/pP2p3/1P1bP2B/P1NP4/2Q1BPPP/R4RK1 b - - 0 14,bad move because its open the c line for the black Rock
+28,cxb5,c6b5,r2q1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1NP4/2Q1BPPP/R4RK1 w - - 0 15,see it
+29,Rab1,a1b1,r2q1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1NP4/2Q1BPPP/1R3RK1 b - - 1 15,whit lost apiece due to last wrong move
+30,Rc8,a8c8,2rq1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1NP4/2Q1BPPP/1R3RK1 w - - 2 16,whit lost apiece due to last wrong move
+31,Rfc1,f1c1,2rq1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1NP4/2Q1BPPP/1RR3K1 b - - 3 16,i think the best move for White now is to take the black rock
+32,Rxc3,c8c3,3q1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1rP4/2Q1BPPP/1RR3K1 w - - 0 17,i think the best move for White now is to take the black rock
+33,Qa2,c2a2,3q1rk1/3b1pp1/3p1n1p/pp2p3/1P1bP2B/P1rP4/Q3BPPP/1RR3K1 b - - 1 17,watch the e4 pawn
+34,Be6,d7e6,3q1rk1/5pp1/3pbn1p/pp2p3/1P1bP2B/P1rP4/Q3BPPP/1RR3K1 w - - 2 18,watch the e4 pawn
+35,Qd2,a2d2,3q1rk1/5pp1/3pbn1p/pp2p3/1P1bP2B/P1rP4/3QBPPP/1RR3K1 b - - 3 18,watch the e4 pawn
+36,Rxa3,c3a3,3q1rk1/5pp1/3pbn1p/pp2p3/1P1bP2B/r2P4/3QBPPP/1RR3K1 w - - 0 19,watch the e4 pawn
+37,bxa5,b4a5,3q1rk1/5pp1/3pbn1p/Pp2p3/3bP2B/r2P4/3QBPPP/1RR3K1 b - - 0 19,"this is Avery terrible move because it allows the black Queen to attack King side.
+i was looking for this position when i moved my night to e4 square"
+38,Nxe4,f6e4,3q1rk1/5pp1/3pb2p/Pp2p3/3bn2B/r2P4/3QBPPP/1RR3K1 w - - 0 20,"this is Avery terrible move because it allows the black Queen to attack King side.
+i was looking for this position when i moved my night to e4 square"
+39,dxe4,d3e4,3q1rk1/5pp1/3pb2p/Pp2p3/3bP2B/r7/3QBPPP/1RR3K1 b - - 0 20,"this is Avery terrible move because it allows the black Queen to attack King side.
+i was looking for this position when i moved my night to e4 square"

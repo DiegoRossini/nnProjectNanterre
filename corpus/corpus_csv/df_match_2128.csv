@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"So here's a game where white manages to promote a pawn tol a queen on move 27, while queens are still on the board. So here's how it went down."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The queens gambit accepted
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The queens gambit accepted
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The queens gambit accepted
+5,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/8/2pP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,"Till here it had been rather normal, but this move was odd."
+6,c6,c7c6,rnbqkbnr/pp2pppp/2p5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,"Till here it had been rather normal, but this move was odd."
+7,a4,a2a4,rnbqkbnr/pp2pppp/2p5/8/P1pP4/2N5/1P2PPPP/R1BQKBNR b KQkq - 0 4,"Till here it had been rather normal, but this move was odd."
+8,e6,e7e6,rnbqkbnr/pp3ppp/2p1p3/8/P1pP4/2N5/1P2PPPP/R1BQKBNR w KQkq - 0 5,"Till here it had been rather normal, but this move was odd."
+9,Nf3,g1f3,rnbqkbnr/pp3ppp/2p1p3/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq - 1 5,"Till here it had been rather normal, but this move was odd."
+10,Bb4,f8b4,rnbqk1nr/pp3ppp/2p1p3/8/PbpP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 2 6,"Till here it had been rather normal, but this move was odd."
+11,Bd2,c1d2,rnbqk1nr/pp3ppp/2p1p3/8/PbpP4/2N2N2/1P1BPPPP/R2QKB1R b KQkq - 3 6,"Till here it had been rather normal, but this move was odd."
+12,a5,a7a5,rnbqk1nr/1p3ppp/2p1p3/p7/PbpP4/2N2N2/1P1BPPPP/R2QKB1R w KQkq - 0 7,"Till here it had been rather normal, but this move was odd."
+13,e3,e2e3,rnbqk1nr/1p3ppp/2p1p3/p7/PbpP4/2N1PN2/1P1B1PPP/R2QKB1R b KQkq - 0 7,Developed the knight on the rim? Aren't knights on the rim dim?
+14,Nh6,g8h6,rnbqk2r/1p3ppp/2p1p2n/p7/PbpP4/2N1PN2/1P1B1PPP/R2QKB1R w KQkq - 1 8,Developed the knight on the rim? Aren't knights on the rim dim?
+15,Bxc4,f1c4,rnbqk2r/1p3ppp/2p1p2n/p7/PbBP4/2N1PN2/1P1B1PPP/R2QK2R b KQkq - 0 8,Black volunteers to give away the dark square bishop for a knight.
+16,O-O,e8g8,rnbq1rk1/1p3ppp/2p1p2n/p7/PbBP4/2N1PN2/1P1B1PPP/R2QK2R w KQ - 1 9,Black volunteers to give away the dark square bishop for a knight.
+17,O-O,e1g1,rnbq1rk1/1p3ppp/2p1p2n/p7/PbBP4/2N1PN2/1P1B1PPP/R2Q1RK1 b - - 2 9,Black volunteers to give away the dark square bishop for a knight.
+18,Bxc3,b4c3,rnbq1rk1/1p3ppp/2p1p2n/p7/P1BP4/2b1PN2/1P1B1PPP/R2Q1RK1 w - - 0 10,Black volunteers to give away the dark square bishop for a knight.
+19,Bxc3,d2c3,rnbq1rk1/1p3ppp/2p1p2n/p7/P1BP4/2B1PN2/1P3PPP/R2Q1RK1 b - - 0 10,"Hitting the bishop, and a nice outpost for the knight."
+20,Bd7,c8d7,rn1q1rk1/1p1b1ppp/2p1p2n/p7/P1BP4/2B1PN2/1P3PPP/R2Q1RK1 w - - 1 11,"Hitting the bishop, and a nice outpost for the knight."
+21,b4,b2b4,rn1q1rk1/1p1b1ppp/2p1p2n/p7/PPBP4/2B1PN2/5PPP/R2Q1RK1 b - - 0 11,"Hitting the bishop, and a nice outpost for the knight."
+22,b6,b7b6,rn1q1rk1/3b1ppp/1pp1p2n/p7/PPBP4/2B1PN2/5PPP/R2Q1RK1 w - - 0 12,"Hitting the bishop, and a nice outpost for the knight."
+23,Ne5,f3e5,rn1q1rk1/3b1ppp/1pp1p2n/p3N3/PPBP4/2B1P3/5PPP/R2Q1RK1 b - - 1 12,"Hitting the bishop, and a nice outpost for the knight."
+24,Be8,d7e8,rn1qbrk1/5ppp/1pp1p2n/p3N3/PPBP4/2B1P3/5PPP/R2Q1RK1 w - - 2 13,"This was odd because he just gave me the pawn on c6, with tempo."
+25,Qf3,d1f3,rn1qbrk1/5ppp/1pp1p2n/p3N3/PPBP4/2B1PQ2/5PPP/R4RK1 b - - 3 13,"This was odd because he just gave me the pawn on c6, with tempo."
+26,Nd7,b8d7,r2qbrk1/3n1ppp/1pp1p2n/p3N3/PPBP4/2B1PQ2/5PPP/R4RK1 w - - 4 14,"This was odd because he just gave me the pawn on c6, with tempo."
+27,Nxc6,e5c6,r2qbrk1/3n1ppp/1pN1p2n/p7/PPBP4/2B1PQ2/5PPP/R4RK1 b - - 0 14,i made this move to prevent any possible ng4`s
+28,Qh4,d8h4,r3brk1/3n1ppp/1pN1p2n/p7/PPBP3q/2B1PQ2/5PPP/R4RK1 w - - 1 15,i made this move to prevent any possible ng4`s
+29,h3,h2h3,r3brk1/3n1ppp/1pN1p2n/p7/PPBP3q/2B1PQ1P/5PP1/R4RK1 b - - 0 15,i made this move to prevent any possible ng4`s
+30,Rc8,a8c8,2r1brk1/3n1ppp/1pN1p2n/p7/PPBP3q/2B1PQ1P/5PP1/R4RK1 w - - 1 16,"This was a mistake by me, i didn't pay any attention to the bishop hanging"
+31,b5,b4b5,2r1brk1/3n1ppp/1pN1p2n/pP6/P1BP3q/2B1PQ1P/5PP1/R4RK1 b - - 0 16,"This was a mistake by me, i didn't pay any attention to the bishop hanging"
+32,Rc7,c8c7,4brk1/2rn1ppp/1pN1p2n/pP6/P1BP3q/2B1PQ1P/5PP1/R4RK1 w - - 1 17,"This was a mistake by me, i didn't pay any attention to the bishop hanging"
+33,d5,d4d5,4brk1/2rn1ppp/1pN1p2n/pP1P4/P1B4q/2B1PQ1P/5PP1/R4RK1 b - - 0 17,"This was a mistake by me, i didn't pay any attention to the bishop hanging"
+34,Qxc4,h4c4,4brk1/2rn1ppp/1pN1p2n/pP1P4/P1q5/2B1PQ1P/5PP1/R4RK1 w - - 0 18,Err..
+35,Rfc1,f1c1,4brk1/2rn1ppp/1pN1p2n/pP1P4/P1q5/2B1PQ1P/5PP1/R1R3K1 b - - 1 18,This was the only square for the Queen because of the thread of Qg3 threatening mate and attacking the lose rook.
+36,Qh4,c4h4,4brk1/2rn1ppp/1pN1p2n/pP1P4/P6q/2B1PQ1P/5PP1/R1R3K1 w - - 2 19,This was the only square for the Queen because of the thread of Qg3 threatening mate and attacking the lose rook.
+37,d6,d5d6,4brk1/2rn1ppp/1pNPp2n/pP6/P6q/2B1PQ1P/5PP1/R1R3K1 b - - 0 19,Gaining an amazing outpost for the knight on e7.
+38,Rb7,c7b7,4brk1/1r1n1ppp/1pNPp2n/pP6/P6q/2B1PQ1P/5PP1/R1R3K1 w - - 1 20,This was a blunder allowing white to win the rook for nothing. best would probably have been to play an exchange sacrifice.
+39,Ne7+,c6e7,4brk1/1r1nNppp/1p1Pp2n/pP6/P6q/2B1PQ1P/5PP1/R1R3K1 b - - 2 20,Snapping of the free rook.
+40,Kh8,g8h8,4br1k/1r1nNppp/1p1Pp2n/pP6/P6q/2B1PQ1P/5PP1/R1R3K1 w - - 3 21,Snapping of the free rook.
+41,Qxb7,f3b7,4br1k/1Q1nNppp/1p1Pp2n/pP6/P6q/2B1P2P/5PP1/R1R3K1 b - - 0 21,Snapping of the free rook.
+42,Nc5,d7c5,4br1k/1Q2Nppp/1p1Pp2n/pPn5/P6q/2B1P2P/5PP1/R1R3K1 w - - 1 22,probably the best move in this position
+43,Qxb6,b7b6,4br1k/4Nppp/1Q1Pp2n/pPn5/P6q/2B1P2P/5PP1/R1R3K1 b - - 0 22,probably the best move in this position
+44,Nd3,c5d3,4br1k/4Nppp/1Q1Pp2n/pP6/P6q/2BnP2P/5PP1/R1R3K1 w - - 1 23,probably the best move in this position
+45,Rcf1,c1f1,4br1k/4Nppp/1Q1Pp2n/pP6/P6q/2BnP2P/5PP1/R4RK1 b - - 2 23,probably the best move in this position
+46,Qc4,h4c4,4br1k/4Nppp/1Q1Pp2n/pP6/P1q5/2BnP2P/5PP1/R4RK1 w - - 3 24,snapping of another pawn
+47,Bxa5,c3a5,4br1k/4Nppp/1Q1Pp2n/BP6/P1q5/3nP2P/5PP1/R4RK1 b - - 0 24,snapping of another pawn
+48,g5,g7g5,4br1k/4Np1p/1Q1Pp2n/BP4p1/P1q5/3nP2P/5PP1/R4RK1 w - - 0 25,"This was a mistake , because it weakens the a1-h8 diagonal"
+49,Qb8,b6b8,1Q2br1k/4Np1p/3Pp2n/BP4p1/P1q5/3nP2P/5PP1/R4RK1 b - - 1 25,pinning the bishop and preparing to play d7.
+50,Ng8,h6g8,1Q2brnk/4Np1p/3Pp3/BP4p1/P1q5/3nP2P/5PP1/R4RK1 w - - 2 26,Black is in big trouble here.
+51,d7,d6d7,1Q2brnk/3PNp1p/4p3/BP4p1/P1q5/3nP2P/5PP1/R4RK1 b - - 0 26,Black is in big trouble here.
+52,Nf6,g8f6,1Q2br1k/3PNp1p/4pn2/BP4p1/P1q5/3nP2P/5PP1/R4RK1 w - - 1 27,this move allows the pawn queening without taking the bishop.

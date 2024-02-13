@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,"oh crud another odd opening. huh. his idea is to fiancetto the bishop to b2 and with a possible c4, b5 to cramp my queenside."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,this slows down b5.
+3,Bb2,c1b2,rnbqkbnr/pp1ppppp/2p5/8/1P6/8/PBPPPPPP/RN1QKBNR b KQkq - 1 2,yep
+4,Qb6,d8b6,rnb1kbnr/pp1ppppp/1qp5/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 2 3,an early queen attack. now c4 is difficult.
+5,a3,a2a3,rnb1kbnr/pp1ppppp/1qp5/8/1P6/P7/1BPPPPPP/RN1QKBNR b KQkq - 0 3,defending the pawn.
+6,a5,a7a5,rnb1kbnr/1p1ppppp/1qp5/p7/1P6/P7/1BPPPPPP/RN1QKBNR w KQkq - 0 4,attacking that pesky b4 pawn again.
+7,c3,c2c3,rnb1kbnr/1p1ppppp/1qp5/p7/1P6/P1P5/1B1PPPPP/RN1QKBNR b KQkq - 0 4,just another brick in the wall.
+8,d5,d7d5,rnb1kbnr/1p2pppp/1qp5/p2p4/1P6/P1P5/1B1PPPPP/RN1QKBNR w KQkq - 0 5,"the b4 pawn is also pinned, so I overprotect another light square. by stopping c4 the bishop looks awkward here."
+9,e3,e2e3,rnb1kbnr/1p2pppp/1qp5/p2p4/1P6/P1P1P3/1B1P1PPP/RN1QKBNR b KQkq - 0 5,"gaining a share of the center, and contesting my queenside."
+10,e5,e7e5,rnb1kbnr/1p3ppp/1qp5/p2pp3/1P6/P1P1P3/1B1P1PPP/RN1QKBNR w KQkq - 0 6,"the pawn center, although still dynamic is temporary."
+11,Qh5,d1h5,rnb1kbnr/1p3ppp/1qp5/p2pp2Q/1P6/P1P1P3/1B1P1PPP/RN2KBNR b KQkq - 1 6,vis a vis. the queen rushes in. I will have to see what fritz thinks of this move.
+12,e4,e5e4,rnb1kbnr/1p3ppp/1qp5/p2p3Q/1P2p3/P1P1P3/1B1P1PPP/RN2KBNR w KQkq - 0 7,"this gains space, and does not tie up my pieces in the defence of the e5 square.
+I don't fear a check on e5 as the queen is all alone. I have robbed the kings knight of his favorite square. I am looking at c4! now by white in order to bring the Bishop into the attack."
+13,Qe5+,h5e5,rnb1kbnr/1p3ppp/1qp5/p2pQ3/1P2p3/P1P1P3/1B1P1PPP/RN2KBNR b KQkq - 1 7,hmmm a little forward aren't we?
+14,Be6,c8e6,rn2kbnr/1p3ppp/1qp1b3/p2pQ3/1P2p3/P1P1P3/1B1P1PPP/RN2KBNR w KQkq - 2 8,blocking with the bishop. and also keeping an eye on the c4 square.
+15,c4,c3c4,rn2kbnr/1p3ppp/1qp1b3/p2pQ3/1PP1p3/P3P3/1B1P1PPP/RN2KBNR b KQkq - 0 8,"ahhh, now he sees. oh what to do."
+16,Nd7,b8d7,r3kbnr/1p1n1ppp/1qp1b3/p2pQ3/1PP1p3/P3P3/1B1P1PPP/RN2KBNR w KQkq - 1 9,how about ignoring it with an intermezzo? Developing with tempo. Get thee away evil white queen!!!
+17,c5,c4c5,r3kbnr/1p1n1ppp/1qp1b3/p1PpQ3/1P2p3/P3P3/1B1P1PPP/RN2KBNR b KQkq - 0 9,"ohhh tradesees? ok. when behind in space, trade pieces!!!"
+18,Nxe5,d7e5,r3kbnr/1p3ppp/1qp1b3/p1Ppn3/1P2p3/P3P3/1B1P1PPP/RN2KBNR w KQkq - 0 10,"that pawn on b6 looks like a good a target as any. Two pawn islands vs one, and ahead in development. I like those odds. I did consider Nd3! that also looked interesting"
+19,cxb6,c5b6,r3kbnr/1p3ppp/1Pp1b3/p2pn3/1P2p3/P3P3/1B1P1PPP/RN2KBNR b KQkq - 0 10,"that pawn on b6 looks like a good a target as any. Two pawn islands vs one, and ahead in development. I like those odds. I did consider Nd3! that also looked interesting"
+20,Nd7,e5d7,r3kbnr/1p1n1ppp/1Pp1b3/p2p4/1P2p3/P3P3/1B1P1PPP/RN2KBNR w KQkq - 1 11,"that pawn on b6 looks like a good a target as any. Two pawn islands vs one, and ahead in development. I like those odds. I did consider Nd3! that also looked interesting"
+21,Bd4,b2d4,r3kbnr/1p1n1ppp/1Pp1b3/p2p4/1P1Bp3/P3P3/3P1PPP/RN2KBNR b KQkq - 2 11,freedom for the rook.
+22,axb4,a5b4,r3kbnr/1p1n1ppp/1Pp1b3/3p4/1p1Bp3/P3P3/3P1PPP/RN2KBNR w KQkq - 0 12,freedom for the rook.
+23,a4,a3a4,r3kbnr/1p1n1ppp/1Pp1b3/3p4/Pp1Bp3/4P3/3P1PPP/RN2KBNR b KQkq - 0 12,white wisely preserves the structure.

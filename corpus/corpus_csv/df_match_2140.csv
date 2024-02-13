@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A number of book lines are available here:
+[2. ...d5 3. exd5 Qxd5 4. d4]
+[2. ...Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4]
+[2. ...e5 3. Nf3 Nc6 4. Bc4]"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A number of book lines are available here:
+[2. ...d5 3. exd5 Qxd5 4. d4]
+[2. ...Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4]
+[2. ...e5 3. Nf3 Nc6 4. Bc4]"
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"A number of book lines are available here:
+[2. ...d5 3. exd5 Qxd5 4. d4]
+[2. ...Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4]
+[2. ...e5 3. Nf3 Nc6 4. Bc4]"
+4,e5,e7e5,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,"With 3. d4, White leaves the book already!
+The post-game computer analysis didn't like the move 4. cxd4 with the score dropping from +0.25 after 3. ...cxd4 to -0.26 after 4. cxd4.
+Perhaps 4. Nf3 would have been better for White, offering a pawn for fast development."
+5,d4,d2d4,rnbqkbnr/pp1p1ppp/8/2p1p3/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"With 3. d4, White leaves the book already!
+The post-game computer analysis didn't like the move 4. cxd4 with the score dropping from +0.25 after 3. ...cxd4 to -0.26 after 4. cxd4.
+Perhaps 4. Nf3 would have been better for White, offering a pawn for fast development."
+6,cxd4,c5d4,rnbqkbnr/pp1p1ppp/8/4p3/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,"With 3. d4, White leaves the book already!
+The post-game computer analysis didn't like the move 4. cxd4 with the score dropping from +0.25 after 3. ...cxd4 to -0.26 after 4. cxd4.
+Perhaps 4. Nf3 would have been better for White, offering a pawn for fast development."
+7,cxd4,c3d4,rnbqkbnr/pp1p1ppp/8/4p3/3PP3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,"With 3. d4, White leaves the book already!
+The post-game computer analysis didn't like the move 4. cxd4 with the score dropping from +0.25 after 3. ...cxd4 to -0.26 after 4. cxd4.
+Perhaps 4. Nf3 would have been better for White, offering a pawn for fast development."
+8,Bb4+,f8b4,rnbqk1nr/pp1p1ppp/8/4p3/1b1PP3/8/PP3PPP/RNBQKBNR w KQkq - 1 5,"Breaking the ""Knights before Bishops"" rule, but I didn't like the position for White after 5. Nc3 - which seems to hand the initiative to Black.
+5. Bd2 forces Black to do something about the now threatened bishop on b4, enabling White to keep control of the game."
+9,Bd2,c1d2,rnbqk1nr/pp1p1ppp/8/4p3/1b1PP3/8/PP1B1PPP/RN1QKBNR b KQkq - 2 5,"Breaking the ""Knights before Bishops"" rule, but I didn't like the position for White after 5. Nc3 - which seems to hand the initiative to Black.
+5. Bd2 forces Black to do something about the now threatened bishop on b4, enabling White to keep control of the game."
+10,Qa5,d8a5,rnb1k1nr/pp1p1ppp/8/q3p3/1b1PP3/8/PP1B1PPP/RN1QKBNR w KQkq - 3 6,"Theory recommends not bringing out the queen too early.
+The computer analysis recommends trading Bishops instead:
+Inaccuracy: +1.16 » … Qa5 6. dxe5 Bxd2+ 7. Qxd2 Qxe5 8. Nc3 Nf6 9. Nf3 Qe7 10. Bd3 O-O 11. O-O Nc6 12. Rac1 d6 13. Qg5.
+Best: +0.45 » … Bxd2+ 6. Qxd2 exd4 7. Qxd4 Qf6 8. Qd2 Nc6 9. Nc3 Qe7 10. Nf3 Nf6 11. O-O-O O-O 12. Qf4 Qb4 13. Qd6 Re8 14. Qxb4 Nxb4.
+The recommended line does still have both queens out and about before a few of minor pieces though - theory isn't always reflected in practice! Early queen action is probably OK here because neither can be easily ""chased"" by the minor pieces (and then they are swapped off following a few developing moves)."
+11,dxe5,d4e5,rnb1k1nr/pp1p1ppp/8/q3P3/1b2P3/8/PP1B1PPP/RN1QKBNR b KQkq - 0 6,White grabs a pawn!
+12,Bxd2+,b4d2,rnb1k1nr/pp1p1ppp/8/q3P3/4P3/8/PP1b1PPP/RN1QKBNR w KQkq - 0 7,"And Black equalises material, but the queen is centralised with no minor pieces developed. I think this gives White a few good chances now - minor pieces can be brought out attacking the Black queen and developing with tempo. OK - White's queen is diagonally in front of the King, but this isn't so dangerous now that the black bishops are off the board."
+13,Qxd2,d1d2,rnb1k1nr/pp1p1ppp/8/q3P3/4P3/8/PP1Q1PPP/RN2KBNR b KQkq - 0 7,"And Black equalises material, but the queen is centralised with no minor pieces developed. I think this gives White a few good chances now - minor pieces can be brought out attacking the Black queen and developing with tempo. OK - White's queen is diagonally in front of the King, but this isn't so dangerous now that the black bishops are off the board."
+14,Qxe5,a5e5,rnb1k1nr/pp1p1ppp/8/4q3/4P3/8/PP1Q1PPP/RN2KBNR w KQkq - 0 8,"And Black equalises material, but the queen is centralised with no minor pieces developed. I think this gives White a few good chances now - minor pieces can be brought out attacking the Black queen and developing with tempo. OK - White's queen is diagonally in front of the King, but this isn't so dangerous now that the black bishops are off the board."
+15,Nc3,b1c3,rnb1k1nr/pp1p1ppp/8/4q3/4P3/2N5/PP1Q1PPP/R3KBNR b KQkq - 1 8,"Having defended the e4 pawn, White begins gathering momentum - developing with tempo now that the Black queen is exposed."
+16,Nf6,g8f6,rnb1k2r/pp1p1ppp/5n2/4q3/4P3/2N5/PP1Q1PPP/R3KBNR w KQkq - 2 9,"Having defended the e4 pawn, White begins gathering momentum - developing with tempo now that the Black queen is exposed."
+17,Nf3,g1f3,rnb1k2r/pp1p1ppp/5n2/4q3/4P3/2N2N2/PP1Q1PPP/R3KB1R b KQkq - 3 9,"Having defended the e4 pawn, White begins gathering momentum - developing with tempo now that the Black queen is exposed."
+18,Qe6,e5e6,rnb1k2r/pp1p1ppp/4qn2/8/4P3/2N2N2/PP1Q1PPP/R3KB1R w KQkq - 4 10,"The computer indicates that long castling was a mistake...
+Inaccuracy: +1.12 » 10. O-O-O O-O 11. e5 Ng4 12. Bd3 Qb6 13. Rhf1 Nc6 14. Qf4 Qb4 15. Be4 f5 16. Bd5+ Kh8 17. Qxb4 Nxb4 18. Bc4.
+Best: +2.01 » 10. Nb5 Qxe4+ 11. Be2 O-O 12. Nc7 b6 13. O-O Qb7 14. Nxa8 Qxa8 15. Nd4 Ne4 16. Qf4 Ba6 17. Bxa6 Nxa6.
+In the ""Best"" line, White can win a rook for a knight. I suppose I overlooked it because of 10. ...Qxe4+.
+Leaving a pawn hanging that can be captured with check by the queen doesn't seem very appealing! I suppose the lesson to be learned is ""look harder!""."
+19,O-O-O,e1c1,rnb1k2r/pp1p1ppp/4qn2/8/4P3/2N2N2/PP1Q1PPP/2KR1B1R b kq - 5 10,"The computer indicates that long castling was a mistake...
+Inaccuracy: +1.12 » 10. O-O-O O-O 11. e5 Ng4 12. Bd3 Qb6 13. Rhf1 Nc6 14. Qf4 Qb4 15. Be4 f5 16. Bd5+ Kh8 17. Qxb4 Nxb4 18. Bc4.
+Best: +2.01 » 10. Nb5 Qxe4+ 11. Be2 O-O 12. Nc7 b6 13. O-O Qb7 14. Nxa8 Qxa8 15. Nd4 Ne4 16. Qf4 Ba6 17. Bxa6 Nxa6.
+In the ""Best"" line, White can win a rook for a knight. I suppose I overlooked it because of 10. ...Qxe4+.
+Leaving a pawn hanging that can be captured with check by the queen doesn't seem very appealing! I suppose the lesson to be learned is ""look harder!""."
+20,O-O,e8g8,rnb2rk1/pp1p1ppp/4qn2/8/4P3/2N2N2/PP1Q1PPP/2KR1B1R w - - 6 11,I wanted to follow this move up with 12. Nd5 (threatening 13. Nc7).
+21,e5,e4e5,rnb2rk1/pp1p1ppp/4qn2/4P3/8/2N2N2/PP1Q1PPP/2KR1B1R b - - 0 11,I wanted to follow this move up with 12. Nd5 (threatening 13. Nc7).
+22,Ne8,f6e8,rnb1nrk1/pp1p1ppp/4q3/4P3/8/2N2N2/PP1Q1PPP/2KR1B1R w - - 1 12,"This moves defends the c7 square from my knight should I play Nd5, but leaves Black's position cramped, under-developed, and with not much defence around the king. White's plan now should be to bring out many pieces as quickly possible - first to consolidate control of the centre and then to attack the kingside."
+23,Bd3,f1d3,rnb1nrk1/pp1p1ppp/4q3/4P3/8/2NB1N2/PP1Q1PPP/2KR3R b - - 2 12,"It seemed OK to block the d file at this point - Black has no pieces that can safely pin the bishop. It also sets up the potential for a discovered attack later, with Bxh7+. In addition 13. Ng5 will be very dangerous for Black, because the rook on f8 is ""stuck"" and White can follow up with Nxh7 and then Nxf8."
+24,h6,h7h6,rnb1nrk1/pp1p1pp1/4q2p/4P3/8/2NB1N2/PP1Q1PPP/2KR3R w - - 0 13,Getting ready to bring a rook into the action.
+25,Rhe1,h1e1,rnb1nrk1/pp1p1pp1/4q2p/4P3/8/2NB1N2/PP1Q1PPP/2KRR3 b - - 1 13,Getting ready to bring a rook into the action.
+26,a6,a7a6,rnb1nrk1/1p1p1pp1/p3q2p/4P3/8/2NB1N2/PP1Q1PPP/2KRR3 w - - 0 14,"Makes room to ""lift"" the rook to the third rank, and then swing it across to the Kingside. Does this with tempo, attacking the queen. Another ""free"" move for White."
+27,Nd4,f3d4,rnb1nrk1/1p1p1pp1/p3q2p/4P3/3N4/2NB4/PP1Q1PPP/2KRR3 b - - 1 14,"Makes room to ""lift"" the rook to the third rank, and then swing it across to the Kingside. Does this with tempo, attacking the queen. Another ""free"" move for White."
+28,Qb6,e6b6,rnb1nrk1/1p1p1pp1/pq5p/4P3/3N4/2NB4/PP1Q1PPP/2KRR3 w - - 2 15,"The Knight was attacked, so White needed to do something. This moves the knight to safety, and threatens Black's Kingside. e.g. Ne7 could now win Black's bishop, and Black must defend carefully - there are chances to go wrong. (e.g. 15. Nd5, Nc6 16. Nxh6+ gxh6 17. Qxh6 and Black is in real trouble!)."
+29,Nf5,d4f5,rnb1nrk1/1p1p1pp1/pq5p/4PN2/8/2NB4/PP1Q1PPP/2KRR3 b - - 3 15,"The Knight was attacked, so White needed to do something. This moves the knight to safety, and threatens Black's Kingside. e.g. Ne7 could now win Black's bishop, and Black must defend carefully - there are chances to go wrong. (e.g. 15. Nd5, Nc6 16. Nxh6+ gxh6 17. Qxh6 and Black is in real trouble!)."
+30,Qe6,b6e6,rnb1nrk1/1p1p1pp1/p3q2p/4PN2/8/2NB4/PP1Q1PPP/2KRR3 w - - 4 16,"Avoiding the problems described, but White is building up a huge attack and Black doesn't have many good ways to get back into the game."
+31,Re3,e1e3,rnb1nrk1/1p1p1pp1/p3q2p/4PN2/8/2NBR3/PP1Q1PPP/2KR4 b - - 5 16,Getting ready for some rook action on the Kingside...
+32,Nc6,b8c6,r1b1nrk1/1p1p1pp1/p1n1q2p/4PN2/8/2NBR3/PP1Q1PPP/2KR4 w - - 6 17,Black finally gets chance to bring out a minor piece - but it's on the queenside - a long way from where the action is...
+33,Bb1,d3b1,r1b1nrk1/1p1p1pp1/p1n1q2p/4PN2/8/2N1R3/PP1Q1PPP/1BKR4 b - - 7 17,"The computer disagrees with this move strongly...
+Mistake: +2.49 » 17. Bb1 Ne7 18. Nxe7+ Qxe7 19. Nd5 Qd8 20. Qd4 Kh8 21. Nb6 Rb8 22. Bf5 Nc7 23. Nxd7 Nb5 24. Qd5 Qc7+ 25. Kb1 Bxd7 26. Qxd7.
+Best: +4.04 » 17. Nd5 Qxd5 18. Nxh6+ Kh8 19. Nxf7+ Qxf7 20. Rh3+ Kg8 21. Bh7+ Kh8 22. Bg6+ Kg8 23. Bxf7+ Rxf7 24. Rh5 Ne7 25. Rg5 Nc6 26. Rh1.
+I may be missing something, but in the ""Best"" line, why would Black take the Knight (17. ...Qxd5) when that line causes so many problems for Black? The d5 Knight doesn't seem to threaten it, and taking it just looks like an unforced error by Black to me. (But who am I to argue with a computer?! Advice would be very welcome here!)"
+34,b5,b7b5,r1b1nrk1/3p1pp1/p1n1q2p/1p2PN2/8/2N1R3/PP1Q1PPP/1BKR4 w - - 0 18,"Computer analysis:
+Mistake: +4.85 » … b5 18. Nd5 Nxe5 19. Nfe7+ Kh8 20. f4 Qg4 21. fxe5 Bb7 22. Rg3 Qc4+ 23. Rc3 Qh4 24. Rf1 Bxd5 25. Qxd5 Qg5+ 26. Kc2.
+Best: +2.46 » … Ne7 18. Nxe7+ Qxe7 19. Nd5 Qd8 20. Qd4 Kh8 21. Nb6 Rb8 22. Bc2 Nc7 23. Qd6 g6 24. Nxd7 Bxd7 25. Qxd7.
+It does seem like advancing a pawn on the Queenside isn't the best idea when your Kingside is heavily under attack... But in the given ""best"" line, Black swaps his only developed minor piece! I suppose the trade is that by removing White's knight on f5, some White's threats against the Kingside are removed and Black gets chance to regroup."
+35,Qd3,d2d3,r1b1nrk1/3p1pp1/p1n1q2p/1p2PN2/8/2NQR3/PP3PPP/1BKR4 b - - 1 18,"I thought this was a good move. I'm threatening Ne7+ followed by Qh7#.
+But... The computer gleefully points out another mistake on White's part - a ""blunder"" no less!
+Blunder: +2.25 » 18. Qd3 g6 19. Nxh6+ Kg7 20. Qd2 Rh8 21. Rh3 b4 22. Nd5 d6 23. exd6 Qxd6 24. Rh4 Nf6 25. Nb6 Qxd2+ 26. Rxd2 Ra7.
+Best: +5.33 » 18. Nd5 Nxe5 19. Nfe7+ Kh8 20. f4 Bb7 21. Rxe5 Qd6 22. Qd3 g6 23. Qh3 Kh7 24. Nc3 Qb4 25. Rxd7 Qxf4+ 26. Re3.
+But I'm not convinced by the computer's choice of ""18. ...Nxe5""? Again - why would Black do that when it clearly loses material?"

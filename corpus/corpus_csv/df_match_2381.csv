@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Ruy Lopez
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Ruy Lopez
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Ruy Lopez
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Ruy Lopez
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Ruy Lopez
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Exchange Variation
+7,Bxc6,b5c6,r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,"Hmm, I'm not sure this is great, but I don't think it's terrible."
+8,dxc6,d7c6,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Hmm, I'm not sure this is great, but I don't think it's terrible."
+9,h3,h2h3,r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N1P/PPPP1PP1/RNBQK2R b KQkq - 0 5,"Hmm, I'm not sure this is great, but I don't think it's terrible."
+10,Bd6,f8d6,r1bqk1nr/1pp2ppp/p1pb4/4p3/4P3/5N1P/PPPP1PP1/RNBQK2R w KQkq - 1 6,Development.
+11,O-O,e1g1,r1bqk1nr/1pp2ppp/p1pb4/4p3/4P3/5N1P/PPPP1PP1/RNBQ1RK1 b kq - 2 6,I believe black has the edge here due to white's slow development.
+12,Be6,c8e6,r2qk1nr/1pp2ppp/p1pbb3/4p3/4P3/5N1P/PPPP1PP1/RNBQ1RK1 w kq - 3 7,I believe black has the edge here due to white's slow development.
+13,d3,d2d3,r2qk1nr/1pp2ppp/p1pbb3/4p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 b kq - 0 7,I believe black has the edge here due to white's slow development.
+14,Nf6,g8f6,r2qk2r/1pp2ppp/p1pbbn2/4p3/4P3/3P1N1P/PPP2PP1/RNBQ1RK1 w kq - 1 8,I believe black has the edge here due to white's slow development.
+15,c4,c2c4,r2qk2r/1pp2ppp/p1pbbn2/4p3/2P1P3/3P1N1P/PP3PP1/RNBQ1RK1 b kq - 0 8,?! He really needs to develop.
+16,O-O,e8g8,r2q1rk1/1pp2ppp/p1pbbn2/4p3/2P1P3/3P1N1P/PP3PP1/RNBQ1RK1 w - - 1 9,Finally
+17,Nc3,b1c3,r2q1rk1/1pp2ppp/p1pbbn2/4p3/2P1P3/2NP1N1P/PP3PP1/R1BQ1RK1 b - - 2 9,Finally
+18,Re8,f8e8,r2qr1k1/1pp2ppp/p1pbbn2/4p3/2P1P3/2NP1N1P/PP3PP1/R1BQ1RK1 w - - 3 10,?! I'm not sure I would have done that... It trades a bishop for a knight and develops my queen.
+19,Bg5,c1g5,r2qr1k1/1pp2ppp/p1pbbn2/4p1B1/2P1P3/2NP1N1P/PP3PP1/R2Q1RK1 b - - 4 10,?! I'm not sure I would have done that... It trades a bishop for a knight and develops my queen.
+20,h6,h7h6,r2qr1k1/1pp2pp1/p1pbbn1p/4p1B1/2P1P3/2NP1N1P/PP3PP1/R2Q1RK1 w - - 0 11,?! I'm not sure I would have done that... It trades a bishop for a knight and develops my queen.
+21,Bxf6,g5f6,r2qr1k1/1pp2pp1/p1pbbB1p/4p3/2P1P3/2NP1N1P/PP3PP1/R2Q1RK1 b - - 0 11,?! I'm not sure I would have done that... It trades a bishop for a knight and develops my queen.
+22,Qxf6,d8f6,r3r1k1/1pp2pp1/p1pbbq1p/4p3/2P1P3/2NP1N1P/PP3PP1/R2Q1RK1 w - - 0 12,Black is significantly better.
+23,b3,b2b3,r3r1k1/1pp2pp1/p1pbbq1p/4p3/2P1P3/1PNP1N1P/P4PP1/R2Q1RK1 b - - 0 12,Black is significantly better.
+24,Bb4,d6b4,r3r1k1/1pp2pp1/p1p1bq1p/4p3/1bP1P3/1PNP1N1P/P4PP1/R2Q1RK1 w - - 1 13,Black is significantly better.
+25,Qd2,d1d2,r3r1k1/1pp2pp1/p1p1bq1p/4p3/1bP1P3/1PNP1N1P/P2Q1PP1/R4RK1 b - - 2 13,Threatens Bxh3.
+26,Qg6,f6g6,r3r1k1/1pp2pp1/p1p1b1qp/4p3/1bP1P3/1PNP1N1P/P2Q1PP1/R4RK1 w - - 3 14,Threatens Bxh3.
+27,a3,a2a3,r3r1k1/1pp2pp1/p1p1b1qp/4p3/1bP1P3/PPNP1N1P/3Q1PP1/R4RK1 b - - 0 14,??
+28,Bxh3,e6h3,r3r1k1/1pp2pp1/p1p3qp/4p3/1bP1P3/PPNP1N1b/3Q1PP1/R4RK1 w - - 0 15,! He can't take my bishop or it's mate.
+29,Nh4,f3h4,r3r1k1/1pp2pp1/p1p3qp/4p3/1bP1P2N/PPNP3b/3Q1PP1/R4RK1 b - - 1 15,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+30,Qg4,g6g4,r3r1k1/1pp2pp1/p1p4p/4p3/1bP1P1qN/PPNP3b/3Q1PP1/R4RK1 w - - 2 16,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+31,f3,f2f3,r3r1k1/1pp2pp1/p1p4p/4p3/1bP1P1qN/PPNP1P1b/3Q2P1/R4RK1 b - - 0 16,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+32,Bc5+,b4c5,r3r1k1/1pp2pp1/p1p4p/2b1p3/2P1P1qN/PPNP1P1b/3Q2P1/R4RK1 w - - 1 17,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+33,Kh2,g1h2,r3r1k1/1pp2pp1/p1p4p/2b1p3/2P1P1qN/PPNP1P1b/3Q2PK/R4R2 b - - 2 17,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+34,Qxh4,g4h4,r3r1k1/1pp2pp1/p1p4p/2b1p3/2P1P2q/PPNP1P1b/3Q2PK/R4R2 w - - 0 18,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+35,gxh3,g2h3,r3r1k1/1pp2pp1/p1p4p/2b1p3/2P1P2q/PPNP1P1P/3Q3K/R4R2 b - - 0 18,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+36,Re6,e8e6,r5k1/1pp2pp1/p1p1r2p/2b1p3/2P1P2q/PPNP1P1P/3Q3K/R4R2 w - - 1 19,"Well that skirmish dies down and leaves me with a slight advantage, but nothing unassailable. White should try to take control of the g file."
+37,b4,b3b4,r5k1/1pp2pp1/p1p1r2p/2b1p3/1PP1P2q/P1NP1P1P/3Q3K/R4R2 b - - 0 19,"?? He should have moved his rook to g1, this allows me to take control of the g file with tempo... Not to mention, it leaves a knight hanging."
+38,Bd4,c5d4,r5k1/1pp2pp1/p1p1r2p/4p3/1PPbP2q/P1NP1P1P/3Q3K/R4R2 w - - 1 20,"?? He should have moved his rook to g1, this allows me to take control of the g file with tempo... Not to mention, it leaves a knight hanging."
+39,Qg2,d2g2,r5k1/1pp2pp1/p1p1r2p/4p3/1PPbP2q/P1NP1P1P/6QK/R4R2 b - - 2 20,"?? He should have moved his rook to g1, this allows me to take control of the g file with tempo... Not to mention, it leaves a knight hanging."
+40,Bxc3,d4c3,r5k1/1pp2pp1/p1p1r2p/4p3/1PP1P2q/P1bP1P1P/6QK/R4R2 w - - 0 21,Pushing his king into a corner.
+41,Rfg1,f1g1,r5k1/1pp2pp1/p1p1r2p/4p3/1PP1P2q/P1bP1P1P/6QK/R5R1 b - - 1 21,Pushing his king into a corner.
+42,Rg6,e6g6,r5k1/1pp2pp1/p1p3rp/4p3/1PP1P2q/P1bP1P1P/6QK/R5R1 w - - 2 22,Pushing his king into a corner.
+43,Qc2,g2c2,r5k1/1pp2pp1/p1p3rp/4p3/1PP1P2q/P1bP1P1P/2Q4K/R5R1 b - - 3 22,Pushing his king into a corner.
+44,Qf4+,h4f4,r5k1/1pp2pp1/p1p3rp/4p3/1PP1Pq2/P1bP1P1P/2Q4K/R5R1 w - - 4 23,Pushing his king into a corner.
+45,Kh1,h2h1,r5k1/1pp2pp1/p1p3rp/4p3/1PP1Pq2/P1bP1P1P/2Q5/R5RK b - - 5 23,I really didn't see any alternatives. If white wants to recapture then he surrenders the g file.
+46,Bxa1,c3a1,r5k1/1pp2pp1/p1p3rp/4p3/1PP1Pq2/P2P1P1P/2Q5/b5RK w - - 0 24,I really didn't see any alternatives. If white wants to recapture then he surrenders the g file.
+47,Qh2,c2h2,r5k1/1pp2pp1/p1p3rp/4p3/1PP1Pq2/P2P1P1P/7Q/b5RK b - - 1 24,"I think he made the right decision not recapturing, but I think he should have traded rooks. It would have relieved the pressure down the g file..."
+48,Qxf3+,f4f3,r5k1/1pp2pp1/p1p3rp/4p3/1PP1P3/P2P1q1P/7Q/b5RK w - - 0 25,...And it also allows this.
+49,Rg2,g1g2,r5k1/1pp2pp1/p1p3rp/4p3/1PP1P3/P2P1q1P/6RQ/b6K b - - 1 25,!
+50,Bd4,a1d4,r5k1/1pp2pp1/p1p3rp/4p3/1PPbP3/P2P1q1P/6RQ/7K w - - 2 26,!
+51,c5,c4c5,r5k1/1pp2pp1/p1p3rp/2P1p3/1P1bP3/P2P1q1P/6RQ/7K b - - 0 26,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."
+52,Qf1+,f3f1,r5k1/1pp2pp1/p1p3rp/2P1p3/1P1bP3/P2P3P/6RQ/5q1K w - - 1 27,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."
+53,Rg1,g2g1,r5k1/1pp2pp1/p1p3rp/2P1p3/1P1bP3/P2P3P/7Q/5qRK b - - 2 27,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."
+54,Rxg1+,g6g1,r5k1/1pp2pp1/p1p4p/2P1p3/1P1bP3/P2P3P/7Q/5qrK w - - 0 28,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."
+55,Qxg1,h2g1,r5k1/1pp2pp1/p1p4p/2P1p3/1P1bP3/P2P3P/8/5qQK b - - 0 28,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."
+56,Qxg1#,f1g1,r5k1/1pp2pp1/p1p4p/2P1p3/1P1bP3/P2P3P/8/6qK w - - 0 29,"And I get checkmate. I'm only five points away from 1300, a never-before-seen rating, I hope I can make it there."

@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,basic opening
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"i wondered about this for a while, most people do not do e6 where i play so i have not seen it in a while"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,i figure he is doing a black form of stonewall.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,i figure he is doing a black form of stonewall.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,i figured i would try center counter (for white)
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,i figured i would try center counter (for white)
+7,Qe2+,d1e2,rnbqkbnr/ppp2ppp/8/3p4/8/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 4,i figured i would try center counter (for white)
+8,Be7,f8e7,rnbqk1nr/ppp1bppp/8/3p4/8/5N2/PPPPQPPP/RNB1KB1R w KQkq - 2 5,good choice
+9,d4,d2d4,rnbqk1nr/ppp1bppp/8/3p4/3P4/5N2/PPP1QPPP/RNB1KB1R b KQkq - 0 5,i did not want his knight at g4
+10,Nf6,g8f6,rnbqk2r/ppp1bppp/5n2/3p4/3P4/5N2/PPP1QPPP/RNB1KB1R w KQkq - 1 6,i did not want his knight at g4
+11,Ne5,f3e5,rnbqk2r/ppp1bppp/5n2/3pN3/3P4/8/PPP1QPPP/RNB1KB1R b KQkq - 2 6,i did not want his knight at g4
+12,O-O,e8g8,rnbq1rk1/ppp1bppp/5n2/3pN3/3P4/8/PPP1QPPP/RNB1KB1R w KQ - 3 7,"did not want my queen on the open file, i figured his rook would go there soon so i better leave"
+13,Qf3,e2f3,rnbq1rk1/ppp1bppp/5n2/3pN3/3P4/5Q2/PPP2PPP/RNB1KB1R b KQ - 4 7,"did not want my queen on the open file, i figured his rook would go there soon so i better leave"
+14,Nbd7,b8d7,r1bq1rk1/pppnbppp/5n2/3pN3/3P4/5Q2/PPP2PPP/RNB1KB1R w KQ - 5 8,i need another guard
+15,Bd3,f1d3,r1bq1rk1/pppnbppp/5n2/3pN3/3P4/3B1Q2/PPP2PPP/RNB1K2R b KQ - 6 8,i need another guard
+16,Bd6,e7d6,r1bq1rk1/pppn1ppp/3b1n2/3pN3/3P4/3B1Q2/PPP2PPP/RNB1K2R w KQ - 7 9,i need another guard
+17,Bf4,c1f4,r1bq1rk1/pppn1ppp/3b1n2/3pN3/3P1B2/3B1Q2/PPP2PPP/RN2K2R b KQ - 8 9,well the knight is lost i better just cut my loses and go
+18,Re8,f8e8,r1bqr1k1/pppn1ppp/3b1n2/3pN3/3P1B2/3B1Q2/PPP2PPP/RN2K2R w KQ - 9 10,well the knight is lost i better just cut my loses and go
+19,O-O,e1g1,r1bqr1k1/pppn1ppp/3b1n2/3pN3/3P1B2/3B1Q2/PPP2PPP/RN3RK1 b - - 10 10,i do not want to see Bd4
+20,Nxe5,d7e5,r1bqr1k1/ppp2ppp/3b1n2/3pn3/3P1B2/3B1Q2/PPP2PPP/RN3RK1 w - - 0 11,i do not want to see Bd4
+21,dxe5,d4e5,r1bqr1k1/ppp2ppp/3b1n2/3pP3/5B2/3B1Q2/PPP2PPP/RN3RK1 b - - 0 11,i do not want to see Bd4
+22,Bxe5,d6e5,r1bqr1k1/ppp2ppp/5n2/3pb3/5B2/3B1Q2/PPP2PPP/RN3RK1 w - - 0 12,i do not want to see Bd4
+23,c3,c2c3,r1bqr1k1/ppp2ppp/5n2/3pb3/5B2/2PB1Q2/PP3PPP/RN3RK1 b - - 0 12,i do not want to see Bd4
+24,Bg4,c8g4,r2qr1k1/ppp2ppp/5n2/3pb3/5Bb1/2PB1Q2/PP3PPP/RN3RK1 w - - 1 13,i let the past 2 pawns fal so i could set things up for a mating attack
+25,Qg3,f3g3,r2qr1k1/ppp2ppp/5n2/3pb3/5Bb1/2PB2Q1/PP3PPP/RN3RK1 b - - 2 13,i let the past 2 pawns fal so i could set things up for a mating attack
+26,Bxf4,e5f4,r2qr1k1/ppp2ppp/5n2/3p4/5bb1/2PB2Q1/PP3PPP/RN3RK1 w - - 0 14,i let the past 2 pawns fal so i could set things up for a mating attack
+27,Qxf4,g3f4,r2qr1k1/ppp2ppp/5n2/3p4/5Qb1/2PB4/PP3PPP/RN3RK1 b - - 0 14,i let the past 2 pawns fal so i could set things up for a mating attack
+28,c5,c7c5,r2qr1k1/pp3ppp/5n2/2pp4/5Qb1/2PB4/PP3PPP/RN3RK1 w - - 0 15,i let the past 2 pawns fal so i could set things up for a mating attack
+29,Nd2,b1d2,r2qr1k1/pp3ppp/5n2/2pp4/5Qb1/2PB4/PP1N1PPP/R4RK1 b - - 1 15,i let the past 2 pawns fal so i could set things up for a mating attack
+30,Be2,g4e2,r2qr1k1/pp3ppp/5n2/2pp4/5Q2/2PB4/PP1NbPPP/R4RK1 w - - 2 16,i let the past 2 pawns fal so i could set things up for a mating attack
+31,Bxe2,d3e2,r2qr1k1/pp3ppp/5n2/2pp4/5Q2/2P5/PP1NBPPP/R4RK1 b - - 0 16,i let the past 2 pawns fal so i could set things up for a mating attack
+32,Rxe2,e8e2,r2q2k1/pp3ppp/5n2/2pp4/5Q2/2P5/PP1NrPPP/R4RK1 w - - 0 17,i let the past 2 pawns fal so i could set things up for a mating attack
+33,Rad1,a1d1,r2q2k1/pp3ppp/5n2/2pp4/5Q2/2P5/PP1NrPPP/3R1RK1 b - - 1 17,i let the past 2 pawns fal so i could set things up for a mating attack
+34,Qb6,d8b6,r5k1/pp3ppp/1q3n2/2pp4/5Q2/2P5/PP1NrPPP/3R1RK1 w - - 2 18,i let the past 2 pawns fal so i could set things up for a mating attack
+35,b3,b2b3,r5k1/pp3ppp/1q3n2/2pp4/5Q2/1PP5/P2NrPPP/3R1RK1 b - - 0 18,i let the past 2 pawns fal so i could set things up for a mating attack
+36,Rd8,a8d8,3r2k1/pp3ppp/1q3n2/2pp4/5Q2/1PP5/P2NrPPP/3R1RK1 w - - 1 19,i let the past 2 pawns fal so i could set things up for a mating attack
+37,Nf3,d2f3,3r2k1/pp3ppp/1q3n2/2pp4/5Q2/1PP2N2/P3rPPP/3R1RK1 b - - 2 19,i let the past 2 pawns fal so i could set things up for a mating attack
+38,Rxa2,e2a2,3r2k1/pp3ppp/1q3n2/2pp4/5Q2/1PP2N2/r4PPP/3R1RK1 w - - 0 20,i let the past 2 pawns fal so i could set things up for a mating attack
+39,Ng5,f3g5,3r2k1/pp3ppp/1q3n2/2pp2N1/5Q2/1PP5/r4PPP/3R1RK1 b - - 1 20,i let the past 2 pawns fal so i could set things up for a mating attack
+40,h6,h7h6,3r2k1/pp3pp1/1q3n1p/2pp2N1/5Q2/1PP5/r4PPP/3R1RK1 w - - 0 21,i let the past 2 pawns fal so i could set things up for a mating attack
+41,Nh3,g5h3,3r2k1/pp3pp1/1q3n1p/2pp4/5Q2/1PP4N/r4PPP/3R1RK1 b - - 1 21,i let the past 2 pawns fal so i could set things up for a mating attack
+42,Qxb3,b6b3,3r2k1/pp3pp1/5n1p/2pp4/5Q2/1qP4N/r4PPP/3R1RK1 w - - 0 22,i let the past 2 pawns fal so i could set things up for a mating attack
+43,Rde1,d1e1,3r2k1/pp3pp1/5n1p/2pp4/5Q2/1qP4N/r4PPP/4RRK1 b - - 1 22,i let the past 2 pawns fal so i could set things up for a mating attack
+44,Qxc3,b3c3,3r2k1/pp3pp1/5n1p/2pp4/5Q2/2q4N/r4PPP/4RRK1 w - - 0 23,perfect now i can get this going
+45,Re3,e1e3,3r2k1/pp3pp1/5n1p/2pp4/5Q2/2q1R2N/r4PPP/5RK1 b - - 1 23,perfect now i can get this going
+46,Qa5,c3a5,3r2k1/pp3pp1/5n1p/q1pp4/5Q2/4R2N/r4PPP/5RK1 w - - 2 24,pinning the g7 pawn
+47,Rg3,e3g3,3r2k1/pp3pp1/5n1p/q1pp4/5Q2/6RN/r4PPP/5RK1 b - - 3 24,pinning the g7 pawn
+48,Qb6,a5b6,3r2k1/pp3pp1/1q3n1p/2pp4/5Q2/6RN/r4PPP/5RK1 w - - 4 25,i did want him to get any ideas with my f2 pawn
+49,Kh1,g1h1,3r2k1/pp3pp1/1q3n1p/2pp4/5Q2/6RN/r4PPP/5R1K b - - 5 25,i did want him to get any ideas with my f2 pawn
+50,Qd6,b6d6,3r2k1/pp3pp1/3q1n1p/2pp4/5Q2/6RN/r4PPP/5R1K w - - 6 26,"queen trade offer, i reject"
+51,Qxh6,f4h6,3r2k1/pp3pp1/3q1n1Q/2pp4/8/6RN/r4PPP/5R1K b - - 0 26,mate threat
+52,Ne8,f6e8,3rn1k1/pp3pp1/3q3Q/2pp4/8/6RN/r4PPP/5R1K w - - 1 27,another offer and good guard against mate
+53,Qg5,h6g5,3rn1k1/pp3pp1/3q4/2pp2Q1/8/6RN/r4PPP/5R1K b - - 2 27,yet another offer
+54,Qf6,d6f6,3rn1k1/pp3pp1/5q2/2pp2Q1/8/6RN/r4PPP/5R1K w - - 3 28,yet another offer
+55,Qg4,g5g4,3rn1k1/pp3pp1/5q2/2pp4/6Q1/6RN/r4PPP/5R1K b - - 4 28,"still going on this attack, almost ready to end this"
+56,b5,b7b5,3rn1k1/p4pp1/5q2/1ppp4/6Q1/6RN/r4PPP/5R1K w - - 0 29,"still going on this attack, almost ready to end this"
+57,Ng5,h3g5,3rn1k1/p4pp1/5q2/1ppp2N1/6Q1/6R1/r4PPP/5R1K b - - 1 29,"still going on this attack, almost ready to end this"
+58,Qh6,f6h6,3rn1k1/p4pp1/7q/1ppp2N1/6Q1/6R1/r4PPP/5R1K w - - 2 30,good move but it exposes the f7 pawn

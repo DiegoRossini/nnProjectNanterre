@@ -1,0 +1,18 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Standard queen opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,still standard opening
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,still standard opening
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,still standard opening
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,still standard opening
+6,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 1 4,taking the d pawn
+7,Nc3,b1c3,r1bqkb1r/ppp1pppp/2n2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 2 4,taking the d pawn
+8,dxc4,d5c4,r1bqkb1r/ppp1pppp/2n2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,taking the d pawn
+9,e3,e2e3,r1bqkb1r/ppp1pppp/2n2n2/8/2pP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5,defending the d-pawn and attackingt the black c-pawn.
+10,Bf5,c8f5,r2qkb1r/ppp1pppp/2n2n2/5b2/2pP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 1 6,not defending the c-pawn!
+11,Bxc4,f1c4,r2qkb1r/ppp1pppp/2n2n2/5b2/2BP4/2N1PN2/PP3PPP/R1BQK2R b KQkq - 0 6,taking the pawn
+12,Nb4,c6b4,r2qkb1r/ppp1pppp/5n2/5b2/1nBP4/2N1PN2/PP3PPP/R1BQK2R w KQkq - 1 7,check to take the horse on b 4
+13,Qa4+,d1a4,r2qkb1r/ppp1pppp/5n2/5b2/QnBP4/2N1PN2/PP3PPP/R1B1K2R b KQkq - 2 7,check to take the horse on b 4
+14,Nc6,b4c6,r2qkb1r/ppp1pppp/2n2n2/5b2/Q1BP4/2N1PN2/PP3PPP/R1B1K2R w KQkq - 3 8,the big mistake
+15,Ne5,f3e5,r2qkb1r/ppp1pppp/2n2n2/4Nb2/Q1BP4/2N1P3/PP3PPP/R1B1K2R b KQkq - 4 8,attacking f 7
+16,Bd7,f5d7,r2qkb1r/pppbpppp/2n2n2/4N3/Q1BP4/2N1P3/PP3PPP/R1B1K2R w KQkq - 5 9,not defending f 7
+17,Bxf7#,c4f7,r2qkb1r/pppbpBpp/2n2n2/4N3/Q2P4/2N1P3/PP3PPP/R1B1K2R b KQkq - 0 9,the end

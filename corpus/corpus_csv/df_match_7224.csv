@@ -1,0 +1,87 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The GPA
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The GPA
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,The GPA
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/2n5/2p5/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 2 3,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+6,g6,g7g6,r1bqkbnr/pp1ppp1p/2n3p1/2p5/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+7,Nc3,b1c3,r1bqkbnr/pp1ppp1p/2n3p1/2p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+8,Bg7,f8g7,r1bqk1nr/pp1pppbp/2n3p1/2p5/4PP2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 5,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+9,Bc4,f1c4,r1bqk1nr/pp1pppbp/2n3p1/2p5/2B1PP2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 5,The mainline. The positional 5. Bb5 is also good (but for me that's a little dull)
+10,e6,e7e6,r1bqk1nr/pp1p1pbp/2n1p1p1/2p5/2B1PP2/2N2N2/PPPP2PP/R1BQK2R w KQkq - 0 6,"""Chess for cavemen"" as Julian Hodgson would say. Quite discredited in opening theory (unfairly I feel). Wischess20 plays the book refutation (..Nge7, ..d5)"
+11,f5,f4f5,r1bqk1nr/pp1p1pbp/2n1p1p1/2p2P2/2B1P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 0 6,"""Chess for cavemen"" as Julian Hodgson would say. Quite discredited in opening theory (unfairly I feel). Wischess20 plays the book refutation (..Nge7, ..d5)"
+12,Nge7,g8e7,r1bqk2r/pp1pnpbp/2n1p1p1/2p2P2/2B1P3/2N2N2/PPPP2PP/R1BQK2R w KQkq - 1 7,"""At least equality for black, refutes white's play"". So what do you play here for white? For example, 8. fg dc 9.fe+ Kxf7 10. Ng5+ Kg8 11. Nf7 Qd4+ is advantage to black. To play the Bc4 GPA its important to know all the main attacking themes."
+13,O-O,e1g1,r1bqk2r/pp1pnpbp/2n1p1p1/2p2P2/2B1P3/2N2N2/PPPP2PP/R1BQ1RK1 b kq - 2 7,"""At least equality for black, refutes white's play"". So what do you play here for white? For example, 8. fg dc 9.fe+ Kxf7 10. Ng5+ Kg8 11. Nf7 Qd4+ is advantage to black. To play the Bc4 GPA its important to know all the main attacking themes."
+14,d5,d7d5,r1bqk2r/pp2npbp/2n1p1p1/2pp1P2/2B1P3/2N2N2/PPPP2PP/R1BQ1RK1 w kq - 0 8,"""At least equality for black, refutes white's play"". So what do you play here for white? For example, 8. fg dc 9.fe+ Kxf7 10. Ng5+ Kg8 11. Nf7 Qd4+ is advantage to black. To play the Bc4 GPA its important to know all the main attacking themes."
+15,Bb3,c4b3,r1bqk2r/pp2npbp/2n1p1p1/2pp1P2/4P3/1BN2N2/PPPP2PP/R1BQ1RK1 b kq - 1 8,"This is I think the best move, and is a relative novelty with the planned sacrifice. The fxg lines are weak against the uncastled black king, as they give black some breathing space opening the h file for his rook. Black needs to play very accurately for the next few moves to wriggle out of white's mating threats. The subtlety of Bb3 is to permit black to win the bishop on white's terms.. ie. not dc (opening the d file for an annoying check by the black queen on d4) but ..c4, ..cb, and after ab white can whip his rook into the attack via a4."
+16,c4,c5c4,r1bqk2r/pp2npbp/2n1p1p1/3p1P2/2p1P3/1BN2N2/PPPP2PP/R1BQ1RK1 w kq - 0 9,"White can avoid the sacrifice with 9. Ba4, 10. Bxc6 if he wants, although this is fine for black.  An example of 9. fg  
+[White ""Karpov, Petr""]
+[Black ""Kutepov, Dmitry""]
+[Result ""0-1""]
+[ECO ""B23""]
+[WhiteElo ""2087""]
+[PlyCount ""48""]
+[EventDate ""2004.09.??""]
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. O-O d5 8. Bb3
+d4 9. fxg6 hxg6 10. Ne2 b5 11. d3 Bd7 12. Ng5 Ne5 13. a4 bxa4 14. Ba2 N7c6 15.
+c3 Bh6 16. h4 Qe7 17. cxd4 cxd4 18. Qxa4 f6 19. Nf3 Nxf3+ 20. gxf3 Bxc1 21.
+Raxc1 Nb4 22. Qb3 Nxa2 23. Qxa2 Rxh4 24. Nxd4 Qd6 0-1"
+17,fxe6,f5e6,r1bqk2r/pp2npbp/2n1P1p1/3p4/2p1P3/1BN2N2/PPPP2PP/R1BQ1RK1 b kq - 0 9,"White can avoid the sacrifice with 9. Ba4, 10. Bxc6 if he wants, although this is fine for black.  An example of 9. fg  
+[White ""Karpov, Petr""]
+[Black ""Kutepov, Dmitry""]
+[Result ""0-1""]
+[ECO ""B23""]
+[WhiteElo ""2087""]
+[PlyCount ""48""]
+[EventDate ""2004.09.??""]
+1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. O-O d5 8. Bb3
+d4 9. fxg6 hxg6 10. Ne2 b5 11. d3 Bd7 12. Ng5 Ne5 13. a4 bxa4 14. Ba2 N7c6 15.
+c3 Bh6 16. h4 Qe7 17. cxd4 cxd4 18. Qxa4 f6 19. Nf3 Nxf3+ 20. gxf3 Bxc1 21.
+Raxc1 Nb4 22. Qb3 Nxa2 23. Qxa2 Rxh4 24. Nxd4 Qd6 0-1"
+18,cxb3,c4b3,r1bqk2r/pp2npbp/2n1P1p1/3p4/4P3/1pN2N2/PPPP2PP/R1BQ1RK1 w kq - 0 10,"10. .. Kxf7 is the most confident (and I think correct) attempt to refute white's play [Event ""ARG-ch sf 84th""]
+[Site ""La Plata""]
+[Date ""2009.05.02""]
+[Round ""4""]
+[White ""Cappelletti, Gabriel""]
+[Black ""Walsh, Hector""]
+[Result ""1-0""]
+[ECO ""B23""]
+[BlackElo ""2134""]
+[PlyCount ""37""]
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 Bg7 5. Nf3 e6 6. f5 Nge7 7. O-O d5 8. Bb3
+c4 9. fxe6 cxb3 10. exf7+ Kf8 11. axb3 Bg4 12. d3 Bxc3 13. exd5 Bxf3 14. Qxf3
+Bd4+ 15. Kh1 Nxd5 16. Bh6+ Bg7 17. Rae1 Bxh6 18. Re8+ Kg7 19. f8=Q+ 1-0"
+19,exf7+,e6f7,r1bqk2r/pp2nPbp/2n3p1/3p4/4P3/1pN2N2/PPPP2PP/R1BQ1RK1 b kq - 0 10,"10. .. Kxf7 is the most confident (and I think correct) attempt to refute white's play [Event ""ARG-ch sf 84th""]
+[Site ""La Plata""]
+[Date ""2009.05.02""]
+[Round ""4""]
+[White ""Cappelletti, Gabriel""]
+[Black ""Walsh, Hector""]
+[Result ""1-0""]
+[ECO ""B23""]
+[BlackElo ""2134""]
+[PlyCount ""37""]
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 Bg7 5. Nf3 e6 6. f5 Nge7 7. O-O d5 8. Bb3
+c4 9. fxe6 cxb3 10. exf7+ Kf8 11. axb3 Bg4 12. d3 Bxc3 13. exd5 Bxf3 14. Qxf3
+Bd4+ 15. Kh1 Nxd5 16. Bh6+ Bg7 17. Rae1 Bxh6 18. Re8+ Kg7 19. f8=Q+ 1-0"
+20,Kxf7,e8f7,r1bq3r/pp2nkbp/2n3p1/3p4/4P3/1pN2N2/PPPP2PP/R1BQ1RK1 w - - 0 11,"10. .. Kxf7 is the most confident (and I think correct) attempt to refute white's play [Event ""ARG-ch sf 84th""]
+[Site ""La Plata""]
+[Date ""2009.05.02""]
+[Round ""4""]
+[White ""Cappelletti, Gabriel""]
+[Black ""Walsh, Hector""]
+[Result ""1-0""]
+[ECO ""B23""]
+[BlackElo ""2134""]
+[PlyCount ""37""]
+1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 Bg7 5. Nf3 e6 6. f5 Nge7 7. O-O d5 8. Bb3
+c4 9. fxe6 cxb3 10. exf7+ Kf8 11. axb3 Bg4 12. d3 Bxc3 13. exd5 Bxf3 14. Qxf3
+Bd4+ 15. Kh1 Nxd5 16. Bh6+ Bg7 17. Rae1 Bxh6 18. Re8+ Kg7 19. f8=Q+ 1-0"
+21,Ng5+,f3g5,r1bq3r/pp2nkbp/2n3p1/3p2N1/4P3/1pN5/PPPP2PP/R1BQ1RK1 b - - 1 11,Bringing the other rook into play
+22,Ke8,f7e8,r1bqk2r/pp2n1bp/2n3p1/3p2N1/4P3/1pN5/PPPP2PP/R1BQ1RK1 w - - 2 12,Bringing the other rook into play
+23,axb3,a2b3,r1bqk2r/pp2n1bp/2n3p1/3p2N1/4P3/1PN5/1PPP2PP/R1BQ1RK1 b - - 0 12,Bringing the other rook into play
+24,Bxc3,g7c3,r1bqk2r/pp2n2p/2n3p1/3p2N1/4P3/1Pb5/1PPP2PP/R1BQ1RK1 w - - 0 13,"""When ahead, exchange into a winning endgame"". Except when the piece being exchanged (the black-square bishop) is important for defence. This is a weak move for black."
+25,bxc3,b2c3,r1bqk2r/pp2n2p/2n3p1/3p2N1/4P3/1PP5/2PP2PP/R1BQ1RK1 b - - 0 13,"I briefly considered the silly dc (making 2 sets of doubled pawns) with the intention of bringing the bishop on c1 into the battle. But this is not necessary.  Preferable is to capture towards the centre, bringing the bishop in next move via d4. White needs to keep one eye on the endgame if black survives the attack"
+26,h6,h7h6,r1bqk2r/pp2n3/2n3pp/3p2N1/4P3/1PP5/2PP2PP/R1BQ1RK1 w - - 0 14,13.. de is better and black should survive after 14. Nf7 Qb6+ 15. Kh1 Rg8
+27,Nf7,g5f7,r1bqk2r/pp2nN2/2n3pp/3p4/4P3/1PP5/2PP2PP/R1BQ1RK1 b - - 1 14,Or 14..Qb6+ 15. d4 still winning for white
+28,Qd7,d8d7,r1b1k2r/pp1qnN2/2n3pp/3p4/4P3/1PP5/2PP2PP/R1BQ1RK1 w - - 2 15,Or 14..Qb6+ 15. d4 still winning for white

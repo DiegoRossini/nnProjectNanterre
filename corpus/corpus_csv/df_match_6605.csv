@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,standard opening move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,attack your pawn
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,attack your pawn
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,defend against your light bishop pinning my knight to my queen
+5,h3,h2h3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N1P/PPPP1PP1/RNBQKB1R b KQkq - 0 3,defend against your light bishop pinning my knight to my queen
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/4p3/4P3/5N1P/PPPP1PP1/RNBQKB1R w KQkq - 1 4,"setting up a strong middle with an eye toward getting my f knight to f7 to fork your queen and rook, or put my bishop on f7 so you have to move your king and therefore cannot castle"
+7,Bc4,f1c4,rnbqkb1r/ppp2ppp/3p1n2/4p3/2B1P3/5N1P/PPPP1PP1/RNBQK2R b KQkq - 2 4,"setting up a strong middle with an eye toward getting my f knight to f7 to fork your queen and rook, or put my bishop on f7 so you have to move your king and therefore cannot castle"
+8,Nxe4,f6e4,rnbqkb1r/ppp2ppp/3p4/4p3/2B1n3/5N1P/PPPP1PP1/RNBQK2R w KQkq - 0 5,get that knight out of there!  And open a route for my dark bishop.
+9,d3,d2d3,rnbqkb1r/ppp2ppp/3p4/4p3/2B1n3/3P1N1P/PPP2PP1/RNBQK2R b KQkq - 0 5,get that knight out of there!  And open a route for my dark bishop.
+10,Nc5,e4c5,rnbqkb1r/ppp2ppp/3p4/2n1p3/2B5/3P1N1P/PPP2PP1/RNBQK2R w KQkq - 1 6,working toward my plan - fork queen and rook or check w/ bishop
+11,Ng5,f3g5,rnbqkb1r/ppp2ppp/3p4/2n1p1N1/2B5/3P3P/PPP2PP1/RNBQK2R b KQkq - 2 6,working toward my plan - fork queen and rook or check w/ bishop
+12,f6,f7f6,rnbqkb1r/ppp3pp/3p1p2/2n1p1N1/2B5/3P3P/PPP2PP1/RNBQK2R w KQkq - 0 7,"plan complete, the pawn move to f6 causes me to move my knight first so as to prevent losing it."
+13,Nf7,g5f7,rnbqkb1r/ppp2Npp/3p1p2/2n1p3/2B5/3P3P/PPP2PP1/RNBQK2R b KQkq - 1 7,"plan complete, the pawn move to f6 causes me to move my knight first so as to prevent losing it."
+14,Qd7,d8d7,rnb1kb1r/pppq1Npp/3p1p2/2n1p3/2B5/3P3P/PPP2PP1/RNBQK2R w KQkq - 2 8,take
+15,Nxh8,f7h8,rnb1kb1N/pppq2pp/3p1p2/2n1p3/2B5/3P3P/PPP2PP1/RNBQK2R b KQq - 0 8,take
+16,Qf5,d7f5,rnb1kb1N/ppp3pp/3p1p2/2n1pq2/2B5/3P3P/PPP2PP1/RNBQK2R w KQq - 1 9,"now move your king, no castling for you.  both parts of plan complete"
+17,Bf7+,c4f7,rnb1kb1N/ppp2Bpp/3p1p2/2n1pq2/8/3P3P/PPP2PP1/RNBQK2R b KQq - 2 9,"now move your king, no castling for you.  both parts of plan complete"
+18,Kd8,e8d8,rnbk1b1N/ppp2Bpp/3p1p2/2n1pq2/8/3P3P/PPP2PP1/RNBQK2R w KQ - 3 10,"castle to get my h rook available and with my king protected, my other pieces can now move out from behind a significant number of pawns remaining.  My pawn structure is stronger than yours as I have more choices what to do with the pawns than you do, ie, once a pawn moves forward, of course, it cannot move backward.  I'm not concerned about your dark bishop as you'll have to move a couple pieces to line it up with your queen or another piece to attack my king successfully"
+19,O-O,e1g1,rnbk1b1N/ppp2Bpp/3p1p2/2n1pq2/8/3P3P/PPP2PP1/RNBQ1RK1 b - - 4 10,"castle to get my h rook available and with my king protected, my other pieces can now move out from behind a significant number of pawns remaining.  My pawn structure is stronger than yours as I have more choices what to do with the pawns than you do, ie, once a pawn moves forward, of course, it cannot move backward.  I'm not concerned about your dark bishop as you'll have to move a couple pieces to line it up with your queen or another piece to attack my king successfully"
+20,e4,e5e4,rnbk1b1N/ppp2Bpp/3p1p2/2n2q2/4p3/3P3P/PPP2PP1/RNBQ1RK1 w - - 0 11,"I choose to pass that pawn and in doing so, attack your knight with a lesser piece and occupy the center with protection for that pawn offered by my queen.  your e pawn can't attack my pawn, and neither can the c pawn... yet."
+21,d4,d3d4,rnbk1b1N/ppp2Bpp/3p1p2/2n2q2/3Pp3/7P/PPP2PP1/RNBQ1RK1 b - - 0 11,"I choose to pass that pawn and in doing so, attack your knight with a lesser piece and occupy the center with protection for that pawn offered by my queen.  your e pawn can't attack my pawn, and neither can the c pawn... yet."
+22,Ne6,c5e6,rnbk1b1N/ppp2Bpp/3pnp2/5q2/3Pp3/7P/PPP2PP1/RNBQ1RK1 w - - 1 12,"yep, knight retreated, though now c pawn can attack my d pawn."
+23,Nc3,b1c3,rnbk1b1N/ppp2Bpp/3pnp2/5q2/3Pp3/2N4P/PPP2PP1/R1BQ1RK1 b - - 2 12,"Moving my knight out, attacking the middle.  if c pawn comes, might move my dark bishop to e3 to backup that pawn, and free my a rook"
+24,b6,b7b6,rnbk1b1N/p1p2Bpp/1p1pnp2/5q2/3Pp3/2N4P/PPP2PP1/R1BQ1RK1 w - - 0 13,"Because your dark bishop is at least 2 non dangerous moves away from lining up my king, i offer to swap pawns or let your pawn pass.  if you swap pawns, i attack your queen with my rook.  if you pass, then take the passed pawn with my bishop and develop it while freeing my a rook."
+25,f3,f2f3,rnbk1b1N/p1p2Bpp/1p1pnp2/5q2/3Pp3/2N2P1P/PPP3P1/R1BQ1RK1 b - - 0 13,"Because your dark bishop is at least 2 non dangerous moves away from lining up my king, i offer to swap pawns or let your pawn pass.  if you swap pawns, i attack your queen with my rook.  if you pass, then take the passed pawn with my bishop and develop it while freeing my a rook."
+26,exf3,e4f3,rnbk1b1N/p1p2Bpp/1p1pnp2/5q2/3P4/2N2p1P/PPP3P1/R1BQ1RK1 w - - 0 14,queen attack with rook
+27,Rxf3,f1f3,rnbk1b1N/p1p2Bpp/1p1pnp2/5q2/3P4/2N2R1P/PPP3P1/R1BQ2K1 b - - 0 14,queen attack with rook
+28,Qa5,f5a5,rnbk1b1N/p1p2Bpp/1p1pnp2/q7/3P4/2N2R1P/PPP3P1/R1BQ2K1 w - - 1 15,"lining up 2 attackers on your knight, its only defended by your bishop at the moment."
+29,Re3,f3e3,rnbk1b1N/p1p2Bpp/1p1pnp2/q7/3P4/2N1R2P/PPP3P1/R1BQ2K1 b - - 2 15,"lining up 2 attackers on your knight, its only defended by your bishop at the moment."
+30,Nc6,b8c6,r1bk1b1N/p1p2Bpp/1pnpnp2/q7/3P4/2N1R2P/PPP3P1/R1BQ2K1 w - - 3 16,"rather than sacrificing my bishop for a light bishop trade, i fork your knights."
+31,d5,d4d5,r1bk1b1N/p1p2Bpp/1pnpnp2/q2P4/8/2N1R2P/PPP3P1/R1BQ2K1 b - - 0 16,"rather than sacrificing my bishop for a light bishop trade, i fork your knights."
+32,Ne5,c6e5,r1bk1b1N/p1p2Bpp/1p1pnp2/q2Pn3/8/2N1R2P/PPP3P1/R1BQ2K1 w - - 1 17,a pawn past your pawns so near your king is dangerous... as you will see.
+33,dxe6,d5e6,r1bk1b1N/p1p2Bpp/1p1pPp2/q3n3/8/2N1R2P/PPP3P1/R1BQ2K1 b - - 0 17,a pawn past your pawns so near your king is dangerous... as you will see.
+34,Qc5,a5c5,r1bk1b1N/p1p2Bpp/1p1pPp2/2q1n3/8/2N1R2P/PPP3P1/R1BQ2K1 w - - 1 18,"i like this move, it pins the rook"
+35,Qd5,d1d5,r1bk1b1N/p1p2Bpp/1p1pPp2/2qQn3/8/2N1R2P/PPP3P1/R1B3K1 b - - 2 18,"offer to trade queens.  if you take the trade, as a fringe benefit, I develop my knight"

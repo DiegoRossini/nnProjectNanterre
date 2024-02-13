@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Necessary or Nb4 would be an annoyance.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Necessary or Nb4 would be an annoyance.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,Necessary or Nb4 would be an annoyance.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,Necessary or Nb4 would be an annoyance.
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,Necessary or Nb4 would be an annoyance.
+6,Bf5,c8f5,r2qkbnr/ppp1pppp/2n5/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4,Necessary or Nb4 would be an annoyance.
+7,c3,c2c3,r2qkbnr/ppp1pppp/2n5/3p1b2/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,Necessary or Nb4 would be an annoyance.
+8,Qd7,d8d7,r3kbnr/pppqpppp/2n5/3p1b2/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 1 5,"Not common. Normal is Nf6, e6 etc."
+9,Nbd2,b1d2,r3kbnr/pppqpppp/2n5/3p1b2/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 2 5,"Royal pieces aligned, and I have a dsb..."
+10,O-O-O,e8c8,2kr1bnr/pppqpppp/2n5/3p1b2/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQ - 3 6,"Royal pieces aligned, and I have a dsb..."
+11,h3,h2h3,2kr1bnr/pppqpppp/2n5/3p1b2/3P1B2/2P2N1P/PP1NPPP1/R2QKB1R b KQ - 0 6,"Let's go for the diagonal. I have a plan, based on..."
+12,f6,f7f6,2kr1bnr/pppqp1pp/2n2p2/3p1b2/3P1B2/2P2N1P/PP1NPPP1/R2QKB1R w KQ - 0 7,"...based on g4 is ""defended"" by the threat of Bh3, winning the Q. I can't play g5, though, or f5."
+13,g4,g2g4,2kr1bnr/pppqp1pp/2n2p2/3p1b2/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R b KQ - 0 7,"...based on g4 is ""defended"" by the threat of Bh3, winning the Q. I can't play g5, though, or f5."
+14,Bg6,f5g6,2kr1bnr/pppqp1pp/2n2pb1/3p4/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R w KQ - 1 8,"...based on g4 is ""defended"" by the threat of Bh3, winning the Q. I can't play g5, though, or f5."
+15,h4,h3h4,2kr1bnr/pppqp1pp/2n2pb1/3p4/3P1BPP/2P2N2/PP1NPP2/R2QKB1R b KQ - 0 8,"...based on g4 is ""defended"" by the threat of Bh3, winning the Q. I can't play g5, though, or f5."
+16,e5,e7e5,2kr1bnr/pppq2pp/2n2pb1/3pp3/3P1BPP/2P2N2/PP1NPP2/R2QKB1R w KQ - 0 9,? black is just not strong enough on e4.
+17,dxe5,d4e5,2kr1bnr/pppq2pp/2n2pb1/3pP3/5BPP/2P2N2/PP1NPP2/R2QKB1R b KQ - 0 9,Won the exchange on e5.
+18,fxe5,f6e5,2kr1bnr/pppq2pp/2n3b1/3pp3/5BPP/2P2N2/PP1NPP2/R2QKB1R w KQ - 0 10,Won the exchange on e5.
+19,Bxe5,f4e5,2kr1bnr/pppq2pp/2n3b1/3pB3/6PP/2P2N2/PP1NPP2/R2QKB1R b KQ - 0 10,Won the exchange on e5.
+20,Nxe5,c6e5,2kr1bnr/pppq2pp/6b1/3pn3/6PP/2P2N2/PP1NPP2/R2QKB1R w KQ - 0 11,Won the exchange on e5.
+21,Nxe5,f3e5,2kr1bnr/pppq2pp/6b1/3pN3/6PP/2P5/PP1NPP2/R2QKB1R b KQ - 0 11,Won the exchange on e5.
+22,Qe6,d7e6,2kr1bnr/ppp3pp/4q1b1/3pN3/6PP/2P5/PP1NPP2/R2QKB1R w KQ - 1 12,"g5 is not a threat while black can interpose the lsb, so..."
+23,Ndf3,d2f3,2kr1bnr/ppp3pp/4q1b1/3pN3/6PP/2P2N2/PP2PP2/R2QKB1R b KQ - 2 12,"g5 is not a threat while black can interpose the lsb, so..."
+24,Bd6,f8d6,2kr2nr/ppp3pp/3bq1b1/3pN3/6PP/2P2N2/PP2PP2/R2QKB1R w KQ - 3 13,"g5 is not a threat while black can interpose the lsb, so..."
+25,Nxg6,e5g6,2kr2nr/ppp3pp/3bq1N1/3p4/6PP/2P2N2/PP2PP2/R2QKB1R b KQ - 0 13,"...and g4 is still ""defended"" by Ba3."
+26,Qxg6,e6g6,2kr2nr/ppp3pp/3b2q1/3p4/6PP/2P2N2/PP2PP2/R2QKB1R w KQ - 0 14,"...and g4 is still ""defended"" by Ba3."
+27,Qxd5,d1d5,2kr2nr/ppp3pp/3b2q1/3Q4/6PP/2P2N2/PP2PP2/R3KB1R b KQ - 0 14,"...and g4 is still ""defended"" by Ba3."
+28,Nf6,g8f6,2kr3r/ppp3pp/3b1nq1/3Q4/6PP/2P2N2/PP2PP2/R3KB1R w KQ - 1 15,? Qa5 won a tempo by threatening a7.
+29,Qe6+,d5e6,2kr3r/ppp3pp/3bQnq1/8/6PP/2P2N2/PP2PP2/R3KB1R b KQ - 2 15,? Qa5 won a tempo by threatening a7.
+30,Kb8,c8b8,1k1r3r/ppp3pp/3bQnq1/8/6PP/2P2N2/PP2PP2/R3KB1R w KQ - 3 16,"The g4 pawn is not ""defended"" bt Bh3 now, so I have to defend it."
+31,g5,g4g5,1k1r3r/ppp3pp/3bQnq1/6P1/7P/2P2N2/PP2PP2/R3KB1R b KQ - 0 16,"The g4 pawn is not ""defended"" bt Bh3 now, so I have to defend it."
+32,Rhe8,h8e8,1k1rr3/ppp3pp/3bQnq1/6P1/7P/2P2N2/PP2PP2/R3KB1R w KQ - 1 17,"Maybe better was Qc4, to prevent Ng4, but Re4 would have done it anyway."
+33,Qb3,e6b3,1k1rr3/ppp3pp/3b1nq1/6P1/7P/1QP2N2/PP2PP2/R3KB1R b KQ - 2 17,"Maybe better was Qc4, to prevent Ng4, but Re4 would have done it anyway."
+34,Ng4,f6g4,1k1rr3/ppp3pp/3b2q1/6P1/6nP/1QP2N2/PP2PP2/R3KB1R w KQ - 3 18,"Even better, Bg7, threatening Ne5 (and mate in b7)."
+35,Bh3,f1h3,1k1rr3/ppp3pp/3b2q1/6P1/6nP/1QP2N1B/PP2PP2/R3K2R b KQ - 4 18,"Even better, Bg7, threatening Ne5 (and mate in b7)."
+36,Nxf2,g4f2,1k1rr3/ppp3pp/3b2q1/6P1/7P/1QP2N1B/PP2Pn2/R3K2R w KQ - 0 19,"? It looks tempting, but..."
+37,Kxf2,e1f2,1k1rr3/ppp3pp/3b2q1/6P1/7P/1QP2N1B/PP2PK2/R6R b - - 0 19,Made to prevent the Bdsb to reach f4 or c5.
+38,h5,h7h5,1k1rr3/ppp3p1/3b2q1/6Pp/7P/1QP2N1B/PP2PK2/R6R w - h6 0 20,Made to prevent the Bdsb to reach f4 or c5.
+39,Qc4,b3c4,1k1rr3/ppp3p1/3b2q1/6Pp/2Q4P/2P2N1B/PP2PK2/R6R b - - 1 20,Made to prevent the Bdsb to reach f4 or c5.
+40,b6,b7b6,1k1rr3/p1p3p1/1p1b2q1/6Pp/2Q4P/2P2N1B/PP2PK2/R6R w - - 0 21,"I'm +4, but I'm struggling with the defence."
+41,Rae1,a1e1,1k1rr3/p1p3p1/1p1b2q1/6Pp/2Q4P/2P2N1B/PP2PK2/4R2R b - - 1 21,"I'm +4, but I'm struggling with the defence."
+42,Bc5+,d6c5,1k1rr3/p1p3p1/1p4q1/2b3Pp/2Q4P/2P2N1B/PP2PK2/4R2R w - - 2 22,"I'm +4, but I'm struggling with the defence."
+43,e3,e2e3,1k1rr3/p1p3p1/1p4q1/2b3Pp/2Q4P/2P1PN1B/PP3K2/4R2R b - - 0 22,"Not on the black squares, of course."
+44,Qc2+,g6c2,1k1rr3/p1p3p1/1p6/2b3Pp/2Q4P/2P1PN1B/PPq2K2/4R2R w - - 1 23,"Not on the black squares, of course."
+45,Re2,e1e2,1k1rr3/p1p3p1/1p6/2b3Pp/2Q4P/2P1PN1B/PPq1RK2/7R b - - 2 23,"Not on the black squares, of course."
+46,Bxe3+,c5e3,1k1rr3/p1p3p1/1p6/6Pp/2Q4P/2P1bN1B/PPq1RK2/7R w - - 0 24,"Not on the black squares, of course."
+47,Kg2,f2g2,1k1rr3/p1p3p1/1p6/6Pp/2Q4P/2P1bN1B/PPq1R1K1/7R b - - 1 24,"Not on the black squares, of course."
+48,Qg6,c2g6,1k1rr3/p1p3p1/1p4q1/6Pp/2Q4P/2P1bN1B/PP2R1K1/7R w - - 2 25,Could have black tried something more? It doesn't seem so!
+49,Rhe1,h1e1,1k1rr3/p1p3p1/1p4q1/6Pp/2Q4P/2P1bN1B/PP2R1K1/4R3 b - - 3 25,"Good spot, but.."
+50,Re4,e8e4,1k1r4/p1p3p1/1p4q1/6Pp/2Q1r2P/2P1bN1B/PP2R1K1/4R3 w - - 4 26,"Good spot, but.."
+51,Qb5,c4b5,1k1r4/p1p3p1/1p4q1/1Q4Pp/4r2P/2P1bN1B/PP2R1K1/4R3 b - - 5 26,Played with resignation to exchange Q's.
+52,c6,c7c6,1k1r4/p5p1/1pp3q1/1Q4Pp/4r2P/2P1bN1B/PP2R1K1/4R3 w - - 0 27,Played with resignation to exchange Q's.
+53,Ne5,f3e5,1k1r4/p5p1/1pp3q1/1Q2N1Pp/4r2P/2P1b2B/PP2R1K1/4R3 b - - 1 27,Played with resignation to exchange Q's.

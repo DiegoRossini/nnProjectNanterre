@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's Gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's Gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,King's Gambit
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,accepted
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"Salvio gambit, they say"
+6,g5,g7g5,rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"Salvio gambit, they say"
+7,Bc4,f1c4,rnbqkbnr/pppp1p1p/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4,"Salvio gambit, they say"
+8,g4,g5g4,rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 5,"Salvio gambit, they say"
+9,Ne5,f3e5,rnbqkbnr/pppp1p1p/8/4N3/2B1Ppp1/8/PPPP2PP/RNBQK2R b KQkq - 1 5,"Salvio gambit, they say"
+10,Qh4+,d8h4,rnb1kbnr/pppp1p1p/8/4N3/2B1Pppq/8/PPPP2PP/RNBQK2R w KQkq - 2 6,"Salvio gambit, they say"
+11,Kf1,e1f1,rnb1kbnr/pppp1p1p/8/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R b kq - 3 6,"Salvio gambit, they say"
+12,Nh6,g8h6,rnb1kb1r/pppp1p1p/7n/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R w kq - 4 7,defending f7
+13,d4,d2d4,rnb1kb1r/pppp1p1p/7n/4N3/2BPPppq/8/PPP3PP/RNBQ1K1R b kq - 0 7,Knight on h6 it's in danger for a good cause
+14,f3,f4f3,rnb1kb1r/pppp1p1p/7n/4N3/2BPP1pq/5p2/PPP3PP/RNBQ1K1R w kq - 0 8,Knight on h6 it's in danger for a good cause
+15,gxf3,g2f3,rnb1kb1r/pppp1p1p/7n/4N3/2BPP1pq/5P2/PPP4P/RNBQ1K1R b kq - 0 8,preparing ambush
+16,Qh3+,h4h3,rnb1kb1r/pppp1p1p/7n/4N3/2BPP1p1/5P1q/PPP4P/RNBQ1K1R w kq - 1 9,preparing ambush
+17,Kg1,f1g1,rnb1kb1r/pppp1p1p/7n/4N3/2BPP1p1/5P1q/PPP4P/RNBQ2KR b kq - 2 9,preparing ambush
+18,Rg8,h8g8,rnb1kbr1/pppp1p1p/7n/4N3/2BPP1p1/5P1q/PPP4P/RNBQ2KR w q - 3 10,preparing ambush
+19,f4,f3f4,rnb1kbr1/pppp1p1p/7n/4N3/2BPPPp1/7q/PPP4P/RNBQ2KR b q - 0 10,avoiding gf+
+20,g3,g4g3,rnb1kbr1/pppp1p1p/7n/4N3/2BPPP2/6pq/PPP4P/RNBQ2KR w q - 0 11,"""g"" pawn is untouchable"
+21,Bf1,c4f1,rnb1kbr1/pppp1p1p/7n/4N3/3PPP2/6pq/PPP4P/RNBQ1BKR b q - 1 11,double check
+22,gxh2+,g3h2,rnb1kbr1/pppp1p1p/7n/4N3/3PPP2/7q/PPP4p/RNBQ1BKR w q - 0 12,double check
+23,Kf2,g1f2,rnb1kbr1/pppp1p1p/7n/4N3/3PPP2/7q/PPP2K1p/RNBQ1B1R b q - 1 12,"preparing Bg4 and adding pawn ""d"" in the battle"
+24,Qg3+,h3g3,rnb1kbr1/pppp1p1p/7n/4N3/3PPP2/6q1/PPP2K1p/RNBQ1B1R w q - 2 13,"preparing Bg4 and adding pawn ""d"" in the battle"
+25,Ke2,f2e2,rnb1kbr1/pppp1p1p/7n/4N3/3PPP2/6q1/PPP1K2p/RNBQ1B1R b q - 3 13,"preparing Bg4 and adding pawn ""d"" in the battle"
+26,d5,d7d5,rnb1kbr1/ppp2p1p/7n/3pN3/3PPP2/6q1/PPP1K2p/RNBQ1B1R w q - 0 14,"preparing Bg4 and adding pawn ""d"" in the battle"
+27,Be3,c1e3,rnb1kbr1/ppp2p1p/7n/3pN3/3PPP2/4B1q1/PPP1K2p/RN1Q1B1R b q - 1 14,Knight on e5 must go
+28,Ng4,h6g4,rnb1kbr1/ppp2p1p/8/3pN3/3PPPn1/4B1q1/PPP1K2p/RN1Q1B1R w q - 2 15,Knight on e5 must go
+29,Qd3,d1d3,rnb1kbr1/ppp2p1p/8/3pN3/3PPPn1/3QB1q1/PPP1K2p/RN3B1R b q - 3 15,unique
+30,Nxe5,g4e5,rnb1kbr1/ppp2p1p/8/3pn3/3PPP2/3QB1q1/PPP1K2p/RN3B1R w q - 0 16,unique
+31,dxe5,d4e5,rnb1kbr1/ppp2p1p/8/3pP3/4PP2/3QB1q1/PPP1K2p/RN3B1R b q - 0 16,unique
+32,Bg4+,c8g4,rn2kbr1/ppp2p1p/8/3pP3/4PPb1/3QB1q1/PPP1K2p/RN3B1R w q - 1 17,unique
+33,Kd2,e2d2,rn2kbr1/ppp2p1p/8/3pP3/4PPb1/3QB1q1/PPPK3p/RN3B1R b q - 2 17,unique
+34,Bf3,g4f3,rn2kbr1/ppp2p1p/8/3pP3/4PP2/3QBbq1/PPPK3p/RN3B1R w q - 3 18,very passive
+35,Qb5+,d3b5,rn2kbr1/ppp2p1p/8/1Q1pP3/4PP2/4Bbq1/PPPK3p/RN3B1R b q - 4 18,white counterattack
+36,Nc6,b8c6,r3kbr1/ppp2p1p/2n5/1Q1pP3/4PP2/4Bbq1/PPPK3p/RN3B1R w q - 5 19,Rook seems to be defended but prepares another trap
+37,Qxb7,b5b7,r3kbr1/pQp2p1p/2n5/3pP3/4PP2/4Bbq1/PPPK3p/RN3B1R b q - 0 19,Rook seems to be defended but prepares another trap
+38,Bb4+,f8b4,r3k1r1/pQp2p1p/2n5/3pP3/1b2PP2/4Bbq1/PPPK3p/RN3B1R w q - 1 20,Rook seems to be defended but prepares another trap
+39,c3,c2c3,r3k1r1/pQp2p1p/2n5/3pP3/1b2PP2/2P1Bbq1/PP1K3p/RN3B1R b q - 0 20,Rook seems to be defended but prepares another trap
+40,Rd8,a8d8,3rk1r1/pQp2p1p/2n5/3pP3/1b2PP2/2P1Bbq1/PP1K3p/RN3B1R w - - 1 21,Rook seems to be defended but prepares another trap
+41,Qxc6+,b7c6,3rk1r1/p1p2p1p/2Q5/3pP3/1b2PP2/2P1Bbq1/PP1K3p/RN3B1R b - - 0 21,Open another column that closes the circle the white king
+42,Kf8,e8f8,3r1kr1/p1p2p1p/2Q5/3pP3/1b2PP2/2P1Bbq1/PP1K3p/RN3B1R w - - 1 22,Open another column that closes the circle the white king
+43,cxb4,c3b4,3r1kr1/p1p2p1p/2Q5/3pP3/1P2PP2/4Bbq1/PP1K3p/RN3B1R b - - 0 22,Open another column that closes the circle the white king
+44,dxe4+,d5e4,3r1kr1/p1p2p1p/2Q5/4P3/1P2pP2/4Bbq1/PP1K3p/RN3B1R w - - 0 23,Open another column that closes the circle the white king
+45,Kc2,d2c2,3r1kr1/p1p2p1p/2Q5/4P3/1P2pP2/4Bbq1/PPK4p/RN3B1R b - - 1 23,immediately surrendered. Black threatens mate: QB6 #
+46,Bd1+,f3d1,3r1kr1/p1p2p1p/2Q5/4P3/1P2pP2/4B1q1/PPK4p/RN1b1B1R w - - 2 24,immediately surrendered. Black threatens mate: QB6 #
+47,Kc3,c2c3,3r1kr1/p1p2p1p/2Q5/4P3/1P2pP2/2K1B1q1/PP5p/RN1b1B1R b - - 3 24,immediately surrendered. Black threatens mate: QB6 #
+48,Qxe3+,g3e3,3r1kr1/p1p2p1p/2Q5/4P3/1P2pP2/2K1q3/PP5p/RN1b1B1R w - - 0 25,immediately surrendered. Black threatens mate: QB6 #
+49,Kc4,c3c4,3r1kr1/p1p2p1p/2Q5/4P3/1PK1pP2/4q3/PP5p/RN1b1B1R b - - 1 25,immediately surrendered. Black threatens mate: QB6 #
+50,Qd4+,e3d4,3r1kr1/p1p2p1p/2Q5/4P3/1PKqpP2/8/PP5p/RN1b1B1R w - - 2 26,immediately surrendered. Black threatens mate: QB6 #
+51,Kb5,c4b5,3r1kr1/p1p2p1p/2Q5/1K2P3/1P1qpP2/8/PP5p/RN1b1B1R b - - 3 26,immediately surrendered. Black threatens mate: QB6 #
+52,Rd5+,d8d5,5kr1/p1p2p1p/2Q5/1K1rP3/1P1qpP2/8/PP5p/RN1b1B1R w - - 4 27,immediately surrendered. Black threatens mate: QB6 #
+53,Ka6,b5a6,5kr1/p1p2p1p/K1Q5/3rP3/1P1qpP2/8/PP5p/RN1b1B1R b - - 5 27,immediately surrendered. Black threatens mate: QB6 #
+54,Rg6,g8g6,5k2/p1p2p1p/K1Q3r1/3rP3/1P1qpP2/8/PP5p/RN1b1B1R w - - 6 28,immediately surrendered. Black threatens mate: QB6 #
+55,Qxg6,c6g6,5k2/p1p2p1p/K5Q1/3rP3/1P1qpP2/8/PP5p/RN1b1B1R b - - 0 28,immediately surrendered. Black threatens mate: QB6 #
+56,hxg6,h7g6,5k2/p1p2p2/K5p1/3rP3/1P1qpP2/8/PP5p/RN1b1B1R w - - 0 29,immediately surrendered. Black threatens mate: QB6 #

@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Hello to all of us, this is an interesting gambit benko game i played in a d4 thematic tournament."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"c5 may start Benko defense
+if white abandon the center with dxc, an easy why to retrieve it is Qa5+ and Qxc5. 
+but of course it is not a good idea. 
+90% white player may push d4-d5"
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"c5 may start Benko defense
+if white abandon the center with dxc, an easy why to retrieve it is Qa5+ and Qxc5. 
+but of course it is not a good idea. 
+90% white player may push d4-d5"
+4,c5,c7c5,rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"c5 may start Benko defense
+if white abandon the center with dxc, an easy why to retrieve it is Qa5+ and Qxc5. 
+but of course it is not a good idea. 
+90% white player may push d4-d5"
+5,d5,d4d5,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,black can now play 3.. b5 (benko) or (e6 benoni)
+6,b5,b7b5,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,the Benko line
+7,cxb5,c4b5,rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 4,note that Qa4+ retrieves the lost pawn
+8,a6,a7a6,rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5,"fool black giving a second pawn...
+note that benko gambit is one of most popular defense, and one of Polgar sisters preferred one."
+9,bxa6,b5a6,rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 5,"the aim of benko black defense is to make pressure on a2 and b2 pawns
+this activity is helped with a and b opened columns"
+10,Bxa6,c8a6,rn1qkb1r/3ppppp/b4n2/2pP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 6,"main line.
+gaining time to develop at queen side and now if white plays e4, of course Bxf1 Kxf1 and white king will have to build ""manually"" his castle with g3 Kg2"
+11,Nc3,b1c3,rn1qkb1r/3ppppp/b4n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 6,consolidating the center and preparing e4
+12,d6,d7d6,rn1qkb1r/4pppp/b2p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 7,the white reaction against benko gambit must be to take position at center.
+13,e4,e2e4,rn1qkb1r/4pppp/b2p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 7,the white reaction against benko gambit must be to take position at center.
+14,Bxf1,a6f1,rn1qkb1r/4pppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQKbNR w KQkq - 0 8,"the king's bishop fianchetto will add a force on b2. like the sicilian dragon, this bishop is very strong.
+note that the black pawn structure is stronger than the sicilian dragon, with the c5 extended ""dragon tail""."
+15,Kxf1,e1f1,rn1qkb1r/4pppp/3p1n2/2pP4/4P3/2N5/PP3PPP/R1BQ1KNR b kq - 0 8,"the king's bishop fianchetto will add a force on b2. like the sicilian dragon, this bishop is very strong.
+note that the black pawn structure is stronger than the sicilian dragon, with the c5 extended ""dragon tail""."
+16,g6,g7g6,rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N5/PP3PPP/R1BQ1KNR w kq - 0 9,"the king's bishop fianchetto will add a force on b2. like the sicilian dragon, this bishop is very strong.
+note that the black pawn structure is stronger than the sicilian dragon, with the c5 extended ""dragon tail""."
+17,g3,g2g3,rn1qkb1r/4pp1p/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR b kq - 0 9,"why do white lost time to castle their king in g2, and played f4 ? 
+the usually answer is Nf3"
+18,Bg7,f8g7,rn1qk2r/4ppbp/3p1np1/2pP4/4P3/2N3P1/PP3P1P/R1BQ1KNR w kq - 1 10,"why do white lost time to castle their king in g2, and played f4 ? 
+the usually answer is Nf3"
+19,Kg2,f1g2,rn1qk2r/4ppbp/3p1np1/2pP4/4P3/2N3P1/PP3PKP/R1BQ2NR b kq - 2 10,"why do white lost time to castle their king in g2, and played f4 ? 
+the usually answer is Nf3"
+20,O-O,e8g8,rn1q1rk1/4ppbp/3p1np1/2pP4/4P3/2N3P1/PP3PKP/R1BQ2NR w - - 3 11,"why do white lost time to castle their king in g2, and played f4 ? 
+the usually answer is Nf3"
+21,f4,f2f4,rn1q1rk1/4ppbp/3p1np1/2pP4/4PP2/2N3P1/PP4KP/R1BQ2NR b - - 0 11,"why do white lost time to castle their king in g2, and played f4 ? 
+the usually answer is Nf3"
+22,Nbd7,b8d7,r2q1rk1/3nppbp/3p1np1/2pP4/4PP2/2N3P1/PP4KP/R1BQ2NR w - - 1 12,keeping the control on e5. white cannot push e4-e5 yet
+23,Nf3,g1f3,r2q1rk1/3nppbp/3p1np1/2pP4/4PP2/2N2NP1/PP4KP/R1BQ3R b - - 2 12,another force on e5 !
+24,Qb8,d8b8,rq3rk1/3nppbp/3p1np1/2pP4/4PP2/2N2NP1/PP4KP/R1BQ3R w - - 3 13,"defending e5 again and ... makes pressure on b2.
+white bishop cannot move yet"
+25,Re1,h1e1,rq3rk1/3nppbp/3p1np1/2pP4/4PP2/2N2NP1/PP4KP/R1BQR3 b - - 4 13,"putting another force on e5.
+but white did not solve their c1 bishop problem
+generally, it is better to solve problems first, before attacking"
+26,Ne8,f6e8,rq2nrk1/3nppbp/3p2p1/2pP4/4PP2/2N2NP1/PP4KP/R1BQR3 w - - 5 14,"black put another force on e5, and retreat the knight without loosing time."
+27,Qc2,d1c2,rq2nrk1/3nppbp/3p2p1/2pP4/4PP2/2N2NP1/PPQ3KP/R1B1R3 b - - 6 14,"white is over-protecting b2, perhaps to make their bishop going to d2 or e3 ?"
+28,Nc7,e8c7,rq3rk1/2nnppbp/3p2p1/2pP4/4PP2/2N2NP1/PPQ3KP/R1B1R3 w - - 7 15,"transfer black forces at queen side, but making one less on e5"
+29,e5,e4e5,rq3rk1/2nnppbp/3p2p1/2pPP3/5P2/2N2NP1/PPQ3KP/R1B1R3 b - - 0 15,white attacks immediatly; a good reaction

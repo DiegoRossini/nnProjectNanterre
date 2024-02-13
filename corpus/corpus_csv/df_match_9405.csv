@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,I'm back after a chess break.  Here is a game I played on the ICC at a 1 minute time control.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"The main line Reti, however, this can transpose into the Catalan or after 3. d4 any number of 1. d4 lines."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,"Khalifman and Kramnik both recommend 2. d4 here, as 2...d4 (a reverse Benoni) can be a little uncomfortable if you are not used to it, however, the extra tempo only benefits white."
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2p5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Black chooses to abandon the center and maybe try to hold the pawn.
+5,e4,e2e4,rnbqkbnr/ppp1pppp/8/8/2p1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,"A little played continuation, which Nigel Davies advocates in his book on the Reti and a continuation that I employ frequently for its shock value.
+
+3. e3 would lead to lines similar to the QGA."
+6,c6,c7c6,rnbqkbnr/pp2pppp/2p5/8/2p1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4,"Trying to hold the pawn with 3...b5 is to weakening after 4. a4 c6; 5. ab cb; 6. b3!
+
+3...Nf6; 4. Bxc4 Nxe4? and white can recover the pawn with a cute little tactic.  Can you figure it out?
+
+The correct move is 3...c5, taking advantage of the dark-squared weakness."
+7,Bxc4,f1c4,rnbqkbnr/pp2pppp/2p5/8/2B1P3/5N2/PP1P1PPP/RNBQK2R b KQkq - 0 4,White's position is being readied for a direct assault on the black king.
+8,e6,e7e6,rnbqkbnr/pp3ppp/2p1p3/8/2B1P3/5N2/PP1P1PPP/RNBQK2R w KQkq - 0 5,Black falls further behind in development.  4...Nf6 was probably better.
+9,O-O,e1g1,rnbqkbnr/pp3ppp/2p1p3/8/2B1P3/5N2/PP1P1PPP/RNBQ1RK1 b kq - 1 5,
+10,Bd6,f8d6,rnbqk1nr/pp3ppp/2pbp3/8/2B1P3/5N2/PP1P1PPP/RNBQ1RK1 w kq - 2 6,
+11,d4,d2d4,rnbqk1nr/pp3ppp/2pbp3/8/2BPP3/5N2/PP3PPP/RNBQ1RK1 b kq - 0 6,best.
+12,Ne7,g8e7,rnbqk2r/pp2nppp/2pbp3/8/2BPP3/5N2/PP3PPP/RNBQ1RK1 w kq - 1 7,Black's development is a little cramped.
+13,Nc3,b1c3,rnbqk2r/pp2nppp/2pbp3/8/2BPP3/2N2N2/PP3PPP/R1BQ1RK1 b kq - 2 7,
+14,O-O,e8g8,rnbq1rk1/pp2nppp/2pbp3/8/2BPP3/2N2N2/PP3PPP/R1BQ1RK1 w - - 3 8,"Not a bad move, but in this quick time control, the attack will be very quick."
+15,Bd3,c4d3,rnbq1rk1/pp2nppp/2pbp3/8/3PP3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 4 8,Setting up the trap!!
+16,Na6,b8a6,r1bq1rk1/pp2nppp/n1pbp3/8/3PP3/2NB1N2/PP3PPP/R1BQ1RK1 w - - 5 9,??  Allowing the Greek Gift sacrifice on h7.
+17,e5,e4e5,r1bq1rk1/pp2nppp/n1pbp3/4P3/3P4/2NB1N2/PP3PPP/R1BQ1RK1 b - - 0 9,Clearing the line to h7 with tempo.
+18,Bb8,d6b8,rbbq1rk1/pp2nppp/n1p1p3/4P3/3P4/2NB1N2/PP3PPP/R1BQ1RK1 w - - 1 10,The attack begins.
+19,Bxh7+,d3h7,rbbq1rk1/pp2nppB/n1p1p3/4P3/3P4/2N2N2/PP3PPP/R1BQ1RK1 b - - 0 10,The attack begins.
+20,Kxh7,g8h7,rbbq1r2/pp2nppk/n1p1p3/4P3/3P4/2N2N2/PP3PPP/R1BQ1RK1 w - - 0 11,After 10...Kh8; 11. Ng5 g6; 12. Qf3 Nf5; 13. Bxg6! decides the game in White's favor.
+21,Ng5+,f3g5,rbbq1r2/pp2nppk/n1p1p3/4P1N1/3P4/2N5/PP3PPP/R1BQ1RK1 b - - 1 11,Check!

@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,modern defnse dev
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,modern defnse dev
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,blocking develpment of his b1 knight
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,blocking develpment of his b1 knight
+5,c3,c2c3,rnbqk1nr/ppppppbp/6p1/8/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,blocking develpment of his b1 knight
+6,c5,c7c5,rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,moderne defense ready ! now every think start from here...
+7,d5,d4d5,rnbqk1nr/pp1pppbp/6p1/2pP4/4P3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4,"i like this, i will try to dev ...d3...e5, some times it turns into a kind of dutch"
+8,d6,d7d6,rnbqk1nr/pp2ppbp/3p2p1/2pP4/4P3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 5,fisrt....
+9,Bd3,f1d3,rnbqk1nr/pp2ppbp/3p2p1/2pP4/4P3/2PB4/PP3PPP/RNBQK1NR b KQkq - 1 5,"second ! i hve the position a wanted. if black take e5, i tae back whith c8 bishop so i develop and break the white central pawn structure"
+10,e5,e7e5,rnbqk1nr/pp3pbp/3p2p1/2pPp3/4P3/2PB4/PP3PPP/RNBQK1NR w KQkq e6 0 6,"second ! i hve the position a wanted. if black take e5, i tae back whith c8 bishop so i develop and break the white central pawn structure"
+11,Ne2,g1e2,rnbqk1nr/pp3pbp/3p2p1/2pPp3/4P3/2PB4/PP2NPPP/RNBQK2R b KQkq - 1 6,preparing f4 attack
+12,Ne7,g8e7,rnbqk2r/pp2npbp/3p2p1/2pPp3/4P3/2PB4/PP2NPPP/RNBQK2R w KQkq - 2 7,so am i !
+13,O-O,e1g1,rnbqk2r/pp2npbp/3p2p1/2pPp3/4P3/2PB4/PP2NPPP/RNBQ1RK1 b kq - 3 7,here we go !
+14,O-O,e8g8,rnbq1rk1/pp2npbp/3p2p1/2pPp3/4P3/2PB4/PP2NPPP/RNBQ1RK1 w - - 4 8,here we go !
+15,f4,f2f4,rnbq1rk1/pp2npbp/3p2p1/2pPp3/4PP2/2PB4/PP2N1PP/RNBQ1RK1 b - - 0 8,here we go !
+16,Bg4,c8g4,rn1q1rk1/pp2npbp/3p2p1/2pPp3/4PPb1/2PB4/PP2N1PP/RNBQ1RK1 w - - 1 9,first a prepare a bishop sacrifice (h3 Bxh3) risky but funy !
+17,Qd2,d1d2,rn1q1rk1/pp2npbp/3p2p1/2pPp3/4PPb1/2PB4/PP1QN1PP/RNB2RK1 b - - 2 9,"a free tempo for me, i will be abble to achieve preparing the bishop sacrifice whith qh8"
+18,Qc8,d8c8,rnq2rk1/pp2npbp/3p2p1/2pPp3/4PPb1/2PB4/PP1QN1PP/RNB2RK1 w - - 3 10,"h3 is not coming, so i will pressure him some more whith f5"
+19,Ng3,e2g3,rnq2rk1/pp2npbp/3p2p1/2pPp3/4PPb1/2PB2N1/PP1Q2PP/RNB2RK1 b - - 4 10,"h3 is not coming, so i will pressure him some more whith f5"
+20,f5,f7f5,rnq2rk1/pp2n1bp/3p2p1/2pPpp2/4PPb1/2PB2N1/PP1Q2PP/RNB2RK1 w - - 0 11,"of course you will say that if now h3, i wont be abble to take back whith the queen, but firstable i will take f5xe4 so he will have the choice to take my bihop and lose his one or give me one more tempo to be abble to Qxh3"
+21,h3,h2h3,rnq2rk1/pp2n1bp/3p2p1/2pPpp2/4PPb1/2PB2NP/PP1Q2P1/RNB2RK1 b - - 0 11,now i can take h3
+22,fxe4,f5e4,rnq2rk1/pp2n1bp/3p2p1/2pPp3/4pPb1/2PB2NP/PP1Q2P1/RNB2RK1 w - - 0 12,now i can take h3
+23,Bxe4,d3e4,rnq2rk1/pp2n1bp/3p2p1/2pPp3/4BPb1/2P3NP/PP1Q2P1/RNB2RK1 b - - 0 12,now i can take h3
+24,Bxh3,g4h3,rnq2rk1/pp2n1bp/3p2p1/2pPp3/4BP2/2P3Nb/PP1Q2P1/RNB2RK1 w - - 0 13,"here is the poisoned queen ! and i have some good thinks to play : Nf5, f colon whit rook, g7 bishop, e5xf4... there are a lot of things, there must be some good combination !"
+25,gxh3,g2h3,rnq2rk1/pp2n1bp/3p2p1/2pPp3/4BP2/2P3NP/PP1Q4/RNB2RK1 b - - 0 13,"here is the poisoned queen ! and i have some good thinks to play : Nf5, f colon whit rook, g7 bishop, e5xf4... there are a lot of things, there must be some good combination !"
+26,Qxh3,c8h3,rn3rk1/pp2n1bp/3p2p1/2pPp3/4BP2/2P3Nq/PP1Q4/RNB2RK1 w - - 0 14,"here is the poisoned queen ! and i have some good thinks to play : Nf5, f colon whit rook, g7 bishop, e5xf4... there are a lot of things, there must be some good combination !"
+27,Kf2,g1f2,rn3rk1/pp2n1bp/3p2p1/2pPp3/4BP2/2P3Nq/PP1Q1K2/RNB2R2 b - - 1 14,trying to escape to safe side
+28,exf4,e5f4,rn3rk1/pp2n1bp/3p2p1/2pP4/4Bp2/2P3Nq/PP1Q1K2/RNB2R2 w - - 0 15,opening the f colon treat
+29,Ne2,g3e2,rn3rk1/pp2n1bp/3p2p1/2pP4/4Bp2/2P4q/PP1QNK2/RNB2R2 b - - 1 15,preparng f4-f5 if Be4 go to g2
+30,Qh2+,h3h2,rn3rk1/pp2n1bp/3p2p1/2pP4/4Bp2/2P5/PP1QNK1q/RNB2R2 w - - 2 16,preparng f4-f5 if Be4 go to g2
+31,Ke1,f2e1,rn3rk1/pp2n1bp/3p2p1/2pP4/4Bp2/2P5/PP1QN2q/RNB1KR2 b - - 3 16,just trying to use the rookand searching a way to mate
+32,f3,f4f3,rn3rk1/pp2n1bp/3p2p1/2pP4/4B3/2P2p2/PP1QN2q/RNB1KR2 w - - 0 17,just trying to use the rookand searching a way to mate
+33,Bxf3,e4f3,rn3rk1/pp2n1bp/3p2p1/2pP4/8/2P2B2/PP1QN2q/RNB1KR2 b - - 0 17,i'm missing some help lets bring the other knight !

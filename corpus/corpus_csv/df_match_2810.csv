@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,stone wall set up
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,stone wall set up
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,stone wall set up
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,stone wall set up
+5,Bd3,f1d3,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq - 1 3,stone wall set up
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR w KQkq - 2 4,stone wall set up
+7,f4,f2f4,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1P2/3BP3/PPP3PP/RNBQK1NR b KQkq - 0 4,stone wall set up
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1P2/3BP3/PPP3PP/RNBQK1NR w KQkq - 0 5,stone wall set up
+9,c3,c2c3,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1P2/2PBP3/PP4PP/RNBQK1NR b KQkq - 0 5,stone wall set up
+10,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1P2/2PBP3/PP4PP/RNBQK1NR w KQkq - 1 6,stone wall ok
+11,Nf3,g1f3,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1P2/2PBPN2/PP4PP/RNBQK2R b KQkq - 2 6,stone wall ok
+12,Bd6,f8d6,r1bqk2r/pp3ppp/2nbpn2/2pp4/3P1P2/2PBPN2/PP4PP/RNBQK2R w KQkq - 3 7,stone wall ok
+13,O-O,e1g1,r1bqk2r/pp3ppp/2nbpn2/2pp4/3P1P2/2PBPN2/PP4PP/RNBQ1RK1 b kq - 4 7,stone wall ok
+14,O-O,e8g8,r1bq1rk1/pp3ppp/2nbpn2/2pp4/3P1P2/2PBPN2/PP4PP/RNBQ1RK1 w - - 5 8,attacking soon enought prepared
+15,Ne5,f3e5,r1bq1rk1/pp3ppp/2nbpn2/2ppN3/3P1P2/2PBP3/PP4PP/RNBQ1RK1 b - - 6 8,attacking soon enought prepared
+16,Nd7,f6d7,r1bq1rk1/pp1n1ppp/2nbp3/2ppN3/3P1P2/2PBP3/PP4PP/RNBQ1RK1 w - - 7 9,"preparing f6 or F7, i have something to this ..."
+17,Qh5,d1h5,r1bq1rk1/pp1n1ppp/2nbp3/2ppN2Q/3P1P2/2PBP3/PP4PP/RNB2RK1 b - - 8 9,qh5 !
+18,g6,g7g6,r1bq1rk1/pp1n1p1p/2nbp1p1/2ppN2Q/3P1P2/2PBP3/PP4PP/RNB2RK1 w - - 0 10,so this cancel the f7 answer to my stone wall
+19,Qh3,h5h3,r1bq1rk1/pp1n1p1p/2nbp1p1/2ppN3/3P1P2/2PBP2Q/PP4PP/RNB2RK1 b - - 1 10,nice position isnt it ?
+20,cxd4,c5d4,r1bq1rk1/pp1n1p1p/2nbp1p1/3pN3/3p1P2/2PBP2Q/PP4PP/RNB2RK1 w - - 0 11,nice position isnt it ?
+21,exd4,e3d4,r1bq1rk1/pp1n1p1p/2nbp1p1/3pN3/3P1P2/2PB3Q/PP4PP/RNB2RK1 b - - 0 11,nice position isnt it ?
+22,Qe7,d8e7,r1b2rk1/pp1nqp1p/2nbp1p1/3pN3/3P1P2/2PB3Q/PP4PP/RNB2RK1 w - - 1 12,nice position isnt it ?
+23,Nd2,b1d2,r1b2rk1/pp1nqp1p/2nbp1p1/3pN3/3P1P2/2PB3Q/PP1N2PP/R1B2RK1 b - - 2 12,nice position isnt it ?
+24,f6,f7f6,r1b2rk1/pp1nq2p/2nbppp1/3pN3/3P1P2/2PB3Q/PP1N2PP/R1B2RK1 w - - 0 13,nice position isnt it ?
+25,Nxg6,e5g6,r1b2rk1/pp1nq2p/2nbppN1/3p4/3P1P2/2PB3Q/PP1N2PP/R1B2RK1 b - - 0 13,nice position isnt it ?
+26,hxg6,h7g6,r1b2rk1/pp1nq3/2nbppp1/3p4/3P1P2/2PB3Q/PP1N2PP/R1B2RK1 w - - 0 14,nice position isnt it ?
+27,Bxg6,d3g6,r1b2rk1/pp1nq3/2nbppB1/3p4/3P1P2/2P4Q/PP1N2PP/R1B2RK1 b - - 0 14,nice position isnt it ?
+28,f5,f6f5,r1b2rk1/pp1nq3/2nbp1B1/3p1p2/3P1P2/2P4Q/PP1N2PP/R1B2RK1 w - - 0 15,this is the winig move
+29,Nf3,d2f3,r1b2rk1/pp1nq3/2nbp1B1/3p1p2/3P1P2/2P2N1Q/PP4PP/R1B2RK1 b - - 1 15,this is the winig move
+30,Qg7,e7g7,r1b2rk1/pp1n2q1/2nbp1B1/3p1p2/3P1P2/2P2N1Q/PP4PP/R1B2RK1 w - - 2 16,this is the winig move
+31,Ne5,f3e5,r1b2rk1/pp1n2q1/2nbp1B1/3pNp2/3P1P2/2P4Q/PP4PP/R1B2RK1 b - - 3 16,this is the winig move
+32,Rf6,f8f6,r1b3k1/pp1n2q1/2nbprB1/3pNp2/3P1P2/2P4Q/PP4PP/R1B2RK1 w - - 4 17,this is the winig move
+33,Rf3,f1f3,r1b3k1/pp1n2q1/2nbprB1/3pNp2/3P1P2/2P2R1Q/PP4PP/R1B3K1 b - - 5 17,this is the winig move
+34,Bxe5,d6e5,r1b3k1/pp1n2q1/2n1prB1/3pbp2/3P1P2/2P2R1Q/PP4PP/R1B3K1 w - - 0 18,this is the winig move
+35,fxe5,f4e5,r1b3k1/pp1n2q1/2n1prB1/3pPp2/3P4/2P2R1Q/PP4PP/R1B3K1 b - - 0 18,this is the winig move
+36,Rxg6,f6g6,r1b3k1/pp1n2q1/2n1p1r1/3pPp2/3P4/2P2R1Q/PP4PP/R1B3K1 w - - 0 19,this is the winig move
+37,Rg3,f3g3,r1b3k1/pp1n2q1/2n1p1r1/3pPp2/3P4/2P3RQ/PP4PP/R1B3K1 b - - 1 19,this is the winig move
+38,Rxg3,g6g3,r1b3k1/pp1n2q1/2n1p3/3pPp2/3P4/2P3rQ/PP4PP/R1B3K1 w - - 0 20,this is the winig move
+39,hxg3,h2g3,r1b3k1/pp1n2q1/2n1p3/3pPp2/3P4/2P3PQ/PP4P1/R1B3K1 b - - 0 20,this is the winig move
+40,Nf8,d7f8,r1b2nk1/pp4q1/2n1p3/3pPp2/3P4/2P3PQ/PP4P1/R1B3K1 w - - 1 21,this is the winig move
+41,Bh6,c1h6,r1b2nk1/pp4q1/2n1p2B/3pPp2/3P4/2P3PQ/PP4P1/R5K1 b - - 2 21,this is the winig move
+42,Qg4,g7g4,r1b2nk1/pp6/2n1p2B/3pPp2/3P2q1/2P3PQ/PP4P1/R5K1 w - - 3 22,this is the winig move
+43,Bxf8,h6f8,r1b2Bk1/pp6/2n1p3/3pPp2/3P2q1/2P3PQ/PP4P1/R5K1 b - - 0 22,this is the winig move
+44,Kxf8,g8f8,r1b2k2/pp6/2n1p3/3pPp2/3P2q1/2P3PQ/PP4P1/R5K1 w - - 0 23,this is the winig move
+45,Qh8+,h3h8,r1b2k1Q/pp6/2n1p3/3pPp2/3P2q1/2P3P1/PP4P1/R5K1 b - - 1 23,this is the winig move
+46,Kf7,f8f7,r1b4Q/pp3k2/2n1p3/3pPp2/3P2q1/2P3P1/PP4P1/R5K1 w - - 2 24,this is the winig move
+47,Qf6+,h8f6,r1b5/pp3k2/2n1pQ2/3pPp2/3P2q1/2P3P1/PP4P1/R5K1 b - - 3 24,this is the winig move
+48,Ke8,f7e8,r1b1k3/pp6/2n1pQ2/3pPp2/3P2q1/2P3P1/PP4P1/R5K1 w - - 4 25,this is the winig move
+49,Rf1,a1f1,r1b1k3/pp6/2n1pQ2/3pPp2/3P2q1/2P3P1/PP4P1/5RK1 b - - 5 25,this is the winig move
+50,Qg8,g4g8,r1b1k1q1/pp6/2n1pQ2/3pPp2/3P4/2P3P1/PP4P1/5RK1 w - - 6 26,this is the winig move
+51,Rf4,f1f4,r1b1k1q1/pp6/2n1pQ2/3pPp2/3P1R2/2P3P1/PP4P1/6K1 b - - 7 26,this is the winig move
+52,Nd8,c6d8,r1bnk1q1/pp6/4pQ2/3pPp2/3P1R2/2P3P1/PP4P1/6K1 w - - 8 27,this is the winig move
+53,Rh4,f4h4,r1bnk1q1/pp6/4pQ2/3pPp2/3P3R/2P3P1/PP4P1/6K1 b - - 9 27,this is the winig move
+54,Nf7,d8f7,r1b1k1q1/pp3n2/4pQ2/3pPp2/3P3R/2P3P1/PP4P1/6K1 w - - 10 28,this is the winig move
+55,Kf2,g1f2,r1b1k1q1/pp3n2/4pQ2/3pPp2/3P3R/2P3P1/PP3KP1/8 b - - 11 28,this is the winig move
+56,Bd7,c8d7,r3k1q1/pp1b1n2/4pQ2/3pPp2/3P3R/2P3P1/PP3KP1/8 w - - 12 29,this is the winig move
+57,Kf3,f2f3,r3k1q1/pp1b1n2/4pQ2/3pPp2/3P3R/2P2KP1/PP4P1/8 b - - 13 29,this is the winig move
+58,Rd8,a8d8,3rk1q1/pp1b1n2/4pQ2/3pPp2/3P3R/2P2KP1/PP4P1/8 w - - 14 30,this is the winig move
+59,g4,g3g4,3rk1q1/pp1b1n2/4pQ2/3pPp2/3P2PR/2P2K2/PP4P1/8 b - - 0 30,this is the winig move
+60,Ng5+,f7g5,3rk1q1/pp1b4/4pQ2/3pPpn1/3P2PR/2P2K2/PP4P1/8 w - - 1 31,this is the winig move
+61,Kf4,f3f4,3rk1q1/pp1b4/4pQ2/3pPpn1/3P1KPR/2P5/PP4P1/8 b - - 2 31,this is the winig move
+62,Nf7,g5f7,3rk1q1/pp1b1n2/4pQ2/3pPp2/3P1KPR/2P5/PP4P1/8 w - - 3 32,this is the winig move
+63,gxf5,g4f5,3rk1q1/pp1b1n2/4pQ2/3pPP2/3P1K1R/2P5/PP4P1/8 b - - 0 32,this is the winig move
+64,Qxg2,g8g2,3rk3/pp1b1n2/4pQ2/3pPP2/3P1K1R/2P5/PP4q1/8 w - - 0 33,this is the winig move
+65,fxe6,f5e6,3rk3/pp1b1n2/4PQ2/3pP3/3P1K1R/2P5/PP4q1/8 b - - 0 33,this is the winig move
+66,Qf2+,g2f2,3rk3/pp1b1n2/4PQ2/3pP3/3P1K1R/2P5/PP3q2/8 w - - 1 34,this is the winig move
+67,Kg4,f4g4,3rk3/pp1b1n2/4PQ2/3pP3/3P2KR/2P5/PP3q2/8 b - - 2 34,this is the winig move
+68,Qxf6,f2f6,3rk3/pp1b1n2/4Pq2/3pP3/3P2KR/2P5/PP6/8 w - - 0 35,this is the winig move
+69,exd7+,e6d7,3rk3/pp1P1n2/5q2/3pP3/3P2KR/2P5/PP6/8 b - - 0 35,this is the winig move
+70,Rxd7,d8d7,4k3/pp1r1n2/5q2/3pP3/3P2KR/2P5/PP6/8 w - - 0 36,and this is the black blunder
+71,exf6,e5f6,4k3/pp1r1n2/5P2/3p4/3P2KR/2P5/PP6/8 b - - 0 36,and this is the black blunder
+72,Ne5+,f7e5,4k3/pp1r4/5P2/3pn3/3P2KR/2P5/PP6/8 w - - 1 37,and this is the black blunder
+73,dxe5,d4e5,4k3/pp1r4/5P2/3pP3/6KR/2P5/PP6/8 b - - 0 37,

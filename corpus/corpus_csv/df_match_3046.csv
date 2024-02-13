@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal moves
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,normal moves
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,gambit of king
+4,f5,f7f5,rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,gambit of king
+5,exf5,e4f5,rnbqkbnr/pppp2pp/8/4pP2/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,accept gambit
+6,d5,d7d5,rnbqkbnr/ppp3pp/8/3ppP2/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,stran moves normalment d6
+7,Nxe5,f3e5,rnbqkbnr/ppp3pp/8/3pNP2/8/8/PPPP1PPP/RNBQKB1R b KQkq - 0 4,(it's error for black
+8,Bxf5,c8f5,rn1qkbnr/ppp3pp/8/3pNb2/8/8/PPPP1PPP/RNBQKB1R w KQkq - 0 5,take pawn
+9,Qh5+,d1h5,rn1qkbnr/ppp3pp/8/3pNb1Q/8/8/PPPP1PPP/RNB1KB1R b KQkq - 1 5,!!!
+10,g6,g7g6,rn1qkbnr/ppp4p/6p1/3pNb1Q/8/8/PPPP1PPP/RNB1KB1R w KQkq - 0 6,!!!!!
+11,Nxg6,e5g6,rn1qkbnr/ppp4p/6N1/3p1b1Q/8/8/PPPP1PPP/RNB1KB1R b KQkq - 0 6,!!!!!
+12,Bxg6,f5g6,rn1qkbnr/ppp4p/6b1/3p3Q/8/8/PPPP1PPP/RNB1KB1R w KQkq - 0 7,error for black
+13,Qe5+,h5e5,rn1qkbnr/ppp4p/6b1/3pQ3/8/8/PPPP1PPP/RNB1KB1R b KQkq - 1 7,it's a big moves
+14,Ne7,g8e7,rn1qkb1r/ppp1n2p/6b1/3pQ3/8/8/PPPP1PPP/RNB1KB1R w KQkq - 2 8,take rook
+15,Qxh8,e5h8,rn1qkb1Q/ppp1n2p/6b1/3p4/8/8/PPPP1PPP/RNB1KB1R b KQq - 0 8,take rook
+16,Kf7,e8f7,rn1q1b1Q/ppp1nk1p/6b1/3p4/8/8/PPPP1PPP/RNB1KB1R w KQ - 1 9,it's a stran moves
+17,Ke2,e1e2,rn1q1b1Q/ppp1nk1p/6b1/3p4/8/8/PPPPKPPP/RNB2B1R b - - 2 9,bis
+18,Qd6,d8d6,rn3b1Q/ppp1nk1p/3q2b1/3p4/8/8/PPPPKPPP/RNB2B1R w - - 3 10,tris
+19,Ke3,e2e3,rn3b1Q/ppp1nk1p/3q2b1/3p4/8/4K3/PPPP1PPP/RNB2B1R b - - 4 10,tris
+20,Qe6+,d6e6,rn3b1Q/ppp1nk1p/4q1b1/3p4/8/4K3/PPPP1PPP/RNB2B1R w - - 5 11,it's a beauty and vincent moves
+21,Kd4,e3d4,rn3b1Q/ppp1nk1p/4q1b1/3p4/3K4/8/PPPP1PPP/RNB2B1R b - - 6 11,black won ( white resigned
+22,Bg7+,f8g7,rn5Q/ppp1nkbp/4q1b1/3p4/3K4/8/PPPP1PPP/RNB2B1R w - - 7 12,black won ( white resigned

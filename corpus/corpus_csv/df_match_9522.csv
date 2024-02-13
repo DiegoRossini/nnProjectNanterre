@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,standard white opening nothing Fancy here (i'm black by the way)
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,standard response by me
+3,f3,f2f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5P2/PPPP2PP/RNBQKBNR b KQkq - 0 2,the start of the king side castle
+4,Be7,f8e7,rnbqk1nr/ppppbppp/8/4p3/4P3/5P2/PPPP2PP/RNBQKBNR w KQkq - 1 3,the start of the king side castle
+5,g3,g2g3,rnbqk1nr/ppppbppp/8/4p3/4P3/5PP1/PPPP3P/RNBQKBNR b KQkq - 0 3,i keep moving toward castle
+6,Nf6,g8f6,rnbqk2r/ppppbppp/5n2/4p3/4P3/5PP1/PPPP3P/RNBQKBNR w KQkq - 1 4,i keep moving toward castle
+7,d3,d2d3,rnbqk2r/ppppbppp/5n2/4p3/4P3/3P1PP1/PPP4P/RNBQKBNR b KQkq - 0 4,my oppent keeps moving pawns?
+8,O-O,e8g8,rnbq1rk1/ppppbppp/5n2/4p3/4P3/3P1PP1/PPP4P/RNBQKBNR w KQ - 1 5,king side castle complete
+9,Bg5,c1g5,rnbq1rk1/ppppbppp/5n2/4p1B1/4P3/3P1PP1/PPP4P/RN1QKBNR b KQ - 2 5,threating to take my knight
+10,Nc6,b8c6,r1bq1rk1/ppppbppp/2n2n2/4p1B1/4P3/3P1PP1/PPP4P/RN1QKBNR w KQ - 3 6,He takes my knight taking out a potential future threat
+11,Bxf6,g5f6,r1bq1rk1/ppppbppp/2n2B2/4p3/4P3/3P1PP1/PPP4P/RN1QKBNR b KQ - 0 6,He takes my knight taking out a potential future threat
+12,Bxf6,e7f6,r1bq1rk1/pppp1ppp/2n2b2/4p3/4P3/3P1PP1/PPP4P/RN1QKBNR w KQ - 0 7,in return i take his bishop
+13,h4,h2h4,r1bq1rk1/pppp1ppp/2n2b2/4p3/4P2P/3P1PP1/PPP5/RN1QKBNR b KQ - 0 7,threating my knight
+14,Nd4,c6d4,r1bq1rk1/pppp1ppp/5b2/4p3/3nP2P/3P1PP1/PPP5/RN1QKBNR w KQ - 1 8,threating my knight
+15,c3,c2c3,r1bq1rk1/pppp1ppp/5b2/4p3/3nP2P/2PP1PP1/PP6/RN1QKBNR b KQ - 0 8,threating my knight
+16,Ne6,d4e6,r1bq1rk1/pppp1ppp/4nb2/4p3/4P2P/2PP1PP1/PP6/RN1QKBNR w KQ - 1 9,i retreat of course
+17,g4,g3g4,r1bq1rk1/pppp1ppp/4nb2/4p3/4P1PP/2PP1P2/PP6/RN1QKBNR b KQ - 0 9,moves his pawn???
+18,Nf4,e6f4,r1bq1rk1/pppp1ppp/5b2/4p3/4PnPP/2PP1P2/PP6/RN1QKBNR w KQ - 1 10,put my knight right back into the fray of things
+19,Qc2,d1c2,r1bq1rk1/pppp1ppp/5b2/4p3/4PnPP/2PP1P2/PPQ5/RN2KBNR b KQ - 2 10,knight for knight maybe?
+20,c6,c7c6,r1bq1rk1/pp1p1ppp/2p2b2/4p3/4PnPP/2PP1P2/PPQ5/RN2KBNR w KQ - 0 11,knight for knight maybe?
+21,Nh3,g1h3,r1bq1rk1/pp1p1ppp/2p2b2/4p3/4PnPP/2PP1P1N/PPQ5/RN2KB1R b KQ - 1 11,knight for knight maybe?
+22,Bxh4+,f6h4,r1bq1rk1/pp1p1ppp/2p5/4p3/4PnPb/2PP1P1N/PPQ5/RN2KB1R w KQ - 0 12,think i will put him in check instead :)  (better late than never)
+23,Kd1,e1d1,r1bq1rk1/pp1p1ppp/2p5/4p3/4PnPb/2PP1P1N/PPQ5/RN1K1B1R b - - 1 12,only real move he had
+24,Qf6,d8f6,r1b2rk1/pp1p1ppp/2p2q2/4p3/4PnPb/2PP1P1N/PPQ5/RN1K1B1R w - - 2 13,trying to keep his knight alive maybe?
+25,Nf2,h3f2,r1b2rk1/pp1p1ppp/2p2q2/4p3/4PnPb/2PP1P2/PPQ2N2/RN1K1B1R b - - 3 13,trying to keep his knight alive maybe?
+26,Bxf2,h4f2,r1b2rk1/pp1p1ppp/2p2q2/4p3/4PnP1/2PP1P2/PPQ2b2/RN1K1B1R w - - 0 14,i take the knight of course losing an active bishop
+27,Qxf2,c2f2,r1b2rk1/pp1p1ppp/2p2q2/4p3/4PnP1/2PP1P2/PP3Q2/RN1K1B1R b - - 0 14,of course he takes the bishop
+28,b6,b7b6,r1b2rk1/p2p1ppp/1pp2q2/4p3/4PnP1/2PP1P2/PP3Q2/RN1K1B1R w - - 0 15,threating mate with Qxh7
+29,Qh2,f2h2,r1b2rk1/p2p1ppp/1pp2q2/4p3/4PnP1/2PP1P2/PP5Q/RN1K1B1R b - - 1 15,threating mate with Qxh7

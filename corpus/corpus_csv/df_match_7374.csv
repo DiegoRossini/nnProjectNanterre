@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The beginning of the Najdorf Sicilian
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The beginning of the Najdorf Sicilian
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The beginning of the Najdorf Sicilian
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,The beginning of the Najdorf Sicilian
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,The beginning of the Najdorf Sicilian
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,The beginning of the Najdorf Sicilian
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,The beginning of the Najdorf Sicilian
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,The beginning of the Najdorf Sicilian
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,The beginning of the Najdorf Sicilian
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,The beginning of the Najdorf Sicilian
+11,Be2,f1e2,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6,In the Be2 the more aggressive move for black is e5.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7,In the Be2 the more aggressive move for black is e5.
+13,Bg5,c1g5,rnbqkb1r/1p3ppp/p2ppn2/6B1/3NP3/2N5/PPP1BPPP/R2QK2R b KQkq - 1 7,Not the best choice I really should have castled kingside.
+14,Be7,f8e7,rnbqk2r/1p2bppp/p2ppn2/6B1/3NP3/2N5/PPP1BPPP/R2QK2R w KQkq - 2 8,I've lost a tempo and gained nothing.
+15,Be3,g5e3,rnbqk2r/1p2bppp/p2ppn2/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 3 8,I've lost a tempo and gained nothing.
+16,O-O,e8g8,rnbq1rk1/1p2bppp/p2ppn2/8/3NP3/2N1B3/PPP1BPPP/R2QK2R w KQ - 4 9,Castling queenside was probably wrong for the position.  I should have castled kingside and exploited blacks advanced pawns.
+17,Qd2,d1d2,rnbq1rk1/1p2bppp/p2ppn2/8/3NP3/2N1B3/PPPQBPPP/R3K2R b KQ - 5 9,Castling queenside was probably wrong for the position.  I should have castled kingside and exploited blacks advanced pawns.
+18,b5,b7b5,rnbq1rk1/4bppp/p2ppn2/1p6/3NP3/2N1B3/PPPQBPPP/R3K2R w KQ - 0 10,Castling queenside was probably wrong for the position.  I should have castled kingside and exploited blacks advanced pawns.
+19,O-O-O,e1c1,rnbq1rk1/4bppp/p2ppn2/1p6/3NP3/2N1B3/PPPQBPPP/2KR3R b - - 1 10,Castling queenside was probably wrong for the position.  I should have castled kingside and exploited blacks advanced pawns.
+20,Bb7,c8b7,rn1q1rk1/1b2bppp/p2ppn2/1p6/3NP3/2N1B3/PPPQBPPP/2KR3R w - - 2 11,Preparing to attack the kingside with pawns.
+21,f3,f2f3,rn1q1rk1/1b2bppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQB1PP/2KR3R b - - 0 11,Preparing to attack the kingside with pawns.
+22,Nbd7,b8d7,r2q1rk1/1b1nbppp/p2ppn2/1p6/3NP3/2N1BP2/PPPQB1PP/2KR3R w - - 1 12,Preparing to attack the kingside with pawns.
+23,h4,h2h4,r2q1rk1/1b1nbppp/p2ppn2/1p6/3NP2P/2N1BP2/PPPQB1P1/2KR3R b - - 0 12,Preparing to attack the kingside with pawns.
+24,Nc5,d7c5,r2q1rk1/1b2bppp/p2ppn2/1pn5/3NP2P/2N1BP2/PPPQB1P1/2KR3R w - - 1 13,Black is putting pressure on e4 with his knights.
+25,h5,h4h5,r2q1rk1/1b2bppp/p2ppn2/1pn4P/3NP3/2N1BP2/PPPQB1P1/2KR3R b - - 0 13,Starting his queenside attack.
+26,b4,b5b4,r2q1rk1/1b2bppp/p2ppn2/2n4P/1p1NP3/2N1BP2/PPPQB1P1/2KR3R w - - 0 14,Starting his queenside attack.
+27,Nb1,c3b1,r2q1rk1/1b2bppp/p2ppn2/2n4P/1p1NP3/4BP2/PPPQB1P1/1NKR3R b - - 1 14,The only move not the best place for the knight.
+28,a5,a6a5,r2q1rk1/1b2bppp/3ppn2/p1n4P/1p1NP3/4BP2/PPPQB1P1/1NKR3R w - - 0 15,A pointless move. Better was probably Nb3.
+29,Nb5,d4b5,r2q1rk1/1b2bppp/3ppn2/pNn4P/1p2P3/4BP2/PPPQB1P1/1NKR3R b - - 1 15,A pointless move. Better was probably Nb3.
+30,Nfxe4,f6e4,r2q1rk1/1b2bppp/3pp3/pNn4P/1p2n3/4BP2/PPPQB1P1/1NKR3R w - - 0 16,Black sacrifices his knight for two pawns.
+31,fxe4,f3e4,r2q1rk1/1b2bppp/3pp3/pNn4P/1p2P3/4B3/PPPQB1P1/1NKR3R b - - 0 16,Black now has a strong central knight.
+32,Nxe4,c5e4,r2q1rk1/1b2bppp/3pp3/pN5P/1p2n3/4B3/PPPQB1P1/1NKR3R w - - 0 17,Black now has a strong central knight.
+33,Qe1,d2e1,r2q1rk1/1b2bppp/3pp3/pN5P/1p2n3/4B3/PPP1B1P1/1NKRQ2R b - - 1 17,This move prevents blacks knight forking the bishop and rook by moving to g3.
+34,d5,d6d5,r2q1rk1/1b2bppp/4p3/pN1p3P/1p2n3/4B3/PPP1B1P1/1NKRQ2R w - - 0 18,Protecting the strong central knight but closing off the light squared bishop. However white seems to have no piece that matches the knight.
+35,Bd3,e2d3,r2q1rk1/1b2bppp/4p3/pN1p3P/1p2n3/3BB3/PPP3P1/1NKRQ2R b - - 1 18,Threatening to take the knight.
+36,Nc5,e4c5,r2q1rk1/1b2bppp/4p3/pNnp3P/1p6/3BB3/PPP3P1/1NKRQ2R w - - 2 19,The knight retreats since Bxe4 wins the knight for nothing. Bxe4 dxe4 Rxd8 Ra8(Rf8)xd8 black would then lose the queen for a rook.
+37,g4,g2g4,r2q1rk1/1b2bppp/4p3/pNnp3P/1p4P1/3BB3/PPP5/1NKRQ2R b - - 0 19,Continuing to attack on the kingside with pawns. Perhaps Qg3 would be a better move. Maybe even Qd2 in order to move the dark squared bishop to h6 to aid in the attack.
+38,Rc8,a8c8,2rq1rk1/1b2bppp/4p3/pNnp3P/1p4P1/3BB3/PPP5/1NKRQ2R w - - 1 20,Taking control of the c-file. Nxd3 Rxd3 would give black the bishop pair. He probably should have played Nxd3 on move 19.
+39,Bxc5,e3c5,2rq1rk1/1b2bppp/4p3/pNBp3P/1p4P1/3B4/PPP5/1NKRQ2R b - - 0 20,I give him the bishop pair which was a bad idea in an open game. I may be a pawn ahead but material isn't everything. Maybe Nd4 would have been better the knight is doing nothing in its current position.
+40,Rxc5,c8c5,3q1rk1/1b2bppp/4p3/pNrp3P/1p4P1/3B4/PPP5/1NKRQ2R w - - 0 21,Unpinning the knight from the king.
+41,Nd4,b5d4,3q1rk1/1b2bppp/4p3/p1rp3P/1p1N2P1/3B4/PPP5/1NKRQ2R b - - 1 21,Unpinning the knight from the king.
+42,Bg5+,e7g5,3q1rk1/1b3ppp/4p3/p1rp2bP/1p1N2P1/3B4/PPP5/1NKRQ2R w - - 2 22,Unpinning the knight from the king.
+43,Nd2,b1d2,3q1rk1/1b3ppp/4p3/p1rp2bP/1p1N2P1/3B4/PPPN4/2KRQ2R b - - 3 22,Unpinning the knight from the king.
+44,a4,a5a4,3q1rk1/1b3ppp/4p3/2rp2bP/pp1N2P1/3B4/PPPN4/2KRQ2R w - - 0 23,Unpinning the knight from the king.
+45,Kb1,c1b1,3q1rk1/1b3ppp/4p3/2rp2bP/pp1N2P1/3B4/PPPN4/1K1RQ2R b - - 1 23,Unpinning the knight from the king.

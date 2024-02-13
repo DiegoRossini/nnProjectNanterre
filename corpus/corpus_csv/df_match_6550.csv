@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Sicilian, of course!"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Sicilian, of course!"
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+8,d6,d7d6,r1bqkbnr/pp2pppp/2np4/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+9,Nc3,b1c3,r1bqkbnr/pp2pppp/2np4/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+10,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 6,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+11,Bg5,c1g5,r1bqkb1r/pp2pppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 3 6,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+12,a6,a7a6,r1bqkb1r/1p2pppp/p1np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7,"A prelude to a queenside attack. My opponent is someone who likes to play actively, and long castling seems like the thing he'd want to do later on."
+13,Qd2,d1d2,r1bqkb1r/1p2pppp/p1np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R b KQkq - 1 7,Enabling b5 and freeing up c8 for my rook
+14,Bd7,c8d7,r2qkb1r/1p1bpppp/p1np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 2 8,Enabling b5 and freeing up c8 for my rook
+15,Bxf6,g5f6,r2qkb1r/1p1bpppp/p1np1B2/8/3NP3/2N5/PPPQ1PPP/R3KB1R b KQkq - 0 8,"This may not look like a good move, as it makes castling impossible for black. On the other hand, attacking the center may prove challenging for white with 4 pawns covering the king."
+16,gxf6,g7f6,r2qkb1r/1p1bpp1p/p1np1p2/8/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 0 9,"This may not look like a good move, as it makes castling impossible for black. On the other hand, attacking the center may prove challenging for white with 4 pawns covering the king."
+17,O-O-O,e1c1,r2qkb1r/1p1bpp1p/p1np1p2/8/3NP3/2N5/PPPQ1PPP/2KR1B1R b kq - 1 9,"This is pretty early for castling. On the one hand, the rook is now involved in attacking the d-file, on the other hand, the d6 pawn is in no direct danger. White seems to be building a strong assault, though."
+18,Rc8,a8c8,2rqkb1r/1p1bpp1p/p1np1p2/8/3NP3/2N5/PPPQ1PPP/2KR1B1R w k - 2 10,The pieces are set for a direct attack for black as well. Whoever has the fastest attack will prevail.
+19,Nf5,d4f5,2rqkb1r/1p1bpp1p/p1np1p2/5N2/4P3/2N5/PPPQ1PPP/2KR1B1R b k - 3 10,"Perhaps this move is not the best one. the e7 seems like a weak point, but for the time being, I don't see any effective way to attack this pawn. Sacrificing the knight on e7 results in the black bishop defending the d6 pawn, which is not really helping. Nd5 is also no longer possible for white due to e6. I personally favour f4, threatening e5 to break open the center, though I did not check this with a chess engine."
+20,b5,b7b5,2rqkb1r/3bpp1p/p1np1p2/1p3N2/4P3/2N5/PPPQ1PPP/2KR1B1R w k - 0 11,Black presses the attack.
+21,Nh6,f5h6,2rqkb1r/3bpp1p/p1np1p1N/1p6/4P3/2N5/PPPQ1PPP/2KR1B1R b k - 1 11,"This is already the decisive error, I think. The knight is attacking the f7 pawn, but I don't see a fast way to attack that pawn again. Qd5 isn't a viable option because of Be6, making the bishop more active while winning a tempo in the process."
+22,b4,b5b4,2rqkb1r/3bpp1p/p1np1p1N/8/1p2P3/2N5/PPPQ1PPP/2KR1B1R w k - 0 12,"I think this is the quickest way for attacking, since the white knight can't effectively attack the black position."
+23,Ne2,c3e2,2rqkb1r/3bpp1p/p1np1p1N/8/1p2P3/8/PPPQNPPP/2KR1B1R b k - 1 12,"Another option is 12. Na4 Qa5 13. b3 Nd4 14. Qxd4 Bxh6+ 15. Kb1 Bxa4 16. bxa4 Qxa4 and black wins a pawn, while still having active play against white's king. After Nd5, the game would continue the same way it did right now."
+24,Qa5,d8a5,2r1kb1r/3bpp1p/p1np1p1N/q7/1p2P3/8/PPPQNPPP/2KR1B1R w k - 2 13,"Attacking the a2 pawn. Right now, white is losing a pawn."
+25,Kb1,c1b1,2r1kb1r/3bpp1p/p1np1p1N/q7/1p2P3/8/PPPQNPPP/1K1R1B1R b k - 3 13,"But now, the loss will be an entire piece. The alternative was 13. a3 bxa3 14. Qxa5 (14. bxa3? Qxa3 15. Kb1 Rb8+ 16. Qb4 Rxb4 mate) axb2+ 17. Kxb2 Nxa5 and black wins a pawn."
+26,b3,b4b3,2r1kb1r/3bpp1p/p1np1p1N/q7/4P3/1p6/PPPQNPPP/1K1R1B1R w k - 0 14,It's all over now. Black threatens Qxa2 and must prevent that at all cost.
+27,Qxa5,d2a5,2r1kb1r/3bpp1p/p1np1p1N/Q7/4P3/1p6/PPP1NPPP/1K1R1B1R b k - 0 14,"Other alternatives: 14. axb3 Nb4! 15. Qxb4 (Moving the queen away leads to 15. ... Qa2+ Kc1 16. Rxc2 mate. Any other move leads to 15. ... Qa2+ 16. Kc1 Qa1 mate.) Qxb4 and black is a queen against a piece up.
+14. cxb3 Qxd2 15. Rxd2 Bxh6 and black is a piece up.
+14. a3 bxc2+ 15. Kxc2(15. Qxc2 Bxh6) Qxd2+ and the knight on h6 hangs."
+28,bxc2+,b3c2,2r1kb1r/3bpp1p/p1np1p1N/Q7/4P3/8/PPp1NPPP/1K1R1B1R w k - 0 15,And white surrenders because of 15. Kxc2 Nxa5+ 16. (any move) Bxh6 and black is a piece up or 15. Kc1 cxd1Q+ 16. Kxd1 Nxa5 and white is a rook up

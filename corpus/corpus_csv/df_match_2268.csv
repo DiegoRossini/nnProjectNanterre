@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,pins my knight
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,pins my knight
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,pins my knight
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,pins my knight
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,pins my knight
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,defends the pawn again
+7,d4,d2d4,r1bqkbnr/ppp2ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,removes the pin
+8,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQK2R w KQkq - 1 5,removes the pin
+9,O-O,e1g1,r2qkbnr/pppb1ppp/2np4/1B2p3/3PP3/5N2/PPP2PPP/RNBQ1RK1 b kq - 2 5,castles kingside
+10,Nf6,g8f6,r2qkb1r/pppb1ppp/2np1n2/1B2p3/3PP3/5N2/PPP2PPP/RNBQ1RK1 w kq - 3 6,attacking his bishop
+11,Bg5,c1g5,r2qkb1r/pppb1ppp/2np1n2/1B2p1B1/3PP3/5N2/PPP2PPP/RN1Q1RK1 b kq - 4 6,attacking his bishop
+12,h6,h7h6,r2qkb1r/pppb1pp1/2np1n1p/1B2p1B1/3PP3/5N2/PPP2PPP/RN1Q1RK1 w kq - 0 7,attacking his bishop
+13,Bh4,g5h4,r2qkb1r/pppb1pp1/2np1n1p/1B2p3/3PP2B/5N2/PPP2PPP/RN1Q1RK1 b kq - 1 7,he retreats keeping the pin
+14,g5,g7g5,r2qkb1r/pppb1p2/2np1n1p/1B2p1p1/3PP2B/5N2/PPP2PPP/RN1Q1RK1 w kq - 0 8,i push him out
+15,Bg3,h4g3,r2qkb1r/pppb1p2/2np1n1p/1B2p1p1/3PP3/5NB1/PPP2PPP/RN1Q1RK1 b kq - 1 8,free pawn he should have took my knight
+16,Nxe4,f6e4,r2qkb1r/pppb1p2/2np3p/1B2p1p1/3Pn3/5NB1/PPP2PPP/RN1Q1RK1 w kq - 0 9,free pawn he should have took my knight
+17,dxe5,d4e5,r2qkb1r/pppb1p2/2np3p/1B2P1p1/4n3/5NB1/PPP2PPP/RN1Q1RK1 b kq - 0 9,only move to keep my pawn advantage
+18,Nxg3,e4g3,r2qkb1r/pppb1p2/2np3p/1B2P1p1/8/5Nn1/PPP2PPP/RN1Q1RK1 w kq - 0 10,only move to keep my pawn advantage
+19,hxg3,h2g3,r2qkb1r/pppb1p2/2np3p/1B2P1p1/8/5NP1/PPP2PP1/RN1Q1RK1 b kq - 0 10,pins my knight and defends his bishop
+20,Nxe5,c6e5,r2qkb1r/pppb1p2/3p3p/1B2n1p1/8/5NP1/PPP2PP1/RN1Q1RK1 w kq - 0 11,pins my knight and defends his bishop
+21,Qe2,d1e2,r2qkb1r/pppb1p2/3p3p/1B2n1p1/8/5NP1/PPP1QPP1/RN3RK1 b kq - 1 11,pins my knight and defends his bishop
+22,Bxb5,d7b5,r2qkb1r/ppp2p2/3p3p/1b2n1p1/8/5NP1/PPP1QPP1/RN3RK1 w kq - 0 12,I take so I can move my knight
+23,Qxb5+,e2b5,r2qkb1r/ppp2p2/3p3p/1Q2n1p1/8/5NP1/PPP2PP1/RN3RK1 b kq - 0 12,but I lose my pawn
+24,Nc6,e5c6,r2qkb1r/ppp2p2/2np3p/1Q4p1/8/5NP1/PPP2PP1/RN3RK1 w kq - 1 13,I attack his queen
+25,Qxb7,b5b7,r2qkb1r/pQp2p2/2np3p/6p1/8/5NP1/PPP2PP1/RN3RK1 b kq - 0 13,I attack his queen
+26,Na5,c6a5,r2qkb1r/pQp2p2/3p3p/n5p1/8/5NP1/PPP2PP1/RN3RK1 w kq - 1 14,I attack his queen
+27,Qb5+,b7b5,r2qkb1r/p1p2p2/3p3p/nQ4p1/8/5NP1/PPP2PP1/RN3RK1 b kq - 2 14,ahhhh
+28,c6,c7c6,r2qkb1r/p4p2/2pp3p/nQ4p1/8/5NP1/PPP2PP1/RN3RK1 w kq - 0 15,whew only move that doesnt lose
+29,Qf5,b5f5,r2qkb1r/p4p2/2pp3p/n4Qp1/8/5NP1/PPP2PP1/RN3RK1 b kq - 1 15,attacking b2 and developing my bishop
+30,Bg7,f8g7,r2qk2r/p4pb1/2pp3p/n4Qp1/8/5NP1/PPP2PP1/RN3RK1 w kq - 2 16,attacking b2 and developing my bishop
+31,Re1+,f1e1,r2qk2r/p4pb1/2pp3p/n4Qp1/8/5NP1/PPP2PP1/RN2R1K1 b kq - 3 16,best move
+32,Kf8,e8f8,r2q1k1r/p4pb1/2pp3p/n4Qp1/8/5NP1/PPP2PP1/RN2R1K1 w - - 4 17,best move
+33,Nc3,b1c3,r2q1k1r/p4pb1/2pp3p/n4Qp1/8/2N2NP1/PPP2PP1/R3R1K1 b - - 5 17,defends b2
+34,Nc4,a5c4,r2q1k1r/p4pb1/2pp3p/5Qp1/2n5/2N2NP1/PPP2PP1/R3R1K1 w - - 6 18,I attack b2
+35,Rad1,a1d1,r2q1k1r/p4pb1/2pp3p/5Qp1/2n5/2N2NP1/PPP2PP1/3RR1K1 b - - 7 18,? he gives it to me while I can attack his rook

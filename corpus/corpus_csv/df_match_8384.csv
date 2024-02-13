@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Planteando una apertura de Peón de Rey
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Defensa clásica de las negras
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Atacando inmediatamente a e5
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Defensa Petrov o defensa rusa
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Línea que uso para derivar a una Apertura Inglesa
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Negras continúan normalmente
+7,Be2,f1e2,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/3P1N2/PPP1BPPP/RNBQK2R b KQkq - 2 4,"Se activa el alfil, dando paso al enroque"
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/3P1N2/PPP1BPPP/RNBQK2R w KQkq - 3 5,"Jugada fuerte que marca la casilla fuerte de las negras, d4"
+9,O-O,e1g1,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/3P1N2/PPP1BPPP/RNBQ1RK1 b kq - 4 5,Protegiendo al Rey del centro
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/4P3/3P1N2/PPP1BPPP/RNBQ1RK1 w - - 5 6,"Inhabilitando al caballo para moverse por Axd8, ganando Dama"
+11,Bg5,c1g5,r1bq1rk1/pppp1ppp/2n2n2/2b1p1B1/4P3/3P1N2/PPP1BPPP/RN1Q1RK1 b - - 6 6,"Inhabilitando al caballo para moverse por Axd8, ganando Dama"
+12,Be7,c5e7,r1bq1rk1/ppppbppp/2n2n2/4p1B1/4P3/3P1N2/PPP1BPPP/RN1Q1RK1 w - - 7 7,"Apertura inglesa, finalmente"
+13,c4,c2c4,r1bq1rk1/ppppbppp/2n2n2/4p1B1/2P1P3/3P1N2/PP2BPPP/RN1Q1RK1 b - - 0 7,"Apertura inglesa, finalmente"
+14,d6,d7d6,r1bq1rk1/ppp1bppp/2np1n2/4p1B1/2P1P3/3P1N2/PP2BPPP/RN1Q1RK1 w - - 0 8,Para ocupar mi casilla fuerte d5
+15,Nc3,b1c3,r1bq1rk1/ppp1bppp/2np1n2/4p1B1/2P1P3/2NP1N2/PP2BPPP/R2Q1RK1 b - - 1 8,Para ocupar mi casilla fuerte d5
+16,a6,a7a6,r1bq1rk1/1pp1bppp/p1np1n2/4p1B1/2P1P3/2NP1N2/PP2BPPP/R2Q1RK1 w - - 0 9,Evitando Cb5
+17,a3,a2a3,r1bq1rk1/1pp1bppp/p1np1n2/4p1B1/2P1P3/P1NP1N2/1P2BPPP/R2Q1RK1 b - - 0 9,Evitando Cb4
+18,Nd4,c6d4,r1bq1rk1/1pp1bppp/p2p1n2/4p1B1/2PnP3/P1NP1N2/1P2BPPP/R2Q1RK1 w - - 1 10,Para cambiar el caballo
+19,Be3,g5e3,r1bq1rk1/1pp1bppp/p2p1n2/4p3/2PnP3/P1NPBN2/1P2BPPP/R2Q1RK1 b - - 2 10,Para cambiar el caballo
+20,c5,c7c5,r1bq1rk1/1p2bppp/p2p1n2/2p1p3/2PnP3/P1NPBN2/1P2BPPP/R2Q1RK1 w - - 0 11,Posición típica en estas partidas
+21,Nd5,c3d5,r1bq1rk1/1p2bppp/p2p1n2/2pNp3/2PnP3/P2PBN2/1P2BPPP/R2Q1RK1 b - - 1 11,Intercambiando el alfil bueno
+22,Bg4,c8g4,r2q1rk1/1p2bppp/p2p1n2/2pNp3/2PnP1b1/P2PBN2/1P2BPPP/R2Q1RK1 w - - 2 12,Intercambiando el alfil bueno
+23,Bxd4,e3d4,r2q1rk1/1p2bppp/p2p1n2/2pNp3/2PBP1b1/P2P1N2/1P2BPPP/R2Q1RK1 b - - 0 12,Intercambiando el alfil bueno
+24,cxd4,c5d4,r2q1rk1/1p2bppp/p2p1n2/3Np3/2PpP1b1/P2P1N2/1P2BPPP/R2Q1RK1 w - - 0 13,Para seguir con c5
+25,b4,b2b4,r2q1rk1/1p2bppp/p2p1n2/3Np3/1PPpP1b1/P2P1N2/4BPPP/R2Q1RK1 b - - 0 13,Para seguir con c5
+26,Nh5,f6h5,r2q1rk1/1p2bppp/p2p4/3Np2n/1PPpP1b1/P2P1N2/4BPPP/R2Q1RK1 w - - 1 14,"Una jugada activa, considero mejor Cf6xCd5"
+27,c5,c4c5,r2q1rk1/1p2bppp/p2p4/2PNp2n/1P1pP1b1/P2P1N2/4BPPP/R2Q1RK1 b - - 0 14,"Rompiendo la estructura de peones negros
+centrales"

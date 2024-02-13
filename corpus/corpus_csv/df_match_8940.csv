@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This game illustrates two well known general principles : how bad it is to sacrifice too much development for material, and an attack against a king that cannot castle."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This game was played at intermediate/low level, so even if I tried to make this analysis solid and entertaining, an higher level player would certainly have stuff to correct in my notes. 
+Anyhow, your comments are all welcomed. Happy reading !
+Dim31."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Two knights defense
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Two knights defense
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Two knights defense
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Two knights defense
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Two knights defense
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Not recommended. Best for black is to pseudo-gambit the d pawn with 5...Na5 , which usually continues with 6. Bb5  c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 with compensations."
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,"Not recommended. Best for black is to pseudo-gambit the d pawn with 5...Na5 , which usually continues with 6. Bb5  c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 with compensations."
+10,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,"Not recommended. Best for black is to pseudo-gambit the d pawn with 5...Na5 , which usually continues with 6. Bb5  c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 with compensations."
+11,Qf3,d1f3,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/5Q2/PPPP1PPP/RNB1K2R b KQkq - 1 6,6.d4 was actually much stronger. Trying as I did to immediately exploit the f7 weakness exposes to some counterplay as in the game.
+12,Qxg5,d8g5,r1b1kb1r/ppp2ppp/2n5/3np1q1/2B5/5Q2/PPPP1PPP/RNB1K2R w KQkq - 0 7,"A strong answer. With black queen eyeing to g2 and the Night at c2 for fork and e2 for King attack, white is in trouble.
+Is it reasonnable to go for f7 ?"
+13,Bxd5,c4d5,r1b1kb1r/ppp2ppp/2n5/3Bp1q1/8/5Q2/PPPP1PPP/RNB1K2R b KQkq - 0 7,"A strong answer. With black queen eyeing to g2 and the Night at c2 for fork and e2 for King attack, white is in trouble.
+Is it reasonnable to go for f7 ?"
+14,Nd4,c6d4,r1b1kb1r/ppp2ppp/8/3Bp1q1/3n4/5Q2/PPPP1PPP/RNB1K2R w KQkq - 1 8,"A strong answer. With black queen eyeing to g2 and the Night at c2 for fork and e2 for King attack, white is in trouble.
+Is it reasonnable to go for f7 ?"
+15,Qxf7+,f3f7,r1b1kb1r/ppp2Qpp/8/3Bp1q1/3n4/8/PPPP1PPP/RNB1K2R b KQkq - 0 8,"After having analyzed the game, I think it was.
+However as I played the move, it was a speculative play."
+16,Kd8,e8d8,r1bk1b1r/ppp2Qpp/8/3Bp1q1/3n4/8/PPPP1PPP/RNB1K2R w KQ - 1 9,"Here's some tactics ; black queen's best retreat is f5 as it holds the c2 square.
+Even after an exchange black bishop will still be holding c2.
+Eventually black will end up gaining quality and black knight can escape from a1 in late game due to ""a"" and ""b"" pawns advance."
+17,h4,h2h4,r1bk1b1r/ppp2Qpp/8/3Bp1q1/3n3P/8/PPPP1PP1/RNB1K2R b KQ - 0 9,"Here's some tactics ; black queen's best retreat is f5 as it holds the c2 square.
+Even after an exchange black bishop will still be holding c2.
+Eventually black will end up gaining quality and black knight can escape from a1 in late game due to ""a"" and ""b"" pawns advance."
+18,Qg4,g5g4,r1bk1b1r/ppp2Qpp/8/3Bp3/3n2qP/8/PPPP1PP1/RNB1K2R w KQ - 1 10,"Here's some tactics ; black queen's best retreat is f5 as it holds the c2 square.
+Even after an exchange black bishop will still be holding c2.
+Eventually black will end up gaining quality and black knight can escape from a1 in late game due to ""a"" and ""b"" pawns advance."
+19,Bf3,d5f3,r1bk1b1r/ppp2Qpp/8/4p3/3n2qP/5B2/PPPP1PP1/RNB1K2R b KQ - 2 10,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+20,Nxc2+,d4c2,r1bk1b1r/ppp2Qpp/8/4p3/6qP/5B2/PPnP1PP1/RNB1K2R w KQ - 0 11,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+21,Kd1,e1d1,r1bk1b1r/ppp2Qpp/8/4p3/6qP/5B2/PPnP1PP1/RNBK3R b - - 1 11,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+22,Qa4,g4a4,r1bk1b1r/ppp2Qpp/8/4p3/q6P/5B2/PPnP1PP1/RNBK3R w - - 2 12,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+23,b3,b2b3,r1bk1b1r/ppp2Qpp/8/4p3/q6P/1P3B2/P1nP1PP1/RNBK3R b - - 0 12,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+24,Qd4,a4d4,r1bk1b1r/ppp2Qpp/8/4p3/3q3P/1P3B2/P1nP1PP1/RNBK3R w - - 1 13,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+25,Kxc2,d1c2,r1bk1b1r/ppp2Qpp/8/4p3/3q3P/1P3B2/P1KP1PP1/RNB4R b - - 0 13,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+26,Qxa1,d4a1,r1bk1b1r/ppp2Qpp/8/4p3/7P/1P3B2/P1KP1PP1/qNB4R w - - 0 14,"Black is a quality up, but at which cost ? 
+Queen is cornered, King locked in the center and all white pieces will gain activity rapidly using threats to Queen."
+27,Bb2,c1b2,r1bk1b1r/ppp2Qpp/8/4p3/7P/1P3B2/PBKP1PP1/qN5R b - - 1 14,"Fritz says that the best finish should be : 14.Cc3 Fb4 15.Td1 Tf8 16.Dd5  Fd6 17.Fa3 Ff5  18.d3  -
+
+(actually this is French comments : C = Knight, T = Rook , D = Queen , F = Bishop and R = King)"
+28,Qxa2,a1a2,r1bk1b1r/ppp2Qpp/8/4p3/7P/1P3B2/qBKP1PP1/1N5R w - - 0 15,"At this point black should have been more concerned with pieces development & king safety. Letting the queen on the ""c"" column exposes to a later Rook move in c1 pressing on c7."
+29,Nc3,b1c3,r1bk1b1r/ppp2Qpp/8/4p3/7P/1PN2B2/qBKP1PP1/7R b - - 1 15,"At this point black should have been more concerned with pieces development & king safety. Letting the queen on the ""c"" column exposes to a later Rook move in c1 pressing on c7."
+30,Qa5,a2a5,r1bk1b1r/ppp2Qpp/8/q3p3/7P/1PN2B2/1BKP1PP1/7R w - - 2 16,"At this point black should have been more concerned with pieces development & king safety. Letting the queen on the ""c"" column exposes to a later Rook move in c1 pressing on c7."
+31,Nd5,c3d5,r1bk1b1r/ppp2Qpp/8/q2Np3/7P/1P3B2/1BKP1PP1/7R b - - 3 16,"At this point black should have been more concerned with pieces development & king safety. Letting the queen on the ""c"" column exposes to a later Rook move in c1 pressing on c7."
+32,Qc5+,a5c5,r1bk1b1r/ppp2Qpp/8/2qNp3/7P/1P3B2/1BKP1PP1/7R w - - 4 17,"At this point black should have been more concerned with pieces development & king safety. Letting the queen on the ""c"" column exposes to a later Rook move in c1 pressing on c7."
+33,Kb1,c2b1,r1bk1b1r/ppp2Qpp/8/2qNp3/7P/1P3B2/1B1P1PP1/1K5R b - - 5 17,There it is.
+34,Bd7,c8d7,r2k1b1r/pppb1Qpp/8/2qNp3/7P/1P3B2/1B1P1PP1/1K5R w - - 6 18,There it is.
+35,Rc1,h1c1,r2k1b1r/pppb1Qpp/8/2qNp3/7P/1P3B2/1B1P1PP1/1KR5 b - - 7 18,There it is.
+36,Qxc1+,c5c1,r2k1b1r/pppb1Qpp/8/3Np3/7P/1P3B2/1B1P1PP1/1Kq5 w - - 0 19,"At this point black's move was certainly played due to increasing pressure, and will obviously let the material balance in white's favor. But black could have figured out a defense the following way : 18...Qd6 19.Qh5 c6 20.Qg5  Kc8 21.Bxe5 h6 22.Qf4 which remains unclear but certainly not lost."
+37,Kxc1,b1c1,r2k1b1r/pppb1Qpp/8/3Np3/7P/1P3B2/1B1P1PP1/2K5 b - - 0 19,"Not an efficient defense, since the bishop shall already guard e7."
+38,Bd6,f8d6,r2k3r/pppb1Qpp/3b4/3Np3/7P/1P3B2/1B1P1PP1/2K5 w - - 1 20,"Not an efficient defense, since the bishop shall already guard e7."
+39,Bxe5,b2e5,r2k3r/pppb1Qpp/3b4/3NB3/7P/1P3B2/3P1PP1/2K5 b - - 0 20,and now black cannot take back otherwise Qe7  then Qxe5.
+40,Rf8,h8f8,r2k1r2/pppb1Qpp/3b4/3NB3/7P/1P3B2/3P1PP1/2K5 w - - 1 21,"Black position is uncomfortable ; white threatens Bxd6 which gains the rook, and the bishop cannot be taken."
+41,Qxg7,f7g7,r2k1r2/pppb2Qp/3b4/3NB3/7P/1P3B2/3P1PP1/2K5 b - - 0 21,"Black position is uncomfortable ; white threatens Bxd6 which gains the rook, and the bishop cannot be taken."
+42,Re8,f8e8,r2kr3/pppb2Qp/3b4/3NB3/7P/1P3B2/3P1PP1/2K5 w - - 1 22,"Black could not play 21.Bxd5 otherwise 21...Qd7 
+But the present move does not fit neither : white to play and win."
+43,Bxd6,e5d6,r2kr3/pppb2Qp/3B4/3N4/7P/1P3B2/3P1PP1/2K5 b - - 0 22,threatens to gain some more material and the mate in d7.
+44,cxd6,c7d6,r2kr3/pp1b2Qp/3p4/3N4/7P/1P3B2/3P1PP1/2K5 w - - 0 23,threatens to gain some more material and the mate in d7.
+45,Nf6,d5f6,r2kr3/pp1b2Qp/3p1N2/8/7P/1P3B2/3P1PP1/2K5 b - - 1 23,threatens to gain some more material and the mate in d7.
+46,Re7,e8e7,r2k4/pp1br1Qp/3p1N2/8/7P/1P3B2/3P1PP1/2K5 w - - 2 24,"tries to save the rook, but..."
+47,Qf8+,g7f8,r2k1Q2/pp1br2p/3p1N2/8/7P/1P3B2/3P1PP1/2K5 b - - 3 24,"Black resign. 
+Only two bad options remain : 
+- There's a quick mate afer 25...Re8 26.Nxe8 Bxe8 27.Qxd6  Kc8 [27...Bc7 28.Bg4 then Qxd7#] 29.Bg4  Bd7 30.Bxd7#
+- Trying to pary the mate loses one more rook after 25...Rd8 26.Qxd6 Re7 27.Nxd7 Rxd7 (otherwise quick mate) 28.Qf8  then Qxa8."

@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,My favourite.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,My favourite.
+3,Bf4,c1f4,rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,My favourite.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"Bad, because Qb6 now forces me out of my lines."
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"Bad, because Qb6 now forces me out of my lines."
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,But to play this move or not is a matter of taste.
+7,h3,h2h3,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,"So let's continue the bluff. Theory prefers e3, here, but I want to keep e4 as a threat."
+8,Nbd7,b8d7,r1bqkb1r/pp1npppp/2p2n2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 1 5,Finally guarding against Qb6.
+9,c3,c2c3,r1bqkb1r/pp1npppp/2p2n2/3p4/3P1B2/2P2N1P/PP2PPP1/RN1QKB1R b KQkq - 0 5,Finally guarding against Qb6.
+10,g6,g7g6,r1bqkb1r/pp1npp1p/2p2np1/3p4/3P1B2/2P2N1P/PP2PPP1/RN1QKB1R w KQkq - 0 6,"A quiet line, but solid for me to break."
+11,g4,g2g4,r1bqkb1r/pp1npp1p/2p2np1/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R b KQkq - 0 6,Let's go!
+12,Bg7,f8g7,r1bqk2r/pp1nppbp/2p2np1/3p4/3P1BP1/2P2N1P/PP2PP2/RN1QKB1R w KQkq - 1 7,"Preparing e4, nº 1."
+13,Nbd2,b1d2,r1bqk2r/pp1nppbp/2p2np1/3p4/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R b KQkq - 2 7,"Preparing e4, nº 1."
+14,O-O,e8g8,r1bq1rk1/pp1nppbp/2p2np1/3p4/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R w KQ - 3 8,"Preparing e4, nº 2."
+15,Qc2,d1c2,r1bq1rk1/pp1nppbp/2p2np1/3p4/3P1BP1/2P2N1P/PPQNPP2/R3KB1R b KQ - 4 8,"Preparing e4, nº 2."
+16,Re8,f8e8,r1bqr1k1/pp1nppbp/2p2np1/3p4/3P1BP1/2P2N1P/PPQNPP2/R3KB1R w KQ - 5 9,"Preparing e5. I have to fight that, but my advance comes first."
+17,e4,e2e4,r1bqr1k1/pp1nppbp/2p2np1/3p4/3PPBP1/2P2N1P/PPQN1P2/R3KB1R b KQ - 0 9,Black is still a move behind to play e5.
+18,dxe4,d5e4,r1bqr1k1/pp1nppbp/2p2np1/8/3PpBP1/2P2N1P/PPQN1P2/R3KB1R w KQ - 0 10,"Ok, so what? I'm not bad, but black is still very solid."
+19,Nxe4,d2e4,r1bqr1k1/pp1nppbp/2p2np1/8/3PNBP1/2P2N1P/PPQ2P2/R3KB1R b KQ - 0 10,"Ok, so what? I'm not bad, but black is still very solid."
+20,Nxe4,f6e4,r1bqr1k1/pp1nppbp/2p3p1/8/3PnBP1/2P2N1P/PPQ2P2/R3KB1R w KQ - 0 11,"Ok, so what? I'm not bad, but black is still very solid."
+21,Qxe4,c2e4,r1bqr1k1/pp1nppbp/2p3p1/8/3PQBP1/2P2N1P/PP3P2/R3KB1R b KQ - 0 11,"Ok, so what? I'm not bad, but black is still very solid."
+22,Nf6,d7f6,r1bqr1k1/pp2ppbp/2p2np1/8/3PQBP1/2P2N1P/PP3P2/R3KB1R w KQ - 1 12,...as this knight manouver proves.
+23,Qc2,e4c2,r1bqr1k1/pp2ppbp/2p2np1/8/3P1BP1/2P2N1P/PPQ2P2/R3KB1R b KQ - 2 12,...as this knight manouver proves.
+24,Nd5,f6d5,r1bqr1k1/pp2ppbp/2p3p1/3n4/3P1BP1/2P2N1P/PPQ2P2/R3KB1R w KQ - 3 13,...as this knight manouver proves.
+25,Be5,f4e5,r1bqr1k1/pp2ppbp/2p3p1/3nB3/3P2P1/2P2N1P/PPQ2P2/R3KB1R b KQ - 4 13,"Trying to provoke f6, making my Bc4 a more valuable move. In case of bishop's exchange, we'll have a fuzzy game."
+26,Bd7,c8d7,r2qr1k1/pp1bppbp/2p3p1/3nB3/3P2P1/2P2N1P/PPQ2P2/R3KB1R w KQ - 5 14,Not releasing the tension. I'm waiting to play g5 until the black's lsb is on the board.
+27,O-O-O,e1c1,r2qr1k1/pp1bppbp/2p3p1/3nB3/3P2P1/2P2N1P/PPQ2P2/2KR1B1R b - - 6 14,"Hmmm... does black have an attack on the queenside? Well, just in case..."
+28,Qb6,d8b6,r3r1k1/pp1bppbp/1qp3p1/3nB3/3P2P1/2P2N1P/PPQ2P2/2KR1B1R w - - 7 15,"Hmmm... does black have an attack on the queenside? Well, just in case..."
+29,Bc4,f1c4,r3r1k1/pp1bppbp/1qp3p1/3nB3/2BP2P1/2P2N1P/PPQ2P2/2KR3R b - - 8 15,"Strange move, but it was not clear who was in charge here."
+30,Nf6,d5f6,r3r1k1/pp1bppbp/1qp2np1/4B3/2BP2P1/2P2N1P/PPQ2P2/2KR3R w - - 9 16,"Strange move, but it was not clear who was in charge here."
+31,g5,g4g5,r3r1k1/pp1bppbp/1qp2np1/4B1P1/2BP4/2P2N1P/PPQ2P2/2KR3R b - - 0 16,Let's make my pawn worth!
+32,Bf5,d7f5,r3r1k1/pp2ppbp/1qp2np1/4BbP1/2BP4/2P2N1P/PPQ2P2/2KR3R w - - 1 17,"Maybe not the right choice, but I thought that a tempo in doubling rooks was interesting to unbalance the position... one side or another. Moreover, I was looking hard at c4..."
+33,Bd3,c4d3,r3r1k1/pp2ppbp/1qp2np1/4BbP1/3P4/2PB1N1P/PPQ2P2/2KR3R b - - 2 17,"Maybe not the right choice, but I thought that a tempo in doubling rooks was interesting to unbalance the position... one side or another. Moreover, I was looking hard at c4..."
+34,Bxd3,f5d3,r3r1k1/pp2ppbp/1qp2np1/4B1P1/3P4/2Pb1N1P/PPQ2P2/2KR3R w - - 0 18,"Maybe not the right choice, but I thought that a tempo in doubling rooks was interesting to unbalance the position... one side or another. Moreover, I was looking hard at c4..."
+35,Rxd3,d1d3,r3r1k1/pp2ppbp/1qp2np1/4B1P1/3P4/2PR1N1P/PPQ2P2/2K4R b - - 0 18,"Maybe not the right choice, but I thought that a tempo in doubling rooks was interesting to unbalance the position... one side or another. Moreover, I was looking hard at c4..."
+36,Nd5,f6d5,r3r1k1/pp2ppbp/1qp3p1/3nB1P1/3P4/2PR1N1P/PPQ2P2/2K4R w - - 1 19,"Maybe not the best option. I wanted to assure control over the g5 square, to avoid the nasty Bh6+. But I didn't want to exchange my bishop with no reason."
+37,h4,h3h4,r3r1k1/pp2ppbp/1qp3p1/3nB1P1/3P3P/2PR1N2/PPQ2P2/2K4R b - - 0 19,"Maybe not the best option. I wanted to assure control over the g5 square, to avoid the nasty Bh6+. But I didn't want to exchange my bishop with no reason."

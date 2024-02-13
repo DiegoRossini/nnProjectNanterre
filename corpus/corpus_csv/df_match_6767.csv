@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,this gains a bishop for the knight.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this gains a bishop for the knight.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,this gains a bishop for the knight.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,this gains a bishop for the knight.
+5,Bb5+,f1b5,rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,this gains a bishop for the knight.
+6,Bd7,c8d7,rn1qkbnr/pp1bpppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,this gains a bishop for the knight.
+7,Bxd7+,b5d7,rn1qkbnr/pp1Bpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,this gains a bishop for the knight.
+8,Qxd7,d8d7,rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,this gains a bishop for the knight.
+9,O-O,e1g1,rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5,this gains a bishop for the knight.
+10,Nc6,b8c6,r3kbnr/pp1qpppp/2np4/2p5/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 6,this gains a bishop for the knight.
+11,Re1,f1e1,r3kbnr/pp1qpppp/2np4/2p5/4P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 3 6,this gains a bishop for the knight.
+12,Nf6,g8f6,r3kb1r/pp1qpppp/2np1n2/2p5/4P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 4 7,this gains a bishop for the knight.
+13,d3,d2d3,r3kb1r/pp1qpppp/2np1n2/2p5/4P3/3P1N2/PPP2PPP/RNBQR1K1 b kq - 0 7,this gains a bishop for the knight.
+14,e6,e7e6,r3kb1r/pp1q1ppp/2nppn2/2p5/4P3/3P1N2/PPP2PPP/RNBQR1K1 w kq - 0 8,this gains a bishop for the knight.
+15,Bg5,c1g5,r3kb1r/pp1q1ppp/2nppn2/2p3B1/4P3/3P1N2/PPP2PPP/RN1QR1K1 b kq - 1 8,this gains a bishop for the knight.
+16,Be7,f8e7,r3k2r/pp1qbppp/2nppn2/2p3B1/4P3/3P1N2/PPP2PPP/RN1QR1K1 w kq - 2 9,this gains a bishop for the knight.
+17,Nbd2,b1d2,r3k2r/pp1qbppp/2nppn2/2p3B1/4P3/3P1N2/PPPN1PPP/R2QR1K1 b kq - 3 9,this gains a bishop for the knight.
+18,O-O,e8g8,r4rk1/pp1qbppp/2nppn2/2p3B1/4P3/3P1N2/PPPN1PPP/R2QR1K1 w - - 4 10,this gains a bishop for the knight.
+19,e5,e4e5,r4rk1/pp1qbppp/2nppn2/2p1P1B1/8/3P1N2/PPPN1PPP/R2QR1K1 b - - 0 10,this gains a bishop for the knight.
+20,dxe5,d6e5,r4rk1/pp1qbppp/2n1pn2/2p1p1B1/8/3P1N2/PPPN1PPP/R2QR1K1 w - - 0 11,this gains a bishop for the knight.
+21,Nxe5,f3e5,r4rk1/pp1qbppp/2n1pn2/2p1N1B1/8/3P4/PPPN1PPP/R2QR1K1 b - - 0 11,this gains a bishop for the knight.
+22,Nxe5,c6e5,r4rk1/pp1qbppp/4pn2/2p1n1B1/8/3P4/PPPN1PPP/R2QR1K1 w - - 0 12,this gains a bishop for the knight.
+23,Rxe5,e1e5,r4rk1/pp1qbppp/4pn2/2p1R1B1/8/3P4/PPPN1PPP/R2Q2K1 b - - 0 12,this gains a bishop for the knight.
+24,b6,b7b6,r4rk1/p2qbppp/1p2pn2/2p1R1B1/8/3P4/PPPN1PPP/R2Q2K1 w - - 0 13,this gains a bishop for the knight.
+25,Nc4,d2c4,r4rk1/p2qbppp/1p2pn2/2p1R1B1/2N5/3P4/PPP2PPP/R2Q2K1 b - - 1 13,this gains a bishop for the knight.
+26,Rad8,a8d8,3r1rk1/p2qbppp/1p2pn2/2p1R1B1/2N5/3P4/PPP2PPP/R2Q2K1 w - - 2 14,this gains a bishop for the knight.
+27,Re3,e5e3,3r1rk1/p2qbppp/1p2pn2/2p3B1/2N5/3PR3/PPP2PPP/R2Q2K1 b - - 3 14,this gains a bishop for the knight.
+28,h6,h7h6,3r1rk1/p2qbpp1/1p2pn1p/2p3B1/2N5/3PR3/PPP2PPP/R2Q2K1 w - - 0 15,this gains a bishop for the knight.
+29,Bh4,g5h4,3r1rk1/p2qbpp1/1p2pn1p/2p5/2N4B/3PR3/PPP2PPP/R2Q2K1 b - - 1 15,I had expected 16 Rh3 Nf4 17 Rf3 Bxh4 18 Rxf4 Bg5 with an edge.  In this line it is a fair question whether black can get away with 16 ... g5 as there is a real possibility if the bishop doesn't get trapped the rook could get imprisoned by the pawns on the kingside.
+30,Nd5,f6d5,3r1rk1/p2qbpp1/1p2p2p/2pn4/2N4B/3PR3/PPP2PPP/R2Q2K1 w - - 2 16,I had expected 16 Rh3 Nf4 17 Rf3 Bxh4 18 Rxf4 Bg5 with an edge.  In this line it is a fair question whether black can get away with 16 ... g5 as there is a real possibility if the bishop doesn't get trapped the rook could get imprisoned by the pawns on the kingside.
+31,Re4,e3e4,3r1rk1/p2qbpp1/1p2p2p/2pn4/2N1R2B/3P4/PPP2PPP/R2Q2K1 b - - 3 16,I had expected 16 Rh3 Nf4 17 Rf3 Bxh4 18 Rxf4 Bg5 with an edge.  In this line it is a fair question whether black can get away with 16 ... g5 as there is a real possibility if the bishop doesn't get trapped the rook could get imprisoned by the pawns on the kingside.
+32,g5,g7g5,3r1rk1/p2qbp2/1p2p2p/2pn2p1/2N1R2B/3P4/PPP2PPP/R2Q2K1 w - - 0 17,this wins the bishop Noah's Ark style
+33,Bg3,h4g3,3r1rk1/p2qbp2/1p2p2p/2pn2p1/2N1R3/3P2B1/PPP2PPP/R2Q2K1 b - - 1 17,the most fighting chances.  black should certainly whether the attack after 18 Re1 f4 19 Qh5 Kg7.
+34,f5,f7f5,3r1rk1/p2qb3/1p2p2p/2pn1pp1/2N1R3/3P2B1/PPP2PPP/R2Q2K1 w - - 0 18,the most fighting chances.  black should certainly whether the attack after 18 Re1 f4 19 Qh5 Kg7.
+35,Re5,e4e5,3r1rk1/p2qb3/1p2p2p/2pnRpp1/2N5/3P2B1/PPP2PPP/R2Q2K1 b - - 1 18,the most fighting chances.  black should certainly whether the attack after 18 Re1 f4 19 Qh5 Kg7.
+36,f4,f5f4,3r1rk1/p2qb3/1p2p2p/2pnR1p1/2N2p2/3P2B1/PPP2PPP/R2Q2K1 w - - 0 19,this allows black to protect the pawn on e6.  also the bishop won't run away.
+37,Bh4,g3h4,3r1rk1/p2qb3/1p2p2p/2pnR1p1/2N2p1B/3P4/PPP2PPP/R2Q2K1 b - - 1 19,this allows black to protect the pawn on e6.  also the bishop won't run away.
+38,Bf6,e7f6,3r1rk1/p2q4/1p2pb1p/2pnR1p1/2N2p1B/3P4/PPP2PPP/R2Q2K1 w - - 2 20,this allows black to protect the pawn on e6.  also the bishop won't run away.
+39,Qh5,d1h5,3r1rk1/p2q4/1p2pb1p/2pnR1pQ/2N2p1B/3P4/PPP2PPP/R5K1 b - - 3 20,a close calculation revealed that white has nothing.
+40,Bxe5,f6e5,3r1rk1/p2q4/1p2p2p/2pnb1pQ/2N2p1B/3P4/PPP2PPP/R5K1 w - - 0 21,a close calculation revealed that white has nothing.
+41,Nxe5,c4e5,3r1rk1/p2q4/1p2p2p/2pnN1pQ/5p1B/3P4/PPP2PPP/R5K1 b - - 0 21,wrong would be 21 ... Qg7?? 22 Ng4!
+42,Qh7,d7h7,3r1rk1/p6q/1p2p2p/2pnN1pQ/5p1B/3P4/PPP2PPP/R5K1 w - - 1 22,wrong would be 21 ... Qg7?? 22 Ng4!
+43,f3,f2f3,3r1rk1/p6q/1p2p2p/2pnN1pQ/5p1B/3P1P2/PPP3PP/R5K1 b - - 0 22,this move had been forseen.  it crushes white's resistance.
+44,gxh4,g5h4,3r1rk1/p6q/1p2p2p/2pnN2Q/5p1p/3P1P2/PPP3PP/R5K1 w - - 0 23,this move had been forseen.  it crushes white's resistance.
+45,Qg4+,h5g4,3r1rk1/p6q/1p2p2p/2pnN3/5pQp/3P1P2/PPP3PP/R5K1 b - - 1 23,this move had been forseen.  it crushes white's resistance.
+46,Qg7,h7g7,3r1rk1/p5q1/1p2p2p/2pnN3/5pQp/3P1P2/PPP3PP/R5K1 w - - 2 24,this move had been forseen.  it crushes white's resistance.
+47,Qxe6+,g4e6,3r1rk1/p5q1/1p2Q2p/2pnN3/5p1p/3P1P2/PPP3PP/R5K1 b - - 0 24,this move had been forseen.  it crushes white's resistance.
+48,Kh7,g8h7,3r1r2/p5qk/1p2Q2p/2pnN3/5p1p/3P1P2/PPP3PP/R5K1 w - - 1 25,this move had been forseen.  it crushes white's resistance.
+49,Nc6,e5c6,3r1r2/p5qk/1pN1Q2p/2pn4/5p1p/3P1P2/PPP3PP/R5K1 b - - 2 25,this move had been forseen.  it crushes white's resistance.
+50,Ne3,d5e3,3r1r2/p5qk/1pN1Q2p/2p5/5p1p/3PnP2/PPP3PP/R5K1 w - - 3 26,this move had been forseen.  it crushes white's resistance.
+51,Qe4+,e6e4,3r1r2/p5qk/1pN4p/2p5/4Qp1p/3PnP2/PPP3PP/R5K1 b - - 4 26,the finish might have been 27 g3 hxg3 28 h3 Rde8 29 Qa4 Qd7! with mate to soon follow or the taking of the knight if 30 Qa3.
+52,Kh8,h7h8,3r1r1k/p5q1/1pN4p/2p5/4Qp1p/3PnP2/PPP3PP/R5K1 w - - 5 27,the finish might have been 27 g3 hxg3 28 h3 Rde8 29 Qa4 Qd7! with mate to soon follow or the taking of the knight if 30 Qa3.

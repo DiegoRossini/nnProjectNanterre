@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+8,Nxd4,c6d4,r1bqkbnr/pppp1ppp/8/8/3nP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,This is bad. Just count how many pieces each side has developed before and after the exchange. Correct was 4...Nf6.
+9,Qxd4,d1d4,r1bqkbnr/pppp1ppp/8/8/3QP3/8/PPP2PPP/RNB1KB1R b KQkq - 0 5,The queen and pawn give White total dominance over the centre.
+10,h6,h7h6,r1bqkbnr/pppp1pp1/7p/8/3QP3/8/PPP2PPP/RNB1KB1R w KQkq - 0 6,"Unnecessary, but the obvious 5...Nf6 doesn't work either because of 6.e5. 5...d6 looks like the best option."
+11,Bc4,f1c4,r1bqkbnr/pppp1pp1/7p/8/2BQP3/8/PPP2PPP/RNB1K2R b KQkq - 1 6,"It's fine if he takes it, but if he doesn't it obstructs the knight. It's usually unwise to bring out your queen so early in the game."
+12,Qf6,d8f6,r1b1kbnr/pppp1pp1/5q1p/8/2BQP3/8/PPP2PPP/RNB1K2R w KQkq - 2 7,"It's fine if he takes it, but if he doesn't it obstructs the knight. It's usually unwise to bring out your queen so early in the game."
+13,e5,e4e5,r1b1kbnr/pppp1pp1/5q1p/4P3/2BQ4/8/PPP2PPP/RNB1K2R b KQkq - 0 7,"8...Ne7 developing a piece, looks better. Then after ...Ng6 (or ...Nc6) and ...Be7 you wll be able to castle. 8...c6 creates a hole on d6 which White exploits later."
+14,Qf5,f6f5,r1b1kbnr/pppp1pp1/7p/4Pq2/2BQ4/8/PPP2PPP/RNB1K2R w KQkq - 1 8,"8...Ne7 developing a piece, looks better. Then after ...Ng6 (or ...Nc6) and ...Be7 you wll be able to castle. 8...c6 creates a hole on d6 which White exploits later."
+15,Qd5,d4d5,r1b1kbnr/pppp1pp1/7p/3QPq2/2B5/8/PPP2PPP/RNB1K2R b KQkq - 2 8,"8...Ne7 developing a piece, looks better. Then after ...Ng6 (or ...Nc6) and ...Be7 you wll be able to castle. 8...c6 creates a hole on d6 which White exploits later."
+16,c6,c7c6,r1b1kbnr/pp1p1pp1/2p4p/3QPq2/2B5/8/PPP2PPP/RNB1K2R w KQkq - 0 9,"8...Ne7 developing a piece, looks better. Then after ...Ng6 (or ...Nc6) and ...Be7 you wll be able to castle. 8...c6 creates a hole on d6 which White exploits later."
+17,Qd2,d5d2,r1b1kbnr/pp1p1pp1/2p4p/4Pq2/2B5/8/PPPQ1PPP/RNB1K2R b KQkq - 1 9,A strange place to put the queen!
+18,Qe4+,f5e4,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B1q3/8/PPPQ1PPP/RNB1K2R w KQkq - 2 10,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+19,Qe2,d2e2,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B1q3/8/PPP1QPPP/RNB1K2R b KQkq - 3 10,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+20,Qxg2,e4g2,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B5/8/PPP1QPqP/RNB1K2R w KQkq - 0 11,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+21,Rf1,h1f1,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B5/8/PPP1QPqP/RNB1KR2 b Qkq - 1 11,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+22,Qxh2,g2h2,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B5/8/PPP1QP1q/RNB1KR2 w Qkq - 0 12,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+23,Nc3,b1c3,r1b1kbnr/pp1p1pp1/2p4p/4P3/2B5/2N5/PPP1QP1q/R1B1KR2 b Qkq - 1 12,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+24,Bb4,f8b4,r1b1k1nr/pp1p1pp1/2p4p/4P3/1bB5/2N5/PPP1QP1q/R1B1KR2 w Qkq - 2 13,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+25,Bd2,c1d2,r1b1k1nr/pp1p1pp1/2p4p/4P3/1bB5/2N5/PPPBQP1q/R3KR2 b Qkq - 3 13,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+26,Ne7,g8e7,r1b1k2r/pp1pnpp1/2p4p/4P3/1bB5/2N5/PPPBQP1q/R3KR2 w Qkq - 4 14,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+27,O-O-O,e1c1,r1b1k2r/pp1pnpp1/2p4p/4P3/1bB5/2N5/PPPBQP1q/2KR1R2 b kq - 5 14,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+28,Qh3,h2h3,r1b1k2r/pp1pnpp1/2p4p/4P3/1bB5/2N4q/PPPBQP2/2KR1R2 w kq - 6 15,I don't see the point of this. You really should be thinking about getting your other bishop out and getting your king to safety.
+29,Rfh1,f1h1,r1b1k2r/pp1pnpp1/2p4p/4P3/1bB5/2N4q/PPPBQP2/2KR3R b kq - 7 15,White could have played 17.Bxg5.
+30,Qf5,h3f5,r1b1k2r/pp1pnpp1/2p4p/4Pq2/1bB5/2N5/PPPBQP2/2KR3R w kq - 8 16,White could have played 17.Bxg5.
+31,Rh5,h1h5,r1b1k2r/pp1pnpp1/2p4p/4Pq1R/1bB5/2N5/PPPBQP2/2KR4 b kq - 9 16,White could have played 17.Bxg5.
+32,g5,g7g5,r1b1k2r/pp1pnp2/2p4p/4PqpR/1bB5/2N5/PPPBQP2/2KR4 w kq - 0 17,White could have played 17.Bxg5.
+33,Ne4,c3e4,r1b1k2r/pp1pnp2/2p4p/4PqpR/1bB1N3/8/PPPBQP2/2KR4 b kq - 1 17,White could have played 17.Bxg5.
+34,Bxd2+,b4d2,r1b1k2r/pp1pnp2/2p4p/4PqpR/2B1N3/8/PPPbQP2/2KR4 w kq - 0 18,"Although he is two pawns down, White has a winning position. All his pieces are active and he is on the verge of a breakthrough."
+35,Rxd2,d1d2,r1b1k2r/pp1pnp2/2p4p/4PqpR/2B1N3/8/PPPRQP2/2K5 b kq - 0 18,"Although he is two pawns down, White has a winning position. All his pieces are active and he is on the verge of a breakthrough."
+36,O-O,e8g8,r1b2rk1/pp1pnp2/2p4p/4PqpR/2B1N3/8/PPPRQP2/2K5 w - - 1 19,I think there were better moves. 18...Qf4 or 18...Kd8.
+37,Rxh6,h5h6,r1b2rk1/pp1pnp2/2p4R/4Pqp1/2B1N3/8/PPPRQP2/2K5 b - - 0 19,20.Nf6  forces him to sacrifice his queen or he will be mated next move.
+38,Ng6,e7g6,r1b2rk1/pp1p1p2/2p3nR/4Pqp1/2B1N3/8/PPPRQP2/2K5 w - - 1 20,20.Nf6  forces him to sacrifice his queen or he will be mated next move.
+39,Rd6,d2d6,r1b2rk1/pp1p1p2/2pR2nR/4Pqp1/2B1N3/8/PPP1QP2/2K5 b - - 2 20,20.Nf6  forces him to sacrifice his queen or he will be mated next move.
+40,Kg7,g8g7,r1b2r2/pp1p1pk1/2pR2nR/4Pqp1/2B1N3/8/PPP1QP2/2K5 w - - 3 21,I think Nf6 was still the best move.
+41,Qh5,e2h5,r1b2r2/pp1p1pk1/2pR2nR/4PqpQ/2B1N3/8/PPP2P2/2K5 b - - 4 21,I think Nf6 was still the best move.
+42,Rh8,f8h8,r1b4r/pp1p1pk1/2pR2nR/4PqpQ/2B1N3/8/PPP2P2/2K5 w - - 5 22,If you'd exchanged rooks first you would have won.
+43,Rf6,d6f6,r1b4r/pp1p1pk1/2p2RnR/4PqpQ/2B1N3/8/PPP2P2/2K5 b - - 6 22,If you'd exchanged rooks first you would have won.
+44,Rxh6,h8h6,r1b5/pp1p1pk1/2p2Rnr/4PqpQ/2B1N3/8/PPP2P2/2K5 w - - 0 23,
+45,Qe2,h5e2,r1b5/pp1p1pk1/2p2Rnr/4Pqp1/2B1N3/8/PPP1QP2/2K5 b - - 1 23,
+46,Qxe5,f5e5,r1b5/pp1p1pk1/2p2Rnr/4q1p1/2B1N3/8/PPP1QP2/2K5 w - - 0 24,
+47,Rxf7+,f6f7,r1b5/pp1p1Rk1/2p3nr/4q1p1/2B1N3/8/PPP1QP2/2K5 b - - 0 24,
+48,Kh8,g7h8,r1b4k/pp1p1R2/2p3nr/4q1p1/2B1N3/8/PPP1QP2/2K5 w - - 1 25,
+49,Qf3,e2f3,r1b4k/pp1p1R2/2p3nr/4q1p1/2B1N3/5Q2/PPP2P2/2K5 b - - 2 25,
+50,d5,d7d5,r1b4k/pp3R2/2p3nr/3pq1p1/2B1N3/5Q2/PPP2P2/2K5 w - - 0 26,
+51,Rf8+,f7f8,r1b2R1k/pp6/2p3nr/3pq1p1/2B1N3/5Q2/PPP2P2/2K5 b - - 1 26,
+52,Nxf8,g6f8,r1b2n1k/pp6/2p4r/3pq1p1/2B1N3/5Q2/PPP2P2/2K5 w - - 0 27,
+53,Qxf8+,f3f8,r1b2Q1k/pp6/2p4r/3pq1p1/2B1N3/8/PPP2P2/2K5 b - - 0 27,
+54,Kh7,h8h7,r1b2Q2/pp5k/2p4r/3pq1p1/2B1N3/8/PPP2P2/2K5 w - - 1 28,
+55,Bd3,c4d3,r1b2Q2/pp5k/2p4r/3pq1p1/4N3/3B4/PPP2P2/2K5 b - - 2 28,
+56,dxe4,d5e4,r1b2Q2/pp5k/2p4r/4q1p1/4p3/3B4/PPP2P2/2K5 w - - 0 29,
+57,Bc4,d3c4,r1b2Q2/pp5k/2p4r/4q1p1/2B1p3/8/PPP2P2/2K5 b - - 1 29,
+58,Rh1+,h6h1,r1b2Q2/pp5k/2p5/4q1p1/2B1p3/8/PPP2P2/2K4r w - - 2 30,
+59,Kd2,c1d2,r1b2Q2/pp5k/2p5/4q1p1/2B1p3/8/PPPK1P2/7r b - - 3 30,
+60,Qd4+,e5d4,r1b2Q2/pp5k/2p5/6p1/2Bqp3/8/PPPK1P2/7r w - - 4 31,

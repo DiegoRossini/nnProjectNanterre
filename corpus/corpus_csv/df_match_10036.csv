@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Ruy Lopez or Spanish Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Ruy Lopez or Spanish Opening
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Ruy Lopez or Spanish Opening
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Ruy Lopez or Spanish Opening
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The Ruy Lopez or Spanish Opening
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Playable, but 3...a6 is more common."
+7,Bxc6+,b5c6,r1bqkbnr/ppp2ppp/2Bp4/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4,White should wait until the bishop is attacked before making the exchange. Better was 4.d4.
+8,bxc6,b7c6,r1bqkbnr/p1p2ppp/2pp4/4p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,"This cedes control of d4 to Black. Better was  5.d4, threatening to win the Black e-pawn."
+9,c4,c2c4,r1bqkbnr/p1p2ppp/2pp4/4p3/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq - 0 5,"This cedes control of d4 to Black. Better was  5.d4, threatening to win the Black e-pawn."
+10,a5,a7a5,r1bqkbnr/2p2ppp/2pp4/p3p3/2P1P3/5N2/PP1P1PPP/RNBQK2R w KQkq - 0 6,It would have been better to develop a piece! 5...Nf6 was the obvious move.
+11,d3,d2d3,r1bqkbnr/2p2ppp/2pp4/p3p3/2P1P3/3P1N2/PP3PPP/RNBQK2R b KQkq - 0 6,"By putting his centre pawns on white squares, White gives his remaining bishop plenty of freedom. But if that bishop ever gets exchanged, those black squares could become weak."
+12,Nf6,g8f6,r1bqkb1r/2p2ppp/2pp1n2/p3p3/2P1P3/3P1N2/PP3PPP/RNBQK2R w KQkq - 1 7,Anticipating Black's next move perhaps.
+13,O-O,e1g1,r1bqkb1r/2p2ppp/2pp1n2/p3p3/2P1P3/3P1N2/PP3PPP/RNBQ1RK1 b kq - 2 7,Anticipating Black's next move perhaps.
+14,Be7,f8e7,r1bqk2r/2p1bppp/2pp1n2/p3p3/2P1P3/3P1N2/PP3PPP/RNBQ1RK1 w kq - 3 8,Anticipating Black's next move perhaps.
+15,Nbd2,b1d2,r1bqk2r/2p1bppp/2pp1n2/p3p3/2P1P3/3P1N2/PP1N1PPP/R1BQ1RK1 b kq - 4 8,Anticipating Black's next move perhaps.
+16,Bg4,c8g4,r2qk2r/2p1bppp/2pp1n2/p3p3/2P1P1b1/3P1N2/PP1N1PPP/R1BQ1RK1 w kq - 5 9,You should have anticipated White's next move and played 8...0-0.
+17,Qa4,d1a4,r2qk2r/2p1bppp/2pp1n2/p3p3/Q1P1P1b1/3P1N2/PP1N1PPP/R1B2RK1 b kq - 6 9,"White has won a pawn, but, more importantly, he has created an open file."
+18,Qd7,d8d7,r3k2r/2pqbppp/2pp1n2/p3p3/Q1P1P1b1/3P1N2/PP1N1PPP/R1B2RK1 w kq - 7 10,"White has won a pawn, but, more importantly, he has created an open file."
+19,b4,b2b4,r3k2r/2pqbppp/2pp1n2/p3p3/QPP1P1b1/3P1N2/P2N1PPP/R1B2RK1 b kq - 0 10,"White has won a pawn, but, more importantly, he has created an open file."
+20,O-O,e8g8,r4rk1/2pqbppp/2pp1n2/p3p3/QPP1P1b1/3P1N2/P2N1PPP/R1B2RK1 w - - 1 11,"White has won a pawn, but, more importantly, he has created an open file."
+21,bxa5,b4a5,r4rk1/2pqbppp/2pp1n2/P3p3/Q1P1P1b1/3P1N2/P2N1PPP/R1B2RK1 b - - 0 11,"White has won a pawn, but, more importantly, he has created an open file."
+22,Ra6,a8a6,5rk1/2pqbppp/r1pp1n2/P3p3/Q1P1P1b1/3P1N2/P2N1PPP/R1B2RK1 w - - 1 12,Black should have seized control of the open file with 11...Rfb8.
+23,Bb2,c1b2,5rk1/2pqbppp/r1pp1n2/P3p3/Q1P1P1b1/3P1N2/PB1N1PPP/R4RK1 b - - 2 12,Giving Black another chance to seize the open file.
+24,Rfa8,f8a8,r5k1/2pqbppp/r1pp1n2/P3p3/Q1P1P1b1/3P1N2/PB1N1PPP/R4RK1 w - - 3 13,The pawn is easily defended so these rooks are effectively out of the game. Rooks belong on open files!
+25,Bc3,b2c3,r5k1/2pqbppp/r1pp1n2/P3p3/Q1P1P1b1/2BP1N2/P2N1PPP/R4RK1 b - - 4 13,"A strong move, but you needed to arrange a defence for your e-pawn first."
+26,d5,d6d5,r5k1/2pqbppp/r1p2n2/P2pp3/Q1P1P1b1/2BP1N2/P2N1PPP/R4RK1 w - - 0 14,"A strong move, but you needed to arrange a defence for your e-pawn first."
+27,cxd5,c4d5,r5k1/2pqbppp/r1p2n2/P2Pp3/Q3P1b1/2BP1N2/P2N1PPP/R4RK1 b - - 0 14,"White wins another pawn, but ruins his pawn structure in the process. 16.Nxe5 was much better."
+28,cxd5,c6d5,r5k1/2pqbppp/r4n2/P2pp3/Q3P1b1/2BP1N2/P2N1PPP/R4RK1 w - - 0 15,"White wins another pawn, but ruins his pawn structure in the process. 16.Nxe5 was much better."
+29,Qxd7,a4d7,r5k1/2pQbppp/r4n2/P2pp3/4P1b1/2BP1N2/P2N1PPP/R4RK1 b - - 0 15,"White wins another pawn, but ruins his pawn structure in the process. 16.Nxe5 was much better."
+30,Nxd7,f6d7,r5k1/2pnbppp/r7/P2pp3/4P1b1/2BP1N2/P2N1PPP/R4RK1 w - - 0 16,"White wins another pawn, but ruins his pawn structure in the process. 16.Nxe5 was much better."
+31,exd5,e4d5,r5k1/2pnbppp/r7/P2Pp3/6b1/2BP1N2/P2N1PPP/R4RK1 b - - 0 16,"White wins another pawn, but ruins his pawn structure in the process. 16.Nxe5 was much better."
+32,Bf6,e7f6,r5k1/2pn1ppp/r4b2/P2Pp3/6b1/2BP1N2/P2N1PPP/R4RK1 w - - 1 17,A poor square for the bishop. Let White take the e-pawn! After 17.Nxe5 Nxe5 18.Bxe5 Rxa5 your rooks are back in the game. 16...Bf5 looks good to me.
+33,Rab1,a1b1,r5k1/2pn1ppp/r4b2/P2Pp3/6b1/2BP1N2/P2N1PPP/1R3RK1 b - - 2 17,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+34,Nc5,d7c5,r5k1/2p2ppp/r4b2/P1nPp3/6b1/2BP1N2/P2N1PPP/1R3RK1 w - - 3 18,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+35,d4,d3d4,r5k1/2p2ppp/r4b2/P1nPp3/3P2b1/2B2N2/P2N1PPP/1R3RK1 b - - 0 18,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+36,exd4,e5d4,r5k1/2p2ppp/r4b2/P1nP4/3p2b1/2B2N2/P2N1PPP/1R3RK1 w - - 0 19,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+37,Nxd4,f3d4,r5k1/2p2ppp/r4b2/P1nP4/3N2b1/2B5/P2N1PPP/1R3RK1 b - - 0 19,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+38,Bxd4,f6d4,r5k1/2p2ppp/r7/P1nP4/3b2b1/2B5/P2N1PPP/1R3RK1 w - - 0 20,Bishops are better than knights in an open position like this. 19...Rd6 was an alternative way of winning a pawn back.
+39,Bxd4,c3d4,r5k1/2p2ppp/r7/P1nP4/3B2b1/8/P2N1PPP/1R3RK1 b - - 0 20,White obviously doesn't agree!
+40,Ra6xa5,a6a5,r5k1/2p2ppp/8/r1nP4/3B2b1/8/P2N1PPP/1R3RK1 w - - 0 21,White obviously doesn't agree!
+41,Bxc5,d4c5,r5k1/2p2ppp/8/r1BP4/6b1/8/P2N1PPP/1R3RK1 b - - 0 21,White obviously doesn't agree!
+42,Rxc5,a5c5,r5k1/2p2ppp/8/2rP4/6b1/8/P2N1PPP/1R3RK1 w - - 0 22,22...Rxd5 was also possible.
+43,f3,f2f3,r5k1/2p2ppp/8/2rP4/6b1/5P2/P2N2PP/1R3RK1 b - - 0 22,22...Rxd5 was also possible.
+44,Bf5,g4f5,r5k1/2p2ppp/8/2rP1b2/8/5P2/P2N2PP/1R3RK1 w - - 1 23,22...Rxd5 was also possible.
+45,Rb2,b1b2,r5k1/2p2ppp/8/2rP1b2/8/5P2/PR1N2PP/5RK1 b - - 2 23,At this point I would have offered White a draw.
+46,Rxd5,c5d5,r5k1/2p2ppp/8/3r1b2/8/5P2/PR1N2PP/5RK1 w - - 0 24,At this point I would have offered White a draw.
+47,Rc1,f1c1,r5k1/2p2ppp/8/3r1b2/8/5P2/PR1N2PP/2R3K1 b - - 1 24,You should have anticipated White's next move and played 25...Be6.
+48,c5,c7c5,r5k1/5ppp/8/2pr1b2/8/5P2/PR1N2PP/2R3K1 w - - 0 25,You should have anticipated White's next move and played 25...Be6.
+49,Nc4,d2c4,r5k1/5ppp/8/2pr1b2/2N5/5P2/PR4PP/2R3K1 b - - 1 25,You should have anticipated White's next move and played 25...Be6.
+50,Rad8,a8d8,3r2k1/5ppp/8/2pr1b2/2N5/5P2/PR4PP/2R3K1 w - - 2 26,You should have anticipated White's next move and played 25...Be6.

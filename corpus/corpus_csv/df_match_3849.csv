@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is the Vienna Game, an unusual opening that easily transposes into the Four Knights Game."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is the Vienna Game, an unusual opening that easily transposes into the Four Knights Game."
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,"This is the Vienna Game, an unusual opening that easily transposes into the Four Knights Game."
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,This is the Falkbeer variation.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"As I have mentioned, it is very easy to transpose into the Four Knights."
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"As I have mentioned, it is very easy to transpose into the Four Knights."
+7,Bc4,f1c4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"Worrying about 4...Nxe4? No problem, Black gives me a chance to fend the move off."
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,Of course.
+9,d3,d2d3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,Black should simply Castle right now.
+10,Nh5,f6h5,r1bqk2r/pppp1ppp/2n5/2b1p2n/2B1P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 1 6,"? It is horrible to lose material in the development phase of the Four Knights. Black, instead of Castling, gave me a free pawn."
+11,Nxe5,f3e5,r1bqk2r/pppp1ppp/2n5/2b1N2n/2B1P3/2NP4/PPP2PPP/R1BQK2R b KQkq - 0 6,"Black has options. He can take my Knight and lose more material, or he can defend his Knight. There is perhaps one more option and that will be covered below."
+12,g6,g7g6,r1bqk2r/pppp1p1p/2n3p1/2b1N2n/2B1P3/2NP4/PPP2PPP/R1BQK2R w KQkq - 0 7,"That one option is obviously Castling. Despite the fact that it loses more material, it prevents the Kingside disaster that I do in this game."
+13,Bxf7+,c4f7,r1bqk2r/pppp1B1p/2n3p1/2b1N2n/4P3/2NP4/PPP2PPP/R1BQK2R b KQkq - 0 7,"It all starts with this move, winning yet another free pawn."
+14,Ke7,e8e7,r1bq3r/ppppkB1p/2n3p1/2b1N2n/4P3/2NP4/PPP2PPP/R1BQK2R w KQ - 1 8,"This move isn't bad yet, but I prefer 7...Kf8 with the problematic 8.Bxg6! to deal with."
+15,Bg5+,c1g5,r1bq3r/ppppkB1p/2n3p1/2b1N1Bn/4P3/2NP4/PPP2PPP/R2QK2R b KQ - 2 8,"This isn't very very bad for Black yet, but it is very bad for him."
+16,Kd6,e7d6,r1bq3r/pppp1B1p/2nk2p1/2b1N1Bn/4P3/2NP4/PPP2PPP/R2QK2R w KQ - 3 9,"THIS is the bad move although no matter what Black does, he loses. 8...Nf6 is met by 9.Qf3."
+17,Bxd8,g5d8,r1bB3r/pppp1B1p/2nk2p1/2b1N2n/4P3/2NP4/PPP2PPP/R2QK2R b KQ - 0 9,I am not missing out on taking the Queen.
+18,Nxd8,c6d8,r1bn3r/pppp1B1p/3k2p1/2b1N2n/4P3/2NP4/PPP2PPP/R2QK2R w KQ - 0 10,Black has two options.
+19,Nc4+,e5c4,r1bn3r/pppp1B1p/3k2p1/2b4n/2N1P3/2NP4/PPP2PPP/R2QK2R b KQ - 1 10,Black has two options.
+20,Ke7,d6e7,r1bn3r/ppppkB1p/6p1/2b4n/2N1P3/2NP4/PPP2PPP/R2QK2R w KQ - 2 11,10...Kc6 11.Bd5#! That's why Black played this move.
+21,Qf3,d1f3,r1bn3r/ppppkB1p/6p1/2b4n/2N1P3/2NP1Q2/PPP2PPP/R3K2R b KQ - 3 11,"I cannot save the Bishop unless I retreat it, but in exchange, this move offers 12.g4."
+22,Nxf7,d8f7,r1b4r/ppppkn1p/6p1/2b4n/2N1P3/2NP1Q2/PPP2PPP/R3K2R w KQ - 0 12,What other choice does Black have?
+23,Nd5+,c3d5,r1b4r/ppppkn1p/6p1/2bN3n/2N1P3/3P1Q2/PPP2PPP/R3K2R b KQ - 1 12,"12.g4 was better, but this move is still okay. 12.g4 Ng7 13.Nd5+ Kf8 14.Ne5 wins."
+24,Kf8,e7f8,r1b2k1r/pppp1n1p/6p1/2bN3n/2N1P3/3P1Q2/PPP2PPP/R3K2R w KQ - 2 13,"Here, 13.Ne5 is a good idea."

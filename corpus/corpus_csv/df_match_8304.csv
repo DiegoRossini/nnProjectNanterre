@@ -1,0 +1,84 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+7,Nxe5,f3e5,r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4,"Four knights (C46), Schultze-Mueller gambit
+a.k.a. Halloween gambit"
+8,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/4N3/4n3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 0 5,Declined!
+9,Qh5,d1h5,r1bqkb1r/pppp1ppp/2n5/4N2Q/4n3/2N5/PPPP1PPP/R1B1KB1R b KQkq - 1 5,"Interesting move forcing black to defend.
+Black should not play Nxe5 or else:
+6. Qxe5+ Qe7
+7. Qxe4 Qxe4
+8. Nxe4
+and white has a decisive advantage"
+10,Qf6,d8f6,r1b1kb1r/pppp1ppp/2n2q2/4N2Q/4n3/2N5/PPPP1PPP/R1B1KB1R w KQkq - 2 6,This move gives white a pawn advantage if black plays Kxf7
+11,Qxf7+,h5f7,r1b1kb1r/pppp1Qpp/2n2q2/4N3/4n3/2N5/PPPP1PPP/R1B1KB1R b KQkq - 0 6,This move gives white a pawn advantage if black plays Kxf7
+12,Qxf7,f6f7,r1b1kb1r/pppp1qpp/2n5/4N3/4n3/2N5/PPPP1PPP/R1B1KB1R w KQkq - 0 7,This move gives white a pawn advantage if black plays Kxf7
+13,Nxf7,e5f7,r1b1kb1r/pppp1Npp/2n5/8/4n3/2N5/PPPP1PPP/R1B1KB1R b KQkq - 0 7,This move gives white a pawn advantage if black plays Kxf7
+14,Kxf7,e8f7,r1b2b1r/pppp1kpp/2n5/8/4n3/2N5/PPPP1PPP/R1B1KB1R w KQ - 0 8,"Better was Nxf2! which leads to a very unusual game:
+7 ...Nxf2!
+8. Nxh8 Nxh1
+9. Nb5 Nb4
+10. Nxc7+ Kd8
+11. Nxa8 Nxc2+
+12. Kd1 Nxa1
+13. Nf7+ Ke7
+14. Ng5 Nf2+
+15. Ke1 Ng4
+16. Bd3
+etc"
+15,Bc4+,f1c4,r1b2b1r/pppp1kpp/2n5/8/2B1n3/2N5/PPPP1PPP/R1B1K2R b KQ - 1 8,It makes sense to develop the bishop first before capturing the knight otherwise black may play d5.
+16,Ke8,f7e8,r1b1kb1r/pppp2pp/2n5/8/2B1n3/2N5/PPPP1PPP/R1B1K2R w KQ - 2 9,Threatens a rook fork.
+17,Nxe4,c3e4,r1b1kb1r/pppp2pp/2n5/8/2B1N3/8/PPPP1PPP/R1B1K2R b KQ - 0 9,Threatens a rook fork.
+18,Nd4,c6d4,r1b1kb1r/pppp2pp/8/8/2BnN3/8/PPPP1PPP/R1B1K2R w KQ - 1 10,Threatens a rook fork.
+19,Bd3,c4d3,r1b1kb1r/pppp2pp/8/8/3nN3/3B4/PPPP1PPP/R1B1K2R b KQ - 2 10,Prevents the fork
+20,d5,d7d5,r1b1kb1r/ppp3pp/8/3p4/3nN3/3B4/PPPP1PPP/R1B1K2R w KQ - 0 11,Black tries to gain space and allows his light bishop to move.
+21,Ng3,e4g3,r1b1kb1r/ppp3pp/8/3p4/3n4/3B2N1/PPPP1PPP/R1B1K2R b KQ - 1 11,"Attacking black's knight.
+An alternative prospect is b3 to fianchetto the dark bishop, attacking the knight and g7 pawn."
+22,Bd6,f8d6,r1b1k2r/ppp3pp/3b4/3p4/3n4/3B2N1/PPPP1PPP/R1B1K2R w KQ - 2 12,"Attacking black's knight.
+An alternative prospect is b3 to fianchetto the dark bishop, attacking the knight and g7 pawn."
+23,c3,c2c3,r1b1k2r/ppp3pp/3b4/3p4/3n4/2PB2N1/PP1P1PPP/R1B1K2R b KQ - 0 12,"Attacking black's knight.
+An alternative prospect is b3 to fianchetto the dark bishop, attacking the knight and g7 pawn."
+24,Bxg3,d6g3,r1b1k2r/ppp3pp/8/3p4/3n4/2PB2b1/PP1P1PPP/R1B1K2R w KQ - 0 13,An unfavorable trade by black.
+25,hxg3,h2g3,r1b1k2r/ppp3pp/8/3p4/3n4/2PB2P1/PP1P1PP1/R1B1K2R b KQ - 0 13,White is ready to develop his bishop and two rooks. Perhaps g4 would have been better though.
+26,Bf5,c8f5,r3k2r/ppp3pp/8/3p1b2/3n4/2PB2P1/PP1P1PP1/R1B1K2R w KQ - 1 14,White is ready to develop his bishop and two rooks. Perhaps g4 would have been better though.
+27,Bxf5,d3f5,r3k2r/ppp3pp/8/3p1B2/3n4/2P3P1/PP1P1PP1/R1B1K2R b KQ - 0 14,White is ready to develop his bishop and two rooks. Perhaps g4 would have been better though.
+28,Nxf5,d4f5,r3k2r/ppp3pp/8/3p1n2/8/2P3P1/PP1P1PP1/R1B1K2R w KQ - 0 15,White is ready to develop his bishop and two rooks. Perhaps g4 would have been better though.
+29,d4,d2d4,r3k2r/ppp3pp/8/3p1n2/3P4/2P3P1/PP3PP1/R1B1K2R b KQ - 0 15,White is ready to develop his bishop and two rooks. Perhaps g4 would have been better though.
+30,Kd7,e8d7,r6r/pppk2pp/8/3p1n2/3P4/2P3P1/PP3PP1/R1B1K2R w KQ - 1 16,Mobilizing the rook pair
+31,Bf4,c1f4,r6r/pppk2pp/8/3p1n2/3P1B2/2P3P1/PP3PP1/R3K2R b KQ - 2 16,"White chooses to simplify, exchanging his bishop and rook."
+32,Rae8+,a8e8,4r2r/pppk2pp/8/3p1n2/3P1B2/2P3P1/PP3PP1/R3K2R w KQ - 3 17,"White chooses to simplify, exchanging his bishop and rook."
+33,Kd2,e1d2,4r2r/pppk2pp/8/3p1n2/3P1B2/2P3P1/PP1K1PP1/R6R b - - 4 17,"White chooses to simplify, exchanging his bishop and rook."
+34,Nd6,f5d6,4r2r/pppk2pp/3n4/3p4/3P1B2/2P3P1/PP1K1PP1/R6R w - - 5 18,"White chooses to simplify, exchanging his bishop and rook."
+35,Bxd6,f4d6,4r2r/pppk2pp/3B4/3p4/3P4/2P3P1/PP1K1PP1/R6R b - - 0 18,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+36,Kxd6,d7d6,4r2r/ppp3pp/3k4/3p4/3P4/2P3P1/PP1K1PP1/R6R w - - 0 19,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+37,Rae1,a1e1,4r2r/ppp3pp/3k4/3p4/3P4/2P3P1/PP1K1PP1/4R2R b - - 1 19,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+38,Rxe1,e8e1,7r/ppp3pp/3k4/3p4/3P4/2P3P1/PP1K1PP1/4r2R w - - 0 20,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+39,Rxe1,h1e1,7r/ppp3pp/3k4/3p4/3P4/2P3P1/PP1K1PP1/4R3 b - - 0 20,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+40,Rf8,h8f8,5r2/ppp3pp/3k4/3p4/3P4/2P3P1/PP1K1PP1/4R3 w - - 1 21,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+41,f4,f2f4,5r2/ppp3pp/3k4/3p4/3P1P2/2P3P1/PP1K2P1/4R3 b - - 0 21,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+42,c6,c7c6,5r2/pp4pp/2pk4/3p4/3P1P2/2P3P1/PP1K2P1/4R3 w - - 0 22,"Black could do with gaining queenside space (b5), but he plays it safe instead."
+43,Rh1,e1h1,5r2/pp4pp/2pk4/3p4/3P1P2/2P3P1/PP1K2P1/7R b - - 1 22,storm pawn :P
+44,h6,h7h6,5r2/pp4p1/2pk3p/3p4/3P1P2/2P3P1/PP1K2P1/7R w - - 0 23,storm pawn :P
+45,Rh5,h1h5,5r2/pp4p1/2pk3p/3p3R/3P1P2/2P3P1/PP1K2P1/8 b - - 1 23,storm pawn :P
+46,a5,a7a5,5r2/1p4p1/2pk3p/p2p3R/3P1P2/2P3P1/PP1K2P1/8 w - - 0 24,storm pawn :P
+47,Ke3,d2e3,5r2/1p4p1/2pk3p/p2p3R/3P1P2/2P1K1P1/PP4P1/8 b - - 1 24,storm pawn :P
+48,a4,a5a4,5r2/1p4p1/2pk3p/3p3R/p2P1P2/2P1K1P1/PP4P1/8 w - - 0 25,storm pawn :P
+49,g4,g3g4,5r2/1p4p1/2pk3p/3p3R/p2P1PP1/2P1K3/PP4P1/8 b - - 0 25,white focuses on the kingside.
+50,Re8+,f8e8,4r3/1p4p1/2pk3p/3p3R/p2P1PP1/2P1K3/PP4P1/8 w - - 1 26,Not the most productive move.
+51,Re5,h5e5,4r3/1p4p1/2pk3p/3pR3/p2P1PP1/2P1K3/PP4P1/8 b - - 2 26,Not the most productive move.
+52,Ra8,e8a8,r7/1p4p1/2pk3p/3pR3/p2P1PP1/2P1K3/PP4P1/8 w - - 3 27,Not the most productive move.
+53,g5,g4g5,r7/1p4p1/2pk3p/3pR1P1/p2P1P2/2P1K3/PP4P1/8 b - - 0 27,Simple choice. b4 would be better.
+54,a3,a4a3,r7/1p4p1/2pk3p/3pR1P1/3P1P2/p1P1K3/PP4P1/8 w - - 0 28,Simple choice. b4 would be better.
+55,b3,b2b3,r7/1p4p1/2pk3p/3pR1P1/3P1P2/pPP1K3/P5P1/8 b - - 0 28,Simple choice. b4 would be better.
+56,hxg5,h6g5,r7/1p4p1/2pk4/3pR1p1/3P1P2/pPP1K3/P5P1/8 w - - 0 29,White's initiative seems stronger after this pawn exchange.
+57,Rxg5,e5g5,r7/1p4p1/2pk4/3p2R1/3P1P2/pPP1K3/P5P1/8 b - - 0 29,White's initiative seems stronger after this pawn exchange.

@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Marks the beginning of the Lavitan Gambit. This is totally new ground for me, meaning that my opponent (who calls this gambit his favourite) definatly has an edge"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Marks the beginning of the Lavitan Gambit. This is totally new ground for me, meaning that my opponent (who calls this gambit his favourite) definatly has an edge"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Marks the beginning of the Lavitan Gambit. This is totally new ground for me, meaning that my opponent (who calls this gambit his favourite) definatly has an edge"
+4,f5,f7f5,rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Marks the beginning of the Lavitan Gambit. This is totally new ground for me, meaning that my opponent (who calls this gambit his favourite) definatly has an edge"
+5,Nxe5,f3e5,rnbqkbnr/pppp2pp/8/4Np2/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"Better than exf5, which allows White a solid centre after 3...d6"
+6,Qf6,d8f6,rnb1kbnr/pppp2pp/5q2/4Np2/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,"basic chess rules state that the queen should not come out too early, but it makes sense here - both protecting the f-pawn and chasing away the knight. Besides, I was just relying on the database at this point (though I guess there must be some refutation to 3...Bd6, which does not appear on the DB)"
+7,d4,d2d4,rnb1kbnr/pppp2pp/5q2/4Np2/3PP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,solidifying the centre
+8,d6,d7d6,rnb1kbnr/ppp3pp/3p1q2/4Np2/3PP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,"Black really doesn't want the knight on such a powerful square, so he chases the knight away (I don't really like these moves - it makes Black look weak with the pawns all over the place)"
+9,Nc4,e5c4,rnb1kbnr/ppp3pp/3p1q2/5p2/2NPP3/8/PPP2PPP/RNBQKB1R b KQkq - 1 5,"making my f-pawn a centre pawn, and regaining material equality - why not?"
+10,fxe4,f5e4,rnb1kbnr/ppp3pp/3p1q2/8/2NPp3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6,"making my f-pawn a centre pawn, and regaining material equality - why not?"
+11,Ne3,c4e3,rnb1kbnr/ppp3pp/3p1q2/8/3Pp3/4N3/PPP2PPP/RNBQKB1R b KQkq - 1 6,"?! Preventing Black solidifying the centre with 6...d5, but White's knight has already ended up moving four times out of White's six moves (the point of the Latvian?) I would have preferred Nc3, which achieves the same objective with another piece developed"
+12,Nc6,b8c6,r1b1kbnr/ppp3pp/2np1q2/8/3Pp3/4N3/PPP2PPP/RNBQKB1R w KQkq - 2 7,"?! maybe Ne7 was better, once again allowing d5? I considered it, but dismissed it due to the fact that it seemed to cramp Black's style..."
+13,Bb5,f1b5,r1b1kbnr/ppp3pp/2np1q2/1B6/3Pp3/4N3/PPP2PPP/RNBQK2R b KQkq - 3 7,"But if Nge7 had been played, c6 would be forced here, as 7...Nc6? 8.d5! I'm not sure whether that's a good thing or a bad thing"
+14,Bd7,c8d7,r3kbnr/pppb2pp/2np1q2/1B6/3Pp3/4N3/PPP2PPP/RNBQK2R w KQkq - 4 8,"A forced move, but I like it all the same, opening up queenside castling for Black..."
+15,Nd5,e3d5,r3kbnr/pppb2pp/2np1q2/1B1N4/3Pp3/8/PPP2PPP/RNBQK2R b KQkq - 5 8,! not for long though. Black is forced to undevelop his queen to prevent Nxc7+
+16,Qd8,f6d8,r2qkbnr/pppb2pp/2np4/1B1N4/3Pp3/8/PPP2PPP/RNBQK2R w KQkq - 6 9,threatening to take the e4 pawn....
+17,Qe2,d1e2,r2qkbnr/pppb2pp/2np4/1B1N4/3Pp3/8/PPP1QPPP/RNB1K2R b KQkq - 7 9,threatening to take the e4 pawn....
+18,a6,a7a6,r2qkbnr/1ppb2pp/p1np4/1B1N4/3Pp3/8/PPP1QPPP/RNB1K2R w KQkq - 0 10,"? but this isn't the best way to handle it, I don't think. I looked at, and feared Nxc4, but that actually kept material equality (10.Qxe4+ Nce7 11.Qxd4 Bxb5)"
+19,Qxe4+,e2e4,r2qkbnr/1ppb2pp/p1np4/1B1N4/3PQ3/8/PPP2PPP/RNB1K2R b KQkq - 0 10,I moved this knight to provoke....
+20,Nce7,c6e7,r2qkbnr/1ppbn1pp/p2p4/1B1N4/3PQ3/8/PPP2PPP/RNB1K2R w KQkq - 1 11,I moved this knight to provoke....
+21,Bxd7+,b5d7,r2qkbnr/1ppBn1pp/p2p4/3N4/3PQ3/8/PPP2PPP/RNB1K2R b KQkq - 0 11,"the bishop trade - usually not recommended, since Black is down in material, but it allows for castling for Black"
+22,Qxd7,d8d7,r3kbnr/1ppqn1pp/p2p4/3N4/3PQ3/8/PPP2PPP/RNB1K2R w KQkq - 0 12,"the bishop trade - usually not recommended, since Black is down in material, but it allows for castling for Black"
+23,O-O,e1g1,r3kbnr/1ppqn1pp/p2p4/3N4/3PQ3/8/PPP2PPP/RNB2RK1 b kq - 1 12,speaking of castling...
+24,O-O-O,e8c8,2kr1bnr/1ppqn1pp/p2p4/3N4/3PQ3/8/PPP2PPP/RNB2RK1 w - - 2 13,"Black does the same, and the king retreats to the other side of the board. Development is just about even, but White has the advantage, as he has more space to work with"
+25,Bg5,c1g5,2kr1bnr/1ppqn1pp/p2p4/3N2B1/3PQ3/8/PPP2PPP/RN3RK1 b - - 3 13,"dashing my hopes of 13...Nxd5 14.Qxd5 Re8, grabbing the open file"
+26,h6,h7h6,2kr1bnr/1ppqn1p1/p2p3p/3N2B1/3PQ3/8/PPP2PPP/RN3RK1 w - - 0 14,"putting the question to the bishop, who decides to initiate a fairly large trade (I have no idea whether White wanted to trade in the first place -.likely, as White is up in material)"
+27,Bxe7,g5e7,2kr1bnr/1ppqB1p1/p2p3p/3N4/3PQ3/8/PPP2PPP/RN3RK1 b - - 0 14,"now the pressure on Black has abated, and now he can focus on more important matters..."
+28,Bxe7,f8e7,2kr2nr/1ppqb1p1/p2p3p/3N4/3PQ3/8/PPP2PPP/RN3RK1 w - - 0 15,"now the pressure on Black has abated, and now he can focus on more important matters..."
+29,Nxe7+,d5e7,2kr2nr/1ppqN1p1/p2p3p/8/3PQ3/8/PPP2PPP/RN3RK1 b - - 0 15,"now the pressure on Black has abated, and now he can focus on more important matters..."
+30,Nxe7,g8e7,2kr3r/1ppqn1p1/p2p3p/8/3PQ3/8/PPP2PPP/RN3RK1 w - - 0 16,"now the pressure on Black has abated, and now he can focus on more important matters..."

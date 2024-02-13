@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Here we go.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Alright. I have played the Sicilian Defence here. This is the alternative move to e5.
+3,c4,c2c4,rnbqkbnr/pp1ppppp/8/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"Usually my opponent wouldn't play this, they usually go for Bc4 and try and set up for the four move mate or King's Gambit. I will see If I can find an example for you later."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 1 3,"And now for some development (rule #2) As Black, steal the advantage from white."
+5,Nc3,b1c3,r1bqkbnr/pp1ppppp/2n5/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR b KQkq - 2 3,I would say from here he wants to castle King-side but too early to tell for sure yet. Best to play it cool and keep developing.
+6,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 4,This is to stop white from advancing his Knight  to d5 and opens my Bishop and Queen.
+7,g3,g2g3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2P1P3/2N3P1/PP1P1P1P/R1BQKBNR b KQkq - 0 4,Definetly looks like he wants to castle King-side now.
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2P1P3/2N3P1/PP1P1P1P/R1BQKBNR w KQkq - 1 5,Keep developing
+9,Bh3,f1h3,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2P1P3/2N3PB/PP1P1P1P/R1BQK1NR b KQkq - 2 5,"Now White has made a mistake here. His Bishop cannot go anywhere, really from this position except back to where he should have gone in the first place g2 (Rule #10 & 11)."
+10,g6,g7g6,r1bqkb1r/pp1p1p1p/2n1pnp1/2p5/2P1P3/2N3PB/PP1P1P1P/R1BQK1NR w KQkq - 0 6,I am going to set up for the Kings Indian Panno Variation.
+11,Nf3,g1f3,r1bqkb1r/pp1p1p1p/2n1pnp1/2p5/2P1P3/2N2NPB/PP1P1P1P/R1BQK2R b KQkq - 1 6,Ok Finally White has out developed me.
+12,Bg7,f8g7,r1bqk2r/pp1p1pbp/2n1pnp1/2p5/2P1P3/2N2NPB/PP1P1P1P/R1BQK2R w KQkq - 2 7,Nothing to do but continue to set up my castle.
+13,d4,d2d4,r1bqk2r/pp1p1pbp/2n1pnp1/2p5/2PPP3/2N2NPB/PP3P1P/R1BQK2R b KQkq - 0 7,White pushes for control of the centre.
+14,cxd4,c5d4,r1bqk2r/pp1p1pbp/2n1pnp1/8/2PpP3/2N2NPB/PP3P1P/R1BQK2R w KQkq - 0 8,Let's take it and see what happens
+15,Nxd4,f3d4,r1bqk2r/pp1p1pbp/2n1pnp1/8/2PNP3/2N3PB/PP3P1P/R1BQK2R b KQkq - 0 8,"Now If I take his Knight with mine it will be a straight swap with the possibility of a discovered attack on his Queen. But that means my Knight would have to move to h5 to back up the Bishop (Rule #3), bad for me. Instead I will avoid the confrontation for now and see what white plays"
+16,Ne5,c6e5,r1bqk2r/pp1p1pbp/4pnp1/4n3/2PNP3/2N3PB/PP3P1P/R1BQK2R w KQkq - 1 9,Mmmm Yummy looking pawn @c4. Notice I attack toward the side I think he is most likely going to castle on
+17,Qe2,d1e2,r1bqk2r/pp1p1pbp/4pnp1/4n3/2PNP3/2N3PB/PP2QP1P/R1B1K2R b KQkq - 2 9,OK He saw the free pawn. Let's castle.
+18,O-O,e8g8,r1bq1rk1/pp1p1pbp/4pnp1/4n3/2PNP3/2N3PB/PP2QP1P/R1B1K2R w KQ - 3 10,This is a strong castle as long as white castles on this side also. It can get hairy if he castles opposite and starts pushing pawns on my King-side but it is going to take a lot of moves before white can even attempt that.
+19,Bf4,c1f4,r1bq1rk1/pp1p1pbp/4pnp1/4n3/2PNPB2/2N3PB/PP2QP1P/R3K2R b KQ - 4 10,Ok I said there are some exceptions to the rules. In particular to this case Rule #3. Only as a last resort I play this next move though
+20,Nh5,f6h5,r1bq1rk1/pp1p1pbp/4p1p1/4n2n/2PNPB2/2N3PB/PP2QP1P/R3K2R w KQ - 5 11,This defends my Knight from his Bishop (Rule #5) and attacks his Bishop with my other Knight (also Rule #5)

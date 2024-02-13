@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The standard reply to d4
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The standard reply to d4
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,and this is standard too
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The Budapest Defence, a tricky opening, ideal for these conditions."
+5,dxe5,d4e5,rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,White normally takes.
+6,Ng4,f6g4,rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,The alternative Ne4 is more or less refuted by 4. a3!
+7,e4,e2e4,rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq - 0 4,Attempts to hold on to the extra pawn tends to White get into trouble
+8,Nxe5,g4e5,rnbqkb1r/pppp1ppp/8/4n3/2P1P3/8/PP3PPP/RNBQKBNR w KQkq - 0 5,"So instead of material advantage, white has a space advantage."
+9,f4,f2f4,rnbqkb1r/pppp1ppp/8/4n3/2P1PP2/8/PP4PP/RNBQKBNR b KQkq - 0 5,"So instead of material advantage, white has a space advantage."
+10,Nec6,e5c6,rnbqkb1r/pppp1ppp/2n5/8/2P1PP2/8/PP4PP/RNBQKBNR w KQkq - 1 6,Otherwise black can play Bc5 and castling is difficult
+11,Be3,c1e3,rnbqkb1r/pppp1ppp/2n5/8/2P1PP2/4B3/PP4PP/RN1QKBNR b KQkq - 2 6,Otherwise black can play Bc5 and castling is difficult
+12,Bb4+,f8b4,rnbqk2r/pppp1ppp/2n5/8/1bP1PP2/4B3/PP4PP/RN1QKBNR w KQkq - 3 7,Developing with tempo
+13,Nd2,b1d2,rnbqk2r/pppp1ppp/2n5/8/1bP1PP2/4B3/PP1N2PP/R2QKBNR b KQkq - 4 7,I didn't want him doubling my c pawns.
+14,O-O,e8g8,rnbq1rk1/pppp1ppp/2n5/8/1bP1PP2/4B3/PP1N2PP/R2QKBNR w KQ - 5 8,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+15,Bd3,f1d3,rnbq1rk1/pppp1ppp/2n5/8/1bP1PP2/3BB3/PP1N2PP/R2QK1NR b KQ - 6 8,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+16,d6,d7d6,rnbq1rk1/ppp2ppp/2np4/8/1bP1PP2/3BB3/PP1N2PP/R2QK1NR w KQ - 0 9,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+17,Ngf3,g1f3,rnbq1rk1/ppp2ppp/2np4/8/1bP1PP2/3BBN2/PP1N2PP/R2QK2R b KQ - 1 9,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+18,Bg4,c8g4,rn1q1rk1/ppp2ppp/2np4/8/1bP1PPb1/3BBN2/PP1N2PP/R2QK2R w KQ - 2 10,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+19,h3,h2h3,rn1q1rk1/ppp2ppp/2np4/8/1bP1PPb1/3BBN1P/PP1N2P1/R2QK2R b KQ - 0 10,"I found out later that 0-0 is normally played in this position, but what I played seems OK."
+20,Bxd2+,b4d2,rn1q1rk1/ppp2ppp/2np4/8/2P1PPb1/3BBN1P/PP1b2P1/R2QK2R w KQ - 0 11,Both sides continue their development.
+21,Bxd2,e3d2,rn1q1rk1/ppp2ppp/2np4/8/2P1PPb1/3B1N1P/PP1B2P1/R2QK2R b KQ - 0 11,Both sides continue their development.
+22,Bxf3,g4f3,rn1q1rk1/ppp2ppp/2np4/8/2P1PP2/3B1b1P/PP1B2P1/R2QK2R w KQ - 0 12,Both sides continue their development.
+23,Qxf3,d1f3,rn1q1rk1/ppp2ppp/2np4/8/2P1PP2/3B1Q1P/PP1B2P1/R3K2R b KQ - 0 12,Both sides continue their development.
+24,Qh4+,d8h4,rn3rk1/ppp2ppp/2np4/8/2P1PP1q/3B1Q1P/PP1B2P1/R3K2R w KQ - 1 13,"I'm not convinced by this check, as white can chase the queen back with gain of time. I was more worried about him playing Nd4 and then supporting it with c5 and N(b)-c6"
+25,g3,g2g3,rn3rk1/ppp2ppp/2np4/8/2P1PP1q/3B1QPP/PP1B4/R3K2R b KQ - 0 13,so off it runs
+26,Qe7,h4e7,rn3rk1/ppp1qppp/2np4/8/2P1PP2/3B1QPP/PP1B4/R3K2R w KQ - 1 14,so off it runs
+27,Bc3,d2c3,rn3rk1/ppp1qppp/2np4/8/2P1PP2/2BB1QPP/PP6/R3K2R b KQ - 2 14,and this rules out Nd4
+28,Nd7,b8d7,r4rk1/pppnqppp/2np4/8/2P1PP2/2BB1QPP/PP6/R3K2R w KQ - 3 15,so the other knight has to come here
+29,O-O-O,e1c1,r4rk1/pppnqppp/2np4/8/2P1PP2/2BB1QPP/PP6/2KR3R b - - 4 15,White has a space advantage and black tries to grab space on the queen side. I'm not convinced that this achieves much
+30,a5,a7a5,r4rk1/1ppnqppp/2np4/p7/2P1PP2/2BB1QPP/PP6/2KR3R w - - 0 16,White has a space advantage and black tries to grab space on the queen side. I'm not convinced that this achieves much
+31,Rhe1,h1e1,r4rk1/1ppnqppp/2np4/p7/2P1PP2/2BB1QPP/PP6/2KRR3 b - - 1 16,to try and prevent e5
+32,f6,f7f6,r4rk1/1ppnq1pp/2np1p2/p7/2P1PP2/2BB1QPP/PP6/2KRR3 w - - 0 17,to try and prevent e5
+33,Qh5,f3h5,r4rk1/1ppnq1pp/2np1p2/p6Q/2P1PP2/2BB2PP/PP6/2KRR3 b - - 1 17,with threats of e5
+34,g6,g7g6,r4rk1/1ppnq2p/2np1pp1/p6Q/2P1PP2/2BB2PP/PP6/2KRR3 w - - 0 18,"Now I would love to have had more time to look at this position more carefully. Probably Qh6 or Qh4 is correct, but I thought why not switch wings...."

@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,D4 opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Strong double pawn push.
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,Strong double pawn push.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,Strong double pawn push.
+5,e4,e2e4,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Strong double pawn push.
+6,Bb4,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 4,Doesn't double up pawns with Bxc3??
+7,Bb5+,f1b5,rnbqk1nr/ppp2ppp/4p3/1B1p4/1b1PP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 2 4,Doesn't double up pawns with Bxc3??
+8,c6,c7c6,rnbqk1nr/pp3ppp/2p1p3/1B1p4/1b1PP3/2N5/PPP2PPP/R1BQK1NR w KQkq - 0 5,Doesn't double up pawns with Bxc3??
+9,Bd3,b5d3,rnbqk1nr/pp3ppp/2p1p3/3p4/1b1PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 1 5,Doesn't double up pawns with Bxc3??
+10,dxe4,d5e4,rnbqk1nr/pp3ppp/2p1p3/8/1b1Pp3/2NB4/PPP2PPP/R1BQK1NR w KQkq - 0 6,Doesn't double up pawns with Bxc3??
+11,Bxe4,d3e4,rnbqk1nr/pp3ppp/2p1p3/8/1b1PB3/2N5/PPP2PPP/R1BQK1NR b KQkq - 0 6,Still no double pawn.
+12,Nf6,g8f6,rnbqk2r/pp3ppp/2p1pn2/8/1b1PB3/2N5/PPP2PPP/R1BQK1NR w KQkq - 1 7,Still no double pawn.
+13,Bg5,c1g5,rnbqk2r/pp3ppp/2p1pn2/6B1/1b1PB3/2N5/PPP2PPP/R2QK1NR b KQkq - 2 7,Black castle 7th move.
+14,O-O,e8g8,rnbq1rk1/pp3ppp/2p1pn2/6B1/1b1PB3/2N5/PPP2PPP/R2QK1NR w KQ - 3 8,Black castle 7th move.
+15,Nf3,g1f3,rnbq1rk1/pp3ppp/2p1pn2/6B1/1b1PB3/2N2N2/PPP2PPP/R2QK2R b KQ - 4 8,Horses at the 3 line. strong offense.
+16,h6,h7h6,rnbq1rk1/pp3pp1/2p1pn1p/6B1/1b1PB3/2N2N2/PPP2PPP/R2QK2R w KQ - 0 9,Queen @ F6 . Opponents play that alot.. I don't like.
+17,Bxf6,g5f6,rnbq1rk1/pp3pp1/2p1pB1p/8/1b1PB3/2N2N2/PPP2PPP/R2QK2R b KQ - 0 9,Queen @ F6 . Opponents play that alot.. I don't like.
+18,Qxf6,d8f6,rnb2rk1/pp3pp1/2p1pq1p/8/1b1PB3/2N2N2/PPP2PPP/R2QK2R w KQ - 0 10,Queen @ F6 . Opponents play that alot.. I don't like.
+19,O-O,e1g1,rnb2rk1/pp3pp1/2p1pq1p/8/1b1PB3/2N2N2/PPP2PPP/R2Q1RK1 b - - 1 10,Castle 10th move.
+20,Bxc3,b4c3,rnb2rk1/pp3pp1/2p1pq1p/8/3PB3/2b2N2/PPP2PPP/R2Q1RK1 w - - 0 11,Double up finally happens.
+21,bxc3,b2c3,rnb2rk1/pp3pp1/2p1pq1p/8/3PB3/2P2N2/P1P2PPP/R2Q1RK1 b - - 0 11,Double up finally happens.
+22,Nd7,b8d7,r1b2rk1/pp1n1pp1/2p1pq1p/8/3PB3/2P2N2/P1P2PPP/R2Q1RK1 w - - 1 12,Moving queen into play.
+23,Qd3,d1d3,r1b2rk1/pp1n1pp1/2p1pq1p/8/3PB3/2PQ1N2/P1P2PPP/R4RK1 b - - 2 12,Moving queen into play.
+24,Qf4,f6f4,r1b2rk1/pp1n1pp1/2p1p2p/8/3PBq2/2PQ1N2/P1P2PPP/R4RK1 w - - 3 13,Dumb move on black.
+25,g3,g2g3,r1b2rk1/pp1n1pp1/2p1p2p/8/3PBq2/2PQ1NP1/P1P2P1P/R4RK1 b - - 0 13,"Queen threat, trade knight, pawn on 5 line."
+26,Qg4,f4g4,r1b2rk1/pp1n1pp1/2p1p2p/8/3PB1q1/2PQ1NP1/P1P2P1P/R4RK1 w - - 1 14,"Queen threat, trade knight, pawn on 5 line."
+27,Ne5,f3e5,r1b2rk1/pp1n1pp1/2p1p2p/4N3/3PB1q1/2PQ2P1/P1P2P1P/R4RK1 b - - 2 14,"Queen threat, trade knight, pawn on 5 line."
+28,Nxe5,d7e5,r1b2rk1/pp3pp1/2p1p2p/4n3/3PB1q1/2PQ2P1/P1P2P1P/R4RK1 w - - 0 15,"Queen threat, trade knight, pawn on 5 line."
+29,dxe5,d4e5,r1b2rk1/pp3pp1/2p1p2p/4P3/4B1q1/2PQ2P1/P1P2P1P/R4RK1 b - - 0 15,"Queen threat, trade knight, pawn on 5 line."
+30,f6,f7f6,r1b2rk1/pp4p1/2p1pp1p/4P3/4B1q1/2PQ2P1/P1P2P1P/R4RK1 w - - 0 16,Queen in worthless spot for rest of game.
+31,f3,f2f3,r1b2rk1/pp4p1/2p1pp1p/4P3/4B1q1/2PQ1PP1/P1P4P/R4RK1 b - - 0 16,Queen in worthless spot for rest of game.
+32,Qh3,g4h3,r1b2rk1/pp4p1/2p1pp1p/4P3/4B3/2PQ1PPq/P1P4P/R4RK1 w - - 1 17,Queen in worthless spot for rest of game.
+33,Qd6,d3d6,r1b2rk1/pp4p1/2pQpp1p/4P3/4B3/2P2PPq/P1P4P/R4RK1 b - - 2 17,Dumb move. Should of went f6xe5.
+34,Rf7,f8f7,r1b3k1/pp3rp1/2pQpp1p/4P3/4B3/2P2PPq/P1P4P/R4RK1 w - - 3 18,Dumb move. Should of went f6xe5.
+35,exf6,e5f6,r1b3k1/pp3rp1/2pQpP1p/8/4B3/2P2PPq/P1P4P/R4RK1 b - - 0 18,Moved queen back into line with bishop.
+36,Rxf6,f7f6,r1b3k1/pp4p1/2pQpr1p/8/4B3/2P2PPq/P1P4P/R4RK1 w - - 0 19,Moved queen back into line with bishop.
+37,Qd8+,d6d8,r1bQ2k1/pp4p1/2p1pr1p/8/4B3/2P2PPq/P1P4P/R4RK1 b - - 1 19,Moved queen back into line with bishop.
+38,Rf8,f6f8,r1bQ1rk1/pp4p1/2p1p2p/8/4B3/2P2PPq/P1P4P/R4RK1 w - - 2 20,Moved queen back into line with bishop.
+39,Qd3,d8d3,r1b2rk1/pp4p1/2p1p2p/8/4B3/2PQ1PPq/P1P4P/R4RK1 b - - 3 20,Moved queen back into line with bishop.
+40,e5,e6e5,r1b2rk1/pp4p1/2p4p/4p3/4B3/2PQ1PPq/P1P4P/R4RK1 w - - 0 21,Setting up control of d-f line of board.
+41,Rae1,a1e1,r1b2rk1/pp4p1/2p4p/4p3/4B3/2PQ1PPq/P1P4P/4RRK1 b - - 1 21,Setting up control of d-f line of board.
+42,Kf7,g8f7,r1b2r2/pp3kp1/2p4p/4p3/4B3/2PQ1PPq/P1P4P/4RRK1 w - - 2 22,Dumb move. should of moved queen to d7.
+43,f4,f3f4,r1b2r2/pp3kp1/2p4p/4p3/4BP2/2PQ2Pq/P1P4P/4RRK1 b - - 0 22,Rook exchange.
+44,exf4,e5f4,r1b2r2/pp3kp1/2p4p/8/4Bp2/2PQ2Pq/P1P4P/4RRK1 w - - 0 23,Rook exchange.
+45,Rxf4+,f1f4,r1b2r2/pp3kp1/2p4p/8/4BR2/2PQ2Pq/P1P4P/4R1K1 b - - 0 23,Rook exchange.
+46,Ke8,f7e8,r1b1kr2/pp4p1/2p4p/8/4BR2/2PQ2Pq/P1P4P/4R1K1 w - - 1 24,Rook exchange.
+47,Rxf8+,f4f8,r1b1kR2/pp4p1/2p4p/8/4B3/2PQ2Pq/P1P4P/4R1K1 b - - 0 24,Rook exchange.
+48,Kxf8,e8f8,r1b2k2/pp4p1/2p4p/8/4B3/2PQ2Pq/P1P4P/4R1K1 w - - 0 25,Jered's bishop line. Game over unless he moves the queen.
+49,Bh7,e4h7,r1b2k2/pp4pB/2p4p/8/8/2PQ2Pq/P1P4P/4R1K1 b - - 1 25,Jered's bishop line. Game over unless he moves the queen.
+50,Bg4,c8g4,r4k2/pp4pB/2p4p/8/6b1/2PQ2Pq/P1P4P/4R1K1 w - - 2 26,End Game.
+51,Qd6+,d3d6,r4k2/pp4pB/2pQ3p/8/6b1/2P3Pq/P1P4P/4R1K1 b - - 3 26,End Game.
+52,Kf7,f8f7,r7/pp3kpB/2pQ3p/8/6b1/2P3Pq/P1P4P/4R1K1 w - - 4 27,End Game.
+53,Qe7#,d6e7,r7/pp2QkpB/2p4p/8/6b1/2P3Pq/P1P4P/4R1K1 b - - 5 27,End Game.

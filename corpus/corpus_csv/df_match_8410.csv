@@ -1,0 +1,91 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nc3,b1c3,rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1,The first casualties
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/2N5/PPPPPPPP/R1BQKBNR w KQkq - 2 2,The first casualties
+3,Nf3,g1f3,r1bqkbnr/pppppppp/2n5/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 3 2,The first casualties
+4,Nf6,g8f6,r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3,The first casualties
+5,Ne5,f3e5,r1bqkb1r/pppppppp/2n2n2/4N3/8/2N5/PPPPPPPP/R1BQKB1R b KQkq - 5 3,The first casualties
+6,Ne4,f6e4,r1bqkb1r/pppppppp/2n5/4N3/4n3/2N5/PPPPPPPP/R1BQKB1R w KQkq - 6 4,The first casualties
+7,Nxc6,e5c6,r1bqkb1r/pppppppp/2N5/8/4n3/2N5/PPPPPPPP/R1BQKB1R b KQkq - 0 4,The first casualties
+8,Nxc3,e4c3,r1bqkb1r/pppppppp/2N5/8/8/2n5/PPPPPPPP/R1BQKB1R w KQkq - 0 5,The first casualties
+9,Nxd8,c6d8,r1bNkb1r/pppppppp/8/8/8/2n5/PPPPPPPP/R1BQKB1R b KQkq - 0 5,The first casualties
+10,Nxd1,c3d1,r1bNkb1r/pppppppp/8/8/8/8/PPPPPPPP/R1BnKB1R w KQkq - 0 6,The first casualties
+11,Kxd1,e1d1,r1bNkb1r/pppppppp/8/8/8/8/PPPPPPPP/R1BK1B1R b kq - 0 6,The first casualties
+12,Kxd8,e8d8,r1bk1b1r/pppppppp/8/8/8/8/PPPPPPPP/R1BK1B1R w - - 0 7,The first casualties
+13,e4,e2e4,r1bk1b1r/pppppppp/8/8/4P3/8/PPPP1PPP/R1BK1B1R b - - 0 7,The first casualties
+14,e5,e7e5,r1bk1b1r/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/R1BK1B1R w - - 0 8,The first casualties
+15,d3,d2d3,r1bk1b1r/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/R1BK1B1R b - - 0 8,The first casualties
+16,Bc5,f8c5,r1bk3r/pppp1ppp/8/2b1p3/4P3/3P4/PPP2PPP/R1BK1B1R w - - 1 9,The first casualties
+17,Be3,c1e3,r1bk3r/pppp1ppp/8/2b1p3/4P3/3PB3/PPP2PPP/R2K1B1R b - - 2 9,The first casualties
+18,Bxe3,c5e3,r1bk3r/pppp1ppp/8/4p3/4P3/3Pb3/PPP2PPP/R2K1B1R w - - 0 10,The first casualties
+19,fxe3,f2e3,r1bk3r/pppp1ppp/8/4p3/4P3/3PP3/PPP3PP/R2K1B1R b - - 0 10,The first casualties
+20,d6,d7d6,r1bk3r/ppp2ppp/3p4/4p3/4P3/3PP3/PPP3PP/R2K1B1R w - - 0 11,It's now down to the rooks
+21,d4,d3d4,r1bk3r/ppp2ppp/3p4/4p3/3PP3/4P3/PPP3PP/R2K1B1R b - - 0 11,It's now down to the rooks
+22,exd4,e5d4,r1bk3r/ppp2ppp/3p4/8/3pP3/4P3/PPP3PP/R2K1B1R w - - 0 12,It's now down to the rooks
+23,exd4,e3d4,r1bk3r/ppp2ppp/3p4/8/3PP3/8/PPP3PP/R2K1B1R b - - 0 12,It's now down to the rooks
+24,Bg4+,c8g4,r2k3r/ppp2ppp/3p4/8/3PP1b1/8/PPP3PP/R2K1B1R w - - 1 13,It's now down to the rooks
+25,Be2,f1e2,r2k3r/ppp2ppp/3p4/8/3PP1b1/8/PPP1B1PP/R2K3R b - - 2 13,It's now down to the rooks
+26,Bxe2+,g4e2,r2k3r/ppp2ppp/3p4/8/3PP3/8/PPP1b1PP/R2K3R w - - 0 14,It's now down to the rooks
+27,Kxe2,d1e2,r2k3r/ppp2ppp/3p4/8/3PP3/8/PPP1K1PP/R6R b - - 0 14,It's now down to the rooks
+28,Kd7,d8d7,r6r/pppk1ppp/3p4/8/3PP3/8/PPP1K1PP/R6R w - - 1 15,I gain a slight advantage here
+29,a4,a2a4,r6r/pppk1ppp/3p4/8/P2PP3/8/1PP1K1PP/R6R b - - 0 15,I gain a slight advantage here
+30,c5,c7c5,r6r/pp1k1ppp/3p4/2p5/P2PP3/8/1PP1K1PP/R6R w - - 0 16,I gain a slight advantage here
+31,dxc5,d4c5,r6r/pp1k1ppp/3p4/2P5/P3P3/8/1PP1K1PP/R6R b - - 0 16,I gain a slight advantage here
+32,dxc5,d6c5,r6r/pp1k1ppp/8/2p5/P3P3/8/1PP1K1PP/R6R w - - 0 17,I gain a slight advantage here
+33,c4,c2c4,r6r/pp1k1ppp/8/2p5/P1P1P3/8/1P2K1PP/R6R b - - 0 17,I gain a slight advantage here
+34,Rae8,a8e8,4r2r/pp1k1ppp/8/2p5/P1P1P3/8/1P2K1PP/R6R w - - 1 18,I gain a slight advantage here
+35,Ke3,e2e3,4r2r/pp1k1ppp/8/2p5/P1P1P3/4K3/1P4PP/R6R b - - 2 18,I gain a slight advantage here
+36,f5,f7f5,4r2r/pp1k2pp/8/2p2p2/P1P1P3/4K3/1P4PP/R6R w - - 0 19,I gain a slight advantage here
+37,Rad1+,a1d1,4r2r/pp1k2pp/8/2p2p2/P1P1P3/4K3/1P4PP/3R3R b - - 1 19,I gain a slight advantage here
+38,Kc6,d7c6,4r2r/pp4pp/2k5/2p2p2/P1P1P3/4K3/1P4PP/3R3R w - - 2 20,I gain a slight advantage here
+39,Kf4,e3f4,4r2r/pp4pp/2k5/2p2p2/P1P1PK2/8/1P4PP/3R3R b - - 3 20,I gain a slight advantage here
+40,fxe4,f5e4,4r2r/pp4pp/2k5/2p5/P1P1pK2/8/1P4PP/3R3R w - - 0 21,I gain a slight advantage here
+41,Rhe1,h1e1,4r2r/pp4pp/2k5/2p5/P1P1pK2/8/1P4PP/3RR3 b - - 1 21,Time to cover
+42,Rhf8+,h8f8,4rr2/pp4pp/2k5/2p5/P1P1pK2/8/1P4PP/3RR3 w - - 2 22,Time to cover
+43,Ke3,f4e3,4rr2/pp4pp/2k5/2p5/P1P1p3/4K3/1P4PP/3RR3 b - - 3 22,Time to cover
+44,a6,a7a6,4rr2/1p4pp/p1k5/2p5/P1P1p3/4K3/1P4PP/3RR3 w - - 0 23,Time to cover
+45,Rd2,d1d2,4rr2/1p4pp/p1k5/2p5/P1P1p3/4K3/1P1R2PP/4R3 b - - 1 23,Time to cover
+46,b5,b7b5,4rr2/6pp/p1k5/1pp5/P1P1p3/4K3/1P1R2PP/4R3 w - - 0 24,Time to cover
+47,cxb5+,c4b5,4rr2/6pp/p1k5/1Pp5/P3p3/4K3/1P1R2PP/4R3 b - - 0 24,Time to cover
+48,axb5,a6b5,4rr2/6pp/2k5/1pp5/P3p3/4K3/1P1R2PP/4R3 w - - 0 25,Time to cover
+49,a5,a4a5,4rr2/6pp/2k5/Ppp5/4p3/4K3/1P1R2PP/4R3 b - - 0 25,Time to cover
+50,Rea8,e8a8,r4r2/6pp/2k5/Ppp5/4p3/4K3/1P1R2PP/4R3 w - - 1 26,Time to cover
+51,Ra1,e1a1,r4r2/6pp/2k5/Ppp5/4p3/4K3/1P1R2PP/R7 b - - 2 26,We've now both lost a rook
+52,Rfe8,f8e8,r3r3/6pp/2k5/Ppp5/4p3/4K3/1P1R2PP/R7 w - - 3 27,We've now both lost a rook
+53,b3,b2b3,r3r3/6pp/2k5/Ppp5/4p3/1P2K3/3R2PP/R7 b - - 0 27,We've now both lost a rook
+54,b4,b5b4,r3r3/6pp/2k5/P1p5/1p2p3/1P2K3/3R2PP/R7 w - - 0 28,We've now both lost a rook
+55,g4,g2g4,r3r3/6pp/2k5/P1p5/1p2p1P1/1P2K3/3R3P/R7 b - - 0 28,We've now both lost a rook
+56,Kb5,c6b5,r3r3/6pp/8/Pkp5/1p2p1P1/1P2K3/3R3P/R7 w - - 1 29,We've now both lost a rook
+57,Rd5,d2d5,r3r3/6pp/8/PkpR4/1p2p1P1/1P2K3/7P/R7 b - - 2 29,We've now both lost a rook
+58,Rxa5,a8a5,4r3/6pp/8/rkpR4/1p2p1P1/1P2K3/7P/R7 w - - 0 30,We've now both lost a rook
+59,Rxa5+,a1a5,4r3/6pp/8/RkpR4/1p2p1P1/1P2K3/7P/8 b - - 0 30,We've now both lost a rook
+60,Kxa5,b5a5,4r3/6pp/8/k1pR4/1p2p1P1/1P2K3/7P/8 w - - 0 31,We've now both lost a rook
+61,Rxc5+,d5c5,4r3/6pp/8/k1R5/1p2p1P1/1P2K3/7P/8 b - - 0 31,"It's even once again, though my pawn is further forward"
+62,Kb6,a5b6,4r3/6pp/1k6/2R5/1p2p1P1/1P2K3/7P/8 w - - 1 32,"It's even once again, though my pawn is further forward"
+63,Rc4,c5c4,4r3/6pp/1k6/8/1pR1p1P1/1P2K3/7P/8 b - - 2 32,"It's even once again, though my pawn is further forward"
+64,g6,g7g6,4r3/7p/1k4p1/8/1pR1p1P1/1P2K3/7P/8 w - - 0 33,"It's even once again, though my pawn is further forward"
+65,h4,h2h4,4r3/7p/1k4p1/8/1pR1p1PP/1P2K3/8/8 b - - 0 33,"It's even once again, though my pawn is further forward"
+66,Kb5,b6b5,4r3/7p/6p1/1k6/1pR1p1PP/1P2K3/8/8 w - - 1 34,"It's even once again, though my pawn is further forward"
+67,g5,g4g5,4r3/7p/6p1/1k4P1/1pR1p2P/1P2K3/8/8 b - - 0 34,"It's even once again, though my pawn is further forward"
+68,Ra8,e8a8,r7/7p/6p1/1k4P1/1pR1p2P/1P2K3/8/8 w - - 1 35,"It's even once again, though my pawn is further forward"
+69,Kxe4,e3e4,r7/7p/6p1/1k4P1/1pR1K2P/1P6/8/8 b - - 0 35,"It's even once again, though my pawn is further forward"
+70,Ra3,a8a3,8/7p/6p1/1k4P1/1pR1K2P/rP6/8/8 w - - 1 36,"It's even once again, though my pawn is further forward"
+71,Rc7,c4c7,8/2R4p/6p1/1k4P1/1p2K2P/rP6/8/8 b - - 2 36,"It's even once again, though my pawn is further forward"
+72,Rxb3,a3b3,8/2R4p/6p1/1k4P1/1p2K2P/1r6/8/8 w - - 0 37,"It's even once again, though my pawn is further forward"
+73,Rxh7,c7h7,8/7R/6p1/1k4P1/1p2K2P/1r6/8/8 b - - 0 37,"It's even once again, though my pawn is further forward"
+74,Rh3,b3h3,8/7R/6p1/1k4P1/1p2K2P/7r/8/8 w - - 1 38,"It's even once again, though my pawn is further forward"
+75,Kf4,e4f4,8/7R/6p1/1k4P1/1p3K1P/7r/8/8 b - - 2 38,"It's even once again, though my pawn is further forward"
+76,b3,b4b3,8/7R/6p1/1k4P1/5K1P/1p5r/8/8 w - - 0 39,"It's even once again, though my pawn is further forward"
+77,Kg4,f4g4,8/7R/6p1/1k4P1/6KP/1p5r/8/8 b - - 1 39,"It's even once again, though my pawn is further forward"
+78,Rc3,h3c3,8/7R/6p1/1k4P1/6KP/1pr5/8/8 w - - 2 40,"It's even once again, though my pawn is further forward"
+79,h5,h4h5,8/7R/6p1/1k4PP/6K1/1pr5/8/8 b - - 0 40,"It's even once again, though my pawn is further forward"
+80,gxh5+,g6h5,8/7R/8/1k4Pp/6K1/1pr5/8/8 w - - 0 41,"It's even once again, though my pawn is further forward"
+81,Rxh5,h7h5,8/8/8/1k4PR/6K1/1pr5/8/8 b - - 0 41,"It's even once again, though my pawn is further forward"
+82,b2,b3b2,8/8/8/1k4PR/6K1/2r5/1p6/8 w - - 0 42,I go for the blocking move
+83,g6+,g5g6,8/8/6P1/1k5R/6K1/2r5/1p6/8 b - - 0 42,I go for the blocking move
+84,Rc5,c3c5,8/8/6P1/1kr4R/6K1/8/1p6/8 w - - 1 43,I go for the blocking move
+85,g7,g6g7,8/6P1/8/1kr4R/6K1/8/1p6/8 b - - 0 43,My pawn wins the race
+86,b1=Q,b2b1q,8/6P1/8/1kr4R/6K1/8/8/1q6 w - - 0 44,My pawn wins the race
+87,Kh4,g4h4,8/6P1/8/1kr4R/7K/8/8/1q6 b - - 1 44,I can afford to exchange rooks
+88,Rxh5+,c5h5,8/6P1/8/1k5r/7K/8/8/1q6 w - - 0 45,I can afford to exchange rooks
+89,Kxh5,h4h5,8/6P1/8/1k5K/8/8/8/1q6 b - - 0 45,I can afford to exchange rooks
+90,Qh7+,b1h7,8/6Pq/8/1k5K/8/8/8/8 w - - 1 46,

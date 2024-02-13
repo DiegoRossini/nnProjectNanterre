@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White starts with the King Pawn opening (1 e4)...
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,...and black responds with the Alekhine defense (1 ... Nf6).
+3,Bd3,f1d3,rnbqkb1r/pppppppp/5n2/8/4P3/3B4/PPPP1PPP/RNBQK1NR b KQkq - 2 2,"This move is not considered a GK opening, but was in the db with 2 ... Nc6 as a 100% win for black (2 ... d6 has equal results including draw chances, and 2 ... e5 wins for black 63% of the time, with 27% win for white and 9% draw)..."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/4P3/3B4/PPPP1PPP/RNBQK1NR w KQkq - 0 3,...but this black move was not in the db.
+5,e5,e4e5,rnbqkb1r/ppp1pppp/5n2/3pP3/8/3B4/PPPP1PPP/RNBQK1NR b KQkq - 0 3,Bringing the KN closer to white's kingside while also attacking e5
+6,Ng4,f6g4,rnbqkb1r/ppp1pppp/8/3pP3/6n1/3B4/PPPP1PPP/RNBQK1NR w KQkq - 1 4,Bringing the KN closer to white's kingside while also attacking e5
+7,f4,f2f4,rnbqkb1r/ppp1pppp/8/3pP3/5Pn1/3B4/PPPP2PP/RNBQK1NR b KQkq - 0 4,Pawn push supports e5
+8,Nc6,b8c6,r1bqkb1r/ppp1pppp/2n5/3pP3/5Pn1/3B4/PPPP2PP/RNBQK1NR w KQkq - 1 5,Other N development
+9,h3,h2h3,r1bqkb1r/ppp1pppp/2n5/3pP3/5Pn1/3B3P/PPPP2P1/RNBQK1NR b KQkq - 0 5,Harasses the KN
+10,Nh6,g4h6,r1bqkb1r/ppp1pppp/2n4n/3pP3/5P2/3B3P/PPPP2P1/RNBQK1NR w KQkq - 1 6,"White, seriously? Playing this four moves ago would have given you more tempo."
+11,Bb5,d3b5,r1bqkb1r/ppp1pppp/2n4n/1B1pP3/5P2/7P/PPPP2P1/RNBQK1NR b KQkq - 2 6,"White, seriously? Playing this four moves ago would have given you more tempo."
+12,e6,e7e6,r1bqkb1r/ppp2ppp/2n1p2n/1B1pP3/5P2/7P/PPPP2P1/RNBQK1NR w KQkq - 0 7,Allows development of the KB
+13,Qh5,d1h5,r1bqkb1r/ppp2ppp/2n1p2n/1B1pP2Q/5P2/7P/PPPP2P1/RNB1K1NR b KQkq - 1 7,Bringing the Q out now...
+14,g6,g7g6,r1bqkb1r/ppp2p1p/2n1p1pn/1B1pP2Q/5P2/7P/PPPP2P1/RNB1K1NR w KQkq - 0 8,...only to be harassed by this...
+15,Qg5,h5g5,r1bqkb1r/ppp2p1p/2n1p1pn/1B1pP1Q1/5P2/7P/PPPP2P1/RNB1K1NR b KQkq - 1 8,...but white wants a queen trade.
+16,Qxg5,d8g5,r1b1kb1r/ppp2p1p/2n1p1pn/1B1pP1q1/5P2/7P/PPPP2P1/RNB1K1NR w KQkq - 0 9,Queen trade occurs now
+17,fxg5,f4g5,r1b1kb1r/ppp2p1p/2n1p1pn/1B1pP1P1/8/7P/PPPP2P1/RNB1K1NR b KQkq - 0 9,Queen trade occurs now
+18,Nf5,h6f5,r1b1kb1r/ppp2p1p/2n1p1p1/1B1pPnP1/8/7P/PPPP2P1/RNB1K1NR w KQkq - 1 10,"According to black, this is a good outpost for the KN"
+19,Ba4,b5a4,r1b1kb1r/ppp2p1p/2n1p1p1/3pPnP1/B7/7P/PPPP2P1/RNB1K1NR b KQkq - 2 10,Prevents harassment by ... a6
+20,Ng3,f5g3,r1b1kb1r/ppp2p1p/2n1p1p1/3pP1P1/B7/6nP/PPPP2P1/RNB1K1NR w KQkq - 3 11,"Now targeting the h1 rook, what does white do, move it or sac it?"
+21,Rh2,h1h2,r1b1kb1r/ppp2p1p/2n1p1p1/3pP1P1/B7/6nP/PPPP2PR/RNB1K1N1 b Qkq - 4 11,White decides to move it
+22,Bd7,c8d7,r3kb1r/pppb1p1p/2n1p1p1/3pP1P1/B7/6nP/PPPP2PR/RNB1K1N1 w Qkq - 5 12,Allowing a Q-side castle
+23,Ne2,g1e2,r3kb1r/pppb1p1p/2n1p1p1/3pP1P1/B7/6nP/PPPPN1PR/RNB1K3 b Qkq - 6 12,And now a N trade?

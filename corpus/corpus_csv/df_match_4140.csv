@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The first move is d4, which controls c5 and e5."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Black counters, preventing e4 unless white wants to play a gambit."
+3,c3,c2c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2P5/PP2PPPP/RNBQKBNR b KQkq - 0 2,"This is not as agressive as c4 or e4, but white gets a solid center and takes black out of the opening books."
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3p1b2/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 1 3,"Probably not the best move in the position.  Black is not quite sure where the bishop is best placed, and b7 is weak.  Those two points are the reason behind my next move."
+5,g4,g2g4,rn1qkbnr/ppp1pppp/8/3p1b2/3P2P1/2P5/PP2PP1P/RNBQKBNR b KQkq - 0 3,"This appears to be my invention, as I have not been able to find it on any databases.  Black will most likely take the pawn, and will lose a tempo."
+6,Bxg4,f5g4,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2P5/PP2PP1P/RNBQKBNR w KQkq - 0 4,"There is no reason why black should decline the pawn.  In some cases, white can simply get a better form of the gambit.  For example: 3...Bd7 4.Bf4 Bxg4 and white is a tempo ahead of the regular line."
+7,Bh3,f1h3,rn1qkbnr/ppp1pppp/8/3p4/3P2b1/2P4B/PP2PP1P/RNBQK1NR b KQkq - 1 4,"White now tries to exchange the light squared bishops, making the b7 square even weaker."
+8,Bh5,g4h5,rn1qkbnr/ppp1pppp/8/3p3b/3P4/2P4B/PP2PP1P/RNBQK1NR w KQkq - 2 5,"This is a strange move, as black, up a pawn, would like to trade down.  On the plus side, the e pawn is pinned and the g1 knight is dicouraged from moving to f3."
+9,Qb3,d1b3,rn1qkbnr/ppp1pppp/8/3p3b/3P4/1QP4B/PP2PP1P/RNB1K1NR b KQkq - 3 5,"Attacking the weak b7 pawn.  Bf4 might be better, as the two white bishops are ready to attack on the queenside."
+10,b6,b7b6,rn1qkbnr/p1p1pppp/1p6/3p3b/3P4/1QP4B/PP2PP1P/RNB1K1NR w KQkq - 0 6,Pretty much forced unless black wants to lose a lot of material.  Now white should play Bf4 and wait for black to make a mistake.  For example: 6.Bf4 c5?? 7.Bxb8! Qxb8 8.Qb5+ Kd8 9.Qd7#
+11,Qb5+,b3b5,rn1qkbnr/p1p1pppp/1p6/1Q1p3b/3P4/2P4B/PP2PP1P/RNB1K1NR b KQkq - 1 6,"But this move is weak, as black can win tempi because of the premature queen attack.  Bf4 is better."
+12,c6,c7c6,rn1qkbnr/p3pppp/1pp5/1Q1p3b/3P4/2P4B/PP2PP1P/RNB1K1NR w KQkq - 0 7,Now the white queen loses a tempo.
+13,Qa4,b5a4,rn1qkbnr/p3pppp/1pp5/3p3b/Q2P4/2P4B/PP2PP1P/RNB1K1NR b KQkq - 1 7,Trying to keep the queen on the a4-e8 diagonal.
+14,b5,b6b5,rn1qkbnr/p3pppp/2p5/1p1p3b/Q2P4/2P4B/PP2PP1P/RNB1K1NR w KQkq - 0 8,"This move is not great, as the pawn structure is weakened and c5 becomes an outpost for a knight."
+15,Qb3,a4b3,rn1qkbnr/p3pppp/2p5/1p1p3b/3P4/1QP4B/PP2PP1P/RNB1K1NR b KQkq - 1 8,The queen retreats and continues to put pressure on the b5 and d5 pawns.
+16,e6,e7e6,rn1qkbnr/p4ppp/2p1p3/1p1p3b/3P4/1QP4B/PP2PP1P/RNB1K1NR w KQkq - 0 9,"Black now plans to develop the dark square bishop.  Nf6 might have been better, as it controls the e4 square."
+17,Bf4,c1f4,rn1qkbnr/p4ppp/2p1p3/1p1p3b/3P1B2/1QP4B/PP2PP1P/RN2K1NR b KQkq - 1 9,The bishop develops to f4 and eyes the b8 knight.  Now the b1 knight can come to d2 and support an e4 push.
+18,Nf6,g8f6,rn1qkb1r/p4ppp/2p1pn2/1p1p3b/3P1B2/1QP4B/PP2PP1P/RN2K1NR w KQkq - 2 10,The knight comes out to f6 and guards the e4 square.
+19,Bg5,f4g5,rn1qkb1r/p4ppp/2p1pn2/1p1p2Bb/3P4/1QP4B/PP2PP1P/RN2K1NR b KQkq - 3 10,"This probably wasn't the best move, as it loses a tempo.  Better is Nd2."
+20,h6,h7h6,rn1qkb1r/p4pp1/2p1pn1p/1p1p2Bb/3P4/1QP4B/PP2PP1P/RN2K1NR w KQkq - 0 11,"Be7 is slightly better, but h6 is just fine."

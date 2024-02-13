@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Do not let pawn, but white can move knight Kc3."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Do not let pawn, but white can move knight Kc3."
+3,c3,c2c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"Do not let pawn, but white can move knight Kc3."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 3,"Well, I move another pawn."
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3Pp3/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3,"pawn attach my pawn, but the next Qxd5"
+6,Qxd5,d8d5,rnb1kbnr/ppp2ppp/8/3qp3/8/2P5/PP1P1PPP/RNBQKBNR w KQkq - 0 4,"because I will plan to open the queen to attach you.
+
+The white cause a weak and fear."
+7,b3,b2b3,rnb1kbnr/ppp2ppp/8/3qp3/8/1PP5/P2P1PPP/RNBQKBNR b KQkq - 0 4,I plan to Bf5
+8,Bf5,c8f5,rn2kbnr/ppp2ppp/8/3qpb2/8/1PP5/P2P1PPP/RNBQKBNR w KQkq - 1 5,I plan to Bf5
+9,c4,c3c4,rn2kbnr/ppp2ppp/8/3qpb2/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq - 0 5,"White try to protect to attach my queen, but..."
+10,Qd4,d5d4,rn2kbnr/ppp2ppp/8/4pb2/2Pq4/1P6/P2P1PPP/RNBQKBNR w KQkq - 1 6,I move away.
+11,Qe2,d1e2,rn2kbnr/ppp2ppp/8/4pb2/2Pq4/1P6/P2PQPPP/RNB1KBNR b KQkq - 2 6,where is knight move?  Nobody want to move. :(
+12,Qxa1,d4a1,rn2kbnr/ppp2ppp/8/4pb2/2P5/1P6/P2PQPPP/qNB1KBNR w Kkq - 0 7,"well, my queen attack the root (Qxa1)!"
+13,f4,f2f4,rn2kbnr/ppp2ppp/8/4pb2/2P2P2/1P6/P2PQ1PP/qNB1KBNR b Kkq - 0 7,"Now, I decide to move my knight will help and real strong move."
+14,Nd7,b8d7,r3kbnr/pppn1ppp/8/4pb2/2P2P2/1P6/P2PQ1PP/qNB1KBNR w Kkq - 1 8,"Now, I decide to move my knight will help and real strong move."
+15,Nf3,g1f3,r3kbnr/pppn1ppp/8/4pb2/2P2P2/1P3N2/P2PQ1PP/qNB1KB1R b Kkq - 2 8,Finally!  Knight plan to move.
+16,Qxb1,a1b1,r3kbnr/pppn1ppp/8/4pb2/2P2P2/1P3N2/P2PQ1PP/1qB1KB1R w Kkq - 0 9,"Too bad, there are no protect.  Well I attach the white.  There no defend at all..."
+17,fxe5,f4e5,r3kbnr/pppn1ppp/8/4Pb2/2P5/1P3N2/P2PQ1PP/1qB1KB1R b Kkq - 0 9,white try and try to protect without the black queen.  But it not gonna it.
+18,Nc5,d7c5,r3kbnr/ppp2ppp/8/2n1Pb2/2P5/1P3N2/P2PQ1PP/1qB1KB1R w Kkq - 1 10,white try and try to protect without the black queen.  But it not gonna it.
+19,Kf2,e1f2,r3kbnr/ppp2ppp/8/2n1Pb2/2P5/1P3N2/P2PQKPP/1qB2B1R b kq - 2 10,White King decide try to keep away from the black queen.
+20,Nd3+,c5d3,r3kbnr/ppp2ppp/8/4Pb2/2P5/1P1n1N2/P2PQKPP/1qB2B1R w kq - 3 11,"but, you see black knight move, because the knight is very strong move and attach them."
+21,Kg3,f2g3,r3kbnr/ppp2ppp/8/4Pb2/2P5/1P1n1NK1/P2PQ1PP/1qB2B1R b kq - 4 11,I attach next Nxc1
+22,Bc5,f8c5,r3k1nr/ppp2ppp/8/2b1Pb2/2P5/1P1n1NK1/P2PQ1PP/1qB2B1R w kq - 5 12,I attach next Nxc1
+23,h3,h2h3,r3k1nr/ppp2ppp/8/2b1Pb2/2P5/1P1n1NKP/P2PQ1P1/1qB2B1R b kq - 0 12,I attach next Nxc1
+24,Nxc1,d3c1,r3k1nr/ppp2ppp/8/2b1Pb2/2P5/1P3NKP/P2PQ1P1/1qn2B1R w kq - 0 13,"because your white queen forgot to defend my knight?  Well, too late!"
+25,Qe1,e2e1,r3k1nr/ppp2ppp/8/2b1Pb2/2P5/1P3NKP/P2P2P1/1qn1QB1R b kq - 1 13,"White try to move Be2, but I attach my black knight to Nxe2"
+26,Rd8,a8d8,3rk1nr/ppp2ppp/8/2b1Pb2/2P5/1P3NKP/P2P2P1/1qn1QB1R w k - 2 14,"White try to move Be2, but I attach my black knight to Nxe2"
+27,Be2,f1e2,3rk1nr/ppp2ppp/8/2b1Pb2/2P5/1P3NKP/P2PB1P1/1qn1Q2R b k - 3 14,"White try to move Be2, but I attach my black knight to Nxe2"
+28,Nxe2+,c1e2,3rk1nr/ppp2ppp/8/2b1Pb2/2P5/1P3NKP/P2Pn1P1/1q2Q2R w k - 0 15,The king try to move away when it will happen attach.
+29,Kh4,g3h4,3rk1nr/ppp2ppp/8/2b1Pb2/2P4K/1P3N1P/P2Pn1P1/1q2Q2R b k - 1 15,The king try to move away when it will happen attach.
+30,Qe4+,b1e4,3rk1nr/ppp2ppp/8/2b1Pb2/2P1q2K/1P3N1P/P2Pn1P1/4Q2R w k - 2 16,"they real fear and try to move away, but it will get often often often, white will lost it.  You better watch and where you want to move and make sure no defend happen."
+31,Kg5,h4g5,3rk1nr/ppp2ppp/8/2b1PbK1/2P1q3/1P3N1P/P2Pn1P1/4Q2R b k - 3 16,"they real fear and try to move away, but it will get often often often, white will lost it.  You better watch and where you want to move and make sure no defend happen."
+32,Be7+,c5e7,3rk1nr/ppp1bppp/8/4PbK1/2P1q3/1P3N1P/P2Pn1P1/4Q2R w k - 4 17,"they real fear and try to move away, but it will get often often often, white will lost it.  You better watch and where you want to move and make sure no defend happen."

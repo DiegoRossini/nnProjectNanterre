@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Four Knights opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Four Knights opening
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Four Knights opening
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Four Knights opening
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Four Knights opening
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Four Knights opening
+7,Bd3,f1d3,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2NB1N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"My opponent decides to go off the book with a very unusual and I would say weak move: it blocks the dark squared bishop and hinders Queen's mobility. The LSB does not do much here either. Both DSB and the Queen would be passive for the rest of the game. More natural would be Bc4, Bd5 or d4."
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/2NB1N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,Makes some room for the White's DSB and attacks Black's DSB.
+9,O-O,e1g1,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/2NB1N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5,Makes some room for the White's DSB and attacks Black's DSB.
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/4P3/2NB1N2/PPPP1PPP/R1BQ1RK1 w - - 8 6,Makes some room for the White's DSB and attacks Black's DSB.
+11,a3,a2a3,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/4P3/P1NB1N2/1PPP1PPP/R1BQ1RK1 b - - 0 6,Makes some room for the White's DSB and attacks Black's DSB.
+12,d6,d7d6,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/4P3/P1NB1N2/1PPP1PPP/R1BQ1RK1 w - - 0 7,Makes some room for the White's DSB and attacks Black's DSB.
+13,b4,b2b4,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/1P2P3/P1NB1N2/2PP1PPP/R1BQ1RK1 b - - 0 7,Makes some room for the White's DSB and attacks Black's DSB.
+14,Bb6,c5b6,r1bq1rk1/ppp2ppp/1bnp1n2/4p3/1P2P3/P1NB1N2/2PP1PPP/R1BQ1RK1 w - - 1 8,"I decide to challenge the Knight Nf3, but probably it would be better to first go with Bg4."
+15,Bb2,c1b2,r1bq1rk1/ppp2ppp/1bnp1n2/4p3/1P2P3/P1NB1N2/1BPP1PPP/R2Q1RK1 b - - 2 8,"I decide to challenge the Knight Nf3, but probably it would be better to first go with Bg4."
+16,Nd4,c6d4,r1bq1rk1/ppp2ppp/1b1p1n2/4p3/1P1nP3/P1NB1N2/1BPP1PPP/R2Q1RK1 w - - 3 9,"I decide to challenge the Knight Nf3, but probably it would be better to first go with Bg4."
+17,Nxd4,f3d4,r1bq1rk1/ppp2ppp/1b1p1n2/4p3/1P1NP3/P1NB4/1BPP1PPP/R2Q1RK1 b - - 0 9,White prepares to move his Knight.
+18,Bxd4,b6d4,r1bq1rk1/ppp2ppp/3p1n2/4p3/1P1bP3/P1NB4/1BPP1PPP/R2Q1RK1 w - - 0 10,White prepares to move his Knight.
+19,Rb1,a1b1,r1bq1rk1/ppp2ppp/3p1n2/4p3/1P1bP3/P1NB4/1BPP1PPP/1R1Q1RK1 b - - 1 10,White prepares to move his Knight.
+20,c6,c7c6,r1bq1rk1/pp3ppp/2pp1n2/4p3/1P1bP3/P1NB4/1BPP1PPP/1R1Q1RK1 w - - 0 11,Blocking Nd5 and Nb5.
+21,Ne2,c3e2,r1bq1rk1/pp3ppp/2pp1n2/4p3/1P1bP3/P2B4/1BPPNPPP/1R1Q1RK1 b - - 1 11,I do not want to exchange this Bishop because it is on the strong diagonal.
+22,Bb6,d4b6,r1bq1rk1/pp3ppp/1bpp1n2/4p3/1P2P3/P2B4/1BPPNPPP/1R1Q1RK1 w - - 2 12,I do not want to exchange this Bishop because it is on the strong diagonal.
+23,c4,c2c4,r1bq1rk1/pp3ppp/1bpp1n2/4p3/1PP1P3/P2B4/1B1PNPPP/1R1Q1RK1 b - - 0 12,A pawn push to free some space on the Queenside.
+24,c5,c6c5,r1bq1rk1/pp3ppp/1b1p1n2/2p1p3/1PP1P3/P2B4/1B1PNPPP/1R1Q1RK1 w - - 0 13,"Not the best move, because now I am closing the a7-g1 diagonal. Better would probably be Ng4 followed by f5."
+25,b5,b4b5,r1bq1rk1/pp3ppp/1b1p1n2/1Pp1p3/2P1P3/P2B4/1B1PNPPP/1R1Q1RK1 b - - 0 13,My opponent reasonably decides not to open the diagonal for my Bishop.
+26,a6,a7a6,r1bq1rk1/1p3ppp/pb1p1n2/1Pp1p3/2P1P3/P2B4/1B1PNPPP/1R1Q1RK1 w - - 0 14,A proposal to open a-file for my rook..
+27,a4,a3a4,r1bq1rk1/1p3ppp/pb1p1n2/1Pp1p3/P1P1P3/3B4/1B1PNPPP/1R1Q1RK1 b - - 0 14,Now that the Q-side is almost closed I finally decide to attack on the K-side. The intention is to go with f5 exf5 Bxf5.
+28,Ng4,f6g4,r1bq1rk1/1p3ppp/pb1p4/1Pp1p3/P1P1P1n1/3B4/1B1PNPPP/1R1Q1RK1 w - - 1 15,Now that the Q-side is almost closed I finally decide to attack on the K-side. The intention is to go with f5 exf5 Bxf5.
+29,h3,h2h3,r1bq1rk1/1p3ppp/pb1p4/1Pp1p3/P1P1P1n1/3B3P/1B1PNPP1/1R1Q1RK1 b - - 0 15,I still want to play f5.
+30,Nh6,g4h6,r1bq1rk1/1p3ppp/pb1p3n/1Pp1p3/P1P1P3/3B3P/1B1PNPP1/1R1Q1RK1 w - - 1 16,I still want to play f5.
+31,Ng3,e2g3,r1bq1rk1/1p3ppp/pb1p3n/1Pp1p3/P1P1P3/3B2NP/1B1P1PP1/1R1Q1RK1 b - - 2 16,"Brings another defendant for the f5 square, but I still have more. What can White do instead? Probably f3 or g4?"
+32,f5,f7f5,r1bq1rk1/1p4pp/pb1p3n/1Pp1pp2/P1P1P3/3B2NP/1B1P1PP1/1R1Q1RK1 w - - 0 17,Here it goes.
+33,exf5,e4f5,r1bq1rk1/1p4pp/pb1p3n/1Pp1pP2/P1P5/3B2NP/1B1P1PP1/1R1Q1RK1 b - - 0 17,Threatening with Bxf5 followed by Bxh7.
+34,Bxf5,c8f5,r2q1rk1/1p4pp/pb1p3n/1Pp1pb2/P1P5/3B2NP/1B1P1PP1/1R1Q1RK1 w - - 0 18,Threatening with Bxf5 followed by Bxh7.
+35,Nxf5,g3f5,r2q1rk1/1p4pp/pb1p3n/1Pp1pN2/P1P5/3B3P/1B1P1PP1/1R1Q1RK1 b - - 0 18,Threatening with Bxf5 followed by Bxh7.
+36,Nxf5,h6f5,r2q1rk1/1p4pp/pb1p4/1Pp1pn2/P1P5/3B3P/1B1P1PP1/1R1Q1RK1 w - - 0 19,Threatening with Bxf5 followed by Bxh7.
+37,Qh5,d1h5,r2q1rk1/1p4pp/pb1p4/1Pp1pn1Q/P1P5/3B3P/1B1P1PP1/1R3RK1 b - - 1 19,Threatening with Bxf5 followed by Bxh7.
+38,g6,g7g6,r2q1rk1/1p5p/pb1p2p1/1Pp1pn1Q/P1P5/3B3P/1B1P1PP1/1R3RK1 w - - 0 20,"The only sensible square to retreat. Another option would be Qf3, but it leaves a possibility of a discovered attack on the White Queen."
+39,Qe2,h5e2,r2q1rk1/1p5p/pb1p2p1/1Pp1pn2/P1P5/3B3P/1B1PQPP1/1R3RK1 b - - 1 20,"The only sensible square to retreat. Another option would be Qf3, but it leaves a possibility of a discovered attack on the White Queen."
+40,Qd7,d8d7,r4rk1/1p1q3p/pb1p2p1/1Pp1pn2/P1P5/3B3P/1B1PQPP1/1R3RK1 w - - 2 21,"I now want to start a pawn attack on the K-side, supported by two rooks."
+41,Be4,d3e4,r4rk1/1p1q3p/pb1p2p1/1Pp1pn2/P1P1B3/7P/1B1PQPP1/1R3RK1 b - - 3 21,White's LSB has now some space to breathe.
+42,Kg7,g8g7,r4r2/1p1q2kp/pb1p2p1/1Pp1pn2/P1P1B3/7P/1B1PQPP1/1R3RK1 w - - 4 22,Continuing my plan.

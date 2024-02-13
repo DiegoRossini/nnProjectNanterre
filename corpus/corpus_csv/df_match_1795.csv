@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The expected ""mistake""."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"The expected ""mistake""."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"The expected ""mistake""."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"The expected ""mistake""."
+5,Nf3,g1f3,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"The expected ""mistake""."
+6,c6,c7c6,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"The expected ""mistake""."
+7,c3,c2c3,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,"The expected ""mistake""."
+8,Bg4,c8g4,rn1qkb1r/pp2pppp/2p2n2/3p4/3P1Bb1/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 1 5,"The expected ""mistake""."
+9,Nbd2,b1d2,rn1qkb1r/pp2pppp/2p2n2/3p4/3P1Bb1/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 2 5,"The expected ""mistake""."
+10,e6,e7e6,rn1qkb1r/pp3ppp/2p1pn2/3p4/3P1Bb1/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 0 6,"The expected ""mistake""."
+11,h3,h2h3,rn1qkb1r/pp3ppp/2p1pn2/3p4/3P1Bb1/2P2N1P/PP1NPPP1/R2QKB1R b KQkq - 0 6,"The expected ""mistake""."
+12,Bh5,g4h5,rn1qkb1r/pp3ppp/2p1pn2/3p3b/3P1B2/2P2N1P/PP1NPPP1/R2QKB1R w KQkq - 1 7,"The expected ""mistake""."
+13,g4,g2g4,rn1qkb1r/pp3ppp/2p1pn2/3p3b/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R b KQkq - 0 7,"The expected ""mistake""."
+14,Bg6,h5g6,rn1qkb1r/pp3ppp/2p1pnb1/3p4/3P1BP1/2P2N1P/PP1NPP2/R2QKB1R w KQkq - 1 8,"The expected ""mistake""."
+15,e3,e2e3,rn1qkb1r/pp3ppp/2p1pnb1/3p4/3P1BP1/2P1PN1P/PP1N1P2/R2QKB1R b KQkq - 0 8,"The expected ""mistake""."
+16,Bd6,f8d6,rn1qk2r/pp3ppp/2pbpnb1/3p4/3P1BP1/2P1PN1P/PP1N1P2/R2QKB1R w KQkq - 1 9,"The expected ""mistake""."
+17,Ne5,f3e5,rn1qk2r/pp3ppp/2pbpnb1/3pN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R b KQkq - 2 9,"The expected ""mistake""."
+18,Qc7,d8c7,rn2k2r/ppq2ppp/2pbpnb1/3pN3/3P1BP1/2P1P2P/PP1N1P2/R2QKB1R w KQkq - 3 10,"The expected ""mistake""."
+19,h4,h3h4,rn2k2r/ppq2ppp/2pbpnb1/3pN3/3P1BPP/2P1P3/PP1N1P2/R2QKB1R b KQkq - 0 10,"The expected ""mistake""."
+20,h6,h7h6,rn2k2r/ppq2pp1/2pbpnbp/3pN3/3P1BPP/2P1P3/PP1N1P2/R2QKB1R w KQkq - 0 11,"The expected ""mistake""."
+21,Nxg6,e5g6,rn2k2r/ppq2pp1/2pbpnNp/3p4/3P1BPP/2P1P3/PP1N1P2/R2QKB1R b KQkq - 0 11,"Kf7 is to be considered. Even after Bd3, black can allow the bishop's penetration, but not the queen's."
+22,fxg6,f7g6,rn2k2r/ppq3p1/2pbpnpp/3p4/3P1BPP/2P1P3/PP1N1P2/R2QKB1R w KQkq - 0 12,"Kf7 is to be considered. Even after Bd3, black can allow the bishop's penetration, but not the queen's."
+23,Qc2,d1c2,rn2k2r/ppq3p1/2pbpnpp/3p4/3P1BPP/2P1P3/PPQN1P2/R3KB1R b KQkq - 1 12,"Kf7 is to be considered. Even after Bd3, black can allow the bishop's penetration, but not the queen's."
+24,O-O,e8g8,rn3rk1/ppq3p1/2pbpnpp/3p4/3P1BPP/2P1P3/PPQN1P2/R3KB1R w KQ - 2 13,Sealing his fate; castling into the enemy's fire.
+25,Bxd6,f4d6,rn3rk1/ppq3p1/2pBpnpp/3p4/3P2PP/2P1P3/PPQN1P2/R3KB1R b KQ - 0 13,I can't allow him to block the white diagonal.
+26,Qxd6,c7d6,rn3rk1/pp4p1/2pqpnpp/3p4/3P2PP/2P1P3/PPQN1P2/R3KB1R w KQ - 0 14,I can't allow him to block the white diagonal.
+27,Qxg6,c2g6,rn3rk1/pp4p1/2pqpnQp/3p4/3P2PP/2P1P3/PP1N1P2/R3KB1R b KQ - 0 14,I can't allow him to block the white diagonal.
+28,e5,e6e5,rn3rk1/pp4p1/2pq1nQp/3pp3/3P2PP/2P1P3/PP1N1P2/R3KB1R w KQ - 0 15,I can't allow him to block the white diagonal.
+29,dxe5,d4e5,rn3rk1/pp4p1/2pq1nQp/3pP3/6PP/2P1P3/PP1N1P2/R3KB1R b KQ - 0 15,I can't allow him to block the white diagonal.
+30,Qxe5,d6e5,rn3rk1/pp4p1/2p2nQp/3pq3/6PP/2P1P3/PP1N1P2/R3KB1R w KQ - 0 16,I don't fear the f2's weakness if I can generate more urgent danger.
+31,g5,g4g5,rn3rk1/pp4p1/2p2nQp/3pq1P1/7P/2P1P3/PP1N1P2/R3KB1R b KQ - 0 16,I don't fear the f2's weakness if I can generate more urgent danger.
+32,Ng4,f6g4,rn3rk1/pp4p1/2p3Qp/3pq1P1/6nP/2P1P3/PP1N1P2/R3KB1R w KQ - 1 17,I don't fear the f2's weakness if I can generate more urgent danger.
+33,Bd3,f1d3,rn3rk1/pp4p1/2p3Qp/3pq1P1/6nP/2PBP3/PP1N1P2/R3K2R b KQ - 2 17,The queen check is intended to block the rook's action.
+34,Nd7,b8d7,r4rk1/pp1n2p1/2p3Qp/3pq1P1/6nP/2PBP3/PP1N1P2/R3K2R w KQ - 3 18,The queen check is intended to block the rook's action.
+35,Qh7+,g6h7,r4rk1/pp1n2pQ/2p4p/3pq1P1/6nP/2PBP3/PP1N1P2/R3K2R b KQ - 4 18,The queen check is intended to block the rook's action.
+36,Kf7,g8f7,r4r2/pp1n1kpQ/2p4p/3pq1P1/6nP/2PBP3/PP1N1P2/R3K2R w KQ - 5 19,The queen check is intended to block the rook's action.
+37,Nf3,d2f3,r4r2/pp1n1kpQ/2p4p/3pq1P1/6nP/2PBPN2/PP3P2/R3K2R b KQ - 6 19,...so to get the knight into the game.
+38,Qe7,e5e7,r4r2/pp1nqkpQ/2p4p/3p2P1/6nP/2PBPN2/PP3P2/R3K2R w KQ - 7 20,"gxh6, with the idea of Nxh6, allowing Ng5+ is probably better than the text."
+39,Bg6+,d3g6,r4r2/pp1nqkpQ/2p3Bp/3p2P1/6nP/2P1PN2/PP3P2/R3K2R b KQ - 8 20,"Now, it was played as a plain mistake, I must admit it. But, in the hindsight, I think that RxB here would be deadly for black, e. g. 21... RxB, 22. Qg6+, Nd-f6 (forced: a piece has to block the check, being under the threat of the pawn). Follows Nd4+, and sooner or later black will lose more material."
+40,Ke6,f7e6,r4r2/pp1nq1pQ/2p1k1Bp/3p2P1/6nP/2P1PN2/PP3P2/R3K2R w KQ - 9 21,"Now, it was played as a plain mistake, I must admit it. But, in the hindsight, I think that RxB here would be deadly for black, e. g. 21... RxB, 22. Qg6+, Nd-f6 (forced: a piece has to block the check, being under the threat of the pawn). Follows Nd4+, and sooner or later black will lose more material."
+41,Bf5+,g6f5,r4r2/pp1nq1pQ/2p1k2p/3p1BP1/6nP/2P1PN2/PP3P2/R3K2R b KQ - 10 21,"Now, it was played as a plain mistake, I must admit it. But, in the hindsight, I think that RxB here would be deadly for black, e. g. 21... RxB, 22. Qg6+, Nd-f6 (forced: a piece has to block the check, being under the threat of the pawn). Follows Nd4+, and sooner or later black will lose more material."
+42,Kd6,e6d6,r4r2/pp1nq1pQ/2pk3p/3p1BP1/6nP/2P1PN2/PP3P2/R3K2R w KQ - 11 22,"Wisely or not, depending, black chooses the other way, plainsly losing..."
+43,Bxg4,f5g4,r4r2/pp1nq1pQ/2pk3p/3p2P1/6BP/2P1PN2/PP3P2/R3K2R b KQ - 0 22,"...a knight, while I am defending my loose knight on f3."
+44,Nc5,d7c5,r4r2/pp2q1pQ/2pk3p/2np2P1/6BP/2P1PN2/PP3P2/R3K2R w KQ - 1 23,"Black is not without resources, despite the piece."
+45,Qg6+,h7g6,r4r2/pp2q1p1/2pk2Qp/2np2P1/6BP/2P1PN2/PP3P2/R3K2R b KQ - 2 23,"Trying to make the queen come back into the game, but it's not so easy. I sensed gxh was a mistake, since black can have strong pressure on my weak kingside."
+46,Kc7,d6c7,r4r2/ppk1q1p1/2p3Qp/2np2P1/6BP/2P1PN2/PP3P2/R3K2R w KQ - 3 24,"Blockading d4. Black could have tried Rxf2 here, or at least considered the idea."
+47,Nd4,f3d4,r4r2/ppk1q1p1/2p3Qp/2np2P1/3N2BP/2P1P3/PP3P2/R3K2R b KQ - 4 24,"Blockading d4. Black could have tried Rxf2 here, or at least considered the idea."
+48,hxg5,h6g5,r4r2/ppk1q1p1/2p3Q1/2np2p1/3N2BP/2P1P3/PP3P2/R3K2R w KQ - 0 25,I have to keep black as closed as possible.
+49,hxg5,h4g5,r4r2/ppk1q1p1/2p3Q1/2np2P1/3N2B1/2P1P3/PP3P2/R3K2R b KQ - 0 25,I have to keep black as closed as possible.
+50,Rf7,f8f7,r7/ppk1qrp1/2p3Q1/2np2P1/3N2B1/2P1P3/PP3P2/R3K2R w KQ - 1 26,Wonderful bind on black's pieces.
+51,Nf5,d4f5,r7/ppk1qrp1/2p3Q1/2np1NP1/6B1/2P1P3/PP3P2/R3K2R b KQ - 2 26,Wonderful bind on black's pieces.
+52,Qf8,e7f8,r4q2/ppk2rp1/2p3Q1/2np1NP1/6B1/2P1P3/PP3P2/R3K2R w KQ - 3 27,"I don't dare to allow my e and f pawns to be attacked so easily. By playing o-o-o, I would have had the king far from them, forcing me to defend them with my pieces. Of course, it's a risky plan."
+53,Kd2,e1d2,r4q2/ppk2rp1/2p3Q1/2np1NP1/6B1/2P1P3/PP1K1P2/R6R b - - 4 27,"I don't dare to allow my e and f pawns to be attacked so easily. By playing o-o-o, I would have had the king far from them, forcing me to defend them with my pieces. Of course, it's a risky plan."
+54,Ne4+,c5e4,r4q2/ppk2rp1/2p3Q1/3p1NP1/4n1B1/2P1P3/PP1K1P2/R6R w - - 5 28,"Here, the black knight is almost useless, despite the good outpost. It would have been nice if black would have wanted to close the game, but it's the opposite. I won't play f3 now, since I can't allow any weakness to affect my pawns... and I feared Nxf2, for sure!"
+55,Ke2,d2e2,r4q2/ppk2rp1/2p3Q1/3p1NP1/4n1B1/2P1P3/PP2KP2/R6R b - - 6 28,"Here, the black knight is almost useless, despite the good outpost. It would have been nice if black would have wanted to close the game, but it's the opposite. I won't play f3 now, since I can't allow any weakness to affect my pawns... and I feared Nxf2, for sure!"
+56,Rd8,a8d8,3r1q2/ppk2rp1/2p3Q1/3p1NP1/4n1B1/2P1P3/PP2KP2/R6R w - - 7 29,"Not strong, but not bad."
+57,Rad1,a1d1,3r1q2/ppk2rp1/2p3Q1/3p1NP1/4n1B1/2P1P3/PP2KP2/3R3R b - - 8 29,"Not strong, but not bad."
+58,Nd6,e4d6,3r1q2/ppk2rp1/2pn2Q1/3p1NP1/6B1/2P1P3/PP2KP2/3R3R w - - 9 30,Exchanging pieces is not what I want: this is the easy way. I want to convert into advantage my piece's mobility and coordination.

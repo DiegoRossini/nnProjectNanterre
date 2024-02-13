@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,King's Indian Attack
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Black could have transposed by Nf6
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,King's Indian Attack with possibliity of Queen Gambit/Grunfeld Reverse
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Good supporting move and opening lines for Black's Kingside Bishop
+5,c4,c2c4,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 0 3,White is offering a gambit
+6,dxc4,d5c4,rnbqkbnr/ppp2ppp/4p3/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4,Blacks accepts the gambit which is Queen's Gambit/Accepted line c4 dxc4
+7,e3,e2e3,rnbqkbnr/ppp2ppp/4p3/8/2pP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,Varation. 4..b5 5.a4 c6 6.b3 Nf6 7.axb5 cxb5 8.bxc4 Nc6 9.cxb5
+8,b5,b7b5,rnbqkbnr/p1p2ppp/4p3/1p6/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,Black supports is flanking attack
+9,b3,b2b3,rnbqkbnr/p1p2ppp/4p3/1p6/2pP4/1P2PN2/P4PPP/RNBQKB1R b KQkq - 0 5,"Var. 5..cxb3 6.Bxb5 c6 7.Bc4 Bb4  8.Nbd2 Bc3 9.Rb1 bxa2 10.Bxa2 Ba6 11.Ba3
+White attacking c4 and trying to open the C file"
+10,Nf6,g8f6,rnbqkb1r/p1p2ppp/4pn2/1p6/2pP4/1P2PN2/P4PPP/RNBQKB1R w KQkq - 1 6,Developing move for Black
+11,bxc4,b3c4,rnbqkb1r/p1p2ppp/4pn2/1p6/2PP4/4PN2/P4PPP/RNBQKB1R b KQkq - 0 6,Threaten black pawn at b5. White wins a pawn. Material is even.
+12,b4,b5b4,rnbqkb1r/p1p2ppp/4pn2/8/1pPP4/4PN2/P4PPP/RNBQKB1R w KQkq - 0 7,Moves to safety and creates a passed pawn.
+13,Bd3,f1d3,rnbqkb1r/p1p2ppp/4pn2/8/1pPP4/3BPN2/P4PPP/RNBQK2R b KQkq - 1 7,a good developing move and takes hold of b1-h7.
+14,c5,c7c5,rnbqkb1r/p4ppp/4pn2/2p5/1pPP4/3BPN2/P4PPP/RNBQK2R w KQkq - 0 8,supports b4 and threatens d4
+15,O-O,e1g1,rnbqkb1r/p4ppp/4pn2/2p5/1pPP4/3BPN2/P4PPP/RNBQ1RK1 b kq - 1 8,Moves King to safety
+16,Bd6,f8d6,rnbqk2r/p4ppp/3bpn2/2p5/1pPP4/3BPN2/P4PPP/RNBQ1RK1 w kq - 2 9,Bishop supports c5 and attacks h2
+17,e4,e3e4,rnbqk2r/p4ppp/3bpn2/2p5/1pPPP3/3B1N2/P4PPP/RNBQ1RK1 b kq - 0 9,pushing e pawn and strenghtening the center and creating space.
+18,O-O,e8g8,rnbq1rk1/p4ppp/3bpn2/2p5/1pPPP3/3B1N2/P4PPP/RNBQ1RK1 w - - 1 10,Move Black King to safety. Better is e5 leads to the exchange which wins a knight and a pawn for a bishop and a pawn.
+19,e5,e4e5,rnbq1rk1/p4ppp/3bpn2/2p1P3/1pPP4/3B1N2/P4PPP/RNBQ1RK1 b - - 0 10,a good tactical move Forking Black Bishop and Knight
+20,Be7,d6e7,rnbq1rk1/p3bppp/4pn2/2p1P3/1pPP4/3B1N2/P4PPP/RNBQ1RK1 w - - 1 11,Better is Bd7  which leads to exchange 11.exd6 Qxd6 12.dxc5 Qc7 13.a3 Na6 14.Be3 b3 wins a pawn for a bishop and a pawn.

@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,this is going to be a quick one ...
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this is going to be a quick one ...
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,this is going to be a quick one ...
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,take on
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,open bishop line to pin the knight on g4
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,open bishop line to pin the knight on g4
+7,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4,changing plans :)
+8,Be6,c8e6,rn1qkbnr/ppp2ppp/3pb3/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 2 5,changing plans :)
+9,Bxe6,c4e6,rn1qkbnr/ppp2ppp/3pB3/8/4Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 0 5,trying to rebuild pawn structure
+10,fxe6,f7e6,rn1qkbnr/ppp3pp/3pp3/8/4Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 0 6,trying to rebuild pawn structure
+11,d4,d2d4,rn1qkbnr/ppp3pp/3pp3/8/3PPp2/5N2/PPP3PP/RNBQK2R b KQkq - 0 6,the opponent opposes that :)
+12,g5,g7g5,rn1qkbnr/ppp4p/3pp3/6p1/3PPp2/5N2/PPP3PP/RNBQK2R w KQkq - 0 7,a lot of pawn movement and no developing
+13,h4,h2h4,rn1qkbnr/ppp4p/3pp3/6p1/3PPp1P/5N2/PPP3P1/RNBQK2R b KQkq - 0 7,good  attack on my King side
+14,Be7,f8e7,rn1qk1nr/ppp1b2p/3pp3/6p1/3PPp1P/5N2/PPP3P1/RNBQK2R w KQkq - 1 8,yep' it had to come this before capture my bishop
+15,Nxg5,f3g5,rn1qk1nr/ppp1b2p/3pp3/6N1/3PPp1P/8/PPP3P1/RNBQK2R b KQkq - 0 8,yep' it had to come this before capture my bishop
+16,Bxg5,e7g5,rn1qk1nr/ppp4p/3pp3/6b1/3PPp1P/8/PPP3P1/RNBQK2R w KQkq - 0 9,yep' it had to come this before capture my bishop
+17,Qh5+,d1h5,rn1qk1nr/ppp4p/3pp3/6bQ/3PPp1P/8/PPP3P1/RNB1K2R b KQkq - 1 9,yep' it had to come this before capture my bishop
+18,Kd7,e8d7,rn1q2nr/pppk3p/3pp3/6bQ/3PPp1P/8/PPP3P1/RNB1K2R w KQ - 2 10,must do something quickly ...
+19,hxg5,h4g5,rn1q2nr/pppk3p/3pp3/6PQ/3PPp2/8/PPP3P1/RNB1K2R b KQ - 0 10,must do something quickly ...
+20,Qe7,d8e7,rn4nr/pppkq2p/3pp3/6PQ/3PPp2/8/PPP3P1/RNB1K2R w KQ - 1 11,must do something quickly ...
+21,Bxf4,c1f4,rn4nr/pppkq2p/3pp3/6PQ/3PPB2/8/PPP3P1/RN2K2R b KQ - 0 11,putting the king to safety
+22,Nc6,b8c6,r5nr/pppkq2p/2npp3/6PQ/3PPB2/8/PPP3P1/RN2K2R w KQ - 1 12,putting the king to safety
+23,c3,c2c3,r5nr/pppkq2p/2npp3/6PQ/3PPB2/2P5/PP4P1/RN2K2R b KQ - 0 12,putting the king to safety
+24,Rf8,a8f8,5rnr/pppkq2p/2npp3/6PQ/3PPB2/2P5/PP4P1/RN2K2R w KQ - 1 13,putting the king to safety
+25,g3,g2g3,5rnr/pppkq2p/2npp3/6PQ/3PPB2/2P3P1/PP6/RN2K2R b KQ - 0 13,putting the king to safety
+26,Kc8,d7c8,2k2rnr/ppp1q2p/2npp3/6PQ/3PPB2/2P3P1/PP6/RN2K2R w KQ - 1 14,putting the king to safety
+27,Na3,b1a3,2k2rnr/ppp1q2p/2npp3/6PQ/3PPB2/N1P3P1/PP6/R3K2R b KQ - 2 14,"not really understand this move, but now is my turn ..."
+28,a6,a7a6,2k2rnr/1pp1q2p/p1npp3/6PQ/3PPB2/N1P3P1/PP6/R3K2R w KQ - 0 15,"not really understand this move, but now is my turn ..."
+29,O-O-O,e1c1,2k2rnr/1pp1q2p/p1npp3/6PQ/3PPB2/N1P3P1/PP6/2KR3R b - - 1 15,"not really understand this move, but now is my turn ..."
+30,Kb8,c8b8,1k3rnr/1pp1q2p/p1npp3/6PQ/3PPB2/N1P3P1/PP6/2KR3R w - - 2 16,"not really understand this move, but now is my turn ..."
+31,c4,c3c4,1k3rnr/1pp1q2p/p1npp3/6PQ/2PPPB2/N5P1/PP6/2KR3R b - - 0 16,"not really understand this move, but now is my turn ..."
+32,e5,e6e5,1k3rnr/1pp1q2p/p1np4/4p1PQ/2PPPB2/N5P1/PP6/2KR3R w - - 0 17,should have take
+33,Be3,f4e3,1k3rnr/1pp1q2p/p1np4/4p1PQ/2PPP3/N3B1P1/PP6/2KR3R b - - 1 17,should have take
+34,exd4,e5d4,1k3rnr/1pp1q2p/p1np4/6PQ/2PpP3/N3B1P1/PP6/2KR3R w - - 0 18,"i don't mind to, actually I'm planing something"
+35,Bxd4,e3d4,1k3rnr/1pp1q2p/p1np4/6PQ/2PBP3/N5P1/PP6/2KR3R b - - 0 18,an must take otherwise my rock falls
+36,Nxd4,c6d4,1k3rnr/1pp1q2p/p2p4/6PQ/2PnP3/N5P1/PP6/2KR3R w - - 0 19,an must take otherwise my rock falls
+37,Rxd4,d1d4,1k3rnr/1pp1q2p/p2p4/6PQ/2PRP3/N5P1/PP6/2K4R b - - 0 19,attacking the rock and the pawn on g3
+38,Qe5,e7e5,1k3rnr/1pp4p/p2p4/4q1PQ/2PRP3/N5P1/PP6/2K4R w - - 1 20,attacking the rock and the pawn on g3
+39,Rhd1,h1d1,1k3rnr/1pp4p/p2p4/4q1PQ/2PRP3/N5P1/PP6/2KR4 b - - 2 20,"h'mm he chose to protect the rock ?!
+this makes me forget about the pawn on g3 and allows the first nice and smooth move of my Knight"
+40,Nf6,g8f6,1k3r1r/1pp4p/p2p1n2/4q1PQ/2PRP3/N5P1/PP6/2KR4 w - - 3 21,yep' nf6 attack the queen and pawn on e4 and pin his queen
+41,Qf3,h5f3,1k3r1r/1pp4p/p2p1n2/4q1P1/2PRP3/N4QP1/PP6/2KR4 b - - 4 21,good but not good enough
+42,Qxg5+,e5g5,1k3r1r/1pp4p/p2p1n2/6q1/2PRP3/N4QP1/PP6/2KR4 w - - 0 22,recover material and prepare counterattack

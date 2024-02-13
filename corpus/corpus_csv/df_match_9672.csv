@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Ne5 and Nc3 are viable alternatives.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Ne5 and Nc3 are viable alternatives.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Ne5 and Nc3 are viable alternatives.
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Ne5 and Nc3 are viable alternatives.
+5,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,Ne5 and Nc3 are viable alternatives.
+6,Bg4,c8g4,rn1qkbnr/ppp1pppp/8/8/2pP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Ne5 and Nc3 are viable alternatives.
+7,e3,e2e3,rn1qkbnr/ppp1pppp/8/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4,Ne5 and Nc3 are viable alternatives.
+8,b5,b7b5,rn1qkbnr/p1p1pppp/8/1p6/2pP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+9,a4,a2a4,rn1qkbnr/p1p1pppp/8/1p6/P1pP2b1/4PN2/1P3PPP/RNBQKB1R b KQkq - 0 5,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+10,c6,c7c6,rn1qkbnr/p3pppp/2p5/1p6/P1pP2b1/4PN2/1P3PPP/RNBQKB1R w KQkq - 0 6,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+11,Nc3,b1c3,rn1qkbnr/p3pppp/2p5/1p6/P1pP2b1/2N1PN2/1P3PPP/R1BQKB1R b KQkq - 1 6,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+12,Qb6,d8b6,rn2kbnr/p3pppp/1qp5/1p6/P1pP2b1/2N1PN2/1P3PPP/R1BQKB1R w KQkq - 2 7,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+13,Bd2,c1d2,rn2kbnr/p3pppp/1qp5/1p6/P1pP2b1/2N1PN2/1P1B1PPP/R2QKB1R b KQkq - 3 7,"Not too keen on this move. It's not clear at the moment what is the best square for this bishop, so leave it at home for the time being. It's better to continue the attack with axb5 and then b3. Once the pawn situation has been resolved, the next priority is castling."
+14,b4,b5b4,rn2kbnr/p3pppp/1qp5/8/PppP2b1/2N1PN2/1P1B1PPP/R2QKB1R w KQkq - 0 8,A strange (and a weak) move. This just gives the initiative to White.
+15,Ne4,c3e4,rn2kbnr/p3pppp/1qp5/8/PppPN1b1/4PN2/1P1B1PPP/R2QKB1R b KQkq - 1 8,A strange (and a weak) move. This just gives the initiative to White.
+16,Bxf3,g4f3,rn2kbnr/p3pppp/1qp5/8/PppPN3/4Pb2/1P1B1PPP/R2QKB1R w KQkq - 0 9,A strange (and a weak) move. This just gives the initiative to White.
+17,Qxf3,d1f3,rn2kbnr/p3pppp/1qp5/8/PppPN3/4PQ2/1P1B1PPP/R3KB1R b KQkq - 0 9,"Black would like to play 11...Nxe4 12.Qxe4 Nf6, so you could play 11.Nc5 to prevent the exchange and make it more difficult for Black to develop his other knight."
+18,Nd7,b8d7,r3kbnr/p2npppp/1qp5/8/PppPN3/4PQ2/1P1B1PPP/R3KB1R w KQkq - 1 10,"Black would like to play 11...Nxe4 12.Qxe4 Nf6, so you could play 11.Nc5 to prevent the exchange and make it more difficult for Black to develop his other knight."
+19,Bxc4,f1c4,r3kbnr/p2npppp/1qp5/8/PpBPN3/4PQ2/1P1B1PPP/R3K2R b KQkq - 0 10,"Black would like to play 11...Nxe4 12.Qxe4 Nf6, so you could play 11.Nc5 to prevent the exchange and make it more difficult for Black to develop his other knight."
+20,Ndf6,d7f6,r3kbnr/p3pppp/1qp2n2/8/PpBPN3/4PQ2/1P1B1PPP/R3K2R w KQkq - 1 11,"Black would like to play 11...Nxe4 12.Qxe4 Nf6, so you could play 11.Nc5 to prevent the exchange and make it more difficult for Black to develop his other knight."
+21,O-O,e1g1,r3kbnr/p3pppp/1qp2n2/8/PpBPN3/4PQ2/1P1B1PPP/R4RK1 b kq - 2 11,"Black would like to play 11...Nxe4 12.Qxe4 Nf6, so you could play 11.Nc5 to prevent the exchange and make it more difficult for Black to develop his other knight."
+22,e6,e7e6,r3kbnr/p4ppp/1qp1pn2/8/PpBPN3/4PQ2/1P1B1PPP/R4RK1 w kq - 0 12,Logical - attacking the only weakness in his position.
+23,Rfc1,f1c1,r3kbnr/p4ppp/1qp1pn2/8/PpBPN3/4PQ2/1P1B1PPP/R1R3K1 b kq - 1 12,Logical - attacking the only weakness in his position.
+24,Be7,f8e7,r3k1nr/p3bppp/1qp1pn2/8/PpBPN3/4PQ2/1P1B1PPP/R1R3K1 w kq - 2 13,Nice!
+25,Nxf6+,e4f6,r3k1nr/p3bppp/1qp1pN2/8/PpBP4/4PQ2/1P1B1PPP/R1R3K1 b kq - 0 13,Nice!
+26,Nxf6,g8f6,r3k2r/p3bppp/1qp1pn2/8/PpBP4/4PQ2/1P1B1PPP/R1R3K1 w kq - 0 14,Nice!
+27,Bb5,c4b5,r3k2r/p3bppp/1qp1pn2/1B6/Pp1P4/4PQ2/1P1B1PPP/R1R3K1 b kq - 1 14,Nice!
+28,O-O,e8g8,r4rk1/p3bppp/1qp1pn2/1B6/Pp1P4/4PQ2/1P1B1PPP/R1R3K1 w - - 2 15,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+29,Rxc6,c1c6,r4rk1/p3bppp/1qR1pn2/1B6/Pp1P4/4PQ2/1P1B1PPP/R5K1 b - - 0 15,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+30,Qb8,b6b8,rq3rk1/p3bppp/2R1pn2/1B6/Pp1P4/4PQ2/1P1B1PPP/R5K1 w - - 1 16,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+31,Rac1,a1c1,rq3rk1/p3bppp/2R1pn2/1B6/Pp1P4/4PQ2/1P1B1PPP/2R3K1 b - - 2 16,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+32,Nd5,f6d5,rq3rk1/p3bppp/2R1p3/1B1n4/Pp1P4/4PQ2/1P1B1PPP/2R3K1 w - - 3 17,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+33,e4,e3e4,rq3rk1/p3bppp/2R1p3/1B1n4/Pp1PP3/5Q2/1P1B1PPP/2R3K1 b - - 0 17,"It's always very tempting to play moves like this, but you need to be aware that it weakens your d-pawn."
+34,Nb6,d5b6,rq3rk1/p3bppp/1nR1p3/1B6/Pp1PP3/5Q2/1P1B1PPP/2R3K1 w - - 1 18,"Leaves the bishop unprotected and drives the knight to a more central square. If you look at which piece is doing least, it's the queen. So Qb3 is the best move."
+35,a5,a4a5,rq3rk1/p3bppp/1nR1p3/PB6/1p1PP3/5Q2/1P1B1PPP/2R3K1 b - - 0 18,"Leaves the bishop unprotected and drives the knight to a more central square. If you look at which piece is doing least, it's the queen. So Qb3 is the best move."
+36,Nd7,b6d7,rq3rk1/p2nbppp/2R1p3/PB6/1p1PP3/5Q2/1P1B1PPP/2R3K1 w - - 1 19,Ba4 was better. The bishop is doing nothing here and your rook on c6 is now unprotected.
+37,Bc4,b5c4,rq3rk1/p2nbppp/2R1p3/P7/1pBPP3/5Q2/1P1B1PPP/2R3K1 b - - 2 19,Ba4 was better. The bishop is doing nothing here and your rook on c6 is now unprotected.
+38,Bf6,e7f6,rq3rk1/p2n1ppp/2R1pb2/P7/1pBPP3/5Q2/1P1B1PPP/2R3K1 w - - 3 20,Well played! I think Black can resign here.
+39,e5,e4e5,rq3rk1/p2n1ppp/2R1pb2/P3P3/1pBP4/5Q2/1P1B1PPP/2R3K1 b - - 0 20,Well played! I think Black can resign here.
+40,Be7,f6e7,rq3rk1/p2nbppp/2R1p3/P3P3/1pBP4/5Q2/1P1B1PPP/2R3K1 w - - 1 21,Well played! I think Black can resign here.
+41,Qg4,f3g4,rq3rk1/p2nbppp/2R1p3/P3P3/1pBP2Q1/8/1P1B1PPP/2R3K1 b - - 2 21,Well played! I think Black can resign here.
+42,g6,g7g6,rq3rk1/p2nbp1p/2R1p1p1/P3P3/1pBP2Q1/8/1P1B1PPP/2R3K1 w - - 0 22,Well played! I think Black can resign here.
+43,Bxe6,c4e6,rq3rk1/p2nbp1p/2R1B1p1/P3P3/1p1P2Q1/8/1P1B1PPP/2R3K1 b - - 0 22,Well played! I think Black can resign here.
+44,fxe6,f7e6,rq3rk1/p2nb2p/2R1p1p1/P3P3/1p1P2Q1/8/1P1B1PPP/2R3K1 w - - 0 23,Well played! I think Black can resign here.
+45,Qxe6+,g4e6,rq3rk1/p2nb2p/2R1Q1p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 b - - 0 23,Well played! I think Black can resign here.
+46,Rf7,f8f7,rq4k1/p2nbr1p/2R1Q1p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 w - - 1 24,
+47,Qxd7,e6d7,rq4k1/p2Qbr1p/2R3p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 b - - 0 24,
+48,Qf8,b8f8,r4qk1/p2Qbr1p/2R3p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 w - - 1 25,
+49,Rc6c8,c6c8,r1R2qk1/p2Qbr1p/6p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 b - - 2 25,
+50,Bd8,e7d8,r1Rb1qk1/p2Q1r1p/6p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 w - - 3 26,
+51,Qe6,d7e6,r1Rb1qk1/p4r1p/4Q1p1/P3P3/1p1P4/8/1P1B1PPP/2R3K1 b - - 4 26,

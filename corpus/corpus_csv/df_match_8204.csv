@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,So far main line...
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,So far main line...
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,So far main line...
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/2pp4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,So far main line...
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/8/2pp4/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,So far main line...
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/8/2p5/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,So far main line...
+7,Ng5,f3g5,rnbqkbnr/pp2pppp/8/2p3N1/4pP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 4,So far main line...
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2p3N1/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 5,So far main line...
+9,Bc4,f1c4,rnbqkb1r/pp2pppp/5n2/2p3N1/2B1pP2/8/PPPP2PP/RNBQK2R b KQkq - 3 5,So far main line...
+10,Bg4,c8g4,rn1qkb1r/pp2pppp/5n2/2p3N1/2B1pPb1/8/PPPP2PP/RNBQK2R w KQkq - 4 6,So far main line...
+11,Qxg4,d1g4,rn1qkb1r/pp2pppp/5n2/2p3N1/2B1pPQ1/8/PPPP2PP/RNB1K2R b KQkq - 0 6,So far main line...
+12,Nxg4,f6g4,rn1qkb1r/pp2pppp/8/2p3N1/2B1pPn1/8/PPPP2PP/RNB1K2R w KQkq - 0 7,So far main line...
+13,Bxf7+,c4f7,rn1qkb1r/pp2pBpp/8/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R b KQkq - 0 7,So far main line...
+14,Kd7,e8d7,rn1q1b1r/pp1kpBpp/8/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 1 8,So far main line...
+15,Be6+,f7e6,rn1q1b1r/pp1kp1pp/4B3/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R b KQ - 2 8,So far main line...
+16,Kc6,d7c6,rn1q1b1r/pp2p1pp/2k1B3/2p3N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 3 9,So far main line...
+17,Bxg4,e6g4,rn1q1b1r/pp2p1pp/2k5/2p3N1/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 0 9,So far main line...
+18,e6,e7e6,rn1q1b1r/pp4pp/2k1p3/2p3N1/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 0 10,"A proactive move, to restrain the knight and prepare for a possible pawn storm against the king."
+19,Nc3,b1c3,rn1q1b1r/pp4pp/2k1p3/2p3N1/4pPB1/2N5/PPPP2PP/R1B1K2R b KQ - 1 10,"A proactive move, to restrain the knight and prepare for a possible pawn storm against the king."
+20,Na6,b8a6,r2q1b1r/pp4pp/n1k1p3/2p3N1/4pPB1/2N5/PPPP2PP/R1B1K2R w KQ - 2 11,"A proactive move, to restrain the knight and prepare for a possible pawn storm against the king."
+21,a3,a2a3,r2q1b1r/pp4pp/n1k1p3/2p3N1/4pPB1/P1N5/1PPP2PP/R1B1K2R b KQ - 0 11,"A proactive move, to restrain the knight and prepare for a possible pawn storm against the king."
+22,Qf6,d8f6,r4b1r/pp4pp/n1k1pq2/2p3N1/4pPB1/P1N5/1PPP2PP/R1B1K2R w KQ - 1 12,"At this point, material is nearly even but Black's king position is a concern."
+23,O-O,e1g1,r4b1r/pp4pp/n1k1pq2/2p3N1/4pPB1/P1N5/1PPP2PP/R1B2RK1 b - - 2 12,"At this point, material is nearly even but Black's king position is a concern."
+24,h5,h7h5,r4b1r/pp4p1/n1k1pq2/2p3Np/4pPB1/P1N5/1PPP2PP/R1B2RK1 w - - 0 13,"At this point, material is nearly even but Black's king position is a concern."
+25,Bxe6,g4e6,r4b1r/pp4p1/n1k1Bq2/2p3Np/4pP2/P1N5/1PPP2PP/R1B2RK1 b - - 0 13,"At this point, material is nearly even but Black's king position is a concern."
+26,Nc7,a6c7,r4b1r/ppn3p1/2k1Bq2/2p3Np/4pP2/P1N5/1PPP2PP/R1B2RK1 w - - 1 14,"At this point, material is nearly even but Black's king position is a concern."
+27,Bb3,e6b3,r4b1r/ppn3p1/2k2q2/2p3Np/4pP2/PBN5/1PPP2PP/R1B2RK1 b - - 2 14,"At this point, material is nearly even but Black's king position is a concern."
+28,Be7,f8e7,r6r/ppn1b1p1/2k2q2/2p3Np/4pP2/PBN5/1PPP2PP/R1B2RK1 w - - 3 15,"At this point, material is nearly even but Black's king position is a concern."
+29,Ngxe4,g5e4,r6r/ppn1b1p1/2k2q2/2p4p/4NP2/PBN5/1PPP2PP/R1B2RK1 b - - 0 15,"At this point, material is nearly even but Black's king position is a concern."
+30,Qd4+,f6d4,r6r/ppn1b1p1/2k5/2p4p/3qNP2/PBN5/1PPP2PP/R1B2RK1 w - - 1 16,"At this point, material is nearly even but Black's king position is a concern."
+31,Kh1,g1h1,r6r/ppn1b1p1/2k5/2p4p/3qNP2/PBN5/1PPP2PP/R1B2R1K b - - 2 16,"At this point, material is nearly even but Black's king position is a concern."
+32,Rad8,a8d8,3r3r/ppn1b1p1/2k5/2p4p/3qNP2/PBN5/1PPP2PP/R1B2R1K w - - 3 17,"At this point, material is nearly even but Black's king position is a concern."
+33,d3,d2d3,3r3r/ppn1b1p1/2k5/2p4p/3qNP2/PBNP4/1PP3PP/R1B2R1K b - - 0 17,"At this point, material is nearly even but Black's king position is a concern."
+34,h4,h5h4,3r3r/ppn1b1p1/2k5/2p5/3qNP1p/PBNP4/1PP3PP/R1B2R1K w - - 0 18,Black pursues a King side attack.
+35,Rf3,f1f3,3r3r/ppn1b1p1/2k5/2p5/3qNP1p/PBNP1R2/1PP3PP/R1B4K b - - 1 18,Black pursues a King side attack.
+36,Rdf8,d8f8,5r1r/ppn1b1p1/2k5/2p5/3qNP1p/PBNP1R2/1PP3PP/R1B4K w - - 2 19,Black pursues a King side attack.
+37,Be3,c1e3,5r1r/ppn1b1p1/2k5/2p5/3qNP1p/PBNPBR2/1PP3PP/R6K b - - 3 19,White gains ground in provoking weakness around the Black King.
+38,Qd7,d4d7,5r1r/ppnqb1p1/2k5/2p5/4NP1p/PBNPBR2/1PP3PP/R6K w - - 4 20,White gains ground in provoking weakness around the Black King.
+39,a4,a3a4,5r1r/ppnqb1p1/2k5/2p5/P3NP1p/1BNPBR2/1PP3PP/R6K b - - 0 20,White gains ground in provoking weakness around the Black King.
+40,a6,a7a6,5r1r/1pnqb1p1/p1k5/2p5/P3NP1p/1BNPBR2/1PP3PP/R6K w - - 0 21,White gains ground in provoking weakness around the Black King.
+41,a5,a4a5,5r1r/1pnqb1p1/p1k5/P1p5/4NP1p/1BNPBR2/1PP3PP/R6K b - - 0 21,White gains ground in provoking weakness around the Black King.
+42,h3,h4h3,5r1r/1pnqb1p1/p1k5/P1p5/4NP2/1BNPBR1p/1PP3PP/R6K w - - 0 22,Necessary if risky--white can't afford to open lines of attack.
+43,g3,g2g3,5r1r/1pnqb1p1/p1k5/P1p5/4NP2/1BNPBRPp/1PP4P/R6K b - - 0 22,Necessary if risky--white can't afford to open lines of attack.
+44,Qf5,d7f5,5r1r/1pn1b1p1/p1k5/P1p2q2/4NP2/1BNPBRPp/1PP4P/R6K w - - 1 23,?
+45,Rf2,f3f2,5r1r/1pn1b1p1/p1k5/P1p2q2/4NP2/1BNPB1Pp/1PP2R1P/R6K b - - 2 23,?
+46,Nb5,c7b5,5r1r/1p2b1p1/p1k5/Pnp2q2/4NP2/1BNPB1Pp/1PP2R1P/R6K w - - 3 24,?
+47,Nd5,c3d5,5r1r/1p2b1p1/p1k5/PnpN1q2/4NP2/1B1PB1Pp/1PP2R1P/R6K b - - 4 24,White wants to avoid exchanges when his pieces can be actively deployed.
+48,Rfe8,f8e8,4r2r/1p2b1p1/p1k5/PnpN1q2/4NP2/1B1PB1Pp/1PP2R1P/R6K w - - 5 25,"Tactical, to drive the N off of b5."
+49,c4,c2c4,4r2r/1p2b1p1/p1k5/PnpN1q2/2P1NP2/1B1PB1Pp/1P3R1P/R6K b - - 0 25,"Tactical, to drive the N off of b5."
+50,Nd6,b5d6,4r2r/1p2b1p1/p1kn4/P1pN1q2/2P1NP2/1B1PB1Pp/1P3R1P/R6K w - - 1 26,White is now ahead.
+51,Ba4+,b3a4,4r2r/1p2b1p1/p1kn4/P1pN1q2/B1P1NP2/3PB1Pp/1P3R1P/R6K b - - 2 26,White is now ahead.
+52,Nb5,d6b5,4r2r/1p2b1p1/p1k5/PnpN1q2/B1P1NP2/3PB1Pp/1P3R1P/R6K w - - 3 27,White is now ahead.
+53,Nec3,e4c3,4r2r/1p2b1p1/p1k5/PnpN1q2/B1P2P2/2NPB1Pp/1P3R1P/R6K b - - 4 27,White is now ahead.
+54,Kd6,c6d6,4r2r/1p2b1p1/p2k4/PnpN1q2/B1P2P2/2NPB1Pp/1P3R1P/R6K w - - 5 28,White is now ahead.
+55,cxb5,c4b5,4r2r/1p2b1p1/p2k4/PPpN1q2/B4P2/2NPB1Pp/1P3R1P/R6K b - - 0 28,White is now ahead.
+56,Qxd3,f5d3,4r2r/1p2b1p1/p2k4/PPpN4/B4P2/2NqB1Pp/1P3R1P/R6K w - - 0 29,"?! very risky. While Black needs to recover some material, this opens up lines of attack against the king."
+57,Rd1,a1d1,4r2r/1p2b1p1/p2k4/PPpN4/B4P2/2NqB1Pp/1P3R1P/3R3K b - - 1 29,"!! White can win the exchange with Nf6+, but Black's king is nearly trapped, this wins quickly. The threat is now Nc7+ followed by mate."
+58,Qg6,d3g6,4r2r/1p2b1p1/p2k2q1/PPpN4/B4P2/2N1B1Pp/1P3R1P/3R3K w - - 2 30,"!! White can win the exchange with Nf6+, but Black's king is nearly trapped, this wins quickly. The threat is now Nc7+ followed by mate."
+59,b6,b5b6,4r2r/1p2b1p1/pP1k2q1/P1pN4/B4P2/2N1B1Pp/1P3R1P/3R3K b - - 0 30,"!! White can win the exchange with Nf6+, but Black's king is nearly trapped, this wins quickly. The threat is now Nc7+ followed by mate."
+60,Ke6,d6e6,4r2r/1p2b1p1/pP2k1q1/P1pN4/B4P2/2N1B1Pp/1P3R1P/3R3K w - - 1 31,Black resigns.
+61,f5+,f4f5,4r2r/1p2b1p1/pP2k1q1/P1pN1P2/B7/2N1B1Pp/1P3R1P/3R3K b - - 0 31,Black resigns.

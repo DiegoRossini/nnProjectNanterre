@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,starts with the English opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,open up obvious scholars mate position
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,open up obvious scholars mate position
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,open up obvious scholars mate position
+5,e4,e2e4,rnb1kbnr/pppp1ppp/5q2/4p3/2P1P3/2N5/PP1P1PPP/R1BQKBNR b KQkq - 0 3,open up obvious scholars mate position
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 1 4,open up obvious scholars mate position
+7,f3,f2f3,rnb1k1nr/pppp1ppp/5q2/2b1p3/2P1P3/2N2P2/PP1P2PP/R1BQKBNR b KQkq - 0 4,easily stoped
+8,Nh6,g8h6,rnb1k2r/pppp1ppp/5q1n/2b1p3/2P1P3/2N2P2/PP1P2PP/R1BQKBNR w KQkq - 1 5,bringing in knight
+9,Nge2,g1e2,rnb1k2r/pppp1ppp/5q1n/2b1p3/2P1P3/2N2P2/PP1PN1PP/R1BQKB1R b KQkq - 2 5,play an attempted sacrificial move to get mate
+10,Ng4,h6g4,rnb1k2r/pppp1ppp/5q2/2b1p3/2P1P1n1/2N2P2/PP1PN1PP/R1BQKB1R w KQkq - 3 6,play an attempted sacrificial move to get mate
+11,d4,d2d4,rnb1k2r/pppp1ppp/5q2/2b1p3/2PPP1n1/2N2P2/PP2N1PP/R1BQKB1R b KQkq - 0 6,goes horribly wrong
+12,exd4,e5d4,rnb1k2r/pppp1ppp/5q2/2b5/2PpP1n1/2N2P2/PP2N1PP/R1BQKB1R w KQkq - 0 7,knight creates a fork of the queen and pawn on c7 that would create another fork and win the rook but i dont see this
+13,Nd5,c3d5,rnb1k2r/pppp1ppp/5q2/2bN4/2PpP1n1/5P2/PP2N1PP/R1BQKB1R b KQkq - 1 7,knight creates a fork of the queen and pawn on c7 that would create another fork and win the rook but i dont see this
+14,Qg6,f6g6,rnb1k2r/pppp1ppp/6q1/2bN4/2PpP1n1/5P2/PP2N1PP/R1BQKB1R w KQkq - 2 8,takes knight
+15,fxg4,f3g4,rnb1k2r/pppp1ppp/6q1/2bN4/2PpP1P1/8/PP2N1PP/R1BQKB1R b KQkq - 0 8,takes knight
+16,Qxg4,g6g4,rnb1k2r/pppp1ppp/8/2bN4/2PpP1q1/8/PP2N1PP/R1BQKB1R w KQkq - 0 9,this move should have been spent protecting c7
+17,Nxc7+,d5c7,rnb1k2r/ppNp1ppp/8/2b5/2PpP1q1/8/PP2N1PP/R1BQKB1R b KQkq - 0 9,fork
+18,Kd8,e8d8,rnbk3r/ppNp1ppp/8/2b5/2PpP1q1/8/PP2N1PP/R1BQKB1R w KQ - 1 10,i lose a rook
+19,Nxa8,c7a8,Nnbk3r/pp1p1ppp/8/2b5/2PpP1q1/8/PP2N1PP/R1BQKB1R b KQ - 0 10,i attempt to gain a good position
+20,Qxe4,g4e4,Nnbk3r/pp1p1ppp/8/2b5/2Ppq3/8/PP2N1PP/R1BQKB1R w KQ - 0 11,i attempt to gain a good position
+21,b3,b2b3,Nnbk3r/pp1p1ppp/8/2b5/2Ppq3/1P6/P3N1PP/R1BQKB1R b KQ - 0 11,that move ends up a very bad move
+22,Qf5,e4f5,Nnbk3r/pp1p1ppp/8/2b2q2/2Pp4/1P6/P3N1PP/R1BQKB1R w KQ - 1 12,queen back
+23,Nxd4,e2d4,Nnbk3r/pp1p1ppp/8/2b2q2/2PN4/1P6/P5PP/R1BQKB1R b KQ - 0 12,knight takes pawn
+24,Qe4+,f5e4,Nnbk3r/pp1p1ppp/8/2b5/2PNq3/1P6/P5PP/R1BQKB1R w KQ - 1 13,i hope threefold repartition
+25,Ne2,d4e2,Nnbk3r/pp1p1ppp/8/2b5/2P1q3/1P6/P3N1PP/R1BQKB1R b KQ - 2 13,i hatch a plan
+26,Qf5,e4f5,Nnbk3r/pp1p1ppp/8/2b2q2/2P5/1P6/P3N1PP/R1BQKB1R w KQ - 3 14,back again
+27,Nd4,e2d4,Nnbk3r/pp1p1ppp/8/2b2q2/2PN4/1P6/P5PP/R1BQKB1R b KQ - 4 14,back again
+28,Qe5+,f5e5,Nnbk3r/pp1p1ppp/8/2b1q3/2PN4/1P6/P5PP/R1BQKB1R w KQ - 5 15,check

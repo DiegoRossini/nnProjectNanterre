@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Let's attack that bishop since it's tied down defending the knight.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Let's attack that bishop since it's tied down defending the knight.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Let's attack that bishop since it's tied down defending the knight.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Let's attack that bishop since it's tied down defending the knight.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Let's attack that bishop since it's tied down defending the knight.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Let's attack that bishop since it's tied down defending the knight.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Let's attack that bishop since it's tied down defending the knight.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Let's attack that bishop since it's tied down defending the knight.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Let's attack that bishop since it's tied down defending the knight.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Let's attack that bishop since it's tied down defending the knight.
+11,Bd3,f1d3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq - 1 6,Let's attack that bishop since it's tied down defending the knight.
+12,g6,g7g6,rnbqkb1r/1p2pp1p/p2p1np1/8/3NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 7,Let's attack that bishop since it's tied down defending the knight.
+13,O-O,e1g1,rnbqkb1r/1p2pp1p/p2p1np1/8/3NP3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 1 7,Let's attack that bishop since it's tied down defending the knight.
+14,Bg7,f8g7,rnbqk2r/1p2ppbp/p2p1np1/8/3NP3/2NB4/PPP2PPP/R1BQ1RK1 w kq - 2 8,Let's attack that bishop since it's tied down defending the knight.
+15,Be3,c1e3,rnbqk2r/1p2ppbp/p2p1np1/8/3NP3/2NBB3/PPP2PPP/R2Q1RK1 b kq - 3 8,Let's attack that bishop since it's tied down defending the knight.
+16,Ng4,f6g4,rnbqk2r/1p2ppbp/p2p2p1/8/3NP1n1/2NBB3/PPP2PPP/R2Q1RK1 w kq - 4 9,Let's attack that bishop since it's tied down defending the knight.
+17,Qf3,d1f3,rnbqk2r/1p2ppbp/p2p2p1/8/3NP1n1/2NBBQ2/PPP2PPP/R4RK1 b kq - 5 9,He has to defend the bishop.
+18,Nxe3,g4e3,rnbqk2r/1p2ppbp/p2p2p1/8/3NP3/2NBnQ2/PPP2PPP/R4RK1 w kq - 0 10,"I thought he might have taken with pawn here, creating an attack on f7."
+19,Qxe3,f3e3,rnbqk2r/1p2ppbp/p2p2p1/8/3NP3/2NBQ3/PPP2PPP/R4RK1 b kq - 0 10,"I thought he might have taken with pawn here, creating an attack on f7."
+20,e6,e7e6,rnbqk2r/1p3pbp/p2pp1p1/8/3NP3/2NBQ3/PPP2PPP/R4RK1 w kq - 0 11,Don't want to block my bishop's diagonal and want to restrict movement of his knight on c3.
+21,Nce2,c3e2,rnbqk2r/1p3pbp/p2pp1p1/8/3NP3/3BQ3/PPP1NPPP/R4RK1 b kq - 1 11,Is he thinking of a king side attack now?
+22,O-O,e8g8,rnbq1rk1/1p3pbp/p2pp1p1/8/3NP3/3BQ3/PPP1NPPP/R4RK1 w - - 2 12,Freeing his queen but blocking the square for the knight.
+23,c3,c2c3,rnbq1rk1/1p3pbp/p2pp1p1/8/3NP3/2PBQ3/PP2NPPP/R4RK1 b - - 0 12,Freeing his queen but blocking the square for the knight.
+24,Bd7,c8d7,rn1q1rk1/1p1b1pbp/p2pp1p1/8/3NP3/2PBQ3/PP2NPPP/R4RK1 w - - 1 13,Preparing for Nc6.
+25,f4,f2f4,rn1q1rk1/1p1b1pbp/p2pp1p1/8/3NPP2/2PBQ3/PP2N1PP/R4RK1 b - - 0 13,Let's pin that pawn.
+26,Bh6,g7h6,rn1q1rk1/1p1b1p1p/p2pp1pb/8/3NPP2/2PBQ3/PP2N1PP/R4RK1 w - - 1 14,Let's pin that pawn.
+27,Qf3,e3f3,rn1q1rk1/1p1b1p1p/p2pp1pb/8/3NPP2/2PB1Q2/PP2N1PP/R4RK1 b - - 2 14,Let's pin that knight!
+28,Qb6,d8b6,rn3rk1/1p1b1p1p/pq1pp1pb/8/3NPP2/2PB1Q2/PP2N1PP/R4RK1 w - - 3 15,Let's pin that knight!
+29,Kh1,g1h1,rn3rk1/1p1b1p1p/pq1pp1pb/8/3NPP2/2PB1Q2/PP2N1PP/R4R1K b - - 4 15,Hoping for NxN and also defending e5.
+30,Nc6,b8c6,r4rk1/1p1b1p1p/pqnpp1pb/8/3NPP2/2PB1Q2/PP2N1PP/R4R1K w - - 5 16,Hoping for NxN and also defending e5.
+31,f5,f4f5,r4rk1/1p1b1p1p/pqnpp1pb/5P2/3NP3/2PB1Q2/PP2N1PP/R4R1K b - - 0 16,"Hmmm, I'm not keen on this.."
+32,Ne5,c6e5,r4rk1/1p1b1p1p/pq1pp1pb/4nP2/3NP3/2PB1Q2/PP2N1PP/R4R1K w - - 1 17,He'll play Qh3 then f6?
+33,Qg3,f3g3,r4rk1/1p1b1p1p/pq1pp1pb/4nP2/3NP3/2PB2Q1/PP2N1PP/R4R1K b - - 2 17,He wants to pin my pawn.
+34,Kh8,g8h8,r4r1k/1p1b1p1p/pq1pp1pb/4nP2/3NP3/2PB2Q1/PP2N1PP/R4R1K w - - 3 18,Things are looking up.
+35,fxg6,f5g6,r4r1k/1p1b1p1p/pq1pp1Pb/4n3/3NP3/2PB2Q1/PP2N1PP/R4R1K b - - 0 18,Things are looking up.
+36,Rfg8,f8g8,r5rk/1p1b1p1p/pq1pp1Pb/4n3/3NP3/2PB2Q1/PP2N1PP/R4R1K w - - 1 19,Things are looking up.
+37,Nf4,e2f4,r5rk/1p1b1p1p/pq1pp1Pb/4n3/3NPN2/2PB2Q1/PP4PP/R4R1K b - - 2 19,My 'good' bishop but worth the swap at this stage I think.
+38,Bxf4,h6f4,r5rk/1p1b1p1p/pq1pp1P1/4n3/3NPb2/2PB2Q1/PP4PP/R4R1K w - - 0 20,My 'good' bishop but worth the swap at this stage I think.
+39,Rxf4,f1f4,r5rk/1p1b1p1p/pq1pp1P1/4n3/3NPR2/2PB2Q1/PP4PP/R6K b - - 0 20,I can double up the rooks on this file later.
+40,Rxg6,g8g6,r6k/1p1b1p1p/pq1pp1r1/4n3/3NPR2/2PB2Q1/PP4PP/R6K w - - 0 21,I can double up the rooks on this file later.
+41,Qe3,g3e3,r6k/1p1b1p1p/pq1pp1r1/4n3/3NPR2/2PBQ3/PP4PP/R6K b - - 1 21,I can fork the rook and knight next move.
+42,Ng4,e5g4,r6k/1p1b1p1p/pq1pp1r1/8/3NPRn1/2PBQ3/PP4PP/R6K w - - 2 22,I can fork the rook and knight next move.
+43,Qf3,e3f3,r6k/1p1b1p1p/pq1pp1r1/8/3NPRn1/2PB1Q2/PP4PP/R6K b - - 3 22,Now he's putting pressure on f7.
+44,Ne5,g4e5,r6k/1p1b1p1p/pq1pp1r1/4n3/3NPR2/2PB1Q2/PP4PP/R6K w - - 4 23,Now he's putting pressure on f7.
+45,Qf1,f3f1,r6k/1p1b1p1p/pq1pp1r1/4n3/3NPR2/2PB4/PP4PP/R4Q1K b - - 5 23,Now he's putting pressure on f7.
+46,Rg7,g6g7,r6k/1p1b1prp/pq1pp3/4n3/3NPR2/2PB4/PP4PP/R4Q1K w - - 6 24,"Okay, let's put some pressure on the other side."
+47,b3,b2b3,r6k/1p1b1prp/pq1pp3/4n3/3NPR2/1PPB4/P5PP/R4Q1K b - - 0 24,"Okay, let's put some pressure on the other side."
+48,Rc8,a8c8,2r4k/1p1b1prp/pq1pp3/4n3/3NPR2/1PPB4/P5PP/R4Q1K w - - 1 25,"Okay, let's put some pressure on the other side."
+49,Rc1,a1c1,2r4k/1p1b1prp/pq1pp3/4n3/3NPR2/1PPB4/P5PP/2R2Q1K b - - 2 25,Nabbing this pawn proves very useful later on.
+50,Qa5,b6a5,2r4k/1p1b1prp/p2pp3/q3n3/3NPR2/1PPB4/P5PP/2R2Q1K w - - 3 26,Nabbing this pawn proves very useful later on.
+51,c4,c3c4,2r4k/1p1b1prp/p2pp3/q3n3/2PNPR2/1P1B4/P5PP/2R2Q1K b - - 0 26,Nabbing this pawn proves very useful later on.
+52,Qxa2,a5a2,2r4k/1p1b1prp/p2pp3/4n3/2PNPR2/1P1B4/q5PP/2R2Q1K w - - 0 27,Nabbing this pawn proves very useful later on.

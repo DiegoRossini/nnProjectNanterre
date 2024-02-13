@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Vienna game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Vienna game.
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Vienna game.
+4,Nh6,g8h6,rnbqkb1r/pppp1ppp/7n/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,An unusual move.
+5,Qh5,d1h5,rnbqkb1r/pppp1ppp/7n/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR b KQkq - 3 3,Black defends against the threat of QxPe5+.
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p3n/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR w KQkq - 0 4,Black defends against the threat of QxPe5+.
+7,Bc4,f1c4,rnbqkb1r/ppp2ppp/3p3n/4p2Q/2B1P3/2N5/PPPP1PPP/R1B1K1NR b KQkq - 1 4,"Classic set up for the four move check mate, which black already foiled at the outset with Nh6.  White might better conceal ulterior motive with Pd3 first, and trading Bc1 for Nh6, which would also serve to double black's pawns.  Of course, black, perhaps wary of an early mate, would likely counter with some other appropriate action."
+8,g6,g7g6,rnbqkb1r/ppp2p1p/3p2pn/4p2Q/2B1P3/2N5/PPPP1PPP/R1B1K1NR w KQkq - 0 5,To continue pressing for an early game white should respond Qf3 (which is probably a stronger opening anyway--fewer wasted moves).
+9,Qf3,h5f3,rnbqkb1r/ppp2p1p/3p2pn/4p3/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 1 5,B-)
+10,c6,c7c6,rnbqkb1r/pp3p1p/2pp2pn/4p3/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 0 6,"Here I kind of like Pd4.  Throw it out there as bait.
+6. Pd4 exd4
+7. BxNh6 BxBh6 (which would be bad for black because...)
+8. QxPf7#"
+11,d3,d2d3,rnbqkb1r/pp3p1p/2pp2pn/4p3/2B1P3/2NP1Q2/PPP2PPP/R1B1K1NR b KQkq - 0 6,B-)
+12,Bg4,c8g4,rn1qkb1r/pp3p1p/2pp2pn/4p3/2B1P1b1/2NP1Q2/PPP2PPP/R1B1K1NR w KQkq - 1 7,"This actually puts white up a pawn, provided black plays NxBf7 instead of Ke7.  Ke7 wouldn't be that great.  But Ke7, white must move the queen off the f column, withdrawing protection from the white bishop which black follows with KxBf7.  Then white must hold funeral services for the slain priest."
+13,Bxf7+,c4f7,rn1qkb1r/pp3B1p/2pp2pn/4p3/4P1b1/2NP1Q2/PPP2PPP/R1B1K1NR b KQkq - 0 7,"This actually puts white up a pawn, provided black plays NxBf7 instead of Ke7.  Ke7 wouldn't be that great.  But Ke7, white must move the queen off the f column, withdrawing protection from the white bishop which black follows with KxBf7.  Then white must hold funeral services for the slain priest."
+14,Nxf7,h6f7,rn1qkb1r/pp3n1p/2pp2p1/4p3/4P1b1/2NP1Q2/PPP2PPP/R1B1K1NR w KQkq - 0 8,"Up one all trades benefit white, though it is still pretty early in the game to start counting pawns."
+15,Qxg4,f3g4,rn1qkb1r/pp3n1p/2pp2p1/4p3/4P1Q1/2NP4/PPP2PPP/R1B1K1NR b KQkq - 0 8,"Up one all trades benefit white, though it is still pretty early in the game to start counting pawns."
+16,Qd7,d8d7,rn2kb1r/pp1q1n1p/2pp2p1/4p3/4P1Q1/2NP4/PPP2PPP/R1B1K1NR w KQkq - 1 9,"Up one all trades benefit white, though it is still pretty early in the game to start counting pawns."
+17,Qg3,g4g3,rn2kb1r/pp1q1n1p/2pp2p1/4p3/4P3/2NP2Q1/PPP2PPP/R1B1K1NR b KQkq - 2 9,I probably would have traded just to intimidate black.
+18,Be7,f8e7,rn2k2r/pp1qbn1p/2pp2p1/4p3/4P3/2NP2Q1/PPP2PPP/R1B1K1NR w KQkq - 3 10,Again with the knight against the wall move.  Very strange.
+19,Bd2,c1d2,rn2k2r/pp1qbn1p/2pp2p1/4p3/4P3/2NP2Q1/PPPB1PPP/R3K1NR b KQkq - 4 10,Again with the knight against the wall move.  Very strange.
+20,Na6,b8a6,r3k2r/pp1qbn1p/n1pp2p1/4p3/4P3/2NP2Q1/PPPB1PPP/R3K1NR w KQkq - 5 11,Again with the knight against the wall move.  Very strange.
+21,f4,f2f4,r3k2r/pp1qbn1p/n1pp2p1/4p3/4PP2/2NP2Q1/PPPB2PP/R3K1NR b KQkq - 0 11,"Black issues a threat against lonely, defenseless Pa2."
+22,Bf6,e7f6,r3k2r/pp1q1n1p/n1pp1bp1/4p3/4PP2/2NP2Q1/PPPB2PP/R3K1NR w KQkq - 1 12,"Black issues a threat against lonely, defenseless Pa2."
+23,O-O-O,e1c1,r3k2r/pp1q1n1p/n1pp1bp1/4p3/4PP2/2NP2Q1/PPPB2PP/2KR2NR b kq - 2 12,"Black issues a threat against lonely, defenseless Pa2."
+24,b5,b7b5,r3k2r/p2q1n1p/n1pp1bp1/1p2p3/4PP2/2NP2Q1/PPPB2PP/2KR2NR w kq - 0 13,"Black issues a threat against lonely, defenseless Pa2."
+25,Nf3,g1f3,r3k2r/p2q1n1p/n1pp1bp1/1p2p3/4PP2/2NP1NQ1/PPPB2PP/2KR3R b kq - 1 13,"Black issues a threat against lonely, defenseless Pa2."
+26,b4,b5b4,r3k2r/p2q1n1p/n1pp1bp1/4p3/1p2PP2/2NP1NQ1/PPPB2PP/2KR3R w kq - 0 14,"Black issues a threat against lonely, defenseless Pa2."
+27,Ne2,c3e2,r3k2r/p2q1n1p/n1pp1bp1/4p3/1p2PP2/3P1NQ1/PPPBN1PP/2KR3R b kq - 1 14,"Black issues a threat against lonely, defenseless Pa2."
+28,Qe6,d7e6,r3k2r/p4n1p/n1ppqbp1/4p3/1p2PP2/3P1NQ1/PPPBN1PP/2KR3R w kq - 2 15,"Black issues a threat against lonely, defenseless Pa2."
+29,b3,b2b3,r3k2r/p4n1p/n1ppqbp1/4p3/1p2PP2/1P1P1NQ1/P1PBN1PP/2KR3R b kq - 0 15,White parries.
+30,c5,c6c5,r3k2r/p4n1p/n2pqbp1/2p1p3/1p2PP2/1P1P1NQ1/P1PBN1PP/2KR3R w kq - 0 16,I kind of like Ng5 here.
+31,Nh4,f3h4,r3k2r/p4n1p/n2pqbp1/2p1p3/1p2PP1N/1P1P2Q1/P1PBN1PP/2KR3R b kq - 1 16,Ng5 is much more menacing.  But white may be thinking of providing support for Pf5.
+32,Qe7,e6e7,r3k2r/p3qn1p/n2p1bp1/2p1p3/1p2PP1N/1P1P2Q1/P1PBN1PP/2KR3R w kq - 2 17,
+33,Nf3,h4f3,r3k2r/p3qn1p/n2p1bp1/2p1p3/1p2PP2/1P1P1NQ1/P1PBN1PP/2KR3R b kq - 3 17,
+34,Nc7,a6c7,r3k2r/p1n1qn1p/3p1bp1/2p1p3/1p2PP2/1P1P1NQ1/P1PBN1PP/2KR3R w kq - 4 18,

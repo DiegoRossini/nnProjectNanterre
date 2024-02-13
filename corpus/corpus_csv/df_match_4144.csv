@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,An original response by black.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,An original response by black.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,An original response by black.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,An original response by black.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,An original response by black.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,An original response by black.
+7,O-O,e1g1,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 5 4,Attacks the undefended e pawn and develops the black knight at the same time.
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 6 5,Attacks the undefended e pawn and develops the black knight at the same time.
+9,d3,d2d3,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 5,Prevents Bg4 which would be pretty annoying to deal with.
+10,d6,d7d6,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 0 6,Prevents Bg4 which would be pretty annoying to deal with.
+11,h3,h2h3,r1bqk2r/ppp2ppp/2np1n2/2b1p3/2B1P3/3P1N1P/PPP2PP1/RNBQ1RK1 b kq - 0 6,Prevents Bg4 which would be pretty annoying to deal with.
+12,O-O,e8g8,r1bq1rk1/ppp2ppp/2np1n2/2b1p3/2B1P3/3P1N1P/PPP2PP1/RNBQ1RK1 w - - 1 7,He wins my LSB. I decided by play this to give my knight a good position.
+13,Bg5,c1g5,r1bq1rk1/ppp2ppp/2np1n2/2b1p1B1/2B1P3/3P1N1P/PPP2PP1/RN1Q1RK1 b - - 2 7,He wins my LSB. I decided by play this to give my knight a good position.
+14,Na5,c6a5,r1bq1rk1/ppp2ppp/3p1n2/n1b1p1B1/2B1P3/3P1N1P/PPP2PP1/RN1Q1RK1 w - - 3 8,He wins my LSB. I decided by play this to give my knight a good position.
+15,Nbd2,b1d2,r1bq1rk1/ppp2ppp/3p1n2/n1b1p1B1/2B1P3/3P1N1P/PPPN1PP1/R2Q1RK1 b - - 4 8,He wins my LSB. I decided by play this to give my knight a good position.
+16,c6,c7c6,r1bq1rk1/pp3ppp/2pp1n2/n1b1p1B1/2B1P3/3P1N1P/PPPN1PP1/R2Q1RK1 w - - 0 9,Creates an escape square for my LSB and prepare for a b4 advance(FORK)
+17,a3,a2a3,r1bq1rk1/pp3ppp/2pp1n2/n1b1p1B1/2B1P3/P2P1N1P/1PPN1PP1/R2Q1RK1 b - - 0 9,Creates an escape square for my LSB and prepare for a b4 advance(FORK)
+18,Nxc4,a5c4,r1bq1rk1/pp3ppp/2pp1n2/2b1p1B1/2n1P3/P2P1N1P/1PPN1PP1/R2Q1RK1 w - - 0 10,I win at least a pawn here.
+19,Nxc4,d2c4,r1bq1rk1/pp3ppp/2pp1n2/2b1p1B1/2N1P3/P2P1N1P/1PP2PP1/R2Q1RK1 b - - 0 10,I win at least a pawn here.
+20,Re8,f8e8,r1bqr1k1/pp3ppp/2pp1n2/2b1p1B1/2N1P3/P2P1N1P/1PP2PP1/R2Q1RK1 w - - 1 11,I win at least a pawn here.
+21,Qd2,d1d2,r1bqr1k1/pp3ppp/2pp1n2/2b1p1B1/2N1P3/P2P1N1P/1PPQ1PP1/R4RK1 b - - 2 11,I win at least a pawn here.
+22,b5,b7b5,r1bqr1k1/p4ppp/2pp1n2/1pb1p1B1/2N1P3/P2P1N1P/1PPQ1PP1/R4RK1 w - - 0 12,I win at least a pawn here.
+23,Ne3,c4e3,r1bqr1k1/p4ppp/2pp1n2/1pb1p1B1/4P3/P2PNN1P/1PPQ1PP1/R4RK1 b - - 1 12,I win at least a pawn here.
+24,h6,h7h6,r1bqr1k1/p4pp1/2pp1n1p/1pb1p1B1/4P3/P2PNN1P/1PPQ1PP1/R4RK1 w - - 0 13,I win at least a pawn here.
+25,Bh4,g5h4,r1bqr1k1/p4pp1/2pp1n1p/1pb1p3/4P2B/P2PNN1P/1PPQ1PP1/R4RK1 b - - 1 13,I win at least a pawn here.
+26,d5,d6d5,r1bqr1k1/p4pp1/2p2n1p/1pbpp3/4P2B/P2PNN1P/1PPQ1PP1/R4RK1 w - - 0 14,I win at least a pawn here.
+27,exd5,e4d5,r1bqr1k1/p4pp1/2p2n1p/1pbPp3/7B/P2PNN1P/1PPQ1PP1/R4RK1 b - - 0 14,I win at least a pawn here.
+28,Bxe3,c5e3,r1bqr1k1/p4pp1/2p2n1p/1p1Pp3/7B/P2PbN1P/1PPQ1PP1/R4RK1 w - - 0 15,I win at least a pawn here.
+29,Qxe3,d2e3,r1bqr1k1/p4pp1/2p2n1p/1p1Pp3/7B/P2PQN1P/1PP2PP1/R4RK1 b - - 0 15,I win at least a pawn here.
+30,Nxd5,f6d5,r1bqr1k1/p4pp1/2p4p/1p1np3/7B/P2PQN1P/1PP2PP1/R4RK1 w - - 0 16,I win at least a pawn here.
+31,Bxd8,h4d8,r1bBr1k1/p4pp1/2p4p/1p1np3/8/P2PQN1P/1PP2PP1/R4RK1 b - - 0 16,I win at least a pawn here.
+32,Nxe3,d5e3,r1bBr1k1/p4pp1/2p4p/1p2p3/8/P2PnN1P/1PP2PP1/R4RK1 w - - 0 17,I win at least a pawn here.
+33,fxe3,f2e3,r1bBr1k1/p4pp1/2p4p/1p2p3/8/P2PPN1P/1PP3P1/R4RK1 b - - 0 17,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+34,Rxd8,e8d8,r1br2k1/p4pp1/2p4p/1p2p3/8/P2PPN1P/1PP3P1/R4RK1 w - - 0 18,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+35,Nxe5,f3e5,r1br2k1/p4pp1/2p4p/1p2N3/8/P2PP2P/1PP3P1/R4RK1 b - - 0 18,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+36,c5,c6c5,r1br2k1/p4pp1/7p/1pp1N3/8/P2PP2P/1PP3P1/R4RK1 w - - 0 19,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+37,Nxf7,e5f7,r1br2k1/p4Np1/7p/1pp5/8/P2PP2P/1PP3P1/R4RK1 b - - 0 19,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+38,Re8,d8e8,r1b1r1k1/p4Np1/7p/1pp5/8/P2PP2P/1PP3P1/R4RK1 w - - 1 20,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+39,e4,e3e4,r1b1r1k1/p4Np1/7p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 0 20,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+40,Re6,e8e6,r1b3k1/p4Np1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 w - - 1 21,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+41,Nd8,f7d8,r1bN2k1/p5p1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 2 21,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+42,Rd6,e6d6,r1bN2k1/p5p1/3r3p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 w - - 3 22,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+43,Nf7,d8f7,r1b3k1/p4Np1/3r3p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 4 22,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+44,Re6,d6e6,r1b3k1/p4Np1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 w - - 5 23,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+45,Nd8,f7d8,r1bN2k1/p5p1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 6 23,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+46,Rd6,e6d6,r1bN2k1/p5p1/3r3p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 w - - 7 24,RAther boring ending. I could've gotten 3 pawns fpr a bishop but I wanted to be safe and go for the 3 fold repitition. I would've gained rating points even if I drew with him.
+47,Nf7,d8f7,r1b3k1/p4Np1/3r3p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 8 24,
+48,Re6,d6e6,r1b3k1/p4Np1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 w - - 9 25,
+49,Nd8,f7d8,r1bN2k1/p5p1/4r2p/1pp5/4P3/P2P3P/1PP3P1/R4RK1 b - - 10 25,

@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Highly unusual play. The Queen will be forced out on the next move if material equality is to be maintained.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Highly unusual play. The Queen will be forced out on the next move if material equality is to be maintained.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Highly unusual play. The Queen will be forced out on the next move if material equality is to be maintained.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Highly unusual play. The Queen will be forced out on the next move if material equality is to be maintained.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3,Making the Queen move again.
+6,Qxd5,d8d5,rnb1kbnr/ppp2ppp/8/3qp3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4,Making the Queen move again.
+7,Nc3,b1c3,rnb1kbnr/ppp2ppp/8/3qp3/8/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 4,Making the Queen move again.
+8,Qe6,d5e6,rnb1kbnr/ppp2ppp/4q3/4p3/8/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 5,"Inducing him to weaken his Q-side again. Since K-side castling is out of the question for the moment, any Q-side weaknesses will make themselves felt against the King."
+9,Bb5+,f1b5,rnb1kbnr/ppp2ppp/4q3/1B2p3/8/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 5,"Inducing him to weaken his Q-side again. Since K-side castling is out of the question for the moment, any Q-side weaknesses will make themselves felt against the King."
+10,c6,c7c6,rnb1kbnr/pp3ppp/2p1q3/1B2p3/8/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 6,"Inducing him to weaken his Q-side again. Since K-side castling is out of the question for the moment, any Q-side weaknesses will make themselves felt against the King."
+11,Ba4,b5a4,rnb1kbnr/pp3ppp/2p1q3/4p3/B7/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 6,"Inducing him to weaken his Q-side again. Since K-side castling is out of the question for the moment, any Q-side weaknesses will make themselves felt against the King."
+12,b5,b7b5,rnb1kbnr/p4ppp/2p1q3/1p2p3/B7/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 7,Making the Quuen move yet again.
+13,Bb3,a4b3,rnb1kbnr/p4ppp/2p1q3/1p2p3/8/1BN2N2/PPPP1PPP/R1BQK2R b KQkq - 1 7,Making the Quuen move yet again.
+14,Qf6,e6f6,rnb1kbnr/p4ppp/2p2q2/1p2p3/8/1BN2N2/PPPP1PPP/R1BQK2R w KQkq - 2 8,And again.
+15,Ne4,c3e4,rnb1kbnr/p4ppp/2p2q2/1p2p3/4N3/1B3N2/PPPP1PPP/R1BQK2R b KQkq - 3 8,And again.
+16,Qe7,f6e7,rnb1kbnr/p3qppp/2p5/1p2p3/4N3/1B3N2/PPPP1PPP/R1BQK2R w KQkq - 4 9,"Trying to prevent the B from moving to KN5, with yet another attack on the Queen."
+17,d3,d2d3,rnb1kbnr/p3qppp/2p5/1p2p3/4N3/1B1P1N2/PPP2PPP/R1BQK2R b KQkq - 0 9,"Trying to prevent the B from moving to KN5, with yet another attack on the Queen."
+18,h6,h7h6,rnb1kbnr/p3qpp1/2p4p/1p2p3/4N3/1B1P1N2/PPP2PPP/R1BQK2R w KQkq - 0 10,"Trying to prevent the B from moving to KN5, with yet another attack on the Queen."
+19,Be3,c1e3,rnb1kbnr/p3qpp1/2p4p/1p2p3/4N3/1B1PBN2/PPP2PPP/R2QK2R b KQkq - 1 10,His first developed piece other than the Queen.
+20,Bf5,c8f5,rn2kbnr/p3qpp1/2p4p/1p2pb2/4N3/1B1PBN2/PPP2PPP/R2QK2R w KQkq - 2 11,His first developed piece other than the Queen.
+21,O-O,e1g1,rn2kbnr/p3qpp1/2p4p/1p2pb2/4N3/1B1PBN2/PPP2PPP/R2Q1RK1 b kq - 3 11,The first tactical skirmish goes nowhere.
+22,Nf6,g8f6,rn2kb1r/p3qpp1/2p2n1p/1p2pb2/4N3/1B1PBN2/PPP2PPP/R2Q1RK1 w kq - 4 12,The first tactical skirmish goes nowhere.
+23,Nxf6+,e4f6,rn2kb1r/p3qpp1/2p2N1p/1p2pb2/8/1B1PBN2/PPP2PPP/R2Q1RK1 b kq - 0 12,The first tactical skirmish goes nowhere.
+24,Qxf6,e7f6,rn2kb1r/p4pp1/2p2q1p/1p2pb2/8/1B1PBN2/PPP2PPP/R2Q1RK1 w kq - 0 13,The first tactical skirmish goes nowhere.
+25,Bd2,e3d2,rn2kb1r/p4pp1/2p2q1p/1p2pb2/8/1B1P1N2/PPPB1PPP/R2Q1RK1 b kq - 1 13,Shielding the QNP and making the wandering Q move again.
+26,e4,e5e4,rn2kb1r/p4pp1/2p2q1p/1p3b2/4p3/1B1P1N2/PPPB1PPP/R2Q1RK1 w kq - 0 14,Shielding the QNP and making the wandering Q move again.
+27,Bc3,d2c3,rn2kb1r/p4pp1/2p2q1p/1p3b2/4p3/1BBP1N2/PPP2PPP/R2Q1RK1 b kq - 1 14,Shielding the QNP and making the wandering Q move again.
+28,Qe7,f6e7,rn2kb1r/p3qpp1/2p4p/1p3b2/4p3/1BBP1N2/PPP2PPP/R2Q1RK1 w kq - 2 15,Pinning... and if the Queen moves away it won't help as the Bishop will still be pinned to the King.
+29,dxe4,d3e4,rn2kb1r/p3qpp1/2p4p/1p3b2/4P3/1BB2N2/PPP2PPP/R2Q1RK1 b kq - 0 15,Pinning... and if the Queen moves away it won't help as the Bishop will still be pinned to the King.
+30,Bxe4,f5e4,rn2kb1r/p3qpp1/2p4p/1p6/4b3/1BB2N2/PPP2PPP/R2Q1RK1 w kq - 0 16,Pinning... and if the Queen moves away it won't help as the Bishop will still be pinned to the King.
+31,Re1,f1e1,rn2kb1r/p3qpp1/2p4p/1p6/4b3/1BB2N2/PPP2PPP/R2QR1K1 b kq - 1 16,Pinning... and if the Queen moves away it won't help as the Bishop will still be pinned to the King.
+32,f5,f7f5,rn2kb1r/p3q1p1/2p4p/1p3p2/4b3/1BB2N2/PPP2PPP/R2QR1K1 w kq - 0 17,"Threatening N-N6, forking Q and R."
+33,Ne5,f3e5,rn2kb1r/p3q1p1/2p4p/1p2Np2/4b3/1BB5/PPP2PPP/R2QR1K1 b kq - 1 17,"Threatening N-N6, forking Q and R."
+34,Qg5,e7g5,rn2kb1r/p5p1/2p4p/1p2Npq1/4b3/1BB5/PPP2PPP/R2QR1K1 w kq - 2 18,"The Bishop is in trouble. If it moves, I have N-N6 dis ch winning the KR."
+35,f3,f2f3,rn2kb1r/p5p1/2p4p/1p2Npq1/4b3/1BB2P2/PPP3PP/R2QR1K1 b kq - 0 18,"The Bishop is in trouble. If it moves, I have N-N6 dis ch winning the KR."
+36,Bc5+,f8c5,rn2k2r/p5p1/2p4p/1pb1Npq1/4b3/1BB2P2/PPP3PP/R2QR1K1 w kq - 1 19,"An attempt to complicate. However, my threats are superior."
+37,Kh1,g1h1,rn2k2r/p5p1/2p4p/1pb1Npq1/4b3/1BB2P2/PPP3PP/R2QR2K b kq - 2 19,"An attempt to complicate. However, my threats are superior."
+38,b4,b5b4,rn2k2r/p5p1/2p4p/2b1Npq1/1p2b3/1BB2P2/PPP3PP/R2QR2K w kq - 0 20,"An attempt to complicate. However, my threats are superior."
+39,Nf7,e5f7,rn2k2r/p4Np1/2p4p/2b2pq1/1p2b3/1BB2P2/PPP3PP/R2QR2K b kq - 1 20,Pouncing on the material.
+40,Qh5,g5h5,rn2k2r/p4Np1/2p4p/2b2p1q/1p2b3/1BB2P2/PPP3PP/R2QR2K w kq - 2 21,Pouncing on the material.
+41,Nxh8,f7h8,rn2k2N/p5p1/2p4p/2b2p1q/1p2b3/1BB2P2/PPP3PP/R2QR2K b q - 0 21,Pouncing on the material.
+42,bxc3,b4c3,rn2k2N/p5p1/2p4p/2b2p1q/4b3/1Bp2P2/PPP3PP/R2QR2K w q - 0 22,A bad mistake. My opponent overlooked...
+43,Bf7+,b3f7,rn2k2N/p4Bp1/2p4p/2b2p1q/4b3/2p2P2/PPP3PP/R2QR2K b q - 1 22,this shot! The wandering Queen is felled.
+44,Qxf7,h5f7,rn2k2N/p4qp1/2p4p/2b2p2/4b3/2p2P2/PPP3PP/R2QR2K w q - 0 23,"The smoke has cleared, and my huge material advantage is decisive."
+45,Nxf7,h8f7,rn2k3/p4Np1/2p4p/2b2p2/4b3/2p2P2/PPP3PP/R2QR2K b q - 0 23,"The smoke has cleared, and my huge material advantage is decisive."
+46,Kxf7,e8f7,rn6/p4kp1/2p4p/2b2p2/4b3/2p2P2/PPP3PP/R2QR2K w - - 0 24,"The smoke has cleared, and my huge material advantage is decisive."
+47,fxe4,f3e4,rn6/p4kp1/2p4p/2b2p2/4P3/2p5/PPP3PP/R2QR2K b - - 0 24,"The smoke has cleared, and my huge material advantage is decisive."
+48,cxb2,c3b2,rn6/p4kp1/2p4p/2b2p2/4P3/8/PpP3PP/R2QR2K w - - 0 25,Black gives in to the inevitable and resigns.
+49,Rb1,a1b1,rn6/p4kp1/2p4p/2b2p2/4P3/8/PpP3PP/1R1QR2K b - - 1 25,Black gives in to the inevitable and resigns.
+50,Bb4,c5b4,rn6/p4kp1/2p4p/5p2/1b2P3/8/PpP3PP/1R1QR2K w - - 2 26,Black gives in to the inevitable and resigns.
+51,Re2,e1e2,rn6/p4kp1/2p4p/5p2/1b2P3/8/PpP1R1PP/1R1Q3K b - - 3 26,Black gives in to the inevitable and resigns.
+52,Kf6,f7f6,rn6/p5p1/2p2k1p/5p2/1b2P3/8/PpP1R1PP/1R1Q3K w - - 4 27,Black gives in to the inevitable and resigns.
+53,Rxb2,b1b2,rn6/p5p1/2p2k1p/5p2/1b2P3/8/PRP1R1PP/3Q3K b - - 0 27,Black gives in to the inevitable and resigns.

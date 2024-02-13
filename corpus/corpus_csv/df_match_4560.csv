@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Budapest!  Black is looking for a knife-fight.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The Budapest!  Black is looking for a knife-fight.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The Budapest!  Black is looking for a knife-fight.
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,The Budapest!  Black is looking for a knife-fight.
+5,dxe5,d4e5,rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"Black's other option is horrible: 3...Ne4 (known as the Fajarowicz Variation) 4.a3! b6 (probably best: 4...Qh4?! 5.g3 Qh5 6.Bg2 Qxe5 7.Nf3 gives white a decisive lead in development; 4...Nc6 is considered the main line, but after 5.Nf3 d6 6.Qc2!  and black soon finds himself in trouble, for example 6...d5 7.e3 Bg4 8.cxd5 Qxd5 9.Bc4 (the point behind Qc2) Qa5+ 10.Nbd2 black's got nothing) 5.Nf3 Bb7 6.Nbd2 a5 7.Nxe4 Bxe4 8.Bf4 Na6 9.g3 Nc5 10.Bg2 followed by 11.Rc1 and 12.O-O, black has no compensation for the pawn, and a worse position as well."
+6,Ng4,f6g4,rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,"Black's other option is horrible: 3...Ne4 (known as the Fajarowicz Variation) 4.a3! b6 (probably best: 4...Qh4?! 5.g3 Qh5 6.Bg2 Qxe5 7.Nf3 gives white a decisive lead in development; 4...Nc6 is considered the main line, but after 5.Nf3 d6 6.Qc2!  and black soon finds himself in trouble, for example 6...d5 7.e3 Bg4 8.cxd5 Qxd5 9.Bc4 (the point behind Qc2) Qa5+ 10.Nbd2 black's got nothing) 5.Nf3 Bb7 6.Nbd2 a5 7.Nxe4 Bxe4 8.Bf4 Na6 9.g3 Nc5 10.Bg2 followed by 11.Rc1 and 12.O-O, black has no compensation for the pawn, and a worse position as well."
+7,Nf3,g1f3,rnbqkb1r/pppp1ppp/8/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4,"The immediate 4...Bb4+ has no bite after 5.Nc3 Qe7 6.Bd2! Nxe5 8.Nxe5 Qxe5 9.a3 Bxc3 (not 9...Bc5 10.Nd5 followed by 11.Bc3) 10.Bxc3 Qg5 11.h4! Qh6 12.Rh3! and black's K is in some trouble. In particular, 12...O-O is answered with 13.Rg3."
+8,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n5/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R w KQkq - 3 5,"The immediate 4...Bb4+ has no bite after 5.Nc3 Qe7 6.Bd2! Nxe5 8.Nxe5 Qxe5 9.a3 Bxc3 (not 9...Bc5 10.Nd5 followed by 11.Bc3) 10.Bxc3 Qg5 11.h4! Qh6 12.Rh3! and black's K is in some trouble. In particular, 12...O-O is answered with 13.Rg3."
+9,Bf4,c1f4,r1bqkb1r/pppp1ppp/2n5/4P3/2P2Bn1/5N2/PP2PPPP/RN1QKB1R b KQkq - 4 5,"7.a3 is also playable, but seems to give black some play after 7...Ngxe5 8.Nxe5 (not 8.axb4?? Nd3 mate!) 8...Nxe5 9.e3 Bxd2+ 10.Qxd2 d6 11.Be2 b6!, and the black bishop will become an annoyance along the a8-h1 diagonal, which supports counter-play on the K-side"
+10,Bb4+,f8b4,r1bqk2r/pppp1ppp/2n5/4P3/1bP2Bn1/5N2/PP2PPPP/RN1QKB1R w KQkq - 5 6,"7.a3 is also playable, but seems to give black some play after 7...Ngxe5 8.Nxe5 (not 8.axb4?? Nd3 mate!) 8...Nxe5 9.e3 Bxd2+ 10.Qxd2 d6 11.Be2 b6!, and the black bishop will become an annoyance along the a8-h1 diagonal, which supports counter-play on the K-side"
+11,Nbd2,b1d2,r1bqk2r/pppp1ppp/2n5/4P3/1bP2Bn1/5N2/PP1NPPPP/R2QKB1R b KQkq - 6 6,"7.a3 is also playable, but seems to give black some play after 7...Ngxe5 8.Nxe5 (not 8.axb4?? Nd3 mate!) 8...Nxe5 9.e3 Bxd2+ 10.Qxd2 d6 11.Be2 b6!, and the black bishop will become an annoyance along the a8-h1 diagonal, which supports counter-play on the K-side"
+12,Qe7,d8e7,r1b1k2r/ppppqppp/2n5/4P3/1bP2Bn1/5N2/PP1NPPPP/R2QKB1R w KQkq - 7 7,"7.a3 is also playable, but seems to give black some play after 7...Ngxe5 8.Nxe5 (not 8.axb4?? Nd3 mate!) 8...Nxe5 9.e3 Bxd2+ 10.Qxd2 d6 11.Be2 b6!, and the black bishop will become an annoyance along the a8-h1 diagonal, which supports counter-play on the K-side"
+13,e3,e2e3,r1b1k2r/ppppqppp/2n5/4P3/1bP2Bn1/4PN2/PP1N1PPP/R2QKB1R b KQkq - 0 7,"7.a3 is also playable, but seems to give black some play after 7...Ngxe5 8.Nxe5 (not 8.axb4?? Nd3 mate!) 8...Nxe5 9.e3 Bxd2+ 10.Qxd2 d6 11.Be2 b6!, and the black bishop will become an annoyance along the a8-h1 diagonal, which supports counter-play on the K-side"
+14,Ncxe5,c6e5,r1b1k2r/ppppqppp/8/4n3/1bP2Bn1/4PN2/PP1N1PPP/R2QKB1R w KQkq - 0 8,"Black has some problems to solve here, the primary one being what to do with the dark-square bishop."
+15,Nxe5,f3e5,r1b1k2r/ppppqppp/8/4N3/1bP2Bn1/4P3/PP1N1PPP/R2QKB1R b KQkq - 0 8,"Black has some problems to solve here, the primary one being what to do with the dark-square bishop."
+16,Nxe5,g4e5,r1b1k2r/ppppqppp/8/4n3/1bP2B2/4P3/PP1N1PPP/R2QKB1R w KQkq - 0 9,"Black has some problems to solve here, the primary one being what to do with the dark-square bishop."
+17,Be2,f1e2,r1b1k2r/ppppqppp/8/4n3/1bP2B2/4P3/PP1NBPPP/R2QK2R b KQkq - 1 9,"Black has some problems to solve here, the primary one being what to do with the dark-square bishop."
+18,g5,g7g5,r1b1k2r/ppppqp1p/8/4n1p1/1bP2B2/4P3/PP1NBPPP/R2QK2R w KQkq - 0 10,?! Black does not have enough development for this. Black's best try here is probably 9...a5! looking to restrain white on the Q-side with 10...Bxd2 and 11...a4 (white is threatening to gain space with a3 & b4).
+19,Bg3,f4g3,r1b1k2r/ppppqp1p/8/4n1p1/1bP5/4P1B1/PP1NBPPP/R2QK2R b KQkq - 1 10,"And so ends black's ""initiative."""
+20,h5,h7h5,r1b1k2r/ppppqp2/8/4n1pp/1bP5/4P1B1/PP1NBPPP/R2QK2R w KQkq - 0 11,"And so ends black's ""initiative."""
+21,h4,h2h4,r1b1k2r/ppppqp2/8/4n1pp/1bP4P/4P1B1/PP1NBPP1/R2QK2R b KQkq - 0 11,"And so ends black's ""initiative."""
+22,d6,d7d6,r1b1k2r/ppp1qp2/3p4/4n1pp/1bP4P/4P1B1/PP1NBPP1/R2QK2R w KQkq - 0 12,Gaining the bishop pair.
+23,a3,a2a3,r1b1k2r/ppp1qp2/3p4/4n1pp/1bP4P/P3P1B1/1P1NBPP1/R2QK2R b KQkq - 0 12,Gaining the bishop pair.
+24,Bxd2+,b4d2,r1b1k2r/ppp1qp2/3p4/4n1pp/2P4P/P3P1B1/1P1bBPP1/R2QK2R w KQkq - 0 13,"Black has nothing, and is about to develop king safety issues"
+25,Qxd2,d1d2,r1b1k2r/ppp1qp2/3p4/4n1pp/2P4P/P3P1B1/1P1QBPP1/R3K2R b KQkq - 0 13,"Black has nothing, and is about to develop king safety issues"
+26,Bg4,c8g4,r3k2r/ppp1qp2/3p4/4n1pp/2P3bP/P3P1B1/1P1QBPP1/R3K2R w KQkq - 1 14,!? trying to keep the black king in the center.
+27,c5,c4c5,r3k2r/ppp1qp2/3p4/2P1n1pp/6bP/P3P1B1/1P1QBPP1/R3K2R b KQkq - 0 14,!? trying to keep the black king in the center.
+28,Bxe2,g4e2,r3k2r/ppp1qp2/3p4/2P1n1pp/7P/P3P1B1/1P1QbPP1/R3K2R w KQkq - 0 15,"The immediate 14...O-O-O 15 cxd6 is troublesome for black, for example 15...Rxd6 16.Qa5! or 15...cxd6 16.f3 Bd7 17.Rc1+ or 15...Qxd6 16.Qxd6 cxd6 17.f3 Bd7 18.Rc1+"
+29,cxd6,c5d6,r3k2r/ppp1qp2/3P4/4n1pp/7P/P3P1B1/1P1QbPP1/R3K2R b KQkq - 0 15,"Losing the g-pawn, but otherwise black's king will be stuck in the center with no prospects."
+30,Qxd6,e7d6,r3k2r/ppp2p2/3q4/4n1pp/7P/P3P1B1/1P1QbPP1/R3K2R w KQkq - 0 16,"Losing the g-pawn, but otherwise black's king will be stuck in the center with no prospects."
+31,Qxe2,d2e2,r3k2r/ppp2p2/3q4/4n1pp/7P/P3P1B1/1P2QPP1/R3K2R b KQkq - 0 16,"Losing the g-pawn, but otherwise black's king will be stuck in the center with no prospects."
+32,O-O-O,e8c8,2kr3r/ppp2p2/3q4/4n1pp/7P/P3P1B1/1P2QPP1/R3K2R w KQ - 1 17,"Losing the g-pawn, but otherwise black's king will be stuck in the center with no prospects."
+33,hxg5,h4g5,2kr3r/ppp2p2/3q4/4n1Pp/8/P3P1B1/1P2QPP1/R3K2R b KQ - 0 17,! Now white returns the pawn to activate his rooks.
+34,Nd3+,e5d3,2kr3r/ppp2p2/3q4/6Pp/8/P2nP1B1/1P2QPP1/R3K2R w KQ - 1 18,! Now white returns the pawn to activate his rooks.
+35,Kf1,e1f1,2kr3r/ppp2p2/3q4/6Pp/8/P2nP1B1/1P2QPP1/R4K1R b - - 2 18,! Now white returns the pawn to activate his rooks.
+36,Qg6,d6g6,2kr3r/ppp2p2/6q1/6Pp/8/P2nP1B1/1P2QPP1/R4K1R w - - 3 19,! Now white returns the pawn to activate his rooks.
+37,Rh4,h1h4,2kr3r/ppp2p2/6q1/6Pp/7R/P2nP1B1/1P2QPP1/R4K2 b - - 4 19,! Now white returns the pawn to activate his rooks.
+38,Qxg5,g6g5,2kr3r/ppp2p2/8/6qp/7R/P2nP1B1/1P2QPP1/R4K2 w - - 0 20,Prevents the N from coming back to defend the black K
+39,Rd1,a1d1,2kr3r/ppp2p2/8/6qp/7R/P2nP1B1/1P2QPP1/3R1K2 b - - 1 20,Prevents the N from coming back to defend the black K
+40,Qg6,g5g6,2kr3r/ppp2p2/6q1/7p/7R/P2nP1B1/1P2QPP1/3R1K2 w - - 2 21,Prevents the N from coming back to defend the black K
+41,b4,b2b4,2kr3r/ppp2p2/6q1/7p/1P5R/P2nP1B1/4QPP1/3R1K2 b - - 0 21,Prevents the N from coming back to defend the black K
+42,f6,f7f6,2kr3r/ppp5/5pq1/7p/1P5R/P2nP1B1/4QPP1/3R1K2 w - - 0 22,! First things first - white needs to secure his own king
+43,Kg1,f1g1,2kr3r/ppp5/5pq1/7p/1P5R/P2nP1B1/4QPP1/3R2K1 b - - 1 22,! First things first - white needs to secure his own king
+44,Ne5,d3e5,2kr3r/ppp5/5pq1/4n2p/1P5R/P3P1B1/4QPP1/3R2K1 w - - 2 23,23...Rxd8 loses the h-pawn.
+45,Rxd8+,d1d8,2kR3r/ppp5/5pq1/4n2p/1P5R/P3P1B1/4QPP1/6K1 b - - 0 23,23...Rxd8 loses the h-pawn.
+46,Kxd8,c8d8,3k3r/ppp5/5pq1/4n2p/1P5R/P3P1B1/4QPP1/6K1 w - - 0 24,23...Rxd8 loses the h-pawn.
+47,Bxe5,g3e5,3k3r/ppp5/5pq1/4B2p/1P5R/P3P3/4QPP1/6K1 b - - 0 24,Attacking both the b & e pawns
+48,fxe5,f6e5,3k3r/ppp5/6q1/4p2p/1P5R/P3P3/4QPP1/6K1 w - - 0 25,Attacking both the b & e pawns
+49,Qb5,e2b5,3k3r/ppp5/6q1/1Q2p2p/1P5R/P3P3/5PP1/6K1 b - - 1 25,Attacking both the b & e pawns
+50,Qf6,g6f6,3k3r/ppp5/5q2/1Q2p2p/1P5R/P3P3/5PP1/6K1 w - - 2 26,"? Black puts up more resistance with 25...Kc8, though after 26.Qxe5 white's connected central passed pawns will be enough to secure the win."
+51,Qxb7,b5b7,3k3r/pQp5/5q2/4p2p/1P5R/P3P3/5PP1/6K1 b - - 0 26,Black is lost.
+52,Rf8,h8f8,3k1r2/pQp5/5q2/4p2p/1P5R/P3P3/5PP1/6K1 w - - 1 27,26...Qxh4 27.Qa8+ and 28.Qxh8 is an easily won Q+P endgame. Black's scattered pawns will be impossible to defend.

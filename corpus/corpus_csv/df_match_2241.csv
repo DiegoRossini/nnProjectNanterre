@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,decided to try sicilian
+2,b5,b7b5,rnbqkbnr/p1pppppp/8/1p6/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,decided to try sicilian
+3,a3,a2a3,rnbqkbnr/p1pppppp/8/1p6/3P4/P7/1PP1PPPP/RNBQKBNR b KQkq - 0 2,ops
+4,d5,d7d5,rnbqkbnr/p1p1pppp/8/1p1p4/3P4/P7/1PP1PPPP/RNBQKBNR w KQkq - 0 3,ops
+5,e3,e2e3,rnbqkbnr/p1p1pppp/8/1p1p4/3P4/P3P3/1PP2PPP/RNBQKBNR b KQkq - 0 3,ops
+6,Nd7,b8d7,r1bqkbnr/p1pnpppp/8/1p1p4/3P4/P3P3/1PP2PPP/RNBQKBNR w KQkq - 1 4,ops
+7,Bxb5,f1b5,r1bqkbnr/p1pnpppp/8/1B1p4/3P4/P3P3/1PP2PPP/RNBQK1NR b KQkq - 0 4,ops
+8,c6,c7c6,r1bqkbnr/p2npppp/2p5/1B1p4/3P4/P3P3/1PP2PPP/RNBQK1NR w KQkq - 0 5,ok this was a bad start
+9,Ba4,b5a4,r1bqkbnr/p2npppp/2p5/3p4/B2P4/P3P3/1PP2PPP/RNBQK1NR b KQkq - 1 5,ok this was a bad start
+10,Qa5+,d8a5,r1b1kbnr/p2npppp/2p5/q2p4/B2P4/P3P3/1PP2PPP/RNBQK1NR w KQkq - 2 6,ok this was a bad start
+11,Nc3,b1c3,r1b1kbnr/p2npppp/2p5/q2p4/B2P4/P1N1P3/1PP2PPP/R1BQK1NR b KQkq - 3 6,ok this was a bad start
+12,e6,e7e6,r1b1kbnr/p2n1ppp/2p1p3/q2p4/B2P4/P1N1P3/1PP2PPP/R1BQK1NR w KQkq - 0 7,ok this was a bad start
+13,Bd2,c1d2,r1b1kbnr/p2n1ppp/2p1p3/q2p4/B2P4/P1N1P3/1PPB1PPP/R2QK1NR b KQkq - 1 7,ok this was a bad start
+14,Bd6,f8d6,r1b1k1nr/p2n1ppp/2pbp3/q2p4/B2P4/P1N1P3/1PPB1PPP/R2QK1NR w KQkq - 2 8,ok this was a bad start
+15,Bxc6,a4c6,r1b1k1nr/p2n1ppp/2Bbp3/q2p4/3P4/P1N1P3/1PPB1PPP/R2QK1NR b KQkq - 0 8,ok this was a bad start
+16,Rb8,a8b8,1rb1k1nr/p2n1ppp/2Bbp3/q2p4/3P4/P1N1P3/1PPB1PPP/R2QK1NR w KQk - 1 9,ok this was a bad start
+17,b4,b2b4,1rb1k1nr/p2n1ppp/2Bbp3/q2p4/1P1P4/P1N1P3/2PB1PPP/R2QK1NR b KQk - 0 9,ok this was a bad start
+18,Qb6,a5b6,1rb1k1nr/p2n1ppp/1qBbp3/3p4/1P1P4/P1N1P3/2PB1PPP/R2QK1NR w KQk - 1 10,ok this was a bad start
+19,Bxd7+,c6d7,1rb1k1nr/p2B1ppp/1q1bp3/3p4/1P1P4/P1N1P3/2PB1PPP/R2QK1NR b KQk - 0 10,ok this was a bad start
+20,Bxd7,c8d7,1r2k1nr/p2b1ppp/1q1bp3/3p4/1P1P4/P1N1P3/2PB1PPP/R2QK1NR w KQk - 0 11,won 1 pawn back
+21,Nf3,g1f3,1r2k1nr/p2b1ppp/1q1bp3/3p4/1P1P4/P1N1PN2/2PB1PPP/R2QK2R b KQk - 1 11,won 1 pawn back
+22,Nf6,g8f6,1r2k2r/p2b1ppp/1q1bpn2/3p4/1P1P4/P1N1PN2/2PB1PPP/R2QK2R w KQk - 2 12,won 1 pawn back
+23,a4,a3a4,1r2k2r/p2b1ppp/1q1bpn2/3p4/PP1P4/2N1PN2/2PB1PPP/R2QK2R b KQk - 0 12,won 1 pawn back
+24,Bxb4,d6b4,1r2k2r/p2b1ppp/1q2pn2/3p4/Pb1P4/2N1PN2/2PB1PPP/R2QK2R w KQk - 0 13,won 1 pawn back
+25,Nb5,c3b5,1r2k2r/p2b1ppp/1q2pn2/1N1p4/Pb1P4/4PN2/2PB1PPP/R2QK2R b KQk - 1 13,here things started to look better
+26,Bxd2+,b4d2,1r2k2r/p2b1ppp/1q2pn2/1N1p4/P2P4/4PN2/2Pb1PPP/R2QK2R w KQk - 0 14,here things started to look better
+27,Nxd2,f3d2,1r2k2r/p2b1ppp/1q2pn2/1N1p4/P2P4/4P3/2PN1PPP/R2QK2R b KQk - 0 14,here things started to look better
+28,Bxb5,d7b5,1r2k2r/p4ppp/1q2pn2/1b1p4/P2P4/4P3/2PN1PPP/R2QK2R w KQk - 0 15,here things started to look better
+29,axb5,a4b5,1r2k2r/p4ppp/1q2pn2/1P1p4/3P4/4P3/2PN1PPP/R2QK2R b KQk - 0 15,here things started to look better
+30,O-O,e8g8,1r3rk1/p4ppp/1q2pn2/1P1p4/3P4/4P3/2PN1PPP/R2QK2R w KQ - 1 16,here things started to look better
+31,Rb1,a1b1,1r3rk1/p4ppp/1q2pn2/1P1p4/3P4/4P3/2PN1PPP/1R1QK2R b K - 2 16,here things started to look better
+32,Rfc8,f8c8,1rr3k1/p4ppp/1q2pn2/1P1p4/3P4/4P3/2PN1PPP/1R1QK2R w K - 3 17,here things started to look better
+33,O-O,e1g1,1rr3k1/p4ppp/1q2pn2/1P1p4/3P4/4P3/2PN1PPP/1R1Q1RK1 b - - 4 17,here things started to look better
+34,Qd6,b6d6,1rr3k1/p4ppp/3qpn2/1P1p4/3P4/4P3/2PN1PPP/1R1Q1RK1 w - - 5 18,here things started to look better
+35,Nf3,d2f3,1rr3k1/p4ppp/3qpn2/1P1p4/3P4/4PN2/2P2PPP/1R1Q1RK1 b - - 6 18,here things started to look better
+36,Ng4,f6g4,1rr3k1/p4ppp/3qp3/1P1p4/3P2n1/4PN2/2P2PPP/1R1Q1RK1 w - - 7 19,here things started to look better
+37,Ne5,f3e5,1rr3k1/p4ppp/3qp3/1P1pN3/3P2n1/4P3/2P2PPP/1R1Q1RK1 b - - 8 19,here things started to look better
+38,Nxe5,g4e5,1rr3k1/p4ppp/3qp3/1P1pn3/3P4/4P3/2P2PPP/1R1Q1RK1 w - - 0 20,pawn cannot be taken because rg4-kh1.....Qe4 mate
+39,dxe5,d4e5,1rr3k1/p4ppp/3qp3/1P1pP3/8/4P3/2P2PPP/1R1Q1RK1 b - - 0 20,pawn cannot be taken because rg4-kh1.....Qe4 mate
+40,Qxe5,d6e5,1rr3k1/p4ppp/4p3/1P1pq3/8/4P3/2P2PPP/1R1Q1RK1 w - - 0 21,pawn cannot be taken because rg4-kh1.....Qe4 mate
+41,g3,g2g3,1rr3k1/p4ppp/4p3/1P1pq3/8/4P1P1/2P2P1P/1R1Q1RK1 b - - 0 21,pawn cannot be taken because rg4-kh1.....Qe4 mate
+42,h5,h7h5,1rr3k1/p4pp1/4p3/1P1pq2p/8/4P1P1/2P2P1P/1R1Q1RK1 w - - 0 22,pawn cannot be taken because rg4-kh1.....Qe4 mate
+43,c3,c2c3,1rr3k1/p4pp1/4p3/1P1pq2p/8/2P1P1P1/5P1P/1R1Q1RK1 b - - 0 22,pawn cannot be taken because rg4-kh1.....Qe4 mate
+44,Rc4,c8c4,1r4k1/p4pp1/4p3/1P1pq2p/2r5/2P1P1P1/5P1P/1R1Q1RK1 w - - 1 23,pawn cannot be taken because rg4-kh1.....Qe4 mate
+45,Ra1,b1a1,1r4k1/p4pp1/4p3/1P1pq2p/2r5/2P1P1P1/5P1P/R2Q1RK1 b - - 2 23,pawn cannot be taken because rg4-kh1.....Qe4 mate
+46,h4,h5h4,1r4k1/p4pp1/4p3/1P1pq3/2r4p/2P1P1P1/5P1P/R2Q1RK1 w - - 0 24,pawn cannot be taken because rg4-kh1.....Qe4 mate
+47,Rxa7,a1a7,1r4k1/R4pp1/4p3/1P1pq3/2r4p/2P1P1P1/5P1P/3Q1RK1 b - - 0 24,fpawn cannot take because Qxe3 winning the rook
+48,hxg3,h4g3,1r4k1/R4pp1/4p3/1P1pq3/2r5/2P1P1p1/5P1P/3Q1RK1 w - - 0 25,fpawn cannot take because Qxe3 winning the rook
+49,hxg3,h2g3,1r4k1/R4pp1/4p3/1P1pq3/2r5/2P1P1P1/5P2/3Q1RK1 b - - 0 25,fpawn cannot take because Qxe3 winning the rook
+50,Rxc3,c4c3,1r4k1/R4pp1/4p3/1P1pq3/8/2r1P1P1/5P2/3Q1RK1 w - - 0 26,now took my a2 pawn back
+51,Qb1,d1b1,1r4k1/R4pp1/4p3/1P1pq3/8/2r1P1P1/5P2/1Q3RK1 b - - 1 26,here i knew its all over for white
+52,d4,d5d4,1r4k1/R4pp1/4p3/1P2q3/3p4/2r1P1P1/5P2/1Q3RK1 w - - 0 27,clearly white didnt see the move rxg3
+53,exd4,e3d4,1r4k1/R4pp1/4p3/1P2q3/3P4/2r3P1/5P2/1Q3RK1 b - - 0 27,clearly white didnt see the move rxg3
+54,Qxd4,e5d4,1r4k1/R4pp1/4p3/1P6/3q4/2r3P1/5P2/1Q3RK1 w - - 0 28,clearly white didnt see the move rxg3
+55,b6,b5b6,1r4k1/R4pp1/1P2p3/8/3q4/2r3P1/5P2/1Q3RK1 b - - 0 28,clearly white didnt see the move rxg3
+56,Rxg3+,c3g3,1r4k1/R4pp1/1P2p3/8/3q4/6r1/5P2/1Q3RK1 w - - 0 29,theres nothing to be done anymore
+57,Kh2,g1h2,1r4k1/R4pp1/1P2p3/8/3q4/6r1/5P1K/1Q3R2 b - - 1 29,So this was my second real game here and i know i made alot of mistakes mostly because i cant really play chess.
+58,Qh4#,d4h4,1r4k1/R4pp1/1P2p3/8/7q/6r1/5P1K/1Q3R2 w - - 2 30,So this was my second real game here and i know i made alot of mistakes mostly because i cant really play chess.

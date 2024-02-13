@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I start with my regular queen's pawn opening and hope for d7d5 so I can play the queen's gambit.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,He obliges
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Hmm, last game he accepted, this time he declined."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Hmm, last game he accepted, this time he declined."
+5,e3,e2e3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,"Sometimes I play this, sometimes I play Nc3. The always both get played, but sometimes the move order is different."
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,"When black moves his bishop to b4 to pin my knight, I often play this so that if he exchanges I don't get doubled pawns or isolated pawns. This also threatens his bishop, and supports my c pawn."
+7,Nc3,b1c3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 2 4,"When black moves his bishop to b4 to pin my knight, I often play this so that if he exchanges I don't get doubled pawns or isolated pawns. This also threatens his bishop, and supports my c pawn."
+8,Bb4,f8b4,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 3 5,"When black moves his bishop to b4 to pin my knight, I often play this so that if he exchanges I don't get doubled pawns or isolated pawns. This also threatens his bishop, and supports my c pawn."
+9,Qb3,d1b3,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/1QN1P3/PP3PPP/R1B1KBNR b KQkq - 4 5,"When black moves his bishop to b4 to pin my knight, I often play this so that if he exchanges I don't get doubled pawns or isolated pawns. This also threatens his bishop, and supports my c pawn."
+10,a5,a7a5,rnbqk2r/1pp2ppp/4pn2/p2p4/1bPP4/1QN1P3/PP3PPP/R1B1KBNR w KQkq - 0 6,"With my queen defending my knight, I can safely chase away the bishop."
+11,a3,a2a3,rnbqk2r/1pp2ppp/4pn2/p2p4/1bPP4/PQN1P3/1P3PPP/R1B1KBNR b KQkq - 0 6,"With my queen defending my knight, I can safely chase away the bishop."
+12,Bd6,b4d6,rnbqk2r/1pp2ppp/3bpn2/p2p4/2PP4/PQN1P3/1P3PPP/R1B1KBNR w KQkq - 1 7,Better would have been Nxe4 as this allows him to displace my king.
+13,Bd2,c1d2,rnbqk2r/1pp2ppp/3bpn2/p2p4/2PP4/PQN1P3/1P1B1PPP/R3KBNR b KQkq - 2 7,Better would have been Nxe4 as this allows him to displace my king.
+14,Ne4,f6e4,rnbqk2r/1pp2ppp/3bp3/p2p4/2PPn3/PQN1P3/1P1B1PPP/R3KBNR w KQkq - 3 8,Better would have been Nxe4 as this allows him to displace my king.
+15,Bd3,f1d3,rnbqk2r/1pp2ppp/3bp3/p2p4/2PPn3/PQNBP3/1P1B1PPP/R3K1NR b KQkq - 4 8,Better would have been Nxe4 as this allows him to displace my king.
+16,Nxd2,e4d2,rnbqk2r/1pp2ppp/3bp3/p2p4/2PP4/PQNBP3/1P1n1PPP/R3K1NR w KQkq - 0 9,I complete minor piece development and have a major developmental advantage over him.
+17,Kxd2,e1d2,rnbqk2r/1pp2ppp/3bp3/p2p4/2PP4/PQNBP3/1P1K1PPP/R5NR b kq - 0 9,I complete minor piece development and have a major developmental advantage over him.
+18,O-O,e8g8,rnbq1rk1/1pp2ppp/3bp3/p2p4/2PP4/PQNBP3/1P1K1PPP/R5NR w - - 1 10,I complete minor piece development and have a major developmental advantage over him.
+19,Nf3,g1f3,rnbq1rk1/1pp2ppp/3bp3/p2p4/2PP4/PQNBPN2/1P1K1PPP/R6R b - - 2 10,I complete minor piece development and have a major developmental advantage over him.
+20,f6,f7f6,rnbq1rk1/1pp3pp/3bpp2/p2p4/2PP4/PQNBPN2/1P1K1PPP/R6R w - - 0 11,I notice I have enough attackers to win a pawn here.
+21,cxd5,c4d5,rnbq1rk1/1pp3pp/3bpp2/p2P4/3P4/PQNBPN2/1P1K1PPP/R6R b - - 0 11,I notice I have enough attackers to win a pawn here.
+22,Re8,f8e8,rnbqr1k1/1pp3pp/3bpp2/p2P4/3P4/PQNBPN2/1P1K1PPP/R6R w - - 1 12,He doesn't bother to recapture.
+23,Rhe1,h1e1,rnbqr1k1/1pp3pp/3bpp2/p2P4/3P4/PQNBPN2/1P1K1PPP/R3R3 b - - 2 12,"I don't like this, It allows me to undouble my pawns."
+24,e5,e6e5,rnbqr1k1/1pp3pp/3b1p2/p2Pp3/3P4/PQNBPN2/1P1K1PPP/R3R3 w - - 0 13,"I don't like this, It allows me to undouble my pawns."
+25,dxe5,d4e5,rnbqr1k1/1pp3pp/3b1p2/p2PP3/8/PQNBPN2/1P1K1PPP/R3R3 b - - 0 13,I threaten Bxgh7+
+26,fxe5,f6e5,rnbqr1k1/1pp3pp/3b4/p2Pp3/8/PQNBPN2/1P1K1PPP/R3R3 w - - 0 14,I threaten Bxgh7+
+27,Qc2,b3c2,rnbqr1k1/1pp3pp/3b4/p2Pp3/8/P1NBPN2/1PQK1PPP/R3R3 b - - 1 14,I threaten Bxgh7+
+28,Nd7,b8d7,r1bqr1k1/1ppn2pp/3b4/p2Pp3/8/P1NBPN2/1PQK1PPP/R3R3 w - - 2 15,He misses it
+29,Bxh7+,d3h7,r1bqr1k1/1ppn2pB/3b4/p2Pp3/8/P1N1PN2/1PQK1PPP/R3R3 b - - 0 15,I continue my attack
+30,Kf8,g8f8,r1bqrk2/1ppn2pB/3b4/p2Pp3/8/P1N1PN2/1PQK1PPP/R3R3 w - - 1 16,I continue my attack
+31,Qf5+,c2f5,r1bqrk2/1ppn2pB/3b4/p2PpQ2/8/P1N1PN2/1P1K1PPP/R3R3 b - - 2 16,I continue my attack
+32,Nf6,d7f6,r1bqrk2/1pp3pB/3b1n2/p2PpQ2/8/P1N1PN2/1P1K1PPP/R3R3 w - - 3 17,Looking for an opening and getting out of the way of the discovered attack.
+33,Qg6,f5g6,r1bqrk2/1pp3pB/3b1nQ1/p2Pp3/8/P1N1PN2/1P1K1PPP/R3R3 b - - 4 17,Looking for an opening and getting out of the way of the discovered attack.
+34,c6,c7c6,r1bqrk2/1p4pB/2pb1nQ1/p2Pp3/8/P1N1PN2/1P1K1PPP/R3R3 w - - 0 18,I bring another attacker into play and threaten mate
+35,Ng5,f3g5,r1bqrk2/1p4pB/2pb1nQ1/p2Pp1N1/8/P1N1P3/1P1K1PPP/R3R3 b - - 1 18,I bring another attacker into play and threaten mate
+36,Ke7,f8e7,r1bqr3/1p2k1pB/2pb1nQ1/p2Pp1N1/8/P1N1P3/1P1K1PPP/R3R3 w - - 2 19,"Allows mate in one, better would have been Qd7. We are now playing a tiebreaker game that I will annotate after it's finished."
+37,Qf7#,g6f7,r1bqr3/1p2kQpB/2pb1n2/p2Pp1N1/8/P1N1P3/1P1K1PPP/R3R3 b - - 3 19,

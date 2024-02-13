@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White opens with a kingside attack. Black responds by accepting and thus up a pawn. My common thinking here is that advancing the e and f pawns is risky because if white makes a mistake, the king is vulnerable. If black makes a mistake, black is down a pawn or maybe a piece."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"White opens with a kingside attack. Black responds by accepting and thus up a pawn. My common thinking here is that advancing the e and f pawns is risky because if white makes a mistake, the king is vulnerable. If black makes a mistake, black is down a pawn or maybe a piece."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"White opens with a kingside attack. Black responds by accepting and thus up a pawn. My common thinking here is that advancing the e and f pawns is risky because if white makes a mistake, the king is vulnerable. If black makes a mistake, black is down a pawn or maybe a piece."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"White opens with a kingside attack. Black responds by accepting and thus up a pawn. My common thinking here is that advancing the e and f pawns is risky because if white makes a mistake, the king is vulnerable. If black makes a mistake, black is down a pawn or maybe a piece."
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,Both sides prepare for further king side activity.
+6,Be7,f8e7,rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4,Both sides prepare for further king side activity.
+7,h4,h2h4,rnbqk1nr/ppppbppp/8/8/4Pp1P/5N2/PPPP2P1/RNBQKB1R b KQkq - 0 4,Both sides prepare for further king side activity.
+8,Nf6,g8f6,rnbqk2r/ppppbppp/5n2/8/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 1 5,Both sides prepare for further king side activity.
+9,Nc3,b1c3,rnbqk2r/ppppbppp/5n2/8/4Pp1P/2N2N2/PPPP2P1/R1BQKB1R b KQkq - 2 5,White moves to control the center and attack the f4 pawn.
+10,d6,d7d6,rnbqk2r/ppp1bppp/3p1n2/8/4Pp1P/2N2N2/PPPP2P1/R1BQKB1R w KQkq - 0 6,White moves to control the center and attack the f4 pawn.
+11,d4,d2d4,rnbqk2r/ppp1bppp/3p1n2/8/3PPp1P/2N2N2/PPP3P1/R1BQKB1R b KQkq - 0 6,White moves to control the center and attack the f4 pawn.
+12,Nh5,f6h5,rnbqk2r/ppp1bppp/3p4/7n/3PPp1P/2N2N2/PPP3P1/R1BQKB1R w KQkq - 1 7,Black moves to protect the f4 pawn and threaten moving to g3.
+13,Bc4,f1c4,rnbqk2r/ppp1bppp/3p4/7n/2BPPp1P/2N2N2/PPP3P1/R1BQK2R b KQkq - 2 7,Black and white get more pieces ready to roll.
+14,Nc6,b8c6,r1bqk2r/ppp1bppp/2np4/7n/2BPPp1P/2N2N2/PPP3P1/R1BQK2R w KQkq - 3 8,Black and white get more pieces ready to roll.
+15,Nd5,c3d5,r1bqk2r/ppp1bppp/2np4/3N3n/2BPPp1P/5N2/PPP3P1/R1BQK2R b KQkq - 4 8,"With two pieces attacking the f4 pawn and only one defending, white moves to restore parity."
+16,Bg4,c8g4,r2qk2r/ppp1bppp/2np4/3N3n/2BPPpbP/5N2/PPP3P1/R1BQK2R w KQkq - 5 9,"With two pieces attacking the f4 pawn and only one defending, white moves to restore parity."
+17,Nxf4,d5f4,r2qk2r/ppp1bppp/2np4/7n/2BPPNbP/5N2/PPP3P1/R1BQK2R b KQkq - 0 9,"With two pieces attacking the f4 pawn and only one defending, white moves to restore parity."
+18,Nxf4,h5f4,r2qk2r/ppp1bppp/2np4/8/2BPPnbP/5N2/PPP3P1/R1BQK2R w KQkq - 0 10,White moves the queen out so the king can castle.
+19,Bxf4,c1f4,r2qk2r/ppp1bppp/2np4/8/2BPPBbP/5N2/PPP3P1/R2QK2R b KQkq - 0 10,White moves the queen out so the king can castle.
+20,O-O,e8g8,r2q1rk1/ppp1bppp/2np4/8/2BPPBbP/5N2/PPP3P1/R2QK2R w KQ - 1 11,White moves the queen out so the king can castle.
+21,Qd3,d1d3,r2q1rk1/ppp1bppp/2np4/8/2BPPBbP/3Q1N2/PPP3P1/R3K2R b KQ - 2 11,White moves the queen out so the king can castle.
+22,a6,a7a6,r2q1rk1/1pp1bppp/p1np4/8/2BPPBbP/3Q1N2/PPP3P1/R3K2R w KQ - 0 12,"Castling lines up rook with queen, and lets the rook provide mutual protection. With white's queen and rook lined up, white can advance the center pawns and push black back. White can also push the pawns to threaten pieces in order to get material superiority."
+23,O-O-O,e1c1,r2q1rk1/1pp1bppp/p1np4/8/2BPPBbP/3Q1N2/PPP3P1/2KR3R b - - 1 12,"Castling lines up rook with queen, and lets the rook provide mutual protection. With white's queen and rook lined up, white can advance the center pawns and push black back. White can also push the pawns to threaten pieces in order to get material superiority."
+24,Qe8,d8e8,r3qrk1/1pp1bppp/p1np4/8/2BPPBbP/3Q1N2/PPP3P1/2KR3R w - - 2 13,Queen moves where it is not in the line of fire if the d6 pawn is under attack. This also lets the queen move out the white diagonal if/when the knight moves off c6.
+25,Rdf1,d1f1,r3qrk1/1pp1bppp/p1np4/8/2BPPBbP/3Q1N2/PPP3P1/2K2R1R b - - 3 13,Line up rook so black can push pawn to threaten the white bishop.
+26,Rb8,a8b8,1r2qrk1/1pp1bppp/p1np4/8/2BPPBbP/3Q1N2/PPP3P1/2K2R1R w - - 4 14,Line up rook so black can push pawn to threaten the white bishop.
+27,a3,a2a3,1r2qrk1/1pp1bppp/p1np4/8/2BPPBbP/P2Q1N2/1PP3P1/2K2R1R b - - 0 14,White provides a safe square for the bishop.
+28,b5,b7b5,1r2qrk1/2p1bppp/p1np4/1p6/2BPPBbP/P2Q1N2/1PP3P1/2K2R1R w - - 0 15,The bishop on f6 and knight on f3 can threaten the d4 pawn - but that's not safe if white's knight is still around to protect it.
+29,Ba2,c4a2,1r2qrk1/2p1bppp/p1np4/1p6/3PPBbP/P2Q1N2/BPP3P1/2K2R1R b - - 1 15,The bishop on f6 and knight on f3 can threaten the d4 pawn - but that's not safe if white's knight is still around to protect it.
+30,Bf6,e7f6,1r2qrk1/2p2ppp/p1np1b2/1p6/3PPBbP/P2Q1N2/BPP3P1/2K2R1R w - - 2 16,The bishop on f6 and knight on f3 can threaten the d4 pawn - but that's not safe if white's knight is still around to protect it.
+31,c3,c2c3,1r2qrk1/2p2ppp/p1np1b2/1p6/3PPBbP/P1PQ1N2/BP4P1/2K2R1R b - - 0 16,White gives the pawn some more protection.
+32,Qe7,e8e7,1r3rk1/2p1qppp/p1np1b2/1p6/3PPBbP/P1PQ1N2/BP4P1/2K2R1R w - - 1 17,Now black can threaten the e4 pawn.
+33,h5,h4h5,1r3rk1/2p1qppp/p1np1b2/1p5P/3PPBb1/P1PQ1N2/BP4P1/2K2R1R b - - 0 17,Now black can threaten the e4 pawn.
+34,Rbe8,b8e8,4rrk1/2p1qppp/p1np1b2/1p5P/3PPBb1/P1PQ1N2/BP4P1/2K2R1R w - - 1 18,Now black can threaten the e4 pawn.
+35,e5,e4e5,4rrk1/2p1qppp/p1np1b2/1p2P2P/3P1Bb1/P1PQ1N2/BP4P1/2K2R1R b - - 0 18,"This does not seem wise. There are 3 white pieces protecting the e pawn, but 5 black pieces attacking it. By exchanging several pieces on e5, black can move its forces out into the open where they have more mobility."
+36,dxe5,d6e5,4rrk1/2p1qppp/p1n2b2/1p2p2P/3P1Bb1/P1PQ1N2/BP4P1/2K2R1R w - - 0 19,The exchange begins.
+37,Nxe5,f3e5,4rrk1/2p1qppp/p1n2b2/1p2N2P/3P1Bb1/P1PQ4/BP4P1/2K2R1R b - - 0 19,The exchange ends with four captures and the center columns cleared of pawns.
+38,Bxe5,f6e5,4rrk1/2p1qppp/p1n5/1p2b2P/3P1Bb1/P1PQ4/BP4P1/2K2R1R w - - 0 20,The exchange ends with four captures and the center columns cleared of pawns.
+39,dxe5,d4e5,4rrk1/2p1qppp/p1n5/1p2P2P/5Bb1/P1PQ4/BP4P1/2K2R1R b - - 0 20,The exchange ends with four captures and the center columns cleared of pawns.
+40,Nxe5,c6e5,4rrk1/2p1qppp/p7/1p2n2P/5Bb1/P1PQ4/BP4P1/2K2R1R w - - 0 21,The exchange ends with four captures and the center columns cleared of pawns.
+41,Qd4,d3d4,4rrk1/2p1qppp/p7/1p2n2P/3Q1Bb1/P1P5/BP4P1/2K2R1R b - - 1 21,Threaten white queen to get it move away. Another purpose of this move is so black can move the pawn a step further and block white's bishop on a2. This move has a third purpose which will become evident later.
+42,c5,c7c5,4rrk1/4qppp/p7/1pp1n2P/3Q1Bb1/P1P5/BP4P1/2K2R1R w - - 0 22,Threaten white queen to get it move away. Another purpose of this move is so black can move the pawn a step further and block white's bishop on a2. This move has a third purpose which will become evident later.
+43,Qd5,d4d5,4rrk1/4qppp/p7/1ppQn2P/5Bb1/P1P5/BP4P1/2K2R1R b - - 1 22,"Bishop blocked. White could advance the b2 pawn to unblock the bishop, but this will do for now."
+44,c4,c5c4,4rrk1/4qppp/p7/1p1Qn2P/2p2Bb1/P1P5/BP4P1/2K2R1R w - - 0 23,"Bishop blocked. White could advance the b2 pawn to unblock the bishop, but this will do for now."
+45,Rfe1,f1e1,4rrk1/4qppp/p7/1p1Qn2P/2p2Bb1/P1P5/BP4P1/2K1R2R b - - 1 23,White moves another piece to attack the beleaguered knight. The knight seems in danger with 3 attackers and only 2 defenders. This is where the real fun begins as the purpose of previous moves becomes obvious.

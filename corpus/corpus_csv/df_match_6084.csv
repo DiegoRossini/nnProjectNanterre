@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I start most of my games with e4 or d4, with both moves claiming the center for white."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"My opponent responds with e5, a move with the same purpose as white's first."
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"I decided to go with the king gambit. It immediately attacks the e5 pawn, but it weakens the e1-h4 diagonal, which can be used by black with a timely Qh4+. This opening sacrifices a pawn for fast developpement."
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Black accepts. Other moves included d6 and Bc4.
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"The main follow up for white. It develops a piece, prevents Qh4+ and protects some central squares."
+6,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,"!? This is new to me. It attacks my currently unprotected e4 pawn, and it allows to develop the light squared bishop. This is called the Abbazia defense."
+7,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4,I take his pawn.
+8,Qxd5,d8d5,rnb1kbnr/ppp2ppp/8/3q4/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 5,"I believe that Nf6, attacking the d pawn once more, is slightly better. It avoids the following move by white."
+9,Nc3,b1c3,rnb1kbnr/ppp2ppp/8/3q4/5p2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 5,I develop my queenside knight while gaining a tempi on his queen.
+10,Qa5,d5a5,rnb1kbnr/ppp2ppp/8/q7/5p2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 6,"The best square for the queen. It can't be attacked soon, and it doesn't hinder black's developpement. The idea is similar to the scandinavian defense. (1. e4 d5!? 2. exd5 Qxd5 3. Nc3 Qa5)"
+11,d4,d2d4,rnb1kbnr/ppp2ppp/8/q7/3P1p2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 6,Logical. It frees my dark squared bishop and controls some important central squares. It also pins my own knight to the king though.
+12,Bd6,f8d6,rnb1k1nr/ppp2ppp/3b4/q7/3P1p2/2N2N2/PPP3PP/R1BQKB1R w KQkq - 1 7,"simple developpement, and protecting black's f4 pawn."
+13,Bd2,c1d2,rnb1k1nr/ppp2ppp/3b4/q7/3P1p2/2N2N2/PPPB2PP/R2QKB1R b KQkq - 2 7,I unpin my knight while threatening a discovered attack on his queen.
+14,Qb6,a5b6,rnb1k1nr/ppp2ppp/1q1b4/8/3P1p2/2N2N2/PPPB2PP/R2QKB1R w KQkq - 3 8,My opponent retreats his queen while attacking my b2 and d4 pawns.
+15,Bc4,f1c4,rnb1k1nr/ppp2ppp/1q1b4/8/2BP1p2/2N2N2/PPPB2PP/R2QK2R b KQkq - 4 8,"I ignore my b2 pawn, and opt to develop my other bishop while aiming at the weak f7 square. It also prepare kingside castling. My b2 pawn is somewhat poisonous after 8. Bc4 Qxb2?! 9. Rb1 Qa3. (The black queen is misplaced)"
+16,Bg4,c8g4,rn2k1nr/ppp2ppp/1q1b4/8/2BP1pb1/2N2N2/PPPB2PP/R2QK2R w KQkq - 5 9,"?! Although this move seems good, it is not. GK thinks this is a mistake. It pins my knight, which could be annoying. However, some pins can be converted into discovered attack...
+Mistake: +2.13 » … Bg4 8. Na4 Bxf3 9. Qxf3 Qxd4 10. Qxb7 Qxc4 11. Qxa8 c6 12. Qxa7 Qxc2 13. Rf1
+Best: +0.91 » … Be6 8. Qe2 Ne7 9. Bxe6 fxe6 10. O-O-O Nbc6 11. Rhe1 Nd8 12. Ng5 O-O 13. Nxe6 Nxe6 14. Qxe6+"
+17,Bxf7+,c4f7,rn2k1nr/ppp2Bpp/1q1b4/8/3P1pb1/2N2N2/PPPB2PP/R2QK2R b KQkq - 0 9,"?! This move is a blunder, but it is hard to find the correct moves for black in order to refute this sacrifice.
+Anyway, it forces the black king to move, which prevents black from castling."
+18,Kxf7,e8f7,rn4nr/ppp2kpp/1q1b4/8/3P1pb1/2N2N2/PPPB2PP/R2QK2R w KQ - 0 10,Black takes.
+19,Ng5+,f3g5,rn4nr/ppp2kpp/1q1b4/6N1/3P1pb1/2N5/PPPB2PP/R2QK2R b KQ - 1 10,The only logical follow-up. I check the black king while attacking his bishop with my queen.
+20,Ke8,f7e8,rn2k1nr/ppp3pp/1q1b4/6N1/3P1pb1/2N5/PPPB2PP/R2QK2R w KQ - 2 11,"? The king retreats to his original square. However, this is a mistake. The counter-intuitive Kg6 was better for black. GK recommend this line:
+ Best: -2.21 » … Kg6 10. Qxg4 Nf6 11. Qh4 Re8+ 12. Kd1 Nc6 13. Kc1 Nxd4 14. Nf3 Nxf3 15. gxf3 Rad8 16. Bxf4 Bxf4+ 17. Qxf4"

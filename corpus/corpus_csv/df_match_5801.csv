@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Fighting the Pirc Defense against a 1900+ player. This can get deep very quickly.
+7,Be2,f1e2,rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR b KQkq - 1 4,A quiet yet flexible move. I decided the Austrian Attack was too flashy. Be2 allows me to transpose to a few different variations.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR w KQkq - 2 5,Redundancy or overprotection?
+9,f3,f2f3,rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2P2/PPP1B1PP/R1BQK1NR b KQkq - 0 5,Redundancy or overprotection?
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N2P2/PPP1B1PP/R1BQK1NR w KQ - 1 6,I am able to do this without fear as the c8-Bishop is temporarily blocked.
+11,Be3,c1e3,rnbq1rk1/ppp1ppbp/3p1np1/8/3PP3/2N1BP2/PPP1B1PP/R2QK1NR b KQ - 2 6,I am able to do this without fear as the c8-Bishop is temporarily blocked.
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/3PP3/2N1BP2/PPP1B1PP/R2QK1NR w KQ - 3 7,I am able to do this without fear as the c8-Bishop is temporarily blocked.
+13,Nh3,g1h3,r1bq1rk1/pppnppbp/3p1np1/8/3PP3/2N1BP1N/PPP1B1PP/R2QK2R b KQ - 4 7,I am able to do this without fear as the c8-Bishop is temporarily blocked.
+14,c5,c7c5,r1bq1rk1/pp1nppbp/3p1np1/2p5/3PP3/2N1BP1N/PPP1B1PP/R2QK2R w KQ - 0 8,Choosing to keep the center closed while grabbing space.
+15,d5,d4d5,r1bq1rk1/pp1nppbp/3p1np1/2pP4/4P3/2N1BP1N/PPP1B1PP/R2QK2R b KQ - 0 8,Choosing to keep the center closed while grabbing space.
+16,a6,a7a6,r1bq1rk1/1p1nppbp/p2p1np1/2pP4/4P3/2N1BP1N/PPP1B1PP/R2QK2R w KQ - 0 9,Preparing the Pawn Storm.
+17,a4,a2a4,r1bq1rk1/1p1nppbp/p2p1np1/2pP4/P3P3/2N1BP1N/1PP1B1PP/R2QK2R b KQ - 0 9,This pawn will be very important in the upcoming conflict.
+18,b6,b7b6,r1bq1rk1/3nppbp/pp1p1np1/2pP4/P3P3/2N1BP1N/1PP1B1PP/R2QK2R w KQ - 0 10,Supports a push on the c-file. Also prepares for checking tactics along the a6-f1 and a7-g1 diagonals once my King castles short. Castling long would be lunacy.
+19,Nf2,h3f2,r1bq1rk1/3nppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PP1BNPP/R2QK2R b KQ - 1 10,Supports a push on the c-file. Also prepares for checking tactics along the a6-f1 and a7-g1 diagonals once my King castles short. Castling long would be lunacy.
+20,Qc7,d8c7,r1b2rk1/2qnppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PP1BNPP/R2QK2R w KQ - 2 11,Supports a push on the c-file. Also prepares for checking tactics along the a6-f1 and a7-g1 diagonals once my King castles short. Castling long would be lunacy.
+21,O-O,e1g1,r1b2rk1/2qnppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PP1BNPP/R2Q1RK1 b - - 3 11,"Both Black Bishops are fianchettoed. If my pawns are weakened I will be prone to sniper attacks from both long diagonals. Furthermore, the Rooks are connected. Black's strategic ideas are made clear. He wants to continue advancing Queenside, possibly trade Rooks grabbing the a-file and either pin or skewer the c3-Knight or force it off the edge of the board using the dark-squared Bishop. On the other hand, I want to remove the active dark-squared Bishop, hold the center and forge through the middle as Black's flank attacks run out of fuel. I usually have good results with ascending pawn chain formations so I think I can last a while here."
+22,Bb7,c8b7,r4rk1/1bqnppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PP1BNPP/R2Q1RK1 w - - 4 12,"Both Black Bishops are fianchettoed. If my pawns are weakened I will be prone to sniper attacks from both long diagonals. Furthermore, the Rooks are connected. Black's strategic ideas are made clear. He wants to continue advancing Queenside, possibly trade Rooks grabbing the a-file and either pin or skewer the c3-Knight or force it off the edge of the board using the dark-squared Bishop. On the other hand, I want to remove the active dark-squared Bishop, hold the center and forge through the middle as Black's flank attacks run out of fuel. I usually have good results with ascending pawn chain formations so I think I can last a while here."
+23,Qd2,d1d2,r4rk1/1bqnppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PPQBNPP/R4RK1 b - - 5 12,Creating a temporary skewering liability to stave off a c4 push. I probably should have played Bh6 first but I was not making deep analyses in this very short game.
+24,Rac8,a8c8,2r2rk1/1bqnppbp/pp1p1np1/2pP4/P3P3/2N1BP2/1PPQBNPP/R4RK1 w - - 6 13,Creating a temporary skewering liability to stave off a c4 push. I probably should have played Bh6 first but I was not making deep analyses in this very short game.
+25,b3,b2b3,2r2rk1/1bqnppbp/pp1p1np1/2pP4/P3P3/1PN1BP2/2PQBNPP/R4RK1 b - - 0 13,Creating a temporary skewering liability to stave off a c4 push. I probably should have played Bh6 first but I was not making deep analyses in this very short game.
+26,Rfe8,f8e8,2r1r1k1/1bqnppbp/pp1p1np1/2pP4/P3P3/1PN1BP2/2PQBNPP/R4RK1 w - - 1 14,Yep. I should have played Bh6 first.
+27,Bh6,e3h6,2r1r1k1/1bqnppbp/pp1p1npB/2pP4/P3P3/1PN2P2/2PQBNPP/R4RK1 b - - 2 14,The Bishop still lives.
+28,Bh8,g7h8,2r1r1kb/1bqnpp1p/pp1p1npB/2pP4/P3P3/1PN2P2/2PQBNPP/R4RK1 w - - 3 15,The Bishop still lives.
+29,Rab1,a1b1,2r1r1kb/1bqnpp1p/pp1p1npB/2pP4/P3P3/1PN2P2/2PQBNPP/1R3RK1 b - - 4 15,Protecting the Rook.
+30,e6,e7e6,2r1r1kb/1bqn1p1p/pp1ppnpB/2pP4/P3P3/1PN2P2/2PQBNPP/1R3RK1 w - - 0 16,Black begins to contest my center.
+31,Bc4,e2c4,2r1r1kb/1bqn1p1p/pp1ppnpB/2pP4/P1B1P3/1PN2P2/2PQ1NPP/1R3RK1 b - - 1 16,The next series of moves were made instinctively as the clock dipped under a the minute mark.
+32,Ne5,d7e5,2r1r1kb/1bq2p1p/pp1ppnpB/2pPn3/P1B1P3/1PN2P2/2PQ1NPP/1R3RK1 w - - 2 17,Ng4?: 18... Nfxg4 19.fxg4 Nxg4 and I go down in material.
+33,Ng4,f2g4,2r1r1kb/1bq2p1p/pp1ppnpB/2pPn3/P1B1P1N1/1PN2P2/2PQ2PP/1R3RK1 b - - 3 17,Ng4?: 18... Nfxg4 19.fxg4 Nxg4 and I go down in material.
+34,Nxc4,e5c4,2r1r1kb/1bq2p1p/pp1ppnpB/2pP4/P1n1P1N1/1PN2P2/2PQ2PP/1R3RK1 w - - 0 18,Black missed it too.
+35,Nxf6+,g4f6,2r1r1kb/1bq2p1p/pp1ppNpB/2pP4/P1n1P3/1PN2P2/2PQ2PP/1R3RK1 b - - 0 18,Success! I held the center after the first major onslaught.
+36,Bxf6,h8f6,2r1r1k1/1bq2p1p/pp1ppbpB/2pP4/P1n1P3/1PN2P2/2PQ2PP/1R3RK1 w - - 0 19,Success! I held the center after the first major onslaught.
+37,bxc4,b3c4,2r1r1k1/1bq2p1p/pp1ppbpB/2pP4/P1P1P3/2N2P2/2PQ2PP/1R3RK1 b - - 0 19,Success! I held the center after the first major onslaught.
+38,exd5,e6d5,2r1r1k1/1bq2p1p/pp1p1bpB/2pp4/P1P1P3/2N2P2/2PQ2PP/1R3RK1 w - - 0 20,Success! I held the center after the first major onslaught.
+39,Nxd5,c3d5,2r1r1k1/1bq2p1p/pp1p1bpB/2pN4/P1P1P3/5P2/2PQ2PP/1R3RK1 b - - 0 20,Success! I held the center after the first major onslaught.
+40,Bxd5,b7d5,2r1r1k1/2q2p1p/pp1p1bpB/2pb4/P1P1P3/5P2/2PQ2PP/1R3RK1 w - - 0 21,Success! I held the center after the first major onslaught.
+41,cxd5,c4d5,2r1r1k1/2q2p1p/pp1p1bpB/2pP4/P3P3/5P2/2PQ2PP/1R3RK1 b - - 0 21,Success! I held the center after the first major onslaught.
+42,c4,c5c4,2r1r1k1/2q2p1p/pp1p1bpB/3P4/P1p1P3/5P2/2PQ2PP/1R3RK1 w - - 0 22,Success! I held the center after the first major onslaught.
+43,Be3,h6e3,2r1r1k1/2q2p1p/pp1p1bp1/3P4/P1p1P3/4BP2/2PQ2PP/1R3RK1 b - - 1 22,Success! I held the center after the first major onslaught.
+44,Rcb8,c8b8,1r2r1k1/2q2p1p/pp1p1bp1/3P4/P1p1P3/4BP2/2PQ2PP/1R3RK1 w - - 2 23,Success! I held the center after the first major onslaught.
+45,c3,c2c3,1r2r1k1/2q2p1p/pp1p1bp1/3P4/P1p1P3/2P1BP2/3Q2PP/1R3RK1 b - - 0 23,Success! I held the center after the first major onslaught.
+46,b5,b6b5,1r2r1k1/2q2p1p/p2p1bp1/1p1P4/P1p1P3/2P1BP2/3Q2PP/1R3RK1 w - - 0 24,I realize now I could have gained a tempo with Rd1 instead.
+47,axb5,a4b5,1r2r1k1/2q2p1p/p2p1bp1/1P1P4/2p1P3/2P1BP2/3Q2PP/1R3RK1 b - - 0 24,I realize now I could have gained a tempo with Rd1 instead.
+48,axb5,a6b5,1r2r1k1/2q2p1p/3p1bp1/1p1P4/2p1P3/2P1BP2/3Q2PP/1R3RK1 w - - 0 25,I realize now I could have gained a tempo with Rd1 instead.
+49,Bd4,e3d4,1r2r1k1/2q2p1p/3p1bp1/1p1P4/2pBP3/2P2P2/3Q2PP/1R3RK1 b - - 1 25,I realize now I could have gained a tempo with Rd1 instead.
+50,Bxd4+,f6d4,1r2r1k1/2q2p1p/3p2p1/1p1P4/2pbP3/2P2P2/3Q2PP/1R3RK1 w - - 0 26,I realize now I could have gained a tempo with Rd1 instead.
+51,Qxd4,d2d4,1r2r1k1/2q2p1p/3p2p1/1p1P4/2pQP3/2P2P2/6PP/1R3RK1 b - - 0 26,I realize now I could have gained a tempo with Rd1 instead.
+52,Qc5,c7c5,1r2r1k1/5p1p/3p2p1/1pqP4/2pQP3/2P2P2/6PP/1R3RK1 w - - 1 27,I realize now I could have gained a tempo with Rd1 instead.
+53,Qxc5,d4c5,1r2r1k1/5p1p/3p2p1/1pQP4/2p1P3/2P2P2/6PP/1R3RK1 b - - 0 27,I realize now I could have gained a tempo with Rd1 instead.
+54,dxc5,d6c5,1r2r1k1/5p1p/6p1/1ppP4/2p1P3/2P2P2/6PP/1R3RK1 w - - 0 28,Thinking has now resumed. This is disturbing. I now need to get the King into the fray to hold off these passed pawns. Sigh. I wish I had that extra tempo now.
+55,Rfd1,f1d1,1r2r1k1/5p1p/6p1/1ppP4/2p1P3/2P2P2/6PP/1R1R2K1 b - - 1 28,Thinking has now resumed. This is disturbing. I now need to get the King into the fray to hold off these passed pawns. Sigh. I wish I had that extra tempo now.
+56,b4,b5b4,1r2r1k1/5p1p/6p1/2pP4/1pp1P3/2P2P2/6PP/1R1R2K1 w - - 0 29,Thinking has now resumed. This is disturbing. I now need to get the King into the fray to hold off these passed pawns. Sigh. I wish I had that extra tempo now.
+57,cxb4,c3b4,1r2r1k1/5p1p/6p1/2pP4/1Pp1P3/5P2/6PP/1R1R2K1 b - - 0 29,Thinking has now resumed. This is disturbing. I now need to get the King into the fray to hold off these passed pawns. Sigh. I wish I had that extra tempo now.
+58,cxb4,c5b4,1r2r1k1/5p1p/6p1/3P4/1pp1P3/5P2/6PP/1R1R2K1 w - - 0 30,Thinking has now resumed. This is disturbing. I now need to get the King into the fray to hold off these passed pawns. Sigh. I wish I had that extra tempo now.

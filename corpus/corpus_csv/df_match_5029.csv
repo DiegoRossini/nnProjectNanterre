@@ -1,0 +1,65 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Definitely not the most famous move. It does not take positions in the center.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Definitely not the most famous move. It does not take positions in the center.
+3,b3,b2b3,rnbqkbnr/pppp1ppp/8/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,Definitely not the most famous move. It does not take positions in the center.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/1P6/P1PP1PPP/RNBQKBNR w KQkq - 1 3,That prevents early d4 and suggest d6. Pawn on e5 must be hardly defended from the bishop who in future might be on b4.
+5,Ba3,c1a3,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/BP6/P1PP1PPP/RN1QKBNR b KQkq - 2 3,Next a bit unexpected move I believe this is the best solution. Bishop on a3 mustn't be changed. It could be restricted and weaken by following d6.
+6,Bb6,c5b6,rnbqk1nr/pppp1ppp/1b6/4p3/4P3/BP6/P1PP1PPP/RN1QKBNR w KQkq - 3 4,Next a bit unexpected move I believe this is the best solution. Bishop on a3 mustn't be changed. It could be restricted and weaken by following d6.
+7,Nf3,g1f3,rnbqk1nr/pppp1ppp/1b6/4p3/4P3/BP3N2/P1PP1PPP/RN1QKB1R b KQkq - 4 4,I don't hurry in preparing my castle on king side.
+8,d6,d7d6,rnbqk1nr/ppp2ppp/1b1p4/4p3/4P3/BP3N2/P1PP1PPP/RN1QKB1R w KQkq - 0 5,I don't hurry in preparing my castle on king side.
+9,Bc4,f1c4,rnbqk1nr/ppp2ppp/1b1p4/4p3/2B1P3/BP3N2/P1PP1PPP/RN1QK2R b KQkq - 1 5,I don't hurry in preparing my castle on king side.
+10,Bg4,c8g4,rn1qk1nr/ppp2ppp/1b1p4/4p3/2B1P1b1/BP3N2/P1PP1PPP/RN1QK2R w KQkq - 2 6,I don't hurry in preparing my castle on king side.
+11,Nc3,b1c3,rn1qk1nr/ppp2ppp/1b1p4/4p3/2B1P1b1/BPN2N2/P1PP1PPP/R2QK2R b KQkq - 3 6,Again. I could place my king on the queen side.
+12,Nc6,b8c6,r2qk1nr/ppp2ppp/1bnp4/4p3/2B1P1b1/BPN2N2/P1PP1PPP/R2QK2R w KQkq - 4 7,Again. I could place my king on the queen side.
+13,O-O,e1g1,r2qk1nr/ppp2ppp/1bnp4/4p3/2B1P1b1/BPN2N2/P1PP1PPP/R2Q1RK1 b kq - 5 7,Again. I could place my king on the queen side.
+14,Qd7,d8d7,r3k1nr/pppq1ppp/1bnp4/4p3/2B1P1b1/BPN2N2/P1PP1PPP/R2Q1RK1 w kq - 6 8,Again. I could place my king on the queen side.
+15,h3,h2h3,r3k1nr/pppq1ppp/1bnp4/4p3/2B1P1b1/BPN2N1P/P1PP1PP1/R2Q1RK1 b kq - 0 8,My queen must remain active.
+16,Bh5,g4h5,r3k1nr/pppq1ppp/1bnp4/4p2b/2B1P3/BPN2N1P/P1PP1PP1/R2Q1RK1 w kq - 1 9,My queen must remain active.
+17,Bb5,c4b5,r3k1nr/pppq1ppp/1bnp4/1B2p2b/4P3/BPN2N1P/P1PP1PP1/R2Q1RK1 b kq - 2 9,My queen must remain active.
+18,O-O-O,e8c8,2kr2nr/pppq1ppp/1bnp4/1B2p2b/4P3/BPN2N1P/P1PP1PP1/R2Q1RK1 w - - 3 10,My queen must remain active.
+19,Bxc6,b5c6,2kr2nr/pppq1ppp/1bBp4/4p2b/4P3/BPN2N1P/P1PP1PP1/R2Q1RK1 b - - 0 10,My queen must remain active.
+20,bxc6,b7c6,2kr2nr/p1pq1ppp/1bpp4/4p2b/4P3/BPN2N1P/P1PP1PP1/R2Q1RK1 w - - 0 11,My queen must remain active.
+21,b4,b3b4,2kr2nr/p1pq1ppp/1bpp4/4p2b/1P2P3/B1N2N1P/P1PP1PP1/R2Q1RK1 b - - 0 11,Not so reasonable move.
+22,g5,g7g5,2kr2nr/p1pq1p1p/1bpp4/4p1pb/1P2P3/B1N2N1P/P1PP1PP1/R2Q1RK1 w - - 0 12,Not so reasonable move.
+23,b5,b4b5,2kr2nr/p1pq1p1p/1bpp4/1P2p1pb/4P3/B1N2N1P/P1PP1PP1/R2Q1RK1 b - - 0 12,Not so reasonable move.
+24,cxb5,c6b5,2kr2nr/p1pq1p1p/1b1p4/1p2p1pb/4P3/B1N2N1P/P1PP1PP1/R2Q1RK1 w - - 0 13,In fact that is good. My black-squared bishop is powerful.
+25,Nd5,c3d5,2kr2nr/p1pq1p1p/1b1p4/1p1Np1pb/4P3/B4N1P/P1PP1PP1/R2Q1RK1 b - - 1 13,In fact that is good. My black-squared bishop is powerful.
+26,g4,g5g4,2kr2nr/p1pq1p1p/1b1p4/1p1Np2b/4P1p1/B4N1P/P1PP1PP1/R2Q1RK1 w - - 0 14,Ba5 should be played first.
+27,Nh2,f3h2,2kr2nr/p1pq1p1p/1b1p4/1p1Np2b/4P1p1/B6P/P1PP1PPN/R2Q1RK1 b - - 1 14,The pawn force is equal but white has inactive bishop and knight. Of course black hadn't ended their mobility but soon the king-side would be open.
+28,Ba5,b6a5,2kr2nr/p1pq1p1p/3p4/bp1Np2b/4P1p1/B6P/P1PP1PPN/R2Q1RK1 w - - 2 15,The pawn force is equal but white has inactive bishop and knight. Of course black hadn't ended their mobility but soon the king-side would be open.
+29,hxg4,h3g4,2kr2nr/p1pq1p1p/3p4/bp1Np2b/4P1P1/B7/P1PP1PPN/R2Q1RK1 b - - 0 15,The pawn force is equal but white has inactive bishop and knight. Of course black hadn't ended their mobility but soon the king-side would be open.
+30,Bg6,h5g6,2kr2nr/p1pq1p1p/3p2b1/bp1Np3/4P1P1/B7/P1PP1PPN/R2Q1RK1 w - - 1 16,The pawn force is equal but white has inactive bishop and knight. Of course black hadn't ended their mobility but soon the king-side would be open.
+31,Bb4,a3b4,2kr2nr/p1pq1p1p/3p2b1/bp1Np3/1B2P1P1/8/P1PP1PPN/R2Q1RK1 b - - 2 16,"Now I'll change my bishop, but white would lose another pawn on e4."
+32,Bxb4,a5b4,2kr2nr/p1pq1p1p/3p2b1/1p1Np3/1b2P1P1/8/P1PP1PPN/R2Q1RK1 w - - 0 17,Black ended their mobility and have a strong bishop at a big diagonal.
+33,Nxb4,d5b4,2kr2nr/p1pq1p1p/3p2b1/1p2p3/1N2P1P1/8/P1PP1PPN/R2Q1RK1 b - - 0 17,Black ended their mobility and have a strong bishop at a big diagonal.
+34,c5,c7c5,2kr2nr/p2q1p1p/3p2b1/1pp1p3/1N2P1P1/8/P1PP1PPN/R2Q1RK1 w - - 0 18,Black ended their mobility and have a strong bishop at a big diagonal.
+35,Nd5,b4d5,2kr2nr/p2q1p1p/3p2b1/1ppNp3/4P1P1/8/P1PP1PPN/R2Q1RK1 b - - 1 18,Black ended their mobility and have a strong bishop at a big diagonal.
+36,Bxe4,g6e4,2kr2nr/p2q1p1p/3p4/1ppNp3/4b1P1/8/P1PP1PPN/R2Q1RK1 w - - 0 19,Black ended their mobility and have a strong bishop at a big diagonal.
+37,Ne3,d5e3,2kr2nr/p2q1p1p/3p4/1pp1p3/4b1P1/4N3/P1PP1PPN/R2Q1RK1 b - - 1 19,Black ended their mobility and have a strong bishop at a big diagonal.
+38,Ne7,g8e7,2kr3r/p2qnp1p/3p4/1pp1p3/4b1P1/4N3/P1PP1PPN/R2Q1RK1 w - - 2 20,Black ended their mobility and have a strong bishop at a big diagonal.
+39,d3,d2d3,2kr3r/p2qnp1p/3p4/1pp1p3/4b1P1/3PN3/P1P2PPN/R2Q1RK1 b - - 0 20,Black ended their mobility and have a strong bishop at a big diagonal.
+40,Bc6,e4c6,2kr3r/p2qnp1p/2bp4/1pp1p3/6P1/3PN3/P1P2PPN/R2Q1RK1 w - - 1 21,Black ended their mobility and have a strong bishop at a big diagonal.
+41,c3,c2c3,2kr3r/p2qnp1p/2bp4/1pp1p3/6P1/2PPN3/P4PPN/R2Q1RK1 b - - 0 21,A realy good attack of the knight on g4.
+42,h5,h7h5,2kr3r/p2qnp2/2bp4/1pp1p2p/6P1/2PPN3/P4PPN/R2Q1RK1 w - - 0 22,A realy good attack of the knight on g4.
+43,Rb1,a1b1,2kr3r/p2qnp2/2bp4/1pp1p2p/6P1/2PPN3/P4PPN/1R1Q1RK1 b - - 1 22,A realy good attack of the knight on g4.
+44,hxg4,h5g4,2kr3r/p2qnp2/2bp4/1pp1p3/6p1/2PPN3/P4PPN/1R1Q1RK1 w - - 0 23,A realy good attack of the knight on g4.
+45,Nexg4,e3g4,2kr3r/p2qnp2/2bp4/1pp1p3/6N1/2PP4/P4PPN/1R1Q1RK1 b - - 0 23,A realy good attack of the knight on g4.
+46,f5,f7f5,2kr3r/p2qn3/2bp4/1pp1pp2/6N1/2PP4/P4PPN/1R1Q1RK1 w - - 0 24,A realy good attack of the knight on g4.
+47,Nf6,g4f6,2kr3r/p2qn3/2bp1N2/1pp1pp2/8/2PP4/P4PPN/1R1Q1RK1 b - - 1 24,The wrong square.
+48,Qe6,d7e6,2kr3r/p3n3/2bpqN2/1pp1pp2/8/2PP4/P4PPN/1R1Q1RK1 w - - 2 25,Now we see a posible mate.
+49,Nh5,f6h5,2kr3r/p3n3/2bpq3/1pp1pp1N/8/2PP4/P4PPN/1R1Q1RK1 b - - 3 25,Now we see a posible mate.
+50,Qh6,e6h6,2kr3r/p3n3/2bp3q/1pp1pp1N/8/2PP4/P4PPN/1R1Q1RK1 w - - 4 26,Now we see a posible mate.
+51,c4,c3c4,2kr3r/p3n3/2bp3q/1pp1pp1N/2P5/3P4/P4PPN/1R1Q1RK1 b - - 0 26,Not enough scary.
+52,Rdg8,d8g8,2k3rr/p3n3/2bp3q/1pp1pp1N/2P5/3P4/P4PPN/1R1Q1RK1 w - - 1 27,Not enough scary.
+53,cxb5,c4b5,2k3rr/p3n3/2bp3q/1Pp1pp1N/8/3P4/P4PPN/1R1Q1RK1 b - - 0 27,Not enough scary.
+54,Rxg2+,g8g2,2k4r/p3n3/2bp3q/1Pp1pp1N/8/3P4/P4PrN/1R1Q1RK1 w - - 0 28,"Rf2 was also possible, but if not followed by taking of the queen (within fast mate) it would let white to defend their knight on h2 easily. Now the rook weakens the defence on h5."
+55,Kh1,g1h1,2k4r/p3n3/2bp3q/1Pp1pp1N/8/3P4/P4PrN/1R1Q1R1K b - - 1 28,"Rf2 was also possible, but if not followed by taking of the queen (within fast mate) it would let white to defend their knight on h2 easily. Now the rook weakens the defence on h5."
+56,Rg4+,g2g4,2k4r/p3n3/2bp3q/1Pp1pp1N/6r1/3P4/P4P1N/1R1Q1R1K w - - 2 29,"Rf2 was also possible, but if not followed by taking of the queen (within fast mate) it would let white to defend their knight on h2 easily. Now the rook weakens the defence on h5."
+57,f3,f2f3,2k4r/p3n3/2bp3q/1Pp1pp1N/6r1/3P1P2/P6N/1R1Q1R1K b - - 0 29,Mate threat.
+58,Qxh5,h6h5,2k4r/p3n3/2bp4/1Pp1pp1q/6r1/3P1P2/P6N/1R1Q1R1K w - - 0 30,Mate threat.
+59,Rb2,b1b2,2k4r/p3n3/2bp4/1Pp1pp1q/6r1/3P1P2/PR5N/3Q1R1K b - - 1 30,"Finishing combination. If Qf3, black plays Rh2+, Rh1+ and Qh2 mate."
+60,Rh4,g4h4,2k4r/p3n3/2bp4/1Pp1pp1q/7r/3P1P2/PR5N/3Q1R1K w - - 2 31,"Finishing combination. If Qf3, black plays Rh2+, Rh1+ and Qh2 mate."
+61,Rff2,f1f2,2k4r/p3n3/2bp4/1Pp1pp1q/7r/3P1P2/PR3R1N/3Q3K b - - 3 31,"Finishing combination. If Qf3, black plays Rh2+, Rh1+ and Qh2 mate."
+62,Bxf3+,c6f3,2k4r/p3n3/3p4/1Pp1pp1q/7r/3P1b2/PR3R1N/3Q3K w - - 0 32,"Finishing combination. If Qf3, black plays Rh2+, Rh1+ and Qh2 mate."
+63,Rxf3,f2f3,2k4r/p3n3/3p4/1Pp1pp1q/7r/3P1R2/PR5N/3Q3K b - - 0 32,Mate again.
+64,Rxh2+,h4h2,2k4r/p3n3/3p4/1Pp1pp1q/8/3P1R2/PR5r/3Q3K w - - 0 33,Mate again.

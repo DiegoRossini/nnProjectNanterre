@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Introducing the Philidor defense. More developing is 2...Nf6 (petrov defense) or 2...Nc6 (leads to the Ruy Lopez, Italian game , Scotch game...)"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Introducing the Philidor defense. More developing is 2...Nf6 (petrov defense) or 2...Nc6 (leads to the Ruy Lopez, Italian game , Scotch game...)"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Introducing the Philidor defense. More developing is 2...Nf6 (petrov defense) or 2...Nc6 (leads to the Ruy Lopez, Italian game , Scotch game...)"
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Introducing the Philidor defense. More developing is 2...Nf6 (petrov defense) or 2...Nc6 (leads to the Ruy Lopez, Italian game , Scotch game...)"
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,White's most logical move.
+6,exd4,e5d4,rnbqkbnr/ppp2ppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,This is black best move and it avoids complication. Also good is 3...Nf6.
+7,Nxd4,f3d4,rnbqkbnr/ppp2ppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,4.Qxd4 is also playable.
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Better is 6...Be7 to allow castling.
+9,Nc3,b1c3,rnbqkb1r/ppp2ppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Better is 6...Be7 to allow castling.
+10,c6,c7c6,rnbqkb1r/pp3ppp/2pp1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Better is 6...Be7 to allow castling.
+11,Bd3,f1d3,rnbqkb1r/pp3ppp/2pp1n2/8/3NP3/2NB4/PPP2PPP/R1BQK2R b KQkq - 1 6,Better is 6...Be7 to allow castling.
+12,h6,h7h6,rnbqkb1r/pp3pp1/2pp1n1p/8/3NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 7,Better is 6...Be7 to allow castling.
+13,O-O,e1g1,rnbqkb1r/pp3pp1/2pp1n1p/8/3NP3/2NB4/PPP2PPP/R1BQ1RK1 b kq - 1 7,Intending to advance kingside pawns.
+14,Be7,f8e7,rnbqk2r/pp2bpp1/2pp1n1p/8/3NP3/2NB4/PPP2PPP/R1BQ1RK1 w kq - 2 8,Intending to advance kingside pawns.
+15,Kh1,g1h1,rnbqk2r/pp2bpp1/2pp1n1p/8/3NP3/2NB4/PPP2PPP/R1BQ1R1K b kq - 3 8,Intending to advance kingside pawns.
+16,O-O,e8g8,rnbq1rk1/pp2bpp1/2pp1n1p/8/3NP3/2NB4/PPP2PPP/R1BQ1R1K w - - 4 9,10.Nf3? Losing a tempo by moving the same piece twice while there is still another pieces not developed yet.
+17,f4,f2f4,rnbq1rk1/pp2bpp1/2pp1n1p/8/3NPP2/2NB4/PPP3PP/R1BQ1R1K b - - 0 9,10.Nf3? Losing a tempo by moving the same piece twice while there is still another pieces not developed yet.
+18,Qc7,d8c7,rnb2rk1/ppq1bpp1/2pp1n1p/8/3NPP2/2NB4/PPP3PP/R1BQ1R1K w - - 1 10,10.Nf3? Losing a tempo by moving the same piece twice while there is still another pieces not developed yet.
+19,Nf3,d4f3,rnb2rk1/ppq1bpp1/2pp1n1p/8/4PP2/2NB1N2/PPP3PP/R1BQ1R1K b - - 2 10,10.Nf3? Losing a tempo by moving the same piece twice while there is still another pieces not developed yet.
+20,Bg4,c8g4,rn3rk1/ppq1bpp1/2pp1n1p/8/4PPb1/2NB1N2/PPP3PP/R1BQ1R1K w - - 3 11,Black continues developing his pieces and now his rooks are connected.
+21,Qe1,d1e1,rn3rk1/ppq1bpp1/2pp1n1p/8/4PPb1/2NB1N2/PPP3PP/R1B1QR1K b - - 4 11,Black continues developing his pieces and now his rooks are connected.
+22,Nbd7,b8d7,r4rk1/ppqnbpp1/2pp1n1p/8/4PPb1/2NB1N2/PPP3PP/R1B1QR1K w - - 5 12,Black continues developing his pieces and now his rooks are connected.
+23,Qg3,e1g3,r4rk1/ppqnbpp1/2pp1n1p/8/4PPb1/2NB1NQ1/PPP3PP/R1B2R1K b - - 6 12,Now white threatens 16.Qxh6!
+24,Bxf3,g4f3,r4rk1/ppqnbpp1/2pp1n1p/8/4PP2/2NB1bQ1/PPP3PP/R1B2R1K w - - 0 13,Now white threatens 16.Qxh6!
+25,Rxf3,f1f3,r4rk1/ppqnbpp1/2pp1n1p/8/4PP2/2NB1RQ1/PPP3PP/R1B4K b - - 0 13,Now white threatens 16.Qxh6!
+26,Rfe8,f8e8,r3r1k1/ppqnbpp1/2pp1n1p/8/4PP2/2NB1RQ1/PPP3PP/R1B4K w - - 1 14,Now white threatens 16.Qxh6!
+27,Qh3,g3h3,r3r1k1/ppqnbpp1/2pp1n1p/8/4PP2/2NB1R1Q/PPP3PP/R1B4K b - - 2 14,Now white threatens 16.Qxh6!
+28,Bf8,e7f8,r3rbk1/ppqn1pp1/2pp1n1p/8/4PP2/2NB1R1Q/PPP3PP/R1B4K w - - 3 15,Now white threatens 16.Qxh6!
+29,Rg3,f3g3,r3rbk1/ppqn1pp1/2pp1n1p/8/4PP2/2NB2RQ/PPP3PP/R1B4K b - - 4 15,Now white threatens 16.Qxh6!
+30,Kh8,g8h8,r3rb1k/ppqn1pp1/2pp1n1p/8/4PP2/2NB2RQ/PPP3PP/R1B4K w - - 5 16,The best. if 15...Kh7?? 16.e5+! wins a piece.
+31,Bd2,c1d2,r3rb1k/ppqn1pp1/2pp1n1p/8/4PP2/2NB2RQ/PPPB2PP/R6K b - - 6 16,"May be better was 16.Be3 preventing black's next move. But i saw white's 19th move, so i played this."
+32,Qb6,c7b6,r3rb1k/pp1n1pp1/1qpp1n1p/8/4PP2/2NB2RQ/PPPB2PP/R6K w - - 7 17,I think better was 16...Nc5!
+33,Na4,c3a4,r3rb1k/pp1n1pp1/1qpp1n1p/8/N3PP2/3B2RQ/PPPB2PP/R6K b - - 8 17,Does this win white's e4 pawn? Actually this move removes the defender from the knight on f6 as will be seen.
+34,Qd4,b6d4,r3rb1k/pp1n1pp1/2pp1n1p/8/N2qPP2/3B2RQ/PPPB2PP/R6K w - - 9 18,Does this win white's e4 pawn? Actually this move removes the defender from the knight on f6 as will be seen.
+35,Nc3,a4c3,r3rb1k/pp1n1pp1/2pp1n1p/8/3qPP2/2NB2RQ/PPPB2PP/R6K b - - 10 18,Does this win white's e4 pawn? Actually this move removes the defender from the knight on f6 as will be seen.
+36,Nc5,d7c5,r3rb1k/pp3pp1/2pp1n1p/2n5/3qPP2/2NB2RQ/PPPB2PP/R6K w - - 11 19,Does this win white's e4 pawn? Actually this move removes the defender from the knight on f6 as will be seen.
+37,Nb5,c3b5,r3rb1k/pp3pp1/2pp1n1p/1Nn5/3qPP2/3B2RQ/PPPB2PP/R6K b - - 12 19,19.Nb5!! if 19...cxb5?? 20.Bc3!! Qa4 21.Bxf6! {now the other knight doesn't protect it} gxf6? (black should play 21...Kh7 although he will lose after 22.Qg4 g6 32.f5 Rxe4 24.fxg6+ Kg8 25.gxf7_ Kxf7 26.Qg6+ Ke6 27.b3 Qa6 28.Bxe4) 22.Qg4! mates next.
+38,Qxb2,d4b2,r3rb1k/pp3pp1/2pp1n1p/1Nn5/4PP2/3B2RQ/PqPB2PP/R6K w - - 0 20,Much better was 19...Nxd3! 20.cxd3 (not 20.Nxd4? Nf2+! 21.Kg1 Nxh3+ 22.Rxh3 Rxe4 when black is a pawn up) Qb6! to prevent 21.Nc7 forking the two rooks.
+39,Bc3,d2c3,r3rb1k/pp3pp1/2pp1n1p/1Nn5/4PP2/2BB2RQ/PqP3PP/R6K b - - 1 20,forced.
+40,Nxd3,c5d3,r3rb1k/pp3pp1/2pp1n1p/1N6/4PP2/2Bn2RQ/PqP3PP/R6K w - - 0 21,forced.
+41,cxd3,c2d3,r3rb1k/pp3pp1/2pp1n1p/1N6/4PP2/2BP2RQ/Pq4PP/R6K b - - 0 21,again if 20. Bxb2?? Nf2+!
+42,Qxb5,b2b5,r3rb1k/pp3pp1/2pp1n1p/1q6/4PP2/2BP2RQ/P5PP/R6K w - - 0 22,!
+43,Bxf6,c3f6,r3rb1k/pp3pp1/2pp1B1p/1q6/4PP2/3P2RQ/P5PP/R6K b - - 0 22,!
+44,Kh7,h8h7,r3rb2/pp3ppk/2pp1B1p/1q6/4PP2/3P2RQ/P5PP/R6K w - - 1 23,Again forced. if 22...gxf6?? 23.Qg4! and black has to sacrifice his queen by Qg5 to avoid mate.
+45,f5,f4f5,r3rb2/pp3ppk/2pp1B1p/1q3P2/4P3/3P2RQ/P5PP/R6K b - - 0 23,23.f5!! this move allows 24.Qg4. If instead 23.Qg4 Re6 24.Bxg7?? Rg6 wins.

@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So it starts with a Queen's Gambit https://en.wikipedia.org/wiki/Queen%27s_Gambit
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,So it starts with a Queen's Gambit https://en.wikipedia.org/wiki/Queen%27s_Gambit
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,So it starts with a Queen's Gambit https://en.wikipedia.org/wiki/Queen%27s_Gambit
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,He plays the Slav variation https://en.wikipedia.org/wiki/Slav_Defense
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,This is all very conventional and usual.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,This is all very conventional and usual.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,This is all very conventional and usual.
+8,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5,"But this is a bit unusual. According to the Gameknot World Database, 4....e6 is most common followed by dxc4, a6 and g6, with this coming in next. To be honest it threw me a bit."
+9,Bg5,c1g5,rn1qkb1r/pp2pppp/2p2n2/3p1bB1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 5 5,"I'm trying to play it like a normal Queen's Gambit. I later found out that this too, is the 5th most popular move, after 5. e3, cxd5, Qb3 or g3. It doesn't score very well, and will not repeat it."
+10,e6,e7e6,rn1qkb1r/pp3ppp/2p1pn2/3p1bB1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6,This seems logical.
+11,e3,e2e3,rn1qkb1r/pp3ppp/2p1pn2/3p1bB1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 6,And from me too.
+12,Be7,f8e7,rn1qk2r/pp2bppp/2p1pn2/3p1bB1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 1 7,This is sensible development.
+13,Ne5,f3e5,rn1qk2r/pp2bppp/2p1pn2/3pNbB1/2PP4/2N1P3/PP3PPP/R2QKB1R b KQkq - 2 7,"This may be a mistake. It is not on the world database, but it is on the database of games played on Gameknot. There it does score 4 wins out of 4 for white!"
+14,Nbd7,b8d7,r2qk2r/pp1nbppp/2p1pn2/3pNbB1/2PP4/2N1P3/PP3PPP/R2QKB1R w KQkq - 3 8,So he continues to develop.
+15,f4,f2f4,r2qk2r/pp1nbppp/2p1pn2/3pNbB1/2PP1P2/2N1P3/PP4PP/R2QKB1R b KQkq - 0 8,"This is probably over-optimistic too, although it has been successfully played in the Gameknot game, anyhumanheart (1649) vs. zorakblaster (1658), which continued with Nxe5 9. dxe5 Ne4 10. Bxe7 Qxe7 11. Nxe4 Bxe4 12. cxd5 Bxd5?? which lost the bishop after 12. cxd5 Bxd5 13. Qc2 O-O 14. Bd3 Kh8 15. O-O h6 16. e4. Any other pawn capture on move 12 leads to similar positions to the game, and presumably, an edge for black."
+16,h6,h7h6,r2qk2r/pp1nbpp1/2p1pn1p/3pNbB1/2PP1P2/2N1P3/PP4PP/R2QKB1R w KQkq - 0 9,This is another good move by black. I probably should have started exchanging minor pieces now.
+17,Bh4,g5h4,r2qk2r/pp1nbpp1/2p1pn1p/3pNb2/2PP1P1B/2N1P3/PP4PP/R2QKB1R b KQkq - 1 9,But I stubbornly played this.
+18,Ne4,f6e4,r2qk2r/pp1nbpp1/2p1p2p/3pNb2/2PPnP1B/2N1P3/PP4PP/R2QKB1R w KQkq - 2 10,And he starts exchanging.
+19,Bxe7,h4e7,r2qk2r/pp1nBpp1/2p1p2p/3pNb2/2PPnP2/2N1P3/PP4PP/R2QKB1R b KQkq - 0 10,So I take his bishop.
+20,Qxe7,d8e7,r3k2r/pp1nqpp1/2p1p2p/3pNb2/2PPnP2/2N1P3/PP4PP/R2QKB1R w KQkq - 0 11,He takes back.
+21,Nxe4,c3e4,r3k2r/pp1nqpp1/2p1p2p/3pNb2/2PPNP2/4P3/PP4PP/R2QKB1R b KQkq - 0 11,I take his knight on e4.
+22,Bxe4,f5e4,r3k2r/pp1nqpp1/2p1p2p/3pN3/2PPbP2/4P3/PP4PP/R2QKB1R w KQkq - 0 12,"And he takes back. This bishop is a monster. I am probably best exchanging knights again, but instead I played..."
+23,Qd2,d1d2,r3k2r/pp1nqpp1/2p1p2p/3pN3/2PPbP2/4P3/PP1Q2PP/R3KB1R b KQkq - 1 12,"So he takes, and messes up my pawns."
+24,Nxe5,d7e5,r3k2r/pp2qpp1/2p1p2p/3pn3/2PPbP2/4P3/PP1Q2PP/R3KB1R w KQkq - 0 13,"So he takes, and messes up my pawns."
+25,fxe5,f4e5,r3k2r/pp2qpp1/2p1p2p/3pP3/2PPb3/4P3/PP1Q2PP/R3KB1R b KQkq - 0 13,It may have been better to take back the other way.

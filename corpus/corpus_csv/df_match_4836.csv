@@ -1,0 +1,152 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+3,e3,e2e3,rnbqkbnr/pppp1ppp/4p3/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 2 3,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+6,b6,b7b6,rnbqkb1r/p1pp1ppp/1p2pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+7,Nbd2,b1d2,rnbqkb1r/p1pp1ppp/1p2pn2/8/3P4/4PN2/PPPN1PPP/R1BQKB1R b KQkq - 1 4,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+8,Bb7,c8b7,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/4PN2/PPPN1PPP/R1BQKB1R w KQkq - 2 5,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+9,Be2,f1e2,rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/4PN2/PPPNBPPP/R1BQK2R b KQkq - 3 5,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+10,c5,c7c5,rn1qkb1r/pb1p1ppp/1p2pn2/2p5/3P4/4PN2/PPPNBPPP/R1BQK2R w KQkq - 0 6,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+11,dxc5,d4c5,rn1qkb1r/pb1p1ppp/1p2pn2/2P5/8/4PN2/PPPNBPPP/R1BQK2R b KQkq - 0 6,Alternative variation: 6. c3 Be7 7. O-O O-O ~ (: unclear)
+12,Bxc5,f8c5,rn1qk2r/pb1p1ppp/1p2pn2/2b5/8/4PN2/PPPNBPPP/R1BQK2R w KQkq - 0 7,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+13,a3,a2a3,rn1qk2r/pb1p1ppp/1p2pn2/2b5/8/P3PN2/1PPNBPPP/R1BQK2R b KQkq - 0 7,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+14,a5,a7a5,rn1qk2r/1b1p1ppp/1p2pn2/p1b5/8/P3PN2/1PPNBPPP/R1BQK2R w KQkq - 0 8,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+15,b3,b2b3,rn1qk2r/1b1p1ppp/1p2pn2/p1b5/8/PP2PN2/2PNBPPP/R1BQK2R b KQkq - 0 8,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+16,Nc6,b8c6,r2qk2r/1b1p1ppp/1pn1pn2/p1b5/8/PP2PN2/2PNBPPP/R1BQK2R w KQkq - 1 9,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+17,Bb2,c1b2,r2qk2r/1b1p1ppp/1pn1pn2/p1b5/8/PP2PN2/1BPNBPPP/R2QK2R b KQkq - 2 9,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+18,d5,d7d5,r2qk2r/1b3ppp/1pn1pn2/p1bp4/8/PP2PN2/1BPNBPPP/R2QK2R w KQkq - 0 10,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+19,c3,c2c3,r2qk2r/1b3ppp/1pn1pn2/p1bp4/8/PPP1PN2/1B1NBPPP/R2QK2R b KQkq - 0 10,Και στο 10.c4 πάλι 0-0 θα έπαιζα.
+20,O-O,e8g8,r2q1rk1/1b3ppp/1pn1pn2/p1bp4/8/PPP1PN2/1B1NBPPP/R2QK2R w KQ - 1 11,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+21,O-O,e1g1,r2q1rk1/1b3ppp/1pn1pn2/p1bp4/8/PPP1PN2/1B1NBPPP/R2Q1RK1 b - - 2 11,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+22,e5,e6e5,r2q1rk1/1b3ppp/1pn2n2/p1bpp3/8/PPP1PN2/1B1NBPPP/R2Q1RK1 w - - 0 12,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+23,b4,b3b4,r2q1rk1/1b3ppp/1pn2n2/p1bpp3/1P6/P1P1PN2/1B1NBPPP/R2Q1RK1 b - - 0 12,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+24,Bd6,c5d6,r2q1rk1/1b3ppp/1pnb1n2/p2pp3/1P6/P1P1PN2/1B1NBPPP/R2Q1RK1 w - - 1 13,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+25,c4,c3c4,r2q1rk1/1b3ppp/1pnb1n2/p2pp3/1PP5/P3PN2/1B1NBPPP/R2Q1RK1 b - - 0 13,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+26,e4,e5e4,r2q1rk1/1b3ppp/1pnb1n2/p2p4/1PP1p3/P3PN2/1B1NBPPP/R2Q1RK1 w - - 0 14,"13..., e5=
+
+Alternative variation: 13... axb4 14. axb4 e4 
+15. Ng5 Nxb4 16. Rxa8 Bxa8 17. cxd5 Nbxd5=/+
+18. Qb1 (18. Ngxe4 Nxe4 19. Nxe4 Bxh2+ 20. Kxh2 Qh4+ 21. Kg1 Qxe4=/+) 
+18... Re8 19. Ngxe4?-/+ (19. Bb5! Re7=/+) 
+19... Nxe4 20. Nxe4 Nxe3!-+"
+27,Nd4,f3d4,r2q1rk1/1b3ppp/1pnb1n2/p2p4/1PPNp3/P3P3/1B1NBPPP/R2Q1RK1 b - - 1 14,"14.Nd4?!
+
+Alternative variation: 14. Ng5 Be5 15. Bxe5 Nxe5 16. bxa5 Rxa5 
+17. Nb3 Ra8 18. cxd5 Bxd5 19. Nd4 unc."
+28,axb4,a5b4,r2q1rk1/1b3ppp/1pnb1n2/3p4/1pPNp3/P3P3/1B1NBPPP/R2Q1RK1 w - - 0 15,"14...,axb4=/+"
+29,Nxc6,d4c6,r2q1rk1/1b3ppp/1pNb1n2/3p4/1pP1p3/P3P3/1B1NBPPP/R2Q1RK1 b - - 0 15,"15.Nxc6
+
+Alternative variation: 15. axb4 Bxb4 16. Rxa8 Bxa8 17. cxd5 Qxd5=/+"
+30,Bxc6,b7c6,r2q1rk1/5ppp/1pbb1n2/3p4/1pP1p3/P3P3/1B1NBPPP/R2Q1RK1 w - - 0 16,"16..., Rxa1?! 
+
+Better is: 16... Bxb4 17. cxd5 Bxd5 18. Nc4 Bc5=/+, -/+"
+31,axb4,a3b4,r2q1rk1/5ppp/1pbb1n2/3p4/1PP1p3/4P3/1B1NBPPP/R2Q1RK1 b - - 0 16,"16..., Rxa1?! 
+
+Better is: 16... Bxb4 17. cxd5 Bxd5 18. Nc4 Bc5=/+, -/+"
+32,Rxa1,a8a1,3q1rk1/5ppp/1pbb1n2/3p4/1PP1p3/4P3/1B1NBPPP/r2Q1RK1 w - - 0 17,"16..., Rxa1?! 
+
+Better is: 16... Bxb4 17. cxd5 Bxd5 18. Nc4 Bc5=/+, -/+"
+33,Qxa1,d1a1,3q1rk1/5ppp/1pbb1n2/3p4/1PP1p3/4P3/1B1NBPPP/Q4RK1 b - - 0 17,"17.Qxa1! unc.
+
+Alternative variation: 17. Bxa1?! Bxb4 18. cxd5 Qxd5 
+19. Nc4 Nd7 20. Qxd5 Bxd5 21. Rd1 Be6=/+, -/+"
+34,Bxb4,d6b4,3q1rk1/5ppp/1pb2n2/3p4/1bP1p3/4P3/1B1NBPPP/Q4RK1 w - - 0 18,"18.Nb3 =/+
+Περίμενα την βαριαντα: 18. cxd5 Qxd5 19. Bxf6?! Qxd2! 
+20. Bxg7 Qxe2 21. Bh8? (21. Bxf8 Bxf8-/+; 21.Bh6! unc.) 21... Qg4-+
+Καλυτερη για τα Λ η συνεχεια: 18. Rd1!
+π.χ 18..., Be7 19. Bd4 Bc5 20. Bxf6 Qxf6 21. Qxf6 gxf6 
+με άρωμα ισοπαλίας"
+35,Nb3,d2b3,3q1rk1/5ppp/1pb2n2/3p4/1bP1p3/1N2P3/1B2BPPP/Q4RK1 b - - 1 18,"18.Nb3 =/+
+Περίμενα την βαριαντα: 18. cxd5 Qxd5 19. Bxf6?! Qxd2! 
+20. Bxg7 Qxe2 21. Bh8? (21. Bxf8 Bxf8-/+; 21.Bh6! unc.) 21... Qg4-+
+Καλυτερη για τα Λ η συνεχεια: 18. Rd1!
+π.χ 18..., Be7 19. Bd4 Bc5 20. Bxf6 Qxf6 21. Qxf6 gxf6 
+με άρωμα ισοπαλίας"
+36,dxc4,d5c4,3q1rk1/5ppp/1pb2n2/8/1bp1p3/1N2P3/1B2BPPP/Q4RK1 w - - 0 19,"19.Bxc4
+
+Inferior was: 19. Nd4 Qc7 -/+"
+37,Bxc4,e2c4,3q1rk1/5ppp/1pb2n2/8/1bB1p3/1N2P3/1B3PPP/Q4RK1 b - - 0 19,"19.Bxc4
+
+Inferior was: 19. Nd4 Qc7 -/+"
+38,Bd6,b4d6,3q1rk1/5ppp/1pbb1n2/8/2B1p3/1N2P3/1B3PPP/Q4RK1 w - - 1 20,"19..., Bd6=/+
+
+Also sound: 19..., Be7 (as the 19..., Ne8)"
+39,Nd4,b3d4,3q1rk1/5ppp/1pbb1n2/8/2BNp3/4P3/1B3PPP/Q4RK1 b - - 2 20,"21.Nd4!? 
+Αλλά και αυτή η συνέχεια: 20. Bxf6! gxf6 
+21. Nd4 Qc7 22. h3 μυρίζει ισόπαλο φινάλε."
+40,Bxh2+,d6h2,3q1rk1/5ppp/1pb2n2/8/2BNp3/4P3/1B3PPb/Q4RK1 w - - 0 21,"20...,Bxh2?!
+
+Better the alternative variation: 20... Bd7 21. h3 Ne8=/+, -/+"
+41,Kxh2,g1h2,3q1rk1/5ppp/1pb2n2/8/2BNp3/4P3/1B3PPK/Q4R2 b - - 0 21,"21.Kxh2 accepting the challenge!
+
+But even the alternative variation: 21. Kh1 Bd5 
+e.g. 22. Bxd5 Qxd5 23. Kxh2 Qh5+ 24. Kg1 Ng4 
+25. Rc1 Qh2+ 26. Kf1 Qh1+ 27. Ke2 Qxg2 28. Rf1 = / unc.
+worths."
+42,Ng4+,f6g4,3q1rk1/5ppp/1pb5/8/2BNp1n1/4P3/1B3PPK/Q4R2 w - - 1 22,"22.Kg3 The better choice!
+
+Good for Black the variation: 22. Kg1? Qh4 23. Re1 Qxf2+!-+
+e.g. 24. Kh1 Qh4+ 25. Kg1 Qh2+ 26. Kf1 Qh1+ 
+27. Ke2 Qxg2+ 28. Kd1 Ra8 29. Qb1 Ba4+
+Alternative variation: 22. Kh3?! Bd7!-/+"
+43,Kg3,h2g3,3q1rk1/5ppp/1pb5/8/2BNp1n1/4P1K1/1B3PP1/Q4R2 b - - 2 22,"22.Kg3 The better choice!
+
+Good for Black the variation: 22. Kg1? Qh4 23. Re1 Qxf2+!-+
+e.g. 24. Kh1 Qh4+ 25. Kg1 Qh2+ 26. Kf1 Qh1+ 
+27. Ke2 Qxg2+ 28. Kd1 Ra8 29. Qb1 Ba4+
+Alternative variation: 22. Kh3?! Bd7!-/+"
+44,Qg5,d8g5,5rk1/5ppp/1pb5/6q1/2BNp1n1/4P1K1/1B3PP1/Q4R2 w - - 3 23,"22..., Qg5?! 
+
+Better was the : 22... Bd7! =/+, unc."
+45,Ne6,d4e6,5rk1/5ppp/1pb1N3/6q1/2B1p1n1/4P1K1/1B3PP1/Q4R2 b - - 4 23,"23.Ne6!! 
+Confuting the white line, spectacularly!"
+46,fxe6,f7e6,5rk1/6pp/1pb1p3/6q1/2B1p1n1/4P1K1/1B3PP1/Q4R2 w - - 0 24,25.Bxg4 +/-
+47,Bxe6+,c4e6,5rk1/6pp/1pb1B3/6q1/4p1n1/4P1K1/1B3PP1/Q4R2 b - - 0 24,25.Bxg4 +/-
+48,Kh8,g8h8,5r1k/6pp/1pb1B3/6q1/4p1n1/4P1K1/1B3PP1/Q4R2 w - - 1 25,25.Bxg4 +/-
+49,Bxg4,e6g4,5r1k/6pp/1pb5/6q1/4p1B1/4P1K1/1B3PP1/Q4R2 b - - 0 25,25.Bxg4 +/-
+50,h5,h7h5,5r1k/6p1/1pb5/6qp/4p1B1/4P1K1/1B3PP1/Q4R2 w - - 0 26,"25...,h5
+
+Desperate but not enough for ecqualize."
+51,Rh1,f1h1,5r1k/6p1/1pb5/6qp/4p1B1/4P1K1/1B3PP1/Q6R b - - 1 26,"26.Rh1??
+The definition of ""blunder"".
+
+The good strike was: 26. Bxg7+ Qxg7 27. Qxg7+ Kxg7 28. Bxh5+/-
+and now it is black turns to struggle for equalize."

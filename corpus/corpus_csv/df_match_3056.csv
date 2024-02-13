@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Unusual.  White has to decide whether to give up his bishop (usually slightly stronger than the knight), in return for doubling blacks pawns."
+2,Na6,b8a6,r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,"Unusual.  White has to decide whether to give up his bishop (usually slightly stronger than the knight), in return for doubling blacks pawns."
+3,Bxa6,f1a6,r1bqkbnr/pppppppp/B7/8/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 0 2,"Taking doesn't seem to do much good, so Be3 pretty much forces the swap off, whilst centralising the bishop."
+4,bxa6,b7a6,r1bqkbnr/p1pppppp/p7/8/4P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,"Taking doesn't seem to do much good, so Be3 pretty much forces the swap off, whilst centralising the bishop."
+5,d4,d2d4,r1bqkbnr/p1pppppp/p7/8/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3,"Taking doesn't seem to do much good, so Be3 pretty much forces the swap off, whilst centralising the bishop."
+6,c5,c7c5,r1bqkbnr/p2ppppp/p7/2p5/3PP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4,"Taking doesn't seem to do much good, so Be3 pretty much forces the swap off, whilst centralising the bishop."
+7,Be3,c1e3,r1bqkbnr/p2ppppp/p7/2p5/3PP3/4B3/PPP2PPP/RN1QK1NR b KQkq - 1 4,Getting pawns to a5 and b4 seems to lock down the dark squares.
+8,cxd4,c5d4,r1bqkbnr/p2ppppp/p7/8/3pP3/4B3/PPP2PPP/RN1QK1NR w KQkq - 0 5,Getting pawns to a5 and b4 seems to lock down the dark squares.
+9,Bxd4,e3d4,r1bqkbnr/p2ppppp/p7/8/3BP3/8/PPP2PPP/RN1QK1NR b KQkq - 0 5,Getting pawns to a5 and b4 seems to lock down the dark squares.
+10,Qa5+,d8a5,r1b1kbnr/p2ppppp/p7/q7/3BP3/8/PPP2PPP/RN1QK1NR w KQkq - 1 6,Getting pawns to a5 and b4 seems to lock down the dark squares.
+11,c3,c2c3,r1b1kbnr/p2ppppp/p7/q7/3BP3/2P5/PP3PPP/RN1QK1NR b KQkq - 0 6,Getting pawns to a5 and b4 seems to lock down the dark squares.
+12,e6,e7e6,r1b1kbnr/p2p1ppp/p3p3/q7/3BP3/2P5/PP3PPP/RN1QK1NR w KQkq - 0 7,Getting pawns to a5 and b4 seems to lock down the dark squares.
+13,a4,a2a4,r1b1kbnr/p2p1ppp/p3p3/q7/P2BP3/2P5/1P3PPP/RN1QK1NR b KQkq - 0 7,Getting pawns to a5 and b4 seems to lock down the dark squares.
+14,Qc7,a5c7,r1b1kbnr/p1qp1ppp/p3p3/8/P2BP3/2P5/1P3PPP/RN1QK1NR w KQkq - 1 8,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+15,Qh5,d1h5,r1b1kbnr/p1qp1ppp/p3p3/7Q/P2BP3/2P5/1P3PPP/RN2K1NR b KQkq - 2 8,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+16,Ne7,g8e7,r1b1kb1r/p1qpnppp/p3p3/7Q/P2BP3/2P5/1P3PPP/RN2K1NR w KQkq - 3 9,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+17,Nf3,g1f3,r1b1kb1r/p1qpnppp/p3p3/7Q/P2BP3/2P2N2/1P3PPP/RN2K2R b KQkq - 4 9,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+18,Qc4,c7c4,r1b1kb1r/p2pnppp/p3p3/7Q/P1qBP3/2P2N2/1P3PPP/RN2K2R w KQkq - 5 10,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+19,Na3,b1a3,r1b1kb1r/p2pnppp/p3p3/7Q/P1qBP3/N1P2N2/1P3PPP/R3K2R b KQkq - 6 10,"Ne5 should have been played.  Now black could take on a4, but risks a discovered attack, and his own a-pawns are weak."
+20,Qc7,c4c7,r1b1kb1r/p1qpnppp/p3p3/7Q/P2BP3/N1P2N2/1P3PPP/R3K2R w KQkq - 7 11,"Ng5 would be best, but white tries to force the issue."
+21,a5,a4a5,r1b1kb1r/p1qpnppp/p3p3/P6Q/3BP3/N1P2N2/1P3PPP/R3K2R b KQkq - 0 11,"Ng5 would be best, but white tries to force the issue."
+22,Ng6,e7g6,r1b1kb1r/p1qp1ppp/p3p1n1/P6Q/3BP3/N1P2N2/1P3PPP/R3K2R w KQkq - 1 12,"Ng5 would be best, but white tries to force the issue."
+23,O-O,e1g1,r1b1kb1r/p1qp1ppp/p3p1n1/P6Q/3BP3/N1P2N2/1P3PPP/R4RK1 b kq - 2 12,"Ng5 would be best, but white tries to force the issue."
+24,Ne7,g6e7,r1b1kb1r/p1qpnppp/p3p3/P6Q/3BP3/N1P2N2/1P3PPP/R4RK1 w kq - 3 13,"Ng5 would be best, but white tries to force the issue."
+25,Bc5,d4c5,r1b1kb1r/p1qpnppp/p3p3/P1B4Q/4P3/N1P2N2/1P3PPP/R4RK1 b kq - 4 13,"An idle threat dealt with, now black continues to dally around to get rid of the bishop."
+26,Qb8,c7b8,rqb1kb1r/p2pnppp/p3p3/P1B4Q/4P3/N1P2N2/1P3PPP/R4RK1 w kq - 5 14,"An idle threat dealt with, now black continues to dally around to get rid of the bishop."
+27,Ra2,a1a2,rqb1kb1r/p2pnppp/p3p3/P1B4Q/4P3/N1P2N2/RP3PPP/5RK1 b kq - 6 14,"An idle threat dealt with, now black continues to dally around to get rid of the bishop."
+28,Ng8,e7g8,rqb1kbnr/p2p1ppp/p3p3/P1B4Q/4P3/N1P2N2/RP3PPP/5RK1 w kq - 7 15,"Unsound, but white thought he would have chances over the board by bringing in Na3 whilst keeping the tempo."
+29,Bd6,c5d6,rqb1kbnr/p2p1ppp/p2Bp3/P6Q/4P3/N1P2N2/RP3PPP/5RK1 b kq - 8 15,"Unsound, but white thought he would have chances over the board by bringing in Na3 whilst keeping the tempo."
+30,Qxd6,b8d6,r1b1kbnr/p2p1ppp/p2qp3/P6Q/4P3/N1P2N2/RP3PPP/5RK1 w kq - 0 16,Mistake.
+31,Nc4,a3c4,r1b1kbnr/p2p1ppp/p2qp3/P6Q/2N1P3/2P2N2/RP3PPP/5RK1 b kq - 1 16,Mistake.
+32,Qc6,d6c6,r1b1kbnr/p2p1ppp/p1q1p3/P6Q/2N1P3/2P2N2/RP3PPP/5RK1 w kq - 2 17,Mistake.
+33,Nfe5,f3e5,r1b1kbnr/p2p1ppp/p1q1p3/P3N2Q/2N1P3/2P5/RP3PPP/5RK1 b kq - 3 17,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+34,Qc5,c6c5,r1b1kbnr/p2p1ppp/p3p3/P1q1N2Q/2N1P3/2P5/RP3PPP/5RK1 w kq - 4 18,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+35,Qxf7+,h5f7,r1b1kbnr/p2p1Qpp/p3p3/P1q1N3/2N1P3/2P5/RP3PPP/5RK1 b kq - 0 18,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+36,Kd8,e8d8,r1bk1bnr/p2p1Qpp/p3p3/P1q1N3/2N1P3/2P5/RP3PPP/5RK1 w - - 1 19,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+37,Rd1,f1d1,r1bk1bnr/p2p1Qpp/p3p3/P1q1N3/2N1P3/2P5/RP3PPP/3R2K1 b - - 2 19,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+38,Ne7,g8e7,r1bk1b1r/p2pnQpp/p3p3/P1q1N3/2N1P3/2P5/RP3PPP/3R2K1 w - - 3 20,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+39,b4,b2b4,r1bk1b1r/p2pnQpp/p3p3/P1q1N3/1PN1P3/2P5/R4PPP/3R2K1 b - - 0 20,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+40,Qb5,c5b5,r1bk1b1r/p2pnQpp/p3p3/Pq2N3/1PN1P3/2P5/R4PPP/3R2K1 w - - 1 21,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+41,Rad2,a2d2,r1bk1b1r/p2pnQpp/p3p3/Pq2N3/1PN1P3/2P5/3R1PPP/3R2K1 b - - 2 21,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+42,Rb8,a8b8,1rbk1b1r/p2pnQpp/p3p3/Pq2N3/1PN1P3/2P5/3R1PPP/3R2K1 w - - 3 22,"There was no good way out, but this move allows a brilliant mate in 6 - can you see it?"
+43,Qe8+,f7e8,1rbkQb1r/p2pn1pp/p3p3/Pq2N3/1PN1P3/2P5/3R1PPP/3R2K1 b - - 4 22,!!
+44,Kxe8,d8e8,1rb1kb1r/p2pn1pp/p3p3/Pq2N3/1PN1P3/2P5/3R1PPP/3R2K1 w - - 0 23,"White could recapture the queen, but he has something better."
+45,Nd6+,c4d6,1rb1kb1r/p2pn1pp/p2Np3/Pq2N3/1P2P3/2P5/3R1PPP/3R2K1 b - - 1 23,"White could recapture the queen, but he has something better."
+46,Kd8,e8d8,1rbk1b1r/p2pn1pp/p2Np3/Pq2N3/1P2P3/2P5/3R1PPP/3R2K1 w - - 2 24,"White could recapture the queen, but he has something better."
+47,Nef7+,e5f7,1rbk1b1r/p2pnNpp/p2Np3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 b - - 3 24,Infiltration behind enemy lines!
+48,Kc7,d8c7,1rb2b1r/p1kpnNpp/p2Np3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 w - - 4 25,Infiltration behind enemy lines!
+49,Ne8+,d6e8,1rb1Nb1r/p1kpnNpp/p3p3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 b - - 5 25,Infiltration behind enemy lines!
+50,Kb7,c7b7,1rb1Nb1r/pk1pnNpp/p3p3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 w - - 6 26,An aesthetically pleasing position.
+51,Nd8+,f7d8,1rbNNb1r/pk1pn1pp/p3p3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 b - - 7 26,An aesthetically pleasing position.
+52,Ka8,b7a8,krbNNb1r/p2pn1pp/p3p3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 w - - 8 27,And mate.  White's Knights seem to have danced around with impunity.
+53,Nc7#,e8c7,krbN1b1r/p1Npn1pp/p3p3/Pq6/1P2P3/2P5/3R1PPP/3R2K1 b - - 9 27,And mate.  White's Knights seem to have danced around with impunity.

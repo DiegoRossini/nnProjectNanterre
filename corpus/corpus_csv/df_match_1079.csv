@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Standard opening for me at present, happy to play the QP, BDG or Stonewall"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Looking to transpo into the BDG after d5
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,Looking to transpo into the BDG after d5
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,Standard BDG setup
+5,e4,e2e4,rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,Standard BDG setup
+6,dxe4,d5e4,rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,Standard BDG setup
+7,f3,f2f3,rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4,Standard BDG setup
+8,exf3,e4f3,rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2p2/PPP3PP/R1BQKBNR w KQkq - 0 5,"I find this is the quieter way of playing the BDG, have seen some interesting games with Qxf3 instead"
+9,Nxf3,g1f3,rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 5,"I find this is the quieter way of playing the BDG, have seen some interesting games with Qxf3 instead"
+10,Bg4,c8g4,rn1qkb1r/ppp1pppp/5n2/8/3P2b1/2N2N2/PPP3PP/R1BQKB1R w KQkq - 1 6,"h3 is again a book move, however in hindsight against this opponent I do not want to give the the pawn headstart and let him blow open my king cover"
+11,h3,h2h3,rn1qkb1r/ppp1pppp/5n2/8/3P2b1/2N2N1P/PPP3P1/R1BQKB1R b KQkq - 0 6,"I believe I will start trying some alternatives to this h3 move.
+
+Options:
+Bd3 is a good developing move and allows the short castle
+Bg5 is also an attacking developing move"
+12,Bh5,g4h5,rn1qkb1r/ppp1pppp/5n2/7b/3P4/2N2N1P/PPP3P1/R1BQKB1R w KQkq - 1 7,"This is the position I did not want to be in, played a similar game recently where I managed to win from here but I feel too exposed"
+13,g4,g2g4,rn1qkb1r/ppp1pppp/5n2/7b/3P2P1/2N2N1P/PPP5/R1BQKB1R b KQkq - 0 7,"This is the position I did not want to be in, played a similar game recently where I managed to win from here but I feel too exposed"
+14,Bg6,h5g6,rn1qkb1r/ppp1pppp/5nb1/8/3P2P1/2N2N1P/PPP5/R1BQKB1R w KQkq - 1 8,"Probably one of my better moves as he cannot bump me off without threatening his bishop, expecting Nc6"
+15,Ne5,f3e5,rn1qkb1r/ppp1pppp/5nb1/4N3/3P2P1/2N4P/PPP5/R1BQKB1R b KQkq - 2 8,"Probably one of my better moves as he cannot bump me off without threatening his bishop, expecting Nc6"
+16,e6,e7e6,rn1qkb1r/ppp2ppp/4pnb1/4N3/3P2P1/2N4P/PPP5/R1BQKB1R w KQkq - 0 9,"I was surprised to see e6 here, can only assume he wanted to open up the dark bishop"
+17,Bg2,f1g2,rn1qkb1r/ppp2ppp/4pnb1/4N3/3P2P1/2N4P/PPP3B1/R1BQK2R b KQkq - 1 9,"I contemplated carrying through with one of my earlier thoughts of taking the bishop with Nxg6 but felt that the knight was causing more trouble where it was at present, although the Nc6 or Bd6 would put pressure on it.
+
+Chose to play Bg2 to attack the unprotected pawn at b7"
+18,c6,c7c6,rn1qkb1r/pp3ppp/2p1pnb1/4N3/3P2P1/2N4P/PPP3B1/R1BQK2R w KQkq - 0 10,Trying to get the king to safety 'of sorts'
+19,O-O,e1g1,rn1qkb1r/pp3ppp/2p1pnb1/4N3/3P2P1/2N4P/PPP3B1/R1BQ1RK1 b kq - 1 10,Trying to get the king to safety 'of sorts'
+20,Bd6,f8d6,rn1qk2r/pp3ppp/2pbpnb1/4N3/3P2P1/2N4P/PPP3B1/R1BQ1RK1 w kq - 2 11,He is putting more pressure on the e5 sqaure and has double protection on the e4 and d5 squares
+21,Bf4,c1f4,rn1qk2r/pp3ppp/2pbpnb1/4N3/3P1BP1/2N4P/PPP3B1/R2Q1RK1 b kq - 3 11,Still down a pawn but feel like I am ahead in development at this stage which is the sacrifice of the BDG gambit
+22,Bxe5,d6e5,rn1qk2r/pp3ppp/2p1pnb1/4b3/3P1BP1/2N4P/PPP3B1/R2Q1RK1 w kq - 0 12,Still down a pawn but feel like I am ahead in development at this stage which is the sacrifice of the BDG gambit
+23,Bxe5,f4e5,rn1qk2r/pp3ppp/2p1pnb1/4B3/3P2P1/2N4P/PPP3B1/R2Q1RK1 b kq - 0 12,Still down a pawn but feel like I am ahead in development at this stage which is the sacrifice of the BDG gambit
+24,Nbd7,b8d7,r2qk2r/pp1n1ppp/2p1pnb1/4B3/3P2P1/2N4P/PPP3B1/R2Q1RK1 w kq - 1 13,"I took the knight here, as I did not want to have Nxe5 dxe5 Qxd1 and heading towards an endgame, a better option could have been Bh2 keeping the diagonal open for h2-b8"
+25,Bxf6,e5f6,r2qk2r/pp1n1ppp/2p1pBb1/8/3P2P1/2N4P/PPP3B1/R2Q1RK1 b kq - 0 13,"I took the knight here, as I did not want to have Nxe5 dxe5 Qxd1 and heading towards an endgame, a better option could have been Bh2 keeping the diagonal open for h2-b8"
+26,Nxf6,d7f6,r2qk2r/pp3ppp/2p1pnb1/8/3P2P1/2N4P/PPP3B1/R2Q1RK1 w kq - 0 14,Pinning the pawn at d4 and threatening Qxb2
+27,Ne2,c3e2,r2qk2r/pp3ppp/2p1pnb1/8/3P2P1/7P/PPP1N1B1/R2Q1RK1 b kq - 1 14,Pinning the pawn at d4 and threatening Qxb2
+28,Qb6,d8b6,r3k2r/pp3ppp/1qp1pnb1/8/3P2P1/7P/PPP1N1B1/R2Q1RK1 w kq - 2 15,Pinning the pawn at d4 and threatening Qxb2
+29,b3,b2b3,r3k2r/pp3ppp/1qp1pnb1/8/3P2P1/1P5P/P1P1N1B1/R2Q1RK1 b kq - 0 15,Taking away the threat to b2
+30,O-O-O,e8c8,2kr3r/pp3ppp/1qp1pnb1/8/3P2P1/1P5P/P1P1N1B1/R2Q1RK1 w - - 1 16,Increasing support to d4
+31,c3,c2c3,2kr3r/pp3ppp/1qp1pnb1/8/3P2P1/1PP4P/P3N1B1/R2Q1RK1 b - - 0 16,Increasing support to d4
+32,e5,e6e5,2kr3r/pp3ppp/1qp2nb1/4p3/3P2P1/1PP4P/P3N1B1/R2Q1RK1 w - - 0 17,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+33,Kh2,g1h2,2kr3r/pp3ppp/1qp2nb1/4p3/3P2P1/1PP4P/P3N1BK/R2Q1R2 b - - 1 17,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+34,exd4,e5d4,2kr3r/pp3ppp/1qp2nb1/8/3p2P1/1PP4P/P3N1BK/R2Q1R2 w - - 0 18,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+35,cxd4,c3d4,2kr3r/pp3ppp/1qp2nb1/8/3P2P1/1P5P/P3N1BK/R2Q1R2 b - - 0 18,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+36,h5,h7h5,2kr3r/pp3pp1/1qp2nb1/7p/3P2P1/1P5P/P3N1BK/R2Q1R2 w - - 0 19,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+37,g5,g4g5,2kr3r/pp3pp1/1qp2nb1/6Pp/3P4/1P5P/P3N1BK/R2Q1R2 b - - 0 19,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+38,Qc7+,b6c7,2kr3r/ppq2pp1/2p2nb1/6Pp/3P4/1P5P/P3N1BK/R2Q1R2 w - - 1 20,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+39,Kg1,h2g1,2kr3r/ppq2pp1/2p2nb1/6Pp/3P4/1P5P/P3N1B1/R2Q1RK1 b - - 2 20,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+40,Ne4,f6e4,2kr3r/ppq2pp1/2p3b1/6Pp/3Pn3/1P5P/P3N1B1/R2Q1RK1 w - - 3 21,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+41,Nf4,e2f4,2kr3r/ppq2pp1/2p3b1/6Pp/3PnN2/1P5P/P5B1/R2Q1RK1 b - - 4 21,"That bishop on g6 is starting to haunt me now, protecting some valuable squares!"
+42,Qb6,c7b6,2kr3r/pp3pp1/1qp3b1/6Pp/3PnN2/1P5P/P5B1/R2Q1RK1 w - - 5 22,"Trying to take some pressure off the center, not realising that Martin had a double attack on the d4 square"
+43,Nxg6,f4g6,2kr3r/pp3pp1/1qp3N1/6Pp/3Pn3/1P5P/P5B1/R2Q1RK1 b - - 0 22,"Trying to take some pressure off the center, not realising that Martin had a double attack on the d4 square"
+44,Rxd4,d8d4,2k4r/pp3pp1/1qp3N1/6Pp/3rn3/1P5P/P5B1/R2Q1RK1 w - - 0 23,"I couldn't see a better option here but the GK computer post game analysis said I could play 
+
+Best: -4.45 » 23. Ne7+ Kb8 24. Qe1 Rd1+ 25. Kh2 Rxe1 26. Raxe1 Qc7+ 27. Kg1 Qxe7 28. Rxe4 Qc5+ 29. Kh2 Rf8 30. h4 Qd6+ 31. Kh1 c5 32. a3 Kc7"
+45,Qxd4,d1d4,2k4r/pp3pp1/1qp3N1/6Pp/3Qn3/1P5P/P5B1/R4RK1 b - - 0 23,"I couldn't see a better option here but the GK computer post game analysis said I could play 
+
+Best: -4.45 » 23. Ne7+ Kb8 24. Qe1 Rd1+ 25. Kh2 Rxe1 26. Raxe1 Qc7+ 27. Kg1 Qxe7 28. Rxe4 Qc5+ 29. Kh2 Rf8 30. h4 Qd6+ 31. Kh1 c5 32. a3 Kc7"

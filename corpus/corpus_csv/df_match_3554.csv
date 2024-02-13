@@ -1,0 +1,83 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,last book move
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,last book move
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,last book move
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,last book move
+5,g3,g2g3,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,last book move
+6,g6,g7g6,rnbqkb1r/ppppp2p/5np1/5p2/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,last book move
+7,Bg2,f1g2,rnbqkb1r/ppppp2p/5np1/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,last book move
+8,Bg7,f8g7,rnbqk2r/ppppp1bp/5np1/5p2/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,last book move
+9,c4,c2c4,rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 0 5,last book move
+10,O-O,e8g8,rnbq1rk1/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R w KQ - 1 6,last book move
+11,O-O,e1g1,rnbq1rk1/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 2 6,last book move
+12,d6,d7d6,rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7,last book move
+13,Nc3,b1c3,rnbq1rk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7,last book move
+14,Qe8,d8e8,rnb1qrk1/ppp1p1bp/3p1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8,last book move
+15,Nb5,c3b5,rnb1qrk1/ppp1p1bp/3p1np1/1N3p2/2PP4/5NP1/PP2PPBP/R1BQ1RK1 b - - 3 8,"White threatens to win material: Nb5xc7
+Alternative variation: 8. Be3 e6 ; which is supposed to be better, however my aim is e6 after d5 and a kingside attack, so Be3 was not really on my mind."
+16,Qd7,e8d7,rnb2rk1/pppqp1bp/3p1np1/1N3p2/2PP4/5NP1/PP2PPBP/R1BQ1RK1 w - - 4 9,This push gains space
+17,d5,d4d5,rnb2rk1/pppqp1bp/3p1np1/1N1P1p2/2P5/5NP1/PP2PPBP/R1BQ1RK1 b - - 0 9,This push gains space
+18,a6,a7a6,rnb2rk1/1ppqp1bp/p2p1np1/1N1P1p2/2P5/5NP1/PP2PPBP/R1BQ1RK1 w - - 0 10,"Black threatens to win material: a6xb5
+Alternative variation: 9... c5 10. Qb3
+sort of waste of tempi, but it can be usefull in case of a later ... b5"
+19,Nbd4,b5d4,rnb2rk1/1ppqp1bp/p2p1np1/3P1p2/2PN4/5NP1/PP2PPBP/R1BQ1RK1 b - - 1 10,"Alternative variation: 10... e5 [is noteworthy] 11. dxe6 Qe7 
+I do not really know why black intend to go here at this stage.
+
+e5 which tries to bust black out of his cramped position would certainly have been healthier."
+20,Ne4,f6e4,rnb2rk1/1ppqp1bp/p2p2p1/3P1p2/2PNn3/5NP1/PP2PPBP/R1BQ1RK1 w - - 2 11,"Alternative variation: 10... e5 [is noteworthy] 11. dxe6 Qe7 
+I do not really know why black intend to go here at this stage.
+
+e5 which tries to bust black out of his cramped position would certainly have been healthier."
+21,Ne6,d4e6,rnb2rk1/1ppqp1bp/p2pN1p1/3P1p2/2P1n3/5NP1/PP2PPBP/R1BQ1RK1 b - - 3 11,"Alternative variation: 11... Rf7 12. Nfd4 
+Time to remove the leningrad bishop and take away a very important piece of this structure"
+22,Re8,f8e8,rnb1r1k1/1ppqp1bp/p2pN1p1/3P1p2/2P1n3/5NP1/PP2PPBP/R1BQ1RK1 w - - 4 12,"Alternative variation: 11... Rf7 12. Nfd4 
+Time to remove the leningrad bishop and take away a very important piece of this structure"
+23,Nxg7,e6g7,rnb1r1k1/1ppqp1Np/p2p2p1/3P1p2/2P1n3/5NP1/PP2PPBP/R1BQ1RK1 b - - 0 12,"Alternative variation: 12. Nfd4 Nf6 13. Nxg7 Kxg7 14. Ne6+ Kg8 15. Re1 $18
+
+The Kingside attack starts!"
+24,Kxg7,g8g7,rnb1r3/1ppqp1kp/p2p2p1/3P1p2/2P1n3/5NP1/PP2PPBP/R1BQ1RK1 w - - 0 13,"Alternative variation: 13. Ng5 Nxg5 14. Qd4+ Kg8 15. Bxg5 c5 
+
+I did not want to trade of my second knight, since my pieces are way better positioned than blacks."
+25,Qd4+,d1d4,rnb1r3/1ppqp1kp/p2p2p1/3P1p2/2PQn3/5NP1/PP2PPBP/R1B2RK1 b - - 1 13,"Alternative variation: 13. Ng5 Nxg5 14. Qd4+ Kg8 15. Bxg5 c5 
+
+I did not want to trade of my second knight, since my pieces are way better positioned than blacks."
+26,Kf7,g7f7,rnb1r3/1ppqpk1p/p2p2p1/3P1p2/2PQn3/5NP1/PP2PPBP/R1B2RK1 w - - 2 14,Alternative variation: 13... Kg8  [and Black can hope to survive]
+27,Bh6,c1h6,rnb1r3/1ppqpk1p/p2p2pB/3P1p2/2PQn3/5NP1/PP2PPBP/R4RK1 b - - 3 14,"!? the only decent move at this stage, since a Qg7 would be really devastating"
+28,Nf6,e4f6,rnb1r3/1ppqpk1p/p2p1npB/3P1p2/2PQ4/5NP1/PP2PPBP/R4RK1 w - - 4 15,"!? the only decent move at this stage, since a Qg7 would be really devastating"
+29,Ng5+,f3g5,rnb1r3/1ppqpk1p/p2p1npB/3P1pN1/2PQ4/6P1/PP2PPBP/R4RK1 b - - 5 15,"Alternative variation: 16. c5 dxc5 17. Qxc5 Qd6
+
+I do not understand this proposal of rybka, maybe someone can clairify it for me."
+30,Kg8,f7g8,rnb1r1k1/1ppqp2p/p2p1npB/3P1pN1/2PQ4/6P1/PP2PPBP/R4RK1 w - - 6 16,"Alternative variation: 16. c5 dxc5 17. Qxc5 Qd6
+
+I do not understand this proposal of rybka, maybe someone can clairify it for me."
+31,Bh3,g2h3,rnb1r1k1/1ppqp2p/p2p1npB/3P1pN1/2PQ4/6PB/PP2PP1P/R4RK1 b - - 7 16,"Alternative variation: 16. c5 dxc5 17. Qxc5 Qd6
+
+I do not understand this proposal of rybka, maybe someone can clairify it for me."
+32,c5,c7c5,rnb1r1k1/1p1qp2p/p2p1npB/2pP1pN1/2PQ4/6PB/PP2PP1P/R4RK1 w - c6 0 17,"Alternative variation: 16... e5 17. Qh4 Qe7 18. f3 
+
+Black tries to break out"
+33,Qc3,d4c3,rnb1r1k1/1p1qp2p/p2p1npB/2pP1pN1/2P5/2Q3PB/PP2PP1P/R4RK1 b - - 1 17,"Alternative variation: 17. Qh4 Qc7 18. f3 
+
+of course not dxc, since it is needed to deal with an eventual e5.
+I saw 17. Qh4 but I do not really see an immediate continuation. Still white is overwhelming the king-side while all of blacks remaining pieces are cut off"
+34,b5,b7b5,rnb1r1k1/3qp2p/p2p1npB/1ppP1pN1/2P5/2Q3PB/PP2PP1P/R4RK1 w - - 0 18,Alternative variation: 17... Qd8
+35,e4,e2e4,rnb1r1k1/3qp2p/p2p1npB/1ppP1pN1/2P1P3/2Q3PB/PP3P1P/R4RK1 b - - 0 18,"Deflection: f5
+
+My idea at this point was to play e4 and maybe follow up with f4 and e5"
+36,b4,b5b4,rnb1r1k1/3qp2p/p2p1npB/2pP1pN1/1pP1P3/2Q3PB/PP3P1P/R4RK1 w - - 0 19,"?? a blunder in a bad position
+Alternative variation: 18... fxe4 19. Bxd7 [Deflection Pinning]
+Alternative variation: 18... Nxe4 19. Qg7# [ Mate attack Deflection]
+Alternative variation: 18... -- 19. exf5 [Threat] gxf5 20. Ne6 [ Combination]
+Alternative variation: 18... Qb7 [Only Hope] 19. Rae1 Nbd7 20. exf5 Nf8 21. g4 bxc4"
+37,Qe3,c3e3,rnb1r1k1/3qp2p/p2p1npB/2pP1pN1/1pP1P3/4Q1PB/PP3P1P/R4RK1 b - - 1 19,Again the target is the weak e6 square
+38,Ng4,f6g4,rnb1r1k1/3qp2p/p2p2pB/2pP1pN1/1pP1P1n1/4Q1PB/PP3P1P/R4RK1 w - - 2 20,"?? 
+Alternative variation: 19... Rd8 [there is nothing better in the position]
+
+This ruins black completely, it will open up the file for my queen and all hell can start to break loose."
+39,Bxg4,h3g4,rnb1r1k1/3qp2p/p2p2pB/2pP1pN1/1pP1P1B1/4Q1P1/PP3P1P/R4RK1 b - - 0 20,"Alternative variation: 20... Rf8 [hardly improves anything] 21. exf5 Qe8 22. Ne6 Bxe6 23. Qxe6+ Qf7 24. fxg6 hxg6 25. Rae1 
+
+It's the end of the 20th turn and neither blacks knight nor blacks bishop are really developed, the rook on the a file is completely useless, whereas white just has to play f3 and it will have total domination on the f file"
+40,fxg4,f5g4,rnb1r1k1/3qp2p/p2p2pB/2pP2N1/1pP1P1p1/4Q1P1/PP3P1P/R4RK1 w - - 0 21,"Alternative variation: 20... Rf8 [hardly improves anything] 21. exf5 Qe8 22. Ne6 Bxe6 23. Qxe6+ Qf7 24. fxg6 hxg6 25. Rae1 
+
+It's the end of the 20th turn and neither blacks knight nor blacks bishop are really developed, the rook on the a file is completely useless, whereas white just has to play f3 and it will have total domination on the f file"
+41,Qf4,e3f4,rnb1r1k1/3qp2p/p2p2pB/2pP2N1/1pP1PQp1/6P1/PP3P1P/R4RK1 b - - 1 21,"""drop by mate threat"" after 22. Qf7+ Kh8 23. Bg7#"

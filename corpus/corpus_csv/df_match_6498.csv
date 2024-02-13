@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"My usual play as black, the Sicilian"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"My usual play as black, the Sicilian"
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"At this point, I assumed the morra gambit..."
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,I disagree with this move only because it allows black to gain tempo...
+5,Qxd4,d1d4,rnbqkbnr/pp1ppppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,I disagree with this move only because it allows black to gain tempo...
+6,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,A really passive retreat by white makes Qxd4 look a bit silly.
+7,Qd1,d4d1,r1bqkbnr/pp1ppppp/2n5/8/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 2 4,A really passive retreat by white makes Qxd4 look a bit silly.
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 3 5,planning a sort of dragon variation here with a bishop on g7
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 4 5,planning a sort of dragon variation here with a bishop on g7
+10,g6,g7g6,r1bqkb1r/pp1ppp1p/2n2np1/8/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 6,planning a sort of dragon variation here with a bishop on g7
+11,Nd5,c3d5,r1bqkb1r/pp1ppp1p/2n2np1/3N4/4P3/8/PPP2PPP/R1BQKBNR b KQkq - 1 6,"White hangs the pawn on e4. I looked hard and tried to remember any traps here, but couldn't find one"
+12,Nxe4,f6e4,r1bqkb1r/pp1ppp1p/2n3p1/3N4/4n3/8/PPP2PPP/R1BQKBNR w KQkq - 0 7,Black is up a pawn
+13,Bf4,c1f4,r1bqkb1r/pp1ppp1p/2n3p1/3N4/4nB2/8/PPP2PPP/R2QKBNR b KQkq - 1 7,"An obvious and easily defended threat of Nc7+, but good development of the bishop. At this point, I was sort of eyeing Qa5+. If it weren't for the defence of the white queen, it wins some material."
+14,e5,e7e5,r1bqkb1r/pp1p1p1p/2n3p1/3Np3/4nB2/8/PPP2PPP/R2QKBNR w KQkq - 0 8,Defending Nc7+ and attacking the bishop
+15,Bd3,f1d3,r1bqkb1r/pp1p1p1p/2n3p1/3Np3/4nB2/3B4/PPP2PPP/R2QK1NR b KQkq - 1 8,Bd3?? Blunder number 1. Loses a Bishop. Now that white has cut off the defence of the knight on d5...
+16,Qa5+,d8a5,r1b1kb1r/pp1p1p1p/2n3p1/q2Np3/4nB2/3B4/PPP2PPP/R2QK1NR w KQkq - 2 9,White loses a piece.
+17,Nc3,d5c3,r1b1kb1r/pp1p1p1p/2n3p1/q3p3/4nB2/2NB4/PPP2PPP/R2QK1NR b KQkq - 3 9,White loses a piece.
+18,Nxc3,e4c3,r1b1kb1r/pp1p1p1p/2n3p1/q3p3/5B2/2nB4/PPP2PPP/R2QK1NR w KQkq - 0 10,White loses a piece.
+19,bxc3,b2c3,r1b1kb1r/pp1p1p1p/2n3p1/q3p3/5B2/2PB4/P1P2PPP/R2QK1NR b KQkq - 0 10,White loses a piece.
+20,exf4,e5f4,r1b1kb1r/pp1p1p1p/2n3p1/q7/5p2/2PB4/P1P2PPP/R2QK1NR w KQkq - 0 11,White loses a piece.
+21,Qd2,d1d2,r1b1kb1r/pp1p1p1p/2n3p1/q7/5p2/2PB4/P1PQ1PPP/R3K1NR b KQkq - 1 11,Threatening Bxc3 to win the queen...
+22,Bg7,f8g7,r1b1k2r/pp1p1pbp/2n3p1/q7/5p2/2PB4/P1PQ1PPP/R3K1NR w KQkq - 2 12,Threatening Bxc3 to win the queen...
+23,Qxf4,d2f4,r1b1k2r/pp1p1pbp/2n3p1/q7/5Q2/2PB4/P1P2PPP/R3K1NR b KQkq - 0 12,A nice fork...
+24,Qxc3+,a5c3,r1b1k2r/pp1p1pbp/2n3p1/8/5Q2/2qB4/P1P2PPP/R3K1NR w KQkq - 0 13,A nice fork...
+25,Ke2,e1e2,r1b1k2r/pp1p1pbp/2n3p1/8/5Q2/2qB4/P1P1KPPP/R5NR b kq - 1 13,"Thought about taking the rook, but I figured It get the knight closer to the action first."
+26,Nd4+,c6d4,r1b1k2r/pp1p1pbp/6p1/8/3n1Q2/2qB4/P1P1KPPP/R5NR w kq - 2 14,"Thought about taking the rook, but I figured It get the knight closer to the action first."
+27,Ke3,e2e3,r1b1k2r/pp1p1pbp/6p1/8/3n1Q2/2qBK3/P1P2PPP/R5NR b kq - 3 14,Ke3?? Pins the bishop on d3 and loses a queen for a bishop. Do you see it?
+28,Bh6,g7h6,r1b1k2r/pp1p1p1p/6pb/8/3n1Q2/2qBK3/P1P2PPP/R5NR w kq - 4 15,A textbook piece sacrifice...
+29,Qxh6,f4h6,r1b1k2r/pp1p1p1p/6pQ/8/3n4/2qBK3/P1P2PPP/R5NR b kq - 0 15,"With the bishop on d3 pinned, Nf5+ wins. White resigned here."
+30,Nf5+,d4f5,r1b1k2r/pp1p1p1p/6pQ/5n2/8/2qBK3/P1P2PPP/R5NR w kq - 1 16,"With the bishop on d3 pinned, Nf5+ wins. White resigned here."

@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Real quick game, white is sharp & to the point."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queens gambit for black
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Queens gambit for black
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,Queens gambit for black
+5,Bf4,c1f4,rnbqkbnr/pp2pppp/8/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,Declined want to continue with development.
+6,e6,e7e6,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Blocking Ng5
+7,e3,e2e3,rnbqkbnr/pp3ppp/4p3/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,Blocking Ng5
+8,h6,h7h6,rnbqkbnr/pp3pp1/4p2p/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5,Blocking Ng5
+9,c3,c2c3,rnbqkbnr/pp3pp1/4p2p/2pp4/3P1B2/2P1PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,?! No where to really go as all outposts are covered.
+10,a6,a7a6,rnbqkbnr/1p3pp1/p3p2p/2pp4/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 0 6,?! No where to really go as all outposts are covered.
+11,Bd3,f1d3,rnbqkbnr/1p3pp1/p3p2p/2pp4/3P1B2/2PBPN2/PP3PPP/RN1QK2R b KQkq - 1 6,?! No where to really go as all outposts are covered.
+12,Nc6,b8c6,r1bqkbnr/1p3pp1/p1n1p2p/2pp4/3P1B2/2PBPN2/PP3PPP/RN1QK2R w KQkq - 2 7,?! No where to really go as all outposts are covered.
+13,O-O,e1g1,r1bqkbnr/1p3pp1/p1n1p2p/2pp4/3P1B2/2PBPN2/PP3PPP/RN1Q1RK1 b kq - 3 7,White pretty much developed
+14,Nf6,g8f6,r1bqkb1r/1p3pp1/p1n1pn1p/2pp4/3P1B2/2PBPN2/PP3PPP/RN1Q1RK1 w kq - 4 8,White pretty much developed
+15,Nbd2,b1d2,r1bqkb1r/1p3pp1/p1n1pn1p/2pp4/3P1B2/2PBPN2/PP1N1PPP/R2Q1RK1 b kq - 5 8,White pretty much developed
+16,Be7,f8e7,r1bqk2r/1p2bpp1/p1n1pn1p/2pp4/3P1B2/2PBPN2/PP1N1PPP/R2Q1RK1 w kq - 6 9,Exchange offered.
+17,Ne5,f3e5,r1bqk2r/1p2bpp1/p1n1pn1p/2ppN3/3P1B2/2PBP3/PP1N1PPP/R2Q1RK1 b kq - 7 9,Exchange offered.
+18,O-O,e8g8,r1bq1rk1/1p2bpp1/p1n1pn1p/2ppN3/3P1B2/2PBP3/PP1N1PPP/R2Q1RK1 w - - 8 10,Black opts to castle quickly as white comes forward.
+19,Qf3,d1f3,r1bq1rk1/1p2bpp1/p1n1pn1p/2ppN3/3P1B2/2PBPQ2/PP1N1PPP/R4RK1 b - - 9 10,White brings queen into action early.
+20,Re8,f8e8,r1bqr1k1/1p2bpp1/p1n1pn1p/2ppN3/3P1B2/2PBPQ2/PP1N1PPP/R4RK1 w - - 10 11,"G7 is not defended, white applies alittle pressue"
+21,Qg3,f3g3,r1bqr1k1/1p2bpp1/p1n1pn1p/2ppN3/3P1B2/2PBP1Q1/PP1N1PPP/R4RK1 b - - 11 11,"G7 is not defended, white applies alittle pressue"
+22,g5,g7g5,r1bqr1k1/1p2bp2/p1n1pn1p/2ppN1p1/3P1B2/2PBP1Q1/PP1N1PPP/R4RK1 w - - 0 12,Black doesnt like threat so attacks bishop & defends at same time.
+23,Bxg5,f4g5,r1bqr1k1/1p2bp2/p1n1pn1p/2ppN1B1/3P4/2PBP1Q1/PP1N1PPP/R4RK1 b - - 0 12,Bishop sac'd for 2 pawns and total destruction of defensive pawns
+24,hxg5,h6g5,r1bqr1k1/1p2bp2/p1n1pn2/2ppN1p1/3P4/2PBP1Q1/PP1N1PPP/R4RK1 w - - 0 13,Blacks king is totally exposed
+25,Qxg5+,g3g5,r1bqr1k1/1p2bp2/p1n1pn2/2ppN1Q1/3P4/2PBP3/PP1N1PPP/R4RK1 b - - 0 13,Blacks king is totally exposed
+26,Kh8,g8h8,r1bqr2k/1p2bp2/p1n1pn2/2ppN1Q1/3P4/2PBP3/PP1N1PPP/R4RK1 w - - 1 14,wrong way!!! (even if King had gone to F8 he still would have been in poor situation)
+27,Nxf7#,e5f7,r1bqr2k/1p2bN2/p1n1pn2/2pp2Q1/3P4/2PBP3/PP1N1PPP/R4RK1 b - - 0 14,With a fork on the queen to boot!

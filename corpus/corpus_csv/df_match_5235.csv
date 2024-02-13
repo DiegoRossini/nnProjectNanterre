@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Simple enough.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Normally I don't like Sicilian as Black but I felt I might as well try it on this blitz game.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"A rather common move, attacks the center while developing on the kingside."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"This one is to counter 2.Nf3, as they both attack the same spaces.  A battle over the center should occur."
+5,Bc4,f1c4,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Not at all uncommon; White wants to get his pieces developed here.
+6,e6,e7e6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"This allows the Queen and Bishop to get out from the back rank and is rather a defensive move compared to the alternate 3...e6, though it sets up well for a good formation."
+7,d4,d2d4,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"This is ambitious and continues White's aggressive, attacking game, and asserts more control over the center."
+8,b6,b7b6,r1bqkbnr/p2p1ppp/1pn1p3/2p5/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"This move is perhaps not the best, though it does afford the c-pawn more protection.  That said, 4...d6 might have been better, and the Black setup appears a bit disjointed already."
+9,dxc5,d4c5,r1bqkbnr/p2p1ppp/1pn1p3/2P5/2B1P3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"This was unnecessary, as it disrupts White's development in the center.  Perhaps White was hoping for a 5...bxc5, leaving the c-pawn isolated and weakening Black's queenside badly, but it backfired."
+10,Bxc5,f8c5,r1bqk1nr/p2p1ppp/1pn1p3/2b5/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 6,"This is absolutely the best move, as it leaves Black's pawn structure intact and gets the bishop to the center quickly.  Now the advantage swings a bit to Black, whose pieces are better coordinated."
+11,O-O,e1g1,r1bqk1nr/p2p1ppp/1pn1p3/2b5/2B1P3/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 6,"This is more of a waiting move but castling is effective, a good way to recover after a mistake one move before."
+12,d6,d7d6,r1bqk1nr/p4ppp/1pnpp3/2b5/2B1P3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 7,"This protects the center and the bishop on c5, but perhaps Black forgets that it prevents retreat for that bishop."
+13,Be3,c1e3,r1bqk1nr/p4ppp/1pnpp3/2b5/2B1P3/4BN2/PPP2PPP/RN1Q1RK1 b kq - 1 7,"This move is good for both sides as it invites 7...Bxc3, which helps White by removing Black's strong bishop from the board and helps Black by removing a bishop which is stranded in the middle of the board (if it were captured, recapturing with the d-pawn allows uncomfortable space toward the center and recapturing with the b-pawn is asking for a queenside attack."
+14,Bxe3,c5e3,r1bqk1nr/p4ppp/1pnpp3/8/2B1P3/4bN2/PPP2PPP/RN1Q1RK1 w kq - 0 8,"Simple, and it benefits White by doubling pawns on the e-file, assuming a recapture by the f-pawn."
+15,fxe3,f2e3,r1bqk1nr/p4ppp/1pnpp3/8/2B1P3/4PN2/PPP3PP/RN1Q1RK1 b kq - 0 8,The only sensible move here.
+16,Bb7,c8b7,r2qk1nr/pb3ppp/1pnpp3/8/2B1P3/4PN2/PPP3PP/RN1Q1RK1 w kq - 1 9,Evidently Black is angling for a discovered attack on White's unprotected pawn on e4.
+17,Bb5,c4b5,r2qk1nr/pb3ppp/1pnpp3/1B6/4P3/4PN2/PPP3PP/RN1Q1RK1 b kq - 2 9,This takes that plan away with a pin on the king.
+18,a6,a7a6,r2qk1nr/1b3ppp/ppnpp3/1B6/4P3/4PN2/PPP3PP/RN1Q1RK1 w kq - 0 10,"Forcing the bishop to do something - in other words, ""s*** or get off the pot."""
+19,Bxc6+,b5c6,r2qk1nr/1b3ppp/ppBpp3/8/4P3/4PN2/PPP3PP/RN1Q1RK1 b kq - 0 10,White's been attacking all game and his game plan depends on maintaining this momentum.
+20,Bxc6,b7c6,r2qk1nr/5ppp/ppbpp3/8/4P3/4PN2/PPP3PP/RN1Q1RK1 w kq - 0 11,"Black has the advantage at this point.  He has given up a knight and a bishop but has both of White's bishops, and he has a hedgehog formation set up.  Plus, he avoids the clogging up that this position usually entails, as his Queen has a path out of the back.  White, meanwhile, has castled, but has doubled pawns on the e-file and, the kingside is weak."

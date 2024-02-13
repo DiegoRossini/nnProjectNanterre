@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"on 2...g6, trying for a Leningrad Dutch, there's the interesting 3.h4!, whipping up a quick K-side attack."
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"on 2...g6, trying for a Leningrad Dutch, there's the interesting 3.h4!, whipping up a quick K-side attack."
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"on 2...g6, trying for a Leningrad Dutch, there's the interesting 3.h4!, whipping up a quick K-side attack."
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,"on 2...g6, trying for a Leningrad Dutch, there's the interesting 3.h4!, whipping up a quick K-side attack."
+5,Bg5,c1g5,rnbqkb1r/ppppp1pp/5n2/5pB1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,"And here's the move I want to try. The ""recommended"" line for white is to fianchetto on the king side and put pawns on c4 & d4."
+6,e6,e7e6,rnbqkb1r/pppp2pp/4pn2/5pB1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,Black's other option is 4...d5.
+7,Nbd2,b1d2,rnbqkb1r/pppp2pp/4pn2/5pB1/3P4/5N2/PPPNPPPP/R2QKB1R b KQkq - 1 4,Black's other option is 4...d5.
+8,Be7,f8e7,rnbqk2r/ppppb1pp/4pn2/5pB1/3P4/5N2/PPPNPPPP/R2QKB1R w KQkq - 2 5,Black's other option is 4...d5.
+9,Bxf6,g5f6,rnbqk2r/ppppb1pp/4pB2/5p2/3P4/5N2/PPPNPPPP/R2QKB1R b KQkq - 0 5,The point of this variation - white now gains all sorts of space in the center.
+10,Bxf6,e7f6,rnbqk2r/pppp2pp/4pb2/5p2/3P4/5N2/PPPNPPPP/R2QKB1R w KQkq - 0 6,The point of this variation - white now gains all sorts of space in the center.
+11,e4,e2e4,rnbqk2r/pppp2pp/4pb2/5p2/3PP3/5N2/PPPN1PPP/R2QKB1R b KQkq - 0 6,The point of this variation - white now gains all sorts of space in the center.
+12,fxe4,f5e4,rnbqk2r/pppp2pp/4pb2/8/3Pp3/5N2/PPPN1PPP/R2QKB1R w KQkq - 0 7,White gets a clear advantage after this. Black's best try is probably to leave the tension in the center unresolved and play 6...O-O and 7...d5.
+13,Nxe4,d2e4,rnbqk2r/pppp2pp/4pb2/8/3PN3/5N2/PPP2PPP/R2QKB1R b KQkq - 0 7,?! this creates a weakness on e6.  Perhaps black wants to play ...e5 next?
+14,d6,d7d6,rnbqk2r/ppp3pp/3ppb2/8/3PN3/5N2/PPP2PPP/R2QKB1R w KQkq - 0 8,?! this creates a weakness on e6.  Perhaps black wants to play ...e5 next?
+15,Bd3,f1d3,rnbqk2r/ppp3pp/3ppb2/8/3PN3/3B1N2/PPP2PPP/R2QK2R b KQkq - 1 8,"Now if black plays 9...O-O, my plan is to castle long and attack on the King side. 9.c3, besides supporting d4 and preventing ...Nb4, also readies ""plan B"" - expand on the Q-side - if black delays O-O."
+16,Nc6,b8c6,r1bqk2r/ppp3pp/2nppb2/8/3PN3/3B1N2/PPP2PPP/R2QK2R w KQkq - 2 9,"Now if black plays 9...O-O, my plan is to castle long and attack on the King side. 9.c3, besides supporting d4 and preventing ...Nb4, also readies ""plan B"" - expand on the Q-side - if black delays O-O."
+17,c3,c2c3,r1bqk2r/ppp3pp/2nppb2/8/3PN3/2PB1N2/PP3PPP/R2QK2R b KQkq - 0 9,"Now if black plays 9...O-O, my plan is to castle long and attack on the King side. 9.c3, besides supporting d4 and preventing ...Nb4, also readies ""plan B"" - expand on the Q-side - if black delays O-O."
+18,Bd7,c8d7,r2qk2r/pppb2pp/2nppb2/8/3PN3/2PB1N2/PP3PPP/R2QK2R w KQkq - 1 10,still preparing to castle long ...
+19,Qe2,d1e2,r2qk2r/pppb2pp/2nppb2/8/3PN3/2PB1N2/PP2QPPP/R3K2R b KQkq - 2 10,still preparing to castle long ...
+20,Qe7,d8e7,r3k2r/pppbq1pp/2nppb2/8/3PN3/2PB1N2/PP2QPPP/R3K2R w KQkq - 3 11,But black makes a waiting move.
+21,O-O,e1g1,r3k2r/pppbq1pp/2nppb2/8/3PN3/2PB1N2/PP2QPPP/R4RK1 b kq - 4 11,"I can't wait forever, so time for Plan B."
+22,O-O,e8g8,r4rk1/pppbq1pp/2nppb2/8/3PN3/2PB1N2/PP2QPPP/R4RK1 w - - 5 12,Clever - avoids the immediate K-side attack by waiting for white to castle first.
+23,b4,b2b4,r4rk1/pppbq1pp/2nppb2/8/1P1PN3/2PB1N2/P3QPPP/R4RK1 b - - 0 12,Plan B is under way.
+24,g6,g7g6,r4rk1/pppbq2p/2nppbp1/8/1P1PN3/2PB1N2/P3QPPP/R4RK1 w - - 0 13,Sealing off the b1-h7 diagonal
+25,b5,b4b5,r4rk1/pppbq2p/2nppbp1/1P6/3PN3/2PB1N2/P3QPPP/R4RK1 b - - 0 13,"Poorly placed; perhaps 13...Nd8 instead, with ...Nf7 next to support ....e5."
+26,Na5,c6a5,r4rk1/pppbq2p/3ppbp1/nP6/3PN3/2PB1N2/P3QPPP/R4RK1 w - - 1 14,"Poorly placed; perhaps 13...Nd8 instead, with ...Nf7 next to support ....e5."
+27,Nxf6+,e4f6,r4rk1/pppbq2p/3ppNp1/nP6/3P4/2PB1N2/P3QPPP/R4RK1 b - - 0 14,Getting rid of black's most active piece. His remaining B + N have no useful moves.
+28,Qxf6,e7f6,r4rk1/pppb3p/3ppqp1/nP6/3P4/2PB1N2/P3QPPP/R4RK1 w - - 0 15,"Preparing f4, after which the pawn on e6 becomes a permanent liability."
+29,Nd2,f3d2,r4rk1/pppb3p/3ppqp1/nP6/3P4/2PB4/P2NQPPP/R4RK1 b - - 1 15,"Preparing f4, after which the pawn on e6 becomes a permanent liability."
+30,b6,b7b6,r4rk1/p1pb3p/1p1ppqp1/nP6/3P4/2PB4/P2NQPPP/R4RK1 w - - 0 16,"?! this is black's last chance to play ...e5. After 15...e5 16.dxe5 Qxe5 17.Qxe5 dxe5, white has a clear edge, but it's still anybody's game."
+31,f4,f2f4,r4rk1/p1pb3p/1p1ppqp1/nP6/3P1P2/2PB4/P2NQ1PP/R4RK1 b - - 0 16,"Probably entertaining ideas of ...e5, but it's too late for that"
+32,Rae8,a8e8,4rrk1/p1pb3p/1p1ppqp1/nP6/3P1P2/2PB4/P2NQ1PP/R4RK1 w - - 1 17,"Probably entertaining ideas of ...e5, but it's too late for that"
+33,Rae1,a1e1,4rrk1/p1pb3p/1p1ppqp1/nP6/3P1P2/2PB4/P2NQ1PP/4RRK1 b - - 2 17,"Probably entertaining ideas of ...e5, but it's too late for that"
+34,Qg7,f6g7,4rrk1/p1pb2qp/1p1pp1p1/nP6/3P1P2/2PB4/P2NQ1PP/4RRK1 w - - 3 18,"Probably entertaining ideas of ...e5, but it's too late for that"
+35,Ne4,d2e4,4rrk1/p1pb2qp/1p1pp1p1/nP6/3PNP2/2PB4/P3Q1PP/4RRK1 b - - 4 18,"The N is on its way to g5, where it increases the pressure on e6."
+36,d5,d6d5,4rrk1/p1pb2qp/1p2p1p1/nP1p4/3PNP2/2PB4/P3Q1PP/4RRK1 w - - 0 19,"This is a serious positional error, as now white's N will become a monster on e5. Surprisingly, GK's computer doesn't see anything wrong with this move. I would move 18...Nb7, trying for counterplay with ...c5. Note that 18...e5 loses to 19.fxe5 dxe5 20.dxe5, creating a strong passed pawn (and 20...Rxd5? or 20...Qxd5 21.Nf6+! wins)."

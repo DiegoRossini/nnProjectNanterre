@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White plays aggressively with 1. e4
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black mirrors White's image.
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,This usually means White is attempting to pull off a quick Scholar's mate.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,Inviting White to play Qf3.
+5,Qf3,d1f3,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,"If chess were that easy, it wouldn't be so popular."
+6,Qf6,d8f6,r1b1kbnr/pppp1ppp/2n2q2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,Black has at least equality.
+7,c3,c2c3,r1b1kbnr/pppp1ppp/2n2q2/4p3/2B1P3/2P2Q2/PP1P1PPP/RNB1K1NR b KQkq - 0 4,"Preventing Nd4, but hinder's the development of White's b1 knight."
+8,Bc5,f8c5,r1b1k1nr/pppp1ppp/2n2q2/2b1p3/2B1P3/2P2Q2/PP1P1PPP/RNB1K1NR w KQkq - 1 5,Black is better.
+9,d3,d2d3,r1b1k1nr/pppp1ppp/2n2q2/2b1p3/2B1P3/2PP1Q2/PP3PPP/RNB1K1NR b KQkq - 0 5,What else?
+10,b6,b7b6,r1b1k1nr/p1pp1ppp/1pn2q2/2b1p3/2B1P3/2PP1Q2/PP3PPP/RNB1K1NR w KQkq - 0 6,Preparing to fianchetto the light-square bishop.
+11,h4,h2h4,r1b1k1nr/p1pp1ppp/1pn2q2/2b1p3/2B1P2P/2PP1Q2/PP3PP1/RNB1K1NR b KQkq - 0 6,Threatening Bg5
+12,h6,h7h6,r1b1k1nr/p1pp1pp1/1pn2q1p/2b1p3/2B1P2P/2PP1Q2/PP3PP1/RNB1K1NR w KQkq - 0 7,This stalls Bg5 for a couple of moves.
+13,g4,g2g4,r1b1k1nr/p1pp1pp1/1pn2q1p/2b1p3/2B1P1PP/2PP1Q2/PP3P2/RNB1K1NR b KQkq - 0 7,"White is still playing for Bg5, which does not even give White any compensation."
+14,Bb7,c8b7,r3k1nr/pbpp1pp1/1pn2q1p/2b1p3/2B1P1PP/2PP1Q2/PP3P2/RNB1K1NR w KQkq - 1 8,"Okay, so White finally gets to play Bg5."
+15,g5,g4g5,r3k1nr/pbpp1pp1/1pn2q1p/2b1p1P1/2B1P2P/2PP1Q2/PP3P2/RNB1K1NR b KQkq - 0 8,"Okay, so White finally gets to play Bg5."
+16,hxg5,h6g5,r3k1nr/pbpp1pp1/1pn2q2/2b1p1p1/2B1P2P/2PP1Q2/PP3P2/RNB1K1NR w KQkq - 0 9,"Okay, so White finally gets to play Bg5."
+17,Bxg5,c1g5,r3k1nr/pbpp1pp1/1pn2q2/2b1p1B1/2B1P2P/2PP1Q2/PP3P2/RN2K1NR b KQkq - 0 9,"Okay, so White finally gets to play Bg5."
+18,Qxf3,f6f3,r3k1nr/pbpp1pp1/1pn5/2b1p1B1/2B1P2P/2PP1q2/PP3P2/RN2K1NR w KQkq - 0 10,"White's dark-square bishop is now ""bad."""
+19,Nxf3,g1f3,r3k1nr/pbpp1pp1/1pn5/2b1p1B1/2B1P2P/2PP1N2/PP3P2/RN2K2R b KQkq - 0 10,"White's dark-square bishop is now ""bad."""
+20,f6,f7f6,r3k1nr/pbpp2p1/1pn2p2/2b1p1B1/2B1P2P/2PP1N2/PP3P2/RN2K2R w KQkq - 0 11,"White's dark-square bishop is now ""bad."""
+21,Bd2,g5d2,r3k1nr/pbpp2p1/1pn2p2/2b1p3/2B1P2P/2PP1N2/PP1B1P2/RN2K2R b KQkq - 1 11,"White's dark-square bishop is now ""bad."""
+22,Nh6,g8h6,r3k2r/pbpp2p1/1pn2p1n/2b1p3/2B1P2P/2PP1N2/PP1B1P2/RN2K2R w KQkq - 2 12,Threatening Ng4
+23,Bxh6,d2h6,r3k2r/pbpp2p1/1pn2p1B/2b1p3/2B1P2P/2PP1N2/PP3P2/RN2K2R b KQkq - 0 12,"White exchanges the ""bad"" bishop for the ""good"" knight, but Black gets pressure on the semi-open h-file."
+24,Rxh6,h8h6,r3k3/pbpp2p1/1pn2p1r/2b1p3/2B1P2P/2PP1N2/PP3P2/RN2K2R w KQq - 0 13,White should complete his development first.
+25,Bd5,c4d5,r3k3/pbpp2p1/1pn2p1r/2bBp3/4P2P/2PP1N2/PP3P2/RN2K2R b KQq - 1 13,White should complete his development first.
+26,O-O-O,e8c8,2kr4/pbpp2p1/1pn2p1r/2bBp3/4P2P/2PP1N2/PP3P2/RN2K2R w KQ - 2 14,White gives Black the bishop pair for no compensation what-so-ever.
+27,Bxc6,d5c6,2kr4/pbpp2p1/1pB2p1r/2b1p3/4P2P/2PP1N2/PP3P2/RN2K2R b KQ - 0 14,White gives Black the bishop pair for no compensation what-so-ever.
+28,Bxc6,b7c6,2kr4/p1pp2p1/1pb2p1r/2b1p3/4P2P/2PP1N2/PP3P2/RN2K2R w KQ - 0 15,"Attacking the weak d3 pawn, but allowing the potential d4 break. However, Black would then get both the e- and h-files for counterplay."
+29,Nbd2,b1d2,2kr4/p1pp2p1/1pb2p1r/2b1p3/4P2P/2PP1N2/PP1N1P2/R3K2R b KQ - 1 15,"Attacking the weak d3 pawn, but allowing the potential d4 break. However, Black would then get both the e- and h-files for counterplay."
+30,Bb5,c6b5,2kr4/p1pp2p1/1p3p1r/1bb1p3/4P2P/2PP1N2/PP1N1P2/R3K2R w KQ - 2 16,"Attacking the weak d3 pawn, but allowing the potential d4 break. However, Black would then get both the e- and h-files for counterplay."

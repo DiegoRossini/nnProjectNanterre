@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Hello everyone, and today I will annotate a very instructive game I picked out played on GK between a C and B level player. This game shows white blundering in the opening, but holding up to the endgame. When the result is likely a draw, white slips, and loses.
+
+So first: e4."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,the open games. Development will matter more here.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"going into the four knights game, which is not the most promising opening for white,but perfectly playable."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"going into the four knights game, which is not the most promising opening for white,but perfectly playable."
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"going into the four knights game, which is not the most promising opening for white,but perfectly playable."
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"going into the four knights game, which is not the most promising opening for white,but perfectly playable."
+7,Bc4,f1c4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"Perfectly OK move, although I would not like this because black can equalize immediately with the center fork trick: 4...Nxe4! with a good game. If white tries 5.Bxf7ch?! which I remember playing 2 years ago, then 5...Kxf7  6.Nxe4 d5!  7.Ng5ch Kg8  and black had small advantage in Me(1100) vs. opponent in 2008. Black converted his advantage well, and almost won, but only drew."
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5,I prefer Nxe4
+9,Ne2,c3e2,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/5N2/PPPPNPPP/R1BQK2R b KQkq - 7 5,"the mistake. This move:
+
+1.Loses a central pawn
+2.Moves a piece twice (to a worse square too)
+
+This was probably intended to force through d4, but with terrible ""side effects"""
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2B1P3/5N2/PPPPNPPP/R1BQK2R w KQ - 8 6,"black leaves the pawn. Fine, I guess, as white is down in development now. I think his best choice is d3, with a slightly worse game."
+11,d4,d2d4,r1bq1rk1/pppp1ppp/2n2n2/2b1p3/2BPP3/5N2/PPP1NPPP/R1BQK2R b KQ - 0 6,this loses a pawn now.
+12,exd4,e5d4,r1bq1rk1/pppp1ppp/2n2n2/2b5/2BpP3/5N2/PPP1NPPP/R1BQK2R w KQ - 0 7,"now black pockets the pawn with a better position. This is an important moment in the game. Now that white is down a pawn, he will go for the draw. White's material advantage is not big enough to stop playing tactically and making threats immediately. He will try to expand his advantage if possible. Black will want to be playing much more tactically and fogging the position."
+13,Nexd4,e2d4,r1bq1rk1/pppp1ppp/2n2n2/2b5/2BNP3/5N2/PPP2PPP/R1BQK2R b KQ - 0 7,"now black pockets the pawn with a better position. This is an important moment in the game. Now that white is down a pawn, he will go for the draw. White's material advantage is not big enough to stop playing tactically and making threats immediately. He will try to expand his advantage if possible. Black will want to be playing much more tactically and fogging the position."
+14,Nxd4,c6d4,r1bq1rk1/pppp1ppp/5n2/2b5/2BnP3/5N2/PPP2PPP/R1BQK2R w KQ - 0 8,"now black pockets the pawn with a better position. This is an important moment in the game. Now that white is down a pawn, he will go for the draw. White's material advantage is not big enough to stop playing tactically and making threats immediately. He will try to expand his advantage if possible. Black will want to be playing much more tactically and fogging the position."
+15,Nxd4,f3d4,r1bq1rk1/pppp1ppp/5n2/2b5/2BNP3/8/PPP2PPP/R1BQK2R b KQ - 0 8,"now black pockets the pawn with a better position. This is an important moment in the game. Now that white is down a pawn, he will go for the draw. White's material advantage is not big enough to stop playing tactically and making threats immediately. He will try to expand his advantage if possible. Black will want to be playing much more tactically and fogging the position."
+16,Nxe4,f6e4,r1bq1rk1/pppp1ppp/8/2b5/2BNn3/8/PPP2PPP/R1BQK2R w KQ - 0 9,"now black pockets the pawn with a better position. This is an important moment in the game. Now that white is down a pawn, he will go for the draw. White's material advantage is not big enough to stop playing tactically and making threats immediately. He will try to expand his advantage if possible. Black will want to be playing much more tactically and fogging the position."
+17,O-O,e1g1,r1bq1rk1/pppp1ppp/8/2b5/2BNn3/8/PPP2PPP/R1BQ1RK1 b - - 1 9,"Yes! A key move for black when a bishop is on c4(2 knights def, guicco piano, scotch gambit, more..). This is now getting a full tempo."
+18,d5,d7d5,r1bq1rk1/ppp2ppp/8/2bp4/2BNn3/8/PPP2PPP/R1BQ1RK1 w - - 0 10,"Yes! A key move for black when a bishop is on c4(2 knights def, guicco piano, scotch gambit, more..). This is now getting a full tempo."
+19,Bb3,c4b3,r1bq1rk1/ppp2ppp/8/2bp4/3Nn3/1B6/PPP2PPP/R1BQ1RK1 b - - 1 10,black strengthens the pawns.
+20,c6,c7c6,r1bq1rk1/pp3ppp/2p5/2bp4/3Nn3/1B6/PPP2PPP/R1BQ1RK1 w - - 0 11,black strengthens the pawns.
+21,h3,h2h3,r1bq1rk1/pp3ppp/2p5/2bp4/3Nn3/1B5P/PPP2PP1/R1BQ1RK1 b - - 0 11,"white wants to prevent Bg4?(f2-f3) maybe...  I don't know, it is a waste of time to me and creates a target on h3."
+22,Qf6,d8f6,r1b2rk1/pp3ppp/2p2q2/2bp4/3Nn3/1B5P/PPP2PP1/R1BQ1RK1 w - - 1 12,"protecting the knight, but white should get his pieces out faster."
+23,c3,c2c3,r1b2rk1/pp3ppp/2p2q2/2bp4/3Nn3/1BP4P/PP3PP1/R1BQ1RK1 b - - 0 12,"protecting the knight, but white should get his pieces out faster."
+24,Qg6,f6g6,r1b2rk1/pp3ppp/2p3q1/2bp4/3Nn3/1BP4P/PP3PP1/R1BQ1RK1 w - - 1 13,threatening the target on h3.
+25,Qf3,d1f3,r1b2rk1/pp3ppp/2p3q1/2bp4/3Nn3/1BP2Q1P/PP3PP1/R1B2RK1 b - - 2 13,I really don't think this is very good. Black should expand the advantage. He should not be so confident in being able to convert a single pawn in to a win.
+26,Qf6,g6f6,r1b2rk1/pp3ppp/2p2q2/2bp4/3Nn3/1BP2Q1P/PP3PP1/R1B2RK1 w - - 3 14,I really don't think this is very good. Black should expand the advantage. He should not be so confident in being able to convert a single pawn in to a win.
+27,Qxf6,f3f6,r1b2rk1/pp3ppp/2p2Q2/2bp4/3Nn3/1BP4P/PP3PP1/R1B2RK1 b - - 0 14,"threatening to double the pawns, and while I would never care about doubled pawns in the middlegame, in the endgame they may be weak."
+28,Nxf6,e4f6,r1b2rk1/pp3ppp/2p2n2/2bp4/3N4/1BP4P/PP3PP1/R1B2RK1 w - - 0 15,"threatening to double the pawns, and while I would never care about doubled pawns in the middlegame, in the endgame they may be weak."
+29,Bg5,c1g5,r1b2rk1/pp3ppp/2p2n2/2bp2B1/3N4/1BP4P/PP3PP1/R4RK1 b - - 1 15,"threatening to double the pawns, and while I would never care about doubled pawns in the middlegame, in the endgame they may be weak."
+30,Ne4,f6e4,r1b2rk1/pp3ppp/2p5/2bp2B1/3Nn3/1BP4P/PP3PP1/R4RK1 w - - 2 16,attacking the bishop and getting out of the threat.
+31,Be3,g5e3,r1b2rk1/pp3ppp/2p5/2bp4/3Nn3/1BP1B2P/PP3PP1/R4RK1 b - - 3 16,just getting the rest of the pieces out. I doubt that black can win this.
+32,Re8,f8e8,r1b1r1k1/pp3ppp/2p5/2bp4/3Nn3/1BP1B2P/PP3PP1/R4RK1 w - - 4 17,just getting the rest of the pieces out. I doubt that black can win this.
+33,Bc2,b3c2,r1b1r1k1/pp3ppp/2p5/2bp4/3Nn3/2P1B2P/PPB2PP1/R4RK1 b - - 5 17,this just gives away the bishop pair!
+34,Bxd4,c5d4,r1b1r1k1/pp3ppp/2p5/3p4/3bn3/2P1B2P/PPB2PP1/R4RK1 w - - 0 18,this just gives away the bishop pair!
+35,Bxd4,e3d4,r1b1r1k1/pp3ppp/2p5/3p4/3Bn3/2P4P/PPB2PP1/R4RK1 b - - 0 18,"white already may have ideas like Bxe4, and of followed by a few exchanges on the e file, he may have an easy draw."

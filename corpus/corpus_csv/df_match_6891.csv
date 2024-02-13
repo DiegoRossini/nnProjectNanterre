@@ -1,0 +1,73 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+6,g6,g7g6,rnbqkbnr/ppp2p1p/3p2p1/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+7,O-O,e1g1,rnbqkbnr/ppp2p1p/3p2p1/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 4,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+8,Bg7,f8g7,rnbqk1nr/ppp2pbp/3p2p1/4p3/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 2 5,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+9,c3,c2c3,rnbqk1nr/ppp2pbp/3p2p1/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQ1RK1 b kq - 0 5,c3?  Perhaps d3 or d4 so your bishop is not blocked and your knight can take c3
+10,Nc6,b8c6,r1bqk1nr/ppp2pbp/2np2p1/4p3/2B1P3/2P2N2/PP1P1PPP/RNBQ1RK1 w kq - 1 6,b3?  Now you could have move d4 and attacked the centre.
+11,b3,b2b3,r1bqk1nr/ppp2pbp/2np2p1/4p3/2B1P3/1PP2N2/P2P1PPP/RNBQ1RK1 b kq - 0 6,b3?  Now you could have move d4 and attacked the centre.
+12,Bd7,c8d7,r2qk1nr/pppb1pbp/2np2p1/4p3/2B1P3/1PP2N2/P2P1PPP/RNBQ1RK1 w kq - 1 7,"good, you got to d4"
+13,d4,d2d4,r2qk1nr/pppb1pbp/2np2p1/4p3/2BPP3/1PP2N2/P4PPP/RNBQ1RK1 b kq - 0 7,"good, you got to d4"
+14,Qe7,d8e7,r3k1nr/pppbqpbp/2np2p1/4p3/2BPP3/1PP2N2/P4PPP/RNBQ1RK1 w kq - 1 8,Why retreat?  You have my knight frozen against the queen.
+15,Bg5,c1g5,r3k1nr/pppbqpbp/2np2p1/4p1B1/2BPP3/1PP2N2/P4PPP/RN1Q1RK1 b kq - 2 8,Why retreat?  You have my knight frozen against the queen.
+16,Nf6,g8f6,r3k2r/pppbqpbp/2np1np1/4p1B1/2BPP3/1PP2N2/P4PPP/RN1Q1RK1 w kq - 3 9,Why retreat?  You have my knight frozen against the queen.
+17,Be3,g5e3,r3k2r/pppbqpbp/2np1np1/4p3/2BPP3/1PP1BN2/P4PPP/RN1Q1RK1 b kq - 4 9,Why retreat?  You have my knight frozen against the queen.
+18,O-O-O,e8c8,2kr3r/pppbqpbp/2np1np1/4p3/2BPP3/1PP1BN2/P4PPP/RN1Q1RK1 w - - 5 10,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+19,dxe5,d4e5,2kr3r/pppbqpbp/2np1np1/4P3/2B1P3/1PP1BN2/P4PPP/RN1Q1RK1 b - - 0 10,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+20,Nxe5,c6e5,2kr3r/pppbqpbp/3p1np1/4n3/2B1P3/1PP1BN2/P4PPP/RN1Q1RK1 w - - 0 11,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+21,Nbd2,b1d2,2kr3r/pppbqpbp/3p1np1/4n3/2B1P3/1PP1BN2/P2N1PPP/R2Q1RK1 b - - 1 11,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+22,h5,h7h5,2kr3r/pppbqpb1/3p1np1/4n2p/2B1P3/1PP1BN2/P2N1PPP/R2Q1RK1 w - - 0 12,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+23,Nd4,f3d4,2kr3r/pppbqpb1/3p1np1/4n2p/2BNP3/1PP1B3/P2N1PPP/R2Q1RK1 b - - 1 12,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+24,Kb8,c8b8,1k1r3r/pppbqpb1/3p1np1/4n2p/2BNP3/1PP1B3/P2N1PPP/R2Q1RK1 w - - 2 13,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+25,Bxf7,c4f7,1k1r3r/pppbqBb1/3p1np1/4n2p/3NP3/1PP1B3/P2N1PPP/R2Q1RK1 b - - 0 13,I'm not sure why you sacrificed your biship here.  Was this part of a plan?
+26,Qxf7,e7f7,1k1r3r/pppb1qb1/3p1np1/4n2p/3NP3/1PP1B3/P2N1PPP/R2Q1RK1 w - - 0 14,Your bishop may have been better off on e3.  You have a potential discovered attack on a7 by moving the knight off of d4.  If you could get your queen to a4 (move b3 to b4) you have a possible checkmate with Qa7.
+27,Bg5,e3g5,1k1r3r/pppb1qb1/3p1np1/4n1Bp/3NP3/1PP5/P2N1PPP/R2Q1RK1 b - - 1 14,Your bishop may have been better off on e3.  You have a potential discovered attack on a7 by moving the knight off of d4.  If you could get your queen to a4 (move b3 to b4) you have a possible checkmate with Qa7.
+28,Bh6,g7h6,1k1r3r/pppb1q2/3p1npb/4n1Bp/3NP3/1PP5/P2N1PPP/R2Q1RK1 w - - 2 15,"I think you were getting tired here.  This should work, but then on your next move you take with the pawn rather than the other knight.  I think your plan was with the knight rather than opening up your king."
+29,Nd2f3,d2f3,1k1r3r/pppb1q2/3p1npb/4n1Bp/3NP3/1PP2N2/P4PPP/R2Q1RK1 b - - 3 15,"I think you were getting tired here.  This should work, but then on your next move you take with the pawn rather than the other knight.  I think your plan was with the knight rather than opening up your king."
+30,Nxf3+,e5f3,1k1r3r/pppb1q2/3p1npb/6Bp/3NP3/1PP2n2/P4PPP/R2Q1RK1 w - - 0 16,This is the beginning of the fall once you start opening up your king.  Things really started to unravel here.
+31,gxf3,g2f3,1k1r3r/pppb1q2/3p1npb/6Bp/3NP3/1PP2P2/P4P1P/R2Q1RK1 b - - 0 16,This is the beginning of the fall once you start opening up your king.  Things really started to unravel here.
+32,Bxg5,h6g5,1k1r3r/pppb1q2/3p1np1/6bp/3NP3/1PP2P2/P4P1P/R2Q1RK1 w - - 0 17,This is an oops.
+33,h3,h2h3,1k1r3r/pppb1q2/3p1np1/6bp/3NP3/1PP2P1P/P4P2/R2Q1RK1 b - - 0 17,This is an oops.
+34,Bxh3,d7h3,1k1r3r/ppp2q2/3p1np1/6bp/3NP3/1PP2P1b/P4P2/R2Q1RK1 w - - 0 18,Forgot about your rook.
+35,Kh2,g1h2,1k1r3r/ppp2q2/3p1np1/6bp/3NP3/1PP2P1b/P4P1K/R2Q1R2 b - - 1 18,Forgot about your rook.
+36,Bxf1,h3f1,1k1r3r/ppp2q2/3p1np1/6bp/3NP3/1PP2P2/P4P1K/R2Q1b2 w - - 0 19,Are you protecting your queen?  Don't forget about your king.
+37,Qxf1,d1f1,1k1r3r/ppp2q2/3p1np1/6bp/3NP3/1PP2P2/P4P1K/R4Q2 b - - 0 19,Are you protecting your queen?  Don't forget about your king.
+38,Bf4+,g5f4,1k1r3r/ppp2q2/3p1np1/7p/3NPb2/1PP2P2/P4P1K/R4Q2 w - - 1 20,Are you protecting your queen?  Don't forget about your king.
+39,Kg2,h2g2,1k1r3r/ppp2q2/3p1np1/7p/3NPb2/1PP2P2/P4PK1/R4Q2 b - - 2 20,Are you protecting your queen?  Don't forget about your king.
+40,h4,h5h4,1k1r3r/ppp2q2/3p1np1/8/3NPb1p/1PP2P2/P4PK1/R4Q2 w - - 0 21,Are you protecting your queen?  Don't forget about your king.
+41,c4,c3c4,1k1r3r/ppp2q2/3p1np1/8/2PNPb1p/1P3P2/P4PK1/R4Q2 b - - 0 21,Are you protecting your queen?  Don't forget about your king.
+42,h3+,h4h3,1k1r3r/ppp2q2/3p1np1/8/2PNPb2/1P3P1p/P4PK1/R4Q2 w - - 0 22,Desperation or just an oversight?
+43,Kg1,g2g1,1k1r3r/ppp2q2/3p1np1/8/2PNPb2/1P3P1p/P4P2/R4QK1 b - - 1 22,Desperation or just an oversight?
+44,g5,g6g5,1k1r3r/ppp2q2/3p1n2/6p1/2PNPb2/1P3P1p/P4P2/R4QK1 w - - 0 23,Desperation or just an oversight?
+45,Nf5,d4f5,1k1r3r/ppp2q2/3p1n2/5Np1/2P1Pb2/1P3P1p/P4P2/R4QK1 b - - 1 23,Desperation or just an oversight?
+46,g4,g5g4,1k1r3r/ppp2q2/3p1n2/5N2/2P1Pbp1/1P3P1p/P4P2/R4QK1 w - - 0 24,Desperation or just an oversight?
+47,fxg4,f3g4,1k1r3r/ppp2q2/3p1n2/5N2/2P1PbP1/1P5p/P4P2/R4QK1 b - - 0 24,Desperation or just an oversight?
+48,Nxg4,f6g4,1k1r3r/ppp2q2/3p4/5N2/2P1Pbn1/1P5p/P4P2/R4QK1 w - - 0 25,Desperation or just an oversight?
+49,Qxh3,f1h3,1k1r3r/ppp2q2/3p4/5N2/2P1Pbn1/1P5Q/P4P2/R5K1 b - - 0 25,Desperation or just an oversight?
+50,Rxh3,h8h3,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P5r/P4P2/R5K1 w - - 0 26,"This is good for me, since I am so far ahead now, I don't mind exchanging pieces.  This was your only other attacking piece."
+51,f3,f2f3,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P3P1r/P7/R5K1 b - - 0 26,"This is good for me, since I am so far ahead now, I don't mind exchanging pieces.  This was your only other attacking piece."
+52,Rxf3,h3f3,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P3r2/P7/R5K1 w - - 0 27,"This is good for me, since I am so far ahead now, I don't mind exchanging pieces.  This was your only other attacking piece."
+53,Rf1,a1f1,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P3r2/P7/5RK1 b - - 1 27,"This is good for me, since I am so far ahead now, I don't mind exchanging pieces.  This was your only other attacking piece."
+54,Rxf1+,f3f1,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P6/P7/5rK1 w - - 0 28,"And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though."
+55,Kxf1,g1f1,1k1r4/ppp2q2/3p4/5N2/2P1Pbn1/1P6/P7/5K2 b - - 0 28,"And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though."
+56,Ne3+,g4e3,1k1r4/ppp2q2/3p4/5N2/2P1Pb2/1P2n3/P7/5K2 w - - 1 29,"And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though."
+57,Kf2,f1f2,1k1r4/ppp2q2/3p4/5N2/2P1Pb2/1P2n3/P4K2/8 b - - 2 29,"And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though."
+58,Nxf5,e3f5,1k1r4/ppp2q2/3p4/5n2/2P1Pb2/1P6/P4K2/8 w - - 0 30,"And now there were none.  It is really over here since you have no attacking pieces.  A stalement is always a possiblity, though."
+59,exf5,e4f5,1k1r4/ppp2q2/3p4/5P2/2P2b2/1P6/P4K2/8 b - - 0 30,
+60,Re8,d8e8,1k2r3/ppp2q2/3p4/5P2/2P2b2/1P6/P4K2/8 w - - 1 31,
+61,b4,b3b4,1k2r3/ppp2q2/3p4/5P2/1PP2b2/8/P4K2/8 b - - 0 31,
+62,Qxf5,f7f5,1k2r3/ppp5/3p4/5q2/1PP2b2/8/P4K2/8 w - - 0 32,
+63,Kf3,f2f3,1k2r3/ppp5/3p4/5q2/1PP2b2/5K2/P7/8 b - - 1 32,
+64,Re3+,e8e3,1k6/ppp5/3p4/5q2/1PP2b2/4rK2/P7/8 w - - 2 33,
+65,Kf2,f3f2,1k6/ppp5/3p4/5q2/1PP2b2/4r3/P4K2/8 b - - 3 33,
+66,Qc2+,f5c2,1k6/ppp5/3p4/8/1PP2b2/4r3/P1q2K2/8 w - - 4 34,
+67,Kf1,f2f1,1k6/ppp5/3p4/8/1PP2b2/4r3/P1q5/5K2 b - - 5 34,
+68,Qe2+,c2e2,1k6/ppp5/3p4/8/1PP2b2/4r3/P3q3/5K2 w - - 6 35,
+69,Kg1,f1g1,1k6/ppp5/3p4/8/1PP2b2/4r3/P3q3/6K1 b - - 7 35,
+70,Rg3+,e3g3,1k6/ppp5/3p4/8/1PP2b2/6r1/P3q3/6K1 w - - 8 36,
+71,Kh1,g1h1,1k6/ppp5/3p4/8/1PP2b2/6r1/P3q3/7K b - - 9 36,
+72,Qg2#,e2g2,1k6/ppp5/3p4/8/1PP2b2/6r1/P5q1/7K w - - 10 37,

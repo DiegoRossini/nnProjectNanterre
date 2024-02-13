@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,probably not the best move by me there
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,probably not the best move by me there
+3,e5,e4e5,rnbqkbnr/pp1ppppp/8/2p1P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,probably not the best move by me there
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p1P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,probably not the best move by me there
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/2n5/2p1P3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 3,probably not the best move by me there
+6,Qc7,d8c7,r1b1kbnr/ppqppppp/2n5/2p1P3/8/5N2/PPPP1PPP/RNBQKB1R w KQkq - 3 4,probably not the best move by me there
+7,Qe2,d1e2,r1b1kbnr/ppqppppp/2n5/2p1P3/8/5N2/PPPPQPPP/RNB1KB1R b KQkq - 4 4,probably not the best move by me there
+8,d6,d7d6,r1b1kbnr/ppq1pppp/2np4/2p1P3/8/5N2/PPPPQPPP/RNB1KB1R w KQkq - 0 5,probably not the best move by me there
+9,exd6,e5d6,r1b1kbnr/ppq1pppp/2nP4/2p5/8/5N2/PPPPQPPP/RNB1KB1R b KQkq - 0 5,probably not the best move by me there
+10,Qxd6,c7d6,r1b1kbnr/pp2pppp/2nq4/2p5/8/5N2/PPPPQPPP/RNB1KB1R w KQkq - 0 6,"good move, but he doesn't anticipate me swapping queens"
+11,b3,b2b3,r1b1kbnr/pp2pppp/2nq4/2p5/8/1P3N2/P1PPQPPP/RNB1KB1R b KQkq - 0 6,"good move, but he doesn't anticipate me swapping queens"
+12,e5,e7e5,r1b1kbnr/pp3ppp/2nq4/2p1p3/8/1P3N2/P1PPQPPP/RNB1KB1R w KQkq - 0 7,"good move, but he doesn't anticipate me swapping queens"
+13,Bb2,c1b2,r1b1kbnr/pp3ppp/2nq4/2p1p3/8/1P3N2/PBPPQPPP/RN2KB1R b KQkq - 1 7,"good move, but he doesn't anticipate me swapping queens"
+14,Bg4,c8g4,r3kbnr/pp3ppp/2nq4/2p1p3/6b1/1P3N2/PBPPQPPP/RN2KB1R w KQkq - 2 8,"good move, but he doesn't anticipate me swapping queens"
+15,Bxe5,b2e5,r3kbnr/pp3ppp/2nq4/2p1B3/6b1/1P3N2/P1PPQPPP/RN2KB1R b KQkq - 0 8,"that renders the bishop move useless, gains me an extra pawn and now i'm attacking the bishop"
+16,Nxe5,c6e5,r3kbnr/pp3ppp/3q4/2p1n3/6b1/1P3N2/P1PPQPPP/RN2KB1R w KQkq - 0 9,"that renders the bishop move useless, gains me an extra pawn and now i'm attacking the bishop"
+17,Qxe5+,e2e5,r3kbnr/pp3ppp/3q4/2p1Q3/6b1/1P3N2/P1PP1PPP/RN2KB1R b KQkq - 0 9,"that renders the bishop move useless, gains me an extra pawn and now i'm attacking the bishop"
+18,Qxe5+,d6e5,r3kbnr/pp3ppp/8/2p1q3/6b1/1P3N2/P1PP1PPP/RN2KB1R w KQkq - 0 10,"that renders the bishop move useless, gains me an extra pawn and now i'm attacking the bishop"
+19,Nxe5,f3e5,r3kbnr/pp3ppp/8/2p1N3/6b1/1P6/P1PP1PPP/RN2KB1R b KQkq - 0 10,"that renders the bishop move useless, gains me an extra pawn and now i'm attacking the bishop"
+20,Bf5,g4f5,r3kbnr/pp3ppp/8/2p1Nb2/8/1P6/P1PP1PPP/RN2KB1R w KQkq - 1 11,that all left his king wide open
+21,Bb5+,f1b5,r3kbnr/pp3ppp/8/1Bp1Nb2/8/1P6/P1PP1PPP/RN2K2R b KQkq - 2 11,that all left his king wide open
+22,Ke7,e8e7,r4bnr/pp2kppp/8/1Bp1Nb2/8/1P6/P1PP1PPP/RN2K2R w KQ - 3 12,preparing to move rook in line with black king
+23,Nc3,b1c3,r4bnr/pp2kppp/8/1Bp1Nb2/8/1PN5/P1PP1PPP/R3K2R b KQ - 4 12,preparing to move rook in line with black king
+24,Nf6,g8f6,r4b1r/pp2kppp/5n2/1Bp1Nb2/8/1PN5/P1PP1PPP/R3K2R w KQ - 5 13,preparing to move rook in line with black king
+25,O-O-O,e1c1,r4b1r/pp2kppp/5n2/1Bp1Nb2/8/1PN5/P1PP1PPP/2KR3R b - - 6 13,preparing to move rook in line with black king
+26,Ng4,f6g4,r4b1r/pp2kppp/8/1Bp1Nb2/6n1/1PN5/P1PP1PPP/2KR3R w - - 7 14,looking for the fork or trying to remove my knight from the attacking position
+27,Rde1,d1e1,r4b1r/pp2kppp/8/1Bp1Nb2/6n1/1PN5/P1PP1PPP/2K1R2R b - - 8 14,seems like a strange move not to move back
+28,Nxe5,g4e5,r4b1r/pp2kppp/8/1Bp1nb2/8/1PN5/P1PP1PPP/2K1R2R w - - 0 15,seems like a strange move not to move back
+29,Rxe5+,e1e5,r4b1r/pp2kppp/8/1Bp1Rb2/8/1PN5/P1PP1PPP/2K4R b - - 0 15,seems like a strange move not to move back
+30,Kf6,e7f6,r4b1r/pp3ppp/5k2/1Bp1Rb2/8/1PN5/P1PP1PPP/2K4R w - - 1 16,seems like a strange move not to move back
+31,Rhe1,h1e1,r4b1r/pp3ppp/5k2/1Bp1Rb2/8/1PN5/P1PP1PPP/2K1R3 b - - 2 16,i don't want to play defensive by simply moving my rook out of danger
+32,Bd6,f8d6,r6r/pp3ppp/3b1k2/1Bp1Rb2/8/1PN5/P1PP1PPP/2K1R3 w - - 3 17,i don't want to play defensive by simply moving my rook out of danger
+33,Nd5+,c3d5,r6r/pp3ppp/3b1k2/1BpNRb2/8/1P6/P1PP1PPP/2K1R3 b - - 4 17,i don't want to play defensive by simply moving my rook out of danger
+34,Kg5,f6g5,r6r/pp3ppp/3b4/1BpNRbk1/8/1P6/P1PP1PPP/2K1R3 w - - 5 18,if i continue to attack his king he will have to leave the bishop free to take
+35,h4+,h2h4,r6r/pp3ppp/3b4/1BpNRbk1/7P/1P6/P1PP1PP1/2K1R3 b - - 0 18,if i continue to attack his king he will have to leave the bishop free to take
+36,Kg6,g5g6,r6r/pp3ppp/3b2k1/1BpNRb2/7P/1P6/P1PP1PP1/2K1R3 w - - 1 19,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+37,h5+,h4h5,r6r/pp3ppp/3b2k1/1BpNRb1P/8/1P6/P1PP1PP1/2K1R3 b - - 0 19,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+38,Kg5,g6g5,r6r/pp3ppp/3b4/1BpNRbkP/8/1P6/P1PP1PP1/2K1R3 w - - 1 20,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+39,f4+,f2f4,r6r/pp3ppp/3b4/1BpNRbkP/5P2/1P6/P1PP2P1/2K1R3 b - - 0 20,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+40,Kxh5,g5h5,r6r/pp3ppp/3b4/1BpNRb1k/5P2/1P6/P1PP2P1/2K1R3 w - - 0 21,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+41,Rxf5+,e5f5,r6r/pp3ppp/3b4/1BpN1R1k/5P2/1P6/P1PP2P1/2K1R3 b - - 0 21,"now i have an extra knight on him with my two rooks in a very attacking position. his rooks are yet to move, his king is now extremely vulnerable and he has no way of bringing my king into check quickly"
+42,Kh4,h5h4,r6r/pp3ppp/3b4/1BpN1R2/5P1k/1P6/P1PP2P1/2K1R3 w - - 1 22,"now begins the attack on the king, i'm hoping to be able to catch him check mate without swapping anymore pieces"
+43,Rh1+,e1h1,r6r/pp3ppp/3b4/1BpN1R2/5P1k/1P6/P1PP2P1/2K4R b - - 2 22,"now begins the attack on the king, i'm hoping to be able to catch him check mate without swapping anymore pieces"
+44,Kg3,h4g3,r6r/pp3ppp/3b4/1BpN1R2/5P2/1P4k1/P1PP2P1/2K4R w - - 3 23,i thought i had him now but i neglected to see he can simply take my pawn
+45,Rh3+,h1h3,r6r/pp3ppp/3b4/1BpN1R2/5P2/1P4kR/P1PP2P1/2K5 b - - 4 23,i thought i had him now but i neglected to see he can simply take my pawn
+46,Kxg2,g3g2,r6r/pp3ppp/3b4/1BpN1R2/5P2/1P5R/P1PP2k1/2K5 w - - 0 24,opening up an attack on his bishop
+47,Rd3,h3d3,r6r/pp3ppp/3b4/1BpN1R2/5P2/1P1R4/P1PP2k1/2K5 b - - 1 24,opening up an attack on his bishop
+48,a6,a7a6,r6r/1p3ppp/p2b4/1BpN1R2/5P2/1P1R4/P1PP2k1/2K5 w - - 0 25,"would've been good to go a bit further but black doesn't really have much of a chance now. please leave some comments and tell me what you think. and check out my other annotated game with otherj, which is probably a bit more interesting than this game. cheers.
+Alex"
+49,Ne3+,d5e3,r6r/1p3ppp/p2b4/1Bp2R2/5P2/1P1RN3/P1PP2k1/2K5 b - - 1 25,"would've been good to go a bit further but black doesn't really have much of a chance now. please leave some comments and tell me what you think. and check out my other annotated game with otherj, which is probably a bit more interesting than this game. cheers.
+Alex"

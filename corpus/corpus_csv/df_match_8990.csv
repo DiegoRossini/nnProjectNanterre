@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Black sacs a pawn hoping to get active play
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black sacs a pawn hoping to get active play
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,Black sacs a pawn hoping to get active play
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,Black sacs a pawn hoping to get active play
+5,d4,d2d4,rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Black sacs a pawn hoping to get active play
+6,Bg4,c8g4,rn1qkb1r/ppp1pppp/5n2/3P4/3P2b1/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,Black sacs a pawn hoping to get active play
+7,f3,f2f3,rn1qkb1r/ppp1pppp/5n2/3P4/3P2b1/5P2/PPP3PP/RNBQKBNR b KQkq - 0 4,The critical response.  White decides to try to hold on to the extra pawn
+8,Bf5,g4f5,rn1qkb1r/ppp1pppp/5n2/3P1b2/3P4/5P2/PPP3PP/RNBQKBNR w KQkq - 1 5,The most critical response.
+9,Bb5+,f1b5,rn1qkb1r/ppp1pppp/5n2/1B1P1b2/3P4/5P2/PPP3PP/RNBQK1NR b KQkq - 2 5,The most critical response.
+10,Nbd7,b8d7,r2qkb1r/pppnpppp/5n2/1B1P1b2/3P4/5P2/PPP3PP/RNBQK1NR w KQkq - 3 6,6... e6 is probably stronger.
+11,c4,c2c4,r2qkb1r/pppnpppp/5n2/1B1P1b2/2PP4/5P2/PP4PP/RNBQK1NR b KQkq - 0 6,6... e6 is probably stronger.
+12,a6,a7a6,r2qkb1r/1ppnpppp/p4n2/1B1P1b2/2PP4/5P2/PP4PP/RNBQK1NR w KQkq - 0 7,6... e6 is probably stronger.
+13,Bxd7+,b5d7,r2qkb1r/1ppBpppp/p4n2/3P1b2/2PP4/5P2/PP4PP/RNBQK1NR b KQkq - 0 7,If 7 Ba4?! then b5! 8 cxb5 Nb6 and Black has compensation for the pawn.
+14,Qxd7,d8d7,r3kb1r/1ppqpppp/p4n2/3P1b2/2PP4/5P2/PP4PP/RNBQK1NR w KQkq - 0 8,After 12 Bb2 it becomes very hard to develop the b1 knight.
+15,Ne2,g1e2,r3kb1r/1ppqpppp/p4n2/3P1b2/2PP4/5P2/PP2N1PP/RNBQK2R b KQkq - 1 8,After 12 Bb2 it becomes very hard to develop the b1 knight.
+16,O-O-O,e8c8,2kr1b1r/1ppqpppp/p4n2/3P1b2/2PP4/5P2/PP2N1PP/RNBQK2R w KQ - 2 9,After 12 Bb2 it becomes very hard to develop the b1 knight.
+17,O-O,e1g1,2kr1b1r/1ppqpppp/p4n2/3P1b2/2PP4/5P2/PP2N1PP/RNBQ1RK1 b - - 3 9,After 12 Bb2 it becomes very hard to develop the b1 knight.
+18,e6,e7e6,2kr1b1r/1ppq1ppp/p3pn2/3P1b2/2PP4/5P2/PP2N1PP/RNBQ1RK1 w - - 0 10,After 12 Bb2 it becomes very hard to develop the b1 knight.
+19,dxe6,d5e6,2kr1b1r/1ppq1ppp/p3Pn2/5b2/2PP4/5P2/PP2N1PP/RNBQ1RK1 b - - 0 10,After 12 Bb2 it becomes very hard to develop the b1 knight.
+20,Bxe6,f5e6,2kr1b1r/1ppq1ppp/p3bn2/8/2PP4/5P2/PP2N1PP/RNBQ1RK1 w - - 0 11,After 12 Bb2 it becomes very hard to develop the b1 knight.
+21,b3,b2b3,2kr1b1r/1ppq1ppp/p3bn2/8/2PP4/1P3P2/P3N1PP/RNBQ1RK1 b - - 0 11,After 12 Bb2 it becomes very hard to develop the b1 knight.
+22,Bc5,f8c5,2kr3r/1ppq1ppp/p3bn2/2b5/2PP4/1P3P2/P3N1PP/RNBQ1RK1 w - - 1 12,After 12 Bb2 it becomes very hard to develop the b1 knight.
+23,Be3,c1e3,2kr3r/1ppq1ppp/p3bn2/2b5/2PP4/1P2BP2/P3N1PP/RN1Q1RK1 b - - 2 12,After 12 Bb2 it becomes very hard to develop the b1 knight.
+24,Rhe8,h8e8,2krr3/1ppq1ppp/p3bn2/2b5/2PP4/1P2BP2/P3N1PP/RN1Q1RK1 w - - 3 13,"White still has his extra pawn, has completed his development and threatens to take over the initiative."
+25,Nbc3,b1c3,2krr3/1ppq1ppp/p3bn2/2b5/2PP4/1PN1BP2/P3N1PP/R2Q1RK1 b - - 4 13,"White still has his extra pawn, has completed his development and threatens to take over the initiative."
+26,Qe7,d7e7,2krr3/1pp1qppp/p3bn2/2b5/2PP4/1PN1BP2/P3N1PP/R2Q1RK1 w - - 5 14,"White still has his extra pawn, has completed his development and threatens to take over the initiative."
+27,Bf2,e3f2,2krr3/1pp1qppp/p3bn2/2b5/2PP4/1PN2P2/P3NBPP/R2Q1RK1 b - - 6 14,"White still has his extra pawn, has completed his development and threatens to take over the initiative."
+28,Bb4,c5b4,2krr3/1pp1qppp/p3bn2/8/1bPP4/1PN2P2/P3NBPP/R2Q1RK1 w - - 7 15,White fights for control of f5.
+29,Qc2,d1c2,2krr3/1pp1qppp/p3bn2/8/1bPP4/1PN2P2/P1Q1NBPP/R4RK1 b - - 8 15,White fights for control of f5.
+30,g6,g7g6,2krr3/1pp1qp1p/p3bnp1/8/1bPP4/1PN2P2/P1Q1NBPP/R4RK1 w - - 0 16,White fights for control of f5.
+31,Ng3,e2g3,2krr3/1pp1qp1p/p3bnp1/8/1bPP4/1PN2PN1/P1Q2BPP/R4RK1 b - - 1 16,White fights for control of f5.
+32,h5,h7h5,2krr3/1pp1qp2/p3bnp1/7p/1bPP4/1PN2PN1/P1Q2BPP/R4RK1 w - - 0 17,"17 d5 would have been better, if 17...h4 18 Nge4 Nxe4 19 fxe4 and White maintains an edge."
+33,h4,h2h4,2krr3/1pp1qp2/p3bnp1/7p/1bPP3P/1PN2PN1/P1Q2BP1/R4RK1 b - - 0 17,"17 d5 would have been better, if 17...h4 18 Nge4 Nxe4 19 fxe4 and White maintains an edge."
+34,Bd6,b4d6,2krr3/1pp1qp2/p2bbnp1/7p/2PP3P/1PN2PN1/P1Q2BP1/R4RK1 w - - 1 18,Again 18 d5 would have been stronger.
+35,Rfe1,f1e1,2krr3/1pp1qp2/p2bbnp1/7p/2PP3P/1PN2PN1/P1Q2BP1/R3R1K1 b - - 2 18,Again 18 d5 would have been stronger.
+36,Bxg3,d6g3,2krr3/1pp1qp2/p3bnp1/7p/2PP3P/1PN2Pb1/P1Q2BP1/R3R1K1 w - - 0 19,White loses his extra pawn.  In a middlegame with opposite colored Bishops it is important to fight for the initiative.
+37,Bxg3,f2g3,2krr3/1pp1qp2/p3bnp1/7p/2PP3P/1PN2PB1/P1Q3P1/R3R1K1 b - - 0 19,White loses his extra pawn.  In a middlegame with opposite colored Bishops it is important to fight for the initiative.
+38,Rxd4,d8d4,2k1r3/1pp1qp2/p3bnp1/7p/2Pr3P/1PN2PB1/P1Q3P1/R3R1K1 w - - 0 20,20... Rd7 would have been better.
+39,Rac1,a1c1,2k1r3/1pp1qp2/p3bnp1/7p/2Pr3P/1PN2PB1/P1Q3P1/2R1R1K1 b - - 1 20,20... Rd7 would have been better.
+40,Qd8,e7d8,2kqr3/1pp2p2/p3bnp1/7p/2Pr3P/1PN2PB1/P1Q3P1/2R1R1K1 w - - 2 21,20... Rd7 would have been better.
+41,Red1,e1d1,2kqr3/1pp2p2/p3bnp1/7p/2Pr3P/1PN2PB1/P1Q3P1/2RR2K1 b - - 3 21,White allows Black back into the game.  White doesn't want to trade pieces with opposite color bishops on the board.  Much better would have been 21 Qf2 when White would have a clear advantage.
+42,Bf5,e6f5,2kqr3/1pp2p2/p4np1/5b1p/2Pr3P/1PN2PB1/P1Q3P1/2RR2K1 w - - 4 22,Black has managed to equalize.
+43,Rxd4,d1d4,2kqr3/1pp2p2/p4np1/5b1p/2PR3P/1PN2PB1/P1Q3P1/2R3K1 b - - 0 22,If 23 ... Bxc2? then 24 Bxd4 Bxb3 25 axb3
+44,Qxd4+,d8d4,2k1r3/1pp2p2/p4np1/5b1p/2Pq3P/1PN2PB1/P1Q3P1/2R3K1 w - - 0 23,If 23 ... Bxc2? then 24 Bxd4 Bxb3 25 axb3
+45,Bf2,g3f2,2k1r3/1pp2p2/p4np1/5b1p/2Pq3P/1PN2P2/P1Q2BP1/2R3K1 b - - 1 23,If 23 ... Bxc2? then 24 Bxd4 Bxb3 25 axb3
+46,Qd7,d4d7,2k1r3/1ppq1p2/p4np1/5b1p/2P4P/1PN2P2/P1Q2BP1/2R3K1 w - - 2 24,If 23 ... Bxc2? then 24 Bxd4 Bxb3 25 axb3
+47,Qd1,c2d1,2k1r3/1ppq1p2/p4np1/5b1p/2P4P/1PN2P2/P4BP1/2RQ2K1 b - - 3 24,It looks like Black wants to concentrate his firepower on d3.  Again it is important to fight for the initiative.  White would like to trade into a good knight vs. bad bishop end game.  The pawns are symmetrical so any endgame would be drawish.
+48,Qxd1+,d7d1,2k1r3/1pp2p2/p4np1/5b1p/2P4P/1PN2P2/P4BP1/2Rq2K1 w - - 0 25,It looks like Black wants to concentrate his firepower on d3.  Again it is important to fight for the initiative.  White would like to trade into a good knight vs. bad bishop end game.  The pawns are symmetrical so any endgame would be drawish.
+49,Rxd1,c1d1,2k1r3/1pp2p2/p4np1/5b1p/2P4P/1PN2P2/P4BP1/3R2K1 b - - 0 25,It looks like Black wants to concentrate his firepower on d3.  Again it is important to fight for the initiative.  White would like to trade into a good knight vs. bad bishop end game.  The pawns are symmetrical so any endgame would be drawish.
+50,Nd7,f6d7,2k1r3/1ppn1p2/p5p1/5b1p/2P4P/1PN2P2/P4BP1/3R2K1 w - - 1 26,It looks like Black wants to concentrate his firepower on d3.  Again it is important to fight for the initiative.  White would like to trade into a good knight vs. bad bishop end game.  The pawns are symmetrical so any endgame would be drawish.
+51,Nd5,c3d5,2k1r3/1ppn1p2/p5p1/3N1b1p/2P4P/1P3P2/P4BP1/3R2K1 b - - 2 26,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+52,Re2,e8e2,2k5/1ppn1p2/p5p1/3N1b1p/2P4P/1P3P2/P3rBP1/3R2K1 w - - 3 27,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+53,Re1,d1e1,2k5/1ppn1p2/p5p1/3N1b1p/2P4P/1P3P2/P3rBP1/4R1K1 b - - 4 27,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+54,Rxe1+,e2e1,2k5/1ppn1p2/p5p1/3N1b1p/2P4P/1P3P2/P4BP1/4r1K1 w - - 0 28,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+55,Bxe1,f2e1,2k5/1ppn1p2/p5p1/3N1b1p/2P4P/1P3P2/P5P1/4B1K1 b - - 0 28,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+56,c6,c7c6,2k5/1p1n1p2/p1p3p1/3N1b1p/2P4P/1P3P2/P5P1/4B1K1 w - - 0 29,"28...Bd3 would probably draw, but Black apparently is playing for a win."
+57,Ne7+,d5e7,2k5/1p1nNp2/p1p3p1/5b1p/2P4P/1P3P2/P5P1/4B1K1 b - - 1 29,"There is no longer bishops of opposite color.  White has to have an edge here, but a draw seems most likely.  White hopes to tie Black down to defending the pawn weakness on the kingside and forcing a penetration of the White King into Black's position."
+58,Kd8,c8d8,3k4/1p1nNp2/p1p3p1/5b1p/2P4P/1P3P2/P5P1/4B1K1 w - - 2 30,"There is no longer bishops of opposite color.  White has to have an edge here, but a draw seems most likely.  White hopes to tie Black down to defending the pawn weakness on the kingside and forcing a penetration of the White King into Black's position."
+59,Nxf5,e7f5,3k4/1p1n1p2/p1p3p1/5N1p/2P4P/1P3P2/P5P1/4B1K1 b - - 0 30,"There is no longer bishops of opposite color.  White has to have an edge here, but a draw seems most likely.  White hopes to tie Black down to defending the pawn weakness on the kingside and forcing a penetration of the White King into Black's position."
+60,gxf5,g6f5,3k4/1p1n1p2/p1p5/5p1p/2P4P/1P3P2/P5P1/4B1K1 w - - 0 31,"There is no longer bishops of opposite color.  White has to have an edge here, but a draw seems most likely.  White hopes to tie Black down to defending the pawn weakness on the kingside and forcing a penetration of the White King into Black's position."
+61,Kf2,g1f2,3k4/1p1n1p2/p1p5/5p1p/2P4P/1P3P2/P4KP1/4B3 b - - 1 31,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+62,Ne5,d7e5,3k4/1p3p2/p1p5/4np1p/2P4P/1P3P2/P4KP1/4B3 w - - 2 32,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+63,Ke3,f2e3,3k4/1p3p2/p1p5/4np1p/2P4P/1P2KP2/P5P1/4B3 b - - 3 32,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+64,Kd7,d8d7,8/1p1k1p2/p1p5/4np1p/2P4P/1P2KP2/P5P1/4B3 w - - 4 33,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+65,Kd4,e3d4,8/1p1k1p2/p1p5/4np1p/2PK3P/1P3P2/P5P1/4B3 b - - 5 33,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+66,Ke6,d7e6,8/1p3p2/p1p1k3/4np1p/2PK3P/1P3P2/P5P1/4B3 w - - 6 34,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+67,Bg3,e1g3,8/1p3p2/p1p1k3/4np1p/2PK3P/1P3PB1/P5P1/8 b - - 7 34,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+68,Nd7,e5d7,8/1p1n1p2/p1p1k3/5p1p/2PK3P/1P3PB1/P5P1/8 w - - 8 35,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+69,Ke3,d4e3,8/1p1n1p2/p1p1k3/5p1p/2P4P/1P2KPB1/P5P1/8 b - - 9 35,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+70,b5,b7b5,8/3n1p2/p1p1k3/1p3p1p/2P4P/1P2KPB1/P5P1/8 w - - 0 36,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+71,Kd4,e3d4,8/3n1p2/p1p1k3/1p3p1p/2PK3P/1P3PB1/P5P1/8 b - - 1 36,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+72,c5+,c6c5,8/3n1p2/p3k3/1pp2p1p/2PK3P/1P3PB1/P5P1/8 w - - 0 37,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+73,Kc3,d4c3,8/3n1p2/p3k3/1pp2p1p/2P4P/1PK2PB1/P5P1/8 b - - 1 37,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+74,Ne5,d7e5,8/5p2/p3k3/1pp1np1p/2P4P/1PK2PB1/P5P1/8 w - - 2 38,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+75,Bf2,g3f2,8/5p2/p3k3/1pp1np1p/2P4P/1PK2P2/P4BP1/8 b - - 3 38,Fritz doesn't like this move and suggests 38. cxb5 axb5 39 Bxe5 Ke5 40 a4 bxa4 41 bxa4 and White wins.
+76,Kd6,e6d6,8/5p2/p2k4/1pp1np1p/2P4P/1PK2P2/P4BP1/8 w - - 4 39,"I felt that Black was playing for a win.  I also felt that there little danger of White losing the game; but before making active attempts to win, I waited to see what Black would try."

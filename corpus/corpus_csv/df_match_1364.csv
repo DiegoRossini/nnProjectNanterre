@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Patzer opening.  Black usually does well with Nc6 here.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Patzer opening.  Black usually does well with Nc6 here.
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Patzer opening.  Black usually does well with Nc6 here.
+4,Qe7,d8e7,rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"This too is ok, provided white doesn't play Bc4."
+5,Nc3,b1c3,rnb1kbnr/ppppqppp/8/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR b KQkq - 3 3,"I kind of like Nd5 here, which threatens the black queen.  Black must then play Qd6 or Qc5 to defend against NxPc7+ which forks black's a rook."
+6,g6,g7g6,rnb1kbnr/ppppqp1p/6p1/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR w KQkq - 0 4,"I kind of like Nd5 here, which threatens the black queen.  Black must then play Qd6 or Qc5 to defend against NxPc7+ which forks black's a rook."
+7,Qf3,h5f3,rnb1kbnr/ppppqp1p/6p1/4p3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 4,"I kind of like Nd5 here, which threatens the black queen.  Black must then play Qd6 or Qc5 to defend against NxPc7+ which forks black's a rook."
+8,h5,h7h5,rnb1kbnr/ppppqp2/6p1/4p2p/4P3/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 0 5,"I kind of like Nd5 here, which threatens the black queen.  Black must then play Qd6 or Qc5 to defend against NxPc7+ which forks black's a rook."
+9,Bc4,f1c4,rnb1kbnr/ppppqp2/6p1/4p2p/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 1 5,"I kind of like Nd5 here, which threatens the black queen.  Black must then play Qd6 or Qc5 to defend against NxPc7+ which forks black's a rook."
+10,Nf6,g8f6,rnb1kb1r/ppppqp2/5np1/4p2p/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 2 6,"Nothing is defending against QxNf6.  Black must then protect the h rook, perhaps with Rh7 to protect against QxPf7+.  This gives white ample time to reposition the white bishop to safety, or defend it."
+11,Nh3,g1h3,rnb1kb1r/ppppqp2/5np1/4p2p/2B1P3/2N2Q1N/PPPP1PPP/R1B1K2R b KQkq - 3 6,"Nothing is defending against QxNf6.  Black must then protect the h rook, perhaps with Rh7 to protect against QxPf7+.  This gives white ample time to reposition the white bishop to safety, or defend it."
+12,Qc5,e7c5,rnb1kb1r/pppp1p2/5np1/2q1p2p/2B1P3/2N2Q1N/PPPP1PPP/R1B1K2R w KQkq - 4 7,"Nothing is defending against QxNf6.  Black must then protect the h rook, perhaps with Rh7 to protect against QxPf7+.  This gives white ample time to reposition the white bishop to safety, or defend it."
+13,d3,d2d3,rnb1kb1r/pppp1p2/5np1/2q1p2p/2B1P3/2NP1Q1N/PPP2PPP/R1B1K2R b KQkq - 0 7,The free knight looked a lot better to me.
+14,Ke7,e8e7,rnb2b1r/ppppkp2/5np1/2q1p2p/2B1P3/2NP1Q1N/PPP2PPP/R1B1K2R w KQ - 1 8,"White has three (four counting the queen) pieces on d5, black only two."
+15,Ng5,h3g5,rnb2b1r/ppppkp2/5np1/2q1p1Np/2B1P3/2NP1Q2/PPP2PPP/R1B1K2R b KQ - 2 8,"White has three (four counting the queen) pieces on d5, black only two."
+16,d5,d7d5,rnb2b1r/ppp1kp2/5np1/2qpp1Np/2B1P3/2NP1Q2/PPP2PPP/R1B1K2R w KQ - 0 9,"White has three (four counting the queen) pieces on d5, black only two."
+17,Nxd5+,c3d5,rnb2b1r/ppp1kp2/5np1/2qNp1Np/2B1P3/3P1Q2/PPP2PPP/R1B1K2R b KQ - 0 9,"I think I like 9. BxPd5 better.  NxN, 10. BxN, QxPc2 11. Qf6+ lets white pick up black's h rook."
+18,Nxd5,f6d5,rnb2b1r/ppp1kp2/6p1/2qnp1Np/2B1P3/3P1Q2/PPP2PPP/R1B1K2R w KQ - 0 10,"I prefer QxPf7+.  Black's choices are Kd8, in which case 12 Ne6+ picks off the black queen, or Kd6 which drives the black king into the battlefield.  Actually, Kd6 results with Ne4+ and again the black queen falls into darkness, trampled beneath the white knight's hooves."
+19,exd5,e4d5,rnb2b1r/ppp1kp2/6p1/2qPp1Np/2B5/3P1Q2/PPP2PPP/R1B1K2R b KQ - 0 10,"I prefer QxPf7+.  Black's choices are Kd8, in which case 12 Ne6+ picks off the black queen, or Kd6 which drives the black king into the battlefield.  Actually, Kd6 results with Ne4+ and again the black queen falls into darkness, trampled beneath the white knight's hooves."
+20,Bg4,c8g4,rn3b1r/ppp1kp2/6p1/2qPp1Np/2B3b1/3P1Q2/PPP2PPP/R1B1K2R w KQ - 1 11,"I prefer QxPf7+.  Black's choices are Kd8, in which case 12 Ne6+ picks off the black queen, or Kd6 which drives the black king into the battlefield.  Actually, Kd6 results with Ne4+ and again the black queen falls into darkness, trampled beneath the white knight's hooves."
+21,Qg3,f3g3,rn3b1r/ppp1kp2/6p1/2qPp1Np/2B3b1/3P2Q1/PPP2PPP/R1B1K2R b KQ - 2 11,"I prefer QxPf7+.  Black's choices are Kd8, in which case 12 Ne6+ picks off the black queen, or Kd6 which drives the black king into the battlefield.  Actually, Kd6 results with Ne4+ and again the black queen falls into darkness, trampled beneath the white knight's hooves."
+22,Qd4,c5d4,rn3b1r/ppp1kp2/6p1/3Pp1Np/2Bq2b1/3P2Q1/PPP2PPP/R1B1K2R w KQ - 3 12,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+23,c3,c2c3,rn3b1r/ppp1kp2/6p1/3Pp1Np/2Bq2b1/2PP2Q1/PP3PPP/R1B1K2R b KQ - 0 12,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+24,h4,h5h4,rn3b1r/ppp1kp2/6p1/3Pp1N1/2Bq2bp/2PP2Q1/PP3PPP/R1B1K2R w KQ - 0 13,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+25,cxd4,c3d4,rn3b1r/ppp1kp2/6p1/3Pp1N1/2BP2bp/3P2Q1/PP3PPP/R1B1K2R b KQ - 0 13,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+26,hxg3,h4g3,rn3b1r/ppp1kp2/6p1/3Pp1N1/2BP2b1/3P2p1/PP3PPP/R1B1K2R w KQ - 0 14,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+27,dxe5,d4e5,rn3b1r/ppp1kp2/6p1/3PP1N1/2B3b1/3P2p1/PP3PPP/R1B1K2R b KQ - 0 14,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+28,gxh2,g3h2,rn3b1r/ppp1kp2/6p1/3PP1N1/2B3b1/3P4/PP3PPp/R1B1K2R w KQ - 0 15,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+29,f3,f2f3,rn3b1r/ppp1kp2/6p1/3PP1N1/2B3b1/3P1P2/PP4Pp/R1B1K2R b KQ - 0 15,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+30,f6,f7f6,rn3b1r/ppp1k3/5pp1/3PP1N1/2B3b1/3P1P2/PP4Pp/R1B1K2R w KQ - 0 16,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+31,Ne6,g5e6,rn3b1r/ppp1k3/4Npp1/3PP3/2B3b1/3P1P2/PP4Pp/R1B1K2R b KQ - 1 16,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+32,Na6,b8a6,r4b1r/ppp1k3/n3Npp1/3PP3/2B3b1/3P1P2/PP4Pp/R1B1K2R w KQ - 2 17,Bg4 is worth more than Pc7.  BxNe6 would have defended against NxPc7.
+33,fxg4,f3g4,r4b1r/ppp1k3/n3Npp1/3PP3/2B3P1/3P4/PP4Pp/R1B1K2R b KQ - 0 17,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+34,fxe5,f6e5,r4b1r/ppp1k3/n3N1p1/3Pp3/2B3P1/3P4/PP4Pp/R1B1K2R w KQ - 0 18,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+35,Bg5+,c1g5,r4b1r/ppp1k3/n3N1p1/3Pp1B1/2B3P1/3P4/PP4Pp/R3K2R b KQ - 1 18,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+36,Kd7,e7d7,r4b1r/pppk4/n3N1p1/3Pp1B1/2B3P1/3P4/PP4Pp/R3K2R w KQ - 2 19,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+37,Bxa6,c4a6,r4b1r/pppk4/B3N1p1/3Pp1B1/6P1/3P4/PP4Pp/R3K2R b KQ - 0 19,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+38,Bb4+,f8b4,r6r/pppk4/B3N1p1/3Pp1B1/1b4P1/3P4/PP4Pp/R3K2R w KQ - 1 20,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+39,Kf2,e1f2,r6r/pppk4/B3N1p1/3Pp1B1/1b4P1/3P4/PP3KPp/R6R b - - 2 20,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+40,c6,c7c6,r6r/pp1k4/B1p1N1p1/3Pp1B1/1b4P1/3P4/PP3KPp/R6R w - - 0 21,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+41,Bxb7,a6b7,r6r/pB1k4/2p1N1p1/3Pp1B1/1b4P1/3P4/PP3KPp/R6R b - - 0 21,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+42,Rab8,a8b8,1r5r/pB1k4/2p1N1p1/3Pp1B1/1b4P1/3P4/PP3KPp/R6R w - - 1 22,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+43,a3,a2a3,1r5r/pB1k4/2p1N1p1/3Pp1B1/1b4P1/P2P4/1P3KPp/R6R b - - 0 22,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+44,Bf8,b4f8,1r3b1r/pB1k4/2p1N1p1/3Pp1B1/6P1/P2P4/1P3KPp/R6R w - - 1 23,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+45,Bxc6+,b7c6,1r3b1r/p2k4/2B1N1p1/3Pp1B1/6P1/P2P4/1P3KPp/R6R b - - 0 23,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+46,Kd6,d7d6,1r3b1r/p7/2BkN1p1/3Pp1B1/6P1/P2P4/1P3KPp/R6R w - - 1 24,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+47,Be3,g5e3,1r3b1r/p7/2BkN1p1/3Pp3/6P1/P2PB3/1P3KPp/R6R b - - 2 24,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+48,Rxb2+,b8b2,5b1r/p7/2BkN1p1/3Pp3/6P1/P2PB3/1r3KPp/R6R w - - 0 25,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+49,Kf3,f2f3,5b1r/p7/2BkN1p1/3Pp3/6P1/P2PBK2/1r4Pp/R6R b - - 1 25,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+50,Rh7,h8h7,5b2/p6r/2BkN1p1/3Pp3/6P1/P2PBK2/1r4Pp/R6R w - - 2 26,?  I would have moved Pa6 or Pa5.  Rh7 permits NxBf8 for free.
+51,Nxf8,e6f8,5N2/p6r/2Bk2p1/3Pp3/6P1/P2PBK2/1r4Pp/R6R b - - 0 26,"Actually, not for free.  I overlooked Rf7+."
+52,Rf7+,h7f7,5N2/p4r2/2Bk2p1/3Pp3/6P1/P2PBK2/1r4Pp/R6R w - - 1 27,"Here we expect Kg3, RnNf8, RxPh2."

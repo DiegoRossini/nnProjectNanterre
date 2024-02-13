@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,D4 as per usual
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,We have a symmetrical position
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,We have a symmetrical position
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,We have a symmetrical position
+5,Bf4,c1f4,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,We have a symmetrical position
+6,c6,c7c6,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,We have a symmetrical position
+7,c3,c2c3,rnbqkb1r/pp2pppp/2p2n2/3p4/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,We have a symmetrical position
+8,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/3p1b2/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 1 5,We have a symmetrical position
+9,Nbd2,b1d2,rn1qkb1r/pp2pppp/2p2n2/3p1b2/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 2 5,Still the same
+10,h6,h7h6,rn1qkb1r/pp2ppp1/2p2n1p/3p1b2/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 0 6,Still the same
+11,e3,e2e3,rn1qkb1r/pp2ppp1/2p2n1p/3p1b2/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R b KQkq - 0 6,Still the same
+12,Nbd7,b8d7,r2qkb1r/pp1nppp1/2p2n1p/3p1b2/3P1B2/2P1PN2/PP1N1PPP/R2QKB1R w KQkq - 1 7,Still the same
+13,h3,h2h3,r2qkb1r/pp1nppp1/2p2n1p/3p1b2/3P1B2/2P1PN1P/PP1N1PP1/R2QKB1R b KQkq - 0 7,Still the same
+14,e6,e7e6,r2qkb1r/pp1n1pp1/2p1pn1p/3p1b2/3P1B2/2P1PN1P/PP1N1PP1/R2QKB1R w KQkq - 0 8,Still the same
+15,Be2,f1e2,r2qkb1r/pp1n1pp1/2p1pn1p/3p1b2/3P1B2/2P1PN1P/PP1NBPP1/R2QK2R b KQkq - 1 8,Arrrghh
+16,Be7,f8e7,r2qk2r/pp1nbpp1/2p1pn1p/3p1b2/3P1B2/2P1PN1P/PP1NBPP1/R2QK2R w KQkq - 2 9,Arrrghh
+17,Qb3,d1b3,r2qk2r/pp1nbpp1/2p1pn1p/3p1b2/3P1B2/1QP1PN1P/PP1NBPP1/R3K2R b KQkq - 3 9,Arrrghh
+18,Qb6,d8b6,r3k2r/pp1nbpp1/1qp1pn1p/3p1b2/3P1B2/1QP1PN1P/PP1NBPP1/R3K2R w KQkq - 4 10,Arrrghh
+19,O-O,e1g1,r3k2r/pp1nbpp1/1qp1pn1p/3p1b2/3P1B2/1QP1PN1P/PP1NBPP1/R4RK1 b kq - 5 10,Time to generate something
+20,O-O,e8g8,r4rk1/pp1nbpp1/1qp1pn1p/3p1b2/3P1B2/1QP1PN1P/PP1NBPP1/R4RK1 w - - 6 11,Time to generate something
+21,c4,c3c4,r4rk1/pp1nbpp1/1qp1pn1p/3p1b2/2PP1B2/1Q2PN1P/PP1NBPP1/R4RK1 b - - 0 11,I now have an open file to play with
+22,Qxb3,b6b3,r4rk1/pp1nbpp1/2p1pn1p/3p1b2/2PP1B2/1q2PN1P/PP1NBPP1/R4RK1 w - - 0 12,I now have an open file to play with
+23,axb3,a2b3,r4rk1/pp1nbpp1/2p1pn1p/3p1b2/2PP1B2/1P2PN1P/1P1NBPP1/R4RK1 b - - 0 12,I now have an open file to play with
+24,c5,c6c5,r4rk1/pp1nbpp1/4pn1p/2pp1b2/2PP1B2/1P2PN1P/1P1NBPP1/R4RK1 w - - 0 13,It is still drawish but white has some play at last
+25,Rfc1,f1c1,r4rk1/pp1nbpp1/4pn1p/2pp1b2/2PP1B2/1P2PN1P/1P1NBPP1/R1R3K1 b - - 1 13,It is still drawish but white has some play at last
+26,cxd4,c5d4,r4rk1/pp1nbpp1/4pn1p/3p1b2/2Pp1B2/1P2PN1P/1P1NBPP1/R1R3K1 w - - 0 14,It is still drawish but white has some play at last
+27,exd4,e3d4,r4rk1/pp1nbpp1/4pn1p/3p1b2/2PP1B2/1P3N1P/1P1NBPP1/R1R3K1 b - - 0 14,It is still drawish but white has some play at last
+28,a6,a7a6,r4rk1/1p1nbpp1/p3pn1p/3p1b2/2PP1B2/1P3N1P/1P1NBPP1/R1R3K1 w - - 0 15,It is still drawish but white has some play at last
+29,c5,c4c5,r4rk1/1p1nbpp1/p3pn1p/2Pp1b2/3P1B2/1P3N1P/1P1NBPP1/R1R3K1 b - - 0 15,It is still drawish but white has some play at last
+30,Rac8,a8c8,2r2rk1/1p1nbpp1/p3pn1p/2Pp1b2/3P1B2/1P3N1P/1P1NBPP1/R1R3K1 w - - 1 16,"Things are looking up for white, the pawn on b7 is now a target"
+31,b4,b3b4,2r2rk1/1p1nbpp1/p3pn1p/2Pp1b2/1P1P1B2/5N1P/1P1NBPP1/R1R3K1 b - - 0 16,"Things are looking up for white, the pawn on b7 is now a target"
+32,Ne4,f6e4,2r2rk1/1p1nbpp1/p3p2p/2Pp1b2/1P1PnB2/5N1P/1P1NBPP1/R1R3K1 w - - 1 17,"Things are looking up for white, the pawn on b7 is now a target"
+33,Nb3,d2b3,2r2rk1/1p1nbpp1/p3p2p/2Pp1b2/1P1PnB2/1N3N1P/1P2BPP1/R1R3K1 b - - 2 17,"Things are looking up for white, the pawn on b7 is now a target"
+34,Bd8,e7d8,2rb1rk1/1p1n1pp1/p3p2p/2Pp1b2/1P1PnB2/1N3N1P/1P2BPP1/R1R3K1 w - - 3 18,"Things are looking up for white, the pawn on b7 is now a target"
+35,b5,b4b5,2rb1rk1/1p1n1pp1/p3p2p/1PPp1b2/3PnB2/1N3N1P/1P2BPP1/R1R3K1 b - - 0 18,"Things are looking up for white, the pawn on b7 is now a target"
+36,axb5,a6b5,2rb1rk1/1p1n1pp1/4p2p/1pPp1b2/3PnB2/1N3N1P/1P2BPP1/R1R3K1 w - - 0 19,"Things are looking up for white, the pawn on b7 is now a target"
+37,Bxb5,e2b5,2rb1rk1/1p1n1pp1/4p2p/1BPp1b2/3PnB2/1N3N1P/1P3PP1/R1R3K1 b - - 0 19,"Things are looking up for white, the pawn on b7 is now a target"
+38,Ndf6,d7f6,2rb1rk1/1p3pp1/4pn1p/1BPp1b2/3PnB2/1N3N1P/1P3PP1/R1R3K1 w - - 1 20,Not sure about this as it allows N-e5
+39,Ra7,a1a7,2rb1rk1/Rp3pp1/4pn1p/1BPp1b2/3PnB2/1N3N1P/1P3PP1/2R3K1 b - - 2 20,Attack the pawn
+40,Bc7,d8c7,2r2rk1/Rpb2pp1/4pn1p/1BPp1b2/3PnB2/1N3N1P/1P3PP1/2R3K1 w - - 3 21,This is the beginning of black's downfall
+41,Ne5,f3e5,2r2rk1/Rpb2pp1/4pn1p/1BPpNb2/3PnB2/1N5P/1P3PP1/2R3K1 b - - 4 21,This is the beginning of black's downfall
+42,Rcb8,c8b8,1r3rk1/Rpb2pp1/4pn1p/1BPpNb2/3PnB2/1N5P/1P3PP1/2R3K1 w - - 5 22,This is the beginning of black's downfall
+43,f3,f2f3,1r3rk1/Rpb2pp1/4pn1p/1BPpNb2/3PnB2/1N3P1P/1P4P1/2R3K1 b - - 0 22,This is the beginning of black's downfall
+44,Ng5,e4g5,1r3rk1/Rpb2pp1/4pn1p/1BPpNbn1/3P1B2/1N3P1P/1P4P1/2R3K1 w - - 1 23,black resigns
+45,h4,h3h4,1r3rk1/Rpb2pp1/4pn1p/1BPpNbn1/3P1B1P/1N3P2/1P4P1/2R3K1 b - - 0 23,black resigns
+46,Ngh7,g5h7,1r3rk1/Rpb2ppn/4pn1p/1BPpNb2/3P1B1P/1N3P2/1P4P1/2R3K1 w - - 1 24,black resigns
+47,g4,g2g4,1r3rk1/Rpb2ppn/4pn1p/1BPpNb2/3P1BPP/1N3P2/1P6/2R3K1 b - - 0 24,black resigns
+48,Bg6,f5g6,1r3rk1/Rpb2ppn/4pnbp/1BPpN3/3P1BPP/1N3P2/1P6/2R3K1 w - - 1 25,black resigns
+49,Nxg6,e5g6,1r3rk1/Rpb2ppn/4pnNp/1BPp4/3P1BPP/1N3P2/1P6/2R3K1 b - - 0 25,black resigns

@@ -1,0 +1,43 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A miniature
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,gambit accepted
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,gambit accepted
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,gambit accepted
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,all very theoretical
+6,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4,all very theoretical
+7,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 3 4,all very theoretical
+8,g5,g7g5,r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 0 5,all very theoretical
+9,h4,h2h4,r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp1P/5N2/PPPP2P1/RNBQK2R b KQkq - 0 5,all very theoretical
+10,g4,g5g4,r1bqkbnr/pppp1p1p/2n5/8/2B1PppP/5N2/PPPP2P1/RNBQK2R w KQkq - 0 6,all very theoretical
+11,Ng5,f3g5,r1bqkbnr/pppp1p1p/2n5/6N1/2B1PppP/8/PPPP2P1/RNBQK2R b KQkq - 1 6,all very theoretical
+12,Ne5,c6e5,r1bqkbnr/pppp1p1p/8/4n1N1/2B1PppP/8/PPPP2P1/RNBQK2R w KQkq - 2 7,all very theoretical
+13,Bb3,c4b3,r1bqkbnr/pppp1p1p/8/4n1N1/4PppP/1B6/PPPP2P1/RNBQK2R b KQkq - 3 7,forced
+14,h6,h7h6,r1bqkbnr/pppp1p2/7p/4n1N1/4PppP/1B6/PPPP2P1/RNBQK2R w KQkq - 0 8,forced
+15,Nxf7,g5f7,r1bqkbnr/pppp1N2/7p/4n3/4PppP/1B6/PPPP2P1/RNBQK2R b KQkq - 0 8,forced
+16,Nxf7,e5f7,r1bqkbnr/pppp1n2/7p/8/4PppP/1B6/PPPP2P1/RNBQK2R w KQkq - 0 9,white threats Nd4
+17,Qxg4,d1g4,r1bqkbnr/pppp1n2/7p/8/4PpQP/1B6/PPPP2P1/RNB1K2R b KQkq - 0 9,white threats Nd4
+18,Qf6,d8f6,r1b1kbnr/pppp1n2/5q1p/8/4PpQP/1B6/PPPP2P1/RNB1K2R w KQkq - 1 10,white threats Nd4
+19,Nc3,b1c3,r1b1kbnr/pppp1n2/5q1p/8/4PpQP/1BN5/PPPP2P1/R1B1K2R b KQkq - 2 10,white threats Nd4
+20,d6,d7d6,r1b1kbnr/ppp2n2/3p1q1p/8/4PpQP/1BN5/PPPP2P1/R1B1K2R w KQkq - 0 11,white threats Nd4
+21,Qh5,g4h5,r1b1kbnr/ppp2n2/3p1q1p/7Q/4Pp1P/1BN5/PPPP2P1/R1B1K2R b KQkq - 1 11,white threats Nd4
+22,Be6,c8e6,r3kbnr/ppp2n2/3pbq1p/7Q/4Pp1P/1BN5/PPPP2P1/R1B1K2R w KQkq - 2 12,white threats Nd4
+23,Qb5+,h5b5,r3kbnr/ppp2n2/3pbq1p/1Q6/4Pp1P/1BN5/PPPP2P1/R1B1K2R b KQkq - 3 12,white will get its Investment back
+24,c6,c7c6,r3kbnr/pp3n2/2ppbq1p/1Q6/4Pp1P/1BN5/PPPP2P1/R1B1K2R w KQkq - 0 13,3 pawns = knight
+25,Qxb7,b5b7,r3kbnr/pQ3n2/2ppbq1p/8/4Pp1P/1BN5/PPPP2P1/R1B1K2R b KQkq - 0 13,3 pawns = knight
+26,Rc8,a8c8,2r1kbnr/pQ3n2/2ppbq1p/8/4Pp1P/1BN5/PPPP2P1/R1B1K2R w KQk - 1 14,3 pawns = knight
+27,Qxa7,b7a7,2r1kbnr/Q4n2/2ppbq1p/8/4Pp1P/1BN5/PPPP2P1/R1B1K2R b KQk - 0 14,3 pawns = knight
+28,h5,h6h5,2r1kbnr/Q4n2/2ppbq2/7p/4Pp1P/1BN5/PPPP2P1/R1B1K2R w KQk - 0 15,"there is a hole over there. I would have considered this, too, but not at this moment."
+29,Qf2,a7f2,2r1kbnr/5n2/2ppbq2/7p/4Pp1P/1BN5/PPPP1QP1/R1B1K2R b KQk - 1 15,"there is a hole over there. I would have considered this, too, but not at this moment."
+30,Ne7,g8e7,2r1kb1r/4nn2/2ppbq2/7p/4Pp1P/1BN5/PPPP1QP1/R1B1K2R w KQk - 2 16,"there is a hole over there. I would have considered this, too, but not at this moment."
+31,d3,d2d3,2r1kb1r/4nn2/2ppbq2/7p/4Pp1P/1BNP4/PPP2QP1/R1B1K2R b KQk - 0 16,"there is a hole over there. I would have considered this, too, but not at this moment."
+32,Bh6,f8h6,2r1k2r/4nn2/2ppbq1b/7p/4Pp1P/1BNP4/PPP2QP1/R1B1K2R w KQk - 1 17,"there is a hole over there. I would have considered this, too, but not at this moment."
+33,a4,a2a4,2r1k2r/4nn2/2ppbq1b/7p/P3Pp1P/1BNP4/1PP2QP1/R1B1K2R b KQk - 0 17,"there is a hole over there. I would have considered this, too, but not at this moment."
+34,Bxb3,e6b3,2r1k2r/4nn2/2pp1q1b/7p/P3Pp1P/1bNP4/1PP2QP1/R1B1K2R w KQk - 0 18,freeing the space on the other side
+35,cxb3,c2b3,2r1k2r/4nn2/2pp1q1b/7p/P3Pp1P/1PNP4/1P3QP1/R1B1K2R b KQk - 0 18,"why not Qc2, instead?"
+36,Rb8,c8b8,1r2k2r/4nn2/2pp1q1b/7p/P3Pp1P/1PNP4/1P3QP1/R1B1K2R w KQk - 1 19,"why not Qc2, instead?"
+37,Ra3,a1a3,1r2k2r/4nn2/2pp1q1b/7p/P3Pp1P/RPNP4/1P3QP1/2B1K2R b Kk - 2 19,"why not Qc2, instead?"
+38,Ne5,f7e5,1r2k2r/4n3/2pp1q1b/4n2p/P3Pp1P/RPNP4/1P3QP1/2B1K2R w Kk - 3 20,the threat is clear
+39,Qe2,f2e2,1r2k2r/4n3/2pp1q1b/4n2p/P3Pp1P/RPNP4/1P2Q1P1/2B1K2R b Kk - 4 20,"once again, only Qc2 was allowed"
+40,f3,f4f3,1r2k2r/4n3/2pp1q1b/4n2p/P3P2P/RPNP1p2/1P2Q1P1/2B1K2R w Kk - 0 21,only Qd1 or c2 was allowed... but though the end was closed
+41,Qf2,e2f2,1r2k2r/4n3/2pp1q1b/4n2p/P3P2P/RPNP1p2/1P3QP1/2B1K2R b Kk - 1 21,????
+42,Nxd3+,e5d3,1r2k2r/4n3/2pp1q1b/7p/P3P2P/RPNn1p2/1P3QP1/2B1K2R w Kk - 0 22,

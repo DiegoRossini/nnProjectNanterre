@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Played by Jacque Mieses 1865-1954
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Vienna game
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Vienna game
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3,Attacking the weak f7 square
+5,Bc4,f1c4,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 3,Attacking the weak f7 square
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4,Played because 4.Nxe4 5.d5 forking both pieces.
+7,Qh5,d1h5,rnbqkb1r/pppp1ppp/8/4p2Q/2B1n3/2N5/PPPP1PPP/R1B1K1NR b KQkq - 1 4,Aggresive move which attacks both f7 and e5 squares.
+8,Nd6,e4d6,rnbqkb1r/pppp1ppp/3n4/4p2Q/2B5/2N5/PPPP1PPP/R1B1K1NR w KQkq - 2 5,"Attacks bishop and covers the f7 square, but blockade his own d7 pawn."
+9,Bb3,c4b3,rnbqkb1r/pppp1ppp/3n4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR b KQkq - 3 5,Keeping the bishop
+10,Be7,f8e7,rnbqk2r/ppppbppp/3n4/4p2Q/8/1BN5/PPPP1PPP/R1B1K1NR w KQkq - 4 6,Possibly better is Nc6. But prepares castling.
+11,d3,d2d3,rnbqk2r/ppppbppp/3n4/4p2Q/8/1BNP4/PPP2PPP/R1B1K1NR b KQkq - 0 6,Preparing development of bishop.
+12,O-O,e8g8,rnbq1rk1/ppppbppp/3n4/4p2Q/8/1BNP4/PPP2PPP/R1B1K1NR w KQ - 1 7,Finally...
+13,Nf3,g1f3,rnbq1rk1/ppppbppp/3n4/4p2Q/8/1BNP1N2/PPP2PPP/R1B1K2R b KQ - 2 7,Finally...
+14,Nc6,b8c6,r1bq1rk1/ppppbppp/2nn4/4p2Q/8/1BNP1N2/PPP2PPP/R1B1K2R w KQ - 3 8,Finally...
+15,Ng5,f3g5,r1bq1rk1/ppppbppp/2nn4/4p1NQ/8/1BNP4/PPP2PPP/R1B1K2R b KQ - 4 8,Finally...
+16,h6,h7h6,r1bq1rk1/ppppbpp1/2nn3p/4p1NQ/8/1BNP4/PPP2PPP/R1B1K2R w KQ - 0 9,Threathening 9.hxg5 10.hxg5 with mate at h7 with the queen.
+17,h4,h2h4,r1bq1rk1/ppppbpp1/2nn3p/4p1NQ/7P/1BNP4/PPP2PP1/R1B1K2R b KQ - 0 9,Threathening 9.hxg5 10.hxg5 with mate at h7 with the queen.
+18,Ne8,d6e8,r1bqnrk1/ppppbpp1/2n4p/4p1NQ/7P/1BNP4/PPP2PP1/R1B1K2R w KQ - 1 10,??? Locks in most of his pieces
+19,Nd5,c3d5,r1bqnrk1/ppppbpp1/2n4p/3Np1NQ/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 2 10,!!!
+20,Nf6,e8f6,r1bq1rk1/ppppbpp1/2n2n1p/3Np1NQ/7P/1B1P4/PPP2PP1/R1B1K2R w KQ - 3 11,!!! Wow...sacrifices a queen for a mating net.
+21,Qg6,h5g6,r1bq1rk1/ppppbpp1/2n2nQp/3Np1N1/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 4 11,!!! Wow...sacrifices a queen for a mating net.
+22,fxg6,f7g6,r1bq1rk1/ppppb1p1/2n2npp/3Np1N1/7P/1B1P4/PPP2PP1/R1B1K2R w KQ - 0 12,Discovered check and double.
+23,Nxe7+,d5e7,r1bq1rk1/ppppN1p1/2n2npp/4p1N1/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 0 12,Discovered check and double.
+24,Kh8,g8h8,r1bq1r1k/ppppN1p1/2n2npp/4p1N1/7P/1B1P4/PPP2PP1/R1B1K2R w KQ - 1 13,"Finishes it off.
+
+Hope you enjoyed it"
+25,Nxg6#,e7g6,r1bq1r1k/pppp2p1/2n2nNp/4p1N1/7P/1B1P4/PPP2PP1/R1B1K2R b KQ - 0 13,"Finishes it off.
+
+Hope you enjoyed it"

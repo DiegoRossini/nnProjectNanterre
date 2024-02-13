@@ -1,0 +1,77 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Lance que caracteriza o ""Ataque Fegatello""."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Lance que caracteriza o ""Ataque Fegatello""."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Lance que caracteriza o ""Ataque Fegatello""."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"Lance que caracteriza o ""Ataque Fegatello""."
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"Lance que caracteriza o ""Ataque Fegatello""."
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"Lance que caracteriza o ""Ataque Fegatello""."
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"Lance que caracteriza o ""Ataque Fegatello""."
+8,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/4p1N1/2B1n3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,"Lance surpreendente, porém duvidoso."
+9,Nxf7,g5f7,r1bqkb1r/pppp1Npp/2n5/4p3/2B1n3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Lance duvidoso. A melhor continuação e que dá boa vantagem para as brancas é Bxf7+.
+10,Qh4,d8h4,r1b1kb1r/pppp1Npp/2n5/4p3/2B1n2q/8/PPPP1PPP/RNBQK2R w KQkq - 1 6,"Df6 era melhor, segundo o Rybka."
+11,O-O,e1g1,r1b1kb1r/pppp1Npp/2n5/4p3/2B1n2q/8/PPPP1PPP/RNBQ1RK1 b kq - 2 6,Cxf7 é melhor.
+12,Bc5,f8c5,r1b1k2r/pppp1Npp/2n5/2b1p3/2B1n2q/8/PPPP1PPP/RNBQ1RK1 w kq - 3 7,Cxf7 é melhor.
+13,d4,d2d4,r1b1k2r/pppp1Npp/2n5/2b1p3/2BPn2q/8/PPP2PPP/RNBQ1RK1 b kq - 0 7,"Bxd4 era uma possibilidade boa, talvez melhor."
+14,Nxf2,e4f2,r1b1k2r/pppp1Npp/2n5/2b1p3/2BP3q/8/PPP2nPP/RNBQ1RK1 w kq - 0 8,"Bxd4 era uma possibilidade boa, talvez melhor."
+15,Rxf2,f1f2,r1b1k2r/pppp1Npp/2n5/2b1p3/2BP3q/8/PPP2RPP/RNBQ2K1 b kq - 0 8,"Lance duvidoso. Melhor seria Bg5, contra o qual as negras jogariam Dxd4, mantendo vantagem."
+16,Bxd4,c5d4,r1b1k2r/pppp1Npp/2n5/4p3/2Bb3q/8/PPP2RPP/RNBQ2K1 w kq - 0 9,Tomar de bispo era melhor.
+17,Kh1,g1h1,r1b1k2r/pppp1Npp/2n5/4p3/2Bb3q/8/PPP2RPP/RNBQ3K b kq - 1 9,Tomar de bispo era melhor.
+18,Qxf2,h4f2,r1b1k2r/pppp1Npp/2n5/4p3/2Bb4/8/PPP2qPP/RNBQ3K w kq - 0 10,Tomar de bispo era melhor.
+19,Nxh8,f7h8,r1b1k2N/pppp2pp/2n5/4p3/2Bb4/8/PPP2qPP/RNBQ3K b q - 0 10,Lance duvidoso. Be2 era quase forçado.
+20,d5,d7d5,r1b1k2N/ppp3pp/2n5/3pp3/2Bb4/8/PPP2qPP/RNBQ3K w q - 0 11,Lance duvidoso. Be2 era quase forçado.
+21,Bxd5,c4d5,r1b1k2N/ppp3pp/2n5/3Bp3/3b4/8/PPP2qPP/RNBQ3K b q - 0 11,Lance duvidoso. Be2 era quase forçado.
+22,Bg4,c8g4,r3k2N/ppp3pp/2n5/3Bp3/3b2b1/8/PPP2qPP/RNBQ3K w q - 1 12,"Lance interessante, mas duvidoso. Bxb2!! dava vantagem decisiva à negras. Se as brancas tomam o bispo, as negras jogam Td8 com vantagem decisiva."
+23,Bf3,d5f3,r3k2N/ppp3pp/2n5/4p3/3b2b1/5B2/PPP2qPP/RNBQ3K b q - 2 12,"Lance interessante, mas duvidoso. Bxb2!! dava vantagem decisiva à negras. Se as brancas tomam o bispo, as negras jogam Td8 com vantagem decisiva."
+24,Bxf3,g4f3,r3k2N/ppp3pp/2n5/4p3/3b4/5b2/PPP2qPP/RNBQ3K w q - 0 13,"Lance interessante, mas duvidoso. Bxb2!! dava vantagem decisiva à negras. Se as brancas tomam o bispo, as negras jogam Td8 com vantagem decisiva."
+25,gxf3,g2f3,r3k2N/ppp3pp/2n5/4p3/3b4/5P2/PPP2q1P/RNBQ3K b q - 0 13,"Lance interessante, mas duvidoso. Bxb2!! dava vantagem decisiva à negras. Se as brancas tomam o bispo, as negras jogam Td8 com vantagem decisiva."
+26,e4,e5e4,r3k2N/ppp3pp/2n5/8/3bp3/5P2/PPP2q1P/RNBQ3K w q - 0 14,"Lance interessante, mas duvidoso. Bxb2!! dava vantagem decisiva à negras. Se as brancas tomam o bispo, as negras jogam Td8 com vantagem decisiva."
+27,fxe4,f3e4,r3k2N/ppp3pp/2n5/8/3bP3/8/PPP2q1P/RNBQ3K b q - 0 14,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+28,Be5,d4e5,r3k2N/ppp3pp/2n5/4b3/4P3/8/PPP2q1P/RNBQ3K w q - 1 15,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+29,Qg1,d1g1,r3k2N/ppp3pp/2n5/4b3/4P3/8/PPP2q1P/RNB3QK b q - 2 15,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+30,Qf3+,f2f3,r3k2N/ppp3pp/2n5/4b3/4P3/5q2/PPP4P/RNB3QK w q - 3 16,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+31,Qg2,g1g2,r3k2N/ppp3pp/2n5/4b3/4P3/5q2/PPP3QP/RNB4K b q - 4 16,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+32,Qd1+,f3d1,r3k2N/ppp3pp/2n5/4b3/4P3/8/PPP3QP/RNBq3K w q - 5 17,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+33,Qg1,g2g1,r3k2N/ppp3pp/2n5/4b3/4P3/8/PPP4P/RNBq2QK b q - 6 17,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+34,Qf3+,d1f3,r3k2N/ppp3pp/2n5/4b3/4P3/5q2/PPP4P/RNB3QK w q - 7 18,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+35,Qg2,g1g2,r3k2N/ppp3pp/2n5/4b3/4P3/5q2/PPP3QP/RNB4K b q - 8 18,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."
+36,Qd1+,f3d1,r3k2N/ppp3pp/2n5/4b3/4P3/8/PPP3QP/RNBq3K w q - 9 19,"Dei xeque perpétuo, pois as brancas saíam da mesa (coisas do ping), mas as negras ainda têm clara vantagem, embora tenham desperdiçado várias chances boas durante a partida.
+
+Sugiram jogarem no ping o lance 4.    ,Cxe4 (já joguei até em pensadas, o que não aconselho), para treinar posições agudas e eventualmente surpreender o adversário.
+
+Depois colocarei aqui a melhor continuação para as brancas, mas sugiro que já vão tentando encontrar a melhor sequência depois de 5.Bxf7+,Re7."

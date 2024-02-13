@@ -1,0 +1,55 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Equal.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Equal.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Equal.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Equal.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,Equal.
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,Equal.
+7,Bd2,c1d2,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R b KQkq - 3 4,Equal.
+8,Qe7,d8e7,rnb1k2r/ppppqppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R w KQkq - 4 5,Equal.
+9,g3,g2g3,rnb1k2r/ppppqppp/4pn2/8/1bPP4/5NP1/PP1BPP1P/RN1QKB1R b KQkq - 0 5,Equal.
+10,b6,b7b6,rnb1k2r/p1ppqppp/1p2pn2/8/1bPP4/5NP1/PP1BPP1P/RN1QKB1R w KQkq - 0 6,Equal.
+11,Bg2,f1g2,rnb1k2r/p1ppqppp/1p2pn2/8/1bPP4/5NP1/PP1BPPBP/RN1QK2R b KQkq - 1 6,Equal.
+12,Bb7,c8b7,rn2k2r/pbppqppp/1p2pn2/8/1bPP4/5NP1/PP1BPPBP/RN1QK2R w KQkq - 2 7,Equal.
+13,O-O,e1g1,rn2k2r/pbppqppp/1p2pn2/8/1bPP4/5NP1/PP1BPPBP/RN1Q1RK1 b kq - 3 7,Equal.
+14,Bxd2,b4d2,rn2k2r/pbppqppp/1p2pn2/8/2PP4/5NP1/PP1bPPBP/RN1Q1RK1 w kq - 0 8,Equal.
+15,Nbxd2,b1d2,rn2k2r/pbppqppp/1p2pn2/8/2PP4/5NP1/PP1NPPBP/R2Q1RK1 b kq - 0 8,Equal.
+16,O-O,e8g8,rn3rk1/pbppqppp/1p2pn2/8/2PP4/5NP1/PP1NPPBP/R2Q1RK1 w - - 1 9,Equal.
+17,Qc2,d1c2,rn3rk1/pbppqppp/1p2pn2/8/2PP4/5NP1/PPQNPPBP/R4RK1 b - - 2 9,Equal.
+18,d6,d7d6,rn3rk1/pbp1qppp/1p1ppn2/8/2PP4/5NP1/PPQNPPBP/R4RK1 w - - 0 10,Equal.
+19,Nb3,d2b3,rn3rk1/pbp1qppp/1p1ppn2/8/2PP4/1N3NP1/PPQ1PPBP/R4RK1 b - - 1 10,Questionable.
+20,c5,c7c5,rn3rk1/pb2qppp/1p1ppn2/2p5/2PP4/1N3NP1/PPQ1PPBP/R4RK1 w - - 0 11,11. Rad1 Is slightly better. Then Re8 is about equal.
+21,dxc5,d4c5,rn3rk1/pb2qppp/1p1ppn2/2P5/2P5/1N3NP1/PPQ1PPBP/R4RK1 b - - 0 11,11. Rad1 Is slightly better. Then Re8 is about equal.
+22,dxc5,d6c5,rn3rk1/pb2qppp/1p2pn2/2p5/2P5/1N3NP1/PPQ1PPBP/R4RK1 w - - 0 12,bxc5 is also good.
+23,Rfd1,f1d1,rn3rk1/pb2qppp/1p2pn2/2p5/2P5/1N3NP1/PPQ1PPBP/R2R2K1 b - - 1 12,Slightly better than Re8 and Nc6.
+24,e5,e6e5,rn3rk1/pb2qppp/1p3n2/2p1p3/2P5/1N3NP1/PPQ1PPBP/R2R2K1 w - - 0 13,Slightly better than Re8 and Nc6.
+25,e4,e2e4,rn3rk1/pb2qppp/1p3n2/2p1p3/2P1P3/1N3NP1/PPQ2PBP/R2R2K1 b - - 0 13,"Unfortuntely, a blunder."
+26,Bxe4,b7e4,rn3rk1/p3qppp/1p3n2/2p1p3/2P1b3/1N3NP1/PPQ2PBP/R2R2K1 w - - 0 14,16. Re3 Nd4 -/+
+27,Qc3,c2c3,rn3rk1/p3qppp/1p3n2/2p1p3/2P1b3/1NQ2NP1/PP3PBP/R2R2K1 b - - 1 14,16. Re3 Nd4 -/+
+28,Nc6,b8c6,r4rk1/p3qppp/1pn2n2/2p1p3/2P1b3/1NQ2NP1/PP3PBP/R2R2K1 w - - 2 15,16. Re3 Nd4 -/+
+29,Rde1,d1e1,r4rk1/p3qppp/1pn2n2/2p1p3/2P1b3/1NQ2NP1/PP3PBP/R3R1K1 b - - 3 15,16. Re3 Nd4 -/+
+30,Rad8,a8d8,3r1rk1/p3qppp/1pn2n2/2p1p3/2P1b3/1NQ2NP1/PP3PBP/R3R1K1 w - - 4 16,16. Re3 Nd4 -/+
+31,Nbd2,b3d2,3r1rk1/p3qppp/1pn2n2/2p1p3/2P1b3/2Q2NP1/PP1N1PBP/R3R1K1 b - - 5 16,16. Re3 Nd4 -/+
+32,Rd3,d8d3,5rk1/p3qppp/1pn2n2/2p1p3/2P1b3/2Qr1NP1/PP1N1PBP/R3R1K1 w - - 6 17,Or Bxf3.
+33,Qc1,c3c1,5rk1/p3qppp/1pn2n2/2p1p3/2P1b3/3r1NP1/PP1N1PBP/R1Q1R1K1 b - - 7 17,Or Bxf3.
+34,Bg6,e4g6,5rk1/p3qppp/1pn2nb1/2p1p3/2P5/3r1NP1/PP1N1PBP/R1Q1R1K1 w - - 8 18,Or Bxf3.
+35,Nxe5,f3e5,5rk1/p3qppp/1pn2nb1/2p1N3/2P5/3r2P1/PP1N1PBP/R1Q1R1K1 b - - 0 18,Bad because white is going to have to play f4 allowing black to play Qd7 and Qd4+.    18. Nh4 was best.
+36,Nxe5,c6e5,5rk1/p3qppp/1p3nb1/2p1n3/2P5/3r2P1/PP1N1PBP/R1Q1R1K1 w - - 0 19,The little tiny tactic that gets out of the pin.
+37,f4,f2f4,5rk1/p3qppp/1p3nb1/2p1n3/2P2P2/3r2P1/PP1N2BP/R1Q1R1K1 b - - 0 19,The little tiny tactic that gets out of the pin.
+38,Qd7,e7d7,5rk1/p2q1ppp/1p3nb1/2p1n3/2P2P2/3r2P1/PP1N2BP/R1Q1R1K1 w - - 1 20,The little tiny tactic that gets out of the pin.
+39,fxe5,f4e5,5rk1/p2q1ppp/1p3nb1/2p1P3/2P5/3r2P1/PP1N2BP/R1Q1R1K1 b - - 0 20,Black doesn't have to take right away because of the weakness of the white king.
+40,Qd4+,d7d4,5rk1/p4ppp/1p3nb1/2p1P3/2Pq4/3r2P1/PP1N2BP/R1Q1R1K1 w - - 1 21,Black doesn't have to take right away because of the weakness of the white king.
+41,Kh1,g1h1,5rk1/p4ppp/1p3nb1/2p1P3/2Pq4/3r2P1/PP1N2BP/R1Q1R2K b - - 2 21,Blunder.
+42,Ng4,f6g4,5rk1/p4ppp/1p4b1/2p1P3/2Pq2n1/3r2P1/PP1N2BP/R1Q1R2K w - - 3 22,Blunder.
+43,Ne4,d2e4,5rk1/p4ppp/1p4b1/2p1P3/2PqN1n1/3r2P1/PP4BP/R1Q1R2K b - - 4 22,Blunder.
+44,Bxe4,g6e4,5rk1/p4ppp/1p6/2p1P3/2Pqb1n1/3r2P1/PP4BP/R1Q1R2K w - - 0 23,White resigned here.  But if ...
+45,Bxe4,g2e4,5rk1/p4ppp/1p6/2p1P3/2PqB1n1/3r2P1/PP5P/R1Q1R2K b - - 0 23,23. Rxe4 Nf2+ 24. Kg1 Nxe4+ 25. Kh1 Nf2+ 26. Kg1 Rd1+ 27. Qxd1 Nxd1+ 28. Kh1 Nf2+ 29. Kg1 Nh3+ 30. Kh1 Qg1+ 31. Rxg1 Nf2#
+46,Rd2,d3d2,5rk1/p4ppp/1p6/2p1P3/2PqB1n1/6P1/PP1r3P/R1Q1R2K w - - 1 24,White's position is so bad that the computer prefers giving up the queen with 24. Qxd2.  If instead ...
+47,Bg2,e4g2,5rk1/p4ppp/1p6/2p1P3/2Pq2n1/6P1/PP1r2BP/R1Q1R2K b - - 2 24,Forces checkmate.
+48,Nf2+,g4f2,5rk1/p4ppp/1p6/2p1P3/2Pq4/6P1/PP1r1nBP/R1Q1R2K w - - 3 25,Forces checkmate.
+49,Kg1,h1g1,5rk1/p4ppp/1p6/2p1P3/2Pq4/6P1/PP1r1nBP/R1Q1R1K1 b - - 4 25,Philidor's mate.
+50,Nh3+,f2h3,5rk1/p4ppp/1p6/2p1P3/2Pq4/6Pn/PP1r2BP/R1Q1R1K1 w - - 5 26,Philidor's mate.
+51,Kh1,g1h1,5rk1/p4ppp/1p6/2p1P3/2Pq4/6Pn/PP1r2BP/R1Q1R2K b - - 6 26,Philidor's mate.
+52,Qg1+,d4g1,5rk1/p4ppp/1p6/2p1P3/2P5/6Pn/PP1r2BP/R1Q1R1qK w - - 7 27,Philidor's mate.
+53,Rxg1,e1g1,5rk1/p4ppp/1p6/2p1P3/2P5/6Pn/PP1r2BP/R1Q3RK b - - 0 27,Philidor's mate.
+54,Nf2#,h3f2,5rk1/p4ppp/1p6/2p1P3/2P5/6P1/PP1r1nBP/R1Q3RK w - - 1 28,Philidor's mate.

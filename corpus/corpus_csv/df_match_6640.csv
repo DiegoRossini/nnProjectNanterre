@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,"The game starts with c2-c4, the English opening, a threatening move to black."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,I countered this with the c7-c6 as if d2-d3 happened I could support d7-d5 keep my share of the centre.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"Unless black goes d7-d5 it is a sticky situation, as white has control of the centre."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,d4-d5
+5,c5,c4c5,rnbqkbnr/pp2pppp/2p5/2Pp4/3P4/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,Reinforcing d5.
+6,e6,e7e6,rnbqkbnr/pp3ppp/2p1p3/2Pp4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Reinforcing d5.
+7,Nc3,b1c3,rnbqkbnr/pp3ppp/2p1p3/2Pp4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4,Nc3.
+8,Nf6,g8f6,rnbqkb1r/pp3ppp/2p1pn2/2Pp4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 5,Starting to develop the board.
+9,Nf3,g1f3,rnbqkb1r/pp3ppp/2p1pn2/2Pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 5,Nf3.
+10,b5,b7b5,rnbqkb1r/p4ppp/2p1pn2/1pPp4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq b6 0 6,Starting to advance my pawns
+11,a3,a2a3,rnbqkb1r/p4ppp/2p1pn2/1pPp4/3P4/P1N2N2/1P2PPPP/R1BQKB1R b KQkq - 0 6,a3.
+12,Be7,f8e7,rnbqk2r/p3bppp/2p1pn2/1pPp4/3P4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 7,Reinforcing f6.
+13,b4,b2b4,rnbqk2r/p3bppp/2p1pn2/1pPp4/1P1P4/P1N2N2/4PPPP/R1BQKB1R b KQkq - 0 7,"b4, blocking the pawn on b5 to advance and threaten knight."
+14,a5,a7a5,rnbqk2r/4bppp/2p1pn2/ppPp4/1P1P4/P1N2N2/4PPPP/R1BQKB1R w KQkq - 0 8,a5 challenging the pawn on a5.
+15,Bf4,c1f4,rnbqk2r/4bppp/2p1pn2/ppPp4/1P1P1B2/P1N2N2/4PPPP/R2QKB1R b KQkq - 1 8,Bishop is brought out to attack the knight on b8 making my rook take in leaving the pawn on b5 open to attack.
+16,Ne4,f6e4,rnbqk2r/4bppp/2p1p3/ppPp4/1P1PnB2/P1N2N2/4PPPP/R2QKB1R w KQkq - 2 9,"Knight is creating a threat, Nc3 can take it or move.  Then  d5-e4 would happen attacking the knight on f3 giving black an move to develop."
+17,Nxe4,c3e4,rnbqk2r/4bppp/2p1p3/ppPp4/1P1PNB2/P4N2/4PPPP/R2QKB1R b KQkq - 0 9,The pawn takes e4 endangering the knight.
+18,dxe4,d5e4,rnbqk2r/4bppp/2p1p3/ppP5/1P1PpB2/P4N2/4PPPP/R2QKB1R w KQkq - 0 10,The pawn takes e4 endangering the knight.
+19,Nd2,f3d2,rnbqk2r/4bppp/2p1p3/ppP5/1P1PpB2/P7/3NPPPP/R2QKB1R b KQkq - 1 10,"The knight retreats, leaving a isolated pawn on e4."
+20,Qxd4,d8d4,rnb1k2r/4bppp/2p1p3/ppP5/1P1qpB2/P7/3NPPPP/R2QKB1R w KQkq - 0 11,"Queen takes the free pawn. Securing the pawn on e4 therefore next move would be e4-e3 if bxb8 then rxb8, happened."
+21,Bxb8,f4b8,rBb1k2r/4bppp/2p1p3/ppP5/1P1qp3/P7/3NPPPP/R2QKB1R b KQkq - 0 11,White trades bishop for knight.
+22,Rxb8,a8b8,1rb1k2r/4bppp/2p1p3/ppP5/1P1qp3/P7/3NPPPP/R2QKB1R w KQk - 0 12,a1-b1 leaving the pawn on c5 unprotected.

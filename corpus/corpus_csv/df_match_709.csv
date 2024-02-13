@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,Draws the queen out early.
+3,cxd5,c4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PP1PPPPP/RNBQKBNR b KQkq - 0 2,Draws the queen out early.
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PP1PPPPP/RNBQKBNR w KQkq - 0 3,Draws the queen out early.
+5,Nc3,b1c3,rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 3,Pe4 is covered by Nc3 and won't bury the black bishop.
+6,Qe6,d5e6,rnb1kbnr/ppp1pppp/4q3/8/8/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 4,Pe4 is covered by Nc3 and won't bury the black bishop.
+7,e3,e2e3,rnb1kbnr/ppp1pppp/4q3/8/8/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 4,Pe4 is covered by Nc3 and won't bury the black bishop.
+8,Nf6,g8f6,rnb1kb1r/ppp1pppp/4qn2/8/8/2N1P3/PP1P1PPP/R1BQKBNR w KQkq - 1 5,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+9,Bb5+,f1b5,rnb1kb1r/ppp1pppp/4qn2/1B6/8/2N1P3/PP1P1PPP/R1BQK1NR b KQkq - 2 5,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+10,Bd7,c8d7,rn2kb1r/pppbpppp/4qn2/1B6/8/2N1P3/PP1P1PPP/R1BQK1NR w KQkq - 3 6,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+11,a4,a2a4,rn2kb1r/pppbpppp/4qn2/1B6/P7/2N1P3/1P1P1PPP/R1BQK1NR b KQkq - 0 6,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+12,Bxb5,d7b5,rn2kb1r/ppp1pppp/4qn2/1b6/P7/2N1P3/1P1P1PPP/R1BQK1NR w KQkq - 0 7,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+13,axb5,a4b5,rn2kb1r/ppp1pppp/4qn2/1P6/8/2N1P3/1P1P1PPP/R1BQK1NR b KQkq - 0 7,"NxPb5 instead sets up a lovely king/queen/rook fork.  Black can defend against it, but white retains mobility."
+14,Nbd7,b8d7,r3kb1r/pppnpppp/4qn2/1P6/8/2N1P3/1P1P1PPP/R1BQK1NR w KQkq - 1 8,"It seems a little early for advancing rooks.  Nf3 instead sets up O-O and can launch attacks against the queen.  When the queen is out, she can be chaste while the opposing team develops."
+15,Ra4,a1a4,r3kb1r/pppnpppp/4qn2/1P6/R7/2N1P3/1P1P1PPP/2BQK1NR b Kkq - 2 8,"It seems a little early for advancing rooks.  Nf3 instead sets up O-O and can launch attacks against the queen.  When the queen is out, she can be chaste while the opposing team develops."
+16,Nc5,d7c5,r3kb1r/ppp1pppp/4qn2/1Pn5/R7/2N1P3/1P1P1PPP/2BQK1NR w Kkq - 3 9,Yikes!  Nd3+ gives black that rook.  This illustrates a weakness in early rook deployment.
+17,Rf4,a4f4,r3kb1r/ppp1pppp/4qn2/1Pn5/5R2/2N1P3/1P1P1PPP/2BQK1NR b Kkq - 4 9,Yikes!  Nd3+ gives black that rook.  This illustrates a weakness in early rook deployment.
+18,Nd3+,c5d3,r3kb1r/ppp1pppp/4qn2/1P6/5R2/2NnP3/1P1P1PPP/2BQK1NR w Kkq - 5 10,"Nf3 is undefended, as in QxNf3."
+19,Kf1,e1f1,r3kb1r/ppp1pppp/4qn2/1P6/5R2/2NnP3/1P1P1PPP/2BQ1KNR b kq - 6 10,"Nf3 is undefended, as in QxNf3."
+20,Nxf4,d3f4,r3kb1r/ppp1pppp/4qn2/1P6/5n2/2N1P3/1P1P1PPP/2BQ1KNR w kq - 0 11,"Nf3 is undefended, as in QxNf3."
+21,exf4,e3f4,r3kb1r/ppp1pppp/4qn2/1P6/5P2/2N5/1P1P1PPP/2BQ1KNR b kq - 0 11,"Nf3 is undefended, as in QxNf3."
+22,Qf5,e6f5,r3kb1r/ppp1pppp/5n2/1P3q2/5P2/2N5/1P1P1PPP/2BQ1KNR w kq - 1 12,"Nf3 is undefended, as in QxNf3."
+23,g3,g2g3,r3kb1r/ppp1pppp/5n2/1P3q2/5P2/2N3P1/1P1P1P1P/2BQ1KNR b kq - 0 12,"Nf3 is undefended, as in QxNf3."
+24,e5,e7e5,r3kb1r/ppp2ppp/5n2/1P2pq2/5P2/2N3P1/1P1P1P1P/2BQ1KNR w kq - 0 13,"Nf3 is undefended, as in QxNf3."
+25,Qe1,d1e1,r3kb1r/ppp2ppp/5n2/1P2pq2/5P2/2N3P1/1P1P1P1P/2B1QKNR b kq - 1 13,"Nf3 is undefended, as in QxNf3."
+26,O-O-O,e8c8,2kr1b1r/ppp2ppp/5n2/1P2pq2/5P2/2N3P1/1P1P1P1P/2B1QKNR w - - 2 14,"Nf3 is undefended, as in QxNf3."
+27,b6,b5b6,2kr1b1r/ppp2ppp/1P3n2/4pq2/5P2/2N3P1/1P1P1P1P/2B1QKNR b - - 0 14,"Nf3 is undefended, as in QxNf3."
+28,axb6,a7b6,2kr1b1r/1pp2ppp/1p3n2/4pq2/5P2/2N3P1/1P1P1P1P/2B1QKNR w - - 0 15,"Nf3 is undefended, as in QxNf3."
+29,Nf3,g1f3,2kr1b1r/1pp2ppp/1p3n2/4pq2/5P2/2N2NP1/1P1P1P1P/2B1QK1R b - - 1 15,"Nf3 is undefended, as in QxNf3."
+30,exf4,e5f4,2kr1b1r/1pp2ppp/1p3n2/5q2/5p2/2N2NP1/1P1P1P1P/2B1QK1R w - - 0 16,"Nf3 is undefended, as in QxNf3."
+31,gxf4,g3f4,2kr1b1r/1pp2ppp/1p3n2/5q2/5P2/2N2N2/1P1P1P1P/2B1QK1R b - - 0 16,"Nf3 is undefended, as in QxNf3."
+32,Qxf4,f5f4,2kr1b1r/1pp2ppp/1p3n2/8/5q2/2N2N2/1P1P1P1P/2B1QK1R w - - 0 17,"Nf3 is undefended, as in QxNf3."
+33,Ne2,c3e2,2kr1b1r/1pp2ppp/1p3n2/8/5q2/5N2/1P1PNP1P/2B1QK1R b - - 1 17,"Nf3 is undefended, as in QxNf3."
+34,Qc4,f4c4,2kr1b1r/1pp2ppp/1p3n2/8/2q5/5N2/1P1PNP1P/2B1QK1R w - - 2 18,Nice.  NxPf7 forks the rooks.
+35,Kg2,f1g2,2kr1b1r/1pp2ppp/1p3n2/8/2q5/5N2/1P1PNPKP/2B1Q2R b - - 3 18,Nice.  NxPf7 forks the rooks.
+36,Qg4+,c4g4,2kr1b1r/1pp2ppp/1p3n2/8/6q1/5N2/1P1PNPKP/2B1Q2R w - - 4 19,Nice.  NxPf7 forks the rooks.
+37,Ng3,e2g3,2kr1b1r/1pp2ppp/1p3n2/8/6q1/5NN1/1P1P1PKP/2B1Q2R b - - 5 19,Nice.  NxPf7 forks the rooks.
+38,Bb4,f8b4,2kr3r/1pp2ppp/1p3n2/8/1b4q1/5NN1/1P1P1PKP/2B1Q2R w - - 6 20,Nice.  NxPf7 forks the rooks.
+39,Ne5,f3e5,2kr3r/1pp2ppp/1p3n2/4N3/1b4q1/6N1/1P1P1PKP/2B1Q2R b - - 7 20,Nice.  NxPf7 forks the rooks.
+40,Qe6,g4e6,2kr3r/1pp2ppp/1p2qn2/4N3/1b6/6N1/1P1P1PKP/2B1Q2R w - - 8 21,Black counters that threat.
+41,Qe2,e1e2,2kr3r/1pp2ppp/1p2qn2/4N3/1b6/6N1/1P1PQPKP/2B4R b - - 9 21,23 QxB2 withdraws support from Ne5.  White is ill advised to propose even material exchanges.
+42,Rd4,d8d4,2k4r/1pp2ppp/1p2qn2/4N3/1b1r4/6N1/1P1PQPKP/2B4R w - - 10 22,23 QxB2 withdraws support from Ne5.  White is ill advised to propose even material exchanges.
+43,d3,d2d3,2k4r/1pp2ppp/1p2qn2/4N3/1b1r4/3P2N1/1P2QPKP/2B4R b - - 0 22,23 QxB2 withdraws support from Ne5.  White is ill advised to propose even material exchanges.
+44,Re8,h8e8,2k1r3/1pp2ppp/1p2qn2/4N3/1b1r4/3P2N1/1P2QPKP/2B4R w - - 1 23,23 QxB2 withdraws support from Ne5.  White is ill advised to propose even material exchanges.
+45,Bd2,c1d2,2k1r3/1pp2ppp/1p2qn2/4N3/1b1r4/3P2N1/1P1BQPKP/7R b - - 2 23,23 QxB2 withdraws support from Ne5.  White is ill advised to propose even material exchanges.
+46,Bxd2,b4d2,2k1r3/1pp2ppp/1p2qn2/4N3/3r4/3P2N1/1P1bQPKP/7R w - - 0 24,"QxR, QxR, RxQ, and black picks up d & b pawns at leisure."
+47,Qxd2,e2d2,2k1r3/1pp2ppp/1p2qn2/4N3/3r4/3P2N1/1P1Q1PKP/7R b - - 0 24,"QxR, QxR, RxQ, and black picks up d & b pawns at leisure."
+48,Qxe5,e6e5,2k1r3/1pp2ppp/1p3n2/4q3/3r4/3P2N1/1P1Q1PKP/7R w - - 0 25,"QxR, QxR, RxQ, and black picks up d & b pawns at leisure."
+49,Re1,h1e1,2k1r3/1pp2ppp/1p3n2/4q3/3r4/3P2N1/1P1Q1PKP/4R3 b - - 1 25,"QxR, QxR, RxQ, and black picks up d & b pawns at leisure."
+50,Qb5,e5b5,2k1r3/1pp2ppp/1p3n2/1q6/3r4/3P2N1/1P1Q1PKP/4R3 w - - 2 26,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+51,Re3,e1e3,2k1r3/1pp2ppp/1p3n2/1q6/3r4/3PR1N1/1P1Q1PKP/8 b - - 3 26,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+52,Red8,e8d8,2kr4/1pp2ppp/1p3n2/1q6/3r4/3PR1N1/1P1Q1PKP/8 w - - 4 27,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+53,Re1,e3e1,2kr4/1pp2ppp/1p3n2/1q6/3r4/3P2N1/1P1Q1PKP/4R3 b - - 5 27,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+54,Rd4xd3,d4d3,2kr4/1pp2ppp/1p3n2/1q6/8/3r2N1/1P1Q1PKP/4R3 w - - 0 28,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+55,Qc2,d2c2,2kr4/1pp2ppp/1p3n2/1q6/8/3r2N1/1PQ2PKP/4R3 b - - 1 28,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+56,c6,c7c6,2kr4/1p3ppp/1pp2n2/1q6/8/3r2N1/1PQ2PKP/4R3 w - - 0 29,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+57,Re3,e1e3,2kr4/1p3ppp/1pp2n2/1q6/8/3rR1N1/1PQ2PKP/8 b - - 1 29,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+58,Rd3d2,d3d2,2kr4/1p3ppp/1pp2n2/1q6/8/4R1N1/1PQr1PKP/8 w - - 2 30,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+59,Ra3,e3a3,2kr4/1p3ppp/1pp2n2/1q6/8/R5N1/1PQr1PKP/8 b - - 3 30,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+60,Rxc2,d2c2,2kr4/1p3ppp/1pp2n2/1q6/8/R5N1/1Pr2PKP/8 w - - 0 31,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+61,Ra8+,a3a8,R1kr4/1p3ppp/1pp2n2/1q6/8/6N1/1Pr2PKP/8 b - - 1 31,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+62,Kc7,c8c7,R2r4/1pk2ppp/1pp2n2/1q6/8/6N1/1Pr2PKP/8 w - - 2 32,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+63,Ra3,a8a3,3r4/1pk2ppp/1pp2n2/1q6/8/R5N1/1Pr2PKP/8 b - - 3 32,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+64,Qxb2,b5b2,3r4/1pk2ppp/1pp2n2/8/8/R5N1/1qr2PKP/8 w - - 0 33,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+65,Rf3,a3f3,3r4/1pk2ppp/1pp2n2/8/8/5RN1/1qr2PKP/8 b - - 1 33,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+66,Rd1,d8d1,8/1pk2ppp/1pp2n2/8/8/5RN1/1qr2PKP/3r4 w - - 2 34,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+67,Kh3,g2h3,8/1pk2ppp/1pp2n2/8/8/5RNK/1qr2P1P/3r4 b - - 3 34,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+68,g5,g7g5,8/1pk2p1p/1pp2n2/6p1/8/5RNK/1qr2P1P/3r4 w - - 0 35,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+69,Rf5,f3f5,8/1pk2p1p/1pp2n2/5Rp1/8/6NK/1qr2P1P/3r4 b - - 1 35,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+70,Nd5,f6d5,8/1pk2p1p/1pp5/3n1Rp1/8/6NK/1qr2P1P/3r4 w - - 2 36,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."
+71,Rxf7+,f5f7,8/1pk2R1p/1pp5/3n2p1/8/6NK/1qr2P1P/3r4 b - - 0 36,"Black's resignation makes little sense, save that the IHS team may have already won three so the outcome here was irrelevant. A quick end might help them jockey for position on the ladder, while suppressing Letiana's rating, making it easier to match her against weaker players."

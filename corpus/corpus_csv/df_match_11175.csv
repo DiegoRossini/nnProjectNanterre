@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"e4, claiming some central squares and allowing the rapid development of the bishop and queen."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Claiming some space in the centre. I don't like to play the Sicilian, as I'm not entirely sure what I should be doing, and sometimes suffer because of this."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Attacking the pawn.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Defending my pawn - I expected a Ruy Lopez (Spanish Game)
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,"I prefer Bb5 - given the opportunity, why not play the Ruy Lopez?"
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"White's knight prevents the advance of the c-pawn, making d4 difficult.
+Attacking the e4 pawn (and so preventing the knight from moving)"
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,Not as strong as on the 3rd move.
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"allowing the pin, but protecting the e pawn and threatening Bg4"
+9,d4,d2d4,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 5,"threatening d5, and my knight is pinned (and lost)"
+10,Bd7,c8d7,r2qkb1r/pppb1ppp/2np1n2/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 1 6,un-pinning the knight and possibly preparing 0-0-0
+11,Bc4,b5c4,r2qkb1r/pppb1ppp/2np1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 2 6,Attacking f7
+12,exd4,e5d4,r2qkb1r/pppb1ppp/2np1n2/8/2BpP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 7,I decide to exchange on d4
+13,Nxd4,f3d4,r2qkb1r/pppb1ppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 7,The exchange of knights is forced
+14,Nxd4,c6d4,r2qkb1r/pppb1ppp/3p1n2/8/2BnP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 8,Eliminating the knight
+15,Qxd4,d1d4,r2qkb1r/pppb1ppp/3p1n2/8/2BQP3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 8,The queen could be vunerable here - but then c5 would be ugly
+16,Be7,f8e7,r2qk2r/pppbbppp/3p1n2/8/2BQP3/2N5/PPP2PPP/R1B1K2R w KQkq - 1 9,preparing to 0-0 - although this is prevented by white's next move
+17,Bxf7+,c4f7,r2qk2r/pppbbBpp/3p1n2/8/3QP3/2N5/PPP2PPP/R1B1K2R b KQkq - 0 9,"My bishops may be passive at the moment, but white threatens nothing"
+18,Kxf7,e8f7,r2q3r/pppbbkpp/3p1n2/8/3QP3/2N5/PPP2PPP/R1B1K2R w KQ - 0 10,His attack is not worth the bishop
+19,Bg5,c1g5,r2q3r/pppbbkpp/3p1n2/6B1/3QP3/2N5/PPP2PPP/R3K2R b KQ - 1 10,Preparing to castle 0-0-0 ?
+20,Rf8,h8f8,r2q1r2/pppbbkpp/3p1n2/6B1/3QP3/2N5/PPP2PPP/R3K2R w KQ - 2 11,I castle 'by hand'

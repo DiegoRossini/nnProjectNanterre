@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"My typical questionable move, that provides a square for the bishop to retire, supports an early g4, which denies f5 to the black's dsb... if e3, Nh4 and my dsb will be exchanged. It is not a catastrophe, but I don't like it."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"My typical questionable move, that provides a square for the bishop to retire, supports an early g4, which denies f5 to the black's dsb... if e3, Nh4 and my dsb will be exchanged. It is not a catastrophe, but I don't like it."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"My typical questionable move, that provides a square for the bishop to retire, supports an early g4, which denies f5 to the black's dsb... if e3, Nh4 and my dsb will be exchanged. It is not a catastrophe, but I don't like it."
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,"My typical questionable move, that provides a square for the bishop to retire, supports an early g4, which denies f5 to the black's dsb... if e3, Nh4 and my dsb will be exchanged. It is not a catastrophe, but I don't like it."
+5,h3,h2h3,rnbqkb1r/pppppp1p/5np1/8/3P1B2/7P/PPP1PPP1/RN1QKBNR b KQkq - 0 3,"My typical questionable move, that provides a square for the bishop to retire, supports an early g4, which denies f5 to the black's dsb... if e3, Nh4 and my dsb will be exchanged. It is not a catastrophe, but I don't like it."
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/3P1B2/7P/PPP1PPP1/RN1QKBNR w KQkq - 1 4,"The typical c4 allows black counterplay on the diagonal. I want to solid block the queenside and attack on the kingside. I'm a little ""naive"" here, since black can calmly develop and wait. A queenside castling could be advisable later."
+7,c3,c2c3,rnbqk2r/ppppppbp/5np1/8/3P1B2/2P4P/PP2PPP1/RN1QKBNR b KQkq - 0 4,"The typical c4 allows black counterplay on the diagonal. I want to solid block the queenside and attack on the kingside. I'm a little ""naive"" here, since black can calmly develop and wait. A queenside castling could be advisable later."
+8,d5,d7d5,rnbqk2r/ppp1ppbp/5np1/3p4/3P1B2/2P4P/PP2PPP1/RN1QKBNR w KQkq - 0 5,"No bf4. Plus, a pawn's storm project on the kingside."
+9,g4,g2g4,rnbqk2r/ppp1ppbp/5np1/3p4/3P1BP1/2P4P/PP2PP2/RN1QKBNR b KQkq - 0 5,"No bf4. Plus, a pawn's storm project on the kingside."
+10,Nc6,b8c6,r1bqk2r/ppp1ppbp/2n2np1/3p4/3P1BP1/2P4P/PP2PP2/RN1QKBNR w KQkq - 1 6,"Losing flexibility. c5 is a move black should have in mind all the time, specially if he wants to castle kingside disregarding the white clouds approaching."
+11,e3,e2e3,r1bqk2r/ppp1ppbp/2n2np1/3p4/3P1BP1/2P1P2P/PP3P2/RN1QKBNR b KQkq - 0 6,"In order to advance g5, I have to make impossible for the knight to go to h4."
+12,O-O,e8g8,r1bq1rk1/ppp1ppbp/2n2np1/3p4/3P1BP1/2P1P2P/PP3P2/RN1QKBNR w KQ - 1 7,"Black seems to be ok, but in fact he is not. Black's lsb has just d7, and the queen cannot move."
+13,Be2,f1e2,r1bq1rk1/ppp1ppbp/2n2np1/3p4/3P1BP1/2P1P2P/PP2BP2/RN1QK1NR b KQ - 2 7,"Now, no Nh4. It can go to e, but I have to accept it."
+14,Re8,f8e8,r1bqr1k1/ppp1ppbp/2n2np1/3p4/3P1BP1/2P1P2P/PP2BP2/RN1QK1NR w KQ - 3 8,"Preparing a break on e5, of course."
+15,g5,g4g5,r1bqr1k1/ppp1ppbp/2n2np1/3p2P1/3P1B2/2P1P2P/PP2BP2/RN1QK1NR b KQ - 0 8,"This allows Bf5, but I want to attack."
+16,Ne4,f6e4,r1bqr1k1/ppp1ppbp/2n3p1/3p2P1/3PnB2/2P1P2P/PP2BP2/RN1QK1NR w KQ - 1 9,"Despite its prominency, this knight is not all that strong here, unless black manages to sac it. But he has no play on the dark squares..."
+17,Nf3,g1f3,r1bqr1k1/ppp1ppbp/2n3p1/3p2P1/3PnB2/2P1PN1P/PP2BP2/RN1QK2R b KQ - 2 9,Helping e5.
+18,Bd7,c8d7,r2qr1k1/pppbppbp/2n3p1/3p2P1/3PnB2/2P1PN1P/PP2BP2/RN1QK2R w KQ - 3 10,"Good, black has not a plan. As you can see, this move doesn't solve anything to black."
+19,h4,h3h4,r2qr1k1/pppbppbp/2n3p1/3p2P1/3PnB1P/2P1PN2/PP2BP2/RN1QK2R b KQ - 0 10,"Thinking on h5, of course. But it has the offside that allows..."
+20,Bg4,d7g4,r2qr1k1/ppp1ppbp/2n3p1/3p2P1/3PnBbP/2P1PN2/PP2BP2/RN1QK2R w KQ - 1 11,"Nb-d2 was ok, but I wanted to manage the situation in another way."
+21,Nh2,f3h2,r2qr1k1/ppp1ppbp/2n3p1/3p2P1/3PnBbP/2P1P3/PP2BP1N/RN1QK2R b KQ - 2 11,"...but in the meanwhile, I forgot about the e5 push blacks were preparing. And now, this is really dangerous, since I have a rook in front my queen and king."
+22,Bxe2,g4e2,r2qr1k1/ppp1ppbp/2n3p1/3p2P1/3PnB1P/2P1P3/PP2bP1N/RN1QK2R w KQ - 0 12,"...but in the meanwhile, I forgot about the e5 push blacks were preparing. And now, this is really dangerous, since I have a rook in front my queen and king."
+23,Qxe2,d1e2,r2qr1k1/ppp1ppbp/2n3p1/3p2P1/3PnB1P/2P1P3/PP2QP1N/RN2K2R b KQ - 0 12,"...but in the meanwhile, I forgot about the e5 push blacks were preparing. And now, this is really dangerous, since I have a rook in front my queen and king."
+24,e5,e7e5,r2qr1k1/ppp2pbp/2n3p1/3pp1P1/3PnB1P/2P1P3/PP2QP1N/RN2K2R w KQ - 0 13,"...but in the meanwhile, I forgot about the e5 push blacks were preparing. And now, this is really dangerous, since I have a rook in front my queen and king."
+25,Bg3,f4g3,r2qr1k1/ppp2pbp/2n3p1/3pp1P1/3Pn2P/2P1P1B1/PP2QP1N/RN2K2R b KQ - 1 13,Stay calm. Nh2 covers the nasty fork.
+26,Nxg3,e4g3,r2qr1k1/ppp2pbp/2n3p1/3pp1P1/3P3P/2P1P1n1/PP2QP1N/RN2K2R w KQ - 0 14,Stay calm. Nh2 covers the nasty fork.
+27,fxg3,f2g3,r2qr1k1/ppp2pbp/2n3p1/3pp1P1/3P3P/2P1P1P1/PP2Q2N/RN2K2R b KQ - 0 14,Stay calm. Nh2 covers the nasty fork.
+28,exd4,e5d4,r2qr1k1/ppp2pbp/2n3p1/3p2P1/3p3P/2P1P1P1/PP2Q2N/RN2K2R w KQ - 0 15,Stay calm. Nh2 covers the nasty fork.
+29,cxd4,c3d4,r2qr1k1/ppp2pbp/2n3p1/3p2P1/3P3P/4P1P1/PP2Q2N/RN2K2R b KQ - 0 15,Stay calm. Nh2 covers the nasty fork.
+30,Nxd4,c6d4,r2qr1k1/ppp2pbp/6p1/3p2P1/3n3P/4P1P1/PP2Q2N/RN2K2R w KQ - 0 16,Stay calm. Nh2 covers the nasty fork.
+31,Qd2,e2d2,r2qr1k1/ppp2pbp/6p1/3p2P1/3n3P/4P1P1/PP1Q3N/RN2K2R b KQ - 1 16,Stay calm. Nh2 covers the nasty fork.
+32,Nc6,d4c6,r2qr1k1/ppp2pbp/2n3p1/3p2P1/7P/4P1P1/PP1Q3N/RN2K2R w KQ - 2 17,"No need to take back the knight, since I still have to move my king. But where? I saw that after Nc3, d5 was very dangerous. So I opted for quickness..."
+33,O-O,e1g1,r2qr1k1/ppp2pbp/2n3p1/3p2P1/7P/4P1P1/PP1Q3N/RN3RK1 b - - 3 17,Aiming to g3.
+34,Qd6,d8d6,r3r1k1/ppp2pbp/2nq2p1/3p2P1/7P/4P1P1/PP1Q3N/RN3RK1 w - - 4 18,Aiming to g3.
+35,Qf2,d2f2,r3r1k1/ppp2pbp/2nq2p1/3p2P1/7P/4P1P1/PP3Q1N/RN3RK1 b - - 5 18,"Counterattacking on f7. This is hardly a threat, since I need more strenght to break in, but still gives black something to think about."
+36,Ne5,c6e5,r3r1k1/ppp2pbp/3q2p1/3pn1P1/7P/4P1P1/PP3Q1N/RN3RK1 w - - 6 19,Building pressure for both sides.
+37,Nc3,b1c3,r3r1k1/ppp2pbp/3q2p1/3pn1P1/7P/2N1P1P1/PP3Q1N/R4RK1 b - - 7 19,Building pressure for both sides.
+38,Re7,e8e7,r5k1/ppp1rpbp/3q2p1/3pn1P1/7P/2N1P1P1/PP3Q1N/R4RK1 w - - 8 20,Building pressure for both sides.
+39,Rad1,a1d1,r5k1/ppp1rpbp/3q2p1/3pn1P1/7P/2N1P1P1/PP3Q1N/3R1RK1 b - - 9 20,Building pressure for both sides.

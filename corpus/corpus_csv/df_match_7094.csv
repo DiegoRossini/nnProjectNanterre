@@ -1,0 +1,84 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"White is forced to retreat, losing development."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"White is forced to retreat, losing development."
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"White is forced to retreat, losing development."
+4,Qe7,d8e7,rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"White is forced to retreat, losing development."
+5,Nc3,b1c3,rnb1kbnr/ppppqppp/8/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR b KQkq - 3 3,"White is forced to retreat, losing development."
+6,Nf6,g8f6,rnb1kb1r/ppppqppp/5n2/4p2Q/4P3/2N5/PPPP1PPP/R1B1KBNR w KQkq - 4 4,"White is forced to retreat, losing development."
+7,Qf3,h5f3,rnb1kb1r/ppppqppp/5n2/4p3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 5 4,"White is forced to retreat, losing development."
+8,Nc6,b8c6,r1b1kb1r/ppppqppp/2n2n2/4p3/4P3/2N2Q2/PPPP1PPP/R1B1KBNR w KQkq - 6 5,"White is forced to retreat, losing development."
+9,d3,d2d3,r1b1kb1r/ppppqppp/2n2n2/4p3/4P3/2NP1Q2/PPP2PPP/R1B1KBNR b KQkq - 0 5,Threatens the queen and a knight fork at the same time.
+10,Nd4,c6d4,r1b1kb1r/ppppqppp/5n2/4p3/3nP3/2NP1Q2/PPP2PPP/R1B1KBNR w KQkq - 1 6,Threatens the queen and a knight fork at the same time.
+11,Qd1,f3d1,r1b1kb1r/ppppqppp/5n2/4p3/3nP3/2NP4/PPP2PPP/R1BQKBNR b KQkq - 2 6,"The bishop is stopped, but the pawn structure is off."
+12,c6,c7c6,r1b1kb1r/pp1pqppp/2p2n2/4p3/3nP3/2NP4/PPP2PPP/R1BQKBNR w KQkq - 0 7,"The bishop is stopped, but the pawn structure is off."
+13,Be3,c1e3,r1b1kb1r/pp1pqppp/2p2n2/4p3/3nP3/2NPB3/PPP2PPP/R2QKBNR b KQkq - 1 7,"The bishop is stopped, but the pawn structure is off."
+14,d5,d7d5,r1b1kb1r/pp2qppp/2p2n2/3pp3/3nP3/2NPB3/PPP2PPP/R2QKBNR w KQkq - 0 8,"The bishop is stopped, but the pawn structure is off."
+15,Nf3,g1f3,r1b1kb1r/pp2qppp/2p2n2/3pp3/3nP3/2NPBN2/PPP2PPP/R2QKB1R b KQkq - 1 8,"The bishop is stopped, but the pawn structure is off."
+16,Bg4,c8g4,r3kb1r/pp2qppp/2p2n2/3pp3/3nP1b1/2NPBN2/PPP2PPP/R2QKB1R w KQkq - 2 9,"The bishop is stopped, but the pawn structure is off."
+17,h3,h2h3,r3kb1r/pp2qppp/2p2n2/3pp3/3nP1b1/2NPBN1P/PPP2PP1/R2QKB1R b KQkq - 0 9,"The bishop is stopped, but the pawn structure is off."
+18,Bxf3,g4f3,r3kb1r/pp2qppp/2p2n2/3pp3/3nP3/2NPBb1P/PPP2PP1/R2QKB1R w KQkq - 0 10,"The bishop is stopped, but the pawn structure is off."
+19,gxf3,g2f3,r3kb1r/pp2qppp/2p2n2/3pp3/3nP3/2NPBP1P/PPP2P2/R2QKB1R b KQkq - 0 10,"The bishop is stopped, but the pawn structure is off."
+20,Nb5,d4b5,r3kb1r/pp2qppp/2p2n2/1n1pp3/4P3/2NPBP1P/PPP2P2/R2QKB1R w KQkq - 1 11,"Strange move. I made it, and I don't know why."
+21,Nxb5,c3b5,r3kb1r/pp2qppp/2p2n2/1N1pp3/4P3/3PBP1P/PPP2P2/R2QKB1R b KQkq - 0 11,"Strange move. I made it, and I don't know why."
+22,d4,d5d4,r3kb1r/pp2qppp/2p2n2/1N2p3/3pP3/3PBP1P/PPP2P2/R2QKB1R w KQkq - 0 12,"Strange move. I made it, and I don't know why."
+23,Bxd4,e3d4,r3kb1r/pp2qppp/2p2n2/1N2p3/3BP3/3P1P1P/PPP2P2/R2QKB1R b KQkq - 0 12,"Strange move. I made it, and I don't know why."
+24,exd4,e5d4,r3kb1r/pp2qppp/2p2n2/1N6/3pP3/3P1P1P/PPP2P2/R2QKB1R w KQkq - 0 13,The idea is Nxg7.
+25,Nxd4,b5d4,r3kb1r/pp2qppp/2p2n2/8/3NP3/3P1P1P/PPP2P2/R2QKB1R b KQkq - 0 13,The idea is Nxg7.
+26,Qd7,e7d7,r3kb1r/pp1q1ppp/2p2n2/8/3NP3/3P1P1P/PPP2P2/R2QKB1R w KQkq - 1 14,The idea is Nxg7.
+27,c3,c2c3,r3kb1r/pp1q1ppp/2p2n2/8/3NP3/2PP1P1P/PP3P2/R2QKB1R b KQkq - 0 14,The idea is Nxg7.
+28,Bd6,f8d6,r3k2r/pp1q1ppp/2pb1n2/8/3NP3/2PP1P1P/PP3P2/R2QKB1R w KQkq - 1 15,The idea is Nxg7.
+29,Nf5,d4f5,r3k2r/pp1q1ppp/2pb1n2/5N2/4P3/2PP1P1P/PP3P2/R2QKB1R b KQkq - 2 15,The idea is Nxg7.
+30,O-O,e8g8,r4rk1/pp1q1ppp/2pb1n2/5N2/4P3/2PP1P1P/PP3P2/R2QKB1R w KQ - 3 16,"Nh6!+  Check, and the discovered threat to the queen."
+31,h4,h3h4,r4rk1/pp1q1ppp/2pb1n2/5N2/4P2P/2PP1P2/PP3P2/R2QKB1R b KQ - 0 16,"Nh6!+  Check, and the discovered threat to the queen."
+32,Bf4,d6f4,r4rk1/pp1q1ppp/2p2n2/5N2/4Pb1P/2PP1P2/PP3P2/R2QKB1R w KQ - 1 17,"Nh6!+  Check, and the discovered threat to the queen."
+33,Bh3,f1h3,r4rk1/pp1q1ppp/2p2n2/5N2/4Pb1P/2PP1P1B/PP3P2/R2QK2R b KQ - 2 17,"Nh6!+  Check, and the discovered threat to the queen."
+34,g6,g7g6,r4rk1/pp1q1p1p/2p2np1/5N2/4Pb1P/2PP1P1B/PP3P2/R2QK2R w KQ - 0 18,"Nh6!+  Check, and the discovered threat to the queen."
+35,Nh6+,f5h6,r4rk1/pp1q1p1p/2p2npN/8/4Pb1P/2PP1P1B/PP3P2/R2QK2R b KQ - 1 18,"Nh6!+  Check, and the discovered threat to the queen."
+36,Bxh6,f4h6,r4rk1/pp1q1p1p/2p2npb/8/4P2P/2PP1P1B/PP3P2/R2QK2R w KQ - 0 19,This will become a race to see who can destroy the most pawns.
+37,Bxd7,h3d7,r4rk1/pp1B1p1p/2p2npb/8/4P2P/2PP1P2/PP3P2/R2QK2R b KQ - 0 19,This will become a race to see who can destroy the most pawns.
+38,Rad8,a8d8,3r1rk1/pp1B1p1p/2p2npb/8/4P2P/2PP1P2/PP3P2/R2QK2R w KQ - 1 20,This will become a race to see who can destroy the most pawns.
+39,Bh3,d7h3,3r1rk1/pp3p1p/2p2npb/8/4P2P/2PP1P1B/PP3P2/R2QK2R b KQ - 2 20,This will become a race to see who can destroy the most pawns.
+40,g5,g6g5,3r1rk1/pp3p1p/2p2n1b/6p1/4P2P/2PP1P1B/PP3P2/R2QK2R w KQ - 0 21,This will become a race to see who can destroy the most pawns.
+41,hxg5,h4g5,3r1rk1/pp3p1p/2p2n1b/6P1/4P3/2PP1P1B/PP3P2/R2QK2R b KQ - 0 21,This will become a race to see who can destroy the most pawns.
+42,Bxg5,h6g5,3r1rk1/pp3p1p/2p2n2/6b1/4P3/2PP1P1B/PP3P2/R2QK2R w KQ - 0 22,This will become a race to see who can destroy the most pawns.
+43,Rg1,h1g1,3r1rk1/pp3p1p/2p2n2/6b1/4P3/2PP1P1B/PP3P2/R2QK1R1 b Q - 1 22,This will become a race to see who can destroy the most pawns.
+44,h6,h7h6,3r1rk1/pp3p2/2p2n1p/6b1/4P3/2PP1P1B/PP3P2/R2QK1R1 w Q - 0 23,This will become a race to see who can destroy the most pawns.
+45,Qa4,d1a4,3r1rk1/pp3p2/2p2n1p/6b1/Q3P3/2PP1P1B/PP3P2/R3K1R1 b Q - 1 23,This will become a race to see who can destroy the most pawns.
+46,a6,a7a6,3r1rk1/1p3p2/p1p2n1p/6b1/Q3P3/2PP1P1B/PP3P2/R3K1R1 w Q - 0 24,This will become a race to see who can destroy the most pawns.
+47,Qb3,a4b3,3r1rk1/1p3p2/p1p2n1p/6b1/4P3/1QPP1P1B/PP3P2/R3K1R1 b Q - 1 24,This will become a race to see who can destroy the most pawns.
+48,Rxd3,d8d3,5rk1/1p3p2/p1p2n1p/6b1/4P3/1QPr1P1B/PP3P2/R3K1R1 w Q - 0 25,This will become a race to see who can destroy the most pawns.
+49,Qxb7,b3b7,5rk1/1Q3p2/p1p2n1p/6b1/4P3/2Pr1P1B/PP3P2/R3K1R1 b Q - 0 25,Truly a bad move. Qa4 is better.
+50,Rxf3,d3f3,5rk1/1Q3p2/p1p2n1p/6b1/4P3/2P2r1B/PP3P2/R3K1R1 w Q - 0 26,Truly a bad move. Qa4 is better.
+51,Bg2,h3g2,5rk1/1Q3p2/p1p2n1p/6b1/4P3/2P2r2/PP3PB1/R3K1R1 b Q - 1 26,Truly a bad move. Qa4 is better.
+52,Rd3,f3d3,5rk1/1Q3p2/p1p2n1p/6b1/4P3/2Pr4/PP3PB1/R3K1R1 w Q - 2 27,Truly a bad move. Qa4 is better.
+53,Qxc6,b7c6,5rk1/5p2/p1Q2n1p/6b1/4P3/2Pr4/PP3PB1/R3K1R1 b Q - 0 27,Truly a bad move. Qa4 is better.
+54,Rd2,d3d2,5rk1/5p2/p1Q2n1p/6b1/4P3/2P5/PP1r1PB1/R3K1R1 w Q - 1 28,Truly a bad move. Qa4 is better.
+55,Qxa6,c6a6,5rk1/5p2/Q4n1p/6b1/4P3/2P5/PP1r1PB1/R3K1R1 b Q - 0 28,Truly a bad move. Qa4 is better.
+56,Rfd8,f8d8,3r2k1/5p2/Q4n1p/6b1/4P3/2P5/PP1r1PB1/R3K1R1 w Q - 1 29,Truly a bad move. Qa4 is better.
+57,Rd1,a1d1,3r2k1/5p2/Q4n1p/6b1/4P3/2P5/PP1r1PB1/3RK1R1 b - - 2 29,Truly a bad move. Qa4 is better.
+58,h5,h6h5,3r2k1/5p2/Q4n2/6bp/4P3/2P5/PP1r1PB1/3RK1R1 w - - 0 30,"Since the pawn has moved up, the queen is free to eat material."
+59,Qb5,a6b5,3r2k1/5p2/5n2/1Q4bp/4P3/2P5/PP1r1PB1/3RK1R1 b - - 1 30,"Since the pawn has moved up, the queen is free to eat material."
+60,Rd2xd1+,d2d1,3r2k1/5p2/5n2/1Q4bp/4P3/2P5/PP3PB1/3rK1R1 w - - 0 31,"Since the pawn has moved up, the queen is free to eat material."
+61,Ke2,e1e2,3r2k1/5p2/5n2/1Q4bp/4P3/2P5/PP2KPB1/3r2R1 b - - 1 31,"Since the pawn has moved up, the queen is free to eat material."
+62,Rxg1,d1g1,3r2k1/5p2/5n2/1Q4bp/4P3/2P5/PP2KPB1/6r1 w - - 0 32,"Since the pawn has moved up, the queen is free to eat material."
+63,Qxg5+,b5g5,3r2k1/5p2/5n2/6Qp/4P3/2P5/PP2KPB1/6r1 b - - 0 32,"Since the pawn has moved up, the queen is free to eat material."
+64,Kf8,g8f8,3r1k2/5p2/5n2/6Qp/4P3/2P5/PP2KPB1/6r1 w - - 1 33,Threatening mate at Qxf7#
+65,Qxf6,g5f6,3r1k2/5p2/5Q2/7p/4P3/2P5/PP2KPB1/6r1 b - - 0 33,Threatening mate at Qxf7#
+66,Re8,d8e8,4rk2/5p2/5Q2/7p/4P3/2P5/PP2KPB1/6r1 w - - 1 34,Threatening mate at Qxf7#
+67,Qf3,f6f3,4rk2/5p2/8/7p/4P3/2P2Q2/PP2KPB1/6r1 b - - 2 34,Threatening mate at Qxf7#
+68,h4,h5h4,4rk2/5p2/8/8/4P2p/2P2Q2/PP2KPB1/6r1 w - - 0 35,Threatening mate at Qxf7#
+69,Bh3,g2h3,4rk2/5p2/8/8/4P2p/2P2Q1B/PP2KP2/6r1 b - - 1 35,Threatening mate at Qxf7#
+70,Rb8,e8b8,1r3k2/5p2/8/8/4P2p/2P2Q1B/PP2KP2/6r1 w - - 2 36,Threatening mate at Qxf7#
+71,b3,b2b3,1r3k2/5p2/8/8/4P2p/1PP2Q1B/P3KP2/6r1 b - - 0 36,Threatening mate at Qxf7#
+72,Rd8,b8d8,3r1k2/5p2/8/8/4P2p/1PP2Q1B/P3KP2/6r1 w - - 1 37,Threatening mate at Qxf7#
+73,Be6,h3e6,3r1k2/5p2/4B3/8/4P2p/1PP2Q2/P3KP2/6r1 b - - 2 37,Threatening mate at Qxf7#
+74,Rg7,g1g7,3r1k2/5pr1/4B3/8/4P2p/1PP2Q2/P3KP2/8 w - - 3 38,Black resigns.
+75,Bc4,e6c4,3r1k2/5pr1/8/8/2B1P2p/1PP2Q2/P3KP2/8 b - - 4 38,Black resigns.
+76,Rd6,d8d6,5k2/5pr1/3r4/8/2B1P2p/1PP2Q2/P3KP2/8 w - - 5 39,Black resigns.
+77,e5,e4e5,5k2/5pr1/3r4/4P3/2B4p/1PP2Q2/P3KP2/8 b - - 0 39,Black resigns.
+78,Rh6,d6h6,5k2/5pr1/7r/4P3/2B4p/1PP2Q2/P3KP2/8 w - - 1 40,Black resigns.
+79,Qa8+,f3a8,Q4k2/5pr1/7r/4P3/2B4p/1PP5/P3KP2/8 b - - 2 40,Black resigns.
+80,Ke7,f8e7,Q7/4kpr1/7r/4P3/2B4p/1PP5/P3KP2/8 w - - 3 41,Black resigns.
+81,Qb7+,a8b7,8/1Q2kpr1/7r/4P3/2B4p/1PP5/P3KP2/8 b - - 4 41,Black resigns.
+82,Kd8,e7d8,3k4/1Q3pr1/7r/4P3/2B4p/1PP5/P3KP2/8 w - - 5 42,Black resigns.
+83,Bxf7,c4f7,3k4/1Q3Br1/7r/4P3/7p/1PP5/P3KP2/8 b - - 0 42,Black resigns.

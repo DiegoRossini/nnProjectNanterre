@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"All right, here we have the sicilian defence.The next move does not comply with any variations of the sicilian."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"All right, here we have the sicilian defence.The next move does not comply with any variations of the sicilian."
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,White sets himself up for the scholar's mate. How many times do we have to go through this?
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"If only I played either 2...e3 or 2...Nh6. Now, it's a forced take."
+5,Bxf7+,c4f7,r1bqkbnr/pp1ppBpp/2n5/2p5/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3,"If only I played either 2...e3 or 2...Nh6. Now, it's a forced take."
+6,Kxf7,e8f7,r1bq1bnr/pp1ppkpp/2n5/2p5/4P3/8/PPPP1PPP/RNBQK1NR w KQ - 0 4,It was this or 3...Ke6?!. Definitely do not play 3...Kf6?? 4.Qf5# in this situation.
+7,Qh5+,d1h5,r1bq1bnr/pp1ppkpp/2n5/2p4Q/4P3/8/PPPP1PPP/RNB1K1NR b KQ - 1 4,It was this or 3...Ke6?!. Definitely do not play 3...Kf6?? 4.Qf5# in this situation.
+8,g6,g7g6,r1bq1bnr/pp1ppk1p/2n3p1/2p4Q/4P3/8/PPPP1PPP/RNB1K1NR w KQ - 0 5,It was this or 3...Ke6?!. Definitely do not play 3...Kf6?? 4.Qf5# in this situation.
+9,Qxc5,h5c5,r1bq1bnr/pp1ppk1p/2n3p1/2Q5/4P3/8/PPPP1PPP/RNB1K1NR b KQ - 0 5,White's free pawn.
+10,Qc7,d8c7,r1b2bnr/ppqppk1p/2n3p1/2Q5/4P3/8/PPPP1PPP/RNB1K1NR w KQ - 1 6,Another blunder. Better was 5...Qa5.
+11,Ne2,g1e2,r1b2bnr/ppqppk1p/2n3p1/2Q5/4P3/8/PPPPNPPP/RNB1K2R b KQ - 2 6,"I know I cannot castle any more, but I could probably try placing the King back to it's spot."
+12,Ke8,f7e8,r1b1kbnr/ppqpp2p/2n3p1/2Q5/4P3/8/PPPPNPPP/RNB1K2R w KQ - 3 7,"I know I cannot castle any more, but I could probably try placing the King back to it's spot."
+13,Qc3,c5c3,r1b1kbnr/ppqpp2p/2n3p1/8/4P3/2Q5/PPPPNPPP/RNB1K2R b KQ - 4 7,White's Queen recked havoc on my King and now it's after my Rook!?
+14,Nf6,g8f6,r1b1kb1r/ppqpp2p/2n2np1/8/4P3/2Q5/PPPPNPPP/RNB1K2R w KQ - 5 8,"White's on fire, so I decide that the best I can do, is to prepare for his attacks."
+15,d3,d2d3,r1b1kb1r/ppqpp2p/2n2np1/8/4P3/2QP4/PPP1NPPP/RNB1K2R b KQ - 0 8,"White's on fire, so I decide that the best I can do, is to prepare for his attacks."
+16,Bg7,f8g7,r1b1k2r/ppqpp1bp/2n2np1/8/4P3/2QP4/PPP1NPPP/RNB1K2R w KQ - 1 9,This unworthy move costs me my entire King-side. Better was 9...Ng5.
+17,O-O,e1g1,r1b1k2r/ppqpp1bp/2n2np1/8/4P3/2QP4/PPP1NPPP/RNB2RK1 b - - 2 9,This unworthy move costs me my entire King-side. Better was 9...Ng5.
+18,Ng4,f6g4,r1b1k2r/ppqpp1bp/2n3p1/8/4P1n1/2QP4/PPP1NPPP/RNB2RK1 w - - 3 10,This unworthy move costs me my entire King-side. Better was 9...Ng5.
+19,Bf4,c1f4,r1b1k2r/ppqpp1bp/2n3p1/8/4PBn1/2QP4/PPP1NPPP/RN3RK1 b - - 4 10,"I have to admit, I would have a very slim advantage after 10...Bc3. If White responds with 11.Bxc7, then 11...Bxb2 earns me a free Rook."
+20,d6,d7d6,r1b1k2r/ppq1p1bp/2np2p1/8/4PBn1/2QP4/PPP1NPPP/RN3RK1 w - - 0 11,"I have to admit, I would have a very slim advantage after 10...Bc3. If White responds with 11.Bxc7, then 11...Bxb2 earns me a free Rook."
+21,Qxg7,c3g7,r1b1k2r/ppq1p1Qp/2np2p1/8/4PBn1/3P4/PPP1NPPP/RN3RK1 b - - 0 11,I can possibly take the risk with 13...Qxc2!?.
+22,Rf8,h8f8,r1b1kr2/ppq1p1Qp/2np2p1/8/4PBn1/3P4/PPP1NPPP/RN3RK1 w - - 1 12,I can possibly take the risk with 13...Qxc2!?.
+23,Qxh7,g7h7,r1b1kr2/ppq1p2Q/2np2p1/8/4PBn1/3P4/PPP1NPPP/RN3RK1 b - - 0 12,I can possibly take the risk with 13...Qxc2!?.
+24,Nce5,c6e5,r1b1kr2/ppq1p2Q/3p2p1/4n3/4PBn1/3P4/PPP1NPPP/RN3RK1 w - - 1 13,I can possibly take the risk with 13...Qxc2!?.
+25,d4,d3d4,r1b1kr2/ppq1p2Q/3p2p1/4n3/3PPBn1/8/PPP1NPPP/RN3RK1 b - - 0 13,I can possibly take the risk with 13...Qxc2!?.
+26,Rf7,f8f7,r1b1k3/ppq1pr1Q/3p2p1/4n3/3PPBn1/8/PPP1NPPP/RN3RK1 w - - 1 14,I'm not sure why I did this move.
+27,Qh8+,h7h8,r1b1k2Q/ppq1pr2/3p2p1/4n3/3PPBn1/8/PPP1NPPP/RN3RK1 b - - 2 14,I'm not sure why I did this move.
+28,Rf8,f7f8,r1b1kr1Q/ppq1p3/3p2p1/4n3/3PPBn1/8/PPP1NPPP/RN3RK1 w - - 3 15,I'm not sure why I did this move.
+29,Qh4,h8h4,r1b1kr2/ppq1p3/3p2p1/4n3/3PPBnQ/8/PPP1NPPP/RN3RK1 b - - 4 15,I'm not sure why I did this move.
+30,Nf6,g4f6,r1b1kr2/ppq1p3/3p1np1/4n3/3PPB1Q/8/PPP1NPPP/RN3RK1 w - - 5 16,I'm not sure why I did this move.
+31,dxe5,d4e5,r1b1kr2/ppq1p3/3p1np1/4P3/4PB1Q/8/PPP1NPPP/RN3RK1 b - - 0 16,Too late!!!!!
+32,dxe5,d6e5,r1b1kr2/ppq1p3/5np1/4p3/4PB1Q/8/PPP1NPPP/RN3RK1 w - - 0 17,Too late!!!!!
+33,Bg5,f4g5,r1b1kr2/ppq1p3/5np1/4p1B1/4P2Q/8/PPP1NPPP/RN3RK1 b - - 1 17,Too late!!!!!
+34,Qxc2,c7c2,r1b1kr2/pp2p3/5np1/4p1B1/4P2Q/8/PPq1NPPP/RN3RK1 w - - 0 18,Too late!!!!!
+35,Ng3,e2g3,r1b1kr2/pp2p3/5np1/4p1B1/4P2Q/6N1/PPq2PPP/RN3RK1 b - - 1 18,Being down on material does not mean this is a logical move.
+36,Bf5,c8f5,r3kr2/pp2p3/5np1/4pbB1/4P2Q/6N1/PPq2PPP/RN3RK1 w - - 2 19,Being down on material does not mean this is a logical move.
+37,exf5,e4f5,r3kr2/pp2p3/5np1/4pPB1/7Q/6N1/PPq2PPP/RN3RK1 b - - 0 19,"Black is lost, regardless of what he does."
+38,gxf5,g6f5,r3kr2/pp2p3/5n2/4ppB1/7Q/6N1/PPq2PPP/RN3RK1 w - - 0 20,"Black is lost, regardless of what he does."
+39,Bxf6,g5f6,r3kr2/pp2p3/5B2/4pp2/7Q/6N1/PPq2PPP/RN3RK1 b - - 0 20,"Black is lost, regardless of what he does."
+40,Rxf6,f8f6,r3k3/pp2p3/5r2/4pp2/7Q/6N1/PPq2PPP/RN3RK1 w - - 0 21,This blunder destroys Black's Queen-side.
+41,b3,b2b3,r3k3/pp2p3/5r2/4pp2/7Q/1P4N1/P1q2PPP/RN3RK1 b - - 0 21,This blunder destroys Black's Queen-side.
+42,Qb2,c2b2,r3k3/pp2p3/5r2/4pp2/7Q/1P4N1/Pq3PPP/RN3RK1 w - - 1 22,Another wasted move. Better was 21...Qc6.
+43,Qa4+,h4a4,r3k3/pp2p3/5r2/4pp2/Q7/1P4N1/Pq3PPP/RN3RK1 b - - 2 22,Why did I not consider 24...Re6.
+44,Kf7,e8f7,r7/pp2pk2/5r2/4pp2/Q7/1P4N1/Pq3PPP/RN3RK1 w - - 3 23,Why did I not consider 24...Re6.
+45,Na3,b1a3,r7/pp2pk2/5r2/4pp2/Q7/NP4N1/Pq3PPP/R4RK1 b - - 4 23,Why did I not consider 24...Re6.
+46,Ra6,f6a6,r7/pp2pk2/r7/4pp2/Q7/NP4N1/Pq3PPP/R4RK1 w - - 5 24,Why did I not consider 24...Re6.
+47,Qc4+,a4c4,r7/pp2pk2/r7/4pp2/2Q5/NP4N1/Pq3PPP/R4RK1 b - - 6 24,Why did I not consider 24...Re6.
+48,e6,e7e6,r7/pp3k2/r3p3/4pp2/2Q5/NP4N1/Pq3PPP/R4RK1 w - - 0 25,Why did I not consider 24...Re6.
+49,Nb5,a3b5,r7/pp3k2/r3p3/1N2pp2/2Q5/1P4N1/Pq3PPP/R4RK1 b - - 1 25,A totally ill-logical move.
+50,Re8,a8e8,4r3/pp3k2/r3p3/1N2pp2/2Q5/1P4N1/Pq3PPP/R4RK1 w - - 2 26,A totally ill-logical move.

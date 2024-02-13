@@ -1,0 +1,112 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g3,g2g3,rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1,Benko's opening.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+3,Bg2,f1g2,rnbqkbnr/pp1ppppp/8/2p5/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+5,Nf3,g1f3,rnbqkb1r/pp1ppppp/5n2/2p5/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 3 3,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+6,g6,g7g6,rnbqkb1r/pp1ppp1p/5np1/2p5/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 4,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+7,O-O,e1g1,rnbqkb1r/pp1ppp1p/5np1/2p5/8/5NP1/PPPPPPBP/RNBQ1RK1 b kq - 1 4,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+8,Bg7,f8g7,rnbqk2r/pp1pppbp/5np1/2p5/8/5NP1/PPPPPPBP/RNBQ1RK1 w kq - 2 5,"Per the database Nc6 seems like a stronger move for black, though this move is the most common response."
+9,d4,d2d4,rnbqk2r/pp1pppbp/5np1/2p5/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 0 5,Bg4 temporarily pins the black knight.
+10,cxd4,c5d4,rnbqk2r/pp1pppbp/5np1/8/3p4/5NP1/PPP1PPBP/RNBQ1RK1 w kq - 0 6,Bg4 temporarily pins the black knight.
+11,Qxd4,d1d4,rnbqk2r/pp1pppbp/5np1/8/3Q4/5NP1/PPP1PPBP/RNB2RK1 b kq - 0 6,Bg4 temporarily pins the black knight.
+12,O-O,e8g8,rnbq1rk1/pp1pppbp/5np1/8/3Q4/5NP1/PPP1PPBP/RNB2RK1 w - - 1 7,Bg4 temporarily pins the black knight.
+13,Bg5,c1g5,rnbq1rk1/pp1pppbp/5np1/6B1/3Q4/5NP1/PPP1PPBP/RN3RK1 b - - 2 7,Bg4 temporarily pins the black knight.
+14,Nc6,b8c6,r1bq1rk1/pp1pppbp/2n2np1/6B1/3Q4/5NP1/PPP1PPBP/RN3RK1 w - - 3 8,Bg4 temporarily pins the black knight.
+15,Qd2,d4d2,r1bq1rk1/pp1pppbp/2n2np1/6B1/8/5NP1/PPPQPPBP/RN3RK1 b - - 4 8,Bg4 temporarily pins the black knight.
+16,Rb8,a8b8,1rbq1rk1/pp1pppbp/2n2np1/6B1/8/5NP1/PPPQPPBP/RN3RK1 w - - 5 9,Bg4 temporarily pins the black knight.
+17,Bf4,g5f4,1rbq1rk1/pp1pppbp/2n2np1/8/5B2/5NP1/PPPQPPBP/RN3RK1 b - - 6 9,Bg4 temporarily pins the black knight.
+18,d6,d7d6,1rbq1rk1/pp2ppbp/2np1np1/8/5B2/5NP1/PPPQPPBP/RN3RK1 w - - 0 10,Bg4 temporarily pins the black knight.
+19,Na3,b1a3,1rbq1rk1/pp2ppbp/2np1np1/8/5B2/N4NP1/PPPQPPBP/R4RK1 b - - 1 10,Bg4 temporarily pins the black knight.
+20,Bd7,c8d7,1r1q1rk1/pp1bppbp/2np1np1/8/5B2/N4NP1/PPPQPPBP/R4RK1 w - - 2 11,Bg4 temporarily pins the black knight.
+21,b4,b2b4,1r1q1rk1/pp1bppbp/2np1np1/8/1P3B2/N4NP1/P1PQPPBP/R4RK1 b - - 0 11,Bg4 temporarily pins the black knight.
+22,a6,a7a6,1r1q1rk1/1p1bppbp/p1np1np1/8/1P3B2/N4NP1/P1PQPPBP/R4RK1 w - - 0 12,Bg4 temporarily pins the black knight.
+23,c4,c2c4,1r1q1rk1/1p1bppbp/p1np1np1/8/1PP2B2/N4NP1/P2QPPBP/R4RK1 b - - 0 12,Bg4 temporarily pins the black knight.
+24,Ne8,f6e8,1r1qnrk1/1p1bppbp/p1np2p1/8/1PP2B2/N4NP1/P2QPPBP/R4RK1 w - - 1 13,Bg4 temporarily pins the black knight.
+25,Rad1,a1d1,1r1qnrk1/1p1bppbp/p1np2p1/8/1PP2B2/N4NP1/P2QPPBP/3R1RK1 b - - 2 13,Bg4 temporarily pins the black knight.
+26,Na7,c6a7,1r1qnrk1/np1bppbp/p2p2p1/8/1PP2B2/N4NP1/P2QPPBP/3R1RK1 w - - 3 14,Bg4 temporarily pins the black knight.
+27,c5,c4c5,1r1qnrk1/np1bppbp/p2p2p1/2P5/1P3B2/N4NP1/P2QPPBP/3R1RK1 b - - 0 14,Bg4 temporarily pins the black knight.
+28,b5,b7b5,1r1qnrk1/n2bppbp/p2p2p1/1pP5/1P3B2/N4NP1/P2QPPBP/3R1RK1 w - b6 0 15,Bg4 temporarily pins the black knight.
+29,cxd6,c5d6,1r1qnrk1/n2bppbp/p2P2p1/1p6/1P3B2/N4NP1/P2QPPBP/3R1RK1 b - - 0 15,Bg4 temporarily pins the black knight.
+30,Nxd6,e8d6,1r1q1rk1/n2bppbp/p2n2p1/1p6/1P3B2/N4NP1/P2QPPBP/3R1RK1 w - - 0 16,Bg4 temporarily pins the black knight.
+31,Bxd6,f4d6,1r1q1rk1/n2bppbp/p2B2p1/1p6/1P6/N4NP1/P2QPPBP/3R1RK1 b - - 0 16,Bg4 temporarily pins the black knight.
+32,exd6,e7d6,1r1q1rk1/n2b1pbp/p2p2p1/1p6/1P6/N4NP1/P2QPPBP/3R1RK1 w - - 0 17,Bg4 temporarily pins the black knight.
+33,Qxd6,d2d6,1r1q1rk1/n2b1pbp/p2Q2p1/1p6/1P6/N4NP1/P3PPBP/3R1RK1 b - - 0 17,Bg4 temporarily pins the black knight.
+34,Bc6,d7c6,1r1q1rk1/n4pbp/p1bQ2p1/1p6/1P6/N4NP1/P3PPBP/3R1RK1 w - - 1 18,Bg4 temporarily pins the black knight.
+35,Qc5,d6c5,1r1q1rk1/n4pbp/p1b3p1/1pQ5/1P6/N4NP1/P3PPBP/3R1RK1 b - - 2 18,Bg4 temporarily pins the black knight.
+36,Qb6,d8b6,1r3rk1/n4pbp/pqb3p1/1pQ5/1P6/N4NP1/P3PPBP/3R1RK1 w - - 3 19,Bg4 temporarily pins the black knight.
+37,Rdc1,d1c1,1r3rk1/n4pbp/pqb3p1/1pQ5/1P6/N4NP1/P3PPBP/2R2RK1 b - - 4 19,Bg4 temporarily pins the black knight.
+38,Qxc5,b6c5,1r3rk1/n4pbp/p1b3p1/1pq5/1P6/N4NP1/P3PPBP/2R2RK1 w - - 0 20,Bg4 temporarily pins the black knight.
+39,Rxc5,c1c5,1r3rk1/n4pbp/p1b3p1/1pR5/1P6/N4NP1/P3PPBP/5RK1 b - - 0 20,Bg4 temporarily pins the black knight.
+40,Bxf3,c6f3,1r3rk1/n4pbp/p5p1/1pR5/1P6/N4bP1/P3PPBP/5RK1 w - - 0 21,Bg4 temporarily pins the black knight.
+41,Bxf3,g2f3,1r3rk1/n4pbp/p5p1/1pR5/1P6/N4BP1/P3PP1P/5RK1 b - - 0 21,Bg4 temporarily pins the black knight.
+42,Nc8,a7c8,1rn2rk1/5pbp/p5p1/1pR5/1P6/N4BP1/P3PP1P/5RK1 w - - 1 22,Bg4 temporarily pins the black knight.
+43,Rd1,f1d1,1rn2rk1/5pbp/p5p1/1pR5/1P6/N4BP1/P3PP1P/3R2K1 b - - 2 22,Bg4 temporarily pins the black knight.
+44,Rb6,b8b6,2n2rk1/5pbp/pr4p1/1pR5/1P6/N4BP1/P3PP1P/3R2K1 w - - 3 23,Bg4 temporarily pins the black knight.
+45,Rcd5,c5d5,2n2rk1/5pbp/pr4p1/1p1R4/1P6/N4BP1/P3PP1P/3R2K1 b - - 4 23,Bg4 temporarily pins the black knight.
+46,Ne7,c8e7,5rk1/4npbp/pr4p1/1p1R4/1P6/N4BP1/P3PP1P/3R2K1 w - - 5 24,Bg4 temporarily pins the black knight.
+47,Rd5d6,d5d6,5rk1/4npbp/pr1R2p1/1p6/1P6/N4BP1/P3PP1P/3R2K1 b - - 6 24,Bg4 temporarily pins the black knight.
+48,Rxd6,b6d6,5rk1/4npbp/p2r2p1/1p6/1P6/N4BP1/P3PP1P/3R2K1 w - - 0 25,Bg4 temporarily pins the black knight.
+49,Rxd6,d1d6,5rk1/4npbp/p2R2p1/1p6/1P6/N4BP1/P3PP1P/6K1 b - - 0 25,Bg4 temporarily pins the black knight.
+50,Bb2,g7b2,5rk1/4np1p/p2R2p1/1p6/1P6/N4BP1/Pb2PP1P/6K1 w - - 1 26,Bg4 temporarily pins the black knight.
+51,Nb1,a3b1,5rk1/4np1p/p2R2p1/1p6/1P6/5BP1/Pb2PP1P/1N4K1 b - - 2 26,Bg4 temporarily pins the black knight.
+52,Rc8,f8c8,2r3k1/4np1p/p2R2p1/1p6/1P6/5BP1/Pb2PP1P/1N4K1 w - - 3 27,Bg4 temporarily pins the black knight.
+53,Nd2,b1d2,2r3k1/4np1p/p2R2p1/1p6/1P6/5BP1/Pb1NPP1P/6K1 b - - 4 27,Bg4 temporarily pins the black knight.
+54,Bc3,b2c3,2r3k1/4np1p/p2R2p1/1p6/1P6/2b2BP1/P2NPP1P/6K1 w - - 5 28,Bg4 temporarily pins the black knight.
+55,a3,a2a3,2r3k1/4np1p/p2R2p1/1p6/1P6/P1b2BP1/3NPP1P/6K1 b - - 0 28,Bg4 temporarily pins the black knight.
+56,Bb2,c3b2,2r3k1/4np1p/p2R2p1/1p6/1P6/P4BP1/1b1NPP1P/6K1 w - - 1 29,Bg4 temporarily pins the black knight.
+57,Rxa6,d6a6,2r3k1/4np1p/R5p1/1p6/1P6/P4BP1/1b1NPP1P/6K1 b - - 0 29,Bg4 temporarily pins the black knight.
+58,Nf5,e7f5,2r3k1/5p1p/R5p1/1p3n2/1P6/P4BP1/1b1NPP1P/6K1 w - - 1 30,Bg4 temporarily pins the black knight.
+59,Bg4,f3g4,2r3k1/5p1p/R5p1/1p3n2/1P4B1/P5P1/1b1NPP1P/6K1 b - - 2 30,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+60,Rd8,c8d8,3r2k1/5p1p/R5p1/1p3n2/1P4B1/P5P1/1b1NPP1P/6K1 w - - 3 31,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+61,Ne4,d2e4,3r2k1/5p1p/R5p1/1p3n2/1P2N1B1/P5P1/1b2PP1P/6K1 b - - 4 31,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+62,Nd4,f5d4,3r2k1/5p1p/R5p1/1p6/1P1nN1B1/P5P1/1b2PP1P/6K1 w - - 5 32,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+63,e3,e2e3,3r2k1/5p1p/R5p1/1p6/1P1nN1B1/P3P1P1/1b3P1P/6K1 b - - 0 32,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+64,Nc2,d4c2,3r2k1/5p1p/R5p1/1p6/1P2N1B1/P3P1P1/1bn2P1P/6K1 w - - 1 33,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+65,a4,a3a4,3r2k1/5p1p/R5p1/1p6/PP2N1B1/4P1P1/1bn2P1P/6K1 b - - 0 33,"Oops, white is vulnerable to a pawn fork of his knight and bishop."
+66,Nxb4,c2b4,3r2k1/5p1p/R5p1/1p6/Pn2N1B1/4P1P1/1b3P1P/6K1 w - - 0 34,...and there it is.  White is able to recover since the black rook is pinned.
+67,Ra5,a6a5,3r2k1/5p1p/6p1/Rp6/Pn2N1B1/4P1P1/1b3P1P/6K1 b - - 1 34,...and there it is.  White is able to recover since the black rook is pinned.
+68,bxa4,b5a4,3r2k1/5p1p/6p1/R7/pn2N1B1/4P1P1/1b3P1P/6K1 w - - 0 35,...and there it is.  White is able to recover since the black rook is pinned.
+69,Rxa4,a5a4,3r2k1/5p1p/6p1/8/Rn2N1B1/4P1P1/1b3P1P/6K1 b - - 0 35,...and there it is.  White is able to recover since the black rook is pinned.
+70,Nd5,b4d5,3r2k1/5p1p/6p1/3n4/R3N1B1/4P1P1/1b3P1P/6K1 w - - 1 36,...and there it is.  White is able to recover since the black rook is pinned.
+71,Ra2,a4a2,3r2k1/5p1p/6p1/3n4/4N1B1/4P1P1/Rb3P1P/6K1 b - - 2 36,...and there it is.  White is able to recover since the black rook is pinned.
+72,Bg7,b2g7,3r2k1/5pbp/6p1/3n4/4N1B1/4P1P1/R4P1P/6K1 w - - 3 37,...and there it is.  White is able to recover since the black rook is pinned.
+73,Rd2,a2d2,3r2k1/5pbp/6p1/3n4/4N1B1/4P1P1/3R1P1P/6K1 b - - 4 37,...and there it is.  White is able to recover since the black rook is pinned.
+74,f5,f7f5,3r2k1/6bp/6p1/3n1p2/4N1B1/4P1P1/3R1P1P/6K1 w - - 0 38,...and there it is.  White is able to recover since the black rook is pinned.
+75,Bf3,g4f3,3r2k1/6bp/6p1/3n1p2/4N3/4PBP1/3R1P1P/6K1 b - - 1 38,"Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance."
+76,fxe4,f5e4,3r2k1/6bp/6p1/3n4/4p3/4PBP1/3R1P1P/6K1 w - - 0 39,"Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance."
+77,Bxe4,f3e4,3r2k1/6bp/6p1/3n4/4B3/4P1P1/3R1P1P/6K1 b - - 0 39,"Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance."
+78,Bc3,g7c3,3r2k1/7p/6p1/3n4/4B3/2b1P1P1/3R1P1P/6K1 w - - 1 40,"Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance."
+79,Rxd5,d2d5,3r2k1/7p/6p1/3R4/4B3/2b1P1P1/5P1P/6K1 b - - 0 40,"Bxd5+ seems better.  41. Rd3 counter threats the black bishop, and white can defend the white bishop with e4, freeing up his rook with a pawn advance."
+80,Rxd5,d8d5,6k1/7p/6p1/3r4/4B3/2b1P1P1/5P1P/6K1 w - - 0 41,"On the other hand, forcing a trade while up two pawns also plays to white's advantage."
+81,Bxd5+,e4d5,6k1/7p/6p1/3B4/8/2b1P1P1/5P1P/6K1 b - - 0 41,"On the other hand, forcing a trade while up two pawns also plays to white's advantage."
+82,Kf8,g8f8,5k2/7p/6p1/3B4/8/2b1P1P1/5P1P/6K1 w - - 1 42,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+83,Kg2,g1g2,5k2/7p/6p1/3B4/8/2b1P1P1/5PKP/8 b - - 2 42,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+84,g5,g6g5,5k2/7p/8/3B2p1/8/2b1P1P1/5PKP/8 w - - 0 43,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+85,f4,f2f4,5k2/7p/8/3B2p1/5P2/2b1P1P1/6KP/8 b - - 0 43,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+86,gxf4,g5f4,5k2/7p/8/3B4/5p2/2b1P1P1/6KP/8 w - - 0 44,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+87,gxf4,g3f4,5k2/7p/8/3B4/5P2/2b1P3/6KP/8 b - - 0 44,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+88,Ke7,f8e7,8/4k2p/8/3B4/5P2/2b1P3/6KP/8 w - - 1 45,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+89,Kg3,g2g3,8/4k2p/8/3B4/5P2/2b1P1K1/7P/8 b - - 2 45,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+90,Kf6,e7f6,8/7p/5k2/3B4/5P2/2b1P1K1/7P/8 w - - 3 46,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+91,Kg4,g3g4,8/7p/5k2/3B4/5PK1/2b1P3/7P/8 b - - 4 46,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+92,Bd2,c3d2,8/7p/5k2/3B4/5PK1/4P3/3b3P/8 w - - 5 47,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+93,e4,e3e4,8/7p/5k2/3B4/4PPK1/8/3b3P/8 b - - 0 47,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+94,h6,h7h6,8/8/5k1p/3B4/4PPK1/8/3b3P/8 w - - 0 48,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+95,h4,h2h4,8/8/5k1p/3B4/4PPKP/8/3b4/8 b - - 0 48,The bishops are invisible to each other--it will be hard to force a trade.  But white should be able to force the black king to move by advancing pawns.
+96,Bc1,d2c1,8/8/5k1p/3B4/4PPKP/8/8/2b5 w - - 1 49,...just like that.
+97,e5+,e4e5,8/8/5k1p/3BP3/5PKP/8/8/2b5 b - - 0 49,...just like that.
+98,Ke7,f6e7,8/4k3/7p/3BP3/5PKP/8/8/2b5 w - - 1 50,
+99,f5,f4f5,8/4k3/7p/3BPP2/6KP/8/8/2b5 b - - 0 50,
+100,Bb2,c1b2,8/4k3/7p/3BPP2/6KP/8/1b6/8 w - - 1 51,
+101,Kf4,g4f4,8/4k3/7p/3BPP2/5K1P/8/1b6/8 b - - 2 51,
+102,Bc1+,b2c1,8/4k3/7p/3BPP2/5K1P/8/8/2b5 w - - 3 52,
+103,Ke4,f4e4,8/4k3/7p/3BPP2/4K2P/8/8/2b5 b - - 4 52,
+104,Bd2,c1d2,8/4k3/7p/3BPP2/4K2P/8/3b4/8 w - - 5 53,
+105,h5,h4h5,8/4k3/7p/3BPP1P/4K3/8/3b4/8 b - - 0 53,
+106,Bc3,d2c3,8/4k3/7p/3BPP1P/4K3/2b5/8/8 w - - 1 54,
+107,f6+,f5f6,8/4k3/5P1p/3BP2P/4K3/2b5/8/8 b - - 0 54,
+108,Kf8,e7f8,5k2/8/5P1p/3BP2P/4K3/2b5/8/8 w - - 1 55,
+109,Kf5,e4f5,5k2/8/5P1p/3BPK1P/8/2b5/8/8 b - - 2 55,
+110,Ke8,f8e8,4k3/8/5P1p/3BPK1P/8/2b5/8/8 w - - 3 56,
+111,e6,e5e6,4k3/8/4PP1p/3B1K1P/8/2b5/8/8 b - - 0 56,

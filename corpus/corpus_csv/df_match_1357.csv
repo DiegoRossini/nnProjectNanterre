@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,Bird's Opening. Not very common at all.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,Typical.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,"Fairly strong centre for white, especially on e4."
+4,Bg4,c8g4,rn1qkbnr/ppp1pppp/8/3p4/5Pb1/5N2/PPPPP1PP/RNBQKB1R w KQkq - 2 3,Pinned.
+5,e4,e2e4,rn1qkbnr/ppp1pppp/8/3p4/4PPb1/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 3,Blunder. I get a knight and a pawn.
+6,dxe4,d5e4,rn1qkbnr/ppp1pppp/8/8/4pPb1/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,Expected.
+7,Bb5+,f1b5,rn1qkbnr/ppp1pppp/8/1B6/4pPb1/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4,Another mistake. Gives me a free move.
+8,c6,c7c6,rn1qkbnr/pp2pppp/2p5/1B6/4pPb1/5N2/PPPP2PP/RNBQK2R w KQkq - 0 5,Expected.
+9,h3,h2h3,rn1qkbnr/pp2pppp/2p5/1B6/4pPb1/5N1P/PPPP2P1/RNBQK2R b KQkq - 0 5,Bloodshed over.
+10,exf3,e4f3,rn1qkbnr/pp2pppp/2p5/1B6/5Pb1/5p1P/PPPP2P1/RNBQK2R w KQkq - 0 6,Bloodshed over.
+11,hxg4,h3g4,rn1qkbnr/pp2pppp/2p5/1B6/5PP1/5p2/PPPP2P1/RNBQK2R b KQkq - 0 6,Bloodshed over.
+12,cxb5,c6b5,rn1qkbnr/pp2pppp/8/1p6/5PP1/5p2/PPPP2P1/RNBQK2R w KQkq - 0 7,Bloodshed over.
+13,gxf3,g2f3,rn1qkbnr/pp2pppp/8/1p6/5PP1/5P2/PPPP4/RNBQK2R b KQkq - 0 7,Bloodshed over.
+14,Nc6,b8c6,r2qkbnr/pp2pppp/2n5/1p6/5PP1/5P2/PPPP4/RNBQK2R w KQkq - 1 8,OK?
+15,Rh4,h1h4,r2qkbnr/pp2pppp/2n5/1p6/5PPR/5P2/PPPP4/RNBQK3 b Qkq - 2 8,Why is he developing rook so early?
+16,e5,e7e5,r2qkbnr/pp3ppp/2n5/1p2p3/5PPR/5P2/PPPP4/RNBQK3 w Qkq - 0 9,Discovered attack under the guise of centre control.
+17,fxe5,f4e5,r2qkbnr/pp3ppp/2n5/1p2P3/6PR/5P2/PPPP4/RNBQK3 b Qkq - 0 9,?? Loses a rook.
+18,Qxh4+,d8h4,r3kbnr/pp3ppp/2n5/1p2P3/6Pq/5P2/PPPP4/RNBQK3 w Qkq - 0 10,Check. Pretty much half of white's army is gone.
+19,Ke2,e1e2,r3kbnr/pp3ppp/2n5/1p2P3/6Pq/5P2/PPPPK3/RNBQ4 b kq - 1 10,Check.
+20,Nd4+,c6d4,r3kbnr/pp3ppp/8/1p2P3/3n2Pq/5P2/PPPPK3/RNBQ4 w kq - 2 11,Check.
+21,Kd3,e2d3,r3kbnr/pp3ppp/8/1p2P3/3n2Pq/3K1P2/PPPP4/RNBQ4 b kq - 3 11,Threatening knight.
+22,O-O-O,e8c8,2kr1bnr/pp3ppp/8/1p2P3/3n2Pq/3K1P2/PPPP4/RNBQ4 w - - 4 12,Castling to defend knight.
+23,c3,c2c3,2kr1bnr/pp3ppp/8/1p2P3/3n2Pq/2PK1P2/PP1P4/RNBQ4 b - - 0 12,Threatened.
+24,Nb3+,d4b3,2kr1bnr/pp3ppp/8/1p2P3/6Pq/1nPK1P2/PP1P4/RNBQ4 w - - 1 13,Discovered attack gains me a rook.
+25,Kc2,d3c2,2kr1bnr/pp3ppp/8/1p2P3/6Pq/1nP2P2/PPKP4/RNBQ4 b - - 2 13,Blunder. Mate in one.

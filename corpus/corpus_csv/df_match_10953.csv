@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A new opening for me: the Caro-Kann Defense.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A new opening for me: the Caro-Kann Defense.
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,?! Puts the bishop where blacks logical next move attacks it.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,Better than 3. Bb3 dxe5.
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3,Better than 3. Bb3 dxe5.
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/2B5/8/PPPP1PPP/RNBQK1NR w KQkq - 0 4,This seems Alekhine Defense-like.  I might play 6...Be6 and 7...a6.
+7,Bb5+,c4b5,rnbqkbnr/pp2pppp/8/1B1p4/8/8/PPPP1PPP/RNBQK1NR b KQkq - 1 4,This seems Alekhine Defense-like.  I might play 6...Be6 and 7...a6.
+8,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/1B1p4/8/8/PPPP1PPP/RNBQK1NR w KQkq - 2 5,This seems Alekhine Defense-like.  I might play 6...Be6 and 7...a6.
+9,Nc3,b1c3,r1bqkbnr/pp2pppp/2n5/1B1p4/8/2N5/PPPP1PPP/R1BQK1NR b KQkq - 3 5,This seems Alekhine Defense-like.  I might play 6...Be6 and 7...a6.
+10,d4,d5d4,r1bqkbnr/pp2pppp/2n5/1B6/3p4/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 6,This seems Alekhine Defense-like.  I might play 6...Be6 and 7...a6.
+11,Ne4,c3e4,r1bqkbnr/pp2pppp/2n5/1B6/3pN3/8/PPPP1PPP/R1BQK1NR b KQkq - 1 6,I guess I decided against the plan in the previous note and supported my d pawn.
+12,e5,e7e5,r1bqkbnr/pp3ppp/2n5/1B2p3/3pN3/8/PPPP1PPP/R1BQK1NR w KQkq - 0 7,I guess I decided against the plan in the previous note and supported my d pawn.
+13,d3,d2d3,r1bqkbnr/pp3ppp/2n5/1B2p3/3pN3/3P4/PPP2PPP/R1BQK1NR b KQkq - 0 7,"Opening the line for his bishop.  We both miss the tactic Qa5 , winning the bishop."
+14,Nf6,g8f6,r1bqkb1r/pp3ppp/2n2n2/1B2p3/3pN3/3P4/PPP2PPP/R1BQK1NR w KQkq - 1 8,"The white knight seems to be in a good position, so I would like the option to remove it.  This move seems better than f5, leading to something like 8. Bxc6  bxc6 9. Qh5  g6, where the black kingside pawns seem weak."
+15,Qf3,d1f3,r1bqkb1r/pp3ppp/2n2n2/1B2p3/3pN3/3P1Q2/PPP2PPP/R1B1K1NR b KQkq - 2 8,? I thought I was punishing the queen's overaggressive move and that Qg3 was the queen's only safe move.  However I missed black's tactic.
+16,Bg4,c8g4,r2qkb1r/pp3ppp/2n2n2/1B2p3/3pN1b1/3P1Q2/PPP2PPP/R1B1K1NR w KQkq - 3 9,? I thought I was punishing the queen's overaggressive move and that Qg3 was the queen's only safe move.  However I missed black's tactic.
+17,Nxf6+,e4f6,r2qkb1r/pp3ppp/2n2N2/1B2p3/3p2b1/3P1Q2/PPP2PPP/R1B1K1NR b KQkq - 0 9,Winning the bishop.
+18,Qxf6,d8f6,r3kb1r/pp3ppp/2n2q2/1B2p3/3p2b1/3P1Q2/PPP2PPP/R1B1K1NR w KQkq - 0 10,Seems better than gxf6.
+19,Qxg4,f3g4,r3kb1r/pp3ppp/2n2q2/1B2p3/3p2Q1/3P4/PPP2PPP/R1B1K1NR b KQkq - 0 10,"The situation I was hoping for if white had played 9. Qg3 is impossible, but there are some tactical possibilities here, although they do not play out."
+20,Bb4+,f8b4,r3k2r/pp3ppp/2n2q2/1B2p3/1b1p2Q1/3P4/PPP2PPP/R1B1K1NR w KQkq - 1 11,"The situation I was hoping for if white had played 9. Qg3 is impossible, but there are some tactical possibilities here, although they do not play out."
+21,Bd2,c1d2,r3k2r/pp3ppp/2n2q2/1B2p3/1b1p2Q1/3P4/PPPB1PPP/R3K1NR b KQkq - 2 11,Escaping the pin.
+22,Bxd2+,b4d2,r3k2r/pp3ppp/2n2q2/1B2p3/3p2Q1/3P4/PPPb1PPP/R3K1NR w KQkq - 0 12,Escaping the pin.
+23,Kxd2,e1d2,r3k2r/pp3ppp/2n2q2/1B2p3/3p2Q1/3P4/PPPK1PPP/R5NR b kq - 0 12,Escaping the pin.
+24,O-O,e8g8,r4rk1/pp3ppp/2n2q2/1B2p3/3p2Q1/3P4/PPPK1PPP/R5NR w - - 1 13,Escaping the pin.
+25,Nh3,g1h3,r4rk1/pp3ppp/2n2q2/1B2p3/3p2Q1/3P3N/PPPK1PPP/R6R b - - 2 13,Protecting f2.
+26,Rac8,a8c8,2r2rk1/pp3ppp/2n2q2/1B2p3/3p2Q1/3P3N/PPPK1PPP/R6R w - - 3 14,Protects the knight and prepares Nb4.
+27,Ng5,h3g5,2r2rk1/pp3ppp/2n2q2/1B2p1N1/3p2Q1/3P4/PPPK1PPP/R6R b - - 4 14,We both miss Qxf2 .
+28,Qh6,f6h6,2r2rk1/pp3ppp/2n4q/1B2p1N1/3p2Q1/3P4/PPPK1PPP/R6R w - - 5 15,Pinning the knight.
+29,Rae1,a1e1,2r2rk1/pp3ppp/2n4q/1B2p1N1/3p2Q1/3P4/PPPK1PPP/4R2R b - - 6 15,"Attacking e5.  Better was Bc4, pinning the f pawn so the knight can escape."
+30,f6,f7f6,2r2rk1/pp4pp/2n2p1q/1B2p1N1/3p2Q1/3P4/PPPK1PPP/4R2R w - - 0 16,Winning the knight.
+31,Qe6+,g4e6,2r2rk1/pp4pp/2n1Qp1q/1B2p1N1/3p4/3P4/PPPK1PPP/4R2R b - - 1 16,Not 16...Rf7? 17. Qxc8
+32,Kh8,g8h8,2r2r1k/pp4pp/2n1Qp1q/1B2p1N1/3p4/3P4/PPPK1PPP/4R2R w - - 2 17,Not 16...Rf7? 17. Qxc8
+33,h4,h2h4,2r2r1k/pp4pp/2n1Qp1q/1B2p1N1/3p3P/3P4/PPPK1PP1/4R2R b - - 0 17,"Better was f4, avoiding my 19th move."

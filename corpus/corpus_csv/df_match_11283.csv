@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This my first attempt to annotate a game, I would be interested in hearing some deeper analysis from some more accomplished players. Development is basically even until move 20  and 21 where white blundered twice in a row."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Normal development.
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Pins the knight in preparation for e5.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,Pins the knight in preparation for e5.
+5,e3,e2e3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Pins the knight in preparation for e5.
+6,Bg4,c8g4,r2qkbnr/ppp1pppp/2n5/3p4/3P2b1/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,Pins the knight in preparation for e5.
+7,Nbd2,b1d2,r2qkbnr/ppp1pppp/2n5/3p4/3P2b1/4PN2/PPPN1PPP/R1BQKB1R b KQkq - 2 4,Provides replacement if I take the knight.
+8,e5,e7e5,r2qkbnr/ppp2ppp/2n5/3pp3/3P2b1/4PN2/PPPN1PPP/R1BQKB1R w KQkq - 0 5,Attack and attempts to wrest control of the center.
+9,dxe5,d4e5,r2qkbnr/ppp2ppp/2n5/3pP3/6b1/4PN2/PPPN1PPP/R1BQKB1R b KQkq - 0 5,Breaks the pin so eliminate the annoying knight.
+10,Nxe5,c6e5,r2qkbnr/ppp2ppp/8/3pn3/6b1/4PN2/PPPN1PPP/R1BQKB1R w KQkq - 0 6,Breaks the pin so eliminate the annoying knight.
+11,Be2,f1e2,r2qkbnr/ppp2ppp/8/3pn3/6b1/4PN2/PPPNBPPP/R1BQK2R b KQkq - 1 6,Breaks the pin so eliminate the annoying knight.
+12,Bxf3,g4f3,r2qkbnr/ppp2ppp/8/3pn3/8/4Pb2/PPPNBPPP/R1BQK2R w KQkq - 0 7,Attacks my undefended knight
+13,Nxf3,d2f3,r2qkbnr/ppp2ppp/8/3pn3/8/4PN2/PPP1BPPP/R1BQK2R b KQkq - 0 7,Attacks my undefended knight
+14,Nxf3+,e5f3,r2qkbnr/ppp2ppp/8/3p4/8/4Pn2/PPP1BPPP/R1BQK2R w KQkq - 0 8,Fine
+15,Bxf3,e2f3,r2qkbnr/ppp2ppp/8/3p4/8/4PB2/PPP2PPP/R1BQK2R b KQkq - 0 8,Protect my stake in the center while continuing development.
+16,Nf6,g8f6,r2qkb1r/ppp2ppp/5n2/3p4/8/4PB2/PPP2PPP/R1BQK2R w KQkq - 1 9,Protect my stake in the center while continuing development.
+17,O-O,e1g1,r2qkb1r/ppp2ppp/5n2/3p4/8/4PB2/PPP2PPP/R1BQ1RK1 b kq - 2 9,Prepare to castle
+18,Bc5,f8c5,r2qk2r/ppp2ppp/5n2/2bp4/8/4PB2/PPP2PPP/R1BQ1RK1 w kq - 3 10,Prepare to castle
+19,b3,b2b3,r2qk2r/ppp2ppp/5n2/2bp4/8/1P2PB2/P1P2PPP/R1BQ1RK1 b kq - 0 10,Preparing to fianchetto the queenside bishop.
+20,O-O,e8g8,r2q1rk1/ppp2ppp/5n2/2bp4/8/1P2PB2/P1P2PPP/R1BQ1RK1 w - - 1 11,Preparing a queenside advance.
+21,Bb2,c1b2,r2q1rk1/ppp2ppp/5n2/2bp4/8/1P2PB2/PBP2PPP/R2Q1RK1 b - - 2 11,Preparing a queenside advance.
+22,c6,c7c6,r2q1rk1/pp3ppp/2p2n2/2bp4/8/1P2PB2/PBP2PPP/R2Q1RK1 w - - 0 12,Preparing a queenside advance.
+23,a4,a2a4,r2q1rk1/pp3ppp/2p2n2/2bp4/P7/1P2PB2/1BP2PPP/R2Q1RK1 b - - 0 12,Preparing a queenside advance.
+24,a5,a7a5,r2q1rk1/1p3ppp/2p2n2/p1bp4/P7/1P2PB2/1BP2PPP/R2Q1RK1 w - - 0 13,Defending the bishop from b5
+25,Qd3,d1d3,r2q1rk1/1p3ppp/2p2n2/p1bp4/P7/1P1QPB2/1BP2PPP/R4RK1 b - - 1 13,Attacks the h2 square.
+26,Qd6,d8d6,r4rk1/1p3ppp/2pq1n2/p1bp4/P7/1P1QPB2/1BP2PPP/R4RK1 w - - 2 14,Connect the rooks
+27,Rad1,a1d1,r4rk1/1p3ppp/2pq1n2/p1bp4/P7/1P1QPB2/1BP2PPP/3R1RK1 b - - 3 14,When he moved his h pawn I realized the h2 square was underdefended.
+28,Rfe8,f8e8,r3r1k1/1p3ppp/2pq1n2/p1bp4/P7/1P1QPB2/1BP2PPP/3R1RK1 w - - 4 15,When he moved his h pawn I realized the h2 square was underdefended.
+29,Rfe1,f1e1,r3r1k1/1p3ppp/2pq1n2/p1bp4/P7/1P1QPB2/1BP2PPP/3RR1K1 b - - 5 15,When he moved his h pawn I realized the h2 square was underdefended.
+30,Re6,e8e6,r5k1/1p3ppp/2pqrn2/p1bp4/P7/1P1QPB2/1BP2PPP/3RR1K1 w - - 6 16,When he moved his h pawn I realized the h2 square was underdefended.
+31,h4,h2h4,r5k1/1p3ppp/2pqrn2/p1bp4/P6P/1P1QPB2/1BP2PP1/3RR1K1 b - - 0 16,When he moved his h pawn I realized the h2 square was underdefended.
+32,Bb6,c5b6,r5k1/1p3ppp/1bpqrn2/p2p4/P6P/1P1QPB2/1BP2PP1/3RR1K1 w - - 1 17,When he moved his h pawn I realized the h2 square was underdefended.
+33,h5,h4h5,r5k1/1p3ppp/1bpqrn2/p2p3P/P7/1P1QPB2/1BP2PP1/3RR1K1 b - - 0 17,Threatening to tear open my pawn structure.
+34,Bc7,b6c7,r5k1/1pb2ppp/2pqrn2/p2p3P/P7/1P1QPB2/1BP2PP1/3RR1K1 w - - 1 18,I can attack sooner.
+35,g3,g2g3,r5k1/1pb2ppp/2pqrn2/p2p3P/P7/1P1QPBP1/1BP2P2/3RR1K1 b - - 0 18,"Bummer, he saw that coming."
+36,h6,h7h6,r5k1/1pb2pp1/2pqrn1p/p2p3P/P7/1P1QPBP1/1BP2P2/3RR1K1 w - - 0 19,Stop the advancing pawn.

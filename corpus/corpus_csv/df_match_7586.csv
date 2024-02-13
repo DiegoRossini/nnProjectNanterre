@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,the standard King's Pawn opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The chesscube move list calls this the Scandinavian (centre counter) defence, and I had it confused with the Old Benoni defence (which is 1.d4 c5) Still, it did work for me here, so I'm going to experiment with it"
+3,Qf3,d1f3,rnbqkbnr/ppp1pppp/8/3p4/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,"?! This move does appear in the GK database, but I really don't like the idea of the queen being out this early"
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3p4/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"developing, and giving some defence to the d5 pawn (checking the database, dxe4 was recommended here)"
+5,exd5,e4d5,rnbqkb1r/ppp1pppp/5n2/3P4/8/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 0 3,"capturing the d-pawn (e5 was played in the database, but it doesn't seem as reliable as there were only two games played with this - by the way, is it wrong for me to be relying on the database so much?)"
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/5n2/3P4/8/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 1 4,"?! I considered Nxd5, but played this move instead. Immediately afterwards, I changed my mind and requested a takeback. My opponent declined. This is a developing move, but it blocks my queen's access to the d-pawn. However, the pawn doesn't pose any real threat at this point"
+7,Bc4,f1c4,r1bqkb1r/pppnpppp/5n2/3P4/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 2 4,I prefer Bd3 here
+8,e6,e7e6,r1bqkb1r/pppn1ppp/4pn2/3P4/2B5/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 5,"This move loses a pawn, but it puts White's bishop in a bad place - it gets pinned with Qe7 (I'll be honest - that wasn't what I was thinking when I played this move. I wanted to free my black bishop for a castle opportunity)"
+9,dxe6,d5e6,r1bqkb1r/pppn1ppp/4Pn2/8/2B5/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 0 5,pawn trade....
+10,fxe6,f7e6,r1bqkb1r/pppn2pp/4pn2/8/2B5/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 6,pawn trade....
+11,d3,d2d3,r1bqkb1r/pppn2pp/4pn2/8/2B5/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 6,"but White doesn't go for the exchange straight away - this move was probably with the intention of Bg5 (it also denies an easy escape for White's bishop, but there's no threat on it, so that doesn't matter much here)"
+12,Bc5,f8c5,r1bqk2r/pppn2pp/4pn2/2b5/2B5/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 7,"maybe not the best place for the bishop, as White could chase it with c3, then b4"
+13,Bxe6,c4e6,r1bqk2r/pppn2pp/4Bn2/2b5/8/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 7,"? this nabs that extra pawn I was talking about, but falls to..."
+14,Ne5,d7e5,r1bqk2r/ppp3pp/4Bn2/2b1n3/8/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 8,! a double-attack on the bishop and queen (Qe7 isn't as strong due to Qe2)
+15,Qf5,f3f5,r1bqk2r/ppp3pp/4Bn2/2b1nQ2/8/3P4/PPP2PPP/RNB1K1NR b KQkq - 2 8,"The only move to protect both pieces, but the queen is in deep here"
+16,Bxe6,c8e6,r2qk2r/ppp3pp/4bn2/2b1nQ2/8/3P4/PPP2PPP/RNB1K1NR w KQkq - 0 9,?! I feel that Qxe5 was better here
+17,Qxe6+,f5e6,r2qk2r/ppp3pp/4Qn2/2b1n3/8/3P4/PPP2PPP/RNB1K1NR b KQkq - 0 9,?! I feel that Qxe5 was better here
+18,Qe7,d8e7,r3k2r/ppp1q1pp/4Qn2/2b1n3/8/3P4/PPP2PPP/RNB1K1NR w KQkq - 1 10,"Offering an exchange of queens, which ought to be bad for Black (given that he's behind in development) but I feel he compensates for his big lead in development (castling queenside is also a great move for Black after the exchange - Black gets the rook on the half-open d-file and the king is secure on c8 with the queen and light bishop gone)"
+19,Qf5,e6f5,r3k2r/ppp1q1pp/5n2/2b1nQ2/8/3P4/PPP2PPP/RNB1K1NR b KQkq - 2 10,"?? White should have exchanged - in fact, it was forced! This move leads to mate in two"
+20,g6,g7g6,r3k2r/ppp1q2p/5np1/2b1nQ2/8/3P4/PPP2PPP/RNB1K1NR w KQkq - 0 11,? Black doesn't see it right away...
+21,Qh3,f5h3,r3k2r/ppp1q2p/5np1/2b1n3/8/3P3Q/PPP2PPP/RNB1K1NR b KQkq - 1 11,"? and neither does White (I should note that even if he had seen the danger, the only moves that would save him are Ne2 and Bc3 - both moves involve losing the queen"
+22,Nf3+,e5f3,r3k2r/ppp1q2p/5np1/2b5/8/3P1n1Q/PPP2PPP/RNB1K1NR w KQkq - 2 12,double check! This is the first game that I've been able to utilise this power. White has to move his king...

@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,White opens with the Reti.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,White opens with the Reti.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,White opens with the Reti.
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Black reinforces his center while unleashing his king's bishop. He discourages cxd5 when ... exd5 gives both bishops great diagonals.
+5,b3,b2b3,rnbqkbnr/ppp2ppp/4p3/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3,"Preparing Bb2, which fights for the dark-squares"
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R w KQkq - 1 4,Black prepares to castle kingside.
+7,Bb2,c1b2,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R b KQkq - 2 4,White will employ a double-fianchetto system.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R w KQkq - 3 5,White will employ a double-fianchetto system.
+9,g3,g2g3,rnbqk2r/ppp1bppp/4pn2/3p4/2P5/1P3NP1/PB1PPP1P/RN1QKB1R b KQkq - 0 5,White will employ a double-fianchetto system.
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/1P3NP1/PB1PPP1P/RN1QKB1R w KQ - 1 6,Black claims more space in the center and advances the c-pawn before developing the knight to c6.
+11,Bg2,f1g2,rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/1P3NP1/PB1PPPBP/RN1QK2R b KQ - 2 6,Black claims more space in the center and advances the c-pawn before developing the knight to c6.
+12,c5,c7c5,rnbq1rk1/pp2bppp/4pn2/2pp4/2P5/1P3NP1/PB1PPPBP/RN1QK2R w KQ - 0 7,Black claims more space in the center and advances the c-pawn before developing the knight to c6.
+13,cxd5,c4d5,rnbq1rk1/pp2bppp/4pn2/2pP4/8/1P3NP1/PB1PPPBP/RN1QK2R b KQ - 0 7,Now White exchanges his c-pawn for a central pawn.
+14,exd5,e6d5,rnbq1rk1/pp2bppp/5n2/2pp4/8/1P3NP1/PB1PPPBP/RN1QK2R w KQ - 0 8,"Recapturing with the e-pawn opens up a diagonal for the light-squared bishop. However, the c- and d-pawn duo forms a hanging pair."
+15,O-O,e1g1,rnbq1rk1/pp2bppp/5n2/2pp4/8/1P3NP1/PB1PPPBP/RN1Q1RK1 b - - 1 8,Prevents ... Ne4 and prepares Nbd2
+16,Nc6,b8c6,r1bq1rk1/pp2bppp/2n2n2/2pp4/8/1P3NP1/PB1PPPBP/RN1Q1RK1 w - - 2 9,Prevents ... Ne4 and prepares Nbd2
+17,d3,d2d3,r1bq1rk1/pp2bppp/2n2n2/2pp4/8/1P1P1NP1/PB2PPBP/RN1Q1RK1 b - - 0 9,Prevents ... Ne4 and prepares Nbd2
+18,Bg4,c8g4,r2q1rk1/pp2bppp/2n2n2/2pp4/6b1/1P1P1NP1/PB2PPBP/RN1Q1RK1 w - - 1 10,Immediately putting the question on the Bishop
+19,h3,h2h3,r2q1rk1/pp2bppp/2n2n2/2pp4/6b1/1P1P1NPP/PB2PPB1/RN1Q1RK1 b - - 0 10,Immediately putting the question on the Bishop
+20,Bh5,g4h5,r2q1rk1/pp2bppp/2n2n2/2pp3b/8/1P1P1NPP/PB2PPB1/RN1Q1RK1 w - - 1 11,White completes the development of his minor pieces.
+21,Nbd2,b1d2,r2q1rk1/pp2bppp/2n2n2/2pp3b/8/1P1P1NPP/PB1NPPB1/R2Q1RK1 b - - 2 11,White completes the development of his minor pieces.
+22,Re8,f8e8,r2qr1k1/pp2bppp/2n2n2/2pp3b/8/1P1P1NPP/PB1NPPB1/R2Q1RK1 w - - 3 12,"The Bishop on e7 will go to f8 or d6, opening the e-file for the Rook."
+23,Re1,f1e1,r2qr1k1/pp2bppp/2n2n2/2pp3b/8/1P1P1NPP/PB1NPPB1/R2QR1K1 b - - 4 12,Reinforcing the weak pawn on e2
+24,Bd6,e7d6,r2qr1k1/pp3ppp/2nb1n2/2pp3b/8/1P1P1NPP/PB1NPPB1/R2QR1K1 w - - 5 13,The Bishop moves to a more active diagonal.
+25,e4,e2e4,r2qr1k1/pp3ppp/2nb1n2/2pp3b/4P3/1P1P1NPP/PB1N1PB1/R2QR1K1 b - - 0 13,A central thrust
+26,d4,d5d4,r2qr1k1/pp3ppp/2nb1n2/2p4b/3pP3/1P1P1NPP/PB1N1PB1/R2QR1K1 w - - 0 14,"Black closes the center, but gives White the c4 square."
+27,Qc1,d1c1,r2qr1k1/pp3ppp/2nb1n2/2p4b/3pP3/1P1P1NPP/PB1N1PB1/R1Q1R1K1 b - - 1 14,Escaping from the pin while targeting c5
+28,Rc8,a8c8,2rqr1k1/pp3ppp/2nb1n2/2p4b/3pP3/1P1P1NPP/PB1N1PB1/R1Q1R1K1 w - - 2 15,"Perhaps the bishop should have gone to b8, where it is untouchable and exerts great influence along the b8-h2 diagonal."
+29,Nc4,d2c4,2rqr1k1/pp3ppp/2nb1n2/2p4b/2NpP3/1P1P1NPP/PB3PB1/R1Q1R1K1 b - - 3 15,"Perhaps the bishop should have gone to b8, where it is untouchable and exerts great influence along the b8-h2 diagonal."
+30,Bf8,d6f8,2rqrbk1/pp3ppp/2n2n2/2p4b/2NpP3/1P1P1NPP/PB3PB1/R1Q1R1K1 w - - 4 16,"Perhaps the bishop should have gone to b8, where it is untouchable and exerts great influence along the b8-h2 diagonal."
+31,a4,a2a4,2rqrbk1/pp3ppp/2n2n2/2p4b/P1NpP3/1P1P1NPP/1B3PB1/R1Q1R1K1 b - - 0 16,White secures an outpost for his knight.
+32,Qd7,d8d7,2r1rbk1/pp1q1ppp/2n2n2/2p4b/P1NpP3/1P1P1NPP/1B3PB1/R1Q1R1K1 w - - 1 17,Threatening 17. ... Bxf3 18. Bxf3 Qxh3

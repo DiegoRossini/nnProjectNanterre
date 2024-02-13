@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,I started off with the English opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,I then moved the Knight to prevent E4
+3,Nc3,b1c3,rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2,I then moved the Knight to prevent E4
+4,Bb4,f8b4,rnbqk1nr/pppp1ppp/8/4p3/1bP5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3,He then brought out the Bishop to attack the Knight
+5,Ne4,c3e4,rnbqk1nr/pppp1ppp/8/4p3/1bP1N3/8/PP1PPPPP/R1BQKBNR b KQkq - 3 3,So I blocked the pawn instead
+6,Nf6,g8f6,rnbqk2r/pppp1ppp/5n2/4p3/1bP1N3/8/PP1PPPPP/R1BQKBNR w KQkq - 4 4,He again attacked the Knight
+7,Qc2,d1c2,rnbqk2r/pppp1ppp/5n2/4p3/1bP1N3/8/PPQPPPPP/R1B1KBNR b KQkq - 5 4,So I protected it with the Queen
+8,Nxe4,f6e4,rnbqk2r/pppp1ppp/8/4p3/1bP1n3/8/PPQPPPPP/R1B1KBNR w KQkq - 0 5,he then for some reason took it
+9,Qxe4,c2e4,rnbqk2r/pppp1ppp/8/4p3/1bP1Q3/8/PP1PPPPP/R1B1KBNR b KQkq - 0 5,A free Knight meaning it's not protected and quicker to type then exchanged
+10,Nc6,b8c6,r1bqk2r/pppp1ppp/2n5/4p3/1bP1Q3/8/PP1PPPPP/R1B1KBNR w KQkq - 1 6,I decided to try and move his Bishop away by doing A3
+11,a3,a2a3,r1bqk2r/pppp1ppp/2n5/4p3/1bP1Q3/P7/1P1PPPPP/R1B1KBNR b KQkq - 0 6,I decided to try and move his Bishop away by doing A3
+12,Be7,b4e7,r1bqk2r/ppppbppp/2n5/4p3/2P1Q3/P7/1P1PPPPP/R1B1KBNR w KQkq - 1 7,move to C5 to attack the D6 Pawn
+13,b4,b2b4,r1bqk2r/ppppbppp/2n5/4p3/1PP1Q3/P7/3PPPPP/R1B1KBNR b KQkq - 0 7,move to C5 to attack the D6 Pawn
+14,d6,d7d6,r1bqk2r/ppp1bppp/2np4/4p3/1PP1Q3/P7/3PPPPP/R1B1KBNR w KQkq - 0 8,move to C5 to attack the D6 Pawn
+15,c5,c4c5,r1bqk2r/ppp1bppp/2np4/2P1p3/1P2Q3/P7/3PPPPP/R1B1KBNR b KQkq - 0 8,move to C5 to attack the D6 Pawn
+16,dxc5,d6c5,r1bqk2r/ppp1bppp/2n5/2p1p3/1P2Q3/P7/3PPPPP/R1B1KBNR w KQkq - 0 9,which he then took and I thought he would of declined and gone to D5 and attack my Queen with the protection of the Queen on D8
+17,bxc5,b4c5,r1bqk2r/ppp1bppp/2n5/2P1p3/4Q3/P7/3PPPPP/R1B1KBNR b KQkq - 0 9,I then took back
+18,Bxc5,e7c5,r1bqk2r/ppp2ppp/2n5/2b1p3/4Q3/P7/3PPPPP/R1B1KBNR w KQkq - 0 10,I moved pawn to E3 just in case of Qf6
+19,e3,e2e3,r1bqk2r/ppp2ppp/2n5/2b1p3/4Q3/P3P3/3P1PPP/R1B1KBNR b KQkq - 0 10,I moved pawn to E3 just in case of Qf6
+20,h6,h7h6,r1bqk2r/ppp2pp1/2n4p/2b1p3/4Q3/P3P3/3P1PPP/R1B1KBNR w KQkq - 0 11,I then moved bishop to B5 to attack C6 then the black xc6 and then I would do Qxc6 which would be check and then Qxa8 as the pawn that was on B7 was taken by the queen when checking the King
+21,Bb5,f1b5,r1bqk2r/ppp2pp1/2n4p/1Bb1p3/4Q3/P3P3/3P1PPP/R1B1K1NR b KQkq - 1 11,I then moved bishop to B5 to attack C6 then the black xc6 and then I would do Qxc6 which would be check and then Qxa8 as the pawn that was on B7 was taken by the queen when checking the King
+22,Bd7,c8d7,r2qk2r/pppb1pp1/2n4p/1Bb1p3/4Q3/P3P3/3P1PPP/R1B1K1NR w KQkq - 2 12,but he stopped that by doing Bd7
+23,Bxc6,b5c6,r2qk2r/pppb1pp1/2B4p/2b1p3/4Q3/P3P3/3P1PPP/R1B1K1NR b KQkq - 0 12,I decided to exchange
+24,Bxc6,d7c6,r2qk2r/ppp2pp1/2b4p/2b1p3/4Q3/P3P3/3P1PPP/R1B1K1NR w KQkq - 0 13,moved Queen to attack G7
+25,Qg4,e4g4,r2qk2r/ppp2pp1/2b4p/2b1p3/6Q1/P3P3/3P1PPP/R1B1K1NR b KQkq - 1 13,moved Queen to attack G7
+26,O-O,e8g8,r2q1rk1/ppp2pp1/2b4p/2b1p3/6Q1/P3P3/3P1PPP/R1B1K1NR w KQ - 2 14,He then castled to prevent that
+27,Bb2,c1b2,r2q1rk1/ppp2pp1/2b4p/2b1p3/6Q1/P3P3/1B1P1PPP/R3K1NR b KQ - 3 14,Moved my Bishop in the hope of E4 by my opponent
+28,Bd6,c5d6,r2q1rk1/ppp2pp1/2bb3p/4p3/6Q1/P3P3/1B1P1PPP/R3K1NR w KQ - 4 15,but instead did Bd6 to protect it

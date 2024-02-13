@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Most popular move.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Normal.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Normal.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Normal.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Trying Fried Liver Attack.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,I can now play Ng5 (Fried Liver Attack)
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Still normal.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Still normal.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,An attacking move. After 6. Kxf7 7. Qf3+ threatening knight on d5.
+10,Nxd5,f6d5,r1bqkb1r/ppp2ppp/2n5/3np1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,An attacking move. After 6. Kxf7 7. Qf3+ threatening knight on d5.
+11,Nxf7,g5f7,r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,An attacking move. After 6. Kxf7 7. Qf3+ threatening knight on d5.
+12,Kxf7,e8f7,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R w KQ - 0 7,(?) King goes straight back to his normal square.
+13,Qf3+,d1f3,r1bq1b1r/ppp2kpp/2n5/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R b KQ - 1 7,(?) King goes straight back to his normal square.
+14,Ke8,f7e8,r1bqkb1r/ppp3pp/2n5/3np3/2B5/5Q2/PPPP1PPP/RNB1K2R w KQ - 2 8,(?) King goes straight back to his normal square.
+15,Bxd5,c4d5,r1bqkb1r/ppp3pp/2n5/3Bp3/8/5Q2/PPPP1PPP/RNB1K2R b KQ - 0 8,Free knight.
+16,Qf6,d8f6,r1b1kb1r/ppp3pp/2n2q2/3Bp3/8/5Q2/PPPP1PPP/RNB1K2R w KQ - 1 9,Queen swap.
+17,Qxf6,f3f6,r1b1kb1r/ppp3pp/2n2Q2/3Bp3/8/8/PPPP1PPP/RNB1K2R b KQ - 0 9,Why not?
+18,gxf6,g7f6,r1b1kb1r/ppp4p/2n2p2/3Bp3/8/8/PPPP1PPP/RNB1K2R w KQ - 0 10,"Threatening Nxc2+, winning rook."
+19,Nc3,b1c3,r1b1kb1r/ppp4p/2n2p2/3Bp3/8/2N5/PPPP1PPP/R1B1K2R b KQ - 1 10,"Threatening Nxc2+, winning rook."
+20,Nb4,c6b4,r1b1kb1r/ppp4p/5p2/3Bp3/1n6/2N5/PPPP1PPP/R1B1K2R w KQ - 2 11,"Threatening Nxc2+, winning rook."
+21,Bb3,d5b3,r1b1kb1r/ppp4p/5p2/4p3/1n6/1BN5/PPPP1PPP/R1B1K2R b KQ - 3 11,Another attacker on c2.
+22,Bf5,c8f5,r3kb1r/ppp4p/5p2/4pb2/1n6/1BN5/PPPP1PPP/R1B1K2R w KQ - 4 12,Another attacker on c2.
+23,d3,d2d3,r3kb1r/ppp4p/5p2/4pb2/1n6/1BNP4/PPP2PPP/R1B1K2R b KQ - 0 12,"Blocking c2, probably the best move."
+24,Ke7,e8e7,r4b1r/ppp1k2p/5p2/4pb2/1n6/1BNP4/PPP2PPP/R1B1K2R w KQ - 1 13,"(?) I didn't, don't and don't think ever will understand this move."
+25,a3,a2a3,r4b1r/ppp1k2p/5p2/4pb2/1n6/PBNP4/1PP2PPP/R1B1K2R b KQ - 0 13,Getting rid of the annoying knight.
+26,Nc6,b4c6,r4b1r/ppp1k2p/2n2p2/4pb2/8/PBNP4/1PP2PPP/R1B1K2R w KQ - 1 14,(!) Winning free pawn on f6. If: 14. Kf7? Nxc7+! winning rook. It works the same if black plays Ke6.
+27,Nd5+,c3d5,r4b1r/ppp1k2p/2n2p2/3Npb2/8/PB1P4/1PP2PPP/R1B1K2R b KQ - 2 14,(!) Winning free pawn on f6. If: 14. Kf7? Nxc7+! winning rook. It works the same if black plays Ke6.
+28,Kd6,e7d6,r4b1r/ppp4p/2nk1p2/3Npb2/8/PB1P4/1PP2PPP/R1B1K2R w KQ - 3 15,Developing with tempo.
+29,Nxf6,d5f6,r4b1r/ppp4p/2nk1N2/4pb2/8/PB1P4/1PP2PPP/R1B1K2R b KQ - 0 15,Developing with tempo.
+30,Be7,f8e7,r6r/ppp1b2p/2nk1N2/4pb2/8/PB1P4/1PP2PPP/R1B1K2R w KQ - 1 16,Developing with tempo.
+31,Nd5,f6d5,r6r/ppp1b2p/2nk4/3Npb2/8/PB1P4/1PP2PPP/R1B1K2R b KQ - 2 16,"Threatening my bishop, who is protecting my knight."
+32,Nd4,c6d4,r6r/ppp1b2p/3k4/3Npb2/3n4/PB1P4/1PP2PPP/R1B1K2R w KQ - 3 17,"Threatening my bishop, who is protecting my knight."
+33,Nxe7,d5e7,r6r/ppp1N2p/3k4/4pb2/3n4/PB1P4/1PP2PPP/R1B1K2R b KQ - 0 17,"I swap, bishop for knight."
+34,Kxe7,d6e7,r6r/ppp1k2p/8/4pb2/3n4/PB1P4/1PP2PPP/R1B1K2R w KQ - 0 18,"Probably the best move. If I had played Ba4, this is what would have happened… 18. b5 19. Bb3 Nxb3 20. cxb3 Bxd3 (winning free pawn)"
+35,Kd2,e1d2,r6r/ppp1k2p/8/4pb2/3n4/PB1P4/1PPK1PPP/R1B4R b - - 1 18,"Probably the best move. If I had played Ba4, this is what would have happened… 18. b5 19. Bb3 Nxb3 20. cxb3 Bxd3 (winning free pawn)"

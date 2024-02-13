@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,standard opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,setting the gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,setting the gambit
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3,conitnueing giving him anoth move to accept
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq - 2 3,conitnueing giving him anoth move to accept
+6,exf4,e5f4,r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 0 4,he accepts.
+7,d3,d2d3,r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/3P4/PPP3PP/RNBQK1NR b KQkq - 0 4,opening the gambit pawn taker.
+8,g5,g7g5,r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp2/3P4/PPP3PP/RNBQK1NR w KQkq - 0 5,he attempts to guard
+9,Nc3,b1c3,r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp2/2NP4/PPP3PP/R1BQK1NR b KQkq - 1 5,continuing my development
+10,a6,a7a6,r1bqkbnr/1ppp1p1p/p1n5/6p1/2B1Pp2/2NP4/PPP3PP/R1BQK1NR w KQkq - 0 6,a little early
+11,Nf3,g1f3,r1bqkbnr/1ppp1p1p/p1n5/6p1/2B1Pp2/2NP1N2/PPP3PP/R1BQK2R b KQkq - 1 6,no i see why he did a3 but no matter
+12,b5,b7b5,r1bqkbnr/2pp1p1p/p1n5/1p4p1/2B1Pp2/2NP1N2/PPP3PP/R1BQK2R w KQkq - 0 7,no i see why he did a3 but no matter
+13,Bb3,c4b3,r1bqkbnr/2pp1p1p/p1n5/1p4p1/4Pp2/1BNP1N2/PPP3PP/R1BQK2R b KQkq - 1 7,pushing my men to better squares.
+14,b4,b5b4,r1bqkbnr/2pp1p1p/p1n5/6p1/1p2Pp2/1BNP1N2/PPP3PP/R1BQK2R w KQkq - 0 8,pushing my men to better squares.
+15,Nd5,c3d5,r1bqkbnr/2pp1p1p/p1n5/3N2p1/1p2Pp2/1B1P1N2/PPP3PP/R1BQK2R b KQkq - 1 8,time to retrive my pawn.
+16,Nh6,g8h6,r1bqkb1r/2pp1p1p/p1n4n/3N2p1/1p2Pp2/1B1P1N2/PPP3PP/R1BQK2R w KQkq - 2 9,time to retrive my pawn.
+17,h4,h2h4,r1bqkb1r/2pp1p1p/p1n4n/3N2p1/1p2Pp1P/1B1P1N2/PPP3P1/R1BQK2R b KQkq - 0 9,time to retrive my pawn.
+18,g4,g5g4,r1bqkb1r/2pp1p1p/p1n4n/3N4/1p2PppP/1B1P1N2/PPP3P1/R1BQK2R w KQkq - 0 10,"funny, but ill just go around"
+19,Ng5,f3g5,r1bqkb1r/2pp1p1p/p1n4n/3N2N1/1p2PppP/1B1P4/PPP3P1/R1BQK2R b KQkq - 1 10,2 knights on the 5th rank cannot be making black feel good.
+20,Bd6,f8d6,r1bqk2r/2pp1p1p/p1nb3n/3N2N1/1p2PppP/1B1P4/PPP3P1/R1BQK2R w KQkq - 2 11,trade off is ok with me
+21,Bxf4,c1f4,r1bqk2r/2pp1p1p/p1nb3n/3N2N1/1p2PBpP/1B1P4/PPP3P1/R2QK2R b KQkq - 0 11,trade off is ok with me
+22,Bxf4,d6f4,r1bqk2r/2pp1p1p/p1n4n/3N2N1/1p2PbpP/1B1P4/PPP3P1/R2QK2R w KQkq - 0 12,trade off is ok with me
+23,Nxf4,d5f4,r1bqk2r/2pp1p1p/p1n4n/6N1/1p2PNpP/1B1P4/PPP3P1/R2QK2R b KQkq - 0 12,time to get a work on my open file.
+24,d6,d7d6,r1bqk2r/2p2p1p/p1np3n/6N1/1p2PNpP/1B1P4/PPP3P1/R2QK2R w KQkq - 0 13,time to get a work on my open file.
+25,Rf1,h1f1,r1bqk2r/2p2p1p/p1np3n/6N1/1p2PNpP/1B1P4/PPP3P1/R2QKR2 b Qkq - 1 13,time to get a work on my open file.
+26,f6,f7f6,r1bqk2r/2p4p/p1np1p1n/6N1/1p2PNpP/1B1P4/PPP3P1/R2QKR2 w Qkq - 0 14,offering another trade.
+27,Nge6,g5e6,r1bqk2r/2p4p/p1npNp1n/8/1p2PNpP/1B1P4/PPP3P1/R2QKR2 b Qkq - 1 14,offering another trade.
+28,Bxe6,c8e6,r2qk2r/2p4p/p1npbp1n/8/1p2PNpP/1B1P4/PPP3P1/R2QKR2 w Qkq - 0 15,i took with knight cause i liked the bishop staying back for the moment and offering support.
+29,Nxe6,f4e6,r2qk2r/2p4p/p1npNp1n/8/1p2P1pP/1B1P4/PPP3P1/R2QKR2 b Qkq - 0 15,i took with knight cause i liked the bishop staying back for the moment and offering support.
+30,Qe7,d8e7,r3k2r/2p1q2p/p1npNp1n/8/1p2P1pP/1B1P4/PPP3P1/R2QKR2 w Qkq - 1 16,guarding the paen and getting her out of danger.
+31,Qd2,d1d2,r3k2r/2p1q2p/p1npNp1n/8/1p2P1pP/1B1P4/PPPQ2P1/R3KR2 b Qkq - 2 16,attacking the other knight
+32,Ng8,h6g8,r3k1nr/2p1q2p/p1npNp2/8/1p2P1pP/1B1P4/PPPQ2P1/R3KR2 w Qkq - 3 17,i might need 2 rooks for this.
+33,O-O-O,e1c1,r3k1nr/2p1q2p/p1npNp2/8/1p2P1pP/1B1P4/PPPQ2P1/2KR1R2 b kq - 4 17,i might need 2 rooks for this.

@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's pawn defence
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"sicillian defence, it is most popular opening"
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,5. Nc3 playable
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,5. Nc3 playable
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,5. Nc3 playable
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,5. Nc3 playable
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,5. Nc3 playable
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,5. Nc3 playable
+9,Nxc6,d4c6,r1bqkb1r/pp1ppppp/2N2n2/8/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 0 5,5. Nc3 playable
+10,bxc6,b7c6,r1bqkb1r/p2ppppp/2p2n2/8/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 0 6,7.. Bc5 looks better
+11,Bd3,f1d3,r1bqkb1r/p2ppppp/2p2n2/8/4P3/3B4/PPP2PPP/RNBQK2R b KQkq - 1 6,7.. Bc5 looks better
+12,e6,e7e6,r1bqkb1r/p2p1ppp/2p1pn2/8/4P3/3B4/PPP2PPP/RNBQK2R w KQkq - 0 7,7.. Bc5 looks better
+13,O-O,e1g1,r1bqkb1r/p2p1ppp/2p1pn2/8/4P3/3B4/PPP2PPP/RNBQ1RK1 b kq - 1 7,7.. Bc5 looks better
+14,Be7,f8e7,r1bqk2r/p2pbppp/2p1pn2/8/4P3/3B4/PPP2PPP/RNBQ1RK1 w kq - 2 8,7.. Bc5 looks better
+15,Qf3,d1f3,r1bqk2r/p2pbppp/2p1pn2/8/4P3/3B1Q2/PPP2PPP/RNB2RK1 b kq - 3 8,8. Nc3 also playable
+16,d5,d7d5,r1bqk2r/p3bppp/2p1pn2/3p4/4P3/3B1Q2/PPP2PPP/RNB2RK1 w kq - 0 9,good move
+17,e5,e4e5,r1bqk2r/p3bppp/2p1pn2/3pP3/8/3B1Q2/PPP2PPP/RNB2RK1 b kq - 0 9,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+18,Nd7,f6d7,r1bqk2r/p2nbppp/2p1p3/3pP3/8/3B1Q2/PPP2PPP/RNB2RK1 w kq - 1 10,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+19,Qg3,f3g3,r1bqk2r/p2nbppp/2p1p3/3pP3/8/3B2Q1/PPP2PPP/RNB2RK1 b kq - 2 10,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+20,g6,g7g6,r1bqk2r/p2nbp1p/2p1p1p1/3pP3/8/3B2Q1/PPP2PPP/RNB2RK1 w kq - 0 11,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+21,Nc3,b1c3,r1bqk2r/p2nbp1p/2p1p1p1/3pP3/8/2NB2Q1/PPP2PPP/R1B2RK1 b kq - 1 11,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+22,Bh4,e7h4,r1bqk2r/p2n1p1p/2p1p1p1/3pP3/7b/2NB2Q1/PPP2PPP/R1B2RK1 w kq - 2 12,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+23,Qe3,g3e3,r1bqk2r/p2n1p1p/2p1p1p1/3pP3/7b/2NBQ3/PPP2PPP/R1B2RK1 b kq - 3 12,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+24,Nb6,d7b6,r1bqk2r/p4p1p/1np1p1p1/3pP3/7b/2NBQ3/PPP2PPP/R1B2RK1 w kq - 4 13,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+25,Qh6,e3h6,r1bqk2r/p4p1p/1np1p1pQ/3pP3/7b/2NB4/PPP2PPP/R1B2RK1 b kq - 5 13,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+26,Kd7,e8d7,r1bq3r/p2k1p1p/1np1p1pQ/3pP3/7b/2NB4/PPP2PPP/R1B2RK1 w - - 6 14,"if 13.. Be7, 14. Qg7 going to win h7 pawn"
+27,a4,a2a4,r1bq3r/p2k1p1p/1np1p1pQ/3pP3/P6b/2NB4/1PP2PPP/R1B2RK1 b - - 0 14,"such a intelligent move if 15.. Nc8 16. a6 going to win a Bishop or if 15.. Nc4, 16. Bxc4 dxc4 17. Rd1+ forks"
+28,Bb7,c8b7,r2q3r/pb1k1p1p/1np1p1pQ/3pP3/P6b/2NB4/1PP2PPP/R1B2RK1 w - - 1 15,"such a intelligent move if 15.. Nc8 16. a6 going to win a Bishop or if 15.. Nc4, 16. Bxc4 dxc4 17. Rd1+ forks"
+29,a5,a4a5,r2q3r/pb1k1p1p/1np1p1pQ/P2pP3/7b/2NB4/1PP2PPP/R1B2RK1 b - - 0 15,"such a intelligent move if 15.. Nc8 16. a6 going to win a Bishop or if 15.. Nc4, 16. Bxc4 dxc4 17. Rd1+ forks"
+30,d4,d5d4,r2q3r/pb1k1p1p/1np1p1pQ/P3P3/3p3b/2NB4/1PP2PPP/R1B2RK1 w - - 0 16,"such a intelligent move if 15.. Nc8 16. a6 going to win a Bishop or if 15.. Nc4, 16. Bxc4 dxc4 17. Rd1+ forks"
+31,axb6,a5b6,r2q3r/pb1k1p1p/1Pp1p1pQ/4P3/3p3b/2NB4/1PP2PPP/R1B2RK1 b - - 0 16,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+32,dxc3,d4c3,r2q3r/pb1k1p1p/1Pp1p1pQ/4P3/7b/2pB4/1PP2PPP/R1B2RK1 w - - 0 17,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+33,Rxa7,a1a7,r2q3r/Rb1k1p1p/1Pp1p1pQ/4P3/7b/2pB4/1PP2PPP/2B2RK1 b - - 0 17,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+34,Rxa7,a8a7,3q3r/rb1k1p1p/1Pp1p1pQ/4P3/7b/2pB4/1PP2PPP/2B2RK1 w - - 0 18,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+35,bxa7,b6a7,3q3r/Pb1k1p1p/2p1p1pQ/4P3/7b/2pB4/1PP2PPP/2B2RK1 b - - 0 18,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+36,cxb2,c3b2,3q3r/Pb1k1p1p/2p1p1pQ/4P3/7b/3B4/1pP2PPP/2B2RK1 w - - 0 19,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+37,Bxb2,c1b2,3q3r/Pb1k1p1p/2p1p1pQ/4P3/7b/3B4/1BP2PPP/5RK1 b - - 0 19,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+38,Be7,h4e7,3q3r/Pb1kbp1p/2p1p1pQ/4P3/8/3B4/1BP2PPP/5RK1 w - - 1 20,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+39,Qg7,h6g7,3q3r/Pb1kbpQp/2p1p1p1/4P3/8/3B4/1BP2PPP/5RK1 b - - 2 20,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+40,Rf8,h8f8,3q1r2/Pb1kbpQp/2p1p1p1/4P3/8/3B4/1BP2PPP/5RK1 w - - 3 21,"20..Qg8 better, but black thinks that, white have to do 21. Bxg6 and chance to get one of white's Bishop. By moving ..Qb6. But he falls here"
+41,Bxg6,d3g6,3q1r2/Pb1kbpQp/2p1p1B1/4P3/8/8/1BP2PPP/5RK1 b - - 0 21,"is it a clever move? If 21..hxg6 22. Rd1+ forks, but now black has an idea"
+42,Qb6,d8b6,5r2/Pb1kbpQp/1qp1p1B1/4P3/8/8/1BP2PPP/5RK1 w - - 1 22,"good move now white's one of bishop should go out, right?? But not"
+43,Bxf7,g6f7,5r2/Pb1kbBQp/1qp1p3/4P3/8/8/1BP2PPP/5RK1 b - - 0 22,fine move
+44,Qxb2,b6b2,5r2/Pb1kbBQp/2p1p3/4P3/8/8/1qP2PPP/5RK1 w - - 0 23,he can't 24.. Rd8 25. Qf7. But this is better 24..Qa3 25. Rd7+ Kb6 26. Bg4
+45,Rd1+,f1d1,5r2/Pb1kbBQp/2p1p3/4P3/8/8/1qP2PPP/3R2K1 b - - 1 23,he can't 24.. Rd8 25. Qf7. But this is better 24..Qa3 25. Rd7+ Kb6 26. Bg4
+46,Kc7,d7c7,5r2/Pbk1bBQp/2p1p3/4P3/8/8/1qP2PPP/3R2K1 w - - 2 24,he can't 24.. Rd8 25. Qf7. But this is better 24..Qa3 25. Rd7+ Kb6 26. Bg4
+47,Bxe6,f7e6,5r2/Pbk1b1Qp/2p1B3/4P3/8/8/1qP2PPP/3R2K1 b - - 0 24,he can't 24.. Rd8 25. Qf7. But this is better 24..Qa3 25. Rd7+ Kb6 26. Bg4
+48,Ra8,f8a8,r7/Pbk1b1Qp/2p1B3/4P3/8/8/1qP2PPP/3R2K1 w - - 1 25,he can't 24.. Rd8 25. Qf7. But this is better 24..Qa3 25. Rd7+ Kb6 26. Bg4
+49,Qxe7+,g7e7,r7/Pbk1Q2p/2p1B3/4P3/8/8/1qP2PPP/3R2K1 b - - 0 25,he got his bishop back
+50,Kb6,c7b6,r7/Pb2Q2p/1kp1B3/4P3/8/8/1qP2PPP/3R2K1 w - - 1 26,black resigns
+51,Bf5,e6f5,r7/Pb2Q2p/1kp5/4PB2/8/8/1qP2PPP/3R2K1 b - - 2 26,black resigns
+52,Rxa7,a8a7,8/rb2Q2p/1kp5/4PB2/8/8/1qP2PPP/3R2K1 w - - 0 27,black resigns
+53,Qd8+,e7d8,3Q4/rb5p/1kp5/4PB2/8/8/1qP2PPP/3R2K1 b - - 1 27,black resigns
+54,Kc5,b6c5,3Q4/rb5p/2p5/2k1PB2/8/8/1qP2PPP/3R2K1 w - - 2 28,black resigns
+55,Qd6+,d8d6,8/rb5p/2pQ4/2k1PB2/8/8/1qP2PPP/3R2K1 b - - 3 28,black resigns
+56,Kb6,c5b6,8/rb5p/1kpQ4/4PB2/8/8/1qP2PPP/3R2K1 w - - 4 29,black resigns
+57,Bxh7,f5h7,8/rb5B/1kpQ4/4P3/8/8/1qP2PPP/3R2K1 b - - 0 29,black resigns
+58,Ra1,a7a1,8/1b5B/1kpQ4/4P3/8/8/1qP2PPP/r2R2K1 w - - 1 30,black resigns
+59,f4,f2f4,8/1b5B/1kpQ4/4P3/5P2/8/1qP3PP/r2R2K1 b - - 0 30,black resigns

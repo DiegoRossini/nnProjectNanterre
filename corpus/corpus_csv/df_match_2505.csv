@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Play d5, play d5"
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,aww
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Nimzo indian
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Nimzo indian
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Nimzo indian
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Nimzo indian
+7,Bg5,c1g5,rnbqk2r/pppp1ppp/4pn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,"No clue what do do here, and since I don't think I learn anything if I follow the database I'm playing out on limb."
+8,c5,c7c5,rnbqk2r/pp1p1ppp/4pn2/2p3B1/1bPP4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 5,Ohhhhhhh I somewhat unwisely take his queen.
+9,d5,d4d5,rnbqk2r/pp1p1ppp/4pn2/2pP2B1/1bP5/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5,Ohhhhhhh I somewhat unwisely take his queen.
+10,Nxd5,f6d5,rnbqk2r/pp1p1ppp/4p3/2pn2B1/1bP5/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6,Ohhhhhhh I somewhat unwisely take his queen.
+11,Bxd8,g5d8,rnbBk2r/pp1p1ppp/4p3/2pn4/1bP5/2N5/PP2PPPP/R2QKBNR b KQkq - 0 6,"?? I really think this was a blunder. I think I should have taken his knight and let him win my queen back. Although then, while I might have lasted longer, I wouldn't have even put up as much fuss as I did."
+12,Nxc3,d5c3,rnbBk2r/pp1p1ppp/4p3/2p5/1bP5/2n5/PP2PPPP/R2QKBNR w KQkq - 0 7,"?? I really think this was a blunder. I think I should have taken his knight and let him win my queen back. Although then, while I might have lasted longer, I wouldn't have even put up as much fuss as I did."
+13,Qc2,d1c2,rnbBk2r/pp1p1ppp/4p3/2p5/1bP5/2n5/PPQ1PPPP/R3KBNR b KQkq - 1 7,"?? I really think this was a blunder. I think I should have taken his knight and let him win my queen back. Although then, while I might have lasted longer, I wouldn't have even put up as much fuss as I did."
+14,Ne4+,c3e4,rnbBk2r/pp1p1ppp/4p3/2p5/1bP1n3/8/PPQ1PPPP/R3KBNR w KQkq - 2 8,Expected
+15,Kd1,e1d1,rnbBk2r/pp1p1ppp/4p3/2p5/1bP1n3/8/PPQ1PPPP/R2K1BNR b kq - 3 8,What else?
+16,Nxf2+,e4f2,rnbBk2r/pp1p1ppp/4p3/2p5/1bP5/8/PPQ1PnPP/R2K1BNR w kq - 0 9,What else?
+17,Kc1,d1c1,rnbBk2r/pp1p1ppp/4p3/2p5/1bP5/8/PPQ1PnPP/R1K2BNR b kq - 1 9,Forced
+18,Kxd8,e8d8,rnbk3r/pp1p1ppp/4p3/2p5/1bP5/8/PPQ1PnPP/R1K2BNR w - - 0 10,! No need to take the rook yet. I didn't think that he wouldn't take my rook immediately (I should have) and it totally threw off my calculations.
+19,a3,a2a3,rnbk3r/pp1p1ppp/4p3/2p5/1bP5/P7/1PQ1PnPP/R1K2BNR b - - 0 10,"I decide to play uber aggressive in the hope that I can get some counterplay. I can see that his wins a pawn, but it gives my rook an open file so maybe..."
+20,Ba5,b4a5,rnbk3r/pp1p1ppp/4p3/b1p5/2P5/P7/1PQ1PnPP/R1K2BNR w - - 1 11,"I decide to play uber aggressive in the hope that I can get some counterplay. I can see that his wins a pawn, but it gives my rook an open file so maybe..."
+21,b4,b2b4,rnbk3r/pp1p1ppp/4p3/b1p5/1PP5/P7/2Q1PnPP/R1K2BNR b - - 0 11,"I decide to play uber aggressive in the hope that I can get some counterplay. I can see that his wins a pawn, but it gives my rook an open file so maybe..."
+22,cxb4,c5b4,rnbk3r/pp1p1ppp/4p3/b7/1pP5/P7/2Q1PnPP/R1K2BNR w - - 0 12,He finally gobbles my rook
+23,axb4,a3b4,rnbk3r/pp1p1ppp/4p3/b7/1PP5/8/2Q1PnPP/R1K2BNR b - - 0 12,He finally gobbles my rook
+24,Bxb4,a5b4,rnbk3r/pp1p1ppp/4p3/8/1bP5/8/2Q1PnPP/R1K2BNR w - - 0 13,He finally gobbles my rook
+25,Qb3,c2b3,rnbk3r/pp1p1ppp/4p3/8/1bP5/1Q6/4PnPP/R1K2BNR b - - 1 13,He finally gobbles my rook
+26,Bc5,b4c5,rnbk3r/pp1p1ppp/4p3/2b5/2P5/1Q6/4PnPP/R1K2BNR w - - 2 14,He finally gobbles my rook
+27,Ra5,a1a5,rnbk3r/pp1p1ppp/4p3/R1b5/2P5/1Q6/4PnPP/2K2BNR b - - 3 14,He finally gobbles my rook
+28,Bb6,c5b6,rnbk3r/pp1p1ppp/1b2p3/R7/2P5/1Q6/4PnPP/2K2BNR w - - 4 15,He finally gobbles my rook
+29,Rg5,a5g5,rnbk3r/pp1p1ppp/1b2p3/6R1/2P5/1Q6/4PnPP/2K2BNR b - - 5 15,He finally gobbles my rook
+30,Nxh1,f2h1,rnbk3r/pp1p1ppp/1b2p3/6R1/2P5/1Q6/4P1PP/2K2BNn w - - 0 16,He finally gobbles my rook
+31,Rxg7,g5g7,rnbk3r/pp1p1pRp/1b2p3/8/2P5/1Q6/4P1PP/2K2BNn b - - 0 16,"I looked at some various moves here, this seemed best."
+32,Bxg1,b6g1,rnbk3r/pp1p1pRp/4p3/8/2P5/1Q6/4P1PP/2K2Bbn w - - 0 17,"And yes, I did see that he could take my knight, but I'm just attacking all out, so I don't really care about that knight."
+33,Rxf7,g7f7,rnbk3r/pp1p1R1p/4p3/8/2P5/1Q6/4P1PP/2K2Bbn b - - 0 17,Threatening Qf6+
+34,Nc6,b8c6,r1bk3r/pp1p1R1p/2n1p3/8/2P5/1Q6/4P1PP/2K2Bbn w - - 1 18,Threatening Qf6+
+35,Qf3,b3f3,r1bk3r/pp1p1R1p/2n1p3/8/2P5/5Q2/4P1PP/2K2Bbn b - - 2 18,Threatening Qf6+
+36,Bd4,g1d4,r1bk3r/pp1p1R1p/2n1p3/8/2Pb4/5Q2/4P1PP/2K2B1n w - - 3 19,Deals with it
+37,Rf8+,f7f8,r1bk1R1r/pp1p3p/2n1p3/8/2Pb4/5Q2/4P1PP/2K2B1n b - - 4 19,"?? Never, ever, ever, trade one of your active pieces when you're way behind. My reasoning was something like this. Rf8+ Rxf8 Qxf8+ Kc7 Qf4+ forking his king and bishop, I then somehow assumed that he could do one of these three things. One: Kd8 where I could play Qf8+ and keep repeating it until he changed his move. Two: Kb6 I was then hoping that I could somehow get perpetual check or something, I didn't really analyze it. Or three, I though he could play Ne5, but for some reason I didn't notice Be5."
+38,Rxf8,h8f8,r1bk1r2/pp1p3p/2n1p3/8/2Pb4/5Q2/4P1PP/2K2B1n w - - 0 20,! Totally sucks the remaining life out of me.
+39,Qxf8+,f3f8,r1bk1Q2/pp1p3p/2n1p3/8/2Pb4/8/4P1PP/2K2B1n b - - 0 20,! Totally sucks the remaining life out of me.
+40,Kc7,d8c7,r1b2Q2/ppkp3p/2n1p3/8/2Pb4/8/4P1PP/2K2B1n w - - 1 21,! Totally sucks the remaining life out of me.
+41,Qf4+,f8f4,r1b5/ppkp3p/2n1p3/8/2Pb1Q2/8/4P1PP/2K2B1n b - - 2 21,! Totally sucks the remaining life out of me.
+42,Be5,d4e5,r1b5/ppkp3p/2n1p3/4b3/2P2Q2/8/4P1PP/2K2B1n w - - 3 22,! Totally sucks the remaining life out of me.
+43,Qe4,f4e4,r1b5/ppkp3p/2n1p3/4b3/2P1Q3/8/4P1PP/2K2B1n b - - 4 22,"I looked at all kings of super suicide sacs here, like throwing all my piece at him and hoping for a stalemate (ridiculous I know, but I wanted to fight to the end) but I decided to just lay over and die."
+44,a5,a7a5,r1b5/1pkp3p/2n1p3/p3b3/2P1Q3/8/4P1PP/2K2B1n w - - 0 23,"I know, this is useless, but I want to win some material back if I'm going to lose."
+45,g3,g2g3,r1b5/1pkp3p/2n1p3/p3b3/2P1Q3/6P1/4P2P/2K2B1n b - - 0 23,"I know, this is useless, but I want to win some material back if I'm going to lose."
+46,a4,a5a4,r1b5/1pkp3p/2n1p3/4b3/p1P1Q3/6P1/4P2P/2K2B1n w - - 0 24,"I know, this is useless, but I want to win some material back if I'm going to lose."
+47,Qxh1,e4h1,r1b5/1pkp3p/2n1p3/4b3/p1P5/6P1/4P2P/2K2B1Q b - - 0 24,"I know, this is useless, but I want to win some material back if I'm going to lose."

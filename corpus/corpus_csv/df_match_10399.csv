@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"basic e4 move, my favourite"
+2,h5,h7h5,rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,thats an unusual move?????
+3,Nf3,g1f3,rnbqkbnr/ppppppp1/8/7p/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,good developing move
+4,d5,d7d5,rnbqkbnr/ppp1ppp1/8/3p3p/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,attacks at last
+5,Nc3,b1c3,rnbqkbnr/ppp1ppp1/8/3p3p/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,silly move he can do d4
+6,d4,d5d4,rnbqkbnr/ppp1ppp1/8/7p/3pP3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,he does
+7,Nb5,c3b5,rnbqkbnr/ppp1ppp1/8/1N5p/3pP3/5N2/PPPP1PPP/R1BQKB1R b KQkq - 1 4,i decide to attack and am attacking pawn on e4
+8,Bg4,c8g4,rn1qkbnr/ppp1ppp1/8/1N5p/3pP1b1/5N2/PPPP1PPP/R1BQKB1R w KQkq - 2 5,good move. this stops me from taking e4 with both my knights.
+9,Nbxd4,b5d4,rn1qkbnr/ppp1ppp1/8/7p/3NP1b1/5N2/PPPP1PPP/R1BQKB1R b KQkq - 0 5,i take anyway
+10,e5,e7e5,rn1qkbnr/ppp2pp1/8/4p2p/3NP1b1/5N2/PPPP1PPP/R1BQKB1R w KQkq - 0 6,attack me
+11,Nxe5,f3e5,rn1qkbnr/ppp2pp1/8/4N2p/3NP1b1/8/PPPP1PPP/R1BQKB1R b KQkq - 0 6,really bad move. i wasn't thinking.
+12,Bxd1,g4d1,rn1qkbnr/ppp2pp1/8/4N2p/3NP3/8/PPPP1PPP/R1BbKB1R w KQkq - 0 7,i wanted to resign but i thought i could still win it.
+13,Kxd1,e1d1,rn1qkbnr/ppp2pp1/8/4N2p/3NP3/8/PPPP1PPP/R1BK1B1R b kq - 0 7,i wanted to resign but i thought i could still win it.
+14,Qxd4,d8d4,rn2kbnr/ppp2pp1/8/4N2p/3qP3/8/PPPP1PPP/R1BK1B1R w kq - 0 8,maybe not.
+15,Nf3,e5f3,rn2kbnr/ppp2pp1/8/7p/3qP3/5N2/PPPP1PPP/R1BK1B1R b kq - 1 8,good pawn structure is a good sign of defence.
+16,Qd8,d4d8,rn1qkbnr/ppp2pp1/8/7p/4P3/5N2/PPPP1PPP/R1BK1B1R w kq - 2 9,good pawn structure is a good sign of defence.
+17,d3,d2d3,rn1qkbnr/ppp2pp1/8/7p/4P3/3P1N2/PPP2PPP/R1BK1B1R b kq - 0 9,good pawn structure is a good sign of defence.
+18,Bc5,f8c5,rn1qk1nr/ppp2pp1/8/2b4p/4P3/3P1N2/PPP2PPP/R1BK1B1R w kq - 1 10,shouldn't have done the exchange. i might of needed that bishop and i was losing
+19,Be3,c1e3,rn1qk1nr/ppp2pp1/8/2b4p/4P3/3PBN2/PPP2PPP/R2K1B1R b kq - 2 10,shouldn't have done the exchange. i might of needed that bishop and i was losing
+20,Bxe3,c5e3,rn1qk1nr/ppp2pp1/8/7p/4P3/3PbN2/PPP2PPP/R2K1B1R w kq - 0 11,c6 is played so he can get his queen out
+21,fxe3,f2e3,rn1qk1nr/ppp2pp1/8/7p/4P3/3PPN2/PPP3PP/R2K1B1R b kq - 0 11,c6 is played so he can get his queen out
+22,c6,c7c6,rn1qk1nr/pp3pp1/2p5/7p/4P3/3PPN2/PPP3PP/R2K1B1R w kq - 0 12,c6 is played so he can get his queen out
+23,g3,g2g3,rn1qk1nr/pp3pp1/2p5/7p/4P3/3PPNP1/PPP4P/R2K1B1R b kq - 0 12,try to get my bishop developed
+24,Qb6,d8b6,rn2k1nr/pp3pp1/1qp5/7p/4P3/3PPNP1/PPP4P/R2K1B1R w kq - 1 13,"unusual move. although knight is threatening my rook, i can take his queen."
+25,Ke2,d1e2,rn2k1nr/pp3pp1/1qp5/7p/4P3/3PPNP1/PPP1K2P/R4B1R b kq - 2 13,"unusual move. although knight is threatening my rook, i can take his queen."
+26,Qxb2,b6b2,rn2k1nr/pp3pp1/2p5/7p/4P3/3PPNP1/PqP1K2P/R4B1R w kq - 0 14,"unusual move. although knight is threatening my rook, i can take his queen."
+27,Bh3,f1h3,rn2k1nr/pp3pp1/2p5/7p/4P3/3PPNPB/PqP1K2P/R6R b kq - 1 14,"unusual move. although knight is threatening my rook, i can take his queen."
+28,Qxc2+,b2c2,rn2k1nr/pp3pp1/2p5/7p/4P3/3PPNPB/P1q1K2P/R6R w kq - 0 15,"unusual move. although knight is threatening my rook, i can take his queen."
+29,Nd2,f3d2,rn2k1nr/pp3pp1/2p5/7p/4P3/3PP1PB/P1qNK2P/R6R b kq - 1 15,"unusual move. although knight is threatening my rook, i can take his queen."
+30,Nf6,g8f6,rn2k2r/pp3pp1/2p2n2/7p/4P3/3PP1PB/P1qNK2P/R6R w kq - 2 16,"unusual move. although knight is threatening my rook, i can take his queen."
+31,Rhc1,h1c1,rn2k2r/pp3pp1/2p2n2/7p/4P3/3PP1PB/P1qNK2P/R1R5 b kq - 3 16,"unusual move. although knight is threatening my rook, i can take his queen."
+32,Qb2,c2b2,rn2k2r/pp3pp1/2p2n2/7p/4P3/3PP1PB/Pq1NK2P/R1R5 w kq - 4 17,"unusual move. although knight is threatening my rook, i can take his queen."
+33,Rab1,a1b1,rn2k2r/pp3pp1/2p2n2/7p/4P3/3PP1PB/Pq1NK2P/1RR5 b kq - 5 17,"unusual move. although knight is threatening my rook, i can take his queen."
+34,Qxa2,b2a2,rn2k2r/pp3pp1/2p2n2/7p/4P3/3PP1PB/q2NK2P/1RR5 w kq - 0 18,"unusual move. although knight is threatening my rook, i can take his queen."
+35,Rxb7,b1b7,rn2k2r/pR3pp1/2p2n2/7p/4P3/3PP1PB/q2NK2P/2R5 b kq - 0 18,"unusual move. although knight is threatening my rook, i can take his queen."
+36,O-O,e8g8,rn3rk1/pR3pp1/2p2n2/7p/4P3/3PP1PB/q2NK2P/2R5 w - - 1 19,"unusual move. although knight is threatening my rook, i can take his queen."
+37,Ke1,e2e1,rn3rk1/pR3pp1/2p2n2/7p/4P3/3PP1PB/q2N3P/2R1K3 b - - 2 19,"unusual move. although knight is threatening my rook, i can take his queen."
+38,Na6,b8a6,r4rk1/pR3pp1/n1p2n2/7p/4P3/3PP1PB/q2N3P/2R1K3 w - - 3 20,"unusual move. although knight is threatening my rook, i can take his queen."
+39,Rxc6,c1c6,r4rk1/pR3pp1/n1R2n2/7p/4P3/3PP1PB/q2N3P/4K3 b - - 0 20,"unusual move. although knight is threatening my rook, i can take his queen."
+40,Rab8,a8b8,1r3rk1/pR3pp1/n1R2n2/7p/4P3/3PP1PB/q2N3P/4K3 w - - 1 21,"unusual move. although knight is threatening my rook, i can take his queen."
+41,Rxa7,b7a7,1r3rk1/R4pp1/n1R2n2/7p/4P3/3PP1PB/q2N3P/4K3 b - - 0 21,"unusual move. although knight is threatening my rook, i can take his queen."
+42,Nxe4,f6e4,1r3rk1/R4pp1/n1R5/7p/4n3/3PP1PB/q2N3P/4K3 w - - 0 22,"unusual move. although knight is threatening my rook, i can take his queen."
+43,dxe4,d3e4,1r3rk1/R4pp1/n1R5/7p/4P3/4P1PB/q2N3P/4K3 b - - 0 22,"unusual move. although knight is threatening my rook, i can take his queen."
+44,Qa3,a2a3,1r3rk1/R4pp1/n1R5/7p/4P3/q3P1PB/3N3P/4K3 w - - 1 23,"unusual move. although knight is threatening my rook, i can take his queen."
+45,Ke2,e1e2,1r3rk1/R4pp1/n1R5/7p/4P3/q3P1PB/3NK2P/8 b - - 2 23,"unusual move. although knight is threatening my rook, i can take his queen."
+46,Nb4,a6b4,1r3rk1/R4pp1/2R5/7p/1n2P3/q3P1PB/3NK2P/8 w - - 3 24,"unusual move. although knight is threatening my rook, i can take his queen."
+47,Rxa3,a7a3,1r3rk1/5pp1/2R5/7p/1n2P3/R3P1PB/3NK2P/8 b - - 0 24,another funny move. Why not Kxc6?
+48,Rba8,b8a8,r4rk1/5pp1/2R5/7p/1n2P3/R3P1PB/3NK2P/8 w - - 1 25,another funny move. Why not Kxc6?
+49,Rxa8,a3a8,R4rk1/5pp1/2R5/7p/1n2P3/4P1PB/3NK2P/8 b - - 0 25,no i'm for a chance to win.
+50,Nxc6,b4c6,R4rk1/5pp1/2n5/7p/4P3/4P1PB/3NK2P/8 w - - 0 26,no i'm for a chance to win.
+51,Rxf8+,a8f8,5Rk1/5pp1/2n5/7p/4P3/4P1PB/3NK2P/8 b - - 0 26,no i'm for a chance to win.
+52,Kxf8,g8f8,5k2/5pp1/2n5/7p/4P3/4P1PB/3NK2P/8 w - - 0 27,no i'm for a chance to win.

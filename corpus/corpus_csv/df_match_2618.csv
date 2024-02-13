@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,kings pawn opening
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian defence
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"trade
+I also thought it might give the knight more centre control"
+4,a6,a7a6,rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"trade
+I also thought it might give the knight more centre control"
+5,d4,d2d4,rnbqkbnr/1p1ppppp/p7/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"trade
+I also thought it might give the knight more centre control"
+6,cxd4,c5d4,rnbqkbnr/1p1ppppp/p7/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"trade
+I also thought it might give the knight more centre control"
+7,Nxd4,f3d4,rnbqkbnr/1p1ppppp/p7/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"trade
+I also thought it might give the knight more centre control"
+8,e6,e7e6,rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5,Develop
+9,Nc3,b1c3,rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5,Develop
+10,e5,e6e5,rnbqkbnr/1p1p1ppp/p7/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,best move I think
+11,Nf3,d4f3,rnbqkbnr/1p1p1ppp/p7/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 6,best move I think
+12,d6,d7d6,rnbqkbnr/1p3ppp/p2p4/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 7,best move I think
+13,Ng5,f3g5,rnbqkbnr/1p3ppp/p2p4/4p1N1/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 7,best move I think
+14,Be7,f8e7,rnbqk1nr/1p2bppp/p2p4/4p1N1/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 2 8,best move I think
+15,Bc4,f1c4,rnbqk1nr/1p2bppp/p2p4/4p1N1/2B1P3/2N5/PPP2PPP/R1BQK2R b KQkq - 3 8,trade
+16,Bxg5,e7g5,rnbqk1nr/1p3ppp/p2p4/4p1b1/2B1P3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 9,trade
+17,Bxg5,c1g5,rnbqk1nr/1p3ppp/p2p4/4p1B1/2B1P3/2N5/PPP2PPP/R2QK2R b KQkq - 0 9,trade
+18,Qxg5,d8g5,rnb1k1nr/1p3ppp/p2p4/4p1q1/2B1P3/2N5/PPP2PPP/R2QK2R w KQkq - 0 10,I would have gone for qe3
+19,Qxd6,d1d6,rnb1k1nr/1p3ppp/p2Q4/4p1q1/2B1P3/2N5/PPP2PPP/R3K2R b KQkq - 0 10,I would have gone for qe3
+20,Qxg2,g5g2,rnb1k1nr/1p3ppp/p2Q4/4p3/2B1P3/2N5/PPP2PqP/R3K2R w KQkq - 0 11,I would have gone for qe3
+21,O-O-O,e1c1,rnb1k1nr/1p3ppp/p2Q4/4p3/2B1P3/2N5/PPP2PqP/2KR3R b kq - 1 11,I would have gone for qe3
+22,Nc6,b8c6,r1b1k1nr/1p3ppp/p1nQ4/4p3/2B1P3/2N5/PPP2PqP/2KR3R w kq - 2 12,I would have gone for qe3
+23,h3,h2h3,r1b1k1nr/1p3ppp/p1nQ4/4p3/2B1P3/2N4P/PPP2Pq1/2KR3R b kq - 0 12,I would have gone for qe3
+24,Qxf2,g2f2,r1b1k1nr/1p3ppp/p1nQ4/4p3/2B1P3/2N4P/PPP2q2/2KR3R w kq - 0 13,I would have gone for qe3
+25,Nd5,c3d5,r1b1k1nr/1p3ppp/p1nQ4/3Np3/2B1P3/7P/PPP2q2/2KR3R b kq - 1 13,I would have gone for qe3
+26,Nge7,g8e7,r1b1k2r/1p2nppp/p1nQ4/3Np3/2B1P3/7P/PPP2q2/2KR3R w kq - 2 14,I would have gone for qe3
+27,Nc7+,d5c7,r1b1k2r/1pN1nppp/p1nQ4/4p3/2B1P3/7P/PPP2q2/2KR3R b kq - 3 14,fork
+28,Kf8,e8f8,r1b2k1r/1pN1nppp/p1nQ4/4p3/2B1P3/7P/PPP2q2/2KR3R w - - 4 15,forced
+29,Qd8+,d6d8,r1bQ1k1r/1pN1nppp/p1n5/4p3/2B1P3/7P/PPP2q2/2KR3R b - - 5 15,forced
+30,Nxd8,c6d8,r1bn1k1r/1pN1nppp/p7/4p3/2B1P3/7P/PPP2q2/2KR3R w - - 0 16,forced
+31,Rxd8#,d1d8,r1bR1k1r/1pN1nppp/p7/4p3/2B1P3/7P/PPP2q2/2K4R b - - 0 16,"mate
+
+Can you believe it? I beat the oldest kid!
+Apparently he was never as good as the other kids his age.
+But its nice to know I can beat a 14 year old.
+
+What did you think? I think I played better than any of my other annotated games
+Thanks for viewing"

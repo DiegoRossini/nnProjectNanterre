@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"I don't really know much about book openings, but the database says this is Philidor's defence."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"I don't really know much about book openings, but the database says this is Philidor's defence."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"I don't really know much about book openings, but the database says this is Philidor's defence."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"I don't really know much about book openings, but the database says this is Philidor's defence."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"This is the most common move at this point, and I prefer it as I like open games rather than ones where the board is clogged up with static pawns."
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"Putting a bit of pressure on f7, this might be useful later on. Recently I've taken to putting the LSB on c4 rather than b5 to see how it works out."
+7,Bc4,f1c4,rn1qkbnr/ppp2ppp/3p4/4p3/2BPP1b1/5N2/PPP2PPP/RNBQK2R b KQkq - 2 4,"Putting a bit of pressure on f7, this might be useful later on. Recently I've taken to putting the LSB on c4 rather than b5 to see how it works out."
+8,Nf6,g8f6,rn1qkb1r/ppp2ppp/3p1n2/4p3/2BPP1b1/5N2/PPP2PPP/RNBQK2R w KQkq - 3 5,"Making some space in the centre, if ..dxe5 then Qxd8 and black can't castle."
+9,dxe5,d4e5,rn1qkb1r/ppp2ppp/3p1n2/4P3/2B1P1b1/5N2/PPP2PPP/RNBQK2R b KQkq - 0 5,"Making some space in the centre, if ..dxe5 then Qxd8 and black can't castle."
+10,Bxf3,g4f3,rn1qkb1r/ppp2ppp/3p1n2/4P3/2B1P3/5b2/PPP2PPP/RNBQK2R w KQkq - 0 6,Retaking with the queen to keep the K-side pawns in tact.
+11,Qxf3,d1f3,rn1qkb1r/ppp2ppp/3p1n2/4P3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 0 6,Retaking with the queen to keep the K-side pawns in tact.
+12,dxe5,d6e5,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 0 7,"With the white queen no longer on d1, black can do this without losing his right to castle."
+13,Qb3,f3b3,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 1 7,"putting a double attack on f7, which is only defended once, this forces black to try to defend it. The white queen is also attacking b7, so black cannot defend both threats at once."
+14,Qe7,d8e7,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 2 8,Protecting f7.
+15,Qxb7,b3b7,rn2kb1r/pQp1qppp/5n2/4p3/2B1P3/8/PPP2PPP/RNB1K2R b KQkq - 0 8,"Taking the undefended pawn, and putting black at risk of losing his rook."
+16,Qc5,e7c5,rn2kb1r/pQp2ppp/5n2/2q1p3/2B1P3/8/PPP2PPP/RNB1K2R w KQkq - 1 9,"Attacks the undefended LSB, also points at f2."
+17,Qb5+,b7b5,rn2kb1r/p1p2ppp/5n2/1Qq1p3/2B1P3/8/PPP2PPP/RNB1K2R b KQkq - 2 9,"I had a good think about this move, I suspected I could probably get away with taking the rook, but I was a bit concerned about my king being out in the open and black playing Ng4, so decided to swap queens and take the one pawn advantage.
+
+Analysis with houdini says this is a blunder, scoring Qxa8 as +7 and Qb5+ as +1."
+18,Qxb5,c5b5,rn2kb1r/p1p2ppp/5n2/1q2p3/2B1P3/8/PPP2PPP/RNB1K2R w KQkq - 0 10,"Having swapped queens, the LSB moves back to defend e4 from the knight."
+19,Bxb5+,c4b5,rn2kb1r/p1p2ppp/5n2/1B2p3/4P3/8/PPP2PPP/RNB1K2R b KQkq - 0 10,"Having swapped queens, the LSB moves back to defend e4 from the knight."
+20,c6,c7c6,rn2kb1r/p4ppp/2p2n2/1B2p3/4P3/8/PPP2PPP/RNB1K2R w KQkq - 0 11,"Having swapped queens, the LSB moves back to defend e4 from the knight."
+21,Bd3,b5d3,rn2kb1r/p4ppp/2p2n2/4p3/4P3/3B4/PPP2PPP/RNB1K2R b KQkq - 1 11,"Having swapped queens, the LSB moves back to defend e4 from the knight."
+22,Nbd7,b8d7,r3kb1r/p2n1ppp/2p2n2/4p3/4P3/3B4/PPP2PPP/RNB1K2R w KQkq - 2 12,12 moves in so really need to get the pieces out at this point. Putting the DSB here temporarily ties blacks a8 rook to defending a7.
+23,Be3,c1e3,r3kb1r/p2n1ppp/2p2n2/4p3/4P3/3BB3/PPP2PPP/RN2K2R b KQkq - 3 12,12 moves in so really need to get the pieces out at this point. Putting the DSB here temporarily ties blacks a8 rook to defending a7.
+24,c5,c6c5,r3kb1r/p2n1ppp/5n2/2p1p3/4P3/3BB3/PPP2PPP/RN2K2R w KQkq - 0 13,"Just getting the pieces out still, no real plan at this stage."
+25,Nc3,b1c3,r3kb1r/p2n1ppp/5n2/2p1p3/4P3/2NBB3/PPP2PPP/R3K2R b KQkq - 1 13,"Just getting the pieces out still, no real plan at this stage."
+26,Ng4,f6g4,r3kb1r/p2n1ppp/8/2p1p3/4P1n1/2NBB3/PPP2PPP/R3K2R w KQkq - 2 14,"Given the open board, I don't really want to exchange a bishop for a knight, so I move the bishop away."
+27,Bg5,e3g5,r3kb1r/p2n1ppp/8/2p1p1B1/4P1n1/2NB4/PPP2PPP/R3K2R b KQkq - 3 14,"Given the open board, I don't really want to exchange a bishop for a knight, so I move the bishop away."
+28,h6,h7h6,r3kb1r/p2n1pp1/7p/2p1p1B1/4P1n1/2NB4/PPP2PPP/R3K2R w KQkq - 0 15,Keeping the bishop on the d8-h4 diagonal to attack squares near the black king.
+29,Bh4,g5h4,r3kb1r/p2n1pp1/7p/2p1p3/4P1nB/2NB4/PPP2PPP/R3K2R b KQkq - 1 15,Keeping the bishop on the d8-h4 diagonal to attack squares near the black king.
+30,g5,g7g5,r3kb1r/p2n1p2/7p/2p1p1p1/4P1nB/2NB4/PPP2PPP/R3K2R w KQkq - 0 16,Only move at this point. Leaves black's king without much defence although with the queens off the board this probably doesn't matter too much.
+31,Bg3,h4g3,r3kb1r/p2n1p2/7p/2p1p1p1/4P1n1/2NB2B1/PPP2PPP/R3K2R b KQkq - 1 16,Only move at this point. Leaves black's king without much defence although with the queens off the board this probably doesn't matter too much.
+32,Bg7,f8g7,r3k2r/p2n1pb1/7p/2p1p1p1/4P1n1/2NB2B1/PPP2PPP/R3K2R w KQkq - 2 17,"I'm not sure this was a good move, the long diagonal is blocked so the DSB would have been better developing in the other direction."
+33,O-O-O,e1c1,r3k2r/p2n1pb1/7p/2p1p1p1/4P1n1/2NB2B1/PPP2PPP/2KR3R b kq - 3 17,"I castle queenside to get the rooks into action quicker, since with no queens on the board I'm not too concerned with the kings safety on the queenside."
+34,Nb6,d7b6,r3k2r/p4pb1/1n5p/2p1p1p1/4P1n1/2NB2B1/PPP2PPP/2KR3R w kq - 4 18,"Taking away the kings ability to castle, since black can't block the check with Nd7 as that square is attacked twice."
+35,Bb5+,d3b5,r3k2r/p4pb1/1n5p/1Bp1p1p1/4P1n1/2N3B1/PPP2PPP/2KR3R b kq - 5 18,"Taking away the kings ability to castle, since black can't block the check with Nd7 as that square is attacked twice."

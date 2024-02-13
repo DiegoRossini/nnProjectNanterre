@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Another game from the Chelyabinsk tournament. Black had difficulties from quite early on as we will see.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Tournament starting position
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Tournament starting position
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Tournament starting position
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Tournament starting position
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Tournament starting position
+7,Nxd4,f3d4,r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Tournament starting position
+8,Nf6,g8f6,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Tournament starting position
+9,Nc3,b1c3,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Tournament starting position
+10,e5,e7e5,r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Tournament starting position
+11,Ndb5,d4b5,r1bqkb1r/pp1p1ppp/2n2n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 6,I have played this now a few times in this tournament and it has served me well
+12,d6,d7d6,r1bqkb1r/pp3ppp/2np1n2/1N2p3/4P3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 7,Probably the best response. It tries to prevent the b5 knight causing problems
+13,Nd5,c3d5,r1bqkb1r/pp3ppp/2np1n2/1N1Np3/4P3/8/PPP2PPP/R1BQKB1R b KQkq - 1 7,"Again my standard move in this tournament, threatens N c7 which means the black king will lose the right to castle as well as losing his rook"
+14,Nxd5,f6d5,r1bqkb1r/pp3ppp/2np4/1N1np3/4P3/8/PPP2PPP/R1BQKB1R w KQkq - 0 8,pressures the c6 knight
+15,exd5,e4d5,r1bqkb1r/pp3ppp/2np4/1N1Pp3/8/8/PPP2PPP/R1BQKB1R b KQkq - 0 8,pressures the c6 knight
+16,Ne7,c6e7,r1bqkb1r/pp2nppp/3p4/1N1Pp3/8/8/PPP2PPP/R1BQKB1R w KQkq - 1 9,"I'm still not sure what the best move is here, probably Nb8. It seems to me that the move here crowds the king"
+17,c3,c2c3,r1bqkb1r/pp2nppp/3p4/1N1Pp3/8/2P5/PP3PPP/R1BQKB1R b KQkq - 0 9,Opens a line for the queen d1-a4. I prefer this to c4 as here I still have f1-a6 for my lsb
+18,a6,a7a6,r1bqkb1r/1p2nppp/p2p4/1N1Pp3/8/2P5/PP3PPP/R1BQKB1R w KQkq - 0 10,"Black has to be very careful now, this move could lose the rook (or the game) as we will see"
+19,Qa4,d1a4,r1bqkb1r/1p2nppp/p2p4/1N1Pp3/Q7/2P5/PP3PPP/R1B1KB1R b KQkq - 1 10,Note here that if white takes the knight he loses his rook. More dangerously I am looking at Nc7#
+20,Nxd5,e7d5,r1bqkb1r/1p3ppp/p2p4/1N1np3/Q7/2P5/PP3PPP/R1B1KB1R w KQkq - 0 11,This is where we left the Gameknot database. The move is almost forced due to my mate threat. Black will still lose material
+21,Nc7+,b5c7,r1bqkb1r/1pN2ppp/p2p4/3np3/Q7/2P5/PP3PPP/R1B1KB1R b KQkq - 1 11,Forced
+22,Ke7,e8e7,r1bq1b1r/1pN1kppp/p2p4/3np3/Q7/2P5/PP3PPP/R1B1KB1R w KQ - 2 12,Forced
+23,Nxd5+,c7d5,r1bq1b1r/1p2kppp/p2p4/3Np3/Q7/2P5/PP3PPP/R1B1KB1R b KQ - 0 12,I didn't take the rook as it isn't doing much and my knight is a lot more useful out in the open as it is here
+24,Ke6,e7e6,r1bq1b1r/1p3ppp/p2pk3/3Np3/Q7/2P5/PP3PPP/R1B1KB1R w KQ - 1 13,forced
+25,Qg4+,a4g4,r1bq1b1r/1p3ppp/p2pk3/3Np3/6Q1/2P5/PP3PPP/R1B1KB1R b KQ - 2 13,Black can't take the knight due to 13 ... KxN 14 Qc4 . At this point I knew black was in big trouble but wasn't sure how to finish him off.
+26,f5,f7f5,r1bq1b1r/1p4pp/p2pk3/3Npp2/6Q1/2P5/PP3PPP/R1B1KB1R w KQ - 0 14,"Blacks pieces have limited mobility now, both bishops and both rooks are pretty well confined, If I can maintain momentum things look promising. Both my bishops can easily get into provide reinforcement, and after letting my dsb out I can get my a rook onto the half open d file which could be very useful"
+27,Qc4,g4c4,r1bq1b1r/1p4pp/p2pk3/3Npp2/2Q5/2P5/PP3PPP/R1B1KB1R b KQ - 1 14,"Blacks pieces have limited mobility now, both bishops and both rooks are pretty well confined, If I can maintain momentum things look promising. Both my bishops can easily get into provide reinforcement, and after letting my dsb out I can get my a rook onto the half open d file which could be very useful"
+28,Kd7,e6d7,r1bq1b1r/1p1k2pp/p2p4/3Npp2/2Q5/2P5/PP3PPP/R1B1KB1R w KQ - 2 15,prevents the discovered check
+29,Qa4+,c4a4,r1bq1b1r/1p1k2pp/p2p4/3Npp2/Q7/2P5/PP3PPP/R1B1KB1R b KQ - 3 15,I decided to force him back and bring my lsb into play
+30,Ke6,d7e6,r1bq1b1r/1p4pp/p2pk3/3Npp2/Q7/2P5/PP3PPP/R1B1KB1R w KQ - 4 16,I'm not sure this helps black at all
+31,Bc4,f1c4,r1bq1b1r/1p4pp/p2pk3/3Npp2/Q1B5/2P5/PP3PPP/R1B1K2R b KQ - 5 16,I'm not sure this helps black at all
+32,b5,b7b5,r1bq1b1r/6pp/p2pk3/1p1Npp2/Q1B5/2P5/PP3PPP/R1B1K2R w KQ - 0 17,I'm not sure this helps black at all
+33,Bxb5,c4b5,r1bq1b1r/6pp/p2pk3/1B1Npp2/Q7/2P5/PP3PPP/R1B1K2R b KQ - 0 17,Clearly if he takes the bishop he loses a rook

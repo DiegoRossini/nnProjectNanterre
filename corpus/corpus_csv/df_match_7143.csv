@@ -1,0 +1,117 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,a system which I usually employ
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,a system which I usually employ
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,a system which I usually employ
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,a system which I usually employ
+5,e3,e2e3,rnbqkb1r/pppppp1p/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,a system which I usually employ
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,a system which I usually employ
+7,Be2,f1e2,rnbqk2r/ppppppbp/5np1/8/3P4/4PN2/PPP1BPPP/RNBQK2R b KQkq - 2 4,a system which I usually employ
+8,O-O,e8g8,rnbq1rk1/ppppppbp/5np1/8/3P4/4PN2/PPP1BPPP/RNBQK2R w KQ - 3 5,a system which I usually employ
+9,O-O,e1g1,rnbq1rk1/ppppppbp/5np1/8/3P4/4PN2/PPP1BPPP/RNBQ1RK1 b - - 4 5,a system which I usually employ
+10,d6,d7d6,rnbq1rk1/ppp1ppbp/3p1np1/8/3P4/4PN2/PPP1BPPP/RNBQ1RK1 w - - 0 6,a system which I usually employ
+11,c3,c2c3,rnbq1rk1/ppp1ppbp/3p1np1/8/3P4/2P1PN2/PP2BPPP/RNBQ1RK1 b - - 0 6,a system which I usually employ
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/3P4/2P1PN2/PP2BPPP/RNBQ1RK1 w - - 1 7,a system which I usually employ
+13,h3,h2h3,r1bq1rk1/pppnppbp/3p1np1/8/3P4/2P1PN1P/PP2BPP1/RNBQ1RK1 b - - 0 7,a system which I usually employ
+14,e5,e7e5,r1bq1rk1/pppn1pbp/3p1np1/4p3/3P4/2P1PN1P/PP2BPP1/RNBQ1RK1 w - - 0 8,a system which I usually employ
+15,Nbd2,b1d2,r1bq1rk1/pppn1pbp/3p1np1/4p3/3P4/2P1PN1P/PP1NBPP1/R1BQ1RK1 b - - 1 8,grabbing the initiative
+16,e4,e5e4,r1bq1rk1/pppn1pbp/3p1np1/8/3Pp3/2P1PN1P/PP1NBPP1/R1BQ1RK1 w - - 0 9,grabbing the initiative
+17,Nh2,f3h2,r1bq1rk1/pppn1pbp/3p1np1/8/3Pp3/2P1P2P/PP1NBPPN/R1BQ1RK1 b - - 1 9,grabbing the initiative
+18,d5,d6d5,r1bq1rk1/pppn1pbp/5np1/3p4/3Pp3/2P1P2P/PP1NBPPN/R1BQ1RK1 w - - 0 10,grabbing the initiative
+19,f3,f2f3,r1bq1rk1/pppn1pbp/5np1/3p4/3Pp3/2P1PP1P/PP1NB1PN/R1BQ1RK1 b - - 0 10,grabbing the initiative
+20,c6,c7c6,r1bq1rk1/pp1n1pbp/2p2np1/3p4/3Pp3/2P1PP1P/PP1NB1PN/R1BQ1RK1 w - - 0 11,grabbing the initiative
+21,c4,c3c4,r1bq1rk1/pp1n1pbp/2p2np1/3p4/2PPp3/4PP1P/PP1NB1PN/R1BQ1RK1 b - - 0 11,grabbing the initiative
+22,Qe7,d8e7,r1b2rk1/pp1nqpbp/2p2np1/3p4/2PPp3/4PP1P/PP1NB1PN/R1BQ1RK1 w - - 1 12,grabbing the initiative
+23,fxe4,f3e4,r1b2rk1/pp1nqpbp/2p2np1/3p4/2PPP3/4P2P/PP1NB1PN/R1BQ1RK1 b - - 0 12,grabbing the initiative
+24,dxe4,d5e4,r1b2rk1/pp1nqpbp/2p2np1/8/2PPp3/4P2P/PP1NB1PN/R1BQ1RK1 w - - 0 13,grabbing the initiative
+25,Ng4,h2g4,r1b2rk1/pp1nqpbp/2p2np1/8/2PPp1N1/4P2P/PP1NB1P1/R1BQ1RK1 b - - 1 13,grabbing the initiative
+26,Nh5,f6h5,r1b2rk1/pp1nqpbp/2p3p1/7n/2PPp1N1/4P2P/PP1NB1P1/R1BQ1RK1 w - - 2 14,grabbing the initiative
+27,c5,c4c5,r1b2rk1/pp1nqpbp/2p3p1/2P4n/3Pp1N1/4P2P/PP1NB1P1/R1BQ1RK1 b - - 0 14,grabbing the initiative
+28,f5,f7f5,r1b2rk1/pp1nq1bp/2p3p1/2P2p1n/3Pp1N1/4P2P/PP1NB1P1/R1BQ1RK1 w - - 0 15,grabbing the initiative
+29,Nh2,g4h2,r1b2rk1/pp1nq1bp/2p3p1/2P2p1n/3Pp3/4P2P/PP1NB1PN/R1BQ1RK1 b - - 1 15,this is actually a miscalculation on my part.  with black's advantage in space he should have done much better than what he got.  16 ... Kh8 is one possibility taking away the bishop check by white.  16 ... Nf6 is yet another.  or even 16 ... g5.
+30,Ng3,h5g3,r1b2rk1/pp1nq1bp/2p3p1/2P2p2/3Pp3/4P1nP/PP1NB1PN/R1BQ1RK1 w - - 2 16,this is actually a miscalculation on my part.  with black's advantage in space he should have done much better than what he got.  16 ... Kh8 is one possibility taking away the bishop check by white.  16 ... Nf6 is yet another.  or even 16 ... g5.
+31,Rf2,f1f2,r1b2rk1/pp1nq1bp/2p3p1/2P2p2/3Pp3/4P1nP/PP1NBRPN/R1BQ2K1 b - - 3 16,this is actually a miscalculation on my part.  with black's advantage in space he should have done much better than what he got.  16 ... Kh8 is one possibility taking away the bishop check by white.  16 ... Nf6 is yet another.  or even 16 ... g5.
+32,Bxd4,g7d4,r1b2rk1/pp1nq2p/2p3p1/2P2p2/3bp3/4P1nP/PP1NBRPN/R1BQ2K1 w - - 0 17,this is actually a miscalculation on my part.  with black's advantage in space he should have done much better than what he got.  16 ... Kh8 is one possibility taking away the bishop check by white.  16 ... Nf6 is yet another.  or even 16 ... g5.
+33,exd4,e3d4,r1b2rk1/pp1nq2p/2p3p1/2P2p2/3Pp3/6nP/PP1NBRPN/R1BQ2K1 b - - 0 17,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+34,e3,e4e3,r1b2rk1/pp1nq2p/2p3p1/2P2p2/3P4/4p1nP/PP1NBRPN/R1BQ2K1 w - - 0 18,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+35,Bc4+,e2c4,r1b2rk1/pp1nq2p/2p3p1/2P2p2/2BP4/4p1nP/PP1N1RPN/R1BQ2K1 b - - 1 18,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+36,Kh8,g8h8,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BP4/4p1nP/PP1N1RPN/R1BQ2K1 w - - 2 19,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+37,Rf3,f2f3,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BP4/4pRnP/PP1N2PN/R1BQ2K1 b - - 3 19,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+38,exd2,e3d2,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BP4/5RnP/PP1p2PN/R1BQ2K1 w - - 0 20,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+39,Bxd2,c1d2,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BP4/5RnP/PP1B2PN/R2Q2K1 b - - 0 20,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+40,Ne4,g3e4,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BPn3/5R1P/PP1B2PN/R2Q2K1 w - - 1 21,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+41,Bf4,d2f4,r1b2r1k/pp1nq2p/2p3p1/2P2p2/2BPnB2/5R1P/PP4PN/R2Q2K1 b - - 2 21,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+42,g5,g6g5,r1b2r1k/pp1nq2p/2p5/2P2pp1/2BPnB2/5R1P/PP4PN/R2Q2K1 w - - 0 22,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+43,Bd6,f4d6,r1b2r1k/pp1nq2p/2pB4/2P2pp1/2BPn3/5R1P/PP4PN/R2Q2K1 b - - 1 22,one may be inclined to judge this move as a sacrifice since black does experience a hard time in cracking white's position.
+44,Nxd6,e4d6,r1b2r1k/pp1nq2p/2pn4/2P2pp1/2BP4/5R1P/PP4PN/R2Q2K1 w - - 0 23,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+45,cxd6,c5d6,r1b2r1k/pp1nq2p/2pP4/5pp1/2BP4/5R1P/PP4PN/R2Q2K1 b - - 0 23,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+46,Qxd6,e7d6,r1b2r1k/pp1n3p/2pq4/5pp1/2BP4/5R1P/PP4PN/R2Q2K1 w - - 0 24,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+47,Qd3,d1d3,r1b2r1k/pp1n3p/2pq4/5pp1/2BP4/3Q1R1P/PP4PN/R5K1 b - - 1 24,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+48,Nf6,d7f6,r1b2r1k/pp5p/2pq1n2/5pp1/2BP4/3Q1R1P/PP4PN/R5K1 w - - 2 25,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+49,Raf1,a1f1,r1b2r1k/pp5p/2pq1n2/5pp1/2BP4/3Q1R1P/PP4PN/5RK1 b - - 3 25,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+50,Bd7,c8d7,r4r1k/pp1b3p/2pq1n2/5pp1/2BP4/3Q1R1P/PP4PN/5RK1 w - - 4 26,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+51,Re3,f3e3,r4r1k/pp1b3p/2pq1n2/5pp1/2BP4/3QR2P/PP4PN/5RK1 b - - 5 26,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+52,Rae8,a8e8,4rr1k/pp1b3p/2pq1n2/5pp1/2BP4/3QR2P/PP4PN/5RK1 w - - 6 27,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+53,Rfe1,f1e1,4rr1k/pp1b3p/2pq1n2/5pp1/2BP4/3QR2P/PP4PN/4R1K1 b - - 7 27,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+54,Rxe3,e8e3,5r1k/pp1b3p/2pq1n2/5pp1/2BP4/3Qr2P/PP4PN/4R1K1 w - - 0 28,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+55,Rxe3,e1e3,5r1k/pp1b3p/2pq1n2/5pp1/2BP4/3QR2P/PP4PN/6K1 b - - 0 28,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+56,h6,h7h6,5r1k/pp1b4/2pq1n1p/5pp1/2BP4/3QR2P/PP4PN/6K1 w - - 0 29,hereabouts a lot of maneuvering takes place as black tries to improve his position.
+57,Nf3,h2f3,5r1k/pp1b4/2pq1n1p/5pp1/2BP4/3QRN1P/PP4P1/6K1 b - - 1 29,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+58,Nh5,f6h5,5r1k/pp1b4/2pq3p/5ppn/2BP4/3QRN1P/PP4P1/6K1 w - - 2 30,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+59,Ne5,f3e5,5r1k/pp1b4/2pq3p/4Nppn/2BP4/3QR2P/PP4P1/6K1 b - - 3 30,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+60,Nf4,h5f4,5r1k/pp1b4/2pq3p/4Npp1/2BP1n2/3QR2P/PP4P1/6K1 w - - 4 31,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+61,Qc3,d3c3,5r1k/pp1b4/2pq3p/4Npp1/2BP1n2/2Q1R2P/PP4P1/6K1 b - - 5 31,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+62,Kh7,h8h7,5r2/pp1b3k/2pq3p/4Npp1/2BP1n2/2Q1R2P/PP4P1/6K1 w - - 6 32,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+63,Kh2,g1h2,5r2/pp1b3k/2pq3p/4Npp1/2BP1n2/2Q1R2P/PP4PK/8 b - - 7 32,this may be considered the critical position.  16 ... b5 turns out to be mistimed.  16 ... a5 is idea  white may try 17 a4 to prevent ... b5.
+64,b5,b7b5,5r2/p2b3k/2pq3p/1p2Npp1/2BP1n2/2Q1R2P/PP4PK/8 w - - 0 33,this move took a lot of consideration.  black doesn't have anything and in fact has to be very careful.
+65,Bb3,c4b3,5r2/p2b3k/2pq3p/1p2Npp1/3P1n2/1BQ1R2P/PP4PK/8 b - - 1 33,this move took a lot of consideration.  black doesn't have anything and in fact has to be very careful.
+66,Be8,d7e8,4br2/p6k/2pq3p/1p2Npp1/3P1n2/1BQ1R2P/PP4PK/8 w - - 2 34,this move took a lot of consideration.  black doesn't have anything and in fact has to be very careful.
+67,Bc2,b3c2,4br2/p6k/2pq3p/1p2Npp1/3P1n2/2Q1R2P/PPB3PK/8 b - - 3 34,an oversight on white's part.
+68,Nd5,f4d5,4br2/p6k/2pq3p/1p1nNpp1/3P4/2Q1R2P/PPB3PK/8 w - - 4 35,there are technical problems to be solved.
+69,Qd2,c3d2,4br2/p6k/2pq3p/1p1nNpp1/3P4/4R2P/PPBQ2PK/8 b - - 5 35,there are technical problems to be solved.
+70,Nxe3,d5e3,4br2/p6k/2pq3p/1p2Npp1/3P4/4n2P/PPBQ2PK/8 w - - 0 36,there are technical problems to be solved.
+71,Qxe3,d2e3,4br2/p6k/2pq3p/1p2Npp1/3P4/4Q2P/PPB3PK/8 b - - 0 36,there are technical problems to be solved.
+72,Bd7,e8d7,5r2/p2b3k/2pq3p/1p2Npp1/3P4/4Q2P/PPB3PK/8 w - - 1 37,there are technical problems to be solved.
+73,Kg1,h2g1,5r2/p2b3k/2pq3p/1p2Npp1/3P4/4Q2P/PPB3P1/6K1 b - - 2 37,offering the pawn.  after 41 Bxf5? c5! wins
+74,Be6,d7e6,5r2/p6k/2pqb2p/1p2Npp1/3P4/4Q2P/PPB3P1/6K1 w - - 3 38,offering the pawn.  after 41 Bxf5? c5! wins
+75,a3,a2a3,5r2/p6k/2pqb2p/1p2Npp1/3P4/P3Q2P/1PB3P1/6K1 b - - 0 38,offering the pawn.  after 41 Bxf5? c5! wins
+76,Kg7,h7g7,5r2/p5k1/2pqb2p/1p2Npp1/3P4/P3Q2P/1PB3P1/6K1 w - - 1 39,offering the pawn.  after 41 Bxf5? c5! wins
+77,Qc3,e3c3,5r2/p5k1/2pqb2p/1p2Npp1/3P4/P1Q4P/1PB3P1/6K1 b - - 2 39,offering the pawn.  after 41 Bxf5? c5! wins
+78,Bd5,e6d5,5r2/p5k1/2pq3p/1p1bNpp1/3P4/P1Q4P/1PB3P1/6K1 w - - 3 40,offering the pawn.  after 41 Bxf5? c5! wins
+79,Qe3,c3e3,5r2/p5k1/2pq3p/1p1bNpp1/3P4/P3Q2P/1PB3P1/6K1 b - - 4 40,offering the pawn.  after 41 Bxf5? c5! wins
+80,Re8,f8e8,4r3/p5k1/2pq3p/1p1bNpp1/3P4/P3Q2P/1PB3P1/6K1 w - - 5 41,offering the pawn.  after 41 Bxf5? c5! wins
+81,b4,b2b4,4r3/p5k1/2pq3p/1p1bNpp1/1P1P4/P3Q2P/2B3P1/6K1 b - - 0 41,an alert move.
+82,a5,a7a5,4r3/6k1/2pq3p/pp1bNpp1/1P1P4/P3Q2P/2B3P1/6K1 w - - 0 42,intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.
+83,Qc3,e3c3,4r3/6k1/2pq3p/pp1bNpp1/1P1P4/P1Q4P/2B3P1/6K1 b - - 1 42,intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.
+84,axb4,a5b4,4r3/6k1/2pq3p/1p1bNpp1/1p1P4/P1Q4P/2B3P1/6K1 w - - 0 43,intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.
+85,axb4,a3b4,4r3/6k1/2pq3p/1p1bNpp1/1P1P4/2Q4P/2B3P1/6K1 b - - 0 43,intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.
+86,Kf6,g7f6,4r3/8/2pq1k1p/1p1bNpp1/1P1P4/2Q4P/2B3P1/6K1 w - - 1 44,intending to sacrifice the exchange and try to win the game in a queen and bishops ending two pawns up.
+87,Qd2,c3d2,4r3/8/2pq1k1p/1p1bNpp1/1P1P4/7P/2BQ2P1/6K1 b - - 2 44,"this was queried by my opponent saying ""was this necessary?""  perhaps yes.  the only other route was to play 44 ... Ra8 and try to make something happen in that sector."
+88,Rxe5,e8e5,8/8/2pq1k1p/1p1brpp1/1P1P4/7P/2BQ2P1/6K1 w - - 0 45,"this was queried by my opponent saying ""was this necessary?""  perhaps yes.  the only other route was to play 44 ... Ra8 and try to make something happen in that sector."
+89,dxe5+,d4e5,8/8/2pq1k1p/1p1bPpp1/1P6/7P/2BQ2P1/6K1 b - - 0 45,queen endings are a tricky affair and not a done deal.
+90,Qxe5,d6e5,8/8/2p2k1p/1p1bqpp1/1P6/7P/2BQ2P1/6K1 w - - 0 46,queen endings are a tricky affair and not a done deal.
+91,Qf2,d2f2,8/8/2p2k1p/1p1bqpp1/1P6/7P/2B2QP1/6K1 b - - 1 46,queen endings are a tricky affair and not a done deal.
+92,Be4,d5e4,8/8/2p2k1p/1p2qpp1/1P2b3/7P/2B2QP1/6K1 w - - 2 47,queen endings are a tricky affair and not a done deal.
+93,Bxe4,c2e4,8/8/2p2k1p/1p2qpp1/1P2B3/7P/5QP1/6K1 b - - 0 47,queen endings are a tricky affair and not a done deal.
+94,Qxe4,e5e4,8/8/2p2k1p/1p3pp1/1P2q3/7P/5QP1/6K1 w - - 0 48,queen endings are a tricky affair and not a done deal.
+95,Qb2+,f2b2,8/8/2p2k1p/1p3pp1/1P2q3/7P/1Q4P1/6K1 b - - 1 48,a key move in this ending as will be seen
+96,Kg6,f6g6,8/8/2p3kp/1p3pp1/1P2q3/7P/1Q4P1/6K1 w - - 2 49,a key move in this ending as will be seen
+97,Qb3,b2b3,8/8/2p3kp/1p3pp1/1P2q3/1Q5P/6P1/6K1 b - - 3 49,a key move in this ending as will be seen
+98,f4,f5f4,8/8/2p3kp/1p4p1/1P2qp2/1Q5P/6P1/6K1 w - - 0 50,a key move in this ending as will be seen
+99,Qg8+,b3g8,6Q1/8/2p3kp/1p4p1/1P2qp2/7P/6P1/6K1 b - - 1 50,a resource which had to be foreseen.
+100,Kh5,g6h5,6Q1/8/2p4p/1p4pk/1P2qp2/7P/6P1/6K1 w - - 2 51,a resource which had to be foreseen.
+101,Qf7+,g8f7,8/5Q2/2p4p/1p4pk/1P2qp2/7P/6P1/6K1 b - - 3 51,a resource which had to be foreseen.
+102,Kh4,h5h4,8/5Q2/2p4p/1p4p1/1P2qp1k/7P/6P1/6K1 w - - 4 52,a resource which had to be foreseen.
+103,Kh2,g1h2,8/5Q2/2p4p/1p4p1/1P2qp1k/7P/6PK/8 b - - 5 52,a resource which had to be foreseen.
+104,Qxb4,e4b4,8/5Q2/2p4p/1p4p1/1q3p1k/7P/6PK/8 w - - 0 53,a resource which had to be foreseen.
+105,Qd7,f7d7,8/3Q4/2p4p/1p4p1/1q3p1k/7P/6PK/8 b - - 1 53,a resource which had to be foreseen.
+106,h5,h6h5,8/3Q4/2p5/1p4pp/1q3p1k/7P/6PK/8 w - - 0 54,a resource which had to be foreseen.
+107,Qxc6,d7c6,8/8/2Q5/1p4pp/1q3p1k/7P/6PK/8 b - - 0 54,another possibility was 55 Qd6 with the drawing trap 55 ... Qg3+ 56 Kh1 f3?? 57 Qd4+ Qf4 58 Qf2+ Qg3 59 Qd4+ since 59 ... g4 allows 60 Qf6 mate!
+108,Qb3,b4b3,8/8/2Q5/1p4pp/5p1k/1q5P/6PK/8 w - - 1 55,another possibility was 55 Qd6 with the drawing trap 55 ... Qg3+ 56 Kh1 f3?? 57 Qd4+ Qf4 58 Qf2+ Qg3 59 Qd4+ since 59 ... g4 allows 60 Qf6 mate!
+109,Qe4,c6e4,8/8/8/1p4pp/4Qp1k/1q5P/6PK/8 b - - 2 55,another possibility was 55 Qd6 with the drawing trap 55 ... Qg3+ 56 Kh1 f3?? 57 Qd4+ Qf4 58 Qf2+ Qg3 59 Qd4+ since 59 ... g4 allows 60 Qf6 mate!
+110,Qc3,b3c3,8/8/8/1p4pp/4Qp1k/2q4P/6PK/8 w - - 3 56,this pawn advance does the trick
+111,Qe2,e4e2,8/8/8/1p4pp/5p1k/2q4P/4Q1PK/8 b - - 4 56,this pawn advance does the trick
+112,b4,b5b4,8/8/8/6pp/1p3p1k/2q4P/4Q1PK/8 w - - 0 57,this pawn advance does the trick
+113,Kh1,h2h1,8/8/8/6pp/1p3p1k/2q4P/4Q1P1/7K b - - 1 57,decisive!
+114,Kg3,h4g3,8/8/8/6pp/1p3p2/2q3kP/4Q1P1/7K w - - 2 58,decisive!
+115,Qf1,e2f1,8/8/8/6pp/1p3p2/2q3kP/6P1/5Q1K b - - 3 58,after 59 Kg1 Qe3+ 60 Kh1 b2 wins  and 59 Qg1 b2 60 Qh2+ Kh5 white has no moves
+116,b3,b4b3,8/8/8/6pp/5p2/1pq3kP/6P1/5Q1K w - - 0 59,after 59 Kg1 Qe3+ 60 Kh1 b2 wins  and 59 Qg1 b2 60 Qh2+ Kh5 white has no moves

@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian.
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,Alapin's variation.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,"I don't think this is good for white at all, he has blocked both natural knight development squares, and his queen is out early."
+5,Qf3,d1f3,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2P2Q2/PP1P1PPP/RNB1KBNR b KQkq - 2 3,"I don't think this is good for white at all, he has blocked both natural knight development squares, and his queen is out early."
+6,Nc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/2P2Q2/PP1P1PPP/RNB1KBNR w KQkq - 3 4,"Meanwhile, I have developed both my knights."
+7,g3,g2g3,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/2P2QP1/PP1P1P1P/RNB1KBNR b KQkq - 0 4,"?
+The WS bishop must maintain control of d3 in this position, so the fianchetto is a bad idea, certainly at this stage."
+8,e6,e7e6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/4P3/2P2QP1/PP1P1P1P/RNB1KBNR w KQkq - 0 5,"?
+His position is becoming weaker with every pawn move. Develop!!! If a pawn must move, at least move d2, so two pieces can be developed."
+9,b3,b2b3,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/4P3/1PP2QP1/P2P1P1P/RNB1KBNR b KQkq - 0 5,"?
+His position is becoming weaker with every pawn move. Develop!!! If a pawn must move, at least move d2, so two pieces can be developed."
+10,Rb8,a8b8,1rbqkb1r/pp1p1ppp/2n1pn2/2p5/4P3/1PP2QP1/P2P1P1P/RNB1KBNR w KQk - 1 6,"Why not? White has wasted so many moves in the opening I feel it's safe to waste one too doing something that will need to be done after development anyway, since white intends a fianchetto."
+11,Ne2,g1e2,1rbqkb1r/pp1p1ppp/2n1pn2/2p5/4P3/1PP2QP1/P2PNP1P/RNB1KB1R b KQk - 2 6,"?
+At best white drops 2 points here. White has now made three bad opening moves in a row, this one the final nail in his coffin. Not only does it block the queen from returning to safety, crucially, it blocks the bishop's control of d3, hence the reason the kingside fianchetto was not a good idea in this opening."
+12,Ne5,c6e5,1rbqkb1r/pp1p1ppp/4pn2/2p1n3/4P3/1PP2QP1/P2PNP1P/RNB1KB1R w KQk - 3 7,"!
+And here comes the attack..."
+13,Qg2,f3g2,1rbqkb1r/pp1p1ppp/4pn2/2p1n3/4P3/1PP3P1/P2PNPQP/RNB1KB1R b KQk - 4 7,"Indeed. 
+7. Qe3? Ng4 queen falls.
+7. Qf4? Nd3+ queen falls."
+14,Nd3+,e5d3,1rbqkb1r/pp1p1ppp/4pn2/2p5/4P3/1PPn2P1/P2PNPQP/RNB1KB1R w KQk - 5 8,"Ooh, nothing covering d3? Sweet..."
+15,Kd1,e1d1,1rbqkb1r/pp1p1ppp/4pn2/2p5/4P3/1PPn2P1/P2PNPQP/RNBK1B1R b k - 6 8,"!
+Safe from capture thanks to Nxf2+"
+16,Nxe4,f6e4,1rbqkb1r/pp1p1ppp/4p3/2p5/4n3/1PPn2P1/P2PNPQP/RNBK1B1R w k - 0 9,"!
+Safe from capture thanks to Nxf2+"
+17,f3,f2f3,1rbqkb1r/pp1p1ppp/4p3/2p5/4n3/1PPn1PP1/P2PN1QP/RNBK1B1R b k - 0 9,"? Game over. 
+Here white's best defence seems to be the undevelopment of the knight, ie Ng1. This gives his king flight other than c2, which is a bad square due to the position of his queen and my knight on d3. It also ensures the knight's safety. And, of course, it reclaims d3 for the bishop, though a little too late to save the position.
+9. Ng1 Nexf2+
+10. Ke2...
+It then seems the best attack for me would be to claim his bishop, instead of the rook. Taking his rook would cost me both my knights, leaving me up a single point. The bishop would yeild two points, my knight capable of escape thanks to Qf6+, gaining me the required tempo.
+10... Nxc1+ Kxf2
+11. Qf6+ Ng3
+12. Qg6... and now the knight can escape via d3.
+If white chooses instead 9. Nf4, then white will be 4 points up at the end of the exchange, thanks to Nxf4+."
+18,Nef2+,e4f2,1rbqkb1r/pp1p1ppp/4p3/2p5/8/1PPn1PP1/P2PNnQP/RNBK1B1R w k - 1 10,Instead white has lost his queen...
+19,Kc2,d1c2,1rbqkb1r/pp1p1ppp/4p3/2p5/8/1PPn1PP1/P1KPNnQP/RNB2B1R b k - 2 10,"?
+Not that it matters any longer, but it gets from bad to worse for white. Basically, he had to take the knight with the queen to stave off mate, but would you do that? 
+10. Qxf2 Nxf2+
+11. Ke1 Nxh1
+I could now afford to abandon the knight on h1, and still be a whole queen up.
+Instead, white plays Kc2 and it's mate in three. Those were the two options he faced thanks to 9. f3."
+20,Ne1+,d3e1,1rbqkb1r/pp1p1ppp/4p3/2p5/8/1PP2PP1/P1KPNnQP/RNB1nB1R w k - 3 11,"White resigns.
+11. Kb2 Nfd3+
+12. Ka3 Qa5#
+
+I think it's easy to look at move 9 as the losing move for white, but honestly, I think 6. Ne2 was the killer. Move 9 just hurried things along. Ok, 2 points up is not an easy victory, there's still a lot of work to be done, but I would be left with a solid defence, compared to white, who is all over the place. It's going to take some errors from me to let him back in. A good, solid opening requires fast development and minimal pawn moves. You want knights and bishops, not queens, bossing the early game. And finally, if you want the king side fianchetto, then ensure the QP3 suare (d3 or d6) is covered, especially if your opponent has developed his knights, easily achieved by advancing the QP and leaving the queen's development until later!"

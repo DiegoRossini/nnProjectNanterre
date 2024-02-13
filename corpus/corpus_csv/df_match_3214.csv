@@ -1,0 +1,19 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's Pawn open.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's Pawn game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Apparently called the King's Knight opening, but it's still fairly standard."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,My standard defense in this situation.
+5,Bb5+,f1b5,rnbqkbnr/ppp2ppp/3p4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"I've never really been a fan of this move.  It seems like putting black just for the sake of saying ""check.""  While it may weaken the queen side defenses, I like Bc4 instead."
+6,Bd7,c8d7,rn1qkbnr/pppb1ppp/3p4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,Protect the King and threaten the bishop.
+7,Bc4,b5c4,rn1qkbnr/pppb1ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 4,Now he's where he should be.
+8,Nf6,g8f6,rn1qkb1r/pppb1ppp/3p1n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 5,"In hindsight, Be6 was probably a better move.  If he accepts, it's a simple BxB trade, and if he plays 4...Bd5+, I can follow it with 5.c6 and force his bishop back to d3 or farther.  But I guess this was a fine move."
+9,Ng5,f3g5,rn1qkb1r/pppb1ppp/3p1n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 5,"When I saw this move, I was kind of confused.  I've seen (and tried) the queen side fork many times, but this was the first time I've seen it tried king side."
+10,h6,h7h6,rn1qkb1r/pppb1pp1/3p1n1p/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,Going to attack the knight.  I don't like it hanging out in such a forward position.
+11,Nxf7,g5f7,rn1qkb1r/pppb1Np1/3p1n1p/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,"Crap.  I thought that my king had protected f7, but I didn't notice that the bishop was also threatening.  This could've been absolutely disastrous for me."
+12,Qe7,d8e7,rn2kb1r/pppbqNp1/3p1n1p/4p3/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 1 7,I felt like I had to save my queen if I wanted any chance to stay in this game.
+13,Nxh8,f7h8,rn2kb1N/pppbq1p1/3p1n1p/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQq - 0 7,"There goes the rook.  Now he has a great material advantage, and this game could be over fairly quickly."
+14,Nxe4,f6e4,rn2kb1N/pppbq1p1/3p3p/4p3/2B1n3/8/PPPP1PPP/RNBQK2R w KQq - 0 8,I decide to get whatever material that I could get at this point.  It also puts my knight into a pretty good position to attack.
+15,Ng6,h8g6,rn2kb2/pppbq1p1/3p2Np/4p3/2B1n3/8/PPPP1PPP/RNBQK2R b KQq - 1 8,"Crap, another fork.  Really should've seen this coming..."
+16,Qf6,e7f6,rn2kb2/pppb2p1/3p1qNp/4p3/2B1n3/8/PPPP1PPP/RNBQK2R w KQq - 2 9,"Saving my queen a second time.  This time, I noticed that his king side was pretty unprotected, so I made a play for a quick mate.  If nothing else, I would at least get the knight."
+17,Nxf8,g6f8,rn2kN2/pppb2p1/3p1q1p/4p3/2B1n3/8/PPPP1PPP/RNBQK2R b KQq - 0 9,"I guess that he didn't notice the mate looming.  Now he's got a great material advantage, but material isn't everything."
+18,Qxf2#,f6f2,rn2kN2/pppb2p1/3p3p/4p3/2B1n3/8/PPPP1qPP/RNBQK2R w KQq - 0 10,"Mate.  This game is good to show the dangers of focusing too much on one or two pieces.  He was able to rack up a great advantage in material, but his defense was non-existent throughout.  I got lucky to win this one, and hopefully I won't get myself into this situation again any time soon."

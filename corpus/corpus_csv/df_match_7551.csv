@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,big mistake! this allows Bg5
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,big mistake! this allows Bg5
+3,c4,c2c4,r1bqkbnr/pppppppp/2n5/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,big mistake! this allows Bg5
+4,e6,e7e6,r1bqkbnr/pppp1ppp/2n1p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,big mistake! this allows Bg5
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n1p3/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,big mistake! this allows Bg5
+6,f5,f7f5,r1bqkbnr/pppp2pp/2n1p3/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,big mistake! this allows Bg5
+7,Nf3,g1f3,r1bqkbnr/pppp2pp/2n1p3/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4,big mistake! this allows Bg5
+8,g6,g7g6,r1bqkbnr/pppp3p/2n1p1p1/5p2/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,big mistake! this allows Bg5
+9,d5,d4d5,r1bqkbnr/pppp3p/2n1p1p1/3P1p2/2P5/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5,big mistake! this allows Bg5
+10,exd5,e6d5,r1bqkbnr/pppp3p/2n3p1/3p1p2/2P5/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6,big mistake! this allows Bg5
+11,Nxd5,c3d5,r1bqkbnr/pppp3p/2n3p1/3N1p2/2P5/5N2/PP2PPPP/R1BQKB1R b KQkq - 0 6,big mistake! this allows Bg5
+12,b6,b7b6,r1bqkbnr/p1pp3p/1pn3p1/3N1p2/2P5/5N2/PP2PPPP/R1BQKB1R w KQkq - 0 7,big mistake! this allows Bg5
+13,Bg5,c1g5,r1bqkbnr/p1pp3p/1pn3p1/3N1pB1/2P5/5N2/PP2PPPP/R2QKB1R b KQkq - 1 7,if Be7 then Nxe7
+14,Nge7,g8e7,r1bqkb1r/p1ppn2p/1pn3p1/3N1pB1/2P5/5N2/PP2PPPP/R2QKB1R w KQkq - 2 8,if Be7 then Nxe7
+15,e3,e2e3,r1bqkb1r/p1ppn2p/1pn3p1/3N1pB1/2P5/4PN2/PP3PPP/R2QKB1R b KQkq - 0 8,Keeping pressure on black's king side
+16,h6,h7h6,r1bqkb1r/p1ppn3/1pn3pp/3N1pB1/2P5/4PN2/PP3PPP/R2QKB1R w KQkq - 0 9,Keeping pressure on black's king side
+17,Bf6,g5f6,r1bqkb1r/p1ppn3/1pn2Bpp/3N1p2/2P5/4PN2/PP3PPP/R2QKB1R b KQkq - 1 9,Keeping pressure on black's king side
+18,Rh7,h8h7,r1bqkb2/p1ppn2r/1pn2Bpp/3N1p2/2P5/4PN2/PP3PPP/R2QKB1R w KQq - 2 10,11...Bxf6 12.Nxf6+ Kf7 might have been good
+19,Nh4,f3h4,r1bqkb2/p1ppn2r/1pn2Bpp/3N1p2/2P4N/4P3/PP3PPP/R2QKB1R b KQq - 3 10,11...Bxf6 12.Nxf6+ Kf7 might have been good
+20,Bg7,f8g7,r1bqk3/p1ppn1br/1pn2Bpp/3N1p2/2P4N/4P3/PP3PPP/R2QKB1R w KQq - 4 11,11...Bxf6 12.Nxf6+ Kf7 might have been good
+21,Nxg6,h4g6,r1bqk3/p1ppn1br/1pn2BNp/3N1p2/2P5/4P3/PP3PPP/R2QKB1R b KQq - 0 11,11...Bxf6 12.Nxf6+ Kf7 might have been good
+22,Ba6,c8a6,r2qk3/p1ppn1br/bpn2BNp/3N1p2/2P5/4P3/PP3PPP/R2QKB1R w KQq - 1 12,11...Bxf6 12.Nxf6+ Kf7 might have been good
+23,Ngxe7,g6e7,r2qk3/p1ppN1br/bpn2B1p/3N1p2/2P5/4P3/PP3PPP/R2QKB1R b KQq - 0 12,bringing the queen into action
+24,Nxe7,c6e7,r2qk3/p1ppn1br/bp3B1p/3N1p2/2P5/4P3/PP3PPP/R2QKB1R w KQq - 0 13,bringing the queen into action
+25,Qh5+,d1h5,r2qk3/p1ppn1br/bp3B1p/3N1p1Q/2P5/4P3/PP3PPP/R3KB1R b KQq - 1 13,bringing the queen into action
+26,Kf8,e8f8,r2q1k2/p1ppn1br/bp3B1p/3N1p1Q/2P5/4P3/PP3PPP/R3KB1R w KQ - 2 14,developing the rook on the open column
+27,Bxe7+,f6e7,r2q1k2/p1ppB1br/bp5p/3N1p1Q/2P5/4P3/PP3PPP/R3KB1R b KQ - 0 14,developing the rook on the open column
+28,Qxe7,d8e7,r4k2/p1ppq1br/bp5p/3N1p1Q/2P5/4P3/PP3PPP/R3KB1R w KQ - 0 15,developing the rook on the open column
+29,Nxe7,d5e7,r4k2/p1ppN1br/bp5p/5p1Q/2P5/4P3/PP3PPP/R3KB1R b KQ - 0 15,developing the rook on the open column
+30,Kxe7,f8e7,r7/p1ppk1br/bp5p/5p1Q/2P5/4P3/PP3PPP/R3KB1R w KQ - 0 16,developing the rook on the open column
+31,O-O-O,e1c1,r7/p1ppk1br/bp5p/5p1Q/2P5/4P3/PP3PPP/2KR1B1R b - - 1 16,developing the rook on the open column
+32,d6,d7d6,r7/p1p1k1br/bp1p3p/5p1Q/2P5/4P3/PP3PPP/2KR1B1R w - - 0 17,good move! this solves the problem with where to develop the white square bishop! best response should be here 18...Bxf1 19.cxd6+ cxd6 Rhxf1
+33,Qxf5,h5f5,r7/p1p1k1br/bp1p3p/5Q2/2P5/4P3/PP3PPP/2KR1B1R b - - 0 17,good move! this solves the problem with where to develop the white square bishop! best response should be here 18...Bxf1 19.cxd6+ cxd6 Rhxf1
+34,Rhh8,h7h8,r6r/p1p1k1b1/bp1p3p/5Q2/2P5/4P3/PP3PPP/2KR1B1R w - - 1 18,good move! this solves the problem with where to develop the white square bishop! best response should be here 18...Bxf1 19.cxd6+ cxd6 Rhxf1
+35,c5,c4c5,r6r/p1p1k1b1/bp1p3p/2P2Q2/8/4P3/PP3PPP/2KR1B1R b - - 0 18,good move! this solves the problem with where to develop the white square bishop! best response should be here 18...Bxf1 19.cxd6+ cxd6 Rhxf1
+36,Rhf8,h8f8,r4r2/p1p1k1b1/bp1p3p/2P2Q2/8/4P3/PP3PPP/2KR1B1R w - - 1 19,black is lost!
+37,cxd6+,c5d6,r4r2/p1p1k1b1/bp1P3p/5Q2/8/4P3/PP3PPP/2KR1B1R b - - 0 19,black is lost!
+38,cxd6,c7d6,r4r2/p3k1b1/bp1p3p/5Q2/8/4P3/PP3PPP/2KR1B1R w - - 0 20,black is lost!
+39,Qe4+,f5e4,r4r2/p3k1b1/bp1p3p/8/4Q3/4P3/PP3PPP/2KR1B1R b - - 1 20,black is lost!
+40,Kd7,e7d7,r4r2/p2k2b1/bp1p3p/8/4Q3/4P3/PP3PPP/2KR1B1R w - - 2 21,black is lost!
+41,Bxa6,f1a6,r4r2/p2k2b1/Bp1p3p/8/4Q3/4P3/PP3PPP/2KR3R b - - 0 21,black is lost!
+42,Rae8,a8e8,4rr2/p2k2b1/Bp1p3p/8/4Q3/4P3/PP3PPP/2KR3R w - - 1 22,black is lost!
+43,Bb5+,a6b5,4rr2/p2k2b1/1p1p3p/1B6/4Q3/4P3/PP3PPP/2KR3R b - - 2 22,black is lost!
+44,Kd8,d7d8,3krr2/p5b1/1p1p3p/1B6/4Q3/4P3/PP3PPP/2KR3R w - - 3 23,black is lost!
+45,Rxd6+,d1d6,3krr2/p5b1/1p1R3p/1B6/4Q3/4P3/PP3PPP/2K4R b - - 0 23,black is lost!
+46,Kc7,d8c7,4rr2/p1k3b1/1p1R3p/1B6/4Q3/4P3/PP3PPP/2K4R w - - 1 24,the other move leads to mate too 23... Kc7 24.Qc6+ Kb8 25. Rd7
+47,Rd7+,d6d7,4rr2/p1kR2b1/1p5p/1B6/4Q3/4P3/PP3PPP/2K4R b - - 2 24,queen will deliver the mate on b7 next move

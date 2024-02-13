@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Pretty much on track to here.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Pretty much on track to here.
+3,d5,d4d5,rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,Pretty much on track to here.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3,Pretty much on track to here.
+5,c4,c2c4,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,Pretty much on track to here.
+6,b5,b7b5,rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,Pretty much on track to here.
+7,cxb5,c4b5,rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 4,Pretty much on track to here.
+8,a6,a7a6,rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5,Pretty much on track to here.
+9,bxa6,b5a6,rnbqkb1r/3ppppp/P4n2/2pP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 5,Pretty much on track to here.
+10,Bxa6,c8a6,rn1qkb1r/3ppppp/b4n2/2pP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 6,Pretty much on track to here.
+11,Nc3,b1c3,rn1qkb1r/3ppppp/b4n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 6,Pretty much on track to here.
+12,d6,d7d6,rn1qkb1r/4pppp/b2p1n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 7,Pretty much on track to here.
+13,Nf3,g1f3,rn1qkb1r/4pppp/b2p1n2/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 7,Pretty much on track to here.
+14,g6,g7g6,rn1qkb1r/4pp1p/b2p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 8,Pretty much on track to here.
+15,e4,e2e4,rn1qkb1r/4pp1p/b2p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 8,Pretty much on track to here.
+16,Bg7,f8g7,rn1qk2r/4ppbp/b2p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 9,"During the course of the game, I thought this is where I messed up. I think should have traded bishops with him. I didn't realized the order was so critical. Analysis confirms this move was a mistake."
+17,e5,e4e5,rn1qk2r/4ppbp/b2p1np1/2pPP3/8/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 9,This was one of the problems. I was trying to maintain my pawn chain. Not sure how to avoid this scenario.
+18,Ng4,f6g4,rn1qk2r/4ppbp/b2p2p1/2pPP3/6n1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 1 10,My hesitation costs me the ability to keep him from castling.
+19,Bxa6,f1a6,rn1qk2r/4ppbp/B2p2p1/2pPP3/6n1/2N2N2/PP3PPP/R1BQK2R b KQkq - 0 10,My hesitation costs me the ability to keep him from castling.
+20,Nxf2,g4f2,rn1qk2r/4ppbp/B2p2p1/2pPP3/8/2N2N2/PP3nPP/R1BQK2R w KQkq - 0 11,"So I give up the knight, to keep him from castling. If the queen side attack can still happen, I don't want him on the other side of the board. In hindsight, this was not a good choice."
+21,Kxf2,e1f2,rn1qk2r/4ppbp/B2p2p1/2pPP3/8/2N2N2/PP3KPP/R1BQ3R b kq - 0 11,"Working to recognize forks in advance, clearly not there yet."
+22,Rxa6,a8a6,1n1qk2r/4ppbp/r2p2p1/2pPP3/8/2N2N2/PP3KPP/R1BQ3R w k - 0 12,"Working to recognize forks in advance, clearly not there yet."
+23,exd6,e5d6,1n1qk2r/4ppbp/r2P2p1/2pP4/8/2N2N2/PP3KPP/R1BQ3R b k - 0 12,"Working to recognize forks in advance, clearly not there yet."
+24,O-O,e8g8,1n1q1rk1/4ppbp/r2P2p1/2pP4/8/2N2N2/PP3KPP/R1BQ3R w - - 1 13,"Working to recognize forks in advance, clearly not there yet."
+25,Bg5,c1g5,1n1q1rk1/4ppbp/r2P2p1/2pP2B1/8/2N2N2/PP3KPP/R2Q3R b - - 2 13,"Working to recognize forks in advance, clearly not there yet."
+26,Qxd6,d8d6,1n3rk1/4ppbp/r2q2p1/2pP2B1/8/2N2N2/PP3KPP/R2Q3R w - - 0 14,"Working to recognize forks in advance, clearly not there yet."
+27,Re1,h1e1,1n3rk1/4ppbp/r2q2p1/2pP2B1/8/2N2N2/PP3KPP/R2QR3 b - - 1 14,"Working to recognize forks in advance, clearly not there yet."
+28,Rb6,a6b6,1n3rk1/4ppbp/1r1q2p1/2pP2B1/8/2N2N2/PP3KPP/R2QR3 w - - 2 15,"Working to recognize forks in advance, clearly not there yet."
+29,Bxe7,g5e7,1n3rk1/4Bpbp/1r1q2p1/2pP4/8/2N2N2/PP3KPP/R2QR3 b - - 0 15,"Working to recognize forks in advance, clearly not there yet."
+30,Rxb2+,b6b2,1n3rk1/4Bpbp/3q2p1/2pP4/8/2N2N2/Pr3KPP/R2QR3 w - - 0 16,He pins his rook for me. Phew.
+31,Re2,e1e2,1n3rk1/4Bpbp/3q2p1/2pP4/8/2N2N2/Pr2RKPP/R2Q4 b - - 1 16,He pins his rook for me. Phew.
+32,Qxe7,d6e7,1n3rk1/4qpbp/6p1/2pP4/8/2N2N2/Pr2RKPP/R2Q4 w - - 0 17,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+33,Rxb2,e2b2,1n3rk1/4qpbp/6p1/2pP4/8/2N2N2/PR3KPP/R2Q4 b - - 0 17,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+34,Bxc3,g7c3,1n3rk1/4qp1p/6p1/2pP4/8/2b2N2/PR3KPP/R2Q4 w - - 0 18,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+35,Re2,b2e2,1n3rk1/4qp1p/6p1/2pP4/8/2b2N2/P3RKPP/R2Q4 b - - 1 18,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+36,Qd8,e7d8,1n1q1rk1/5p1p/6p1/2pP4/8/2b2N2/P3RKPP/R2Q4 w - - 2 19,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+37,Rc1,a1c1,1n1q1rk1/5p1p/6p1/2pP4/8/2b2N2/P3RKPP/2RQ4 b - - 3 19,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+38,Bb2,c3b2,1n1q1rk1/5p1p/6p1/2pP4/8/5N2/Pb2RKPP/2RQ4 w - - 4 20,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+39,Rxb2,e2b2,1n1q1rk1/5p1p/6p1/2pP4/8/5N2/PR3KPP/2RQ4 b - - 0 20,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+40,Na6,b8a6,3q1rk1/5p1p/n5p1/2pP4/8/5N2/PR3KPP/2RQ4 w - - 1 21,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+41,Qa4,d1a4,3q1rk1/5p1p/n5p1/2pP4/Q7/5N2/PR3KPP/2R5 b - - 2 21,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+42,Nb4,a6b4,3q1rk1/5p1p/6p1/2pP4/Qn6/5N2/PR3KPP/2R5 w - - 3 22,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+43,Ne5,f3e5,3q1rk1/5p1p/6p1/2pPN3/Qn6/8/PR3KPP/2R5 b - - 4 22,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+44,Qxd5,d8d5,5rk1/5p1p/6p1/2pqN3/Qn6/8/PR3KPP/2R5 w - - 0 23,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+45,Re1,c1e1,5rk1/5p1p/6p1/2pqN3/Qn6/8/PR3KPP/4R3 b - - 1 23,"I see the possible fork at Nd3, but his e5 knight is defending that space."
+46,Qd4+,d5d4,5rk1/5p1p/6p1/2p1N3/Qn1q4/8/PR3KPP/4R3 w - - 2 24,This is where it dawned on me he might not see the potential fork.
+47,Kf3,f2f3,5rk1/5p1p/6p1/2p1N3/Qn1q4/5K2/PR4PP/4R3 b - - 3 24,This is where it dawned on me he might not see the potential fork.
+48,Qxb2,d4b2,5rk1/5p1p/6p1/2p1N3/Qn6/5K2/Pq4PP/4R3 w - - 0 25,This is where it dawned on me he might not see the potential fork.
+49,Qb5,a4b5,5rk1/5p1p/6p1/1Qp1N3/1n6/5K2/Pq4PP/4R3 b - - 1 25,This is where it dawned on me he might not see the potential fork.
+50,Qc3+,b2c3,5rk1/5p1p/6p1/1Qp1N3/1n6/2q2K2/P5PP/4R3 w - - 2 26,This is where it dawned on me he might not see the potential fork.
+51,Kf2,f3f2,5rk1/5p1p/6p1/1Qp1N3/1n6/2q5/P4KPP/4R3 b - - 3 26,This is where it dawned on me he might not see the potential fork.
+52,Rb8,f8b8,1r4k1/5p1p/6p1/1Qp1N3/1n6/2q5/P4KPP/4R3 w - - 4 27,"Analysis calls this a blunder, but I think this was a pretty good move. He'll capture and then I move my king in between my pawns, a Kg4 move will box my king in. If he doesn't see the fork, Kg4 will be very attractive to white. I gambled and...."
+53,Qxb8+,b5b8,1Q4k1/5p1p/6p1/2p1N3/1n6/2q5/P4KPP/4R3 b - - 0 27,"...it pays off! (Note: My wife asked me what was wrong when I screamed out ""YES!)"
+54,Kg7,g8g7,1Q6/5pkp/6p1/2p1N3/1n6/2q5/P4KPP/4R3 w - - 1 28,"...it pays off! (Note: My wife asked me what was wrong when I screamed out ""YES!)"
+55,Ng4,e5g4,1Q6/5pkp/6p1/2p5/1n4N1/2q5/P4KPP/4R3 b - - 2 28,"...it pays off! (Note: My wife asked me what was wrong when I screamed out ""YES!)"
+56,Nd3+,b4d3,1Q6/5pkp/6p1/2p5/6N1/2qn4/P4KPP/4R3 w - - 3 29,"Surprised me he didn't move Ke2, but I'll take it."
+57,Kg3,f2g3,1Q6/5pkp/6p1/2p5/6N1/2qn2K1/P5PP/4R3 b - - 4 29,"Surprised me he didn't move Ke2, but I'll take it."
+58,Nxe1+,d3e1,1Q6/5pkp/6p1/2p5/6N1/2q3K1/P5PP/4n3 w - - 0 30,I found a mate path from here. I just need him to move...
+59,Kf4,g3f4,1Q6/5pkp/6p1/2p5/5KN1/2q5/P5PP/4n3 b - - 1 30,I found a mate path from here. I just need him to move...
+60,Nxg2+,e1g2,1Q6/5pkp/6p1/2p5/5KN1/2q5/P5nP/8 w - - 0 31,I found a mate path from here. I just need him to move...
+61,Kg5,f4g5,1Q6/5pkp/6p1/2p3K1/6N1/2q5/P5nP/8 b - - 1 31,There!!
+62,Qd2+,c3d2,1Q6/5pkp/6p1/2p3K1/6N1/8/P2q2nP/8 w - - 2 32,I really enjoyed the opportunity Porcho! Thanks for setting up the mini tournament.
+63,Ne3,g4e3,1Q6/5pkp/6p1/2p3K1/8/4N3/P2q2nP/8 b - - 3 32,I really enjoyed the opportunity Porcho! Thanks for setting up the mini tournament.
+64,Qxe3+,d2e3,1Q6/5pkp/6p1/2p3K1/8/4q3/P5nP/8 w - - 0 33,I really enjoyed the opportunity Porcho! Thanks for setting up the mini tournament.
+65,Kg4,g5g4,1Q6/5pkp/6p1/2p5/6K1/4q3/P5nP/8 b - - 1 33,I really enjoyed the opportunity Porcho! Thanks for setting up the mini tournament.
+66,h5#,h7h5,1Q6/5pk1/6p1/2p4p/6K1/4q3/P5nP/8 w - - 0 34,I really enjoyed the opportunity Porcho! Thanks for setting up the mini tournament.

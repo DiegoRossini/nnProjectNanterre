@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Petrov's defence
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Petrov's defence
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Petrov's defence
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Petrov's defence
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Petrov three knights game
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,Very passive. Maybe Bb4 is more accurate.
+7,Bb5,f1b5,r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+9,O-O,e1g1,r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 5,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+10,Be7,f8e7,r1bqk2r/ppp1bppp/2np1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 2 6,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+11,d4,d2d4,r1bqk2r/ppp1bppp/2np1n2/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 0 6,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+12,O-O,e8g8,r1bq1rk1/ppp1bppp/2np1n2/1B2p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 1 7,"Preferable would be exd4.
+This move is wrong, since it loses a pawn."
+13,Bxc6,b5c6,r1bq1rk1/ppp1bppp/2Bp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 b - - 0 7,Wins a pawn.
+14,bxc6,b7c6,r1bq1rk1/p1p1bppp/2pp1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 0 8,Wins a pawn.
+15,dxe5,d4e5,r1bq1rk1/p1p1bppp/2pp1n2/4P3/4P3/2N2N2/PPP2PPP/R1BQ1RK1 b - - 0 8,Wins a pawn.
+16,Ne8,f6e8,r1bqnrk1/p1p1bppp/2pp4/4P3/4P3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 1 9,"An attempt to maintain connected pawns? 
+This move is very passive. Now black has all his pieces in the 7th and 8th rows.
+Also note, that this piece has now moved twice."
+17,Bf4,c1f4,r1bqnrk1/p1p1bppp/2pp4/4P3/4PB2/2N2N2/PPP2PPP/R2Q1RK1 b - - 2 9,"The bishop blocks pawn a7, which doe not look important now. But what is the future of this bishop here? Although we cannot be sure at this time, it looks like Ba6 is probably lost time."
+18,Ba6,c8a6,r2qnrk1/p1p1bppp/b1pp4/4P3/4PB2/2N2N2/PPP2PPP/R2Q1RK1 w - - 3 10,"The bishop blocks pawn a7, which doe not look important now. But what is the future of this bishop here? Although we cannot be sure at this time, it looks like Ba6 is probably lost time."
+19,Re1,f1e1,r2qnrk1/p1p1bppp/b1pp4/4P3/4PB2/2N2N2/PPP2PPP/R2QR1K1 b - - 4 10,"The attack on the rook was meaningless, since this was the natural move for the rook."
+20,Qb8,d8b8,rq2nrk1/p1p1bppp/b1pp4/4P3/4PB2/2N2N2/PPP2PPP/R2QR1K1 w - - 5 11,"This move does not feel right, although I cannot give a direct reason.
+It seems like it cannot be bad: defense on d6 is maintained. 
+The attack on b2 requires some sort of response from white, which will lose him time.
+But the queen is still in a very restricted position here and locks in the rook in a8."
+21,Re3,e1e3,rq2nrk1/p1p1bppp/b1pp4/4P3/4PB2/2N1RN2/PPP2PPP/R2Q2K1 b - - 6 11,Defends the knight at c3 and allows 11. ... Qxb2 which would be followed by 12. Rb1 Qa3 13. Nd5! followed by Nxd7+ or Rxa3.
+22,dxe5,d6e5,rq2nrk1/p1p1bppp/b1p5/4p3/4PB2/2N1RN2/PPP2PPP/R2Q2K1 w - - 0 12,"This exchange leaves black with an isolated double pawn, without compensation.
+There was no direct danger, so it would have been better to find a different move, so that the three pawns stay together. This is difficult, I admit. One option would have been g6, perhaps, with the intention of placing the knight at e6 via g7."
+23,Bxe5,f4e5,rq2nrk1/p1p1bppp/b1p5/4B3/4P3/2N1RN2/PPP2PPP/R2Q2K1 b - - 0 12,"This move opens up d5 to the white pieces. Also the bishop at e7 is now blocked toward the queen side.
+And: this is the second time a piece is moved twice, while the development has not been completed."
+24,c5,c6c5,rq2nrk1/p1p1bppp/b7/2p1B3/4P3/2N1RN2/PPP2PPP/R2Q2K1 w - - 0 13,"This move opens up d5 to the white pieces. Also the bishop at e7 is now blocked toward the queen side.
+And: this is the second time a piece is moved twice, while the development has not been completed."
+25,h3,h2h3,rq2nrk1/p1p1bppp/b7/2p1B3/4P3/2N1RN1P/PPP2PP1/R2Q2K1 b - - 0 13,"White wants to play his knight to g4.
+Qxb2 is still out of bounds, since the bishop at e7 is still unprotected."
+26,Bb7,a6b7,rq2nrk1/pbp1bppp/8/2p1B3/4P3/2N1RN1P/PPP2PP1/R2Q2K1 w - - 1 14,The third time a piece is moved twice in the opening stages.
+27,Nh2,f3h2,rq2nrk1/pbp1bppp/8/2p1B3/4P3/2N1R2P/PPP2PPN/R2Q2K1 b - - 2 14,"Note, that white has almost completed his development, only the rook is not developed. 
+White is advancing his pieces in such a way, that the cannot be exchanged."
+28,Nd6,e8d6,rq3rk1/pbp1bppp/3n4/2p1B3/4P3/2N1R2P/PPP2PPN/R2Q2K1 w - - 3 15,This move opens up the 8th row and redevelops the knight.
+29,Qg4,d1g4,rq3rk1/pbp1bppp/3n4/2p1B3/4P1Q1/2N1R2P/PPP2PPN/R5K1 b - - 4 15,To provoke a weakening of the kings pawn structure.
+30,g6,g7g6,rq3rk1/pbp1bp1p/3n2p1/2p1B3/4P1Q1/2N1R2P/PPP2PPN/R5K1 w - - 0 16,To limit blacks options.
+31,b3,b2b3,rq3rk1/pbp1bp1p/3n2p1/2p1B3/4P1Q1/1PN1R2P/P1P2PPN/R5K1 b - - 0 16,To limit blacks options.
+32,c4,c5c4,rq3rk1/pbp1bp1p/3n2p1/4B3/2p1P1Q1/1PN1R2P/P1P2PPN/R5K1 w - - 0 17,A simple development move. Develops whites last piece and pressures the d-line.
+33,Rd1,a1d1,rq3rk1/pbp1bp1p/3n2p1/4B3/2p1P1Q1/1PN1R2P/P1P2PPN/3R2K1 b - - 1 17,A simple development move. Develops whites last piece and pressures the d-line.
+34,Bc8,b7c8,rqb2rk1/p1p1bp1p/3n2p1/4B3/2p1P1Q1/1PN1R2P/P1P2PPN/3R2K1 w - - 2 18,The third move of this bishop.

@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Transposing to a Pirc
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Transposing to a Pirc
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Transposing to a Pirc
+4,c5,c7c5,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Alternative variation: 2... Nf6 [Is more normal.]
+5,dxc5,d4c5,rnbqkbnr/pp2pppp/3p4/2P5/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"According to Houdini, White already has a full point advantage.
+Alternative variation: 4... Qxc5 5. Be3 Qa5 [Is slightly better.]"
+6,Qa5+,d8a5,rnb1kbnr/pp2pppp/3p4/q1P5/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,"According to Houdini, White already has a full point advantage.
+Alternative variation: 4... Qxc5 5. Be3 Qa5 [Is slightly better.]"
+7,Nc3,b1c3,rnb1kbnr/pp2pppp/3p4/q1P5/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 4,"According to Houdini, White already has a full point advantage.
+Alternative variation: 4... Qxc5 5. Be3 Qa5 [Is slightly better.]"
+8,dxc5,d6c5,rnb1kbnr/pp2pppp/8/q1p5/4P3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 5,"According to Houdini, White already has a full point advantage.
+Alternative variation: 4... Qxc5 5. Be3 Qa5 [Is slightly better.]"
+9,Bd2,c1d2,rnb1kbnr/pp2pppp/8/q1p5/4P3/2N5/PPPB1PPP/R2QKBNR b KQkq - 1 5,"Threatenening Bxf7. Houdini prefers h3.
+Alternative variation: 7. h3 Bxf3 8. Qxf3 e6 9. Qg3 O-O-O 10. Nd5 Nb4 11. Nxb4 cxb4 12. Bd3 [with a better game.]"
+10,Nc6,b8c6,r1b1kbnr/pp2pppp/2n5/q1p5/4P3/2N5/PPPB1PPP/R2QKBNR w KQkq - 2 6,"Threatenening Bxf7. Houdini prefers h3.
+Alternative variation: 7. h3 Bxf3 8. Qxf3 e6 9. Qg3 O-O-O 10. Nd5 Nb4 11. Nxb4 cxb4 12. Bd3 [with a better game.]"
+11,Nf3,g1f3,r1b1kbnr/pp2pppp/2n5/q1p5/4P3/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 3 6,"Threatenening Bxf7. Houdini prefers h3.
+Alternative variation: 7. h3 Bxf3 8. Qxf3 e6 9. Qg3 O-O-O 10. Nd5 Nb4 11. Nxb4 cxb4 12. Bd3 [with a better game.]"
+12,Bg4,c8g4,r3kbnr/pp2pppp/2n5/q1p5/4P1b1/2N2N2/PPPB1PPP/R2QKB1R w KQkq - 4 7,"Threatenening Bxf7. Houdini prefers h3.
+Alternative variation: 7. h3 Bxf3 8. Qxf3 e6 9. Qg3 O-O-O 10. Nd5 Nb4 11. Nxb4 cxb4 12. Bd3 [with a better game.]"
+13,Bc4,f1c4,r3kbnr/pp2pppp/2n5/q1p5/2B1P1b1/2N2N2/PPPB1PPP/R2QK2R b KQkq - 5 7,"Threatenening Bxf7. Houdini prefers h3.
+Alternative variation: 7. h3 Bxf3 8. Qxf3 e6 9. Qg3 O-O-O 10. Nd5 Nb4 11. Nxb4 cxb4 12. Bd3 [with a better game.]"
+14,Bxf3,g4f3,r3kbnr/pp2pppp/2n5/q1p5/2B1P3/2N2b2/PPPB1PPP/R2QK2R w KQkq - 0 8,"This is refuted by Qxb5.
+Alternative variation: 9. Qe2 Nxc4 10. Qxc4 [ with a great position.]"
+15,Qxf3,d1f3,r3kbnr/pp2pppp/2n5/q1p5/2B1P3/2N2Q2/PPPB1PPP/R3K2R b KQkq - 0 8,"This is refuted by Qxb5.
+Alternative variation: 9. Qe2 Nxc4 10. Qxc4 [ with a great position.]"
+16,Ne5,c6e5,r3kbnr/pp2pppp/8/q1p1n3/2B1P3/2N2Q2/PPPB1PPP/R3K2R w KQkq - 1 9,"This is refuted by Qxb5.
+Alternative variation: 9. Qe2 Nxc4 10. Qxc4 [ with a great position.]"
+17,Bb5+,c4b5,r3kbnr/pp2pppp/8/qBp1n3/4P3/2N2Q2/PPPB1PPP/R3K2R b KQkq - 2 9,"This is refuted by Qxb5.
+Alternative variation: 9. Qe2 Nxc4 10. Qxc4 [ with a great position.]"
+18,Kd8,e8d8,r2k1bnr/pp2pppp/8/qBp1n3/4P3/2N2Q2/PPPB1PPP/R3K2R w KQ - 3 10,Now the game is hopeless.
+19,Qf5,f3f5,r2k1bnr/pp2pppp/8/qBp1nQ2/4P3/2N5/PPPB1PPP/R3K2R b KQ - 4 10,Alternative variation: 10... a6 11. Qxe5 axb5 12. Nd5 Qa6 (12... Qa4 13. O-O-O Qxa2 14. Ba5+ Qxa5 (14... Rxa5 15. Qc7+) 15. Nxe7+) 13. Nc7 [is less disasterous.]
+20,f6,f7f6,r2k1bnr/pp2p1pp/5p2/qBp1nQ2/4P3/2N5/PPPB1PPP/R3K2R w KQ - 0 11,Alternative variation: 10... a6 11. Qxe5 axb5 12. Nd5 Qa6 (12... Qa4 13. O-O-O Qxa2 14. Ba5+ Qxa5 (14... Rxa5 15. Qc7+) 15. Nxe7+) 13. Nc7 [is less disasterous.]
+21,O-O-O,e1c1,r2k1bnr/pp2p1pp/5p2/qBp1nQ2/4P3/2N5/PPPB1PPP/2KR3R b - - 1 11,Alternative variation: 11... Rc8 12. Be1+ Kc7 13. Nd5+ Kb8 14. Bxa5
+22,Nd3+,e5d3,r2k1bnr/pp2p1pp/5p2/qBp2Q2/4P3/2Nn4/PPPB1PPP/2KR3R w - - 2 12,Alternative variation: 11... Rc8 12. Be1+ Kc7 13. Nd5+ Kb8 14. Bxa5
+23,cxd3,c2d3,r2k1bnr/pp2p1pp/5p2/qBp2Q2/4P3/2NP4/PP1B1PPP/2KR3R b - - 0 12,"Houdini sees forced mate after Kb1, but it hardly matters.
+Alternative variation: 12. Kb1 Qc7 13. Bf4 Qc6 (13... e5 14. Qe6 Qe7 (14... Ne7 15. Rxd3+) 15. Rxd3+ Kc7 16. Nd5+ Kb8 17. Nxe7 Bxe7 18. Rd7) 14. Rxd3+ Ke8 (14... Qd6 15. Rxd6+ Kc7 16. Qd7+) 15. Qe6 g5 (15... Rc8 16. Qxc8+) 16. Nd5 Bg7 (16... Rc8 17. Nc7+ Rxc7 18. Bxc7) 17. Bxc6+ bxc6 (17... Kf8 18. Nxe7 Nxe7 (18... bxc6 19. Rd7) 19. Bd6) 18. Nxe7 Nxe7 (18... Kf8 19. Rd7) 19. Rd7 Bf8 20. Bd6"
+24,Qc7,a5c7,r2k1bnr/ppq1p1pp/5p2/1Bp2Q2/4P3/2NP4/PP1B1PPP/2KR3R w - - 1 13,"The move is strong, but there is better.
+Alternative variation: 13. Qd5+ Qd6 (13... Kc8 14. Qe6+ Kb8 (14... Kd8 15. Nd5 Qd6 16. Qf7) 15. Nd5) 14. Qf7 Rc8 (14... Kc7 15. Nd5+ Kc8 16. Qe8+ Qd8 17. Bd7+) 15. Nd5 Rc6 16. Qxf8+ Kd7 17. Qxg7"
+25,Nd5,c3d5,r2k1bnr/ppq1p1pp/5p2/1BpN1Q2/4P3/3P4/PP1B1PPP/2KR3R b - - 2 13,"The move is strong, but there is better.
+Alternative variation: 13. Qd5+ Qd6 (13... Kc8 14. Qe6+ Kb8 (14... Kd8 15. Nd5 Qd6 16. Qf7) 15. Nd5) 14. Qf7 Rc8 (14... Kc7 15. Nd5+ Kc8 16. Qe8+ Qd8 17. Bd7+) 15. Nd5 Rc6 16. Qxf8+ Kd7 17. Qxg7"
+26,Qd6,c7d6,r2k1bnr/pp2p1pp/3q1p2/1BpN1Q2/4P3/3P4/PP1B1PPP/2KR3R w - - 3 14,"Of course, Nxa8 is good too."
+27,Ba5+,d2a5,r2k1bnr/pp2p1pp/3q1p2/BBpN1Q2/4P3/3P4/PP3PPP/2KR3R b - - 4 14,"Of course, Nxa8 is good too."
+28,b6,b7b6,r2k1bnr/p3p1pp/1p1q1p2/BBpN1Q2/4P3/3P4/PP3PPP/2KR3R w - - 0 15,"Of course, Nxa8 is good too."
+29,Nxb6,d5b6,r2k1bnr/p3p1pp/1N1q1p2/BBp2Q2/4P3/3P4/PP3PPP/2KR3R b - - 0 15,"Of course, Nxa8 is good too."
+30,Qc7,d6c7,r2k1bnr/p1q1p1pp/1N3p2/BBp2Q2/4P3/3P4/PP3PPP/2KR3R w - - 1 16,"Of course, Nxa8 is good too."
+31,Nc4,b6c4,r2k1bnr/p1q1p1pp/5p2/BBp2Q2/2N1P3/3P4/PP3PPP/2KR3R b - - 2 16,"Of course, Nxa8 is good too."

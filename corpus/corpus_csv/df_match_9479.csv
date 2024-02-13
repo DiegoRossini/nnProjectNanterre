@@ -1,0 +1,66 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"this is not a right opening for black !
+3. Nf3 ! Qxg2 ? 4.Rg1 Qh3 5. Bxf7 !! is winning for white"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"this is not a right opening for black !
+3. Nf3 ! Qxg2 ? 4.Rg1 Qh3 5. Bxf7 !! is winning for white"
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"this is not a right opening for black !
+3. Nf3 ! Qxg2 ? 4.Rg1 Qh3 5. Bxf7 !! is winning for white"
+4,Qg5,d8g5,rnb1kbnr/pppp1ppp/8/4p1q1/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"this is not a right opening for black !
+3. Nf3 ! Qxg2 ? 4.Rg1 Qh3 5. Bxf7 !! is winning for white"
+5,Qf3,d1f3,rnb1kbnr/pppp1ppp/8/4p1q1/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,i will surely play Nf3 next time !
+6,Nf6,g8f6,rnb1kb1r/pppp1ppp/5n2/4p1q1/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,looking for d4
+7,Nc3,b1c3,rnb1kb1r/pppp1ppp/5n2/4p1q1/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR b KQkq - 5 4,looking for d4
+8,Qg6,g5g6,rnb1kb1r/pppp1ppp/5nq1/4p3/2B1P3/2N2Q2/PPPP1PPP/R1B1K1NR w KQkq - 6 5,a good place for black queen
+9,d3,d2d3,rnb1kb1r/pppp1ppp/5nq1/4p3/2B1P3/2NP1Q2/PPP2PPP/R1B1K1NR b KQkq - 0 5,h4 was better to track the black queen
+10,Bb4,f8b4,rnb1k2r/pppp1ppp/5nq1/4p3/1bB1P3/2NP1Q2/PPP2PPP/R1B1K1NR w KQkq - 1 6,h4 was better to track the black queen
+11,Bd2,c1d2,rnb1k2r/pppp1ppp/5nq1/4p3/1bB1P3/2NP1Q2/PPPB1PPP/R3K1NR b KQkq - 2 6,h4 was better to track the black queen
+12,d6,d7d6,rnb1k2r/ppp2ppp/3p1nq1/4p3/1bB1P3/2NP1Q2/PPPB1PPP/R3K1NR w KQkq - 0 7,looking for Bg4
+13,Qg3,f3g3,rnb1k2r/ppp2ppp/3p1nq1/4p3/1bB1P3/2NP2Q1/PPPB1PPP/R3K1NR b KQkq - 1 7,"Nb5 was nice, even if Bxd2, Kxd2 Na6"
+14,Qxg3,g6g3,rnb1k2r/ppp2ppp/3p1n2/4p3/1bB1P3/2NP2q1/PPPB1PPP/R3K1NR w KQkq - 0 8,"Nb5 was nice, even if Bxd2, Kxd2 Na6"
+15,hxg3,h2g3,rnb1k2r/ppp2ppp/3p1n2/4p3/1bB1P3/2NP2P1/PPPB1PP1/R3K1NR b KQkq - 0 8,"Nb5 was nice, even if Bxd2, Kxd2 Na6"
+16,Bg4,c8g4,rn2k2r/ppp2ppp/3p1n2/4p3/1bB1P1b1/2NP2P1/PPPB1PP1/R3K1NR w KQkq - 1 9,"Nb5 was nice, even if Bxd2, Kxd2 Na6"
+17,a3,a2a3,rn2k2r/ppp2ppp/3p1n2/4p3/1bB1P1b1/P1NP2P1/1PPB1PP1/R3K1NR b KQkq - 0 9,"Nb5 was nice, even if Bxd2, Kxd2 Na6"
+18,Bxc3,b4c3,rn2k2r/ppp2ppp/3p1n2/4p3/2B1P1b1/P1bP2P1/1PPB1PP1/R3K1NR w KQkq - 0 10,"at this time i had two moves Bxc3 or gxc3. i wanted to have more space for my rooks, but it seems that fritz disagree with this"
+19,bxc3,b2c3,rn2k2r/ppp2ppp/3p1n2/4p3/2B1P1b1/P1PP2P1/2PB1PP1/R3K1NR b KQkq - 0 10,Bxc3 was better
+20,Nbd7,b8d7,r3k2r/pppn1ppp/3p1n2/4p3/2B1P1b1/P1PP2P1/2PB1PP1/R3K1NR w KQkq - 1 11,"now fritz recommands Nb6 for black ! : 
+11.Nb6 fxg4 Nxc4 dxc4 Nxe4 ! with a destructured white pawn chain"
+21,f3,f2f3,r3k2r/pppn1ppp/3p1n2/4p3/2B1P1b1/P1PP1PP1/2PB2P1/R3K1NR b KQkq - 0 11,"now fritz recommands Nb6 for black ! : 
+11.Nb6 fxg4 Nxc4 dxc4 Nxe4 ! with a destructured white pawn chain"
+22,Be6,g4e6,r3k2r/pppn1ppp/3pbn2/4p3/2B1P3/P1PP1PP1/2PB2P1/R3K1NR w KQkq - 1 12,a pure blunder ! now black earns a pawn
+23,Bxe6,c4e6,r3k2r/pppn1ppp/3pBn2/4p3/4P3/P1PP1PP1/2PB2P1/R3K1NR b KQkq - 0 12,a pure blunder ! now black earns a pawn
+24,fxe6,f7e6,r3k2r/pppn2pp/3ppn2/4p3/4P3/P1PP1PP1/2PB2P1/R3K1NR w KQkq - 0 13,a pure blunder ! now black earns a pawn
+25,Rb1,a1b1,r3k2r/pppn2pp/3ppn2/4p3/4P3/P1PP1PP1/2PB2P1/1R2K1NR b Kkq - 1 13,a pure blunder ! now black earns a pawn
+26,O-O-O,e8c8,2kr3r/pppn2pp/3ppn2/4p3/4P3/P1PP1PP1/2PB2P1/1R2K1NR w K - 2 14,a pure blunder ! now black earns a pawn
+27,Be3,d2e3,2kr3r/pppn2pp/3ppn2/4p3/4P3/P1PPBPP1/2P3P1/1R2K1NR b K - 3 14,a pure blunder ! now black earns a pawn
+28,c5,c7c5,2kr3r/pp1n2pp/3ppn2/2p1p3/4P3/P1PPBPP1/2P3P1/1R2K1NR w K - 0 15,a pure blunder ! now black earns a pawn
+29,d4,d3d4,2kr3r/pp1n2pp/3ppn2/2p1p3/3PP3/P1P1BPP1/2P3P1/1R2K1NR b K - 0 15,a pure blunder ! now black earns a pawn
+30,Kb8,c8b8,1k1r3r/pp1n2pp/3ppn2/2p1p3/3PP3/P1P1BPP1/2P3P1/1R2K1NR w K - 1 16,a pure blunder ! now black earns a pawn
+31,Ne2,g1e2,1k1r3r/pp1n2pp/3ppn2/2p1p3/3PP3/P1P1BPP1/2P1N1P1/1R2K2R b K - 2 16,a pure blunder ! now black earns a pawn
+32,Rdc8,d8c8,1kr4r/pp1n2pp/3ppn2/2p1p3/3PP3/P1P1BPP1/2P1N1P1/1R2K2R w K - 3 17,a pure blunder ! now black earns a pawn
+33,O-O,e1g1,1kr4r/pp1n2pp/3ppn2/2p1p3/3PP3/P1P1BPP1/2P1N1P1/1R3RK1 b - - 4 17,a pure blunder ! now black earns a pawn
+34,cxd4,c5d4,1kr4r/pp1n2pp/3ppn2/4p3/3pP3/P1P1BPP1/2P1N1P1/1R3RK1 w - - 0 18,a correct move
+35,cxd4,c3d4,1kr4r/pp1n2pp/3ppn2/4p3/3PP3/P3BPP1/2P1N1P1/1R3RK1 b - - 0 18,a correct move
+36,Rxc2,c8c2,1k5r/pp1n2pp/3ppn2/4p3/3PP3/P3BPP1/2r1N1P1/1R3RK1 w - - 0 19,a correct move
+37,Rfe1,f1e1,1k5r/pp1n2pp/3ppn2/4p3/3PP3/P3BPP1/2r1N1P1/1R2R1K1 b - - 1 19,a correct move
+38,Ra2,c2a2,1k5r/pp1n2pp/3ppn2/4p3/3PP3/P3BPP1/r3N1P1/1R2R1K1 w - - 2 20,a correct move
+39,Rb3,b1b3,1k5r/pp1n2pp/3ppn2/4p3/3PP3/PR2BPP1/r3N1P1/4R1K1 b - - 3 20,white have -  0.75 with fritz 8
+40,exd4,e5d4,1k5r/pp1n2pp/3ppn2/8/3pP3/PR2BPP1/r3N1P1/4R1K1 w - - 0 21,white are still late
+41,Nxd4,e2d4,1k5r/pp1n2pp/3ppn2/8/3NP3/PR2BPP1/r5P1/4R1K1 b - - 0 21,white are still late
+42,Nc5,d7c5,1k5r/pp4pp/3ppn2/2n5/3NP3/PR2BPP1/r5P1/4R1K1 w - - 1 22,white are still late
+43,Rc3,b3c3,1k5r/pp4pp/3ppn2/2n5/3NP3/P1R1BPP1/r5P1/4R1K1 b - - 2 22,white are still late
+44,Rb2,a2b2,1k5r/pp4pp/3ppn2/2n5/3NP3/P1R1BPP1/1r4P1/4R1K1 w - - 3 23,"a weak move : a6 was better to avoid Kb5
+now fritz recommands 23. Rxc5 ! dxc 24. Nxe6 b6 25. Nxg6 with an equal game"
+45,Rec1,e1c1,1k5r/pp4pp/3ppn2/2n5/3NP3/P1R1BPP1/1r4P1/2R3K1 b - - 4 23,now Rxc5 is still valid
+46,Rf8,h8f8,1k3r2/pp4pp/3ppn2/2n5/3NP3/P1R1BPP1/1r4P1/2R3K1 w - - 5 24,now Rxc5 is still valid
+47,Rc3xc5,c3c5,1k3r2/pp4pp/3ppn2/2R5/3NP3/P3BPP1/1r4P1/2R3K1 b - - 0 24,"fritz gives  -0.6 for white, that means than from now i am going to earn the equivalent of 4 pawns !"
+48,dxc5,d6c5,1k3r2/pp4pp/4pn2/2p5/3NP3/P3BPP1/1r4P1/2R3K1 w - - 0 25,first !
+49,Nxe6,d4e6,1k3r2/pp4pp/4Nn2/2p5/4P3/P3BPP1/1r4P1/2R3K1 b - - 0 25,first !
+50,Rf7,f8f7,1k6/pp3rpp/4Nn2/2p5/4P3/P3BPP1/1r4P1/2R3K1 w - - 1 26,"second pawn !
+retreiving the lost material with attack .  fritz avaluates this to  1.31, the rook sacrifice was really winning"
+51,Bf4+,e3f4,1k6/pp3rpp/4Nn2/2p5/4PB2/P4PP1/1r4P1/2R3K1 b - - 2 26,"second pawn !
+retreiving the lost material with attack .  fritz avaluates this to  1.31, the rook sacrifice was really winning"
+52,Kc8,b8c8,2k5/pp3rpp/4Nn2/2p5/4PB2/P4PP1/1r4P1/2R3K1 w - - 3 27,"second pawn !
+retreiving the lost material with attack .  fritz avaluates this to  1.31, the rook sacrifice was really winning"
+53,Rxc5+,c1c5,2k5/pp3rpp/4Nn2/2R5/4PB2/P4PP1/1r4P1/6K1 b - - 0 27,"second pawn !
+retreiving the lost material with attack .  fritz avaluates this to  1.31, the rook sacrifice was really winning"
+54,Kd7,c8d7,8/pp1k1rpp/4Nn2/2R5/4PB2/P4PP1/1r4P1/6K1 w - - 1 28,the only move to continue.

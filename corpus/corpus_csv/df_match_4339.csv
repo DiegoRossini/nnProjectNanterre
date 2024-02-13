@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,He opens with Queen's pawn.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"I play e6, with the idea to play Nimzo-Indian defense."
+3,c4,c2c4,rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Follows with the seizure of center.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3,Nimzo-indian defense continues.
+5,Nf3,g1f3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3,Develops kingside's knight.
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 3 4,"I develop my Bishop with a check to propose Bishop exchanging, Knight pinning, or to force him to lift up a pawn. The real intentions behind my move is to make way for early kingside castle."
+7,Bd2,c1d2,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R b KQkq - 4 4,He says it's gonna be Bishop's exchange.
+8,Bxd2+,b4d2,rnbqk2r/pppp1ppp/4pn2/8/2PP4/5N2/PP1bPPPP/RN1QKB1R w KQkq - 0 5,"I go for it, with a check."
+9,Nbxd2,b1d2,rnbqk2r/pppp1ppp/4pn2/8/2PP4/5N2/PP1NPPPP/R2QKB1R b KQkq - 0 5,He recaptures.
+10,O-O,e8g8,rnbq1rk1/pppp1ppp/4pn2/8/2PP4/5N2/PP1NPPPP/R2QKB1R w KQ - 1 6,And then I castle. I'm ready to go ballistic now.
+11,e4,e2e4,rnbq1rk1/pppp1ppp/4pn2/8/2PPP3/5N2/PP1N1PPP/R2QKB1R b KQ - 0 6,He totally wants to control the center.
+12,c6,c7c6,rnbq1rk1/pp1p1ppp/2p1pn2/8/2PPP3/5N2/PP1N1PPP/R2QKB1R w KQ - 0 7,"I lift up c pawn to prepare d5. When I do, we'll know if it is going to be a very closed position or a very open one... My guesses at this moment are it's going to be a closed one, coz he's more likely to play e5 to challenge my knight."
+13,Bd3,f1d3,rnbq1rk1/pp1p1ppp/2p1pn2/8/2PPP3/3B1N2/PP1N1PPP/R2QK2R b KQ - 1 7,He prepares his castling by developing his kingside bishop.
+14,d5,d7d5,rnbq1rk1/pp3ppp/2p1pn2/3p4/2PPP3/3B1N2/PP1N1PPP/R2QK2R w KQ - 0 8,I do my move. I am expecting him to play e5 so the position will become closed in the center.
+15,e5,e4e5,rnbq1rk1/pp3ppp/2p1pn2/3pP3/2PP4/3B1N2/PP1N1PPP/R2QK2R b KQ - 0 8,"So he does, he couldn't miss the chance to advance a pawn while also challenging my knight."
+16,Nfd7,f6d7,rnbq1rk1/pp1n1ppp/2p1p3/3pP3/2PP4/3B1N2/PP1N1PPP/R2QK2R w KQ - 1 9,"Not many good places for my knight, so I retract it to d7. The idea is to reinforce f6, coz I'm planning to play f5 at some point to disrupt his potential attack on my weak h7 position. If he captures en-passant with e-pawn, then capturing with Nxf6 will reinforce h7."
+17,O-O,e1g1,rnbq1rk1/pp1n1ppp/2p1p3/3pP3/2PP4/3B1N2/PP1N1PPP/R2Q1RK1 b - - 2 9,He castles.
+18,h6,h7h6,rnbq1rk1/pp1n1pp1/2p1p2p/3pP3/2PP4/3B1N2/PP1N1PPP/R2Q1RK1 w - - 0 10,"I decide I'll lift up a little my h pawn to prevent his knight from going to g5, while also making worthless a battery attack with his bishop and queen on my h7 position."
+19,c5,c4c5,rnbq1rk1/pp1n1pp1/2p1p2p/2PpP3/3P4/3B1N2/PP1N1PPP/R2Q1RK1 b - - 0 10,He decides he's gonna keep totally closed the center.
+20,f5,f7f5,rnbq1rk1/pp1n2p1/2p1p2p/2PpPp2/3P4/3B1N2/PP1N1PPP/R2Q1RK1 w - f6 0 11,"I do my move, if he captures en-passant, I'll develop my knight and will have myself an open controlled file. If he doesn't, I'll totally disable any diagonal attacks on my h7 position. If he wants to break it, he'll have to use his castle g pawn."

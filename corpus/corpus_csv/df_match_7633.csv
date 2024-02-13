@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,A nice tactic sacrifice... the strenght of the London attack.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,A naive move or a plan?
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,A naive move or a plan?
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,A naive move or a plan?
+5,Bf4,c1f4,rnbqkbnr/ppp2ppp/4p3/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,A naive move or a plan?
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4,A naive move or a plan?
+7,h4,h2h4,rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B1P/5N2/PPP1PPP1/RN1QKB1R b KQkq - 0 4,A naive move or a plan?
+8,Bb4+,f8b4,rnbqk2r/ppp2ppp/4pn2/3p4/1b1P1B1P/5N2/PPP1PPP1/RN1QKB1R w KQkq - 1 5,A naive move or a plan?
+9,c3,c2c3,rnbqk2r/ppp2ppp/4pn2/3p4/1b1P1B1P/2P2N2/PP2PPP1/RN1QKB1R b KQkq - 0 5,I plan to develop the b1 knight to d2 anyway.
+10,Bd6,b4d6,rnbqk2r/ppp2ppp/3bpn2/3p4/3P1B1P/2P2N2/PP2PPP1/RN1QKB1R w KQkq - 1 6,"Still safe. If black exchanges, I have time to defend e5 before black can threat it another time."
+11,Ne5,f3e5,rnbqk2r/ppp2ppp/3bpn2/3pN3/3P1B1P/2P5/PP2PPP1/RN1QKB1R b KQkq - 2 6,"Still safe. If black exchanges, I have time to defend e5 before black can threat it another time."
+12,Nbd7,b8d7,r1bqk2r/pppn1ppp/3bpn2/3pN3/3P1B1P/2P5/PP2PPP1/RN1QKB1R w KQkq - 3 7,"Still safe. If black exchanges, I have time to defend e5 before black can threat it another time."
+13,e3,e2e3,r1bqk2r/pppn1ppp/3bpn2/3pN3/3P1B1P/2P1P3/PP3PP1/RN1QKB1R b KQkq - 0 7,"Still safe. If black exchanges, I have time to defend e5 before black can threat it another time."
+14,c5,c7c5,r1bqk2r/pp1n1ppp/3bpn2/2ppN3/3P1B1P/2P1P3/PP3PP1/RN1QKB1R w KQkq - 0 8,"Good. Black ""must"" play this move sooner or later in this opening."
+15,Qf3,d1f3,r1bqk2r/pp1n1ppp/3bpn2/2ppN3/3P1B1P/2P1PQ2/PP3PP1/RN2KB1R b KQkq - 1 8,The white pieces are already pointing to the black's kingside.
+16,Qb6,d8b6,r1b1k2r/pp1n1ppp/1q1bpn2/2ppN3/3P1B1P/2P1PQ2/PP3PP1/RN2KB1R w KQkq - 2 9,"Black can try some kind of sac here, like c4, 16. b4, Bxb4. White threats Nxf7, KxN, g4... another interesting tactic sac. I can't bet for any of the two sacs, deeper analysis would be necessary."
+17,b3,b2b3,r1b1k2r/pp1n1ppp/1q1bpn2/2ppN3/3P1B1P/1PP1PQ2/P4PP1/RN2KB1R b KQkq - 0 9,"Black can try some kind of sac here, like c4, 16. b4, Bxb4. White threats Nxf7, KxN, g4... another interesting tactic sac. I can't bet for any of the two sacs, deeper analysis would be necessary."
+18,O-O,e8g8,r1b2rk1/pp1n1ppp/1q1bpn2/2ppN3/3P1B1P/1PP1PQ2/P4PP1/RN2KB1R w KQ - 1 10,Getting into the enemy's play.
+19,Nd2,b1d2,r1b2rk1/pp1n1ppp/1q1bpn2/2ppN3/3P1B1P/1PP1PQ2/P2N1PP1/R3KB1R b KQ - 2 10,"I've done this one since black can attack with c4, threating c4xb3 (which is bad for me, and I cannot defend it easily) or Qb2, if I take the pawn.
+Now, by this move, I'm setting the ""trick"": Nd2-c4, and he cannot take it because Nxc4, trheatening the queen and the bishop at the same time, recovering my piece and a pawn, along with a good position. 
+Bd3 was ok, apparently, and if c4, Bc2. But after Ne4, I'm giving him an ""attacking"" position, I didn't like it. 
+Be2 sets the threat Qg3 (for Bh6), but it is easily met, and there are a lot of ways the game can go on. 
+I hoped the trick I am building is too deep for him to see. Anyway, not a bad move as it seems to be."
+20,h6,h7h6,r1b2rk1/pp1n1pp1/1q1bpn1p/2ppN3/3P1B1P/1PP1PQ2/P2N1PP1/R3KB1R w KQ - 0 11,This is to avoid Nh4 after Qg3.
+21,Be2,f1e2,r1b2rk1/pp1n1pp1/1q1bpn1p/2ppN3/3P1B1P/1PP1PQ2/P2NBPP1/R3K2R b KQ - 1 11,This is to avoid Nh4 after Qg3.
+22,Nh7,f6h7,r1b2rk1/pp1n1ppn/1q1bp2p/2ppN3/3P1B1P/1PP1PQ2/P2NBPP1/R3K2R w KQ - 2 12,The anti natural key move of this opening.
+23,Qg3,f3g3,r1b2rk1/pp1n1ppn/1q1bp2p/2ppN3/3P1B1P/1PP1P1Q1/P2NBPP1/R3K2R b KQ - 3 12,The anti natural key move of this opening.
+24,Bxe5,d6e5,r1b2rk1/pp1n1ppn/1q2p2p/2ppb3/3P1B1P/1PP1P1Q1/P2NBPP1/R3K2R w KQ - 0 13,The anti natural key move of this opening.
+25,dxe5,d4e5,r1b2rk1/pp1n1ppn/1q2p2p/2ppP3/5B1P/1PP1P1Q1/P2NBPP1/R3K2R b KQ - 0 13,The anti natural key move of this opening.
+26,Kh8,g8h8,r1b2r1k/pp1n1ppn/1q2p2p/2ppP3/5B1P/1PP1P1Q1/P2NBPP1/R3K2R w KQ - 1 14,I am already seeing the knight sac on g5.
+27,Nf3,d2f3,r1b2r1k/pp1n1ppn/1q2p2p/2ppP3/5B1P/1PP1PNQ1/P3BPP1/R3K2R b KQ - 2 14,I am already seeing the knight sac on g5.
+28,f6,f7f6,r1b2r1k/pp1n2pn/1q2pp1p/2ppP3/5B1P/1PP1PNQ1/P3BPP1/R3K2R w KQ - 0 15,"My bishop is blocked, but this allows me to play the sac (Ng5). Black's self blocked pieces are playing in my favour, so I have time for another preparatory move."
+29,Bd3,e2d3,r1b2r1k/pp1n2pn/1q2pp1p/2ppP3/5B1P/1PPBPNQ1/P4PP1/R3K2R b KQ - 1 15,"My bishop is blocked, but this allows me to play the sac (Ng5). Black's self blocked pieces are playing in my favour, so I have time for another preparatory move."
+30,f5,f6f5,r1b2r1k/pp1n2pn/1q2p2p/2ppPp2/5B1P/1PPBPNQ1/P4PP1/R3K2R w KQ - 0 16,"My bishop is blocked, but this allows me to play the sac (Ng5). Black's self blocked pieces are playing in my favour, so I have time for another preparatory move."
+31,Qg6,g3g6,r1b2r1k/pp1n2pn/1q2p1Qp/2ppPp2/5B1P/1PPBPN2/P4PP1/R3K2R b KQ - 1 16,"I liked it. It is not a ""perfect"" sac, but it was too nice not to play it."
+32,Qd8,b6d8,r1bq1r1k/pp1n2pn/4p1Qp/2ppPp2/5B1P/1PPBPN2/P4PP1/R3K2R w KQ - 2 17,"I liked it. It is not a ""perfect"" sac, but it was too nice not to play it."
+33,Ng5,f3g5,r1bq1r1k/pp1n2pn/4p1Qp/2ppPpN1/5B1P/1PPBP3/P4PP1/R3K2R b KQ - 3 17,"I liked it. It is not a ""perfect"" sac, but it was too nice not to play it."
+34,Nxg5,h7g5,r1bq1r1k/pp1n2p1/4p1Qp/2ppPpn1/5B1P/1PPBP3/P4PP1/R3K2R w KQ - 0 18,The only one.
+35,hxg5,h4g5,r1bq1r1k/pp1n2p1/4p1Qp/2ppPpP1/5B2/1PPBP3/P4PP1/R3K2R b KQ - 0 18,"Black thinks all his problems will fade by exchanging queens, but it is not so easy."
+36,Qe8,d8e8,r1b1qr1k/pp1n2p1/4p1Qp/2ppPpP1/5B2/1PPBP3/P4PP1/R3K2R w KQ - 1 19,"Black thinks all his problems will fade by exchanging queens, but it is not so easy."
+37,Rxh6+,h1h6,r1b1qr1k/pp1n2p1/4p1QR/2ppPpP1/5B2/1PPBP3/P4PP1/R3K3 b Q - 0 19,Second sac...
+38,gxh6,g7h6,r1b1qr1k/pp1n4/4p1Qp/2ppPpP1/5B2/1PPBP3/P4PP1/R3K3 w Q - 0 20,"This simple move is definitory. Black is tied to defend the h column, and this allows me to play freely and eventually recover the piece."
+39,Qxh6+,g6h6,r1b1qr1k/pp1n4/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/R3K3 b Q - 0 20,"This simple move is definitory. Black is tied to defend the h column, and this allows me to play freely and eventually recover the piece."
+40,Kg8,h8g8,r1b1qrk1/pp1n4/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/R3K3 w Q - 1 21,"This simple move is definitory. Black is tied to defend the h column, and this allows me to play freely and eventually recover the piece."
+41,O-O-O,e1c1,r1b1qrk1/pp1n4/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/2KR4 b - - 2 21,"This simple move is definitory. Black is tied to defend the h column, and this allows me to play freely and eventually recover the piece."
+42,Qe7,e8e7,r1b2rk1/pp1nq3/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/2KR4 w - - 3 22,Or Qf7 (the only way to stop the Rh1 threat).
+43,Rh1,d1h1,r1b2rk1/pp1nq3/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/2K4R b - - 4 22,"At first, I thought about Bxf5 after the black's move. This is not enough to win. I was sweating, since if the sac doesn't bring me to a victory, I will be playing an idiot."
+44,Qg7,e7g7,r1b2rk1/pp1n2q1/4p2Q/2ppPpP1/5B2/1PPBP3/P4PP1/2K4R w - - 5 23,"At first, I thought about Bxf5 after the black's move. This is not enough to win. I was sweating, since if the sac doesn't bring me to a victory, I will be playing an idiot."
+45,Qxe6+,h6e6,r1b2rk1/pp1n2q1/4Q3/2ppPpP1/5B2/1PPBP3/P4PP1/2K4R b - - 0 23,"At first, I thought about Bxf5 after the black's move. This is not enough to win. I was sweating, since if the sac doesn't bring me to a victory, I will be playing an idiot."

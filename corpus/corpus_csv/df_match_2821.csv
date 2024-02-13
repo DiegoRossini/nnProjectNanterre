@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian. A basic one for me.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian. A basic one for me.
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Just as it's suposed to be played.
+4,cxd4,c5d4,rnbqkbnr/pp1ppppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Just as it's suposed to be played.
+5,Qxd4,d1d4,rnbqkbnr/pp1ppppp/8/8/3QP3/8/PPP2PPP/RNB1KBNR b KQkq - 0 3,And that knight moves out
+6,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4,And that knight moves out
+7,Qc4,d4c4,r1bqkbnr/pp1ppppp/2n5/8/2Q1P3/8/PPP2PPP/RNB1KBNR b KQkq - 2 4,Huh. That isn't normal (well at least not to me)
+8,e5,e7e5,r1bqkbnr/pp1p1ppp/2n5/4p3/2Q1P3/8/PPP2PPP/RNB1KBNR w KQkq - 0 5,king pawn comes out.
+9,Nf3,g1f3,r1bqkbnr/pp1p1ppp/2n5/4p3/2Q1P3/5N2/PPP2PPP/RNB1KB1R b KQkq - 1 5,"I have allready pulled out my knight, so I am safe."
+10,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n2n2/4p3/2Q1P3/5N2/PPP2PPP/RNB1KB1R w KQkq - 2 6,He threatens to play Kxf7 and fork my queen and rook.
+11,Ng5,f3g5,r1bqkb1r/pp1p1ppp/2n2n2/4p1N1/2Q1P3/8/PPP2PPP/RNB1KB1R b KQkq - 3 6,He threatens to play Kxf7 and fork my queen and rook.
+12,Qe7,d8e7,r1b1kb1r/pp1pqppp/2n2n2/4p1N1/2Q1P3/8/PPP2PPP/RNB1KB1R w KQkq - 4 7,I block.
+13,Nc3,b1c3,r1b1kb1r/pp1pqppp/2n2n2/4p1N1/2Q1P3/2N5/PPP2PPP/R1B1KB1R b KQkq - 5 7,I try to have a queen trade...
+14,Qb4,e7b4,r1b1kb1r/pp1p1ppp/2n2n2/4p1N1/1qQ1P3/2N5/PPP2PPP/R1B1KB1R w KQkq - 6 8,I try to have a queen trade...
+15,Qxf7+,c4f7,r1b1kb1r/pp1p1Qpp/2n2n2/4p1N1/1q2P3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 8,but instead he attacks with the queen!
+16,Kd8,e8d8,r1bk1b1r/pp1p1Qpp/2n2n2/4p1N1/1q2P3/2N5/PPP2PPP/R1B1KB1R w KQ - 1 9,"I run away, spoiling my chances of castling."
+17,a3,a2a3,r1bk1b1r/pp1p1Qpp/2n2n2/4p1N1/1q2P3/P1N5/1PP2PPP/R1B1KB1R b KQ - 0 9,"I want to trade, even though I am down in material."
+18,Qe7,b4e7,r1bk1b1r/pp1pqQpp/2n2n2/4p1N1/4P3/P1N5/1PP2PPP/R1B1KB1R w KQ - 1 10,"I want to trade, even though I am down in material."
+19,Qxe7+,f7e7,r1bk1b1r/pp1pQ1pp/2n2n2/4p1N1/4P3/P1N5/1PP2PPP/R1B1KB1R b KQ - 0 10,Yay! He finaly takes it!
+20,Kxe7,d8e7,r1b2b1r/pp1pk1pp/2n2n2/4p1N1/4P3/P1N5/1PP2PPP/R1B1KB1R w KQ - 0 11,That knight makes me nervous.
+21,g3,g2g3,r1b2b1r/pp1pk1pp/2n2n2/4p1N1/4P3/P1N3P1/1PP2P1P/R1B1KB1R b KQ - 0 11,That knight makes me nervous.
+22,h6,h7h6,r1b2b1r/pp1pk1p1/2n2n1p/4p1N1/4P3/P1N3P1/1PP2P1P/R1B1KB1R w KQ - 0 12,That knight makes me nervous.
+23,Nf3,g5f3,r1b2b1r/pp1pk1p1/2n2n1p/4p3/4P3/P1N2NP1/1PP2P1P/R1B1KB1R b KQ - 1 12,I try for another trade.
+24,Nd4,c6d4,r1b2b1r/pp1pk1p1/5n1p/4p3/3nP3/P1N2NP1/1PP2P1P/R1B1KB1R w KQ - 2 13,I try for another trade.
+25,Nxd4,f3d4,r1b2b1r/pp1pk1p1/5n1p/4p3/3NP3/P1N3P1/1PP2P1P/R1B1KB1R b KQ - 0 13,"And he takes, puting me in position to scare the othe knight on c3 away."
+26,exd4,e5d4,r1b2b1r/pp1pk1p1/5n1p/8/3pP3/P1N3P1/1PP2P1P/R1B1KB1R w KQ - 0 14,Evening out material by taking both the middle and a hanging piece.
+27,Nb5,c3b5,r1b2b1r/pp1pk1p1/5n1p/1N6/3pP3/P5P1/1PP2P1P/R1B1KB1R b KQ - 1 14,Evening out material by taking both the middle and a hanging piece.
+28,Nxe4,f6e4,r1b2b1r/pp1pk1p1/7p/1N6/3pn3/P5P1/1PP2P1P/R1B1KB1R w KQ - 0 15,Evening out material by taking both the middle and a hanging piece.
+29,Nxd4,b5d4,r1b2b1r/pp1pk1p1/7p/8/3Nn3/P5P1/1PP2P1P/R1B1KB1R b KQ - 0 15,He follows suit.
+30,d6,d7d6,r1b2b1r/pp2k1p1/3p3p/8/3Nn3/P5P1/1PP2P1P/R1B1KB1R w KQ - 0 16,He doesn't like my knight there.
+31,Bg2,f1g2,r1b2b1r/pp2k1p1/3p3p/8/3Nn3/P5P1/1PP2PBP/R1B1K2R b KQ - 1 16,He doesn't like my knight there.
+32,d5,d6d5,r1b2b1r/pp2k1p1/7p/3p4/3Nn3/P5P1/1PP2PBP/R1B1K2R w KQ - 0 17,But I want it there.

@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,English opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2,"Not the best move for Black, because..."
+3,cxd5,c4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PP1PPPPP/RNBQKBNR b KQkq - 0 2,"It forces the queen out too early, allows me to chase her around a bit and gives me a lead in development (I'd like to thank nuntar for pointing this out in an earlier annotation :) )"
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PP1PPPPP/RNBQKBNR w KQkq - 0 3,"It forces the queen out too early, allows me to chase her around a bit and gives me a lead in development (I'd like to thank nuntar for pointing this out in an earlier annotation :) )"
+5,Nc3,b1c3,rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 3,"It forces the queen out too early, allows me to chase her around a bit and gives me a lead in development (I'd like to thank nuntar for pointing this out in an earlier annotation :) )"
+6,Qc6,d5c6,rnb1kbnr/ppp1pppp/2q5/8/8/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 4,"i guess Black doesn't want a move wasted, so he keeps the Queen in play. However, it could lead to more wasted moves should I put pressure on it."
+7,Nf3,g1f3,rnb1kbnr/ppp1pppp/2q5/8/8/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 4,"normally, I would play 4.g3, but that would sacrifice my rook for nothing"
+8,Bg4,c8g4,rn2kbnr/ppp1pppp/2q5/8/6b1/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 5,threatening to double my pawns on the f file
+9,e4,e2e4,rn2kbnr/ppp1pppp/2q5/8/4P1b1/2N2N2/PP1P1PPP/R1BQKB1R b KQkq - 0 5,"I played this with the hope of not doubling my pawns, but I had just voluntarily pinned my knight"
+10,Bxf3,g4f3,rn2kbnr/ppp1pppp/2q5/8/4P3/2N2b2/PP1P1PPP/R1BQKB1R w KQkq - 0 6,"Black's exchange saves me from this pin, thankfully"
+11,Qxf3,d1f3,rn2kbnr/ppp1pppp/2q5/8/4P3/2N2Q2/PP1P1PPP/R1B1KB1R b KQkq - 0 6,"instead of developing, Black seeks an exchange"
+12,Qf6,c6f6,rn2kbnr/ppp1pppp/5q2/8/4P3/2N2Q2/PP1P1PPP/R1B1KB1R w KQkq - 1 7,"instead of developing, Black seeks an exchange"
+13,e5,e4e5,rn2kbnr/ppp1pppp/5q2/4P3/8/2N2Q2/PP1P1PPP/R1B1KB1R b KQkq - 0 7,"This did mean losing my e-pawn, but I was planning to launch an attack on b7. Also, after 7... Qxe5 8.Bf2, I could simply get rid of the pin by castling"
+14,Qxf3,f6f3,rn2kbnr/ppp1pppp/8/4P3/8/2N2q2/PP1P1PPP/R1B1KB1R w KQkq - 0 8,"?! Black trades off Queens, to double up my pawns on the f-file"
+15,gxf3,g2f3,rn2kbnr/ppp1pppp/8/4P3/8/2N2P2/PP1P1P1P/R1B1KB1R b KQkq - 0 8,not sure why this move was made... to stop 9.Bb5+ ?
+16,c6,c7c6,rn2kbnr/pp2pppp/2p5/4P3/8/2N2P2/PP1P1P1P/R1B1KB1R w KQkq - 0 9,not sure why this move was made... to stop 9.Bb5+ ?
+17,Bh3,f1h3,rn2kbnr/pp2pppp/2p5/4P3/8/2N2P1B/PP1P1P1P/R1B1K2R b KQkq - 1 9,"I'm not sure why I did this either... it does put pressure on the d7 square, so I guess that's it, but it also covers the e6 square, which works out for me later"
+18,e6,e7e6,rn2kbnr/pp3ppp/2p1p3/4P3/8/2N2P1B/PP1P1P1P/R1B1K2R w KQkq - 0 10,blocks my bishop
+19,d4,d2d4,rn2kbnr/pp3ppp/2p1p3/4P3/3P4/2N2P1B/PP3P1P/R1B1K2R b KQkq - 0 10,"developing - but at this point, I notice that my king was more exposed than I'd like it to be..."
+20,Bb4,f8b4,rn2k1nr/pp3ppp/2p1p3/4P3/1b1P4/2N2P1B/PP3P1P/R1B1K2R w KQkq - 1 11,Black puts a pin on my White king...
+21,O-O,e1g1,rn2k1nr/pp3ppp/2p1p3/4P3/1b1P4/2N2P1B/PP3P1P/R1B2RK1 b kq - 2 11,"so I castle, though my kingside isn't as strong as I'd like it to be"
+22,Nd7,b8d7,r3k1nr/pp1n1ppp/2p1p3/4P3/1b1P4/2N2P1B/PP3P1P/R1B2RK1 w kq - 3 12,"developing, and opening up a possible path for the rook"
+23,a3,a2a3,r3k1nr/pp1n1ppp/2p1p3/4P3/1b1P4/P1N2P1B/1P3P1P/R1B2RK1 b kq - 0 12,chasing the bishop away
+24,Be7,b4e7,r3k1nr/pp1nbppp/2p1p3/4P3/3P4/P1N2P1B/1P3P1P/R1B2RK1 w kq - 1 13,"probably the best move, as the bishop has no good reason to keep the pressure on the a5-b1 diagonal"

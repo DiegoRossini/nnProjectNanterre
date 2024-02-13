@@ -1,0 +1,127 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+3,d5,d4d5,rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+5,c4,c2c4,rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+6,Ne4,f6e4,rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,"The characteristic move of the Vulture. It is meant to constrain white's development, especially of the queen side: if Nc3 happens it will be exchanged at once."
+7,Qc2,d1c2,rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PPQ1PPPP/RNB1KBNR b KQkq - 2 4,The standard answer.
+8,Qa5+,d8a5,rnb1kb1r/pp1ppppp/8/q1pP4/2P1n3/8/PPQ1PPPP/RNB1KBNR w KQkq - 3 5,Also this move is meant to hinder white's development.
+9,Nd2,b1d2,rnb1kb1r/pp1ppppp/8/q1pP4/2P1n3/8/PPQNPPPP/R1B1KBNR b KQkq - 4 5,Or 5.Nc3 Nxc3 6.Bd2... and then 6...Qxa2?! or 6...Qc7. The first alternative is not sound and only suitable for blitz games.
+10,Nd6,e4d6,rnb1kb1r/pp1ppppp/3n4/q1pP4/2P5/8/PPQNPPPP/R1B1KBNR w KQkq - 5 6,The characteristic take-back.
+11,e4,e2e4,rnb1kb1r/pp1ppppp/3n4/q1pP4/2P1P3/8/PPQN1PPP/R1B1KBNR b KQkq - 0 6,"Here we have the first of the two main variants: 6.e4 or 6.b3, accordingly the answering strategies of black differ."
+12,g6,g7g6,rnb1kb1r/pp1ppp1p/3n2p1/q1pP4/2P1P3/8/PPQN1PPP/R1B1KBNR w KQkq - 0 7,"This move is very aggressive. The alternatives are 7.Ngf3, 7.f4, 7.Ne2, 7.b3 and 7.b4"
+13,e5,e4e5,rnb1kb1r/pp1ppp1p/3n2p1/q1pPP3/2P5/8/PPQN1PPP/R1B1KBNR b KQkq - 0 7,"This move is very aggressive. The alternatives are 7.Ngf3, 7.f4, 7.Ne2, 7.b3 and 7.b4"
+14,Nf5,d6f5,rnb1kb1r/pp1ppp1p/6p1/q1pPPn2/2P5/8/PPQN1PPP/R1B1KBNR w KQkq - 1 8,"Or 8.Ngf3, 8.Ne2. The played move forces black to think about his knight."
+15,Bd3,f1d3,rnb1kb1r/pp1ppp1p/6p1/q1pPPn2/2P5/3B4/PPQN1PPP/R1B1K1NR b KQkq - 2 8,"Or 8.Ngf3, 8.Ne2. The played move forces black to think about his knight."
+16,Nd4,f5d4,rnb1kb1r/pp1ppp1p/6p1/q1pPP3/2Pn4/3B4/PPQN1PPP/R1B1K1NR w KQkq - 3 9,Attack is the best defense! This gives the black knight a central position.
+17,Qd1,c2d1,rnb1kb1r/pp1ppp1p/6p1/q1pPP3/2Pn4/3B4/PP1N1PPP/R1BQK1NR b KQkq - 4 9,"?!
+I think 9.Qc3 and pushing the black queen would have been better."
+18,Bg7,f8g7,rnb1k2r/pp1pppbp/6p1/q1pPP3/2Pn4/3B4/PP1N1PPP/R1BQK1NR w KQkq - 5 10,This loses a pawn: 10...Nxf3 11.Qxf3 Bxe5
+19,Ngf3,g1f3,rnb1k2r/pp1pppbp/6p1/q1pPP3/2Pn4/3B1N2/PP1N1PPP/R1BQK2R b KQkq - 6 10,This loses a pawn: 10...Nxf3 11.Qxf3 Bxe5
+20,Nxf3+,d4f3,rnb1k2r/pp1pppbp/6p1/q1pPP3/2P5/3B1n2/PP1N1PPP/R1BQK2R w KQkq - 0 11,"White has achieved a fast kingside development for the sacrifice of a pawn. Now it is black's task to develop himself into a safe position.
+12...0-0 
+A) 13.Nb3 Qc7 14.h3 (14.Re1 Bxh2  15.Kh1 Be5 16.Qe3 d6 17.Qh6 Bg7 18.Qe3 Re8) d6 15.Bd2 b6 and Bb7 
+B) 13.Re1 Qc7 14.Qe3 d6 15.Qh6 Bg7 16.Qe3 Re8"
+21,Qxf3,d1f3,rnb1k2r/pp1pppbp/6p1/q1pPP3/2P5/3B1Q2/PP1N1PPP/R1B1K2R b KQkq - 0 11,"White has achieved a fast kingside development for the sacrifice of a pawn. Now it is black's task to develop himself into a safe position.
+12...0-0 
+A) 13.Nb3 Qc7 14.h3 (14.Re1 Bxh2  15.Kh1 Be5 16.Qe3 d6 17.Qh6 Bg7 18.Qe3 Re8) d6 15.Bd2 b6 and Bb7 
+B) 13.Re1 Qc7 14.Qe3 d6 15.Qh6 Bg7 16.Qe3 Re8"
+22,Bxe5,g7e5,rnb1k2r/pp1ppp1p/6p1/q1pPb3/2P5/3B1Q2/PP1N1PPP/R1B1K2R w KQkq - 0 12,"White has achieved a fast kingside development for the sacrifice of a pawn. Now it is black's task to develop himself into a safe position.
+12...0-0 
+A) 13.Nb3 Qc7 14.h3 (14.Re1 Bxh2  15.Kh1 Be5 16.Qe3 d6 17.Qh6 Bg7 18.Qe3 Re8) d6 15.Bd2 b6 and Bb7 
+B) 13.Re1 Qc7 14.Qe3 d6 15.Qh6 Bg7 16.Qe3 Re8"
+23,O-O,e1g1,rnb1k2r/pp1ppp1p/6p1/q1pPb3/2P5/3B1Q2/PP1N1PPP/R1B2RK1 b kq - 1 12,"White has achieved a fast kingside development for the sacrifice of a pawn. Now it is black's task to develop himself into a safe position.
+12...0-0 
+A) 13.Nb3 Qc7 14.h3 (14.Re1 Bxh2  15.Kh1 Be5 16.Qe3 d6 17.Qh6 Bg7 18.Qe3 Re8) d6 15.Bd2 b6 and Bb7 
+B) 13.Re1 Qc7 14.Qe3 d6 15.Qh6 Bg7 16.Qe3 Re8"
+24,O-O,e8g8,rnb2rk1/pp1ppp1p/6p1/q1pPb3/2P5/3B1Q2/PP1N1PPP/R1B2RK1 w - - 2 13,"Knocking at black castle's backdoor.
+A) 14...Bg7 offering the exchange.
+B) 14...Re8 Note that now two pawns are en rpise: h2 and a2. E.g. 15.h3 Bxa2 16.Rb1 Be5 17.Rfe1 d6 looks the better way, going with the bishop and two extra pawns rather than without them. ;)"
+25,Nb3,d2b3,rnb2rk1/pp1ppp1p/6p1/q1pPb3/2P5/1N1B1Q2/PP3PPP/R1B2RK1 b - - 3 13,"Knocking at black castle's backdoor.
+A) 14...Bg7 offering the exchange.
+B) 14...Re8 Note that now two pawns are en rpise: h2 and a2. E.g. 15.h3 Bxa2 16.Rb1 Be5 17.Rfe1 d6 looks the better way, going with the bishop and two extra pawns rather than without them. ;)"
+26,Qc7,a5c7,rnb2rk1/ppqppp1p/6p1/2pPb3/2P5/1N1B1Q2/PP3PPP/R1B2RK1 w - - 4 14,"Knocking at black castle's backdoor.
+A) 14...Bg7 offering the exchange.
+B) 14...Re8 Note that now two pawns are en rpise: h2 and a2. E.g. 15.h3 Bxa2 16.Rb1 Be5 17.Rfe1 d6 looks the better way, going with the bishop and two extra pawns rather than without them. ;)"
+27,Bh6,c1h6,rnb2rk1/ppqppp1p/6pB/2pPb3/2P5/1N1B1Q2/PP3PPP/R4RK1 b - - 5 14,"Knocking at black castle's backdoor.
+A) 14...Bg7 offering the exchange.
+B) 14...Re8 Note that now two pawns are en rpise: h2 and a2. E.g. 15.h3 Bxa2 16.Rb1 Be5 17.Rfe1 d6 looks the better way, going with the bishop and two extra pawns rather than without them. ;)"
+28,Re8,f8e8,rnb1r1k1/ppqppp1p/6pB/2pPb3/2P5/1N1B1Q2/PP3PPP/R4RK1 w - - 6 15,"And now 15...Bxb2
+A) 16.Rae1 
+A1) 16...Bg7 17.Bg5 d6 // 17.Bf4 d6 // 17.Bxg7 Kxg7 Later: Nd7 aiming for e5.
+A2) 16...Be5 17.Qe3 d6 18.f4 Bg7 or even Bh8."
+29,h4,h2h4,rnb1r1k1/ppqppp1p/6pB/2pPb3/2P4P/1N1B1Q2/PP3PP1/R4RK1 b - - 0 15,"And now 15...Bxb2
+A) 16.Rae1 
+A1) 16...Bg7 17.Bg5 d6 // 17.Bf4 d6 // 17.Bxg7 Kxg7 Later: Nd7 aiming for e5.
+A2) 16...Be5 17.Qe3 d6 18.f4 Bg7 or even Bh8."
+30,Bxb2,e5b2,rnb1r1k1/ppqppp1p/6pB/2pP4/2P4P/1N1B1Q2/Pb3PP1/R4RK1 w - - 0 16,"!?! Wow... let's see how white intends to attack. 16...Bxa1 and then
+A) 17.h5 d6 18.hxg6 hxg6 19.Qg5 Bf6 - 
+B) 17.Rxa1 e5 18.Nxc5 d6 19.Ne4 Qe7 20.Bg5 Qf8 21.Nf6 , no very bad  -
+B1) 17...d6 18.h5 e5 19. Qg5 (19.dxe6 e.p. Rxe6 20.Qg5 Qe7 and most of black's problems are solved; 19.Bg5 Nd7 20.h6 f5 and then?) Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king.
+C) 17.Nxa1 d6 18.f4 Bg4 (18...f5 19.g4 not so good) 19.f5 Qd7 20.fxg6 fxg6 21.Bxg6 hxg6 22.Qc3 e5 23.dxe6 e.p. Bxe6
+or 18.Re1 Nd7 19.f4 Nf6 20.Bg5 Bg4"
+31,Qe3,f3e3,rnb1r1k1/ppqppp1p/6pB/2pP4/2P4P/1N1BQ3/Pb3PP1/R4RK1 b - - 1 16,"!?! Wow... let's see how white intends to attack. 16...Bxa1 and then
+A) 17.h5 d6 18.hxg6 hxg6 19.Qg5 Bf6 - 
+B) 17.Rxa1 e5 18.Nxc5 d6 19.Ne4 Qe7 20.Bg5 Qf8 21.Nf6 , no very bad  -
+B1) 17...d6 18.h5 e5 19. Qg5 (19.dxe6 e.p. Rxe6 20.Qg5 Qe7 and most of black's problems are solved; 19.Bg5 Nd7 20.h6 f5 and then?) Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king.
+C) 17.Nxa1 d6 18.f4 Bg4 (18...f5 19.g4 not so good) 19.f5 Qd7 20.fxg6 fxg6 21.Bxg6 hxg6 22.Qc3 e5 23.dxe6 e.p. Bxe6
+or 18.Re1 Nd7 19.f4 Nf6 20.Bg5 Bg4"
+32,Bxa1,b2a1,rnb1r1k1/ppqppp1p/6pB/2pP4/2P4P/1N1BQ3/P4PP1/b4RK1 w - - 0 17,"OK, 17.Rxa1 is played, let's focus here.
+A) 17...d6 18.h5 e5 19. Qg5 (19.dxe6 e.p. Rxe6 20.Qg5 Qe7 and most of black's problems are solved; 19.Bg5 Nd7 20.h6 f5 and?) Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king."
+33,Rxa1,f1a1,rnb1r1k1/ppqppp1p/6pB/2pP4/2P4P/1N1BQ3/P4PP1/R5K1 b - - 0 17,"OK, 17.Rxa1 is played, let's focus here.
+A) 17...d6 18.h5 e5 19. Qg5 (19.dxe6 e.p. Rxe6 20.Qg5 Qe7 and most of black's problems are solved; 19.Bg5 Nd7 20.h6 f5 and?) Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king."
+34,d6,d7d6,rnb1r1k1/ppq1pp1p/3p2pB/2pP4/2P4P/1N1BQ3/P4PP1/R5K1 w - - 0 18,"It's going along the line. What did we have?
+18...e5 I still think this is the best defensive move in order to activate the queenside.
+A) 19. Qg5 Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king.
+B) 19.dxe6 e.p. Rxe6 (or Bxe6, prevents Bf5 later)
+B1) 20.Qg5 Qe7 and most of black's problems are solved
+B2) 20.Qg3 Kh8 21.hg fg 22.f3 b6 (to protect c5)
+C) 19.Bg5 Nd7 20.h6 f5 and?"
+35,h5,h4h5,rnb1r1k1/ppq1pp1p/3p2pB/2pP3P/2P5/1N1BQ3/P4PP1/R5K1 b - - 0 18,"It's going along the line. What did we have?
+18...e5 I still think this is the best defensive move in order to activate the queenside.
+A) 19. Qg5 Qe7 20.Qg3 e4 21.Be2 Bf5 and slowly black develoops his pieces building a fortress around his king.
+B) 19.dxe6 e.p. Rxe6 (or Bxe6, prevents Bf5 later)
+B1) 20.Qg5 Qe7 and most of black's problems are solved
+B2) 20.Qg3 Kh8 21.hg fg 22.f3 b6 (to protect c5)
+C) 19.Bg5 Nd7 20.h6 f5 and?"
+36,e5,e7e5,rnb1r1k1/ppq2p1p/3p2pB/2pPp2P/2P5/1N1BQ3/P4PP1/R5K1 w - e6 0 19,"A) 21.Qg5 Qe7
+B) 21.f4 Bd7 22.fe Rxe5
+C) 21.a3 Bd7 22.Qg5 Qd8"
+37,hxg6,h5g6,rnb1r1k1/ppq2p1p/3p2PB/2pPp3/2P5/1N1BQ3/P4PP1/R5K1 b - - 0 19,"A) 21.Qg5 Qe7
+B) 21.f4 Bd7 22.fe Rxe5
+C) 21.a3 Bd7 22.Qg5 Qd8"
+38,fxg6,f7g6,rnb1r1k1/ppq4p/3p2pB/2pPp3/2P5/1N1BQ3/P4PP1/R5K1 w - - 0 20,"A) 21.Qg5 Qe7
+B) 21.f4 Bd7 22.fe Rxe5
+C) 21.a3 Bd7 22.Qg5 Qd8"
+39,Re1,a1e1,rnb1r1k1/ppq4p/3p2pB/2pPp3/2P5/1N1BQ3/P4PP1/4R1K1 b - - 1 20,"A) 21.Qg5 Qe7
+B) 21.f4 Bd7 22.fe Rxe5
+C) 21.a3 Bd7 22.Qg5 Qd8"
+40,Na6,b8a6,r1b1r1k1/ppq4p/n2p2pB/2pPp3/2P5/1N1BQ3/P4PP1/4R1K1 w - - 2 21,"A) 21.Qg5 Qe7
+B) 21.f4 Bd7 22.fe Rxe5
+C) 21.a3 Bd7 22.Qg5 Qd8"
+41,Qg5,e3g5,r1b1r1k1/ppq4p/n2p2pB/2pPp1Q1/2P5/1N1B4/P4PP1/4R1K1 b - - 3 21,"?
+The strategic line is Nb4 -> Qf7 -> Nxd5 -> Qxd5, giving back some material and establishing three free pawns. 
+23.f4 Nxd3 24.Qxd3 Qf6 25.Bg5 Bf5 26.Bxf6 Bxd3 27.fe de 28.Bxe5/Rxe5 - 
+...but, alas, as we will see g6 needed protection!"
+42,Qe7,c7e7,r1b1r1k1/pp2q2p/n2p2pB/2pPp1Q1/2P5/1N1B4/P4PP1/4R1K1 w - - 4 22,"?
+The strategic line is Nb4 -> Qf7 -> Nxd5 -> Qxd5, giving back some material and establishing three free pawns. 
+23.f4 Nxd3 24.Qxd3 Qf6 25.Bg5 Bf5 26.Bxf6 Bxd3 27.fe de 28.Bxe5/Rxe5 - 
+...but, alas, as we will see g6 needed protection!"
+43,Qg3,g5g3,r1b1r1k1/pp2q2p/n2p2pB/2pPp3/2P5/1N1B2Q1/P4PP1/4R1K1 b - - 5 22,"?
+The strategic line is Nb4 -> Qf7 -> Nxd5 -> Qxd5, giving back some material and establishing three free pawns. 
+23.f4 Nxd3 24.Qxd3 Qf6 25.Bg5 Bf5 26.Bxf6 Bxd3 27.fe de 28.Bxe5/Rxe5 - 
+...but, alas, as we will see g6 needed protection!"
+44,Nb4,a6b4,r1b1r1k1/pp2q2p/3p2pB/2pPp3/1nP5/1N1B2Q1/P4PP1/4R1K1 w - - 6 23,"?
+The strategic line is Nb4 -> Qf7 -> Nxd5 -> Qxd5, giving back some material and establishing three free pawns. 
+23.f4 Nxd3 24.Qxd3 Qf6 25.Bg5 Bf5 26.Bxf6 Bxd3 27.fe de 28.Bxe5/Rxe5 - 
+...but, alas, as we will see g6 needed protection!"
+45,Bxg6,d3g6,r1b1r1k1/pp2q2p/3p2BB/2pPp3/1nP5/1N4Q1/P4PP1/4R1K1 b - - 0 23,"Wow! Now it is going!
+A) 23....hg 24.Qxg6  Kh8
+A1) 25.Bg5 Rg8 
+A11) 26.Qh6  Qh7 27.Bf6  Rg7 28.Bxg7  Kg8 29.Qxh7  Kxh7 30.Bf8  =
+A12) 26.Bf6  Rg7 27.Qh6  Kg8 28.Bxe7 Rxe7 29.Qxd6  -
+B) 23...Kh8 24.Bxf8 Qxf8 25.Qg7#
+C) 23...Rf8 
+C1) 24.Bxf8 Qxf8 25.and??
+C2) 24.Bf7   Kh8 25.Qg7#"

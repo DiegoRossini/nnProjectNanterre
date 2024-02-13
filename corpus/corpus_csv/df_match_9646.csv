@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,NORMAL opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"pointless, unless you want to go b4"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"pointless, unless you want to go b4"
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"pointless, unless you want to go b4"
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"pointless, unless you want to go b4"
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"pointless, unless you want to go b4"
+7,a3,a2a3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/P4N2/1PPP1PPP/RNBQK2R b KQkq - 0 4,"pointless, unless you want to go b4"
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/P4N2/1PPP1PPP/RNBQK2R w KQkq - 1 5,"dangerous, e4 pawn hanging"
+9,b4,b2b4,r1bqk2r/pppp1ppp/2n2n2/2b1p3/1PB1P3/P4N2/2PP1PPP/RNBQK2R b KQkq - 0 5,"dangerous, e4 pawn hanging"
+10,Bb6,c5b6,r1bqk2r/pppp1ppp/1bn2n2/4p3/1PB1P3/P4N2/2PP1PPP/RNBQK2R w KQkq - 1 6,aggressive and defensive
+11,Ng5,f3g5,r1bqk2r/pppp1ppp/1bn2n2/4p1N1/1PB1P3/P7/2PP1PPP/RNBQK2R b KQkq - 2 6,aggressive and defensive
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/1bn2n2/4p1N1/1PB1P3/P7/2PP1PPP/RNBQK2R w KQ - 3 7,castle
+13,h4,h2h4,r1bq1rk1/pppp1ppp/1bn2n2/4p1N1/1PB1P2P/P7/2PP1PP1/RNBQK2R b KQ - 0 7,protects
+14,d6,d7d6,r1bq1rk1/ppp2ppp/1bnp1n2/4p1N1/1PB1P2P/P7/2PP1PP1/RNBQK2R w KQ - 0 8,a very weak pawn at this pont
+15,h5,h4h5,r1bq1rk1/ppp2ppp/1bnp1n2/4p1NP/1PB1P3/P7/2PP1PP1/RNBQK2R b KQ - 0 8,a very weak pawn at this pont
+16,Bg4,c8g4,r2q1rk1/ppp2ppp/1bnp1n2/4p1NP/1PB1P1b1/P7/2PP1PP1/RNBQK2R w KQ - 1 9,now white should play Be2
+17,f3,f2f3,r2q1rk1/ppp2ppp/1bnp1n2/4p1NP/1PB1P1b1/P4P2/2PP2P1/RNBQK2R b KQ - 0 9,Oops!
+18,Bxh5,g4h5,r2q1rk1/ppp2ppp/1bnp1n2/4p1Nb/1PB1P3/P4P2/2PP2P1/RNBQK2R w KQ - 0 10,wins pawn
+19,g4,g2g4,r2q1rk1/ppp2ppp/1bnp1n2/4p1Nb/1PB1P1P1/P4P2/2PP4/RNBQK2R b KQ - 0 10,trades
+20,Bg6,h5g6,r2q1rk1/ppp2ppp/1bnp1nb1/4p1N1/1PB1P1P1/P4P2/2PP4/RNBQK2R w KQ - 1 11,trades
+21,Bb2,c1b2,r2q1rk1/ppp2ppp/1bnp1nb1/4p1N1/1PB1P1P1/P4P2/1BPP4/RN1QK2R b KQ - 2 11,trades
+22,h6,h7h6,r2q1rk1/ppp2pp1/1bnp1nbp/4p1N1/1PB1P1P1/P4P2/1BPP4/RN1QK2R w KQ - 0 12,trades
+23,Nh3,g5h3,r2q1rk1/ppp2pp1/1bnp1nbp/4p3/1PB1P1P1/P4P1N/1BPP4/RN1QK2R b KQ - 1 12,trades
+24,Qd7,d8d7,r4rk1/pppq1pp1/1bnp1nbp/4p3/1PB1P1P1/P4P1N/1BPP4/RN1QK2R w KQ - 2 13,trades
+25,g5,g4g5,r4rk1/pppq1pp1/1bnp1nbp/4p1P1/1PB1P3/P4P1N/1BPP4/RN1QK2R b KQ - 0 13,trades
+26,Nh7,f6h7,r4rk1/pppq1ppn/1bnp2bp/4p1P1/1PB1P3/P4P1N/1BPP4/RN1QK2R w KQ - 1 14,trades
+27,f4,f3f4,r4rk1/pppq1ppn/1bnp2bp/4p1P1/1PB1PP2/P6N/1BPP4/RN1QK2R b KQ - 0 14,trades
+28,exf4,e5f4,r4rk1/pppq1ppn/1bnp2bp/6P1/1PB1Pp2/P6N/1BPP4/RN1QK2R w KQ - 0 15,trades
+29,Nxf4,h3f4,r4rk1/pppq1ppn/1bnp2bp/6P1/1PB1PN2/P7/1BPP4/RN1QK2R b KQ - 0 15,wins pawn
+30,Nxg5,h7g5,r4rk1/pppq1pp1/1bnp2bp/6n1/1PB1PN2/P7/1BPP4/RN1QK2R w KQ - 0 16,wins pawn
+31,Nd5,f4d5,r4rk1/pppq1pp1/1bnp2bp/3N2n1/1PB1P3/P7/1BPP4/RN1QK2R b KQ - 1 16,wins another pawn
+32,Bxe4,g6e4,r4rk1/pppq1pp1/1bnp3p/3N2n1/1PB1b3/P7/1BPP4/RN1QK2R w KQ - 0 17,wins another pawn
+33,Nf4,d5f4,r4rk1/pppq1pp1/1bnp3p/6n1/1PB1bN2/P7/1BPP4/RN1QK2R b KQ - 1 17,takes rook
+34,Bxh1,e4h1,r4rk1/pppq1pp1/1bnp3p/6n1/1PB2N2/P7/1BPP4/RN1QK2b w Q - 0 18,takes rook
+35,Bxg7,b2g7,r4rk1/pppq1pB1/1bnp3p/6n1/1PB2N2/P7/2PP4/RN1QK2b b Q - 0 18,strange
+36,Kxg7,g8g7,r4r2/pppq1pk1/1bnp3p/6n1/1PB2N2/P7/2PP4/RN1QK2b w Q - 0 19,takes
+37,Nh5+,f4h5,r4r2/pppq1pk1/1bnp3p/6nN/1PB5/P7/2PP4/RN1QK2b b Q - 1 19,check
+38,Kh8,g7h8,r4r1k/pppq1p2/1bnp3p/6nN/1PB5/P7/2PP4/RN1QK2b w Q - 2 20,check
+39,c3,c2c3,r4r1k/pppq1p2/1bnp3p/6nN/1PB5/P1P5/3P4/RN1QK2b b Q - 0 20,check
+40,Nf3+,g5f3,r4r1k/pppq1p2/1bnp3p/7N/1PB5/P1P2n2/3P4/RN1QK2b w Q - 1 21,check

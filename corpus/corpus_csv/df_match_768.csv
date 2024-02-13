@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So I start conventionally.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,He prevents 2. e4
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,So I carry on with the most common reply.
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Dewi comes out with the Budapest Defense. https://en.wikipedia.org/wiki/Budapest_Gambit
+5,dxe5,d4e5,rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,So I take.
+6,Ng4,f6g4,rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4,"Black can try the Fajarowicz variation 3...Ne4 which concentrates on the rapid development of the pieces, but it is virtually refuted by 4. a3! If white now tries to hang onto the pawn, he usually fails, or gets a compromised position."
+7,e4,e2e4,rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq - 0 4,"So I play this, opening up a discovered attack with my queen, on the Ng4. Now Nxe5 is met with 5. f4 and white has a space advantage."
+8,h5,h7h5,rnbqkb1r/pppp1pp1/8/4P2p/2P1P1n1/8/PP3PPP/RNBQKBNR w KQkq - 0 5,"But Dewi plays another move. Already I am thinking for myself. After the game, it struck me that maybe white should just play 5. h3 here, and we reach the same position as after 4. e4 Nxe5 but with black having played h5 and white having played h3. I suspect that h3 is more use to white than h5 is to black, and white should have an advantage in that variation. Surprisingly I can't see this on either of the Gameknot opening databases."
+9,Be2,f1e2,rnbqkb1r/pppp1pp1/8/4P2p/2P1P1n1/8/PP2BPPP/RNBQK1NR b KQkq - 1 5,"But I played this, attacking the Ng4 again."
+10,Nc6,b8c6,r1bqkb1r/pppp1pp1/2n5/4P2p/2P1P1n1/8/PP2BPPP/RNBQK1NR w KQkq - 2 6,"But he just ignores it. If I now capture twice on g4, he has d6 uncovering an attack on my queen, followed by taking on e5. Black is a pawn down, but with some compensation, in the form to two bishops, better development and some open lines. So I chose another move."
+11,Nf3,g1f3,r1bqkb1r/pppp1pp1/2n5/4P2p/2P1P1n1/5N2/PP2BPPP/RNBQK2R b KQkq - 3 6,I put my faith in development again.
+12,Bb4+,f8b4,r1bqk2r/pppp1pp1/2n5/4P2p/1bP1P1n1/5N2/PP2BPPP/RNBQK2R w KQkq - 4 7,"This pesky check helps his development. Now I thought that he was getting back his pawn, but I may be able to get the two bishops by blocking with my Nb1. I also considered by Bc1 to be my better bishop, worth hanging on to."
+13,Nbd2,b1d2,r1bqk2r/pppp1pp1/2n5/4P2p/1bP1P1n1/5N2/PP1NBPPP/R1BQK2R b KQkq - 5 7,So I blocked this way.
+14,Ncxe5,c6e5,r1bqk2r/pppp1pp1/8/4n2p/1bP1P1n1/5N2/PP1NBPPP/R1BQK2R w KQkq - 0 8,He took.
+15,Nxe5,f3e5,r1bqk2r/pppp1pp1/8/4N2p/1bP1P1n1/8/PP1NBPPP/R1BQK2R b KQkq - 0 8,I took.
+16,Nxe5,g4e5,r1bqk2r/pppp1pp1/8/4n2p/1bP1P3/8/PP1NBPPP/R1BQK2R w KQkq - 0 9,He took back.
+17,O-O,e1g1,r1bqk2r/pppp1pp1/8/4n2p/1bP1P3/8/PP1NBPPP/R1BQ1RK1 b kq - 1 9,"I castled, preparing f2-f4"
+18,Qh4,d8h4,r1b1k2r/pppp1pp1/8/4n2p/1bP1P2q/8/PP1NBPPP/R1BQ1RK1 w kq - 2 10,This surprised me. He is now threatening to exchange on d2 and then capture on e4.
+19,Qc2,d1c2,r1b1k2r/pppp1pp1/8/4n2p/1bP1P2q/8/PPQNBPPP/R1B2RK1 b kq - 3 10,So I protect e4.
+20,Bd6,b4d6,r1b1k2r/pppp1pp1/3b4/4n2p/2P1P2q/8/PPQNBPPP/R1B2RK1 w kq - 4 11,"This was another surprise. After the game we looked at lines like 11. c5	Ng4 12. Nf3	Bxh2+ 13. Kh1 Nxf2+ 14. Rxf2 Qxf2 15. Kxh2 and although black has a narrow material advantage - rook and two pawns for bishop and knight - black has lost all his attacking pieces except his queen, which can be harassed. The initiative has passed to white. Unfortunately instead I made a dreadful error."

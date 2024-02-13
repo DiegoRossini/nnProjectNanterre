@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,preping the gambit
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,kinda slow answer but also not allowing the full gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,still going as usaul
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,hmm now this is deifferent.
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,well lets see where this goes.
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/4p3/8/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,making me move the knight again which i assumed he would do
+7,Ne5,f3e5,rnbqkbnr/ppp2ppp/4p3/4N3/4pP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 4,"odd way to bring him out, onto the rim"
+8,Nh6,g8h6,rnbqkb1r/ppp2ppp/4p2n/4N3/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 5,"odd way to bring him out, onto the rim"
+9,Nc3,b1c3,rnbqkb1r/ppp2ppp/4p2n/4N3/4pP2/2N5/PPPP2PP/R1BQKB1R b KQkq - 3 5,continue development and attack  e4
+10,f5,f7f5,rnbqkb1r/ppp3pp/4p2n/4Np2/4pP2/2N5/PPPP2PP/R1BQKB1R w KQkq - 0 6,defends
+11,b3,b2b3,rnbqkb1r/ppp3pp/4p2n/4Np2/4pP2/1PN5/P1PP2PP/R1BQKB1R b KQkq - 0 6,inteneding to finochetto
+12,Bc5,f8c5,rnbqk2r/ppp3pp/4p2n/2b1Np2/4pP2/1PN5/P1PP2PP/R1BQKB1R w KQkq - 1 7,i wanted both bishops to point the same way
+13,Bc4,f1c4,rnbqk2r/ppp3pp/4p2n/2b1Np2/2B1pP2/1PN5/P1PP2PP/R1BQK2R b KQkq - 2 7,i wanted both bishops to point the same way
+14,O-O,e8g8,rnbq1rk1/ppp3pp/4p2n/2b1Np2/2B1pP2/1PN5/P1PP2PP/R1BQK2R w KQ - 3 8,"nice mate threat, but its kinda obvious"
+15,Bb2,c1b2,rnbq1rk1/ppp3pp/4p2n/2b1Np2/2B1pP2/1PN5/PBPP2PP/R2QK2R b KQ - 4 8,"nice mate threat, but its kinda obvious"
+16,Qd4,d8d4,rnb2rk1/ppp3pp/4p2n/2b1Np2/2BqpP2/1PN5/PBPP2PP/R2QK2R w KQ - 5 9,"nice mate threat, but its kinda obvious"
+17,Rf1,h1f1,rnb2rk1/ppp3pp/4p2n/2b1Np2/2BqpP2/1PN5/PBPP2PP/R2QKR2 b Q - 6 9,hmm this pawn will be a thorn
+18,e3,e4e3,rnb2rk1/ppp3pp/4p2n/2b1Np2/2Bq1P2/1PN1p3/PBPP2PP/R2QKR2 w Q - 0 10,hmm this pawn will be a thorn
+19,d3,d2d3,rnb2rk1/ppp3pp/4p2n/2b1Np2/2Bq1P2/1PNPp3/PBP3PP/R2QKR2 b Q - 0 10,this way i can hang it
+20,a6,a7a6,rnb2rk1/1pp3pp/p3p2n/2b1Np2/2Bq1P2/1PNPp3/PBP3PP/R2QKR2 w Q - 0 11,breaking out of confinement by double attacking the queen and bishop
+21,Na4,c3a4,rnb2rk1/1pp3pp/p3p2n/2b1Np2/N1Bq1P2/1P1Pp3/PBP3PP/R2QKR2 b Q - 1 11,breaking out of confinement by double attacking the queen and bishop
+22,Qd6,d4d6,rnb2rk1/1pp3pp/p2qp2n/2b1Np2/N1B2P2/1P1Pp3/PBP3PP/R2QKR2 w Q - 2 12,ill trade these away
+23,Nxc5,a4c5,rnb2rk1/1pp3pp/p2qp2n/2N1Np2/2B2P2/1P1Pp3/PBP3PP/R2QKR2 b Q - 0 12,ill trade these away
+24,Qxc5,d6c5,rnb2rk1/1pp3pp/p3p2n/2q1Np2/2B2P2/1P1Pp3/PBP3PP/R2QKR2 w Q - 0 13,no surprise.
+25,d4,d3d4,rnb2rk1/1pp3pp/p3p2n/2q1Np2/2BP1P2/1P2p3/PBP3PP/R2QKR2 b Q - 0 13,no surprise.
+26,Qa5+,c5a5,rnb2rk1/1pp3pp/p3p2n/q3Np2/2BP1P2/1P2p3/PBP3PP/R2QKR2 w Q - 1 14,no surprise.
+27,c3,c2c3,rnb2rk1/1pp3pp/p3p2n/q3Np2/2BP1P2/1PP1p3/PB4PP/R2QKR2 b Q - 0 14,"my poor bishop i finochettoed it and now its blocked, ill think of something"
+28,b5,b7b5,rnb2rk1/2p3pp/p3p2n/qp2Np2/2BP1P2/1PP1p3/PB4PP/R2QKR2 w Q - 0 15,nice but i want to keep this angle
+29,b4,b3b4,rnb2rk1/2p3pp/p3p2n/qp2Np2/1PBP1P2/2P1p3/PB4PP/R2QKR2 b Q - 0 15,forceing the queen out

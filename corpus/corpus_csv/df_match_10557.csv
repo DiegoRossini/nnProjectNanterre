@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King Pawn Opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Petrov.  Not my favorite of openings.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Petrov.  Not my favorite of openings.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Petrov.  Not my favorite of openings.
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"Petrov, French Attack."
+6,Nxe4,f6e4,rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"Petrov, Damiano variation.
+
+I've always heard, and been of the opinion myself, that Nxe4 is a mistake here.  d6 is more mainline"
+7,Qe2,d1e2,rnbqkb1r/pppp1ppp/8/4N3/4n3/8/PPPPQPPP/RNB1KB1R b KQkq - 1 4,So the knight at e4 must be protected in fear of Nc6
+8,d5,d7d5,rnbqkb1r/ppp2ppp/8/3pN3/4n3/8/PPPPQPPP/RNB1KB1R w KQkq - 0 5,"this is why I don't like 3. ... Nxe4.  Now in order to equalize, black must take my knight in response to me taking his.  Moving the knight is still invalid due to Nf6"
+9,d3,d2d3,rnbqkb1r/ppp2ppp/8/3pN3/4n3/3P4/PPP1QPPP/RNB1KB1R b KQkq - 0 5,"this is why I don't like 3. ... Nxe4.  Now in order to equalize, black must take my knight in response to me taking his.  Moving the knight is still invalid due to Nf6"
+10,Bd6,f8d6,rnbqk2r/ppp2ppp/3b4/3pN3/4n3/3P4/PPP1QPPP/RNB1KB1R w KQkq - 1 6,Black offers trading the knights.
+11,Nxf7,e5f7,rnbqk2r/ppp2Npp/3b4/3p4/4n3/3P4/PPP1QPPP/RNB1KB1R b KQkq - 0 6,"I decide to accept the trading of knights on my terms.  Grab the pawn, force him to use 3 moves too castle (really two as one is the knight capture."
+12,Kxf7,e8f7,rnbq3r/ppp2kpp/3b4/3p4/4n3/3P4/PPP1QPPP/RNB1KB1R w KQ - 0 7,Pinning the pawn.  Expected.
+13,dxe4,d3e4,rnbq3r/ppp2kpp/3b4/3p4/4P3/8/PPP1QPPP/RNB1KB1R b KQ - 0 7,Pinning the pawn.  Expected.
+14,Re8,h8e8,rnbqr3/ppp2kpp/3b4/3p4/4P3/8/PPP1QPPP/RNB1KB1R w KQ - 1 8,Pinning the pawn.  Expected.
+15,Qf3+,e2f3,rnbqr3/ppp2kpp/3b4/3p4/4P3/5Q2/PPP2PPP/RNB1KB1R b KQ - 2 8,"Protecting the pawn.  Also, allows for short castle."
+16,Kg8,f7g8,rnbqr1k1/ppp3pp/3b4/3p4/4P3/5Q2/PPP2PPP/RNB1KB1R w KQ - 3 9,"Protecting the pawn.  Also, allows for short castle."
+17,Bd3,f1d3,rnbqr1k1/ppp3pp/3b4/3p4/4P3/3B1Q2/PPP2PPP/RNB1K2R b KQ - 4 9,"Protecting the pawn.  Also, allows for short castle."
+18,Rf8,e8f8,rnbq1rk1/ppp3pp/3b4/3p4/4P3/3B1Q2/PPP2PPP/RNB1K2R w KQ - 5 10,"Was tempted to do Qe3, but this puts more pressure on the king's castled position."
+19,Qh5,f3h5,rnbq1rk1/ppp3pp/3b4/3p3Q/4P3/3B4/PPP2PPP/RNB1K2R b KQ - 6 10,"Was tempted to do Qe3, but this puts more pressure on the king's castled position."
+20,Qf6,d8f6,rnb2rk1/ppp3pp/3b1q2/3p3Q/4P3/3B4/PPP2PPP/RNB1K2R w KQ - 7 11,Only real move here.
+21,O-O,e1g1,rnb2rk1/ppp3pp/3b1q2/3p3Q/4P3/3B4/PPP2PPP/RNB2RK1 b - - 8 11,Only real move here.
+22,g6,g7g6,rnb2rk1/ppp4p/3b1qp1/3p3Q/4P3/3B4/PPP2PPP/RNB2RK1 w - - 0 12,Only real move here.
+23,Qh6,h5h6,rnb2rk1/ppp4p/3b1qpQ/3p4/4P3/3B4/PPP2PPP/RNB2RK1 b - - 1 12,Only real move here.
+24,Rf7,f8f7,rnb3k1/ppp2r1p/3b1qpQ/3p4/4P3/3B4/PPP2PPP/RNB2RK1 w - - 2 13,"So, now to trade queens or not too.  Again, if I control the moment of exchange, I can use it to my advantage."
+25,Bg5,c1g5,rnb3k1/ppp2r1p/3b1qpQ/3p2B1/4P3/3B4/PPP2PPP/RN3RK1 b - - 3 13,"So, now to trade queens or not too.  Again, if I control the moment of exchange, I can use it to my advantage."
+26,Bf8,d6f8,rnb2bk1/ppp2r1p/5qpQ/3p2B1/4P3/3B4/PPP2PPP/RN3RK1 w - - 4 14,"So, now to trade queens or not too.  Again, if I control the moment of exchange, I can use it to my advantage."
+27,Bxf6,g5f6,rnb2bk1/ppp2r1p/5BpQ/3p4/4P3/3B4/PPP2PPP/RN3RK1 b - - 0 14,Now my bishop is locked into a very nasty space for black.
+28,Bxh6,f8h6,rnb3k1/ppp2r1p/5Bpb/3p4/4P3/3B4/PPP2PPP/RN3RK1 w - - 0 15,Now my bishop is locked into a very nasty space for black.
+29,e5,e4e5,rnb3k1/ppp2r1p/5Bpb/3pP3/8/3B4/PPP2PPP/RN3RK1 b - - 0 15,Now my bishop is locked into a very nasty space for black.
+30,Nc6,b8c6,r1b3k1/ppp2r1p/2n2Bpb/3pP3/8/3B4/PPP2PPP/RN3RK1 w - - 1 16,Spending a temp to prevent Nb4
+31,Nc3,b1c3,r1b3k1/ppp2r1p/2n2Bpb/3pP3/8/2NB4/PPP2PPP/R4RK1 b - - 2 16,Spending a temp to prevent Nb4
+32,Be6,c8e6,r5k1/ppp2r1p/2n1bBpb/3pP3/8/2NB4/PPP2PPP/R4RK1 w - - 3 17,Spending a temp to prevent Nb4
+33,a3,a2a3,r5k1/ppp2r1p/2n1bBpb/3pP3/8/P1NB4/1PP2PPP/R4RK1 b - - 0 17,Spending a temp to prevent Nb4
+34,Nd4,c6d4,r5k1/ppp2r1p/4bBpb/3pP3/3n4/P1NB4/1PP2PPP/R4RK1 w - - 1 18,Offering a knight trade.
+35,Nb5,c3b5,r5k1/ppp2r1p/4bBpb/1N1pP3/3n4/P2B4/1PP2PPP/R4RK1 b - - 2 18,Offering a knight trade.
+36,Nc6,d4c6,r5k1/ppp2r1p/2n1bBpb/1N1pP3/8/P2B4/1PP2PPP/R4RK1 w - - 3 19,?  Why move to Nd4 then waste it by moving back Nc6?
+37,c3,c2c3,r5k1/ppp2r1p/2n1bBpb/1N1pP3/8/P1PB4/1P3PPP/R4RK1 b - - 0 19,Setting up a post for my knight on d4
+38,a6,a7a6,r5k1/1pp2r1p/p1n1bBpb/1N1pP3/8/P1PB4/1P3PPP/R4RK1 w - - 0 20,"Now the knight trade is force, for if he doesn't take then I will take his or take the bishop on e6."
+39,Nd4,b5d4,r5k1/1pp2r1p/p1n1bBpb/3pP3/3N4/P1PB4/1P3PPP/R4RK1 b - - 1 20,"Now the knight trade is force, for if he doesn't take then I will take his or take the bishop on e6."
+40,Nxd4,c6d4,r5k1/1pp2r1p/p3bBpb/3pP3/3n4/P1PB4/1P3PPP/R4RK1 w - - 0 21,"So, looking at things now.  I have a passed pawn on e5, very aggressively placed bishop on f6, solid castle position, and a pawn up.  Need to keep building the pressure."
+41,cxd4,c3d4,r5k1/1pp2r1p/p3bBpb/3pP3/3P4/P2B4/1P3PPP/R4RK1 b - - 0 21,"So, looking at things now.  I have a passed pawn on e5, very aggressively placed bishop on f6, solid castle position, and a pawn up.  Need to keep building the pressure."

@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The King's gambit
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The King's gambit
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,The King's gambit
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,The Falkbeer counter-gambit
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,White continues the attack on f7.
+6,exf4,e5f4,rnbqkbnr/ppp2ppp/8/3P4/5p2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4,White continues the attack on f7.
+7,Nf3,g1f3,rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 4,White continues the attack on f7.
+8,Qxd5,d8d5,rnb1kbnr/ppp2ppp/8/3q4/5p2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 5,White continues the attack on f7.
+9,Nc3,b1c3,rnb1kbnr/ppp2ppp/8/3q4/5p2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 5,White continues the attack on f7.
+10,Qh5,d5h5,rnb1kbnr/ppp2ppp/8/7q/5p2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 2 6,White continues the attack on f7.
+11,Bc4,f1c4,rnb1kbnr/ppp2ppp/8/7q/2B2p2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 6,White continues the attack on f7.
+12,Bg4,c8g4,rn2kbnr/ppp2ppp/8/7q/2B2pb1/2N2N2/PPPP2PP/R1BQK2R w KQkq - 4 7,"A strong apparent threat but one without real teeth. Black's main threat seems to be a willingness to exchange Qs and pieces to disrupt White's pawn protection. Not a bad idea, perhaps, but too early. Developing a N may have been a better choice."
+13,O-O,e1g1,rn2kbnr/ppp2ppp/8/7q/2B2pb1/2N2N2/PPPP2PP/R1BQ1RK1 b kq - 5 7,"Getting the K to safety and bolstering the N at f3. It is pinned, but not easily attacked."
+14,Nc6,b8c6,r3kbnr/ppp2ppp/2n5/7q/2B2pb1/2N2N2/PPPP2PP/R1BQ1RK1 w kq - 6 8,Risking the marginally supported d pawn in order to prevent the checking move Bc5  by Black. D4 also forces Black to pay attention to his now threatened f4 pawn.
+15,d4,d2d4,r3kbnr/ppp2ppp/2n5/7q/2BP1pb1/2N2N2/PPP3PP/R1BQ1RK1 b kq - 0 8,Risking the marginally supported d pawn in order to prevent the checking move Bc5  by Black. D4 also forces Black to pay attention to his now threatened f4 pawn.
+16,O-O-O,e8c8,2kr1bnr/ppp2ppp/2n5/7q/2BP1pb1/2N2N2/PPP3PP/R1BQ1RK1 w - - 1 9,Black gets his K to safety while putting pressure on the d4 pawn.
+17,Ne2,c3e2,2kr1bnr/ppp2ppp/2n5/7q/2BP1pb1/5N2/PPP1N1PP/R1BQ1RK1 b - - 2 9,Reinforcing d4 while doubling the attack on f4.
+18,g5,g7g5,2kr1bnr/ppp2p1p/2n5/6pq/2BP1pb1/5N2/PPP1N1PP/R1BQ1RK1 w - - 0 10,"A defense of f4, but Black hems in his Q and lags in development. Better was 9... Bd6 which protects the pawn as well as develops the B. Black is lagging a bit in development here. Another possible move here was 9... Qf5 which prevents trapping the Q while abandoning the pointless attack on the well defended f3 N and aligns Black's Q and B on the perhaps more favorable h3-c8 diagonal."
+19,c3,c2c3,2kr1bnr/ppp2p1p/2n5/6pq/2BP1pb1/2P2N2/PP2N1PP/R1BQ1RK1 b - - 0 10,Bolstering d4 again and protecting the center.
+20,Nf6,g8f6,2kr1b1r/ppp2p1p/2n2n2/6pq/2BP1pb1/2P2N2/PP2N1PP/R1BQ1RK1 w - - 1 11,"Black develops the N and gets control of e4, challenging the center."
+21,Qb3,d1b3,2kr1b1r/ppp2p1p/2n2n2/6pq/2BP1pb1/1QP2N2/PP2N1PP/R1B2RK1 b - - 2 11,White continues to focus on f7 although the Black K has moved well away.
+22,Rd7,d8d7,2k2b1r/pppr1p1p/2n2n2/6pq/2BP1pb1/1QP2N2/PP2N1PP/R1B2RK1 w - - 3 12,"Reinforces f7 but puts the R and K on a unfavorable diagonal, inviting a pin or attack after the removal of the f7 pawn."
+23,Ne5,f3e5,2k2b1r/pppr1p1p/2n2n2/4N1pq/2BP1pb1/1QP5/PP2N1PP/R1B2RK1 b - - 4 12,"A key move. White abandons the e2 N to a double attack but threatens Black's R. After 12...BxN, 13. BxB QxB 14. NxR NxN, 15. Qxf7 Black has good position and a pawn. But black should perhaps analyze lines other than 13. BxB."
+24,Bxe2,g4e2,2k2b1r/pppr1p1p/2n2n2/4N1pq/2BP1p2/1QP5/PP2b1PP/R1B2RK1 w - - 0 13,Proceeding as foreseen...
+25,Bxf7,c4f7,2k2b1r/pppr1B1p/2n2n2/4N1pq/3P1p2/1QP5/PP2b1PP/R1B2RK1 b - - 0 13,"! White has plans other than BxB with an unfavorable end result for his game. Black must carefully ponder his next move. Not 13... BxR?? with the immediate loss of the Q, of course. Also not 13...QxB?? after which White exchanges his B, R, and N for Black's Q, R, and B leaving him up by 3 pts with Black in a precarious position as regards his f6 N and remaining B. Now is when Black sees the full disadvantage of his hemmed in Q."
+26,Rxf7,d7f7,2k2b1r/ppp2r1p/2n2n2/4N1pq/3P1p2/1QP5/PP2b1PP/R1B2RK1 w - - 0 14,Black moves ahead materially and threatens a devastating attack should White seek to equalize. After 14. NxR BxR Black returns most of the material for a devastating attack via 15 Qe2!! with mate to follow.
+27,Nxf7,e5f7,2k2b1r/ppp2N1p/2n2n2/6pq/3P1p2/1QP5/PP2b1PP/R1B2RK1 b - - 0 14,Putting the plan into execution. Black threatens Qe2 with mate next move.
+28,Bxf1,e2f1,2k2b1r/ppp2N1p/2n2n2/6pq/3P1p2/1QP5/PP4PP/R1B2bK1 w - - 0 15,Putting the plan into execution. Black threatens Qe2 with mate next move.
+29,Kxf1,g1f1,2k2b1r/ppp2N1p/2n2n2/6pq/3P1p2/1QP5/PP4PP/R1B2K2 b - - 0 15,"White has seen through Black's ruse and defuses the threat. While still down materially, white has aggressive position with credible threats to the h8 R and f6 N. Black has no immediate threats to allow him to capitalize on his momentary material advantage."
+30,Qxh2,h5h2,2k2b1r/ppp2N1p/2n2n2/6p1/3P1p2/1QP5/PP4Pq/R1B2K2 w - - 0 16,"Not a time for Black to go pawn hunting. Black had several better alternatives, including Qg4, protecting against the white Q's potential check at e6, a serious threat. Black here wastes a tempo when he should try to regain some initiative and mount a defense to gain time. The loss of his remaining R is imminent. Black's thrust here is premature."

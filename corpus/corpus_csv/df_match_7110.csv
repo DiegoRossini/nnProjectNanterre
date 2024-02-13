@@ -1,0 +1,97 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Maybe I should've played h6 in case of Nh4.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Maybe I should've played h6 in case of Nh4.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Maybe I should've played h6 in case of Nh4.
+4,c6,c7c6,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Maybe I should've played h6 in case of Nh4.
+5,e3,e2e3,rnbqkbnr/pp2pppp/2p5/3p4/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,Maybe I should've played h6 in case of Nh4.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,Maybe I should've played h6 in case of Nh4.
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 2 4,Maybe I should've played h6 in case of Nh4.
+8,Bf5,c8f5,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 3 5,Maybe I should've played h6 in case of Nh4.
+9,Nf3,g1f3,rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 4 5,Maybe I should've played h6 in case of Nh4.
+10,e6,e7e6,rn1qkb1r/pp3ppp/2p1pn2/3p1b2/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 0 6,Maybe I should've played h6 in case of Nh4.
+11,h3,h2h3,rn1qkb1r/pp3ppp/2p1pn2/3p1b2/2PP4/2N1PN1P/PP3PP1/R1BQKB1R b KQkq - 0 6,Maybe I should've played h6 in case of Nh4.
+12,Nbd7,b8d7,r2qkb1r/pp1n1ppp/2p1pn2/3p1b2/2PP4/2N1PN1P/PP3PP1/R1BQKB1R w KQkq - 1 7,Maybe I should've played h6 in case of Nh4.
+13,Ne5,f3e5,r2qkb1r/pp1n1ppp/2p1pn2/3pNb2/2PP4/2N1P2P/PP3PP1/R1BQKB1R b KQkq - 2 7,"Here's where it gets interesting, as we are leaving the opening lines. White begins to get aggressive."
+14,Nxe5,d7e5,r2qkb1r/pp3ppp/2p1pn2/3pnb2/2PP4/2N1P2P/PP3PP1/R1BQKB1R w KQkq - 0 8,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+15,dxe5,d4e5,r2qkb1r/pp3ppp/2p1pn2/3pPb2/2P5/2N1P2P/PP3PP1/R1BQKB1R b KQkq - 0 8,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+16,Ne4,f6e4,r2qkb1r/pp3ppp/2p1p3/3pPb2/2P1n3/2N1P2P/PP3PP1/R1BQKB1R w KQkq - 1 9,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+17,Bd2,c1d2,r2qkb1r/pp3ppp/2p1p3/3pPb2/2P1n3/2N1P2P/PP1B1PP1/R2QKB1R b KQkq - 2 9,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+18,Nxd2,e4d2,r2qkb1r/pp3ppp/2p1p3/3pPb2/2P5/2N1P2P/PP1n1PP1/R2QKB1R w KQkq - 0 10,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+19,Qxd2,d1d2,r2qkb1r/pp3ppp/2p1p3/3pPb2/2P5/2N1P2P/PP1Q1PP1/R3KB1R b KQkq - 0 10,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+20,Qc7,d8c7,r3kb1r/ppq2ppp/2p1p3/3pPb2/2P5/2N1P2P/PP1Q1PP1/R3KB1R w KQkq - 1 11,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+21,g4,g2g4,r3kb1r/ppq2ppp/2p1p3/3pPb2/2P3P1/2N1P2P/PP1Q1P2/R3KB1R b KQkq - 0 11,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+22,Be4,f5e4,r3kb1r/ppq2ppp/2p1p3/3pP3/2P1b1P1/2N1P2P/PP1Q1P2/R3KB1R w KQkq - 1 12,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+23,Nxe4,c3e4,r3kb1r/ppq2ppp/2p1p3/3pP3/2P1N1P1/4P2P/PP1Q1P2/R3KB1R b KQkq - 0 12,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+24,dxe4,d5e4,r3kb1r/ppq2ppp/2p1p3/4P3/2P1p1P1/4P2P/PP1Q1P2/R3KB1R w KQkq - 0 13,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+25,O-O-O,e1c1,r3kb1r/ppq2ppp/2p1p3/4P3/2P1p1P1/4P2P/PP1Q1P2/2KR1B1R b kq - 1 13,"If I take the pawn right away on e5, I'd be faced with an immediate checkmate: 14. Qd7#"
+26,Be7,f8e7,r3k2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PP1Q1P2/2KR1B1R w kq - 2 14,At least now my king has an escape square on f8 for the mate threat.
+27,Bg2,f1g2,r3k2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PP1Q1PB1/2KR3R b kq - 3 14,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+28,Rd8,a8d8,3rk2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PP1Q1PB1/2KR3R w k - 4 15,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+29,Qc2,d2c2,3rk2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PPQ2PB1/2KR3R b k - 5 15,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+30,Rxd1+,d8d1,4k2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PPQ2PB1/2Kr3R w k - 0 16,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+31,Rxd1,h1d1,4k2r/ppq1bppp/2p1p3/4P3/2P1p1P1/4P2P/PPQ2PB1/2KR4 b k - 0 16,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+32,Qxe5,c7e5,4k2r/pp2bppp/2p1p3/4q3/2P1p1P1/4P2P/PPQ2PB1/2KR4 w k - 0 17,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+33,Bxe4,g2e4,4k2r/pp2bppp/2p1p3/4q3/2P1B1P1/4P2P/PPQ2P2/2KR4 b k - 0 17,"If I would have played this on move 14, I might have saved my e4 pawn, but I guess if I didn't wait I'd be losing my b pawn instead to Qd7+."
+34,g6,g7g6,4k2r/pp2bp1p/2p1p1p1/4q3/2P1B1P1/4P2P/PPQ2P2/2KR4 w k - 0 18,Protecting h7.
+35,f4,f2f4,4k2r/pp2bp1p/2p1p1p1/4q3/2P1BPP1/4P2P/PPQ5/2KR4 b k - 0 18,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+36,Qc5,e5c5,4k2r/pp2bp1p/2p1p1p1/2q5/2P1BPP1/4P2P/PPQ5/2KR4 w k - 1 19,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+37,Qd3,c2d3,4k2r/pp2bp1p/2p1p1p1/2q5/2P1BPP1/3QP2P/PP6/2KR4 b k - 2 19,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+38,O-O,e8g8,5rk1/pp2bp1p/2p1p1p1/2q5/2P1BPP1/3QP2P/PP6/2KR4 w - - 3 20,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+39,f5,f4f5,5rk1/pp2bp1p/2p1p1p1/2q2P2/2P1B1P1/3QP2P/PP6/2KR4 b - - 0 20,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+40,Rd8,f8d8,3r2k1/pp2bp1p/2p1p1p1/2q2P2/2P1B1P1/3QP2P/PP6/2KR4 w - - 1 21,"Again, I repeat the process of distroying White's battery. It looks remarkedly similar to move 14."
+41,Qe2,d3e2,3r2k1/pp2bp1p/2p1p1p1/2q2P2/2P1B1P1/4P2P/PP2Q3/2KR4 b - - 2 21,I now saw my opportunity...
+42,Rxd1+,d8d1,6k1/pp2bp1p/2p1p1p1/2q2P2/2P1B1P1/4P2P/PP2Q3/2Kr4 w - - 0 22,I now saw my opportunity...
+43,Kxd1,c1d1,6k1/pp2bp1p/2p1p1p1/2q2P2/2P1B1P1/4P2P/PP2Q3/3K4 b - - 0 22,I now saw my opportunity...
+44,Qe5,c5e5,6k1/pp2bp1p/2p1p1p1/4qP2/2P1B1P1/4P2P/PP2Q3/3K4 w - - 1 23,I now saw my opportunity...
+45,Qc2,e2c2,6k1/pp2bp1p/2p1p1p1/4qP2/2P1B1P1/4P2P/PPQ5/3K4 b - - 2 23,I now saw my opportunity...
+46,exf5,e6f5,6k1/pp2bp1p/2p3p1/4qp2/2P1B1P1/4P2P/PPQ5/3K4 w - - 0 24,I did not want to let my e pawn go to waste if he took on g6 first.
+47,gxf5,g4f5,6k1/pp2bp1p/2p3p1/4qP2/2P1B3/4P2P/PPQ5/3K4 b - - 0 24,...And now I fork his e and h pawns.
+48,Qg3,e5g3,6k1/pp2bp1p/2p3p1/5P2/2P1B3/4P1qP/PPQ5/3K4 w - - 1 25,...And now I fork his e and h pawns.
+49,fxg6,f5g6,6k1/pp2bp1p/2p3P1/8/2P1B3/4P1qP/PPQ5/3K4 b - - 0 25,"I now have an advantage, but one must be very cautious when playing queen endgames."
+50,hxg6,h7g6,6k1/pp2bp2/2p3p1/8/2P1B3/4P1qP/PPQ5/3K4 w - - 0 26,"I now have an advantage, but one must be very cautious when playing queen endgames."
+51,Qg2,c2g2,6k1/pp2bp2/2p3p1/8/2P1B3/4P1qP/PP4Q1/3K4 b - - 1 26,"I now have an advantage, but one must be very cautious when playing queen endgames."
+52,Qxe3,g3e3,6k1/pp2bp2/2p3p1/8/2P1B3/4q2P/PP4Q1/3K4 w - - 0 27,"I now have an advantage, but one must be very cautious when playing queen endgames."
+53,Kc2,d1c2,6k1/pp2bp2/2p3p1/8/2P1B3/4q2P/PPK3Q1/8 b - - 1 27,Now I had to take care of the threat against my g pawn.
+54,Qd4,e3d4,6k1/pp2bp2/2p3p1/8/2PqB3/7P/PPK3Q1/8 w - - 2 28,Now I had to take care of the threat against my g pawn.
+55,Kb3,c2b3,6k1/pp2bp2/2p3p1/8/2PqB3/1K5P/PP4Q1/8 b - - 3 28,Threatening b2
+56,Kg7,g8g7,8/pp2bpk1/2p3p1/8/2PqB3/1K5P/PP4Q1/8 w - - 4 29,Threatening b2
+57,Qf3,g2f3,8/pp2bpk1/2p3p1/8/2PqB3/1K3Q1P/PP6/8 b - - 5 29,Threatening b2
+58,Bf6,e7f6,8/pp3pk1/2p2bp1/8/2PqB3/1K3Q1P/PP6/8 w - - 6 30,Threatening b2
+59,Qe2,f3e2,8/pp3pk1/2p2bp1/8/2PqB3/1K5P/PP2Q3/8 b - - 7 30,Here was where my opponent sighed in regret. I win the b pawn. Ka3 leads to Be7+ and later Qb4#
+60,Qb6+,d4b6,8/pp3pk1/1qp2bp1/8/2P1B3/1K5P/PP2Q3/8 w - - 8 31,Here was where my opponent sighed in regret. I win the b pawn. Ka3 leads to Be7+ and later Qb4#
+61,Kc2,b3c2,8/pp3pk1/1qp2bp1/8/2P1B3/7P/PPK1Q3/8 b - - 9 31,"Note that Kd3 leads to mate on c3. I thought a moment before exchanging queens, to see if I could win more material later, but I usually prefer simplicity when I have a big advantage."
+62,Qxb2+,b6b2,8/pp3pk1/2p2bp1/8/2P1B3/7P/PqK1Q3/8 w - - 0 32,"Note that Kd3 leads to mate on c3. I thought a moment before exchanging queens, to see if I could win more material later, but I usually prefer simplicity when I have a big advantage."
+63,Kd1,c2d1,8/pp3pk1/2p2bp1/8/2P1B3/7P/Pq2Q3/3K4 b - - 1 32,"Note that Kd3 leads to mate on c3. I thought a moment before exchanging queens, to see if I could win more material later, but I usually prefer simplicity when I have a big advantage."
+64,Qxe2+,b2e2,8/pp3pk1/2p2bp1/8/2P1B3/7P/P3q3/3K4 w - - 0 33,"I do not want the white king in my territory, obviously."
+65,Kxe2,d1e2,8/pp3pk1/2p2bp1/8/2P1B3/7P/P3K3/8 b - - 0 33,"I do not want the white king in my territory, obviously."
+66,Be7,f6e7,8/pp2bpk1/2p3p1/8/2P1B3/7P/P3K3/8 w - - 1 34,"I do not want the white king in my territory, obviously."
+67,Kd3,e2d3,8/pp2bpk1/2p3p1/8/2P1B3/3K3P/P7/8 b - - 2 34,"I do not want the white king in my territory, obviously."
+68,f5,f7f5,8/pp2b1k1/2p3p1/5p2/2P1B3/3K3P/P7/8 w - - 0 35,"I do not want the white king in my territory, obviously."
+69,Bf3,e4f3,8/pp2b1k1/2p3p1/5p2/2P5/3K1B1P/P7/8 b - - 1 35,"I do not want the white king in my territory, obviously."
+70,Kf7,g7f7,8/pp2bk2/2p3p1/5p2/2P5/3K1B1P/P7/8 w - - 2 36,"I do not want the white king in my territory, obviously."
+71,Kd4,d3d4,8/pp2bk2/2p3p1/5p2/2PK4/5B1P/P7/8 b - - 3 36,"I do not want the white king in my territory, obviously."
+72,Ke6,f7e6,8/pp2b3/2p1k1p1/5p2/2PK4/5B1P/P7/8 w - - 4 37,"I do not want the white king in my territory, obviously."
+73,a4,a2a4,8/pp2b3/2p1k1p1/5p2/P1PK4/5B1P/8/8 b - - 0 37,"I do not want the white king in my territory, obviously."
+74,c5+,c6c5,8/pp2b3/4k1p1/2p2p2/P1PK4/5B1P/8/8 w - - 0 38,"I do not want the white king in my territory, obviously."
+75,Ke3,d4e3,8/pp2b3/4k1p1/2p2p2/P1P5/4KB1P/8/8 b - - 1 38,White is willing to sacrifice a pawn to separate my paired passed pawns.
+76,b6,b7b6,8/p3b3/1p2k1p1/2p2p2/P1P5/4KB1P/8/8 w - - 0 39,White is willing to sacrifice a pawn to separate my paired passed pawns.
+77,Kf4,e3f4,8/p3b3/1p2k1p1/2p2p2/P1P2K2/5B1P/8/8 b - - 1 39,White is willing to sacrifice a pawn to separate my paired passed pawns.
+78,g5+,g6g5,8/p3b3/1p2k3/2p2pp1/P1P2K2/5B1P/8/8 w - - 0 40,White is willing to sacrifice a pawn to separate my paired passed pawns.
+79,Kg3,f4g3,8/p3b3/1p2k3/2p2pp1/P1P5/5BKP/8/8 b - - 1 40,White is willing to sacrifice a pawn to separate my paired passed pawns.
+80,Ke5,e6e5,8/p3b3/1p6/2p1kpp1/P1P5/5BKP/8/8 w - - 2 41,White is willing to sacrifice a pawn to separate my paired passed pawns.
+81,h4,h3h4,8/p3b3/1p6/2p1kpp1/P1P4P/5BK1/8/8 b - - 0 41,White is willing to sacrifice a pawn to separate my paired passed pawns.
+82,gxh4+,g5h4,8/p3b3/1p6/2p1kp2/P1P4p/5BK1/8/8 w - - 0 42,My king is swift to advance.
+83,Kh3,g3h3,8/p3b3/1p6/2p1kp2/P1P4p/5B1K/8/8 b - - 1 42,My king is swift to advance.
+84,Kf4,e5f4,8/p3b3/1p6/2p2p2/P1P2k1p/5B1K/8/8 w - - 2 43,My king is swift to advance.
+85,Bh5,f3h5,8/p3b3/1p6/2p2p1B/P1P2k1p/7K/8/8 b - - 3 43,I believe this sacrifice was the only way to get my other pawn to advance.
+86,Ke3,f4e3,8/p3b3/1p6/2p2p1B/P1P4p/4k2K/8/8 w - - 4 44,I believe this sacrifice was the only way to get my other pawn to advance.
+87,Kg2,h3g2,8/p3b3/1p6/2p2p1B/P1P4p/4k3/6K1/8 b - - 5 44,I believe this sacrifice was the only way to get my other pawn to advance.
+88,f4,f5f4,8/p3b3/1p6/2p4B/P1P2p1p/4k3/6K1/8 w - - 0 45,I believe this sacrifice was the only way to get my other pawn to advance.
+89,Bg4,h5g4,8/p3b3/1p6/2p5/P1P2pBp/4k3/6K1/8 b - - 1 45,I believe this sacrifice was the only way to get my other pawn to advance.
+90,Bf6,e7f6,8/p7/1p3b2/2p5/P1P2pBp/4k3/6K1/8 w - - 2 46,I believe this sacrifice was the only way to get my other pawn to advance.
+91,Bh5,g4h5,8/p7/1p3b2/2p4B/P1P2p1p/4k3/6K1/8 b - - 3 46,I believe this sacrifice was the only way to get my other pawn to advance.
+92,h3+,h4h3,8/p7/1p3b2/2p4B/P1P2p2/4k2p/6K1/8 w - - 0 47,I believe this sacrifice was the only way to get my other pawn to advance.
+93,Kxh3,g2h3,8/p7/1p3b2/2p4B/P1P2p2/4k2K/8/8 b - - 0 47,"If he takes it, I promote."
+94,f3,f4f3,8/p7/1p3b2/2p4B/P1P5/4kp1K/8/8 w - - 0 48,"If he takes it, I promote."
+95,Kg3,h3g3,8/p7/1p3b2/2p4B/P1P5/4kpK1/8/8 b - - 1 48,"If he takes it, I promote."
+96,Bh4+,f6h4,8/p7/1p6/2p4B/P1P4b/4kpK1/8/8 w - - 2 49,"If he takes it, I promote."

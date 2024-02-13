@@ -1,0 +1,46 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"For once, I use a standard opening. I like offbeat lines but it's nice to change up."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Philidor's Defence. If I play correctly, I can get a spatial advantage."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Philidor's Defence. If I play correctly, I can get a spatial advantage."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Philidor's Defence. If I play correctly, I can get a spatial advantage."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"??? My opponent could have done this last move, instead of losing a tempo."
+6,d5,d6d5,rnbqkbnr/ppp2ppp/8/3pp3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"??? My opponent could have done this last move, instead of losing a tempo."
+7,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,This denies him the right to castle.
+8,dxe4,d5e4,rnbqkbnr/ppp2ppp/8/4P3/4p3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,This denies him the right to castle.
+9,Qxd8+,d1d8,rnbQkbnr/ppp2ppp/8/4P3/4p3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5,This denies him the right to castle.
+10,Kxd8,e8d8,rnbk1bnr/ppp2ppp/8/4P3/4p3/5N2/PPP2PPP/RNB1KB1R w KQ - 0 6,Now i have a material advantage to go with my positional advantage. If I can develop quickly I can harass the exposed Black King.
+11,Ng5,f3g5,rnbk1bnr/ppp2ppp/8/4P1N1/4p3/8/PPP2PPP/RNB1KB1R b KQ - 1 6,Now i have a material advantage to go with my positional advantage. If I can develop quickly I can harass the exposed Black King.
+12,Be6,c8e6,rn1k1bnr/ppp2ppp/4b3/4P1N1/4p3/8/PPP2PPP/RNB1KB1R w KQ - 2 7,Now i have a material advantage to go with my positional advantage. If I can develop quickly I can harass the exposed Black King.
+13,Nxe4,g5e4,rn1k1bnr/ppp2ppp/4b3/4P3/4N3/8/PPP2PPP/RNB1KB1R b KQ - 0 7,Now i have a material advantage to go with my positional advantage. If I can develop quickly I can harass the exposed Black King.
+14,Bf5,e6f5,rn1k1bnr/ppp2ppp/8/4Pb2/4N3/8/PPP2PPP/RNB1KB1R w KQ - 1 8,"I gain another tempo, developing a piece while he moves his Bishop a second time."
+15,Nbc3,b1c3,rn1k1bnr/ppp2ppp/8/4Pb2/4N3/2N5/PPP2PPP/R1B1KB1R b KQ - 2 8,"I gain another tempo, developing a piece while he moves his Bishop a second time."
+16,Nc6,b8c6,r2k1bnr/ppp2ppp/2n5/4Pb2/4N3/2N5/PPP2PPP/R1B1KB1R w KQ - 3 9,Now I can play O-O-O and seize the open file. If I can move my KB and connect my Rooks I can launch a quick attack in the centre.
+17,Bf4,c1f4,r2k1bnr/ppp2ppp/2n5/4Pb2/4NB2/2N5/PPP2PPP/R3KB1R b KQ - 4 9,Now I can play O-O-O and seize the open file. If I can move my KB and connect my Rooks I can launch a quick attack in the centre.
+18,Nd4,c6d4,r2k1bnr/ppp2ppp/8/4Pb2/3nNB2/2N5/PPP2PPP/R3KB1R w KQ - 5 10,10...P-QB4 is the only move to save the Knight.
+19,O-O-O,e1c1,r2k1bnr/ppp2ppp/8/4Pb2/3nNB2/2N5/PPP2PPP/2KR1B1R b - - 6 10,10...P-QB4 is the only move to save the Knight.
+20,Ke8,d8e8,r3kbnr/ppp2ppp/8/4Pb2/3nNB2/2N5/PPP2PPP/2KR1B1R w - - 7 11,This blunder lets me augment my material advantage.
+21,Rxd4,d1d4,r3kbnr/ppp2ppp/8/4Pb2/3RNB2/2N5/PPP2PPP/2K2B1R b - - 0 11,Now I can activate my KR.
+22,Ne7,g8e7,r3kb1r/ppp1nppp/8/4Pb2/3RNB2/2N5/PPP2PPP/2K2B1R w - - 1 12,Now I can activate my KR.
+23,Bb5+,f1b5,r3kb1r/ppp1nppp/8/1B2Pb2/3RNB2/2N5/PPP2PPP/2K4R b - - 2 12,Now I can activate my KR.
+24,c6,c7c6,r3kb1r/pp2nppp/2p5/1B2Pb2/3RNB2/2N5/PPP2PPP/2K4R w - - 0 13,This move seemed like the best choice. I wanted to pressure the Black KBP.
+25,Bc4,b5c4,r3kb1r/pp2nppp/2p5/4Pb2/2BRNB2/2N5/PPP2PPP/2K4R b - - 1 13,This move seemed like the best choice. I wanted to pressure the Black KBP.
+26,b5,b7b5,r3kb1r/p3nppp/2p5/1p2Pb2/2BRNB2/2N5/PPP2PPP/2K4R w - - 0 14,"If 14...PxN??? 15 BxP ch is decisive. [15...N-B3 16 BxN ch B-Q2 17 BxR, or 15... B-Q2 16 BxB ch K-Q1 17 B-B6 dis ch, followed by 18 BxR.]"
+27,Nxb5,c3b5,r3kb1r/p3nppp/2p5/1N2Pb2/2BRNB2/8/PPP2PPP/2K4R b - - 0 14,"If 14...PxN??? 15 BxP ch is decisive. [15...N-B3 16 BxN ch B-Q2 17 BxR, or 15... B-Q2 16 BxB ch K-Q1 17 B-B6 dis ch, followed by 18 BxR.]"
+28,Bxe4,f5e4,r3kb1r/p3nppp/2p5/1N2P3/2BRbB2/8/PPP2PPP/2K4R w - - 0 15,The Knight fork wins back the sacrificed piece.
+29,Nd6+,b5d6,r3kb1r/p3nppp/2pN4/4P3/2BRbB2/8/PPP2PPP/2K4R b - - 1 15,The Knight fork wins back the sacrificed piece.
+30,Kd7,e8d7,r4b1r/p2knppp/2pN4/4P3/2BRbB2/8/PPP2PPP/2K4R w - - 2 16,"I am not thinking about a mate, but merely trying to activate my QB. However, Black's King is very exposed."
+31,Nxe4+,d6e4,r4b1r/p2knppp/2p5/4P3/2BRNB2/8/PPP2PPP/2K4R b - - 0 16,"I am not thinking about a mate, but merely trying to activate my QB. However, Black's King is very exposed."
+32,Kc7,d7c7,r4b1r/p1k1nppp/2p5/4P3/2BRNB2/8/PPP2PPP/2K4R w - - 1 17,"I am not thinking about a mate, but merely trying to activate my QB. However, Black's King is very exposed."
+33,e6+,e5e6,r4b1r/p1k1nppp/2p1P3/8/2BRNB2/8/PPP2PPP/2K4R b - - 0 17,"I am not thinking about a mate, but merely trying to activate my QB. However, Black's King is very exposed."
+34,Kb6,c7b6,r4b1r/p3nppp/1kp1P3/8/2BRNB2/8/PPP2PPP/2K4R w - - 1 18,"Finally! I'm trying to force piece exchanges now. The more wood comes off, the more crushing my material advantage becomes."
+35,Rhd1,h1d1,r4b1r/p3nppp/1kp1P3/8/2BRNB2/8/PPP2PPP/2KR4 b - - 2 18,"Finally! I'm trying to force piece exchanges now. The more wood comes off, the more crushing my material advantage becomes."
+36,fxe6,f7e6,r4b1r/p3n1pp/1kp1p3/8/2BRNB2/8/PPP2PPP/2KR4 w - - 0 19,"Still not thinking about a mate yet, but a discovered check is always nice."
+37,Bxe6,c4e6,r4b1r/p3n1pp/1kp1B3/8/3RNB2/8/PPP2PPP/2KR4 b - - 0 19,"Still not thinking about a mate yet, but a discovered check is always nice."
+38,Ng6,e7g6,r4b1r/p5pp/1kp1B1n1/8/3RNB2/8/PPP2PPP/2KR4 w - - 1 20,"Still not thinking about a mate yet, but a discovered check is always nice."
+39,Be3,f4e3,r4b1r/p5pp/1kp1B1n1/8/3RN3/4B3/PPP2PPP/2KR4 b - - 2 20,"Still not thinking about a mate yet, but a discovered check is always nice."
+40,Bc5,f8c5,r6r/p5pp/1kp1B1n1/2b5/3RN3/4B3/PPP2PPP/2KR4 w - - 3 21,This move confused me. Why would my opponent let me exchange pieces? I'm not about to pass up this invitation.
+41,Nxc5,e4c5,r6r/p5pp/1kp1B1n1/2N5/3R4/4B3/PPP2PPP/2KR4 b - - 0 21,Off come a pair of pieces. Now for that discovered check... and we'll make it a double.
+42,Kxc5,b6c5,r6r/p5pp/2p1B1n1/2k5/3R4/4B3/PPP2PPP/2KR4 w - - 0 22,Off come a pair of pieces. Now for that discovered check... and we'll make it a double.
+43,Rd4d5+,d4d5,r6r/p5pp/2p1B1n1/2kR4/8/4B3/PPP2PPP/2KR4 b - - 1 22,Not a whole lot of room to run. All Black's troubles can be traced back to the faulty Pawn exchange which enabled me on the 5th move to remove his castling privileges. The Black King was never able to find shelter.
+44,Kb4,c5b4,r6r/p5pp/2p1B1n1/3R4/1k6/4B3/PPP2PPP/2KR4 w - - 2 23,The finishing touch.
+45,Rd1d4#,d1d4,r6r/p5pp/2p1B1n1/3R4/1k1R4/4B3/PPP2PPP/2K5 b - - 3 23,The finishing touch.

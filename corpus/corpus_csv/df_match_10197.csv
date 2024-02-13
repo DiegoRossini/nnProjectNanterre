@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,kings gambit.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,kings gambit.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,kings gambit.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,accepted
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,to stop me getting check on Qh4
+6,d5,d7d5,rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,attacking pawn on e4
+7,e5,e4e5,rnbqkbnr/ppp2ppp/8/3pP3/5p2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4,declined
+8,Bg4,c8g4,rn1qkbnr/ppp2ppp/8/3pP3/5pb1/5N2/PPPP2PP/RNBQKB1R w KQkq - 1 5,attacks the knight and pins it from moving
+9,h3,h2h3,rn1qkbnr/ppp2ppp/8/3pP3/5pb1/5N1P/PPPP2P1/RNBQKB1R b KQkq - 0 5,attacked
+10,Bxf3,g4f3,rn1qkbnr/ppp2ppp/8/3pP3/5p2/5b1P/PPPP2P1/RNBQKB1R w KQkq - 0 6,exchanged
+11,Qxf3,d1f3,rn1qkbnr/ppp2ppp/8/3pP3/5p2/5Q1P/PPPP2P1/RNB1KB1R b KQkq - 0 6,exchanged
+12,Qh4+,d8h4,rn2kbnr/ppp2ppp/8/3pP3/5p1q/5Q1P/PPPP2P1/RNB1KB1R w KQkq - 1 7,the knights out the way
+13,Qf2,f3f2,rn2kbnr/ppp2ppp/8/3pP3/5p1q/7P/PPPP1QP1/RNB1KB1R b KQkq - 2 7,exchange queens
+14,Qxf2+,h4f2,rn2kbnr/ppp2ppp/8/3pP3/5p2/7P/PPPP1qP1/RNB1KB1R w KQkq - 0 8,exchange queens
+15,Kxf2,e1f2,rn2kbnr/ppp2ppp/8/3pP3/5p2/7P/PPPP1KP1/RNB2B1R b kq - 0 8,exchange queens
+16,Bc5+,f8c5,rn2k1nr/ppp2ppp/8/2bpP3/5p2/7P/PPPP1KP1/RNB2B1R w kq - 1 9,another check
+17,Kf3,f2f3,rn2k1nr/ppp2ppp/8/2bpP3/5p2/5K1P/PPPP2P1/RNB2B1R b kq - 2 9,good pawn structure for white
+18,g5,g7g5,rn2k1nr/ppp2p1p/8/2bpP1p1/5p2/5K1P/PPPP2P1/RNB2B1R w kq - 0 10,good pawn structure for white
+19,c3,c2c3,rn2k1nr/ppp2p1p/8/2bpP1p1/5p2/2P2K1P/PP1P2P1/RNB2B1R b kq - 0 10,good pawn structure for white
+20,Nc6,b8c6,r3k1nr/ppp2p1p/2n5/2bpP1p1/5p2/2P2K1P/PP1P2P1/RNB2B1R w kq - 1 11,good pawn structure for white
+21,d4,d2d4,r3k1nr/ppp2p1p/2n5/2bpP1p1/3P1p2/2P2K1P/PP4P1/RNB2B1R b kq - 0 11,good pawn structure for white
+22,Bb6,c5b6,r3k1nr/ppp2p1p/1bn5/3pP1p1/3P1p2/2P2K1P/PP4P1/RNB2B1R w kq - 1 12,i dont know why i did that. i should have done h6
+23,h4,h3h4,r3k1nr/ppp2p1p/1bn5/3pP1p1/3P1p1P/2P2K2/PP4P1/RNB2B1R b kq - 0 12,i dont know why i did that. i should have done h6
+24,O-O-O,e8c8,2kr2nr/ppp2p1p/1bn5/3pP1p1/3P1p1P/2P2K2/PP4P1/RNB2B1R w - - 1 13,i dont know why i did that. i should have done h6
+25,hxg5,h4g5,2kr2nr/ppp2p1p/1bn5/3pP1P1/3P1p2/2P2K2/PP4P1/RNB2B1R b - - 0 13,now im losing and a bit cramped
+26,Kb8,c8b8,1k1r2nr/ppp2p1p/1bn5/3pP1P1/3P1p2/2P2K2/PP4P1/RNB2B1R w - - 1 14,now im losing and a bit cramped
+27,Bxf4,c1f4,1k1r2nr/ppp2p1p/1bn5/3pP1P1/3P1B2/2P2K2/PP4P1/RN3B1R b - - 0 14,now im losing and a bit cramped
+28,Nge7,g8e7,1k1r3r/ppp1np1p/1bn5/3pP1P1/3P1B2/2P2K2/PP4P1/RN3B1R w - - 1 15,try to get the knight out...
+29,g4,g2g4,1k1r3r/ppp1np1p/1bn5/3pP1P1/3P1BP1/2P2K2/PP6/RN3B1R b - - 0 15,my opponent wont let me :(
+30,Ng6,e7g6,1k1r3r/ppp2p1p/1bn3n1/3pP1P1/3P1BP1/2P2K2/PP6/RN3B1R w - - 1 16,attacking the bishop possibly another exchange
+31,Rh6,h1h6,1k1r3r/ppp2p1p/1bn3nR/3pP1P1/3P1BP1/2P2K2/PP6/RN3B2 b - - 2 16,i took
+32,Nxf4,g6f4,1k1r3r/ppp2p1p/1bn4R/3pP1P1/3P1nP1/2P2K2/PP6/RN3B2 w - - 0 17,i took
+33,Kxf4,f3f4,1k1r3r/ppp2p1p/1bn4R/3pP1P1/3P1KP1/2P5/PP6/RN3B2 b - - 0 17,he took
+34,Ne7,c6e7,1k1r3r/ppp1np1p/1b5R/3pP1P1/3P1KP1/2P5/PP6/RN3B2 w - - 1 18,try to get a check

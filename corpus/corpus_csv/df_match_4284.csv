@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+3,Bf4,c1f4,rnbqkbnr/pppppp1p/6p1/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 2 3,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+5,Nf3,g1f3,rnbqk1nr/ppppppbp/6p1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+6,b6,b7b6,rnbqk1nr/p1ppppbp/1p4p1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+7,c3,c2c3,rnbqk1nr/p1ppppbp/1p4p1/8/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4,"Bad. The idea is to support d4 and play for the control of the white diagonal, but e4 should be done now, then supported. 
+True is that that leads to a very well-known game."
+8,Bb7,c8b7,rn1qk1nr/pbppppbp/1p4p1/8/3P1B2/2P2N2/PP2PPPP/RN1QKB1R w KQkq - 1 5,"Yep, now e4 is impossible. Too bad."
+9,Nbd2,b1d2,rn1qk1nr/pbppppbp/1p4p1/8/3P1B2/2P2N2/PP1NPPPP/R2QKB1R b KQkq - 2 5,"Yep, now e4 is impossible. Too bad."
+10,Nf6,g8f6,rn1qk2r/pbppppbp/1p3np1/8/3P1B2/2P2N2/PP1NPPPP/R2QKB1R w KQkq - 3 6,"Yep, now e4 is impossible. Too bad."
+11,Nc4,d2c4,rn1qk2r/pbppppbp/1p3np1/8/2NP1B2/2P2N2/PP2PPPP/R2QKB1R b KQkq - 4 6,"This way, I look for a reason for c3. :-)))"
+12,d5,d7d5,rn1qk2r/pbp1ppbp/1p3np1/3p4/2NP1B2/2P2N2/PP2PPPP/R2QKB1R w KQkq - 0 7,"...as predicted, after d5, this is a solid spot for the knitgt. Here, black sholud have played Nh5, and I have to go something like Qd2 and discourage f6."
+13,Nce5,c4e5,rn1qk2r/pbp1ppbp/1p3np1/3pN3/3P1B2/2P2N2/PP2PPPP/R2QKB1R b KQkq - 1 7,"...as predicted, after d5, this is a solid spot for the knitgt. Here, black sholud have played Nh5, and I have to go something like Qd2 and discourage f6."
+14,Nbd7,b8d7,r2qk2r/pbpnppbp/1p3np1/3pN3/3P1B2/2P2N2/PP2PPPP/R2QKB1R w KQkq - 2 8,"Assuminig I can hold on Nh5, I make my outcome this way."
+15,e3,e2e3,r2qk2r/pbpnppbp/1p3np1/3pN3/3P1B2/2P1PN2/PP3PPP/R2QKB1R b KQkq - 0 8,"Assuminig I can hold on Nh5, I make my outcome this way."
+16,O-O,e8g8,r2q1rk1/pbpnppbp/1p3np1/3pN3/3P1B2/2P1PN2/PP3PPP/R2QKB1R w KQ - 1 9,"Assuminig I can hold on Nh5, I make my outcome this way."
+17,Bb5,f1b5,r2q1rk1/pbpnppbp/1p3np1/1B1pN3/3P1B2/2P1PN2/PP3PPP/R2QK2R b KQ - 2 9,"Assuminig I can hold on Nh5, I make my outcome this way."
+18,Nxe5,d7e5,r2q1rk1/pbp1ppbp/1p3np1/1B1pn3/3P1B2/2P1PN2/PP3PPP/R2QK2R w KQ - 0 10,More or less forced. I have 3 ways to retake it...
+19,Nxe5,f3e5,r2q1rk1/pbp1ppbp/1p3np1/1B1pN3/3P1B2/2P1P3/PP3PPP/R2QK2R b KQ - 0 10,My knight there. I like it :-)
+20,a6,a7a6,r2q1rk1/1bp1ppbp/pp3np1/1B1pN3/3P1B2/2P1P3/PP3PPP/R2QK2R w KQ - 0 11,The normal procedure leads me to bite granite... I can take advantage from this and control Nh5.
+21,Be2,b5e2,r2q1rk1/1bp1ppbp/pp3np1/3pN3/3P1B2/2P1P3/PP2BPPP/R2QK2R b KQ - 1 11,"As scary as it seems, this move rarely is a threat in this scheme."
+22,Ne4,f6e4,r2q1rk1/1bp1ppbp/pp4p1/3pN3/3PnB2/2P1P3/PP2BPPP/R2QK2R w KQ - 2 12,"As scary as it seems, this move rarely is a threat in this scheme."
+23,f3,f2f3,r2q1rk1/1bp1ppbp/pp4p1/3pN3/3PnB2/2P1PP2/PP2B1PP/R2QK2R b KQ - 0 12,"You NEVER must unblock a self-blocked fianchetto, but this time, I have compensation."
+24,Bxe5,g7e5,r2q1rk1/1bp1pp1p/pp4p1/3pb3/3PnB2/2P1PP2/PP2B1PP/R2QK2R w KQ - 0 13,"You NEVER must unblock a self-blocked fianchetto, but this time, I have compensation."
+25,dxe5,d4e5,r2q1rk1/1bp1pp1p/pp4p1/3pP3/4nB2/2P1PP2/PP2B1PP/R2QK2R b KQ - 0 13,"Ok, he gets there. I didn't want to exchange my beloved dsb for a knight with no future."
+26,Nc5,e4c5,r2q1rk1/1bp1pp1p/pp4p1/2npP3/5B2/2P1PP2/PP2B1PP/R2QK2R w KQ - 1 14,"Ok, he gets there. I didn't want to exchange my beloved dsb for a knight with no future."
+27,Qd4,d1d4,r2q1rk1/1bp1pp1p/pp4p1/2npP3/3Q1B2/2P1PP2/PP2B1PP/R3K2R b KQ - 2 14,"Here, I blundered. I simply didn't consider the next black's move."
+28,Ne6,c5e6,r2q1rk1/1bp1pp1p/pp2n1p1/3pP3/3Q1B2/2P1PP2/PP2B1PP/R3K2R w KQ - 3 15,"So my bishop is lost, and the center control, too. I plan to castle, sadly, kinside now."
+29,Qd2,d4d2,r2q1rk1/1bp1pp1p/pp2n1p1/3pP3/5B2/2P1PP2/PP1QB1PP/R3K2R b KQ - 4 15,Where else? a4? d1? d3?
+30,c5,c7c5,r2q1rk1/1b2pp1p/pp2n1p1/2ppP3/5B2/2P1PP2/PP1QB1PP/R3K2R w KQ - 0 16,Black grabs this important advance. I have to be very careful after the positional blunder.
+31,Bh6,f4h6,r2q1rk1/1b2pp1p/pp2n1pB/2ppP3/8/2P1PP2/PP1QB1PP/R3K2R b KQ - 1 16,"...but my bishop is saved! And he will do great, there!"
+32,Re8,f8e8,r2qr1k1/1b2pp1p/pp2n1pB/2ppP3/8/2P1PP2/PP1QB1PP/R3K2R w KQ - 2 17,What the hell! Let's see who's first! :-)
+33,O-O-O,e1c1,r2qr1k1/1b2pp1p/pp2n1pB/2ppP3/8/2P1PP2/PP1QB1PP/2KR3R b - - 3 17,What the hell! Let's see who's first! :-)
+34,d4,d5d4,r2qr1k1/1b2pp1p/pp2n1pB/2p1P3/3p4/2P1PP2/PP1QB1PP/2KR3R w - - 0 18,Tricky... did you expect it? :-) Any pawn's exchange would have been at my disadvantage.
+35,Qc2,d2c2,r2qr1k1/1b2pp1p/pp2n1pB/2p1P3/3p4/2P1PP2/PPQ1B1PP/2KR3R b - - 1 18,Tricky... did you expect it? :-) Any pawn's exchange would have been at my disadvantage.
+36,Qd7,d8d7,r3r1k1/1b1qpp1p/pp2n1pB/2p1P3/3p4/2P1PP2/PPQ1B1PP/2KR3R w - - 2 19,"? He can take the queen away from the column, since if I exchange pawns, I get the center, but also Rc8, followed by b5, and I lose a piece at least."
+37,e4,e3e4,r3r1k1/1b1qpp1p/pp2n1pB/2p1P3/3pP3/2P2P2/PPQ1B1PP/2KR3R b - - 0 19,"I am self-blocking my own queen's action, but I'll take care of this later. But my two centered doubled pawns are a barrier for black's action. Without f8 (because of the bishop), black cannot go f5 - this is the point! And the nasty knight has almost no game, there, but to block my bishop's useless retirement (g5, f4) and self block black's pieces!"

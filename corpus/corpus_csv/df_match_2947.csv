@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's pawn opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's pawn opening.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,King's pawn opening.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,King's pawn opening.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Two knoights defense.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Two knoights defense.
+7,Nc3,b1c3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,N for pawn?  Does not seem like a wise trade.
+8,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/4p3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,N for pawn?  Does not seem like a wise trade.
+9,Nxe4,c3e4,r1bqkb1r/pppp1ppp/2n5/4p3/2B1N3/5N2/PPPP1PPP/R1BQK2R b KQkq - 0 5,";). Oh yes, pawn fork."
+10,d5,d7d5,r1bqkb1r/ppp2ppp/2n5/3pp3/2B1N3/5N2/PPPP1PPP/R1BQK2R w KQkq - 0 6,";). Oh yes, pawn fork."
+11,Nxe5,f3e5,r1bqkb1r/ppp2ppp/2n5/3pN3/2B1N3/8/PPPP1PPP/R1BQK2R b KQkq - 0 6,"I kind of liked PxN.  PxN, QxQ!"
+12,Nxe5,c6e5,r1bqkb1r/ppp2ppp/8/3pn3/2B1N3/8/PPPP1PPP/R1BQK2R w KQkq - 0 7,"I kind of liked PxN.  PxN, QxQ!"
+13,Bb5+,c4b5,r1bqkb1r/ppp2ppp/8/1B1pn3/4N3/8/PPPP1PPP/R1BQK2R b KQkq - 1 7,"I kind of liked PxN.  PxN, QxQ!"
+14,c6,c7c6,r1bqkb1r/pp3ppp/2p5/1B1pn3/4N3/8/PPPP1PPP/R1BQK2R w KQkq - 0 8,"I kind of liked PxN.  PxN, QxQ!"
+15,d4,d2d4,r1bqkb1r/pp3ppp/2p5/1B1pn3/3PN3/8/PPP2PPP/R1BQK2R b KQkq - 0 8,"I kind of liked PxN.  PxN, QxQ!"
+16,Ng6,e5g6,r1bqkb1r/pp3ppp/2p3n1/1B1p4/3PN3/8/PPP2PPP/R1BQK2R w KQkq - 1 9,"I kind of liked PxN.  PxN, QxQ!"
+17,Bg5,c1g5,r1bqkb1r/pp3ppp/2p3n1/1B1p2B1/3PN3/8/PPP2PPP/R2QK2R b KQkq - 2 9,"I liked Qa5!, followed by QxB.  But here pawns get their pick of three pieces."
+18,f6,f7f6,r1bqkb1r/pp4pp/2p2pn1/1B1p2B1/3PN3/8/PPP2PPP/R2QK2R w KQkq - 0 10,"I liked Qa5!, followed by QxB.  But here pawns get their pick of three pieces."
+19,O-O,e1g1,r1bqkb1r/pp4pp/2p2pn1/1B1p2B1/3PN3/8/PPP2PPP/R2Q1RK1 b kq - 1 10,"Oh, discovered check (knight moves) will force the king to move."
+20,fxg5,f6g5,r1bqkb1r/pp4pp/2p3n1/1B1p2p1/3PN3/8/PPP2PPP/R2Q1RK1 w kq - 0 11,"Oh, discovered check (knight moves) will force the king to move."
+21,Re1,f1e1,r1bqkb1r/pp4pp/2p3n1/1B1p2p1/3PN3/8/PPP2PPP/R2QR1K1 b kq - 1 11,"Oh, discovered check (knight moves) will force the king to move."
+22,cxb5,c6b5,r1bqkb1r/pp4pp/6n1/1p1p2p1/3PN3/8/PPP2PPP/R2QR1K1 w kq - 0 12,"Oh, discovered check (knight moves) will force the king to move."
+23,Nd6+,e4d6,r1bqkb1r/pp4pp/3N2n1/1p1p2p1/3P4/8/PPP2PPP/R2QR1K1 b kq - 1 12,"Black must move the king, meaning the white queen is vulnerable and the black rook could escape."
+24,Kd7,e8d7,r1bq1b1r/pp1k2pp/3N2n1/1p1p2p1/3P4/8/PPP2PPP/R2QR1K1 w - - 2 13,"Black must move the king, meaning the white queen is vulnerable and the black rook could escape."
+25,Nf7,d6f7,r1bq1b1r/pp1k1Npp/6n1/1p1p2p1/3P4/8/PPP2PPP/R2QR1K1 b - - 3 13,"Black must move the king, meaning the white queen is vulnerable and the black rook could escape."
+26,Qc7,d8c7,r1b2b1r/ppqk1Npp/6n1/1p1p2p1/3P4/8/PPP2PPP/R2QR1K1 w - - 4 14,"Black must move the king, meaning the white queen is vulnerable and the black rook could escape."
+27,Qg4+,d1g4,r1b2b1r/ppqk1Npp/6n1/1p1p2p1/3P2Q1/8/PPP2PPP/R3R1K1 b - - 5 14,"Black must move the king, meaning the white queen is vulnerable and the black rook could escape."
+28,Kc6,d7c6,r1b2b1r/ppq2Npp/2k3n1/1p1p2p1/3P2Q1/8/PPP2PPP/R3R1K1 w - - 6 15,?  Rook sacrifice?
+29,Re6+,e1e6,r1b2b1r/ppq2Npp/2k1R1n1/1p1p2p1/3P2Q1/8/PPP2PPP/R5K1 b - - 7 15,?  Rook sacrifice?
+30,Bxe6,c8e6,r4b1r/ppq2Npp/2k1b1n1/1p1p2p1/3P2Q1/8/PPP2PPP/R5K1 w - - 0 16,With white down six points each trade favors black.
+31,Qxe6+,g4e6,r4b1r/ppq2Npp/2k1Q1n1/1p1p2p1/3P4/8/PPP2PPP/R5K1 b - - 0 16,With white down six points each trade favors black.
+32,Bd6,f8d6,r6r/ppq2Npp/2kbQ1n1/1p1p2p1/3P4/8/PPP2PPP/R5K1 w - - 1 17,With white down six points each trade favors black.
+33,Nxh8,f7h8,r6N/ppq3pp/2kbQ1n1/1p1p2p1/3P4/8/PPP2PPP/R5K1 b - - 0 17,With white down six points each trade favors black.
+34,Rxh8,a8h8,7r/ppq3pp/2kbQ1n1/1p1p2p1/3P4/8/PPP2PPP/R5K1 w - - 0 18,With white down six points each trade favors black.
+35,b3,b2b3,7r/ppq3pp/2kbQ1n1/1p1p2p1/3P4/1P6/P1P2PPP/R5K1 b - - 0 18,With white down six points each trade favors black.
+36,Qe7,c7e7,7r/pp2q1pp/2kbQ1n1/1p1p2p1/3P4/1P6/P1P2PPP/R5K1 w - - 1 19,With white down six points each trade favors black.
+37,Qxe7,e6e7,7r/pp2Q1pp/2kb2n1/1p1p2p1/3P4/1P6/P1P2PPP/R5K1 b - - 0 19,With white down six points each trade favors black.
+38,Nxe7,g6e7,7r/pp2n1pp/2kb4/1p1p2p1/3P4/1P6/P1P2PPP/R5K1 w - - 0 20,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+39,h3,h2h3,7r/pp2n1pp/2kb4/1p1p2p1/3P4/1P5P/P1P2PP1/R5K1 b - - 0 20,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+40,Bb4,d6b4,7r/pp2n1pp/2k5/1p1p2p1/1b1P4/1P5P/P1P2PP1/R5K1 w - - 1 21,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+41,a3,a2a3,7r/pp2n1pp/2k5/1p1p2p1/1b1P4/PP5P/2P2PP1/R5K1 b - - 0 21,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+42,Bc3,b4c3,7r/pp2n1pp/2k5/1p1p2p1/3P4/PPb4P/2P2PP1/R5K1 w - - 1 22,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+43,Rd1,a1d1,7r/pp2n1pp/2k5/1p1p2p1/3P4/PPb4P/2P2PP1/3R2K1 b - - 2 22,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+44,Re8,h8e8,4r3/pp2n1pp/2k5/1p1p2p1/3P4/PPb4P/2P2PP1/3R2K1 w - - 3 23,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+45,Rd3,d1d3,4r3/pp2n1pp/2k5/1p1p2p1/3P4/PPbR3P/2P2PP1/6K1 b - - 4 23,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+46,Bb2,c3b2,4r3/pp2n1pp/2k5/1p1p2p1/3P4/PP1R3P/1bP2PP1/6K1 w - - 5 24,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+47,a4,a3a4,4r3/pp2n1pp/2k5/1p1p2p1/P2P4/1P1R3P/1bP2PP1/6K1 b - - 0 24,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+48,Nf5,e7f5,4r3/pp4pp/2k5/1p1p1np1/P2P4/1P1R3P/1bP2PP1/6K1 w - - 1 25,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+49,axb5+,a4b5,4r3/pp4pp/2k5/1P1p1np1/3P4/1P1R3P/1bP2PP1/6K1 b - - 0 25,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+50,Kxb5,c6b5,4r3/pp4pp/8/1k1p1np1/3P4/1P1R3P/1bP2PP1/6K1 w - - 0 26,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+51,c4+,c2c4,4r3/pp4pp/8/1k1p1np1/2PP4/1P1R3P/1b3PP1/6K1 b - - 0 26,"?  Two pawns for one?  White should be moving the king up, or working over vulnerable black pawns."
+52,dxc4,d5c4,4r3/pp4pp/8/1k3np1/2pP4/1P1R3P/1b3PP1/6K1 w - - 0 27,
+53,bxc4+,b3c4,4r3/pp4pp/8/1k3np1/2PP4/3R3P/1b3PP1/6K1 b - - 0 27,
+54,Kxc4,b5c4,4r3/pp4pp/8/5np1/2kP4/3R3P/1b3PP1/6K1 w - - 0 28,
+55,Rd2,d3d2,4r3/pp4pp/8/5np1/2kP4/7P/1b1R1PP1/6K1 b - - 1 28,
+56,Bxd4,b2d4,4r3/pp4pp/8/5np1/2kb4/7P/3R1PP1/6K1 w - - 0 29,
+57,Rc2+,d2c2,4r3/pp4pp/8/5np1/2kb4/7P/2R2PP1/6K1 b - - 1 29,
+58,Bc3,d4c3,4r3/pp4pp/8/5np1/2k5/2b4P/2R2PP1/6K1 w - - 2 30,
+59,g4,g2g4,4r3/pp4pp/8/5np1/2k3P1/2b4P/2R2P2/6K1 b - - 0 30,
+60,Re1+,e8e1,8/pp4pp/8/5np1/2k3P1/2b4P/2R2P2/4r1K1 w - - 1 31,
+61,Kg2,g1g2,8/pp4pp/8/5np1/2k3P1/2b4P/2R2PK1/4r3 b - - 2 31,
+62,Nh4+,f5h4,8/pp4pp/8/6p1/2k3Pn/2b4P/2R2PK1/4r3 w - - 3 32,
+63,Kh2,g2h2,8/pp4pp/8/6p1/2k3Pn/2b4P/2R2P1K/4r3 b - - 4 32,
+64,Kd3,c4d3,8/pp4pp/8/6p1/6Pn/2bk3P/2R2P1K/4r3 w - - 5 33,
+65,Ra2,c2a2,8/pp4pp/8/6p1/6Pn/2bk3P/R4P1K/4r3 b - - 6 33,
+66,Be5+,c3e5,8/pp4pp/8/4b1p1/6Pn/3k3P/R4P1K/4r3 w - - 7 34,

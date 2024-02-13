@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,g3,g2g3,rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1,"Danger! Protect your rooks. A good move would have been pawn to c6, especially queen-side where you are not as likely to want to castle."
+2,b5,b7b5,rnbqkbnr/p1pppppp/8/1p6/8/6P1/PPPPPP1P/RNBQKBNR w KQkq - 0 2,"Danger! Protect your rooks. A good move would have been pawn to c6, especially queen-side where you are not as likely to want to castle."
+3,Bg2,f1g2,rnbqkbnr/p1pppppp/8/1p6/8/6P1/PPPPPPBP/RNBQK1NR b KQkq - 1 2,"Danger! Protect your rooks. A good move would have been pawn to c6, especially queen-side where you are not as likely to want to castle."
+4,Na6,b8a6,r1bqkbnr/p1pppppp/n7/1p6/8/6P1/PPPPPPBP/RNBQK1NR w KQkq - 2 3,Wide open.
+5,Bxa8,g2a8,B1bqkbnr/p1pppppp/n7/1p6/8/6P1/PPPPPP1P/RNBQK1NR b KQk - 0 3,...
+6,c6,c7c6,B1bqkbnr/p2ppppp/n1p5/1p6/8/6P1/PPPPPP1P/RNBQK1NR w KQk - 0 4,HEY!!  YOU'VE TRAPPED MY BISHOP! devious.
+7,Nf3,g1f3,B1bqkbnr/p2ppppp/n1p5/1p6/8/5NP1/PPPPPP1P/RNBQK2R b KQk - 1 4,"I move my knight to fill the hole in my line, control the center of the board, and open the way for castling."
+8,Nf6,g8f6,B1bqkb1r/p2ppppp/n1p2n2/1p6/8/5NP1/PPPPPP1P/RNBQK2R w KQk - 2 5,Copycat.
+9,O-O,e1g1,B1bqkb1r/p2ppppp/n1p2n2/1p6/8/5NP1/PPPPPP1P/RNBQ1RK1 b k - 3 5,Castle! My king is in his castle. My rook is in danger from your bishop c8 though.
+10,g6,g7g6,B1bqkb1r/p2ppp1p/n1p2np1/1p6/8/5NP1/PPPPPP1P/RNBQ1RK1 w k - 0 6,miau.
+11,b3,b2b3,B1bqkb1r/p2ppp1p/n1p2np1/1p6/8/1P3NP1/P1PPPP1P/RNBQ1RK1 b k - 0 6,let's get my other bishop out..
+12,d6,d7d6,B1bqkb1r/p3pp1p/n1pp1np1/1p6/8/1P3NP1/P1PPPP1P/RNBQ1RK1 w k - 0 7,"Bad idea! my bishop is no longer trapped. He can kill your pawn, threaten your king, and escape, twirling his mustache!"
+13,Bb2,c1b2,B1bqkb1r/p3pp1p/n1pp1np1/1p6/8/1P3NP1/PBPPPP1P/RN1Q1RK1 b k - 1 7,"..but I suck, I confused the king and queen, so thought it wouldn't work and advanced my other bishop instead. More firepower aimed at the center of the board, and your other rook."
+14,Nd7,f6d7,B1bqkb1r/p2npp1p/n1pp2p1/1p6/8/1P3NP1/PBPPPP1P/RN1Q1RK1 w k - 2 8,OH NO YOU DIDN'T. you did.
+15,Bxh8,b2h8,B1bqkb1B/p2npp1p/n1pp2p1/1p6/8/1P3NP1/P1PPPP1P/RN1Q1RK1 b - - 0 8,Your king has no castle.
+16,Nb6,d7b6,B1bqkb1B/p3pp1p/nnpp2p1/1p6/8/1P3NP1/P1PPPP1P/RN1Q1RK1 w - - 1 9,You threaten my bishop. Do I notice?
+17,Nd4,f3d4,B1bqkb1B/p3pp1p/nnpp2p1/1p6/3N4/1P4P1/P1PPPP1P/RN1Q1RK1 b - - 2 9,I do not.
+18,Nxa8,b6a8,n1bqkb1B/p3pp1p/n1pp2p1/1p6/3N4/1P4P1/P1PPPP1P/RN1Q1RK1 w - - 0 10,:(
+19,Nxc6,d4c6,n1bqkb1B/p3pp1p/n1Np2p1/1p6/8/1P4P1/P1PPPP1P/RN1Q1RK1 b - - 0 10,I think I noticed my mistake... here. Queencheck!
+20,Qd7,d8d7,n1b1kb1B/p2qpp1p/n1Np2p1/1p6/8/1P4P1/P1PPPP1P/RN1Q1RK1 w - - 1 11,RUN AWAY!
+21,Nd4,c6d4,n1b1kb1B/p2qpp1p/n2p2p1/1p6/3N4/1P4P1/P1PPPP1P/RN1Q1RK1 b - - 2 11,RUN.. AWAY...
+22,Bb7,c8b7,n3kb1B/pb1qpp1p/n2p2p1/1p6/3N4/1P4P1/P1PPPP1P/RN1Q1RK1 w - - 3 12,Bishop gets dangerous.

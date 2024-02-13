@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,bird opening
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"wall stone variation, i'm getting it"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,"wall stone variation, i'm getting it"
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3,"wall stone variation, i'm getting it"
+5,d4,d2d4,rnbqkbnr/ppp2ppp/4p3/3p4/3P1P2/5N2/PPP1P1PP/RNBQKB1R b KQkq - 0 3,"wall stone variation, i'm getting it"
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2pp4/3P1P2/5N2/PPP1P1PP/RNBQKB1R w KQkq - 0 4,"wall stone variation, i'm getting it"
+7,c3,c2c3,rnbqkbnr/pp3ppp/4p3/2pp4/3P1P2/2P2N2/PP2P1PP/RNBQKB1R b KQkq - 0 4,"wall stone variation, i'm getting it"
+8,Nf6,g8f6,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1P2/2P2N2/PP2P1PP/RNBQKB1R w KQkq - 1 5,"wall stone variation, i'm getting it"
+9,e3,e2e3,rnbqkb1r/pp3ppp/4pn2/2pp4/3P1P2/2P1PN2/PP4PP/RNBQKB1R b KQkq - 0 5,"wall stone variation, i'm getting it"
+10,Nc6,b8c6,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1P2/2P1PN2/PP4PP/RNBQKB1R w KQkq - 1 6,"defending Nf3, preserving lsb for after and preparing castle kind side ( better than a useless 6. Bb5 a6 7. Bb5xNc6 b7xc6 and even better than 6. Bd3 met by c4)"
+11,Be2,f1e2,r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1P2/2P1PN2/PP2B1PP/RNBQK2R b KQkq - 2 6,"defending Nf3, preserving lsb for after and preparing castle kind side ( better than a useless 6. Bb5 a6 7. Bb5xNc6 b7xc6 and even better than 6. Bd3 met by c4)"
+12,Be7,f8e7,r1bqk2r/pp2bppp/2n1pn2/2pp4/3P1P2/2P1PN2/PP2B1PP/RNBQK2R w KQkq - 3 7,"I did not understood the reason of this move, somebody does ? is not a blunder anyway but in my opinion it loose a tempo"
+13,O-O,e1g1,r1bqk2r/pp2bppp/2n1pn2/2pp4/3P1P2/2P1PN2/PP2B1PP/RNBQ1RK1 b kq - 4 7,"I did not understood the reason of this move, somebody does ? is not a blunder anyway but in my opinion it loose a tempo"
+14,Qc7,d8c7,r1b1k2r/ppq1bppp/2n1pn2/2pp4/3P1P2/2P1PN2/PP2B1PP/RNBQ1RK1 w kq - 5 8,"I did not understood the reason of this move, somebody does ? is not a blunder anyway but in my opinion it loose a tempo"
+15,Ne5,f3e5,r1b1k2r/ppq1bppp/2n1pn2/2ppN3/3P1P2/2P1P3/PP2B1PP/RNBQ1RK1 b kq - 6 8,"This is one of the interesting move in bird opening, if 8. ... Nc6 x Ne5 9. fxe5, which open the f colon in order threatening directly f7 with the rook. An dif not, the knight in e5 is a very good position"
+16,O-O,e8g8,r1b2rk1/ppq1bppp/2n1pn2/2ppN3/3P1P2/2P1P3/PP2B1PP/RNBQ1RK1 w - - 7 9,"pretending go to b5 to attack the queen, but the goal was to move in c2 for bringing the knight to the kind side for after. So if opponent want to prevent B5, it will loose a tempo and let me preparing my troops movements"
+17,Na3,b1a3,r1b2rk1/ppq1bppp/2n1pn2/2ppN3/3P1P2/N1P1P3/PP2B1PP/R1BQ1RK1 b - - 8 9,"pretending go to b5 to attack the queen, but the goal was to move in c2 for bringing the knight to the kind side for after. So if opponent want to prevent B5, it will loose a tempo and let me preparing my troops movements"
+18,a6,a7a6,r1b2rk1/1pq1bppp/p1n1pn2/2ppN3/3P1P2/N1P1P3/PP2B1PP/R1BQ1RK1 w - - 0 10,He does
+19,Nc2,a3c2,r1b2rk1/1pq1bppp/p1n1pn2/2ppN3/3P1P2/2P1P3/PPN1B1PP/R1BQ1RK1 b - - 1 10,"another preparation, in order to go to the king side passing via e1. This is an inconvenient of the bird : the dsb is blocked in queen side, and it take at least 2 tempo to develop it"
+20,b6,b7b6,r1b2rk1/2q1bppp/ppn1pn2/2ppN3/3P1P2/2P1P3/PPN1B1PP/R1BQ1RK1 w - - 0 11,"another preparation, in order to go to the king side passing via e1. This is an inconvenient of the bird : the dsb is blocked in queen side, and it take at least 2 tempo to develop it"
+21,Bd2,c1d2,r1b2rk1/2q1bppp/ppn1pn2/2ppN3/3P1P2/2P1P3/PPNBB1PP/R2Q1RK1 b - - 1 11,"another preparation, in order to go to the king side passing via e1. This is an inconvenient of the bird : the dsb is blocked in queen side, and it take at least 2 tempo to develop it"
+22,Bb7,c8b7,r4rk1/1bq1bppp/ppn1pn2/2ppN3/3P1P2/2P1P3/PPNBB1PP/R2Q1RK1 w - - 2 12,but opponent seems to let me preparing all I want to do...maybe this was his tactical mistake (?)
+23,Be1,d2e1,r4rk1/1bq1bppp/ppn1pn2/2ppN3/3P1P2/2P1P3/PPN1B1PP/R2QBRK1 b - - 3 12,dsb is ok now
+24,Rfd8,f8d8,r2r2k1/1bq1bppp/ppn1pn2/2ppN3/3P1P2/2P1P3/PPN1B1PP/R2QBRK1 w - - 4 13,"another move that i dont understand, this rrok was better in f8 defending F7. So now i have a plan : send lsb to h5 : If exchange with f6 knight, then my queen retake and win a good attack position (h5). If not, i can attack directly f7 which is threatened by e5 knight..."
+25,Bh5,e2h5,r2r2k1/1bq1bppp/ppn1pn2/2ppN2B/3P1P2/2P1P3/PPN3PP/R2QBRK1 b - - 5 13,"so after exchange, we can appreciate a advantageous white position. Blacks has his queen side useless, with a lsb blocked and a queen far from battlefield. And i'm still threatening f7."
+26,Nxh5,f6h5,r2r2k1/1bq1bppp/ppn1p3/2ppN2n/3P1P2/2P1P3/PPN3PP/R2QBRK1 w - - 0 14,"so after exchange, we can appreciate a advantageous white position. Blacks has his queen side useless, with a lsb blocked and a queen far from battlefield. And i'm still threatening f7."
+27,Qxh5,d1h5,r2r2k1/1bq1bppp/ppn1p3/2ppN2Q/3P1P2/2P1P3/PPN3PP/R3BRK1 b - - 0 14,"so after exchange, we can appreciate a advantageous white position. Blacks has his queen side useless, with a lsb blocked and a queen far from battlefield. And i'm still threatening f7."
+28,Bf6,e7f6,r2r2k1/1bq2ppp/ppn1pb2/2ppN2Q/3P1P2/2P1P3/PPN3PP/R3BRK1 w - - 1 15,now black queen is entering in the game protecting f7. Blacks has to defend. it is encouraging for me.
+29,Bh4,e1h4,r2r2k1/1bq2ppp/ppn1pb2/2ppN2Q/3P1P1B/2P1P3/PPN3PP/R4RK1 b - - 2 15,this was not my better move but it will give something interesting after ...
+30,Qe7,c7e7,r2r2k1/1b2qppp/ppn1pb2/2ppN2Q/3P1P1B/2P1P3/PPN3PP/R4RK1 w - - 3 16,"Ne1?!  i'm sacrificing my dsb, in compensation i will bring my second knight to the fightand this will give a leading advantage"
+31,Ne1,c2e1,r2r2k1/1b2qppp/ppn1pb2/2ppN2Q/3P1P1B/2P1P3/PP4PP/R3NRK1 b - - 4 16,"Ne1?!  i'm sacrificing my dsb, in compensation i will bring my second knight to the fightand this will give a leading advantage"
+32,Bxh4,f6h4,r2r2k1/1b2qppp/ppn1p3/2ppN2Q/3P1P1b/2P1P3/PP4PP/R3NRK1 w - - 0 17,now black dsb has to retreat and i will advance my f3 knight to g5
+33,Ne1f3,e1f3,r2r2k1/1b2qppp/ppn1p3/2ppN2Q/3P1P1b/2P1PN2/PP4PP/R4RK1 b - - 1 17,now black dsb has to retreat and i will advance my f3 knight to g5
+34,Bf6,h4f6,r2r2k1/1b2qppp/ppn1pb2/2ppN2Q/3P1P2/2P1PN2/PP4PP/R4RK1 w - - 2 18,f7 threatened again
+35,Ng5,f3g5,r2r2k1/1b2qppp/ppn1pb2/2ppN1NQ/3P1P2/2P1P3/PP4PP/R4RK1 b - - 3 18,f7 threatened again
+36,h6,h7h6,r2r2k1/1b2qpp1/ppn1pb1p/2ppN1NQ/3P1P2/2P1P3/PP4PP/R4RK1 w - - 0 19,i will win the f7 pawn
+37,Ngxf7,g5f7,r2r2k1/1b2qNp1/ppn1pb1p/2ppN2Q/3P1P2/2P1P3/PP4PP/R4RK1 b - - 0 19,the plan was qg4 ... kxh6+
+38,Rdc8,d8c8,r1r3k1/1b2qNp1/ppn1pb1p/2ppN2Q/3P1P2/2P1P3/PP4PP/R4RK1 w - - 1 20,implementing the plan
+39,Qg4,h5g4,r1r3k1/1b2qNp1/ppn1pb1p/2ppN3/3P1PQ1/2P1P3/PP4PP/R4RK1 b - - 2 20,implementing the plan

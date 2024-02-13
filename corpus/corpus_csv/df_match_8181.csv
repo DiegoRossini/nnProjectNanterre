@@ -1,0 +1,169 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,the pawn push temporarily gains black additional space.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,the pawn push temporarily gains black additional space.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,the pawn push temporarily gains black additional space.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/4pn2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,the pawn push temporarily gains black additional space.
+5,g3,g2g3,rnbqkb1r/pppp1ppp/4pn2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3,the pawn push temporarily gains black additional space.
+6,d5,d7d5,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4,the pawn push temporarily gains black additional space.
+7,Bg2,f1g2,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4,the pawn push temporarily gains black additional space.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5,the pawn push temporarily gains black additional space.
+9,O-O,e1g1,rnbqk2r/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 3 5,the pawn push temporarily gains black additional space.
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 4 6,the pawn push temporarily gains black additional space.
+11,Nbd2,b1d2,rnbq1rk1/ppp1bppp/4pn2/3p4/3P4/5NP1/PPPNPPBP/R1BQ1RK1 b - - 5 6,the pawn push temporarily gains black additional space.
+12,c5,c7c5,rnbq1rk1/pp2bppp/4pn2/2pp4/3P4/5NP1/PPPNPPBP/R1BQ1RK1 w - - 0 7,the pawn push temporarily gains black additional space.
+13,e3,e2e3,rnbq1rk1/pp2bppp/4pn2/2pp4/3P4/4PNP1/PPPN1PBP/R1BQ1RK1 b - - 0 7,the pawn push temporarily gains black additional space.
+14,Nc6,b8c6,r1bq1rk1/pp2bppp/2n1pn2/2pp4/3P4/4PNP1/PPPN1PBP/R1BQ1RK1 w - - 1 8,the pawn push temporarily gains black additional space.
+15,c3,c2c3,r1bq1rk1/pp2bppp/2n1pn2/2pp4/3P4/2P1PNP1/PP1N1PBP/R1BQ1RK1 b - - 0 8,the pawn push temporarily gains black additional space.
+16,c4,c5c4,r1bq1rk1/pp2bppp/2n1pn2/3p4/2pP4/2P1PNP1/PP1N1PBP/R1BQ1RK1 w - - 0 9,the pawn push temporarily gains black additional space.
+17,Re1,f1e1,r1bq1rk1/pp2bppp/2n1pn2/3p4/2pP4/2P1PNP1/PP1N1PBP/R1BQR1K1 b - - 1 9,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+18,b5,b7b5,r1bq1rk1/p3bppp/2n1pn2/1p1p4/2pP4/2P1PNP1/PP1N1PBP/R1BQR1K1 w - - 0 10,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+19,a3,a2a3,r1bq1rk1/p3bppp/2n1pn2/1p1p4/2pP4/P1P1PNP1/1P1N1PBP/R1BQR1K1 b - - 0 10,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+20,a5,a7a5,r1bq1rk1/4bppp/2n1pn2/pp1p4/2pP4/P1P1PNP1/1P1N1PBP/R1BQR1K1 w - - 0 11,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+21,h3,h2h3,r1bq1rk1/4bppp/2n1pn2/pp1p4/2pP4/P1P1PNPP/1P1N1PB1/R1BQR1K1 b - - 0 11,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+22,Bb7,c8b7,r2q1rk1/1b2bppp/2n1pn2/pp1p4/2pP4/P1P1PNPP/1P1N1PB1/R1BQR1K1 w - - 1 12,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+23,e4,e3e4,r2q1rk1/1b2bppp/2n1pn2/pp1p4/2pPP3/P1P2NPP/1P1N1PB1/R1BQR1K1 b - - 0 12,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+24,Nxe4,f6e4,r2q1rk1/1b2bppp/2n1p3/pp1p4/2pPn3/P1P2NPP/1P1N1PB1/R1BQR1K1 w - - 0 13,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+25,Nxe4,d2e4,r2q1rk1/1b2bppp/2n1p3/pp1p4/2pPN3/P1P2NPP/1P3PB1/R1BQR1K1 b - - 0 13,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+26,dxe4,d5e4,r2q1rk1/1b2bppp/2n1p3/pp6/2pPp3/P1P2NPP/1P3PB1/R1BQR1K1 w - - 0 14,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+27,Rxe4,e1e4,r2q1rk1/1b2bppp/2n1p3/pp6/2pPR3/P1P2NPP/1P3PB1/R1BQ2K1 b - - 0 14,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+28,Nb4,c6b4,r2q1rk1/1b2bppp/4p3/pp6/1npPR3/P1P2NPP/1P3PB1/R1BQ2K1 w - - 1 15,white cannot play 15.PxN since his R would then be lost to black's wB found on b7 after the discovered attack.
+29,Re2,e4e2,r2q1rk1/1b2bppp/4p3/pp6/1npP4/P1P2NPP/1P2RPB1/R1BQ2K1 b - - 2 15,black plants his N firmly in white's backfield.
+30,Nd3,b4d3,r2q1rk1/1b2bppp/4p3/pp6/2pP4/P1Pn1NPP/1P2RPB1/R1BQ2K1 w - - 3 16,black plants his N firmly in white's backfield.
+31,Ne5,f3e5,r2q1rk1/1b2bppp/4p3/pp2N3/2pP4/P1Pn2PP/1P2RPB1/R1BQ2K1 b - - 4 16,black initiates the trade to remove his challenged and unprotected wB.
+32,Bxg2,b7g2,r2q1rk1/4bppp/4p3/pp2N3/2pP4/P1Pn2PP/1P2RPb1/R1BQ2K1 w - - 0 17,black initiates the trade to remove his challenged and unprotected wB.
+33,Kxg2,g1g2,r2q1rk1/4bppp/4p3/pp2N3/2pP4/P1Pn2PP/1P2RPK1/R1BQ4 b - - 0 17,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+34,Nxe5,d3e5,r2q1rk1/4bppp/4p3/pp2n3/2pP4/P1P3PP/1P2RPK1/R1BQ4 w - - 0 18,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+35,Rxe5,e2e5,r2q1rk1/4bppp/4p3/pp2R3/2pP4/P1P3PP/1P3PK1/R1BQ4 b - - 0 18,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+36,Qd7,d8d7,r4rk1/3qbppp/4p3/pp2R3/2pP4/P1P3PP/1P3PK1/R1BQ4 w - - 1 19,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+37,Bd2,c1d2,r4rk1/3qbppp/4p3/pp2R3/2pP4/P1P3PP/1P1B1PK1/R2Q4 b - - 2 19,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+38,f6,f7f6,r4rk1/3qb1pp/4pp2/pp2R3/2pP4/P1P3PP/1P1B1PK1/R2Q4 w - - 0 20,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+39,Re1,e5e1,r4rk1/3qb1pp/4pp2/pp6/2pP4/P1P3PP/1P1B1PK1/R2QR3 b - - 1 20,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+40,Qd5+,d7d5,r4rk1/4b1pp/4pp2/pp1q4/2pP4/P1P3PP/1P1B1PK1/R2QR3 w - - 2 21,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+41,Qf3,d1f3,r4rk1/4b1pp/4pp2/pp1q4/2pP4/P1P2QPP/1P1B1PK1/R3R3 b - - 3 21,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+42,Qxf3+,d5f3,r4rk1/4b1pp/4pp2/pp6/2pP4/P1P2qPP/1P1B1PK1/R3R3 w - - 0 22,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+43,Kxf3,g2f3,r4rk1/4b1pp/4pp2/pp6/2pP4/P1P2KPP/1P1B1P2/R3R3 b - - 0 22,"with both Qs off the board, the question becomes - who can promote a pawn first!"
+44,Kf7,g8f7,r4r2/4bkpp/4pp2/pp6/2pP4/P1P2KPP/1P1B1P2/R3R3 w - - 1 23,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+45,Re2,e1e2,r4r2/4bkpp/4pp2/pp6/2pP4/P1P2KPP/1P1BRP2/R7 b - - 2 23,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+46,Ra6,a8a6,5r2/4bkpp/r3pp2/pp6/2pP4/P1P2KPP/1P1BRP2/R7 w - - 3 24,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+47,Rae1,a1e1,5r2/4bkpp/r3pp2/pp6/2pP4/P1P2KPP/1P1BRP2/4R3 b - - 4 24,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+48,h6,h7h6,5r2/4bkp1/r3pp1p/pp6/2pP4/P1P2KPP/1P1BRP2/4R3 w - - 0 25,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+49,h4,h3h4,5r2/4bkp1/r3pp1p/pp6/2pP3P/P1P2KP1/1P1BRP2/4R3 b - - 0 25,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+50,Re8,f8e8,4r3/4bkp1/r3pp1p/pp6/2pP3P/P1P2KP1/1P1BRP2/4R3 w - - 1 26,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+51,Bf4,d2f4,4r3/4bkp1/r3pp1p/pp6/2pP1B1P/P1P2KP1/1P2RP2/4R3 b - - 2 26,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+52,Bd6,e7d6,4r3/5kp1/r2bpp1p/pp6/2pP1B1P/P1P2KP1/1P2RP2/4R3 w - - 3 27,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+53,Bxd6,f4d6,4r3/5kp1/r2Bpp1p/pp6/2pP3P/P1P2KP1/1P2RP2/4R3 b - - 0 27,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+54,Rxd6,a6d6,4r3/5kp1/3rpp1p/pp6/2pP3P/P1P2KP1/1P2RP2/4R3 w - - 0 28,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+55,Kg4,f3g4,4r3/5kp1/3rpp1p/pp6/2pP2KP/P1P3P1/1P2RP2/4R3 b - - 1 28,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+56,g6,g7g6,4r3/5k2/3rpppp/pp6/2pP2KP/P1P3P1/1P2RP2/4R3 w - - 0 29,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+57,f4,f2f4,4r3/5k2/3rpppp/pp6/2pP1PKP/P1P3P1/1P2R3/4R3 b - - 0 29,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+58,h5+,h6h5,4r3/5k2/3rppp1/pp5p/2pP1PKP/P1P3P1/1P2R3/4R3 w - - 0 30,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+59,Kf3,g4f3,4r3/5k2/3rppp1/pp5p/2pP1P1P/P1P2KP1/1P2R3/4R3 b - - 1 30,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+60,f5,f6f5,4r3/5k2/3rp1p1/pp3p1p/2pP1P1P/P1P2KP1/1P2R3/4R3 w - - 0 31,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+61,Re2e5,e2e5,4r3/5k2/3rp1p1/pp2Rp1p/2pP1P1P/P1P2KP1/1P6/4R3 b - - 1 31,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+62,Rd5,d6d5,4r3/5k2/4p1p1/pp1rRp1p/2pP1P1P/P1P2KP1/1P6/4R3 w - - 2 32,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+63,Re1e2,e1e2,4r3/5k2/4p1p1/pp1rRp1p/2pP1P1P/P1P2KP1/1P2R3/8 b - - 3 32,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+64,Re7,e8e7,8/4rk2/4p1p1/pp1rRp1p/2pP1P1P/P1P2KP1/1P2R3/8 w - - 4 33,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+65,Kf2,f3f2,8/4rk2/4p1p1/pp1rRp1p/2pP1P1P/P1P3P1/1P2RK2/8 b - - 5 33,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+66,Kf6,f7f6,8/4r3/4pkp1/pp1rRp1p/2pP1P1P/P1P3P1/1P2RK2/8 w - - 6 34,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+67,Ke1,f2e1,8/4r3/4pkp1/pp1rRp1p/2pP1P1P/P1P3P1/1P2R3/4K3 b - - 7 34,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."
+68,a4,a5a4,8/4r3/4pkp1/1p1rRp1p/p1pP1P1P/P1P3P1/1P2R3/4K3 w - - 0 35,"from this position black cannot move his K or e7-R away from the current files, or else white breaks through with the R battery. black's d5-R is trapped on its current rank, or else white picks off the b-pawn. 
+ 
+white, meanwhile, could have continued to scoot his K over to Q-side of the board, playing b3, forcing a trade and forcing a win.
+ 
+instead, white chose to accept black's draw offer."

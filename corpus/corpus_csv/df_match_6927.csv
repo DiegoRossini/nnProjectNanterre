@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King pawn opening; White seizes control over the center with this strong move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Black does the same
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White develops his knight while attacking my pawn.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,I activate mine and I protect my e pawn
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Italian opening; white attacks my weak f7 pawn
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,I opt for the two knight defense. Pretty much normal so far
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"White attacks my weak f7 pawn again, and I can't protect it properly"
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5,"Since I got bad results playing d4 here, I decided to play the agressive traxler variation."
+9,Nxf7,g5f7,r1bqk2r/pppp1Npp/2n2n2/2b1p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,? Bxf7 is better here
+10,Bxf2+,c5f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQK2R w KQkq - 0 6,I sac my bishop to bring the white king out in the open.
+11,Kxf2,e1f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1KPP/RNBQ3R b kq - 0 6,White accepts
+12,Nxe4+,f6e4,r1bqk2r/pppp1Npp/2n5/4p3/2B1n3/8/PPPP1KPP/RNBQ3R w kq - 0 7,Checking the king while taking a pawn
+13,Ke3,f2e3,r1bqk2r/pppp1Npp/2n5/4p3/2B1n3/4K3/PPPP2PP/RNBQ3R b kq - 1 7,"?! Now both my queen and knight are attacked, so..."
+14,Qh4,d8h4,r1b1k2r/pppp1Npp/2n5/4p3/2B1n2q/4K3/PPPP2PP/RNBQ3R w kq - 2 8,This move gets my queen out of the knight's attack and protects mine
+15,g3,g2g3,r1b1k2r/pppp1Npp/2n5/4p3/2B1n2q/4K1P1/PPPP3P/RNBQ3R b kq - 0 8,"! Now I must lose a piece, as I can't protect my knight anymore"
+16,Nxg3,e4g3,r1b1k2r/pppp1Npp/2n5/4p3/2B4q/4K1n1/PPPP3P/RNBQ3R w kq - 0 9,So I just sacced it to rip open white king's position
+17,hxg3,h2g3,r1b1k2r/pppp1Npp/2n5/4p3/2B4q/4K1P1/PPPP4/RNBQ3R b kq - 0 9,white accepts
+18,Qd4+,h4d4,r1b1k2r/pppp1Npp/2n5/4p3/2Bq4/4K1P1/PPPP4/RNBQ3R w kq - 1 10,"The best move here, as I keep the initiative"
+19,Kf3,e3f3,r1b1k2r/pppp1Npp/2n5/4p3/2Bq4/5KP1/PPPP4/RNBQ3R b kq - 2 10,Ke2 fails to Qxc4+ followed by Qxf7
+20,d5,d7d5,r1b1k2r/ppp2Npp/2n5/3pp3/2Bq4/5KP1/PPPP4/RNBQ3R w kq - 0 11,"! Attacks the white bishop while treatening Bg4+, winning the queen"

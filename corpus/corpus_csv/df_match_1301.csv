@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is the first game of two that I won against cheeseburger12, where I tried a different tactic as black,  in that I would try some different positions in the first few moves of the opening to become the aggressor. It worked out very well and forced white off its game"
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"This is the first game of two that I won against cheeseburger12, where I tried a different tactic as black,  in that I would try some different positions in the first few moves of the opening to become the aggressor. It worked out very well and forced white off its game"
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"White BC4, Black pawn to e6. Typically I would advance Nc6 however in this game I wanted to change it up a bit."
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,"White BC4, Black pawn to e6. Typically I would advance Nc6 however in this game I wanted to change it up a bit."
+5,Nf3,g1f3,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"White advances Nf3, Black advances Bd6 (This advance of the black bishop was one of the test positions)"
+6,Bd6,f8d6,rnbqk1nr/pp1p1ppp/3bp3/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,"White advances Nf3, Black advances Bd6 (This advance of the black bishop was one of the test positions)"
+7,O-O,e1g1,rnbqk1nr/pp1p1ppp/3bp3/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 4,"White castles, Black advances Qf6 (Another test position by black). Note white Knight position, expecting line of dark squared bishop of white to open to attack the black queen which I noticed after I moved the Queen"
+8,Qf6,d8f6,rnb1k1nr/pp1p1ppp/3bpq2/2p5/2B1P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 5,"White castles, Black advances Qf6 (Another test position by black). Note white Knight position, expecting line of dark squared bishop of white to open to attack the black queen which I noticed after I moved the Queen"
+9,d3,d2d3,rnb1k1nr/pp1p1ppp/3bpq2/2p5/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 5,"white pawn to d3 (dark squared white bishop line now open), black Ne7"
+10,Ne7,g8e7,rnb1k2r/pp1pnppp/3bpq2/2p5/2B1P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 1 6,"white pawn to d3 (dark squared white bishop line now open), black Ne7"
+11,Bg5,c1g5,rnb1k2r/pp1pnppp/3bpq2/2p3B1/2B1P3/3P1N2/PPP2PPP/RN1Q1RK1 b kq - 2 6,"Black advances Queen b2 (My choices of movement were really quite limited so might as well take the pawn), white moves Knight Nb2"
+12,Qxb2,f6b2,rnb1k2r/pp1pnppp/3bp3/2p3B1/2B1P3/3P1N2/PqP2PPP/RN1Q1RK1 w kq - 0 7,"Black advances Queen b2 (My choices of movement were really quite limited so might as well take the pawn), white moves Knight Nb2"
+13,Nbd2,b1d2,rnb1k2r/pp1pnppp/3bp3/2p3B1/2B1P3/3P1N2/PqPN1PPP/R2Q1RK1 b kq - 1 7,"Black advances Queen b2 (My choices of movement were really quite limited so might as well take the pawn), white moves Knight Nb2"
+14,Nbc6,b8c6,r1b1k2r/pp1pnppp/2nbp3/2p3B1/2B1P3/3P1N2/PqPN1PPP/R2Q1RK1 w kq - 2 8,"black advances Nc6, white rook to e1"
+15,Re1,f1e1,r1b1k2r/pp1pnppp/2nbp3/2p3B1/2B1P3/3P1N2/PqPN1PPP/R2QR1K1 b kq - 3 8,"black advances Nc6, white rook to e1"
+16,f6,f7f6,r1b1k2r/pp1pn1pp/2nbpp2/2p3B1/2B1P3/3P1N2/PqPN1PPP/R2QR1K1 w kq - 0 9,"Not wanting to exchange my Knight on e7, I advance pawn to f6. White retreats bishop to h4"
+17,Bh4,g5h4,r1b1k2r/pp1pn1pp/2nbpp2/2p5/2B1P2B/3P1N2/PqPN1PPP/R2QR1K1 b kq - 1 9,"Not wanting to exchange my Knight on e7, I advance pawn to f6. White retreats bishop to h4"
+18,O-O,e8g8,r1b2rk1/pp1pn1pp/2nbpp2/2p5/2B1P2B/3P1N2/PqPN1PPP/R2QR1K1 w - - 2 10,black castles. White advances pawn to a4
+19,a4,a2a4,r1b2rk1/pp1pn1pp/2nbpp2/2p5/P1B1P2B/3P1N2/1qPN1PPP/R2QR1K1 b - - 0 10,black castles. White advances pawn to a4
+20,Nd4,c6d4,r1b2rk1/pp1pn1pp/3bpp2/2p5/P1BnP2B/3P1N2/1qPN1PPP/R2QR1K1 w - - 1 11,"At this point in the game, I knew I had to get my Queen back over to the other side of the board, but again with White Nf3 space is limited. Need to remove the white knight. So exchange occurs (black Nd4- White Nxd4)"
+21,Nxd4,f3d4,r1b2rk1/pp1pn1pp/3bpp2/2p5/P1BNP2B/3P4/1qPN1PPP/R2QR1K1 b - - 0 11,"At this point in the game, I knew I had to get my Queen back over to the other side of the board, but again with White Nf3 space is limited. Need to remove the white knight. So exchange occurs (black Nd4- White Nxd4)"
+22,Qxd4,b2d4,r1b2rk1/pp1pn1pp/3bpp2/2p5/P1BqP2B/3P4/2PN1PPP/R2QR1K1 w - - 0 12,"Black Queen takes White Knight, White advances to Nb3 attacking black queen"
+23,Nb3,d2b3,r1b2rk1/pp1pn1pp/3bpp2/2p5/P1BqP2B/1N1P4/2P2PPP/R2QR1K1 b - - 1 12,"Black Queen takes White Knight, White advances to Nb3 attacking black queen"
+24,Qe5,d4e5,r1b2rk1/pp1pn1pp/3bpp2/2p1q3/P1B1P2B/1N1P4/2P2PPP/R2QR1K1 w - - 2 13,"Black Queen re positions to e5. Note that black is in a more preferred position. Black Bd5 supporting attack on H2, black also has good center control."
+25,a5,a4a5,r1b2rk1/pp1pn1pp/3bpp2/P1p1q3/2B1P2B/1N1P4/2P2PPP/R2QR1K1 b - - 0 13,"Black Queen re positions to e5. Note that black is in a more preferred position. Black Bd5 supporting attack on H2, black also has good center control."
+26,Qxh2+,e5h2,r1b2rk1/pp1pn1pp/3bpp2/P1p5/2B1P2B/1N1P4/2P2PPq/R2QR1K1 w - - 0 14,"Queen advances Qxh2, white king in check and positions black queen to take white bishop on h4"
+27,Kf1,g1f1,r1b2rk1/pp1pn1pp/3bpp2/P1p5/2B1P2B/1N1P4/2P2PPq/R2QRK2 b - - 1 14,"Queen advances Qxh2, white king in check and positions black queen to take white bishop on h4"
+28,Qxh4,h2h4,r1b2rk1/pp1pn1pp/3bpp2/P1p5/2B1P2q/1N1P4/2P2PP1/R2QRK2 w - - 0 15,Black Queen captures bishop. White advances pawn to a6. Not sure why white spent so much time moving the pawn down the board. I assume to free up the rook or fork the black bishop and rook on B7 but in my view those moves should of been spent on other pieces.
+29,a6,a5a6,r1b2rk1/pp1pn1pp/P2bpp2/2p5/2B1P2q/1N1P4/2P2PP1/R2QRK2 b - - 0 15,Black Queen captures bishop. White advances pawn to a6. Not sure why white spent so much time moving the pawn down the board. I assume to free up the rook or fork the black bishop and rook on B7 but in my view those moves should of been spent on other pieces.
+30,Ng6,e7g6,r1b2rk1/pp1p2pp/P2bppn1/2p5/2B1P2q/1N1P4/2P2PP1/R2QRK2 w - - 1 16,"black advances Ng6, White responds with Rook to e3. Note sure of white's move here Not many options. advancing pawns would further break the pawn line and the white queen would be somewhat limited to assist"
+31,Re3,e1e3,r1b2rk1/pp1p2pp/P2bppn1/2p5/2B1P2q/1N1PR3/2P2PP1/R2Q1K2 b - - 2 16,"black advances Ng6, White responds with Rook to e3. Note sure of white's move here Not many options. advancing pawns would further break the pawn line and the white queen would be somewhat limited to assist"
+32,Qh1+,h4h1,r1b2rk1/pp1p2pp/P2bppn1/2p5/2B1P3/1N1PR3/2P2PP1/R2Q1K1q w - - 3 17,"Black re checks the White King on H1, white King now moves to e2"
+33,Ke2,f1e2,r1b2rk1/pp1p2pp/P2bppn1/2p5/2B1P3/1N1PR3/2P1KPP1/R2Q3q b - - 4 17,"Black re checks the White King on H1, white King now moves to e2"
+34,Qxg2,h1g2,r1b2rk1/pp1p2pp/P2bppn1/2p5/2B1P3/1N1PR3/2P1KPq1/R2Q4 w - - 0 18,"Black Queen takes pawn on g2, White takes pawn on b7 and forks the bishop and rook"
+35,axb7,a6b7,r1b2rk1/pP1p2pp/3bppn1/2p5/2B1P3/1N1PR3/2P1KPq1/R2Q4 b - - 0 18,"Black Queen takes pawn on g2, White takes pawn on b7 and forks the bishop and rook"
+36,Bxb7,c8b7,r4rk1/pb1p2pp/3bppn1/2p5/2B1P3/1N1PR3/2P1KPq1/R2Q4 w - - 0 19,"White captures Bxb7, white advances Na5. At this point,  I am not at all concerned with loosing the white bishop"
+37,Na5,b3a5,r4rk1/pb1p2pp/3bppn1/N1p5/2B1P3/3PR3/2P1KPq1/R2Q4 b - - 1 19,"White captures Bxb7, white advances Na5. At this point,  I am not at all concerned with loosing the white bishop"
+38,Nf4+,g6f4,r4rk1/pb1p2pp/3bpp2/N1p5/2B1Pn2/3PR3/2P1KPq1/R2Q4 w - - 2 20,black Nf4 King in check
+39,Kd2,e2d2,r4rk1/pb1p2pp/3bpp2/N1p5/2B1Pn2/3PR3/2PK1Pq1/R2Q4 b - - 3 20,White King retreats to d2

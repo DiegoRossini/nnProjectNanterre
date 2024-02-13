@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's pawn game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's pawn game.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,King's pawn game.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,King's pawn game.
+5,b3,b2b3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/1P3N2/P1PP1PPP/RNBQKB1R b KQkq - 0 3,White usually responds with d3 or Nc3 here--something to protect the e4 pawn.  But the counterattack works for me.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/1P3N2/P1PP1PPP/RNBQKB1R w KQkq - 1 4,White usually responds with d3 or Nc3 here--something to protect the e4 pawn.  But the counterattack works for me.
+7,Bb2,c1b2,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/1P3N2/PBPP1PPP/RN1QKB1R b KQkq - 2 4,White usually responds with d3 or Nc3 here--something to protect the e4 pawn.  But the counterattack works for me.
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p3/4P3/1P3N2/PBPP1PPP/RN1QKB1R w KQkq - 3 5,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+9,Bc4,f1c4,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/1P3N2/PBPP1PPP/RN1QK2R b KQkq - 4 5,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+10,d5,d7d5,r1bqk2r/ppp2ppp/2n2n2/2bpp3/2B1P3/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 0 6,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+11,Bxd5,c4d5,r1bqk2r/ppp2ppp/2n2n2/2bBp3/4P3/1P3N2/PBPP1PPP/RN1QK2R b KQkq - 0 6,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+12,Nxd5,f6d5,r1bqk2r/ppp2ppp/2n5/2bnp3/4P3/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 0 7,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+13,exd5,e4d5,r1bqk2r/ppp2ppp/2n5/2bPp3/8/1P3N2/PBPP1PPP/RN1QK2R b KQkq - 0 7,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+14,Qxd5,d8d5,r1b1k2r/ppp2ppp/2n5/2bqp3/8/1P3N2/PBPP1PPP/RN1QK2R w KQkq - 0 8,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+15,c4,c2c4,r1b1k2r/ppp2ppp/2n5/2bqp3/2P5/1P3N2/PB1P1PPP/RN1QK2R b KQkq - 0 8,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+16,Qe4+,d5e4,r1b1k2r/ppp2ppp/2n5/2b1p3/2P1q3/1P3N2/PB1P1PPP/RN1QK2R w KQkq - 1 9,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+17,Kf1,e1f1,r1b1k2r/ppp2ppp/2n5/2b1p3/2P1q3/1P3N2/PB1P1PPP/RN1Q1K1R b kq - 2 9,"Oh, I like Qe2 much better.  If black trades queens, fine--castling is not nearly as important when the queens are gone."
+18,Qd3+,e4d3,r1b1k2r/ppp2ppp/2n5/2b1p3/2P5/1P1q1N2/PB1P1PPP/RN1Q1K1R w kq - 3 10,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+19,Kg1,f1g1,r1b1k2r/ppp2ppp/2n5/2b1p3/2P5/1P1q1N2/PB1P1PPP/RN1Q2KR b kq - 4 10,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+20,Bg4,c8g4,r3k2r/ppp2ppp/2n5/2b1p3/2P3b1/1P1q1N2/PB1P1PPP/RN1Q2KR w kq - 5 11,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+21,h3,h2h3,r3k2r/ppp2ppp/2n5/2b1p3/2P3b1/1P1q1N1P/PB1P1PP1/RN1Q2KR b kq - 0 11,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+22,Bxf3,g4f3,r3k2r/ppp2ppp/2n5/2b1p3/2P5/1P1q1b1P/PB1P1PP1/RN1Q2KR w kq - 0 12,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+23,gxf3,g2f3,r3k2r/ppp2ppp/2n5/2b1p3/2P5/1P1q1P1P/PB1P1P2/RN1Q2KR b kq - 0 12,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+24,O-O-O,e8c8,2kr3r/ppp2ppp/2n5/2b1p3/2P5/1P1q1P1P/PB1P1P2/RN1Q2KR w - - 1 13,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+25,f4,f3f4,2kr3r/ppp2ppp/2n5/2b1p3/2P2P2/1P1q3P/PB1P1P2/RN1Q2KR b - - 0 13,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+26,exf4,e5f4,2kr3r/ppp2ppp/2n5/2b5/2P2p2/1P1q3P/PB1P1P2/RN1Q2KR w - - 0 14,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+27,Nc3,b1c3,2kr3r/ppp2ppp/2n5/2b5/2P2p2/1PNq3P/PB1P1P2/R2Q2KR b - - 1 14,"Mm, I kind of like Qg4+, which gives up black's f4 pawn to the white queen."
+28,Nd4,c6d4,2kr3r/ppp2ppp/8/2b5/2Pn1p2/1PNq3P/PB1P1P2/R2Q2KR w - - 2 15,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+29,Qg4+,d1g4,2kr3r/ppp2ppp/8/2b5/2Pn1pQ1/1PNq3P/PB1P1P2/R5KR b - - 3 15,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+30,Ne6,d4e6,2kr3r/ppp2ppp/4n3/2b5/2P2pQ1/1PNq3P/PB1P1P2/R5KR w - - 4 16,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+31,Rd1,a1d1,2kr3r/ppp2ppp/4n3/2b5/2P2pQ1/1PNq3P/PB1P1P2/3R2KR b - - 5 16,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+32,f3,f4f3,2kr3r/ppp2ppp/4n3/2b5/2P3Q1/1PNq1p1P/PB1P1P2/3R2KR w - - 0 17,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+33,Nb5,c3b5,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P1q1p1P/PB1P1P2/3R2KR b - - 1 17,"That knight was protecting Rd1 and preventing Qe2.  At b5 it doesn't have as much strategic value.  White might be looking at BxPg7, but that is a poisoned pawn."
+34,Qe2,d3e2,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P3p1P/PB1PqP2/3R2KR w - - 2 18,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+35,Rf1,d1f1,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P3p1P/PB1PqP2/5RKR b - - 3 18,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+36,Qxd2,e2d2,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P3p1P/PB1q1P2/5RKR w - - 0 19,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+37,Bc1,b2c1,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P3p1P/P2q1P2/2B2RKR b - - 1 19,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+38,Qxa2,d2a2,2kr3r/ppp2ppp/4n3/1Nb5/2P3Q1/1P3p1P/q4P2/2B2RKR w - - 0 20,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+39,Qxf3,g4f3,2kr3r/ppp2ppp/4n3/1Nb5/2P5/1P3Q1P/q4P2/2B2RKR b - - 0 20,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+40,Nd4,e6d4,2kr3r/ppp2ppp/8/1Nb5/2Pn4/1P3Q1P/q4P2/2B2RKR w - - 1 21,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+41,Qg4+,f3g4,2kr3r/ppp2ppp/8/1Nb5/2Pn2Q1/1P5P/q4P2/2B2RKR b - - 2 21,"Mm, I like QxPf7 better.  That sets up QxPc7#.  Black's defensive moves leave the black bishop vulnerable."
+42,Rd7,d8d7,2k4r/pppr1ppp/8/1Nb5/2Pn2Q1/1P5P/q4P2/2B2RKR w - - 3 22,Obviously not.  :(
+43,Qxg7,g4g7,2k4r/pppr1pQp/8/1Nb5/2Pn4/1P5P/q4P2/2B2RKR b - - 0 22,Obviously not.  :(
+44,Re8,h8e8,2k1r3/pppr1pQp/8/1Nb5/2Pn4/1P5P/q4P2/2B2RKR w - - 1 23,Obviously not.  :(
+45,Qxh7,g7h7,2k1r3/pppr1p1Q/8/1Nb5/2Pn4/1P5P/q4P2/2B2RKR b - - 0 23,Obviously not.  :(
+46,Ne2+,d4e2,2k1r3/pppr1p1Q/8/1Nb5/2P5/1P5P/q3nP2/2B2RKR w - - 1 24,Obviously not.  :(
+47,Kg2,g1g2,2k1r3/pppr1p1Q/8/1Nb5/2P5/1P5P/q3nPK1/2B2R1R b - - 2 24,Obviously not.  :(
+48,Nxc1,e2c1,2k1r3/pppr1p1Q/8/1Nb5/2P5/1P5P/q4PK1/2n2R1R w - - 0 25,Obviously not.  :(
+49,Rfxc1,f1c1,2k1r3/pppr1p1Q/8/1Nb5/2P5/1P5P/q4PK1/2R4R b - - 0 25,Obviously not.  :(
+50,Qxf2#,a2f2,2k1r3/pppr1p1Q/8/1Nb5/2P5/1P5P/5qK1/2R4R w - - 0 26,

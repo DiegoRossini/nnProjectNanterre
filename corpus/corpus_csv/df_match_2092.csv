@@ -1,0 +1,16 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,normal
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,same
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,queen moves
+4,g6,g7g6,rnbqkbnr/pppp1p1p/6p1/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 0 3,pawn moves
+5,Qxe5+,h5e5,rnbqkbnr/pppp1p1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 0 3,check
+6,Ne7,g8e7,rnbqkb1r/ppppnp1p/6p1/4Q3/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 1 4,safe
+7,Qxh8,e5h8,rnbqkb1Q/ppppnp1p/6p1/8/4P3/8/PPPP1PPP/RNB1KBNR b KQq - 0 4,down 6
+8,Nbc6,b8c6,r1bqkb1Q/ppppnp1p/2n3p1/8/4P3/8/PPPP1PPP/RNB1KBNR w KQq - 1 5,builds minor pieces
+9,Bc4,f1c4,r1bqkb1Q/ppppnp1p/2n3p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQq - 2 5,this game i feel  lost
+10,Nd4,c6d4,r1bqkb1Q/ppppnp1p/6p1/8/2BnP3/8/PPPP1PPP/RNB1K1NR w KQq - 3 6,moves kight
+11,Qxd4,h8d4,r1bqkb2/ppppnp1p/6p1/8/2BQP3/8/PPPP1PPP/RNB1K1NR b KQq - 0 6,down 9
+12,Nf5,e7f5,r1bqkb2/pppp1p1p/6p1/5n2/2BQP3/8/PPPP1PPP/RNB1K1NR w KQq - 1 7,bad move
+13,Qd5,d4d5,r1bqkb2/pppp1p1p/6p1/3Q1n2/2B1P3/8/PPPP1PPP/RNB1K1NR b KQq - 2 7,queen moves
+14,Ne7,f5e7,r1bqkb2/ppppnp1p/6p1/3Q4/2B1P3/8/PPPP1PPP/RNB1K1NR w KQq - 3 8,check mate in one
+15,Qxf7#,d5f7,r1bqkb2/ppppnQ1p/6p1/8/2B1P3/8/PPPP1PPP/RNB1K1NR b KQq - 0 8,I lost

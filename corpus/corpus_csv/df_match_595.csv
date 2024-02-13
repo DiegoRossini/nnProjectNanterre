@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This is only my second game, trying out the Traxler counter gambit. As always, it's a fierce opening which leads to a quick defeat for white after 12 moves."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,So far so good.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,So far so good.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,So far so good.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,So far so good.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,So far so good.
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,"White goes on the attack, bringing forward the knight"
+8,Bc5,f8c5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5,So black counter attacks with the bishop
+9,Nxf7,g5f7,r1bqk2r/pppp1Npp/2n2n2/2b1p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,"This is possibly the more dangerous line for white to take at this point, but also the quickest route to material advantage."
+10,Bxf2+,c5f2,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQK2R w KQkq - 0 6,Take that! - black invites white to take the bishop - opening up all sorts of nasty possibilities for black counterplay
+11,Kf1,e1f1,r1bqk2r/pppp1Npp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b kq - 1 6,Black wisely declines to take the bishop for now and heads for cover on the f file
+12,Qe7,d8e7,r1b1k2r/ppppqNpp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R w kq - 2 7,The black queen moves to safety
+13,Nxh8,f7h8,r1b1k2N/ppppq1pp/2n2n2/4p3/2B1P3/8/PPPP1bPP/RNBQ1K1R b q - 0 7,White chews up the available material
+14,d5,d7d5,r1b1k2N/ppp1q1pp/2n2n2/3pp3/2B1P3/8/PPPP1bPP/RNBQ1K1R w q - 0 8,Black attacks and opens the diagonal for the LSB
+15,exd5,e4d5,r1b1k2N/ppp1q1pp/2n2n2/3Pp3/2B5/8/PPPP1bPP/RNBQ1K1R b q - 0 8,p X p attacking the knight on C6
+16,Nd4,c6d4,r1b1k2N/ppp1q1pp/5n2/3Pp3/2Bn4/8/PPPP1bPP/RNBQ1K1R w q - 1 9,"So the knight joins the attack, moving to d4"
+17,h3,h2h3,r1b1k2N/ppp1q1pp/5n2/3Pp3/2Bn4/7P/PPPP1bP1/RNBQ1K1R b q - 0 9,White pushes the pawn to try and prevent the bishop on C1 staring down the queen on g4
+18,Ne4,f6e4,r1b1k2N/ppp1q1pp/8/3Pp3/2Bnn3/7P/PPPP1bP1/RNBQ1K1R w q - 1 10,"So now the second knight joins the attack, creating a formidable centre"
+19,c3,c2c3,r1b1k2N/ppp1q1pp/8/3Pp3/2Bnn3/2P4P/PP1P1bP1/RNBQ1K1R b q - 0 10,White tries to push the knight from its perch
+20,Qf6,e7f6,r1b1k2N/ppp3pp/5q2/3Pp3/2Bnn3/2P4P/PP1P1bP1/RNBQ1K1R w q - 1 11,Black ignores the threat and creates an instant threat of its own down the f file
+21,g4,g2g4,r1b1k2N/ppp3pp/5q2/3Pp3/2Bnn1P1/2P4P/PP1P1b2/RNBQ1K1R b q - 0 11,"White tries to create an escape hatch, but it's all over"
+22,Bg3+,f2g3,r1b1k2N/ppp3pp/5q2/3Pp3/2Bnn1P1/2P3bP/PP1P4/RNBQ1K1R w q - 1 12,Bishop to g3 check (or to e1) leaves the King facing mate on the next move
+23,Kg1,f1g1,r1b1k2N/ppp3pp/5q2/3Pp3/2Bnn1P1/2P3bP/PP1P4/RNBQ2KR b q - 2 12,The fat lady has sung.....
+24,Qf2#,f6f2,r1b1k2N/ppp3pp/8/3Pp3/2Bnn1P1/2P3bP/PP1P1q2/RNBQ2KR w q - 3 13,The fat lady has sung.....

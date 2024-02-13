@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian...
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian...
+3,f4,f2f4,rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,...aborted or what?
+4,d5,d7d5,rnbqkbnr/pp2pppp/8/2pp4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"I found out that black is better here, as development is better."
+5,exd5,e4d5,rnbqkbnr/pp2pppp/8/2pP4/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,"I found out that black is better here, as development is better."
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/2pP4/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 1 4,"I found out that black is better here, as development is better."
+7,c4,c2c4,rnbqkb1r/pp2pppp/5n2/2pP4/2P2P2/8/PP1P2PP/RNBQKBNR b KQkq - 0 4,"I found out that black is better here, as development is better."
+8,e6,e7e6,rnbqkb1r/pp3ppp/4pn2/2pP4/2P2P2/8/PP1P2PP/RNBQKBNR w KQkq - 0 5,"I found out that black is better here, as development is better."
+9,dxe6,d5e6,rnbqkb1r/pp3ppp/4Pn2/2p5/2P2P2/8/PP1P2PP/RNBQKBNR b KQkq - 0 5,d2 pawn seems very weak
+10,Bxe6,c8e6,rn1qkb1r/pp3ppp/4bn2/2p5/2P2P2/8/PP1P2PP/RNBQKBNR w KQkq - 0 6,d2 pawn seems very weak
+11,b3,b2b3,rn1qkb1r/pp3ppp/4bn2/2p5/2P2P2/1P6/P2P2PP/RNBQKBNR b KQkq - 0 6,front and maybe too fast attack. Real goal is f4.
+12,Qd4,d8d4,rn2kb1r/pp3ppp/4bn2/2p5/2Pq1P2/1P6/P2P2PP/RNBQKBNR w KQkq - 1 7,front and maybe too fast attack. Real goal is f4.
+13,Nc3,b1c3,rn2kb1r/pp3ppp/4bn2/2p5/2Pq1P2/1PN5/P2P2PP/R1BQKBNR b KQkq - 2 7,white king is really in a middle of problems
+14,Qxf4,d4f4,rn2kb1r/pp3ppp/4bn2/2p5/2P2q2/1PN5/P2P2PP/R1BQKBNR w KQkq - 0 8,white king is really in a middle of problems
+15,Nf3,g1f3,rn2kb1r/pp3ppp/4bn2/2p5/2P2q2/1PN2N2/P2P2PP/R1BQKB1R b KQkq - 1 8,white king is really in a middle of problems
+16,Nc6,b8c6,r3kb1r/pp3ppp/2n1bn2/2p5/2P2q2/1PN2N2/P2P2PP/R1BQKB1R w KQkq - 2 9,white king is really in a middle of problems
+17,d4,d2d4,r3kb1r/pp3ppp/2n1bn2/2p5/2PP1q2/1PN2N2/P5PP/R1BQKB1R b KQkq - 0 9,threatening both Bxf4 and d5. But neglecting the central and dangerous position of the king. What weights a queen in front of a king?
+18,Qg4,f4g4,r3kb1r/pp3ppp/2n1bn2/2p5/2PP2q1/1PN2N2/P5PP/R1BQKB1R w KQkq - 1 10,"Looks like black has to pay, now."
+19,d5,d4d5,r3kb1r/pp3ppp/2n1bn2/2pP4/2P3q1/1PN2N2/P5PP/R1BQKB1R b KQkq - 0 10,"Looks like black has to pay, now."
+20,Nd4,c6d4,r3kb1r/pp3ppp/4bn2/2pP4/2Pn2q1/1PN2N2/P5PP/R1BQKB1R w KQkq - 1 11,better was to take the bishop.
+21,Nxd4,f3d4,r3kb1r/pp3ppp/4bn2/2pP4/2PN2q1/1PN5/P5PP/R1BQKB1R b KQkq - 0 11,better was to take the bishop.
+22,cxd4,c5d4,r3kb1r/pp3ppp/4bn2/3P4/2Pp2q1/1PN5/P5PP/R1BQKB1R w KQkq - 0 12,"but no... if dxe6, then dxc3"
+23,Qxg4,d1g4,r3kb1r/pp3ppp/4bn2/3P4/2Pp2Q1/1PN5/P5PP/R1B1KB1R b KQkq - 0 12,"?! Though I still have a win, I think better was here to o-o-o"
+24,Bxg4,e6g4,r3kb1r/pp3ppp/5n2/3P4/2Pp2b1/1PN5/P5PP/R1B1KB1R w KQkq - 0 13,"?! Though I still have a win, I think better was here to o-o-o"
+25,Nb5,c3b5,r3kb1r/pp3ppp/5n2/1N1P4/2Pp2b1/1P6/P5PP/R1B1KB1R b KQkq - 1 13,"?! Though I still have a win, I think better was here to o-o-o"
+26,Bc5,f8c5,r3k2r/pp3ppp/5n2/1NbP4/2Pp2b1/1P6/P5PP/R1B1KB1R w KQkq - 2 14,"?! Though I still have a win, I think better was here to o-o-o"
+27,Nc7+,b5c7,r3k2r/ppN2ppp/5n2/2bP4/2Pp2b1/1P6/P5PP/R1B1KB1R b KQkq - 3 14,You can take it; you still lose.
+28,Kd7,e8d7,r6r/ppNk1ppp/5n2/2bP4/2Pp2b1/1P6/P5PP/R1B1KB1R w KQ - 4 15,You can take it; you still lose.
+29,Nxa8,c7a8,N6r/pp1k1ppp/5n2/2bP4/2Pp2b1/1P6/P5PP/R1B1KB1R b KQ - 0 15,You can take it; you still lose.
+30,Re8+,h8e8,N3r3/pp1k1ppp/5n2/2bP4/2Pp2b1/1P6/P5PP/R1B1KB1R w KQ - 1 16,"No, not Rxa8: time is the key here."
+31,Kf2,e1f2,N3r3/pp1k1ppp/5n2/2bP4/2Pp2b1/1P6/P4KPP/R1B2B1R b - - 2 16,Kd2 was slightly better.
+32,Ne4+,f6e4,N3r3/pp1k1ppp/8/2bP4/2Ppn1b1/1P6/P4KPP/R1B2B1R w - - 3 17,"I guess this is the one move white didn't see. On 16. ... d3+17 Kg3 was safer. Now, it is forbidden by the knight"
+33,Ke1,f2e1,N3r3/pp1k1ppp/8/2bP4/2Ppn1b1/1P6/P5PP/R1B1KB1R b - - 4 17,better than Kg1 facing two-moves death
+34,Ng3+,e4g3,N3r3/pp1k1ppp/8/2bP4/2Pp2b1/1P4n1/P5PP/R1B1KB1R w - - 5 18,"recuperating material, though unnecessary. There was a mate in two by Bb4+"
+35,Kd2,e1d2,N3r3/pp1k1ppp/8/2bP4/2Pp2b1/1P4n1/P2K2PP/R1B2B1R b - - 6 18,"I wonder: maybe was it faster not to take the rook, but I was pointing Nf2"
+36,Nxh1,g3h1,N3r3/pp1k1ppp/8/2bP4/2Pp2b1/1P6/P2K2PP/R1B2B1n w - - 0 19,"I wonder: maybe was it faster not to take the rook, but I was pointing Nf2"
+37,Bb2,c1b2,N3r3/pp1k1ppp/8/2bP4/2Pp2b1/1P6/PB1K2PP/R4B1n b - - 1 19,clearing area for the last rook.
+38,Bb4+,c5b4,N3r3/pp1k1ppp/8/3P4/1bPp2b1/1P6/PB1K2PP/R4B1n w - - 2 20,"it is almost done. On Kc1, Nf2, and on Kc2 the intermediate move was Bf5+ 20. Bd3 Re2+"

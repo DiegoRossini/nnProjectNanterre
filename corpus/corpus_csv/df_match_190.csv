@@ -1,0 +1,59 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"when I face a player at that level, I avoid e5."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"when I face a player at that level, I avoid e5."
+3,d3,d2d3,rnbqkbnr/pp1ppppp/8/2p5/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,"without the d4 move, I decided to go fianchetto"
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3,"without the d4 move, I decided to go fianchetto"
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 2 3,"without the d4 move, I decided to go fianchetto"
+6,g6,g7g6,r1bqkbnr/pp1ppp1p/2n3p1/2p5/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"without the d4 move, I decided to go fianchetto"
+7,Nc3,b1c3,r1bqkbnr/pp1ppp1p/2n3p1/2p5/4P3/2NP1N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,"without the d4 move, I decided to go fianchetto"
+8,Bg7,f8g7,r1bqk1nr/pp1pppbp/2n3p1/2p5/4P3/2NP1N2/PPP2PPP/R1BQKB1R w KQkq - 2 5,"without the d4 move, I decided to go fianchetto"
+9,Bd2,c1d2,r1bqk1nr/pp1pppbp/2n3p1/2p5/4P3/2NP1N2/PPPB1PPP/R2QKB1R b KQkq - 3 5,10 moves without any contact...
+10,d6,d7d6,r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP1N2/PPPB1PPP/R2QKB1R w KQkq - 0 6,10 moves without any contact...
+11,h3,h2h3,r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP1N1P/PPPB1PP1/R2QKB1R b KQkq - 0 6,10 moves without any contact...
+12,e6,e7e6,r1bqk1nr/pp3pbp/2npp1p1/2p5/4P3/2NP1N1P/PPPB1PP1/R2QKB1R w KQkq - 0 7,10 moves without any contact...
+13,Be2,f1e2,r1bqk1nr/pp3pbp/2npp1p1/2p5/4P3/2NP1N1P/PPPBBPP1/R2QK2R b KQkq - 1 7,10 moves without any contact...
+14,Nge7,g8e7,r1bqk2r/pp2npbp/2npp1p1/2p5/4P3/2NP1N1P/PPPBBPP1/R2QK2R w KQkq - 2 8,10 moves without any contact...
+15,O-O,e1g1,r1bqk2r/pp2npbp/2npp1p1/2p5/4P3/2NP1N1P/PPPBBPP1/R2Q1RK1 b kq - 3 8,10 moves without any contact...
+16,O-O,e8g8,r1bq1rk1/pp2npbp/2npp1p1/2p5/4P3/2NP1N1P/PPPBBPP1/R2Q1RK1 w - - 4 9,10 moves without any contact...
+17,a3,a2a3,r1bq1rk1/pp2npbp/2npp1p1/2p5/4P3/P1NP1N1P/1PPBBPP1/R2Q1RK1 b - - 0 9,10 moves without any contact...
+18,a6,a7a6,r1bq1rk1/1p2npbp/p1npp1p1/2p5/4P3/P1NP1N1P/1PPBBPP1/R2Q1RK1 w - - 0 10,10 moves without any contact...
+19,Be3,d2e3,r1bq1rk1/1p2npbp/p1npp1p1/2p5/4P3/P1NPBN1P/1PP1BPP1/R2Q1RK1 b - - 1 10,10 moves without any contact...
+20,Bd7,c8d7,r2q1rk1/1p1bnpbp/p1npp1p1/2p5/4P3/P1NPBN1P/1PP1BPP1/R2Q1RK1 w - - 2 11,10 moves without any contact...
+21,d4,d3d4,r2q1rk1/1p1bnpbp/p1npp1p1/2p5/3PP3/P1N1BN1P/1PP1BPP1/R2Q1RK1 b - - 0 11,first contact
+22,cxd4,c5d4,r2q1rk1/1p1bnpbp/p1npp1p1/8/3pP3/P1N1BN1P/1PP1BPP1/R2Q1RK1 w - - 0 12,mk is still very precautionous. We are both very calm players
+23,Nxd4,f3d4,r2q1rk1/1p1bnpbp/p1npp1p1/8/3NP3/P1N1B2P/1PP1BPP1/R2Q1RK1 b - - 0 12,mk is still very precautionous. We are both very calm players
+24,Qc7,d8c7,r4rk1/1pqbnpbp/p1npp1p1/8/3NP3/P1N1B2P/1PP1BPP1/R2Q1RK1 w - - 1 13,mk is still very precautionous. We are both very calm players
+25,Qd2,d1d2,r4rk1/1pqbnpbp/p1npp1p1/8/3NP3/P1N1B2P/1PPQBPP1/R4RK1 b - - 2 13,mk is still very precautionous. We are both very calm players
+26,Ne5,c6e5,r4rk1/1pqbnpbp/p2pp1p1/4n3/3NP3/P1N1B2P/1PPQBPP1/R4RK1 w - - 3 14,my idea was to point on c3. I must admit my knight was an obstacle.
+27,Nf3,d4f3,r4rk1/1pqbnpbp/p2pp1p1/4n3/4P3/P1N1BN1P/1PPQBPP1/R4RK1 b - - 4 14,"but mk decided to help me, here."
+28,Nxf3+,e5f3,r4rk1/1pqbnpbp/p2pp1p1/8/4P3/P1N1Bn1P/1PPQBPP1/R4RK1 w - - 0 15,"but mk decided to help me, here."
+29,Bxf3,e2f3,r4rk1/1pqbnpbp/p2pp1p1/8/4P3/P1N1BB1P/1PPQ1PP1/R4RK1 b - - 0 15,I never hesitate to give my bishop for pawns doubled
+30,Bxc3,g7c3,r4rk1/1pqbnp1p/p2pp1p1/8/4P3/P1b1BB1P/1PPQ1PP1/R4RK1 w - - 0 16,I never hesitate to give my bishop for pawns doubled
+31,bxc3,b2c3,r4rk1/1pqbnp1p/p2pp1p1/8/4P3/P1P1BB1P/2PQ1PP1/R4RK1 b - - 0 16,"For me this was a very good position, as white have three pawns structures and two are not good. My pawns structures are really good."
+32,Rac8,a8c8,2r2rk1/1pqbnp1p/p2pp1p1/8/4P3/P1P1BB1P/2PQ1PP1/R4RK1 w - - 1 17,"Of course not Bd4, cause of e5"
+33,Rab1,a1b1,2r2rk1/1pqbnp1p/p2pp1p1/8/4P3/P1P1BB1P/2PQ1PP1/1R3RK1 b - - 2 17,"Of course not Bd4, cause of e5"
+34,Bb5,d7b5,2r2rk1/1pq1np1p/p2pp1p1/1b6/4P3/P1P1BB1P/2PQ1PP1/1R3RK1 w - - 3 18,I refused Qxc3 18. Qxc3 Rxc3 19. Rxb7 as I lose the good structure of my pawns and white has the initiative.
+35,Rfd1,f1d1,2r2rk1/1pq1np1p/p2pp1p1/1b6/4P3/P1P1BB1P/2PQ1PP1/1R1R2K1 b - - 4 18,good counter-attack
+36,Rfd8,f8d8,2rr2k1/1pq1np1p/p2pp1p1/1b6/4P3/P1P1BB1P/2PQ1PP1/1R1R2K1 w - - 5 19,of course not Ba4 followed by the Deadly Bb6
+37,Rb3,b1b3,2rr2k1/1pq1np1p/p2pp1p1/1b6/4P3/PRP1BB1P/2PQ1PP1/3R2K1 b - - 6 19,of course not Ba4 followed by the Deadly Bb6
+38,d5,d6d5,2rr2k1/1pq1np1p/p3p1p1/1b1p4/4P3/PRP1BB1P/2PQ1PP1/3R2K1 w - - 0 20,of course not Ba4 followed by the Deadly Bb6
+39,exd5,e4d5,2rr2k1/1pq1np1p/p3p1p1/1b1P4/8/PRP1BB1P/2PQ1PP1/3R2K1 b - - 0 20,i thought white 'd played e5.
+40,Nxd5,e7d5,2rr2k1/1pq2p1p/p3p1p1/1b1n4/8/PRP1BB1P/2PQ1PP1/3R2K1 w - - 0 21,last officer on board!
+41,Bxd5,f3d5,2rr2k1/1pq2p1p/p3p1p1/1b1B4/8/PRP1B2P/2PQ1PP1/3R2K1 b - - 0 21,almost necessary
+42,Rxd5,d8d5,2r3k1/1pq2p1p/p3p1p1/1b1r4/8/PRP1B2P/2PQ1PP1/3R2K1 w - - 0 22,all the opened columns are mine.
+43,Qe1,d2e1,2r3k1/1pq2p1p/p3p1p1/1b1r4/8/PRP1B2P/2P2PP1/3RQ1K1 b - - 1 22,"black answered after that very correctly, until..."
+44,Rxd1,d5d1,2r3k1/1pq2p1p/p3p1p1/1b6/8/PRP1B2P/2P2PP1/3rQ1K1 w - - 0 23,"black answered after that very correctly, until..."
+45,Qxd1,e1d1,2r3k1/1pq2p1p/p3p1p1/1b6/8/PRP1B2P/2P2PP1/3Q2K1 b - - 0 23,"black answered after that very correctly, until..."
+46,Ba4,b5a4,2r3k1/1pq2p1p/p3p1p1/8/b7/PRP1B2P/2P2PP1/3Q2K1 w - - 1 24,"black answered after that very correctly, until..."
+47,Bb6,e3b6,2r3k1/1pq2p1p/pB2p1p1/8/b7/PRP4P/2P2PP1/3Q2K1 b - - 2 24,... this
+48,Qc6,c7c6,2r3k1/1p3p1p/pBq1p1p1/8/b7/PRP4P/2P2PP1/3Q2K1 w - - 3 25,... this
+49,Rb4,b3b4,2r3k1/1p3p1p/pBq1p1p1/8/bR6/P1P4P/2P2PP1/3Q2K1 b - - 4 25,... this
+50,Bb5,a4b5,2r3k1/1p3p1p/pBq1p1p1/1b6/1R6/P1P4P/2P2PP1/3Q2K1 w - - 5 26,... this
+51,Bd4,b6d4,2r3k1/1p3p1p/p1q1p1p1/1b6/1R1B4/P1P4P/2P2PP1/3Q2K1 b - - 6 26,... this
+52,Rd8,c8d8,3r2k1/1p3p1p/p1q1p1p1/1b6/1R1B4/P1P4P/2P2PP1/3Q2K1 w - - 7 27,... this
+53,Qg4,d1g4,3r2k1/1p3p1p/p1q1p1p1/1b6/1R1B2Q1/P1P4P/2P2PP1/6K1 b - - 8 27,... this
+54,Qd5,c6d5,3r2k1/1p3p1p/p3p1p1/1b1q4/1R1B2Q1/P1P4P/2P2PP1/6K1 w - - 9 28,... this
+55,a4,a3a4,3r2k1/1p3p1p/p3p1p1/1b1q4/PR1B2Q1/2P4P/2P2PP1/6K1 b - - 0 28,... this
+56,Bc6,b5c6,3r2k1/1p3p1p/p1b1p1p1/3q4/PR1B2Q1/2P4P/2P2PP1/6K1 w - - 1 29,... this
+57,h4,h3h4,3r2k1/1p3p1p/p1b1p1p1/3q4/PR1B2QP/2P5/2P2PP1/6K1 b - - 0 29,... this
+58,f5,f7f5,3r2k1/1p5p/p1b1p1p1/3q1p2/PR1B2QP/2P5/2P2PP1/6K1 w - - 0 30,"my surprise. I really checked a long time on this. My bet was on advancing f and e pawns and profit on any mistake by white. Of course, white threatens rapidly mate in g7 if I let the queen go there, but for now white must Watch g2, also threatened by mate. I really believed mk was surprised here."

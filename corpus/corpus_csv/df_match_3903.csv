@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Standard opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Standard opening
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Here I opted for some safety on the knights and went of the accepted openings
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Here I opted for some safety on the knights and went of the accepted openings
+5,a3,a2a3,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/P4N2/1PPP1PPP/RNBQKB1R b KQkq - 0 3,Here I opted for some safety on the knights and went of the accepted openings
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/P4N2/1PPP1PPP/RNBQKB1R w KQkq - 0 4,Prepping the Fianchetto
+7,Nc3,b1c3,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R b KQkq - 1 4,Prepping the Fianchetto
+8,Be6,c8e6,r2qkbnr/ppp2ppp/2npb3/4p3/4P3/P1N2N2/1PPP1PPP/R1BQKB1R w KQkq - 2 5,Prepping the Fianchetto
+9,g3,g2g3,r2qkbnr/ppp2ppp/2npb3/4p3/4P3/P1N2NP1/1PPP1P1P/R1BQKB1R b KQkq - 0 5,Prepping the Fianchetto
+10,h6,h7h6,r2qkbnr/ppp2pp1/2npb2p/4p3/4P3/P1N2NP1/1PPP1P1P/R1BQKB1R w KQkq - 0 6,I decided to open up the middle - with unexpected outcome
+11,Bg2,f1g2,r2qkbnr/ppp2pp1/2npb2p/4p3/4P3/P1N2NP1/1PPP1PBP/R1BQK2R b KQkq - 1 6,I decided to open up the middle - with unexpected outcome
+12,Nf6,g8f6,r2qkb1r/ppp2pp1/2npbn1p/4p3/4P3/P1N2NP1/1PPP1PBP/R1BQK2R w KQkq - 2 7,I decided to open up the middle - with unexpected outcome
+13,O-O,e1g1,r2qkb1r/ppp2pp1/2npbn1p/4p3/4P3/P1N2NP1/1PPP1PBP/R1BQ1RK1 b kq - 3 7,I decided to open up the middle - with unexpected outcome
+14,a6,a7a6,r2qkb1r/1pp2pp1/p1npbn1p/4p3/4P3/P1N2NP1/1PPP1PBP/R1BQ1RK1 w kq - 0 8,I decided to open up the middle - with unexpected outcome
+15,d4,d2d4,r2qkb1r/1pp2pp1/p1npbn1p/4p3/3PP3/P1N2NP1/1PP2PBP/R1BQ1RK1 b kq - 0 8,I decided to open up the middle - with unexpected outcome
+16,Nxd4,c6d4,r2qkb1r/1pp2pp1/p2pbn1p/4p3/3nP3/P1N2NP1/1PP2PBP/R1BQ1RK1 w kq - 0 9,exchange accepted
+17,Nxd4,f3d4,r2qkb1r/1pp2pp1/p2pbn1p/4p3/3NP3/P1N3P1/1PP2PBP/R1BQ1RK1 b kq - 0 9,exchange accepted
+18,Bc4,e6c4,r2qkb1r/1pp2pp1/p2p1n1p/4p3/2bNP3/P1N3P1/1PP2PBP/R1BQ1RK1 w kq - 1 10,Did not calculate this
+19,Re1,f1e1,r2qkb1r/1pp2pp1/p2p1n1p/4p3/2bNP3/P1N3P1/1PP2PBP/R1BQR1K1 b kq - 2 10,expected
+20,exd4,e5d4,r2qkb1r/1pp2pp1/p2p1n1p/8/2bpP3/P1N3P1/1PP2PBP/R1BQR1K1 w kq - 0 11,expected
+21,Qxd4,d1d4,r2qkb1r/1pp2pp1/p2p1n1p/8/2bQP3/P1N3P1/1PP2PBP/R1B1R1K1 b kq - 0 11,planned
+22,b5,b7b5,r2qkb1r/2p2pp1/p2p1n1p/1p6/2bQP3/P1N3P1/1PP2PBP/R1B1R1K1 w kq - 0 12,"possibly not the best move, better might have been Be6"
+23,e5,e4e5,r2qkb1r/2p2pp1/p2p1n1p/1p2P3/2bQ4/P1N3P1/1PP2PBP/R1B1R1K1 b kq - 0 12,The planned and long awaited discovery with double attack
+24,Nd7,f6d7,r2qkb1r/2pn1pp1/p2p3p/1p2P3/2bQ4/P1N3P1/1PP2PBP/R1B1R1K1 w kq - 1 13,I did not really calculate and my next move was a blunder - which worked out.....
+25,Bxa8,g2a8,B2qkb1r/2pn1pp1/p2p3p/1p2P3/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 b k - 0 13,"This goes to show how taking in the incorrect order weakens your attack. Some times by changing the order of exchanging pieces can be the difference.  After moving I saw the more forcing serious of moves:
+13.	exd6+	Be7 (Qe7 would lose a queen for a pawn)
+14.	dxe7	Qc8 (Could also play Qb8 without any change in the position)
+15.	Bxa8	Qxa8 (His king is paralyzed in the centre and can not move)
+16.	Qxg7	         (The rook is indefensible and as no choice but to open up the back rank by playing f6 or f5 or move the Knight - this would loose the rook and queen)
+
+You will also note that Nf8 only delays the inevitable - Qxh8, Kd7 - could lead to many variations Qxf8 - Qxf8 exf8=Q leaving me up a queen and knight for the exchange - or exf8=Q leaving me with 2 queens on the back rank.
+
+White is totally dominating the board with this semi forced moves
+
+Not accepting the Queen exchange would lead to e8+Q en possible mate if he moved of the back rank"
+26,Qxa8,d8a8,q3kb1r/2pn1pp1/p2p3p/1p2P3/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 w k - 0 14,"It played out as follows:
+
+Same moves with different ending"
+27,exd6+,e5d6,q3kb1r/2pn1pp1/p2P3p/1p6/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 b k - 0 14,Already there is no forced Be7
+28,Kd8,e8d8,q2k1b1r/2pn1pp1/p2P3p/1p6/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 w - - 1 15,Keeping up to develop with Tempo
+29,dxc7+,d6c7,q2k1b1r/2Pn1pp1/p6p/1p6/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 b - - 0 15,Keeping up to develop with Tempo
+30,Kxc7,d8c7,q4b1r/2kn1pp1/p6p/1p6/2bQ4/P1N3P1/1PP2P1P/R1B1R1K1 w - - 0 16,Bringing another piece into the attack
+31,Bf4+,c1f4,q4b1r/2kn1pp1/p6p/1p6/2bQ1B2/P1N3P1/1PP2P1P/R3R1K1 b - - 1 16,Bringing another piece into the attack
+32,Kd8,c7d8,q2k1b1r/3n1pp1/p6p/1p6/2bQ1B2/P1N3P1/1PP2P1P/R3R1K1 w - - 2 17,"pouring it on - note due to no forced Be7, I can not play Qxg7 and the king is not paralyzed......"
+33,Rad1,a1d1,q2k1b1r/3n1pp1/p6p/1p6/2bQ1B2/P1N3P1/1PP2P1P/3RR1K1 b - - 3 17,"pouring it on - note due to no forced Be7, I can not play Qxg7 and the king is not paralyzed......"
+34,Be6,c4e6,q2k1b1r/3n1pp1/p3b2p/1p6/3Q1B2/P1N3P1/1PP2P1P/3RR1K1 w - - 4 18,Did you see it? He cannot take the Rook due to Qxd7#  here the attack becomes unstoppable due to him not being able to defend  with anything but his queen.
+35,Rxe6,e1e6,q2k1b1r/3n1pp1/p3R2p/1p6/3Q1B2/P1N3P1/1PP2P1P/3R2K1 b - - 0 18,Did you see it? He cannot take the Rook due to Qxd7#  here the attack becomes unstoppable due to him not being able to defend  with anything but his queen.
+36,Qb7,a8b7,3k1b1r/1q1n1pp1/p3R2p/1p6/3Q1B2/P1N3P1/1PP2P1P/3R2K1 w - - 1 19,"What next?  I contemplated this a while, Rxa6 wins another pawn, but there was a more poetic and forcing move for me?
+
+I tried to correct my earlier slip with this"
+37,Rb6,e6b6,3k1b1r/1q1n1pp1/pR5p/1p6/3Q1B2/P1N3P1/1PP2P1P/3R2K1 b - - 2 19,"Here my opponent resigned with good reason:  This would lead to Qa7 or Qc8, only way to keep defending the mate.
+
+Qa7 would lead to Rb8+ if Ke7 then Qxa7 wins a queen outright, if Qc8 the sacrifice of Rb8 forces the queen either to take and leave the defence of the mate square d7 or the king to move away which loses the queen.
+
+Granted my opponent was weaker and made some weaker moves, but I wanted to illustrate the power of finding the correct order of taking pieces.
+
+In the end the result was the same, but the extra moves and effort to calculate was more as the correct line of play would be semi forced....
+
+Any comments, especially on what Black could have done different?"

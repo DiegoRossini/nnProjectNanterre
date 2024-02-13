@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Caro-Kann
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Caro-Kann
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,The Caro-Kann
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,The Caro-Kann
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,...e6 looks better because it protects the bishop.
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,...e6 looks better because it protects the bishop.
+7,Nf3,g1f3,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 4,...e6 looks better because it protects the bishop.
+8,Nd7,b8d7,r2qkbnr/pp1npppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 3 5,...e6 looks better because it protects the bishop.
+9,Be2,f1e2,r2qkbnr/pp1npppp/2p5/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R b KQkq - 4 5,...e6 looks better because it protects the bishop.
+10,f6,f7f6,r2qkbnr/pp1np1pp/2p2p2/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6,...e6 looks better because it protects the bishop.
+11,Nh4,f3h4,r2qkbnr/pp1np1pp/2p2p2/3pPb2/3P3N/8/PPP1BPPP/RNBQK2R b KQkq - 1 6,! Usually it's not wise to put the knight on the edge.  Usually it's not wise to move the same piece twice in the opening.  But here white either wins the bishop pair or black has to play the ugly ...Be6.  (Be4 is met with e6 Nb6. Bh5+ where white is winning after f3)
+12,Bg6,f5g6,r2qkbnr/pp1np1pp/2p2pb1/3pP3/3P3N/8/PPP1BPPP/RNBQK2R w KQkq - 2 7,"? Understandable but still bad.  The best was actually ...Be6, which prevented white's next move."
+13,e6,e5e6,r2qkbnr/pp1np1pp/2p1Ppb1/3p4/3P3N/8/PPP1BPPP/RNBQK2R b KQkq - 0 7,A bolt of lightning!  Suddenly half of black's pieces are permanently out of play.
+14,Nb6,d7b6,r2qkbnr/pp2p1pp/1np1Ppb1/3p4/3P3N/8/PPP1BPPP/RNBQK2R w KQkq - 1 8,Gaining the bishop pair.
+15,Nxg6,h4g6,r2qkbnr/pp2p1pp/1np1PpN1/3p4/3P4/8/PPP1BPPP/RNBQK2R b KQkq - 0 8,Gaining the bishop pair.
+16,hxg6,h7g6,r2qkbnr/pp2p1p1/1np1Ppp1/3p4/3P4/8/PPP1BPPP/RNBQK2R w KQkq - 0 9,Winning the pawn on g6.
+17,Qd3,d1d3,r2qkbnr/pp2p1p1/1np1Ppp1/3p4/3P4/3Q4/PPP1BPPP/RNB1K2R b KQkq - 1 9,Winning the pawn on g6.
+18,Qd6,d8d6,r3kbnr/pp2p1p1/1npqPpp1/3p4/3P4/3Q4/PPP1BPPP/RNB1K2R w KQkq - 2 10,Displacing the king.
+19,Qxg6+,d3g6,r3kbnr/pp2p1p1/1npqPpQ1/3p4/3P4/8/PPP1BPPP/RNB1K2R b KQkq - 0 10,Displacing the king.
+20,Kd8,e8d8,r2k1bnr/pp2p1p1/1npqPpQ1/3p4/3P4/8/PPP1BPPP/RNB1K2R w KQ - 1 11,"This may look strange, but I felt that I had to protect e6.  This also keeps the black bishop jailed and forces black's next move."
+21,Qf7,g6f7,r2k1bnr/pp2pQp1/1npqPp2/3p4/3P4/8/PPP1BPPP/RNB1K2R b KQ - 2 11,"This may look strange, but I felt that I had to protect e6.  This also keeps the black bishop jailed and forces black's next move."
+22,Kc7,d8c7,r4bnr/ppk1pQp1/1npqPp2/3p4/3P4/8/PPP1BPPP/RNB1K2R w KQ - 3 12,h2 was threatened.
+23,h3,h2h3,r4bnr/ppk1pQp1/1npqPp2/3p4/3P4/7P/PPP1BPP1/RNB1K2R b KQ - 0 12,h2 was threatened.
+24,Nh6,g8h6,r4b1r/ppk1pQp1/1npqPp1n/3p4/3P4/7P/PPP1BPP1/RNB1K2R w KQ - 1 13,Forced if I don't want to give back the pawn.
+25,Bxh6,c1h6,r4b1r/ppk1pQp1/1npqPp1B/3p4/3P4/7P/PPP1BPP1/RN2K2R b KQ - 0 13,Forced if I don't want to give back the pawn.
+26,Rxh6,h8h6,r4b2/ppk1pQp1/1npqPp1r/3p4/3P4/7P/PPP1BPP1/RN2K2R w KQ - 0 14,"I played this over Nc3 because I wanted the knight on c5 via a d2, b3, c5 maneuver."
+27,c3,c2c3,r4b2/ppk1pQp1/1npqPp1r/3p4/3P4/2P4P/PP2BPP1/RN2K2R b KQ - 0 14,"I played this over Nc3 because I wanted the knight on c5 via a d2, b3, c5 maneuver."
+28,Na4,b6a4,r4b2/ppk1pQp1/2pqPp1r/3p4/n2P4/2P4P/PP2BPP1/RN2K2R w KQ - 1 15,"? Missing important counterplay.  Best was Qf4, threatening Qc1+ and then winning the c-pawn.  I would have responded with 0-0.  But the resulting position is better for black than the text."
+29,b3,b2b3,r4b2/ppk1pQp1/2pqPp1r/3p4/n2P4/1PP4P/P3BPP1/RN2K2R b KQ - 0 15,"? Missing important counterplay.  Best was Qf4, threatening Qc1+ and then winning the c-pawn.  I would have responded with 0-0.  But the resulting position is better for black than the text."
+30,Nb6,a4b6,r4b2/ppk1pQp1/1npqPp1r/3p4/3P4/1PP4P/P3BPP1/RN2K2R w KQ - 1 16,"? Missing important counterplay.  Best was Qf4, threatening Qc1+ and then winning the c-pawn.  I would have responded with 0-0.  But the resulting position is better for black than the text."
+31,a4,a2a4,r4b2/ppk1pQp1/1npqPp1r/3p4/P2P4/1PP4P/4BPP1/RN2K2R b KQ - 0 16,Where's the knight to go?
+32,Rd8,a8d8,3r1b2/ppk1pQp1/1npqPp1r/3p4/P2P4/1PP4P/4BPP1/RN2K2R w KQ - 1 17,Where's the knight to go?
+33,a5,a4a5,3r1b2/ppk1pQp1/1npqPp1r/P2p4/3P4/1PP4P/4BPP1/RN2K2R b KQ - 0 17,Where's the knight to go?
+34,Na8,b6a8,n2r1b2/ppk1pQp1/2pqPp1r/P2p4/3P4/1PP4P/4BPP1/RN2K2R w KQ - 1 18,"I think Nc8 was better, though not by much."
+35,Bg4,e2g4,n2r1b2/ppk1pQp1/2pqPp1r/P2p4/3P2B1/1PP4P/5PP1/RN2K2R b KQ - 2 18,Rook lift to e2.
+36,g6,g7g6,n2r1b2/ppk1pQ2/2pqPppr/P2p4/3P2B1/1PP4P/5PP1/RN2K2R w KQ - 0 19,Rook lift to e2.
+37,Ra2,a1a2,n2r1b2/ppk1pQ2/2pqPppr/P2p4/3P2B1/1PP4P/R4PP1/1N2K2R b K - 1 19,Rook lift to e2.
+38,Kb8,c7b8,nk1r1b2/pp2pQ2/2pqPppr/P2p4/3P2B1/1PP4P/R4PP1/1N2K2R w K - 2 20,To give his knight a square.
+39,Re2,a2e2,nk1r1b2/pp2pQ2/2pqPppr/P2p4/3P2B1/1PP4P/4RPP1/1N2K2R b K - 3 20,"Better was ...c5, which would create play on the d-file, where black is strongest."
+40,Nc7,a8c7,1k1r1b2/ppn1pQ2/2pqPppr/P2p4/3P2B1/1PP4P/4RPP1/1N2K2R w K - 4 21,"Better was ...c5, which would create play on the d-file, where black is strongest."
+41,Re3,e2e3,1k1r1b2/ppn1pQ2/2pqPppr/P2p4/3P2B1/1PP1R2P/5PP1/1N2K2R b K - 5 21,"Better was ...c5, which would create play on the d-file, where black is strongest."
+42,f5,f6f5,1k1r1b2/ppn1pQ2/2pqP1pr/P2p1p2/3P2B1/1PP1R2P/5PP1/1N2K2R w K - 0 22,"Better was ...c5, which would create play on the d-file, where black is strongest."
+43,Bf3,g4f3,1k1r1b2/ppn1pQ2/2pqP1pr/P2p1p2/3P4/1PP1RB1P/5PP1/1N2K2R b K - 1 22,"Shutting off the queen and threatening f4.  Note that, just by glancing at the board, white's h-pawn could become deadly if black doesn't create complications soon, as black has no means to stop its advance."
+44,f4,f5f4,1k1r1b2/ppn1pQ2/2pqP1pr/P2p4/3P1p2/1PP1RB1P/5PP1/1N2K2R w K - 0 23,"Shutting off the queen and threatening f4.  Note that, just by glancing at the board, white's h-pawn could become deadly if black doesn't create complications soon, as black has no means to stop its advance."
+45,Re5,e3e5,1k1r1b2/ppn1pQ2/2pqP1pr/P2pR3/3P1p2/1PP2B1P/5PP1/1N2K2R b K - 1 23,"Shutting off the queen and threatening f4.  Note that, just by glancing at the board, white's h-pawn could become deadly if black doesn't create complications soon, as black has no means to stop its advance."
+46,g5,g6g5,1k1r1b2/ppn1pQ2/2pqP2r/P2pR1p1/3P1p2/1PP2B1P/5PP1/1N2K2R w K - 0 24,I decided to make this pawn trade to gain a passed pawn.
+47,Rxg5,e5g5,1k1r1b2/ppn1pQ2/2pqP2r/P2p2R1/3P1p2/1PP2B1P/5PP1/1N2K2R b K - 0 24,I decided to make this pawn trade to gain a passed pawn.

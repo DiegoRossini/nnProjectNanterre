@@ -1,0 +1,90 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Indian Opening.  This one tends to be better for black.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Indian Opening.  This one tends to be better for black.
+3,d3,d2d3,rnbqkbnr/pppp1ppp/8/4p3/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,Indian Opening.  This one tends to be better for black.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3,Unless white plans to put something at g5 these edge pawn moves are kind of weak.  Better to develop the center.
+5,Be2,f1e2,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/3P4/PPP1BPPP/RNBQK1NR b KQkq - 2 3,Unless white plans to put something at g5 these edge pawn moves are kind of weak.  Better to develop the center.
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/3P4/PPP1BPPP/RNBQK1NR w KQkq - 3 4,Unless white plans to put something at g5 these edge pawn moves are kind of weak.  Better to develop the center.
+7,Nc3,b1c3,r1bqk1nr/pppp1ppp/2n5/2b1p3/4P3/2NP4/PPP1BPPP/R1BQK1NR b KQkq - 4 4,Unless white plans to put something at g5 these edge pawn moves are kind of weak.  Better to develop the center.
+8,h6,h7h6,r1bqk1nr/pppp1pp1/2n4p/2b1p3/4P3/2NP4/PPP1BPPP/R1BQK1NR w KQkq - 0 5,Unless white plans to put something at g5 these edge pawn moves are kind of weak.  Better to develop the center.
+9,Nd5,c3d5,r1bqk1nr/pppp1pp1/2n4p/2bNp3/4P3/3P4/PPP1BPPP/R1BQK1NR b KQkq - 1 5,"Ah, in this instance the pawn move (h6) makes good sense."
+10,Nf6,g8f6,r1bqk2r/pppp1pp1/2n2n1p/2bNp3/4P3/3P4/PPP1BPPP/R1BQK1NR w KQkq - 2 6,"Ah, in this instance the pawn move (h6) makes good sense."
+11,Be3,c1e3,r1bqk2r/pppp1pp1/2n2n1p/2bNp3/4P3/3PB3/PPP1BPPP/R2QK1NR b KQkq - 3 6,Shifting back and forth wastes opportunity.
+12,Bxe3,c5e3,r1bqk2r/pppp1pp1/2n2n1p/3Np3/4P3/3Pb3/PPP1BPPP/R2QK1NR w KQkq - 0 7,Shifting back and forth wastes opportunity.
+13,Nxe3,d5e3,r1bqk2r/pppp1pp1/2n2n1p/4p3/4P3/3PN3/PPP1BPPP/R2QK1NR b KQkq - 0 7,Shifting back and forth wastes opportunity.
+14,d6,d7d6,r1bqk2r/ppp2pp1/2np1n1p/4p3/4P3/3PN3/PPP1BPPP/R2QK1NR w KQkq - 0 8,Shifting back and forth wastes opportunity.
+15,Nf3,g1f3,r1bqk2r/ppp2pp1/2np1n1p/4p3/4P3/3PNN2/PPP1BPPP/R2QK2R b KQkq - 1 8,Shifting back and forth wastes opportunity.
+16,Bg4,c8g4,r2qk2r/ppp2pp1/2np1n1p/4p3/4P1b1/3PNN2/PPP1BPPP/R2QK2R w KQkq - 2 9,Shifting back and forth wastes opportunity.
+17,Ng1,f3g1,r2qk2r/ppp2pp1/2np1n1p/4p3/4P1b1/3PN3/PPP1BPPP/R2QK1NR b KQkq - 3 9,Shifting back and forth wastes opportunity.
+18,Bxe2,g4e2,r2qk2r/ppp2pp1/2np1n1p/4p3/4P3/3PN3/PPP1bPPP/R2QK1NR w KQkq - 0 10,Shifting back and forth wastes opportunity.
+19,Nxe2,g1e2,r2qk2r/ppp2pp1/2np1n1p/4p3/4P3/3PN3/PPP1NPPP/R2QK2R b KQkq - 0 10,Shifting back and forth wastes opportunity.
+20,O-O,e8g8,r2q1rk1/ppp2pp1/2np1n1p/4p3/4P3/3PN3/PPP1NPPP/R2QK2R w KQ - 1 11,Shifting back and forth wastes opportunity.
+21,Nf5,e3f5,r2q1rk1/ppp2pp1/2np1n1p/4pN2/4P3/3P4/PPP1NPPP/R2QK2R b KQ - 2 11,Shifting back and forth wastes opportunity.
+22,Ne7,c6e7,r2q1rk1/ppp1npp1/3p1n1p/4pN2/4P3/3P4/PPP1NPPP/R2QK2R w KQ - 3 12,Shifting back and forth wastes opportunity.
+23,Ne3,f5e3,r2q1rk1/ppp1npp1/3p1n1p/4p3/4P3/3PN3/PPP1NPPP/R2QK2R b KQ - 4 12,Shifting back and forth wastes opportunity.
+24,Qd7,d8d7,r4rk1/pppqnpp1/3p1n1p/4p3/4P3/3PN3/PPP1NPPP/R2QK2R w KQ - 5 13,Shifting back and forth wastes opportunity.
+25,Qd2,d1d2,r4rk1/pppqnpp1/3p1n1p/4p3/4P3/3PN3/PPPQNPPP/R3K2R b KQ - 6 13,Shifting back and forth wastes opportunity.
+26,Qb5,d7b5,r4rk1/ppp1npp1/3p1n1p/1q2p3/4P3/3PN3/PPPQNPPP/R3K2R w KQ - 7 14,Shifting back and forth wastes opportunity.
+27,O-O-O,e1c1,r4rk1/ppp1npp1/3p1n1p/1q2p3/4P3/3PN3/PPPQNPPP/2KR3R b - - 8 14,Shifting back and forth wastes opportunity.
+28,Nc6,e7c6,r4rk1/ppp2pp1/2np1n1p/1q2p3/4P3/3PN3/PPPQNPPP/2KR3R w - - 9 15,Shifting back and forth wastes opportunity.
+29,a3,a2a3,r4rk1/ppp2pp1/2np1n1p/1q2p3/4P3/P2PN3/1PPQNPPP/2KR3R b - - 0 15,Shifting back and forth wastes opportunity.
+30,Ne7,c6e7,r4rk1/ppp1npp1/3p1n1p/1q2p3/4P3/P2PN3/1PPQNPPP/2KR3R w - - 1 16,Shifting back and forth wastes opportunity.
+31,h4,h2h4,r4rk1/ppp1npp1/3p1n1p/1q2p3/4P2P/P2PN3/1PPQNPP1/2KR3R b - - 0 16,Watch out for Nb6 forking the queen and rook.
+32,a5,a7a5,r4rk1/1pp1npp1/3p1n1p/pq2p3/4P2P/P2PN3/1PPQNPP1/2KR3R w - - 0 17,Watch out for Nb6 forking the queen and rook.
+33,Nc3,e2c3,r4rk1/1pp1npp1/3p1n1p/pq2p3/4P2P/P1NPN3/1PPQ1PP1/2KR3R b - - 1 17,Watch out for Nb6 forking the queen and rook.
+34,Qc6,b5c6,r4rk1/1pp1npp1/2qp1n1p/p3p3/4P2P/P1NPN3/1PPQ1PP1/2KR3R w - - 2 18,Watch out for Nb6 forking the queen and rook.
+35,f3,f2f3,r4rk1/1pp1npp1/2qp1n1p/p3p3/4P2P/P1NPNP2/1PPQ2P1/2KR3R b - - 0 18,Watch out for Nb6 forking the queen and rook.
+36,Ng6,e7g6,r4rk1/1pp2pp1/2qp1nnp/p3p3/4P2P/P1NPNP2/1PPQ2P1/2KR3R w - - 1 19,Watch out for Nb6 forking the queen and rook.
+37,Ng4,e3g4,r4rk1/1pp2pp1/2qp1nnp/p3p3/4P1NP/P1NP1P2/1PPQ2P1/2KR3R b - - 2 19,Watch out for Nb6 forking the queen and rook.
+38,Nxg4,f6g4,r4rk1/1pp2pp1/2qp2np/p3p3/4P1nP/P1NP1P2/1PPQ2P1/2KR3R w - - 0 20,Watch out for Nb6 forking the queen and rook.
+39,fxg4,f3g4,r4rk1/1pp2pp1/2qp2np/p3p3/4P1PP/P1NP4/1PPQ2P1/2KR3R b - - 0 20,Watch out for Nb6 forking the queen and rook.
+40,Qd7,c6d7,r4rk1/1ppq1pp1/3p2np/p3p3/4P1PP/P1NP4/1PPQ2P1/2KR3R w - - 1 21,Watch out for Nb6 forking the queen and rook.
+41,Qe2,d2e2,r4rk1/1ppq1pp1/3p2np/p3p3/4P1PP/P1NP4/1PP1Q1P1/2KR3R b - - 2 21,Watch out for Nb6 forking the queen and rook.
+42,c5,c7c5,r4rk1/1p1q1pp1/3p2np/p1p1p3/4P1PP/P1NP4/1PP1Q1P1/2KR3R w - - 0 22,Watch out for Nb6 forking the queen and rook.
+43,g3,g2g3,r4rk1/1p1q1pp1/3p2np/p1p1p3/4P1PP/P1NP2P1/1PP1Q3/2KR3R b - - 0 22,Watch out for Nb6 forking the queen and rook.
+44,b5,b7b5,r4rk1/3q1pp1/3p2np/ppp1p3/4P1PP/P1NP2P1/1PP1Q3/2KR3R w - - 0 23,Watch out for Nb6 forking the queen and rook.
+45,Nd5,c3d5,r4rk1/3q1pp1/3p2np/pppNp3/4P1PP/P2P2P1/1PP1Q3/2KR3R b - - 1 23,Watch out for Nb6 forking the queen and rook.
+46,b4,b5b4,r4rk1/3q1pp1/3p2np/p1pNp3/1p2P1PP/P2P2P1/1PP1Q3/2KR3R w - - 0 24,Blunder.  White now trades knight for rook.
+47,Nb6,d5b6,r4rk1/3q1pp1/1N1p2np/p1p1p3/1p2P1PP/P2P2P1/1PP1Q3/2KR3R b - - 1 24,What?  Trade knight for rook ANY day and twice on Sunday!
+48,Qb7,d7b7,r4rk1/1q3pp1/1N1p2np/p1p1p3/1p2P1PP/P2P2P1/1PP1Q3/2KR3R w - - 2 25,What?  Trade knight for rook ANY day and twice on Sunday!
+49,Nc4,b6c4,r4rk1/1q3pp1/3p2np/p1p1p3/1pN1P1PP/P2P2P1/1PP1Q3/2KR3R b - - 3 25,What?  Trade knight for rook ANY day and twice on Sunday!
+50,Rfd8,f8d8,r2r2k1/1q3pp1/3p2np/p1p1p3/1pN1P1PP/P2P2P1/1PP1Q3/2KR3R w - - 4 26,Rab8 might have been better first.
+51,h5,h4h5,r2r2k1/1q3pp1/3p2np/p1p1p2P/1pN1P1P1/P2P2P1/1PP1Q3/2KR3R b - - 0 26,Rab8 might have been better first.
+52,Ne7,g6e7,r2r2k1/1q2npp1/3p3p/p1p1p2P/1pN1P1P1/P2P2P1/1PP1Q3/2KR3R w - - 1 27,Rab8 might have been better first.
+53,Qf3,e2f3,r2r2k1/1q2npp1/3p3p/p1p1p2P/1pN1P1P1/P2P1QP1/1PP5/2KR3R b - - 2 27,Rab8 might have been better first.
+54,bxa3,b4a3,r2r2k1/1q2npp1/3p3p/p1p1p2P/2N1P1P1/p2P1QP1/1PP5/2KR3R w - - 0 28,Rab8 might have been better first.
+55,Nxa3,c4a3,r2r2k1/1q2npp1/3p3p/p1p1p2P/4P1P1/N2P1QP1/1PP5/2KR3R b - - 0 28,f6 might have been better.
+56,Rdb8,d8b8,rr4k1/1q2npp1/3p3p/p1p1p2P/4P1P1/N2P1QP1/1PP5/2KR3R w - - 1 29,f6 might have been better.
+57,b3,b2b3,rr4k1/1q2npp1/3p3p/p1p1p2P/4P1P1/NP1P1QP1/2P5/2KR3R b - - 0 29,f6 might have been better.
+58,a4,a5a4,rr4k1/1q2npp1/3p3p/2p1p2P/p3P1P1/NP1P1QP1/2P5/2KR3R w - - 0 30,f6 might have been better.
+59,Kd2,c1d2,rr4k1/1q2npp1/3p3p/2p1p2P/p3P1P1/NP1P1QP1/2PK4/3R3R b - - 1 30,f6 might have been better.
+60,axb3,a4b3,rr4k1/1q2npp1/3p3p/2p1p2P/4P1P1/Np1P1QP1/2PK4/3R3R w - - 0 31,f6 might have been better.
+61,Rhf1,h1f1,rr4k1/1q2npp1/3p3p/2p1p2P/4P1P1/Np1P1QP1/2PK4/3R1R2 b - - 1 31,f6 might have been better.
+62,Rbf8,b8f8,r4rk1/1q2npp1/3p3p/2p1p2P/4P1P1/Np1P1QP1/2PK4/3R1R2 w - - 2 32,f6 might have been better.
+63,g5,g4g5,r4rk1/1q2npp1/3p3p/2p1p1PP/4P3/Np1P1QP1/2PK4/3R1R2 b - - 0 32,Solid!
+64,hxg5,h6g5,r4rk1/1q2npp1/3p4/2p1p1pP/4P3/Np1P1QP1/2PK4/3R1R2 w - - 0 33,Solid!
+65,h6,h5h6,r4rk1/1q2npp1/3p3P/2p1p1p1/4P3/Np1P1QP1/2PK4/3R1R2 b - - 0 33,Solid!
+66,gxh6,g7h6,r4rk1/1q2np2/3p3p/2p1p1p1/4P3/Np1P1QP1/2PK4/3R1R2 w - - 0 34,Solid!
+67,Rdb1,d1b1,r4rk1/1q2np2/3p3p/2p1p1p1/4P3/Np1P1QP1/2PK4/1R3R2 b - - 1 34,Solid!
+68,Rxa3,a8a3,5rk1/1q2np2/3p3p/2p1p1p1/4P3/rp1P1QP1/2PK4/1R3R2 w - - 0 35,Solid!
+69,Qf6,f3f6,5rk1/1q2np2/3p1Q1p/2p1p1p1/4P3/rp1P2P1/2PK4/1R3R2 b - - 1 35,
+70,Ng6,e7g6,5rk1/1q3p2/3p1Qnp/2p1p1p1/4P3/rp1P2P1/2PK4/1R3R2 w - - 2 36,
+71,Qxd6,f6d6,5rk1/1q3p2/3Q2np/2p1p1p1/4P3/rp1P2P1/2PK4/1R3R2 b - - 0 36,
+72,b2,b3b2,5rk1/1q3p2/3Q2np/2p1p1p1/4P3/r2P2P1/1pPK4/1R3R2 w - - 0 37,
+73,Qxc5,d6c5,5rk1/1q3p2/6np/2Q1p1p1/4P3/r2P2P1/1pPK4/1R3R2 b - - 0 37,
+74,Rc8,f8c8,2r3k1/1q3p2/6np/2Q1p1p1/4P3/r2P2P1/1pPK4/1R3R2 w - - 1 38,
+75,Qxa3,c5a3,2r3k1/1q3p2/6np/4p1p1/4P3/Q2P2P1/1pPK4/1R3R2 b - - 0 38,
+76,Ra8,c8a8,r5k1/1q3p2/6np/4p1p1/4P3/Q2P2P1/1pPK4/1R3R2 w - - 1 39,
+77,Qxb2,a3b2,r5k1/1q3p2/6np/4p1p1/4P3/3P2P1/1QPK4/1R3R2 b - - 0 39,
+78,Qc6,b7c6,r5k1/5p2/2q3np/4p1p1/4P3/3P2P1/1QPK4/1R3R2 w - - 1 40,
+79,Rba1,b1a1,r5k1/5p2/2q3np/4p1p1/4P3/3P2P1/1QPK4/R4R2 b - - 2 40,
+80,Rd8,a8d8,3r2k1/5p2/2q3np/4p1p1/4P3/3P2P1/1QPK4/R4R2 w - - 3 41,
+81,Qb3,b2b3,3r2k1/5p2/2q3np/4p1p1/4P3/1Q1P2P1/2PK4/R4R2 b - - 4 41,
+82,Rd7,d8d7,6k1/3r1p2/2q3np/4p1p1/4P3/1Q1P2P1/2PK4/R4R2 w - - 5 42,
+83,Qb8+,b3b8,1Q4k1/3r1p2/2q3np/4p1p1/4P3/3P2P1/2PK4/R4R2 b - - 6 42,
+84,Kg7,g8g7,1Q6/3r1pk1/2q3np/4p1p1/4P3/3P2P1/2PK4/R4R2 w - - 7 43,
+85,Ra8,a1a8,RQ6/3r1pk1/2q3np/4p1p1/4P3/3P2P1/2PK4/5R2 b - - 8 43,
+86,Ne7,g6e7,RQ6/3rnpk1/2q4p/4p1p1/4P3/3P2P1/2PK4/5R2 w - - 9 44,
+87,Qf8+,b8f8,R4Q2/3rnpk1/2q4p/4p1p1/4P3/3P2P1/2PK4/5R2 b - - 10 44,
+88,Kg6,g7g6,R4Q2/3rnp2/2q3kp/4p1p1/4P3/3P2P1/2PK4/5R2 w - - 11 45,
+89,Qxf7#,f8f7,R7/3rnQ2/2q3kp/4p1p1/4P3/3P2P1/2PK4/5R2 b - - 0 45,

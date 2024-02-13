@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White decides to go for broke with the B-sac.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,White decides to go for broke with the B-sac.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 2,White decides to go for broke with the B-sac.
+4,Nc6,b8c6,r1bqkb1r/pppppppp/2n2n2/8/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 3 3,White decides to go for broke with the B-sac.
+5,Nf3,g1f3,r1bqkb1r/pppppppp/2n2n2/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 4 3,White decides to go for broke with the B-sac.
+6,e5,e7e5,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,White decides to go for broke with the B-sac.
+7,Bc4,f1c4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,White decides to go for broke with the B-sac.
+8,Na5,c6a5,r1bqkb1r/pppp1ppp/5n2/n3p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,White decides to go for broke with the B-sac.
+9,Bxf7+,c4f7,r1bqkb1r/pppp1Bpp/5n2/n3p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5,White decides to go for broke with the B-sac.
+10,Kxf7,e8f7,r1bq1b1r/pppp1kpp/5n2/n3p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQ - 0 6,continues checking while snatching up a center pawn.
+11,Nxe5+,f3e5,r1bq1b1r/pppp1kpp/5n2/n3N3/4P3/2N5/PPPP1PPP/R1BQK2R b KQ - 0 6,continues checking while snatching up a center pawn.
+12,Ke6,f7e6,r1bq1b1r/pppp2pp/4kn2/n3N3/4P3/2N5/PPPP1PPP/R1BQK2R w KQ - 1 7,"better is 6....Kh8.
+ 
+this move exposes black's K."
+13,d4,d2d4,r1bq1b1r/pppp2pp/4kn2/n3N3/3PP3/2N5/PPP2PPP/R1BQK2R b KQ - 0 7,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+14,d6,d7d6,r1bq1b1r/ppp3pp/3pkn2/n3N3/3PP3/2N5/PPP2PPP/R1BQK2R w KQ - 0 8,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+15,Nf3,e5f3,r1bq1b1r/ppp3pp/3pkn2/n7/3PP3/2N2N2/PPP2PPP/R1BQK2R b KQ - 1 8,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+16,Kf7,e6f7,r1bq1b1r/ppp2kpp/3p1n2/n7/3PP3/2N2N2/PPP2PPP/R1BQK2R w KQ - 2 9,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+17,Ng5+,f3g5,r1bq1b1r/ppp2kpp/3p1n2/n5N1/3PP3/2N5/PPP2PPP/R1BQK2R b KQ - 3 9,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+18,Kg6,f7g6,r1bq1b1r/ppp3pp/3p1nk1/n5N1/3PP3/2N5/PPP2PPP/R1BQK2R w KQ - 4 10,"again, better is Kh8!
+ 
+this time black's K is ompletely unable to recover from its exposure."
+19,f4,f2f4,r1bq1b1r/ppp3pp/3p1nk1/n5N1/3PPP2/2N5/PPP3PP/R1BQK2R b KQ - 0 10,"black has 1 recourse against this mating move.
+ 
+from here on out the moves are forced. black is done."
+20,h6,h7h6,r1bq1b1r/ppp3p1/3p1nkp/n5N1/3PPP2/2N5/PPP3PP/R1BQK2R w KQ - 0 11,"black has 1 recourse against this mating move.
+ 
+from here on out the moves are forced. black is done."
+21,f5+,f4f5,r1bq1b1r/ppp3p1/3p1nkp/n4PN1/3PP3/2N5/PPP3PP/R1BQK2R b KQ - 0 11,"black has 1 recourse against this mating move.
+ 
+from here on out the moves are forced. black is done."
+22,Bxf5,c8f5,r2q1b1r/ppp3p1/3p1nkp/n4bN1/3PP3/2N5/PPP3PP/R1BQK2R w KQ - 0 12,"white could have played 13.0-0, but 13.Qd3 mates faster."
+23,exf5+,e4f5,r2q1b1r/ppp3p1/3p1nkp/n4PN1/3P4/2N5/PPP3PP/R1BQK2R b KQ - 0 12,"white could have played 13.0-0, but 13.Qd3 mates faster."
+24,Kxf5,g6f5,r2q1b1r/ppp3p1/3p1n1p/n4kN1/3P4/2N5/PPP3PP/R1BQK2R w KQ - 0 13,"white could have played 13.0-0, but 13.Qd3 mates faster."
+25,Qd3+,d1d3,r2q1b1r/ppp3p1/3p1n1p/n4kN1/3P4/2NQ4/PPP3PP/R1B1K2R b KQ - 1 13,"white could have played 13.0-0, but 13.Qd3 mates faster."
+26,Kg4,f5g4,r2q1b1r/ppp3p1/3p1n1p/n5N1/3P2k1/2NQ4/PPP3PP/R1B1K2R w KQ - 2 14,intercession with the N only gains black 1 move.
+27,Qf3+,d3f3,r2q1b1r/ppp3p1/3p1n1p/n5N1/3P2k1/2N2Q2/PPP3PP/R1B1K2R b KQ - 3 14,the Q placement takes away black's escape route around the g5-N via h5.
+28,Kh4,g4h4,r2q1b1r/ppp3p1/3p1n1p/n5N1/3P3k/2N2Q2/PPP3PP/R1B1K2R w KQ - 4 15,"how many times do we get to checkmate wih a pawn??
+ 
+15.Qh3 also mates."
+29,g3#,g2g3,r2q1b1r/ppp3p1/3p1n1p/n5N1/3P3k/2N2QP1/PPP4P/R1B1K2R b KQ - 0 15,"how many times do we get to checkmate wih a pawn??
+ 
+15.Qh3 also mates."

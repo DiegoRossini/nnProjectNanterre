@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,a4,a2a4,rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1,"Hi everyone!
+
+This opening is the Meadow Hay Opening and it comes from Easy19's suggestion that I create a themed MT out of this opening.  I ended up playing against a very strong expert in this MT and I seemed to be doing OK.  But then my opponent conjured up Old Matey out of nowhere.  I could have avoided copping this mate but only at the cost of ruinous loss of material.  So, how did this happen?  Firstly I will begin commentary with black's move on Move 4 because that is where the fixed moves end.  The database has completely run out so each player is on their own."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/P7/8/1PPPPPPP/RNBQKBNR w KQkq - 0 2,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+3,a5,a4a5,rnbqkbnr/pppp1ppp/8/P3p3/8/8/1PPPPPPP/RNBQKBNR b KQkq - 0 2,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/P2pp3/8/8/1PPPPPPP/RNBQKBNR w KQkq - 0 3,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+5,e3,e2e3,rnbqkbnr/ppp2ppp/8/P2pp3/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 3,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+6,f5,f7f5,rnbqkbnr/ppp3pp/8/P2ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 4,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+7,a6,a5a6,rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq - 0 4,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+8,Nxa6,b8a6,r1bqkbnr/ppp3pp/n7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR w KQkq - 0 5,"4. ..... Nxa6 - there are several ways to capture this pawn, either with the b7 pawn or with the knight.  My opponent chooses the knight."
+9,Bxa6,f1a6,r1bqkbnr/ppp3pp/B7/3ppp2/8/4P3/1PPP1PPP/RNBQK1NR b KQkq - 0 5,5. .... bxa6 - this B for N trade splits up black's queenside pawns and may facilitate material restoration later on.
+10,bxa6,b7a6,r1bqkbnr/p1p3pp/p7/3ppp2/8/4P3/1PPP1PPP/RNBQK1NR w KQkq - 0 6,5. .... bxa6 - this B for N trade splits up black's queenside pawns and may facilitate material restoration later on.
+11,b3,b2b3,r1bqkbnr/p1p3pp/p7/3ppp2/8/1P2P3/2PP1PPP/RNBQK1NR b KQkq - 0 6,6. b3 - this move prepares a fianchetto on the queenside and a possible move to c4 to try and break up black's strong pawn centre.
+12,Nf6,g8f6,r1bqkb1r/p1p3pp/p4n2/3ppp2/8/1P2P3/2PP1PPP/RNBQK1NR w KQkq - 1 7,8. d3 - preparing Nd2.
+13,Bb2,c1b2,r1bqkb1r/p1p3pp/p4n2/3ppp2/8/1P2P3/1BPP1PPP/RN1QK1NR b KQkq - 2 7,8. d3 - preparing Nd2.
+14,Bd6,f8d6,r1bqk2r/p1p3pp/p2b1n2/3ppp2/8/1P2P3/1BPP1PPP/RN1QK1NR w KQkq - 3 8,8. d3 - preparing Nd2.
+15,d3,d2d3,r1bqk2r/p1p3pp/p2b1n2/3ppp2/8/1P1PP3/1BP2PPP/RN1QK1NR b KQkq - 0 8,8. d3 - preparing Nd2.
+16,O-O,e8g8,r1bq1rk1/p1p3pp/p2b1n2/3ppp2/8/1P1PP3/1BP2PPP/RN1QK1NR w KQ - 1 9,"10. 0-0 - with my opponent castled kingside, you wouldn't think I was castling into it, would you?"
+17,Ne2,g1e2,r1bq1rk1/p1p3pp/p2b1n2/3ppp2/8/1P1PP3/1BP1NPPP/RN1QK2R b KQ - 2 9,"10. 0-0 - with my opponent castled kingside, you wouldn't think I was castling into it, would you?"
+18,c5,c7c5,r1bq1rk1/p5pp/p2b1n2/2pppp2/8/1P1PP3/1BP1NPPP/RN1QK2R w KQ - 0 10,"10. 0-0 - with my opponent castled kingside, you wouldn't think I was castling into it, would you?"
+19,O-O,e1g1,r1bq1rk1/p5pp/p2b1n2/2pppp2/8/1P1PP3/1BP1NPPP/RN1Q1RK1 b - - 1 10,"10. 0-0 - with my opponent castled kingside, you wouldn't think I was castling into it, would you?"
+20,Bb7,c8b7,r2q1rk1/pb4pp/p2b1n2/2pppp2/8/1P1PP3/1BP1NPPP/RN1Q1RK1 w - - 2 11,11. Nd2 - my development is nearly complete but black has a big spatial edge.  What an impressive wall of black pawns on the 5th rank!
+21,Nd2,b1d2,r2q1rk1/pb4pp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R2Q1RK1 b - - 3 11,11. Nd2 - my development is nearly complete but black has a big spatial edge.  What an impressive wall of black pawns on the 5th rank!
+22,Qe7,d8e7,r4rk1/pb2q1pp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R2Q1RK1 w - - 4 12,13. ..... Qf7 - this is the start of black's dastardly plan.
+23,Re1,f1e1,r4rk1/pb2q1pp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R2QR1K1 b - - 5 12,13. ..... Qf7 - this is the start of black's dastardly plan.
+24,Rad8,a8d8,3r1rk1/pb2q1pp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R2QR1K1 w - - 6 13,13. ..... Qf7 - this is the start of black's dastardly plan.
+25,Qc1,d1c1,3r1rk1/pb2q1pp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R1Q1R1K1 b - - 7 13,13. ..... Qf7 - this is the start of black's dastardly plan.
+26,Qf7,e7f7,3r1rk1/pb3qpp/p2b1n2/2pppp2/8/1P1PP3/1BPNNPPP/R1Q1R1K1 w - - 8 14,13. ..... Qf7 - this is the start of black's dastardly plan.
+27,f3,f2f3,3r1rk1/pb3qpp/p2b1n2/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q1R1K1 b - - 0 14,"15. Kh1 - Henry sidesteps a possible pin, but this is where he will be boxed in!"
+28,Qg6,f7g6,3r1rk1/pb4pp/p2b1nq1/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q1R1K1 w - - 1 15,"15. Kh1 - Henry sidesteps a possible pin, but this is where he will be boxed in!"
+29,Kh1,g1h1,3r1rk1/pb4pp/p2b1nq1/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q1R2K b - - 2 15,"15. Kh1 - Henry sidesteps a possible pin, but this is where he will be boxed in!"
+30,Kh8,g8h8,3r1r1k/pb4pp/p2b1nq1/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q1R2K w - - 3 16,16. Rg1 - it seemed such a good idea at the time - line up rook on same file as enemy queen.  Black showed me that this is not always the case!
+31,Rg1,e1g1,3r1r1k/pb4pp/p2b1nq1/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q3RK b - - 4 16,16. Rg1 - it seemed such a good idea at the time - line up rook on same file as enemy queen.  Black showed me that this is not always the case!
+32,Qh6,g6h6,3r1r1k/pb4pp/p2b1n1q/2pppp2/8/1P1PPP2/1BPNN1PP/R1Q3RK w - - 5 17,17. Nf1 - this knight comes down and protects Henry against mate threats on the h column.  It also protects my vulnerable e3 pawn which is now defended by our poor put upon Glenda!
+33,Nf1,d2f1,3r1r1k/pb4pp/p2b1n1q/2pppp2/8/1P1PPP2/1BP1N1PP/R1Q2NRK b - - 6 17,17. Nf1 - this knight comes down and protects Henry against mate threats on the h column.  It also protects my vulnerable e3 pawn which is now defended by our poor put upon Glenda!
+34,e4,e5e4,3r1r1k/pb4pp/p2b1n1q/2pp1p2/4p3/1P1PPP2/1BP1N1PP/R1Q2NRK w - - 0 18,18. f4 - an attempt to block off the line of attack of black's dsb.
+35,f4,f3f4,3r1r1k/pb4pp/p2b1n1q/2pp1p2/4pP2/1P1PP3/1BP1N1PP/R1Q2NRK b - - 0 18,18. f4 - an attempt to block off the line of attack of black's dsb.
+36,Ng4,f6g4,3r1r1k/pb4pp/p2b3q/2pp1p2/4pPn1/1P1PP3/1BP1N1PP/R1Q2NRK w - - 1 19,"18. ..... Ng4 - allo, allo, allo, suddenly Henry is now in Old Matey's shadow!  Only his dearly beloved better half can defend him now, so Glenda moves to e1 on the next turn."
+37,Qe1,c1e1,3r1r1k/pb4pp/p2b3q/2pp1p2/4pPn1/1P1PP3/1BP1N1PP/R3QNRK b - - 2 19,20. Bc1 - to bolster e3.  Now comes a plethora of exchanges that turn out to be an unmitigated disaster for Yours Truly.
+38,d4,d5d4,3r1r1k/pb4pp/p2b3q/2p2p2/3ppPn1/1P1PP3/1BP1N1PP/R3QNRK w - - 0 20,20. Bc1 - to bolster e3.  Now comes a plethora of exchanges that turn out to be an unmitigated disaster for Yours Truly.
+39,Bc1,b2c1,3r1r1k/pb4pp/p2b3q/2p2p2/3ppPn1/1P1PP3/2P1N1PP/R1B1QNRK b - - 1 20,20. Bc1 - to bolster e3.  Now comes a plethora of exchanges that turn out to be an unmitigated disaster for Yours Truly.
+40,exd3,e4d3,3r1r1k/pb4pp/p2b3q/2p2p2/3p1Pn1/1P1pP3/2P1N1PP/R1B1QNRK w - - 0 21,23. Qg3?? - I think this was my fatal mistake.  I think Bd2 had to be played here.  Do you the Inquest Jury agree?
+41,cxd3,c2d3,3r1r1k/pb4pp/p2b3q/2p2p2/3p1Pn1/1P1PP3/4N1PP/R1B1QNRK b - - 0 21,23. Qg3?? - I think this was my fatal mistake.  I think Bd2 had to be played here.  Do you the Inquest Jury agree?
+42,dxe3,d4e3,3r1r1k/pb4pp/p2b3q/2p2p2/5Pn1/1P1Pp3/4N1PP/R1B1QNRK w - - 0 22,23. Qg3?? - I think this was my fatal mistake.  I think Bd2 had to be played here.  Do you the Inquest Jury agree?
+43,Bxe3,c1e3,3r1r1k/pb4pp/p2b3q/2p2p2/5Pn1/1P1PB3/4N1PP/R3QNRK b - - 0 22,23. Qg3?? - I think this was my fatal mistake.  I think Bd2 had to be played here.  Do you the Inquest Jury agree?
+44,Rfe8,f8e8,3rr2k/pb4pp/p2b3q/2p2p2/5Pn1/1P1PB3/4N1PP/R3QNRK w - - 1 23,23. Qg3?? - I think this was my fatal mistake.  I think Bd2 had to be played here.  Do you the Inquest Jury agree?
+45,Qg3,e1g3,3rr2k/pb4pp/p2b3q/2p2p2/5Pn1/1P1PB1Q1/4N1PP/R4NRK b - - 2 23,23. ..... Rxe3!! a brilliant exchange sac!
+46,Rxe3,e8e3,3r3k/pb4pp/p2b3q/2p2p2/5Pn1/1P1Pr1Q1/4N1PP/R4NRK w - - 0 24,23. ..... Rxe3!! a brilliant exchange sac!
+47,Nxe3,f1e3,3r3k/pb4pp/p2b3q/2p2p2/5Pn1/1P1PN1Q1/4N1PP/R5RK b - - 0 24,"24. .... Qxh2+!!! - followed by a brilliant queen sacrifice.  Mate cannot be avoided.  Next move I am 9 points up in material but down a king! Sigh and double Sigh!  Not the usual Philidor's Legacy!  Never mind, I did have the consolation over the weekend by managing to add to my tally of Expert Draws with my secret weapon, Operation Joblock.  I will be annotating this game this week so watch this space!"
+48,Qxh2+,h6h2,3r3k/pb4pp/p2b4/2p2p2/5Pn1/1P1PN1Q1/4N1Pq/R5RK w - - 0 25,"24. .... Qxh2+!!! - followed by a brilliant queen sacrifice.  Mate cannot be avoided.  Next move I am 9 points up in material but down a king! Sigh and double Sigh!  Not the usual Philidor's Legacy!  Never mind, I did have the consolation over the weekend by managing to add to my tally of Expert Draws with my secret weapon, Operation Joblock.  I will be annotating this game this week so watch this space!"
+49,Qxh2,g3h2,3r3k/pb4pp/p2b4/2p2p2/5Pn1/1P1PN3/4N1PQ/R5RK b - - 0 25,
+50,Nf2#,g4f2,3r3k/pb4pp/p2b4/2p2p2/5P2/1P1PN3/4NnPQ/R5RK w - - 1 26,

@@ -1,0 +1,32 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A40 Queen's Pawn Opening. The Queen's Pawn opening move is somewhat slower than the popular e4, because White will not be able to castle for three more moves. Its advantage is that it gives White more control over tactical surprises and often provides more lasting initiative and pressure."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,"D00 Queen's Pawn Game 1.d4 d5. Black answers symmetrically, challenging the center directly."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,"D02 Grunfeld Reversed. A solid opening move, delaying c2-c4 to avoid the Queen's Gambit."
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,"D02 Grunfeld Reversed / Chigorin Variation 1.d4 d5 2.Nf3 Nc6. Positionally suspect. In Queenside openings, one rarely is rewarded when blocking the c-pawn because you lose that as a lever against the center. 3.c4 (see!) 3...Bg44.cxd5 Bxf3 5.gxf3 Qxd5 6.e3 e57.Nc3 Bb4 8.Bd2 Bxc3 9.bxc3Qd6 and White is 8% better, possessing the Bishop pair and a strong center."
+5,Bf4,c1f4,r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3,Out of Opening Book. c2-c4 would have been in the Grunfeld Reversed / Chigorin Variation 1.d4 d5 2.Nf3 Nc6 book opening. §ž¯³¹—¨ ƒŸƒƒŸƒŸ — Ÿ ÿ • ýÿýýÿýÿ ¦•ª²›¤
+6,Nf6,g8f6,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4,Makes way for a castle to the kingside.
+7,h3,h2h3,r1bqkb1r/ppp1pppp/2n2n2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R b KQkq - 0 4,Makes way for a castle to the kingside.
+8,e6,e7e6,r1bqkb1r/ppp2ppp/2n1pn2/3p4/3P1B2/5N1P/PPP1PPP1/RN1QKB1R w KQkq - 0 5,Makes way for a castle to the kingside.
+9,Nc3,b1c3,r1bqkb1r/ppp2ppp/2n1pn2/3p4/3P1B2/2N2N1P/PPP1PPP1/R2QKB1R b KQkq - 1 5,Makes way for a castle to the kingside.
+10,Be7,f8e7,r1bqk2r/ppp1bppp/2n1pn2/3p4/3P1B2/2N2N1P/PPP1PPP1/R2QKB1R w KQkq - 2 6,Makes way for a castle to the kingside.
+11,e3,e2e3,r1bqk2r/ppp1bppp/2n1pn2/3p4/3P1B2/2N1PN1P/PPP2PP1/R2QKB1R b KQkq - 0 6,Clears the way for a kingside castle.
+12,O-O,e8g8,r1bq1rk1/ppp1bppp/2n1pn2/3p4/3P1B2/2N1PN1P/PPP2PP1/R2QKB1R w KQ - 1 7,Clears the way for a kingside castle.
+13,Bb5,f1b5,r1bq1rk1/ppp1bppp/2n1pn2/1B1p4/3P1B2/2N1PN1P/PPP2PP1/R2QK2R b KQ - 2 7,Clears the way for a kingside castle.
+14,Bd7,c8d7,r2q1rk1/pppbbppp/2n1pn2/1B1p4/3P1B2/2N1PN1P/PPP2PP1/R2QK2R w KQ - 3 8,Attacks White's bishop at b5.
+15,a3,a2a3,r2q1rk1/pppbbppp/2n1pn2/1B1p4/3P1B2/P1N1PN1P/1PP2PP1/R2QK2R b KQ - 0 8,Attacks White's bishop at b5.
+16,a6,a7a6,r2q1rk1/1ppbbppp/p1n1pn2/1B1p4/3P1B2/P1N1PN1P/1PP2PP1/R2QK2R w KQ - 0 9,Attacks White's bishop at b5.
+17,Ba4,b5a4,r2q1rk1/1ppbbppp/p1n1pn2/3p4/B2P1B2/P1N1PN1P/1PP2PP1/R2QK2R b KQ - 1 9,Moves it to safety.
+18,Be8,d7e8,r2qbrk1/1pp1bppp/p1n1pn2/3p4/B2P1B2/P1N1PN1P/1PP2PP1/R2QK2R w KQ - 2 10,Enables the long castle.
+19,Qd3,d1d3,r2qbrk1/1pp1bppp/p1n1pn2/3p4/B2P1B2/P1NQPN1P/1PP2PP1/R3K2R b KQ - 3 10,Enables the long castle.
+20,Bd6,e7d6,r2qbrk1/1pp2ppp/p1nbpn2/3p4/B2P1B2/P1NQPN1P/1PP2PP1/R3K2R w KQ - 4 11,Pins Black's knight at f6.
+21,Bg5,f4g5,r2qbrk1/1pp2ppp/p1nbpn2/3p2B1/B2P4/P1NQPN1P/1PP2PP1/R3K2R b KQ - 5 11,Pins Black's knight at f6.
+22,e5,e6e5,r2qbrk1/1pp2ppp/p1nb1n2/3pp1B1/B2P4/P1NQPN1P/1PP2PP1/R3K2R w KQ - 0 12,"Leads to 12.a4xc6 e5-e4 13.g5xf6 g7xf6 14.c3xe4 e8xc6 15.e4xd6 d8xd6 16.O-O-O c6-b5 17.d3-f5, which wins two bishops and a knight for a bishop, two knights, and a pawn. Better is b7-b5, leading to 12.a4-b3 h7-h6 13.g5-h4 b5-b4 14.a3xb4 g7-g5 15.h4-g3 d6xg3 16.f2xg3 c6xb4 17.d3-e2, which wins a bishop and a pawn for a bishop and a pawn. This was black's only serious miscue, but black was able to stay close and eventually mated. §¯ž¨³ ŸƒŸƒŸ Ÿ—¹˜ Ÿƒ ›ÿ ÿ–ªÿ•ý ÿýÿý ¦²¤"
+23,dxe5,d4e5,r2qbrk1/1pp2ppp/p1nb1n2/3pP1B1/B7/P1NQPN1P/1PP2PP1/R3K2R b KQ - 0 12,"Leads to 12...c6xe5 13.f3xe5 d6xe5 14.a4xe8 f8xe8 15.g5xf6 d8xf6 16.c3xd5 f6-g5 17.O-O-O g5xg2 18.d3-f5 a8-d8, which wins a bishop, two knights, and two pawns for two bishops, a knight, and two pawns. Better is a4xc6, leading to 12...e5-e4 13.g5xf6 g7xf6 14.c3xe4 e8xc6 15.e4xd6 d8xd6 16.O-O-O c6-b5 17.d3-f5, which wins a bishop, two knights, and a pawn for two bishops and a knight."
+24,Nxe5,c6e5,r2qbrk1/1pp2ppp/p2b1n2/3pn1B1/B7/P1NQPN1P/1PP2PP1/R3K2R w KQ - 0 13,Protects Black's bishop at d6 and Black's knight at f6 and attacks White's queen.
+25,Nxe5,f3e5,r2qbrk1/1pp2ppp/p2b1n2/3pN1B1/B7/P1NQP2P/1PP2PP1/R3K2R b KQ - 0 13,Removes the threat on White's queen.
+26,Bxe5,d6e5,r2qbrk1/1pp2ppp/p4n2/3pb1B1/B7/P1NQP2P/1PP2PP1/R3K2R w KQ - 0 14,Black wins a knight and a pawn for a knight and a pawn. Material is even.
+27,Bb3,a4b3,r2qbrk1/1pp2ppp/p4n2/3pb1B1/8/PBNQP2P/1PP2PP1/R3K2R b KQ - 1 14,Attacks White's knight.
+28,d4,d5d4,r2qbrk1/1pp2ppp/p4n2/4b1B1/3p4/PBNQP2P/1PP2PP1/R3K2R w KQ - 0 15,Attacks White's knight.
+29,Ne4,c3e4,r2qbrk1/1pp2ppp/p4n2/4b1B1/3pN3/PB1QP2P/1PP2PP1/R3K2R b KQ - 1 15,Slightly better is c3-d5.
+30,h6,h7h6,r2qbrk1/1pp2pp1/p4n1p/4b1B1/3pN3/PB1QP2P/1PP2PP1/R3K2R w KQ - 0 16,Slightly better is e8-b5.
+31,Bxf6,g5f6,r2qbrk1/1pp2pp1/p4B1p/4b3/3pN3/PB1QP2P/1PP2PP1/R3K2R b KQ - 0 16,Forks Black's bishop at e5 and Black's queen and blocks Black's pawn at f7.

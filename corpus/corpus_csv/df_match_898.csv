@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Pirc opening
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Pirc opening
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/3p4/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,White opts for a quiet line.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,White opts for a quiet line.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,Very classical line : players do not take risks.
+6,g6,g7g6,rnbqkb1r/ppp1pp1p/3p1np1/8/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 0 4,Very classical line : players do not take risks.
+7,Bc4,f1c4,rnbqkb1r/ppp1pp1p/3p1np1/8/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,Very classical line : players do not take risks.
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,Very classical line : players do not take risks.
+9,O-O,e1g1,rnbqk2r/ppp1ppbp/3p1np1/8/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 3 5,Very classical line : players do not take risks.
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 4 6,Very classical line : players do not take risks.
+11,d3,d2d3,rnbq1rk1/ppp1ppbp/3p1np1/8/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 b - - 0 6,The common counterattack in the Pirc is b5
+12,a6,a7a6,rnbq1rk1/1pp1ppbp/p2p1np1/8/2B1P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7,The common counterattack in the Pirc is b5
+13,a4,a2a4,rnbq1rk1/1pp1ppbp/p2p1np1/8/P1B1P3/2NP1N2/1PP2PPP/R1BQ1RK1 b - - 0 7,Preventing b5
+14,c5,c7c5,rnbq1rk1/1p2ppbp/p2p1np1/2p5/P1B1P3/2NP1N2/1PP2PPP/R1BQ1RK1 w - - 0 8,"As b5 is not possible anylonger, black must advance something else and cover b4"
+15,Re1,f1e1,rnbq1rk1/1p2ppbp/p2p1np1/2p5/P1B1P3/2NP1N2/1PP2PPP/R1BQR1K1 b - - 1 8,Solid
+16,Nc6,b8c6,r1bq1rk1/1p2ppbp/p1np1np1/2p5/P1B1P3/2NP1N2/1PP2PPP/R1BQR1K1 w - - 2 9,"To protect e5, take control on b4 and contest the center"
+17,h3,h2h3,r1bq1rk1/1p2ppbp/p1np1np1/2p5/P1B1P3/2NP1N1P/1PP2PP1/R1BQR1K1 b - - 0 9,Black will attack the center
+18,e6,e7e6,r1bq1rk1/1p3pbp/p1nppnp1/2p5/P1B1P3/2NP1N1P/1PP2PP1/R1BQR1K1 w - - 0 10,Black will attack the center
+19,Bg5,c1g5,r1bq1rk1/1p3pbp/p1nppnp1/2p3B1/P1B1P3/2NP1N1P/1PP2PP1/R2QR1K1 b - - 1 10,Weakening the king but forcing white to withdraw.
+20,h6,h7h6,r1bq1rk1/1p3pb1/p1nppnpp/2p3B1/P1B1P3/2NP1N1P/1PP2PP1/R2QR1K1 w - - 0 11,Weakening the king but forcing white to withdraw.
+21,Bh4,g5h4,r1bq1rk1/1p3pb1/p1nppnpp/2p5/P1B1P2B/2NP1N1P/1PP2PP1/R2QR1K1 b - - 1 11,Queen on a good diagonal.
+22,Qc7,d8c7,r1b2rk1/1pq2pb1/p1nppnpp/2p5/P1B1P2B/2NP1N1P/1PP2PP1/R2QR1K1 w - - 2 12,Queen on a good diagonal.
+23,Qd2,d1d2,r1b2rk1/1pq2pb1/p1nppnpp/2p5/P1B1P2B/2NP1N1P/1PPQ1PP1/R3R1K1 b - - 3 12,... A good diagonal as well. Both rooks are joined. White is fully developped. Black has still a problem with the LSB
+24,Nh7,f6h7,r1b2rk1/1pq2pbn/p1npp1pp/2p5/P1B1P2B/2NP1N1P/1PPQ1PP1/R3R1K1 w - - 4 13,?!
+25,Bg3,h4g3,r1b2rk1/1pq2pbn/p1npp1pp/2p5/P1B1P3/2NP1NBP/1PPQ1PP1/R3R1K1 b - - 5 13,Bishop in front of the queen.
+26,b6,b7b6,r1b2rk1/2q2pbn/ppnpp1pp/2p5/P1B1P3/2NP1NBP/1PPQ1PP1/R3R1K1 w - - 0 14,Black is looking for to block the queenside.
+27,Bf4,g3f4,r1b2rk1/2q2pbn/ppnpp1pp/2p5/P1B1PB2/2NP1N1P/1PPQ1PP1/R3R1K1 b - - 1 14,It menaces h6 but is probably a mistake.
+28,g5,g6g5,r1b2rk1/2q2pbn/ppnpp2p/2p3p1/P1B1PB2/2NP1N1P/1PPQ1PP1/R3R1K1 w - - 0 15,weakening the king but preparing a pawn storm.
+29,Bg3,f4g3,r1b2rk1/2q2pbn/ppnpp2p/2p3p1/P1B1P3/2NP1NBP/1PPQ1PP1/R3R1K1 b - - 1 15,"Black's problem is the LSB : it has no proper place to go. I find it common in the Pirc opening (or at least, it commonly happens to me...). This trading move will enable the LSB to have an active spot on b7 and will weakens black's kingside where black plans the attack."
+30,Nd4,c6d4,r1b2rk1/2q2pbn/pp1pp2p/2p3p1/P1BnP3/2NP1NBP/1PPQ1PP1/R3R1K1 w - - 2 16,"Black's problem is the LSB : it has no proper place to go. I find it common in the Pirc opening (or at least, it commonly happens to me...). This trading move will enable the LSB to have an active spot on b7 and will weakens black's kingside where black plans the attack."
+31,Nxd4,f3d4,r1b2rk1/2q2pbn/pp1pp2p/2p3p1/P1BNP3/2NP2BP/1PPQ1PP1/R3R1K1 b - - 0 16,White reincorces the queenside
+32,Bxd4,g7d4,r1b2rk1/2q2p1n/pp1pp2p/2p3p1/P1BbP3/2NP2BP/1PPQ1PP1/R3R1K1 w - - 0 17,White reincorces the queenside
+33,Rab1,a1b1,r1b2rk1/2q2p1n/pp1pp2p/2p3p1/P1BbP3/2NP2BP/1PPQ1PP1/1R2R1K1 b - - 1 17,White reincorces the queenside
+34,Bg7,d4g7,r1b2rk1/2q2pbn/pp1pp2p/2p3p1/P1B1P3/2NP2BP/1PPQ1PP1/1R2R1K1 w - - 2 18,The DSB has to retreat as white will probably play 18. Ne2

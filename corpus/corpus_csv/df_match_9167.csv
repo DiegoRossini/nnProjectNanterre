@@ -1,0 +1,130 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Nimzo-Indian defence.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Nimzo-Indian defence.
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Nimzo-Indian defence.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Nimzo-Indian defence.
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Nimzo-Indian defence.
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Nimzo-Indian defence.
+7,Nf3,g1f3,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,White and black struggle for control of the a8-h1 diagonal.
+8,c5,c7c5,rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5,White and black struggle for control of the a8-h1 diagonal.
+9,g3,g2g3,rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 5,White and black struggle for control of the a8-h1 diagonal.
+10,b6,b7b6,rnbqk2r/p2p1ppp/1p2pn2/2p5/1bPP4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq - 0 6,White and black struggle for control of the a8-h1 diagonal.
+11,Bg2,f1g2,rnbqk2r/p2p1ppp/1p2pn2/2p5/1bPP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 1 6,White and black struggle for control of the a8-h1 diagonal.
+12,Bb7,c8b7,rn1qk2r/pb1p1ppp/1p2pn2/2p5/1bPP4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 2 7,White and black struggle for control of the a8-h1 diagonal.
+13,Bd2,c1d2,rn1qk2r/pb1p1ppp/1p2pn2/2p5/1bPP4/2N2NP1/PP1BPPBP/R2QK2R b KQkq - 3 7,Black stops the white knight coming to d6.
+14,cxd4,c5d4,rn1qk2r/pb1p1ppp/1p2pn2/8/1bPp4/2N2NP1/PP1BPPBP/R2QK2R w KQkq - 0 8,Black stops the white knight coming to d6.
+15,Nb5,c3b5,rn1qk2r/pb1p1ppp/1p2pn2/1N6/1bPp4/5NP1/PP1BPPBP/R2QK2R b KQkq - 1 8,Black stops the white knight coming to d6.
+16,Be7,b4e7,rn1qk2r/pb1pbppp/1p2pn2/1N6/2Pp4/5NP1/PP1BPPBP/R2QK2R w KQkq - 2 9,Black stops the white knight coming to d6.
+17,O-O,e1g1,rn1qk2r/pb1pbppp/1p2pn2/1N6/2Pp4/5NP1/PP1BPPBP/R2Q1RK1 b kq - 3 9,White gets back the pawn.
+18,O-O,e8g8,rn1q1rk1/pb1pbppp/1p2pn2/1N6/2Pp4/5NP1/PP1BPPBP/R2Q1RK1 w - - 4 10,White gets back the pawn.
+19,Bg5,d2g5,rn1q1rk1/pb1pbppp/1p2pn2/1N4B1/2Pp4/5NP1/PP2PPBP/R2Q1RK1 b - - 5 10,White gets back the pawn.
+20,a6,a7a6,rn1q1rk1/1b1pbppp/pp2pn2/1N4B1/2Pp4/5NP1/PP2PPBP/R2Q1RK1 w - - 0 11,White gets back the pawn.
+21,Nbxd4,b5d4,rn1q1rk1/1b1pbppp/pp2pn2/6B1/2PN4/5NP1/PP2PPBP/R2Q1RK1 b - - 0 11,White gets back the pawn.
+22,d5,d7d5,rn1q1rk1/1b2bppp/pp2pn2/3p2B1/2PN4/5NP1/PP2PPBP/R2Q1RK1 w - - 0 12,This move opens the diagonal so that black can no longer play ...dxc4 (the bishop on b7 is hanging).
+23,Ne5,f3e5,rn1q1rk1/1b2bppp/pp2pn2/3pN1B1/2PN4/6P1/PP2PPBP/R2Q1RK1 b - - 1 12,This move opens the diagonal so that black can no longer play ...dxc4 (the bishop on b7 is hanging).
+24,Nfd7,f6d7,rn1q1rk1/1b1nbppp/pp2p3/3pN1B1/2PN4/6P1/PP2PPBP/R2Q1RK1 w - - 2 13,White puts more pressure on the light squares d5 and c4.
+25,Nxd7,e5d7,rn1q1rk1/1b1Nbppp/pp2p3/3p2B1/2PN4/6P1/PP2PPBP/R2Q1RK1 b - - 0 13,White puts more pressure on the light squares d5 and c4.
+26,Nxd7,b8d7,r2q1rk1/1b1nbppp/pp2p3/3p2B1/2PN4/6P1/PP2PPBP/R2Q1RK1 w - - 0 14,White puts more pressure on the light squares d5 and c4.
+27,Bxe7,g5e7,r2q1rk1/1b1nBppp/pp2p3/3p4/2PN4/6P1/PP2PPBP/R2Q1RK1 b - - 0 14,White puts more pressure on the light squares d5 and c4.
+28,Qxe7,d8e7,r4rk1/1b1nqppp/pp2p3/3p4/2PN4/6P1/PP2PPBP/R2Q1RK1 w - - 0 15,White puts more pressure on the light squares d5 and c4.
+29,Nc2,d4c2,r4rk1/1b1nqppp/pp2p3/3p4/2P5/6P1/PPN1PPBP/R2Q1RK1 b - - 1 15,White puts more pressure on the light squares d5 and c4.
+30,Nf6,d7f6,r4rk1/1b2qppp/pp2pn2/3p4/2P5/6P1/PPN1PPBP/R2Q1RK1 w - - 2 16,White puts more pressure on the light squares d5 and c4.
+31,Ne3,c2e3,r4rk1/1b2qppp/pp2pn2/3p4/2P5/4N1P1/PP2PPBP/R2Q1RK1 b - - 3 16,White puts more pressure on the light squares d5 and c4.
+32,dxc4,d5c4,r4rk1/1b2qppp/pp2pn2/8/2p5/4N1P1/PP2PPBP/R2Q1RK1 w - - 0 17,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+33,Bxb7,g2b7,r4rk1/1B2qppp/pp2pn2/8/2p5/4N1P1/PP2PP1P/R2Q1RK1 b - - 0 17,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+34,Qxb7,e7b7,r4rk1/1q3ppp/pp2pn2/8/2p5/4N1P1/PP2PP1P/R2Q1RK1 w - - 0 18,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+35,Nxc4,e3c4,r4rk1/1q3ppp/pp2pn2/8/2N5/6P1/PP2PP1P/R2Q1RK1 b - - 0 18,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+36,Rfd8,f8d8,r2r2k1/1q3ppp/pp2pn2/8/2N5/6P1/PP2PP1P/R2Q1RK1 w - - 1 19,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+37,Qb3,d1b3,r2r2k1/1q3ppp/pp2pn2/8/2N5/1Q4P1/PP2PP1P/R4RK1 b - - 2 19,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+38,b5,b6b5,r2r2k1/1q3ppp/p3pn2/1p6/2N5/1Q4P1/PP2PP1P/R4RK1 w - - 0 20,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+39,a4,a2a4,r2r2k1/1q3ppp/p3pn2/1p6/P1N5/1Q4P1/1P2PP1P/R4RK1 b - - 0 20,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+40,Qd5,b7d5,r2r2k1/5ppp/p3pn2/1p1q4/P1N5/1Q4P1/1P2PP1P/R4RK1 w - - 1 21,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+41,axb5,a4b5,r2r2k1/5ppp/p3pn2/1P1q4/2N5/1Q4P1/1P2PP1P/R4RK1 b - - 0 21,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+42,axb5,a6b5,r2r2k1/5ppp/4pn2/1p1q4/2N5/1Q4P1/1P2PP1P/R4RK1 w - - 0 22,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+43,Na5,c4a5,r2r2k1/5ppp/4pn2/Np1q4/8/1Q4P1/1P2PP1P/R4RK1 b - - 1 22,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+44,Qh5,d5h5,r2r2k1/5ppp/4pn2/Np5q/8/1Q4P1/1P2PP1P/R4RK1 w - - 2 23,"Black takes the queen to the kingside to exploit white's light square weakness there.
+Also the pawn on e2 is hanging."
+45,Qf3,b3f3,r2r2k1/5ppp/4pn2/Np5q/8/5QP1/1P2PP1P/R4RK1 b - - 3 23,"White offers a queen swap on f3 that will mess up the white pawns a tad - but it will dissipate black's 
+kingside attack and guard the g4 square.
+Also the queen eyes a8, hoping for some tactics there (maybe a back rank mate may be possible)."
+46,Ng4,f6g4,r2r2k1/5ppp/4p3/Np5q/6n1/5QP1/1P2PP1P/R4RK1 w - - 4 24,h3 would be no good because of the simple reply ...Qxh3. (Thanks to ruachessnut2 for the note.)
+47,h4,h2h4,r2r2k1/5ppp/4p3/Np5q/6nP/5QP1/1P2PP2/R4RK1 b - - 0 24,h3 would be no good because of the simple reply ...Qxh3. (Thanks to ruachessnut2 for the note.)
+48,g5,g7g5,r2r2k1/5p1p/4p3/Np4pq/6nP/5QP1/1P2PP2/R4RK1 w - - 0 25,White wants to bring the knight over to pile pressure on g4.
+49,Nc6,a5c6,r2r2k1/5p1p/2N1p3/1p4pq/6nP/5QP1/1P2PP2/R4RK1 b - - 1 25,White wants to bring the knight over to pile pressure on g4.
+50,Rxa1,a8a1,3r2k1/5p1p/2N1p3/1p4pq/6nP/5QP1/1P2PP2/r4RK1 w - - 0 26,"Now things get complicated.
+Both sides have attacking chances."
+51,Rxa1,f1a1,3r2k1/5p1p/2N1p3/1p4pq/6nP/5QP1/1P2PP2/R5K1 b - - 0 26,"Now things get complicated.
+Both sides have attacking chances."
+52,Re8,d8e8,4r1k1/5p1p/2N1p3/1p4pq/6nP/5QP1/1P2PP2/R5K1 w - - 1 27,"Now things get complicated.
+Both sides have attacking chances."
+53,Ne5,c6e5,4r1k1/5p1p/4p3/1p2N1pq/6nP/5QP1/1P2PP2/R5K1 b - - 2 27,"Now things get complicated.
+Both sides have attacking chances."
+54,f5,f7f5,4r1k1/7p/4p3/1p2Nppq/6nP/5QP1/1P2PP2/R5K1 w - - 0 28,"Now things get complicated.
+Both sides have attacking chances."
+55,Ra8,a1a8,R3r1k1/7p/4p3/1p2Nppq/6nP/5QP1/1P2PP2/6K1 b - - 1 28,"Now things get complicated.
+Both sides have attacking chances."
+56,Rxa8,e8a8,r5k1/7p/4p3/1p2Nppq/6nP/5QP1/1P2PP2/6K1 w - - 0 29,White is looking for a series of checks to create some magic.
+57,Qxa8+,f3a8,Q5k1/7p/4p3/1p2Nppq/6nP/6P1/1P2PP2/6K1 b - - 0 29,White is looking for a series of checks to create some magic.
+58,Kg7,g8g7,Q7/6kp/4p3/1p2Nppq/6nP/6P1/1P2PP2/6K1 w - - 1 30,White is looking for a series of checks to create some magic.
+59,Qa7+,a8a7,8/Q5kp/4p3/1p2Nppq/6nP/6P1/1P2PP2/6K1 b - - 2 30,White is looking for a series of checks to create some magic.
+60,Kf6,g7f6,8/Q6p/4pk2/1p2Nppq/6nP/6P1/1P2PP2/6K1 w - - 3 31,White wants to chase the black night away so that e5 is undefended.
+61,Nd7+,e5d7,8/Q2N3p/4pk2/1p3ppq/6nP/6P1/1P2PP2/6K1 b - - 4 31,White wants to chase the black night away so that e5 is undefended.
+62,Ke7,f6e7,8/Q2Nk2p/4p3/1p3ppq/6nP/6P1/1P2PP2/6K1 w - - 5 32,White wants to chase the black night away so that e5 is undefended.
+63,f3,f2f3,8/Q2Nk2p/4p3/1p3ppq/6nP/5PP1/1P2P3/6K1 b - - 0 32,White wants to chase the black night away so that e5 is undefended.
+64,Nh6,g4h6,8/Q2Nk2p/4p2n/1p3ppq/7P/5PP1/1P2P3/6K1 w - - 1 33,Black's queen is horribly bottled up and wants some room.
+65,Ne5+,d7e5,8/Q3k2p/4p2n/1p2Nppq/7P/5PP1/1P2P3/6K1 b - - 2 33,Black's queen is horribly bottled up and wants some room.
+66,Kf6,e7f6,8/Q6p/4pk1n/1p2Nppq/7P/5PP1/1P2P3/6K1 w - - 3 34,Black's queen is horribly bottled up and wants some room.
+67,Qd4,a7d4,8/7p/4pk1n/1p2Nppq/3Q3P/5PP1/1P2P3/6K1 b - - 4 34,Black's queen is horribly bottled up and wants some room.
+68,gxh4,g5h4,8/7p/4pk1n/1p2Np1q/3Q3p/5PP1/1P2P3/6K1 w - - 0 35,Black's queen is horribly bottled up and wants some room.
+69,Ng4+,e5g4,8/7p/4pk1n/1p3p1q/3Q2Np/5PP1/1P2P3/6K1 b - - 1 35,After some hard work white goes ahead in material.
+70,Ke7,f6e7,8/4k2p/4p2n/1p3p1q/3Q2Np/5PP1/1P2P3/6K1 w - - 2 36,After some hard work white goes ahead in material.
+71,Qf6+,d4f6,8/4k2p/4pQ1n/1p3p1q/6Np/5PP1/1P2P3/6K1 b - - 3 36,After some hard work white goes ahead in material.
+72,Kd6,e7d6,8/7p/3kpQ1n/1p3p1q/6Np/5PP1/1P2P3/6K1 w - - 4 37,After some hard work white goes ahead in material.
+73,Qxh6,f6h6,8/7p/3kp2Q/1p3p1q/6Np/5PP1/1P2P3/6K1 b - - 0 37,After some hard work white goes ahead in material.
+74,Qxh6,h5h6,8/7p/3kp2q/1p3p2/6Np/5PP1/1P2P3/6K1 w - - 0 38,"White is one pawn up in material - but black's king is much more actively placed (not to mention the two black passed pawns).
+The only way white can win is if the knight can perform miracles."
+75,Nxh6,g4h6,8/7p/3kp2N/1p3p2/7p/5PP1/1P2P3/6K1 b - - 0 38,"White is one pawn up in material - but black's king is much more actively placed (not to mention the two black passed pawns).
+The only way white can win is if the knight can perform miracles."
+76,hxg3,h4g3,8/7p/3kp2N/1p3p2/8/5Pp1/1P2P3/6K1 w - - 0 39,"White is one pawn up in material - but black's king is much more actively placed (not to mention the two black passed pawns).
+The only way white can win is if the knight can perform miracles."
+77,e3,e2e3,8/7p/3kp2N/1p3p2/8/4PPp1/1P6/6K1 b - - 0 39,Discouraging ...f4.
+78,Kd5,d6d5,8/7p/4p2N/1p1k1p2/8/4PPp1/1P6/6K1 w - - 1 40,Threatens e6 so the black king cant wander too far.
+79,Nf7,h6f7,8/5N1p/4p3/1p1k1p2/8/4PPp1/1P6/6K1 b - - 2 40,Threatens e6 so the black king cant wander too far.
+80,h5,h7h5,8/5N2/4p3/1p1k1p1p/8/4PPp1/1P6/6K1 w - - 0 41,Threatens e6 so the black king cant wander too far.
+81,Nd8,f7d8,3N4/8/4p3/1p1k1p1p/8/4PPp1/1P6/6K1 b - - 1 41,Threatens e6 so the black king cant wander too far.
+82,e5,e6e5,3N4/8/8/1p1kpp1p/8/4PPp1/1P6/6K1 w - - 0 42,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+83,Nb7,d8b7,8/1N6/8/1p1kpp1p/8/4PPp1/1P6/6K1 b - - 1 42,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+84,h4,h5h4,8/1N6/8/1p1kpp2/7p/4PPp1/1P6/6K1 w - - 0 43,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+85,Kg2,g1g2,8/1N6/8/1p1kpp2/7p/4PPp1/1P4K1/8 b - - 1 43,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+86,f4,f5f4,8/1N6/8/1p1kp3/5p1p/4PPp1/1P4K1/8 w - - 0 44,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+87,e4+,e3e4,8/1N6/8/1p1kp3/4Pp1p/5Pp1/1P4K1/8 b - - 0 44,"Fixes the black pawn at e5 where it will be a target.
+White wants some passed pawns too."
+88,Kd4,d5d4,8/1N6/8/1p2p3/3kPp1p/5Pp1/1P4K1/8 w - - 1 45,"A lovely move. 
+46. Nxb5 looks attractive but will lose the game after
+...h3   47. Kxh3 Kxf3, 48 Nc3 g2, 49 Ne2 Kxe2, 50 Kxg2 f3 ! 51 Kg3 and the black pawn queens."
+89,Nd6,b7d6,8/8/3N4/1p2p3/3kPp1p/5Pp1/1P4K1/8 b - - 2 45,"A lovely move. 
+46. Nxb5 looks attractive but will lose the game after
+...h3   47. Kxh3 Kxf3, 48 Nc3 g2, 49 Ne2 Kxe2, 50 Kxg2 f3 ! 51 Kg3 and the black pawn queens."
+90,Ke3,d4e3,8/8/3N4/1p2p3/4Pp1p/4kPp1/1P4K1/8 w - - 3 46,"A lovely move. 
+46. Nxb5 looks attractive but will lose the game after
+...h3   47. Kxh3 Kxf3, 48 Nc3 g2, 49 Ne2 Kxe2, 50 Kxg2 f3 ! 51 Kg3 and the black pawn queens."
+91,Nf5+,d6f5,8/8/8/1p2pN2/4Pp1p/4kPp1/1P4K1/8 b - - 4 46,"A lovely move. 
+46. Nxb5 looks attractive but will lose the game after
+...h3   47. Kxh3 Kxf3, 48 Nc3 g2, 49 Ne2 Kxe2, 50 Kxg2 f3 ! 51 Kg3 and the black pawn queens."

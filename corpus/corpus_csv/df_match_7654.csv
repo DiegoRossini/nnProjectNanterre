@@ -1,0 +1,49 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Sam opens with knight
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,I offer pawn as sacrafice for development in a dutch-ish gambit opening
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,I offer pawn as sacrafice for development in a dutch-ish gambit opening
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,I offer pawn as sacrafice for development in a dutch-ish gambit opening
+5,e4,e2e4,rnbqkbnr/ppp2ppp/8/3pp3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Sam declines, I threaten knight"
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/8/4p3/3Pp3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Sam declines, I threaten knight"
+7,Nxe5,f3e5,rnbqkbnr/ppp2ppp/8/4N3/3Pp3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Bad move from me
+8,Bd6,f8d6,rnbqk1nr/ppp2ppp/3b4/4N3/3Pp3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Sam is protecting his bishop, believing I wont want to trade"
+9,f4,f2f4,rnbqk1nr/ppp2ppp/3b4/4N3/3PpP2/8/PPP3PP/RNBQKB1R b KQkq f3 0 5,"Sam is protecting his bishop, believing I wont want to trade"
+10,f6,f7f6,rnbqk1nr/ppp3pp/3b1p2/4N3/3PpP2/8/PPP3PP/RNBQKB1R w KQkq - 0 6,"Sam is protecting his bishop, believing I wont want to trade"
+11,Nc4,e5c4,rnbqk1nr/ppp3pp/3b1p2/8/2NPpP2/8/PPP3PP/RNBQKB1R b KQkq - 1 6,"Sam is protecting his bishop, believing I wont want to trade"
+12,b5,b7b5,rnbqk1nr/p1p3pp/3b1p2/1p6/2NPpP2/8/PPP3PP/RNBQKB1R w KQkq - 0 7,"Sam is protecting his bishop, believing I wont want to trade"
+13,Nxd6+,c4d6,rnbqk1nr/p1p3pp/3N1p2/1p6/3PpP2/8/PPP3PP/RNBQKB1R b KQkq - 0 7,"Sam is protecting his bishop, believing I wont want to trade"
+14,cxd6,c7d6,rnbqk1nr/p5pp/3p1p2/1p6/3PpP2/8/PPP3PP/RNBQKB1R w KQkq - 0 8,"Sam is protecting his bishop, believing I wont want to trade"
+15,Bxb5+,f1b5,rnbqk1nr/p5pp/3p1p2/1B6/3PpP2/8/PPP3PP/RNBQK2R b KQkq - 0 8,"Sam is protecting his bishop, believing I wont want to trade"
+16,Bd7,c8d7,rn1qk1nr/p2b2pp/3p1p2/1B6/3PpP2/8/PPP3PP/RNBQK2R w KQkq - 1 9,"Sam is protecting his bishop, believing I wont want to trade"
+17,Nc3,b1c3,rn1qk1nr/p2b2pp/3p1p2/1B6/3PpP2/2N5/PPP3PP/R1BQK2R b KQkq - 2 9,"Sam is protecting his bishop, believing I wont want to trade"
+18,Bxb5,d7b5,rn1qk1nr/p5pp/3p1p2/1b6/3PpP2/2N5/PPP3PP/R1BQK2R w KQkq - 0 10,"I trade, realising i can gain material. from Qa5"
+19,Nxb5,c3b5,rn1qk1nr/p5pp/3p1p2/1N6/3PpP2/8/PPP3PP/R1BQK2R b KQkq - 0 10,"I trade, realising i can gain material. from Qa5"
+20,Qa5+,d8a5,rn2k1nr/p5pp/3p1p2/qN6/3PpP2/8/PPP3PP/R1BQK2R w KQkq - 1 11,I am now up 2
+21,Bd2,c1d2,rn2k1nr/p5pp/3p1p2/qN6/3PpP2/8/PPPB2PP/R2QK2R b KQkq - 2 11,I am now up 2
+22,Qxb5,a5b5,rn2k1nr/p5pp/3p1p2/1q6/3PpP2/8/PPPB2PP/R2QK2R w KQkq - 0 12,I am now up 2
+23,Bc3,d2c3,rn2k1nr/p5pp/3p1p2/1q6/3PpP2/2B5/PPP3PP/R2QK2R b KQkq - 1 12,I develop the knight
+24,Nc6,b8c6,r3k1nr/p5pp/2np1p2/1q6/3PpP2/2B5/PPP3PP/R2QK2R w KQkq - 2 13,I develop the knight
+25,a4,a2a4,r3k1nr/p5pp/2np1p2/1q6/P2PpP2/2B5/1PP3PP/R2QK2R b KQkq - 0 13,move to protect my queen
+26,Qf5,b5f5,r3k1nr/p5pp/2np1p2/5q2/P2PpP2/2B5/1PP3PP/R2QK2R w KQkq - 1 14,move to protect my queen
+27,b3,b2b3,r3k1nr/p5pp/2np1p2/5q2/P2PpP2/1PB5/2P3PP/R2QK2R b KQkq - 0 14,"Sam playing uncharacteristically poorly. A very open board, he develops along the side, instead of moving the rooks to the centre, and makes no move to protect his pawn."
+28,Qxf4,f5f4,r3k1nr/p5pp/2np1p2/8/P2Ppq2/1PB5/2P3PP/R2QK2R w KQkq - 0 15,I simply take it.
+29,Qh5+,d1h5,r3k1nr/p5pp/2np1p2/7Q/P2Ppq2/1PB5/2P3PP/R3K2R b KQkq - 1 15,I threaten sams queen
+30,g6,g7g6,r3k1nr/p6p/2np1pp1/7Q/P2Ppq2/1PB5/2P3PP/R3K2R w KQkq - 0 16,I threaten sams queen
+31,Rf1,h1f1,r3k1nr/p6p/2np1pp1/7Q/P2Ppq2/1PB5/2P3PP/R3KR2 b Qkq - 1 16,"He threatens mine back, I dont want to lose it though, because mine is in a better position, and I also see a fork"
+32,Qe3+,f4e3,r3k1nr/p6p/2np1pp1/7Q/P2Pp3/1PB1q3/2P3PP/R3KR2 w Qkq - 2 17,"Typical move, forced really, unless sam wanted to lose the queen needlessly"
+33,Qe2,h5e2,r3k1nr/p6p/2np1pp1/8/P2Pp3/1PB1q3/2P1Q1PP/R3KR2 b Qkq - 3 17,"Typical move, forced really, unless sam wanted to lose the queen needlessly"
+34,Qxc3+,e3c3,r3k1nr/p6p/2np1pp1/8/P2Pp3/1Pq5/2P1Q1PP/R3KR2 w Qkq - 0 18,"unfortunately, he didnt see the consecutive bishop rook attack...."
+35,Qd2,e2d2,r3k1nr/p6p/2np1pp1/8/P2Pp3/1Pq5/2PQ2PP/R3KR2 b Qkq - 1 18,"unfortunately, he didnt see the consecutive bishop rook attack...."
+36,Qxa1+,c3a1,r3k1nr/p6p/2np1pp1/8/P2Pp3/1P6/2PQ2PP/q3KR2 w kq - 0 19,"unfortunately, he didnt see the consecutive bishop rook attack...."
+37,Ke2,e1e2,r3k1nr/p6p/2np1pp1/8/P2Pp3/1P6/2PQK1PP/q4R2 b kq - 1 19,I go on to win
+38,Nxd4+,c6d4,r3k1nr/p6p/3p1pp1/8/P2np3/1P6/2PQK1PP/q4R2 w kq - 0 20,I go on to win
+39,Ke3,e2e3,r3k1nr/p6p/3p1pp1/8/P2np3/1P2K3/2PQ2PP/q4R2 b kq - 1 20,
+40,Qxf1,a1f1,r3k1nr/p6p/3p1pp1/8/P2np3/1P2K3/2PQ2PP/5q2 w kq - 0 21,
+41,Qxd4,d2d4,r3k1nr/p6p/3p1pp1/8/P2Qp3/1P2K3/2P3PP/5q2 b kq - 0 21,
+42,Qg1+,f1g1,r3k1nr/p6p/3p1pp1/8/P2Qp3/1P2K3/2P3PP/6q1 w kq - 1 22,
+43,Kxe4,e3e4,r3k1nr/p6p/3p1pp1/8/P2QK3/1P6/2P3PP/6q1 b kq - 0 22,
+44,Qxg2+,g1g2,r3k1nr/p6p/3p1pp1/8/P2QK3/1P6/2P3qP/8 w kq - 0 23,
+45,Kd3,e4d3,r3k1nr/p6p/3p1pp1/8/P2Q4/1P1K4/2P3qP/8 b kq - 1 23,
+46,Rc8,a8c8,2r1k1nr/p6p/3p1pp1/8/P2Q4/1P1K4/2P3qP/8 w k - 2 24,
+47,Qe3+,d4e3,2r1k1nr/p6p/3p1pp1/8/P7/1P1KQ3/2P3qP/8 b k - 3 24,
+48,Ne7,g8e7,2r1k2r/p3n2p/3p1pp1/8/P7/1P1KQ3/2P3qP/8 w k - 4 25,

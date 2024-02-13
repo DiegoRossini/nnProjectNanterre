@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,"Larsen's opening, also called Queen's fianchetto opening. The idea is to prepare for a fianchetto of the queen's bishop which will attack throught the long diagonal b2-f6, This was the first time I've encountered such a strange opening."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2,"Limiting the influence of the would-be finachettoed bishop and attempting to control the center, also d5 or c5 were both possible"
+3,Bb2,c1b2,rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2,Protecting my central pawn and developing a piece
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3,Protecting my central pawn and developing a piece
+5,e3,e2e3,r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3,Preparing for d4
+6,d5,d7d5,r1bqkbnr/ppp2ppp/2n5/3pp3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 0 4,White threatens to wina pawn after ... a6? Bxc6 bxc6 Bxe5 but the reply was easy!
+7,Bb5,f1b5,r1bqkbnr/ppp2ppp/2n5/1B1pp3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 1 4,White threatens to wina pawn after ... a6? Bxc6 bxc6 Bxe5 but the reply was easy!
+8,Bd6,f8d6,r1bqk1nr/ppp2ppp/2nb4/1B1pp3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 2 5,This develops a piece and prepare for castling as e5 wastes time and inceases the influence of the finachettoed bishop.
+9,Bxc6+,b5c6,r1bqk1nr/ppp2ppp/2Bb4/3pp3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 0 5,"Mistake, now white exchanged his bishop fo a knight without gaining any advantage, if it was afte a6 then this move wouldn't have been too bad."
+10,bxc6,b7c6,r1bqk1nr/p1p2ppp/2pb4/3pp3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 6,Now white has blocked the way of his own fianchettoed bishop!
+11,d4,d2d4,r1bqk1nr/p1p2ppp/2pb4/3pp3/3P4/1P2P3/PBP2PPP/RN1QK1NR b KQkq - 0 6,Now white has blocked the way of his own fianchettoed bishop!
+12,e4,e5e4,r1bqk1nr/p1p2ppp/2pb4/3p4/3Pp3/1P2P3/PBP2PPP/RN1QK1NR w KQkq - 0 7,Threatening to win a pawn but it was just a threat!
+13,c4,c2c4,r1bqk1nr/p1p2ppp/2pb4/3p4/2PPp3/1P2P3/PB3PPP/RN1QK1NR b KQkq - 0 7,Threatening to win a pawn but it was just a threat!
+14,Qg5,d8g5,r1b1k1nr/p1p2ppp/2pb4/3p2q1/2PPp3/1P2P3/PB3PPP/RN1QK1NR w KQkq - 1 8,Threatening to win a pawn but it was just a threat!
+15,g3,g2g3,r1b1k1nr/p1p2ppp/2pb4/3p2q1/2PPp3/1P2P1P1/PB3P1P/RN1QK1NR b KQkq - 0 8,"Really poor move, Ne2 was better, after that I can't take the pawn. Now white is in trouble!"
+16,Bg4,c8g4,r3k1nr/p1p2ppp/2pb4/3p2q1/2PPp1b1/1P2P1P1/PB3P1P/RN1QK1NR w KQkq - 1 9,Exploiting the weakness of the light squares in the white camp.
+17,Ne2,g1e2,r3k1nr/p1p2ppp/2pb4/3p2q1/2PPp1b1/1P2P1P1/PB2NP1P/RN1QK2R b KQkq - 2 9,Exploiting the weakness of the light squares in the white camp.
+18,Bf3,g4f3,r3k1nr/p1p2ppp/2pb4/3p2q1/2PPp3/1P2PbP1/PB2NP1P/RN1QK2R w KQkq - 3 10,Exploiting the weakness of the light squares in the white camp.
+19,Rg1,h1g1,r3k1nr/p1p2ppp/2pb4/3p2q1/2PPp3/1P2PbP1/PB2NP1P/RN1QK1R1 b Qkq - 4 10,"Probably Nf6 was better here, but Ne7 isn't bad!"
+20,Ne7,g8e7,r3k2r/p1p1nppp/2pb4/3p2q1/2PPp3/1P2PbP1/PB2NP1P/RN1QK1R1 w Qkq - 5 11,"Probably Nf6 was better here, but Ne7 isn't bad!"
+21,Ba3,b2a3,r3k2r/p1p1nppp/2pb4/3p2q1/2PPp3/BP2PbP1/P3NP1P/RN1QK1R1 b Qkq - 6 11,White realizes that his blocked bishop isn't doing him any good so he decides to exchange it!
+22,Bxa3,d6a3,r3k2r/p1p1nppp/2p5/3p2q1/2PPp3/bP2PbP1/P3NP1P/RN1QK1R1 w Qkq - 0 12,"Mistake, white closed the situation with no advantage for him, cxd5 was far better and then he could attack through his half-open c file!"
+23,Nxa3,b1a3,r3k2r/p1p1nppp/2p5/3p2q1/2PPp3/NP2PbP1/P3NP1P/R2QK1R1 b Qkq - 0 12,"Mistake, white closed the situation with no advantage for him, cxd5 was far better and then he could attack through his half-open c file!"
+24,O-O,e8g8,r4rk1/p1p1nppp/2p5/3p2q1/2PPp3/NP2PbP1/P3NP1P/R2QK1R1 w Q - 1 13,"Mistake, white closed the situation with no advantage for him, cxd5 was far better and then he could attack through his half-open c file!"
+25,c5,c4c5,r4rk1/p1p1nppp/2p5/2Pp2q1/3Pp3/NP2PbP1/P3NP1P/R2QK1R1 b Q - 0 13,"Mistake, white closed the situation with no advantage for him, cxd5 was far better and then he could attack through his half-open c file!"
+26,Nf5,e7f5,r4rk1/p1p2ppp/2p5/2Pp1nq1/3Pp3/NP2PbP1/P3NP1P/R2QK1R1 w Q - 1 14,"Bringing force to the combat zone, and I was thinking I could play Nxe3 aftewards which puts the white in serious trouble"
+27,Qd2,d1d2,r4rk1/p1p2ppp/2p5/2Pp1nq1/3Pp3/NP2PbP1/P2QNP1P/R3K1R1 b Q - 2 14,Preventing Nxe3!
+28,Qh5,g5h5,r4rk1/p1p2ppp/2p5/2Pp1n1q/3Pp3/NP2PbP1/P2QNP1P/R3K1R1 w Q - 3 15,"Theaten to win a pawn, and h4 was the only possible reply!"
+29,h4,h2h4,r4rk1/p1p2ppp/2p5/2Pp1n1q/3Pp2P/NP2PbP1/P2QNP2/R3K1R1 b Q - 0 15,"Theaten to win a pawn, and h4 was the only possible reply!"
+30,Qg4,h5g4,r4rk1/p1p2ppp/2p5/2Pp1n2/3Pp1qP/NP2PbP1/P2QNP2/R3K1R1 w Q - 1 16,"A mistake the loses the white a pawn, but understandable because Nxh4 wasn't that obvious!"
+31,Nf4,e2f4,r4rk1/p1p2ppp/2p5/2Pp1n2/3PpNqP/NP2PbP1/P2Q1P2/R3K1R1 b Q - 2 16,"A mistake the loses the white a pawn, but understandable because Nxh4 wasn't that obvious!"
+32,Nxh4,f5h4,r4rk1/p1p2ppp/2p5/2Pp4/3PpNqn/NP2PbP1/P2Q1P2/R3K1R1 w Q - 0 17,Wining a pawn
+33,Qa5,d2a5,r4rk1/p1p2ppp/2p5/Q1Pp4/3PpNqn/NP2PbP1/P4P2/R3K1R1 b Q - 1 17,attempting to assault my queen's side and open things up!
+34,Rfc8,f8c8,r1r3k1/p1p2ppp/2p5/Q1Pp4/3PpNqn/NP2PbP1/P4P2/R3K1R1 w Q - 2 18,attempting to assault my queen's side and open things up!
+35,b4,b3b4,r1r3k1/p1p2ppp/2p5/Q1Pp4/1P1PpNqn/N3PbP1/P4P2/R3K1R1 b Q - 0 18,attempting to assault my queen's side and open things up!

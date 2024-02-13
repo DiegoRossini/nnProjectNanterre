@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is a bit passive.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This is a bit passive.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This is a bit passive.
+4,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is a bit passive.
+5,Bc4,f1c4,rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,This is a bit passive.
+6,d6,d7d6,rnbqk1nr/ppp2ppp/3p4/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,This is a bit passive.
+7,d4,d2d4,rnbqk1nr/ppp2ppp/3p4/2b1p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,"I thought about just castling here, but I couldn't get okay with losing the pawn in this position."
+8,exd4,e5d4,rnbqk1nr/ppp2ppp/3p4/2b5/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,"I thought about just castling here, but I couldn't get okay with losing the pawn in this position."
+9,Nxd4,f3d4,rnbqk1nr/ppp2ppp/3p4/2b5/2BNP3/8/PPP2PPP/RNBQK2R b KQkq - 0 5,I think this is where everything goes wrong for black. It seems like a good idea to pin the pawn to my king but the pawn is poisoned after...
+10,Qe7,d8e7,rnb1k1nr/ppp1qppp/3p4/2b5/2BNP3/8/PPP2PPP/RNBQK2R w KQkq - 1 6,I think this is where everything goes wrong for black. It seems like a good idea to pin the pawn to my king but the pawn is poisoned after...
+11,O-O,e1g1,rnb1k1nr/ppp1qppp/3p4/2b5/2BNP3/8/PPP2PPP/RNBQ1RK1 b kq - 2 6,Perhaps he is planning b5?
+12,a5,a7a5,rnb1k1nr/1pp1qppp/3p4/p1b5/2BNP3/8/PPP2PPP/RNBQ1RK1 w kq - 0 7,Perhaps he is planning b5?
+13,Nc3,b1c3,rnb1k1nr/1pp1qppp/3p4/p1b5/2BNP3/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 7,Preventing Nd5 or Nb5
+14,c6,c7c6,rnb1k1nr/1p2qppp/2pp4/p1b5/2BNP3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 8,Preventing Nd5 or Nb5
+15,Nf5,d4f5,rnb1k1nr/1p2qppp/2pp4/p1b2N2/2B1P3/2N5/PPP2PPP/R1BQ1RK1 b kq - 1 8,I decide to open the e file or cause black to become more passive.
+16,Bxf5,c8f5,rn2k1nr/1p2qppp/2pp4/p1b2b2/2B1P3/2N5/PPP2PPP/R1BQ1RK1 w kq - 0 9,Black is at a critical position here since he needs to figure out how to develop his king without losing his queen.
+17,exf5,e4f5,rn2k1nr/1p2qppp/2pp4/p1b2P2/2B5/2N5/PPP2PPP/R1BQ1RK1 b kq - 0 9,Black is at a critical position here since he needs to figure out how to develop his king without losing his queen.
+18,Qf6,e7f6,rn2k1nr/1p3ppp/2pp1q2/p1b2P2/2B5/2N5/PPP2PPP/R1BQ1RK1 w kq - 1 10,I think this is the best move.
+19,Ne4,c3e4,rn2k1nr/1p3ppp/2pp1q2/p1b2P2/2B1N3/8/PPP2PPP/R1BQ1RK1 b kq - 2 10,I decide to go aggressive.
+20,Qxf5,f6f5,rn2k1nr/1p3ppp/2pp4/p1b2q2/2B1N3/8/PPP2PPP/R1BQ1RK1 w kq - 0 11,Now my queen is close to the black king and threatening to prevent him from castling. If he plays 12. ... Ne7 then 13. Re1 pins the knight to the king and the king cannot castle.
+21,Nxd6+,e4d6,rn2k1nr/1p3ppp/2pN4/p1b2q2/2B5/8/PPP2PPP/R1BQ1RK1 b kq - 0 11,Now my queen is close to the black king and threatening to prevent him from castling. If he plays 12. ... Ne7 then 13. Re1 pins the knight to the king and the king cannot castle.
+22,Bxd6,c5d6,rn2k1nr/1p3ppp/2pb4/p4q2/2B5/8/PPP2PPP/R1BQ1RK1 w kq - 0 12,Now my queen is close to the black king and threatening to prevent him from castling. If he plays 12. ... Ne7 then 13. Re1 pins the knight to the king and the king cannot castle.
+23,Qxd6,d1d6,rn2k1nr/1p3ppp/2pQ4/p4q2/2B5/8/PPP2PPP/R1B2RK1 b kq - 0 12,Now my queen is close to the black king and threatening to prevent him from castling. If he plays 12. ... Ne7 then 13. Re1 pins the knight to the king and the king cannot castle.
+24,Qd7,f5d7,rn2k1nr/1p1q1ppp/2pQ4/p7/2B5/8/PPP2PPP/R1B2RK1 w kq - 1 13,Probably best.
+25,Qg3,d6g3,rn2k1nr/1p1q1ppp/2p5/p7/2B5/6Q1/PPP2PPP/R1B2RK1 b kq - 2 13,I decide not to go for the quick check on e1. g7 is weak and will delay him a tempo.
+26,f6,f7f6,rn2k1nr/1p1q2pp/2p2p2/p7/2B5/6Q1/PPP2PPP/R1B2RK1 w kq - 0 14,Threatening to win the knight.
+27,Bf4,c1f4,rn2k1nr/1p1q2pp/2p2p2/p7/2B2B2/6Q1/PPP2PPP/R4RK1 b kq - 1 14,Threatening to win the knight.
+28,Na6,b8a6,r3k1nr/1p1q2pp/n1p2p2/p7/2B2B2/6Q1/PPP2PPP/R4RK1 w kq - 2 15,Separating the queen and king. Black is lost here.
+29,Rad1,a1d1,r3k1nr/1p1q2pp/n1p2p2/p7/2B2B2/6Q1/PPP2PPP/3R1RK1 b kq - 3 15,Separating the queen and king. Black is lost here.
+30,Qf5,d7f5,r3k1nr/1p4pp/n1p2p2/p4q2/2B2B2/6Q1/PPP2PPP/3R1RK1 w kq - 4 16,! The winning move. Black's king is toast.
+31,Qxg7,g3g7,r3k1nr/1p4Qp/n1p2p2/p4q2/2B2B2/8/PPP2PPP/3R1RK1 b kq - 0 16,! The winning move. Black's king is toast.
+32,Qxf4,f5f4,r3k1nr/1p4Qp/n1p2p2/p7/2B2q2/8/PPP2PPP/3R1RK1 w kq - 0 17,Simple ending. Comments welcome!
+33,Qf7#,g7f7,r3k1nr/1p3Q1p/n1p2p2/p7/2B2q2/8/PPP2PPP/3R1RK1 b kq - 1 17,Simple ending. Comments welcome!

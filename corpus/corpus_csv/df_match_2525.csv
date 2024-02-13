@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This was a game played with a time control of 15 minutes plus a 10 second increment.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My standard counter to 1.e4.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Typically, white plays d4 here, but Bc4 is not bad at all."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Typically, white plays d4 here, but Bc4 is not bad at all."
+5,Bc4,f1c4,rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,"Typically, white plays d4 here, but Bc4 is not bad at all."
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4,Guarding the e-pawn while opening up a diagonal for the bishop.
+7,d3,d2d3,rnbqkb1r/pp2pppp/3p1n2/2p5/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,Guarding the e-pawn while opening up a diagonal for the bishop.
+8,Nc6,b8c6,r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,Taking control of d4.
+9,a3,a2a3,r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/P2P1N2/1PP2PPP/RNBQK2R b KQkq - 0 5,"An interesting move, probably played with the aim of retaining the bishop pair if Na5 and playing b4."
+10,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/2p5/2B1P3/P2P1N2/1PP2PPP/RNBQK2R w KQkq - 0 6,"Another possibility was Bg4 pinning the f3 knight taking further control of d4. However, the bishop on g7 will aid in the control of the central dark-squares."
+11,Nc3,b1c3,r1bqkb1r/pp2pp1p/2np1np1/2p5/2B1P3/P1NP1N2/1PP2PPP/R1BQK2R b KQkq - 1 6,Preventing Bg4.
+12,Bg7,f8g7,r1bqk2r/pp2ppbp/2np1np1/2p5/2B1P3/P1NP1N2/1PP2PPP/R1BQK2R w KQkq - 2 7,Preventing Bg4.
+13,O-O,e1g1,r1bqk2r/pp2ppbp/2np1np1/2p5/2B1P3/P1NP1N2/1PP2PPP/R1BQ1RK1 b kq - 3 7,Preventing Bg4.
+14,O-O,e8g8,r1bq1rk1/pp2ppbp/2np1np1/2p5/2B1P3/P1NP1N2/1PP2PPP/R1BQ1RK1 w - - 4 8,Preventing Bg4.
+15,h3,h2h3,r1bq1rk1/pp2ppbp/2np1np1/2p5/2B1P3/P1NP1N1P/1PP2PP1/R1BQ1RK1 b - - 0 8,Preventing Bg4.
+16,e6,e7e6,r1bq1rk1/pp3pbp/2nppnp1/2p5/2B1P3/P1NP1N1P/1PP2PP1/R1BQ1RK1 w - - 0 9,Covering d5 and preparing to break open the center with d5.
+17,Bd2,c1d2,r1bq1rk1/pp3pbp/2nppnp1/2p5/2B1P3/P1NP1N1P/1PPB1PP1/R2Q1RK1 b - - 1 9,A better place for the bishop is on g5 where it pins the black knight.
+18,d5,d6d5,r1bq1rk1/pp3pbp/2n1pnp1/2pp4/2B1P3/P1NP1N1P/1PPB1PP1/R2Q1RK1 w - - 0 10,I played this instead of exd5 because the only way for white to safely dispose of the knight is to take with the bishop which gives me the bishop pair. Taking with the knight fails to exd5 B moves Bxb2 winning a pawn. If white doesn't take then I can double his pawns.
+19,exd5,e4d5,r1bq1rk1/pp3pbp/2n1pnp1/2pP4/2B5/P1NP1N1P/1PPB1PP1/R2Q1RK1 b - - 0 10,I played this instead of exd5 because the only way for white to safely dispose of the knight is to take with the bishop which gives me the bishop pair. Taking with the knight fails to exd5 B moves Bxb2 winning a pawn. If white doesn't take then I can double his pawns.
+20,Nxd5,f6d5,r1bq1rk1/pp3pbp/2n1p1p1/2pn4/2B5/P1NP1N1P/1PPB1PP1/R2Q1RK1 w - - 0 11,I played this instead of exd5 because the only way for white to safely dispose of the knight is to take with the bishop which gives me the bishop pair. Taking with the knight fails to exd5 B moves Bxb2 winning a pawn. If white doesn't take then I can double his pawns.
+21,Bxd5,c4d5,r1bq1rk1/pp3pbp/2n1p1p1/2pB4/8/P1NP1N1P/1PPB1PP1/R2Q1RK1 b - - 0 11,I would have accepted the doubled pawns as they exert control over the center.
+22,exd5,e6d5,r1bq1rk1/pp3pbp/2n3p1/2pp4/8/P1NP1N1P/1PPB1PP1/R2Q1RK1 w - - 0 12,"I believe black has a nice advantage because he has the bishop pair, central control and more space."
+23,Rb1,a1b1,r1bq1rk1/pp3pbp/2n3p1/2pp4/8/P1NP1N1P/1PPB1PP1/1R1Q1RK1 b - - 1 12,Getting the rook off the bishop's diagonal.
+24,Bf5,c8f5,r2q1rk1/pp3pbp/2n3p1/2pp1b2/8/P1NP1N1P/1PPB1PP1/1R1Q1RK1 w - - 2 13,"Developing the bishop, although it appears to have no future here, I plan to play c4 to try to clear up its diagonal and turn white's cpawn into a potential weakness."
+25,Ne2,c3e2,r2q1rk1/pp3pbp/2n3p1/2pp1b2/8/P2P1N1P/1PPBNPP1/1R1Q1RK1 b - - 3 13,Perhaps with the aim of playing b4.
+26,c4,c5c4,r2q1rk1/pp3pbp/2n3p1/3p1b2/2p5/P2P1N1P/1PPBNPP1/1R1Q1RK1 w - - 0 14,Pushing my bishop back.
+27,Ng3,e2g3,r2q1rk1/pp3pbp/2n3p1/3p1b2/2p5/P2P1NNP/1PPB1PP1/1R1Q1RK1 b - - 1 14,Pushing my bishop back.
+28,Be6,f5e6,r2q1rk1/pp3pbp/2n1b1p1/3p4/2p5/P2P1NNP/1PPB1PP1/1R1Q1RK1 w - - 2 15,Offering the trade of queens.
+29,dxc4,d3c4,r2q1rk1/pp3pbp/2n1b1p1/3p4/2P5/P4NNP/1PPB1PP1/1R1Q1RK1 b - - 0 15,Offering the trade of queens.
+30,dxc4,d5c4,r2q1rk1/pp3pbp/2n1b1p1/8/2p5/P4NNP/1PPB1PP1/1R1Q1RK1 w - - 0 16,Offering the trade of queens.
+31,Be3,d2e3,r2q1rk1/pp3pbp/2n1b1p1/8/2p5/P3BNNP/1PP2PP1/1R1Q1RK1 b - - 1 16,Offering the trade of queens.
+32,Qxd1,d8d1,r4rk1/pp3pbp/2n1b1p1/8/2p5/P3BNNP/1PP2PP1/1R1q1RK1 w - - 0 17,I accept.
+33,Rfxd1,f1d1,r4rk1/pp3pbp/2n1b1p1/8/2p5/P3BNNP/1PP2PP1/1R1R2K1 b - - 0 17,I was struggling to decide whether Rad8 was better but I didn't like how it left the a-pawn weak.
+34,Rfd8,f8d8,r2r2k1/pp3pbp/2n1b1p1/8/2p5/P3BNNP/1PP2PP1/1R1R2K1 w - - 1 18,I was struggling to decide whether Rad8 was better but I didn't like how it left the a-pawn weak.

@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Dutch (A80).
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,The Dutch (A80).
+3,Nf3,g1f3,rnbqkbnr/ppppp1pp/8/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,Preventing Black from doing 2...e5?? unless he does 2...d6.
+4,Nh6,g8h6,rnbqkb1r/ppppp1pp/7n/5p2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3,?! A dubious move; the knight is in the wrong place. Better was 2...Nf3.
+5,Nc3,b1c3,rnbqkb1r/ppppp1pp/7n/5p2/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3,I have a slight advantage due to well placed knights.
+6,Nc6,b8c6,r1bqkb1r/ppppp1pp/2n4n/5p2/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 4 4,I have a slight advantage due to well placed knights.
+7,Bf4,c1f4,r1bqkb1r/ppppp1pp/2n4n/5p2/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 5 4,"I could have taken the knight, but the take is no better than this move."
+8,d5,d7d5,r1bqkb1r/ppp1p1pp/2n4n/3p1p2/3P1B2/2N2N2/PPP1PPPP/R2QKB1R w KQkq - 0 5,"A partial mistake. After this move, I should play 6.Be3 or 6.Bg3 depending on what he does next."
+9,Ne5,f3e5,r1bqkb1r/ppp1p1pp/2n4n/3pNp2/3P1B2/2N5/PPP1PPPP/R2QKB1R b KQkq - 1 5,"A partial mistake. After this move, I should play 6.Be3 or 6.Bg3 depending on what he does next."
+10,Ng4,h6g4,r1bqkb1r/ppp1p1pp/2n5/3pNp2/3P1Bn1/2N5/PPP1PPPP/R2QKB1R w KQkq - 2 6,"With that, 6.Bg3 would be slightly better."
+11,Nxg4,e5g4,r1bqkb1r/ppp1p1pp/2n5/3p1p2/3P1BN1/2N5/PPP1PPPP/R2QKB1R b KQkq - 0 6,"I became a bit greedy about the knight, but I've now asked for a knight trade."
+12,Nxd4,c6d4,r1bqkb1r/ppp1p1pp/8/3p1p2/3n1BN1/2N5/PPP1PPPP/R2QKB1R w KQkq - 0 7,I think Black overlooked my position a bit. This move was a definite mistake:6...Nxd4?! 7.Qxd4 fxg4 8.Qxd5 and I'm a knight ahead in material.
+13,Qxd4,d1d4,r1bqkb1r/ppp1p1pp/8/3p1p2/3Q1BN1/2N5/PPP1PPPP/R3KB1R b KQkq - 0 7,"Instead of 8.Qxd5, I was desperate to win a rook."
+14,fxg4,f5g4,r1bqkb1r/ppp1p1pp/8/3p4/3Q1Bp1/2N5/PPP1PPPP/R3KB1R w KQkq - 0 8,"Instead of 8.Qxd5, I was desperate to win a rook."
+15,Be5,f4e5,r1bqkb1r/ppp1p1pp/8/3pB3/3Q2p1/2N5/PPP1PPPP/R3KB1R b KQkq - 1 8,"Instead of 8.Qxd5, I was desperate to win a rook."
+16,e6,e7e6,r1bqkb1r/ppp3pp/4p3/3pB3/3Q2p1/2N5/PPP1PPPP/R3KB1R w KQkq - 0 9,"With that, I had the option to gain more material with 9.Qxg4 and lose the Bishop for two pawns, or 9.O-O-O, which is safer."
+17,Bxg7,e5g7,r1bqkb1r/ppp3Bp/4p3/3p4/3Q2p1/2N5/PPP1PPPP/R3KB1R b KQkq - 0 9,A mistake for me. I got greedy about the pawn and the rook and forgot how mobile the rook actually is.
+18,Rg8,h8g8,r1bqkbr1/ppp3Bp/4p3/3p4/3Q2p1/2N5/PPP1PPPP/R3KB1R w KQq - 1 10,Inaccurate. Better was 10.Be5
+19,f3,f2f3,r1bqkbr1/ppp3Bp/4p3/3p4/3Q2p1/2N2P2/PPP1P1PP/R3KB1R b KQq - 0 10,Inaccurate. Better was 10.Be5
+20,Bxg7,f8g7,r1bqk1r1/ppp3bp/4p3/3p4/3Q2p1/2N2P2/PPP1P1PP/R3KB1R w KQq - 0 11,A very safe check.
+21,Qa4+,d4a4,r1bqk1r1/ppp3bp/4p3/3p4/Q5p1/2N2P2/PPP1P1PP/R3KB1R b KQq - 1 11,A very safe check.
+22,c6,c7c6,r1bqk1r1/pp4bp/2p1p3/3p4/Q5p1/2N2P2/PPP1P1PP/R3KB1R w KQq - 0 12,11.Bd7 would be a little more helpful.
+23,O-O-O,e1c1,r1bqk1r1/pp4bp/2p1p3/3p4/Q5p1/2N2P2/PPP1P1PP/2KR1B1R b q - 1 12,"After castling queenside, the weakness on the h6-c1 diagonal increased, allowing this safe check to come into play."
+24,Rb8,a8b8,1rbqk1r1/pp4bp/2p1p3/3p4/Q5p1/2N2P2/PPP1P1PP/2KR1B1R w - - 2 13,"After castling queenside, the weakness on the h6-c1 diagonal increased, allowing this safe check to come into play."
+25,e4,e2e4,1rbqk1r1/pp4bp/2p1p3/3p4/Q3P1p1/2N2P2/PPP3PP/2KR1B1R b - - 0 13,"After castling queenside, the weakness on the h6-c1 diagonal increased, allowing this safe check to come into play."
+26,Bh6+,g7h6,1rbqk1r1/pp5p/2p1p2b/3p4/Q3P1p1/2N2P2/PPP3PP/2KR1B1R w - - 1 14,"After castling queenside, the weakness on the h6-c1 diagonal increased, allowing this safe check to come into play."
+27,Kb1,c1b1,1rbqk1r1/pp5p/2p1p2b/3p4/Q3P1p1/2N2P2/PPP3PP/1K1R1B1R b - - 2 14,"An extra pawn, or am I asking for trouble? The answer is...................both!"
+28,b5,b7b5,1rbqk1r1/p6p/2p1p2b/1p1p4/Q3P1p1/2N2P2/PPP3PP/1K1R1B1R w - - 0 15,"An extra pawn, or am I asking for trouble? The answer is...................both!"
+29,Qxa7,a4a7,1rbqk1r1/Q6p/2p1p2b/1p1p4/4P1p1/2N2P2/PPP3PP/1K1R1B1R b - - 0 15,"An extra pawn, or am I asking for trouble? The answer is...................both!"
+30,Bd7,c8d7,1r1qk1r1/Q2b3p/2p1p2b/1p1p4/4P1p1/2N2P2/PPP3PP/1K1R1B1R w - - 1 16,Connecting both the rook and the queen
+31,exd5,e4d5,1r1qk1r1/Q2b3p/2p1p2b/1p1P4/6p1/2N2P2/PPP3PP/1K1R1B1R b - - 0 16,I try to punctuate the center.
+32,exd5,e6d5,1r1qk1r1/Q2b3p/2p4b/1p1p4/6p1/2N2P2/PPP3PP/1K1R1B1R w - - 0 17,Black couldn't win much more after this.
+33,Nxd5,c3d5,1r1qk1r1/Q2b3p/2p4b/1p1N4/6p1/5P2/PPP3PP/1K1R1B1R b - - 0 17,Black couldn't win much more after this.

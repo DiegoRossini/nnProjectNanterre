@@ -1,0 +1,102 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,(White's knight finds safety without losing time)
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,(White's knight finds safety without losing time)
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,(White's knight finds safety without losing time)
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,(White's knight finds safety without losing time)
+5,Nc3,b1c3,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,(White's knight finds safety without losing time)
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,(White's knight finds safety without losing time)
+7,Nxe4,c3e4,rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4,(White's knight finds safety without losing time)
+8,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5,(White's knight finds safety without losing time)
+9,Ng3,e4g3,rn1qkbnr/pp2pppp/2p5/5b2/3P4/6N1/PPP2PPP/R1BQKBNR b KQkq - 2 5,(White's knight finds safety without losing time)
+10,Bg6,f5g6,rn1qkbnr/pp2pppp/2p3b1/8/3P4/6N1/PPP2PPP/R1BQKBNR w KQkq - 3 6,"Black gives up his most active piece, and White trades with tempo"
+11,Nf3,g1f3,rn1qkbnr/pp2pppp/2p3b1/8/3P4/5NN1/PPP2PPP/R1BQKB1R b KQkq - 4 6,"Black gives up his most active piece, and White trades with tempo"
+12,Nd7,b8d7,r2qkbnr/pp1npppp/2p3b1/8/3P4/5NN1/PPP2PPP/R1BQKB1R w KQkq - 5 7,"Black gives up his most active piece, and White trades with tempo"
+13,Bf4,c1f4,r2qkbnr/pp1npppp/2p3b1/8/3P1B2/5NN1/PPP2PPP/R2QKB1R b KQkq - 6 7,"Black gives up his most active piece, and White trades with tempo"
+14,e6,e7e6,r2qkbnr/pp1n1ppp/2p1p1b1/8/3P1B2/5NN1/PPP2PPP/R2QKB1R w KQkq - 0 8,"Black gives up his most active piece, and White trades with tempo"
+15,Bd3,f1d3,r2qkbnr/pp1n1ppp/2p1p1b1/8/3P1B2/3B1NN1/PPP2PPP/R2QK2R b KQkq - 1 8,"Black gives up his most active piece, and White trades with tempo"
+16,Bxd3,g6d3,r2qkbnr/pp1n1ppp/2p1p3/8/3P1B2/3b1NN1/PPP2PPP/R2QK2R w KQkq - 0 9,"Black gives up his most active piece, and White trades with tempo"
+17,Qxd3,d1d3,r2qkbnr/pp1n1ppp/2p1p3/8/3P1B2/3Q1NN1/PPP2PPP/R3K2R b KQkq - 0 9,Claiming a semi-open file
+18,Ngf6,g8f6,r2qkb1r/pp1n1ppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/R3K2R w KQkq - 1 10,Claiming a semi-open file
+19,O-O,e1g1,r2qkb1r/pp1n1ppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/R4RK1 b kq - 2 10,Claiming a semi-open file
+20,Be7,f8e7,r2qk2r/pp1nbppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/R4RK1 w kq - 3 11,Claiming a semi-open file
+21,Rfe1,f1e1,r2qk2r/pp1nbppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/R3R1K1 b kq - 4 11,Claiming a semi-open file
+22,O-O,e8g8,r2q1rk1/pp1nbppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/R3R1K1 w - - 5 12,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+23,Rad1,a1d1,r2q1rk1/pp1nbppp/2p1pn2/8/3P1B2/3Q1NN1/PPP2PPP/3RR1K1 b - - 6 12,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+24,Qb6,d8b6,r4rk1/pp1nbppp/1qp1pn2/8/3P1B2/3Q1NN1/PPP2PPP/3RR1K1 w - - 7 13,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+25,c4,c2c4,r4rk1/pp1nbppp/1qp1pn2/8/2PP1B2/3Q1NN1/PP3PPP/3RR1K1 b - - 0 13,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+26,Rfd8,f8d8,r2r2k1/pp1nbppp/1qp1pn2/8/2PP1B2/3Q1NN1/PP3PPP/3RR1K1 w - - 1 14,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+27,Qc2,d3c2,r2r2k1/pp1nbppp/1qp1pn2/8/2PP1B2/5NN1/PPQ2PPP/3RR1K1 b - - 2 14,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+28,Qa6,b6a6,r2r2k1/pp1nbppp/q1p1pn2/8/2PP1B2/5NN1/PPQ2PPP/3RR1K1 w - - 3 15,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+29,a3,a2a3,r2r2k1/pp1nbppp/q1p1pn2/8/2PP1B2/P4NN1/1PQ2PPP/3RR1K1 b - - 0 15,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+30,Nf8,d7f8,r2r1nk1/pp2bppp/q1p1pn2/8/2PP1B2/P4NN1/1PQ2PPP/3RR1K1 w - - 1 16,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+31,h4,h2h4,r2r1nk1/pp2bppp/q1p1pn2/8/2PP1B1P/P4NN1/1PQ2PP1/3RR1K1 b - - 0 16,"White's King is well protected, as Black's Queen is badly out of position.  White intends to disrupt the pawns around Black's king."
+32,Ng6,f8g6,r2r2k1/pp2bppp/q1p1pnn1/8/2PP1B1P/P4NN1/1PQ2PP1/3RR1K1 w - - 1 17,? Why help White in his plan?
+33,Bg5,f4g5,r2r2k1/pp2bppp/q1p1pnn1/6B1/2PP3P/P4NN1/1PQ2PP1/3RR1K1 b - - 2 17,? Why help White in his plan?
+34,h6,h7h6,r2r2k1/pp2bpp1/q1p1pnnp/6B1/2PP3P/P4NN1/1PQ2PP1/3RR1K1 w - - 0 18,? Why help White in his plan?
+35,h5,h4h5,r2r2k1/pp2bpp1/q1p1pnnp/6BP/2PP4/P4NN1/1PQ2PP1/3RR1K1 b - - 0 18,Seeing out the aim to disrupt Black's position
+36,Nf8,g6f8,r2r1nk1/pp2bpp1/q1p1pn1p/6BP/2PP4/P4NN1/1PQ2PP1/3RR1K1 w - - 1 19,Forced -- Black faced tripling pawns!
+37,Bf4,g5f4,r2r1nk1/pp2bpp1/q1p1pn1p/7P/2PP1B2/P4NN1/1PQ2PP1/3RR1K1 b - - 2 19,? An awkward position for this Black knight -- if White can establish himself on g6 he should win comfortably
+38,Nf8d7,f8d7,r2r2k1/pp1nbpp1/q1p1pn1p/7P/2PP1B2/P4NN1/1PQ2PP1/3RR1K1 w - - 3 20,? An awkward position for this Black knight -- if White can establish himself on g6 he should win comfortably
+39,Bc7,f4c7,r2r2k1/ppBnbpp1/q1p1pn1p/7P/2PP4/P4NN1/1PQ2PP1/3RR1K1 b - - 4 20,Threatening Knxf7 immediately
+40,Rde8,d8e8,r3r1k1/ppBnbpp1/q1p1pn1p/7P/2PP4/P4NN1/1PQ2PP1/3RR1K1 w - - 5 21,Threatening Knxf7 immediately
+41,Bf4,c7f4,r3r1k1/pp1nbpp1/q1p1pn1p/7P/2PP1B2/P4NN1/1PQ2PP1/3RR1K1 b - - 6 21,Threatening Knxf7 immediately
+42,Rad8,a8d8,3rr1k1/pp1nbpp1/q1p1pn1p/7P/2PP1B2/P4NN1/1PQ2PP1/3RR1K1 w - - 7 22,Threatening Knxf7 immediately
+43,Ne5,f3e5,3rr1k1/pp1nbpp1/q1p1pn1p/4N2P/2PP1B2/P5N1/1PQ2PP1/3RR1K1 b - - 8 22,Threatening Knxf7 immediately
+44,Nf8,d7f8,3rrnk1/pp2bpp1/q1p1pn1p/4N2P/2PP1B2/P5N1/1PQ2PP1/3RR1K1 w - - 9 23,"? costing Black another tempo, but at least covering the vital g6 (and h7) squares."
+45,b4,b2b4,3rrnk1/pp2bpp1/q1p1pn1p/4N2P/1PPP1B2/P5N1/2Q2PP1/3RR1K1 b - - 0 23,"(Note ..Qxa3 is met with Ra1 Qxb4, Rb1 Qd6 and White can win material back if he so wishes. The Black Queen now interferes with his d-file and is vulnerable anytime White moves his knight on e5.)"
+46,Nf8d7,f8d7,3rr1k1/pp1nbpp1/q1p1pn1p/4N2P/1PPP1B2/P5N1/2Q2PP1/3RR1K1 w - - 1 24,"?! A blunder -- White has been intending to sac his knight on f7, following up with a check by the queen on g6. At best Black must have seen this and then forgot, by placing his knight on f8 on his previous move.  Black is lost now..."
+47,Nxf7,e5f7,3rr1k1/pp1nbNp1/q1p1pn1p/7P/1PPP1B2/P5N1/2Q2PP1/3RR1K1 b - - 0 24,"White will win, even if Black plays accurately.  The middlegame closes rapidly, with a sequence of exchanges. For this, White gains three pawns and a decisive endgame."
+48,Kxf7,g8f7,3rr3/pp1nbkp1/q1p1pn1p/7P/1PPP1B2/P5N1/2Q2PP1/3RR1K1 w - - 0 25,"Better might have been KnxBg7, stalling the Black rook"
+49,Qg6+,c2g6,3rr3/pp1nbkp1/q1p1pnQp/7P/1PPP1B2/P5N1/5PP1/3RR1K1 b - - 1 25,"Better might have been KnxBg7, stalling the Black rook"
+50,Kg8,f7g8,3rr1k1/pp1nb1p1/q1p1pnQp/7P/1PPP1B2/P5N1/5PP1/3RR1K1 w - - 2 26,"Better might have been KnxBg7, stalling the Black rook"
+51,Bxh6,f4h6,3rr1k1/pp1nb1p1/q1p1pnQB/7P/1PPP4/P5N1/5PP1/3RR1K1 b - - 0 26,"Better might have been KnxBg7, stalling the Black rook"
+52,Bf8,e7f8,3rrbk1/pp1n2p1/q1p1pnQB/7P/1PPP4/P5N1/5PP1/3RR1K1 w - - 1 27,"Better might have been KnxBg7, stalling the Black rook"
+53,Bxg7,h6g7,3rrbk1/pp1n2B1/q1p1pnQ1/7P/1PPP4/P5N1/5PP1/3RR1K1 b - - 0 27,"Better might have been KnxBg7, stalling the Black rook"
+54,Bxg7,f8g7,3rr1k1/pp1n2b1/q1p1pnQ1/7P/1PPP4/P5N1/5PP1/3RR1K1 w - - 0 28,"Better might have been KnxBg7, stalling the Black rook"
+55,h6,h5h6,3rr1k1/pp1n2b1/q1p1pnQP/8/1PPP4/P5N1/5PP1/3RR1K1 b - - 0 28,"Better might have been KnxBg7, stalling the Black rook"
+56,Re7,e8e7,3r2k1/pp1nr1b1/q1p1pnQP/8/1PPP4/P5N1/5PP1/3RR1K1 w - - 1 29,"Better might have been KnxBg7, stalling the Black rook"
+57,Nf5,g3f5,3r2k1/pp1nr1b1/q1p1pnQP/5N2/1PPP4/P7/5PP1/3RR1K1 b - - 2 29,"Better might have been KnxBg7, stalling the Black rook"
+58,Rf7,e7f7,3r2k1/pp1n1rb1/q1p1pnQP/5N2/1PPP4/P7/5PP1/3RR1K1 w - - 3 30,"Better might have been KnxBg7, stalling the Black rook"
+59,Rxe6,e1e6,3r2k1/pp1n1rb1/q1p1RnQP/5N2/1PPP4/P7/5PP1/3R2K1 b - - 0 30,"Better might have been KnxBg7, stalling the Black rook"
+60,Nf8,d7f8,3r1nk1/pp3rb1/q1p1RnQP/5N2/1PPP4/P7/5PP1/3R2K1 w - - 1 31,"Better might have been KnxBg7, stalling the Black rook"
+61,h7+,h6h7,3r1nk1/pp3rbP/q1p1RnQ1/5N2/1PPP4/P7/5PP1/3R2K1 b - - 0 31,"Better might have been KnxBg7, stalling the Black rook"
+62,Kh8,g8h8,3r1n1k/pp3rbP/q1p1RnQ1/5N2/1PPP4/P7/5PP1/3R2K1 w - - 1 32,"Better might have been KnxBg7, stalling the Black rook"
+63,Qxf7,g6f7,3r1n1k/pp3QbP/q1p1Rn2/5N2/1PPP4/P7/5PP1/3R2K1 b - - 0 32,"Better might have been KnxBg7, stalling the Black rook"
+64,Nxe6,f8e6,3r3k/pp3QbP/q1p1nn2/5N2/1PPP4/P7/5PP1/3R2K1 w - - 0 33,"Better might have been KnxBg7, stalling the Black rook"
+65,Qxe6,f7e6,3r3k/pp4bP/q1p1Qn2/5N2/1PPP4/P7/5PP1/3R2K1 b - - 0 33,"Better might have been KnxBg7, stalling the Black rook"
+66,Rd7,d8d7,7k/pp1r2bP/q1p1Qn2/5N2/1PPP4/P7/5PP1/3R2K1 w - - 1 34,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+67,Nxg7,f5g7,7k/pp1r2NP/q1p1Qn2/8/1PPP4/P7/5PP1/3R2K1 b - - 0 34,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+68,Rxg7,d7g7,7k/pp4rP/q1p1Qn2/8/1PPP4/P7/5PP1/3R2K1 w - - 0 35,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+69,Qxf6,e6f6,7k/pp4rP/q1p2Q2/8/1PPP4/P7/5PP1/3R2K1 b - - 0 35,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+70,Qxc4,a6c4,7k/pp4rP/2p2Q2/8/1PqP4/P7/5PP1/3R2K1 w - - 0 36,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+71,Re1,d1e1,7k/pp4rP/2p2Q2/8/1PqP4/P7/5PP1/4R1K1 b - - 1 36,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+72,Qf7,c4f7,7k/pp3qrP/2p2Q2/8/1P1P4/P7/5PP1/4R1K1 w - - 2 37,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+73,Qxf7,f6f7,7k/pp3QrP/2p5/8/1P1P4/P7/5PP1/4R1K1 b - - 0 37,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+74,Rxf7,g7f7,7k/pp3r1P/2p5/8/1P1P4/P7/5PP1/4R1K1 w - - 0 38,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+75,g4,g2g4,7k/pp3r1P/2p5/8/1P1P2P1/P7/5P2/4R1K1 b - - 0 38,"Black's rook will have to vacate the 7th rank, prompting an exchange of rooks.  More than good enough for White."
+76,Rf4,f7f4,7k/pp5P/2p5/8/1P1P1rP1/P7/5P2/4R1K1 w - - 1 39,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+77,Re7,e1e7,7k/pp2R2P/2p5/8/1P1P1rP1/P7/5P2/6K1 b - - 2 39,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+78,Rxg4+,f4g4,7k/pp2R2P/2p5/8/1P1P2r1/P7/5P2/6K1 w - - 0 40,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+79,Kf1,g1f1,7k/pp2R2P/2p5/8/1P1P2r1/P7/5P2/5K2 b - - 1 40,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+80,Rg7,g4g7,7k/pp2R1rP/2p5/8/1P1P4/P7/5P2/5K2 w - - 2 41,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+81,Rxg7,e7g7,7k/pp4RP/2p5/8/1P1P4/P7/5P2/5K2 b - - 0 41,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+82,Kxg7,h8g7,8/pp4kP/2p5/8/1P1P4/P7/5P2/5K2 w - - 0 42,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+83,Ke2,f1e2,8/pp4kP/2p5/8/1P1P4/P7/4KP2/8 b - - 1 42,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+84,Kxh7,g7h7,8/pp5k/2p5/8/1P1P4/P7/4KP2/8 w - - 0 43,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+85,Ke3,e2e3,8/pp5k/2p5/8/1P1P4/P3K3/5P2/8 b - - 1 43,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+86,Kg6,h7g6,8/pp6/2p3k1/8/1P1P4/P3K3/5P2/8 w - - 2 44,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+87,Ke4,e3e4,8/pp6/2p3k1/8/1P1PK3/P7/5P2/8 b - - 3 44,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+88,Kf6,g6f6,8/pp6/2p2k2/8/1P1PK3/P7/5P2/8 w - - 4 45,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+89,f4,f2f4,8/pp6/2p2k2/8/1P1PKP2/P7/8/8 b - - 0 45,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+90,Ke6,f6e6,8/pp6/2p1k3/8/1P1PKP2/P7/8/8 w - - 1 46,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+91,a4,a3a4,8/pp6/2p1k3/8/PP1PKP2/8/8/8 b - - 0 46,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+92,Kf6,e6f6,8/pp6/2p2k2/8/PP1PKP2/8/8/8 w - - 1 47,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+93,f5,f4f5,8/pp6/2p2k2/5P2/PP1PK3/8/8/8 b - - 0 47,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+94,Ke7,f6e7,8/pp2k3/2p5/5P2/PP1PK3/8/8/8 w - - 1 48,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+95,Ke5,e4e5,8/pp2k3/2p5/4KP2/PP1P4/8/8/8 b - - 2 48,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+96,b6,b7b6,8/p3k3/1pp5/4KP2/PP1P4/8/8/8 w - - 0 49,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+97,a5,a4a5,8/p3k3/1pp5/P3KP2/1P1P4/8/8/8 b - - 0 49,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+98,bxa5,b6a5,8/p3k3/2p5/p3KP2/1P1P4/8/8/8 w - - 0 50,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+99,bxa5,b4a5,8/p3k3/2p5/P3KP2/3P4/8/8/8 b - - 0 50,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+100,a6,a7a6,8/4k3/p1p5/P3KP2/3P4/8/8/8 w - - 0 51,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"
+101,f6+,f5f6,8/4k3/p1p2P2/P3K3/3P4/8/8/8 b - - 0 51,"The Black king has an unwelcome dilemma -- damned if I do, damned if I don't!"

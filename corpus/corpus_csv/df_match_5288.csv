@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A nice little ending I strung together. A higher rated player would probably have seen it but still lost the queen
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,standard
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,standard
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,standard
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"this is where it kicks off, bad move for black next i think"
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"this is where it kicks off, bad move for black next i think"
+7,O-O,e1g1,r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 5 4,"this is where it kicks off, bad move for black next i think"
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 6 5,"this is where it kicks off, bad move for black next i think"
+9,Nc3,b1c3,r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5,"this is where it kicks off, bad move for black next i think"
+10,Bd6,c5d6,r1bqk2r/pppp1ppp/2nb1n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 8 6,"this is where it kicks off, bad move for black next i think"
+11,d3,d2d3,r1bqk2r/pppp1ppp/2nb1n2/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQ1RK1 b kq - 0 6,"this is where it kicks off, bad move for black next i think"
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/2nb1n2/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 1 7,"this is where it kicks off, bad move for black next i think"
+13,Bg5,c1g5,r1bq1rk1/pppp1ppp/2nb1n2/1B2p1B1/4P3/2NP1N2/PPP2PPP/R2Q1RK1 b - - 2 7,"this is where it kicks off, bad move for black next i think"
+14,Re8,f8e8,r1bqr1k1/pppp1ppp/2nb1n2/1B2p1B1/4P3/2NP1N2/PPP2PPP/R2Q1RK1 w - - 3 8,"this is where it kicks off, bad move for black next i think"
+15,Qd2,d1d2,r1bqr1k1/pppp1ppp/2nb1n2/1B2p1B1/4P3/2NP1N2/PPPQ1PPP/R4RK1 b - - 4 8,"this is where it kicks off, bad move for black next i think"
+16,h6,h7h6,r1bqr1k1/pppp1pp1/2nb1n1p/1B2p1B1/4P3/2NP1N2/PPPQ1PPP/R4RK1 w - - 0 9,black tries to push the bishop away but it is supported by the queen!
+17,Bxh6,g5h6,r1bqr1k1/pppp1pp1/2nb1n1B/1B2p3/4P3/2NP1N2/PPPQ1PPP/R4RK1 b - - 0 9,i take the pawn with my bishop and tear open the kings defence
+18,gxh6,g7h6,r1bqr1k1/pppp1p2/2nb1n1p/1B2p3/4P3/2NP1N2/PPPQ1PPP/R4RK1 w - - 0 10,i take the pawn with my bishop and tear open the kings defence
+19,Qxh6,d2h6,r1bqr1k1/pppp1p2/2nb1n1Q/1B2p3/4P3/2NP1N2/PPP2PPP/R4RK1 b - - 0 10,kings in a dangerous place
+20,Ng4,f6g4,r1bqr1k1/pppp1p2/2nb3Q/1B2p3/4P1n1/2NP1N2/PPP2PPP/R4RK1 w - - 1 11,opponent tries to push my queen away
+21,Qh5,h6h5,r1bqr1k1/pppp1p2/2nb4/1B2p2Q/4P1n1/2NP1N2/PPP2PPP/R4RK1 b - - 2 11,opponent tries to push my queen away
+22,Kf8,g8f8,r1bqrk2/pppp1p2/2nb4/1B2p2Q/4P1n1/2NP1N2/PPP2PPP/R4RK1 w - - 3 12,and moves king
+23,Qh8+,h5h8,r1bqrk1Q/pppp1p2/2nb4/1B2p3/4P1n1/2NP1N2/PPP2PPP/R4RK1 b - - 4 12,i see check mate
+24,Ke7,f8e7,r1bqr2Q/ppppkp2/2nb4/1B2p3/4P1n1/2NP1N2/PPP2PPP/R4RK1 w - - 5 13,no where else to go
+25,Nd5+,c3d5,r1bqr2Q/ppppkp2/2nb4/1B1Np3/4P1n1/3P1N2/PPP2PPP/R4RK1 b - - 6 13,fores the king to move again
+26,Ke6,e7e6,r1bqr2Q/pppp1p2/2nbk3/1B1Np3/4P1n1/3P1N2/PPP2PPP/R4RK1 w - - 7 14,the player can force a queen swap here by moving the bishop in the way
+27,Qxe8+,h8e8,r1bqQ3/pppp1p2/2nbk3/1B1Np3/4P1n1/3P1N2/PPP2PPP/R4RK1 b - - 0 14,the player can force a queen swap here by moving the bishop in the way
+28,Qxe8,d8e8,r1b1q3/pppp1p2/2nbk3/1B1Np3/4P1n1/3P1N2/PPP2PPP/R4RK1 w - - 0 15,but the queen is to tempting and....
+29,Ng5#,f3g5,r1b1q3/pppp1p2/2nbk3/1B1Np1N1/4P1n1/3P4/PPP2PPP/R4RK1 b - - 1 15,checkmate!

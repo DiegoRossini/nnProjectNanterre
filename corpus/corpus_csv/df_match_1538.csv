@@ -1,0 +1,67 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Richter-Rauzer variation.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Richter-Rauzer variation.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Richter-Rauzer variation.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Richter-Rauzer variation.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Richter-Rauzer variation.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Richter-Rauzer variation.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Richter-Rauzer variation.
+10,Nc6,b8c6,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6,Richter-Rauzer variation.
+11,f3,f2f3,r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6,An unlikely manoeuvre that will become clear sooner...
+12,e5,e7e5,r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N2P2/PPP3PP/R1BQKB1R w KQkq - 0 7,An unlikely manoeuvre that will become clear sooner...
+13,Nb3,d4b3,r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/1NN2P2/PPP3PP/R1BQKB1R b KQkq - 1 7,An unlikely manoeuvre that will become clear sooner...
+14,Be7,f8e7,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/1NN2P2/PPP3PP/R1BQKB1R w KQkq - 2 8,An unlikely manoeuvre that will become clear sooner...
+15,Be3,c1e3,r1bqk2r/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R b KQkq - 3 8,An unlikely manoeuvre that will become clear sooner...
+16,O-O,e8g8,r1bq1rk1/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPP3PP/R2QKB1R w KQ - 4 9,An unlikely manoeuvre that will become clear sooner...
+17,Qd2,d1d2,r1bq1rk1/pp2bppp/2np1n2/4p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R b KQ - 5 9,An unlikely manoeuvre that will become clear sooner...
+18,a5,a7a5,r1bq1rk1/1p2bppp/2np1n2/p3p3/4P3/1NN1BP2/PPPQ2PP/R3KB1R w KQ - 0 10,An unlikely manoeuvre that will become clear sooner...
+19,Bb5,f1b5,r1bq1rk1/1p2bppp/2np1n2/pB2p3/4P3/1NN1BP2/PPPQ2PP/R3K2R b KQ - 1 10,An unlikely manoeuvre that will become clear sooner...
+20,Be6,c8e6,r2q1rk1/1p2bppp/2npbn2/pB2p3/4P3/1NN1BP2/PPPQ2PP/R3K2R w KQ - 2 11,An unlikely manoeuvre that will become clear sooner...
+21,O-O-O,e1c1,r2q1rk1/1p2bppp/2npbn2/pB2p3/4P3/1NN1BP2/PPPQ2PP/2KR3R b - - 3 11,An unlikely manoeuvre that will become clear sooner...
+22,Ne8,f6e8,r2qnrk1/1p2bppp/2npb3/pB2p3/4P3/1NN1BP2/PPPQ2PP/2KR3R w - - 4 12,An unlikely manoeuvre that will become clear sooner...
+23,g4,g2g4,r2qnrk1/1p2bppp/2npb3/pB2p3/4P1P1/1NN1BP2/PPPQ3P/2KR3R b - - 0 12,An unlikely manoeuvre that will become clear sooner...
+24,Nc7,e8c7,r2q1rk1/1pn1bppp/2npb3/pB2p3/4P1P1/1NN1BP2/PPPQ3P/2KR3R w - - 1 13,An unlikely manoeuvre that will become clear sooner...
+25,Kb1,c1b1,r2q1rk1/1pn1bppp/2npb3/pB2p3/4P1P1/1NN1BP2/PPPQ3P/1K1R3R b - - 2 13,Devoted to a future attack.
+26,Qb8,d8b8,rq3rk1/1pn1bppp/2npb3/pB2p3/4P1P1/1NN1BP2/PPPQ3P/1K1R3R w - - 3 14,Devoted to a future attack.
+27,Bb6,e3b6,rq3rk1/1pn1bppp/1Bnpb3/pB2p3/4P1P1/1NN2P2/PPPQ3P/1K1R3R b - - 4 14,"This move gives away the battle plan of White, you can see how he's desperately trying to prevent the b5-pawn advancing. If he fails, then a full scale attack storms the queenisde."
+28,Rc8,f8c8,rqr3k1/1pn1bppp/1Bnpb3/pB2p3/4P1P1/1NN2P2/PPPQ3P/1K1R3R w - - 5 15,"We can see here that if the attack on the queenside is stopped, then White marches on the Black king with his pawns, and since Black's pieces are stranded on the other side, you can truly see the importance of the b7-pawn.
+15...Nb4 wouldn't succeed because 16.h4 N7a6 17. a3 Nc6 18. Nd5!... with the edge going to White."
+29,Ba4,b5a4,rqr3k1/1pn1bppp/1Bnpb3/p3p3/B3P1P1/1NN2P2/PPPQ3P/1K1R3R b - - 6 15,"We can see here that if the attack on the queenside is stopped, then White marches on the Black king with his pawns, and since Black's pieces are stranded on the other side, you can truly see the importance of the b7-pawn.
+15...Nb4 wouldn't succeed because 16.h4 N7a6 17. a3 Nc6 18. Nd5!... with the edge going to White."
+30,Ra6,a8a6,1qr3k1/1pn1bppp/rBnpb3/p3p3/B3P1P1/1NN2P2/PPPQ3P/1K1R3R w - - 7 16,(!) More power on the queenside.
+31,Qf2,d2f2,1qr3k1/1pn1bppp/rBnpb3/p3p3/B3P1P1/1NN2P2/PPP2Q1P/1K1R3R b - - 8 16,"(!) Against all logic, Black corners his own knight for the sake of the b7-pawn."
+32,Na8,c7a8,nqr3k1/1p2bppp/rBnpb3/p3p3/B3P1P1/1NN2P2/PPP2Q1P/1K1R3R w - - 9 17,"(!) Against all logic, Black corners his own knight for the sake of the b7-pawn."
+33,Be3,b6e3,nqr3k1/1p2bppp/r1npb3/p3p3/B3P1P1/1NN1BP2/PPP2Q1P/1K1R3R b - - 10 17,(!) White won't give up!
+34,Nc7,a8c7,1qr3k1/1pn1bppp/r1npb3/p3p3/B3P1P1/1NN1BP2/PPP2Q1P/1K1R3R w - - 11 18,(!) White won't give up!
+35,Bb6,e3b6,1qr3k1/1pn1bppp/rBnpb3/p3p3/B3P1P1/1NN2P2/PPP2Q1P/1K1R3R b - - 12 18,(!) White won't give up!
+36,Na7,c6a7,1qr3k1/npn1bppp/rB1pb3/p3p3/B3P1P1/1NN2P2/PPP2Q1P/1K1R3R w - - 13 19,(!) Securing support squares.
+37,Nc1,b3c1,1qr3k1/npn1bppp/rB1pb3/p3p3/B3P1P1/2N2P2/PPP2Q1P/1KNR3R b - - 14 19,(!)
+38,Na8,c7a8,nqr3k1/np2bppp/rB1pb3/p3p3/B3P1P1/2N2P2/PPP2Q1P/1KNR3R w - - 15 20,(!)
+39,Be3,b6e3,nqr3k1/np2bppp/r2pb3/p3p3/B3P1P1/2N1BP2/PPP2Q1P/1KNR3R b - - 16 20,"(!) Black pushes, and starts the advance. His knights may be cornered, but that's irrelevant in light of the attack."
+40,b5,b7b5,nqr3k1/n3bppp/r2pb3/pp2p3/B3P1P1/2N1BP2/PPP2Q1P/1KNR3R w - - 0 21,"(!) Black pushes, and starts the advance. His knights may be cornered, but that's irrelevant in light of the attack."
+41,Bb3,a4b3,nqr3k1/n3bppp/r2pb3/pp2p3/4P1P1/1BN1BP2/PPP2Q1P/1KNR3R b - - 1 21,White has been knocked back significantly. His attack hasn't materialised beyond 12.g4...
+42,a4,a5a4,nqr3k1/n3bppp/r2pb3/1p2p3/p3P1P1/1BN1BP2/PPP2Q1P/1KNR3R w - - 0 22,White has been knocked back significantly. His attack hasn't materialised beyond 12.g4...
+43,Bxe6,b3e6,nqr3k1/n3bppp/r2pB3/1p2p3/p3P1P1/2N1BP2/PPP2Q1P/1KNR3R b - - 0 22,White has been knocked back significantly. His attack hasn't materialised beyond 12.g4...
+44,fxe6,f7e6,nqr3k1/n3b1pp/r2pp3/1p2p3/p3P1P1/2N1BP2/PPP2Q1P/1KNR3R w - - 0 23,White has been knocked back significantly. His attack hasn't materialised beyond 12.g4...
+45,Nc3e2,c3e2,nqr3k1/n3b1pp/r2pp3/1p2p3/p3P1P1/4BP2/PPP1NQ1P/1KNR3R b - - 1 23,White has been knocked back significantly. His attack hasn't materialised beyond 12.g4...
+46,b4,b5b4,nqr3k1/n3b1pp/r2pp3/4p3/pp2P1P1/4BP2/PPP1NQ1P/1KNR3R w - - 0 24,(!) Now Black mobilises strongly.
+47,f4,f3f4,nqr3k1/n3b1pp/r2pp3/4p3/pp2PPP1/4B3/PPP1NQ1P/1KNR3R b - - 0 24,(!) Now Black mobilises strongly.
+48,Nb5,a7b5,nqr3k1/4b1pp/r2pp3/1n2p3/pp2PPP1/4B3/PPP1NQ1P/1KNR3R w - - 1 25,(!) Now Black mobilises strongly.
+49,fxe5,f4e5,nqr3k1/4b1pp/r2pp3/1n2P3/pp2P1P1/4B3/PPP1NQ1P/1KNR3R b - - 0 25,(!) More problems are rising in White's disintegrating position.
+50,Nc3+,b5c3,nqr3k1/4b1pp/r2pp3/4P3/pp2P1P1/2n1B3/PPP1NQ1P/1KNR3R w - - 1 26,(!) More problems are rising in White's disintegrating position.
+51,Nxc3,e2c3,nqr3k1/4b1pp/r2pp3/4P3/pp2P1P1/2N1B3/PPP2Q1P/1KNR3R b - - 0 26,A strong weakness on b2 has been made.
+52,bxc3,b4c3,nqr3k1/4b1pp/r2pp3/4P3/p3P1P1/2p1B3/PPP2Q1P/1KNR3R w - - 0 27,A strong weakness on b2 has been made.
+53,b3,b2b3,nqr3k1/4b1pp/r2pp3/4P3/p3P1P1/1Pp1B3/P1P2Q1P/1KNR3R b - - 0 27,A strong weakness on b2 has been made.
+54,axb3,a4b3,nqr3k1/4b1pp/r2pp3/4P3/4P1P1/1pp1B3/P1P2Q1P/1KNR3R w - - 0 28,A strong weakness on b2 has been made.
+55,Nxb3,c1b3,nqr3k1/4b1pp/r2pp3/4P3/4P1P1/1Np1B3/P1P2Q1P/1K1R3R b - - 0 28,A strong weakness on b2 has been made.
+56,Qb4,b8b4,n1r3k1/4b1pp/r2pp3/4P3/1q2P1P1/1Np1B3/P1P2Q1P/1K1R3R w - - 1 29,(!) Their is no defence for White to stop the Black queen from rwaching a4 or a3.
+57,Bc1,e3c1,n1r3k1/4b1pp/r2pp3/4P3/1q2P1P1/1Np5/P1P2Q1P/1KBR3R b - - 2 29,A desperate counter.
+58,Qa4,b4a4,n1r3k1/4b1pp/r2pp3/4P3/q3P1P1/1Np5/P1P2Q1P/1KBR3R w - - 3 30,A desperate counter.
+59,a3,a2a3,n1r3k1/4b1pp/r2pp3/4P3/q3P1P1/PNp5/2P2Q1P/1KBR3R b - - 0 30,A desperate counter.
+60,dxe5,d6e5,n1r3k1/4b1pp/r3p3/4p3/q3P1P1/PNp5/2P2Q1P/1KBR3R w - - 0 31,A desperate counter.
+61,Rhf1,h1f1,n1r3k1/4b1pp/r3p3/4p3/q3P1P1/PNp5/2P2Q1P/1KBR1R2 b - - 1 31,A desperate counter.
+62,Bxa3,e7a3,n1r3k1/6pp/r3p3/4p3/q3P1P1/bNp5/2P2Q1P/1KBR1R2 w - - 0 32,(?!)
+63,Bh6,c1h6,n1r3k1/6pp/r3p2B/4p3/q3P1P1/bNp5/2P2Q1P/1K1R1R2 b - - 1 32,(?!)
+64,Ra7,a6a7,n1r3k1/r5pp/4p2B/4p3/q3P1P1/bNp5/2P2Q1P/1K1R1R2 w - - 2 33,(!) White's counter is defended.

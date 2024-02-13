@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The Giuoco Piano
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The Giuoco Piano
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,The Giuoco Piano
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,The Giuoco Piano
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,The Giuoco Piano
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,The Giuoco Piano
+7,d4,d2d4,r1bqk1nr/pppp1ppp/2n5/2b1p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 0 4,? This loses a pawn. You're not supposed to play this until c2c3.
+8,Bxd4,c5d4,r1bqk1nr/pppp1ppp/2n5/4p3/2BbP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,So I snap up the pawn
+9,Ng5,f3g5,r1bqk1nr/pppp1ppp/2n5/4p1N1/2BbP3/8/PPP2PPP/RNBQK2R b KQkq - 1 5,This seemed the best way to defend against the attack.
+10,Nh6,g8h6,r1bqk2r/pppp1ppp/2n4n/4p1N1/2BbP3/8/PPP2PPP/RNBQK2R w KQkq - 2 6,This seemed the best way to defend against the attack.
+11,Qh5,d1h5,r1bqk2r/pppp1ppp/2n4n/4p1NQ/2BbP3/8/PPP2PPP/RNB1K2R b KQkq - 3 6,Piles on the pressure
+12,g6,g7g6,r1bqk2r/pppp1p1p/2n3pn/4p1NQ/2BbP3/8/PPP2PPP/RNB1K2R w KQkq - 0 7,?? I block the attack but lose my knight
+13,Qxh6,h5h6,r1bqk2r/pppp1p1p/2n3pQ/4p1N1/2BbP3/8/PPP2PPP/RNB1K2R b KQkq - 0 7,So I try to get an attack going myself
+14,Qf6,d8f6,r1b1k2r/pppp1p1p/2n2qpQ/4p1N1/2BbP3/8/PPP2PPP/RNB1K2R w KQkq - 1 8,So I try to get an attack going myself
+15,Bxf7+,c4f7,r1b1k2r/pppp1B1p/2n2qpQ/4p1N1/3bP3/8/PPP2PPP/RNB1K2R b KQkq - 0 8,This is a big mistake. He should have dealt with my attack of f2
+16,Kd8,e8d8,r1bk3r/pppp1B1p/2n2qpQ/4p1N1/3bP3/8/PPP2PPP/RNB1K2R w KQ - 1 9,This is a big mistake. He should have dealt with my attack of f2
+17,g3,g2g3,r1bk3r/pppp1B1p/2n2qpQ/4p1N1/3bP3/6P1/PPP2P1P/RNB1K2R b KQ - 0 9,This is a big mistake. He should have dealt with my attack of f2
+18,Qxf2+,f6f2,r1bk3r/pppp1B1p/2n3pQ/4p1N1/3bP3/6P1/PPP2q1P/RNB1K2R w KQ - 0 10,If he doesn't notice it I've got mate
+19,Kd1,e1d1,r1bk3r/pppp1B1p/2n3pQ/4p1N1/3bP3/6P1/PPP2q1P/RNBK3R b - - 1 10,If he doesn't notice it I've got mate
+20,d5,d7d5,r1bk3r/ppp2B1p/2n3pQ/3pp1N1/3bP3/6P1/PPP2q1P/RNBK3R w - - 0 11,If he doesn't notice it I've got mate
+21,Nxh7,g5h7,r1bk3r/ppp2B1N/2n3pQ/3pp3/3bP3/6P1/PPP2q1P/RNBK3R b - - 0 11,He greedily snaps up another pawn
+22,Bg4#,c8g4,r2k3r/ppp2B1N/2n3pQ/3pp3/3bP1b1/6P1/PPP2q1P/RNBK3R w - - 1 12,"And my bishop comes around and checkmates the white king. As usual, please comment."

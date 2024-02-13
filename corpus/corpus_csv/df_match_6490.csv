@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"A Stonewall attack by a transposition of moves. White's ideal setup is pawns on c3,d4,e3,f4. Knights on d2 and f3 and a bishop on d3."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"A Stonewall attack by a transposition of moves. White's ideal setup is pawns on c3,d4,e3,f4. Knights on d2 and f3 and a bishop on d3."
+3,e3,e2e3,rnbqkb1r/pppppppp/5n2/8/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2,"A Stonewall attack by a transposition of moves. White's ideal setup is pawns on c3,d4,e3,f4. Knights on d2 and f3 and a bishop on d3."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 0 3,"A Stonewall attack by a transposition of moves. White's ideal setup is pawns on c3,d4,e3,f4. Knights on d2 and f3 and a bishop on d3."
+5,Nd2,b1d2,rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPPN1PPP/R1BQKBNR b KQkq - 1 3,"The whole goal of the last 2 moves is to defend e4,the weakest point in the Stonewall."
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4P3/PPPN1PPP/R1BQKBNR w KQkq - 0 4,"The whole goal of the last 2 moves is to defend e4,the weakest point in the Stonewall."
+7,Bd3,f1d3,rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/3BP3/PPPN1PPP/R1BQK1NR b KQkq - 1 4,"The whole goal of the last 2 moves is to defend e4,the weakest point in the Stonewall."
+8,c5,c7c5,rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/3BP3/PPPN1PPP/R1BQK1NR w KQkq - 0 5,"?! A dubious move,releasing all of the tension in the center and allows White to do as he pleases."
+9,c3,c2c3,rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/2PBP3/PP1N1PPP/R1BQK1NR b KQkq - 0 5,"?! A dubious move,releasing all of the tension in the center and allows White to do as he pleases."
+10,c4,c5c4,rnbqkb1r/pp3ppp/4pn2/3p4/2pP4/2PBP3/PP1N1PPP/R1BQK1NR w KQkq - 0 6,"?! A dubious move,releasing all of the tension in the center and allows White to do as he pleases."
+11,Bc2,d3c2,rnbqkb1r/pp3ppp/4pn2/3p4/2pP4/2P1P3/PPBN1PPP/R1BQK1NR b KQkq - 1 6,I've achieved the Stonewall setup without any difficulty
+12,Bd6,f8d6,rnbqk2r/pp3ppp/3bpn2/3p4/2pP4/2P1P3/PPBN1PPP/R1BQK1NR w KQkq - 2 7,I've achieved the Stonewall setup without any difficulty
+13,f4,f2f4,rnbqk2r/pp3ppp/3bpn2/3p4/2pP1P2/2P1P3/PPBN2PP/R1BQK1NR b KQkq - 0 7,I've achieved the Stonewall setup without any difficulty
+14,O-O,e8g8,rnbq1rk1/pp3ppp/3bpn2/3p4/2pP1P2/2P1P3/PPBN2PP/R1BQK1NR w KQ - 1 8,I've achieved the Stonewall setup without any difficulty
+15,Ngf3,g1f3,rnbq1rk1/pp3ppp/3bpn2/3p4/2pP1P2/2P1PN2/PPBN2PP/R1BQK2R b KQ - 2 8,I've achieved the Stonewall setup without any difficulty
+16,Ng4,f6g4,rnbq1rk1/pp3ppp/3bp3/3p4/2pP1Pn1/2P1PN2/PPBN2PP/R1BQK2R w KQ - 3 9,"? Another bad move,losing a pawn to the tactic..."
+17,Bxh7+,c2h7,rnbq1rk1/pp3ppB/3bp3/3p4/2pP1Pn1/2P1PN2/PP1N2PP/R1BQK2R b KQ - 0 9,! Black never saw this coming
+18,Kh8,g8h8,rnbq1r1k/pp3ppB/3bp3/3p4/2pP1Pn1/2P1PN2/PP1N2PP/R1BQK2R w KQ - 1 10,9...Kxh7 10.Ng5+ followed by 11.Qxg4
+19,Ng5,f3g5,rnbq1r1k/pp3ppB/3bp3/3p2N1/2pP1Pn1/2P1P3/PP1N2PP/R1BQK2R b KQ - 2 10,who cares about pawns? I'm hunting a bigger prize...the enemy king!
+20,Nxe3,g4e3,rnbq1r1k/pp3ppB/3bp3/3p2N1/2pP1P2/2P1n3/PP1N2PP/R1BQK2R w KQ - 0 11,The knight is very hungry and doesn't hesitate to take the helpless pawn
+21,Qh5,d1h5,rnbq1r1k/pp3ppB/3bp3/3p2NQ/2pP1P2/2P1n3/PP1N2PP/R1B1K2R b KQ - 1 11,! The king is suffocating. One Light-Squared bishop move and he is toast
+22,Nxg2+,e3g2,rnbq1r1k/pp3ppB/3bp3/3p2NQ/2pP1P2/2P5/PP1N2nP/R1B1K2R w KQ - 0 12,"Ok either this knight is 1.Greedy 2. Fat 3. Selfish. Pawns are getting taken left and right,but hey,that's the price of winning"
+23,Kd1,e1d1,rnbq1r1k/pp3ppB/3bp3/3p2NQ/2pP1P2/2P5/PP1N2nP/R1BK3R b - - 1 12,"""Pawns! Pawns! I love pawns!"" the knight said"
+24,Nxf4,g2f4,rnbq1r1k/pp3ppB/3bp3/3p2NQ/2pP1n2/2P5/PP1N3P/R1BK3R w - - 0 13,"""Pawns! Pawns! I love pawns!"" the knight said"
+25,Qh4,h5h4,rnbq1r1k/pp3ppB/3bp3/3p2N1/2pP1n1Q/2P5/PP1N3P/R1BK3R b - - 1 13,All of the sudden Black is helpless. The king orders a scrambling move to save himself. Boy I want to see what happens when the knight was disobeying the king.
+26,Qxg5,d8g5,rnb2r1k/pp3ppB/3bp3/3p2q1/2pP1n1Q/2P5/PP1N3P/R1BK3R w - - 0 14,"The Queen gives herself away to save the King. This was the only move to prevent mate. Unfortunately for the Black King,it happens sooner than expected..."
+27,Qxg5,h4g5,rnb2r1k/pp3ppB/3bp3/3p2Q1/2pP1n2/2P5/PP1N3P/R1BK3R b - - 0 14,! Why not win another pawn? The white knight was jealous of his counterpart =)
+28,Kxh7,h8h7,rnb2r2/pp3ppk/3bp3/3p2Q1/2pP1n2/2P5/PP1N3P/R1BK3R w - - 0 15,! Why not win another pawn? The white knight was jealous of his counterpart =)
+29,Nxc4,d2c4,rnb2r2/pp3ppk/3bp3/3p2Q1/2NP1n2/2P5/PP5P/R1BK3R b - - 0 15,! Why not win another pawn? The white knight was jealous of his counterpart =)
+30,dxc4,d5c4,rnb2r2/pp3ppk/3bp3/6Q1/2pP1n2/2P5/PP5P/R1BK3R w - - 0 16,The Bishop avenges his fellow pawns' deaths.
+31,Bxf4,c1f4,rnb2r2/pp3ppk/3bp3/6Q1/2pP1B2/2P5/PP5P/R2K3R b - - 0 16,The Bishop avenges his fellow pawns' deaths.
+32,Bxf4,d6f4,rnb2r2/pp3ppk/4p3/6Q1/2pP1b2/2P5/PP5P/R2K3R w - - 0 17,"Let's take an assesment of the position. White is up a queen to a knight,bishop and pawn. The bigger advantage to White is that he is better developed than Black. The Queen is in a strong position and the Rooks are ready to pounce on the Black King"
+33,Qxf4,g5f4,rnb2r2/pp3ppk/4p3/8/2pP1Q2/2P5/PP5P/R2K3R b - - 0 17,"Let's take an assesment of the position. White is up a queen to a knight,bishop and pawn. The bigger advantage to White is that he is better developed than Black. The Queen is in a strong position and the Rooks are ready to pounce on the Black King"
+34,Nc6,b8c6,r1b2r2/pp3ppk/2n1p3/8/2pP1Q2/2P5/PP5P/R2K3R w - - 1 18,An innocent looking enough move right?
+35,Rg1,h1g1,r1b2r2/pp3ppk/2n1p3/8/2pP1Q2/2P5/PP5P/R2K2R1 b - - 2 18,An innocent looking enough move right?
+36,Bd7,c8d7,r4r2/pp1b1ppk/2n1p3/8/2pP1Q2/2P5/PP5P/R2K2R1 w - - 3 19,"alas,this is too little too late"
+37,Kd2,d1d2,r4r2/pp1b1ppk/2n1p3/8/2pP1Q2/2P5/PP1K3P/R5R1 b - - 4 19,The rooks can see each other and become more powerful when conncected

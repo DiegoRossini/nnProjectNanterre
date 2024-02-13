@@ -1,0 +1,53 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,a beginners opening mostly that leads to many developing attacks for black
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,a beginners opening mostly that leads to many developing attacks for black
+3,Qh5,d1h5,rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2,a beginners opening mostly that leads to many developing attacks for black
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3,"saves the pawn, note for inexperienced players, g6 loses the rook to Qxe5"
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq - 3 3,threatening checkmate on f7
+6,g6,g7g6,r1bqkbnr/pppp1p1p/2n3p1/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4,now the pawn push works because the e5 pawn is protected
+7,Qf3,h5f3,r1bqkbnr/pppp1p1p/2n3p1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 4,"developing, pressuring e4"
+8,Nf6,g8f6,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 5,"developing, pressuring e4"
+9,g4,g2g4,r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P1P1/5Q2/PPPP1P1P/RNB1K1NR b KQkq - 0 5,"an attempt to press g5, winning the knight because it is pinned to checkmate"
+10,Nd4,c6d4,r1bqkb1r/pppp1p1p/5np1/4p3/2BnP1P1/5Q2/PPPP1P1P/RNB1K1NR w KQkq - 1 6,"threatens the queen and Nxc2 , winning the rook"
+11,Qc3,f3c3,r1bqkb1r/pppp1p1p/5np1/4p3/2BnP1P1/2Q5/PPPP1P1P/RNB1K1NR b KQkq - 2 6,defensive
+12,Bb4,f8b4,r1bqk2r/pppp1p1p/5np1/4p3/1bBnP1P1/2Q5/PPPP1P1P/RNB1K1NR w KQkq - 3 7,"if he takes the bishop, Nxc2  wins the queen"
+13,Qd3,c3d3,r1bqk2r/pppp1p1p/5np1/4p3/1bBnP1P1/3Q4/PPPP1P1P/RNB1K1NR b KQkq - 4 7,takes the pawn forgetting about the knight fork on c2
+14,d5,d7d5,r1bqk2r/ppp2p1p/5np1/3pp3/1bBnP1P1/3Q4/PPPP1P1P/RNB1K1NR w KQkq - 0 8,takes the pawn forgetting about the knight fork on c2
+15,exd5,e4d5,r1bqk2r/ppp2p1p/5np1/3Pp3/1bBn2P1/3Q4/PPPP1P1P/RNB1K1NR b KQkq - 0 8,takes the pawn forgetting about the knight fork on c2
+16,Nxd5,f6d5,r1bqk2r/ppp2p1p/6p1/3np3/1bBn2P1/3Q4/PPPP1P1P/RNB1K1NR w KQkq - 0 9,takes the pawn forgetting about the knight fork on c2
+17,Qe4,d3e4,r1bqk2r/ppp2p1p/6p1/3np3/1bBnQ1P1/8/PPPP1P1P/RNB1K1NR b KQkq - 1 9,takes the pawn forgetting about the knight fork on c2
+18,Be6,c8e6,r2qk2r/ppp2p1p/4b1p1/3np3/1bBnQ1P1/8/PPPP1P1P/RNB1K1NR w KQkq - 2 10,takes the pawn forgetting about the knight fork on c2
+19,Qxe5,e4e5,r2qk2r/ppp2p1p/4b1p1/3nQ3/1bBn2P1/8/PPPP1P1P/RNB1K1NR b KQkq - 0 10,takes the pawn forgetting about the knight fork on c2
+20,Nxc2+,d4c2,r2qk2r/ppp2p1p/4b1p1/3nQ3/1bB3P1/8/PPnP1P1P/RNB1K1NR w KQkq - 0 11,opens up the center for the bishop and queen
+21,Kd1,e1d1,r2qk2r/ppp2p1p/4b1p1/3nQ3/1bB3P1/8/PPnP1P1P/RNBK2NR b kq - 1 11,opens up the center for the bishop and queen
+22,Nxa1,c2a1,r2qk2r/ppp2p1p/4b1p1/3nQ3/1bB3P1/8/PP1P1P1P/nNBK2NR w kq - 0 12,opens up the center for the bishop and queen
+23,b3,b2b3,r2qk2r/ppp2p1p/4b1p1/3nQ3/1bB3P1/1P6/P2P1P1P/nNBK2NR b kq - 0 12,opens up the center for the bishop and queen
+24,O-O,e8g8,r2q1rk1/ppp2p1p/4b1p1/3nQ3/1bB3P1/1P6/P2P1P1P/nNBK2NR w - - 1 13,opens up the center for the bishop and queen
+25,d3,d2d3,r2q1rk1/ppp2p1p/4b1p1/3nQ3/1bB3P1/1P1P4/P4P1P/nNBK2NR b - - 0 13,opens up the center for the bishop and queen
+26,Bxg4+,e6g4,r2q1rk1/ppp2p1p/6p1/3nQ3/1bB3b1/1P1P4/P4P1P/nNBK2NR w - - 0 14,opens up the center for the bishop and queen
+27,f3,f2f3,r2q1rk1/ppp2p1p/6p1/3nQ3/1bB3b1/1P1P1P2/P6P/nNBK2NR b - - 0 14,opens up the center for the bishop and queen
+28,Be6,g4e6,r2q1rk1/ppp2p1p/4b1p1/3nQ3/1bB5/1P1P1P2/P6P/nNBK2NR w - - 1 15,opens up the center for the bishop and queen
+29,Qxa1,e5a1,r2q1rk1/ppp2p1p/4b1p1/3n4/1bB5/1P1P1P2/P6P/QNBK2NR b - - 0 15,opens up the center for the bishop and queen
+30,Nb6,d5b6,r2q1rk1/ppp2p1p/1n2b1p1/8/1bB5/1P1P1P2/P6P/QNBK2NR w - - 1 16,opens up the center for the bishop and queen
+31,Bb2,c1b2,r2q1rk1/ppp2p1p/1n2b1p1/8/1bB5/1P1P1P2/PB5P/QN1K2NR b - - 2 16,trying to get checkmate on the diagonal
+32,Bxc4,e6c4,r2q1rk1/ppp2p1p/1n4p1/8/1bb5/1P1P1P2/PB5P/QN1K2NR w - - 0 17,threatens Qxd4
+33,Bh8,b2h8,r2q1rkB/ppp2p1p/1n4p1/8/1bb5/1P1P1P2/P6P/QN1K2NR b - - 1 17,threatens Qg7
+34,Qxd3+,d8d3,r4rkB/ppp2p1p/1n4p1/8/1bb5/1P1q1P2/P6P/QN1K2NR w - - 0 18,drives the king in front of the queen winning the bishop
+35,Kc1,d1c1,r4rkB/ppp2p1p/1n4p1/8/1bb5/1P1q1P2/P6P/QNK3NR b - - 1 18,drives the king in front of the queen winning the bishop
+36,Qf1+,d3f1,r4rkB/ppp2p1p/1n4p1/8/1bb5/1P3P2/P6P/QNK2qNR w - - 2 19,drives the king in front of the queen winning the bishop
+37,Kb2,c1b2,r4rkB/ppp2p1p/1n4p1/8/1bb5/1P3P2/PK5P/QN3qNR b - - 3 19,sacrifices the bishop to bring the white king over to my pawns
+38,Kxh8,g8h8,r4r1k/ppp2p1p/1n4p1/8/1bb5/1P3P2/PK5P/QN3qNR w - - 0 20,sacrifices the bishop to bring the white king over to my pawns
+39,Kc2+,b2c2,r4r1k/ppp2p1p/1n4p1/8/1bb5/1P3P2/P1K4P/QN3qNR b - - 1 20,sacrifices the bishop to bring the white king over to my pawns
+40,f6,f7f6,r4r1k/ppp4p/1n3pp1/8/1bb5/1P3P2/P1K4P/QN3qNR w - - 0 21,sacrifices the bishop to bring the white king over to my pawns
+41,bxc4,b3c4,r4r1k/ppp4p/1n3pp1/8/1bP5/5P2/P1K4P/QN3qNR b - - 0 21,sacrifices the bishop to bring the white king over to my pawns
+42,Nxc4,b6c4,r4r1k/ppp4p/5pp1/8/1bn5/5P2/P1K4P/QN3qNR w - - 0 22,sacrifices the bishop to bring the white king over to my pawns
+43,Kb3,c2b3,r4r1k/ppp4p/5pp1/8/1bn5/1K3P2/P6P/QN3qNR b - - 1 22,sacrifices the bishop to bring the white king over to my pawns
+44,Qd3+,f1d3,r4r1k/ppp4p/5pp1/8/1bn5/1K1q1P2/P6P/QN4NR w - - 2 23,sacrifices the bishop to bring the white king over to my pawns
+45,Kxb4,b3b4,r4r1k/ppp4p/5pp1/8/1Kn5/3q1P2/P6P/QN4NR b - - 0 23,and the pawn attack begins!
+46,a5+,a7a5,r4r1k/1pp4p/5pp1/p7/1Kn5/3q1P2/P6P/QN4NR w - - 0 24,and the pawn attack begins!
+47,Kc5,b4c5,r4r1k/1pp4p/5pp1/p1K5/2n5/3q1P2/P6P/QN4NR b - - 1 24,"forces checkmate, if white plays Kc6 black plays Qd6 , forcing Kb7 followed by Rf8-b8"
+48,b6+,b7b6,r4r1k/2p4p/1p3pp1/p1K5/2n5/3q1P2/P6P/QN4NR w - - 0 25,"forces checkmate, if white plays Kc6 black plays Qd6 , forcing Kb7 followed by Rf8-b8"
+49,Kb5,c5b5,r4r1k/2p4p/1p3pp1/pK6/2n5/3q1P2/P6P/QN4NR b - - 1 25,"forces checkmate, if white plays Kc6 black plays Qd6 , forcing Kb7 followed by Rf8-b8"
+50,Na3+,c4a3,r4r1k/2p4p/1p3pp1/pK6/8/n2q1P2/P6P/QN4NR w - - 2 26,"forces checkmate, if white plays Kc6 black plays Qd6 , forcing Kb7 followed by Rf8-b8"
+51,Ka4,b5a4,r4r1k/2p4p/1p3pp1/p7/K7/n2q1P2/P6P/QN4NR b - - 3 26,pawn mate!
+52,b5#,b6b5,r4r1k/2p4p/5pp1/pp6/K7/n2q1P2/P6P/QN4NR w - - 0 27,pawn mate!

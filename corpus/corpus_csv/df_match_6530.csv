@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Hasta aca va una apertura Rui Lopez convencional. El alfil no entra en la variante del cambio retrocediendo a a4.
+8,Nf6,g8f6,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5,"Al blanco no le preocupa Cxe4 porque puede: 6.d4, una jugada tremendamente ofensiva, o si no [6.Te1], una jugada algo ams pasiva pero muy efectiva tambien."
+9,O-O,e1g1,r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5,"Al blanco no le preocupa Cxe4 porque puede: 6.d4, una jugada tremendamente ofensiva, o si no [6.Te1], una jugada algo ams pasiva pero muy efectiva tambien."
+10,Nxe4,f6e4,r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6,"Aca Nicolas comete el error que le lleva a perder la partida. Si la partida se desarrolla con una Rui Lopez, lo que tienen que hacer ambos bandos es seguir jugando Rui Lopez. Aca el negro intenta un cambio de apertura hacia una defensa Petroff (o defensa Rusa), lo que lo lleva a la ruina."
+11,d4,d2d4,r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 6,Te1 clava al caballo de e4
+12,exd4,e5d4,r1bqkb1r/1ppp1ppp/p1n5/8/B2pn3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 7,Te1 clava al caballo de e4
+13,Re1,f1e1,r1bqkb1r/1ppp1ppp/p1n5/8/B2pn3/5N2/PPP2PPP/RNBQR1K1 b kq - 1 7,Te1 clava al caballo de e4
+14,Qe7,d8e7,r1b1kb1r/1pppqppp/p1n5/8/B2pn3/5N2/PPP2PPP/RNBQR1K1 w kq - 2 8,"Aca hay 2 posibilidades: Ae7 lo que resguarda la dama pero entrega el caballo de e4. La otra es De7, peligrosa pero la que mantiene un poco mas las posibilidades."
+15,Nxd4,f3d4,r1b1kb1r/1pppqppp/p1n5/8/B2Nn3/8/PPP2PPP/RNBQR1K1 b kq - 0 8,El negro busca un fianchetto pero no llega con los tiempos
+16,g6,g7g6,r1b1kb1r/1pppqp1p/p1n3p1/8/B2Nn3/8/PPP2PPP/RNBQR1K1 w kq - 0 9,El negro busca un fianchetto pero no llega con los tiempos
+17,Nxc6,d4c6,r1b1kb1r/1pppqp1p/p1N3p1/8/B3n3/8/PPP2PPP/RNBQR1K1 b kq - 0 9,Este ultimo error se paga con jaque mate.
+18,Qe6,e7e6,r1b1kb1r/1ppp1p1p/p1N1q1p1/8/B3n3/8/PPP2PPP/RNBQR1K1 w kq - 1 10,Este ultimo error se paga con jaque mate.
+19,Nc3,b1c3,r1b1kb1r/1ppp1p1p/p1N1q1p1/8/B3n3/2N5/PPP2PPP/R1BQR1K1 b kq - 2 10,Este ultimo error se paga con jaque mate.
+20,Be7,f8e7,r1b1k2r/1pppbp1p/p1N1q1p1/8/B3n3/2N5/PPP2PPP/R1BQR1K1 w kq - 3 11,Este ultimo error se paga con jaque mate.
+21,Nxe7,c6e7,r1b1k2r/1pppNp1p/p3q1p1/8/B3n3/2N5/PPP2PPP/R1BQR1K1 b kq - 0 11,Este ultimo error se paga con jaque mate.
+22,Kxe7,e8e7,r1b4r/1pppkp1p/p3q1p1/8/B3n3/2N5/PPP2PPP/R1BQR1K1 w - - 0 12,Este ultimo error se paga con jaque mate.
+23,Nxe4,c3e4,r1b4r/1pppkp1p/p3q1p1/8/B3N3/8/PPP2PPP/R1BQR1K1 b - - 0 12,Este ultimo error se paga con jaque mate.
+24,Kf8,e7f8,r1b2k1r/1ppp1p1p/p3q1p1/8/B3N3/8/PPP2PPP/R1BQR1K1 w - - 1 13,Este ultimo error se paga con jaque mate.
+25,Bh6+,c1h6,r1b2k1r/1ppp1p1p/p3q1pB/8/B3N3/8/PPP2PPP/R2QR1K1 b - - 2 13,Este ultimo error se paga con jaque mate.
+26,Kg8,f8g8,r1b3kr/1ppp1p1p/p3q1pB/8/B3N3/8/PPP2PPP/R2QR1K1 w - - 3 14,Este ultimo error se paga con jaque mate.
+27,Ng5,e4g5,r1b3kr/1ppp1p1p/p3q1pB/6N1/B7/8/PPP2PPP/R2QR1K1 b - - 4 14,Este ultimo error se paga con jaque mate.
+28,Qf6,e6f6,r1b3kr/1ppp1p1p/p4qpB/6N1/B7/8/PPP2PPP/R2QR1K1 w - - 5 15,Este ultimo error se paga con jaque mate.
+29,Re8#,e1e8,r1b1R1kr/1ppp1p1p/p4qpB/6N1/B7/8/PPP2PPP/R2Q2K1 b - - 6 15,

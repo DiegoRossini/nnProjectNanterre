@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"This game features a very critical line against the Reti move order, 1. Nf3 d5 2. c4.  By responding 2...d4, Black enters a Benoni reversed, but with an extra tempo for White.  White can counter 3. b4, or as in this game, 3. g3, intending to undermine the center with Re1 and e3."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Black has given up the light squares in the center with his 2nd move.  White intends to exploit this.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,Black has given up the light squares in the center with his 2nd move.  White intends to exploit this.
+4,d4,d5d4,rnbqkbnr/ppp1pppp/8/8/2Pp4/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Black has given up the light squares in the center with his 2nd move.  White intends to exploit this.
+5,g3,g2g3,rnbqkbnr/ppp1pppp/8/8/2Pp4/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 3,Black has given up the light squares in the center with his 2nd move.  White intends to exploit this.
+6,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/8/2Pp4/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 1 4,"Entering a Schmidt-Benoni, where White has an easier time breaking up the Black center.  3...c5 is not only the most popular, but probably the most critical line."
+7,d3,d2d3,r1bqkbnr/ppp1pppp/2n5/8/2Pp4/3P1NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4,"5...f5, is a more ambitious choice, but White is fine either way."
+8,e5,e7e5,r1bqkbnr/ppp2ppp/2n5/4p3/2Pp4/3P1NP1/PP2PP1P/RNBQKB1R w KQkq - 0 5,"5...f5, is a more ambitious choice, but White is fine either way."
+9,Bg2,f1g2,r1bqkbnr/ppp2ppp/2n5/4p3/2Pp4/3P1NP1/PP2PPBP/RNBQK2R b KQkq - 1 5,"5...f5, is a more ambitious choice, but White is fine either way."
+10,Nf6,g8f6,r1bqkb1r/ppp2ppp/2n2n2/4p3/2Pp4/3P1NP1/PP2PPBP/RNBQK2R w KQkq - 2 6,"5...f5, is a more ambitious choice, but White is fine either way."
+11,O-O,e1g1,r1bqkb1r/ppp2ppp/2n2n2/4p3/2Pp4/3P1NP1/PP2PPBP/RNBQ1RK1 b kq - 3 6,"This move allows a tactical sequence that was once thought to be better for White, however, modern theory isnt so clear on this point.  Black can play safer lines with, 6...a5 or 6...Bd6."
+12,Be7,f8e7,r1bqk2r/ppp1bppp/2n2n2/4p3/2Pp4/3P1NP1/PP2PPBP/RNBQ1RK1 w kq - 4 7,"This move allows a tactical sequence that was once thought to be better for White, however, modern theory isnt so clear on this point.  Black can play safer lines with, 6...a5 or 6...Bd6."
+13,b4,b2b4,r1bqk2r/ppp1bppp/2n2n2/4p3/1PPp4/3P1NP1/P3PPBP/RNBQ1RK1 b kq - 0 7,Offering the b-pawn in exchange for the e-pawn.
+14,Nxb4,c6b4,r1bqk2r/ppp1bppp/5n2/4p3/1nPp4/3P1NP1/P3PPBP/RNBQ1RK1 w kq - 0 8,"Sjoberg-Adler continued: 7...Bxb4 8. Nxe5 Nxe5 9. Qa4  Bd7 10. Qxb4 b6!? 11. c5, rejecting the win of the exchange to keep the light-squares around his castled position intact.  Nigel Davies in his book on the Reti, believes that 7...Bxb4 is Black's best option."
+15,Nxe5,f3e5,r1bqk2r/ppp1bppp/5n2/4N3/1nPp4/3P2P1/P3PPBP/RNBQ1RK1 b kq - 0 8,"Now White is slightly better due to his strong light-squared bishop and extra center pawn.  However, this is not so easy against a 2100 player."
+16,O-O,e8g8,r1bq1rk1/ppp1bppp/5n2/4N3/1nPp4/3P2P1/P3PPBP/RNBQ1RK1 w - - 1 9,"Here, Nbd2 or a3 was probably stronger."
+17,Bb2,c1b2,r1bq1rk1/ppp1bppp/5n2/4N3/1nPp4/3P2P1/PB2PPBP/RN1Q1RK1 b - - 2 9,"Here, Nbd2 or a3 was probably stronger."
+18,Qd6,d8d6,r1b2rk1/ppp1bppp/3q1n2/4N3/1nPp4/3P2P1/PB2PPBP/RN1Q1RK1 w - - 3 10,"Kaidanov-Khmelnitsky, Philadelphia 1993 continued 9...Ng4 10. Nxg4 Bxg4 11. Bxb7 Rb8 12. Be4 Nxd3 13. Bxh7  Kh8 14. Bxd3 Rxb2 15 Nd2 and White was better.
+
+Here Black forces the knight to move without the option of exchanging itself for the f6 knight.  Black has a space advantage, and any exchanges will only favor the cramped player."
+19,Nf3,e5f3,r1b2rk1/ppp1bppp/3q1n2/8/1nPp4/3P1NP1/PB2PPBP/RN1Q1RK1 b - - 4 10,"Black secures his center, and with it, his space advantage.  White has to play very energetically to avoid being smothered."
+20,c5,c7c5,r1b2rk1/pp2bppp/3q1n2/2p5/1nPp4/3P1NP1/PB2PPBP/RN1Q1RK1 w - - 0 11,"Black secures his center, and with it, his space advantage.  White has to play very energetically to avoid being smothered."
+21,Nbd2,b1d2,r1b2rk1/pp2bppp/3q1n2/2p5/1nPp4/3P1NP1/PB1NPPBP/R2Q1RK1 b - - 1 11,"Here I planned to double on the b-file and play against the b7 pawn, using the a-pawn as a lever if necessary.  This plan was too slow, however, I should have attempted to break apart the center with Re1 and e3."
+22,Re8,f8e8,r1b1r1k1/pp2bppp/3q1n2/2p5/1nPp4/3P1NP1/PB1NPPBP/R2Q1RK1 w - - 2 12,"Here I planned to double on the b-file and play against the b7 pawn, using the a-pawn as a lever if necessary.  This plan was too slow, however, I should have attempted to break apart the center with Re1 and e3."
+23,a3,a2a3,r1b1r1k1/pp2bppp/3q1n2/2p5/1nPp4/P2P1NP1/1B1NPPBP/R2Q1RK1 b - - 0 12,"Here I planned to double on the b-file and play against the b7 pawn, using the a-pawn as a lever if necessary.  This plan was too slow, however, I should have attempted to break apart the center with Re1 and e3."
+24,Nc6,b4c6,r1b1r1k1/pp2bppp/2nq1n2/2p5/2Pp4/P2P1NP1/1B1NPPBP/R2Q1RK1 w - - 1 13,"Here I planned to double on the b-file and play against the b7 pawn, using the a-pawn as a lever if necessary.  This plan was too slow, however, I should have attempted to break apart the center with Re1 and e3."
+25,Qb3,d1b3,r1b1r1k1/pp2bppp/2nq1n2/2p5/2Pp4/PQ1P1NP1/1B1NPPBP/R4RK1 b - - 2 13,"Here I planned to double on the b-file and play against the b7 pawn, using the a-pawn as a lever if necessary.  This plan was too slow, however, I should have attempted to break apart the center with Re1 and e3."
+26,Bd8,e7d8,r1bbr1k1/pp3ppp/2nq1n2/2p5/2Pp4/PQ1P1NP1/1B1NPPBP/R4RK1 w - - 3 14,Black clears the way for the attack on the e2-pawn.
+27,Rfe1,f1e1,r1bbr1k1/pp3ppp/2nq1n2/2p5/2Pp4/PQ1P1NP1/1B1NPPBP/R3R1K1 b - - 4 14,The queen's rook will be needed on the queenside.
+28,Bf5,c8f5,r2br1k1/pp3ppp/2nq1n2/2p2b2/2Pp4/PQ1P1NP1/1B1NPPBP/R3R1K1 w - - 5 15,"14...Bg4 might have been better, as 15. h3 would provoke Black to reroute the bishop to g6, where it's optimally placed."
+29,Nh4,f3h4,r2br1k1/pp3ppp/2nq1n2/2p2b2/2Pp3N/PQ1P2P1/1B1NPPBP/R3R1K1 b - - 6 15,"Once a plan is chosen, It is imperative to stick to it, unless you face immediate material or positional ruin."
+30,Bd7,f5d7,r2br1k1/pp1b1ppp/2nq1n2/2p5/2Pp3N/PQ1P2P1/1B1NPPBP/R3R1K1 w - - 7 16,"Once a plan is chosen, It is imperative to stick to it, unless you face immediate material or positional ruin."
+31,Rab1,a1b1,r2br1k1/pp1b1ppp/2nq1n2/2p5/2Pp3N/PQ1P2P1/1B1NPPBP/1R2R1K1 b - - 8 16,"Once a plan is chosen, It is imperative to stick to it, unless you face immediate material or positional ruin."
+32,Ba5,d8a5,r3r1k1/pp1b1ppp/2nq1n2/b1p5/2Pp3N/PQ1P2P1/1B1NPPBP/1R2R1K1 w - - 9 17,A useful pin.  I now have to do some rearranging to free myself.
+33,Nhf3,h4f3,r3r1k1/pp1b1ppp/2nq1n2/b1p5/2Pp4/PQ1P1NP1/1B1NPPBP/1R2R1K1 b - - 10 17,Provoking...
+34,Bf5,d7f5,r3r1k1/pp3ppp/2nq1n2/b1p2b2/2Pp4/PQ1P1NP1/1B1NPPBP/1R2R1K1 w - - 11 18,Provoking...
+35,Bc1,b2c1,r3r1k1/pp3ppp/2nq1n2/b1p2b2/2Pp4/PQ1P1NP1/3NPPBP/1RB1R1K1 b - - 12 18,Provoking...
+36,b6,b7b6,r3r1k1/p4ppp/1pnq1n2/b1p2b2/2Pp4/PQ1P1NP1/3NPPBP/1RB1R1K1 w - - 0 19,Now Black's dark-squared bishop is blockading my a-pawn advance!  My queenside counterplay is stifled and I am getting a little worried.
+37,h3,h2h3,r3r1k1/p4ppp/1pnq1n2/b1p2b2/2Pp4/PQ1P1NPP/3NPPB1/1RB1R1K1 b - - 0 19,"I decide to attempt to either exchange the light-sqared bishop for a knight, or at least drive away the bishop from the b1-h7 diagonal.  19. Qd1 seemed like a waste of time."

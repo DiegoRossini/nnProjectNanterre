@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I think the exchanges on move 3 lose initiative for white
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I think the exchanges on move 3 lose initiative for white
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,I think the exchanges on move 3 lose initiative for white
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,I think the exchanges on move 3 lose initiative for white
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,I think the exchanges on move 3 lose initiative for white
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,I think the exchanges on move 3 lose initiative for white
+7,Bd3,f1d3,rnbqkbnr/ppp2ppp/8/3p4/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4,6...an agressive move for black
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 5,6...an agressive move for black
+9,Bg5,c1g5,rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/3B4/PPP2PPP/RN1QK1NR b KQkq - 3 5,6...an agressive move for black
+10,h6,h7h6,rnbqkb1r/ppp2pp1/5n1p/3p2B1/3P4/3B4/PPP2PPP/RN1QK1NR w KQkq - 0 6,6...an agressive move for black
+11,Bd2,g5d2,rnbqkb1r/ppp2pp1/5n1p/3p4/3P4/3B4/PPPB1PPP/RN1QK1NR b KQkq - 1 6,6...an agressive move for black
+12,c5,c7c5,rnbqkb1r/pp3pp1/5n1p/2pp4/3P4/3B4/PPPB1PPP/RN1QK1NR w KQkq - 0 7,6...an agressive move for black
+13,dxc5,d4c5,rnbqkb1r/pp3pp1/5n1p/2Pp4/8/3B4/PPPB1PPP/RN1QK1NR b KQkq - 0 7,7 black now has the initiative
+14,Bxc5,f8c5,rnbqk2r/pp3pp1/5n1p/2bp4/8/3B4/PPPB1PPP/RN1QK1NR w KQkq - 0 8,7 black now has the initiative
+15,Qe2+,d1e2,rnbqk2r/pp3pp1/5n1p/2bp4/8/3B4/PPPBQPPP/RN2K1NR b KQkq - 1 8,I think 0-O-O is is a positional mistake for white because black has attack possibilities on Q side already in place via Qb6 or Qa5.
+16,Be6,c8e6,rn1qk2r/pp3pp1/4bn1p/2bp4/8/3B4/PPPBQPPP/RN2K1NR w KQkq - 2 9,I think 0-O-O is is a positional mistake for white because black has attack possibilities on Q side already in place via Qb6 or Qa5.
+17,Nc3,b1c3,rn1qk2r/pp3pp1/4bn1p/2bp4/8/2NB4/PPPBQPPP/R3K1NR b KQkq - 3 9,I think 0-O-O is is a positional mistake for white because black has attack possibilities on Q side already in place via Qb6 or Qa5.
+18,O-O,e8g8,rn1q1rk1/pp3pp1/4bn1p/2bp4/8/2NB4/PPPBQPPP/R3K1NR w KQ - 4 10,I think 0-O-O is is a positional mistake for white because black has attack possibilities on Q side already in place via Qb6 or Qa5.
+19,O-O-O,e1c1,rn1q1rk1/pp3pp1/4bn1p/2bp4/8/2NB4/PPPBQPPP/2KR2NR b - - 5 10,I think 0-O-O is is a positional mistake for white because black has attack possibilities on Q side already in place via Qb6 or Qa5.
+20,Re8,f8e8,rn1qr1k1/pp3pp1/4bn1p/2bp4/8/2NB4/PPPBQPPP/2KR2NR w - - 6 11,...Re8 threatens the white Q on e2 with a discovered move by Be6
+21,f3,f2f3,rn1qr1k1/pp3pp1/4bn1p/2bp4/8/2NB1P2/PPPBQ1PP/2KR2NR b - - 0 11,Black is having a good time pushing the Q around
+22,Nc6,b8c6,r2qr1k1/pp3pp1/2n1bn1p/2bp4/8/2NB1P2/PPPBQ1PP/2KR2NR w - - 1 12,Black is having a good time pushing the Q around
+23,Kb1,c1b1,r2qr1k1/pp3pp1/2n1bn1p/2bp4/8/2NB1P2/PPPBQ1PP/1K1R2NR b - - 2 12,Black is having a good time pushing the Q around
+24,Nb4,c6b4,r2qr1k1/pp3pp1/4bn1p/2bp4/1n6/2NB1P2/PPPBQ1PP/1K1R2NR w - - 3 13,Black is having a good time pushing the Q around
+25,a3,a2a3,r2qr1k1/pp3pp1/4bn1p/2bp4/1n6/P1NB1P2/1PPBQ1PP/1K1R2NR b - - 0 13,Black is having a good time pushing the Q around
+26,Bd7,e6d7,r2qr1k1/pp1b1pp1/5n1p/2bp4/1n6/P1NB1P2/1PPBQ1PP/1K1R2NR w - - 1 14,Black is having a good time pushing the Q around
+27,Qf1,e2f1,r2qr1k1/pp1b1pp1/5n1p/2bp4/1n6/P1NB1P2/1PPB2PP/1K1R1QNR b - - 2 14,...Qb6 launches blacks attack
+28,Nxd3,b4d3,r2qr1k1/pp1b1pp1/5n1p/2bp4/8/P1Nn1P2/1PPB2PP/1K1R1QNR w - - 0 15,...Qb6 launches blacks attack
+29,Qxd3,f1d3,r2qr1k1/pp1b1pp1/5n1p/2bp4/8/P1NQ1P2/1PPB2PP/1K1R2NR b - - 0 15,...Qb6 launches blacks attack
+30,Qb6,d8b6,r3r1k1/pp1b1pp1/1q3n1p/2bp4/8/P1NQ1P2/1PPB2PP/1K1R2NR w - - 1 16,...Qb6 launches blacks attack
+31,Ka1,b1a1,r3r1k1/pp1b1pp1/1q3n1p/2bp4/8/P1NQ1P2/1PPB2PP/K2R2NR b - - 2 16,Nb1 seems too passive...White assumes a totally defensive posture.
+32,d4,d5d4,r3r1k1/pp1b1pp1/1q3n1p/2b5/3p4/P1NQ1P2/1PPB2PP/K2R2NR w - - 0 17,Nb1 seems too passive...White assumes a totally defensive posture.
+33,Nb1,c3b1,r3r1k1/pp1b1pp1/1q3n1p/2b5/3p4/P2Q1P2/1PPB2PP/KN1R2NR b - - 1 17,Nb1 seems too passive...White assumes a totally defensive posture.
+34,Bb5,d7b5,r3r1k1/pp3pp1/1q3n1p/1bb5/3p4/P2Q1P2/1PPB2PP/KN1R2NR w - - 2 18,...Bb5 pushes around the Q again
+35,Qb3,d3b3,r3r1k1/pp3pp1/1q3n1p/1bb5/3p4/PQ3P2/1PPB2PP/KN1R2NR b - - 3 18,Not the best square for the white Q retreat

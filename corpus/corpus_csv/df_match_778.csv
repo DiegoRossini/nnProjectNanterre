@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I gain a free pawn.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I gain a free pawn.
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,I gain a free pawn.
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,I gain a free pawn.
+5,Nf3,g1f3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3,I gain a free pawn.
+6,e5,e7e5,r1bqkbnr/ppp2ppp/2n5/3pp3/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4,I gain a free pawn.
+7,dxe5,d4e5,r1bqkbnr/ppp2ppp/2n5/3pP3/8/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 0 4,Exchange of pieces.
+8,Bb4,f8b4,r1bqk1nr/ppp2ppp/2n5/3pP3/1b6/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 1 5,Exchange of pieces.
+9,Bd2,c1d2,r1bqk1nr/ppp2ppp/2n5/3pP3/1b6/2N2N2/PPPBPPPP/R2QKB1R b KQkq - 2 5,Exchange of pieces.
+10,Bg4,c8g4,r2qk1nr/ppp2ppp/2n5/3pP3/1b4b1/2N2N2/PPPBPPPP/R2QKB1R w KQkq - 3 6,Exchange of pieces.
+11,h3,h2h3,r2qk1nr/ppp2ppp/2n5/3pP3/1b4b1/2N2N1P/PPPBPPP1/R2QKB1R b KQkq - 0 6,Exchange of pieces.
+12,Bxf3,g4f3,r2qk1nr/ppp2ppp/2n5/3pP3/1b6/2N2b1P/PPPBPPP1/R2QKB1R w KQkq - 0 7,Exchange of pieces.
+13,exf3,e2f3,r2qk1nr/ppp2ppp/2n5/3pP3/1b6/2N2P1P/PPPB1PP1/R2QKB1R b KQkq - 0 7,Exchange of pieces.
+14,f6,f7f6,r2qk1nr/ppp3pp/2n2p2/3pP3/1b6/2N2P1P/PPPB1PP1/R2QKB1R w KQkq - 0 8,Exchange of pawns.
+15,exf6,e5f6,r2qk1nr/ppp3pp/2n2P2/3p4/1b6/2N2P1P/PPPB1PP1/R2QKB1R b KQkq - 0 8,Exchange of pawns.
+16,Qxf6,d8f6,r3k1nr/ppp3pp/2n2q2/3p4/1b6/2N2P1P/PPPB1PP1/R2QKB1R w KQkq - 0 9,Exchange of pawns.
+17,Nxd5,c3d5,r3k1nr/ppp3pp/2n2q2/3N4/1b6/5P1P/PPPB1PP1/R2QKB1R b KQkq - 0 9,I take the unprotected pawn.
+18,Qd6,f6d6,r3k1nr/ppp3pp/2nq4/3N4/1b6/5P1P/PPPB1PP1/R2QKB1R w KQkq - 1 10,This was actually a stupid move on my part. My knight is now unprotected and Black is free to take it with the queen.
+19,Bb5,f1b5,r3k1nr/ppp3pp/2nq4/1B1N4/1b6/5P1P/PPPB1PP1/R2QK2R b KQkq - 2 10,This was actually a stupid move on my part. My knight is now unprotected and Black is free to take it with the queen.
+20,a6,a7a6,r3k1nr/1pp3pp/p1nq4/1B1N4/1b6/5P1P/PPPB1PP1/R2QK2R w KQkq - 0 11,"Black doesn't take the knight, for some reason. Phew!"
+21,Bxb4,d2b4,r3k1nr/1pp3pp/p1nq4/1B1N4/1B6/5P1P/PPP2PP1/R2QK2R b KQkq - 0 11,Taking Black's bishop and threatening the queen.
+22,Qe5+,d6e5,r3k1nr/1pp3pp/p1n5/1B1Nq3/1B6/5P1P/PPP2PP1/R2QK2R w KQkq - 1 12,Black takes my pawn.
+23,Be2,b5e2,r3k1nr/1pp3pp/p1n5/3Nq3/1B6/5P1P/PPP1BPP1/R2QK2R b KQkq - 2 12,Black takes my pawn.
+24,Qxb2,e5b2,r3k1nr/1pp3pp/p1n5/3N4/1B6/5P1P/PqP1BPP1/R2QK2R w KQkq - 0 13,Black takes my pawn.
+25,Nxc7+,d5c7,r3k1nr/1pN3pp/p1n5/8/1B6/5P1P/PqP1BPP1/R2QK2R b KQkq - 0 13,I take Black's pawn and pin the king.
+26,Kf7,e8f7,r5nr/1pN2kpp/p1n5/8/1B6/5P1P/PqP1BPP1/R2QK2R w KQ - 1 14,Taking the Rook.
+27,Nxa8,c7a8,N5nr/1p3kpp/p1n5/8/1B6/5P1P/PqP1BPP1/R2QK2R b KQ - 0 14,Taking the Rook.
+28,Nxb4,c6b4,N5nr/1p3kpp/p7/8/1n6/5P1P/PqP1BPP1/R2QK2R w KQ - 0 15,Black takes my unprotected bishop.
+29,Nc7,a8c7,6nr/1pN2kpp/p7/8/1n6/5P1P/PqP1BPP1/R2QK2R b KQ - 1 15,Moving my knight back out
+30,Ne7,g8e7,7r/1pN1nkpp/p7/8/1n6/5P1P/PqP1BPP1/R2QK2R w KQ - 2 16,This move was mainly to bring in the bishop to protect e6 and make it possible for my knight to move to that square.
+31,Bc4+,e2c4,7r/1pN1nkpp/p7/8/1nB5/5P1P/PqP2PP1/R2QK2R b KQ - 3 16,This move was mainly to bring in the bishop to protect e6 and make it possible for my knight to move to that square.
+32,Kg6,f7g6,7r/1pN1n1pp/p5k1/8/1nB5/5P1P/PqP2PP1/R2QK2R w KQ - 4 17,Threatening the queen.
+33,Ne6,c7e6,7r/1p2n1pp/p3N1k1/8/1nB5/5P1P/PqP2PP1/R2QK2R b KQ - 5 17,Threatening the queen.
+34,Nf5,e7f5,7r/1p4pp/p3N1k1/5n2/1nB5/5P1P/PqP2PP1/R2QK2R w KQ - 6 18,Threatening the queen.
+35,Nf4+,e6f4,7r/1p4pp/p5k1/5n2/1nB2N2/5P1P/PqP2PP1/R2QK2R b KQ - 7 18,Threatening the queen.
+36,Kf6,g6f6,7r/1p4pp/p4k2/5n2/1nB2N2/5P1P/PqP2PP1/R2QK2R w KQ - 8 19,Threatening the queen.
+37,Rb1,a1b1,7r/1p4pp/p4k2/5n2/1nB2N2/5P1P/PqP2PP1/1R1QK2R b K - 9 19,Threatening the queen.
+38,Qe5+,b2e5,7r/1p4pp/p4k2/4qn2/1nB2N2/5P1P/P1P2PP1/1R1QK2R w K - 10 20,"If I were Black in this situation, I would do Nc6 to avoid losing a knight."
+39,Ne2,f4e2,7r/1p4pp/p4k2/4qn2/1nB5/5P1P/P1P1NPP1/1R1QK2R b K - 11 20,"If I were Black in this situation, I would do Nc6 to avoid losing a knight."
+40,Nd4,f5d4,7r/1p4pp/p4k2/4q3/1nBn4/5P1P/P1P1NPP1/1R1QK2R w K - 12 21,Taking Black's unprotected knight.
+41,f4,f3f4,7r/1p4pp/p4k2/4q3/1nBn1P2/7P/P1P1NPP1/1R1QK2R b K - 0 21,Taking Black's unprotected knight.
+42,Qe4,e5e4,7r/1p4pp/p4k2/8/1nBnqP2/7P/P1P1NPP1/1R1QK2R w K - 1 22,Taking Black's unprotected knight.
+43,Rxb4,b1b4,7r/1p4pp/p4k2/8/1RBnqP2/7P/P1P1NPP1/3QK2R b K - 0 22,Taking Black's unprotected knight.
+44,Nxe2,d4e2,7r/1p4pp/p4k2/8/1RB1qP2/7P/P1P1nPP1/3QK2R w K - 0 23,Thus begins checkmate.
+45,Qd6+,d1d6,7r/1p4pp/p2Q1k2/8/1RB1qP2/7P/P1P1nPP1/4K2R b K - 1 23,"Checking the king. Black's only move at this point is either a useless interposition by the Queen or else moving the king to f5, which is what he did."
+46,Kf5,f6f5,7r/1p4pp/p2Q4/5k2/1RB1qP2/7P/P1P1nPP1/4K2R w K - 2 24,"Mate. I think several of Black's key mistakes in this game were 1) move number twelve, when he didn't take precautions against the King being pinned and I was able to gain myself a Rook, and 2) leaving a lot of pieces unprotected and taking too many unnecessary risks. Like the knight on b4; that knight could have easily retreated to c6, but instead, Black moved the other knight forward into my territory. That knight was protecting the key square at d6; if that knight hadn't moved last turn, my queen wouldn't have been able to move to that square to check the king."
+47,g4#,g2g4,7r/1p4pp/p2Q4/5k2/1RB1qPP1/7P/P1P1nP2/4K2R b K - 0 24,"Mate. I think several of Black's key mistakes in this game were 1) move number twelve, when he didn't take precautions against the King being pinned and I was able to gain myself a Rook, and 2) leaving a lot of pieces unprotected and taking too many unnecessary risks. Like the knight on b4; that knight could have easily retreated to c6, but instead, Black moved the other knight forward into my territory. That knight was protecting the key square at d6; if that knight hadn't moved last turn, my queen wouldn't have been able to move to that square to check the king."

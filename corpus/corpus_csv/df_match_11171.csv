@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"This game shows how I exploited my opponent's overextended position, when he tried to kingside pawnstorm me."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Me, and many others consider this opening passive, but I guess it's playable."
+3,c4,c2c4,rnbqkbnr/pp1ppppp/2p5/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"Slightly better is d4, leading to classical Caro-Kann positions, but since I'm familiar with this variation, and don't study the Caro-Kann much, I decided to play c4 which will lead to a wide open tactical game if Black plays d5, exactly what I want."
+4,g6,g7g6,rnbqkbnr/pp1ppp1p/2p3p1/8/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq - 0 3,"Instead of playing d5 leading to a position I'm more familiar with, Black plays g6, which will transpose into an entirely different opening that HE is more familiar with."
+5,Nc3,b1c3,rnbqkbnr/pp1ppp1p/2p3p1/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR b KQkq - 1 3,"I think d4 may be better, because it stops e5, which will lead to a somewhat equal position. I should've played d4 on the second move to try for an advantage."
+6,Bg7,f8g7,rnbqk1nr/pp1pppbp/2p3p1/8/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 2 4,"Black probably didn't want to block his dark bishop, but he ended up playing e5 anyway."
+7,d4,d2d4,rnbqk1nr/pp1pppbp/2p3p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,Threatening an e5 boost.
+8,d6,d7d6,rnbqk1nr/pp2ppbp/2pp2p1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Threatening an e5 boost.
+9,h3,h2h3,rnbqk1nr/pp2ppbp/2pp2p1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 5,"Not completely necessary, but I don't want Bg4 to force a trade when I play Nf3. Another strategy for White in this opening is to play Be3 Qd2 (f3 if necessary) and O-O-O, with ideas to push the kingside pawns, leading to an attack similar to what is commonly played against the Sicilian."
+10,e5,e7e5,rnbqk1nr/pp3pbp/2pp2p1/4p3/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQkq - 0 6,"Now the position is like the King's Indian Defense, played against 1.d4, but where Black hasn't played Nf6."
+11,dxe5,d4e5,rnbqk1nr/pp3pbp/2pp2p1/4P3/2P1P3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 6,"This is the exchange variation. Nf3 leads to positions similar to the English (1.c4), and d5 leads to the normal variations of this opening."
+12,dxe5,d6e5,rnbqk1nr/pp3pbp/2p3p1/4p3/2P1P3/2N4P/PP3PP1/R1BQKBNR w KQkq - 0 7,"Bxe5 isn't the main variation, but also playable since it threatens to take on c3 leaving me with isolated doubled pawns."
+13,Qc2,d1c2,rnbqk1nr/pp3pbp/2p3p1/4p3/2P1P3/2N4P/PPQ2PP1/R1B1KBNR b KQkq - 1 7,"Trading queens is drawish, because Black's king can get to safety on c7, and Black's position will be completely solid."
+14,Ne7,g8e7,rnbqk2r/pp2npbp/2p3p1/4p3/2P1P3/2N4P/PPQ2PP1/R1B1KBNR w KQkq - 2 8,"Nf6 is a more common position, but Ne7 is better in this particular move order."
+15,Nf3,g1f3,rnbqk2r/pp2npbp/2p3p1/4p3/2P1P3/2N2N1P/PPQ2PP1/R1B1KB1R b KQkq - 3 8,"White usually fianchettoes this bishop to add to control of d5, but I don't need to because Black doesn't have a d-pawn to threaten a d5 breakthrough."
+16,O-O,e8g8,rnbq1rk1/pp2npbp/2p3p1/4p3/2P1P3/2N2N1P/PPQ2PP1/R1B1KB1R w KQ - 4 9,"White usually fianchettoes this bishop to add to control of d5, but I don't need to because Black doesn't have a d-pawn to threaten a d5 breakthrough."
+17,Be2,f1e2,rnbq1rk1/pp2npbp/2p3p1/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1B1K2R b KQ - 5 9,"White usually fianchettoes this bishop to add to control of d5, but I don't need to because Black doesn't have a d-pawn to threaten a d5 breakthrough."
+18,Qc7,d8c7,rnb2rk1/ppq1npbp/2p3p1/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1B1K2R w KQ - 6 10,The best position for Black's queen in this opening.
+19,O-O,e1g1,rnb2rk1/ppq1npbp/2p3p1/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1B2RK1 b - - 7 10,"Black's plan is to play f5-f4 and g5 to pawnstorm my kingside, but he ends up overextending his position, giving my forces access to his king."
+20,h6,h7h6,rnb2rk1/ppq1npb1/2p3pp/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1B2RK1 w - - 0 11,"Black's plan is to play f5-f4 and g5 to pawnstorm my kingside, but he ends up overextending his position, giving my forces access to his king."
+21,Rd1,f1d1,rnb2rk1/ppq1npb1/2p3pp/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1BR2K1 b - - 1 11,"Places rook on open file, but Be3 may be more accurate."
+22,Be6,c8e6,rn3rk1/ppq1npb1/2p1b1pp/4p3/2P1P3/2N2N1P/PPQ1BPP1/R1BR2K1 w - - 2 12,Gaining space on the queenside while taking claim to Black's weak d6 square.
+23,c5,c4c5,rn3rk1/ppq1npb1/2p1b1pp/2P1p3/4P3/2N2N1P/PPQ1BPP1/R1BR2K1 b - - 0 12,Gaining space on the queenside while taking claim to Black's weak d6 square.
+24,Nd7,b8d7,r4rk1/ppqnnpb1/2p1b1pp/2P1p3/4P3/2N2N1P/PPQ1BPP1/R1BR2K1 w - - 1 13,"Black starts his pawnstorm on my king's position, but overextends his own king's position."
+25,Be3,c1e3,r4rk1/ppqnnpb1/2p1b1pp/2P1p3/4P3/2N1BN1P/PPQ1BPP1/R2R2K1 b - - 2 13,"Black starts his pawnstorm on my king's position, but overextends his own king's position."
+26,f5,f7f5,r4rk1/ppqnn1b1/2p1b1pp/2P1pp2/4P3/2N1BN1P/PPQ1BPP1/R2R2K1 w - - 0 14,"Black starts his pawnstorm on my king's position, but overextends his own king's position."
+27,Rd6,d1d6,r4rk1/ppqnn1b1/2pRb1pp/2P1pp2/4P3/2N1BN1P/PPQ1BPP1/R5K1 b - - 1 14,"Black's overextended pawns have weakened the squares near his king, which I exploited nicely."

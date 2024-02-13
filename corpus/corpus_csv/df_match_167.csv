@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,Bird's Opening. https://en.wikipedia.org/wiki/Bird's_Opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,"The most common reply. Black may challenge White's plan to control e5 immediately by playing From's Gambit (1...e5). However, the From's Gambit is notoriously double edged and should only be played after significant study, and black has to be ready for a transposition to the King's Gambit with 2. e4."
+3,Nf3,g1f3,rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2,This is considered the main line
+4,g6,g7g6,rnbqkbnr/ppp1pp1p/6p1/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq - 0 3,This is considered the main line
+5,e3,e2e3,rnbqkbnr/ppp1pp1p/6p1/3p4/5P2/4PN2/PPPP2PP/RNBQKB1R b KQkq - 0 3,And so is this.
+6,Bg7,f8g7,rnbqk1nr/ppp1ppbp/6p1/3p4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq - 1 4,Black completes the fianchetto.
+7,c3,c2c3,rnbqk1nr/ppp1ppbp/6p1/3p4/5P2/2P1PN2/PP1P2PP/RNBQKB1R b KQkq - 0 4,"Slightly unusual, normally a sign that white will adopt a Stonewall formation with pawns on d4, e3, and f4 and attempt a kingside attack."
+8,Nd7,b8d7,r1bqk1nr/pppnppbp/6p1/3p4/5P2/2P1PN2/PP1P2PP/RNBQKB1R w KQkq - 1 5,This is a bit unusual too. My plan is e7-e5 and if he stops it with d2-d4 I can play Ng8-f6-e4 and support it with Nd7-f6.
+9,Be2,f1e2,r1bqk1nr/pppnppbp/6p1/3p4/5P2/2P1PN2/PP1PB1PP/RNBQK2R b KQkq - 2 5,But he doesn't stop it.
+10,e5,e7e5,r1bqk1nr/pppn1pbp/6p1/3pp3/5P2/2P1PN2/PP1PB1PP/RNBQK2R w KQkq - 0 6,So I play it!
+11,fxe5,f4e5,r1bqk1nr/pppn1pbp/6p1/3pP3/8/2P1PN2/PP1PB1PP/RNBQK2R b KQkq - 0 6,He takes.
+12,Nxe5,d7e5,r1bqk1nr/ppp2pbp/6p1/3pn3/8/2P1PN2/PP1PB1PP/RNBQK2R w KQkq - 0 7,I take back.
+13,O-O,e1g1,r1bqk1nr/ppp2pbp/6p1/3pn3/8/2P1PN2/PP1PB1PP/RNBQ1RK1 b kq - 1 7,He castles.
+14,Ne7,g8e7,r1bqk2r/ppp1npbp/6p1/3pn3/8/2P1PN2/PP1PB1PP/RNBQ1RK1 w kq - 2 8,Of course avoiding Nf6??? 8. Nxe5!
+15,d4,d2d4,r1bqk2r/ppp1npbp/6p1/3pn3/3P4/2P1PN2/PP2B1PP/RNBQ1RK1 b kq - 0 8,"Attacking my knight - but giving himself a weak e pawn, backward on a semi-open file, and a weak e4 square."
+16,Nd7,e5d7,r1bqk2r/pppnnpbp/6p1/3p4/3P4/2P1PN2/PP2B1PP/RNBQ1RK1 w kq - 1 9,"Fritz actually prefers Nxf3, but I am not convinced - that exchange seems to help with rid himself of his weaknesses. I am planning Nf6-e4 at some stage."
+17,Ng5,f3g5,r1bqk2r/pppnnpbp/6p1/3p2N1/3P4/2P1P3/PP2B1PP/RNBQ1RK1 b kq - 2 9,"This seems a mistake - white is forcing black to castle, which black wants to do anyway."
+18,O-O,e8g8,r1bq1rk1/pppnnpbp/6p1/3p2N1/3P4/2P1P3/PP2B1PP/RNBQ1RK1 w - - 3 10,So I castle.
+19,Rxf7,f1f7,r1bq1rk1/pppnnRbp/6p1/3p2N1/3P4/2P1P3/PP2B1PP/RNBQ2K1 b - - 0 10,"This is an interesting combination, but ultimately unsound. White gains two pawns, but in return his knight is doomed on a8."
+20,Rxf7,f8f7,r1bq2k1/pppnnrbp/6p1/3p2N1/3P4/2P1P3/PP2B1PP/RNBQ2K1 w - - 0 11,So I take.
+21,Ne6,g5e6,r1bq2k1/pppnnrbp/4N1p1/3p4/3P4/2P1P3/PP2B1PP/RNBQ2K1 b - - 1 11,Knight comes in.

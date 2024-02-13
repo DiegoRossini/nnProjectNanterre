@@ -1,0 +1,75 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Center game.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Center game.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/8/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Center game.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,White should defend against NxPc2+.  Maybe Pc3.
+5,d5,d4d5,rnbqkbnr/ppp2ppp/3p4/3Pp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,White should defend against NxPc2+.  Maybe Pc3.
+6,c6,c7c6,rnbqkbnr/pp3ppp/2pp4/3Pp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,White should defend against NxPc2+.  Maybe Pc3.
+7,dxc6,d5c6,rnbqkbnr/pp3ppp/2Pp4/4p3/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 4,White should defend against NxPc2+.  Maybe Pc3.
+8,Nxc6,b8c6,r1bqkbnr/pp3ppp/2np4/4p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 5,White should defend against NxPc2+.  Maybe Pc3.
+9,Bb5,f1b5,r1bqkbnr/pp3ppp/2np4/1B2p3/4P3/8/PPP2PPP/RNBQK1NR b KQkq - 1 5,White should defend against NxPc2+.  Maybe Pc3.
+10,Bd7,c8d7,r2qkbnr/pp1b1ppp/2np4/1B2p3/4P3/8/PPP2PPP/RNBQK1NR w KQkq - 2 6,White should defend against NxPc2+.  Maybe Pc3.
+11,a3,a2a3,r2qkbnr/pp1b1ppp/2np4/1B2p3/4P3/P7/1PP2PPP/RNBQK1NR b KQkq - 0 6,White should defend against NxPc2+.  Maybe Pc3.
+12,Nd4,c6d4,r2qkbnr/pp1b1ppp/3p4/1B2p3/3nP3/P7/1PP2PPP/RNBQK1NR w KQkq - 1 7,White should defend against NxPc2+.  Maybe Pc3.
+13,Bc4,b5c4,r2qkbnr/pp1b1ppp/3p4/4p3/2BnP3/P7/1PP2PPP/RNBQK1NR b KQkq - 2 7,White should defend against NxPc2+.  Maybe Pc3.
+14,b5,b7b5,r2qkbnr/p2b1ppp/3p4/1p2p3/2BnP3/P7/1PP2PPP/RNBQK1NR w KQkq - 0 8,White should defend against NxPc2+.  Maybe Pc3.
+15,Bd5,c4d5,r2qkbnr/p2b1ppp/3p4/1p1Bp3/3nP3/P7/1PP2PPP/RNBQK1NR b KQkq - 1 8,White should defend against NxPc2+.  Maybe Pc3.
+16,Rc8,a8c8,2rqkbnr/p2b1ppp/3p4/1p1Bp3/3nP3/P7/1PP2PPP/RNBQK1NR w KQk - 2 9,White should defend against NxPc2+.  Maybe Pc3.
+17,Nf3,g1f3,2rqkbnr/p2b1ppp/3p4/1p1Bp3/3nP3/P4N2/1PP2PPP/RNBQK2R b KQk - 3 9,The rook gets forked.
+18,Nxc2+,d4c2,2rqkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P4N2/1Pn2PPP/RNBQK2R w KQk - 0 10,I like RxPf2.
+19,Kd2,e1d2,2rqkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P4N2/1PnK1PPP/RNBQ3R b k - 1 10,I like RxPf2.
+20,Nxa1,c2a1,2rqkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P4N2/1P1K1PPP/nNBQ3R w k - 0 11,I like RxPf2.
+21,Re1,h1e1,2rqkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P4N2/1P1K1PPP/nNBQR3 b k - 1 11,I like RxPf2.
+22,Rc2+,c8c2,3qkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P4N2/1PrK1PPP/nNBQR3 w k - 2 12,I like RxPf2.
+23,Kd3,d2d3,3qkbnr/p2b1ppp/3p4/1p1Bp3/4P3/P2K1N2/1Pr2PPP/nNBQR3 b k - 3 12,I like RxPf2.
+24,Be6,d7e6,3qkbnr/p4ppp/3pb3/1p1Bp3/4P3/P2K1N2/1Pr2PPP/nNBQR3 w k - 4 13,I like RxPf2.
+25,Ba2,d5a2,3qkbnr/p4ppp/3pb3/1p2p3/4P3/P2K1N2/BPr2PPP/nNBQR3 b k - 5 13,This doesn't help save the bishop.
+26,Bxa2,e6a2,3qkbnr/p4ppp/3p4/1p2p3/4P3/P2K1N2/bPr2PPP/nNBQR3 w k - 0 14,"Here the queen (9) is traded for a rook and knight (5+3).  Not terrible, but white was already down a rook, pawn, and bishop (9)."
+27,Qxc2,d1c2,3qkbnr/p4ppp/3p4/1p2p3/4P3/P2K1N2/bPQ2PPP/nNB1R3 b k - 0 14,"Here the queen (9) is traded for a rook and knight (5+3).  Not terrible, but white was already down a rook, pawn, and bishop (9)."
+28,Nxc2,a1c2,3qkbnr/p4ppp/3p4/1p2p3/4P3/P2K1N2/bPn2PPP/1NB1R3 w k - 0 15,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+29,Kxc2,d3c2,3qkbnr/p4ppp/3p4/1p2p3/4P3/P4N2/bPK2PPP/1NB1R3 b k - 0 15,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+30,Qc8+,d8c8,2q1kbnr/p4ppp/3p4/1p2p3/4P3/P4N2/bPK2PPP/1NB1R3 w k - 1 16,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+31,Nc3,b1c3,2q1kbnr/p4ppp/3p4/1p2p3/4P3/P1N2N2/bPK2PPP/2B1R3 b k - 2 16,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+32,a5,a7a5,2q1kbnr/5ppp/3p4/pp2p3/4P3/P1N2N2/bPK2PPP/2B1R3 w k - 0 17,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+33,b3,b2b3,2q1kbnr/5ppp/3p4/pp2p3/4P3/PPN2N2/b1K2PPP/2B1R3 b k - 0 17,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+34,b4,b5b4,2q1kbnr/5ppp/3p4/p3p3/1p2P3/PPN2N2/b1K2PPP/2B1R3 w k - 0 18,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+35,Kb2,c2b2,2q1kbnr/5ppp/3p4/p3p3/1p2P3/PPN2N2/bK3PPP/2B1R3 b k - 1 18,QxNc3+ should do greater damage.  Black cannot snatch the rook as it is guarded by the knight.
+36,bxc3+,b4c3,2q1kbnr/5ppp/3p4/p3p3/4P3/PPp2N2/bK3PPP/2B1R3 w k - 0 19,"Although black's king side is undeveloped, Qxf5 might be better."
+37,Kxa2,b2a2,2q1kbnr/5ppp/3p4/p3p3/4P3/PPp2N2/K4PPP/2B1R3 b k - 0 19,"Although black's king side is undeveloped, Qxf5 might be better."
+38,f5,f7f5,2q1kbnr/6pp/3p4/p3pp2/4P3/PPp2N2/K4PPP/2B1R3 w k - 0 20,"Although black's king side is undeveloped, Qxf5 might be better."
+39,exf5,e4f5,2q1kbnr/6pp/3p4/p3pP2/8/PPp2N2/K4PPP/2B1R3 b k - 0 20,"Although black's king side is undeveloped, Qxf5 might be better."
+40,Nf6,g8f6,2q1kb1r/6pp/3p1n2/p3pP2/8/PPp2N2/K4PPP/2B1R3 w k - 1 21,"Although black's king side is undeveloped, Qxf5 might be better."
+41,h3,h2h3,2q1kb1r/6pp/3p1n2/p3pP2/8/PPp2N1P/K4PP1/2B1R3 b k - 0 21,"Qc2+ gives black the bishop, Bc1."
+42,Qxf5,c8f5,4kb1r/6pp/3p1n2/p3pq2/8/PPp2N1P/K4PP1/2B1R3 w k - 0 22,"Qc2+ gives black the bishop, Bc1."
+43,Re3,e1e3,4kb1r/6pp/3p1n2/p3pq2/8/PPp1RN1P/K4PP1/2B5 b k - 1 22,"Qc2+ gives black the bishop, Bc1."
+44,e4,e5e4,4kb1r/6pp/3p1n2/p4q2/4p3/PPp1RN1P/K4PP1/2B5 w k - 0 23,"If white moves the knight, black is enticed to play QxPf2+.  The bishop protects the rook."
+45,g4,g2g4,4kb1r/6pp/3p1n2/p4q2/4p1P1/PPp1RN1P/K4P2/2B5 b k - 0 23,Counter threat!
+46,Qc5,f5c5,4kb1r/6pp/3p1n2/p1q5/4p1P1/PPp1RN1P/K4P2/2B5 w k - 1 24,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+47,Ng5,f3g5,4kb1r/6pp/3p1n2/p1q3N1/4p1P1/PPp1R2P/K4P2/2B5 b k - 2 24,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+48,Be7,f8e7,4k2r/4b1pp/3p1n2/p1q3N1/4p1P1/PPp1R2P/K4P2/2B5 w k - 3 25,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+49,Ne6,g5e6,4k2r/4b1pp/3pNn2/p1q5/4p1P1/PPp1R2P/K4P2/2B5 b k - 4 25,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+50,Qc8,c5c8,2q1k2r/4b1pp/3pNn2/p7/4p1P1/PPp1R2P/K4P2/2B5 w k - 5 26,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+51,Nxg7+,e6g7,2q1k2r/4b1Np/3p1n2/p7/4p1P1/PPp1R2P/K4P2/2B5 b k - 0 26,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+52,Kf7,e8f7,2q4r/4bkNp/3p1n2/p7/4p1P1/PPp1R2P/K4P2/2B5 w - - 1 27,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+53,Nf5,g7f5,2q4r/4bk1p/3p1n2/p4N2/4p1P1/PPp1R2P/K4P2/2B5 b - - 2 27,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+54,d5,d6d5,2q4r/4bk1p/5n2/p2p1N2/4p1P1/PPp1R2P/K4P2/2B5 w - - 0 28,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+55,g5,g4g5,2q4r/4bk1p/5n2/p2p1NP1/4p3/PPp1R2P/K4P2/2B5 b - - 0 28,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+56,Qxf5,c8f5,7r/4bk1p/5n2/p2p1qP1/4p3/PPp1R2P/K4P2/2B5 w - - 0 29,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+57,Rxc3,e3c3,7r/4bk1p/5n2/p2p1qP1/4p3/PPR4P/K4P2/2B5 b - - 0 29,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+58,Qxf2+,f5f2,7r/4bk1p/5n2/p2p2P1/4p3/PPR4P/K4q2/2B5 w - - 0 30,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+59,Bb2,c1b2,7r/4bk1p/5n2/p2p2P1/4p3/PPR4P/KB3q2/8 b - - 1 30,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+60,Nh5,f6h5,7r/4bk1p/8/p2p2Pn/4p3/PPR4P/KB3q2/8 w - - 2 31,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+61,Kb1,a2b1,7r/4bk1p/8/p2p2Pn/4p3/PPR4P/1B3q2/1K6 b - - 3 31,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+62,Bxg5,e7g5,7r/5k1p/8/p2p2bn/4p3/PPR4P/1B3q2/1K6 w - - 0 32,"Rc7+ lets white take Rh8.  White needs to make up a lot of material, or focus on checkmate--hard to pull of here."
+63,Rc2,c3c2,7r/5k1p/8/p2p2bn/4p3/PP5P/1BR2q2/1K6 b - - 1 32,"This move is not as good, as black can force trades."
+64,Qf1+,f2f1,7r/5k1p/8/p2p2bn/4p3/PP5P/1BR5/1K3q2 w - - 2 33,Black could trade rooks with BxRc1.
+65,Rc1,c2c1,7r/5k1p/8/p2p2bn/4p3/PP5P/1B6/1KR2q2 b - - 3 33,Black could trade rooks with BxRc1.
+66,Qd3+,f1d3,7r/5k1p/8/p2p2bn/4p3/PP1q3P/1B6/1KR5 w - - 4 34,The rook was probably a better deal.
+67,Ka2,b1a2,7r/5k1p/8/p2p2bn/4p3/PP1q3P/KB6/2R5 b - - 5 34,The rook was probably a better deal.
+68,Bxc1,g5c1,7r/5k1p/8/p2p3n/4p3/PP1q3P/KB6/2b5 w - - 0 35,The rook was probably a better deal.
+69,Bxc1,b2c1,7r/5k1p/8/p2p3n/4p3/PP1q3P/K7/2B5 b - - 0 35,The rook was probably a better deal.
+70,Qc2+,d3c2,7r/5k1p/8/p2p3n/4p3/PP5P/K1q5/2B5 w - - 1 36,
+71,Bb2,c1b2,7r/5k1p/8/p2p3n/4p3/PP5P/KBq5/8 b - - 2 36,
+72,Rg8,h8g8,6r1/5k1p/8/p2p3n/4p3/PP5P/KBq5/8 w - - 3 37,
+73,a4,a3a4,6r1/5k1p/8/p2p3n/P3p3/1P5P/KBq5/8 b - - 0 37,
+74,Rg2,g8g2,8/5k1p/8/p2p3n/P3p3/1P5P/KBq3r1/8 w - - 1 38,

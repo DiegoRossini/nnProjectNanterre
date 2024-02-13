@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I begin with the most common move which controls the centre and prepares to develop the light square bishop.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A standard move.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Attacks the pawn and develops my knigh to a useful square.
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,More preferable is 2...Nc6 or 2...Nf6 ( Petrovs defense) 2.... d6 is extremely solid although white gain an advantage in space.
+5,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3,Strikes the weak f7 square and prepares to castle. White is leading in development but blacks game is fundamentally solid.
+6,h6,h7h6,rnbqkbnr/ppp2pp1/3p3p/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,A rather dubious move. Black has only moved pawns so far whereas white has already developed 2 minor pieces and is ready to castle and bring the rook to support the pawns. The point of h6 was probably to stop ng5 which wins a pawn at least if played in the future.
+7,Nc3,b1c3,rnbqkbnr/ppp2pp1/3p3p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,"Develops the knight. 4. O-O was probably better followed by c3, Re1 then d4."
+8,c6,c7c6,rnbqkbnr/pp3pp1/2pp3p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,Black should develop some pieces first. Black has significantly weakened his pawn structure with all these pawn moves. It's understandable that black wants to counterattack in the centre with an eventual d5 but I think 4... Nf6 was more appropriate since it develops a piece.
+9,O-O,e1g1,rnbqkbnr/pp3pp1/2pp3p/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 5,I castle to get my rook ready to swing into the action.
+10,b5,b7b5,rnbqkbnr/p4pp1/2pp3p/1p2p3/2B1P3/2N2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 6,Attacks the bishop with tempo. Black wants to gain some space on the queenside.
+11,Bb3,c4b3,rnbqkbnr/p4pp1/2pp3p/1p2p3/4P3/1BN2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 6,"Tries to trap my bishop with a4. Notice how black has done nothing to develop his pieces. Of the last 6 moves, black has only pushed pawns."
+12,a5,a7a5,rnbqkbnr/5pp1/2pp3p/pp2p3/4P3/1BN2N2/PPPP1PPP/R1BQ1RK1 w kq - 0 7,"Tries to trap my bishop with a4. Notice how black has done nothing to develop his pieces. Of the last 6 moves, black has only pushed pawns."
+13,a3,a2a3,rnbqkbnr/5pp1/2pp3p/pp2p3/4P3/PBN2N2/1PPP1PPP/R1BQ1RK1 b kq - 0 7,a3 prepares a flight square for my LSB incase a4 is played
+14,Ba6,c8a6,rn1qkbnr/5pp1/b1pp3p/pp2p3/4P3/PBN2N2/1PPP1PPP/R1BQ1RK1 w kq - 1 8,Develops the LSB to a potenially useful diagonal. Also threaten to win an exchange or a piece with b4 in the future.
+15,Re1,f1e1,rn1qkbnr/5pp1/b1pp3p/pp2p3/4P3/PBN2N2/1PPP1PPP/R1BQR1K1 b kq - 2 8,Gets the rook off the a6-f1 diagonal and supports my pawn.
+16,g6,g7g6,rn1qkbnr/5p2/b1pp2pp/pp2p3/4P3/PBN2N2/1PPP1PPP/R1BQR1K1 w kq - 0 9,Prepare to develop the DSB to the closed diagonal This diagonal could be extremely useful in the future if black breaks through with d5.
+17,d4,d2d4,rn1qkbnr/5p2/b1pp2pp/pp2p3/3PP3/PBN2N2/1PP2PPP/R1BQR1K1 b kq - 0 9,"Because black can play d5 in the future, I immediately strike the centre with d4."
+18,Qe7,d8e7,rn2kbnr/4qp2/b1pp2pp/pp2p3/3PP3/PBN2N2/1PP2PPP/R1BQR1K1 w kq - 1 10,"Hold onto the valuable e pawn. If black can mantain a pawn on e5, I can't turn my space and development advantage into anything concrete."
+19,Be3,c1e3,rn2kbnr/4qp2/b1pp2pp/pp2p3/3PP3/PBN1BN2/1PP2PPP/R2QR1K1 b kq - 2 10,Defends the pawn instead of capturing.
+20,Bg7,f8g7,rn2k1nr/4qpb1/b1pp2pp/pp2p3/3PP3/PBN1BN2/1PP2PPP/R2QR1K1 w kq - 3 11,I capture with the idea of Nd2 then f4 which will allow me to my advantages in space and development as a weapon to attack blacks king.
+21,dxe5,d4e5,rn2k1nr/4qpb1/b1pp2pp/pp2P3/4P3/PBN1BN2/1PP2PPP/R2QR1K1 b kq - 0 11,I capture with the idea of Nd2 then f4 which will allow me to my advantages in space and development as a weapon to attack blacks king.
+22,dxe5,d6e5,rn2k1nr/4qpb1/b1p3pp/pp2p3/4P3/PBN1BN2/1PP2PPP/R2QR1K1 w kq - 0 12,f4 strikes the blacks strong e pawn although it severely weaken my kingside but my bishop on e3 neutralises threats along the a7-g1 diagonal.
+23,Nd2,f3d2,rn2k1nr/4qpb1/b1p3pp/pp2p3/4P3/PBN1B3/1PPN1PPP/R2QR1K1 b kq - 1 12,f4 strikes the blacks strong e pawn although it severely weaken my kingside but my bishop on e3 neutralises threats along the a7-g1 diagonal.
+24,Nf6,g8f6,rn2k2r/4qpb1/b1p2npp/pp2p3/4P3/PBN1B3/1PPN1PPP/R2QR1K1 w kq - 2 13,f4 strikes the blacks strong e pawn although it severely weaken my kingside but my bishop on e3 neutralises threats along the a7-g1 diagonal.
+25,f4,f2f4,rn2k2r/4qpb1/b1p2npp/pp2p3/4PP2/PBN1B3/1PPN2PP/R2QR1K1 b kq - 0 13,f4 strikes the blacks strong e pawn although it severely weaken my kingside but my bishop on e3 neutralises threats along the a7-g1 diagonal.

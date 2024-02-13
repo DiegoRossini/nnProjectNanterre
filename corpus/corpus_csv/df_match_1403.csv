@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Queens pawn counter gambit (Elephant gambit).
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Queens pawn counter gambit (Elephant gambit).
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Queens pawn counter gambit (Elephant gambit).
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Queens pawn counter gambit (Elephant gambit).
+5,Nxe5,f3e5,rnbqkbnr/ppp2ppp/8/3pN3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,This forces the king to move.  Nice surprise.
+6,dxe4,d5e4,rnbqkbnr/ppp2ppp/8/4N3/4p3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,This forces the king to move.  Nice surprise.
+7,d3,d2d3,rnbqkbnr/ppp2ppp/8/4N3/4p3/3P4/PPP2PPP/RNBQKB1R b KQkq - 0 4,This forces the king to move.  Nice surprise.
+8,Qe7,d8e7,rnb1kbnr/ppp1qppp/8/4N3/4p3/3P4/PPP2PPP/RNBQKB1R w KQkq - 1 5,This forces the king to move.  Nice surprise.
+9,Bf4,c1f4,rnb1kbnr/ppp1qppp/8/4N3/4pB2/3P4/PPP2PPP/RN1QKB1R b KQkq - 2 5,This forces the king to move.  Nice surprise.
+10,g5,g7g5,rnb1kbnr/ppp1qp1p/8/4N1p1/4pB2/3P4/PPP2PPP/RN1QKB1R w KQkq - 0 6,This forces the king to move.  Nice surprise.
+11,Bg3,f4g3,rnb1kbnr/ppp1qp1p/8/4N1p1/4p3/3P2B1/PPP2PPP/RN1QKB1R b KQkq - 1 6,This forces the king to move.  Nice surprise.
+12,f6,f7f6,rnb1kbnr/ppp1q2p/5p2/4N1p1/4p3/3P2B1/PPP2PPP/RN1QKB1R w KQkq - 0 7,This forces the king to move.  Nice surprise.
+13,Qh5+,d1h5,rnb1kbnr/ppp1q2p/5p2/4N1pQ/4p3/3P2B1/PPP2PPP/RN2KB1R b KQkq - 1 7,This forces the king to move.  Nice surprise.
+14,Kd8,e8d8,rnbk1bnr/ppp1q2p/5p2/4N1pQ/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 2 8,...and the rook goes bye.
+15,Nf7+,e5f7,rnbk1bnr/ppp1qN1p/5p2/6pQ/4p3/3P2B1/PPP2PPP/RN2KB1R b KQ - 3 8,...and the rook goes bye.
+16,Kd7,d8d7,rnb2bnr/pppkqN1p/5p2/6pQ/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 4 9,"Actually, this could wait while PxPd3+ was dealt with."
+17,Nxh8,f7h8,rnb2bnN/pppkq2p/5p2/6pQ/4p3/3P2B1/PPP2PPP/RN2KB1R b KQ - 0 9,"Actually, this could wait while PxPd3+ was dealt with."
+18,f5,f6f5,rnb2bnN/pppkq2p/8/5ppQ/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 0 10,"Now white rescues the rook.  Black still likes PxPd3+.  Picks up two pawns.  Actually, Qb4+ might be better, followed by QxPb2."
+19,Nf7,h8f7,rnb2bn1/pppkqN1p/8/5ppQ/4p3/3P2B1/PPP2PPP/RN2KB1R b KQ - 1 10,"Now white rescues the rook.  Black still likes PxPd3+.  Picks up two pawns.  Actually, Qb4+ might be better, followed by QxPb2."
+20,Nf6,g8f6,rnb2b2/pppkqN1p/5n2/5ppQ/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 2 11,Ne5+ saves the knight.
+21,Ne5+,f7e5,rnb2b2/pppkq2p/5n2/4NppQ/4p3/3P2B1/PPP2PPP/RN2KB1R b KQ - 3 11,:)
+22,Kd8,d7d8,rnbk1b2/ppp1q2p/5n2/4NppQ/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 4 12,Not a good idea.  NxBg3+ gives black a free bishop.
+23,Qxg5,h5g5,rnbk1b2/ppp1q2p/5n2/4NpQ1/4p3/3P2B1/PPP2PPP/RN2KB1R b KQ - 0 12,Not a good idea.  NxBg3+ gives black a free bishop.
+24,Bg7,f8g7,rnbk4/ppp1q1bp/5n2/4NpQ1/4p3/3P2B1/PPP2PPP/RN2KB1R w KQ - 1 13,Not a good idea.  NxBg3+ gives black a free bishop.
+25,dxe4,d3e4,rnbk4/ppp1q1bp/5n2/4NpQ1/4P3/6B1/PPP2PPP/RN2KB1R b KQ - 0 13,Not a good idea.  NxBg3+ gives black a free bishop.
+26,Nxe4,f6e4,rnbk4/ppp1q1bp/8/4NpQ1/4n3/6B1/PPP2PPP/RN2KB1R w KQ - 0 14,Not a good idea.  NxBg3+ gives black a free bishop.
+27,Qf4,g5f4,rnbk4/ppp1q1bp/8/4Np2/4nQ2/6B1/PPP2PPP/RN2KB1R b KQ - 1 14,Not a good idea.  NxBg3+ gives black a free bishop.
+28,Bf6,g7f6,rnbk4/ppp1q2p/5b2/4Np2/4nQ2/6B1/PPP2PPP/RN2KB1R w KQ - 2 15,Not a good idea.  NxBg3+ gives black a free bishop.
+29,Nc4,e5c4,rnbk4/ppp1q2p/5b2/5p2/2N1nQ2/6B1/PPP2PPP/RN2KB1R b KQ - 3 15,Not a good idea.  NxBg3+ gives black a free bishop.
+30,Bg5,f6g5,rnbk4/ppp1q2p/8/5pb1/2N1nQ2/6B1/PPP2PPP/RN2KB1R w KQ - 4 16,"Oh, terrible!  Nd2+ and the white queen must move to e2 to block.  Then NxNc4 for free.  Black is better off with NxB+, followed by NxR  White loses two major pieces in as many moves."
+31,Qf3,f4f3,rnbk4/ppp1q2p/8/5pb1/2N1n3/5QB1/PPP2PPP/RN2KB1R b KQ - 5 16,"Oh, terrible!  Nd2+ and the white queen must move to e2 to block.  Then NxNc4 for free.  Black is better off with NxB+, followed by NxR  White loses two major pieces in as many moves."
+32,Nxg3+,e4g3,rnbk4/ppp1q2p/8/5pb1/2N5/5Qn1/PPP2PPP/RN2KB1R w KQ - 0 17,O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.
+33,Be2,f1e2,rnbk4/ppp1q2p/8/5pb1/2N5/5Qn1/PPP1BPPP/RN2K2R b KQ - 1 17,O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.
+34,Nxh1,g3h1,rnbk4/ppp1q2p/8/5pb1/2N5/5Q2/PPP1BPPP/RN2K2n w Q - 0 18,O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.
+35,Nc3,b1c3,rnbk4/ppp1q2p/8/5pb1/2N5/2N2Q2/PPP1BPPP/R3K2n b Q - 1 18,O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.
+36,Qb4,e7b4,rnbk4/ppp4p/8/5pb1/1qN5/2N2Q2/PPP1BPPP/R3K2n w Q - 2 19,O-O-O+ won't work--cannot castle into check.  :(  Rd1 could be good.
+37,a3,a2a3,rnbk4/ppp4p/8/5pb1/1qN5/P1N2Q2/1PP1BPPP/R3K2n b Q - 0 19,?  Not sure the point of that.
+38,Qc5,b4c5,rnbk4/ppp4p/8/2q2pb1/2N5/P1N2Q2/1PP1BPPP/R3K2n w Q - 1 20,?  Not sure the point of that.
+39,Nd1,c3d1,rnbk4/ppp4p/8/2q2pb1/2N5/P4Q2/1PP1BPPP/R2NK2n b Q - 2 20,?  Not sure the point of that.
+40,Be6,c8e6,rn1k4/ppp4p/4b3/2q2pb1/2N5/P4Q2/1PP1BPPP/R2NK2n w Q - 3 21,"Oh, bad move.  That bishop was all that was protecting black from QxPb7.  Of course, Bd5 keeps white from taking the rook."
+41,b3,b2b3,rn1k4/ppp4p/4b3/2q2pb1/2N5/PP3Q2/2P1BPPP/R2NK2n b Q - 0 21,Now QxPf5 traps black's white bishop.
+42,Bd5,e6d5,rn1k4/ppp4p/8/2qb1pb1/2N5/PP3Q2/2P1BPPP/R2NK2n w Q - 1 22,Now QxPf5 traps black's white bishop.
+43,Qxf5,f3f5,rn1k4/ppp4p/8/2qb1Qb1/2N5/PP6/2P1BPPP/R2NK2n b Q - 0 22,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+44,Bh4,g5h4,rn1k4/ppp4p/8/2qb1Q2/2N4b/PP6/2P1BPPP/R2NK2n w Q - 1 23,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+45,g3,g2g3,rn1k4/ppp4p/8/2qb1Q2/2N4b/PP4P1/2P1BP1P/R2NK2n b Q - 0 23,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+46,Be7,h4e7,rn1k4/ppp1b2p/8/2qb1Q2/2N5/PP4P1/2P1BP1P/R2NK2n w Q - 1 24,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+47,Bf3,e2f3,rn1k4/ppp1b2p/8/2qb1Q2/2N5/PP3BP1/2P2P1P/R2NK2n b Q - 2 24,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+48,Qc6,c5c6,rn1k4/ppp1b2p/2q5/3b1Q2/2N5/PP3BP1/2P2P1P/R2NK2n w Q - 3 25,Oops.  This won't defend against BxB.  Pc6 would have protected the bishop.
+49,Bxd5,f3d5,rn1k4/ppp1b2p/2q5/3B1Q2/2N5/PP4P1/2P2P1P/R2NK2n b Q - 0 25,That doesn't protect against BxPb7 forking the rook and knight.
+50,Qc5,c6c5,rn1k4/ppp1b2p/8/2qB1Q2/2N5/PP4P1/2P2P1P/R2NK2n w Q - 1 26,That doesn't protect against BxPb7 forking the rook and knight.
+51,Nde3,d1e3,rn1k4/ppp1b2p/8/2qB1Q2/2N5/PP2N1P1/2P2P1P/R3K2n b Q - 2 26,That doesn't protect against BxPb7 forking the rook and knight.
+52,Qd4,c5d4,rn1k4/ppp1b2p/8/3B1Q2/2Nq4/PP2N1P1/2P2P1P/R3K2n w Q - 3 27,That doesn't protect against BxPb7 forking the rook and knight.
+53,Rd1,a1d1,rn1k4/ppp1b2p/8/3B1Q2/2Nq4/PP2N1P1/2P2P1P/3RK2n b - - 4 27,That doesn't protect against BxPb7 forking the rook and knight.
+54,Qc3+,d4c3,rn1k4/ppp1b2p/8/3B1Q2/2N5/PPq1N1P1/2P2P1P/3RK2n w - - 5 28,That doesn't protect against BxPb7 forking the rook and knight.
+55,Rd2,d1d2,rn1k4/ppp1b2p/8/3B1Q2/2N5/PPq1N1P1/2PR1P1P/4K2n b - - 6 28,That doesn't protect against BxPb7 forking the rook and knight.
+56,Qa1+,c3a1,rn1k4/ppp1b2p/8/3B1Q2/2N5/PP2N1P1/2PR1P1P/q3K2n w - - 7 29,That doesn't protect against BxPb7 forking the rook and knight.
+57,Rd1,d2d1,rn1k4/ppp1b2p/8/3B1Q2/2N5/PP2N1P1/2P2P1P/q2RK2n b - - 8 29,That doesn't protect against BxPb7 forking the rook and knight.
+58,Qc3+,a1c3,rn1k4/ppp1b2p/8/3B1Q2/2N5/PPq1N1P1/2P2P1P/3RK2n w - - 9 30,That doesn't protect against BxPb7 forking the rook and knight.
+59,Nd2,c4d2,rn1k4/ppp1b2p/8/3B1Q2/8/PPq1N1P1/2PN1P1P/3RK2n b - - 10 30,That doesn't protect against BxPb7 forking the rook and knight.
+60,Na6,b8a6,r2k4/ppp1b2p/n7/3B1Q2/8/PPq1N1P1/2PN1P1P/3RK2n w - - 11 31,That doesn't protect against BxPb7 forking the rook and knight.
+61,Bxh1,d5h1,r2k4/ppp1b2p/n7/5Q2/8/PPq1N1P1/2PN1P1P/3RK2B b - - 0 31,That doesn't protect against BxPb7 forking the rook and knight.
+62,Rc8,a8c8,2rk4/ppp1b2p/n7/5Q2/8/PPq1N1P1/2PN1P1P/3RK2B w - - 1 32,That doesn't protect against BxPb7 forking the rook and knight.
+63,Bxb7,h1b7,2rk4/pBp1b2p/n7/5Q2/8/PPq1N1P1/2PN1P1P/3RK3 b - - 0 32,Just like that.
+64,Rb8,c8b8,1r1k4/pBp1b2p/n7/5Q2/8/PPq1N1P1/2PN1P1P/3RK3 w - - 1 33,Oops.  Nb1+ and the black queen falls.
+65,Ke2,e1e2,1r1k4/pBp1b2p/n7/5Q2/8/PPq1N1P1/2PNKP1P/3R4 b - - 2 33,Oops.  Nb1+ and the black queen falls.
+66,Rxb7,b8b7,3k4/prp1b2p/n7/5Q2/8/PPq1N1P1/2PNKP1P/3R4 w - - 0 34,Oops.  Nb1+ and the black queen falls.
+67,Ne4+,d2e4,3k4/prp1b2p/n7/5Q2/4N3/PPq1N1P1/2P1KP1P/3R4 b - - 1 34,"Or Ne4+, even better (gets the knight out more in the center--though it still ends up on c3, unless RxQd4."

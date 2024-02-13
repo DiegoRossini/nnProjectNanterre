@@ -1,0 +1,78 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This was a themed mini tournament about a very sharp line of the queen's gambit.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,All games start here.
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,All games start here.
+4,e5,e7e5,rnbqkbnr/ppp2ppp/8/3pp3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,All games start here.
+5,dxe5,d4e5,rnbqkbnr/ppp2ppp/8/3pP3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3,All games start here.
+6,d4,d5d4,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4,All games start here.
+7,e3,e2e3,rnbqkbnr/ppp2ppp/8/4P3/2Pp4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 4,All games start here.
+8,Bb4+,f8b4,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 5,All games start here.
+9,Bd2,c1d2,rnbqk1nr/ppp2ppp/8/4P3/1bPp4/4P3/PP1B1PPP/RN1QKBNR b KQkq - 2 5,All games start here.
+10,dxe3,d4e3,rnbqk1nr/ppp2ppp/8/4P3/1bP5/4p3/PP1B1PPP/RN1QKBNR w KQkq - 0 6,All games start here.
+11,Bxb4,d2b4,rnbqk1nr/ppp2ppp/8/4P3/1BP5/4p3/PP3PPP/RN1QKBNR b KQkq - 0 6,Taking the pawn would lose my queen.
+12,exf2+,e3f2,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP3pPP/RN1QKBNR w KQkq - 0 7,Taking the pawn would lose my queen.
+13,Ke2,e1e2,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2KpPP/RN1Q1BNR b kq - 1 7,Taking the pawn would lose my queen.
+14,fxg1=Q,f2g1q,rnbqk1nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN1Q1BqR w kq - 0 8,! If I take his queen then he can skewer my king and queen.
+15,Qxd8+,d1d8,rnbQk1nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN3BqR b kq - 0 8,! If I take his queen then he can skewer my king and queen.
+16,Kxd8,e8d8,rnbk2nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN3BqR w - - 0 9,Discovers a defense
+17,Rxg1,h1g1,rnbk2nr/ppp2ppp/8/4P3/1BP5/8/PP2K1PP/RN3BR1 b - - 0 9,Discovers a defense
+18,Be6,c8e6,rn1k2nr/ppp2ppp/4b3/4P3/1BP5/8/PP2K1PP/RN3BR1 w - - 1 10,Discovers a defense
+19,Ke1,e2e1,rn1k2nr/ppp2ppp/4b3/4P3/1BP5/8/PP4PP/RN2KBR1 b - - 2 10,Discovers a defense
+20,Nc6,b8c6,r2k2nr/ppp2ppp/2n1b3/4P3/1BP5/8/PP4PP/RN2KBR1 w - - 3 11,I lose a pawn
+21,Ba3,b4a3,r2k2nr/ppp2ppp/2n1b3/4P3/2P5/B7/PP4PP/RN2KBR1 b - - 4 11,I lose a pawn
+22,Nxe5,c6e5,r2k2nr/ppp2ppp/4b3/4n3/2P5/B7/PP4PP/RN2KBR1 w - - 0 12,I lose a pawn
+23,Nc3,b1c3,r2k2nr/ppp2ppp/4b3/4n3/2P5/B1N5/PP4PP/R3KBR1 b - - 1 12,He takes the open file
+24,Nf6,g8f6,r2k3r/ppp2ppp/4bn2/4n3/2P5/B1N5/PP4PP/R3KBR1 w - - 2 13,He takes the open file
+25,Be2,f1e2,r2k3r/ppp2ppp/4bn2/4n3/2P5/B1N5/PP2B1PP/R3K1R1 b - - 3 13,He takes the open file
+26,c6,c7c6,r2k3r/pp3ppp/2p1bn2/4n3/2P5/B1N5/PP2B1PP/R3K1R1 w - - 0 14,He takes the open file
+27,g3,g2g3,r2k3r/pp3ppp/2p1bn2/4n3/2P5/B1N3P1/PP2B2P/R3K1R1 b - - 0 14,He takes the open file
+28,Kc7,d8c7,r6r/ppk2ppp/2p1bn2/4n3/2P5/B1N3P1/PP2B2P/R3K1R1 w - - 1 15,He takes the open file
+29,c5,c4c5,r6r/ppk2ppp/2p1bn2/2P1n3/8/B1N3P1/PP2B2P/R3K1R1 b - - 0 15,He takes the open file
+30,Rad8,a8d8,3r3r/ppk2ppp/2p1bn2/2P1n3/8/B1N3P1/PP2B2P/R3K1R1 w - - 1 16,He takes the open file
+31,h4,h2h4,3r3r/ppk2ppp/2p1bn2/2P1n3/7P/B1N3P1/PP2B3/R3K1R1 b - - 0 16,"I trade, I am behind but I don't think it's enough to be too worried about."
+32,Bc4,e6c4,3r3r/ppk2ppp/2p2n2/2P1n3/2b4P/B1N3P1/PP2B3/R3K1R1 w - - 1 17,"I trade, I am behind but I don't think it's enough to be too worried about."
+33,Bxc4,e2c4,3r3r/ppk2ppp/2p2n2/2P1n3/2B4P/B1N3P1/PP6/R3K1R1 b - - 0 17,"I trade, I am behind but I don't think it's enough to be too worried about."
+34,Nxc4,e5c4,3r3r/ppk2ppp/2p2n2/2P5/2n4P/B1N3P1/PP6/R3K1R1 w - - 0 18,I contest the file
+35,Rd1,a1d1,3r3r/ppk2ppp/2p2n2/2P5/2n4P/B1N3P1/PP6/3RK1R1 b - - 1 18,I contest the file
+36,Rhe8+,h8e8,3rr3/ppk2ppp/2p2n2/2P5/2n4P/B1N3P1/PP6/3RK1R1 w - - 2 19,Hoping for Kf1?? maybe?
+37,Kf2,e1f2,3rr3/ppk2ppp/2p2n2/2P5/2n4P/B1N3P1/PP3K2/3R2R1 b - - 3 19,My king runs away from his knight
+38,Ng4+,f6g4,3rr3/ppk2ppp/2p5/2P5/2n3nP/B1N3P1/PP3K2/3R2R1 w - - 4 20,My king runs away from his knight
+39,Kf3,f2f3,3rr3/ppk2ppp/2p5/2P5/2n3nP/B1N2KP1/PP6/3R2R1 b - - 5 20,My king runs away from his knight
+40,Nge5+,g4e5,3rr3/ppk2ppp/2p5/2P1n3/2n4P/B1N2KP1/PP6/3R2R1 w - - 6 21,My king runs away from his knight
+41,Kf2,f3f2,3rr3/ppk2ppp/2p5/2P1n3/2n4P/B1N3P1/PP3K2/3R2R1 b - - 7 21,My king runs away from his knight
+42,Nd3+,e5d3,3rr3/ppk2ppp/2p5/2P5/2n4P/B1Nn2P1/PP3K2/3R2R1 w - - 8 22,Now I have to run from a castle too!
+43,Kf3,f2f3,3rr3/ppk2ppp/2p5/2P5/2n4P/B1Nn1KP1/PP6/3R2R1 b - - 9 22,Now I have to run from a castle too!
+44,Re3+,e8e3,3r4/ppk2ppp/2p5/2P5/2n4P/B1NnrKP1/PP6/3R2R1 w - - 10 23,Now I have to run from a castle too!
+45,Kg2,f3g2,3r4/ppk2ppp/2p5/2P5/2n4P/B1Nnr1P1/PP4K1/3R2R1 b - - 11 23,Now I have to run from a castle too!
+46,Ncxb2,c4b2,3r4/ppk2ppp/2p5/2P5/7P/B1Nnr1P1/Pn4K1/3R2R1 w - - 0 24,"Great just great, now I'm down two pawns"
+47,Bxb2,a3b2,3r4/ppk2ppp/2p5/2P5/7P/2Nnr1P1/PB4K1/3R2R1 b - - 0 24,"Great just great, now I'm down two pawns"
+48,Nxb2,d3b2,3r4/ppk2ppp/2p5/2P5/7P/2N1r1P1/Pn4K1/3R2R1 w - - 0 25,"Great just great, now I'm down two pawns"
+49,Rxd8,d1d8,3R4/ppk2ppp/2p5/2P5/7P/2N1r1P1/Pn4K1/6R1 b - - 0 25,"Great just great, now I'm down two pawns"
+50,Kxd8,c7d8,3k4/pp3ppp/2p5/2P5/7P/2N1r1P1/Pn4K1/6R1 w - - 0 26,"Great just great, now I'm down two pawns"
+51,Nd1,c3d1,3k4/pp3ppp/2p5/2P5/7P/4r1P1/Pn4K1/3N2R1 b - - 1 26,I decide to chase away his rook
+52,Nxd1,b2d1,3k4/pp3ppp/2p5/2P5/7P/4r1P1/P5K1/3n2R1 w - - 0 27,I decide to chase away his rook
+53,Rxd1+,g1d1,3k4/pp3ppp/2p5/2P5/7P/4r1P1/P5K1/3R4 b - - 0 27,I decide to chase away his rook
+54,Ke7,d8e7,8/pp2kppp/2p5/2P5/7P/4r1P1/P5K1/3R4 w - - 1 28,I decide to chase away his rook
+55,Kf2,g2f2,8/pp2kppp/2p5/2P5/7P/4r1P1/P4K2/3R4 b - - 2 28,I decide to chase away his rook
+56,Re5,e3e5,8/pp2kppp/2p5/2P1r3/7P/6P1/P4K2/3R4 w - - 3 29,! Wins a pawn
+57,Rc1,d1c1,8/pp2kppp/2p5/2P1r3/7P/6P1/P4K2/2R5 b - - 4 29,! Wins a pawn
+58,Rd5,e5d5,8/pp2kppp/2p5/2Pr4/7P/6P1/P4K2/2R5 w - - 5 30,! Wins a pawn
+59,Ke3,f2e3,8/pp2kppp/2p5/2Pr4/7P/4K1P1/P7/2R5 b - - 6 30,! Wins a pawn
+60,b6,b7b6,8/p3kppp/1pp5/2Pr4/7P/4K1P1/P7/2R5 w - - 0 31,! Wins a pawn
+61,cxb6,c5b6,8/p3kppp/1Pp5/3r4/7P/4K1P1/P7/2R5 b - - 0 31,! Wins a pawn
+62,axb6,a7b6,8/4kppp/1pp5/3r4/7P/4K1P1/P7/2R5 w - - 0 32,Whoo-hoo I'm only down a pawn and have drawing chances.
+63,Rxc6,c1c6,8/4kppp/1pR5/3r4/7P/4K1P1/P7/8 b - - 0 32,Whoo-hoo I'm only down a pawn and have drawing chances.
+64,Rd6,d5d6,8/4kppp/1pRr4/8/7P/4K1P1/P7/8 w - - 1 33,? Pushes his king closer to the middle
+65,Rc7+,c6c7,8/2R1kppp/1p1r4/8/7P/4K1P1/P7/8 b - - 2 33,? Pushes his king closer to the middle
+66,Ke6,e7e6,8/2R2ppp/1p1rk3/8/7P/4K1P1/P7/8 w - - 3 34,?! I'm not sure I would have done that... It makes his g pawn vulnerable to my rook.
+67,Ke4,e3e4,8/2R2ppp/1p1rk3/8/4K2P/6P1/P7/8 b - - 4 34,?! I'm not sure I would have done that... It makes his g pawn vulnerable to my rook.
+68,f5+,f7f5,8/2R3pp/1p1rk3/5p2/4K2P/6P1/P7/8 w - - 0 35,?! I'm not sure I would have done that... It makes his g pawn vulnerable to my rook.
+69,Kf4,e4f4,8/2R3pp/1p1rk3/5p2/5K1P/6P1/P7/8 b - - 1 35,But he defends it
+70,Kf6,e6f6,8/2R3pp/1p1r1k2/5p2/5K1P/6P1/P7/8 w - - 2 36,But he defends it
+71,Rb7,c7b7,8/1R4pp/1p1r1k2/5p2/5K1P/6P1/P7/8 b - - 3 36,Maybe if he isn't paying attention he'll move his rook of the b file?
+72,h6,h7h6,8/1R4p1/1p1r1k1p/5p2/5K1P/6P1/P7/8 w - - 0 37,Maybe if he isn't paying attention he'll move his rook of the b file?
+73,h5,h4h5,8/1R4p1/1p1r1k1p/5p1P/5K2/6P1/P7/8 b - - 0 37,Maybe if he isn't paying attention he'll move his rook of the b file?
+74,Rd4+,d6d4,8/1R4p1/1p3k1p/5p1P/3r1K2/6P1/P7/8 w - - 1 38,Maybe if he isn't paying attention he'll move his rook of the b file?
+75,Ke3,f4e3,8/1R4p1/1p3k1p/5p1P/3r4/4K1P1/P7/8 b - - 2 38,Maybe if he isn't paying attention he'll move his rook of the b file?
+76,Rb4,d4b4,8/1R4p1/1p3k1p/5p1P/1r6/4K1P1/P7/8 w - - 3 39,Maybe if he isn't paying attention he'll move his rook of the b file?
+77,a3,a2a3,8/1R4p1/1p3k1p/5p1P/1r6/P3K1P1/8/8 b - - 0 39,Maybe if he isn't paying attention he'll move his rook of the b file?

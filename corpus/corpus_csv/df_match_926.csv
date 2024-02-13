@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Experimenting with the Caro-Kann.  Sometimes it results in passive but solid positions; other times the games are relatively open.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Experimenting with the Caro-Kann.  Sometimes it results in passive but solid positions; other times the games are relatively open.
+3,Nc3,b1c3,rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2,Experimenting with the Caro-Kann.  Sometimes it results in passive but solid positions; other times the games are relatively open.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 3,Experimenting with the Caro-Kann.  Sometimes it results in passive but solid positions; other times the games are relatively open.
+5,exd5,e4d5,rnbqkbnr/pp2pppp/2p5/3P4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 3,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+6,cxd5,c6d5,rnbqkbnr/pp2pppp/8/3p4/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 0 4,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+7,d4,d2d4,rnbqkbnr/pp2pppp/8/3p4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/5n2/3p4/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+9,Bg5,c1g5,rnbqkb1r/pp2pppp/5n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR b KQkq - 2 5,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+10,e6,e7e6,rnbqkb1r/pp3ppp/4pn2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 0 6,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+11,Qe2,d1e2,rnbqkb1r/pp3ppp/4pn2/3p2B1/3P4/2N5/PPP1QPPP/R3KBNR b KQkq - 1 6,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+12,Be7,f8e7,rnbqk2r/pp2bppp/4pn2/3p2B1/3P4/2N5/PPP1QPPP/R3KBNR w KQkq - 2 7,"During the game, I assumed 0-0-0 was coming after Qe2.  Now during the replay, I wonder if the intent was to play Nxd5, thinking I couldn't recapture.  But of course Black can recapture."
+13,Qb5+,e2b5,rnbqk2r/pp2bppp/4pn2/1Q1p2B1/3P4/2N5/PPP2PPP/R3KBNR b KQkq - 3 7,"I thought this needless exposed the Q to later attack.  In other words, Black just gains tempos."
+14,Nc6,b8c6,r1bqk2r/pp2bppp/2n1pn2/1Q1p2B1/3P4/2N5/PPP2PPP/R3KBNR w KQkq - 4 8,"While a3 prevents the annoying Nb4, it also costs another tempo."
+15,Nf3,g1f3,r1bqk2r/pp2bppp/2n1pn2/1Q1p2B1/3P4/2N2N2/PPP2PPP/R3KB1R b KQkq - 5 8,"While a3 prevents the annoying Nb4, it also costs another tempo."
+16,O-O,e8g8,r1bq1rk1/pp2bppp/2n1pn2/1Q1p2B1/3P4/2N2N2/PPP2PPP/R3KB1R w KQ - 6 9,"While a3 prevents the annoying Nb4, it also costs another tempo."
+17,a3,a2a3,r1bq1rk1/pp2bppp/2n1pn2/1Q1p2B1/3P4/P1N2N2/1PP2PPP/R3KB1R b KQ - 0 9,"While a3 prevents the annoying Nb4, it also costs another tempo."
+18,a6,a7a6,r1bq1rk1/1p2bppp/p1n1pn2/1Q1p2B1/3P4/P1N2N2/1PP2PPP/R3KB1R w KQ - 0 10,a6 gains a tempo and White has to move a piece a second time.
+19,Qd3,b5d3,r1bq1rk1/1p2bppp/p1n1pn2/3p2B1/3P4/P1NQ1N2/1PP2PPP/R3KB1R b KQ - 1 10,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+20,h6,h7h6,r1bq1rk1/1p2bpp1/p1n1pn1p/3p2B1/3P4/P1NQ1N2/1PP2PPP/R3KB1R w KQ - 0 11,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+21,Bd2,g5d2,r1bq1rk1/1p2bpp1/p1n1pn1p/3p4/3P4/P1NQ1N2/1PPB1PPP/R3KB1R b KQ - 1 11,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+22,Qc7,d8c7,r1b2rk1/1pq1bpp1/p1n1pn1p/3p4/3P4/P1NQ1N2/1PPB1PPP/R3KB1R w KQ - 2 12,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+23,Be2,f1e2,r1b2rk1/1pq1bpp1/p1n1pn1p/3p4/3P4/P1NQ1N2/1PPBBPPP/R3K2R b KQ - 3 12,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+24,b5,b7b5,r1b2rk1/2q1bpp1/p1n1pn1p/1p1p4/3P4/P1NQ1N2/1PPBBPPP/R3K2R w KQ - 0 13,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+25,b4,b2b4,r1b2rk1/2q1bpp1/p1n1pn1p/1p1p4/1P1P4/P1NQ1N2/2PBBPPP/R3K2R b KQ - 0 13,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+26,Bxb4,e7b4,r1b2rk1/2q2pp1/p1n1pn1p/1p1p4/1b1P4/P1NQ1N2/2PBBPPP/R3K2R w KQ - 0 14,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+27,O-O,e1g1,r1b2rk1/2q2pp1/p1n1pn1p/1p1p4/1b1P4/P1NQ1N2/2PBBPPP/R4RK1 b - - 1 14,"If axb4, Black can play Nxb4, hitting the Q.  When the Q moves, Black can play Nxc2+, netting a third pawn and the exchange--and preventing White from castling.  There is no square the Q can move to that will cover c2."
+28,Bd6,b4d6,r1b2rk1/2q2pp1/p1nbpn1p/1p1p4/3P4/P1NQ1N2/2PBBPPP/R4RK1 w - - 2 15,So Black is able to sneak a pawn.
+29,Na2,c3a2,r1b2rk1/2q2pp1/p1nbpn1p/1p1p4/3P4/P2Q1N2/N1PBBPPP/R4RK1 b - - 3 15,"Both sides are now completely developed, but Black is a pawn to the good."
+30,Bd7,c8d7,r4rk1/2qb1pp1/p1nbpn1p/1p1p4/3P4/P2Q1N2/N1PBBPPP/R4RK1 w - - 4 16,"Both sides are now completely developed, but Black is a pawn to the good."
+31,Nh4,f3h4,r4rk1/2qb1pp1/p1nbpn1p/1p1p4/3P3N/P2Q4/N1PBBPPP/R4RK1 b - - 5 16,"I don't understand the intent of this move, but it hangs another pawn."
+32,Bxh2+,d6h2,r4rk1/2qb1pp1/p1n1pn1p/1p1p4/3P3N/P2Q4/N1PBBPPb/R4RK1 w - - 0 17,Black is content to exchange Bs and reduce the threat of any future attack.
+33,Kh1,g1h1,r4rk1/2qb1pp1/p1n1pn1p/1p1p4/3P3N/P2Q4/N1PBBPPb/R4R1K b - - 1 17,Black is content to exchange Bs and reduce the threat of any future attack.
+34,Bf4,h2f4,r4rk1/2qb1pp1/p1n1pn1p/1p1p4/3P1b1N/P2Q4/N1PBBPP1/R4R1K w - - 2 18,Black is content to exchange Bs and reduce the threat of any future attack.
+35,Bxf4,d2f4,r4rk1/2qb1pp1/p1n1pn1p/1p1p4/3P1B1N/P2Q4/N1P1BPP1/R4R1K b - - 0 18,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+36,Qxf4,c7f4,r4rk1/3b1pp1/p1n1pn1p/1p1p4/3P1q1N/P2Q4/N1P1BPP1/R4R1K w - - 0 19,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+37,Nf3,h4f3,r4rk1/3b1pp1/p1n1pn1p/1p1p4/3P1q2/P2Q1N2/N1P1BPP1/R4R1K b - - 1 19,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+38,Qe4,f4e4,r4rk1/3b1pp1/p1n1pn1p/1p1p4/3Pq3/P2Q1N2/N1P1BPP1/R4R1K w - - 2 20,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+39,c3,c2c3,r4rk1/3b1pp1/p1n1pn1p/1p1p4/3Pq3/P1PQ1N2/N3BPP1/R4R1K b - - 0 20,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+40,Rfc8,f8c8,r1r3k1/3b1pp1/p1n1pn1p/1p1p4/3Pq3/P1PQ1N2/N3BPP1/R4R1K w - - 1 21,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+41,Nd2,f3d2,r1r3k1/3b1pp1/p1n1pn1p/1p1p4/3Pq3/P1PQ4/N2NBPP1/R4R1K b - - 2 21,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+42,Qxd3,e4d3,r1r3k1/3b1pp1/p1n1pn1p/1p1p4/3P4/P1Pq4/N2NBPP1/R4R1K w - - 0 22,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+43,Bxd3,e2d3,r1r3k1/3b1pp1/p1n1pn1p/1p1p4/3P4/P1PB4/N2N1PP1/R4R1K b - - 0 22,"With the exchange of Qs, White's attacking prospects are severely limited.  Black has a two-pawn advantage to work with.  However, Black's B is a lousy piece.  It needs to be improved."
+44,Na5,c6a5,r1r3k1/3b1pp1/p3pn1p/np1p4/3P4/P1PB4/N2N1PP1/R4R1K w - - 1 23,"Not sure if this was the best way to recapture, but now the Black B has a better diagonal and d5 might be a good square for the N later."
+45,Rac1,a1c1,r1r3k1/3b1pp1/p3pn1p/np1p4/3P4/P1PB4/N2N1PP1/2R2R1K b - - 2 23,"Not sure if this was the best way to recapture, but now the Black B has a better diagonal and d5 might be a good square for the N later."
+46,Nc4,a5c4,r1r3k1/3b1pp1/p3pn1p/1p1p4/2nP4/P1PB4/N2N1PP1/2R2R1K w - - 3 24,"Not sure if this was the best way to recapture, but now the Black B has a better diagonal and d5 might be a good square for the N later."
+47,Nxc4,d2c4,r1r3k1/3b1pp1/p3pn1p/1p1p4/2NP4/P1PB4/N4PP1/2R2R1K b - - 0 24,"Not sure if this was the best way to recapture, but now the Black B has a better diagonal and d5 might be a good square for the N later."
+48,dxc4,d5c4,r1r3k1/3b1pp1/p3pn1p/1p6/2pP4/P1PB4/N4PP1/2R2R1K w - - 0 25,"Not sure if this was the best way to recapture, but now the Black B has a better diagonal and d5 might be a good square for the N later."
+49,Be2,d3e2,r1r3k1/3b1pp1/p3pn1p/1p6/2pP4/P1P5/N3BPP1/2R2R1K b - - 1 25,"If the R doesn't vacate f1, Ne3 would really hurt."
+50,Bc6,d7c6,r1r3k1/5pp1/p1b1pn1p/1p6/2pP4/P1P5/N3BPP1/2R2R1K w - - 2 26,"If the R doesn't vacate f1, Ne3 would really hurt."
+51,f3,f2f3,r1r3k1/5pp1/p1b1pn1p/1p6/2pP4/P1P2P2/N3B1P1/2R2R1K b - - 0 26,"If the R doesn't vacate f1, Ne3 would really hurt."
+52,a5,a6a5,r1r3k1/5pp1/2b1pn1p/pp6/2pP4/P1P2P2/N3B1P1/2R2R1K w - - 0 27,"If the R doesn't vacate f1, Ne3 would really hurt."
+53,Rc2,c1c2,r1r3k1/5pp1/2b1pn1p/pp6/2pP4/P1P2P2/N1R1B1P1/5R1K b - - 1 27,"If the R doesn't vacate f1, Ne3 would really hurt."
+54,Nd5,f6d5,r1r3k1/5pp1/2b1p2p/pp1n4/2pP4/P1P2P2/N1R1B1P1/5R1K w - - 2 28,"If the R doesn't vacate f1, Ne3 would really hurt."
+55,Re1,f1e1,r1r3k1/5pp1/2b1p2p/pp1n4/2pP4/P1P2P2/N1R1B1P1/4R2K b - - 3 28,"If the R doesn't vacate f1, Ne3 would really hurt."
+56,Rab8,a8b8,1rr3k1/5pp1/2b1p2p/pp1n4/2pP4/P1P2P2/N1R1B1P1/4R2K w - - 4 29,Where and how can Black break in the center?  It needs to happen for Black to exploit the extra material.
+57,Bd1,e2d1,1rr3k1/5pp1/2b1p2p/pp1n4/2pP4/P1P2P2/N1R3P1/3BR2K b - - 5 29,Where and how can Black break in the center?  It needs to happen for Black to exploit the extra material.
+58,Bd7,c6d7,1rr3k1/3b1pp1/4p2p/pp1n4/2pP4/P1P2P2/N1R3P1/3BR2K w - - 6 30,Where and how can Black break in the center?  It needs to happen for Black to exploit the extra material.
+59,Rb2,c2b2,1rr3k1/3b1pp1/4p2p/pp1n4/2pP4/P1P2P2/NR4P1/3BR2K b - - 7 30,Where and how can Black break in the center?  It needs to happen for Black to exploit the extra material.
+60,Rce8,c8e8,1r2r1k1/3b1pp1/4p2p/pp1n4/2pP4/P1P2P2/NR4P1/3BR2K w - - 8 31,Where and how can Black break in the center?  It needs to happen for Black to exploit the extra material.
+61,Bc2,d1c2,1r2r1k1/3b1pp1/4p2p/pp1n4/2pP4/P1P2P2/NRB3P1/4R2K b - - 9 31,Allowing White to capture would leave a very weak pawn on d5.  Already I am not happy about my target on b5.
+62,g6,g7g6,1r2r1k1/3b1p2/4p1pp/pp1n4/2pP4/P1P2P2/NRB3P1/4R2K w - - 0 32,Allowing White to capture would leave a very weak pawn on d5.  Already I am not happy about my target on b5.
+63,Be4,c2e4,1r2r1k1/3b1p2/4p1pp/pp1n4/2pPB3/P1P2P2/NR4P1/4R2K b - - 1 32,Allowing White to capture would leave a very weak pawn on d5.  Already I am not happy about my target on b5.
+64,Nf6,d5f6,1r2r1k1/3b1p2/4pnpp/pp6/2pPB3/P1P2P2/NR4P1/4R2K w - - 2 33,Allowing White to capture would leave a very weak pawn on d5.  Already I am not happy about my target on b5.
+65,g4,g2g4,1r2r1k1/3b1p2/4pnpp/pp6/2pPB1P1/P1P2P2/NR6/4R2K b - - 0 33,I don't understand this R move.  Now White will be saddled with a target on g4.
+66,Kg7,g8g7,1r2r3/3b1pk1/4pnpp/pp6/2pPB1P1/P1P2P2/NR6/4R2K w - - 1 34,I don't understand this R move.  Now White will be saddled with a target on g4.
+67,Rg1,e1g1,1r2r3/3b1pk1/4pnpp/pp6/2pPB1P1/P1P2P2/NR6/6RK b - - 2 34,I don't understand this R move.  Now White will be saddled with a target on g4.
+68,Nxe4,f6e4,1r2r3/3b1pk1/4p1pp/pp6/2pPn1P1/P1P2P2/NR6/6RK w - - 0 35,"I was expecting d5 here, which would make my job considerably tougher."
+69,fxe4,f3e4,1r2r3/3b1pk1/4p1pp/pp6/2pPP1P1/P1P5/NR6/6RK b - - 0 35,"I was expecting d5 here, which would make my job considerably tougher."
+70,Bc6,d7c6,1r2r3/5pk1/2b1p1pp/pp6/2pPP1P1/P1P5/NR6/6RK w - - 1 36,"I was expecting d5 here, which would make my job considerably tougher."
+71,Re2,b2e2,1r2r3/5pk1/2b1p1pp/pp6/2pPP1P1/P1P5/N3R3/6RK b - - 2 36,"I was expecting d5 here, which would make my job considerably tougher."
+72,f5,f7f5,1r2r3/6k1/2b1p1pp/pp3p2/2pPP1P1/P1P5/N3R3/6RK w - - 0 37,"I was expecting d5 here, which would make my job considerably tougher."
+73,gxf5,g4f5,1r2r3/6k1/2b1p1pp/pp3P2/2pPP3/P1P5/N3R3/6RK b - - 0 37,"I was expecting d5 here, which would make my job considerably tougher."
+74,exf5,e6f5,1r2r3/6k1/2b3pp/pp3p2/2pPP3/P1P5/N3R3/6RK w - - 0 38,I think White may have missed the point that at the end of the sequence the Re2 is unprotected.
+75,d5,d4d5,1r2r3/6k1/2b3pp/pp1P1p2/2p1P3/P1P5/N3R3/6RK b - - 0 38,I think White may have missed the point that at the end of the sequence the Re2 is unprotected.
+76,Bxd5,c6d5,1r2r3/6k1/6pp/pp1b1p2/2p1P3/P1P5/N3R3/6RK w - - 0 39,"Now White sees the problem, but Black has managed to sneak another pawn."
+77,Kh2,h1h2,1r2r3/6k1/6pp/pp1b1p2/2p1P3/P1P5/N3R2K/6R1 b - - 1 39,"Now White sees the problem, but Black has managed to sneak another pawn."
+78,Rxe4,e8e4,1r6/6k1/6pp/pp1b1p2/2p1r3/P1P5/N3R2K/6R1 w - - 0 40,Black now has a four pawn edge and a good B.  The Kingside pawns are also mobile.
+79,Rxe4,e2e4,1r6/6k1/6pp/pp1b1p2/2p1R3/P1P5/N6K/6R1 b - - 0 40,Black now has a four pawn edge and a good B.  The Kingside pawns are also mobile.
+80,Bxe4,d5e4,1r6/6k1/6pp/pp3p2/2p1b3/P1P5/N6K/6R1 w - - 0 41,Black now has a four pawn edge and a good B.  The Kingside pawns are also mobile.

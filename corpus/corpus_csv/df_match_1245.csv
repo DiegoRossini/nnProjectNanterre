@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,The Budapest.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,The Budapest.
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 2 2,The Budapest.
+4,e5,e7e5,rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 3,The Budapest.
+5,e4,e2e4,rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 3,"A conservative approach. Good. Any other move was good, c5, or exd4..."
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p1n2/4p3/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"Still more conservative, but wrong. Black will end up very cramped. And white can play dxe, and if dxe, QxQ+. Not fatal, but small mistakes like this one help games to be more interesting! :-))"
+7,d5,d4d5,rnbqkb1r/ppp2ppp/3p1n2/3Pp3/4P3/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,Uh-oh.
+8,Bg4,c8g4,rn1qkb1r/ppp2ppp/3p1n2/3Pp3/4P1b1/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,"?! I opted for developement, well knowing what could come after..."
+9,f3,f2f3,rn1qkb1r/ppp2ppp/3p1n2/3Pp3/4P1b1/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 5,"If g4, I'll try to exploit white's opened kingside, but it won't be easy."
+10,Bh5,g4h5,rn1qkb1r/ppp2ppp/3p1n2/3Pp2b/4P3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 1 6,"If g4, I'll try to exploit white's opened kingside, but it won't be easy."
+11,Qd3,d1d3,rn1qkb1r/ppp2ppp/3p1n2/3Pp2b/4P3/2NQ1P2/PPP3PP/R1B1KBNR b KQkq - 2 6,"?! Well, it was very easy for me to spot the threat, Qb4+, but I was playing very bad."
+12,Bg6,h5g6,rn1qkb1r/ppp2ppp/3p1nb1/3Pp3/4P3/2NQ1P2/PPP3PP/R1B1KBNR w KQkq - 3 7,I saw that now I could take on d4 if the WN moves from c3.
+13,Qb5+,d3b5,rn1qkb1r/ppp2ppp/3p1nb1/1Q1Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR b KQkq - 4 7,...but this made me ashamed of myself!
+14,Nbd7,b8d7,r2qkb1r/pppn1ppp/3p1nb1/1Q1Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR w KQkq - 5 8,The best way out to this.
+15,Qxb7,b5b7,r2qkb1r/pQpn1ppp/3p1nb1/3Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR b KQkq - 0 8,"...and try to castle and hold before white can add more pressure. I accept I'll lose c7 to Nb5, but the king's safety comes first..."
+16,Rb8,a8b8,1r1qkb1r/pQpn1ppp/3p1nb1/3Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR w KQk - 1 9,"...and try to castle and hold before white can add more pressure. I accept I'll lose c7 to Nb5, but the king's safety comes first..."
+17,Qxa7,b7a7,1r1qkb1r/Q1pn1ppp/3p1nb1/3Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR b KQk - 0 9,"...and try to castle and hold before white can add more pressure. I accept I'll lose c7 to Nb5, but the king's safety comes first..."
+18,Be7,f8e7,1r1qk2r/Q1pnbppp/3p1nb1/3Pp3/4P3/2N2P2/PPP3PP/R1B1KBNR w KQk - 1 10,"...and try to castle and hold before white can add more pressure. I accept I'll lose c7 to Nb5, but the king's safety comes first..."
+19,Bb5,f1b5,1r1qk2r/Q1pnbppp/3p1nb1/1B1Pp3/4P3/2N2P2/PPP3PP/R1B1K1NR b KQk - 2 10,"Developing, but not as much aggressive as Nb5."
+20,O-O,e8g8,1r1q1rk1/Q1pnbppp/3p1nb1/1B1Pp3/4P3/2N2P2/PPP3PP/R1B1K1NR w KQ - 3 11,"If I can just ignore a move, the move must be put under investigation. White lost an attack's tempo."
+21,Bxd7,b5d7,1r1q1rk1/Q1pBbppp/3p1nb1/3Pp3/4P3/2N2P2/PPP3PP/R1B1K1NR b KQ - 0 11,"(Edit, thanks) In the hindisght, Qxd7 was much better, but I was happy with this, trying to find a way out. The problem with the lsb's outcome is that now Nb5 can't be played anymore due to the R..."
+22,Nxd7,f6d7,1r1q1rk1/Q1pnbppp/3p2b1/3Pp3/4P3/2N2P2/PPP3PP/R1B1K1NR w KQ - 0 12,"(Edit, thanks) In the hindisght, Qxd7 was much better, but I was happy with this, trying to find a way out. The problem with the lsb's outcome is that now Nb5 can't be played anymore due to the R..."
+23,Qf2,a7f2,1r1q1rk1/2pnbppp/3p2b1/3Pp3/4P3/2N2P2/PPP2QPP/R1B1K1NR b KQ - 1 12,"?! Well, what's the plan behind this? :-)"
+24,Nb6,d7b6,1r1q1rk1/2p1bppp/1n1p2b1/3Pp3/4P3/2N2P2/PPP2QPP/R1B1K1NR w KQ - 2 13,"?! I'm not any sure about this one or Nc5 or, even better, Qc8, thinking in c6."
+25,h4,h2h4,1r1q1rk1/2p1bppp/1n1p2b1/3Pp3/4P2P/2N2P2/PPP2QP1/R1B1K1NR b KQ - 0 13,"I know, I know."
+26,h5,h7h5,1r1q1rk1/2p1bpp1/1n1p2b1/3Pp2p/4P2P/2N2P2/PPP2QP1/R1B1K1NR w KQ - 0 14,"Ah, white is playing hard, correctly trying to open my kingside! Very interesting! My kinside countergame is far from clear."
+27,g4,g2g4,1r1q1rk1/2p1bpp1/1n1p2b1/3Pp2p/4P1PP/2N2P2/PPP2Q2/R1B1K1NR b KQ - 0 14,"Ah, white is playing hard, correctly trying to open my kingside! Very interesting! My kinside countergame is far from clear."
+28,Qd7,d8d7,1r3rk1/2pqbpp1/1n1p2b1/3Pp2p/4P1PP/2N2P2/PPP2Q2/R1B1K1NR w KQ - 1 15,"if anything else fails, I'll try c6. As for white's ""threat"", I can just ignore it. If g5, white will self-block himself."
+29,gxh5,g4h5,1r3rk1/2pqbpp1/1n1p2b1/3Pp2P/4P2P/2N2P2/PPP2Q2/R1B1K1NR b KQ - 0 15,...and now it will be hard to attack my B.
+30,Bxh5,g6h5,1r3rk1/2pqbpp1/1n1p4/3Pp2b/4P2P/2N2P2/PPP2Q2/R1B1K1NR w KQ - 0 16,...and now it will be hard to attack my B.

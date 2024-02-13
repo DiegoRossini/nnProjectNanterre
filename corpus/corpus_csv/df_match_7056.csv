@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e6 ?? d6 o c6
+2,g6,g7g6,rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,e6 ?? d6 o c6
+3,d4,d2d4,rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,e6 ?? d6 o c6
+4,Bg7,f8g7,rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,e6 ?? d6 o c6
+5,Bc4,f1c4,rnbqk1nr/ppppppbp/6p1/8/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq - 2 3,e6 ?? d6 o c6
+6,e6,e7e6,rnbqk1nr/pppp1pbp/4p1p1/8/2BPP3/8/PPP2PPP/RNBQK1NR w KQkq - 0 4,e6 ?? d6 o c6
+7,Nf3,g1f3,rnbqk1nr/pppp1pbp/4p1p1/8/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4,Encerrado en la jugada 14 por causa de un error teòrico
+8,d6,d7d6,rnbqk1nr/ppp2pbp/3pp1p1/8/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5,Encerrado en la jugada 14 por causa de un error teòrico
+9,c3,c2c3,rnbqk1nr/ppp2pbp/3pp1p1/8/2BPP3/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 5,Encerrado en la jugada 14 por causa de un error teòrico
+10,Nd7,b8d7,r1bqk1nr/pppn1pbp/3pp1p1/8/2BPP3/2P2N2/PP3PPP/RNBQK2R w KQkq - 1 6,Encerrado en la jugada 14 por causa de un error teòrico
+11,Bg5,c1g5,r1bqk1nr/pppn1pbp/3pp1p1/6B1/2BPP3/2P2N2/PP3PPP/RN1QK2R b KQkq - 2 6,Encerrado en la jugada 14 por causa de un error teòrico
+12,Ne7,g8e7,r1bqk2r/pppnnpbp/3pp1p1/6B1/2BPP3/2P2N2/PP3PPP/RN1QK2R w KQkq - 3 7,Encerrado en la jugada 14 por causa de un error teòrico
+13,Nbd2,b1d2,r1bqk2r/pppnnpbp/3pp1p1/6B1/2BPP3/2P2N2/PP1N1PPP/R2QK2R b KQkq - 4 7,Me doy cuenta que me està jugando con mucha cautela
+14,c5,c7c5,r1bqk2r/pp1nnpbp/3pp1p1/2p3B1/2BPP3/2P2N2/PP1N1PPP/R2QK2R w KQkq - 0 8,Me doy cuenta que me està jugando con mucha cautela
+15,O-O,e1g1,r1bqk2r/pp1nnpbp/3pp1p1/2p3B1/2BPP3/2P2N2/PP1N1PPP/R2Q1RK1 b kq - 1 8,Me doy cuenta que me està jugando con mucha cautela
+16,O-O,e8g8,r1bq1rk1/pp1nnpbp/3pp1p1/2p3B1/2BPP3/2P2N2/PP1N1PPP/R2Q1RK1 w - - 2 9,Me doy cuenta que me està jugando con mucha cautela
+17,Nb3,d2b3,r1bq1rk1/pp1nnpbp/3pp1p1/2p3B1/2BPP3/1NP2N2/PP3PPP/R2Q1RK1 b - - 3 9,Me doy cuenta que me està jugando con mucha cautela
+18,b6,b7b6,r1bq1rk1/p2nnpbp/1p1pp1p1/2p3B1/2BPP3/1NP2N2/PP3PPP/R2Q1RK1 w - - 0 10,Me doy cuenta que me està jugando con mucha cautela
+19,dxc5,d4c5,r1bq1rk1/p2nnpbp/1p1pp1p1/2P3B1/2B1P3/1NP2N2/PP3PPP/R2Q1RK1 b - - 0 10,pero se olvida de conceptos de escuela: Punto debil a la vista en d6
+20,Nxc5,d7c5,r1bq1rk1/p3npbp/1p1pp1p1/2n3B1/2B1P3/1NP2N2/PP3PPP/R2Q1RK1 w - - 0 11,pero se olvida de conceptos de escuela: Punto debil a la vista en d6
+21,Nxc5,b3c5,r1bq1rk1/p3npbp/1p1pp1p1/2N3B1/2B1P3/2P2N2/PP3PPP/R2Q1RK1 b - - 0 11,"es logico tomar con este peon o de lo contrario Dxd8 , Txd8 y Axe7"
+22,bxc5,b6c5,r1bq1rk1/p3npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP3PPP/R2Q1RK1 w - - 0 12,"es logico tomar con este peon o de lo contrario Dxd8 , Txd8 y Axe7"
+23,Qd2,d1d2,r1bq1rk1/p3npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/R4RK1 b - - 1 12,evitando h6 y dejando espacio en D1 para mi torre
+24,Bb7,c8b7,r2q1rk1/pb2npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/R4RK1 w - - 2 13,para quitarse la presiòn del alfil
+25,Rfe1,f1e1,r2q1rk1/pb2npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/R3R1K1 b - - 3 13,para quitarse la presiòn del alfil
+26,Qc7,d8c7,r4rk1/pbq1npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/R3R1K1 w - - 4 14,para quitarse la presiòn del alfil
+27,Rad1,a1d1,r4rk1/pbq1npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 b - - 5 14,atacando el punto dèbil
+28,Rad8,a8d8,3r1rk1/pbq1npbp/3pp1p1/2p3B1/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 w - - 6 15,atacando el punto dèbil
+29,Bf4,g5f4,3r1rk1/pbq1npbp/3pp1p1/2p5/2B1PB2/2P2N2/PP1Q1PPP/3RR1K1 b - - 7 15,atacando el punto dèbil
+30,e5,e6e5,3r1rk1/pbq1npbp/3p2p1/2p1p3/2B1PB2/2P2N2/PP1Q1PPP/3RR1K1 w - - 0 16,me abre la diagonal al alfil blanco y este hace presiòn sobre otro punto debil en f7
+31,Bg5,f4g5,3r1rk1/pbq1npbp/3p2p1/2p1p1B1/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 b - - 1 16,sigo inhabilitando el caballo y provocando mas y mas jugadas defensivas
+32,Rd7,d8d7,5rk1/pbqrnpbp/3p2p1/2p1p1B1/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 w - - 2 17,error !! Pienso que Rh8 era mejor que esa
+33,Bxe7,g5e7,5rk1/pbqrBpbp/3p2p1/2p1p3/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 b - - 0 17,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+34,Rxe7,d7e7,5rk1/pbq1rpbp/3p2p1/2p1p3/2B1P3/2P2N2/PP1Q1PPP/3RR1K1 w - - 0 18,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+35,Qxd6,d2d6,5rk1/pbq1rpbp/3Q2p1/2p1p3/2B1P3/2P2N2/PP3PPP/3RR1K1 b - - 0 18,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+36,Qxd6,c7d6,5rk1/pb2rpbp/3q2p1/2p1p3/2B1P3/2P2N2/PP3PPP/3RR1K1 w - - 0 19,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+37,Rxd6,d1d6,5rk1/pb2rpbp/3R2p1/2p1p3/2B1P3/2P2N2/PP3PPP/4R1K1 b - - 0 19,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+38,Rb8,f8b8,1r4k1/pb2rpbp/3R2p1/2p1p3/2B1P3/2P2N2/PP3PPP/4R1K1 w - - 1 20,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+39,Ng5,f3g5,1r4k1/pb2rpbp/3R2p1/2p1p1N1/2B1P3/2P5/PP3PPP/4R1K1 b - - 2 20,Ataque al otro punto debil. Me he dado cuenta que esta partida el ataque o la iniciativa solo viene de un lado.
+40,Bc8,b7c8,1rb3k1/p3rpbp/3R2p1/2p1p1N1/2B1P3/2P5/PP3PPP/4R1K1 w - - 3 21,otro error dentro de la desesperación y la asfixia
+41,Rd8+,d6d8,1rbR2k1/p3rpbp/6p1/2p1p1N1/2B1P3/2P5/PP3PPP/4R1K1 b - - 4 21,Unica jugada para defender su alfil
+42,Bf8,g7f8,1rbR1bk1/p3rp1p/6p1/2p1p1N1/2B1P3/2P5/PP3PPP/4R1K1 w - - 5 22,Unica jugada para defender su alfil
+43,Ba6,c4a6,1rbR1bk1/p3rp1p/B5p1/2p1p1N1/4P3/2P5/PP3PPP/4R1K1 b - - 6 22,Unica jugada para defender su alfil
+44,Rc7,e7c7,1rbR1bk1/p1r2p1p/B5p1/2p1p1N1/4P3/2P5/PP3PPP/4R1K1 w - - 7 23,Unica jugada para defender su alfil
+45,Red1,e1d1,1rbR1bk1/p1r2p1p/B5p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 b - - 8 23,concepto de escuela !!
+46,Kg7,g8g7,1rbR1b2/p1r2pkp/B5p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 w - - 9 24,gran jugada para evitar el ataque esperado
+47,Rxc8,d8c8,1rR2b2/p1r2pkp/B5p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 b - - 0 24,Simplificar sy hay ventaja decisiva. otro oncepto de escuela !!
+48,Rbxc8,b8c8,2r2b2/p1r2pkp/B5p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 w - - 0 25,ataque final
+49,Bxc8,a6c8,2B2b2/p1r2pkp/6p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 b - - 0 25,ataque final
+50,Rxc8,c7c8,2r2b2/p4pkp/6p1/2p1p1N1/4P3/2P5/PP3PPP/3R2K1 w - - 0 26,ataque final
+51,Rd7,d1d7,2r2b2/p2R1pkp/6p1/2p1p1N1/4P3/2P5/PP3PPP/6K1 b - - 1 26,ataque final
+52,Kf6,g7f6,2r2b2/p2R1p1p/5kp1/2p1p1N1/4P3/2P5/PP3PPP/6K1 w - - 2 27,si Cxf7 ? Re6
+53,Nxh7+,g5h7,2r2b2/p2R1p1N/5kp1/2p1p3/4P3/2P5/PP3PPP/6K1 b - - 0 27,mejor aquì !

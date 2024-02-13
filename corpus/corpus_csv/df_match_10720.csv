@@ -1,0 +1,48 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,A waste of a tempo.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,A waste of a tempo.
+3,Bg5,c1g5,rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,A waste of a tempo.
+4,h6,h7h6,rnbqkb1r/ppppppp1/5n1p/6B1/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,A waste of a tempo.
+5,Bxf6,g5f6,rnbqkb1r/ppppppp1/5B1p/8/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 0 3,Another silly move.
+6,exf6,e7f6,rnbqkb1r/pppp1pp1/5p1p/8/3P4/8/PPP1PPPP/RN1QKBNR w KQkq - 0 4,Another silly move.
+7,e4,e2e4,rnbqkb1r/pppp1pp1/5p1p/8/3PP3/8/PPP2PPP/RN1QKBNR b KQkq - 0 4,Another silly move.
+8,Bb4+,f8b4,rnbqk2r/pppp1pp1/5p1p/8/1b1PP3/8/PPP2PPP/RN1QKBNR w KQkq - 1 5,Another silly move.
+9,c3,c2c3,rnbqk2r/pppp1pp1/5p1p/8/1b1PP3/2P5/PP3PPP/RN1QKBNR b KQkq - 0 5,Threatening Qh5 which will fork f7 and the Bishop on a5.
+10,Ba5,b4a5,rnbqk2r/pppp1pp1/5p1p/b7/3PP3/2P5/PP3PPP/RN1QKBNR w KQkq - 1 6,Threatening Qh5 which will fork f7 and the Bishop on a5.
+11,Bc4,f1c4,rnbqk2r/pppp1pp1/5p1p/b7/2BPP3/2P5/PP3PPP/RN1QK1NR b KQkq - 2 6,Threatening Qh5 which will fork f7 and the Bishop on a5.
+12,Qe7,d8e7,rnb1k2r/ppppqpp1/5p1p/b7/2BPP3/2P5/PP3PPP/RN1QK1NR w KQkq - 3 7,Qxe4  8.Ne2 Black has no answer to Qf7  or Qxa5
+13,Qh5,d1h5,rnb1k2r/ppppqpp1/5p1p/b6Q/2BPP3/2P5/PP3PPP/RN2K1NR b KQkq - 4 7,Qxe4  8.Ne2 Black has no answer to Qf7  or Qxa5
+14,Nc6,b8c6,r1b1k2r/ppppqpp1/2n2p1p/b6Q/2BPP3/2P5/PP3PPP/RN2K1NR w KQkq - 5 8,Better is Bb5
+15,Nd2,b1d2,r1b1k2r/ppppqpp1/2n2p1p/b6Q/2BPP3/2P5/PP1N1PPP/R3K1NR b KQkq - 6 8,Better is Bb5
+16,g6,g7g6,r1b1k2r/ppppqp2/2n2ppp/b6Q/2BPP3/2P5/PP1N1PPP/R3K1NR w KQkq - 0 9,Better is Bb5
+17,Qf3,h5f3,r1b1k2r/ppppqp2/2n2ppp/b7/2BPP3/2P2Q2/PP1N1PPP/R3K1NR b KQkq - 1 9,Better is Bb5
+18,d6,d7d6,r1b1k2r/ppp1qp2/2np1ppp/b7/2BPP3/2P2Q2/PP1N1PPP/R3K1NR w KQkq - 0 10,Better is Bb5
+19,Ne2,g1e2,r1b1k2r/ppp1qp2/2np1ppp/b7/2BPP3/2P2Q2/PP1NNPPP/R3K2R b KQkq - 1 10,Better is Bb5
+20,Be6,c8e6,r3k2r/ppp1qp2/2npbppp/b7/2BPP3/2P2Q2/PP1NNPPP/R3K2R w KQkq - 2 11,Better is Bb5
+21,d5,d4d5,r3k2r/ppp1qp2/2npbppp/b2P4/2B1P3/2P2Q2/PP1NNPPP/R3K2R b KQkq - 0 11,Better is Bb5
+22,Ne5,c6e5,r3k2r/ppp1qp2/3pbppp/b2Pn3/2B1P3/2P2Q2/PP1NNPPP/R3K2R w KQkq - 1 12,I missed this counter-attack.
+23,Qg3,f3g3,r3k2r/ppp1qp2/3pbppp/b2Pn3/2B1P3/2P3Q1/PP1NNPPP/R3K2R b KQkq - 2 12,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+24,Bd7,e6d7,r3k2r/pppbqp2/3p1ppp/b2Pn3/2B1P3/2P3Q1/PP1NNPPP/R3K2R w KQkq - 3 13,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+25,O-O,e1g1,r3k2r/pppbqp2/3p1ppp/b2Pn3/2B1P3/2P3Q1/PP1NNPPP/R4RK1 b kq - 4 13,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+26,g5,g6g5,r3k2r/pppbqp2/3p1p1p/b2Pn1p1/2B1P3/2P3Q1/PP1NNPPP/R4RK1 w kq - 0 14,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+27,f4,f2f4,r3k2r/pppbqp2/3p1p1p/b2Pn1p1/2B1PP2/2P3Q1/PP1NN1PP/R4RK1 b kq - 0 14,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+28,Bb6+,a5b6,r3k2r/pppbqp2/1b1p1p1p/3Pn1p1/2B1PP2/2P3Q1/PP1NN1PP/R4RK1 w kq - 1 15,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+29,Nd4,e2d4,r3k2r/pppbqp2/1b1p1p1p/3Pn1p1/2BNPP2/2P3Q1/PP1N2PP/R4RK1 b kq - 2 15,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+30,O-O-O,e8c8,2kr3r/pppbqp2/1b1p1p1p/3Pn1p1/2BNPP2/2P3Q1/PP1N2PP/R4RK1 w - - 3 16,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+31,Kh1,g1h1,2kr3r/pppbqp2/1b1p1p1p/3Pn1p1/2BNPP2/2P3Q1/PP1N2PP/R4R1K b - - 4 16,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+32,Nxc4,e5c4,2kr3r/pppbqp2/1b1p1p1p/3P2p1/2nNPP2/2P3Q1/PP1N2PP/R4R1K w - - 0 17,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+33,Nxc4,d2c4,2kr3r/pppbqp2/1b1p1p1p/3P2p1/2NNPP2/2P3Q1/PP4PP/R4R1K b - - 0 17,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+34,Bxd4,b6d4,2kr3r/pppbqp2/3p1p1p/3P2p1/2NbPP2/2P3Q1/PP4PP/R4R1K w - - 0 18,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+35,cxd4,c3d4,2kr3r/pppbqp2/3p1p1p/3P2p1/2NPPP2/6Q1/PP4PP/R4R1K b - - 0 18,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+36,Qxe4,e7e4,2kr3r/pppb1p2/3p1p1p/3P2p1/2NPqP2/6Q1/PP4PP/R4R1K w - - 0 19,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+37,Rac1,a1c1,2kr3r/pppb1p2/3p1p1p/3P2p1/2NPqP2/6Q1/PP4PP/2R2R1K b - - 1 19,"Setting a trap, by threating the d6 pawn since the c7 pawn will be pin to the King."
+38,Qxd4,e4d4,2kr3r/pppb1p2/3p1p1p/3P2p1/2Nq1P2/6Q1/PP4PP/2R2R1K w - - 0 20,Fork.
+39,Nxd6+,c4d6,2kr3r/pppb1p2/3N1p1p/3P2p1/3q1P2/6Q1/PP4PP/2R2R1K b - - 0 20,Fork.
+40,Kb8,c8b8,1k1r3r/pppb1p2/3N1p1p/3P2p1/3q1P2/6Q1/PP4PP/2R2R1K w - - 1 21,Fork.
+41,Nxf7,d6f7,1k1r3r/pppb1N2/5p1p/3P2p1/3q1P2/6Q1/PP4PP/2R2R1K b - - 0 21,Fork.
+42,Qxb2,d4b2,1k1r3r/pppb1N2/5p1p/3P2p1/5P2/6Q1/Pq4PP/2R2R1K w - - 0 22,Excellent move the after the recapture by the rook will find itself on a weak square.
+43,Nxd8,f7d8,1k1N3r/pppb4/5p1p/3P2p1/5P2/6Q1/Pq4PP/2R2R1K b - - 0 22,Excellent move the after the recapture by the rook will find itself on a weak square.
+44,Rxd8,h8d8,1k1r4/pppb4/5p1p/3P2p1/5P2/6Q1/Pq4PP/2R2R1K w - - 0 23,Black has to allow a protected passed pawn on f6.
+45,fxg5,f4g5,1k1r4/pppb4/5p1p/3P2P1/8/6Q1/Pq4PP/2R2R1K b - - 0 23,Black has to allow a protected passed pawn on f6.
+46,fxg5,f6g5,1k1r4/pppb4/7p/3P2p1/8/6Q1/Pq4PP/2R2R1K w - - 0 24,losing.
+47,Qxc7+,g3c7,1k1r4/ppQb4/7p/3P2p1/8/8/Pq4PP/2R2R1K b - - 0 24,

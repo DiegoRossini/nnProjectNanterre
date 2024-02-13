@@ -1,0 +1,52 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Kings Gambit, an interesting winning attack although White could have won more quickly."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,White decides to go for the attack.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,White decides to go for the attack.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,White decides to go for the attack.
+5,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,White decides to go for the attack.
+6,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,White decides to go for the attack.
+7,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR b KQkq - 3 4,White decides to go for the attack.
+8,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR w KQkq - 4 5,White decides to go for the attack.
+9,Nf3,g1f3,r1bqkb1r/pppp1ppp/2n2n2/8/2B1Pp2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 5 5,White decides to go for the attack.
+10,Bb4,f8b4,r1bqk2r/pppp1ppp/2n2n2/8/1bB1Pp2/2N2N2/PPPP2PP/R1BQK2R w KQkq - 6 6,White decides to go for the attack.
+11,O-O,e1g1,r1bqk2r/pppp1ppp/2n2n2/8/1bB1Pp2/2N2N2/PPPP2PP/R1BQ1RK1 b kq - 7 6,White decides to go for the attack.
+12,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/8/1bB1Pp2/2N2N2/PPPP2PP/R1BQ1RK1 w - - 8 7,White decides to go for the attack.
+13,e5,e4e5,r1bq1rk1/pppp1ppp/2n2n2/4P3/1bB2p2/2N2N2/PPPP2PP/R1BQ1RK1 b - - 0 7,White decides to go for the attack.
+14,Ng4,f6g4,r1bq1rk1/pppp1ppp/2n5/4P3/1bB2pn1/2N2N2/PPPP2PP/R1BQ1RK1 w - - 1 8,"Not the best move, better was Ba5 because the Bishop can be driven back with tempo."
+15,Nd5,c3d5,r1bq1rk1/pppp1ppp/2n5/3NP3/1bB2pn1/5N2/PPPP2PP/R1BQ1RK1 b - - 2 8,"Not the best move, better was Ba5 because the Bishop can be driven back with tempo."
+16,Bc5+,b4c5,r1bq1rk1/pppp1ppp/2n5/2bNP3/2B2pn1/5N2/PPPP2PP/R1BQ1RK1 w - - 3 9,"Not the best move, better was Ba5 because the Bishop can be driven back with tempo."
+17,d4,d2d4,r1bq1rk1/pppp1ppp/2n5/2bNP3/2BP1pn1/5N2/PPP3PP/R1BQ1RK1 b - - 0 9,White decides to eliminate the DSB and weaken the pawns.
+18,Bb6,c5b6,r1bq1rk1/pppp1ppp/1bn5/3NP3/2BP1pn1/5N2/PPP3PP/R1BQ1RK1 w - - 1 10,White decides to eliminate the DSB and weaken the pawns.
+19,Bxf4,c1f4,r1bq1rk1/pppp1ppp/1bn5/3NP3/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 b - - 0 10,White decides to eliminate the DSB and weaken the pawns.
+20,d6,d7d6,r1bq1rk1/ppp2ppp/1bnp4/3NP3/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 w - - 0 11,White decides to eliminate the DSB and weaken the pawns.
+21,Nxb6,d5b6,r1bq1rk1/ppp2ppp/1Nnp4/4P3/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 b - - 0 11,White decides to eliminate the DSB and weaken the pawns.
+22,axb6,a7b6,r1bq1rk1/1pp2ppp/1pnp4/4P3/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 w - - 0 12,"A key provoking move, Black's missing DSB would have been useful here."
+23,exd6,e5d6,r1bq1rk1/1pp2ppp/1pnP4/8/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 b - - 0 12,"A key provoking move, Black's missing DSB would have been useful here."
+24,cxd6,c7d6,r1bq1rk1/1p3ppp/1pnp4/8/2BP1Bn1/5N2/PPP3PP/R2Q1RK1 w - - 0 13,"A key provoking move, Black's missing DSB would have been useful here."
+25,h3,h2h3,r1bq1rk1/1p3ppp/1pnp4/8/2BP1Bn1/5N1P/PPP3P1/R2Q1RK1 b - - 0 13,"A key provoking move, Black's missing DSB would have been useful here."
+26,Nf6,g4f6,r1bq1rk1/1p3ppp/1pnp1n2/8/2BP1B2/5N1P/PPP3P1/R2Q1RK1 w - - 1 14,"A key provoking move, Black's missing DSB would have been useful here."
+27,d5,d4d5,r1bq1rk1/1p3ppp/1pnp1n2/3P4/2B2B2/5N1P/PPP3P1/R2Q1RK1 b - - 0 14,"A key provoking move, Black's missing DSB would have been useful here."
+28,Nb4,c6b4,r1bq1rk1/1p3ppp/1p1p1n2/3P4/1nB2B2/5N1P/PPP3P1/R2Q1RK1 w - - 1 15,"A key provoking move, Black's missing DSB would have been useful here."
+29,a3,a2a3,r1bq1rk1/1p3ppp/1p1p1n2/3P4/1nB2B2/P4N1P/1PP3P1/R2Q1RK1 b - - 0 15,"A key provoking move, Black's missing DSB would have been useful here."
+30,Na6,b4a6,r1bq1rk1/1p3ppp/np1p1n2/3P4/2B2B2/P4N1P/1PP3P1/R2Q1RK1 w - - 1 16,"A key provoking move, Black's missing DSB would have been useful here."
+31,Bg5,f4g5,r1bq1rk1/1p3ppp/np1p1n2/3P2B1/2B5/P4N1P/1PP3P1/R2Q1RK1 b - - 2 16,"A key provoking move, Black's missing DSB would have been useful here."
+32,h6,h7h6,r1bq1rk1/1p3pp1/np1p1n1p/3P2B1/2B5/P4N1P/1PP3P1/R2Q1RK1 w - - 0 17,"?? While Black would like to drive off the pin, this leaves the kingside too weak."
+33,Bh4,g5h4,r1bq1rk1/1p3pp1/np1p1n1p/3P4/2B4B/P4N1P/1PP3P1/R2Q1RK1 b - - 1 17,"?? While Black would like to drive off the pin, this leaves the kingside too weak."
+34,g5,g7g5,r1bq1rk1/1p3p2/np1p1n1p/3P2p1/2B4B/P4N1P/1PP3P1/R2Q1RK1 w - - 0 18,"?? While Black would like to drive off the pin, this leaves the kingside too weak."
+35,Nxg5,f3g5,r1bq1rk1/1p3p2/np1p1n1p/3P2N1/2B4B/P6P/1PP3P1/R2Q1RK1 b - - 0 18,"! Black is now exposed to a withering attack. Of course, taking the N loses the pinned Nf6."
+36,b5,b6b5,r1bq1rk1/1p3p2/n2p1n1p/1p1P2N1/2B4B/P6P/1PP3P1/R2Q1RK1 w - - 0 19,!? Nice try
+37,Bd3,c4d3,r1bq1rk1/1p3p2/n2p1n1p/1p1P2N1/7B/P2B3P/1PP3P1/R2Q1RK1 b - - 1 19,Safest to decline the pawn and go for the King.
+38,Qb6+,d8b6,r1b2rk1/1p3p2/nq1p1n1p/1p1P2N1/7B/P2B3P/1PP3P1/R2Q1RK1 w - - 2 20,?! Imprecise. Better to keep the K off the dark squares to avoid checks.
+39,Kh2,g1h2,r1b2rk1/1p3p2/nq1p1n1p/1p1P2N1/7B/P2B3P/1PP3PK/R2Q1R2 b - - 3 20,?! Imprecise. Better to keep the K off the dark squares to avoid checks.
+40,hxg5,h6g5,r1b2rk1/1p3p2/nq1p1n2/1p1P2p1/7B/P2B3P/1PP3PK/R2Q1R2 w - - 0 21,! The point. Black can't take the Bishop due to the mate threat.
+41,Rxf6,f1f6,r1b2rk1/1p3p2/nq1p1R2/1p1P2p1/7B/P2B3P/1PP3PK/R2Q4 b - - 0 21,! The point. Black can't take the Bishop due to the mate threat.
+42,Qe3,b6e3,r1b2rk1/1p3p2/n2p1R2/1p1P2p1/7B/P2Bq2P/1PP3PK/R2Q4 w - - 1 22,"! Nice try, exploiting White's King being on the dark squares."
+43,Rf3,f6f3,r1b2rk1/1p3p2/n2p4/1p1P2p1/7B/P2BqR1P/1PP3PK/R2Q4 b - - 2 22,"If the K had been on h1, Qh5 would have been finito, but Black can check on e5."
+44,Qe7,e3e7,r1b2rk1/1p2qp2/n2p4/1p1P2p1/7B/P2B1R1P/1PP3PK/R2Q4 w - - 3 23,The bishop is immune due to the pin.
+45,Bxg5,h4g5,r1b2rk1/1p2qp2/n2p4/1p1P2B1/8/P2B1R1P/1PP3PK/R2Q4 b - - 0 23,The bishop is immune due to the pin.
+46,f6,f7f6,r1b2rk1/1p2q3/n2p1p2/1p1P2B1/8/P2B1R1P/1PP3PK/R2Q4 w - - 0 24,"Now Qh5 is crushing, Black resigns."
+47,Bh6,g5h6,r1b2rk1/1p2q3/n2p1p1B/1p1P4/8/P2B1R1P/1PP3PK/R2Q4 b - - 1 24,"Now Qh5 is crushing, Black resigns."
+48,Rf7,f8f7,r1b3k1/1p2qr2/n2p1p1B/1p1P4/8/P2B1R1P/1PP3PK/R2Q4 w - - 2 25,"Now Qh5 is crushing, Black resigns."
+49,Rg3+,f3g3,r1b3k1/1p2qr2/n2p1p1B/1p1P4/8/P2B2RP/1PP3PK/R2Q4 b - - 3 25,"Now Qh5 is crushing, Black resigns."
+50,Kh8,g8h8,r1b4k/1p2qr2/n2p1p1B/1p1P4/8/P2B2RP/1PP3PK/R2Q4 w - - 4 26,"Now Qh5 is crushing, Black resigns."
+51,Qh5,d1h5,r1b4k/1p2qr2/n2p1p1B/1p1P3Q/8/P2B2RP/1PP3PK/R7 b - - 5 26,"Now Qh5 is crushing, Black resigns."

@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queen's Pawn Opening
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,King's Indian Defense
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Is 7...a5 preferable to stop the b4 push?
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,Is 7...a5 preferable to stop the b4 push?
+5,Nc3,b1c3,rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Is 7...a5 preferable to stop the b4 push?
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,Is 7...a5 preferable to stop the b4 push?
+7,e4,e2e4,rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,Is 7...a5 preferable to stop the b4 push?
+8,d6,d7d6,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,Is 7...a5 preferable to stop the b4 push?
+9,Nf3,g1f3,rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,Is 7...a5 preferable to stop the b4 push?
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6,Is 7...a5 preferable to stop the b4 push?
+11,Be2,f1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6,Is 7...a5 preferable to stop the b4 push?
+12,e5,e7e5,rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7,Is 7...a5 preferable to stop the b4 push?
+13,d5,d4d5,rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7,Is 7...a5 preferable to stop the b4 push?
+14,Nbd7,b8d7,r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 1 8,Is 7...a5 preferable to stop the b4 push?
+15,b4,b2b4,r1bq1rk1/pppn1pbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQK2R b KQ - 0 8,And there is the b4 push.
+16,b6,b7b6,r1bq1rk1/p1pn1pbp/1p1p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQK2R w KQ - 0 9,Better late than never?  Need to deal with the aggressive Queenside expansion and make some room.
+17,O-O,e1g1,r1bq1rk1/p1pn1pbp/1p1p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 b - - 1 9,Better late than never?  Need to deal with the aggressive Queenside expansion and make some room.
+18,a5,a7a5,r1bq1rk1/2pn1pbp/1p1p1np1/p2Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 w - - 0 10,Better late than never?  Need to deal with the aggressive Queenside expansion and make some room.
+19,Ba3,c1a3,r1bq1rk1/2pn1pbp/1p1p1np1/p2Pp3/1PP1P3/B1N2N2/P3BPPP/R2Q1RK1 b - - 1 10,Attacking the c4 pawn twice.
+20,Ba6,c8a6,r2q1rk1/2pn1pbp/bp1p1np1/p2Pp3/1PP1P3/B1N2N2/P3BPPP/R2Q1RK1 w - - 2 11,Attacking the c4 pawn twice.
+21,bxa5,b4a5,r2q1rk1/2pn1pbp/bp1p1np1/P2Pp3/2P1P3/B1N2N2/P3BPPP/R2Q1RK1 b - - 0 11,Attacking the c4 pawn twice.
+22,bxa5,b6a5,r2q1rk1/2pn1pbp/b2p1np1/p2Pp3/2P1P3/B1N2N2/P3BPPP/R2Q1RK1 w - - 0 12,Attacking the c4 pawn twice.
+23,Qc2,d1c2,r2q1rk1/2pn1pbp/b2p1np1/p2Pp3/2P1P3/B1N2N2/P1Q1BPPP/R4RK1 b - - 1 12,Attacking the c4 pawn twice.
+24,Nb6,d7b6,r2q1rk1/2p2pbp/bn1p1np1/p2Pp3/2P1P3/B1N2N2/P1Q1BPPP/R4RK1 w - - 2 13,Attacking the c4 pawn twice.
+25,Nb5,c3b5,r2q1rk1/2p2pbp/bn1p1np1/pN1Pp3/2P1P3/B4N2/P1Q1BPPP/R4RK1 b - - 3 13,Revealing the Queen as a second defender to the c4 pawn.
+26,Qd7,d8d7,r4rk1/2pq1pbp/bn1p1np1/pN1Pp3/2P1P3/B4N2/P1Q1BPPP/R4RK1 w - - 4 14,Adding another attacker to the b5 square.
+27,Rab1,a1b1,r4rk1/2pq1pbp/bn1p1np1/pN1Pp3/2P1P3/B4N2/P1Q1BPPP/1R3RK1 b - - 5 14,Adding another defender to the b5 square.
+28,Rab8,a8b8,1r3rk1/2pq1pbp/bn1p1np1/pN1Pp3/2P1P3/B4N2/P1Q1BPPP/1R3RK1 w - - 6 15,Adding a revealed attacker to b5 after 15...Nxc4.
+29,Nd2,f3d2,1r3rk1/2pq1pbp/bn1p1np1/pN1Pp3/2P1P3/B7/P1QNBPPP/1R3RK1 b - - 7 15,Adding another defender to c4.
+30,Nxc4,b6c4,1r3rk1/2pq1pbp/b2p1np1/pN1Pp3/2n1P3/B7/P1QNBPPP/1R3RK1 w - - 0 16,Breaking open the Queenside and winning a pawn.
+31,Bxc4,e2c4,1r3rk1/2pq1pbp/b2p1np1/pN1Pp3/2B1P3/B7/P1QN1PPP/1R3RK1 b - - 0 16,Attacking the Knight and skewering the Rook.
+32,Bxb5,a6b5,1r3rk1/2pq1pbp/3p1np1/pb1Pp3/2B1P3/B7/P1QN1PPP/1R3RK1 w - - 0 17,Attacking the Knight and skewering the Rook.
+33,Bxb5,c4b5,1r3rk1/2pq1pbp/3p1np1/pB1Pp3/4P3/B7/P1QN1PPP/1R3RK1 b - - 0 17,Attacking the Knight and skewering the Rook.
+34,Rxb5,b8b5,5rk1/2pq1pbp/3p1np1/pr1Pp3/4P3/B7/P1QN1PPP/1R3RK1 w - - 0 18,Attacking the Knight and skewering the Rook.
+35,Rxb5,b1b5,5rk1/2pq1pbp/3p1np1/pR1Pp3/4P3/B7/P1QN1PPP/5RK1 b - - 0 18,Attacking the Knight and skewering the Rook.
+36,Qxb5,d7b5,5rk1/2p2pbp/3p1np1/pq1Pp3/4P3/B7/P1QN1PPP/5RK1 w - - 0 19,Attacking the Knight and skewering the Rook.
+37,Rc1,f1c1,5rk1/2p2pbp/3p1np1/pq1Pp3/4P3/B7/P1QN1PPP/2R3K1 b - - 1 19,Attacking the Knight and skewering the Rook.
+38,Bh6,g7h6,5rk1/2p2p1p/3p1npb/pq1Pp3/4P3/B7/P1QN1PPP/2R3K1 w - - 2 20,Attacking the Knight and skewering the Rook.
+39,Rb1,c1b1,5rk1/2p2p1p/3p1npb/pq1Pp3/4P3/B7/P1QN1PPP/1R4K1 b - - 3 20,Attacking the Queen.
+40,Qe2,b5e2,5rk1/2p2p1p/3p1npb/p2Pp3/4P3/B7/P1QNqPPP/1R4K1 w - - 4 21,Attacking both the Knight and the e4 pawn.
+41,Rb2,b1b2,5rk1/2p2p1p/3p1npb/p2Pp3/4P3/B7/PRQNqPPP/6K1 b - - 5 21,Adding pressure on the second rank but leaving the back rank undefended.  I looked long and hard at a way to exploit this but came up short.  21...Qe1+ is met with 22.Nf1.
+42,Bxd2,h6d2,5rk1/2p2p1p/3p1np1/p2Pp3/4P3/B7/PRQbqPPP/6K1 w - - 0 22,Taking two pawns for one and bringing the Knight into the action.
+43,Qxd2,c2d2,5rk1/2p2p1p/3p1np1/p2Pp3/4P3/B7/PR1QqPPP/6K1 b - - 0 22,Taking two pawns for one and bringing the Knight into the action.
+44,Qxe4,e2e4,5rk1/2p2p1p/3p1np1/p2Pp3/4q3/B7/PR1Q1PPP/6K1 w - - 0 23,Taking two pawns for one and bringing the Knight into the action.
+45,Qxa5,d2a5,5rk1/2p2p1p/3p1np1/Q2Pp3/4q3/B7/PR3PPP/6K1 b - - 0 23,Taking two pawns for one and bringing the Knight into the action.
+46,Nxd5,f6d5,5rk1/2p2p1p/3p2p1/Q2np3/4q3/B7/PR3PPP/6K1 w - - 0 24,Taking two pawns for one and bringing the Knight into the action.
+47,Qd2,a5d2,5rk1/2p2p1p/3p2p1/3np3/4q3/B7/PR1Q1PPP/6K1 b - - 1 24,Attacking the bishop.
+48,Ra8,f8a8,r5k1/2p2p1p/3p2p1/3np3/4q3/B7/PR1Q1PPP/6K1 w - - 2 25,Attacking the bishop.
+49,Bb4,a3b4,r5k1/2p2p1p/3p2p1/3np3/1B2q3/8/PR1Q1PPP/6K1 b - - 3 25,If 25...Nxb4 then 26.Rxb4 takes back and attacks the Black Queen with tempo.  Instead...
+50,Rxa2,a8a2,6k1/2p2p1p/3p2p1/3np3/1B2q3/8/rR1Q1PPP/6K1 w - - 0 26,!!  If 26. Rxa2 then 26...Qb2+ wins it back and gains a pawn.  So instead...

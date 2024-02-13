@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Black goes with 1...f5.  Not what I usually see.  Often I see 1...d4, which leads into a Queen's Gambit game."
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"Black goes with 1...f5.  Not what I usually see.  Often I see 1...d4, which leads into a Queen's Gambit game."
+3,g3,g2g3,rnbqkbnr/ppppp1pp/8/5p2/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2,"Given that this looks nothing like a QG game now, I decide to go with a game I'm comfortable with--a fianchetto of my LSB."
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/8/5NP1/PPPPPP1P/RNBQKB1R w KQkq - 1 3,5.d4  I decide to stake a direct claim to the center.
+5,Bg2,f1g2,rnbqkb1r/ppppp1pp/5n2/5p2/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 2 3,5.d4  I decide to stake a direct claim to the center.
+6,e6,e7e6,rnbqkb1r/pppp2pp/4pn2/5p2/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 4,5.d4  I decide to stake a direct claim to the center.
+7,O-O,e1g1,rnbqkb1r/pppp2pp/4pn2/5p2/8/5NP1/PPPPPPBP/RNBQ1RK1 b kq - 1 4,5.d4  I decide to stake a direct claim to the center.
+8,Be7,f8e7,rnbqk2r/ppppb1pp/4pn2/5p2/8/5NP1/PPPPPPBP/RNBQ1RK1 w kq - 2 5,5.d4  I decide to stake a direct claim to the center.
+9,d4,d2d4,rnbqk2r/ppppb1pp/4pn2/5p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 0 5,5.d4  I decide to stake a direct claim to the center.
+10,O-O,e8g8,rnbq1rk1/ppppb1pp/4pn2/5p2/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 1 6,Taking more of the center.
+11,c4,c2c4,rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 0 6,Taking more of the center.
+12,d5,d7d5,rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7,I'm not sure what type of opening White has (aside from Reti).  fritz has told me that Black has engaged in a Dutch Stonewall defense.
+13,Nc3,b1c3,rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7,I'm not sure what type of opening White has (aside from Reti).  fritz has told me that Black has engaged in a Dutch Stonewall defense.
+14,c6,c7c6,rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8,I'm not sure what type of opening White has (aside from Reti).  fritz has told me that Black has engaged in a Dutch Stonewall defense.
+15,b3,b2b3,rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8,The first foray by either player into the other's territory.
+16,Ne4,f6e4,rnbq1rk1/pp2b1pp/2p1p3/3p1p2/2PPn3/1PN2NP1/P3PPBP/R1BQ1RK1 w - - 1 9,The first foray by either player into the other's territory.
+17,Nxe4,c3e4,rnbq1rk1/pp2b1pp/2p1p3/3p1p2/2PPN3/1P3NP1/P3PPBP/R1BQ1RK1 b - - 0 9,"Black now has quite the pawn chain extending.  GameKnot scores this as -0.22, advantage Black.  Fritz says the game is equal.  I think I agree with Fritz at this point.  Although Black has the nice pawn chain, she also has doubled e-pawns.  Then again, Black's Rf1 now has a half-open file.  Chess can be confusing at times."
+18,fxe4,f5e4,rnbq1rk1/pp2b1pp/2p1p3/3p4/2PPp3/1P3NP1/P3PPBP/R1BQ1RK1 w - - 0 10,"Black now has quite the pawn chain extending.  GameKnot scores this as -0.22, advantage Black.  Fritz says the game is equal.  I think I agree with Fritz at this point.  Although Black has the nice pawn chain, she also has doubled e-pawns.  Then again, Black's Rf1 now has a half-open file.  Chess can be confusing at times."
+19,Ne5,f3e5,rnbq1rk1/pp2b1pp/2p1p3/3pN3/2PPp3/1P4P1/P3PPBP/R1BQ1RK1 b - - 1 10,10. Ne5 seemed like the only logical move.
+20,Nd7,b8d7,r1bq1rk1/pp1nb1pp/2p1p3/3pN3/2PPp3/1P4P1/P3PPBP/R1BQ1RK1 w - - 2 11,The exchange of Ns was expected.
+21,Nxd7,e5d7,r1bq1rk1/pp1Nb1pp/2p1p3/3p4/2PPp3/1P4P1/P3PPBP/R1BQ1RK1 b - - 0 11,The exchange of Ns was expected.
+22,Bxd7,c8d7,r2q1rk1/pp1bb1pp/2p1p3/3p4/2PPp3/1P4P1/P3PPBP/R1BQ1RK1 w - - 0 12,The exchange of Ns was expected.
+23,Bf4,c1f4,r2q1rk1/pp1bb1pp/2p1p3/3p4/2PPpB2/1P4P1/P3PPBP/R2Q1RK1 b - - 1 12,Development.  White's LSB is really chewing on serious granite.
+24,Bg5,e7g5,r2q1rk1/pp1b2pp/2p1p3/3p2b1/2PPpB2/1P4P1/P3PPBP/R2Q1RK1 w - - 2 13,"13. e3 made more sense than to exchange B's and help Black develop her Queen.  Of course, I'll be doubling my pawns.  Is a file considered half-open if only one play has two pawns on the file?"
+25,e3,e2e3,r2q1rk1/pp1b2pp/2p1p3/3p2b1/2PPpB2/1P2P1P1/P4PBP/R2Q1RK1 b - - 0 13,"13. e3 made more sense than to exchange B's and help Black develop her Queen.  Of course, I'll be doubling my pawns.  Is a file considered half-open if only one play has two pawns on the file?"
+26,Be8,d7e8,r2qbrk1/pp4pp/2p1p3/3p2b1/2PPpB2/1P2P1P1/P4PBP/R2Q1RK1 w - - 1 14,Attacking the backward pawn.
+27,Bh3,g2h3,r2qbrk1/pp4pp/2p1p3/3p2b1/2PPpB2/1P2P1PB/P4P1P/R2Q1RK1 b - - 2 14,Attacking the backward pawn.
+28,Bf7,e8f7,r2q1rk1/pp3bpp/2p1p3/3p2b1/2PPpB2/1P2P1PB/P4P1P/R2Q1RK1 w - - 3 15,"I was trying to develop a plan.  Positionally, I had more space Q-side, so I decided to push forward there."
+29,c5,c4c5,r2q1rk1/pp3bpp/2p1p3/2Pp2b1/3PpB2/1P2P1PB/P4P1P/R2Q1RK1 b - - 0 15,"I was trying to develop a plan.  Positionally, I had more space Q-side, so I decided to push forward there."
+30,Bxf4,g5f4,r2q1rk1/pp3bpp/2p1p3/2Pp4/3Ppb2/1P2P1PB/P4P1P/R2Q1RK1 w - - 0 16,No more DSBs.
+31,exf4,e3f4,r2q1rk1/pp3bpp/2p1p3/2Pp4/3PpP2/1P4PB/P4P1P/R2Q1RK1 b - - 0 16,No more DSBs.
+32,Qd7,d8d7,r4rk1/pp1q1bpp/2p1p3/2Pp4/3PpP2/1P4PB/P4P1P/R2Q1RK1 w - - 1 17,"At this point, both GameKnot and fritz have the game as equal."
+33,Bg4,h3g4,r4rk1/pp1q1bpp/2p1p3/2Pp4/3PpPB1/1P4P1/P4P1P/R2Q1RK1 b - - 2 17,"17. Bg4.  I have found that when I play stronger players, it's a bad idea to leave pieces en prise as they tend to develop plans that result in my losing said piece."
+34,Bg6,f7g6,r4rk1/pp1q2pp/2p1p1b1/2Pp4/3PpPB1/1P4P1/P4P1P/R2Q1RK1 w - - 3 18,GameKnot now gives a slight advantage (-0.21) to Black.
+35,b4,b3b4,r4rk1/pp1q2pp/2p1p1b1/2Pp4/1P1PpPB1/6P1/P4P1P/R2Q1RK1 b - - 0 18,Continuing to gain space Q-side.
+36,Bf5,g6f5,r4rk1/pp1q2pp/2p1p3/2Pp1b2/1P1PpPB1/6P1/P4P1P/R2Q1RK1 w - - 1 19,19. a3  I'm going slowly at this point as I'm not quite sure how to break through.  I know that I will not initiate the exchange of LSBs as I do not want e4 to be so reinforced.
+37,a3,a2a3,r4rk1/pp1q2pp/2p1p3/2Pp1b2/1P1PpPB1/P5P1/5P1P/R2Q1RK1 b - - 0 19,19. a3  I'm going slowly at this point as I'm not quite sure how to break through.  I know that I will not initiate the exchange of LSBs as I do not want e4 to be so reinforced.
+38,Qd8,d7d8,r2q1rk1/pp4pp/2p1p3/2Pp1b2/1P1PpPB1/P5P1/5P1P/R2Q1RK1 w - - 1 20,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."
+39,Qe2,d1e2,r2q1rk1/pp4pp/2p1p3/2Pp1b2/1P1PpPB1/P5P1/4QP1P/R4RK1 b - - 2 20,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."
+40,Rf6,f8f6,r2q2k1/pp4pp/2p1pr2/2Pp1b2/1P1PpPB1/P5P1/4QP1P/R4RK1 w - - 3 21,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."
+41,a4,a3a4,r2q2k1/pp4pp/2p1pr2/2Pp1b2/PP1PpPB1/6P1/4QP1P/R4RK1 b - - 0 21,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."
+42,Rh6,f6h6,r2q2k1/pp4pp/2p1p2r/2Pp1b2/PP1PpPB1/6P1/4QP1P/R4RK1 w - - 1 22,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."
+43,Kg2,g1g2,r2q2k1/pp4pp/2p1p2r/2Pp1b2/PP1PpPB1/6P1/4QPKP/R4R2 b - - 2 22,"22. Kg2 My thought was this was a nice waiting move, plus it added protection to my pawns and allowed my Rs to move down to h1, g1 should that be necessary.
+
+Both GameKnot and fritz were not happy with this move.  GameKnot recommended 22. Bxf5  exf5  23. Rfd1 Qf6  24. Ra3 Rh3  25. b5 Re8  26. Re3 Qh6  27. f3 Kf7  28. Qc2 Qh5  29. bxc6 bxc6  If I follow GN's recommendation, the advantage to Black was -0.30.  As it was, GN scored it -0.86.  
+
+Fritz recommended 22. Bxf5 exf5 23. b5 Rc8 and then said that this would be equal."

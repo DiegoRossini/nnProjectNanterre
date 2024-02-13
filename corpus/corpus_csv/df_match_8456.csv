@@ -1,0 +1,34 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Black clumsily attempts to transpose to the Orthodox Sicilian, having no experience with the Sicilian Center Game. cxd4 is obviously the better move."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Black clumsily attempts to transpose to the Orthodox Sicilian, having no experience with the Sicilian Center Game. cxd4 is obviously the better move."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"Black clumsily attempts to transpose to the Orthodox Sicilian, having no experience with the Sicilian Center Game. cxd4 is obviously the better move."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"Black clumsily attempts to transpose to the Orthodox Sicilian, having no experience with the Sicilian Center Game. cxd4 is obviously the better move."
+5,dxc5,d4c5,r1bqkbnr/pp1ppppp/2n5/2P5/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"Black seeks to avoid 3. .. e6 4. Nf3 Bxc5 e5, which could inhibit his development, and prepares to recoup the pawn.  Black rejected 3. .. Qa5+ 4. .. Qxc5 as too risky.  Didn't notice 3. .. e6 4. Nf3 d6, but that doesn't seem superior."
+6,e5,e7e5,r1bqkbnr/pp1p1ppp/2n5/2P1p3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"Black seeks to avoid 3. .. e6 4. Nf3 Bxc5 e5, which could inhibit his development, and prepares to recoup the pawn.  Black rejected 3. .. Qa5+ 4. .. Qxc5 as too risky.  Didn't notice 3. .. e6 4. Nf3 d6, but that doesn't seem superior."
+7,Nf3,g1f3,r1bqkbnr/pp1p1ppp/2n5/2P1p3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4,Black recoups the pawn immediately to open a chance for a queenside fianchetto.
+8,Bxc5,f8c5,r1bqk1nr/pp1p1ppp/2n5/2b1p3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,Black recoups the pawn immediately to open a chance for a queenside fianchetto.
+9,Bc4,f1c4,r1bqk1nr/pp1p1ppp/2n5/2b1p3/2B1P3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 5,"White threatens f7, two moves away from checking or forking the Queen and Rook."
+10,Qa5+,d8a5,r1b1k1nr/pp1p1ppp/2n5/q1b1p3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 2 6,"Black interrupts with a check, hoping to lure White into a trap:  6. .. Bxf2!? 7. Kxf2? Qc5+ 8. .. Qxc4, preventing castling and gaining a pawn.  If White doesn't capture, Black's position is more tenuous."
+11,Bd2,c1d2,r1b1k1nr/pp1p1ppp/2n5/q1b1p3/2B1P3/5N2/PPPB1PPP/RN1QK2R b KQkq - 3 6,I think c3 -might- be better.  Not sure.
+12,Bxf2+,c5f2,r1b1k1nr/pp1p1ppp/2n5/q3p3/2B1P3/5N2/PPPB1bPP/RN1QK2R w KQkq - 0 7,"Black prevents castling and gains a pawn, though if White doesn't capture, Black's situation gets more complicated."
+13,Kxf2,e1f2,r1b1k1nr/pp1p1ppp/2n5/q3p3/2B1P3/5N2/PPPB1KPP/RN1Q3R b kq - 0 7,"White's best move.  Other options sacrifice more pieces, block the h1 Rook, or lose another tempo."
+14,Qc5+,a5c5,r1b1k1nr/pp1p1ppp/2n5/2q1p3/2B1P3/5N2/PPPB1KPP/RN1Q3R w kq - 1 8,"White's best move.  Other options sacrifice more pieces, block the h1 Rook, or lose another tempo."
+15,Be3,d2e3,r1b1k1nr/pp1p1ppp/2n5/2q1p3/2B1P3/4BN2/PPP2KPP/RN1Q3R b kq - 2 8,"White's best move.  Other options sacrifice more pieces, block the h1 Rook, or lose another tempo."
+16,Qxc4,c5c4,r1b1k1nr/pp1p1ppp/2n5/4p3/2q1P3/4BN2/PPP2KPP/RN1Q3R w kq - 0 9,Black completes the exchange.
+17,Na3,b1a3,r1b1k1nr/pp1p1ppp/2n5/4p3/2q1P3/N3BN2/PPP2KPP/R2Q3R b kq - 1 9,White develops the Knight to dislodge Black's queen.
+18,Qa6,c4a6,r1b1k1nr/pp1p1ppp/q1n5/4p3/4P3/N3BN2/PPP2KPP/R2Q3R w kq - 2 10,Black believed all other squares give White more chances to gain time through additional attacks on the queen.
+19,Qd5,d1d5,r1b1k1nr/pp1p1ppp/q1n5/3Qp3/4P3/N3BN2/PPP2KPP/R6R b kq - 3 10,"I didn't see what White gained from this.  The rooks can form up on the d-file, but he loses a tempo having to move his queen.  I believed it might be a clever trap, because the Nf6 response is so obvious that I thought he wouldn't move it there without a purpose.  Maybe he miscalculated the c7 fork attempt exchange?
+
+As it turns out, it was clearly a mistake."
+20,Nf6,g8f6,r1b1k2r/pp1p1ppp/q1n2n2/3Qp3/4P3/N3BN2/PPP2KPP/R6R w kq - 4 11,The obvious reply.
+21,Qd3,d5d3,r1b1k2r/pp1p1ppp/q1n2n2/4p3/4P3/N2QBN2/PPP2KPP/R6R b kq - 5 11,White's Queen retreats and offers an exchange.
+22,Qxd3,a6d3,r1b1k2r/pp1p1ppp/2n2n2/4p3/4P3/N2qBN2/PPP2KPP/R6R w kq - 0 12,Accepted.  Black didn't see a way to save his queen without getting into a very bad position.
+23,cxd3,c2d3,r1b1k2r/pp1p1ppp/2n2n2/4p3/4P3/N2PBN2/PP3KPP/R6R b kq - 0 12,"With the tempo granted by White's Qd5, Black forks White's King and Bishop, hoping to weaken White's control of the center."
+24,Ng4+,f6g4,r1b1k2r/pp1p1ppp/2n5/4p3/4P1n1/N2PBN2/PP3KPP/R6R w kq - 1 13,"With the tempo granted by White's Qd5, Black forks White's King and Bishop, hoping to weaken White's control of the center."
+25,Ke2,f2e2,r1b1k2r/pp1p1ppp/2n5/4p3/4P1n1/N2PBN2/PP2K1PP/R6R b kq - 2 13,"White's position, though seemingly exposed, is a lot stronger than Black anticipated."
+26,Nxe3,g4e3,r1b1k2r/pp1p1ppp/2n5/4p3/4P3/N2PnN2/PP2K1PP/R6R w kq - 0 14,"White's position, though seemingly exposed, is a lot stronger than Black anticipated."
+27,Kxe3,e2e3,r1b1k2r/pp1p1ppp/2n5/4p3/4P3/N2PKN2/PP4PP/R6R b kq - 0 14,"White's position, though seemingly exposed, is a lot stronger than Black anticipated."
+28,a6,a7a6,r1b1k2r/1p1p1ppp/p1n5/4p3/4P3/N2PKN2/PP4PP/R6R w kq - 0 15,"A mistake.  Black attempts to prevent White advancing towards a Nc7 fork.  Avoiding it would require castling immediately and then moving the a8 rook to a useless position, while White's knight would securely prevent Re8.  Black seeks to avoid all of that."
+29,Nc4,a3c4,r1b1k2r/1p1p1ppp/p1n5/4p3/2N1P3/3PKN2/PP4PP/R6R b kq - 1 15,"15. Nc4!  White threatens a Nb6 fork of the Rook and Bishop -and- a Nd6 fork between the King and Bishop, which would cost Black the ability to castle.  I saw only these two possibilities, but White soon demonstrated a third."
+30,O-O,e8g8,r1b2rk1/1p1p1ppp/p1n5/4p3/2N1P3/3PKN2/PP4PP/R6R w - - 2 16,"White catches Black completely flat-footed, regaining parity while maintaining the threat to the Rook and Bishop.  I begin to suspect I will lose or at best force a draw, but there is still hope."
+31,Nfxe5,f3e5,r1b2rk1/1p1p1ppp/p1n5/4N3/2N1P3/3PK3/PP4PP/R6R b - - 0 16,"White catches Black completely flat-footed, regaining parity while maintaining the threat to the Rook and Bishop.  I begin to suspect I will lose or at best force a draw, but there is still hope."

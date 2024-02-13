@@ -1,0 +1,103 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Stupid- this should just go to c7, and avoid giving White a tempo."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Stupid- this should just go to c7, and avoid giving White a tempo."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Stupid- this should just go to c7, and avoid giving White a tempo."
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Stupid- this should just go to c7, and avoid giving White a tempo."
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Stupid- this should just go to c7, and avoid giving White a tempo."
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"Stupid- this should just go to c7, and avoid giving White a tempo."
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Stupid- this should just go to c7, and avoid giving White a tempo."
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Stupid- this should just go to c7, and avoid giving White a tempo."
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,"Stupid- this should just go to c7, and avoid giving White a tempo."
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"Stupid- this should just go to c7, and avoid giving White a tempo."
+11,f3,f2f3,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6,"Stupid- this should just go to c7, and avoid giving White a tempo."
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R w KQkq - 0 7,"Stupid- this should just go to c7, and avoid giving White a tempo."
+13,Be3,c1e3,rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 1 7,"Stupid- this should just go to c7, and avoid giving White a tempo."
+14,b5,b7b5,rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 0 8,"Stupid- this should just go to c7, and avoid giving White a tempo."
+15,g4,g2g4,rnbqkb1r/5ppp/p2ppn2/1p6/3NP1P1/2N1BP2/PPP4P/R2QKB1R b KQkq - 0 8,"Stupid- this should just go to c7, and avoid giving White a tempo."
+16,h6,h7h6,rnbqkb1r/5pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPP4P/R2QKB1R w KQkq - 0 9,"Stupid- this should just go to c7, and avoid giving White a tempo."
+17,Qd2,d1d2,rnbqkb1r/5pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/R3KB1R b KQkq - 1 9,"Stupid- this should just go to c7, and avoid giving White a tempo."
+18,Nbd7,b8d7,r1bqkb1r/3n1pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/R3KB1R w KQkq - 2 10,"Stupid- this should just go to c7, and avoid giving White a tempo."
+19,O-O-O,e1c1,r1bqkb1r/3n1pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R b kq - 3 10,"Stupid- this should just go to c7, and avoid giving White a tempo."
+20,Bb7,c8b7,r2qkb1r/1b1n1pp1/p2ppn1p/1p6/3NP1P1/2N1BP2/PPPQ3P/2KR1B1R w kq - 4 11,"Stupid- this should just go to c7, and avoid giving White a tempo."
+21,h4,h2h4,r2qkb1r/1b1n1pp1/p2ppn1p/1p6/3NP1PP/2N1BP2/PPPQ4/2KR1B1R b kq - 0 11,"Stupid- this should just go to c7, and avoid giving White a tempo."
+22,g6,g7g6,r2qkb1r/1b1n1p2/p2ppnpp/1p6/3NP1PP/2N1BP2/PPPQ4/2KR1B1R w kq - 0 12,"Stupid- this should just go to c7, and avoid giving White a tempo."
+23,g5,g4g5,r2qkb1r/1b1n1p2/p2ppnpp/1p4P1/3NP2P/2N1BP2/PPPQ4/2KR1B1R b kq - 0 12,"Stupid- this should just go to c7, and avoid giving White a tempo."
+24,hxg5,h6g5,r2qkb1r/1b1n1p2/p2ppnp1/1p4p1/3NP2P/2N1BP2/PPPQ4/2KR1B1R w kq - 0 13,"Stupid- this should just go to c7, and avoid giving White a tempo."
+25,Bxg5,e3g5,r2qkb1r/1b1n1p2/p2ppnp1/1p4B1/3NP2P/2N2P2/PPPQ4/2KR1B1R b kq - 0 13,"Stupid- this should just go to c7, and avoid giving White a tempo."
+26,Qa5,d8a5,r3kb1r/1b1n1p2/p2ppnp1/qp4B1/3NP2P/2N2P2/PPPQ4/2KR1B1R w kq - 1 14,"Stupid- this should just go to c7, and avoid giving White a tempo."
+27,Nb3,d4b3,r3kb1r/1b1n1p2/p2ppnp1/qp4B1/4P2P/1NN2P2/PPPQ4/2KR1B1R b kq - 2 14,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+28,Qc7,a5c7,r3kb1r/1bqn1p2/p2ppnp1/1p4B1/4P2P/1NN2P2/PPPQ4/2KR1B1R w kq - 3 15,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+29,Bg2,f1g2,r3kb1r/1bqn1p2/p2ppnp1/1p4B1/4P2P/1NN2P2/PPPQ2B1/2KR3R b kq - 4 15,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+30,b4,b5b4,r3kb1r/1bqn1p2/p2ppnp1/6B1/1p2P2P/1NN2P2/PPPQ2B1/2KR3R w kq - 0 16,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+31,Ne2,c3e2,r3kb1r/1bqn1p2/p2ppnp1/6B1/1p2P2P/1N3P2/PPPQN1B1/2KR3R b kq - 1 16,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+32,d5,d6d5,r3kb1r/1bqn1p2/p3pnp1/3p2B1/1p2P2P/1N3P2/PPPQN1B1/2KR3R w kq - 0 17,"Not achieved without a cost- the black Nf6 will spend some time returning to anywhere useful, I think."
+33,e5,e4e5,r3kb1r/1bqn1p2/p3pnp1/3pP1B1/1p5P/1N3P2/PPPQN1B1/2KR3R b kq - 0 17,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+34,Ng8,f6g8,r3kbnr/1bqn1p2/p3p1p1/3pP1B1/1p5P/1N3P2/PPPQN1B1/2KR3R w kq - 1 18,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+35,f4,f3f4,r3kbnr/1bqn1p2/p3p1p1/3pP1B1/1p3P1P/1N6/PPPQN1B1/2KR3R b kq - 0 18,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+36,a5,a6a5,r3kbnr/1bqn1p2/4p1p1/p2pP1B1/1p3P1P/1N6/PPPQN1B1/2KR3R w kq - 0 19,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+37,Nbd4,b3d4,r3kbnr/1bqn1p2/4p1p1/p2pP1B1/1p1N1P1P/8/PPPQN1B1/2KR3R b kq - 1 19,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+38,Ba6,b7a6,r3kbnr/2qn1p2/b3p1p1/p2pP1B1/1p1N1P1P/8/PPPQN1B1/2KR3R w kq - 2 20,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+39,b3,b2b3,r3kbnr/2qn1p2/b3p1p1/p2pP1B1/1p1N1P1P/1P6/P1PQN1B1/2KR3R b kq - 0 20,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+40,Bc5,f8c5,r3k1nr/2qn1p2/b3p1p1/p1bpP1B1/1p1N1P1P/1P6/P1PQN1B1/2KR3R w kq - 1 21,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+41,Bf3,g2f3,r3k1nr/2qn1p2/b3p1p1/p1bpP1B1/1p1N1P1P/1P3B2/P1PQN3/2KR3R b kq - 2 21,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+42,Ne7,g8e7,r3k2r/2qnnp2/b3p1p1/p1bpP1B1/1p1N1P1P/1P3B2/P1PQN3/2KR3R w kq - 3 22,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+43,h5,h4h5,r3k2r/2qnnp2/b3p1p1/p1bpP1BP/1p1N1P2/1P3B2/P1PQN3/2KR3R b kq - 0 22,"Hadn't quite calculated this fully-
+22.O-O-O fails to hg when the N is pinned.
+22...Nf8 23.Bf6 Rg8 (Rh7, hg, Rxh1, gf ) 24.h6 Nh7
+22...Rc8 23.hg Nxg6 24.Bh5 Ndxe5!? 25.fe Nxe5 maybe hangs on, but 24.Rxh8  Nx 25.Rh1 Ng6 26.f5 ef 27.Bxd5"
+44,Nf8,d7f8,r3kn1r/2q1np2/b3p1p1/p1bpP1BP/1p1N1P2/1P3B2/P1PQN3/2KR3R w kq - 1 23,"Hmm, this can't be right. After 24...Nh7, Black is suddenly looking pretty good. Black currently can't castle and once the Rh8 is exchanged off, this kingside looks a little exposed. It's difficult to see quite how White should procede, however, since the tempting Rdg1 starts to look a little uncomfortable after moves like Qb6 and Nf5. Maybe the simple 24.hg followed by swapping rooks and Rh1 will suffice."
+45,Bf6,g5f6,r3kn1r/2q1np2/b3pBp1/p1bpP2P/1p1N1P2/1P3B2/P1PQN3/2KR3R b kq - 2 23,"Hmm, this can't be right. After 24...Nh7, Black is suddenly looking pretty good. Black currently can't castle and once the Rh8 is exchanged off, this kingside looks a little exposed. It's difficult to see quite how White should procede, however, since the tempting Rdg1 starts to look a little uncomfortable after moves like Qb6 and Nf5. Maybe the simple 24.hg followed by swapping rooks and Rh1 will suffice."
+46,Rg8,h8g8,r3knr1/2q1np2/b3pBp1/p1bpP2P/1p1N1P2/1P3B2/P1PQN3/2KR3R w q - 3 24,"Hmm, this can't be right. After 24...Nh7, Black is suddenly looking pretty good. Black currently can't castle and once the Rh8 is exchanged off, this kingside looks a little exposed. It's difficult to see quite how White should procede, however, since the tempting Rdg1 starts to look a little uncomfortable after moves like Qb6 and Nf5. Maybe the simple 24.hg followed by swapping rooks and Rh1 will suffice."
+47,h6,h5h6,r3knr1/2q1np2/b3pBpP/p1bpP3/1p1N1P2/1P3B2/P1PQN3/2KR3R b q - 0 24,"Hmm, this can't be right. After 24...Nh7, Black is suddenly looking pretty good. Black currently can't castle and once the Rh8 is exchanged off, this kingside looks a little exposed. It's difficult to see quite how White should procede, however, since the tempting Rdg1 starts to look a little uncomfortable after moves like Qb6 and Nf5. Maybe the simple 24.hg followed by swapping rooks and Rh1 will suffice."
+48,Nh7,f8h7,r3k1r1/2q1np1n/b3pBpP/p1bpP3/1p1N1P2/1P3B2/P1PQN3/2KR3R w q - 1 25,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+49,Bg7,f6g7,r3k1r1/2q1npBn/b3p1pP/p1bpP3/1p1N1P2/1P3B2/P1PQN3/2KR3R b q - 2 25,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+50,a4,a5a4,r3k1r1/2q1npBn/b3p1pP/2bpP3/pp1N1P2/1P3B2/P1PQN3/2KR3R w q - 0 26,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+51,bxa4,b3a4,r3k1r1/2q1npBn/b3p1pP/2bpP3/Pp1N1P2/5B2/P1PQN3/2KR3R b q - 0 26,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+52,Qa5,c7a5,r3k1r1/4npBn/b3p1pP/q1bpP3/Pp1N1P2/5B2/P1PQN3/2KR3R w q - 1 27,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+53,Nb3,d4b3,r3k1r1/4npBn/b3p1pP/q1bpP3/Pp3P2/1N3B2/P1PQN3/2KR3R b q - 2 27,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+54,Qxa4,a5a4,r3k1r1/4npBn/b3p1pP/2bpP3/qp3P2/1N3B2/P1PQN3/2KR3R w q - 0 28,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+55,Ned4,e2d4,r3k1r1/4npBn/b3p1pP/2bpP3/qp1N1P2/1N3B2/P1PQ4/2KR3R b q - 1 28,28.Nxc4 is met by 28...Qa3  29.Kb1 and 29...Bxe2 when White will either get mated or lose a rook. Or both.
+56,Qa3+,a4a3,r3k1r1/4npBn/b3p1pP/2bpP3/1p1N1P2/qN3B2/P1PQ4/2KR3R w q - 2 29,
+57,Kb1,c1b1,r3k1r1/4npBn/b3p1pP/2bpP3/1p1N1P2/qN3B2/P1PQ4/1K1R3R b q - 3 29,
+58,Bc4,a6c4,r3k1r1/4npBn/4p1pP/2bpP3/1pbN1P2/qN3B2/P1PQ4/1K1R3R w q - 4 30,
+59,Qe3,d2e3,r3k1r1/4npBn/4p1pP/2bpP3/1pbN1P2/qN2QB2/P1P5/1K1R3R b q - 5 30,
+60,Nf5,e7f5,r3k1r1/5pBn/4p1pP/2bpPn2/1pbN1P2/qN2QB2/P1P5/1K1R3R w q - 6 31,
+61,Qf2,e3f2,r3k1r1/5pBn/4p1pP/2bpPn2/1pbN1P2/qN3B2/P1P2Q2/1K1R3R b q - 7 31,
+62,Nxd4,f5d4,r3k1r1/5pBn/4p1pP/2bpP3/1pbn1P2/qN3B2/P1P2Q2/1K1R3R w q - 0 32,
+63,Rxd4,d1d4,r3k1r1/5pBn/4p1pP/2bpP3/1pbR1P2/qN3B2/P1P2Q2/1K5R b q - 0 32,
+64,Qxa2+,a3a2,r3k1r1/5pBn/4p1pP/2bpP3/1pbR1P2/1N3B2/q1P2Q2/1K5R w q - 0 33,
+65,Kc1,b1c1,r3k1r1/5pBn/4p1pP/2bpP3/1pbR1P2/1N3B2/q1P2Q2/2K4R b q - 1 33,
+66,Bxb3,c4b3,r3k1r1/5pBn/4p1pP/2bpP3/1p1R1P2/1b3B2/q1P2Q2/2K4R w q - 0 34,
+67,Rhd1,h1d1,r3k1r1/5pBn/4p1pP/2bpP3/1p1R1P2/1b3B2/q1P2Q2/2KR4 b q - 1 34,
+68,Bxd4,c5d4,r3k1r1/5pBn/4p1pP/3pP3/1p1b1P2/1b3B2/q1P2Q2/2KR4 w q - 0 35,
+69,Rxd4,d1d4,r3k1r1/5pBn/4p1pP/3pP3/1p1R1P2/1b3B2/q1P2Q2/2K5 b q - 0 35,

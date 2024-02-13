@@ -1,0 +1,38 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Queens Gambit
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,Queens Gambit
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,Queens Gambit
+4,dxc4,d5c4,rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,accepted
+5,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/8/2pP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,Prevents knight b5 but I prefer it where it is as I have the centre covered
+6,a6,a7a6,rnbqkbnr/1pp1pppp/p7/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4,Prevents knight b5 but I prefer it where it is as I have the centre covered
+7,e4,e2e4,rnbqkbnr/1pp1pppp/p7/8/2pPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 4,"This was a bit of an experiment for me, I usually prefer the admittedly more passive e3 but I didn't want to block my dsb"
+8,b5,b7b5,rnbqkbnr/2p1pppp/p7/1p6/2pPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5,"defends the pawn and restricts my lsb, so I decide to fianchetto it"
+9,Nf3,g1f3,rnbqkbnr/2p1pppp/p7/1p6/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5,Opens a line for the dsb. the lsb has the option of b7
+10,e6,e7e6,rnbqkbnr/2p2ppp/p3p3/1p6/2pPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 0 6,Opens a line for the dsb. the lsb has the option of b7
+11,g3,g2g3,rnbqkbnr/2p2ppp/p3p3/1p6/2pPP3/2N2NP1/PP3P1P/R1BQKB1R b KQkq - 0 6,"I can safely ignore this threat, I think black should have started to prepare for castling instead at this point. At the moment I have a much stronger hold over the centre thought I suspect the position is about even"
+12,Bb7,c8b7,rn1qkbnr/1bp2ppp/p3p3/1p6/2pPP3/2N2NP1/PP3P1P/R1BQKB1R w KQkq - 1 7,"I can safely ignore this threat, I think black should have started to prepare for castling instead at this point. At the moment I have a much stronger hold over the centre thought I suspect the position is about even"
+13,Bg2,f1g2,rn1qkbnr/1bp2ppp/p3p3/1p6/2pPP3/2N2NP1/PP3PBP/R1BQK2R b KQkq - 2 7,Now I am ready for castling
+14,b4,b5b4,rn1qkbnr/1bp2ppp/p3p3/8/1ppPP3/2N2NP1/PP3PBP/R1BQK2R w KQkq - 0 8,Does this overstretch black? It's a very aggressive move and I am hoping he will pay the price later
+15,Ne2,c3e2,rn1qkbnr/1bp2ppp/p3p3/8/1ppPP3/5NP1/PP2NPBP/R1BQK2R b KQkq - 1 8,"My king is now nice and safe, I can start to deal with the threat from those pawns and try to prevent black from castling"
+16,Bxe4,b7e4,rn1qkbnr/2p2ppp/p3p3/8/1ppPb3/5NP1/PP2NPBP/R1BQK2R w KQkq - 0 9,"My king is now nice and safe, I can start to deal with the threat from those pawns and try to prevent black from castling"
+17,O-O,e1g1,rn1qkbnr/2p2ppp/p3p3/8/1ppPb3/5NP1/PP2NPBP/R1BQ1RK1 b kq - 1 9,"My king is now nice and safe, I can start to deal with the threat from those pawns and try to prevent black from castling"
+18,Nf6,g8f6,rn1qkb1r/2p2ppp/p3pn2/8/1ppPb3/5NP1/PP2NPBP/R1BQ1RK1 w kq - 2 10,pins blacks lsb defender
+19,Bg5,c1g5,rn1qkb1r/2p2ppp/p3pn2/6B1/1ppPb3/5NP1/PP2NPBP/R2Q1RK1 b kq - 3 10,pins blacks lsb defender
+20,Be7,f8e7,rn1qk2r/2p1bppp/p3pn2/6B1/1ppPb3/5NP1/PP2NPBP/R2Q1RK1 w kq - 4 11,This could be considered a high risk exchange for me
+21,Bxf6,g5f6,rn1qk2r/2p1bppp/p3pB2/8/1ppPb3/5NP1/PP2NPBP/R2Q1RK1 b kq - 0 11,This could be considered a high risk exchange for me
+22,Bxf6,e7f6,rn1qk2r/2p2ppp/p3pb2/8/1ppPb3/5NP1/PP2NPBP/R2Q1RK1 w kq - 0 12,"Still according to plan, the black dsb isn't ideally placed now. This becomes a factor later on as we will see"
+23,Qa4+,d1a4,rn1qk2r/2p2ppp/p3pb2/8/QppPb3/5NP1/PP2NPBP/R4RK1 b kq - 1 12,"Develops the knight but I can apply some pressure with my knight and should be able to regain some material. 
+
+Would Bc6 be better even though it would allow me to regain a pawn?"
+24,Nc6,b8c6,r2qk2r/2p2ppp/p1n1pb2/8/QppPb3/5NP1/PP2NPBP/R4RK1 w kq - 2 13,"Develops the knight but I can apply some pressure with my knight and should be able to regain some material. 
+
+Would Bc6 be better even though it would allow me to regain a pawn?"
+25,Ne5,f3e5,r2qk2r/2p2ppp/p1n1pb2/4N3/QppPb3/6P1/PP2NPBP/R4RK1 b kq - 3 13,pretty much forced as otherwise there would be too much pressure on c6
+26,Bxg2,e4g2,r2qk2r/2p2ppp/p1n1pb2/4N3/QppP4/6P1/PP2NPbP/R4RK1 w kq - 0 14,pretty much forced as otherwise there would be too much pressure on c6
+27,Nxc6,e5c6,r2qk2r/2p2ppp/p1N1pb2/8/QppP4/6P1/PP2NPbP/R4RK1 b kq - 0 14,I now have the threat of revealed check
+28,Bxc6,g2c6,r2qk2r/2p2ppp/p1b1pb2/8/QppP4/6P1/PP2NP1P/R4RK1 w kq - 0 15,"forced, blacks h8 rook is now going to be tough to extract"
+29,Qxc6+,a4c6,r2qk2r/2p2ppp/p1Q1pb2/8/1ppP4/6P1/PP2NP1P/R4RK1 b kq - 0 15,"forced, blacks h8 rook is now going to be tough to extract"
+30,Kf8,e8f8,r2q1k1r/2p2ppp/p1Q1pb2/8/1ppP4/6P1/PP2NP1P/R4RK1 w - - 1 16,"forced, blacks h8 rook is now going to be tough to extract"
+31,Qxc4,c6c4,r2q1k1r/2p2ppp/p3pb2/8/1pQP4/6P1/PP2NP1P/R4RK1 b - - 0 16,regains material and defends the d pawn
+32,Qd6,d8d6,r4k1r/2p2ppp/p2qpb2/8/1pQP4/6P1/PP2NP1P/R4RK1 w - - 1 17,Defends the b4 pawn though I feel that Be7 is a better move as the bishop would be better located
+33,Rac1,a1c1,r4k1r/2p2ppp/p2qpb2/8/1pQP4/6P1/PP2NP1P/2R2RK1 b - - 2 17,Threatens both the c7 and the a6 pawns

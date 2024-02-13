@@ -1,0 +1,27 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,Dmitry opens up with a queen's pawn game.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I respond d7-d5 because I don't like to give up the center position
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,The expected queens gambit....
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,queens gambit declined....
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,as usual knight to c3
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,still normal development...
+7,Nf3,g1f3,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4,still normal development...
+8,Bb4,f8b4,rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5,unexpectedly Dmitry takes my dPawn.
+9,cxd5,c4d5,rnbqk2r/ppp2ppp/4pn2/3P4/1b1P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5,unexpectedly Dmitry takes my dPawn.
+10,exd5,e6d5,rnbqk2r/ppp2ppp/5n2/3p4/1b1P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6,I take with pawn to prevent e4.
+11,Bg5,c1g5,rnbqk2r/ppp2ppp/5n2/3p2B1/1b1P4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 6,bishop to pin my knight on f6
+12,c6,c7c6,rnbqk2r/pp3ppp/2p2n2/3p2B1/1b1P4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 7,c6 to prevent queen to a4
+13,Qb3,d1b3,rnbqk2r/pp3ppp/2p2n2/3p2B1/1b1P4/1QN2N2/PP2PPPP/R3KB1R b KQkq - 1 7,Dmitry decides to scare off my annoying bishop
+14,Bxc3+,b4c3,rnbqk2r/pp3ppp/2p2n2/3p2B1/3P4/1Qb2N2/PP2PPPP/R3KB1R w KQkq - 0 8,I decided to take because I don't want to waste tempo
+15,bxc3,b2c3,rnbqk2r/pp3ppp/2p2n2/3p2B1/3P4/1QP2N2/P3PPPP/R3KB1R b KQkq - 0 8,Dmitry takes with the pawn.
+16,h6,h7h6,rnbqk2r/pp3pp1/2p2n1p/3p2B1/3P4/1QP2N2/P3PPPP/R3KB1R w KQkq - 0 9,My turn to scare away the annoying bishop=)
+17,Bxf6,g5f6,rnbqk2r/pp3pp1/2p2B1p/3p4/3P4/1QP2N2/P3PPPP/R3KB1R b KQkq - 0 9,interesting....instead of moving bishop to h4 Dmitry decides to take my knight.
+18,Qxf6,d8f6,rnb1k2r/pp3pp1/2p2q1p/3p4/3P4/1QP2N2/P3PPPP/R3KB1R w KQkq - 0 10,of course I would take with queen.
+19,e3,e2e3,rnb1k2r/pp3pp1/2p2q1p/3p4/3P4/1QP1PN2/P4PPP/R3KB1R b KQkq - 0 10,pawn to c4 seems like Dmitry wants to get his bishop to attack mode.
+20,Nd7,b8d7,r1b1k2r/pp1n1pp1/2p2q1p/3p4/3P4/1QP1PN2/P4PPP/R3KB1R w KQkq - 1 11,pawn to c4 seems like Dmitry wants to get his bishop to attack mode.
+21,c4,c3c4,r1b1k2r/pp1n1pp1/2p2q1p/3p4/2PP4/1Q2PN2/P4PPP/R3KB1R b KQkq - 0 11,pawn to c4 seems like Dmitry wants to get his bishop to attack mode.
+22,dxc4,d5c4,r1b1k2r/pp1n1pp1/2p2q1p/8/2pP4/1Q2PN2/P4PPP/R3KB1R w KQkq - 0 12,I take his gambit since I know I can scare his bishop off the next move.
+23,Bxc4,f1c4,r1b1k2r/pp1n1pp1/2p2q1p/8/2BP4/1Q2PN2/P4PPP/R3K2R b KQkq - 0 12,retreats...
+24,Nb6,d7b6,r1b1k2r/pp3pp1/1np2q1p/8/2BP4/1Q2PN2/P4PPP/R3K2R w KQkq - 1 13,retreats...
+25,Bd3,c4d3,r1b1k2r/pp3pp1/1np2q1p/8/3P4/1Q1BPN2/P4PPP/R3K2R b KQkq - 2 13,retreats...
+26,Be6,c8e6,r3k2r/pp3pp1/1np1bq1p/8/3P4/1Q1BPN2/P4PPP/R3K2R w KQkq - 3 14,"bishop to e6, forcing Dmitry's queen off his sweet position."

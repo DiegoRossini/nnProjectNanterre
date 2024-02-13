@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I start with my usual king's pawn.
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My opponent responds with the Caro-Kahn.
+3,f4,f2f4,rnbqkbnr/pp1ppppp/2p5/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"Even though this odd move does not protect my e pawn, it is required to pull a Bryntse gambit, which is my intention."
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"Even though this odd move does not protect my e pawn, it is required to pull a Bryntse gambit, which is my intention."
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/2p5/3p4/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,"Even though this odd move does not protect my e pawn, it is required to pull a Bryntse gambit, which is my intention."
+6,dxe4,d5e4,rnbqkbnr/pp2pppp/2p5/8/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,Black complies.
+7,Ng5,f3g5,rnbqkbnr/pp2pppp/2p5/6N1/4pP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 4,Threatening to take back the pawn.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/2p2n2/6N1/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 5,!? I attack Black's weak f7 pawn while leaving my queen open for an attack. Black has two main moves here: Either block the bishop with 5...e6 where the advanced e pawn eventually falls (5...e6 6.Nc3) OR threaten the white queen with 5...Bg4. Both are good.
+9,Bc4,f1c4,rnbqkb1r/pp2pppp/2p2n2/6N1/2B1pP2/8/PPPP2PP/RNBQK2R b KQkq - 3 5,!? I attack Black's weak f7 pawn while leaving my queen open for an attack. Black has two main moves here: Either block the bishop with 5...e6 where the advanced e pawn eventually falls (5...e6 6.Nc3) OR threaten the white queen with 5...Bg4. Both are good.
+10,Bg4,c8g4,rn1qkb1r/pp2pppp/2p2n2/6N1/2B1pPb1/8/PPPP2PP/RNBQK2R w KQkq - 4 6,"Black chooses the dangerous way. White has no way to save the queen except for 6.Be2, which would be awkward."
+11,Qxg4,d1g4,rn1qkb1r/pp2pppp/2p2n2/6N1/2B1pPQ1/8/PPPP2PP/RNB1K2R b KQkq - 0 6,"!The signature move of the Bryntse gambit. White sacs his queen for two minor pieces, a development advantage and a generally chaotic position."
+12,Nxg4,f6g4,rn1qkb1r/pp2pppp/2p5/6N1/2B1pPn1/8/PPPP2PP/RNB1K2R w KQkq - 0 7,"It is possible to switch the order of moves 6 and 7 without any consequences, although Black can make the mistak of not taking the queen in this variation."
+13,Bxf7+,c4f7,rn1qkb1r/pp2pBpp/2p5/6N1/4pPn1/8/PPPP2PP/RNB1K2R b KQkq - 0 7,"It is possible to switch the order of moves 6 and 7 without any consequences, although Black can make the mistak of not taking the queen in this variation."
+14,Kd7,e8d7,rn1q1b1r/pp1kpBpp/2p5/6N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 1 8,Forced
+15,Be6+,f7e6,rn1q1b1r/pp1kp1pp/2p1B3/6N1/4pPn1/8/PPPP2PP/RNB1K2R b KQ - 2 8,The fork that wins the second minor piece for the queen.
+16,Kc7,d7c7,rn1q1b1r/ppk1p1pp/2p1B3/6N1/4pPn1/8/PPPP2PP/RNB1K2R w KQ - 3 9,"The black would probably prefer to go to c6, but that square is occupied by a pawn."
+17,Bxg4,e6g4,rn1q1b1r/ppk1p1pp/2p5/6N1/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 0 9,Black escapes the nasty 10.Ne6+ royal fork and seeks shelter in the queenside.
+18,Kb6,c7b6,rn1q1b1r/pp2p1pp/1kp5/6N1/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 1 10,Black escapes the nasty 10.Ne6+ royal fork and seeks shelter in the queenside.
+19,Ne6,g5e6,rn1q1b1r/pp2p1pp/1kp1N3/8/4pPB1/8/PPPP2PP/RNB1K2R b KQ - 2 10,Threatening the queen and blocking the king's pawn which itself blocks the bishop.
+20,Qe8,d8e8,rn2qb1r/pp2p1pp/1kp1N3/8/4pPB1/8/PPPP2PP/RNB1K2R w KQ - 3 11,Preparing 12.Be3+
+21,d3,d2d3,rn2qb1r/pp2p1pp/1kp1N3/8/4pPB1/3P4/PPP3PP/RNB1K2R b KQ - 0 11,Preparing 12.Be3+
+22,Nd7,b8d7,r3qb1r/pp1np1pp/1kp1N3/8/4pPB1/3P4/PPP3PP/RNB1K2R w KQ - 1 12,Simple development.
+23,Be3+,c1e3,r3qb1r/pp1np1pp/1kp1N3/8/4pPB1/3PB3/PPP3PP/RN2K2R b KQ - 2 12,Simple development.
+24,c5,c6c5,r3qb1r/pp1np1pp/1k2N3/2p5/4pPB1/3PB3/PPP3PP/RN2K2R w KQ - 0 13,Simple development.
+25,Nc3,b1c3,r3qb1r/pp1np1pp/1k2N3/2p5/4pPB1/2NPB3/PPP3PP/R3K2R b KQ - 1 13,Simple development.
+26,Qg6,e8g6,r4b1r/pp1np1pp/1k2N1q1/2p5/4pPB1/2NPB3/PPP3PP/R3K2R w KQ - 2 14,Simple development.
+27,Bh3,g4h3,r4b1r/pp1np1pp/1k2N1q1/2p5/4pP2/2NPB2B/PPP3PP/R3K2R b KQ - 3 14,Simple development.
+28,Rc8,a8c8,2r2b1r/pp1np1pp/1k2N1q1/2p5/4pP2/2NPB2B/PPP3PP/R3K2R w KQ - 4 15,Simple development.
+29,Nd5+,c3d5,2r2b1r/pp1np1pp/1k2N1q1/2pN4/4pP2/3PB2B/PPP3PP/R3K2R b KQ - 5 15,"15.dxe4 was better. But hey, I like checks!"
+30,Ka6,b6a6,2r2b1r/pp1np1pp/k3N1q1/2pN4/4pP2/3PB2B/PPP3PP/R3K2R w KQ - 6 16,I attack the queen so she can't defend the advanced e pawn.
+31,f5,f4f5,2r2b1r/pp1np1pp/k3N1q1/2pN1P2/4p3/3PB2B/PPP3PP/R3K2R b KQ - 0 16,I attack the queen so she can't defend the advanced e pawn.
+32,Qh5,g6h5,2r2b1r/pp1np1pp/k3N3/2pN1P1q/4p3/3PB2B/PPP3PP/R3K2R w KQ - 1 17,"This turns out to be a mistake. We both missed 17...Qh4+! for a couple of turns, which would win my e pawn and a strong advantage for Black."
+33,dxe4,d3e4,2r2b1r/pp1np1pp/k3N3/2pN1P1q/4P3/4B2B/PPP3PP/R3K2R b KQ - 0 17,"This turns out to be a mistake. We both missed 17...Qh4+! for a couple of turns, which would win my e pawn and a strong advantage for Black."
+34,b6,b7b6,2r2b1r/p2np1pp/kp2N3/2pN1P1q/4P3/4B2B/PPP3PP/R3K2R w KQ - 0 18,Black tries to shelter his king.

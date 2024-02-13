@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,French Defense.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,French Defense.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Main line advance so far.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Main line advance so far.
+5,e5,e4e5,rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,Main line advance so far.
+6,c5,c7c5,rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,Main line advance so far.
+7,dxc5,d4c5,rnbqkbnr/pp3ppp/4p3/2PpP3/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4,"This is questionable as it dosnt cause black as many problems as the main line, which continues 4:c3 Nc6 5:Nf3 Qb6. This holds the pawn centre and the game will be black trying to break it down and white trying to defend it. Best play usually results in an equal game."
+8,Bxc5,f8c5,rnbqk1nr/pp3ppp/4p3/2bpP3/8/8/PPP2PPP/RNBQKBNR w KQkq - 0 5,"Not an extremely useful move. Moves like Bd3, Nf3 would be good, developing and aiming to castle."
+9,Qd3,d1d3,rnbqk1nr/pp3ppp/4p3/2bpP3/8/3Q4/PPP2PPP/RNB1KBNR b KQkq - 1 5,"Not an extremely useful move. Moves like Bd3, Nf3 would be good, developing and aiming to castle."
+10,Nc6,b8c6,r1bqk1nr/pp3ppp/2n1p3/2bpP3/8/3Q4/PPP2PPP/RNB1KBNR w KQkq - 2 6,"White thinks that black can't capture on e5, but he hasnt seen far enough."
+11,Nc3,b1c3,r1bqk1nr/pp3ppp/2n1p3/2bpP3/8/2NQ4/PPP2PPP/R1B1KBNR b KQkq - 3 6,"White thinks that black can't capture on e5, but he hasnt seen far enough."
+12,Nxe5,c6e5,r1bqk1nr/pp3ppp/4p3/2bpn3/8/2NQ4/PPP2PPP/R1B1KBNR w KQkq - 0 7,Black defends everything and is a pawn up.
+13,Qb5+,d3b5,r1bqk1nr/pp3ppp/4p3/1Qbpn3/8/2N5/PPP2PPP/R1B1KBNR b KQkq - 1 7,Black defends everything and is a pawn up.
+14,Nd7,e5d7,r1bqk1nr/pp1n1ppp/4p3/1Qbp4/8/2N5/PPP2PPP/R1B1KBNR w KQkq - 2 8,Black defends everything and is a pawn up.
+15,Qe2,b5e2,r1bqk1nr/pp1n1ppp/4p3/2bp4/8/2N5/PPP1QPPP/R1B1KBNR b KQkq - 3 8,"Now black is well on top, with better development and an extra pawn."
+16,Ngf6,g8f6,r1bqk2r/pp1n1ppp/4pn2/2bp4/8/2N5/PPP1QPPP/R1B1KBNR w KQkq - 4 9,"Now black is well on top, with better development and an extra pawn."
+17,Bg5,c1g5,r1bqk2r/pp1n1ppp/4pn2/2bp2B1/8/2N5/PPP1QPPP/R3KBNR b KQkq - 5 9,White is still making unnecessary moves. White should be trying to get castled.
+18,O-O,e8g8,r1bq1rk1/pp1n1ppp/4pn2/2bp2B1/8/2N5/PPP1QPPP/R3KBNR w KQ - 6 10,White is still making unnecessary moves. White should be trying to get castled.
+19,a3,a2a3,r1bq1rk1/pp1n1ppp/4pn2/2bp2B1/8/P1N5/1PP1QPPP/R3KBNR b KQ - 0 10,White is still making unnecessary moves. White should be trying to get castled.
+20,Qb6,d8b6,r1b2rk1/pp1n1ppp/1q2pn2/2bp2B1/8/P1N5/1PP1QPPP/R3KBNR w KQ - 1 11,More devlopment and threatening a pawn.
+21,Na4,c3a4,r1b2rk1/pp1n1ppp/1q2pn2/2bp2B1/N7/P7/1PP1QPPP/R3KBNR b KQ - 2 11,"This is the final straw. With so many wasted tempi, it is no surprise that black can finish the game."
+22,Qa5+,b6a5,r1b2rk1/pp1n1ppp/4pn2/q1bp2B1/N7/P7/1PP1QPPP/R3KBNR w KQ - 3 12,Winning a piece as b4 is answered by Bxb4.
+23,Nc3,a4c3,r1b2rk1/pp1n1ppp/4pn2/q1bp2B1/8/P1N5/1PP1QPPP/R3KBNR b KQ - 4 12,Winning a piece as b4 is answered by Bxb4.
+24,d4,d5d4,r1b2rk1/pp1n1ppp/4pn2/q1b3B1/3p4/P1N5/1PP1QPPP/R3KBNR w KQ - 0 13,Winning a piece as b4 is answered by Bxb4.

@@ -1,0 +1,72 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Blocking the c pawn
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Blocking the c pawn
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Blocking the c pawn
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Blocking the c pawn
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3,Blocking the c pawn
+6,Bb4,f8b4,rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4,Blocking the c pawn
+7,e5,e4e5,rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4,Blocking the c pawn
+8,Nc6,b8c6,r1bqk1nr/ppp2ppp/2n1p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5,Blocking the c pawn
+9,Nf3,g1f3,r1bqk1nr/ppp2ppp/2n1p3/3pP3/1b1P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,Overprotecting d4
+10,Bd7,c8d7,r2qk1nr/pppb1ppp/2n1p3/3pP3/1b1P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6,Overprotecting d4
+11,Be3,c1e3,r2qk1nr/pppb1ppp/2n1p3/3pP3/1b1P4/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 4 6,Overprotecting d4
+12,Nge7,g8e7,r2qk2r/pppbnppp/2n1p3/3pP3/1b1P4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 5 7,Planning to exchange the knight after ... Nf5
+13,Bd3,f1d3,r2qk2r/pppbnppp/2n1p3/3pP3/1b1P4/2NBBN2/PPP2PPP/R2QK2R b KQkq - 6 7,Planning to exchange the knight after ... Nf5
+14,Nf5,e7f5,r2qk2r/pppb1ppp/2n1p3/3pPn2/1b1P4/2NBBN2/PPP2PPP/R2QK2R w KQkq - 7 8,"Losing a pawn, so ... Bxc3+ is probably better"
+15,Bxf5,d3f5,r2qk2r/pppb1ppp/2n1p3/3pPB2/1b1P4/2N1BN2/PPP2PPP/R2QK2R b KQkq - 0 8,"Losing a pawn, so ... Bxc3+ is probably better"
+16,exf5,e6f5,r2qk2r/pppb1ppp/2n5/3pPp2/1b1P4/2N1BN2/PPP2PPP/R2QK2R w KQkq - 0 9,"Losing a pawn, so ... Bxc3+ is probably better"
+17,a3,a2a3,r2qk2r/pppb1ppp/2n5/3pPp2/1b1P4/P1N1BN2/1PP2PPP/R2QK2R b KQkq - 0 9,"Losing a pawn, so ... Bxc3+ is probably better"
+18,Be7,b4e7,r2qk2r/pppbbppp/2n5/3pPp2/3P4/P1N1BN2/1PP2PPP/R2QK2R w KQkq - 1 10,"Losing a pawn, so ... Bxc3+ is probably better"
+19,Nxd5,c3d5,r2qk2r/pppbbppp/2n5/3NPp2/3P4/P3BN2/1PP2PPP/R2QK2R b KQkq - 0 10,Refusing the bishop!
+20,Be6,d7e6,r2qk2r/ppp1bppp/2n1b3/3NPp2/3P4/P3BN2/1PP2PPP/R2QK2R w KQkq - 1 11,Refusing the bishop!
+21,Nf4,d5f4,r2qk2r/ppp1bppp/2n1b3/4Pp2/3P1N2/P3BN2/1PP2PPP/R2QK2R b KQkq - 2 11,Refusing the bishop!
+22,Qd7,d8d7,r3k2r/pppqbppp/2n1b3/4Pp2/3P1N2/P3BN2/1PP2PPP/R2QK2R w KQkq - 3 12,"Exchanging the well-placed knight is questionable, because it allows black to fix his pawn formation, and prevents me from attacking the f5 pawn. Perhaps h4, to secure the knight"
+23,Qd3,d1d3,r3k2r/pppqbppp/2n1b3/4Pp2/3P1N2/P2QBN2/1PP2PPP/R3K2R b KQkq - 4 12,"Exchanging the well-placed knight is questionable, because it allows black to fix his pawn formation, and prevents me from attacking the f5 pawn. Perhaps h4, to secure the knight"
+24,O-O-O,e8c8,2kr3r/pppqbppp/2n1b3/4Pp2/3P1N2/P2QBN2/1PP2PPP/R3K2R w KQ - 5 13,"Exchanging the well-placed knight is questionable, because it allows black to fix his pawn formation, and prevents me from attacking the f5 pawn. Perhaps h4, to secure the knight"
+25,Nxe6,f4e6,2kr3r/pppqbppp/2n1N3/4Pp2/3P4/P2QBN2/1PP2PPP/R3K2R b KQ - 0 13,"Exchanging the well-placed knight is questionable, because it allows black to fix his pawn formation, and prevents me from attacking the f5 pawn. Perhaps h4, to secure the knight"
+26,fxe6,f7e6,2kr3r/pppqb1pp/2n1p3/4Pp2/3P4/P2QBN2/1PP2PPP/R3K2R w KQ - 0 14,Sacrificing a second pawn to try to undermine d4
+27,O-O-O,e1c1,2kr3r/pppqb1pp/2n1p3/4Pp2/3P4/P2QBN2/1PP2PPP/2KR3R b - - 1 14,Sacrificing a second pawn to try to undermine d4
+28,g5,g7g5,2kr3r/pppqb2p/2n1p3/4Ppp1/3P4/P2QBN2/1PP2PPP/2KR3R w - - 0 15,Sacrificing a second pawn to try to undermine d4
+29,Nxg5,f3g5,2kr3r/pppqb2p/2n1p3/4PpN1/3P4/P2QB3/1PP2PPP/2KR3R b - - 0 15,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+30,Bxg5,e7g5,2kr3r/pppq3p/2n1p3/4Ppb1/3P4/P2QB3/1PP2PPP/2KR3R w - - 0 16,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+31,Bxg5,e3g5,2kr3r/pppq3p/2n1p3/4PpB1/3P4/P2Q4/1PP2PPP/2KR3R b - - 0 16,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+32,Rde8,d8e8,2k1r2r/pppq3p/2n1p3/4PpB1/3P4/P2Q4/1PP2PPP/2KR3R w - - 1 17,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+33,Bf6,g5f6,2k1r2r/pppq3p/2n1pB2/4Pp2/3P4/P2Q4/1PP2PPP/2KR3R b - - 2 17,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+34,Rhg8,h8g8,2k1r1r1/pppq3p/2n1pB2/4Pp2/3P4/P2Q4/1PP2PPP/2KR3R w - - 3 18,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+35,g3,g2g3,2k1r1r1/pppq3p/2n1pB2/4Pp2/3P4/P2Q2P1/1PP2P1P/2KR3R b - - 0 18,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+36,Qd5,d7d5,2k1r1r1/ppp4p/2n1pB2/3qPp2/3P4/P2Q2P1/1PP2P1P/2KR3R w - - 1 19,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+37,c4,c2c4,2k1r1r1/ppp4p/2n1pB2/3qPp2/2PP4/P2Q2P1/1P3P1P/2KR3R b - - 0 19,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+38,Qa5,d5a5,2k1r1r1/ppp4p/2n1pB2/q3Pp2/2PP4/P2Q2P1/1P3P1P/2KR3R w - - 1 20,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+39,d5,d4d5,2k1r1r1/ppp4p/2n1pB2/q2PPp2/2P5/P2Q2P1/1P3P1P/2KR3R b - - 0 20,"This advance should have been prepared with f4, because losing the e5 pawn for the f5 pawn isn't a fair trade."
+40,exd5,e6d5,2k1r1r1/ppp4p/2n2B2/q2pPp2/2P5/P2Q2P1/1P3P1P/2KR3R w - - 0 21,?? - Nd7 would save the piece
+41,cxd5,c4d5,2k1r1r1/ppp4p/2n2B2/q2PPp2/8/P2Q2P1/1P3P1P/2KR3R b - - 0 21,?? - Nd7 would save the piece
+42,Nxe5,c6e5,2k1r1r1/ppp4p/5B2/q2Pnp2/8/P2Q2P1/1P3P1P/2KR3R w - - 0 22,?? - Nd7 would save the piece
+43,Qxf5+,d3f5,2k1r1r1/ppp4p/5B2/q2PnQ2/8/P5P1/1P3P1P/2KR3R b - - 0 22,?? - Nd7 would save the piece
+44,Kb8,c8b8,1k2r1r1/ppp4p/5B2/q2PnQ2/8/P5P1/1P3P1P/2KR3R w - - 1 23,?? - Nd7 would save the piece
+45,Bxe5,f6e5,1k2r1r1/ppp4p/8/q2PBQ2/8/P5P1/1P3P1P/2KR3R b - - 0 23,Not  24. ... Rxf2 25. Qxe8#
+46,Rgf8,g8f8,1k2rr2/ppp4p/8/q2PBQ2/8/P5P1/1P3P1P/2KR3R w - - 1 24,Not  24. ... Rxf2 25. Qxe8#
+47,Qh5,f5h5,1k2rr2/ppp4p/8/q2PB2Q/8/P5P1/1P3P1P/2KR3R b - - 2 24,Not  24. ... Rxf2 25. Qxe8#
+48,Rec8,e8c8,1kr2r2/ppp4p/8/q2PB2Q/8/P5P1/1P3P1P/2KR3R w - - 3 25,Not  24. ... Rxf2 25. Qxe8#
+49,f4,f2f4,1kr2r2/ppp4p/8/q2PB2Q/5P2/P5P1/1P5P/2KR3R b - - 0 25,Securing the bishop
+50,Ka8,b8a8,k1r2r2/ppp4p/8/q2PB2Q/5P2/P5P1/1P5P/2KR3R w - - 1 26,"Playing for Rb4 and Qf3, then d5-d6"
+51,Rd4,d1d4,k1r2r2/ppp4p/8/q2PB2Q/3R1P2/P5P1/1P5P/2K4R b - - 2 26,"Playing for Rb4 and Qf3, then d5-d6"
+52,c5,c7c5,k1r2r2/pp5p/8/q1pPB2Q/3R1P2/P5P1/1P5P/2K4R w - c6 0 27,"Trying to provoke b5, because...."
+53,Rc4,d4c4,k1r2r2/pp5p/8/q1pPB2Q/2R2P2/P5P1/1P5P/2K4R b - - 1 27,"Trying to provoke b5, because...."
+54,Qb5,a5b5,k1r2r2/pp5p/8/1qpPB2Q/2R2P2/P5P1/1P5P/2K4R w - - 2 28,"... If black played 27. ... b5, 28. Qf3 bxc4 ?? 29. d6+ Kb8 30. d7+ Rc7 31. Rd1 and white wins"
+55,Qe2,h5e2,k1r2r2/pp5p/8/1qpPB3/2R2P2/P5P1/1P2Q2P/2K4R b - - 3 28,Bringing the rook into the game
+56,Rcd8,c8d8,k2r1r2/pp5p/8/1qpPB3/2R2P2/P5P1/1P2Q2P/2K4R w - - 4 29,Bringing the rook into the game
+57,Rd1,h1d1,k2r1r2/pp5p/8/1qpPB3/2R2P2/P5P1/1P2Q2P/2KR4 b - - 5 29,Bringing the rook into the game
+58,Rfe8,f8e8,k2rr3/pp5p/8/1qpPB3/2R2P2/P5P1/1P2Q2P/2KR4 w - - 6 30,"... b6 seems more logical, but then black would be weak on the long diagonal after Qg2. Plus black probably had the next move in mind."
+59,Qc2,e2c2,k2rr3/pp5p/8/1qpPB3/2R2P2/P5P1/1PQ4P/2KR4 b - - 7 30,"... b6 seems more logical, but then black would be weak on the long diagonal after Qg2. Plus black probably had the next move in mind."
+60,Qd7,b5d7,k2rr3/pp1q3p/8/2pPB3/2R2P2/P5P1/1PQ4P/2KR4 w - - 8 31,"... b6 seems more logical, but then black would be weak on the long diagonal after Qg2. Plus black probably had the next move in mind."
+61,Rxc5,c4c5,k2rr3/pp1q3p/8/2RPB3/5P2/P5P1/1PQ4P/2KR4 b - - 0 31,"The pin looks nasty (and Rxc8 Rxc8 would be a big mistake), but my advanced pawn and Bishop are strong. And black's king is a lot worse than mine."
+62,Rdc8,d8c8,k1r1r3/pp1q3p/8/2RPB3/5P2/P5P1/1PQ4P/2KR4 w - - 1 32,"The pin looks nasty (and Rxc8 Rxc8 would be a big mistake), but my advanced pawn and Bishop are strong. And black's king is a lot worse than mine."
+63,Rc7,c5c7,k1r1r3/ppRq3p/8/3PB3/5P2/P5P1/1PQ4P/2KR4 b - - 2 32,A fun move to play
+64,Rxc7,c8c7,k3r3/pprq3p/8/3PB3/5P2/P5P1/1PQ4P/2KR4 w - - 0 33,A fun move to play
+65,Qxc7,c2c7,k3r3/ppQq3p/8/3PB3/5P2/P5P1/1P5P/2KR4 b - - 0 33,A fun move to play
+66,Rc8,e8c8,k1r5/ppQq3p/8/3PB3/5P2/P5P1/1P5P/2KR4 w - - 1 34,A fun move to play
+67,d6,d5d6,k1r5/ppQq3p/3P4/4B3/5P2/P5P1/1P5P/2KR4 b - - 0 34,A fun move to play
+68,Rxc7+,c8c7,k7/pprq3p/3P4/4B3/5P2/P5P1/1P5P/2KR4 w - - 0 35,"After 36. .... Qe4+ 37. Ka1, black is out of checks and with no defence to Rd8, mating or queening the pawn. A good game"
+69,dxc7,d6c7,k7/ppPq3p/8/4B3/5P2/P5P1/1P5P/2KR4 b - - 0 35,"After 36. .... Qe4+ 37. Ka1, black is out of checks and with no defence to Rd8, mating or queening the pawn. A good game"
+70,Qc6+,d7c6,k7/ppP4p/2q5/4B3/5P2/P5P1/1P5P/2KR4 w - - 1 36,"After 36. .... Qe4+ 37. Ka1, black is out of checks and with no defence to Rd8, mating or queening the pawn. A good game"
+71,Kb1,c1b1,k7/ppP4p/2q5/4B3/5P2/P5P1/1P5P/1K1R4 b - - 2 36,"After 36. .... Qe4+ 37. Ka1, black is out of checks and with no defence to Rd8, mating or queening the pawn. A good game"

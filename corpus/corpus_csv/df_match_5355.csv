@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,I do not want to waste any moves to protect Pawn at f4
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I do not want to waste any moves to protect Pawn at f4
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,I do not want to waste any moves to protect Pawn at f4
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,I do not want to waste any moves to protect Pawn at f4
+5,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3,I do not want to waste any moves to protect Pawn at f4
+6,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4,I do not want to waste any moves to protect Pawn at f4
+7,Bc4,f1c4,rnbqkbnr/ppp2ppp/3p4/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 1 4,I do not want to waste any moves to protect Pawn at f4
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/3p1n2/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - 2 5,I do not want to waste any moves to protect Pawn at f4
+9,Nc3,b1c3,rnbqkb1r/ppp2ppp/3p1n2/8/2B1Pp2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 5,I do not want to waste any moves to protect Pawn at f4
+10,Bg4,c8g4,rn1qkb1r/ppp2ppp/3p1n2/8/2B1Ppb1/2N2N2/PPPP2PP/R1BQK2R w KQkq - 4 6,I do not want to waste any moves to protect Pawn at f4
+11,O-O,e1g1,rn1qkb1r/ppp2ppp/3p1n2/8/2B1Ppb1/2N2N2/PPPP2PP/R1BQ1RK1 b kq - 5 6,I do not want to waste any moves to protect Pawn at f4
+12,Be7,f8e7,rn1qk2r/ppp1bppp/3p1n2/8/2B1Ppb1/2N2N2/PPPP2PP/R1BQ1RK1 w kq - 6 7,I do not want to waste any moves to protect Pawn at f4
+13,d4,d2d4,rn1qk2r/ppp1bppp/3p1n2/8/2BPPpb1/2N2N2/PPP3PP/R1BQ1RK1 b kq - 0 7,I do not want to waste any moves to protect Pawn at f4
+14,O-O,e8g8,rn1q1rk1/ppp1bppp/3p1n2/8/2BPPpb1/2N2N2/PPP3PP/R1BQ1RK1 w - - 1 8,I do not want to waste any moves to protect Pawn at f4
+15,Bxf4,c1f4,rn1q1rk1/ppp1bppp/3p1n2/8/2BPPBb1/2N2N2/PPP3PP/R2Q1RK1 b - - 0 8,He will get my pawn at : d5 by his queen
+16,c6,c7c6,rn1q1rk1/pp2bppp/2pp1n2/8/2BPPBb1/2N2N2/PPP3PP/R2Q1RK1 w - - 0 9,He will get my pawn at : d5 by his queen
+17,Qd2,d1d2,rn1q1rk1/pp2bppp/2pp1n2/8/2BPPBb1/2N2N2/PPPQ2PP/R4RK1 b - - 1 9,He will get my pawn at : d5 by his queen
+18,d5,d6d5,rn1q1rk1/pp2bppp/2p2n2/3p4/2BPPBb1/2N2N2/PPPQ2PP/R4RK1 w - - 0 10,He will get my pawn at : d5 by his queen
+19,exd5,e4d5,rn1q1rk1/pp2bppp/2p2n2/3P4/2BP1Bb1/2N2N2/PPPQ2PP/R4RK1 b - - 0 10,He will get my pawn at : d5 by his queen
+20,cxd5,c6d5,rn1q1rk1/pp2bppp/5n2/3p4/2BP1Bb1/2N2N2/PPPQ2PP/R4RK1 w - - 0 11,He will get my pawn at : d5 by his queen
+21,Be2,c4e2,rn1q1rk1/pp2bppp/5n2/3p4/3P1Bb1/2N2N2/PPPQB1PP/R4RK1 b - - 1 11,He will get my pawn at : d5 by his queen
+22,Bb4,e7b4,rn1q1rk1/pp3ppp/5n2/3p4/1b1P1Bb1/2N2N2/PPPQB1PP/R4RK1 w - - 2 12,He will get my pawn at : d5 by his queen
+23,Bg5,f4g5,rn1q1rk1/pp3ppp/5n2/3p2B1/1b1P2b1/2N2N2/PPPQB1PP/R4RK1 b - - 3 12,He will get my pawn at : d5 by his queen
+24,Qd6,d8d6,rn3rk1/pp3ppp/3q1n2/3p2B1/1b1P2b1/2N2N2/PPPQB1PP/R4RK1 w - - 4 13,He will get my pawn at : d5 by his queen
+25,Ne5,f3e5,rn3rk1/pp3ppp/3q1n2/3pN1B1/1b1P2b1/2N5/PPPQB1PP/R4RK1 b - - 5 13,He will get my pawn at : d5 by his queen
+26,Bxe2,g4e2,rn3rk1/pp3ppp/3q1n2/3pN1B1/1b1P4/2N5/PPPQb1PP/R4RK1 w - - 0 14,He will get my pawn at : d5 by his queen
+27,Qxe2,d2e2,rn3rk1/pp3ppp/3q1n2/3pN1B1/1b1P4/2N5/PPP1Q1PP/R4RK1 b - - 0 14,He will get my pawn at : d5 by his queen
+28,Nfd7,f6d7,rn3rk1/pp1n1ppp/3q4/3pN1B1/1b1P4/2N5/PPP1Q1PP/R4RK1 w - - 1 15,He will get my pawn at : d5 by his queen
+29,Nxd7,e5d7,rn3rk1/pp1N1ppp/3q4/3p2B1/1b1P4/2N5/PPP1Q1PP/R4RK1 b - - 0 15,He will get my pawn at : d5 by his queen
+30,Qxd7,d6d7,rn3rk1/pp1q1ppp/8/3p2B1/1b1P4/2N5/PPP1Q1PP/R4RK1 w - - 0 16,He will get my pawn at : d5 by his queen
+31,Qf3,e2f3,rn3rk1/pp1q1ppp/8/3p2B1/1b1P4/2N2Q2/PPP3PP/R4RK1 b - - 1 16,He will get my pawn at : d5 by his queen
+32,Bxc3,b4c3,rn3rk1/pp1q1ppp/8/3p2B1/3P4/2b2Q2/PPP3PP/R4RK1 w - - 0 17,So i got his knight
+33,Qxc3,f3c3,rn3rk1/pp1q1ppp/8/3p2B1/3P4/2Q5/PPP3PP/R4RK1 b - - 0 17,Now my turn to get the pawn at d4
+34,Nc6,b8c6,r4rk1/pp1q1ppp/2n5/3p2B1/3P4/2Q5/PPP3PP/R4RK1 w - - 1 18,Now my turn to get the pawn at d4
+35,Qd3,c3d3,r4rk1/pp1q1ppp/2n5/3p2B1/3P4/3Q4/PPP3PP/R4RK1 b - - 2 18,Now my turn to get the pawn at d4
+36,Qg4,d7g4,r4rk1/pp3ppp/2n5/3p2B1/3P2q1/3Q4/PPP3PP/R4RK1 w - - 3 19,Now my turn to get the pawn at d4
+37,Be3,g5e3,r4rk1/pp3ppp/2n5/3p4/3P2q1/3QB3/PPP3PP/R4RK1 b - - 4 19,I will try to attack using pawns
+38,h5,h7h5,r4rk1/pp3pp1/2n5/3p3p/3P2q1/3QB3/PPP3PP/R4RK1 w - - 0 20,I will try to attack using pawns
+39,c3,c2c3,r4rk1/pp3pp1/2n5/3p3p/3P2q1/2PQB3/PP4PP/R4RK1 b - - 0 20,I will try to attack using pawns
+40,h4,h5h4,r4rk1/pp3pp1/2n5/3p4/3P2qp/2PQB3/PP4PP/R4RK1 w - - 0 21,I will try to attack using pawns
+41,Qf5,d3f5,r4rk1/pp3pp1/2n5/3p1Q2/3P2qp/2P1B3/PP4PP/R4RK1 b - - 1 21,force to switch queens
+42,Qe4,g4e4,r4rk1/pp3pp1/2n5/3p1Q2/3Pq2p/2P1B3/PP4PP/R4RK1 w - - 2 22,"Ok, But You do that ,:)"
+43,Rae1,a1e1,r4rk1/pp3pp1/2n5/3p1Q2/3Pq2p/2P1B3/PP4PP/4RRK1 b - - 3 22,"Oh, I will loose a pawn"
+44,Ne7,c6e7,r4rk1/pp2npp1/8/3p1Q2/3Pq2p/2P1B3/PP4PP/4RRK1 w - - 4 23,"Oh, I will loose a pawn"
+45,Qxe4,f5e4,r4rk1/pp2npp1/8/3p4/3PQ2p/2P1B3/PP4PP/4RRK1 b - - 0 23,"Oh, I will loose a pawn"
+46,dxe4,d5e4,r4rk1/pp2npp1/8/8/3Pp2p/2P1B3/PP4PP/4RRK1 w - - 0 24,"Oh, I will loose a pawn"
+47,Bg5,e3g5,r4rk1/pp2npp1/8/6B1/3Pp2p/2P5/PP4PP/4RRK1 b - - 1 24,I need to prevent getting the other pawn
+48,Ng6,e7g6,r4rk1/pp3pp1/6n1/6B1/3Pp2p/2P5/PP4PP/4RRK1 w - - 2 25,I need to prevent getting the other pawn
+49,Rxe4,e1e4,r4rk1/pp3pp1/6n1/6B1/3PR2p/2P5/PP4PP/5RK1 b - - 0 25,I need to prevent getting the other pawn
+50,Rfe8,f8e8,r3r1k1/pp3pp1/6n1/6B1/3PR2p/2P5/PP4PP/5RK1 w - - 1 26,I need to prevent getting the other pawn
+51,Rfe1,f1e1,r3r1k1/pp3pp1/6n1/6B1/3PR2p/2P5/PP4PP/4R1K1 b - - 2 26,Also i will try by moving the other pawn to f5
+52,Rxe4,e8e4,r5k1/pp3pp1/6n1/6B1/3Pr2p/2P5/PP4PP/4R1K1 w - - 0 27,Also i will try by moving the other pawn to f5
+53,Rxe4,e1e4,r5k1/pp3pp1/6n1/6B1/3PR2p/2P5/PP4PP/6K1 b - - 0 27,Also i will try by moving the other pawn to f5
+54,f5,f7f5,r5k1/pp4p1/6n1/5pB1/3PR2p/2P5/PP4PP/6K1 w - - 0 28,attack
+55,Re6,e4e6,r5k1/pp4p1/4R1n1/5pB1/3P3p/2P5/PP4PP/6K1 b - - 1 28,attack
+56,Nf8,g6f8,r4nk1/pp4p1/4R3/5pB1/3P3p/2P5/PP4PP/6K1 w - - 2 29,attack
+57,Re7,e6e7,r4nk1/pp2R1p1/8/5pB1/3P3p/2P5/PP4PP/6K1 b - - 3 29,"Ok, I see that i have a trap ^_^"
+58,b6,b7b6,r4nk1/p3R1p1/1p6/5pB1/3P3p/2P5/PP4PP/6K1 w - - 0 30,Here we go
+59,Bxh4,g5h4,r4nk1/p3R1p1/1p6/5p2/3P3B/2P5/PP4PP/6K1 b - - 0 30,Here we go
+60,Ng6,f8g6,r5k1/p3R1p1/1p4n1/5p2/3P3B/2P5/PP4PP/6K1 w - - 1 31,He Reassigned ;)

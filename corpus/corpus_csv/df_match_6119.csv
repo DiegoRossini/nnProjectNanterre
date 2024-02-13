@@ -1,0 +1,68 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This was an open challenge
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I decided to try the Caro Kann which I am not very familiar with
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"advance variation, it looks as though I could be a little cramped here"
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"advance variation, it looks as though I could be a little cramped here"
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"advance variation, it looks as though I could be a little cramped here"
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,"Still well within the database here, though it seems to me that this is a good time to move my lsb as I am looking at e6 and don't want my lsb blocked in"
+7,Bf4,c1f4,rn1qkbnr/pp2pppp/2p5/3pPb2/3P1B2/8/PPP2PPP/RN1QKBNR b KQkq - 2 4,"This is getting interesting, white has a strong grip on the dark squares on the centre and I have the light ones"
+8,e6,e7e6,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P1B2/8/PPP2PPP/RN1QKBNR w KQkq - 0 5,"This is getting interesting, white has a strong grip on the dark squares on the centre and I have the light ones"
+9,Nf3,g1f3,rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P1B2/5N2/PPP2PPP/RN1QKB1R b KQkq - 1 5,"This is getting interesting, white has a strong grip on the dark squares on the centre and I have the light ones"
+10,Bb4+,f8b4,rn1qk1nr/pp3ppp/2p1p3/3pPb2/1b1P1B2/5N2/PPP2PPP/RN1QKB1R w KQkq - 2 6,This move takes us out of the gameknot database. Whites stranglehold on the dark squares n the centre is going to make my dsb passive for a while
+11,c3,c2c3,rn1qk1nr/pp3ppp/2p1p3/3pPb2/1b1P1B2/2P2N2/PP3PPP/RN1QKB1R b KQkq - 0 6,This move takes us out of the gameknot database. Whites stranglehold on the dark squares n the centre is going to make my dsb passive for a while
+12,Ba5,b4a5,rn1qk1nr/pp3ppp/2p1p3/b2pPb2/3P1B2/2P2N2/PP3PPP/RN1QKB1R w KQkq - 1 7,This move takes us out of the gameknot database. Whites stranglehold on the dark squares n the centre is going to make my dsb passive for a while
+13,b4,b2b4,rn1qk1nr/pp3ppp/2p1p3/b2pPb2/1P1P1B2/2P2N2/P4PPP/RN1QKB1R b KQkq - 0 7,This move takes us out of the gameknot database. Whites stranglehold on the dark squares n the centre is going to make my dsb passive for a while
+14,Bb6,a5b6,rn1qk1nr/pp3ppp/1bp1p3/3pPb2/1P1P1B2/2P2N2/P4PPP/RN1QKB1R w KQkq - 1 8,The primary reason I chose this was that if he castled kings side it would be nicely lined up on the king. I'm still not sure if Bc7 would be better?
+15,h3,h2h3,rn1qk1nr/pp3ppp/1bp1p3/3pPb2/1P1P1B2/2P2N1P/P4PP1/RN1QKB1R b KQkq - 0 8,"This move seems to me to be uneccessary, if I were white I would have concentrated on developing"
+16,Ne7,g8e7,rn1qk2r/pp2nppp/1bp1p3/3pPb2/1P1P1B2/2P2N1P/P4PP1/RN1QKB1R w KQkq - 1 9,pretty much the only place the knight can go
+17,Bg5,f4g5,rn1qk2r/pp2nppp/1bp1p3/3pPbB1/1P1P4/2P2N1P/P4PP1/RN1QKB1R b KQkq - 2 9,"Again this doesn't really achieve a lot, the knight isn't really going anywhere. I was expecting him to develop his knight or lsb"
+18,a5,a7a5,rn1qk2r/1p2nppp/1bp1p3/p2pPbB1/1P1P4/2P2N1P/P4PP1/RN1QKB1R w KQkq - 0 10,"This may be a little premature, however I wanted to break up his pawn structure a little and try to get my dsb more active"
+19,b5,b4b5,rn1qk2r/1p2nppp/1bp1p3/pP1pPbB1/3P4/2P2N1P/P4PP1/RN1QKB1R b KQkq - 0 10,"getting my king safe and avoiding cxb5, Bxb5+ which allows white to develop his lsb with tempo, particularly as that bishop would be tough to extract"
+20,O-O,e8g8,rn1q1rk1/1p2nppp/1bp1p3/pP1pPbB1/3P4/2P2N1P/P4PP1/RN1QKB1R w KQ - 1 11,"getting my king safe and avoiding cxb5, Bxb5+ which allows white to develop his lsb with tempo, particularly as that bishop would be tough to extract"
+21,c4,c3c4,rn1q1rk1/1p2nppp/1bp1p3/pP1pPbB1/2PP4/5N1P/P4PP1/RN1QKB1R b KQ - 0 11,Expecting some pawns to be exchanged
+22,Qd7,d8d7,rn3rk1/1p1qnppp/1bp1p3/pP1pPbB1/2PP4/5N1P/P4PP1/RN1QKB1R w KQ - 1 12,Expecting some pawns to be exchanged
+23,Nc3,b1c3,rn3rk1/1p1qnppp/1bp1p3/pP1pPbB1/2PP4/2N2N1P/P4PP1/R2QKB1R b KQ - 2 12,This was to give my lsb a hidey hole if it should be needed
+24,h6,h7h6,rn3rk1/1p1qnpp1/1bp1p2p/pP1pPbB1/2PP4/2N2N1P/P4PP1/R2QKB1R w KQ - 0 13,This was to give my lsb a hidey hole if it should be needed
+25,Be3,g5e3,rn3rk1/1p1qnpp1/1bp1p2p/pP1pPb2/2PP4/2N1BN1P/P4PP1/R2QKB1R b KQ - 1 13,This makes my move 11 a waste
+26,Qd8,d7d8,rn1q1rk1/1p2npp1/1bp1p2p/pP1pPb2/2PP4/2N1BN1P/P4PP1/R2QKB1R w KQ - 2 14,This makes my move 11 a waste
+27,g4,g2g4,rn1q1rk1/1p2npp1/1bp1p2p/pP1pPb2/2PP2P1/2N1BN1P/P4P2/R2QKB1R b KQ - 0 14,"At this point I started to get a little worried, those pawns could present a major threat. As it happens they play no further part in the game, I think that's a lost opportunity for white."
+28,Bh7,f5h7,rn1q1rk1/1p2nppb/1bp1p2p/pP1pP3/2PP2P1/2N1BN1P/P4P2/R2QKB1R w KQ - 1 15,"At this point I started to get a little worried, those pawns could present a major threat. As it happens they play no further part in the game, I think that's a lost opportunity for white."
+29,h4,h3h4,rn1q1rk1/1p2nppb/1bp1p2p/pP1pP3/2PP2PP/2N1BN2/P4P2/R2QKB1R b KQ - 0 15,"At this point I started to get a little worried, those pawns could present a major threat. As it happens they play no further part in the game, I think that's a lost opportunity for white."
+30,a4,a5a4,rn1q1rk1/1p2nppb/1bp1p2p/1P1pP3/p1PP2PP/2N1BN2/P4P2/R2QKB1R w KQ - 0 16,Looking to soften the threat on my kingside with an exchange or two
+31,Nxa4,c3a4,rn1q1rk1/1p2nppb/1bp1p2p/1P1pP3/N1PP2PP/4BN2/P4P2/R2QKB1R b KQ - 0 16,Looking to soften the threat on my kingside with an exchange or two
+32,Ba5+,b6a5,rn1q1rk1/1p2nppb/2p1p2p/bP1pP3/N1PP2PP/4BN2/P4P2/R2QKB1R w KQ - 1 17,Looking to soften the threat on my kingside with an exchange or two
+33,Bd2,e3d2,rn1q1rk1/1p2nppb/2p1p2p/bP1pP3/N1PP2PP/5N2/P2B1P2/R2QKB1R b KQ - 2 17,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+34,Bxd2+,a5d2,rn1q1rk1/1p2nppb/2p1p2p/1P1pP3/N1PP2PP/5N2/P2b1P2/R2QKB1R w KQ - 0 18,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+35,Nxd2,f3d2,rn1q1rk1/1p2nppb/2p1p2p/1P1pP3/N1PP2PP/8/P2N1P2/R2QKB1R b KQ - 0 18,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+36,Qa5,d8a5,rn3rk1/1p2nppb/2p1p2p/qP1pP3/N1PP2PP/8/P2N1P2/R2QKB1R w KQ - 1 19,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+37,Nc5,a4c5,rn3rk1/1p2nppb/2p1p2p/qPNpP3/2PP2PP/8/P2N1P2/R2QKB1R b KQ - 2 19,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+38,dxc4,d5c4,rn3rk1/1p2nppb/2p1p2p/qPN1P3/2pP2PP/8/P2N1P2/R2QKB1R w KQ - 0 20,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+39,Bxc4,f1c4,rn3rk1/1p2nppb/2p1p2p/qPN1P3/2BP2PP/8/P2N1P2/R2QK2R b KQ - 0 20,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+40,cxb5,c6b5,rn3rk1/1p2nppb/4p2p/qpN1P3/2BP2PP/8/P2N1P2/R2QK2R w KQ - 0 21,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+41,Be2,c4e2,rn3rk1/1p2nppb/4p2p/qpN1P3/3P2PP/8/P2NBP2/R2QK2R b KQ - 1 21,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+42,Nbc6,b8c6,r4rk1/1p2nppb/2n1p2p/qpN1P3/3P2PP/8/P2NBP2/R2QK2R w KQ - 2 22,"Looking at the d4 pawn
+
+Whites pawn structure now looks a little more shaky and his king can't hide by castling as it will be fairly exposed if it does, though it could be safer than where it is now."
+43,Nxb7,c5b7,r4rk1/1N2nppb/2n1p2p/qp2P3/3P2PP/8/P2NBP2/R2QK2R b KQ - 0 22,that pawn is now mine and the d file will be open for my rooks
+44,Qb6,a5b6,r4rk1/1N2nppb/1qn1p2p/1p2P3/3P2PP/8/P2NBP2/R2QK2R w KQ - 1 23,that pawn is now mine and the d file will be open for my rooks
+45,Nc5,b7c5,r4rk1/4nppb/1qn1p2p/1pN1P3/3P2PP/8/P2NBP2/R2QK2R b KQ - 2 23,I completely missed this unpleasant looking fork
+46,Nxd4,c6d4,r4rk1/4nppb/1q2p2p/1pN1P3/3n2PP/8/P2NBP2/R2QK2R w KQ - 0 24,I completely missed this unpleasant looking fork
+47,Nd7,c5d7,r4rk1/3Nnppb/1q2p2p/1p2P3/3n2PP/8/P2NBP2/R2QK2R b KQ - 1 24,I completely missed this unpleasant looking fork

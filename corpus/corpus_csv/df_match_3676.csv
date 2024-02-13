@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Hi all! This is just a quick game showcasing a fun counterattack in the Fraser Variation (3.Nxe5 Nc6?!) of the Latvian Gambit. Enjoy!
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,?!
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,?!
+4,f5,f7f5,rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,?!
+5,Nxe5,f3e5,rnbqkbnr/pppp2pp/8/4Np2/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,The main line.
+6,Nc6,b8c6,r1bqkbnr/pppp2pp/2n5/4Np2/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,?! Standard are 3...Nf6 or 3...Qf6. I've been preferring this line recently because finding a time to develop this Knight is somewhat difficult in the main lines.
+7,Qh5+,d1h5,r1bqkbnr/pppp2pp/2n5/4Np1Q/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 2 4,"This is standard; also possible is 4.d4! The text move wins an exchange for White, at the cost of giving Black plenty of activity."
+8,g6,g7g6,r1bqkbnr/pppp3p/2n3p1/4Np1Q/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 0 5,Also possible is 6...fxe4 7.Nxh8 d5.
+9,Nxg6,e5g6,r1bqkbnr/pppp3p/2n3N1/5p1Q/4P3/8/PPPP1PPP/RNB1KB1R b KQkq - 0 5,Also possible is 6...fxe4 7.Nxh8 d5.
+10,Nf6,g8f6,r1bqkb1r/pppp3p/2n2nN1/5p1Q/4P3/8/PPPP1PPP/RNB1KB1R w KQkq - 1 6,Also possible is 6...fxe4 7.Nxh8 d5.
+11,Qh3,h5h3,r1bqkb1r/pppp3p/2n2nN1/5p2/4P3/7Q/PPPP1PPP/RNB1KB1R b KQkq - 2 6,Also possible is 6...fxe4 7.Nxh8 d5.
+12,hxg6,h7g6,r1bqkb1r/pppp4/2n2np1/5p2/4P3/7Q/PPPP1PPP/RNB1KB1R w KQkq - 0 7,Also possible is 6...fxe4 7.Nxh8 d5.
+13,Qxh8,h3h8,r1bqkb1Q/pppp4/2n2np1/5p2/4P3/8/PPPP1PPP/RNB1KB1R b KQq - 0 7,"This is the move that prevented 7...d5? and continues to prevent Black from playing it, as he faces the more serious threat of 9.Bg5, winning the Knight."
+14,Qe7,d8e7,r1b1kb1Q/ppppq3/2n2np1/5p2/4P3/8/PPPP1PPP/RNB1KB1R w KQq - 1 8,"This is the move that prevented 7...d5? and continues to prevent Black from playing it, as he faces the more serious threat of 9.Bg5, winning the Knight."
+15,d3,d2d3,r1b1kb1Q/ppppq3/2n2np1/5p2/4P3/3P4/PPP2PPP/RNB1KB1R b KQq - 0 8,"This is the move that prevented 7...d5? and continues to prevent Black from playing it, as he faces the more serious threat of 9.Bg5, winning the Knight."
+16,fxe4,f5e4,r1b1kb1Q/ppppq3/2n2np1/8/4p3/3P4/PPP2PPP/RNB1KB1R w KQq - 0 9,9.Bg5? exd3+ leaves Black in good shape.
+17,dxe4,d3e4,r1b1kb1Q/ppppq3/2n2np1/8/4P3/8/PPP2PPP/RNB1KB1R b KQq - 0 9,Finally.
+18,Nxe4,f6e4,r1b1kb1Q/ppppq3/2n3p1/8/4n3/8/PPP2PPP/RNB1KB1R w KQq - 0 10,Finally.
+19,Be2,f1e2,r1b1kb1Q/ppppq3/2n3p1/8/4n3/8/PPP1BPPP/RNB1K2R b KQq - 1 10,Finally.
+20,d5,d7d5,r1b1kb1Q/ppp1q3/2n3p1/3p4/4n3/8/PPP1BPPP/RNB1K2R w KQq - 0 11,Finally.
+21,Bh6,c1h6,r1b1kb1Q/ppp1q3/2n3pB/3p4/4n3/8/PPP1BPPP/RN2K2R b KQq - 1 11,"There's no way to defend the DSB further; Black must simply accept it if White chooses to trade. Therefore, Black puts himself as far ahead in development as possible and prepares to castle if White doesn't force the exchange."
+22,Bf5,c8f5,r3kb1Q/ppp1q3/2n3pB/3p1b2/4n3/8/PPP1BPPP/RN2K2R w KQq - 2 12,"There's no way to defend the DSB further; Black must simply accept it if White chooses to trade. Therefore, Black puts himself as far ahead in development as possible and prepares to castle if White doesn't force the exchange."
+23,Bxf8,h6f8,r3kB1Q/ppp1q3/2n3p1/3p1b2/4n3/8/PPP1BPPP/RN2K2R b KQq - 0 12,"? White is ahead, mostly in pawns--he should be looking to trade down to an advantageous endgame, even though Black's development is far superior at the moment. The text gives Black an opening for significant counterplay, and sets the tone for the rest of the game."
+24,Qxf8,e7f8,r3kq1Q/ppp5/2n3p1/3p1b2/4n3/8/PPP1BPPP/RN2K2R w KQq - 0 13,"? White is ahead, mostly in pawns--he should be looking to trade down to an advantageous endgame, even though Black's development is far superior at the moment. The text gives Black an opening for significant counterplay, and sets the tone for the rest of the game."
+25,Qh4,h8h4,r3kq2/ppp5/2n3p1/3p1b2/4n2Q/8/PPP1BPPP/RN2K2R b KQq - 1 13,"? White is ahead, mostly in pawns--he should be looking to trade down to an advantageous endgame, even though Black's development is far superior at the moment. The text gives Black an opening for significant counterplay, and sets the tone for the rest of the game."
+26,Nd4,c6d4,r3kq2/ppp5/6p1/3p1b2/3nn2Q/8/PPP1BPPP/RN2K2R w KQq - 2 14,"! This move is one of the advantages to an early ...Nc6. White must either lose material from ...Nxc2+ or face the ugly consequences of defending c2, with a terrific number of variations sprouting up right away, making calculation a nightmare.
+
+For example, defending with the Bishop may lead to something like 14.Bd3 Qb4+ 15.Nc3 Qxb2 16.Qh8+ (16.Bxe4 Qxa1+ 17.Nd1 Bxe4 18.Qh8+ Kf7 19.Qxa8 Bxg2 20.Rg1 Nf3+ 21.Ke2 Nxg1+) 16...Kf7 17.Qxd4 (17.Qxa8?? Qxc3+ with mate inevitable) 17...Qxa1+ 18.Ke2 Kxc3+ and White is lost.
+
+Or, 14.Bd1 Qb4+ 15.Nc3 Nxc3 16.Qh8+ Kf7 17.Qxa8 Nxd1+ 18.Kxd1 Qxb2 19.Rc1 Bxc2+ etc.
+
+Of course there are many more variations; I don't think I've missed anything decisive for White though; Black simply has too many options."
+27,Na3,b1a3,r3kq2/ppp5/6p1/3p1b2/3nn2Q/N7/PPP1BPPP/R3K2R b KQq - 3 14,"Black offers a chance for White to win yet more material, but at terrific cost: 15.c3 Nxc3! 16.Qh8+ Kf7 17.Qxa8 Ncxe2+ 18.Kf1 Bd3, or else give up his material edge in the hopes of diffusing Black's attack: 16.bxc3 Qxc3+ 17.Kd1 (17.Qf1?? is mate in three) ...Qxa1+ 18.Kd2 Qxa2+ etc."
+28,Qb4+,f8b4,r3k3/ppp5/6p1/3p1b2/1q1nn2Q/N7/PPP1BPPP/R3K2R w KQq - 4 15,"Black offers a chance for White to win yet more material, but at terrific cost: 15.c3 Nxc3! 16.Qh8+ Kf7 17.Qxa8 Ncxe2+ 18.Kf1 Bd3, or else give up his material edge in the hopes of diffusing Black's attack: 16.bxc3 Qxc3+ 17.Kd1 (17.Qf1?? is mate in three) ...Qxa1+ 18.Kd2 Qxa2+ etc."
+29,Kf1,e1f1,r3k3/ppp5/6p1/3p1b2/1q1nn2Q/N7/PPP1BPPP/R4K1R b q - 5 15,"?? This is the worst of White's options. This misstep spells certain death, as now White must part with his Queen to avoid mate."
+30,Nd2+,e4d2,r3k3/ppp5/6p1/3p1b2/1q1n3Q/N7/PPPnBPPP/R4K1R w q - 6 16,"?? White was already lost, but still."
+31,Kg1,f1g1,r3k3/ppp5/6p1/3p1b2/1q1n3Q/N7/PPPnBPPP/R5KR b q - 7 16,"?? White was already lost, but still."
+32,Nxe2#,d4e2,r3k3/ppp5/6p1/3p1b2/1q5Q/N7/PPPnnPPP/R5KR w q - 0 17,That's it! I hope you enjoyed the swift counterattack and the game in general. Many thanks to archenon for the game! Comments are appreciated; if you leave a rating please also tell me what I did well or what I need to improve. Thanks for reading!

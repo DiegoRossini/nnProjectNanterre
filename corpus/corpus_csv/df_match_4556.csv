@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The King's pawn opening :)
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"here it's important not to be hurry for blacks to exchange pawns, if whites get the e5 (King's pawn), 3. Nxe5 , Qe7 --- is the very good move, and the chance to get whites Queen if them are mistaken"
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"here it's important not to be hurry for blacks to exchange pawns, if whites get the e5 (King's pawn), 3. Nxe5 , Qe7 --- is the very good move, and the chance to get whites Queen if them are mistaken"
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"here it's important not to be hurry for blacks to exchange pawns, if whites get the e5 (King's pawn), 3. Nxe5 , Qe7 --- is the very good move, and the chance to get whites Queen if them are mistaken"
+5,d3,d2d3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,here selects the defensive play
+6,d5,d7d5,rnbqkb1r/ppp2ppp/5n2/3pp3/4P3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,i left my King's pawn undefended. a mistake
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/5n2/3pp1B1/4P3/3P1N2/PPP2PPP/RN1QKB1R b KQkq - 1 4,my pawn (e5) is still undefended
+8,d4,d5d4,rnbqkb1r/ppp2ppp/5n2/4p1B1/3pP3/3P1N2/PPP2PPP/RN1QKB1R w KQkq - 0 5,my pawn (e5) is still undefended
+9,Nxe5,f3e5,rnbqkb1r/ppp2ppp/5n2/4N1B1/3pP3/3P4/PPP2PPP/RN1QKB1R b KQkq - 0 5,no surprise whites get it
+10,c6,c7c6,rnbqkb1r/pp3ppp/2p2n2/4N1B1/3pP3/3P4/PPP2PPP/RN1QKB1R w KQkq - 0 6,next move whites can loose their Knight after blacks Queen Qa5+
+11,Qh5,d1h5,rnbqkb1r/pp3ppp/2p2n2/4N1BQ/3pP3/3P4/PPP2PPP/RN2KB1R b KQkq - 1 6,what a bad move! an awful move really!
+12,Qa5+,d8a5,rnb1kb1r/pp3ppp/2p2n2/q3N1BQ/3pP3/3P4/PPP2PPP/RN2KB1R w KQkq - 2 7,Check!
+13,Bd2,g5d2,rnb1kb1r/pp3ppp/2p2n2/q3N2Q/3pP3/3P4/PPPB1PPP/RN2KB1R b KQkq - 3 7,"now, whites King can not castle, and i am having an advantage now"
+14,Qxd2+,a5d2,rnb1kb1r/pp3ppp/2p2n2/4N2Q/3pP3/3P4/PPPq1PPP/RN2KB1R w KQkq - 0 8,"now, whites King can not castle, and i am having an advantage now"
+15,Kxd2,e1d2,rnb1kb1r/pp3ppp/2p2n2/4N2Q/3pP3/3P4/PPPK1PPP/RN3B1R b kq - 0 8,"now, whites King can not castle, and i am having an advantage now"
+16,Nxh5,f6h5,rnb1kb1r/pp3ppp/2p5/4N2n/3pP3/3P4/PPPK1PPP/RN3B1R w kq - 0 9,"now, whites King can not castle, and i am having an advantage now"
+17,h3,h2h3,rnb1kb1r/pp3ppp/2p5/4N2n/3pP3/3P3P/PPPK1PP1/RN3B1R b kq - 0 9,i just need to open the road for my rook (h8) after castling
+18,Be6,c8e6,rn2kb1r/pp3ppp/2p1b3/4N2n/3pP3/3P3P/PPPK1PP1/RN3B1R w kq - 1 10,i just need to open the road for my rook (h8) after castling
+19,a3,a2a3,rn2kb1r/pp3ppp/2p1b3/4N2n/3pP3/P2P3P/1PPK1PP1/RN3B1R b kq - 0 10,i just need to open the road for my rook (h8) after castling
+20,Bd6,f8d6,rn2k2r/pp3ppp/2pbb3/4N2n/3pP3/P2P3P/1PPK1PP1/RN3B1R w kq - 1 11,i just need to open the road for my rook (h8) after castling
+21,Nf3,e5f3,rn2k2r/pp3ppp/2pbb3/7n/3pP3/P2P1N1P/1PPK1PP1/RN3B1R b kq - 2 11,i just need to open the road for my rook (h8) after castling
+22,c5,c6c5,rn2k2r/pp3ppp/3bb3/2p4n/3pP3/P2P1N1P/1PPK1PP1/RN3B1R w kq - 0 12,i just need to open the road for my rook (h8) after castling
+23,g4,g2g4,rn2k2r/pp3ppp/3bb3/2p4n/3pP1P1/P2P1N1P/1PPK1P2/RN3B1R b kq - 0 12,i just need to open the road for my rook (h8) after castling
+24,Nf4,h5f4,rn2k2r/pp3ppp/3bb3/2p5/3pPnP1/P2P1N1P/1PPK1P2/RN3B1R w kq - 1 13,i just need to open the road for my rook (h8) after castling
+25,Ng5,f3g5,rn2k2r/pp3ppp/3bb3/2p3N1/3pPnP1/P2P3P/1PPK1P2/RN3B1R b kq - 2 13,i just need to open the road for my rook (h8) after castling
+26,h6,h7h6,rn2k2r/pp3pp1/3bb2p/2p3N1/3pPnP1/P2P3P/1PPK1P2/RN3B1R w kq - 0 14,i just need to open the road for my rook (h8) after castling
+27,Nxe6,g5e6,rn2k2r/pp3pp1/3bN2p/2p5/3pPnP1/P2P3P/1PPK1P2/RN3B1R b kq - 0 14,here i have a great advantage in the right side of the board
+28,fxe6,f7e6,rn2k2r/pp4p1/3bp2p/2p5/3pPnP1/P2P3P/1PPK1P2/RN3B1R w kq - 0 15,here i have a great advantage in the right side of the board
+29,f3,f2f3,rn2k2r/pp4p1/3bp2p/2p5/3pPnP1/P2P1P1P/1PPK4/RN3B1R b kq - 0 15,here i have a great advantage in the right side of the board
+30,O-O,e8g8,rn3rk1/pp4p1/3bp2p/2p5/3pPnP1/P2P1P1P/1PPK4/RN3B1R w - - 1 16,here i have a great advantage in the right side of the board
+31,c3,c2c3,rn3rk1/pp4p1/3bp2p/2p5/3pPnP1/P1PP1P1P/1P1K4/RN3B1R b - - 0 16,"they left f3 pawn undefended, now it's a time to start an attack"
+32,Be5,d6e5,rn3rk1/pp4p1/4p2p/2p1b3/3pPnP1/P1PP1P1P/1P1K4/RN3B1R w - - 1 17,"they left f3 pawn undefended, now it's a time to start an attack"
+33,c4,c3c4,rn3rk1/pp4p1/4p2p/2p1b3/2PpPnP1/P2P1P1P/1P1K4/RN3B1R b - - 0 17,"they left f3 pawn undefended, now it's a time to start an attack"
+34,Bc7,e5c7,rn3rk1/ppb3p1/4p2p/2p5/2PpPnP1/P2P1P1P/1P1K4/RN3B1R w - - 1 18,"they left f3 pawn undefended, now it's a time to start an attack"
+35,a4,a3a4,rn3rk1/ppb3p1/4p2p/2p5/P1PpPnP1/3P1P1P/1P1K4/RN3B1R b - - 0 18,"they left f3 pawn undefended, now it's a time to start an attack"
+36,Ng6,f4g6,rn3rk1/ppb3p1/4p1np/2p5/P1PpP1P1/3P1P1P/1P1K4/RN3B1R w - - 1 19,"they left f3 pawn undefended, now it's a time to start an attack"
+37,Na3,b1a3,rn3rk1/ppb3p1/4p1np/2p5/P1PpP1P1/N2P1P1P/1P1K4/R4B1R b - - 2 19,"they left f3 pawn undefended, now it's a time to start an attack"
+38,Rxf3,f8f3,rn4k1/ppb3p1/4p1np/2p5/P1PpP1P1/N2P1r1P/1P1K4/R4B1R w - - 0 20,moving all my force to there
+39,Be2,f1e2,rn4k1/ppb3p1/4p1np/2p5/P1PpP1P1/N2P1r1P/1P1KB3/R6R b - - 1 20,moving all my force to there
+40,Bf4+,c7f4,rn4k1/pp4p1/4p1np/2p5/P1PpPbP1/N2P1r1P/1P1KB3/R6R w - - 2 21,moving all my force to there
+41,Ke1,d2e1,rn4k1/pp4p1/4p1np/2p5/P1PpPbP1/N2P1r1P/1P2B3/R3K2R b - - 3 21,moving all my force to there
+42,Re3,f3e3,rn4k1/pp4p1/4p1np/2p5/P1PpPbP1/N2Pr2P/1P2B3/R3K2R w - - 4 22,moving all my force to there
+43,Nb5,a3b5,rn4k1/pp4p1/4p1np/1Np5/P1PpPbP1/3Pr2P/1P2B3/R3K2R b - - 5 22,moving all my force to there
+44,Nc6,b8c6,r5k1/pp4p1/2n1p1np/1Np5/P1PpPbP1/3Pr2P/1P2B3/R3K2R w - - 6 23,moving all my force to there
+45,b3,b2b3,r5k1/pp4p1/2n1p1np/1Np5/P1PpPbP1/1P1Pr2P/4B3/R3K2R b - - 0 23,moving all my force to there
+46,Bg3+,f4g3,r5k1/pp4p1/2n1p1np/1Np5/P1PpP1P1/1P1Pr1bP/4B3/R3K2R w - - 1 24,moving all my force to there
+47,Kd2,e1d2,r5k1/pp4p1/2n1p1np/1Np5/P1PpP1P1/1P1Pr1bP/3KB3/R6R b - - 2 24,moving all my force to there
+48,Rf8,a8f8,5rk1/pp4p1/2n1p1np/1Np5/P1PpP1P1/1P1Pr1bP/3KB3/R6R w - - 3 25,moving all my force to there
+49,Rhf1,h1f1,5rk1/pp4p1/2n1p1np/1Np5/P1PpP1P1/1P1Pr1bP/3KB3/R4R2 b - - 4 25,"exchanging rooks is not what do blacks want, so ... Nf4"
+50,Nf4,g6f4,5rk1/pp4p1/2n1p2p/1Np5/P1PpPnP1/1P1Pr1bP/3KB3/R4R2 w - - 5 26,i do not know why is this move??? and i do also do not know what could they do better.
+51,Bf3,e2f3,5rk1/pp4p1/2n1p2p/1Np5/P1PpPnP1/1P1PrBbP/3K4/R4R2 b - - 6 26,i do not know why is this move??? and i do also do not know what could they do better.
+52,Nb4,c6b4,5rk1/pp4p1/4p2p/1Np5/PnPpPnP1/1P1PrBbP/3K4/R4R2 w - - 7 27,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+53,Kc1,d2c1,5rk1/pp4p1/4p2p/1Np5/PnPpPnP1/1P1PrBbP/8/R1K2R2 b - - 8 27,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+54,Nfxd3+,f4d3,5rk1/pp4p1/4p2p/1Np5/PnPpP1P1/1P1nrBbP/8/R1K2R2 w - - 0 28,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+55,Kd1,c1d1,5rk1/pp4p1/4p2p/1Np5/PnPpP1P1/1P1nrBbP/8/R2K1R2 b - - 1 28,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+56,Rfxf3,f8f3,6k1/pp4p1/4p2p/1Np5/PnPpP1P1/1P1nrrbP/8/R2K1R2 w - - 0 29,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+57,Rxf3,f1f3,6k1/pp4p1/4p2p/1Np5/PnPpP1P1/1P1nrRbP/8/R2K4 b - - 0 29,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+58,Rxf3,e3f3,6k1/pp4p1/4p2p/1Np5/PnPpP1P1/1P1n1rbP/8/R2K4 w - - 0 30,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+59,Ra3,a1a3,6k1/pp4p1/4p2p/1Np5/PnPpP1P1/RP1n1rbP/8/3K4 b - - 1 30,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+60,Be1,g3e1,6k1/pp4p1/4p2p/1Np5/PnPpP1P1/RP1n1r1P/8/3Kb3 w - - 2 31,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+61,Nxa7,b5a7,6k1/Np4p1/4p2p/2p5/PnPpP1P1/RP1n1r1P/8/3Kb3 b - - 0 31,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting
+62,Rf2,f3f2,6k1/Np4p1/4p2p/2p5/PnPpP1P1/RP1n3P/5r2/3Kb3 w - - 1 32,whites made a lot's of mistakes. blacks also didn't show their best. but the final part i think is interesting

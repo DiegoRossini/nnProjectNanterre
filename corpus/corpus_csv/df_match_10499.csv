@@ -1,0 +1,45 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,again I take my normal london game approach
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,black starts looking for a strange defesive pawn formation
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/4p3/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2,black starts looking for a strange defesive pawn formation
+4,f6,f7f6,rnbqkbnr/pppp2pp/4pp2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,black starts looking for a strange defesive pawn formation
+5,Bf4,c1f4,rnbqkbnr/pppp2pp/4pp2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,black starts looking for a strange defesive pawn formation
+6,g5,g7g5,rnbqkbnr/pppp3p/4pp2/6p1/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,black starts looking for a strange defesive pawn formation
+7,Bg3,f4g3,rnbqkbnr/pppp3p/4pp2/6p1/3P4/5NB1/PPP1PPPP/RN1QKB1R b KQkq - 1 4,white develops as normal
+8,a6,a7a6,rnbqkbnr/1ppp3p/p3pp2/6p1/3P4/5NB1/PPP1PPPP/RN1QKB1R w KQkq - 0 5,white develops as normal
+9,e3,e2e3,rnbqkbnr/1ppp3p/p3pp2/6p1/3P4/4PNB1/PPP2PPP/RN1QKB1R b KQkq - 0 5,white develops as normal
+10,b5,b7b5,rnbqkbnr/2pp3p/p3pp2/1p4p1/3P4/4PNB1/PPP2PPP/RN1QKB1R w KQkq - 0 6,white develops as normal
+11,Bd3,f1d3,rnbqkbnr/2pp3p/p3pp2/1p4p1/3P4/3BPNB1/PPP2PPP/RN1QK2R b KQkq - 1 6,white develops as normal
+12,Bb7,c8b7,rn1qkbnr/1bpp3p/p3pp2/1p4p1/3P4/3BPNB1/PPP2PPP/RN1QK2R w KQkq - 2 7,normal development and eases pressure on knight (no doubles pawns)
+13,Nbd2,b1d2,rn1qkbnr/1bpp3p/p3pp2/1p4p1/3P4/3BPNB1/PPPN1PPP/R2QK2R b KQkq - 3 7,normal development and eases pressure on knight (no doubles pawns)
+14,Bb4,f8b4,rn1qk1nr/1bpp3p/p3pp2/1p4p1/1b1P4/3BPNB1/PPPN1PPP/R2QK2R w KQkq - 4 8,squeeze blacks space and push bishop away
+15,c3,c2c3,rn1qk1nr/1bpp3p/p3pp2/1p4p1/1b1P4/2PBPNB1/PP1N1PPP/R2QK2R b KQkq - 0 8,squeeze blacks space and push bishop away
+16,Ba5,b4a5,rn1qk1nr/1bpp3p/p3pp2/bp4p1/3P4/2PBPNB1/PP1N1PPP/R2QK2R w KQkq - 1 9,squeeze blacks space and push bishop away
+17,b4,b2b4,rn1qk1nr/1bpp3p/p3pp2/bp4p1/1P1P4/2PBPNB1/P2N1PPP/R2QK2R b KQkq - 0 9,squeeze blacks space and push bishop away
+18,Bb6,a5b6,rn1qk1nr/1bpp3p/pb2pp2/1p4p1/1P1P4/2PBPNB1/P2N1PPP/R2QK2R w KQkq - 1 10,White castled and almost finished development and has great advantage in tempo
+19,O-O,e1g1,rn1qk1nr/1bpp3p/pb2pp2/1p4p1/1P1P4/2PBPNB1/P2N1PPP/R2Q1RK1 b kq - 2 10,White castled and almost finished development and has great advantage in tempo
+20,f5,f6f5,rn1qk1nr/1bpp3p/pb2p3/1p3pp1/1P1P4/2PBPNB1/P2N1PPP/R2Q1RK1 w kq - 0 11,instead of retreating (h3) decided to attack rook
+21,Be5,g3e5,rn1qk1nr/1bpp3p/pb2p3/1p2Bpp1/1P1P4/2PBPN2/P2N1PPP/R2Q1RK1 b kq - 1 11,instead of retreating (h3) decided to attack rook
+22,g4,g5g4,rn1qk1nr/1bpp3p/pb2p3/1p2Bp2/1P1P2p1/2PBPN2/P2N1PPP/R2Q1RK1 w kq - 0 12,a sac of the rook
+23,Bxh8,e5h8,rn1qk1nB/1bpp3p/pb2p3/1p3p2/1P1P2p1/2PBPN2/P2N1PPP/R2Q1RK1 b q - 0 12,happily accepted
+24,gxf3,g4f3,rn1qk1nB/1bpp3p/pb2p3/1p3p2/1P1P4/2PBPp2/P2N1PPP/R2Q1RK1 w q - 0 13,happily accepted
+25,Nxf3,d2f3,rn1qk1nB/1bpp3p/pb2p3/1p3p2/1P1P4/2PBPN2/P4PPP/R2Q1RK1 b q - 0 13,happily accepted
+26,Ke7,e8e7,rn1q2nB/1bppk2p/pb2p3/1p3p2/1P1P4/2PBPN2/P4PPP/R2Q1RK1 w - - 1 14,not quite sure about the thoughts here?
+27,Be5,h8e5,rn1q2n1/1bppk2p/pb2p3/1p2Bp2/1P1P4/2PBPN2/P4PPP/R2Q1RK1 b - - 2 14,at this point white looking to get bishop on h5 winning the queen if can rid the knight
+28,d6,d7d6,rn1q2n1/1bp1k2p/pb1pp3/1p2Bp2/1P1P4/2PBPN2/P4PPP/R2Q1RK1 w - - 0 15,at this point white looking to get bishop on h5 winning the queen if can rid the knight
+29,Bg3,e5g3,rn1q2n1/1bp1k2p/pb1pp3/1p3p2/1P1P4/2PBPNB1/P4PPP/R2Q1RK1 b - - 1 15,at this point white looking to get bishop on h5 winning the queen if can rid the knight
+30,Kd7,e7d7,rn1q2n1/1bpk3p/pb1pp3/1p3p2/1P1P4/2PBPNB1/P4PPP/R2Q1RK1 w - - 2 16,plan is lost put white adds support to the center and looks to advance e pawn
+31,Re1,f1e1,rn1q2n1/1bpk3p/pb1pp3/1p3p2/1P1P4/2PBPNB1/P4PPP/R2QR1K1 b - - 3 16,plan is lost put white adds support to the center and looks to advance e pawn
+32,Qf8,d8f8,rn3qn1/1bpk3p/pb1pp3/1p3p2/1P1P4/2PBPNB1/P4PPP/R2QR1K1 w - - 4 17,white not happy about blacks light coloured bishop - so looks work way round to a trade
+33,Be2,d3e2,rn3qn1/1bpk3p/pb1pp3/1p3p2/1P1P4/2P1PNB1/P3BPPP/R2QR1K1 b - - 5 17,white not happy about blacks light coloured bishop - so looks work way round to a trade
+34,Qg7,f8g7,rn4n1/1bpk2qp/pb1pp3/1p3p2/1P1P4/2P1PNB1/P3BPPP/R2QR1K1 w - - 6 18,pressre mouthing on g2
+35,Nh4,f3h4,rn4n1/1bpk2qp/pb1pp3/1p3p2/1P1P3N/2P1P1B1/P3BPPP/R2QR1K1 b - - 7 18,white looks to rid the light bishops
+36,Kc8,d7c8,rnk3n1/1bp3qp/pb1pp3/1p3p2/1P1P3N/2P1P1B1/P3BPPP/R2QR1K1 w - - 8 19,black plays into whites hands
+37,Bf3,e2f3,rnk3n1/1bp3qp/pb1pp3/1p3p2/1P1P3N/2P1PBB1/P4PPP/R2QR1K1 b - - 9 19,atlast white can breath
+38,Ne7,g8e7,rnk5/1bp1n1qp/pb1pp3/1p3p2/1P1P3N/2P1PBB1/P4PPP/R2QR1K1 w - - 10 20,another strange move by black as forces king into a corner
+39,Bxb7+,f3b7,rnk5/1Bp1n1qp/pb1pp3/1p3p2/1P1P3N/2P1P1B1/P4PPP/R2QR1K1 b - - 0 20,blacks king underpressure
+40,Kxb7,c8b7,rn6/1kp1n1qp/pb1pp3/1p3p2/1P1P3N/2P1P1B1/P4PPP/R2QR1K1 w - - 0 21,blacks king underpressure
+41,Qf3+,d1f3,rn6/1kp1n1qp/pb1pp3/1p3p2/1P1P3N/2P1PQB1/P4PPP/R3R1K1 b - - 1 21,blacks king underpressure
+42,Ka7,b7a7,rn6/k1p1n1qp/pb1pp3/1p3p2/1P1P3N/2P1PQB1/P4PPP/R3R1K1 w - - 2 22,blacks king underpressure
+43,e4,e3e4,rn6/k1p1n1qp/pb1pp3/1p3p2/1P1PP2N/2P2QB1/P4PPP/R3R1K1 b - - 0 22,looking to open e file
+44,Nd7,b8d7,r7/k1pnn1qp/pb1pp3/1p3p2/1P1PP2N/2P2QB1/P4PPP/R3R1K1 w - - 1 23,looking to open e file

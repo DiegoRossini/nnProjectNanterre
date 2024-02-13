@@ -1,0 +1,61 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,closed Sicilian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,closed Sicilian.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,closed Sicilian.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,closed Sicilian.
+5,Be2,f1e2,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPPBPPP/RNBQK2R b KQkq - 1 3,closed Sicilian.
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/5N2/PPPPBPPP/RNBQK2R w KQkq - 2 4,castled early!
+7,d3,d2d3,rnbqkb1r/pp2pppp/3p1n2/2p5/4P3/3P1N2/PPP1BPPP/RNBQK2R b KQkq - 0 4,castled early!
+8,Nc6,b8c6,r1bqkb1r/pp2pppp/2np1n2/2p5/4P3/3P1N2/PPP1BPPP/RNBQK2R w KQkq - 1 5,castled early!
+9,O-O,e1g1,r1bqkb1r/pp2pppp/2np1n2/2p5/4P3/3P1N2/PPP1BPPP/RNBQ1RK1 b kq - 2 5,castled early!
+10,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/2p5/4P3/3P1N2/PPP1BPPP/RNBQ1RK1 w kq - 0 6,"g6 was to ""better guard my king"""
+11,Nc3,b1c3,r1bqkb1r/pp2pp1p/2np1np1/2p5/4P3/2NP1N2/PPP1BPPP/R1BQ1RK1 b kq - 1 6,"g6 was to ""better guard my king"""
+12,Bg7,f8g7,r1bqk2r/pp2ppbp/2np1np1/2p5/4P3/2NP1N2/PPP1BPPP/R1BQ1RK1 w kq - 2 7,"g6 was to ""better guard my king"""
+13,Bd2,c1d2,r1bqk2r/pp2ppbp/2np1np1/2p5/4P3/2NP1N2/PPPBBPPP/R2Q1RK1 b kq - 3 7,plan is to go f4 f5 g4
+14,a6,a7a6,r1bqk2r/1p2ppbp/p1np1np1/2p5/4P3/2NP1N2/PPPBBPPP/R2Q1RK1 w kq - 0 8,plan is to go f4 f5 g4
+15,h3,h2h3,r1bqk2r/1p2ppbp/p1np1np1/2p5/4P3/2NP1N1P/PPPBBPP1/R2Q1RK1 b kq - 0 8,plan is to go f4 f5 g4
+16,O-O,e8g8,r1bq1rk1/1p2ppbp/p1np1np1/2p5/4P3/2NP1N1P/PPPBBPP1/R2Q1RK1 w - - 1 9,plan is to go f4 f5 g4
+17,Nh2,f3h2,r1bq1rk1/1p2ppbp/p1np1np1/2p5/4P3/2NP3P/PPPBBPPN/R2Q1RK1 b - - 2 9,plan is to go f4 f5 g4
+18,b5,b7b5,r1bq1rk1/4ppbp/p1np1np1/1pp5/4P3/2NP3P/PPPBBPPN/R2Q1RK1 w - - 0 10,attacked on the queenside
+19,f4,f2f4,r1bq1rk1/4ppbp/p1np1np1/1pp5/4PP2/2NP3P/PPPBB1PN/R2Q1RK1 b - - 0 10,threating nxe2+ than Bxa1
+20,b4,b5b4,r1bq1rk1/4ppbp/p1np1np1/2p5/1p2PP2/2NP3P/PPPBB1PN/R2Q1RK1 w - - 0 11,threating nxe2+ than Bxa1
+21,Na4,c3a4,r1bq1rk1/4ppbp/p1np1np1/2p5/Np2PP2/3P3P/PPPBB1PN/R2Q1RK1 b - - 1 11,threating nxe2+ than Bxa1
+22,Nd4,c6d4,r1bq1rk1/4ppbp/p2p1np1/2p5/Np1nPP2/3P3P/PPPBB1PN/R2Q1RK1 w - - 2 12,threating nxe2+ than Bxa1
+23,b3,b2b3,r1bq1rk1/4ppbp/p2p1np1/2p5/Np1nPP2/1P1P3P/P1PBB1PN/R2Q1RK1 b - - 0 12,threating nxe2+ than Bxa1
+24,Ne8,f6e8,r1bqnrk1/4ppbp/p2p2p1/2p5/Np1nPP2/1P1P3P/P1PBB1PN/R2Q1RK1 w - - 1 13,threating nxe2+ than Bxa1
+25,Rb1,a1b1,r1bqnrk1/4ppbp/p2p2p1/2p5/Np1nPP2/1P1P3P/P1PBB1PN/1R1Q1RK1 b - - 2 13,this is to get rid of the a3 defender so i can go na3 with a better game
+26,Bd7,c8d7,r2qnrk1/3bppbp/p2p2p1/2p5/Np1nPP2/1P1P3P/P1PBB1PN/1R1Q1RK1 w - - 3 14,this is to get rid of the a3 defender so i can go na3 with a better game
+27,Nb2,a4b2,r2qnrk1/3bppbp/p2p2p1/2p5/1p1nPP2/1P1P3P/PNPBB1PN/1R1Q1RK1 b - - 4 14,this is to get rid of the a3 defender so i can go na3 with a better game
+28,Nc7,e8c7,r2q1rk1/2nbppbp/p2p2p1/2p5/1p1nPP2/1P1P3P/PNPBB1PN/1R1Q1RK1 w - - 5 15,this is to get rid of the a3 defender so i can go na3 with a better game
+29,Nc4,b2c4,r2q1rk1/2nbppbp/p2p2p1/2p5/1pNnPP2/1P1P3P/P1PBB1PN/1R1Q1RK1 b - - 6 15,this is to get rid of the a3 defender so i can go na3 with a better game
+30,Ncb5,c7b5,r2q1rk1/3bppbp/p2p2p1/1np5/1pNnPP2/1P1P3P/P1PBB1PN/1R1Q1RK1 w - - 7 16,this is to get rid of the a3 defender so i can go na3 with a better game
+31,Nf3,h2f3,r2q1rk1/3bppbp/p2p2p1/1np5/1pNnPP2/1P1P1N1P/P1PBB1P1/1R1Q1RK1 b - - 8 16,this is to get rid of the a3 defender so i can go na3 with a better game
+32,Be6,d7e6,r2q1rk1/4ppbp/p2pb1p1/1np5/1pNnPP2/1P1P1N1P/P1PBB1P1/1R1Q1RK1 w - - 9 17,this is to get rid of the a3 defender so i can go na3 with a better game
+33,Nxd4,f3d4,r2q1rk1/4ppbp/p2pb1p1/1np5/1pNNPP2/1P1P3P/P1PBB1P1/1R1Q1RK1 b - - 0 17,"ok... na3 rc1 Bb2!? wins the exchange but, my king side is weak"
+34,Bxd4+,g7d4,r2q1rk1/4pp1p/p2pb1p1/1np5/1pNbPP2/1P1P3P/P1PBB1P1/1R1Q1RK1 w - - 0 18,"ok... na3 rc1 Bb2!? wins the exchange but, my king side is weak"
+35,Kh1,g1h1,r2q1rk1/4pp1p/p2pb1p1/1np5/1pNbPP2/1P1P3P/P1PBB1P1/1R1Q1R1K b - - 1 18,"ok... na3 rc1 Bb2!? wins the exchange but, my king side is weak"
+36,Bxc4,e6c4,r2q1rk1/4pp1p/p2p2p1/1np5/1pbbPP2/1P1P3P/P1PBB1P1/1R1Q1R1K w - - 0 19,"ok... na3 rc1 Bb2!? wins the exchange but, my king side is weak"
+37,bxc4,b3c4,r2q1rk1/4pp1p/p2p2p1/1np5/1pPbPP2/3P3P/P1PBB1P1/1R1Q1R1K b - - 0 19,"ok... na3 rc1 Bb2!? wins the exchange but, my king side is weak"
+38,Nc3,b5c3,r2q1rk1/4pp1p/p2p2p1/2p5/1pPbPP2/2nP3P/P1PBB1P1/1R1Q1R1K w - - 1 20,!! if with the bishop? no open lines! no way to attack! not now!! the a2 pawn is weak!!!
+39,Bxc3,d2c3,r2q1rk1/4pp1p/p2p2p1/2p5/1pPbPP2/2BP3P/P1P1B1P1/1R1Q1R1K b - - 0 20,!! if with the bishop? no open lines! no way to attack! not now!! the a2 pawn is weak!!!
+40,bxc3,b4c3,r2q1rk1/4pp1p/p2p2p1/2p5/2PbPP2/2pP3P/P1P1B1P1/1R1Q1R1K w - - 0 21,!! if with the bishop? no open lines! no way to attack! not now!! the a2 pawn is weak!!!
+41,f5,f4f5,r2q1rk1/4pp1p/p2p2p1/2p2P2/2PbP3/2pP3P/P1P1B1P1/1R1Q1R1K b - - 0 21,"forced, if the king??????? than rxb8+!"
+42,Rb8,a8b8,1r1q1rk1/4pp1p/p2p2p1/2p2P2/2PbP3/2pP3P/P1P1B1P1/1R1Q1R1K w - - 1 22,"forced, if the king??????? than rxb8+!"
+43,fxg6,f5g6,1r1q1rk1/4pp1p/p2p2P1/2p5/2PbP3/2pP3P/P1P1B1P1/1R1Q1R1K b - - 0 22,"forced, if the king??????? than rxb8+!"
+44,fxg6,f7g6,1r1q1rk1/4p2p/p2p2p1/2p5/2PbP3/2pP3P/P1P1B1P1/1R1Q1R1K w - - 0 23,"forced, if the king??????? than rxb8+!"
+45,Qc1,d1c1,1r1q1rk1/4p2p/p2p2p1/2p5/2PbP3/2pP3P/P1P1B1P1/1RQ2R1K b - - 1 23,"forced, if the king??????? than rxb8+!"
+46,Qa5,d8a5,1r3rk1/4p2p/p2p2p1/q1p5/2PbP3/2pP3P/P1P1B1P1/1RQ2R1K w - - 2 24,"forced, if the king??????? than rxb8+!"
+47,Rxf8+,f1f8,1r3Rk1/4p2p/p2p2p1/q1p5/2PbP3/2pP3P/P1P1B1P1/1RQ4K b - - 0 24,"forced, if the king??????? than rxb8+!"
+48,Rxf8,b8f8,5rk1/4p2p/p2p2p1/q1p5/2PbP3/2pP3P/P1P1B1P1/1RQ4K w - - 0 25,"forced, if the king??????? than rxb8+!"
+49,a3,a2a3,5rk1/4p2p/p2p2p1/q1p5/2PbP3/P1pP3P/2P1B1P1/1RQ4K b - - 0 25,!!! a secret threat!!
+50,Qc7,a5c7,5rk1/2q1p2p/p2p2p1/2p5/2PbP3/P1pP3P/2P1B1P1/1RQ4K w - - 1 26,!!! a secret threat!!
+51,Qg5,c1g5,5rk1/2q1p2p/p2p2p1/2p3Q1/2PbP3/P1pP3P/2P1B1P1/1R5K b - - 2 26,!!! a secret threat!!
+52,Kg7,g8g7,5r2/2q1p1kp/p2p2p1/2p3Q1/2PbP3/P1pP3P/2P1B1P1/1R5K w - - 3 27,!!! a secret threat!!
+53,Bf3,e2f3,5r2/2q1p1kp/p2p2p1/2p3Q1/2PbP3/P1pP1B1P/2P3P1/1R5K b - - 4 27,!!! a secret threat!!
+54,Qd7,c7d7,5r2/3qp1kp/p2p2p1/2p3Q1/2PbP3/P1pP1B1P/2P3P1/1R5K w - - 5 28,!!! a secret threat!!
+55,Qd5,g5d5,5r2/3qp1kp/p2p2p1/2pQ4/2PbP3/P1pP1B1P/2P3P1/1R5K b - - 6 28,"??? this loses!! is threat is rb7 but, I'm one move ahead!!!"
+56,Rxf3,f8f3,8/3qp1kp/p2p2p1/2pQ4/2PbP3/P1pP1r1P/2P3P1/1R5K w - - 0 29,!!! he cant take if so i go qxh3 mate!! i'm up!!
+57,Rb7,b1b7,8/1R1qp1kp/p2p2p1/2pQ4/2PbP3/P1pP1r1P/2P3P1/7K b - - 1 29,??? he did not see my next idea! (do you?)
+58,Rxh3+,f3h3,8/1R1qp1kp/p2p2p1/2pQ4/2PbP3/P1pP3r/2P3P1/7K w - - 0 30,"!!!!!!!!!! resigns!! forced to take than Qxh3 mate!!        
+                              please leave a comment or two and rank it on the star system            
+                                                thank you!!!"

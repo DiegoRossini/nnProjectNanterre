@@ -1,0 +1,29 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nh3,g1h3,rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1,Rarely a good move.
+2,h5,h7h5,rnbqkbnr/ppppppp1/8/7p/8/7N/PPPPPPPP/RNBQKB1R w KQkq - 0 2,Rarely a good move.
+3,e4,e2e4,rnbqkbnr/ppppppp1/8/7p/4P3/7N/PPPP1PPP/RNBQKB1R b KQkq - 0 2,Rarely a good move.
+4,Rh6,h8h6,rnbqkbn1/ppppppp1/7r/7p/4P3/7N/PPPP1PPP/RNBQKB1R w KQq - 1 3,Rarely a good move.
+5,d4,d2d4,rnbqkbn1/ppppppp1/7r/7p/3PP3/7N/PPP2PPP/RNBQKB1R b KQq - 0 3,Nope.  Pd5 forks black's rook and knight.
+6,Re6,h6e6,rnbqkbn1/ppppppp1/4r3/7p/3PP3/7N/PPP2PPP/RNBQKB1R w KQq - 1 4,Nope.  Pd5 forks black's rook and knight.
+7,Bd3,f1d3,rnbqkbn1/ppppppp1/4r3/7p/3PP3/3B3N/PPP2PPP/RNBQK2R b KQq - 2 4,Nope.  Pd5 forks black's rook and knight.
+8,Nc6,b8c6,r1bqkbn1/ppppppp1/2n1r3/7p/3PP3/3B3N/PPP2PPP/RNBQK2R w KQq - 3 5,Nope.  Pd5 forks black's rook and knight.
+9,c3,c2c3,r1bqkbn1/ppppppp1/2n1r3/7p/3PP3/2PB3N/PP3PPP/RNBQK2R b KQq - 0 5,Nope.  Pd5 forks black's rook and knight.
+10,b6,b7b6,r1bqkbn1/p1ppppp1/1pn1r3/7p/3PP3/2PB3N/PP3PPP/RNBQK2R w KQq - 0 6,Still not too late for Pd5...
+11,Qxh5,d1h5,r1bqkbn1/p1ppppp1/1pn1r3/7Q/3PP3/2PB3N/PP3PPP/RNB1K2R b KQq - 0 6,Still not too late for Pd5...
+12,Nf6,g8f6,r1bqkb2/p1ppppp1/1pn1rn2/7Q/3PP3/2PB3N/PP3PPP/RNB1K2R w KQq - 1 7,Still not too late for Pd5...
+13,Qh8,h5h8,r1bqkb1Q/p1ppppp1/1pn1rn2/8/3PP3/2PB3N/PP3PPP/RNB1K2R b KQq - 2 7,Still not too late for Pd5...
+14,Nxe4,f6e4,r1bqkb1Q/p1ppppp1/1pn1r3/8/3Pn3/2PB3N/PP3PPP/RNB1K2R w KQq - 0 8,Still not too late for Pd5...
+15,d5,d4d5,r1bqkb1Q/p1ppppp1/1pn1r3/3P4/4n3/2PB3N/PP3PPP/RNB1K2R b KQq - 0 8,Yeah baby.  PxN followed by BxN.  Black's Calvary laid low by white's pikes.
+16,Rd6,e6d6,r1bqkb1Q/p1ppppp1/1pnr4/3P4/4n3/2PB3N/PP3PPP/RNB1K2R w KQq - 1 9,"Bd2 saves Rh1.  Or better still, casle."
+17,Bxe4,d3e4,r1bqkb1Q/p1ppppp1/1pnr4/3P4/4B3/2P4N/PP3PPP/RNB1K2R b KQq - 0 9,"Bd2 saves Rh1.  Or better still, casle."
+18,e5,e7e5,r1bqkb1Q/p1pp1pp1/1pnr4/3Pp3/4B3/2P4N/PP3PPP/RNB1K2R w KQq e6 0 10,"Bd2 saves Rh1.  Or better still, casle."
+19,dxc6,d5c6,r1bqkb1Q/p1pp1pp1/1pPr4/4p3/4B3/2P4N/PP3PPP/RNB1K2R b KQq - 0 10,"Bd2 saves Rh1.  Or better still, casle."
+20,dxc6,d7c6,r1bqkb1Q/p1p2pp1/1ppr4/4p3/4B3/2P4N/PP3PPP/RNB1K2R w KQq - 0 11,"Bd2 saves Rh1.  Or better still, casle."
+21,b4,b2b4,r1bqkb1Q/p1p2pp1/1ppr4/4p3/1P2B3/2P4N/P4PPP/RNB1K2R b KQq - 0 11,"Bd2 saves Rh1.  Or better still, casle."
+22,Rd1+,d6d1,r1bqkb1Q/p1p2pp1/1pp5/4p3/1P2B3/2P4N/P4PPP/RNBrK2R w KQq - 1 12,Bb2 protects the remaining rook.  Otherwise it stays trapped.
+23,Ke2,e1e2,r1bqkb1Q/p1p2pp1/1pp5/4p3/1P2B3/2P4N/P3KPPP/RNBr3R b q - 2 12,Bb2 protects the remaining rook.  Otherwise it stays trapped.
+24,Rxh1,d1h1,r1bqkb1Q/p1p2pp1/1pp5/4p3/1P2B3/2P4N/P3KPPP/RNB4r w q - 0 13,Bb2 protects the remaining rook.  Otherwise it stays trapped.
+25,Ba3,c1a3,r1bqkb1Q/p1p2pp1/1pp5/4p3/1P2B3/B1P4N/P3KPPP/RN5r b q - 1 13,Bb2 protects the remaining rook.  Otherwise it stays trapped.
+26,Qd1+,d8d1,r1b1kb1Q/p1p2pp1/1pp5/4p3/1P2B3/B1P4N/P3KPPP/RN1q3r w q - 2 14,
+27,Ke3,e2e3,r1b1kb1Q/p1p2pp1/1pp5/4p3/1P2B3/B1P1K2N/P4PPP/RN1q3r b q - 3 14,
+28,Re1#,h1e1,r1b1kb1Q/p1p2pp1/1pp5/4p3/1P2B3/B1P1K2N/P4PPP/RN1qr3 w q - 4 15,

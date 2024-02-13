@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"The Reti opening. This forces me to make a different move, as I would normally play e5, but the pawn would instantly be removed."
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2,"So I develop my queenside knight, instead. It contests the dark squares in the centre, and woul allow me to double-step my king's pawn, depending on the next move."
+3,d4,d2d4,r1bqkbnr/pppppppp/2n5/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,"He moves his queen's pawn two spaces, so this scuppers my plan. My king's pawn would be captured, and I'd be a pawn down."
+4,d5,d7d5,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,"So I move up my queen's pawn two spaces. Her bishop has some freedom of the h3-c8 diagonal, but the queen has not as many squares as I would have wanted her to control."
+5,Qd3,d1d3,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/3Q1N2/PPP1PPPP/RNB1KB1R b KQkq - 1 3,He moves his queen out to plan an assault. He now has more developed pieces.
+6,Nb4,c6b4,r1bqkbnr/ppp1pppp/8/3p4/1n1P4/3Q1N2/PPP1PPPP/RNB1KB1R w KQkq - 2 4,I decide to attack her with my knight. I might be over-developing here...
+7,Qb5+,d3b5,r1bqkbnr/ppp1pppp/8/1Q1p4/1n1P4/5N2/PPP1PPPP/RNB1KB1R b KQkq - 3 4,"...as the queen moves in to attack my king. I have four pieces to block the check here, and one was the right piece..."
+8,Qd7,d8d7,r1b1kbnr/pppqpppp/8/1Q1p4/1n1P4/5N2/PPP1PPPP/RNB1KB1R w KQkq - 4 5,"...but the queen was not one of them. I tried to be too clever here, attacking the queen..."
+9,Qxb4,b5b4,r1b1kbnr/pppqpppp/8/3p4/1Q1P4/5N2/PPP1PPPP/RNB1KB1R b KQkq - 0 5,"...when it was clearly leaving my knight en prise, and she captures it. I should have blocked with my knight. I didn't realise I could have used it instead of my queen."
+10,Qf5,d7f5,r1b1kbnr/ppp1pppp/8/3p1q2/1Q1P4/5N2/PPP1PPPP/RNB1KB1R w KQkq - 1 6,I move my free queen up to attack the pawn on c2. That was a bit of a brave move...
+11,Na3,b1a3,r1b1kbnr/ppp1pppp/8/3p1q2/1Q1P4/N4N2/PPP1PPPP/R1B1KB1R b KQkq - 2 6,"...but this was the obvious reply, developing the knight to cover it. I am allowing him do continue his development."
+12,Nf6,g8f6,r1b1kb1r/ppp1pppp/5n2/3p1q2/1Q1P4/N4N2/PPP1PPPP/R1B1KB1R w KQkq - 3 7,"So I bring out my remaining knight to try to help her, and to try to regain some control of the centre..."
+13,Qa5,b4a5,r1b1kb1r/ppp1pppp/5n2/Q2p1q2/3P4/N4N2/PPP1PPPP/R1B1KB1R b KQkq - 4 7,...and he eyes up my pawn on c7 with his queen...
+14,c6,c7c6,r1b1kb1r/pp2pppp/2p2n2/Q2p1q2/3P4/N4N2/PPP1PPPP/R1B1KB1R w KQkq - 0 8,"...so I move it out of the way, also to cover my queen's pawn."
+15,e3,e2e3,r1b1kb1r/pp2pppp/2p2n2/Q2p1q2/3P4/N3PN2/PPP2PPP/R1B1KB1R b KQkq - 0 8,"He creates a similar chain by moving his king's pawn one square, to cover his queen's pawn. His light-square bishop now has some freedom, and could launch an attack down the f1-a6 diagonal."
+16,b6,b7b6,r1b1kb1r/p3pppp/1pp2n2/Q2p1q2/3P4/N3PN2/PPP2PPP/R1B1KB1R w KQkq - 0 9,"I move up my b-pawn to attack the queen, and to free my bishop form the shorter diagonal..."
+17,Qc3,a5c3,r1b1kb1r/p3pppp/1pp2n2/3p1q2/3P4/N1Q1PN2/PPP2PPP/R1B1KB1R b KQkq - 1 9,...forcing her back to eye up my c-pawn from in front. I need to think of a plan to defend it...
+18,Ne4,f6e4,r1b1kb1r/p3pppp/1pp5/3p1q2/3Pn3/N1Q1PN2/PPP2PPP/R1B1KB1R w KQkq - 2 10,"...but again I was trying to be too clever, attacking her with my knight..."
+19,Qxc6+,c3c6,r1b1kb1r/p3pppp/1pQ5/3p1q2/3Pn3/N3PN2/PPP2PPP/R1B1KB1R b KQkq - 0 10,"...when she was obviously going to remove my pawn, and fork my king and rook..."
+20,Kd8,e8d8,r1bk1b1r/p3pppp/1pQ5/3p1q2/3Pn3/N3PN2/PPP2PPP/R1B1KB1R w KQ - 1 11,...so I move my king into my queen's starting position to get closer to the bishop...

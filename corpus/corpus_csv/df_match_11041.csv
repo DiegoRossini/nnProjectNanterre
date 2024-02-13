@@ -1,0 +1,54 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings pawn opening.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Scholars mate? White should be careful not to under develop.
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,Scholars mate? White should be careful not to under develop.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,Now it's mate in one if black doesn't respond correctly.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,Now it's mate in one if black doesn't respond correctly.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,Stops scholars mate. White can't play Qxf6 because blacks queen is prepared.
+7,d3,d2d3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR b KQkq - 0 4,Black might need this pawn here later to bring out his light squared bishop.
+8,d6,d7d6,r1bqkb1r/ppp2ppp/2np1n2/4p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 0 5,Black might need this pawn here later to bring out his light squared bishop.
+9,Bg5,c1g5,r1bqkb1r/ppp2ppp/2np1n2/4p1B1/2B1P3/3P1Q2/PPP2PPP/RN2K1NR b KQkq - 1 5,Backing up blacks knight. Now the knight is attacked twice and defended 3 times.
+10,Be7,f8e7,r1bqk2r/ppp1bppp/2np1n2/4p1B1/2B1P3/3P1Q2/PPP2PPP/RN2K1NR w KQkq - 2 6,Backing up blacks knight. Now the knight is attacked twice and defended 3 times.
+11,Nc3,b1c3,r1bqk2r/ppp1bppp/2np1n2/4p1B1/2B1P3/2NP1Q2/PPP2PPP/R3K1NR b KQkq - 3 6,Getting the king to a safer place.
+12,O-O,e8g8,r1bq1rk1/ppp1bppp/2np1n2/4p1B1/2B1P3/2NP1Q2/PPP2PPP/R3K1NR w KQ - 4 7,Getting the king to a safer place.
+13,Bxf6,g5f6,r1bq1rk1/ppp1bppp/2np1B2/4p3/2B1P3/2NP1Q2/PPP2PPP/R3K1NR b KQ - 0 7,Attacking the bishop but not seeing the danger that awaits.
+14,Bxf6,e7f6,r1bq1rk1/ppp2ppp/2np1b2/4p3/2B1P3/2NP1Q2/PPP2PPP/R3K1NR w KQ - 0 8,Attacking the bishop but not seeing the danger that awaits.
+15,Nd5,c3d5,r1bq1rk1/ppp2ppp/2np1b2/3Np3/2B1P3/3P1Q2/PPP2PPP/R3K1NR b KQ - 1 8,Attacking the bishop but not seeing the danger that awaits.
+16,Nd4,c6d4,r1bq1rk1/ppp2ppp/3p1b2/3Np3/2BnP3/3P1Q2/PPP2PPP/R3K1NR w KQ - 2 9,Attacking the queen. This is why they tell you not to bring out your queen early on in the game. The knight has a good outpost here.
+17,Qg3,f3g3,r1bq1rk1/ppp2ppp/3p1b2/3Np3/2BnP3/3P2Q1/PPP2PPP/R3K1NR b KQ - 3 9,The queen tries to run but runs the wrong way.
+18,Bh4,f6h4,r1bq1rk1/ppp2ppp/3p4/3Np3/2BnP2b/3P2Q1/PPP2PPP/R3K1NR w KQ - 4 10,The dark square bishop chases.
+19,Qe3,g3e3,r1bq1rk1/ppp2ppp/3p4/3Np3/2BnP2b/3PQ3/PPP2PPP/R3K1NR b KQ - 5 10,A blunder by black but the queen still has no where to run.
+20,Bg5,h4g5,r1bq1rk1/ppp2ppp/3p4/3Np1b1/2BnP3/3PQ3/PPP2PPP/R3K1NR w KQ - 6 11,A blunder by black but the queen still has no where to run.
+21,Qg3,e3g3,r1bq1rk1/ppp2ppp/3p4/3Np1b1/2BnP3/3P2Q1/PPP2PPP/R3K1NR b KQ - 7 11,A royal fork. Black is actually forking three pieces.
+22,Bh4,g5h4,r1bq1rk1/ppp2ppp/3p4/3Np3/2BnP2b/3P2Q1/PPP2PPP/R3K1NR w KQ - 8 12,A royal fork. Black is actually forking three pieces.
+23,Qe3,g3e3,r1bq1rk1/ppp2ppp/3p4/3Np3/2BnP2b/3PQ3/PPP2PPP/R3K1NR b KQ - 9 12,A royal fork. Black is actually forking three pieces.
+24,Nxc2+,d4c2,r1bq1rk1/ppp2ppp/3p4/3Np3/2B1P2b/3PQ3/PPn2PPP/R3K1NR w KQ - 0 13,A royal fork. Black is actually forking three pieces.
+25,Ke2,e1e2,r1bq1rk1/ppp2ppp/3p4/3Np3/2B1P2b/3PQ3/PPn1KPPP/R5NR b - - 1 13,White should look twice before crossing the street.
+26,Nxe3,c2e3,r1bq1rk1/ppp2ppp/3p4/3Np3/2B1P2b/3Pn3/PP2KPPP/R5NR w - - 0 14,White should look twice before crossing the street.
+27,Kxe3,e2e3,r1bq1rk1/ppp2ppp/3p4/3Np3/2B1P2b/3PK3/PP3PPP/R5NR b - - 0 14,White should look twice before crossing the street.
+28,Bg5+,h4g5,r1bq1rk1/ppp2ppp/3p4/3Np1b1/2B1P3/3PK3/PP3PPP/R5NR w - - 1 15,White should look twice before crossing the street.
+29,Ke2,e3e2,r1bq1rk1/ppp2ppp/3p4/3Np1b1/2B1P3/3P4/PP2KPPP/R5NR b - - 2 15,White should look twice before crossing the street.
+30,Bg4+,c8g4,r2q1rk1/ppp2ppp/3p4/3Np1b1/2B1P1b1/3P4/PP2KPPP/R5NR w - - 3 16,White should look twice before crossing the street.
+31,Nf3,g1f3,r2q1rk1/ppp2ppp/3p4/3Np1b1/2B1P1b1/3P1N2/PP2KPPP/R6R b - - 4 16,White should look twice before crossing the street.
+32,h6,h7h6,r2q1rk1/ppp2pp1/3p3p/3Np1b1/2B1P1b1/3P1N2/PP2KPPP/R6R w - - 0 17,White should look twice before crossing the street.
+33,h3,h2h3,r2q1rk1/ppp2pp1/3p3p/3Np1b1/2B1P1b1/3P1N1P/PP2KPP1/R6R b - - 0 17,White should look twice before crossing the street.
+34,Bxf3+,g4f3,r2q1rk1/ppp2pp1/3p3p/3Np1b1/2B1P3/3P1b1P/PP2KPP1/R6R w - - 0 18,White should look twice before crossing the street.
+35,gxf3,g2f3,r2q1rk1/ppp2pp1/3p3p/3Np1b1/2B1P3/3P1P1P/PP2KP2/R6R b - - 0 18,White should look twice before crossing the street.
+36,c6,c7c6,r2q1rk1/pp3pp1/2pp3p/3Np1b1/2B1P3/3P1P1P/PP2KP2/R6R w - - 0 19,White should look twice before crossing the street.
+37,Nb4,d5b4,r2q1rk1/pp3pp1/2pp3p/4p1b1/1NB1P3/3P1P1P/PP2KP2/R6R b - - 1 19,White should look twice before crossing the street.
+38,d5,d6d5,r2q1rk1/pp3pp1/2p4p/3pp1b1/1NB1P3/3P1P1P/PP2KP2/R6R w - - 0 20,White should look twice before crossing the street.
+39,exd5,e4d5,r2q1rk1/pp3pp1/2p4p/3Pp1b1/1NB5/3P1P1P/PP2KP2/R6R b - - 0 20,White should look twice before crossing the street.
+40,cxd5,c6d5,r2q1rk1/pp3pp1/7p/3pp1b1/1NB5/3P1P1P/PP2KP2/R6R w - - 0 21,White should look twice before crossing the street.
+41,Nxd5,b4d5,r2q1rk1/pp3pp1/7p/3Np1b1/2B5/3P1P1P/PP2KP2/R6R b - - 0 21,White should look twice before crossing the street.
+42,a6,a7a6,r2q1rk1/1p3pp1/p6p/3Np1b1/2B5/3P1P1P/PP2KP2/R6R w - - 0 22,White should look twice before crossing the street.
+43,Nb6,d5b6,r2q1rk1/1p3pp1/pN5p/4p1b1/2B5/3P1P1P/PP2KP2/R6R b - - 1 22,White should look twice before crossing the street.
+44,Qxb6,d8b6,r4rk1/1p3pp1/pq5p/4p1b1/2B5/3P1P1P/PP2KP2/R6R w - - 0 23,Now the queen is lined up with the b pawn and can check the king.
+45,b3,b2b3,r4rk1/1p3pp1/pq5p/4p1b1/2B5/1P1P1P1P/P3KP2/R6R b - - 0 23,White notices this and creates a pawn chain.
+46,Rad8,a8d8,3r1rk1/1p3pp1/pq5p/4p1b1/2B5/1P1P1P1P/P3KP2/R6R w - - 1 24,The move that leads to distruction.
+47,f4,f3f4,3r1rk1/1p3pp1/pq5p/4p1b1/2B2P2/1P1P3P/P3KP2/R6R b - - 0 24,The move that leads to distruction.
+48,Bxf4,g5f4,3r1rk1/1p3pp1/pq5p/4p3/2B2b2/1P1P3P/P3KP2/R6R w - - 0 25,The move that leads to distruction.
+49,f3,f2f3,3r1rk1/1p3pp1/pq5p/4p3/2B2b2/1P1P1P1P/P3K3/R6R b - - 0 25,The move that leads to distruction.
+50,Qd4,b6d4,3r1rk1/1p3pp1/p6p/4p3/2Bq1b2/1P1P1P1P/P3K3/R6R w - - 1 26,Poor move. Black is attacking the rook but needs to be attacking the king.
+51,Rhg1,h1g1,3r1rk1/1p3pp1/p6p/4p3/2Bq1b2/1P1P1P1P/P3K3/R5R1 b - - 2 26,Now the correct move!
+52,Qe3+,d4e3,3r1rk1/1p3pp1/p6p/4p3/2B2b2/1P1PqP1P/P3K3/R5R1 w - - 3 27,Now the correct move!
+53,Kd1,e2d1,3r1rk1/1p3pp1/p6p/4p3/2B2b2/1P1PqP1P/P7/R2K2R1 b - - 4 27,If he had have played Kf1 here then his life would have been prolonged for a few more moves. Qd2#

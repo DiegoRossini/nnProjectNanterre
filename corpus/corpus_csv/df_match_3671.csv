@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"Traditional opening move, takes the center."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"1. . .  Nf6 signals an Indian defense. Per Wikipedia,  ""Indian defenses have been the most popular Black replies to 1.d4 because they offer an unbalanced game with chances for both sides. The usual White second move is 2.c4, grabbing a larger share of the center and allowing the move Nc3, to prepare for moving the e-pawn to e4 without blocking the c-pawn.""
+
+My comment to White:   I usually consult two resources at this point. The ""Game DB"" below, and 365chess.com to look at typical choices made."
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"2 c4 is the most frequent move here, preparing for Nc3, influencing the center, preparing for e4.
+
+The most frequent responses are e6, g6 and c5. 
+
+e6 frees my King's bishop and leads to many other Indian games.  g6 prepares the fianchetto of my King's bishop and perhaps the aggressive King's Indian.  c5 is the Benoni and promises an immediate fight for the center. Risky for Black, and not much used in top grandmaster play."
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"me: Now, tell me, per the Game DB function and the ""World"" database, what are the three most frequent responses at this point?
+
+jt7744: Nc3, Nf3 and g3 is the three most frequent responses at this point but Bf4 has a higher % of wining for white
+
+me: Yes, you're right on the three most frequent responses. But Bf4 was played in just six games. Anything can happen in just a small sample. I wouldn't rely on it."
+5,Bf4,c1f4,rnbqkb1r/pppp1ppp/4pn2/8/2PP1B2/8/PP2PPPP/RN1QKBNR b KQkq - 1 3,"Now I can imagine . . . c5; 4 d5 d6; and 5 Qa4+, Qd7; 6 Qxd7+, Bxd7, or 5 Nc3, e5; 6 Bd2, Be7; 7 e4, O-O; 8 Nf3, Na6
+
+To its credit White's Queen Bishop is developed and sweeps from the center, but I will knock him back with an eventual e5, and he loses time escaping to d2.
+
+Or from the World database, . . . c5, 4 e3, Qb6; % Qb3, Qx b3; 6 axb3, Nc6; 7 Nf3, Nh5 attacking the Bishop.  The computer analysis suggests: 3. Nc3 Bb4."
+6,Bb4+,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP1B2/8/PP2PPPP/RN1QKBNR w KQkq - 2 4,I develop my Bishop with tempo
+7,Nc3,b1c3,rnbqk2r/pppp1ppp/4pn2/8/1bPP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4,Nice.  Developes your Knight and parries the Check.
+8,c5,c7c5,rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 0 5,"c5 to attack the Center
+
+me: So now the database is not so helpful as there are few games available, though we can at east look at the moves others have made.
+me: So do you take? Or not? The principle here is whether there is a tactical advantage to take. If not, you lose your d pawn to the flank, and miss an opportunity to develop your pieces."
+9,a3,a2a3,rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP1B2/P1N5/1P2PPPP/R2QKBNR b KQkq - 0 5,"a3?
+
+me: So, if Bxc3, bxc3, Qa5, then Bd2, and I am better developed and you've got doubled up pawns. I prefer Black's position.
+me: If I were White, instead of a3, I'd prefer Nf3, developing a piece and protecting d4."
+10,Bxc3+,b4c3,rnbqk2r/pp1p1ppp/4pn2/2p5/2PP1B2/P1b5/1P2PPPP/R2QKBNR w KQkq - 0 6,"Bishop takes rather than retreating and hiding at b6.  Black will have more pieces developed, be ready to castle, and not have doubled pawns."
+11,bxc3,b2c3,rnbqk2r/pp1p1ppp/4pn2/2p5/2PP1B2/P1P5/4PPPP/R2QKBNR b KQkq - 0 6,"Developing my Queen, threatening Qxc3+."
+12,Qa5,d8a5,rnb1k2r/pp1p1ppp/4pn2/q1p5/2PP1B2/P1P5/4PPPP/R2QKBNR w KQkq - 1 7,"Developing my Queen, threatening Qxc3+."
+13,dxc5,d4c5,rnb1k2r/pp1p1ppp/4pn2/q1P5/2P2B2/P1P5/4PPPP/R2QKBNR b KQkq - 0 7,"No Bd2?
+
+Oh no!  Triple isolated pawns!  How will White defend these long term?
+
+me: What if Qxc3+, Bd2; Qxc4?
+me: Or Nc6 and I develop and attack the isolated pawns later?
+
+Nc6 would support e5, pushing back your Bishop while I develop and take the center.  The computer suggests: 7. Bd2 O-O 8. Nf3 b6 9. e3 Bb7 10. Bd3 Be4 11. Bxe4 Nxe4 12. O-O Nc6 13. d5 Nxd2 14. Qxd2"
+14,Nc6,b8c6,r1b1k2r/pp1p1ppp/2n1pn2/q1P5/2P2B2/P1P5/4PPPP/R2QKBNR w KQkq - 1 8,"me: Nf3 develops a piece.
+me: Prevents e5? Not really. e5, Nxe5; Qxc3+. If Bishop takes, Knight takes and Q x c3+, taking Rook."
+15,Nf3,g1f3,r1b1k2r/pp1p1ppp/2n1pn2/q1P5/2P2B2/P1P2N2/4PPPP/R2QKB1R b KQkq - 2 8,"me: Nf3 develops a piece.
+me: Prevents e5? Not really. e5, Nxe5; Qxc3+. If Bishop takes, Knight takes and Q x c3+, taking Rook."
+16,Qxc3+,a5c3,r1b1k2r/pp1p1ppp/2n1pn2/2P5/2P2B2/P1q2N2/4PPPP/R2QKB1R w KQkq - 0 9,"me: You're really forced to Bd2. Do you see why?
+me: Then I take your pawn at c4. How do you threaten me then?"
+17,Bd2,f4d2,r1b1k2r/pp1p1ppp/2n1pn2/2P5/2P5/P1q2N2/3BPPPP/R2QKB1R b KQkq - 1 9,"Bd2, not Qd2, or I take the rook at a1."
+18,Qxc4,c3c4,r1b1k2r/pp1p1ppp/2n1pn2/2P5/2q5/P4N2/3BPPPP/R2QKB1R w KQkq - 0 10,"I grab a pawn, but I won't be able to stay here for long."
+19,Rc1,a1c1,r1b1k2r/pp1p1ppp/2n1pn2/2P5/2q5/P4N2/3BPPPP/2RQKB1R b Kkq - 1 10,"Rc1 is good, threatens the Queen, protects th c pawn, though it will eventually go away, ideally in an exchange at b6 or d6."
+20,Qd5,c4d5,r1b1k2r/pp1p1ppp/2n1pn2/2Pq4/8/P4N2/3BPPPP/2RQKB1R w Kkq - 2 11,Nowhere better to go.
+21,e3,e2e3,r1b1k2r/pp1p1ppp/2n1pn2/2Pq4/8/P3PN2/3B1PPP/2RQKB1R b Kkq - 0 11,"Yes! e3 opens a ""hole"" for the King's Bishop and aims at the center."
+22,O-O,e8g8,r1b2rk1/pp1p1ppp/2n1pn2/2Pq4/8/P3PN2/3B1PPP/2RQKB1R w K - 1 12,"Black castles.  Black has a good game, more than equalized. Pawns are connected, knights developed, and the Queen is in the center but not in a stable spot.  Black's Queen Bishop is locked in and must be freed, probably with b6 or d6.
+
+White needs to develop, probably with Be2 or Qc2.  I favor Be2, so that White can castle.
+
+How about Bc4?  Black would then take the c-pawn.  But, what if White then takes the e pawn, exposing Black's Queen to the rook at c1?  Well, Black could grab the pawn at a3, and still be a pawn ahead.  Maybe better, if White is thinking so aggressively, is to prepare with Qa4."

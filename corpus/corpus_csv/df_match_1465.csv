@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The ""weak move"" white should avoid."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The ""weak move"" white should avoid."
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"The ""weak move"" white should avoid."
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,"The ""weak move"" white should avoid."
+5,c4,c2c4,rnbqkb1r/ppp1pppp/5n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3,"The ""weak move"" white should avoid."
+6,e6,e7e6,rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4,Icelandic.
+7,dxe6,d5e6,rnbqkb1r/ppp2ppp/4Pn2/8/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 4,"Here, white is strangely weak."
+8,Bxe6,c8e6,rn1qkb1r/ppp2ppp/4bn2/8/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 5,"Here, white is strangely weak."
+9,d4,d2d4,rn1qkb1r/ppp2ppp/4bn2/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,"Looks good, doesn't it?"
+10,Bb4+,f8b4,rn1qk2r/ppp2ppp/4bn2/8/1bPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6,"Here, if Bd2, Qxd4, threatening mate on f2"
+11,Nc3,b1c3,rn1qk2r/ppp2ppp/4bn2/8/1bPP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 6,"Here, if Bd2, Qxd4, threatening mate on f2"
+12,Ne4,f6e4,rn1qk2r/ppp2ppp/4b3/8/1bPPn3/2N5/PP3PPP/R1BQKBNR w KQkq - 3 7,"Here, if Bd2, Qxd4, threatening mate on f2"
+13,d5,d4d5,rn1qk2r/ppp2ppp/4b3/3P4/1bP1n3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 7,A try.
+14,Qf6,d8f6,rn2k2r/ppp2ppp/4bq2/3P4/1bP1n3/2N5/PP3PPP/R1BQKBNR w KQkq - 1 8,"Mate is threatened, while the N is untouchable. Here, white has two moves. The one he played, Qc2, looks ok for the moment, but I wonder to see qhat happens if he plays Qa4+."
+15,Qc2,d1c2,rn2k2r/ppp2ppp/4bq2/3P4/1bP1n3/2N5/PPQ2PPP/R1B1KBNR b KQkq - 2 8,White loses this knight or the Rook a1 after Bxc3+.
+16,Nxc3,e4c3,rn2k2r/ppp2ppp/4bq2/3P4/1bP5/2n5/PPQ2PPP/R1B1KBNR w KQkq - 0 9,White loses this knight or the Rook a1 after Bxc3+.
+17,Bd2,c1d2,rn2k2r/ppp2ppp/4bq2/3P4/1bP5/2n5/PPQB1PPP/R3KBNR b KQkq - 1 9,white now threatens to take back the knigh. It can't go away without exposing the Bb5 to a loss.
+18,Bf5,e6f5,rn2k2r/ppp2ppp/5q2/3P1b2/1bP5/2n5/PPQB1PPP/R3KBNR w KQkq - 2 10,"If Ba4, b3 was strong. I could have taken the e column with check inmediately (whit can't interpose the dsb with Be3, but it is not a very strong check unless I can further press on e2 with my B and R (after castling). Now, white can try Bd3, and I will consider Ne5 in return."
+19,Qb3,c2b3,rn2k2r/ppp2ppp/5q2/3P1b2/1bP5/1Qn5/PP1B1PPP/R3KBNR b KQkq - 3 10,"The only square for the queen to go! Now, both the knight and the bishop are ""en prise""."
+20,Qe5+,f6e5,rn2k2r/ppp2ppp/8/3Pqb2/1bP5/1Qn5/PP1B1PPP/R3KBNR w KQkq - 4 11,And here my opponent disconnected. I wonder what would have been the rest of the game.
+21,Ne2,g1e2,rn2k2r/ppp2ppp/8/3Pqb2/1bP5/1Qn5/PP1BNPPP/R3KB1R b KQkq - 5 11,And here my opponent disconnected. I wonder what would have been the rest of the game.
+22,Nxe2,c3e2,rn2k2r/ppp2ppp/8/3Pqb2/1bP5/1Q6/PP1BnPPP/R3KB1R w KQkq - 0 12,
+23,Qxb4,b3b4,rn2k2r/ppp2ppp/8/3Pqb2/1QP5/8/PP1BnPPP/R3KB1R b KQkq - 0 12,
+24,Nc3+,e2c3,rn2k2r/ppp2ppp/8/3Pqb2/1QP5/2n5/PP1B1PPP/R3KB1R w KQkq - 1 13,
+25,Be3,d2e3,rn2k2r/ppp2ppp/8/3Pqb2/1QP5/2n1B3/PP3PPP/R3KB1R b KQkq - 2 13,
+26,Ne4,c3e4,rn2k2r/ppp2ppp/8/3Pqb2/1QP1n3/4B3/PP3PPP/R3KB1R w KQkq - 3 14,
+27,Qxb7,b4b7,rn2k2r/pQp2ppp/8/3Pqb2/2P1n3/4B3/PP3PPP/R3KB1R b KQkq - 0 14,
+28,O-O,e8g8,rn3rk1/pQp2ppp/8/3Pqb2/2P1n3/4B3/PP3PPP/R3KB1R w KQ - 1 15,
+29,f4,f2f4,rn3rk1/pQp2ppp/8/3Pqb2/2P1nP2/4B3/PP4PP/R3KB1R b KQ - 0 15,
+30,Qe7,e5e7,rn3rk1/pQp1qppp/8/3P1b2/2P1nP2/4B3/PP4PP/R3KB1R w KQ - 1 16,
+31,Qxa8,b7a8,Qn3rk1/p1p1qppp/8/3P1b2/2P1nP2/4B3/PP4PP/R3KB1R b KQ - 0 16,
+32,Qb4+,e7b4,Qn3rk1/p1p2ppp/8/3P1b2/1qP1nP2/4B3/PP4PP/R3KB1R w KQ - 1 17,
+33,Kd1,e1d1,Qn3rk1/p1p2ppp/8/3P1b2/1qP1nP2/4B3/PP4PP/R2K1B1R b - - 2 17,
+34,Qxb2,b4b2,Qn3rk1/p1p2ppp/8/3P1b2/2P1nP2/4B3/Pq4PP/R2K1B1R w - - 0 18,
+35,Rc1,a1c1,Qn3rk1/p1p2ppp/8/3P1b2/2P1nP2/4B3/Pq4PP/2RK1B1R b - - 1 18,
+36,Nc3+,e4c3,Qn3rk1/p1p2ppp/8/3P1b2/2P2P2/2n1B3/Pq4PP/2RK1B1R w - - 2 19,
+37,Ke1,d1e1,Qn3rk1/p1p2ppp/8/3P1b2/2P2P2/2n1B3/Pq4PP/2R1KB1R b - - 3 19,
+38,Re8,f8e8,Qn2r1k1/p1p2ppp/8/3P1b2/2P2P2/2n1B3/Pq4PP/2R1KB1R w - - 4 20,

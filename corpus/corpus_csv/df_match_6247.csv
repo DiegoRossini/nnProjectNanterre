@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"hello everyone, and today I will annotate a french  exchange between 2 C-B level players on GK."
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"the french defence. In this opening, black will usually have strong central point on d5 that can last very long, but he will usually have trouble activating his light squared bishop. However, the exchange variation gives a symmetrical and very drawish position."
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,THIS IS white's most common 2nd move choice.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"the exchange variation. This is a great choice if one wishes to get a draw. White is rated lower than his opponent, so this is a perfectly reasonable choice."
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"the exchange variation. This is a great choice if one wishes to get a draw. White is rated lower than his opponent, so this is a perfectly reasonable choice."
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"Okay, but the best line by the book is 4.Nf3 Bg4!  5.Qe2ch! Qe7  6.Be3! when a draw is the most common result. I have played a this line in a short game which followed 6...Qb4ch?!  7.Nc3 Qxb2?? 8.Bc1ch 1-0  
+U14 tournament, Me vs. D class player 2007. This is the most common beginner's trap in the exchange, and although I played this a long time ago, I remember this because it was so short and simple."
+7,Bd3,f1d3,rnbqkbnr/ppp2ppp/8/3p4/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4,"Okay, but the best line by the book is 4.Nf3 Bg4!  5.Qe2ch! Qe7  6.Be3! when a draw is the most common result. I have played a this line in a short game which followed 6...Qb4ch?!  7.Nc3 Qxb2?? 8.Bc1ch 1-0  
+U14 tournament, Me vs. D class player 2007. This is the most common beginner's trap in the exchange, and although I played this a long time ago, I remember this because it was so short and simple."
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/3B4/PPP2PPP/RNBQK1NR w KQkq - 2 5,"this is just like a rubenstein exchange variation in the caro-kann, except black's e pawn is gone in exchange for a c pawn."
+9,c3,c2c3,rnbqkb1r/ppp2ppp/5n2/3p4/3P4/2PB4/PP3PPP/RNBQK1NR b KQkq - 0 5,"this is just like a rubenstein exchange variation in the caro-kann, except black's e pawn is gone in exchange for a c pawn."
+10,Bd6,f8d6,rnbqk2r/ppp2ppp/3b1n2/3p4/3P4/2PB4/PP3PPP/RNBQK1NR w KQkq - 1 6,preparing castling
+11,Bg5,c1g5,rnbqk2r/ppp2ppp/3b1n2/3p2B1/3P4/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6,"This is move has a purpose, denying black use of the g4 square for his bishop, which he may try and play:
+Bg4-h5-g6, exchanging white's good bishop."
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/3b1n2/3p2B1/3P4/2PB4/PP3PPP/RN1QK1NR w KQ - 3 7,"This is move has a purpose, denying black use of the g4 square for his bishop, which he may try and play:
+Bg4-h5-g6, exchanging white's good bishop."
+13,h3,h2h3,rnbq1rk1/ppp2ppp/3b1n2/3p2B1/3P4/2PB3P/PP3PP1/RN1QK1NR b KQ - 0 7,"This is move has a purpose, denying black use of the g4 square for his bishop, which he may try and play:
+Bg4-h5-g6, exchanging white's good bishop."
+14,Re8+,f8e8,rnbqr1k1/ppp2ppp/3b1n2/3p2B1/3P4/2PB3P/PP3PP1/RN1QK1NR w KQ - 1 8,"Black, who is ahead in development, may try c5 at some point before playing Nc6, trying to break down the opponent's pawn structure. However, this is just an idea to be implemented later maybe."
+15,Ne2,g1e2,rnbqr1k1/ppp2ppp/3b1n2/3p2B1/3P4/2PB3P/PP2NPP1/RN1QK2R b KQ - 2 8,"I don't like this because it impedes the black development. Black may have had a setup Be6, Nd7,Rc8,c5, but I don't see what c6 really does, as it denies the black knight  a good square, and the d pawn can be well protected"
+16,c6,c7c6,rnbqr1k1/pp3ppp/2pb1n2/3p2B1/3P4/2PB3P/PP2NPP1/RN1QK2R w KQ - 0 9,"I don't like this because it impedes the black development. Black may have had a setup Be6, Nd7,Rc8,c5, but I don't see what c6 really does, as it denies the black knight  a good square, and the d pawn can be well protected"
+17,Qd2,d1d2,rnbqr1k1/pp3ppp/2pb1n2/3p2B1/3P4/2PB3P/PP1QNPP1/RN2K2R b KQ - 1 9,followed maybe by Nb6
+18,Nbd7,b8d7,r1bqr1k1/pp1n1ppp/2pb1n2/3p2B1/3P4/2PB3P/PP1QNPP1/RN2K2R w KQ - 2 10,followed maybe by Nb6
+19,O-O,e1g1,r1bqr1k1/pp1n1ppp/2pb1n2/3p2B1/3P4/2PB3P/PP1QNPP1/RN3RK1 b - - 3 10,"if black wants a kingside attack, he will need more pieces."
+20,Qc7,d8c7,r1b1r1k1/ppqn1ppp/2pb1n2/3p2B1/3P4/2PB3P/PP1QNPP1/RN3RK1 w - - 4 11,"if black wants a kingside attack, he will need more pieces."
+21,g3,g2g3,r1b1r1k1/ppqn1ppp/2pb1n2/3p2B1/3P4/2PB2PP/PP1QNP2/RN3RK1 b - - 0 11,"black had no immediate threats. It is unnecessary and even bad to weaken the king like this, without developing."
+22,b5,b7b5,r1b1r1k1/p1qn1ppp/2pb1n2/1p1p2B1/3P4/2PB2PP/PP1QNP2/RN3RK1 w - - 0 12,"I don't see black's plan, if he has one. Can someone tell me what they see? All I see is maybe a4, then b4, attacking the pawn chain."
+23,b4,b2b4,r1b1r1k1/p1qn1ppp/2pb1n2/1p1p2B1/1P1P4/2PB2PP/P2QNP2/RN3RK1 b - - 0 12,this leaves a c4 hole.
+24,a5,a7a5,r1b1r1k1/2qn1ppp/2pb1n2/pp1p2B1/1P1P4/2PB2PP/P2QNP2/RN3RK1 w - - 0 13,black is going to get an open a file for the rook.
+25,a4,a2a4,r1b1r1k1/2qn1ppp/2pb1n2/pp1p2B1/PP1P4/2PB2PP/3QNP2/RN3RK1 b - - 0 13,now black can win a pawn.
+26,axb4,a5b4,r1b1r1k1/2qn1ppp/2pb1n2/1p1p2B1/Pp1P4/2PB2PP/3QNP2/RN3RK1 w - - 0 14,now black can win a pawn.
+27,cxb4,c3b4,r1b1r1k1/2qn1ppp/2pb1n2/1p1p2B1/PP1P4/3B2PP/3QNP2/RN3RK1 b - - 0 14,now black can win a pawn.
+28,bxa4,b5a4,r1b1r1k1/2qn1ppp/2pb1n2/3p2B1/pP1P4/3B2PP/3QNP2/RN3RK1 w - - 0 15,"the knight really doesn't have prospects here, but I don't think white wanted to lose another pawn with Nc3."
+29,Na3,b1a3,r1b1r1k1/2qn1ppp/2pb1n2/3p2B1/pP1P4/N2B2PP/3QNP2/R4RK1 b - - 1 15,"the knight really doesn't have prospects here, but I don't think white wanted to lose another pawn with Nc3."
+30,Ne4,f6e4,r1b1r1k1/2qn1ppp/2pb4/3p2B1/pP1Pn3/N2B2PP/3QNP2/R4RK1 w - - 2 16,the knight is excellently placed here.
+31,Qe3,d2e3,r1b1r1k1/2qn1ppp/2pb4/3p2B1/pP1Pn3/N2BQ1PP/4NP2/R4RK1 b - - 3 16,now white gives up his good bishop to take off the e4 knight just to find that the f6 knight takes it's place.
+32,Ndf6,d7f6,r1b1r1k1/2q2ppp/2pb1n2/3p2B1/pP1Pn3/N2BQ1PP/4NP2/R4RK1 w - - 4 17,now white gives up his good bishop to take off the e4 knight just to find that the f6 knight takes it's place.
+33,Bxe4,d3e4,r1b1r1k1/2q2ppp/2pb1n2/3p2B1/pP1PB3/N3Q1PP/4NP2/R4RK1 b - - 0 17,now white gives up his good bishop to take off the e4 knight just to find that the f6 knight takes it's place.

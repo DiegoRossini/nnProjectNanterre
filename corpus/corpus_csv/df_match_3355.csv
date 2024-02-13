@@ -1,0 +1,89 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,a weak third move by White
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,a weak third move by White
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,a weak third move by White
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,a weak third move by White
+5,e3,e2e3,rnbqkb1r/pppppp1p/5np1/8/2PP4/4P3/PP3PPP/RNBQKBNR b KQkq - 0 3,a weak third move by White
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2PP4/4P3/PP3PPP/RNBQKBNR w KQkq - 1 4,"to prevent Bg4, but wastes time"
+7,Nf3,g1f3,rnbqk2r/ppppppbp/5np1/8/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 2 4,"to prevent Bg4, but wastes time"
+8,O-O,e8g8,rnbq1rk1/ppppppbp/5np1/8/2PP4/4PN2/PP3PPP/RNBQKB1R w KQ - 3 5,"to prevent Bg4, but wastes time"
+9,Bd3,f1d3,rnbq1rk1/ppppppbp/5np1/8/2PP4/3BPN2/PP3PPP/RNBQK2R b KQ - 4 5,"to prevent Bg4, but wastes time"
+10,d6,d7d6,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/3BPN2/PP3PPP/RNBQK2R w KQ - 0 6,"to prevent Bg4, but wastes time"
+11,h3,h2h3,rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/3BPN1P/PP3PP1/RNBQK2R b KQ - 0 6,"to prevent Bg4, but wastes time"
+12,Nbd7,b8d7,r1bq1rk1/pppnppbp/3p1np1/8/2PP4/3BPN1P/PP3PP1/RNBQK2R w KQ - 1 7,an unnecessary pawn move that wastes time and also creates tactical opportunites for Black's dark-square bishop
+13,b4,b2b4,r1bq1rk1/pppnppbp/3p1np1/8/1PPP4/3BPN1P/P4PP1/RNBQK2R b KQ - 0 7,an unnecessary pawn move that wastes time and also creates tactical opportunites for Black's dark-square bishop
+14,Re8,f8e8,r1bqr1k1/pppnppbp/3p1np1/8/1PPP4/3BPN1P/P4PP1/RNBQK2R w KQ - 1 8,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+15,Bb2,c1b2,r1bqr1k1/pppnppbp/3p1np1/8/1PPP4/3BPN1P/PB3PP1/RN1QK2R b KQ - 2 8,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+16,e5,e7e5,r1bqr1k1/pppn1pbp/3p1np1/4p3/1PPP4/3BPN1P/PB3PP1/RN1QK2R w KQ - 0 9,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+17,dxe5,d4e5,r1bqr1k1/pppn1pbp/3p1np1/4P3/1PP5/3BPN1P/PB3PP1/RN1QK2R b KQ - 0 9,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+18,dxe5,d6e5,r1bqr1k1/pppn1pbp/5np1/4p3/1PP5/3BPN1P/PB3PP1/RN1QK2R w KQ - 0 10,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+19,e4,e3e4,r1bqr1k1/pppn1pbp/5np1/4p3/1PP1P3/3B1N1P/PB3PP1/RN1QK2R b KQ - 0 10,"prevents the pawn fork, but now the light-square bishop is ""bad"""
+20,a5,a7a5,r1bqr1k1/1ppn1pbp/5np1/p3p3/1PP1P3/3B1N1P/PB3PP1/RN1QK2R w KQ - 0 11,"The rook exchange benefits black, who is ahead in development."
+21,a3,a2a3,r1bqr1k1/1ppn1pbp/5np1/p3p3/1PP1P3/P2B1N1P/1B3PP1/RN1QK2R b KQ - 0 11,"The rook exchange benefits black, who is ahead in development."
+22,axb4,a5b4,r1bqr1k1/1ppn1pbp/5np1/4p3/1pP1P3/P2B1N1P/1B3PP1/RN1QK2R w KQ - 0 12,"The rook exchange benefits black, who is ahead in development."
+23,axb4,a3b4,r1bqr1k1/1ppn1pbp/5np1/4p3/1PP1P3/3B1N1P/1B3PP1/RN1QK2R b KQ - 0 12,"The rook exchange benefits black, who is ahead in development."
+24,Rxa1,a8a1,2bqr1k1/1ppn1pbp/5np1/4p3/1PP1P3/3B1N1P/1B3PP1/rN1QK2R w K - 0 13,"The rook exchange benefits black, who is ahead in development."
+25,Bxa1,b2a1,2bqr1k1/1ppn1pbp/5np1/4p3/1PP1P3/3B1N1P/5PP1/BN1QK2R b K - 0 13,forks the bishop and e4-pawn
+26,b6,b7b6,2bqr1k1/2pn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/5PP1/BN1QK2R w K - 0 14,forks the bishop and e4-pawn
+27,Qc2,d1c2,2bqr1k1/2pn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/2Q2PP1/BN2K2R b K - 1 14,forks the bishop and e4-pawn
+28,Bb7,c8b7,3qr1k1/1bpn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/2Q2PP1/BN2K2R w K - 2 15,forks the bishop and e4-pawn
+29,O-O,e1g1,3qr1k1/1bpn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/2Q2PP1/BN3RK1 b - - 3 15,forks the bishop and e4-pawn
+30,Qa8,d8a8,q3r1k1/1bpn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/2Q2PP1/BN3RK1 w - - 4 16,forks the bishop and e4-pawn
+31,Nbd2,b1d2,q3r1k1/1bpn1pbp/1p3np1/4p3/1PP1P3/3B1N1P/2QN1PP1/B4RK1 b - - 5 16,discovered defense saves White's ass
+32,Nh5,f6h5,q3r1k1/1bpn1pbp/1p4p1/4p2n/1PP1P3/3B1N1P/2QN1PP1/B4RK1 w - - 6 17,now h3 is weak
+33,g3,g2g3,q3r1k1/1bpn1pbp/1p4p1/4p2n/1PP1P3/3B1NPP/2QN1P2/B4RK1 b - - 0 17,now h3 is weak
+34,Qc8,a8c8,2q1r1k1/1bpn1pbp/1p4p1/4p2n/1PP1P3/3B1NPP/2QN1P2/B4RK1 w - - 1 18,The bishop moves to a better diagonal.
+35,Kg2,g1g2,2q1r1k1/1bpn1pbp/1p4p1/4p2n/1PP1P3/3B1NPP/2QN1PK1/B4R2 b - - 2 18,The bishop moves to a better diagonal.
+36,Bh6,g7h6,2q1r1k1/1bpn1p1p/1p4pb/4p2n/1PP1P3/3B1NPP/2QN1PK1/B4R2 w - - 3 19,The bishop moves to a better diagonal.
+37,Bc3,a1c3,2q1r1k1/1bpn1p1p/1p4pb/4p2n/1PP1P3/2BB1NPP/2QN1PK1/5R2 b - - 4 19,"supports the e5 pawn, but opens up the a2-g8 diagonal for White's bishop"
+38,f6,f7f6,2q1r1k1/1bpn3p/1p3ppb/4p2n/1PP1P3/2BB1NPP/2QN1PK1/5R2 w - - 0 20,"supports the e5 pawn, but opens up the a2-g8 diagonal for White's bishop"
+39,Ra1,f1a1,2q1r1k1/1bpn3p/1p3ppb/4p2n/1PP1P3/2BB1NPP/2QN1PK1/R7 b - - 1 20,"The a-file is of no use to anyone. All the action is on the kingside, where both kings are located."
+40,Nf8,d7f8,2q1rnk1/1bp4p/1p3ppb/4p2n/1PP1P3/2BB1NPP/2QN1PK1/R7 w - - 2 21,"saves a tempo, in case of Bc4+"
+41,Nb3,d2b3,2q1rnk1/1bp4p/1p3ppb/4p2n/1PP1P3/1NBB1NPP/2Q2PK1/R7 b - - 3 21,"saves a tempo, in case of Bc4+"
+42,Bc6,b7c6,2q1rnk1/2p4p/1pb2ppb/4p2n/1PP1P3/1NBB1NPP/2Q2PK1/R7 w - - 4 22,"saves a tempo, in case of Bc4+"
+43,c5,c4c5,2q1rnk1/2p4p/1pb2ppb/2P1p2n/1P2P3/1NBB1NPP/2Q2PK1/R7 b - - 0 22,"saves a tempo, in case of Bc4+"
+44,Bd7,c6d7,2q1rnk1/2pb3p/1p3ppb/2P1p2n/1P2P3/1NBB1NPP/2Q2PK1/R7 w - - 1 23,"saves a tempo, in case of Bc4+"
+45,Ng1,f3g1,2q1rnk1/2pb3p/1p3ppb/2P1p2n/1P2P3/1NBB2PP/2Q2PK1/R5N1 b - - 2 23,"saves a tempo, in case of Bc4+"
+46,Kh8,g8h8,2q1rn1k/2pb3p/1p3ppb/2P1p2n/1P2P3/1NBB2PP/2Q2PK1/R5N1 w - - 3 24,"saves a tempo, in case of Bc4+"
+47,f4,f2f4,2q1rn1k/2pb3p/1p3ppb/2P1p2n/1P2PP2/1NBB2PP/2Q3K1/R5N1 b - - 0 24,White blunders
+48,exf4,e5f4,2q1rn1k/2pb3p/1p3ppb/2P4n/1P2Pp2/1NBB2PP/2Q3K1/R5N1 w - - 0 25,this allows the bishop sacrifice (not 25. ... Ng7? 26. Bxf6 +-)
+49,g4,g3g4,2q1rn1k/2pb3p/1p3ppb/2P4n/1P2PpP1/1NBB3P/2Q3K1/R5N1 b - - 0 25,this allows the bishop sacrifice (not 25. ... Ng7? 26. Bxf6 +-)
+50,Bxg4,d7g4,2q1rn1k/2p4p/1p3ppb/2P4n/1P2Ppb1/1NBB3P/2Q3K1/R5N1 w - - 0 26,Now white's busted.
+51,hxg4,h3g4,2q1rn1k/2p4p/1p3ppb/2P4n/1P2PpP1/1NBB4/2Q3K1/R5N1 b - - 0 26,Now white's busted.
+52,Qxg4+,c8g4,4rn1k/2p4p/1p3ppb/2P4n/1P2Ppq1/1NBB4/2Q3K1/R5N1 w - - 0 27,Now white's busted.
+53,Kf1,g2f1,4rn1k/2p4p/1p3ppb/2P4n/1P2Ppq1/1NBB4/2Q5/R4KN1 b - - 1 27,Qg2 is White's only hope.
+54,Ng3+,h5g3,4rn1k/2p4p/1p3ppb/2P5/1P2Ppq1/1NBB2n1/2Q5/R4KN1 w - - 2 28,Qg2 is White's only hope.
+55,Kf2,f1f2,4rn1k/2p4p/1p3ppb/2P5/1P2Ppq1/1NBB2n1/2Q2K2/R5N1 b - - 3 28,Qg2 is White's only hope.
+56,Bg5,h6g5,4rn1k/2p4p/1p3pp1/2P3b1/1P2Ppq1/1NBB2n1/2Q2K2/R5N1 w - - 4 29,Qg2 is White's only hope.
+57,Nf3,g1f3,4rn1k/2p4p/1p3pp1/2P3b1/1P2Ppq1/1NBB1Nn1/2Q2K2/R7 b - - 5 29,Qg2 is White's only hope.
+58,Bh4,g5h4,4rn1k/2p4p/1p3pp1/2P5/1P2Ppqb/1NBB1Nn1/2Q2K2/R7 w - - 6 30,Qg2 is White's only hope.
+59,Nxh4,f3h4,4rn1k/2p4p/1p3pp1/2P5/1P2PpqN/1NBB2n1/2Q2K2/R7 b - - 0 30,Qg2 is White's only hope.
+60,Qxh4,g4h4,4rn1k/2p4p/1p3pp1/2P5/1P2Pp1q/1NBB2n1/2Q2K2/R7 w - - 0 31,Qg2 is White's only hope.
+61,Kf3,f2f3,4rn1k/2p4p/1p3pp1/2P5/1P2Pp1q/1NBB1Kn1/2Q5/R7 b - - 1 31,Qg2 is White's only hope.
+62,Ne6,f8e6,4r2k/2p4p/1p2npp1/2P5/1P2Pp1q/1NBB1Kn1/2Q5/R7 w - - 2 32,Qg2 is White's only hope.
+63,Qb2,c2b2,4r2k/2p4p/1p2npp1/2P5/1P2Pp1q/1NBB1Kn1/1Q6/R7 b - - 3 32,Qg2 is White's only hope.
+64,Ng5+,e6g5,4r2k/2p4p/1p3pp1/2P3n1/1P2Pp1q/1NBB1Kn1/1Q6/R7 w - - 4 33,The discovered check wins more material.
+65,Kf2,f3f2,4r2k/2p4p/1p3pp1/2P3n1/1P2Pp1q/1NBB2n1/1Q3K2/R7 b - - 5 33,The discovered check wins more material.
+66,Ng3xe4+,g3e4,4r2k/2p4p/1p3pp1/2P3n1/1P2np1q/1NBB4/1Q3K2/R7 w - - 0 34,The discovered check wins more material.
+67,Kf1,f2f1,4r2k/2p4p/1p3pp1/2P3n1/1P2np1q/1NBB4/1Q6/R4K2 b - - 1 34,The discovered check wins more material.
+68,Qh3+,h4h3,4r2k/2p4p/1p3pp1/2P3n1/1P2np2/1NBB3q/1Q6/R4K2 w - - 2 35,The discovered check wins more material.
+69,Ke1,f1e1,4r2k/2p4p/1p3pp1/2P3n1/1P2np2/1NBB3q/1Q6/R3K3 b - - 3 35,The discovered check wins more material.
+70,Nxc3+,e4c3,4r2k/2p4p/1p3pp1/2P3n1/1P3p2/1NnB3q/1Q6/R3K3 w - - 0 36,The discovered check wins more material.
+71,Kd2,e1d2,4r2k/2p4p/1p3pp1/2P3n1/1P3p2/1NnB3q/1Q1K4/R7 b - - 1 36,White's king is getting cornered on the opposite side of the board.
+72,Nge4+,g5e4,4r2k/2p4p/1p3pp1/2P5/1P2np2/1NnB3q/1Q1K4/R7 w - - 2 37,White's king is getting cornered on the opposite side of the board.
+73,Bxe4,d3e4,4r2k/2p4p/1p3pp1/2P5/1P2Bp2/1Nn4q/1Q1K4/R7 b - - 0 37,White's king is getting cornered on the opposite side of the board.
+74,Nxe4+,c3e4,4r2k/2p4p/1p3pp1/2P5/1P2np2/1N5q/1Q1K4/R7 w - - 0 38,White's king is getting cornered on the opposite side of the board.
+75,Kc1,d2c1,4r2k/2p4p/1p3pp1/2P5/1P2np2/1N5q/1Q6/R1K5 b - - 1 38,White's king is getting cornered on the opposite side of the board.
+76,Qf1+,h3f1,4r2k/2p4p/1p3pp1/2P5/1P2np2/1N6/1Q6/R1K2q2 w - - 2 39,White's king is getting cornered on the opposite side of the board.
+77,Kc2,c1c2,4r2k/2p4p/1p3pp1/2P5/1P2np2/1N6/1QK5/R4q2 b - - 3 39,White has 5 out of 6 pieces on the b-file and is in zugzwang.
+78,Qc4+,f1c4,4r2k/2p4p/1p3pp1/2P5/1Pq1np2/1N6/1QK5/R7 w - - 4 40,White has 5 out of 6 pieces on the b-file and is in zugzwang.
+79,Kb1,c2b1,4r2k/2p4p/1p3pp1/2P5/1Pq1np2/1N6/1Q6/RK6 b - - 5 40,White has 5 out of 6 pieces on the b-file and is in zugzwang.
+80,Rd8,e8d8,3r3k/2p4p/1p3pp1/2P5/1Pq1np2/1N6/1Q6/RK6 w - - 6 41,White has 5 out of 6 pieces on the b-file and is in zugzwang.
+81,cxb6,c5b6,3r3k/2p4p/1P3pp1/8/1Pq1np2/1N6/1Q6/RK6 b - - 0 41,White has 5 out of 6 pieces on the b-file and is in zugzwang.
+82,Nc3+,e4c3,3r3k/2p4p/1P3pp1/8/1Pq2p2/1Nn5/1Q6/RK6 w - - 1 42,putting White in his grave
+83,Qxc3,b2c3,3r3k/2p4p/1P3pp1/8/1Pq2p2/1NQ5/8/RK6 b - - 0 42,putting White in his grave
+84,Qxc3,c4c3,3r3k/2p4p/1P3pp1/8/1P3p2/1Nq5/8/RK6 w - - 0 43,putting White in his grave
+85,bxc7,b6c7,3r3k/2P4p/5pp1/8/1P3p2/1Nq5/8/RK6 b - - 0 43,putting White in his grave
+86,Qxb3+,c3b3,3r3k/2P4p/5pp1/8/1P3p2/1q6/8/RK6 w - - 0 44,putting White in his grave
+87,Kc1,b1c1,3r3k/2P4p/5pp1/8/1P3p2/1q6/8/R1K5 b - - 1 44,putting White in his grave
+88,Rd1#,d8d1,7k/2P4p/5pp1/8/1P3p2/1q6/8/R1Kr4 w - - 2 45,putting White in his grave

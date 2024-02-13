@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Sicilian defence.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Sicilian defence.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+10,g6,g7g6,rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,Dragon variation. The idea of Black is to control black squares and attack Nd4.
+11,Be3,c1e3,rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6,White defends his Nd4.
+12,Bg7,f8g7,rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R w KQkq - 2 7,Preventing Black's Nf3 to come to g4.
+13,f3,f2f3,rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7,Preventing Black's Nf3 to come to g4.
+14,O-O,e8g8,rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQ - 1 8,"The Queen works well on the c1-h6 diagonal with Be3, attacking possibly weak Black's squares."
+15,Qd2,d1d2,rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R b KQ - 2 8,"The Queen works well on the c1-h6 diagonal with Be3, attacking possibly weak Black's squares."
+16,Nc6,b8c6,r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQ - 3 9,"A tipical idea of the Sicilian defense by Black is to advance pawns on the Queen side, maybe Bc8 on the a8-h1 diagonal and Ra8 to the c-file."
+17,Bc4,f1c4,r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9,"White develops his white bishop to a more active square, but he'll need to guard it from possible advances of the Black b pawn."
+18,Bd7,c8d7,r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R w KQ - 5 10,"According to the plan, Black develops his rook on the semi-open c-file."
+19,O-O-O,e1c1,r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/2KR3R b - - 6 10,"According to the plan, Black develops his rook on the semi-open c-file."
+20,Rc8,a8c8,2rq1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/2KR3R w - - 7 11,"According to the plan, Black develops his rook on the semi-open c-file."
+21,Bb3,c4b3,2rq1rk1/pp1bppbp/2np1np1/8/3NP3/1BN1BP2/PPPQ2PP/2KR3R b - - 8 11,"Bishop to safety, guarding the possibly weak c2 pawn."
+22,Nxd4,c6d4,2rq1rk1/pp1bppbp/3p1np1/8/3nP3/1BN1BP2/PPPQ2PP/2KR3R w - - 0 12,"Better would be for Black to chase Bb3 with Na5 or control the center with Ne5 with the idea of jumping to c4. Alternatively, a5 would start the pawn rolling. Black here is not following the spirit of the Sicilian Defence."
+23,Bxd4,e3d4,2rq1rk1/pp1bppbp/3p1np1/8/3BP3/1BN2P2/PPPQ2PP/2KR3R b - - 0 12,Putting pressure on Nf6. White wants to get rid of Black's Bg7.
+24,a5,a7a5,2rq1rk1/1p1bppbp/3p1np1/p7/3BP3/1BN2P2/PPPQ2PP/2KR3R w - - 0 13,Putting pressure on Nf6. White wants to get rid of Black's Bg7.
+25,Nd5,c3d5,2rq1rk1/1p1bppbp/3p1np1/p2N4/3BP3/1B3P2/PPPQ2PP/2KR3R b - - 1 13,Putting pressure on Nf6. White wants to get rid of Black's Bg7.
+26,Nxd5,f6d5,2rq1rk1/1p1bppbp/3p2p1/p2n4/3BP3/1B3P2/PPPQ2PP/2KR3R w - - 0 14,"Before recapturing the knight, White takes exchanges the black bishops. Black King recaptures and he's in a dangerous square."
+27,Bxg7,d4g7,2rq1rk1/1p1bppBp/3p2p1/p2n4/4P3/1B3P2/PPPQ2PP/2KR3R b - - 0 14,"Before recapturing the knight, White takes exchanges the black bishops. Black King recaptures and he's in a dangerous square."
+28,Kxg7,g8g7,2rq1r2/1p1bppkp/3p2p1/p2n4/4P3/1B3P2/PPPQ2PP/2KR3R w - - 0 15,"White can recapture with Queen or with bishop, to avoid having to back up in case Black chases her. White has to be careful in case of b5 and a4, because with e6 the bishop would be trapped."
+29,Bxd5,b3d5,2rq1r2/1p1bppkp/3p2p1/p2B4/4P3/5P2/PPPQ2PP/2KR3R b - - 0 15,"White can recapture with Queen or with bishop, to avoid having to back up in case Black chases her. White has to be careful in case of b5 and a4, because with e6 the bishop would be trapped."
+30,Qc7,d8c7,2r2r2/1pqbppkp/3p2p1/p2B4/4P3/5P2/PPPQ2PP/2KR3R w - - 1 16,Ties White's Queen to the defence of c2.
+31,h4,h2h4,2r2r2/1pqbppkp/3p2p1/p2B4/4P2P/5P2/PPPQ2P1/2KR3R b - - 0 16,All by the book. White starts the pawn advance on the King's side.
+32,a4,a5a4,2r2r2/1pqbppkp/3p2p1/3B4/p3P2P/5P2/PPPQ2P1/2KR3R w - - 0 17,"Black pushes, but the a-pawn is not supported well enough."
+33,a3,a2a3,2r2r2/1pqbppkp/3p2p1/3B4/p3P2P/P4P2/1PPQ2P1/2KR3R b - - 0 17,"White is scared by the a-pawn, but it shouldn't be. He should concentrate on his King-side advance."
+34,f5,f7f5,2r2r2/1pqbp1kp/3p2p1/3B1p2/p3P2P/P4P2/1PPQ2P1/2KR3R w - - 0 18,"Black wants to stop White advance, but much better would be h5, or h6 or e6. f5 leaves too many weak squares behind, like: e7 (weak pawn), e6 and the whole a1-h8 diagonal where White Queen can always check on d4."
+35,exf5,e4f5,2r2r2/1pqbp1kp/3p2p1/3B1P2/p6P/P4P2/1PPQ2P1/2KR3R b - - 0 18,"White decides to take the pawn, but probably better would be h5. Maybe we wants to avoid an isolated e-pawn in case of exchange on e4."
+36,Bxf5,d7f5,2r2r2/1pq1p1kp/3p2p1/3B1b2/p6P/P4P2/1PPQ2P1/2KR3R w - - 0 19,Adding pressure to c2.

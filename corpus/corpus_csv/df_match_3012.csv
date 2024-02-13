@@ -1,0 +1,69 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"I'm annotating this mainly because of the ending.  According to Gameknot's computer, the end position is +2.14 for Black.  I agreed a draw believing that I couldn't force a win but whether I was right or not, the computer's scoring was nonsensical - it should either have been 0-0 or 100% for Black."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,White ducks standard QP Indian/Nimzo type lines that would have resulted from 2. c4
+3,Nf3,g1f3,rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2,White ducks standard QP Indian/Nimzo type lines that would have resulted from 2. c4
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3,I adopt my favourite King's Indian formation anyway.
+5,Bf4,c1f4,rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+6,d6,d7d6,rnbqkb1r/ppp1pp1p/3p1np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+7,e3,e2e3,rnbqkb1r/ppp1pp1p/3p1np1/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+8,Bg7,f8g7,rnbqk2r/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 1 5,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+9,Be2,f1e2,rnbqk2r/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP1BPPP/RN1QK2R b KQkq - 2 5,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP1BPPP/RN1QK2R w KQ - 3 6,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+11,O-O,e1g1,rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP1BPPP/RN1Q1RK1 b - - 4 6,"Black has a standard King's Indian formation.  White's is a somewhat conservative formation more commonly seen against something like the Slav, I think."
+12,Nc6,b8c6,r1bq1rk1/ppp1ppbp/2np1np1/8/3P1B2/4PN2/PPP1BPPP/RN1Q1RK1 w - - 5 7,"I continue my development, developing my N towards the centre.  I often play this N to a6 or d7 in the King's Indian but see no need to avoid the best square in this position."
+13,c4,c2c4,r1bq1rk1/ppp1ppbp/2np1np1/8/2PP1B2/4PN2/PP2BPPP/RN1Q1RK1 b - - 0 7,Prepares ...e5
+14,Qe8,d8e8,r1b1qrk1/ppp1ppbp/2np1np1/8/2PP1B2/4PN2/PP2BPPP/RN1Q1RK1 w - - 1 8,Prepares ...e5
+15,a3,a2a3,r1b1qrk1/ppp1ppbp/2np1np1/8/2PP1B2/P3PN2/1P2BPPP/RN1Q1RK1 b - - 0 8,Not quite sure what was in White's mind here...  The computer calls it an inaccuracy. (+0.38 rather than -0.33 for 8. Nc3)
+16,e5,e7e5,r1b1qrk1/ppp2pbp/2np1np1/4p3/2PP1B2/P3PN2/1P2BPPP/RN1Q1RK1 w - - 0 9,"White gives up a N.  Not sure why ...  Better was 10. Bg5 according to the computer, which now scores things +2.78 in Black's favour."
+17,dxe5,d4e5,r1b1qrk1/ppp2pbp/2np1np1/4P3/2P2B2/P3PN2/1P2BPPP/RN1Q1RK1 b - - 0 9,"White gives up a N.  Not sure why ...  Better was 10. Bg5 according to the computer, which now scores things +2.78 in Black's favour."
+18,dxe5,d6e5,r1b1qrk1/ppp2pbp/2n2np1/4p3/2P2B2/P3PN2/1P2BPPP/RN1Q1RK1 w - - 0 10,"White gives up a N.  Not sure why ...  Better was 10. Bg5 according to the computer, which now scores things +2.78 in Black's favour."
+19,Nxe5,f3e5,r1b1qrk1/ppp2pbp/2n2np1/4N3/2P2B2/P3P3/1P2BPPP/RN1Q1RK1 b - - 0 10,"White gives up a N.  Not sure why ...  Better was 10. Bg5 according to the computer, which now scores things +2.78 in Black's favour."
+20,Nxe5,c6e5,r1b1qrk1/ppp2pbp/5np1/4n3/2P2B2/P3P3/1P2BPPP/RN1Q1RK1 w - - 0 11,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+21,Nc3,b1c3,r1b1qrk1/ppp2pbp/5np1/4n3/2P2B2/P1N1P3/1P2BPPP/R2Q1RK1 b - - 1 11,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+22,Bf5,c8f5,r3qrk1/ppp2pbp/5np1/4nb2/2P2B2/P1N1P3/1P2BPPP/R2Q1RK1 w - - 2 12,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+23,h3,h2h3,r3qrk1/ppp2pbp/5np1/4nb2/2P2B2/P1N1P2P/1P2BPP1/R2Q1RK1 b - - 0 12,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+24,Rd8,a8d8,3rqrk1/ppp2pbp/5np1/4nb2/2P2B2/P1N1P2P/1P2BPP1/R2Q1RK1 w - - 1 13,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+25,Nd5,c3d5,3rqrk1/ppp2pbp/5np1/3Nnb2/2P2B2/P3P2P/1P2BPP1/R2Q1RK1 b - - 2 13,Another mistake.  Better was 13. Qb3 Ne4 14. Nxe4 Bxe4 15. Rad1 Qc6 16. f3 Bf5 17. Rxd8 Rxd8 18. Rd1 Rxd1+ 19. Qxd1 Bf6 20. Qd5 Kg7 21. b4
+26,Nxd5,f6d5,3rqrk1/ppp2pbp/6p1/3nnb2/2P2B2/P3P2P/1P2BPP1/R2Q1RK1 w - - 0 14,? Better was 14… Be4 15. Qb3 Bxd5 16. Qc2 Qe7 17. e4 Bc6 18. Be3 Qh4 19. f3 a5 20. Qc5 Nd7 21. Qg5 Qxg5 22. Bxg5 according to the computer.
+27,cxd5,c4d5,3rqrk1/ppp2pbp/6p1/3Pnb2/5B2/P3P2P/1P2BPP1/R2Q1RK1 b - - 0 14,? Better was 14… Be4 15. Qb3 Bxd5 16. Qc2 Qe7 17. e4 Bc6 18. Be3 Qh4 19. f3 a5 20. Qc5 Nd7 21. Qg5 Qxg5 22. Bxg5 according to the computer.
+28,Qd7,e8d7,3r1rk1/pppq1pbp/6p1/3Pnb2/5B2/P3P2P/1P2BPP1/R2Q1RK1 w - - 1 15,? Better was 14… Be4 15. Qb3 Bxd5 16. Qc2 Qe7 17. e4 Bc6 18. Be3 Qh4 19. f3 a5 20. Qc5 Nd7 21. Qg5 Qxg5 22. Bxg5 according to the computer.
+29,Bf3,e2f3,3r1rk1/pppq1pbp/6p1/3Pnb2/5B2/P3PB1P/1P3PP1/R2Q1RK1 b - - 2 15,"and now, 15. f3 was better"
+30,Nxf3+,e5f3,3r1rk1/pppq1pbp/6p1/3P1b2/5B2/P3Pn1P/1P3PP1/R2Q1RK1 w - - 0 16,The computer evaluates this as +5.32 for Black.
+31,Qxf3,d1f3,3r1rk1/pppq1pbp/6p1/3P1b2/5B2/P3PQ1P/1P3PP1/R4RK1 b - - 0 16,I'm always nervous about making captures like this but it seemed safe enough at the time.  The computer identifies it as a mistake (+2.84 rather than +5.30).
+32,Bxb2,g7b2,3r1rk1/pppq1p1p/6p1/3P1b2/5B2/P3PQ1P/1b3PP1/R4RK1 w - - 0 17,I'm always nervous about making captures like this but it seemed safe enough at the time.  The computer identifies it as a mistake (+2.84 rather than +5.30).
+33,Rad1,a1d1,3r1rk1/pppq1p1p/6p1/3P1b2/5B2/P3PQ1P/1b3PP1/3R1RK1 b - - 1 17,"and here, the computer reckons 17. Ra2 to be better."
+34,Bg7,b2g7,3r1rk1/pppq1pbp/6p1/3P1b2/5B2/P3PQ1P/5PP1/3R1RK1 w - - 2 18,"Although the B was out on a limb, it was OK where it was.  17... Rfe8 would have maintained my advantage, preventing the next move."
+35,e4,e3e4,3r1rk1/pppq1pbp/6p1/3P1b2/4PB2/P4Q1P/5PP1/3R1RK1 b - - 0 18,"Suddenly White wins the piece back.  My B has nowhere to go.  Needless to say, I should have seen this coming and prepared for it rather than taking on b2."
+36,Bxe4,f5e4,3r1rk1/pppq1pbp/6p1/3P4/4bB2/P4Q1P/5PP1/3R1RK1 w - - 0 19,"Not as good as 18...g5, apparently: Best: +2.71 » … g5 19. Bxg5 f6 20. Bf4 Bg6 21. Qb3 Qf7 22. Qxb7 Bxe4 23. Qxa7 Rd7 24. Qc5 Bxd5 25. Rfe1 Rfd8 26. a4 f5"
+37,Qxe4,f3e4,3r1rk1/pppq1pbp/6p1/3P4/4QB2/P6P/5PP1/3R1RK1 b - - 0 19,An inaccuracy ...
+38,Rfe8,f8e8,3rr1k1/pppq1pbp/6p1/3P4/4QB2/P6P/5PP1/3R1RK1 w - - 1 20,An inaccuracy ...
+39,Qc4,e4c4,3rr1k1/pppq1pbp/6p1/3P4/2Q2B2/P6P/5PP1/3R1RK1 b - - 2 20,An inaccuracy ...
+40,Be5,g7e5,3rr1k1/pppq1p1p/6p1/3Pb3/2Q2B2/P6P/5PP1/3R1RK1 w - - 3 21,An inaccuracy ...
+41,Bxe5,f4e5,3rr1k1/pppq1p1p/6p1/3PB3/2Q5/P6P/5PP1/3R1RK1 b - - 0 21,An inaccuracy ...
+42,Rxe5,e8e5,3r2k1/pppq1p1p/6p1/3Pr3/2Q5/P6P/5PP1/3R1RK1 w - - 0 22,An inaccuracy ...
+43,d6,d5d6,3r2k1/pppq1p1p/3P2p1/4r3/2Q5/P6P/5PP1/3R1RK1 b - - 0 22,An inaccuracy ...
+44,cxd6,c7d6,3r2k1/pp1q1p1p/3p2p1/4r3/2Q5/P6P/5PP1/3R1RK1 w - - 0 23,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+45,Rd5,d1d5,3r2k1/pp1q1p1p/3p2p1/3Rr3/2Q5/P6P/5PP1/5RK1 b - - 1 23,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+46,Rxd5,e5d5,3r2k1/pp1q1p1p/3p2p1/3r4/2Q5/P6P/5PP1/5RK1 w - - 0 24,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+47,Qxd5,c4d5,3r2k1/pp1q1p1p/3p2p1/3Q4/8/P6P/5PP1/5RK1 b - - 0 24,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+48,Rc8,d8c8,2r3k1/pp1q1p1p/3p2p1/3Q4/8/P6P/5PP1/5RK1 w - - 1 25,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+49,Rd1,f1d1,2r3k1/pp1q1p1p/3p2p1/3Q4/8/P6P/5PP1/3R2K1 b - - 2 25,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+50,Rc6,c8c6,6k1/pp1q1p1p/2rp2p1/3Q4/8/P6P/5PP1/3R2K1 w - - 3 26,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+51,a4,a3a4,6k1/pp1q1p1p/2rp2p1/3Q4/P7/7P/5PP1/3R2K1 b - - 0 26,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+52,b6,b7b6,6k1/p2q1p1p/1prp2p1/3Q4/P7/7P/5PP1/3R2K1 w - - 0 27,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+53,f3,f2f3,6k1/p2q1p1p/1prp2p1/3Q4/P7/5P1P/6P1/3R2K1 b - - 0 27,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+54,Rc5,c6c5,6k1/p2q1p1p/1p1p2p1/2rQ4/P7/5P1P/6P1/3R2K1 w - - 1 28,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+55,Qa8+,d5a8,Q5k1/p2q1p1p/1p1p2p1/2r5/P7/5P1P/6P1/3R2K1 b - - 2 28,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+56,Rc8,c5c8,Q1r3k1/p2q1p1p/1p1p2p1/8/P7/5P1P/6P1/3R2K1 w - - 3 29,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+57,Qe4,a8e4,2r3k1/p2q1p1p/1p1p2p1/8/P3Q3/5P1P/6P1/3R2K1 b - - 4 29,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+58,Re8,c8e8,4r1k1/p2q1p1p/1p1p2p1/8/P3Q3/5P1P/6P1/3R2K1 w - - 5 30,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+59,Rxd6,d1d6,4r1k1/p2q1p1p/1p1R2p1/8/P3Q3/5P1P/6P1/6K1 b - - 0 30,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+60,Qxd6,d7d6,4r1k1/p4p1p/1p1q2p1/8/P3Q3/5P1P/6P1/6K1 w - - 0 31,"and here, the computer prefers 30.... Rxe4, allowing Black to pick off the a4 pawn after White reciprocates."
+61,Qxe8+,e4e8,4Q1k1/p4p1p/1p1q2p1/8/P7/5P1P/6P1/6K1 b - - 0 31,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+62,Qf8,d6f8,4Qqk1/p4p1p/1p4p1/8/P7/5P1P/6P1/6K1 w - - 1 32,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+63,Qb5,e8b5,5qk1/p4p1p/1p4p1/1Q6/P7/5P1P/6P1/6K1 b - - 2 32,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+64,Qe7,f8e7,6k1/p3qp1p/1p4p1/1Q6/P7/5P1P/6P1/6K1 w - - 3 33,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+65,Kf1,g1f1,6k1/p3qp1p/1p4p1/1Q6/P7/5P1P/6P1/5K2 b - - 4 33,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+66,Kf8,g8f8,5k2/p3qp1p/1p4p1/1Q6/P7/5P1P/6P1/5K2 w - - 5 34,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+67,f4,f3f4,5k2/p3qp1p/1p4p1/1Q6/P4P2/7P/6P1/5K2 b - - 0 34,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"
+68,Qc5,e7c5,5k2/p4p1p/1p4p1/1Qq5/P4P2/7P/6P1/5K2 w - - 1 35,"? Generally speaking, I believe it's a good principle to exchange when ahead on material, but this is one of those occasions when you have to look further.  Better was 30… Qe4 35. f5 Qxf5+ 36. Qxf5 gxf5 37. Ke2 Ke7 38. Ke3 h5 39. Kd4 Ke6 40. g3 a6 41. Kc4 Ke5 42. Kb4"

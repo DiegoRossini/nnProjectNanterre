@@ -1,0 +1,35 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,thinking of fried liver attack
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,thinking of fried liver attack
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,thinking of fried liver attack
+4,f6,f7f6,rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,breaks fried liver attack totally
+5,d4,d2d4,rnbqkbnr/pppp2pp/5p2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,so I bring up extra d4 pawn which is always good
+6,d6,d7d6,rnbqkbnr/ppp3pp/3p1p2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,extra defender
+7,Nc3,b1c3,rnbqkbnr/ppp3pp/3p1p2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,"don't really know what to do, so I do the knight which doesn't block anything"
+8,c6,c7c6,rnbqkbnr/pp4pp/2pp1p2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,thinks of pinning my knight down with queen
+9,dxe5,d4e5,rnbqkbnr/pp4pp/2pp1p2/4P3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,"I realize I can take e5 now, het takes back left or right, either queens trade or new fried liver attempt"
+10,dxe5,d6e5,rnbqkbnr/pp4pp/2p2p2/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,becomes queens trade
+11,Qxd8+,d1d8,rnbQkbnr/pp4pp/2p2p2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R b KQkq - 0 6,so no balck castle possible anymore
+12,Kxd8,e8d8,rnbk1bnr/pp4pp/2p2p2/4p3/4P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 0 7,so no balck castle possible anymore
+13,Be3,c1e3,rnbk1bnr/pp4pp/2p2p2/4p3/4P3/2N1BN2/PPP2PPP/R3KB1R b KQ - 1 7,remove black bishop for castle + check
+14,Bd7,c8d7,rn1k1bnr/pp1b2pp/2p2p2/4p3/4P3/2N1BN2/PPP2PPP/R3KB1R w KQ - 2 8,anticipates that
+15,O-O-O,e1c1,rn1k1bnr/pp1b2pp/2p2p2/4p3/4P3/2N1BN2/PPP2PPP/2KR1B1R b - - 3 8,"though he responds well, I can still pin down white bisshop, go freely to e6 and his two knights are quite blocked, so I castle"
+16,Be7,f8e7,rn1k2nr/pp1bb1pp/2p2p2/4p3/4P3/2N1BN2/PPP2PPP/2KR1B1R w - - 4 9,avoiding pin
+17,Bc4,f1c4,rn1k2nr/pp1bb1pp/2p2p2/4p3/2B1P3/2N1BN2/PPP2PPP/2KR3R b - - 5 9,avoiding pin
+18,Kc7,d8c7,rn4nr/ppkbb1pp/2p2p2/4p3/2B1P3/2N1BN2/PPP2PPP/2KR3R w - - 6 10,avoiding pin
+19,Na4,c3a4,rn4nr/ppkbb1pp/2p2p2/4p3/N1B1P3/4BN2/PPP2PPP/2KR3R b - - 7 10,"would like to get knight c5 before pawn b6 and rook on line a, losing black bishop for rook"
+20,b5,b7b5,rn4nr/p1kbb1pp/2p2p2/1p2p3/N1B1P3/4BN2/PPP2PPP/2KR3R w - - 0 11,damn didn't see
+21,Bxb5,c4b5,rn4nr/p1kbb1pp/2p2p2/1B2p3/N3P3/4BN2/PPP2PPP/2KR3R b - - 0 11,having the max out of this trade
+22,cxb5,c6b5,rn4nr/p1kbb1pp/5p2/1p2p3/N3P3/4BN2/PPP2PPP/2KR3R w - - 0 12,"that rook becomes mine 100% sure, left or right?"
+23,Nc3,a4c3,rn4nr/p1kbb1pp/5p2/1p2p3/4P3/2N1BN2/PPP2PPP/2KR3R b - - 1 12,"that rook becomes mine 100% sure, left or right?"
+24,a5,a7a5,rn4nr/2kbb1pp/5p2/pp2p3/4P3/2N1BN2/PPP2PPP/2KR3R w - - 0 13,"that rook becomes mine 100% sure, left or right?"
+25,Nd5+,c3d5,rn4nr/2kbb1pp/5p2/pp1Np3/4P3/4BN2/PPP2PPP/2KR3R b - - 1 13,"that rook becomes mine 100% sure, left or right?"
+26,Kd8,c7d8,rn1k2nr/3bb1pp/5p2/pp1Np3/4P3/4BN2/PPP2PPP/2KR3R w - - 2 14,"that rook becomes mine 100% sure, left or right?"
+27,Bb6+,e3b6,rn1k2nr/3bb1pp/1B3p2/pp1Np3/4P3/5N2/PPP2PPP/2KR3R b - - 3 14,"that rook becomes mine 100% sure, left or right?"
+28,Kc8,d8c8,rnk3nr/3bb1pp/1B3p2/pp1Np3/4P3/5N2/PPP2PPP/2KR3R w - - 4 15,"chose Kc8, best option since he wins a move now"
+29,Nc7,d5c7,rnk3nr/2Nbb1pp/1B3p2/pp2p3/4P3/5N2/PPP2PPP/2KR3R b - - 5 15,now chasing white bishop
+30,Kb7,c8b7,rn4nr/1kNbb1pp/1B3p2/pp2p3/4P3/5N2/PPP2PPP/2KR3R w - - 6 16,now chasing white bishop
+31,Nxa8,c7a8,Nn4nr/1k1bb1pp/1B3p2/pp2p3/4P3/5N2/PPP2PPP/2KR3R b - - 0 16,now chasing white bishop
+32,Kxa8,b7a8,kn4nr/3bb1pp/1B3p2/pp2p3/4P3/5N2/PPP2PPP/2KR3R w - - 0 17,now chasing white bishop
+33,Bc7,b6c7,kn4nr/2Bbb1pp/5p2/pp2p3/4P3/5N2/PPP2PPP/2KR3R b - - 1 17,now chasing white bishop
+34,Bg4,d7g4,kn4nr/2B1b1pp/5p2/pp2p3/4P1b1/5N2/PPP2PPP/2KR3R w - - 2 18,"chooses to run, quite best option"

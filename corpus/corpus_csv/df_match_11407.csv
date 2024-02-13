@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Playing a reti opening, if black accepts the pawn white will play e3 and regain the pawn."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"Playing a reti opening, if black accepts the pawn white will play e3 and regain the pawn."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,"Playing a reti opening, if black accepts the pawn white will play e3 and regain the pawn."
+4,d4,d5d4,rnbqkbnr/ppp1pppp/8/8/2Pp4/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,Becoming a reversed benoni.
+5,e3,e2e3,rnbqkbnr/ppp1pppp/8/8/2Pp4/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 3,Challenging the black center
+6,c5,c7c5,rnbqkbnr/pp2pppp/8/2p5/2Pp4/4PN2/PP1P1PPP/RNBQKB1R w KQkq - 0 4,"Exchanging white's inactive e pawn for the strong d pawn. Another idea is b4, almost a reversed blumenfeld counter gambit, when white will sacrifice a pawn for a strong center."
+7,exd4,e3d4,rnbqkbnr/pp2pppp/8/2p5/2PP4/5N2/PP1P1PPP/RNBQKB1R b KQkq - 0 4,"Exchanging white's inactive e pawn for the strong d pawn. Another idea is b4, almost a reversed blumenfeld counter gambit, when white will sacrifice a pawn for a strong center."
+8,cxd4,c5d4,rnbqkbnr/pp2pppp/8/8/2Pp4/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 5,Following along lines of the benoni.
+9,d3,d2d3,rnbqkbnr/pp2pppp/8/8/2Pp4/3P1N2/PP3PPP/RNBQKB1R b KQkq - 0 5,Following along lines of the benoni.
+10,Nc6,b8c6,r1bqkbnr/pp2pppp/2n5/8/2Pp4/3P1N2/PP3PPP/RNBQKB1R w KQkq - 1 6,Following along lines of the benoni.
+11,g3,g2g3,r1bqkbnr/pp2pppp/2n5/8/2Pp4/3P1NP1/PP3P1P/RNBQKB1R b KQkq - 0 6,Following along lines of the benoni.
+12,e5,e7e5,r1bqkbnr/pp3ppp/2n5/4p3/2Pp4/3P1NP1/PP3P1P/RNBQKB1R w KQkq - 0 7,Following along lines of the benoni.
+13,Bg2,f1g2,r1bqkbnr/pp3ppp/2n5/4p3/2Pp4/3P1NP1/PP3PBP/RNBQK2R b KQkq - 1 7,Following along lines of the benoni.
+14,Nf6,g8f6,r1bqkb1r/pp3ppp/2n2n2/4p3/2Pp4/3P1NP1/PP3PBP/RNBQK2R w KQkq - 2 8,Black doesn't play the super sharp f5 because white can castle and black will be behind in devlopment.
+15,O-O,e1g1,r1bqkb1r/pp3ppp/2n2n2/4p3/2Pp4/3P1NP1/PP3PBP/RNBQ1RK1 b kq - 3 8,A typical benoni move pressurring e5.
+16,Be7,f8e7,r1bqk2r/pp2bppp/2n2n2/4p3/2Pp4/3P1NP1/PP3PBP/RNBQ1RK1 w kq - 4 9,A typical benoni move pressurring e5.
+17,Re1,f1e1,r1bqk2r/pp2bppp/2n2n2/4p3/2Pp4/3P1NP1/PP3PBP/RNBQR1K1 b kq - 5 9,A typical benoni move pressurring e5.
+18,Bg4,c8g4,r2qk2r/pp2bppp/2n2n2/4p3/2Pp2b1/3P1NP1/PP3PBP/RNBQR1K1 w kq - 6 10,"Preparing to exhange on f6 because white has less space,"
+19,Bg5,c1g5,r2qk2r/pp2bppp/2n2n2/4p1B1/2Pp2b1/3P1NP1/PP3PBP/RN1QR1K1 b kq - 7 10,"Preparing to exhange on f6 because white has less space,"
+20,O-O,e8g8,r2q1rk1/pp2bppp/2n2n2/4p1B1/2Pp2b1/3P1NP1/PP3PBP/RN1QR1K1 w - - 8 11,Protecting the king.
+21,Nbd2,b1d2,r2q1rk1/pp2bppp/2n2n2/4p1B1/2Pp2b1/3P1NP1/PP1N1PBP/R2QR1K1 b - - 9 11,"A typical benoni move when white will play a3, b4, Qb3 and have queenside initiative."
+22,Rc8,a8c8,2rq1rk1/pp2bppp/2n2n2/4p1B1/2Pp2b1/3P1NP1/PP1N1PBP/R2QR1K1 w - - 10 12,Developing his rook but probably not correct as this doesn't pressure white and white can develop his plan at ease. One try is h6 when at least black has the two bishops and he can try to bust open the center.
+23,a3,a2a3,2rq1rk1/pp2bppp/2n2n2/4p1B1/2Pp2b1/P2P1NP1/1P1N1PBP/R2QR1K1 b - - 0 12,Preparing b4.
+24,h6,h7h6,2rq1rk1/pp2bpp1/2n2n1p/4p1B1/2Pp2b1/P2P1NP1/1P1N1PBP/R2QR1K1 w - - 0 13,Pressuring the bishop but at the wrong time as now white can implement his plan. Better was a5.
+25,Bxf6,g5f6,2rq1rk1/pp2bpp1/2n2B1p/4p3/2Pp2b1/P2P1NP1/1P1N1PBP/R2QR1K1 b - - 0 13,Releasing the pin and preparing a b5 or c5 advance.
+26,Bxf6,e7f6,2rq1rk1/pp3pp1/2n2b1p/4p3/2Pp2b1/P2P1NP1/1P1N1PBP/R2QR1K1 w - - 0 14,Releasing the pin and preparing a b5 or c5 advance.
+27,b4,b2b4,2rq1rk1/pp3pp1/2n2b1p/4p3/1PPp2b1/P2P1NP1/3N1PBP/R2QR1K1 b - - 0 14,Releasing the pin and preparing a b5 or c5 advance.
+28,Re8,f8e8,2rqr1k1/pp3pp1/2n2b1p/4p3/1PPp2b1/P2P1NP1/3N1PBP/R2QR1K1 w - - 1 15,Releasing the pin and preparing a b5 or c5 advance.
+29,Qb3,d1b3,2rqr1k1/pp3pp1/2n2b1p/4p3/1PPp2b1/PQ1P1NP1/3N1PBP/R3R1K1 b - - 2 15,Releasing the pin and preparing a b5 or c5 advance.
+30,a6,a7a6,2rqr1k1/1p3pp1/p1n2b1p/4p3/1PPp2b1/PQ1P1NP1/3N1PBP/R3R1K1 w - - 0 16,Trying to stop b5 .
+31,Ne4,d2e4,2rqr1k1/1p3pp1/p1n2b1p/4p3/1PPpN1b1/PQ1P1NP1/5PBP/R3R1K1 b - - 1 16,Placing white's knight on an excellant square where it eyes the f6 bishop. This also clears the d2 square so the f3 knight might go to c4 after c5 and it will be clear the knights are better.
+32,Rc7,c8c7,3qr1k1/1pr2pp1/p1n2b1p/4p3/1PPpN1b1/PQ1P1NP1/5PBP/R3R1K1 w - - 2 17,"Defending all the weaknesses but black plays passively, still it's hard to find a plan for black. Maybe Bxf3 giveing up the two bishops because the f3 knight will go to c4."
+33,Nfd2,f3d2,3qr1k1/1pr2pp1/p1n2b1p/4p3/1PPpN1b1/PQ1P2P1/3N1PBP/R3R1K1 b - - 3 17,Heading to c4.
+34,b6,b7b6,3qr1k1/2r2pp1/ppn2b1p/4p3/1PPpN1b1/PQ1P2P1/3N1PBP/R3R1K1 w - - 0 18,Trying to stop c5 but this creates more queenside weaknesses.
+35,c5,c4c5,3qr1k1/2r2pp1/ppn2b1p/2P1p3/1P1pN1b1/PQ1P2P1/3N1PBP/R3R1K1 b - - 0 18,Clearing the c4 square.

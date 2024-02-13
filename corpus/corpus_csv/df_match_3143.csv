@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,A classic move; one of the oldest openings.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,A classic move; one of the oldest openings.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,A classic move; one of the oldest openings.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,A classic move; one of the oldest openings.
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,A classic move; one of the oldest openings.
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,"This is the Two Knights Defense: black pressures the e4 field, but reduces his own ability to defend the f7 field. As black, this is my favorite e4-e5 opening, not because I am particularly successful with it, but because it always full of tactical and sharp play.
+
+Mikhail Chigorin, who played two matches for the World Champion title against Steinitz, loved this opening and played it often."
+7,Nc3,b1c3,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4,"At a first glance, a good move: white develops a knight and defends a pawn. But in this particular position, there are better moves: 4.Ng5 (which always tempts me to play the Traxler experiment 4...Lc5?!), 4.d4, or less sharp 4.d3."
+8,Nxe4,f6e4,r1bqkb1r/pppp1ppp/2n5/4p3/2B1n3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5,This is the reason why 4.Nc3 isn't really good: black gains the initiative.
+9,Bxf7+,c4f7,r1bqkb1r/pppp1Bpp/2n5/4p3/4n3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 0 5,"On 5.Nxe4, black would reply with a fork 5...d5, so white decides to at least prevent black from castling."
+10,Kxf7,e8f7,r1bq1b1r/pppp1kpp/2n5/4p3/4n3/2N2N2/PPPP1PPP/R1BQK2R w KQ - 0 6,Controls the center with the tempo. My plan is to gain space and push white knights back to their ranks.
+11,Nxe4,c3e4,r1bq1b1r/pppp1kpp/2n5/4p3/4N3/5N2/PPPP1PPP/R1BQK2R b KQ - 0 6,Controls the center with the tempo. My plan is to gain space and push white knights back to their ranks.
+12,d5,d7d5,r1bq1b1r/ppp2kpp/2n5/3pp3/4N3/5N2/PPPP1PPP/R1BQK2R w KQ - 0 7,Controls the center with the tempo. My plan is to gain space and push white knights back to their ranks.
+13,Neg5+,e4g5,r1bq1b1r/ppp2kpp/2n5/3pp1N1/8/5N2/PPPP1PPP/R1BQK2R b KQ - 1 7,"I was expecting 7.Ng3. After this check, white knight will end on a rim."
+14,Ke8,f7e8,r1bqkb1r/ppp3pp/2n5/3pp1N1/8/5N2/PPPP1PPP/R1BQK2R w KQ - 2 8,"I regretted this move later, 7...Kg8 was probably better. This leaves the black king in the center and puts it on a semi-open e-file. However, many times in the past, I've lost games that started similarly due to the sudden kingside attacks, so this time my personal experience trumped the common sense. Besides, I've thought that this move would mean easier future development for the rook. As it turned out, that rook served only one purpose till the end - to be captured by the white knight. :)"
+15,h4,h2h4,r1bqkb1r/ppp3pp/2n5/3pp1N1/7P/5N2/PPPP1PP1/R1BQK2R b KQ - 0 8,"I don't know whether this move was played to protect the knight or to start the kingside offense, but neither seems realistic to me. Fritz suggests 8.d4 h6 9.Nh3 Bxh3 10.gxh3 and evaluates this position as slightly better for the black."
+16,h6,h7h6,r1bqkb1r/ppp3p1/2n4p/3pp1N1/7P/5N2/PPPP1PP1/R1BQK2R w KQ - 0 9,"I stick to my ""gain space/chase knights back"" plan."
+17,Nh3,g5h3,r1bqkb1r/ppp3p1/2n4p/3pp3/7P/5N1N/PPPP1PP1/R1BQK2R b KQ - 1 9,And yet again; white knight has to retreat to his starting point.
+18,e4,e5e4,r1bqkb1r/ppp3p1/2n4p/3p4/4p2P/5N1N/PPPP1PP1/R1BQK2R w KQ - 0 10,And yet again; white knight has to retreat to his starting point.
+19,Qe2,d1e2,r1bqkb1r/ppp3p1/2n4p/3p4/4p2P/5N1N/PPPPQPP1/R1B1K2R b KQ - 1 10,"Trying to pin down the pawn, but this complication could have ended bad for white."
+20,Qe7,d8e7,r1b1kb1r/ppp1q1p1/2n4p/3p4/4p2P/5N1N/PPPPQPP1/R1B1K2R w KQ - 2 11,"As a reply, I've played this move without too much thinking, missing the opportunity to play 10...Bg4, and the white knight falls after 11...Qe7."
+21,Nfg1,f3g1,r1b1kb1r/ppp1q1p1/2n4p/3p4/4p2P/7N/PPPPQPP1/R1B1K1NR b KQ - 3 11,"The knight retreats to g1. I was quite happy with the opening: white is underdeveloped, his knight is on the edge of the board, black controls the center and has the space advantage."
+22,Qxh4,e7h4,r1b1kb1r/ppp3p1/2n4p/3p4/4p2q/7N/PPPPQPP1/R1B1K1NR w KQ - 0 12,"Capturing the pawn was probably the best move, although I felt ""greedy"" after playing it."
+23,Qb5,e2b5,r1b1kb1r/ppp3p1/2n4p/1Q1p4/4p2q/7N/PPPP1PP1/R1B1K1NR b KQ - 1 12,"At this point, I regretted my earlier Ke8 move. White Queen is attacking the d5 pawn, pressuring b7 and pinning down the black knight."
+24,Qh5,h4h5,r1b1kb1r/ppp3p1/2n4p/1Q1p3q/4p3/7N/PPPP1PP1/R1B1K1NR w KQ - 2 13,"I wanted to defend my pawn, and didn't notice the possibility 12...Qg4 13.f4 Qxg2 14.Nf2 with the better position for black."
+25,Ne2,g1e2,r1b1kb1r/ppp3p1/2n4p/1Q1p3q/4p3/7N/PPPPNPP1/R1B1K2R b KQ - 3 13,"A developing move. Fritz suggests 13.c4 instead, which increases pressure on d5."
+26,Qe5,h5e5,r1b1kb1r/ppp3p1/2n4p/1Q1pq3/4p3/7N/PPPPNPP1/R1B1K2R w KQ - 4 14,"This was meant to prevent 14.Nd4 and to put the queen on a field safe from the white knight attack. However, the position is now evaluated as equal by Fritz. It suggests simply 13...Bd6 (and on 14.Nd4 Bd7 without the fear for b7 pawn) or 13...a6."
+27,d3,d2d3,r1b1kb1r/ppp3p1/2n4p/1Q1pq3/4p3/3P3N/PPP1NPP1/R1B1K2R b KQ - 0 14,A mistake. This move means that black will be able to pin down the white knight on e2. Fritz suggests 14.Nhf4 Bd7 15.Qxd5 (not 15.Nxd5 Nb4 16.Qxb7 Qxd5 17.Qxd5 Nxd5 and black is better) Qxd5 16.Nxd5 with the equalization.

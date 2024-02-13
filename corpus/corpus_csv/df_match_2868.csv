@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b4,b2b4,rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1,The game starts with the Sokolsky opening.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2,The pawns and a White Bishop move out.
+3,Bb2,c1b2,rnbqkbnr/ppp1pppp/8/3p4/1P6/8/PBPPPPPP/RN1QKBNR b KQkq - 1 2,The pawns and a White Bishop move out.
+4,f6,f7f6,rnbqkbnr/ppp1p1pp/5p2/3p4/1P6/8/PBPPPPPP/RN1QKBNR w KQkq - 0 3,The pawns and a White Bishop move out.
+5,d4,d2d4,rnbqkbnr/ppp1p1pp/5p2/3p4/1P1P4/8/PBP1PPPP/RN1QKBNR b KQkq - 0 3,The pawns and a White Bishop move out.
+6,e6,e7e6,rnbqkbnr/ppp3pp/4pp2/3p4/1P1P4/8/PBP1PPPP/RN1QKBNR w KQkq - 0 4,The pawns and a White Bishop move out.
+7,Nc3,b1c3,rnbqkbnr/ppp3pp/4pp2/3p4/1P1P4/2N5/PBP1PPPP/R2QKBNR b KQkq - 1 4,More pieces opening. Notice Black has only used pawns so far.
+8,c6,c7c6,rnbqkbnr/pp4pp/2p1pp2/3p4/1P1P4/2N5/PBP1PPPP/R2QKBNR w KQkq - 0 5,More pieces opening. Notice Black has only used pawns so far.
+9,e4,e2e4,rnbqkbnr/pp4pp/2p1pp2/3p4/1P1PP3/2N5/PBP2PPP/R2QKBNR b KQkq - 0 5,A dangerous move for white.
+10,dxe4,d5e4,rnbqkbnr/pp4pp/2p1pp2/8/1P1Pp3/2N5/PBP2PPP/R2QKBNR w KQkq - 0 6,Black takes the chance and takes the pawn.
+11,Nxe4,c3e4,rnbqkbnr/pp4pp/2p1pp2/8/1P1PN3/8/PBP2PPP/R2QKBNR b KQkq - 0 6,The pawns exchange.
+12,f5,f6f5,rnbqkbnr/pp4pp/2p1p3/5p2/1P1PN3/8/PBP2PPP/R2QKBNR w KQkq - 0 7,Black tries to take whites knight.
+13,Nc3,e4c3,rnbqkbnr/pp4pp/2p1p3/5p2/1P1P4/2N5/PBP2PPP/R2QKBNR b KQkq - 1 7,The knight retreats.
+14,h5,h7h5,rnbqkbnr/pp4p1/2p1p3/5p1p/1P1P4/2N5/PBP2PPP/R2QKBNR w KQkq - 0 8,Moving a side-rank pawn out. Black has STILL only used pawns!
+15,Bc4,f1c4,rnbqkbnr/pp4p1/2p1p3/5p1p/1PBP4/2N5/PBP2PPP/R2QK1NR b KQkq - 1 8,More developing by white.
+16,Bxb4,f8b4,rnbqk1nr/pp4p1/2p1p3/5p1p/1bBP4/2N5/PBP2PPP/R2QK1NR w KQkq - 0 9,Black takes white's free pawn.
+17,Nf3,g1f3,rnbqk1nr/pp4p1/2p1p3/5p1p/1bBP4/2N2N2/PBP2PPP/R2QK2R b KQkq - 1 9,More developing here.
+18,b5,b7b5,rnbqk1nr/p5p1/2p1p3/1p3p1p/1bBP4/2N2N2/PBP2PPP/R2QK2R w KQkq - 0 10,Taking out the B pawn to take the bishop.
+19,Bb3,c4b3,rnbqk1nr/p5p1/2p1p3/1p3p1p/1b1P4/1BN2N2/PBP2PPP/R2QK2R b KQkq - 1 10,The bishop retreats. Black tries to corner it in by doing a4.
+20,a5,a7a5,rnbqk1nr/6p1/2p1p3/pp3p1p/1b1P4/1BN2N2/PBP2PPP/R2QK2R w KQkq - 0 11,The bishop retreats. Black tries to corner it in by doing a4.
+21,a4,a2a4,rnbqk1nr/6p1/2p1p3/pp3p1p/Pb1P4/1BN2N2/1BP2PPP/R2QK2R b KQkq - 0 11,White stops the move from happening.
+22,Qf6,d8f6,rnb1k1nr/6p1/2p1pq2/pp3p1p/Pb1P4/1BN2N2/1BP2PPP/R2QK2R w KQkq - 1 12,Black advances his Queen.
+23,axb5,a4b5,rnb1k1nr/6p1/2p1pq2/pP3p1p/1b1P4/1BN2N2/1BP2PPP/R2QK2R b KQkq - 0 12,Black and white exchange pawns on b5. Back can STILL corner the bishop.
+24,cxb5,c6b5,rnb1k1nr/6p1/4pq2/pp3p1p/1b1P4/1BN2N2/1BP2PPP/R2QK2R w KQkq - 0 13,Black and white exchange pawns on b5. Back can STILL corner the bishop.
+25,O-O,e1g1,rnb1k1nr/6p1/4pq2/pp3p1p/1b1P4/1BN2N2/1BP2PPP/R2Q1RK1 b kq - 1 13,White castles. Black is far from castling.
+26,Bb7,c8b7,rn2k1nr/1b4p1/4pq2/pp3p1p/1b1P4/1BN2N2/1BP2PPP/R2Q1RK1 w kq - 2 14,Black develops his bishop.
+27,Nxb5,c3b5,rn2k1nr/1b4p1/4pq2/pN3p1p/1b1P4/1B3N2/1BP2PPP/R2Q1RK1 b kq - 0 14,"The knight takes the pawn on b5, preventing the bishop from being cornered."

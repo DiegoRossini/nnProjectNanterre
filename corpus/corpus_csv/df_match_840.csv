@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,So I start conventionally.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"A normal developing move, preventing e2-e4"
+3,c4,c2c4,rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,This is the normal move in this position.
+4,e6,e7e6,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"Another normal move, opening a diagonal for his bishop."
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3,"So I continue to develop, threatening e2-e4, with a big pawn centre."
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4,This is now a Nimzo-Indian defence.
+7,e3,e2e3,rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4,I play the main line.
+8,b6,b7b6,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 0 5,"This is called the Fischer Variation, as it was played occasionally by the late World Chess Champion, Bobby Fischer in his youth. In fact he was more famous for playing the King's Indian or Gruenfeld as black against 1. d4."
+9,Bd3,f1d3,rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR b KQkq - 1 5,"So I continue my development, threatening e3-e4 again."
+10,Bb7,c8b7,rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR w KQkq - 2 6,He develops.
+11,f3,f2f3,rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/2NBPP2/PP4PP/R1BQK1NR b KQkq - 0 6,"This seems to me a very natural move, blunting the Bb7 and preparing e3-e4 at some stage."
+12,d5,d7d5,rn1qk2r/pbp2ppp/1p2pn2/3p4/1bPP4/2NBPP2/PP4PP/R1BQK1NR w KQkq - 0 7,"He tries to block e3-e4. I was quite happy to see this move. if ever he doubles my c pawns with Bb4xc3, I can always undouble them with c4xd5."
+13,Nge2,g1e2,rn1qk2r/pbp2ppp/1p2pn2/3p4/1bPP4/2NBPP2/PP2N1PP/R1BQK2R b KQkq - 1 7,So I continue my development.
+14,Nbd7,b8d7,r2qk2r/pbpn1ppp/1p2pn2/3p4/1bPP4/2NBPP2/PP2N1PP/R1BQK2R w KQkq - 2 8,He develops his knight to a fairly logical square.
+15,a3,a2a3,r2qk2r/pbpn1ppp/1p2pn2/3p4/1bPP4/P1NBPP2/1P2N1PP/R1BQK2R b KQkq - 0 8,"Again, this seems like a logical follow-up to my last move."
+16,Bd6,b4d6,r2qk2r/pbpn1ppp/1p1bpn2/3p4/2PP4/P1NBPP2/1P2N1PP/R1BQK2R w KQkq - 1 9,"Instead of exchanging, he retreats, but I think this square is inferior, because if I decide to advance with b2-b4 and c4-c5 I will gain a tempo by attacking his bishop, or if I decide to advance in the centre, e3-e4 will threaten e4-e5 forking his bishop or knight. I think he would have been better to retreat to e7, or to exchange bishop for knight. Now I can't advance in the centre immediately, because he has a nasty queen check on h4, for instance 9.	e4? dxe4 10. fxe4 Nxe4 11. Nxe4	Bxe4 12. Bxe4 Qh4+ followed by taking the bishop on e4."
+17,O-O,e1g1,r2qk2r/pbpn1ppp/1p1bpn2/3p4/2PP4/P1NBPP2/1P2N1PP/R1BQ1RK1 b kq - 2 9,So I castle instead.
+18,O-O,e8g8,r2q1rk1/pbpn1ppp/1p1bpn2/3p4/2PP4/P1NBPP2/1P2N1PP/R1BQ1RK1 w - - 3 10,And so does he.
+19,e4,e3e4,r2q1rk1/pbpn1ppp/1p1bpn2/3p4/2PPP3/P1NB1P2/1P2N1PP/R1BQ1RK1 b - - 0 10,"I advance in the centre, but with the gift of hindsight, I think this may be premature. Maybe Kh1 is better, so that his bishop can't go to c5 with check, although having said that, my computer likes this move!"
+20,dxe4,d5e4,r2q1rk1/pbpn1ppp/1p1bpn2/8/2PPp3/P1NB1P2/1P2N1PP/R1BQ1RK1 w - - 0 11,"So he takes. My computer likes the other take, dxc4, but dxe4 seems quite natural to me too!"

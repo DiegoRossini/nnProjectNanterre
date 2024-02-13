@@ -1,0 +1,42 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,White opened with King's pawn and I responded with Nc3.
+2,Nc6,b8c6,r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,White opened with King's pawn and I responded with Nc3.
+3,d4,d2d4,r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,White opened with King's pawn and I responded with Nc3.
+4,e5,e7e5,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,White opened with King's pawn and I responded with Nc3.
+5,Qg4,d1g4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP1Q1/8/PPP2PPP/RNB1KBNR b KQkq - 1 3,White moved out queen to g4 which threatened my d7 and g7 pawns. I responded by taking d4 pawn with my knight.
+6,Nxd4,c6d4,r1bqkbnr/pppp1ppp/8/4p3/3nP1Q1/8/PPP2PPP/RNB1KBNR w KQkq - 0 4,White moved out queen to g4 which threatened my d7 and g7 pawns. I responded by taking d4 pawn with my knight.
+7,Bg5,c1g5,r1bqkbnr/pppp1ppp/8/4p1B1/3nP1Q1/8/PPP2PPP/RN2KBNR b KQkq - 1 4,After white's DB moved to g5 threatening my queen I moved to check king with Bb4.
+8,Bb4+,f8b4,r1bqk1nr/pppp1ppp/8/4p1B1/1b1nP1Q1/8/PPP2PPP/RN2KBNR w KQkq - 2 5,After white's DB moved to g5 threatening my queen I moved to check king with Bb4.
+9,Kd1,e1d1,r1bqk1nr/pppp1ppp/8/4p1B1/1b1nP1Q1/8/PPP2PPP/RN1K1BNR b kq - 3 5,White king moves out of check and I develop f7 pawn threatening LB at g5.
+10,f6,f7f6,r1bqk1nr/pppp2pp/5p2/4p1B1/1b1nP1Q1/8/PPP2PPP/RN1K1BNR w kq - 0 6,White king moves out of check and I develop f7 pawn threatening LB at g5.
+11,Bxf6,g5f6,r1bqk1nr/pppp2pp/5B2/4p3/1b1nP1Q1/8/PPP2PPP/RN1K1BNR b kq - 0 6,DB captures my pawn and I retake with g knight and also now threatening queen.
+12,Nxf6,g8f6,r1bqk2r/pppp2pp/5n2/4p3/1b1nP1Q1/8/PPP2PPP/RN1K1BNR w kq - 0 7,DB captures my pawn and I retake with g knight and also now threatening queen.
+13,Qxg7,g4g7,r1bqk2r/pppp2Qp/5n2/4p3/1b1nP3/8/PPP2PPP/RN1K1BNR b kq - 0 7,White queen ignores my threat and slides down to take my g7 pawn which was unprotected.  Other captures seem likely including my h1 rook.  I move out my d7 pawn to make room for my LB and queen to  try to thwart the white queen.
+14,d5,d7d5,r1bqk2r/ppp3Qp/5n2/3pp3/1b1nP3/8/PPP2PPP/RN1K1BNR w kq - 0 8,White queen ignores my threat and slides down to take my g7 pawn which was unprotected.  Other captures seem likely including my h1 rook.  I move out my d7 pawn to make room for my LB and queen to  try to thwart the white queen.
+15,Qxh8+,g7h8,r1bqk2Q/ppp4p/5n2/3pp3/1b1nP3/8/PPP2PPP/RN1K1BNR b q - 0 8,White queen captures h1 rook and I bring down DB to f8 to protect king. The only thing the queen can take is pawn at h7 which is protected by my knight at NF3.
+16,Bf8,b4f8,r1bqkb1Q/ppp4p/5n2/3pp3/3nP3/8/PPP2PPP/RN1K1BNR w q - 1 9,White queen captures h1 rook and I bring down DB to f8 to protect king. The only thing the queen can take is pawn at h7 which is protected by my knight at NF3.
+17,exd5,e4d5,r1bqkb1Q/ppp4p/5n2/3Pp3/3n4/8/PPP2PPP/RN1K1BNR b q - 0 9,White realises that my f knight is busy and will be unable to retake as it takes my d5 pawn.  I bring my queen out to offer protection to the knight and try to contain the queen and hope to capture.
+18,Qe7,d8e7,r1b1kb1Q/ppp1q2p/5n2/3Pp3/3n4/8/PPP2PPP/RN1K1BNR w q - 1 10,White realises that my f knight is busy and will be unable to retake as it takes my d5 pawn.  I bring my queen out to offer protection to the knight and try to contain the queen and hope to capture.
+19,Nh3,g1h3,r1b1kb1Q/ppp1q2p/5n2/3Pp3/3n4/7N/PPP2PPP/RN1K1B1R b q - 2 10,G knight moves to h3 and black f knight sees a chance to capture the pawn at d5.  This gives black the centre.
+20,Nxd5,f6d5,r1b1kb1Q/ppp1q2p/8/3np3/3n4/7N/PPP2PPP/RN1K1B1R w q - 0 11,G knight moves to h3 and black f knight sees a chance to capture the pawn at d5.  This gives black the centre.
+21,Bd3,f1d3,r1b1kb1Q/ppp1q2p/8/3np3/3n4/3B3N/PPP2PPP/RN1K3R b q - 1 11,White's LB moves to d3.  I move my LB to e6 developing and protecting d knight.
+22,Be6,c8e6,r3kb1Q/ppp1q2p/4b3/3np3/3n4/3B3N/PPP2PPP/RN1K3R w q - 2 12,White's LB moves to d3.  I move my LB to e6 developing and protecting d knight.
+23,Qxe5,h8e5,r3kb2/ppp1q2p/4b3/3nQ3/3n4/3B3N/PPP2PPP/RN1K3R b q - 0 12,White queen captures unprotected pawn at e5 and I move LB to check king at g4 which could lead to exchange of queens.
+24,Bg4+,e6g4,r3kb2/ppp1q2p/8/3nQ3/3n2b1/3B3N/PPP2PPP/RN1K3R w q - 1 13,White queen captures unprotected pawn at e5 and I move LB to check king at g4 which could lead to exchange of queens.
+25,f3,f2f3,r3kb2/ppp1q2p/8/3nQ3/3n2b1/3B1P1N/PPP3PP/RN1K3R b q - 0 13,Pawn stops check with f3 move.  I now take the queen.
+26,Qxe5,e7e5,r3kb2/ppp4p/8/3nq3/3n2b1/3B1P1N/PPP3PP/RN1K3R w q - 0 14,Pawn stops check with f3 move.  I now take the queen.
+27,Re1,h1e1,r3kb2/ppp4p/8/3nq3/3n2b1/3B1P1N/PPP3PP/RN1KR3 b q - 1 14,White moves h8 rook to e8 and I respond by placing my knight on e3 checking king.
+28,Ne3+,d5e3,r3kb2/ppp4p/8/4q3/3n2b1/3BnP1N/PPP3PP/RN1KR3 w q - 2 15,White moves h8 rook to e8 and I respond by placing my knight on e3 checking king.
+29,Kd2,d1d2,r3kb2/ppp4p/8/4q3/3n2b1/3BnP1N/PPPK2PP/RN2R3 b q - 3 15,King moves out of check and I move my LB back to e6 to prevent capture by f3 pawn.
+30,Be6,g4e6,r3kb2/ppp4p/4b3/4q3/3n4/3BnP1N/PPPK2PP/RN2R3 w q - 4 16,King moves out of check and I move my LB back to e6 to prevent capture by f3 pawn.
+31,Bxh7,d3h7,r3kb2/ppp4B/4b3/4q3/3n4/4nP1N/PPPK2PP/RN2R3 b q - 0 16,White's LB captures pawn at h7 and I long castle.
+32,O-O-O,e8c8,2kr1b2/ppp4B/4b3/4q3/3n4/4nP1N/PPPK2PP/RN2R3 w - - 1 17,White's LB captures pawn at h7 and I long castle.
+33,Rxe3,e1e3,2kr1b2/ppp4B/4b3/4q3/3n4/4RP1N/PPPK2PP/RN6 b - - 0 17,White moves e knight down the e file and I move queen across to a5 and check the king.
+34,Qa5+,e5a5,2kr1b2/ppp4B/4b3/q7/3n4/4RP1N/PPPK2PP/RN6 w - - 1 18,White moves e knight down the e file and I move queen across to a5 and check the king.
+35,Rc3,e3c3,2kr1b2/ppp4B/4b3/q7/3n4/2R2P1N/PPPK2PP/RN6 b - - 2 18,White moves e rook to c3 to protect king and I  move DB to h6 and recheck king.
+36,Bh6+,f8h6,2kr4/ppp4B/4b2b/q7/3n4/2R2P1N/PPPK2PP/RN6 w - - 3 19,White moves e rook to c3 to protect king and I  move DB to h6 and recheck king.
+37,Ke1,d2e1,2kr4/ppp4B/4b2b/q7/3n4/2R2P1N/PPP3PP/RN2K3 b - - 4 19,King moves out of check and queen moves along to e5 and rechecks king.
+38,Qe5+,a5e5,2kr4/ppp4B/4b2b/4q3/3n4/2R2P1N/PPP3PP/RN2K3 w - - 5 20,King moves out of check and queen moves along to e5 and rechecks king.
+39,Kf2,e1f2,2kr4/ppp4B/4b2b/4q3/3n4/2R2P1N/PPP2KPP/RN6 b - - 6 20,King moves out of check again but queen continues up e file to recheck with knight in support.
+40,Qe2+,e5e2,2kr4/ppp4B/4b2b/8/3n4/2R2P1N/PPP1qKPP/RN6 w - - 7 21,King moves out of check again but queen continues up e file to recheck with knight in support.
+41,Kg3,f2g3,2kr4/ppp4B/4b2b/8/3n4/2R2PKN/PPP1q1PP/RN6 b - - 8 21,King moves out of check and my LB captures knight to remove this piece to give me a better chance of continuing my mating threat.

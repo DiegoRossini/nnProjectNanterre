@@ -1,0 +1,33 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game was in a Scandinavian Defense mini-tournament.
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This game was in a Scandinavian Defense mini-tournament.
+3,exd5,e4d5,rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,The main line.
+4,Qxd5,d8d5,rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3,The main line.
+5,d3,d2d3,rnb1kbnr/ppp1pppp/8/3q4/8/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 3,"?! Not a book move and very passive, blocking the light squared bishop. More common is 3.Nc3."
+6,e5,e7e5,rnb1kbnr/ppp2ppp/8/3qp3/8/3P4/PPP2PPP/RNBQKBNR w KQkq - 0 4,Taking control of the center.
+7,a3,a2a3,rnb1kbnr/ppp2ppp/8/3qp3/8/P2P4/1PP2PPP/RNBQKBNR b KQkq - 0 4,? Wastes a tempo. ...Bb4+ is not a threat here.
+8,Nc6,b8c6,r1b1kbnr/ppp2ppp/2n5/3qp3/8/P2P4/1PP2PPP/RNBQKBNR w KQkq - 1 5,Continuing with development.
+9,Nc3,b1c3,r1b1kbnr/ppp2ppp/2n5/3qp3/8/P1NP4/1PP2PPP/R1BQKBNR b KQkq - 2 5,? Another tempo waste.
+10,Qe6,d5e6,r1b1kbnr/ppp2ppp/2n1q3/4p3/8/P1NP4/1PP2PPP/R1BQKBNR w KQkq - 3 6,? Another tempo waste.
+11,h3,h2h3,r1b1kbnr/ppp2ppp/2n1q3/4p3/8/P1NP3P/1PP2PP1/R1BQKBNR b KQkq - 0 6,? Another tempo waste.
+12,Nf6,g8f6,r1b1kb1r/ppp2ppp/2n1qn2/4p3/8/P1NP3P/1PP2PP1/R1BQKBNR w KQkq - 1 7,? Gives up the bishop pair for nothing.
+13,Bg5,c1g5,r1b1kb1r/ppp2ppp/2n1qn2/4p1B1/8/P1NP3P/1PP2PP1/R2QKBNR b KQkq - 2 7,? Gives up the bishop pair for nothing.
+14,Be7,f8e7,r1b1k2r/ppp1bppp/2n1qn2/4p1B1/8/P1NP3P/1PP2PP1/R2QKBNR w KQkq - 3 8,? Gives up the bishop pair for nothing.
+15,Bxf6,g5f6,r1b1k2r/ppp1bppp/2n1qB2/4p3/8/P1NP3P/1PP2PP1/R2QKBNR b KQkq - 0 8,? Gives up the bishop pair for nothing.
+16,Bxf6,e7f6,r1b1k2r/ppp2ppp/2n1qb2/4p3/8/P1NP3P/1PP2PP1/R2QKBNR w KQkq - 0 9,"? Blocks in the f1-bishop even further, and allows my next move."
+17,Qe2,d1e2,r1b1k2r/ppp2ppp/2n1qb2/4p3/8/P1NP3P/1PP1QPP1/R3KBNR b KQkq - 1 9,"? Blocks in the f1-bishop even further, and allows my next move."
+18,Nd4,c6d4,r1b1k2r/ppp2ppp/4qb2/4p3/3n4/P1NP3P/1PP1QPP1/R3KBNR w KQkq - 2 10,"Violates the principle, 'Move every piece once before you move any piece twice unless there is a tactic,' but this move does not lose a tempo because white's queen is forced to move again and keep an eye on the c2 square. My knight position improves, but white's queen position does not, so this is a free beneficial move."
+19,Qd2,e2d2,r1b1k2r/ppp2ppp/4qb2/4p3/3n4/P1NP3P/1PPQ1PP1/R3KBNR b KQkq - 3 10,Preparing queenside castling. I want my rook on the d-file.
+20,Bd7,c8d7,r3k2r/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQ1PP1/R3KBNR w KQkq - 4 11,Preparing queenside castling. I want my rook on the d-file.
+21,Nge2,g1e2,r3k2r/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQNPP1/R3KB1R b KQkq - 5 11,"GK computer says this is an inaccuracy because of 11...Bg5 12.Qd1 f5, but what if 12.Qxg5? Then 12...Nxc2+ wins a rook, but there likely would be tactical complications with open lines on the kingside and the a1 knight trying not to get trapped. I considered 11...Bg5 but preferred a lead in development, pressure, active pieces, and the bishop pair to being up the Exchange with complications."
+22,O-O-O,e8c8,2kr3r/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQNPP1/R3KB1R w KQ - 6 12,Should I have played 11...Bg5? Is it better?
+23,O-O-O,e1c1,2kr3r/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQNPP1/2KR1B1R b - - 7 12,"?! Wastes a tempo in my opinion. I would have tried to get the f1 bishop out via g3, Rg1, and Bg2."
+24,Rhe8,h8e8,2krr3/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQNPP1/2KR1B1R w - - 8 13,"?! Wastes a tempo in my opinion. I would have tried to get the f1 bishop out via g3, Rg1, and Bg2."
+25,Kb1,c1b1,2krr3/pppb1ppp/4qb2/4p3/3n4/P1NP3P/1PPQNPP1/1K1R1B1R b - - 9 13,"?! Wastes a tempo in my opinion. I would have tried to get the f1 bishop out via g3, Rg1, and Bg2."
+26,Bc6,d7c6,2krr3/ppp2ppp/2b1qb2/4p3/3n4/P1NP3P/1PPQNPP1/1K1R1B1R w - - 10 14,"This move turns the f1 bishop into a tall pawn on the 1st rank, and clears the path of the d8-rook."
+27,Nxd4,e2d4,2krr3/ppp2ppp/2b1qb2/4p3/3N4/P1NP3P/1PPQ1PP1/1K1R1B1R b - - 0 14,"Logical move, trades a 2nd rank knight for a 5th rank knight."
+28,Rxd4,d8d4,2k1r3/ppp2ppp/2b1qb2/4p3/3r4/P1NP3P/1PPQ1PP1/1K1R1B1R w - - 0 15,I recaptured this way to make my rook more powerful.
+29,f3,f2f3,2k1r3/ppp2ppp/2b1qb2/4p3/3r4/P1NP1P1P/1PPQ2P1/1K1R1B1R b - - 0 15,The f1 bishop is completely useless now.
+30,Red8,e8d8,2kr4/ppp2ppp/2b1qb2/4p3/3r4/P1NP1P1P/1PPQ2P1/1K1R1B1R w - - 1 16,Doubling rooks to increase the pressure on the d-file.
+31,Be2,f1e2,2kr4/ppp2ppp/2b1qb2/4p3/3r4/P1NP1P1P/1PPQB1P1/1K1R3R b - - 2 16,Threatening 17...Bg5 then ...f5 and ripping open the center.
+32,h6,h7h6,2kr4/ppp2pp1/2b1qb1p/4p3/3r4/P1NP1P1P/1PPQB1P1/1K1R3R w - - 0 17,Threatening 17...Bg5 then ...f5 and ripping open the center.

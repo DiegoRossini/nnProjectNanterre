@@ -1,0 +1,30 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,Bird' s opening
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,White's bishop must develop on the b2 square otherwise it might be jammed
+3,e3,e2e3,rnbqkbnr/ppp1pppp/8/3p4/5P2/4P3/PPPP2PP/RNBQKBNR b KQkq - 0 2,White's bishop must develop on the b2 square otherwise it might be jammed
+4,c5,c7c5,rnbqkbnr/pp2pppp/8/2pp4/5P2/4P3/PPPP2PP/RNBQKBNR w KQkq - 0 3,White's bishop must develop on the b2 square otherwise it might be jammed
+5,b3,b2b3,rnbqkbnr/pp2pppp/8/2pp4/5P2/1P2P3/P1PP2PP/RNBQKBNR b KQkq - 0 3,White's bishop must develop on the b2 square otherwise it might be jammed
+6,e6,e7e6,rnbqkbnr/pp3ppp/4p3/2pp4/5P2/1P2P3/P1PP2PP/RNBQKBNR w KQkq - 0 4,When both the bishops are aligned like this they become extremely deadly
+7,Bb2,c1b2,rnbqkbnr/pp3ppp/4p3/2pp4/5P2/1P2P3/PBPP2PP/RN1QKBNR b KQkq - 1 4,When both the bishops are aligned like this they become extremely deadly
+8,Nf6,g8f6,rnbqkb1r/pp3ppp/4pn2/2pp4/5P2/1P2P3/PBPP2PP/RN1QKBNR w KQkq - 2 5,When both the bishops are aligned like this they become extremely deadly
+9,Nf3,g1f3,rnbqkb1r/pp3ppp/4pn2/2pp4/5P2/1P2PN2/PBPP2PP/RN1QKB1R b KQkq - 3 5,When both the bishops are aligned like this they become extremely deadly
+10,Be7,f8e7,rnbqk2r/pp2bppp/4pn2/2pp4/5P2/1P2PN2/PBPP2PP/RN1QKB1R w KQkq - 4 6,When both the bishops are aligned like this they become extremely deadly
+11,Bd3,f1d3,rnbqk2r/pp2bppp/4pn2/2pp4/5P2/1P1BPN2/PBPP2PP/RN1QK2R b KQkq - 5 6,When both the bishops are aligned like this they become extremely deadly
+12,O-O,e8g8,rnbq1rk1/pp2bppp/4pn2/2pp4/5P2/1P1BPN2/PBPP2PP/RN1QK2R w KQ - 6 7,the h7 pawn is in danger
+13,Ng5,f3g5,rnbq1rk1/pp2bppp/4pn2/2pp2N1/5P2/1P1BP3/PBPP2PP/RN1QK2R b KQ - 7 7,the h7 pawn is in danger
+14,g6,g7g6,rnbq1rk1/pp2bp1p/4pnp1/2pp2N1/5P2/1P1BP3/PBPP2PP/RN1QK2R w KQ - 0 8,Bringing the pawns up in front ensure blacks doom
+15,h4,h2h4,rnbq1rk1/pp2bp1p/4pnp1/2pp2N1/5P1P/1P1BP3/PBPP2P1/RN1QK2R b KQ - 0 8,Bringing the pawns up in front ensure blacks doom
+16,Nh5,f6h5,rnbq1rk1/pp2bp1p/4p1p1/2pp2Nn/5P1P/1P1BP3/PBPP2P1/RN1QK2R w KQ - 1 9,This not only stops the pawn development but also allows an exchange between the knight and the bishop but it is still a bad move .....
+17,Qxh5,d1h5,rnbq1rk1/pp2bp1p/4p1p1/2pp2NQ/5P1P/1P1BP3/PBPP2P1/RN2K2R b KQ - 0 9,"Qxh5! Brilliant 
+if gxh5 then Bxh7   
+So as black cannot kill the queen
+and the Qxh7   another mate
+Black is forced to kill the knight"
+18,Bxg5,e7g5,rnbq1rk1/pp3p1p/4p1p1/2pp2bQ/5P1P/1P1BP3/PBPP2P1/RN2K2R w KQ - 0 10,"Qxh7 
+Blacks game is falling right down on him"
+19,Qxh7+,h5h7,rnbq1rk1/pp3p1Q/4p1p1/2pp2b1/5P1P/1P1BP3/PBPP2P1/RN2K2R b KQ - 0 10,"Qxh7 
+Blacks game is falling right down on him"
+20,Kxh7,g8h7,rnbq1r2/pp3p1k/4p1p1/2pp2b1/5P1P/1P1BP3/PBPP2P1/RN2K2R w KQ - 0 11,And a beautiful short game
+21,hxg5+,h4g5,rnbq1r2/pp3p1k/4p1p1/2pp2P1/5P2/1P1BP3/PBPP2P1/RN2K2R b KQ - 0 11,And a beautiful short game
+22,Kg8,h7g8,rnbq1rk1/pp3p2/4p1p1/2pp2P1/5P2/1P1BP3/PBPP2P1/RN2K2R w KQ - 1 12,And a beautiful short game
+23,Rh8#,h1h8,rnbq1rkR/pp3p2/4p1p1/2pp2P1/5P2/1P1BP3/PBPP2P1/RN2K3 b Q - 2 12,And a beautiful short game

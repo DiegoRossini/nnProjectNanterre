@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,b3,b2b3,rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1,"After an aggressive start, Black has to constantly retreat when opposing advancing pawns that own the center and rooks that own the c-file."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 1 2,I decided against Nc3 so I'd be able to play c4.
+3,Bb2,c1b2,rnbqkb1r/pppppppp/5n2/8/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 2 2,I decided against Nc3 so I'd be able to play c4.
+4,Nc6,b8c6,r1bqkb1r/pppppppp/2n2n2/8/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 3 3,I decided against Nc3 so I'd be able to play c4.
+5,Nf3,g1f3,r1bqkb1r/pppppppp/2n2n2/8/8/1P3N2/PBPPPPPP/RN1QKB1R b KQkq - 4 3,I decided against Nc3 so I'd be able to play c4.
+6,g6,g7g6,r1bqkb1r/pppppp1p/2n2np1/8/8/1P3N2/PBPPPPPP/RN1QKB1R w KQkq - 0 4,I decided against Nc3 so I'd be able to play c4.
+7,e3,e2e3,r1bqkb1r/pppppp1p/2n2np1/8/8/1P2PN2/PBPP1PPP/RN1QKB1R b KQkq - 0 4,I decided against Nc3 so I'd be able to play c4.
+8,Bg7,f8g7,r1bqk2r/ppppppbp/2n2np1/8/8/1P2PN2/PBPP1PPP/RN1QKB1R w KQkq - 1 5,I decided against Nc3 so I'd be able to play c4.
+9,Be2,f1e2,r1bqk2r/ppppppbp/2n2np1/8/8/1P2PN2/PBPPBPPP/RN1QK2R b KQkq - 2 5,I decided against Nc3 so I'd be able to play c4.
+10,a6,a7a6,r1bqk2r/1pppppbp/p1n2np1/8/8/1P2PN2/PBPPBPPP/RN1QK2R w KQkq - 0 6,I decided against Nc3 so I'd be able to play c4.
+11,d4,d2d4,r1bqk2r/1pppppbp/p1n2np1/8/3P4/1P2PN2/PBP1BPPP/RN1QK2R b KQkq - 0 6,I decided against Nc3 so I'd be able to play c4.
+12,d5,d7d5,r1bqk2r/1pp1ppbp/p1n2np1/3p4/3P4/1P2PN2/PBP1BPPP/RN1QK2R w KQkq - 0 7,I decided against Nc3 so I'd be able to play c4.
+13,O-O,e1g1,r1bqk2r/1pp1ppbp/p1n2np1/3p4/3P4/1P2PN2/PBP1BPPP/RN1Q1RK1 b kq - 1 7,I decided against Nc3 so I'd be able to play c4.
+14,O-O,e8g8,r1bq1rk1/1pp1ppbp/p1n2np1/3p4/3P4/1P2PN2/PBP1BPPP/RN1Q1RK1 w - - 2 8,I decided against Nc3 so I'd be able to play c4.
+15,Nbd2,b1d2,r1bq1rk1/1pp1ppbp/p1n2np1/3p4/3P4/1P2PN2/PBPNBPPP/R2Q1RK1 b - - 3 8,I decided against Nc3 so I'd be able to play c4.
+16,Bf5,c8f5,r2q1rk1/1pp1ppbp/p1n2np1/3p1b2/3P4/1P2PN2/PBPNBPPP/R2Q1RK1 w - - 4 9,I wasn't expecting that one.
+17,c4,c2c4,r2q1rk1/1pp1ppbp/p1n2np1/3p1b2/2PP4/1P2PN2/PB1NBPPP/R2Q1RK1 b - - 0 9,I wasn't expecting that one.
+18,Nb4,c6b4,r2q1rk1/1pp1ppbp/p4np1/3p1b2/1nPP4/1P2PN2/PB1NBPPP/R2Q1RK1 w - - 1 10,I wasn't expecting that one.
+19,cxd5,c4d5,r2q1rk1/1pp1ppbp/p4np1/3P1b2/1n1P4/1P2PN2/PB1NBPPP/R2Q1RK1 b - - 0 10,No real choice on that move.
+20,Nd3,b4d3,r2q1rk1/1pp1ppbp/p4np1/3P1b2/3P4/1P1nPN2/PB1NBPPP/R2Q1RK1 w - - 1 11,No real choice on that move.
+21,Bxd3,e2d3,r2q1rk1/1pp1ppbp/p4np1/3P1b2/3P4/1P1BPN2/PB1N1PPP/R2Q1RK1 b - - 0 11,No real choice on that move.
+22,Bxd3,f5d3,r2q1rk1/1pp1ppbp/p4np1/3P4/3P4/1P1bPN2/PB1N1PPP/R2Q1RK1 w - - 0 12,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+23,Re1,f1e1,r2q1rk1/1pp1ppbp/p4np1/3P4/3P4/1P1bPN2/PB1N1PPP/R2QR1K1 b - - 1 12,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+24,Qxd5,d8d5,r4rk1/1pp1ppbp/p4np1/3q4/3P4/1P1bPN2/PB1N1PPP/R2QR1K1 w - - 0 13,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+25,Ne5,f3e5,r4rk1/1pp1ppbp/p4np1/3qN3/3P4/1P1bP3/PB1N1PPP/R2QR1K1 b - - 1 13,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+26,Bf5,d3f5,r4rk1/1pp1ppbp/p4np1/3qNb2/3P4/1P2P3/PB1N1PPP/R2QR1K1 w - - 2 14,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+27,Rc1,a1c1,r4rk1/1pp1ppbp/p4np1/3qNb2/3P4/1P2P3/PB1N1PPP/2RQR1K1 b - - 3 14,"The first threat he has to deal with is Rxc7. But if he isn't careful (like he plays c6 or Rc8), then e4 will be next (and after Bxe4, Rc5 cuts off the queen's support."
+28,Qd8,d5d8,r2q1rk1/1pp1ppbp/p4np1/4Nb2/3P4/1P2P3/PB1N1PPP/2RQR1K1 w - - 4 15,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+29,e4,e3e4,r2q1rk1/1pp1ppbp/p4np1/4Nb2/3PP3/1P6/PB1N1PPP/2RQR1K1 b - - 0 15,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+30,Bc8,f5c8,r1bq1rk1/1pp1ppbp/p4np1/4N3/3PP3/1P6/PB1N1PPP/2RQR1K1 w - - 1 16,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+31,Ndf3,d2f3,r1bq1rk1/1pp1ppbp/p4np1/4N3/3PP3/1P3N2/PB3PPP/2RQR1K1 b - - 2 16,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+32,Nd7,f6d7,r1bq1rk1/1ppnppbp/p5p1/4N3/3PP3/1P3N2/PB3PPP/2RQR1K1 w - - 3 17,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+33,d5,d4d5,r1bq1rk1/1ppnppbp/p5p1/3PN3/4P3/1P3N2/PB3PPP/2RQR1K1 b - - 0 17,"Here's another position where lots of moves looked good and I settled on my first choice.
+I liked Nd3 - but not sure where it goes. I even like Qc2, but I couldn't find anything to do with the doubled pawns after all of the trades on e5 (I was trying to find a way to take advantage of the bishop on b2 and moving the queen to c3).
+With the move I chose, I expect him to take my knight -- and I haven't completely decided whether to recapture with the knight or bishop."
+34,Nxe5,d7e5,r1bq1rk1/1pp1ppbp/p5p1/3Pn3/4P3/1P3N2/PB3PPP/2RQR1K1 w - - 0 18,You're going to ask me why I captured this way instead of using the knight. I wasn't comfortable letting my knight get pinned -- though I don't see a way he can take advantage of it. I can of feel he has more options with his bishop (he can play it to h6) than I have with mine (a3 isn't attractive). But I'm not thrilled that we're getting closer to an endgame where I have the knight to his bishop. I'm going to need to hurry and take advantage of my rook on the c-file while his rook is still out of play.
+35,Bxe5,b2e5,r1bq1rk1/1pp1ppbp/p5p1/3PB3/4P3/1P3N2/P4PPP/2RQR1K1 b - - 0 18,You're going to ask me why I captured this way instead of using the knight. I wasn't comfortable letting my knight get pinned -- though I don't see a way he can take advantage of it. I can of feel he has more options with his bishop (he can play it to h6) than I have with mine (a3 isn't attractive). But I'm not thrilled that we're getting closer to an endgame where I have the knight to his bishop. I'm going to need to hurry and take advantage of my rook on the c-file while his rook is still out of play.
+36,Bxe5,g7e5,r1bq1rk1/1pp1pp1p/p5p1/3Pb3/4P3/1P3N2/P4PPP/2RQR1K1 w - - 0 19,I should've expected that. He's preventing me from playing Qd4 (which was my plan) and takes charge of the diagonal and threatens Qb2.
+37,Nxe5,f3e5,r1bq1rk1/1pp1pp1p/p5p1/3PN3/4P3/1P6/P4PPP/2RQR1K1 b - - 0 19,I should've expected that. He's preventing me from playing Qd4 (which was my plan) and takes charge of the diagonal and threatens Qb2.
+38,Qd6,d8d6,r1b2rk1/1pp1pp1p/p2q2p1/3PN3/4P3/1P6/P4PPP/2RQR1K1 w - - 1 20,I should've expected that. He's preventing me from playing Qd4 (which was my plan) and takes charge of the diagonal and threatens Qb2.
+39,Nc4,e5c4,r1b2rk1/1pp1pp1p/p2q2p1/3P4/2N1P3/1P6/P4PPP/2RQR1K1 b - - 2 20,I should've expected that. He's preventing me from playing Qd4 (which was my plan) and takes charge of the diagonal and threatens Qb2.
+40,Qf6,d6f6,r1b2rk1/1pp1pp1p/p4qp1/3P4/2N1P3/1P6/P4PPP/2RQR1K1 w - - 3 21,I should've expected that. He's preventing me from playing Qd4 (which was my plan) and takes charge of the diagonal and threatens Qb2.
+41,e5,e4e5,r1b2rk1/1pp1pp1p/p4qp1/3PP3/2N5/1P6/P4PPP/2RQR1K1 b - - 0 21,But which pawn will I want to move to the 6th rank first? I haven't decided.
+42,Qg5,f6g5,r1b2rk1/1pp1pp1p/p5p1/3PP1q1/2N5/1P6/P4PPP/2RQR1K1 w - - 1 22,It's going to be tough for him to keep that pawn.
+43,Qd4,d1d4,r1b2rk1/1pp1pp1p/p5p1/3PP1q1/2NQ4/1P6/P4PPP/2R1R1K1 b - - 2 22,It's going to be tough for him to keep that pawn.
+44,b6,b7b6,r1b2rk1/2p1pp1p/pp4p1/3PP1q1/2NQ4/1P6/P4PPP/2R1R1K1 w - - 0 23,It's going to be tough for him to keep that pawn.
+45,Ne3,c4e3,r1b2rk1/2p1pp1p/pp4p1/3PP1q1/3Q4/1P2N3/P4PPP/2R1R1K1 b - - 1 23,It's going to be tough for him to keep that pawn.
+46,Ra7,a8a7,2b2rk1/r1p1pp1p/pp4p1/3PP1q1/3Q4/1P2N3/P4PPP/2R1R1K1 w - - 2 24,It's going to be tough for him to keep that pawn.
+47,Rc4,c1c4,2b2rk1/r1p1pp1p/pp4p1/3PP1q1/2RQ4/1P2N3/P4PPP/4R1K1 b - - 3 24,It's going to be tough for him to keep that pawn.
+48,Bd7,c8d7,5rk1/r1pbpp1p/pp4p1/3PP1q1/2RQ4/1P2N3/P4PPP/4R1K1 w - - 4 25,It's going to be tough for him to keep that pawn.
+49,f4,f2f4,5rk1/r1pbpp1p/pp4p1/3PP1q1/2RQ1P2/1P2N3/P5PP/4R1K1 b - - 0 25,It's going to be tough for him to keep that pawn.
+50,Qh6,g5h6,5rk1/r1pbpp1p/pp4pq/3PP3/2RQ1P2/1P2N3/P5PP/4R1K1 w - - 1 26,It's going to be tough for him to keep that pawn.
+51,Rec1,e1c1,5rk1/r1pbpp1p/pp4pq/3PP3/2RQ1P2/1P2N3/P5PP/2R3K1 b - - 2 26,It's going to be tough for him to keep that pawn.
+52,Rc8,f8c8,2r3k1/r1pbpp1p/pp4pq/3PP3/2RQ1P2/1P2N3/P5PP/2R3K1 w - - 3 27,I expected Bxe6.
+53,e6,e5e6,2r3k1/r1pbpp1p/pp2P1pq/3P4/2RQ1P2/1P2N3/P5PP/2R3K1 b - - 0 27,I expected Bxe6.
+54,fxe6,f7e6,2r3k1/r1pbp2p/pp2p1pq/3P4/2RQ1P2/1P2N3/P5PP/2R3K1 w - - 0 28,I expected Bxe6.
+55,dxe6,d5e6,2r3k1/r1pbp2p/pp2P1pq/8/2RQ1P2/1P2N3/P5PP/2R3K1 b - - 0 28,I expected Bxe6.
+56,Bb5,d7b5,2r3k1/r1p1p2p/pp2P1pq/1b6/2RQ1P2/1P2N3/P5PP/2R3K1 w - - 1 29,I expected Bxe6.
+57,Rc4xc7,c4c7,2r3k1/r1R1p2p/pp2P1pq/1b6/3Q1P2/1P2N3/P5PP/2R3K1 b - - 0 29,"Now we'll trade the rooks on c7, and I'll get the last one after Qd8+."

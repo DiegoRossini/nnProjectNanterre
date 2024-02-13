@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,?! Playing for a quick mate.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,?! Playing for a quick mate.
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,?! Playing for a quick mate.
+4,e6,e7e6,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,?! Playing for a quick mate.
+5,Qf3,d1f3,rnbqkbnr/pp1p1ppp/4p3/2p5/2B1P3/5Q2/PPPP1PPP/RNB1K1NR b KQkq - 1 3,?! Playing for a quick mate.
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 4,Controlling the e5 square and preparing Nf6.
+7,c3,c2c3,r1bqkbnr/pp1p1ppp/2n1p3/2p5/2B1P3/2P2Q2/PP1P1PPP/RNB1K1NR b KQkq - 0 4,"?! White risks to fall back in development. There is no way he can play d2-d4 on the next move, therefore his 4. c3 is pointless."
+8,Nf6,g8f6,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2B1P3/2P2Q2/PP1P1PPP/RNB1K1NR w KQkq - 1 5,Now the d5 square is controlled and black is ready to play d7-d5.
+9,d3,d2d3,r1bqkb1r/pp1p1ppp/2n1pn2/2p5/2B1P3/2PP1Q2/PP3PPP/RNB1K1NR b KQkq - 0 5,"?! Very passive pawn play, black is already clearly better developed."
+10,d5,d7d5,r1bqkb1r/pp3ppp/2n1pn2/2pp4/2B1P3/2PP1Q2/PP3PPP/RNB1K1NR w KQkq - 0 6,Black seizes the initiative.
+11,exd5,e4d5,r1bqkb1r/pp3ppp/2n1pn2/2pP4/2B5/2PP1Q2/PP3PPP/RNB1K1NR b KQkq - 0 6,Black seizes the initiative.
+12,exd5,e6d5,r1bqkb1r/pp3ppp/2n2n2/2pp4/2B5/2PP1Q2/PP3PPP/RNB1K1NR w KQkq - 0 7,Black seizes the initiative.
+13,Bb5,c4b5,r1bqkb1r/pp3ppp/2n2n2/1Bpp4/8/2PP1Q2/PP3PPP/RNB1K1NR b KQkq - 1 7,?! The bishop made three moves to get exchanged for a knight that made just one move.
+14,Bg4,c8g4,r2qkb1r/pp3ppp/2n2n2/1Bpp4/6b1/2PP1Q2/PP3PPP/RNB1K1NR w KQkq - 2 8,?! The bishop made three moves to get exchanged for a knight that made just one move.
+15,Bxc6+,b5c6,r2qkb1r/pp3ppp/2B2n2/2pp4/6b1/2PP1Q2/PP3PPP/RNB1K1NR b KQkq - 0 8,?! The bishop made three moves to get exchanged for a knight that made just one move.
+16,bxc6,b7c6,r2qkb1r/p4ppp/2p2n2/2pp4/6b1/2PP1Q2/PP3PPP/RNB1K1NR w KQkq - 0 9,Not a good square for the Queen - here it is vulnerable.
+17,Qg3,f3g3,r2qkb1r/p4ppp/2p2n2/2pp4/6b1/2PP2Q1/PP3PPP/RNB1K1NR b KQkq - 1 9,Not a good square for the Queen - here it is vulnerable.
+18,Bd6,f8d6,r2qk2r/p4ppp/2pb1n2/2pp4/6b1/2PP2Q1/PP3PPP/RNB1K1NR w KQkq - 2 10,Eqploiting the position of the white Queen.
+19,Qe3+,g3e3,r2qk2r/p4ppp/2pb1n2/2pp4/6b1/2PPQ3/PP3PPP/RNB1K1NR b KQkq - 3 10,If 10. Bf4 then black plays the intermezzo 10. ...Qe7
+20,Kd7,e8d7,r2q3r/p2k1ppp/2pb1n2/2pp4/6b1/2PPQ3/PP3PPP/RNB1K1NR w KQ - 4 11,! gaining another tempo - now Re8 winning the queen is threatened.
+21,Qd2,e3d2,r2q3r/p2k1ppp/2pb1n2/2pp4/6b1/2PP4/PP1Q1PPP/RNB1K1NR b KQ - 5 11,Black has developed 5 pieces while white has only one piece playing.
+22,Re8+,h8e8,r2qr3/p2k1ppp/2pb1n2/2pp4/6b1/2PP4/PP1Q1PPP/RNB1K1NR w KQ - 6 12,Black has developed 5 pieces while white has only one piece playing.
+23,Kf1,e1f1,r2qr3/p2k1ppp/2pb1n2/2pp4/6b1/2PP4/PP1Q1PPP/RNB2KNR b - - 7 12,Black has developed 5 pieces while white has only one piece playing.
+24,Qe7,d8e7,r3r3/p2kqppp/2pb1n2/2pp4/6b1/2PP4/PP1Q1PPP/RNB2KNR w - - 8 13,Black has developed 5 pieces while white has only one piece playing.
+25,f3,f2f3,r3r3/p2kqppp/2pb1n2/2pp4/6b1/2PP1P2/PP1Q2PP/RNB2KNR b - - 0 13,What else? White pieces are tied down. He tries to secure the e2 square.
+26,Rab8,a8b8,1r2r3/p2kqppp/2pb1n2/2pp4/6b1/2PP1P2/PP1Q2PP/RNB2KNR w - - 1 14,!? The advantage in development has to be exploited as soon as possible.
+27,fxg4,f3g4,1r2r3/p2kqppp/2pb1n2/2pp4/6P1/2PP4/PP1Q2PP/RNB2KNR b - - 0 14,After some thought white accepts the sacrifice.
+28,Nxg4,f6g4,1r2r3/p2kqppp/2pb4/2pp4/6n1/2PP4/PP1Q2PP/RNB2KNR w - - 0 15,Threatening Bf4.
+29,Nf3,g1f3,1r2r3/p2kqppp/2pb4/2pp4/6n1/2PP1N2/PP1Q2PP/RNB2K1R b - - 1 15,"This leaves the e2 square vulnerable and black immediately regains his sacrificed piece.
+How else could white continue development?
+15. Na3 might look like a good alternative, but it runs into 15. ...Rxb2!! - conquering the important e3 square for the knight.
+The best was 15. Qe2, but then black could continue his attack with 15. ...Qh4"
+30,Bf4,d6f4,1r2r3/p2kqppp/2p5/2pp4/5bn1/2PP1N2/PP1Q2PP/RNB2K1R w - - 2 16,!
+31,Qc2,d2c2,1r2r3/p2kqppp/2p5/2pp4/5bn1/2PP1N2/PPQ3PP/RNB2K1R b - - 3 16,If 16. Qxf4 then 16. ...Qe2  17. Kg1 and 17. ...Qf2#
+32,Bxc1,f4c1,1r2r3/p2kqppp/2p5/2pp4/6n1/2PP1N2/PPQ3PP/RNb2K1R w - - 0 17,White can't recapture and is now completely lost. Black threatens both Ne3  and Rxb2 winning.

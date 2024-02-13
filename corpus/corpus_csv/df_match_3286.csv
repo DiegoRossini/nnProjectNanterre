@@ -1,0 +1,74 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,The game opens with a King's Gambit.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,The game opens with a King's Gambit.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,The game opens with a King's Gambit.
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,Black declines the gambit and offers a counter gambit.
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,White accepts the gambit.
+6,e4,e5e4,rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4,"Here, White should play d3, but plays a weird move instead."
+7,Nc3,b1c3,rnbqkbnr/ppp2ppp/8/3P4/4pP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 1 4,"Here, White should play d3, but plays a weird move instead."
+8,Nf6,g8f6,rnbqkb1r/ppp2ppp/5n2/3P4/4pP2/2N5/PPPP2PP/R1BQKBNR w KQkq - 2 5,"Here, White should play d3, but plays a weird move instead."
+9,h3,h2h3,rnbqkb1r/ppp2ppp/5n2/3P4/4pP2/2N4P/PPPP2P1/R1BQKBNR b KQkq - 0 5,Black is better in this position. White will have to fight for equality.
+10,Bb4,f8b4,rnbqk2r/ppp2ppp/5n2/3P4/1b2pP2/2N4P/PPPP2P1/R1BQKBNR w KQkq - 1 6,Black is better in this position. White will have to fight for equality.
+11,Nge2,g1e2,rnbqk2r/ppp2ppp/5n2/3P4/1b2pP2/2N4P/PPPPN1P1/R1BQKB1R b KQkq - 2 6,Black is better in this position. White will have to fight for equality.
+12,O-O,e8g8,rnbq1rk1/ppp2ppp/5n2/3P4/1b2pP2/2N4P/PPPPN1P1/R1BQKB1R w KQ - 3 7,Black is better in this position. White will have to fight for equality.
+13,a3,a2a3,rnbq1rk1/ppp2ppp/5n2/3P4/1b2pP2/P1N4P/1PPPN1P1/R1BQKB1R b KQ - 0 7,Black is better in this position. White will have to fight for equality.
+14,Bxc3,b4c3,rnbq1rk1/ppp2ppp/5n2/3P4/4pP2/P1b4P/1PPPN1P1/R1BQKB1R w KQ - 0 8,Black is better in this position. White will have to fight for equality.
+15,Nxc3,e2c3,rnbq1rk1/ppp2ppp/5n2/3P4/4pP2/P1N4P/1PPP2P1/R1BQKB1R b KQ - 0 8,Black is better in this position. White will have to fight for equality.
+16,Nxd5,f6d5,rnbq1rk1/ppp2ppp/8/3n4/4pP2/P1N4P/1PPP2P1/R1BQKB1R w KQ - 0 9,Black is better in this position. White will have to fight for equality.
+17,Nxd5,c3d5,rnbq1rk1/ppp2ppp/8/3N4/4pP2/P6P/1PPP2P1/R1BQKB1R b KQ - 0 9,Black is better in this position. White will have to fight for equality.
+18,Qxd5,d8d5,rnb2rk1/ppp2ppp/8/3q4/4pP2/P6P/1PPP2P1/R1BQKB1R w KQ - 0 10,Black is better in this position. White will have to fight for equality.
+19,Be2,f1e2,rnb2rk1/ppp2ppp/8/3q4/4pP2/P6P/1PPPB1P1/R1BQK2R b KQ - 1 10,White completes his development first.
+20,Nc6,b8c6,r1b2rk1/ppp2ppp/2n5/3q4/4pP2/P6P/1PPPB1P1/R1BQK2R w KQ - 2 11,White completes his development first.
+21,O-O,e1g1,r1b2rk1/ppp2ppp/2n5/3q4/4pP2/P6P/1PPPB1P1/R1BQ1RK1 b - - 3 11,White completes his development first.
+22,Nd4,c6d4,r1b2rk1/ppp2ppp/8/3q4/3npP2/P6P/1PPPB1P1/R1BQ1RK1 w - - 4 12,White completes his development first.
+23,b4,b2b4,r1b2rk1/ppp2ppp/8/3q4/1P1npP2/P6P/2PPB1P1/R1BQ1RK1 b - - 0 12,White completes his development first.
+24,Re8,f8e8,r1b1r1k1/ppp2ppp/8/3q4/1P1npP2/P6P/2PPB1P1/R1BQ1RK1 w - - 1 13,White completes his development first.
+25,Bb2,c1b2,r1b1r1k1/ppp2ppp/8/3q4/1P1npP2/P6P/1BPPB1P1/R2Q1RK1 b - - 2 13,White completes his development first.
+26,c5,c7c5,r1b1r1k1/pp3ppp/8/2pq4/1P1npP2/P6P/1BPPB1P1/R2Q1RK1 w - - 0 14,White completes his development first.
+27,c3,c2c3,r1b1r1k1/pp3ppp/8/2pq4/1P1npP2/P1P4P/1B1PB1P1/R2Q1RK1 b - - 0 14,White completes his development first.
+28,Nxe2+,d4e2,r1b1r1k1/pp3ppp/8/2pq4/1P2pP2/P1P4P/1B1Pn1P1/R2Q1RK1 w - - 0 15,White completes his development first.
+29,Qxe2,d1e2,r1b1r1k1/pp3ppp/8/2pq4/1P2pP2/P1P4P/1B1PQ1P1/R4RK1 b - - 0 15,White completes his development first.
+30,b6,b7b6,r1b1r1k1/p4ppp/1p6/2pq4/1P2pP2/P1P4P/1B1PQ1P1/R4RK1 w - - 0 16,Now White is better.
+31,c4,c3c4,r1b1r1k1/p4ppp/1p6/2pq4/1PP1pP2/P6P/1B1PQ1P1/R4RK1 b - - 0 16,Now White is better.
+32,Qd6,d5d6,r1b1r1k1/p4ppp/1p1q4/2p5/1PP1pP2/P6P/1B1PQ1P1/R4RK1 w - - 1 17,Now White is better.
+33,Be5,b2e5,r1b1r1k1/p4ppp/1p1q4/2p1B3/1PP1pP2/P6P/3PQ1P1/R4RK1 b - - 2 17,Now White is better.
+34,Qc6,d6c6,r1b1r1k1/p4ppp/1pq5/2p1B3/1PP1pP2/P6P/3PQ1P1/R4RK1 w - - 3 18,Black weakens his kingside.
+35,b5,b4b5,r1b1r1k1/p4ppp/1pq5/1Pp1B3/2P1pP2/P6P/3PQ1P1/R4RK1 b - - 0 18,Black weakens his kingside.
+36,Qb7,c6b7,r1b1r1k1/pq3ppp/1p6/1Pp1B3/2P1pP2/P6P/3PQ1P1/R4RK1 w - - 1 19,Black weakens his kingside.
+37,Rfe1,f1e1,r1b1r1k1/pq3ppp/1p6/1Pp1B3/2P1pP2/P6P/3PQ1P1/R3R1K1 b - - 2 19,Black weakens his kingside.
+38,f5,f7f5,r1b1r1k1/pq4pp/1p6/1Pp1Bp2/2P1pP2/P6P/3PQ1P1/R3R1K1 w - - 0 20,Black weakens his kingside.
+39,Qh5,e2h5,r1b1r1k1/pq4pp/1p6/1Pp1Bp1Q/2P1pP2/P6P/3P2P1/R3R1K1 b - - 1 20,White should have moved the other rook.
+40,Be6,c8e6,r3r1k1/pq4pp/1p2b3/1Pp1Bp1Q/2P1pP2/P6P/3P2P1/R3R1K1 w - - 2 21,White should have moved the other rook.
+41,Rec1,e1c1,r3r1k1/pq4pp/1p2b3/1Pp1Bp1Q/2P1pP2/P6P/3P2P1/R1R3K1 b - - 3 21,White should have moved the other rook.
+42,Qd7,b7d7,r3r1k1/p2q2pp/1p2b3/1Pp1Bp1Q/2P1pP2/P6P/3P2P1/R1R3K1 w - - 4 22,White doubles rooks behind his own pawn.
+43,Qg5,h5g5,r3r1k1/p2q2pp/1p2b3/1Pp1BpQ1/2P1pP2/P6P/3P2P1/R1R3K1 b - - 5 22,White doubles rooks behind his own pawn.
+44,Re7,e8e7,r5k1/p2qr1pp/1p2b3/1Pp1BpQ1/2P1pP2/P6P/3P2P1/R1R3K1 w - - 6 23,White doubles rooks behind his own pawn.
+45,Ra2,a1a2,r5k1/p2qr1pp/1p2b3/1Pp1BpQ1/2P1pP2/P6P/R2P2P1/2R3K1 b - - 7 23,White doubles rooks behind his own pawn.
+46,Rf7,e7f7,r5k1/p2q1rpp/1p2b3/1Pp1BpQ1/2P1pP2/P6P/R2P2P1/2R3K1 w - - 8 24,White doubles rooks behind his own pawn.
+47,Rc3,c1c3,r5k1/p2q1rpp/1p2b3/1Pp1BpQ1/2P1pP2/P1R4P/R2P2P1/6K1 b - - 9 24,White doubles rooks behind his own pawn.
+48,h6,h7h6,r5k1/p2q1rp1/1p2b2p/1Pp1BpQ1/2P1pP2/P1R4P/R2P2P1/6K1 w - - 0 25,White doubles rooks behind his own pawn.
+49,Qg6,g5g6,r5k1/p2q1rp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P1R4P/R2P2P1/6K1 b - - 1 25,White doubles rooks behind his own pawn.
+50,Re8,a8e8,4r1k1/p2q1rp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P1R4P/R2P2P1/6K1 w - - 2 26,White doubles rooks behind his own pawn.
+51,Rac2,a2c2,4r1k1/p2q1rp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P1R4P/2RP2P1/6K1 b - - 3 26,White doubles rooks behind his own pawn.
+52,Kf8,g8f8,4rk2/p2q1rp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P1R4P/2RP2P1/6K1 w - - 4 27,Threatening mate
+53,Rg3,c3g3,4rk2/p2q1rp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 b - - 5 27,Threatening mate
+54,Ree7,e8e7,5k2/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 w - - 6 28,Threatening mate
+55,Qh7,g6h7,5k2/p2qrrpQ/1p2b2p/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 b - - 7 28,Threatening mate
+56,Ke8,f8e8,4k3/p2qrrpQ/1p2b2p/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 w - - 8 29,"Black runs to the Queenside, not realizing that he was actually safer on the Kingside."
+57,Qg6,h7g6,4k3/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 b - - 9 29,"Black runs to the Queenside, not realizing that he was actually safer on the Kingside."
+58,Kd8,e8d8,3k4/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP2P1/6K1 w - - 10 30,"Black runs to the Queenside, not realizing that he was actually safer on the Kingside."
+59,Kf2,g1f2,3k4/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP1KP1/8 b - - 11 30,"Black runs to the Queenside, not realizing that he was actually safer on the Kingside."
+60,Kc8,d8c8,2k5/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RP1KP1/8 w - - 12 31,"Black runs to the Queenside, not realizing that he was actually safer on the Kingside."
+61,Ke2,f2e2,2k5/p2qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RPK1P1/8 b - - 13 31,Now Black's king will die.
+62,Kb7,c8b7,8/pk1qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P5RP/2RPK1P1/8 w - - 14 32,Now Black's king will die.
+63,d3,d2d3,8/pk1qrrp1/1p2b1Qp/1Pp1Bp2/2P1pP2/P2P2RP/2R1K1P1/8 b - - 0 32,Now Black's king will die.
+64,exd3+,e4d3,8/pk1qrrp1/1p2b1Qp/1Pp1Bp2/2P2P2/P2p2RP/2R1K1P1/8 w - - 0 33,There's no defense to Qf3+.
+65,Rxd3,g3d3,8/pk1qrrp1/1p2b1Qp/1Pp1Bp2/2P2P2/P2R3P/2R1K1P1/8 b - - 0 33,There's no defense to Qf3+.
+66,Qc8,d7c8,2q5/pk2rrp1/1p2b1Qp/1Pp1Bp2/2P2P2/P2R3P/2R1K1P1/8 w - - 1 34,There's no defense to Qf3+.
+67,Qg3,g6g3,2q5/pk2rrp1/1p2b2p/1Pp1Bp2/2P2P2/P2R2QP/2R1K1P1/8 b - - 2 34,There's no defense to Qf3+.
+68,Red7,e7d7,2q5/pk1r1rp1/1p2b2p/1Pp1Bp2/2P2P2/P2R2QP/2R1K1P1/8 w - - 3 35,Black resigns. Checkmate is inevitable.
+69,Qf3+,g3f3,2q5/pk1r1rp1/1p2b2p/1Pp1Bp2/2P2P2/P2R1Q1P/2R1K1P1/8 b - - 4 35,Black resigns. Checkmate is inevitable.
+70,Bd5,e6d5,2q5/pk1r1rp1/1p5p/1PpbBp2/2P2P2/P2R1Q1P/2R1K1P1/8 w - - 5 36,Black resigns. Checkmate is inevitable.
+71,Rxd5,d3d5,2q5/pk1r1rp1/1p5p/1PpRBp2/2P2P2/P4Q1P/2R1K1P1/8 b - - 0 36,Black resigns. Checkmate is inevitable.
+72,Rxd5,d7d5,2q5/pk3rp1/1p5p/1PprBp2/2P2P2/P4Q1P/2R1K1P1/8 w - - 0 37,Black resigns. Checkmate is inevitable.
+73,Qxd5+,f3d5,2q5/pk3rp1/1p5p/1PpQBp2/2P2P2/P6P/2R1K1P1/8 b - - 0 37,Black resigns. Checkmate is inevitable.

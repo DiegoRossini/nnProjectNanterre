@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,east-indian.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,east-indian.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,unknown variation to me. Not sure I see the point for this move.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,unknown variation to me. Not sure I see the point for this move.
+5,h3,h2h3,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N1P/PPPP1PP1/RNBQKB1R b KQkq - 0 3,unknown variation to me. Not sure I see the point for this move.
+6,Nc6,b8c6,r1bqkbnr/pp2pppp/2np4/2p5/4P3/5N1P/PPPP1PP1/RNBQKB1R w KQkq - 1 4,considerably breaks the knight moves.
+7,c3,c2c3,r1bqkbnr/pp2pppp/2np4/2p5/4P3/2P2N1P/PP1P1PP1/RNBQKB1R b KQkq - 0 4,considerably breaks the knight moves.
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/2p5/4P3/2P2N1P/PP1P1PP1/RNBQKB1R w KQkq - 1 5,that is a complete surprise.
+9,Bd3,f1d3,r1bqkb1r/pp2pppp/2np1n2/2p5/4P3/2PB1N1P/PP1P1PP1/RNBQK2R b KQkq - 2 5,that is a complete surprise.
+10,e5,e7e5,r1bqkb1r/pp3ppp/2np1n2/2p1p3/4P3/2PB1N1P/PP1P1PP1/RNBQK2R w KQkq - 0 6,"I felt comfortable with this, though d6 seems weak: white is so closed, that black has to take advantage of it and move on"
+11,Bc2,d3c2,r1bqkb1r/pp3ppp/2np1n2/2p1p3/4P3/2P2N1P/PPBP1PP1/RNBQK2R b KQkq - 1 6,bishop has already 2 moves and does not seem to be clearly pointing something interesting.
+12,Be7,f8e7,r1bqk2r/pp2bppp/2np1n2/2p1p3/4P3/2P2N1P/PPBP1PP1/RNBQK2R w KQkq - 2 7,"well, yes, both bishops and the queen are pointing to king side, but with so much obstacles, and pointing to h6 and 7, is it really pointing?"
+13,O-O,e1g1,r1bqk2r/pp2bppp/2np1n2/2p1p3/4P3/2P2N1P/PPBP1PP1/RNBQ1RK1 b kq - 3 7,"well, yes, both bishops and the queen are pointing to king side, but with so much obstacles, and pointing to h6 and 7, is it really pointing?"
+14,O-O,e8g8,r1bq1rk1/pp2bppp/2np1n2/2p1p3/4P3/2P2N1P/PPBP1PP1/RNBQ1RK1 w - - 4 8,"well, yes, both bishops and the queen are pointing to king side, but with so much obstacles, and pointing to h6 and 7, is it really pointing?"
+15,d3,d2d3,r1bq1rk1/pp2bppp/2np1n2/2p1p3/4P3/2PP1N1P/PPB2PP1/RNBQ1RK1 b - - 0 8,one more obstacle for lBc2
+16,Be6,c8e6,r2q1rk1/pp2bppp/2npbn2/2p1p3/4P3/2PP1N1P/PPB2PP1/RNBQ1RK1 w - - 1 9,preventing
+17,Nbd2,b1d2,r2q1rk1/pp2bppp/2npbn2/2p1p3/4P3/2PP1N1P/PPBN1PP1/R1BQ1RK1 b - - 2 9,preventing
+18,h6,h7h6,r2q1rk1/pp2bpp1/2npbn1p/2p1p3/4P3/2PP1N1P/PPBN1PP1/R1BQ1RK1 w - - 0 10,preventing
+19,Bb3,c2b3,r2q1rk1/pp2bpp1/2npbn1p/2p1p3/4P3/1BPP1N1P/PP1N1PP1/R1BQ1RK1 b - - 1 10,probably discovering his bishop is worthless; tries to exchange with advantage by queen development. I won't help
+20,Qd7,d8d7,r4rk1/pp1qbpp1/2npbn1p/2p1p3/4P3/1BPP1N1P/PP1N1PP1/R1BQ1RK1 w - - 2 11,"actually my idea was to take back with f7 if ever needed, to open f column."
+21,a3,a2a3,r4rk1/pp1qbpp1/2npbn1p/2p1p3/4P3/PBPP1N1P/1P1N1PP1/R1BQ1RK1 b - - 0 11,??
+22,b5,b7b5,r4rk1/p2qbpp1/2npbn1p/1pp1p3/4P3/PBPP1N1P/1P1N1PP1/R1BQ1RK1 w - - 0 12,"well, let's go: white seems not to have any  plan. Mine was to take advantage of my own progression."
+23,Bc2,b3c2,r4rk1/p2qbpp1/2npbn1p/1pp1p3/4P3/P1PP1N1P/1PBN1PP1/R1BQ1RK1 b - - 1 12,getting back home? Is White some kind of a hedgehog?
+24,a5,a7a5,r4rk1/3qbpp1/2npbn1p/ppp1p3/4P3/P1PP1N1P/1PBN1PP1/R1BQ1RK1 w - - 0 13,f won't open => let's open a-b-c
+25,Qe1,d1e1,r4rk1/3qbpp1/2npbn1p/ppp1p3/4P3/P1PP1N1P/1PBN1PP1/R1B1QRK1 b - - 1 13,preparing b4
+26,a4,a5a4,r4rk1/3qbpp1/2npbn1p/1pp1p3/p3P3/P1PP1N1P/1PBN1PP1/R1B1QRK1 w - - 0 14,preparing b4
+27,Nh2,f3h2,r4rk1/3qbpp1/2npbn1p/1pp1p3/p3P3/P1PP3P/1PBN1PPN/R1B1QRK1 b - - 1 14,"Ah, finally, proposing an opening on f4?"
+28,Nh5,f6h5,r4rk1/3qbpp1/2npb2p/1pp1p2n/p3P3/P1PP3P/1PBN1PPN/R1B1QRK1 w - - 2 15,closing it
+29,Ndf3,d2f3,r4rk1/3qbpp1/2npb2p/1pp1p2n/p3P3/P1PP1N1P/1PB2PPN/R1B1QRK1 b - - 3 15,?? that was the idea?
+30,f5,f7f5,r4rk1/3qb1p1/2npb2p/1pp1pp1n/p3P3/P1PP1N1P/1PB2PPN/R1B1QRK1 w - - 0 16,"then I open f-column; i also have all my officers ready to point there, except Nc6"

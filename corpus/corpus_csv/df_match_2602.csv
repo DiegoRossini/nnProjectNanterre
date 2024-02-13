@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I had the white pieces and I started with d4.
+2,f5,f7f5,rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,My opponent played knight to f6 and we have Dutch defence.
+3,h3,h2h3,rnbqkbnr/ppppp1pp/8/5p2/3P4/7P/PPP1PPP1/RNBQKBNR b KQkq - 0 2,My opponent played knight to f6 and we have Dutch defence.
+4,Nf6,g8f6,rnbqkb1r/ppppp1pp/5n2/5p2/3P4/7P/PPP1PPP1/RNBQKBNR w KQkq - 1 3,My opponent played knight to f6 and we have Dutch defence.
+5,g4,g2g4,rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/7P/PPP1PP2/RNBQKBNR b KQkq - 0 3,"Pawn to g4; Korchnoi gambit, uncomon and gimmicky but effective response to the Dutch defense, named after GM Victor Korchnoi, word has it that he'd crush anyone who dared opposing him with a Dutch defence..."
+6,d6,d7d6,rnbqkb1r/ppp1p1pp/3p1n2/5p2/3P2P1/7P/PPP1PP2/RNBQKBNR w KQkq - 0 4,d6; my opponent shows no interest for my gambit.
+7,g5,g4g5,rnbqkb1r/ppp1p1pp/3p1n2/5pP1/3P4/7P/PPP1PP2/RNBQKBNR b KQkq - 0 4,"g5, kicking the knight"
+8,Ng8,f6g8,rnbqkbnr/ppp1p1pp/3p4/5pP1/3P4/7P/PPP1PP2/RNBQKBNR w KQkq - 1 5,"back to g8, for going anywhere else would allow me to devellope with even more tempo on the knight."
+9,Bg2,f1g2,rnbqkbnr/ppp1p1pp/3p4/5pP1/3P4/7P/PPP1PPB1/RNBQK1NR b KQkq - 2 5,"Bishop to g2, occupying the long diagonal."
+10,e5,e7e5,rnbqkbnr/ppp3pp/3p4/4ppP1/3P4/7P/PPP1PPB1/RNBQK1NR w KQkq - 0 6,"e5, challenging my centre and indirectly my queen."
+11,dxe5,d4e5,rnbqkbnr/ppp3pp/3p4/4PpP1/8/7P/PPP1PPB1/RNBQK1NR b KQkq - 0 6,Challenge accepted; queenless middle-game.
+12,dxe5,d6e5,rnbqkbnr/ppp3pp/8/4ppP1/8/7P/PPP1PPB1/RNBQK1NR w KQkq - 0 7,Challenge accepted; queenless middle-game.
+13,Qxd8+,d1d8,rnbQkbnr/ppp3pp/8/4ppP1/8/7P/PPP1PPB1/RNB1K1NR b KQkq - 0 7,Challenge accepted; queenless middle-game.
+14,Kxd8,e8d8,rnbk1bnr/ppp3pp/8/4ppP1/8/7P/PPP1PPB1/RNB1K1NR w KQ - 0 8,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+15,Nc3,b1c3,rnbk1bnr/ppp3pp/8/4ppP1/8/2N4P/PPP1PPB1/R1B1K1NR b KQ - 1 8,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+16,c6,c7c6,rnbk1bnr/pp4pp/2p5/4ppP1/8/2N4P/PPP1PPB1/R1B1K1NR w KQ - 0 9,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+17,Nf3,g1f3,rnbk1bnr/pp4pp/2p5/4ppP1/8/2N2N1P/PPP1PPB1/R1B1K2R b KQ - 1 9,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+18,Bd6,f8d6,rnbk2nr/pp4pp/2pb4/4ppP1/8/2N2N1P/PPP1PPB1/R1B1K2R w KQ - 2 10,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+19,Be3,c1e3,rnbk2nr/pp4pp/2pb4/4ppP1/8/2N1BN1P/PPP1PPB1/R3K2R b KQ - 3 10,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+20,Ne7,g8e7,rnbk3r/pp2n1pp/2pb4/4ppP1/8/2N1BN1P/PPP1PPB1/R3K2R w KQ - 4 11,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+21,O-O,e1g1,rnbk3r/pp2n1pp/2pb4/4ppP1/8/2N1BN1P/PPP1PPB1/R4RK1 b - - 5 11,"I considered castling queen's side, but found it unwise because that was where he had his material momentum."
+22,Be6,c8e6,rn1k3r/pp2n1pp/2pbb3/4ppP1/8/2N1BN1P/PPP1PPB1/R4RK1 w - - 6 12,Seizing control of the open file.
+23,Rfd1,f1d1,rn1k3r/pp2n1pp/2pbb3/4ppP1/8/2N1BN1P/PPP1PPB1/R2R2K1 b - - 7 12,Seizing control of the open file.
+24,Kc7,d8c7,rn5r/ppk1n1pp/2pbb3/4ppP1/8/2N1BN1P/PPP1PPB1/R2R2K1 w - - 8 13,Defending and unpinning the bishop.
+25,Nh4,f3h4,rn5r/ppk1n1pp/2pbb3/4ppP1/7N/2N1B2P/PPP1PPB1/R2R2K1 b - - 9 13,"The knight is not awfully well placed there, but it was either blocking the d-file or this, because I could feel e4 coming and so I clear the path for my f-pawn to meet that."
+26,Nd7,b8d7,r6r/ppknn1pp/2pbb3/4ppP1/7N/2N1B2P/PPP1PPB1/R2R2K1 w - - 10 14,"b3, boxing out the knight."
+27,Kf1,g1f1,r6r/ppknn1pp/2pbb3/4ppP1/7N/2N1B2P/PPP1PPB1/R2R1K2 b - - 11 14,"b3, boxing out the knight."
+28,Nb6,d7b6,r6r/ppk1n1pp/1npbb3/4ppP1/7N/2N1B2P/PPP1PPB1/R2R1K2 w - - 12 15,"b3, boxing out the knight."
+29,b3,b2b3,r6r/ppk1n1pp/1npbb3/4ppP1/7N/1PN1B2P/P1P1PPB1/R2R1K2 b - - 0 15,"b3, boxing out the knight."
+30,Rad8,a8d8,3r3r/ppk1n1pp/1npbb3/4ppP1/7N/1PN1B2P/P1P1PPB1/R2R1K2 w - - 1 16,"Rook from a- to d8, contesting the d-file."
+31,a4,a2a4,3r3r/ppk1n1pp/1npbb3/4ppP1/P6N/1PN1B2P/2P1PPB1/R2R1K2 b - - 0 16,"a4, starting a pawn storm."
+32,Ng6,e7g6,3r3r/ppk3pp/1npbb1n1/4ppP1/P6N/1PN1B2P/2P1PPB1/R2R1K2 w - - 1 17,"Knight to g6, challenging to loose knight, taking it would unleash his h-rook and make his king's side pawn structure far superior to mine, and since I can't defend it I couldn't help but retreat it."
+33,Nf3,h4f3,3r3r/ppk3pp/1npbb1n1/4ppP1/P7/1PN1BN1P/2P1PPB1/R2R1K2 b - - 2 17,"Knight to d5, challenging my other knight, didn't really feel like defending it, nor like moving it to either of its two terrible refuge squares, so I chose to preserve my tempo to capture the unveiled a7 pawn."
+34,Nd5,b6d5,3r3r/ppk3pp/2pbb1n1/3nppP1/P7/1PN1BN1P/2P1PPB1/R2R1K2 w - - 3 18,"Knight to d5, challenging my other knight, didn't really feel like defending it, nor like moving it to either of its two terrible refuge squares, so I chose to preserve my tempo to capture the unveiled a7 pawn."
+35,Nxd5+,c3d5,3r3r/ppk3pp/2pbb1n1/3NppP1/P7/1P2BN1P/2P1PPB1/R2R1K2 b - - 0 18,Adding pressure on the king's side.
+36,Bxd5,e6d5,3r3r/ppk3pp/2pb2n1/3bppP1/P7/1P2BN1P/2P1PPB1/R2R1K2 w - - 0 19,Adding pressure on the king's side.
+37,Bxa7,e3a7,3r3r/Bpk3pp/2pb2n1/3bppP1/P7/1P3N1P/2P1PPB1/R2R1K2 b - - 0 19,Adding pressure on the king's side.
+38,Nf4,g6f4,3r3r/Bpk3pp/2pb4/3bppP1/P4n2/1P3N1P/2P1PPB1/R2R1K2 w - - 1 20,Adding pressure on the king's side.
+39,a5,a4a5,3r3r/Bpk3pp/2pb4/P2bppP1/5n2/1P3N1P/2P1PPB1/R2R1K2 b - - 0 20,"Slowly proceeding my pawn storm, threatening bishop to b6, check; scewering his king to his rook."

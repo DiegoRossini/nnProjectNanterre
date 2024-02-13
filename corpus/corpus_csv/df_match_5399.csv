@@ -1,0 +1,92 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"knights before bishops... except i really want to keep this bishop on this diagonal, and black's knight on a5 ruins it."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"knights before bishops... except i really want to keep this bishop on this diagonal, and black's knight on a5 ruins it."
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"knights before bishops... except i really want to keep this bishop on this diagonal, and black's knight on a5 ruins it."
+4,Qf6,d8f6,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,hmm
+5,Nf3,g1f3,rnb1kbnr/pppp1ppp/5q2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,f2 is a serious target
+6,Bc5,f8c5,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,f2 is a serious target
+7,Qe2,d1e2,rnb1k1nr/pppp1ppp/5q2/2b1p3/2B1P3/5N2/PPPPQPPP/RNB1K2R b KQkq - 5 4,not certain what the plan is here for black
+8,Nh6,g8h6,rnb1k2r/pppp1ppp/5q1n/2b1p3/2B1P3/5N2/PPPPQPPP/RNB1K2R w KQkq - 6 5,not certain what the plan is here for black
+9,h3,h2h3,rnb1k2r/pppp1ppp/5q1n/2b1p3/2B1P3/5N1P/PPPPQPP1/RNB1K2R b KQkq - 0 5,..but i don't want Ng4
+10,Nc6,b8c6,r1b1k2r/pppp1ppp/2n2q1n/2b1p3/2B1P3/5N1P/PPPPQPP1/RNB1K2R w KQkq - 1 6,trying this out.. nice preventative move for Nb4
+11,a3,a2a3,r1b1k2r/pppp1ppp/2n2q1n/2b1p3/2B1P3/P4N1P/1PPPQPP1/RNB1K2R b KQkq - 0 6,trying this out.. nice preventative move for Nb4
+12,Nd4,c6d4,r1b1k2r/pppp1ppp/5q1n/2b1p3/2BnP3/P4N1P/1PPPQPP1/RNB1K2R w KQkq - 1 7,this knight has to go
+13,Nxd4,f3d4,r1b1k2r/pppp1ppp/5q1n/2b1p3/2BNP3/P6P/1PPPQPP1/RNB1K2R b KQkq - 0 7,"i like this move.  black's bishop is going no where, and f7 is still a viable attacking point"
+14,exd4,e5d4,r1b1k2r/pppp1ppp/5q1n/2b5/2BpP3/P6P/1PPPQPP1/RNB1K2R w KQkq - 0 8,"i like this move.  black's bishop is going no where, and f7 is still a viable attacking point"
+15,d3,d2d3,r1b1k2r/pppp1ppp/5q1n/2b5/2BpP3/P2P3P/1PP1QPP1/RNB1K2R b KQkq - 0 8,"i like this move.  black's bishop is going no where, and f7 is still a viable attacking point"
+16,O-O,e8g8,r1b2rk1/pppp1ppp/5q1n/2b5/2BpP3/P2P3P/1PP1QPP1/RNB1K2R w KQ - 1 9,"i feel that this is a good square for my queen.  any thoughts?  attacking the bishop, and a g6 blunder allows Qxh6.  plus, nice parking spot until f7 is ready to go"
+17,Qh5,e2h5,r1b2rk1/pppp1ppp/5q1n/2b4Q/2BpP3/P2P3P/1PP2PP1/RNB1K2R b KQ - 2 9,"i feel that this is a good square for my queen.  any thoughts?  attacking the bishop, and a g6 blunder allows Qxh6.  plus, nice parking spot until f7 is ready to go"
+18,d6,d7d6,r1b2rk1/ppp2ppp/3p1q1n/2b4Q/2BpP3/P2P3P/1PP2PP1/RNB1K2R w KQ - 0 10,open up the kings protection
+19,Bxh6,c1h6,r1b2rk1/ppp2ppp/3p1q1B/2b4Q/2BpP3/P2P3P/1PP2PP1/RN2K2R b KQ - 0 10,open up the kings protection
+20,gxh6,g7h6,r1b2rk1/ppp2p1p/3p1q1p/2b4Q/2BpP3/P2P3P/1PP2PP1/RN2K2R w KQ - 0 11,i think this will be the weak point for black moving forward
+21,Nd2,b1d2,r1b2rk1/ppp2p1p/3p1q1p/2b4Q/2BpP3/P2P3P/1PPN1PP1/R3K2R b KQ - 1 11,taunting black's queen for a free pawn... i would love it to open up on the f file.
+22,Be6,c8e6,r4rk1/ppp2p1p/3pbq1p/2b4Q/2BpP3/P2P3P/1PPN1PP1/R3K2R w KQ - 2 12,taunting black's queen for a free pawn... i would love it to open up on the f file.
+23,O-O-O,e1c1,r4rk1/ppp2p1p/3pbq1p/2b4Q/2BpP3/P2P3P/1PPN1PP1/2KR3R b - - 3 12,taunting black's queen for a free pawn... i would love it to open up on the f file.
+24,Bxc4,e6c4,r4rk1/ppp2p1p/3p1q1p/2b4Q/2bpP3/P2P3P/1PPN1PP1/2KR3R w - - 0 13,"if Qxg2, Rg1 and pin the queen.  also, i can move Qg5! and fork the bishop, but need that pawn on d6 gone"
+25,Nxc4,d2c4,r4rk1/ppp2p1p/3p1q1p/2b4Q/2NpP3/P2P3P/1PP2PP1/2KR3R b - - 0 13,"if Qxg2, Rg1 and pin the queen.  also, i can move Qg5! and fork the bishop, but need that pawn on d6 gone"
+26,Qxf2,f6f2,r4rk1/ppp2p1p/3p3p/2b4Q/2NpP3/P2P3P/1PP2qP1/2KR3R w - - 0 14,"if Qxg2, Rg1 and pin the queen.  also, i can move Qg5! and fork the bishop, but need that pawn on d6 gone"
+27,Qxh6,h5h6,r4rk1/ppp2p1p/3p3Q/2b5/2NpP3/P2P3P/1PP2qP1/2KR3R b - - 0 14,"if Qxg2, Rg1 and pin the queen.  also, i can move Qg5! and fork the bishop, but need that pawn on d6 gone"
+28,Qg3,f2g3,r4rk1/ppp2p1p/3p3Q/2b5/2NpP3/P2P2qP/1PP3P1/2KR3R w - - 1 15,"i don't want black's rook active, so keeping that pawn on f5 on the f file is key.  also Qe6! is a good place, but I need black's queen off that diagonal because it's protecting the e5 and d6 squares which i intend to use."
+29,h4,h3h4,r4rk1/ppp2p1p/3p3Q/2b5/2NpP2P/P2P2q1/1PP3P1/2KR3R b - - 0 15,"i don't want black's rook active, so keeping that pawn on f5 on the f file is key.  also Qe6! is a good place, but I need black's queen off that diagonal because it's protecting the e5 and d6 squares which i intend to use."
+30,f5,f7f5,r4rk1/ppp4p/3p3Q/2b2p2/2NpP2P/P2P2q1/1PP3P1/2KR3R w - - 0 16,"i don't want black's rook active, so keeping that pawn on f5 on the f file is key.  also Qe6! is a good place, but I need black's queen off that diagonal because it's protecting the e5 and d6 squares which i intend to use."
+31,e5,e4e5,r4rk1/ppp4p/3p3Q/2b1Pp2/2Np3P/P2P2q1/1PP3P1/2KR3R b - - 0 16,"i don't want black's rook active, so keeping that pawn on f5 on the f file is key.  also Qe6! is a good place, but I need black's queen off that diagonal because it's protecting the e5 and d6 squares which i intend to use."
+32,dxe5,d6e5,r4rk1/ppp4p/7Q/2b1pp2/2Np3P/P2P2q1/1PP3P1/2KR3R w - - 0 17,black is now in trouble
+33,Rh3,h1h3,r4rk1/ppp4p/7Q/2b1pp2/2Np3P/P2P2qR/1PP3P1/2KR4 b - - 1 17,black is now in trouble
+34,Qxg2,g3g2,r4rk1/ppp4p/7Q/2b1pp2/2Np3P/P2P3R/1PP3q1/2KR4 w - - 0 18,black is now in trouble
+35,Qe6+,h6e6,r4rk1/ppp4p/4Q3/2b1pp2/2Np3P/P2P3R/1PP3q1/2KR4 b - - 1 18,i would black to take my rook
+36,Rf7,f8f7,r5k1/ppp2r1p/4Q3/2b1pp2/2Np3P/P2P3R/1PP3q1/2KR4 w - - 2 19,i would black to take my rook
+37,Nxe5,c4e5,r5k1/ppp2r1p/4Q3/2b1Np2/3p3P/P2P3R/1PP3q1/2KR4 b - - 0 19,i would black to take my rook
+38,Raf8,a8f8,5rk1/ppp2r1p/4Q3/2b1Np2/3p3P/P2P3R/1PP3q1/2KR4 w - - 1 20,now it's a matting pattern from here on in.
+39,Nxf7,e5f7,5rk1/ppp2N1p/4Q3/2b2p2/3p3P/P2P3R/1PP3q1/2KR4 b - - 0 20,now it's a matting pattern from here on in.
+40,Rxf7,f8f7,6k1/ppp2r1p/4Q3/2b2p2/3p3P/P2P3R/1PP3q1/2KR4 w - - 0 21,now it's a matting pattern from here on in.
+41,Rhh1,h3h1,6k1/ppp2r1p/4Q3/2b2p2/3p3P/P2P4/1PP3q1/2KR3R b - - 1 21,now it's a matting pattern from here on in.
+42,Qf2,g2f2,6k1/ppp2r1p/4Q3/2b2p2/3p3P/P2P4/1PP2q2/2KR3R w - - 2 22,now it's a matting pattern from here on in.
+43,Rhg1+,h1g1,6k1/ppp2r1p/4Q3/2b2p2/3p3P/P2P4/1PP2q2/2KR2R1 b - - 3 22,now it's a matting pattern from here on in.
+44,Kf8,g8f8,5k2/ppp2r1p/4Q3/2b2p2/3p3P/P2P4/1PP2q2/2KR2R1 w - - 4 23,now it's a matting pattern from here on in.
+45,Rde1,d1e1,5k2/ppp2r1p/4Q3/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 b - - 5 23,now it's a matting pattern from here on in.
+46,Re7,f7e7,5k2/ppp1r2p/4Q3/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 w - - 6 24,now it's a matting pattern from here on in.
+47,Qc8+,e6c8,2Q2k2/ppp1r2p/8/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 b - - 7 24,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+48,Kf7,f8f7,2Q5/ppp1rk1p/8/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 w - - 8 25,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+49,Qg8+,c8g8,6Q1/ppp1rk1p/8/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 b - - 9 25,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+50,Kf6,f7f6,6Q1/ppp1r2p/5k2/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 w - - 10 26,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+51,Qh8+,g8h8,7Q/ppp1r2p/5k2/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 b - - 11 26,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+52,Kf7,f6f7,7Q/ppp1rk1p/8/2b2p2/3p3P/P2P4/1PP2q2/2K1R1R1 w - - 12 27,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+53,Rg7+,g1g7,7Q/ppp1rkRp/8/2b2p2/3p3P/P2P4/1PP2q2/2K1R3 b - - 13 27,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+54,Kf6,f7f6,7Q/ppp1r1Rp/5k2/2b2p2/3p3P/P2P4/1PP2q2/2K1R3 w - - 14 28,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+55,Rg2+,g7g2,7Q/ppp1r2p/5k2/2b2p2/3p3P/P2P4/1PP2qR1/2K1R3 b - - 15 28,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+56,Kf7,f6f7,7Q/ppp1rk1p/8/2b2p2/3p3P/P2P4/1PP2qR1/2K1R3 w - - 16 29,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+57,Rxe7+,e1e7,7Q/ppp1Rk1p/8/2b2p2/3p3P/P2P4/1PP2qR1/2K5 b - - 0 29,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+58,Kxe7,f7e7,7Q/ppp1k2p/8/2b2p2/3p3P/P2P4/1PP2qR1/2K5 w - - 0 30,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+59,Qxh7+,h8h7,8/ppp1k2Q/8/2b2p2/3p3P/P2P4/1PP2qR1/2K5 b - - 0 30,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+60,Ke8,e7e8,4k3/ppp4Q/8/2b2p2/3p3P/P2P4/1PP2qR1/2K5 w - - 1 31,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."
+61,Rxf2,g2f2,4k3/ppp4Q/8/2b2p2/3p3P/P2P4/1PP2R2/2K5 b - - 0 31,"i couldn't find a matting pattern, so i choose to take material.. black resigns here. 
+
+any feedback would be appreciated."

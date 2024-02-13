@@ -1,0 +1,47 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,"This is a game I played at my chess club in the internal tournament. Unfortunately I lost, but there was an interesting selection of attacks and tactics."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,"Unusual, but solid."
+3,Bf4,c1f4,rnbqkb1r/pppppppp/5n2/8/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2,"Unusual, but solid."
+4,d5,d7d5,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq - 0 3,Attempting to close up the centre.
+5,e3,e2e3,rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/4P3/PPP2PPP/RN1QKBNR b KQkq - 0 3,Both players are aiming to control the centre.
+6,Bf5,c8f5,rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/4P3/PPP2PPP/RN1QKBNR w KQkq - 1 4,Both players are aiming to control the centre.
+7,c4,c2c4,rn1qkb1r/ppp1pppp/5n2/3p1b2/2PP1B2/4P3/PP3PPP/RN1QKBNR b KQkq - 0 4,Both players are aiming to control the centre.
+8,e6,e7e6,rn1qkb1r/ppp2ppp/4pn2/3p1b2/2PP1B2/4P3/PP3PPP/RN1QKBNR w KQkq - 0 5,Both players are aiming to control the centre.
+9,Qb3,d1b3,rn1qkb1r/ppp2ppp/4pn2/3p1b2/2PP1B2/1Q2P3/PP3PPP/RN2KBNR b KQkq - 1 5,Both players are aiming for central pressure.
+10,b6,b7b6,rn1qkb1r/p1p2ppp/1p2pn2/3p1b2/2PP1B2/1Q2P3/PP3PPP/RN2KBNR w KQkq - 0 6,"This is a mistake, although black turns out not to be terribly affected."
+11,Nc3,b1c3,rn1qkb1r/p1p2ppp/1p2pn2/3p1b2/2PP1B2/1QN1P3/PP3PPP/R3KBNR b KQkq - 1 6,"This is a mistake, although black turns out not to be terribly affected."
+12,Nc6,b8c6,r2qkb1r/p1p2ppp/1pn1pn2/3p1b2/2PP1B2/1QN1P3/PP3PPP/R3KBNR w KQkq - 2 7,"This is a mistake, although black turns out not to be terribly affected."
+13,cxd5,c4d5,r2qkb1r/p1p2ppp/1pn1pn2/3P1b2/3P1B2/1QN1P3/PP3PPP/R3KBNR b KQkq - 0 7,Black must be very creful about 9.Qa4.
+14,exd5,e6d5,r2qkb1r/p1p2ppp/1pn2n2/3p1b2/3P1B2/1QN1P3/PP3PPP/R3KBNR w KQkq - 0 8,Black must be very creful about 9.Qa4.
+15,Bb5,f1b5,r2qkb1r/p1p2ppp/1pn2n2/1B1p1b2/3P1B2/1QN1P3/PP3PPP/R3K1NR b KQkq - 1 8,Black must be very creful about 9.Qa4.
+16,Bd7,f5d7,r2qkb1r/p1pb1ppp/1pn2n2/1B1p4/3P1B2/1QN1P3/PP3PPP/R3K1NR w KQkq - 2 9,"White wins a pawn, but must sidestep a tactical trap."
+17,Nxd5,c3d5,r2qkb1r/p1pb1ppp/1pn2n2/1B1N4/3P1B2/1Q2P3/PP3PPP/R3K1NR b KQkq - 0 9,"White wins a pawn, but must sidestep a tactical trap."
+18,Nxd5,f6d5,r2qkb1r/p1pb1ppp/1pn5/1B1n4/3P1B2/1Q2P3/PP3PPP/R3K1NR w KQkq - 0 10,"Now if 11.Ke2?? or Kd1??, 11...Bg4+ wins the queen, and white is permanently prevented from castling."
+19,Qxd5,b3d5,r2qkb1r/p1pb1ppp/1pn5/1B1Q4/3P1B2/4P3/PP3PPP/R3K1NR b KQkq - 0 10,"Now if 11.Ke2?? or Kd1??, 11...Bg4+ wins the queen, and white is permanently prevented from castling."
+20,Bb4+,f8b4,r2qk2r/p1pb1ppp/1pn5/1B1Q4/1b1P1B2/4P3/PP3PPP/R3K1NR w KQkq - 1 11,"Now if 11.Ke2?? or Kd1??, 11...Bg4+ wins the queen, and white is permanently prevented from castling."
+21,Kf1,e1f1,r2qk2r/p1pb1ppp/1pn5/1B1Q4/1b1P1B2/4P3/PP3PPP/R4KNR b kq - 2 11,"While white can win the exchange here, he reaches a difficult position, in which black has dangerous counterplay."
+22,Nb8,c6b8,rn1qk2r/p1pb1ppp/1p6/1B1Q4/1b1P1B2/4P3/PP3PPP/R4KNR w kq - 3 12,"While white can win the exchange here, he reaches a difficult position, in which black has dangerous counterplay."
+23,Bxd7+,b5d7,rn1qk2r/p1pB1ppp/1p6/3Q4/1b1P1B2/4P3/PP3PPP/R4KNR b kq - 0 12,"Again, there is the threat of material loss for black; however, he judges the benefits to outwiegh the pawn."
+24,Nxd7,b8d7,r2qk2r/p1pn1ppp/1p6/3Q4/1b1P1B2/4P3/PP3PPP/R4KNR w kq - 0 13,"Again, there is the threat of material loss for black; however, he judges the benefits to outwiegh the pawn."
+25,Rc1,a1c1,r2qk2r/p1pn1ppp/1p6/3Q4/1b1P1B2/4P3/PP3PPP/2R2KNR b kq - 1 13,"Again, there is the threat of material loss for black; however, he judges the benefits to outwiegh the pawn."
+26,O-O,e8g8,r2q1rk1/p1pn1ppp/1p6/3Q4/1b1P1B2/4P3/PP3PPP/2R2KNR w - - 2 14,"White has two extra pawns, but black has a short-term advantage in view of his superior development. While the rook on the 7th rank is effective, for a rookon the 7th it is relatively weak, due to the ease with which its targets can be removed and itself kicked away."
+27,Rxc7,c1c7,r2q1rk1/p1Rn1ppp/1p6/3Q4/1b1P1B2/4P3/PP3PPP/5KNR b - - 0 14,"White has two extra pawns, but black has a short-term advantage in view of his superior development. While the rook on the 7th rank is effective, for a rookon the 7th it is relatively weak, due to the ease with which its targets can be removed and itself kicked away."
+28,Nf6,d7f6,r2q1rk1/p1R2ppp/1p3n2/3Q4/1b1P1B2/4P3/PP3PPP/5KNR w - - 1 15,"White has two extra pawns, but black has a short-term advantage in view of his superior development. While the rook on the 7th rank is effective, for a rookon the 7th it is relatively weak, due to the ease with which its targets can be removed and itself kicked away."
+29,Qxd8,d5d8,r2Q1rk1/p1R2ppp/1p3n2/8/1b1P1B2/4P3/PP3PPP/5KNR b - - 0 15,"White has two extra pawns, but black has a short-term advantage in view of his superior development. While the rook on the 7th rank is effective, for a rookon the 7th it is relatively weak, due to the ease with which its targets can be removed and itself kicked away."
+30,Rfxd8,f8d8,r2r2k1/p1R2ppp/1p3n2/8/1b1P1B2/4P3/PP3PPP/5KNR w - - 0 16,"White has two extra pawns, but black has a short-term advantage in view of his superior development. While the rook on the 7th rank is effective, for a rookon the 7th it is relatively weak, due to the ease with which its targets can be removed and itself kicked away."
+31,a3,a2a3,r2r2k1/p1R2ppp/1p3n2/8/1b1P1B2/P3P3/1P3PPP/5KNR b - - 0 16,"An unusual sacrifice, but since black will be dragged down by attrition if he allows white to complete his development without gaining new advantages, he might as well sacrifice a bishop unlikely to be of major use."
+32,Bxa3,b4a3,r2r2k1/p1R2ppp/1p3n2/8/3P1B2/b3P3/1P3PPP/5KNR w - - 0 17,"An unusual sacrifice, but since black will be dragged down by attrition if he allows white to complete his development without gaining new advantages, he might as well sacrifice a bishop unlikely to be of major use."
+33,bxa3,b2a3,r2r2k1/p1R2ppp/1p3n2/8/3P1B2/P3P3/5PPP/5KNR b - - 0 17,"White has a considerable material advantage, but his peices are misplaced; the game will depend on how well he can recover his position."
+34,Nd5,f6d5,r2r2k1/p1R2ppp/1p6/3n4/3P1B2/P3P3/5PPP/5KNR w - - 1 18,"White has a considerable material advantage, but his peices are misplaced; the game will depend on how well he can recover his position."
+35,Rc4,c7c4,r2r2k1/p4ppp/1p6/3n4/2RP1B2/P3P3/5PPP/5KNR b - - 2 18,"If the knight is taken, the rooks become higly dangerous due to the open d and e files, but I beleive nonetheless that taking was his best option here."
+36,b5,b6b5,r2r2k1/p4ppp/8/1p1n4/2RP1B2/P3P3/5PPP/5KNR w - - 0 19,"If the knight is taken, the rooks become higly dangerous due to the open d and e files, but I beleive nonetheless that taking was his best option here."
+37,Rc5,c4c5,r2r2k1/p4ppp/8/1pRn4/3P1B2/P3P3/5PPP/5KNR b - - 1 19,"If the knight is taken, the rooks become higly dangerous due to the open d and e files, but I beleive nonetheless that taking was his best option here."
+38,Nxf4,d5f4,r2r2k1/p4ppp/8/1pR5/3P1n2/P3P3/5PPP/5KNR w - - 0 20,"If the knight is taken, the rooks become higly dangerous due to the open d and e files, but I beleive nonetheless that taking was his best option here."
+39,Rxb5,c5b5,r2r2k1/p4ppp/8/1R6/3P1n2/P3P3/5PPP/5KNR b - - 0 20,"The queenside has been opened up, allowing the black rooks into the attack."
+40,Nd5,f4d5,r2r2k1/p4ppp/8/1R1n4/3P4/P3P3/5PPP/5KNR w - - 1 21,"The queenside has been opened up, allowing the black rooks into the attack."
+41,Nf3,g1f3,r2r2k1/p4ppp/8/1R1n4/3P4/P3PN2/5PPP/5K1R b - - 2 21,"Black has potential to take control of white's 1st rank - If the king goes to e2, then Nc3+."
+42,Rac8,a8c8,2rr2k1/p4ppp/8/1R1n4/3P4/P3PN2/5PPP/5K1R w - - 3 22,"Black has potential to take control of white's 1st rank - If the king goes to e2, then Nc3+."
+43,g3,g2g3,2rr2k1/p4ppp/8/1R1n4/3P4/P3PNP1/5P1P/5K1R b - - 0 22,"This is a very goodmove, since it allows white to bring his king (eventually) to safety, giving him a solid advantage."
+44,Rc2,c8c2,3r2k1/p4ppp/8/1R1n4/3P4/P3PNP1/2r2P1P/5K1R w - - 1 23,"Preventing the king from escaping to g2 due to ...Nxe3+, and allowing doubling of the rooks."
+45,Ra5,b5a5,3r2k1/p4ppp/8/R2n4/3P4/P3PNP1/2r2P1P/5K1R b - - 2 23,Planning to attack f2.
+46,Nc3,d5c3,3r2k1/p4ppp/8/R7/3P4/P1n1PNP1/2r2P1P/5K1R w - - 3 24,Planning to attack f2.

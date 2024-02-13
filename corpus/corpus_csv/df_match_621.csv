@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e4 {trumpets blaring}
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Standard Sicilian defense from black. This is apparently one of the most common and statistically successful defenses against e4. The strategy black has with 1..c5 is to inhibit white's ability to maintain a central pawn majority. You can see if white moves 2. d4, he will be at a 2-1 central pawn disadvantage after a quick exchange in the first two moves of the game. In addition, this exchange results in the queen coming out, where she will undoubtedly be harassed while black develops."
+3,c3,c2c3,rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2,"This is the MT starting position.
+
+Typically, white would accept the temporary disadvantage at d4 by playing 2. Nf3 (headed to the ""open Sicilian""). In my view, this is a really sexy move, one of my favorite opening chess moves. Nf3 allows white to develop the knight, provides white control of the remaining center squares (pressured only at d4), allows for a potential d4 (or e5) push in the future and is one step closer to castling. In addition, notice the scope of the white LSB and queen, compared to black's. This scope difference creates delays in black development. Quite a return on investment for one move!
+
+However, if white follows 2. Nf3 d6 with 3. d4, this will again result in the exchange of a flank pawn for a central pawn, albeit with development advantages.
+
+So, by countering with 2. c3 (""Alapin Sicilian"" or ""c3 Sicilian"") instead, white provides the future d4 pawn a ""buddy"" to back him up. Let's call him Buddy. I'm sure the d4 pawn feels all warm inside. Buddy allows white to maintain the central pawn status quo. However, with all good things there are drawbacks. The primary white weakness is the limited mobility of the queen side knight, which makes the e4 pawn more vulnerable to immediate attack.
+
+I may be missing some key elements in description, but this is what I notice."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR w KQkq - 1 3,"Here black is putting additional pressure on d4, which is most certainly the early battle ground."
+5,d4,d2d4,r1bqkbnr/pp1ppppp/2n5/2p5/3PP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3,"But white is undeterred and occupies d4. Two attackers, two defenders, the attacker loses."
+6,cxd4,c5d4,r1bqkbnr/pp1ppppp/2n5/8/3pP3/2P5/PP3PPP/RNBQKBNR w KQkq - 0 4,Black takes.
+7,cxd4,c3d4,r1bqkbnr/pp1ppppp/2n5/8/3PP3/8/PP3PPP/RNBQKBNR b KQkq - 0 4,White continues to stick with the plan. Buddy jumps in and saves the day! Now things are looking pretty good for white. There are two white pawns on the 4th rank and it looks like black has only developed a knight.
+8,d5,d7d5,r1bqkbnr/pp2pppp/2n5/3p4/3PP3/8/PP3PPP/RNBQKBNR w KQkq - 0 5,"So, black challenges the e4 pawn. I think Nf6 might have been better here to capitalize on the fact white cannot readily defend with the queen side knight AND develop a minor piece. D5 is a similar tactic but moves a pawn instead of developing a minor piece, but opens a line up for the black LSB. Not really sure which is better."
+9,exd5,e4d5,r1bqkbnr/pp2pppp/2n5/3P4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5,"5. e5 seemed to me to allow white to expand deeper, but I noticed it also gave the black c6 knight two separate targets meaning I would have to defend d4 rigorously and I'm just not sure up for that in this game.
+
+In addition, the only way black can exchange is with the queen. I think I may be able to capitalize on this later."
+10,Qxd5,d8d5,r1b1kbnr/pp2pppp/2n5/3q4/3P4/8/PP3PPP/RNBQKBNR w KQkq - 0 6,And black obliges.
+11,Nf3,g1f3,r1b1kbnr/pp2pppp/2n5/3q4/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6,"White continues development with the knight and adds a d4 defender. This isolated pawn normally is troublesome, but not in this game. Buddy is my hero. Also, check out the open lines on the white side! 
+
+Note: analysis shows we are back in book again, but white has successfully avoided the c3 attack taking advantage of the white queen side knight weakness. White is in rapid development which is a key to defeating the Sicilian defense. If white can maintain rapid development, the black queen side pieces will be quickly marginalized."
+12,Bg4,c8g4,r3kbnr/pp2pppp/2n5/3q4/3P2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7,"Here's the advantage to the earlier d5 pawn move, black bishop is free to pin the knight"
+13,Nc3,b1c3,r3kbnr/pp2pppp/2n5/3q4/3P2b1/2N2N2/PP3PPP/R1BQKB1R b KQkq - 3 7,"Soooo, now I harass the lady!"
+14,Qe6+,d5e6,r3kbnr/pp2pppp/2n1q3/8/3P2b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 4 8,Removes the threat and gains a move
+15,Be3,c1e3,r3kbnr/pp2pppp/2n1q3/8/3P2b1/2N1BN2/PP3PPP/R2QKB1R b KQkq - 5 8,Black uses this opportunity to develop the DSB. I think the the Queen check actually unintentionally assisted in white's development.
+16,O-O-O,e8c8,2kr1bnr/pp2pppp/2n1q3/8/3P2b1/2N1BN2/PP3PPP/R2QKB1R w KQ - 6 9,"Another d4 attacker, but black ignores the pawn fork at d5"
+17,d5,d4d5,2kr1bnr/pp2pppp/2n1q3/3P4/6b1/2N1BN2/PP3PPP/R2QKB1R b KQ - 0 9,"Buddy is really a scrappy little guy! Another high return on investment move! The fork is actually a bluff, the black d8 rook pins the pawn. However, I can still harass the queen. This will remove the e3 bishop pin and threaten the a7 pawn all at once!"
+18,Qf6,e6f6,2kr1bnr/pp2pppp/2n2q2/3P4/6b1/2N1BN2/PP3PPP/R2QKB1R w KQ - 1 10,"Black Queen side steps the attack, but presents no real threat in return. Looking back, I now believe 4...Nf6 was better than 4...d5.
+
+At this point, it's more obvious how the white queen side pieces are limited. Rapid white development is a main strategy for defeating the Siciilain defense."
+19,Qa4,d1a4,2kr1bnr/pp2pppp/2n2q2/3P4/Q5b1/2N1BN2/PP3PPP/R3KB1R b KQ - 2 10,"I debated whether to take a7 with the bishop directly, but didn't see anything other than a quick material gain. However, I can remove the remove the pin on f3 and threaten with my queen, I think that would be tactically better."
+20,Bxf3,g4f3,2kr1bnr/pp2pppp/2n2q2/3P4/Q7/2N1Bb2/PP3PPP/R3KB1R w KQ - 0 11,"White seems in trouble here, another d5 attacker. To take the bishop I need to open the g file and the white queen is looming. The h1 rook's future is grim.
+
+I spent a longtime here. Thoughts from some notes I took:
+
+Black is focused on d5. The black queen is posed and salivating. I had planned on castling, but I decide to use the castling move to further my attack. Therefore, white really can't use the h1 rook for traditional purposes given the castle decision. It's unlikely white will be able to connect the rooks as well."

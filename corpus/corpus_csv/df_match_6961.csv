@@ -1,0 +1,58 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This is the Three Knights position
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,This is the Three Knights position
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,This is the Three Knights position
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,This is the Three Knights position
+5,Nc3,b1c3,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,This is the Three Knights position
+6,Bb4,f8b4,rnbqk2r/pppp1ppp/5n2/4p3/1b2P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,This is the Three Knights position
+7,Nxe5,f3e5,rnbqk2r/pppp1ppp/5n2/4N3/1b2P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4,I'm not sure if 4. ... d6 isn't a better move but I thought doubling the pawns might be a good idea.
+8,Bxc3,b4c3,rnbqk2r/pppp1ppp/5n2/4N3/4P3/2b5/PPPP1PPP/R1BQKB1R w KQkq - 0 5,I'm not sure if 4. ... d6 isn't a better move but I thought doubling the pawns might be a good idea.
+9,dxc3,d2c3,rnbqk2r/pppp1ppp/5n2/4N3/4P3/2P5/PPP2PPP/R1BQKB1R b KQkq - 0 5,This is typical of a Cochrane Attack with which I'm fairly familiar
+10,d6,d7d6,rnbqk2r/ppp2ppp/3p1n2/4N3/4P3/2P5/PPP2PPP/R1BQKB1R w KQkq - 0 6,This is typical of a Cochrane Attack with which I'm fairly familiar
+11,Nxf7,e5f7,rnbqk2r/ppp2Npp/3p1n2/8/4P3/2P5/PPP2PPP/R1BQKB1R b KQkq - 0 6,This is typical of a Cochrane Attack with which I'm fairly familiar
+12,Kxf7,e8f7,rnbq3r/ppp2kpp/3p1n2/8/4P3/2P5/PPP2PPP/R1BQKB1R w KQ - 0 7,They key for Black is to avoid getting the king hemmed into a mating net eventually getting the Kingside Rook to e8 and the King itself tucked into a castling position. White must try to avoid the activiation of that Rook.
+13,Bc4+,f1c4,rnbq3r/ppp2kpp/3p1n2/8/2B1P3/2P5/PPP2PPP/R1BQK2R b KQ - 1 7,They key for Black is to avoid getting the king hemmed into a mating net eventually getting the Kingside Rook to e8 and the King itself tucked into a castling position. White must try to avoid the activiation of that Rook.
+14,Be6,c8e6,rn1q3r/ppp2kpp/3pbn2/8/2B1P3/2P5/PPP2PPP/R1BQK2R w KQ - 2 8,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+15,Bxe6+,c4e6,rn1q3r/ppp2kpp/3pBn2/8/4P3/2P5/PPP2PPP/R1BQK2R b KQ - 0 8,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+16,Kxe6,f7e6,rn1q3r/ppp3pp/3pkn2/8/4P3/2P5/PPP2PPP/R1BQK2R w KQ - 0 9,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+17,O-O,e1g1,rn1q3r/ppp3pp/3pkn2/8/4P3/2P5/PPP2PPP/R1BQ1RK1 b - - 1 9,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+18,Re8,h8e8,rn1qr3/ppp3pp/3pkn2/8/4P3/2P5/PPP2PPP/R1BQ1RK1 w - - 2 10,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+19,Bg5,c1g5,rn1qr3/ppp3pp/3pkn2/6B1/4P3/2P5/PPP2PPP/R2Q1RK1 b - - 3 10,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+20,Kf7,e6f7,rn1qr3/ppp2kpp/3p1n2/6B1/4P3/2P5/PPP2PPP/R2Q1RK1 w - - 4 11,This is a mistake I think. Better is 10. ... Nc6 getting another piece out and blocking off the eventually loss of the b-pawn. Something along the lines of 10. ... Nc6 11. Qd5+ Kd7
+21,Bxf6,g5f6,rn1qr3/ppp2kpp/3p1B2/8/4P3/2P5/PPP2PPP/R2Q1RK1 b - - 0 11,Now I lose more pawns
+22,Qxf6,d8f6,rn2r3/ppp2kpp/3p1q2/8/4P3/2P5/PPP2PPP/R2Q1RK1 w - - 0 12,Now I lose more pawns
+23,Qd5+,d1d5,rn2r3/ppp2kpp/3p1q2/3Q4/4P3/2P5/PPP2PPP/R4RK1 b - - 1 12,Now I lose more pawns
+24,Kf8,f7f8,rn2rk2/ppp3pp/3p1q2/3Q4/4P3/2P5/PPP2PPP/R4RK1 w - - 2 13,Those two pawns were extremely damaging even if I don't blunder the Knight later as White might well have been able to push his Queenside pawn majority down upon me forcing me to trade off the Knight in any case.
+25,Qxb7,d5b7,rn2rk2/pQp3pp/3p1q2/8/4P3/2P5/PPP2PPP/R4RK1 b - - 0 13,Those two pawns were extremely damaging even if I don't blunder the Knight later as White might well have been able to push his Queenside pawn majority down upon me forcing me to trade off the Knight in any case.
+26,Nd7,b8d7,r3rk2/pQpn2pp/3p1q2/8/4P3/2P5/PPP2PPP/R4RK1 w - - 1 14,Those two pawns were extremely damaging even if I don't blunder the Knight later as White might well have been able to push his Queenside pawn majority down upon me forcing me to trade off the Knight in any case.
+27,Qxc7,b7c7,r3rk2/p1Qn2pp/3p1q2/8/4P3/2P5/PPP2PPP/R4RK1 b - - 0 14,Those two pawns were extremely damaging even if I don't blunder the Knight later as White might well have been able to push his Queenside pawn majority down upon me forcing me to trade off the Knight in any case.
+28,Nc5,d7c5,r3rk2/p1Q3pp/3p1q2/2n5/4P3/2P5/PPP2PPP/R4RK1 w - - 1 15,I'm not sure 16. Rxe4 isn't a little better as this move allows me to line up my Rooks. As my opponent won this game perhaps I'm wrong.
+29,Rfe1,f1e1,r3rk2/p1Q3pp/3p1q2/2n5/4P3/2P5/PPP2PPP/R3R1K1 b - - 2 15,I'm not sure 16. Rxe4 isn't a little better as this move allows me to line up my Rooks. As my opponent won this game perhaps I'm wrong.
+30,Rxe4,e8e4,r4k2/p1Q3pp/3p1q2/2n5/4r3/2P5/PPP2PPP/R3R1K1 w - - 0 16,I'm not sure 16. Rxe4 isn't a little better as this move allows me to line up my Rooks. As my opponent won this game perhaps I'm wrong.
+31,Qc6,c7c6,r4k2/p5pp/2Qp1q2/2n5/4r3/2P5/PPP2PPP/R3R1K1 b - - 1 16,I'm not sure 16. Rxe4 isn't a little better as this move allows me to line up my Rooks. As my opponent won this game perhaps I'm wrong.
+32,Rae8,a8e8,4rk2/p5pp/2Qp1q2/2n5/4r3/2P5/PPP2PPP/R3R1K1 w - - 2 17,We end up in the same position as if White had taken the Rook initially but now my second Rook is on the inviting e-file
+33,Kf1,g1f1,4rk2/p5pp/2Qp1q2/2n5/4r3/2P5/PPP2PPP/R3RK2 b - - 3 17,We end up in the same position as if White had taken the Rook initially but now my second Rook is on the inviting e-file
+34,Qh6,f6h6,4rk2/p5pp/2Qp3q/2n5/4r3/2P5/PPP2PPP/R3RK2 w - - 4 18,We end up in the same position as if White had taken the Rook initially but now my second Rook is on the inviting e-file
+35,Rxe4,e1e4,4rk2/p5pp/2Qp3q/2n5/4R3/2P5/PPP2PPP/R4K2 b - - 0 18,We end up in the same position as if White had taken the Rook initially but now my second Rook is on the inviting e-file
+36,Nxe4,c5e4,4rk2/p5pp/2Qp3q/8/4n3/2P5/PPP2PPP/R4K2 w - - 0 19,We end up in the same position as if White had taken the Rook initially but now my second Rook is on the inviting e-file
+37,h3,h2h3,4rk2/p5pp/2Qp3q/8/4n3/2P4P/PPP2PP1/R4K2 b - - 0 19,White cannot play 19. Re1 Nd2+ 20. Kg1 Rxe1#
+38,Qf6,h6f6,4rk2/p5pp/2Qp1q2/8/4n3/2P4P/PPP2PP1/R4K2 w - - 1 20,Threatening 20. ... Qxf2#
+39,f3,f2f3,4rk2/p5pp/2Qp1q2/8/4n3/2P2P1P/PPP3P1/R4K2 b - - 0 20,I was still looking at Knight checks on d2 and g3 but the major threats are now gone and I probably should have moved the Knight away from the danger
+40,Qf7,f6f7,4rk2/p4qpp/2Qp4/8/4n3/2P2P1P/PPP3P1/R4K2 w - - 1 21,I was still looking at Knight checks on d2 and g3 but the major threats are now gone and I probably should have moved the Knight away from the danger
+41,Kg1,f1g1,4rk2/p4qpp/2Qp4/8/4n3/2P2P1P/PPP3P1/R5K1 b - - 2 21,I'm still thinking aggressively at this stage and make a terrible blunder. My d-pawn is no longer protected.
+42,Ng3,e4g3,4rk2/p4qpp/2Qp4/8/8/2P2PnP/PPP3P1/R5K1 w - - 3 22,I'm still thinking aggressively at this stage and make a terrible blunder. My d-pawn is no longer protected.
+43,Qxd6+,c6d6,4rk2/p4qpp/3Q4/8/8/2P2PnP/PPP3P1/R5K1 b - - 0 22,Now the situation is dire for Black. The Queenside pawn majority is strong but the exposed position of the king eventually brings about the end of the game.
+44,Qe7,f7e7,4rk2/p3q1pp/3Q4/8/8/2P2PnP/PPP3P1/R5K1 w - - 1 23,Now the situation is dire for Black. The Queenside pawn majority is strong but the exposed position of the king eventually brings about the end of the game.
+45,Qxg3,d6g3,4rk2/p3q1pp/8/8/8/2P2PQP/PPP3P1/R5K1 b - - 0 23,Now the situation is dire for Black. The Queenside pawn majority is strong but the exposed position of the king eventually brings about the end of the game.
+46,Qb7,e7b7,4rk2/pq4pp/8/8/8/2P2PQP/PPP3P1/R5K1 w - - 1 24,Trying to play actively
+47,Qd6+,g3d6,4rk2/pq4pp/3Q4/8/8/2P2P1P/PPP3P1/R5K1 b - - 2 24,There are just too many checks available that allow White to bring the Rook into the game
+48,Kf7,f8f7,4r3/pq3kpp/3Q4/8/8/2P2P1P/PPP3P1/R5K1 w - - 3 25,Grasping at straws hoping for a perpetual that does not exist.
+49,Qf4+,d6f4,4r3/pq3kpp/8/8/5Q2/2P2P1P/PPP3P1/R5K1 b - - 4 25,Grasping at straws hoping for a perpetual that does not exist.
+50,Kg8,f7g8,4r1k1/pq4pp/8/8/5Q2/2P2P1P/PPP3P1/R5K1 w - - 5 26,Grasping at straws hoping for a perpetual that does not exist.
+51,b4,b2b4,4r1k1/pq4pp/8/8/1P3Q2/2P2P1P/P1P3P1/R5K1 b - - 0 26,Grasping at straws hoping for a perpetual that does not exist.
+52,Qb6+,b7b6,4r1k1/p5pp/1q6/8/1P3Q2/2P2P1P/P1P3P1/R5K1 w - - 1 27,Grasping at straws hoping for a perpetual that does not exist.
+53,Kh2,g1h2,4r1k1/p5pp/1q6/8/1P3Q2/2P2P1P/P1P3PK/R7 b - - 2 27,Again trying to snatch pawns
+54,Re3,e8e3,6k1/p5pp/1q6/8/1P3Q2/2P1rP1P/P1P3PK/R7 w - - 3 28,Again trying to snatch pawns
+55,Rd1,a1d1,6k1/p5pp/1q6/8/1P3Q2/2P1rP1P/P1P3PK/3R4 b - - 4 28,Better is 28. ... Re7 preventing white from getting his Rook to the seventh rank
+56,Rxc3,e3c3,6k1/p5pp/1q6/8/1P3Q2/2r2P1P/P1P3PK/3R4 w - - 0 29,Better is 28. ... Re7 preventing white from getting his Rook to the seventh rank
+57,Rd7,d1d7,6k1/p2R2pp/1q6/8/1P3Q2/2r2P1P/P1P3PK/8 b - - 1 29,Now the mating threats are coming from all directions. 29. ... Rc8 30. Qf7+ Kh8 31. Qxg7# or 29. ... Qg6 30. Rd8+ Qe8 31. Rxe8#

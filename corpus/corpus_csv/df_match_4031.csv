@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The most well known first move for White, but not the best."
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Sicilian, Black's best opening in response to 1.e4."
+3,Bc4,f1c4,rnbqkbnr/pp1ppppp/8/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,"This isn't book, therefore this isn't his best move. It isn't a mistake because the game is right now premature."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3,"Probably to prevent e5, chasing away the Knight from f6 if it did happen."
+5,Nf3,g1f3,r1bqkbnr/pp1ppppp/2n5/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"White's goal is to put pressure on e4. As of now, the game is now taking shape and mistakes are becoming more visible."
+6,d6,d7d6,r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,"Not bad; Black will probably be prone to light square weaknesses later in the game, but for right now, this move is okay. It allows the g8 Knight to develop to f6 with ease if 4.d4 isn't played and it prepares the Bishop to go to d7."
+7,Nc3,b1c3,r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4,4.d4 is another possibility as it is equally effective as this move.
+8,Nf6,g8f6,r1bqkb1r/pp2pppp/2np1n2/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 2 5,Basic Kingside developement required for castling.
+9,d4,d2d4,r1bqkb1r/pp2pppp/2np1n2/2p5/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 5,"This is very problematic move for Black as developed pieces can be easily attacked in one move. 5...Bd7 is a good idea here, but I'm sure that there are other moves that can be played."
+10,cxd4,c5d4,r1bqkb1r/pp2pppp/2np1n2/8/2BpP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 6,Not the best idea as it may cause Black to lose the center.
+11,Nxd4,f3d4,r1bqkb1r/pp2pppp/2np1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 0 6,"At this point, I would like to see if Black can play 6...Bd7."
+12,g6,g7g6,r1bqkb1r/pp2pp1p/2np1np1/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 0 7,"I'm not a big fan of this move either. However, White's Knight looks like it has no other choice but to go back to f3."
+13,Bb5,c4b5,r1bqkb1r/pp2pp1p/2np1np1/1B6/3NP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 7,"?! Black can simply play d5, breaking up White's center"
+14,Bd7,c8d7,r2qkb1r/pp1bpp1p/2np1np1/1B6/3NP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 8,"Continuing with development isn't bad either, but in this position, Black must handle his pieces like priceless glass."
+15,Nd5,c3d5,r2qkb1r/pp1bpp1p/2np1np1/1B1N4/3NP3/8/PPP2PPP/R1BQK2R b KQkq - 3 8,8...Nxd5 is critical right now unless I am missing another move.
+16,Nxd5,f6d5,r2qkb1r/pp1bpp1p/2np2p1/1B1n4/3NP3/8/PPP2PPP/R1BQK2R w KQkq - 0 9,"Like it or not, 8...Nxd5 was played."
+17,exd5,e4d5,r2qkb1r/pp1bpp1p/2np2p1/1B1P4/3N4/8/PPP2PPP/R1BQK2R b KQkq - 0 9,Perhaps 9.exd5 Nxd4 10.Bxd7+ (White loses after 10.Qxd4 Bxb5) Qxd7 11.Qxd5.
+18,a6,a7a6,r2qkb1r/1p1bpp1p/p1np2p1/1B1P4/3N4/8/PPP2PPP/R1BQK2R w KQkq - 0 10,"Black is asking White to take an extra piece, which is why this move is the first critical mistake."
+19,Nxc6,d4c6,r2qkb1r/1p1bpp1p/p1Np2p1/1B1P4/8/8/PPP2PPP/R1BQK2R b KQkq - 0 10,"If played correctly, Black will be down a pawn."
+20,Bxc6,d7c6,r2qkb1r/1p2pp1p/p1bp2p1/1B1P4/8/8/PPP2PPP/R1BQK2R w KQkq - 0 11,"So far, so good (not really for Black however)."

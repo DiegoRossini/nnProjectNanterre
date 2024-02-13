@@ -1,0 +1,50 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A speculative move, seeking to exploit superior development"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"A speculative move, seeking to exploit superior development"
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,"A speculative move, seeking to exploit superior development"
+4,d5,d7d5,rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,"A speculative move, seeking to exploit superior development"
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3,"A speculative move, seeking to exploit superior development"
+6,Qxd5,d8d5,rnb1kbnr/ppp2ppp/8/3qp3/5P2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4,"A speculative move, seeking to exploit superior development"
+7,Nc3,b1c3,rnb1kbnr/ppp2ppp/8/3qp3/5P2/2N5/PPPP2PP/R1BQKBNR b KQkq - 1 4,"A speculative move, seeking to exploit superior development"
+8,Qe6,d5e6,rnb1kbnr/ppp2ppp/4q3/4p3/5P2/2N5/PPPP2PP/R1BQKBNR w KQkq - 2 5,"A speculative move, seeking to exploit superior development"
+9,Nf3,g1f3,rnb1kbnr/ppp2ppp/4q3/4p3/5P2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 3 5,"A speculative move, seeking to exploit superior development"
+10,exf4+,e5f4,rnb1kbnr/ppp2ppp/4q3/8/5p2/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 0 6,Black wants material compensation for retarded development
+11,Be2,f1e2,rnb1kbnr/ppp2ppp/4q3/8/5p2/2N2N2/PPPPB1PP/R1BQK2R b KQkq - 1 6,Black wants material compensation for retarded development
+12,Be7,f8e7,rnb1k1nr/ppp1bppp/4q3/8/5p2/2N2N2/PPPPB1PP/R1BQK2R w KQkq - 2 7,Black wants material compensation for retarded development
+13,O-O,e1g1,rnb1k1nr/ppp1bppp/4q3/8/5p2/2N2N2/PPPPB1PP/R1BQ1RK1 b kq - 3 7,Black wants material compensation for retarded development
+14,g5,g7g5,rnb1k1nr/ppp1bp1p/4q3/6p1/5p2/2N2N2/PPPPB1PP/R1BQ1RK1 w kq - 0 8,Black wants material compensation for retarded development
+15,Re1,f1e1,rnb1k1nr/ppp1bp1p/4q3/6p1/5p2/2N2N2/PPPPB1PP/R1BQR1K1 b kq - 1 8,White begins the attack...
+16,Bd7,c8d7,rn2k1nr/pppbbp1p/4q3/6p1/5p2/2N2N2/PPPPB1PP/R1BQR1K1 w kq - 2 9,White begins the attack...
+17,d4,d2d4,rn2k1nr/pppbbp1p/4q3/6p1/3P1p2/2N2N2/PPP1B1PP/R1BQR1K1 b kq - 0 9,White begins the attack...
+18,Qg6,e6g6,rn2k1nr/pppbbp1p/6q1/6p1/3P1p2/2N2N2/PPP1B1PP/R1BQR1K1 w kq - 1 10,White begins the attack...
+19,Nd5,c3d5,rn2k1nr/pppbbp1p/6q1/3N2p1/3P1p2/5N2/PPP1B1PP/R1BQR1K1 b kq - 2 10,Pile up on the e-file
+20,Kd8,e8d8,rn1k2nr/pppbbp1p/6q1/3N2p1/3P1p2/5N2/PPP1B1PP/R1BQR1K1 w - - 3 11,Pile up on the e-file
+21,Bd3,e2d3,rn1k2nr/pppbbp1p/6q1/3N2p1/3P1p2/3B1N2/PPP3PP/R1BQR1K1 b - - 4 11,Pile up on the e-file
+22,Qg7,g6g7,rn1k2nr/pppbbpqp/8/3N2p1/3P1p2/3B1N2/PPP3PP/R1BQR1K1 w - - 5 12,Pile up on the e-file
+23,Qe2,d1e2,rn1k2nr/pppbbpqp/8/3N2p1/3P1p2/3B1N2/PPP1Q1PP/R1B1R1K1 b - - 6 12,Pile up on the e-file
+24,f6,f7f6,rn1k2nr/pppbb1qp/5p2/3N2p1/3P1p2/3B1N2/PPP1Q1PP/R1B1R1K1 w - - 0 13,defending the pawn
+25,c4,c2c4,rn1k2nr/pppbb1qp/5p2/3N2p1/2PP1p2/3B1N2/PP2Q1PP/R1B1R1K1 b - - 0 13,the start of a plan to open up the long diagonal for the dsb.
+26,Nc6,b8c6,r2k2nr/pppbb1qp/2n2p2/3N2p1/2PP1p2/3B1N2/PP2Q1PP/R1B1R1K1 w - - 1 14,An attempt to spare the dsb but White eyes the long diagonal.
+27,b3,b2b3,r2k2nr/pppbb1qp/2n2p2/3N2p1/2PP1p2/1P1B1N2/P3Q1PP/R1B1R1K1 b - - 0 14,An attempt to spare the dsb but White eyes the long diagonal.
+28,h5,h7h5,r2k2nr/pppbb1q1/2n2p2/3N2pp/2PP1p2/1P1B1N2/P3Q1PP/R1B1R1K1 w - - 0 15,An attempt to spare the dsb but White eyes the long diagonal.
+29,Bb2,c1b2,r2k2nr/pppbb1q1/2n2p2/3N2pp/2PP1p2/1P1B1N2/PB2Q1PP/R3R1K1 b - - 1 15,An attempt to spare the dsb but White eyes the long diagonal.
+30,Bf8,e7f8,r2k1bnr/pppb2q1/2n2p2/3N2pp/2PP1p2/1P1B1N2/PB2Q1PP/R3R1K1 w - - 2 16,An attempt to spare the dsb but White eyes the long diagonal.
+31,Rad1,a1d1,r2k1bnr/pppb2q1/2n2p2/3N2pp/2PP1p2/1P1B1N2/PB2Q1PP/3RR1K1 b - - 3 16,Prepares for an attack
+32,Nh6,g8h6,r2k1b1r/pppb2q1/2n2p1n/3N2pp/2PP1p2/1P1B1N2/PB2Q1PP/3RR1K1 w - - 4 17,16 ...Nh6?? is a serious tactical miscalculation. Now Black is subjected to a series of tactical blows.
+33,Nxf6,d5f6,r2k1b1r/pppb2q1/2n2N1n/6pp/2PP1p2/1P1B1N2/PB2Q1PP/3RR1K1 b - - 0 17,17. Nxf6! Exploits the long diagonal if the Knight is captured.
+34,Bb4,f8b4,r2k3r/pppb2q1/2n2N1n/6pp/1bPP1p2/1P1B1N2/PB2Q1PP/3RR1K1 w - - 1 18,An attempt to complicate
+35,Nxh5,f6h5,r2k3r/pppb2q1/2n4n/6pN/1bPP1p2/1P1B1N2/PB2Q1PP/3RR1K1 b - - 0 18,Useful in between move
+36,Qe7,g7e7,r2k3r/pppbq3/2n4n/6pN/1bPP1p2/1P1B1N2/PB2Q1PP/3RR1K1 w - - 1 19,Logical followup.
+37,d5,d4d5,r2k3r/pppbq3/2n4n/3P2pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR1K1 b - - 0 19,Logical followup.
+38,Qc5+,e7c5,r2k3r/pppb4/2n4n/2qP2pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR1K1 w - - 1 20,Only chance for complications
+39,Kh1,g1h1,r2k3r/pppb4/2n4n/2qP2pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR2K b - - 2 20,Exploits the  virtual pin on the bishop
+40,Rg8,h8g8,r2k2r1/pppb4/2n4n/2qP2pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR2K w - - 3 21,Exploits the  virtual pin on the bishop
+41,dxc6,d5c6,r2k2r1/pppb4/2P4n/2q3pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR2K b - - 0 21,Exploits the  virtual pin on the bishop
+42,bxc6,b7c6,r2k2r1/p1pb4/2p4n/2q3pN/1bP2p2/1P1B1N2/PB2Q1PP/3RR2K w - - 0 22,Still exploiting the virtual pin
+43,Nf6,h5f6,r2k2r1/p1pb4/2p2N1n/2q3p1/1bP2p2/1P1B1N2/PB2Q1PP/3RR2K b - - 1 22,Still exploiting the virtual pin
+44,Bxe1,b4e1,r2k2r1/p1pb4/2p2N1n/2q3p1/2P2p2/1P1B1N2/PB2Q1PP/3Rb2K w - - 0 23,Black takes the rook befoere it moves
+45,Nxg8,f6g8,r2k2N1/p1pb4/2p4n/2q3p1/2P2p2/1P1B1N2/PB2Q1PP/3Rb2K b - - 0 23,White ends up a piece up and still exploits the virtual pin.
+46,Nxg8,h6g8,r2k2n1/p1pb4/2p5/2q3p1/2P2p2/1P1B1N2/PB2Q1PP/3Rb2K w - - 0 24,White ends up a piece up and still exploits the virtual pin.
+47,Qxe1,e2e1,r2k2n1/p1pb4/2p5/2q3p1/2P2p2/1P1B1N2/PB4PP/3RQ2K b - - 0 24,White ends up a piece up and still exploits the virtual pin.
+48,Kc8,d8c8,r1k3n1/p1pb4/2p5/2q3p1/2P2p2/1P1B1N2/PB4PP/3RQ2K w - - 1 25,Black tries to escape the pin.
+49,Bd4,b2d4,r1k3n1/p1pb4/2p5/2q3p1/2PB1p2/1P1B1N2/P5PP/3RQ2K b - - 2 25,White drives off the Queen and prepares a possible queenside attack on the king.

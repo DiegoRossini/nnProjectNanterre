@@ -1,0 +1,26 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Kings Opening
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,I match
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Pulling out the knight on the short side
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Guarding my pawn
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Putting pressure on f2
+6,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Putting pressure on f2
+7,d3,d2d3,r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4,Preparing to castle
+8,Nf6,g8f6,r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5,Preparing to castle
+9,Ng5,f3g5,r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/3P4/PPP2PPP/RNBQK2R b KQkq - 2 5,Attacking f7
+10,O-O,e8g8,r1bq1rk1/pppp1ppp/2n2n2/2b1p1N1/2B1P3/3P4/PPP2PPP/RNBQK2R w KQ - 3 6,So I castle so he can't get the fork on the rook
+11,Nc3,b1c3,r1bq1rk1/pppp1ppp/2n2n2/2b1p1N1/2B1P3/2NP4/PPP2PPP/R1BQK2R b KQ - 4 6,"Very risky move, I was anticipating the queen taking it, but then I was going to use a pawn to attack a bishop and open up an attack on the queen with my bishop"
+12,Ng4,f6g4,r1bq1rk1/pppp1ppp/2n5/2b1p1N1/2B1P1n1/2NP4/PPP2PPP/R1BQK2R w KQ - 5 7,"Very risky move, I was anticipating the queen taking it, but then I was going to use a pawn to attack a bishop and open up an attack on the queen with my bishop"
+13,Qxg4,d1g4,r1bq1rk1/pppp1ppp/2n5/2b1p1N1/2B1P1Q1/2NP4/PPP2PPP/R1B1K2R b KQ - 0 7,He goes for it
+14,d5,d7d5,r1bq1rk1/ppp2ppp/2n5/2bpp1N1/2B1P1Q1/2NP4/PPP2PPP/R1B1K2R w KQ - 0 8,And so do I...
+15,Qh4,g4h4,r1bq1rk1/ppp2ppp/2n5/2bpp1N1/2B1P2Q/2NP4/PPP2PPP/R1B1K2R b KQ - 1 8,"Moves his queen to try for the mate on h7. I could have taken the bishop here, but i didn't."
+16,h6,h7h6,r1bq1rk1/ppp2pp1/2n4p/2bpp1N1/2B1P2Q/2NP4/PPP2PPP/R1B1K2R w KQ - 0 9,Putting even more pressure with my pawns and guarding the mate on h7
+17,Nf3,g5f3,r1bq1rk1/ppp2pp1/2n4p/2bpp3/2B1P2Q/2NP1N2/PPP2PPP/R1B1K2R b KQ - 1 9,"Good move by him, moving the knight out of harm's way and to protect his queen"
+18,Qxh4,d8h4,r1b2rk1/ppp2pp1/2n4p/2bpp3/2B1P2q/2NP1N2/PPP2PPP/R1B1K2R w KQ - 0 10,queen for queen
+19,Nxh4,f3h4,r1b2rk1/ppp2pp1/2n4p/2bpp3/2B1P2N/2NP4/PPP2PPP/R1B1K2R b KQ - 0 10,I do lose a pawn in the process
+20,dxc4,d5c4,r1b2rk1/ppp2pp1/2n4p/2b1p3/2p1P2N/2NP4/PPP2PPP/R1B1K2R w KQ - 0 11,I do lose a pawn in the process
+21,dxc4,d3c4,r1b2rk1/ppp2pp1/2n4p/2b1p3/2P1P2N/2N5/PPP2PPP/R1B1K2R b KQ - 0 11,I do lose a pawn in the process
+22,Nd4,c6d4,r1b2rk1/ppp2pp1/7p/2b1p3/2PnP2N/2N5/PPP2PPP/R1B1K2R w KQ - 1 12,Move the knight into the open spot and look for the fork on c2
+23,Kd1,e1d1,r1b2rk1/ppp2pp1/7p/2b1p3/2PnP2N/2N5/PPP2PPP/R1BK3R b - - 2 12,"He sees and counters, but..."
+24,Rd8,f8d8,r1br2k1/ppp2pp1/7p/2b1p3/2PnP2N/2N5/PPP2PPP/R1BK3R w - - 3 13,I move the rook behind it for a unseen check. I would have liked to have gone to f3 here and take his knight on h4
+25,Bd2,c1d2,r1br2k1/ppp2pp1/7p/2b1p3/2PnP2N/2N5/PPPB1PPP/R2K3R b - - 4 13,"But he does see that and forces me to reconsider, so I attack his knight"

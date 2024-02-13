@@ -1,0 +1,62 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,a4 prevent black from making b5.
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,a4 prevent black from making b5.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,a4 prevent black from making b5.
+4,Nf6,g8f6,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,a4 prevent black from making b5.
+5,Nc3,b1c3,rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,a4 prevent black from making b5.
+6,Nbd7,b8d7,r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4,a4 prevent black from making b5.
+7,Nf3,g1f3,r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 4 4,a4 prevent black from making b5.
+8,e5,e7e5,r1bqkb1r/pppn1ppp/3p1n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,a4 prevent black from making b5.
+9,Bc4,f1c4,r1bqkb1r/pppn1ppp/3p1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 5,a4 prevent black from making b5.
+10,Be7,f8e7,r1bqk2r/pppnbppp/3p1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 6,a4 prevent black from making b5.
+11,O-O,e1g1,r1bqk2r/pppnbppp/3p1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 3 6,a4 prevent black from making b5.
+12,c6,c7c6,r1bqk2r/pp1nbppp/2pp1n2/4p3/2BPP3/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 7,a4 prevent black from making b5.
+13,a4,a2a4,r1bqk2r/pp1nbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQ1RK1 b kq - 0 7,a4 prevent black from making b5.
+14,Qc7,d8c7,r1b1k2r/ppqnbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQ1RK1 w kq - 1 8,"I know that out team captain does not like this kind of move, but I wanted to play Be3 and did not want to see Ng4."
+15,Re1,f1e1,r1b1k2r/ppqnbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQR1K1 b kq - 2 8,"I know that out team captain does not like this kind of move, but I wanted to play Be3 and did not want to see Ng4."
+16,O-O,e8g8,r1b2rk1/ppqnbppp/2pp1n2/4p3/P1BPP3/2N2N2/1PP2PPP/R1BQR1K1 w - - 3 9,"I know that out team captain does not like this kind of move, but I wanted to play Be3 and did not want to see Ng4."
+17,h3,h2h3,r1b2rk1/ppqnbppp/2pp1n2/4p3/P1BPP3/2N2N1P/1PP2PP1/R1BQR1K1 b - - 0 9,"I know that out team captain does not like this kind of move, but I wanted to play Be3 and did not want to see Ng4."
+18,Nxe4,f6e4,r1b2rk1/ppqnbppp/2pp4/4p3/P1BPn3/2N2N1P/1PP2PP1/R1BQR1K1 w - - 0 10,"A mistake, he did not calculate the variant, white is winning, the best way for black would be exd4 and then put pressure on e4 with Re8 - this kind of game is difficult for black - to get out of the limited space, but normally black wins if he mange to get a good development."
+19,Rxe4,e1e4,r1b2rk1/ppqnbppp/2pp4/4p3/P1BPR3/2N2N1P/1PP2PP1/R1BQ2K1 b - - 0 10,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+20,d5,d6d5,r1b2rk1/ppqnbppp/2p5/3pp3/P1BPR3/2N2N1P/1PP2PP1/R1BQ2K1 w - - 0 11,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+21,Bxd5,c4d5,r1b2rk1/ppqnbppp/2p5/3Bp3/P2PR3/2N2N1P/1PP2PP1/R1BQ2K1 b - - 0 11,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+22,cxd5,c6d5,r1b2rk1/ppqnbppp/8/3pp3/P2PR3/2N2N1P/1PP2PP1/R1BQ2K1 w - - 0 12,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+23,Nxd5,c3d5,r1b2rk1/ppqnbppp/8/3Np3/P2PR3/5N1P/1PP2PP1/R1BQ2K1 b - - 0 12,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+24,Qd8,c7d8,r1bq1rk1/pp1nbppp/8/3Np3/P2PR3/5N1P/1PP2PP1/R1BQ2K1 w - - 1 13,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+25,Nxe7+,d5e7,r1bq1rk1/pp1nNppp/8/4p3/P2PR3/5N1P/1PP2PP1/R1BQ2K1 b - - 0 13,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+26,Qxe7,d8e7,r1b2rk1/pp1nqppp/8/4p3/P2PR3/5N1P/1PP2PP1/R1BQ2K1 w - - 0 14,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+27,Nxe5,f3e5,r1b2rk1/pp1nqppp/8/4N3/P2PR3/7P/1PP2PP1/R1BQ2K1 b - - 0 14,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+28,Nf6,d7f6,r1b2rk1/pp2qppp/5n2/4N3/P2PR3/7P/1PP2PP1/R1BQ2K1 w - - 1 15,"f6 does not work - or is no better, white play Nxd7 and take the rook - i.e. just exchange pieces and white is up with 2 pawns."
+29,Bg5,c1g5,r1b2rk1/pp2qppp/5n2/4N1B1/P2PR3/7P/1PP2PP1/R2Q2K1 b - - 2 15,Binding - something I like a lot.
+30,Bf5,c8f5,r4rk1/pp2qppp/5n2/4NbB1/P2PR3/7P/1PP2PP1/R2Q2K1 w - - 3 16,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+31,Re3,e4e3,r4rk1/pp2qppp/5n2/4NbB1/P2P4/4R2P/1PP2PP1/R2Q2K1 b - - 4 16,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+32,Qd8,e7d8,r2q1rk1/pp3ppp/5n2/4NbB1/P2P4/4R2P/1PP2PP1/R2Q2K1 w - - 5 17,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+33,c3,c2c3,r2q1rk1/pp3ppp/5n2/4NbB1/P2P4/2P1R2P/1P3PP1/R2Q2K1 b - - 0 17,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+34,h6,h7h6,r2q1rk1/pp3pp1/5n1p/4NbB1/P2P4/2P1R2P/1P3PP1/R2Q2K1 w - - 0 18,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+35,Bh4,g5h4,r2q1rk1/pp3pp1/5n1p/4Nb2/P2P3B/2P1R2P/1P3PP1/R2Q2K1 b - - 1 18,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+36,g5,g7g5,r2q1rk1/pp3p2/5n1p/4Nbp1/P2P3B/2P1R2P/1P3PP1/R2Q2K1 w - - 0 19,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+37,Bg3,h4g3,r2q1rk1/pp3p2/5n1p/4Nbp1/P2P4/2P1R1BP/1P3PP1/R2Q2K1 b - - 1 19,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+38,Nd5,f6d5,r2q1rk1/pp3p2/7p/3nNbp1/P2P4/2P1R1BP/1P3PP1/R2Q2K1 w - - 2 20,"Black is getting some activity for his 2 pawns, but the white c and d pawn are very strong."
+39,Re1,e3e1,r2q1rk1/pp3p2/7p/3nNbp1/P2P4/2P3BP/1P3PP1/R2QR1K1 b - - 3 20,"I think that Rc8 would hvae been better, it looks like a waste of time to move it back."
+40,Nf6,d5f6,r2q1rk1/pp3p2/5n1p/4Nbp1/P2P4/2P3BP/1P3PP1/R2QR1K1 w - - 4 21,"I think that Rc8 would hvae been better, it looks like a waste of time to move it back."
+41,Qf3,d1f3,r2q1rk1/pp3p2/5n1p/4Nbp1/P2P4/2P2QBP/1P3PP1/R3R1K1 b - - 5 21,"A mistake, e6 was the right place to put the bishop."
+42,Bc8,f5c8,r1bq1rk1/pp3p2/5n1p/4N1p1/P2P4/2P2QBP/1P3PP1/R3R1K1 w - - 6 22,"A mistake, e6 was the right place to put the bishop."
+43,Rad1,a1d1,r1bq1rk1/pp3p2/5n1p/4N1p1/P2P4/2P2QBP/1P3PP1/3RR1K1 b - - 7 22,White start to move his pawns
+44,a5,a7a5,r1bq1rk1/1p3p2/5n1p/p3N1p1/P2P4/2P2QBP/1P3PP1/3RR1K1 w - - 0 23,White start to move his pawns
+45,c4,c3c4,r1bq1rk1/1p3p2/5n1p/p3N1p1/P1PP4/5QBP/1P3PP1/3RR1K1 b - - 0 23,White start to move his pawns
+46,Ra6,a8a6,2bq1rk1/1p3p2/r4n1p/p3N1p1/P1PP4/5QBP/1P3PP1/3RR1K1 w - - 1 24,"All black pieces are at the back - except the rook on a6, what a strange position."
+47,d5,d4d5,2bq1rk1/1p3p2/r4n1p/p2PN1p1/P1P5/5QBP/1P3PP1/3RR1K1 b - - 0 24,"All black pieces are at the back - except the rook on a6, what a strange position."
+48,Ne8,f6e8,2bqnrk1/1p3p2/r6p/p2PN1p1/P1P5/5QBP/1P3PP1/3RR1K1 w - - 1 25,"All black pieces are at the back - except the rook on a6, what a strange position."
+49,c5,c4c5,2bqnrk1/1p3p2/r6p/p1PPN1p1/P7/5QBP/1P3PP1/3RR1K1 b - - 0 25,white want to play d7!
+50,Rf6,a6f6,2bqnrk1/1p3p2/5r1p/p1PPN1p1/P7/5QBP/1P3PP1/3RR1K1 w - - 1 26,white want to play d7!
+51,Qc3,f3c3,2bqnrk1/1p3p2/5r1p/p1PPN1p1/P7/2Q3BP/1P3PP1/3RR1K1 b - - 2 26,white want to play d7!
+52,Ra6,f6a6,2bqnrk1/1p3p2/r6p/p1PPN1p1/P7/2Q3BP/1P3PP1/3RR1K1 w - - 3 27,white want to play d7!
+53,d6,d5d6,2bqnrk1/1p3p2/r2P3p/p1P1N1p1/P7/2Q3BP/1P3PP1/3RR1K1 b - - 0 27,white want to play d7!
+54,Bd7,c8d7,3qnrk1/1p1b1p2/r2P3p/p1P1N1p1/P7/2Q3BP/1P3PP1/3RR1K1 w - - 1 28,"Black resign, there is no defence to d7 - he will loose at least a rook."
+55,Nxd7,e5d7,3qnrk1/1p1N1p2/r2P3p/p1P3p1/P7/2Q3BP/1P3PP1/3RR1K1 b - - 0 28,"Black resign, there is no defence to d7 - he will loose at least a rook."
+56,Qxd7,d8d7,4nrk1/1p1q1p2/r2P3p/p1P3p1/P7/2Q3BP/1P3PP1/3RR1K1 w - - 0 29,"Black resign, there is no defence to d7 - he will loose at least a rook."
+57,Re7,e1e7,4nrk1/1p1qRp2/r2P3p/p1P3p1/P7/2Q3BP/1P3PP1/3R2K1 b - - 1 29,"Black resign, there is no defence to d7 - he will loose at least a rook."
+58,Qxa4,d7a4,4nrk1/1p2Rp2/r2P3p/p1P3p1/q7/2Q3BP/1P3PP1/3R2K1 w - - 0 30,"Black resign, there is no defence to d7 - he will loose at least a rook."
+59,b3,b2b3,4nrk1/1p2Rp2/r2P3p/p1P3p1/q7/1PQ3BP/5PP1/3R2K1 b - - 0 30,"Black resign, there is no defence to d7 - he will loose at least a rook."
+60,Qb4,a4b4,4nrk1/1p2Rp2/r2P3p/p1P3p1/1q6/1PQ3BP/5PP1/3R2K1 w - - 1 31,"Black resign, there is no defence to d7 - he will loose at least a rook."
+61,Qxb4,c3b4,4nrk1/1p2Rp2/r2P3p/p1P3p1/1Q6/1P4BP/5PP1/3R2K1 b - - 0 31,"Black resign, there is no defence to d7 - he will loose at least a rook."

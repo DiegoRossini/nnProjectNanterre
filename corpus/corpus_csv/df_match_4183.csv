@@ -1,0 +1,25 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Starting up with e4, taking control over the center as early as possible as well as allowing the LSB and the queen to go out."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Caro-Kann. Usually a solid defensive option for Black, but not in this game!"
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Taking furthermore control of the center.
+4,d5,d7d5,rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,Contesting my e pawn.
+5,e5,e4e5,rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,The advance variation.
+6,Bf5,c8f5,rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,All book so far.
+7,g4,g2g4,rn1qkbnr/pp2pppp/2p5/3pPb2/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq - 0 4,"!? Immediately chasing the bishop, but also weakens my kingside."
+8,Bg6,f5g6,rn1qkbnr/pp2pppp/2p3b1/3pP3/3P2P1/8/PPP2P1P/RNBQKBNR w KQkq - 1 5,Pursuing the bishop.
+9,h4,h2h4,rn1qkbnr/pp2pppp/2p3b1/3pP3/3P2PP/8/PPP2P2/RNBQKBNR b KQkq - 0 5,Pursuing the bishop.
+10,h6,h7h6,rn1qkbnr/pp2ppp1/2p3bp/3pP3/3P2PP/8/PPP2P2/RNBQKBNR w KQkq - 0 6,Creating a hole so the bishop can retreat. 5.h5 is also an option.
+11,h5,h4h5,rn1qkbnr/pp2ppp1/2p3bp/3pP2P/3P2P1/8/PPP2P2/RNBQKBNR b KQkq - 0 6,Chasing the bishop away again!
+12,Bh7,g6h7,rn1qkbnr/pp2pppb/2p4p/3pP2P/3P2P1/8/PPP2P2/RNBQKBNR w KQkq - 1 7,"! A powerful move. It forces light-square weaknesses in Black's camp. If this threat is not addressed correctly, it can be pretty devastating. This is also my seventh pawn move and none of my pieces has moved yet!"
+13,e6,e5e6,rn1qkbnr/pp2pppb/2p1P2p/3p3P/3P2P1/8/PPP2P2/RNBQKBNR b KQkq - 0 7,"! A powerful move. It forces light-square weaknesses in Black's camp. If this threat is not addressed correctly, it can be pretty devastating. This is also my seventh pawn move and none of my pieces has moved yet!"
+14,f5,f7f5,rn1qkbnr/pp2p1pb/2p1P2p/3p1p1P/3P2P1/8/PPP2P2/RNBQKBNR w KQkq - 0 8,"? Wrong reply, but not a game losing blunder. Taking the pawn is the best option."
+15,Bd3,f1d3,rn1qkbnr/pp2p1pb/2p1P2p/3p1p1P/3P2P1/3B4/PPP2P2/RNBQK1NR b KQkq - 1 8,Here is the reason; Black can't properly defend his f pawn in this position.
+16,fxg4,f5g4,rn1qkbnr/pp2p1pb/2p1P2p/3p3P/3P2p1/3B4/PPP2P2/RNBQK1NR w KQkq - 0 9,?? This move allows a nifty trick that wins at least a piece for white.
+17,Bxh7,d3h7,rn1qkbnr/pp2p1pB/2p1P2p/3p3P/3P2p1/8/PPP2P2/RNBQK1NR b KQkq - 0 9,! This move weakens even more the light squares around the Black king.
+18,Rxh7,h8h7,rn1qkbn1/pp2p1pr/2p1P2p/3p3P/3P2p1/8/PPP2P2/RNBQK1NR w KQq - 0 10,Now I fork the h7 rook and I threaten mate on g6. There is no way to save both.
+19,Qd3,d1d3,rn1qkbn1/pp2p1pr/2p1P2p/3p3P/3P2p1/3Q4/PPP2P2/RNB1K1NR b KQq - 1 10,Now I fork the h7 rook and I threaten mate on g6. There is no way to save both.
+20,Qd6,d8d6,rn2kbn1/pp2p1pr/2pqP2p/3p3P/3P2p1/3Q4/PPP2P2/RNB1K1NR w KQq - 2 11,"Black understandably chooses the lesser of the two evils, which means he will depart from his rook."
+21,Qxh7,d3h7,rn2kbn1/pp2p1pQ/2pqP2p/3p3P/3P2p1/8/PPP2P2/RNB1K1NR b KQq - 0 11,Black has at least taken my e pawn. He is relieved from its pressure and has put me in check.
+22,Qxe6+,d6e6,rn2kbn1/pp2p1pQ/2p1q2p/3p3P/3P2p1/8/PPP2P2/RNB1K1NR w KQq - 0 12,Black has at least taken my e pawn. He is relieved from its pressure and has put me in check.
+23,Ne2,g1e2,rn2kbn1/pp2p1pQ/2p1q2p/3p3P/3P2p1/8/PPP1NP2/RNB1K2R b KQq - 1 12,I decided to block with the knight. It didn't have any other square to go anyway.
+24,Nf6,g8f6,rn2kb2/pp2p1pQ/2p1qn1p/3p3P/3P2p1/8/PPP1NP2/RNB1K2R w KQq - 2 13,Understandable development that also chases my queen away.

@@ -1,0 +1,60 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,c4,c2c4,rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq - 0 1,Planning to play the English
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2,Solid
+3,Nc3,b1c3,rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2,Solid
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3,Solid
+5,g3,g2g3,rnbqkb1r/pppppp1p/5np1/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3,All standard so far
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4,All standard so far
+7,Bg2,f1g2,rnbqk2r/ppppppbp/5np1/8/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4,All standard so far
+8,O-O,e8g8,rnbq1rk1/ppppppbp/5np1/8/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQ - 3 5,All standard so far
+9,e4,e2e4,rnbq1rk1/ppppppbp/5np1/8/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR b KQ - 0 5,Planning e5 or d4.
+10,d6,d7d6,rnbq1rk1/ppp1ppbp/3p1np1/8/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR w KQ - 0 6,Stopping my e5 move :P
+11,Nge2,g1e2,rnbq1rk1/ppp1ppbp/3p1np1/8/2P1P3/2N3P1/PP1PNPBP/R1BQK2R b KQ - 1 6,He's got a good outpost for his knight: d4
+12,c5,c7c5,rnbq1rk1/pp2ppbp/3p1np1/2p5/2P1P3/2N3P1/PP1PNPBP/R1BQK2R w KQ - 0 7,He's got a good outpost for his knight: d4
+13,O-O,e1g1,rnbq1rk1/pp2ppbp/3p1np1/2p5/2P1P3/2N3P1/PP1PNPBP/R1BQ1RK1 b - - 1 7,He's got a good outpost for his knight: d4
+14,Nc6,b8c6,r1bq1rk1/pp2ppbp/2np1np1/2p5/2P1P3/2N3P1/PP1PNPBP/R1BQ1RK1 w - - 2 8,He's got a good outpost for his knight: d4
+15,d3,d2d3,r1bq1rk1/pp2ppbp/2np1np1/2p5/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 b - - 0 8,Not sure what that was all about
+16,a6,a7a6,r1bq1rk1/1p2ppbp/p1np1np1/2p5/2P1P3/2NP2P1/PP2NPBP/R1BQ1RK1 w - - 0 9,Not sure what that was all about
+17,h3,h2h3,r1bq1rk1/1p2ppbp/p1np1np1/2p5/2P1P3/2NP2PP/PP2NPB1/R1BQ1RK1 b - - 0 9,You'll see why in a second.
+18,Rb8,a8b8,1rbq1rk1/1p2ppbp/p1np1np1/2p5/2P1P3/2NP2PP/PP2NPB1/R1BQ1RK1 w - - 1 10,9. h3 was to stop Ng4 right now!
+19,Be3,c1e3,1rbq1rk1/1p2ppbp/p1np1np1/2p5/2P1P3/2NPB1PP/PP2NPB1/R2Q1RK1 b - - 2 10,9. h3 was to stop Ng4 right now!
+20,Ne8,f6e8,1rbqnrk1/1p2ppbp/p1np2p1/2p5/2P1P3/2NPB1PP/PP2NPB1/R2Q1RK1 w - - 3 11,Striking in the centre!
+21,f4,f2f4,1rbqnrk1/1p2ppbp/p1np2p1/2p5/2P1PP2/2NPB1PP/PP2N1B1/R2Q1RK1 b - - 0 11,Striking in the centre!
+22,b5,b7b5,1rbqnrk1/4ppbp/p1np2p1/1pp5/2P1PP2/2NPB1PP/PP2N1B1/R2Q1RK1 w - - 0 12,"""Knight on the rim is grim"""
+23,Rb1,a1b1,1rbqnrk1/4ppbp/p1np2p1/1pp5/2P1PP2/2NPB1PP/PP2N1B1/1R1Q1RK1 b - - 1 12,"""Knight on the rim is grim"""
+24,b4,b5b4,1rbqnrk1/4ppbp/p1np2p1/2p5/1pP1PP2/2NPB1PP/PP2N1B1/1R1Q1RK1 w - - 0 13,"""Knight on the rim is grim"""
+25,Na4,c3a4,1rbqnrk1/4ppbp/p1np2p1/2p5/NpP1PP2/3PB1PP/PP2N1B1/1R1Q1RK1 b - - 1 13,"""Knight on the rim is grim"""
+26,Nc7,e8c7,1rbq1rk1/2n1ppbp/p1np2p1/2p5/NpP1PP2/3PB1PP/PP2N1B1/1R1Q1RK1 w - - 2 14,I believe I have a slightly better position.
+27,d4,d3d4,1rbq1rk1/2n1ppbp/p1np2p1/2p5/NpPPPP2/4B1PP/PP2N1B1/1R1Q1RK1 b - - 0 14,I believe I have a slightly better position.
+28,cxd4,c5d4,1rbq1rk1/2n1ppbp/p1np2p1/8/NpPpPP2/4B1PP/PP2N1B1/1R1Q1RK1 w - - 0 15,I believe I have a slightly better position.
+29,Nxd4,e2d4,1rbq1rk1/2n1ppbp/p1np2p1/8/NpPNPP2/4B1PP/PP4B1/1R1Q1RK1 b - - 0 15,I believe I have a slightly better position.
+30,Bd7,c8d7,1r1q1rk1/2nbppbp/p1np2p1/8/NpPNPP2/4B1PP/PP4B1/1R1Q1RK1 w - - 1 16,?! Not the best move; it weakens the e6-pawn!
+31,b3,b2b3,1r1q1rk1/2nbppbp/p1np2p1/8/NpPNPP2/1P2B1PP/P5B1/1R1Q1RK1 b - - 0 16,?! Not the best move; it weakens the e6-pawn!
+32,Ne6,c7e6,1r1q1rk1/3bppbp/p1npn1p1/8/NpPNPP2/1P2B1PP/P5B1/1R1Q1RK1 w - - 1 17,?! Not the best move; it weakens the e6-pawn!
+33,Nxe6,d4e6,1r1q1rk1/3bppbp/p1npN1p1/8/NpP1PP2/1P2B1PP/P5B1/1R1Q1RK1 b - - 0 17,?! Not the best move; it weakens the e6-pawn!
+34,fxe6,f7e6,1r1q1rk1/3bp1bp/p1npp1p1/8/NpP1PP2/1P2B1PP/P5B1/1R1Q1RK1 w - - 0 18,?! Not the best move; it weakens the e6-pawn!
+35,Nb2,a4b2,1r1q1rk1/3bp1bp/p1npp1p1/8/1pP1PP2/1P2B1PP/PN4B1/1R1Q1RK1 b - - 1 18,! Planning Bh3
+36,Be8,d7e8,1r1qbrk1/4p1bp/p1npp1p1/8/1pP1PP2/1P2B1PP/PN4B1/1R1Q1RK1 w - - 2 19,! Planning Bh3
+37,Nd3,b2d3,1r1qbrk1/4p1bp/p1npp1p1/8/1pP1PP2/1P1NB1PP/P5B1/1R1Q1RK1 b - - 3 19,! Planning Bh3
+38,a5,a6a5,1r1qbrk1/4p1bp/2npp1p1/p7/1pP1PP2/1P1NB1PP/P5B1/1R1Q1RK1 w - - 0 20,! Planning Bh3
+39,h4,h3h4,1r1qbrk1/4p1bp/2npp1p1/p7/1pP1PP1P/1P1NB1P1/P5B1/1R1Q1RK1 b - - 0 20,! Planning Bh3
+40,Qc7,d8c7,1r2brk1/2q1p1bp/2npp1p1/p7/1pP1PP1P/1P1NB1P1/P5B1/1R1Q1RK1 w - - 1 21,I followed through
+41,Bh3,g2h3,1r2brk1/2q1p1bp/2npp1p1/p7/1pP1PP1P/1P1NB1PB/P7/1R1Q1RK1 b - - 2 21,I followed through
+42,Bf7,e8f7,1r3rk1/2q1pbbp/2npp1p1/p7/1pP1PP1P/1P1NB1PB/P7/1R1Q1RK1 w - - 3 22,To get pressure of his e6-pawn.
+43,Ne1,d3e1,1r3rk1/2q1pbbp/2npp1p1/p7/1pP1PP1P/1P2B1PB/P7/1R1QNRK1 b - - 4 22,To get pressure of his e6-pawn.
+44,e5,e6e5,1r3rk1/2q1pbbp/2np2p1/p3p3/1pP1PP1P/1P2B1PB/P7/1R1QNRK1 w - - 0 23,To get pressure of his e6-pawn.
+45,Nc2,e1c2,1r3rk1/2q1pbbp/2np2p1/p3p3/1pP1PP1P/1P2B1PB/P1N5/1R1Q1RK1 b - - 1 23,"OK, planning d5"
+46,e6,e7e6,1r3rk1/2q2bbp/2npp1p1/p3p3/1pP1PP1P/1P2B1PB/P1N5/1R1Q1RK1 w - - 0 24,"OK, planning d5"
+47,Rf2,f1f2,1r3rk1/2q2bbp/2npp1p1/p3p3/1pP1PP1P/1P2B1PB/P1N2R2/1R1Q2K1 b - - 1 24,"OK, planning d5"
+48,Rfd8,f8d8,1r1r2k1/2q2bbp/2npp1p1/p3p3/1pP1PP1P/1P2B1PB/P1N2R2/1R1Q2K1 w - - 2 25,"OK, planning d5"
+49,Rd2,f2d2,1r1r2k1/2q2bbp/2npp1p1/p3p3/1pP1PP1P/1P2B1PB/P1NR4/1R1Q2K1 b - - 3 25,Stopping it!
+50,Ne7,c6e7,1r1r2k1/2q1nbbp/3pp1p1/p3p3/1pP1PP1P/1P2B1PB/P1NR4/1R1Q2K1 w - - 4 26,Stopping it!
+51,Bg2,h3g2,1r1r2k1/2q1nbbp/3pp1p1/p3p3/1pP1PP1P/1P2B1P1/P1NR2B1/1R1Q2K1 b - - 5 26,Stopping it!
+52,Rd7,d8d7,1r4k1/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P2B1P1/P1NR2B1/1R1Q2K1 w - - 6 27,"Boy, this is kinda funny :)"
+53,Qf3,d1f3,1r4k1/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P2BQP1/P1NR2B1/1R4K1 b - - 7 27,"Boy, this is kinda funny :)"
+54,Rf8,b8f8,5rk1/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P2BQP1/P1NR2B1/1R4K1 w - - 8 28,"Boy, this is kinda funny :)"
+55,Rbd1,b1d1,5rk1/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P2BQP1/P1NR2B1/3R2K1 b - - 9 28,"Boy, this is kinda funny :)"
+56,Kh8,g8h8,5r1k/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P2BQP1/P1NR2B1/3R2K1 w - - 10 29,I believe I offered a draw right around here....
+57,Rd2d3,d2d3,5r1k/2qrnbbp/3pp1p1/p3p3/1pP1PP1P/1P1RBQP1/P1N3B1/3R2K1 b - - 11 29,I believe I offered a draw right around here....
+58,Bg8,f7g8,5rbk/2qrn1bp/3pp1p1/p3p3/1pP1PP1P/1P1RBQP1/P1N3B1/3R2K1 w - - 12 30,I believe I offered a draw right around here....
+59,Qe2,f3e2,5rbk/2qrn1bp/3pp1p1/p3p3/1pP1PP1P/1P1RB1P1/P1N1Q1B1/3R2K1 b - - 13 30,I believe I offered a draw right around here....

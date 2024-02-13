@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Nimzovich-Larsen attack, modern variation"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Nimzovich-Larsen attack, modern variation"
+3,b3,b2b3,rnbqkbnr/pppp1ppp/8/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2,"Nimzovich-Larsen attack, modern variation"
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/1P6/P1PP1PPP/RNBQKBNR w KQkq - 1 3,So far by the book
+5,Bb2,c1b2,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - 2 3,So far by the book
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/1P6/PBPP1PPP/RN1QKBNR w KQkq - 3 4,So far by the book
+7,d4,d2d4,r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/1P6/PBP2PPP/RN1QKBNR b KQkq - 0 4,Black Bishop puts pressure on my king ( not a strong move) because c3 makes black bishop retreat and lose tempo
+8,Bb4+,f8b4,r1bqk2r/pppp1ppp/2n2n2/4p3/1b1PP3/1P6/PBP2PPP/RN1QKBNR w KQkq - 1 5,Black Bishop puts pressure on my king ( not a strong move) because c3 makes black bishop retreat and lose tempo
+9,c3,c2c3,r1bqk2r/pppp1ppp/2n2n2/4p3/1b1PP3/1PP5/PB3PPP/RN1QKBNR b KQkq - 0 5,i futher gain momentum by attacking the knight
+10,Ba5,b4a5,r1bqk2r/pppp1ppp/2n2n2/b3p3/3PP3/1PP5/PB3PPP/RN1QKBNR w KQkq - 1 6,i futher gain momentum by attacking the knight
+11,d5,d4d5,r1bqk2r/pppp1ppp/2n2n2/b2Pp3/4P3/1PP5/PB3PPP/RN1QKBNR b KQkq - 0 6,i futher gain momentum by attacking the knight
+12,Ne7,c6e7,r1bqk2r/ppppnppp/5n2/b2Pp3/4P3/1PP5/PB3PPP/RN1QKBNR w KQkq - 1 7,development
+13,Nd2,b1d2,r1bqk2r/ppppnppp/5n2/b2Pp3/4P3/1PP5/PB1N1PPP/R2QKBNR b KQkq - 2 7,development
+14,c5,c7c5,r1bqk2r/pp1pnppp/5n2/b1pPp3/4P3/1PP5/PB1N1PPP/R2QKBNR w KQkq c6 0 8,"black is trying to counteract my control of the center, while giving an escape route for his black bishop"
+15,Ngf3,g1f3,r1bqk2r/pp1pnppp/5n2/b1pPp3/4P3/1PP2N2/PB1N1PPP/R2QKB1R b KQkq - 1 8,Black Development
+16,Ng6,e7g6,r1bqk2r/pp1p1ppp/5nn1/b1pPp3/4P3/1PP2N2/PB1N1PPP/R2QKB1R w KQkq - 2 9,Black Development
+17,Nc4,d2c4,r1bqk2r/pp1p1ppp/5nn1/b1pPp3/2N1P3/1PP2N2/PB3PPP/R2QKB1R b KQkq - 3 9,"Attacking e5 pawn, Developing the strenght of my knights, while sacrificing e4 pawn"
+18,Nxe4,f6e4,r1bqk2r/pp1p1ppp/6n1/b1pPp3/2N1n3/1PP2N2/PB3PPP/R2QKB1R w KQkq - 0 10,"moving 10. Qc2, im defending c3 pawn from blacks evil intentions, while i cause black knight to retreat and lose additional tempo."
+19,Qc2,d1c2,r1bqk2r/pp1p1ppp/6n1/b1pPp3/2N1n3/1PP2N2/PBQ2PPP/R3KB1R b KQkq - 1 10,"moving 10. Qc2, im defending c3 pawn from blacks evil intentions, while i cause black knight to retreat and lose additional tempo."
+20,Nf6,e4f6,r1bqk2r/pp1p1ppp/5nn1/b1pPp3/2N5/1PP2N2/PBQ2PPP/R3KB1R w KQkq - 2 11,"Now that d6 Square is occupied by my knight, i can start my offense"
+21,Nd6+,c4d6,r1bqk2r/pp1p1ppp/3N1nn1/b1pPp3/8/1PP2N2/PBQ2PPP/R3KB1R b KQkq - 3 11,"Now that d6 Square is occupied by my knight, i can start my offense"
+22,Ke7,e8e7,r1bq3r/pp1pkppp/3N1nn1/b1pPp3/8/1PP2N2/PBQ2PPP/R3KB1R w KQ - 4 12,putting black king in less defensive position while restricting H rook
+23,Nf5+,d6f5,r1bq3r/pp1pkppp/5nn1/b1pPpN2/8/1PP2N2/PBQ2PPP/R3KB1R b KQ - 5 12,putting black king in less defensive position while restricting H rook
+24,Kf8,e7f8,r1bq1k1r/pp1p1ppp/5nn1/b1pPpN2/8/1PP2N2/PBQ2PPP/R3KB1R w KQ - 6 13,putting black king in less defensive position while restricting H rook
+25,d6,d5d6,r1bq1k1r/pp1p1ppp/3P1nn1/b1p1pN2/8/1PP2N2/PBQ2PPP/R3KB1R b KQ - 0 13,"A nice move, further restricting black movements"
+26,Ne8,f6e8,r1bqnk1r/pp1p1ppp/3P2n1/b1p1pN2/8/1PP2N2/PBQ2PPP/R3KB1R w KQ - 1 14,black is looking for ways to remove pawn threat
+27,O-O-O,e1c1,r1bqnk1r/pp1p1ppp/3P2n1/b1p1pN2/8/1PP2N2/PBQ2PPP/2KR1B1R b - - 2 14,defending the d pawn
+28,Qf6,d8f6,r1b1nk1r/pp1p1ppp/3P1qn1/b1p1pN2/8/1PP2N2/PBQ2PPP/2KR1B1R w - - 3 15,"development, while in creasing pressure on the diagonal"
+29,Bd3,f1d3,r1b1nk1r/pp1p1ppp/3P1qn1/b1p1pN2/8/1PPB1N2/PBQ2PPP/2KR3R b - - 4 15,"development, while in creasing pressure on the diagonal"
+30,Nf4,g6f4,r1b1nk1r/pp1p1ppp/3P1q2/b1p1pN2/5n2/1PPB1N2/PBQ2PPP/2KR3R w - - 5 16,"I'm thinking my G pawn is not as important as black e Pawn, if the exchange takes place i'll have a powerful e file"
+31,Rhe1,h1e1,r1b1nk1r/pp1p1ppp/3P1q2/b1p1pN2/5n2/1PPB1N2/PBQ2PPP/2KRR3 b - - 6 16,"I'm thinking my G pawn is not as important as black e Pawn, if the exchange takes place i'll have a powerful e file"
+32,g6,g7g6,r1b1nk1r/pp1p1p1p/3P1qp1/b1p1pN2/5n2/1PPB1N2/PBQ2PPP/2KRR3 w - - 0 17,"I suppose i can remove my knight to g3, but I'm thinking sacrifice here!"
+33,Rxe5,e1e5,r1b1nk1r/pp1p1p1p/3P1qp1/b1p1RN2/5n2/1PPB1N2/PBQ2PPP/2KR4 b - - 0 17,"While -2pts    Im attacking Knight, queen and putting pressure on f7 pawn"
+34,gxf5,g6f5,r1b1nk1r/pp1p1p1p/3P1q2/b1p1Rp2/5n2/1PPB1N2/PBQ2PPP/2KR4 w - - 0 18,"While -2pts    Im attacking Knight, queen and putting pressure on f7 pawn"
+35,Rxf5,e5f5,r1b1nk1r/pp1p1p1p/3P1q2/b1p2R2/5n2/1PPB1N2/PBQ2PPP/2KR4 b - - 0 18,"While -2pts    Im attacking Knight, queen and putting pressure on f7 pawn"
+36,Qxd6,f6d6,r1b1nk1r/pp1p1p1p/3q4/b1p2R2/5n2/1PPB1N2/PBQ2PPP/2KR4 w - - 0 19,"I believe i had better move at this position Ng5 putting dbl pressure on f7 square
+But i missed that move and played Bc4"
+37,Bc4,d3c4,r1b1nk1r/pp1p1p1p/3q4/b1p2R2/2B2n2/1PP2N2/PBQ2PPP/2KR4 b - - 1 19,I didnt anticipate the following defense combo
+38,Nd5,f4d5,r1b1nk1r/pp1p1p1p/3q4/b1pn1R2/2B5/1PP2N2/PBQ2PPP/2KR4 w - - 2 20,I didnt anticipate the following defense combo
+39,Bxd5,c4d5,r1b1nk1r/pp1p1p1p/3q4/b1pB1R2/8/1PP2N2/PBQ2PPP/2KR4 b - - 0 20,I didnt anticipate the following defense combo

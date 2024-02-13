@@ -1,0 +1,23 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,This game is interesting if only for the queen sacrifice that forces checkmate.  Most comments are useful for non-experts and there are no comments about opening strategies.
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2,Prevents white getting control of the centre of the board with e4
+3,a3,a2a3,rnbqkb1r/pppppppp/5n2/8/3P4/P7/1PP1PPPP/RNBQKBNR b KQkq - 0 2,This seems like a pointless move at this stage.  Neither important for defence nor does it develop any pieces
+4,g6,g7g6,rnbqkb1r/pppppp1p/5np1/8/3P4/P7/1PP1PPPP/RNBQKBNR w KQkq - 0 3,Enables development of bishop and black to castle quickly
+5,b4,b2b4,rnbqkb1r/pppppp1p/5np1/8/1P1P4/P7/2P1PPPP/RNBQKBNR b KQkq - 0 3,Still white has not developed any pieces and seems to be weakening his defence
+6,Bg7,f8g7,rnbqk2r/ppppppbp/5np1/8/1P1P4/P7/2P1PPPP/RNBQKBNR w KQkq - 1 4,Develops bishop and is now ready to castle
+7,Bb2,c1b2,rnbqk2r/ppppppbp/5np1/8/1P1P4/P7/1BP1PPPP/RN1QKBNR b KQkq - 2 4,This move protects white’s rook from the potential threat of black’s g7 bishop.  (It would only take black to force a move from the a4 pawn to leave a knight move uncovering an attack with possibility that the knight could simultaneously attack or take another piece.)
+8,d5,d7d5,rnbqk2r/ppp1ppbp/5np1/3p4/1P1P4/P7/1BP1PPPP/RN1QKBNR w KQkq - 0 5,Allows the c8 bishop to develop and prevents the a4 pawn advancing which would have prevented black’s b8 knight from moving to c6.
+9,e3,e2e3,rnbqk2r/ppp1ppbp/5np1/3p4/1P1P4/P3P3/1BP2PPP/RN1QKBNR b KQkq - 0 5,Defends the a4 pawn and allows white to develop f1 bishop
+10,O-O,e8g8,rnbq1rk1/ppp1ppbp/5np1/3p4/1P1P4/P3P3/1BP2PPP/RN1QKBNR w KQ - 1 6,Usually a good idea to castle early without letting the opposition gain control of the centre of the board.
+11,g3,g2g3,rnbq1rk1/ppp1ppbp/5np1/3p4/1P1P4/P3P1P1/1BP2P1P/RN1QKBNR b KQ - 0 6,Although this gives the bishop options it seems a slightly wasteful move – is it not better to develop the knights or at least pieces of value (i.e. the other bishop) – so far out of 6 moves 5 have been pawns!
+12,a6,a7a6,rnbq1rk1/1pp1ppbp/p4np1/3p4/1P1P4/P3P1P1/1BP2P1P/RN1QKBNR w KQ - 0 7,This allows the night to move to c6 without getting attacked by the bishop
+13,h3,h2h3,rnbq1rk1/1pp1ppbp/p4np1/3p4/1P1P4/P3P1PP/1BP2P2/RN1QKBNR b KQ - 0 7,Yet another pawn move without developing any pieces!  This is really weakening white’s defence without showing any signs of an attack
+14,Bf5,c8f5,rn1q1rk1/1pp1ppbp/p4np1/3p1b2/1P1P4/P3P1PP/1BP2P2/RN1QKBNR w KQ - 1 8,Bold if not pointless move!  Why didn’t black just develop the knight?  Black thinks if the white pawn attacks the bishop it doesn’t matter because he can then attack the white rook on h1
+15,g4,g3g4,rn1q1rk1/1pp1ppbp/p4np1/3p1b2/1P1P2P1/P3P2P/1BP2P2/RN1QKBNR b KQ - 0 8,As expected
+16,Be4,f5e4,rn1q1rk1/1pp1ppbp/p4np1/3p4/1P1Pb1P1/P3P2P/1BP2P2/RN1QKBNR w KQ - 1 9,as planned
+17,f3,f2f3,rn1q1rk1/1pp1ppbp/p4np1/3p4/1P1Pb1P1/P3PP1P/1BP5/RN1QKBNR b KQ - 0 9,"Black had not planned for this as there’s no way of preventing loss of the bishop.  On the plus side, white’s defence and pawn formation is a shambles with the king wide open and nowhere to develop pieces! This is whites 9th move and the 8th pawn move!"
+18,Qd6,d8d6,rn3rk1/1pp1ppbp/p2q1np1/3p4/1P1Pb1P1/P3PP1P/1BP5/RN1QKBNR w KQ - 1 10,Not worried about losing the bishop - this puts the queen within 1 move of forcing the white king to move without castling.  Also Nxe4 would be a big threat.  The only way black could prevent this with Ne2 but this would mean black could do Bxf3
+19,Qe2,d1e2,rn3rk1/1pp1ppbp/p2q1np1/3p4/1P1Pb1P1/P3PP1P/1BP1Q3/RN2KBNR b KQ - 2 10,useful move because it enables fxe4 without leaving too much of a threat from Nxe4 after Qg3+
+20,Qg3+,d6g3,rn3rk1/1pp1ppbp/p4np1/3p4/1P1Pb1P1/P3PPqP/1BP1Q3/RN2KBNR w KQ - 3 11,white still wants 12 fxe4 followed by Nxe4 so develops the final knight which is better placed back up the knight on e4
+21,Kd1,e1d1,rn3rk1/1pp1ppbp/p4np1/3p4/1P1Pb1P1/P3PPqP/1BP1Q3/RN1K1BNR b - - 4 11,white still wants 12 fxe4 followed by Nxe4 so develops the final knight which is better placed back up the knight on e4
+22,Nbd7,b8d7,r4rk1/1ppnppbp/p4np1/3p4/1P1Pb1P1/P3PPqP/1BP1Q3/RN1K1BNR w - - 5 12,white still wants 12 fxe4 followed by Nxe4 so develops the final knight which is better placed back up the knight on e4

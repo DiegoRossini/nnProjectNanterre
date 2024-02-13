@@ -1,0 +1,22 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"A short game, mate with no captures.  A good reminder that the point of the game is checkmate not capturing pieces."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Book opening, Philidor's Defense."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Book opening, Philidor's Defense."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Book opening, Philidor's Defense."
+5,Nc3,b1c3,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3,We move both our knights out.
+6,Nc6,b8c6,r1bqkbnr/ppp2ppp/2np4/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4,We move both our knights out.
+7,Bb5,f1b5,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4,"A move my knight to b5, pinning his knight on c6 for the moment."
+8,Bd7,c8d7,r2qkbnr/pppb1ppp/2np4/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5,He moves up his bishop to unpin the knight.
+9,d3,d2d3,r2qkbnr/pppb1ppp/2np4/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5,d3 to open up my queenside bishop.
+10,Nge7,g8e7,r2qkb1r/pppbnppp/2np4/1B2p3/4P3/2NP1N2/PPP2PPP/R1BQK2R w KQkq - 1 6,"An interesting, though not unusual, move.  Ne7 provides an alternative if I decide to swap pieces at c6.  On the down side, a number of his pieces are temporarily blocked."
+11,Bg5,c1g5,r2qkb1r/pppbnppp/2np4/1B2p1B1/4P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 2 6,Moving my bishop to g5 effectively pins his e7 knight until he can move the queen out of danger.
+12,a6,a7a6,r2qkb1r/1ppbnppp/p1np4/1B2p1B1/4P3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 7,"He presents an attack, and I move back."
+13,Ba4,b5a4,r2qkb1r/1ppbnppp/p1np4/4p1B1/B3P3/2NP1N2/PPP2PPP/R2QK2R b KQkq - 1 7,"He presents an attack, and I move back."
+14,b5,b7b5,r2qkb1r/2pbnppp/p1np4/1p2p1B1/B3P3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 0 8,He pushes the attack and has me retreating a bit.
+15,Bb3,a4b3,r2qkb1r/2pbnppp/p1np4/1p2p1B1/4P3/1BNP1N2/PPP2PPP/R2QK2R b KQkq - 1 8,He pushes the attack and has me retreating a bit.
+16,g6,g7g6,r2qkb1r/2pbnp1p/p1np2p1/1p2p1B1/4P3/1BNP1N2/PPP2PPP/R2QK2R w KQkq - 0 9,"Since his pieces are somewhat stuck, he moves his G pawn out to get his king bishop in play."
+17,Nh4,f3h4,r2qkb1r/2pbnp1p/p1np2p1/1p2p1B1/4P2N/1BNP4/PPP2PPP/R2QK2R b KQkq - 1 9,A move my knight off of f3.  My goal is to move my queen on to f3 for a possible mate.  A bit obvious because...
+18,Nd4,c6d4,r2qkb1r/2pbnp1p/p2p2p1/1p2p1B1/3nP2N/1BNP4/PPP2PPP/R2QK2R w KQkq - 2 10,He answers by moving his knight to block the move.
+19,Nd5,c3d5,r2qkb1r/2pbnp1p/p2p2p1/1p1Np1B1/3nP2N/1B1P4/PPP2PPP/R2QK2R b KQkq - 3 10,"Honestly, I could have done Nd5 on my previous turn instead of moving the other knight.  Perhaps the delay distracted my opponent long enough so that he doesn't see my next move."
+20,c6,c7c6,r2qkb1r/3bnp1p/p1pp2p1/1p1Np1B1/3nP2N/1B1P4/PPP2PPP/R2QK2R w KQkq - 0 11,"My opponent doesn't see the mate I have next turn and decides to chase my knight away by moving his C pawn.  I was honestly expecting him to move his bishop to C6, but ultimately, that wouldn't have prevented mate.  At this point, he really needs to do Bg7, move his queen, or F5.  Probably the best move would have been Bg7, since he was probably trying to develop that way anyway."
+21,Nf6#,d5f6,r2qkb1r/3bnp1p/p1pp1Np1/1p2p1B1/3nP2N/1B1P4/PPP2PPP/R2QK2R b KQkq - 1 11,Checkmate with 1 piece.  No captures.  My opponent has unwisely surrounded his king with his own pieces.

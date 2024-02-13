@@ -1,0 +1,41 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Entering the Petrov Defence.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Entering the Petrov Defence.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Entering the Petrov Defence.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Entering the Petrov Defence.
+5,Bc4,f1c4,rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,"Now I should probably have taken the e4 pawn, but I've never been in this situation before and I only thought about White's attack on the f7 pawn. That's why I played the safe Nc6"
+6,Nc6,b8c6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4,Ulvestadt Variation. I've always preferred this move over Na5.
+7,Ng5,f3g5,r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4,Ulvestadt Variation. I've always preferred this move over Na5.
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5,Ulvestadt Variation. I've always preferred this move over Na5.
+9,exd5,e4d5,r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5,Ulvestadt Variation. I've always preferred this move over Na5.
+10,b5,b7b5,r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6,Ulvestadt Variation. I've always preferred this move over Na5.
+11,Bxb5,c4b5,r1bqkb1r/p1p2ppp/2n2n2/1B1Pp1N1/8/8/PPPP1PPP/RNBQK2R b KQkq - 0 6,"I believe Bf1 is best here. It defends the g2 pawn, keeping Black's counterattack at bay. The B5 pawn can then be grabbed later."
+12,Qxd5,d8d5,r1b1kb1r/p1p2ppp/2n2n2/1B1qp1N1/8/8/PPPP1PPP/RNBQK2R w KQkq - 0 7,This allows a dangerous attack at the White King.
+13,Bxc6+,b5c6,r1b1kb1r/p1p2ppp/2B2n2/3qp1N1/8/8/PPPP1PPP/RNBQK2R b KQkq - 0 7,This allows a dangerous attack at the White King.
+14,Qxc6,d5c6,r1b1kb1r/p1p2ppp/2q2n2/4p1N1/8/8/PPPP1PPP/RNBQK2R w KQkq - 0 8,This allows a dangerous attack at the White King.
+15,O-O,e1g1,r1b1kb1r/p1p2ppp/2q2n2/4p1N1/8/8/PPPP1PPP/RNBQ1RK1 b kq - 1 8,This allows a dangerous attack at the White King.
+16,Bb7,c8b7,r3kb1r/pbp2ppp/2q2n2/4p1N1/8/8/PPPP1PPP/RNBQ1RK1 w kq - 2 9,"Don't know if this theoretically the best move, but it sure looks dangerous for White!"
+17,Nf3,g5f3,r3kb1r/pbp2ppp/2q2n2/4p3/8/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 9,"Don't know if this theoretically the best move, but it sure looks dangerous for White!"
+18,g5,g7g5,r3kb1r/pbp2p1p/2q2n2/4p1p1/8/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 10,"Don't know if this theoretically the best move, but it sure looks dangerous for White!"
+19,h3,h2h3,r3kb1r/pbp2p1p/2q2n2/4p1p1/8/5N1P/PPPP1PP1/RNBQ1RK1 b kq - 0 10,The last two moves allow the opening of the h-file. I have hopes of exploiting that.
+20,h5,h7h5,r3kb1r/pbp2p2/2q2n2/4p1pp/8/5N1P/PPPP1PP1/RNBQ1RK1 w kq - 0 11,The last two moves allow the opening of the h-file. I have hopes of exploiting that.
+21,d4,d2d4,r3kb1r/pbp2p2/2q2n2/4p1pp/3P4/5N1P/PPP2PP1/RNBQ1RK1 b kq - 0 11,"Attacks the g5 pawn. Losing it stops my attack, so I figured I had to continue with the attack."
+22,g4,g5g4,r3kb1r/pbp2p2/2q2n2/4p2p/3P2p1/5N1P/PPP2PP1/RNBQ1RK1 w kq - 0 12,I had thought long about my next move. Capturing his knight with 12. ... gxf3 looks better for White on account of 13. exf6 gxf2 14. Te1+ and I have to give up my dark-squared-bishop to avoid mate. Then my king is in greater danger while my attack is blunted by my own pawn! I had to find a way to keep the e-file closed while also being able to remove my king from danger which is impossible at the moment because White's Queen guards the d-file. That's why I played the next move.
+23,dxe5,d4e5,r3kb1r/pbp2p2/2q2n2/4P2p/6p1/5N1P/PPP2PP1/RNBQ1RK1 b kq - 0 12,I had thought long about my next move. Capturing his knight with 12. ... gxf3 looks better for White on account of 13. exf6 gxf2 14. Te1+ and I have to give up my dark-squared-bishop to avoid mate. Then my king is in greater danger while my attack is blunted by my own pawn! I had to find a way to keep the e-file closed while also being able to remove my king from danger which is impossible at the moment because White's Queen guards the d-file. That's why I played the next move.
+24,Nd7,f6d7,r3kb1r/pbpn1p2/2q5/4P2p/6p1/5N1P/PPP2PP1/RNBQ1RK1 w kq - 1 13,Opening the h-file!
+25,hxg4,h3g4,r3kb1r/pbpn1p2/2q5/4P2p/6P1/5N2/PPP2PP1/RNBQ1RK1 b kq - 0 13,Opening the h-file!
+26,hxg4,h5g4,r3kb1r/pbpn1p2/2q5/4P3/6p1/5N2/PPP2PP1/RNBQ1RK1 w kq - 0 14,Opening the h-file!
+27,Ne1,f3e1,r3kb1r/pbpn1p2/2q5/4P3/6p1/8/PPP2PP1/RNBQNRK1 b kq - 1 14,Forced. Other moves lose the knight or the king.
+28,g3,g4g3,r3kb1r/pbpn1p2/2q5/4P3/8/6p1/PPP2PP1/RNBQNRK1 w kq - 0 15,Trying to open the g1-a7 diagonal for my dark-squared bishop. White probably should have played something like Qf3 instead of the next move.
+29,fxg3,f2g3,r3kb1r/pbpn1p2/2q5/4P3/8/6P1/PPP3P1/RNBQNRK1 b kq - 0 15,Forced.
+30,Bc5+,f8c5,r3k2r/pbpn1p2/2q5/2b1P3/8/6P1/PPP3P1/RNBQNRK1 w kq - 1 16,Forced.
+31,Rf2,f1f2,r3k2r/pbpn1p2/2q5/2b1P3/8/6P1/PPP2RP1/RNBQN1K1 b kq - 2 16,Forced.
+32,Rh1+,h8h1,r3k3/pbpn1p2/2q5/2b1P3/8/6P1/PPP2RP1/RNBQN1Kr w q - 3 17,"This sacrifice (well, not really a sacrifice) keeps the king confined to the h-file, something that can be of use for my other rook."
+33,Kxh1,g1h1,r3k3/pbpn1p2/2q5/2b1P3/8/6P1/PPP2RP1/RNBQN2K b q - 0 17,Threatening mate on g2 due  to the knight being attacked. The poor horse has to return to f3.
+34,Bxf2,c5f2,r3k3/pbpn1p2/2q5/4P3/8/6P1/PPP2bP1/RNBQN2K w q - 0 18,Threatening mate on g2 due  to the knight being attacked. The poor horse has to return to f3.
+35,Nf3,e1f3,r3k3/pbpn1p2/2q5/4P3/8/5NP1/PPP2bP1/RNBQ3K b q - 1 18,Threatening mate on g2 due  to the knight being attacked. The poor horse has to return to f3.
+36,O-O-O,e8c8,2kr4/pbpn1p2/2q5/4P3/8/5NP1/PPP2bP1/RNBQ3K w - - 2 19,"Threatening a devastating check on h8, as well as being able to move my inactive knight with tempo."
+37,Nh4,f3h4,2kr4/pbpn1p2/2q5/4P3/7N/6P1/PPP2bP1/RNBQ3K b - - 3 19,Guarding against the check on h8?
+38,Bxg3,f2g3,2kr4/pbpn1p2/2q5/4P3/7N/6b1/PPP3P1/RNBQ3K w - - 0 20,Threatening mate on g2 yet again.
+39,Nf3,h4f3,2kr4/pbpn1p2/2q5/4P3/8/5Nb1/PPP3P1/RNBQ3K b - - 1 20,The knight has to return.
+40,Nxe5,d7e5,2kr4/pbp2p2/2q5/4n3/8/5Nb1/PPP3P1/RNBQ3K w - - 0 21,Attacking both the knight and the queen. Funny to see how White's queenside is still undeveloped.

@@ -1,0 +1,128 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,f4,f2f4,rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq - 0 1,"This is taken from a tournament match. savsams had already easily beaten me on the first game, this one turned out a little more evenly, the computer analysis is available on http://gameknot.com/analyze-board.pl?bd=17128374"
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq - 0 2,Tournament starting position
+3,fxe5,f4e5,rnbqkbnr/pppp1ppp/8/4P3/8/8/PPPPP1PP/RNBQKBNR b KQkq - 0 2,Pressuring the bishop but also advancing on the side it looks like white will castle on
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq - 1 3,Pressuring the bishop but also advancing on the side it looks like white will castle on
+5,Nc3,b1c3,r1bqkbnr/pppp1ppp/2n5/4P3/8/2N5/PPPPP1PP/R1BQKBNR b KQkq - 2 3,Pressuring the bishop but also advancing on the side it looks like white will castle on
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/4P3/8/2N5/PPPPP1PP/R1BQKBNR w KQkq - 0 4,Pressuring the bishop but also advancing on the side it looks like white will castle on
+7,Nf3,g1f3,r1bqkbnr/ppp2ppp/2np4/4P3/8/2N2N2/PPPPP1PP/R1BQKB1R b KQkq - 1 4,Pressuring the bishop but also advancing on the side it looks like white will castle on
+8,dxe5,d6e5,r1bqkbnr/ppp2ppp/2n5/4p3/8/2N2N2/PPPPP1PP/R1BQKB1R w KQkq - 0 5,Pressuring the bishop but also advancing on the side it looks like white will castle on
+9,e4,e2e4,r1bqkbnr/ppp2ppp/2n5/4p3/4P3/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 0 5,Pressuring the bishop but also advancing on the side it looks like white will castle on
+10,Bc5,f8c5,r1bqk1nr/ppp2ppp/2n5/2b1p3/4P3/2N2N2/PPPP2PP/R1BQKB1R w KQkq - 1 6,Pressuring the bishop but also advancing on the side it looks like white will castle on
+11,Bb5,f1b5,r1bqk1nr/ppp2ppp/2n5/1Bb1p3/4P3/2N2N2/PPPP2PP/R1BQK2R b KQkq - 2 6,Pressuring the bishop but also advancing on the side it looks like white will castle on
+12,Nge7,g8e7,r1bqk2r/ppp1nppp/2n5/1Bb1p3/4P3/2N2N2/PPPP2PP/R1BQK2R w KQkq - 3 7,Pressuring the bishop but also advancing on the side it looks like white will castle on
+13,d3,d2d3,r1bqk2r/ppp1nppp/2n5/1Bb1p3/4P3/2NP1N2/PPP3PP/R1BQK2R b KQkq - 0 7,Pressuring the bishop but also advancing on the side it looks like white will castle on
+14,O-O,e8g8,r1bq1rk1/ppp1nppp/2n5/1Bb1p3/4P3/2NP1N2/PPP3PP/R1BQK2R w KQ - 1 8,Pressuring the bishop but also advancing on the side it looks like white will castle on
+15,Bg5,c1g5,r1bq1rk1/ppp1nppp/2n5/1Bb1p1B1/4P3/2NP1N2/PPP3PP/R2QK2R b KQ - 2 8,Pressuring the bishop but also advancing on the side it looks like white will castle on
+16,Qd6,d8d6,r1b2rk1/ppp1nppp/2nq4/1Bb1p1B1/4P3/2NP1N2/PPP3PP/R2QK2R w KQ - 3 9,Pressuring the bishop but also advancing on the side it looks like white will castle on
+17,Qd2,d1d2,r1b2rk1/ppp1nppp/2nq4/1Bb1p1B1/4P3/2NP1N2/PPPQ2PP/R3K2R b KQ - 4 9,Pressuring the bishop but also advancing on the side it looks like white will castle on
+18,a6,a7a6,r1b2rk1/1pp1nppp/p1nq4/1Bb1p1B1/4P3/2NP1N2/PPPQ2PP/R3K2R w KQ - 0 10,Pressuring the bishop but also advancing on the side it looks like white will castle on
+19,Ba4,b5a4,r1b2rk1/1pp1nppp/p1nq4/2b1p1B1/B3P3/2NP1N2/PPPQ2PP/R3K2R b KQ - 1 10,Pressuring the bishop but also advancing on the side it looks like white will castle on
+20,b5,b7b5,r1b2rk1/2p1nppp/p1nq4/1pb1p1B1/B3P3/2NP1N2/PPPQ2PP/R3K2R w KQ - 0 11,Pressuring the bishop but also advancing on the side it looks like white will castle on
+21,Bb3,a4b3,r1b2rk1/2p1nppp/p1nq4/1pb1p1B1/4P3/1BNP1N2/PPPQ2PP/R3K2R b KQ - 1 11,Trying to maintain pressure on white and opening c so my pawn can advance
+22,Nd4,c6d4,r1b2rk1/2p1nppp/p2q4/1pb1p1B1/3nP3/1BNP1N2/PPPQ2PP/R3K2R w KQ - 2 12,Trying to maintain pressure on white and opening c so my pawn can advance
+23,Nxd4,f3d4,r1b2rk1/2p1nppp/p2q4/1pb1p1B1/3NP3/1BNP4/PPPQ2PP/R3K2R b KQ - 0 12,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+24,Bxd4,c5d4,r1b2rk1/2p1nppp/p2q4/1p2p1B1/3bP3/1BNP4/PPPQ2PP/R3K2R w KQ - 0 13,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+25,O-O-O,e1c1,r1b2rk1/2p1nppp/p2q4/1p2p1B1/3bP3/1BNP4/PPPQ2PP/2KR3R b - - 1 13,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+26,Bd7,c8d7,r4rk1/2pbnppp/p2q4/1p2p1B1/3bP3/1BNP4/PPPQ2PP/2KR3R w - - 2 14,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+27,Ne2,c3e2,r4rk1/2pbnppp/p2q4/1p2p1B1/3bP3/1B1P4/PPPQN1PP/2KR3R b - - 3 14,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+28,Bb6,d4b6,r4rk1/2pbnppp/pb1q4/1p2p1B1/4P3/1B1P4/PPPQN1PP/2KR3R w - - 4 15,"I don't like this spot for the bishop but I don't really like c5 any more, at least from here it can support the pawn advance"
+29,a3,a2a3,r4rk1/2pbnppp/pb1q4/1p2p1B1/4P3/PB1P4/1PPQN1PP/2KR3R b - - 0 15,threatening Qa2 which could be uncomfortable for white
+30,Be6,d7e6,r4rk1/2p1nppp/pb1qb3/1p2p1B1/4P3/PB1P4/1PPQN1PP/2KR3R w - - 1 16,threatening Qa2 which could be uncomfortable for white
+31,Bxe6,b3e6,r4rk1/2p1nppp/pb1qB3/1p2p1B1/4P3/P2P4/1PPQN1PP/2KR3R b - - 0 16,threatening Qa2 which could be uncomfortable for white
+32,Qxe6,d6e6,r4rk1/2p1nppp/pb2q3/1p2p1B1/4P3/P2P4/1PPQN1PP/2KR3R w - - 0 17,threatening Qa2 which could be uncomfortable for white
+33,Kb1,c1b1,r4rk1/2p1nppp/pb2q3/1p2p1B1/4P3/P2P4/1PPQN1PP/1K1R3R b - - 1 17,"According to the computer this is where I first go astray, it prefers a5"
+34,c5,c7c5,r4rk1/4nppp/pb2q3/1pp1p1B1/4P3/P2P4/1PPQN1PP/1K1R3R w - - 0 18,"According to the computer this is where I first go astray, it prefers a5"
+35,Ng3,e2g3,r4rk1/4nppp/pb2q3/1pp1p1B1/4P3/P2P2N1/1PPQ2PP/1K1R3R b - - 1 18,intending an eventual a4 then b4
+36,f6,f7f6,r4rk1/4n1pp/pb2qp2/1pp1p1B1/4P3/P2P2N1/1PPQ2PP/1K1R3R w - - 0 19,intending an eventual a4 then b4
+37,Be3,g5e3,r4rk1/4n1pp/pb2qp2/1pp1p3/4P3/P2PB1N1/1PPQ2PP/1K1R3R b - - 1 19,intending an eventual a4 then b4
+38,a5,a6a5,r4rk1/4n1pp/1b2qp2/ppp1p3/4P3/P2PB1N1/1PPQ2PP/1K1R3R w - - 0 20,intending an eventual a4 then b4
+39,Rhf1,h1f1,r4rk1/4n1pp/1b2qp2/ppp1p3/4P3/P2PB1N1/1PPQ2PP/1K1R1R2 b - - 1 20,"According to the computer this is the first mistake of the game, it prefers d4"
+40,a4,a5a4,r4rk1/4n1pp/1b2qp2/1pp1p3/p3P3/P2PB1N1/1PPQ2PP/1K1R1R2 w - - 0 21,"According to the computer this is the first mistake of the game, it prefers d4"
+41,c3,c2c3,r4rk1/4n1pp/1b2qp2/1pp1p3/p3P3/P1PPB1N1/1P1Q2PP/1K1R1R2 b - - 0 21,"According to the computer this is the first mistake of the game, it prefers d4"
+42,b4,b5b4,r4rk1/4n1pp/1b2qp2/2p1p3/pp2P3/P1PPB1N1/1P1Q2PP/1K1R1R2 w - - 0 22,"According to the computer this is the first mistake of the game, it prefers d4"
+43,cxb4,c3b4,r4rk1/4n1pp/1b2qp2/2p1p3/pP2P3/P2PB1N1/1P1Q2PP/1K1R1R2 b - - 0 22,"According to the computer this is the first mistake of the game, it prefers d4"
+44,cxb4,c5b4,r4rk1/4n1pp/1b2qp2/4p3/pp2P3/P2PB1N1/1P1Q2PP/1K1R1R2 w - - 0 23,"According to the computer this is the first mistake of the game, it prefers d4"
+45,Bxb6,e3b6,r4rk1/4n1pp/1B2qp2/4p3/pp2P3/P2P2N1/1P1Q2PP/1K1R1R2 b - - 0 23,"According to the computer this is the first mistake of the game, it prefers d4"
+46,Qxb6,e6b6,r4rk1/4n1pp/1q3p2/4p3/pp2P3/P2P2N1/1P1Q2PP/1K1R1R2 w - - 0 24,"According to the computer this is the first mistake of the game, it prefers d4"
+47,Qxb4,d2b4,r4rk1/4n1pp/1q3p2/4p3/pQ2P3/P2P2N1/1P4PP/1K1R1R2 b - - 0 24,"According to the computer this is the first mistake of the game, it prefers d4"
+48,Qxb4,b6b4,r4rk1/4n1pp/5p2/4p3/pq2P3/P2P2N1/1P4PP/1K1R1R2 w - - 0 25,"According to the computer this is the first mistake of the game, it prefers d4"
+49,axb4,a3b4,r4rk1/4n1pp/5p2/4p3/pP2P3/3P2N1/1P4PP/1K1R1R2 b - - 0 25,"According to the computer this is the first mistake of the game, it prefers d4"
+50,Rfb8,f8b8,rr4k1/4n1pp/5p2/4p3/pP2P3/3P2N1/1P4PP/1K1R1R2 w - - 1 26,"According to the computer this is the first mistake of the game, it prefers d4"
+51,Ka2,b1a2,rr4k1/4n1pp/5p2/4p3/pP2P3/3P2N1/KP4PP/3R1R2 b - - 2 26,"According to the computer this is the first mistake of the game, it prefers d4"
+52,Rxb4,b8b4,r5k1/4n1pp/5p2/4p3/pr2P3/3P2N1/KP4PP/3R1R2 w - - 0 27,"I want the rook on b3 so I can advance the a pawn, to do this I am going to need the knight on d4 to protect the rook"
+53,Rf2,f1f2,r5k1/4n1pp/5p2/4p3/pr2P3/3P2N1/KP3RPP/3R4 b - - 1 27,"I want the rook on b3 so I can advance the a pawn, to do this I am going to need the knight on d4 to protect the rook"
+54,Nc6,e7c6,r5k1/6pp/2n2p2/4p3/pr2P3/3P2N1/KP3RPP/3R4 w - - 2 28,"I want the rook on b3 so I can advance the a pawn, to do this I am going to need the knight on d4 to protect the rook"
+55,Nf5,g3f5,r5k1/6pp/2n2p2/4pN2/pr2P3/3P4/KP3RPP/3R4 b - - 3 28,protecting the d pawn
+56,g6,g7g6,r5k1/7p/2n2pp1/4pN2/pr2P3/3P4/KP3RPP/3R4 w - - 0 29,protecting the d pawn
+57,Ne3,f5e3,r5k1/7p/2n2pp1/4p3/pr2P3/3PN3/KP3RPP/3R4 b - - 1 29,protecting the d pawn
+58,Kg7,g8g7,r7/6kp/2n2pp1/4p3/pr2P3/3PN3/KP3RPP/3R4 w - - 2 30,protecting the d pawn
+59,Rc1,d1c1,r7/6kp/2n2pp1/4p3/pr2P3/3PN3/KP3RPP/2R5 b - - 3 30,protecting the d pawn
+60,Nd4,c6d4,r7/6kp/5pp1/4p3/pr1nP3/3PN3/KP3RPP/2R5 w - - 4 31,protecting the d pawn
+61,Nc2,e3c2,r7/6kp/5pp1/4p3/pr1nP3/3P4/KPN2RPP/2R5 b - - 5 31,protecting the d pawn
+62,Nxc2,d4c2,r7/6kp/5pp1/4p3/pr2P3/3P4/KPn2RPP/2R5 w - - 0 32,protecting the d pawn
+63,Rcxc2,c1c2,r7/6kp/5pp1/4p3/pr2P3/3P4/KPR2RPP/8 b - - 0 32,protecting the d pawn
+64,Rb3,b4b3,r7/6kp/5pp1/4p3/p3P3/1r1P4/KPR2RPP/8 w - - 1 33,protecting the d pawn
+65,Rc3,c2c3,r7/6kp/5pp1/4p3/p3P3/1rRP4/KP3RPP/8 b - - 2 33,protecting the d pawn
+66,Rab8,a8b8,1r6/6kp/5pp1/4p3/p3P3/1rRP4/KP3RPP/8 w - - 3 34,clearly this is rapidly heading towards an end game so my intention for now was to keep the white king cornered in while I try to bring my king into the action
+67,Rxb3,c3b3,1r6/6kp/5pp1/4p3/p3P3/1R1P4/KP3RPP/8 b - - 0 34,clearly this is rapidly heading towards an end game so my intention for now was to keep the white king cornered in while I try to bring my king into the action
+68,Rxb3,b8b3,8/6kp/5pp1/4p3/p3P3/1r1P4/KP3RPP/8 w - - 0 35,clearly this is rapidly heading towards an end game so my intention for now was to keep the white king cornered in while I try to bring my king into the action
+69,Rd2,f2d2,8/6kp/5pp1/4p3/p3P3/1r1P4/KP1R2PP/8 b - - 1 35,clearly this is rapidly heading towards an end game so my intention for now was to keep the white king cornered in while I try to bring my king into the action
+70,Kf7,g7f7,8/5k1p/5pp1/4p3/p3P3/1r1P4/KP1R2PP/8 w - - 2 36,threatening Rd4 which should let me grab the white d pawn
+71,d4,d3d4,8/5k1p/5pp1/4p3/p2PP3/1r6/KP1R2PP/8 b - - 0 36,threatening Rd4 which should let me grab the white d pawn
+72,Re3,b3e3,8/5k1p/5pp1/4p3/p2PP3/4r3/KP1R2PP/8 w - - 1 37,threatening Rd4 which should let me grab the white d pawn
+73,d5,d4d5,8/5k1p/5pp1/3Pp3/p3P3/4r3/KP1R2PP/8 b - - 0 37,threatening Rd4 which should let me grab the white d pawn
+74,Rxe4,e3e4,8/5k1p/5pp1/3Pp3/p3r3/8/KP1R2PP/8 w - - 0 38,threatening Rd4 which should let me grab the white d pawn
+75,Ka3,a2a3,8/5k1p/5pp1/3Pp3/p3r3/K7/1P1R2PP/8 b - - 1 38,preventing the d pawn promoting but not sure I can prevent the b pawn.
+76,Rd4,e4d4,8/5k1p/5pp1/3Pp3/p2r4/K7/1P1R2PP/8 w - - 2 39,preventing the d pawn promoting but not sure I can prevent the b pawn.
+77,Rxd4,d2d4,8/5k1p/5pp1/3Pp3/p2R4/K7/1P4PP/8 b - - 0 39,preventing the d pawn promoting but not sure I can prevent the b pawn.
+78,exd4,e5d4,8/5k1p/5pp1/3P4/p2p4/K7/1P4PP/8 w - - 0 40,preventing the d pawn promoting but not sure I can prevent the b pawn.
+79,Kxa4,a3a4,8/5k1p/5pp1/3P4/K2p4/8/1P4PP/8 b - - 0 40,preventing the d pawn promoting but not sure I can prevent the b pawn.
+80,Ke7,f7e7,8/4k2p/5pp1/3P4/K2p4/8/1P4PP/8 w - - 1 41,preventing the d pawn promoting but not sure I can prevent the b pawn.
+81,Kb4,a4b4,8/4k2p/5pp1/3P4/1K1p4/8/1P4PP/8 b - - 2 41,clearly the pawn is lost so I wanted the black king as far away as possible
+82,d3,d4d3,8/4k2p/5pp1/3P4/1K6/3p4/1P4PP/8 w - - 0 42,clearly the pawn is lost so I wanted the black king as far away as possible
+83,Kc3,b4c3,8/4k2p/5pp1/3P4/8/2Kp4/1P4PP/8 b - - 1 42,clearly the pawn is lost so I wanted the black king as far away as possible
+84,d2,d3d2,8/4k2p/5pp1/3P4/8/2K5/1P1p2PP/8 w - - 0 43,clearly the pawn is lost so I wanted the black king as far away as possible
+85,Kxd2,c3d2,8/4k2p/5pp1/3P4/8/8/1P1K2PP/8 b - - 0 43,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+86,Kd6,e7d6,8/7p/3k1pp1/3P4/8/8/1P1K2PP/8 w - - 1 44,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+87,Kc3,d2c3,8/7p/3k1pp1/3P4/8/2K5/1P4PP/8 b - - 2 44,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+88,Kxd5,d6d5,8/7p/5pp1/3k4/8/2K5/1P4PP/8 w - - 0 45,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+89,Kb4,c3b4,8/7p/5pp1/3k4/1K6/8/1P4PP/8 b - - 1 45,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+90,h5,h7h5,8/8/5pp1/3k3p/1K6/8/1P4PP/8 w - - 0 46,Here I was hoping I might be able to delay whites promotion enough to take advantage of my pawn majority on the queens side
+91,Kb5,b4b5,8/8/5pp1/1K1k3p/8/8/1P4PP/8 b - - 1 46,now I can promote first.
+92,g5,g6g5,8/8/5p2/1K1k2pp/8/8/1P4PP/8 w - - 0 47,now I can promote first.
+93,b4,b2b4,8/8/5p2/1K1k2pp/1P6/8/6PP/8 b - - 0 47,now I can promote first.
+94,f5,f6f5,8/8/8/1K1k1ppp/1P6/8/6PP/8 w - - 0 48,now I can promote first.
+95,Kb6,b5b6,8/8/1K6/3k1ppp/1P6/8/6PP/8 b - - 1 48,now I can promote first.
+96,f4,f5f4,8/8/1K6/3k2pp/1P3p2/8/6PP/8 w - - 0 49,now I can promote first.
+97,b5,b4b5,8/8/1K6/1P1k2pp/5p2/8/6PP/8 b - - 0 49,now I can promote first.
+98,g4,g5g4,8/8/1K6/1P1k3p/5pp1/8/6PP/8 w - - 0 50,now I can promote first.
+99,Ka7,b6a7,8/K7/8/1P1k3p/5pp1/8/6PP/8 b - - 1 50,now I can promote first.
+100,f3,f4f3,8/K7/8/1P1k3p/6p1/5p2/6PP/8 w - - 0 51,now I can promote first.
+101,gxf3,g2f3,8/K7/8/1P1k3p/6p1/5P2/7P/8 b - - 0 51,now I can promote first.
+102,gxf3,g4f3,8/K7/8/1P1k3p/8/5p2/7P/8 w - - 0 52,now I can promote first.
+103,b6,b5b6,8/K7/1P6/3k3p/8/5p2/7P/8 b - - 0 52,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+104,f2,f3f2,8/K7/1P6/3k3p/8/8/5p1P/8 w - - 0 53,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+105,b7,b6b7,8/KP6/8/3k3p/8/8/5p1P/8 b - - 0 53,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+106,f1=Q,f2f1q,8/KP6/8/3k3p/8/8/7P/5q2 w - - 0 54,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+107,b8=Q,b7b8q,1Q6/K7/8/3k3p/8/8/7P/5q2 b - - 0 54,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+108,Qa1+,f1a1,1Q6/K7/8/3k3p/8/8/7P/q7 w - - 1 55,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+109,Kb7,a7b7,1Q6/1K6/8/3k3p/8/8/7P/q7 b - - 2 55,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+110,Qb1+,a1b1,1Q6/1K6/8/3k3p/8/8/7P/1q6 w - - 3 56,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+111,Kc7,b7c7,1Q6/2K5/8/3k3p/8/8/7P/1q6 b - - 4 56,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+112,Qxb8+,b1b8,1q6/2K5/8/3k3p/8/8/7P/8 w - - 0 57,"At this point the computer has me at +2.87 but from the next move on, it shows us as both at about 0.01. During the game, at this point, I thought I would be able to promote from here but I now think I had miscalculated."
+113,Kxb8,c7b8,1K6/8/8/3k3p/8/8/7P/8 b - - 0 57,"It was here I realised I had miscalculated and a draw was agreed.
+
+Thanks for reading, please comment"
+114,Ke4,d5e4,1K6/8/8/7p/4k3/8/7P/8 w - - 1 58,"It was here I realised I had miscalculated and a draw was agreed.
+
+Thanks for reading, please comment"
+115,Kc7,b8c7,8/2K5/8/7p/4k3/8/7P/8 b - - 2 58,"It was here I realised I had miscalculated and a draw was agreed.
+
+Thanks for reading, please comment"
+116,h4,h5h4,8/2K5/8/8/4k2p/8/7P/8 w - - 0 59,"It was here I realised I had miscalculated and a draw was agreed.
+
+Thanks for reading, please comment"
+117,Kc6,c7c6,8/8/2K5/8/4k2p/8/7P/8 b - - 1 59,"It was here I realised I had miscalculated and a draw was agreed.
+
+Thanks for reading, please comment"

@@ -1,0 +1,57 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Left wing gambit
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Left wing gambit
+3,b4,b2b4,rnbqkbnr/pp1ppppp/8/2p5/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2,Left wing gambit
+4,b6,b7b6,rnbqkbnr/p2ppppp/1p6/2p5/1P2P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 3,To take the control of the open file
+5,bxc5,b4c5,rnbqkbnr/p2ppppp/1p6/2P5/4P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 3,To take the control of the open file
+6,bxc5,b6c5,rnbqkbnr/p2ppppp/8/2p5/4P3/8/P1PP1PPP/RNBQKBNR w KQkq - 0 4,To take the control of the open file
+7,Nc3,b1c3,rnbqkbnr/p2ppppp/8/2p5/4P3/2N5/P1PP1PPP/R1BQKBNR b KQkq - 1 4,To take the control of the open file
+8,d6,d7d6,rnbqkbnr/p3pppp/3p4/2p5/4P3/2N5/P1PP1PPP/R1BQKBNR w KQkq - 0 5,To take the control of the open file
+9,Bc4,f1c4,rnbqkbnr/p3pppp/3p4/2p5/2B1P3/2N5/P1PP1PPP/R1BQK1NR b KQkq - 1 5,To take the control of the open file
+10,Nf6,g8f6,rnbqkb1r/p3pppp/3p1n2/2p5/2B1P3/2N5/P1PP1PPP/R1BQK1NR w KQkq - 2 6,To take the control of the open file
+11,d3,d2d3,rnbqkb1r/p3pppp/3p1n2/2p5/2B1P3/2NP4/P1P2PPP/R1BQK1NR b KQkq - 0 6,To take the control of the open file
+12,Nc6,b8c6,r1bqkb1r/p3pppp/2np1n2/2p5/2B1P3/2NP4/P1P2PPP/R1BQK1NR w KQkq - 1 7,To take the control of the open file
+13,Rb1,a1b1,r1bqkb1r/p3pppp/2np1n2/2p5/2B1P3/2NP4/P1P2PPP/1RBQK1NR b Kkq - 2 7,To take the control of the open file
+14,Bg4,c8g4,r2qkb1r/p3pppp/2np1n2/2p5/2B1P1b1/2NP4/P1P2PPP/1RBQK1NR w Kkq - 3 8,Moving twice the same piece
+15,f3,f2f3,r2qkb1r/p3pppp/2np1n2/2p5/2B1P1b1/2NP1P2/P1P3PP/1RBQK1NR b Kkq - 0 8,Moving twice the same piece
+16,Bh5,g4h5,r2qkb1r/p3pppp/2np1n2/2p4b/2B1P3/2NP1P2/P1P3PP/1RBQK1NR w Kkq - 1 9,Moving twice the same piece
+17,Nge2,g1e2,r2qkb1r/p3pppp/2np1n2/2p4b/2B1P3/2NP1P2/P1P1N1PP/1RBQK2R b Kkq - 2 9,Moving twice the same piece
+18,Ne5,c6e5,r2qkb1r/p3pppp/3p1n2/2p1n2b/2B1P3/2NP1P2/P1P1N1PP/1RBQK2R w Kkq - 3 10,Moving twice the same piece
+19,Bb5+,c4b5,r2qkb1r/p3pppp/3p1n2/1Bp1n2b/4P3/2NP1P2/P1P1N1PP/1RBQK2R b Kkq - 4 10,Black has 5 pieces out against 8 for white
+20,Ned7,e5d7,r2qkb1r/p2npppp/3p1n2/1Bp4b/4P3/2NP1P2/P1P1N1PP/1RBQK2R w Kkq - 5 11,Black has 5 pieces out against 8 for white
+21,O-O,e1g1,r2qkb1r/p2npppp/3p1n2/1Bp4b/4P3/2NP1P2/P1P1N1PP/1RBQ1RK1 b kq - 6 11,Black has 5 pieces out against 8 for white
+22,e5,e7e5,r2qkb1r/p2n1ppp/3p1n2/1Bp1p2b/4P3/2NP1P2/P1P1N1PP/1RBQ1RK1 w kq - 0 12,2 knights pinned
+23,Bg5,c1g5,r2qkb1r/p2n1ppp/3p1n2/1Bp1p1Bb/4P3/2NP1P2/P1P1N1PP/1R1Q1RK1 b kq - 1 12,2 knights pinned
+24,Be7,f8e7,r2qk2r/p2nbppp/3p1n2/1Bp1p1Bb/4P3/2NP1P2/P1P1N1PP/1R1Q1RK1 w kq - 2 13,trading to get an outpost knight on d5
+25,Bxf6,g5f6,r2qk2r/p2nbppp/3p1B2/1Bp1p2b/4P3/2NP1P2/P1P1N1PP/1R1Q1RK1 b kq - 0 13,trading to get an outpost knight on d5
+26,Bxf6,e7f6,r2qk2r/p2n1ppp/3p1b2/1Bp1p2b/4P3/2NP1P2/P1P1N1PP/1R1Q1RK1 w kq - 0 14,White's plan is to trade the minor pieces in order to weaken black's pawn structure and attack the black king
+27,Nd5,c3d5,r2qk2r/p2n1ppp/3p1b2/1BpNp2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 b kq - 1 14,White's plan is to trade the minor pieces in order to weaken black's pawn structure and attack the black king
+28,O-O,e8g8,r2q1rk1/p2n1ppp/3p1b2/1BpNp2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 w - - 2 15,White's plan is to trade the minor pieces in order to weaken black's pawn structure and attack the black king
+29,Bxd7,b5d7,r2q1rk1/p2B1ppp/3p1b2/2pNp2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 b - - 0 15,"forc,g the queen to live the h4 d8 diagonal"
+30,Qxd7,d8d7,r4rk1/p2q1ppp/3p1b2/2pNp2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 w - - 0 16,"To weaken black's pawn structure and get rid of the DSB which could be annoying because the white king is on g1, on an open diagonal"
+31,Nxf6+,d5f6,r4rk1/p2q1ppp/3p1N2/2p1p2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 b - - 0 16,"To weaken black's pawn structure and get rid of the DSB which could be annoying because the white king is on g1, on an open diagonal"
+32,gxf6,g7f6,r4rk1/p2q1p1p/3p1p2/2p1p2b/4P3/3P1P2/P1P1N1PP/1R1Q1RK1 w - - 0 17,Forced move.
+33,Ng3,e2g3,r4rk1/p2q1p1p/3p1p2/2p1p2b/4P3/3P1PN1/P1P3PP/1R1Q1RK1 b - - 1 17,forcing the LSB to leave
+34,Bg6,h5g6,r4rk1/p2q1p1p/3p1pb1/2p1p3/4P3/3P1PN1/P1P3PP/1R1Q1RK1 w - - 2 18,Making a retreating place for the bishop... but weakening the king
+35,f4,f3f4,r4rk1/p2q1p1p/3p1pb1/2p1p3/4PP2/3P2N1/P1P3PP/1R1Q1RK1 b - - 0 18,Making a retreating place for the bishop... but weakening the king
+36,h6,h7h6,r4rk1/p2q1p2/3p1pbp/2p1p3/4PP2/3P2N1/P1P3PP/1R1Q1RK1 w - - 0 19,Making a retreating place for the bishop... but weakening the king
+37,f5,f4f5,r4rk1/p2q1p2/3p1pbp/2p1pP2/4P3/3P2N1/P1P3PP/1R1Q1RK1 b - - 0 19,Black is in trouble
+38,Bh7,g6h7,r4rk1/p2q1p1b/3p1p1p/2p1pP2/4P3/3P2N1/P1P3PP/1R1Q1RK1 w - - 1 20,To protect the h pawn
+39,Qh5,d1h5,r4rk1/p2q1p1b/3p1p1p/2p1pP1Q/4P3/3P2N1/P1P3PP/1R3RK1 b - - 2 20,To protect the h pawn
+40,Kg7,g8g7,r4r2/p2q1pkb/3p1p1p/2p1pP1Q/4P3/3P2N1/P1P3PP/1R3RK1 w - - 3 21,To protect the h pawn
+41,Qh4,h5h4,r4r2/p2q1pkb/3p1p1p/2p1pP2/4P2Q/3P2N1/P1P3PP/1R3RK1 b - - 4 21,to protect the f pawn
+42,Qe7,d7e7,r4r2/p3qpkb/3p1p1p/2p1pP2/4P2Q/3P2N1/P1P3PP/1R3RK1 w - - 5 22,to protect the f pawn
+43,Nh5+,g3h5,r4r2/p3qpkb/3p1p1p/2p1pP1N/4P2Q/3P4/P1P3PP/1R3RK1 b - - 6 22,The h pawn is doomed
+44,Kh8,g7h8,r4r1k/p3qp1b/3p1p1p/2p1pP1N/4P2Q/3P4/P1P3PP/1R3RK1 w - - 7 23,The h pawn is doomed
+45,Nxf6,h5f6,r4r1k/p3qp1b/3p1N1p/2p1pP2/4P2Q/3P4/P1P3PP/1R3RK1 b - - 0 23,The h pawn is doomed
+46,Rfg8,f8g8,r5rk/p3qp1b/3p1N1p/2p1pP2/4P2Q/3P4/P1P3PP/1R3RK1 w - - 1 24,Reinforcement is needed to the attack
+47,Rf3,f1f3,r5rk/p3qp1b/3p1N1p/2p1pP2/4P2Q/3P1R2/P1P3PP/1R4K1 b - - 2 24,Reinforcement is needed to the attack
+48,Rg7,g8g7,r6k/p3qprb/3p1N1p/2p1pP2/4P2Q/3P1R2/P1P3PP/1R4K1 w - - 3 25,It protects the LSB but black is lost
+49,Qxh6,h4h6,r6k/p3qprb/3p1N1Q/2p1pP2/4P3/3P1R2/P1P3PP/1R4K1 b - - 0 25,sacrifying a rook
+50,Qf8,e7f8,r4q1k/p4prb/3p1N1Q/2p1pP2/4P3/3P1R2/P1P3PP/1R4K1 w - - 1 26,sacrifying a rook
+51,Rh3,f3h3,r4q1k/p4prb/3p1N1Q/2p1pP2/4P3/3P3R/P1P3PP/1R4K1 b - - 2 26,sacrifying a rook
+52,Rxg2+,g7g2,r4q1k/p4p1b/3p1N1Q/2p1pP2/4P3/3P3R/P1P3rP/1R4K1 w - - 0 27,sacrifying a rook
+53,Kxg2,g1g2,r4q1k/p4p1b/3p1N1Q/2p1pP2/4P3/3P3R/P1P3KP/1R6 b - - 0 27,White is one rook up.
+54,Qxh6,f8h6,r6k/p4p1b/3p1N1q/2p1pP2/4P3/3P3R/P1P3KP/1R6 w - - 0 28,White is one rook up.
+55,Rxh6,h3h6,r6k/p4p1b/3p1N1R/2p1pP2/4P3/3P4/P1P3KP/1R6 b - - 0 28,White is one rook up.
+56,Kg7,h8g7,r7/p4pkb/3p1N1R/2p1pP2/4P3/3P4/P1P3KP/1R6 w - - 1 29,White is one rook up.

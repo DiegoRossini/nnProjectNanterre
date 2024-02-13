@@ -1,0 +1,86 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,this follows the French defence.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,this follows the French defence.
+3,d4,d2d4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,"untill now,this follows GAMEKNOT database."
+4,c5,c7c5,rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,"untill now,this follows GAMEKNOT database."
+5,d5,d4d5,rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,"untill now,this follows GAMEKNOT database."
+6,exd5,e6d5,rnbqkbnr/pp1p1ppp/8/2pp4/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4,"untill now,this follows GAMEKNOT database."
+7,exd5,e4d5,rnbqkbnr/pp1p1ppp/8/2pP4/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4,"untill now,this follows GAMEKNOT database."
+8,d6,d7d6,rnbqkbnr/pp3ppp/3p4/2pP4/8/8/PPP2PPP/RNBQKBNR w KQkq - 0 5,"untill now,this follows GAMEKNOT database."
+9,Nf3,g1f3,rnbqkbnr/pp3ppp/3p4/2pP4/8/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 5,"untill now,this follows GAMEKNOT database."
+10,Nf6,g8f6,rnbqkb1r/pp3ppp/3p1n2/2pP4/8/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 6,"untill now,this follows GAMEKNOT database."
+11,c4,c2c4,rnbqkb1r/pp3ppp/3p1n2/2pP4/2P5/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6,"untill now,this follows GAMEKNOT database."
+12,Be7,f8e7,rnbqk2r/pp2bppp/3p1n2/2pP4/2P5/5N2/PP3PPP/RNBQKB1R w KQkq - 1 7,"untill now,this follows GAMEKNOT database."
+13,Be2,f1e2,rnbqk2r/pp2bppp/3p1n2/2pP4/2P5/5N2/PP2BPPP/RNBQK2R b KQkq - 2 7,"untill now,this follows GAMEKNOT database."
+14,b6,b7b6,rnbqk2r/p3bppp/1p1p1n2/2pP4/2P5/5N2/PP2BPPP/RNBQK2R w KQkq - 0 8,i wanted to prevent black from playing b5.
+15,O-O,e1g1,rnbqk2r/p3bppp/1p1p1n2/2pP4/2P5/5N2/PP2BPPP/RNBQ1RK1 b kq - 1 8,i wanted to prevent black from playing b5.
+16,O-O,e8g8,rnbq1rk1/p3bppp/1p1p1n2/2pP4/2P5/5N2/PP2BPPP/RNBQ1RK1 w - - 2 9,i wanted to prevent black from playing b5.
+17,Nc3,b1c3,rnbq1rk1/p3bppp/1p1p1n2/2pP4/2P5/2N2N2/PP2BPPP/R1BQ1RK1 b - - 3 9,i wanted to prevent black from playing b5.
+18,Bb7,c8b7,rn1q1rk1/pb2bppp/1p1p1n2/2pP4/2P5/2N2N2/PP2BPPP/R1BQ1RK1 w - - 4 10,i wanted to prevent black from playing b5.
+19,b3,b2b3,rn1q1rk1/pb2bppp/1p1p1n2/2pP4/2P5/1PN2N2/P3BPPP/R1BQ1RK1 b - - 0 10,i wanted to prevent black from playing b5.
+20,Nbd7,b8d7,r2q1rk1/pb1nbppp/1p1p1n2/2pP4/2P5/1PN2N2/P3BPPP/R1BQ1RK1 w - - 1 11,i wanted to prevent black from playing b5.
+21,Bb2,c1b2,r2q1rk1/pb1nbppp/1p1p1n2/2pP4/2P5/1PN2N2/PB2BPPP/R2Q1RK1 b - - 2 11,i wanted to prevent black from playing b5.
+22,a6,a7a6,r2q1rk1/1b1nbppp/pp1p1n2/2pP4/2P5/1PN2N2/PB2BPPP/R2Q1RK1 w - - 0 12,i wanted to prevent black from playing b5.
+23,a4,a2a4,r2q1rk1/1b1nbppp/pp1p1n2/2pP4/P1P5/1PN2N2/1B2BPPP/R2Q1RK1 b - - 0 12,i wanted to prevent black from playing b5.
+24,b5,b6b5,r2q1rk1/1b1nbppp/p2p1n2/1ppP4/P1P5/1PN2N2/1B2BPPP/R2Q1RK1 w - - 0 13,12....b5?? this is a mistake and black loses a pawn.
+25,axb5,a4b5,r2q1rk1/1b1nbppp/p2p1n2/1PpP4/2P5/1PN2N2/1B2BPPP/R2Q1RK1 b - - 0 13,may be 14.Rxa1 was better.
+26,axb5,a6b5,r2q1rk1/1b1nbppp/3p1n2/1ppP4/2P5/1PN2N2/1B2BPPP/R2Q1RK1 w - - 0 14,may be 14.Rxa1 was better.
+27,Nxb5,c3b5,r2q1rk1/1b1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/R2Q1RK1 b - - 0 14,may be 14.Rxa1 was better.
+28,Rxa1,a8a1,3q1rk1/1b1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/r2Q1RK1 w - - 0 15,i think better was 19.Bd3 or Bd1.
+29,Qxa1,d1a1,3q1rk1/1b1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/Q4RK1 b - - 0 15,i think better was 19.Bd3 or Bd1.
+30,Qa8,d8a8,q4rk1/1b1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/Q4RK1 w - - 1 16,i think better was 19.Bd3 or Bd1.
+31,Nc7,b5c7,q4rk1/1bNnbppp/3p1n2/2pP4/2P5/1P3N2/1B2BPPP/Q4RK1 b - - 2 16,i think better was 19.Bd3 or Bd1.
+32,Qxa1,a8a1,5rk1/1bNnbppp/3p1n2/2pP4/2P5/1P3N2/1B2BPPP/q4RK1 w - - 0 17,i think better was 19.Bd3 or Bd1.
+33,Rxa1,f1a1,5rk1/1bNnbppp/3p1n2/2pP4/2P5/1P3N2/1B2BPPP/R5K1 b - - 0 17,i think better was 19.Bd3 or Bd1.
+34,Bd8,e7d8,3b1rk1/1bNn1ppp/3p1n2/2pP4/2P5/1P3N2/1B2BPPP/R5K1 w - - 1 18,i think better was 19.Bd3 or Bd1.
+35,Nb5,c7b5,3b1rk1/1b1n1ppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/R5K1 b - - 2 18,i think better was 19.Bd3 or Bd1.
+36,Re8,f8e8,3br1k1/1b1n1ppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/R5K1 w - - 3 19,i think better was 19.Bd3 or Bd1.
+37,Kf1,g1f1,3br1k1/1b1n1ppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/R4K2 b - - 4 19,i think better was 19.Bd3 or Bd1.
+38,Be7,d8e7,4r1k1/1b1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/R4K2 w - - 5 20,the best move as 20....Ba8 loses to 21.Nc7 and bishop dies.
+39,Ra7,a1a7,4r1k1/Rb1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/5K2 b - - 6 20,the best move as 20....Ba8 loses to 21.Nc7 and bishop dies.
+40,Rb8,e8b8,1r4k1/Rb1nbppp/3p1n2/1NpP4/2P5/1P3N2/1B2BPPP/5K2 w - - 7 21,the best move as 20....Ba8 loses to 21.Nc7 and bishop dies.
+41,Bc3,b2c3,1r4k1/Rb1nbppp/3p1n2/1NpP4/2P5/1PB2N2/4BPPP/5K2 b - - 8 21,better was 31.Bc8.
+42,g6,g7g6,1r4k1/Rb1nbp1p/3p1np1/1NpP4/2P5/1PB2N2/4BPPP/5K2 w - - 0 22,better was 31.Bc8.
+43,b4,b3b4,1r4k1/Rb1nbp1p/3p1np1/1NpP4/1PP5/2B2N2/4BPPP/5K2 b - - 0 22,better was 31.Bc8.
+44,Ne4,f6e4,1r4k1/Rb1nbp1p/3p2p1/1NpP4/1PP1n3/2B2N2/4BPPP/5K2 w - - 1 23,better was 31.Bc8.
+45,Be1,c3e1,1r4k1/Rb1nbp1p/3p2p1/1NpP4/1PP1n3/5N2/4BPPP/4BK2 b - - 2 23,better was 31.Bc8.
+46,f5,f7f5,1r4k1/Rb1nb2p/3p2p1/1NpP1p2/1PP1n3/5N2/4BPPP/4BK2 w - - 0 24,better was 31.Bc8.
+47,Nd2,f3d2,1r4k1/Rb1nb2p/3p2p1/1NpP1p2/1PP1n3/8/3NBPPP/4BK2 b - - 1 24,better was 31.Bc8.
+48,cxb4,c5b4,1r4k1/Rb1nb2p/3p2p1/1N1P1p2/1pP1n3/8/3NBPPP/4BK2 w - - 0 25,better was 31.Bc8.
+49,Nxe4,d2e4,1r4k1/Rb1nb2p/3p2p1/1N1P1p2/1pP1N3/8/4BPPP/4BK2 b - - 0 25,better was 31.Bc8.
+50,fxe4,f5e4,1r4k1/Rb1nb2p/3p2p1/1N1P4/1pP1p3/8/4BPPP/4BK2 w - - 0 26,better was 31.Bc8.
+51,Bxb4,e1b4,1r4k1/Rb1nb2p/3p2p1/1N1P4/1BP1p3/8/4BPPP/5K2 b - - 0 26,better was 31.Bc8.
+52,Nc5,d7c5,1r4k1/Rb2b2p/3p2p1/1NnP4/1BP1p3/8/4BPPP/5K2 w - - 1 27,better was 31.Bc8.
+53,Ba5,b4a5,1r4k1/Rb2b2p/3p2p1/BNnP4/2P1p3/8/4BPPP/5K2 b - - 2 27,better was 31.Bc8.
+54,Ra8,b8a8,r5k1/Rb2b2p/3p2p1/BNnP4/2P1p3/8/4BPPP/5K2 w - - 3 28,better was 31.Bc8.
+55,Rxa8+,a7a8,R5k1/1b2b2p/3p2p1/BNnP4/2P1p3/8/4BPPP/5K2 b - - 0 28,better was 31.Bc8.
+56,Bxa8,b7a8,b5k1/4b2p/3p2p1/BNnP4/2P1p3/8/4BPPP/5K2 w - - 0 29,better was 31.Bc8.
+57,Bc7,a5c7,b5k1/2B1b2p/3p2p1/1NnP4/2P1p3/8/4BPPP/5K2 b - - 1 29,better was 31.Bc8.
+58,Nb7,c5b7,b5k1/1nB1b2p/3p2p1/1N1P4/2P1p3/8/4BPPP/5K2 w - - 2 30,better was 31.Bc8.
+59,Bg4,e2g4,b5k1/1nB1b2p/3p2p1/1N1P4/2P1p1B1/8/5PPP/5K2 b - - 3 30,better was 31.Bc8.
+60,Kf7,g8f7,b7/1nB1bk1p/3p2p1/1N1P4/2P1p1B1/8/5PPP/5K2 w - - 4 31,better was 31.Bc8.
+61,Ke2,f1e2,b7/1nB1bk1p/3p2p1/1N1P4/2P1p1B1/8/4KPPP/8 b - - 5 31,better was 31.Bc8.
+62,h5,h7h5,b7/1nB1bk2/3p2p1/1N1P3p/2P1p1B1/8/4KPPP/8 w - - 0 32,33.Ke3?? i should have played 33.Bxb7 to win the d6 pawn.
+63,Bc8,g4c8,b1B5/1nB1bk2/3p2p1/1N1P3p/2P1p3/8/4KPPP/8 b - - 1 32,33.Ke3?? i should have played 33.Bxb7 to win the d6 pawn.
+64,Kf6,f7f6,b1B5/1nB1b3/3p1kp1/1N1P3p/2P1p3/8/4KPPP/8 w - - 2 33,33.Ke3?? i should have played 33.Bxb7 to win the d6 pawn.
+65,Ke3,e2e3,b1B5/1nB1b3/3p1kp1/1N1P3p/2P1p3/4K3/5PPP/8 b - - 3 33,33.Ke3?? i should have played 33.Bxb7 to win the d6 pawn.
+66,Nc5,b7c5,b1B5/2B1b3/3p1kp1/1NnP3p/2P1p3/4K3/5PPP/8 w - - 4 34,33....Nc5?? black should have played 33....Ke5
+67,Bxd6,c7d6,b1B5/4b3/3B1kp1/1NnP3p/2P1p3/4K3/5PPP/8 b - - 0 34,36.Nxe4!!!
+68,Bxd6,e7d6,b1B5/8/3b1kp1/1NnP3p/2P1p3/4K3/5PPP/8 w - - 0 35,36.Nxe4!!!
+69,Nxd6,b5d6,b1B5/8/3N1kp1/2nP3p/2P1p3/4K3/5PPP/8 b - - 0 35,36.Nxe4!!!
+70,Ke5,f6e5,b1B5/8/3N2p1/2nPk2p/2P1p3/4K3/5PPP/8 w - - 1 36,36.Nxe4!!!
+71,Nxe4,d6e4,b1B5/8/6p1/2nPk2p/2P1N3/4K3/5PPP/8 b - - 0 36,36.Nxe4!!!
+72,Nxe4,c5e4,b1B5/8/6p1/3Pk2p/2P1n3/4K3/5PPP/8 w - - 0 37,37.f4+!!! now black king has to leave black knight without protection.
+73,f4+,f2f4,b1B5/8/6p1/3Pk2p/2P1nP2/4K3/6PP/8 b - - 0 37,37.f4+!!! now black king has to leave black knight without protection.
+74,Kd6,e5d6,b1B5/8/3k2p1/3P3p/2P1nP2/4K3/6PP/8 w - - 1 38,i allowed black king to eat my pawn to promote quickly.
+75,Kxe4,e3e4,b1B5/8/3k2p1/3P3p/2P1KP2/8/6PP/8 b - - 0 38,i allowed black king to eat my pawn to promote quickly.
+76,Kc5,d6c5,b1B5/8/6p1/2kP3p/2P1KP2/8/6PP/8 w - - 1 39,i allowed black king to eat my pawn to promote quickly.
+77,Ke5,e4e5,b1B5/8/6p1/2kPK2p/2P2P2/8/6PP/8 b - - 2 39,i allowed black king to eat my pawn to promote quickly.
+78,Kxc4,c5c4,b1B5/8/6p1/3PK2p/2k2P2/8/6PP/8 w - - 0 40,forced to prevent pawn from promation.
+79,d6,d5d6,b1B5/8/3P2p1/4K2p/2k2P2/8/6PP/8 b - - 0 40,forced to prevent pawn from promation.
+80,Bc6,a8c6,2B5/8/2bP2p1/4K2p/2k2P2/8/6PP/8 w - - 1 41,forced to prevent pawn from promation.
+81,d7,d6d7,2B5/3P4/2b3p1/4K2p/2k2P2/8/6PP/8 b - - 0 41,"may be g4 or h3 are better.Anyway,here black resigned because he can't protect his pawns."
+82,Bxd7,c6d7,2B5/3b4/6p1/4K2p/2k2P2/8/6PP/8 w - - 0 42,"may be g4 or h3 are better.Anyway,here black resigned because he can't protect his pawns."
+83,Bxd7,c8d7,8/3B4/6p1/4K2p/2k2P2/8/6PP/8 b - - 0 42,"may be g4 or h3 are better.Anyway,here black resigned because he can't protect his pawns."
+84,Kd3,c4d3,8/3B4/6p1/4K2p/5P2/3k4/6PP/8 w - - 1 43,"may be g4 or h3 are better.Anyway,here black resigned because he can't protect his pawns."
+85,Be8,d7e8,4B3/8/6p1/4K2p/5P2/3k4/6PP/8 b - - 2 43,"may be g4 or h3 are better.Anyway,here black resigned because he can't protect his pawns."

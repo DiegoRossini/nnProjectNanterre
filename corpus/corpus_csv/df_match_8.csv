@@ -1,0 +1,28 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"not surprisingly, this is evaluated as the strongest reply to e4, without thinking too much ahead; attack the pawn... the Alekhine defense..."
+2,Nf6,g8f6,rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2,"not surprisingly, this is evaluated as the strongest reply to e4, without thinking too much ahead; attack the pawn... the Alekhine defense..."
+3,e5,e4e5,rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2,"the idea behind the Alekhine defense, is to lure Whites' center pawns forward in order to be able to attack them more easily..."
+4,Nd5,f6d5,rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3,or straightaway d6...
+5,d4,d2d4,rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3,or straightaway d6...
+6,Nc6,b8c6,r1bqkb1r/pppppppp/2n5/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4,or straightaway d6...
+7,Nf3,g1f3,r1bqkb1r/pppppppp/2n5/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 4,the Flohr approach...
+8,e6,e7e6,r1bqkb1r/pppp1ppp/2n1p3/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5,"preparing Bb4+ and a possible attack supported by both Knights; much sounder is d6, to open a diagonal for Bc8 and prepare Bg4... this will bury Bc8 for a very long time..."
+9,c4,c2c4,r1bqkb1r/pppp1ppp/2n1p3/3nP3/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5,"also a3 would have been an option first, to rule out Nb4 of Bb4; but this works much better..."
+10,Bb4+,f8b4,r1bqk2r/pppp1ppp/2n1p3/3nP3/1bPP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6,"after Nb6, d5, exd5, cxd5, Bb4+, Nc3, Ne7, d6, cxd6, exd6, Ned5, Qe2+, Kf8 is not nice; but better than this..."
+11,Bd2,c1d2,r1bqk2r/pppp1ppp/2n1p3/3nP3/1bPP4/5N2/PP1B1PPP/RN1QKB1R b KQkq - 2 6,"better is Nde7, d5, exd5, Bxb4, Nxb4, a3, Na6, cxd5, 0-0..."
+12,Bxd2+,b4d2,r1bqk2r/pppp1ppp/2n1p3/3nP3/2PP4/5N2/PP1b1PPP/RN1QKB1R w KQkq - 0 7,"better is Nde7, d5, exd5, Bxb4, Nxb4, a3, Na6, cxd5, 0-0..."
+13,Nbxd2,b1d2,r1bqk2r/pppp1ppp/2n1p3/3nP3/2PP4/5N2/PP1N1PPP/R2QKB1R b KQkq - 0 7,"objectively stronger is Qxd2, Nb6, d5, Ne7, d6, cxd6, exd6, Nc6, Nc3, 0-0, Bd3; but we have a better plan... it is always a good idea, to complicate matters against a chess machine..."
+14,Nb6,d5b6,r1bqk2r/pppp1ppp/1nn1p3/4P3/2PP4/5N2/PP1N1PPP/R2QKB1R w KQkq - 1 8,"or Nde7, Bd3, d6, Qb3, 0-0..."
+15,a3,a2a3,r1bqk2r/pppp1ppp/1nn1p3/4P3/2PP4/P4N2/1P1N1PPP/R2QKB1R b KQkq - 0 8,"preparing b4 somewhere in the future, while preventing Nb4; as long as Black has not played d6, we can virtualy play anything..."
+16,O-O,e8g8,r1bq1rk1/pppp1ppp/1nn1p3/4P3/2PP4/P4N2/1P1N1PPP/R2QKB1R w KQ - 1 9,"d6, c5, dxc5, dxc5, Nd5 was still an option here..."
+17,Bd3,f1d3,r1bq1rk1/pppp1ppp/1nn1p3/4P3/2PP4/P2B1N2/1P1N1PPP/R2QK2R b KQ - 2 9,"the last chance to play d6 has gone by: Bc8 is a lost piece; furthermore, this robs Black of the possibility to play Nd5..."
+18,d5,d7d5,r1bq1rk1/ppp2ppp/1nn1p3/3pP3/2PP4/P2B1N2/1P1N1PPP/R2QK2R w KQ d6 0 10,"the last chance to play d6 has gone by: Bc8 is a lost piece; furthermore, this robs Black of the possibility to play Nd5..."
+19,c5,c4c5,r1bq1rk1/ppp2ppp/1nn1p3/2PpP3/3P4/P2B1N2/1P1N1PPP/R2QK2R b KQ - 0 10,getting ready to harass the other Knight; we keep piling up complications...
+20,Nd7,b6d7,r1bq1rk1/pppn1ppp/2n1p3/2PpP3/3P4/P2B1N2/1P1N1PPP/R2QK2R w KQ - 1 11,getting ready to harass the other Knight; we keep piling up complications...
+21,b4,b2b4,r1bq1rk1/pppn1ppp/2n1p3/2PpP3/1P1P4/P2B1N2/3N1PPP/R2QK2R b KQ - 0 11,getting ready to harass the other Knight; we keep piling up complications...
+22,Qe7,d8e7,r1b2rk1/pppnqppp/2n1p3/2PpP3/1P1P4/P2B1N2/3N1PPP/R2QK2R w KQ - 1 12,"the Thinking Machine works in mysterious ways; better a6, to prevent more mayhem... Black is preparing Nd8, after b5..."
+23,Qc2,d1c2,r1b2rk1/pppnqppp/2n1p3/2PpP3/1P1P4/P2B1N2/2QN1PPP/R3K2R b KQ - 2 12,"I liked this better than b5, Nd8, 0-0, f5; this is practically forcing f5..."
+24,g6,g7g6,r1b2rk1/pppnqp1p/2n1p1p1/2PpP3/1P1P4/P2B1N2/2QN1PPP/R3K2R w KQ - 0 13,"after f5, b5, Nd8, 0-0, Qe8, a4, White has a strong edge; but not more than that... this will get Black into trouble..."
+25,h4,h2h4,r1b2rk1/pppnqp1p/2n1p1p1/2PpP3/1P1P3P/P2B1N2/2QN1PP1/R3K2R b KQ - 0 13,opening a full scale attack on Blacks' Kings wing; also preparing Ng5...
+26,Kh8,g8h8,r1b2r1k/pppnqp1p/2n1p1p1/2PpP3/1P1P3P/P2B1N2/2QN1PP1/R3K2R w KQ - 1 14,"never argue with a chess machine; but f5, b5, Nd8, a4, Nb8, 0-0, Bd7 was much to be preferred over this... finally Bc8 would have had a purpose..."
+27,Rb1,a1b1,r1b2r1k/pppnqp1p/2n1p1p1/2PpP3/1P1P3P/P2B1N2/2QN1PP1/1R2K2R b K - 2 14,"maybe taking things too easy, in preparing a blunt a4, followed by b5 and c6, and crack open Blacks' Queens wing with something like Qxc7: straightaway h5, g5, b5, looks more promising; but Black has nothing..."

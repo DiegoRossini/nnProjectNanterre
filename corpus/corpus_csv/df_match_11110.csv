@@ -1,0 +1,135 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,gonna try the Sicilian (sorta)
+2,d6,d7d6,rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,gonna try the Sicilian (sorta)
+3,e4,e2e4,rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,trying to maintain equality
+4,c5,c7c5,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3,trying to maintain equality
+5,Nf3,g1f3,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 3,trying to maintain equality
+6,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 4,trying to maintain equality
+7,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 3 4,white immediately converts his development and central control advantages into a material advantage
+8,e5,e7e5,rnbqkb1r/pp3ppp/3p1n2/2p1p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,white immediately converts his development and central control advantages into a material advantage
+9,dxe5,d4e5,rnbqkb1r/pp3ppp/3p1n2/2p1P3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 5,white immediately converts his development and central control advantages into a material advantage
+10,dxe5,d6e5,rnbqkb1r/pp3ppp/5n2/2p1p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,defending the Nxf7  fork
+11,Qxd8+,d1d8,rnbQkb1r/pp3ppp/5n2/2p1p3/4P3/2N2N2/PPP2PPP/R1B1KB1R b KQkq - 0 6,defending the Nxf7  fork
+12,Kxd8,e8d8,rnbk1b1r/pp3ppp/5n2/2p1p3/4P3/2N2N2/PPP2PPP/R1B1KB1R w KQ - 0 7,defending the Nxf7  fork
+13,Nxe5,f3e5,rnbk1b1r/pp3ppp/5n2/2p1N3/4P3/2N5/PPP2PPP/R1B1KB1R b KQ - 0 7,defending the Nxf7  fork
+14,Be6,c8e6,rn1k1b1r/pp3ppp/4bn2/2p1N3/4P3/2N5/PPP2PPP/R1B1KB1R w KQ - 1 8,defending the Nxf7  fork
+15,Bc4,f1c4,rn1k1b1r/pp3ppp/4bn2/2p1N3/2B1P3/2N5/PPP2PPP/R1B1K2R b KQ - 2 8,trade and pull the attacker out of position while still defending
+16,Bxc4,e6c4,rn1k1b1r/pp3ppp/5n2/2p1N3/2b1P3/2N5/PPP2PPP/R1B1K2R w KQ - 0 9,trade and pull the attacker out of position while still defending
+17,Nxc4,e5c4,rn1k1b1r/pp3ppp/5n2/2p5/2N1P3/2N5/PPP2PPP/R1B1K2R b KQ - 0 9,Nd-e3 !
+18,Be7,f8e7,rn1k3r/pp2bppp/5n2/2p5/2N1P3/2N5/PPP2PPP/R1B1K2R w KQ - 1 10,Nd-e3 !
+19,Bg5,c1g5,rn1k3r/pp2bppp/5n2/2p3B1/2N1P3/2N5/PPP2PPP/R3K2R b KQ - 2 10,Nd-e3 !
+20,Re8,h8e8,rn1kr3/pp2bppp/5n2/2p3B1/2N1P3/2N5/PPP2PPP/R3K2R w KQ - 3 11,Nd-e3 !
+21,O-O-O+,e1c1,rn1kr3/pp2bppp/5n2/2p3B1/2N1P3/2N5/PPP2PPP/2KR3R b - - 4 11,Nd-e3 !
+22,Nd5,f6d5,rn1kr3/pp2bppp/8/2pn2B1/2N1P3/2N5/PPP2PPP/2KR3R w - - 5 12,Nd-e3 !
+23,Nxd5,c3d5,rn1kr3/pp2bppp/8/2pN2B1/2N1P3/8/PPP2PPP/2KR3R b - - 0 12,Nd-e3 !
+24,Bxg5+,e7g5,rn1kr3/pp3ppp/8/2pN2b1/2N1P3/8/PPP2PPP/2KR3R w - - 0 13,Nd-e3 !
+25,Nce3,c4e3,rn1kr3/pp3ppp/8/2pN2b1/4P3/4N3/PPP2PPP/2KR3R b - - 1 13,Nd-e3 !
+26,Kc8,d8c8,rnk1r3/pp3ppp/8/2pN2b1/4P3/4N3/PPP2PPP/2KR3R w - - 2 14,the pin's broken; time to trade
+27,Kb1,c1b1,rnk1r3/pp3ppp/8/2pN2b1/4P3/4N3/PPP2PPP/1K1R3R b - - 3 14,the pin's broken; time to trade
+28,Bxe3,g5e3,rnk1r3/pp3ppp/8/2pN4/4P3/4b3/PPP2PPP/1K1R3R w - - 0 15,the pin's broken; time to trade
+29,Nxe3,d5e3,rnk1r3/pp3ppp/8/2p5/4P3/4N3/PPP2PPP/1K1R3R b - - 0 15,Black's rook on the seventh rank ties up white's rooks.
+30,Rxe4,e8e4,rnk5/pp3ppp/8/2p5/4r3/4N3/PPP2PPP/1K1R3R w - - 0 16,Black's rook on the seventh rank ties up white's rooks.
+31,Nf5,e3f5,rnk5/pp3ppp/8/2p2N2/4r3/8/PPP2PPP/1K1R3R b - - 1 16,Black's rook on the seventh rank ties up white's rooks.
+32,Re2,e4e2,rnk5/pp3ppp/8/2p2N2/8/8/PPP1rPPP/1K1R3R w - - 2 17,Black's rook on the seventh rank ties up white's rooks.
+33,Rhf1,h1f1,rnk5/pp3ppp/8/2p2N2/8/8/PPP1rPPP/1K1R1R2 b - - 3 17,black loses a tempo
+34,Nc6,b8c6,r1k5/pp3ppp/2n5/2p2N2/8/8/PPP1rPPP/1K1R1R2 w - - 4 18,black loses a tempo
+35,Nd6+,f5d6,r1k5/pp3ppp/2nN4/2p5/8/8/PPP1rPPP/1K1R1R2 b - - 5 18,black loses a tempo
+36,Kc7,c8c7,r7/ppk2ppp/2nN4/2p5/8/8/PPP1rPPP/1K1R1R2 w - - 6 19,black loses a tempo
+37,Nxf7,d6f7,r7/ppk2Npp/2n5/2p5/8/8/PPP1rPPP/1K1R1R2 b - - 0 19,black loses a tempo
+38,Rf8,a8f8,5r2/ppk2Npp/2n5/2p5/8/8/PPP1rPPP/1K1R1R2 w - - 1 20,black loses a tempo
+39,Nd6,f7d6,5r2/ppk3pp/2nN4/2p5/8/8/PPP1rPPP/1K1R1R2 b - - 2 20,black loses a tempo
+40,Nd4,c6d4,5r2/ppk3pp/3N4/2p5/3n4/8/PPP1rPPP/1K1R1R2 w - - 3 21,black loses a tempo
+41,Nc4,d6c4,5r2/ppk3pp/8/2p5/2Nn4/8/PPP1rPPP/1K1R1R2 b - - 4 21,black loses a tempo
+42,Rfe8,f8e8,4r3/ppk3pp/8/2p5/2Nn4/8/PPP1rPPP/1K1R1R2 w - - 5 22,black loses a tempo
+43,Ne3,c4e3,4r3/ppk3pp/8/2p5/3n4/4N3/PPP1rPPP/1K1R1R2 b - - 6 22,black loses a tempo
+44,b5,b7b5,4r3/p1k3pp/8/1pp5/3n4/4N3/PPP1rPPP/1K1R1R2 w - - 0 23,black loses a tempo
+45,Nd5+,e3d5,4r3/p1k3pp/8/1ppN4/3n4/8/PPP1rPPP/1K1R1R2 b - - 1 23,black loses a tempo
+46,Kc6,c7c6,4r3/p5pp/2k5/1ppN4/3n4/8/PPP1rPPP/1K1R1R2 w - - 2 24,black loses a tempo
+47,Nc3,d5c3,4r3/p5pp/2k5/1pp5/3n4/2N5/PPP1rPPP/1K1R1R2 b - - 3 24,black loses a tempo
+48,Rxc2,e2c2,4r3/p5pp/2k5/1pp5/3n4/2N5/PPr2PPP/1K1R1R2 w - - 0 25,black loses a tempo
+49,Rxd4,d1d4,4r3/p5pp/2k5/1pp5/3R4/2N5/PPr2PPP/1K3R2 b - - 0 25,black loses a tempo
+50,cxd4,c5d4,4r3/p5pp/2k5/1p6/3p4/2N5/PPr2PPP/1K3R2 w - - 0 26,black loses a tempo
+51,Kxc2,b1c2,4r3/p5pp/2k5/1p6/3p4/2N5/PPK2PPP/5R2 b - - 0 26,black loses a tempo
+52,dxc3,d4c3,4r3/p5pp/2k5/1p6/8/2p5/PPK2PPP/5R2 w - - 0 27,black loses a tempo
+53,Kxc3,c2c3,4r3/p5pp/2k5/1p6/8/2K5/PP3PPP/5R2 b - - 0 27,black loses a tempo
+54,Kc5,c6c5,4r3/p5pp/8/1pk5/8/2K5/PP3PPP/5R2 w - - 1 28,black loses a tempo
+55,Rc1,f1c1,4r3/p5pp/8/1pk5/8/2K5/PP3PPP/2R5 b - - 2 28,black loses a tempo
+56,g5,g7g5,4r3/p6p/8/1pk3p1/8/2K5/PP3PPP/2R5 w - - 0 29,black loses a tempo
+57,Kb3+,c3b3,4r3/p6p/8/1pk3p1/8/1K6/PP3PPP/2R5 b - - 1 29,black loses a tempo
+58,Kb6,c5b6,4r3/p6p/1k6/1p4p1/8/1K6/PP3PPP/2R5 w - - 2 30,black loses a tempo
+59,Kb4,b3b4,4r3/p6p/1k6/1p4p1/1K6/8/PP3PPP/2R5 b - - 3 30,if 32. Rxb5 then axb5
+60,Re2,e8e2,8/p6p/1k6/1p4p1/1K6/8/PP2rPPP/2R5 w - - 4 31,if 32. Rxb5 then axb5
+61,Rc5,c1c5,8/p6p/1k6/1pR3p1/1K6/8/PP2rPPP/8 b - - 5 31,if 32. Rxb5 then axb5
+62,a6,a7a6,8/7p/pk6/1pR3p1/1K6/8/PP2rPPP/8 w - - 0 32,if 32. Rxb5 then axb5
+63,Rxg5,c5g5,8/7p/pk6/1p4R1/1K6/8/PP2rPPP/8 b - - 0 32,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+64,Rxb2+,e2b2,8/7p/pk6/1p4R1/1K6/8/Pr3PPP/8 w - - 0 33,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+65,Ka3,b4a3,8/7p/pk6/1p4R1/8/K7/Pr3PPP/8 b - - 1 33,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+66,Rxf2,b2f2,8/7p/pk6/1p4R1/8/K7/P4rPP/8 w - - 0 34,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+67,Rh5,g5h5,8/7p/pk6/1p5R/8/K7/P4rPP/8 b - - 1 34,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+68,a5,a6a5,8/7p/1k6/pp5R/8/K7/P4rPP/8 w - - 0 35,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+69,Rxh7,h5h7,8/7R/1k6/pp6/8/K7/P4rPP/8 b - - 0 35,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+70,b4+,b5b4,8/7R/1k6/p7/1p6/K7/P4rPP/8 w - - 0 36,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+71,Ka4,a3a4,8/7R/1k6/p7/Kp6/8/P4rPP/8 b - - 1 36,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+72,Rxa2+,f2a2,8/7R/1k6/p7/Kp6/8/r5PP/8 w - - 0 37,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+73,Kb3,a4b3,8/7R/1k6/p7/1p6/1K6/r5PP/8 b - - 1 37,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+74,Rxg2,a2g2,8/7R/1k6/p7/1p6/1K6/6rP/8 w - - 0 38,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+75,Ka4,b3a4,8/7R/1k6/p7/Kp6/8/6rP/8 b - - 1 38,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+76,Ra2+,g2a2,8/7R/1k6/p7/Kp6/8/r6P/8 w - - 2 39,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+77,Kb3,a4b3,8/7R/1k6/p7/1p6/1K6/r6P/8 b - - 3 39,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+78,Ra3+,a2a3,8/7R/1k6/p7/1p6/rK6/7P/8 w - - 4 40,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+79,Kc4,b3c4,8/7R/1k6/p7/1pK5/r7/7P/8 b - - 5 40,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+80,Rc3+,a3c3,8/7R/1k6/p7/1pK5/2r5/7P/8 w - - 6 41,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+81,Kd5,c4d5,8/7R/1k6/p2K4/1p6/2r5/7P/8 b - - 7 41,Black has a won game.  The white king can't cross the c-file and the black king can hide from white's rook behind his two pawns.
+82,Kb5,b6b5,8/7R/8/pk1K4/1p6/2r5/7P/8 w - - 8 42,guard h8 and keep the king off the c-file
+83,h4,h2h4,8/7R/8/pk1K4/1p5P/2r5/8/8 b - - 0 42,guard h8 and keep the king off the c-file
+84,b3,b4b3,8/7R/8/pk1K4/7P/1pr5/8/8 w - - 0 43,guard h8 and keep the king off the c-file
+85,Kd4,d5d4,8/7R/8/pk6/3K3P/1pr5/8/8 b - - 1 43,guard h8 and keep the king off the c-file
+86,Rc2,c3c2,8/7R/8/pk6/3K3P/1p6/2r5/8 w - - 2 44,guard h8 and keep the king off the c-file
+87,Kd3,d4d3,8/7R/8/pk6/7P/1p1K4/2r5/8 b - - 3 44,guard h8 and keep the king off the c-file
+88,Kb4,b5b4,8/7R/8/p7/1k5P/1p1K4/2r5/8 w - - 4 45,guard h8 and keep the king off the c-file
+89,Rb7+,h7b7,8/1R6/8/p7/1k5P/1p1K4/2r5/8 b - - 5 45,guard h8 and keep the king off the c-file
+90,Ka3,b4a3,8/1R6/8/p7/7P/kp1K4/2r5/8 w - - 6 46,guard h8 and keep the king off the c-file
+91,h5,h4h5,8/1R6/8/p6P/8/kp1K4/2r5/8 b - - 0 46,guard h8 and keep the king off the c-file
+92,Rc8,c2c8,2r5/1R6/8/p6P/8/kp1K4/8/8 w - - 1 47,guard h8 and keep the king off the c-file
+93,h6,h5h6,2r5/1R6/7P/p7/8/kp1K4/8/8 b - - 0 47,52. resign!
+94,b2,b3b2,2r5/1R6/7P/p7/8/k2K4/1p6/8 w - - 0 48,52. resign!
+95,h7,h6h7,2r5/1R5P/8/p7/8/k2K4/1p6/8 b - - 0 48,52. resign!
+96,Ka2,a3a2,2r5/1R5P/8/p7/8/3K4/kp6/8 w - - 1 49,52. resign!
+97,h8=Q,h7h8q,2r4Q/1R6/8/p7/8/3K4/kp6/8 b - - 0 49,52. resign!
+98,Rxh8,c8h8,7r/1R6/8/p7/8/3K4/kp6/8 w - - 0 50,52. resign!
+99,Kc2,d3c2,7r/1R6/8/p7/8/8/kpK5/8 b - - 1 50,52. resign!
+100,b1=Q+,b2b1q,7r/1R6/8/p7/8/8/k1K5/1q6 w - - 0 51,52. resign!
+101,Rxb1,b7b1,7r/8/8/p7/8/8/k1K5/1R6 b - - 0 51,52. resign!
+102,Rh2+,h8h2,8/8/8/p7/8/8/k1K4r/1R6 w - - 1 52,52. resign!
+103,Kc1,c2c1,8/8/8/p7/8/8/k6r/1RK5 b - - 2 52,62. resign!!
+104,Rh1+,h2h1,8/8/8/p7/8/8/k7/1RK4r w - - 3 53,62. resign!!
+105,Kc2,c1c2,8/8/8/p7/8/8/k1K5/1R5r b - - 4 53,62. resign!!
+106,Rxb1,h1b1,8/8/8/p7/8/8/k1K5/1r6 w - - 0 54,62. resign!!
+107,Kc3,c2c3,8/8/8/p7/8/2K5/k7/1r6 b - - 1 54,62. resign!!
+108,Rb4,b1b4,8/8/8/p7/1r6/2K5/k7/8 w - - 2 55,62. resign!!
+109,Kd3,c3d3,8/8/8/p7/1r6/3K4/k7/8 b - - 3 55,62. resign!!
+110,Kb3,a2b3,8/8/8/p7/1r6/1k1K4/8/8 w - - 4 56,62. resign!!
+111,Ke3,d3e3,8/8/8/p7/1r6/1k2K3/8/8 b - - 5 56,62. resign!!
+112,Kc3,b3c3,8/8/8/p7/1r6/2k1K3/8/8 w - - 6 57,62. resign!!
+113,Kf3,e3f3,8/8/8/p7/1r6/2k2K2/8/8 b - - 7 57,62. resign!!
+114,Kd3,c3d3,8/8/8/p7/1r6/3k1K2/8/8 w - - 8 58,62. resign!!
+115,Kf2,f3f2,8/8/8/p7/1r6/3k4/5K2/8 b - - 9 58,62. resign!!
+116,Ke4,d3e4,8/8/8/p7/1r2k3/8/5K2/8 w - - 10 59,62. resign!!
+117,Ke2,f2e2,8/8/8/p7/1r2k3/8/4K3/8 b - - 11 59,62. resign!!
+118,Rb2+,b4b2,8/8/8/p7/4k3/8/1r2K3/8 w - - 12 60,62. resign!!
+119,Kd1,e2d1,8/8/8/p7/4k3/8/1r6/3K4 b - - 13 60,62. resign!!
+120,Rh2,b2h2,8/8/8/p7/4k3/8/7r/3K4 w - - 14 61,62. resign!!
+121,Ke1,d1e1,8/8/8/p7/4k3/8/7r/4K3 b - - 15 61,62. resign!!
+122,Ke3,e4e3,8/8/8/p7/8/4k3/7r/4K3 w - - 16 62,62. resign!!
+123,Kd1,e1d1,8/8/8/p7/8/4k3/7r/3K4 b - - 17 62,62. resign!!
+124,Kd3,e3d3,8/8/8/p7/8/3k4/7r/3K4 w - - 18 63,White hope for a stalemate has come to an end.
+125,Kc1,d1c1,8/8/8/p7/8/3k4/7r/2K5 b - - 19 63,White hope for a stalemate has come to an end.
+126,Rd2,h2d2,8/8/8/p7/8/3k4/3r4/2K5 w - - 20 64,White hope for a stalemate has come to an end.
+127,Kb1,c1b1,8/8/8/p7/8/3k4/3r4/1K6 b - - 21 64,White hope for a stalemate has come to an end.
+128,Rc2,d2c2,8/8/8/p7/8/3k4/2r5/1K6 w - - 22 65,White hope for a stalemate has come to an end.
+129,Ka1,b1a1,8/8/8/p7/8/3k4/2r5/K7 b - - 23 65,White hope for a stalemate has come to an end.
+130,Kc3,d3c3,8/8/8/p7/8/2k5/2r5/K7 w - - 24 66,White hope for a stalemate has come to an end.
+131,Kb1,a1b1,8/8/8/p7/8/2k5/2r5/1K6 b - - 25 66,White hope for a stalemate has come to an end.
+132,Kb3,c3b3,8/8/8/p7/8/1k6/2r5/1K6 w - - 26 67,White hope for a stalemate has come to an end.
+133,Ka1,b1a1,8/8/8/p7/8/1k6/2r5/K7 b - - 27 67,White hope for a stalemate has come to an end.
+134,Rc1#,c2c1,8/8/8/p7/8/1k6/8/K1r5 w - - 28 68,White hope for a stalemate has come to an end.

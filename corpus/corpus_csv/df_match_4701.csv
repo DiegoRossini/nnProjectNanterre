@@ -1,0 +1,36 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My usual opening.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Introducing the Sicilian defense, one of the best answers to 1.e4. The idea is to play cxd4 when white play d4."
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Preparing 3.d4 cxd4 4.Nxd4.
+4,d6,d7d6,rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,This move is important to prevent white from playing e5 after black plays Nf6. It also opens the h3-c8 diagonal for LSB.
+5,d4,d2d4,rnbqkbnr/pp2pppp/3p4/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Controlling the center.
+6,cxd4,c5d4,rnbqkbnr/pp2pppp/3p4/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,Threatening the e4 pawn and developing a piece.
+7,Nxd4,f3d4,rnbqkbnr/pp2pppp/3p4/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,Threatening the e4 pawn and developing a piece.
+8,Nf6,g8f6,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,Threatening the e4 pawn and developing a piece.
+9,Nc3,b1c3,rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5,Protecting the e4 pawn and developing a piece.
+10,a6,a7a6,rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,This is the Sicilian Najdorf defense. 5...a6 is played to prevent white from playing Nb5 or Bb5. It also prepares a minority attack by b5.
+11,Bg5,c1g5,rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6,The main line. It threatens to double black's pawn on the f-file. It also prepare O-O-O after queen moves.
+12,e6,e7e6,rnbqkb1r/1p3ppp/p2ppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7,To avoid a doubled pawns on the f-file.
+13,f4,f2f4,rnbqkb1r/1p3ppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R b KQkq - 0 7,Allowing 8.e5 pinning the f6 knight.
+14,Qb6,d8b6,rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8,"Attacks the b2 pawn. Usually this opening leads to a very complicated positions. Safer is 7...Nbd7, 7...Be7 or 7...Qc7."
+15,Qd2,d1d2,rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPPQ2PP/R3KB1R b KQkq - 2 8,"Now, this is the Sicilian Najdorf Poisoned pawn variation. White allows black to capture a pawn or more to have an open game and dangerous attack."
+16,Qxb2,b6b2,rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/2N5/PqPQ2PP/R3KB1R w KQkq - 0 9,Forced.
+17,Rb1,a1b1,rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/2N5/PqPQ2PP/1R2KB1R b Kkq - 1 9,Forced.
+18,Qa3,b2a3,rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R w Kkq - 2 10,Forced.
+19,e5,e4e5,rnb1kb1r/1p3ppp/p2ppn2/4P1B1/3N1P2/q1N5/P1PQ2PP/1R2KB1R b Kkq - 0 10,More plyable is 10.f5.
+20,dxe5,d6e5,rnb1kb1r/1p3ppp/p3pn2/4p1B1/3N1P2/q1N5/P1PQ2PP/1R2KB1R w Kkq - 0 11,"According to G/K analyse, this is a mistake -1.50 (12. Ne4 Qxa2 13. Rb3 h6 14. Bh4 Qa4 15. Nd6+ Bxd6 16. exd6 Nc6 17. Nf3 O-O 18. Be2 Qa1+ 19. Qd1 Qxd1+ 20. Bxd1 b5). It suggests 12.Bc4 as the best =0.00"
+21,fxe5,f4e5,rnb1kb1r/1p3ppp/p3pn2/4P1B1/3N4/q1N5/P1PQ2PP/1R2KB1R b Kkq - 0 11,"According to G/K analyse, this is a mistake -1.50 (12. Ne4 Qxa2 13. Rb3 h6 14. Bh4 Qa4 15. Nd6+ Bxd6 16. exd6 Nc6 17. Nf3 O-O 18. Be2 Qa1+ 19. Qd1 Qxd1+ 20. Bxd1 b5). It suggests 12.Bc4 as the best =0.00"
+22,Nfd7,f6d7,rnb1kb1r/1p1n1ppp/p3p3/4P1B1/3N4/q1N5/P1PQ2PP/1R2KB1R w Kkq - 1 12,"According to G/K analyse, this is a mistake -1.50 (12. Ne4 Qxa2 13. Rb3 h6 14. Bh4 Qa4 15. Nd6+ Bxd6 16. exd6 Nc6 17. Nf3 O-O 18. Be2 Qa1+ 19. Qd1 Qxd1+ 20. Bxd1 b5). It suggests 12.Bc4 as the best =0.00"
+23,Ne4,c3e4,rnb1kb1r/1p1n1ppp/p3p3/4P1B1/3NN3/q7/P1PQ2PP/1R2KB1R b Kkq - 2 12,"According to G/K analyse, this is a mistake -1.50 (12. Ne4 Qxa2 13. Rb3 h6 14. Bh4 Qa4 15. Nd6+ Bxd6 16. exd6 Nc6 17. Nf3 O-O 18. Be2 Qa1+ 19. Qd1 Qxd1+ 20. Bxd1 b5). It suggests 12.Bc4 as the best =0.00"
+24,Qxa2,a3a2,rnb1kb1r/1p1n1ppp/p3p3/4P1B1/3NN3/8/q1PQ2PP/1R2KB1R w Kkq - 0 13,"Now, black is up 2 pawns."
+25,Rd1,b1d1,rnb1kb1r/1p1n1ppp/p3p3/4P1B1/3NN3/8/q1PQ2PP/3RKB1R b Kkq - 1 13,And this is the third.
+26,Qd5,a2d5,rnb1kb1r/1p1n1ppp/p3p3/3qP1B1/3NN3/8/2PQ2PP/3RKB1R w Kkq - 2 14,And this is the third.
+27,Qe3,d2e3,rnb1kb1r/1p1n1ppp/p3p3/3qP1B1/3NN3/4Q3/2P3PP/3RKB1R b Kkq - 3 14,And this is the third.
+28,Qxe5,d5e5,rnb1kb1r/1p1n1ppp/p3p3/4q1B1/3NN3/4Q3/2P3PP/3RKB1R w Kkq - 0 15,And this is the third.
+29,Be2,f1e2,rnb1kb1r/1p1n1ppp/p3p3/4q1B1/3NN3/4Q3/2P1B1PP/3RK2R b Kkq - 1 15,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+30,Nc6,b8c6,r1b1kb1r/1p1n1ppp/p1n1p3/4q1B1/3NN3/4Q3/2P1B1PP/3RK2R w Kkq - 2 16,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+31,O-O,e1g1,r1b1kb1r/1p1n1ppp/p1n1p3/4q1B1/3NN3/4Q3/2P1B1PP/3R1RK1 b kq - 3 16,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+32,Nxd4,c6d4,r1b1kb1r/1p1n1ppp/p3p3/4q1B1/3nN3/4Q3/2P1B1PP/3R1RK1 w kq - 0 17,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+33,Rxd4,d1d4,r1b1kb1r/1p1n1ppp/p3p3/4q1B1/3RN3/4Q3/2P1B1PP/5RK1 b kq - 0 17,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+34,h6,h7h6,r1b1kb1r/1p1n1pp1/p3p2p/4q1B1/3RN3/4Q3/2P1B1PP/5RK1 w kq - 0 18,"17...h6? G/K analyse didn't comment on this move. However, i think this is the losing move. It allows white to attack the queen and then putting pressure on black's king. Best in my openion is 17...Bc5! 18.Nxc5 Qxe3+ 19.Bxe3 Nxc5 20.Rg4 Nd7 21.Rxg7 with a draw."
+35,Bf4,g5f4,r1b1kb1r/1p1n1pp1/p3p2p/4q3/3RNB2/4Q3/2P1B1PP/5RK1 b kq - 1 18,The best. If 18.Bh4? loses to 18...Bc5! ( notice that white can't play 19.Nxc5? because of 19...Qxe3+ winning).

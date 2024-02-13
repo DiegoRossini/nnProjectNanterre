@@ -1,0 +1,91 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"Unusual line for white, black is fully defended."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"Unusual line for white, black is fully defended."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"Unusual line for white, black is fully defended."
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,"Unusual line for white, black is fully defended."
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"Unusual line for white, black is fully defended."
+6,Nd7,b8d7,r1bqkbnr/pppn1ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,"Unusual line for white, black is fully defended."
+7,d5,d4d5,r1bqkbnr/pppn1ppp/3p4/3Pp3/4P3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,"Unusual line for white, black is fully defended."
+8,Ngf6,g8f6,r1bqkb1r/pppn1ppp/3p1n2/3Pp3/4P3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5,"Unusual line for white, black is fully defended."
+9,Nc3,b1c3,r1bqkb1r/pppn1ppp/3p1n2/3Pp3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5,"Unusual line for white, black is fully defended."
+10,c6,c7c6,r1bqkb1r/pp1n1ppp/2pp1n2/3Pp3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6,"Unusual line for white, black is fully defended."
+11,dxc6,d5c6,r1bqkb1r/pp1n1ppp/2Pp1n2/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 6,"Unusual line for white, black is fully defended."
+12,bxc6,b7c6,r1bqkb1r/p2n1ppp/2pp1n2/4p3/4P3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 7,"Unusual line for white, black is fully defended."
+13,Bc4,f1c4,r1bqkb1r/p2n1ppp/2pp1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 7,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+14,Be7,f8e7,r1bqk2r/p2nbppp/2pp1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 8,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+15,O-O,e1g1,r1bqk2r/p2nbppp/2pp1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 3 8,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+16,O-O,e8g8,r1bq1rk1/p2nbppp/2pp1n2/4p3/2B1P3/2N2N2/PPP2PPP/R1BQ1RK1 w - - 4 9,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+17,b3,b2b3,r1bq1rk1/p2nbppp/2pp1n2/4p3/2B1P3/1PN2N2/P1P2PPP/R1BQ1RK1 b - - 0 9,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+18,Nb6,d7b6,r1bq1rk1/p3bppp/1npp1n2/4p3/2B1P3/1PN2N2/P1P2PPP/R1BQ1RK1 w - - 1 10,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+19,Qe2,d1e2,r1bq1rk1/p3bppp/1npp1n2/4p3/2B1P3/1PN2N2/P1P1QPPP/R1B2RK1 b - - 2 10,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+20,Qc7,d8c7,r1b2rk1/p1q1bppp/1npp1n2/4p3/2B1P3/1PN2N2/P1P1QPPP/R1B2RK1 w - - 3 11,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+21,Rd1,f1d1,r1b2rk1/p1q1bppp/1npp1n2/4p3/2B1P3/1PN2N2/P1P1QPPP/R1BR2K1 b - - 4 11,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+22,Bb7,c8b7,r4rk1/pbq1bppp/1npp1n2/4p3/2B1P3/1PN2N2/P1P1QPPP/R1BR2K1 w - - 5 12,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+23,Bb2,c1b2,r4rk1/pbq1bppp/1npp1n2/4p3/2B1P3/1PN2N2/PBP1QPPP/R2R2K1 b - - 6 12,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+24,Nfd7,f6d7,r4rk1/pbqnbppp/1npp4/4p3/2B1P3/1PN2N2/PBP1QPPP/R2R2K1 w - - 7 13,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+25,Rd2,d1d2,r4rk1/pbqnbppp/1npp4/4p3/2B1P3/1PN2N2/PBPRQPPP/R5K1 b - - 8 13,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+26,Nxc4,b6c4,r4rk1/pbqnbppp/2pp4/4p3/2n1P3/1PN2N2/PBPRQPPP/R5K1 w - - 0 14,"The capture now gives black a valuable tempo, black will shore up e5 and then push for d5!"
+27,Qxc4,e2c4,r4rk1/pbqnbppp/2pp4/4p3/2Q1P3/1PN2N2/PBPR1PPP/R5K1 b - - 0 14,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+28,Nb6,d7b6,r4rk1/pbq1bppp/1npp4/4p3/2Q1P3/1PN2N2/PBPR1PPP/R5K1 w - - 1 15,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+29,Qe2,c4e2,r4rk1/pbq1bppp/1npp4/4p3/4P3/1PN2N2/PBPRQPPP/R5K1 b - - 2 15,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+30,f6,f7f6,r4rk1/pbq1b1pp/1npp1p2/4p3/4P3/1PN2N2/PBPRQPPP/R5K1 w - - 0 16,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+31,Nh4,f3h4,r4rk1/pbq1b1pp/1npp1p2/4p3/4P2N/1PN5/PBPRQPPP/R5K1 b - - 1 16,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+32,g6,g7g6,r4rk1/pbq1b2p/1npp1pp1/4p3/4P2N/1PN5/PBPRQPPP/R5K1 w - - 0 17,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+33,Rad1,a1d1,r4rk1/pbq1b2p/1npp1pp1/4p3/4P2N/1PN5/PBPRQPPP/3R2K1 b - - 1 17,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+34,f5,f6f5,r4rk1/pbq1b2p/1npp2p1/4pp2/4P2N/1PN5/PBPRQPPP/3R2K1 w - - 0 18,"More solid is 17...Rd1 followed by d5..., here black hopes to get a central pawn majority rolling while defending the kingside."
+35,g3,g2g3,r4rk1/pbq1b2p/1npp2p1/4pp2/4P2N/1PN3P1/PBPRQP1P/3R2K1 b - - 0 18,This move only looks dangerous...
+36,Rad8,a8d8,3r1rk1/pbq1b2p/1npp2p1/4pp2/4P2N/1PN3P1/PBPRQP1P/3R2K1 w - - 1 19,This move only looks dangerous...
+37,exf5,e4f5,3r1rk1/pbq1b2p/1npp2p1/4pP2/7N/1PN3P1/PBPRQP1P/3R2K1 b - - 0 19,This move only looks dangerous...
+38,gxf5,g6f5,3r1rk1/pbq1b2p/1npp4/4pp2/7N/1PN3P1/PBPRQP1P/3R2K1 w - - 0 20,This move only looks dangerous...
+39,Qh5,e2h5,3r1rk1/pbq1b2p/1npp4/4pp1Q/7N/1PN3P1/PBPR1P1P/3R2K1 b - - 1 20,This move only looks dangerous...
+40,Bc8,b7c8,2br1rk1/p1q1b2p/1npp4/4pp1Q/7N/1PN3P1/PBPR1P1P/3R2K1 w - - 2 21,This move only looks dangerous...
+41,Qh6,h5h6,2br1rk1/p1q1b2p/1npp3Q/4pp2/7N/1PN3P1/PBPR1P1P/3R2K1 b - - 3 21,This move only looks dangerous...
+42,Rf6,f8f6,2br2k1/p1q1b2p/1npp1r1Q/4pp2/7N/1PN3P1/PBPR1P1P/3R2K1 w - - 4 22,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+43,Qe3,h6e3,2br2k1/p1q1b2p/1npp1r2/4pp2/7N/1PN1Q1P1/PBPR1P1P/3R2K1 b - - 5 22,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+44,Rf7,f6f7,2br2k1/p1q1br1p/1npp4/4pp2/7N/1PN1Q1P1/PBPR1P1P/3R2K1 w - - 6 23,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+45,Nf3,h4f3,2br2k1/p1q1br1p/1npp4/4pp2/8/1PN1QNP1/PBPR1P1P/3R2K1 b - - 7 23,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+46,Rg7,f7g7,2br2k1/p1q1b1rp/1npp4/4pp2/8/1PN1QNP1/PBPR1P1P/3R2K1 w - - 8 24,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+47,a4,a2a4,2br2k1/p1q1b1rp/1npp4/4pp2/P7/1PN1QNP1/1BPR1P1P/3R2K1 b - - 0 24,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+48,Nd7,b6d7,2br2k1/p1qnb1rp/2pp4/4pp2/P7/1PN1QNP1/1BPR1P1P/3R2K1 w - - 1 25,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+49,Ne2,c3e2,2br2k1/p1qnb1rp/2pp4/4pp2/P7/1P2QNP1/1BPRNP1P/3R2K1 b - - 2 25,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+50,Nf6,d7f6,2br2k1/p1q1b1rp/2pp1n2/4pp2/P7/1P2QNP1/1BPRNP1P/3R2K1 w - - 3 26,"Black is under pressure, wants to transfer the knight to the kingside to attack since white can play c4, but this plan opens Black up to a tactical shot..."
+51,Nxe5,f3e5,2br2k1/p1q1b1rp/2pp1n2/4Np2/P7/1P2Q1P1/1BPRNP1P/3R2K1 b - - 0 26,"An interesting tactical shot which Black did not expect. Is is sound? It sure looks bad for black, but we shall see..."
+52,dxe5,d6e5,2br2k1/p1q1b1rp/2p2n2/4pp2/P7/1P2Q1P1/1BPRNP1P/3R2K1 w - - 0 27,"The plan is to remove the defending queen. It looks like White's combo has worked, but..."
+53,Bxe5,b2e5,2br2k1/p1q1b1rp/2p2n2/4Bp2/P7/1P2Q1P1/2PRNP1P/3R2K1 b - - 0 27,"The plan is to remove the defending queen. It looks like White's combo has worked, but..."
+54,Rxd2,d8d2,2b3k1/p1q1b1rp/2p2n2/4Bp2/P7/1P2Q1P1/2PrNP1P/3R2K1 w - - 0 28,"Necessary, and a surprise for White. If the rook recaptures, 28 ...Qb6 holds, since BxN is not met by BxB, but QxQ."
+55,Bxc7,e5c7,2b3k1/p1B1b1rp/2p2n2/5p2/P7/1P2Q1P1/2PrNP1P/3R2K1 b - - 0 28,"Takes the queen but this trades the queen and a couple pawns for two rooks and a piece, not promising."
+56,Rxd1+,d2d1,2b3k1/p1B1b1rp/2p2n2/5p2/P7/1P2Q1P1/2P1NP1P/3r2K1 w - - 0 29,Black wants to open up the diagonal and keep the white N off d4
+57,Kg2,g1g2,2b3k1/p1B1b1rp/2p2n2/5p2/P7/1P2Q1P1/2P1NPKP/3r4 b - - 1 29,Black wants to open up the diagonal and keep the white N off d4
+58,c5,c6c5,2b3k1/p1B1b1rp/5n2/2p2p2/P7/1P2Q1P1/2P1NPKP/3r4 w - - 0 30,Black wants to open up the diagonal and keep the white N off d4
+59,Qf3,e3f3,2b3k1/p1B1b1rp/5n2/2p2p2/P7/1P3QP1/2P1NPKP/3r4 b - - 1 30,Keeps up the pressure.
+60,Ne4,f6e4,2b3k1/p1B1b1rp/8/2p2p2/P3n3/1P3QP1/2P1NPKP/3r4 w - - 2 31,Keeps up the pressure.
+61,Ba5,c7a5,2b3k1/p3b1rp/8/B1p2p2/P3n3/1P3QP1/2P1NPKP/3r4 b - - 3 31,Black tries to simplify to improve the rook's effectiveness.
+62,Bd8,e7d8,2bb2k1/p5rp/8/B1p2p2/P3n3/1P3QP1/2P1NPKP/3r4 w - - 4 32,Black tries to simplify to improve the rook's effectiveness.
+63,Nf4,e2f4,2bb2k1/p5rp/8/B1p2p2/P3nN2/1P3QP1/2P2PKP/3r4 b - - 5 32,"Hopes the discovered attack on the Rook will turn the game around, but..."
+64,Bb7,c8b7,3b2k1/pb4rp/8/B1p2p2/P3nN2/1P3QP1/2P2PKP/3r4 w - - 6 33,"The threat is 33 ... Nd6, and neither 33 Kh3? Ng5  or 33 Qe2 Nc3  work, so white grabs the rook."
+65,Qxd1,f3d1,3b2k1/pb4rp/8/B1p2p2/P3nN2/1P4P1/2P2PKP/3Q4 b - - 0 33,Now b
+66,Nc3+,e4c3,3b2k1/pb4rp/8/B1p2p2/P4N2/1Pn3P1/2P2PKP/3Q4 w - - 1 34,Now b
+67,Kg1,g2g1,3b2k1/pb4rp/8/B1p2p2/P4N2/1Pn3P1/2P2P1P/3Q2K1 b - - 2 34,Now b
+68,Nxd1,c3d1,3b2k1/pb4rp/8/B1p2p2/P4N2/1P4P1/2P2P1P/3n2K1 w - - 0 35,Now b
+69,Bxd8,a5d8,3B2k1/pb4rp/8/2p2p2/P4N2/1P4P1/2P2P1P/3n2K1 b - - 0 35,Black has increased the advantage.
+70,Rd7,g7d7,3B2k1/pb1r3p/8/2p2p2/P4N2/1P4P1/2P2P1P/3n2K1 w - - 1 36,The probing for weaknesses has netted another pawn
+71,Ba5,d8a5,6k1/pb1r3p/8/B1p2p2/P4N2/1P4P1/2P2P1P/3n2K1 b - - 2 36,The probing for weaknesses has netted another pawn
+72,Be4,b7e4,6k1/p2r3p/8/B1p2p2/P3bN2/1P4P1/2P2P1P/3n2K1 w - - 3 37,The probing for weaknesses has netted another pawn
+73,c3,c2c3,6k1/p2r3p/8/B1p2p2/P3bN2/1PP3P1/5P1P/3n2K1 b - - 0 37,The probing for weaknesses has netted another pawn
+74,Kf7,g8f7,8/p2r1k1p/8/B1p2p2/P3bN2/1PP3P1/5P1P/3n2K1 w - - 1 38,The probing for weaknesses has netted another pawn
+75,h4,h2h4,8/p2r1k1p/8/B1p2p2/P3bN1P/1PP3P1/5P2/3n2K1 b - - 0 38,The probing for weaknesses has netted another pawn
+76,Bc2,e4c2,8/p2r1k1p/8/B1p2p2/P4N1P/1PP3P1/2b2P2/3n2K1 w - - 1 39,The probing for weaknesses has netted another pawn
+77,b4,b3b4,8/p2r1k1p/8/B1p2p2/PP3N1P/2P3P1/2b2P2/3n2K1 b - - 0 39,The probing for weaknesses has netted another pawn
+78,cxb4,c5b4,8/p2r1k1p/8/B4p2/Pp3N1P/2P3P1/2b2P2/3n2K1 w - - 0 40,The probing for weaknesses has netted another pawn
+79,cxb4,c3b4,8/p2r1k1p/8/B4p2/PP3N1P/6P1/2b2P2/3n2K1 b - - 0 40,The probing for weaknesses has netted another pawn
+80,Bxa4,c2a4,8/p2r1k1p/8/B4p2/bP3N1P/6P1/5P2/3n2K1 w - - 0 41,The probing for weaknesses has netted another pawn
+81,Ne2,f4e2,8/p2r1k1p/8/B4p2/bP5P/6P1/4NP2/3n2K1 b - - 1 41,Black is after the king
+82,Bb5,a4b5,8/p2r1k1p/8/Bb3p2/1P5P/6P1/4NP2/3n2K1 w - - 2 42,Black is after the king
+83,Nc1,e2c1,8/p2r1k1p/8/Bb3p2/1P5P/6P1/5P2/2Nn2K1 b - - 3 42,Black is after the king
+84,Nc3,d1c3,8/p2r1k1p/8/Bb3p2/1P5P/2n3P1/5P2/2N3K1 w - - 4 43,Black is after the king
+85,Nb3,c1b3,8/p2r1k1p/8/Bb3p2/1P5P/1Nn3P1/5P2/6K1 b - - 5 43,Black is after the king
+86,Bc6,b5c6,8/p2r1k1p/2b5/B4p2/1P5P/1Nn3P1/5P2/6K1 w - - 6 44,Black is after the king
+87,Nc5,b3c5,8/p2r1k1p/2b5/B1N2p2/1P5P/2n3P1/5P2/6K1 b - - 7 44,"Loses quickly, f4 was necessary, but there is no hope left."
+88,Rd1+,d7d1,8/p4k1p/2b5/B1N2p2/1P5P/2n3P1/5P2/3r2K1 w - - 8 45,"A fitting end to a hard fought, tactical game."
+89,Kh2,g1h2,8/p4k1p/2b5/B1N2p2/1P5P/2n3P1/5P1K/3r4 b - - 9 45,"A fitting end to a hard fought, tactical game."
+90,Rh1#,d1h1,8/p4k1p/2b5/B1N2p2/1P5P/2n3P1/5P1K/7r w - - 10 46,"A fitting end to a hard fought, tactical game."

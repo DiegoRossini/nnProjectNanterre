@@ -1,0 +1,51 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"The Caro-Kann and variations fascinate me, so I've decided to start learning it.  However, I find some of the moves counter-intuitive so I never yet have played it straight."
+2,c6,c7c6,rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"The Caro-Kann and variations fascinate me, so I've decided to start learning it.  However, I find some of the moves counter-intuitive so I never yet have played it straight."
+3,d4,d2d4,rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,Take the middle; fair enough.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,"If 3. e5, then Nd5 anchors the middle for Black for a bit.  3. ... Ne4 seems too risky, even if 4. f3 weakens the King-side for White a bit."
+5,Nc3,b1c3,rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3,"Not 3. ...d5, where 4. e5 drives the knight back to d7 (4. ... Ng4 is chased by 5. h3)."
+6,d6,d7d6,rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4,"Not 3. ...d5, where 4. e5 drives the knight back to d7 (4. ... Ng4 is chased by 5. h3)."
+7,Nf3,g1f3,rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4,Must castle to free the Queen-side for action.  The fiancetto is the fastest way to accomplish this.
+8,g6,g7g6,rnbqkb1r/pp2pp1p/2pp1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,Must castle to free the Queen-side for action.  The fiancetto is the fastest way to accomplish this.
+9,Bf4,c1f4,rnbqkb1r/pp2pp1p/2pp1np1/8/3PPB2/2N2N2/PPP2PPP/R2QKB1R b KQkq - 1 5,"Not bad in itself as it develops the bishop, but I wonder whether 5. c4 threatening 6. Ng5 might have been better for maintaining tempo for White."
+10,Bg7,f8g7,rnbqk2r/pp2ppbp/2pp1np1/8/3PPB2/2N2N2/PPP2PPP/R2QKB1R w KQkq - 2 6,"White is fully developed on the most standard lines, barring castling.  Black is relatively undeveloped, especially hampered by the Queen's knight, but quite safe for the mean time."
+11,Bc4,f1c4,rnbqk2r/pp2ppbp/2pp1np1/8/2BPPB2/2N2N2/PPP2PPP/R2QK2R b KQkq - 3 6,"White is fully developed on the most standard lines, barring castling.  Black is relatively undeveloped, especially hampered by the Queen's knight, but quite safe for the mean time."
+12,O-O,e8g8,rnbq1rk1/pp2ppbp/2pp1np1/8/2BPPB2/2N2N2/PPP2PPP/R2QK2R w KQ - 4 7,"White is fully developed on the most standard lines, barring castling.  Black is relatively undeveloped, especially hampered by the Queen's knight, but quite safe for the mean time."
+13,Qe2,d1e2,rnbq1rk1/pp2ppbp/2pp1np1/8/2BPPB2/2N2N2/PPP1QPPP/R3K2R b KQ - 5 7,"A curious move.  It looks like an attempt to force the issue on e5, while supporting the c4 bishop as well.  Not necessarily a bad idea, but perhaps castling first was in order, forcing Black to move out, where he has few options."
+14,Nfd7,f6d7,rnbq1rk1/pp1nppbp/2pp2p1/8/2BPPB2/2N2N2/PPP1QPPP/R3K2R w KQ - 6 8,"Threatens the newly-uncovered QP, but probably unwise, as it stunts Black's Queen-side further."
+15,Rd1,a1d1,rnbq1rk1/pp1nppbp/2pp2p1/8/2BPPB2/2N2N2/PPP1QPPP/3RK2R b K - 7 8,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+16,Nb6,d7b6,rnbq1rk1/pp2ppbp/1npp2p1/8/2BPPB2/2N2N2/PPP1QPPP/3RK2R w K - 8 9,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+17,b3,b2b3,rnbq1rk1/pp2ppbp/1npp2p1/8/2BPPB2/1PN2N2/P1P1QPPP/3RK2R b K - 0 9,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+18,e6,e7e6,rnbq1rk1/pp3pbp/1nppp1p1/8/2BPPB2/1PN2N2/P1P1QPPP/3RK2R w K - 0 10,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+19,O-O,e1g1,rnbq1rk1/pp3pbp/1nppp1p1/8/2BPPB2/1PN2N2/P1P1QPPP/3R1RK1 b - - 1 10,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+20,d5,d6d5,rnbq1rk1/pp3pbp/1np1p1p1/3p4/2BPPB2/1PN2N2/P1P1QPPP/3R1RK1 w - - 0 11,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+21,exd5,e4d5,rnbq1rk1/pp3pbp/1np1p1p1/3P4/2BP1B2/1PN2N2/P1P1QPPP/3R1RK1 b - - 0 11,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+22,exd5,e6d5,rnbq1rk1/pp3pbp/1np3p1/3p4/2BP1B2/1PN2N2/P1P1QPPP/3R1RK1 w - - 0 12,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+23,Bg5,f4g5,rnbq1rk1/pp3pbp/1np3p1/3p2B1/2BP4/1PN2N2/P1P1QPPP/3R1RK1 b - - 1 12,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+24,Bf6,g7f6,rnbq1rk1/pp3p1p/1np2bp1/3p2B1/2BP4/1PN2N2/P1P1QPPP/3R1RK1 w - - 2 13,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+25,Bxf6,g5f6,rnbq1rk1/pp3p1p/1np2Bp1/3p4/2BP4/1PN2N2/P1P1QPPP/3R1RK1 b - - 0 13,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+26,Qxf6,d8f6,rnb2rk1/pp3p1p/1np2qp1/3p4/2BP4/1PN2N2/P1P1QPPP/3R1RK1 w - - 0 14,"By pursuing the exchange, White has gained the e column, but lost some of his developmental advantage."
+27,Bd3,c4d3,rnb2rk1/pp3p1p/1np2qp1/3p4/3P4/1PNB1N2/P1P1QPPP/3R1RK1 b - - 1 14,The more indirect Bg4 might be better positionally.
+28,Bf5,c8f5,rn3rk1/pp3p1p/1np2qp1/3p1b2/3P4/1PNB1N2/P1P1QPPP/3R1RK1 w - - 2 15,The more indirect Bg4 might be better positionally.
+29,Qe3,e2e3,rn3rk1/pp3p1p/1np2qp1/3p1b2/3P4/1PNBQN2/P1P2PPP/3R1RK1 b - - 3 15,Which is worse - Black's useless knight or White's awkward Rook?
+30,Nb8d7,b8d7,r4rk1/pp1n1p1p/1np2qp1/3p1b2/3P4/1PNBQN2/P1P2PPP/3R1RK1 w - - 4 16,Which is worse - Black's useless knight or White's awkward Rook?
+31,Ne5,f3e5,r4rk1/pp1n1p1p/1np2qp1/3pNb2/3P4/1PNBQ3/P1P2PPP/3R1RK1 b - - 5 16,Which is worse - Black's useless knight or White's awkward Rook?
+32,Bxd3,f5d3,r4rk1/pp1n1p1p/1np2qp1/3pN3/3P4/1PNbQ3/P1P2PPP/3R1RK1 w - - 0 17,Which is worse - Black's useless knight or White's awkward Rook?
+33,Nxd7,e5d7,r4rk1/pp1N1p1p/1np2qp1/3p4/3P4/1PNbQ3/P1P2PPP/3R1RK1 b - - 0 17,Which is worse - Black's useless knight or White's awkward Rook?
+34,Nxd7,b6d7,r4rk1/pp1n1p1p/2p2qp1/3p4/3P4/1PNbQ3/P1P2PPP/3R1RK1 w - - 0 18,Which is worse - Black's useless knight or White's awkward Rook?
+35,Rxd3,d1d3,r4rk1/pp1n1p1p/2p2qp1/3p4/3P4/1PNRQ3/P1P2PPP/5RK1 b - - 0 18,Which is worse - Black's useless knight or White's awkward Rook?
+36,Rfe8,f8e8,r3r1k1/pp1n1p1p/2p2qp1/3p4/3P4/1PNRQ3/P1P2PPP/5RK1 w - - 1 19,Which is worse - Black's useless knight or White's awkward Rook?
+37,Qh3,e3h3,r3r1k1/pp1n1p1p/2p2qp1/3p4/3P4/1PNR3Q/P1P2PPP/5RK1 b - - 2 19,Blocks the Queen from the back rank and prepares to double the rooks.
+38,Nb6,d7b6,r3r1k1/pp3p1p/1np2qp1/3p4/3P4/1PNR3Q/P1P2PPP/5RK1 w - - 3 20,Blocks the Queen from the back rank and prepares to double the rooks.
+39,Qg4,h3g4,r3r1k1/pp3p1p/1np2qp1/3p4/3P2Q1/1PNR4/P1P2PPP/5RK1 b - - 4 20,Blocks the Queen from the back rank and prepares to double the rooks.
+40,Re6,e8e6,r5k1/pp3p1p/1np1rqp1/3p4/3P2Q1/1PNR4/P1P2PPP/5RK1 w - - 5 21,Blocks the Queen from the back rank and prepares to double the rooks.
+41,f4,f2f4,r5k1/pp3p1p/1np1rqp1/3p4/3P1PQ1/1PNR4/P1P3PP/5RK1 b - - 0 21,"Why?  Most logically, to give the Queen a shield for Qf3 and regroup.  The Rook on the open column gives Black the attack."
+42,Rae8,a8e8,4r1k1/pp3p1p/1np1rqp1/3p4/3P1PQ1/1PNR4/P1P3PP/5RK1 w - - 1 22,Qd1 was more in order.
+43,f5,f4f5,4r1k1/pp3p1p/1np1rqp1/3p1P2/3P2Q1/1PNR4/P1P3PP/5RK1 b - - 0 22,Qd1 was more in order.
+44,Re6e1,e6e1,4r1k1/pp3p1p/1np2qp1/3p1P2/3P2Q1/1PNR4/P1P3PP/4rRK1 w - - 1 23,A fair attack as far as it goes.
+45,Rdf3,d3f3,4r1k1/pp3p1p/1np2qp1/3p1P2/3P2Q1/1PN2R2/P1P3PP/4rRK1 b - - 2 23,A fair attack as far as it goes.
+46,Qe7,f6e7,4r1k1/pp2qp1p/1np3p1/3p1P2/3P2Q1/1PN2R2/P1P3PP/4rRK1 w - - 3 24,A fair attack as far as it goes.
+47,fxg6,f5g6,4r1k1/pp2qp1p/1np3P1/3p4/3P2Q1/1PN2R2/P1P3PP/4rRK1 b - - 0 24,A fair attack as far as it goes.
+48,Rxf1+,e1f1,4r1k1/pp2qp1p/1np3P1/3p4/3P2Q1/1PN2R2/P1P3PP/5rK1 w - - 0 25,Correct was 25. Rxf1 hxg6 which at least leaves White in the game.
+49,Kxf1,g1f1,4r1k1/pp2qp1p/1np3P1/3p4/3P2Q1/1PN2R2/P1P3PP/5K2 b - - 0 25,Correct was 25. Rxf1 hxg6 which at least leaves White in the game.
+50,Qe1#,e7e1,4r1k1/pp3p1p/1np3P1/3p4/3P2Q1/1PN2R2/P1P3PP/4qK2 w - - 1 26,Game.

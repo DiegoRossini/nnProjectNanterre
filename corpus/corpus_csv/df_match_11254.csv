@@ -1,0 +1,40 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Philidor's Defense. C41
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Philidor's Defense. C41
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Philidor's Defense. C41
+4,d6,d7d6,rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Philidor's Defense. C41
+5,d4,d2d4,rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,Counter attack!
+6,Bg4,c8g4,rn1qkbnr/ppp2ppp/3p4/4p3/3PP1b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 4,This is a weak move already.--Fischer
+7,dxe5,d4e5,rn1qkbnr/ppp2ppp/3p4/4P3/4P1b1/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4,Morphy takes anyway.
+8,Bxf3,g4f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5b2/PPP2PPP/RNBQKB1R w KQkq - 0 5,attacking the weak f7 point.
+9,Qxf3,d1f3,rn1qkbnr/ppp2ppp/3p4/4P3/4P3/5Q2/PPP2PPP/RNB1KB1R b KQkq - 0 5,attacking the weak f7 point.
+10,dxe5,d6e5,rn1qkbnr/ppp2ppp/8/4p3/4P3/5Q2/PPP2PPP/RNB1KB1R w KQkq - 0 6,attacking the weak f7 point.
+11,Bc4,f1c4,rn1qkbnr/ppp2ppp/8/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R b KQkq - 1 6,attacking the weak f7 point.
+12,Nf6,g8f6,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/5Q2/PPP2PPP/RNB1K2R w KQkq - 2 7,Developing and blocking the queen.
+13,Qb3,f3b3,rn1qkb1r/ppp2ppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7,! still attacking the f7 and also b7!
+14,Qe7,d8e7,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R w KQkq - 4 8,f7 must be protected!
+15,Nc3,b1c3,rn2kb1r/ppp1qppp/5n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R b KQkq - 5 8,"Morphy does not grab the pawn, but continues to develop."
+16,c6,c7c6,rn2kb1r/pp2qppp/2p2n2/4p3/2B1P3/1QN5/PPP2PPP/R1B1K2R w KQkq - 0 9,now the pawn is protected.
+17,Bg5,c1g5,rn2kb1r/pp2qppp/2p2n2/4p1B1/2B1P3/1QN5/PPP2PPP/R3K2R b KQkq - 1 9,"Black is in what's like a zugzwang position here.  He can't 
+develop the [Queen's] knight because the pawn is hanging, 
+the bishop is blocked because of the Queen.--Fischer"
+18,b5,b7b5,rn2kb1r/p3qppp/2p2n2/1p2p1B1/2B1P3/1QN5/PPP2PPP/R3K2R w KQkq - 0 10,Perhaps black can drive white back with the pawns?
+19,Nxb5,c3b5,rn2kb1r/p3qppp/2p2n2/1N2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 10,Not Morphy!!! he sees all!!! Material is less than the attack!!
+20,cxb5,c6b5,rn2kb1r/p3qppp/5n2/1p2p1B1/2B1P3/1Q6/PPP2PPP/R3K2R w KQkq - 0 11,more pressure with the rook!
+21,Bxb5+,c4b5,rn2kb1r/p3qppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R b KQkq - 0 11,more pressure with the rook!
+22,Nbd7,b8d7,r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/R3K2R w KQkq - 1 12,more pressure with the rook!
+23,O-O-O,e1c1,r3kb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R b kq - 2 12,more pressure with the rook!
+24,Rd8,a8d8,3rkb1r/p2nqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR3R w k - 3 13,black defends with the rook!
+25,Rxd7,d1d7,3rkb1r/p2Rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R b k - 0 13,Now an exchange sacrifice as well!!! Morphy sees that he can bring the other rook into the attack!!
+26,Rxd7,d8d7,4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2K4R w k - 0 14,Black breaks the pin on the knight else the queen is dead meat!
+27,Rd1,h1d1,4kb1r/p2rqppp/5n2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 1 14,Black breaks the pin on the knight else the queen is dead meat!
+28,Qe6,e7e6,4kb1r/p2r1ppp/4qn2/1B2p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 2 15,Black breaks the pin on the knight else the queen is dead meat!
+29,Bxd7+,b5d7,4kb1r/p2B1ppp/4qn2/4p1B1/4P3/1Q6/PPP2PPP/2KR4 b k - 0 15,forking the queen and king
+30,Nxd7,f6d7,4kb1r/p2n1ppp/4q3/4p1B1/4P3/1Q6/PPP2PPP/2KR4 w k - 0 16,And then the finish!!! A queen sacrifice!!!! the knight must take!
+31,Qb8+,b3b8,1Q2kb1r/p2n1ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 b k - 1 16,And then the finish!!! A queen sacrifice!!!! the knight must take!
+32,Nxb8,d7b8,1n2kb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2KR4 w k - 0 17,"Bam!!! the last two pieces in Morphy's camp give mate!!!
+
+This is one of my favorite games, My heart quickens whenever I play vs a philidore that I may repeat this game."
+33,Rd8#,d1d8,1n1Rkb1r/p4ppp/4q3/4p1B1/4P3/8/PPP2PPP/2K5 b k - 1 17,"Bam!!! the last two pieces in Morphy's camp give mate!!!
+
+This is one of my favorite games, My heart quickens whenever I play vs a philidore that I may repeat this game."

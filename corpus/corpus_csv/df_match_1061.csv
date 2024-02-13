@@ -1,0 +1,39 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,King's knight.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,King's knight.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,King's knight.
+4,c5,c7c5,rnbqkbnr/pp1p1ppp/8/2p1p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3,Pe5 is undefended.  White often comes back with c3 instead.
+5,Nxe5,f3e5,rnbqkbnr/pp1p1ppp/8/2p1N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,NxN doubles black's pawns.
+6,Nc6,b8c6,r1bqkbnr/pp1p1ppp/2n5/2p1N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 4,NxN doubles black's pawns.
+7,f4,f2f4,r1bqkbnr/pp1p1ppp/2n5/2p1N3/4PP2/8/PPPP2PP/RNBQKB1R b KQkq - 0 4,I think taking the knight would be better.
+8,d6,d7d6,r1bqkbnr/pp3ppp/2np4/2p1N3/4PP2/8/PPPP2PP/RNBQKB1R w KQkq - 0 5,I think taking the knight would be better.
+9,Nxc6,e5c6,r1bqkbnr/pp3ppp/2Np4/2p5/4PP2/8/PPPP2PP/RNBQKB1R b KQkq - 0 5,I think taking the knight would be better.
+10,Qd7,d8d7,r1b1kbnr/pp1q1ppp/2Np4/2p5/4PP2/8/PPPP2PP/RNBQKB1R w KQkq - 1 6,I think taking the knight would be better.
+11,Na5,c6a5,r1b1kbnr/pp1q1ppp/3p4/N1p5/4PP2/8/PPPP2PP/RNBQKB1R b KQkq - 2 6,"Taking it with the knight instead gives white the a6 bishop, potentially."
+12,b6,b7b6,r1b1kbnr/p2q1ppp/1p1p4/N1p5/4PP2/8/PPPP2PP/RNBQKB1R w KQkq - 0 7,"Taking it with the knight instead gives white the a6 bishop, potentially."
+13,Nc4,a5c4,r1b1kbnr/p2q1ppp/1p1p4/2p5/2N1PP2/8/PPPP2PP/RNBQKB1R b KQkq - 1 7,"Taking it with the knight instead gives white the a6 bishop, potentially."
+14,Ba6,c8a6,r3kbnr/p2q1ppp/bp1p4/2p5/2N1PP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 8,"Taking it with the knight instead gives white the a6 bishop, potentially."
+15,e5,e4e5,r3kbnr/p2q1ppp/bp1p4/2p1P3/2N2P2/8/PPPP2PP/RNBQKB1R b KQkq - 0 8,"Taking it with the knight instead gives white the a6 bishop, potentially."
+16,dxe5,d6e5,r3kbnr/p2q1ppp/bp6/2p1p3/2N2P2/8/PPPP2PP/RNBQKB1R w KQkq - 0 9,"Taking it with the knight instead gives white the a6 bishop, potentially."
+17,fxe5,f4e5,r3kbnr/p2q1ppp/bp6/2p1P3/2N5/8/PPPP2PP/RNBQKB1R b KQkq - 0 9,"Taking it with the knight instead gives white the a6 bishop, potentially."
+18,O-O-O,e8c8,2kr1bnr/p2q1ppp/bp6/2p1P3/2N5/8/PPPP2PP/RNBQKB1R w KQ - 1 10,NxPb6 looks better.  Bishop and pawn for the knight.
+19,Nd6+,c4d6,2kr1bnr/p2q1ppp/bp1N4/2p1P3/8/8/PPPP2PP/RNBQKB1R b KQ - 2 10,NxPb6 looks better.  Bishop and pawn for the knight.
+20,Bxd6,f8d6,2kr2nr/p2q1ppp/bp1b4/2p1P3/8/8/PPPP2PP/RNBQKB1R w KQ - 0 11,"BxBa6+ first, then PxBd6."
+21,exd6,e5d6,2kr2nr/p2q1ppp/bp1P4/2p5/8/8/PPPP2PP/RNBQKB1R b KQ - 0 11,"BxBa6+ first, then PxBd6."
+22,Re8+,d8e8,2k1r1nr/p2q1ppp/bp1P4/2p5/8/8/PPPP2PP/RNBQKB1R w KQ - 1 12,"Oops, now BxBe2 for free."
+23,Be2,f1e2,2k1r1nr/p2q1ppp/bp1P4/2p5/8/8/PPPPB1PP/RNBQK2R b KQ - 2 12,"Oops, now BxBe2 for free."
+24,Qg4,d7g4,2k1r1nr/p4ppp/bp1P4/2p5/6q1/8/PPPPB1PP/RNBQK2R w KQ - 3 13,"Oops, now BxBe2 for free."
+25,O-O,e1g1,2k1r1nr/p4ppp/bp1P4/2p5/6q1/8/PPPPB1PP/RNBQ1RK1 b - - 4 13,"Oops, now BxBe2 for free."
+26,Bxe2,a6e2,2k1r1nr/p4ppp/1p1P4/2p5/6q1/8/PPPPb1PP/RNBQ1RK1 w - - 0 14,Excellent.  The rook is now protected.
+27,Qe1,d1e1,2k1r1nr/p4ppp/1p1P4/2p5/6q1/8/PPPPb1PP/RNB1QRK1 b - - 1 14,Excellent.  The rook is now protected.
+28,Nf6,g8f6,2k1r2r/p4ppp/1p1P1n2/2p5/6q1/8/PPPPb1PP/RNB1QRK1 w - - 2 15,Excellent.  The rook is now protected.
+29,d3,d2d3,2k1r2r/p4ppp/1p1P1n2/2p5/6q1/3P4/PPP1b1PP/RNB1QRK1 b - - 0 15,Rf2 might be better.
+30,Bxf1,e2f1,2k1r2r/p4ppp/1p1P1n2/2p5/6q1/3P4/PPP3PP/RNB1QbK1 w - - 0 16,Better to move the king.  Re1# ends the game.
+31,Qxf1,e1f1,2k1r2r/p4ppp/1p1P1n2/2p5/6q1/3P4/PPP3PP/RNB2QK1 b - - 0 16,Better to move the king.  Re1# ends the game.
+32,Qd4+,g4d4,2k1r2r/p4ppp/1p1P1n2/2p5/3q4/3P4/PPP3PP/RNB2QK1 w - - 1 17,Better to move the king.  Re1# ends the game.
+33,Qf2,f1f2,2k1r2r/p4ppp/1p1P1n2/2p5/3q4/3P4/PPP2QPP/RNB3K1 b - - 2 17,Better to move the king.  Re1# ends the game.
+34,Ng4,f6g4,2k1r2r/p4ppp/1p1P4/2p5/3q2n1/3P4/PPP2QPP/RNB3K1 w - - 3 18,Re1# is the way to go.
+35,c3,c2c3,2k1r2r/p4ppp/1p1P4/2p5/3q2n1/2PP4/PP3QPP/RNB3K1 b - - 0 18,Re1# is the way to go.
+36,Qxf2+,d4f2,2k1r2r/p4ppp/1p1P4/2p5/6n1/2PP4/PP3qPP/RNB3K1 w - - 0 19,"That, or Qf1#."
+37,Kh1,g1h1,2k1r2r/p4ppp/1p1P4/2p5/6n1/2PP4/PP3qPP/RNB4K b - - 1 19,"That, or Qf1#."
+38,Re1#,e8e1,2k4r/p4ppp/1p1P4/2p5/6n1/2PP4/PP3qPP/RNB1r2K w - - 2 20,"That, or Qf1#."

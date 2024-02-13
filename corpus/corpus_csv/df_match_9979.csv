@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,not a good move because of c3.
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,not a good move because of c3.
+3,e4,e2e4,rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2,not a good move because of c3.
+4,Bb4+,f8b4,rnbqk1nr/pppp1ppp/4p3/8/1b1PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3,not a good move because of c3.
+5,Bd2,c1d2,rnbqk1nr/pppp1ppp/4p3/8/1b1PP3/8/PPPB1PPP/RN1QKBNR b KQkq - 2 3,why not c3?
+6,Be7,b4e7,rnbqk1nr/ppppbppp/4p3/8/3PP3/8/PPPB1PPP/RN1QKBNR w KQkq - 3 4,it seems now that the bishop on d2 is preventing from the queen to support the d4 pawn.
+7,Nc3,b1c3,rnbqk1nr/ppppbppp/4p3/8/3PP3/2N5/PPPB1PPP/R2QKBNR b KQkq - 4 4,it seems now that the bishop on d2 is preventing from the queen to support the d4 pawn.
+8,Bb4,e7b4,rnbqk1nr/pppp1ppp/4p3/8/1b1PP3/2N5/PPPB1PPP/R2QKBNR w KQkq - 5 5,"a waste of time. almost every move is better: Nc6, d5, b6, c5 etc."
+9,a3,a2a3,rnbqk1nr/pppp1ppp/4p3/8/1b1PP3/P1N5/1PPB1PPP/R2QKBNR b KQkq - 0 5,bblack exchanged his active bishop (whom played 3 moves) with a non active knught (whom playrd once).
+10,Bxc3,b4c3,rnbqk1nr/pppp1ppp/4p3/8/3PP3/P1b5/1PPB1PPP/R2QKBNR w KQkq - 0 6,bblack exchanged his active bishop (whom played 3 moves) with a non active knught (whom playrd once).
+11,Bxc3,d2c3,rnbqk1nr/pppp1ppp/4p3/8/3PP3/P1B5/1PP2PPP/R2QKBNR b KQkq - 0 6,bblack exchanged his active bishop (whom played 3 moves) with a non active knught (whom playrd once).
+12,Nf6,g8f6,rnbqk2r/pppp1ppp/4pn2/8/3PP3/P1B5/1PP2PPP/R2QKBNR w KQkq - 1 7,what's the rush? 9. 0-0 is better.
+13,Bd3,f1d3,rnbqk2r/pppp1ppp/4pn2/8/3PP3/P1BB4/1PP2PPP/R2QK1NR b KQkq - 2 7,what's the rush? 9. 0-0 is better.
+14,d6,d7d6,rnbqk2r/ppp2ppp/3ppn2/8/3PP3/P1BB4/1PP2PPP/R2QK1NR w KQkq - 0 8,what's the rush? 9. 0-0 is better.
+15,Nf3,g1f3,rnbqk2r/ppp2ppp/3ppn2/8/3PP3/P1BB1N2/1PP2PPP/R2QK2R b KQkq - 1 8,what's the rush? 9. 0-0 is better.
+16,O-O,e8g8,rnbq1rk1/ppp2ppp/3ppn2/8/3PP3/P1BB1N2/1PP2PPP/R2QK2R w KQ - 2 9,what's the rush? 9. 0-0 is better.
+17,h3,h2h3,rnbq1rk1/ppp2ppp/3ppn2/8/3PP3/P1BB1N1P/1PP2PP1/R2QK2R b KQ - 0 9,what's the rush? 9. 0-0 is better.
+18,c6,c7c6,rnbq1rk1/pp3ppp/2pppn2/8/3PP3/P1BB1N1P/1PP2PP1/R2QK2R w KQ - 0 10,why? 11. Nd2 with f4 and Nf3 seems as a good plan.
+19,O-O,e1g1,rnbq1rk1/pp3ppp/2pppn2/8/3PP3/P1BB1N1P/1PP2PP1/R2Q1RK1 b - - 1 10,why? 11. Nd2 with f4 and Nf3 seems as a good plan.
+20,Nbd7,b8d7,r1bq1rk1/pp1n1ppp/2pppn2/8/3PP3/P1BB1N1P/1PP2PP1/R2Q1RK1 w - - 2 11,why? 11. Nd2 with f4 and Nf3 seems as a good plan.
+21,Bd2,c3d2,r1bq1rk1/pp1n1ppp/2pppn2/8/3PP3/P2B1N1P/1PPB1PP1/R2Q1RK1 b - - 3 11,why? 11. Nd2 with f4 and Nf3 seems as a good plan.
+22,g6,g7g6,r1bq1rk1/pp1n1p1p/2pppnp1/8/3PP3/P2B1N1P/1PPB1PP1/R2Q1RK1 w - - 0 12,maybe h6 is better. b5 is worth looking too.
+23,Bh6,d2h6,r1bq1rk1/pp1n1p1p/2pppnpB/8/3PP3/P2B1N1P/1PP2PP1/R2Q1RK1 b - - 1 12,?! white should try to pass f4-f5.
+24,Re8,f8e8,r1bqr1k1/pp1n1p1p/2pppnpB/8/3PP3/P2B1N1P/1PP2PP1/R2Q1RK1 w - - 2 13,?! white should try to pass f4-f5.
+25,g4,g2g4,r1bqr1k1/pp1n1p1p/2pppnpB/8/3PP1P1/P2B1N1P/1PP2P2/R2Q1RK1 b - - 0 13,?! white should try to pass f4-f5.
+26,e5,e6e5,r1bqr1k1/pp1n1p1p/2pp1npB/4p3/3PP1P1/P2B1N1P/1PP2P2/R2Q1RK1 w - - 0 14,after all the exchanging on e5 black's position does not look that bad.
+27,dxe5,d4e5,r1bqr1k1/pp1n1p1p/2pp1npB/4P3/4P1P1/P2B1N1P/1PP2P2/R2Q1RK1 b - - 0 14,after all the exchanging on e5 black's position does not look that bad.
+28,Nxe5,d7e5,r1bqr1k1/pp3p1p/2pp1npB/4n3/4P1P1/P2B1N1P/1PP2P2/R2Q1RK1 w - - 0 15,after all the exchanging on e5 black's position does not look that bad.
+29,Nxe5,f3e5,r1bqr1k1/pp3p1p/2pp1npB/4N3/4P1P1/P2B3P/1PP2P2/R2Q1RK1 b - - 0 15,after all the exchanging on e5 black's position does not look that bad.
+30,dxe5,d6e5,r1bqr1k1/pp3p1p/2p2npB/4p3/4P1P1/P2B3P/1PP2P2/R2Q1RK1 w - - 0 16,after all the exchanging on e5 black's position does not look that bad.
+31,f4,f2f4,r1bqr1k1/pp3p1p/2p2npB/4p3/4PPP1/P2B3P/1PP5/R2Q1RK1 b - - 0 16,black attacks. now it more clear why g4 was not a good move.
+32,exf4,e5f4,r1bqr1k1/pp3p1p/2p2npB/8/4PpP1/P2B3P/1PP5/R2Q1RK1 w - - 0 17,black attacks. now it more clear why g4 was not a good move.
+33,Rxf4,f1f4,r1bqr1k1/pp3p1p/2p2npB/8/4PRP1/P2B3P/1PP5/R2Q2K1 b - - 0 17,black attacks. now it more clear why g4 was not a good move.
+34,Qd4+,d8d4,r1b1r1k1/pp3p1p/2p2npB/8/3qPRP1/P2B3P/1PP5/R2Q2K1 w - - 1 18,black attacks. now it more clear why g4 was not a good move.
+35,Rf2,f4f2,r1b1r1k1/pp3p1p/2p2npB/8/3qP1P1/P2B3P/1PP2R2/R2Q2K1 b - - 2 18,wants Ne5.
+36,Nd7,f6d7,r1b1r1k1/pp1n1p1p/2p3pB/8/3qP1P1/P2B3P/1PP2R2/R2Q2K1 w - - 3 19,wants Ne5.
+37,c3,c2c3,r1b1r1k1/pp1n1p1p/2p3pB/8/3qP1P1/P1PB3P/1P3R2/R2Q2K1 b - - 0 19,I think that Qxd3 was better.
+38,Qd6,d4d6,r1b1r1k1/pp1n1p1p/2pq2pB/8/4P1P1/P1PB3P/1P3R2/R2Q2K1 w - - 1 20,I think that Qxd3 was better.
+39,Qf3,d1f3,r1b1r1k1/pp1n1p1p/2pq2pB/8/4P1P1/P1PB1Q1P/1P3R2/R5K1 b - - 2 20,I think that Qxd3 was better.
+40,Ne5,d7e5,r1b1r1k1/pp3p1p/2pq2pB/4n3/4P1P1/P1PB1Q1P/1P3R2/R5K1 w - - 3 21,I think that Qxd3 was better.
+41,Qe3,f3e3,r1b1r1k1/pp3p1p/2pq2pB/4n3/4P1P1/P1PBQ2P/1P3R2/R5K1 b - - 4 21,I think that Qxd3 was better.
+42,Bxg4,c8g4,r3r1k1/pp3p1p/2pq2pB/4n3/4P1b1/P1PBQ2P/1P3R2/R5K1 w - - 0 22,I think that Qxd3 was better.
+43,hxg4,h3g4,r3r1k1/pp3p1p/2pq2pB/4n3/4P1P1/P1PBQ3/1P3R2/R5K1 b - - 0 22,? why giving up a queen?
+44,Nxg4,e5g4,r3r1k1/pp3p1p/2pq2pB/8/4P1n1/P1PBQ3/1P3R2/R5K1 w - - 0 23,? why giving up a queen?
+45,Rxf7,f2f7,r3r1k1/pp3R1p/2pq2pB/8/4P1n1/P1PBQ3/1P6/R5K1 b - - 0 23,? why giving up a queen?
+46,Qh2+,d6h2,r3r1k1/pp3R1p/2p3pB/8/4P1n1/P1PBQ3/1P5q/R5K1 w - - 1 24,?? Nxe3  was clearly better and winning at once.
+47,Kf1,g1f1,r3r1k1/pp3R1p/2p3pB/8/4P1n1/P1PBQ3/1P5q/R4K2 b - - 2 24,?? Nxe3  was clearly better and winning at once.
+48,Nxh6,g4h6,r3r1k1/pp3R1p/2p3pn/8/4P3/P1PBQ3/1P5q/R4K2 w - - 0 25,?? Nxe3  was clearly better and winning at once.
+49,Rf2,f7f2,r3r1k1/pp5p/2p3pn/8/4P3/P1PBQ3/1P3R1q/R4K2 b - - 1 25,a great advantage for black.
+50,Qh1+,h2h1,r3r1k1/pp5p/2p3pn/8/4P3/P1PBQ3/1P3R2/R4K1q w - - 2 26,a great advantage for black.
+51,Ke2,f1e2,r3r1k1/pp5p/2p3pn/8/4P3/P1PBQ3/1P2KR2/R6q b - - 3 26,a great advantage for black.
+52,Qxa1,h1a1,r3r1k1/pp5p/2p3pn/8/4P3/P1PBQ3/1P2KR2/q7 w - - 0 27,a great advantage for black.
+53,Qxh6,e3h6,r3r1k1/pp5p/2p3pQ/8/4P3/P1PB4/1P2KR2/q7 b - - 0 27,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+54,Qxb2+,a1b2,r3r1k1/pp5p/2p3pQ/8/4P3/P1PB4/1q2KR2/8 w - - 0 28,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+55,Ke3,e2e3,r3r1k1/pp5p/2p3pQ/8/4P3/P1PBK3/1q3R2/8 b - - 1 28,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+56,Qxa3,b2a3,r3r1k1/pp5p/2p3pQ/8/4P3/q1PBK3/5R2/8 w - - 0 29,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+57,Bc4+,d3c4,r3r1k1/pp5p/2p3pQ/8/2B1P3/q1P1K3/5R2/8 b - - 1 29,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+58,Kh8,g8h8,r3r2k/pp5p/2p3pQ/8/2B1P3/q1P1K3/5R2/8 w - - 2 30,29... Qc5  30. Kd3 Rad8  and taking the bishop.
+59,Rf7,f2f7,r3r2k/pp3R1p/2p3pQ/8/2B1P3/q1P1K3/8/8 b - - 3 30,the end...
+60,Qxc3+,a3c3,r3r2k/pp3R1p/2p3pQ/8/2B1P3/2q1K3/8/8 w - - 0 31,the end...
+61,Bd3,c4d3,r3r2k/pp3R1p/2p3pQ/8/4P3/2qBK3/8/8 b - - 1 31,the end...
+62,Qc1+,c3c1,r3r2k/pp3R1p/2p3pQ/8/4P3/3BK3/8/2q5 w - - 2 32,the end...

@@ -1,0 +1,63 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+5,d4,d2d4,r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+6,exd4,e5d4,r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+7,Nxd4,f3d4,r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+8,Bc5,f8c5,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+9,Be3,c1e3,r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/4B3/PPP2PPP/RN1QKB1R b KQkq - 2 5,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+10,Bb4+,c5b4,r1bqk1nr/pppp1ppp/2n5/8/1b1NP3/4B3/PPP2PPP/RN1QKB1R w KQkq - 3 6,"4. ... , Bb4 . Expected was Qf6 defending the knight on c6. Bb4 loses a tempo since the bishop has moved already."
+11,c3,c2c3,r1bqk1nr/pppp1ppp/2n5/8/1b1NP3/2P1B3/PP3PPP/RN1QKB1R b KQkq - 0 6,blocks the d-pawn. Ba5 or Be7 were better.
+12,Bd6,b4d6,r1bqk1nr/pppp1ppp/2nb4/8/3NP3/2P1B3/PP3PPP/RN1QKB1R w KQkq - 1 7,blocks the d-pawn. Ba5 or Be7 were better.
+13,Nxc6,d4c6,r1bqk1nr/pppp1ppp/2Nb4/8/4P3/2P1B3/PP3PPP/RN1QKB1R b KQkq - 0 7,"Not the strongest move the bishop blocks the queen and is blocked by e4, e2 or c4 were better fields for the bishop."
+14,dxc6,d7c6,r1bqk1nr/ppp2ppp/2pb4/8/4P3/2P1B3/PP3PPP/RN1QKB1R w KQkq - 0 8,"Not the strongest move the bishop blocks the queen and is blocked by e4, e2 or c4 were better fields for the bishop."
+15,Bd3,f1d3,r1bqk1nr/ppp2ppp/2pb4/8/4P3/2PBB3/PP3PPP/RN1QK2R b KQkq - 1 8,"Not the strongest move the bishop blocks the queen and is blocked by e4, e2 or c4 were better fields for the bishop."
+16,Nf6,g8f6,r1bqk2r/ppp2ppp/2pb1n2/8/4P3/2PBB3/PP3PPP/RN1QK2R w KQkq - 2 9,nice
+17,O-O,e1g1,r1bqk2r/ppp2ppp/2pb1n2/8/4P3/2PBB3/PP3PPP/RN1Q1RK1 b kq - 3 9,nice
+18,O-O,e8g8,r1bq1rk1/ppp2ppp/2pb1n2/8/4P3/2PBB3/PP3PPP/RN1Q1RK1 w - - 4 10,nice
+19,Bd4,e3d4,r1bq1rk1/ppp2ppp/2pb1n2/8/3BP3/2PB4/PP3PPP/RN1Q1RK1 b - - 5 10,nice
+20,Ng4,f6g4,r1bq1rk1/ppp2ppp/2pb4/8/3BP1n1/2PB4/PP3PPP/RN1Q1RK1 w - - 6 11,nice
+21,h3,h2h3,r1bq1rk1/ppp2ppp/2pb4/8/3BP1n1/2PB3P/PP3PP1/RN1Q1RK1 b - - 0 11,nice
+22,Qh4,d8h4,r1b2rk1/ppp2ppp/2pb4/8/3BP1nq/2PB3P/PP3PP1/RN1Q1RK1 w - - 1 12,nice
+23,Qf3,d1f3,r1b2rk1/ppp2ppp/2pb4/8/3BP1nq/2PB1Q1P/PP3PP1/RN3RK1 b - - 2 12,nice
+24,Nh2,g4h2,r1b2rk1/ppp2ppp/2pb4/8/3BP2q/2PB1Q1P/PP3PPn/RN3RK1 w - - 3 13,nice
+25,Qe3,f3e3,r1b2rk1/ppp2ppp/2pb4/8/3BP2q/2PBQ2P/PP3PPn/RN3RK1 b - - 4 13,b6 might have tricked him... with the idea of c5...
+26,Nxf1,h2f1,r1b2rk1/ppp2ppp/2pb4/8/3BP2q/2PBQ2P/PP3PP1/RN3nK1 w - - 0 14,b6 might have tricked him... with the idea of c5...
+27,Kxf1,g1f1,r1b2rk1/ppp2ppp/2pb4/8/3BP2q/2PBQ2P/PP3PP1/RN3K2 b - - 0 14,b6 might have tricked him... with the idea of c5...
+28,Be6,c8e6,r4rk1/ppp2ppp/2pbb3/8/3BP2q/2PBQ2P/PP3PP1/RN3K2 w - - 1 15,b6 might have tricked him... with the idea of c5...
+29,Nd2,b1d2,r4rk1/ppp2ppp/2pbb3/8/3BP2q/2PBQ2P/PP1N1PP1/R4K2 b - - 2 15,b6 might have tricked him... with the idea of c5...
+30,c5,c6c5,r4rk1/ppp2ppp/3bb3/2p5/3BP2q/2PBQ2P/PP1N1PP1/R4K2 w - - 0 16,b6 might have tricked him... with the idea of c5...
+31,Bxc5,d4c5,r4rk1/ppp2ppp/3bb3/2B5/4P2q/2PBQ2P/PP1N1PP1/R4K2 b - - 0 16,?? Blunders a queen
+32,Bxc5,d6c5,r4rk1/ppp2ppp/4b3/2b5/4P2q/2PBQ2P/PP1N1PP1/R4K2 w - - 0 17,?? Blunders a queen
+33,Qxc5,e3c5,r4rk1/ppp2ppp/4b3/2Q5/4P2q/2PB3P/PP1N1PP1/R4K2 b - - 0 17,?? Blunders a queen
+34,c6,c7c6,r4rk1/pp3ppp/2p1b3/2Q5/4P2q/2PB3P/PP1N1PP1/R4K2 w - - 0 18,?? Blunders a queen
+35,Nf3,d2f3,r4rk1/pp3ppp/2p1b3/2Q5/4P2q/2PB1N1P/PP3PP1/R4K2 b - - 1 18,?? Blunders a queen
+36,Rfd8,f8d8,r2r2k1/pp3ppp/2p1b3/2Q5/4P2q/2PB1N1P/PP3PP1/R4K2 w - - 2 19,?? Blunders a queen
+37,Nxh4,f3h4,r2r2k1/pp3ppp/2p1b3/2Q5/4P2N/2PB3P/PP3PP1/R4K2 b - - 0 19,creative mate :-)
+38,Rxd3,d8d3,r5k1/pp3ppp/2p1b3/2Q5/4P2N/2Pr3P/PP3PP1/R4K2 w - - 0 20,creative mate :-)
+39,Qe7,c5e7,r5k1/pp2Qppp/2p1b3/8/4P2N/2Pr3P/PP3PP1/R4K2 b - - 1 20,creative mate :-)
+40,Bc4,e6c4,r5k1/pp2Qppp/2p5/8/2b1P2N/2Pr3P/PP3PP1/R4K2 w - - 2 21,creative mate :-)
+41,Kg1,f1g1,r5k1/pp2Qppp/2p5/8/2b1P2N/2Pr3P/PP3PP1/R5K1 b - - 3 21,good move
+42,Rad8,a8d8,3r2k1/pp2Qppp/2p5/8/2b1P2N/2Pr3P/PP3PP1/R5K1 w - - 4 22,"? Nf3 would have been better, defending the 2nd row against invasion"
+43,f3,f2f3,3r2k1/pp2Qppp/2p5/8/2b1P2N/2Pr1P1P/PP4P1/R5K1 b - - 0 22,"? Nf3 would have been better, defending the 2nd row against invasion"
+44,h6,h7h6,3r2k1/pp2Qpp1/2p4p/8/2b1P2N/2Pr1P1P/PP4P1/R5K1 w - - 0 23,"good move... activating the knight, eyeing d4 to disrupt the rooks"
+45,Nf5,h4f5,3r2k1/pp2Qpp1/2p4p/5N2/2b1P3/2Pr1P1P/PP4P1/R5K1 b - - 1 23,"good move... activating the knight, eyeing d4 to disrupt the rooks"
+46,Rd8d7,d8d7,6k1/pp1rQpp1/2p4p/5N2/2b1P3/2Pr1P1P/PP4P1/R5K1 w - - 2 24,:-)
+47,Qe8+,e7e8,4Q1k1/pp1r1pp1/2p4p/5N2/2b1P3/2Pr1P1P/PP4P1/R5K1 b - - 3 24,:-)
+48,Kh7,g8h7,4Q3/pp1r1ppk/2p4p/5N2/2b1P3/2Pr1P1P/PP4P1/R5K1 w - - 4 25,"Blunders; forced mate. g4, defending the king was an easy win for white."
+49,Nd4,f5d4,4Q3/pp1r1ppk/2p4p/8/2bNP3/2Pr1P1P/PP4P1/R5K1 b - - 5 25,"Blunders; forced mate. g4, defending the king was an easy win for white."
+50,Rd6,d7d6,4Q3/pp3ppk/2pr3p/8/2bNP3/2Pr1P1P/PP4P1/R5K1 w - - 6 26,"Blunders; forced mate. g4, defending the king was an easy win for white."
+51,Qe7,e8e7,8/pp2Qppk/2pr3p/8/2bNP3/2Pr1P1P/PP4P1/R5K1 b - - 7 26,"Blunders; forced mate. g4, defending the king was an easy win for white."
+52,Rf6,d6f6,8/pp2Qppk/2p2r1p/8/2bNP3/2Pr1P1P/PP4P1/R5K1 w - - 8 27,"Blunders; forced mate. g4, defending the king was an easy win for white."
+53,Qxb7,e7b7,8/pQ3ppk/2p2r1p/8/2bNP3/2Pr1P1P/PP4P1/R5K1 b - - 0 27,"Blunders; forced mate. g4, defending the king was an easy win for white."
+54,Rg6,f6g6,8/pQ3ppk/2p3rp/8/2bNP3/2Pr1P1P/PP4P1/R5K1 w - - 1 28,"Blunders; forced mate. g4, defending the king was an easy win for white."
+55,Qxa7,b7a7,8/Q4ppk/2p3rp/8/2bNP3/2Pr1P1P/PP4P1/R5K1 b - - 0 28,"Blunders; forced mate. g4, defending the king was an easy win for white."
+56,Rd2,d3d2,8/Q4ppk/2p3rp/8/2bNP3/2P2P1P/PP1r2P1/R5K1 w - - 1 29,"Blunders; forced mate. g4, defending the king was an easy win for white."
+57,Qc5,a7c5,8/5ppk/2p3rp/2Q5/2bNP3/2P2P1P/PP1r2P1/R5K1 b - - 2 29,"Blunders; forced mate. g4, defending the king was an easy win for white."
+58,Rgxg2+,g6g2,8/5ppk/2p4p/2Q5/2bNP3/2P2P1P/PP1r2r1/R5K1 w - - 0 30,
+59,Kh1,g1h1,8/5ppk/2p4p/2Q5/2bNP3/2P2P1P/PP1r2r1/R6K b - - 1 30,
+60,Rgh2+,g2h2,8/5ppk/2p4p/2Q5/2bNP3/2P2P1P/PP1r3r/R6K w - - 2 31,
+61,Kg1,h1g1,8/5ppk/2p4p/2Q5/2bNP3/2P2P1P/PP1r3r/R5K1 b - - 3 31,
+62,Rdg2#,d2g2,8/5ppk/2p4p/2Q5/2bNP3/2P2P1P/PP4rr/R5K1 w - - 4 32,

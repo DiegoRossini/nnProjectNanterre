@@ -1,0 +1,37 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,This game is included because of a possibility which came up. What I want you to do is to play through this and tell me what you would have done if White had played a differently on move 14.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My usual Sicilian
+3,d3,d2d3,rnbqkbnr/pp1ppppp/8/2p5/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2,"This is not too bad, although not very common, as it is not very aggressive."
+4,Nc6,b8c6,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/3P4/PPP2PPP/RNBQKBNR w KQkq - 1 3,"And this is bad, developing the knight to a bad square. The knight belongs on c3 or d2 where it has move influence on the centre."
+5,Na3,b1a3,r1bqkbnr/pp1ppppp/2n5/2p5/4P3/N2P4/PPP2PPP/R1BQKBNR b KQkq - 2 3,"And this is bad, developing the knight to a bad square. The knight belongs on c3 or d2 where it has move influence on the centre."
+6,d5,d7d5,r1bqkbnr/pp2pppp/2n5/2pp4/4P3/N2P4/PPP2PPP/R1BQKBNR w KQkq - 0 4,"I would not normally play this, as normally Black can just exchange pawns and play Nc3, but with the knight on a3 this is good."
+7,f3,f2f3,r1bqkbnr/pp2pppp/2n5/2pp4/4P3/N2P1P2/PPP3PP/R1BQKBNR b KQkq - 0 4,"I don't like this move either, Bd2 perhaps is better?"
+8,e5,e7e5,r1bqkbnr/pp3ppp/2n5/2ppp3/4P3/N2P1P2/PPP3PP/R1BQKBNR w KQkq - 0 5,Black now has a strong centre.
+9,exd5,e4d5,r1bqkbnr/pp3ppp/2n5/2pPp3/8/N2P1P2/PPP3PP/R1BQKBNR b KQkq - 0 5,This is inconsistent with the previous move.
+10,Qxd5,d8d5,r1b1kbnr/pp3ppp/2n5/2pqp3/8/N2P1P2/PPP3PP/R1BQKBNR w KQkq - 0 6,"A good move, threatening Nc7 check."
+11,Nb5,a3b5,r1b1kbnr/pp3ppp/2n5/1Npqp3/8/3P1P2/PPP3PP/R1BQKBNR b KQkq - 1 6,"A good move, threatening Nc7 check."
+12,Qd8,d5d8,r1bqkbnr/pp3ppp/2n5/1Np1p3/8/3P1P2/PPP3PP/R1BQKBNR w KQkq - 2 7,The knight should drop back to c3
+13,f4,f3f4,r1bqkbnr/pp3ppp/2n5/1Np1p3/5P2/3P4/PPP3PP/R1BQKBNR b KQkq - 0 7,The knight should drop back to c3
+14,a6,a7a6,r1bqkbnr/1p3ppp/p1n5/1Np1p3/5P2/3P4/PPP3PP/R1BQKBNR w KQkq - 0 8,The knight should drop back to c3
+15,Na3,b5a3,r1bqkbnr/1p3ppp/p1n5/2p1p3/5P2/N2P4/PPP3PP/R1BQKBNR b KQkq - 1 8,The knight should drop back to c3
+16,Bd6,f8d6,r1bqk1nr/1p3ppp/p1nb4/2p1p3/5P2/N2P4/PPP3PP/R1BQKBNR w KQkq - 2 9,White is going to find it hard to castle and complete development.
+17,Ne2,g1e2,r1bqk1nr/1p3ppp/p1nb4/2p1p3/5P2/N2P4/PPP1N1PP/R1BQKB1R b KQkq - 3 9,White is going to find it hard to castle and complete development.
+18,Bg4,c8g4,r2qk1nr/1p3ppp/p1nb4/2p1p3/5Pb1/N2P4/PPP1N1PP/R1BQKB1R w KQkq - 4 10,White is going to find it hard to castle and complete development.
+19,Nc4,a3c4,r2qk1nr/1p3ppp/p1nb4/2p1p3/2N2Pb1/3P4/PPP1N1PP/R1BQKB1R b KQkq - 5 10,White is going to find it hard to castle and complete development.
+20,Bc7,d6c7,r2qk1nr/1pb2ppp/p1n5/2p1p3/2N2Pb1/3P4/PPP1N1PP/R1BQKB1R w KQkq - 6 11,White is going to find it hard to castle and complete development.
+21,fxe5,f4e5,r2qk1nr/1pb2ppp/p1n5/2p1P3/2N3b1/3P4/PPP1N1PP/R1BQKB1R b KQkq - 0 11,White is going to find it hard to castle and complete development.
+22,Nxe5,c6e5,r2qk1nr/1pb2ppp/p7/2p1n3/2N3b1/3P4/PPP1N1PP/R1BQKB1R w KQkq - 0 12,White is going to find it hard to castle and complete development.
+23,Ne3,c4e3,r2qk1nr/1pb2ppp/p7/2p1n3/6b1/3PN3/PPP1N1PP/R1BQKB1R b KQkq - 1 12,White is going to find it hard to castle and complete development.
+24,Bh5,g4h5,r2qk1nr/1pb2ppp/p7/2p1n2b/8/3PN3/PPP1N1PP/R1BQKB1R w KQkq - 2 13,White is going to find it hard to castle and complete development.
+25,Rb1,a1b1,r2qk1nr/1pb2ppp/p7/2p1n2b/8/3PN3/PPP1N1PP/1RBQKB1R b Kkq - 3 13,"Now what would you do if Bd2? I wonder who will be the first to answer correctly, in a message to me please."
+26,Ba5+,c7a5,r2qk1nr/1p3ppp/p7/b1p1n2b/8/3PN3/PPP1N1PP/1RBQKB1R w Kkq - 4 14,"Now what would you do if Bd2? I wonder who will be the first to answer correctly, in a message to me please."
+27,c3,c2c3,r2qk1nr/1p3ppp/p7/b1p1n2b/8/2PPN3/PP2N1PP/1RBQKB1R b Kkq - 0 14,After this it becomes a massacre.
+28,Nxd3+,e5d3,r2qk1nr/1p3ppp/p7/b1p4b/8/2PnN3/PP2N1PP/1RBQKB1R w Kkq - 0 15,
+29,Kd2,e1d2,r2qk1nr/1p3ppp/p7/b1p4b/8/2PnN3/PP1KN1PP/1RBQ1B1R b kq - 1 15,
+30,Nf2+,d3f2,r2qk1nr/1p3ppp/p7/b1p4b/8/2P1N3/PP1KNnPP/1RBQ1B1R w kq - 2 16,
+31,Ke1,d2e1,r2qk1nr/1p3ppp/p7/b1p4b/8/2P1N3/PP2NnPP/1RBQKB1R b kq - 3 16,
+32,Nxd1,f2d1,r2qk1nr/1p3ppp/p7/b1p4b/8/2P1N3/PP2N1PP/1RBnKB1R w kq - 0 17,
+33,Nxd1,e3d1,r2qk1nr/1p3ppp/p7/b1p4b/8/2P5/PP2N1PP/1RBNKB1R b kq - 0 17,
+34,Qd3,d8d3,r3k1nr/1p3ppp/p7/b1p4b/8/2Pq4/PP2N1PP/1RBNKB1R w kq - 1 18,
+35,Nf2,d1f2,r3k1nr/1p3ppp/p7/b1p4b/8/2Pq4/PP2NNPP/1RB1KB1R b kq - 2 18,
+36,Qxb1,d3b1,r3k1nr/1p3ppp/p7/b1p4b/8/2P5/PP2NNPP/1qB1KB1R w kq - 0 19,

@@ -1,0 +1,80 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Starting white, my habitual ""testing the water"" Nf3."
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,No real surprise here.
+3,d4,d2d4,rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 2,No real surprise here.
+4,Bf5,c8f5,rn1qkbnr/ppp1pppp/8/3p1b2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 1 3,No real surprise here.
+5,e3,e2e3,rn1qkbnr/ppp1pppp/8/3p1b2/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3,No real surprise here.
+6,Nc6,b8c6,r2qkbnr/ppp1pppp/2n5/3p1b2/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4,No real surprise here.
+7,Bd3,f1d3,r2qkbnr/ppp1pppp/2n5/3p1b2/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 2 4,No real surprise here.
+8,Be4,f5e4,r2qkbnr/ppp1pppp/2n5/3p4/3Pb3/3BPN2/PPP2PPP/RNBQK2R w KQkq - 3 5,Would the better move for a knight been Nb4? Nf6 here I think is conservative and has both defensive and offensive value nevertheless.
+9,Nc3,b1c3,r2qkbnr/ppp1pppp/2n5/3p4/3Pb3/2NBPN2/PPP2PPP/R1BQK2R b KQkq - 4 5,Would the better move for a knight been Nb4? Nf6 here I think is conservative and has both defensive and offensive value nevertheless.
+10,Nf6,g8f6,r2qkb1r/ppp1pppp/2n2n2/3p4/3Pb3/2NBPN2/PPP2PPP/R1BQK2R w KQkq - 5 6,Would the better move for a knight been Nb4? Nf6 here I think is conservative and has both defensive and offensive value nevertheless.
+11,Ng5,f3g5,r2qkb1r/ppp1pppp/2n2n2/3p2N1/3Pb3/2NBP3/PPP2PPP/R1BQK2R b KQkq - 6 6,Not a smart move on retrospect. Obviously an invitation to exchange pieces and also to disrupt my castling option.
+12,Bxd3,e4d3,r2qkb1r/ppp1pppp/2n2n2/3p2N1/3P4/2NbP3/PPP2PPP/R1BQK2R w KQkq - 0 7,Rather early but safe-bet castling.
+13,Qxd3,d1d3,r2qkb1r/ppp1pppp/2n2n2/3p2N1/3P4/2NQP3/PPP2PPP/R1B1K2R b KQkq - 0 7,Rather early but safe-bet castling.
+14,h6,h7h6,r2qkb1r/ppp1ppp1/2n2n1p/3p2N1/3P4/2NQP3/PPP2PPP/R1B1K2R w KQkq - 0 8,Rather early but safe-bet castling.
+15,Nf3,g5f3,r2qkb1r/ppp1ppp1/2n2n1p/3p4/3P4/2NQPN2/PPP2PPP/R1B1K2R b KQkq - 1 8,Rather early but safe-bet castling.
+16,e6,e7e6,r2qkb1r/ppp2pp1/2n1pn1p/3p4/3P4/2NQPN2/PPP2PPP/R1B1K2R w KQkq - 0 9,Rather early but safe-bet castling.
+17,a3,a2a3,r2qkb1r/ppp2pp1/2n1pn1p/3p4/3P4/P1NQPN2/1PP2PPP/R1B1K2R b KQkq - 0 9,Rather early but safe-bet castling.
+18,Bd6,f8d6,r2qk2r/ppp2pp1/2nbpn1p/3p4/3P4/P1NQPN2/1PP2PPP/R1B1K2R w KQkq - 1 10,Rather early but safe-bet castling.
+19,O-O,e1g1,r2qk2r/ppp2pp1/2nbpn1p/3p4/3P4/P1NQPN2/1PP2PPP/R1B2RK1 b kq - 2 10,Rather early but safe-bet castling.
+20,O-O,e8g8,r2q1rk1/ppp2pp1/2nbpn1p/3p4/3P4/P1NQPN2/1PP2PPP/R1B2RK1 w - - 3 11,Rather early but safe-bet castling.
+21,b4,b2b4,r2q1rk1/ppp2pp1/2nbpn1p/3p4/1P1P4/P1NQPN2/2P2PPP/R1B2RK1 b - - 0 11,Trying to provoke another piece-exchanging opportunity.
+22,a6,a7a6,r2q1rk1/1pp2pp1/p1nbpn1p/3p4/1P1P4/P1NQPN2/2P2PPP/R1B2RK1 w - - 0 12,Trying to provoke another piece-exchanging opportunity.
+23,e4,e3e4,r2q1rk1/1pp2pp1/p1nbpn1p/3p4/1P1PP3/P1NQ1N2/2P2PPP/R1B2RK1 b - - 0 12,Trying to provoke another piece-exchanging opportunity.
+24,Re8,f8e8,r2qr1k1/1pp2pp1/p1nbpn1p/3p4/1P1PP3/P1NQ1N2/2P2PPP/R1B2RK1 w - - 1 13,Didn't end well for black...
+25,e5,e4e5,r2qr1k1/1pp2pp1/p1nbpn1p/3pP3/1P1P4/P1NQ1N2/2P2PPP/R1B2RK1 b - - 0 13,Didn't end well for black...
+26,Ng4,f6g4,r2qr1k1/1pp2pp1/p1nbp2p/3pP3/1P1P2n1/P1NQ1N2/2P2PPP/R1B2RK1 w - - 1 14,Didn't end well for black...
+27,exd6,e5d6,r2qr1k1/1pp2pp1/p1nPp2p/3p4/1P1P2n1/P1NQ1N2/2P2PPP/R1B2RK1 b - - 0 14,Didn't end well for black...
+28,Qxd6,d8d6,r3r1k1/1pp2pp1/p1nqp2p/3p4/1P1P2n1/P1NQ1N2/2P2PPP/R1B2RK1 w - - 0 15,I like my attacking motif so far.
+29,h3,h2h3,r3r1k1/1pp2pp1/p1nqp2p/3p4/1P1P2n1/P1NQ1N1P/2P2PP1/R1B2RK1 b - - 0 15,I like my attacking motif so far.
+30,Nf6,g4f6,r3r1k1/1pp2pp1/p1nqpn1p/3p4/1P1P4/P1NQ1N1P/2P2PP1/R1B2RK1 w - - 1 16,I like my attacking motif so far.
+31,b5,b4b5,r3r1k1/1pp2pp1/p1nqpn1p/1P1p4/3P4/P1NQ1N1P/2P2PP1/R1B2RK1 b - - 0 16,I like my attacking motif so far.
+32,Ne7,c6e7,r3r1k1/1pp1npp1/p2qpn1p/1P1p4/3P4/P1NQ1N1P/2P2PP1/R1B2RK1 w - - 1 17,This move may have holding off the progression of my knight to b5 in my mind...
+33,a4,a3a4,r3r1k1/1pp1npp1/p2qpn1p/1P1p4/P2P4/2NQ1N1P/2P2PP1/R1B2RK1 b - - 0 17,This move may have holding off the progression of my knight to b5 in my mind...
+34,a5,a6a5,r3r1k1/1pp1npp1/3qpn1p/pP1p4/P2P4/2NQ1N1P/2P2PP1/R1B2RK1 w - - 0 18,This move may have holding off the progression of my knight to b5 in my mind...
+35,Ba3,c1a3,r3r1k1/1pp1npp1/3qpn1p/pP1p4/P2P4/B1NQ1N1P/2P2PP1/R4RK1 b - - 1 18,...but did not stop my pursuit of the black queen.
+36,Qd7,d6d7,r3r1k1/1ppqnpp1/4pn1p/pP1p4/P2P4/B1NQ1N1P/2P2PP1/R4RK1 w - - 2 19,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+37,Ne5,f3e5,r3r1k1/1ppqnpp1/4pn1p/pP1pN3/P2P4/B1NQ3P/2P2PP1/R4RK1 b - - 3 19,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+38,Qd8,d7d8,r2qr1k1/1pp1npp1/4pn1p/pP1pN3/P2P4/B1NQ3P/2P2PP1/R4RK1 w - - 4 20,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+39,Bxe7,a3e7,r2qr1k1/1pp1Bpp1/4pn1p/pP1pN3/P2P4/2NQ3P/2P2PP1/R4RK1 b - - 0 20,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+40,Qxe7,d8e7,r3r1k1/1pp1qpp1/4pn1p/pP1pN3/P2P4/2NQ3P/2P2PP1/R4RK1 w - - 0 21,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+41,f4,f2f4,r3r1k1/1pp1qpp1/4pn1p/pP1pN3/P2P1P2/2NQ3P/2P3P1/R4RK1 b - - 0 21,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+42,b6,b7b6,r3r1k1/2p1qpp1/1p2pn1p/pP1pN3/P2P1P2/2NQ3P/2P3P1/R4RK1 w - - 0 22,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+43,Rae1,a1e1,r3r1k1/2p1qpp1/1p2pn1p/pP1pN3/P2P1P2/2NQ3P/2P3P1/4RRK1 b - - 1 22,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+44,Qd6,e7d6,r3r1k1/2p2pp1/1p1qpn1p/pP1pN3/P2P1P2/2NQ3P/2P3P1/4RRK1 w - - 2 23,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+45,f5,f4f5,r3r1k1/2p2pp1/1p1qpn1p/pP1pNP2/P2P4/2NQ3P/2P3P1/4RRK1 b - - 0 23,Maybe this advancement is the logical one but would I have better thing to do at this stage on hindsight?
+46,Rad8,a8d8,3rr1k1/2p2pp1/1p1qpn1p/pP1pNP2/P2P4/2NQ3P/2P3P1/4RRK1 w - - 1 24,Questionable move in an attempt to weaken the control of the mid-field.
+47,fxe6,f5e6,3rr1k1/2p2pp1/1p1qPn1p/pP1pN3/P2P4/2NQ3P/2P3P1/4RRK1 b - - 0 24,Questionable move in an attempt to weaken the control of the mid-field.
+48,Rxe6,e8e6,3r2k1/2p2pp1/1p1qrn1p/pP1pN3/P2P4/2NQ3P/2P3P1/4RRK1 w - - 0 25,The point where all hell break loose!!
+49,Nc6,e5c6,3r2k1/2p2pp1/1pNqrn1p/pP1p4/P2P4/2NQ3P/2P3P1/4RRK1 b - - 1 25,The point where all hell break loose!!
+50,Rde8,d8e8,4r1k1/2p2pp1/1pNqrn1p/pP1p4/P2P4/2NQ3P/2P3P1/4RRK1 w - - 2 26,The point where all hell break loose!!
+51,Re5,e1e5,4r1k1/2p2pp1/1pNqrn1p/pP1pR3/P2P4/2NQ3P/2P3P1/5RK1 b - - 3 26,The point where all hell break loose!!
+52,Nd7,f6d7,4r1k1/2pn1pp1/1pNqr2p/pP1pR3/P2P4/2NQ3P/2P3P1/5RK1 w - - 4 27,The point where all hell break loose!!
+53,Rxd5,e5d5,4r1k1/2pn1pp1/1pNqr2p/pP1R4/P2P4/2NQ3P/2P3P1/5RK1 b - - 0 27,The point where all hell break loose!!
+54,Re6e3,e6e3,4r1k1/2pn1pp1/1pNq3p/pP1R4/P2P4/2NQr2P/2P3P1/5RK1 w - - 1 28,The point where all hell break loose!!
+55,Rxd6,d5d6,4r1k1/2pn1pp1/1pNR3p/pP6/P2P4/2NQr2P/2P3P1/5RK1 b - - 0 28,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+56,Rxd3,e3d3,4r1k1/2pn1pp1/1pNR3p/pP6/P2P4/2Nr3P/2P3P1/5RK1 w - - 0 29,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+57,Rxd7,d6d7,4r1k1/2pR1pp1/1pN4p/pP6/P2P4/2Nr3P/2P3P1/5RK1 b - - 0 29,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+58,Rxc3,d3c3,4r1k1/2pR1pp1/1pN4p/pP6/P2P4/2r4P/2P3P1/5RK1 w - - 0 30,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+59,Rxc7,d7c7,4r1k1/2R2pp1/1pN4p/pP6/P2P4/2r4P/2P3P1/5RK1 b - - 0 30,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+60,Rxc2,c3c2,4r1k1/2R2pp1/1pN4p/pP6/P2P4/7P/2r3P1/5RK1 w - - 0 31,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+61,Rfxf7,f1f7,4r1k1/2R2Rp1/1pN4p/pP6/P2P4/7P/2r3P1/6K1 b - - 0 31,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+62,Ree2,e8e2,6k1/2R2Rp1/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 w - - 1 32,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+63,Rfxg7+,f7g7,6k1/2R3R1/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 b - - 0 32,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+64,Kf8,g8f8,5k2/2R3R1/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 w - - 1 33,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+65,Rgf7+,g7f7,5k2/2R2R2/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 b - - 2 33,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+66,Ke8,f8e8,4k3/2R2R2/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 w - - 3 34,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+67,Rfg7,f7g7,4k3/2R3R1/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 b - - 4 34,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+68,Kf8,e8f8,5k2/2R3R1/1pN4p/pP6/P2P4/7P/2r1r1P1/6K1 w - - 5 35,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+69,Rg6,g7g6,5k2/2R5/1pN3Rp/pP6/P2P4/7P/2r1r1P1/6K1 b - - 6 35,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+70,h5,h6h5,5k2/2R5/1pN3R1/pP5p/P2P4/7P/2r1r1P1/6K1 w - - 0 36,"Didn't see this move more than merely to escape being consumed, but it did give me an idea to also use my pawn to achieve the ultimate glory..."
+71,d5,d4d5,5k2/2R5/1pN3R1/pP1P3p/P7/7P/2r1r1P1/6K1 b - - 0 36,"So, being checkmated in one move? Wrong, think again!"
+72,h4,h5h4,5k2/2R5/1pN3R1/pP1P4/P6p/7P/2r1r1P1/6K1 w - - 0 37,"So, being checkmated in one move? Wrong, think again!"
+73,d6,d5d6,5k2/2R5/1pNP2R1/pP6/P6p/7P/2r1r1P1/6K1 b - - 0 37,"So, being checkmated in one move? Wrong, think again!"
+74,Rc1+,c2c1,5k2/2R5/1pNP2R1/pP6/P6p/7P/4r1P1/2r3K1 w - - 1 38,"So, being checkmated in one move? Wrong, think again!"
+75,Kh2,g1h2,5k2/2R5/1pNP2R1/pP6/P6p/7P/4r1PK/2r5 b - - 2 38,"So, being checkmated in one move? Wrong, think again!"
+76,Ree1,e2e1,5k2/2R5/1pNP2R1/pP6/P6p/7P/6PK/2r1r3 w - - 3 39,"So, being checkmated in one move? Wrong, think again!"
+77,Rf6+,g6f6,5k2/2R5/1pNP1R2/pP6/P6p/7P/6PK/2r1r3 b - - 4 39,Kg8 means definitely losing the rook on c1 and giving the pawn on d6 a chance to turn into something nasty...and so Ke8. And so the bang to follow.
+78,Ke8,f8e8,4k3/2R5/1pNP1R2/pP6/P6p/7P/6PK/2r1r3 w - - 5 40,Kg8 means definitely losing the rook on c1 and giving the pawn on d6 a chance to turn into something nasty...and so Ke8. And so the bang to follow.
+79,d7#,d6d7,4k3/2RP4/1pN2R2/pP6/P6p/7P/6PK/2r1r3 b - - 0 40,

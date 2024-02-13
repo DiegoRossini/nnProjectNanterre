@@ -1,0 +1,24 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My second annotated game with the Bishop's gambit.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My second annotated game with the Bishop's gambit.
+3,f4,f2f4,rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2,My second annotated game with the Bishop's gambit.
+4,exf4,e5f4,rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3,My second annotated game with the Bishop's gambit.
+5,Bc4,f1c4,rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3,My second annotated game with the Bishop's gambit.
+6,Bc5,f8c5,rnbqk1nr/pppp1ppp/8/2b5/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4,This is not a move I have seen before and the game shows why.
+7,Bxf7+,c4f7,rnbqk1nr/pppp1Bpp/8/2b5/4Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 0 4,If Kxf7 then Qxh5 picks up Bc5. It is not clear to me which is better.
+8,Kf8,e8f8,rnbq1knr/pppp1Bpp/8/2b5/4Pp2/8/PPPP2PP/RNBQK1NR w KQ - 1 5,If Kxf7 then Qxh5 picks up Bc5. It is not clear to me which is better.
+9,Qh5,d1h5,rnbq1knr/pppp1Bpp/8/2b4Q/4Pp2/8/PPPP2PP/RNB1K1NR b KQ - 2 5,I think this is forced since retreating the bishop meets with Qh4+ and horribleness for white
+10,Qe7,d8e7,rnb2knr/ppppqBpp/8/2b4Q/4Pp2/8/PPPP2PP/RNB1K1NR w KQ - 3 6,Eyeing both the bishop and e4 with check.
+11,Bxg8,f7g8,rnb2kBr/ppppq1pp/8/2b4Q/4Pp2/8/PPPP2PP/RNB1K1NR b KQ - 0 6,Forced since retreating the bishop allows black to play Nf6 chasing the Queen off and gaining the initiative and probably the advantage.
+12,Qxe4+,e7e4,rnb2kBr/pppp2pp/8/2b4Q/4qp2/8/PPPP2PP/RNB1K1NR w KQ - 0 7,"A somewhat logical move since the pawn is taken with check, but after the knight covers the king black can not both take my bishop and protect his own. Better is simply taking 6. ... Kxg8 and after 7.d3 aim to play g6, d6 and trying to defend the position."
+13,Ne2,g1e2,rnb2kBr/pppp2pp/8/2b4Q/4qp2/8/PPPPN1PP/RNB1K2R b KQ - 1 7,"Black has no time for pawn-grabbing, however tempting. Black needs to develop desperately, so 9. ... Nc6 seems logical."
+14,Kxg8,f8g8,rnb3kr/pppp2pp/8/2b4Q/4qp2/8/PPPPN1PP/RNB1K2R w KQ - 0 8,"Black has no time for pawn-grabbing, however tempting. Black needs to develop desperately, so 9. ... Nc6 seems logical."
+15,Qxc5,h5c5,rnb3kr/pppp2pp/8/2Q5/4qp2/8/PPPPN1PP/RNB1K2R b KQ - 0 8,"Black has no time for pawn-grabbing, however tempting. Black needs to develop desperately, so 9. ... Nc6 seems logical."
+16,Qxg2,e4g2,rnb3kr/pppp2pp/8/2Q5/5p2/8/PPPPN1qP/RNB1K2R w KQ - 0 9,"Black has no time for pawn-grabbing, however tempting. Black needs to develop desperately, so 9. ... Nc6 seems logical."
+17,Rg1,h1g1,rnb3kr/pppp2pp/8/2Q5/5p2/8/PPPPN1qP/RNB1K1R1 b Q - 1 9,A lot of white's moves are nearly forced and good at the same time. This forces black to retreat
+18,Qxh2,g2h2,rnb3kr/pppp2pp/8/2Q5/5p2/8/PPPPN2q/RNB1K1R1 w Q - 0 10,The pawn that broke the camel's back; black grabs another pawn overlooking the Queen trap: Qd5+ followed by Rh1.
+19,Qd5+,c5d5,rnb3kr/pppp2pp/8/3Q4/5p2/8/PPPPN2q/RNB1K1R1 b Q - 1 10,Probably hoping for RxQh2
+20,Kf8,g8f8,rnb2k1r/pppp2pp/8/3Q4/5p2/8/PPPPN2q/RNB1K1R1 w Q - 2 11,Probably hoping for RxQh2
+21,Rh1,g1h1,rnb2k1r/pppp2pp/8/3Q4/5p2/8/PPPPN2q/RNB1K2R b Q - 3 11,Probably hoping for RxQh2
+22,c6,c7c6,rnb2k1r/pp1p2pp/2p5/3Q4/5p2/8/PPPPN2q/RNB1K2R w Q - 0 12,Probably hoping for RxQh2
+23,Qd6+,d5d6,rnb2k1r/pp1p2pp/2pQ4/8/5p2/8/PPPPN2q/RNB1K2R b Q - 1 12,And now the queen is lost and black resigned.

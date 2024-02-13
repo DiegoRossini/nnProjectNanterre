@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,I don't really like Queen Pawn openings but went with it
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,I don't really like Queen Pawn openings but went with it
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 2,"The dreaded pin, which was expected hence 2. e6"
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3,"The dreaded pin, which was expected hence 2. e6"
+5,Nf3,g1f3,rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3,"The dreaded pin, which was expected hence 2. e6"
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4,"The dreaded pin, which was expected hence 2. e6"
+7,Bg5,c1g5,rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 3 4,"The dreaded pin, which was expected hence 2. e6"
+8,Nc6,b8c6,r1bqkb1r/ppp2ppp/2n1pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 4 5,Looking to finachetto as my pawn one6 is blocking development and I thought the pawn on d5 would be exchanged
+9,e3,e2e3,r1bqkb1r/ppp2ppp/2n1pn2/3p2B1/2PP4/4PN2/PP3PPP/RN1QKB1R b KQkq - 0 5,Looking to finachetto as my pawn one6 is blocking development and I thought the pawn on d5 would be exchanged
+10,b6,b7b6,r1bqkb1r/p1p2ppp/1pn1pn2/3p2B1/2PP4/4PN2/PP3PPP/RN1QKB1R w KQkq - 0 6,Looking to finachetto as my pawn one6 is blocking development and I thought the pawn on d5 would be exchanged
+11,Nc3,b1c3,r1bqkb1r/p1p2ppp/1pn1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 1 6,Trying to get George to safety before the fight begins
+12,Bb7,c8b7,r2qkb1r/pbp2ppp/1pn1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 2 7,Trying to get George to safety before the fight begins
+13,Qa4,d1a4,r2qkb1r/pbp2ppp/1pn1pn2/3p2B1/Q1PP4/2N1PN2/PP3PPP/R3KB1R b KQkq - 3 7,Trying to get George to safety before the fight begins
+14,Bd6,f8d6,r2qk2r/pbp2ppp/1pnbpn2/3p2B1/Q1PP4/2N1PN2/PP3PPP/R3KB1R w KQkq - 4 8,Trying to get George to safety before the fight begins
+15,cxd5,c4d5,r2qk2r/pbp2ppp/1pnbpn2/3P2B1/Q2P4/2N1PN2/PP3PPP/R3KB1R b KQkq - 0 8,Exchange
+16,exd5,e6d5,r2qk2r/pbp2ppp/1pnb1n2/3p2B1/Q2P4/2N1PN2/PP3PPP/R3KB1R w KQkq - 0 9,Exchange
+17,Nxd5,c3d5,r2qk2r/pbp2ppp/1pnb1n2/3N2B1/Q2P4/4PN2/PP3PPP/R3KB1R b KQkq - 0 9,"Here I only tried to keep some integrity in my position and had to defend with the bishop, taking with the G pawn would force me to castle to the queen sided. If he then exchanged on c3 the a7 pawn would possibly not hold"
+18,Be7,d6e7,r2qk2r/pbp1bppp/1pn2n2/3N2B1/Q2P4/4PN2/PP3PPP/R3KB1R w KQkq - 1 10,"Here I only tried to keep some integrity in my position and had to defend with the bishop, taking with the G pawn would force me to castle to the queen sided. If he then exchanged on c3 the a7 pawn would possibly not hold"
+19,Nb4,d5b4,r2qk2r/pbp1bppp/1pn2n2/6B1/QN1P4/4PN2/PP3PPP/R3KB1R b KQkq - 2 10,He backs of which was a mistake because b4 is under double attack....
+20,Bxb4+,e7b4,r2qk2r/pbp2ppp/1pn2n2/6B1/Qb1P4/4PN2/PP3PPP/R3KB1R w KQkq - 0 11,And there is check included in the deal so I am taking over the iniciative
+21,Nd2,f3d2,r2qk2r/pbp2ppp/1pn2n2/6B1/Qb1P4/4P3/PP1N1PPP/R3KB1R b KQkq - 1 11,Finally getting the King out of the way to free up the knight on c3 if needed
+22,O-O,e8g8,r2q1rk1/pbp2ppp/1pn2n2/6B1/Qb1P4/4P3/PP1N1PPP/R3KB1R w KQ - 2 12,Finally getting the King out of the way to free up the knight on c3 if needed
+23,Bb5,f1b5,r2q1rk1/pbp2ppp/1pn2n2/1B4B1/Qb1P4/4P3/PP1N1PPP/R3K2R b KQ - 3 12,"This would have been a nice pin before 11. O-O, now it is only a menace as I saw he could not swing the momentum back even if I had to play Qd7 later on to defend"
+24,Bxd2+,b4d2,r2q1rk1/pbp2ppp/1pn2n2/1B4B1/Q2P4/4P3/PP1b1PPP/R3K2R w KQ - 0 13,"Keeping up the pressure with the intention to break the pin on f4 by his bishop, so I had to draw the king out from the back rank"
+25,Kxd2,e1d2,r2q1rk1/pbp2ppp/1pn2n2/1B4B1/Q2P4/4P3/PP1K1PPP/R6R b - - 0 13,"Here my opponent resigned, I would be up another piece no matter what he played.
+
+I was hoping he would play a greedy blunder for the poetic sacrifice to stop the mate 14. d3 Qxg5 15. Kxe4 Nb4+ 16. Bc6 Bxc6+ 17. Qxc6 Nxc6 but I was happy to take the win none the less."
+26,Ne4+,f6e4,r2q1rk1/pbp2ppp/1pn5/1B4B1/Q2Pn3/4P3/PP1K1PPP/R6R w - - 1 14,"Here my opponent resigned, I would be up another piece no matter what he played.
+
+I was hoping he would play a greedy blunder for the poetic sacrifice to stop the mate 14. d3 Qxg5 15. Kxe4 Nb4+ 16. Bc6 Bxc6+ 17. Qxc6 Nxc6 but I was happy to take the win none the less."

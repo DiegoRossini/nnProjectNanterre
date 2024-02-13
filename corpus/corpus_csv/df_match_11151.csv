@@ -1,0 +1,89 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e3,e2e3,rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1,? Interesting - in for an easy ride?
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR w KQkq - 0 2,? places a pawn which is immediately threatened!
+3,Qf3,d1f3,rnbqkbnr/pppp1ppp/8/4p3/8/4PQ2/PPPP1PPP/RNB1KBNR b KQkq - 1 2,? places a pawn which is immediately threatened!
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/8/4PQ2/PPPP1PPP/RNB1KBNR w KQkq - 2 3,? places a pawn which is immediately threatened!
+5,Bc4,f1c4,r1bqkbnr/pppp1ppp/2n5/4p3/2B5/4PQ2/PPPP1PPP/RNB1K1NR b KQkq - 3 3,? places a pawn which is immediately threatened!
+6,Nf6,g8f6,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B5/4PQ2/PPPP1PPP/RNB1K1NR w KQkq - 4 4,? places a pawn which is immediately threatened!
+7,g4,g2g4,r1bqkb1r/pppp1ppp/2n2n2/4p3/2B3P1/4PQ2/PPPP1P1P/RNB1K1NR b KQkq - 0 4,? places a pawn which is immediately threatened!
+8,d5,d7d5,r1bqkb1r/ppp2ppp/2n2n2/3pp3/2B3P1/4PQ2/PPPP1P1P/RNB1K1NR w KQkq - 0 5,"strong move; attacks bishop, develops centre, wins pawn"
+9,Bb3,c4b3,r1bqkb1r/ppp2ppp/2n2n2/3pp3/6P1/1B2PQ2/PPPP1P1P/RNB1K1NR b KQkq - 1 5,preps 0-0-0; secures B on g4
+10,Bxg4,c8g4,r2qkb1r/ppp2ppp/2n2n2/3pp3/6b1/1B2PQ2/PPPP1P1P/RNB1K1NR w KQkq - 0 6,preps 0-0-0; secures B on g4
+11,Qg3,f3g3,r2qkb1r/ppp2ppp/2n2n2/3pp3/6b1/1B2P1Q1/PPPP1P1P/RNB1K1NR b KQkq - 1 6,preps 0-0-0; secures B on g4
+12,Qd7,d8d7,r3kb1r/pppq1ppp/2n2n2/3pp3/6b1/1B2P1Q1/PPPP1P1P/RNB1K1NR w KQkq - 2 7,preps 0-0-0; secures B on g4
+13,h3,h2h3,r3kb1r/pppq1ppp/2n2n2/3pp3/6b1/1B2P1QP/PPPP1P2/RNB1K1NR b KQkq - 0 7,"wins space, advances centre, prevents White's black bishop from doing anything... premature?
+Better to prevent..."
+14,Bf5,g4f5,r3kb1r/pppq1ppp/2n2n2/3ppb2/8/1B2P1QP/PPPP1P2/RNB1K1NR w KQkq - 1 8,"wins space, advances centre, prevents White's black bishop from doing anything... premature?
+Better to prevent..."
+15,Nc3,b1c3,r3kb1r/pppq1ppp/2n2n2/3ppb2/8/1BN1P1QP/PPPP1P2/R1B1K1NR b KQkq - 2 8,"wins space, advances centre, prevents White's black bishop from doing anything... premature?
+Better to prevent..."
+16,e4,e5e4,r3kb1r/pppq1ppp/2n2n2/3p1b2/4p3/1BN1P1QP/PPPP1P2/R1B1K1NR w KQkq - 0 9,"wins space, advances centre, prevents White's black bishop from doing anything... premature?
+Better to prevent..."
+17,Nb5,c3b5,r3kb1r/pppq1ppp/2n2n2/1N1p1b2/4p3/1B2P1QP/PPPP1P2/R1B1K1NR b KQkq - 1 9,strong attack on pawn cover after 0-0-0
+18,Bd6,f8d6,r3k2r/pppq1ppp/2nb1n2/1N1p1b2/4p3/1B2P1QP/PPPP1P2/R1B1K1NR w KQkq - 2 10,exposes g pawn. spotted or not!
+19,f4,f2f4,r3k2r/pppq1ppp/2nb1n2/1N1p1b2/4pP2/1B2P1QP/PPPP4/R1B1K1NR b KQkq f3 0 10,?? wastes time in attack - here's chance to re-establish defence!
+20,Bb4,d6b4,r3k2r/pppq1ppp/2n2n2/1N1p1b2/1b2pP2/1B2P1QP/PPPP4/R1B1K1NR w KQkq - 1 11,but no - swings bishop into unnecessary attack...
+21,c3,c2c3,r3k2r/pppq1ppp/2n2n2/1N1p1b2/1b2pP2/1BP1P1QP/PP1P4/R1B1K1NR b KQkq - 0 11,easy reply
+22,Ba5,b4a5,r3k2r/pppq1ppp/2n2n2/bN1p1b2/4pP2/1BP1P1QP/PP1P4/R1B1K1NR w KQkq - 1 12,stubborn response
+23,Qxg7,g3g7,r3k2r/pppq1pQp/2n2n2/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR b KQkq - 0 12,inevitable
+24,Rg8,h8g8,r3k1r1/pppq1pQp/2n2n2/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR w KQq - 1 13,?? Ke7 would have prevented...
+25,Qxf6,g7f6,r3k1r1/pppq1p1p/2n2Q2/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR b KQq - 0 13,lost material!
+26,Rg6,g8g6,r3k3/pppq1p1p/2n2Qr1/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR w KQq - 1 14,"?? Without thought - no need to attack Q, better to secure king!"
+27,Qh8+,f6h8,r3k2Q/pppq1p1p/2n3r1/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR b KQq - 2 14,game over
+28,Ke7,e8e7,r6Q/pppqkp1p/2n3r1/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR w KQ - 3 15,"hand over more material...
+it's a wonder the game continued for so long!"
+29,Qxa8,h8a8,Q7/pppqkp1p/2n3r1/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR b KQ - 0 15,"hand over more material...
+it's a wonder the game continued for so long!"
+30,Rh6,g6h6,Q7/pppqkp1p/2n4r/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR w KQ - 1 16,"hand over more material...
+it's a wonder the game continued for so long!"
+31,Qxb7,a8b7,8/pQpqkp1p/2n4r/bN1p1b2/4pP2/1BP1P2P/PP1P4/R1B1K1NR b KQ - 0 16,"hand over more material...
+it's a wonder the game continued for so long!"
+32,Bg4,f5g4,8/pQpqkp1p/2n4r/bN1p4/4pPb1/1BP1P2P/PP1P4/R1B1K1NR w KQ - 1 17,"hand over more material...
+it's a wonder the game continued for so long!"
+33,Bd1,b3d1,8/pQpqkp1p/2n4r/bN1p4/4pPb1/2P1P2P/PP1P4/R1BBK1NR b KQ - 2 17,
+34,Rxh3,h6h3,8/pQpqkp1p/2n5/bN1p4/4pPb1/2P1P2r/PP1P4/R1BBK1NR w KQ - 0 18,
+35,Nxh3,g1h3,8/pQpqkp1p/2n5/bN1p4/4pPb1/2P1P2N/PP1P4/R1BBK2R b KQ - 0 18,
+36,Bxh3,g4h3,8/pQpqkp1p/2n5/bN1p4/4pP2/2P1P2b/PP1P4/R1BBK2R w KQ - 0 19,
+37,Rxh3,h1h3,8/pQpqkp1p/2n5/bN1p4/4pP2/2P1P2R/PP1P4/R1BBK3 b Q - 0 19,
+38,Qxh3,d7h3,8/pQp1kp1p/2n5/bN1p4/4pP2/2P1P2q/PP1P4/R1BBK3 w Q - 0 20,
+39,b4,b2b4,8/pQp1kp1p/2n5/bN1p4/1P2pP2/2P1P2q/P2P4/R1BBK3 b Q - 0 20,
+40,Qh1+,h3h1,8/pQp1kp1p/2n5/bN1p4/1P2pP2/2P1P3/P2P4/R1BBK2q w Q - 1 21,
+41,Ke2,e1e2,8/pQp1kp1p/2n5/bN1p4/1P2pP2/2P1P3/P2PK3/R1BB3q b - - 2 21,
+42,Nd8,c6d8,3n4/pQp1kp1p/8/bN1p4/1P2pP2/2P1P3/P2PK3/R1BB3q w - - 3 22,
+43,Qxa7,b7a7,3n4/Q1p1kp1p/8/bN1p4/1P2pP2/2P1P3/P2PK3/R1BB3q b - - 0 22,
+44,Bb6,a5b6,3n4/Q1p1kp1p/1b6/1N1p4/1P2pP2/2P1P3/P2PK3/R1BB3q w - - 1 23,
+45,Bb2,c1b2,3n4/Q1p1kp1p/1b6/1N1p4/1P2pP2/2P1P3/PB1PK3/R2B3q b - - 2 23,
+46,Bxa7,b6a7,3n4/b1p1kp1p/8/1N1p4/1P2pP2/2P1P3/PB1PK3/R2B3q w - - 0 24,
+47,Nxa7,b5a7,3n4/N1p1kp1p/8/3p4/1P2pP2/2P1P3/PB1PK3/R2B3q b - - 0 24,
+48,f5,f7f5,3n4/N1p1k2p/8/3p1p2/1P2pP2/2P1P3/PB1PK3/R2B3q w - - 0 25,
+49,Bb3,d1b3,3n4/N1p1k2p/8/3p1p2/1P2pP2/1BP1P3/PB1PK3/R6q b - - 1 25,
+50,Qg2+,h1g2,3n4/N1p1k2p/8/3p1p2/1P2pP2/1BP1P3/PB1PK1q1/R7 w - - 2 26,
+51,Kd1,e2d1,3n4/N1p1k2p/8/3p1p2/1P2pP2/1BP1P3/PB1P2q1/R2K4 b - - 3 26,
+52,Nf7,d8f7,8/N1p1kn1p/8/3p1p2/1P2pP2/1BP1P3/PB1P2q1/R2K4 w - - 4 27,
+53,Nc6+,a7c6,8/2p1kn1p/2N5/3p1p2/1P2pP2/1BP1P3/PB1P2q1/R2K4 b - - 5 27,
+54,Kd7,e7d7,8/2pk1n1p/2N5/3p1p2/1P2pP2/1BP1P3/PB1P2q1/R2K4 w - - 6 28,
+55,Bxd5,b3d5,8/2pk1n1p/2N5/3B1p2/1P2pP2/2P1P3/PB1P2q1/R2K4 b - - 0 28,
+56,Nh6,f7h6,8/2pk3p/2N4n/3B1p2/1P2pP2/2P1P3/PB1P2q1/R2K4 w - - 1 29,
+57,Ne5+,c6e5,8/2pk3p/7n/3BNp2/1P2pP2/2P1P3/PB1P2q1/R2K4 b - - 2 29,
+58,Kd6,d7d6,8/2p4p/3k3n/3BNp2/1P2pP2/2P1P3/PB1P2q1/R2K4 w - - 3 30,
+59,c4,c3c4,8/2p4p/3k3n/3BNp2/1PP1pP2/4P3/PB1P2q1/R2K4 b - - 0 30,
+60,Ng4,h6g4,8/2p4p/3k4/3BNp2/1PP1pPn1/4P3/PB1P2q1/R2K4 w - - 1 31,
+61,Nxg4,e5g4,8/2p4p/3k4/3B1p2/1PP1pPN1/4P3/PB1P2q1/R2K4 b - - 0 31,
+62,Qxg4+,g2g4,8/2p4p/3k4/3B1p2/1PP1pPq1/4P3/PB1P4/R2K4 w - - 0 32,
+63,Kc2,d1c2,8/2p4p/3k4/3B1p2/1PP1pPq1/4P3/PBKP4/R7 b - - 1 32,
+64,h5,h7h5,8/2p5/3k4/3B1p1p/1PP1pPq1/4P3/PBKP4/R7 w - - 0 33,
+65,a4,a2a4,8/2p5/3k4/3B1p1p/PPP1pPq1/4P3/1BKP4/R7 b - - 0 33,
+66,h4,h5h4,8/2p5/3k4/3B1p2/PPP1pPqp/4P3/1BKP4/R7 w - - 0 34,
+67,a5,a4a5,8/2p5/3k4/P2B1p2/1PP1pPqp/4P3/1BKP4/R7 b - - 0 34,
+68,h3,h4h3,8/2p5/3k4/P2B1p2/1PP1pPq1/4P2p/1BKP4/R7 w - - 0 35,
+69,a6,a5a6,8/2p5/P2k4/3B1p2/1PP1pPq1/4P2p/1BKP4/R7 b - - 0 35,
+70,h2,h3h2,8/2p5/P2k4/3B1p2/1PP1pPq1/4P3/1BKP3p/R7 w - - 0 36,
+71,a7,a6a7,8/P1p5/3k4/3B1p2/1PP1pPq1/4P3/1BKP3p/R7 b - - 0 36,
+72,Qh4,g4h4,8/P1p5/3k4/3B1p2/1PP1pP1q/4P3/1BKP3p/R7 w - - 1 37,
+73,a8=Q,a7a8q,Q7/2p5/3k4/3B1p2/1PP1pP1q/4P3/1BKP3p/R7 b - - 0 37,
+74,Kd7,d6d7,Q7/2pk4/8/3B1p2/1PP1pP1q/4P3/1BKP3p/R7 w - - 1 38,
+75,Qc6+,a8c6,8/2pk4/2Q5/3B1p2/1PP1pP1q/4P3/1BKP3p/R7 b - - 2 38,
+76,Kd8,d7d8,3k4/2p5/2Q5/3B1p2/1PP1pP1q/4P3/1BKP3p/R7 w - - 3 39,
+77,Ra8+,a1a8,R2k4/2p5/2Q5/3B1p2/1PP1pP1q/4P3/1BKP3p/8 b - - 4 39,
+78,Ke7,d8e7,R7/2p1k3/2Q5/3B1p2/1PP1pP1q/4P3/1BKP3p/8 w - - 5 40,
+79,Re8#,a8e8,4R3/2p1k3/2Q5/3B1p2/1PP1pP1q/4P3/1BKP3p/8 b - - 6 40,

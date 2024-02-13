@@ -1,0 +1,98 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,d4,d2d4,rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1,might have been a little early
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2,might have been a little early
+3,Nc3,b1c3,rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2,might have been a little early
+4,Nc6,b8c6,r1bqkbnr/ppp1pppp/2n5/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3,might have been a little early
+5,Bg5,c1g5,r1bqkbnr/ppp1pppp/2n5/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3,might have been a little early
+6,f6,f7f6,r1bqkbnr/ppp1p1pp/2n2p2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 4,had to bring the other bishop out
+7,Bh4,g5h4,r1bqkbnr/ppp1p1pp/2n2p2/3p4/3P3B/2N5/PPP1PPPP/R2QKBNR b KQkq - 1 4,had to bring the other bishop out
+8,g5,g7g5,r1bqkbnr/ppp1p2p/2n2p2/3p2p1/3P3B/2N5/PPP1PPPP/R2QKBNR w KQkq - 0 5,had to bring the other bishop out
+9,Bg3,h4g3,r1bqkbnr/ppp1p2p/2n2p2/3p2p1/3P4/2N3B1/PPP1PPPP/R2QKBNR b KQkq - 1 5,had to bring the other bishop out
+10,Nh6,g8h6,r1bqkb1r/ppp1p2p/2n2p1n/3p2p1/3P4/2N3B1/PPP1PPPP/R2QKBNR w KQkq - 2 6,had to bring the other bishop out
+11,e3,e2e3,r1bqkb1r/ppp1p2p/2n2p1n/3p2p1/3P4/2N1P1B1/PPP2PPP/R2QKBNR b KQkq - 0 6,had to bring the other bishop out
+12,Ng4,h6g4,r1bqkb1r/ppp1p2p/2n2p2/3p2p1/3P2n1/2N1P1B1/PPP2PPP/R2QKBNR w KQkq - 1 7,i do not the knight there
+13,h3,h2h3,r1bqkb1r/ppp1p2p/2n2p2/3p2p1/3P2n1/2N1P1BP/PPP2PP1/R2QKBNR b KQkq - 0 7,thats better
+14,Nh6,g4h6,r1bqkb1r/ppp1p2p/2n2p1n/3p2p1/3P4/2N1P1BP/PPP2PP1/R2QKBNR w KQkq - 1 8,thats better
+15,Qh5+,d1h5,r1bqkb1r/ppp1p2p/2n2p1n/3p2pQ/3P4/2N1P1BP/PPP2PP1/R3KBNR b KQkq - 2 8,"ok even better, now its pinned"
+16,Nf7,h6f7,r1bqkb1r/ppp1pn1p/2n2p2/3p2pQ/3P4/2N1P1BP/PPP2PP1/R3KBNR w KQkq - 3 9,"ok even better, now its pinned"
+17,a3,a2a3,r1bqkb1r/ppp1pn1p/2n2p2/3p2pQ/3P4/P1N1P1BP/1PP2PP1/R3KBNR b KQkq - 0 9,to stop Nb4
+18,Bf5,c8f5,r2qkb1r/ppp1pn1p/2n2p2/3p1bpQ/3P4/P1N1P1BP/1PP2PP1/R3KBNR w KQkq - 1 10,had to protect c2
+19,O-O-O,e1c1,r2qkb1r/ppp1pn1p/2n2p2/3p1bpQ/3P4/P1N1P1BP/1PP2PP1/2KR1BNR b kq - 2 10,had to protect c2
+20,Qd7,d8d7,r3kb1r/pppqpn1p/2n2p2/3p1bpQ/3P4/P1N1P1BP/1PP2PP1/2KR1BNR w kq - 3 11,and he locks me out
+21,Qe2,h5e2,r3kb1r/pppqpn1p/2n2p2/3p1bp1/3P4/P1N1P1BP/1PP1QPP1/2KR1BNR b kq - 4 11,and he locks me out
+22,g4,g5g4,r3kb1r/pppqpn1p/2n2p2/3p1b2/3P2p1/P1N1P1BP/1PP1QPP1/2KR1BNR w kq - 0 12,and he locks me out
+23,hxg4,h3g4,r3kb1r/pppqpn1p/2n2p2/3p1b2/3P2P1/P1N1P1B1/1PP1QPP1/2KR1BNR b kq - 0 12,i though about trading the knight off but decided against it
+24,Bxg4,f5g4,r3kb1r/pppqpn1p/2n2p2/3p4/3P2b1/P1N1P1B1/1PP1QPP1/2KR1BNR w kq - 0 13,i though about trading the knight off but decided against it
+25,f3,f2f3,r3kb1r/pppqpn1p/2n2p2/3p4/3P2b1/P1N1PPB1/1PP1Q1P1/2KR1BNR b kq - 0 13,i though about trading the knight off but decided against it
+26,Be6,g4e6,r3kb1r/pppqpn1p/2n1bp2/3p4/3P4/P1N1PPB1/1PP1Q1P1/2KR1BNR w kq - 1 14,i though about trading the knight off but decided against it
+27,Qd2,e2d2,r3kb1r/pppqpn1p/2n1bp2/3p4/3P4/P1N1PPB1/1PPQ2P1/2KR1BNR b kq - 2 14,i though about trading the knight off but decided against it
+28,Nd6,f7d6,r3kb1r/pppqp2p/2nnbp2/3p4/3P4/P1N1PPB1/1PPQ2P1/2KR1BNR w kq - 3 15,i though about trading the knight off but decided against it
+29,Bd3,f1d3,r3kb1r/pppqp2p/2nnbp2/3p4/3P4/P1NBPPB1/1PPQ2P1/2KR2NR b kq - 4 15,nice fork i though
+30,O-O-O,e8c8,2kr1b1r/pppqp2p/2nnbp2/3p4/3P4/P1NBPPB1/1PPQ2P1/2KR2NR w - - 5 16,nice fork i though
+31,e4,e3e4,2kr1b1r/pppqp2p/2nnbp2/3p4/3PP3/P1NB1PB1/1PPQ2P1/2KR2NR b - - 0 16,nice fork i though
+32,Nc4,d6c4,2kr1b1r/pppqp2p/2n1bp2/3p4/2nPP3/P1NB1PB1/1PPQ2P1/2KR2NR w - - 1 17,nice fork i though
+33,Bxc4,d3c4,2kr1b1r/pppqp2p/2n1bp2/3p4/2BPP3/P1N2PB1/1PPQ2P1/2KR2NR b - - 0 17,nice fork i though
+34,dxc4,d5c4,2kr1b1r/pppqp2p/2n1bp2/8/2pPP3/P1N2PB1/1PPQ2P1/2KR2NR w - - 0 18,nice fork i though
+35,d5,d4d5,2kr1b1r/pppqp2p/2n1bp2/3P4/2p1P3/P1N2PB1/1PPQ2P1/2KR2NR b - - 0 18,nice fork i though
+36,Ne5,c6e5,2kr1b1r/pppqp2p/4bp2/3Pn3/2p1P3/P1N2PB1/1PPQ2P1/2KR2NR w - - 1 19,i relized my fork was bad for me
+37,Bxe5,g3e5,2kr1b1r/pppqp2p/4bp2/3PB3/2p1P3/P1N2P2/1PPQ2P1/2KR2NR b - - 0 19,i relized my fork was bad for me
+38,fxe5,f6e5,2kr1b1r/pppqp2p/4b3/3Pp3/2p1P3/P1N2P2/1PPQ2P1/2KR2NR w - - 0 20,but it worked out ok
+39,dxe6,d5e6,2kr1b1r/pppqp2p/4P3/4p3/2p1P3/P1N2P2/1PPQ2P1/2KR2NR b - - 0 20,but it worked out ok
+40,Qxd2+,d7d2,2kr1b1r/ppp1p2p/4P3/4p3/2p1P3/P1N2P2/1PPq2P1/2KR2NR w - - 0 21,but it worked out ok
+41,Rxd2,d1d2,2kr1b1r/ppp1p2p/4P3/4p3/2p1P3/P1N2P2/1PPR2P1/2K3NR b - - 0 21,but it worked out ok
+42,Re8,d8e8,2k1rb1r/ppp1p2p/4P3/4p3/2p1P3/P1N2P2/1PPR2P1/2K3NR w - - 1 22,but it worked out ok
+43,Rd5,d2d5,2k1rb1r/ppp1p2p/4P3/3Rp3/2p1P3/P1N2P2/1PP3P1/2K3NR b - - 2 22,want to avoid being checked
+44,Bg7,f8g7,2k1r2r/ppp1p1bp/4P3/3Rp3/2p1P3/P1N2P2/1PP3P1/2K3NR w - - 3 23,want to avoid being checked
+45,Rc5,d5c5,2k1r2r/ppp1p1bp/4P3/2R1p3/2p1P3/P1N2P2/1PP3P1/2K3NR b - - 4 23,want to avoid being checked
+46,Red8,e8d8,2kr3r/ppp1p1bp/4P3/2R1p3/2p1P3/P1N2P2/1PP3P1/2K3NR w - - 5 24,want to avoid being checked
+47,Nge2,g1e2,2kr3r/ppp1p1bp/4P3/2R1p3/2p1P3/P1N2P2/1PP1N1P1/2K4R b - - 6 24,want to avoid being checked
+48,Rd6,d8d6,2k4r/ppp1p1bp/3rP3/2R1p3/2p1P3/P1N2P2/1PP1N1P1/2K4R w - - 7 25,want to avoid being checked
+49,Rxc4,c5c4,2k4r/ppp1p1bp/3rP3/4p3/2R1P3/P1N2P2/1PP1N1P1/2K4R b - - 0 25,want to avoid being checked
+50,Rxe6,d6e6,2k4r/ppp1p1bp/4r3/4p3/2R1P3/P1N2P2/1PP1N1P1/2K4R w - - 0 26,want to avoid being checked
+51,Ng3,e2g3,2k4r/ppp1p1bp/4r3/4p3/2R1P3/P1N2PN1/1PP3P1/2K4R b - - 1 26,want to avoid being checked
+52,Rd8,h8d8,2kr4/ppp1p1bp/4r3/4p3/2R1P3/P1N2PN1/1PP3P1/2K4R w - - 2 27,want to avoid being checked
+53,Kb1,c1b1,2kr4/ppp1p1bp/4r3/4p3/2R1P3/P1N2PN1/1PP3P1/1K5R b - - 3 27,want to avoid being checked
+54,Bh6,g7h6,2kr4/ppp1p2p/4r2b/4p3/2R1P3/P1N2PN1/1PP3P1/1K5R w - - 4 28,attacking e7
+55,Nf5,g3f5,2kr4/ppp1p2p/4r2b/4pN2/2R1P3/P1N2P2/1PP3P1/1K5R b - - 5 28,attacking e7
+56,Bd2,h6d2,2kr4/ppp1p2p/4r3/4pN2/2R1P3/P1N2P2/1PPb2P1/1K5R w - - 6 29,forgot about the rook guarding that pawn
+57,Nxe7+,f5e7,2kr4/ppp1N2p/4r3/4p3/2R1P3/P1N2P2/1PPb2P1/1K5R b - - 0 29,forgot about the rook guarding that pawn
+58,Rxe7,e6e7,2kr4/ppp1r2p/8/4p3/2R1P3/P1N2P2/1PPb2P1/1K5R w - - 0 30,hoping for back rank mates
+59,Nd5,c3d5,2kr4/ppp1r2p/8/3Np3/2R1P3/P4P2/1PPb2P1/1K5R b - - 1 30,hoping for back rank mates
+60,Red7,e7d7,2kr4/pppr3p/8/3Np3/2R1P3/P4P2/1PPb2P1/1K5R w - - 2 31,hoping for back rank mates
+61,Nf6,d5f6,2kr4/pppr3p/5N2/4p3/2R1P3/P4P2/1PPb2P1/1K5R b - - 3 31,hoping for back rank mates
+62,Rd7d4,d7d4,2kr4/ppp4p/5N2/4p3/2RrP3/P4P2/1PPb2P1/1K5R w - - 4 32,hoping for back rank mates
+63,Rxd4,c4d4,2kr4/ppp4p/5N2/4p3/3RP3/P4P2/1PPb2P1/1K5R b - - 0 32,hoping for back rank mates
+64,Rxd4,d8d4,2k5/ppp4p/5N2/4p3/3rP3/P4P2/1PPb2P1/1K5R w - - 0 33,hoping for back rank mates
+65,Rxh7,h1h7,2k5/ppp4R/5N2/4p3/3rP3/P4P2/1PPb2P1/1K6 b - - 0 33,hoping for back rank mates
+66,b6,b7b6,2k5/p1p4R/1p3N2/4p3/3rP3/P4P2/1PPb2P1/1K6 w - - 0 34,no such luck
+67,c3,c2c3,2k5/p1p4R/1p3N2/4p3/3rP3/P1P2P2/1P1b2P1/1K6 b - - 0 34,white should win here
+68,Rd3,d4d3,2k5/p1p4R/1p3N2/4p3/4P3/P1Pr1P2/1P1b2P1/1K6 w - - 1 35,white should win here
+69,Kc2,b1c2,2k5/p1p4R/1p3N2/4p3/4P3/P1Pr1P2/1PKb2P1/8 b - - 2 35,white should win here
+70,Rd6,d3d6,2k5/p1p4R/1p1r1N2/4p3/4P3/P1P2P2/1PKb2P1/8 w - - 3 36,white should win here
+71,Nd5,f6d5,2k5/p1p4R/1p1r4/3Np3/4P3/P1P2P2/1PKb2P1/8 b - - 4 36,white should win here
+72,Bf4,d2f4,2k5/p1p4R/1p1r4/3Np3/4Pb2/P1P2P2/1PK3P1/8 w - - 5 37,white should win here
+73,Nxf4,d5f4,2k5/p1p4R/1p1r4/4p3/4PN2/P1P2P2/1PK3P1/8 b - - 0 37,white should win here
+74,exf4,e5f4,2k5/p1p4R/1p1r4/8/4Pp2/P1P2P2/1PK3P1/8 w - - 0 38,white should win here
+75,Rf7,h7f7,2k5/p1p2R2/1p1r4/8/4Pp2/P1P2P2/1PK3P1/8 b - - 1 38,"black was hoping he would take with the c pawn, not the a pawn"
+76,Rg6,d6g6,2k5/p1p2R2/1p4r1/8/4Pp2/P1P2P2/1PK3P1/8 w - - 2 39,"black was hoping he would take with the c pawn, not the a pawn"
+77,Rxf4,f7f4,2k5/p1p5/1p4r1/8/4PR2/P1P2P2/1PK3P1/8 b - - 0 39,"black was hoping he would take with the c pawn, not the a pawn"
+78,Rxg2+,g6g2,2k5/p1p5/1p6/8/4PR2/P1P2P2/1PK3r1/8 w - - 0 40,"black was hoping he would take with the c pawn, not the a pawn"
+79,Kb3,c2b3,2k5/p1p5/1p6/8/4PR2/PKP2P2/1P4r1/8 b - - 1 40,"black was hoping he would take with the c pawn, not the a pawn"
+80,Kb7,c8b7,8/pkp5/1p6/8/4PR2/PKP2P2/1P4r1/8 w - - 2 41,"black was hoping he would take with the c pawn, not the a pawn"
+81,Rf6,f4f6,8/pkp5/1p3R2/8/4P3/PKP2P2/1P4r1/8 b - - 3 41,"black was hoping he would take with the c pawn, not the a pawn"
+82,Ka6,b7a6,8/p1p5/kp3R2/8/4P3/PKP2P2/1P4r1/8 w - - 4 42,"black was hoping he would take with the c pawn, not the a pawn"
+83,e5,e4e5,8/p1p5/kp3R2/4P3/8/PKP2P2/1P4r1/8 b - - 0 42,"black was hoping he would take with the c pawn, not the a pawn"
+84,Kb5,a6b5,8/p1p5/1p3R2/1k2P3/8/PKP2P2/1P4r1/8 w - - 1 43,"black was hoping he would take with the c pawn, not the a pawn"
+85,e6,e5e6,8/p1p5/1p2PR2/1k6/8/PKP2P2/1P4r1/8 b - - 0 43,"black was hoping he would take with the c pawn, not the a pawn"
+86,c5,c7c5,8/p7/1p2PR2/1kp5/8/PKP2P2/1P4r1/8 w - - 0 44,"black was hoping he would take with the c pawn, not the a pawn"
+87,Rf7,f6f7,8/p4R2/1p2P3/1kp5/8/PKP2P2/1P4r1/8 b - - 1 44,"black was hoping he would take with the c pawn, not the a pawn"
+88,c4+,c5c4,8/p4R2/1p2P3/1k6/2p5/PKP2P2/1P4r1/8 w - - 0 45,"black was hoping he would take with the c pawn, not the a pawn"
+89,Ka2,b3a2,8/p4R2/1p2P3/1k6/2p5/P1P2P2/KP4r1/8 b - - 1 45,"black was hoping he would take with the c pawn, not the a pawn"
+90,Re2,g2e2,8/p4R2/1p2P3/1k6/2p5/P1P2P2/KP2r3/8 w - - 2 46,"black was hoping he would take with the c pawn, not the a pawn"
+91,e7,e6e7,8/p3PR2/1p6/1k6/2p5/P1P2P2/KP2r3/8 b - - 0 46,"black was hoping he would take with the c pawn, not the a pawn"
+92,Ka4,b5a4,8/p3PR2/1p6/8/k1p5/P1P2P2/KP2r3/8 w - - 1 47,"black was hoping he would take with the c pawn, not the a pawn"
+93,f4,f3f4,8/p3PR2/1p6/8/k1p2P2/P1P5/KP2r3/8 b - - 0 47,"black was hoping he would take with the c pawn, not the a pawn"
+94,b5,b6b5,8/p3PR2/8/1p6/k1p2P2/P1P5/KP2r3/8 w - - 0 48,"black was hoping he would take with the c pawn, not the a pawn"
+95,f5,f4f5,8/p3PR2/8/1p3P2/k1p5/P1P5/KP2r3/8 b - - 0 48,"black was hoping he would take with the c pawn, not the a pawn"
+96,b4,b5b4,8/p3PR2/8/5P2/kpp5/P1P5/KP2r3/8 w - - 0 49,"black was hoping he would take with the c pawn, not the a pawn"
+97,axb4,a3b4,8/p3PR2/8/5P2/kPp5/2P5/KP2r3/8 b - - 0 49,once again black is unlucky

@@ -1,0 +1,70 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,To prevent d5.
+2,c5,c7c5,rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,To prevent d5.
+3,Nf3,g1f3,rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,To prevent d5.
+4,Nf6,g8f6,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,To prevent d5.
+5,Nc3,b1c3,rnbqkb1r/pp1ppppp/5n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3,To prevent d5.
+6,Nc6,b8c6,r1bqkb1r/pp1ppppp/2n2n2/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4,"I don't think this is good, because it brings my queen into the centre"
+7,d4,d2d4,r1bqkb1r/pp1ppppp/2n2n2/2p5/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 4,"I don't think this is good, because it brings my queen into the centre"
+8,cxd4,c5d4,r1bqkb1r/pp1ppppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5,"I don't think this is good, because it brings my queen into the centre"
+9,Nxd4,f3d4,r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5,"I don't think this is good, because it brings my queen into the centre"
+10,Nxd4,c6d4,r1bqkb1r/pp1ppppp/5n2/8/3nP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6,"I don't think this is good, because it brings my queen into the centre"
+11,Qxd4,d1d4,r1bqkb1r/pp1ppppp/5n2/8/3QP3/2N5/PPP2PPP/R1B1KB1R b KQkq - 0 6,"the b6, e6, Bc5 plan is a bit slow"
+12,b6,b7b6,r1bqkb1r/p2ppppp/1p3n2/8/3QP3/2N5/PPP2PPP/R1B1KB1R w KQkq - 0 7,"the b6, e6, Bc5 plan is a bit slow"
+13,Bc4,f1c4,r1bqkb1r/p2ppppp/1p3n2/8/2BQP3/2N5/PPP2PPP/R1B1K2R b KQkq - 1 7,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+14,e6,e7e6,r1bqkb1r/p2p1ppp/1p2pn2/8/2BQP3/2N5/PPP2PPP/R1B1K2R w KQkq - 0 8,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+15,Bg5,c1g5,r1bqkb1r/p2p1ppp/1p2pn2/6B1/2BQP3/2N5/PPP2PPP/R3K2R b KQkq - 1 8,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+16,Bc5,f8c5,r1bqk2r/p2p1ppp/1p2pn2/2b3B1/2BQP3/2N5/PPP2PPP/R3K2R w KQkq - 2 9,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+17,Qd2,d4d2,r1bqk2r/p2p1ppp/1p2pn2/2b3B1/2B1P3/2N5/PPPQ1PPP/R3K2R b KQkq - 3 9,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+18,h6,h7h6,r1bqk2r/p2p1pp1/1p2pn1p/2b3B1/2B1P3/2N5/PPPQ1PPP/R3K2R w KQkq - 0 10,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+19,Bh4,g5h4,r1bqk2r/p2p1pp1/1p2pn1p/2b5/2B1P2B/2N5/PPPQ1PPP/R3K2R b KQkq - 1 10,"Bxf6 and O-O-O might have been better, but I didn't want to give up the bishop pair"
+20,g5,g7g5,r1bqk2r/p2p1p2/1p2pn1p/2b3p1/2B1P2B/2N5/PPPQ1PPP/R3K2R w KQkq - 0 11,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+21,Bg3,h4g3,r1bqk2r/p2p1p2/1p2pn1p/2b3p1/2B1P3/2N3B1/PPPQ1PPP/R3K2R b KQkq - 1 11,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+22,Bb7,c8b7,r2qk2r/pb1p1p2/1p2pn1p/2b3p1/2B1P3/2N3B1/PPPQ1PPP/R3K2R w KQkq - 2 12,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+23,f3,f2f3,r2qk2r/pb1p1p2/1p2pn1p/2b3p1/2B1P3/2N2PB1/PPPQ2PP/R3K2R b KQkq - 0 12,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+24,d5,d7d5,r2qk2r/pb3p2/1p2pn1p/2bp2p1/2B1P3/2N2PB1/PPPQ2PP/R3K2R w KQkq - 0 13,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+25,exd5,e4d5,r2qk2r/pb3p2/1p2pn1p/2bP2p1/2B5/2N2PB1/PPPQ2PP/R3K2R b KQkq - 0 13,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+26,exd5,e6d5,r2qk2r/pb3p2/1p3n1p/2bp2p1/2B5/2N2PB1/PPPQ2PP/R3K2R w KQkq - 0 14,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+27,O-O-O,e1c1,r2qk2r/pb3p2/1p3n1p/2bp2p1/2B5/2N2PB1/PPPQ2PP/2KR3R b kq - 1 14,This sacrifice is probably bad - and maybe Be2 and O-O-O is better - but I think it's about the only way to get an advantage. And it looked interesting!
+28,dxc4,d5c4,r2qk2r/pb3p2/1p3n1p/2b3p1/2p5/2N2PB1/PPPQ2PP/2KR3R w kq - 0 15,Refusing the peice just loses a pawn
+29,Rhe1+,h1e1,r2qk2r/pb3p2/1p3n1p/2b3p1/2p5/2N2PB1/PPPQ2PP/2KRR3 b kq - 1 15,"Forced, because Kf8 loses a rook."
+30,Be7,c5e7,r2qk2r/pb2bp2/1p3n1p/6p1/2p5/2N2PB1/PPPQ2PP/2KRR3 w kq - 2 16,"Forced, because Kf8 loses a rook."
+31,Bd6,g3d6,r2qk2r/pb2bp2/1p1B1n1p/6p1/2p5/2N2P2/PPPQ2PP/2KRR3 b kq - 3 16,Keeping the pressure
+32,Ng8,f6g8,r2qk1nr/pb2bp2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2KRR3 w kq - 4 17,black loses a piece...
+33,Rxe7+,e1e7,r2qk1nr/pb2Rp2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2KR4 b kq - 0 17,black loses a piece...
+34,Nxe7,g8e7,r2qk2r/pb2np2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2KR4 w kq - 0 18,black loses a piece...
+35,Re1,d1e1,r2qk2r/pb2np2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2K1R3 b kq - 1 18,black loses a piece...
+36,O-O,e8g8,r2q1rk1/pb2np2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2K1R3 w - - 2 19,... but there was no need to lose this one
+37,Rxe7,e1e7,r2q1rk1/pb2Rp2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2K5 b - - 0 19,... but there was no need to lose this one
+38,Re8,f8e8,r2qr1k1/pb2Rp2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2K5 w - - 1 20,... but there was no need to lose this one
+39,Rxb7,e7b7,r2qr1k1/pR3p2/1p1B3p/6p1/2p5/2N2P2/PPPQ2PP/2K5 b - - 0 20,Two pieces beat a rook
+40,Qf6,d8f6,r3r1k1/pR3p2/1p1B1q1p/6p1/2p5/2N2P2/PPPQ2PP/2K5 w - - 1 21,"Attacking the queen and defending the bishop, so Rad8 is nothing to fear"
+41,Ne4,c3e4,r3r1k1/pR3p2/1p1B1q1p/6p1/2p1N3/5P2/PPPQ2PP/2K5 b - - 2 21,"Attacking the queen and defending the bishop, so Rad8 is nothing to fear"
+42,Qe6,f6e6,r3r1k1/pR3p2/1p1Bq2p/6p1/2p1N3/5P2/PPPQ2PP/2K5 w - - 3 22,Noticing the knight fork on f6
+43,Qc3,d2c3,r3r1k1/pR3p2/1p1Bq2p/6p1/2p1N3/2Q2P2/PPP3PP/2K5 b - - 4 22,Noticing the knight fork on f6
+44,Kh7,g8h7,r3r3/pR3p1k/1p1Bq2p/6p1/2p1N3/2Q2P2/PPP3PP/2K5 w - - 5 23,"Rad8 may be better, because then black has the defence 22. Nf6+? Qxf6! 23.Qxf6 Re1#"
+45,Qf6,c3f6,r3r3/pR3p1k/1p1BqQ1p/6p1/2p1N3/5P2/PPP3PP/2K5 b - - 6 23,"Kg8 may be better, to defend f7."
+46,Qxf6,e6f6,r3r3/pR3p1k/1p1B1q1p/6p1/2p1N3/5P2/PPP3PP/2K5 w - - 0 24,"Kg8 may be better, to defend f7."
+47,Nxf6+,e4f6,r3r3/pR3p1k/1p1B1N1p/6p1/2p5/5P2/PPP3PP/2K5 b - - 0 24,"A blunder, losing the bishop to the pin on Rd8. There is nothing wrong with Re7, or c3 to activate the king without losing material. Fortunately I was able to win the endgame without the extra piece."
+48,Kg6,h7g6,r3r3/pR3p2/1p1B1Nkp/6p1/2p5/5P2/PPP3PP/2K5 w - - 1 25,"A blunder, losing the bishop to the pin on Rd8. There is nothing wrong with Re7, or c3 to activate the king without losing material. Fortunately I was able to win the endgame without the extra piece."
+49,Nxe8,f6e8,r3N3/pR3p2/1p1B2kp/6p1/2p5/5P2/PPP3PP/2K5 b - - 0 25,"A blunder, losing the bishop to the pin on Rd8. There is nothing wrong with Re7, or c3 to activate the king without losing material. Fortunately I was able to win the endgame without the extra piece."
+50,Rxe8,a8e8,4r3/pR3p2/1p1B2kp/6p1/2p5/5P2/PPP3PP/2K5 w - - 0 26,"A blunder, losing the bishop to the pin on Rd8. There is nothing wrong with Re7, or c3 to activate the king without losing material. Fortunately I was able to win the endgame without the extra piece."
+51,Kd2,c1d2,4r3/pR3p2/1p1B2kp/6p1/2p5/5P2/PPPK2PP/8 b - - 1 26,"A blunder, losing the bishop to the pin on Rd8. There is nothing wrong with Re7, or c3 to activate the king without losing material. Fortunately I was able to win the endgame without the extra piece."
+52,Rd8,e8d8,3r4/pR3p2/1p1B2kp/6p1/2p5/5P2/PPPK2PP/8 w - - 2 27,"Kc3 might be better practically, although if black takes the bishop it makes no difference. I just took the pawn and hoped for the best!"
+53,Rxa7,b7a7,3r4/R4p2/1p1B2kp/6p1/2p5/5P2/PPPK2PP/8 b - - 0 27,"Kc3 might be better practically, although if black takes the bishop it makes no difference. I just took the pawn and hoped for the best!"
+54,Rxd6+,d8d6,8/R4p2/1p1r2kp/6p1/2p5/5P2/PPPK2PP/8 w - - 0 28,Attacking the pawn from behind
+55,Kc3,d2c3,8/R4p2/1p1r2kp/6p1/2p5/2K2P2/PPP3PP/8 b - - 1 28,Attacking the pawn from behind
+56,b5,b6b5,8/R4p2/3r2kp/1p4p1/2p5/2K2P2/PPP3PP/8 w - - 0 29,Attacking the pawn from behind
+57,Rb7,a7b7,8/1R3p2/3r2kp/1p4p1/2p5/2K2P2/PPP3PP/8 b - - 1 29,Attacking the pawn from behind
+58,Rd5,d6d5,8/1R3p2/6kp/1p1r2p1/2p5/2K2P2/PPP3PP/8 w - - 2 30,Not wanting to give black a passed pawn!
+59,Kb4,c3b4,8/1R3p2/6kp/1p1r2p1/1Kp5/5P2/PPP3PP/8 b - - 3 30,Not wanting to give black a passed pawn!
+60,Rd2,d5d2,8/1R3p2/6kp/1p4p1/1Kp5/5P2/PPPr2PP/8 w - - 4 31,Not wanting to give black a passed pawn!
+61,Rxb5,b7b5,8/5p2/6kp/1R4p1/1Kp5/5P2/PPPr2PP/8 b - - 0 31,Not wanting to give black a passed pawn!
+62,Rxc2,d2c2,8/5p2/6kp/1R4p1/1Kp5/5P2/PPr3PP/8 w - - 0 32,Not wanting to give black a passed pawn!
+63,Kc5,b4c5,8/5p2/6kp/1RK3p1/2p5/5P2/PPr3PP/8 b - - 1 32,Not wanting to give black a passed pawn!
+64,c3,c4c3,8/5p2/6kp/1RK3p1/8/2p2P2/PPr3PP/8 w - - 0 33,Not wanting to give black a passed pawn!
+65,bxc3,b2c3,8/5p2/6kp/1RK3p1/8/2P2P2/P1r3PP/8 b - - 0 33,Not wanting to give black a passed pawn!
+66,Rxc3+,c2c3,8/5p2/6kp/1RK3p1/8/2r2P2/P5PP/8 w - - 0 34,"Ignoring the threat to my kingside pawns, to push my passed pawn"
+67,Kb4,c5b4,8/5p2/6kp/1R4p1/1K6/2r2P2/P5PP/8 b - - 1 34,"Ignoring the threat to my kingside pawns, to push my passed pawn"
+68,Rc2,c3c2,8/5p2/6kp/1R4p1/1K6/5P2/P1r3PP/8 w - - 2 35,"Ignoring the threat to my kingside pawns, to push my passed pawn"
+69,a4,a2a4,8/5p2/6kp/1R4p1/PK6/5P2/2r3PP/8 b - - 0 35,"Ignoring the threat to my kingside pawns, to push my passed pawn"

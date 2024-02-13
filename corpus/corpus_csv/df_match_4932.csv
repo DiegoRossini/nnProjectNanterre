@@ -1,0 +1,21 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,Nf3,g1f3,rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1,"Can you find the refutation? In this game I rather speculatively sacrificed the exchange, in return for threats to both white's king and queen - on both sides of the board. I couldn't see any defence. Neither could my opponent, who surrendered material and lost quickly. Post-match analysis showed the sacrifice to be unsound. Perhaps against a stronger player I would have checked it out better and not played it. Can you find the defence we both missed at the time?"
+2,d5,d7d5,rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2,"So my opponent opens with the Reti (Nf3), I grab space in the centre."
+3,c4,c2c4,rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2,"This was Reti's favourite, although King's Indian Reversed set-ups with d3 and/or g3 are common too."
+4,e6,e7e6,rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3,"Perhaps d4 is more aggresive, but Black can end up with an over-extended centre, if he is not careful."
+5,g3,g2g3,rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 3,The most common move in this position.
+6,Nf6,g8f6,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R w KQkq - 1 4,I continue to develop.
+7,Bg2,f1g2,rnbqkb1r/ppp2ppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R b KQkq - 2 4,As does he.
+8,Be7,f8e7,rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQK2R w KQkq - 3 5,The most common move in this position
+9,O-O,e1g1,rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 4 5,"This has to be played sometime, so there is no point in delaying."
+10,O-O,e8g8,rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 w - - 5 6,and the same goes for Black.
+11,d4,d2d4,rnbq1rk1/ppp1bppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 0 6,Transposing into the Catalan variation of the Queen's Gambit declined.
+12,dxc4,d5c4,rnbq1rk1/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7,This is the most commonly played move here.
+13,Ne5,f3e5,rnbq1rk1/ppp1bppp/4pn2/4N3/2pP4/6P1/PP2PPBP/RNBQ1RK1 b - - 1 7,"7. Qc2 is more common, but this is perfectly playable."
+14,Qd6,d8d6,rnb2rk1/ppp1bppp/3qpn2/4N3/2pP4/6P1/PP2PPBP/RNBQ1RK1 w - - 2 8,"7.... Qd6 is only the 5th most commonly played move in this position, but it had a good record."
+15,Nxc4,e5c4,rnb2rk1/ppp1bppp/3qpn2/8/2NP4/6P1/PP2PPBP/RNBQ1RK1 b - - 0 8,So white recaptures.
+16,Qa6,d6a6,rnb2rk1/ppp1bppp/q3pn2/8/2NP4/6P1/PP2PPBP/RNBQ1RK1 w - - 1 9,8.... Qa6 is the only move in the World Database on Gameknot.
+17,Qb3,d1b3,rnb2rk1/ppp1bppp/q3pn2/8/2NP4/1Q4P1/PP2PPBP/RNB2RK1 b - - 2 9,9. Qb3 is the most commonly played move.
+18,Rd8,f8d8,rnbr2k1/ppp1bppp/q3pn2/8/2NP4/1Q4P1/PP2PPBP/RNB2RK1 w - - 3 10,Black attack the pawn d4.
+19,Nc3,b1c3,rnbr2k1/ppp1bppp/q3pn2/8/2NP4/1QN3P1/PP2PPBP/R1B2RK1 b - - 4 10,"Now on the database, there are 3 games with 10. Nc3 and one with Rd1 - which looks the obvious way to defend d4 - Stoer, Andreas (2150) vs. Lautner, Josef (2126), which Black one. OK, before reading on, consider what happens if Black just takes the pawn on d4 now. Why can't he take it?"
+20,Nc6,b8c6,r1br2k1/ppp1bppp/q1n1pn2/8/2NP4/1QN3P1/PP2PPBP/R1B2RK1 w - - 5 11,"So why can't Black just take the pawn on d4? The point is that after 10... Rxd4, white has 11. Nb5 attacking d4 and c7, and after Rd7, which is the only way to meet both threats, White has Ne5, attacking the rook again, with advantage."

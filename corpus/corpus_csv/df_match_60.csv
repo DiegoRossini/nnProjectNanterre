@@ -1,0 +1,56 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Last book move
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Last book move
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Last book move
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Last book move
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Last book move
+6,a6,a7a6,r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Last book move
+7,Ba4,b5a4,r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4,Last book move
+8,b5,b7b5,r1bqkbnr/2pp1ppp/p1n5/1p2p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5,Last book move
+9,Bb3,a4b3,r1bqkbnr/2pp1ppp/p1n5/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R b KQkq - 1 5,Last book move
+10,Nf6,g8f6,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQK2R w KQkq - 2 6,Last book move
+11,O-O,e1g1,r1bqkb1r/2pp1ppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 b kq - 3 6,Last book move
+12,Bc5,f8c5,r1bqk2r/2pp1ppp/p1n2n2/1pb1p3/4P3/1B3N2/PPPP1PPP/RNBQ1RK1 w kq - 4 7,Last book move
+13,a4,a2a4,r1bqk2r/2pp1ppp/p1n2n2/1pb1p3/P3P3/1B3N2/1PPP1PPP/RNBQ1RK1 b kq - 0 7,Last book move
+14,Bb7,c8b7,r2qk2r/1bpp1ppp/p1n2n2/1pb1p3/P3P3/1B3N2/1PPP1PPP/RNBQ1RK1 w kq - 1 8,Last book move
+15,d3,d2d3,r2qk2r/1bpp1ppp/p1n2n2/1pb1p3/P3P3/1B1P1N2/1PP2PPP/RNBQ1RK1 b kq - 0 8,Last book move
+16,O-O,e8g8,r2q1rk1/1bpp1ppp/p1n2n2/1pb1p3/P3P3/1B1P1N2/1PP2PPP/RNBQ1RK1 w - - 1 9,Last book move
+17,Nc3,b1c3,r2q1rk1/1bpp1ppp/p1n2n2/1pb1p3/P3P3/1BNP1N2/1PP2PPP/R1BQ1RK1 b - - 2 9,Last book move
+18,Na5,c6a5,r2q1rk1/1bpp1ppp/p4n2/npb1p3/P3P3/1BNP1N2/1PP2PPP/R1BQ1RK1 w - - 3 10,Last book move
+19,Ba2,b3a2,r2q1rk1/1bpp1ppp/p4n2/npb1p3/P3P3/2NP1N2/BPP2PPP/R1BQ1RK1 b - - 4 10,Last book move
+20,b4,b5b4,r2q1rk1/1bpp1ppp/p4n2/n1b1p3/Pp2P3/2NP1N2/BPP2PPP/R1BQ1RK1 w - - 0 11,Last book move
+21,Ne2,c3e2,r2q1rk1/1bpp1ppp/p4n2/n1b1p3/Pp2P3/3P1N2/BPP1NPPP/R1BQ1RK1 b - - 1 11,Last book move
+22,d5,d7d5,r2q1rk1/1bp2ppp/p4n2/n1bpp3/Pp2P3/3P1N2/BPP1NPPP/R1BQ1RK1 w - - 0 12,Last book move
+23,Nxe5,f3e5,r2q1rk1/1bp2ppp/p4n2/n1bpN3/Pp2P3/3P4/BPP1NPPP/R1BQ1RK1 b - - 0 12,Last book move
+24,Bd6,c5d6,r2q1rk1/1bp2ppp/p2b1n2/n2pN3/Pp2P3/3P4/BPP1NPPP/R1BQ1RK1 w - - 1 13,White threatens to win the Knight: f3xe4
+25,d4,d3d4,r2q1rk1/1bp2ppp/p2b1n2/n2pN3/Pp1PP3/8/BPP1NPPP/R1BQ1RK1 b - - 0 13,White threatens to win the Knight: f3xe4
+26,Nxe4,f6e4,r2q1rk1/1bp2ppp/p2b4/n2pN3/Pp1Pn3/8/BPP1NPPP/R1BQ1RK1 w - - 0 14,White threatens to win the Knight: f3xe4
+27,f3,f2f3,r2q1rk1/1bp2ppp/p2b4/n2pN3/Pp1Pn3/5P2/BPP1N1PP/R1BQ1RK1 b - - 0 14,White threatens to win the Knight: f3xe4
+28,Ng5,e4g5,r2q1rk1/1bp2ppp/p2b4/n2pN1n1/Pp1P4/5P2/BPP1N1PP/R1BQ1RK1 w - - 1 15,Whites game is collapsing better is15.c3 c5= with equality
+29,Bd2,c1d2,r2q1rk1/1bp2ppp/p2b4/n2pN1n1/Pp1P4/5P2/BPPBN1PP/R2Q1RK1 b - - 2 15,Whites game is collapsing better is15.c3 c5= with equality
+30,Ne6,g5e6,r2q1rk1/1bp2ppp/p2bn3/n2pN3/Pp1P4/5P2/BPPBN1PP/R2Q1RK1 w - - 3 16,=/+ 16.Qe1 16.f4 c5 =/+
+31,Qe1,d1e1,r2q1rk1/1bp2ppp/p2bn3/n2pN3/Pp1P4/5P2/BPPBN1PP/R3QRK1 b - - 4 16,17.Kh1!? =/+
+32,c5,c7c5,r2q1rk1/1b3ppp/p2bn3/n1ppN3/Pp1P4/5P2/BPPBN1PP/R3QRK1 w - - 0 17,17.Kh1!? =/+
+33,c3,c2c3,r2q1rk1/1b3ppp/p2bn3/n1ppN3/Pp1P4/2P2P2/BP1BN1PP/R3QRK1 b - - 0 17,17.Kh1!? =/+
+34,Re8,f8e8,r2qr1k1/1b3ppp/p2bn3/n1ppN3/Pp1P4/2P2P2/BP1BN1PP/R3QRK1 w - - 1 18,? This is a bad move better is 18.Qf2!? bxc3 19.bxc3 cxd4 20.cxd4 Nxd4 21.Nxd4 Bxe5 22.Rab1-/+ but black is still better
+35,cxb4,c3b4,r2qr1k1/1b3ppp/p2bn3/n1ppN3/PP1P4/5P2/BP1BN1PP/R3QRK1 b - - 0 18,19...Rxe5?! 20.Qf2 Rh5 21.f4-/+; 19...cxd4?! is much weaker 20.bxa5 Rxe5 21.Qf2=
+36,Nxd4,e6d4,r2qr1k1/1b3ppp/p2b4/n1ppN3/PP1n4/5P2/BP1BN1PP/R3QRK1 w - - 0 19,19...Rxe5?! 20.Qf2 Rh5 21.f4-/+; 19...cxd4?! is much weaker 20.bxa5 Rxe5 21.Qf2=
+37,Nxd4,e2d4,r2qr1k1/1b3ppp/p2b4/n1ppN3/PP1N4/5P2/BP1B2PP/R3QRK1 b - - 0 19,19...Rxe5?! 20.Qf2 Rh5 21.f4-/+; 19...cxd4?! is much weaker 20.bxa5 Rxe5 21.Qf2=
+38,Bxe5,d6e5,r2qr1k1/1b3ppp/p7/n1ppb3/PP1N4/5P2/BP1B2PP/R3QRK1 w - - 0 20,19...Rxe5?! 20.Qf2 Rh5 21.f4-/+; 19...cxd4?! is much weaker 20.bxa5 Rxe5 21.Qf2=
+39,Ne2,d4e2,r2qr1k1/1b3ppp/p7/n1ppb3/PP6/5P2/BP1BN1PP/R3QRK1 b - - 1 20,? 21.Kh1 c4 22.Qf2–+? 21.Kh1 c4 22.Qf2–+
+40,Nc6,a5c6,r2qr1k1/1b3ppp/p1n5/2ppb3/PP6/5P2/BP1BN1PP/R3QRK1 w - - 2 21,? 21.Kh1 c4 22.Qf2–+? 21.Kh1 c4 22.Qf2–+
+41,Qd1,e1d1,r2qr1k1/1b3ppp/p1n5/2ppb3/PP6/5P2/BP1BN1PP/R2Q1RK1 b - - 3 21,? 21.Kh1 c4 22.Qf2–+? 21.Kh1 c4 22.Qf2–+
+42,Nxb4,c6b4,r2qr1k1/1b3ppp/p7/2ppb3/Pn6/5P2/BP1BN1PP/R2Q1RK1 w - - 0 22,23.Qd2 a5 24.Kh1 Qf6–+
+43,Bxb4,d2b4,r2qr1k1/1b3ppp/p7/2ppb3/PB6/5P2/BP2N1PP/R2Q1RK1 b - - 0 22,23.Qd2 a5 24.Kh1 Qf6–+
+44,cxb4,c5b4,r2qr1k1/1b3ppp/p7/3pb3/Pp6/5P2/BP2N1PP/R2Q1RK1 w - - 0 23,23.Qd2 a5 24.Kh1 Qf6–+
+45,Rb1,a1b1,r2qr1k1/1b3ppp/p7/3pb3/Pp6/5P2/BP2N1PP/1R1Q1RK1 b - - 1 23,23.Qd2 a5 24.Kh1 Qf6–+
+46,Qb6+,d8b6,r3r1k1/1b3ppp/pq6/3pb3/Pp6/5P2/BP2N1PP/1R1Q1RK1 w - - 2 24,"25.He could try f4 which is no good, but what else? 25...Bf6 26.Nc1–+"
+47,Kh1,g1h1,r3r1k1/1b3ppp/pq6/3pb3/Pp6/5P2/BP2N1PP/1R1Q1R1K b - - 3 24,"25.He could try f4 which is no good, but what else? 25...Bf6 26.Nc1–+"
+48,Rad8,a8d8,3rr1k1/1b3ppp/pq6/3pb3/Pp6/5P2/BP2N1PP/1R1Q1R1K w - - 4 25,"25.He could try f4 which is no good, but what else? 25...Bf6 26.Nc1–+"
+49,Qb3,d1b3,3rr1k1/1b3ppp/pq6/3pb3/Pp6/1Q3P2/BP2N1PP/1R3R1K b - - 5 25,"25.He could try f4 which is no good, but what else? 25...Bf6 26.Nc1–+"
+50,Bxh2,e5h2,3rr1k1/1b3ppp/pq6/3p4/Pp6/1Q3P2/BP2N1Pb/1R3R1K w - - 0 26,A very simple combo which any good player spots immediately! Right?
+51,Nc3,e2c3,3rr1k1/1b3ppp/pq6/3p4/Pp6/1QN2P2/BP4Pb/1R3R1K b - - 1 26,If 26.Kxh2 Qc7+
+52,Bg3,h2g3,3rr1k1/1b3ppp/pq6/3p4/Pp6/1QN2Pb1/BP4P1/1R3R1K w - - 2 27,? This is a blunder but white has a lost game 27.Qxd5 doesn't get the bull off the ice 27...Rxd5 28.Nxd5 Qh6+ 29.Kg1 Qh2# GKs computer recommends 26. Kxh2 Rxe2 27. Rbe1 Rde8 28. Rxe2 Rxe2 29. f4 Qd4 30. Qf3 Rxb2 31. Re1 g5 32. Bb3 gxf4 33. Re8+ Kg7 34. Qg4+ Kh6 in the post game analysis but white still loses
+53,Rfd1,f1d1,3rr1k1/1b3ppp/pq6/3p4/Pp6/1QN2Pb1/BP4P1/1R1R3K b - - 3 27,? This is a blunder but white has a lost game 27.Qxd5 doesn't get the bull off the ice 27...Rxd5 28.Nxd5 Qh6+ 29.Kg1 Qh2# GKs computer recommends 26. Kxh2 Rxe2 27. Rbe1 Rde8 28. Rxe2 Rxe2 29. f4 Qd4 30. Qf3 Rxb2 31. Re1 g5 32. Bb3 gxf4 33. Re8+ Kg7 34. Qg4+ Kh6 in the post game analysis but white still loses
+54,Qh6+,b6h6,3rr1k1/1b3ppp/p6q/3p4/Pp6/1QN2Pb1/BP4P1/1R1R3K w - - 4 28,"+ White resigns mate is eminent 27...Qh6+ 28.Kg1 Qh2+ 29.Kf1 Qh1#
+0–1"

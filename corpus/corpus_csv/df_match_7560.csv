@@ -1,0 +1,81 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,e4-e6 Lc4-d5 How to catch an attacking queen..
+2,e6,e7e6,rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,.. here she comes..
+3,Bc4,f1c4,rnbqkbnr/pppp1ppp/4p3/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2,.. here she comes..
+4,d5,d7d5,rnbqkbnr/ppp2ppp/4p3/3p4/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3,.. here she comes..
+5,exd5,e4d5,rnbqkbnr/ppp2ppp/4p3/3P4/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 0 3,.. here she comes..
+6,exd5,e6d5,rnbqkbnr/ppp2ppp/8/3p4/2B5/8/PPPP1PPP/RNBQK1NR w KQkq - 0 4,.. here she comes..
+7,Qe2+,d1e2,rnbqkbnr/ppp2ppp/8/3p4/2B5/8/PPPPQPPP/RNB1K1NR b KQkq - 1 4,.. here she comes..
+8,Be6,c8e6,rn1qkbnr/ppp2ppp/4b3/3p4/2B5/8/PPPPQPPP/RNB1K1NR w KQkq - 2 5,.. here she comes..
+9,Bb3,c4b3,rn1qkbnr/ppp2ppp/4b3/3p4/8/1B6/PPPPQPPP/RNB1K1NR b KQkq - 3 5,.. here she comes..
+10,Nf6,g8f6,rn1qkb1r/ppp2ppp/4bn2/3p4/8/1B6/PPPPQPPP/RNB1K1NR w KQkq - 4 6,.. here she comes..
+11,Qb5+,e2b5,rn1qkb1r/ppp2ppp/4bn2/1Q1p4/8/1B6/PPPP1PPP/RNB1K1NR b KQkq - 5 6,.. here she comes..
+12,Bd7,e6d7,rn1qkb1r/pppb1ppp/5n2/1Q1p4/8/1B6/PPPP1PPP/RNB1K1NR w KQkq - 6 7,..unwise..
+13,Qxb7,b5b7,rn1qkb1r/pQpb1ppp/5n2/3p4/8/1B6/PPPP1PPP/RNB1K1NR b KQkq - 0 7,..unwise..
+14,Bc6,d7c6,rn1qkb1r/pQp2ppp/2b2n2/3p4/8/1B6/PPPP1PPP/RNB1K1NR w KQkq - 1 8,..first trap..
+15,Ba4,b3a4,rn1qkb1r/pQp2ppp/2b2n2/3p4/B7/8/PPPP1PPP/RNB1K1NR b KQkq - 2 8,..why not..
+16,Bxa4,c6a4,rn1qkb1r/pQp2ppp/5n2/3p4/b7/8/PPPP1PPP/RNB1K1NR w KQkq - 0 9,..why not..
+17,Qxa8,b7a8,Qn1qkb1r/p1p2ppp/5n2/3p4/b7/8/PPPP1PPP/RNB1K1NR b KQk - 0 9,..what else can she?.
+18,Bc5,f8c5,Qn1qk2r/p1p2ppp/5n2/2bp4/b7/8/PPPP1PPP/RNB1K1NR w KQk - 1 10,..and now the second trap..
+19,b3,b2b3,Qn1qk2r/p1p2ppp/5n2/2bp4/b7/1P6/P1PP1PPP/RNB1K1NR b KQk - 0 10,..right here..
+20,Bc6,a4c6,Qn1qk2r/p1p2ppp/2b2n2/2bp4/8/1P6/P1PP1PPP/RNB1K1NR w KQk - 1 11,..right here..
+21,Qxc6+,a8c6,1n1qk2r/p1p2ppp/2Q2n2/2bp4/8/1P6/P1PP1PPP/RNB1K1NR b KQk - 0 11,..it`s my turn..
+22,Nxc6,b8c6,3qk2r/p1p2ppp/2n2n2/2bp4/8/1P6/P1PP1PPP/RNB1K1NR w KQk - 0 12,..it`s my turn..
+23,c3,c2c3,3qk2r/p1p2ppp/2n2n2/2bp4/8/1PP5/P2P1PPP/RNB1K1NR b KQk - 0 12,..it`s my turn..
+24,Qe7+,d8e7,4k2r/p1p1qppp/2n2n2/2bp4/8/1PP5/P2P1PPP/RNB1K1NR w KQk - 1 13,..it`s my turn..
+25,Ne2,g1e2,4k2r/p1p1qppp/2n2n2/2bp4/8/1PP5/P2PNPPP/RNB1K2R b KQk - 2 13,..this looks like a useful offer..
+26,Ng4,f6g4,4k2r/p1p1qppp/2n5/2bp4/6n1/1PP5/P2PNPPP/RNB1K2R w KQk - 3 14,..this looks like a useful offer..
+27,d4,d2d4,4k2r/p1p1qppp/2n5/2bp4/3P2n1/1PP5/P3NPPP/RNB1K2R b KQk - 0 14,..this looks like a useful offer..
+28,Bxd4,c5d4,4k2r/p1p1qppp/2n5/3p4/3b2n1/1PP5/P3NPPP/RNB1K2R w KQk - 0 15,..this looks like a useful offer..
+29,cxd4,c3d4,4k2r/p1p1qppp/2n5/3p4/3P2n1/1P6/P3NPPP/RNB1K2R b KQk - 0 15,..all his pieces are undeveloped but his one horse which stands nailed..
+30,Nxd4,c6d4,4k2r/p1p1qppp/8/3p4/3n2n1/1P6/P3NPPP/RNB1K2R w KQk - 0 16,..all his pieces are undeveloped but his one horse which stands nailed..
+31,Nbc3,b1c3,4k2r/p1p1qppp/8/3p4/3n2n1/1PN5/P3NPPP/R1B1K2R b KQk - 1 16,
+32,Nc2+,d4c2,4k2r/p1p1qppp/8/3p4/6n1/1PN5/P1n1NPPP/R1B1K2R w KQk - 2 17,
+33,Kd2,e1d2,4k2r/p1p1qppp/8/3p4/6n1/1PN5/P1nKNPPP/R1B4R b k - 3 17,
+34,Nxa1,c2a1,4k2r/p1p1qppp/8/3p4/6n1/1PN5/P2KNPPP/n1B4R w k - 0 18,
+35,Bb2,c1b2,4k2r/p1p1qppp/8/3p4/6n1/1PN5/PB1KNPPP/n6R b k - 1 18,
+36,Nxb3+,a1b3,4k2r/p1p1qppp/8/3p4/6n1/1nN5/PB1KNPPP/7R w k - 0 19,
+37,axb3,a2b3,4k2r/p1p1qppp/8/3p4/6n1/1PN5/1B1KNPPP/7R b k - 0 19,
+38,Qb4,e7b4,4k2r/p1p2ppp/8/3p4/1q4n1/1PN5/1B1KNPPP/7R w k - 1 20,
+39,f3,f2f3,4k2r/p1p2ppp/8/3p4/1q4n1/1PN2P2/1B1KN1PP/7R b k - 0 20,
+40,Ne5,g4e5,4k2r/p1p2ppp/8/3pn3/1q6/1PN2P2/1B1KN1PP/7R w k - 1 21,
+41,Kc2,d2c2,4k2r/p1p2ppp/8/3pn3/1q6/1PN2P2/1BK1N1PP/7R b k - 2 21,
+42,Qc5,b4c5,4k2r/p1p2ppp/8/2qpn3/8/1PN2P2/1BK1N1PP/7R w k - 3 22,
+43,Rd1,h1d1,4k2r/p1p2ppp/8/2qpn3/8/1PN2P2/1BK1N1PP/3R4 b k - 4 22,
+44,c6,c7c6,4k2r/p4ppp/2p5/2qpn3/8/1PN2P2/1BK1N1PP/3R4 w k - 0 23,
+45,Nd4,e2d4,4k2r/p4ppp/2p5/2qpn3/3N4/1PN2P2/1BK3PP/3R4 b k - 1 23,
+46,O-O,e8g8,5rk1/p4ppp/2p5/2qpn3/3N4/1PN2P2/1BK3PP/3R4 w - - 2 24,
+47,Kb1,c2b1,5rk1/p4ppp/2p5/2qpn3/3N4/1PN2P2/1B4PP/1K1R4 b - - 3 24,
+48,Qd6,c5d6,5rk1/p4ppp/2pq4/3pn3/3N4/1PN2P2/1B4PP/1K1R4 w - - 4 25,
+49,Ka2,b1a2,5rk1/p4ppp/2pq4/3pn3/3N4/1PN2P2/KB4PP/3R4 b - - 5 25,
+50,Qg6,d6g6,5rk1/p4ppp/2p3q1/3pn3/3N4/1PN2P2/KB4PP/3R4 w - - 6 26,
+51,Rd2,d1d2,5rk1/p4ppp/2p3q1/3pn3/3N4/1PN2P2/KB1R2PP/8 b - - 7 26,
+52,Rb8,f8b8,1r4k1/p4ppp/2p3q1/3pn3/3N4/1PN2P2/KB1R2PP/8 w - - 8 27,
+53,f4,f3f4,1r4k1/p4ppp/2p3q1/3pn3/3N1P2/1PN5/KB1R2PP/8 b - - 0 27,
+54,Qh6,g6h6,1r4k1/p4ppp/2p4q/3pn3/3N1P2/1PN5/KB1R2PP/8 w - - 1 28,
+55,g3,g2g3,1r4k1/p4ppp/2p4q/3pn3/3N1P2/1PN3P1/KB1R3P/8 b - - 0 28,
+56,Ng4,e5g4,1r4k1/p4ppp/2p4q/3p4/3N1Pn1/1PN3P1/KB1R3P/8 w - - 1 29,
+57,Nf5,d4f5,1r4k1/p4ppp/2p4q/3p1N2/5Pn1/1PN3P1/KB1R3P/8 b - - 2 29,
+58,Qe6,h6e6,1r4k1/p4ppp/2p1q3/3p1N2/5Pn1/1PN3P1/KB1R3P/8 w - - 3 30,
+59,Nd4,f5d4,1r4k1/p4ppp/2p1q3/3p4/3N1Pn1/1PN3P1/KB1R3P/8 b - - 4 30,
+60,Qc8,e6c8,1rq3k1/p4ppp/2p5/3p4/3N1Pn1/1PN3P1/KB1R3P/8 w - - 5 31,
+61,h3,h2h3,1rq3k1/p4ppp/2p5/3p4/3N1Pn1/1PN3PP/KB1R4/8 b - - 0 31,
+62,Nf6,g4f6,1rq3k1/p4ppp/2p2n2/3p4/3N1P2/1PN3PP/KB1R4/8 w - - 1 32,
+63,Rc2,d2c2,1rq3k1/p4ppp/2p2n2/3p4/3N1P2/1PN3PP/KBR5/8 b - - 2 32,
+64,c5,c6c5,1rq3k1/p4ppp/5n2/2pp4/3N1P2/1PN3PP/KBR5/8 w - - 0 33,
+65,Na4,c3a4,1rq3k1/p4ppp/5n2/2pp4/N2N1P2/1P4PP/KBR5/8 b - - 1 33,
+66,Ne4,f6e4,1rq3k1/p4ppp/8/2pp4/N2NnP2/1P4PP/KBR5/8 w - - 2 34,
+67,Ne2,d4e2,1rq3k1/p4ppp/8/2pp4/N3nP2/1P4PP/KBR1N3/8 b - - 3 34,
+68,Qa6,c8a6,1r4k1/p4ppp/q7/2pp4/N3nP2/1P4PP/KBR1N3/8 w - - 4 35,
+69,Nec3,e2c3,1r4k1/p4ppp/q7/2pp4/N3nP2/1PN3PP/KBR5/8 b - - 5 35,
+70,Qd3,a6d3,1r4k1/p4ppp/8/2pp4/N3nP2/1PNq2PP/KBR5/8 w - - 6 36,
+71,Rc1,c2c1,1r4k1/p4ppp/8/2pp4/N3nP2/1PNq2PP/KB6/2R5 b - - 7 36,
+72,Rb4,b8b4,6k1/p4ppp/8/2pp4/Nr2nP2/1PNq2PP/KB6/2R5 w - - 8 37,
+73,Rd1,c1d1,6k1/p4ppp/8/2pp4/Nr2nP2/1PNq2PP/KB6/3R4 b - - 9 37,
+74,Qc2,d3c2,6k1/p4ppp/8/2pp4/Nr2nP2/1PN3PP/KBq5/3R4 w - - 10 38,
+75,Rxd5,d1d5,6k1/p4ppp/8/2pR4/Nr2nP2/1PN3PP/KBq5/8 b - - 0 38,
+76,Qxb3+,c2b3,6k1/p4ppp/8/2pR4/Nr2nP2/1qN3PP/KB6/8 w - - 0 39,
+77,Ka1,a2a1,6k1/p4ppp/8/2pR4/Nr2nP2/1qN3PP/1B6/K7 b - - 1 39,
+78,Rxa4+,b4a4,6k1/p4ppp/8/2pR4/r3nP2/1qN3PP/1B6/K7 w - - 0 40,
+79,Nxa4,c3a4,6k1/p4ppp/8/2pR4/N3nP2/1q4PP/1B6/K7 b - - 0 40,
+80,Qxd5,b3d5,6k1/p4ppp/8/2pq4/N3nP2/6PP/1B6/K7 w - - 0 41,

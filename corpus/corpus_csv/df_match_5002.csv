@@ -1,0 +1,31 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,Holding off on the queens gambit.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,Holding off on the queens gambit.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,Holding off on the queens gambit.
+4,Nc6,b8c6,r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,Holding off on the queens gambit.
+5,Bb5,f1b5,r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3,Nows the time for the queens gambit.
+6,d6,d7d6,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4,Nows the time for the queens gambit.
+7,O-O,e1g1,r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 4,Nows the time for the queens gambit.
+8,f5,f7f5,r1bqkbnr/ppp3pp/2np4/1B2pp2/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5,Nows the time for the queens gambit.
+9,d3,d2d3,r1bqkbnr/ppp3pp/2np4/1B2pp2/4P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 5,"Not accepted, so I figured out another plan and it worked like a treat!"
+10,a6,a7a6,r1bqkbnr/1pp3pp/p1np4/1B2pp2/4P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 0 6,Doubling up the pawn but I had to get his bishop out the way so I could get my lsb to b7
+11,Bxc6+,b5c6,r1bqkbnr/1pp3pp/p1Bp4/4pp2/4P3/3P1N2/PPP2PPP/RNBQ1RK1 b kq - 0 6,Doubling up the pawn but I had to get his bishop out the way so I could get my lsb to b7
+12,bxc6,b7c6,r1bqkbnr/2p3pp/p1pp4/4pp2/4P3/3P1N2/PPP2PPP/RNBQ1RK1 w kq - 0 7,Doubling up the pawn but I had to get his bishop out the way so I could get my lsb to b7
+13,c4,c2c4,r1bqkbnr/2p3pp/p1pp4/4pp2/2P1P3/3P1N2/PP3PPP/RNBQ1RK1 b kq - 0 7,Moving out the way so the lsb has the line from b7 to g2
+14,c5,c6c5,r1bqkbnr/2p3pp/p2p4/2p1pp2/2P1P3/3P1N2/PP3PPP/RNBQ1RK1 w kq - 0 8,Moving out the way so the lsb has the line from b7 to g2
+15,Nc3,b1c3,r1bqkbnr/2p3pp/p2p4/2p1pp2/2P1P3/2NP1N2/PP3PPP/R1BQ1RK1 b kq - 1 8,Also sacrificing pawn on f5 but I needed his e4 pawn out the way.
+16,Bb7,c8b7,r2qkbnr/1bp3pp/p2p4/2p1pp2/2P1P3/2NP1N2/PP3PPP/R1BQ1RK1 w kq - 2 9,Also sacrificing pawn on f5 but I needed his e4 pawn out the way.
+17,exf5,e4f5,r2qkbnr/1bp3pp/p2p4/2p1pP2/2P5/2NP1N2/PP3PPP/R1BQ1RK1 b kq - 0 9,Happily accepted.
+18,Nf6,g8f6,r2qkb1r/1bp3pp/p2p1n2/2p1pP2/2P5/2NP1N2/PP3PPP/R1BQ1RK1 w kq - 1 10,"Needed the knight, was hoping he wouldn't take it."
+19,Bg5,c1g5,r2qkb1r/1bp3pp/p2p1n2/2p1pPB1/2P5/2NP1N2/PP3PPP/R2Q1RK1 b kq - 2 10,"Needed the knight, was hoping he wouldn't take it."
+20,Be7,f8e7,r2qk2r/1bp1b1pp/p2p1n2/2p1pPB1/2P5/2NP1N2/PP3PPP/R2Q1RK1 w kq - 3 11,"Needed the knight, was hoping he wouldn't take it."
+21,Re1,f1e1,r2qk2r/1bp1b1pp/p2p1n2/2p1pPB1/2P5/2NP1N2/PP3PPP/R2QR1K1 b kq - 4 11,Thank god he didn't!
+22,Ng4,f6g4,r2qk2r/1bp1b1pp/p2p4/2p1pPB1/2P3n1/2NP1N2/PP3PPP/R2QR1K1 w kq - 5 12,Exchanges which I needed as need queen to g5
+23,Bxe7,g5e7,r2qk2r/1bp1B1pp/p2p4/2p1pP2/2P3n1/2NP1N2/PP3PPP/R2QR1K1 b kq - 0 12,Exchanges which I needed as need queen to g5
+24,Qxe7,d8e7,r3k2r/1bp1q1pp/p2p4/2p1pP2/2P3n1/2NP1N2/PP3PPP/R2QR1K1 w kq - 0 13,Was waiting for that to move!
+25,Nd2,f3d2,r3k2r/1bp1q1pp/p2p4/2p1pP2/2P3n1/2NP4/PP1N1PPP/R2QR1K1 b kq - 1 13,Was waiting for that to move!
+26,Qg5,e7g5,r3k2r/1bp3pp/p2p4/2p1pPq1/2P3n1/2NP4/PP1N1PPP/R2QR1K1 w kq - 2 14,Does not see the mate coming.
+27,h3,h2h3,r3k2r/1bp3pp/p2p4/2p1pPq1/2P3n1/2NP3P/PP1N1PP1/R2QR1K1 b kq - 0 14,Does not see the mate coming.
+28,Ne3,g4e3,r3k2r/1bp3pp/p2p4/2p1pPq1/2P5/2NPn2P/PP1N1PP1/R2QR1K1 w kq - 1 15,Either sacrifices the queen or checkmate
+29,fxe3,f2e3,r3k2r/1bp3pp/p2p4/2p1pPq1/2P5/2NPP2P/PP1N2P1/R2QR1K1 b kq - 0 15,
+30,Qxg2#,g5g2,r3k2r/1bp3pp/p2p4/2p1pP2/2P5/2NPP2P/PP1N2q1/R2QR1K1 w kq - 0 16,

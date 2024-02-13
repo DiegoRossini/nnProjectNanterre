@@ -1,0 +1,44 @@
+N_move,Standard_notation,UCI_notation,FEN_notation,Comment
+1,e4,e2e4,rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1,My standard reply.
+2,e5,e7e5,rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2,My standard reply.
+3,Nf3,g1f3,rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2,My standard reply.
+4,Nf6,g8f6,rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3,My standard reply.
+5,Nxe5,f3e5,rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+6,d6,d7d6,rnbqkb1r/ppp2ppp/3p1n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq - 0 4,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+7,Nf3,e5f3,rnbqkb1r/ppp2ppp/3p1n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 4,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+8,Nxe4,f6e4,rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+9,d4,d2d4,rnbqkb1r/ppp2ppp/3p4/8/3Pn3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 5,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+10,d5,d6d5,rnbqkb1r/ppp2ppp/8/3p4/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 6,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+11,Bd3,f1d3,rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 6,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+12,Bd6,f8d6,rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R w KQkq - 2 7,"I have had good success with this, although after this game I may have to consider switching to 6... Be7"
+13,O-O,e1g1,rnbqk2r/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 7,I had not faced this before
+14,O-O,e8g8,rnbq1rk1/ppp2ppp/3b4/3p4/3Pn3/3B1N2/PPP2PPP/RNBQ1RK1 w - - 4 8,I had not faced this before
+15,c4,c2c4,rnbq1rk1/ppp2ppp/3b4/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 b - - 0 8,I had not faced this before
+16,c6,c7c6,rnbq1rk1/pp3ppp/2pb4/3p4/2PPn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 9,I had not faced this before
+17,cxd5,c4d5,rnbq1rk1/pp3ppp/2pb4/3P4/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 b - - 0 9,I had not faced this before
+18,cxd5,c6d5,rnbq1rk1/pp3ppp/3b4/3p4/3Pn3/3B1N2/PP3PPP/RNBQ1RK1 w - - 0 10,10... Re8 is also possible
+19,Nc3,b1c3,rnbq1rk1/pp3ppp/3b4/3p4/3Pn3/2NB1N2/PP3PPP/R1BQ1RK1 b - - 1 10,10... Re8 is also possible
+20,Nxc3,e4c3,rnbq1rk1/pp3ppp/3b4/3p4/3P4/2nB1N2/PP3PPP/R1BQ1RK1 w - - 0 11,10... Re8 is also possible
+21,bxc3,b2c3,rnbq1rk1/pp3ppp/3b4/3p4/3P4/2PB1N2/P4PPP/R1BQ1RK1 b - - 0 11,With the idea that after Rxb7 Nb6 White will have trouble extricating his rook
+22,Bg4,c8g4,rn1q1rk1/pp3ppp/3b4/3p4/3P2b1/2PB1N2/P4PPP/R1BQ1RK1 w - - 1 12,With the idea that after Rxb7 Nb6 White will have trouble extricating his rook
+23,Rb1,a1b1,rn1q1rk1/pp3ppp/3b4/3p4/3P2b1/2PB1N2/P4PPP/1RBQ1RK1 b - - 2 12,With the idea that after Rxb7 Nb6 White will have trouble extricating his rook
+24,Nd7,b8d7,r2q1rk1/pp1n1ppp/3b4/3p4/3P2b1/2PB1N2/P4PPP/1RBQ1RK1 w - - 3 13,With the idea that after Rxb7 Nb6 White will have trouble extricating his rook
+25,h3,h2h3,r2q1rk1/pp1n1ppp/3b4/3p4/3P2b1/2PB1N1P/P4PP1/1RBQ1RK1 b - - 0 13,"Of course, not 15... dxc4 16. Rxh5"
+26,Bh5,g4h5,r2q1rk1/pp1n1ppp/3b4/3p3b/3P4/2PB1N1P/P4PP1/1RBQ1RK1 w - - 1 14,"Of course, not 15... dxc4 16. Rxh5"
+27,Rb5,b1b5,r2q1rk1/pp1n1ppp/3b4/1R1p3b/3P4/2PB1N1P/P4PP1/2BQ1RK1 b - - 2 14,"Of course, not 15... dxc4 16. Rxh5"
+28,Nb6,d7b6,r2q1rk1/pp3ppp/1n1b4/1R1p3b/3P4/2PB1N1P/P4PP1/2BQ1RK1 w - - 3 15,"Of course, not 15... dxc4 16. Rxh5"
+29,c4,c3c4,r2q1rk1/pp3ppp/1n1b4/1R1p3b/2PP4/3B1N1P/P4PP1/2BQ1RK1 b - - 0 15,"Of course, not 15... dxc4 16. Rxh5"
+30,Bxf3,h5f3,r2q1rk1/pp3ppp/1n1b4/1R1p4/2PP4/3B1b1P/P4PP1/2BQ1RK1 w - - 0 16,"Of course, not 15... dxc4 16. Rxh5"
+31,Qxf3,d1f3,r2q1rk1/pp3ppp/1n1b4/1R1p4/2PP4/3B1Q1P/P4PP1/2B2RK1 b - - 0 16,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+32,dxc4,d5c4,r2q1rk1/pp3ppp/1n1b4/1R6/2pP4/3B1Q1P/P4PP1/2B2RK1 w - - 0 17,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+33,Bc2,d3c2,r2q1rk1/pp3ppp/1n1b4/1R6/2pP4/5Q1P/P1B2PP1/2B2RK1 b - - 1 17,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+34,Qd7,d8d7,r4rk1/pp1q1ppp/1n1b4/1R6/2pP4/5Q1P/P1B2PP1/2B2RK1 w - - 2 18,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+35,a4,a2a4,r4rk1/pp1q1ppp/1n1b4/1R6/P1pP4/5Q1P/2B2PP1/2B2RK1 b - - 0 18,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+36,Rab8,a8b8,1r3rk1/pp1q1ppp/1n1b4/1R6/P1pP4/5Q1P/2B2PP1/2B2RK1 w - - 1 19,18... an immediate g6 is also possible to prevent White from moving his Rook or Queen to h5
+37,Bg5,c1g5,1r3rk1/pp1q1ppp/1n1b4/1R4B1/P1pP4/5Q1P/2B2PP1/5RK1 b - - 2 19,Trying too hard to hold on to the b pawn! I did not see White's threat. After 19. Rfe8 20.Rfb1 Black is ok although White will eventually win back his pawn with a5
+38,Nc8,b6c8,1rn2rk1/pp1q1ppp/3b4/1R4B1/P1pP4/5Q1P/2B2PP1/5RK1 w - - 3 20,Trying too hard to hold on to the b pawn! I did not see White's threat. After 19. Rfe8 20.Rfb1 Black is ok although White will eventually win back his pawn with a5
+39,Rfb1,f1b1,1rn2rk1/pp1q1ppp/3b4/1R4B1/P1pP4/5Q1P/2B2PP1/1R4K1 b - - 4 20,"White could have tried an immediate Qh5, after which ...g6 falls to the same combo as in the game."
+40,b6,b7b6,1rn2rk1/p2q1ppp/1p1b4/1R4B1/P1pP4/5Q1P/2B2PP1/1R4K1 w - - 0 21,Still not seeing the danger. The ugly ... f5 was necessary.
+41,Qh5,f3h5,1rn2rk1/p2q1ppp/1p1b4/1R4BQ/P1pP4/7P/2B2PP1/1R4K1 b - - 1 21,Still not seeing the danger. The ugly ... f5 was necessary.
+42,g6,g7g6,1rn2rk1/p2q1p1p/1p1b2p1/1R4BQ/P1pP4/7P/2B2PP1/1R4K1 w - - 0 22,Still not seeing the danger. The ugly ... f5 was necessary.
+43,Bf6,g5f6,1rn2rk1/p2q1p1p/1p1b1Bp1/1R5Q/P1pP4/7P/2B2PP1/1R4K1 b - - 1 22,"And White wins! The point is that if Black takes the Queen, Rg5 is mate. In the meantime, White has the dual threat of Qh6 and 23. Qxh7+ Kxh7 24. Rh5+ Kg8 25. Rh8#"
