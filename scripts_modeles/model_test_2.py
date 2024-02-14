@@ -50,7 +50,7 @@ def get_X_and_y():
 def get_X_and_y_encoded():
 
     # Extraction de X et y
-    get_X_and_y()
+    X, y = get_X_and_y()
 
     # Définition des données d'entraînement et de test
     train_fens, train_comments, test_fens, test_comments = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -68,13 +68,13 @@ def get_X_and_y_encoded():
     train_encodings = [encode_fen(fen) for fen in train_fens]
     test_encodings = [encode_fen(fen) for fen in test_fens]
 
-    return train_encodings, test_encodings
+    return train_encodings, test_encodings, train_comments, test_comments
 
 
 def get_X_train_X_test_dataset():
 
     # Obetention des X_train et X_test encodés
-    train_encodings, test_encodings = get_X_and_y_encoded()
+    train_encodings, test_encodings, train_comments, test_comments = get_X_and_y_encoded()
 
     # Création des DataLoader pour les données d'entraînement et de test
     train_dataset = TensorDataset(torch.tensor([item["input_ids"] for item in train_encodings]),
@@ -92,7 +92,7 @@ def get_X_train_X_test_dataset():
 
 def train_model(model, num_epochs=5):
 
-    model = model
+    # model = model
     
     train_loader, test_loader = get_X_train_X_test_dataset()
 
@@ -100,7 +100,7 @@ def train_model(model, num_epochs=5):
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
 
     # Fonction de perte
-    criterion = torch.nn.CrossEntropyLoss()
+    # criterion = torch.nn.CrossEntropyLoss()
 
     # Entraînement du modèle
     model.train()
@@ -117,21 +117,45 @@ def train_model(model, num_epochs=5):
     model.save_pretrained(model_path)
 
     print("Model saved to", model_path)
+
+    # Évaluation du modèle
+    model.eval()
+    all_predictions = []
+    all_labels = []
+    with torch.no_grad():
+        for batch in test_loader:
+            input_ids, attention_mask, labels = batch
+            outputs = model.generate(input_ids=input_ids, attention_mask=attention_mask)
+            all_predictions.extend(outputs)
+            all_labels.extend(labels)
+
+    # Calcul des métriques d'évaluation
+    accuracy = np.mean(np.array(all_predictions) == np.array(all_labels))
+    print(f'Précision : {accuracy}')
+
     return model_path
 
 
+print(get_X_train_X_test_dataset())
 
-# Évaluation du modèle
-model.eval()
-all_predictions = []
-all_labels = []
-with torch.no_grad():
-    for batch in test_loader:
-        input_ids, attention_mask, labels = batch
-        outputs = model.generate(input_ids=input_ids, attention_mask=attention_mask)
-        all_predictions.extend(outputs)
-        all_labels.extend(labels)
 
-# Calcul des métriques d'évaluation
-accuracy = np.mean(np.array(all_predictions) == np.array(all_labels))
-print(f'Précision : {accuracy}')
+
+def comment_generation_model_test_1(fen_input):
+    
+    # Ajoute du padding à la séquence encodée pour uniformiser la longueur de la séquence
+    # max_length = 100  # Longueur maximale autorisée pour l'entrée
+    encoded_fen = encode_fen(fen_input)
+
+    # Transfère le tenseur sur GPU s'il est disponible
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    input_tensor = input_tensor.to(device)
+    # Déplace le modèle sur GPU s'il est disponible
+    model = model.to(device)
+
+    # Utilise le modèle BART pour générer le commentaire
+    output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
+
+    # Décode la sortie générée
+    generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+    return generated_comment
