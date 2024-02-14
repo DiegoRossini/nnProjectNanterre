@@ -262,5 +262,5 @@ def encode_uci(input_uci, uci_vocab):
     # L'output est une séquence d'integers en tensor
     return encoded_uci
 
-encoded_uci = encode_uci("e2e4")
-print(encoded_uci)
+# encoded_uci = encode_uci("e2e4")
+# print(encoded_uci)
