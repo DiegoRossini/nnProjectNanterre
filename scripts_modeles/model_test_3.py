@@ -21,7 +21,7 @@ def build_dataset():
 
     # Constitution de X et y vides
     X = []
-    y = []
+    y = [0]
 
     # Détermine le chemin du corpus
     corpus_path = find_corpus_folder(directory='corpus_csv')
@@ -40,8 +40,9 @@ def build_dataset():
             X.append(fen)
             next_move = df['Standard_notation'][idx+1]
             print(next_move)
-            
-            #y.append(next_move)
+            y.append(next_move)
+    print(len(x))
+    print(len(y))
 
     #return X, y
 

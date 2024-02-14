@@ -248,10 +248,7 @@ def get_uci_vocab():
     return uci_vocab
 
 
-def encode_uci(input_uci):
-
-    # On obtient le vocabulaire de la notation FEN
-    uci_vocab = get_uci_vocab()
+def encode_uci(input_uci, uci_vocab):
 
     # Ajout des caractères du vocabulaire uci à l'objet tokenizer
     tokenizer.add_tokens(uci_vocab)
