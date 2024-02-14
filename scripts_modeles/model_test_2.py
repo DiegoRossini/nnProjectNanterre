@@ -1,26 +1,29 @@
 # Téléchargement du modèle BART et de son tokeniseur
-# from download_BART_model import download_model
-# model, tokenizer = download_model()
+from download_BART_model import download_model
+model, tokenizer = download_model()
 
 
 
 # Téléchargements des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder
+from pre_processing import find_corpus_folder, encode_fen, encode_comment
 
 
 # Importation des librairies nécessaires
-# from transformers import BartConfig
-# from torch.utils.data import DataLoader, TensorDataset
-# import torch
-# import numpy as np
+from transformers import BartConfig
+from torch.utils.data import DataLoader, TensorDataset
+import torch
+import numpy as np
+import os
+import glob
+import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
 
 # Fonction d'extraction de X et de y
-def get_X_y():
+def get_X_and_y():
 
-
+    # Constitution de X et y vides
     X = []
     y = []
 
@@ -36,50 +39,87 @@ def get_X_y():
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path)
 
-        for fen, comment in map(df['FEN_notation'], df['Comment']):
+        for fen, comment in zip(df['FEN_notation'], df['Comment']):
             X.append(fen)
             y.append(comment)
 
     return X, y
 
-# Définition de vos données d'entraînement et de test
-train_texts = [...]  # Liste des textes d'entraînement
-train_labels = [...]  # Liste des étiquettes d'entraînement
 
-test_texts = [...]  # Liste des textes de test
-test_labels = [...]  # Liste des étiquettes de test
 
-# Tokenisation des données d'entraînement et de test
-train_encodings = tokenizer(train_texts, truncation=True, padding=True)
-test_encodings = tokenizer(test_texts, truncation=True, padding=True)
+def get_X_and_y_encoded():
 
-# Création des DataLoader pour les données d'entraînement et de test
-train_dataset = TensorDataset(torch.tensor(train_encodings['input_ids']),
-                              torch.tensor(train_encodings['attention_mask']),
-                              torch.tensor(train_labels))
-test_dataset = TensorDataset(torch.tensor(test_encodings['input_ids']),
-                             torch.tensor(test_encodings['attention_mask']),
-                             torch.tensor(test_labels))
+    # Extraction de X et y
+    get_X_and_y()
 
-train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True)
-test_loader = DataLoader(test_dataset, batch_size=8, shuffle=False)
+    # Définition des données d'entraînement et de test
+    train_fens, train_comments, test_fens, test_comments = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Définition de l'optimiseur
-optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
+    # Liste des textes d'entraînement
+    train_fens = list(train_fens)
+    # Liste des étiquettes d'entraînement
+    train_comments = list(train_comments)  
+    # Liste des textes de test
+    test_fens = list(test_fens)
+     # Liste des étiquettes de test
+    test_comments = list(test_comments)
 
-# Fonction de perte
-criterion = torch.nn.CrossEntropyLoss()
+    # Tokenisation des données d'entraînement et de test
+    train_encodings = [encode_fen(fen) for fen in train_fens]
+    test_encodings = [encode_fen(fen) for fen in test_fens]
 
-# Entraînement du modèle
-model.train()
-for epoch in range(num_epochs):
-    for batch in train_loader:
-        input_ids, attention_mask, labels = batch
-        optimizer.zero_grad()
-        outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-        loss = outputs.loss
-        loss.backward()
-        optimizer.step()
+    return train_encodings, test_encodings
+
+
+def get_X_train_X_test_dataset():
+
+    # Obetention des X_train et X_test encodés
+    train_encodings, test_encodings = get_X_and_y_encoded()
+
+    # Création des DataLoader pour les données d'entraînement et de test
+    train_dataset = TensorDataset(torch.tensor([item["input_ids"] for item in train_encodings]),
+                                torch.tensor([item["attention_mask"] for item in train_encodings]),
+                                torch.tensor(train_comments))
+    test_dataset = TensorDataset(torch.tensor([item["input_ids"] for item in test_encodings]),
+                                torch.tensor([item["attention_mask"] for item in test_encodings]),
+                                torch.tensor(test_comments))
+
+    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True)
+    test_loader = DataLoader(test_dataset, batch_size=8, shuffle=False)
+
+    return train_loader, test_loader
+
+
+def train_model(model, num_epochs=5):
+
+    model = model
+    
+    train_loader, test_loader = get_X_train_X_test_dataset()
+
+    # Définition de l'optimiseur
+    optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
+
+    # Fonction de perte
+    criterion = torch.nn.CrossEntropyLoss()
+
+    # Entraînement du modèle
+    model.train()
+    for epoch in range(num_epochs):
+        for batch in train_loader:
+            input_ids, attention_mask, labels = batch
+            optimizer.zero_grad()
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
+            loss = outputs.loss
+            loss.backward()
+            optimizer.step()
+
+    model_path = os.getcwd() + '/model_BART.pt'
+    model.save_pretrained(model_path)
+
+    print("Model saved to", model_path)
+    return model_path
+
+
 
 # Évaluation du modèle
 model.eval()
