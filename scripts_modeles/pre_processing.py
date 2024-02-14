@@ -75,10 +75,7 @@ def get_FEN_vocab():
 
 
 # Fonction pour générer une notation FEN encodée
-def encode_fen(input_fen):
-
-    # On obtient le vocabulaire de la notation FEN
-    fen_vocab = get_FEN_vocab()
+def encode_fen(input_fen, fen_vocab):
 
     # Ajout des caractères du vocabulaire FEN à l'objet tokenizer
     tokenizer.add_tokens(fen_vocab)
