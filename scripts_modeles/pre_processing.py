@@ -1,3 +1,9 @@
+import torch
+
+# Assicurati che la GPU sia disponibile
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+
 # Téléchargement du modèle BART et de son tokeniseur
 from download_BART_model import download_model, download_tokenizer
 # model = download_model()
@@ -86,6 +92,9 @@ def encode_fen(input_fen, fen_vocab):
     # On encode la notation FEN avec le tokeniseur
     encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
 
+    # Move tensors to GPU
+    encoded_fen = {key: value.to(device) for key, value in encoded_fen.items()}
+
     # L'output est une séquence d'intergers en tensor
     return encoded_fen
 
@@ -124,10 +133,7 @@ def get_st_notation_vocab():
 
 
 # Focntion pour obtenir le vocabulaire spécifique des mouvements cités dans les commentaires et aider la tokenisation de BART
-def get_comments_st_notation_vocab():
-
-    # Recupération du vocabulaire des mouvements standard de tout le corpus
-    all_st_notation_vocab = get_st_notation_vocab()
+def get_comments_st_notation_vocab(all_st_notation_vocab):
 
     # Initialisation d'un vocabulaire vide pour les mouvements standard présents dans les commentaires
     '''
@@ -173,10 +179,7 @@ def get_comments_st_notation_vocab():
 
 
 # Fonction qui tokenise avec BART Tokenizer un commentaire en entrée
-def tokenize_comment(comment):
-
-    # Création du vocabulaire des mouvements standard présents dans les commentaires
-    comments_st_notation_vocab = get_comments_st_notation_vocab()
+def tokenize_comment(comment, comments_st_notation_vocab):
 
     # Ajout des mouvements standard présents dans les commentaires au vocabulaire du 'BART Tokenizer'
     tokenizer.add_tokens(comments_st_notation_vocab)
@@ -190,13 +193,12 @@ def tokenize_comment(comment):
 
 
 # Fonction qui encode un commentaire en entrée avec BART Tokenizer
-def encode_comment(comment):
-
-    # Tokenisation du commentaire avec le 'BART Tokenizer'
-    tokenized_comment = tokenize_comment(comment)
+def encode_comment(tokenized_comment):
 
     # Encode le commentaire avec le 'BART Tokenizer'
     encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
+
+    encoded_comment = {key: value.to(device) for key, value in encoded_comment.items()}
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
     return encoded_comment
