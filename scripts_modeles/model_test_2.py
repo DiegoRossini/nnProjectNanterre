@@ -19,7 +19,7 @@ from sklearn.model_selection import train_test_split
 
 # Chargement du tokenizer et du modèle de BART
 tokenizer = download_tokenizer()
-# model= download_model()
+model= download_model()
 
 # Détermine le chemin du corpus
 corpus_path = find_corpus_folder(directory='corpus_csv')
@@ -146,10 +146,11 @@ def get_X_train_X_test_dataset():
     return train_loader, test_loader
 
 
-
 def train_model(model, num_epochs=5):
     
     train_loader, test_loader = get_X_train_X_test_dataset()
+    
+    print("start model training")
 
     # Définition de l'optimiseur
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
@@ -190,9 +191,14 @@ def train_model(model, num_epochs=5):
 
     return model_path
 
+model_path = train_model(model, num_epochs=1)
+print(model_path)
 
+# def comment_generation_model_test_1(model_path, fen_input):
 
-# def comment_generation_model_test_1(fen_input):
+    # # Load the model
+    # model = BartForConditionalGeneration.from_pretrained(model_path)
+
     
 #     # Ajoute du padding à la séquence encodée pour uniformiser la longueur de la séquence
 #     # max_length = 100  # Longueur maximale autorisée pour l'entrée
