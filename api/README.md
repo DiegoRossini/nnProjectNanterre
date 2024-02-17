@@ -3,7 +3,7 @@
 HTML, CSS, JS.  
 Le but est de créer un site web avec Flask (et Jinja).  
 Folder utiles : "app"
-Fichiers utils : run.py et config.py (à faire!!)
+Fichiers utils : run.py et config.py (à faire!!), ** et surtout : index.html (c'est celui avec le board qui marche) ** A NE PAS SUPPRIMER.
 
 Le reste est à trier puis supprimer.
 
