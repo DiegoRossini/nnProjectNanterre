@@ -1,13 +1,14 @@
 import torch
 
-# Assicurati che la GPU sia disponibile
+# # Assicurati che la GPU sia disponibile
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 # Téléchargement du modèle BART et de son tokeniseur
-from download_BART_model import download_model, download_tokenizer
-# model = download_model()
-tokenizer = download_tokenizer()
+# from download_BART_model import download_tokenizer
+# tokenizer = download_tokenizer()
+from transformers import BartTokenizer
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
 
 
 
@@ -46,7 +47,7 @@ def get_FEN_vocab():
     corpus_path = find_corpus_folder(directory='corpus_csv')
 
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-    corpus_path = corpus_path + "/*.csv"
+    corpus_path = os.path.join(corpus_path, "*.csv")
 
     # Initialise le vocabulaire FEN comme un ensemble pour éviter les doublons
     FEN_vocab = set()
@@ -93,7 +94,10 @@ def encode_fen(input_fen, fen_vocab):
     encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
 
     # Move tensors to GPU
-    encoded_fen = {key: value.to(device) for key, value in encoded_fen.items()}
+    encoded_fen = {key: value.squeeze(0).to(device) for key, value in encoded_fen.items()}
+
+    # Save the updated tokenizer in the working directory
+    tokenizer.save_pretrained(os.getcwd())
 
     # L'output est une séquence d'intergers en tensor
     return encoded_fen
@@ -112,7 +116,7 @@ def get_st_notation_vocab():
     corpus_path = find_corpus_folder(directory='corpus_csv')
 
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-    corpus_path = corpus_path + "/*.csv"
+    corpus_path = os.path.join(corpus_path, "*.csv")
 
     # Création d'un vocabulaire des mouvements standard vide
     all_st_notation_vocab = set()
@@ -147,7 +151,7 @@ def get_comments_st_notation_vocab(all_st_notation_vocab):
     corpus_path = find_corpus_folder(directory='corpus_csv')
 
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-    corpus_path = corpus_path + "/*.csv"
+    corpus_path = os.path.join(corpus_path, "*.csv")
 
     # Parcours tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
@@ -198,7 +202,10 @@ def encode_comment(tokenized_comment):
     # Encode le commentaire avec le 'BART Tokenizer'
     encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
 
-    encoded_comment = {key: value.to(device) for key, value in encoded_comment.items()}
+    encoded_comment = {key: value.squeeze(0).to(device) for key, value in encoded_comment.items()}
+
+    # Save the updated tokenizer in the working directory
+    tokenizer.save_pretrained(os.getcwd())
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
     return encoded_comment
@@ -210,13 +217,19 @@ def encode_comment(tokenized_comment):
 # encoded_fen = encode_fen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
 # print(encoded_fen)
 
+
+
+'''
+Les deux fonctions qui seuivent servent pour tokeniser et encoder une UCI
+'''
+
 def get_uci_vocab():
 
     # Détermine le chemin du corpus
     corpus_path = find_corpus_folder(directory='corpus_csv')
 
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-    corpus_path = corpus_path + "/*.csv"
+    corpus_path = os.path.join(corpus_path, "*.csv")
 
     # Initialise le vocabulaire FEN comme un ensemble pour éviter les doublons
     uci_vocab = set()
