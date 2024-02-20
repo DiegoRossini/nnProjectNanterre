@@ -66,9 +66,17 @@ else:
     with open(uci_vocab_file, 'w') as f:
         f.write('\n'.join(uci_vocab))
 
+# Ajout des caractères du vocabulaire FEN à l'objet tokenizer
+tokenizer.add_tokens(fen_vocab)
+# Ajout des caractères du vocabulaire uci à l'objet tokenizer
+tokenizer.add_tokens(uci_vocab)
+# Save the updated tokenizer in the working directory
+tokenizer.save_pretrained(os.getcwd())
+# Get the vocabulary size from the tokenizer
+vocab_size = tokenizer.vocab_size
+print("Updated Vocabulary Size:", vocab_size)
 
 print("Tous les vocabs sont prets")
-print("i'm heeeereeee")
 
 
 
@@ -79,47 +87,56 @@ def get_X_and_y_encoded():
     X = []
     y = []
 
+    x = 0
     # Parcours tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
-        # On commence le calcul temporel d'une boucle
-        start_time = time.time()
+        if x != 101:
 
-        # Charge le fichier CSV dans un DataFrame pandas
-        df = pd.read_csv(csv_match_path)
+            # On commence le calcul temporel d'une boucle
+            start_time = time.time()
 
-        # Boucle sur chaque paire de valeurs UCI_notation et N_move dans le DataFrame df
-        for uci, n_move in zip(df['UCI_notation'], df['N_move']):
-            
-            # Tentative d'exécution du bloc suivant
-            try:
+            # Charge le fichier CSV dans un DataFrame pandas
+            df = pd.read_csv(csv_match_path)
 
-                # Vérification si le mouvement est le premier de la partie
-                if n_move == 1:
-
-                    # Si oui, définir la position initiale FEN standard
-                    start_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
-
-                    # Encodage de la position FEN et de l'action UCI correspondante
-                    X.append(encode_fen(start_fen, fen_vocab))
-                    y.append(encode_uci(uci, uci_vocab))
+            # Boucle sur chaque paire de valeurs UCI_notation et N_move dans le DataFrame df
+            for idx, (uci_moves) in enumerate(zip(df['UCI_notation'], df['N_move'])):
                 
-                # Si ce n'est pas le premier mouvement
-                else:
-                    # On récupérère la FEN précédente à partir du DataFrame à l'indice -1
-                    previous_fen = df.at[df.index[-1], 'FEN_notation']
+                # Tentative d'exécution du bloc suivant
+                try:
 
-                    # Encodage de la FEN précédente et de l'action UCI correspondante
-                    X.append(encode_fen(previous_fen, fen_vocab))
-                    y.append(encode_uci(uci, uci_vocab))
+                    # Vérification si le mouvement est le premier de la partie
+                    if uci_moves[1] == 1:
 
-            # En cas d'erreur, passer à l'itération suivante sans rien faire
-            except:
-                pass
+                        # Si oui, définir la position initiale FEN standard
+                        start_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+
+                        # Encodage de la position FEN et de l'action UCI correspondante
+                        X.append(encode_fen(start_fen, fen_vocab))
+                        y.append(encode_uci(uci_moves[0], uci_vocab))
+                    
+                    # Si ce n'est pas le premier mouvement
+                    else:
+
+                        # On récupérère la FEN précédente à partir du DataFrame à l'indice -1
+                        previous_fen = df.at[df.index[idx -1], 'FEN_notation']
+
+                        # Encodage de la FEN précédente et de l'action UCI correspondante
+                        X.append(encode_fen(previous_fen, fen_vocab))
+                        y.append(encode_uci(uci_moves[0], uci_vocab))
+
+                # En cas d'erreur, passer à l'itération suivante sans rien faire
+                except:
+                    pass
         
-        # On affiche le temps de traitement de la boucle en question
-        end_time = time.time()
-        print(end_time - start_time)
+            # On affiche le temps de traitement de la boucle en question
+            end_time = time.time()
+            print(end_time - start_time)
+
+            x += 1
+
+        else:
+            break
         
     # Division des données en données d'entraînement et de test
     train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -129,7 +146,7 @@ def get_X_and_y_encoded():
     y = None
 
     # Output X_train, X_test, y_train, y_test
-    return train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings
+    return train_fen_encodings, test_fen_encodings, train_uci_encodings, test_uci_encodings
 
 
 
@@ -160,6 +177,12 @@ def get_X_train_X_test_dataset():
     test_input_ids_fens, test_attention_mask_fens = extract_tensors(test_fen_encodings)
     test_input_ids_uci, test_attention_mask_uci = extract_tensors(test_uci_encodings)
 
+    print("Train Input IDs Fens Shape:", train_input_ids_fens.shape)
+    print("Train Attention Mask Fens Shape:", train_attention_mask_fens.shape)
+    print("Train Input IDs UCI Shape:", train_input_ids_uci.shape)
+    print("Train Attention Mask UCI Shape:", train_attention_mask_uci.shape)
+
+
     # Create TensorDatasets
     train_dataset = TensorDataset(train_input_ids_fens, train_attention_mask_fens,
                                 train_input_ids_uci, train_attention_mask_uci)
@@ -173,8 +196,8 @@ def get_X_train_X_test_dataset():
     test_uci_encodings = None
 
     # Création objets DataLoader pour les données d'entraînement et de test
-    train_loader = DataLoader(train_dataset, batch_size=10, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=10, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=5, shuffle=True)
+    test_loader = DataLoader(test_dataset, batch_size=5, shuffle=False)
 
     # Output train_loader, test_loader
     return train_loader, test_loader
@@ -191,10 +214,6 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     # Define the loss function
     criterion = nn.CrossEntropyLoss()
-
-    # Get the vocabulary size from the tokenizer
-    vocab_size = tokenizer.vocab_size
-    print("Updated Vocabulary Size:", vocab_size)
 
     # Training loop
     for epoch in range(num_epochs):

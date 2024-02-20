@@ -72,9 +72,17 @@ else:
     with open(comments_st_notation_vocab_file, 'w') as f:
         f.write('\n'.join(comments_st_notation_vocab))
 
+# Ajout des caractères du vocabulaire FEN à l'objet tokenizer
+tokenizer.add_tokens(fen_vocab)
+# Ajout des caractères du vocabulaire des commentaires à l'objet tokenizer
+tokenizer.add_tokens(all_st_notation_vocab)
+# Save the updated tokenizer in the working directory
+tokenizer.save_pretrained(os.getcwd())
+# Get the vocabulary size from the tokenizer
+vocab_size = tokenizer.vocab_size
+print("Updated Vocabulary Size:", vocab_size)
 
 print("Tous les vocabs sont prets")
-print("i'm heeeereeee")
 
 
 
@@ -85,27 +93,35 @@ def get_X_and_y_encoded():
     X = []
     y = []
 
+    x = 0
     # Parcours tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
-
-        # On commence le calcul temporel d'une boucle
-        start_time = time.time()
-
-        # Charge le fichier CSV dans un DataFrame pandas
-        df = pd.read_csv(csv_match_path)
-
-        # Parcours les lignes du DataFrame et encodage des données
-        for fen, comment in zip(df['FEN_notation'], df['Comment']):
-            try:
-                tokenized_comment = tokenize_comment(comment, comments_st_notation_vocab)
-                y.append(encode_comment(tokenized_comment))
-                X.append(encode_fen(fen, fen_vocab))
-            except:
-                pass
         
-        # On affiche le temps de traitement de la boucle en question
-        end_time = time.time()
-        print(end_time - start_time)
+        if x != 101:
+
+            # On commence le calcul temporel d'une boucle
+            start_time = time.time()
+
+            # Charge le fichier CSV dans un DataFrame pandas
+            df = pd.read_csv(csv_match_path)
+
+            # Parcours les lignes du DataFrame et encodage des données
+            for fen, comment in zip(df['FEN_notation'], df['Comment']):
+                try:
+                    tokenized_comment = tokenize_comment(comment, comments_st_notation_vocab)
+                    y.append(encode_comment(tokenized_comment))
+                    X.append(encode_fen(fen, fen_vocab))
+                except:
+                    pass
+            
+            # On affiche le temps de traitement de la boucle en question
+            end_time = time.time()
+            print(end_time - start_time)
+
+            x += 1
+
+        else:
+            break
 
     # Division des données en données d'entraînement et de test
     train_encodings_fens, test_encodings_fens, train_encoding_comments, test_encoding_comments = train_test_split(X, y, test_size=0.3, random_state=42)
@@ -159,8 +175,8 @@ def get_X_train_X_test_dataset():
     test_encoding_comments = None
 
     # Création objets DataLoader pour les données d'entraînement et de test
-    train_loader = DataLoader(train_dataset, batch_size=10, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=10, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=5, shuffle=True)
+    test_loader = DataLoader(test_dataset, batch_size=5, shuffle=False)
 
     # Nettoyage des données dataset
     train_dataset = None
@@ -182,10 +198,6 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     # Define the loss function
     criterion = nn.CrossEntropyLoss()
-
-    # Get the vocabulary size from the tokenizer
-    vocab_size = tokenizer.vocab_size
-    print("Updated Vocabulary Size:", vocab_size)
 
     # Training loop
     for epoch in range(num_epochs):

@@ -66,10 +66,10 @@ def get_FEN_vocab():
     FEN_vocab = list(FEN_vocab)
 
     # Ajoute "<end>" au début de la liste
-    FEN_vocab.insert(0, "<end>")
+    FEN_vocab.insert(0, "<end_fen>")
 
     # Insère "<start>" au début de la liste
-    FEN_vocab.insert(0, "<start>")
+    FEN_vocab.insert(0, "<start_fen>")
 
     # Renvoie FEN_vocab
     return FEN_vocab
@@ -79,9 +79,6 @@ def get_FEN_vocab():
 # Fonction pour générer une notation FEN encodée
 def encode_fen(input_fen, fen_vocab):
 
-    # Ajout des caractères du vocabulaire FEN à l'objet tokenizer
-    tokenizer.add_tokens(fen_vocab)
-
     # On tokenise la notation au niveau du caractère
     tokenized_fen = [car for car in input_fen]
 
@@ -90,9 +87,6 @@ def encode_fen(input_fen, fen_vocab):
 
     # Formattage pour adaptation à l'input du modèle dans le batch
     encoded_fen = {key: value.squeeze(0).to(device) for key, value in encoded_fen.items()}
-
-    # Save the updated tokenizer in the working directory
-    tokenizer.save_pretrained(os.getcwd())
 
     # L'output est une séquence d'intergers en tensor
     return encoded_fen
@@ -180,9 +174,6 @@ def get_comments_st_notation_vocab(all_st_notation_vocab):
 # Fonction qui tokenise avec BART Tokenizer un commentaire en entrée
 def tokenize_comment(comment, comments_st_notation_vocab):
 
-    # Ajout des mouvements standard présents dans les commentaires au vocabulaire du 'BART Tokenizer'
-    tokenizer.add_tokens(comments_st_notation_vocab)
-
     # Tokenisation du commentaire avec le 'BART Tokenizer'
     tokenized_comment = tokenizer.tokenize(comment)
 
@@ -199,9 +190,6 @@ def encode_comment(tokenized_comment):
 
     # Formattage pour adaptation à l'input du modèle dans le batch
     encoded_comment = {key: value.squeeze(0).to(device) for key, value in encoded_comment.items()}
-
-    # Save the updated tokenizer in the working directory
-    tokenizer.save_pretrained(os.getcwd())
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
     return encoded_comment
@@ -254,9 +242,6 @@ def get_uci_vocab():
 
 def encode_uci(input_uci, uci_vocab):
 
-    # Ajout des caractères du vocabulaire uci à l'objet tokenizer
-    tokenizer.add_tokens(uci_vocab)
-
     # On tokenise la notation au niveau du caractère
     tokenized_uci = [input_uci[:2], input_uci[2:4]]
 
@@ -266,11 +251,5 @@ def encode_uci(input_uci, uci_vocab):
     # Formattage pour adaptation à l'input du modèle dans le batch
     encoded_uci = {key: value.squeeze(0).to(device) for key, value in encoded_uci.items()}
 
-    # Save the updated tokenizer in the working directory
-    tokenizer.save_pretrained(os.getcwd())
-
     # L'output est une séquence d'integers en tensor
     return encoded_uci
-
-# encoded_uci = encode_uci("e2e4")
-# print(encoded_uci)
