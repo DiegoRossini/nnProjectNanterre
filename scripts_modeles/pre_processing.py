@@ -1,4 +1,4 @@
-# Assicurati che la GPU sia disponibile
+# Assurez-vous que la GPU est disponible
 import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -17,21 +17,21 @@ import pandas as pd
 # Fonction pour trouver le dossier du corpus
 def find_corpus_folder(directory='corpus_csv'):
 
-    # Parcourir le répertoire spécifié (par défaut : répertoire 'corpus_csv')
+    # Parcours le répertoire spécifié (par défaut : répertoire 'corpus_csv')
     for root, dirs, files in os.walk(os.path.abspath(os.sep)):
 
-        # Vérifier si le dossier cible est présent dans les répertoires actuels
+        # Vérifie si le dossier cible est présent dans les répertoires actuels
         if directory in dirs:
 
-            # Renvoyer le chemin complet du dossier cible s'il est trouvé
+            # Renvoie le chemin complet du dossier cible s'il est trouvé
             return os.path.join(root, directory)
         
-    # Si le dossier cible n'est pas trouvé, renvoyer None
+    # Si le dossier cible n'est pas trouvé, renvoie None
     return None
 
 
 '''
-Les deux fonctions qui suivent servent pout tokeniser et encoder un mouvement en notation FEN
+Les deux fonctions qui suivent servent à tokenizer et encoder un mouvement en notation FEN
 '''
 
 
@@ -47,16 +47,16 @@ def get_FEN_vocab():
     # Initialise le vocabulaire FEN comme un ensemble pour éviter les doublons
     FEN_vocab = set()
 
-    # Parcours tous les fichiers CSV dans le corpus
+    # Parcourt tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path)  
 
-        # Parcours toutes les notations FEN dans la colonne 'FEN_notation'
+        # Parcourt toutes les notations FEN dans la colonne 'FEN_notation'
         for FEN in df['FEN_notation']:
 
-            # Parcours chaque caractère dans la notation FEN
+            # Parcourt chaque caractère dans la notation FEN
             for car in FEN:
 
                 # Ajoute le caractère au vocabulaire FEN
@@ -79,26 +79,26 @@ def get_FEN_vocab():
 # Fonction pour générer une notation FEN encodée
 def encode_fen(input_fen, fen_vocab):
 
-    # On tokenise la notation au niveau du caractère
+    # On tokenize la notation au niveau du caractère
     tokenized_fen = [car for car in input_fen]
 
-    # On encode la notation FEN avec le tokeniseur
+    # On encode la notation FEN avec le tokenizer
     encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
-    # Formattage pour adaptation à l'input du modèle dans le batch
+    # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_fen = {key: value.squeeze(0).to(device) for key, value in encoded_fen.items()}
 
-    # L'output est une séquence d'intergers en tensor
+    # La sortie est une séquence d'entiers en tensor
     return encoded_fen
 
 
 
 '''
-Les quatres fonctions qui seuivent servent pour tokeniser et encoder un commentaire
+Les quatre fonctions qui suivent servent à tokenizer et encoder un commentaire
 '''
 
 
-# Fonction pour obtenir le vocabulaire de tous les mouvements en notation standard effectuées dans les matchs du corpus
+# Fonction pour obtenir le vocabulaire de tous les mouvements en notation standard effectués dans les matchs du corpus
 def get_st_notation_vocab():
 
     # Détermine le chemin du corpus
@@ -107,16 +107,16 @@ def get_st_notation_vocab():
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
     corpus_path = os.path.join(corpus_path, "*.csv")
 
-    # Création d'un vocabulaire des mouvements standard vide
+    # Crée un vocabulaire des mouvements standard vide
     all_st_notation_vocab = set()
 
-    # Parcours tous les fichiers CSV dans le corpus
+    # Parcourt tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path) 
 
-        # Parcours toutes les notations standard dans la colonne 'Standard_notation'
+        # Parcourt toutes les notations standard dans la colonne 'Standard_notation'
         for st_notation in df['Standard_notation']:
             all_st_notation_vocab.add(st_notation)
 
@@ -125,14 +125,14 @@ def get_st_notation_vocab():
         
 
 
-# Focntion pour obtenir le vocabulaire spécifique des mouvements cités dans les commentaires et aider la tokenisation de BART
+# Fonction pour obtenir le vocabulaire spécifique des mouvements cités dans les commentaires et aider à la tokenisation de BART
 def get_comments_st_notation_vocab(all_st_notation_vocab):
 
-    # Initialisation d'un vocabulaire vide pour les mouvements standard présents dans les commentaires
+    # Initialise un vocabulaire vide pour les mouvements standard présents dans les commentaires
     '''
-    Si on utilise all_standard_notation_vocab en tant que input pour la tokenisation du 'fine-tuned BART Tokenizer'
-    on se retrouvera à enlourdir l'apprentissage car pas tous les mouvements standard sont présents dans les commentaires!
-    C'est mieux donc d'utiliser le vocabulaire des mouvements standard présents dans les commentaires pour la tokenisation du 'fine-tuned BART Tokenizer'
+    Si on utilise all_standard_notation_vocab en tant qu'entrée pour la tokenisation du 'fine-tuned BART Tokenizer',
+    on risque d'alourdir l'apprentissage car tous les mouvements standard ne sont pas présents dans les commentaires!
+    Il est donc préférable d'utiliser le vocabulaire des mouvements standard présents dans les commentaires pour la tokenisation du 'fine-tuned BART Tokenizer'
     '''
     comments_st_notation_vocab = set()
 
@@ -142,13 +142,13 @@ def get_comments_st_notation_vocab(all_st_notation_vocab):
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
     corpus_path = os.path.join(corpus_path, "*.csv")
 
-    # Parcours tous les fichiers CSV dans le corpus
+    # Parcourt tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path)
 
-        # On essaie de boucler sur chaque commentaire
+        # Tente de boucler sur chaque commentaire
         try:
             # Boucle sur chaque commentaire du match
             for comment in df['Comment']:
@@ -162,11 +162,11 @@ def get_comments_st_notation_vocab(all_st_notation_vocab):
                         # Alors on l'ajoute à notre liste
                         comments_st_notation_vocab.add(move)
 
-        # Si le commentaire n'est pas une chaine de caractères, on continue
+        # Si le commentaire n'est pas une chaîne de caractères, on continue
         except:
             continue
     
-    # En output le vocabulaire de tous les mouvements standard présents dans les commentaires
+    # En sortie, le vocabulaire de tous les mouvements standard présents dans les commentaires
     return list(comments_st_notation_vocab)
 
 
@@ -177,7 +177,7 @@ def tokenize_comment(comment, comments_st_notation_vocab):
     # Tokenisation du commentaire avec le 'BART Tokenizer'
     tokenized_comment = tokenizer.tokenize(comment)
 
-    # Retourne le commentaire tokenisé avec les caractères spéciaux propres à BART Tokenizer
+    # Retourne le commentaire tokenisé avec les caractères spéciaux propres au BART Tokenizer
     return tokenized_comment
 
 
@@ -188,7 +188,7 @@ def encode_comment(tokenized_comment):
     # Encode le commentaire avec le 'BART Tokenizer'
     encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
-    # Formattage pour adaptation à l'input du modèle dans le batch
+    # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_comment = {key: value.squeeze(0).to(device) for key, value in encoded_comment.items()}
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
@@ -197,7 +197,7 @@ def encode_comment(tokenized_comment):
 
 
 '''
-Les deux fonctions qui seuivent servent pour tokeniser et encoder une UCI
+Les deux fonctions qui suivent servent à tokenizer et encoder une UCI
 '''
 
 def get_uci_vocab():
@@ -208,27 +208,27 @@ def get_uci_vocab():
     # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
     corpus_path = os.path.join(corpus_path, "*.csv")
 
-    # Initialise le vocabulaire FEN comme un ensemble pour éviter les doublons
+    # Initialise le vocabulaire UCI comme un ensemble pour éviter les doublons
     uci_vocab = set()
 
-    # Parcours tous les fichiers CSV dans le corpus
+    # Parcourt tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path)  
 
-        # Parcours toutes les notations uci dans la colonne 'uci_notation'
+        # Parcourt toutes les notations UCI dans la colonne 'UCI_notation'
         for uci in df['UCI_notation']:
 
-            # Parcours chaque mouvement dans la notation uci (donc deux caractères par deux caractères)
+            # Parcourt chaque mouvement dans la notation UCI (donc deux caractères par deux caractères)
             case_depart = uci[:2]
             case_fin = uci[2:4] 
 
-            # Ajoute le mouvement au vocabulaire uci
+            # Ajoute le mouvement au vocabulaire UCI
             uci_vocab.add(case_depart)      
             uci_vocab.add(case_fin)      
 
-    # Convertit FEN_vocab en une liste
+    # Convertit uci_vocab en une liste
     uci_vocab = list(uci_vocab)
 
     # Ajoute "<end>" au début de la liste
@@ -242,14 +242,14 @@ def get_uci_vocab():
 
 def encode_uci(input_uci, uci_vocab):
 
-    # On tokenise la notation au niveau du caractère
+    # On tokenize la notation au niveau du caractère
     tokenized_uci = [input_uci[:2], input_uci[2:4]]
 
-    # On encode la notation uci avec le tokeniseur
+    # On encode la notation UCI avec le tokenizer
     encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
-    # Formattage pour adaptation à l'input du modèle dans le batch
+    # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_uci = {key: value.squeeze(0).to(device) for key, value in encoded_uci.items()}
 
-    # L'output est une séquence d'integers en tensor
+    # La sortie est une séquence d'entiers en tensor
     return encoded_uci
