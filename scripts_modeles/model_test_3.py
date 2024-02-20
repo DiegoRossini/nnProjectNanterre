@@ -1,20 +1,28 @@
 # On utilise la GPU quand c'est possible
-import torch.nn as nn
 import torch
+
+# On fait appel à la GPU si possible
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
 print(torch.__version__)
 
+# On teste si la GPU est disponible
 if torch.cuda.is_available():
     print("GPU disponibile")
 else:
-    print("GPU non disponibile")
+    print("GPU pas disponibile")
 
 
-# Importations depuis pre_processing.py
+
+# Téléchargements des fonctions de prétraitement nécessaires
 from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci
+
+
+
+# Importations générales necéssaires
 from torch.utils.data import DataLoader, TensorDataset
+import torch.nn as nn
 import numpy as np
 import os
 import glob
@@ -24,19 +32,20 @@ from sklearn.model_selection import train_test_split
 
 
 
-from transformers import BartConfig, BartForConditionalGeneration, BartTokenizer
-
-# Initializing a BART facebook/bart-large style configuration
-configuration = BartConfig(vocab_size=53291)
+# Importations concernant BART
+from download_BART_model import download_model, download_tokenizer
 
 # Initializing a model (with random weights) from the facebook/bart-large style configuration
-model = BartForConditionalGeneration(configuration)
-
-# Accessing the model configuration
-configuration = model.config
+model = download_model()
 
 # Initialisation du BART Tokenizer
-tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
+tokenizer = download_tokenizer()
+
+
+
+'''
+----------  Extraction des vocabulaires et ajout des tokens au Tokenizer  -----------------
+'''
 
 # Détermine le chemin du corpus
 corpus_path = find_corpus_folder(directory='corpus_csv')
@@ -50,12 +59,15 @@ uci_vocab_file = 'uci_vocab.txt'
 
 # Check if the files exist
 if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
+
     # Load the variables from files
     with open(fen_vocab_file, 'r') as f:
         fen_vocab = f.read().splitlines()
     with open(uci_vocab_file, 'r') as f:
         uci_vocab = f.read().splitlines()
+
 else:
+
     # Initialize the variables
     fen_vocab = get_FEN_vocab()
     uci_vocab = get_uci_vocab()
@@ -68,20 +80,22 @@ else:
 
 # Ajout des caractères du vocabulaire FEN à l'objet tokenizer
 tokenizer.add_tokens(fen_vocab)
+
 # Ajout des caractères du vocabulaire uci à l'objet tokenizer
 tokenizer.add_tokens(uci_vocab)
+
 # Save the updated tokenizer in the working directory
 tokenizer.save_pretrained(os.getcwd())
-# Get the vocabulary size from the tokenizer
-vocab_size = tokenizer.vocab_size
-print("Updated Vocabulary Size:", vocab_size)
 
+# Adaptation de la taille des embeddings avec la taille du nouveau vocabulaire
+model.resize_token_embeddings(len(tokenizer))
+print("Updated Vocabulary Size:", len(tokenizer))
 print("Tous les vocabs sont prets")
 
 
 
 # Fonction d'extraction des fens et des uci encodés
-def get_X_and_y_encoded():
+def get_X_and_y_encoded_uci():
 
     # Constitution de X et y vides
     X = []
@@ -142,8 +156,7 @@ def get_X_and_y_encoded():
     train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = train_test_split(X, y, test_size=0.2, random_state=42)
 
     # Nettoyage des données
-    X = None
-    y = None
+    del X, y
 
     # Output X_train, X_test, y_train, y_test
     return train_fen_encodings, test_fen_encodings, train_uci_encodings, test_uci_encodings
@@ -164,10 +177,10 @@ def extract_tensors(data):
 
 
 
-def get_X_train_X_test_dataset():
+def get_X_train_X_test_dataset_uci():
 
     # Obtention des X_train et X_test encodés
-    train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = get_X_and_y_encoded()
+    train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = get_X_and_y_encoded_uci()
 
     # Extract tensors from the training data
     train_input_ids_fens, train_attention_mask_fens = extract_tensors(train_fen_encodings)
@@ -177,12 +190,6 @@ def get_X_train_X_test_dataset():
     test_input_ids_fens, test_attention_mask_fens = extract_tensors(test_fen_encodings)
     test_input_ids_uci, test_attention_mask_uci = extract_tensors(test_uci_encodings)
 
-    print("Train Input IDs Fens Shape:", train_input_ids_fens.shape)
-    print("Train Attention Mask Fens Shape:", train_attention_mask_fens.shape)
-    print("Train Input IDs UCI Shape:", train_input_ids_uci.shape)
-    print("Train Attention Mask UCI Shape:", train_attention_mask_uci.shape)
-
-
     # Create TensorDatasets
     train_dataset = TensorDataset(train_input_ids_fens, train_attention_mask_fens,
                                 train_input_ids_uci, train_attention_mask_uci)
@@ -190,14 +197,14 @@ def get_X_train_X_test_dataset():
                                 test_input_ids_uci, test_attention_mask_uci)
     
     # Nettoyage des données d'entraînement et de test
-    train_fen_encodings = None
-    test_fen_encodings = None
-    train_uci_encodings = None
-    test_uci_encodings = None
+    del train_fen_encodings, test_fen_encodings, train_uci_encodings, test_uci_encodings
 
     # Création objets DataLoader pour les données d'entraînement et de test
-    train_loader = DataLoader(train_dataset, batch_size=5, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=5, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=4, shuffle=True)
+    test_loader = DataLoader(test_dataset, batch_size=4, shuffle=False)
+
+    # Nettoyage des données dataset
+    del train_dataset, test_dataset
 
     # Output train_loader, test_loader
     return train_loader, test_loader
@@ -223,14 +230,14 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
             # Move batch to device
             batch = [item.to(device) for item in batch]
             # Unpack batch
-            input_ids_fens, attention_mask_fens, input_ids_comments, attention_mask_comments = batch
+            input_ids_fens, attention_mask_fens, input_ids_uci, attention_mask_uci = batch
 
             # Clear gradients
             optimizer.zero_grad()
             # Forward pass
-            outputs = model(input_ids=input_ids_fens, attention_mask=attention_mask_fens, decoder_input_ids=input_ids_comments, decoder_attention_mask=attention_mask_comments)
+            outputs = model(input_ids=input_ids_fens, attention_mask=attention_mask_fens, decoder_input_ids=input_ids_uci, decoder_attention_mask=attention_mask_uci)
             logits = outputs.logits
-            loss = criterion(logits.view(-1, logits.shape[-1]), input_ids_comments.view(-1))
+            loss = criterion(logits.view(-1, logits.shape[-1]), input_ids_uci.view(-1))
             total_loss += loss.item()
 
             # Backward pass
@@ -238,6 +245,8 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
             # Update weights
             optimizer.step()
             print("Entrainement du batch fini")
+
+            del batch, outputs, loss
 
         # Print average loss for the epoch
         print(f'Epoch {epoch + 1}/{num_epochs}, Loss: {total_loss/len(train_loader):.4f}')
@@ -287,11 +296,11 @@ def evaluate_BART_model(test_loader, model, device):
     return accuracy
 
 
-# # Get the training and testing data loaders
-train_loader, test_loader = get_X_train_X_test_dataset()
+# # # Get the training and testing data loaders
+# train_loader, test_loader = get_X_train_X_test_dataset_uci()
 
-# Train the model
-train_BART_model(train_loader, model, device)
+# # Train the model
+# train_BART_model(train_loader, model, device)
 
 
 
