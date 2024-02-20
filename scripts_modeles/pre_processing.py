@@ -1,22 +1,17 @@
+# Assicurati che la GPU sia disponibile
 import torch
-
-# # Assicurati che la GPU sia disponibile
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 # Téléchargement du modèle BART et de son tokeniseur
-# from download_BART_model import download_tokenizer
-# tokenizer = download_tokenizer()
-from transformers import BartTokenizer
-tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
-
+from download_BART_model import download_tokenizer
+tokenizer = download_tokenizer()
 
 
 # Importations
 import os
 import glob
 import pandas as pd
-
 
 
 # Fonction pour trouver le dossier du corpus
@@ -91,9 +86,9 @@ def encode_fen(input_fen, fen_vocab):
     tokenized_fen = [car for car in input_fen]
 
     # On encode la notation FEN avec le tokeniseur
-    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
+    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
-    # Move tensors to GPU
+    # Formattage pour adaptation à l'input du modèle dans le batch
     encoded_fen = {key: value.squeeze(0).to(device) for key, value in encoded_fen.items()}
 
     # Save the updated tokenizer in the working directory
@@ -200,8 +195,9 @@ def tokenize_comment(comment, comments_st_notation_vocab):
 def encode_comment(tokenized_comment):
 
     # Encode le commentaire avec le 'BART Tokenizer'
-    encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
+    encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
+    # Formattage pour adaptation à l'input du modèle dans le batch
     encoded_comment = {key: value.squeeze(0).to(device) for key, value in encoded_comment.items()}
 
     # Save the updated tokenizer in the working directory
@@ -209,13 +205,6 @@ def encode_comment(tokenized_comment):
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
     return encoded_comment
-
-
-# encoded_comment = encode_comment("at this level of play, I learned not to trust dxc5, Qa5+ anymore... the upcoming Nc3, will always force d6; so we better prepare for that...")
-# print(encoded_comment)
-
-# encoded_fen = encode_fen("rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1")
-# print(encoded_fen)
 
 
 
@@ -272,7 +261,13 @@ def encode_uci(input_uci, uci_vocab):
     tokenized_uci = [input_uci[:2], input_uci[2:4]]
 
     # On encode la notation uci avec le tokeniseur
-    encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=512, truncation=True)
+    encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
+
+    # Formattage pour adaptation à l'input du modèle dans le batch
+    encoded_uci = {key: value.squeeze(0).to(device) for key, value in encoded_uci.items()}
+
+    # Save the updated tokenizer in the working directory
+    tokenizer.save_pretrained(os.getcwd())
 
     # L'output est une séquence d'integers en tensor
     return encoded_uci

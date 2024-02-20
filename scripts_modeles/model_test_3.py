@@ -1,167 +1,301 @@
-# Téléchargement du modèle BART et de son tokeniseurmodel
-from download_BART_model import download_model, download_tokenizer
-model = download_model()
-tokenizer = download_tokenizer()
+# On utilise la GPU quand c'est possible
+import torch.nn as nn
+import torch
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+gpu_name = torch.cuda.get_device_name(device)
+print("Nom de la GPU:", gpu_name)
+print(torch.__version__)
+
+if torch.cuda.is_available():
+    print("GPU disponibile")
+else:
+    print("GPU non disponibile")
 
 
 # Importations depuis pre_processing.py
 from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci
-from transformers import BartConfig
 from torch.utils.data import DataLoader, TensorDataset
-import torch
 import numpy as np
 import os
 import glob
 import pandas as pd
+import time
 from sklearn.model_selection import train_test_split
 
 
 
-'''
--------------- EXPERIENCE 3 : ENTRAINER LE MODELE A JOUER AUX ECHECS ------------------------
-'''
+from transformers import BartConfig, BartForConditionalGeneration, BartTokenizer
 
-def build_dataset():
+# Initializing a BART facebook/bart-large style configuration
+configuration = BartConfig(vocab_size=53291)
+
+# Initializing a model (with random weights) from the facebook/bart-large style configuration
+model = BartForConditionalGeneration(configuration)
+
+# Accessing the model configuration
+configuration = model.config
+
+# Initialisation du BART Tokenizer
+tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
+
+# Détermine le chemin du corpus
+corpus_path = find_corpus_folder(directory='corpus_csv')
+
+# Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
+corpus_path = os.path.join(corpus_path, "*.csv")
+
+# Define the paths to save/load the variables
+fen_vocab_file = 'fen_vocab.txt'
+uci_vocab_file = 'uci_vocab.txt'
+
+# Check if the files exist
+if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
+    # Load the variables from files
+    with open(fen_vocab_file, 'r') as f:
+        fen_vocab = f.read().splitlines()
+    with open(uci_vocab_file, 'r') as f:
+        uci_vocab = f.read().splitlines()
+else:
+    # Initialize the variables
+    fen_vocab = get_FEN_vocab()
+    uci_vocab = get_uci_vocab()
+
+    # Save the variables to files
+    with open(fen_vocab_file, 'w') as f:
+        f.write('\n'.join(fen_vocab))
+    with open(uci_vocab_file, 'w') as f:
+        f.write('\n'.join(uci_vocab))
+
+
+print("Tous les vocabs sont prets")
+print("i'm heeeereeee")
+
+
+
+# Fonction d'extraction des fens et des uci encodés
+def get_X_and_y_encoded():
 
     # Constitution de X et y vides
     X = []
     y = []
 
-    # Détermine le chemin du corpus
-    corpus_path = find_corpus_folder(directory='corpus_csv')
-
-    # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-    corpus_path = corpus_path + "/*.csv"
-
     # Parcours tous les fichiers CSV dans le corpus
     for csv_match_path in glob.glob(corpus_path):
 
+        # On commence le calcul temporel d'une boucle
+        start_time = time.time()
+
         # Charge le fichier CSV dans un DataFrame pandas
         df = pd.read_csv(csv_match_path)
-    for fen, uci in zip(df['FEN_notation'], df['UCI_notation']):
-            X.append(fen)
-            y.append(uci)
 
-    return X, y
+        # Boucle sur chaque paire de valeurs UCI_notation et N_move dans le DataFrame df
+        for uci, n_move in zip(df['UCI_notation'], df['N_move']):
+            
+            # Tentative d'exécution du bloc suivant
+            try:
 
+                # Vérification si le mouvement est le premier de la partie
+                if n_move == 1:
 
-def get_X_and_y_encoded():
+                    # Si oui, définir la position initiale FEN standard
+                    start_fen = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
 
-    # Extraction de X et y
-    X, y = build_dataset()
+                    # Encodage de la position FEN et de l'action UCI correspondante
+                    X.append(encode_fen(start_fen, fen_vocab))
+                    y.append(encode_uci(uci, uci_vocab))
+                
+                # Si ce n'est pas le premier mouvement
+                else:
+                    # On récupérère la FEN précédente à partir du DataFrame à l'indice -1
+                    previous_fen = df.at[df.index[-1], 'FEN_notation']
 
-    # Définition des données d'entraînement et de test
-    train_ucis, test_ucis, train_fens, test_fens = train_test_split(X, y, test_size=0.2, random_state=42)
+                    # Encodage de la FEN précédente et de l'action UCI correspondante
+                    X.append(encode_fen(previous_fen, fen_vocab))
+                    y.append(encode_uci(uci, uci_vocab))
 
-    # Liste des textes d'entraînement
-    train_fens = list(train_fens)
-    # Liste des étiquettes d'entraînement
-    train_ucis = list(train_ucis)  
-    # Liste des textes de test
-    test_fens = list(test_fens)
-     # Liste des étiquettes de test
-    test_ucis = list(test_ucis)
-    
-    # On récupère le vocabulaire des fen et uci
-    vocab_fen = get_FEN_vocab()
-    vocab_uci = get_uci_vocab()
+            # En cas d'erreur, passer à l'itération suivante sans rien faire
+            except:
+                pass
+        
+        # On affiche le temps de traitement de la boucle en question
+        end_time = time.time()
+        print(end_time - start_time)
+        
+    # Division des données en données d'entraînement et de test
+    train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # Tokenisation des données d'entraînement et de test
-    train_fen_encodings = [encode_fen(fen, vocab_fen) for fen in train_fens]
-    train_uci_encodings = [encode_uci(uci, vocab_uci) for uci in train_ucis]
-    
-    test_fen_encodings = [encode_fen(fen, vocab_fen) for fen in test_fens]
-    test_uci_encodings = [encode_uci(uci, vocab_uci) for uci in test_ucis]
+    # Nettoyage des données
+    X = None
+    y = None
 
+    # Output X_train, X_test, y_train, y_test
     return train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings
+
+
+
+# Function to extract tensors from a list of dictionaries
+def extract_tensors(data):
+    
+    input_ids_list = [item["input_ids"] for item in data]
+    attention_mask_list = [item["attention_mask"] for item in data]
+    
+    # Concatenate or stack tensors
+    input_ids_tensor = torch.stack(input_ids_list, dim=0)
+    attention_mask_tensor = torch.stack(attention_mask_list, dim=0)
+    
+    return input_ids_tensor, attention_mask_tensor
+
+
 
 def get_X_train_X_test_dataset():
 
     # Obtention des X_train et X_test encodés
-    train_encodings, test_encodings, train_ucis, test_ucis = get_X_and_y_encoded()
+    train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = get_X_and_y_encoded()
 
-    # Création des DataLoader pour les données d'entraînement et de test
-    train_dataset = TensorDataset(torch.tensor([item["input_ids"] for item in train_encodings]),
-                                torch.tensor([item["attention_mask"] for item in train_encodings]),
-                                torch.tensor([item["input_ids"] for item in train_ucis]),
-                                torch.tensor([item["attention_mask"] for item in train_ucis]))
-    test_dataset = TensorDataset(torch.tensor([item["input_ids"] for item in test_encodings]),
-                                torch.tensor([item["attention_mask"] for item in test_encodings]),
-                                torch.tensor([item["input_ids"] for item in test_ucis]),
-                                torch.tensor([item["attention_mask"] for item in test_ucis]))
+    # Extract tensors from the training data
+    train_input_ids_fens, train_attention_mask_fens = extract_tensors(train_fen_encodings)
+    train_input_ids_uci, train_attention_mask_uci = extract_tensors(train_uci_encodings)
 
-    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=8, shuffle=False)
+    # Extract tensors from the testing data
+    test_input_ids_fens, test_attention_mask_fens = extract_tensors(test_fen_encodings)
+    test_input_ids_uci, test_attention_mask_uci = extract_tensors(test_uci_encodings)
 
+    # Create TensorDatasets
+    train_dataset = TensorDataset(train_input_ids_fens, train_attention_mask_fens,
+                                train_input_ids_uci, train_attention_mask_uci)
+    test_dataset = TensorDataset(test_input_ids_fens, test_attention_mask_fens,
+                                test_input_ids_uci, test_attention_mask_uci)
+    
+    # Nettoyage des données d'entraînement et de test
+    train_fen_encodings = None
+    test_fen_encodings = None
+    train_uci_encodings = None
+    test_uci_encodings = None
+
+    # Création objets DataLoader pour les données d'entraînement et de test
+    train_loader = DataLoader(train_dataset, batch_size=10, shuffle=True)
+    test_loader = DataLoader(test_dataset, batch_size=10, shuffle=False)
+
+    # Output train_loader, test_loader
     return train_loader, test_loader
 
 
-def train_model(model, num_epochs=5):
 
-    # model = model
-    
-    train_loader, test_loader = get_X_train_X_test_dataset()
+def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5):
 
-    # Définition de l'optimiseur
-    optimizer = torch.optim.Adam(model.parameters(), lr=1e-5)
+    # Send the model to the device
+    model.to(device)
 
-    # Fonction de perte
-    # criterion = torch.nn.CrossEntropyLoss()
+    # Define the optimizer
+    optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 
-    # Entraînement du modèle
-    model.train()
+    # Define the loss function
+    criterion = nn.CrossEntropyLoss()
+
+    # Get the vocabulary size from the tokenizer
+    vocab_size = tokenizer.vocab_size
+    print("Updated Vocabulary Size:", vocab_size)
+
+    # Training loop
     for epoch in range(num_epochs):
+        model.train()
+        total_loss = 0
         for batch in train_loader:
-            input_ids, attention_mask, labels = batch
-            optimizer.zero_grad()
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-            loss = outputs.loss
-            loss.backward()
-            optimizer.step()
+            # Move batch to device
+            batch = [item.to(device) for item in batch]
+            # Unpack batch
+            input_ids_fens, attention_mask_fens, input_ids_comments, attention_mask_comments = batch
 
-    model_path = os.getcwd() + '/model_BART.pt'
+            # Clear gradients
+            optimizer.zero_grad()
+            # Forward pass
+            outputs = model(input_ids=input_ids_fens, attention_mask=attention_mask_fens, decoder_input_ids=input_ids_comments, decoder_attention_mask=attention_mask_comments)
+            logits = outputs.logits
+            loss = criterion(logits.view(-1, logits.shape[-1]), input_ids_comments.view(-1))
+            total_loss += loss.item()
+
+            # Backward pass
+            loss.backward()
+            # Update weights
+            optimizer.step()
+            print("Entrainement du batch fini")
+
+        # Print average loss for the epoch
+        print(f'Epoch {epoch + 1}/{num_epochs}, Loss: {total_loss/len(train_loader):.4f}')
+
+    print('Training finished!')
+
+    model_path = os.getcwd() + '/model_BART_2.pt'
     model.save_pretrained(model_path)
 
     print("Model saved to", model_path)
 
-    # Évaluation du modèle
-    model.eval()
-    all_predictions = []
-    all_labels = []
-    with torch.no_grad():
-        for batch in test_loader:
-            input_ids, attention_mask, labels = batch
-            outputs = model.generate(input_ids=input_ids, attention_mask=attention_mask)
-            all_predictions.extend(outputs)
-            all_labels.extend(labels)
-
-    # Calcul des métriques d'évaluation
-    accuracy = np.mean(np.array(all_predictions) == np.array(all_labels))
-    print(f'Précision : {accuracy}')
-
     return model_path
 
 
-print(get_X_train_X_test_dataset())
 
-# TODO : changer fonction pour générer next move    
-
-def predict_next_move(fen_input):
+def evaluate_BART_model(test_loader, model, device):
+    # Set the model to evaluation mode
+    model.eval()
     
-    # Ajoute du padding à la séquence encodée pour uniformiser la longueur de la séquence
-    # max_length = 100  # Longueur maximale autorisée pour l'entrée
-    encoded_fen = encode_fen(fen_input)
+    # Initialize lists to store predictions and labels
+    all_predictions = []
+    all_labels = []
+    
+    # Disable gradient calculation for evaluation
+    with torch.no_grad():
+        for batch in test_loader:
+            # Move batch to device
+            batch = [item.to(device) for item in batch]
+            # Unpack batch
+            input_ids, attention_mask, labels = batch
+            
+            # Generate predictions
+            outputs = model.generate(input_ids=input_ids, attention_mask=attention_mask)
+            predictions = outputs
+            
+            # Extend predictions and labels lists
+            all_predictions.extend(predictions)
+            all_labels.extend(labels)
+    
+    # Calculate accuracy
+    all_predictions = torch.cat(all_predictions).cpu().numpy()
+    all_labels = torch.cat(all_labels).cpu().numpy()
+    accuracy = np.mean(all_predictions == all_labels)
+    
+    print(f'Accuracy: {accuracy:.4f}')
+    
+    return accuracy
 
-    # Transfère le tenseur sur GPU s'il est disponible
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    input_tensor = input_tensor.to(device)
-    # Déplace le modèle sur GPU s'il est disponible
-    model = model.to(device)
 
-    # Utilise le modèle BART pour générer le commentaire
-    output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
+# # Get the training and testing data loaders
+train_loader, test_loader = get_X_train_X_test_dataset()
 
-    # Décode la sortie générée
-    generated_next_move = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+# Train the model
+train_BART_model(train_loader, model, device)
 
-    return generated_next_move
+
+
+def predict_next_move(fen_input, model, tokenizer, encode_fen, fen_vocab):
+    try:
+        # Encode the FEN input
+        encoded_fen = encode_fen(fen_input, fen_vocab)
+
+        # Transfer input tensor to GPU if available
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        input_tensor = encoded_fen.to(device)
+
+        # Move the model to GPU if available
+        model = model.to(device)
+
+        # Use the model to generate the comment
+        output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
+
+        # Decode the generated output
+        generated_next_move = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+        return generated_next_move
+    
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
