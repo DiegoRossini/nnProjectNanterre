@@ -1,6 +1,6 @@
-# Assurez-vous que la GPU est disponible
-import torch
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# # Assurez-vous que la GPU est disponible
+# import torch
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 # Téléchargement du modèle BART et de son tokeniseur
@@ -86,7 +86,7 @@ def encode_fen(input_fen, fen_vocab):
     encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
-    encoded_fen = {key: value.squeeze(0).to(device) for key, value in encoded_fen.items()}
+    encoded_fen = {key: value.squeeze(0) for key, value in encoded_fen.items()}
 
     # La sortie est une séquence d'entiers en tensor
     return encoded_fen
@@ -189,7 +189,7 @@ def encode_comment(tokenized_comment):
     encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
-    encoded_comment = {key: value.squeeze(0).to(device) for key, value in encoded_comment.items()}
+    encoded_comment = {key: value.squeeze(0) for key, value in encoded_comment.items()}
 
     # Retourne le commentaire encodé avec le 'BART Tokenizer'
     return encoded_comment
@@ -249,7 +249,7 @@ def encode_uci(input_uci, uci_vocab):
     encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
-    encoded_uci = {key: value.squeeze(0).to(device) for key, value in encoded_uci.items()}
+    encoded_uci = {key: value.squeeze(0) for key, value in encoded_uci.items()}
 
     # La sortie est une séquence d'entiers en tensor
     return encoded_uci

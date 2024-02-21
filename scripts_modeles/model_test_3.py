@@ -1,16 +1,16 @@
 import torch
 
-# Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-gpu_name = torch.cuda.get_device_name(device)
-print("Nom de la GPU:", gpu_name)
-print(torch.__version__)
+# # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# gpu_name = torch.cuda.get_device_name(device)
+# print("Nom de la GPU:", gpu_name)
+# print(torch.__version__)
 
-# Vérifie si une GPU est disponible
-if torch.cuda.is_available():
-    print("GPU disponible")
-else:
-    print("GPU non disponible")
+# # Vérifie si une GPU est disponible
+# if torch.cuda.is_available():
+#     print("GPU disponible")
+# else:
+#     print("GPU non disponible")
 
 # Téléchargements des fonctions de prétraitement nécessaires
 from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci
@@ -28,15 +28,11 @@ from sklearn.model_selection import train_test_split
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
 
-# Initialisation d'un modèle (avec des poids aléatoires) à partir de la configuration de style facebook/bart-large
-model = download_model()
+# # Initialisation d'un modèle (avec des poids aléatoires) à partir de la configuration de style facebook/bart-large
+# model = download_model()
 
 # Initialisation du Tokenizer BART
 tokenizer = download_tokenizer()
-
-'''
----------- Extraction des vocabulaires et ajout des tokens au Tokenizer -----------------
-'''
 
 # Détermine le chemin du corpus
 corpus_path = find_corpus_folder(directory='corpus_csv')
@@ -48,40 +44,40 @@ corpus_path = os.path.join(corpus_path, "*.csv")
 fen_vocab_file = 'fen_vocab.txt'
 uci_vocab_file = 'uci_vocab.txt'
 
-# Vérifie si les fichiers existent
-if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
+# # Vérifie si les fichiers existent
+# if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
 
     # Charge les variables à partir des fichiers
-    with open(fen_vocab_file, 'r') as f:
-        fen_vocab = f.read().splitlines()
-    with open(uci_vocab_file, 'r') as f:
-        uci_vocab = f.read().splitlines()
+with open(fen_vocab_file, 'r') as f:
+    fen_vocab = f.read().splitlines()
+with open(uci_vocab_file, 'r') as f:
+    uci_vocab = f.read().splitlines()
 
-else:
+# else:
 
-    # Initialise les variables
-    fen_vocab = get_FEN_vocab()
-    uci_vocab = get_uci_vocab()
+#     # Initialise les variables
+#     fen_vocab = get_FEN_vocab()
+#     uci_vocab = get_uci_vocab()
 
-    # Enregistre les variables dans les fichiers
-    with open(fen_vocab_file, 'w') as f:
-        f.write('\n'.join(fen_vocab))
-    with open(uci_vocab_file, 'w') as f:
-        f.write('\n'.join(uci_vocab))
+#     # Enregistre les variables dans les fichiers
+#     with open(fen_vocab_file, 'w') as f:
+#         f.write('\n'.join(fen_vocab))
+#     with open(uci_vocab_file, 'w') as f:
+#         f.write('\n'.join(uci_vocab))
 
-# Ajoute les tokens de vocabulaire FEN à l'objet tokenizer
-tokenizer.add_tokens(fen_vocab)
+# # Ajoute les tokens de vocabulaire FEN à l'objet tokenizer
+# tokenizer.add_tokens(fen_vocab)
 
-# Ajoute les tokens de vocabulaire UCI à l'objet tokenizer
-tokenizer.add_tokens(uci_vocab)
+# # Ajoute les tokens de vocabulaire UCI à l'objet tokenizer
+# tokenizer.add_tokens(uci_vocab)
 
-# Enregistre le tokenizer mis à jour dans le répertoire de travail
-tokenizer.save_pretrained(os.getcwd())
+# # Enregistre le tokenizer mis à jour dans le répertoire de travail
+# tokenizer.save_pretrained(os.getcwd())
 
-# Adaptation de la taille des embeddings à la taille du nouveau vocabulaire
-model.resize_token_embeddings(len(tokenizer))
-print("Taille du vocabulaire mise à jour:", len(tokenizer))
-print("Tous les vocabulaires sont prêts")
+# # Adaptation de la taille des embeddings à la taille du nouveau vocabulaire
+# model.resize_token_embeddings(len(tokenizer))
+# print("Taille du vocabulaire mise à jour:", len(tokenizer))
+# print("Tous les vocabulaires sont prêts")
 
 # Fonction d'extraction des FEN et des UCI encodés
 def get_X_and_y_encoded_uci():

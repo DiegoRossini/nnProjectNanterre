@@ -1,16 +1,16 @@
 import torch
 
-# Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-gpu_name = torch.cuda.get_device_name(device)
-print("Nom de la GPU:", gpu_name)
-print(torch.__version__)
+# # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# gpu_name = torch.cuda.get_device_name(device)
+# print("Nom de la GPU:", gpu_name)
+# print(torch.__version__)
 
-# Vérifie si une GPU est disponible
-if torch.cuda.is_available():
-    print("GPU disponible")
-else:
-    print("GPU non disponible")
+# # Vérifie si une GPU est disponible
+# if torch.cuda.is_available():
+#     print("GPU disponible")
+# else:
+#     print("GPU non disponible")
 
 # Téléchargement des fonctions de prétraitement nécessaires
 from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_comment, get_st_notation_vocab, get_comments_st_notation_vocab, tokenize_comment
@@ -28,8 +28,8 @@ from sklearn.model_selection import train_test_split
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
 
-# Initialisation d'un modèle (avec des poids aléatoires) basé sur la configuration du style facebook/bart-large
-model = download_model()
+# # Initialisation d'un modèle (avec des poids aléatoires) basé sur la configuration du style facebook/bart-large
+# model = download_model()
 
 # Initialisation du BART Tokenizer
 tokenizer = download_tokenizer()
@@ -45,39 +45,39 @@ fen_vocab_file = 'fen_vocab.txt'
 all_st_notation_vocab_file = 'all_st_notation_vocab.txt'
 comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
 
-# Vérifie si les fichiers existent
-if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
-    # Charge les variables à partir des fichiers
-    with open(fen_vocab_file, 'r') as f:
-        fen_vocab = f.read().splitlines()
-    with open(all_st_notation_vocab_file, 'r') as f:
-        all_st_notation_vocab = f.read().splitlines()
-    with open(comments_st_notation_vocab_file, 'r') as f:
-        comments_st_notation_vocab = f.read().splitlines()
-else:
-    # Initialise les variables
-    fen_vocab = get_FEN_vocab()
-    all_st_notation_vocab = get_st_notation_vocab()
-    comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
+# # Vérifie si les fichiers existent
+# if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
+#     # Charge les variables à partir des fichiers
+with open(fen_vocab_file, 'r') as f:
+    fen_vocab = f.read().splitlines()
+with open(all_st_notation_vocab_file, 'r') as f:
+    all_st_notation_vocab = f.read().splitlines()
+with open(comments_st_notation_vocab_file, 'r') as f:
+    comments_st_notation_vocab = f.read().splitlines()
+# else:
+#     # Initialise les variables
+#     fen_vocab = get_FEN_vocab()
+#     all_st_notation_vocab = get_st_notation_vocab()
+#     comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
 
-    # Sauvegarde les variables dans des fichiers
-    with open(fen_vocab_file, 'w') as f:
-        f.write('\n'.join(fen_vocab))
-    with open(all_st_notation_vocab_file, 'w') as f:
-        f.write('\n'.join(all_st_notation_vocab))
-    with open(comments_st_notation_vocab_file, 'w') as f:
-        f.write('\n'.join(comments_st_notation_vocab))
+#     # Sauvegarde les variables dans des fichiers
+#     with open(fen_vocab_file, 'w') as f:
+#         f.write('\n'.join(fen_vocab))
+#     with open(all_st_notation_vocab_file, 'w') as f:
+#         f.write('\n'.join(all_st_notation_vocab))
+#     with open(comments_st_notation_vocab_file, 'w') as f:
+#         f.write('\n'.join(comments_st_notation_vocab))
 
-# Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
-tokenizer.add_tokens(fen_vocab)
-# Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
-tokenizer.add_tokens(all_st_notation_vocab)
-# Sauvegarde le tokenizer mis à jour dans le répertoire de travail
-tokenizer.save_pretrained(os.getcwd())
-# Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
-model.resize_token_embeddings(len(tokenizer))
-print("Taille du vocabulaire mise à jour:", len(tokenizer))
-print("Tous les vocabulaires sont prêts")
+# # Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
+# tokenizer.add_tokens(fen_vocab)
+# # Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
+# tokenizer.add_tokens(all_st_notation_vocab)
+# # Sauvegarde le tokenizer mis à jour dans le répertoire de travail
+# tokenizer.save_pretrained(os.getcwd())
+# # Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
+# model.resize_token_embeddings(len(tokenizer))
+# print("Taille du vocabulaire mise à jour:", len(tokenizer))
+# print("Tous les vocabulaires sont prêts")
 
 # Fonction pour extraire les FEN et les commentaires encodés
 def get_X_and_y_encoded_comment():

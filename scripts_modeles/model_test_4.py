@@ -15,19 +15,13 @@ else:
 
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci, encode_comment, get_st_notation_vocab, get_comments_st_notation_vocab, tokenize_comment
+from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get_st_notation_vocab, get_comments_st_notation_vocab
 
 
 # Importations générales nécessaires
-from torch.utils.data import DataLoader, TensorDataset
 import torch.nn as nn
-import numpy as np
 import os
-import glob
-import pandas as pd
 import time
-from sklearn.model_selection import train_test_split
-
 
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
@@ -92,7 +86,6 @@ tokenizer.add_tokens(fen_vocab)
 tokenizer.add_tokens(uci_vocab)
 # Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
 tokenizer.add_tokens(all_st_notation_vocab)
-
 # Enregistre le tokenizer mis à jour dans le répertoire de travail
 tokenizer.save_pretrained(os.getcwd())
 
@@ -103,8 +96,9 @@ print("Tous les vocabulaires sont prêts")
 
 
 # Importations pour la création du train_loader pour les commentaires et l'UCI
-from model_test_2 import get_X_and_y_encoded_comment, extract_tensors, get_X_train_X_test_dataset_comment
-from model_test_3 import get_X_and_y_encoded_uci, extract_tensors, get_X_train_X_test_dataset_uci
+from model_test_2 import get_X_train_X_test_dataset_comment
+from model_test_3 import get_X_train_X_test_dataset_uci
+
 
 # Obtient les chargeurs de données d'entraînement et de test pour la génération de commentaires
 train_loader_comment, test_loader_comment = get_X_train_X_test_dataset_comment()
@@ -113,7 +107,7 @@ train_loader_uci, test_loader_uci = get_X_train_X_test_dataset_uci()
 
 
 # Fonction pour entraîner BART avec une approche multi-tâches
-def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, device, num_epochs=5, learning_rate=2e-5):
+def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, device, num_epochs=3, learning_rate=2e-5):
 
     # Envoie le modèle sur le périphérique
     model.to(device)
@@ -127,6 +121,9 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 
     # Boucle d'entraînement
     for epoch in range(num_epochs):
+
+        start_time = time.time()
+
         model.train()
         total_loss_comment = 0
         total_loss_uci = 0
@@ -168,6 +165,12 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 
         # Affiche la perte moyenne pour l'époque
         print(f'Époque {epoch + 1}/{num_epochs}, Perte (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Perte (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
+
+        # Vider CUDA cache pour libérer de ma mémoire
+        torch.cuda.empty_cache()
+
+        end_time = time.time()
+        print(f"Durée totale de l'epoch : {end_time - start_time}")
 
     print('Entraînement terminé !')
 
