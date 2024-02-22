@@ -13,7 +13,7 @@ import torch
 #     print("GPU non disponible")
 
 # Téléchargements des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci
+from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -86,8 +86,19 @@ def get_X_and_y_encoded_uci():
     X = []
     y = []
 
-    # Parcourt tous les fichiers CSV dans le corpus
-    for csv_match_path in glob.glob(corpus_path):
+
+########################## LIGNE A DECOMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ##########################
+    # # Parcourt tous les fichiers CSV dans le corpus
+    # for csv_match_path in glob.glob(corpus_path):
+########################## A DECOMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS ##############################
+
+########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
+    # On obtient la liste des csv composant le corpus plus petit
+    restricted_corpus = select_reduced_corpus(corpus_path, max_files=300)
+
+    # Itération sur les csv sélectionnés
+    for csv_match_path in restricted_corpus:
+############################## LIGNES A COMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS #####################
 
         # Commence le calcul temporel d'une boucle
         start_time = time.time()
@@ -133,7 +144,7 @@ def get_X_and_y_encoded_uci():
     train_fen_encodings, train_uci_encodings, test_fen_encodings, test_uci_encodings = train_test_split(X, y, test_size=0.2, random_state=42)
 
     # Nettoyage des données
-    del X, y
+    del X, y, restricted_corpus
 
     # Output X_train, X_test, y_train, y_test
     return train_fen_encodings, test_fen_encodings, train_uci_encodings, test_uci_encodings

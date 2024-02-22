@@ -13,7 +13,7 @@ import torch
 #     print("GPU non disponible")
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_comment, get_st_notation_vocab, get_comments_st_notation_vocab, tokenize_comment
+from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_comment, get_st_notation_vocab, get_comments_st_notation_vocab, tokenize_comment, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -86,8 +86,18 @@ def get_X_and_y_encoded_comment():
     X = []
     y = []
 
-    # Parcourt tous les fichiers CSV dans le corpus
-    for csv_match_path in glob.glob(corpus_path):
+########################## LIGNE A DECOMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ##########################
+    # # Parcourt tous les fichiers CSV dans le corpus
+    # for csv_match_path in glob.glob(corpus_path):
+########################## A DECOMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS ##############################
+
+########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
+    # On obtient la liste des csv composant le corpus plus petit
+    restricted_corpus = select_reduced_corpus(corpus_path, max_files=300)
+
+    # Itération sur les csv sélectionnés
+    for csv_match_path in restricted_corpus:
+############################## LIGNES A COMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS #####################
         
         # Débute le calcul du temps pour une boucle spécifique
         start_time = time.time()
@@ -112,7 +122,7 @@ def get_X_and_y_encoded_comment():
     train_encodings_fens, test_encodings_fens, train_encoding_comments, test_encoding_comments = train_test_split(X, y, test_size=0.3, random_state=42)
 
     # Nettoie les données
-    del X, y
+    del X, y, restricted_corpus
 
     # Retourne les données d'entraînement et de test
     return train_encodings_fens, test_encodings_fens, train_encoding_comments, test_encoding_comments

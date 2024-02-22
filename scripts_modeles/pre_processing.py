@@ -30,6 +30,31 @@ def find_corpus_folder(directory='corpus_csv'):
     return None
 
 
+
+# Function pour selectionner un corpus d'entrainement plus petit (que des matchs ayant au moins 60 coups et pas moins de 80)
+def select_reduced_corpus(corpus_path, max_files=3000):
+
+    # Initialisation d'une liste vide et d'un compteur
+    selected_csv_files = []
+
+    # Itération à travers chaque csv du corpus
+    for csv_match_path in glob.glob(corpus_path):
+
+        # Ouverture du csv et comptage des lignes
+        with open(csv_match_path, 'r', encoding='utf-8') as file:
+            line_count = sum(1 for line in file)
+
+        # Check si le csv contient plus de 60 lignes et si moins de 80
+        if 50 <= line_count <= 80:
+            selected_csv_files.append(csv_match_path)
+
+            # Check si la taille du corpus d'entrainement est atteinte, si oui l'output sera la liste des parcours des csv
+            if len(selected_csv_files) >= max_files:
+                return selected_csv_files
+
+    return selected_csv_files
+
+
 '''
 Les deux fonctions qui suivent servent à tokenizer et encoder un mouvement en notation FEN
 '''

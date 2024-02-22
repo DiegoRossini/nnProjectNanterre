@@ -5,7 +5,7 @@ import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
-print(torch.__version__)
+print("Version de torch:", torch.__version__)
 
 # Vérifie si la GPU est disponible
 if torch.cuda.is_available():
@@ -130,6 +130,9 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
         
         # Entraînement sur les commentaires
         for batch_comment, batch_uci in zip(train_loader_comment, train_loader_uci):
+
+            start_time_batch = time.time()
+
             # Déplace le lot sur le périphérique
             batch_comment = [item.to(device) for item in batch_comment]
             batch_uci = [item.to(device) for item in batch_uci]
@@ -159,9 +162,11 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
             loss.backward()
             # Met à jour les poids
             optimizer.step()
-            print("Entraînement du lot terminé")
 
             del batch_comment, batch_uci, outputs_comment, outputs_uci, loss_comment, loss_uci, loss
+
+            end_time_batch = time.time()
+            print(f"Durée totale de l'ntraînement du batch : {end_time_batch - start_time_batch}")
 
         # Affiche la perte moyenne pour l'époque
         print(f'Époque {epoch + 1}/{num_epochs}, Perte (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Perte (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
