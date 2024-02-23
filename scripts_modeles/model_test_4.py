@@ -169,7 +169,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
             print(f"Durée totale de l'ntraînement du batch : {end_time_batch - start_time_batch}")
 
         # Affiche la perte moyenne pour l'époque
-        print(f'Époque {epoch + 1}/{num_epochs}, Perte (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Perte (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
+        print(f'Epoch {epoch + 1}/{num_epochs}, Loss (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Loss (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
 
         # Vider CUDA cache pour libérer de ma mémoire
         torch.cuda.empty_cache()
