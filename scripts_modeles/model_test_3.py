@@ -13,7 +13,7 @@ import torch
 #     print("GPU non disponible")
 
 # Téléchargements des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, get_FEN_vocab, encode_fen, get_uci_vocab, encode_uci, select_reduced_corpus
+from pre_processing import find_corpus_folder, encode_fen, encode_uci, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -235,7 +235,7 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     print('Entraînement terminé !')
 
-    model_path = os.getcwd() + '/model_BART_2.pt'
+    model_path = os.getcwd() + '/model_BART_3.pt'
     model.save_pretrained(model_path)
 
     print("Modèle enregistré sous", model_path)

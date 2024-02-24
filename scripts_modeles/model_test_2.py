@@ -6,14 +6,14 @@ import torch
 # print("Nom de la GPU:", gpu_name)
 # print(torch.__version__)
 
-# # Vérifie si une GPU est disponible
+# # Vérifie si un GPU est disponible
 # if torch.cuda.is_available():
 #     print("GPU disponible")
 # else:
 #     print("GPU non disponible")
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_comment, get_st_notation_vocab, get_comments_st_notation_vocab, tokenize_comment, select_reduced_corpus
+from pre_processing import find_corpus_folder, encode_fen, encode_comment, tokenize_comment, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -108,7 +108,7 @@ def get_X_and_y_encoded_comment():
         # Parcourt les lignes du DataFrame et encode les données
         for fen, comment in zip(df['FEN_notation'], df['Comment']):
             try:
-                tokenized_comment = tokenize_comment(comment, comments_st_notation_vocab)
+                tokenized_comment = tokenize_comment(comment)
                 y.append(encode_comment(tokenized_comment))
                 X.append(encode_fen(fen, fen_vocab))
             except:
@@ -121,7 +121,7 @@ def get_X_and_y_encoded_comment():
     # Divise les données en données d'entraînement et de test
     train_encodings_fens, test_encodings_fens, train_encoding_comments, test_encoding_comments = train_test_split(X, y, test_size=0.3, random_state=42)
 
-    # Nettoie les données
+    # Nettoie les données si besoin de place mémoire
     del X, y, restricted_corpus
 
     # Retourne les données d'entraînement et de test
@@ -189,7 +189,7 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
         model.train()
         total_loss = 0
         for batch in train_loader:
-            # Déplace le batch sur le périphérique
+            # Déplace le batch sur le GPU si disponible
             batch = [item.to(device) for item in batch]
             # Dépaquete le batch
             input_ids_fens, attention_mask_fens, input_ids_comments, attention_mask_comments = batch

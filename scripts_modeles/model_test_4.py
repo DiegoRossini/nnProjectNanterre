@@ -133,7 +133,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 
             start_time_batch = time.time()
 
-            # Déplace le lot sur le périphérique
+            # Déplace le lot sur le GPU si possible
             batch_comment = [item.to(device) for item in batch_comment]
             batch_uci = [item.to(device) for item in batch_uci]
             
@@ -171,7 +171,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
         # Affiche la perte moyenne pour l'époque
         print(f'Epoch {epoch + 1}/{num_epochs}, Loss (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Loss (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
 
-        # Vider CUDA cache pour libérer de ma mémoire
+        # Vider CUDA cache pour libérer de la mémoire
         torch.cuda.empty_cache()
 
         end_time = time.time()
@@ -179,7 +179,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 
     print('Entraînement terminé !')
 
-    model_path = os.getcwd() + '/model_BART_2.pt'
+    model_path = os.getcwd() + '/model_BART_4.pt'
     model.save_pretrained(model_path)
 
     print("Modèle enregistré sous", model_path)
@@ -204,3 +204,5 @@ def generate_comment_and_move(fen_notation, model, tokenizer, device):
     decoded_move = tokenizer.decode(generated_move[0], skip_special_tokens=True)
 
     return decoded_comment, decoded_move
+
+# TODO : ajouter l'évaluation du modèle

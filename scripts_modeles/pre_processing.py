@@ -31,7 +31,7 @@ def find_corpus_folder(directory='corpus_csv'):
 
 
 
-# Function pour selectionner un corpus d'entrainement plus petit (que des matchs ayant au moins 60 coups et pas moins de 80)
+# Function pour selectionner un corpus d'entrainement plus petit (que des matchs ayant au moins 50 coups et pas moins de 80)
 def select_reduced_corpus(corpus_path, max_files=3000):
 
     # Initialisation d'une liste vide et d'un compteur
@@ -44,7 +44,7 @@ def select_reduced_corpus(corpus_path, max_files=3000):
         with open(csv_match_path, 'r', encoding='utf-8') as file:
             line_count = sum(1 for line in file)
 
-        # Check si le csv contient plus de 60 lignes et si moins de 80
+        # Check si le csv contient plus de 50 lignes et moins de 80
         if 50 <= line_count <= 80:
             selected_csv_files.append(csv_match_path)
 
@@ -197,7 +197,7 @@ def get_comments_st_notation_vocab(all_st_notation_vocab):
 
 
 # Fonction qui tokenise avec BART Tokenizer un commentaire en entrée
-def tokenize_comment(comment, comments_st_notation_vocab):
+def tokenize_comment(comment):
 
     # Tokenisation du commentaire avec le 'BART Tokenizer'
     tokenized_comment = tokenizer.tokenize(comment)

@@ -4,7 +4,9 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 
 **----Travail en cours----**
 
-**Objectif actuel** : construire un modèle capable de générer un commentaire pertinent à partir d'un mouvement d'échecs en notation FEN passée en entrée.
+**Objectif** : construire une app de TAL constituée d'une interface où l'utilisateur peut rentrer des coups d'échecs et recevoir un commentaire à chaque coup, qui sera généré automatiquement par un modèle BART pré-entraîné et fine-tunné par nos soins. Le modèle est capable de générer un commentaire à partir d'une notation FEN passée en entrée.
+
+## BACKEND
 
 **Ordre de lancement des scripts (pour le moment)** :
 
@@ -17,7 +19,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - **Standard_notation** (e4, f5,...) : notation standard qui décrit la case où la pièce a été déplacée ;
     - **UCI_notation** (e2e4, f7f5,...) : notation UCI qui décrit la case où la pièce a été déplacée + la case de départ ;
     - **FEN_notation** (rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1) : décrit l'état de l'échiquier après le coup ;
-    - **Comment** (jusqu'à présent, tout va bien...) : commentaire relatif au coup.
+    - **Comment** ("jusqu'à présent, tout va bien...") : commentaire relatif au coup.
 
 3. **download_BART_model.py**  
     Ce script télécharge localement le modèle BART "facebook/bart-large" et son Tokenizer.
@@ -29,10 +31,10 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment) ;
     - Une fonction qui renvoie, pour une notation UCI en entrée, une notation UCI encodée (encoded_uci).
 
-5. **model_test_1.py**  
-    Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. Pour le moment, la génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
+5. **model_test_1.py = BASELINE**
+    Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. La génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
 
-6. **model_test_2.py**
+6. **model_test_2.py = MODELE DE GENERATION DE COMMENTAIRE**
     Ce script est dédié au fine-tuning du modèle BART pour la génération de commentaires à partir de notations FEN d'échecs. Voici les étapes principales de ce script :
     - Chargement des données d'entraînement et de test préparées à partir des parties d'échecs annotées.
     - Entraînement du modèle BART sur les données d'entraînement pour adapter le modèle à la tâche de génération de commentaires.
@@ -40,7 +42,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Test du modèle fine-tuné en générant un commentaire pour une notation FEN donnée à titre d'exemple.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement.
 
-7. **model_test_3.py**
+7. **model_test_3.py = MODELE POUR JOUER AUX ECHECS**
     Ce script est conçu pour le fine-tuning du modèle BART afin de générer des mouvements d'échecs en notation UCI à partir de positions d'échecs en notation FEN. Voici les étapes principales de ce script :
     - Téléchargement et initialisation du modèle BART ainsi que de son tokenizer.
     - Extraction des données d'entraînement et de test à partir des parties d'échecs annotées.
@@ -49,7 +51,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Prédiction du prochain mouvement d'échecs à partir d'une position donnée en notation FEN en utilisant le modèle fine-tuné.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement.
 
-8. **model_test_4.py**
+8. **model_test_4.py = MODELE MULTITACHE (génère commentaire et joue aux échecs)**
     Ce script vise à l'entraînement d'un modèle BART en utilisant une approche multi-tâches pour la génération de commentaires sur les parties d'échecs et la prédiction des prochains mouvements en notation UCI. Voici les principales étapes de ce script :
     - Téléchargement et initialisation du modèle BART ainsi que de son tokenizer.
     - Extraction des données nécessaires pour le fine-tuning, y compris les vocabulaires pour les différentes tâches.
@@ -59,8 +61,13 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Fonction pour générer à la fois un commentaire et un mouvement à partir d'une position d'échecs donnée.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_test_2.py` et `model_test_3.py` pour préparer les données et les loaders d'entraînement.
 
-    En raison des performances limitées du GPU à notre disposition, l'entraînement du modèle a été effectué avec les spécifications suivantes :
+**WARNING**
 
-    - TrainSet = Environ 16 500 exemples
-    - TestSet = Environ 4 200 exemples
+    En raison des performances limitées du GPU à notre disposition, l'entraînement du modèle 4 (multitâche) a été effectué avec les spécifications suivantes :
+
+    - TrainSet = Environ 16 900 exemples (1 exemple = 1 mouvement commenté + UCI + FEN)
+    - TestSet = Environ 3 900 exemples
     - Taille du lot (Batch_size) = 4
+    - Temps d'entraînement : environ 3 jours sur nos machines personnelles
+
+## FRONTEND ET API
