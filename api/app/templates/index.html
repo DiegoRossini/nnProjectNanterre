@@ -1,81 +1,135 @@
-{% extends 'base.html' %}
-
-{% block content %}
-  <!-- Header -->
-  <header>
-    <div class="container" id="maincontent" tabindex="-1">
-      <div class="row">
-          <div class="col-lg-6 col-lg-offset-3">
-            {% include 'card.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chessboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../static/js/chess.js/dist/esm/chess_esm_copie.js"></script>
+    <script src="../static/js/chessboard-1.0.0.min.js"></script>
+    <link rel="stylesheet" href="../static/css/chessboard-1.0.0.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <header class="bg-dark text-white py-4">
+      <div class="container">
+          <div class="row">
+              <div class="col-12 text-center">
+                  <h1>Site d'échecs</h1>
+              </div>
           </div>
       </div>
-      <div class="row">
-        <div class="intro-text">
-          <h1 class="name">Prêt-e à savoir qui tu es vraiment ?</h1>
-          <hr class="star-light">
-        </div>
-        <div class="col-lg-8 col-lg-offset-2 text-center">
-          <p>
-            Connecte-toi à Facebook afin de connaître les résultats !
-          </p>
-          <p style="margin-top: 20px;">
-            <div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="true" data-use-continue-as="true" onlogin='checkLoginState()'></div>
-          </p>
-        </div>
-      </div>
-    </div>
   </header>
-
-  <div id="fb-root"></div>
+  <div id="myBoard" style="width: 400px"></div>
+  <!-- <div id="message"></div> -->
+  <label>Status:</label>
+  <div id="status"></div>
+  <label>FEN:</label>
+  <div id="fen"></div>
+  <label>PGN:</label>
+  <div id="pgn"></div>
+  <!-- <label for="">Move comment :</label> -->
+  <div id="comment"></div>
+    
   <script>
-    // This is called with the results from from FB.getLoginStatus().
-    function statusChangeCallback(response) {
-      if (response.status === 'connected') {
-        callAPI();
+      var board = null
+      var game = new Chess()
+      var $status = $('#status')
+      var $fen = $('#fen')
+      var $pgn = $('#pgn')
+      var $msg = $('#message')
+      var $comment = $('#comment')
+      
+      function onDragStart (source, piece, position, orientation) {
+        // do not pick up pieces if the game is over
+        if (game.isGameOver()) return false
+      
+        // only pick up pieces for the side to move
+        if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
+            (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
+          return false
+        }
       }
-    }
-    // This function is called when someone finishes with the Login
-    // Button.
-    // But it is called twice so we need to tweak it a little bit.
-    var counter = 0;
-    function checkLoginState() {
-      counter += 1
-      if (counter == 1) {
-        FB.getLoginStatus(function(response) {
-          statusChangeCallback(response);
-        });
+
+      function displayMessage(message) {
+          $status.html(message); // Update the content of the message div
       }
-    }
-
-    window.fbAsyncInit = function() {
-      FB.init({
-        appId      : '{{ config['FB_APP_ID'] }}',
-        cookie     : true,  // enable cookies to allow the server to access
-                            // the session
-        xfbml      : true,  // parse social plugins on this page
-        version    : 'v2.8' // use graph api version 2.8
-      });
-
-      FB.getLoginStatus(function(response) {
-        statusChangeCallback(response);
-      });
-    };
-
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.9&appId={{ config['FB_APP_ID'] }}";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-
-    function callAPI() {
-      console.log('Welcome! Fetching your information.... ');
-      FB.api('/me', {fields: 'id, first_name, gender'}, function(response) {
-        console.log('Successful login for: ' + response.first_name);
-        var url = window.location.href + 'result?first_name=' + response.first_name + '&id=' + response.id + '&gender=' + response.gender;
-        window.location.href = url;
-      });
-    }
+      
+      function onDrop (source, target) {
+          try {
+              // see if the move is legal
+              var move = game.move({
+                  from: source,
+                  to: target,
+                  promotion: 'q' // NOTE: always promote to a queen for example simplicity
+              });
+      
+              // illegal move
+              if (move === null) {
+                  throw new Error('Invalid move');
+              }
+      
+              updateStatus();
+          } catch (error) {
+              // Display the error message to the user
+              displayMessage("This move is not allowed. Please try again.");
+              // Log the error to the console for debugging
+              console.error(error);
+          }
+      }
+      
+      // update the board position after the piece snap
+      // for castling, en passant, pawn promotion
+      function onSnapEnd () {
+        board.position(game.fen())
+      }
+      
+      function updateStatus () {
+        var status = ''
+      
+        var moveColor = 'White'
+        if (game.turn() === 'b') {
+          moveColor = 'Black'
+        }
+      
+        // checkmate?
+        if (game.isCheckmate()) {
+          status = 'Game over, ' + moveColor + ' is in checkmate.'
+        }
+      
+        // draw?
+        else if (game.isDraw()) {
+          status = 'Game over, drawn position'
+        }
+      
+        // game still on
+        else {
+          status = moveColor + ' to move'
+      
+          // check?
+          if (game.isCheck()) {
+            status += ', ' + moveColor + ' is in check'
+          }
+        }
+      
+        $status.html(status)
+        $fen.html(game.fen())
+        $pgn.html(game.pgn());
+      }
+      
+      var config = {
+        draggable: true,
+        position: 'start',
+        onDragStart: onDragStart,
+        onDrop: onDrop,
+        onSnapEnd: onSnapEnd
+      }
+      board = Chessboard('myBoard', config)
+      
+      updateStatus()
   </script>
-{% endblock %}
+</body>
+</html>
