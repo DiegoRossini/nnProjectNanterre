@@ -222,7 +222,6 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     return model_path
 
-# Fonction pour évaluer le modèle BART
 def evaluate_BART_model(test_loader, model, device):
 
     # Définit le modèle en mode d'évaluation
@@ -241,20 +240,20 @@ def evaluate_BART_model(test_loader, model, device):
             # Déplace le batch sur le périphérique
             batch = [item.to(device) for item in batch]
 
-            # Dépaquete le batch
+            # Dépaquette le batch
             input_ids_fens, attention_mask_fens, input_ids_comments, attention_mask_comments = batch
             
             # Génère les prédictions
-            outputs = model.generate(input_ids=input_ids_fens, attention_mask=attention_mask_fens)
-            predictions = outputs
+            outputs = model(input_ids=input_ids_fens, attention_mask=attention_mask_fens, decoder_input_ids=input_ids_comments, decoder_attention_mask=attention_mask_comments)
+            predictions = outputs.logits.argmax(dim=-1) # Choisi les token avec la probabilité la plus élevée
             
             # Étend les listes de prédictions et d'étiquettes
             all_predictions.extend(predictions)
             all_labels.extend(input_ids_comments)
     
     # Calcule la précision
-    all_predictions = torch.cat(all_predictions).cpu().numpy()
-    all_labels = torch.cat(all_labels).cpu().numpy()
+    all_predictions = torch.cat(all_predictions, dim=0).cpu().numpy()
+    all_labels = torch.cat(all_labels, dim=0).cpu().numpy()
     accuracy = np.mean(all_predictions == all_labels)
     
     print(f'Précision: {accuracy:.4f}')

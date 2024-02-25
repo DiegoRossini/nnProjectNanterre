@@ -1,3 +1,5 @@
+# Le fichier "saved_links.p" a été recuperé depuis "https://github.com/harsh19/ChessCommentaryGeneration". Voir le README pour plus d'informations.
+
 # Importations
 import pickle
 import os

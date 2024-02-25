@@ -256,19 +256,19 @@ def evaluate_BART_model(test_loader, model, device):
             # Déplace le batch au dispositif
             batch = [item.to(device) for item in batch]
             # Dépaquette le batch
-            input_ids, attention_mask, labels = batch
+            input_ids_fens, attention_mask_fens, input_ids_uci, attention_mask_uci = batch
             
             # Génère des prédictions
-            outputs = model.generate(input_ids=input_ids, attention_mask=attention_mask)
-            predictions = outputs
+            outputs = model.generate(input_ids=input_ids_fens, attention_mask=attention_mask_fens)
+            predictions = outputs.logits.argmax(dim=-1)
             
             # Étend les listes de prédictions et d'étiquettes
             all_predictions.extend(predictions)
-            all_labels.extend(labels)
+            all_labels.extend(input_ids_uci)
     
     # Calcule la précision
-    all_predictions = torch.cat(all_predictions).cpu().numpy()
-    all_labels = torch.cat(all_labels).cpu().numpy()
+    all_predictions = torch.cat(all_predictions, dim=0).cpu().numpy()
+    all_labels = torch.cat(all_labels, dim=0).cpu().numpy()
     accuracy = np.mean(all_predictions == all_labels)
     
     print(f'Précision : {accuracy:.4f}')

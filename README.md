@@ -71,3 +71,8 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Temps d'entraînement : environ 3 jours sur nos machines personnelles
 
 ## FRONTEND ET API
+
+
+## CREDITS
+
+    - Jhamtani, H., Gangal, V., Hovy, E., Neubig, G., & Berg-Kirkpatrick, T. 2018. Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data. Language Technologies Institute, Carnegie Mellon University.

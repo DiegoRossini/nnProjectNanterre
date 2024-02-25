@@ -22,6 +22,7 @@ from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get
 import torch.nn as nn
 import os
 import time
+import numpy as np
 
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
@@ -190,6 +191,62 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 train_BART_model_multitask(train_loader_comment, train_loader_uci, model, device)
 
 
+# Function d'évaluation du modèle BART
+def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
+
+    # Met le modèle en mode évaluation
+    model.eval()
+    
+    # Initialise les listes pour stocker les prédictions et les étiquettes
+    all_predictions_comment = []
+    all_labels_comment = []
+    all_predictions_uci = []
+    all_labels_uci = []
+    
+    # Désactive le calcul du gradient pour l'évaluation
+    with torch.no_grad():
+
+        # Boucle sur les batchs de données de test
+        for batch_comment, batch_uci in zip(test_loader_comment, test_loader_uci):
+
+            # Déplace le batch au dispositif
+            batch_comment = [item.to(device) for item in batch_comment]
+            batch_uci = [item.to(device) for item in batch_uci]
+
+            # Dépaquette le lot pour les commentaires
+            input_ids_fens_c, attention_mask_fens_c, input_ids_comments, attention_mask_comments = batch_comment
+            # Dépaquette le lot pour les prédictions UCI
+            input_ids_fens_u, attention_mask_fens_u, input_ids_uci, attention_mask_uci = batch_uci
+            
+            # Génère des prédictions des commentaires
+            outputs_comment = model(input_ids=input_ids_fens_c, attention_mask=attention_mask_fens_c, decoder_input_ids=input_ids_comments, decoder_attention_mask=attention_mask_comments)
+            predictions_comment = outputs_comment.logits.argmax(dim=-1)  # Choisi les token avec la probabilité la plus élevée
+            # Génère des prédictions des UCI
+            outputs_uci = model(input_ids=input_ids_fens_u, attention_mask=attention_mask_fens_u, decoder_input_ids=input_ids_uci, decoder_attention_mask=attention_mask_uci)
+            predictions_uci = outputs_uci.logits.argmax(dim=-1)  # Choisi les token avec la probabilité la plus élevée
+            
+            # Étend les listes de prédictions et d'étiquettes
+            all_predictions_comment.extend(predictions_comment)
+            all_labels_comment.extend(input_ids_comments)
+            all_predictions_uci.extend(predictions_uci)
+            all_labels_uci.extend(input_ids_uci)
+    
+    # Calcule la précision
+    all_predictions_comment = torch.cat(all_predictions_comment, dim=0).cpu().numpy()
+    all_labels_comment = torch.cat(all_labels_comment, dim=0).cpu().numpy()
+    accuracy_comment = np.mean(all_predictions_comment == all_labels_comment)
+
+    all_predictions_uci = torch.cat(all_predictions_uci, dim=0).cpu().numpy()
+    all_labels_uci = torch.cat(all_labels_uci, dim=0).cpu().numpy()
+    accuracy_uci = np.mean(all_predictions_uci == all_labels_uci)
+
+    print(f'Précision (Commentaires) : {accuracy_comment:.4f}')
+    print(f'Précision (UCI) : {accuracy_uci:.4f}')
+    
+    return accuracy_comment, accuracy_uci
+
+
+
 def generate_comment_and_move(fen_notation, model, tokenizer, device):
 
     # Tokenise la notation FEN d'entrée
@@ -204,5 +261,3 @@ def generate_comment_and_move(fen_notation, model, tokenizer, device):
     decoded_move = tokenizer.decode(generated_move[0], skip_special_tokens=True)
 
     return decoded_comment, decoded_move
-
-# TODO : ajouter l'évaluation du modèle
