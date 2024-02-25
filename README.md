@@ -61,19 +61,19 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Fonction pour générer à la fois un commentaire et un mouvement à partir d'une position d'échecs donnée.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_test_2.py` et `model_test_3.py` pour préparer les données et les loaders d'entraînement.
 
+**WARNING**
 
+En raison des performances limitées du GPU à notre disposition, l'entraînement du modèle 4 (multitâche) a été effectué avec les spécifications suivantes :
 
-    En raison des performances limitées du GPU à notre disposition, l'entraînement du modèle 4 (multitâche) a été effectué avec les spécifications suivantes :
-
-    - TrainSet = Environ 16 900 exemples (1 exemple = 1 mouvement commenté + UCI + FEN)
-    - TestSet = Environ 3 900 exemples
-    - Taille du lot (Batch_size) = 4
-    - Temps d'entraînement : environ 3 jours sur nos machines personnelles
+- TrainSet = Environ 16 900 exemples (1 exemple = 1 mouvement commenté + UCI + FEN)
+- TestSet = Environ 3 900 exemples
+- Taille du lot (Batch_size) = 4
+- Temps d'entraînement : environ 3 jours sur nos machines personnelles
 
 ## FRONTEND ET API
 
 
 ## CREDITS
 
-    - Jhamtani, H., Gangal, V., Hovy, E., Neubig, G., & Berg-Kirkpatrick, T. 2018. Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data. Language Technologies Institute, Carnegie Mellon University.
-    - Swingle, C., & Mellsop, H. 2021. ChePT-2: Advancing the Application of Deep Neural Transformer Models to Chess Move Prediction and Self-Commentary. Département d'Informatique, Université Stanford. [Document PDF].
+- Jhamtani, H., Gangal, V., Hovy, E., Neubig, G., & Berg-Kirkpatrick, T. 2018. Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data. Language Technologies Institute, Carnegie Mellon University.
+- Swingle, C., & Mellsop, H. 2021. ChePT-2: Advancing the Application of Deep Neural Transformer Models to Chess Move Prediction and Self-Commentary. Département d'Informatique, Université Stanford. [Document PDF].
