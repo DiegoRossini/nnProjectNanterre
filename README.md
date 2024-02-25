@@ -76,3 +76,4 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 ## CREDITS
 
     - Jhamtani, H., Gangal, V., Hovy, E., Neubig, G., & Berg-Kirkpatrick, T. 2018. Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data. Language Technologies Institute, Carnegie Mellon University.
+    - Swingle, C., & Mellsop, H. 2021. ChePT-2: Advancing the Application of Deep Neural Transformer Models to Chess Move Prediction and Self-Commentary. Département d'Informatique, Université Stanford. [Document PDF].
