@@ -1,45 +1,95 @@
+var board = null
+var game = new Chess()
+var $status = $('#status')
+var $fen = $('#fen')
+var $pgn = $('#pgn')
+var $msg = $('#message')
+var $comment = $('#comment')
 
-// Initialize chess board
-var board = Chessboard("board", "start");
+function onDragStart (source, piece, position, orientation) {
+  // do not pick up pieces if the game is over
+  if (game.isGameOver()) return false
 
-// Create a new chess game instance
-var game = new Chess();
+  // only pick up pieces for the side to move
+  if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
+      (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
+    return false
+  }
+}
 
-// Function to handle user moves
-function handleMove(source, target) {
-    // Validate the move using chess.js
-    var move = game.move({
-        from: source,
-        to: target,
-        promotion: 'q' // promote to queen for simplicity
-    });
+function displayMessage(message) {
+    $status.html(message); // Update the content of the message div
+}
 
-    // If the move is legal, update the board
-    if (move !== null) {
-        board.position(game.fen());
-    } else {
-        // If the move is illegal, display an error message
-        alert("Invalid move. Please make a legal move.");
-        return 'snapback'; // Snap the piece back to its original position
+function onDrop (source, target) {
+    try {
+        // see if the move is legal
+        var move = game.move({
+            from: source,
+            to: target,
+            promotion: 'q' // NOTE: always promote to a queen for example simplicity
+        });
+
+        // illegal move
+        if (move === null) {
+            throw new Error('Invalid move');
+        }
+
+        updateStatus();
+    } catch (error) {
+        // Display the error message to the user
+        displayMessage("This move is not allowed. Please try again.");
+        // Log the error to the console for debugging
+        console.error(error);
     }
 }
 
-// Set up event handlers to detect user moves
-board.on('dragStart', function (source, piece, position, orientation) {
-    // If it's not the user's turn or the game is over, prevent dragging
-    if (game.game_over() === true || (game.turn() === 'w' && piece.search(/^b/) !== -1) ||
-        (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
-        return false;
-    }
-});
+// update the board position after the piece snap
+// for castling, en passant, pawn promotion
+function onSnapEnd () {
+  board.position(game.fen())
+}
 
-board.on('drop', function (source, target) {
-    // If it's not the user's turn or the game is over, prevent dropping
-    if (game.game_over() === true || (game.turn() === 'w' && source.search(/^b/) !== -1) ||
-        (game.turn() === 'b' && source.search(/^w/) !== -1)) {
-        return 'snapback';
-    }
+function updateStatus () {
+  var status = ''
 
-    // Handle the move
-    handleMove(source, target);
-});
+  var moveColor = 'White'
+  if (game.turn() === 'b') {
+    moveColor = 'Black'
+  }
+
+  // checkmate?
+  if (game.isCheckmate()) {
+    status = 'Game over, ' + moveColor + ' is in checkmate.'
+  }
+
+  // draw?
+  else if (game.isDraw()) {
+    status = 'Game over, drawn position'
+  }
+
+  // game still on
+  else {
+    status = moveColor + ' to move'
+
+    // check?
+    if (game.isCheck()) {
+      status += ', ' + moveColor + ' is in check'
+    }
+  }
+
+  $status.html(status)
+  $fen.html(game.fen())
+  $pgn.html(game.pgn());
+}
+
+var config = {
+  draggable: true,
+  position: 'start',
+  onDragStart: onDragStart,
+  onDrop: onDrop,
+  onSnapEnd: onSnapEnd
+}
+board = Chessboard('myBoard', config)
+
+updateStatus()
