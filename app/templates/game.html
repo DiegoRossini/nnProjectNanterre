@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chessboard</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../static/js/chess.js/dist/esm/chess_esm_copie.js"></script>
+    <script src="../static/js/chessboard-1.0.0.min.js"></script>
+    <link rel="stylesheet" href="../static/css/chessboard-1.0.0.min.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <header class="bg-dark text-white py-4">
+      <div class="container">
+          <div class="row">
+              <div class="col-12 text-center">
+                  <h1>Site d'échecs</h1>
+              </div>
+          </div>
+      </div>
+  </header>
+  <div id="myBoard" style="width: 400px"></div>
+  <!-- <div id="message"></div> -->
+  <label>Status:</label>
+  <div id="status"></div>
+  <label>FEN:</label>
+  <div id="fen"></div>
+  <label>PGN:</label>
+  <div id="pgn"></div>
+  <!-- <label for="">Move comment :</label> -->
+  <div id="comment">Comment is : {{ comment }}</div>
+
+  <script src="../static/js/script.js"></script>
+</body>
+</html>
