@@ -109,9 +109,10 @@ async function updateFen(fen) {
     });
 
     if (response.ok) {
-      const responseData = await response.text();
-      console.log(responseData)
-      document.getElementById("comment").innerHTML = responseData; // Render the HTML received from the backend
+      const responseText = await response.text();
+      const responseData = JSON.parse(responseText);
+      console.log(responseData.comment)
+      document.getElementById("comment").innerHTML = responseData.comment; // Render the HTML received from the backend
     } else {
       console.error('Failed to update FEN:', response.statusText);
     }

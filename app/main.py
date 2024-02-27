@@ -35,9 +35,6 @@ async def submit_fen(request: Request):
     # Return the comment as a response
     return {"comment": comment}
 
-    # # Return a response
-    # return {"message": f"Chess fen '{fen}' submitted successfully."}
-
 
 
 # Configuration de Jinja
