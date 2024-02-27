@@ -1,10 +1,10 @@
 import torch
 
 # # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
-# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# gpu_name = torch.cuda.get_device_name(device)
-# print("Nom de la GPU:", gpu_name)
-# print(torch.__version__)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+gpu_name = torch.cuda.get_device_name(device)
+print("Nom de la GPU:", gpu_name)
+print(torch.__version__)
 
 # # Vérifie si une GPU est disponible
 # if torch.cuda.is_available():
@@ -29,7 +29,7 @@ from sklearn.model_selection import train_test_split
 from download_BART_model import download_model, download_tokenizer
 
 # # Initialisation d'un modèle (avec des poids aléatoires) à partir de la configuration de style facebook/bart-large
-# model = download_model()
+model = download_model()
 
 # Initialisation du Tokenizer BART
 tokenizer = download_tokenizer()
@@ -41,8 +41,8 @@ corpus_path = find_corpus_folder(directory='corpus_csv')
 corpus_path = os.path.join(corpus_path, "*.csv")
 
 # Définit les chemins pour enregistrer/charger les variables
-fen_vocab_file = 'fen_vocab.txt'
-uci_vocab_file = 'uci_vocab.txt'
+fen_vocab_file = '../fen_vocab.txt'
+uci_vocab_file = '../uci_vocab.txt'
 
 # # Vérifie si les fichiers existent
 # if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
@@ -94,7 +94,7 @@ def get_X_and_y_encoded_uci():
 
 ########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
     # On obtient la liste des csv composant le corpus plus petit
-    restricted_corpus = select_reduced_corpus(corpus_path, max_files=300)
+    restricted_corpus = select_reduced_corpus(corpus_path, max_files=100)
 
     # Itération sur les csv sélectionnés
     for csv_match_path in restricted_corpus:
@@ -193,6 +193,8 @@ def get_X_train_X_test_dataset_uci():
     # Output train_loader, test_loader
     return train_loader, test_loader
 
+train_loader, test_loader = get_X_train_X_test_dataset_uci()
+
 def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5):
 
     # Envoie le modèle au dispositif
@@ -200,6 +202,7 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     # Définit l'optimiseur
     optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+    scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=2, gamma=0.1)
 
     # Définit la fonction de perte
     criterion = nn.CrossEntropyLoss()
@@ -226,6 +229,10 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
             loss.backward()
             # Met à jour les poids
             optimizer.step()
+            
+            # Step the learning rate scheduler
+            scheduler.step()
+            
             print("Entraînement du batch terminé")
 
             del batch, outputs, loss
@@ -241,6 +248,8 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
     print("Modèle enregistré sous", model_path)
 
     return model_path
+
+train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5)
 
 def evaluate_BART_model(test_loader, model, device):
     # Met le modèle en mode évaluation

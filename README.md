@@ -72,6 +72,13 @@ En raison des performances limitées du GPU à notre disposition, l'entraînemen
 
 ## FRONTEND ET API
 
+HTML, CSS, JS.  
+Le but est de créer un site web avec FastAPI et Jinja.  
+Folder utiles : "app"
+
+# Partie server : fast_api
+
+Le fichier "main.py". Work in progress...
 
 ## SOURCES
 

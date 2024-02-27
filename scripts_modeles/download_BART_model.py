@@ -10,3 +10,4 @@ def download_model():
 def download_tokenizer():
     tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
     return tokenizer
+

@@ -41,9 +41,9 @@ corpus_path = find_corpus_folder(directory='corpus_csv')
 corpus_path = os.path.join(corpus_path, "*.csv")
 
 # Définit les chemins pour sauvegarder/charger les variables
-fen_vocab_file = 'fen_vocab.txt'
-all_st_notation_vocab_file = 'all_st_notation_vocab.txt'
-comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
+fen_vocab_file = '../fen_vocab.txt'
+all_st_notation_vocab_file = '../all_st_notation_vocab.txt'
+comments_st_notation_vocab_file = '../comments_st_notation_vocab.txt'
 
 # # Vérifie si les fichiers existent
 # if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
@@ -93,7 +93,7 @@ def get_X_and_y_encoded_comment():
 
 ########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
     # On obtient la liste des csv composant le corpus plus petit
-    restricted_corpus = select_reduced_corpus(corpus_path, max_files=300)
+    restricted_corpus = select_reduced_corpus(corpus_path, max_files=100)
 
     # Itération sur les csv sélectionnés
     for csv_match_path in restricted_corpus:
@@ -175,13 +175,14 @@ def get_X_train_X_test_dataset_comment():
 train_loader, test_loader = get_X_train_X_test_dataset_comment()
 
 # Fonction pour entraîner le modèle BART
-def train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5):
+def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2e-5):
 
     # Envoie le modèle sur le périphérique
     model.to(device)
 
     # Définit l'optimiseur
     optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+    scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=2, gamma=0.1)
 
     # Définit la fonction de perte
     criterion = nn.CrossEntropyLoss()
@@ -208,6 +209,10 @@ def train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e
             loss.backward()
             # Met à jour les poids
             optimizer.step()
+            
+            # Step the learning rate scheduler
+            scheduler.step()
+            
             print("Entraînement du batch terminé")
 
             del batch, outputs, loss

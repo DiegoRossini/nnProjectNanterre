@@ -9,7 +9,7 @@ from pre_processing import encode_fen
 import torch
 
 # Chargement vocabulaire FEN
-fen_vocab_file = 'fen_vocab.txt'
+fen_vocab_file = '../fen_vocab.txt'
 with open(fen_vocab_file, 'r') as f:
     fen_vocab = f.read().splitlines()
 
@@ -21,11 +21,12 @@ encoded_input = encode_fen(input_fen, fen_vocab)
 
 
 '''
--------------- TENTATIF 1 DE FAIRE TOURNER LE MODELE------------------------
+-------------- TENTATIve 1 DE FAIRE TOURNER LE MODELE------------------------
 '''
 
 
-def comment_generation_model_test_1(encoded_input, model, tokenizer):
+
+def comment_generation_model_test_1(input_fen):
     """
     Génère un commentaire en fonction de l'entrée encodée en utilisant le modèle BART.
     
@@ -37,6 +38,8 @@ def comment_generation_model_test_1(encoded_input, model, tokenizer):
     Returns:
         str: Le commentaire généré.
     """
+    
+    encoded_input = encode_fen(input_fen, fen_vocab)
 
     # Utilise le modèle BART pour générer le commentaire
     output_ids = model.generate(encoded_input["input_ids"].unsqueeze(0), max_length=100, num_beams=4, early_stopping=True)
@@ -47,21 +50,21 @@ def comment_generation_model_test_1(encoded_input, model, tokenizer):
     return generated_comment
 
 # Exemple d'utilisation :
-generated_comment = comment_generation_model_test_1(encoded_input, model, tokenizer)
-print("Commentaire généré :", generated_comment)
+# generated_comment = comment_generation_model_test_1(encoded_input, model, tokenizer)
+# print("Commentaire généré :", generated_comment)
 
 
 
-# Input
-input_text = "Once upon a time in a land far, far away there was man called John."
+# # Input
+# input_text = "The movie was really good. I liked the plot and the acting was great. The special effects were amazing."
 
-# Codifica l'input
-input_ids = tokenizer(input_text, return_tensors="pt").input_ids
+# # Codifica l'input
+# input_ids = tokenizer(input_text, return_tensors="pt").input_ids
 
-# Generazione del testo
-output = model.generate(input_ids, max_length=500, num_beams=10, early_stopping=True)
+# # Generazione del testo
+# output = model.generate(input_ids, max_length=500, num_beams=10, early_stopping=True)
 
-# Decodifica l'output
-output_text = tokenizer.decode(output[0], skip_special_tokens=True)
+# # Decodifica l'output
+# output_text = tokenizer.decode(output[0], skip_special_tokens=True)
 
-print("Output generato:", output_text)
+# print("Output generato:", output_text)
