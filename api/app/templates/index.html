@@ -3,133 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chessboard</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="../static/js/chess.js/dist/esm/chess_esm_copie.js"></script>
-    <script src="../static/js/chessboard-1.0.0.min.js"></script>
-    <link rel="stylesheet" href="../static/css/chessboard-1.0.0.min.css">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <title>Chess Game Comment Generator</title>
+    <link rel="stylesheet" href="../static/css/style.css">
 </head>
 <body>
-    <header class="bg-dark text-white py-4">
-      <div class="container">
-          <div class="row">
-              <div class="col-12 text-center">
-                  <h1>Site d'échecs</h1>
-              </div>
-          </div>
-      </div>
-  </header>
-  <div id="myBoard" style="width: 400px"></div>
-  <!-- <div id="message"></div> -->
-  <label>Status:</label>
-  <div id="status"></div>
-  <label>FEN:</label>
-  <div id="fen"></div>
-  <label>PGN:</label>
-  <div id="pgn"></div>
-  <!-- <label for="">Move comment :</label> -->
-  <div id="comment"></div>
-    
-  <script>
-      var board = null
-      var game = new Chess()
-      var $status = $('#status')
-      var $fen = $('#fen')
-      var $pgn = $('#pgn')
-      var $msg = $('#message')
-      var $comment = $('#comment')
-      
-      function onDragStart (source, piece, position, orientation) {
-        // do not pick up pieces if the game is over
-        if (game.isGameOver()) return false
-      
-        // only pick up pieces for the side to move
-        if ((game.turn() === 'w' && piece.search(/^b/) !== -1) ||
-            (game.turn() === 'b' && piece.search(/^w/) !== -1)) {
-          return false
-        }
-      }
-
-      function displayMessage(message) {
-          $status.html(message); // Update the content of the message div
-      }
-      
-      function onDrop (source, target) {
-          try {
-              // see if the move is legal
-              var move = game.move({
-                  from: source,
-                  to: target,
-                  promotion: 'q' // NOTE: always promote to a queen for example simplicity
-              });
-      
-              // illegal move
-              if (move === null) {
-                  throw new Error('Invalid move');
-              }
-      
-              updateStatus();
-          } catch (error) {
-              // Display the error message to the user
-              displayMessage("This move is not allowed. Please try again.");
-              // Log the error to the console for debugging
-              console.error(error);
-          }
-      }
-      
-      // update the board position after the piece snap
-      // for castling, en passant, pawn promotion
-      function onSnapEnd () {
-        board.position(game.fen())
-      }
-      
-      function updateStatus () {
-        var status = ''
-      
-        var moveColor = 'White'
-        if (game.turn() === 'b') {
-          moveColor = 'Black'
-        }
-      
-        // checkmate?
-        if (game.isCheckmate()) {
-          status = 'Game over, ' + moveColor + ' is in checkmate.'
-        }
-      
-        // draw?
-        else if (game.isDraw()) {
-          status = 'Game over, drawn position'
-        }
-      
-        // game still on
-        else {
-          status = moveColor + ' to move'
-      
-          // check?
-          if (game.isCheck()) {
-            status += ', ' + moveColor + ' is in check'
-          }
-        }
-      
-        $status.html(status)
-        $fen.html(game.fen())
-        $pgn.html(game.pgn());
-      }
-      
-      var config = {
-        draggable: true,
-        position: 'start',
-        onDragStart: onDragStart,
-        onDrop: onDrop,
-        onSnapEnd: onSnapEnd
-      }
-      board = Chessboard('myBoard', config)
-      
-      updateStatus()
-  </script>
+    <header>
+        <h1>Welcome to Chess Commentary Generator</h1>
+    </header>
+    <main>
+        <section class="container">
+            <h2>About</h2>
+            <p>Welcome to our Chess Commentary Generator! Whether you're a beginner or an experienced player, our AI-powered model can generate insightful comments for your chess games.</p>
+        </section>
+        <section class="container">
+            <h2>How It Works</h2>
+            <p>Simply input your chess game moves, and our BART model will analyze the game and generate informative and engaging commentary to enhance your gaming experience.</p>
+        </section>
+        <section class="container">
+            <h2>Try It Out</h2>
+            <p>Enter your chess moves below:</p>
+            <textarea id="moves" rows="5" cols="50"></textarea>
+            <button onclick="generateComment()">Generate Comment</button>
+            <div id="comment"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Chess Commentary Generator</p>
+    </footer>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -48,7 +48,7 @@ async def render_chess_board():
     svg_board = chess.svg.board(board=board)
     
     # Rendu du tableau de jeu avec Jinja
-    template = env.get_template('index.html')
+    template = env.get_template('game.html')
     rendered_board = template.render(board=svg_board)
     
     return rendered_board
