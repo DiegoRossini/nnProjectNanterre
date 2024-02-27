@@ -260,7 +260,7 @@ def evaluate_BART_model(test_loader, model, device):
             
             # Génère des prédictions
             outputs = model.generate(input_ids=input_ids_fens, attention_mask=attention_mask_fens)
-            predictions = outputs.logits.argmax(dim=-1)
+            predictions = outputs.logits.argmax(dim=-1) # Choisi les token avec la probabilité la plus élevée
             
             # Étend les listes de prédictions et d'étiquettes
             all_predictions.extend(predictions)

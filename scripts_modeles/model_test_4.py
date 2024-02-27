@@ -15,7 +15,7 @@ else:
 
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get_st_notation_vocab, get_comments_st_notation_vocab
+from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get_st_notation_vocab, get_comments_st_notation_vocab, encode_fen, tokenize_comment, encode_comment
 
 
 # Importations générales nécessaires
@@ -26,6 +26,7 @@ import numpy as np
 
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
+from transformers import BartForConditionalGeneration, BartTokenizer
 
 # Initialisation d'un modèle (avec des poids aléatoires) à partir de la configuration de style facebook/bart-large
 model = download_model()
@@ -102,9 +103,9 @@ from model_test_3 import get_X_train_X_test_dataset_uci
 
 
 # Obtient les chargeurs de données d'entraînement et de test pour la génération de commentaires
-train_loader_comment, test_loader_comment = get_X_train_X_test_dataset_comment()
+# train_loader_comment, test_loader_comment = get_X_train_X_test_dataset_comment()
 # Obtient les chargeurs de données d'entraînement et de test pour la prédiction UCI
-train_loader_uci, test_loader_uci = get_X_train_X_test_dataset_uci()
+# train_loader_uci, test_loader_uci = get_X_train_X_test_dataset_uci()
 
 
 # Fonction pour entraîner BART avec une approche multi-tâches
@@ -167,7 +168,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
             del batch_comment, batch_uci, outputs_comment, outputs_uci, loss_comment, loss_uci, loss
 
             end_time_batch = time.time()
-            print(f"Durée totale de l'ntraînement du batch : {end_time_batch - start_time_batch}")
+            print(f"Durée totale de l'entraînement du batch : {end_time_batch - start_time_batch}")
 
         # Affiche la perte moyenne pour l'époque
         print(f'Epoch {epoch + 1}/{num_epochs}, Loss (Commentaires): {total_loss_comment/len(train_loader_comment):.4f}, Loss (UCI): {total_loss_uci/len(train_loader_uci):.4f}')
@@ -188,11 +189,11 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
     return model_path
 
 
-train_BART_model_multitask(train_loader_comment, train_loader_uci, model, device)
-
-
 # Function d'évaluation du modèle BART
 def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
+
+    # Envoie le modèle sur le périphérique
+    model.to(device)
 
     # Met le modèle en mode évaluation
     model.eval()
@@ -208,6 +209,8 @@ def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
 
         # Boucle sur les batchs de données de test
         for batch_comment, batch_uci in zip(test_loader_comment, test_loader_uci):
+
+            start_time = time.time()
 
             # Déplace le batch au dispositif
             batch_comment = [item.to(device) for item in batch_comment]
@@ -230,6 +233,11 @@ def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
             all_labels_comment.extend(input_ids_comments)
             all_predictions_uci.extend(predictions_uci)
             all_labels_uci.extend(input_ids_uci)
+
+            end_time = time.time()
+            print(f"Durée totale évaluation du batch : {end_time - start_time}")
+
+            del batch_comment, batch_uci, outputs_comment, outputs_uci, predictions_comment, predictions_uci
     
     # Calcule la précision
     all_predictions_comment = torch.cat(all_predictions_comment, dim=0).cpu().numpy()
@@ -246,18 +254,45 @@ def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
     return accuracy_comment, accuracy_uci
 
 
+# evaluate_BART_model(test_loader_comment, test_loader_uci, model, device)
 
-def generate_comment_and_move(fen_notation, model, tokenizer, device):
 
+# Chargement du modèle fine-tuné
+model_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/model_BART_4.pt"
+model = BartForConditionalGeneration.from_pretrained(model_path)
+tokenizer_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/"
+tokenizer = BartTokenizer.from_pretrained(tokenizer_path)
+
+
+
+def generate_comment_from_fen(fen_notation, model, tokenizer, device, fen_vocab):
+
+    model.to(device)
+    
     # Tokenise la notation FEN d'entrée
-    input_ids = tokenizer.encode(fen_notation, return_tensors='pt').to(device)
+    encoded_input = encode_fen(fen_notation, fen_vocab)
+    input_ids = encoded_input["input_ids"].unsqueeze(0).to(device)
+    attention_mask = encoded_input["attention_mask"].unsqueeze(0).to(device)
 
-    # Génère un commentaire
-    generated_comment = model.generate(input_ids, max_length=50, num_beams=4, early_stopping=True).to(device)
-    decoded_comment = tokenizer.decode(generated_comment[0], skip_special_tokens=True)
+    print(input_ids)
 
-    # Génère un mouvement (notation UCI)
-    generated_move = model.generate(input_ids, max_length=2, num_beams=1, early_stopping=True).to(device)
-    decoded_move = tokenizer.decode(generated_move[0], skip_special_tokens=True)
+    # Generate comment from the model
+    model.eval()
+    with torch.no_grad():
+        generated_ids = model.generate(input_ids, attention_mask=attention_mask,
+                                       max_length=100, num_beams=4, early_stopping=True)
+    
+    # Decode the generated comment
+    # generated_comment = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
+    
+    return generated_ids
 
-    return decoded_comment, decoded_move
+
+
+# Assuming 'model' and 'tokenizer' are already defined and loaded
+input_fen = "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
+generated_comment = generate_comment_from_fen(input_fen, model, tokenizer, device, fen_vocab)
+print("Generated Comment:", generated_comment)
+
+
+# BISOGNA TOGLIERE COMMENTO AL TEST ET TRAIN LOADER!!!!!

@@ -1,28 +1,22 @@
 # Téléchargement du modèle BART et de son tokeniseur
-from download_BART_model import download_model
-model, tokenizer = download_model()
-
+from download_BART_model import download_model, download_tokenizer
+model = download_model()
+tokenizer = download_tokenizer()
 
 # Importa il vocabolario FEN dal file pre_processing.py
-from pre_processing import get_FEN_vocab
+from pre_processing import encode_fen
 
 import torch
 
-
-# Ottieni il vocabolario FEN
-fen_vocab = get_FEN_vocab()
-
-def encode_fen(input_fen, fen_vocab):
-    encoded_input = [fen_vocab.index(char) for char in input_fen]
-    encoded_input.append(1)  # Aggiungi <end> codificato
-    encoded_input.insert(0, 0)  # Aggiungi <start> codificato
-    return encoded_input
+# Chargement vocabulaire FEN
+fen_vocab_file = 'fen_vocab.txt'
+with open(fen_vocab_file, 'r') as f:
+    fen_vocab = f.read().splitlines()
 
 # Esempio di utilizzo
 input_fen = "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
 
 encoded_input = encode_fen(input_fen, fen_vocab)
-print("Input codificato:", encoded_input)
 
 
 
@@ -43,21 +37,9 @@ def comment_generation_model_test_1(encoded_input, model, tokenizer):
     Returns:
         str: Le commentaire généré.
     """
-    # Ajoute du padding à la séquence encodée pour uniformiser la longueur de la séquence
-    max_length = 100  # Longueur maximale autorisée pour l'entrée
-    padded_encoded_input = encoded_input[:max_length] + [0] * (max_length - len(encoded_input))
-
-    # Transforme l'entrée en un tenseur PyTorch
-    input_tensor = torch.tensor(padded_encoded_input)
-
-    # Transfère le tenseur sur GPU s'il est disponible
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    input_tensor = input_tensor.to(device)
-    # Déplace le modèle sur GPU s'il est disponible
-    model = model.to(device)
 
     # Utilise le modèle BART pour générer le commentaire
-    output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
+    output_ids = model.generate(encoded_input["input_ids"].unsqueeze(0), max_length=100, num_beams=4, early_stopping=True)
 
     # Décode la sortie générée
     generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
@@ -67,3 +49,19 @@ def comment_generation_model_test_1(encoded_input, model, tokenizer):
 # Exemple d'utilisation :
 generated_comment = comment_generation_model_test_1(encoded_input, model, tokenizer)
 print("Commentaire généré :", generated_comment)
+
+
+
+# Input
+input_text = "Once upon a time in a land far, far away there was man called John."
+
+# Codifica l'input
+input_ids = tokenizer(input_text, return_tensors="pt").input_ids
+
+# Generazione del testo
+output = model.generate(input_ids, max_length=500, num_beams=10, early_stopping=True)
+
+# Decodifica l'output
+output_text = tokenizer.decode(output[0], skip_special_tokens=True)
+
+print("Output generato:", output_text)

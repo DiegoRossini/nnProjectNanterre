@@ -1,16 +1,16 @@
 import torch
 
-# # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
-# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# gpu_name = torch.cuda.get_device_name(device)
-# print("Nom de la GPU:", gpu_name)
-# print(torch.__version__)
+# Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+gpu_name = torch.cuda.get_device_name(device)
+print("Nom de la GPU:", gpu_name)
+print(torch.__version__)
 
-# # Vérifie si un GPU est disponible
-# if torch.cuda.is_available():
-#     print("GPU disponible")
-# else:
-#     print("GPU non disponible")
+# Vérifie si un GPU est disponible
+if torch.cuda.is_available():
+    print("GPU disponible")
+else:
+    print("GPU non disponible")
 
 # Téléchargement des fonctions de prétraitement nécessaires
 from pre_processing import find_corpus_folder, encode_fen, encode_comment, tokenize_comment, select_reduced_corpus
@@ -28,8 +28,8 @@ from sklearn.model_selection import train_test_split
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
 
-# # Initialisation d'un modèle (avec des poids aléatoires) basé sur la configuration du style facebook/bart-large
-# model = download_model()
+# Initialisation d'un modèle (avec des poids aléatoires) basé sur la configuration du style facebook/bart-large
+model = download_model()
 
 # Initialisation du BART Tokenizer
 tokenizer = download_tokenizer()
@@ -68,16 +68,16 @@ with open(comments_st_notation_vocab_file, 'r') as f:
 #     with open(comments_st_notation_vocab_file, 'w') as f:
 #         f.write('\n'.join(comments_st_notation_vocab))
 
-# # Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
-# tokenizer.add_tokens(fen_vocab)
-# # Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
-# tokenizer.add_tokens(all_st_notation_vocab)
-# # Sauvegarde le tokenizer mis à jour dans le répertoire de travail
-# tokenizer.save_pretrained(os.getcwd())
-# # Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
-# model.resize_token_embeddings(len(tokenizer))
-# print("Taille du vocabulaire mise à jour:", len(tokenizer))
-# print("Tous les vocabulaires sont prêts")
+# Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
+tokenizer.add_tokens(fen_vocab)
+# Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
+tokenizer.add_tokens(all_st_notation_vocab)
+# Sauvegarde le tokenizer mis à jour dans le répertoire de travail
+tokenizer.save_pretrained(os.getcwd())
+# Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
+model.resize_token_embeddings(len(tokenizer))
+print("Taille du vocabulaire mise à jour:", len(tokenizer))
+print("Tous les vocabulaires sont prêts")
 
 # Fonction pour extraire les FEN et les commentaires encodés
 def get_X_and_y_encoded_comment():
@@ -172,8 +172,10 @@ def get_X_train_X_test_dataset_comment():
     # Retourne train_loader, test_loader
     return train_loader, test_loader
 
+train_loader, test_loader = get_X_train_X_test_dataset_comment()
+
 # Fonction pour entraîner le modèle BART
-def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5):
+def train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5):
 
     # Envoie le modèle sur le périphérique
     model.to(device)
@@ -221,6 +223,10 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
     print("Modèle sauvegardé dans", model_path)
 
     return model_path
+
+
+train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5)
+
 
 def evaluate_BART_model(test_loader, model, device):
 
