@@ -66,18 +66,18 @@ with open(uci_vocab_file, 'r') as f:
 #         f.write('\n'.join(uci_vocab))
 
 # # Ajoute les tokens de vocabulaire FEN à l'objet tokenizer
-# tokenizer.add_tokens(fen_vocab)
+tokenizer.add_tokens(fen_vocab)
 
 # # Ajoute les tokens de vocabulaire UCI à l'objet tokenizer
-# tokenizer.add_tokens(uci_vocab)
+tokenizer.add_tokens(uci_vocab)
 
 # # Enregistre le tokenizer mis à jour dans le répertoire de travail
-# tokenizer.save_pretrained(os.getcwd())
+tokenizer.save_pretrained(os.getcwd())
 
 # # Adaptation de la taille des embeddings à la taille du nouveau vocabulaire
-# model.resize_token_embeddings(len(tokenizer))
-# print("Taille du vocabulaire mise à jour:", len(tokenizer))
-# print("Tous les vocabulaires sont prêts")
+model.resize_token_embeddings(len(tokenizer))
+print("Taille du vocabulaire mise à jour:", len(tokenizer))
+print("Tous les vocabulaires sont prêts")
 
 # Fonction d'extraction des FEN et des UCI encodés
 def get_X_and_y_encoded_uci():
@@ -249,7 +249,7 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     return model_path
 
-train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5)
+train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5)
 
 def evaluate_BART_model(test_loader, model, device):
     # Met le modèle en mode évaluation

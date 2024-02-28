@@ -5,7 +5,10 @@ from fastapi.staticfiles import StaticFiles
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import chess
 import chess.svg
-from model_test_1 import comment_generation_model_test_1
+# from model_test_1 import comment_generation_model_test_1
+from scripts_modeles.model_test_2 import comment_generation_model_test_1
+
+
 
 app = FastAPI()
 

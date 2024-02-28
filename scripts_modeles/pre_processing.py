@@ -108,7 +108,7 @@ def encode_fen(input_fen, fen_vocab):
     tokenized_fen = [car for car in input_fen]
 
     # On encode la notation FEN avec le tokenizer
-    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
+    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=64, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_fen = {key: value.squeeze(0) for key, value in encoded_fen.items()}
@@ -211,7 +211,7 @@ def tokenize_comment(comment):
 def encode_comment(tokenized_comment):
 
     # Encode le commentaire avec le 'BART Tokenizer'
-    encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
+    encoded_comment = tokenizer.encode_plus(tokenized_comment, return_tensors="pt", padding="max_length", max_length=64, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_comment = {key: value.squeeze(0) for key, value in encoded_comment.items()}
@@ -271,7 +271,7 @@ def encode_uci(input_uci, uci_vocab):
     tokenized_uci = [input_uci[:2], input_uci[2:4]]
 
     # On encode la notation UCI avec le tokenizer
-    encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
+    encoded_uci = tokenizer.encode_plus(tokenized_uci, return_tensors="pt", padding="max_length", max_length=64, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_uci = {key: value.squeeze(0) for key, value in encoded_uci.items()}

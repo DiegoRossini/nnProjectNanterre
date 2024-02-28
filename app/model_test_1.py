@@ -42,7 +42,7 @@ def comment_generation_model_test_1(input_fen):
     encoded_input = encode_fen(input_fen, fen_vocab)
 
     # Utilise le modèle BART pour générer le commentaire
-    output_ids = model.generate(encoded_input["input_ids"].unsqueeze(0), max_length=100, num_beams=4, early_stopping=True)
+    output_ids = model.generate(encoded_input["input_ids"].unsqueeze(0), max_length=20, num_beams=4, early_stopping=True)
 
     # Décode la sortie générée
     generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
