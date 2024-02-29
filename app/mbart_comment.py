@@ -1,42 +1,20 @@
 # from pre_processing import encode_fen
 import os
+import torch
 
 # Chargement du modèle fine-tuné
-from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
+from transformers import MBartForConditionalGeneration, MBart50TokenizerFast, BartTokenizer
 
 model = MBartForConditionalGeneration.from_pretrained("Mathou/Mbart_chess_comment")
-tokenizer = MBart50TokenizerFast.from_pretrained("Mathou/Mbart_chess_comment")
-
-# fen_vocab_file = '../fen_vocab.txt'
-# all_st_notation_vocab_file = '../all_st_notation_vocab.txt'
-# comments_st_notation_vocab_file = '../comments_st_notation_vocab.txt'
-
-# # # Vérifie si les fichiers existent
-# # if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
-# #     # Charge les variables à partir des fichiers
-# with open(fen_vocab_file, 'r') as f:
-#     fen_vocab = f.read().splitlines()
-# with open(all_st_notation_vocab_file, 'r') as f:
-#     all_st_notation_vocab = f.read().splitlines()
-# with open(comments_st_notation_vocab_file, 'r') as f:
-#     comments_st_notation_vocab = f.read().splitlines()
-
-# # Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
-# tokenizer.add_tokens(fen_vocab)
-# # Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
-# tokenizer.add_tokens(all_st_notation_vocab)
-# # Sauvegarde le tokenizer mis à jour dans le répertoire de travail
-# tokenizer.save_pretrained(os.getcwd())
-# # Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
-# model.resize_token_embeddings(len(tokenizer))
+tokenizer = MBart50TokenizerFast.from_pretrained("Mathou/Mbart_chess_comment", src_lang="zh_CN", tgt_lang="en_XX")
 
 def encode_fen(input_fen):
-
+    tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
     # On tokenize la notation au niveau du caractère
     tokenized_fen = [car for car in input_fen]
 
     # On encode la notation FEN avec le tokenizer
-    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=64, truncation=True)
+    encoded_fen = tokenizer.encode_plus(tokenized_fen, return_tensors="pt", padding="max_length", max_length=256, truncation=True)
 
     # Formattage pour s'adapter à l'entrée du modèle dans le batch
     encoded_fen = {key: value.squeeze(0) for key, value in encoded_fen.items()}
@@ -44,8 +22,9 @@ def encode_fen(input_fen):
     # La sortie est une séquence d'entiers en tensor
     return encoded_fen
 
+
+
 def comment_generation(fen_input):
-    print("fen_input : ", fen_input)
     # Encode l'entrée FEN
     input_tensor = encode_fen(fen_input)
 
@@ -58,3 +37,8 @@ def comment_generation(fen_input):
     comment = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 
     return comment[0]
+
+
+# input_fen = "5rk1/1p4pp/1q2p3/p2p4/Pn4Q1/1PNP4/2PK1PPP/4R3 b - - 3 22"
+# generated_comment = comment_generation(input_fen, model, tokenizer)
+# print("Generated Comment:", generated_comment)

@@ -29,11 +29,10 @@ async def home(request: Request):
 
 @app.post("/submit_fen")
 async def submit_fen(request: Request):
-    print("ho !")
     # Get the form data submitted by the user
     form_data = await request.form()
     fen = form_data["fen"]
-    print('fen')
+
     # Generate the comment
     comment = comment_generation(fen)
     

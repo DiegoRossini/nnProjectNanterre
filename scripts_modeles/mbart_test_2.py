@@ -31,7 +31,7 @@ from download_BART_model import download_mbart_model, download_mbart_tokenizer
 # Chargement du modèle fine-tuné
 from transformers import BartTokenizer, BartForConditionalGeneration, MBartForConditionalGeneration, MBart50TokenizerFast
 model_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/mbart_model.pt"
-model = MBartForConditionalGeneration.from_pretrained(model_path)
+model = MBartForConditionalGeneration.from_pretrained("facebook/mbart-large-50-many-to-many-mmt")
 # tokenizer_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/scripts_modeles"
 # tokenizer = MBart50TokenizerFast.from_pretrained(tokenizer_path)
 
@@ -41,52 +41,52 @@ model = MBartForConditionalGeneration.from_pretrained(model_path)
 # Initialisation du BART Tokenizer
 tokenizer = download_mbart_tokenizer()
 
-print("Taille du vocabulaire de base:", len(tokenizer))
+# print("Taille du vocabulaire de base:", len(tokenizer))
 
-# Détermine le chemin du corpus
-corpus_path = find_corpus_folder(directory='corpus_csv')
+# # Détermine le chemin du corpus
+# corpus_path = find_corpus_folder(directory='corpus_csv')
 
-# Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
-corpus_path = os.path.join(corpus_path, "*.csv")
+# # Ajoute le motif de recherche pour tous les fichiers CSV dans le chemin du corpus
+# corpus_path = os.path.join(corpus_path, "*.csv")
 
-# Définit les chemins pour sauvegarder/charger les variables
-fen_vocab_file = 'fen_vocab.txt'
-all_st_notation_vocab_file = 'all_st_notation_vocab.txt'
-comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
+# # Définit les chemins pour sauvegarder/charger les variables
+# fen_vocab_file = 'fen_vocab.txt'
+# all_st_notation_vocab_file = 'all_st_notation_vocab.txt'
+# comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
 
-# # Vérifie si les fichiers existent
-# if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
-#     # Charge les variables à partir des fichiers
-with open(fen_vocab_file, 'r') as f:
-    fen_vocab = f.read().splitlines()
-with open(all_st_notation_vocab_file, 'r') as f:
-    all_st_notation_vocab = f.read().splitlines()
-with open(comments_st_notation_vocab_file, 'r') as f:
-    comments_st_notation_vocab = f.read().splitlines()
-# else:
-#     # Initialise les variables
-#     fen_vocab = get_FEN_vocab()
-#     all_st_notation_vocab = get_st_notation_vocab()
-#     comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
+# # # Vérifie si les fichiers existent
+# # if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
+# #     # Charge les variables à partir des fichiers
+# with open(fen_vocab_file, 'r') as f:
+#     fen_vocab = f.read().splitlines()
+# with open(all_st_notation_vocab_file, 'r') as f:
+#     all_st_notation_vocab = f.read().splitlines()
+# with open(comments_st_notation_vocab_file, 'r') as f:
+#     comments_st_notation_vocab = f.read().splitlines()
+# # else:
+# #     # Initialise les variables
+# #     fen_vocab = get_FEN_vocab()
+# #     all_st_notation_vocab = get_st_notation_vocab()
+# #     comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
 
-#     # Sauvegarde les variables dans des fichiers
-#     with open(fen_vocab_file, 'w') as f:
-#         f.write('\n'.join(fen_vocab))
-#     with open(all_st_notation_vocab_file, 'w') as f:
-#         f.write('\n'.join(all_st_notation_vocab))
-#     with open(comments_st_notation_vocab_file, 'w') as f:
-#         f.write('\n'.join(comments_st_notation_vocab))
+# #     # Sauvegarde les variables dans des fichiers
+# #     with open(fen_vocab_file, 'w') as f:
+# #         f.write('\n'.join(fen_vocab))
+# #     with open(all_st_notation_vocab_file, 'w') as f:
+# #         f.write('\n'.join(all_st_notation_vocab))
+# #     with open(comments_st_notation_vocab_file, 'w') as f:
+# #         f.write('\n'.join(comments_st_notation_vocab))
 
-# Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
-tokenizer.add_tokens(fen_vocab)
-# Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
-tokenizer.add_tokens(all_st_notation_vocab)
-# Sauvegarde le tokenizer mis à jour dans le répertoire de travail
-tokenizer.save_pretrained(os.getcwd())
-# Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
-model.resize_token_embeddings(len(tokenizer))
-print("Taille du vocabulaire mise à jour:", len(tokenizer))
-print("Tous les vocabulaires sont prêts")
+# # Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
+# tokenizer.add_tokens(fen_vocab)
+# # Ajoute les caractères du vocabulaire des commentaires à l'objet tokenizer
+# tokenizer.add_tokens(all_st_notation_vocab)
+# # Sauvegarde le tokenizer mis à jour dans le répertoire de travail
+# tokenizer.save_pretrained(os.getcwd())
+# # Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
+# model.resize_token_embeddings(len(tokenizer))
+# print("Taille du vocabulaire mise à jour:", len(tokenizer))
+# print("Tous les vocabulaires sont prêts")
 
 
 
@@ -305,11 +305,11 @@ def evaluate_BART_model(test_loader, model, device):
     return accuracy
 
 # Fonction pour tester le modèle de génération de commentaires
-def comment_generation_model_test_2(model, fen_input, tokenizer, fen_vocab):
+def comment_generation_model_test_2(model, fen_input, tokenizer):
     # try:
         
     # Encode l'entrée FEN
-    input_tensor = encode_fen(fen_input, fen_vocab)
+    input_tensor = encode_fen(fen_input)
 
 
 
@@ -346,5 +346,5 @@ def comment_generation_model_test_2(model, fen_input, tokenizer, fen_vocab):
 
 
 input_fen = "5rk1/1p4pp/1q2p3/p2p4/Pn4Q1/1PNP4/2PK1PPP/4R3 b - - 3 22"
-generated_comment = comment_generation_model_test_2(model, input_fen, tokenizer, fen_vocab)
+generated_comment = comment_generation_model_test_2(model, input_fen, tokenizer)
 print("Generated Comment:", generated_comment)

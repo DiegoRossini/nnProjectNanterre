@@ -36,7 +36,7 @@ function onDrop (source, target) {
         }
 
         updateStatus();
-        console.log("I'm here! ", game.fen());
+        
         updateFen(game.fen());
 
     } catch (error) {
@@ -100,7 +100,6 @@ updateStatus()
 // Function to send the updated FEN data to the backend and receive HTML rendering
 async function updateFen(fen) {
   try {
-    console.log('yeah!"', encodeURIComponent(fen))
     const response = await fetch('/submit_fen', {
       method: 'POST',
       headers: {
