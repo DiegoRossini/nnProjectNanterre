@@ -20,8 +20,12 @@ templates = Jinja2Templates(directory="templates")
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     # Render the HTML using Jinja template
-    return templates.TemplateResponse("game.html", {"request": request})
+    return templates.TemplateResponse("index.html", {"request": request})
 
+@app.get("/about", response_class=HTMLResponse)
+async def home(request: Request):
+    # Render the HTML using Jinja template
+    return templates.TemplateResponse("about.html", {"request": request})
 
 @app.post("/submit_fen")
 async def submit_fen(request: Request):
