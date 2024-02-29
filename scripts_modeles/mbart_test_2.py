@@ -322,7 +322,7 @@ def comment_generation_model_test_2(model, fen_input, tokenizer, fen_vocab):
     model = model
 
 
-    tokenizer.src_lang = "fr_XX"
+    tokenizer.src_lang = "Zh_CN"
     # encoded_hi = tokenizer(fen_input, return_tensors="pt")
     generated_tokens = model.generate(input_ids=input_ids, attention_mask=attention_mask, forced_bos_token_id=tokenizer.lang_code_to_id["en_XX"])
     comment = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)

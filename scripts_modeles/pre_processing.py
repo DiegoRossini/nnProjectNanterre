@@ -102,7 +102,7 @@ def get_FEN_vocab():
 
 
 # Fonction pour générer une notation FEN encodée
-def encode_fen(input_fen, fen_vocab):
+def encode_fen(input_fen):
 
     # On tokenize la notation au niveau du caractère
     tokenized_fen = [car for car in input_fen]
