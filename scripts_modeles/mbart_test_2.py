@@ -28,10 +28,15 @@ import time
 # Importations concernant BART
 from download_BART_model import download_mbart_model, download_mbart_tokenizer
 
-
+# Chargement du modèle fine-tuné
+from transformers import BartTokenizer, BartForConditionalGeneration, MBartForConditionalGeneration, MBart50TokenizerFast
+model_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/mbart_model.pt"
+model = MBartForConditionalGeneration.from_pretrained(model_path)
+# tokenizer_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/scripts_modeles"
+# tokenizer = MBart50TokenizerFast.from_pretrained(tokenizer_path)
 
 # Initialisation d'un modèle (avec des poids aléatoires) basé sur la configuration du style facebook/bart-large
-model = download_mbart_model()
+# model = download_mbart_model()
 
 # Initialisation du BART Tokenizer
 tokenizer = download_mbart_tokenizer()
@@ -179,7 +184,7 @@ def get_X_train_X_test_dataset_comment():
     # Retourne train_loader, test_loader
     return train_loader, test_loader
 
-train_loader, test_loader = get_X_train_X_test_dataset_comment()
+# train_loader, test_loader = get_X_train_X_test_dataset_comment()
 
 # Fonction pour entraîner le modèle BART
 def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5, max_duration=24*60*60):
@@ -248,13 +253,13 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     print('Entraînement terminé!')
 
-    model_path = os.getcwd() + '/model_BART_2.pt'
+    model_path = os.getcwd() + '/mbart_model.pt'
     model.save_pretrained(model_path)
 
     print("Modèle sauvegardé dans", model_path)
 
 
-train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5)
+# train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5)
 
 
 
@@ -300,27 +305,46 @@ def evaluate_BART_model(test_loader, model, device):
     return accuracy
 
 # Fonction pour tester le modèle de génération de commentaires
-def comment_generation_model_test_2(model, fen_input, tokenizer, encode_fen):
-    try:
+def comment_generation_model_test_2(model, fen_input, tokenizer, fen_vocab):
+    # try:
         
-        # Encode l'entrée FEN
-        input_tensor = encode_fen(fen_input)
+    # Encode l'entrée FEN
+    input_tensor = encode_fen(fen_input, fen_vocab)
 
-        # Transfère le tenseur d'entrée sur le périphérique si disponible
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        input_tensor = input_tensor.to(device)
-        
-        # Déplace le modèle sur le périphérique si disponible
-        model = model.to(device)
 
-        # Utilise le modèle BART pour générer le commentaire
-        output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
 
-        # Décode la sortie générée
-        generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
-
-        return generated_comment
+    # Transfère le tenseur d'entrée sur le périphérique si disponible
+    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    input_ids = input_tensor["input_ids"].unsqueeze(0)
+    attention_mask = input_tensor["attention_mask"].unsqueeze(0)
     
-    except Exception as e:
-        print(f"Une erreur s'est produite: {e}")
-        return None
+    # Déplace le modèle sur le périphérique si disponible
+    model = model
+
+
+    tokenizer.src_lang = "fr_XX"
+    # encoded_hi = tokenizer(fen_input, return_tensors="pt")
+    generated_tokens = model.generate(input_ids=input_ids, attention_mask=attention_mask, forced_bos_token_id=tokenizer.lang_code_to_id["en_XX"])
+    comment = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
+    print(type(comment))
+
+
+
+    # # Utilise le modèle BART pour générer le commentaire
+    # output_ids = model.generate(input_ids, attention_mask, max_length=50, num_beams=4, early_stopping=True)
+
+    # # Décode la sortie générée
+    # generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+    return comment[0]
+    
+    # except Exception as e:
+    #     print(f"Une erreur s'est produite: {e}")
+    #     return None
+
+
+
+
+input_fen = "5rk1/1p4pp/1q2p3/p2p4/Pn4Q1/1PNP4/2PK1PPP/4R3 b - - 3 22"
+generated_comment = comment_generation_model_test_2(model, input_fen, tokenizer, fen_vocab)
+print("Generated Comment:", generated_comment)
