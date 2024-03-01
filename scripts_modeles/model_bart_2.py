@@ -13,7 +13,7 @@ else:
     print("GPU non disponible")
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, encode_fen, encode_comment, tokenize_comment, select_reduced_corpus
+from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_comment, get_comments_st_notation_vocab, get_st_notation_vocab, tokenize_comment, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -45,28 +45,28 @@ fen_vocab_file = '../fen_vocab.txt'
 all_st_notation_vocab_file = '../all_st_notation_vocab.txt'
 comments_st_notation_vocab_file = '../comments_st_notation_vocab.txt'
 
-# # Vérifie si les fichiers existent
-# if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
-#     # Charge les variables à partir des fichiers
-with open(fen_vocab_file, 'r') as f:
-    fen_vocab = f.read().splitlines()
-with open(all_st_notation_vocab_file, 'r') as f:
-    all_st_notation_vocab = f.read().splitlines()
-with open(comments_st_notation_vocab_file, 'r') as f:
-    comments_st_notation_vocab = f.read().splitlines()
-# else:
-#     # Initialise les variables
-#     fen_vocab = get_FEN_vocab()
-#     all_st_notation_vocab = get_st_notation_vocab()
-#     comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
+# Vérifie si les fichiers existent
+if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
+    # Charge les variables à partir des fichiers
+    with open(fen_vocab_file, 'r') as f:
+        fen_vocab = f.read().splitlines()
+    with open(all_st_notation_vocab_file, 'r') as f:
+        all_st_notation_vocab = f.read().splitlines()
+    with open(comments_st_notation_vocab_file, 'r') as f:
+        comments_st_notation_vocab = f.read().splitlines()
+else:
+    # Initialise les variables
+    fen_vocab = get_FEN_vocab()
+    all_st_notation_vocab = get_st_notation_vocab()
+    comments_st_notation_vocab = get_comments_st_notation_vocab(all_st_notation_vocab)
 
-#     # Sauvegarde les variables dans des fichiers
-#     with open(fen_vocab_file, 'w') as f:
-#         f.write('\n'.join(fen_vocab))
-#     with open(all_st_notation_vocab_file, 'w') as f:
-#         f.write('\n'.join(all_st_notation_vocab))
-#     with open(comments_st_notation_vocab_file, 'w') as f:
-#         f.write('\n'.join(comments_st_notation_vocab))
+    # Sauvegarde les variables dans des fichiers
+    with open(fen_vocab_file, 'w') as f:
+        f.write('\n'.join(fen_vocab))
+    with open(all_st_notation_vocab_file, 'w') as f:
+        f.write('\n'.join(all_st_notation_vocab))
+    with open(comments_st_notation_vocab_file, 'w') as f:
+        f.write('\n'.join(comments_st_notation_vocab))
 
 # Ajoute les caractères du vocabulaire FEN à l'objet tokenizer
 tokenizer.add_tokens(fen_vocab)
@@ -87,16 +87,16 @@ def get_X_and_y_encoded_comment():
     y = []
 
 ########################## LIGNE A DECOMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ##########################
-    # # Parcourt tous les fichiers CSV dans le corpus
-    # for csv_match_path in glob.glob(corpus_path):
+    # Parcourt tous les fichiers CSV dans le corpus
+    for csv_match_path in glob.glob(corpus_path):
 ########################## A DECOMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS ##############################
 
 ########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
-    # On obtient la liste des csv composant le corpus plus petit
-    restricted_corpus = select_reduced_corpus(corpus_path, max_files=100)
+    # # On obtient la liste des csv composant le corpus plus petit
+    # restricted_corpus = select_reduced_corpus(corpus_path, max_files=300)
 
-    # Itération sur les csv sélectionnés
-    for csv_match_path in restricted_corpus:
+    # # Itération sur les csv sélectionnés
+    # for csv_match_path in restricted_corpus:
 ############################## LIGNES A COMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS #####################
         
         # Débute le calcul du temps pour une boucle spécifique
@@ -127,8 +127,11 @@ def get_X_and_y_encoded_comment():
     # Retourne les données d'entraînement et de test
     return train_encodings_fens, test_encodings_fens, train_encoding_comments, test_encoding_comments
 
+
 # Fonction pour extraire les tenseurs à partir d'une liste de dictionnaires
 def extract_tensors(data):
+
+    # Extrait les tenseurs à partir des données d'entraînement
     input_ids_list = [item["input_ids"] for item in data]
     attention_mask_list = [item["attention_mask"] for item in data]
     
@@ -136,7 +139,9 @@ def extract_tensors(data):
     input_ids_tensor = torch.stack(input_ids_list, dim=0)
     attention_mask_tensor = torch.stack(attention_mask_list, dim=0)
     
+    # Retourne les tenseurs
     return input_ids_tensor, attention_mask_tensor
+
 
 # Fonction pour préparer les données d'entraînement pour le modèle BART
 def get_X_train_X_test_dataset_comment():
@@ -172,7 +177,6 @@ def get_X_train_X_test_dataset_comment():
     # Retourne train_loader, test_loader
     return train_loader, test_loader
 
-train_loader, test_loader = get_X_train_X_test_dataset_comment()
 
 # Fonction pour entraîner le modèle BART
 def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2e-5):
@@ -215,6 +219,7 @@ def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2
             
             print("Entraînement du batch terminé")
 
+            # Nettoie la mémoire
             del batch, outputs, loss
 
         # Affiche la perte moyenne pour l'époque
@@ -222,6 +227,7 @@ def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2
 
     print('Entraînement terminé!')
 
+    # Sauvegarde le modèle
     model_path = os.getcwd() + '/model_BART_2.pt'
     model.save_pretrained(model_path)
 
@@ -230,9 +236,7 @@ def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2
     return model_path
 
 
-train_BART_model(train_loader, model, device, num_epochs=1, learning_rate=2e-5)
-
-
+# Fonction pour évaluer le modèle BART
 def evaluate_BART_model(test_loader, model, device):
 
     # Définit le modèle en mode d'évaluation
@@ -269,12 +273,15 @@ def evaluate_BART_model(test_loader, model, device):
     
     print(f'Précision: {accuracy:.4f}')
     
+    # Retourne la précision
     return accuracy
+
 
 # Fonction pour tester le modèle de génération de commentaires
 def comment_generation_model_test_2(model, fen_input, tokenizer, encode_fen):
+
     try:
-        
+
         # Encode l'entrée FEN
         input_tensor = encode_fen(fen_input)
 
@@ -291,6 +298,7 @@ def comment_generation_model_test_2(model, fen_input, tokenizer, encode_fen):
         # Décode la sortie générée
         generated_comment = tokenizer.decode(output_ids[0], skip_special_tokens=True)
 
+        # Retourne le commentaire généré
         return generated_comment
     
     except Exception as e:
