@@ -1,8 +1,3 @@
-# # Assurez-vous que la GPU est disponible
-# import torch
-# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-
 # Téléchargement du modèle BART et de son tokeniseur
 from download_BART_model import download_tokenizer
 tokenizer = download_tokenizer()
