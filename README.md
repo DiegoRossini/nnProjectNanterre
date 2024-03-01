@@ -31,7 +31,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment) ;
     - Une fonction qui renvoie, pour une notation UCI en entrée, une notation UCI encodée (encoded_uci).
 
-5. **model_test_1.py = BASELINE**
+5. **model_bart_1.py = BASELINE**
     Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. La génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
 
 6. **model_test_2.py = MODELE DE GENERATION DE COMMENTAIRE**
