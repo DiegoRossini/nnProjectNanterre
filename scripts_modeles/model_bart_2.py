@@ -40,9 +40,9 @@ corpus_path = find_corpus_folder(directory='corpus_csv')
 corpus_path = os.path.join(corpus_path, "*.csv")
 
 # Définit les chemins pour sauvegarder/charger les variables
-fen_vocab_file = '../fen_vocab.txt'
-all_st_notation_vocab_file = '../all_st_notation_vocab.txt'
-comments_st_notation_vocab_file = '../comments_st_notation_vocab.txt'
+fen_vocab_file = 'fen_vocab.txt'
+all_st_notation_vocab_file = 'all_st_notation_vocab.txt'
+comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
 
 # Vérifie si les fichiers existent
 if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
@@ -76,7 +76,6 @@ tokenizer.save_pretrained(os.getcwd())
 # Ajuste la taille des embeddings pour correspondre à la taille du nouveau vocabulaire
 model.resize_token_embeddings(len(tokenizer))
 print("Taille du vocabulaire mise à jour:", len(tokenizer))
-print("Tous les vocabulaires sont prêts")
 
 # Fonction pour extraire les FEN et les commentaires encodés
 def get_X_and_y_encoded_comment():
@@ -222,7 +221,7 @@ def train_BART_model(train_loader, model, device, num_epochs=10, learning_rate=2
             del batch, outputs, loss
 
         # Affiche la perte moyenne pour l'époque
-        print(f'Époque {epoch + 1}/{num_epochs}, Perte: {total_loss/len(train_loader):.4f}')
+        print(f'Epoch {epoch + 1}/{num_epochs}, Loss: {total_loss/len(train_loader):.4f}')
 
     print('Entraînement terminé!')
 
