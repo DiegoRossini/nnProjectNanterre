@@ -1,6 +1,5 @@
-import torch
-
 # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
+import torch
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
