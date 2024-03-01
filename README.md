@@ -2,9 +2,7 @@
 
 Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l'Université Paris Nanterre.
 
-**----Travail en cours----**
-
-**Objectif** : construire une app de TAL constituée d'une interface où l'utilisateur peut rentrer des coups d'échecs et recevoir un commentaire à chaque coup, qui sera généré automatiquement par un modèle BART pré-entraîné et fine-tunné par nos soins. Le modèle est capable de générer un commentaire à partir d'une notation FEN passée en entrée.
+**Objectif** : construire une app de TAL constituée d'une interface où l'utilisateur peut rentrer des coups d'échecs et recevoir un commentaire à chaque coup, qui sera généré automatiquement par un modèle BART pré-entraîné et fine-tunné sur nos data. Le modèle sera capable de générer un commentaire à partir d'une notation FEN passée en entrée.
 
 ## BACKEND
 
@@ -22,14 +20,14 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - **Comment** ("jusqu'à présent, tout va bien...") : commentaire relatif au coup.
 
 3. **download_BART_model.py**  
-    Ce script télécharge localement le modèle BART "facebook/bart-large" et son Tokenizer.
+    Ce script télécharge depuis la librairie Transformers de HF le modèle BART "facebook/bart-large" et son Tokenizer, et le modèle MBartForConditionalGeneration et son tokenizer MBart50TokenizerFast.
 
 4. **pre_processing.py**  
     Ce script contient :
     - Une fonction qui renvoie le chemin du dossier contenant les csv des matchs (find_corpus_folder) ;
-    - Une fonction qui renvoie, pour une notation FEN en entrée, une notation FEN encodée (encode_fen) ;
-    - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment) ;
-    - Une fonction qui renvoie, pour une notation UCI en entrée, une notation UCI encodée (encoded_uci).
+    - Une fonction qui renvoie, pour une notation FEN en entrée, une notation FEN encodée (encode_fen) avec le tokenizer de BART ;
+    - Une fonction qui renvoie, pour un commentaire en entré, un commentaire encodée (encode_comment) avec le tokenizer de BART ;
+    - Une fonction qui renvoie, pour une notation UCI en entrée, une notation UCI encodée (encoded_uci) avec le tokenizer de BART.
 
 5. **model_bart_1.py = BASELINE**
     Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. La génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
@@ -62,6 +60,14 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_bart_2.py` et `model_bart_3.py` pour préparer les données et les loaders d'entraînement.
 
 9. **model_mbart.py = MODELE DE GENERATION DE COMMENTAIRE (approche avec un modèle de traduction automatique)**
+   Ce script vise à l'entraînement d'un modèle MBART pour la génération de commentaires sur les parties d'échecs. Voici les principales étapes de ce script :
+    - Téléchargement et initialisation du modèle MBART ainsi que de son tokenizer.
+    - Extraction des données nécessaires pour le fine-tuning, y compris les vocabulaires pour les différentes tâches.
+    - Fine-tuning du modèle MBART sur les données d'entraînement pour la génération de commentaires.
+    - Évaluation des performances du modèle fine-tuné.
+    - Fonction pour générer un commentaire à partir d'une position d'échecs donnée.
+    La langue cible choisie estle chinois ("Zh_CN") car elle est segmentée caractère par caractère, ce qui correspond à notre tokenization de la FEN. La langue cible est l'anglais.
+
 
 **WARNING**
 
@@ -72,17 +78,28 @@ En raison des performances limitées du GPU à notre disposition, l'entraînemen
 - Taille du lot (Batch_size) = 4
 - Temps d'entraînement : environ 3 jours sur nos machines personnelles
 
-Les résultats très peu satisfaisant du modèle 4 nous ont amené à essayer un autre modèle : MBart.
+Les résultats très peu satisfaisant (génération de ponctuation uniquement) du modèle 4 nous ont amené à essayer un autre modèle : MBart50, pré-entraîné à la traduction, et non à la summerization.
+
+Nous avons donc ré-entraîné un modèle Mbart50 sur nos données, malheureusement, une fois encore, la puissance de nos machines à été très limitante. Nous avons pu entraîné au max 12h, sur une batch_size de 1, donc sur (trop) peu d'exemples.
+
+C'est pourquoi ce modèle génère des commentaires qui n'ont aucun sens, mais au moins il génère des mots ! Nous considérons donc ceci comme une réussite.
 
 ## FRONTEND ET API
 
 HTML, CSS, JS.  
-Le but est de créer un site web avec FastAPI et Jinja.  
 
+Pour le design graphique, nous avons opté pour l'utilisation d'une template qui nous plaisait : "Gallerised", de OS Templates; et de l'utilisation de Bootstrap.
 
-#2 Partie server : fast_api
+Pour avoir un board d'échec, il a fallu recourir à la librairie js "chessboard.js" (chessboard.js v1.0.0 | (c) 2019 Chris Oakman | MIT License chessboardjs.com/license). Comme la doc de cette librairie conseillait d'installer chessboard via npm, il a fallu installer node et npm sur nos ordinateurs, et faire de ce projet un projet node. Mais, faute de complications et d'allourdissement inutiles, nous avons abandonné cette idée.
 
-Le fichier "main.py". Work in progress...
+Chessboard permet l'affichage d'un board d'échec, mais il n'y a pas la logique des échecs intégrée à cette librairie. Pour cela, il a fallu installer une autre librairie js : chess.js (Copyright (c) 2023, Jeff Hlywa (jhlywa@gmail.com)).
+
+Cette librairie nous a posé des difficultés à utiliser car elle est écrite en TypeScript. Il a donc fallu la convertir en js (un essai à été fait de la transpiler/compiler grâce à Babel, puis Webpack).
+Cette librairie permet de jouer aux échecs sur le board de notre site selon les règles (seuls les coups légaux seront acceptés par exemple).
+
+## 2 Partie server : fast_api
+
+La connexion entre le modèle et le frontend est faite via un server créé avec fastAPI, et grâce à Jinja pour le rendu du frontend.
 
 ## SOURCES
 
