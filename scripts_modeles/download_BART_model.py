@@ -11,10 +11,12 @@ def download_tokenizer():
     tokenizer = BartTokenizer.from_pretrained("facebook/bart-large")
     return tokenizer
 
+# Téléchargement du modèle MBART
 def download_mbart_model():
     mbart_model = MBartForConditionalGeneration.from_pretrained("facebook/mbart-large-50-many-to-many-mmt") 
     return mbart_model
 
+# Téléchargement du tokenizer MBART
 def download_mbart_tokenizer():
     tokenizer = MBart50TokenizerFast.from_pretrained("facebook/mbart-large-50-many-to-many-mmt", src_lang="zh_CN", tgt_lang="en_XX")
     return tokenizer
