@@ -34,7 +34,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 5. **model_bart_1.py = BASELINE**
     Ce script utilise le modèle BART pour générer un commentaire à partir d'une notation FEN donnée en entrée. C'est une version de base. La génération est de très mauvaise qualité et le modèle n'est pas entraîné sur les données contenues dans le dossier "corpus_csv".
 
-6. **model_test_2.py = MODELE DE GENERATION DE COMMENTAIRE**
+6. **model_bart_2.py = MODELE DE GENERATION DE COMMENTAIRE**
     Ce script est dédié au fine-tuning du modèle BART pour la génération de commentaires à partir de notations FEN d'échecs. Voici les étapes principales de ce script :
     - Chargement des données d'entraînement et de test préparées à partir des parties d'échecs annotées.
     - Entraînement du modèle BART sur les données d'entraînement pour adapter le modèle à la tâche de génération de commentaires.
@@ -42,7 +42,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Test du modèle fine-tuné en générant un commentaire pour une notation FEN donnée à titre d'exemple.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement.
 
-7. **model_test_3.py = MODELE POUR JOUER AUX ECHECS**
+7. **model_bart_3.py = MODELE POUR JOUER AUX ECHECS**
     Ce script est conçu pour le fine-tuning du modèle BART afin de générer des mouvements d'échecs en notation UCI à partir de positions d'échecs en notation FEN. Voici les étapes principales de ce script :
     - Téléchargement et initialisation du modèle BART ainsi que de son tokenizer.
     - Extraction des données d'entraînement et de test à partir des parties d'échecs annotées.
@@ -51,7 +51,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Prédiction du prochain mouvement d'échecs à partir d'une position donnée en notation FEN en utilisant le modèle fine-tuné.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement.
 
-8. **model_test_4.py = MODELE MULTITACHE (génère commentaire et joue aux échecs)**
+8. **model_bart_4.py = MODELE MULTITACHE (génère commentaire et joue aux échecs)**
     Ce script vise à l'entraînement d'un modèle BART en utilisant une approche multi-tâches pour la génération de commentaires sur les parties d'échecs et la prédiction des prochains mouvements en notation UCI. Voici les principales étapes de ce script :
     - Téléchargement et initialisation du modèle BART ainsi que de son tokenizer.
     - Extraction des données nécessaires pour le fine-tuning, y compris les vocabulaires pour les différentes tâches.
@@ -59,7 +59,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Utilisation d'une approche multi-tâches pour entraîner le modèle, combinant les données d'entraînement pour les deux tâches.
     - Évaluation des performances du modèle fine-tuné.
     - Fonction pour générer à la fois un commentaire et un mouvement à partir d'une position d'échecs donnée.
-    Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_test_2.py` et `model_test_3.py` pour préparer les données et les loaders d'entraînement.
+    Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_bart_2.py` et `model_bart_3.py` pour préparer les données et les loaders d'entraînement.
 
 **WARNING**
 

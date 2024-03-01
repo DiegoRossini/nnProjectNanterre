@@ -5,7 +5,7 @@ gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
 print(torch.__version__)
 
-# Vérifie si un GPU est disponible
+# Vérifie si une GPU est disponible
 if torch.cuda.is_available():
     print("GPU disponible")
 else:
@@ -46,6 +46,7 @@ comments_st_notation_vocab_file = 'comments_st_notation_vocab.txt'
 
 # Vérifie si les fichiers existent
 if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file) and os.path.exists(comments_st_notation_vocab_file):
+    
     # Charge les variables à partir des fichiers
     with open(fen_vocab_file, 'r') as f:
         fen_vocab = f.read().splitlines()
@@ -54,6 +55,7 @@ if os.path.exists(fen_vocab_file) and os.path.exists(all_st_notation_vocab_file)
     with open(comments_st_notation_vocab_file, 'r') as f:
         comments_st_notation_vocab = f.read().splitlines()
 else:
+
     # Initialise les variables
     fen_vocab = get_FEN_vocab()
     all_st_notation_vocab = get_st_notation_vocab()

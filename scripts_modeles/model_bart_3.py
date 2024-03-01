@@ -1,19 +1,18 @@
+# Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
 import torch
-
-# # Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
 print(torch.__version__)
 
-# # Vérifie si une GPU est disponible
-# if torch.cuda.is_available():
-#     print("GPU disponible")
-# else:
-#     print("GPU non disponible")
+# Vérifie si une GPU est disponible
+if torch.cuda.is_available():
+    print("GPU disponible")
+else:
+    print("GPU non disponible")
 
-# Téléchargements des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, encode_fen, encode_uci, select_reduced_corpus
+# Téléchargement des fonctions de prétraitement nécessaires
+from pre_processing import find_corpus_folder, encode_fen, get_FEN_vocab, encode_uci, get_uci_vocab, select_reduced_corpus
 
 # Importations générales nécessaires
 from torch.utils.data import DataLoader, TensorDataset
@@ -41,29 +40,29 @@ corpus_path = find_corpus_folder(directory='corpus_csv')
 corpus_path = os.path.join(corpus_path, "*.csv")
 
 # Définit les chemins pour enregistrer/charger les variables
-fen_vocab_file = '../fen_vocab.txt'
-uci_vocab_file = '../uci_vocab.txt'
+fen_vocab_file = 'fen_vocab.txt'
+uci_vocab_file = 'uci_vocab.txt'
 
-# # Vérifie si les fichiers existent
-# if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
+# Vérifie si les fichiers existent
+if os.path.exists(fen_vocab_file) and os.path.exists(uci_vocab_file):
 
     # Charge les variables à partir des fichiers
-with open(fen_vocab_file, 'r') as f:
-    fen_vocab = f.read().splitlines()
-with open(uci_vocab_file, 'r') as f:
-    uci_vocab = f.read().splitlines()
+    with open(fen_vocab_file, 'r') as f:
+        fen_vocab = f.read().splitlines()
+    with open(uci_vocab_file, 'r') as f:
+        uci_vocab = f.read().splitlines()
 
-# else:
+else:
 
-#     # Initialise les variables
-#     fen_vocab = get_FEN_vocab()
-#     uci_vocab = get_uci_vocab()
+    # Initialise les variables
+    fen_vocab = get_FEN_vocab()
+    uci_vocab = get_uci_vocab()
 
-#     # Enregistre les variables dans les fichiers
-#     with open(fen_vocab_file, 'w') as f:
-#         f.write('\n'.join(fen_vocab))
-#     with open(uci_vocab_file, 'w') as f:
-#         f.write('\n'.join(uci_vocab))
+    # Enregistre les variables dans les fichiers
+    with open(fen_vocab_file, 'w') as f:
+        f.write('\n'.join(fen_vocab))
+    with open(uci_vocab_file, 'w') as f:
+        f.write('\n'.join(uci_vocab))
 
 # # Ajoute les tokens de vocabulaire FEN à l'objet tokenizer
 tokenizer.add_tokens(fen_vocab)
@@ -77,7 +76,6 @@ tokenizer.save_pretrained(os.getcwd())
 # # Adaptation de la taille des embeddings à la taille du nouveau vocabulaire
 model.resize_token_embeddings(len(tokenizer))
 print("Taille du vocabulaire mise à jour:", len(tokenizer))
-print("Tous les vocabulaires sont prêts")
 
 # Fonction d'extraction des FEN et des UCI encodés
 def get_X_and_y_encoded_uci():
@@ -88,16 +86,16 @@ def get_X_and_y_encoded_uci():
 
 
 ########################## LIGNE A DECOMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ##########################
-    # # Parcourt tous les fichiers CSV dans le corpus
-    # for csv_match_path in glob.glob(corpus_path):
+    # Parcourt tous les fichiers CSV dans le corpus
+    for csv_match_path in glob.glob(corpus_path):
 ########################## A DECOMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS ##############################
 
 ########################## LIGNES A COMMENTER SI ON VEUT ENTRAINER SUR TOUT LE CORPUS ###########################
-    # On obtient la liste des csv composant le corpus plus petit
-    restricted_corpus = select_reduced_corpus(corpus_path, max_files=100)
+    # # On obtient la liste des csv composant le corpus plus petit
+    # restricted_corpus = select_reduced_corpus(corpus_path, max_files=100)
 
-    # Itération sur les csv sélectionnés
-    for csv_match_path in restricted_corpus:
+    # # Itération sur les csv sélectionnés
+    # for csv_match_path in restricted_corpus:
 ############################## LIGNES A COMMENTER SI L'ON VEUT ENTRAINER SUR TOUT LE CORPUS #####################
 
         # Commence le calcul temporel d'une boucle
@@ -149,9 +147,11 @@ def get_X_and_y_encoded_uci():
     # Output X_train, X_test, y_train, y_test
     return train_fen_encodings, test_fen_encodings, train_uci_encodings, test_uci_encodings
 
+
 # Fonction pour extraire les tenseurs à partir d'une liste de dictionnaires
 def extract_tensors(data):
     
+    # Extrait les tenseurs des données
     input_ids_list = [item["input_ids"] for item in data]
     attention_mask_list = [item["attention_mask"] for item in data]
     
@@ -159,8 +159,11 @@ def extract_tensors(data):
     input_ids_tensor = torch.stack(input_ids_list, dim=0)
     attention_mask_tensor = torch.stack(attention_mask_list, dim=0)
     
+    # Retourne les tenseurs
     return input_ids_tensor, attention_mask_tensor
 
+
+# Fonction pour préparer les données d'entraînement pour le modèle BART
 def get_X_train_X_test_dataset_uci():
 
     # Obtention des X_train et X_test encodés
@@ -193,8 +196,8 @@ def get_X_train_X_test_dataset_uci():
     # Output train_loader, test_loader
     return train_loader, test_loader
 
-train_loader, test_loader = get_X_train_X_test_dataset_uci()
 
+# Fonction pour entraîner le modèle BART
 def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5):
 
     # Envoie le modèle au dispositif
@@ -235,13 +238,15 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
             
             print("Entraînement du batch terminé")
 
+            # Libère la mémoire du GPU
             del batch, outputs, loss
 
         # Affiche la perte moyenne pour l'époque
-        print(f'Époque {epoch + 1}/{num_epochs}, Perte: {total_loss/len(train_loader):.4f}')
+        print(f'Epoch {epoch + 1}/{num_epochs}, Loss: {total_loss/len(train_loader):.4f}')
 
     print('Entraînement terminé !')
 
+    # Enregistre le modèle
     model_path = os.getcwd() + '/model_BART_3.pt'
     model.save_pretrained(model_path)
 
@@ -249,8 +254,8 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
 
     return model_path
 
-train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e-5)
 
+# Fonction pour évaluer le modèle BART
 def evaluate_BART_model(test_loader, model, device):
     # Met le modèle en mode évaluation
     model.eval()
@@ -282,9 +287,13 @@ def evaluate_BART_model(test_loader, model, device):
     
     print(f'Précision : {accuracy:.4f}')
     
+    # Retourne la précision
     return accuracy
 
+
+# Fonction pour tester le modèle de génération de UCI
 def predict_next_move(fen_input, model, tokenizer, encode_fen, fen_vocab):
+
     try:
         # Encode l'entrée FEN
         encoded_fen = encode_fen(fen_input, fen_vocab)
@@ -302,6 +311,7 @@ def predict_next_move(fen_input, model, tokenizer, encode_fen, fen_vocab):
         # Décode la sortie générée
         generated_next_move = tokenizer.decode(output_ids[0], skip_special_tokens=True)
 
+        # Retourne le UCI généré
         return generated_next_move
     
     except Exception as e:
