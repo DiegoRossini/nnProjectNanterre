@@ -1,13 +1,11 @@
-# Utilisation de la GPU si possible
+# Vérifie si une unité de traitement graphique (GPU) est disponible et l'utilise si c'est le cas
 import torch
-
-# Détermine si la GPU est disponible
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 gpu_name = torch.cuda.get_device_name(device)
 print("Nom de la GPU:", gpu_name)
-print("Version de torch:", torch.__version__)
+print(torch.__version__)
 
-# Vérifie si la GPU est disponible
+# Vérifie si une GPU est disponible
 if torch.cuda.is_available():
     print("GPU disponible")
 else:
@@ -15,7 +13,7 @@ else:
 
 
 # Téléchargement des fonctions de prétraitement nécessaires
-from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get_st_notation_vocab, get_comments_st_notation_vocab, encode_fen, tokenize_comment, encode_comment
+from pre_processing import find_corpus_folder, get_FEN_vocab, get_uci_vocab, get_st_notation_vocab, get_comments_st_notation_vocab, encode_fen
 
 
 # Importations générales nécessaires
@@ -26,7 +24,6 @@ import numpy as np
 
 # Importations concernant BART
 from download_BART_model import download_model, download_tokenizer
-from transformers import BartForConditionalGeneration, BartTokenizer
 
 # Initialisation d'un modèle (avec des poids aléatoires) à partir de la configuration de style facebook/bart-large
 model = download_model()
@@ -98,14 +95,14 @@ print("Tous les vocabulaires sont prêts")
 
 
 # Importations pour la création du train_loader pour les commentaires et l'UCI
-from model_test_2 import get_X_train_X_test_dataset_comment
-from model_test_3 import get_X_train_X_test_dataset_uci
+from model_bart_2 import get_X_train_X_test_dataset_comment
+from model_bart_3 import get_X_train_X_test_dataset_uci
 
 
 # Obtient les chargeurs de données d'entraînement et de test pour la génération de commentaires
-# train_loader_comment, test_loader_comment = get_X_train_X_test_dataset_comment()
+train_loader_comment, test_loader_comment = get_X_train_X_test_dataset_comment()
 # Obtient les chargeurs de données d'entraînement et de test pour la prédiction UCI
-# train_loader_uci, test_loader_uci = get_X_train_X_test_dataset_uci()
+train_loader_uci, test_loader_uci = get_X_train_X_test_dataset_uci()
 
 
 # Fonction pour entraîner BART avec une approche multi-tâches
@@ -162,9 +159,11 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
             # Passage arrière
             loss = loss_comment + loss_uci
             loss.backward()
+
             # Met à jour les poids
             optimizer.step()
 
+            # Libère de la mémoire
             del batch_comment, batch_uci, outputs_comment, outputs_uci, loss_comment, loss_uci, loss
 
             end_time_batch = time.time()
@@ -181,6 +180,7 @@ def train_BART_model_multitask(train_loader_comment, train_loader_uci, model, de
 
     print('Entraînement terminé !')
 
+    # Enregistre le modèle
     model_path = os.getcwd() + '/model_BART_4.pt'
     model.save_pretrained(model_path)
 
@@ -237,6 +237,7 @@ def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
             end_time = time.time()
             print(f"Durée totale évaluation du batch : {end_time - start_time}")
 
+            # Libère de la mémoire
             del batch_comment, batch_uci, outputs_comment, outputs_uci, predictions_comment, predictions_uci
     
     # Calcule la précision
@@ -251,48 +252,64 @@ def evaluate_BART_model(test_loader_comment, test_loader_uci, model, device):
     print(f'Précision (Commentaires) : {accuracy_comment:.4f}')
     print(f'Précision (UCI) : {accuracy_uci:.4f}')
     
+    # Retourne la précision
     return accuracy_comment, accuracy_uci
 
 
-# evaluate_BART_model(test_loader_comment, test_loader_uci, model, device)
-
-
-# Chargement du modèle fine-tuné
-model_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/model_BART_4.pt"
-model = BartForConditionalGeneration.from_pretrained(model_path)
-tokenizer_path = "C:/Users/diego/Desktop/Git/nnProjectNanterre/"
-tokenizer = BartTokenizer.from_pretrained(tokenizer_path)
-
-
-
+# Fonction pour tester le modèle de génération de commentaires
 def generate_comment_from_fen(fen_notation, model, tokenizer, device, fen_vocab):
 
-    model.to(device)
+    try:
+
+        # Envoie le modèle sur le GPU
+        model.to(device)
+        
+        # Tokenise la notation FEN d'entrée
+        encoded_input = encode_fen(fen_notation, fen_vocab)
+        input_ids = encoded_input["input_ids"].unsqueeze(0).to(device)
+        attention_mask = encoded_input["attention_mask"].unsqueeze(0).to(device)
+
+        # Generate comment from the model
+        model.eval()
+        with torch.no_grad():
+            generated_ids = model.generate(input_ids, attention_mask=attention_mask,
+                                        max_length=100, num_beams=4, early_stopping=True)
+        
+        # Decode the generated comment
+        generated_comment = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
     
-    # Tokenise la notation FEN d'entrée
-    encoded_input = encode_fen(fen_notation, fen_vocab)
-    input_ids = encoded_input["input_ids"].unsqueeze(0).to(device)
-    attention_mask = encoded_input["attention_mask"].unsqueeze(0).to(device)
+        # Return the generated comment
+        return generated_comment
 
-    print(input_ids)
+    except Exception as e:
+        print(f"Une erreur s'est produite : {e}")
+        return None
 
-    # Generate comment from the model
-    model.eval()
-    with torch.no_grad():
-        generated_ids = model.generate(input_ids, attention_mask=attention_mask,
-                                       max_length=100, num_beams=4, early_stopping=True)
+
+# Fonction pour tester le modèle de génération de UCI
+def predict_next_move(fen_notation, model, tokenizer, device, fen_vocab):
+
+    try:
+
+        # Déplace le modèle au GPU s'il est disponible
+        model = model.to(device)
+
+        # Encode l'entrée FEN
+        encoded_fen = encode_fen(fen_notation, fen_vocab)
+
+        # Transfère le tenseur d'entrée au GPU s'il est disponible
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        input_tensor = encoded_fen.to(device)
+
+        # Utilise le modèle pour générer le commentaire
+        output_ids = model.generate(input_tensor.unsqueeze(0), max_length=50, num_beams=4, early_stopping=True)
+
+        # Décode la sortie générée
+        generated_next_move = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+        # Retourne le UCI généré
+        return generated_next_move
     
-    # Decode the generated comment
-    # generated_comment = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
-    
-    return generated_ids
-
-
-
-# Assuming 'model' and 'tokenizer' are already defined and loaded
-input_fen = "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
-generated_comment = generate_comment_from_fen(input_fen, model, tokenizer, device, fen_vocab)
-print("Generated Comment:", generated_comment)
-
-
-# BISOGNA TOGLIERE COMMENTO AL TEST ET TRAIN LOADER!!!!!
+    except Exception as e:
+        print(f"Une erreur s'est produite : {e}")
+        return None
