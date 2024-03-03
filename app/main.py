@@ -6,7 +6,6 @@ from fastapi.staticfiles import StaticFiles
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import chess
 import chess.svg
-# from model_test_1 import comment_generation_model_test_1
 from mbart_comment import comment_generation
 
 # Création de l'application FastAPI
@@ -18,11 +17,13 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 # Initialisation de l'instance Jinja2Templates
 templates = Jinja2Templates(directory="templates")
 
+# La page d'accueil de l'application
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     # Rendre le HTML en utilisant le modèle Jinja
     return templates.TemplateResponse("index.html", {"request": request})
 
+# La page "about" de l'application
 @app.get("/about", response_class=HTMLResponse)
 async def home(request: Request):
     # Rendre le HTML en utilisant le modèle Jinja
@@ -30,11 +31,11 @@ async def home(request: Request):
 
 @app.post("/submit_fen")
 async def submit_fen(request: Request):
-    # Obtenir les données du formulaire soumises par l'utilisateur
+    # Obtenir les données du formulaire soumises par l'utilisateur (ici, la notation FEN du tableau de jeu)
     form_data = await request.form()
     fen = form_data["fen"]
 
-    # Générer le commentaire
+    # Générer le commentaire à partir de la fen
     comment = comment_generation(fen)
     
     print("commentaire : ", comment)
@@ -48,6 +49,7 @@ env = Environment(
     autoescape=select_autoescape(['html', 'xml'])
 )
 
+# La page play de l'application
 @app.get("/board", response_class=HTMLResponse)
 async def render_chess_board():
     board = chess.Board()

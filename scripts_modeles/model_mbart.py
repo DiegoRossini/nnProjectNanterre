@@ -192,7 +192,7 @@ def train_BART_model(train_loader, model, device, num_epochs=5, learning_rate=2e
     print('START : Entraînement du modèle BART')
 
     # Envoie le modèle sur le périphérique
-    model
+    # model
 
     # Définit l'optimiseur
     optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
@@ -309,8 +309,7 @@ def comment_generation_model_test_2(model, fen_input, tokenizer):
     # try:
         
     # Encode l'entrée FEN
-    input_tensor = encode_fen(fen_input)
-
+    # input_tensor = encode_fen(fen_input)
 
 
     # Transfère le tenseur d'entrée sur le périphérique si disponible

@@ -1,7 +1,4 @@
-# from pre_processing import encode_fen
-import os
-import torch
-
+# Description: Génération de commentaires pour les parties d'échecs en utilisant le modèle fine-tuné MBart
 # Chargement du modèle fine-tuné
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast, BartTokenizer
 
@@ -22,8 +19,14 @@ def encode_fen(input_fen):
     # La sortie est une séquence d'entiers en tensor
     return encoded_fen
 
+# Fonction avec modèle de base pour générer un commentaire à partir d'une notation FEN
+def baseline(fen):
+    tokenizer.src_lang = "Zh_CN"
+    encoded_fen = tokenizer(fen, return_tensors="pt")
+    generated_tokens = model.generate(**encoded_fen, forced_bos_token_id=tokenizer.lang_code_to_id["en_XX"])
+    return tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 
-
+    
 def comment_generation(fen_input):
     # Encode l'entrée FEN
     input_tensor = encode_fen(fen_input)
@@ -40,5 +43,7 @@ def comment_generation(fen_input):
 
 
 # input_fen = "5rk1/1p4pp/1q2p3/p2p4/Pn4Q1/1PNP4/2PK1PPP/4R3 b - - 3 22"
+# baseline_comment = baseline(input_fen)
+# print("Baseline Comment:", baseline_comment)
 # generated_comment = comment_generation(input_fen, model, tokenizer)
 # print("Generated Comment:", generated_comment)
