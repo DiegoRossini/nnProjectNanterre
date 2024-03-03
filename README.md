@@ -8,7 +8,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 
 **Ordre de lancement des scripts** :
 
-### MODELE 1 : BART
+### MODELE 1 : BART (facebook/bart-large, pas de medium ou small disponible)
 
 1. **links_collection.py**  
     Ce script parcourt le fichier "saved_links.p" qui contient les liens des parties annotées présentes dans la base de données de gameknot.com. En sortie, ce script donne une liste des liens présents dans le fichier.
@@ -61,7 +61,7 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Fonction pour générer à la fois un commentaire et un mouvement à partir d'une position d'échecs donnée.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_bart_2.py` et `model_bart_3.py` pour préparer les données et les loaders d'entraînement.
 
-### MODELE 2 : MBART
+### MODELE 2 : MBART (facebook/mbart-large-50-many-to-many-mmt, pas de medium ou small disponible). Modèle fine-tunné : "Mathou/Mbart_chess_comment"
 
 9. **model_mbart.py = MODELE DE GENERATION DE COMMENTAIRE (approche avec un modèle de traduction automatique)**
    Ce script vise à l'entraînement d'un modèle MBART pour la génération de commentaires sur les parties d'échecs. Voici les principales étapes de ce script :
@@ -88,6 +88,8 @@ Les résultats très peu satisfaisant (génération de ponctuation uniquement) d
 Nous avons donc ré-entraîné un modèle Mbart50 sur nos données, malheureusement, une fois encore, la puissance de nos machines à été très limitante. Nous avons pu entraîné au max 12h, sur une batch_size de 1, donc sur (trop) peu d'exemples.
 
 C'est pourquoi ce modèle génère des commentaires qui n'ont aucun sens, mais au moins il génère des mots ! Nous considérons donc ceci comme une réussite.
+
+Concernant l'évaluation, nous avons considérer une évaluation humaine, et elle s'est résolue en un score très très bas. Les phrases produites n'ont ni structure syntaxique ni sémantique correcte.
 
 ## FRONTEND ET API
 
