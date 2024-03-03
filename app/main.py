@@ -41,7 +41,7 @@ async def submit_fen(request: Request):
     print("commentaire : ", comment)
 
     # Renvoyer le commentaire en tant que réponse
-    return {"commentaire": comment}
+    return {"comment": comment}
 
 # Configuration de Jinja
 env = Environment(
