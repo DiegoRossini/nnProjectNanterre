@@ -6,7 +6,9 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
 
 ## BACKEND
 
-**Ordre de lancement des scripts (pour le moment)** :
+**Ordre de lancement des scripts** :
+
+### MODELE 1 : BART
 
 1. **links_collection.py**  
     Ce script parcourt le fichier "saved_links.p" qui contient les liens des parties annotées présentes dans la base de données de gameknot.com. En sortie, ce script donne une liste des liens présents dans le fichier.
@@ -59,14 +61,17 @@ Répertoire du projet de réseaux de neurones dans le cadre du Master 2 TAL à l
     - Fonction pour générer à la fois un commentaire et un mouvement à partir d'une position d'échecs donnée.
     Pour exécuter ce script, assurez-vous d'avoir les données préparées dans le répertoire "corpus_csv" et d'avoir exécuté les scripts nécessaires pour le téléchargement du modèle BART et son tokenizer, ainsi que pour les fonctions de prétraitement et les scripts `model_bart_2.py` et `model_bart_3.py` pour préparer les données et les loaders d'entraînement.
 
+### MODELE 2 : MBART
+
 9. **model_mbart.py = MODELE DE GENERATION DE COMMENTAIRE (approche avec un modèle de traduction automatique)**
    Ce script vise à l'entraînement d'un modèle MBART pour la génération de commentaires sur les parties d'échecs. Voici les principales étapes de ce script :
     - Téléchargement et initialisation du modèle MBART ainsi que de son tokenizer.
+    - une fonction de génération de commentaire avec le modèle de base (baseline) -> le commentaire généré ressemble à une fen.
     - Extraction des données nécessaires pour le fine-tuning, y compris les vocabulaires pour les différentes tâches.
     - Fine-tuning du modèle MBART sur les données d'entraînement pour la génération de commentaires.
     - Évaluation des performances du modèle fine-tuné.
     - Fonction pour générer un commentaire à partir d'une position d'échecs donnée.
-    La langue cible choisie estle chinois ("Zh_CN") car elle est segmentée caractère par caractère, ce qui correspond à notre tokenization de la FEN. La langue cible est l'anglais.
+    La langue source choisie est le chinois ("Zh_CN") car elle est segmentée caractère par caractère, ce qui correspond à notre tokenization de la FEN. La langue cible est l'anglais.
 
 
 **WARNING**
@@ -97,7 +102,7 @@ Chessboard permet l'affichage d'un board d'échec, mais il n'y a pas la logique 
 Cette librairie nous a posé des difficultés à utiliser car elle est écrite en TypeScript. Il a donc fallu la convertir en js (un essai à été fait de la transpiler/compiler grâce à Babel, puis Webpack).
 Cette librairie permet de jouer aux échecs sur le board de notre site selon les règles (seuls les coups légaux seront acceptés par exemple).
 
-## 2 Partie server : fast_api
+## Partie server : fast_api
 
 La connexion entre le modèle et le frontend est faite via un server créé avec fastAPI, et grâce à Jinja pour le rendu du frontend.
 
